@@ -1,415 +1,390 @@
-<!--The following is the downloaded HTML source of the rigzone.com privacy policy that was archived on 2002-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209184508id_/http%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rigzone.com privacy policy that was archived on 2003-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622104559id_/http%3A//rigzone.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>RIGZONE - </title>
 <meta name="description" content="Gateway to the oil and gas industry - rigzone.com is the upstream drilling - exploration portal.">
 <meta name="keywords" content="oil and gas exploration and production upstream offshore drilling rig">
 
+
+
 <link rel="stylesheet" href="/shared_code/styles.css">
 
 <script language="javascript" type="text/javascript">
-<!--
+//<!--
 function openhelp() {
-	var helpwin,myhelp;
-	helpwin = window.open("/help/default.htm", myhelp, 'width=440,height=420,scrollbars,resizable')
+	var helpwin;
+	helpwin = window.open('/help/default.htm', 'helpwin', 'width=440,height=420,scrollbars,resizable')
+}
+
+function HandleCheckBox (obj) {
+	if (obj	 == 1) {
+		if (document.newsForm1.NewsletterSignUp[1].checked == true ) {
+			document.newsForm1.NewsletterSignUp[0].checked = false		
+		}		
+	}	else if (obj == 8) {
+		if (document.newsForm1.NewsletterSignUp[0].checked == true ) {
+			document.newsForm1.NewsletterSignUp[1].checked = false		
+		}
+	} 		
+}
+
+function getCalSelection() {
+	document.newsForm1.NAVSubscription.value = 0;
+
+	var HowMany;
+	var count;
+	HowMany = (document.newsForm1.NewsletterSignUp.length - 1);
+
+	for (count = 0; count <= HowMany;count++) {
+		if (document.newsForm1.NewsletterSignUp[count].checked == true) {
+			document.newsForm1.NAVSubscription.value = parseInt(document.newsForm1.NAVSubscription.value) + parseInt(document.newsForm1.NewsletterSignUp[count].value);	
+		}
+	}
 }
 //-->
 </script>
 
 </head>
-<body bgcolor="#FFFFFF" link="#000066" alink="#0033CC" vlink="#000077" rightmargin="0" leftmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+<body bgcolor="#09004C" link="#000066" alink="#0033CC" vlink="#000077" rightmargin="0" leftmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
 
-<!-- START TOP LOGO TABLE -->
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr bgcolor="#FFFFFF"> 
-  <td colspan="2">
-  <img src="/images/spacer.gif" height="8" width="1" align="left" border="0" hspace="0" vspace="0">
-  </td>
-</tr>
-<tr bgcolor="#000000"> 
-  <td colspan="2">
-  <img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0">
-  </td>
-</tr>
-<tr valign="top" bgcolor="#00114E">
-  <td>
-  <a href="/default.asp">
-  <img src="/images/nav/RigzoneLogo.jpg" alt="rigzone.com" height="45" width="400" align="left" border="0" hspace="0" vspace="0"></a>
-  </td>
-  <td align="right" valign="top">
-  <img src="/images/spacer.gif" height="45" width="1" align="left" border="0" hspace="0" vspace="0">
-  
-  <a href="/default.asp" class="topNav">home</a>
-  &nbsp;&nbsp;
-  
-  <a href="/login.asp" class="topNav">log in</a>
-  &nbsp;&nbsp;
-  
-  <a href="/advertise/" class="topNav">advertise</a>
-  &nbsp;&nbsp;
-  <a href="/contactform.asp" class="topNav">contact</a>
-  &nbsp;&nbsp;
-  <a href="/sitemap.asp" class="topNav">site map</a>
-  &nbsp;&nbsp;  
-  <a href="javascript:openhelp()" class="topNav">help</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  </td>
-</tr>
-<tr>
-  <td bgcolor="#000000" width="90%">
-  <img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0">
-  </td>
-  <td bgcolor="#00114E" width="10%">
-  <img src="/images/spacer.gif" height="1" width="339" align="left" border="0" hspace="0" vspace="0">
-  </td>
+<!--START: TABLE WITH LOGO-->
+<table width="763" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="480" valign="bottom">
+	
+	<a href="/">
+	<img src="/images/navg/top_logo_480.jpg" alt="RIGZONE" height="60" width="480" border="0" hspace="0" vspace="0" align="left"></a>
+	
+	</td>
+	<td width="283" align="right" valign="top" nowrap="">
+	
+	<table border="0" cellspacing="0" cellpadding="3">
+	<tbody><tr valign="center">
+		<td nowrap="">
+		<img src="/images/navg/topnav_arrow.gif" alt="" height="7" width="8" valign="absmiddle">
+		
+		<a href="/login.asp" class="topNav">log in</a>
+		
+		</td>
+		<td nowrap="">
+		<img src="/images/navg/topnav_arrow.gif" alt="" height="7" width="8" valign="absmiddle">
+		<a href="/contactform.asp" class="topNav">contact</a>
+		</td>
+		<td nowrap="">
+		<img src="/images/navg/topnav_arrow.gif" alt="" height="7" width="8" valign="absmiddle">
+		<a href="/sitemap.asp" class="topNav">site map</a>
+		</td>
+		<td nowrap="">
+		<img src="/images/navg/topnav_arrow.gif" alt="" height="7" width="8" valign="absmiddle">
+		<a href="javascript:openhelp()" class="topNav">help</a>
+		</td>
+		<td nowrap="">
+		<img src="/images/navg/topnav_arrow.gif" alt="" height="7" width="8" valign="absmiddle">
+		<a href="/advertise/" class="topNav">advertise</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="5" align="right">
+		
+		<form name="frmRZSearch" action="/search.asp" method="POST">
+		<table border="0" cellspacing="0" cellpadding="2">
+		<tbody><tr>
+			<td><span style="font-family:MS Sans Serif, Arial;font-size:8pt;color:#FFFFFF;">search: &nbsp;</span></td>
+			<td><input type="text" name="search_term" size="15" maxlength="50" style="font-family:MS Sans Serif,Arial,Helvetica;font-size:8pt;color:#ffffff;background-color:#5C83C6;"></td>
+			<td>
+				<select name="search_section" style="font-family:MS Sans Serif,Arial,Helvetica;font-size:8pt;color:#ffffff;background-color:#5C83C6;">
+				<option value="all">All</option>
+				<option value="news">News</option>
+				<option value="search">Directory</option>
+				<option value="events">Events</option>
+				<option value="data">Data</option>
+				<option value="jobs">Jobs</option>
+				<option value="market">Equipment</option>
+				<option value="store">The Store</option>				
+				</select>
+			</td>
+			<td><input type="image" src="/images/navg/btnSearch.gif" name="btnSearch" height="21" width="28" border="0"></td>
+		</tr>
+		</tbody></table>
+		</form>
+		
+		
+		</td>
+	</tr>
+	</tbody></table>
+	
+	</td>
 </tr>
 </tbody></table>
+<!--END: TABLE WITH LOGO-->
 
-<!-- END TOP LOGO TABLE -->
+<!--START: TABLE WITH TOP NAV-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="50">
+	<a href="/">
+	<img src="/images/navg/nav_home.gif" alt="www.rigzone.com" height="32" width="50" border="0" hspace="0" vspace="0" align="left"></a>
+	</td>
+	<td width="104">
+	<a href="/news/">
+	<img src="/images/navg/nav_news.gif" alt="news.rigzone.com" height="32" width="104" border="0" hspace="0" vspace="0" align="left"></a>
+	</td>
+	<td width="123">
+	<a href="/search/">
+	<img src="/images/navg/nav_search.gif" alt="search.rigzone.com" height="32" width="123" border="0" hspace="0" vspace="0" align="left"></a>
+	</td>
+	<td width="108">
+	<a href="/events/">
+	<img src="/images/navg/nav_events.gif" alt="events.rigzone.com" height="32" width="108" border="0" hspace="0" vspace="0" align="left"></a>
+	</td>
+	<td width="84">
+	<a href="/data/">
+	<img src="/images/navg/nav_data.gif" alt="data.rigzone.com" height="32" width="84" border="0" hspace="0" vspace="0" align="left"></a>
+	</td>
+	<td width="99">
+	<a href="/jobs/">
+	<img src="/images/navg/nav_jobs.gif" alt="jobs.rigzone.com" height="32" width="99" border="0" hspace="0" vspace="0" align="left"></a>
+	</td>
+	<td width="116">
+	<a href="/market/">
+	<img src="/images/navg/nav_market.gif" alt="market.rigzone.com" height="32" width="116" border="0" hspace="0" vspace="0" align="left"></a>
+	</td>
+	<td width="79">
+	<a href="/store/">
+	<img src="/images/navg/nav_store.gif" alt="store.rigzone.com" height="32" width="79" border="0" hspace="0" vspace="0" align="left"></a>
+	</td>
+	<td width="99%" background="/images/navg/nav_bg.gif">
+	<img src="/images/navg/nav_end.gif" alt="" height="32" width="1" border="0" hspace="0" vspace="0" align="right">
+	</td>
+</tr>
+</tbody></table>
+<!--END: TABLE WITH TOP NAV-->
 
-<!-- START TOP NAV TABLE -->
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr valign="top">
-  <td width="10%">
-  <img src="/images/nav/SectionTitle-WWW.gif" alt="www.rigzone.com" height="30" width="350" align="left" border="0" hspace="0" vspace="0">
-  </td>
-  <td width="80%">
-
+<!--START: SUBNAV TABLE-->
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tbody><tr>
-  <td bgcolor="#26415C"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	<td bgcolor="#000033"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
+  <td bgcolor="#9ABBEA"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
+	<td bgcolor="#5190E4">
+	<img src="/images/navg/subnav.gif" height="13" width="760" border="0" hspace="0" vspace="0" align="left">
+	</td>
+	<td bgcolor="#000033"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
 </tr>
-<tr>
-  <td bgcolor="#5591CC"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-</tr>
-<tr>
-  <td bgcolor="#6AB5FF"><img src="/images/spacer.gif" height="28" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-</tr>
+<tr><td colspan="4" bgcolor="#000033"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td></tr>
+<tr><td colspan="4" bgcolor="#4D628C"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td></tr>
 </tbody></table>
+<!--END: SUBNAV TABLE-->
 
-  </td>
-  <td width="10%">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top" bgcolor="#00114E">
-  <td rowspan="5">
-  <img src="/images/nav/MainNavLeft-Blue.gif" alt="" height="30" width="20" align="left" border="0" hspace="0" vspace="0">
-  </td>
-  <td>
-  <a href="/news/">
-  <img src="/images/nav/MainNav-News.gif" alt="Upstream Oil &amp; Gas News" height="19" width="34" align="left" border="0" hspace="0" vspace="0"></a>
-  </td>
-  <td><img src="/images/spacer.gif" height="19" width="9" align="left" border="0" hspace="0" vspace="0"></td>
-  <td>
-  <a href="/search/">
-  <img src="/images/nav/MainNav-Search.gif" alt="Search Oil &amp; Gas Industry Web Sites" height="19" width="42" align="left" border="0" hspace="0" vspace="0"></a>
-  </td>
-  <td><img src="/images/spacer.gif" height="19" width="9" align="left" border="0" hspace="0" vspace="0"></td>
-  <td>
-  <a href="/events/">
-  <img src="/images/nav/MainNav-Events.gif" alt="Events in the Oil &amp; Gas Industry" height="19" width="46" align="left" border="0" hspace="0" vspace="0"></a>
-  </td>
-  <td><img src="/images/spacer.gif" height="19" width="9" align="left" border="0" hspace="0" vspace="0"></td>
-  <td>
-  <a href="/data/">
-  <img src="/images/nav/MainNav-Data.gif" alt="Rigs, permits, news, &amp; more" height="19" width="34" align="left" border="0" hspace="0" vspace="0"></a>
-  </td>
-  <td><img src="/images/spacer.gif" height="19" width="9" align="left" border="0" hspace="0" vspace="0"></td>
-  <td>
-  <a href="/jobs/">
-  <img src="/images/nav/MainNav-Jobs.gif" alt="Jobs in the Oil &amp; Gas Industry" height="19" width="28" align="left" border="0" hspace="0" vspace="0"></a>
-  </td>
-  <td><img src="/images/spacer.gif" height="19" width="9" align="left" border="0" hspace="0" vspace="0"></td>
-  <td>
-  <a href="/market/">
-  <img src="/images/nav/MainNav-Market.gif" alt="Buy and Sell Equipment &amp; Services" height="19" width="46" align="left" border="0" hspace="0" vspace="0"></a>
-  </td>
-  <td><img src="/images/spacer.gif" height="19" width="9" align="left" border="0" hspace="0" vspace="0"></td>  
-  <td>
-  <a href="/store/">
-  <img src="/images/nav/MainNav-Store.gif" alt="Buy books, software, data, tools, etc." height="19" width="36" align="left" border="0" hspace="0" vspace="0"></a>
-  </td>
-  <td><img src="/images/spacer.gif" height="19" width="9" align="left" border="0" hspace="0" vspace="0"></td>  
+<!--START: SIDE NAV AND MAIN BODY TABLE -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#FFFFFF">
+<tbody><tr>
+	<td rowspan="3" bgcolor="#000033"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
+  <td rowspan="3" bgcolor="#9ABBEA"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
+	<td colspan="3" bgcolor="#6AB5FF">
+	<!--START: SECTION TITLE IMAGE-->
+	<img src="/images/navg/SectionTitle-WWW.gif" height="30" width="350" border="0" hspace="0" vspace="0" align="left">
+	<!--END: SECTION TITLE IMAGE-->
+	</td>
+	<td rowspan="3" bgcolor="#000033"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
 </tr>
-<tr>
-  <td bgcolor="#000000" colspan="14"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-</tr>
-<tr>
-  <td bgcolor="#26415C" colspan="14"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-</tr>
-<tr>
-  <td bgcolor="#5591CC" colspan="14"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-</tr>
-<tr>
-  <td bgcolor="#6AB5FF" colspan="14"><img src="/images/spacer.gif" height="8" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-</tr>
-</tbody></table>
-
-  </td>
-</tr>
-</tbody></table>
-
-<!-- END TOP NAV TABLE-->
-
-<!-- START SIDE NAV AND MAIN BODY TABLE -->
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr valign="top">
-  <td bgcolor="#6AB5FF" background="/images/nav/bg_LeftColumn.gif" width="18"><img src="/images/spacer.gif" height="25" width="18" align="left" border="0" hspace="0" vspace="0"></td>
+<tr valign="TOP">
+  <td bgcolor="#6AB5FF" background="/images/navg/bg_LeftColumn.gif" width="18"><img src="/images/spacer.gif" height="25" width="18" align="left" border="0" hspace="0" vspace="0"></td>
   <td width="164">
 
-
-<!-- START NAV TABLE -->
-<table border="0" cellspacing="0" cellpadding="0" width="164">
-<tbody><tr valign="top">
-  <td bgcolor="#FFFFFF" width="160"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#000000" width="1" colspan="4"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-</tr>
-<tr valign="top">
-  <td bgcolor="#FFFFFF" width="160">
-  
-  <!-- START LINKS TABLE -->
-  <table border="0" cellspacing="0" cellpadding="0" class="nav">
-  <tbody><tr>
-    <td colspan="2"><img src="/images/spacer.gif" height="1" width="160" align="left" border="0" hspace="0" vspace="0"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/spacer.gif" height="1" width="7" align="left" border="0" hspace="0" vspace="0"></td>
-    <td class="nav">
-	<b>Zones:</b><br>
-	&nbsp;&nbsp;<a href="/news/">news.rigzone.com</a><br>
-    &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">upstream oil &amp; gas news</font><br>
-	&nbsp;&nbsp;<a href="/search/">search.rigzone.com</a><br>
-    &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">search oil &amp; gas directory</font><br>
-    &nbsp;&nbsp;<a href="/events/">events.rigzone.com</a><br>
-    &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">view oil &amp; gas events</font><br>
-    &nbsp;&nbsp;<a href="/data/">data.rigzone.com</a><br>
-    &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">rigs, permits, news &amp; more</font><br>
-    &nbsp;&nbsp;<a href="/jobs/">jobs.rigzone.com</a><br>
-    &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">find oil &amp; gas industry jobs</font><br>
-    &nbsp;&nbsp;<a href="/market/">market.rigzone.com</a><br>
-    &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">buy &amp; sell surplus equipment</font>
-    &nbsp;&nbsp;<a href="/store/">store.rigzone.com</a><br>
-    &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">buy books, data, tools, etc.</font>
-    <p>
-    <b>Members:</b><br>
-    
-    &nbsp;&nbsp;- <a href="/login.asp">Log In</a><br>
-    &nbsp;&nbsp;- <a href="/member_register.asp">Become a Member</a>
-    
-    </p><p>
-    <script language="javascript">
-<!--
-
-function HandleCheckBox (obj)
-{
-	if (obj	 == 1) 
-	{
-		if (document.newsForm1.NewsletterSignUp[1].checked == true )
-			{
-			document.newsForm1.NewsletterSignUp[0].checked = false		
-			}
-		
-	}
-	else if (obj == 8)
-	{
-		if (document.newsForm1.NewsletterSignUp[0].checked == true )
-			{
-			document.newsForm1.NewsletterSignUp[1].checked = false		
-			}
-	} 		
-}
-function getCalSelection()
-{
-document.newsForm1.NAVSubscription.value = 0;
-
-var HowMany;
-var count;
-HowMany = (document.newsForm1.NewsletterSignUp.length - 1);
-
-	for (count = 0; count <= HowMany;count++)
-	{
-
-		if (document.newsForm1.NewsletterSignUp[count].checked == true)
-		{
-			document.newsForm1.NAVSubscription.value = parseInt(document.newsForm1.NAVSubscription.value) + parseInt(document.newsForm1.NewsletterSignUp[count].value);	
-		}
-	}
-//alert (document.newsForm1.NAVSubscription.value);
-}
--->
-</script>
-
-<!--NEWSLETTER SUBSCRIBE-->
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#5A9AE6"><!--B4DAFF-->
-<tbody><tr>
-  <td colspan="3">
-  <img src="/images/nav/title_nav_Newsletters_dark.gif" alt="RIGZONE Newsletters" height="15" width="145" border="0" hspace="0" vspace="0" align="left">
-  </td>
-</tr>
-<tr>
-  <td bgcolor="#000000" rowspan="2"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
-  <td style="font-size:8pt;color:#FFFFFF">
-  <span style="font-size:8pt;color:#FFFFFF">
+	<!--START: NAV TABLE -->
+	<table border="0" cellspacing="0" cellpadding="0" width="164">
+	<tbody><tr valign="top">
+	  <td bgcolor="#ffffff" width="160"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#000000" width="1" colspan="4"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	</tr>
+	<tr valign="top">
+	  <td bgcolor="#ffffff" width="160">
 	  
-  <form method="POST" action="/Subscribe.asp" id="newsForm1" name="newsForm1" onsubmit="getCalSelection();">
-  &nbsp;<input type="text" name="Email" value="Your Email Here" size="18" onclick="document.newsForm1.Email.value=''">
-  <br>
+	  <!--START: LINKS TABLE -->
+	  <table border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+	    <td><img src="/images/spacer.gif" height="1" width="7" align="left" border="0" hspace="0" vspace="0"></td>
+	    <td class="nav">
+	    
+			<b>Zones:</b><br>
+			&nbsp;&nbsp;<a href="/news/">news.rigzone.com</a><br>
+		  &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">upstream oil &amp; gas news</font><br>
+			&nbsp;&nbsp;<a href="/search/">search.rigzone.com</a><br>
+		  &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">search oil &amp; gas directory</font><br>
+		  &nbsp;&nbsp;<a href="/events/">events.rigzone.com</a><br>
+		  &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">view oil &amp; gas events</font><br>
+		  &nbsp;&nbsp;<a href="/data/">data.rigzone.com</a><br>
+		  &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">rigs, permits, news &amp; more</font><br>
+		  &nbsp;&nbsp;<a href="/jobs/">jobs.rigzone.com</a><br>
+		  &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">find oil &amp; gas industry jobs</font><br>
+		  &nbsp;&nbsp;<a href="/market/">market.rigzone.com</a><br>
+		  &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">buy &amp; sell surplus equipment</font>
+		  &nbsp;&nbsp;<a href="/store/">store.rigzone.com</a><br>
+		  &nbsp;&nbsp;&nbsp;-&nbsp;<font color="#777777">buy books, data, tools, etc.</font>
+		  <p>
+		  <b>Members:</b><br>
+		  
+		  &nbsp;&nbsp;- <a href="/login.asp">Log In</a><br>
+		  &nbsp;&nbsp;- <a href="/member_register.asp">Become a Member</a>
+		  
+	
+		</p></td>
+	  </tr>
+	  <tr>
+	    <td colspan="2"><img src="/images/spacer.gif" height="10" width="160" align="left" border="0" hspace="0" vspace="0"></td>
+	  </tr>
+	  </tbody></table>
+	  <!--END: LINKS TABLE -->
+	  
+	  </td>
+	  <td bgcolor="#000000" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#7F7F7F" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#BDBDBD" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#E8E8E8" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+	  <td colspan="5">
+	  <img src="/images/navg/NavBottom-Blue.gif" alt="" height="12" width="164" align="left" border="0" hspace="0" vspace="0">
+	  </td>
+	</tr>
+	</tbody></table>
+	<!--END: NAV TABLE -->
+
+	<table border="0" cellspacing="0" cellpadding="0" width="164">
+	<tbody><tr valign="top">
+	  <td bgcolor="#B4DAFF" width="8"><img src="/images/spacer.gif" height="20" width="8" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#000000" width="1"><img src="/images/spacer.gif" height="20" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#FFFFFF" width="155"></td>
+	</tr>
+	</tbody></table>
+
+	<!--START: SUB NAV TABLE -->
+	<table border="0" cellspacing="0" cellpadding="0" width="164">
+	<tbody><tr>
+	  <td colspan="5">
+	  <img src="/images/navg/NavTop-Newsletters.gif" alt="Newsletters" height="20" width="164" align="left" border="0" hspace="0" vspace="0">
+	  </td>
+	</tr>
+	<tr valign="top">
+	  <td bgcolor="#DDDDDD" width="160">
+
+	  <!--START: NEWSLETTER SUBSCRIBE TABLE -->
+	  <table border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr><td colspan="3"><img src="/images/spacer.gif" height="1" width="160" align="left" border="0" hspace="0" vspace="0"></td></tr>
+	  <tr>
+	    <td><img src="/images/spacer.gif" height="1" width="7" align="left" border="0" hspace="0" vspace="0"></td>
+	    <td class="nav">
+	    
+	    <form method="POST" action="/Subscribe.asp" id="newsForm1" name="newsForm1" onsubmit="getCalSelection();">
+			&nbsp;<input type="text" name="Email" value="Your Email Here" size="18" onclick="document.newsForm1.Email.value=''">
+			<br>
   
-  <input type="checkbox" name="NewsletterSignUp" value="8" checked="" onclick="HandleCheckBox(document.newsForm1.NewsletterSignUp[0].value);">Daily News
-  <br>
-  <!--"newsletter"-->
-  <input type="checkbox" name="NewsletterSignUp" value="1" onclick="HandleCheckBox(document.newsForm1.NewsletterSignUp[1].value);">Weekly Summary	  
-  <br>
-  <!--"jobsupdate"-->
-  <input type="checkbox" name="NewsletterSignUp" value="128">Job Alert	  
-  <br>
-  <!--"marketplace"-->	
-  <input type="checkbox" name="NewsletterSignUp" value="32">Equipment Update	  
-  <br>	  
-  &nbsp;<center><input type="submit" name="button" value="Subscribe"></center>
+			<input type="checkbox" name="NewsletterSignUp" value="8" checked="" onclick="HandleCheckBox(document.newsForm1.NewsletterSignUp[0].value);">Daily News
+			<br>
+			<!--"newsletter"-->
+			<input type="checkbox" name="NewsletterSignUp" value="1" onclick="HandleCheckBox(document.newsForm1.NewsletterSignUp[1].value);">Weekly Summary	  
+			<br>
+			<!--"jobsupdate"-->
+			<input type="checkbox" name="NewsletterSignUp" value="128">Job Alert	  
+			<br>
+			<!--"marketplace"-->	
+			<input type="checkbox" name="NewsletterSignUp" value="32">Equipment Update	  
+			<br>	  
+			&nbsp;<center><input type="submit" name="button" value="Subscribe"></center>
   
-  
-  <center><a href="/Subscribe.asp?Action=INSERT"><font color="#FFFFFF">About Newsletters</font></a></center>
-  <center><a href="/subscribeLogin.asp?"><font color="#FFFFFF">Manage My Subscription</font></a></center>
-  
-   	<input type="hidden" id="NAVSubscription" value="0" name="NAVSubscription">
-	<input type="hidden" id="NoMain" value="NoMain" name="NoMain">
+			<input type="hidden" id="NAVSubscription" value="0" name="NAVSubscription">
+			<input type="hidden" id="NoMain" value="NoMain" name="NoMain">
  
-  </form>
+			</form>
+			
+			<center>
+			
+			<a href="/Subscribe.asp?Action=INSERT">About Newsletters</a><br>
+			<a href="/subscribeLogin.asp">Manage My Subscription</a>
+			
+			</center>
+		
+		</td>
+		<td><img src="/images/spacer.gif" height="1" width="7" align="left" border="0" hspace="0" vspace="0"></td>
+	  </tr>
+	  <tr><td colspan="3"><img src="/images/spacer.gif" height="5" width="160" align="left" border="0" hspace="0" vspace="0"></td></tr>
+	  </tbody></table>
+	  <!--END: NEWSLETTER SUBSCRIBE TABLE -->
 	  
-  </span>
-  </td>
-  <td bgcolor="#000000" rowspan="2"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
-</tr>
-<tr>
-  <td bgcolor="#000000">
-  <img src="/images/spacer.gif" height="1" width="143" border="0" hspace="0" vspace="0" align="left">
-  </td>
-</tr>
-</tbody></table>
-<!--END NEWSLETTER SUBSCRIBE-->
-	</p></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="/images/spacer.gif" height="5" width="160" align="left" border="0" hspace="0" vspace="0"></td>
-  </tr>
-  </tbody></table>
-  <!-- END LINK TABLE -->
-  
-  </td>
-  <td bgcolor="#000000" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#7F7F7F" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#BDBDBD" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#E8E8E8" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-</tr>
-<tr>
-  <td colspan="5">
-  <img src="/images/nav/NavBottom-Blue.gif" alt="" height="12" width="164" align="left" border="0" hspace="0" vspace="0">
-  </td>
-</tr>
-</tbody></table>
-<!-- END NAV TABLE -->
+	  </td>
+	  <td bgcolor="#000000" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#7F7F7F" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#BDBDBD" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#E8E8E8" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+	  <td colspan="5">
+	  <img src="/images/navg/NavBottom-Grey.gif" alt="" height="12" width="164" align="left" border="0" hspace="0" vspace="0">
+	  </td>
+	</tr>
+	</tbody></table>
+	<!--END: SUB NAV TABLE -->
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="TOP">
-  <td bgcolor="#B4DAFF" width="8"><img src="/images/spacer.gif" height="20" width="8" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#000000" width="1"><img src="/images/spacer.gif" height="20" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#FFFFFF" width="155"></td>
-</tr>
-</tbody></table>
+	<!--START: SUB NAV VERTICAL AD TABLE-->
+	<table border="0" cellspacing="0" cellpadding="0" width="164">
+	<tbody><tr valign="TOP">
+	  <td bgcolor="#B4DAFF" width="8"><img src="/images/spacer.gif" height="10" width="8" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#000000" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#FFFFFF" colspan="2" width="155"></td>
+	</tr>
+	<tr valign="TOP">
+	  <td bgcolor="#B4DAFF" width="8"><img src="/images/spacer.gif" height="10" width="8" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#000000" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#FFFFFF" width="13"><img src="/images/spacer.gif" height="10" width="13" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td bgcolor="#FFFFFF" width="142">
+	  
+				<!--ADVERTISE HERE-->
+	      <a href="/adserve/thrus.asp?ad_id=216&amp;adc_id=7&amp;url=https://www.thecouncils.com/peapp.asp?rcid=2aKtUx0AzYDY "><img src="/adserve/images/gerson4_120x240.jpg" alt="Click to learn more..." height="240" width="120" border="1" hspace="0" vspace="0" align="left" style="border-color:#000000;"></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
-<table border="0" cellspacing="0" cellpadding="0" width="164">
-<tbody><tr valign="TOP">
-  <td bgcolor="#B4DAFF" width="8"><img src="/images/spacer.gif" height="10" width="8" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#000000" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#FFFFFF" colspan="2" width="155"></td>
-</tr>
-<tr valign="TOP">
-  <td bgcolor="#B4DAFF" width="8"><img src="/images/spacer.gif" height="10" width="8" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#000000" width="1"><img src="/images/spacer.gif" height="10" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#FFFFFF" width="13"><img src="/images/spacer.gif" height="10" width="13" align="left" border="0" hspace="0" vspace="0"></td>
-  <td bgcolor="#FFFFFF" width="142">
-  <!-- ADVERTISE HERE -->
-  
-    <table border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" width="122">
-      <tbody><tr><td colspan="3"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td></tr>
-      <tr>
-      <td><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-      <td>
-	  <!--ADVERTISE HERE-->
-      
-      <a href="/adserve/thru.asp?id=31149435&amp;url=http://www.geoservices.com&amp;page=/privacypolicy.asp" target="_top"><img src="/adserve/images/geoservices_120x90.gif" alt="Geoservices - Mud Logging, Well Intervention..." height="90" width="120" border="0" hspace="0" vspace="0" align="left"></a>
-      </td>
-      <td><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-      </tr>
-      <tr><td colspan="3"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td></tr>
-    </tbody></table>
-
-  </td>
-</tr>
-<tr valign="TOP">
-  <td colspan="2"><img src="/images/nav/NavFade-Blue.gif" height="24" width="9" align="left" border="0" hspace="0" vspace="0"></td>
-  <td colspan="2" bgcolor="#FFFFFF" width="155"></td>
-</tr>
-</tbody></table>
+	  </td>
+	</tr>
+	<tr valign="TOP">
+	  <td colspan="2"><img src="/images/navg/NavFade-Blue.gif" height="24" width="9" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td colspan="2" bgcolor="#FFFFFF" width="155"></td>
+	</tr>
+	</tbody></table>
+	<!--END: SUB NAV VERTICAL AD TABLE-->
 
   </td>
   <td valign="top" align="left" width="99%">
 
-<!-- START MAIN BODY TABLE -->
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tbody><tr>
-    <td colspan="3" bgcolor="#000000"><img src="/images/spacer.gif" height="1" width="500" align="left" border="0" hspace="0" vspace="0"></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-  
-    <table border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" width="470">
-	  <tbody><tr bgcolor="#FFFFFF"><td colspan="3"><img src="/images/spacer.gif" height="5" width="1" align="left" border="0" hspace="0" vspace="0"></td></tr>
-      <tr><td colspan="3"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td></tr>
-      <tr>
-      <td><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-      <td>
-	  <!--ADVERTISE HERE-->
-      <a href="/adserve/thru.asp?id=31149436&amp;url=http://www.rigmatch.com&amp;page=/privacypolicy.asp" target="_top"><img src="/adserve/images/rigmatch3_468x60.gif" alt="Rigmatch - Daily Drilling Permits" height="60" width="468" border="0" hspace="0" vspace="0" align="left"></a>
-      </td>
-      <td><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
-      </tr>
-      <tr><td colspan="3"><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td></tr>
-      <tr bgcolor="#FFFFFF"><td colspan="3"><img src="/images/spacer.gif" height="5" width="1" align="left" border="0" hspace="0" vspace="0"></td></tr>
-    </tbody></table>
-    
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-    <table width="90%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333333">
+		<!--START: MAIN BODY TABLE -->
+	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr><td colspan="3" bgcolor="#000033"><img src="/images/spacer.gif" height="1" width="500" align="left" border="0" hspace="0" vspace="0"></td>
+	</tr><tr><td colspan="3" align="center">
+	    
+			<table><tbody><tr><td>
+			<!--ADVERTISE HERE-->
+	    <a href="/adserve/thrus.asp?ad_id=186&amp;adc_id=7&amp;url=http://www.coopercameron.com"><img src="/adserve/images/34247-Banner-ad-CAM.gif" alt="Cooper Cameron" height="60" width="468" border="1" hspace="0" vspace="0" align="left" style="border-color:#000000;"></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+	    </td></tr></tbody></table>
+	      
+	</td></tr>
+	<tr><td colspan="3" align="center">
+	    
+	  <!--START: LINE BELOW TOP AD-->
+	  <table width="90%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333333">
 	  <tbody><tr>
-		<td width="20">
-		<img src="/images/nav/LineFade_Left.gif" height="1" width="20" align="left" border="0" hspace="0" vspace="0">
-		</td>
-		<td>
-		<img src="/images/spacer.gif" height="1" width="500" align="left" border="0" hspace="0" vspace="0">
-		</td>
-		<td width="20">
-		<img src="/images/nav/LineFade_Right.gif" height="1" width="20" align="right" border="0" hspace="0" vspace="0">
-		</td>
+		<td width="20"><img src="/images/navg/LineFade_Left.gif" height="1" width="20" align="left" border="0" hspace="0" vspace="0"></td>
+		<td><img src="/images/spacer.gif" height="1" width="500" align="left" border="0" hspace="0" vspace="0"></td>
+		<td width="20"><img src="/images/navg/LineFade_Right.gif" height="1" width="20" align="right" border="0" hspace="0" vspace="0"></td>
 	  </tr>
-	</tbody></table>
-	</td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="/images/spacer.gif" height="20" width="500" align="left" border="0" hspace="0" vspace="0"></td>
-  </tr>
-  <tr>
-    <td width="15"><img src="/images/spacer.gif" height="1" width="15" align="left" border="0" hspace="0" vspace="0"></td>
-    <td>
-    <span style="font-family:MS Sans Serif, Arial;font-size:10pt;">
+		</tbody></table>
+		<!--END: LINE BELOW TOP AD-->
+			
+	</td></tr>
+	<tr><td colspan="3"><img src="/images/spacer.gif" height="20" width="500" align="left" border="0" hspace="0" vspace="0"></td></tr>
+	<tr>
+	  <td width="12"><img src="/images/spacer.gif" height="1" width="12" align="left" border="0" hspace="0" vspace="0"></td>
+	  <td>
+			<font face="MS Sans Serif, Arial" size="2">
+			<span style="font-family:MS Sans Serif, Arial;font-size:10pt;">
+			<!--START: MAIN BODY-->
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tbody><tr><td bgcolor="#000033"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td></tr>
@@ -522,92 +497,85 @@ HowMany = (document.newsForm1.NewsletterSignUp.length - 1);
                   </tbody></table>
                 </p><p>&nbsp;</p>
 
-    </span>
-    </td>
-    <td width="15"><img src="/images/spacer.gif" height="1" width="15" align="left" border="0" hspace="0" vspace="0"></td>
-  </tr>
-</tbody></table>
-<!-- END MAIN BODY TABLE -->
+			<!--END: MAIN BODY-->
+	    </span>
+	    </font>
+	    </td>
+	    <td width="15"><img src="/images/spacer.gif" height="1" width="15" align="left" border="0" hspace="0" vspace="0"></td>
+	  </tr>
+	</tbody></table>
+	<!--END: MAIN BODY TABLE -->
   
   </td>
 </tr>
 <tr valign="top">
-  <td bgcolor="#6AB5FF" background="/images/nav/bg_LeftColumn.gif" width="18"><img src="/images/spacer.gif" height="25" width="18" align="left" border="0" hspace="0" vspace="0"></td>
+  <td bgcolor="#6AB5FF" background="/images/navg/bg_LeftColumn.gif" width="18"><img src="/images/spacer.gif" height="25" width="18" align="left" border="0" hspace="0" vspace="0"></td>
 </tr>
 </tbody></table>
+<!--END: SIDE NAV AND MAIN BODY TABLE -->
 
-<!-- END SIDE NAV AND MAIN BODY TABLE -->
-
-<!-- START BOTTOM TABLE -->
+<!--START: BOTTOM TABLE -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#6AB5FF">
+<tbody><tr valign="top" bgcolor="#00114E">
+	<td bgcolor="#000033" rowspan="3" width="1"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
+  <td bgcolor="#9ABBEA" rowspan="3" width="1"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
+  <td bgcolor="#6AB5FF" rowspan="3" width="1"><img src="/images/spacer.gif" height="26" width="17" border="0" hspace="0" vspace="0" align="left"></td>
+  <td width="210" rowspan="3" bgcolor="#6AB5FF">
+  <img src="/images/navg/SectionBottom-WWW.gif" alt="www.rigzone.com" height="26" width="210" border="0" hspace="0" vspace="0" align="left">
+  </td>
+  <td bgcolor="#000000" width="99%"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
+	<td bgcolor="#000033" rowspan="3" width="1"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
+</tr>
+<tr valign="top">
+  <td bgcolor="#9ABBEA"><img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left"></td>
+</tr>
+<tr>
+	<td bgcolor="#6AB5FF" align="right">
+		<table border="0" cellspacing="0" cellpadding="0" width="495"><tbody><tr>
+		<td><img src="/images/navg/bottom_light_left.jpg" height="24" width="300" border="0" hspace="0" vspace="0" align="right"></td>
+		<td><img src="/images/navg/bottom_light_right.jpg" height="24" width="195" border="0" hspace="0" vspace="0" align="right"></td>
+		</tr></tbody></table>
+	</td>
+</tr>
+<tr>
+  <td width="100%" bgcolor="#000000" colspan="6">
+  <img src="/images/spacer.gif" height="1" width="1" border="0" hspace="0" vspace="0" align="left">
+  </td>
+</tr>
+</tbody></table>
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr valign="top" bgcolor="#00114E">
-  <td bgcolor="#6AB5FF" rowspan="2">
-  <img src="/images/spacer.gif" height="32" width="17" align="left" border="0" hspace="0" vspace="0">
-  </td>
-  <td width="10%">
-  <img src="/images/nav/SectionBottom-WWW.gif" alt="www.rigzone.com" height="15" width="394" align="left" border="0" hspace="0" vspace="0">
-  </td>
-  <td width="90%">
-  <img src="/images/spacer.gif" height="15" width="1" align="left" border="0" hspace="0" vspace="0">
-  </td>
-</tr>
-<tr valign="top" bgcolor="#00114E">
-  <td width="10%">
-  <img src="/images/nav/BottomPool-Blue.jpg" alt="" height="23" width="392" align="left" border="0" hspace="0" vspace="0">
-  </td>
-  <td width="90%">
-  <img src="/images/spacer.gif" height="15" width="1" align="left" border="0" hspace="0" vspace="0">
-  </td>
+<tbody><tr>
+	<td width="195" valign="top" rowspan="2">
+		<img src="/images/spacer.gif" height="1" width="195" border="0" hspace="0" vspace="0" align="left">
+	</td>
+	<td><img src="/images/spacer.gif" height="12" width="200" border="0" hspace="0" vspace="0" align="left"></td>
+	<td width="195" valign="top" rowspan="2">
+		<img src="/images/navg/bottom_dark.jpg" height="30" width="195" border="0" hspace="0" vspace="0" align="right">
+	</td>
 </tr>
 <tr>
-  <td width="100%" bgcolor="#000000" colspan="3">
-  <img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0">
-  </td>
-</tr>
-<tr>
-  <td width="100%" bgcolor="#FFFFFF" colspan="3">
-  <img src="/images/spacer.gif" height="5" width="1" align="left" border="0" hspace="0" vspace="0">
-  </td>
-</tr>
-<tr>
-  <td width="100%" bgcolor="#FFFFFF" colspan="3" style="font-size:9pt;color:#777777" align="center">
-  <span style="font-size:9pt;color:#777777">
-  <a href="/default.asp" class="bottomNav">h o m e</a> &nbsp;&nbsp; || &nbsp;&nbsp;
-  <a href="/news/" class="bottomNav">n e w s</a> &nbsp;&nbsp; || &nbsp;&nbsp;
-  <a href="/search/" class="bottomNav">s e a r c h</a> &nbsp;&nbsp; || &nbsp;&nbsp;
-  <a href="/events/" class="bottomNav">e v e n t s</a> &nbsp;&nbsp; || &nbsp;&nbsp;
-  <a href="/data/" class="bottomNav">d a t a</a> &nbsp;&nbsp; || &nbsp;&nbsp;
-  <a href="/jobs/" class="bottomNav">j o b s</a> &nbsp;&nbsp; || &nbsp;&nbsp;
-  <a href="/market/" class="bottomNav">m a r k e t</a> &nbsp;&nbsp; || &nbsp;&nbsp;
-  <a href="/store/" class="bottomNav">s t o r e</a>  
-  <hr width="400">
-  <a href="/login.asp" class="bottomNav">log in</a> &nbsp; || &nbsp;
-  <a href="/advertise/" class="bottomNav">advertise</a> &nbsp; || &nbsp;
-  <a href="/aboutus.asp" class="bottomNav">about rigzone</a> &nbsp; || &nbsp;
-  <a href="/contactform.asp" class="bottomNav">contact</a> &nbsp; || &nbsp;
-  <a href="javascript:openhelp();" class="bottomNav">help</a> &nbsp; || &nbsp;
-  <a href="/sitemap.asp" class="bottomNav">site map</a>
-  <br>
-  <a href="/newsletter.asp" class="bottomNav">newsletters</a> &nbsp; || &nbsp;
-  <a href="/mail_updatethesite.asp" class="bottomNav">rig updates</a> &nbsp; || &nbsp;
-  <a href="/tellafriend.asp" class="bottomNav">tell a friend</a> &nbsp; || &nbsp;  
-  <a href="/privacypolicy.asp" class="bottomNav">privacy policy</a>
-  <p>
-    <table>
-  <tbody><tr>
-  <td valign="bottom"><a href="http://www.beaconii.com"><img border="0" width="34" height="37" src="/images/logo_beaconii.gif"></a></td>
-  <td valign="bottom">
-  <a href="http://www.beaconii.com" class="bottomNav">site developed by:
-  <br><span style="COLOR:#000066">Beacon Interactive, Inc.</span></a></td>  
-  </tr>
-  </tbody></table>
-  </p><p>
-  
-  </p></span></td>
+  <td style="font-family:MS Sans Serif,Arial,Helvetica;font-size:7pt;color:#FFFFFF" align="center">
+		<p>
+		<span style="font-family:MS Sans Serif,Arial,Helvetica;font-size:7pt;color:#FFFFFF">
+		<a href="/login.asp" class="topNav">log in</a> &nbsp; || &nbsp;
+		<a href="/advertise/" class="topNav">advertise</a> &nbsp; || &nbsp;
+		<a href="/aboutus.asp" class="topNav">about rigzone</a> &nbsp; || &nbsp;
+		<a href="/contactform.asp" class="topNav">contact</a> &nbsp; || &nbsp;
+		<a href="javascript:openhelp();" class="topNav">help</a> &nbsp; || &nbsp;
+		<a href="/sitemap.asp" class="topNav">site map</a>
+		<br>
+		<a href="/newsletter.asp" class="topNav">newsletters</a> &nbsp; || &nbsp;
+		<a href="/mail_updatethesite.asp" class="topNav">rig updates</a> &nbsp; || &nbsp;
+		<a href="/tellafriend.asp" class="topNav">tell a friend</a> &nbsp; || &nbsp;  
+		<a href="/privacypolicy.asp" class="topNav">privacy policy</a>
+		</span>
+		</p><p>
+  </p></td>
 </tr>
 </tbody></table>
-<!-- END BOTTOM TABLE -->
+<!--END: BOTTOM TABLE -->
+
 
 
 </body></html>
