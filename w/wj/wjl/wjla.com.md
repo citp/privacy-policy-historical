@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wjla.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217233516id_/http%3A//www.wjla.com/external.hrb%3Ff%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjla.com privacy policy that was archived on 2002-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021114152121id_/http%3A//www.wjla.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# ABC 7 News
+# ABC 7 Privacy Policy
 
-1\. Privacy Practices. This statement discloses the privacy practices for the wjla.com website (the "Website") a service provided by WJLA-TV, an Allbritton Communications Company. Questions regarding this statement should be directed to WJLA at webteam@wjla.com or 3007 Tilden St. NW. Washington, DC 20008. 
+1\. Privacy Practices. This statement discloses the privacy practices for the wjla.com website (the "Website") a service provided by WJLA-TV, an Allbritton Communications Company. Questions regarding this statement should be directed to WJLA at webteam@wjla.com or 3007 Tilden St. NW. Washington, DC 20008. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events. 
 
 2\. Categories of Information. The information gathered by WJLA falls into two categories: (1) information voluntarily supplied by users to the Website through optional registration and (2) tracking information gathered as users navigate through the Website. 
 
@@ -19,5 +19,3 @@
 8\. Children's Privacy. This children's privacy statement explains WJLA' practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information on user's rights under federal law with respect to such information. WJLA does NOT knowingly collect personally identifiable information from children under the age of thirteen. WJLA screens users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If WJLA becomes aware that it has inadvertently received personally-identifiable information from a user under the age of thirteen, WJLA will delete such information from its records. Because WJLA does not collect any personally identifiable information from children under the age of thirteen, it also does NOT knowingly distribute such information to third parties. WJLA does NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information. 
 
 9\. Miscellaneous. All information gathered on the Website is stored within an WJLA-controlled database accessible only to WJLA. However, as effective as the reasonable security measures implemented by WJLA may be, no security system is impenetrable. WJLA cannot guarantee the security of its database, nor can it guarantee that information supplied will not be intercepted while being transmitted over the Internet. Users should understand that the Web is an evolving medium. If WJLA needs to change its privacy policy at some point in the future, WJLA will post the changes before they take effect. 
-
-* * *
