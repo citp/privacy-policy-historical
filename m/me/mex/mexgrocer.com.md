@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610202950id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204141122id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MexGrocer.com - Privacy Policy
 
-Privacy Policy Overview
+Privacy Policy Overview (Effective Date: 7/16/2004) 
 
 [](https://www.truste.org/ivalidate.php?url=www.mexgrocer.com)
 
@@ -28,7 +28,7 @@ At any time, customers of MexGrocer.com can verify that the information we have 
 
 Cookies ** **
 
-MexGrocer will store a persistent cookie so that you may retrieve the products in your shopping cart with no need to go through re-choosing all the categories again. This website's cookies are not tied to any personally identifiable information. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to process through our shopping area. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
+MexGrocer will store a persistent cookie so that you may retrieve the products in your shopping cart with no need to go through re-choosing all the categories again. This website's cookies are not tied to any personally identifiable information. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to process through our shopping area. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site or track impressions and click throughs on the banners that are served on the Web site without any capture of personal information. 
 
 Affiliate Programs
 
