@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610035902id_/http%3A//www.roguefcu.org/ASP/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804175114id_/http%3A//www.roguefcu.org/ASP/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
