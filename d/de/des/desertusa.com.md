@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613093021id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # About DesertUSA - Who We Are
 
@@ -34,7 +34,7 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20010613093021id_/http%3A//www.desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -72,7 +72,7 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20010613093021id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20010613093021id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
 
 ### 
 
@@ -95,13 +95,11 @@ DesertUSA.com, and its advertisers and affiliates are deeply committed to protec
 
 **Cookies & Tracking**DesertUSA.com, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. DesertUSA.com **cannot** use these cookies to personally identify you in any way such as name, address, phone number, or e-mail address.
 
-What are cookies and why do we use them? A cookie is a unique number that is  
-provided to you the first time DesertUSA.com serves you a Web page. This unique number, which is stored in a cookie file on your computer, helps DesertUSA.com track your Web cart order if you shop in our online store.
+What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time DesertUSA.com serves you a Web page. This unique number, which is stored in a cookie file on your computer, helps DesertUSA.com track your Web cart order if you shop in our online store.
 
 While "cookies" are required by DesertUSA.com to make an online purchase in our store, they are not required for DesertUSA.com to deliver you content on all Web pages outside of the store (Trading Post).
 
-If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more  
-information.
+If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
 
 **Survey's and Order Forms  
 **  
@@ -111,16 +109,11 @@ DesertUSA.com survey data is used for the sole purpose of identifying the demogr
 
 If you have any additional questions about DesertUSAcom's dedication to consumer privacy, please contact us at feedback@desertusa.com
 
-DesertUSA.com works with a third party that serves ads to this site. To find out more about how DesertUSA Magazine manages the privacy of information in conjunction with serving ads on this site, please go to
-
-<http://www.flycast.com/about_us/about-privacy.html.>
-
-  
-
+This site, DesertUSA, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 #### DesertUSA.Com Staff **Publisher:** [Digital West Media Inc.](mailto:jim@desertusa.com) | **Sales/Marketing Director:** [Jim Bremner](mailto:jim@desertusa.com)  
 ---|---  
-**Editor in Chief:**[ Lynn Bremner](mailto:lynn@desertusa.com) | **Copy Editor:**[Jay W. Sharp](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/who/pro_sharp.html)  
+**Editor in Chief:**[ Lynn Bremner](mailto:lynn@desertusa.com) | **Copy Editor:**[Jay W. Sharp](https://web.archive.org/web/20010613093021id_/http%3A//www.desertusa.com/who/pro_sharp.html)  
 **Anthropology Editor:** Steve Crouthamel | **Zoology Editor:** Jerrold J. Feldner  
 **Botany Editor:** Wayne P. Armstrong | **Geology Editor:** Steve Spear  
 **Production/Programming:** Kristine Cole |   
@@ -138,4 +131,9 @@ San Diego, CA 92127
 
 858 673 6001 Ext 101  
 Fax 858 673 6007  
+
+
+#### 
+
+[](http://www.desertusa.com/cgi-bin/redirectad.cgi?ad=store1)   
 
