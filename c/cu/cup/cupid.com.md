@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032533id_/http%3A//cupid.com/corporate.asp%3Fpagename%3DH1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615084745id_/http%3A//cupid.com/corporate.aspx%3Fpagename%3DH1) for the most accurate reproduction.*
 
 # Cupid.com Help - Free Personals, Free Online Dating, Free Personal Ads, Singles site
-
-| 
-
-### Privacy Statement
 
 This privacy statement covers the website www.Cupid.com. Because this Website wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.
 
@@ -20,7 +16,7 @@ This privacy statement covers the website www.Cupid.com. Because this Website wa
 
 If users of this website have questions or concerns regarding this privacy policy statement, they should [contact Cupid.com, Inc.](mailto:privacyissue@cupid.com)
 
-This privacy policy statement is incorporated by reference into Cupid.com, Inc.'s [Terms of Use Agreement](https://web.archive.org/web/20031203032533id_/http%3A//cupid.com/corporate.asp?pagename=H2). 
+This privacy policy statement is incorporated by reference into Cupid.com, Inc.'s [Terms of Use Agreement](https://web.archive.org/web/20040615084745id_/http%3A//cupid.com/corporate.aspx?pagename=H2). 
 
 **About Cupid.com**  
 Cupid.com, Inc. is the sole owner and operator of the website Cupid.com and of the information collected on the website.Cupid.com endeavors to be an all-encompassing website designed to fulfill the needs of today's singles community. Cupid.com enhances the single lifestyle by providing a web-based portal for people to meet one another in the interests of friendship as well as dating. To facilitate this, Cupid.com offers next generation personal ads, focused social interest circles, dating advice and information as well as dating-oriented products and services. 
@@ -102,13 +98,3 @@ If changes to our privacy policy become necessary, Cupid.com will post those cha
 
 **Contacting Cupid.com**  
 If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:privacyissue@cupid.com). 
-
-|  |  | [](https://web.archive.org/web/20031203032533id_/http%3A//cupid.com/helpdesk.asp)  
----  
-[](https://web.archive.org/web/20031203032533id_/http%3A//cupid.com/corporate.asp?pagename=H3)  
-[](https://web.archive.org/web/20031203032533id_/http%3A//cupid.com/corporate.asp?pagename=H1)  
-[](https://web.archive.org/web/20031203032533id_/http%3A//cupid.com/corporate.asp?pagename=H2)  
-[](https://web.archive.org/web/20031203032533id_/http%3A//cupid.com/corporate.asp?pagename=H4)  
-[](https://web.archive.org/web/20031203032533id_/http%3A//cupid.com/corporate.asp?pagename=H10)  
-   
- 
