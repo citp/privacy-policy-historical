@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613192251id_/http%3A//www.themexp.org/privacy_stmt.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204121145id_/http%3A//www.themexp.org/privacy_stmt.php) for the most accurate reproduction.*
 
-# ThemeXP > Privacy Statement
+# ThemeXP - Privacy
 
-> **ThemeXP** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ThemeXP](). 
+> **ThemeXP** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ThemeXP](https://web.archive.org/web/20041204121145id_/http%3A//www.themexp.org/index.php). 
 > 
 > ####  Information Automatically Logged 
 > 
@@ -40,7 +40,7 @@
 > 
 > This site gives users the following options for changing and modifying information previously provided: 
 > 
->   1. You can send email to [webmaster@themexp.org](mailto:webmaster@themexp.org)
+>   1. You can send email to [approver@themexp.org](mailto:approver@themexp.org)
 > 
 
 > 
@@ -49,4 +49,4 @@
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 > 
 > 
-> [webmaster@themexp.org](mailto:webmaster@themexp.org)
+> [approver@themexp.org](mailto:approver@themexp.org)
