@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212608id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206224552id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Softcomplex - Privacy Policy
 
@@ -109,7 +109,7 @@ Technical information obtained while we provide support may be used to train per
 
 ## Online Services
 
-Softcomplex offers online services such as [Tigra Menu Online Builder](http://www.softcomplex.com/products/tigra_menu/builder/ "Tigra Menu Online Builder"). Some online services require registration so data you enter while operating application is password protected from unauthorized access. Any information collected by online applications we offer is not disclosed to third parties and it is not used for any purposes not directly related to the functions of the application.
+Softcomplex offers online services such as [Tigra Menu Online Builder](http://www.javascriptmenubuilder.com/ "Tigra Menu Online Builder"). Some online services require registration so data you enter while operating application is password protected from unauthorized access. Any information collected by online applications we offer is not disclosed to third parties and it is not used for any purposes not directly related to the functions of the application.
 
 ## Newsletter subscription
 
@@ -144,7 +144,7 @@ We may disclose personal information if we are required to do so by law or we in
 
 ## What Are Cookies?
 
-Cookies are a standard feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user’s Web browser on the user’s hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user’s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
+Cookies are a standard feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user�s Web browser on the user�s hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user�s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
 ## External Links
 
@@ -163,6 +163,7 @@ Don't hesitate to [contact us](http://www.softcomplex.com/support.html "contact 
 Internal Links:
 
   * [**Softcomplex Homepage**](http://www.softcomplex.com/ "visit our homepage and learn more about our company") \- visit our homepage and learn more about Softcomplex
+  * [**Web Site User Agreement**](http://www.softcomplex.com/site_agreement.html "Softcomplex.com web site user agreement") \- information related to use of softcomplex.com and responsibilities
   * [**Newsletter**](http://www.softcomplex.com/newsletter/ "be notified about new product releases, updates and discounts we offer") \- be notified about new product releases, updates and discounts we offer
   * [**Support Forum**](http://www.softcomplex.com/forum/ "find answers to your technical questions, share your code and discuss your challenges with other customers") \- find answers to your technical questions, share your code and discuss your challenges with other customers
   * [**Contact US**](http://www.softcomplex.com/support.html "contact Softcomplex in the way that is most convenient for you") \- contact Softcomplex in the way that is most convenient for you
