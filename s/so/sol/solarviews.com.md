@@ -1,50 +1,21 @@
-> *The following text is extracted and transformed from the solarviews.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207053100id_/http%3A//solarviews.com/eng/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarviews.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405181506id_/http%3A//solarviews.com/eng/privacy.htm) for the most accurate reproduction.*
 
 # Views of the Solar System Privacy Statement
-
-**DOUBLECLICK & SONAR BANNERS** This website uses a third party advertising network (Sonar, specifically) to serve up some of the ads you see on various pages. In addition to our privacy policy, they have their own privacy policy regarding what information is tracked using their system. If you'd like more information about their information gathering practices and "opt-out" procedures please [click here:](http://www.sonar.com/content/privacy.htm)
 
 **Privacy Statement**  
 
 
 **Views of the Solar System**  
-Views of the Solar System is deeply committed to protecting the privacy of its users. Below is information outlining our continued support for the responsible management of consumer information.
+Views of the Solar System is deeply committed to protecting the privacy of its users. We make use of several different banner companies to help pay the cost of maintaining the web sit. Below is information outlining the management of consumer information by these verious companies which includes Engage Media Network, DoubleClick's Sonar Network, and Burst Media Network.
 
-**Consumer Information**  
-During the process of delivering an ad to you, Views of the Solar System or its advertising agents does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Views of the Solar System and its advertising agents does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by Views of the Solar System and its advertising agents is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers.
+**CONSUMER INFORMATION**  
+During the process of delivering an ad to you, Views of the Solar System or its advertising agents does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Views of the Solar System's advertising agents may obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected the advertising agents is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. 
 
-**Information Views of the Solar System Collects**  
-To enable Views of the Solar System and its advertising agents to provide better targeting to you and appropriate reporting for our advertisers, Views of the Solar System and its advertising agents collects several types of non-personally-identifiable information about consumers who are served ads by the Views of the Solar System and its advertising agents network. This information includes:
+**DOUBLECLICK & SONAR BANNERS**
 
-Your IP address: a unique number assigned to every computer on the Internet. The type of information that Views of the Solar System and its advertising agents can infer from the IP address is geographic location.
+The ads appearing on this Web site are delivered to you by DoubleClick's Sonar Network, our Web advertising partner. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. Information about your visit to this site (but not your name, address, or other personal information) is used to serve ads to you on this site. This information is not collected by Sonar and DoubleClick for profiling. For more information about Sonar, cookies, and your right to "opt-out", please [click here](http://www.sonar.com/content/privacy.htm). 
 
-Your domain: e.g., .com, .net, or .edu. This is standard information that is available with all communication sent on the Internet.
+**ENGAGE MEDIA NETWORK BANNERS**  
 
-Other information that Views of the Solar System and its advertising agents can infer consists of:
 
-Operating system: e.g., Windows, DOS, Macintosh, or UNIX;
-
-Browser version and type: e.g., Netscape Navigator or Internet Explorer;
-
-Browser language: e.g., Java or Unix;
-
-Internet Service Provider (ISP): e.g., MindSpring or AOL;
-
-Clickstream information: Views of the Solar System and its advertising agents can infer how you use the sites and pages on the internet, and can infer your local time.
-
-In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, Views of the Solar System or its advertising agents may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, Views of the Solar System or its agents may combine this information with other users' information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website.
-
-**Data Collection and Opt Out**  
-Views of the Solar System or its advertising agents may use "cookies" to enhance your experience on the web. Views of the Solar System cannot use these cookies to personally identify you in any way.
-
-**What are cookies and why do we use them?**  
-A cookie is a unique number that is provided to you the first time a Views of the Solar System advertising agent utilising this technology serves you an ad. For example, one of our network advertising agencies Flycast Communications issues a unique number from its banner engine, which is stored in a cookie file on your computer. This cookie can help Flycast target ads to you, reducing multiple ad views. While we believe cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for Views of the Solar System to deliver Flycast advertising banners to you.
-
-If you do not want the benefit of the Flycast network cookie, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
-
-**Opt Out Procedure**  
-If you would like to "opt out," that is, to prevent any data from being stored by Flycast Communications, [please click here.](http://www.flycast.com/about_us/about-priv-optout-index.html)
-
-If you have any additional questions about Views of the Solar System dedication to consumer privacy, please contact us at vss@home.com.
-
-Views of the Solar System WORKS WITH FLYCAST COMMUNICATIONS A THIRD PARTY THAT SERVES ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW FLYCAST MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO [HTTP://WWW.FLYCAST.COM/ABOUT_US/ABOUT-PRIVACY.HTML](http://www.flycast.com/about_us/about-privacy.html). 
+This site, Views of the Solar System, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
