@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207000206id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
 # GoNOMAD - Cultural, Educational and Adventure Travel
 
-[](https://web.archive.org/web/20041207000206id_/http%3A//www.gonomad.com/corp/list.html)  
+[](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/corp/list.html)  
 Give your travel business the exposure it deserves. Click here to get listed in GoNOMAD's searchable directory
 
-[](https://web.archive.org/web/20041207000206id_/http%3A//www.gonomad.com/specials/specials.html)
+[](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/specials/specials.html)
 
   
 Travel deals from Big World News and special offers from the GoNOMAD Network
@@ -15,19 +15,19 @@ Travel deals from Big World News and special offers from the GoNOMAD Network
   
 Travelogues, adventures, misadventures and more from real travelers...
 
-[](https://web.archive.org/web/20041207000206id_/http%3A//www.gonomad.com/helps/helps.html)
+[](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/helps/helps.html)
 
   
 Check out sustainable and responsible tourism projects around the world that you can help support
 
-[](https://web.archive.org/web/20041207000206id_/http%3A//www.gonomad.com/market/market.html)
+[](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/market/market.html)
 
 Shop the world for books, world music, travel accessories, handcrafts and more...
 
 * * *
 
 Share your travels!  
-[Click here to submit your stories to us!](https://web.archive.org/web/20041207000206id_/http%3A//www.gonomad.com/corp/writerguidelines.htm) |  | 
+[Click here to submit your stories to us!](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/corp/writerguidelines.htm) |  | 
 
 > **GoNOMAD.com Privacy Statement**
 > 
@@ -133,7 +133,7 @@ Share your travels!
 > **...** Habla Espanol?: Top Picks for **Alternative** **Travel** in Central America By Nicole Rosenleaf Ritter, GoNOMAD **ALTERNATIVE** **TRAVEL** GUIDE. **...**   
 >  www.gonomad.com/ **alternative** s/ 0012/rosenleafritter_altpicks.html - 26k - [Cached](http://64.233.167.104/custom?q=cache:UtGVcgMC6kwJ:www.gonomad.com/alternatives/0012/rosenleafritter_altpicks.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/alternatives/0012/rosenleafritter_altpicks.html)
 > 
-> [](https://web.archive.org/web/20041207000206id_/http%3A//www.gonomad.com/traveldesk/airportparking.html)
+> [](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/traveldesk/airportparking.html)
 
 |  | 
 
