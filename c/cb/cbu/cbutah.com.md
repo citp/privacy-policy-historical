@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbutah.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209032606id_/http%3A//www.centralbankutah.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbutah.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621122606id_/http%3A//www.centralbankutah.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Central Bank Online Banking Privacy Policy
 
