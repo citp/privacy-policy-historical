@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yojoe.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002094346id_/http%3A//yojoe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yojoe.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606011831id_/http%3A//yojoe.com/privacy) for the most accurate reproduction.*
 
 # YOJOE.COM | Privacy Policy
 
