@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205105503id_/http%3A//www.frontlinesourcegroup.com/privacy%2520policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405225504id_/http%3A//www.frtline.com/privacy%2520policy.htm) for the most accurate reproduction.*
 
 # Frontline Source Group - Privacy Policy
 
 Because we want to demonstrate our commitment to users' privacy, we have disclosed our information practices.
 
-If users have questions or concerns regarding this statement, they should contact frontline source group, inc. customer service at [info@frtline.com](mailto:info@frtline.com). 
+If users have questions or concerns regarding this statement, they should contact Frontline Source Group, Inc. customer service at [Questions/Concerns](mailto:info@frtline.com?subject=Privacy%20Policy). 
 
 This Privacy Policy covers frontline source group treatment of personally identifiable information that we collect when you are on frontline source group web site and when you use our services. This policy also covers our treatment of any personally identifiable information that our business partners or customers share with us.
 
@@ -44,6 +44,6 @@ frontline source group may amend this policy from time to time. If we make any s
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Email [info@frtline.com](mailto:info@frtline.com)  
+Email [Company Contact](mailto:info@frtline.com?subject=Privacy%20Policy)  
 Address 3102 Oak Lawn Avenue, Suite 700, Dallas, TX 75219  
-Web Address [www.frontlinesoucegroup.com](http://www.frontlinesoucegroup.com/)
+Web Address [www.frontlinesourcegroup.com](https://web.archive.org/web/20050405225504id_/http%3A//www.frtline.com/index.html)
