@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401134826id_/http%3A//www.cio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606040848id_/http%3A//www.cio.com/privacy.html) for the most accurate reproduction.*
 
 # CIO.COM Privacy Statement
 
@@ -27,9 +27,9 @@ updated 08 DEC 2000 -- DoubleClick usage on IDG network clarified
 
 updated 04 MAY 2001 -- added WebTrends information updated 27 SEP 2002 -- changed email list contact from Denise to Kathryn Marston updated 27 Jan 2003 -- revised Doubleclick URL (old one no longer works) (th) 
 
-CIO.COM's [welcome message](https://web.archive.org/web/20030401134826id_/http%3A//www.cio.com/joegreet.html), [User Agreement](https://web.archive.org/web/20030401134826id_/http%3A//www.cio.com/user_agreement.html), and [ link disclaimer](https://web.archive.org/CIO/disclaimer.html).
+CIO.COM's [welcome message](https://web.archive.org/web/20040606040848id_/http%3A//www.cio.com/joegreet.html), [User Agreement](https://web.archive.org/web/20040606040848id_/http%3A//www.cio.com/user_agreement.html), and [ link disclaimer](https://web.archive.org/CIO/disclaimer.html).
 
-CIO.COM complies with [the ASME Guidelines with IDG extensions](https://web.archive.org/web/20030401134826id_/http%3A//www.cio.com/asme.html) for new media. 
+CIO.COM complies with [the ASME Guidelines with IDG extensions](https://web.archive.org/web/20040606040848id_/http%3A//www.cio.com/asme.html) for new media. 
 
   
 [](http://www.cio.com/resources/)
