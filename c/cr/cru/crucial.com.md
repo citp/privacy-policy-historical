@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215093220id_/http%3A//www.crucial.com/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204173555id_/http%3A//www.crucial.com/store/privacy.asp) for the most accurate reproduction.*
 
 # Memory upgrades from Crucial.com - Privacy Policy
 
@@ -58,4 +58,4 @@ Affiliate Program
 
 Through the [Crucial.Link](https://web.archive.org/link/index.asp) Program, affiliates simply link to our Web site and earn a minimum commission of 7% on memory upgrade sales.   
   
-© 2004 Micron Technology, Inc. All rights reserved.
+© 2005 Micron Technology, Inc. All rights reserved.
