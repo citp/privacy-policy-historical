@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603174632id_/http%3A//eds.com/administrative/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203021243id_/http%3A//www.eds.com/administrative/privacy.shtml) for the most accurate reproduction.*
 
 # eds.com Privacy Policy
 
@@ -63,7 +63,8 @@ Correct/Update: Users may change or modify information previously provided to th
 
 ****
 
-**Site Survey** : Users may be invited to participate in a site survey. You may opt-out of participation at the time the survey is offered. The survey collects generalized statistics only. No personal data is held as a result of the site survey, unless you opt to provide specific comments and/or your e-mail address or other personally identifiable information. In this case your comments and address information will be passed directly to EDS and subject to the same provisions and safeguards as provided for information collected on the eds.com Web site. Contact for personal data submitted via the survey is [info@eds.com](mailto:info@eds.com). Personal data submitted through the survey will be used only by EDS, and only in order to respond to, and where appropriate to action, your comments. 
+**Site Survey** : Users may be invited to participate in a site survey. eds.com periodically uses third party vendors to conduct surveys. Surveys employ the use of cookies for invitational purposes only. You may opt-out of participation at the time the survey is offered. The survey collects generalized statistics only. No personal data is held as a result of the site survey, unless you opt to provide specific comments and/or your e-mail address or other personally identifiable information. In this case your comments and address information will be passed to EDS and subject to the same provisions and safeguards as provided for information collected on the eds.com Web site. Contact for personal data submitted via the survey is [info@eds.com](mailto:info@eds.com). Personal data submitted through the survey will be used by EDS and may be used by the third party vendor in an aggregate form, and only in order to respond to, and where appropriate to action, your comments.   
+
 
 **Juniors** : We do not intentionally invite data from Juniors (under the age of 13) to this site, but where we are aware of such submissions for educational purposes, we will treat such data as ‘Sensitive Data’. Data known to be from Juniors and which is not specifically submitted for educational purposes will be immediately deleted.  
 
