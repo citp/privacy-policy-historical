@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207143150id_/http%3A//raiders.com/team/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192523id_/http%3A//raiders.com/team/privacy.jsp) for the most accurate reproduction.*
 
 # Oakland Raiders
 
@@ -14,7 +14,7 @@ Oakland Raiders |
   
 
 
-[](http://store.raiders.com/1004030101.html)  
+[](http://www.raiders.com/raiderettes/squads.jsp)  
 
 
 |  |   
