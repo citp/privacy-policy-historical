@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingweb.co.uk privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603144810id_/http%3A//www.accountingweb.co.uk/help/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingweb.co.uk privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091120id_/http%3A//www.accountingweb.co.uk/help/help_privacy.html) for the most accurate reproduction.*
 
 # AccountingWEB.co.uk - Privacy Statement
 
