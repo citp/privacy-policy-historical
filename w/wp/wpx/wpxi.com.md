@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614003650id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204182758id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
 
 # WPXI.com - WPXI-TV - PRIVACY POLICY
+
+Effective date: 1/15/03 
 
 WPXI-TV respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by WPXI, Inc., d/b/a WPXI-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to: 
 
@@ -61,7 +63,7 @@ We will use the information you provide us to process your transaction and to co
 
 **OPTING OUT**
 
-If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please do not register with this site. 
+If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store) ([Click Here](mailto:burgnews@wpxi.com?subject=request%20for%20personal%20info)). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please do not register with this site. 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by going back to our site). 
 
@@ -73,7 +75,7 @@ All information gathered on our site is stored within a database operated by us 
 
 **CHANGES TO THIS PRIVACY POLICY**
 
-A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. 
+A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
 
   
   
