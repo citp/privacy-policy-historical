@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinkerfcu.org privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211055500id_/http%3A//www.tinkerfcu.org/disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinkerfcu.org privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406160815id_/http%3A//www.tinkerfcu.org/disclaimer.htm) for the most accurate reproduction.*
 
 # TFCU: Disclaimer and Website Privacy Policy
 
