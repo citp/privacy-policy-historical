@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206060334id_/http%3A//www.iolo.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603113738id_/http%3A//www.iolo.com/privacy.cfm) for the most accurate reproduction.*
 
 # iolo technologies Privacy Statement
 
-|  **Privacy Statement**
+**Privacy Statement**
 
 **GATHERING OF INFORMATION**  
 iolo technologies, LLC may gather personal information about its visitors for internal use only. This includes, but is not limited to, customer downloads, information requests, and purchasing of software. 
