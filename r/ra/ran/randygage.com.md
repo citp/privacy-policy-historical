@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randygage.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208075659id_/http%3A//www.randygage.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randygage.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621083216id_/http%3A//www.randygage.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Gage Direct Prime Concepts Group
 
@@ -17,7 +17,7 @@ Prime Concepts Group uses **WebTrends Live** to analyze traffic to this web site
 Prime Concepts Group may collect personal information voluntarily supplied by you when you order products, enter contests, complete surveys, and the like. Prime Concepts Group clearly informs you in advance, and explains how this personal information is to be used. You have a right not to provide this information. If you choose not to provide such information, you are still welcome to visit randygage.com, but may be unable to participate in certain options, offers and services. 
 
 **Uses of personal information**   
-If you supply Prime Concepts Group your postal address, you may receive periodic mailings to inform you of new products, services, events, etc. If you prefer not to receive such mailings, please let us know by filling out our [_contact form_](https://web.archive.org/web/20021208075659id_/http%3A//www.randygage.com/html/contact.html). 
+If you supply Prime Concepts Group your postal address, you may receive periodic mailings to inform you of new products, services, events, etc. If you prefer not to receive such mailings, please let us know by filling out our [_contact form_](https://web.archive.org/web/20030621083216id_/http%3A//www.randygage.com/html/contact.html). 
 
 **Security**  
 Prime Concepts Group takes all appropriate and reasonable steps to protect all information you share with us from unauthorized access or disclosure. **We never spam or sell your e-mail address!**
@@ -25,7 +25,7 @@ Prime Concepts Group takes all appropriate and reasonable steps to protect all i
 **Commitment**   
 Prime Concepts Group is committed to the principle of individual privacy, and is actively involved in and supports industry initiatives to preserve individual privacy rights on the Internet. Personal data privacy is a new rapidly changing area, and Prime Concepts Group is evolving to meet these demands. 
 
-Please [_contact us_](https://web.archive.org/web/20021208075659id_/http%3A//www.randygage.com/html/contact.html) at 1-800-946-7804 or (316) 942-1111, or write us at 1807 S. Eisenhower St., Wichita, KS 67209-2810 with any questions or comments regarding these privacy policies. 
+Please [_contact us_](https://web.archive.org/web/20030621083216id_/http%3A//www.randygage.com/html/contact.html) at 1-800-946-7804 or (316) 942-1111, or write us at 1807 S. Eisenhower St., Wichita, KS 67209-2810 with any questions or comments regarding these privacy policies. 
 
   
 
