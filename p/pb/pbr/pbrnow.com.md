@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the pbrnow.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612074954id_/http%3A//pbrnow.com/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbrnow.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207202118id_/http%3A//www.pbrnow.com/policies/privacy.cfm) for the most accurate reproduction.*
 
 # PBRnow.com Web Site Privacy Policy
 
-|  |   
----|---|---  
 |  | ABOUT MENU |   
 ---|---  
-| Sat Jun 12, 2004  
+| Mon Feb 7, 2005  
 |   
 | 
 
@@ -24,6 +22,7 @@ Please read the following to learn more about our data collection policies and p
   * A special note for parents concerning privacy
   * Notification of changes and your acceptance of the Privacy Policy
   * Correcting/updating personal information
+  * DeepMetrix Privacy Policy
 
 
   1. **Types Of Information That May Be Collected.**  
@@ -92,6 +91,10 @@ The Service is a general audience Service. We do not currently collect any perso
 By using this Service, you signify your agreement to the terms of our privacy policy. If we decide to change or update this privacy policy, we will give you notice of the changes made so you can be aware of such revised privacy policy. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email or some other means. Your continued use of the Service shall constitute your acceptance of such revised privacy policy. 
   10. **Correcting/Updating Personal Information.**  
 If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Service, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing PBR Administration at admin@pbrnow.com. 
+  11. **DeepMetrix Privacy Policy.**  
+The Service uses the products and services of DeepMetrix Corporation (DeepMatrix LiveStats) to analyze website traffic on the Service. The DeepMetrix privacy notices identify the key concerns of privacy advocates and explain the intentions and uses of web statistics from an end-user point of view. The DeepMetrix product specific privacy policies may be accessed at the following link: <http://www.deepmetrix.com/legal/privacy/products/> LiveStats is a registered trademark of DeepMetrix Corporation. DeepMetrix is a Registered trademark of DeepMetrix Corporation. `DeepMetrix Corporation  
+15 Gamelin Blvd.  
+Gatineau, QC Canada J9H-1V4 `
 
 ALTHOUGH WE TAKE APPROPRIATE MEASURES TO SAFEGUARD AGAINST UNAUTHORIZED DISCLOSURE OF INFORMATION, WE CANNOT ASSURE YOU THAT PERSONALLY IDENTIFIABLE INFORMATION THAT IS COLLECTED WILL NEVER BE DISCLOSED IN A MANNER THAT IS INCONSISTENT WITH THIS PRIVACY POLICY. 
 
@@ -108,7 +111,4 @@ If you have any questions about this privacy policy or the privacy practices of 
 
 _© 2003, Professional Bull Riders, Inc. All Rights Reserved._  
   
-[](http://www.pbrnow.com/forum/)
-
-|  |    
-| 
+|  |  
