@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestromsites.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610085539id_/http%3A//www.bestromsites.com/Checkpoint/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestromsites.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055839id_/http%3A//www.bestromsites.com/Checkpoint/privacy/default.asp) for the most accurate reproduction.*
 
 # BEST ROM SITES - Privacy Policies
 
