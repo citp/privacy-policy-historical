@@ -1,30 +1,8 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2002-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020810234127id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621054948id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
 
 # Geoscience Australia: About Us: Privacy and Security
 
-  | 
-
-[About Us](https://web.archive.org/about/)  
-[Contacts](https://web.archive.org/about/contacts/contacts.jsp)  
-[History](https://web.archive.org/about/history/)  
-[CEO's message](https://web.archive.org/about/message/)  
-[Organisational structure](https://web.archive.org/about/contacts/structure.jsp)  
-[Corporate documents](https://web.archive.org/about/corporate/)  
-[Business Opportunities](https://web.archive.org/about/corporate/business_opportunities.jsp)  
-[Special Events](https://web.archive.org/about/event/)  
-
-
-[Factsheets](https://web.archive.org/education/factsheets/)  
-[Urban Centres](https://web.archive.org/urban/factsheet.jsp)  
-[Oceans & Coasts](https://web.archive.org/oceans/factsheet.jsp)  
-[Rural & Regional](https://web.archive.org/rural/factsheet.jsp)  
-
-
-[Join our email lists](https://www.ga.gov.au/sec-bin/subscribe.pl)
-
-|   | 
-
-## PRIVACY and SECURITY
+**Updated:  ** 15 January 2003 
 
   * #### Privacy
 
@@ -33,11 +11,11 @@
 
 
 
-## PRIVACY
+## Privacy
 
 ### General
 
-This statement applies to user interactions with Geoscience Australia Website at: [http://www.ga.gov.au](https://web.archive.org/)
+This statement applies to user interactions with Geoscience Australia Website at: [http://www.ga.gov.au](http://www.ga.gov.au/)
 
 ### Data Collection and Click-Stream Data
 
@@ -52,6 +30,8 @@ When you visit our site, our servers may record the following information for st
   * the address of the referring page visited; 
   * search terms used; and 
   * the type of browser used. 
+
+
 
 Geoscience Australia examines this information to determine the traffic through the server, and to specific pages or applications, and in order to deliver better services. 
 
@@ -69,19 +49,17 @@ Any personal details submitted via the Geoscience Australia website will only be
 
 Information given during the course of online purchases and product orders may be used to determine your liability to Australian GST on the items purchased or ordered. 
 
-If you have concerns about sending information over the web, please visit our [contacts page](https://web.archive.org/about/index.jsp#AGAadd) for alternative methods of submitting information (mail, fax etc). 
+If you have concerns about sending information over the web, please visit our [contacts page](http://www.ga.gov.au/about/index.jsp#AGAadd) for alternative methods of submitting information (mail, fax etc). 
 
 ### User Feedback
 
-We seek [feedback from our users](https://web.archive.org/about/feedback.jsp) in order to improve the service offered by our site. Answering feedback questions is voluntary and does not in any way affect your access to the Geoscience Australia site. [Contacts list](https://web.archive.org/about/contacts/contacts.jsp) ; [General e-mail contact](mailto:http@ga.gov.au\(/\))
+We seek [feedback from our users](http://www.ga.gov.au/about/feedback.jsp) in order to improve the service offered by our site. Answering feedback questions is voluntary and does not in any way affect your access to the Geoscience Australia site. [Contacts list](http://www.ga.gov.au/about/contacts/contacts.jsp) ; [General e-mail contact](mailto:http@ga.gov.au\(/\))
 
 ### Accountability
 
 The staff who operate the Geoscience Australia Website, and most Commonwealth government agencies, are subject to the Commonwealth Privacy Act 198 
 
-* * *
-
-## SECURITY
+## Security
 
 ### Site security
 
@@ -96,7 +74,7 @@ If you are sending us private information you should check that you are linked t
 
 You should check your browser's help facility for further information on security. 
 
-If you are on our **normal** Website and wish to switch to the **secure** one you can change by simply changing the **http:** // to **https:** // in your web address, or visit <https://www.ga.gov.au/>
+If you are on our **normal** Website and wish to switch to the **secure** one you can change by simply changing the **http:** // to **https:** // in your web address, or visit < a href="https://www.ga.gov.au/">https://www.ga.gov.au/ 
 
 ### Firewall security
 
@@ -106,15 +84,10 @@ Any of your information, ( _apart from usage logs_ ), that is on our server outs
 
 Our **Online Ordering System** uses the Secure Sockets Layer for encrypted communication between your browser and our server and is fully explained in a separate area. Credit card details are **NOT** stored on our server. Each encrypted order is immediately transferred to our sales staff for offline processing. 
 
-If you have concerns about sending information over the web, please visit our [address contact page](https://web.archive.org/about/index.jsp#AGAadd) for alternative methods of submitting information (mail, fax etc).
+If you have concerns about sending information over the web, please visit our [address contact page](http://www.ga.gov.au/about/index.jsp#AGAadd) for alternative methods of submitting information (mail, fax etc). 
 
 ### Accountability
 
-The staff who operate the Geoscience Australia Website, and most Commonwealth government agencies, are subject to the Commonwealth Privacy Act 1988. 
+The staff who operate the Geoscience Australia Website, and most Commonwealth government agencies, are subject to the Commonwealth Privacy Act 1988\. 
 
-See also [online ordering](https://web.archive.org/sales/howto/index.jsp#forms) for more information.
-
-* * *
-
-  
-
+See also [online ordering](http://www.ga.gov.au/sales/howto/index.jsp#forms) for more information. 
