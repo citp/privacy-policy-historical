@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405211922id_/http%3A//www.mysa.com/mysanantonio/aboutus/mysanantonio/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204202442id_/http%3A//www.mysa.com/mysanantonio/aboutus/mysanantonio/privacy.shtml) for the most accurate reproduction.*
 
 # My San Antonio: Privacy Policy
 
 **Privacy Policy**
 
-The site you are about to view complies with the following privacy policy. We can be reached by e-mail at [editors@express-news.net](mailto:editors@express-news.net).
+The site you are about to view complies with the following privacy policy. We can be reached by e-mail at [editorial@mysanantonio.com](mailto:editorial@mysanantonio.com).
 
 This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. In addition, we may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable us to relate a user's use of our site to information that the user has specifically and knowingly provided to us.
 
@@ -16,4 +16,4 @@ Users should be aware that when they voluntarily disclose personal information (
 
 Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
 
-Users can send e-mail to us at [editors@express-news.net](mailto:editors@express-news.net) with any further questions.
+Users can send e-mail to us at [editorial@mysanantonio.com](mailto:editorial@mysanantonio.com) with any further questions.
