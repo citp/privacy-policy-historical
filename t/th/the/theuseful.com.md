@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theuseful.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401223842id_/http%3A//www.theuseful.com/info.htm%3Ftp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theuseful.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203031920id_/http%3A//www.theuseful.com/info.htm%3Ftp%3Dprivacy) for the most accurate reproduction.*
 
 # TheUseful.com
 
