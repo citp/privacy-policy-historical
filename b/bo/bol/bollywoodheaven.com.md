@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodheaven.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205085539id_/http%3A//bollywoodheaven.com/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodheaven.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210152552id_/http%3A//www.bollywoodheaven.com/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -47,6 +47,6 @@ This site has security measures in place to protect the loss, misuse, and altera
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-_[bollywoodheaven@bigfoot.com ](mailto:bollywoodheaven@bigfoot.com) _
+[feedback@bollywoodheaven.com](mailto:feedback@bollywoodheaven.com)
 
 * * *
