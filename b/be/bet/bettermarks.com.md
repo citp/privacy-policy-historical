@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettermarks.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624132838id_/http%3A//www.wrc-uk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettermarks.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003223307id_/http%3A//www.wrc-uk.com/privacy.html) for the most accurate reproduction.*
 
 # WRC (UK) - Privacy Policy
 
