@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gamezone.com privacy policy that was archived on 2002-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021201231201id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamezone.com privacy policy that was archived on 2003-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401220424id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -12,7 +12,7 @@
 OAS_url = 'http://ad1.gamezone.com/RealMedia/ads/';
 HomeAd = '';
 OAS_sitepage = 'www.gamezone.com/Misc';
-OAS_listpos = 'x01,Top,TopRight,Bottom,Right,Right2,Right3';
+OAS_listpos = 'x01,Right,Top,TopRight,Bottom,Right2,Right3';
 OAS_chkpos = OAS_listpos + ','
 OAS_query = '';
 OAS_target = '_top';
@@ -39,16 +39,19 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
 if (OAS_version >= 11)
   document.write('<'+'SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"></SCR'+'IPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://ad1.gamezone.com/RealMedia/ads/adstream_mjx.ads/www.gamezone.com/Misc/1818374754@x01,Top,TopRight,Bottom,Right,Right2,Right3?"></script>
+</script><script language="JavaScript1.1" src="http://ad1.gamezone.com/RealMedia/ads/adstream_mjx.ads/www.gamezone.com/Misc/1175380619@x01,Right,Top,TopRight,Bottom,Right2,Right3?"></script>
 <script language="JavaScript">
 <!--
 function ConfigAd(JXPos)
 {
+if (JXPos == "Position2" && HomeAd == "")
+   JXPos = "Position3";
 if (HomeAd == "" && (JXPos == "Bottom1" || JXPos == "Left1" || JXPos == "Middle1" || JXPos == "Right1" || JXPos == "Top1"))
    JXPos = JXPos.substr(0,JXPos.length - 1);
 
 if (OAS_version < 11)
    OAS_NORMAL(JXPos);
+
 else if (OAS_chkpos.indexOf(JXPos + ',') != -1)
    OAS_RICH(JXPos);
 else
@@ -98,7 +101,7 @@ function OpenTheWindow(theURL,winName,features) {
  <tbody><tr align="center" valign="middle">
   <td width="25%" height="71" align="center">
    <a href="/index.htm"><img border="0" src="/global/gz_logo_new3.GIF" alt="Get the latest pc game and video game cheats, demos, downloads, reviews, online games, patches, and news on  the hottest computer and video games available." width="176" height="49"></a><br>
-   <font face="Arial" color="#99CCFF" size="1"><span style="letter-spacing: 2.6pt">12/1/2002</span></font>
+   <font face="Arial" color="#99CCFF" size="1"><span style="letter-spacing: 2.6pt">4/1/2003</span></font>
   </td>
   <td width="50%" height="71">
    <script language="JavaScript">
@@ -106,15 +109,17 @@ function OpenTheWindow(theURL,winName,features) {
   ConfigAd("Top1");
  -->
 </script>
-
   </td>
   <td width="25%" height="71">
    <script language="JavaScript">
  <!--
   ConfigAd("TopRight");
  -->
-</script>
-
+</script><script language="JavaScript">
+ <!--
+  ConfigAd("Position2");
+ -->
+</script><script language="JavaScript1.1" src="http://ad1.gamezone.com/RealMedia/ads/adstream_jx.ads/www.gamezone.com/Misc/1175380619@Position3"></script>
   </td>
  </tr>
 </tbody></table>
@@ -379,7 +384,6 @@ game reviews game previews game review soul reaver preview games gamezone strate
   ConfigAd("Bottom");
  -->
 </script>
-
  </center>
  <br>
  </td>
@@ -406,8 +410,8 @@ game reviews game previews game review soul reaver preview games gamezone strate
  <a href="http://www.gamezone.com/advertise/addopp.htm" class="FooterLink"><nobr>Advertise</nobr></a> •
  <a href="http://www.gamezone.com/affiliate/meetaffiliates2.htm" class="FooterLink"><nobr>Meet Affiliates</nobr></a> •
  <a href="mailto:webmaster@gamezone.com" class="FooterLink"><nobr>Contact Us!</nobr></a>
- <p align="center" class="FooterText">© 1996-2001, GameZone Online, LLC. All rights reserved.<br>
- Site Last Updated - 11/30/2002<br>
+ <p align="center" class="FooterText">© 1996-2003, GameZone Online, LLC. All rights reserved.<br>
+ Site Last Updated - 03/31/2003<br>
  Hosted by <a href="http://www.cybercon.com" class="FooterLink">Cybercon.com</a></p></center>
  </td>
  </tr>
@@ -455,13 +459,11 @@ game reviews game previews game review soul reaver preview games gamezone strate
  <!--
   ConfigAd("Right");
  -->
-</script>
-<script language="JavaScript">
+</script><script language="JavaScript">
  <!--
   ConfigAd("Right2");
  -->
 </script>
-
  </center>
 <table border="0" cellpadding="4" cellspacing="0" width="100%">
  <tbody><tr>
@@ -485,44 +487,51 @@ game reviews game previews game review soul reaver preview games gamezone strate
  <td bgcolor="#350066" height="1">
  <p align="left" style="margin-left: 2; margin-top: 5; margin-bottom: 0;"><a href="/sneak/sneak.htm" class="SideLinkGrey">Gone Gold</a></p>
  <p align="left" style="margin-left: 8; margin-top: 2">
- <a href="/gamesell/p14585.htm" class="SideLink">Filbert Fledgling</a><br>
- <a href="/gamesell/p20337.htm" class="SideLink">Dark Age of Camelot:...</a><br>
- <a href="/gamesell/p21236.htm" class="SideLink">Armored Assault</a><br>
+ <a href="/gamesell/p21165.htm" class="SideLink">Soccer Manager</a><br>
+ <a href="/gamesell/p15542.htm" class="SideLink">Project Entropia</a><br>
+ <a href="/gamesell/p21803.htm" class="SideLink">Legion Gold</a><br>
+ <a href="/gamesell/p19790.htm" class="SideLink">POSTAL 2</a><br>
+ <a href="/gamesell/p21438.htm" class="SideLink">Enigma: Rising Tide</a><br>
  </p>
  <p></p>
  <p align="left" style="margin-left: 2; margin-top: 5; margin-bottom: 0;"><a href="/news/news0000.htm" class="SideLinkGrey">Headlines</a></p>
  <p align="left" style="margin-left: 8; margin-top: 2">
- <a href="/news/11_27_02_07_45PM.htm" class="SideLink">BioWare and ATARI ann...</a><br>
- <a href="/news/11_27_02_02_00PM.htm" class="SideLink">3DO Releases "Fa...</a><br>
+ <a href="/news/04_01_03_04_03PM.htm" class="SideLink">GMX Media Announces N...</a><br>
+ <a href="/news/04_01_03_01_02PM.htm" class="SideLink">Game Live Events Anno...</a><br>
+ <a href="/news/04_01_03_09_50AM.htm" class="SideLink">Championship Manager...</a><br>
+ <a href="/news/03_31_03_09_52PM.htm" class="SideLink">Purge has Shipped</a><br>
  </p>
  <p align="left" style="margin-left: 2; margin-top: 5; margin-bottom: 0;"><a href="/released/released.htm" class="SideLinkGrey">New Releases</a></p>
  <p align="left" style="margin-left: 8; margin-top: 2">
- <a href="/gamesell/p21289.htm" class="SideLink">Microsoft Train Simul...</a><br>
- <a href="/gamesell/p21095.htm" class="SideLink">The Ultimate Trainz C...</a><br>
- <a href="/gamesell/p20122.htm" class="SideLink">Hearts of Iron</a><br>
+ <a href="/gamesell/p21596.htm" class="SideLink">Flight Deck 3</a><br>
+ <a href="/gamesell/p21474.htm" class="SideLink">Casino Inc.</a><br>
+ <a href="/gamesell/p19933.htm" class="SideLink">Purge</a><br>
+ <a href="/gamesell/p20055.htm" class="SideLink">Championship Manager 4</a><br>
  </p>
  <p></p>
  <p align="left" style="margin-left: 2; margin-top: 5; margin-bottom: 0;"><a href="/reviews/reviews.htm" class="SideLinkGrey">Recent Reviews</a></p>
  <p align="left" style="margin-left: 8; margin-top: 2">
- <a href="/gzreviews/r20185.htm" class="SideLink">Deadly Dozen: Pacific...</a><br>
- <a href="/gzreviews/r20808.htm" class="SideLink">Medal of Honor: Allie...</a><br>
- <a href="/gzreviews/r21240.htm" class="SideLink">P3000 Wireless Pad &amp;...</a><br>
- <a href="/gzreviews/r20573.htm" class="SideLink">FIFA Soccer 2003</a><br>
- <a href="/gzreviews/r18513.htm" class="SideLink">Arx Fatalis</a><br>
- <a href="/gzreviews/r21083.htm" class="SideLink">The Gladiators of Rome</a><br>
+ <a href="/gzreviews/r19206.htm" class="SideLink">New World Order</a><br>
+ <a href="/gzreviews/r20876.htm" class="SideLink">High Heat Major Leagu...</a><br>
+ <a href="/gzreviews/r20435.htm" class="SideLink">Devastation</a><br>
+ <a href="/gzreviews/r20463.htm" class="SideLink">Metal Gear Solid 2: S...</a><br>
+ <a href="/gzreviews/r19977.htm" class="SideLink">Jurassic Park: Operat...</a><br>
+ <a href="/gzreviews/r20593.htm" class="SideLink">The Omega Stone: Ridd...</a><br>
  </p>
  <p align="left" style="margin-left: 2; margin-top: 5; margin-bottom: 0;"><font class="SideTextSmall">Recent Screen Shots</font></p>
  <p align="left" style="margin-left: 8; margin-top: 2">
- <a href="/gamesell/screens/s20342.htm?Num=0" class="SideLink">Savage</a><br>
- <a href="/gamesell/screens/s20627.htm?Num=0" class="SideLink">A320 Pilot in Command</a><br>
- <a href="/gamesell/screens/s21294.htm?Num=0" class="SideLink">Restaurant Empire</a><br>
- <a href="/gamesell/screens/s21296.htm?Num=0" class="SideLink">Gaia Nova</a><br>
- <a href="/gamesell/screens/s20131.htm?Num=0" class="SideLink">Xenus</a><br>
- <a href="/gamesell/screens/s21285.htm?Num=0" class="SideLink">World of Pirates</a><br>
+ <a href="/gamesell/screens/s21823.htm?Num=0" class="SideLink">Cold War</a><br>
+ <a href="/gamesell/screens/s21824.htm?Num=0" class="SideLink">Northland</a><br>
+ <a href="/gamesell/screens/s21017.htm?Num=0" class="SideLink">Ballerium</a><br>
+ <a href="/gamesell/screens/s21492.htm?Num=0" class="SideLink">Dark Age Of Camelot:...</a><br>
+ <a href="/gamesell/screens/s20693.htm?Num=0" class="SideLink">Commandos 3: Destinat...</a><br>
+ <a href="/gamesell/screens/s20221.htm?Num=0" class="SideLink">Warhammer Online</a><br>
+ <a href="/gamesell/screens/s20813.htm?Num=0" class="SideLink">Nina: Agent Chronicles</a><br>
+ <a href="/gamesell/screens/s21045.htm?Num=0" class="SideLink">Deus Ex 2:  Invisible...</a><br>
  </p>
  <p align="left" style="margin-left: 2; margin-top: 5; margin-bottom: 0;"><font class="SideTextSmall"><b>Win Free Games</b></font></p>
  <p align="left" style="margin-left: 8; margin-top: 2">
- <a href="http://www.gamezone.com/winfree/contest.htm" class="SideLink">Asheron's Call 2 Fallen Kings</a><br>
+ <a href="http://www.gamezone.com/winfree/contest.htm" class="SideLink">The Omega Stone: Riddle of the Sphinx II</a><br>
  </p>
  </td>
  </tr>
@@ -535,7 +544,6 @@ game reviews game previews game review soul reaver preview games gamezone strate
   ConfigAd("Right3");
  -->
 </script>
-
  </center>
  </td>
  </tr>
