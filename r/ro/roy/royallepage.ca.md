@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216204342id_/http%3A//royallepage.ca/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210104520id_/http%3A//www.royallepage.ca/privacy/index.htm) for the most accurate reproduction.*
 
 # Royal LePage - Canada's Real Estate PortalTM
 
-You are here:  [Home](https://web.archive.org/web/20011216204342id_/http%3A//royallepage.ca/index.htm) | **Privacy Policy**
+You are here:  [Home](https://web.archive.org/web/20021210104520id_/http%3A//www.royallepage.ca/index.htm) | **Privacy Policy**
 
 **Privacy Policy**
 
@@ -62,4 +62,4 @@ Royal LePage may disclose your personally identifiable information if required t
 
 Royal LePage reserves the right to modify this policy at any time. Changes will be posted on this page, so we encourage you to return to this page to review this policy and keep informed of any changes.
 
-You are here:  [Home](https://web.archive.org/web/20011216204342id_/http%3A//royallepage.ca/index.htm) | **Privacy Policy**
+You are here:  [Home](https://web.archive.org/web/20021210104520id_/http%3A//www.royallepage.ca/index.htm) | **Privacy Policy**
