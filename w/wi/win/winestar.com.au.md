@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winestar.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605152106id_/http%3A//www.winestar.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winestar.com.au privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206213315id_/http%3A//www.winestar.com.au/privacy.html) for the most accurate reproduction.*
 
 # WineStar
 
@@ -18,3 +18,5 @@ _WineStar is fully committed to data security. We use VeriSign 128bit encryption
 
 _WineStar supports current industry initiatives, such as the Online Privacy Alliance ([www.privacyalliance.org) to](http://www.privacyalliance.org/) preserve individual privacy rights on the Internet and in all aspects of electronic commerce. If you have a question specific to privacy, please contact us at [privacy@winestar.com.au.](mailto:privacy@winestar.com.au) Our privacy policy is subject to change at any time and without notice. _  
  
+
+Copyright © WineStar 2004
