@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218005944id_/http%3A//www.sfgate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607234416id_/http%3A//sfgate.com/pages/privacy) for the most accurate reproduction.*
 
 # SF Gate: Privacy Policy
 
-Privacy Statement for SF Gate
+  
+
 
 SF Gate regards your online privacy as an important and serious matter. We have created this privacy statement in order to demonstrate our commitment to this issue. 
 
@@ -27,7 +28,7 @@ San Francisco CA 94103
 Email: [](mailto:support@sfgate.com)[support@sfgate.com](mailto:support@sfgate.com)  
 Phone: 415-865-9444 
 
-If SF Gate has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/users_watchdog.html).   
+If SF Gate has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/users_watchdog.html).  
   
 **TOPICS THIS STATEMENT COVERS**  
 ---  
