@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verybestbaking.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211141051id_/http%3A//verybestbaking.com/general/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verybestbaking.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402074700id_/http%3A//www.verybestbaking.com/general/privacy.asp) for the most accurate reproduction.*
 
 # Nestlé Very Best Baking - Privacy
 
