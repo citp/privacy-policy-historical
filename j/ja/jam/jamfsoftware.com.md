@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416155743id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# JAMF Software - zen and the art of macintosh maintenance
+# JAMF Software - Zen and the Art of Macintosh Maintenance
 
-|  |    
-[](https://web.archive.org/web/20030416155743id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?view=c_news)  
-[](https://web.archive.org/web/20030416155743id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?view=g_products)  
-[](https://web.archive.org/web/20030416155743id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?view=m_support)  
-[](https://web.archive.org/web/20030416155743id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?view=s_purchase)  
-[](https://web.archive.org/web/20030416155743id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?view=v_contact)  
+|  | 
+
+[](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=news)
+
+[](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=products)
+
+[](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=support)
+
+[](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=contact)
+
 |    
 
 
@@ -27,6 +31,6 @@
 * * *
 
   
-[Contact US](https://web.archive.org/web/20030416155743id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?view=v_contact) | [Privacy Policy](https://web.archive.org/web/20030416155743id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=privacy)
+[Contact US](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=contact) | [Privacy Policy](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=privacy)
 
-© 2002 JAMF Software, LLC 
+© 2002-2003 JAMF Software, LLC 
