@@ -1,12 +1,35 @@
-> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212005815id_/http%3A//www.kegworks.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/privacy.html) for the most accurate reproduction.*
 
-# KegWorks.com...Privacy Statement for KegWorks.com
+# KegWorks.com
 
-|  |  |  |   
-  
+|   
 ---  
   
-**Privacy Statement for KegWorks.com**
+|   
+   
+[ • Draft Beer Equipment](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Draft%20Beer%20Equipment)  
+[ • Compact Refrigeration](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Compact%20Refrigeration)  
+[ • Commercial Equipment](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Commercial%20Equipment)  
+[ • Bar Accessories](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Bar%20Accessories)  
+[ • Bars and Bar Furniture](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Bars%20and%20Bar%20Furniture)  
+[ • Beer Books & Posters](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/art.html)  
+[ • Concession Equipment](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Concession%20Equipment)  
+[ • Professional Cookware](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Professional%20Cookware)  
+[ • BBQ Grills by  
+   DeluxeGrills.com](http://www.deluxegrills.com/)  
+|   
+  
+|   
+  
+|   
+[ • About Us](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/about.html)  
+[ • Affiliate Program](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/affilate.html)  
+[ • Catalog Download](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/catalog.html)  
+[ • Join Our Mailing List](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/mailinglist.html)  
+[ • Links We Like](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/links.html)  
+[ • Tutorials & Instructions](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/tutorials.html) |   
+  
+Privacy Statement for KegWorks.com
 
 KegWorks.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [KegWorks.com](http://www.kegworks.com/)
 
@@ -25,4 +48,3 @@ This site contains links to other sites. KegWorks.com is not responsible for the
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
 **Contacting the Web Site**
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [feedback@kegworks.com ](mailto:feedback@kegworks.com)
-|  | 
