@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanejournal.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202153938id_/http%3A//www.insanejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanejournal.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603025738id_/http%3A//insanejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,13 @@
   
 | 
 
-**Our promise to you...**   
-All the information we collect from you will be for statistical and demographic purposes only. We will not give out your information or sell it to others. Further, we will not send you junk mail either. The only things we email you will be things you explicitly ask for (like a password reminder), mailing lists that you sign up for, or notifications about your account status. 
+**Our promise to you...**
 
-**All the information we gather...**   
-The following is a table that summarizes all the information we collect from users and how we use it: 
+All the information we collect from you will be for statistical and demographic purposes only. We will not give out your information or sell it to others. Further, we will not send you junk mail either. The only things we email you will be things you explicitly ask for (like a password reminder), mailing lists that you sign up for, or notifications about your account status.
+
+**All the information we gather...**
+
+The following is a table that summarizes all the information we collect from users and how we use it:
 
 | **Information**|  **How we use it...**  
 ---|---  
@@ -32,8 +34,9 @@ Your email address is never given away or sold to third-parties. One exception i
 **City, State, Zip, Country**|  All this information is optional. If you provide it, and also choose to be listed in the user directory, then this information is used to determine what region to show your link under.   
 **Your picture**|  You do not have to upload a picture. However, you can choose to upload a picture of yourself, your cat, a drawing, whatever. Whatever you do upload will be used to represent yourself in various parts of the site, along with your name and username.   
   
-**Anything else?**   
-Are we forgetting anything? Do you have any other questions we can answer for you and place on this page so others don't have the same questions? Contact us [here](https://web.archive.org/support/submit.bml). 
+**Anything else?**
+
+Are we forgetting anything? Do you have any other questions we can answer for you and place on this page so others don't have the same questions? Contact us [here](https://web.archive.org/support/submit.bml).
 
   
   
