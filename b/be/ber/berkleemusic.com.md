@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618030845id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2003-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030824115850id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
 
 # Berkleemusic - Privacy Policy
 
@@ -8,7 +8,7 @@ Berklee may revise this Privacy Policy at any time. You should, therefore, revie
 
 ## COLLECTION OF INFORMATION 
 
-Berklee generally only collects personally identifiable information from you when you voluntarily submit it to us when you: register with us; enroll in online classes, purchase Passport or Access memberships, purchase products from any online stores we offer; participate in contests, events or promotions; send us questions or comments via e-mail; and/or, fill out online surveys, or any other requests we make for suggestions or comments about the Web site. This information may include personal information such as your name, e-mail address, telephone number, and home address. Also, we may request certain demographic information such as your age, and gender. We never collect more information than what is reasonably necessary to fulfill your requests and our legitimate business objectives. We will take appropriate steps to ensure the security and integrity of any information you provide to us. 
+Berklee generally only collects personally identifiable information from you when you voluntarily submit it to us when you: register with us; enroll in online classes; purchase Passport memberships; purchase products from any online stores we offer; participate in contests, events or promotions; send us questions or comments via e-mail; and/or, fill out online surveys, or any other requests we make for suggestions or comments about the Web site. This information may include personal information such as your name, e-mail address, telephone number, and home address. Also, we may request certain demographic information such as your age, and gender. We never collect more information than what is reasonably necessary to fulfill your requests and our legitimate business objectives. We will take appropriate steps to ensure the security and integrity of any information you provide to us. 
 
 **If you are under the age of 13, your parent or guardian's consent is required before you can provide any personal information to us for purposes of registration and/or other online activities.**
 
