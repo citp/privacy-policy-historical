@@ -1,179 +1,103 @@
-<!--The following is the downloaded HTML source of the goaheadtours.com privacy policy that was archived on 2004-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040612195649id_/http%3A//www.goaheadtours.com/bin/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goaheadtours.com privacy policy that was archived on 2004-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041213224019id_/http%3A//www.goaheadtours.com/master/info/privacy.asp) for the most accurate reproduction.-->
 
-<html><head><script>
-//global variable for error flag
-var errfound = false;
+<html><head>
+<meta name="DESCRIPTION" content="Travel the world at unbeatable prices with our local experts on exceptional guided tours to Europe and beyond.">
+<title>Go Ahead Vacations</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="KEYWORDS" content="group, travel, senior, senior travel, senior tours, senior vacations, mature, vacations, packages, vacation packages, goahead, go ahead, goaheadvacations, go ahead travel, tours, operators, tour operators, city, cruises, easy, ease, discount, budget, budget travel, foreign, international, guide, guided, guided tours, escorted, escort, tour, holiday, leisure, recreation, adventure, walking tours, value, free, Europe, family, family travel, London, Paris, Rome, Go Ahead, group travel, EF, agent, single, boomer, travell, travl, Europ, Eurpoe, European, bus, train, motorcoach, cruse, gide, vacacion, cheap, adult, newsletter, cultures">
+<link rel="stylesheet" href="/_style/main.css">
+<link rel="SHORTCUT ICON" href="http://www.goaheadvacations.com/favicon.ico">
 
-//display an error alert dropdownbox
-function error2(elem, text) {
-        if (errfound) return;
-        window.alert(text);
-        elem.focus();
-        errfound = true;
-        }
+</head>
+<body bgcolor="#FBF0AB" leftmargin="10" marginwidth="0" topmargin="0" marginheight="0">
 
-
-// main validation function
-function Validate(action) {
-    errfound = false;
-    var str;
-    if (document.QuickQuote.DepCitys.selectedIndex == 0)
-    {
-     error2(document.QuickQuote.DepCitys,"Please select a city");
-
-	}
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="680" bgcolor="white">
+<tbody><tr><td> 
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+		<td width="260">
+			<!--Request catalog-->
+			<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#C7D786">
+				<form name="catalogForm" method="post" action="/master/forms/requestCatalog/default.asp"></form>
+				<tbody><tr>
+					<td><a href="/master/forms/requestCatalog/default.asp"><img src="/images/home/request_free_catalog.gif" border="0"></a></td>
+					<td>
+						<table border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td><span class="T6">First name:&nbsp;</span></td>
+								<td colspan="2"><input class="T6" type="text" size="12" name="FName"></td>								
+							</tr>
+							<tr>
+								<td><span class="T6">Last name:&nbsp;</span></td>
+								<td colspan="2"><input class="T6" type="text" size="12" name="LName"></td>								
+							</tr>
+							<tr>
+								<td><span class="T6">Zip:&nbsp;</span></td>
+								<td><input class="T6" type="text" size="6" name="Zipcode"></td>
+								<td><a href="javascript:document.catalogForm.submit()"><img src="/images/home/go_button_green.gif" border="0"></a></td>								
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				
+			</tbody></table>
+			
+		</td>
+		<!--Phone number image-->
+		<td><a href="/"><img src="/images/home/london_header_logo.gif" width="100%" border="0"></a></td>
+	</tr>
 	
-	if (document.QuickQuote.DepDates.selectedIndex == 0)
-    {
-     error2(document.QuickQuote.DepDates,"Please select a departure date");
-	}
-	
-	str = document.QuickQuote.DepDates[document.QuickQuote.DepDates.selectedIndex].text
-	if (str.search("C") > 0 )
-	{
-		error2(document.QuickQuote.DepDates,"Please call to book this tour")
-	}
-
-	if (document.QuickQuote.cboRoomPref.selectedIndex == 0)
-    {
-     error2(document.QuickQuote.cboRoomPref,"Please select a room preference");
-	}
-
-	str = document.QuickQuote.DepDates[document.QuickQuote.DepDates.selectedIndex].text
-	if (str.search("S") > 0 )
-	{
-		error2(document.QuickQuote.DepDates,"This tour is sold out, please select another tour")
-	}
+	<!--Main Nav bar -->
+	<tr><td colspan="2">
 	
 
-	
-    return !errfound; /* true if there are no errors */
-
-    
-}
-
-
-/****************************
-Author:  Chris Eustace
-
-Purpose: resubmits the page with a 
-given tourdate and ext status to
-return the price.
-
-Created:  3/22/01
-***************************/
-
-function ValidatePriceQuote(action,pagename,tourdate,cruise)
-{
-        errfound = false;
-		var str;
-		var soldout;
-        
-    if (document.QuickQuote.DepCitys.selectedIndex == 0)
-    {
-     error2(document.QuickQuote.DepCitys,"Please select a city");
-	}
-	
-	if (document.QuickQuote.DepDates.selectedIndex == 0)
-    {
-     error2(document.QuickQuote.DepDates,"Please select a departure date");
-	}
-	str = document.QuickQuote.DepDates[document.QuickQuote.DepDates.selectedIndex].text
-	if (str.search("C") > 0 )
-	{
-		error2(document.QuickQuote.DepDates,"Please call to book this tour")
-	}
-	
-	if (document.QuickQuote.cboRoomPref.selectedIndex == 0)
-    {
-     error2(document.QuickQuote.cboRoomPref,"Please select a room preference");
-	}
-	
-	str = document.QuickQuote.DepDates[document.QuickQuote.DepDates.selectedIndex].text
-	if (str.search("S") > 0 )
-	{
-		error2(document.QuickQuote.DepDates,"This tour is sold out, please select another tour")
-	}
-	
-	if (document.QuickQuote.cboExt[document.QuickQuote.cboExt.selectedIndex].value != "extNotAvail")
-		{
-			if (document.QuickQuote.cboExt.selectedIndex == 0)
-			{
-			error2(document.QuickQuote.cboRoomPref,"Please select an extension option");
-			}
-		}
-
-   	if ((action == "getPrice") && (cruise == "false"))
-	{
-		document.QuickQuote.action = pagename + "?TourDate=" + tourdate + "&Quote=" + document.QuickQuote.cboExt[document.QuickQuote.cboExt.selectedIndex].value
-	}
-	else if ((action == "getPrice") && (cruise == "true"))
-	{
-		document.QuickQuote.action = pagename + "?TourDate=" + tourdate + "&Quote=" + document.QuickQuote.cboExt[document.QuickQuote.cboExt.selectedIndex].value
-	}
-
-	return !errfound
-}
-
-
-
-
-/****************************
-Author:  Chris Eustace
-
-Purpose: resubmits the page with a 
-given tourdate in order to determine
-the extension status.
-
-Created:  3/16/01
-***************************/
-
-function GetExtension(scriptname)
-{
-	document.QuickQuote.action = "/destinations/" + scriptname + "?TourDate=" + document.QuickQuote.DepDates[eval(document.QuickQuote.DepDates.selectedIndex)].value
-	document.QuickQuote.submit()
-}
-
-/****************************
-Author:  Chris Eustace
-
-Purpose: submits the form the the
-first booking page
-
-Created:  3/22/01
-***************************/
-
-
-function SubmitForm()
-	{
-		document.QuickQuote.action = "/apps/booking/1-tourinformation.asp"
-		if (false==true){
-			document.QuickQuote.target = "_new";
-		}
-		document.QuickQuote.submit()
-	}
-
-
-
-function SubmitCForm()
-	{
-		document.CQuickQuote.action = "/apps/booking/1-tourinformation.asp"
-		document.CQuickQuote.submit()
-	}
-</script>
-
-
-
-
-
-
-
-
-<title>Go Ahead Vacations - Privacy Policy</title>
-<meta name="KEYWORDS" content="cheap travel quality adult travel all inclusive tours city stays cruise tour cruises foreign travel group travel guided tour holiday international travel leisure millennium tours packaged travel QE2 recreation senior group travel tour operator tour package vacation travel walking tours value tours sun travel travell tarvel traevl turo toru tarevl traveln culinary tours motorcoach tours curise cruse">
-<link rel="stylesheet" href="/includes/_style.css">
-
+<table width="100%" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td valign="top"><a href="/master/"><img src="/images/nav/home_off.gif" border="0" onmouseover="javascript:this.src='/images/nav/home_over.gif'" onmouseout="javascript:this.src='/images/nav/home_off.gif'"></a></td>
+		<td valign="top"><a href="/master/bookingform/"><img src="/images/nav/book_a_tour_off.gif" border="0" onmouseover="javascript:this.src='/images/nav/book_a_tour_over.gif'" onmouseout="javascript:this.src='/images/nav/book_a_tour_off.gif'"></a></td>
+		<td valign="top"><a href="/master/forms/contactUs/"><img src="/images/nav/contact_us_off.gif" border="0" onmouseover="javascript:this.src='/images/nav/contact_us_over.gif'" onmouseout="javascript:this.src='/images/nav/contact_us_off.gif'"></a></td>
+		<td valign="top"><a href="/master/destination/"><img src="/images/nav/destinations_off.gif" border="0" onmouseover="javascript:this.src='/images/nav/destinations_over.gif'" onmouseout="javascript:this.src='/images/nav/destinations_off.gif'"></a></td>
+		<td valign="top"><a href="/master/info/whyGoAhead/"><img src="/images/nav/why_go_ahead_off.gif" border="0" onmouseover="javascript:this.src='/images/nav/why_go_ahead_over.gif'" onmouseout="javascript:this.src='/images/nav/why_go_ahead_off.gif'"></a></td>
+		<td valign="top"><a href="/master/info/faq/"><img src="/images/nav/faq_off.gif" border="0" onmouseover="javascript:this.src='/images/nav/faq_over.gif'" onmouseout="javascript:this.src='/images/nav/faq_off.gif'"></a></td>
+		<td valign="top"><a href="/master/info/group/"><img src="/images/nav/organize_group_off.gif" border="0" onmouseover="javascript:this.src='/images/nav/organize_group_over.gif'" onmouseout="javascript:this.src='/images/nav/organize_group_off.gif'"></a></td>
+		<td valign="top"><a href="/account/"><img src="/images/nav/my_account_off.gif" border="0" onmouseover="javascript:this.src='/images/nav/my_account_over.gif'" onmouseout="javascript:this.src='/images/nav/my_account_off.gif'"></a></td>
+	</tr>
+</tbody></table> 
+	</td></tr>
+</tbody></table> 
+<div align="center">
+<table cellspacing="0" cellpadding="0" border="0" width="550">
+	<tbody><tr><td>
+		<br><br>
+		<img src="/images/headline/hdr_privacy_policy.gif" border="0"><br><br>
+		<b>Effective date: June 1, 2004</b><br><br><b>Our Commitment to Privacy </b><br><br>Goaheadvacations.com is committed to protecting the privacy of our users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. This notice is available at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the goaheadvacations.com website. <br><br>
+		
+		<a href="javascript:Certify('http://www.bbbonline.org/r.cfm?ID=21002177');"><img src="/images/reli3.gif" alt="BBBOnLine Reliability Seal" width="50" height="77" border="0" align="right" hspace="8"></a>
+		We are a member of the Better Business Bureau serving Eastern Massachusetts, Maine and Vermont.<br><br>
+		
+		<b>Collection of Personal Information </b><br><br>On our site, you can reserve and pay for your vacation with a credit card. Goaheadvacations.com maintains the confidentiality, security and integrity of personal information that we obtain from our users. The personal information collected includes your name, address, email address, phone number and credit/debit card information. <br><br>When you request a newsletter subscription we ask for your name, email address, and city. To send a digital postcard or tell a friend about a particular tour, we ask for the recipient's name and email address. <br><br>If you need to change any information you have given goaheadvacations.com, you can do so by calling our toll-free number 1-800-597-0350 or <a href="/master/forms/contactUs/">contacting us online</a>. <br><br>
+		
+		<b>The Way We Use Information</b><br><br>We use the information you provide about yourself when placing an order only to complete that order. We are required to collect this information in order to complete your travel documents. We do not share this information with outside parties except to the extent necessary to complete your reservation. <br><br>Personal information collected by goaheadvacations.com is stored in secure operating environments that are not available to the public. You should always be careful when distributing your personal information in this manner. <br><br>We use the information you provide about someone else only to confirm message delivery. We do not share this information with outside parties except to the extent necessary to confirm that message. Information you provide to us to create a message is only used for that purpose, and it is only disclosed to the recipient. <br><br>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. <br><br>You can request our catalog, as well as updates about our products and services. Information you submit via our website will not be used for these purposes unless you request them. <br><br>Goaheadvacations.com may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. <br><br>Finally, we never use or share the personally identifying information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. <br><br>
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td valign="top"><b>Our Commitment To Data Security</b><br><br>We exercise great care in providing secure transmission of our users' financial information from their computers to our servers by using encryption technology. </td>
+				<td width="5">&nbsp;</td>
+				<td><script src="https://seal.verisign.com/getseal?host_name=www.goaheadvacations.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO"></script></td>
+			</tr>
+		</tbody></table>
+		<br><br>
+		<b>Who is collecting your information</b><br><br>When you request information on goaheadvacations.com and are asked for personal information, you are sharing that information with Go Ahead alone. <br><br>Please be aware that Go Ahead advertisers or websites to which our site has links may collect personally identifiable information about you. The information practices of those websites linked to Go Ahead are not covered by this privacy statement. <br><br>
+		<b>Use of "cookies"</b><br><br>"Cookies" are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. We use both session and persistent cookies. The use of cookies is an industry standard, used to provide useful features for customers. Cookies, by themselves, do not personally identify users, although they do identify a user's computer. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. However, you may not be able to take full advantage of our website if you do so. For example, the complete online reservation process can only be accessed if you accept cookies. Currently, we do not tie cookie usage to personally identifiable information. <br><br>
+		<b>Collection, use and distribution of your information</b><br><br>Go Ahead does not sell or rent user information to anyone. If you opt in for the service, Go Ahead may send you email about products and services that we feel will be of interest to you. You may opt out of these mailings at any time by visiting this page: <a href="/newsletter/unsubscribe.asp"> http://www.goaheadvacations.com/newsletter/unsubscribe.asp</a>.<br><br> You can also update or correct factual information about your account by <a href="/master/forms/contactUs/">contacting us online</a> or by calling 1-800-590-1170. <br><br>
+		<b>Your Consent</b><br><br>By using our website, you consent to the collection and use of this information by goaheadvacations.com. If we decide to change our privacy policy, we will post any changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. <br><br>
+		<b>How To Contact Us</b><br><br>Should you have other questions or concerns about these privacy policies, please call us at 1-800-597-0350 or <a href="/master/forms/contactUs/">contact us online</a>.<br><br>
+		
+		<a href="javascript:history.back()">&lt; Back to previous page</a><br><br>
+		<br><br><br><br><br><br>
+	</td></tr>
+</tbody></table>
+</div>
 <script language="JavaScript">
 <!-- 
 function Certify(URL) {
@@ -183,157 +107,28 @@ function Certify(URL) {
 // -->
 </script>
 
-</head>
-
-<body bgcolor="#FFFFFF" link="#008800" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" text="#000000" alink="#663300" vlink="#003300">
-<script language="JavaScript">
-<!--
-function openHelp(url) {popUpWin = window.open(url,'helpWin','toolbar=0,location=no,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=500,height=375');
-
-        if (navigator.appName == 'Netscape') {
-                popUpWin.focus();
-        }
-}
-//-->
-</script>
-
-<map name="textlinks">
-<area shape="rect" coords="8,3,297,68" href="/about/group.asp">
-<area shape="rect" coords="8,73,294,123" href="/destinations/tour_name.asp">
-<area shape="rect" coords="7,131,293,183" href="/account/login.asp">
-<area shape="rect" coords="8,193,292,253" href="/newsletter/default.asp">
-</map><table width="580" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-<td width="8" rowspan="4"><img src="/images/1x1.gif" width="8"></td>
-<td height="4" width="115"><img src="/images/1x1.gif" height="4"></td>
-<td height="4" width="68"><img src="/images/1x1.gif" height="4"></td>
-<td height="4" width="295"><img src="/images/1x1.gif" height="4"></td>
-<td height="4" width="102"><img src="/images/1x1.gif" height="4"></td>
-</tr>
-<tr> 
-    <td align="left" valign="bottom" width="115">
-		<a href="/home/default.asp"><img src="/images/header/top_tag.gif" width="115" height="49" border="0"></a>
-	</td>    
-    <td colspan="3" align="right" valign="top">
-    <a href="/bin/ContactMain.asp"><img src="/images/home2003/tools_contact.gif" border="0" vspace="5"></a>
-    <a href="/bin/CatalogMain.asp"><img src="/images/home2003/tools_freecatalog.gif" border="0" vspace="5"></a>
-	<a href="/newsletter/"><img src="/images/home2003/tools_emag.gif" border="0" vspace="5"></a>
-	</td>
-</tr>
-  
-  <tr> 
-    <td colspan="4"><img src="/images/header/hdr_default.gif" width="580" height="31" usemap="#welcomemap" border="0"></td>
-  </tr>
-  <tr> 
-    <td colspan="4"><img src="/images/header/hdr_generic.gif" width="580" height="31"></td>
-  </tr>
+<!--Close the first row -->
+</td></tr>
+<!--End of main content -->
+<tr><td align="center" bgcolor="#FBF0AB">
+	<br><br>
+	<span class="T2_G"><a href="/master/forms/contactUs/">Contact Us</a>&nbsp;|&nbsp;
+	<a href="/pdf/bookingterms.pdf" target="_new">Terms &amp; Conditions</a> (PDF)&nbsp;|&nbsp;
+	</span>
+	<span class="T4"><a href="/master/info/privacy.asp">PRIVACY POLICY</a></span>&nbsp;|&nbsp;
+	<span class="T2_G"><a href="/master/info/notice.asp">Notice</a>&nbsp;|&nbsp;
+	<a href="/master/info/uses.asp">Terms of Use</a></span>
+	<br><br>
+	<span class="T5">Copyright © 2004 EF Cultural Travel Ltd.<br><br>
+	Go Ahead Vacations is a member of the <a target="_new" href="http://www.ef.com/"><img src="/images/icons/eflogo.gif" border="0"></a>group of companies.<br><br>
+	<a href="http://www.ustoa.com/" target="_new"><img src="/images/icons/button_ustoa.gif" border="0"></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/master/info/privacy.asp"><img src="/images/icons/button_bbb.gif" border="0"></a>
+	</span>
+	
+</td></tr>
 </tbody></table>
-<map name="welcomemap">
-  <area shape="rect" coords="7,4,67,27" href="/home/default.asp">
-  <area shape="rect" coords="84,4,175,28" href="/destinations/tour_name.asp">
-  <area shape="rect" coords="192,4,283,28" href="/about/Group.asp">
-  <area shape="rect" coords="303,5,391,28" href="/about/AboutMain.asp">
-  <area shape="rect" coords="406,4,500,28" href="/travel_center/default.asp">
-  <area shape="rect" coords="514,4,573,28" href="/account/login.asp">
-</map> 
-<br>
-<table width="570" border="0">
-	<tbody><tr> 
-		<td width="18"><img src="images/1x1.gif" width="1" height="1"></td>
-		<td> 
-			<span class="headline0">Our Commitment to Privacy</span>
-			<p>
-			
-
-			Goaheadvacations.com is committed to protecting the privacy of our users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. This notice is available at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the goaheadvacations.com website.
-			</p><p>
-			<!--BBBonline verification button---->
-			<a href="javascript:Certify('http://www.bbbonline.org/r.cfm?ID=21002177');"><img src="images/reli3.gif" alt="BBBOnLine Reliability Seal" width="50" height="77" border="0" align="right" hspace="8"></a>
-			<!--end BBBonline verification button---->
-			We are a member of the Better Business Bureau serving Eastern Massachusetts, Maine and Vermont.
-			</p><p>
-			<span class="headline1">Collection of Personal Information</span>
-			</p><p>
-			On our site, you can reserve and pay for your vacation with a credit card. Goaheadvacations.com maintains the confidentiality, security, and integrity of personal information that we obtain from our users. The personal information collected includes your name, address, email address, phone number, and credit/debit card information.
-			</p><p>
-			When you request a newsletter subscription we ask for your name, email address, and city. To send a digital postcard or tell a friend about a particular tour, we ask for the recipient's name and email address.
-			</p><p>
-			If you need to change any information you have given goaheadvacations.com, you can do so by calling our toll-free number 1-800-597-0350 or sending an email to <a href="mailto:goahead@ef.com">goahead@ef.com</a>.
-			</p><p>
-			<span class="headline1">The Way We Use Information</span><br>
-			</p><p>
-			We use the information you provide about yourself when placing an order only to complete that order. We are required to collect this information in order to complete your travel documents. We do not share this information with outside parties except to the extent necessary to complete your reservation.
-			</p><p>
-			Personal information collected by goaheadvacations.com is stored in secure operating environments that are not available to the public. You should always be careful when distributing your personal information in this manner.
-			</p><p>
-			We use the information you provide about someone else only to confirm message delivery. We do not share this information with outside parties except to the extent necessary to confirm that message. Information you provide to us to create a message is only used for that purpose, and it is only disclosed to the recipient.
-			</p><p>
-			We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
-			</p><p>
-			You can request our catalog, as well as updates about our products and services. Information you submit via our website will not be used for these purposes unless you request them.  You can subscribe to the Go Ahead Traveler, a bi -monthly e-Magazine designed especially for current or future Go Ahead customers.  When you subscribe to the Go Ahead Traveler, you will also receive notice of special travel deals and promotions. You can unsubscribe at any time by visiting this page <a href="/newsletter/unsubscribe.asp">http://www.goaheadvacations.com/newsletter/unsubscribe.asp</a>
-			</p><p>
-			Goaheadvacations.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
-			</p><p>
-			Finally, we never use or share the personally identifying information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-			</p><p>
-			<span class="headline1">Our Commitment To Data Security</span><br>
-			</p><p>
-			We exercise great care in providing secure transmission of our users' financial information from their computers to our servers by using encryption technology.
-			</p><p>
-			</p><blockquote>
-			<span class="headline2">Who is collecting your information</span><br>
-			<p>
-			When you request information on the Go Ahead site and are asked for personal information you are sharing that information with Go Ahead alone.
-			</p><p>
-			Please be aware that Go Ahead advertisers or Web sites to which our site has links may collect personally identifiable information about you. The information practices of those Web sites linked to Go Ahead are not covered by this privacy statement.
-			</p><p>
-			<span class="headline2">Use of "cookies"</span><br>
-			</p><p>
-			"Cookies" are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes.  We use both session and persistent cookies. The use of cookies is an industry standard, used to provide useful features for customers. Cookies, by themselves, do not personally identify users, although they do identify a user's computer. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. However, you may not be able to take full advantage of our website if you do so. For example, the complete online reservation process can only be accessed if you accept cookies. Currently, we do not tie cookie usage to personally identifiable information.
-			</p><p>
-			<span class="headline2">Collection, use and distribution of your information</span><br>
-			</p><p>
-			Go Ahead does not sell or rent user information to anyone.
-			</p><p>
-			If you opt in for the service, Go Ahead may send you email about products and services that we feel will be of interest to you. You may opt out of these mailings at any time by visiting this page:
-			<a href="/newsletter/unsubscribe.asp">http://www.goaheadvacations.com/newsletter/unsubscribe.asp</a>
-			</p><p>
-			You can also update or correct factual information about your account by emailing us at <a href="mailto:goahead@ef.com">goahead@ef.com</a>, or by calling 1-800-590-1170.
-			</p><p>
-			</p></blockquote>
-			<span class="headline1">Your Consent</span><br>
-			<p>
-			By using our website, you consent to the collection and use of this information by goaheadvacations.com. If we decide to change our privacy policy, we will post any changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-			</p><p>
-			<span class="headline1">How To Contact Us</span><br>
-			</p><p>
-			Should you have other questions or concerns about these privacy policies, please call us at 1-800-597-0350 or send us an email at <a href="mailto:goahead@ef.com">goahead@ef.com</a>.
 
 
-			<br><br>
-			<a href="javascript:history.back();">Back to previous page</a>
 
-		
-		
-		</p></td>
-	</tr>
-</tbody></table>
-<p><br>
-<table border="0" cellpadding="3" cellspacing="0" width="590">
-  
-<tbody><tr align="middle"><td><font face="geneva,verdana,arial" size="-2"> 
-      <a href="/bin/ContactMain.asp">Contact Us</a> | <a href="/bin/terms.asp">Terms 
-      &amp; Conditions</a> | <a href="/bin/privacy.asp">Privacy Policy</a>&nbsp;| <a href="/bin/notice.asp">Notice</a> | <a href="/bin/termsofuse.asp">Terms of Use</a></font><br>
-      <br>
-      <font face="Verdana, Arial, Helvetica, sans-serif" size="1">Copyright © 
-      2004 EF Cultural Travel AG<br>
-      Go Ahead Vacations is a member of the <a href="/exit/AboutEF.asp"><img height="17" src="/images/EFlogo.gif" width="30" align="absMiddle" border="0"></a> 
-      group of companies.<br>
-      <br>
-      </font></td>
-  </tr>
-</tbody></table>
- 
-
-
-</p></body></html>
+</body></html>
