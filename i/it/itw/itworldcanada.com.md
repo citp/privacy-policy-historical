@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204221736id_/http%3A//itworldcanada.com/itworldcanada/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604014746id_/http%3A//itworldcanada.com/itworldcanada/privacy.cfm) for the most accurate reproduction.*
 
 # ITworldcanada.com - Canada’s Information Technology Resource
+
+ 
 
 RESOURCES
 
@@ -9,8 +11,6 @@ PUBLICATIONS
 EVENTS
 
 NEWS
-
-[](http://explorer.msn.ca/)
 
 | 
 
@@ -51,7 +51,7 @@ All E-mail mailing lists maintained by **IT World Canada** contain the names of 
 
 
 
-When a user has given us permission, his/her E-mail address may be rented to third-party firms for promotional purposes. All E-mails that are sent to subscribers on **IT World Canada's** E-mail mailing list – whether directly by **IT World Canada,** or by a third party – clearly identify the source of the E-mail list as an **IT World Canada** publication. We allow users to "opt out" of receiving E-mail from third parties when E-mail information is collected. Users who later decide they want to change their preferences may do so by sending E-mail to IT World Canadacirc@IT World Canada.on.ca.
+When a user has given us permission, his/her E-mail address may be rented to third-party firms for promotional purposes. All E-mails that are sent to subscribers on **IT World Canada's** E-mail mailing list – whether directly by **IT World Canada,** or by a third party – clearly identify the source of the E-mail list as an **IT World Canada** publication. We allow users to "opt out" of receiving E-mail from third parties when E-mail information is collected. Users who later decide they want to change their preferences may do so by sending E-mail to IT World Canada [circ@itworldcanada.com](mailto:circ@itworldcanada.com).
 
 **_1x1 Pixel Tags_**  
 This site uses clear gifs, or pixel tags, provided by our adserving company to help manage our on-line advertising. These clear GIFS allow our adserving company to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or email address). For more information about our adserving company or for your choices about not having this anonymous information used please click here [www.doubleclick.net](http://www.doubleclick.net/)
