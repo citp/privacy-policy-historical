@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210143742id_/http%3A//www.responsys.com/corporate/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2004-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040417005254id_/http%3A//www.responsys.com/corporate/policies/privacy.asp) for the most accurate reproduction.*
 
 # Responsys - Privacy Policy
 
@@ -44,7 +44,7 @@ e-mail address, and other information to help us determine your needs related to
 
 **Security and Privacy**
 
-Responsys' web site uses security measures to protect against the loss, misuse, and alteration of the information under our control. We store the information in a database in a secure environment at our service provider, Exodus.
+Responsys' web site uses security measures to protect against the loss, misuse, and alteration of the information under our control. We store the information in a database in a secure environment at our service provider, Savvis Communications.
 
 Client-side cookies are used to verify the login status of customers using products or services linked directly with our web site. Client-side cookies are also used to track point of entry to point of registration for those users participating in our affiliate signup programs or to track and measure the success of a particular marketing campaign. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site; however, the user may be limited in the access to some areas within our web site.
 
