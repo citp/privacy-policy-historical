@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoosiertimes.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207064252id_/http%3A//www.hoosiertimes.com/services/htprivacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoosiertimes.com privacy policy that was archived on 2003-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030611022708id_/http%3A//www.hoosiertimes.com/services/htprivacy.php3) for the most accurate reproduction.*
 
 # HoosierTimes.com: Privacy Policy
 
@@ -36,7 +36,9 @@ Please contact us with any concerns or questions. E-mail [webstaff@hoosiertimes.
 
 * * *
 
-**[Our Privacy Policy and Direct Notice To Parents](https://web.archive.org/services/htprivacy.php3?papernumber=)** Contact the [Web staff](https://web.archive.org/services/htcom-contact.php3) or visit the HoosierTimes.com [advertiser's kit](https://web.archive.org/services/advertiserkit/index.php3?papernumber=).  
+**© 1997 - 2003 Hoosiertimes.com. No commercial reproduction without prior written consent.**
+
+ **[Our Privacy Policy and Direct Notice To Parents](https://web.archive.org/services/htprivacy.php3?papernumber=)** Contact the [Web staff](https://web.archive.org/services/htcom-contact.php3) or visit the HoosierTimes.com [advertiser's kit](https://web.archive.org/services/advertiserkit/index.php3?papernumber=).  
 Content provided by the [Herald-Times](https://web.archive.org/services/ht-aboutus.php3), [Times-Mail](https://web.archive.org/services/tm-aboutus.php3), and [Reporter-Times](https://web.archive.org/services/rt-aboutus.php3).  
 Created by [htInteractive Media](http://www.htinteractive.com/), a division of The Herald-Times.  
 |  | 
