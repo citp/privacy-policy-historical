@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cathaypacific.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208162113id_/http%3A//www.cathaypacific.com/intl/site/privacy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathaypacific.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308181347id_/http%3A//www.cathaypacific.com/intl/site/privacy/0%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Cathay Pacific - Data Privacy and Security Policy
 
@@ -71,8 +71,41 @@ The types of Data we collect, depending on the specific part of the site and tha
 
 You are not required to provide the Data. However, if you elect not to supply the Data as requested from each specific service, we may be unable to deliver you the online services in full.
 
- **Cookies**  
-A cookie is a piece of information about the user that a website can send to your web browser, which may then store it on your computer system. With the use of cookies, we can better serve you when you return to our site. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future.
+ **Use of Cookies on cathaypacific.com**  
+A cookie is an alphanumeric string of identifier that cathaypacific.com transfers to the cookie file of the browser on your computer's hard disk. With the use of cookies, we can better serve you and/or maintain your information across multiple pages within or across one or more sessions. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future.
+
+Two types of cookies are used on this website:  
+ **Session Cookies** , which are temporary cookies that remain in the cookie file of your browser until you leave the site.
+
+ **Persistent Cookies** , which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). 
+
+Cookies cannot be used by themselves to identify you. 
+
+**Examples of How we use Cookies on our Site and what Information we collect**  
+ _Session Cookies_
+
+* To allow you to carry information across pages of our site and avoid having to re-enter information, such as logging in for every page.  
+
+* Within registration to allow you to access stored information.  
+
+* During the booking process so that we can remember your selections.
+
+ _Persistent Cookies_
+
+* To compile anonymous, aggregated statistics that allow us to understand how users use our site, and to help us improve the structure of our website. We cannot identify you personally in this way.  
+
+* To store your chosen country homepage destination.
+
+ _Third Party Cookies_
+
+* To determine and track site traffic coming in from advertisement banners been placed on third parties' websites. 
+
+**Disabling / Enabling Cookies**  
+All browser releases from 4.0 and beyond have a "cookie filter" imbedded in the Privacy settings.
+
+You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features on our site if cookies acceptance have been disabled completely.
+
+Whilst currently we are only using cookie in the ways we have stated out, new cookies will be implemented as necessary in order to better serve you.
 
  **Log Files**  
 We may collect information regarding your IP address, browser type, domain name and access time. This information is used for our own research purposes and is separate from the Data. We do not link IP addresses to any personal information. In rare instances, IP addresses may be used to assist in deterring and/or preventing abusive or criminal activity on the website.  
