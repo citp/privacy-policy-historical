@@ -1,50 +1,29 @@
-> *The following text is extracted and transformed from the volition.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606144123id_/http%3A//www.volition.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volition.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Volition.com LLC PRIVACY POLICY STATEMENT
 
-[](http://www.volition.com/index.html)
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/index.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/free.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/getpaid.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/prize.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/ChooseYourItem/)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/gear/)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/chat/)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/bookshop/postcard.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/calcindex.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/home.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/auto.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/health.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/food.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/travel.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/sites.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/www.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/fwebm.html)  
+[](https://web.archive.org/web/20011212080751id_/http%3A//volition.com/recommend.html)
 
-[](http://www.volition.com/free.html)
+[](http://www.volition.com/cgi-bin/ads.pl?banner=unbeatabledeal1)
 
-[](http://www.volition.com/getpaid.html)
-
-[](http://www.volition.com/prize.html)
-
-[](http://www.volition.com/DoubleLotto/)
-
-[](http://www.volition.com/gear/)
-
-[](http://www.volition.com/chat/)
-
-[](http://www.volition.com/bookshop/postcard.html)
-
-[](http://www.volition.com/calcindex.html)
-
-[](http://www.volition.com/home.html)
-
-[](http://www.volition.com/auto.html)
-
-[](http://www.volition.com/health.html)
-
-[](http://www.volition.com/food.html)
-
-[](http://www.volition.com/travel.html)
-
-[](http://www.volition.com/ifinder/)
-
-[](http://www.volition.com/sites.html)
-
-[](http://www.volition.com/www.html)
-
-[](http://www.volition.com/market.html)
-
-[](http://www.volition.com/fwebm.html)
-
-[](http://www.volition.com/recommend.html)
-
-[](http://www.volition.com/cgi-bin/ads.pl?banner=prizegames)
-
-|   |  This Privacy Policy Statement sets forth the privacy policy pertaining to this Site, www.volition.com which is owned by Volition.com LLC (" Volition.com "). By using this Site, you are agreeing to the terms set forth in this Privacy Policy Statement.
+|     |  This Privacy Policy Statement sets forth the privacy policy pertaining to this Site, www.volition.com which is owned by Volition.com LLC (" Volition.com "). By using this Site, you are agreeing to the terms set forth in this Privacy Policy Statement.
 
 For purposes of this Privacy Policy Statement, "Personal Information" means any information by which you can be personally identified, and includes your name, your address, your telephone number, your e-mail address and the like. Some Site pages may request Personal Information in order to help Volition.com serve you more effectively. Volition.com collects Personal Information only when you voluntarily submit such Personal Information to us, such as when placing a product order or subscribing.
 
