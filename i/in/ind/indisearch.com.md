@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indisearch.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204105102id_/http%3A//indisearch.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indisearch.com privacy policy that was archived on 2005-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050324101036id_/http%3A//www.indisearch.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # IndiSearch.com - indian search engine, india search sites, india directory, add url
 
