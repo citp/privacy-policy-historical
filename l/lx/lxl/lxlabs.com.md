@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lxlabs.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212104158id_/http%3A//lxlabs.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lxlabs.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622115752id_/http%3A//lxlabs.com/legal/privacy.shtml) for the most accurate reproduction.*
 
-# Template
+# Lxlabs: Privacy Policy
 
 **Privacy**
 
