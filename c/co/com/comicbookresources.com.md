@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201174832id_/http%3A//www.comicbookresources.com/r.cgi/pri) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208161811id_/http%3A//www.comicbookresources.com/r.cgi/pri) for the most accurate reproduction.*
 
 # Comic Book Resources: Privacy Policy
 
