@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyextra.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610122303id_/http%3A//www1.moneyextra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyextra.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120624id_/http%3A//www.moneyextra.com/privacy.html) for the most accurate reproduction.*
 
-# MX Moneyextra: Privacy of your information
+# Moneyextra: Privacy of your information
 
 **Privacy of your information**  
   
@@ -26,7 +26,7 @@ All personal data provided by you are held securely and in confidence by us in o
 
 The nature of our service means that from time to time we have to share your personal data with our affiliates who provide the products and services that you request. For instance, if you want to apply for a particular financial product after using the comparison service or simply require more information about it, we will pass your relevant personal data to the product provider in order to fulfill your request. 
 
-Occasionally, we may also contact you by phone, e-mail or otherwise to inform you about products and services which may be of interest to you. However, if you prefer to opt out of such direct marketing activity, please either call our Contact Centre on 0845 6000 900, or let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you. 
+Occasionally, we may also contact you by phone, e-mail or otherwise to inform you about products and services which may be of interest to you. However, if you prefer to opt out of such direct marketing activity, please either call our Contact Centre on 0845 145 0145, or let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you. 
 
 We also extract certain information from your personal data for the purpose of generating statistics for our own internal purposes but it is not possible to identify you from these statistics. 
 
@@ -58,4 +58,4 @@ Notwithstanding anything else that has been agreed or represented (in this Priva
 
 **Contact details**
 
-Our data protection compliance officer is Alec Hughes and he can be contacted by writing to Chase de Vere Financial Solutions plc, Quay House, The Ambury, Bath, BA1 1UA. 
+Our data protection compliance officer is Steve Edwards and he can be contacted by writing to Chase de Vere Financial Solutions plc, Seven Dials, Sawclose, Bath, BA1 1EN. 
