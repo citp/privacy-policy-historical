@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardfountain.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604195759id_/http%3A//cardfountain.com/privacy.php%3Fse%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardfountain.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204155923id_/http%3A//www.cardfountain.com/privacy.php) for the most accurate reproduction.*
 
 # CardFountain Privacy Policy
 
@@ -11,9 +11,6 @@ In addittion we use cookies and 1x1 pixels, to deliver better, targeted marketin
 
 **Registration Forms - Data Collected**  
 Our site's registration form requires our users to enter contact and billing information (such as their name, address, credit card number, and email address). We use customer contact information from the registration form to send the user information about our company, and to sell our membership services.
-
-In addition to the registration forms we provide. We also work with other third party companies which supply us with merchant services. For your information, here are links to their privacy policies:  
-IBill.com ( [privacy policy](http://www.ibill.com/about/privacy.cfm) ) - PayPal.com ( [privacy policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside) )
 
 This site contains links to various other sites as well.   
 CardFountain is not responsible for the privacy practices or the content of such Web sites. 
@@ -31,7 +28,7 @@ This site gives users the following options for removing their information from 
 
 The best way to unsubscribe is by clicking the unsubscribe link in the newsletter you recieve. 
 
-Or you can [click here](https://web.archive.org/web/20040604195759id_/http%3A//cardfountain.com/mail/unsubscribe_form.php) for more options. 
+Or you can [click here](https://web.archive.org/web/20041204155923id_/http%3A//www.cardfountain.com/mail/unsubscribe_form.php) for more options. 
 
 **Abuse**   
 If someone abuses our system, we may disclose their IP address and any pertinent information we have about them to law enforcement agencies or other organizations involved in apprehending that person.   
