@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008150051id_/http%3A//www.stepforth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606121152id_/http%3A//www.stepforth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: StepForth Placement Inc.
 
@@ -58,6 +58,6 @@ The website hosting review is conducted by [WeDoHosting](http://www.wedohosting.
 **StepForth compiles the following information in hard-copy client folders; contact names, telephone and fax numbers, business and billing address, contact email addresses, type of business, host server access (ftp) information, a record of all communications between StepForth and the client, and all documents, research, website position reports and other documents relating to the promtion of our client's websites. We have two types of client files, ACTIVE and ARCHIVED. Active client files are available to all office staff members. Archived client files are closed, bound and stored in a lockable filing cabinet for a period of two years. **** We do not share any client information with ANY other company.
 
 Now StepForth and be Found,  
-[Click Here & Choose the Service that is Right For You!](https://web.archive.org/web/20031008150051id_/http%3A//www.stepforth.com/search-engine-placement/index.html)
+[Click Here & Choose the Service that is Right For You!](https://web.archive.org/web/20040606121152id_/http%3A//www.stepforth.com/search-engine-placement/index.html)
 
 | 
