@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeworld.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402142557id_/http%3A//danworld.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeworld.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204221637id_/http%3A//danworld.net/privacy.shtml) for the most accurate reproduction.*
 
 # Danworld Network: Privacy Statement
 
@@ -26,4 +26,4 @@
 > **Contacting the Web Site**  
 >  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 > 
-> Dan Piparo Danworld, Inc. 626 Seascape Way Tampa, FL 33602 dan@danworld.net
+> Dan Piparo Danworld, Inc. 3621 Horatio Street Tampa, FL 33609 (888) 432-6967 dan@danworld.net
