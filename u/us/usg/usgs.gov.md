@@ -1,11 +1,18 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206082112id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623090656id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
-[ ](http://www.usgs.gov/)   
+[](http://www.usgs.gov/) |  |  [ ](http://www.usgs.gov/index.html) | [USGS Home](http://www.usgs.gov/)  
+---  
+[Ask USGS](http://www.usgs.gov/ask/index.html)  
+[Site Map](http://www.usgs.gov/sitemap.html)  
   
-
-
+[Advanced Search](http://search.usgs.gov/?col=&ht=0&qp=&qs=&qc=&pw=100%25&ws=1&la=en&si=0&ql=a&nh=25&lk=1&rf=0&tt=0)  
+  
+[](http://www.usgs.gov/125/)  
+[](http://www.usgs.gov/about_us.html)[](http://www.usgs.gov/science.html)[](http://www.usgs.gov/pubprod/)[](http://www.usgs.gov/education/)[](http://www.usgs.gov/newsroom/)  
+---  
+  
 The following statements and disclaimers apply to all web sites managed by the U.S. Geological Survey (USGS) unless otherwise noted. 
 
 * * *
@@ -104,7 +111,7 @@ USGS-authored or produced data and information are in the public domain. While t
 
 You are welcome to make a link to any of the Web pages USGS has published on the Internet. There is no need to request permission.
 
-The USGS identifier is trademarked and must be used in accordance with the rules outlined at [Quick Start](http://www.usgs.gov/visual-id/quickstart.html). Information on who may use the USGS identifier and how to obtain a copy of it is available at [ Use of the Trademarked USGS Identifier by Outside Organizations](http://www.usgs.gov/visual-id/outside_use.html).
+The USGS identifier is trademarked and must be used in accordance with the rules outlined at [Visual Identity System](http://www.usgs.gov/visual-id/). Information on who may use the USGS identifier and how to obtain a copy of it is available at [ Use of the Trademarked USGS Identifier by Outside Organizations](http://www.usgs.gov/visual-id/outside_use.html).
 
 We will identify material we use from sources outside of USGS, and request others do the same when using information published by USGS. Credit can be provided by including on the page (or via a link to a credits page) a citation such as:
 
@@ -127,14 +134,17 @@ Neither the U.S. Government nor any agency thereof, nor any of their employees, 
 
 The USGS maintains a [Freedom of Information Act (FOIA) Electronic Reading Room](http://www.usgs.gov/foia/) on the web that provides information on how to request USGS records and also provides links to [Laws and Regulations governing USGS Activities](http://www.usgs.gov/laws/index.html) and other information about the FOIA.
 
-* * *
-
-## To Contact Us
-
-If you have any questions about this "USGS Privacy Policy and Disclaimers," please contact us:
-
 [USGS FOIA Officer](mailto:jcordyac@usgs.gov)  
 Mail Stop 807  
 National Center  
 Reston, VA 20192  
+
+
+* * *
+
+## To Contact Us
+
+If you have questions concerning the use of USGS materials, contact the [ Office of Communications](mailto:kwood@usgs.gov,gwendt@usgs.gov).
+
+  
 
