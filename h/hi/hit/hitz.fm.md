@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417165500id_/http%3A//www.hitz.fm/03/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206175138id_/http%3A//www.hitz.fm/03/privacy.asp) for the most accurate reproduction.*
 
 # www.hitz.fm :: Today's Hit Music
 
@@ -51,6 +51,6 @@ We maintain procedures designed to keep our records accurate, current and comple
 AMP may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by placing announcements and/or post the changes on our Website page.   
 **How To Contact Us Regarding Privacy and Security Issues**  
   
-We take privacy and security matters very seriously and it is important to us that you understand and are comfortable with our privacy standards. If you have any questions, comments, criticisms or complaints about our Privacy and Security Statement and the way it affects you, please feel free to e-mail us at [webmaster@com.my](mailto:webmaster@com.my) or write or call us during regular business hours.
+We take privacy and security matters very seriously and it is important to us that you understand and are comfortable with our privacy standards. If you have any questions, comments, criticisms or complaints about our Privacy and Security Statement and the way it affects you, please feel free to e-mail us at [webmaster@hitz.fm](mailto:webmaster@hitz.fm) or write or call us during regular business hours.
 
 [ **TOP**]
