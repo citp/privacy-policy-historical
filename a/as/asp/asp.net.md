@@ -1,0 +1,34 @@
+> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211141925id_/http%3A//asp.net/privacy.aspx) for the most accurate reproduction.*
+
+# Welcome to the ASP.NET Home Page
+
+Privacy Statement
+
+* * *
+
+The ASP.NET site partners with www.aspng.com to provide a subscription-based email discussion list service. By submitting an email address through the form provided by www.asp.net, you are authorizing the ASP.NET site to forward this address to the www.aspng.com service for the purpose of receiving discussions and announcements via email. Note that while the ASP.NET site provides the form for submitting personal information, this information is submitted directly to www.aspng.com. Personal information is never stored by the asp.net site. 
+
+If at any time you do not wish to receive these emails, you may unsubscribe from the service by visiting the www.aspng.com site directly. For your convenience, instructions for unsubscribing are also include at the bottom of each discussion email sent by the service. 
+
+Except as otherwise described in this statement, personal information you provide on this site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. 
+
+Microsoft may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Microsoft or the site; (b) protect and defend the rights or property of Microsoft and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of users of Microsoft, its Web sites, or the public. 
+
+Personally identifiable information collected on this site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. 
+
+Please be aware that this Privacy Statement and the choices you make on this site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services. 
+
+Changes to the privacy statement: 
+
+We may occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this Privacy Statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this Privacy Statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Statement and any updates. 
+
+Questions or comments: 
+
+Microsoft welcomes your comments regarding this Statement of Privacy. If you believe that Microsoft has not adhered to this Statement, please contact us by e-mail or postal mail, and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+ASP.NET Privacy  
+Microsoft Corporation  
+One Microsoft Way  
+Redmond, Washington 98052 
+
+[Click here to send e-mail](mailto:asportal@microsoft.com)
