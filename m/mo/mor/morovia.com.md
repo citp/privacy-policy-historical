@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the morovia.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204141211id_/http%3A//www.morovia.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morovia.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206161951id_/http%3A//www.morovia.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
+At Morovia Corporation (referred as "Morovia" below), your right to privacy is one of our primary concerns. This Privacy Policy describes the guidelines Morovia uses to protect the information we collect about you during your visit to our Web site. 
+
 ## Information we collect 
 
-What we do with this information The use of "cookies" Your consent Give us your feedback At Morovia Corporation (referred as "Morovia" below), your right to privacy is one of our primary concerns. This Privacy Policy describes the guidelines Morovia uses to protect the information we collect about you during your visit to our Web site. Information we collect At various times, Morovia requests personal information. This can be done while you are visiting the site, or during a purchase via our Web site, phone, or fax. Information we collect may include your name, address, telephone number, email address, credit card information, and personal interests. In addition, Morovia periodically sponsors contests and other promotions that may require additional information in order to participate. 
+At various times, Morovia requests personal information. This can be done while you are visiting the site, or during a purchase via our Web site, phone, or fax. Information we collect may include your name, address, telephone number, email address, credit card information, and personal interests. In addition, Morovia periodically sponsors contests and other promotions that may require additional information in order to participate. 
 
 ## What we do with this information 
 
