@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usmc.mil privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216200624id_/http%3A//www.usmc.mil/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmc.mil privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603065825id_/http%3A//www.usmc.mil/privacy) for the most accurate reproduction.*
 
 # United States Marine Corps
 
