@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capousd.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209024926id_/http%3A//www.capousd.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capousd.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602054206id_/http%3A//www.capousd.org/privacy.htm) for the most accurate reproduction.*
 
 # CUSD Public Website
 
@@ -24,4 +24,4 @@ If a user wishes to register for a class online, we ask for personal information
 
 **_Notification of Changes_**
 
-If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If you feel that CUSD is not abiding by its posted privacy policy, or have any additional questions, you should contact: [webmaster@capousd.k12.ca.us](mailto:webmaster@capousd.k12.ca.us)
+If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If you feel that CUSD is not abiding by its posted privacy policy, or have any additional questions, you should contact: [webmaster@capousd.org](mailto:webmaster@capousd.org)
