@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206190800id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608204744id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
 
 # BAILII - About AustLII: Privacy Policy
 
@@ -28,6 +28,5 @@ If you have any comments or suggestions in relation to this policy, please [send
 
 * * *
 
-**BAILII:** [Feedback](https://web.archive.org/bailii/feedback.html) **|** [Privacy Policy](https://web.archive.org/bailii/privacy.html) **|** [Disclaimers](https://web.archive.org/bailii/disclaimers.html)  
-URL: _http://www.bailii.edu.au/bailii/privacy.html_  
-
+**BAILII:** [Copyright Policy](https://web.archive.org/bailii/copyright.html) **|** [Disclaimers](https://web.archive.org/bailii/disclaimers.html) **|** [Privacy Policy](https://web.archive.org/bailii/privacy.html) **|** [Feedback](https://web.archive.org/bailii/feedback.html)   
+URL: _http://www.bailii.org/bailii/privacy.html_
