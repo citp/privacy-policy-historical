@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elliott.org privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610082101id_/http%3A//www.elliott.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliott.org privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016200918id_/http%3A//www.elliott.org/about/privacy.htm) for the most accurate reproduction.*
 
 # ELLIOTT.ORG: Privacy Policy
 
