@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyexecutives.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603094832id_/http%3A//www.realtyexecutives.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyexecutives.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206235100id_/http%3A//www.realtyexecutives.com/privacy.asp) for the most accurate reproduction.*
 
 # REALTY EXECUTIVES International
 
