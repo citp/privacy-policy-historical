@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ivcc.edu privacy policy that was archived on 2002-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020423185134id_/http%3A//www.ivcc.edu/1-815-220-IVCC/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivcc.edu privacy policy that was archived on 2003-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030228034733id_/http%3A//www.ivcc.edu/1-815-220-IVCC/privacy) for the most accurate reproduction.*
 
-# IVCC > Copyright
+# IVCC > Interim Designation of Agent to Receive Notification of Claimed Infringement
 
 ## IVCC Privacy Statement
 
@@ -78,4 +78,4 @@ Privacy Statement: Learning Technologies
 815 North Orlando Smith Ave.  
 Oglesby, IL 61348
 
-The IVCC Web Site Guidelines and Procedures was originally developed by the IVCC Technology Team in 2002.
+The IVCC Privacy Statement was originally developed by the IVCC Technology Team in 2002.
