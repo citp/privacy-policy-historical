@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602174031id_/http%3A//travelzoo.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206080854id_/http%3A//www.travelzoo.com/Privacy.htm) for the most accurate reproduction.*
 
 # Travelzoo - Privacy Statement
 
@@ -43,6 +43,7 @@ Though we make every effort to preserve your privacy we may need to disclose per
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at the following mailing address: 
 
 > _Travelzoo Inc._   
+> _ATTN: Ralph Bartel, CEO_   
 > _590 Madison Avenue_   
 > _21st Floor_   
 > _New York, NY 10022_
