@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the citimortgage.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204170717id_/http%3A//www.citibank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citimortgage.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214014935id_/http%3A//www.citibank.com/privacy) for the most accurate reproduction.*
 
-# Citibank.com
+# Citi - Privacy
 
-|   
-|   
-  
-
+| 
 
 Your privacy is important to Citibank. This is why, as a member of Citigroup, we are committed to the Citigroup Privacy Promise for Consumers, which is as follows: 
 
-#### Citigroup Privacy Promise for Consumers
+**Citigroup Privacy Promise for Consumers**
 
 While information is the cornerstone of our ability to provide superior service, our most important asset is our customers' trust. Keeping customer information secure, and using it only as our customers would want us to, is a top priority for all of us at Citigroup. Here then, is our promise to our individual customers: 
 
@@ -26,4 +23,6 @@ While information is the cornerstone of our ability to provide superior service,
 
 We will continuously assess ourselves to ensure that customer privacy is respected. We will conduct our business in a manner that fulfills our Promise in the many nations in which we do business. 
 
-Please also read [Citibank's Internet Privacy Policy](https://web.archive.org/web/20020204170717id_/http://www.citibank.com/privacy/privacy.htm), which outlines our privacy policy for our Internet site users.
+Please also read [Citibank's Internet Privacy Policy](https://web.archive.org/web/20021214014935id_/http://www.citibank.com/privacy/privacy.htm), which outlines our privacy policy for our Internet site users.
+
+| 
