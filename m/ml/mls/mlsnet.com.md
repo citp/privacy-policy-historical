@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlsnet.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208174006id_/http%3A//mlsnet.com/resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsnet.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402120216id_/http%3A//mlsnet.com/resources/privacy.html) for the most accurate reproduction.*
 
 # MLSnet.com - The Official Site of Major League Soccer
 
