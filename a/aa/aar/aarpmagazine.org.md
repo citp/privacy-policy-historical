@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarpmagazine.org privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609222050id_/http%3A//www.aarp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarpmagazine.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204072616id_/http%3A//www.aarp.org/privacy.html) for the most accurate reproduction.*
 
 # AARP Privacy Policy
 
@@ -130,6 +130,8 @@ From time to time, we may collect different types of information and use that in
 If you have any questions or comments about your member information or this privacy policy, please send an e-mail by visiting [www.aarp.org/membership](http://www.aarp.org/membership/), or writing to [member@aarp.org](mailto:member@aarp.org), call us at 1-888-OUR-AARP (1-888-687-2277), or write us at the address listed above. We will do our best to investigate any complaint you may have and respond promptly to your concerns.
 
 For more information about online privacy issues generally, we encourage you to visit the web sites of the [Federal Trade Commission](http://www.ftc.gov/), the [Electronic Frontier Foundation](http://www.eff.org/), and the [Electronic Privacy Information Center](http://www.epic.org/).
+
+[ ](https://web.archive.org/aboutaarp/Article%3Cbr%3E%3Cbr%3E%3C/div%3E%3C!--%20page-to-page%20nav%20--%3E%3Cdiv%20align=)Top of Page
 
 |  |  |   
 ---|---|---|---|---
