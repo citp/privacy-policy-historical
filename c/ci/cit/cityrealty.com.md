@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214162144id_/http%3A//www.cityrealty.com/how_cityrealty_works/privacy_policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408054033id_/http%3A//www.cityrealty.com/how_cityrealty_works/privacy_policy.page) for the most accurate reproduction.*
 
 # New York City Apartments > CITY REALTY.COM > HOW CITYREALTY WORKS > PRIVACY POLICY
 
