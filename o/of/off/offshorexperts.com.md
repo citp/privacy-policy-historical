@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offshorexperts.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204072210id_/http%3A//www.offshorexperts.com/index.cfm/fa/home.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offshorexperts.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307110223id_/http%3A//www.offshorexperts.com/index.cfm/fa/home.privacy) for the most accurate reproduction.*
 
-# Offshore Outsourcing, Outsourcing, Offshoring, Global Outsourcing, Outsource, BPO, ITO
+# Outsourcing Directory for Outsourcing Services, Outsourcing Companies, Outsourcing News and Leads
 
 In general, OffshoreXperts.com does not collect, store, use or disclose personally identifying information except in very specific instances, such as, for example, when you enroll as an advertiser in the Services, as defined below. Whenever we collect such information, you will have a choice regarding whether to provide it, how it will be used, and to whom it will be disclosed. The instances in which OffshoreXperts.com does collect and use information are specifically described in this Privacy Policy. 
 
