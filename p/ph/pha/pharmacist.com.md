@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204230050id_/http%3A//www.pharmacist.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604071103id_/http%3A//www.pharmacist.com/privacy.cfm) for the most accurate reproduction.*
 
 # Pharmacist.com - Privacy Policy
 
 **I. Introduction**
 
-The American Pharmaceutical Association (APhA) and the National Association of Boards of Pharmacy (NABP), the owners and operators of pharmacist.com, respect your privacy as a user of this Web site. Please read this Privacy Policy so that you can understand what information is collected on pharmacist.com, how that information is used, with whom it is shared, and how it is protected against unauthorized access. To make this notice easy to locate, we make it available on our home page and throughout the site. 
+The American Pharmacists Association (APhA) and the National Association of Boards of Pharmacy (NABP), the owners and operators of pharmacist.com, respect your privacy as a user of this Web site. Please read this Privacy Policy so that you can understand what information is collected on pharmacist.com, how that information is used, with whom it is shared, and how it is protected against unauthorized access. To make this notice easy to locate, we make it available on our home page and throughout the site. 
 
 Note that this Privacy Policy may be updated from time to time. You should check it regularly to make certain that you are kept up to date. Questions about this Privacy Policy should be directed to: [feedback@pharmacist.com](mailto:feedback@pharmacist.com)
 
 **II. Who collects information through pharmacist.com?**
 
-Pharmacist.com was developed, and is owned and operated jointly, by the American Pharmaceutical Association, which is the national professional society of pharmacists in the United States, and the National Association of Boards of Pharmacy, which is the association whose membership consists of the Boards of Pharmacy of all 50 United States as well as the District of Columbia, Guam, Puerto Rico, the Virgin Islands, New Zealand, eight Canadian Provinces, and four Australian states. For additional information about APhA or NABP, see the "About Us" section of pharmacist.com. 
+Pharmacist.com was developed, and is owned and operated jointly, by the American Pharmacists Association, which is the national professional society of pharmacists in the United States, and the National Association of Boards of Pharmacy, which is the association whose membership consists of the Boards of Pharmacy of all 50 United States as well as the District of Columbia, Guam, Puerto Rico, the Virgin Islands, New Zealand, eight Canadian Provinces, and four Australian states. For additional information about APhA or NABP, see the "About Us" section of pharmacist.com. 
 
 **III. What information is collected on pharmacist.com?**
 
