@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100free.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214012412id_/http%3A//100free.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100free.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604065252id_/http%3A//100free.com/privacy.html) for the most accurate reproduction.*
 
 # 100Free.com
 
