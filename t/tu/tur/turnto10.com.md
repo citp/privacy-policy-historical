@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnto10.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606230123id_/http%3A//www.turnto10.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnto10.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014225349id_/http%3A//www.turnto10.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # News Channel 10 - News - Online Privacy Statement
 
