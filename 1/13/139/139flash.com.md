@@ -1,0 +1,58 @@
+> *The following text is extracted and transformed from the 139flash.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404150551id_/http%3A//www.139flash.com/privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy -
+
+**Privacy Policy Statement**  
+ **[](http://)**
+
+This page discloses the information gathering and dissemination practices for the web sites. We are firmly committed to the privacy of our visitors.
+
+|     
+---  
+  |  **Special note to kids**  
+If you are under 18, please be sure to read this policy with your parents - and to ask questions about anything on this page that you don't understand.
+
+If you are under 13, please get your parent's permission before giving out your email address or other personal information to us or to anyone else on the internet.
+
+|     
+   
+  
+ **Information Automatically Logged**  
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. We may share broad demographic information with third parties. We will not share individual IP addresses with any third party. We use 'referer' information sent by your browser to identify what sites are linking to our site, and to identify broad trends. 
+
+**Cookies**  
+Our Site uses cookies to keep track of the status of game you are playing. Unless your browser accepts cookies you won't be able to use our site properly. 
+
+**Advertisers**  
+We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, our ad companies collect cookies received with banner ads, and we do not have access to this information. 
+
+**Personal Information**  
+This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. We do not share any personal information with any third parties nor do we use any personal information for any purposes. 
+
+**Email**  
+If send us email to us, you'll be sending us your email address. We'll use your email address for no other purpose than to respond to your email. We will not share your email address with any third parties.
+
+ **External Links**  
+This site contains links to other sites. is not responsible for the privacy practices or the content of such Web sites. 
+
+**Public Forums**  
+Visitors to the site are able enter additions to our database in the course of playing our games. No visitor's entry is viewable by other visitors at other locations unless and until we have reviewed and approved the entry. No entry containing personally identifiable information will be approved. 
+
+**Children's Guidelines**  
+We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
+
+1. | We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.  
+---|---  
+2.| We will NOT give the child access to services which would enable the child to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent  
+3.| When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to:  
+ | | a. | Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes.  
+---|---  
+b.| Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.  
+c.| Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.  
+4.| We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service.  
+5.| We will provide the parent a description of the specific types of any personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.  
+6.| We will NOT provide any links to Web sites that are unsuitable for children.  
+7.| We encourage children to get their parent's permission before sharing personal information online.  
+  
+ **Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: webmaster@139flash.com 
