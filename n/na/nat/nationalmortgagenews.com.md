@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604042055id_/http%3A//www.nationalmortgagenews.com/nmn/privacy.htm) for the most accurate reproduction.*
 
 # Thomson Financial Media Privacy Policy
-
-[](https://web.archive.org/index.html)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/plus.htm)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/news1.htm)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/news2.htm)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/news3.htm)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/news4.htm)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/stocks.htm)  
-[](http://www.mortgagestats.com/)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/features.htm)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/opweb.htm)  
-[](https://web.archive.org/guide/main.htm)  
-[](https://web.archive.org/classified)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/discuss.htm)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/conf.htm)  
-[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/links.htm)
 
 |   | 
 
@@ -36,8 +20,6 @@ No information should be submitted to Thomson Financial Media by children 16 yea
 
 * * *
 
-_© Contents copyright 1999 by Thomson Financial Media. All rights reserved._
-
-[](http://adforce.ads.imgis.com/?adlink|185|62059|1|1|KEY=key1+key2+key3+key4)  
+_© Contents copyright 1999 by Thomson Financial. All rights reserved._  
   
 ---|---|---
