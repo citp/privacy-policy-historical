@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211131537id_/http%3A//globest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072344id_/http%3A//www.globest.com/privacy.html) for the most accurate reproduction.*
 
 # GlobeSt.com - Real Estate is our domain
 
-| **Aug  29, 2001  
-5:22PM EST**|  |  |  [](http://www.globest.com/newsblast.html)  
----  
-  
-Enter your Email and get the latest industry news  
-  
 | |   
 ---  
    
@@ -28,9 +22,4 @@ _Statistical Analysis:_ GlobeSt.com may perform statistical analyses of user beh
 
 _Spam Policy:_ GlobeSt.com does not send "spam" or "junk" e-mails. On occasion, when we want to contact a visitor via e-mail, respond to messages or transmit information requested by a visitor, GlobeSt.com will use e-mail. At any time you receive e-mail that you do not want from us, you can request that GlobeSt.com not send further e-mails.
 
-_Data Security:_ To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to protect the information we collect online. GlobeSt.com is not responsible for the content or the privacy policies of Web sites to which it may link.   
-  
-|   
----  
-   
-[ ](http://www.globest.com/cgi-bin/redirect.cgi?link=http://www.globest.com/RMIS3H0ESQC.html)
+_Data Security:_ To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to protect the information we collect online. GlobeSt.com is not responsible for the content or the privacy policies of Web sites to which it may link. 
