@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603224311id_/http%3A//services.bloodhorse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023840id_/http%3A//services.bloodhorse.com/privacy.asp) for the most accurate reproduction.*
 
 # Horse Racing and Breeding Information from bloodhorse.com: Calendars
 
@@ -11,7 +11,7 @@ On **bloodhorse.com** , you may enter contests, vote in surveys, submit demograp
 
 **bloodhorse.com** may also collect certain non-personally identifiable information when you visit many of our web pages such as the type of operating system you are using (e.g. Windows98, Macintosh OS), the type of browser you are using (e.g. Internet Explorer, Netscape), and the domain name of your Internet service provider (e.g. America Online, MSN).
 
-**bloodhorse.com** and its parent company, The Blood-Horse, Inc., is the sole owner of the information collected on this site. We will not sell, share, or rent this information to other parties in any way other than what is disclosed in this privacy statement.
+**bloodhorse.com** and its parent company,  Blood-Horse Publications, is the sole owner of the information collected on this site. We will not sell, share, or rent this information to other parties in any way other than what is disclosed in this privacy statement.
 
 **Collection of Information by Third-Party Sites and Sponsors**
 
@@ -35,7 +35,7 @@ We may use outside vendors to ship or fulfill orders placed on our site and a cr
 
 **Other Uses of Information**
 
-Information collected on **bloodhorse.com** may be shared with other sites owned by The Blood-Horse, Inc. These sites include www.thehorse.com, www.haynet.net, www.exclusivelyequine.com, www.thoroughbredlegends.com, and www.eclipsepress.com. In addition, information collected on our website may be used for other purposes by our parent company such as direct mail efforts. The brand names commonly used in such efforts include The Blood-Horse, The Horse, TBH MarketWatch, Exclusively Equine, Eclipse Press and Thoroughbred Legends. 
+Information collected on **bloodhorse.com** may be shared with other sites owned by Blood-Horse Publications. These sites include www.thehorse.com, www.haynet.net, www.exclusivelyequine.com, www.thoroughbredlegends.com, and www.eclipsepress.com. In addition, information collected on our website may be used for other purposes by our parent company such as direct mail efforts. The brand names commonly used in such efforts include The Blood-Horse, The Horse, TBH MarketWatch, Exclusively Equine, Eclipse Press and Thoroughbred Legends. 
 
 **Security**
 
@@ -45,7 +45,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. In addition, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our website, you can send an e-mail to hostmaster@bloodhorse.com
+If you have any questions about the security at our website, you can send an e-mail to [hostmaster@bloodhorse.com](mailto:hostmaster@bloodhorse.com)
 
 **Supplementation of Information**
 
@@ -63,6 +63,6 @@ This site uses the services of Engage for the serving and/or targeting of ads, p
 
 If we decide to change our privacy policy, we will post a notification of such change on our home page. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users of such intentions via e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-If you feel that this company is not abiding by its posted privacy policy, please send an e-mail to admin@bloodhorse.com.
+If you feel that this company is not abiding by its posted privacy policy, please send an e-mail to [admin@bloodhorse.com](mailto:admin@bloodhorse.com). 
 
-[**Back to bloodhorse.com home**](https://web.archive.org/web/20030603224311id_/http%3A//services.bloodhorse.com/index.asp)
+[**Back to bloodhorse.com home**](https://web.archive.org/web/20031202023840id_/http%3A//services.bloodhorse.com/index.asp)
