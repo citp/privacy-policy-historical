@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the beatthatquote.com privacy policy that was archived on 2004-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041225195316id_/http%3A//beatthatquote.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthatquote.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404171438id_/http%3A//www.beatthatquote.com/index.php/uk/about_us/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Beat That Quote
+# Privacy Policy: Beat That Quote
 
 1\. This Privacy Policy 
 
 1.1 Beat That Quote is committed to protecting your personal information and other data provided to Beat That Quote via this web site. Please read this Privacy Policy carefully as it contains important information about the use of any information you provide to Beat That Quote via this Web Site. This Privacy Policy explains what information Beat That Quote collects about you, and how Beat That Quote collects and uses your information, including setting out the circumstances where Beat That Quote could provide it to third parties. You should also read the separate Beat That Quote User Terms that are applicable to this Web Site. To view the User Terms click on the link shown below. 
 
-1.2 Because of the financial nature of Beat That Quote's business, Beat That Quote's products and services are not designed to appeal to or to be sold to persons under the age of 18. Therefore, Beat That Quote does not knowingly attempt to solicit or receive any information from children. 
+1.2 Because of the financial nature of Beat That Quote’s business, Beat That Quote’s products and services are not designed to appeal to or to be sold to persons under the age of 18. Therefore, Beat That Quote does not knowingly attempt to solicit or receive any information from children. 
 
 2\. What information Beat That Quote collects and what does Beat That Quote do with it 
 
-2.1 To take advantage of some of the services offered via this Web Site you might be required to log on or register with the Web Site. Beat That Quote and any third parties who hosts or maintains this Web Site may need to collect information about you and your computer to enable you to do so. The information will be collected when you register with the Web Site or when you choose to use one of the services available via the Web Site. 
+2.1 To take advantage of some of the services offered via this Web Site you might be required to register your details. Beat That Quote and any third parties who hosts or maintains this Web Site may need to collect information about you and your computer to enable you to do so. The information will be collected when you register with the Web Site or when you choose to use one of the services available via the Web Site. 
 
-2.2 Beat That Quote may use the information which it collects to personalise your experience on the Web Site, to help you to log-in in future, to continue to use the Web Site, and to help Beat That Quote select services or materials for inclusion on the Web Site which may be of interest to you. Beat That Quote may, from time to time, use your information to recommend other products or services to you. Occasionally, Beat That Quote may contact you by letter, telephone or e-mail to inform you about other products and services which may be of interest to you. To exercise your right to "opt out" of this service you should contact Beat That Quote via the link shown below. 
+2.2 Beat That Quote may use the information which it collects to personalise your experience on the Web Site, to help you to log-in in future, to continue to use the Web Site, and to help Beat That Quote select services or materials for inclusion on the Web Site which may be of interest to you. Beat That Quote may, from time to time, use your information to recommend other products or services to you. Occasionally, Beat That Quote may contact you by letter, telephone or e-mail to inform you about other products and services which may be of interest to you. To exercise your right to “opt out” of this service you should contact Beat That Quote via the link shown below. 
 
-2.3 Beat That Quote may use your information to notify you of news about Beat That Quote, changes to the Web Site, special events or new services that Beat That Quote thinks may interest you. If, at any time, you would rather not receive any such information, please either tick any relevant "opt-out" box on the page where you are asked to give your information or you may contact Beat That Quote via the link shown below. In these circumstances, Beat That Quote will need to keep your information on file so that you can continue to use the Web Site and so that Beat That Quote can deal with the administration and security of the Web Site, but Beat That Quote will not e-mail you or contact you by telephone, fax or post without your consent. 
+2.3 Beat That Quote may use your information to notify you of news about Beat That Quote, changes to the Web Site, special events or new services that Beat That Quote thinks may interest you. If, at any time, you would rather not receive any such information, please either tick any relevant “opt-out” box on the page where you are asked to give your information or you may contact Beat That Quote via the link shown below. In these circumstances, Beat That Quote will need to keep your information on file so that you can continue to use the Web Site and so that Beat That Quote can deal with the administration and security of the Web Site, but Beat That Quote will not e-mail you or contact you by telephone, fax or post without your consent. 
 
-2.4 The nature of Beat That Quote's business is such that Beat That Quote may on occasion ask you to provide sensitive personal data as defined in the Data Protection Act 1998 (for example, questions relating to your health where that information is required in order to provide life insurance quotations). Where Beat That Quote does so, Beat That Quote will request your explicit consent to the use of such sensitive personal data. Where you consent to provide Beat That Quote with this information Beat That Quote will take appropriate measures to protect such sensitive personal data. 
+2.4 The nature of Beat That Quote’s business is such that Beat That Quote may on occasion ask you to provide sensitive personal data as defined in the Data Protection Act 1998 (for example, questions relating to your health where that information is required in order to provide life insurance quotations). Where Beat That Quote does so, Beat That Quote will request your explicit consent to the use of such sensitive personal data. Where you consent to provide Beat That Quote with this information Beat That Quote will take appropriate measures to protect such sensitive personal data. 
 
-2.5 Beat That Quote or third parties hosting servers on Beat That Quote 's behalf may also monitor traffic patterns and usage of the Web Site to help it to improve the Web Site design and lay out. 
+2.5 Beat That Quote or third parties hosting servers on Beat That Quote’s behalf may also monitor traffic patterns and usage of the Web Site to help it to improve the Web Site design and lay out. 
 
 2.6 Please note that Beat That Quote is not responsible for what any third party content provider or other third party offering goods and services via web sites linked to this Web Site may propose to do with information about you. So please ensure you read their terms and conditions carefully. 
 
@@ -32,7 +32,7 @@
 
 4.1 You acknowledge and agree that: 
 
-4.1.1 in the course of registering or using this Web Site and any services offered via this Web Site, certain information about you will be captured electronically (including sensitive personal data where required, but this will be subject to you giving your explicit consent in such cases) or otherwise and transmitted to Beat That Quote or and, potentially, to any third parties as set out above, or to third parties who host Beat That Quote 's web servers or assist Beat That Quote in maintaining this Web Site; and 
+4.1.1 in the course of registering or using this Web Site and any services offered via this Web Site, certain information about you will be captured electronically (including sensitive personal data where required, but this will be subject to you giving your explicit consent in such cases) or otherwise and transmitted to Beat That Quote or and, potentially, to any third parties as set out above, or to third parties who host Beat That Quote ‘s web servers or assist Beat That Quote in maintaining this Web Site; and 
 
 4.1.2 Beat That Quote may send your information outside of the European Economic Area for processing or use in accordance with this Privacy Policy. 
 
@@ -42,13 +42,13 @@
 
 From time-to-time Beat That Quote may request information from users for the purposes of running contests or competitions. Participation in these contests or competitions is completely voluntary and the user therefore has a choice regarding whether or not to disclose this information. 
 
-6\. Beat That Quote 's Responsibilities - How does Beat That Quote protect user information? 
+6\. Beat That Quote’s Responsibilities - How does Beat That Quote protect user information? 
 
-As required by the Data Protection Act 1998, IFA follows strict security procedures in the storage and disclosure of information which you have provided via this Web Site, to prevent unauthorised access. 
+As required by the Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of information which you have provided via this Web Site, to prevent unauthorised access. 
 
-7\. What are 'Cookies' and how does Beat That Quote use them? 
+7\. What are ‘Cookies’ and how does Beat That Quote use them? 
 
-7.1 A cookie is a piece of information that is stored on your computer's hard drive by your Web browser. On visiting the Web Site, your computer server will use the cookie to guarantee a secure connection. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may not be able to use certain features of this Web Site. 
+7.1 A cookie is a piece of information that is stored on your computer’s hard drive by your Web browser. On visiting the Web Site, your computer server will use the cookie to guarantee a secure connection. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may not be able to use certain features of this Web Site. 
 
 7.2 Beat That Quote may conduct analyses of user traffic. These analyses will be performed through the use of IP addresses and cookies which are required to ensure a secure server connection. Beat That Quote does not use cookies to store any personal data or browsing habits. 
 
@@ -66,5 +66,5 @@ This Web Site contains links to other web sites. Please be aware that Beat That 
 
 If you have any queries or problems with regard to this Privacy Policy or the uses to which Beat That Quote puts your information, please contact Beat That Quote via the link shown below. 
 
-Click [here ](https://web.archive.org/contact_us.php) to contact us if you have a question about our terms or policy.   
+Click here to contact us if you have a question about our terms or policy.   
 
