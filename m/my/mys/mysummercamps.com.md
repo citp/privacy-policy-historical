@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604151526id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207043600id_/http%3A//mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
 
-# Summer Camps Directory 2004 Summer Camp Jobs - mySummerCamps.com: Privacy
+# Summer Camps 2005 - MySummerCamps.com: Privacy
 
 [Home](http://www.mysummercamps.com/camps/) : [All About Us](http://www.mysummercamps.com/camps/about_us.html) : [Our Company](http://www.mysummercamps.com/camps/our_company.html) : Privacy Policy 
 
