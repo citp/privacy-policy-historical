@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2004-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041120093846id_/http%3A//www.healthcaresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404170951id_/http%3A//www.healthcaresource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -83,6 +83,6 @@ If we decide to change our Privacy Statement, we will post those changes so that
 
 **Contact Information**
 
-Healthcaresource.com is a name under which Call24, Inc., a Massachusetts corporation with its principal place of business at 196 Boston Ave., Medford, MA. 02155.
+Healthcaresource.com is a name under which Position Manager Inc., a Massachusetts corporation with its principal place of business at 8 Winchester Place, Winchester, MA 01890.
 
 We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at _info@healthcaresource.com_ or by calling us at 1-800-869-5200. 
