@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616125345id_/http%3A//www.fileflash.com/index.aspx%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611220113id_/http%3A//www.fileflash.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# File Flash - Your Downloads Start Here.
+# File Flash - Your Downloads Start Here
 
 File Flash is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time, so please check back periodically. 
 
@@ -10,7 +10,7 @@ File Flash is the sole owner of the information collected on this site. We will 
 
 **Ad Serving Policies**
 
-File Flash works with a third party that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+File Flash works with a third party that serves ads to this site. To find out more about how Adtegrity manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.adtegrity.com/privacy.asp>. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.sonar.com/content/privacy.htm). 
 
@@ -50,7 +50,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 
 **Children**
 
-Children between the ages of 13 - 18 are allowed to post Comments to File Flash without our knowledge of parental consent. If you do not wish your child to post Comments, please take proper precautions. One should also consider the implications before disclosing any personal information in a Comment. 
+Children between the ages of 13 - 18 are allowed to post Comments to File Flash without our knowledge of parental consent. If you do not wish your child to post Comments, please take proper precautions. One should also consider the implications before disclosing any personal information in a Comment.
 
 To conform with the [Children's Online Privacy Protection Act of 1998](http://www.cdt.org/legislation/105th/privacy/coppa.html), if you are younger than 13 years, you are prohibited from becoming a member of File Flash without consent. Your parent or guardian may email us at underage@fileflash.com to verify that you have been granted permission to use this site. 
 
