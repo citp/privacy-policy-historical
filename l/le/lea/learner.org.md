@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2001-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011119164159id_/http%3A//learner.org/about/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021814id_/http%3A//learner.org/about/privacy_policy.html) for the most accurate reproduction.*
 
 # ACPB : About Us : Privacy Policy
 
