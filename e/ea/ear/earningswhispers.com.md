@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409041144id_/http%3A//www.earningswhispers.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204757id_/http%3A//www.earningswhispers.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# EarningsWhispers.com Privacy Policy
+# EarningsWhispers.com
 
 EarningsWhispers.com's biggest asset is its registered members and, therefore, it is extremely important for us to maintain your trust. So please be assured that we will never compromise the personal information you provide us. This policy statement tells you how we collect information from you and how we use it.
 
@@ -10,7 +10,7 @@ The information you provide for your EarningsWhispers.com account will not be di
 
 EarningsWhispers.com does not give, lend, or sell individual information to others, only aggregate information. This aggregate information about our members is shared with advertisers, business partners, sponsors, and other third parties. The data is used to customize the EarningsWhispers.com community and advertising to deliver a better experience for our members.
 
-In case you change your mind or some personal information may change (such as your email address), we will endeavor to provide you a way to correct, update, or remove the personal data you give us. You can do this by contacting our Member Services group at [member.update@earningswhispers.com.](mailto:member.update@earningswhispers.com).
+In case you change your mind or some personal information may change (such as your email address), we will endeavor to provide you a way to correct, update, or remove the personal data you give us. You can do this by contacting our Member Services group at [support@earningswhispers.com.](mailto:support@earningswhispers.com).
 
 **Cookies**
 
@@ -30,7 +30,7 @@ An IP address is a number that's automatically assigned to your computer wheneve
 
 **Opting-Out**
 
-When you register to join the EarningsWhispers.com community for personalized services, we will send you information about using our community, information about various products and services we provide, or other information we feel may interest you. Only EarningsWhispers.com or a member of the EarningsWhispers.com community network will send you these direct mailings. These e-mails are handled differently than the Whisper Reports we send and we provide the opportunity to opt-out of these emails at the time of registration. If you did not opt-out of these emails at the time of registration, you may do so at anytime by going to [http://www.earningswhispers.com/unsubscribe.asp ](http://www.earningswhispers.com/unsubscribe.asp) or by emailing [optout@earningswhispers.com](mailto:optout@earningswhispers.com). We'll remove your name from our lists as soon as we can (but it may take a little while). Information about unsubscribing from the Whisper Report is contained in the respective mailing and/or in the instructions sent to you after you subscribed to the respective service.
+When you register to join the EarningsWhispers.com community for personalized services, we will send you information about using our community, information about various products and services we provide, or other information we feel may interest you. Only EarningsWhispers.com or a member of the EarningsWhispers.com community network will send you these direct mailings. These e-mails are handled differently than the Whisper Reports we send and we provide the opportunity to opt-out of these emails at the time of registration. If you did not opt-out of these emails at the time of registration, you may do so at anytime by going to [http://www.earningswhispers.com/optout.asp ](http://www.earningswhispers.com/optout.asp) or by emailing [optout@earningswhispers.com](mailto:optout@earningswhispers.com). We'll remove your name from our lists as soon as we can (but it may take a little while). Information about unsubscribing from the Whisper Report is contained in the respective mailing and/or in the instructions sent to you after you subscribed to the respective service.
 
 **Security**
 
@@ -48,10 +48,8 @@ Whenever you give your personal information to these sites, we cannot guarantee 
 
 **Third Party Advertising**
 
-EarningsWhispers.com works with a third party that occasionally serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
-
 **Your acceptance of these terms**
 
 By using this site, you signify your assent to the EarningsWhispers.com Privacy Policy. If you do not agree to this policy, please do not use our community of sites. Your continued use of the EarningsWhispers.com community following the posting of changes to these terms will mean you accept those changes.
 
-Last updated 7/27/00
+Last updated 11/19/01
