@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612065029id_/http%3A//bea.gov/bea/about/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204031325id_/http%3A//www.bea.gov/bea/about/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
@@ -13,6 +13,10 @@ Our web server automatically collects the default information logged by most ser
 The logs may be preserved indefinitely, and they may be used to prevent security breaches and to ensure the integrity of the data on our servers. 
 
 We do not use "persistent cookies" or use any persistent tracking technologies that can identify a specific visitor, or information about that visitor, over multiple visits. However some interactive features on our site (for example, the [balance of payments interactive](https://web.archive.org/bea/international/bp_web/) feature) do use "session cookies" that identify the visitor for the duration of a browsing session. Session cookies are deleted from our Web servers when your session ends.
+
+## Session cookies and BEA's Web satisfaction survey 
+
+BEA is currently conducting a survey to measure customer satisfaction with this Web site. This survey uses a session cookie to track how many pages a particular visitor has clicked on. This ensures that a visitor has sufficiently browsed the site in order to adequately answer the survey and to prevent an individual from getting a survey multiple times in a single session. Session cookies are automatically deleted at the end of a session.
 
 ## Information you provide voluntarily
 
@@ -29,6 +33,6 @@ You have rights under the Privacy Act and the Freedom of Information Act. The Le
 
 
 
-Questions concerning our privacy policy may be addressed to [webmaster@bea.gov](mailto:webmaster@bea.gov). 
+Questions concerning our privacy policy may be addressed to [webmaster@bea.gov](mailto:webmaster@bea.gov). If you believe this site has not adhered to these principles, please notify us by e-mail at [webmaster@bea.gov](mailto:webmaster@bea.gov). 
 
-Date last updated: March 25, 2004 
+Date last updated: November 16, 2004
