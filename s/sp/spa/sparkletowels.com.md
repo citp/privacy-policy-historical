@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001194117id_/http%3A//www.gp.com/privacy/index.asp%3Fpk%3D11%26mk%3D0%26mo%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202013028id_/http%3A//www.gp.com/privacy/index.asp%3Fpk%3D11%26mk%3D0%26mo%3D0) for the most accurate reproduction.*
 
 # Georgia-Pacific Products - Products
 
@@ -48,11 +48,11 @@ Georgia-Pacific and also take the protection of your personal information seriou
 
 Access to Your Information
 
-To modify your personal information, contact us at [privacy@gapac.com](https://web.archive.org/web/20031001194117id_/http%3A//www.gp.com/privacy/contactus.asp?pk=11&mk=0&mo=0). We will make every effort to respond to your requests in a timely manner. 
+To modify your personal information, contact us at [privacy@gapac.com](https://web.archive.org/web/20040202013028id_/http%3A//www.gp.com/privacy/contactus.asp?pk=11&mk=0&mo=0). We will make every effort to respond to your requests in a timely manner. 
 
 If you have already submitted personal information to 
 
-Georgia-Pacific, you may opt-out of the company's future use of that information by sending an e-mail to [remove@gapac.com](https://web.archive.org/web/20031001194117id_/http%3A//www.gp.com/privacy/remove.asp?pk=11&mk=0&mo=0). Upon receiving your request, we will delete your personal information from our records. 
+Georgia-Pacific, you may opt-out of the company's future use of that information by sending an e-mail to [remove@gapac.com](https://web.archive.org/web/20040202013028id_/http%3A//www.gp.com/privacy/remove.asp?pk=11&mk=0&mo=0). Upon receiving your request, we will delete your personal information from our records. 
 
 Security of Your Information
 
@@ -66,7 +66,7 @@ We operate our sites in compliance with the Children's Online Privacy Protection
 
 Enforcement of Policies or Consumer Concerns
 
-If you believe Georgia-Pacific has not adhered to these practices or have any concerns related to the privacy of your personal information, please notify us by e-mail at [privacy@gapac.com](https://web.archive.org/web/20031001194117id_/http%3A//www.gp.com/privacy/contactus.asp?pk=11&mk=0&mo=0), or write us at: 
+If you believe Georgia-Pacific has not adhered to these practices or have any concerns related to the privacy of your personal information, please notify us by e-mail at [privacy@gapac.com](https://web.archive.org/web/20040202013028id_/http%3A//www.gp.com/privacy/contactus.asp?pk=11&mk=0&mo=0), or write us at: 
 
 Corporate IT Privacy & Security  
 55 Park Place (30303)  
