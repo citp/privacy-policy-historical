@@ -1,0 +1,675 @@
+<!--The following is the downloaded HTML source of the southernliving.com privacy policy that was archived on 2000-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206111600id_/http%3A//southernliving.com/customerservice/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+
+<title>SouthernLiving.com: Customer Service: Privacy Policies</title>
+
+<script language="JavaScript">
+<!-- Begin JavaScript
+ 
+marketOn = new Image();
+marketOff = new Image();
+subscribeOn = new Image();
+subscribeOff = new Image();
+customerserviceOn = new Image();
+customerserviceOff = new Image();
+eventsOn = new Image();
+eventsOff = new Image();
+aboutOn = new Image();
+aboutOff = new Image();
+sitemapOn = new Image();
+sitemapOff = new Image();
+houseplansOn = new Image();
+houseplansOff = new Image();
+homeOn = new Image();
+homeOff = new Image();
+travelOn = new Image();
+travelOff = new Image();
+gardensOn = new Image();
+gardensOff = new Image();
+homesOn = new Image();
+homesOff = new Image();
+foodsOn = new Image();
+foodsOff = new Image();
+thismonthOn = new Image();
+thismonthOff = new Image();
+//goOn = new Image();
+//goOff = new Image();
+//subscribeBtnOn = new Image();
+//subscribeBtnOff = new Image();
+//magCoverOn = new Image(); 
+//magCoverOff = new Image(); 
+
+marketOn.src = "/images/navigation/marketOver.gif";
+marketOff.src = "/images/navigation/market.gif";
+subscribeOn.src = "/images/navigation/subscribeOver.gif";
+subscribeOff.src = "/images/navigation/subscribe.gif";
+customerserviceOn.src = "/images/navigation/customerserviceOver.gif";
+customerserviceOff.src = "/images/navigation/customerservice.gif";
+eventsOn.src = "/images/navigation/eventsOver.gif";
+eventsOff.src = "/images/navigation/events.gif";
+aboutOn.src = "/images/navigation/aboutOver.gif";
+aboutOff.src = "/images/navigation/about.gif";
+sitemapOn.src = "/images/navigation/sitemapOver.gif";
+sitemapOff.src = "/images/navigation/sitemap.gif";
+houseplansOn.src = "/images/navigation/houseplansOver.gif";
+houseplansOff.src = "/images/navigation/houseplans.gif";
+homeOn.src = "/images/navigation/homeOver.gif";
+homeOff.src = "/images/navigation/home.gif";
+travelOn.src = "/images/navigation/travelOver.gif";
+travelOff.src = "/images/navigation/travel.gif";
+gardensOn.src = "/images/navigation/gardensOver.gif";
+gardensOff.src = "/images/navigation/gardens.gif";
+homesOn.src = "/images/navigation/homesOver.gif";
+homesOff.src = "/images/navigation/homes.gif";
+foodsOn.src = "/images/navigation/foodsOver.gif";
+foodsOff.src = "/images/navigation/foods.gif";
+thismonthOn.src = "/images/navigation/thismonthOver.gif";
+thismonthOff.src = "/images/navigation/thismonth.gif";
+//goOn.src = "/images/navigation/goOver.gif";
+//goOff.src = "/images/navigation/go.gif";
+//subscribeBtnOn.src = "/images/navigation/subscribeBtnOver.gif";
+//subscribeBtnOff.src = "/images/navigation/subscribeBtn.gif";
+//magCoverOn.src = "/images/navigation/magCover.jpg";
+//magCoverOff.src = "/images/navigation/magCover.gif";
+
+function chGraphic(imgModule,imgObject){ 
+	document.images[imgModule].src = eval(imgObject + ".src"); } 
+	
+//--> 
+</script>
+<style type="text/css">
+<!--
+a:hover {
+color: orange;
+}
+-->
+
+</style>
+<!-- The following seven lines are the error catching routine and should only be necessary on flat pages.  When used, the body tag
+ should address P_checkUnload rather than P_closeDown -->
+<script language="JavaScript">
+
+
+<!--
+var P_isLoaded = false;
+function P_checkUnload() {
+        if(P_isLoaded && (document.layers||document.all))P_closeDown();
+}
+// -->
+
+</script>
+<!-- the following is the main script, to be placed in the includes.  If it is divided into three segments as listed below, it will be more flexible in the future, but it is not necessary-->
+<!-- section 1: initialize -->
+<script language="JavaScript1.2">
+
+<!--
+if(!document.cookie) { 
+        document.cookie = "PopUpCalls=0;path=/;";
+}
+if ((document.layers || document.all) && document.cookie) { 
+        var P_showPop=true;
+} else {
+        var P_showPop=false; 
+}
+
+if (P_showPop) {
+        P_Rules = new Array();
+// section 2: magazine rules
+        P_Mag="SouthernLiving";
+        P_Rules[0] = "~131.1.23.20/"; // rules array contains definitions of internal links (links that will not get a popup).  "~" means contains and "!" means does not contain.  Rules can be combined with logical "and" using "&&": ~time.com/&&!/digital/ is one way of combining these tools.     
+        P_Rules[1] = "~hotdots.com";
+        //P_Hours = 0; // number of hours till next popup
+        P_Hours = 0.01; // number of hours till next popup
+        P_Source = "/includes/SLPopup/SLPopup.asp?Mag=" + P_Mag;// URL of popup
+        P_Height = 246; // height of popup window
+        P_Width = 430; // width of popup window
+        P_cookieDomain = false; // if you want to specify a domain for this cookie, add it here, e.g. ".pathfinder.com";
+// section 3: program. minimal comments follow
+        P_today = new Date();
+        P_todayNum = P_today.valueOf();
+        var P_LeftChip="";
+        var P_RightChip="";
+        var P_Chip="";
+        var P_DocCookie = unescape(document.cookie);
+        if(P_DocCookie.length>0) {
+                P_begin=P_DocCookie.indexOf("PopUpCalls=");
+                if(P_begin != -1) {
+                        P_begin += 11; // 11 is length of string "PopUpCalls="
+                        P_end=P_DocCookie.indexOf(";", P_begin);
+                        if (P_end==-1) P_end=P_DocCookie.length;
+                        P_Cookie=P_DocCookie.substring(P_begin, P_end);
+                        P_ChipStart=P_Cookie.indexOf(P_Mag+"=");
+                        if(P_ChipStart>-1) {
+                                P_LeftChip=P_Cookie.substring(0,P_ChipStart);
+                                P_ChipStart+=1+P_Mag.length
+                                P_ChipEnd=P_Cookie.indexOf("|",P_ChipStart);
+                                if(P_ChipEnd==-1) P_ChipEnd = P_Cookie.length;
+                                P_Chip=P_Cookie.substring(P_ChipStart,P_ChipEnd);
+                                P_RightChip=P_Cookie.substring(P_ChipEnd);
+                                if(P_todayNum < parseInt(P_Chip)) P_showPop = false;
+                        } else {
+                                P_LeftChip=P_Cookie;
+                                P_RightChip="";
+                        }
+                }
+        }
+}
+function P_checkClick(ev) { // onClick function
+        if(P_showPop) {
+                P_Link="";
+                if(document.layers) {
+                        P_Test=ev.target.toString().toLowerCase();
+
+                        if(P_Test.substring(0,6)=="<input") {
+                                P_showPop = false;
+                        } else {
+                                P_Link=P_Test;
+                        }
+                } else if (document.all) {
+                                                P_myElement = window.event.srcElement;
+                                                while(P_myElement.tagName.toLowerCase()!="a" &&
+                                                  P_myElement.tagName.toLowerCase()!="body" &&
+                                                  P_myElement.tagName.toLowerCase()!="input" &&
+                                                  P_myElement.tagName.toLowerCase()!="area" ) {
+                                                        P_myElement = P_myElement.parentElement;
+                                                }
+                        P_tag = P_myElement.tagName.toLowerCase();
+                        if (P_tag=="a" || P_tag=="area") {
+                                P_Link=P_myElement.href;
+                        } else if(P_tag=="input") {
+                                P_showPop=false;
+                        }
+
+                }
+                P_Link=P_Link.toLowerCase();
+
+        var P_ToReplace = /\x2F/g;
+        P_URL = self.location.pathname;
+        P_URL = P_URL.replace(P_ToReplace, "\[\/\]"); 
+        var P_ToMatch = new RegExp(P_URL + "[/]{0,1}(index.|default.){0,1}[^.]*#", "i");
+                var P_RV = P_Link.search(P_ToMatch);
+
+                if(P_Link!="" && (P_RV==-1) && (P_Link.substring(0,4)=="http")) {
+                        if(P_isInternal(P_Link)) {
+                                P_showPop=false;
+                        }
+                }
+                if(document.layers) {
+                        routeEvent(ev);
+                        return true;
+                }
+        }
+}
+function P_isInternal(P_URL) { // function to evaluate whether a URL is internal (should not get a popup)
+        for (i=0;i < P_Rules.length;i++) {
+                P_Parts = P_Rules[i].split("&&");
+                P_Result = true;
+                for (j=0;j < P_Parts.length;j++) {
+                        P_Search = P_URL.indexOf(P_Parts[j].substring(1));
+                        P_Call = P_Parts[j].charAt(0);
+                        if ((P_Search==-1 && P_Call=="~") || (P_Search>-1 && P_Call=="!")) {
+                                P_Result = false;
+                                break;
+                        }
+                }
+                if(P_Result) return true; 
+        }
+        return false; 
+}
+function P_closeDown() { // onunload function
+        if(P_showPop) { 
+                popupWin = window.open(P_Source, "POPUP", "height=" + P_Height + ",width=" + P_Width + ","); 
+                P_Chip = P_todayNum + (P_Hours * 60 * 60 * 1000);
+                P_today.setTime(P_today.getTime() + (31 * 24 * 60 * 60 * 1000));
+                document.cookie = "PopUpCalls=" + escape(P_LeftChip + P_Mag + "=" + P_Chip + (P_RightChip.charAt(0)=="|"?"":"|") + P_RightChip) + ";path=/; expires=" + P_today.toGMTString()+(P_cookieDomain?";domain="+P_cookieDomain:"")+";";  //
+        }
+} 
+
+function P_popupoff() { // added by JQ 3/27/00 to disable popup
+    P_showPop = false;
+}
+
+function P_NSform (ev) { // Netscape 4.x form submit capture
+ P_showPop = false;
+    routeEvent(ev);
+    return true;
+}
+ 
+if (P_showPop) { // setting up click capture
+  if(document.layers) { 
+    window.captureEvents(Event.CLICK | Event.SUBMIT);
+    window.onClick=P_checkClick;
+    window.onSubmit=P_NSform;
+  }
+  if(document.all) {
+    document.onclick=P_checkClick;
+  }
+}
+
+// code (vanity plate): Gary Poster, with essential assists from Galyn Norwood, Phiroon Phihakendr, Jose Quijada, Pavandeep Kalra. Copyright 2000 Time Inc.
+// note: we tried to eliminate the need for all body tag event handlers but onunload proved to be necessary because otherwise Netscape produces security errors when the cookie is set (even when the unload event is captured).
+// -->
+P_isLoaded=true;
+
+</script>
+
+</head>
+
+<body text="#000000" bgcolor="#ffffff" link="#003333" vlink="#003300" alink="#D9C292"> 
+<!-- A D S -->
+
+
+<!--top ad tags-->
+<!--URL BAR-->
+
+<table border="0" width="588" valign="top" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<!--DART STUFF-->
+<!-- Start Left Column -->
+<td width="120" valign="top">
+<nobr></nobr><center><nobr>
+</nobr><p><nobr>
+<!--Ad tag follows--></nobr><nobr>
+<nolayer>
+<iframe src="http://ad.doubleclick.net/adi/southern-living.com/slrunofsite;sz=120x60;ord=193173935" width="120" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><A
+HREF="http://ad.doubleclick.net/jump/southern-living.com/slrunofsite;sz=120x60;ord=193173935"><IMG
+SRC="http://ad.doubleclick.net/ad/southern-living.com/slrunofsite;sz=120x60;ord=193173935"
+border=0></A>
+</iframe>
+</nolayer>
+<ilayer id="ph1" visibility="hide" height="60" width="120"></ilayer></nobr></p></center></td>
+<!--Preceeding will generate the ad button-->
+<!--End Ad tag-->
+<!-- Start Right Column -->
+<td colspan="2" width="468" align="center" valign="top">
+<!--Ad tag follows--><nobr>
+<nolayer>
+<iframe src="http://ad.doubleclick.net/adi/southern-living.com/slrunofsite;sz=468x60;ord=193173935" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
+<A HREF="http://ad.doubleclick.net/jump/southern-living.com/slrunofsite;sz=468x60;ord=193173935">
+<IMG SRC="http://ad.doubleclick.net/ad/southern-living.com/slrunofsite;sz=468x60;ord=193173935">
+</A>
+</iframe>
+</nolayer>
+
+<ilayer id="ph2" visibility="hide" height="60" width="468"></ilayer>
+
+<!--Preceeding will generate the ad banner--></nobr>
+
+
+</td></tr>
+</tbody></table>
+
+<!-- E N D   A D S -->
+<br>
+
+<!--Homepage Navigation -->
+<table width="588" border="0" cellspacing="0" cellpadding="0" bgcolor="#649b64">
+<tbody><tr>
+	<td width="481"><img src="/images/index/header.jpg" width="481" height="71"></td>
+	<td width="107" rowspan="2">
+	
+<a href="/travel/default.asp" onmouseover="chGraphic('travel','travelOn')" onmouseout="chGraphic('travel','travelOff')">
+<img name="travel" src="/images/index/MenuTravel.gif" border="0" height="15" width="107"></a><br>
+
+
+<a href="/garden/default.asp" onmouseover="chGraphic('gardens','gardensOn')" onmouseout="chGraphic('gardens','gardensOff')">
+<img name="gardens" src="/images/index/MenuGardens.gif" border="0" height="15" width="107"></a><br>
+
+<a href="/homes/default.asp" onmouseover="chGraphic('homes','homesOn')" onmouseout="chGraphic('homes','homesOff')">
+<img name="homes" src="/images/index/MenuHomes.gif" border="0" height="15" width="107"></a><br>
+
+<a href="/food/default.asp" onmouseover="chGraphic('foods','foodsOn')" onmouseout="chGraphic('foods','foodsOff')">
+<img name="foods" src="/images/index/MenuFoods.gif" border="0" height="15" width="107"></a><br>
+
+<a href="/ubb/default.asp" onmouseover="chGraphic('thismonth','thismonthOn')" onmouseout="chGraphic('thismonth','thismonthOff')">
+<img name="thismonth" src="/images/index/MenuThisMonth.gif" border="0" height="15" width="107"></a><br>
+
+<img src="/images/index/onepix.gif" width="107" height="10" border="0">
+	</td>
+</tr>
+<tr>
+	<td width="481" align="center">
+		<table width="481" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			<td><img src="/images/index/onepix.gif" width="18"></td>
+			<td>
+			<a href="http://southernprogress.com/sl/index.html" onmouseover="chGraphic('subscribe','subscribeOn')" onmouseout="chGraphic('subscribe','subscribeOff')" target="_blank">
+			<img name="subscribe" src="/images/index/subscribe.gif" border="0" height="23" width="70"></a>
+			</td>
+			<td>
+					
+			<a href="/customerservice/default.asp" onmouseover="chGraphic('customerservice','customerserviceOn')" onmouseout="chGraphic('customerservice','customerserviceOff')">
+			<img name="customerservice" src="/images/index/customerservice.gif" border="0" height="23" width="68"></a>
+			
+			</td>
+			<td>		
+			<a href="/market/default.asp" onmouseover="chGraphic('market','marketOn')" onmouseout="chGraphic('market','marketOff')">
+			<img name="market" src="/images/index/market.gif" border="0" height="23" width="55"></a>
+			</td>
+			<td>		
+			<a href="/events/default.asp" onmouseover="chGraphic('events','eventsOn')" onmouseout="chGraphic('events','eventsOff')">
+			<img name="events" src="/images/index/events.gif" border="0" height="23" width="55"></a>
+			</td>
+			<td>
+					
+			<a href="/sitemap.asp" onmouseover="chGraphic('about','aboutOn')" onmouseout="chGraphic('about','aboutOff')">
+			<img name="about" src="/images/index/about.gif" border="0" height="23" width="43"></a>
+			
+			</td>
+			<td>
+					
+			<a href="/market/travel.asp" onmouseover="chGraphic('sitemap','sitemapOn')" onmouseout="chGraphic('sitemap','sitemapOff')">
+			<img name="sitemap" src="/images/index/sitemap.gif" border="0" height="23" width="62"></a>
+			
+			</td>
+			<td>		
+			<a href="/hp/default.asp" onmouseover="chGraphic('houseplans','houseplansOn')" onmouseout="chGraphic('houseplans','houseplansOff')">
+			<img name="houseplans" src="/images/index/houseplans.gif" border="0" height="23" width="50"></a>
+			</td>
+			<td>
+			<a href="/default.asp" onmouseover="chGraphic('home','homeOn')" onmouseout="chGraphic('home','homeOff')">
+				<img name="home" src="/images/index/home.gif" border="0" height="23" width="42"></a>
+			</td>
+			<td><img src="/images/index/onepix.gif" width="18"></td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+<!-- End Navigation -->
+
+<table width="588" border="0" cellspacing="0" cellpadding="0" bgcolor="#649b64">
+<tbody><tr>
+	<td bgcolor="#ffffff" width="28"><img src="/images/index/greencurve.gif" border="0" height="15" width="28"></td>	
+	<td width="420" bgcolor="#ffffff"><img src="/images/index/onepix.gif" height="15" width="420" border="0"></td>
+	<td width="140"><img src="/images/index/onepix.gif" height="15" width="140" border="0"></td>
+</tr>
+</tbody></table>
+
+<table width="588" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td bgcolor="#649b64" width="10">
+	<img src="/images/index/onepix.gif" width="10" height="20">
+	</td>
+	
+	<td bgcolor="#ffffff" width="20" height="20">
+	<img src="/images/index/onepix.gif" width="20" height="20">
+	</td>
+	
+	<td width="418" valign="top">
+		<table width="418" cellspacing="5" cellpadding="5">
+			<tbody><tr>
+				<td>
+					<font size="-1" face="Verdana, Arial, Helvetica, sans-serif">
+<!--START TEXT -->
+
+
+	
+<!-- TITLE GOES HERE -->
+	
+<p>
+<font size="+1"><b>Southern Living Online Privacy Policies</b>
+</font></p>	
+
+<p>
+<a href="terms.asp">Southern Living Online Terms and Usage Agreement</a>
+</p>
+
+
+<p>Southern Living Online is a Web site maintained by Southern Living, 2100 Lakeshore Drive, Birmingham, AL 35209.  We can be reached by 
+     e-mail at letters@southern-living.com.</p><p>
+
+     This site collects no personally identifying information about 
+     individuals except when specifically and knowingly provided by such 
+     individuals. In addition, most of our advertisements place a "cookie" in the 
+     browser files of a user's computer. The cookie itself does 
+     not contain any personally identifying information, although it may enable advertisers to relate a user's use of our site to similar information for other Web
+sites. These cookies are optional and may be refused any time using your Web browser software.
+
+</p><p>For each visitor to our Web site, our Web server automatically recognizes only the name of your Internet Service Provider, but not your e-mail address. We also
+aggregate information on
+what pages consumers access or visit. This information is used to improve our Web site.</p>
+<p></p>
+
+
+<p>When you contact us via E-mail or provide your E-mail
+address in a message to us, we use it to handle your
+request. From time to time, we may allow selected companies to send you information via e-mail which
+may be of interest to you. If you would not like to be
+contacted by E-mail, please let us know by noting your
+preference in a message to our E-mail address listed above.
+
+</p><p>
+
+When you become our customer by ordering one of our
+magazines or other products, you may receive periodic postal
+mail from us with information on new products and services.
+If you do not wish to receive such mailings, please let us
+know by writing to us at the above address. Also you may
+receive mailings from other selected companies. You can,
+however, have your name put on our do-not-share list by
+writing to us at the above address. Please provide us with
+your exact name and address. We will be sure your name is
+removed from the list we share with other organizations.
+     </p><p>
+     
+     </p><p>In the event that we are unable to deliver your
+magazine subscription for any reason beyond our control, our
+obligation is limited to the resumption of delivery when we
+are able to do so. If we cannot deliver the subscription
+within 24 calendar months from the date of interruption, we
+will have no further obligation under your subscription
+agreement.
+
+
+
+
+        
+     <strong>KIDS</strong>: Be sure to ask your parents for permission before you
+send any 
+     information about yourself to us or anyone else over the Internet.  
+    </p></font><p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"> Please feel free to contact us if you have questions about this policy.
+    
+	
+	
+	
+	
+	
+
+<br><br>
+					</font>
+				</p></td>
+			</tr>
+		</tbody></table>		
+	</td>
+	<td bgcolor="#ffffff" width="140" valign="top" rowspan="2">
+	
+		<!-- FORM method="post" name="frmRecipeSearch" action="index.html" -->
+		<table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+
+			<!-- Recipe Search Green Box -->
+			<tbody><tr>
+				<td colspan="2" bgcolor="#649b64" align="center" width="140"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff"><b>RECIPE SEARCH:</b></font></td>
+			</tr>
+			<tr>
+				<td bgcolor="#649b64" align="center">
+				<form method="post" action="/sitesearch.asp?Action=Go&amp;SearchPath=/food&amp;search=recipe" id="form1" name="form1">
+				<input type="hidden" name="NS-search-page" value="results">
+				<input type="hidden" name="NS-search-type" value="NS-boolean-query">
+				<input type="hidden" name="NS-max-records" value="10">
+				<input type="hidden" name="magazine_sl">
+				<input type="hidden" name="NS-collection" value="All">
+				<input type="text" size="10" name="NS-query">
+				</form></td>
+				<td bgcolor="#649b64" align="left">
+				<input type="image" name="go" src="/images/index/go.gif" border="0" width="22" height="20"></td>
+				
+			</tr>
+			<tr>
+				<td width="140" bgcolor="#649b64" colspan="2"><img src="/images/index/lowerCorner.gif" width="10" height="10"></td>
+			</tr>
+			<tr>
+				<td width="140" colspan="2"><img src="/images/index/onepix.gif" height="15" width="140"></td>
+				
+			</tr>
+
+			<!-- Related Story-->
+			<tr>
+				<td colspan="2" bgcolor="#649b64"><img src="/images/index/upperCorner.gif" width="10" height="10"></td>
+			</tr>
+			<tr>
+				<td colspan="2" bgcolor="#649b64" align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff"><b>RELATED STORIES:</b></font></td>
+			</tr>
+		    <tr>
+				<td colspan="2" bgcolor="#649b64" align="center">
+					<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+					<br>
+					<a href="/customerservice/interns.asp">Student Internships</a><br>
+					
+					<a href="/events/cookingschool/default.asp">Cooking School</a><br>
+					<a href="/events/customhome/default.asp">Custom Home Builders</a><br> 
+					<a href="/events/idea/default.asp">Idea Houses</a><br>
+					
+					<a href="/events/advertisers.asp">Advertiser Links</a><br>
+					<a href="/events/dalton/default.asp">Carpets of Dalton</a><br>
+					<a href="/market/projects/default.asp">Project Plans</a><br>
+					<a href="/market/windows.asp">Window Treatments</a><br>
+					<a href="/market/landscape.asp">Landscape Plans</a><br>
+					<a href="/market/travel.asp">Travel Service</a><br>
+
+					</font></td>
+			</tr>
+
+			<tr>
+				<td colspan="2" bgcolor="#649b64"><img src="/images/index/lowerCorner.gif" width="10" height="10"></td>
+			</tr>
+		    <tr>
+				<td colspan="2"><img src="/images/index/onepix.gif" height="15" width="140"></td>
+			</tr>
+			
+				<!-- Email Newsletter Green Box-->
+			<tr>
+				<td bgcolor="#649b64" colspan="2"><img src="/images/index/upperCorner.gif" width="10" height="10"></td>
+			</tr>
+			<tr>
+				<td bgcolor="#649b64" colspan="2" align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+<b>E-MAIL NEWSLETTER:</b></font></td>
+			</tr>
+
+			<tr>
+				<td bgcolor="#649b64" colspan="2"><img src="/images/index/onepix.gif" height="5" width="140"></td>
+			</tr>
+			<tr>
+				<td colspan="2" bgcolor="#649b64" align="center">
+				<a href="http://southernliving.m0.net/m/p/stl/login.asp" target="blank"><img src="/images/index/subscribeBtn.gif" border="0" width="72" height="13" vspace="1" hspace="1"></a></td>
+			</tr>
+				
+					
+			<tr>
+				<td colspan="2" bgcolor="#649b64" align="center">
+					<table border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff">
+							<center><strong>It's FREE!</strong> Just click<br> SIGN UP
+							and enter your E-mail address.</center>
+							</font></td>
+						</tr>
+					</tbody></table>
+				</td>	
+			</tr>
+			<tr>
+				<td bgcolor="#649b64" colspan="2"><img src="/images/index/lowerCorner.gif" width="10" height="10"></td>
+			</tr>
+
+
+
+			<tr>
+				<td colspan="2" bgcolor="#ffffff"><img src="/images/index/onepix.gif" height="4" width="140"></td>
+			</tr>
+			
+			
+			
+			
+			<!-- Site Search Green Box -->
+			<tr>
+				<td bgcolor="#649b64" colspan="2"><img src="/images/index/upperCorner.gif" width="10" height="10"></td>
+			</tr>
+
+			<tr>
+				<td colspan="2" bgcolor="#649b64" align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#ffffff"><b>SITE SEARCH:</b></font></td>
+			</tr>
+			<tr>
+				<td bgcolor="#649b64" align="center">
+				<form method="post" action="/sitesearch.asp?Action=Go&amp;SearchPath=/&amp;search=simple" id="form3" name="form3">
+				<input type="text" size="10" name="KEYWORDS"></form></td>
+				<td bgcolor="#649b64" align="left">
+				<input type="image" value="Site Search" src="/images/index/go.gif" border="0" width="22" height="20"></td>
+				
+			</tr>
+			<tr>
+				<td bgcolor="#649b64" colspan="2"><img src="/images/index/lowerCorner.gif" width="10" height="10"></td>
+			</tr>
+
+			</tbody></table>
+			
+
+			</td></tr>
+		</tbody></table>
+	
+
+
+<table width="588" border="0" cellspacing="0" cellpadding="0" bgcolor="#649b64">
+	<tbody><tr>
+		<td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#649b64">
+				<tbody><tr>
+					<td bgcolor="#ffffff" width="28"><img src="/images/index/greencurveLower.gif" border="0" height="15" width="28"></td>
+					<td width="460" bgcolor="#ffffff"><img src="/images/index/onepix.gif" width="460" height="15" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" bgcolor="#649b64"><img src="/images/index/onepix.gif" width="460" height="15" border="0"><br><br></td>
+	</tr>
+</tbody></table>
+<!--following tag goes before closing BODY tag-->
+
+<p><table border="0" cellpadding="0" cellspacing="0" width="580">
+	<tbody><tr>	
+		<td>
+
+<center><font size="-1"><a href="http://southernprogress.com/sl/default.asp" target="_blank">SUBSCRIBE</a> | 
+<a href="/adinfo/default.asp">ADVERTISING INFORMATION</a> | 
+<a href="/sitemap.asp">SITE MAP</a> | 
+<a href="/sitesearch.asp?Action=Go&amp;SearchPath=/&amp;search=simple">SEARCH THIS SITE</a><br>
+<b>From the Publishers of Southern Living:</b><br>
+<a href="http://www.southernaccents.com">Southern Accents</a> |
+<a href="http://www.progressivefarmer.com">Progressive Farmer</a> |
+<a href="http://www.oxmoorhouse.com">Oxmoor House Books</a> |
+<a href="http://www.cookinglight.com">Cooking Light</a> |
+<a href="http://www.coastalliving.com">Coastal Living</a> |
+<a href="http://www.hotdots.com">HotDots</a></font></center><font size="-1">
+
+</font>
+</td>
+	</tr>
+</tbody></table>
+
+
+<!--DART STUFF-->
+
+<layer src="http://ad.doubleclick.net/adl/southern-living.com/slrunofsite;sz=120x60;ord=193173935" visibility="hide" onload="moveToAbsolute(ph1.pageX, ph1.pageY);
+clip.height=60; clip.width=120; visibility='show';"></layer>
+
+<layer src="http://ad.doubleclick.net/adl/southern-living.com/slrunofsite;sz=468x60;ord=193173935" visibility="hide" onload="moveToAbsolute(ph2.pageX, ph2.pageY);
+clip.height=60; clip.width=468; visibility='show';"></layer>
+
+
+
+
+
+
+</p></body></html>
