@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the wegmans.com privacy policy that was archived on 2004-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604030046id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wegmans.com privacy policy that was archived on 2004-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206224850id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-	<title>Wegmans: Privacy Policy</title>
+	<title>Wegmans Privacy Policy</title>
 	<script language="javascript" src="/include/js/menu.js" type="text/javascript"></script>
 <script language="javascript" src="/include/js/dynapi/dynapi.js" type="text/javascript"></script>
 <script language="javascript" type="text/javascript"><!--
@@ -22,6 +22,7 @@ DynAPI.onLoad = function() {
 	ServerMapper.addServer("wwws", "https://www.wegmans.com");
 	ServerMapper.addServer("php", "http://phpadmin");
 	ServerMapper.addServer("ext", "");
+	ServerMapper.addServer("flyer","http://flyer.wegmans.com");
 
 	var bNSPrinting = (is.ns4 && (self.innerHeight == 0 && self.innerWidth == 0));
 
@@ -47,11 +48,11 @@ if((navigator.userAgent.toLowerCase().indexOf("mac") == -1) || (navigator.appNam
 
 	<meta name="author" content="Wegmans Food Markets, Inc."> 
 
-	<meta name="copyright" content="Wegmans Food Markets, Inc. 2003"> 
+	<meta name="copyright" content="Wegmans Food Markets, Inc. 2004"> 
 	 
 	<meta http-equiv="Content-Style-Type" content="text/css"> 
 
-	<meta name="description" content="Wegmans: Privacy Policy"> 
+	<meta name="description" content="Wegmans Privacy Policy"> 
 
 	<meta name="keywords" content="Secure Customers Information, personal information, fresh news email"> 
 
@@ -200,9 +201,14 @@ If you have a Wegmans Shoppers Club account, the information you provided on you
 Access to customer information is limited to employees who need it in order to serve customers or maintain our information systems.  All employees are subject to our company Privacy Policy.  We have a Privacy Committee that periodically reviews access, system safeguards, and company policies.</li>
 
 <li><strong>Vendors</strong><br>
-We may provide information to vendors in order to bring you special offers on products and services.  For example, we may provide information in aggregate form (i.e., customer non-specific) to a supplier.  Or, we may provide a list of names and addresses to a mail house so that they can send a direct mail offer from us to you.  All vendors who receive information from us are required to sign a strict Nondisclosure Agreement, which prohibits them from disclosing the information to anyone else.</li>
+We may provide purchase information to vendors in aggregate form (i.e., customer 
+non-specific) in order to bring you special offers on products and services. We 
+may also provide a list of names and addresses to a mail house so that they can 
+send a direct mail offer from us to you.  The mail house would be required to 
+sign a strict Nondisclosure Agreement, which prohibits them from disclosing the 
+information to anyone else. 
 
-<li><strong>Other situations</strong><br>
+</li><li><strong>Other situations</strong><br>
 We may release customer information when we believe it is necessary to comply with the law, enforce our legal rights; or to protect our customers or us.  We may also release your information if you request or authorize us to do so.</li>
 </ul>
 
@@ -228,7 +234,7 @@ We may release customer information when we believe it is necessary to comply wi
 <hr size="1" width="604">
 <blockquote>Everyone!  All of the content contained on wegmans.com is suitable for people of all ages.  </blockquote>
 
-<p align="center"><em>Privacy Policy last updated January 5, 2001</em></p>
+<p align="center"><em>Privacy Policy last updated June 15, 2004</em></p>
 
 </div>
 
@@ -238,21 +244,47 @@ We may release customer information when we believe it is necessary to comply wi
 	</tr>
 </tbody></table>
 <br>
-
-<table border="0" cellpadding="0" cellspacing="0" width="770" align="center">
+<script language="javascript" type="text/javascript" src="/include/formLib.js"></script>
+<table border="0" cellpadding="0" cellspacing="0" width="770" height="46" align="center">
 	<tbody><tr>
-		<td rowspan="2" width="55" valign="top"><img src="/images/footer/verisign.gif" width="55" height="46" alt=" Verisign " border="0"></td>
+		<td rowspan="3" width="55" valign="top"><img src="/images/footer/verisign.gif" width="55" height="46" alt=" Verisign " border="0"></td>
 		<td height="14" valign="top" colspan="2"><img src="/images/footer/spacer658.gif" width="658" height="15" alt=" "></td>
-		<td rowspan="2" valign="top"><a href="http://www.wegmans.com" target="_top"><img src="/images/footer/home.gif" width="57" height="46" alt=" Home " border="0"></a></td>
+		<td rowspan="3" width="57" valign="top"><a href="http://www.wegmans.com" target="_top"><img src="/images/footer/home.gif" width="57" height="46" alt=" Home " border="0"></a></td>
 	</tr>
 	<tr>
-		
-		<td class="small" valign="top" align="left" height="32"><font face="arial, helvetica"><a href="http://www.wegmans.com/usage.asp" target="_top">usage policy</a> | <a href="http://www.wegmans.com/privacy.asp" target="_top">privacy policy</a></font></td>
-		<td class="small" valign="top" align="right" height="32"><font face="arial, helvetica"><a href="http://www.wegmans.com/about/storeLocator/" target="_top">store locator</a> | <a href="http://www.wegmans.com/about/jobs/index.asp" target="_top">employment</a> | <a href="http://www.wegmans.com/guest/index.asp" target="_top">contact us</a> | <a href="http://www.wegmans.com/sitemap/index.asp" target="_top">site map</a></font></td>
-
+		<!-- fresh news email signup -->
+		<td align="center">
+					
+						<table border="0" cellpadding="0" cellspacing="0">
+							<form method="post" onsubmit="noSendDefault(document.form2['email address'],document.form2)" action="https://my.wegmans.com/php/registration/default.asp" id="form2" name="form2"></form>
+							<tbody><tr>
+								<td>
+									sign up for email updates:
+									<input type="text" class="smallInput" name="email address" size="25" maxlength="50" value="enter your email address" onfocus="clearDefault(this)">
+									<input type="image" src="/images/go.gif" alt="Go" width="33" height="21" border="0" name="go">
+								</td>
+							</tr>	
+							
+						</tbody></table>
+					
+			
+		</td>
+	</tr>
+	<tr>
+		<td class="footerText" valign="top" align="center" height="31">
+			<font face="arial, helvetica">
+				<a href="http://www.wegmans.com/usage.asp" target="_top">usage policy</a>&nbsp; | &nbsp; 
+				<a href="http://www.wegmans.com/privacy.asp" target="_top">privacy policy</a>&nbsp; | &nbsp; 
+				<a href="http://www.wegmans.com/about/storeLocator/" target="_top">store locator</a>&nbsp; | &nbsp; 
+				<a href="http://www.wegmans.com/about/jobs/index.asp" target="_top">employment</a>&nbsp; | &nbsp;
+				<a href="http://www.wegmans.com/guest/index.asp" target="_top">contact us</a>&nbsp; | &nbsp; 
+				<a href="http://www.wegmans.com/sitemap/index.asp" target="_top">site map</a>
+			</font>
+		</td>
 	</tr>
 </tbody></table>
 <br>
+
 
 
 
