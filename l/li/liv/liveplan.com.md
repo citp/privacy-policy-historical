@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the liveplan.com privacy policy that was archived on 2001-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010618003956id_/http%3A//www.paloalto.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveplan.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201031649id_/http%3A//www.paloalto.com/privacy.cfm) for the most accurate reproduction.*
 
-# Business Plan Software: Palo Alto Software, Inc.
+# Privacy Statement - Palo Alto Software, Inc.
 
-| **60-day Money-back Guarantee**  
+| **Award-winning Software**  
+---  
+  
+**60-day Money-back Guarantee**  
 ---  
 Our products are designed to keep you in business. We have a 60 day money-back guarantee if you are not satisfied for any reason. 
 
 [more -->](https://web.archive.org/store/service.cfm)  
   
-**Win $25,000!**  
+**Winners Announced!**  
 ---  
-[](https://web.archive.org/competition/)**DEADLINE PASSED!**  
-The deadline for Palo Alto Software's inaugural business plan competition has passed. Please check back [here](https://web.archive.org/competition/) after July 15th to find out which plans made the cut!
-
-Click [here](http://www.bplans.com/sp/sampleinfo.cfm) if you want to sell your plan as a sample plan to be featured on Bplans.com.   
+[](https://web.archive.org/competition/) The results are in! Click [here](https://web.archive.org/competition/) to read about the winners of Palo Alto Software's first annual business plan competition.   
   
 **Testimonials**  
 ---  
-I have used your software for many years and am a great fan of them. Now, your customer service and consideration only fortifies my support in using your products. Thank you very much. 
+First of all, let me state that your software and accompanying book, _Hurdle: the Book on Business Planning_ , are outstanding. Anyone starting a business for the first time without them is at a definite disadvantage! Thanks for all the info. 
 
 [more -->](https://web.archive.org/t/)  
   
