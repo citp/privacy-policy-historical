@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010055547id_/http%3A//www.netgate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628090127id_/http%3A//netgate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-This is the web site of Netgate.
+This is the web site of Rubicon Communications, LLC, DBA Netgate (hereafter referred to as Netgate).
 
 Our postal address is:   
-5317 Western Hills Dr  
-Austin, Texas 78731
+P.O. Box 1680  
+Spokane, WA 99210-1680
 
-We can be reached via e-mail at info@Netgate.com, or you can reach us by telephone at 512-302-3960. You can fax us at 509 267 2369. 
+We can be reached via:  
+e-mail: sales@netgate.com  
+telephone: 509 280 8999  
+fax: 509 268 2369
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
@@ -26,4 +29,10 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
 
-We hate spam and will never, ever spam you.
+**We hate spam and will never, ever spam you.**
+
+**We occasionally receive complains concerning spam that appears to originate from the "netgate.com" domain. Please look at the entire mail header and you should be able to determine that the spam did not ever come from or pass through the netgate.com domain.
+
+If you can determine where the spam really came from, please contact us with all relevant information so we may persue legal remedies. Our good name and reputation is being damaged, which makes us quite angry
+
+** **.**
