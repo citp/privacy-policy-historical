@@ -1,99 +1,8 @@
-> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203034020id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607040819id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
 
 # MacNN | Privacy Policy
 
-Desktop Headlines 
-
-Popular Daily
-
-[Reader: Apple iPod ads "branded" with smear message](http://www.macnn.com/news/22277)
-
-[MacMice offers "The Mouse" in black](http://www.macnn.com/news/22257)
-
-[BBC video report looks at Panther update](http://www.macnn.com/news/22274)
-
-[NYT Magazine examines the iPod](http://www.macnn.com/news/22260)
-
-[Apple Store opening in Tokyo, Panther in China](http://www.macnn.com/news/22262)
-
-[Eisner says Jobs, others have 'extreme' views?](http://www.macnn.com/news/22279)
-
-Popular Weekly
-
-[Tech: plastic memory; wi-fi security; MS security](http://www.macnn.com/news/22256)
-
-[Forums: battery testing; OmniWeb 5; Halo; ...](http://www.macnn.com/news/22252)
-
-[Readers note recent Apple product sightings](http://www.macnn.com/news/22253)
-
-[Forums: G5 rev-b; PB uses; 20-inch iMac](http://www.macnn.com/news/22224)
-
-[Apple offers iPod battery tips](http://www.macnn.com/news/22223)
-
-[Filmmakers draw attention to iPod's 'dirty secret'](http://www.macnn.com/news/22245)
-
-Hot Reviews
-
-[The Photoshop Book for Digital Photographers](http://reviews.macnn.com/review.php?id=43)   
-  
-[Director's Cut Take 2](http://reviews.macnn.com/review.php?id=42)   
-  
-[Director's Cut Take 2](http://reviews.macnn.com/review.php?id=41)   
-  
-[DeskMount and MacSkate](http://reviews.macnn.com/review.php?id=40)   
-  
-[SLIMP3](http://reviews.macnn.com/review.php?id=39)   
-  
-[Absynth 2.0](http://reviews.macnn.com/review.php?id=38)   
-
-
-Most Commented
-
-[Apple loses Michigan 6th grade laptop bid](http://www.macnn.com/news/22208)  
-60 Comments
-
-[BusinessWeek: Apple should release iPhoto for Windows](http://www.macnn.com/news/22233)  
-52 Comments
-
-[Reader: Apple iPod ads "branded" with smear message](http://www.macnn.com/news/22277)  
-47 Comments
-
-[Apple experiencing problems with iTunes Music Store](http://www.macnn.com/news/22205)  
-41 Comments
-
-[Tech: Windows to run some cars; fab safety; ...](http://www.macnn.com/news/22239)  
-40 Comments
-
-[Norwegian programmer cracks Apple DRM](http://www.macnn.com/news/22219)  
-37 Comments
-
-Top Stories
-
-[Apple offers 20" iMac, dual-1.8GHz G5, G5 app updates](http://www.macnn.com/news.php?id=22092)
-
-[Apple releases Mac OS X 10.3.1 update](http://www.macnn.com/news.php?id=21978)
-
-[Forums: Mac OS X 10.3.1, Panther mail, WMP 9....](http://www.macnn.com/news.php?id=21957)
-
-[Apple Store Ginza (Tokyo) to open on Nov 30.](http://www.macnn.com/news.php?id=21873)
-
-[Apple Store coming to Skokie, IL on Nov. 7](http://www.macnn.com/news.php?id=21841)
-
-[LaCie, Apple: dataloss with Panther, FW 800](http://www.macnn.com/news.php?id=21824)
-
-[Adobe ships Adobe Creative Suite](http://www.macnn.com/news.php?id=21746)
-
-[Forums: 10.3 impressions, G5 cluster, PB G5?](http://www.macnn.com/news.php?id=21714)
-
-[Apple adds G4, other features to iBooks](http://www.macnn.com/news.php?id=21678)
-
-[Over 1 million iTunes for Windows downloaded](http://www.macnn.com/news.php?id=21638)
-
-[Coverage of Special Music Event](http://www.macnn.com/news.php?id=21597)
-
-[Apple posts $44M profit on $1.72B in revenue](http://www.macnn.com/news.php?id=21585)
-
-| 
+Desktop Headlines  | 
 
   
 
@@ -131,108 +40,184 @@ Top Stories
   
 
 
-|    
+|   
+---  
+  
+[Inside-Hollywood Digital Media Training:](http://links.industrybrains.com/?Click?195365&2&85&20040607000041&http://www.videosymphony.com) Go where the inside-Hollywood studio pros train. Courses and career programs in video and audio editing available in our nationally accredited facility. Awarded #1 authorized education center world wide by Avid for 2003. Financing available.
+
+[Get $50 or $75 back by mail at RadioShack!:](http://links.industrybrains.com/?Click?271529&2&85&20040607000041&http://s0b.bluestreak.com/ix.e?hy&s=315324&a=231192) Get a $50 HP mail-in rebate when you buy any digital camera and HP photo printer, or get a $75 HP mail-in rebate when you buy an HP digital camera and HP photo printer.
+
+[Recommended source for Royalty-Free Music:](http://links.industrybrains.com/?Click?272400&2&85&20040607000041&http://www.shockwave-sound.com/) Shockwave-Sound.Com offer a large selection of high quality royalty-free music (full tracks, music loops, sound effects) for multimedia, web, CD/DVD, on-hold etc. Chillout, classical, smooth jazz, relaxation, and more. Download or CD delivery.
+
+[Save $200-Digital Design World-Seattle July 21-23:](http://links.industrybrains.com/?Click?271965&2&85&20040607000041&https://www.ftponline.com/conferences/digitaldesignworld/Seattle/) Digital Design World returns to Seattle with three separate conferences covering the topics most important to you-Web Design, Photoshop and Digital Workflow. Register now for the Gold Passport and attend all three. Be sure to cite Priority Code DDWIB
+
+[Managed virus protection from McAfee(r) Security:](http://links.industrybrains.com/?Click?271731&2&85&20040607000041&http://ad.doubleclick.net/clk;8295240;9175965;x) McAfee(r) VirusScan(r) ASaP allows you to offload the burden and costs of managing anti-virus software. An online managed security service, VirusScan ASaP, provides comprehensive, always on protection for desktops and servers.  
+  
+  
+
+
+|   
+---  
+[Inside-Hollywood Digital Media Training](http://links.industrybrains.com/?Click?195365&2&85&20040607000041&http://www.videosymphony.com)  
+Go where the inside-Hollywood studio pros train. Courses and career programs in video and audio editing available in our nationally accredited facility. Awarded #1 authorized education center world wide by Avid for 2003. Financing available.
+
+[Get $50 or $75 back by mail at RadioShack!](http://links.industrybrains.com/?Click?271529&2&85&20040607000041&http://s0b.bluestreak.com/ix.e?hy&s=315324&a=231192)  
+Get a $50 HP mail-in rebate when you buy any digital camera and HP photo printer, or get a $75 HP mail-in rebate when you buy an HP digital camera and HP photo printer.
+
+[Recommended source for Royalty-Free Music](http://links.industrybrains.com/?Click?272400&2&85&20040607000041&http://www.shockwave-sound.com/)  
+Shockwave-Sound.Com offer a large selection of high quality royalty-free music (full tracks, music loops, sound effects) for multimedia, web, CD/DVD, on-hold etc. Chillout, classical, smooth jazz, relaxation, and more. Download or CD delivery.  
+  
   
 Recent Headlines
+    
+    
+    [Safari for Windows?](http://www.macnn.com/news/24954)
+    
+    
+    [Jobs receives $75M in 2003](http://www.macnn.com/news/24953)
+    
+    
+    [Third Apple Store in WA?](http://www.macnn.com/news/24952)
+    
+    
+    [MS spam, Walkman lawsuit..](http://www.macnn.com/news/24951)
+    
+    
+    [Oracle/Apple, new PMs?](http://www.macnn.com/news/24950)
+    
+    
+    [Forums: New PM G5...](http://www.macnn.com/news/24949)
+    
+    
+    [Phelio game updates](http://www.macnn.com/news/24948)
+    
+    
+    [Feral gaming news](http://www.macnn.com/news/24947)
+    
+    
+    [Squabble 1.0](http://www.macnn.com/news/24946)
+    
+    
+    [EvoCam, Sample Manager,...](http://www.macnn.com/news/24945)
+    
+    
+    [Ableton Live 4 due in July](http://www.macnn.com/news/24944)
+    
+    
+    [Aurelon Signalize! RIP](http://www.macnn.com/news/24943)
+    
+    
+    [Mac OS X performance](http://www.macnn.com/news/24942)
+    
+    
+    [America's Army: SF 2.1](http://www.macnn.com/news/24941)
+    
+    
+    [Apple store in Austin, TX](http://www.macnn.com/news/24940)
+    
+    
+    [InterMapper 4.2](http://www.macnn.com/news/24939)
+    
+    
+    [Dev tutorial, OS X 10.4...](http://www.macnn.com/news/24938)
+    
+    
+    [PocketMac GoBetween](http://www.macnn.com/news/24937)
+    
+    
+    [Tech: Disney/Pixar...](http://www.macnn.com/news/24936)
+    
+    
+    [AirPort Extreme 3.4.2](http://www.macnn.com/news/24935)
+    
+    
+    [Apple Store in Santa Rosa](http://www.macnn.com/news/24934)
+    
+    
+    [Tech: Hotmail glitch...](http://www.macnn.com/news/24933)
+    
+    
+    [Miglia sale, PMFUG...](http://www.macnn.com/news/24932)
+    
+    
+    [Gmail supports Safari](http://www.macnn.com/news/24931)
+    
+    
+    [SwitchXS, WebDesign](http://www.macnn.com/news/24930)
+    
+    
+    [DragThing 5.2](http://www.macnn.com/news/24929)
+    
+    
+    [Adobe Adjusted Refresh](http://www.macnn.com/news/24928)
+    
+    
+    [ConceptDraw 5.2](http://www.macnn.com/news/24927)
+    
+    
+    [SketchBook Pro 1.1](http://www.macnn.com/news/24926)
+    
+    
+    [iLiner, SoundFont Synth...](http://www.macnn.com/news/24925)
+    
+    
+    [New Mac gaming company](http://www.macnn.com/news/24924)
+    
+    
+    [Apple security issues](http://www.macnn.com/news/24923)
+    
+    
+    [FW 400GB "AluICE"](http://www.macnn.com/news/24922)
+    
+    
+    [Omikron Basic 8.0](http://www.macnn.com/news/24921)
+    
+    
+    [.Mac free stuff, upgrades](http://www.macnn.com/news/24920)
+    
+    
+    [In Brief: Video Seminar...](http://www.macnn.com/news/24919)
+    
+    
+    [PC World credits iTunes](http://www.macnn.com/news/24918)
+    
+    
+    [CD burning limitations?](http://www.macnn.com/news/24917)
+    
+    
+    [CoCoPod vs. iPod](http://www.macnn.com/news/24916)
+    
+    
+    [MS patents 'double-click'](http://www.macnn.com/news/24915)
+    
+    
+    [Mac OS X vs. Windows](http://www.macnn.com/news/24914)
+    
+    
+    ["Degunking Your Mac"](http://www.macnn.com/news/24913)
+    
+    
+    [Tech: wireless broadband](http://www.macnn.com/news/24912)
+    
+    
+    [Runtime Rev news](http://www.macnn.com/news/24911)
+    
+    
+    [RenderMan R12 announced](http://www.macnn.com/news/24910)
+    
+    
+    [Kodak Airbrush plugin](http://www.macnn.com/news/24909)
+    
+    
+    [Space Colony goes 'gold'](http://www.macnn.com/news/24908)
+    
+    
+    [PhoneDirector, PhotoKit-EL](http://www.macnn.com/news/24907)
+    
+    
+    [Continuum Complete 3](http://www.macnn.com/news/24906)
+    
+    
+    [Bluetooth barcode scanner](http://www.macnn.com/news/24905)
 
-[FileWave updates FileWave for Mac OS X 10.3](http://www.macnn.com/news/22296)
-
-[Apple initiated with "neutral" rating](http://www.macnn.com/news/22295)
-
-[Symantec to offer Panther updates for NUM, NAV](http://www.macnn.com/news/22294)
-
-[Architectural Desktop plug-in for SketchUp](http://www.macnn.com/news/22293)
-
-[Apple updates Soundtrack 1.1 music composition tool](http://www.macnn.com/news/22292)
-
-[Apps: FTP Suite, AutoInstaller, SimpleSound, Phlink](http://www.macnn.com/news/22291)
-
-[Microsoft, Apple to offer music services in Australia](http://www.macnn.com/news/22290)
-
-[RealViz announces Stitcher 4.0, offers discount](http://www.macnn.com/news/22289)
-
-[North Plains offers asset management for Adobe CS](http://www.macnn.com/news/22288)
-
-[Apple: Can Sex Appeal Counter Sticker Shock?](http://www.macnn.com/news/22287)
-
-[Apple take No. 34 spot in 100 CE retailer survey](http://www.macnn.com/news/22286)
-
-[OWC debuts value-driven Neptune FireWire 400 drives](http://www.macnn.com/news/22285)
-
-[Group Logic releases MassTransit 4.2 for Mac OS X](http://www.macnn.com/news/22284)
-
-[El Gato updates EyeTV DVR software application](http://www.macnn.com/news/22283)
-
-[Intuem 1.1 audio application gains Panther support](http://www.macnn.com/news/22282)
-
-[Apps: Reference Miner, Make Icon, SQLGrinder...](http://www.macnn.com/news/22281)
-
-[SubRosaSoft.com debuts CipherDisk for data protection](http://www.macnn.com/news/22280)
-
-[Eisner says Jobs, others have 'extreme' views?](http://www.macnn.com/news/22279)
-
-[Apple Europe Store boss: 'crisis under control'](http://www.macnn.com/news/22278)
-
-[Reader: Apple iPod ads "branded" with smear message](http://www.macnn.com/news/22277)
-
-[Apps: Media 100, Cheetah3D, SoftRAID, JunkBroom ...](http://www.macnn.com/news/22276)
-
-[Mac ranked top revolutionary product by Playboy](http://www.macnn.com/news/22275)
-
-[BBC video report looks at Panther update](http://www.macnn.com/news/22274)
-
-[New benchmarks to gauge supercomputers](http://www.macnn.com/news/22273)
-
-[Apple set to open retail store in Alpharetta, Georgia](http://www.macnn.com/news/22272)
-
-[Apple recognized for branding, strategic direction](http://www.macnn.com/news/22271)
-
-[Buena updates Effect Essentials 1.6 for FCP 4.1](http://www.macnn.com/news/22270)
-
-[Apps: Biferno, AudioFinder, KidzMail, ftp-config...](http://www.macnn.com/news/22269)
-
-[Propellerhead announces ReCycle 2.1 for Mac OS X](http://www.macnn.com/news/22268)
-
-[LightWorks 7.4 adds "Real-time" rendering technology](http://www.macnn.com/news/22267)
-
-[Tri-Backup 4.0 adds new backup functions, filters](http://www.macnn.com/news/22266)
-
-[Apple.com leads hardware e-commerce sites websites](http://www.macnn.com/news/22265)
-
-[Vvidget graphing system adds 3D graphs](http://www.macnn.com/news/22264)
-
-[Hoodman launches FlashPack CompactFlash card case](http://www.macnn.com/news/22263)
-
-[Apple Store opening in Tokyo, Panther in China](http://www.macnn.com/news/22262)
-
-[AppMac's wKiosk 3.0 browser uses Safari HTML engine](http://www.macnn.com/news/22261)
-
-[NYT Magazine examines the iPod](http://www.macnn.com/news/22260)
-
-[Apple launches second iPod-a-Day Giveaway](http://www.macnn.com/news/22259)
-
-[Apps: KidsBrowser, iPodRip, DX Toolbox, Datetree...](http://www.macnn.com/news/22258)
-
-[MacMice offers "The Mouse" in black](http://www.macnn.com/news/22257)
-
-[Tech: plastic memory; wi-fi security; MS security](http://www.macnn.com/news/22256)
-
-[VideoWeb 1.0 shares Webcams, DV cameras on Web](http://www.macnn.com/news/22255)
-
-[El Gato debuts new FireWire-based DVD solutions](http://www.macnn.com/news/22254)
-
-[Readers note recent Apple product sightings](http://www.macnn.com/news/22253)
-
-[Forums: battery testing; OmniWeb 5; Halo; ...](http://www.macnn.com/news/22252)
-
-[Mozilla.org releases Mozilla 1.5.1 browser](http://www.macnn.com/news/22251)
-
-[Apple opens retail store in Tokyo, Osaka to follow](http://www.macnn.com/news/22250)
-
-[The Wild Bits releases Ask The DJ 1.5](http://www.macnn.com/news/22249)
-
-[skEdit 3.3 updates Web authoring utility](http://www.macnn.com/news/22248)
-
-[Sig Software updates Drop Drawers 1.6.3 utility](http://www.macnn.com/news/22247)
-
-Desktop Headlines
+Desktop Headlines 
