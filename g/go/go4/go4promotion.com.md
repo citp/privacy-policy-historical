@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4promotion.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605082338id_/http%3A//www.go4promotion.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4promotion.com privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016213720id_/http%3A//www.go4promotion.com/privacy.htm) for the most accurate reproduction.*
 
 # search engine Submission,Optimization,Ranking,website promotion, placement,internet marketing,website submission,search engines,positioning,web site,website search engine promotion
 
