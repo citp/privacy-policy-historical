@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the accessmedicine.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206034929id_/http%3A//www.accessmedicine.com/amed/public/amed_terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessmedicine.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630144810id_/http%3A//accessmedicine.com/amed/public/amed_terms/privacy.html) for the most accurate reproduction.*
 
 # Access Medicine: Privacy Policy
 
   
-|  |     
+|  |   
 ---|---  
 |    
 Privacy Notice  
@@ -24,9 +24,4 @@ If you prefer not to receive promotional materials from companies outside The Mc
 Thanks.
 
    
-
-
-  
- 
-
 | 
