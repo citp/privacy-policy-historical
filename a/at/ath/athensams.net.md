@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athensams.net privacy policy that was archived on 2004-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041022052854id_/http%3A//www.athensams.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athensams.net privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325102422id_/http%3A//www.athensams.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Eduserv Athens
 
