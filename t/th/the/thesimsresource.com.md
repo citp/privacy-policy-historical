@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201155352id_/http%3A//www.mgon.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405145659id_/http%3A//www.mgon.com/privacy.phtml) for the most accurate reproduction.*
 
 # Welcome to Media and Games Online Network - MGON
 
@@ -9,7 +9,7 @@ MGON International AB is committed to the responsible management of consumer inf
 
 MGON International AB continually reviews its data practices and privacy policy in light of consumer demands, public interests and governmental concerns. 
 
-MGON International AB operates a network of several web site properties including this one, and causes advertisements to be delivered to such web sites on behalf of advertisers. For more information about the business of MGON International AB, please see our [company section](http://www.mgon.com/company).
+MGON International AB operates a network of several web site properties including this one, and causes advertisements to be delivered to such web sites on behalf of advertisers. For more information about the business of MGON International AB, please see our [company section](http://www.mgon.com/corporate/index.phtml).
 
 Personal  
 Throughout the entire network of official MGON sites, MGON will not collect any personally-identifiable information about you (name, address, telephone number, email address) unless you provide it to us voluntarily. If you do not want your personal information collected, please do not submit it. An official MGON site is one that is designed and controlled by MGON International AB. 
@@ -29,7 +29,7 @@ Please e-mail questions or requests for more information about MGON Internationa
 
 Any consumer may request removal of his or her name from MGON International AB's any consumer database MGON may maintain by sending e-mail to [optout@mgon.com](mailto:optout@mgon.com). You must provide your name, complete street address, city, state, ZIP code and e-mail address. We will use reasonable efforts to delete this information from our existing files. 
 
-Or alternatively, our office can be contacted on +46 - (0)270 \- 73530 
+Or alternatively, our office can be contacted on +46 - (0)270 - 73530 
 
 Consumers' Privacy Rights   
 MGON International AB holds the consumer relationship in the highest regard and pledges: 
@@ -50,3 +50,6 @@ MGON International AB uses ad servers (such as DoubleClick) to serve the adverti
 [AdAllies](http://adallies.com/policy.html)
 
 [DoubleClick ](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp)
+
+[Adtegrity](http://www.adtegrity.com/privacy.asp)  
+
