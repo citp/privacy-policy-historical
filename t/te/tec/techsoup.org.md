@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216185449id_/http%3A//www.techsoup.org/global_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2002-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020228223040id_/http%3A//techsoup.org/global_privacy.cfm%3Ftag%3Dhp057) for the most accurate reproduction.*
 
 # TechSoup.org - About TechSoup - Privacy Statement
 
