@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603044132id_/http%3A//bmigaming.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
 
-# BMI Gaming : Site Privacy Policy Page
-
-TOP MENU BAR IS LOADING . . .  PLEASE WAIT                   
-
- 
+# Website Privacy Policy Page | From BMI Gaming 877-FLA-PINS
 
 > * * *
 > 
-> **Privacy Philosophy for[ www.bmigaming.com](http://www.bmigaming.com/) \- ** BMI Gaming has created this website   
+> **  
+>  Privacy Philosophy for  [www.bmigaming.com](http://www.bmigaming.com/) \- ** BMI Gaming has created this website   
 >  privacy policy statement in order to demonstrate our firm commitment to your online privacy.   
 >    
 >  **Your privacy is very important to us**. This privacy policy describes the information we collect   
@@ -16,15 +13,14 @@ TOP MENU BAR IS LOADING . . .  PLEASE WAIT                   
 >  it. As necessary, our privacy policy may be updated to meet the needs of consumers and partners.   
 >  We will always post our most current privacy policy on the Web Site. Any changes to our privacy policy will be effective upon posting pursuant to our notification of changes section. 
 > 
-> **We do not otherwise distribute any personally identifiable information to any parties  
->  other than our authorized Partners and Agents and we do not authorize any of our   
->  Partners or Agents to resell or otherwise distribute any information that we provide   
->  them without prior approval from you. However, we and our authorized Partners   
->  retain the right to sell and or to share any _non-personally identifiable information._   
->  ** **  
-> ** By using this Web Site, you are agreeing to accept the terms of our privacy policy as currently   
->  posted on the Web Site below. If you have any questions about our privacy policy, please   
->  contact us directly via email at : [ privacy@bmigaming.com](mailto:privacy@bmigaming.com)
+> **We do not otherwise distribute any personally identifiable information** to any parties other than our authorized Partners and Agents and we do not authorize any of our Partners or Agents   
+>  to resell or otherwise distribute any information that we provide them without prior approval from   
+>  you. However, we and our authorized Partners _retain the right to sell and or to share_ _any _  
+> non-personally identifiable information._ _By using this Web Site, you are agreeing to accept   
+>  the terms of our privacy policy as currently posted on the Web Site below. If you have any   
+>  questions about our privacy policy, please email us at : [ privacy@bmigaming.com](mailto:privacy@bmigaming.com)
+> 
+>  **COPPA (** **Children's Online Privacy Protection Act)** **Statement -** The  Children's Online Privacy Protection Act of April 2000 applies to the online collection of personal information from children under 13 years of age. In compliance with the Act, BMI Gaming does not collect any personally identifiable information from, nor conducts business with, any child under 18 years of age.
 > 
 > * * *
 > 
@@ -44,13 +40,13 @@ TOP MENU BAR IS LOADING . . .  PLEASE WAIT                   
 >  bill you for products and services, and your unique identifier (if implemented) is used to verify   
 >  your identity in our record system.
 > 
-> **Online Surveys** - **** We sometimes ask you to complete our online surveys on our web site or   
+> **Online Surveys ** - **** We sometimes ask you to complete our online surveys on our web site or   
 >  those of our partners. You may be asked to provide contact information (like email addresses)  
 >  and demographic information (like your zip code, age, or income level). Participation in these  
 >  surveys is optional, but does help us provide complete customer satisfaction. The personally identifiable information that we collect from these surveys is used to better understand our   
 >  customers needs and provide you with the type of offers that you may be interested in.
 > 
-> **Contests** - **** BMI Gaming may have relationships with businesses in the future that contribute   
+> **Contests ** - **** BMI Gaming may have relationships with businesses in the future that contribute   
 >  and/or offer promotions on the bmigaming.com website, and with the web sites that carry the promotions offered by these businesses, referred to as "Partners". Certain Partners may run contests, sweepstakes, and other promotions on our site from time to time. To participate,   
 >  you may be asked for to provide us or them with certain personally identifiable information   
 >  and other information and materials. Any such information that you submit is collected by us   
@@ -58,24 +54,28 @@ TOP MENU BAR IS LOADING . . .  PLEASE WAIT                   
 >  running the contest, sweepstakes, or other promotion and will be used in accordance with   
 >  the Official Rules, if provided in connection with such contest, sweepstakes, or other promotion.
 > 
->  **Contact Us and Feedback Forms** - BMI Gaming collects contact information (like your email address) on Contact Us and Feedback Forms. The personally identifiable information that we   
+> ** Contact Us and Feedback Forms **
+> 
+> - BMI Gaming collects contact information (like your email address) on Contact Us and Feedback Forms. The personally identifiable information that we   
 >  collect from these forms is used to better understand your needs and provide you with the type   
 >  of services and information that you may be interested in. We may store such information to   
 >  be used for future mailings or to otherwise contact you.  
 >  **  
-> Legal Requirements** \- We may be required disclose personally identifiable information to   
+>  Legal Requirements **\- We may be required disclose personally identifiable information to   
 >  other parties if required to do so by law or if we reasonably believe that such action is necessary  
 >   to conform to the requirements of the law or to comply with legal process served on BMI Gaming,   
 >  or to protect and defend the legal rights or property of BMI Gaming, our web site or our customers,   
 >  or in an actual emergency, to protect the health and safety of our customers, employees or the general public.
 > 
-> **Transfer of Assets** - **** If another entity acquires BMI Gaming or all or substantially all of its assets, personally identifiable information, aggregate information, and any other information that we have collected about our customers will be transferred to such entity as one of the transferred assets. 
+> **Transfer of Assets **- **** If another entity acquires BMI Gaming or all or substantially all of its assets, personally identifiable information, aggregate information, and any other information that we have collected about our customers will be transferred to such entity as one of the transferred assets. 
 > 
-> **Notification of Changes** - **** If there is every a substantive change to our information usage   
+> ** Notification of Changes **-
+> 
+>  **** If there is every a substantive change to our information usage   
 >  practices that materially affect your personally identifiable information, we will post   
 >  notification of such changes directly on this privacy policy page.  
 >  **  
-> Third-Party Links** \- For your convenience, the Web Site may contains links to other web sites, including sites owned or operated by us or our Partners. Although Partners should adhere to   
+>  Third-Party Links **\- For your convenience, the Web Site may contains links to other web sites, including sites owned or operated by us or our Partners. Although Partners should adhere to   
 >  industry standard privacy policies, we have no real control over the linked sites and we are   
 >  not responsible for the privacy practices or the content of any third-party sites linked to or   
 >  from [bmigaming.com](http://www.bmigaming.com/). We encourage you to note when you leave [ bmigaming.com](http://www.bmigaming.com/)   
@@ -87,12 +87,18 @@ TOP MENU BAR IS LOADING . . .  PLEASE WAIT                   
 > When you visit a Web site displaying the _TRUSTe_ trustmark, you can expect to be notified of:
 > 
 >   1. What Personally Identifiable Information of yours is collected 
+> 
 >   2. How the information is used 
+> 
 >   3. What organization is collecting the information 
+> 
 >   4. With whom the information may be shared 
+> 
 >   5. What choices are available to you regarding the use and distribution of the information 
+> 
 >   6. What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control   
 >   
+> 
 > 
 
 > 
@@ -103,7 +109,7 @@ TOP MENU BAR IS LOADING . . .  PLEASE WAIT                   
 > * * *
 > 
 > **  
-> Do you give out Cookies?** \- For your convenience, we may place cookies on your computer,   
+>  Do you give out Cookies? **\- For your convenience, we may place cookies on your computer,   
 >  so we can keep track of your personal information and previous promotion selections, make   
 >  sure that you don't see the same promotional offer repeatedly, and otherwise customize your experience on the Web Site. Cookies are small text files from a Web site that are stored on   
 >  your hard drive. Cookies themselves do not contain any personally identifiable information.   
@@ -114,7 +120,7 @@ TOP MENU BAR IS LOADING . . .  PLEASE WAIT                   
 >  the Web Site is collected by BMI Gaming and/or our Partners. Click here to find more   
 >  information about [BMI Gaming](http://www.bmigaming.com/bmiprofile.htm)  
 >  **  
-> Do you share any of my information with others?** - We may share personally identifiable   
+>  Do you share any of my information with others? ** - We may share personally identifiable   
 >  information and non-personally identifiable information about our customers (i.e., information   
 >  that does not identify individual users such as individual or aggregate demographic information)   
 >  with our authorized Partners that perform functions on our behalf or on behalf of our Partners,   
@@ -132,7 +138,7 @@ TOP MENU BAR IS LOADING . . .  PLEASE WAIT                   
 > ,   
 >  and / or aggregate information with other third parties.
 > 
-> **Can I control how you collect, use and distribute my personal information?** \-   
+> ** Can I control how you collect, use and distribute my personal information? **\-   
 >  All personally identifiable information that we collect on the web site is provided to us voluntarily   
 >  by users. We provide you with the opportunity to opt-out of receiving email from us by emailing   
 >  us at [opt-out@bmigaming.com](mailto:opt-out@bmigaming.com) or by writing to us at : _Privacy Department, BMI Gaming, Inc.,  
@@ -158,16 +164,20 @@ TOP MENU BAR IS LOADING . . .  PLEASE WAIT                   
 > 
 >   1. Email [privacy@bmigaming.com](mailto:privacy@bmigaming.com)   
 >   
->   2. Send postal mail to the following postal address:  
->  Privacy Department  
->  BMI Gaming, Inc  
+>   2. Send postal mail to the following postal address:
+> 
+> BMI Gaming, Inc  
 >  3500 NW Boca Raton Blvd  
 >  Building 715  
->  Boca Raton, FL 33432 
+>  Boca Raton, FL 33432   
+>  Attn: _**Privacy Department**_
+> 
 > 
 
+> 
+> * * *
 
-           
   
-                Copyright © 2003 - 2004 BMI Gaming, Inc., Boca Raton, FL - All Rights Reserved | [Home](https://web.archive.org/web/20040603044132id_/http%3A//bmigaming.com/main.htm) | [Contact Us](https://web.archive.org/web/20040603044132id_/http%3A//bmigaming.com/contact.htm) | [Privacy](https://web.archive.org/web/20040603044132id_/http%3A//bmigaming.com/main.htm) | [Site Map](https://web.archive.org/web/20040603044132id_/http%3A//bmigaming.com/sitemap.htm) | **877-FLA-PINS** **  
+  
+Copyright © 2003-2004 BMI Gaming, Inc., Boca Raton, FL - All Rights Reserved | [Home](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/main.htm) | [Search](http://www.bmigaming.com/search.htm) | [Site Map](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/sitemap.html) | [Contact Us](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/contact.htm) | [Privacy](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/privacy.htm) | **877-FLA-PINS** **  
  **
