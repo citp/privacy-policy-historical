@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avaya.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030332id_/http%3A//www.avaya.com/ac/common/index.jhtml%3Flocation%3DM1H1011%26%26rec_id%3DPrivacyStatement%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avaya.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624220904id_/http%3A//www.avaya.com/ac/common/index.jhtml%3Flocation%3DM1H1011%26%26rec_id%3DPrivacyStatement%26) for the most accurate reproduction.*
 
 # Avaya
 
