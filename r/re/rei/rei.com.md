@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604074259id_/http%3A//www.rei.com/reihtml/privacy.html%3Fstat%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208065117id_/http%3A//www.rei.com/rei/privacy.html%3Fstat%3Dfooter_privacy) for the most accurate reproduction.*
 
 # REI: REI.COM Privacy Policy
 
@@ -46,4 +46,4 @@ If you have supplied us with your postal address, we may share your name and add
 **Need to make a change?**  
 If you would like to change any of your transactional information in our database please feel free to contact us. You'll find our e-mail address, phone number and address at the top of this page.
 
-REI co-op members may also specify mailing preferences by visiting the [Mailing Options](https://web.archive.org/reihtml/help/mailing.html) page on our website.
+REI co-op members may also specify mailing preferences by visiting the [Mailing Options](https://web.archive.org/rei/help/mailing.html) page on our website.
