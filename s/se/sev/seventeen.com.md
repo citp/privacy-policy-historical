@@ -1,38 +1,54 @@
-> *The following text is extracted and transformed from the seventeen.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618171613id_/http%3A//seventeen.com/page.cfm%3Fpage_id%3D262) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seventeen.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004001901id_/http%3A//www.seventeen.com/about/html/privacypolicy.html%3FSessionCookie%3D69910251-1-0-7D3) for the most accurate reproduction.*
 
-# Seventeen Online
+# seventeen.com | about
 
-Hey, welcome to **seventeen.com** -one of the few places in the world where you can speak your mind freely. . .and actually be heard. We're so psyched that you're here! We knew you were coming so we've cooked up a bunch of ways for you to express yourself, meet other teenagers from across the country and find out what they think about everything from the latest gear to the hottest celebs and the coolest music and movies. Our online community may include chat rooms, message boards, instant messenger, buddy lists, email, newsletters, polls, surveys and quizzes-all designed to make you want to stay awhile. 
+Welcome to **seventeen.com** , the online home of **seventeen** magazine. We're psyched that you're here! This site is where you can get the latest info on entertainment, fashion, and life, and it's where you can express yourself through polls and quizzes. (Also you can win stuff!) We'd like you to read and understand our privacy policy. 
 
-Hanging out on **seventeen.com** is a blast, but the most important thing to us is your privacy. That's why we promise to protect the privacy of each visitor, and each user who registers with seventeen.com. When you register with us, you tell us some pretty personal stuff and we want you to fully understand why we ask for that info and what we do with it. So, we've come up with this privacy statement which will fill you in on what kind of information we gather, how we use it and how you can correct or change it. 
+**Seventeen.com** is owned by PRIMEDIA. **Seventeen.com** is committed to protecting the privacy of our users. We sometimes collect personal information from our users. This page explains what information we collect, why we collect it, what we do with it and what you can do about it. We also ask girls to always check with their parents before giving out any personal information on our website. 
 
-Questions regarding the **seventeen.com** Privacy should be directed to:   
-[ask17@seventeen.com](mailto:ask17@seventeen.com)
+**Collection of personal information**  
+**Seventeen.com** maintains the confidentiality, security and integrity of personal information that we obtain from our users. We do not disclose personal information to any outside party. When registering for **seventeen.com** or any of its related services, we ask you to provide certain personal information. This information is for internal use only and will not be distributed or sold to any parties outside **seventeen.com**. 
 
-Frequently Asked Questions 
+We strive to create sweepstakes, contests and content which require a very minimal amount of information from our users. Our online surveys, sweepstakes, and contests sometimes ask users for contact information (like their e-mail addresses) or information about their hobbies or interests. This information is also only for internal purposes and will not be shared with any party outside **seventeen.com**. 
 
-**Getting the info**  
-**seventeen.com** has a handful of ways to gather personal information on the visitors to our site, such as your optional, voluntary participation in message boards, chats, surveys, instant messenger, buddy list, your member profile, email, as well as entry in our contests and sweepstakes. All subscribers (for things like chat, etc.) are asked to create a fictitious nickname, and provide their first name and e-mail address For sweepstakes, contests and other activities, we might ask you for your date of birth, gender, zip code, state and country. **seventeen.com** is designed for teens, so we ask that those under 13 not send us any personal information, like name, address, etc. And sorry - if you're under 13, you can't enter any contests sponsored by seventeen® at this site. 
+**Newsletters and Registration**  
+To subscribe to the **seventeen.com** newsletter, you must be over the age of thirteen, and we ask for your e-mail and your zip code. When you register with **seventeen.com** (which gives you access to contests and sweepstakes), we ask for a bit more: your first name, birthdate, zip or postal code, and what country you live in. Again, this information is for internal use only and will not be distributed or sold to any parties outside **seventeen.com**. Newsletter subscribers generally get two emails per month. We might also send out e-mails to users that have opted in for an online service to announce special offers, services and announcements from our site and/or our advertisers. You can opt out of the newsletter at any time by clicking [here](https://web.archive.org/newsletter/html/unsubscribe.epl?SessionCookie=70157874-1-0-1DD). 
 
-We also get information about the interests of our visitors through "passive identifiers," aka cookies. Now, you might ask, what the heck are cookies? Good question! (We knew you were smart!) They're little bits of data stored on your computer. Cookies that we set aren't associated with any personal information (like your name or address, or answers to our polls or surveys). How do we use 'em? Another good question! We take all the data from all the cookies from all our visitors. They tell us when a unique visitor (you) is on our site, help us pinpoint problems with our server, and help us make sure we're doing the cool stuff our visitors really like. But - and this is important - we want you to tell us what you think, so our polls and surveys and stuff are all anonymous, and won't be linked to you. 
+**About IP addresses**  
+An IP address is a number that's automatically assigned to your computer whenever you're surfing the web. Web servers--the big computers that "serve" up webpages--automatically identify your computer by its IP address. **Seventeen.com** collects IP addresses for the purposes of system administration and to report anonymous aggregate information to third parties. When guests request pages from **seventeen.com** , our servers log the users' IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user's session will be logged, but the user remains anonymous to us. We will know your IP address, but not who you are. 
 
-**What's Elvis got to do with it?**  
-Basically **seventeen.com** uses the information we gather about you to custom fit our site according to your likes and dislikes, as well as those of our advertisers. Say we write a quiz about Elvis, you know, the King of Rock 'n Roll and we see that thousands of you took and enjoyed the quiz. Well, that means that we're sure to run a "Do You Love Me Tender?" quiz in honor of Elvis the next chance we get. Why? Because you told us you were into Elvis. We might also use this same Elvis info to help the folks in marketing develop a line of fat-free Elvis cookies. And then perhaps one of our advertisers might call **seventeen.com** and ask how many people "clicked" on the ad they ran next to that wacky Elvis quiz. See? We get all that useful information from one click of your mouse. 
+**Use of cookies**  
+Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. They allow a website to remember you and allows for the personalization of webpages. The use of cookies is an industry standard; you'll find them on most major websites. **Seventeen.com** sometimes uses cookies to understand our users better and to track information for them. 
 
-We might also send out emails to users that have opted in for an online service to announce special offers, services and announcements from our site and/or our advertisers. How does it work? We do the work. We don't send your name, e-mail address or anything else that's personally identifiable to our advertisers. That way, if you said you want to hear about new makeup (even though you're already gorgeous), we let you know about offers from our advertisers. If you don't, don't sign up. If you do sign up and decide that you don't want to get the e-mails, no problem. Just unsubscribe by unchecking the appropriate box in your member profile, or following the "unsubscribe" instructions in any email you receive. 
+**Links to other sites**  
+You should be aware that when you are on **seventeen.com** you might be directed to other sites that are beyond our control. Every site on the web has a different privacy policy and different policies regarding your personal information. The privacy policies and the practices of sites outside of **seventeen.com** and all of its services are beyond our control. It is your responsibility to read and understand the privacy policies of any and all websites you visit on the internet These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. Always be aware of where you end up on the net. 
 
-**Sweepstakes, Contests and Ads.**  
-Ya gotta remember one really important thing about contests. Sometimes we run them, and sometimes they're run by our advertisers or business partners. If you click on an offer to enter a contest or sweepstakes, check to see who sponsors it. (Hint: look for the URL!) If it's **seventeen.com** , our rules apply. If it's not, ya gotta check out the sponsor's privacy policy to know how they handle personal information. 
+**Security**  
+The importance of security for all personally identifiable information associated with our users is of utmost concern to us. We exercise great care in providing secure transmission of our users' personal information from their computers to our servers by utilizing encryption software. Only those employees who need access to our users' information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
 
-Same thing with an ad. If, when you click, you leave our site, be sure to check out their privacy policy and understand what information they collect, and how they use it, before giving any personal information. 
+**Children's privacy**  
+The Children's Online Privacy Protection Act (COPPA) does not allow the collection of any personal information from anyone under the age of 13. In compliance with COPPA, **seventeen.com** does not knowingly collect personal information from anyone under the age of 13. It is important for you to understand COPPA; we encourage you to read more about COPPA by visiting the FTC's website at www.ftc.gov. 
 
-**Sharing secrets**  
-We're the best secret keepers ever! **seventeen.com** does not disclose personal information on any individual user to any third party, including our advertisers and other partners, unless we absolutely have to. That would only happen because it's the law (like, we have to cooperate with the police, the FBI, or other officials), or because there's some sort of court process (you know how those lawyers are), or so we can protect the site from really uncool stuff like jamming or hacking. 
+**Your acceptance of these terms**  
+By using this site, you signify your assent to the **seventeen.com** privacy policy. If you do not agree to this policy, please do not use our site. Your continued use of our site more than 30 days following the posting of changes to these terms will mean that you accept those changes. You can send e-mail to us with any further questions. 
 
-**You want out?**  
-**seventeen.com** gives users options all the time. Such choices include: Opting not to receive electronic newsletters when registering for a service. Opting not to participate in certain interactive areas such as chat and message boards, which completely alleviate the need for any information from our users. Opting not to register and create a member profile. 
+**Deleting your information**  
+If at any time you wish to be removed from the **seventeen.com** database, send an e-mail to feedback@ **seventeen.com**. 
 
-**Weirdos, Crazies and Other Privacy Issues**  
-While we do a really good job of keeping ourselves in check, **seventeen.com** is not responsible for the content or privacy policy of the Web sites we may link to. And let's talk about chat rooms and message boards. You need to keep in mind that whenever you voluntarily give personal information online ("I'm 5' 3" and have dark hair like Katie Holmes and I love oatmeal"), by using message boards, instant messengers, through email or in chat areas-it can be collected and used by other people. If you post personal information online that is accessible to the public, you may receive unsolicited messages from others in return. All we're saying is, there are weirdos out there who make it a hobby to collect information about unsuspecting surfers, so remember that whatever personal information you disclose to anyone online you do at your own risk! Do not share your password! seventeen® or **seventeen.com** staff will never ask you for your password. Beware of random users posing as seventeen® staffers to gain access to your personal information. 
+**Third party cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-AND, if you're chatting or chillin' with someone and they start weirding you out or making you feel uncomfortable, simply turn off your browser or computer, if you must, and e-mail us at ask17@ **seventeen.com** to tell us what happened. Make sure you get the user name(s) of the person(s) involved. And remember -or Community Rules apply in our space, so click here to check out how to stay cybercool in our chat areas. 
+**Privacy policy disclosure**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click on the links below: 
+
+247Media privacy policy  
+SONAR Network privacy policy  
+Doubleclick Network privacy policy
+
+**Contacting us**  
+If you have any questions about our privacy policy, the practices of this site or your dealings with it, you can contact:  
+seventeen.com  
+1440 Broadway, 20th Floor  
+New York, NY 10018
+
+[feedback@seventeen.com](mailto:feedback@seventeen.com)
