@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2002-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021213233758id_/http%3A//www.icij.org/dtaweb/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609230006id_/http%3A//www.icij.org/dtaweb/privacy.asp) for the most accurate reproduction.*
 
 # Feedback Form
 
@@ -7,7 +7,7 @@
 [Home](https://web.archive.org/dtaweb/home.asp "Home") >  
 **Terms of Use**
 
-This site is published by The Center for Public Integrity, a tax-exempt 501(c)(3) organization located at 910 17th NW, Washington, DC 20006. Contents of this site, including all site and section names, logos, other graphics, organized listings, presentation strategies, interface design and other design elements, are covered by trademarks, copyrights and other intellectual and trade property rights, held jointly or separately by The Center for Public Integrity. All rights are reserved. Contributing writers also may hold rights to some material.
+This site is published by The Center for Public Integrity, a tax-exempt 501(c)(3) organization located at 910 17th Street NW, Washington, DC 20006. Contents of this site, including all site and section names, logos, other graphics, organized listings, presentation strategies, interface design and other design elements, are covered by trademarks, copyrights and other intellectual and trade property rights, held jointly or separately by The Center for Public Integrity. All rights are reserved. Contributing writers also may hold rights to some material.
 
 Material on this site may not be copied, mirrored, cataloged, displayed simultaneously with another site in part or in whole, nor may any of its sub-programs be accessed from any page without the express written consent of the appropriate rights holder. Use of this site contractually obliges each user to these terms. News media may use portions of the content of this site and refer to its contents with appropriate credit given to The Public i, The Center for Public Integrity, The International Consortium of Investigative Journalists and its constituent rights holders.
 
