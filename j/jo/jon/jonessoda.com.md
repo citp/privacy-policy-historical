@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonessoda.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610202756id_/http%3A//www.jonessoda.com/files/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonessoda.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208162007id_/http%3A//www.jonessoda.com/files/privacy.html) for the most accurate reproduction.*
 
 # Jones Soda Privacy Statement
 
