@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203153615id_/http%3A//www.herroom.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611170502id_/http%3A//www.herroom.com/privacy.cfm) for the most accurate reproduction.*
 
 # Lingerie, bras, panties, slips and shapewear from HerRoom.com
 
 HerRoom.com has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know. You can reach us at: 
 
-| E-Mail: | [feedback@HerRoom.com](mailto:feedback@HerRoom.com)  
+| E-Mail: | [feedback1@HerRoom.com](mailto:feedback1@HerRoom.com)  
 ---|---  
 Telephone: | 214-691-1630  
 Postal mail:     | HerRoom.com  
