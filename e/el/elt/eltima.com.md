@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the eltima.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603123049id_/http%3A//eltima.com/support/docs/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltima.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204073120id_/http%3A//www.eltima.com/support/docs/policies/privacy) for the most accurate reproduction.*
 
 # Internet Privacy application, Decompiler mx SWF, Optimizer
 
 |    
-|  **Did you know?**
+|  **Eltima newsletter**
 
-Purchasing multiple licenses saves you substantial amounts of money thanks to our special discounts system. 
+To stay informed and be the first to receive news and updates, you can subscribe to our newsletter and get updated instantly in future. It's absolutely free and really beneficial. 
 
 **Newsletter**  
   
