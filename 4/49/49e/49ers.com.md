@@ -1,48 +1,8 @@
-> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408103542id_/http%3A//49ers.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013014417id_/http%3A//www.49ers.com/help/privacy.asp) for the most accurate reproduction.*
 
 # San Francisco 49ers
 
-  
-| [](https://web.archive.org/team/roster.asp) | [](https://web.archive.org/newsroom/) | [](https://web.archive.org/schedule/) | [](https://web.archive.org/community/) | [](https://web.archive.org/history/) | [](https://web.archive.org/fan_zone/) | [](https://web.archive.org/cheerleaders/) | [](http://www.nflshop.com/catalog/supercat_team.cfm?&TeamID=25000387&SID=7143)  
----|---|---|---|---|---|---|---  
-  
-  
-  
-  
-|  | **Preseason**  
-  
----  
-Sun, Aug 4 | vs. Washington*  
-Sat, Aug 10 | vs. Kansas City  
-Mon, Aug 19 | @ Denver  
-Sat, Aug 24 | @ Oakland  
-Wed, Aug 28 | vs. San Diego  
-  
-*American Bowl, Osaka, Japan  
-| **Regular Season**  
-  
----  
-Thurs, Sept 5 | @ NY Giants  
-Sun, Sept 15 | vs. Denver  
-Sun, Sept 22 | vs. Washington  
-Sun, Sept 29 | BYE  
-Sun, Oct 6 | vs. St. Louis  
-Mon, Oct 14 | @ Seattle  
-Sun, Oct 20 | @ New Orleans  
-Sun, Oct 27 | vs. Arizona  
-Sun, Nov 3 | @ Oakland  
-Sun, Nov 10 | vs. Kansas City  
-Sun, Nov 17 | @ San Diego  
-Mon, Nov 25 | vs. Philadelphia  
-Sun, Dec 1 | vs. Seattle  
-Sun, Dec 8 | @ Dallas  
-Sun, Dec 15 | vs. Green Bay  
-Sat, Dec 21 | @ Arizona  
-Mon, Dec 30 | @ St. Louis  
-  
-|   
-  
-|  | 
+| 
 
 49ers.com Privacy Policy
 
@@ -76,14 +36,4 @@ Questions regarding this statement should be directed to:
 or send email to the [Privacy Policy Coordinator](mailto:49ersweb@niners.nfl.com).  
  
 
-|   
----|---|---  
-  
-       [The Team](https://web.archive.org/team/roster.asp)  |  [Newsroom](https://web.archive.org/newsroom/)  |  [Schedule](https://web.archive.org/schedule/)  |  [Community](https://web.archive.org/community/)  |  [History](https://web.archive.org/history/)  |  [Fan Zone](https://web.archive.org/fan_zone/)  |  [Cheerleaders](https://web.archive.org/cheerleaders/)  |  [Store](http://www.nflshop.com/catalog/supercat_team.cfm?&TeamID=25000387&SID=7200)[](https://web.archive.org/help/)  [Help](https://web.archive.org/help/)         
-  
-No portion of this site may be reproduced without the express written permission of The San Francisco 49ers.  
-© 2001 San Francisco Forty Niners, Ltd.  
-[Privacy Policy](https://web.archive.org/help/privacy.asp)  •  [Terms of Conditions](https://web.archive.org/help/terms.asp)  •  [Feedback](http://www.49ers.com/help/feedback.asp)  
-Site Design by [Epic Cycle](http://www.epiccycle.com/).   
-  
-
+| 
