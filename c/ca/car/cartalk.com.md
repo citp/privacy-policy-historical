@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606051115id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115317id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
 
 # Car Talk: Privacy Policy
 
@@ -73,12 +73,16 @@ No transmission of data over the Internet is guaranteed to be completely secured
 
 cartalk.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. Questions should be directed to [feedback@cartalk.com](mailto:feedback@cartalk.com). 
 
-* * *
-
-Cartalk.com is a production of Dewey, Cheetham and Howe. Contents © 2004, Dewey, Cheetham and Howe.   
+  
   
 ---  
   
+Cartalk.com is a production of Dewey, Cheetham and Howe. Contents © 2004, Dewey, Cheetham and Howe. 
+
+  
 
 
 * * *
+
+  
+
