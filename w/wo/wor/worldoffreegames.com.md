@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201214003id_/http%3A//worldoffreegames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004092319id_/http%3A//www.worldoffreegames.com/privacy.php) for the most accurate reproduction.*
 
 # World Of Free Games - Privacy Policy
 
