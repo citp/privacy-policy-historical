@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205181813id_/http%3A//www.mtvasia.com/Info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610152408id_/http%3A//www.mtvasia.com/Info/privacy.html) for the most accurate reproduction.*
 
 # MTVAsia.com - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We are committed to protecting our users' privacy. Keeping the information you share with us on the Site secure and ensuring your understanding of how we collect, use and maintain your information is important to us at MTV Asia. We maintain physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information. We continually assess new technology for protecting information and, when appropriate, we upgrade our information security systems. 
 
-Because of its importance and to make it easier for you to find and review it, we have made this Privacy Statement into a separate document on the Site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our **[Terms of Use](https://web.archive.org/web/20031205181813id_/http%3A//www.mtvasia.com/Info/terms.html)** describe how and when we may make changes to these statements and terms, and how they become binding upon you. We again remind you to check back here and to our **[Terms of Use](https://web.archive.org/web/20031205181813id_/http%3A//www.mtvasia.com/Info/terms.html)** often to be sure you remain mindful of the terms and conditions that apply to you when you use the Site. 
+Because of its importance and to make it easier for you to find and review it, we have made this Privacy Statement into a separate document on the Site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our **[Terms of Use](https://web.archive.org/web/20040610152408id_/http%3A//www.mtvasia.com/Info/terms.html)** describe how and when we may make changes to these statements and terms, and how they become binding upon you. We again remind you to check back here and to our **[Terms of Use](https://web.archive.org/web/20040610152408id_/http%3A//www.mtvasia.com/Info/terms.html)** often to be sure you remain mindful of the terms and conditions that apply to you when you use the Site. 
 
 **Disclosure (General):** Although your privacy is very important to us, in this legal and technical environment, we cannot fully ensure that your personally identifiable information will not be disclosed to third parties. Please see "Disclosure to Third Parties," below, for more information. 
 
@@ -68,8 +68,4 @@ Some of the aggregate customer data we collect may be shared with advertising co
   * exchange information about you and carry out credit approvals or checks necessary for your purchases of Products from us, to prevent fraud and any other activities we may be required to monitor and report under applicable laws and regulations; and
   * make every effort to keep your personally identifiable information complete, up to date, and accurate based on the information you provide us. Our Site provides a convenient and easy to use mechanism to allow you to access and update the personally identifiable information you give us.
 
-**Sole Statement:** This privacy statement is the sole statement of MTV Asia's privacy policy with respect to the Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. 
-
-Copyright (c) MTV Asia LDC, 2003 All Rights Reserved. 
-
-| 
+**Sole Statement:** This privacy statement is the sole statement of MTV Asia's privacy policy with respect to the Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. | 
