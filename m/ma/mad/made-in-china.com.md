@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2001-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011208092343id_/http%3A//made-in-china.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603181014id_/http%3A//www.made-in-china.com/help/policy) for the most accurate reproduction.*
 
 # Made-in-China.com-->Privacy Policy
 
@@ -57,6 +57,6 @@ The information that you provide when posting an item for trade or when making a
 Top
 
 **How to contact us on further inquiry about our privacy policy?**  
-Please mail any inquiries to [webmaster@Made-in-China.com](mailto:webmaster@Made-in-China.com). 
+You may [click here](https://web.archive.org/help/contact/) to contact us. 
 
 Top
