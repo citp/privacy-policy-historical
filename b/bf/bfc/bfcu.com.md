@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfcu.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208013000id_/http%3A//bfcu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfcu.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405044718id_/http%3A//bfcu.com/privacy.html) for the most accurate reproduction.*
 
 # Bethpage FCU - Online Privacy Policy
 
@@ -11,7 +11,7 @@ _domain_ a user uses to access its Web site, the _Internet address_ of the Web s
 
 **Member-Only Areas:** Personal identification (i.e.: account number, password) is collected when a valid credit union member with active credit union account(s) has registered to enter the secure online banking area of the credit union's Web site. This information enables the credit union to regulate access of this information to those who request such access and those entitled to perform transactions on these account(s). 
 
-**Bethpage Federal Credit Union _does not_ sell or provide any member information to any list service.** We will disclose information to third parties about your account or the transactions you engage in: (a) where it is necessary for completing transactions, or (b) in order to verify the existence and condition of your account for a third party, such as a credit bureau or merchant, or (c) in order to comply with government agency or court orders, subpoenas and other legal documents, or (d) if you give BFCU your permission. 
+**Bethpage Federal Credit Union _does not_ sell or provide any member information to any list service.** We may share information about you, your account or the transactions you engage in with third parties in order to administer the products and services we provide, when required to do so by law or government rules and regulations, or to offer a broader array of products and services. BFCU may share member information, to the extent permissible by law, for purposes including but not limited to credit reporting, merchant verification and fraud prevention. For more information regarding BFCU's information sharing practices, please see BFCU's Privacy Policy. 
 
 **Cookies:** BFCU's Web site requires the use of 
 
