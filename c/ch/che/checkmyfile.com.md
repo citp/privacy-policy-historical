@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618074821id_/http%3A//www.checkmyfile.com/HotLinks/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204202033id_/http%3A//checkmyfile.com/HotLinks/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
