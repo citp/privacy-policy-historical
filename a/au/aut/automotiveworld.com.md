@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotiveworld.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025321id_/http%3A//www.awknowledge.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotiveworld.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204255id_/http%3A//www.awknowledge.com/about/privacy.asp) for the most accurate reproduction.*
 
 # AWKnowledge - Research & Analysis for the Automotive IndustryPrivacy Policy
 
