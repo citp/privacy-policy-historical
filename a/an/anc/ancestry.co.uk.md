@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602054059id_/http%3A//www.ancestry.co.uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210222734id_/http%3A//www.ancestry.co.uk/legal/privacy.htm) for the most accurate reproduction.*
 
 # Ancestry.co.uk - Privacy Statement
 
 Privacy Statement
 
-Privacy Information for Ancestry.co.uk  
-Ancestry.co.uk Statement of Privacy: Ancestry.co.uk recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
+Privacy Information for Ancestry.co.uk   
+MyFamily.com, Inc., operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
 
 **Overview:**  
 The personal, private information that is provided to Ancestry by individual members is not provided to unrelated third parties except in rare cases involving possible violations of our use policies or legal statutes. We do collect some data, always with your knowledge and consent, that is used to fulfill orders and otherwise enhance content to better meet the needs of our users.
@@ -39,7 +39,7 @@ Ancestry reserves the right to disclose aggregated user statistics, such as "45%
 Additionally, if you click away from Ancestry to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. Ancestry has no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used.
 
 **Will Ancestry use my information for direct mailings?**  
-Only at your option. Ancestry will occasionally send e-mail messages to advise members when new information has been posted to the Web site or to announce special product and service offerings that we feel may be of interest to you. If you do not want to receive such mailings, you may opt out at any time by using the unsubscribe link listed in the e-mail.
+Ancestry will send electronic mail to you, for the purpose of informing you of changes or additions to Ancestry, or of any Ancestry related products and services. If you do not want to receive such mailings, you may opt out at any time by using the unsubscribe link listed in the e-mail.
 
 **May I refuse to provide personal information to Ancestry or to accept advertising?**  
 Visitors may access Ancestry’s free services by providing a first name, last name, and e-mail address. To gain full access to the members-only areas, a username, e-mail address and appropriate billing information are required. Because the Ancestry site is partially advertiser supported, you may not "turn off" the advertising that appears on Ancestry pages, but you may opt to be excluded from any e-mail advertising.
@@ -50,8 +50,8 @@ IP Addresses: We do use your IP address to help diagnose problems with our serve
 **Ancestry Cookies:**  
 Contrary to popular myth, cookies do not extract private or personal information from your computer’s memory, but rather, record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer when you register at our Web site that enable our server to recognize or "remember" who you are each time you return. Ancestry may make limited use of cookies to deliver content specific to your interests. For instance they may be used to retain your personal preferences, hold session information for a "shopping basket," or save your password so it doesn’t have to be re-entered each time you login.
 
-**Advertiser Cookies:  
-** Ancestry does post third party advertising banners on personal family Web sites and on Ancestry general use pages. These ads may contain cookies used primarily to provide data to the advertiser about where visitors are coming from. While we do use cookies in other parts of our Web site as explained above, cookies received with banner ads may or may not be collected by our company or be under our control.
+**Advertiser Cookies:**  
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **What else should I know about privacy?**  
 The following encapsulates a few key issues mentioned in context above. 
@@ -67,4 +67,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 MyFamily.com, Inc.  
 360 W 4800 N Provo, UT 84604   
-support@ancestry-inc.com
+[Online Knowledge Base](http://ancestry.custhelp.com/)
