@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-e-cards-online.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209003155id_/http%3A//www.free-e-cards-online.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-e-cards-online.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605160748id_/http%3A//www.free-e-cards-online.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Free E-Cards Online
 
@@ -16,4 +16,4 @@ Free E-Cards Online is firmly committed to the privacy of our clients. We have c
 
 **6.** _Cookies_. Cookies are pieces of information sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. The web site analysis tool we use on our site employs the use of ‘cookies’ within our site. By tracking the information contained in the ‘cookie’, the software can calculate various aggregate statistical data. The cookie does not contain any personally identifiable information.
 
-**[Click here for Page 2 of our Privacy Policy](https://web.archive.org/web/20021209003155id_/http%3A//www.free-e-cards-online.com/Privacy2.html)**
+**[Click here for Page 2 of our Privacy Policy](https://web.archive.org/web/20030605160748id_/http%3A//www.free-e-cards-online.com/Privacy2.html)**
