@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the globekey.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621223211id_/http%3A//globekey.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globekey.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202145502id_/http%3A//www.globekey.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Online reservations software for hotel websites - Globekey.
 
-[](http://www.globekey.com/reserve.php?hid=LON180&id=gkdemo)
-
-| 
-
-## **Privacy Statement**
+[](http://www.globekey.com/reserve.php?hid=LON180&id=gkdemo) | 
 
 This privacy statement is applicable to Globekey Guest Reservations. 
 
