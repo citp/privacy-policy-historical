@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604014725id_/http%3A//www1.theatlantic.com/privprint.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202020039id_/http%3A//www.theatlantic.com/privprint.htm) for the most accurate reproduction.*
 
 # The Atlantic Online | Privacy Policy
 
+  
+[](http://www.cafepress.com/theatlantic/)  
   
   
 |  Privacy Policy   
@@ -9,8 +11,6 @@
 For Web site Visitors
 
 Occasionally, visitors to our Web site may be asked to voluntarily supply certain personally identifying information. If you choose to give us your name, E-mail address, postal address, phone number, organization, or any other identifying information, unless such information is provided in the course of subscribing to _Atlantic Monthly_ magazine, it will be used only to provide you with products or services you have requested or additional information about _Atlantic Unbound_ or its affiliates. If you provide identifying information to subscribe to our magazine, please read the policy pertaining to "Magazine Subscribers" below. We will not sell or rent any personally identifying information obtained through this Web site (other than in connection with magazine subscriptions ordered, as explained below) to any other organization, and will never willfully disclose any personally identifying information about our audience to any third party without first receiving the user's permission. We do not collect personally identifying information from our visitors, other than what is supplied to us on a voluntary basis. 
-
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 For _Atlantic Monthly_ Print Subscribers
 
@@ -28,3 +28,5 @@ Copyright © 2001 by [The Atlantic Monthly Group](https://web.archive.org/about/
 
 
 * * *
+
+| 
