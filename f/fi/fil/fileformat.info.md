@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileformat.info privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610191303id_/http%3A//www.fileformat.info/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileformat.info privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207030340id_/http%3A//www.fileformat.info/about/privacy.htm) for the most accurate reproduction.*
 
 # FileFormat.Info Privacy Policy
 
@@ -29,6 +29,18 @@ During the course of your visit to FileFormat.Info, you may provide additional i
 
 
 All this information is recorded and tracked.
+
+## Information Sharing
+
+The following information is available to the public:
+
+  * [Searches](https://web.archive.org/search/recent.htm)
+  * [Browsers](https://web.archive.org/about/browser.htm)
+  * [Referrers](https://web.archive.org/about/trackback.htm)
+
+
+
+All other information is for internal use only. It is not shared with any third parties.
 
 * * *
 
