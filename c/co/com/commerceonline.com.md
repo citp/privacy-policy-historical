@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2001-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011004214916id_/http%3A//commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603154345id_/http%3A//commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
 
 # Banking-Commerce-Privacy Policy
 
@@ -90,3 +90,20 @@ Commerce offers a wide array of financial products and services designed to meet
 Please note that, even if you call us to instruct us not to share information about you and your account, information such as credit line and account balance may still by law be provided to our affiliates, to credit bureaus and to third parties with whom we contract to maintain, analyze or service your account(s) at Commerce. 
 
 If there are multiple owners on an account, product or policy, any one of them may request on behalf of any or all of the fellow owners that their information is not to be shared or their names removed from our mailing lists. 
+
+* * *
+
+* * *
+
+[Home](http://www.commerceonline.com/) | [MyCommerceOnline](http://my.commerceonline.com/) | [Customer Service](http://bank.commerceonline.com/information/customer_service/index.cfm)  
+[Banking](http://bank.commerceonline.com/) | [Investments](http://invest.commerceonline.com/) | [Insurance](http://insure.commerceonline.com/) | [Site Map](http://www.commerceonline.com/general_site_map/index.cfm) | [Calculators](http://www.commerceonline.com/financial_calculators.cfm)  
+[Investor Relations](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=cbh&script=2100) | [Inside Commerce](http://www.commerceonline.com/inside_commerce/index.cfm) | [Commerce Presents](http://www.commerceonline.com/commerce_presents/index.cfm) | [E-mail Us](https://secure.commerceonline.com/forms/bank/general_cb.cfm)  
+
+
+* * *
+
+1-888-751-9000 
+
+Clicking on any of these links will take you out of the Commerce Bancorp website: Quicken TurboTax, TimeValue Software, any calculator link, most Commerce In The News article links, Check Card Visa Savings/Rewards, Small Group Life Insurance, InvestView Logon, Trading Logon and Investor Relations. Commerce does not control the content on the sites listed. Commerce is not responsible for, nor do we endorse, any content or material on this list of sites.
+
+###### Copyright © 2001, 2002 Commerce Bank
