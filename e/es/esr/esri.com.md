@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023605id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031920id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
 
 # ESRI Web Site Privacy Policy
 
@@ -20,7 +20,7 @@ ESRI also collects personally identifiable information you provide when you orde
 
 ### Choice
 
-ESRI will contact you or send you marketing information about software or services unless you notify ESRI that you do not wish to receive it. You may notify us by sending an e-mail to [info@esri.com](https://web.archive.org/web/20020604023605id_/http%3A//www.esri.com/company/moreinfo.html) as indicated below. Keep in mind, however, that you may not receive information on the ESRI User Conference or other valuable information as a result of your election to be removed from mailing lists.
+ESRI will contact you or send you marketing information about software or services unless you notify ESRI that you do not wish to receive it. You may notify us by sending an e-mail to [info@esri.com](https://web.archive.org/web/20021203031920id_/http%3A//www.esri.com/company/moreinfo.html) as indicated below. Keep in mind, however, that you may not receive information on the ESRI User Conference or other valuable information as a result of your election to be removed from mailing lists.
 
 Other than as described in this Privacy Statement, ESRI will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary (1) to conform to the edicts of the law, (2) to protect and defend the rights or property of ESRI, (3) or as part of a transfer of assets to a successor in interest.
 
@@ -28,7 +28,7 @@ Except as stated herein, ESRI's corporate policy is not to rent, sell, or otherw
 
 ### Access
 
-ESRI will permit you to access information about you in our database by contacting [info@esri.com](https://web.archive.org/web/20020604023605id_/http%3A//www.esri.com/company/moreinfo.html). If you believe any of the information is incorrect or needs updating, please advise us. We will correct our records upon verification of the requested change. If you no longer wish to receive e-mail or postal notifications about software, services, or special promotions, please let us know by sending an e-mail to us at [info@esri.com](https://web.archive.org/web/20020604023605id_/http%3A//www.esri.com/company/moreinfo.html) and specifying that you do not want to receive these notifications. Please provide us with your exact name and address as well as a description of the publication or mail piece you received. We will use reasonable efforts to refrain from including you when sending marketing materials to ESRI clients by noting your election in our database.
+ESRI will permit you to access information about you in our database by contacting [info@esri.com](https://web.archive.org/web/20021203031920id_/http%3A//www.esri.com/company/moreinfo.html). If you believe any of the information is incorrect or needs updating, please advise us. We will correct our records upon verification of the requested change. If you no longer wish to receive e-mail or postal notifications about software, services, or special promotions, please let us know by sending an e-mail to us at [info@esri.com](https://web.archive.org/web/20021203031920id_/http%3A//www.esri.com/company/moreinfo.html) and specifying that you do not want to receive these notifications. Please provide us with your exact name and address as well as a description of the publication or mail piece you received. We will use reasonable efforts to refrain from including you when sending marketing materials to ESRI clients by noting your election in our database.
 
 ### Security
 
@@ -36,4 +36,4 @@ ESRI will take reasonable and prudent precautions to ensure that your personally
 
 ### Enforcement
 
-If you believe for any reason that ESRI has not followed these principles, please contact us at [info@esri.com](https://web.archive.org/web/20020604023605id_/http%3A//www.esri.com/company/moreinfo.html), and ESRI will act promptly to investigate, correct as appropriate, and advise you of the correction. Please identify the issue as a Privacy Policy concern in your communication to ESRI.
+If you believe for any reason that ESRI has not followed these principles, please contact us at [info@esri.com](https://web.archive.org/web/20021203031920id_/http%3A//www.esri.com/company/moreinfo.html), and ESRI will act promptly to investigate, correct as appropriate, and advise you of the correction. Please identify the issue as a Privacy Policy concern in your communication to ESRI.
