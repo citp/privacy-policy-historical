@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610131353id_/http%3A//www.melbourne.vic.gov.au/index.cfm%3Fcategoryid%3D4%26contentfile%3Dinfopage.cfm%26topicID%3D62%26infopageid%3D404) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2004-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040701200920id_/http%3A//www.melbourne.vic.gov.au/index.cfm%3Fcategoryid%3D4%26contentfile%3Dinfopage.cfm%26topicID%3D62%26infopageid%3D404) for the most accurate reproduction.*
 
 # City of Melbourne
 
