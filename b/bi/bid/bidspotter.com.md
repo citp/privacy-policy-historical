@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the bidspotter.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/html/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidspotter.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211110835id_/http%3A//www.bidspotter.com/html/privacy.php3) for the most accurate reproduction.*
 
 # BidSpotter, Inc Privacy Policy
 
-[**HOME**](http://www.bidspotter.com/)| [ **Register to bid**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/auctions/regselection.php3)| [ **How to bid**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/html/how.php3)| [ **Contact support**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/html/help.php3)| [ **Feedback**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/messageboard/index.php)| [ **News**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/html/news.php3)  
----|---|---|---|---|---  
-| [ **What we do**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/html/what.php3)| [ **Who we are**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/html/who.php3)| [ **Privacy Policy**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/html/privacy.php3)| [ **Past events**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/auctions/past.php3)| [ **Employment**](https://web.archive.org/web/20020603174006id_/http%3A//bidspotter.com/html/employment.php3)  
 **BidSpotter, Inc. Privacy Policy**
 
 **Introduction**   
