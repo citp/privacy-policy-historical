@@ -1,243 +1,284 @@
-<!--The following is the downloaded HTML source of the webmarketingtoday.com privacy policy that was archived on 2001-02-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010204050700id_/http%3A//www.wilsoninternet.com/clients/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webmarketingtoday.com privacy policy that was archived on 2002-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021210021552id_/http%3A//www.wilsonweb.com/clients/privacy-policy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy -- Wilson Internet Services</title>
 <!--BEGIN mtkg-head.ssi-->
 <link rel="STYLESHEET" type="text/css" href="http://www.wilsonweb.com/css/wct.css">
-<meta http-equiv="PICS-Label" content="(PICS-1.0 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; by &quot;rfwilson@wilsonweb.com&quot; for &quot;http://www.wilsonweb.com&quot; on &quot;1997.04.22T00:04-0500&quot; r (n 0 s 0 v 0 l 0))">
-<meta name="DESCRIPTION" content="The largest collection of Web marketing and e-commerce articles, links and resources to be found at any single place on the planet.">
-<meta name="KEYWORDS" content="e-commerce, ecommerce, shopping cart, E-Commerce, Web marketing, sales, market research, search engines, banner ads, advertising, website, retail, online, B2B, BTOB, small business, corporate, corporation">
+<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://wilsonweb.com&quot; r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://wilsonweb.com&quot; r (n 0 s 0 v 0 l 0))"> 
 <script language="JavaScript">
 <!-- Begin
-
 function select_url(x)
                 {
         location = x;
         }
 
 
-var expDays = 30; // number of days the cookie should last
+function openWindow(url, w, h) {
+        var options = "width=" + w + ",height=" + h + ",";
+        options += "resizable=yes,scrollbars=yes,status=yes,";
+        options += "menubar=no,toolbar=no,location=no,directories=no";
+        var newWin = window.open(url, 'newWin', options);
+        newWin.focus();
+      }
 
-var page = "http://www.wilsonweb.com/admin/subscribe-popup.htm";
-var windowprops = "width=300,height=400,location=no,toolbar=no,menubar=no,scrollbars=no,resizable=yes";
+function CookieAndPopUp () {
+
+	// user defined variables
+	var page = "http://www.wilsonweb.com/admin/subscribe-popup.htm";
+	var windowprops = "width=550,height=350,location=no,toolbar=no,menubar=no,scrollbars=yes,resizable=yes";
+	var expDays = 30; // number of days the cookie should last
+	var domain = ".wilsonweb.com"; //By setting the Domain property of the cookie to the domain of the sub domain you instruct the browser to send the cookie to all sub domains. Notice the period before the domain name, this is very important. RFC 2109 specifies that the Domain setting on cookies must have two periods.
+
+	// system variables
+	var exp = new Date(); 
+	exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+
+	// test cookies for this browser by writing and reading back
+	SetCookie('wilsonwebtest', 1, exp, null, domain);
+	var test_cookie = GetCookie('wilsonwebtest');
+	if(test_cookie==1) { 
+		// does a cookie for this site exist?
+		var count = GetCookie('count');
+		if(count == null) {
+			// NO: set the count equal to 1, set the cookie, and open the pop-up
+			count=1;
+			SetCookie('count', count, exp, '/', domain);
+			window.open(page, "", windowprops);
+			return;
+		}
+		else {
+			// YES:  increment the count, set the cookie
+			count++;
+			SetCookie('count', count, exp, '/', '.wilsonweb.com');
+			return;
+		}
+	}
+}
 
 function GetCookie (name) {  
-var arg = name + "=";  
-var alen = arg.length;  
-var clen = document.cookie.length;  
-var i = 0;  
-while (i < clen) {    
-var j = i + alen;    
-if (document.cookie.substring(i, j) == arg)      
-return getCookieVal (j);    
-i = document.cookie.indexOf(" ", i) + 1;    
-if (i == 0) break;   
-}  
-return null;
+	var arg = name + "=";  
+	var alen = arg.length;  
+	var clen = document.cookie.length;  
+	var i = 0;  
+	while (i < clen) {    
+		var j = i + alen;    
+		if (document.cookie.substring(i, j) == arg)      
+		return getCookieVal (j);    
+		i = document.cookie.indexOf(" ", i) + 1;    
+		if (i == 0) break;   
+	} 
+	return null;
 }
+
 function SetCookie (name, value) {  
-var argv = SetCookie.arguments;  
-var argc = SetCookie.arguments.length;  
-var expires = (argc > 2) ? argv[2] : null;  
-var path = (argc > 3) ? argv[3] : null;  
-var domain = (argc > 4) ? argv[4] : null;  
-var secure = (argc > 5) ? argv[5] : false;  
-document.cookie = name + "=" + escape (value) + 
-((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
-((path == null) ? "" : ("; path=" + path)) +  
-((domain == null) ? "" : ("; domain=" + domain)) +    
-((secure == true) ? "; secure" : "");
+	var argv = SetCookie.arguments;  
+	var argc = SetCookie.arguments.length;  
+	var expires = (argc > 2) ? argv[2] : null;  
+	var path = (argc > 3) ? argv[3] : null;  
+	var domain = (argc > 4) ? argv[4] : null;  
+	var secure = (argc > 5) ? argv[5] : false;  
+	document.cookie = name + "=" + escape (value) + 
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+	((path == null) ? "" : ("; path=" + path)) +  
+	((domain == null) ? "" : ("; domain=" + domain)) +    
+	((secure == true) ? "; secure" : "");
 }
-function DeleteCookie (name) {  
-var exp = new Date();  
-exp.setTime (exp.getTime() - 1);  
-var cval = GetCookie (name);  
-document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
-}
-var exp = new Date(); 
-exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
-function amt(){
-var count = GetCookie('count')
-if(count == null) {
-SetCookie('count','1')
-return 1
-}
-else {
-var newcount = parseInt(count) + 1;
-DeleteCookie('count')
-SetCookie('count',newcount,exp)
-return count
-   }
-}
+
 function getCookieVal(offset) {
-var endstr = document.cookie.indexOf (";", offset);
-if (endstr == -1)
-endstr = document.cookie.length;
-return unescape(document.cookie.substring(offset, endstr));
-}
-
-function checkCount() {
-var count = GetCookie('count');
-if (count == null) {
-count=1;
-SetCookie('count', count, exp);
-
-window.open(page, "", windowprops);
-
-}
-else {
-count++;
-SetCookie('count', count, exp);
-   }
+	var endstr = document.cookie.indexOf (";", offset);
+	if (endstr == -1)
+	endstr = document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
 }
 //  End -->
 </script>
 
 </head>
+<body onload="setTimeout('CookieAndPopUp()', 5000);" bgcolor="#FFFFFF">
 
-<body onload="setTimeout('checkCount()', 5000);" bgcolor="#FFFFFF">
+
 <!--OPEN OUTER TABLE-->
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td valign="TOP">
-<!--OPEN Advertising Table-->
-<table width="596" border="0">
-	<tbody><tr>
-		<td>
+
+
+<!--OPEN AD TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="600&quot;">
+<tbody><tr><td><script language="JavaScript" src="http://wilsonweb.com/cgi-bin/adjuggler.cgi?jsbanner=/mk"></script></td><td>
+<a class="sidelink" href="http://www.wilsonweb.com/affiliate/"><img src="http://www.wilsonweb.com/affiliate/banner/wis-affiliate120x60.gif" width="120" height="60" border="0" alt="Wilson Internet Affiliates earn 20% commissions"></a>
+</td></tr></tbody></table>
+<!--CLOSE AD TABLE-->
 <!--END mtkg-head.ssi-->
-<a href="http://www.wilsonweb.com/cgi-bin/rfwilson/redirect.cgi/e03d26d0?REGION=Web_Marketing1&amp;CAMPAIGN=wv-xmas&amp;ACCOUNT=World_Vision_Sponsor&amp;BANNER=wv-india3" target="NewWindow"><img src="http://www.wilsonweb.com/cgi-bin/rfwilson/getimage.cgi/e03d26d0?REGION=Web_Marketing1&amp;CAMPAIGN=wv-xmas&amp;ACCOUNT=World_Vision_Sponsor&amp;BANNER=wv-india3" border="0" alt="Help India earthquake victims now!" height="60" width="460"></a>
+
 <!--BEGIN wisbus-top1.ssi-->
-</td>
-		<td><a href="http://wilsonweb.com/cgi-bin/rfwilson/redirect.cgi?ACCOUNT=wis&amp;BANNER=ecomm-need-120x60"><img src="http://www.wilsonweb.com/ads-creatives/ecomm-need.gif" width="120" height="60" border="0" alt="What's your greatest e-commerce need? Click here!"></a></td>
-	</tr>
-</tbody></table>
 
 <table width="596" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr height="39">
 		<td valign="BOTTOM"><a href="http://www.wilsonweb.com/">
-<img src="http://www.wilsonweb.com/syspic/tab-1wilsoninet.gif" width="136" height="39" border="0" alt="Wilson Internet - Home"></a></td>
-		<td valign="BOTTOM"><a href="http://www.wilsonweb.com/marketing/"><img src="http://www.wilsonweb.com/syspic/tabu-1webmarketing.gif" width="115" height="39" border="0" alt="Web Marketing"></a></td>
-		<td valign="BOTTOM"><a href="http://www.wilsonweb.com/commerce/"><img src="http://www.wilsonweb.com/syspic/tabu-1ecommerce.gif" width="115" height="39" border="0" alt="E-Commerce"></a></td>
-		<td valign="BOTTOM"><a href="http://www.doctorebiz.com/"><img src="http://www.wilsonweb.com/syspic/tabu-1doctorebiz.gif" width="115" height="39" border="0" alt="Doctor Ebiz"></a></td>
-		<td valign="BOTTOM"><a href="http://www.wilsonweb.com/cgi-bin/imagemap/syspic/tab-1services.map"><img src="http://www.wilsonweb.com/syspic/tab-1services.gif" width="115" height="39" border="0" alt="Services" ismap=""></a></td>
+<img src="http://www.wilsonweb.com/syspic/tab106_wis.gif" width="106" height="39" border="0" alt="Wilson Internet Services"></a></td>
+		<td valign="BOTTOM"><a href="http://www.wilsonweb.com/marketing/"><img src="http://www.wilsonweb.com/syspic/tab97u_webmarketing.gif" width="97" height="39" border="0" alt="Web Marketing"></a></td>
+		<td valign="BOTTOM"><a href="http://www.wilsonweb.com/commerce/"><img src="http://www.wilsonweb.com/syspic/tab97u_ecommerce.gif" width="97" height="39" border="0" alt="E-Commerce"></a></td>
+		<td valign="BOTTOM"><a href="http://www.doctorebiz.com/"><img src="http://www.wilsonweb.com/syspic/tab97u_doctorebiz.gif" width="97" height="39" border="0" alt="Doctor Ebiz"></a></td>
+		<td valign="BOTTOM"><a href="http://www.netassisted.com/"><img src="http://www.wilsonweb.com/syspic/tab97u_netassisted.gif" width="97" height="39" border="0" alt="NewAssisted Biz"></a></td>
+		<td valign="BOTTOM"><a href="http://www.wilsonweb.com/syspic/tab97_services.map"><img src="http://www.wilsonweb.com/syspic/tab97s_services.gif" width="97" height="39" border="0" alt="Services" ismap=""></a></td>
 	</tr>
 
+	<tr>
+		<td colspan="6" valign="MIDDLE" class="nav_pipe" width="596" height="16" bgcolor="#009999">
+<center><a class="navbar" href="http://www.wilsonweb.com/">Home</a> | <a class="navbar" href="http://www.wilsonweb.com/consult/">Consulting</a> | <a class="navbar" href="http://www.wilsonweb.com/speaker/">Speaking</a> | <a class="navbar" href="http://www.wilsonweb.com/ebooks/">E-Books</a> | <a class="navbar" href="http://www.wilsonweb.com/awards/">Awards</a> | <a class="navbar" href="http://www.wilsonweb.com/press/">Press</a> | <a class="navbar" href="http://www.wilsonweb.com/ads">Advertise</a> | <a class="navbar" href="http://www.wilsonweb.com/contact/">Contact</a></center>
+</td>
+	</tr>
 
 	<tr>
-		<td colspan="5"><a href="http://www.wilsonweb.com/cgi-bin/imagemap/syspic/bar-services.map"><img src="http://www.wilsonweb.com/syspic/bar-services.gif" width="596" height="23" border="0" alt="Services Sections" ismap=""></a></td>
-	</tr>
-	<tr>
-		<td colspan="5"><a href="http://www.wilsonweb.com/services/">
+		<td colspan="6"><a href="http://www.wilsonweb.com/services/">
 <img src="http://www.wilsonweb.com/syspic/ban-stores&amp;sites.gif" width="596" height="53" border="0" alt="Online Stores and Websites">
 </a></td>
 	</tr>
 </tbody></table>
 <!--END wisbus-top1.ssi-->
+
 <!--BEGIN menu.ssi-->
 <table width="596" cellpadding="10" cellspacing="0" border="0">
 	<tbody><tr>
 		<td width="125" valign="TOP" bgcolor="#FFFFCC">
 <!--Articles Database Search-->
-<form name="p_search" method="GET" action="/cgi-bin/search.cgi">
-      <input type="hidden" name="pg" value="q">
-<input type="hidden" name="st" value="dt" checked="">
-<font face="Arial,Helvetica" color="#003399" size="-2">Search Articles<br>
-<input type="TEXT" name="qry" size="8" maxlength="800" value=""><input type="image" src="http://www.wilsonweb.com/syspic/go.gif" name="submit" value="submit" alt="Search" border="0" align="BOTTOM"><br>
-<a href="http://www.wilsonweb.com/cgi-bin/au/search/index.html">Paid Database Search</a><br>
-<a href="http://www.wilsonweb.com/search/">Search This Site</a>
+<form action="http://www.wilsonweb.com/search/search_results.cfm" method="get">
+<input type="hidden" name="page" value="1">
+<input type="hidden" name="criteria_required" value="You must enter something to search for.">
+<input type="hidden" name="querytype" value="simple">
+<font face="Arial,Helvetica" color="#003399" size="-2">Search 9000+ Article Database<br>
+
+<input name="criteria" size="8" maxlength="800" value=""><input type="image" src="http://www.wilsonweb.com/syspic/go.gif" name="submit" value="submit" alt="Search" border="0" align="BOTTOM"><br>
+<font face="Arial,Helvetica" color="#003399" size="-1"><a href="http://www.wilsonweb.com/auth/login.cfm"><b>Member Login</b></a><br>
+<a href="http://www.wilsonweb.com/cat/"><b>Categories</b></a></font><br>
+<font face="Arial,Helvetica" color="#003399" size="-2">
+<a href="http://www.wilsonweb.com/search/">Search Wilson's Articles</a>
+
 </font>
-</form><form method="POST" action="http://www.wilsonweb.com/cgi-bin/more_info.cgi">
+
+
+<a href="http://wilsonweb.com/wct/"><img src="http://www.wilsonweb.com/syspic/wct-100x100.gif" width="100" height="100" border="0" alt="Boost your sales with Web Commerce Today"></a>
+
+
+
+<form action="http://www.email-publisher.com/survey/" method="POST" target="NewWindow">
 <a class="sectionlink" href="http://www.wilsonweb.com/"><font face="Arial,Helvetica,Swiss" size="2"><b>Home</b></font></a>
 <hr>
-<a class="sectionlink" href="http://www.wilsonweb.com/commerce/"><font face="Arial,Helvetica,Swiss" size="2"><b>E-Commerce</b></font></a><br>
+<a class="sectionlink" href="http://www.wilsonweb.com/commerce/">E-Commerce</a><br>
 <font face="Arial,Helvetica,Swiss" size="2">
-<a class="sidelink" href="http://www.wilsonweb.com/research/"><b>Research Room</b></a><br>
-<a class="sidelink" href="http://www.wilsonweb.com/wct/"><b>Web Commerce<br>Today®</b></a><br>
+<a class="sidelinkB" href="http://www.wilsonweb.com/research/">Research Room</a><br>
+<b>·</b><a class="sidelink" href="http://www.wilsonweb.com/cat/cats.cfm">Basic Search</a><br>
+<b>·</b><a class="sidelink" href="http://www.wilsonweb.com/search/adv_search.cfm">Advanced Srch</a><br>
+<b>·</b><a class="sidelink" href="http://www.wilsonweb.com/search/auth/login.cfm">Login</a><br>
+<b>·</b><a class="sidelink" href="http://www.wilsonweb.com/search/auth/logout.cfm">Logout</a><br>
+<a class="sidelinkB" href="http://www.wilsonweb.com/wct/">Web Commerce<br>Today®</a><br>
 <b>·</b><a class="sidelink" href="http://www.wilsonweb.com/wct/current.htm">Current issue</a><br>
-<b>·</b><a class="sidelink" href="http://www.wilsonweb.com/wct1/">Back issues</a><br>
+<b>·</b><a class="sidelink" href="http://www.wilsonweb.com/wct1/">Library</a><br>
 <b>·</b><a class="sidelink" href="http://www.wilsonweb.com/wct/">Subscribe now</a><br>
+·<a class="sidelink" href="http://www.wilsonweb.com/sub/update.cfm">Address Change</a><br>
 <b>·</b><a class="sidelink" href="http://www.wilsonweb.com/affiliate/">Affiliate Program</a>
 <a class="sidelink" href="http://www.wilsonweb.com/articles/commerce-articles.htm"><b>Articles</b></a><br>
-<a class="sidelink" href="http://www.wilsonweb.com/cgi-bin/ubb/Ultimate.cgi"><b>Forum</b></a>
+<a class="sidelink" href="http://www.wilsonweb.com/forum/"><b>Forum</b></a><br>
 </font>
-<hr>
-<a class="sectionlink" href="http://www.wilsonweb.com/marketing/"><font face="Arial,Helvetica,Swiss" size="2"><b>Web Marketing</b></font></a><br>
-<font face="Arial,Helvetica,Swiss" size="2">
-<a class="sidelink" href="http://www.wilsonweb.com/webmarket/"><b>Info Center</b></a><br>
-<a class="sidelink" href="http://www.wilsonweb.com/wmt/"><b>Web Marketing<br>Today®</b></a><br>
-<b>·</b><a class="sidelink" href="http://www.wilsonweb.com/wmt/current.htm">Current Issue</a><br>
-<b>·</b><a class="sidelink" href="http://www.wilsonweb.com/wmt/">Back Issues</a><br>
-<font face="Arial,Helvetica,Swiss" size="2" color="#006666">Subscribe Free</font><br>
 
-<font face="Arial,Helvetica,Swiss" size="2">
+
+<hr>
+<a class="sectionlink" href="http://www.wilsonweb.com/marketing/">Web Marketing</a><br>
+<a class="sidelinkB" href="http://www.wilsonweb.com/webmarket/">Info Center</a><br>
+<a class="sidelinkB" href="http://www.wilsonweb.com/wmt/">Web Marketing<br>Today®</a><br>
+·<a class="sidelink" href="http://www.wilsonweb.com/wmt/current.htm">Current issue</a><br>
+·<a class="sidelink" href="http://www.wilsonweb.com/wmt/">Library</a><br>
+·<a class="sidelink" href="http://www.wilsonweb.com/contact/change.cfm">Address Change</a><br>
+<font face="Verdana,Arial,Helvetica,Swiss" size="2" color="#006666">Subscribe Free</font><br>
+
+<input type="hidden" name="lists" value="wilsonweb@topica.email-publisher.com">
+<input type="hidden" name="type" value="HTML">
+<font face="Verdana,Arial,Helvetica,Swiss" size="2">
 <input name="email" size="8" value="email address"><input type="image" src="http://www.wilsonweb.com/syspic/go.gif" name="submit" value="submit" alt="Subscribe" border="0" align="BOTTOM"><br>
 
-<a class="sidelink" href="http://www.wilsonweb.com/articles/"><b>Articles</b></a><br>
-<a class="sidelink" href="http://www.wilsoninternet.com/ebooks/"><b>E-Books</b></a><br>
-<a class="sidelink" href="http://www.wilsonweb.com/cgi-bin/ubb/Ultimate.cgi"><b>Forum</b></a>
+<a class="sidelinkB" href="http://www.wilsonweb.com/articles/">Articles</a><br>
+<a class="sidelinkB" href="http://www.wilsonweb.com/ebooks/">E-Books</a><br>
+<a class="sidelink" href="http://www.wilsonweb.com/forum/"><b>Forum</b></a><br>
 </font>
 
 <hr>
 
-<a class="sectionlink" href="http://www.doctorebiz.com/"><font face="Arial,Helvetica,Swiss" size="2"><b>Doctor Ebiz</b></font><font face="ARIAL" size="1"><sup>TM</sup></font></a><br>
+<a class="sectionlink" href="http://www.doctorebiz.com/">Doctor Ebiz®</a><br>
 
 <font face="Arial,Helvetica,Swiss" size="2">
 <b>·</b><a class="sidelink" href="http://www.doctorebiz.com/current/current.htm">Current issue</a><br>
-<b>·</b><a class="sidelink" href="http://www.doctorebiz.com/backissues/backissues.htm">Back issues</a><br>
+<b>·</b><a class="sidelink" href="http://www.doctorebiz.com/backissues/backissues.htm">Library</a><br>
 <b>·</b><a class="sidelink" href="http://www.doctorebiz.com/">Subscribe now</a><br>
-<b>·</b><a class="sidelink" href="http://www.doctorebiz.com/syndicate/">FREE Syndication</a><br>
+·<a class="sidelink" href="http://www.wilsonweb.com/contact/change.cfm">Address Change</a><br>
+<b>·</b><a class="sidelink" href="http://www.wilsonweb.com/syndicate/">Syndication</a><br>
+&nbsp;&nbsp;<a class="sidelink" href="http://www.doctorebiz.com/newspaper/">Newspaper<br>
+&nbsp;&nbsp;Column</a><br>
+&nbsp;&nbsp;<a class="sidelink" href="http://www.wilsonweb.com/syndicate/">Website</a>
 </font>
+
 <hr>
 
-<a class="sectionlink" href="http://www.wilsoninternet.com/services/"><font face="Arial,Helvetica,Swiss" size="2"><b>Services</b></font></a><br>
+
+<a class="sectionlink" href="http://www.netassisted.com/">NetAssisted<font size="1"><sup>TM</sup></font></a><br>
+
 <font face="Arial,Helvetica,Swiss" size="2">
-<a class="sidelink" href="http://www.wilsoninternet.com/consult/"><b>Consulting</b></a><br>
-<a class="sidelink" href="http://www.wilsoninternet.com/speaker/"><b>Speaking</b></a><br>
+<a class="sidelink" href="http://www.netassisted.com/">Combining traditional local advertising with Internet strategies</a><br>
+<b>·</b><a class="sidelink" href="http://www.netassisted.com/">NetAssisted Biz</a><br>
+<b>·</b><a class="sidelink" href="http://www.netassistedchurch.com/">NetAssisted Church</a><br>
+</font>
+
 <hr>
-<a class="sectionlink" href="http://www.wilsoninternet.com/ads/"><font face="Arial,Helvetica,Swiss" size="2"><b>Advertise</b></font></a><font face="Arial,Helvetica,Swiss" size="2">
+
+
+<a class="sectionlink" href="http://www.wilsonweb.com/career/"><font face="Arial,Helvetica,Swiss" size="2"><b>Career Center</b></font></a><br>
+<font face="Arial,Helvetica,Swiss" size="2">
+<a class="sidelink" href="http://www.jobtarget.com/candidates/jobs/jobs.cfm?site_id=41"><b>Job Seekers</b></a><br>
+
+<a class="sidelink" href="http://www.jobtarget.com/candidates/jobs/jobs.cfm?site_id=41">Featured Jobs</a><br>
+<a class="sidelink" href="http://www.jobtarget.com/candidates/mycareer/mycareer.cfm?site_id=41">My Career</a><br>
+<a class="sidelink" href="http://www.jobtarget.com/candidates/signup/signup.cfm?site_id=41">Sign Up</a><br>
+<a class="sidelink" href="http://www.jobtarget.com/candidates/profile/create/hhindex.cfm?site_id=41">Create Profile</a>
+
+
+<p>
+<a class="sidelink" href="http://www.jobtarget.com/recruiters/candidates/search/browse.cfm?site_id=41"><b>Employers</b></a><br>
+<a class="sidelink" href="http://www.jobtarget.com/recruiters/candidates/search/browse.cfm?site_id=41">Profile Bank</a><br>
+<a class="sidelink" href="http://www.jobtarget.com/recruiters/myrecruiting/myrecruiting.cfm?site_id=41">My Recruiting</a><br>
+<a class="sidelink" href="http://www.jobtarget.com/recruiters/signup/signup.cfm?site_id=41">Recruiter SignUp</a><br>
+<a class="sidelink" href="http://www.jobtarget.com/recruiters/postjob/jobpostus.cfm?site_id=41">Post a Job</a><br>
+
+
+
+</p><hr>
+
+<a class="sectionlink" href="http://www.wilsonweb.com/services/"><font face="Arial,Helvetica,Swiss" size="2"><b>Services</b></font></a><br>
+<font face="Arial,Helvetica,Swiss" size="2">
+<a class="sidelink" href="http://www.wilsonweb.com/consult/"><b>Consulting</b></a><br>
+<a class="sidelink" href="http://www.wilsonweb.com/speaker/"><b>Speaking</b></a><br>
+<a class="sidelink" href="http://www.wilsonweb.com/syndicate/"><b>Content Syndication</b></a><br>
 <hr>
-<a class="sectionlink" href="http://www.wilsoninternet.com/gestbook/"><b>Contact Us</b></a>
+<a class="sectionlink" href="http://www.wilsonweb.com/ads/"><font face="Arial,Helvetica,Swiss" size="2"><b>Advertise</b></font></a><font face="Arial,Helvetica,Swiss" size="2">
+<hr>
+<a class="sectionlink" href="http://www.wilsonweb.com/contact/"><b>Contact Us</b></a>
 </font>
 <hr>
 <font face="Arial,Helvetica,Swiss" size="2" color="#0066CC"><b>Other</b></font><br>
 <font face="Arial,Helvetica,Swiss" size="2">
-<a class="sidelink" href="http://www.wilsoninternet.com/awards/"><b>Awards &amp; Kudos</b></a><br>
-<a class="sidelink" href="http://www.wilsoninternet.com/press/"><b>Press</b></a><br>
-<a class="sidelink" href="http://www.wilsoninternet.com/admin/"><b>Site Map</b></a><br>
-<a class="sidelink" href="http://www.wilsoninternet.com/clients/privacy-policy.htm"><b>Privacy Policy</b></a><br>
+<a class="sidelink" href="http://www.wilsonweb.com/awards/"><b>Awards &amp; Kudos</b></a><br>
+<a class="sidelink" href="http://www.wilsonweb.com/press/"><b>Press</b></a><br>
+<a class="sidelink" href="http://www.wilsonweb.com/admin/"><b>Site Map</b></a><br>
+<a class="sidelink" href="http://www.wilsonweb.com/clients/privacy-policy.htm"><b>Privacy Policy</b></a><br>
 <font face="Arial,Helvetica,Swiss" size="2" color="#006666"><b>Related Sites</b></font><br>
 <font face="Arial,Helvetica,Swiss" size="2">
-<b>·</b><a class="sidelink" href="http://www.doctorebiz.com/">Doctor Ebiz</a><br>
 <b>·</b><a class="sidelink" href="http://www.joyfulheart.com/">Joyful Heart</a><br>
 <b>·</b><a class="sidelink" href="http://www.jesuswalk.com/">JesusWalk</a>
 </font>
 
-
-<!--NameBoy Begin-->
-<form method="get" action="http://www.commission-junction.com/track/track.dll">
-<table width="120" height="60" border="0" cellpadding="0" cellspacing="0" bgcolor="#ec870e">
-<tbody><tr><td><center>
-<a href="http://wilsonweb.com/adx/redirect.cgi?ACCOUNT=wis&amp;BANNER=NameBoy"><img src="http://www.wilsonweb.com/ads-creatives/nameboy120x60.gif" width="120" height="60" border="0" alt="Find a good domain name. Click here."></a><br>
-<input type="text" size="10" name="primary">
-<input type="image" value="Search" src="http://www.wilsonweb.com/ads-creatives/gonameboy2.gif" border="0" align="top"></center>
-</td></tr></tbody></table>
-<input type="hidden" name="email" value="">
-<input type="hidden" name="password" value="">
-<input type="hidden" name="page" value="1">
-<input type="hidden" name="resultsperpage" value="10">
-<input type="hidden" name="dosearch" value="yes">
-<input type="hidden" name="tld" value="com">
-<input type="hidden" name="domix" value="yes">
-<input type="hidden" name="dorhyme" value="yes">
-<input type="hidden" name="forsale" value="yes">
-<input type="hidden" name="convey" value="general">
-<input type="hidden" name="pid" value="67839">
-<input type="hidden" name="url" value="http://www.nameboy.com/banner_target.php3">
-<input type="hidden" name="aid" value="306783"></form>
-<!--NameBoy End-->
-</font></font></font></form></td><td valign="TOP">
+</font></font></font></form></font></form></td><td valign="TOP" class="bodytext">
 <!--END menu.ssi-->
+
 <center><h2>
 <!---- HEADLINE BELOW THIS LINE ---->
 Privacy Policy -- Wilson Internet Services
@@ -258,274 +299,223 @@ E-Mail Address <input name="email" size="20" value=""><input type="SUBMIT" value
 </p><p>
 <!---- END MIDDLE ---->
 <!-- ---------TEXT-X BELOW THIS LINE--------- -->
-
-We respect the privacy of our newsletter subscribers, those who answer our surveys, and those who fill out our questionnaires. It is our policy:
+<!--BEGIN privacy_policy.ssi-->
+We respect the privacy of our newsletter subscribers, customers, contacts, those who answer our surveys, and those who fill out our questionnaires. It is our policy:
 </p><ul>
-<li><b>Choice and consent.</b> To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request.
-</li><li><b>Third party use.</b> To not sell, rent, or loan our subscriber or customer lists to third parties for e-mail marketing. While we sell advertising in our e-mail publications to other companies, we do not allow third parties any other use of these subscriber lists.<br>
-<br>
+<li><b>1. Choice and consent.</b> To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request.
+</li><li><b>2. Third party use.</b> To not sell, rent, or loan our subscriber or customer lists to third parties for e-mail marketing. While we sell advertising in our e-mail publications to other companies, we never allow third parties any other use of these subscriber lists.<br>
+
 We have partnered with NetCreations to build targeted double-opt-in e-mail lists for third-party advertisements for those site visitors who specifically request it, and no others. In no case are these double opt-in e-mail addresses ever divulged to advertisers, but strictly and ethically e-mailed only by NetCreations, and their company PostMaster Direct. 
-</li><li><b>Unsubscriptions.</b> To send our periodicals only to those who request them, and immediately unsubscribe those who request it. Sometimes people subscribe for their friends, and while we cannot prevent that, our welcome message to subscribers -- and every issue of our free newsletter -- explain how to subscribe. We keep our subscription lists as clean as possible to prevent obsolete e-mails to take unnecessary bandwidth.
-</li><li><b>Cookies.</b> To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies to help rotate banner advertising, to identify shoppers with their shopping carts, to make it easy to order a second time, to allow subscribers to store passwords in cookies if they desire, and to greet our visitors by name when they return.  We do NOT collect or use this information from cookies to develop a profile about our shoppers.
-</li><li><b>Security.</b> To store subscriber and password files with personal information in a secure manner. We store such files in areas not accessible to Web browsers, or behind password protection, or off-line. 
+</li><li><b>3. Unsubscriptions.</b> To send our periodicals only to those who request them (that is, opt-in). We immediately unsubscribe those who request it through convenient unsubscribe links in every e-mailing. Our welcome message to subscribers and every issue of our newsletters clearly explain how to unsubscribe. We keep our subscription lists as clean as possible to prevent obsolete e-mail addresses to take unnecessary bandwidth.
+</li><li><b>4. Cookies.</b> To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies (1) to help rotate banner advertising, (2) to identify shoppers with their shopping carts, (3) to make it easy to order a second time, (4) to allow subscribers to store passwords in cookies if they desire, and (5) to give proper credit for sales made through links on our affiliates' sites. We do NOT collect or use information from cookies to develop a profile about our visitors or shoppers.
+</li><li><b>5. Security.</b> To store subscriber and password files with personal information in a secure manner. We store such files in areas not accessible to Web browsers, behind password protection, or off-line. 
+</li><li><b>6. Termination</b>. To continue this policy beyond the termination of our company. If a majority portion of the assets of our company were to be acquired by another organization, that might include our subscriber and other lists, but only as part of a clear agreement binding that organization to abide by the spirit and letter of our privacy policy.
 </li></ul>
+
+These policies apply to all websites owned by Wilson Internet Services and Joyful Heart Ministries, including wilsonweb.com, doctorebiz.com, netassisted.com, joyfulheart.com, and jesuswalk.com. If you have any concerns or questions about our privacy policy or information collected on our sites, please contact Dr. Ralph F. Wilson at <a href="mailto:rfwilson@wilsonweb.com?subject=Privacy_Policy">rfwilson@wilsonweb.com</a> and he will reply promptly.
+<!--BEGIN privacy_policy.ssi-->
+
 <font size="-1">For assistance in developing a privacy policy for your own site check out the <a href="http://www.the-dma.org/library/privacy/">Direct Marketing Association</a> site. </font> 
 
 <!-- ---------TEXT-X ABOVE THIS LINE--------- -->
-<!---- BEGIN WISBUS BOTTOM ---->
-<center><a href="http://wilsonweb.com/cgi-bin/birdcast.cgi"><img src="http://www.wilsoninternet.com/syspic/megaphone.gif" width="52" height="40" border="0" align="MIDDLE" alt="Tell your friends about this article!">
-Tell your friends about this page</a>!</center>
 <p>
-</p><hr>
+</p><center><font size="1">Trying to market a strictly local business? See <a href="http://www.netassisted.com/?wis_bot"><b>NetAssisted Biz</b></a>.</font></center>
+<!--START SPONSORED LINKS-->
 <p>
-</p><form method="POST" action="http://www.wilsonweb.com/cgi-bin/more_info.cgi">
-<font size="-1">Subscribe to our free monthly e-mail newsletter, <a href="http://www.wilsonweb.com/wmt/"><i><b>Web Marketing Today</b></i></a><sup>®</sup>, with more than 100,000 subscribers worldwide. Just put your full e-mail address in the box below and click on "Subscribe". <a href="http://www.wilsonweb.com/wmt/">Back issues</a> available online.  We respect the <a href="http://www.wilsonweb.com/clients/privacy-policy.htm">privacy</a> of our visitors.
-</font><br>
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#EEEEEE" width="468">
+<tbody><tr><td colspan="2" class="sphead">Sponsored Links</td><td class="spurl"><p align="RIGHT"><a href="http://www.wilsonweb.com/go/to.cgi?l=Splinks">Advertise Here</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td></tr>
+<tr><td colspan="3" height="4" nowrap="">
+<img src="http://www.wilsonweb.com/syspic/dotclear.gif" height="1" width="1" alt=""></td></tr><tr><td colspan="3" bgcolor="#000000">
+<img src="http://www.wilsonweb.com/syspic/dotclear.gif" width="1" height="1" alt=""></td></tr><tr><td colspan="3">
+<img src="http://www.wilsonweb.com/syspic/dotclear.gif" width="1" height="2" alt=""></td></tr>
+
+
+<tr><td align="right" width="15%" class="spdeck">Marketing</td>
+<td width="85%" class="spurl" colspan="2">&nbsp;<a href="http://www.wilsonweb.com/go/to.cgi?l=sunfinder">FREE - Build Your Mailing List w/ Vacation Sweepstakes</a></td></tr>
+
+<tr><td align="right" width="15%" class="spdeck">Positioning</td>
+<td width="85%" class="spurl" colspan="2">&nbsp;<a href="http://www.wilsonweb.com/go/to.cgi?l=sereport">Answers from search engine reps, The Essential Guide</a></td></tr>
+
+
+<tr><td align="RIGHT" class="spdeck">Great Copy</td>
+<td class="spurl" colspan="2">&nbsp;<a href="http://wilsonweb.com/go/to.cgi?l=wordbiz1">Download our FREE Guide to Killer Copywriting for the Web</a></td></tr>
+
+<tr><td align="right" width="15%" class="spdeck">Fulfillment</td>
+<td width="85%" class="spurl" colspan="2">&nbsp;<a href="http://wilsonweb.com/go/to.cgi?l=efulfillmentservice">FREE DEMO: OrderButton, HelpButton &amp; WarehouseButton</a></td></tr>
+
+
+<tr><td align="RIGHT" class="spdeck">Web Store</td>
+<td class="spurl" colspan="2">&nbsp;<a href="http://wilsonweb.com/a/go.to/splinks/http://wilsonweb.com/ebooks/sales-boost.htm ">12 ways to increase your online sales conversion rate</a></td></tr>
+
+
+<tr><td colspan="3">
+<img src="http://www.wilsonweb.com/syspic/dotclear.gif" width="1" height="2" alt=""></td></tr>
+<tr><td colspan="3" bgcolor="#000000">
+<img src="http://www.wilsonweb.com/syspic/dotclear.gif" width="1" height="1" alt=""></td></tr>
+<tr><td colspan="3">
+<img src="http://www.wilsonweb.com/syspic/dotclear.gif" width="1" height="2" alt=""></td></tr></tbody></table>
+<!--END SPONSORED LINKS-->
+<!-- BEGIN WMT Sign-up Form -->
+</p><form method="POST" action="http://www.wilsonweb.info/cgi-bin/arp3/arp3-formcapture.pl">
+Subscribe to our free e-mail newsletter -- <i><b>Web Marketing Today</b></i><sup>®</sup> (120,000+ subscribers worldwide). We respect your 
+<a onmouseover="status='Privacy'; return true" onmouseout="status=''; return true" onclick="openWindow('http://www.wilsonweb.com/admin/pu_privacy.htm', 450, 350); return false" href="http://www.wilsonweb.com/admin/pu_privacy.htm">privacy</a> and <i><b>never</b></i> sell or rent our subscriber lists.
+<input type="hidden" name="tracking_tag" value="WMTbot">
+<input type="hidden" name="capitals" value="1">
+<input type="hidden" name="id" value="10">
+<br clear="ALL">
 <center>
-E-Mail Address <input name="email" size="20" value=""><input type="SUBMIT" value="Subscribe!">
-</center>
-</form>
+<table border="0">
+<tbody><tr>
+<td align="right">First</td>
+<td><input type="TEXT" name="first_name" size="8" maxlength="20"> Last <input type="TEXT" name="last_name" size="10" maxlength="25"></td>
+</tr>
+<tr>
+<td align="right">E-mail</td>
+<td><input type="TEXT" name="email" size="35" maxlength="60"></td>
+</tr>
+<tr>
+<td align="right">Country</td>
+<td>
+<input type="TEXT" name="title" size="2" maxlength="2"> (2-digit abbreviation)
+</td></tr>
+<tr>	<td align="right">Preferred Format</td>
+<td><input type="radio" value="T" name="format">Plain text <input type="radio" name="format" value="H" checked="">HTML <input type="submit" value="Subscribe Me"></td>
+</tr></tbody></table>
 
-
-
+</center></form>
+<!-- END WMT Sign-up Form -->
 
 <p>
 </p><center>
-<a href="http://www.wilsonweb.com/cgi-bin/imagemap/syspic/bar-wis-bot.map"><img src="http://www.wilsonweb.com/syspic/bar-wis-bot.gif" width="450" height="23" border="0" alt="Navigation Bar" ismap=""></a><br><font size="-1">
-<a href="http://www.wilsonweb.com/">Home</a> | 
-<a href="http://www.wilsonweb.com/cgi-bin/search.cgi">Search</a> | 
-<a href="http://www.wilsonweb.com/marketing/">Marketing</a> | 
-<a href="http://www.wilsonweb.com/commerce/">E-Commerce</a> | 
-<a href="http://www.wilsonweb.com/services/">Services</a> | 
-<a href="http://www.wilsonweb.com/ads/">Advertising</a> | 
-<a href="http://www.wilsonweb.com/gestbook/">Contact Us</a>
-</font>
+<table width="468" bgcolor="#009999" cellpadding="2" cellspacing="0">
+	<tbody><tr>
+		<td>
+<center>
+<a class="navbar" href="http://www.wilsonweb.com/">Hm</a> | 
+<a class="navbar" href="http://www.wilsonweb.com/search/basic_search.cfm">Search</a> | 
+<a class="navbar" href="http://www.wilsonweb.com/marketing/">Marketing</a> | 
+<a class="navbar" href="http://www.wilsonweb.com/commerce/">E-Commerce</a> | 
+<a class="navbar" href="http://www.wilsonweb.com/services/">Services</a> | 
+<a class="navbar" href="http://www.wilsonweb.com/ads/">Ads</a> | 
+<a class="navbar" href="http://www.wilsonweb.com/contact/">Contact</a>
+</center>
+</td>
+	</tr>
+</tbody></table>
 <p>
 <font face="Arial,Helvetica" color="#006666" size="3"><b>Wilson Internet Services</b></font><br>
 http://www.wilsonweb.com
 </p></center>
 <p>
-<font size="1">Copyright © 1996-2000 by Ralph F. Wilson, all rights reserved. Text, graphics, and HTML code are protected by <a href="http://www.wilsonweb.com/copyright/">US and International Copyright Laws</a>, and may not be copied, <a href="http://www.wilsonweb.com/copyright/reprints.htm">reprinted</a>, published, translated, hosted, or otherwise distributed by any means without explicit permission. <a href="http://www.wilsonweb.com/copyright/terms.htm">Trademarks and terms of use</a>. 
-</font>
+<font size="1">Copyright © 1996-2003 by Ralph F. Wilson, all rights reserved. Text, graphics, and HTML code are protected by <a href="http://www.wilsonweb.com/copyright/">US and International Copyright Laws</a>, and may not be copied, <a href="http://www.wilsonweb.com/copyright/reprints.htm">reprinted</a>, published, translated, hosted, or otherwise distributed by any means without explicit permission. <a href="http://www.wilsonweb.com/copyright/terms.htm">Trademarks and terms of use</a>. </font>
 </p></td>
-<!----  END WISBUS BOTTOM  ---->
+<!---END BOTTOM---->
 <!----BEGIN RIGHT SELL---->
 <!--CLOSE DOUBLE TABLE-->
 </tr></tbody></table>
 <!--OPEN RIGHT CELL OF OUTER TABLE-->
 </td><td valign="TOP">
 <center>
-<table border="0" cellspacing="5" cellpadding="10" width="150">
+
+<!--OPEN YELLOW BOOK TABLE-->
+<table border="0" cellspacing="0" cellpadding="0" width="126">
+<tbody><tr><td width="5" bgcolor="#FFFFFF"><img src="http://www.wilsonweb.com/syspic/spacer.gif" width="5" height="1" border="0"><br>
+<p></p></td></tr>
+<tr><td bgcolor="#EEEEEE">
 
 
-<tbody><tr>
-<td bgcolor="LightYellow">
 
-<form method="get" action="http://amazon.com/exec/obidos/external-search">
+<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
+<b>Dr. Wilson's E-Books</b></font><br>
+
+<p>
+<a class="booklinkR" href="http://www.wilsonweb.com/ebooks/shoestring.htm"><img src="http://www.wilsonweb.com/syspic/8x8.gif" width="8" height="8" border="0" alt="Buy now!">10 Steps to E-Business on a Shoestring</a><br>
+
+<a class="booklinkR" href="http://www.wilsonweb.com/ebooks/landing.htm"><img src="http://www.wilsonweb.com/syspic/8x8.gif" width="8" height="8" border="0" alt="Buy now!"> How to Develop a Landing Page</a><br>
+
+<a class="booklinkR" href="http://www.wilsonweb.com/ebooks/carts.htm"><img src="http://www.wilsonweb.com/syspic/8x8.gif" width="8" height="8" border="0" alt="Buy now!"> The Shopping Cart Report</a><br>
+<a class="booklinkR" href="http://www.wilsonweb.com/ebooks/affilisoft.htm"><img src="http://www.wilsonweb.com/syspic/8x8.gif" width="8" height="8" border="0" alt="Buy now!"> Report on Affiliate Management Software</a><br>
+<a class="booklinkR" href="http://www.wilsonweb.com/ebooks/sales-boost.htm"><img src="http://www.wilsonweb.com/syspic/8x8.gif" width="8" height="8" border="0" alt="Buy now!"> Optimize Your Webstore Sales</a><br>
+<a class="booklinkR" href="http://www.wilsonweb.com/ebooks/gateway.htm"><img src="http://www.wilsonweb.com/syspic/8x8.gif" width="8" height="8" border="0" alt="Buy now!"> A Merchant's Guide to E-Commerce Payment Gateways</a><br>
+<a class="booklinkR" href="http://www.wilsonweb.com/ebooks/email-newsletters.htm"><img src="http://www.wilsonweb.com/syspic/8x8.gif" width="8" height="8" border="0" alt="Buy now!"> Guide to E-Mail Newsletters</a>
+</p><p>
+<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC"><b>Dr. Wilson's</b><br>
+<a target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471441090/ref=nosim/wilsoninternetse"><i><b>Planning Your Internet Marketing Strategy</b></i></a></font>
+</p><p>
+<a target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471441090/ref=nosim/wilsoninternetse"><img src="http://www.wilsonweb.com/bookpix/pyims125x188.gif" width="125" height="188" border="0" alt="Planning Your Internet Marketing Strategy: A Doctor Ebiz Guide, by Dr. Ralph F. Wilson"></a>
+</p><p>
+<font face="Arial,Helvetica,Sans Serif" size="2">
+Right now <a target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471441090/ref=nosim/wilsoninternetse">Amazon USA</a> has discounted the US $19.95 list price 30% to an astounding $13.96. See the 
+
+<a onmouseover="status='MESSAGE'; return true" onmouseout="status=''; return true" onclick="openWindow('http://www.wilsonweb.com/books/pyims_toc_short.htm', 350, 700); return false" href="http://www.wilsonweb.com/books/pyims_toc_short.htm">
+<b>table of contents</b></a> and <a onmouseover="status='MESSAGE'; return true" onmouseout="status=''; return true" onclick="openWindow('http://www.wilsonweb.com/plan/ch4_pop_c.htm', 400, 700); return false" href="http://www.wilsonweb.com/plan/ch4_pop_c.htm"><b>sample chapter</b>.</a>
+
+Order now from the Amazon site nearest you. <a target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471441090/ref=nosim/wilsoninternetse">US</a>
+| <a target="NewWindow" href="http://www.amazon.ca/exec/obidos/ASIN/0471441090/wilsonweb-20">CA</a>
+| <a target="NewWindow" href="http://amazon.co.uk/exec/obidos/ASIN/0471441090/732">UK</a>
+| <a target="NewWindow" href="http://amazon.de/exec/obidos/ASIN/0471441090/wilsonweb">Germany</a>
+| <a target="NewWindow" href="http://amazon.fr/exec/obidos/ASIN/0471441090/wilsoninternet">France</a>
+| <a target="NewWindow" href="http://amazon.co.jp/exec/obidos/ASIN/0471441090/">Japan</a>.</font>
+</p><p>
+
+<a class="sidelink" href="http://doctorebiz.com/offers/2ebooks.htm" target="_top"><font face="Verdana, Arial, Helvetica, Sans Serif" size="1" color="#FF0000">Subscribe FREE to <i>Doctor Ebiz</i> and receive 2 FREE eBooks on Internet Marketing </font></a><font face="Verdana, Arial, Helvetica, Sans Serif" size="1" color="#FF0000"> </font>
+</p><p>
+</p><form method="get" action="http://amazon.com/exec/obidos/external-search">
 <input type="hidden" name="tag" value="wilsoninternetse">
 <input type="hidden" name="mode" value="books">
-<font face="ARIAL" size="3"><b>Find Your Book</b></font><br>
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/redirect-home/wilsoninternetse">
+<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/redirect-home/wilsoninternetse"><font size="3"><b>Find Your Book<br>
+at Amazon.com</b></font> </a><br>
 
-<img src="http://www.wilsonweb.com/books/images/126X32amazonlogo.gif" width="126" height="32" border="0" alt="In Association with Amazon.com">
+<input type="text" name="keyword" size="8"><input type="submit" value="Go"><br>
 
-</a>
-<input type="text" name="keyword" size="8"><br>
-<input type="submit" value="Search">
 <font face="ARIAL" size="2"><b>Int'l Booksellers</b><br>
-<a href="http://www.amazon.co.uk/exec/obidos/redirect?tag=732&amp;path=tg/feature/-/17644">Search Amazon UK</a><br>
-<a href="http://www.amazon.de/exec/obidos/ts/browse-books/187809/wilsonweb">Search Amazon DE</a><br>
+<a href="http://www.amazon.ca/exec/obidos/redirect?tag=wilsonweb-20&amp;path=tg/browse/-/935750">
+Search Amazon CA</a><br>
+<a href="http://www.amazon.co.uk/exec/obidos/redirect?tag=732&amp;path=tg/feature/-/17644">Search Amazon UK </a><br>
+<a href="http://www.amazon.de/exec/obidos/ts/browse-books/187809/wilsonweb">Search Amazon DE </a><br>
 <a href="http://www.amazon.fr/exec/obidos/redirect?tag=wilsoninternet&amp;path=tg/browse/-/466634">Search Amazon FR</a><br>
-<a href="http://www.chapters.ca/Affiliates/BrowseCategory.asp?PRODUCTTYPE=1&amp;AFFID=104410&amp;CATEGORYID=4">Search Chapters.CA</a><br>
 </font>
 </form>
 
 
 
 
-<center>
-<p>
 
-<font face="Arial,Helvetica,Swiss" size="2"><b><a href="http://doctorebiz.com/offers/2ebooks.htm" target="_top">Subscribe now</a> <a class="sidelink" href="http://doctorebiz.com/offers/2ebooks.htm" target="_top"></a></b></font><b><a class="sidelink" href="http://doctorebiz.com/offers/2ebooks.htm" target="_top"><font face="Arial,Helvetica,Swiss" size="2" color="#FF0000">FREE to <i>Doctor Ebiz</i> and receive 2 FREE eBooks on Internet Marketing</font></a></b><font face="Arial,Helvetica,Swiss" size="2" color="#FF0000"> </font>
-<br>
-<a class="sidelink" href="http://doctorebiz.com/offers/2ebooks.htm" target="_top"><img src="http://www.wilsonweb.com/syspic/viral-starsy.gif" width="100" height="62" border="0" alt="Subscribe to Doctor Ebiz and receive 2 eBooks on Internet Marketing"></a></p></center>
-<p>
-</p><hr>
+
+<hr>
  
 <font face="Arial,Helvetica,Swiss" size="3">
-<b>Top Books</b><br>
-<font face="Arial,Helvetica,Swiss" size="1">
+<b>Books, Products</b> <br>
+<font face="Verdana,Arial,Helvetica,Swiss" size="1">
 <font color="RED"><u>R</u></font> indicates a review on this site<br>
 </font>
 
 <hr><br>
-<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
-<b>SiteSell</b><br>
-</font>
-<font face="Arial,Helvetica,Sans Serif" size="1">
-<a class="booklink" target="NewWindow" href="http://sales.sitesell.com/myss">Make Your Site Sell</a> <a href="http://www.wilsonweb.com/reviews/myss.htm" class="reviewlink">R</a> <a class="booklink" target="NewWindow" href="http://sales.sitesell.com/myss">Free Chapter</a><br>
+<font class="sectionlink">SiteSell </font> <br>
 
-<a class="booklink" target="NewWindow" href="http://sales.sitesell.com/myks/">Make Your Knowledge Sell!</a><br>
+<a class="booklink" target="NewWindow" href="http://sales.sitesell.com/buildit">Site Build It!</a> <a target="NewWindow" href="http://sales.sitesell.com/buildit" class="reviewlink">NEW!<br>
 
-<a class="booklink" target="NewWindow" href="http://sales.sitesell.com/myps/">Make Your Price Sell!</a> <a href="http://www.wilsonweb.com/reviews/myps.htm" class="reviewlink">R</a><br>
-<a class="booklink" target="NewWindow" href="http://sales.sitesell.com/myws/">Make Your Words Sell!</a><br>
+</a><a class="booklink" target="NewWindow" href="http://sales.sitesell.com/myss">Make Your Site Sell</a> <a href="http://www.wilsonweb.com/reviews/myss.htm" class="reviewlink">R</a><br>
 
+<a class="booklink" target="NewWindow" href="http://sales.sitesell.com/myks/">Make Your Knowledge Sell! </a><br>
 
-</font>
+<a class="booklink" target="NewWindow" href="http://sales.sitesell.com/myps/">Make Your Price Sell! </a> <a href="http://www.wilsonweb.com/reviews/myps.htm" class="reviewlink">R</a><br>
+<a class="booklink" target="NewWindow" href="http://sales.sitesell.com/myws/">Make Your Words Sell! </a><br>
+<a class="booklink" target="NewWindow" href="http://sales.sitesell.com/mynas/">Make Your Net Auction Sell!</a>  <a href="http://www.wilsonweb.com/reviews/mynas.htm" class="reviewlink">R</a> 
 
 
 <hr><br>
 
-
-
-
-<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
-<b>Web Marketing</b></font><br>
-
-<font face="Arial,Helvetica,Sans Serif" size="1">
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471349763/wilsoninternetse">Dan Janal's Guide to Marketing on the Internet</a> <a href="http://www.wilsonweb.com/reviews/janal-marketing.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://www.roibot.com/bn.cgi?R26822_wwbn">Branding on the Net<br>
-
-</a><a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471357642/wilsoninternetse">Differentiate or Die</a> <a href="http://www.wilsonweb.com/reviews/differentiate.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0684856360/wilsoninternetse">Permission Marketing</a> <a href="http://www.wilsonweb.com/reviews/permission-marketing.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/188506845X/wilsoninternetse">101 Ways to Promote Your Web Site</a> <a href="http://wilsonweb.com/reviews/101ways.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0963834959/wilsoninternetse">101 Ways to Boost Your Web Traffic</a><br>
-
-<a class="booklink" target="NewWindow" href="http://www.marketingtips.com/t.cgi/15267/">Corey Rudl's Insider Secrets</a> <a href="http://www.wilsonweb.com/reviews/rudl-secrets.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471257222/wilsoninternetse">Essential Business Tactics for the Net</a> <a href="http://www.wilsonweb.com/reviews/chase.htm" class="reviewlink">R</a><br>
-
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/1580622550/wilsoninternetse">Streetwise Relationship Marketing on the Internet</a> <a href="http://www.wilsonweb.com/reviews/relation-mktg.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/1885068387/wilsoninternetse">B2B Internet Marketing</a> <a href="http://www.wilsonweb.com/reviews/silverstein.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471344044/wilsoninternetse">Advertising on the Internet</a> <a href="http://www.wilsonweb.com/reviews/zeff-aronson.htm" class="reviewlink">R</a><br>
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471315613/wilsoninternetse">WWW Marketing</a> <a href="http://www.wilsonweb.com/reviews/stern-marketing.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471161756/wilsoninternetse">Publicity on the Internet</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471355984/wilsoninternetse">Internet Marketing Plan</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471251666/wilsoninternetse">One-To-One Web Marketing</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/047125262X/wilsoninternetse">
-Using the Web to Compete in a Global Marketplace</a> <a href="http://www.wilsonweb.com/reviews/global-compete.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0875849296/wilsoninternetse">eBrands</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471381861/wilsoninternetse">Affiliate Selling</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/1885068409/wilsoninternetse">Marketing with Email</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471383090/wilsoninternetse">Email Marketing</a><br>
-
-</font>
-
-
-<hr><br>
-<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
-<b>Customer Service</b></font><br>
-
-<font face="Arial,Helvetica,Sans Serif" size="1">
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471382582/wilsoninternetse">Customer Service on the Internet</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0812930371/wilsoninternetse">Customers.Com</a> <a href="http://www.wilsonweb.com/reviews/customerscom.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0873893832/wilsoninternetse">Online Customer Care</a><br>
-</font>
-
-<hr><br>
-
-<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
-<b>Design</b></font><br>
-
-<font face="Arial,Helvetica,Sans Serif" size="1">
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/156205810X/wilsoninternetse">Designing Web Usability</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ISBN=0782122019/wilsoninternetse">Web by Design</a> <a href="http://www.wilsonweb.com/reviews/holzschlag.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/1568304331/wilsoninternetse">Creating Killer Websites</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/1565925157/wilsoninternetse">Web Design in a Nutshell</a> <a href="http://www.wilsonweb.com/reviews/niederst-nutshell.htm" class="reviewlink">R</a><br>
-
-</font>
-<hr><br>
-
-
-<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
-<b>E-Commerce</b></font><br>
-
-<font face="Arial,Helvetica,Sans Serif" size="1">
-<a class="booklink" target="NewWindow" href="http://www.chapters.ca/Affiliates/ItemPage.asp?PRODUCTTYPE=1&amp;AFFID=104410&amp;ISBN=0771576439">Selling Online</a> <a href="http://www.wilsonweb.com/reviews/selling-online.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0201696819/wilsoninternetse">Creating Stores on the Web</a> <a href="http://www.wilsonweb.com/reviews/creating-stores.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0201571676/wilsoninternetse">Designing Systems for Internet Commerce</a> <a href="http://www.wilsonweb.com/reviews/designing-systems.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0124211615/wilsoninternetse">
-The E-Commerce Book</a> <a href="http://www.wilsonweb.com/reviews/ecomm-book.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0684849135/wilsoninternetse">Why We Buy: Science of Shopping</a> <a href="http://www.wilsonweb.com/reviews/underhill-whybuy.htm" class="reviewlink">R</a><br>
-
-</font>
-
-<hr><br>
-
-
-<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
-<b>E-Business</b></font><br>
-
-
-<font face="Arial,Helvetica,Sans Serif" size="1">
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0787954152/wilsoninternetse">From .com to .profit </a><a href="http://www.wilsonweb.com/reviews/dot-profit.htm" class="reviewlink">R</a><br>
-
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0767901347/wilsoninternetse">Webonomics</a> <a href="http://www.wilsonweb.com/reviews/webonomics.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/007018724X/wilsoninternetse">StrikingItRich.com</a> <a href="http://www.wilsonweb.com/reviews/strikingitrich.htm" class="reviewlink">R</a><br>
-
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0875848893/wilsoninternetse">Net Worth</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/076790088X/wilsoninternetse">Upstart Start-Ups!</a><br>
-
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471357634/wilsoninternetse">Futurize Your Enterprise</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0201604809/wilsoninternetse">E-Business</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0767903331/wilsoninternetse">Digital Darwinism</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/1578511933/wilsoninternetse">Digital Capital</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/087584877X/wilsoninternetse">Blown to Bits</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0071352422/wilsoninternetse">Net Ready</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/1894020677/wilsoninternetse">FutureConsumer.com</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0787952737/wilsoninternetse">Clicks and Mortar</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0066620120/wilsoninternetse">Now or Never</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0764506889/wilsoninternetse">Starting an Online Business For Dummies</a><br>
-
-
-
-</font>
-<hr><br>
 <font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
 <b>Merchant Accts</b></font><br>
-<font face="Arial,Helvetica,Sans Serif" size="1">
-<a class="booklink" target="NewWindow" href="http://www.commission-junction.com/track/track.dll?AID=55573&amp;PID=67839&amp;URL=http%3A%2F%2Fwww%2Evisa%2Dmc%2Ecom%2Fcj">Heartland Payment Systems</a><br>
 
-</font>
+<a class="booklink" target="NewWindow" href="http://wilsonweb.com/go/to.cgi?l=practicepay">Practice Pay Solutions Merchant Accts.</a><br>
+<a class="booklink" target="NewWindow" href="https://www.paypal.com/affil/pal=rfwilson%40wilsonweb.com">PayPal</a> <a href="http://www.wilsonweb.com/reviews/paypal.htm" class="reviewlink">R</a><br>
+<a class="booklink" target="NewWindow" href="http://links.verotel.com/cgi-bin/make_link.verotel?verotel_id=9804000000274075">Verotel</a> <a href="http://www.wilsonweb.com/reviews/verotel.cfm" class="reviewlink">R</a><br>
+
+
+
+
 
 <hr><form action="http://000domains.com/cgi-bin/reg_system.cgi" method="post">
 <font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
@@ -533,56 +523,108 @@ The E-Commerce Book</a> <a href="http://www.wilsonweb.com/reviews/ecomm-book.htm
 <font face="Arial,Helvetica,Sans Serif" size="1">
 <input type="hidden" name="affiliate_id" value="drebiz.com">
 <input type="hidden" name="action" value="lookup">
-<a class="booklink" target="NewWindow" href="http://000domains.com/cgi-bin/reg_system.cgi?affiliate_id=drebiz.com">$13.50/yr Regis</a><br>
+<a class="booklink" target="NewWindow" href="http://000domains.com/cgi-bin/reg_system.cgi?affiliate_id=drebiz.com">$13.50/yr Regis </a><br>
 <input maxlength="63" type="text" name="domain" size="8"><select name="DomainType">
             <option selected="" value=".com">.com</option>
             <option value=".net">.net</option>
             <option value=".org">.org</option></select><br>
         	<input type="submit" value="Search"><br>
-<a class="booklink" target="NewWindow" href="http://000domains.com/cgi-bin/reg_system.cgi?affiliate_id=drebiz.com">000Domains.com</a><br>
-<a class="booklink" target="NewWindow" href="http://wilsonweb.com/adx/redirect.cgi?ACCOUNT=wis&amp;BANNER=NameBoy">NameBoy Search</a><br>
-<a class="booklink" target="NewWindow" href="https://www.solutionhome.com/appraisal/index.cfm?af_id=459">Domain Appraisal</a>
+<a class="booklink" target="NewWindow" href="http://000domains.com/cgi-bin/reg_system.cgi?affiliate_id=drebiz.com">000Domains.com </a><br>
+
+<a class="booklink" target="NewWindow" href="http://resellers.000domains.com/cgi-bin/register_epp.cgi?affiliate_id=DREBIZ.COM">.BIZ, .INFO, and .US</a><br>
+
+<a class="booklink" target="NewWindow" href="http://www.nameprotect.com/cgi-bin/partner.cgi?a=15204&amp;p=sjump">NameProtect Trademark</a><br>
 </font>
 
 <hr></form>
 <font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
 <b>News Releases</b></font><br>
-<font face="Arial,Helvetica,Sans Serif" size="1">
 
-<a class="booklink" target="NewWindow" href="http://www.interferenza.net/xpresspress/al/affiliates.cgi?112">Xpress Press</a><br>
 
-<a class="booklink" target="NewWindow" href="http://www.commission-junction.com/track/track.dll?AID=896788&amp;PID=67839&amp;URL=http%3A%2F%2Fwww%2Einternetnewsbureau%2Ecom">Internet News Bureau</a><br>
+<a class="booklink" target="NewWindow" href="http://www.interferenza.net/xpresspress/al/affiliates.cgi?112">Xpress Press </a><br>
 
-</font>
+<a class="booklink" target="NewWindow" href="http://www.commission-junction.com/track/track.dll?AID=896788&amp;PID=67839&amp;URL=http%3A%2F%2Fwww%2Einternetnewsbureau%2Ecom">Internet News Bureau </a><br>
+
+<hr><br>
+
+<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
+<b>Affiliate Mgt</b></font><br>
+
+<a class="booklink" target="NewWindow" href="http://www.myaffiliateprogram.com/u/affiliat/t.asp?id=1407">
+Affiliate Announce</a><br>
+
+<a class="booklink" target="NewWindow" href="http://www.groundbreak.com/cgi-bin/affiliate/clickthru.cgi?id=rfw">Ultimate Affiliate Package</a><br>
+
+<a class="booklink" target="NewWindow" href="http://www.myaffiliateprogram.com/index.asp?3051">My Affiliate Program</a><br>
+
+<a class="booklink" target="NewWindow" href="http://www.cgitoolbox.com/c.cgi/rfwilson_l">Little Salesman</a><br>
+
+
+
+
+<hr><br>
+<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
+<b>E-Commerce Tools</b></font><br>
+
+
+<a class="booklink" target="NewWindow" href="http://wilsonweb.com/afd/1shoppingcart.htm">1ShoppingCart</a> <a href="http://www.wilsonweb.com/reviews/_1shoppingcart.htm" class="reviewlink">R</a><br>
+
+<a class="booklink" target="NewWindow" href="http://wilsonweb.com/afd/dropship.htm">Drop Ship Source Directory</a><br>
+
+<a class="booklink" target="NewWindow" href="http://wilsonweb.com/go/to.cgi?l=download">Download Protector</a><br>
+
+
+<a class="booklink" target="NewWindow" href="http://wilsonweb.com/afd/se_ordermgr.htm">StoneEdge Order Manager</a><br>
+
+<hr><br>
+<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
+<b>Content Mgt</b></font><br>
+<a class="booklink" target="NewWindow" href="http://wilsonweb.com/go/to.cgi?l=artmgr">Article Manager</a> <a href="http://www.wilsonweb.com/reviews/articlemanager.htm" class="reviewlink">R</a><br>
+<a class="booklink" target="NewWindow" href="http://wilsonweb.com/go/to.cgi?l=pagepub">Page Publisher</a> <a href="http://www.wilsonweb.com/reviews/pagepublisher.htm" class="reviewlink">R</a><br>
+<a class="booklink" target="NewWindow" href="http://hop.clickbank.net/hop.cgi?rfwilson/mastersyn">Master Syndicator</a><br>
+
 <hr><br>
 <font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
 <b>Marketing Software</b></font><br>
+<a class="booklink" target="NewWindow" href="http://www.wilsonweb.com/afd/webposition.htm">WebPosition Gold 2.0</a> <a href="http://www.wilsonweb.com/reviews/webposition-gold.htm" class="reviewlink">R</a><br>
 
-<font face="Arial,Helvetica,Sans Serif" size="1">
-<a class="booklink" target="NewWindow" href="http://www.webposition.com/d2.pl?r=AQH-55E7">WebPosition Gold</a> <a href="http://www.wilsonweb.com/reviews/webposition-gold.htm" class="reviewlink">R</a><br>
+<a class="booklink" target="NewWindow" href="http://wilsonweb.com/go/to.cgi?l=hitboxpro">HitBox Pro 3.0</a> <a href="http://www.wilsonweb.com/reviews/hitbox_pro.htm" class="reviewlink">R</a><br>
 
-<a class="booklink" target="NewWindow" href="https://www.metamend.com/1053/">Metamend Automatic Site Promotion</a> <a href="http://www.wilsonweb.com/reviews/metamend.htm" class="reviewlink">R</a><br>
-
-<a class="booklink" target="NewWindow" href="http://marketingtips.com/mailloop/t.x/15267/">Mailloop</a><br>
-
-<a class="booklink" target="NewWindow" href="http://www.marketingtips.com/assoctrac/t.x/15267">assocTRAC Affiliate</a><br>
-
-<a class="booklink" target="NewWindow" href="http://www.aweber.com/?24448">AWeber Autoresponder</a><br>
-
-<a class="booklink" target="NewWindow" href="http://www.sparklist.com/cgi-bin/af/b.cgi/193">SparkList Lyris</a><br>
-
-<a class="booklink" target="NewWindow" href="http://www.postmastergeneral.com/?affiliate=rfwilson">Postmaster General</a><br>
-
-<a class="booklink" target="NewWindow" href="http://amazon.com/exec/obidos/ASIN/0471168963/wilsoninternetse">CGI/Perl Cookbook</a><br>
-
-<a class="booklink" target="NewWindow" href="http://www.cj.com/go.asp?69320">Commission Junction</a><br>
+<a class="booklink" target="NewWindow" href="http://www.wilsonweb.com/afd/wordtracker.htm">WordTracker</a><br>
 
 
-</font>
+<hr><br>
+<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
+<b>Desktop E-mailers</b></font><br>
+
+<a class="booklink" target="NewWindow" href="http://gammadyne.com/refer.php?ref=10045&amp;page=mmail.htm">Gammadyne Mailer</a> <a href="http://www.wilsonweb.com/reviews/gammadyne.htm" class="reviewlink">R</a><br>
+
+<a class="booklink" target="NewWindow" href="http://www.shareasale.com/m-redirect.cfm?bannerID=3938&amp;userID=43070&amp;merchantID=1465">Group Mail</a><br>
+
+<a class="booklink" target="NewWindow" href="http://www.emailunlimited.info/42194/">EmailUnlimited</a><br>
+
+<a class="booklink" target="NewWindow" href="http://www.post-master.net/rs/wis">PostMaster</a><br>
 
 
+
+<hr><br>
+<font face="Arial,Helvetica,Sans Serif" size="2" color="#0066CC">
+<b>Web-hosted E-mailers</b></font><br>
+
+<a class="booklink" target="NewWindow" href="http://www2.kinumok.com/cgi-bin/nph-clickthru.cgi?id=wilson">Maestro</a><br>
+
+<a class="booklink" target="NewWindow" href="http://www.mindsharedesign.com/index.html?+affiliate=rfwilson">PMG</a><br>
+
+<a class="booklink" target="NewWindow" href="http://www.aweber.com/?24448">AWeber AutorespondeR</a><br>
+
+ 
+<a class="booklink" target="NewWindow" href="http://www.autoresponseplus.com/link.php?a=rfwilson">AutoResponse Plus 3</a> <a href="http://www.wilsonweb.com/reviews/arp3.htm" class="reviewlink">R</a><br>
+
+ 
+<a class="booklink" target="NewWindow" href="http://scc.proautoresponder.com/">ProAutoResponder</a> <a href="http://www.wilsonweb.com/reviews/proautoresponder.htm" class="reviewlink">R</a><br>
+<p>
 <!--CLOSE YELLOW BOOK TABLE-->
-</font></td></tr></tbody></table>
+</p></font></td></tr></tbody></table>
 <!----END RIGHT SELL---->
 <!---- CLOSE OUTER TABLE  ---->
 </center></td></tr>
