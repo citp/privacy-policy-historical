@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pengs.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204214810id_/http%3A//www.pengs.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pengs.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401091609id_/http%3A//www.pengs.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Pengs.com Privacy policy
 
@@ -14,7 +14,7 @@ We collect the following general data that is not personally identifiable inform
 
 We verify the accuracy of this information by validating via e-mail addresses. 
 
-We collect this information through methods such as registration forms, e-mail communications and so on.  Describe what information is collected through each method].  The information is collected voluntarily.   To receive our services, your address is mandatory because we sometimes need to send funds to clients via our affiliate program.  Other information we request is optional. 
+We collect this information through methods such as registration forms, e-mail communications and so on.  Describe what information is collected through each method].  The information is collected voluntarily.   To receive our services, your address is mandatory because we sometimes need to send funds to clients via our Partner program.  Other information we request is optional. 
 
 We do employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable Pengs.com to track usage patterns and deliver customized content to users.  Our cookies do have an expiration date. Our cookies do not collect personally identifiable information. 
 
