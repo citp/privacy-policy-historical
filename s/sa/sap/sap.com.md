@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044508id_/http%3A//www.sap.com/company/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805233903id_/http%3A//www.sap.com/company/legal/privacy.asp) for the most accurate reproduction.*
 
 # SAP - SAP Privacy Statement
 
@@ -59,7 +59,7 @@ This site contains links to other sites. SAP is not responsible for the privacy 
 
 #### 3\. Choice/Opt-Out
 
-You can opt out of receiving e-mail communications from us whenever you like. You only need to e-mail us to have your name and details removed from SAP's e-mail list or registration database. Registered users may opt out at any time in the [SAP.com Profile Center](https://web.archive.org/mk/get/g-pccntbasedat).
+You can opt out of receiving e-mail communications from us whenever you like. You only need to e-mail us to have your name and details removed from SAP's e-mail list or registration database. Registered users may opt out at any time in the [SAP.com Profile Center](https://web.archive.org/profile/).
 
 #### 4\. Inquiries
 
