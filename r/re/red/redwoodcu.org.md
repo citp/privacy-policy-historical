@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the redwoodcu.org privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwoodcu.org privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/privacy.html) for the most accurate reproduction.*
 
 # RCU Privacy Policy
 
   
-[](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/about/index.html)  
-[](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/applications/index.html)  
-[](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/prodserv/index.html)  
-[](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/rates/index.html)  
-[](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/wizards/index.html)  
-[](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/whatsnew/index.html)  
-[](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/email/index.html)  
+[](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/about/index.html)  
+[](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/applications/index.html)  
+[](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/prodserv/index.html)  
+[](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/rates/index.html)  
+[](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/wizards/index.html)  
+[](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/whatsnew/index.html)  
+[](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/email/index.html)  
 [](https://www.rcuconnect.org/cgi-bin/mcw000.cgi?MCWSTART)  
-[](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/home.shtml)  
+[](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/home.shtml)  
 | 
 
 **RCU Privacy Policy**
@@ -87,4 +87,4 @@ This policy is effective July 1, 2001. We can change this policy by notifying yo
 
 * * *
 
-[RCU Privacy Policy](http://www.redwoodcu.org/privacy.html) | [Security Policy](https://web.archive.org/web/20020602113431id_/http%3A//www.redwoodcu.org/security.html)
+[RCU Privacy Policy](http://www.redwoodcu.org/privacy.html) | [Security Policy](https://web.archive.org/web/20021004181543id_/http%3A//www.redwoodcu.org/security.html) | 
