@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208180253id_/http%3A//www.vistek.ca/about/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412202445id_/http%3A//www.vistek.ca/about/policies.asp) for the most accurate reproduction.*
 
 # Vistek Canada - Photo Video Digital
 
