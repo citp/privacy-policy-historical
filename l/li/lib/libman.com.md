@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libman.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207105619id_/http%3A//libman.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libman.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401134157id_/http%3A//www.libman.com/Privacy.htm) for the most accurate reproduction.*
 
 # The Libman Company Website Privacy Policy
 
