@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2002-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020306201254id_/http%3A//www.qad.com/resources/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205220008id_/http%3A//www.qad.com/resources/privacy_policy.html) for the most accurate reproduction.*
 
 # QAD | Privacy Statement
 
