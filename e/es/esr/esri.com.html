@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the esri.com privacy policy that was archived on 2003-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401195517id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esri.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202205146id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 
 <title>ESRI Web Site Privacy Policy</title>
 
-<!---Content Owner: Sandy Stephens, ext. 1469--->
-<!---Last Person to Edit this Page: Sandy Stephens, ext. 1469--->
-<!---Date Last Edited: August 20, 2001--->
+<!--Content Owner: Sandy Stephens-->
+<!--Last Edited by: Jean Kennerson on September 17, 2003-->
 
 <!--keywords-->
 <meta name="keywords" content=" ESRI privacy statement, privacy policy, copyright and trademarks, About ESRI, ESRI,">
@@ -22,8 +21,6 @@
 //var a = Date.parse(document.location);
 //var b = new Date(a);
 //document.writeln(b);
-
-
 
 <!-- BEGIN Script
 var day="";
@@ -78,18 +75,26 @@ else if(mymonth ==11)
 month = "December "
 // End -->
 </script>
-
 <script language="javascript" src="/styles/styles.js"></script>
-<script language="javascript" type="TEXT/JAVASCRIPT"> 
-self.focus();
- if (is.IE) {
-  document.write('<LINK REL="stylesheet" type="text/css" HREF="/styles/style.css">');
-} else if (is.WIN && is.NN) {
-  document.write('<LINK REL="stylesheet" type="text/css" HREF="/styles/style_netscape_pc.css">');
-} else if (!is.WIN && is.NN){
-    document.write('<LINK REL="stylesheet" type="text/css" HREF="/styles/style_netscape_mac.css">');
-}
-</script><link rel="stylesheet" type="text/css" href="/styles/style_netscape_mac.css">
+
+<script language="javascript" type="TEXT/JAVASCRIPT">
+		if (is_ie || is_nav6up ||  is_opera) {
+		document.write('<link rel="stylesheet" type="text/css" href="/styles/style.css">');
+		}else if (is_mac && is_nav){
+		    document.write('<link rel="stylesheet" type="text/css" href="/styles/style_netscape_mac.css">');
+		} else if (is_nav){
+			document.write('<link rel="stylesheet" type="text/css" href="/styles/style_netscape_pc.css">');
+		} 
+</script>
+
+<link href="/styles/alt_menu.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+	@import url(/styles/standards_menu.css);
+</style>
+
+<script language="javascript" type="text/javascript" src="/styles/menubar.js"></script>
+
 
 
 </head>
@@ -98,90 +103,165 @@ self.focus();
 <body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 <!--end body-->
 
-<!--navigation bar-->
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
- <tbody><tr>
-    <td background="/graphics/topnav_tile.gif"><img src="/graphics/topnav.gif" width="660" height="81" border="0" usemap="#topnav_map"></td>
- </tr>
- <tr>
-   <td width="660" background="/graphics/sublinks_tile.gif"><img src="/graphics/topnav_sublinks.gif" width="660" height="14" border="0" usemap="#topnav_sublinks"></td>
- </tr>
+<script language="javascript" src="/styles/menubar_generate.js"></script>
+
+<script language="javascript" src="/styles/menubar_array.js"></script><div id="homeTab" class="menu" onmouseover="menuMouseover(event)">
+<a class="mi" href="/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">GIS: Getting Started</a>
+<a class="mi" href="/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Create a Map</a>
+</div>
+
+<div id="productsTab" class="menu" onmouseover="menuMouseover(event)">
+<a class="mi" href="/products.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Products Overview</a>
+<a class="mi" href="/software/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Software</a>
+<a class="mi" href="/partners/hardware/hw_promo.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Hardware Bundles</a>
+<a class="mi" href="/data/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Data</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://gis.esri.com/esripress/index.cfm" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">ESRI Press Books</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://store.esri.com/" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">ESRI Store</a>
+</div>
+
+<div id="servicesTab" class="menu" onmouseover="menuMouseover(event)">
+<a class="mi" href="/services.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Services Overview</a>
+<a class="mi" href="/consulting/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Professional Services</a>
+<a class="mi" href="/systemsint/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Systems Integration Services</a>
+<a class="mi" href="/partners/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Business Partners</a>
+<a class="mi" href="/partners/alliances/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Corporate Alliances</a>
+<a class="mi" href="/partners/hardware/hw_vendors.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Corporate Hardware Partners</a>
+</div>
+
+<div id="industriesTab" class="menu" onmouseover="menuMouseover(event)">
+<a class="mi" href="/industries.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Industries Overview</a>
+<a class="mi" href="/grants/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Grants</a>
+</div>
+
+<div id="showcaseTab" class="menu" onmouseover="menuMouseover(event)">
+<a class="mi" href="/user_showcase.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">User Showcase Overview</a>
+<a class="mi" href="/software/internetmaps/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Internet Mapping</a>
+<a class="mi" href="/mapmuseum/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Map Book Gallery</a>
+<a class="mi" href="/sag/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Special Achievement in GIS</a>
+</div>
+
+<div id="trainingTab" class="menu" onmouseover="menuMouseover(event)">
+<a class="mi" href="/training_events.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Training &amp; Events Overview</a>
+<a class="mi" href="/events/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Events</a>
+<a class="mi" href="/training/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Instructor-Led Training</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://campus.esri.com" target="new" onmouseover="autoOn();" onmouseout="autoOff();">Virtual Campus Training</a>
+<a class="mi" href="/training/atp/atp.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Authorized Training Program</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://gis.esri.com/esripress/index.cfm" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">ESRI Press Books</a>
+<a class="mi" href="/library/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Publications &amp; Media</a>
+</div>
+
+<div id="supportTab" class="menu" onmouseover="menuMouseover(event)">
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://support.esri.com" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">ESRI Support Center</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://support.esri.com/index.cfm?fa=software.gateway" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Software</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://support.esri.com/index.cfm?fa=knowledgeBase.gateway" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Knowledge Base</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://support.esri.com/index.cfm?fa=downloads.gateway" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Downloads</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://support.esri.com/index.cfm?fa=forums.gateway" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">User Forums</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://support.esri.com/index.cfm?fa=developers.gateway" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">For Developers</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://gis.esri.com/usersupport/usergroups/usergroups.cfm" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">User Group Meetings</a>
+</div>
+
+<div id="companyTab" class="menu" onmouseover="menuMouseover(event)">
+<a class="mi" href="/about_esri.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">About ESRI Overview</a>
+<a class="mi" href="/news/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">News &amp; Publications</a>
+<a class="mi" href="/company/about/headquarters.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Headquarters</a>
+<a class="mi" href="/company/contactusa.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">U.S. Regional Offices</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://gis.esri.com/intldist/contactint.cfm" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Distributors Worldwide</a>
+<a class="mi" href="https://web.archive.org/web/20040113221859/http://gis.esri.com/jobs/jobs.cfm" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">Careers</a>
+<a class="mi" href="/events/uc/index.html" target="_self" onmouseover="autoOn();" onmouseout="autoOff();">ESRI User Conference</a>
+</div>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="700"><!-- Menubar utility navigation -->
+  <tbody><tr>
+    <td width="477" style="vertical-align: bottom;"><img src="/graphicsnav/globetop.jpg" width="493" height="19" alt="" border="0"></td>
+    <td class="utilityNav">
+      <a href="#content"><img src="/graphicsnav/clear.gif" height="9" width="3" alt="skip navigation" border="0"></a>	  
+	 <a href="http://gisstore.esri.com/">Store</a>  |  <a href="/company/contact.html">Contact Us</a> | <a href="http://gis.esri.com/jobs/jobs.cfm">Careers</a>
+	  </td> 	  
+</tr>
 </tbody></table>
 
-<!--end navigation bar-->
+<table border="0" cellpadding="0" cellspacing="0" width="700">
+  <tbody><tr>
+    <td class="banner" width="509"><a href="/index.html"><img src="/graphicsnav/banner.jpg" width="509" height="49" alt="ESRI Home" border="0"></a></td>
+    <td class="banner" width="191">
+        <font face="verdana,arial,sans-serif" size="-1">
+				<input type="hidden" name="domains" value="esri.com">
+				<input type="hidden" name="sitesearch" value="esri.com">
+			</font><table cellpadding="2" cellspacing="0" border="0">
+	    <form method="get" action="http://www.google.com/cobrand" name="esri_searchbox"></form>
+			<input type="hidden" name="cof" value="AWPID:59c5f8c2c949bea4;">
+			
+		<tbody><tr>
+		<td><input type="text" name="q" size="12" maxlength="255" value=""></td>
+	      <td> <input type="image" src="/graphicsnav/search.gif" width="53" height="22" alt="Click to search" border="0" name="sa" value="Search">&nbsp;<img src="/graphicsnav/googlelogo2.gif" width="45" height="15" alt="" border="0"></td>
+		 
+	      <!--  <td><input type="image" src="/graphicsnav/search.gif" WIDTH="53" HEIGHT="22" ALT="Click to search" BORDER="0">&nbsp;<IMG SRC="/graphicsnav/googlelogo2.gif" WIDTH="45" HEIGHT="15" ALT="" BORDER="0"></td>  -->
+	    </tr>
+		
+	    </tbody></table>
+    </td>
+  </tr>
+<!-- Main Menu Bar Tabs -->
+  <tr valign="bottom">
+    <td height="21" class="menuBar" nowrap="" colspan="2"><script>generateTabs();</script><span class="nonStds"> &nbsp; </span><a class="menuButtonSelected" href="/index.html" target="_self" onmouseover="return buttonClick(event, 'homeTab');" onmouseout="autoOff();">Home</a><span class="nonStds"> | </span><a class="menuButton" href="/products.html" target="_self" onmouseover="return buttonClick(event, 'productsTab');" onmouseout="autoOff();">Products</a><span class="nonStds"> | </span><a class="menuButton" href="/services.html" target="_self" onmouseover="return buttonClick(event, 'servicesTab');" onmouseout="autoOff();">Services</a><span class="nonStds"> | </span><a class="menuButton" href="/industries.html" target="_self" onmouseover="return buttonClick(event, 'industriesTab');" onmouseout="autoOff();">Industries</a><span class="nonStds"> | </span><a class="menuButton" href="/user_showcase.html" target="_self" onmouseover="return buttonClick(event, 'showcaseTab');" onmouseout="autoOff();">User Showcase</a><span class="nonStds"> | </span><a class="menuButton" href="/training_events.html" target="_self" onmouseover="return buttonClick(event, 'trainingTab');" onmouseout="autoOff();">Training &amp; Events</a><span class="nonStds"> | </span><a class="menuButton" href="https://web.archive.org/web/20040113221859/http://support.esri.com" target="_self" onmouseover="return buttonClick(event, 'supportTab');" onmouseout="autoOff();">Support</a><span class="nonStds"> | </span><a class="menuButton" href="/about_esri.html" target="_self" onmouseover="return buttonClick(event, 'companyTab');" onmouseout="autoOff();">About ESRI</a>
+</td>
+  </tr>
+</tbody></table>
 
-<!--navigation bar map-->
-<map name="topnav_map">
-<area alt="Software" coords="68,19,134,39" href="/software/index.html" tabindex="1">
-<area alt="Data" coords="136,19,180,39" href="/data/index.html" tabindex="2">
-<area alt="Books" coords="182,19,235,39" href="http://gis.esri.com/esripress/index.cfm" tabindex="3">
-<area alt="Consulting" coords="236,19,315,39" href="/consulting/index.html" tabindex="4">
-<area alt="Shop Online" coords="318,19,400,39" href="http://gisstore.esri.com" tabindex="5">
-<area alt="News" coords="402,19,448,39" href="/news/index.html" tabindex="6">
-<area alt="Events" coords="455,19,505,39" href="/events/index.html" tabindex="7">
-<area alt="Careers" coords="516,19,572,39" href="http://gis.esri.com/jobs/jobs.cfm" tabindex="8">
-<area alt="About ESRI" coords="580,19,652,39" href="/company/index.html" tabindex="9">
-<area alt="Support" coords="68,52,130,75" href="http://support.esri.com" tabindex="10">
-<area alt="Education &amp; Training" coords="133,52,273,75" href="/training/index.html" tabindex="11">
-<area alt="Industry Applications" coords="278,52,418,75" href="/industries/index.html" tabindex="12">
-<area alt="Partner Solutions" coords="423,52,543,75" href="/partners/index.html" tabindex="13">
-<area alt="Library" coords="548,52,601,75" href="/library/index.html" tabindex="14">
-<area shape="rect" coords="1,6,70,78" href="/index.html" alt="ESRI Home">
-</map>
-<!--end navigation bar map-->
-
-<!--navigation bar sublinks-->
-<map name="topnav_sublinks">
-<area alt="Contact Us" coords="404,0,475,14" href="/company/contact.html" tabindex="15">
-<area alt="Search" coords="481,0,536,14" href="/site/search.html" tabindex="16">
-<area alt="Site Map" coords="544,0,608,14" href="/site/sitemap.html" tabindex="17">
-<area alt="ESRI Home" coords="615,0,660,14" href="/index.html" tabindex="18">
-</map>
-<!--end of navigation bar sublinks-->
+<!-- END MENUBAR -->
 
 
 
 <!--content-->
-
-<img src="graphics/aboutesri.gif" width="660" height="46" alt="ESRI Privacy Statement" border="0">
-<br><br><br>
+<div class="pageBanner">ESRI Web Site Privacy Policy</div>
 
 
 <table width="660" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td width="83" nowrap=""></td>
 <td width="577" align="LEFT" valign="TOP">
-<h2>ESRI Web Site Privacy Policy</h2>
 
-<p class="content">ESRI values the privacy of those who visit our Web sites and register for our software and services online.  We think it is important for you to understand when and why we collect personally identifiable information and how we may use it. This Privacy Statement describes ESRI data collection and use policies.  Please read the entire Privacy Statement before providing any personally identifiable information to us.</p>
+
+<p class="content">ESRI values the privacy of those who visit our Web sites and register for our software and services online.  We think it is important for you to understand when and why we collect personally identifiable information and how we may use it.  This Privacy Policy describes ESRI data collection and use policies.  Please read the entire Privacy Policy before providing any personally identifiable information to us.</p>
 
 <h3>Notice</h3>
-<p class="content">ESRI collects personally identifiable information, such as your name, address, telephone number, or e-mail address, only if you provide this information to us voluntarily. The voluntary information we collect is used for internal verification to complete transactions, ensure appropriate legal use of licensed ESRI software, provide notification to licensees about updates to ESRI software, and help provide technical and product support to our users. Where appropriate, ESRI may pass this data to the exclusive ESRI international distributor who provides the above services in your country.</p>
 
-<p class="content">ESRI may also use your name, address, and e-mail to send you marketing materials, user conference information, and newsletters unless you notify us that you do not want to receive these materials. Occasionally, ESRI uses the services of bonded mailing houses that are authorized to use your personally identifiable data only for the benefit of ESRI. </p>
+<p class="content">ESRI collects personally identifiable information, such as your name, address, telephone number, or e-mail address, only if you provide this information to us voluntarily.  The voluntary information we collect is used for internal verification to complete transactions, ensure appropriate legal use of licensed ESRI software, provide notification to licensees about updates to ESRI's and our Affiliates' software, data, services, and to help provide technical and product support to our users.  Where appropriate, ESRI may pass this data to an ESRI international distributor who provides the above services in your country, or to an ESRI Affiliate whose software, data, and services provide solutions to meet your needs.  Our Affiliates are also committed to protecting personally identifiable information as described in their privacy statements/policies.</p>
+
+<p class="content">ESRI may also use your name, address, and e-mail to send you marketing materials, user conference information, and newsletters unless you notify us that you do not want to receive these materials.  Occasionally, ESRI uses the services of bonded mailing houses that are authorized to use your personally identifiable data only for the benefit of ESRI and its Affiliates.</p>
+
+<p class="content">While browsing the ESRI Web site, you may be able to access the Web sites of third parties through a hyperlink.  ESRI assumes no responsibility for the privacy practices at such third party Web sites and suggests you review the privacy statements/policies on such Web sites before sharing your personally identifiable data.</p>
 
 <h3>Collection</h3>
+
 <p class="content">Certain information, such as the Internet protocol address of your computer, may be stored through the use of "cookies" intended to speed access to ESRI information and services.  A cookie is a short piece of data that can be used to tell us when you visit our Web sites and track your browsing habits.  ESRI does not use cookies to store information such as credit card numbers, telephone numbers, or other sensitive information.  A cookie is not an executable program and cannot do anything to your machine.  To maintain your privacy, you can disable your browser's ability to accept cookies.</p>
 
-<p class="content">During the installation process for certain ESRI software, information may be placed on your hard drive. This is done to enable the proper functioning of the software and ensure it is used only when properly licensed.  Certain ESRI sites and software installation may require registration to gain access to special services, license keys, or other features.  This information will be used to provide support and deliver specialized services.</p>
+<p class="content">During the installation process for certain ESRI software, information may be placed on your hard drive.  This is done to enable the proper functioning of the software and ensure it is used only when properly licensed.  Certain ESRI sites and software installation may require registration to gain access to special services, license keys, or other features.  This information will be used to provide support and deliver specialized services.</p>
 
 <p class="content">ESRI also collects personally identifiable information you provide when you order and register software, data, or services; enter contests; order newsletters; register for training or conferences; or make requests that require a direct response to you.</p>
 
 <h3>Choice</h3>
-<p class="content">ESRI will contact you or send you marketing information about software or services unless you notify ESRI that you do not wish to receive it. You may notify us by sending an e-mail to <a href="moreinfo.html" class="contentlink">info@esri.com</a> as indicated below. Keep in mind, however, that you may not receive information on the ESRI User Conference or other valuable information as a result of your election to be removed from mailing lists.</p>
 
-<p class="content">Other than as described in this Privacy Statement, ESRI will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary (1) to conform to the edicts of the law, (2) to protect and defend the rights or property of ESRI, (3) or as part of a transfer of assets to a successor in interest.</p>
+<p class="content">ESRI will contact you or send you marketing information about software or services unless you notify ESRI that you do not wish to receive it.  You may notify us by sending an e-mail to <a href="http://gis.esri.com/company/moreinfo/index.cfm" class="contentlink">info@esri.com</a> as indicated below.  Keep in mind, however, that you may not receive information on the ESRI User Conference or other valuable information as a result of your election to be removed from mailing lists.</p>
+
+<p class="content">Other than as described in this Privacy Policy, ESRI will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary to (1)&nbsp;conform to the edicts of the law, (2)&nbsp;protect and defend the rights or property of ESRI, or (3)&nbsp;as part of a transfer of assets to a successor in interest.</p>
 
 <p class="content">Except as stated herein, ESRI's corporate policy is not to rent, sell, or otherwise permit access by third parties to databases composed of your personally identifiable information.</p>
 
 <h3>Access</h3>
-<p class="content">ESRI will permit you to access information about you in our database by contacting <a href="moreinfo.html" class="contentlink">info@esri.com</a>.  If you believe any of the information is incorrect or needs updating, please advise us.  We will correct our records upon verification of the requested change. If you no longer wish to receive e-mail or postal notifications about software, services, or special promotions, please let us know by sending an e-mail to us at <a href="moreinfo.html" class="contentlink">info@esri.com</a> and specifying that you do not want to receive these notifications. Please provide us with your exact name and address as well as a description of the publication or mail piece you received. We will use reasonable efforts to refrain from including you when sending marketing materials to ESRI clients by noting your election in our database.</p>
+
+<p class="content">ESRI will permit you to access information about you in our database by contacting <a href="http://gis.esri.com/company/moreinfo/index.cfm" class="contentlink">info@esri.com</a>.  If you believe any of the information is incorrect or needs updating, please advise us.  We will correct our records upon verification of the requested change.  If you no longer wish to receive e-mail or postal notifications about software, services, or special promotions, please let us know by sending an e-mail to us at <a href="http://gis.esri.com/company/moreinfo/index.cfm" class="contentlink">info@esri.com</a> and specifying that you do not want to receive these notifications.  Please provide us with your exact name and address as well as a description of the publication or mail piece you received.  We will use reasonable efforts to refrain from including you when sending marketing materials to ESRI clients by noting your election in our database.</p>
 
 <h3>Security</h3>
+
 <p class="content">ESRI will take reasonable and prudent precautions to ensure that your personally identifiable data is protected against unauthorized access, use, or disclosure.</p>
 
 <h3>Enforcement</h3>
-<p class="content">If you believe for any reason that ESRI has not followed these principles, please contact us at <a href="moreinfo.html" class="contentlink">info@esri.com</a>, and ESRI will act promptly to investigate, correct as appropriate, and advise you of the correction.  Please identify the issue as a Privacy Policy concern in your communication to ESRI.</p>
+
+<p class="content">If you believe for any reason that ESRI has not followed these principles, please contact us at <a href="http://gis.esri.com/company/moreinfo/index.cfm" class="contentlink">info@esri.com</a>, and ESRI will act promptly to investigate, correct as appropriate, and advise you of the correction.  Please identify the issue as a Privacy Policy concern in your communication to ESRI.</p>
 
 </td>
 </tr>
@@ -191,45 +271,51 @@ self.focus();
 
 <!--text navigation, copyright, date-->
 
-<br><br>
-<!--text navigation, copyright, date-->
 
-<table cellspacing="0" cellpadding="0" width="660" border="0">
-  <tbody><tr>
-    <td align="center" width="660">
-      <img src="/graphics/dottedline660.gif" alt="dotted line" width="660" height="10" border="0">
-        <span class="navlinks"><a href="/software/index.html">Software</a>&nbsp;|</span> 
-        <span class="navlinks"><a href="/data/index.html">Data</a>&nbsp;|</span>
-		<span class="navlinks"><a href="http://gis.esri.com/esripress/index.cfm">Books</a>&nbsp;|</span> 
-        <span class="navlinks"><a href="/consulting/index.html">Consulting</a>&nbsp;|</span> 
-        <span class="navlinks"><a href="http://gisstore.esri.com/">Shop Online</a>&nbsp;|</span> 
-        <span class="navlinks"><a href="/news/index.html">News</a>&nbsp;|</span> 
-		<span class="navlinks"><a href="/events/index.html">Events</a>&nbsp;|</span> 
-        <span class="navlinks"><a href="http://www.esri.com/careers">Careers</a>&nbsp;|</span> 
-		<span class="navlinks"><a href="/company/index.html">About ESRI</a></span><br> 
-		<span class="navlinks"><a href="http://support.esri.com/">Support</a>&nbsp;|</span>
-		<span class="navlinks"><a href="/training/index.html">Education &amp; Training</a>&nbsp;|</span>
-		<span class="navlinks"><a href="/industries/index.html">Industry Applications</a>&nbsp;|</span>
-		<span class="navlinks"><a href="/partners/index.html">Partner Solutions</a>&nbsp;|</span>
-		<span class="navlinks"><a href="/library/index.html">Library</a></span>
-        <br><br>
-    </td>
-  </tr>
-  <tr>
-          <td align="center" width="660"> 
-       <span class="footer"><a href="/company/copyright.html">Copyright</a></span> 
-       <span class="footer">© ESRI. Send your comments to: <a href="http://gis.esri.com/webmaster/webmaster.cfm">Site Manager</a>. 
-       <br>
-       ESRI Web Site <a href="/company/privacy.html">Privacy Policy</a>.
+<!--text navigation, copyright, date-->
+<br><br>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" background="/graphics/footertile.gif">
+<tbody><tr>
+	<td width="750" nowrap="" class="footerSites">
+	ESRI Web Sites: &nbsp;
+		
+	<img src="/graphics/footerbullet.gif" width="8" height="10" alt="" border="0"><a href="http://www.esribis.com" target="new" class="footerLink"><b>ESRI Business Information Solutions</b></a>&nbsp;&nbsp;
+	<img src="/graphics/footerbullet.gif" width="8" height="10" alt="" border="0"><a href="http://www.geographynetwork.com" target="new" class="footerLink"><b>Geography Network</b></a>&nbsp;&nbsp;
+	<img src="/graphics/footerbullet.gif" width="8" height="10" alt="" border="0"><a href="http://gis.esri.com/intldist/contactint.cfm" class="footerLink"><b>Distributors Worldwide</b></a>
+</td>
+</tr>
+</tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="700">
+<tbody><tr>
+	<td width="40" nowrap="">&nbsp;</td>
+	<td width="660">
+		<div class="footer">
+		    <a href="/index.html">Home</a>&nbsp;|
+			<a href="/products.html">Products</a>&nbsp;|
+		    <a href="/services.html">Services</a>&nbsp;|
+			<a href="/industries.html">Industries</a>&nbsp;|
+			<a href="/user_showcase.html">User Showcase</a>&nbsp;|
+			<a href="/training_events.html">Training &amp; Events</a>&nbsp;|
+			<a href="http://support.esri.com/">Support</a>&nbsp;|
+			<a href="/about_esri.html">About ESRI</a>
+		</div>
+	    <div class="footerSmall">
+			<a href="/company/contact.html">Contact Us</a>&nbsp;|
+			<a href="/site/sitemap.html">Site Map</a>&nbsp;|
+			<a href="/company/privacy.html">Privacy</a>&nbsp;|
+	    	<a href="/company/copyright.html">Copyright © ESRI</a><br>
+		
+			Send comments to: <a href="http://gis.esri.com/webmaster/webmaster.cfm">Site Manager</a>. 
 
 
 <!--date-->
 Last Updated:
 
-Friday, August 30, 2002.
+Monday, October 13, 2003.
 <br><br>
 <!--end date-->
-          </span></td>
+          </div></td>
    </tr>
 </tbody></table>
 <!--end text navigation, copyright, date-->
