@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalhammer.co.uk privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205070735id_/http%3A//metalhammer.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalhammer.co.uk privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607141535id_/http%3A//metalhammer.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Metal Hammer
 
