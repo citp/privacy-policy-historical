@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channel3000.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601182340id_/http%3A//www.channel3000.com/News/976725/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel3000.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203161951id_/http%3A//www.channel3000.com/News/976725/detail.html) for the most accurate reproduction.*
 
 # Channel3000.com - News - Privacy Policy
 
