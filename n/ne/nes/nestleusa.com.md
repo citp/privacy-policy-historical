@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestleusa.com privacy policy that was archived on 2001-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010806110701id_/http%3A//nestleusa.com/customerService/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestleusa.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609182516id_/http%3A//www.nestleusa.com/customerService/privacy_policy.asp) for the most accurate reproduction.*
 
 # Nestlé USA
 
@@ -56,7 +56,7 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 [www.verybestbaby.com](http://www.verybestbaby.com/)  
 [www.verybestbaking.com](http://www.verybestbaking.com/)  
 [www.verybestpet.com](http://www.verybestpet.com/)  
-[www.verybestmeals.com](http://www.verybestmeals.com/)  
+[www.meals.com](http://www.meals.com/)  
 [www.alpo.com](http://www.alpo.com/)  
 [www.buitoni.com](http://www.buitoni.com/)  
 [www.chefsblend.com](http://www.chefsblend.com/)  
