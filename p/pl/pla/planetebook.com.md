@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the planetebook.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619081841id_/http%3A//www.planetebook.com/mainpage.asp%3Fwebpageid%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetebook.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216201342id_/http%3A//planetebook.com/mainpage.asp%3Fwebpageid%3D41) for the most accurate reproduction.*
 
 # Privacy Policy for the BinaryThing.com Web sites
 
 |    
-**Privacy Policy for the BinaryThing.com Web sites**  
+**Privacy Policy for the BinaryThing Web sites**  
 **Date of last update: 25 August 2000**
 
-This policy covers the following Web sites, which together make up the Planet PDF family of sites:   
-
+This policy covers the following Web sites, which together make up the BinaryThing family of sites:
 
   * Planet PDF [http://www.planetpdf.com](http://www.planetpdf.com/)
-  * AcroBuddies [http://www.acrobuddies.com](http://www.acrobuddies.com/)
+  * Planet PDF [http://www.Planet PDF.com](http://www.planet%20pdf.com/)
   * PDF Store [http://www.pdfstore.com](http://www.pdfstore.com/)
-  * Code Cuts [http://www.codecuts.com](http://www.codecuts.com/)
-  * Digital Worm [http://www.digitalworm.com](http://www.digitalworm.com/)
-  * XML Arena [http://www.xmlarena.com](http://www.xmlarena.com/)
-  * BinaryThing.com [http://www.binarything.com](http://www.binarything.com/)
+  * Planet eBook [http://www.planetebook.com](http://www.planetebook.com/)
+  * Planet Markup [http://www.planetmarkup.com](http://www.planetmarkup.com/)
+  * BinaryThing [http://www.binarything.com](http://www.binarything.com/)
 
 
 
@@ -36,8 +34,8 @@ While most information at the sites is freely available, at times we request cer
 We request your personal information -- which may include such things as email address, name, address, telephone number, etc. \-- in exchange for certain activities, including:   
 
 
-  * one-time AcroBuddies, eBook and XML forum access registration (or use Read-Only guest access) 
-  * Planet PDF, Digital Worm and XML Arena Newsletter subscriptions 
+  * one-time Planet PDF, eBook and Markup forum access registration (or use Read-Only guest access) 
+  * Planet PDF, Planet eBook and Planet Markup Newsletter subscriptions 
   * Store purchases 
   * Product demo downloads 
   * Adobe Acrobat Reader downloads 
@@ -46,21 +44,21 @@ We request your personal information -- which may include such things as email a
   * Other interactive components we may add to our sites 
 
   
-In PDF Store, and the coming XML and eBook stores, we require personal credit card information and an accurate email address in order to complete a commercial transaction. (More on purchases in Section D below.) 
+In PDF Store we require personal credit card information and an accurate email address in order to complete a commercial transaction. (More on purchases in Section D below.) 
 
 **B. Use of "cookies"**
 
-The BinaryThing.com sites make use of so-called "cookies," snippets of information that are transferred to the hard drives of users for various purposes. The use of cookies is an industry standard and occurs at most major websites. 
+The BinaryThing sites make use of so-called "cookies," snippets of information that are transferred to the hard drives of users for various purposes. The use of cookies is an industry standard and occurs at most major websites. 
 
-  * BinaryThing.com makes use of a "per-session cookie" (to monitor traffic patterns), which is deleted when the user leaves the site. This cookie in no way identifies the user; its sole purpose being to monitor traffic patterns. Users can disallow this cookie by configuring their Web browser's preferences.
+  * BinaryThing makes use of a "per-session cookie" (to monitor traffic patterns), which is deleted when the user leaves the site. This cookie in no way identifies the user; its sole purpose being to monitor traffic patterns. Users can disallow this cookie by configuring their Web browser's preferences.
   * PDF Store makes use of a "persistent cookie" when users enter their details during the process of downloading a product. The purpose of this cookie is so a user does not need to enter their details when downloading another product. Users can disallow this cookie by configuring their Web browser's preferences.
-  * The discussion forum areas of each site require the use of a cookie to enable users to navigate between pages and participate in discussions. Choosing not to accept this cookie will mean the AcroBuddies Forum will not function correctly.
+  * The discussion forum areas of each site require the use of a cookie to enable users to navigate between pages and participate in discussions. Choosing not to accept this cookie will mean the Planet PDF Forum will not function correctly.
 
 
 
 **C. Use of collected information**
 
-The BinaryThing.com family of Web sites uses the information it gathers for:   
+The BinaryThing family of Web sites uses the information it gathers for:   
 
 
   * developing enhancements to its family of Web sites 
@@ -76,7 +74,7 @@ From time to time, we may directly contact a user about a specific question, pro
 
 **D. Sharing sales data with PDF Store vendors**
 
-As noted previously, the BinaryThing.com family of sites does not sell, rent, swap or otherwise disclose any personal information to other companies or organizations with one exception: PDF Store product sales and demo downloads, with transactions conducted through RegNow.com. RegNow.com is required to adhere to this same policy as regards respecting the privacy of Planet PDF customers.
+As noted previously, the BinaryThing family of sites does not sell, rent, swap or otherwise disclose any personal information to other companies or organizations with one exception: PDF Store product sales and demo downloads, with transactions conducted through RegNow.com. RegNow.com is required to adhere to this same policy as regards respecting the privacy of Planet PDF customers.
 
 The PDF Store shares collected user information with its third-party vendor partners, but ONLY about demo downloads and sales [for registration, tech support, etc] of that specific company's products.
 
@@ -86,12 +84,12 @@ Our sites utilize state-of-the-art security technology to ensure the security, i
 
 **F. Removal from distribution lists, databases**
 
-Subscribers to AcroBuddies and the Planet PDF Newsletter may remove their personal information from our distribution lists as follows:
+Subscribers to Planet PDF and the Planet PDF Newsletter may remove their personal information from our distribution lists as follows:
 
-  * For AcroBuddies: Contact us via email at [buddy@acrobuddies.com](mailto:buddy@acrobuddies.com)
-  * For the XML and eBooks Forums: Contact [info@xmlarena.com](mailto:info@xmlarena.com) or [info@digitalworm.com](mailto:info@digitalworm.com) respectively. 
+  * For Planet PDF: Contact us via email at [info@Planet PDF.com](mailto:info@Planet%20PDF.com)
+  * For the Markup and eBooks Forums: Contact [info@planetmarkup.com](mailto:info@planetmarkup.com) or [info@planetebook.com](mailto:info@planetebook.com) respectively. 
   * Planet PDF Newsletter recipients can cancel their free subscriptions at any time at [http://www.planetpdf.com/mainpage.asp?Web PageID=322](http://www.planetpdf.com/mainpage.asp?WebPageID=322)
-  * If you have a problem, please let us know at [info@planetpdf.com](mailto:info@planetpdf.com), [info@digitalworm.com](mailto:info@digitalworm.com) or [info@xmlarena.com](mailto:info@xmlarena.com). 
+  * If you have a problem, please let us know at [info@planetpdf.com](mailto:info@planetpdf.com), [info@planetebook.com](mailto:info@planetebook.com) or [info@planetmarkup.com](mailto:info@planetmarkup.com). 
 
 
 
@@ -99,11 +97,11 @@ The only way to receive the newsletter is either by directly subscribing from th
 
 **G. Review and Correction**
 
-After logging in to the AcroBuddies Forum, Digital Worm eBook Forum or XML Arena Forum areas Web site, registered forum members can at any time access their User Profiles to make changes. Registered participants also have the option to receive forum messages via email by selecting that option after logging in to the general forum area.
+After logging in to the Planet PDF Forum, Planet eBook eBook Forum or Planet Markup Forum areas Web site, registered forum members can at any time access their User Profiles to make changes. Registered participants also have the option to receive forum messages via email by selecting that option after logging in to the general forum area.
 
 **H. Changes to this policy**
 
-The BinaryThing.com sites reserve the right to change this Privacy Policy at any time by notifying users (through posting an "Update" notice on this Web page and possibly others, and an announcement in the newsletter) of the existence of a new Privacy Policy or any updates. Any significant change in the use of personal information would not be retroactive to include information gathered under a previous policy.
+The BinaryThing sites reserve the right to change this Privacy Policy at any time by notifying users (through posting an "Update" notice on this Web page and possibly others, and an announcement in the newsletter) of the existence of a new Privacy Policy or any updates. Any significant change in the use of personal information would not be retroactive to include information gathered under a previous policy.
 
 **I. Feedback**
 
