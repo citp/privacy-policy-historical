@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedulesource.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211201900id_/http%3A//www.schedulesource.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulesource.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408134400id_/http%3A//www.schedulesource.com/privacy.asp) for the most accurate reproduction.*
 
 # scheduleSource.com - Employee Scheduling Software Online!
 
@@ -7,7 +7,7 @@ Privacy Statement:
   
 
 
-**Optimal Solutions, Inc.** has created this privacy statement in order to demonstrate our firm commitment to not disseminate customer supplied information to others. 
+**scheduleSource, Inc.** has created this privacy statement in order to demonstrate our firm commitment to not disseminate customer supplied information to others. 
 
   
 Our site uses cookies for maintaining a user "session". We use cookies only to distinguish between users currently using the site. We do not use cookies for any other purpose.
@@ -32,7 +32,6 @@ This site gives users the following options for changing and modifying informati
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-_Optimal Solutions, Inc._  
+_scheduleSource, Inc._  
 _P.O. Box 1202_  
-_Nederland, CO 80466-1202_  
-_support@schedulesource.com_
+_Nederland, CO 80466-1202_
