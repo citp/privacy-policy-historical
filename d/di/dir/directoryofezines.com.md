@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryofezines.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208235004id_/http%3A//www.directoryofezines.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofezines.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205011023id_/http%3A//www.directoryofezines.com/privacy.htm) for the most accurate reproduction.*
 
 # EVERY EFFORT HAS BEEN MADE TO ACCURATELY REPRESENT THIS PRODUCT AND IT
 
