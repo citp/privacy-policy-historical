@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211153646id_/http%3A//www.miningaustralia.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602203546id_/http%3A//miningaustralia.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
-# Mining Australia News, Products and Services
+# Mining Australia : Privacy Policy
 
 Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which takes effect in December 2001.
 
