@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204230220id_/http%3A//www.add2it.com/privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205173806id_/http%3A//www.add2it.com/privacy-statement.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for www.add2it.com
 
