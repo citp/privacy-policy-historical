@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the presentationpro.com privacy policy that was archived on 2003-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205053803id_/http%3A//www.presentationpro.com/PrivacyStatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the presentationpro.com privacy policy that was archived on 2004-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040608211332id_/http%3A//www.presentationpro.com/PrivacyStatement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>PresentationPro - The PowerPoint Experts</title>
@@ -63,6 +63,24 @@ document.write('<link rel="stylesheet" href="/main_NS.css" type="text/css">')
 alert("Our site is best view with Netscape 6 and above")
 }
 }
+
+function wPop(u, n, w, h, l, t, f) { 
+var p = window.open(u, n, 'width='+w+',height='+h+',resizable=no,'+f); 
+	if (!p.opener) p.opener = window; 
+	// setup 
+	//p.resizeTo(w, h); 
+	//if (l && t && screen) { 
+	//if (l < 0) l += screen.availWidth/2;// - w; 
+	//if (t < 0) t += screen.availHeight/2;// - h; 
+	var winwidth = screen.width/2; 
+	var winheight = screen.height/2; 
+	var posw = (screen.width - winwidth)/2; 
+	var posv = (screen.height - winheight)/2; 
+	p.moveTo(posw, posv); 
+	//} 
+	p.focus(); 
+	return p; 
+} 
 </script><link rel="stylesheet" href="/main.css" type="text/css">
 
 <!-- End Head Items-->
@@ -88,18 +106,18 @@ alert("Our site is best view with Netscape 6 and above")
 
 <div id="products" class="subnavdivProducts">
   <a class="subsubnavlinkHome" href="/products/Templates_Designs.asp">Templates &amp; Designs</a><br>
-  
+  <a class="subsubnavlinkHome" href="/products/PowerPRESENTER.asp">PowerPRESENTER Suite</a><br>
   <a class="subsubnavlinkHome" href="/products/PowerCONVERTER.asp">PowerCONVERTER</a><br>
   <a class="subsubnavlinkHome" href="/products/EmailPRESENTER.asp">EmailPRESENTER</a><br>
   <a class="subsubnavlinkHome" href="/products/OnlinePRESENTER.asp">OnlinePRESENTER</a><br>
-  <a class="subsubnavlinkHome" href="/products/Additional_Media.asp">Additional Media</a><br>
+  <a class="subsubnavlinkHome" href="/Products/Additional.asp">Additional Resources</a><br>
   <a class="subsubnavlinkHome" href="/CustomServices/">Professional Services</a><br>
  
 </div>
 
 <div id="company" class="subnavdiv"> 
   <a class="subnavlink" href="/company/">Overview</a> 
-  <a class="subnavlink" href="/company/News.asp">News</a> 
+
   <a class="subnavlink" href="/company/Clients.asp">Clients</a> 
   <a class="subnavlink" href="/company/ContactUs.asp">Contact Us</a></div>
 
