@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snow.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203094013id_/http%3A//www.snow.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604235636id_/http%3A//snow.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Snow - Privacy Policy
 
