@@ -1,573 +1,887 @@
-<!--The following is the downloaded HTML source of the batelco.com privacy policy that was archived on 2004-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604110501id_/http%3A//www.batelco.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the batelco.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204162656id_/http%3A//www.batelco.com/preview.asp%3FArticleId%3D366) for the most accurate reproduction.-->
 
 <html><head>
-<title>: Batelco.com :</title>
-<script language="javascript">
-	arrow_off = new Image;
-	arrow_off.src = "/images/readarrow0.gif";
-	arrow_on = new Image;
-	arrow_on.src = "/images/arrow0.gif";
-	
-	function SearchText()
-	{
-		alert("Searching,.,.");
-		document.Header.method="post"
-		document.Header.action="../Search.asp"
-		document.Header.submit
-	}
-					
-	function swapArrow1(currentImg, activeImg)
-		{
-		if (currentImg!=activeImg)
-			{
-			document.images[currentImg].src=arrow_on.src;
-			document.images[activeImg].src=arrow_off.src;
-			}
-		}
-
-	function swapArrow2(currentImg, activeImg)
-		{
-		if (currentImg!=activeImg)
-			{
-			document.images[currentImg].src=arrow_off.src;
-			document.images[activeImg].src=arrow_on.src;
-			}
-		}											
-</script>
-<script language="JavaScript" src="/lib/search.js"></script>
-<!-- <script language="JavaScript" src="/lib/showDate.js"></script> -->
-<!--script language="JavaScript" type="text/JavaScript">
-
-
-var urlArray = new Array(4); //for URL's, increase size as necessary
-var banArray = new Array(4); //for banners, increase size as necessary
-var counter = 1;
-var url = "/mobile/mabrook.asp"; //initial URL
-
-//add your necessary URL's
-//urlArray[0] = "/sponsorship/bic.asp";
-urlArray[0] = "/mobile/mabrook.asp";
-urlArray[1] = "/customer/newcode.asp";
-urlArray[2] = "/promo/lgpromo.asp";
-urlArray[3] = "http://games.inet.com.bh";
-
-
-if(document.images) //pre-load all banner images
-{
-  for(i = 0; i < 4; i++)
-  {
-    banArray[i] = new Image(370, 50);
-    banArray[i].src = "/images/banner" + (i+1) + ".gif";
-  }
-}
-
-function ShowWin(url,type)
-{
-	document.location.href = url;
-}
-
-function changeBanner() //banner changer function
-{
-  if(counter > 3)
-   counter = 0;
-
-  document.banner.src = banArray[counter].src; //sets a new banner
-
-  url = urlArray[counter]; //sets a new URL to the banner
-  counter++; //increase the counter for the next banner
-}
-
-//calls the changeBanner() function every 3 seconds
-//change the timer as necessary (minutes * 60000) or (seconds * 1000)
-var timer = window.setInterval("changeBanner()", 9300);
-
-//></script-->
-<script language="JavaScript1.1">
-var slideimages=new Array()
-var slidelinks=new Array()
-
-function slideshowimages(){
-  for (i=0;i<slideshowimages.arguments.length;i++){
-  slideimages[i]=new Image()
-  slideimages[i].src=slideshowimages.arguments[i]
-  }
-}
-
-function slideshowlinks(){
-  for (i=0;i<slideshowlinks.arguments.length;i++)
-  slidelinks[i]=slideshowlinks.arguments[i]
-}
-
-function gotoshow(){
-  if (!window.winslide||winslide.closed)
-    winslide=window.open(slidelinks[whichlink])
-  else
-    winslide.location=slidelinks[whichlink]
-    winslide.focus()
-}
-//-->
-</script>
-
-
+<title>:: Batelco.com ::</title>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
-<link href="/lib/batelcostyle.css" rel="stylesheet" type="text/css">
-</head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload=" initscroller();"> 
-<form name="Header">
-<center>
-  <table width="742" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr> 
-      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td><table width="100%" height="72" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr> 
-                  <td width="144" align="center" valign="middle"><table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
-                  <tbody><tr> 
-                    <td align="left"><a href="/index.asp"><img src="/images/logo.gif" width="94" height="54" border="0"></a></td>
-                  </tr>
-                </tbody></table></td>
-                  
-                <td width="541" height="65" align="center" valign="middle"><!--<a href="javascript:ShowWin(url,'BannerWin');" target="_top"><img src="/images/banner1.gif" name="banner" vspace="0" border="0" WIDTH="370" HEIGHT="50"></a>--><a href="javascript:gotoshow()"><img src="https://web.archive.org/images/banner1.gif" name="slide" border="0" width="370" height="50"></a><script>
+<script language="JavaScript" src="/lib/newbatelco.js"></script>
+	<script language="JavaScript" src="./js/validation.js"></script>
+	<script>
+		/*function validate1(obj) {
+			searchText = document.forms[0].text1;
+			if (Trim(searchText.value) == "") {
+				alert("Enter the Search Text");
+				searchText.value = "";
+				searchText.focus();
+				return false;
+			}
+			return true;
+		}*/
+		function validate(obj) {			
+			searchText = document.forms["frmSearch1"].text1;
+			if (Trim(searchText.value) == "") {
+				alert("Enter the Search Text");
+				searchText.value = "";
+				searchText.focus();
+				return false;
+			}
+			return true;
+		}
+		function clrtxt() {
+			st = document.forms["frmSearch1"].text1;
+			if (st.value == "Search") {
+				st.value = "";
+			}
+		}		
+	</script>
+
+<script type="text/javascript">
+/***********************************************
+* Pausing updown message scroller- &copy; Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//configure the below five variables to change the style of the scroller
+var scrollerdelay='8000' //delay between msg scrolls. 3000=3 seconds.
+var scrollerwidth='260px'
+var scrollerheight='45px'
+var scrollerbgcolor='#FFFFFF'
+//set below to '' if you don't wish to use a background image
+var scrollerbackground=''
+
+</script>
+
+<link href="/lib/batelco.css" rel="stylesheet" type="text/css">
+<style type="text/css">
 <!--
-//configure the paths of the images, plus corresponding target links
-slideshowimages("/images/banner1.gif", "/images/banner2.gif", "/images/banner3.gif", "/images/banner4.gif")
-slideshowlinks("http://games.inet.com.bh", "http://www.capital.gov.bh/TechKids/", "http://www.batelco.com/promo/lgpromo.asp", "http://www.batelco.com/mobile/mabrook.asp")
-
-//configure the speed of the slideshow, in miliseconds
-var slideshowspeed=8000
-var whichlink=0
-var whichimage=0
-
-function slideit(){
-  if (!document.images)
-    return
-    document.images.slide.src=slideimages[whichimage].src
-    whichlink=whichimage
-
-  if (whichimage<slideimages.length-1)
-    whichimage++
-  else
-    whichimage=0
-    setTimeout("slideit()",slideshowspeed)
+.style1 {color: #FFFFFF}
+.style2 {
+	font-size: 10;
+	font-weight: bold;
 }
-slideit()
-//-->
-</script> </td>
-          <td width="50" height="65" align="right" valign="top">
-  <a href="http://arabic.batelco.com.bh"><img src="/images/arabic.gif" alt="Arabic" width="47" height="21" border="0"></a>
-          </td>
+.style3 {font-size: 12px}
+-->
+</style>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="760" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+    <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="100"><table width="100" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="317" valign="top" bgcolor="D12421"><div align="center" class="style1">
+                <table width="103%" height="100%" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+                    <td height="1"><div align="center" class="style2"><a href="/preview.asp?ArticleId=253"><font color="#FFFFFF">About Us</font></a><span class="style1"> |</span> <font class="style1"><a href="/newslist.asp"><font color="#FFFFFF">News</font></a> | <a href="/preview.asp?ArticleId=423"><font color="#FFFFFF">Contact Us</font></a> | <a href="#"></a><a href="/preview.asp?ArticleId=434"><font color="#FFFFFF">Site Map</font></a> | <a href="/index.asp"><font color="#FFFFFF">Home</font></a> |<span class="style3"> <a href="http://arabic.batelco.com"><font color="#FFFFFF">عربي</font></a></span></font></div></td>
+                  </tr>
+                  <tr>
+                    <td height="100%"><div align="center"></div></td>
+                  </tr>
+                </tbody></table>
+            </div></td>
+            <td width="443" colspan="3" valign="top"><img src="/images/icorner1.gif" width="109" height="46"></td>
+          </tr>
+          <tr>
+            <td valign="top"><table width="317" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td width="173" align="left" valign="bottom" bgcolor="D12421"><a href="/index.asp"><img src="/images/logo.gif" width="85" height="50" hspace="30" border="0"></a></td>
+                  <td><img src="/images/icorner2.gif" width="145" height="61"></td>
                 </tr>
-              </tbody></table></td>
-          </tr>
-          <tr> 
-            <td bgcolor="#CC1B13"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="148"> 
-                  <!--------------------------------------------------------------------------->
-                  <table width="125" height="65" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td width="33" height="13"><img src="/images/arrow0.gif" name="arrow1" width="28" height="13"></td>
-                      <td width="92" height="13"><a class="TopMenu" href="/index.asp" onmouseover="swapArrow1('arrow1', 'arrow1')" onmouseout="swapArrow2('arrow1', 'arrow1')">Home</a></td>
-                    </tr>
-                    <tr> 
-                      <td width="33" height="13"><img src="/images/readarrow0.gif" name="arrow2" width="28" height="13"></td>
-                      <td width="92" height="13"><a class="TopMenu" href="/general/aboutus.asp" onmouseover="swapArrow1('arrow2', 'arrow1')" onmouseout="swapArrow2('arrow2', 'arrow1')">About 
-                        Us</a></td>
-                    </tr>
-                    <tr> 
-                      <td height="13"><img src="/images/readarrow0.gif" width="28" name="arrow3" height="13"></td>
-                      <td height="13"><a class="TopMenu" href="/underconstruction.asp" onmouseover="swapArrow1('arrow3', 'arrow1')" onmouseout="swapArrow2('arrow3', 'arrow1')">Careers</a></td>
-                    </tr>
-                    <tr> 
-                      <td height="13"><img src="/images/readarrow0.gif" width="28" name="arrow4" height="13"></td>
-                      <td height="13"><a class="TopMenu" href="/general/community.asp" onmouseover="swapArrow1('arrow4', 'arrow1')" onmouseout="swapArrow2('arrow4', 'arrow1')">Community</a></td>
-                    </tr>
-                  </tbody></table>
-                  <!--------------------------------------------------------------------------->
-                </td>
-                <td width="541" align="center"><img src="/images/together.gif" width="250" height="28"></td>
-                <td width="50" valign="bottom">&nbsp;</td>
-              </tr>
             </tbody></table></td>
-          </tr>
-          <tr> 
-            <td background="/images/res-bgbtn.gif"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr valign="top"> 
-                <td width="179" height="9"></td>
-                <td width="653" rowspan="2"><table border="0" align="right" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td valign="top"><a href="/index.asp"><img src="/images/home-btn1.gif" width="87" height="29" border="0"></a></td>
-                      <td valign="top"><a href="/residential/index.asp"><img src="/images/home-btn2.gif" width="89" height="29" border="0"></a></td>
-                      <td valign="top"><a href="/business/index.asp"><img src="/images/home-btn3.gif" width="86" height="29" border="0"></a></td>
-                      <td valign="top"><a href="/mobile/index.asp"><img src="/images/home-btn4.gif" width="86" height="29" border="0"></a></td>
-                      <td valign="top"><img src="/images/home-corner.gif" width="9" height="29"></td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-              <tr valign="top">
-                <td width="179"><table width="179" height="31" border="0" cellpadding="0" cellspacing="0" background="../images/bg-cyan.gif" bgcolor="#CEEAEF">
-                    <tbody><tr> 
-                      <td>&nbsp;</td>
-                      <td height="31"><font class="TxtCyan">Search Site: </font></td>
-                      <td height="31"><input class="TxtBox" name="txtKeyword" type="text" onkeypress="SearchTextEnter()" size="10" maxlength="30"></td>
-                      <td width="26" height="31"><input type="image" src="../images/go.gif" width="26" height="31" border="0" onmousedown="SearchText()" id="Button110" name="Button1"></td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-            </tbody></table></td>
+            <td colspan="3" valign="top">&nbsp;</td>
           </tr>
         </tbody></table></td>
-    </tr>
-    <tr> 
-      <td align="center" valign="top"><div align="center"> 
-          <table width="740" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr> 
-              
-        <td width="193" align="left" valign="top">
-				
-<table width="179" border="0" align="left" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td height="10"></td>
-  </tr>
-  <tr> 
-    <td><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td><font class="TxtCyan"><a href="/news.asp">News Room</a></font></td>
-        </tr>
-        <tr> 
-          <td><font class="TxtCyan"><a href="/general/bmec.asp">Batelco Middle 
-            East CO.</a></font></td>
-        </tr>
-        <tr> 
-          <td><font class="TxtCyan"><a href="/general/finance.asp">Financial Highlights</a></font></td>
-        </tr>
-        <tr> 
-          <td><font class="TxtCyan"><a href="/customer/index.asp">Customer Service</a></font></td>
-        </tr>
-        <tr> 
-          <td><font class="TxtCyan"><a href="/sponsorship/index.asp">Our Sponsorships</a></font></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td height="10"><div align="center"></div></td>
-  </tr>
-  <tr> 
-    <td><div align="center"><a href="/mobile/freetime.asp"><img src="/images/newmobpack.gif" width="179" height="64" border="0"></a></div></td>
-  </tr>
-  <tr> 
-    <td height="10"><div align="center"></div></td>
-  </tr>
-  <tr> 
-    <td height="18"><div align="center"> 
-        <table width="179" border="0" cellpadding="0" cellspacing="0" bgcolor="#ADDBE7">
-          <tbody><tr> 
-            <td><img src="/images/news.gif" width="179" height="23"></td>
-          </tr>
-          <tr> 
-            <td><center>
-                
-
-<script>
-
-var textbgcolor="#ADDBE7"
-var textwidth=150
-var textheight=100
-var textborder=0
-var textbordercolor="#ADDBE7 "
-var i_text=0
-var textcontent=""
-var thisspan=""
-var content=""
-var contentbg=""
-var toggle=2
-var timer
-var scrollready=true
-var tablewidth
-var tableheight       
-var step=1       
-var content
-var padding=3
-var textcontentheight
-var ie=document.all?1:0 
-var ns6=document.getElementById&&!document.all?1:0
-var ns4=document.layers?1:0
-
-if (ie || ns6) {
-	document.write('<table cellpadding=0 cellspacing=0 border=0 height='+textheight+' width='+textwidth+'><tr><td>');
-	document.write('<div id="marker" style="position:relative; width:'+textwidth+'; height:'+textheight+'"></div>');
-	document.write('</td></tr></table>')
-	if (ns6) {
-		var tablewidth=textwidth-2*textborder
-		var tableheight=textheight-2*textborder
-	}
-	else {
-		var tablewidth=textwidth
-		var tableheight=textheight
-	}
-	document.write('<div ID="roof" style="position:absolute;width:'+tablewidth+'px;height:'+tableheight+'px;border-style:solid;border-width:'+textborder+'px;border-color:'+textbordercolor+';background-color:'+textbgcolor+';overflow:hidden;visibility:hidden" onMouseOver="setscrollready(0)" onMouseOut="setscrollready(1)">')
-	document.write('<span ID="ticker" style="position:absolute;top:0px;left:0px;visibility:hidden">')
-}
-
-if (ns4) {
-	document.write('<table cellpadding=0 cellspacing=0 border=0 height='+textheight+' width='+textwidth+'><tr><td>');
-	var widthMinusTwoBorder=textwidth-2*textborder
-	var heightMinusTwoBorder=textheight-2*textborder
-	var widthMinusFourBorder=textwidth-4*textborder
-	var heightMinusFourBorder=textheight-4*textborder
-
-}
-
-</script><table cellpadding="0" cellspacing="0" border="0" height="100" width="150"><tbody><tr><td><div id="marker" style="position:relative; width:150; height:100"></div></td></tr></tbody></table><div id="roof" style="position: absolute; width: 150px; height: 100px; border-style: solid; border-width: 0px; border-color: rgb(173, 219, 231); background-color: rgb(173, 219, 231); overflow: hidden; visibility: visible; left: 328px; top: 349px;" onmouseover="setscrollready(0)" onmouseout="setscrollready(1)"><span id="ticker" style="position: absolute; top: 90px; left: 0px; visibility: visible;">
-
-<ilayer name="marker" bgcolor="&amp;{textbordercolor};" width="&amp;{textwidth};" height="&amp;{textheight};"></ilayer><layer name="tickerbg" left="&amp;{textborder};" top="&amp;{textborder};" width="&amp;{widthMinusTwoBorder};" height="&amp;{heightMinusTwoBorder};" bgcolor="&amp;{textbgcolor};" visibility="hide"> 
-</layer><layer name="roof" width="&amp;{widthMinusTwoBorder};" height="&amp;{heightMinusFourBorder};"> 
-<layer name="ticker" visibility="hide" width="&amp;{widthMinusTwoBorder};" left="&amp;{textborder};" top="&amp;{textborder};" onmouseover="setscrollready(0)" onmouseout="setscrollready(1)"> 
-<table cellpadding="3" align="center" width="100%" class="headers1"><tbody><tr><td class="headers1">
-<table cellpadding="0" align="center" width="98%" class="headers1">
-<tbody><tr><td class="headers1" valign="default"><img src="/images/arrow1.gif" width="11" height="8" hspace="1"></td><td class="headers1" valign="top" align="left"><font class="txtWhite1"><a href="/newsdesc.asp?newsid=143" class="txtWhite1">Batelco Engineer Referees Annual Vocational Contest<br></a><a href="/newsdesc.asp?newsid=143" class="TxtCyan"> more.. </a></font><br><br></td></tr><tr><td class="headers1" valign="default"><img src="/images/arrow1.gif" width="11" height="8" hspace="1"></td><td class="headers1" valign="top" align="left"><font class="txtWhite1"><a href="/newsdesc.asp?newsid=141" class="txtWhite1">Batelco  Launches Promotion With LG Mobile <br></a><a href="/newsdesc.asp?newsid=141" class="TxtCyan"> more.. </a></font><br><br></td></tr><tr><td class="headers1" valign="default"><img src="/images/arrow1.gif" width="11" height="8" hspace="1"></td><td class="headers1" valign="top" align="left"><font class="txtWhite1"><a href="/newsdesc.asp?newsid=140" class="txtWhite1">New Website Signed Up to use @ltijara.com Payment Gateway<br></a><a href="/newsdesc.asp?newsid=140" class="TxtCyan"> more.. </a></font><br><br></td></tr></tbody></table>
-</td></tr></tbody></table></layer></layer>
-
-<script>
-if (ns4) {
-	document.write('</td></tr></table>')
-}
-if (ie || ns6) {
-	document.write('</span></div>')
-}
-function doscroll(){
-	if (scrollready) {
-		if(ns4){
-			document.roof.document.ticker.top+=-step;
-			if(document.roof.document.ticker.top<-textcontentheight) {
-				document.roof.document.ticker.top=textheight;
-			}
-		}
-		if (ie) {
-			document.all.ticker.style.posTop+=-step
-			if (document.all.ticker.style.posTop<-textcontentheight) {
-				document.all.ticker.style.posTop=textheight
-			}
-		}
-		if (ns6) {
-		document.getElementById('ticker').style.top=parseInt(document.getElementById('ticker').style.top)-step
-			if (parseInt(document.getElementById('ticker').style.top)<-textcontentheight) {
-				document.getElementById('ticker').style.top=textheight
-			}
-		}
-		timer=setTimeout("doscroll()",50)
-	}
-	else {
-		clearTimeout(timer)
-	}
-}
-
-function DL_GetElementLeft(eElement) {
-    var nLeftPos = eElement.offsetLeft;          
-    var eParElement = eElement.offsetParent;     
-    while (eParElement != null) {                                            
-        nLeftPos += eParElement.offsetLeft;      
-        eParElement = eParElement.offsetParent;  
-    }
-    return nLeftPos;                            
-}
-
-function DL_GetElementTop(eElement) {
-    var nTopPos = eElement.offsetTop;            
-    var eParElement = eElement.offsetParent;     
-    while (eParElement != null) {                                            
-        nTopPos += eParElement.offsetTop;        
-        eParElement = eParElement.offsetParent;  
-    }
-    return nTopPos;                              
-}
-
-function initscroller(){
-	if (ns4) {
-		var thisspan=eval("document.roof.document.ticker")
-		textcontentheight=thisspan.clip.bottom-thisspan.clip.top;
-		document.roof.left=document.marker.pageX
-		document.roof.top=document.marker.pageY+1*textborder
-		document.tickerbg.left=document.marker.pageX+1*textborder
-		document.tickerbg.top=document.marker.pageY+1*textborder
-		document.roof.clip.width=textwidth;
-		document.roof.clip.height=textheight-2*textborder;
-		thisspan.top=textheight;
-		thisspan.clip.width=textwidth;
-		thisspan.clip.height=textcontentheight;
-		document.roof.visibility="show";
-		document.tickerbg.visibility="show";
-		thisspan.visibility="show";
-	}
-	if (ie) {
-		textcontentheight=document.all.ticker.clientHeight
-		document.all.roof.style.posLeft=DL_GetElementLeft(document.all.marker);
-		document.all.roof.style.posTop=DL_GetElementTop(document.all.marker);
-		document.all.ticker.style.posTop=textheight
-		document.all.ticker.style.clip='rect(0px, '+(textwidth-4)+'px, '+(textcontentheight)+'px, 0px)';
-		document.all.roof.style.visibility="visible";
-		document.all.ticker.style.visibility="visible";
-	}
-	if (ns6) {
-		textcontentheight=document.getElementById('ticker').offsetHeight
-		document.getElementById('roof').style.left=DL_GetElementLeft(document.getElementById('marker'));
-		document.getElementById('roof').style.top=DL_GetElementTop(document.getElementById('marker'));
-		document.getElementById('ticker').style.top=-textcontentheight
-		document.getElementById('ticker').clip='rect(0px, '+(textwidth-4)+'px, '+(textcontentheight)+'px, 0px)';
-		document.getElementById('roof').style.visibility="visible";
-		document.getElementById('ticker').style.visibility="visible";
-	}
-	doscroll()
-}
-
-function setscrollready(whatanswer) {
-	if (whatanswer==1) {
-		scrollready=true
-		checkscroll()
-	}
-	else {
-		scrollready=false
-	}
-}
-
-function checkscroll() {
-	clearTimeout(timer)
-	if (scrollready) {
-		doscroll()
-	}
-}
-function reopenpage() {
-	history.go(0)
-}
-window.onresize=reopenpage
-//window.onload=initscroller
-</script></span></div>
-
-       
-              </center></td>
-          </tr>
-          <tr> 
-            <td height="10"><img src="/images/news0.gif" width="179" height="10"></td>
-          </tr>
-        </tbody></table>
-      </div></td>
-  </tr>
-</tbody></table>
-</td><td align="left" valign="top"> <br>
-<img src="/images/stitle-policy.jpg" width="540" height="40">
-<br><br>
-<table width="500" border="0" cellspacing="0" cellpadding="3">
-  <tbody><tr> 
-    <td><font class="TxtBlueHead">Batelco's Privacy Statement for " Batelco Corporate "  </font></td>
+        <td align="right">
+		
+		
+		</td>
+      </tr>
+    </tbody></table></td>
   </tr>
   <tr>
-    <td><p class="TxtGrey"> This privacy statement has been created by " 
-        Batelco Corporate " in order to demonstrate Batelco's firm commitment 
-        to maintain privacy for the user in accordance with their declared preference. 
-        The following discloses the information gathering and dissemination practices 
-        for this Batelco " Batelco Corporate " Portal site:</p>
-      <p class="TxtGrey"><strong>Information Automatically Logged</strong></p>
-      <p class="TxtGrey">Batelco shall use the user's IP address to help diagnose problems with 
-        its server and to administer Batelco's " Batelco Corporate " 
-        Portal site. The user's IP address is also used to help identify the user, 
-        and to gather broad demographic information.<br>
-        <br>
-        <strong>A. Registration Forms </strong></p>
-      <p class="TxtGrey">Batelco's " Batelco Corporate " Portal site registration form(s) 
-        require users to provide Batelco with contact information (for example, 
-        name, email, and postal address), unique identifiers (for example, central 
-        population registration number), and demographic information (for example, 
-        age or income level). <br>
-        <br>
-        <strong>B. Surveys </strong></p>
-      <p class="TxtGrey">Survey's conducted online by Batelco ask visitors for contact information 
-        (for example, email addresses), financial information (for example, account 
-        or credit card numbers), and demographic information (for example, age, 
-        or income level). <br>
-        <br>
-        <strong>C. Contests </strong></p>
-      <p class="TxtGrey">Batelco shall run contests on Batelco's site in which visitors are asked 
-        for contact information (for example, email addresses), financial information 
-        (for example, account or credit card numbers), and demographic information 
-        (for example, age or income level). <br>
-        <br>
-        Contact information from the registration forms and surveys is used to 
-        ship purchases and to provide information to Batelco. The user's contact 
-        information is also used to send promotional material from some of Batelco's 
-        partners to Batelco's users and to contact the user when necessary.</p>
-      <p class="TxtGrey">Users may opt-out of receiving future mailings; see the Choice/opt-out 
-        section below. </p>
-      <p class="TxtGrey">Unique identifiers (such as central population registration numbers) 
-        are collected from Batelco's " Batelco Corporate " Portal site 
-        visitors to verify the user's identity, and for use as account numbers 
-        in our record system.</p>
-      <p class="TxtGrey">Demographic and profile data is collected at the Batelco " Batelco 
-        Corporate " Portal site. This information is shared with advertisers 
-        on an aggregate basis. Batelco shall use this data to tailor the visitor's 
-        experience at Batelco's " Batelco Corporate " Portal site showing 
-        the visitor content that Batelco considers may be of interest and displaying 
-        the content according to the visitor's preferences.</p>
-      <p class="TxtGrey">Financial information collected is used to check the users' qualifications 
-        for registration.</p>
-      <p class="TxtGrey"><strong>External Links</strong></p>
-      <p class="TxtGrey">This site contains links to other sites. " Batelco Corporate " 
-        is not responsible for the privacy practices or the content of such Web 
-        sites.</p>
-      <p class="TxtGrey"><strong>Public Forums </strong></p>
-      <p class="TxtGrey">This site creates chat rooms, forums, message boards, and/or news groups 
-        available to its users. Any information that is disclosed in these areas 
-        becomes public information and caution should be exercised when deciding 
-        to disclose personal information. </p>
-      <p class="TxtGrey"><strong>Security </strong></p>
-      <p class="TxtGrey">This site has security measures in place to protect Batelco from loss, 
-        misuse, and alteration of the information under Batelco's control. Databases 
-        are accessible only to the Webmaster, unless a contest involving a third 
-        party that sponsors prizes, is held. </p>
-      <p class="TxtGrey"><strong>Choice/Opt-Out </strong></p>
-      <p class="TxtGrey">Batelco's site provides users with the option to opt-out of receiving 
-        promotional/marketing information from our partners, and ourselves. Should 
-        this option be chosen, the user may send an email to webmaster@inet.com.bh 
-      </p>
-      <p class="TxtGrey"><strong>Data Quality/Access </strong></p>
-      <p class="TxtGrey">This site gives users the following options for changing and modifying 
-        information previously provided Any change of information by users may 
-        be sent to webmaster@inet.com.bh </p>
-      <p class="TxtGrey">Users may send mail to the following postal address: </p>
-      <p class="TxtGrey"><br>
-        " Batelco Corporate "<br>
-        Batelco<br>
-        PO Box 14 <br>
-        Bahrain </p>
-      <p class="TxtGrey"><strong>Contacting the Web Site </strong></p>
-      <p class="TxtGrey">Should users have any questions with regards to this privacy statement, 
-        the practices of this site, or dealings with this Web site, users may 
-        contact webmaster@inet.com.bh .</p>
-      </td>
-  </tr>
-</tbody></table>
+    <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td valign="top"><table border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td valign="top"><table width="173" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="110" bgcolor="D12421">&nbsp;</td>
+                    <td width="63"><img src="/images/icorner3.gif" width="62" height="26"></td>
+                  </tr>
+                  <tr align="left">
+                    <td colspan="2"><img src="/images/icorner4.gif" width="109" height="47"></td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+            <tr>
+			<td>
+			  	<table height="100" border="0" cellpadding="0" cellspacing="0">
+                  <tbody><tr>
+                    <td><br></td>
+                    <td width="304" valign="bottom"><img src="/images/1pix.gif" width="1" height="10"></td>
+                  </tr>
+                  <tr>
+                    <td width="13">&nbsp;</td>
+                    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          <td width="10" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                              <td width="10"><a style="cursor:pointer" onclick="ShowLayer('divRes', 'res', 'reslyr1')" onmouseover="Swap2('res','res_on', 'divRes')" onmouseout="Swap2('res','res_off', 'divRes')"><img src="/images/mnu-res.gif" name="res" border="0"></a></td>
+                            </tr>
+                            <tr>
+                              <td width="10"><img src="/images/1pix.gif" width="1" height="11"></td>
+                            </tr>
+                            <tr>
+                              <td><a style="cursor:pointer" onclick="ShowLayer('divBus', 'bus')" onmouseover="Swap2('bus','bus_on', 'divBus')" onmouseout="Swap2('bus','bus_off', 'divBus')"><img src="/images/mnu-bus.gif" name="bus" border="0"></a></td>
+                            </tr>
+                            <tr>
+                              <td><img src="/images/1pix.gif" width="1" height="11"></td>
+                            </tr>
+                            <tr>
+                              <td width="10"><a style="cursor:pointer" onclick="ShowLayer('divMob', 'mob')" onmouseover="Swap2('mob','mob_on', 'divMob')" onmouseout="Swap2('mob','mob_off', 'divMob')"><img src="/images/mnu-mob.gif" name="mob" border="0"></a></td>
+                            </tr>
+                          </tbody></table></td>
+                          <td valign="top"> 
+                             <!------- Layer for Residential ----------------------------------------------------->
+                              
+                          <div name="divRes" id="divRes" style="visibility: hidden; position:relative; top: 0px; left: 0px; z-index: 1;"> 
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr> 
+                                <td><a href="/preview.asp?ArticleId=362&amp;mnu=10" onmouseover="Swap('res0','res0_on')" onmouseout="Swap('res0','res0_off')"><img src="/images/mnu-res-0.gif" name="res0" border="0" id="res0"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a style="cursor:pointer" onclick="ShowMenu('reslyr1', 'mnu11', 'res1')" onmouseover="Swap3('res1','res1_on','reslyr1')" onmouseout="Swap3('res1','res1_off','reslyr1')"><img src="/images/mnu-res-1.gif" name="res1" border="0" id="res1"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><div id="reslyr1"></div></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a style="cursor:pointer" onclick="ShowMenu('reslyr2', 'mnu12', 'res2')" onmouseover="Swap3('res2','res2_on','reslyr2')" onmouseout="Swap3('res2','res2_off','reslyr2')"><img src="/images/mnu-res-2.gif" name="res2" border="0" id="res2" width="102" height="14"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><div id="reslyr2"></div></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a style="cursor:pointer" onclick="ShowMenu('reslyr3', 'mnu13', 'res3')" onmouseover="Swap3('res3','res3_on','reslyr3')" onmouseout="Swap3('res3','res3_off','reslyr3')"><img src="/images/mnu-res-3.gif" name="res3" border="0" id="res3" width="113" height="14"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="1"></td>
+                                      <td width="100%"><div id="reslyr3"></div></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                            </tbody></table>
+                          </div>
+                              <!------------------------------------------------------------>
+                              <!------- Layer for Business ----------------------------------------------------->
+                              
+                          <div name="divBus" id="divBus" style="visibility: hidden; position:relative; top: -75px; left: 0px; z-index: 2;"> 
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr> 
+                                <td><a href="/preview.asp?ArticleId=364&amp;mnu=20" onmouseover="Swap('bus0','bus0_on')" onmouseout="Swap('bus0','bus0_off')"><img src="/images/mnu-bus-0.gif" name="bus0" border="0" id="bus0"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a href="/preview.asp?ArticleId=87&amp;mnu=21" onmouseover="Swap('bus1','bus1_on')" onmouseout="Swap('bus1','bus1_off')"><img src="/images/mnu-bus-1.gif" name="bus1" border="0" id="bus1" width="30" height="14"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a href="/preview.asp?ArticleId=135&amp;mnu=22" onmouseover="Swap('bus2','bus2_on')" onmouseout="Swap('bus2','bus2_off')"><img src="/images/mnu-bus-2.gif" name="bus2" border="0" id="bus2" width="60" height="14"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a href="/preview.asp?ArticleId=174&amp;mnu=23" onmouseover="Swap('bus3','bus3_on')" onmouseout="Swap('bus3','bus3_off')"><img src="/images/mnu-bus-3.gif" name="bus3" border="0" id="bus3" width="75" height="14"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a href="/preview.asp?ArticleId=213&amp;mnu=24" onmouseover="Swap('bus4','bus4_on')" onmouseout="Swap('bus4','bus4_off')"><img src="/images/mnu-bus-4.gif" name="bus4" border="0" id="bus4"></a></td>
+                              </tr>
+                            </tbody></table>
+                          </div>
+                              <!------------------------------------------------------------------------------>
+                              <!------- Layer for Mobile ----------------------------------------------------->
+                              
+                          <div name="divMob" id="divMob" style="visibility: hidden; position:relative; top: -169px; left: -1px; z-index: 3;"> 
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr> 
+                                <td><a href="/preview.asp?ArticleId=363&amp;mnu=30" onmouseover="Swap('mob0','mob0_on')" onmouseout="Swap('mob0','mob0_off')"><img src="/images/mnu-mob-0.gif" name="mob0" border="0" id="mob0"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a style="cursor:pointer" onclick="ShowMenu('moblyr1', 'mnu31', 'mob1')" onmouseover="Swap3('mob1','mob1_on','moblyr1')" onmouseout="Swap3('mob1','mob1_off','moblyr1')"><img src="/images/mnu-mob-1.gif" name="mob1" border="0" id="mob1"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><div id="moblyr1"></div></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a style="cursor:pointer" onclick="ShowMenu('moblyr2', 'mnu32', 'mob2')" onmouseover="Swap3('mob2','mob2_on','moblyr2')" onmouseout="Swap3('mob2','mob2_off','moblyr2')"><img src="/images/mnu-mob-2.gif" name="mob2" border="0" id="mob2"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="6"></td>
+                                      <td width="100%"><div id="moblyr2"></div></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                              <tr> 
+                                <td><a style="cursor:pointer" onclick="ShowMenu('moblyr3','mnu33','mob3')" onmouseover="Swap3('mob3','mob3_off','moblyr3')" onmouseout="Swap3('mob3','mob3_off','moblyr3')"><img src="/images/mnu-mob-3.gif" name="mob3" border="0" id="mob3"></a></td>
+                              </tr>
+                              <tr> 
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr> 
+                                      <td background="/images/mnu-sep2.gif" width="15"><img src="/images/1pix.gif" width="15" height="0"></td>
+                                      <td width="100%"><div id="moblyr3"></div></td>
+                                    </tr>
+                                  </tbody></table></td>
+                              </tr>
+                            </tbody></table>
+                          </div>
+                              <!------------------------------------------------------------>
+                          </td>
+                        </tr>
+						
+                    </tbody></table></td>
+                  </tr>
 
-</td></tr></tbody></table> </div></td>
-    </tr>
-    <tr> 
-      <td><div align="center"> 
-      <table width="742" height="30" border="0" cellpadding="0" cellspacing="0">
+   
+                  <tr>
+                    <td width="13">&nbsp;</td>
+                    <td height="10">
+					<div style="position:relative; left:0px; top:-140px; width:194px; height:100px; z-index:1"> 
+                      <table height="55" border="0" cellpadding="0" cellspacing="0">
+                        <tbody><tr> 
+                          <td height="45"><a href="/newslist.asp"><img src="/images/txt-news.gif" width="45" height="14" border="0"></a></td>
+                        </tr>
+                        <tr> 
+                          <td> 
+                            <!------------------------------------------------------->
+                            <!-- Scrolling News Here -------------------------------->
+                            <!------------------------------------------------------->
+                            <script type="text/javascript">
+var messages=new Array()
+messages[0]="<a href='../news.asp?ArticleID=619'>Batelco Sets Sights On Iranian Market</a>"
+messages[1]="<a href='../news.asp?ArticleID=616'>Thirty Batelco Customers Reap Ramadan Prizes</a>"
+messages[2]="<a href='../news.asp?ArticleID=617'>ITU Secretary General Visits Batelco</a>"
+messages[3]="<a href='../news.asp?ArticleID=618'>Batelco Announces New Roaming Agreement With Nigerian Telecoms Giant</a>"
+messages[4]="<a href='../news.asp?ArticleID=614'>Batelco Opens Doors During Eid Holidays</a>"
+</script>
+                            <script type="text/javascript">
+							///////Do not edit pass this line///////////////////////
+							var ie=document.all
+							var dom=document.getElementById
+							
+							if (messages.length>2)
+							i=2
+							else
+							i=0
+							
+							function move1(whichlayer){
+							tlayer=eval(whichlayer)
+							if (tlayer.top>0&&tlayer.top<=5){
+							tlayer.top=0
+							setTimeout("move1(tlayer)",scrollerdelay)
+							setTimeout("move2(document.main.document.second)",scrollerdelay)
+							return
+							}
+							if (tlayer.top>=tlayer.document.height*-1){
+							tlayer.top-=5
+							setTimeout("move1(tlayer)",50)
+							}
+							else{
+							tlayer.top=parseInt(scrollerheight)
+							tlayer.document.write(messages[i])
+							tlayer.document.close()
+							if (i==messages.length-1)
+							i=0
+							else
+							i++
+							}
+							}
+							
+							function move2(whichlayer){
+							tlayer2=eval(whichlayer)
+							if (tlayer2.top>0&&tlayer2.top<=5){
+							tlayer2.top=0
+							setTimeout("move2(tlayer2)",scrollerdelay)
+							setTimeout("move1(document.main.document.first)",scrollerdelay)
+							return
+							}
+							if (tlayer2.top>=tlayer2.document.height*-1){
+							tlayer2.top-=5
+							setTimeout("move2(tlayer2)",50)
+							}
+							else{
+							tlayer2.top=parseInt(scrollerheight)
+							tlayer2.document.write(messages[i])
+							tlayer2.document.close()
+							if (i==messages.length-1)
+							i=0
+							else
+							i++
+							}
+							}
+							
+							function move3(whichdiv){
+							tdiv=eval(whichdiv)
+							if (parseInt(tdiv.style.top)>0&&parseInt(tdiv.style.top)<=5){
+							tdiv.style.top=0+"px"
+							setTimeout("move3(tdiv)",scrollerdelay)
+							setTimeout("move4(second2_obj)",scrollerdelay)
+							return
+							}
+							if (parseInt(tdiv.style.top)>=tdiv.offsetHeight*-1){
+							tdiv.style.top=parseInt(tdiv.style.top)-5+"px"
+							setTimeout("move3(tdiv)",50)
+							}
+							else{
+							tdiv.style.top=parseInt(scrollerheight)
+							tdiv.innerHTML=messages[i]
+							if (i==messages.length-1)
+							i=0
+							else
+							i++
+							}
+							}
+							
+							function move4(whichdiv){
+							tdiv2=eval(whichdiv)
+							if (parseInt(tdiv2.style.top)>0&&parseInt(tdiv2.style.top)<=5){
+							tdiv2.style.top=0+"px"
+							setTimeout("move4(tdiv2)",scrollerdelay)
+							setTimeout("move3(first2_obj)",scrollerdelay)
+							return
+							}
+							if (parseInt(tdiv2.style.top)>=tdiv2.offsetHeight*-1){
+							tdiv2.style.top=parseInt(tdiv2.style.top)-5+"px"
+							setTimeout("move4(second2_obj)",50)
+							}
+							else{
+							tdiv2.style.top=parseInt(scrollerheight)
+							tdiv2.innerHTML=messages[i]
+							if (i==messages.length-1)
+							i=0
+							else
+							i++
+							}
+							}
+							
+							function startscroll(){
+							if (ie||dom){
+							first2_obj=ie? first2 : document.getElementById("first2")
+							second2_obj=ie? second2 : document.getElementById("second2")
+							move3(first2_obj)
+							second2_obj.style.top=scrollerheight
+							second2_obj.style.visibility='visible'
+							}
+							else if (document.layers){
+							document.main.visibility='show'
+							move1(document.main.document.first)
+							document.main.document.second.top=parseInt(scrollerheight)+5
+							document.main.document.second.visibility='show'
+							}
+							}
+							
+							window.onload=startscroll
+							
+						    </script> <ilayer id="main" width="&amp;{scrollerwidth};" height="&amp;{scrollerheight};" bgcolor="&amp;{scrollerbgcolor};" background="&amp;{scrollerbackground};" visibility="hide"> 
+                            <layer id="first" left="0" top="1" width="&amp;{scrollerwidth};" background="&amp;{scrollerbackground};"> 
+                            <script language="JavaScript1.2">
+							if (document.layers)
+							document.write(messages[0])
+							</script>
+                            </layer>
+                            <layer id="second" left="0" top="0" width="&amp;{scrollerwidth};" visibility="hide"> 
+                            <script language="JavaScript1.2">
+							if (document.layers)
+							document.write(messages[dyndetermine=(messages.length==1)? 0 : 1])
+													  </script>
+                            </layer>
+                            </ilayer>
+                            <script language="JavaScript1.2">
+							if (ie||dom){
+							document.writeln('<div id="main2" style="position:relative;width:'+scrollerwidth+';height:'+scrollerheight+';overflow:hidden;background-color:'+scrollerbgcolor+' ;background-image:url('+scrollerbackground+')">')
+							document.writeln('<div style="position:absolute;width:'+scrollerwidth+';height:'+scrollerheight+';clip:rect(0 '+scrollerwidth+' '+scrollerheight+' 0);left:0px;top:0px">')
+							document.writeln('<div id="first2" style="position:absolute;width:'+scrollerwidth+';left:0px;top:1px;">')
+							document.write(messages[0])
+							document.writeln('</div>')
+							document.writeln('<div id="second2" style="position:absolute;width:'+scrollerwidth+';left:0px;top:0px;visibility:hidden">')
+							document.write(messages[dyndetermine=(messages.length==1)? 0 : 1])
+							document.writeln('</div>')
+							document.writeln('</div>')
+							document.writeln('</div>')
+							}
+							</script><div id="main2" style="position:relative;width:260px;height:45px;overflow:hidden;background-color:#FFFFFF ;background-image:url()">
+<div style="position:absolute;width:260px;height:45px;clip:rect(0 260px 45px 0);left:0px;top:0px">
+<div id="first2" style="position: absolute; width: 260px; left: 0px; top: 0px;">
+<a href="../news.asp?ArticleID=619">Batelco Sets Sights On Iranian Market</a></div>
+<div id="second2" style="position: absolute; width: 260px; left: 0px; top: 45px; visibility: visible;">
+<a href="../news.asp?ArticleID=616">Thirty Batelco Customers Reap Ramadan Prizes</a></div>
+</div>
+</div>
+ 
+                            <!------------------------------------------------------->
+                            <!------------------------------------------------------->
+                          </td>
+                        </tr>
+                        <tr> 
+                          <td>&nbsp;</td>
+                        </tr>
+                        <tr> 
+                          <td width="127" height="28" valign="top"><img src="/images/txt-links.gif" width="34" height="18"></td>
+                        </tr>
+                        <tr> 
+                          <td valign="top"> <font class="normal"> <a href="http://www.batelcoeshop.com.bh">Bills 
+                            and Services</a><br>
+                            <a href="/wholesale/index.asp">Wholesale Services</a><br>
+                            <a href="/preview.asp?ArticleId=433">Investor information</a><br>
+                            <a href="/preview.asp?ArticleId=427">Customer Services</a><br>
+                            <a href="/corporate.asp?sid=17">Our sponsorships</a><br>
+                            <a href="/preview.asp?ArticleId=426">Batelco Middle 
+                            East</a><br>
+                            <a href="/ULink.asp?cid=12">Community</a><br>
+                            <a href="http://www.inet.com.bh" target="_blank">Inet 
+                            Portal</a><br>
+                            <a href="http://www.bah-directory.com.bh">Telephone 
+                            Directory</a><br>
+                            <a href="/preview.asp?ArticleId=497&amp;mnu=11">FAQ's</a> </font> 
+                          </td>
+                        </tr>
+                        <tr> 
+                          <td>&nbsp;</td>
+                        </tr>
+                        <tr> 
+                          <td><form name="frmSearch1" method="post" action="SearchResults.asp" onsubmit="return validate();">
+                              <input type="text" name="text1" id="text1" class="txtbox" style="width:96px" value="Search" onclick="clrtxt();">
+                              &nbsp;
+                              <input type="image" src="/images/txt-go.gif" width="17" height="12" align="absmiddle">
+                            </form></td>
+                        </tr>
+                      </tbody></table>
+                    </div>
+					</td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+        </tbody></table></td>
+        <td width="100%" align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td valign="top">
+
+<script language="javascript">
+function printit()
+{  
+  if (window.print)
+    {
+	   window.print() ;
+    }
+}
+function saveit()
+{  
+  document.location.href='temp.asp?Save=true'+"&ArticleId="+document.form1.index.value;
+}
+
+function feedback(val)
+{
+	window.open('SendFeedBack.asp?ArticleID='+val,'feedback','width=500,height=400,left=300,top=200,screenX=400,screenY=400')
+}
+</script>
+
+
+
+<br><table border="0" align="left" width="100%" valign="top">
+  <tbody><tr> 
+    <td><table border="0" cellspacing="0" cellpadding="0" align="center">
+
+		<tbody><tr>
+			<td><a href="./preview.asp?ArticleId=253"><img src="./News_images/title-corporateinfo.gif" border="0"></a><br></td>
+		</tr><tr>
+
+<!--    
+
+		<tr> 
+          <td><br><strong><font color=#D62421>
+            Privacy Statement </font></strong><br>
+                        <br>
+                      </td>
+        </tr>
+
+-->
+
+
+<!--        <tr> 
+          <td></td>
+        </tr>-->
+        </tr><tr> 
+          <td><br><br>
+<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#3b3835" border="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff">
+<table cellspacing="0" cellpadding="0" bgcolor="#3b3835" border="0">
+<tbody>
+<tr valign="bottom">
+<td><img height="17" src="mainart_images/aroows_g%20.gif" width="27"></td>
+<td class="buz" bgcolor="#3b3835" style1="">Privacy Policy</td>
+<td class="buz"><img height="19" src="mainart_images/gen_top.gif" width="20"></td></tr></tbody></table></td></tr>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td valign="top" bgcolor="#3b3835" colspan="3" height="1"></td></tr>
+<tr>
+<td width="1"><img height="245" src="./mainart_images/1pixtrnsspacer.gif" width="1"></td>
+<td valign="top" bgcolor="#ffffff"><br>
+<table cellpadding="0" width="95%" align="center" border="0">
+<tbody>
+<tr>
+<td valign="top"><strong>Batelco’s Privacy Statement 
+for " Batelco Corporate " </strong></td></tr>
+<tr>
+<td valign="top">&nbsp;</td></tr>
+<tr>
+<td valign="top"><strong></strong>
+<p>This privacy statement has been created by " Batelco Corporate " in order to 
+demonstrate Batelco’s firm commitment to maintain privacy for the user in 
+accordance with their declared preference. The following discloses the 
+information gathering and dissemination practices for this Batelco " Batelco 
+Corporate " Portal site:</p>
+<p><strong>Information Automatically Logged</strong></p>
+<p>Batelco shall use the user’s IP address to help diagnose problems with its 
+server and to administer Batelco’s " Batelco Corporate " Portal site. The user’s 
+IP address is also used to help identify the user, and to gather broad 
+demographic information.<br><br><strong>A. Registration Forms </strong></p>
+<p>Batelco’s " Batelco Corporate " Portal site registration form(s) require 
+users to provide Batelco with contact information (for example, name, email, and 
+postal address), unique identifiers (for example, central population 
+registration number), and demographic information (for example, age or income 
+level). <br><br><strong>B. Surveys </strong></p>
+<p>Survey’s conducted online by Batelco ask visitors for contact information 
+(for example, email addresses), financial information (for example, account or 
+credit card numbers), and demographic information (for example, age, or income 
+level). <br><br><strong>C. Contests </strong></p>
+<p>Batelco shall run contests on Batelco’s site in which visitors are asked for 
+contact information (for example, email addresses), financial information (for 
+example, account or credit card numbers), and demographic information (for 
+example, age or income level). <br><br>Contact information from the registration 
+forms and surveys is used to ship purchases and to provide information to 
+Batelco. The user’s contact information is also used to send promotional 
+material from some of Batelco’s partners to Batelco’s users and to contact the 
+user when necessary.</p>
+<p>Users may opt-out of receiving future mailings; see the Choice/opt-out 
+section below. </p>
+<p>Unique identifiers (such as central population registration numbers) are 
+collected from Batelco’s " Batelco Corporate " Portal site visitors to verify 
+the user’s identity, and for use as account numbers in our record system.</p>
+<p>Demographic and profile data is collected at the Batelco " Batelco Corporate 
+" Portal site. This information is shared with advertisers on an aggregate 
+basis. Batelco shall use this data to tailor the visitor’s experience at 
+Batelco’s " Batelco Corporate " Portal site showing the visitor content that 
+Batelco considers may be of interest and displaying the content according to the 
+visitor’s preferences.</p>
+<p>Financial information collected is used to check the users’ qualifications 
+for registration.</p>
+<p><strong>External Links</strong></p>
+<p>This site contains links to other sites. " Batelco Corporate " is not 
+responsible for the privacy practices or the content of such Web sites.</p>
+<p><strong>Public Forums </strong></p>
+<p>This site creates chat rooms, forums, message boards, and/or news groups 
+available to its users. Any information that is disclosed in these areas becomes 
+public information and caution should be exercised when deciding to disclose 
+personal information. </p>
+<p><strong>Security </strong></p>
+<p>This site has security measures in place to protect Batelco from loss, 
+misuse, and alteration of the information under Batelco’s control. Databases are 
+accessible only to the Webmaster, unless a contest involving a third party that 
+sponsors prizes, is held. </p>
+<p><strong>Choice/Opt-Out </strong></p>
+<p>Batelco’s site provides users with the option to opt-out of receiving 
+promotional/marketing information from our partners, and ourselves. Should this 
+option be chosen, the user may send an email to webmaster@inet.com.bh </p>
+<p><strong>Data Quality/Access </strong></p>
+<p>This site gives users the following options for changing and modifying 
+information previously provided Any change of information by users may be sent 
+to <a href="mailto:webmaster@inet.com.bh">webmaster@inet.com.bh</a> </p>
+<p><strong>Users may send mail to the following postal address: </strong></p>
+<p>" Batelco Corporate "<br>Batelco <br>PO Box 14 <br>Bahrain </p>
+<p><strong>Contacting the Web Site </strong></p>
+<p>Should users have any questions with regards to this privacy statement, the 
+practices of this site, or dealings with this Web site, users may contact <a href="mailto:">webmaster@inet.com.bh</a> .</p></td></tr>
+<tr>
+<td>&nbsp;</td></tr></tbody></table></td>
+<td width="1"><img height="1" src="./mainart_images/1pixtrnsspacer.gif" width="1"></td></tr></tbody></table></td></tr>
+<tr>
+<td></td></tr></tbody></table>
+<p>&nbsp; </p></td>
+        </tr>
+        <tr>
+                      <td align="right"><br>
+                        <!--table width="418" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="18"><a href="javascript: history.back(-1)">Back</a></td>
+                <td width="400" align="right">
+                  <!--<a href="javascript:saveit()">Save</a> 
+                  <a href = "#" onClick = "feedback(366)">FeedBack</a> 
+                  | <a href="javascript:printit()">Print</a> | 
+                  <SCRIPT LANGUAGE="JavaScript">
+    <!--
+      function isPPC()
+      {
+        if (navigator.appVersion.indexOf("PPC") != -1) return true;
+        else return false;
+      }
+        if(isPPC())
+        {
+         document.write('<A HREF=\"mailto:\?subject\=Take a look at this page I found, ' + document.title + '?body=You can see this page at: ' + window.location + '\" onMouseOver="window.status=\'Send your friends e-mail about this page\'; return true" TITLE="Send your friends e-mail about this page">tell a friend<\/A>');
+        }
+         else
+        {
+          document.write('<A HREF=\"mailto:\?body\=Take a look at this page I found, ' + document.title + '. You can see this page at: ' + window.location + '\" onMouseOver="window.status=\'Send your friends e-mail about this page\'; return true" TITLE="Send your friends e-mail about this page">tell a friend<\/A>');
+        }
+    //
+    </script></td>
+              </tr>
+            </table-->
+            <br>
+          </td>
+        </tr>
+		<tr> 
+    <td align="right"> <form name="form1">
+        <input type="hidden" name="index" value="366">
+        <!--       <input type=button value=Close name=btClose onclick=window.close()>-->
+      </form></td>
+  </tr>
+      </tbody></table></td>
+  </tr>
+  
+</tbody></table>
+<!-- Resedintial - Telephone Services Map ---->
+
+<map name="mnu11">
+
+<area shape="rect" coords="2,2,52,12" href="/preview.asp?ArticleId=568&amp;mnu=11">
+<area shape="rect" coords="1,17,64,28" href="/preview.asp?ArticleId=38&amp;mnu=11">
+<area shape="rect" coords="-1,32,69,45" href="/preview.asp?ArticleId=37&amp;mnu=11">
+<area shape="rect" coords="0,50,70,64" href="/preview.asp?ArticleId=39&amp;mnu=11">
+<area shape="rect" coords="1,66,18,79" href="/preview.asp?ArticleId=40&amp;mnu=11">
+<area shape="rect" coords="2,84,62,98" href="/preview.asp?ArticleId=41&amp;mnu=11">
+<area shape="rect" coords="-1,100,23,113" href="/preview.asp?ArticleId=44&amp;mnu=11">
+<area shape="rect" coords="2,116,54,132" href="/preview.asp?ArticleId=45&amp;mnu=11">
+<area shape="rect" coords="0,135,45,146" href="/preview.asp?ArticleId=48&amp;mnu=11">
+
+</map>
+
+<!-- Resedintial - Internet Services Map ---->
+
+<map name="mnu12">
+
+  <area shape="rect" coords="0,1,42,13" href="/preview.asp?ArticleId=9&amp;mnu=12">
+
+  <area shape="rect" coords="0,16,49,28" href="/preview.asp?ArticleId=10&amp;mnu=12">
+
+  <area shape="rect" coords="0,33,45,45" href="/preview.asp?ArticleId=11&amp;mnu=12">
+
+  <area shape="rect" coords="1,50,62,62" href="/preview.asp?ArticleId=12&amp;mnu=12">
+
+  <area shape="rect" coords="0,68,74,79" href="/preview.asp?ArticleId=13&amp;mnu=12">
+
+  <area shape="rect" coords="1,84,29,97" href="/preview.asp?ArticleId=14&amp;mnu=12">
+
+  <area shape="rect" coords="-1,102,68,114" href="/preview.asp?ArticleId=15&amp;mnu=12">
+
+  <area shape="rect" coords="1,118,64,130" href="/preview.asp?ArticleId=16&amp;mnu=12"> <area shape="rect" coords="0,136,56,146" href="http://www.inet.com.bh" target="_blank"> 
+
+</map>
+
+<!-- Resedintial - Lyality & Rewards Map ---->
+
+<map name="mnu13">
+
+  <area shape="rect" coords="0,1,88,11" href="/xchange/index.asp?mnu=13">
+
+  <area shape="rect" coords="0,16,47,26" href="/preview.asp?ArticleID=63">
+
+</map>
+
+<!-- Mobile - Batelco Mobile Map ---->
+
+<map name="mnu31">
+
+  <area shape="rect" coords="0,-2,46,11" href="/preview.asp?ArticleId=51&amp;mnu=31">
+
+  <area shape="rect" coords="-1,16,51,28" href="/preview.asp?ArticleId=54&amp;mnu=31">
+
+  <area shape="rect" coords="0,33,113,46" href="/preview.asp?ArticleId=57&amp;mnu=31">
+
+  <area shape="rect" coords="0,51,95,63" href="/preview.asp?ArticleId=58&amp;mnu=31">
+
+  <area shape="rect" coords="-1,66,38,79" href="/preview.asp?ArticleId=59&amp;mnu=31">
+
+  <area shape="rect" coords="-1,84,84,97" href="/preview.asp?ArticleId=59&amp;mnu=31">
+
+</map>
+
+
+
+
+
+<!-- Mobile - Mobile Services Map ---->
+
+<map name="mnu32">
+
+  <area shape="rect" coords="-2,1,29,11" href="/preview.asp?ArticleId=64&amp;mnu=32">
+
+  <area shape="rect" coords="0,16,55,28" href="/preview.asp?ArticleId=68&amp;mnu=32">
+
+  <area shape="rect" coords="0,34,67,47" href="/preview.asp?ArticleId=82&amp;mnu=32">
+
+  <area shape="rect" coords="1,50,102,63" href="/mobile/index.asp?mnu=32"> <area shape="rect" coords="0,66,40,81" href="http://www.infome.com.bh/infome/" target="_blank">
+  <area shape="rect" coords="0,83,73,94" href="/preview.asp?ArticleId=72&amp;mnu=32">
+
+</map>
+
+
+<!-- Mobile - Batelco customerservice Map ---->
+<map name="mnu33">
+  <area shape="rect" coords="0,1,56,13" href="/preview.asp?articleid=86&amp;mnu=33">
+  <area shape="rect" coords="0,16,32,29" href="/preview.asp?ArticleId=499&amp;mnu=33">
+  <area shape="rect" coords="1,33,76,46" href="http://www.batelcoeshop.com.bh" target="_blank">
+</map>
+
+<!-- Mobile - Shop finder-->
+<map name="shopfind" id="shopfind">
+  <area shape="rect" coords="273,50,340,61" href="/preview.asp?ArticleId=431&amp;mnu=33#alawi">
+  <area shape="rect" coords="391,87,447,106" href="/preview.asp?ArticleId=431&amp;mnu=33#sitrah">
+  <area shape="rect" coords="258,99,336,112" href="/preview.asp?ArticleId=431&amp;mnu=33#hamad">
+  <area shape="rect" coords="219,123,281,139" href="/preview.asp?ArticleId=431&amp;mnu=33#riffa">
+  <area shape="rect" coords="201,65,256,80" href="/preview.asp?ArticleId=431&amp;mnu=33#isa">
+  <area shape="rect" coords="194,35,263,50" href="/preview.asp?ArticleId=431&amp;mnu=33#isa">
+  <area shape="rect" coords="192,1,292,15" href="/preview.asp?ArticleId=431&amp;mnu=33#gosi">
+</map>
+<map name="shopfinder" id="shopfinder">
+  <area shape="rect" coords="228,167,255,178" href="/preview.asp?ArticleId=431&amp;mnu=33#gosi">
+  <area shape="rect" coords="160,149,221,162" href="/preview.asp?ArticleId=431&amp;mnu=33#bahrain">
+  <area shape="rect" coords="209,135,256,147" href="/preview.asp?ArticleId=431&amp;mnu=33#seef">
+  <area shape="rect" coords="81,149,133,162" href="/preview.asp?ArticleId=431&amp;mnu=33#budaiya">
+  <area shape="rect" coords="273,152,359,163" href="/preview.asp?ArticleId=431&amp;mnu=33#batelco">
+  <area shape="rect" coords="306,139,326,154" href="/preview.asp?ArticleId=431&amp;mnu=33#batelco">
+  <area shape="rect" coords="263,89,326,102" href="/preview.asp?ArticleId=431&amp;mnu=33#manama">
+  <area shape="rect" coords="260,58,344,72" href="/preview.asp?ArticleId=431&amp;mnu=33#muharraq">
+  <area shape="rect" coords="293,40,356,57" href="/preview.asp?ArticleId=431&amp;mnu=33#muharraq">
+  <area shape="rect" coords="409,31,471,73" href="/preview.asp?ArticleId=431&amp;mnu=33#airport">
+</map><script language="JavaScript">
+
+</script></td>
+<td><img src="/images/1pix.gif" width="1" height="30"></td>
+          </tr>
+        </tbody></table>        
+          </td>
+      </tr>
+    </tbody></table></td>
+  </tr><tr><td>
+<div style="position:relative; left:0px;  width:760px; height:62px; z-index:1"> 
+      <!--top:-100px;-->
+      <table width="760" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr> 
-          <td width="193" align="center" bgcolor="#34A7DC"><font class="TxtFooterMenu">Batelco 
-            2004 © All rights reserved</font></td>
-          <td width="12" background="/images/backfooter.gif"><img src="/images/cornerfoter.gif" width="12" height="30"></td>
-          <td background="/images/backfooter.gif" align="center"><font class="TxtFooterMenu"><a href="/terms.asp" class="TxtFooterMenu">Terms 
-            and Conditions</a> | <a href="/privacy.asp" class="TxtFooterMenu">Privacy 
-            Policy</a> | <a href="/disclaimer.asp" class="TxtFooterMenu">Disclaimer</a> 
-            | <a href="/contactus.asp" class="TxtFooterMenu">Contact Us</a> 
-            | <a href="/sitemap.asp" class="TxtFooterMenu">Site Map</a></font></td>
+          <td><table width="100%" cell="" spacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="253" valign="bottom"> <a href="/preview2.asp?ArticleID=261&amp;cpt=1"><img src="/images/bahrain.gif" width="179" height="53" border="0"></a></td>
+                <td width="254" valign="bottom"><div align="center"><a href="/preview.asp?ArticleId=254#cable"><img src="/images/bat%20_CW.gif" width="147" height="52" border="0"></a> 
+                  </div></td>
+                <td width="253" align="right"><a href="/preview2.asp?ArticleID=259&amp;cpt=1"><img src="/images/bic-0fflogo.gif" height="75" border="0"></a></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td height="1" bgcolor="D12421"><img src="/images/1pix.gif" width="1" height="1"></td>
+        </tr>
+        <tr> 
+          <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr> 
+                <td width="13"><img src="/images/1pix.gif" width="13" height="8"></td>
+                <td width="400" valign="bottom"><font class="red">Bahrain Telecommunications 
+                  Company 2004 © All rights reserved </font> </td>
+                <td width="182" valign="bottom"><div align="right"><font class="footer"><a href="/preview.asp?ArticleId=365" class="footer">Terms 
+                    and Conditions</a></font></div></td>
+                <td width="92" valign="bottom"><div align="right"><font class="footer"><a href="/preview.asp?ArticleId=366" class="footer">Privacy 
+                    Policy</a></font></div></td>
+                <td width="73" valign="bottom"><div align="right"><font class="footer"><a href="/preview.asp?ArticleId=367" class="footer">Disclaimer</a></font></div></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td height="15"></td>
         </tr>
       </tbody></table>
-    </div></td>
-    </tr>
-  </tbody></table>
+    </div></td></tr>
   
-</center>
+</tbody></table>
 
 
-</form></body></html>
+
+
+</body></html>
