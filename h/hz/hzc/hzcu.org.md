@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hzcu.org privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618034030id_/http%3A//www.hzcu.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hzcu.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206084852id_/http%3A//hzcu.org/privacy/index.html) for the most accurate reproduction.*
 
 # Horizon CU - Member Services - Horizon Credit Union's Privacy Policy And Confidentiality Of Member Information
 
