@@ -1,75 +1,71 @@
-> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208114228id_/http%3A//www.aveeno.com/aveeno/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404100201id_/http%3A//www.aveeno.com/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Welcome to the AVEENO® Body Care, AVEENO® Facial Care and AVEENO® Baby Care Website
+# AVEENO® Privacy Policy
 
-  
-
+**Privacy Policy**
 
 **Welcome**  
-Welcome to Aveeno.com! This site is owned by Johnson & Johnson Consumer Products Company, division of Johnson & Johnson Consumer Companies, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. This site is intended for use by residents of the United States. 
+Welcome to the AVEENO website. This site is owned by Johnson & Johnson Consumer Products Company, division of Johnson & Johnson Consumer Companies, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
 
 **Your Consent**  
-By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
+By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
 
 **About Children**  
-This site is not intended for children under the age of 13. We will not knowingly collect information from site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites. 
+This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Websites. 
 
-**Active Information Collection**  
-Like many Web sites, this site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via e-mail and feedback forms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number, and so on). 
-
-Some areas of this site may require you to submit information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, order processing) or to participate in a particular activity (such as sweepstakes or other promotions). You will be informed at each information collection point what information is required and what information is optional. 
+**Information You Provide**  
+Some areas of this site may ask you to submit personally identifiable information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, or order processing) or to participate in a particular activity (such as sweepstakes or other promotions). You will be informed what information is required and what information is optional. 
 
 **Passive Information Collection**  
-As you navigate through a Web site, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies and means, such as Internet Protocol addresses, cookies, Internet tags, and navigational data collection. 
+As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies. 
 
-This site uses Internet Protocol (IP) addresses. An IP Address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). We use your IP address to diagnose problems with our server, report aggregate information, determine the fastest route for your computer to use in connecting to our site, and administer and improve the site. 
+This site may use and combine such passively collected anonymous information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve the site for your use. Such information is not combined with personally identifiable information collected elsewhere on the site unless you have consented. 
 
-A **"cookie"** is a bit of information that a Web site sends to your Web browser that helps the site remember information about you and your preferences. 
+A "cookie" is a bit of information that a website sends to your Web browser that helps the site remember information about you and your preferences. 
 
-**"Session"** cookies are temporary bits of information that are erased once you exit your Web browser window or otherwise turn your computer off. Session cookies are used to improve navigation on Web sites and to collect aggregate statistical information. This site uses session cookies. 
+"Session" cookies are temporary bits of information that are used to improve navigation, block visitors from providing information where inappropriate (the site "remembers" previous entries of age or country of origin that were outside the specified parameters and blocks subsequent changes), and collect aggregate statistical information on the site. They are erased once you exit your Web browser or otherwise turn off your computer. 
 
-**"Persistent"** cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (e.g., passwords), helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site based on your preferences. This site uses persistent cookies. 
+"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (such as passwords), helping to determine what areas of the website visitors find most valuable, and customizing the website based on your preferences on an ongoing basis. Persistent cookies placed by this site on your computer may hold personally identifiable information, but only if you have registered or have otherwise consented to the retention of personally identifiable information you have provided at the site. Otherwise, our site's server only knows that an unidentified visitor with your cookie has returned to the site. 
 
-**"Internet tags"** (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web site server information such as the IP address and browser type related to the visitor's computer. We do not use "Internet tags" at this site. 
+You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the "Help" portion of your browser. 
 
-**"Navigational data"** ("log files," "server logs," and "clickstream" data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors. This site uses navigational data. 
+A site may use Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a site, and administer and improve the site. 
+
+"Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the website server information such as the IP address and browser type related to the visitor's computer. Tags may be placed both on online advertisements that bring people to the site and on different pages of the site. Such tags indicate how many times a page is opened and which information is consulted. 
+
+"Navigational data" (log files, server logs, and clickstream data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors. 
 
 **Use and Disclosure of Information**  
-Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Privacy Policy. 
+Except as otherwise stated, we may use information collected via this site to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for any other purpose specified. In addition, we may make full use of all information acquired through this site that is not in personally identifiable form. 
 
-If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We will take reasonable measures to prevent personally identifiable information from being combined with passively collected information, unless you consent otherwise. 
+If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We may disclose personally identifiable information you provide via this site to other Johnson & Johnson affiliates worldwide that agree to treat it in accordance with this Privacy Policy and use it for the same purposes. We also may disclose personally identifiable information you provide via this site to third parties that are not Johnson & Johnson affiliates, but only: 
 
-We may disclose your personally identifiable information to other Johnson & Johnson affiliates worldwide that agree to treat it in accordance with this Privacy Policy. In addition, we may disclose your personally identifiable information to third parties, located in the United States and/or any other country, but only 
+(i) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; 
 
-  1. to contractors we use to support our business (e.g., fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy;
-  2. in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy; or
-  3. where required by applicable laws, court orders, or government regulations.
+(ii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or 
 
-In addition, we will make full use of all information acquired through this site that is not in personally identifiable form. 
+(iii) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations. 
 
-**Access and Correction**  
-To keep your personally identifiable information accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this site. 
+The collection, use, and disclosure of information contemplated in this Privacy Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personally identifiable information. In these cases, you will be asked to consent to such transfers and disclosures in accordance with this Privacy Policy. 
+
+**Access, Correction, and Deletion**  
+To keep personally identifiable information that you provide via this site accurate, current, and complete, please contact us as specified below and we will take appropriate steps to update or correct such information in our possession, or to delete your information from our contact list. 
 
 **Security**  
-We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, e-mail sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them. 
+This site takes reasonable steps to protect personally identifiable information as you transmit it to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, e-mail sent to or from this site may not be secure. 
 
-**Links to Other Web Sites**  
-This site may contain links or references to other Web sites. Please be aware that we do not control other Web sites and that, in any case, this Privacy Policy does not apply to those Web sites. We encourage you to read the privacy policy of every Web site you visit. 
-
-**Other Terms**  
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20041208114228id_/http%3A//www.aveeno.com/aveeno/legal.html). 
+**Links to Other Websites**  
+This site may contain links or references to other websites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every website you visit. 
 
 **How to Contact Us**  
-If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows: 
+If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, please contact us as follows: 
 
-McNeil-PPC, Inc.  
+Johnson & Johnson Consumer Products Company  
 Attn: Information Center  
 199 Grandview Road  
 Skillman, NJ 08558-9418  
-1-888-638-5242 
+1-888-638-5242
 
 **Changes to This Privacy Policy**  
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on August 7, 2002. 
-
-  
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 12, 2003.  
 
