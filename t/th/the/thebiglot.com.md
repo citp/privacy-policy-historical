@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607220709id_/http%3A//thebiglot.com/privacy.asp%3Fgc%3D%26gcdc%3D7654%26tcsi%3D%26fr%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207205408id_/http%3A//www.thebiglot.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,25 +8,25 @@
   
 **Privacy Policy**  
   
-TheBigLot.com is a classified service provided by Independent Systems, LLC.  Independent Systems, LLC established TheBiglot.com as a means for customers to achieve unprecedented online exposure for their vehicle, while at the same time having access to unparalleled customer service. TheBigLot.com recognizes and understands your concerns about privacy and the use of your personal information.  This Privacy Policy is intended to summarize the privacy practices of the [www.thebiglot.com](http://www.thebiglot.com/). 
+TheBigLot.com is a classified service provided by Adventis, Inc.  Adventis, Inc. established TheBiglot.com as a means for customers to achieve unprecedented online exposure for their vehicle, while at the same time having access to unparalleled customer service. TheBigLot.com recognizes and understands your concerns about privacy and the use of your personal information.  This Privacy Policy is intended to summarize the privacy practices of the [www.thebiglot.com](http://www.thebiglot.com/). 
 
-**Personal Information from Customers and Visitors**
+**Personal Information from Visitors**
 
-In order to facilitate the sale of vehicles online, it is imperative that the seller's personal information is collected.  Personal information on TheBiglot.com falls into two distinct categories: 1) personal information that visitors volunteer and 2) tracking information that does not identify you as an individual but that assists us in tracking affiliate referrals.
+In order to facilitate the sale of vehicles and related services online, it is imperative that personal information is collected. Personal information on TheBiglot.com falls into two distinct categories: 1) personal information that visitors volunteer and 2) tracking information that does not identify you as an individual but that assists us in tracking affiliate referrals.
 
-When filling out the online order form on TheBigLot.com, visitors volunteer personal information.  "Personal information" includes name, address, telephone number, e-mail address, and specific vehicle information.  Personal information is used for three main purposes: 1) as contact information for anyone interested in purchasing a vehicle; 2) to help us provide fulfillment services in connection with goods and services ordered by you; and 3) to offer more information about our service.  Thus, as a customer of TheBigLot.com, you will be contacted by potential buyers.  We may also contact you about your account and/or send you information directly related to the purpose for which you have registered.  As a visitor to TheBigLot.com, any contact information volunteered by you may be used to offer more information about our service.  We will not sell contact information to unaffiliated third parties without express permission.  However, customers must understand that when posting an ad on the Internet, your information is available to anyone.  We cannot control how potential buyers or businesses use your contact information.  If a business calls you about your vehicle and you're not interested in their service, tell them: "Put me on your Do Not Call list" and hang up.  If a business e-mails you and you're not interested, DO NOT RESPOND to the e-mail.  Do not even respond to request the removal of your name from their mailing list.  Many companies send out e-mails just to verify that you have a legitimate e-mail address. 
+When filling out an ad or form on TheBigLot.com, visitors must volunteer personal information. "Personal information" may include name, address, telephone number, e-mail address, and specific vehicle information. Personal information is used for three main purposes: 1) as contact information for anyone interested in purchasing a vehicle; 2) to help us provide fulfillment services in connection with goods and services ordered by you; and 3) to offer more information about our service. Thus, as a customer of TheBigLot.com, you will be contacted by potential buyers. We may contact you about your account or send you information directly related to the purpose for which you have registered. As a visitor to TheBigLot.com, the contact information you volunteer may be used by TheBigLot.com or its affiliates to offer you more information about our services. In particular, please understand that when seeking a quote on a new vehicle your contact information will be forwarded to both an affiliate and dealerships to fulfill your request for information. 
 
-As a customer, your personal information will continue to be available on the Internet until you notify us to cancel your ad.  You may discontinue your ad by calling us at 1 (800) 430-1965 ( _Please note that refund requests must be submitted in writing_ ) or writing to: 
+As a customer, you must understand your information is available to everyone when posting an ad on the Internet. We cannot control how potential buyers or businesses use your contact information. If a business calls you about your vehicle and you're not interested in their service, tell them: "Put me on your Do Not Call list" and hang up. If a business e-mails you and you're not interested, DO NOT RESPOND to the e-mail. Do not even respond to request the removal of your name from their mailing list. Many companies send out e-mails just to verify that you have a legitimate e-mail address. You also need to remember that your personal information will continue to be available on the Internet until you notify us to cancel your ad. You may discontinue your ad by calling us at 1 (800) 430-1965 ( _Please note that refund requests must be submitted in writing_ ) or writing to: 
 
-Independent Systems, LLC  
+Adventis Inc.  
 Attn: Customer Care  
-103 W Campbell Ave  
+P.O. Box 1671  
 Roanoke, VA  
-24011  
+24008  
 
 
 
-If you wish to obtain a hard copy of the personal information contained in your ad, contact our Customer Care department at 1 (800) 430-1965, ext. 2 and request that we fax you a copy of the information.
+If you wish to obtain a hard copy of the personal information contained in your ad, contact our Customer Care department at 1 (800) 430-1965, ext. 2 and request that we fax you a copy of the information. 
 
 **Amending Personal Information**
 
@@ -58,7 +58,7 @@ The security of the information you provide to TheBigLot.com is important to us.
 
 **Possible Future Uses of Information**
 
-In the unlikely event that the assets of Independent Systems, LLC and TheBigLot.com are acquired by another company, information on our customers/visitors would be among the transferred assets. 
+In the unlikely event that the assets of Adventis, Inc. and TheBigLot.com are acquired by another company, information on our customers/visitors would be among the transferred assets. 
 
 TheBigLot.com reserves the right to change our Privacy Policy as business needs require.  Any changes will be posted to our website in a timely manner, and will become effective upon posting.  This statement and the policies outlined here are not intended to and do not give you any contractual or other legal rights.  To the extent not contradicted by this Privacy Policy, this Privacy Policy also incorporates the provisions of our User Agreement.
 
@@ -66,4 +66,4 @@ TheBigLot.com reserves the right to change our Privacy Policy as business needs 
 
 If you have any questions, concerns, or suggestions regarding our Privacy Policy, please contact our Operations Manager directly at 1-800-430-1965, ext. 139, or e-mail at info@thebiglot.com. 
 
-For any other questions, please contact our Customer Care department at 1-800-430-1965, ext. 2, or e-mail at info@thebiglot.com.  Our Customer Care hours of operation are Monday through Thursday 9:00 a.m. to 9:00 p.m., Friday 9:00 a.m. to 6:00 p.m., and Saturday 1:00 p.m. to  5:00 p.m., Eastern Time.  Our mailing address is: Independent Systems, LLC, P.O. Box 1671, Roanoke, Virginia 24008.
+For any other questions, please contact our Customer Care department at 1-800-430-1965, ext. 2, or e-mail at info@thebiglot.com.  Our Customer Care hours of operation are Monday through Thursday 9:00 a.m. to 9:00 p.m., Friday 9:00 a.m. to 6:00 p.m., and Saturday 1:00 p.m. to  5:00 p.m., Eastern Time.  Our mailing address is: Adventis, Inc., P.O. Box 1671, Roanoke, Virginia 24008.
