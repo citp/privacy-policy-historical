@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604170808id_/http%3A//www.reviewcentre.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2001-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011026000840id_/http%3A//www.reviewcentre.com/privacy.php3) for the most accurate reproduction.*
 
 # Review Centre Privacy Policy
 
@@ -9,13 +9,11 @@
 from   
 
 
-[](https://web.archive.org/web/20010604170808id_/http%3A//www.reviewcentre.com/sitemap.html)
+[](https://web.archive.org/web/20011026000840id_/http%3A//www.reviewcentre.com/sitemap.html)
 
   
-|  |  [ ](http://www.ukaffiliates2.com/u/buy/b.asp?id=49308)   
-  
----  
-  
+|  | 
+
 >   
 > 
 > 
@@ -27,5 +25,7 @@ from
 > 
 > Your email will not be passed to third parties.
 
-|   
+|    
+  
+  
 ---|---
