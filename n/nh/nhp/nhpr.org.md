@@ -1,38 +1,36 @@
-> *The following text is extracted and transformed from the nhpr.org privacy policy that was archived on 2002-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020805134405id_/http%3A//www2.nhpr.org/static/aboutNHPR/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhpr.org privacy policy that was archived on 2003-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030615160016id_/http%3A//nhpr.org/static/aboutNHPR/privacy.php) for the most accurate reproduction.*
 
-# /static/aboutNHPR/privacy.php
+# Privacy Policy
 
-[Home](https://web.archive.org/)  
-[**Discuss!!**](https://web.archive.org/phpBB/)  
-[Events Calendar](http://events.publicbroadcasting.net/nhpr/events.eventsmain)  
-[NH News](https://web.archive.org/content/summary_view.php/4/)  
-[The Exchange](https://web.archive.org/content/summary_view.php/3/)  
-[The Front Porch](https://web.archive.org/content/summary_view.php/1/)  
-[Arts & Culture](https://web.archive.org/static/programs/arts_culture/)  
-[Program Schedule](https://web.archive.org/static/programSchedule/)  
-[Support NHPR](https://web.archive.org/static/support/)  
-[Search](https://web.archive.org/static/search.php)
+|  |    
+    
+[](https://web.archive.org/view_summary/4/)   
+[](https://web.archive.org/view_summary/3/)   
+[](https://web.archive.org/view_summary/1/)   
+[](https://web.archive.org/view_summary/6/)   
+[](https://web.archive.org/view_summary/7/)   
+[](http://nhpr.org/static/programs/specials/)   
+[](http://nhpr.org/phpBB/)   
+[](http://events.publicbroadcasting.net/nhpr/events.eventsmain)   
+[](http://nhpr.org/static/programSchedule/)   
+[](http://nhpr.org/static/aboutNHPR/)   
+[](http://nhpr.org/static/support/index.php)  
 
-[Board of Trustees](https://web.archive.org/static/aboutNHPR/board.php)  
-[Community Advisory Board](https://web.archive.org/static/aboutNHPR/cab.php)  
-[Staff](https://web.archive.org/static/aboutNHPR/staff.php)  
-[Jobs](https://web.archive.org/static/aboutNHPR/jobs.php)  
-[Internships](https://web.archive.org/static/surveys/internshipform.php)  
-[History of NHPR](https://web.archive.org/static/aboutNHPR/history.php)  
-[Financial Information](https://web.archive.org/static/aboutNHPR/financial.php)  
-[Membership](https://web.archive.org/static/support/membership.php)  
-[Email Membership](mailto:member@nhpr.org)  
-[Corporate Underwriting](https://web.archive.org/static/support/businessSupport.php)  
-[Email Underwriting](mailto:underwriting@nhpr.org)  
-[Volunteer](https://web.archive.org/static/surveys/volunteerform_template.php)  
-[Privacy Policy](https://web.archive.org/static/aboutNHPR/privacy.php)  
-[Contact NHPR](https://web.archive.org/static/aboutNHPR/contactNHPR.php)
-
-|  | 
+89.1, Concord, WEVO   
+90.3, Nashua, WEVO   
+90.7, Keene, WEVN   
+91.3, Littleton, WEVO   
+91.3, Hanover, WEVH   
+99.5, Jackson, WEVJ   
+104.3, Dover, WEVO   
+107.1, Berlin, WEVC  
+  
+---|---  
+[History of NHPR](https://web.archive.org/static/aboutnhpr/history.php) | [](https://web.archive.org/static/aboutnhpr/cab.php)[Newsletter](https://web.archive.org/static/aboutnhpr/newsletter_index.php) | [](https://web.archive.org/static/aboutnhpr/cab.php)[](https://web.archive.org/static/aboutnhpr/board.php)[Board of Trustees](https://web.archive.org/static/aboutnhpr/board.php) | [Community Advisory Board](https://web.archive.org/static/aboutnhpr/cab.php) | [Staff](https://web.archive.org/static/aboutnhpr/staff.php) | [Jobs](https://web.archive.org/static/aboutnhpr/jobs.php) | [Internships](https://web.archive.org/static/surveys/internshipform.php) | [Financial Information](https://web.archive.org/static/aboutnhpr/financial.php) | [Volunteer](https://web.archive.org/static/surveys/volunteerform_template.php) | [Privacy Policy](https://web.archive.org/static/aboutnhpr/privacy.php) | [Contact NHPR](https://web.archive.org/static/aboutnhpr/contactnhpr.php)
 
 ## Privacy Information:
 
-This statement discloses the privacy practices for New Hampshire Public Radio. Your personal privacy is important -- very important. But depending on how you use our web site, you may decide to give us certain personal information. We want you to know that we treat that information with as much concern for your privacy as we do when you call us to make a pledge and become a member. Please read the details in the sections below. If you have any questions, please feel free to contact the [Director of New Media.](mailto:webmaster@nhpr.org)  
+This statement discloses the privacy practices for New Hampshire Public Radio. Your personal privacy is important -- very important. But depending on how you use our web site, you may decide to give us certain personal information. We want you to know that we treat that information with as much concern for your privacy as we do when you call us to make a pledge and become a member. Please read the details in the sections below. If you have any questions, please feel free to contact the [New Media Coordinator](mailto:webmaster@nhpr.org)   
 
 
 ### On-Line Pledging 
@@ -82,5 +80,9 @@ NHPR is not responsible for the content or the privacy policies of Web sites to 
 These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. 
 
 Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect and registered users will be notified via email. 
+
+207 North Main Street, Concord, NH 03301-5003   
+phone 603.228.8910   fax 603.224.6052   
+ 
 
 | 
