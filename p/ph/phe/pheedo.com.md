@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pheedo.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609063213id_/http%3A//pheedo.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheedo.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205134602id_/http%3A//www.pheedo.com/policy.htm) for the most accurate reproduction.*
 
 # Pheedo Privacy Policy
 
 |   |    
-  Privacy Policy 
+   **Privacy Policy**
 
 **Personally Identifiable Client Data**   
 Pheedo, Inc. collects personally identifiable information from all websites (and specifically their owners) wishing to join our network. The collection of this information is a part of normal business practices. Clients wishing to join the Pheedo, Inc. advertising network will be asked to provide personally identifiable data through the host sign up and registration process at our web site. Examples of personally identifiable data that may be requested include name, address, phone number, e-mail address, and social security number, tax ID number, etc. Pheedo, Inc. will never request or collect data from a client on subject areas including sexual orientation, political or religious affiliations, or medical data. 
