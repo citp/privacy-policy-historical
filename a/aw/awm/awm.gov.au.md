@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611213239id_/http%3A//www.awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209085642id_/http%3A//www.awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
 
 # Australian War Memorial
 
@@ -12,7 +12,7 @@
 [](https://web.archive.org/events/index.htm)  
 [](https://web.archive.org/services/index.htm)  
 [](https://web.archive.org/corporate/index.htm)  
-[](https://web.archive.org/foundation/default.htm)  
+[](https://web.archive.org/friends/index.htm)  
 [](https://web.archive.org/shop/index.asp)
 
 | 
