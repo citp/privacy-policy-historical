@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theherald.com.au privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602145745id_/http%3A//www.f2.com.au/core/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theherald.com.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205031234id_/http%3A//www.f2.com.au/core/privacy) for the most accurate reproduction.*
 
 # f2 Membership - f2 Network Privacy Policy
 
