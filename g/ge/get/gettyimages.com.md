@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gettyimages.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216191447id_/http%3A//gettyimages.com/source/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610085709id_/http%3A//gettyimages.com/source/home/privacy.asp) for the most accurate reproduction.*
 
-# Getty Images - Privacy Policy - G1WEB10
+# Getty Images - Privacy Policy - G1WEB08
 
 **PRIVACY POLICY**
 
@@ -39,6 +39,6 @@ If at any time you believe that Getty Images has not followed the above policy, 
 **Changes to This Online Privacy Policy**  
 We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this website. We encourage you to review this privacy policy whenever you visit our website to make sure you understand how we use the information we collect. 
 
-© Copyright 1999-2003 Getty Images, Inc. All rights reserved. Privacy Policy. 
+© Copyright 1999-2004 Getty Images, Inc. All rights reserved. Privacy Policy. 
 
 | 
