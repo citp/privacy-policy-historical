@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605213603id_/http%3A//contactmusic.com/new/home.nsf/webpages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204061114id_/http%3A//www.contactmusic.com/new/home.nsf/webpages/privacy) for the most accurate reproduction.*
 
-# Contactmusic.com - privacy statement
+# privacy statement
 
   
 1\. We collect your credit card information, address and billing information so we may process your order and charge your account for products that you purchase.
