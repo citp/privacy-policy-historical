@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207170326id_/http%3A//www.premiumpress.com/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608003422id_/http%3A//www.premiumpress.com/company/privacypolicy.asp) for the most accurate reproduction.*
 
 # Premium Press - printing, custom printing, business cards, letterhead, postcards, brochures, flyers, folders
 
@@ -65,5 +65,9 @@ Conditions of Use, Notices, and Revisions
 If you choose to visit Premium Press, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Premium Press, please send us a thorough description to [feedback@PremiumPress.com](mailto:feedback@PremiumPress.com), and we will try to resolve it. 
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
+Premium Press is committed to customer satisfaction. We will reprint or refund the cost of any product that fails to meet our customer’s quality expectations. However, we cannot take responsibility for typing, image, or design errors introduced by customers in the document creation process. In an effort to keep costs down and pass those savings along to our customers, Premium Press does not review card documents for content or spelling.
+
+Premium Press guarantees that you will be satisfied with the quality of our products. If you are not satisfied with any product, please use our Return Form in the Customer Service section of the site within 30 days of receiving your order. Please include your order number, e-mail address you used to order, and reason for dissatisfaction. Our Customer Service department will review your request and work with you to meet your expectations.
 
 Top
