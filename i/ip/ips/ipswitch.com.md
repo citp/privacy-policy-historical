@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611051441id_/http%3A//www.ipswitch.com/Company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211152051id_/http%3A//www.ipswitch.com/Company/privacy.html) for the most accurate reproduction.*
 
 # Ipswitch - Privacy Policy
 
@@ -17,9 +17,11 @@ Ipswitch is committed to protecting your privacy. The following discloses our in
 
 **WHAT INFORMATION DOES IPSWITCH.COM COLLECT AND HOW IS IT USED?**
 
-When you place an order, download an evaluation, or join a discussion list, we ask for your contact/billing information which is used for internal operations and to provide you with updated information on our products.
+When you place an order, download an evaluation, join a discussion list, or contact us for technical support, we ask for your contact or billing  
+information which is used for internal operations and/or to provide you with updated information on our products.
 
-  * We may forward your contact information to a registered Ipswitch value-added reseller who may contact you. Other than for this purpose, we do not sell, trade, or rent your personal information to others.
+  * When you download an evaluation, we may forward your contact information to a registered Ipswitch value-added reseller who may contact you. Other than for this purpose, we do not sell, trade, or rent your personal information to others.
+  * If you contact us for technical support, we may invite you afterwards to let us know how we're doing by participating in an online survey.
   * Users may opt-out of receiving future mailings; see the opt-out section below. 
 
 
@@ -50,7 +52,11 @@ During ordering, Ipswitch uses VeriSign Digital Certificates for SSL Encryption.
 
 **CAN IOPT-OUT OF RECEIVING IPSWITCH E-MAIL MESSAGES?**
 
-Ipswitch gives users the option of removing their information from our database to not receive future communications. Please note: once removed you will not receive notification about bug fixes or new product releases. It will be up to you to check the Ipswitch Web Site for information. Send e-mail to: [remove@ipswitch.com](mailto:remove@ipswitch.com)
+At the time of download, you have the option to not receive future communications (“opt-out”) from Ipswitch. By choosing to opt-out, we will not contact you with information relating to the product you have downloaded. Please note that if you are a registered user, opting-out will remove you from all mailing lists you are currently on including upgrade notifications.
+
+You also have the option of removing your information from our database after download so that you do not receive any future communications (“unsubscribe”). To be removed from our database, send e-mail to [remove@ipswitch.com](mailto:remove@ipswitch.com) from the e-mail address you would like to unsubscribe from.
+
+Please note: If you opt-out or unsubscribe, you will not receive notifications about bug fixes or new product releases. It will be up to you to check the Ipswitch Web Site for this information.
 
 **CAN I CHANGE/MODIFY MY CONTACT INFO?**
 
