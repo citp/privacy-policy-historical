@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605113225id_/http%3A//www.escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209004108id_/http%3A//www.escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
 
-# Flight Centre Limited - Privacy Policy
+# ESCAPE TRAVEL - Privacy Policy
 
 ## Introduction
 
@@ -68,3 +68,14 @@ We welcome your inquiries or comments about our Privacy Policy. Should you have 
 ## Changes to our privacy policy
 
 From time to time it may be necessary for us to review and revise our privacy policy. We reserve the right to change our privacy policy at any time, should this occur the amendment would be posted on our website.
+
+  
+
+
+[Feedback](https://web.archive.org/contactus/feedbackform.jsp)  ·  [Contact Us](https://web.archive.org/contactus/)  ·  [Privacy Policy](https://web.archive.org/aboutus/policies/privacy.jsp)  ·  [Terms of Use](https://web.archive.org/aboutus/policies/termsofuse.jsp)
+
+© Flight Centre Limited trading as Escape Travel   
+ABN 25 003 377 188   ACN 003 377 188 
+
+Travel Agent Licence Numbers  
+ACT 224/D/8   NSW 2TA002719   NT 008   QLD TAG262   SA TTA0025-0   TAS 31089   VIC 31089   WA 9TA 00589
