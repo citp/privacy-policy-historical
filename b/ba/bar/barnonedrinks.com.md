@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2001-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011030090846id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610024530id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
 
-# Bar-None Drink Recipes: cocktails, shooters, drinking games, tips and more
+# Learn more about Bar-None!
 
   
-**_Bar-None Drink Recipes_**  
+Check out this great video, [Drinking Games](http://www.amazon.com/exec/obidos/ASIN/B000058E1L/barnonedrinkreci)... a _must see_!  
+  
+**_Bar-None Info_**  
   
 [ [Credits](https://web.archive.org/info/credits/) | **[Legal](https://web.archive.org/info/legal/)** | [Links](https://web.archive.org/info/links/) | [Site Info](https://web.archive.org/info/site_info/) ] 
 
