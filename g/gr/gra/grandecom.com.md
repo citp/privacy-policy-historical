@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601114108id_/http%3A//www.grandecom.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003030635id_/http%3A//www.grandecom.com/privacy.jsp) for the most accurate reproduction.*
 
 # Grande Communications
 
