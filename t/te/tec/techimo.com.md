@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techimo.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221113335id_/http%3A//techimo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techimo.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604062527id_/http%3A//www.techimo.com/privacy.html) for the most accurate reproduction.*
 
 # TechIMO.com - The enthusiast community where your opinion counts.
 
@@ -44,7 +44,9 @@ Except as described below, All Enthusiast, Inc.'s TechIMO.com will not willfully
 
 When you are at the TechIMO.com site and asked for personal information, you share that information with TechIMO.com alone, unless the service is offered in conjunction with another party. For example, some TechIMO.com services, such as our online store, are offered in conjunction with another company. In order to provide such co-branded services to you, it is necessary for us to share your personal information with the company offering the co-branded service. If you do not want your data to be shared, you can choose not to allow the transfer of data by not using that particular service. If you choose to share your data with a provider of a co-branded service, you should understand that those providers may have separate privacy and data collection practices. All Enthusiast, Inc. has no control over and accepts no liability for these independent practices. Each provider shouldmore information regarding its privacy and/or use policies.
 
-**How to Correct Inaccuracies**
+**Third Party Advertising:**
+
+We use DoubleClick, Rydium, FastClick, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). **How to Correct Inaccuracies**
 
 If you use another All Enthusiast, Inc. service, we may send you a confirmation e-mail confirming your new account and/or service. The message will be sent to the address that you supplied us and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services.
 
