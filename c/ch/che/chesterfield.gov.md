@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2001-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011015095437id_/http%3A//chesterfield.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145304id_/http%3A//www.chesterfield.gov/privacy.asp) for the most accurate reproduction.*
 
 # Chesterfield County, Virginia | Privacy Policy
 
 |  | 
 
-### Last Updated on February 12, 2001
+### Last Updated on May 1, 2002
 
 The following information explains the Internet Privacy Policy which Chesterfield County has adopted for its website. The following is intended to explain our current Internet privacy practices but shall not be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy and Internet Privacy Policy Statement at any time without notice.
 
@@ -14,7 +14,9 @@ We maintain our records in accordance with our obligations as defined by applica
 
 ### Links to other websites
 
-This site contains links that lead to resources outside the county's website. Chesterfield County is not responsible for the privacy practices or the content of such websites.
+Because the county cannot control the sites to which we link, it cannot be held responsible for content included in them. Moreover, in no way should an external link be considered any form of endorsement by the County of Chesterfield.
+
+Information contained on websites that the County of Chesterfield website provides links to are maintained by other public and private organizations. Because the county cannot control or guarantee the accuracy, relevance, timeliness, or completeness of sites to which it links, the county cannot be responsible for their content. Further, the inclusion of pointers to particular items in hypertext is not intended to reflect their importance, nor is it intended to endorse any views expressed or products or services offered by the author of the reference or the organization operating the server on which the reference is maintained.
 
 ### Information we collect 
 
