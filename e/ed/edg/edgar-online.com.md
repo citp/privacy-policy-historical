@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2001-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010628084519id_/http%3A//www2.edgar-online.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125094849id_/http%3A//www.edgar-online.com/privacy.asp) for the most accurate reproduction.*
 
 # EDGAR Online: Privacy Statement
 
