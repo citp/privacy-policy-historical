@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the floridalottery.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216235117id_/http%3A//www.flalottery.com/lottery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridalottery.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605034121id_/http%3A//www.flalottery.com/lottery/privacy.shtml) for the most accurate reproduction.*
 
 # Florida Lottery Internet Privacy Policy
-
-###  Internet Privacy Policy 
 
 Thank you for visiting flalottery.com. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit any of the Florida Lottery's web pages. 
 
@@ -14,6 +12,6 @@ Certain features on flalottery.com require the use of cookies for functionality.
 
 If you choose to share personal information with flalottery.com, for example, by sending a message to our ASKLOTT account, the information may be saved for a designated period of time in order to comply with the state of Florida's archiving policies; however, information will not be disclosed to third parties or other government agencies unless required by state or federal law. 
 
-The flalottery.com Internet Privacy Policy may be amended from time to time. In the interest of keeping our web customers informed, any changes to our Internet Privacy Policy will be noted in the "[What's New!](https://web.archive.org/web/20011216235117id_/http%3A//www.flalottery.com/lottery/updates.html)" section of our web site. 
+The flalottery.com Internet Privacy Policy may be amended from time to time. In the interest of keeping our web customers informed, any changes to our Internet Privacy Policy will be noted in the "[What's New!](https://web.archive.org/web/20020605034121id_/http%3A//www.flalottery.com/lottery/updates.html)" section of our web site. 
 
 If you have other questions about flalottery.com privacy policies, or have suggestions on how these policies can be improved, please feel free to e-mail us at [asklott@flalottery.com](mailto:asklott@flalottery.com) or contact us by telephone at (850) 487-7777. 
