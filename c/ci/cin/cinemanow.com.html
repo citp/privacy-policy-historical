@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cinemanow.com privacy policy that was archived on 2001-09-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010917032410id_/http%3A//www.cinemanow.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinemanow.com privacy policy that was archived on 2002-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020203035507id_/http%3A//www.cinemanow.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>CinemaNow | Privacy Statement</title>
@@ -42,12 +42,44 @@ function doSearch(theQuery) {
 	document.forms['movieSearch'].submit()
 }
 
-function setHeaders() {
-	document.phObj.SetVariable("/:pagetext","");
-	document.phObj.SetVariable("/:pagelink","#");
-	document.shObj.SetVariable("/:sectiontext","PRIVACY+STATEMENT");
+//* Set Flash Page Headers
+function setTextInterval() {
+setInterval("setSectionHead()", 1);
+setInterval("setPageHead()", 1);
+}
+
+function setSectionHead() {
+	document.shObj.SetVariable("/:sectiontext","PRIVACY STATEMENT");
 	document.shObj.SetVariable("/:sectionlink","#");
 }
+
+function setPageHead() {
+
+	document.phObj.SetVariable("/:pagetext","");
+
+	document.phObj.SetVariable("/:pagelink","#");
+}
+
+var InternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
+// Handle all the the FSCommand messages in a Flash movie
+function shObj_DoFSCommand(command, args) {
+	var shObjObj = InternetExplorer ? shObj: document.shObj;
+	if(command == "setText") {
+		setSectionHead();
+	}
+}
+
+function phObj_DoFSCommand(command, args) {
+	var phObjObj = InternetExplorer ? phObj: document.phObj;
+	if(command == "setText") {
+		setPageHead();
+	}
+}
+
+onload=setTextInterval;
+onload=setSectionHead;
+onload=setPageHead;
+
 
 function getBrowserSize() {
 	browserX = window.innerWidth;
@@ -114,6 +146,12 @@ function showSize() {
 //	window.status=browserX + 'x' + browserY + ' | ' + 800 + 'x' + 600
 	}
 
+// cn popup 
+function cnPromo() {
+	window.open("/popups/desparate_dan_promo.asp","new","scrollbars=no,resizable=no,location=no,status=no,toolbar=no,width=290,height=290");
+}
+
+
 </script>
 <style type="text/css">
 .bodywhitesmall {  font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #FFFFFF}
@@ -148,7 +186,7 @@ A:hover {color:"#FF6600";}.popuplarger { font-family: Arial, Helvetica, sans-ser
 </style>
 
 </head>
-<body bgcolor="#000000" text="#000000" link="#000000" vlink="#000000" alink="#FF6600" onload="preloadImages('/images/common_01_how_it_works_on.gif','/images/common_02_store_on.gif','/images/common_03_my_account_on.gif','/images/common_04_about_on.gif','/images/common_05_help_on.gif','/images/common_06a_logout_on.gif');preloadImages('/images/browse_tab_01_all_on.gif','/images/browse_tab_02_premium_on.gif','/images/browse_tab_03_free_on.gif','/images/browse_tab_04_most_watched_on.gif','/images/browse_bar_01_rewind_on.gif','/images/browse_bar_02_previous_on.gif','/images/browse_bar_03_next_on.gif','/images/browse_bar_04_forward_on.gif')">	
+<body bgcolor="#000000" text="#000000" link="#000000" vlink="#000000" alink="#FF6600" onload="preloadImages('/images/common_01_how_it_works_on.gif','/images/common_02_store_on.gif','/images/common_03_my_account_on.gif','/images/common_04_about_on.gif','/images/common_05_help_on.gif','/images/common_06a_logout_on.gif');preloadImages('/images/browse_tab_01_all_on.gif','/images/browse_tab_02_premium_on.gif','/images/browse_tab_03_free_on.gif','/images/browse_tab_04_most_watched_on.gif','/images/browse_bar_01_rewind_on.gif','/images/browse_bar_02_previous_on.gif','/images/browse_bar_03_next_on.gif','/images/browse_bar_04_forward_on.gif'); setTextInterval()">	
 <form name="movieSearch" action="/browse/browse.asp" method="post"><input type="hidden" name="searchstr"></form>
 
 <center>
@@ -169,8 +207,8 @@ function spawnWin(theURL) {
 <!-- Start Ad Banner -->
 
 	  <nolayer>
-	  <iframe src="http://ad.doubleclick.net/adi/cinemanow.dart/;sz=468x60;ord=58179873228?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-	  <A HREF="http://ad.doubleclick.net/jump/cinemanow.dart/;abr=!ie;sz=468x60;ord=58179873228?" TARGET="_new"><IMG SRC="http://ad.doubleclick.net/ad/cinemanow.dart/;abr=!ie;sz=468x60;ord=58179873228?" border=0 height="60" width="468"></A>
+	  <iframe src="http://ad.doubleclick.net/adi/cinemanow.dart/About;sz=468x60;ord=78570193052?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+	  <A HREF="http://ad.doubleclick.net/jump/cinemanow.dart/About;abr=!ie;sz=468x60;ord=78570193052?" TARGET="_new"><IMG SRC="http://ad.doubleclick.net/ad/cinemanow.dart/About;abr=!ie;sz=468x60;ord=78570193052?" border=0 height="60" width="468"></A>
 	  </iframe>
 	  </nolayer>
 	  <ilayer id="layer2" visibility="hidden" width="468" height="60"></ilayer>	  
@@ -210,12 +248,12 @@ function spawnWin(theURL) {
 	
         <tbody><tr> 
 		<td valign="top">
-			 <embed name="phObj" src="/flash/swt/page_header.swt?pagetext=&amp;pagelink=#" quality="high" swliveconnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="408" height="25"> 
+			 <embed name="phObj" src="/flash/page_header.swf" quality="high" swliveconnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="408" height="25"> 
                 </td>
         </tr>
         <tr> 
                 <td valign="top">
-			<embed name="shObj" src="/flash/swt/section_header.swt?sectiontext=PRIVACY+STATEMENT&amp;sectionlink=#" swliveconnect="true" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="608" height="27"> 
+			<embed name="shObj" src="/flash/section_header.swf" swliveconnect="true" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="608" height="27"> 
                 </td>
         </tr>
         </tbody></table>
@@ -257,89 +295,97 @@ function spawnWin(theURL) {
   </tr>
   <tr> 
     <td valign="middle" colspan="2" class="browsepagebody"> 
-      <p>Okay, so here's the deal regarding your privacy and CinemaNow, Inc. ("CinemaNow"). 
-        The first thing you should know is that we respect your privacy (hell, 
-        we wouldn't want people invading our privacy either). The second thing 
-        you should know is that we're collecting information about you. Not a 
-        lot of information (for instance, we don't keep track as to who you're 
-        sleeping with) but some information.
-      </p><p> If you've tried to watch one of our movies you realized that we asked 
-        you some questions. If you haven't signed up yet to watch a movie, here's 
-        the info that we're going to ask: your name (first and last), e-mail address, 
-        zip code (we like to have an approximate idea as to what geographic area 
-        are visitors are from), gender, and age information. </p>
-      <p> And that's all that we ask you to tell us about you (that wasn't too 
-        bad, was it?). However, to be honest we do obtain a bit more info about 
-        you. For instance, we keep track of what films you watch. We do this so 
-        that we can send you information about other films that we think you would 
-        enjoy (after all, it's all about you, isn't it?). We also keep track of 
-        how much time you spend on our site (but we promise not to tell your boss), 
-        what parts of our site you visit, where you came from (as in what site 
-        you were at before coming to CinemaNow) and what site you go to when you 
-        leave CinemaNow (though we can't imagine why anyone would ever want to 
-        leave CinemaNow). We also know what kind of a browser you use, what type 
-        of an operating system your computer uses and other nifty computer info.</p>
-      <p> We know you realize this but, just in case anyone's asleep at the switch 
-        (or too hung over to have thought about it), if you buy something from 
-        our web site, well, we are going to know who we ship it to, where it gets 
-        shipped to, and the credit card number used to pay for the goods. Similarly, 
-        if you buy our pay-per-view movies and give us your credit card (as you're 
-        required to do), well, again, we are going to have that information. We 
-        really hope that this isn't a surprise to anyone.</p>
-      <p> The other thing you should know is that we have (or at least hope to 
-        have) advertisements on our site. This is actually a good thing because 
-        it gives us revenue and allows us to provide all the really wonderful 
-        things that we provide to you free of charge (you just have to watch our 
-        ads, over and over and over and over and over again. Like they say, there's 
-        no such thing as a free lunch).</p>
-      <p> The other thing about the ads on our site is that the company that serves 
-        the ads uses "cookie" technology. And, since we're sure you're 
-        wondering, we'll tell you the story about these "cookies." A 
-        "cookie" (we're going to stop putting that word in quotes from 
-        now on) is a small file that is placed on your computer and uniquely identifies 
-        your computer to the ad server that reads it. The cookie doesn't identify 
-        you as a person, only your computer.</p>
-      <p> Now here's the really interesting (or scary) part. The ad company has 
-        relationships with lots of web sites. And they all use cookies. So the 
-        ad company knows what sites (at least those that they have a relationship 
-        with) your computer surfs at. Now, the ad company doesn't know who is 
-        operating the computer and they don't collect personal identifying information 
-        about you (such as your name, etc.) so your privacy is protected in that 
-        regard. Your computer's privacy, however, is not protected. The ad company 
-        keeps track of what your computer is doing. The ad company that we use 
-        for banner ads is DoubleClick (and/or one or more of their subsidiaries 
-        such as the Sonar Network). If you would like more information about DoubleClick 
-        and their practices and to know your choices about not having this information 
-        used by DoubleClick, <a href="http://www.sonar.com/content/privacy.htm">please 
-        click here</a>. </p>
-      <p> Right about now you're probably saying to yourself, "hey, wait 
-        a minute. Aren't they also using cookies to keep track of me when I sign 
-        in to the CinemaNow site?" And the answer is, yes, we are. So that 
-        you don't have to log in every time you visit CinemaNow, we use cookies 
-        to keep track of your log in information. And, as you know, that includes 
-        personal identifying information such as your name. But (and you have 
-        our word on this), we don't mix our cookies (we don't toss our cookies 
-        either, but that's a different story). So, the info that our cookies get 
-        pertaining to your log-in information is separate and distinct from the 
-        information that the ad serving cookies get about you. And we don't share 
-        our cookies (or their info) with anyone else (including the ad serving 
-        company).</p>
-      <p> As long as we're talking about privacy, let's talk about e-mails. When 
-        you log into CinemaNow there's a little box that's pre-checked that tells 
-        us to send you e-mails about us and our partners. We figure you'd like 
-        to get this info so we've pre-checked the box for you. Of course if you 
-        don't want the info (or if you change your mind) simply un-check the box. 
-        Then we won't send you e-mail information.</p>
-      <p> Here's the kind of e-mail that we'll send you. Information about movies 
-        we think you might like, info about upcoming contests, festivals, etc. 
-        We might also send you info about products from other companies that we 
-        have a relationship with. We won't give them your e-mail address (or other 
-        personally identifying data) but we will send you info on their behalf. 
-        Of course if you get tired of getting our e-mails, just tell us to stop 
-        and we will.</p>
-      <p> So that's our privacy policy. If you have any questions or comments, 
-        just drop us an e-mail and we'll try to answer you. God bless.</p>
-    </td>
+		<p>Okay, so here's the deal regarding your privacy and CinemaNow, Inc. ("CinemaNow").  
+		The first thing you should know is that we respect your privacy (hell, 
+		we wouldn't want people invading our privacy either).  The second thing 
+		you should know is that we're collecting information about you.  Not a 
+		lot of information (for instance, we don't keep track as to who you're 
+		sleeping with) but some information.</p>
+		<p>If you've tried to watch one of our free movies you realized that 
+		we asked you some questions.  If you haven't signed up yet to watch a 
+		free movie, here's the info that we're going to ask:  your user name, 
+		e-mail address, and password.  For the pay-per-view and premium movies 
+		we're going to ask for some credit card information.  The standard 
+		stuff such as full name, billing address, credit card number, expiration 
+		date and your e-mail again.</p>
+		<p>And that's all that we ask you to tell us about you (that wasn't too bad, was it?).  
+		However, to be honest we do obtain a bit more info about you.  For 
+		instance, we keep track of what films you watch.  We do this so that 
+		we can send you information about other films that we think you would 
+		enjoy (after all, it's all about you, isn't it?).  We also keep track 
+		of how much time you spend on our site (but we promise not to tell your boss), 
+		what parts of our site you visit, where you came from (as in what site 
+		you were at before coming to CinemaNow) and what site you go to when 
+		you leave CinemaNow (though we can't imagine why anyone would ever want 
+		to leave CinemaNow).  We also know what kind of a browser you use, what 
+		type of an operating system your computer uses and other nifty computer 
+		info.</p>
+		<p>We know you realize this but, just in case anyone's asleep at the 
+		switch (or too hung over to have thought about it), if you buy something 
+		from our web site, well, we are going to know who we ship it to, where it 
+		gets shipped to, and the credit card number used to pay for the goods.  
+		We really hope that this isn't a surprise to anyone.</p>
+		<p>The other thing you should know is that we have (or at least hope to have) 
+		advertisements on our site.  This is actually a good thing because it gives 
+		us revenue and allows us to provide all the really wonderful things that we 
+		provide to you free of charge (you just have to watch our ads, over and 
+		over and over and over and over again.  Like they say, there's no such 
+		thing as a free lunch).</p>
+		<p>The other thing about the ads on our site is that the company that serves 
+		the ads uses "cookie" technology.  And, since we're sure you're 
+		wondering, we'll tell you the story about these "cookies."  
+		A "cookie" (we're going to stop putting that word in quotes from now on) 
+		is a small file that is placed on your computer and uniquely identifies 
+		your computer to the ad server that reads it.  The cookie doesn't identify 
+		you as a person, only your computer.</p>
+		<p>Now here's the really interesting (or scary) part.  The ad company 
+		has relationships with lots of web sites.  And they all use cookies.  
+		So the ad company knows what sites (at least those that they have a 
+		relationship with) your computer surfs at.  Now, the ad company doesn't 
+		know who is operating the computer and they don't collect personal 
+		identifying information about you (such as your name, etc.) so your 
+		privacy is protected in that regard. Your computer's privacy, however, 
+		is not protected.  The ad company keeps track of what your computer is 
+		doing.  The ad company that we use for banner ads is DoubleClick 
+		(and/or one or more of their subsidiaries such as the Sonar Network).  
+		If you would like more information about DoubleClick and their practices 
+		and to know your choices about not having this information used by 
+		DoubleClick, please <a href="http://www.sonar.com/content/privacy.htm">click here</a>.</p>
+		<p>Right about now you're probably saying to yourself, "hey, 
+		wait a minute.  Aren't they also using cookies to keep track of me 
+		when I sign in to the CinemaNow site?"  And the answer is, yes, 
+		we are.  So that you don't have to log in every time you visit 
+		CinemaNow, we use cookies to keep track of your log in information.  
+		And, as you know, that includes personal identifying information such 
+		as your name.  But (and you have our word on this), we don't mix our 
+		cookies (we don't toss our cookies either, but that's a different story).  
+		So, the info that our cookies get pertaining to your log-in information 
+		is separate and distinct from the information that the ad serving cookies get about you.</p>  
+		<p>As long as we're talking about privacy, let's talk about e-mails.  
+		When you log into CinemaNow there's a little box that's pre-checked  
+		that tells us to send you e-mails about us and our partners.  We 
+		figure you'd like to get this info so we've pre-checked the box for you.  
+		Of course if you don't want the info (or if you change your mind) 
+		simply un-check the box.  Then we won't send you e-mail information.</p>
+		<p>Here's the kind of e-mail that we'll send you.  Our (hope to be) 
+		award winning e-mail newsletter, information about movies we think you 
+		might like, info about upcoming contests, festivals, etc.  We might also 
+		send you info about products from other companies that we have a 
+		relationship with.  We won't give them your e-mail address 
+		(or other personally identifying data) but we will send you info on 
+		their behalf.  Of course if you get tired of getting our e-mails, 
+		just tell us to stop and we will.</p>
+		<p>The other thing that you should know, and this is important, 
+		is that should CinemaNow be sold (whether or not as part of a bankruptcy proceeding), 
+		your personal information will be sold to the company or companies that 
+		acquire CinemaNow's assets.  Also, since we acquire all of the movies on 
+		our site from third parties, we need to let them know how their movies 
+		are performing.  And, as part of that process, we will tell them how 
+		often their films played, how much of the film was watched each time 
+		and other, non-personal information.  Just wanted you to know.</p> 
+		<p>So that's our privacy policy.  If you have any questions or 
+		comments, just drop us an e-mail and we'll try to answer you.  God bless.</p>
+	</td>
   </tr>
   <tr> 
     <td valign="middle" colspan="2"><img src="/images/common_trans_spacer.gif" width="10" height="10"></td>
@@ -371,7 +417,7 @@ function spawnWin(theURL) {
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr> 
 			<td colspan="2" class="copyright">
-<p style="margin-left:20px; margin-top:24px;">© Copyright 2001 CinemaNow. All rights reserved. | <a href="/about/privacy.asp">Privacy Policy</a> | <a href="mailto:feedback@cinemanow.com">FEEDBACK</a></p>				
+<p style="margin-left:20px; margin-top:24px;">© Copyright 1999-2002 CinemaNow. All rights reserved. | <a href="/about/privacy.asp">Privacy Policy</a> | <a href="mailto:feedback@cinemanow.com">FEEDBACK</a></p>				
 			</td>
 		</tr>
 		<tr> 
