@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602100200id_/http%3A//www.whsv.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D17%26subtopicintid%3D386) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023200id_/http%3A//whsv.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D17%26subtopicintid%3D386) for the most accurate reproduction.*
 
 # Welcome to WHSV
 
