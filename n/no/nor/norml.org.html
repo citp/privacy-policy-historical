@@ -1,168 +1,627 @@
-<!--The following is the downloaded HTML source of the norml.org privacy policy that was archived on 2002-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020208112727id_/http%3A//norml.org/about/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the norml.org privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206100821id_/http%3A//www.norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head>
+<html><head>
+<script language="JavaScript"><!--
+function Get_Cookie(name) {
+    var start = document.cookie.indexOf(name+"=");
+    var len = start+name.length+1;
+    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+    if (start == -1) return null;
+    var end = document.cookie.indexOf(";",len);
+    if (end == -1) end = document.cookie.length;
+    return unescape(document.cookie.substring(len,end));
+}
 
-<meta name="description" content="NORML is a nonprofit lobbying organization
-working to end marijuana prohibition and stop arrests of smokers. The NORML
-Foundation sponsors educational, research, and legal programs about the
-costs of marijuana prohibition and alternatives.">
+function Set_Cookie(name,value,expires,path,domain,secure) {
+    document.cookie = name + "=" +escape(value) +
+        ( (expires) ? ";expires=" + expires.toGMTString() : "") +
+        ( (path) ? ";path=" + path : "") + 
+        ( (domain) ? ";domain=" + domain : "") +
+        ( (secure) ? ";secure" : "");
+}
 
-<meta name="keywords" content="marijuana, medical marijuana, marijuana as
-medicine, marijuana arrests, marijuana prohibition, marijuana laws, drugs,
-drug policy, drug reform, drug arrests, drug legislation, war on drugs,
-NORML, NORML Foundation, National Organization for the Reform of Marijuana
-Laws, marihuana,  decriminalization, Grinspoon, Stroup, hemp, cannabis,
-Prop 215, Proposition 215, DEA, Drug Enforcement Agency">
+function Delete_Cookie(name,path,domain) {
+    if (Get_Cookie(name)) document.cookie = name + "=" +
+        ( (path) ? ";path=" + path : "") +
+        ( (domain) ? ";domain=" + domain : "") +
+        ";expires=Thu, 01-Jan-1970 00:00:01 GMT";
+}
 
-<title>NORML's Privacy Statement</title>
+function Popup() {
+	win = open('campaign/index.html','homepopup','toolbar=no,directories=no,menubar=no,height=260,width=300,status=no,scrollbars=no');
+	return true;
+}
 
+var days = 14; // valid two weeks from now
+
+function isCookieEnabled() {
+   if (document.all) return navigator.cookieEnabled;
+   Set_Cookie('testcookie',today.getTime());
+   var tc = Get_Cookie('testcookie');
+   Delete_Cookie('testcookie');
+   return (tc == today.getTime());
+}
+
+function FirstTimeVisitor() {
+
+	var beenHere = Get_Cookie('NORML_Visited');
+	if (beenHere == 'yes') {}
+	else if (isCookieEnabled()) {
+		Popup();
+		Set_Cookie('NORML_Visited','yes',expires_date);
+	}
+	return true;
+}
+
+var today = new Date();
+var zero_date = new Date(0,0,0);
+today.setTime(today.getTime() - zero_date.getTime());
+
+var todays_date = new
+Date(today.getYear(),today.getMonth(),today.getDate(),0,0,0);
+var expires_date = new Date(todays_date.getTime() + (days * 86400000));
+
+//--></script>
+<title>NORML Home / Privacy Statement</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="style.css" type="text/css">
+<script language="javascript">
+	window.name="homepage";
+</script>
 </head>
 
+<body bgcolor="#CCCC99" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<a name="top"></a>
 
-<!-- The following variable defines how many columns to use on this page. -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr bgcolor="#333366" align="center"> 
+ <td align="center" bgcolor="#333366"> 
+ <table width="600" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr> 
+ <td><img src="toolbar/org_name.gif" width="300" height="29"></td>
+ <td><a href="index.cfm?Group_ID=4486&amp;context_open=3374"><img src="toolbar/sitemap.gif" width="81" height="29" border="0" alt="Site Map"></a></td>
+ <td><a href="index.cfm?Group_ID=3441"><img src="toolbar/contactus.gif" width="78" height="29" border="0" alt="Contact Us"></a></td>
+ <td><a href="index.cfm?Group_ID=4479"><img src="toolbar/mediacontact.gif" width="94" height="29" border="0" alt="Media Contact"></a></td>
+ <td><a href="index.cfm"><img src="toolbar/home.gif" width="47" height="29" border="0" alt="Home"></a></td>
+ </tr>
+ </tbody></table>
+ </td>
+ </tr>
+</tbody></table> 
+	
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr background="header/home_bg.gif" align="center"> 
+ <td align="center" background="header/home_bg.gif"> 
+	
+	<table width="600" border="0" cellspacing="0" cellpadding="0">
+	
+ <tbody><tr> 
+ <td rowspan="2">
+ <table width="178" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+ <td><a href="index.cfm"><img src="header/norml_top.gif" width="178" height="56" border="0"></a></td>
+ </tr>
+ <tr>
+ <td><img src="header/norml_tag.gif" width="178" height="28"></td>
+ </tr>
+ </tbody></table></td>
+ <td align="right" valign="middle"> 
+ <table border="0" cellspacing="0" cellpadding="3">
+ <tbody><tr> 
+ <td><form action="index.cfm"></form></td>
+ <td> 
+ <input type="text" name="wtm_search_text" value="Search NORML" size="15">
+ </td>
+ <td><input type="image" src="header/form_go.gif" width="20" height="20" border="0"></td>
+ <td><form action="index.cfm" name="quick_nav"></form></td>
+ <td> 
+ <select name="Group_ID" onchange="if (options[selectedIndex].value > '') {submit();}">	
+ <option value="">A Page Just For You</option>
+ <option value="4476">Drug Testing</option>
+ <option value="4477">Activists</option>
+ <option value="4478">Elected Officials</option>
+ <option value="4479">Media</option>
+ <option value="4480">Lawyers</option>
+ <option value="4481">Recently Busted</option>
+ <option value="4482">Medical Marijuana Patients</option>
+ <option value="4483">Webmasters</option>
+ <option value="4484">Students</option>
+ 
+ </select>
+ </td>
+ <td><input type="image" src="header/form_go.gif" width="20" height="20" border="0" onclick="if (document.quick_nav.Group_ID.options.selectedIndex > 0) {submit();} else {return false;}"></td>
+ <td></td>
+ </tr>
+ </tbody></table>
+ </td>
+ </tr>
+ <tr> 
+ <td valign="bottom"><img src="dark_green_spacer.gif" width="427" height="28" alt="Working to reform marijuana laws"></td>
+ </tr>
+ </tbody></table>
+ </td>
+ </tr>
+</tbody></table>
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
 
+	<tbody><tr> 
+ 
+ <td valign="top" width="178">
 
-<!-- Start of Body for About section. -->
+<script type="text/javascript" src="http://www.norml.org/scripts/support_button.js">
+</script>
+ 
+ <table width="173" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr> 
+ <td colspan="3"><a href="index.cfm?Group_ID=4516"><img src="mainmenu/statelaw_header.gif" width="173" height="65" alt="Click here to navigate by map" border="0"></a></td>
+	</tr>
+	<tr bgcolor="336666"> 
+ <td colspan="3"> 
+ 
+ <table width="173" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr> 
+ <td><form action="index.cfm"><input type="hidden" name="wtm_view" value=""></form></td>
+ <td align="center"> 
+ <select name="Group_ID" onchange="if (options[selectedIndex].value > '') {submit();}">
+ <option selected="">Select a State</option>
+ <option value="4516">See Map
 
-<body bgcolor="#FFFFFF" link="#0033FF" vlink="#006600">
-<!-- Define Image Maps -->
+ </option><option value="4521">Alabama</option>
+ <option value="4522">Alaska</option>
+ <option value="4523">Arizona</option>
+ <option value="4524">Arkansas</option>
+ <option value="4525">California</option>
+ <option value="4526">Colorado</option>
+ <option value="4527">Connecticut</option>
+ <option value="4528">Delaware</option>
+ <option value="4529">District of Columbia</option>
+ <option value="4575">FEDERAL</option>
+ <option value="4530">Florida</option>
+ <option value="4531">Georgia</option>
+ <option value="4532">Guam </option>
+ <option value="4533">Hawaii</option>
+ <option value="4534">Idaho</option>
+ <option value="4535">Illinois</option>
+ <option value="4536">Indiana</option>
+ <option value="4537">Iowa</option>
+ <option value="4538">Kansas</option>
+ <option value="4539">Kentucky</option>
+ <option value="4540">Louisiana</option>
+ <option value="4541">Maine</option>
+ <option value="4542">Maryland</option>
+ <option value="4543">Massachusetts</option>
+ <option value="4544">Michigan</option>
+ <option value="4545">Minnesota</option>
+ <option value="4546">Mississippi</option>
+ <option value="4547">Missouri</option>
+ <option value="4548">Montana</option>
+ <option value="4549">Nebraska</option>
+ <option value="4550">Nevada</option>
+ <option value="4551">New Hampshire</option>
+ <option value="4552">New Jersey</option>
+ <option value="4553">New Mexico</option>
+ <option value="4554">New York</option>
+ <option value="4555">North Carolina</option>
+ <option value="4556">North Dakota</option>
+ <option value="4557">Ohio</option>
+ <option value="4558">Oklahoma</option>
+ <option value="4559">Oregon</option>
+ <option value="4560">Pennsylvania</option>
+ <option value="4561">Puerto Rico</option>
+ <option value="4562">Rhode Island</option>
+ <option value="4563">South Carolina</option>
+ <option value="4564">South Dakota</option>
+ <option value="4565">Tennessee</option>
+ <option value="4566">Texas</option>
+ <option value="4567">Utah</option>
+ <option value="4568">Vermont</option>
+ <option value="4569">Virgin Islands</option>
+ <option value="4570">Virginia</option>
+ <option value="4571">Washington</option>
+ <option value="4572">West Virginia</option>
+ <option value="4573">Wisconsin</option>
+ <option value="4574">Wyoming</option> 
+ </select>
+ </td>
+ <td></td>
+ </tr>
+ </tbody></table>
+ 
+ </td>
+	</tr>
+	
+	<tr> 
+ <td colspan="3"><img src="mainmenu/statelaw_bot.gif" width="173" height="13"></td>
+	</tr>
+</tbody></table>
+ 
+ <table width="178" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr> 
+ <td valign="top" colspan="5"><img src="mainmenu/widget_top.gif" width="173" height="16"></td>
+ </tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/bullet_new.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3442"><font color="#FFFFFF">News Archive</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3444"><font color="#FFFFFF">Library</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
 
-<map name="home"> <area coords="0,0  88,59" href="/home.shtml" alt="Home">
-</map>
+	<tr> 
+ <td bgcolor="#006600" colspan="2" width="21">&nbsp;</td>
+ <td bgcolor="#006600"><img src="mainmenu/separator.gif" width="132" height="11"></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3443"><font color="#FFFFFF">Take Action</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3421"><font color="#FFFFFF">NORML Chapters</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/bullet_new.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="http://capwiz.com/norml2/home/" target="Popup"><font color="#FFFFFF">Contact Elected Officials</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
 
-<map name="topbanner"> <area coords="  0,0   90,34" href="http://capwiz.com/norml2/home/" alt="Fax Congress Now!">
-    <area coords=" 91,0  179,34" href="/newsletter/index.html" alt="Free Newsletter">
-    <area coords="180,0  256,34" href="https://banqa.uaqa.com/norml/join/" alt="Join NORML">
-  <area coords="257,0  335,34" href="/about/index.shtml" alt="Legal Help">
-    <area coords="336,0  403,34" href="/legal/norml_lc.shtml" alt="Legal Help">
-    <area coords="404,0  471,34" href="/contact/index.html" alt="Contact Us">
-    <area coords="472,0  539,34" href="/search/index.html" alt="Search">
-</map>
+	<tr> 
+ <td bgcolor="#006600" colspan="2" width="21">&nbsp;</td>
+ <td bgcolor="#006600"><img src="mainmenu/separator.gif" width="132" height="11"></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3375"><font color="#FFFFFF">Personal Use</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3376"><font color="#FFFFFF">Medical Use</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3377"><font color="#FFFFFF">Industrial Use</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
 
-<map name="bottombanner"> <area coords="  0,0   65,34" href="/news/index.shtml" alt="News">
-    <area coords=" 64,0  192,34" href="/medical/index.shtml" alt="Medical Marijuana">
-    <area coords="192,0  280,34" href="/laws/index.shtml" alt="Legislation">
-    <area coords="281,0  365,34" href="/legal/index.shtml" alt="Legal Issues">
-    <area coords="366,0  436,34" href="/facts/index.shtml" alt="The Facts">
-    <area coords="437,0  539,34" href="https://banqa.uaqa.com/norml/join/" alt="Contribute">
-</map>
+	<tr> 
+ <td bgcolor="#006600" colspan="2" width="21">&nbsp;</td>
+ <td bgcolor="#006600"><img src="mainmenu/separator.gif" width="132" height="11"></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3378"><font color="#FFFFFF">Legal Issues</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/bullet_new.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3445"><font color="#FFFFFF">Find A Lawyer</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
 
-<!-- Define start of table -->
+	<tr> 
+ <td bgcolor="#006600" colspan="2" width="21">&nbsp;</td>
+ <td bgcolor="#006600"><img src="mainmenu/separator.gif" width="132" height="11"></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/bullet_new.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3441"><font color="#FFFFFF">Contact Us</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3379"><font color="#FFFFFF">About NORML</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3380"><font color="#FFFFFF">About NORML Foundation</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
 
-<center>
+	<tr> 
+ <td bgcolor="#006600" colspan="2" width="21">&nbsp;</td>
+ <td bgcolor="#006600"><img src="mainmenu/separator.gif" width="132" height="11"></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/bullet_new.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3456"><font color="#FFFFFF">T-shirts &amp; Products</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=3450"><font color="#FFFFFF">NORML Banner Ads</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+	<tr valign="top"> 
+ <td bgcolor="#006600"><img src="mainmenu/greenspace.gif" width="5" height="12"></td>
+ <td valign="top" bgcolor="#006600" align="right"><img src="mainmenu/arr_right.gif" width="16" height="15"></td>
+ <td class="menu" bgcolor="#006600" valign="middle"><a href="index.cfm?Group_ID=5101"><font color="#FFFFFF">NORML Links</font></a></td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="20" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+	</tr>
+ <tr> 
+ <td valign="top" bgcolor="#006600" align="right" colspan="2"><img src="mainmenu/greenspace.gif" width="5" height="15"></td>
+ <td bgcolor="#006600" class="menusub">
+
 <br>
-<table border="0" cellpadding="0" cellspacing="10" width="550">
-<tbody><tr>
 
-<!-- Top Row: Contains banners -->
+<a href="#" onclick="win=open('sendpage2.cfm?wtm_reference=http%3A%2F%2Fwww%2Enorml%2Eorg%2Findex%2Ecfm%3FGroup%5FID%3D4487','popup','toolbar=no,directories=no,menubar=no,height=525,width=400,status=no,scrollbars=no');return false;"><font color="FFFFFF">Email this page</font></a>
+<br>
+<a href="/index.cfm?Group_ID=4487&amp;wtm_format=print" target="print"><font color="FFFFFF">Print this page</font></a>
 
-    <td colspan="1"> <img src="/images/topbanner.gif" width="540" height="35" border="0" usemap="#topbanner" alt="Menu">
-    <img src="/about/images/about.gif" width="540" height="59" border="0" usemap="#home" alt="About NORML">
-    </td>
-</tr>
-
-<tr>
-
-
-
-<!-- Main body text will follow -->
-
-
-
-<!-- Main text goes here -->
-
-      <td> <font size="4"> <br>
-        <font color="#0033FF"><b>NORML's Privacy Statement</b></font> 
-        <p> NORML understands your concerns about your privacy, both on and off 
-          the Internet. We have provided this privacy statement so that you will 
-          know what information NORML gathers, how we use that information, and 
-          what you can do to correct it if necessary. 
-        </p><p> <font color="#FF0000">The bottom line is that NORML never provides 
-          any information about its web site visitors, email list subscribers, 
-          contributors or members to any other organization.</font> 
-        </p><p> <font color="#0033FF"><b>What information NORML gathers about you</b></font> 
-        </p><p> <b>Web Traffic Monitoring</b><br>
-          NORML keeps track of IP addresses to gather usage statistics for its 
-          web site. IP addresses are not associated with other information about 
-          a user, but only indicate general visitor navigation patterns. 
-        </p><p> <b>Cookies</b><br>
-          NORML's web site does NOT use cookies. 
-        </p><p> <b>Email News List</b><br>
-          NORML allows you to sign up for a free monthly electronic newsletter. 
-          To subscribe, you must provide your name and email address. This information 
-          is used only to send you the newsletter. You will also be asked for 
-          your postal address, but do not have to provide it. If provided, this 
-          information is used by NORML to send you news and informational material. 
-          You may unsubscribe to stop receiving future mailings as <a href="#unsubscribe">described 
-          below</a>.<br>
-          <i>This information is never provided to any other organizations.</i> 
-        </p><p><b><a name="stateinfo"></a>Providing State Information <br>
-          </b>With supporters' privacy in mind, NORML and the NORML Foundation 
-          do not share information gathered electronically with other organizations. 
-          The value in identifying your state to NORML and the NORML Foundation 
-          allows us to better organize the massive social efforts necessary to 
-          effectively reform marijuana laws. NORML and the NORML Foundation generates 
-          email to individuals who sign-up for NORML's weekly e-zine regarding 
-          state-based marijuana news, law reform efforts, local NORML chapter 
-          formations, conferences, protests, rallies, concerts, etc... 
-        </p><p><b>Donations and Purchases Online</b><br>
-          NORML allows you to contribute financial support, become a member, purchase 
-          books and other merchandise, and occasionally register for conferences 
-          online. To do so, you must provide your name, postal address, and credit 
-          card information. You are sometimes asked to optionally provide email 
-          addresses and/or telephone numbers. For your protection, NORML uses 
-          a secure server to collect this information. The credit card information 
-          is used solely to bill you for your donations and/or purchases. For 
-          purchases, postal addresses are used to send merchandise. For members, 
-          postal addresses are used to send mailings keeping you informed of marijuana 
-          law reform news. You may ask to stop receiving future mailings as <a href="#unsubscribe">described 
-          below</a>. Telephone numbers, if provided, are used to contact the buyer 
-          in case of problems with a purchase and may in the future be used to 
-          solicit contributions.<br>
-          <i>This information is never provided to any other organizations.</i> 
-        </p><p> <a name="unsubscribe"></a> <font color="#0033FF"><b>Change, Unsubscribe, 
-          and Delete Requests</b></font> 
-        </p><p> To change your membership information, unsubscribe from an email list, 
-          or request that NORML take you off their postal mailing list and/or 
-          telephone solicitation list, you can contact us through any of the following 
-          means. 
-        </p><p> 
-        </p><ol>
-          <li>Send email to <a href="mailto:norml@norml.org">norml@norml.org</a> 
-          </li><li>Send mail to:<br>
-            <i> NORML<br>
-            1001 Connecticut Ave, NW, Ste 710<br>
-            Washington, DC 20036 </i> 
-          </li><li>Call 202-483-5500 
-        </li></ol>
-        <p> <font color="#0033FF"><b>Contacting the Web Site</b></font> 
-        </p><p> If you have any questions regarding this privacy statement, NORML's 
-          practices, or your dealings with this web site, please <a href="/contact/index.html">contact 
-          us</a>. 
-        </p></font><p><font size="4"> 
-        </font> </p></td>
-
-<!-- End of main text -->
-
-
-<!-- End of Body for About section. -->
-
-  </tr>
-
-  <tr>
-    <td colspan="1" align="CENTER">
-        <br>
-    <img src="/images/none_nav.gif" width="540" height="35" border="0" usemap="#bottombanner" alt="Menu">
-    </td>
-  </tr>
+</td>
+ <td bgcolor="#006600"><img src="spacer.gif" width="12" height="12"></td>
+ <td><img src="spacer.gif" width="5" height="12"></td>
+ </tr>
 
 </tbody></table>
-</center>
+<img src="mainmenu/widget_bottom.gif" width="173" height="33"><br>
+<table width="173" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+ <td><img src="ezine/box_top.gif" width="173" height="29" alt="Get our eZine"></td>
+ </tr>
+ <tr bgcolor="#333366"> 
+ <td bgcolor="#333366"> 
+ 
+ <table width="173" border="0" cellspacing="0" cellpadding="2" bgcolor="#333366">
+ <tbody><tr> 
+ <td bgcolor="#333366"><form method="post" action="http://mail.norml.org/s/news.420"></form></td>
+
+ </tr><tr> 
+ <td bgcolor="#333366"></td>
+ <td colspan="2"> 
+ <input type="text" name="name" value="Name" size="12">
+ </td>
+ </tr>
+
+ <tr> 
+ <td>&nbsp;</td>
+ <td colspan="2"> 
+ <input type="text" name="email" value="Email" size="12">
+ </td>
+ </tr>
+ 
+ <tr> 
+ <td>&nbsp;</td>
+ <td class="submenu"> 
+ <select name="state">
+ <option value="">Select One 
+ </option><option value="ALL">Send All States 
+ </option><option value="CAN">Canada 
+ </option><option value="MEX">Mexico 
+ </option><option value="EUR">Europe 
+ </option><option value="OTH">Other 
+ </option><option value="AL">Alabama 
+ </option><option value="AK">Alaska 
+ </option><option value="AS">Am. Samoa 
+ </option><option value="AZ">Arizona 
+ </option><option value="AR">Arkansas 
+ </option><option value="CA">California 
+ </option><option value="CO">Colorado 
+ </option><option value="CT">Connecticut 
+ </option><option value="DE">Delaware 
+ </option><option value="DC">District of
+ </option><option value="DC"> Columbia 
+ </option><option value="FL">Florida 
+ </option><option value="GA">Georgia 
+ </option><option value="GU">Guam 
+ </option><option value="HI">Hawaii 
+ </option><option value="ID">Idaho 
+ </option><option value="IL">Illinois 
+ </option><option value="IN">Indiana 
+ </option><option value="IA">Iowa 
+ </option><option value="KS">Kansas 
+ </option><option value="KY">Kentucky 
+ </option><option value="LA">Louisiana 
+ </option><option value="ME">Maine 
+ </option><option value="MH">Marshall Islands 
+ </option><option value="MD">Maryland 
+ </option><option value="MA">Massachusetts 
+ </option><option value="MI">Michigan 
+ </option><option value="MN">Minnesota 
+ </option><option value="MS">Mississippi 
+ </option><option value="MO">Missouri 
+ </option><option value="MT">Montana 
+ </option><option value="NE">Nebraska 
+ </option><option value="NV">Nevada 
+ </option><option value="NH">New Hampshire 
+ </option><option value="NJ">New Jersey 
+ </option><option value="NM">New Mexico 
+ </option><option value="NY">New York 
+ </option><option value="NC">North Carolina 
+ </option><option value="ND">North Dakota 
+ </option><option value="OH">Ohio 
+ </option><option value="OK">Oklahoma 
+ </option><option value="OR">Oregon 
+ </option><option value="PA">Pennsylvania 
+ </option><option value="PR">Puerto Rico 
+ </option><option value="RI">Rhode Island 
+ </option><option value="SC">South Carolina 
+ </option><option value="SD">South Dakota 
+ </option><option value="TN">Tennessee 
+ </option><option value="TX">Texas 
+ </option><option value="UT">Utah 
+ </option><option value="VT">Vermont 
+ </option><option value="VI">Virgin Islands 
+ </option><option value="VA">Virginia 
+ </option><option value="WA">Washington 
+ </option><option value="WV">West Virginia 
+ </option><option value="WI">Wisconsin 
+ </option><option value="WY">Wyoming 
+
+ </option></select>
+
+ </td>
+ </tr>
+ 
+ <tr bgcolor="#333366"> 
+ <td>&nbsp;</td>
+ <td class="menusub" valign="middle"><input type="image" src="ezine/go.gif" name="ezine" width="20" height="21" border="0"> &nbsp; <a href="index.cfm?Group_ID=4487"><font color="#FFFFFF">Details &amp; Privacy</font></a> </td>
+ </tr>
+ <tr bgcolor="#333366"> 
+ <td></td>
+ <td colspan="2"></td>
+ </tr>
+	
+ </tbody></table>
+ </td>
+	</tr>
+	<tr>
+ <td><img src="ezine/box_bot.gif" width="173" height="13"></td>
+	</tr>
+</tbody></table>
+ 
+ </td>
+ 
+<td bgcolor="#FFFFFF" valign="top"> 
+ <table width="100%" border="0" cellspacing="0" cellpadding="20">
+ <tbody><tr>
+ <td> 
+ <p><b><font face="Arial, Helvetica, sans-serif" size="1"> <a href="index.cfm?Group_ID=3374"><font color="#000000">Home</font></a> &gt; <font color="#993300">Privacy Statement</font></font></b></p>
+
+ <p><font face="Arial, Helvetica, sans-serif" size="2"><font color="#993300"><b><font size="4">Privacy Statement</font></b></font></font></p>
+ <p><font face="Arial, Helvetica, sans-serif" size="2">
+ 
+<font size="4"><strong>NORML's Privacy Statement</strong> </font>
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2">NORML understands your concerns about your privacy, both on and off the Internet. We have provided this privacy statement so that you will know what information NORML gathers, how we use that information, and what you can do to correct it if necessary. 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2"><font color="#ff0000">The bottom line is that NORML never provides any information about its web site visitors, email list subscribers, contributors or members to any other organization.</font> 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2"><b><font size="3">What information NORML gathers about you</font></b> 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2"><b>Web Traffic Monitoring</b><br>NORML keeps track of IP addresses to gather usage statistics for its web site. IP addresses are not associated with other information about a user, but only indicate general visitor navigation patterns. 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2"><b>Cookies</b><br>NORML's web site does NOT use cookies. 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2"><b>Email News List</b><br>NORML allows you to sign up for a free monthly electronic newsletter. To subscribe, you must provide your name and email address. This information is used only to send you the newsletter. You will also be asked for your postal address, but do not have to provide it. If provided, this information is used by NORML to send you news and informational material. You may unsubscribe to stop receiving future mailings as <a href="#unsubscribe">described below</a>.<br><i>This information is never provided to any other organizations.</i> 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2"><b><a name="stateinfo"></a>Providing State Information <br></b>With supporters' privacy in mind, NORML and the NORML Foundation do not share information gathered electronically with other organizations. The value in identifying your state to NORML and the NORML Foundation allows us to better organize the massive social efforts necessary to effectively reform marijuana laws. NORML and the NORML Foundation generates email to individuals who sign-up for NORML's weekly e-zine regarding state-based marijuana news, law reform efforts, local NORML chapter formations, conferences, protests, rallies, concerts, etc... 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2"><b>Donations and Purchases Online</b><br>NORML allows you to contribute financial support, become a member, purchase books and other merchandise, and occasionally register for conferences online. To do so, you must provide your name, postal address, and credit card information. You are sometimes asked to optionally provide email addresses and/or telephone numbers. For your protection, NORML uses a secure server to collect this information. The credit card information is used solely to bill you for your donations and/or purchases. For purchases, postal addresses are used to send merchandise. For members, postal addresses are used to send mailings keeping you informed of marijuana law reform news. You may ask to stop receiving future mailings as <a href="#unsubscribe">described below</a>. Telephone numbers, if provided, are used to contact the buyer in case of problems with a purchase and may in the future be used to solicit contributions.<br><i>This information is never provided to any other organizations.</i> 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2"><a name="unsubscribe"></a><b><font size="3">Change, Unsubscribe, and Delete Requests</font></b> 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2">To change your membership information, unsubscribe from an email list, or request that NORML take you off their postal mailing list and/or telephone solicitation list, you can contact us through any of the following means. 
+</font></p><p><font face="Arial, Helvetica, sans-serif" size="2">
+</font></p><ol><font face="Arial, Helvetica, sans-serif" size="2">
+<li>Send email to <a href="mailto:norml@norml.org">norml@norml.org</a> 
+</li><li>Send mail to:<br><i>NORML<br>1600 K Street, NW<br> Suite 501<br> Washington, DC&nbsp; 20006-2832</i>
+</li><li>Call 202-483-5500 </li></font></ol><font face="Arial, Helvetica, sans-serif" size="2">
+<p><b><font size="3">Contacting the Web Site</font></b> 
+</p><p>If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please <a class="" href="index.cfm?Group_ID=3441">contact us</a>.</p>
+
+<p></p></font> 
+ </td>
+ </tr>
+	<tr><td align="right" valign="bottom">updated: Oct 01, 2002
+	</td></tr>
+ </tbody></table> 
+</td>
+	</tr>
+	
+ <tr>
+ <td>&nbsp; </td>
+ <td bgcolor="#FFFFFF" valign="bottom"><img src="content/widget_bot.gif" width="422" height="27"></td>
+ </tr>
+
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr bgcolor="#006600" align="center"> 
+ <td align="center" bgcolor="#006600"> 
+ <table width="600" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr> 
+ <td><img src="footer/name_tagline.gif" width="427" height="31" alt="NORML"></td>
+ <td align="right"><a href="#top"><img src="footer/top.gif" width="50" height="31" border="0"></a></td>
+ </tr>
+ </tbody></table>
+ </td>
+ </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr bgcolor="#FFFFFF" align="center"> 
+ <td> 
+ <table width="600" border="0" cellspacing="0" cellpadding="5">
+ <tbody><tr> 
+ <td><font face="Arial, Helvetica, sans-serif" size="2"> <a href="index.cfm?Group_ID=4486" class="noline"><font color="black">Site 
+ Map</font></a> • <a href="index.cfm?Group_ID=3441" class="noline"><font color="black">Contact 
+ Us</font></a> • <a href="index.cfm?Group_ID=3454" class="noline"><font color="black">Support 
+ NORML</font></a> • <a href="index.cfm?Group_ID=3443" class="noline"><font color="black">Take 
+ Action</font></a> • <a href="index.cfm?Group_ID=3444" class="noline"><font color="black">Library</font></a> 
+ </font></td>
+ </tr>
+ </tbody></table>
+ </td>
+ </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr bgcolor="#CCCC99" align="center"> 
+ <td align="center"> 
+ <table width="600" border="0" cellspacing="0" cellpadding="5">
+ <tbody><tr> 
+ <td><font face="Arial, Helvetica, sans-serif" size="2">© 2002 NORML 
+ • <a href="index.cfm?Group_ID=4487" class="noline"><font color="black">Read 
+ our Privacy Statement</font></a> • Site by <a href="http://www.communicopia.net" target="_blank" class="noline"><font color="black">Communicopia.Net</font></a></font></td>
+ </tr>
+ </tbody></table>
+ </td>
+ </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr bgcolor="#FFFFFF" align="center"> 
+ <td align="center"> 
+ <table width="600" border="0" cellspacing="0" cellpadding="5">
+ <tbody><tr> 
+ <td><font face="Arial, Helvetica, sans-serif" size="1">NORML and the 
+ NORML Foundation: 1600 K Street NW, Suite 501, Washington 
+ DC, 20006-2832</font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+ Tel: (202) 483-5500 • Fax: (202) 483-0057 • Email: <a href="mailto:norml@norml.org" class="noline"><font color="black">norml@norml.org</font></a></font></td>
+ </tr>
+ </tbody></table>
+ </td>
+ </tr>
+</tbody></table>
 
 
 
 
-
-
-</body></html>
+ </body></html>
