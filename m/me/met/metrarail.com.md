@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601190137id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004000927id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
 
 # Metra Privacy
 
 [ ](http://www.metrarail.com/) |  ** Website Privacy Policy** |     
 ---|---|---  
-   |       It's: 7:06:27 AM Friday, 31st January  
+   |        
 ---|---  
 **Our Commitment to Privacy**  
 Your privacy is important to us and Metra is committed to maintaining your confidence and trust. For that reason, we have established this Privacy Policy. Any personal information provided by customers/visitors to the Northeast Illinois Regional Commuter Railroad (Metra) Website is used for internal purposes only. Metra does not plan to divulge, sell or lease any personal information, customer listings, or aggregate data gathered through the Metra site to any outside party.
