@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the private.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222753id_/http%3A//www.private.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the private.com privacy policy that was archived on 2003-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030612051753id_/http%3A//www.private.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Private
+# Private.com - Hardcore Adult Entertainment Since 1965
 
-  | 
+  |    
+|   | 
 
 * * *
 
-| Milcap Media Group Privacy Policy |  Milcap Media Group (referred to as 'Milcap') knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Private.com and any of the sites in the Milcap family (as described in paragraph x), you are accepting the practices described in this Privacy Policy. 
+| **Milcap Media Group  
+Privacy Policy** |  Milcap Media Group (referred to as 'Milcap') knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Private.com and any of the sites in the Milcap family (as described in paragraph x), you are accepting the practices described in this Privacy Policy. 
 
 What this privacy policy covers
 
@@ -52,8 +54,6 @@ This site gives users the following options for changing and modifying informati
 
 \- Log in to access your personal account or  
 \- Send an email to Customer Service here: [support@private.com](mailto:support@private.com)  
-  
-  
   
 ---|---  
   
@@ -151,7 +151,7 @@ These are the instances in which we will share users' personal information:
 **We DO NOT Share Personal Information with Third Parties.**  
 
 
-In compliance with section 2257. All models over 18, proof of age on file with V. Montbriand, Private North America, 10947 Pendleton St. Sun Valley, Ca. 91352.   
+In compliance with Title 18 U.S.C. Section 2257. All models over 18, proof of age on file with G. Leonardi , Private North America, 10947 Pendleton St. Sun Valley, Ca. 91352   
   
 ---|---  
   
@@ -243,7 +243,7 @@ If a user elects to use our referral service for informing a friend about our si
 
 **Chat Rooms** | 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.  
+Please keep in mind that whenever you voluntarily disclose personal information online \- for example, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.  
   
   
 ---|---  
@@ -316,4 +316,5 @@ Email: [support@private.com](mailto:support@private.com)
   
 
 
+   
  
