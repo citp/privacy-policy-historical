@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607193159id_/http%3A//oxfam.org.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2002-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020813113054id_/http%3A//www.oxfam.org.uk/privacy.htm) for the most accurate reproduction.*
 
 # Oxfam GB
 
