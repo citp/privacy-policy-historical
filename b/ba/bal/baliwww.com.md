@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603125739id_/http%3A//baliwww.com/pivpol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211233606id_/http%3A//baliwww.com/pivpol.htm) for the most accurate reproduction.*
 
 # Access Bali Online | Privacy Policy
 
 Access Bali Online is committed to safeguarding your privacy online. Even when you visit us as a visitor and or general user, we stay give our high commitment to make you feel safe and free. In order to contact us, for instance, we provide you with various safe ways which you can prefer and use according to your own conditions. All are in safe and fair way. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically.   
 ---  
 **RSAC Certified** | **Public Eye**  
-| [](http://208.8.12.151/pereport.cfm?key=13721)  
+| [](http://pe.epubliceye.com/fl/report.cfm?key=8299&lang=english)  
 The two above certificates apply to all sites under Access Bali Online ([http://baliwww.com](http://baliwww.com/)). They state that Access Bali Online has a safe, educational, legal, non-pornographic, non-provocative site. More and accurate information about the two certificates could be found in their own sites at [http://www.rsac.org](http://www.rsac.org/) and [http://www.thepubliceye.com](http://www.thepubliceye.com/).   
 Please read the following information on how we treat any personal information of our clients or customers.  
   
@@ -26,7 +26,9 @@ The following sites are included and covered with and into this Privacy Policy :
 \- [http://hotelwww.net](http://hotelwww.net/) or [http://www.hotelwww.net](http://www.hotelwww.net/) and or pages under its.  
 \- [http://bali-plus.com](http://bali-plus.com/) or [http://www.bali-plus.com](http://www.bali-plus.com/) and or pages under its.  
 \- [http://villas-bali.com](http://villas-bali.com/) or [http://www.villas-bali.com](http://www.villas-bali.com/) and or pages under its.  
-\- [http://balidomains.com](http://balidomains.com/) or [http://www.balidomains.com](http://www.balidomains.com/) and or pages under its.
+\- [http://balidomains.com](http://balidomains.com/) or [http://www.balidomains.com](http://www.balidomains.com/) and or pages under its.  
+\- [http://balibackpacker.com](http://balibackpacker.com/) or [http://www.balibackpacker.com](http://www.balibackpacker.com/) and or pages under its.  
+\- [http://baliroomfinder.com](http://baliroomfinder.com/) or [http://www.baliroomfinder.com](http://www.baliroomfinder.com/) and or pages under its.
 
 **More About Privacy**  
 More information about this Privacy Policy could be asked directly to our President Director via email : [abldirector@baliwww.com](mailto:abldirector@baliwww.com) or voice at (62-361) 735063, 735062 or 081-2391-2002.
