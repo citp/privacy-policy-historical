@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wabafun.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206091915id_/http%3A//superstructs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabafun.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305181741id_/http%3A//www.superstructs.com/privacy.html) for the most accurate reproduction.*
 
 # Superstructs | WABA Fun, LLC Privacy Policy
 
