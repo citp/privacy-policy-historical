@@ -1,1207 +1,573 @@
-<!--The following is the downloaded HTML source of the batelco.com privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203053550id_/http%3A//www.inet.com.bh/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the batelco.com privacy policy that was archived on 2004-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604110501id_/http%3A//www.batelco.com/privacy.asp) for the most accurate reproduction.-->
 
-<html><head><script id="clientEventHandlersJS" language="javascript">
-      	
-      	function ValidateSearchForm(me) {
-	 	var strkeyword = document.CatForm.strkeyword.value; 
-	  			if (strkeyword == "")
-	  			{																					
-	  				alert("Please enter a keyword");	
-	  				document.CatForm.strkeyword.focus();
-	  				return false;
-	  			}												
-	  			
-	  			if (document.CatForm.Category.selectedIndex == 0)
-	  			{				
-					document.CatForm.Target.value = "Inet"
-					document.CatForm.submit();	
-				}
-
-	  			else if (document.CatForm.Category.selectedIndex == 1)
-	  			{							  			
-	  				window.open("/Bahrainyp/bahrainyp.asp?txtFind=" + strkeyword, "fraRL","height=300,width=500,toolbar=yes,location=yes,directories=no,status=yes,scrollbars=yes,resizable=yes,copyhistory=no");
-	  				document.CatForm.strkeyword.value = "";
-	  				return false;
-	  			}
-	  			
-	  			else if(document.CatForm.Category.selectedIndex == 3)
-	  			{							  			
-	  				window.open("http://www.ameinfo.com/cgi-bin/findcpnp.cgi?D1=All+Middle+East+Countries&find=" + strkeyword + "&R1=V5", "fraRL","height=300,width=500,toolbar=yes,location=yes,directories=no,status=yes,scrollbars=yes,resizable=yes,copyhistory=no");
-	  				document.CatForm.strkeyword.value = "";
-	  				return false; 		
-	  			}							  		
-	  			else if(document.CatForm.Category.selectedIndex == 2)
-	  			{ 		
-					document.CatForm.submit();	
+<html><head>
+<title>: Batelco.com :</title>
+<script language="javascript">
+	arrow_off = new Image;
+	arrow_off.src = "/images/readarrow0.gif";
+	arrow_on = new Image;
+	arrow_on.src = "/images/arrow0.gif";
 	
-				}	
-	  	}
-							  	
-	  	function CheckCategory(Category)
-	  	{
-	  		if (Category == 4)
-	  		{							
-				document.CatForm.Target.value = "Encarta"
-				document.CatForm.submit();	  							  			
-	  		}
-	  		if (Category == 5)
-	  		{							
-	  			var f = document.forms.CatForm;     
-				document.CatForm.Target.value = "BahrainSites"
-				document.CatForm.submit();	  						  			
-	  		}							  									  		
-	  	}
-	  
-function validate()
-	  {
-	  var strname = document.subscribe.txtName.value;
-	  var stremail = document.subscribe.txtEmail.value;
-	  if ( strname== "")
-	  {
-			alert ("Please Enter your Name:");
-			document.subscribe.txtName.focus();  
-			return false;
-	  }
-	  else if ( stremail== "")
-	  {
-	  		alert ("Please Enter your Email:");
-			document.subscribe.txtEmail.focus();
-			return false;
-	  }
-	  
-	  else if ((stremail.indexOf('@',0) == -1 ) || ((stremail.indexOf('.',0) == -1 )))
-	  {
-			alert("Please enter a valid Email Address...");
-			document.subscribe.txtEmail.focus();
-			return false;
-	  }
-
-	   else
-			url = "subscribe.asp?txtName=" + strname + "&txtEmail=" + stremail;		
-			window.open(url, "popup","height=" + "50" + ",width=" + "350" + ",left=" + "280" + ",top=" + "150" + ",status=no,titlebar=no,toolbar=no,menubar=no,resizable=no,scrollbars=no target=_blank ");
-	    return true;
-}	 
-	  	
-function InetLive()
-{
-	var url = "inetLive.asp"	
-	window.open(url, "Inet Live","height=" + "50" + ",width=" + "350" + ",left=" + "280" + ",top=" + "150" + ",status=no,titlebar=no,toolbar=no,menubar=no,resizable=no,scrollbars=no target=_blank ");
-	return true;
-}	 
-		  
-	  	   	
-</script>
-
-
-<script id="clientEventHandlersJS" language="javascript">
-function SendSubCategoryForm(Cat_Id, SubCat_Id, Cat_Name, SubCat_Name)
-{		
-	document.SubCategoryForm.CategoryId.value = Cat_Id; 	 	
-	document.SubCategoryForm.SubCategoryId.value = SubCat_Id;
-	document.SubCategoryForm.CategoryName.value = Cat_Name;	
-	document.SubCategoryForm.SubCategoryName.value = SubCat_Name;		
-	document.SubCategoryForm.submit();  	
-}
-
-</script>
-
-
-
-	<title>Inet Home</title>
-<link rel="stylesheet" href="/layouts/styles.css">
-</head>
-
-<body>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-	<tbody><tr valign="top"> 
-	  <td> <!--Top Starts Here -->
-	  
-	  <table border="0" width="100%" cellpadding="0">
-  <tbody><tr>
-    <td width="10%" valign="baseline">
-      <a href="/index.asp" target="_top"><img border="0" src="/images/Inet-Logo.gif" align="left" width="120" height="62"></a>
-    </td>
-    <td width="70%" valign="baseline"><div align="center"><a href="/mms/mmsenad.asp"><img src="/images/picturewinen.gif" width="468" height="60" border="0"></a> 
-      </div>
-    </td>
-    <td width="20%" valign="baseline">
-		<a href="http://arabic.inet.com.bh/" target="_top"><img border="0" src="/images/ArabicEdition.gif" align="right" width="89" height="30"></a>
-    </td>
-  </tr>
-    <tr>
-    <td width="10%" valign="baseline">&nbsp;
-     
-    </td>
-    <td width="70%" valign="baseline">&nbsp;
-	
-    </td>
-    <td width="20%" valign="baseline" align="right">
-		<script>
-			// Code for getting the date
-			var dayarray=new Array("Sun","Mon","Tue","Wed","Thu","Fri","Sat")
-			var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
-
-			//function getthedate(){
-			var mydate=new Date()
-			var year=mydate.getYear()
-			if (year < 1000)
-			year+=1900
-			var day=mydate.getDay()
-			var month=mydate.getMonth()
-			var daym=mydate.getDate()
-			if (daym<10)
-			daym="0"+daym
-			var hours=mydate.getHours()
-			var minutes=mydate.getMinutes()
-			var seconds=mydate.getSeconds()
-			var dn="AM"
-			if (hours>=12)
-			dn="PM"
-			if (hours>12){
-			hours=hours-12
-			}
-			if (hours==0)
-			hours=12
-			if (minutes<=9)
-			minutes="0"+minutes
-			if (seconds<=9)
-			seconds="0"+seconds
-			//change font size here
-			//var cdate="<font color='FFFFFF' face='Verdana, Arial, Helvetica, sans-serif' size='1'>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+" "+hours+":"+minutes+":"+seconds+" "+dn
-			var cdate="<font color='000000' face='Verdana, Arial, Helvetica, sans-serif' size='1'>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year
-
-			+"</font>"
-			document.write(cdate)
-		//	if (document.all)
-		//	document.all.clock.innerHTML=cdate
-		//	else if (document.getElementById)
-		//	document.getElementById("clock").innerHTML=cdate
-		//	else
-		//	document.write(cdate)
-			//}
-		//	if (!document.all&&!document.getElementById)
-		//	getthedate()
-		//	function goforit(){
-		//	if (document.all||document.getElementById)
-		//	setInterval("getthedate()",1000)
-		//	}
-		</script><font color="000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">Thu, January 30, 2020</font>
-
-    </td>
-  </tr>
-</tbody></table>
-
-	  
-	       <!--Top Ends here --></td>
-	</tr>
-	<tr valign="top" bgcolor="#96AED8"> 
-	  <td width="50%"><img src="/images/1pix-transparent.gif" height="1" width="1"></td>
-	</tr>
-	<tr valign="top">
-	  <td> 
-	    <table cellspacing="0" cellpadding="0" width="100%" border="0">
-	        <tbody><tr> 
-	          <td valign="top" width="134"> 
-	            <div align="center"> 
-	              
-	            <table width="134" border="0" cellspacing="0" cellpadding="0">
-	              <tbody><tr> 
-	                <td> <!--Favourites Starts Here -->
-	                
-						<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#4380BC" border="0">
-			<tbody> 
-				<tr align="middle"> 
-				  <td width="100%">
-                        <b><font color="#ffffff" face="Verdana" size="2">Features</font></b> 
-				  </td>
-				</tr>
-				<tr> 
-				  <td width="100%"> 
-				    
-      <table cellpadding="0" width="100%" bgcolor="#96AED8" border="0">
-          <tbody>
-            <tr> 
-              <td align="left" width="24"> <img height="22" src="/images/Services.gif" width="22" border="0"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="/layouts/iNetServices.asp?CategoryId=1&amp;SubCategoryId=1"><font color="red">i</font>net 
-                Services</a></font></b> </td>
-            </tr>
-            <tr> 
-              <td align="left"> <img height="22" src="/images/support.jpg" width="22" border="0"> 
-              </td>
-              <td></td>
-              <td> <b><font face="Verdana" size="1"><a href="/support/index.asp"><font color="red">i</font>net 
-                Support</a></font></b></td>
-            </tr>
-            <tr> 
-              <td align="left" width="24"> <img height="22" src="/images/e-mail.gif" width="22" border="0"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="/layouts/MailServers/CheckEmail.asp">Check 
-                e-mail</a></font></b> </td>
-            </tr>
-            <tr> 
-              <td align="left"> <img border="0" src="/images/jobsearch.jpg" width="22" height="22"> 
-              </td>
-              <td></td>
-              <td> <b><font face="Verdana" size="1"><a href="/bayt/index.asp">Jobs 
-                @ <font color="#FF0000">i</font>net<font color="#000000"> </font></a></font></b> 
-              </td>
-            </tr>
-            <tr> 
-              <td align="left" width="24"> <img border="0" src="/images/travel.jpg" width="22" height="22"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="/inettravel/index.asp">Travel 
-                Booking</a> </font></b> </td>
-            </tr>
-            <tr> 
-              <td align="left" width="24"> <img border="0" src="/images/Greetings.gif" width="22" height="22"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="/greetings/index.asp">Greetings</a></font></b> 
-              </td>
-            </tr>
-            <tr> 
-              <td align="left" width="24"> <img height="22" src="/images/Weather.gif" width="22" border="0"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="/weather/index.asp">World 
-                Weather</a></font></b> </td>
-            </tr>
-            <tr> 
-              <td align="left" width="24"> <img height="22" src="/images/Games.gif" width="22" border="0"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="/Games/index.asp">Play 
-                Games</a></font></b> </td>
-            </tr>
-            <tr> 
-              <td align="left" width="24"> <img height="22" src="/images/Horoscopes.gif" width="22" border="0"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="/Horoscopes/index.asp">Horoscopes</a></font></b> 
-              </td>
-            </tr>
-            <tr> 
-              <td align="left" width="24"> <img height="22" src="/images/Movie.gif" width="22" border="0"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="/ArticleDetail.asp?CategoryId=2&amp;SubCategoryId=6&amp;ArticleId=1278">Movie 
-                Guide</a></font></b> </td>
-            </tr>
-            <tr> 
-              <td align="left" width="24"> <img height="22" src="/images/Discussions.gif" width="22" border="0"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="/Discussion/index.asp">Discussions</a></font></b> 
-              </td>
-            </tr>
-            <tr> 
-              <td align="left" width="24"> <img height="22" src="/images/Discussions.gif" width="22" border="0"> 
-              </td>
-              <td width="1"></td>
-              <td width="104"> <b><font face="Verdana" size="1"><a href="http://10.193.1.5:123/">Visit 
-                CMS</a></font></b> </td>
-            </tr>
-            <tr>
-              <td align="left"><img src="/images/btd.gif" width="22" height="22"></td>
-              <td></td>
-              <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://www.bah-directory.com.bh" target="_blank">Bahrain 
-                Telephone Directory</a></strong></font></td>
-            </tr>
-          </tbody>
-        </table>
-				  </td>
-				</tr>
-			</tbody> 
-      </table>
-	                
-						   <!--Favourites Ends here -->
-					</td>
-				 </tr>
-				<tr> 
-				  <td height="2"></td>
-				</tr>
-				<tr> 
-				   <td> <!--Special Events Starts Here -->
-						<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#4380BC" border="0">
-        <tbody> 
-			<tr align="middle"> 
-				<td width="100%">
-                    <p align="center"><b><font color="#ffffff" face="Verdana" size="2">Highlights</font></b></p>
-				</td>
-			</tr>
-			<tr> 
-			  <td width="100%"> 
-			    <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#96AED8" border="0" align="center">
-          <tbody><tr>
-            <td height="2"> <p align="center"> </p></td>
-          </tr>
-          <!--<tr>
-            <td height="2"> 
-              <p align="center"><a href="/greetings/eid.asp"><img border="0" src="/images/eid203.gif" WIDTH="130" ></a></td>
-          </tr>-->
-          <tr> 
-            <td height="2"> <p align="center"> </p></td>
-          </tr>
-          <tr> 
-            <td height="2"> <p align="center"><a href="javascript:void(0)" onclick="open('http://www.batelco.com.bh/bd1/bd1.html','miniwin','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=711,height=600')"><img src="/images/simsimnew.gif" width="130" height="34" border="0"></a></p></td>
-          </tr>
-          </tbody><tbody>
-            <tr> 
-              <td height="2"> <p align="center"></p></td>
-            </tr>
-            <tr> 
-              <td height="2"> <p align="center"><a href="http://www.batelcoeshop.com.bh" target="_blank"><img src="/images/bshop.gif" width="131" height="60" border="0"></a></p></td>
-            </tr>
-            <tr> 
-              <td height="2"> <p align="center"> </p></td>
-            </tr>
-            <tr> 
-              <td height="2"> <p align="center"><a href="/announce/index.asp"><img border="0" src="/images/mazikapromo.gif" width="130"></a></p></td>
-            </tr>
-            <tr> 
-              <td height="2"> <p align="center"> </p></td>
-            </tr>
-            <tr> 
-              <td height="2"> <div align="center"> 
-                  <center>
-                    <table border="0" cellpadding="0" cellspacing="1" width="140">
-                      <tbody><tr> 
-                        <td width="22"><img border="0" src="/images/forknife.jpg" width="22" height="22"></td>
-                        <td width="118"><b><font size="1" face="Verdana">&nbsp;<a href="http://www.inet.com.bh/ArticleDetail.asp?CategoryId=2&amp;SubCategoryId=7&amp;ArticleId=1709">Food 
-                          Guide</a></font></b></td>
-                      </tr>
-                      <tr> 
-                        <td width="22"><img border="0" src="/images/night.jpg" width="22" height="22"></td>
-                        <td width="118"><b><font size="1" face="Verdana">&nbsp;<a href="http://www.inet.com.bh/ArticleDetail.asp?CategoryId=2&amp;SubCategoryId=6&amp;ArticleId=7700">Night 
-                          Life</a></font></b></td>
-                      </tr>
-                      <tr> 
-                        <td width="22"><img border="0" src="/images/cart.jpg" width="22" height="22"></td>
-                        <td width="118"><b><font size="1" face="Verdana">&nbsp;<a href="http://www.inet.com.bh/shop/index.asp">Shopping 
-                          Guide</a></font></b></td>
-                      </tr>
-                      <tr> 
-                        <td width="22"><img border="0" src="/images/disc.jpg" width="22" height="22"></td>
-                        <td width="118"><b><font size="1" face="Verdana">&nbsp;<a href="http://www.inet.com.bh/ArticleDetail.asp?CategoryId=2&amp;SubCategoryId=9&amp;ArticleId=6780">Promo 
-                          Corner</a></font></b></td>
-                      </tr>
-                    </tbody></table>
-                  </center>
-                </div></td>
-            </tr>
-            <tr align="middle"> 
-              <td width="100%" height="2"></td>
-            </tr>
-            <tr align="middle"> 
-              <td width="100%" height="2"></td>
-            </tr>
-          </tbody>
-        </table>
-			  </td>
-			</tr>
-			</tbody> 
-      </table>
-
-				        <!--Special Events Ends here --></td>
-				</tr>
-				<tr> 
-				  <td height="2"></td>
-				</tr>
-				<tr> 
-                  <td> <!--Prayer Time  Starts Here -->
-
-					<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#4380BC" border="0">
-        <tbody> 
-			<tr align="middle"> 
-			  <td width="100%">
-				<b><font face="Verdana, Arial" color="#ffffff" size="2">Prayer Time</font></b>
-			  </td>
-			</tr>
-			<tr> 
-			  <td width="100%"> 
-			    <table cellpadding="0" cellspacing="0" width="100%" bgcolor="#96AED8" border="0">
-			      <tbody> 
-					<tr> 
-						<td height="2">
-                           
-                        <div align="center">
-                          <center>
-                           
-                        <table border="0" width="90%" cellspacing="0" cellpadding="0" bgcolor="#96AED8">
-                          <tbody><tr>
-						<td>
-							<font face="Verdana, Arial" size="1">Fajr</font>
-						</td>
-						<td align="right">
-                            <font face="Verdana, Arial" size="1">4.41 am</font>
-						</td>
-                          </tr>
-                          <tr>
-						<td>
-							<font face="Verdana, Arial" size="1">Dhohor</font>
-						</td>
-						<td align="right">
-							<font face="Verdana, Arial" size="1">11.30 am</font>
-						</td>
-                          </tr>
-                          <tr>
-						<td>
-							<font face="Verdana, Arial" size="1">Asr</font>
-						</td>
-					  <td align="right">
-							<font face="Verdana, Arial" size="1">2.29 pm</font>
-						</td>
-                          </tr>
-                          <tr>
-						<td>
-							<font face="Verdana, Arial" size="1">Maghreb</font>
-						</td>
-						<td align="right">
-                            <font face="Verdana, Arial" size="1">4.49 pm</font>
-						</td>
-                          </tr>
-                          <tr>
-						<td>
-							<font face="Verdana, Arial" size="1">Esha</font>
-						</td>
-						<td align="right">
-							<font face="Verdana, Arial" size="1">6.19 pm</font>
-						</td>
-                          </tr>
-                        </tbody></table>
-                           
-                          </center>
-                        </div>
-                           
-						</td>
-					</tr>
-					<tr> 
-						<td valign="middle" align="center" bgcolor="#FFFFFF" height="2">
-						</td>
-					</tr>
-					<tr> 
-						<td bgcolor="#96AED8">
-                           <p align="center">
-                           <a target="_blank" href="http://www.batelco.com.bh"><img border="0" src="/images/batelco-hilite.gif" width="136" height="43"></a></p>
-                        </td></tr>
-			      </tbody> 
-			    </table>
-			  </td>
-			</tr>
-        </tbody> 
-      </table>
-
-                       <!--Prayer Time  Ends here -->
-                  </td>
-				</tr>
-         				
-				<tr> 
-				  <td></td>
-				</tr>
-			
-			</tbody></table>
-		</div>
-       </td>
-            <!-- Hidden Form -------------------------------------------------> 
-            <form name="SubCategoryForm" action="/SubCategory.asp" method="post"></form>
-              <input type="hidden" name="CategoryId">
-              <input type="hidden" name="SubCategoryId">
-              <input type="hidden" name="CategoryName">
-              <input type="hidden" name="SubCategoryName">
-            
-            <!----------------------------------------------------------------> 
-            
-          <td valign="top" align="left" width="100%"> 
-            <div align="center"> 
-              <table cellspacing="0" cellpadding="0" width="95%" align="center" border="0">
-                <tbody> 
-                <tr> 
-                  <td></td>
-                </tr>
-                <tr valign="top"> 
-                  <td width="50%"> 
-                   <form method="POST" action="/wwwsearch.asp" onsubmit="return ValidateSearchForm(this);" id="CatForm" name="CatForm">
-                   		<input type="hidden" name="Target">
-	                    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#96AED8">
-		                  <tbody><tr> 
-			                <td>
-					             <!--search Starts Here -->
-					                                    <table cellspacing="0" width="100%" align="center" border="0">
-                            <tbody><tr align="middle"> 
-                              
-    <td bgcolor="#96AED8"><div align="center"><font face="Times New Roman" size="5"><b><img src="/images/inetmovieguide.gif" width="137" height="28" border="1" align="middle" usemap="#Mapmovie" bordercolor="black"></b></font></div></td>
-                              <td> 
-                                <table cellspacing="1" width="100%" border="0" bgcolor="#FFFFFF">
-                                  <tbody> 
-                                  <tr> 
-                                    <td> 
-                                      <table bordercolor="#96AED8" cellspacing="0" width="100%" border="1">
-                                        <tbody> 
-                                        <tr> 
-                                          <td> 
-                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-                                              <tbody><tr valign="middle"> 
-                                                <td align="center" width="30"><font face="Trebuchet MS, verdana" size="2"><b>Search</b></font></td>
-                                                <td align="center"> <font face="Verdana" size="2"> 
-                                                  <input type="text" name="strkeyword" size="8" style="font-family: Verdana; font-size: 8pt; font-weight: bold; ">
-                                                  </font> </td>
-                                                <td align="center"><font align="center" size="2" face="Trebuchet MS, verdana"><b>
-                                                  from</b></font></td>
-                                                <td align="center"> <font face="Verdana" size="2"> 
-                                                  <select style="font-family: Verdana; font-size: 8pt; font-weight: bold;" name="Category" onchange="CheckCategory(this.options[selectedIndex].value);">
-														<option value="0" selected="">Inet</option>
-														<option value="1">Yellow Pages</option>
-														<option value="2">WWW Search</option>
-														<option value="3">AME Info.</option>
-														<option value="4">Encarta</option>
-														<option value="5">Bahrain Sites</option>
-                                                  </select>
-                                                  </font> </td>
-                                                <td align="center"> 
-                                                  <input type="Button" value="Go" id="image1" name="image1" style="font-family: Verdana; font-size: 8pt; font-weight: bold; background-color:#96AED8 ; border-style: solid" onclick="return ValidateSearchForm(this);">
-                                                  
-                                                  </td>
-                                              </tr>
-                                            </tbody></table>
-                                          </td>
-                                        </tr>
-                                        </tbody> 
-                                      </table>
-                                    </td>
-                                  </tr>
-                                  </tbody> 
-                                </table>
-                              </td>
-                            </tr>
-                            <tr> 
-                              <td colspan="2"> </td>
-                            </tr>
-                          </tbody></table>
-<map name="Mapmovie" id="Mapmovie">
-  <area shape="rect" coords="3,2,137,26" href="/ArticleDetail.asp?CategoryId=2&amp;SubCategoryId=6&amp;ArticleId=1278">
-</map>
-   
-						         <!--search Ends here -->
-						    </td>
-						  </tr>
-                          <tr bgcolor="#96AED8"> 
-                              <td> <!--Menu Starts Here --> 
-							     <base target="_self">
-<table border="0" width="95%" align="center">
-<tbody><tr>
-<td width="100%" colspan="2">
-</td>
-</tr>
-<tr><td height="3">
-</td></tr>
-<tr>
-<td width="25%"><b><font size="2" face="Trebuchet MS">
-&nbsp;&nbsp;&nbsp;Bahrain Pulse</font></b></td>
-<td width="75%">
-<a href="javascript:SendSubCategoryForm(2,6,'Bahrain Pulse','Daily Beat');"><font size="2" face="Trebuchet MS">Daily Beat</font></a>
-<b><font color="#FF0000" face="Verdana" size="2">|</font></b>
-<a href="javascript:SendSubCategoryForm(2,7,'Bahrain Pulse','Food Beat');"><font size="2" face="Trebuchet MS">Food Beat</font></a>
-<b><font color="#FF0000" face="Verdana" size="2">|</font></b>
-<a href="javascript:SendSubCategoryForm(2,9,'Bahrain Pulse','Shopping Beat');"><font size="2" face="Trebuchet MS">Shopping Beat</font></a>
-</td></tr>
-
-<tr>
-<td width="25%"><b><font size="2" face="Trebuchet MS">
-&nbsp;&nbsp;&nbsp;News Track</font></b></td>
-<td width="75%">
-<a href="javascript:SendSubCategoryForm(3,10,'News Track','Local');"><font size="2" face="Trebuchet MS">Local</font></a>
-<b><font color="#FF0000" face="Verdana" size="2">|</font></b>
-<a href="javascript:SendSubCategoryForm(3,11,'News Track','Regional');"><font size="2" face="Trebuchet MS">Regional</font></a>
-<b><font color="#FF0000" face="Verdana" size="2">|</font></b>
-<a href="javascript:SendSubCategoryForm(3,12,'News Track','International');"><font size="2" face="Trebuchet MS">International</font></a>
-<b><font color="#FF0000" face="Verdana" size="2">|</font></b>
-<a href="javascript:SendSubCategoryForm(3,13,'News Track','Sports');"><font size="2" face="Trebuchet MS">Sports</font></a>
-<b><font color="#FF0000" face="Verdana" size="2">|</font></b>
-<a href="javascript:SendSubCategoryForm(3,14,'News Track','Light');"><font size="2" face="Trebuchet MS">Light</font></a>
-</td></tr>
-
-<tr>
-<td width="25%"><b><font size="2" face="Trebuchet MS">
-&nbsp;&nbsp;&nbsp;Family Focus</font></b></td>
-<td width="75%">
-<a href="javascript:SendSubCategoryForm(4,15,'Family Focus','Kids');"><font size="2" face="Trebuchet MS">Kids</font></a>
-<b><font color="#FF0000" face="Verdana" size="2">|</font></b>
-<a href="javascript:SendSubCategoryForm(4,17,'Family Focus','Lifestyle');"><font size="2" face="Trebuchet MS">Lifestyle</font></a>
-<b><font color="#FF0000" face="Verdana" size="2">|</font></b>
-<a href="javascript:SendSubCategoryForm(4,18,'Family Focus','Parenting');"><font size="2" face="Trebuchet MS">Parenting</font></a>
-<b><font color="#FF0000" face="Verdana" size="2">|</font></b>
-<a href="javascript:SendSubCategoryForm(4,19,'Family Focus','Women');"><font size="2" face="Trebuchet MS">Women</font></a>
-</td></tr>
-
-<tr><td colspan="2">
-</td></tr>
-</tbody></table>
-
-                                   <!--Menu Ends here -->
-                              </td>
-                         </tr>
-                       </tbody></table>
-                   
-                  </form></td>
-                </tr>
-                <tr valign="top"> 
-                  <td width="50%" height="55"> 
-                  
-                  
-
-
-<div align="center">
-  <center>
-<table width="90%" border="0">
-  <tbody><tr> 
-    <td> 
-     <table width="100%" border="0" cellspacing="0" cellpadding="10" align="center">
-  <tbody><tr> 
-    <td align="middle"> <b><font face="Trebuchet MS, verdana" size="2" color="#000066">Batelco's 
-      Privacy Statement for "</font><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i><font face="Trebuchet MS, verdana" size="2" color="#000066">"</font></b></td>
-  </tr>
-  <tr> 
-    <td> 
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">This 
-        privacy statement has been created by "</font><b><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i></b><font face="Trebuchet MS, verdana" size="2" color="#000066">" in order to demonstrate Batelco's 
-        firm commitment to maintain privacy for the user in accordance with their 
-        declared preference. The following discloses the information gathering 
-        and dissemination practices for this Batelco "</font><b><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i></b><font face="Trebuchet MS, verdana" size="2" color="#000066">" Portal site:</font></p>
-      <p align="justify"><b><font face="Trebuchet MS, verdana" size="2" color="#000066">Information 
-        Automatically Logged</font></b></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">Batelco 
-        shall use the user's IP address to help diagnose problems with its server 
-        and to administer Batelco's "</font><b><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i></b><font face="Trebuchet MS, verdana" size="2" color="#000066">" Portal site. The user's IP address 
-        is also used to help identify the user, and to gather broad demographic 
-        information.</font></p>
-    </td>
-  </tr>
-  <tr> 
-    <td> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="4">
-        <tbody><tr align="left" valign="top"> 
-          <td width="20" align="left" valign="baseline"><b><font face="Trebuchet MS, verdana" size="2">A.</font></b></td>
-          <td> 
-            <p align="justify"><b><font face="Trebuchet MS, verdana" color="#000066" size="2"> 
-            Registration Forms 
-            </font> </b> 
-            </p><p align="justify"><font face="Trebuchet MS, verdana" color="#000066" size="2">Batelco's
-            "</font><b><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i></b><font face="Trebuchet MS, verdana" color="#000066" size="2">" Portal site registration form(s) 
-              require users to provide Batelco with contact information (for example, 
-              name, email, and postal address), unique identifiers (for example, 
-              central population registration number), and demographic information 
-              (for example, age or income level). 
-            </font></p></td>
-        </tr>
-        <tr align="left" valign="top"> 
-          <td width="20" align="middle" valign="baseline"><b><font face="Trebuchet MS, verdana" size="2">B.</font></b></td>
-          <td> 
-            <p align="justify"><b><font face="Trebuchet MS, verdana" color="#000066" size="2"> 
-            Surveys 
-            </font> </b> 
-            </p><p align="justify"><font face="Trebuchet MS, verdana" color="#000066" size="2"> 
-            Survey's conducted online by Batelco ask visitors 
-              for contact information (for example, email addresses), financial 
-              information (for example, account or credit card numbers), and demographic 
-              information (for example, age, or income level). 
-            </font></p></td>
-        </tr>
-        <tr align="left" valign="top"> 
-          <td width="20" align="middle" valign="baseline"><b><font face="Trebuchet MS, verdana" size="2">C.</font></b></td>
-          <td> 
-            <p align="justify"><b><font face="Trebuchet MS, verdana" color="#000066" size="2"> 
-            Contests 
-            </font> </b> 
-            </p><p align="justify"><font face="Trebuchet MS, verdana" color="#000066" size="2"> 
-            Batelco shall run contests on Batelco's site in 
-              which visitors are asked for contact information (for example, email 
-              addresses), financial information (for example, account or credit 
-              card numbers), and demographic information (for example, age or 
-              income level). 
-            </font></p></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr> 
-    <td> 
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">Contact 
-        information from the registration forms and surveys is used to ship purchases 
-        and to provide information to Batelco. The user's contact information 
-        is also used to send promotional material from some of Batelco's partners 
-        to Batelco's users and to contact the user when necessary.</font></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">Users 
-        may opt-out of receiving future mailings; see the Choice/opt-out section 
-        below. </font></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">Unique 
-        identifiers (such as central population registration numbers) are collected 
-        from Batelco's "</font><b><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i></b><font face="Trebuchet MS, verdana" size="2" color="#000066">" Portal site visitors to verify the user's identity, 
-        and for use as account numbers in our record system.</font></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">Demographic 
-        and profile data is collected at the Batelco "</font><b><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i></b><font face="Trebuchet MS, verdana" size="2" color="#000066">" Portal site. This 
-        information is shared with advertisers on an aggregate basis. Batelco 
-        shall use this data to tailor the visitor's experience at Batelco's
-      "</font><b><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i></b><font face="Trebuchet MS, verdana" size="2" color="#000066">" 
-        Portal site showing the visitor content that Batelco considers may be 
-        of interest and displaying the content according to the visitor's preferences.</font></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">Financial 
-        information collected is used to check the users' qualifications for registration.</font></p>
-      <p align="justify"><b><font face="Trebuchet MS, verdana" size="2" color="#000066">External 
-        Links</font></b></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066"> 
-        This site contains links to other sites. "</font><b><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i></b><font face="Trebuchet MS, verdana" size="2" color="#000066">" is not responsible for 
-        the privacy practices or the content of such Web sites.</font></p>
-      <p align="justify"><b><font face="Trebuchet MS, verdana" size="2" color="#000066">Public 
-        Forums</font> </b></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">This 
-        site creates chat rooms, forums, message boards, and/or news groups available 
-        to its users. Any information that is disclosed in these areas becomes 
-        public information and caution should be exercised when deciding to disclose 
-        personal information. </font></p>
-      <p align="justify"><b><font face="Trebuchet MS, verdana" size="2" color="#000066">Security </font> 
-        </b> </p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">This 
-        site has security measures in place to protect Batelco from loss, misuse, 
-        and alteration of the information under Batelco's control. Databases are 
-        accessible only to the Webmaster, unless a contest involving a third party 
-        that sponsors prizes, is held. </font></p>
-      <p align="justify"><b><font face="Trebuchet MS, verdana" size="2" color="#000066">Choice/Opt-Out</font> 
-        </b></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">Batelco's 
-        site provides users with the option to opt-out of receiving promotional/marketing 
-        information from our partners, and ourselves. Should this option be chosen, 
-        the user may send an email to <a href="mailto:webmaster@inet.com.bh%20">webmaster@inet.com.bh 
-        </a></font></p>
-      <p align="justify"><b><font face="Trebuchet MS, verdana" size="2" color="#000066">Data 
-        Quality/Access </font></b> </p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">This 
-        site gives users the following options for changing and modifying information 
-        previously provided Any change of information by users may be sent to 
-        <a href="mailto:webmaster@inet.com.bh%20">webmaster@inet.com.bh </a></font></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">Users 
-        may send mail to the following postal address: </font></p>
-      <p align="justify"><font face="Trebuchet MS, verdana"><font size="2" color="#000066"><br>
-        </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font color="#000066">"</font></b></font></font><b><i><font size="3" face="Times New Roman" color="#ff0000">i</font><font color="#000066" size="3" face="Times New Roman">net</font></i></b><font face="Trebuchet MS, verdana"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font color="#000066">"</font></b></font><font size="2" color="#000066"><b><br>
-        Batelco</b><br>
-        PO Box 14 <br>
-        Bahrain </font></font></p>
-      <p align="justify"> 
-        <b><font face="Trebuchet MS, verdana" size="2" color="#000066"> 
-        Contacting the Web Site</font> </b></p>
-      <p align="justify"><font face="Trebuchet MS, verdana" size="2" color="#000066">Should 
-        users have any questions with regards to this privacy statement, the practices 
-        of this site, or dealings with this Web site, users may contact <a href="mailto:webmaster@inet.com.bh%20">webmaster@inet.com.bh 
-        </a>. </font></p>
-      <p align="justify">&nbsp;</p>
-    </td>
-  </tr>
-</tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-
-  </center>
-</div>
-
-		</td>
-                </tr>
-
-			</tbody> 
-           </table>
-            
-            </div>
-            </td>
-            <td width="134" align="center" valign="top"> 
-              <div align="center">
-                <table cellspacing="0" cellpadding="0" width="134" border="0">
-                  <tbody><tr align="middle"> 
-                    
-                  <td><!--bannars Starts Here -->
-						<a href="/Advertising/Redirect.asp?BannerId=66&amp;LinkURL=/Ads/Images/s_net.gif&amp;CategoryId=9999&amp;SubCategoryId=1&amp;CustomerId=1&amp;BannerAddress=http://www.inet.com.bh/InetServices/connect.asp#Sp" target="_blank" border="0"><img border="0" height="55" width="134" src="/Ads/Images/s_net.gif"></a>
-<a href="/Advertising/Redirect.asp?BannerId=59&amp;LinkURL=/Ads/Images/pfc.gif&amp;CategoryId=9999&amp;SubCategoryId=1&amp;CustomerId=1&amp;BannerAddress=http://www.pfc.gov.bh" target="_blank" border="0"><img border="0" height="55" width="134" src="/Ads/Images/pfc.gif"></a>
-<a href="/Advertising/Redirect.asp?BannerId=55&amp;LinkURL=/Ads/Images/bahraintoday.gif&amp;CategoryId=9999&amp;SubCategoryId=1&amp;CustomerId=1&amp;BannerAddress=http://www.bahraintoday.net/forum/" target="_blank" border="0"><img border="0" height="55" width="134" src="/Ads/Images/bahraintoday.gif"></a>
-<a href="/Advertising/Redirect.asp?BannerId=67&amp;LinkURL=/Ads/Images/juhanew.gif&amp;CategoryId=9999&amp;SubCategoryId=1&amp;CustomerId=1&amp;BannerAddress=http://www.juha.com.bh" target="_blank" border="0"><img border="0" height="55" width="134" src="/Ads/Images/juhanew.gif"></a>
-
-                        <!--bannars Ends here --> 
-                  </td>
-                  </tr>
-                  <tr> 
-                    
-                  <td> <!--Features Starts here -->
-                  
-                  <script>
-function Display_popup()
-{
-		window.open("popup.asp", "popup","height=" + "220" + ",width=" + "240" + ",left=" + "280" + ",top=" + "250" + ",status=no,titlebar=no,toolbar=no,menubar=no,resizable=no,scrollbars=no target=_blank");
-//		window.open("/FebBeta/popup.asp" , "_popup", "toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=240,height=220");		
-}
-</script> 
- 					<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#4380BC" border="0">
-
-                      <tbody><tr align="middle"> 
-                        <td width="100%"><b><font face="Verdana, Arial" color="#ffffff" size="2">Facilities</font></b></td>
-                      </tr>
-                      <tr> 
-                        <td width="100%"> 
-                          <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#96AED8" border="0">
-                            <tbody> 
-                            <tr> 
-                              <td width="100%"> 
-                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="95%">
-                                  <tbody> 
-                                  <!--<tr>
-                                    <td height=13><font face="Verdana, Arial" 
-                                size=1><a 
-                                href="/InetServices/Helpdesk/password/index.asp"><b><font color="#FF0000">Change Password</font></b></a></font> 
-                                    </td>
-                                  </tr>
-                                  <tr> 
-                                    <td height=13><font face="Verdana, Arial" size="1"><a href="http://www.batelcoeshop.com.bh/batelcoeshop/" target="_blank" ><b>View
-                                      your <font color="#FF0000">i</font><font color="#000000">net</font>
-                                      Bill</b></a></font> 
-                                    </td>
-                                  </tr>-->
-   <tr>
-    <td height="13"><font size="1" face="Verdana, Arial">
-		<script language="javascript">
-		<!--
-		function MakeHomePage(theMe)
+	function SearchText()
+	{
+		alert("Searching,.,.");
+		document.Header.method="post"
+		document.Header.action="../Search.asp"
+		document.Header.submit
+	}
+					
+	function swapArrow1(currentImg, activeImg)
 		{
-			var HomePage = 'http://www.inet.com.bh';
-			if ((navigator.appVersion.indexOf('MSIE 5') !=-1) || (navigator.appVersion.indexOf('MSIE 6') !=-1))
+		if (currentImg!=activeImg)
 			{
-				theMe.style.behavior='url(#default#homepage)';
-				theMe.setHomePage(HomePage);
+			document.images[currentImg].src=arrow_on.src;
+			document.images[activeImg].src=arrow_off.src;
 			}
-			else if (navigator.appVersion.indexOf('MSIE 4') !=-1)
-					document.location = "/SiteFeatures/SetDefaultHomePage.asp"; 
-			else
-				document.location.href = "/SiteFeatures/SetDefaultHomePage.asp"; 
 		}
-		//-->
-		</script>
-			<a href="#" target="_self" onclick="MakeHomePage(this);">
-					<script language="javascript">
-					<!--
-						if (navigator.appVersion.indexOf('MSIE 4') ==-1)
-							document.write("Make inet your homepage</a>");  
-						if (navigator.appVersion.indexOf('MSIE 4') !=-1)
-							document.write("<a href=http://www.inet.com.bh/SiteFeatures/SetDefaultHomePage.asp>Make Homepage</a>");  
-					//-->
-					</script>Make inet your homepage</a>
-		 
-		</font>
-	</td>
-   </tr>
-                        
-                                  <tr> 
-                                    <td height="13"><font face="Verdana, Arial" size="1"><a href="/Discussion/index.asp">Discuss 
-                                      at <font color="#ff0000" target="_blank">i</font><font color="#000000">net</font></a></font></td>
-                                  </tr>
-                                  
-                                  <tr> 
-                                    <td height="13"><font face="Verdana, Arial" size="1"><a href="/BahrainSites/BahrainLinks.asp">Link 
-                                      to Us</a></font></td>
-                                  </tr>
-                                  <tr> 
-                                    <td height="13"><font face="Verdana, Arial" size="1"><a href="/TellaFriend.asp">Tell 
-                                      a Friend!</a></font></td>
-                                  </tr>
-                                  <tr> 
-                                    <td height="13"><font face="Verdana, Arial" size="1"><a href="/SuggestContent.asp">Suggest 
-                                      Content</a></font></td>
-                                  </tr>
-                                  <tr> 
-                                    <td height="13"><font face="Verdana, Arial" size="1"><a target="_blank" href="http://www.bah-directory.com.bh">Telephone 
-                                      Directory</a></font></td>
-                                  </tr>
-                                  <tr> 
-                                    <td height="13"><font face="Verdana, Arial" size="1"><a href="/Comments.asp">Send 
-                                      your comments</a></font></td>
-                                  </tr>
-                                  <tr> 
-                                    <td height="5">
-                                    </td>
-                                  </tr>
-                                 
-                                  </tbody> 
-                                </table>
-                              </td>
-                            </tr>
-                            </tbody> 
-                          </table>
-                        </td>
-                      </tr>
-                    </tbody></table>
-                  
-                    <!--Features Ends here --></td>
-                  </tr>
-                  <tr> 
-                    <td height="2"></td>
-                  </tr>
-				  <tr>
-	                <td> <!--Openion Poll Starts Here -->
-                  
-		              
-<script id="clientEventHandlersJS" language="javascript">
-<!--
 
-function subWebDomain_onclick() {
-	//url = "http://10.193.1.4:82/layouts/domaincheckmodule.asp?domain=" + document.frmDomainCheck.txtWebDomain.value
-	//newwin = window.open(url,"yahoo2","height=400,width=500,left=280,top=250,status=no,titlebar=no,toolbar=no,menubar=no,resizable=no,scrollbars=1")				
-
-}
-
-function frmwebDomainCheck_onsubmit() {
-	if (document.frmwebDomainCheck.txtWebDomain.value == "")
-	{
-		alert("please enter the domain name ");
-		document.frmwebDomainCheck.txtWebDomain.focus();
-		return false;
-	}
-	if (document.frmwebDomainCheck.txtWebDomain.value != "")	
-	{
-		var len,len1
-		len = document.frmwebDomainCheck.txtWebDomain.value.length;
-		len1 = len-3;
-		if (document.frmwebDomainCheck.txtWebDomain.value.substring(len1,len) != ".bh")
+	function swapArrow2(currentImg, activeImg)
 		{
-			alert("please enter .bh at the end ...");
-			document.frmwebDomainCheck.txtWebDomain.focus();			
-			return false;
-		}
-	}
-	return true;
+		if (currentImg!=activeImg)
+			{
+			document.images[currentImg].src=arrow_off.src;
+			document.images[activeImg].src=arrow_on.src;
+			}
+		}											
+</script>
+<script language="JavaScript" src="/lib/search.js"></script>
+<!-- <script language="JavaScript" src="/lib/showDate.js"></script> -->
+<!--script language="JavaScript" type="text/JavaScript">
+
+
+var urlArray = new Array(4); //for URL's, increase size as necessary
+var banArray = new Array(4); //for banners, increase size as necessary
+var counter = 1;
+var url = "/mobile/mabrook.asp"; //initial URL
+
+//add your necessary URL's
+//urlArray[0] = "/sponsorship/bic.asp";
+urlArray[0] = "/mobile/mabrook.asp";
+urlArray[1] = "/customer/newcode.asp";
+urlArray[2] = "/promo/lgpromo.asp";
+urlArray[3] = "http://games.inet.com.bh";
+
+
+if(document.images) //pre-load all banner images
+{
+  for(i = 0; i < 4; i++)
+  {
+    banArray[i] = new Image(370, 50);
+    banArray[i].src = "/images/banner" + (i+1) + ".gif";
+  }
 }
 
-function frmemailDomainCheck_onsubmit() {
-	if (document.frmemailDomainCheck.txtEmailDomain.value == "")
-	{
-		alert("please enter the email domain name ");
-		document.frmemailDomainCheck.txtEmailDomain.focus();
-		return false;
-	}
-	if (document.frmemailDomainCheck.txtEmailDomain.value != "")	
-	{
-		var len,len1
-		len = document.frmemailDomainCheck.txtEmailDomain.value.length;
-		len1 = len-3;
-		if (document.frmemailDomainCheck.txtEmailDomain.value.substring(len1,len) != ".bh")
-		{
-			alert("please enter .bh at the end ...");
-			document.frmemailDomainCheck.txtEmailDomain.focus();			
-			return false;
-		}
-	}
-	return true;
+function ShowWin(url,type)
+{
+	document.location.href = url;
 }
 
+function changeBanner() //banner changer function
+{
+  if(counter > 3)
+   counter = 0;
+
+  document.banner.src = banArray[counter].src; //sets a new banner
+
+  url = urlArray[counter]; //sets a new URL to the banner
+  counter++; //increase the counter for the next banner
+}
+
+//calls the changeBanner() function every 3 seconds
+//change the timer as necessary (minutes * 60000) or (seconds * 1000)
+var timer = window.setInterval("changeBanner()", 9300);
+
+//></script-->
+<script language="JavaScript1.1">
+var slideimages=new Array()
+var slidelinks=new Array()
+
+function slideshowimages(){
+  for (i=0;i<slideshowimages.arguments.length;i++){
+  slideimages[i]=new Image()
+  slideimages[i].src=slideshowimages.arguments[i]
+  }
+}
+
+function slideshowlinks(){
+  for (i=0;i<slideshowlinks.arguments.length;i++)
+  slidelinks[i]=slideshowlinks.arguments[i]
+}
+
+function gotoshow(){
+  if (!window.winslide||winslide.closed)
+    winslide=window.open(slidelinks[whichlink])
+  else
+    winslide.location=slidelinks[whichlink]
+    winslide.focus()
+}
 //-->
 </script>
 
-<table cellspacing="0" cellpadding="0" width="140" bgcolor="#4380BC" border="0">
-        <tbody> 
-			<tr align="middle"> 
-				<td width="100%">
-                    <p align="center"><b><font color="#ffffff" face="Verdana" size="1">Check domain availability<br>(Applicable for .bh domains only)</font></b></p>
-				</td>
-			</tr>
-			<tr> 
-			  <td width="100%"> 
-			    <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#96AED8" border="0" align="center">
-          <tbody>
-            <tr> 
-              <td height="2"> <p align="center"> </p></td>
-            </tr>
-          
-            <tr> 
-              <td height="2"> <div align="center"> 
-                  <center>
-                  <form action="/layouts/domaincheckmodule.asp" method="POST" id="frmwebDomainCheck" name="frmwebDomainCheck" onsubmit="return frmwebDomainCheck_onsubmit()">
 
-                    <table border="0" cellpadding="0" cellspacing="1" width="100%">
-                      <tbody><tr> 
-                        <td width="200" align="center"><font size="2" face="vardana"><b>Web domain Name  i.e.www.inet.com.bh</b></font></td>
-                      </tr>
-                      <tr>                      
-                        <td width="118" align="center"><input id="txtWebDomain" name="txtWebDomain" style="BORDER-RIGHT: #bc2e22 1px solid; BORDER-TOP: #bc2e22 1px solid; BORDER-LEFT: #bc2e22 1px solid; COLOR: #333300; BORDER-BOTTOM: #bc2e22 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #FFFFFF
-;  WIDTH: 140px; HEIGHT: 20px"></td>
-                      </tr>
-                      <tr>
-						<td align="center"><input type="image" src="http://www.inet.com.bh/images/go.gif" id="subWebDomain" name="subWebDomain" language="javascript" onclick="return subWebDomain_onclick()"></td>
-                      </tr>
-                      </tbody></table>
-                      </form>
-                      <form action="/layouts/emaildomaincheckmodule.asp" method="POST" id="frmemailDomainCheck" name="frmemailDomainCheck" language="javascript" onsubmit="return frmemailDomainCheck_onsubmit()">
-
-                      <table border="0" cellpadding="0" cellspacing="1" width="150">
-                      <tbody><tr> 
-                        <td width="200" align="center"><font size="2" face="vardana"><b>Email domain Name  i.e. inet.com.bh</b></font></td>
-                      </tr>
-                      <tr>                      
-                        <td width="118" align="center"><input id="txtEmailDomain" name="txtEmailDomain" style="BORDER-RIGHT: #bc2e22 1px solid; BORDER-TOP: #bc2e22 1px solid; BORDER-LEFT: #bc2e22 1px solid; COLOR: #333300; BORDER-BOTTOM: #bc2e22 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #FFFFFF
-;  WIDTH: 140px; HEIGHT: 20px"></td>
-                      </tr>
-                      <tr>
-						<td align="center"><input type="image" src="http://www.inet.com.bh/images/go.gif" id="subEmailDomain" name="subEmailDomain"></td>
-                      </tr>
-                      </tbody></table>
-                            </form>
-
-                  </center>
-                </div></td>
-            </tr>
-            <tr align="middle"> 
-              <td width="100%" height="2"></td>
-            </tr>
-            <tr align="middle"> 
-              <td width="100%" height="2"></td>
-            </tr>
-          </tbody>
-        </table>
-			  </td>
-			</tr>
-			</tbody> 
-      </table>
-
-
-                  
-                       <!--Openion Poll Ends here -->
-			        </td>
-				 </tr>                    
-                  <tr> 
-                    <td height="2"></td>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
+<link href="/lib/batelcostyle.css" rel="stylesheet" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload=" initscroller();"> 
+<form name="Header">
+<center>
+  <table width="742" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td><table width="100%" height="72" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="144" align="center" valign="middle"><table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tbody><tr> 
+                    <td align="left"><a href="/index.asp"><img src="/images/logo.gif" width="94" height="54" border="0"></a></td>
                   </tr>
-             
-                  <tr> 
-                    
-                  <td> <!--Cool Links Starts here -->
+                </tbody></table></td>
                   
-                  				<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#4380BC" border="0">
+                <td width="541" height="65" align="center" valign="middle"><!--<a href="javascript:ShowWin(url,'BannerWin');" target="_top"><img src="/images/banner1.gif" name="banner" vspace="0" border="0" WIDTH="370" HEIGHT="50"></a>--><a href="javascript:gotoshow()"><img src="https://web.archive.org/images/banner1.gif" name="slide" border="0" width="370" height="50"></a><script>
+<!--
+//configure the paths of the images, plus corresponding target links
+slideshowimages("/images/banner1.gif", "/images/banner2.gif", "/images/banner3.gif", "/images/banner4.gif")
+slideshowlinks("http://games.inet.com.bh", "http://www.capital.gov.bh/TechKids/", "http://www.batelco.com/promo/lgpromo.asp", "http://www.batelco.com/mobile/mabrook.asp")
 
-                        <tbody><tr align="middle"> 
-							<td width="100%">
-								<b><font face="verdana, arial" color="#ffffff" size="2">Cool Links</font></b>
-							</td>
-                        </tr>
-                        <tr> 
-                          <td width="100%"> 
-                            <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#96AED8" border="0">
+//configure the speed of the slideshow, in miliseconds
+var slideshowspeed=8000
+var whichlink=0
+var whichimage=0
 
-                              <tbody><tr> 
-                                <td width="100%"> 
-                                  
-                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="90%">
+function slideit(){
+  if (!document.images)
+    return
+    document.images.slide.src=slideimages[whichimage].src
+    whichlink=whichimage
 
-                                  <tbody><tr>
-                                  <td> 
-											<b><font face="Verdana" size="1">Net Resources</font></b>
-										</td>
-                                  </tr>
-                                  <tr> 
-										<td>	
-                                            <font face="Verdana" size="1">	
-											<a href="javascript:SendSubCategoryForm(6,26,'Net Resources','Arts');">Arts</a><br>
-											<a href="javascript:SendSubCategoryForm(6,27,'Net Resources','Books');">Books</a><br>
-											<a href="javascript:SendSubCategoryForm(6,31,'Net Resources','Health');">Health</a><br>
-											<a href="javascript:SendSubCategoryForm(6,33,'Net Resources','Shopping');">Shopping</a><br>
-                                      <a href="javascript:SendSubCategoryForm(6,34,'Net Resources','Travel');">Travel</a><br>
-										    <a href="javascript:SendSubCategoryForm(6,39,'Net Resources','Careers');">Careers</a>
-                                            </font>
-     									  </td>
-                                    </tr>
-                                    
-                                   <tr> 
-                                   	<td>                                    
-          										<b><font face="Verdana" size="1">Net Tools</font></b>
-          									</td>
-                                    </tr>
-                                    <tr> 
-                                    <td>
-                                            <font face="Verdana" size="1">
-											<a href="javascript:SendSubCategoryForm(5,21,'Net Resources','Personal');">Personal</a><br>
-                                   	<a href="javascript:SendSubCategoryForm(5,22,'Net Resources','Business');">Business</a><br>
-								 			<a href="javascript:SendSubCategoryForm(5,23,'Net Resources','Developer');">Developer</a>
-										 
-                                            </font>
-										 
-										  </td>
-                                    </tr>
-
-                                    <tr> 
-                                    <td>
-										 
-										  </td>
-                                    </tr>
-
-                                    <tr> 
-                                    <td height="5">
-									
-									</td>
-                                    </tr>
-
-                                  </tbody></table>
-                                </td>
-                              </tr>
-
-                            </tbody></table>
-                          </td>
-                        </tr>
-					<tr> 
-						<td valign="middle" align="center" bgcolor="#FFFFFF" height="2">
-						</td>
-					</tr>                        
-						<!--<tr> 
-								<td bgcolor="#96AED8">
-					               <img border="0" src="/images/bestview-eng.gif" width="130" height="84"></td></tr>-->
-					      </tbody> 
-					    </table>
-					  </td>
-					</tr>
+  if (whichimage<slideimages.length-1)
+    whichimage++
+  else
+    whichimage=0
+    setTimeout("slideit()",slideshowspeed)
+}
+slideit()
+//-->
+</script> </td>
+          <td width="50" height="65" align="right" valign="top">
+  <a href="http://arabic.batelco.com.bh"><img src="/images/arabic.gif" alt="Arabic" width="47" height="21" border="0"></a>
+          </td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          <tr> 
+            <td bgcolor="#CC1B13"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="148"> 
+                  <!--------------------------------------------------------------------------->
+                  <table width="125" height="65" border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr> 
+                      <td width="33" height="13"><img src="/images/arrow0.gif" name="arrow1" width="28" height="13"></td>
+                      <td width="92" height="13"><a class="TopMenu" href="/index.asp" onmouseover="swapArrow1('arrow1', 'arrow1')" onmouseout="swapArrow2('arrow1', 'arrow1')">Home</a></td>
+                    </tr>
+                    <tr> 
+                      <td width="33" height="13"><img src="/images/readarrow0.gif" name="arrow2" width="28" height="13"></td>
+                      <td width="92" height="13"><a class="TopMenu" href="/general/aboutus.asp" onmouseover="swapArrow1('arrow2', 'arrow1')" onmouseout="swapArrow2('arrow2', 'arrow1')">About 
+                        Us</a></td>
+                    </tr>
+                    <tr> 
+                      <td height="13"><img src="/images/readarrow0.gif" width="28" name="arrow3" height="13"></td>
+                      <td height="13"><a class="TopMenu" href="/underconstruction.asp" onmouseover="swapArrow1('arrow3', 'arrow1')" onmouseout="swapArrow2('arrow3', 'arrow1')">Careers</a></td>
+                    </tr>
+                    <tr> 
+                      <td height="13"><img src="/images/readarrow0.gif" width="28" name="arrow4" height="13"></td>
+                      <td height="13"><a class="TopMenu" href="/general/community.asp" onmouseover="swapArrow1('arrow4', 'arrow1')" onmouseout="swapArrow2('arrow4', 'arrow1')">Community</a></td>
+                    </tr>
                   </tbody></table>
-                  
-                       <!--Cool Links Ends here --></div></td>
-                   </tr>
-                 
-				<tr> 
-                    <td height="2"></td>
-                  </tr>
-                </tbody></table>
+                  <!--------------------------------------------------------------------------->
+                </td>
+                <td width="541" align="center"><img src="/images/together.gif" width="250" height="28"></td>
+                <td width="50" valign="bottom">&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+          <tr> 
+            <td background="/images/res-bgbtn.gif"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr valign="top"> 
+                <td width="179" height="9"></td>
+                <td width="653" rowspan="2"><table border="0" align="right" cellpadding="0" cellspacing="0">
+                    <tbody><tr> 
+                      <td valign="top"><a href="/index.asp"><img src="/images/home-btn1.gif" width="87" height="29" border="0"></a></td>
+                      <td valign="top"><a href="/residential/index.asp"><img src="/images/home-btn2.gif" width="89" height="29" border="0"></a></td>
+                      <td valign="top"><a href="/business/index.asp"><img src="/images/home-btn3.gif" width="86" height="29" border="0"></a></td>
+                      <td valign="top"><a href="/mobile/index.asp"><img src="/images/home-btn4.gif" width="86" height="29" border="0"></a></td>
+                      <td valign="top"><img src="/images/home-corner.gif" width="9" height="29"></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+              <tr valign="top">
+                <td width="179"><table width="179" height="31" border="0" cellpadding="0" cellspacing="0" background="../images/bg-cyan.gif" bgcolor="#CEEAEF">
+                    <tbody><tr> 
+                      <td>&nbsp;</td>
+                      <td height="31"><font class="TxtCyan">Search Site: </font></td>
+                      <td height="31"><input class="TxtBox" name="txtKeyword" type="text" onkeypress="SearchTextEnter()" size="10" maxlength="30"></td>
+                      <td width="26" height="31"><input type="image" src="../images/go.gif" width="26" height="31" border="0" onmousedown="SearchText()" id="Button110" name="Button1"></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <tr> 
+      <td align="center" valign="top"><div align="center"> 
+          <table width="740" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
               
-            </td>
+        <td width="193" align="left" valign="top">
+				
+<table width="179" border="0" align="left" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td height="10"></td>
+  </tr>
+  <tr> 
+    <td><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td><font class="TxtCyan"><a href="/news.asp">News Room</a></font></td>
+        </tr>
+        <tr> 
+          <td><font class="TxtCyan"><a href="/general/bmec.asp">Batelco Middle 
+            East CO.</a></font></td>
+        </tr>
+        <tr> 
+          <td><font class="TxtCyan"><a href="/general/finance.asp">Financial Highlights</a></font></td>
+        </tr>
+        <tr> 
+          <td><font class="TxtCyan"><a href="/customer/index.asp">Customer Service</a></font></td>
+        </tr>
+        <tr> 
+          <td><font class="TxtCyan"><a href="/sponsorship/index.asp">Our Sponsorships</a></font></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="10"><div align="center"></div></td>
+  </tr>
+  <tr> 
+    <td><div align="center"><a href="/mobile/freetime.asp"><img src="/images/newmobpack.gif" width="179" height="64" border="0"></a></div></td>
+  </tr>
+  <tr> 
+    <td height="10"><div align="center"></div></td>
+  </tr>
+  <tr> 
+    <td height="18"><div align="center"> 
+        <table width="179" border="0" cellpadding="0" cellspacing="0" bgcolor="#ADDBE7">
+          <tbody><tr> 
+            <td><img src="/images/news.gif" width="179" height="23"></td>
+          </tr>
+          <tr> 
+            <td><center>
+                
+
+<script>
+
+var textbgcolor="#ADDBE7"
+var textwidth=150
+var textheight=100
+var textborder=0
+var textbordercolor="#ADDBE7 "
+var i_text=0
+var textcontent=""
+var thisspan=""
+var content=""
+var contentbg=""
+var toggle=2
+var timer
+var scrollready=true
+var tablewidth
+var tableheight       
+var step=1       
+var content
+var padding=3
+var textcontentheight
+var ie=document.all?1:0 
+var ns6=document.getElementById&&!document.all?1:0
+var ns4=document.layers?1:0
+
+if (ie || ns6) {
+	document.write('<table cellpadding=0 cellspacing=0 border=0 height='+textheight+' width='+textwidth+'><tr><td>');
+	document.write('<div id="marker" style="position:relative; width:'+textwidth+'; height:'+textheight+'"></div>');
+	document.write('</td></tr></table>')
+	if (ns6) {
+		var tablewidth=textwidth-2*textborder
+		var tableheight=textheight-2*textborder
+	}
+	else {
+		var tablewidth=textwidth
+		var tableheight=textheight
+	}
+	document.write('<div ID="roof" style="position:absolute;width:'+tablewidth+'px;height:'+tableheight+'px;border-style:solid;border-width:'+textborder+'px;border-color:'+textbordercolor+';background-color:'+textbgcolor+';overflow:hidden;visibility:hidden" onMouseOver="setscrollready(0)" onMouseOut="setscrollready(1)">')
+	document.write('<span ID="ticker" style="position:absolute;top:0px;left:0px;visibility:hidden">')
+}
+
+if (ns4) {
+	document.write('<table cellpadding=0 cellspacing=0 border=0 height='+textheight+' width='+textwidth+'><tr><td>');
+	var widthMinusTwoBorder=textwidth-2*textborder
+	var heightMinusTwoBorder=textheight-2*textborder
+	var widthMinusFourBorder=textwidth-4*textborder
+	var heightMinusFourBorder=textheight-4*textborder
+
+}
+
+</script><table cellpadding="0" cellspacing="0" border="0" height="100" width="150"><tbody><tr><td><div id="marker" style="position:relative; width:150; height:100"></div></td></tr></tbody></table><div id="roof" style="position: absolute; width: 150px; height: 100px; border-style: solid; border-width: 0px; border-color: rgb(173, 219, 231); background-color: rgb(173, 219, 231); overflow: hidden; visibility: visible; left: 328px; top: 349px;" onmouseover="setscrollready(0)" onmouseout="setscrollready(1)"><span id="ticker" style="position: absolute; top: 90px; left: 0px; visibility: visible;">
+
+<ilayer name="marker" bgcolor="&amp;{textbordercolor};" width="&amp;{textwidth};" height="&amp;{textheight};"></ilayer><layer name="tickerbg" left="&amp;{textborder};" top="&amp;{textborder};" width="&amp;{widthMinusTwoBorder};" height="&amp;{heightMinusTwoBorder};" bgcolor="&amp;{textbgcolor};" visibility="hide"> 
+</layer><layer name="roof" width="&amp;{widthMinusTwoBorder};" height="&amp;{heightMinusFourBorder};"> 
+<layer name="ticker" visibility="hide" width="&amp;{widthMinusTwoBorder};" left="&amp;{textborder};" top="&amp;{textborder};" onmouseover="setscrollready(0)" onmouseout="setscrollready(1)"> 
+<table cellpadding="3" align="center" width="100%" class="headers1"><tbody><tr><td class="headers1">
+<table cellpadding="0" align="center" width="98%" class="headers1">
+<tbody><tr><td class="headers1" valign="default"><img src="/images/arrow1.gif" width="11" height="8" hspace="1"></td><td class="headers1" valign="top" align="left"><font class="txtWhite1"><a href="/newsdesc.asp?newsid=143" class="txtWhite1">Batelco Engineer Referees Annual Vocational Contest<br></a><a href="/newsdesc.asp?newsid=143" class="TxtCyan"> more.. </a></font><br><br></td></tr><tr><td class="headers1" valign="default"><img src="/images/arrow1.gif" width="11" height="8" hspace="1"></td><td class="headers1" valign="top" align="left"><font class="txtWhite1"><a href="/newsdesc.asp?newsid=141" class="txtWhite1">Batelco  Launches Promotion With LG Mobile <br></a><a href="/newsdesc.asp?newsid=141" class="TxtCyan"> more.. </a></font><br><br></td></tr><tr><td class="headers1" valign="default"><img src="/images/arrow1.gif" width="11" height="8" hspace="1"></td><td class="headers1" valign="top" align="left"><font class="txtWhite1"><a href="/newsdesc.asp?newsid=140" class="txtWhite1">New Website Signed Up to use @ltijara.com Payment Gateway<br></a><a href="/newsdesc.asp?newsid=140" class="TxtCyan"> more.. </a></font><br><br></td></tr></tbody></table>
+</td></tr></tbody></table></layer></layer>
+
+<script>
+if (ns4) {
+	document.write('</td></tr></table>')
+}
+if (ie || ns6) {
+	document.write('</span></div>')
+}
+function doscroll(){
+	if (scrollready) {
+		if(ns4){
+			document.roof.document.ticker.top+=-step;
+			if(document.roof.document.ticker.top<-textcontentheight) {
+				document.roof.document.ticker.top=textheight;
+			}
+		}
+		if (ie) {
+			document.all.ticker.style.posTop+=-step
+			if (document.all.ticker.style.posTop<-textcontentheight) {
+				document.all.ticker.style.posTop=textheight
+			}
+		}
+		if (ns6) {
+		document.getElementById('ticker').style.top=parseInt(document.getElementById('ticker').style.top)-step
+			if (parseInt(document.getElementById('ticker').style.top)<-textcontentheight) {
+				document.getElementById('ticker').style.top=textheight
+			}
+		}
+		timer=setTimeout("doscroll()",50)
+	}
+	else {
+		clearTimeout(timer)
+	}
+}
+
+function DL_GetElementLeft(eElement) {
+    var nLeftPos = eElement.offsetLeft;          
+    var eParElement = eElement.offsetParent;     
+    while (eParElement != null) {                                            
+        nLeftPos += eParElement.offsetLeft;      
+        eParElement = eParElement.offsetParent;  
+    }
+    return nLeftPos;                            
+}
+
+function DL_GetElementTop(eElement) {
+    var nTopPos = eElement.offsetTop;            
+    var eParElement = eElement.offsetParent;     
+    while (eParElement != null) {                                            
+        nTopPos += eParElement.offsetTop;        
+        eParElement = eParElement.offsetParent;  
+    }
+    return nTopPos;                              
+}
+
+function initscroller(){
+	if (ns4) {
+		var thisspan=eval("document.roof.document.ticker")
+		textcontentheight=thisspan.clip.bottom-thisspan.clip.top;
+		document.roof.left=document.marker.pageX
+		document.roof.top=document.marker.pageY+1*textborder
+		document.tickerbg.left=document.marker.pageX+1*textborder
+		document.tickerbg.top=document.marker.pageY+1*textborder
+		document.roof.clip.width=textwidth;
+		document.roof.clip.height=textheight-2*textborder;
+		thisspan.top=textheight;
+		thisspan.clip.width=textwidth;
+		thisspan.clip.height=textcontentheight;
+		document.roof.visibility="show";
+		document.tickerbg.visibility="show";
+		thisspan.visibility="show";
+	}
+	if (ie) {
+		textcontentheight=document.all.ticker.clientHeight
+		document.all.roof.style.posLeft=DL_GetElementLeft(document.all.marker);
+		document.all.roof.style.posTop=DL_GetElementTop(document.all.marker);
+		document.all.ticker.style.posTop=textheight
+		document.all.ticker.style.clip='rect(0px, '+(textwidth-4)+'px, '+(textcontentheight)+'px, 0px)';
+		document.all.roof.style.visibility="visible";
+		document.all.ticker.style.visibility="visible";
+	}
+	if (ns6) {
+		textcontentheight=document.getElementById('ticker').offsetHeight
+		document.getElementById('roof').style.left=DL_GetElementLeft(document.getElementById('marker'));
+		document.getElementById('roof').style.top=DL_GetElementTop(document.getElementById('marker'));
+		document.getElementById('ticker').style.top=-textcontentheight
+		document.getElementById('ticker').clip='rect(0px, '+(textwidth-4)+'px, '+(textcontentheight)+'px, 0px)';
+		document.getElementById('roof').style.visibility="visible";
+		document.getElementById('ticker').style.visibility="visible";
+	}
+	doscroll()
+}
+
+function setscrollready(whatanswer) {
+	if (whatanswer==1) {
+		scrollready=true
+		checkscroll()
+	}
+	else {
+		scrollready=false
+	}
+}
+
+function checkscroll() {
+	clearTimeout(timer)
+	if (scrollready) {
+		doscroll()
+	}
+}
+function reopenpage() {
+	history.go(0)
+}
+window.onresize=reopenpage
+//window.onload=initscroller
+</script></span></div>
+
+       
+              </center></td>
+          </tr>
+          <tr> 
+            <td height="10"><img src="/images/news0.gif" width="179" height="10"></td>
           </tr>
         </tbody></table>
-    
-  
-   
-    <!--footer Starts here -->
-
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr align="middle" bgcolor="#4380BC"> 
-    <td height="20" bgcolor="#4380BC"> <div align="center"><font face="Verdana, Arial" color="#ffffff" size="1"><a target="_self" href="/disclaimer.asp"><font color="white">Disclaimer</font></a> | <a target="_self" href="/policy.asp"><font color="white">Privacy Policy</font></a> | <a target="_self" href="/terms.asp"><font color="white">Terms of Use</font></a> | <a target="_self" href="/Advertising/index.asp?CategoryId=4"><font color="white">Advertise with Us</font></a> | <a href="mailto:sales@arabian.net"><font color="white">Contact ANIS</font></a> 
-        | <a href="/inetServices/helpdesk/helpdesk_form.asp"><font color="white">Contact Helpdesk</font></a> </font></div></td>
+      </div></td>
   </tr>
-  <tr align="middle" bgcolor="#96AED8"> 
-    <td height="10" bgcolor="#96AED8"> <div align="center"><font face="Verdana, Arial" size="1">Batelco 
-        Internet Services © 2001. Developed by <a target="_blank" href="http://www.arabian.net/">Arabian Network</a>&nbsp;</font></div></td>
+</tbody></table>
+</td><td align="left" valign="top"> <br>
+<img src="/images/stitle-policy.jpg" width="540" height="40">
+<br><br>
+<table width="500" border="0" cellspacing="0" cellpadding="3">
+  <tbody><tr> 
+    <td><font class="TxtBlueHead">Batelco's Privacy Statement for " Batelco Corporate "  </font></td>
   </tr>
-  <tr align="middle">
-    <td height="10" bgcolor="#FFFFFF"><div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Best 
-        Viewed in 800 x 600 Internet Explorer &amp; Netscape</font></div></td>
+  <tr>
+    <td><p class="TxtGrey"> This privacy statement has been created by " 
+        Batelco Corporate " in order to demonstrate Batelco's firm commitment 
+        to maintain privacy for the user in accordance with their declared preference. 
+        The following discloses the information gathering and dissemination practices 
+        for this Batelco " Batelco Corporate " Portal site:</p>
+      <p class="TxtGrey"><strong>Information Automatically Logged</strong></p>
+      <p class="TxtGrey">Batelco shall use the user's IP address to help diagnose problems with 
+        its server and to administer Batelco's " Batelco Corporate " 
+        Portal site. The user's IP address is also used to help identify the user, 
+        and to gather broad demographic information.<br>
+        <br>
+        <strong>A. Registration Forms </strong></p>
+      <p class="TxtGrey">Batelco's " Batelco Corporate " Portal site registration form(s) 
+        require users to provide Batelco with contact information (for example, 
+        name, email, and postal address), unique identifiers (for example, central 
+        population registration number), and demographic information (for example, 
+        age or income level). <br>
+        <br>
+        <strong>B. Surveys </strong></p>
+      <p class="TxtGrey">Survey's conducted online by Batelco ask visitors for contact information 
+        (for example, email addresses), financial information (for example, account 
+        or credit card numbers), and demographic information (for example, age, 
+        or income level). <br>
+        <br>
+        <strong>C. Contests </strong></p>
+      <p class="TxtGrey">Batelco shall run contests on Batelco's site in which visitors are asked 
+        for contact information (for example, email addresses), financial information 
+        (for example, account or credit card numbers), and demographic information 
+        (for example, age or income level). <br>
+        <br>
+        Contact information from the registration forms and surveys is used to 
+        ship purchases and to provide information to Batelco. The user's contact 
+        information is also used to send promotional material from some of Batelco's 
+        partners to Batelco's users and to contact the user when necessary.</p>
+      <p class="TxtGrey">Users may opt-out of receiving future mailings; see the Choice/opt-out 
+        section below. </p>
+      <p class="TxtGrey">Unique identifiers (such as central population registration numbers) 
+        are collected from Batelco's " Batelco Corporate " Portal site 
+        visitors to verify the user's identity, and for use as account numbers 
+        in our record system.</p>
+      <p class="TxtGrey">Demographic and profile data is collected at the Batelco " Batelco 
+        Corporate " Portal site. This information is shared with advertisers 
+        on an aggregate basis. Batelco shall use this data to tailor the visitor's 
+        experience at Batelco's " Batelco Corporate " Portal site showing 
+        the visitor content that Batelco considers may be of interest and displaying 
+        the content according to the visitor's preferences.</p>
+      <p class="TxtGrey">Financial information collected is used to check the users' qualifications 
+        for registration.</p>
+      <p class="TxtGrey"><strong>External Links</strong></p>
+      <p class="TxtGrey">This site contains links to other sites. " Batelco Corporate " 
+        is not responsible for the privacy practices or the content of such Web 
+        sites.</p>
+      <p class="TxtGrey"><strong>Public Forums </strong></p>
+      <p class="TxtGrey">This site creates chat rooms, forums, message boards, and/or news groups 
+        available to its users. Any information that is disclosed in these areas 
+        becomes public information and caution should be exercised when deciding 
+        to disclose personal information. </p>
+      <p class="TxtGrey"><strong>Security </strong></p>
+      <p class="TxtGrey">This site has security measures in place to protect Batelco from loss, 
+        misuse, and alteration of the information under Batelco's control. Databases 
+        are accessible only to the Webmaster, unless a contest involving a third 
+        party that sponsors prizes, is held. </p>
+      <p class="TxtGrey"><strong>Choice/Opt-Out </strong></p>
+      <p class="TxtGrey">Batelco's site provides users with the option to opt-out of receiving 
+        promotional/marketing information from our partners, and ourselves. Should 
+        this option be chosen, the user may send an email to webmaster@inet.com.bh 
+      </p>
+      <p class="TxtGrey"><strong>Data Quality/Access </strong></p>
+      <p class="TxtGrey">This site gives users the following options for changing and modifying 
+        information previously provided Any change of information by users may 
+        be sent to webmaster@inet.com.bh </p>
+      <p class="TxtGrey">Users may send mail to the following postal address: </p>
+      <p class="TxtGrey"><br>
+        " Batelco Corporate "<br>
+        Batelco<br>
+        PO Box 14 <br>
+        Bahrain </p>
+      <p class="TxtGrey"><strong>Contacting the Web Site </strong></p>
+      <p class="TxtGrey">Should users have any questions with regards to this privacy statement, 
+        the practices of this site, or dealings with this Web site, users may 
+        contact webmaster@inet.com.bh .</p>
+      </td>
   </tr>
 </tbody></table>
 
-
-         <!--footer Ends here -->
+</td></tr></tbody></table> </div></td>
+    </tr>
+    <tr> 
+      <td><div align="center"> 
+      <table width="742" height="30" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td width="193" align="center" bgcolor="#34A7DC"><font class="TxtFooterMenu">Batelco 
+            2004 © All rights reserved</font></td>
+          <td width="12" background="/images/backfooter.gif"><img src="/images/cornerfoter.gif" width="12" height="30"></td>
+          <td background="/images/backfooter.gif" align="center"><font class="TxtFooterMenu"><a href="/terms.asp" class="TxtFooterMenu">Terms 
+            and Conditions</a> | <a href="/privacy.asp" class="TxtFooterMenu">Privacy 
+            Policy</a> | <a href="/disclaimer.asp" class="TxtFooterMenu">Disclaimer</a> 
+            | <a href="/contactus.asp" class="TxtFooterMenu">Contact Us</a> 
+            | <a href="/sitemap.asp" class="TxtFooterMenu">Site Map</a></font></td>
+        </tr>
+      </tbody></table>
+    </div></td>
+    </tr>
+  </tbody></table>
   
+</center>
 
 
-
-
-
-</body></html>
+</form></body></html>
