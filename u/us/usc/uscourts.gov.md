@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the uscourts.gov privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202050511id_/http%3A//www.uscourts.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscourts.gov privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206154140id_/http%3A//www.uscourts.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+**  
+Privacy Notice  
+**  
+  
+---  
+  
 Thank you for visiting the Federal Judiciary's website. Our privacy policy outlines the types of information we learn when you visit our site and how such information will be used. 
 
 **Information Routinely Collected and Stored**
@@ -21,4 +27,14 @@ This information is used solely for the purpose of evaluating and maintaining ou
 
 **Information You Provide**
 
-If you choose to provide us with personal information, perhaps to be placed on our mailing list or to request additional information via our webmaster e-mailbox, it will be used only for the purpose(s) you state. We collect such information only to respond to your requests. We do not share that information with others, and we do not collect information for commercial marketing. 
+If you choose to provide us with personal information, perhaps to be placed on our mailing list or to request additional information via our webmaster e-mailbox, it will be used only for the purpose(s) you state. We collect such information only to respond to your requests. We do not share that information with others, and we do not collect information for commercial marketing.   
+  
+**  
+Security Notice**  
+  
+  
+For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+
+Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials.
+
+Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
