@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edhelper.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601095716id_/http%3A//www.edhelper.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edhelper.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017090126id_/http%3A//www.edhelper.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
