@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katv.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609120752id_/http%3A//www.katv.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katv.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208115554id_/http%3A//www.katv.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # KATV Channel 7 - Privacy Statement
 
