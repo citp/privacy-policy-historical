@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608003422id_/http%3A//www.premiumpress.com/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807163210id_/http%3A//premiumpress.com/company/privacypolicy.asp) for the most accurate reproduction.*
 
 # Premium Press - printing, custom printing, business cards, letterhead, postcards, brochures, flyers, folders
 
