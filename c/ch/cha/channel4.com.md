@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channel4.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601184207id_/http%3A//www3.channel4.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel4.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032437id_/http%3A//www3.channel4.com/privacy.html) for the most accurate reproduction.*
 
 # Channel 4 Information: PRIVACY POLICY
 
