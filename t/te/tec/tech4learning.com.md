@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tech4learning.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607201339id_/http%3A//www.tech4learning.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech4learning.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201191628id_/http%3A//www.tech4learning.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Tech4Learning - Privacy Policy
-
-| 
-
-**Tech4Learning Privacy Policy**
 
 This document sets forth the Tech4Learning Online Privacy Policy (the "Privacy Policy") for this Web site (the "Site"). If you have objections to the Privacy Policy, you should not access or use this Site.
 
@@ -14,9 +10,7 @@ This document sets forth the Tech4Learning Online Privacy Policy (the "Privacy P
 Tech4Learning will not sell or lease your personal information except, if Tech4Learning (or a division or subsidiary) is acquired by or merged with, another entity, Tech4Learning may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without your consent.
 
 **Entities collecting personal information   
-**
-
-Personal information on this Site is collected by Tech4Learning Incorporated. Tech4Learning's address is 6160 Fairmount Ave, Suite C, San Diego, CA, 92120, and its telephone number is 619-563-5348.
+**Personal information on this Site is collected by Tech4Learning Incorporated. Tech4Learning's address is 6160 Fairmount Ave, Suite C, San Diego, CA, 92120, and its telephone number is 619-563-5348.
 
 The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site.
 
@@ -65,3 +59,5 @@ In your letter, please describe in as much detail as possible the ways in which 
 Please note that if you provide Tech4Learning with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Tech4Learning cannot guarantee that your most recent privacy preference will be honored.
 
 Also, please note that Tech4Learning is not responsible for the content or privacy practices of non-Tech4Learning Web sites to which this Site or any other Tech4Learning Web site may link. You should review the privacy policy of such sites before using the sites.
+
+ 
