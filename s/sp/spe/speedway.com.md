@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204105548id_/http%3A//speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305023830id_/http%3A//www.speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
-# Speedway SuperAmerica: Privacy Policy
+# Speedway SuperAmerica: Privacy Statement
 
 |  |  |   
 ---|---  
@@ -17,8 +17,8 @@
 | [   Contact Us](https://web.archive.org/CustomerService/CustomerService.asp) |   
   **Search our site:**  
     
- [Search Gas Prices](https://web.archive.org/StoreLocator/StoreLocator.asp)  
-  |  |    
+ [Search Gas Prices](https://web.archive.org/GasPriceSearch.asp)  
+  | [](https://www.chasecreditcard.com/start.asp?target=speedway&creative=PI1SWT01&splash=1) |    
 |  |    
 ---  
   |  | _PRIVACY STATEMENT_  
@@ -36,7 +36,7 @@ When a visitor performs a search on Company's search engine, Company may record 
    
 (3) **Disclosure of Personal Data to Third Parties**. Company will notify visitors before posting collected personal data on the Web Site, or sharing, renting, selling, or otherwise disclosing personal data to third parties. Any third party to which Company shares, rents, sells, or otherwise discloses personal data will be carefully pre-screened by Company, determined by Company to be reputable, and will use the personal data for marketing products and services which Company determines, in its sole judgment, that visitors might find of interest. Company will disclose to third parties only information knowingly and voluntarily disclosed by visitors and only information in aggregate form. Through the use of third party cookies, advertiser may be electronically notified when visitors view or click on its advertisements.   
    
-(4) **Opt-Out Right**. Visitors may opt out of having their personal data retained by Company, used by Company for secondary purposes, disclosed to third parties, or used by Company or third parties to send promotional correspondences to the visitor, by clicking here or by contacting Company via postal mail or telephone. Company may be contacted at Speedway SuperAmerica LLC, 500 Speedway Drive, Enon, Ohio 45323; 937-864-3000.   
+(4) **Opt-Out Right**. Visitors may opt out of having their personal data retained by Company, used by Company for secondary purposes, disclosed to third parties, or used by Company or third parties to send promotional correspondences to the visitor by contacting Company via postal mail or telephone. Company may be contacted at Speedway SuperAmerica LLC, 500 Speedway Drive, Enon, Ohio 45323; 937-864-3000.   
    
 (5) **Access to and Ability to Correct Personal Data**. Upon request via postal mail, e-mail, or phone, Company will provide to visitors a summary of any personal information retained by the Company regarding the visitor. Visitors may modify, correct, change, or update their personal record or cause their personal records to be removed from Company’s database. Company will only send personal records to the e-mail address on file for the visitor name associated with it.   
    
@@ -51,6 +51,5 @@ When a visitor performs a search on Company's search engine, Company may record 
 (10) **Other Sites**. This privacy statement applies only to this Web Site. While this Web Site may contain links to other third party sites, Company is not responsible for the practices or contents of such third party sites.   
    
 (11) **Enforcement**. If for some reason you believe we have not adhered to these principles, please notify us through the [customer service section](https://web.archive.org/CustomerService/CustomerService.asp) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.   
-   
 |   
 ---
