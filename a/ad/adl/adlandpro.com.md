@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203004814id_/http%3A//www.adlandpro.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618033825id_/http%3A//www.adlandpro.com/privacystmt.asp) for the most accurate reproduction.*
 
 # AdlandPro - Privacy Statement
 
-|  
+| _**N O T E**_   
+If  you have received unsolicited message with inappropriate material pointing to this site to unsubscribe, there is nothing we can do  about it.  We don't send  any adult material and we don't send unsolicited messages. We **URGE YOU** to  report this message to your ISP and low enforcement agency in your area providing full headers of the message for criminal investigation. You are not on any of our lists as the message attempts to suggest. People doing this are not only trying to undermine our credibility but they are destroying email as a communication medium.  They are internet terrorists. See  [ this](http://www.clickz.com/experts/brand/buzz/article.php/3318771) link how you can help fight spam.  
+ 
 
 The privacy statement discloses the privacy practices for [http://www.adlandpro.com](http://www.adlandpro.com/)
 
-If you have questions or concerns regarding this statement, you should first contact Bogdan Fiedur, via email [support@adlandpro.com](mailto:Policy%20Issues%20%3csupport@AdlandPro.com%3e), or call 204-254-7228, or mail **AdlandPro.Com** 23-845 Dakota Street, Suite 332 Winnipeg, Manitoba R2M 5M3 Canada
+If you have questions or concerns regarding this statement, you should first contact [contact](http://www.adlandpro.com/ContactUs.asp) us.
 
   
 AdlandPro.com   agrees to abide by this Privacy Policy with respect to information gathered on web pages hosted by Adlandpro.com. Such information is being received by both AdlandPro.com and the Affiliate  through which AdlandPro.com provides some of  its services to you. 
@@ -40,6 +42,5 @@ If you do not currently have an account with us, and have submitted information 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
  **How to Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at 204-254-7228  or send us an email at [support@adlandpro.com](mailto:Policy%20Issues%20%3csupport@AdlandPro.com%3e).
-
-  Content posted to public community areas is publicly available and AdlandPro.com reserves the right to remove any publicly posted content which is objectionable.
+Should you have other questions or concerns about these privacy policies, please [contact](http://www.adlandpro.com/ContactUs.asp) us.  
+Content posted to public community areas is publicly available and AdlandPro.com reserves the right to remove any publicly posted content which is objectionable.
