@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207133146id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309142918id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36%26ref%3D3319%26subref%3DAN) for the most accurate reproduction.*
 
 # Privacy Policy - Security
 
