@@ -1,71 +1,36 @@
-> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 1999-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991012032158id_/http%3A//winamp.com/copyright/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618133654id_/http%3A//www.winamp.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Winamp.com | Privacy Policy
+# WINAMP.COM |
 
-|  | 
+View the [Client Policy](https://web.archive.org/disclaimer.php)
 
-  
+**Information about Winamp Users**  
+When you register at our site, we collect certain information about you. To login, we ask for your email address, username and password. We collect this information in order to send you any newsletters that you register for, updates and information about our products, to respond to your questions and to allow you to use our web forums. If you make a purchase on our site, we will ask you for your billing information including your name, address, email address, telephone number, and credit card information in order to process your order. If you choose to set up a profile or participate in a forum, we will ask you for other information including a signature, your homepage, your ICQ number, your AIM screen name, your state, zip code, country, year of birth, gender and your mother's maiden name. This information is not required to participate. 
 
+We do not keep track of where you personally go on our site. We do use information about how members use our site on an anonymous, aggregated basis. We use this information so that we can understand how visitors are using the site and to improve it. 
 
-   **Winamp Player**  
-a high-fidelity music  
-player for Windows  
+If you choose to download a Winamp player, you are subject to a separate privacy policy. Please click here to review that privacy policy. 
 
+**Sharing of Information**  
+We may share your information with a third party vendor and their subcontractors in order to complete a transaction, process your billing information, fulfill your order, or provide customer service. Any third party that we do business with is not permitted to use any of your personal information in any manner other than for the purpose for which it was provided. Third parties will not sell, rent or give your information to any other companies, other than successors to their businesses. By entering into the agreement for the purchase of a product and placement of your order with us you acknowledge that the uses and disclosures are necessary to fulfillment of the purchase agreement with you and you specifically consent to use and disclosure of your personal information as set forth herein. You specifically acknowledge that your personal information may be transferred outside the European Union in order to process or fulfill your order. Subject to applicable law, we will provide you with access to your personal information on request and provide you with the right to rectify errors. You may also notify us of your objection to the use of your personal information for direct marketing purposes. 
 
-    [OVERVIEW](https://web.archive.org/winamp/overview.phtml)   
-    [DOCUMENTATION](https://web.archive.org/winamp/support/docs/index.phtml)   
-    [NEW FEATURES](https://web.archive.org/winamp/newfeatures.phtml)   
-    [SKINS](https://web.archive.org/winamp/skins/) (3041)    
-    [PLUG-INS](https://web.archive.org/winamp/plug-ins/) (138)    
-    [DOWNLOAD](https://web.archive.org/winamp/download/)   
-    [ONLINE FORUMS](https://web.archive.org/forums/)   
-    [FINGER UPDATES](https://web.archive.org/team/finger.phtml?fingusername=justin)   
-**Internet Music**  
-    [SHOUTCAST](http://www.shoutcast.com/)   
-  
+**Skins**  
+Winamp offers you the ability to create a skin and post it for others to review and download. If you create a skin, we will show your user name and provide a link so that others can send you an email. We also give you the option to write a review of a skin. The review will appear with the skin and will contain your Winamp username. Our site automatically keeps track of the number of times a skin has been downloaded. Some of our advertising partners may create skins that contain web beacons. These web beacons provide the advertiser with information about the use of the skin such as the number of times the user clicked on the advertiser's logo. 
 
+**Cookies**  
+Winamp uses cookies to improve your experience on our site. Cookies are small text files placed on your computer through your browser when you visit a web site. Cookies are also used by Winamp to recognize and authenticate users when they return to our site and to keep track of which version of Winamp you have downloaded onto your computer. When you go to www.winamp.com the cookies stored on your browser will tell us which home page to present to you. Through the use of cookies, users will be presented with a different home page designed for the version of Winamp that they are running. 
 
-[](http://ads.web.aol.com/link/7007439/html?badsc=B0w9IE6X6GoSEAg1ts5Q3kKi6udSWeU9pnCVMVWble9QipP0J5IsB6PuWRWmlWiANr)   
-**Winamp Support**  
-   Need more help?  
-    [MAILING LISTS](https://web.archive.org/winamp/support/mailinglists.phtml)   
-    [FAQ](https://web.archive.org/winamp/support/faq.phtml)   
-    [FEEDBACK](https://web.archive.org/winamp/support/feedback.phtml)   
-    [GET THE BOOK](https://web.archive.org/winamp/book.phtml)   
-    [DOCUMENTATION](https://web.archive.org/winamp/support/doc/index.phtml)   
-**Team Winamp**  
-   Who are these geniuses?  
-    [OUR MISSION](https://web.archive.org/team/mission.phtml)   
-    [WHO WE ARE](https://web.archive.org/team/)   
-    [PRESS KIT](https://web.archive.org/pressrelease/)   
-    [COMMUNITY](https://web.archive.org/team/community.phtml)   
-**Bidness**  
-     [ **ADVERTISE**](https://web.archive.org/ads/)  
-     [ **CONTACT US**](https://web.archive.org/team/contact.phtml)  
-     [ **PRIVACY POLICY**](https://web.archive.org/copyright/privacy.phtml)  
-|  |  |  | 
+**Kids on Winamp**  
+Winamp is not designed for children under age 18. We recommend that children under 18 ask their parents for permission before using this service. 
 
-|  **Privacy Policy Statement**  
----  
-This is the web site of Winamp Player, property of Nullsoft, Inc. 
+**Legal Disclosure**  
+Winamp was designed in such a way so that we would not regularly record or track the habits of our individual users. However, in certain situations such as the receipt of a subpoena or court order, we may be required to share information about your account. 
 
-Our postal address is   
-60 Palisades Drive North  
-Sedona, Arizona 86336  
-U.S.A.  
+**Security**  
+Winamp is committed to securely maintaining any information that you provide to us. We use state of the art technology in order to store all user information in secure databases. While we make every effort to keep this information secure, we cannot guarantee that the security measures we take will prevent third parties from illegally obtaining your information 
 
+**Privacy Changes**  
+If we decide to change our privacy policy, we will post the changes here so that you will always know what information we collect about you, how we use it and whether it is shared with anyone. 
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
-
-We collect only the domain name, but not the e-mail address of visitors to our web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations. 
-
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual consumer, used to notify consumers about updates to our Web site and used by us to contact consumers for marketing purposes. 
-
-If you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address and telling us that you do not want to receive e-mail from our company.   
-  
-Submit comments, suggestions, and bug reports via [this form](https://web.archive.org/winamp/support/feedback.phtml).  
-[All rights reserved. Copyright © 1999.](https://web.archive.org/copyright/) [Nullsoft, Inc.](http://www.nullsoft.com/)  
-
-
-  
-| 
+**Contact Information**  
+Any questions regarding this privacy policy or the Winamp service can be sent to support<at>winamp<dot>com or by calling 1-866-WINAMP5. 
