@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606102857id_/http%3A//theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2004-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041224053934id_/http%3A//www.theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>The Weather Network · Help · About TWN</title>
@@ -51,6 +51,20 @@ if (year1 < 1000) year1 +=1900;
 <!-- HEADER -->
 <script language="JavaScript1.2" src="/common/scripts/headerTWN.js"></script><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td colspan="6" class="Header"><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td background="" bgcolor="#000066" width="210" align="left" colspan="2"><img src="/common/images/spacer.gif" width="210" height="17" border="0"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="78" height="17" name="menu0" id="menu0" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="102" height="17" name="menu1" id="menu1" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="100" height="17" name="menu2" id="menu2" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="76" height="17" name="menu3" id="menu3" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="98" height="17" name="menu4" id="menu4" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" width="100%"><img src="/common/images/spacer.gif" height="17" width="100%"></td>	</tr>	<tr>		<td colspan="2" background=""><a href="/index.htm"><img src="/common/images/spacer.gif" width="210" height="51" border="0" alt="The Weather Network"></a></td>		<td colspan="6" background=""><form name="searchform" action="/common/scripts/search.htm" method="POST"></form></td>	</tr>	<tr>		<td background="" rowspan="2" width="92"><img src="/common/images/spacer.gif" width="92" height="20"></td>		<td background="" rowspan="2"><input type="text" name="recherche" size="10" value="enter city" class="searchbox" onclick="CheckCity();"></td>		<td background="" rowspan="2" valign="top" colspan="5"><a href="/weather/cities/indexcan.htm"><img src="/common/images/spacer.gif" width="133" height="18" border="0"></a><a href="/weather/cities/indexusa.htm"><img src="/common/images/spacer.gif" width="109" height="18" border="0"></a><a href="/weather/cities/indexintl.htm"><img src="/common/images/spacer.gif" width="162" height="18" border="0"></a></td>	</tr></tbody></table>		</td>	</tr></tbody></table>
 <script language="JavaScript1.2" src="/common/scripts/plp.js"></script><script type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></script>
+<table>
+	<tbody><tr><td>
+		<script>
+		if ((area == "hwycond") && (sector=="AB")) {
+			Adtype = "hwyfilter";
+			client = "";
+			document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=0/height=0/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = 0 height = 0>');
+			document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
+			document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="0" WIDTH="0"></a>');
+			document.write('</iframe>');
+		}
+		</script>
+	</td></tr>
+</tbody></table>
 <table border="0" cellpadding="cellspacing" =="" 0="" bgcolor="#DAE0EC" width="100%">
 	<tbody><tr>
 		<td>
@@ -60,7 +74,7 @@ if (year1 < 1000) year1 +=1900;
 	setWidth = 728;
 	setHeight = 90;
 
-	if ((area == "can") || (area == "intl") || (area == "vac")) {
+	if ((area == "can") || (area == "intl") || (area == "vac") || (area == "home") || (area == "bugs")|| (area == "hwyfx")) {
 		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=728X90/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
 		d.write('</SCR'+'IPT>');
 	} 
@@ -120,23 +134,19 @@ if (year1 < 1000) year1 +=1900;
 	setWidth = 468;
 	setHeight = 60;
 	client = "";
-
-	if ((area != "pollen") && (area != "uvb") && (area != "ski") && (area != "snow") && (area != "marine")) {
-
-		if ((area == "vac") || (area == "gardening") || (area == "golf") || (area == "can")) {
-			d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
-			d.write('</SCR'+'IPT>');
-		} else {
-			if (area == "bugs") {
-				client = "sponsor";
-			}
-			document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=468/height=60/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = "468" height = "60">');
-			document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
-			document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="60" WIDTH="468"></a>');
-			document.write('</iframe>');
+	if ((area == "vac") || (area == "gardening") || (area == "golf") || (area == "can")) {
+		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
+		d.write('</SCR'+'IPT>');
+	} else if ( area != "ski" && area != "snow") {
+		if (area == "floods") {
+			client = "sponsor";
 		}
-	} 
-</script><iframe src="/common/includes/ads.htm?type=banner/pageid=136344/width=468/height=60/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="468" height="60"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=136344/AREA=ros/AAMSZ=468X60/client=/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=136344/AREA=ros/AAMSZ=468X60/client=/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="60" WIDTH="468"></a></iframe>
+		document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=468/height=60/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = "468" height = "60">');
+		document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
+		document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="60" WIDTH="468"></a>');
+		document.write('</iframe>');
+	}
+</script><iframe src="/common/includes/ads.htm?type=banner/pageid=762049/width=468/height=60/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="468" height="60"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=762049/AREA=ros/AAMSZ=468X60/client=/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=762049/AREA=ros/AAMSZ=468X60/client=/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="60" WIDTH="468"></a></iframe>
 </td></tr>
 				<tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
@@ -262,25 +272,32 @@ if (year1 < 1000) year1 +=1900;
 	</tr>
 </tbody></table>
 </td></tr>
-				<tr><td align="center">
+				<script>
+if ( area == "hwycond" && sector == "AB") {
+	document.write('<tr><td><table><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>');
+	document.write('Alberta highway condition information courtesy of <a href=http://www.ama.ab.ca target=_blank>Alberta Motor Association</a>.');
+	document.write('<p>The Alberta Motor Association is neither affiliated with nor benefits from the advertiser(s) on this page.');
+	document.write('</td></tr></table></td></tr>');
+}
+</script>
+<tr><td align="center">
 <p><br>
 <script>
-	if ((area != "uvb") && (area != "pollen") && (area != "snow") && (area != "ski") && (area != "wcam") && (area != "bugs") && (area != "marine")) {
+	var showBannerPercentage = 50;
+
+	if (area != "floods" && area != "ski" && area != "snow") {
 		Adtype = "banner";
 		client = "";
 
-		var myDate = new Date();
-		myDate = myDate.getHours();
-		
-		if (((myDate >= 6) && (myDate < 10)) && ((cityName == "TORONTO_ON") || (cityName == "CALGARY_AB") || (cityName == "HALIFAX_NS") || (cityName == "VANCOUVER_BC") || (cityName == "MONTREAL_QC") || (cityName == "EDMONTON_AB") || (cityName == "OTTAWA_ON"))) {
-		} else {
+		if (Math.round(Math.random()*100) <= showBannerPercentage) {
 			document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=468/height=60B/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = "468" height = "60">');
 			document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
 			document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="60" WIDTH="468"></a>');
 			document.write('</iframe>');
 		}		
 	}
-</script><iframe src="/common/includes/ads.htm?type=banner/pageid=136344/width=468/height=60B/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="468" height="60"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=136344/AREA=ros/AAMSZ=468X60B/client=/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=136344/AREA=ros/AAMSZ=468X60B/client=/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="60" WIDTH="468"></a></iframe>
+	
+</script>
 </p></td></tr>
 
 			</tbody></table> 
@@ -301,10 +318,10 @@ if (year1 < 1000) year1 +=1900;
 	<tr>
 		<td>
 			<table border="0" cellpadding="0" cellspacing="0" bgcolor="#326896" width="300">
-				<tbody><tr>
+				<tbody><tr><td>
 <script type="text/javascript" src="/common/scripts/checkingtype.js"></script>
-<td colspan="2" bgcolor="#000066"><center>
-<iframe src="/common/includes/ads.htm?type=box/pageid=136344/width=300/height=250/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=136344/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=136344/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="250" WIDTH="300"></a></iframe><br>
+</td><td colspan="2" bgcolor="#000066"><center>
+<iframe src="/common/includes/ads.htm?type=box/pageid=762049/width=300/height=250/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=762049/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=762049/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="250" WIDTH="300"></a></iframe><br>
 </center></td>
 </tr>
 <tr><td bgcolor="#000066" class="RightHandTitle" colspan="2" height="26"><font face="verdana" size="2" color="#ffcc33"><b>QUICK LINKS</b><br></font></td></tr>
@@ -370,10 +387,11 @@ if (year1 < 1000) year1 +=1900;
 
 </td>
 
-<td valign="top"><iframe src="/common/includes/ads.htm?type=tower/pageid=136344/width=120/height=600/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="120" height="600"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=136344/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=136344/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="600" WIDTH="120"></a></iframe><br>
+<td valign="top"><iframe src="/common/includes/ads.htm?type=tower/pageid=762049/width=120/height=600/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="120" height="600"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=762049/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=762049/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="600" WIDTH="120"></a></iframe><br>
 </td>
 </tr>
 
+				
 			</tbody></table>
 
 		</td>
@@ -390,25 +408,17 @@ if (year1 < 1000) year1 +=1900;
 	<tbody><tr>
 		<td height="100" bgcolor="#FFFFFF" width="100%" align="center"></td>
 		<td width="300"><img src="/common/images/spacer.gif" width="300" height="1">
+		<center>
+		<script>
+			if ((area != "floods") || (area != "ski") || (area != "snow")) {
+				d.write('<');
+				d.write('SCRIPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=VOKEN/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
+				d.write('</');
+				d.write('script>');
+			}
 
-<center>
-<script>
-
-var myDate = new Date();
-myDate = myDate.getHours();
-		
-if (((myDate >= 6) && (myDate < 10)) && ((cityName == "TORONTO_ON") || (cityName == "CALGARY_AB") || (cityName == "HALIFAX_NS") || (cityName == "VANCOUVER_BC") || (cityName == "MONTREAL_QC") || (cityName == "EDMONTON_AB") || (cityName == "OTTAWA_ON"))) {
-} else {
-
-	d.write('<');
-	d.write('SCRIPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=VOKEN/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
-	d.write('</');
-	d.write('script>');
-}
-
-</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=136344/AREA=ros/AAMSZ=VOKEN/SECTOR=nil/CITY=nil/acc_random=469490?" language="JavaScript1.1"></script>
-</center>
-
+		</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=762049/AREA=ros/AAMSZ=VOKEN/SECTOR=nil/CITY=nil/acc_random=12614?" language="JavaScript1.1"></script>
+		</center>
 		</td>
 	</tr>
 </tbody></table>
