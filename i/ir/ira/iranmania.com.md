@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the iranmania.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202090415id_/http%3A//www.iranmania.com/company/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranmania.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622093003id_/http%3A//www.iranmania.com/company/privacystatement.asp) for the most accurate reproduction.*
 
-# IranMania Copyright Statement
+# IranMania Privacy Statement
 
 IranManiaTM  
-**www.iranmania.com ã1999-2001 IranMania.com Ltd**
+**www.iranmania.com م1999-2003 Persicom Ltd**
 
 **Privacy Statement for IranMania**
 
-IranMania.com Ltd has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: IranMania. This site contains links to other sites. IranMania is not responsible for the privacy practices or the content of such Web sites.
+Persicom Ltd has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: IranMania. This site contains links to other sites. IranMania is not responsible for the privacy practices or the content of such Web sites.
 
 **Information gathered**
 
@@ -52,4 +52,4 @@ If you have any questions about this privacy statement, the practices of this si
 IranMania System Administrator  
 [privacy@iranmania.com](mailto:Privacy@iranmania.com)
 
-**ã** ** 1999-2001 IranMania.com Limited - All rights reserved**
+**م** ** 1999-2003 Persicom Limited - All rights reserved**
