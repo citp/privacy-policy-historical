@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrylife.co.uk privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622124746id_/http%3A//www.countrylife.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrylife.co.uk privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209084954id_/http%3A//countrylife.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,6 @@ It is possible that IPC Media could merge or be acquired by another business. If
 
 This website contains various "opt-out" boxes on the relevant pages where you provide your personal information. If you do not want us to provide your personal information to trusted third parties as may be described on the pages of the Web Site or herein, then you should tick the relevant box(es) on such pages of the Web Site and we will not transfer it to those parties, similarly if you do not want us to send you information as described where relevant, you should tick the opt out boxes and we will refrain from sending you such materials. 
 
-Please note that clicking on to links and banner advertisements may result in your transferral to another website, where data privacy practices may be different to that of IPC Media Limited. Visitors should consult the other website's privacy policies as we are not responsible for, and have no control over, information that is submitted to or collected by these third parties.
+Please note that clicking on to links and banner advertisements may result in your transferralto another website, where data privacy practices may be different to that of IPC Media Limited. Visitors should consult the other website's privacy policies as we are not responsible for, and have no control over, information that is submitted to or collected by these third parties.
 
 This privacy policy may be changed by IPC Media Limited at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. IPC Media Limited will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data.
