@@ -1,16 +1,116 @@
-> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204054028id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305132419id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
 
 # EurekAlert! Disclaimer
 
-|  | 
+|  |  |  |   
+---|---|---  
+|  |   
+| 
+
+Username:
+
+|   
+|  |   
+| 
+
+Password:
+
+|   
+|  |   
+|  |   
+|  |   
+|  |   
+| 
+
+[Register](http://www.eurekalert.org/register.php)
+
+|   
+| 
+
+[Forgot Password?](http://www.eurekalert.org/newpassword.php)
+
+|   
+|  |   
+|  |   
+|  |   
+|  |   
+|  |   
+| 
+
+Press Releases
+
+[Breaking News](http://www.eurekalert.org/pubnews.php)
+
+[Science Business](http://www.eurekalert.org/econnews.php)
+
+[Grants, Awards, Books](http://www.eurekalert.org/bga.php)
+
+[Meetings](http://www.eurekalert.org/meetings.php)
+
+|   
+|  |   
+| 
+
+Science Agencies  
+on EurekAlert!
+
+[US Department of Energy](http://www.eurekalert.org/doe)
+
+[US National Institutes of Health](http://www.eurekalert.org/nih)
+
+|   
+|  |   
+| 
+
+[Calendar](http://www.eurekalert.org/calendar.php)
+
+|   
+|  |   
+| 
+
+[Submit a Calendar Item](http://www.eurekalert.org/submit.pubmeeting.php)
+
+|   
+|  |   
+| 
+
+[Subscribe/Advertise](http://www.eurekalert.org/mediakit.php)
+
+|   
+|  |   
+| 
+
+[Links/Resources](http://www.eurekalert.org/links.php)
+
+|   
+|  |   
+| 
+
+[Portals](http://www.eurekalert.org/portals.php)
+
+|   
+|  |   
+| 
+
+[](http://www.eurekalert.org/rss.xml) [RSS Feeds](http://www.eurekalert.org/rss.php)
+
+|   
+|  |   
+|  |   
+|  |   
+---|---|---  
+|  |   
+|  |   
+| 
+
+[Accessibility Option On](http://www.eurekalert.org/ada.php)
+
+|   
+|  |   
+|  |   
+| 
 
 EurekAlert! is firmly committed to protecting the privacy of its users. 
-
-Please note that this policy applies only to the EurekAlert! site, and not to other Web sites to which EurekAlert! may link. Also, given that Internet technologies are rapidly evolving, we reserve the right to modify portions of this policy at any time. You will be alerted to changes in the privacy policy by a notice on the Table of Contents. Continual use of EurekAlert! following the posting of changes to these terms will affirm acceptance of any changes that were made. 
-
-Inquiries about policies governing EurekAlert! should be forwarded to [webmaster@eurekalert.org](mailto:webmaster@eurekalert.org). 
-
-EurekAlert! is a public service project of the [American Association for the Advancement of Science](http://www.aaas.org/) in Washington, D.C., and is administered within the Office of Public Programs. 
 
   1. **Information Gathered by EurekAlert!**
 
@@ -38,7 +138,7 @@ Two exceptions:
 
 You may update the information in your contact information and other personal information at any time by going to the site and clicking on the [My Settings](http://www.eurekalert.org/myeurekalert.php) button. However, only a EurekAlert! staff member may approve your changed status (i.e., reporter, freelancer or PIO). Requests for change of status should be made to [webmaster@eurekalert.org](mailto:webmaster@eurekalert.org). We may also modify the way your information appears in your profile to conform to our standards of style.
 
-You may also remove yourself from EurekAlert!'s database at any time by contacting us via e-mail ([webmaster@eurekalert.org](mailto:webmaster@eurekalert.org)); telephone (202-326-6716); fax (202-898-0391) or mail: 
+You may also remove yourself from EurekAlert!'s database at any time by contacting us via e-mail ([webmaster@eurekalert.org](mailto:webmaster@eurekalert.org)); telephone (1-202-326-6716); fax (1-202-898-0391) or mail: 
 
 EurekAlert! Webmaster  
 The American Association for the Advancement of Science  
@@ -46,5 +146,12 @@ The American Association for the Advancement of Science
 Washington, DC 20005
 
 
-  
----|---
+
+
+Please note that this policy applies only to the EurekAlert! site, and not to other Web sites to which EurekAlert! may link. Also, given that Internet technologies are rapidly evolving, we reserve the right to modify portions of this policy at any time. You will be alerted to changes in the privacy policy by a notice on EurekAlert!'s home page. Continual use of EurekAlert! following the posting of changes to these terms will affirm acceptance of any changes that were made. 
+
+Inquiries about policies governing EurekAlert! should be forwarded to [webmaster@eurekalert.org](mailto:webmaster@eurekalert.org). 
+
+EurekAlert! is a public service project of the [American Association for the Advancement of Science](http://www.aaas.org/) in Washington, D.C., and is administered within the Office of Public Programs. 
+
+| 
