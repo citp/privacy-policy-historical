@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapstream.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208021237id_/http%3A//www.snapstream.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapstream.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035710id_/http%3A//www.snapstream.com/privacy.asp) for the most accurate reproduction.*
 
-# SnapStream - Privacy Policy
+# SnapStream: Privacy Policy
 
 Privacy Policy
 
@@ -50,5 +50,5 @@ Any changes we make to this policy will be posted on this page and will be effec
 
 Any link to sites outside of SnapStream Media will bring you to places that are not guided by our privacy policy. Surfers should check those sites' policies, if they exist, for more information.
 
-Again, if you have any questions or comments, please contact us at [privacy@snapstream.com](mailto:privacy@snapstream.com).   
+Again, if you have any questions or comments, please contact us at [privacy@snapstream.com](mailto:privacy@snapstream.com).  
 
