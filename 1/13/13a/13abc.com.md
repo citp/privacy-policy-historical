@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 13abc.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405092647id_/http%3A//abcnews.go.com/local/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 13abc.com privacy policy that was archived on 2001-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011015102538id_/http%3A//abcnews.go.com/local/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY AND INTERNET SAFETY INFORMATION
 
