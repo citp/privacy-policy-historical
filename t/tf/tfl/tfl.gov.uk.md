@@ -1,101 +1,194 @@
-> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206082015id_/http%3A//www.tfl.gov.uk/tfl/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605154744id_/http%3A//www.tfl.gov.uk/tfl/privacy.shtml) for the most accurate reproduction.*
 
 # Transport for London - Privacy Policy
 
-Transport for London (TfL) is a functional body of the Greater London Authority, reporting to the Mayor of London.  
-TfL is responsible for managing, providing and procuring a range of transport services and facilities on behalf of the Mayor.
+This policy is designed to inform you of our commitment to upholding your right to privacy when using any of our web services. It describes the ways in which we capture information and the ways in which we use it.
 
-These include:
+For a statement of TfL’s wider obligations under Data Protection Act, 1998 please [click here to view our Terms and Conditions](https://web.archive.org/web/20040605154744id_/http%3A//www.tfl.gov.uk/tfl/tandc.shtml). 
 
-  * **London's bus services**
-  * **Docklands Light Railway**
-  * **Dial-a-Ride**
-  * **Croydon Tramlink**
-  * **Victoria Coach Station**
-  * **London River Services**
-  * **Woolwich Ferry**
-  * **London's Transport Museum**
+Transport for London (TfL) is a functional body of the Greater London Authority, reporting to the Mayor of London.
+
+TfL is responsible for managing, providing and procuring a range of transport services and facilities on behalf of the Mayor. This is achieved through a number of wholly owned subsidiary companies and modes which include:
+
+  * London Buses
+  * Docklands Light Railway
+  * Dial-a-Ride
+  * London Trams
+  * Victoria Coach Station
+  * London River Services
+  * London’s Transport Museum
+  * London Underground
+  * Public Carriage Office
+  * CrossRail
+  * Street Management
 
 
 
-TfL manages and maintains a 550km network of London's main roads (the Transport for London Road Network referred to as the TLRN) and all of London's traffic signals. London's taxi and minicab trades are regulated by TfL. As well as co-ordinating schemes for transport users with reduced mobility, TfL is also responsible for improving conditions on all London's streets for pedestrians, cyclists and drivers, through planning and developing new schemes to reduce congestion and improve transport. The government is due to transfer responsibility for London Underground to TfL during 2003.  
-This Privacy Policy explains how TfL will process your personal data for all aspects of its functions which include:
+TfL considers its obligations under the Data Protection Act and related legislation to be of paramount importance, and has taken steps to ensure compliance with those provisions.
 
-  * Travel Ticket administration (including fare enforcement and prosecutions)
-  * Congestion Charging 
-  * Bus Lane Enforcement
-  * Traffic Management and planning
+This privacy policy explains what information TfL and its subsidiaries collect about those customers that use its websites and the procedures we have in place to safeguard your privacy.
+
+## What personal information do we collect?
+
+The information we request from you will depend on the type of service you request or register for. It may simply be an e-mail address if you post a message to our bulletin board or it may include details such as Vehicle Registration Numbers if you are registering for Congestion Charging or credit card details if you purchase a ticket on-line.
+
+In any case, we will only request information that is necessary to enable us to provide you with the service you have requested.
+
+We may occasionally collect what is known as sensitive personal data under the Data Protection Act. This may happen where you are a Blue Badge holder and apply for a congestion charging discount or are claiming a fare refund owing to ill health. When we collect this type of data we are required to go to greater lengths to look after it and keep its use to a minimum. We will always aim to get your agreement to our using your sensitive personal data for those limited purposes.
+
+## Why do we collect and store your information?
+
+TfL operates in a wide variety of business areas and therefore uses personal data in many different ways. These purposes are notified to the Information Commissioner who regulates the Data Protection Act and you can see the current notification for TfL and its subsidiaries at www.informationcommissioner.gov.uk 
+
+The principle purposes for which we collect and store your information are:
+
+  * Travel ticket administration (including fare enforcement and prosecutions)
+  * Congestion charging
+  * Bus lane enforcement
   * Research
   * Marketing
-  * Travel Alerts
-  * Taxi and private hire vehicle licensing 
+  * Travel alerts
+  * Taxi and private hire vehicle licensing
+  * Provision of customised web enabled services
+  * Journey planning
+  * General information relating to TfL’s activities
 
 
 
-**Data Protection Act 1998**  
-TfL processes personal data in accordance with the Data Protection Act 1998 (DPA 1998). When we collect data we will provide you with a data protection notice, unless all the necessary information is already stated.  
-**How do we collect personal data?**  
-Personal data is collected from you, by various methods and in various situations, for example it may be collected by forms, the Internet and over the phone. It may be collected when you purchase a travel ticket, apply for SMS travel alert or register for congestion charging, seek return of lost property, contact us with enquiries or apply for a ticket refund. Images of people and vehicles, including number plates, may be captured by CCTV cameras operated by TfL. This data will be used for the above purposes and be held for as long as required for TfL to fulfil its obligations.  
-To ensure that your personal data is kept up to date, please inform us (using the contact details given at the end of this policy) of any changes; in particular any changes to your: Name, Address, Vehicle Registration Number, and any discount eligibility.   
-Where CCTV or camera systems are operated, they are done so in accordance with Codes of Practice.  
-We may monitor or record telephone calls for administrative reasons which include ensuring that we follow your instructions correctly and training our staff.   
-**Sensitive data**  
-TFL will on occasion be required to process sensitive personal data, which may, for example, consist of your medical details for fare refunds or your Blue Badge holder status for congestion charging discount purposes. We will ask your consent to do this.   
-We may also process details of offences or alleged offences for the prosecution of offenders. .   
-**Data obtained from third parties**  
-When you give us information about another person on their behalf, we will ask you to confirm that you have been appointed to act for them (or you have the relevant legal authority), to consent to the processing of their personal data, including sensitive personal data, and to receive data protection notices on their behalf.  
-For the purposes of administration (including verification of data you may have supplied) and traffic enforcement, TfL may request your personal data from various organisations such as:  
-Driver and Vehicle Licensing Authority (DVLA)  
-London Boroughs / Local Authorities.   
-For the purpose of congestion charging, we may verify eligibility for discounts with third parties - for example, authorities issuing Blue Badges and residents' parking permits.  
-If a person in receipt of a penalty charge tells us that they were not the registered keeper of the vehicle at the time a penalty charge was incurred, we will ask them to supply the details of the person who was the keeper at that time.  
-**Customer research and marketing**  
-From time to time Transport for London or one of our agents may contact you for research purposes. You are under no obligation to participate in this research.  
-When we collect personal data from you, TfL will tell you if we would like to send you information about our products and services and transport related issues and give you the opportunity to not receive this information (i.e. opt out). If we intend to share your data with third parties for marketing purposes, we will tell you about this and only do so if you have given your consent (i.e. opt in).You may also tell us at any time that you no longer wish to receive this information (our contact details are given below).  
-TfL may use your data in an annonmised form to carry out analysis of travel patterns, traffic monitoring and management.  
-**Security**  
-TfL take appropriate technical and organisational measures to ensure that your personal data are processed securely.   
-**Disclosures**  
-TfL may disclose your personal data to our service providers who are responsible for operating some of our services.   
-These include train operating companies for the Docklands Light Railway, bus operating companies, processors involved in bus lane enforcement and congestion charging as well as vehicle clamping and removal firms and bailiffs. Where such disclosures are made, this will be under contractual arrangements with TfL strictly in accordance with the DPA 1998.   
-TfL may disclose your personal data to the DVLA and London Boroughs and other agencies, such as appeals and adjudication services, and the Passenger Consultative Committee.   
-TfL may disclose personal data to the police and other law enforcement agencies at their request, for the prevention and detection of crime and where required to do so by law. We have policies and procedures to ensure that all disclosures are in compliance with the DPA 1998.
+## How do we contact you?
 
-**Cookies:**  
-**What are cookies and why do they matter?**  
-Cookies are a mechanism that gives a web site a memory and so are used in an array of circumstances including as an intrinsic part of web site functionality, for example:  
-·They are used by content management software to keep track of users as they move around a site so they can be served the correct pages in the correct order.   
-· E-commerce tools use them to remember what items someone has put in their shopping basket.   
-· Media web-sites that carry banner advertising also use cookies as part of their advertising management software. This allows the software to rotate advertisements each user sees between page requests. Such cookies last for a session.   
-\- Online market research methods may use 'anonymous session trackers' to identify the user's IP address - ensuring the user is exposed to a research survey page once only and assisting in ensuring that a sample of responses representative of theuser base is gathered.  
-\- In this way two, three or more cookies may be served with every page viewed. These cookies tend to expire very quickly, usually within seconds, sometimes at the end of a user's session.  
-\- Other cookies are used that persist on someone's PC for up to 35 years. These so-called 'persistent cookies' are used because cookies are far more reliable than IP addresses in tracking individuals over time. The cookie is used as an ID tag to recognise the user's computer each time they return and as they browse their way through the web site.
+We may contact you to provide the services that you have purchased or registered for. Depending on your preferences we may contact you by post, email, telephone or text messaging.
 
-**How do we use cookies?**  
-TfL's websites do not usually use any cookies. From time to time cookies may be used for purposes such as undertaking online surveys (a cookie could be placed on a person's computer when undertaking the survey to ensure that they are not asked to do so again). Session cookies (that do not persist after the session has ended) may be used where necessary for the functionality of our websites.
+##   
+What do we do with your information?
 
-**Contact details**
+**Direct Marketing**
 
-**Transport for London**  
-Telephone:   
+When we collect information from you we will tell you if we would like to send you information about our products and services or transport related issues. We will give you the opportunity to tell us you do not wish to receive such information. If you do not object to receiving marketing material at the time, but subsequently change your mind, you may tell us so at any time by contacting us using the details given below.
+
+For information please contact [enquire@tfl.gov.uk   
+](mailto:enquire@tfl.gov.uk?subject=Privacy)  
+If we wish to share your data with third parties for marketing purposes, we will again tell you about this and only do so if we get your consent. Again, you may tell us at any time that you no longer agree to your details being shared with third parties for marketing purposes.
+
+**Research**
+
+Occasionally, we or one of our agents may contact you for research purposes. We only hire reputable third parties do undertake such projects on our behalf. You are under no obligation to participate in this research.
+
+**Disclosing information**
+
+We may disclose your personal data to our service providers who are responsible for operating some of our services.
+
+These may include train operating companies for the DLR, bus operating companies and processors involved in congestion charging and providing ticketing and information services. Where such disclosures are made, this will be under contractual arrangements with TfL and carried out in accordance with the requirements of the Data Protection Act, 1998.
+
+We may also disclose your personal data to the London Boroughs and other agencies such as appeals and adjudication services, and the Passenger Consultative Committee; we would only do this with your consent.
+
+TfL may disclose personal data to the DVLA, police and other law enforcement agencies at their request, for the purposes of crime prevention and detection and where otherwise required to do so by law. 
+
+## Use of cookies on our site
+
+A cookie is a piece of text that a website transfers to a directory on your computer's hard disk, so that the website can remember who you are. This text file is known as a ‘cookie’.
+
+A cookie will typically contain the name of the website from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
+
+Two types of cookies are used on these websites:
+
+**Session cookies**
+
+Which are temporary cookies that remain in the cookie file of your browser until you leave the site.
+
+**Persistent cookies**
+
+Which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). Cookies can help a website to arrange content to match your preferred choices. Most major websites use cookies.
+
+Our cookies cannot be used by themselves to identify you. 
+
+Find out more about cookies at [http://www.allaboutcookies.org/cookies/ ](http://www.allaboutcookies.org/cookies/%20)
+
+## How we use cookies on our site and what information we collect
+
+**Session cookies**
+
+  * To allow you to carry information across pages of our site and avoid having to re-enter information
+  * To allow you to maintain a shopping basket 
+  * Within registration to allow you to access stored information 
+
+**Persistent cookies**
+
+  * To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly
+  * Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so
+
+
+
+**Third party cookies**
+
+Third parties serve persistent cookies via this site. These are used for the following purposes:
+
+  * To compile anonymous, aggregated statistics that allow us to understand how users interact with our site and to help us improve the structure of our website. We cannot identify you personally in this way
+  * To serve advertisements on our site and track whether these advertisements are clicked on by users
+  * To control how often a particular advertisement is shown
+  * To tailor preferences 
+  * To count the number of anonymous users of our site
+  * To provide security within shopping baskets or transactions
+
+
+
+## Use of web beacons
+
+Some of our web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count visiting these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. 
+
+Find out more about web beacons at <http://www.allaboutcookies.org/web-beacons/>
+
+## Disabling / enabling cookies
+
+You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
+
+You have two options if you wish to disable cookies:
+
+1) You may opt out of the third party cookies used on this site by following a few simple steps which can be found at <http://www.websidestory.com/privacy/>   
+2) You may disable cookies through your browser by following the instructions found at <http://www.allaboutcookies.org/manage-cookies/>
+
+##  Protecting your information
+
+We use up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets (SSL) Layer encryption software.
+
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you via our websites.
+
+## Links to other websites
+
+The TfL website may contain links that make it easier for users to visit other websites. If you use the links to leave this website and to visit one operated by a third party, we will not have any control over that website, makes use of cookies.
+
+TfL cannot be responsible for your protection and privacy when visiting such websites. You should check the privacy policies of those websites before entering any personal information.
+
+## Contact details
+
+**Transport for London**
+
+Telephone:  
 020 7941 4500 (Customer Services - office hours)  
 020 7222 1234 (Travel Information - 24 hours)  
-Email: [enquire@tfl.gov.uk](mailto:enquire@tfl.gov.uk)  
-Post:   
+Email: [enquire@tfl.gov.uk](mailto:enquire@tfl.gov.uk?subject=Privacy)
+
+Post:  
 Customer Services  
 Windsor House  
 42-50 Victoria Street  
 London  
 SW1H 0TL  
-TfL website: [www.tfl.gov.uk ](http://www.tfl.gov.uk/)
+United Kingdom
 
-**Congestion Charging**  
+TfL website: [www.tfl.gov.uk](http://www.tfl.gov.uk/)
+
+**Congestion Charging**
+
 Post:  
-Congestion Charging London,  
-PO Box 2985,  
-Coventry,  
+Congestion Charging London  
+PO Box 2985  
+Coventry  
 CV7 8ZR  
-By Telephone:  
-0845 900 1234  
-CCS website: [www.cclondon.com](http://www.cclondon.com/)  
+United Kingdom
+
+By Telephone:   
+0845 900 1234
+
+CCLondon website: [www.cclondon.com](http://www.cclondon.com/)  
 
