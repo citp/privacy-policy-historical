@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202012908id_/http%3A//socalgas.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605215815id_/http%3A//socalgas.com/privacy.shtml) for the most accurate reproduction.*
 
-# SoCalGas - Welcome to Southern California Gas Company Home Page
+# Privacy Policy
 
   
 Thank you for visiting SoCalGas' web site. We are committed to protecting the reasonable expectations of privacy of the visitors to our web site. 
@@ -42,7 +42,12 @@ Although SoCalGas will take all commercially reasonable steps to prevent third p
 SoCalGas monitors network traffic continuously to identify unauthorized attempts to upload or change information, or otherwise cause damage to the web site or to SoCalGas. Monitoring also occurs to prevent any activity that is illegal, or which may subject SoCalGas to legal liability or damage. SoCalGas is committed to maintain the web site's security and its ongoing compliance with law so that this service will remain available to all visitors. 
 
 **Links**   
-This web site may provide from time to time "links" to various governmental and other third party web sites. These links are provided for information purposes only. SoCalGas does not endorse these web sites, or any goods or services offered thereon. Particularly, SoCalGas has not verified the privacy policies applicable to these web sites, or determined what actions will be taken by third parties regarding the privacy of visitors. In no event shall SoCalGas be responsible for any third party web site policies or actions. 
+This web site may provide from time to time "links" to various governmental, industry association and other third party web sites or materials. 
+
+These links are provided for information purposes only. SoCalGas does not endorse any advice, goods or services offered thereon. 
+
+To the extent the third party materials contain assertions of fact, recommendations or any other interpretations or advice, the third party is solely responsible therefore and SoCalGas makes no representation as to the accuracy, completeness or fitness for any purpose or use thereof. Further, SoCalGas has not verified the privacy policies applicable to third party web sites or hosted materials or determined what actions such parties will take regarding the privacy of visitors. In no event shall SoCalGas be responsible for any third party policies or actions.   
+
 
 **Claims of Infringement on Website**  
 In the event that any visitor believes that its copyrights or trademarks are infringed by materials posted or stored on this website, they should email a "Notice of Infringement" to our representative at: info@sdge.com with a confirming copy faxed to: 858-654-1755. Any such Notice must provide the information required under the relevant provision of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (c)(3)(A) (or any successor thereto). As provided in that Act, any notification claiming  
