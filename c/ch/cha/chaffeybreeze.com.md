@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaffeybreeze.com privacy policy that was archived on 2004-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040206161523id_/http%3A//www.chaffeybreeze.com/global_user_elements/privacyPolicy/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaffeybreeze.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208113822id_/http%3A//www.chaffeybreeze.com/global_user_elements/privacyPolicy/privacyPolicy.html) for the most accurate reproduction.*
 
 # Untitled
 
