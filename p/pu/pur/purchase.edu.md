@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purchase.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215932id_/http%3A//www.purchase.edu/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purchase.edu privacy policy that was archived on 2004-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040416030648id_/http%3A//www.purchase.edu/policies/privacy.asp) for the most accurate reproduction.*
 
 # Purchase College - Policies - Privacy
 
