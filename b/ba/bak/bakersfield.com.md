@@ -1,9 +1,24 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2001-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010622033819id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216203754id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# bakersfield.com - Privacy Policy
 
-### Privacy Policy Statement
+|  December 15, 2001   
+[Homepage](http://www.bakersfield.com/) > [News Home](https://web.archive.org/news/) > [**Privacy Policy**](https://web.archive.org/privacy/)   
+  
 
+
+**[Discussion](http://discussion.bakersfield.com/)**   
+Participate in online discussions with other bakersfield.com users. 
+
+**[Chat](http://chat.bakersfield.com/)**   
+Participate in online chats with other bakersfield.com users. 
+
+**[Newsletters](http://www.bakersfield.net/maillist/)**   
+Stay up-to-date on local news and entertainment by getting newsletters sent to your email. 
+
+|   
+---|---|---  
+  
 This Privacy Policy explains how bakersfield.com may collect, use and aggregate personal information about you on [www.bakersfield.com](http://www.bakersfield.com/), and its affiliated web sites. Bakersfield.com respects your personal privacy and is committed to protecting it.  
 
 
@@ -148,3 +163,9 @@ Bakersfield.com
 Bakersfield CA 93302  
 661-395-7500  
 e-mail: [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com)
+
+* * *
+
+[](http://www.nandomedia.com/) Copyright © 2001, [The Bakersfield Californian](http://www.bakersfield.com/help/whoweare.html) | [Email the Webmaster](mailto:webmaster@bakersfield.com)  
+[Privacy Policy Statement](https://web.archive.org/privacy/) | [Terms of Use](https://web.archive.org/terms/)   
+
