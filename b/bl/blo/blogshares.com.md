@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogshares.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607093048id_/http%3A//www.blogshares.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogshares.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204012003id_/http%3A//www.blogshares.com/privacy.html) for the most accurate reproduction.*
 
 # BlogShares - Terms of Service
 
@@ -6,17 +6,17 @@
 
 Modern information and communication technologies play a fundamental role in the activities of an organisation like BlogShares. 
 
-We are based in the United Kingdom. 
+We are based in the The United States. 
 
 Our principal activity is: Fantasy Stock Market Game 
 
 Our privacy policy covers BlogShares and its Web site: 
 
-Organisation Name: BlogShares.com Ltd. Address: 18 Coverdale Road, London, W12 8JL. Country: United Kingdom Controller: Seyed Razavi Web Sites(s): http://www.blogshares.com 
+Organisation Name: BlogShares.com Ltd. Controller: Santa Cruz Tech Web Sites(s): http://www.blogshares.com 
 
 ##  Providing Visitors with Anonymous Access 
 
-You can access our Web site home page and browse our site without disclosing your personal data. 
+You can access our Web site home page and browse our site without disclosing your personal data. Certain data is logged for security reasons, we reserve the right to retain such data indefinitely. Valid information is necessary to signup for an account of the service provided to the user, we may retain this indefinitely, and disclose said data in the event of users abusing the system. 
 
 ## The services and links of our Web site
 
@@ -50,10 +50,6 @@ We do not collect information about our visitors from other sources, such as pub
 
 We do collect website URLs and names from other sources such as Weblogs.com (http://www.weblogs.com) 
 
-We do not collect or use personal data for any purpose other than that indicated. 
-
-If we wish to use our visitors' personal data for new purposes, we give them the opportunity to consent to those new purposes. 
-
 ## Children's Privacy
 
 We do not knowingly collect personal data from children. 
@@ -64,32 +60,13 @@ We do provide information about our personal data practices in relation to child
 
 ## Disclosure and Visitor Choice
 
-We do not disclose your personal data to our subsidiaries or other organisations. 
-
-Where we disclose your personal data for purposes are different than those indicated, we offer you the opportunity to consent to disclosure. 
+We do not disclose your personal data to our subsidiaries or other organisations, except in the case of abuse. 
 
 ## Confidentiality / Security
 
 We do not give visitors to our Web site the option of using a secure transmission method to send us their personal data. 
 
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
-
-## Access to the personal data we may hold about you
-
-You can ask us, by emailing support@blogshares.com 
-
-We will provide you with a readable copy of the personal data which we keep about you, almost instantaneously on-line, - although we may before require proof of your identity. We will provide the information without any charge. 
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
-
-  * erased
-  * rectified or amended
-
-
-
 We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal. 
-
-We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
 
 ## Privacy Compliance
 
