@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the ad-mart.co.uk privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207044600id_/http%3A//www.ad-mart.co.uk/cgi-bin/classifieds/classifieds.cgi%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-mart.co.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602183017id_/http%3A//www.ad-mart.co.uk/cgi-bin/classifieds/classifieds.cgi%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
 # 
+
+**Search for** |  |  **in** |  |   
+---|---|---|---|---  
+  
+## Ad-Mart Privacy Policy Statement
 
 Ad-Mart is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the Ad-Mart UK Classifieds. This policy may change from time to time so please check back periodically. 
 
@@ -133,20 +138,4 @@ Back to Top
 
 * * *
 
-  
-| [](http://www.yac.com/servlet/YAC02A.YACservletHome?f_affiliateId=AF10010005)  
----|---  
-  
 * * *
-
-The award winning Ad-Mart UK Classifieds receives more than **1,000,000 visits** every month!
-
-  
-[Advertising](http://www.ad-mart.co.uk/advertising) | [Terms of Use](http://www.ad-mart.co.uk/cgi-bin/classifieds/classifieds.cgi?db=&website=&language=&session_key=&print_terms_page=on) | [Privacy Statement](http://www.ad-mart.co.uk/cgi-bin/classifieds/classifieds.cgi?db=&website=&language=&session_key=&print_privacy_page=on) | [Tell Your Friends](http://www.ad-mart.co.uk/cgi-bin/classifieds/classifieds.cgi?db=&website=&language=&session_key=&tell_friends_form=on)  
-[Send a FREE VIRTUAL CARD  
-](http://www.ad-mart.co.uk/cards)
-
-_Content copyright © 2000[Ad-Mart](http://www.ad-mart.co.uk/). All rights reserved.  
-Please send your questions, comments, or bug reports to the [Webmaster](mailto:webmaster@ad-mart.co.uk). _
-
-_ Powered by e-Classifieds.net. Copyright © 1995-2000 Hagen Software Inc. All rights reserved. _
