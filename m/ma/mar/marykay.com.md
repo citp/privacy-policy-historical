@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202143114id_/http%3A//marykay.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626055111id_/http%3A//www.marykay.com/privacy.asp) for the most accurate reproduction.*
 
 # Mary Kay Inc. Online Privacy Pledge
 
@@ -39,11 +39,11 @@ _Personal Information_
   | 
 
 ·  
-_Technical & Aggregate Information_  
-Mary Kay Inc. collects certain technical and browsing information from visitors to the two corporate-operated Web sites including [www.marykay.com](http://www.marykay.com/) and [www.mkvelocity.com](http://www.mkvelocity.com/) (the "Sites"), such as the domain named used, pages visited and the date and time you logged on. Such information helps us make the Site more useful to visitors. Technical and browsing information from visitors also may be combined with the information of other visitors on an aggregated basis. Combined technical and browsing information may be disclosed to third parties to assist in these purposes. Technical and browsing information for individual visitors is not disclosed to third parties.
+_Technical & Aggregate Information _  
+Mary Kay Inc. collects certain technical and browsing information from visitors to the two corporate-operated Web sites including [www.marykay.com ](http://marykay.com/privacy.asp) and [www.mkvelocity.com ](http://www.mkvelocity.com/) (the "Sites"), such as the domain named used, pages visited and the date and time you logged on. Such information helps us make the Site more useful to visitors. Mary Kay Inc. utilizes cookies and beacons provided by a third-party service provider to collect and process this information.  Although this service provider collects and processes information coming from our sites on our behalf, Mary Kay Inc. controls how that data may and may not be used.  No personally identifiable information is collected.  Technical and browsing information from visitors also may be combined with the information of other visitors on an aggregated basis. Combined technical and browsing information may be disclosed to third parties to assist in these purposes. Technical and browsing information for individual visitors is not disclosed to third parties. 
 
 _Cookies_  
-A cookie is a small text file that can be stored on your computer's hard drive. When you view the Site, some information in the form of a "cookie" may be automatically stored on your computer. This allows us to tailor the Site to your specific interests and preferences. If you want to disable these cookies, most Internet Browsers will allow you to delete cookies from your computer hard drive, prevent them from being stored or signal a warning before a cookie is stored. You should refer to your Browser instructions or help screen to learn more about these functions. 
+A cookie is a small text file that can be stored on your computer's hard drive. When you view the Site, some information in the form of a "cookie" may be automatically stored on your computer. This allows us to tailor the Site to your specific interests and preferences. If you want to disable these cookies, most Internet Browsers will allow you to delete cookies from your computer hard drive, prevent them from being stored or signal a warning before a cookie is stored. You should refer to your Browser instructions or help screen to learn more about these functions.  If you do not wish to participate in the third-party collection of technical data, you can "opt-out" of by clicking on the following link: <http://optout.mk.rpts.net/cgi-bin/rpts/optout.pl>
 
 **Security**  
 Data security is important to Mary Kay Inc. and we have industry-leading technology in place to ensure any personal information you voluntarily submit is safe including secure sockets layer (SSL) technology to protect the storage and transfer of your personal information. We also use digital secure server identification from Verisign to provide you with the best protection technology on the Internet. Visitor information is stored in secured databases and is protected from unauthorized access.  
@@ -62,7 +62,7 @@ Mary Kay Inc. respects the online privacy of all online visitors. By using the W
 We use e-mail links on this page to allow you to contact us directly with any questions or comments you may have and try to reply promptly. We use this information to respond to your questions and may record your comments to improve our customer service. If you have any questions about the Mary Kay Inc. Online Privacy Statement, please e-mail us at [privacy@marykayinc.com](mailto:privacy@marykayinc.com).  
   
   |    
-  | ©2003 Mary Kay Inc. All rights reserved.   
+  | ©2004 Mary Kay Inc. All rights reserved.   
 No portion may be reproduced without written permission of Mary Kay Inc.  
 Click here to contact the [Webmaster.](mailto:webmaster@marykayinc.com)  
   | [En español](https://web.archive.org/privacy_span.asp)
