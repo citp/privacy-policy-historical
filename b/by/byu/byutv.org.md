@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417173936id_/http%3A//byutv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202032739id_/http%3A//byutv.org/privacy) for the most accurate reproduction.*
 
 # BYU Television | Privacy Policy
 
@@ -24,7 +24,7 @@
  [Membership](https://bcssecure.byu.edu/membership/byutvnew.asp)  
   
 |  |    
-[Print Page ](https://web.archive.org/web/20030417173936id_/http://www.byutv.org/privacy/?print=true) | Send to a Friend    
+[Print Page ](https://web.archive.org/web/20031202032739id_/http://www.byutv.org/privacy/?print=true) | Send to a Friend    
 Privacy Policy   
 
 
