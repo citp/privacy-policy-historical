@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601181122id_/http%3A//www.marketplacemanager.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2003-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030809235253id_/http%3A//www.infopia.com/privacy.html) for the most accurate reproduction.*
 
 # Infopia - Privacy Policy
 
