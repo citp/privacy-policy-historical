@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mitel.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204151718id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mitel.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403211118id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -72,8 +72,79 @@
 
 function getCountry() {
        country = document.forms[0].country.value;
+       lang = 'en';
+       if (country == "France")
+       		lang = 'fr';
+       if (country == "Netherlands")
+       		lang = 'nl';
+       if (country == "Italy")
+       		lang = 'it';
+       if ((country == "Spain")
+			||(country == "Argentina")
+			||(country == "Bolivia")
+			||(country == "Chile")
+			||(country == "Colombia")
+			||(country == "Ecuador")
+			||(country == "Falkland Islands")
+			||(country == "Guyana")
+			||(country == "Paraguay")
+			||(country == "Costa Rica")
+			||(country == "El Salvador"))
+       		lang = 'es';
+       switch (lang) {
+	   case "fr":
+		    imageURL = 'fr_';
+			changeCountryText = "Changer le pays";
+			alttextlogin = "Connextion";
+			alttextregister = "S'enregistrer";
+			alttextcontactus = "Contactez-nous";
+			alttextsearch = "Rechercher";
+			alttextcustexp = "Exp%E9riences clients";
+	   		alttextpressrelease = "Communiqu%E9s de presse";
+		    break
+	   case "nl":
+		    imageURL = 'nl_';
+			changeCountryText = "Land wijzigen";
+			alttextlogin = "Login";
+			alttextregister = "Registreren";
+			alttextcontactus = "Contact";
+			alttextsearch = "Zoeken";
+			alttextcustexp = "Referentie-cases";
+			alttextpressrelease = "Persberichten";
+		    break
+	   case "es":
+		    imageURL = 'es_';
+			changeCountryText = "Cambiar pa%EDs";
+			alttextlogin = "Inicio de sesi%F3n";
+			alttextregister = "Registrar";
+			alttextcontactus = "cont%E1ctenos";
+			alttextsearch = "Buscar";
+			alttextcustexp = "Experiencias de los clientes";
+			alttextpressrelease = "Notas de prensa";
+		    break
+	  case "it":
+			imageURL = 'it_';
+			changeCountryText = "Cambia paese";
+			alttextlogin = "Accedi";
+			alttextregister = "Registrati";
+			alttextcontactus = "Contattaci";
+			alttextsearch = "Cerca";
+			alttextcustexp = "Esperienze di clienti";
+			alttextpressrelease = "Comunicati stampa";
+	   break
+	   default:
+	   		imageURL = '';
+			changeCountryText = "Change Country";
+			alttextlogin = "Login";
+			alttextregister = "Register";
+			alttextcontactus = "Contact&nbsp;Us";
+			alttextsearch = "Search";
+			alttextcustexp = "Customer Experiences";
+			alttextpressrelease = "Press Releases";
+	   }
        document.write(country);
 }
+
 function open_CountryWindow(url) {
            popupWin = window.open(url, 'tutorial', 'width=500,height=230,left=240,top=225')
 }
@@ -89,20 +160,18 @@ function open_CountryWindow(url) {
 		<td align="left" valign="top" width="594">
 			<table border="0" cellpadding="0" cellspacing="0" width="594">
 			<tbody><tr>
-				<td align="left" valign="middle" width="220" class="reg-text-sm">
+				<td align="left" valign="middle" width="182" class="reg-text-sm">
 				<img src="/images/spacer.gif" alt="" width="2" height="1" border="0">
 				<b><script>getCountry();</script>USA</b>
-				<a href="javaScript:open_CountryWindow('/jsp/setCountry.jsp')" onmouseover="status='Change Country'; return true;" onmouseout="status='';" class="reg-text-sm">Change Country</a></td>
+				<a href="javaScript:open_CountryWindow('/jsp/setCountry.jsp')" onmouseover="status='Change Country'; return true;" onmouseout="status='';" class="reg-text-sm"><script>document.write(unescape(changeCountryText));</script>Change Country</a></td>
 				<td align="right" valign="middle" width="221">
 					<table border="0" cellpadding="0" cellspacing="0">
 					<tbody><tr>
-						<td align="left" valign="top" width="34"><a href="javaScript:open_LoginWindow('http://www.ebiz.mitel.com/login.jsp?')" onmouseover="swap2('login',0);status='Login'; return true;" onmouseout="back2();status='';"><img name="login" src="/images/topnav/topnav_login_over.gif" alt="Login" width="29" height="17" border="0"></a><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"></td>
+						<td align="left" valign="top"><a href="javaScript:open_LoginWindow('http://www.ebiz.mitel.com/login.jsp?')" onmouseover="swap2('login',0);status='Login'; return true;" onmouseout="back2();status='';"><script>document.write('<img name="login" src="/images/topnav/'+imageURL+'topnav_login_over.gif" alt="'+unescape(alttextlogin)+'" height="17" border="0"/>');</script><img name="login" src="/images/topnav/topnav_login_over.gif" alt="Login" height="17" border="0"></a><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"></td>
 						<td align="left" valign="top" width="1" class="dark-gray-back"><img src="/images/spacer.gif" alt="" width="1" height="1" border="0"></td>
-						<td align="left" valign="top" width="57"><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"><a href="/DocController?documentId=9996" onmouseover="swap2('register',13);status='Register'; return true;" onmouseout="back2();status='';"><img name="register" src="/images/topnav/topnav_register.gif" alt="Register" width="47" height="17" border="0"></a><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"></td>
+						<td align="left" valign="top"><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"><a href="/DocController?documentId=9996" onmouseover="swap2('register',13);status='Register'; return true;" onmouseout="back2();status='';"><script>document.write('<img name="register" src="/images/topnav/'+imageURL+'topnav_register.gif" alt="'+unescape(alttextregister)+'" height="17" border="0"/>');</script><img name="register" src="/images/topnav/topnav_register.gif" alt="Register" height="17" border="0"></a><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"></td>
 						<td align="left" valign="top" width="1" class="dark-gray-back"><img src="/images/spacer.gif" alt="" width="1" height="1" border="0"></td>
-						<td align="left" valign="top" width="60"><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"><a href="/SearchController" onmouseover="swap2('fast',1);status='Fast Find'; return true;" onmouseout="back2();status='';"><img src="/images/topnav/topnav_fast_find.gif" alt="Fast Find" name="fast" width="50" height="17" border="0"></a><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"></td>
-						<td align="left" valign="top" width="1" class="dark-gray-back"><img src="/images/spacer.gif" alt="" width="1" height="1" border="0"></td>
-						<td align="left" valign="top" width="67"><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"><a href="/DocController?documentId=10196" onmouseover="swap2('contact',2);status='Contact Us'; return true;" onmouseout="back2();status='';"><img src="/images/topnav/topnav_contact_us.gif" alt="Contact Us" name="contact" width="62" height="17" border="0"></a></td>
+						<td align="left" valign="top"><img src="/images/spacer.gif" alt="" width="5" height="1" border="0"><a href="/DocController?documentId=10196" onmouseover="swap2('contact',2);status='Contact Us'; return true;" onmouseout="back2();status='';"><script>document.write('<img src="/images/topnav/'+imageURL+'topnav_contact_us.gif" alt="'+unescape(alttextcontactus)+'" name="contact" height="17" border="0"/>');</script><img src="/images/topnav/topnav_contact_us.gif" alt="Contact&nbsp;Us" name="contact" height="17" border="0"></a></td>
 					</tr>
 					</tbody></table>
 				</td>
@@ -110,7 +179,8 @@ function open_CountryWindow(url) {
 					<table border="0" cellpadding="0" cellspacing="0" width="153">
 					<tbody><tr>
 						<td align="right" valign="middle" width="113"><input type="text" style="font-family:Verdana; font-size:10; background-color:ffffff;" size="15" name="keyword" value=""></td>
-						<td align="left" valign="middle" width="40"><img src="/images/spacer.gif" alt="" width="4" height="1" border="0"><a href="javascript:topSearch();"><img src="/images/topnav/topnav_search.gif" alt="Search" width="36" height="17" border="0"></a></td>
+						<td align="left" valign="middle"><img src="/images/spacer.gif" alt="" width="4" height="1" border="0"><a href="javascript:topSearch();"><script>document.write('<img src="/images/topnav/'+imageURL+'topnav_search.gif" alt="'+unescape(alttextsearch)+'" height="17" border="0"/>');
+						</script><img src="/images/topnav/topnav_search.gif" alt="Search" height="17" border="0"></a></td>
 					</tr>
 					</tbody></table>
 				</td>
@@ -248,7 +318,7 @@ function open_CountryWindow(url) {
 <tr>
 	<td align="left" valign="top" width="10"><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"></td>
 	<td align="left" width="63" class="black-footer"><img src="/images/spacer.gif" width="1" height="20" alt="" border="0"></td>
-	<td align="left" valign="middle" width="700" class="black-footer">Copyright 2001-2004 Mitel Networks Corporation, <a class="footer" href="/DocController?documentId=10160" onmouseover="status='Legal Information'; return true;" onmouseout="status=''; return true;">Legal Information</a>, <a class="footer" href="/jsp/privacy.jsp" onmouseover="status='Privacy Policy'; return true;" onmouseout="status=''; return true;">Privacy Policy</a>, <a class="footer" href="/DocController?documentId=10164" onmouseover="status='Environmental Policy'; return true;" onmouseout="status=''; return true;">Environmental Policy</a>, <a class="footer" href="/DocController?documentId=10166" onmouseover="status='Quality Policy'; return true;" onmouseout="status=''; return true;">Quality Policy</a></td>
+	<td align="left" valign="middle" width="700" class="black-footer">Copyright 2001-2005 Mitel Networks Corporation, <a class="footer" href="/DocController?documentId=10160" onmouseover="status='Legal Information'; return true;" onmouseout="status=''; return true;">Legal Information</a>, <a class="footer" href="/jsp/privacy.jsp" onmouseover="status='Privacy Policy'; return true;" onmouseout="status=''; return true;">Privacy Policy</a>, <a class="footer" href="/DocController?documentId=10164" onmouseover="status='Environmental Policy'; return true;" onmouseout="status=''; return true;">Environmental Policy</a>, <a class="footer" href="/DocController?documentId=10166" onmouseover="status='Quality Policy'; return true;" onmouseout="status=''; return true;">Quality Policy</a></td>
 </tr>
 </tbody></table>
 
