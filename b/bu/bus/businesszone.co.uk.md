@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206222400id_/http%3A//www.businesszone.co.uk/help/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616174000id_/http%3A//www.businesszone.co.uk/help/help_privacy.html) for the most accurate reproduction.*
 
 # BusinessZONE - Help Section - About BusinessZONE
 
@@ -12,7 +12,6 @@
   * Links
   * Newswires
   * Surveys & Contests
-  * Mail-A-Friend
   * Security
   * Correcting/Updating Personal Information
   * Notification of Changes
@@ -44,9 +43,6 @@ If a user wishes to subscribe to our newswires, we ask for contact information s
 
 **Surveys& Contests**  
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose any information requested. Information requested may include contact information (such as name and delivery address), and demographic information (such as postcode, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the functionality of the site.
-
-**Mail-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. BusinessZONE will automatically send the friend a one-time email inviting them to visit the site.
 
 **Security**  
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
