@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the toyotafinancial.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203094743id_/http%3A//www.toyotafinancial.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyotafinancial.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602113545id_/http%3A//www.toyotafinancial.com/legal/privacy.html) for the most accurate reproduction.*
 
 # ToyotaFinancial.com - Privacy Policy and Terms of Use
 
-[](https://web.archive.org/about/index.html)  
-[](https://www.toyotafinancialofsc.com/)  
-[](https://web.archive.org/finance_lease/buylease.jsp)  
-[](https://web.archive.org/finance/index.html)  
-[](https://web.archive.org/lease/index.html)  
-[](https://web.archive.org/pyv/index.html)  
+[](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=AboutIdx)  
+[](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=myTFS&Env=relative)  
+[](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=FinanceVsLease)  
+[](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=FinanceIdx)  
+[](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=LeaseIdx)  
+[](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=ProtectIdx)  
   
-[](https://web.archive.org/oca/oca_detail.jsp)  
+[](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=OCA)  
   
 |   
   
   
 |  |   
-[Home](https://web.archive.org/index.html) > Privacy Policy And Terms of Use [Click here for the Investor Relations Terms and Conditions](https://web.archive.org/web/20011203094743id_/http%3A//www.toyotafinancial.com/legal/investor.html)
-
-Online Privacy Policy
+[Home](https://web.archive.org/index.html) > Privacy Policy And Terms of Use Online Privacy Policy
 
 Toyota Motor Credit Corporation, Toyota Motor Insurance Services, Inc., and their subsidiaries (collectively, Toyota Financial Services, TFS, or we) respect your privacy and the confidential nature of the information that we gather during the course of our relationship with you. This Privacy Policy describes Toyota Financial Services' policy regarding information received about you during visits to our website. By using this website, you signify your acceptance of this Privacy Policy. We may change this Privacy Policy at any time without notice to you. 
 
@@ -37,7 +35,7 @@ If you choose to complete and submit our Online Credit Application, or to access
 
 If You Are a Customer of Toyota Financial Services
 
-If you have a finance or lease account with us and access My TFS Account, you will need to enter certain identifying information such as account number, e-mail address, vehicle identification number, social security number, and zip code. We use this data to authenticate your Toyota Financial Services account. Information gathered on My TFS Account, or during the course of our relationship with you, may also be used as detailed in the [Finance Privacy Notice](https://web.archive.org/web/20011203094743id_/http%3A//www.toyotafinancial.com/legal/privacy_finance.html). If you are a TFS insurance customer, information gathered during the course of our relationship with you may be used as detailed in the [Insurance Privacy Notice](https://web.archive.org/web/20011203094743id_/http%3A//www.toyotafinancial.com/legal/privacy_insurance.html). 
+If you have a finance or lease account with us and access My TFS Account, you will need to enter certain identifying information such as account number, e-mail address, vehicle identification number, social security number, and zip code. We use this data to authenticate your Toyota Financial Services account. Information gathered on My TFS Account, or during the course of our relationship with you, may also be used as detailed in the Financial Privacy Notice mailed to you. If you are a TFS insurance customer, information gathered during the course of our relationship with you may be used as detailed in the Insurance Privacy Notice mailed to you. You may request a copy of your Financial Privacy Notice (if applicable) by calling us at 1-800-874-8822. You may request a copy of your Insurance Privacy Notice (if applicable) by calling us at 1-800-228-8559.
 
 Terms of Use of This Website
 
