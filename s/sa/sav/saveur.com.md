@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveur.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214141506id_/http%3A//saveur.com/SAV_Main/1%2C3136%2C18-1-145-0-0-0%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveur.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401112750id_/http%3A//saveur.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Saveur
 
@@ -32,15 +32,15 @@ We aggregate data on users' home servers for internal review purposes, in order 
 
 Lack of World Publications, Inc. Responsibility For Third Party Content On Site: 
 
-World Publications, Inc. cannot and does not control the acts of the users of its Web site's services or monitor the accuracy of postings by such users. All users should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, or other forum or public area of this Site, the information might be collected, circulated, and used by others. In the event that you encounter any user who is improperly collecting or using information about you or other users, please contact us at **407-571-4648** , or e-mail [info@worldpub.net.](mailto:info@worldpub.net.)
+World Publications, Inc. cannot and does not control the acts of the users of its Web site's services or monitor the accuracy of postings by such users. All users should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, or other forum or public area of this Site, the information might be collected, circulated, and used by others. In the event that you encounter any user who is improperly collecting or using information about you or other users, please contact us at **407-571-4648** , or e-mail [info@worldpub.net.](mailto:info@worldpub.net)
 
 Requesting Available Information:
 
-If you want to find out what information World Publications, Inc. has in its database about you, please write World Publications, Inc. at the address above, call **407-571-4648** , or e-mail [info@worldpub.net.](mailto:info@worldpub.net.) Please include your name, e-mail address, and other information in the same format that you originally supplied to World Publications, Inc., so we can be more certain of matching your request to the correct information.
+If you want to find out what information World Publications, Inc. has in its database about you, please write World Publications, Inc. at the address above, call **407-571-4648** , or e-mail [info@worldpub.net.](mailto:info@worldpub.net) Please include your name, e-mail address, and other information in the same format that you originally supplied to World Publications, Inc., so we can be more certain of matching your request to the correct information.
 
 Personally-Identifiable Information: Opt-Out Option: 
 
-If you would like to have your personally-identifiable information removed from World Publications, Inc.'s databases going forward, please call **407-571-4648** , or e-mail [info@worldpub.net.](mailto:info@worldpub.net.)
+If you would like to have your personally-identifiable information removed from World Publications, Inc.'s databases going forward, please call **407-571-4648** , or e-mail [info@worldpub.net.](mailto:info@worldpub.net)
 
 Security:
 
