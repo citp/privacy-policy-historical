@@ -1,6 +1,44 @@
-> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603182635id_/http%3A//www.commweb.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201213543id_/http%3A//www.commweb.com/static/privacy.html) for the most accurate reproduction.*
 
 # Commweb
+
+|  [](http://www.cmp.com/)
+
+* * *
+
+**The CommWeb Magazine Network**
+
+* * *
+
+* * *
+
+* * *
+
+**Solutions Center**
+
+* * *
+
+[Buyer's Guide](http://www.mediabrains.com/client/commweb/bg1/search.asp)
+
+* * *
+
+**Resource Center**
+
+* * *
+
+* * *
+
+**Visitors Center**
+
+* * *
+
+* * *
+
+* * *
+
+This page uses styles sheets!
+
+|  |  [](http://www.commweb.com/) [](http://www.commweb.com/elements/nav/commbar.html)
 
 CommWeb.com Privacy Policy Statement
 
@@ -31,3 +69,12 @@ CMP is not responsible for the content or the privacy polices of websites to whi
 CMP uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to responsible third parties after permission from the user. 
 
 If you have any questions about this privacy statement, the practices of this site or your dealings with CommWeb you can contact: <http://www.cmpnet.com/feedback/>
+
+|  |  |  **FREE Newsletters!**  
+---  
+| CT News  
+| CallCenter News  
+| Carrier News  
+| DataComm News  
+| Convergence News  
+Get descriptions on all our [eNewsletters](http://www.commweb.com/forms/NewsSignUp_form.html#newsletters)
