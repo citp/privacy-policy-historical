@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callingamerica.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401180636id_/http%3A//callingamerica.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callingamerica.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214041014id_/http%3A//callingamerica.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Page
 
