@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abc.net.au privacy policy that was archived on 2004-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040623083037id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abc.net.au privacy policy that was archived on 2004-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210085820id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <!-- #BeginEditable "TITLE" --> 
@@ -21,17 +21,17 @@
 <meta name="Keywords" content="Privacy, personal information, cookies, protection, anonymous, disclosure, security, safe">
 <!-- #EndEditable -->
 <link rel="stylesheet" href="/includes/abc_online.css" type="text/css">
-
-
 <style type="text/css">
 <!-- 
 .GNmenuitems{font-family:verdana,sans-serif; font-size: 11px; letter-spacing: 1px; color: #000;}
 --> 
 </style>
 <script language="JavaScript" type="text/javascript">
-<!-- //(c) Australian Broadcasting Corporation 2001.
+<!--
+// global_dhtml.js
+// (c) Australian Broadcasting Corporation 2001.
 // Annotated version of this script at /includes/annotated_dhtml.txt
-e5=0;n4=0;n6=0;h=5;v=6;d=350;
+e5=0;n4=0;n6=0;h=5;v=6;d=100;
 var D,S,t,H,sh,ob,dh,br,pl;
 if(navigator.appName.indexOf('Microsoft Internet Explorer',0)>-1){br='e';}
 if(navigator.appName.indexOf('Netscape',0)>-1){br='n';}
@@ -47,26 +47,32 @@ if(n6){D="document.getElementsByTagName('*')";S=".style";H="hidden";sh="visible"
 </script>
 <script language="JavaScript" type="text/javascript">
 <!--
-if(dh){document.write("<scr"+"ipt src=\"/includes/menus2004-06-17.js\"><\/script>");}
+if(dh){document.write("<scr"+"ipt src=\"/includes/menus2004-11-05.js\"><\/script>");}
 // -->
 </script>
 <script language="JavaScript" type="text/javascript">
 <!-- //
-function E(A){st='';st+='<div id="';st+=A[0];st+='" style="width: auto; position:absolute; z-index:2;';st+=' left:'+A[h]+'px; ';st+=' top: '+A[v]+'px; ';st+=' visibility: hidden;">';st+='<table border="0" cellspacing="0" cellpadding="3" style="background-color: #CCCCCC; cursor: hand; font-family:verdana,sans-serif; ">';
-for(i=7;i<A.length;i+=2){st+='<tr><td class="GNmenuitems" onMouseOver="clearTimeout(t);this.style.background=\'#ffffff\'"';st+=' onMouseOut="this.style.background=\'#cccccc\';hide(\'';st+=A[0];st+='\');"';st+=' onClick="hideNow(\''+A[0]+'\');window.location=\''+u+A[(i+1)]+'\'">';st+=A[i];st+='<\/td><\/tr>';}
-st+='<\/table><\/div>';document.write(st);}
+function E(A){
+	st='<div id="'+A[0]+'" style="width: auto; position:absolute; z-index:2;'+' left:'+A[h]+'px; top: '+A[v]+'px; '+' visibility: hidden;">';
+	st+='<table border="0" cellspacing="0" cellpadding="3" style="background-color: #CCCCCC; cursor: hand; font-family:verdana,sans-serif; ">';
+	for(i=7;i<A.length;i+=2){
+		st+='<tr><td class="GNmenuitems" onMouseOver="clearTimeout(t);this.style.background=\'#ffffff\'"';
+		st+=' onMouseOut="this.style.background=\'#cccccc\';hide(\''+A[0]+'\');"';
+		st+=' onClick="hideNow(\''+A[0]+'\');window.location=\''+u+A[(i+1)]+'\'">'+A[i]+'<\/td><\/tr>';
+	}
+	st+='<\/table><\/div>';
+	document.write(st);
+}
 if(n4){sW=innerWidth;sH=innerHeight;}
 function n4R(){if(innerWidth != sW || innerHeight != sH){location.reload();}}
 if(n4) onresize=n4R;
-if(e5||n6){for(j=0;j
-<metaArray.length;j++){E(metaArray[j])}}
-function hide(theMenu){if(dh){{ob=eval(D+'.'+theMenu+S);t=setTimeout('ob.visibility=H' , d);}}}
-function hideNow(aMenu){if(dh){{ob=eval(D+'.'+aMenu+S);ob.visibility=H;}}}
-function hideAllMenus(){}
-function show(theMenu){if(dh){ob=eval(D+'.'+theMenu+S);ob.visibility=sh;return false;} else{return 1;}}
+if(e5||n6){for(j=0;j<metaArray.length;j++){E(metaArray[j])}}
+function hide(theMenu){if(dh){t=setTimeout('hideAllMenus()',d);}}
+function hideNow(aMenu){if(dh){ob=eval(D+'.'+aMenu+S);ob.visibility=H;}}
+function hideAllMenus(){for(j=0;j<allMenus.length;j++){hideNow(allMenus[j])}}
+function show(theMenu){if(theMenu=='sport')theMenu='sportMenu'; if(dh){hideAllMenus(); ob=eval(D+'.'+theMenu+S); ob.visibility=sh; return false;} else return 1;}
 // -->
 </script>
-
 </head>
 <body>
 <map name="corpmap"><area shape="rect" coords="10,0,68,19" href="http://shop.abc.net.au/" alt="ABC Shop" title="ABC Shop"><area shape="rect" coords="74,0,168,19" href="http://www.abc.net.au/contact/" alt="Contact the ABC" title="Contact the ABC"><area shape="rect" coords="174,0,264,19" href="http://www.abc.net.au/search/" alt="Search the ABC" title="Search the ABC"></map>
@@ -92,7 +98,7 @@ function show(theMenu){if(dh){ob=eval(D+'.'+theMenu+S);ob.visibility=sh;return f
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr class="breadcrumbs">
 <td><a href="/default.htm">ABC Online</a> &gt; <!-- #BeginEditable "BREADCRUMB" -->Privacy Policy<!-- #EndEditable --></td>
-<td class="right">Wednesday, June 23, 2004</td>
+<td class="right">Friday, December 10, 2004</td>
 </tr>
 <tr valign="top">
 <td colspan="2" id="greyBar"><img src="/about/abcpeople/img/spacer.gif" height="4" width="1" alt=""></td>
@@ -155,9 +161,7 @@ function show(theMenu){if(dh){ob=eval(D+'.'+theMenu+S);ob.visibility=sh;return f
 
 <p>The ABC Shop site currently uses cookies. For more information about how the ABC Shop uses cookies, please visit the ABC Shop's privacy policy at <a href="http://www.abcshop.com.au/help/privacy.shtm">http://www.abcshop.com.au/help/privacy.shtm</a></p>
 
-<p>The ABC will start using cookies across the rest of the ABC Online website from 27 May 2002.</p>
-
-<p>For more information see <a href="http://www.abc.net.au/about/cookies.htm">this page</a>.</p>
+<p>For more information about cookies on other parts of ABC Online see <a href="http://www.abc.net.au/about/cookies.htm">this page</a>.</p>
 
 <h2>Disclosure</h2>
 
