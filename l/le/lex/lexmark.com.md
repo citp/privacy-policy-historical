@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexmark.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202103000id_/http%3A//www.lexmark.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexmark.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603101256id_/http%3A//www.lexmark.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Lexmark - About Lexmark - Privacy Policy
 
@@ -25,8 +25,8 @@ Thank you for visiting Lexmark's Web site.
   
   
 [Home](https://web.archive.org/us_home.html) | [Products and Supplies](https://web.archive.org/products/index.html) | [Services and Support](https://web.archive.org/support/index.html) | [Reseller Support](https://web.archive.org/reseller/index.html) | [Where to Buy](https://web.archive.org/catalog/index.html)  
-[Worldwide](https://web.archive.org/web/20001202103000id_/http%3A//www.lexmark.com/corporate/muncher.html) | [Site Map](https://web.archive.org/site.html) | [Year 2000](https://web.archive.org/corporate/year2000.html) | [Privacy Policy](https://web.archive.org/corporate/privacy.html) | [About Lexmark](https://web.archive.org/corporate/index.html) | [Contact Us](https://web.archive.org/contacts/index.html) | [Webmaster Feedback](https://web.archive.org/webmaster.html)   
+[Worldwide](https://web.archive.org/web/20010603101256id_/http%3A//www.lexmark.com/corporate/index.html) | [Site Map](https://web.archive.org/site.html) | [Year 2000](https://web.archive.org/corporate/year2000.html) | [Privacy Policy](https://web.archive.org/corporate/privacy.html) | [About Lexmark](https://web.archive.org/corporate/index.html) | [Contact Us](https://web.archive.org/contacts/index.html) | [Webmaster Feedback](https://web.archive.org/webmaster.html)   
 **For more information about Lexmark products, please call toll-free 1-888-LEXMARK.  
 (1-888-539-6275) **
 
-Copyright © 2000 Lexmark International, Inc. All rights reserved. 
+Copyright © 2001 Lexmark International, Inc. All rights reserved. 
