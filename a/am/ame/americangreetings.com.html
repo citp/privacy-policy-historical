@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the americangreetings.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202141847id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americangreetings.com privacy policy that was archived on 2004-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040622172014id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<meta name="agmips" content="1.810730">
+<meta name="agmips" content="1.729376">
  
 <title>AmericanGreetings.com - thousands of greetings for you to send.</title>
  <script language="JavaScript">
@@ -19,7 +19,7 @@ function encodePurl(purl){
   purl=purl.replace(/\%20/g,"perc20");
   purl=purl.replace(/ /g,"perc20");
   purl=purl.replace(/\+/g,"%20");
-  purl=purl.replace(/#.*$/,"");  
+  purl=purl.replace(/#.*$/,"");
   purl=purl.replace(/%(\d+)/g,"perc$1");
   return purl;
 }
@@ -37,91 +37,125 @@ function decodePurl(purl){
   return purl;
 }
 
-//Join Now
-function openJoin(url, purl, width, height, windowname, intX, intY) { 
-  if(!purl) {
+function openJoin(url, purl, width, height, windowname, intX, intY) {
+  if(!purl)
+  {
     purl=window.location.href;
   }
-  if(!width) {
+  if(!width)
+  {
     width='300';
   }
-  if(!height) {
+  if(!height)
+  {
     height='320';
   }
-  if(!windowname) {
+  if(!windowname)
+  {
     windowname = "joinwin";
   }
-  if(!intX) {
+  if(!intX)
+  {
     intX=0;
   }
-  if(!intY) {
+  if(!intY)
+  {
     intY=0;
   }
-  purl=encodePurl(purl);
-  if(url.indexOf("ostatus") >= 0){    
-    url=url.replace(/ostatus/,"purl="+purl+"&ostatus");
-  }else{
-    url+="&purl="+purl;
+  purl = encodePurl(purl);
+  if(url.indexOf("ostatus") >= 0)
+  {
+    url = url.replace(/ostatus/,"purl="+purl+"&ostatus");
+  }
+  else
+  {
+    url += "&purl=" + purl;
   }
   pageindex = -1;
   questionindex = -1;
   questionindex = url.indexOf("?");
-  if (url.indexOf("offer.pd")>0) {pageindex = url.indexOf("offer.pd")}
-  else if (url.indexOf("announce.pd")>0) {pageindex = url.indexOf("announce.pd")}
-  else if (url.indexOf("marketingpop.pd")>0) {pageindex = url.indexOf("marketingpop.pd")}
+  if (url.indexOf("offer.pd")>0)
+  {
+    pageindex = url.indexOf("offer.pd")
+  }
+  else if (url.indexOf("announce.pd")>0)
+  {
+    pageindex = url.indexOf("announce.pd")
+  }
+  else if (url.indexOf("marketingpop.pd")>0)
+  {
+    pageindex = url.indexOf("marketingpop.pd")
+  }
 
-  if(pageindex < questionindex){
+  if(pageindex < questionindex)
+  {
     if (intX || intY)
     {
       strWinFeatures="resizable=no,screenX="+intX+",screenY="+intY+",left="+intX+",top="+intY+",scrollbars=no,width="+width+",height="+height;
       newwin = window.open(url,windowname,strWinFeatures);
     }
     else
-    { 
+    {
       strWinFeatures="resizable=no,scrollbars=no,width="+width+",height="+height;
       newwin = window.open(url,windowname,strWinFeatures);
     }
     newwin.focus();
-  }else{
+  }
+  else
+  {
     window.document.location.href=url;
   }
 }
 
-// Offer Popup
-function openOfferPop(host) {
-  var url = "/popup/offer.pd?";
-  if(host) {
-    url = host + url;
+function openOfferPop(url, cookiename, cookiedays)
+{
+  purl = window.location.href;
+
+  if(!url)
+  {
+    var url = "/popup/offer.pd?";
+    if (purl.indexOf("cnp") >= 0)
+    {
+      url = url + "cnp=1"
+    }
   }
-  var url = "/popup/offer.pd?";
+
   var intSw = window.screen.availWidth;
   var intSh = window.screen.availHeight;
   var intW = 300;
-  var intH = 320;      
+  var intH = 320;
   var intX=intSw - intW;
   var intY=intSh - intH;
-  openJoin(url,0,0,0,0,intX,0);  
+
+  if (cookiename)
+  {
+    var allcookies = document.cookie;
+    var pos = allcookies.indexOf(cookiename);
+//only pop the window if we don't see the cookie
+    if (pos == -1)
+    {
+      SECONDS_PER_DAY = 86400;
+      myMinTimeOut    = SECONDS_PER_DAY*cookiedays;
+      myDate          = new Date();
+      myDate.setTime(myDate.getTime()+(myMinTimeOut*1000));
+      document.cookie = cookiename + "=true; expires=" + myDate.toGMTString();
+      openJoin(url,0,0,0,0,intX,0);
+    }
+  }
+  else
+  {
+    openJoin(url,0,0,0,0,intX,0);
+  }
 }
 
-function showLoginUpdate(strHost) {
-        var url = "/popup/offer.pd?";
-        openJoin(url);
-     }
-
-function showLoginWithVars(strHost, strVars) {
-    var url = "/popup/offer.pd?";
-    if(strHost) {
-      url = strHost + url;
-    }
-    openJoin(url);  
-     }
-  
-//Generic Open Window  
-function OpenNewWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
+//Generic Open Window
+function OpenNewWindow(url,winwidth,winheight,bar)
+{
+  NewWindow = window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)
+}
 
 // NO MORE HIDING -->
-</script>
- 
+</script> 
 <style type="text/css">
 .tabprog, a.tabprog:link, a.tabprog:visited, a.tabprog:active {font-family: Arial, helvetica, sans-serif; font-size: 14px; color: #ffffff; font-weight: bold;}
 
@@ -153,46 +187,60 @@ a.thumblink:link, a.thumblink:visited, a.thumblink:active {font-family: Verdana,
 .ad, a.ad:link, a.ad:visited, a.ad:active {font-family: Arial, helvetica, sans-serif; font-size: 10px;}
 .catnav, a.catnav, a.catnav:visited, a.catnav:active { font-size: 13px; font-family: Arial, Helvetica, sans-serif }
 .catnavcolor, a.catnavcolor, a.catnavcolor:visited, a.catnavcolor:active {color: #BFBFBF}
+.catpagetext, a.catpagetext, a.catpagetext:visited, a.catpagetext:active { color: #000000; font-weight: bold; font-size: 12px; font-family: verdana, Arial, Helvetica, sans-serif }
+.smallish, a.smallish, a.smallish:visited, a.smallish:active  {font-family: verdana; font-size: 10px;}
 
 .homehead, a.homehead:link, a.homehead:visited, a.homehead:active {font-family:  Verdana,Arial, helvetica, sans-serif; font-size: 12px; color: #000000; font-weight: bold;}
 .homeheadred, a.homeheadred:link, a.homeheadred:visited, a.homeheadred:active {font-family:  Verdana,Arial, helvetica, sans-serif; font-size: 12px; color: #ff0000; font-weight: bold;}
 .home, a.home:link, a.home:visited, a.home:active {font-family: Verdana,Arial, helvetica, sans-serif; font-size: 11px;}
 
 .bread, a.bread, a.bread:visited, a.bread:active { font-weight: bold; font-size: 10px; font-family: verdana,Arial,Helvetica,sans-serif;}
-
+.textsub, a.textsub, a.textsub:visited, a.textsub:active {FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, sans-serif;}
 .formInput {width: 100%;}
 .formTextarea {width: 100%; height: 75px;}
 .siteerror, a.siteerror, a.siteerror:visited, a.siteerror:active {COLOR: #ff0000; FONT-FAMILY: Verdana,Arial,Helvetica; FONT-weight: bold; FONT-SIZE: 12px}
+.textsub, a.textsub, a.textsub:visited, a.textsub:active {FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, sans-serif;}
 </style> 
+<script language="JavaScript">var mjc_ck_name = "tpc2";
+var useg_ck_name = "useg";
+var cmpn_ck_name = "cmpn";</script>
+<script language="JavaScript" src="http://www.imgag.com/js/cookie_util.js"></script>
+<script language="JavaScript" src="http://www.imgag.com/js/useg.js"></script>
+<meta name="DCSext.ag_tseg" content="B">
+<meta name="DCSext.ag_tseg2" content="B">
+<meta name="WT.sv" content="ag236">
+<meta name="DCS.dcssip" content="www.americangreetings.com">
+<meta name="DCSext.ag_cache" content="W">
 </head> 
  
-<body bgcolor="#ffffff" link="#3300ff" vlink="#990099" alink="#000000" text="#000000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"> 
+<body bgcolor="#ffffff" link="#000066" vlink="#000066" alink="#000000" text="#000000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"> 
 <a name="top"></a> 
 <!--header--> 
 <center> 
 
 <table border="0" cellpadding="0" cellspacing="0" width="770">
-<tbody><tr><td colspan="3" align="center"><iframe width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=728x90&amp;page=warrants.pd&amp;memstat=afu&amp;site=DFLT&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=728x90&page=warrants.pd&memstat=afu&site=DFLT&cat=DFLT&subcat=DFLT&product="></SCRIPT></iframe></td></tr><tr><td width="277"><a href="http://www.americangreetings.com"><img src="http://www.imgag.com/ag/logo/aglogo.gif" width="277" height="45" border="0"></a></td>
-<td width="374"></td>
-<td align="right"><img src="http://www.imgag.com/ag/nav/n_signin.gif" border="0" usemap="#top"></td></tr>
-<tr><td colspan="3">
+<tbody><tr><td align="center"><iframe width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=728x90&amp;page=warrants.pd&amp;memstat=afu&amp;site=DFLT&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=728x90&page=warrants.pd&memstat=afu&site=DFLT&cat=DFLT&subcat=DFLT&product="></SCRIPT></iframe></td></tr>
+<tr><td><a href="http://www.americangreetings.com"><img src="http://www.imgag.com/ag/logo/aglogo.gif" width="277" height="45" border="0"></a></td></tr>
+<tr><td>
 <table width="770" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#330066"><a href="http://www.americangreetings.com"><img src="http://www.imgag.com/ag/nav/n_thome.gif" width="70" height="30" alt="" border="0"></a></td><td bgcolor="#6666CC"><a href="http://www.americangreetings.com/cnp/index.pd"><img src="http://www.imgag.com/ag/nav/n_tcp.gif" width="70" height="30" alt="" border="0"></a></td><td bgcolor="#6666CC"><a href="http://www.americangreetings.com/downloads.pd"><img src="http://www.imgag.com/ag/nav/n_tdwn.gif" width="70" height="30" alt="" border="0"></a></td><td bgcolor="#6666CC"><a href="http://www.americangreetings.com/whatsnew.pd"><img src="http://www.imgag.com/ag/nav/n_tnm.gif" width="70" height="30" alt="" border="0"></a></td><td bgcolor="#CCCCFF"><img src="http://www.imgag.com/ag/nav/n_memberfinal.gif" width="490" height="30" alt="" border="0" usemap="#memmap"></td></tr></tbody></table>
-</td></tr>
-<tr><td colspan="3" valign="top" bgcolor="#330066"><img src="http://www.imgag.com/ag/space.gif" width="1" height="5" border="0"></td></tr>
-</tbody></table>
-<map name="memmap">
-<area alt="" coords="5,13,62,30" href="javascript:openOfferPop();">
-<area alt="" coords="72,14,127,31" href="javascript:openOfferPop();">
-<area alt="" coords="140,13,212,34" href="javascript:openOfferPop();">
-<area alt="" coords="223,13,264,31" href="javascript:openOfferPop();">
-<area alt="" coords="276,13,327,35" href="javascript:openOfferPop();">
-<area alt="" coords="338,13,395,33" href="javascript:openOfferPop();">
-<area alt="" coords="428,13,460,33" href="http://www.americangreetings.com/customer/index.pd">
-</map>
-<map name="top">
-<area alt="" coords="63,22,119,44" href="http://www.americangreetings.com/members/signin.pd?referer=" shape="RECT">
-<area alt="" coords="1,23,63,49" href="http://www.americangreetings.com/fom.pd" shape="RECT">
+<tbody><tr><td><a href="http://www.americangreetings.com"><img src="http://www.imgag.com/ag/nav/mhometab.gif" width="73" height="24" alt="" border="0"></a></td>
+<td><a href="http://www.americangreetings.com/cnp/index.pd"><img src="http://www.imgag.com/ag/nav/cnptab.gif" width="95" height="24" alt="" border="0"></a></td>
+<td><a href="http://americangreetings.4yoursoul.com/clientinterface/8/americangreetings.asp"><img src="http://www.imgag.com/ag/nav/papertab.gif" width="84" height="24" alt="" border="0"></a></td>
+<td><a href="http://www.americangreetings.com/inv/index.pd"><img src="http://www.imgag.com/ag/nav/invitetab.gif" width="82" height="24" alt="" border="0"></a></td>
+<td><a href="http://www.americangreetings.com/downloads.pd"><img src="http://www.imgag.com/ag/nav/downtab.gif" width="82" height="24" alt="" border="0"></a></td>
+<td><a href="http://www.americangreetings.com/members.pd"><img src="http://www.imgag.com/ag/nav/membtab.gif" width="81" height="24" alt="" border="0"></a></td>
+<td><img src="http://www.imgag.com/ag/nav/signinimg.gif" border="0" usemap="#top" width="273" height="24" alt=""><map name="top"><area alt="" coords="219,1,272,23" href="http://www.americangreetings.com/members/signin.pd?referer=" shape="RECT"><area alt="" coords="155,0,216,23" href="http://www.americangreetings.com/fom.pd" shape="RECT"></map></td></tr></tbody></table></td></tr>
+<tr><td><img src="http://www.imgag.com/ag/nav/memtools.gif" width="770" height="20" alt="" border="0" usemap="#memmap"></td></tr></tbody></table>
+
+<map name="memmap" id="memmap">
+<area alt="" coords="195,4,258,17" href="javascript:openOfferPop();">
+<area alt="" coords="266,4,333,17" href="http://www.americangreetings.com/members/register.pd">
+<area alt="" coords="343,4,401,17" href="javascript:openOfferPop();">
+<area alt="" coords="420,4,499,17" href="javascript:openOfferPop();">
+<area alt="" coords="519,5,562,17" href="javascript:openOfferPop();">
+<area alt="" coords="577,5,636,17" href="javascript:openOfferPop();">
+<area alt="" coords="650,4,710,17" href="javascript:openOfferPop();">
+<area alt="" coords="736,5,762,17" href="http://www.americangreetings.com/customer/index.pd">
 </map> 
 <!--header--> 
  
@@ -475,7 +523,7 @@ As always, if you have any questions, please feel free to contact us at <a href=
 </tr> 
 </tbody></table></td> 
 <!--right--> 
-<td align="center" valign="top" bgcolor="#319aff" width="140"> 
+<td align="center" valign="top" bgcolor="#6699CC" width="140"> 
 <img src="http://www.imgag.com/ag/space.gif" width="140" height="1" border="0"> 
 </td> 
 <!--end right--> 
@@ -483,30 +531,32 @@ As always, if you have any questions, please feel free to contact us at <a href=
 <br><p><br> 
 <br>
 <table width="770" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#330066"><img src="http://www.imgag.com/ag/space.gif" border="0" alt="" width="770" height="1"></td></tr>
+<tbody><tr><td bgcolor="#3366CC"><img src="http://www.imgag.com/ag/space.gif" border="0" alt="" width="770" height="1"></td></tr>
 <tr><td><img src="http://www.imgag.com/ag/space.gif" border="0" alt="" width="1" height="5"></td></tr>
-<tr>
-<td align="center">
+<tr><td align="center" class="textsub">
 <img src="http://www.imgag.com/ag/space.gif" border="0" alt="" width="630" height="1"><br>
-<font class="smallish" face="verdana,arial,helvetica" size="1"><a href="http://www.americangreetings.com/members/signin.pd?referer=">Sign In</a> <b> | </b> <a href="http://www.americangreetings.com/fom.pd">Join</a> <b> | </b>
- <a href="http://www.americangreetings.com/customer/index.pd" target="_top">Customer Service - Email Us</a><b> | </b>
- <a href="JavaScript:OpenNewWindow('/advertise.pd','500','300','no')">Advertise With Us</a><b> | </b>
-<a href="http://corporate.americangreetings.com" target="_blank">About Us</a> <b> | </b> <a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=AM&amp;script=2100" target="_blank">Investor Relations</a> <b> | </b>
- <a href="http://www.americangreetings.com/warrants.pd" target="_top">Privacy Policy</a>  <b> | </b>  <a href="http://www.americangreetings.com/legal.pd#top" target="_top">Terms&nbsp;of&nbsp;Service</a>
-</font></td>
+<a href="http://www.americangreetings.com/members/signin.pd?referer=">Sign In</a> <b> | </b> <a href="http://www.americangreetings.com/fom.pd">Join</a> <b> | </b>
+ <a href="http://www.americangreetings.com/customer/index.pd">Customer Service - Email Us</a><b> | </b>
+ <a href="JavaScript:OpenNewWindow('/advertise.pd','500','300','no')">Advertise With Us</a> <b> | </b>
+ <a href="http://www.americangreetings.com/warrants.pd" target="_top">Privacy Policy</a>  <b> | </b>  <a href="http://www.americangreetings.com/legal.pd#top" target="_top">Terms&nbsp;of&nbsp;Service</a> <b> | </b><br>
+<a href="http://corporate.americangreetings.com" target="_blank">About Us</a><b> | </b> <a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=AM&amp;script=2100" target="_blank">Investor Relations</a> <b> | </b> <a href="http://ads.adsag.com/html.ng/adsize=text&amp;slot=6&amp;site=DFLT&amp;partner=agcorp">Press Room</a>
+</td>
 </tr>
 <tr><td align="center">
 <table border="0" cellspacing="0" cellpadding="5" align="center">
 
 <tbody><tr><td align="center"><a href="http://www.americangreetings.com/warrants.pd" target="_top">
-<img src="http://www.imgag.com/ag/finalmark2.gif" border="0" alt="" width="116" height="31"></a></td><td><font class="smallish" face="verdana,arial,helvetica" size="1">Satisfaction Guarantee, Complete Privacy,<br> Secure Transactions, Friendly Customer Service</font></td></tr></tbody></table>
+<img src="http://www.imgag.com/ag/finalmark2.gif" border="0" alt="" width="116" height="31"></a></td><td class="textsub">Satisfaction Guarantee, Complete Privacy,<br> Secure Transactions, Friendly Customer Service</td></tr></tbody></table>
 </td></tr>
-<tr><td align="center"><br><font class="smallish" face="verdana,arial,helvetica" size="1">Copyright © 1997-2003 AG.com, Inc. All rights reserved. </font></td></tr></tbody></table><br>
+<tr><td align="center" class="textsub"><br>Copyright © 1997-2004 AG.com, Inc. All rights reserved.</td></tr></tbody></table><br>
  
 <br></p><p><br></p><p><br> 
  
 </p></center> 
-<!-- page generated: Tue Dec  2 09:18:46 2003 -->
+
+<!-- page generated: Tue Jun 22 13:20:13 2004 -->
+
+<script language="JavaScript" src="http://www.imgag.com/js/wt.js"></script><noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsew60m1oifwznbkznc6j9ix_5x7j/njs.gif?dcsuri=/nojavascript&WT.js=No"></noscript>
  
  
  
