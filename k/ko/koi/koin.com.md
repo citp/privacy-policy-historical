@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koin.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208164252id_/http%3A//www.koin.com/koin/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koin.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619020831id_/http%3A//www.koin.com/koin/privacypolicy.shtml) for the most accurate reproduction.*
 
 # koin.com: Local News, Weather, Sports, Entertainment and Health
 
