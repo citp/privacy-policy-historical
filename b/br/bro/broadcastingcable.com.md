@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadcastingcable.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605125348id_/http%3A//www.broadcastingcable.com/index.asp%3Flayout%3Dinfo_page%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastingcable.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206053152id_/http%3A//broadcastingcable.com/index.asp%3Flayout%3Dcontentinfodetail%26articleid%3DCA319082) for the most accurate reproduction.*
 
-# Broadcasting & Cable
+# Broadcasting & Cable: The Business of Television
 
 **
 
@@ -10,7 +10,7 @@ __**
 
 This Privacy Policy describes the policies of Reed Business Information ( ** _"RBI"_** or ** _"we"_** ), a division of Reed Elsevier Inc. ( ** _"Reed Elsevier"_** ), regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you and other users (" ** _you_** _"_ **** or " ** _Users_** ") visit the Broadcasting & Cable web site (the "Site"). [http://www.broadcastingcable.com](http://www.broadcastingcable.com/)
+  * Information obtained when you and other users (" ** _you_** _"_ **** or " ** _Users_** ") visit the Broadcasting & Cable web site (the "Site"). [http://www.broadcastingcable.com](http://www.broadcastingcable.com/index.asp?layout=homepage)
   * Information obtained through e-mail communications with you related to the Site.
 
 
@@ -43,7 +43,7 @@ When you visit this Site, we may collect the IP address of your computer.
 
 We also automatically record other information that identifies your computer to this Site and tracks your behavior on the Site. For example, we may record how many times you visit this Site and your navigation within the Site. We do not collect Personally Identifiable Information in this manner; however, if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. 
+Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. 
 
 Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. You may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at www.privacychoices.org.
 
@@ -77,7 +77,7 @@ _**
 
 We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI or other Reed Elsevier divisions. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services. All of these communications will include instructions explaining how you can request that we not send you (" ** _opt out_** " of) future communications of the same type.
 
-We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](https://web.archive.org/web/20030605125348id_/http%3A//www.broadcastingcable.com/privacymanager@reedbusiness.com) with the subject line **_"opt out – third party."_**
+We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](http://www.broadcastingcable.com/privacymanager@reedbusiness.com) with the subject line **_"opt out - third party."_**
 
  ** __** **
 
@@ -89,7 +89,7 @@ We will not disclose your information to anyone outside of RBI or other Reed Els
 
 We may disclose aggregated anonymous statistics about many Users to advertisers, content and service providers and other affiliated and unaffiliated companies.
 
-We sometimes engage third parties to perform services for us, including in connection with this Site, that require us to disclose Users’ Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services.
+We sometimes engage third parties to perform services for us, including in connection with this Site, that require us to disclose Users' Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services.
 
 We also may disclose your information to third parties that wish to market products or services that may be of interest to you. We will require these parties to keep any Personally Identifiable Information provided by us confidential and use it only to market and provide their products or services or with your approval. When you register with and provide information to this Site, you will be given an opportunity to opt out of our disclosing your Personally Identifiable Information as described in this paragraph. You may also opt out of such disclosures at any time by sending an e-mail to [eletters@reedbusiness.com](mailto:eletters@reedbusiness.com) with the subject line **_"do not disclose."_**
 
