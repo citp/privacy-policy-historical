@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the perkinelmer.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210104639id_/http%3A//www.perkinelmer.com/overview/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkinelmer.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618032707id_/http%3A//www.perkinelmer.com/overview/privacy.asp) for the most accurate reproduction.*
 
 # PerkinElmer Corporate > Privacy Policy
 
-[Warranty Disclaimer](https://web.archive.org/web/20021210104639id_/http%3A//www.perkinelmer.com/overview/disclaimer.asp) | **Privacy Policy**
+[Warranty Disclaimer](https://web.archive.org/web/20030618032707id_/http%3A//www.perkinelmer.com/overview/disclaimer.asp) | **Privacy Policy**
 
 PerkinElmer respects your privacy. We want to make use of personal identification information that you provide to us for purposes of serving you better. "Personal identification information" is information that lets us identify you, such as your email address, name and address. PerkinElmer uses the personal identification information to selectively send you communications that may be of interest to you. PerkinElmer's policy regarding use of your personal identification information supplied to us or collected via your experience at our online web site covers these areas: 
 
