@@ -1,0 +1,1823 @@
+<!--The following is the downloaded HTML source of the sewelldirect.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603095008id_/http%3A//www.sewelldirect.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN"><html><head><title>Privacy Policy</title>
+<link rel="stylesheet" title="Default" href="Style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="revisit-after" content="30 days">
+<meta name="ROBOTS" content="ALL">
+<meta name="KEYWORDS" content="sewell info, sewell development corp. info, sdc info, information sewell, hardware supplier information">
+<meta name="DESCRIPTION" content="Information on Sewell Development Corp., the maker of FastLynx and fine computer hardware products.">
+
+<script language="javascript">
+
+function openURL(url)
+{
+    var stdOptions = "resizable=no,directories=no,left=400,top=300,toolbar=no";
+    var options = stdOptions + ",width=270,height=380,scrollbars=yes" ;
+    window.open(url,"url",options);
+}
+
+function openTellAFriend(productId)
+{
+    var stdOptions = "resizable=no,directories=no,left=400,top=300,toolbar=no";
+    var options = stdOptions + ",width=600,height=500,scrollbars=no" ;
+    window.open("TellAFriend.asp?productId=" + productId,"url",options);
+}
+
+</script>
+
+
+<meta name="Microsoft Border" content="none">
+<link rel="SHORTCUT ICON" href="images/SewellLogoIcon.ico">
+</head>
+
+<body leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" topmargin="0">
+
+<script language="JavaScript">
+function DollarsToString(dollars)
+{
+	var totalCents = Math.round(dollars * 100.0);
+	var numDollars = Math.floor(totalCents / 100);
+	var numCents   = totalCents % 100;
+	var string = "$" + numDollars + ".";
+	if (numCents < 10) {
+		string += "0";
+	}
+	string += numCents;
+	return string;
+}
+
+function WholeNumber(numberStr)
+{
+    var number = 0;
+    if ( (numberStr != "") && (numberStr != null) ) {
+        number = Number(numberStr);
+    }
+	if (number > 0) {
+		number = Math.round(number);
+	}
+	else {
+		number = 0;
+	}
+	return number;
+}
+
+function ComputePrice(a, b, c, d, n)
+{
+	value = 0.0;
+	if (n > 0) {
+		value = a + n * (b * Math.pow(c, Math.log(n) / Math.LN10) + d);
+	}
+	return value;	
+}
+</script>
+
+
+
+
+
+<script language="javascript">
+
+
+ var bName = navigator.appName;
+ var bVer = parseInt(navigator.appVersion);
+ var NS6 = (bName == "Netscape" && bVer >= 5);
+ var NS4 = (bName == "Netscape" && bVer >= 4 && bVer < 5);
+ var IE4 = (bName == "Microsoft Internet Explorer" && bVer >= 4);
+ var NS3 = (bName == "Netscape" && bVer < 4);
+ var IE3 = (bName == "Microsoft Internet Explorer" && bVer < 4);
+ window.onerror = null;
+ var menuActive = 0;
+ var menuOn = 0;
+ var onLayerDepth = 0;
+ var onLayer;
+ var onLayerChain = new Array();
+ onLayerChain[0] = "";
+ var onLayerIndex = 0;
+ var timeOn = null;
+ var parentX;
+ var parentY;
+  
+ // LAYER SWITCHING CODE
+ 	if (NS4 || IE4 || NS6) {
+	 	if (navigator.appName == "Netscape" && !document.getElementById){
+	 	layerStyleRef="layer.";
+	 	layerRef="document.layers";
+	 	styleSwitch="";
+	 	layerVis="show";
+	 	layerHid="hide";
+ 	}
+ 	else if (!document.all && document.getElementById) {
+	 	layerStyleRef="layer.style.";
+	 	layerRef="document.getElementById";
+	 	styleSwitch=".style";
+	 	layerVis="visible";
+	 	layerHid="hidden";
+ 	}
+ 	else {
+	 	layerStyleRef="layer.style.";
+	 	layerRef="document.all";
+	 	styleSwitch=".style";
+	 	layerVis="visible";
+	 	layerHid="hidden";
+ 	}
+ }
+
+
+// SHOW MENU
+function shLayer(layerName, depth)
+{
+	parentImg = null;
+	parentX = 0;
+	parentY = 0;
+	//document.theForm.currentFunction.value = "shLayer(" + layerName + "," + depth + ")";
+
+	if (onLayerChain != "")
+	{
+		// hide all expanded menus down to layerName's depth
+		while (onLayerDepth > depth)
+		{
+			hideLayer(onLayerChain[onLayerDepth]);
+			//document.theForm.onLayerDepth.value = onLayerDepth;
+			onLayerChain[onLayerDepth] = "";
+			--onLayerDepth;
+		}
+	
+		//document.theForm.depth.value = onLayerChain[depth];
+		if ((onLayerChain[depth] != layerName) && (onLayerChain[depth] != "") && (onLayerChain[depth] != null))
+		{
+			hideLayer(onLayerChain[depth]);
+		}
+	}
+
+
+	img = getImage(layerName + "_img");
+ 
+ 	
+ 	x = getImagePageLeft(img);
+ 	y = getImagePageTop(img);
+
+
+
+ 	if (NS6 && (depth > 0))
+ 	{
+ 		y += 31;
+ 		x += 210;
+ 		var d = depth-1;
+ 		while (d >= 0)
+ 		{
+ 			var newImg = getImage(onLayerChain[d] + "_img");
+			x += newImg.x;
+			y += newImg.y;
+			--d;
+		}
+ 	}
+	else if (NS6)	{
+		y += 36;
+		x += 210;
+	}
+
+
+
+	menuTop = y + 15; // LAYER TOP POSITION
+ 	SerL = x; 
+ 	ProL = x; 
+ 	ResL = x; 
+ 	RatL = x; 
+ 	ShpL = x; 
+
+
+FastLynxL = x;
+FastLynxCablesL = x;
+FireWireCablesL = x;
+HubsL = x;
+InputDevicesL = x;
+KVML = x;
+OtherL = x;
+PCICardsL = x;
+PCMCIACardsL = x;
+SerialConvertersL = x;
+SoftwareL = x;
+StorageL = x;
+USBAdaptersL = x;
+USBCablesL = x;
+
+
+	if (IE4 && (depth > 0))
+	{
+		menuTop -= 20;
+	}
+
+	
+	if (NS4 || IE4 || NS6) 
+	{
+
+ 		if (timeOn != null) 
+ 		{
+ 	  		clearTimeout(timeOn);
+ 		}
+ 		if (NS4 || IE4) 
+ 		{
+ 	  		eval(layerRef+'["'+layerName+'"]'+ styleSwitch+'.visibility="'+layerVis+'"');
+ 	  		eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.top="'+menuTop+'"');
+ 	  		eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.left="'+eval(x)+'"');
+ 	  	} 
+ 		if (NS6) 
+ 		{
+ 	  		eval(layerRef+'("'+layerName+'")'+styleSwitch+'.visibility="'+layerVis+'"');
+ 	  		eval(layerRef+'("'+layerName+'")'+styleSwitch+'.top="'+menuTop+'"');
+ 	  		eval(layerRef+'("'+layerName+'")'+styleSwitch+'.left="'+eval(x)+'"');
+ 		} 
+
+ 		onLayerChain[depth] = layerName;
+ 		onLayerDepth = depth;
+ 
+	}
+ 
+}
+
+// HIDE MENU
+function hideLayer(layerName)
+{
+	//document.theForm.currentFunction.value = "hideLayer(" + layerName + ")";
+	
+	if (NS4 || IE4) 
+	{
+		eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="'+layerHid+'"');
+	}
+	if (NS6) 
+	{
+		eval(layerRef+'("'+layerName+'")'+styleSwitch+'.visibility="'+layerHid+'"');
+	}
+
+}
+
+
+
+
+// TIMER FOR BUTTON MOUSE OUT
+function btnTimer() 
+{
+	//document.theForm.currentFunction.value = "btnTimer";
+ 	timeOn = setTimeout("btnOut('" + onLayerChain[onLayerDepth] + "')",1000);
+}
+
+
+
+
+// BUTTON MOUSE OUT
+function btnOut(layerName) 
+{
+	//document.theForm.currentFunction.value = "btnOut(" + layerName + ")";
+	hideAll();
+}
+
+
+function hideAll()
+{
+	//document.theForm.currentFunction.value = "hideAll";
+
+	while (onLayerDepth >= menuOn)
+	{
+		//document.theForm.showBox.value = "hiding layer (all): " + onLayerChain[onLayerDepth] + ", depth: " + onLayerDepth + ", menuOn: " + menuOn;
+		hideLayer(onLayerChain[onLayerDepth]);
+		onLayerChain[onLayerDepth] = "";
+		--onLayerDepth;
+	}
+	
+}
+
+
+// MENU MOUSE OVER 
+function menuOver(layerNum) 
+{
+	//document.theForm.currentFunction.value = "menuOver(" + layerNum + ")";
+	clearTimeout(timeOn);
+ 	menuOn = layerNum;
+}
+
+
+
+// MENU MOUSE OUT 
+function menuOut(layerNum) 
+{
+	//document.theForm.currentFunction.value = "menuOut(" + layerNum + ")";
+	menuOn = 0;
+	timeOn = setTimeout("hideAll()", 1000);
+}
+ 
+
+// SET BACKGROUND COLOR 
+function setBgColor(layer, color) {
+  if (NS6){
+    eval('document.getElementById("'+layer+'").style.backgroundColor="'+color+'"');
+  }
+  else if (NS4){
+    eval('window.document.layers["'+layer+'"].document.bgColor="'+color+'"');
+	eval('window.document.layers["'+layer+'"].saveColor="'+color+'"');
+  }
+  else if (IE4){
+    eval('document.all.'+layer+'.style.backgroundColor="'+color+'"');
+  }
+}
+
+function getImage(name) {
+  if (NS4 || NS6) {
+    return findImage(name, document);
+  }
+  if (IE4 || NS6)
+    return eval('document.all.' + name);
+  return null;
+}
+
+function findImage(name, doc) {
+  var i, img;
+  for (i = 0; i < doc.images.length; i++)
+    if (doc.images[i].name == name)
+      return doc.images[i];
+  for (i = 0; i < doc.layers.length; i++)
+    if ((img = findImage(name, doc.layers[i].document)) != null) {
+      img.container = doc.layers[i];
+      return img;
+    }
+  return null;
+}
+
+function getImagePageLeft(img) 
+{
+  	var x, obj;
+  	var newX = 0;
+  	if (NS4 || NS6) {
+   		if (img.container != null)
+      		return img.container.pageX + img.x - 1;
+    	else
+      		return img.x - 1;
+  	}
+
+
+  	if (IE4) 
+  	{
+    	x = 0;
+    	obj = img;
+    	while (obj.offsetParent != null) 
+    	{
+      		x += obj.offsetLeft;
+      		obj = obj.offsetParent;
+    	}
+    	x += obj.offsetLeft;
+    	return x;
+  	}
+  	return -1;
+}
+
+function getImagePageTop(img) {
+  var y, obj;
+  if (NS4 || NS6) {
+    if (img.container != null)
+      return img.container.pageY + img.y;
+    else
+      return img.y;
+  }
+  if (IE4) {
+    y = 0;
+    obj = img;
+    while (obj.offsetParent != null) {
+      y += obj.offsetTop;
+      obj = obj.offsetParent;
+    }
+    y += obj.offsetTop;
+    return y;
+  }
+  return -1;
+}
+
+
+</script>
+
+<style>
+#Ser {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 1}
+#Pro {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 2}
+#Res {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 3}
+#Rat {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 4}
+#Shp {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 5}
+
+#FastLynx {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#FastLynxCables {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#FireWireCables {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#Hubs {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#InputDevices {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#KVM {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#Other {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#PCICards {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#PCMCIACards {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#SerialConverters {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#Software {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#Storage {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#USBAdapters {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+#USBCables {POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 6}
+
+.menuHeader {COLOR: #AAAAAA; FONT-FAMILY: arial, helvetica, 'sans serif'; FONT-SIZE: 8pt; TEXT-DECORATION: none}
+.menu {COLOR: #114477; FONT-FAMILY: arial, helvetica, 'sans serif'; FONT-SIZE: 8pt; TEXT-DECORATION: none}
+.menu:hover {COLOR: #FFFFFE; FONT-FAMILY: arial, helvetica, 'sans serif'; FONT-SIZE: 8pt; TEXT-DECORATION: none}
+.menuCategory {COLOR: #FFFFFF; FONT-FAMILY: 'ms sans serif'; FONT-SIZE: 10pt; TEXT-DECORATION: none;font-weight:bold}
+.menuCategory:hover {COLOR: #336699; FONT-FAMILY: 'ms sans serif'; FONT-SIZE: 11pt; TEXT-DECORATION: none}
+.header {COLOR: #000000; FONT-FAMILY: 'ms sans serif'; FONT-SIZE: 8pt; TEXT-DECORATION: none}
+.header2 {COLOR: #336699; FONT-FAMILY: 'arial'; FONT-SIZE: 18pt; TEXT-DECORATION: none}
+.fieldTag {COLOR: #000000; FONT-FAMILY: 'ms sans serif'; FONT-SIZE: 8pt; TEXT-DECORATION: none}
+.text {COLOR: #000000; FONT-FAMILY: 'ms sans serif'; FONT-SIZE: 11pt; TEXT-DECORATION: none}
+.list {COLOR: #000000; FONT-FAMILY: 'ms sans serif'; FONT-SIZE: 10pt; TEXT-DECORATION: none; margin-top: -10px}
+.label {COLOR: #336699; FONT-FAMILY: 'arial'; FONT-SIZE: 16pt; TEXT-DECORATION: none}
+h3 {COLOR: #000000; FONT-FAMILY: 'ms sans serif'; FONT-SIZE: 12pt; TEXT-DECORATION: none}
+p {COLOR: #000000; FONT-FAMILY: 'ms sans serif'; FONT-SIZE: 11pt; TEXT-DECORATION: none}
+li {COLOR: #000000; FONT-FAMILY: 'ms sans serif'; FONT-SIZE: 10pt; TEXT-DECORATION: none}
+</style>
+
+
+ 
+<!-- START MENU SETUP CODE -->
+
+
+<div id="Ser" style="position:absolute; z-index:203; visibility:hidden;" onmouseout="menuOut('rollimg2')" onmouseover="menuOver('rollimg2')">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="white">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+           <tbody><tr id="sr1" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FastLynxHomePage.asp" onmouseout="setBgColor('sr1','#FFFFFE')" onmouseover="setBgColor('sr1','#225588')" target="_top">
+                <b> &nbsp; What is FastLynx? &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sr8" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FastLynx.asp" onmouseout="setBgColor('sr8','#FFFFFE')" onmouseover="setBgColor('sr8','#225588')" target="_top">
+                 <b>&nbsp;  Product Details &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sr9" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FastLynx3.asp" onmouseout="setBgColor('sr9','#FFFFFE')" onmouseover="setBgColor('sr9','#225588')" target="_top">
+                 <b> &nbsp; Pricing Information &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sr7" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FastLynx_Linux.asp" onmouseout="setBgColor('sr7','#FFFFFE')" onmouseover="setBgColor('sr7','#225588')" target="_top">
+                 <b> &nbsp; Linux to Windows Transfer &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sr101" bgcolor="#FFFFFE">
+             <td><hr noshade="" size="1" width="90%" color="#EEEEEE"></td>
+           </tr>
+
+           <tr id="sr2" bgcolor="#FFFFFE">
+             <td><a class="menu" href="Demo.asp" onmouseout="setBgColor('sr2','#FFFFFE')" onmouseover="setBgColor('sr2','#225588')" target="_top">
+                 <b> &nbsp; Download FREE Trial &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sr3" bgcolor="#FFFFFE">
+             <td><a class="menu" href="Upgrade.asp" onmouseout="setBgColor('sr3','#FFFFFE')" onmouseover="setBgColor('sr3','#225588')" target="_top">
+                 <b> &nbsp; FastLynx Upgrade &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sr5" bgcolor="#FFFFFE">
+             <td><a class="menu" href="Support.asp" onmouseout="setBgColor('sr5','#FFFFFE')" onmouseover="setBgColor('sr5','#225588')" target="_top">
+                 <b> &nbsp; FastLynx Support &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sr6" bgcolor="#FFFFFE">
+             <td><a class="menu" href="PreviousVersions.asp" onmouseout="setBgColor('sr6','#FFFFFE')" onmouseover="setBgColor('sr6','#225588')" target="_top">
+                 <b> &nbsp; Previous Versions &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+
+           
+         </tbody></table>
+       </td>
+     </tr>
+   </tbody></table>
+ </div>
+ 
+ 
+ 
+ 
+
+<div id="FastLynx" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P50" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FastLynx3.asp" onmouseout="setBgColor('P50','#FFFFFE')" onmouseover="setBgColor('P50','#336699')" target="_top">
+                 <b> &nbsp; FastLynx 3.3 CD / Disk / Manual &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P46" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FastLynx3.asp" onmouseout="setBgColor('P46','#FFFFFE')" onmouseover="setBgColor('P46','#336699')" target="_top">
+                 <b> &nbsp; FastLynx 3.3 Download &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P47" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FastLynx3.asp" onmouseout="setBgColor('P47','#FFFFFE')" onmouseover="setBgColor('P47','#336699')" target="_top">
+                 <b> &nbsp; FastLynx 3.3 Full Package &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P102" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FastLynx3.asp" onmouseout="setBgColor('P102','#FFFFFE')" onmouseover="setBgColor('P102','#336699')" target="_top">
+                 <b> &nbsp; FastLynx 3.3 Premium &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="FastLynxCables" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P53" bgcolor="#FFFFFE">
+             <td><a class="menu" href="ParallelCable.asp" onmouseout="setBgColor('P53','#FFFFFE')" onmouseover="setBgColor('P53','#336699')" target="_top">
+                 <b> &nbsp; FastLynx Parallel Cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P54" bgcolor="#FFFFFE">
+             <td><a class="menu" href="SerialCable.asp" onmouseout="setBgColor('P54','#FFFFFE')" onmouseover="setBgColor('P54','#336699')" target="_top">
+                 <b> &nbsp; FastLynx Serial Cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P56" bgcolor="#FFFFFE">
+             <td><a class="menu" href="UsbCable.asp" onmouseout="setBgColor('P56','#FFFFFE')" onmouseover="setBgColor('P56','#336699')" target="_top">
+                 <b> &nbsp; USB 1.1 Bridge Cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P103" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usb2bridgecable.asp" onmouseout="setBgColor('P103','#FFFFFE')" onmouseover="setBgColor('P103','#336699')" target="_top">
+                 <b> &nbsp; USB 2.0 Bridge Cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="FireWireCables" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P80" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/firewirecable4pto4p.asp" onmouseout="setBgColor('P80','#FFFFFE')" onmouseover="setBgColor('P80','#336699')" target="_top">
+                 <b> &nbsp; 4 pin to 4 pin FireWire cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P123" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/FireWireCable4P.asp" onmouseout="setBgColor('P123','#FFFFFE')" onmouseover="setBgColor('P123','#336699')" target="_top">
+                 <b> &nbsp; 6 pin to 4 pin FireWire cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P12" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FireWireCable6P.asp" onmouseout="setBgColor('P12','#FFFFFE')" onmouseover="setBgColor('P12','#336699')" target="_top">
+                 <b> &nbsp; 6 pin to 6 pin FireWire cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P120" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/firewireextension.asp" onmouseout="setBgColor('P120','#FFFFFE')" onmouseover="setBgColor('P120','#336699')" target="_top">
+                 <b> &nbsp; FireWire Extension Cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="Hubs" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P9" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FireWireHub.asp" onmouseout="setBgColor('P9','#FFFFFE')" onmouseover="setBgColor('P9','#336699')" target="_top">
+                 <b> &nbsp; FireWire Hub &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P65" bgcolor="#FFFFFE">
+             <td><a class="menu" href="usb2hub.asp" onmouseout="setBgColor('P65','#FFFFFE')" onmouseover="setBgColor('P65','#336699')" target="_top">
+                 <b> &nbsp; USB 2.0 Hub &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="InputDevices" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P143" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/opticalmouse.asp" onmouseout="setBgColor('P143','#FFFFFE')" onmouseover="setBgColor('P143','#336699')" target="_top">
+                 <b> &nbsp; PS/2 Optical Mouse &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P145" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/wirelesskeyboardmouse.asp" onmouseout="setBgColor('P145','#FFFFFE')" onmouseover="setBgColor('P145','#336699')" target="_top">
+                 <b> &nbsp; Wireless Keyboard/Mouse &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="KVM" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P97" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/ps2minikvmswitch.asp" onmouseout="setBgColor('P97','#FFFFFE')" onmouseover="setBgColor('P97','#336699')" target="_top">
+                 <b> &nbsp; PS/2 Mini KVM Switch &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="Other" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P149" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/camerabag.asp" onmouseout="setBgColor('P149','#FFFFFE')" onmouseover="setBgColor('P149','#336699')" target="_top">
+                 <b> &nbsp; Camera Bag &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P169" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/PCRemoteControl.asp" onmouseout="setBgColor('P169','#FFFFFE')" onmouseover="setBgColor('P169','#336699')" target="_top">
+                 <b> &nbsp; PC Remote Control &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P144" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbdockingstation.asp" onmouseout="setBgColor('P144','#FFFFFE')" onmouseover="setBgColor('P144','#336699')" target="_top">
+                 <b> &nbsp; USB Docking Station &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P165" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/videosplitter.asp" onmouseout="setBgColor('P165','#FFFFFE')" onmouseover="setBgColor('P165','#336699')" target="_top">
+                 <b> &nbsp; Video Splitter &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="PCICards" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P131" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/firewirepcicardwithUlead.asp" onmouseout="setBgColor('P131','#FFFFFE')" onmouseover="setBgColor('P131','#336699')" target="_top">
+                 <b> &nbsp; FireWire Card with Software &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P7" bgcolor="#FFFFFE">
+             <td><a class="menu" href="FirewirePciCard.asp" onmouseout="setBgColor('P7','#FFFFFE')" onmouseover="setBgColor('P7','#336699')" target="_top">
+                 <b> &nbsp; FireWire PCI Card &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P147" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/soundpcicard.asp" onmouseout="setBgColor('P147','#FFFFFE')" onmouseover="setBgColor('P147','#336699')" target="_top">
+                 <b> &nbsp; Sound PCI Card &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P117" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usb2card5port.asp" onmouseout="setBgColor('P117','#FFFFFE')" onmouseover="setBgColor('P117','#336699')" target="_top">
+                 <b> &nbsp; USB 2.0 Card &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="PCMCIACards" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P124" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/firewirepcmciacard.asp" onmouseout="setBgColor('P124','#FFFFFE')" onmouseover="setBgColor('P124','#336699')" target="_top">
+                 <b> &nbsp; FireWire PCMCIA Card &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P136" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usb2cardbus4p.asp" onmouseout="setBgColor('P136','#FFFFFE')" onmouseover="setBgColor('P136','#336699')" target="_top">
+                 <b> &nbsp; USB 2.0 PCMCIA Card &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P125" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/wirelesslancard.asp" onmouseout="setBgColor('P125','#FFFFFE')" onmouseover="setBgColor('P125','#336699')" target="_top">
+                 <b> &nbsp; Wireless LAN CardBus &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="SerialConverters" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P79" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/db9todb25.asp" onmouseout="setBgColor('P79','#FFFFFE')" onmouseover="setBgColor('P79','#336699')" target="_top">
+                 <b> &nbsp; DB9 to DB25 Adapter &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P82" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/db9genderchangers.asp" onmouseout="setBgColor('P82','#FFFFFE')" onmouseover="setBgColor('P82','#336699')" target="_top">
+                 <b> &nbsp; Gender Changers &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="Software" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P3" bgcolor="#FFFFFE">
+             <td><a class="menu" href="CrcGen.asp" onmouseout="setBgColor('P3','#FFFFFE')" onmouseover="setBgColor('P3','#336699')" target="_top">
+                 <b> &nbsp; CRC Code Generator &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P57" bgcolor="#FFFFFE">
+             <td><a class="menu" href="RandomNumber.asp" onmouseout="setBgColor('P57','#FFFFFE')" onmouseover="setBgColor('P57','#336699')" target="_top">
+                 <b> &nbsp; Random Number Generation &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P58" bgcolor="#FFFFFE">
+             <td><a class="menu" href="SecureHashAlgorithm.asp" onmouseout="setBgColor('P58','#FFFFFE')" onmouseover="setBgColor('P58','#336699')" target="_top">
+                 <b> &nbsp; Secure Hash Algorithm &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="Storage" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P128" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbharddrivecase25.asp" onmouseout="setBgColor('P128','#FFFFFE')" onmouseover="setBgColor('P128','#336699')" target="_top">
+                 <b> &nbsp; 2.5 in. Hard Drive Enclosure &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P142" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/25to35ideconverter.asp" onmouseout="setBgColor('P142','#FFFFFE')" onmouseover="setBgColor('P142','#336699')" target="_top">
+                 <b> &nbsp; 2.5 inch to 3.5 inch IDE Converter &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P101" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbharddrivecase35bafo.asp" onmouseout="setBgColor('P101','#FFFFFE')" onmouseover="setBgColor('P101','#336699')" target="_top">
+                 <b> &nbsp; 3.5 in. Hard Drive Enclosure &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P112" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbharddrivecase35.asp" onmouseout="setBgColor('P112','#FFFFFE')" onmouseover="setBgColor('P112','#336699')" target="_top">
+                 <b> &nbsp; 3.5 in. Hard Drive Enclosure (stand up) &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P111" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbtofloppy.asp" onmouseout="setBgColor('P111','#FFFFFE')" onmouseover="setBgColor('P111','#336699')" target="_top">
+                 <b> &nbsp; USB Floppy Drive &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="USBAdapters" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P168" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbtoaudio.asp" onmouseout="setBgColor('P168','#FFFFFE')" onmouseover="setBgColor('P168','#336699')" target="_top">
+                 <b> &nbsp; USB to Audio &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P107" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbtobluetooth.asp" onmouseout="setBgColor('P107','#FFFFFE')" onmouseover="setBgColor('P107','#336699')" target="_top">
+                 <b> &nbsp; USB to Bluetooth Adapter &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P116" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbtoide.asp" onmouseout="setBgColor('P116','#FFFFFE')" onmouseover="setBgColor('P116','#336699')" target="_top">
+                 <b> &nbsp; USB to IDE Adapter &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P146" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbtoirda.asp" onmouseout="setBgColor('P146','#FFFFFE')" onmouseover="setBgColor('P146','#336699')" target="_top">
+                 <b> &nbsp; USB to Infrared &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P74" bgcolor="#FFFFFE">
+             <td><a class="menu" href="usbtoparallel.asp" onmouseout="setBgColor('P74','#FFFFFE')" onmouseover="setBgColor('P74','#336699')" target="_top">
+                 <b> &nbsp; USB to Parallel Adapter &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P100" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbtops2.asp" onmouseout="setBgColor('P100','#FFFFFE')" onmouseover="setBgColor('P100','#336699')" target="_top">
+                 <b> &nbsp; USB to PS2 Adapter &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P71" bgcolor="#FFFFFE">
+             <td><a class="menu" href="usbtoserial.asp" onmouseout="setBgColor('P71','#FFFFFE')" onmouseover="setBgColor('P71','#336699')" target="_top">
+                 <b> &nbsp; USB to Serial Adapter &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+
+<div id="USBCables" style="position:absolute; z-index:1002; visibility:hidden" onmouseout="menuOut(1)" onmouseover="menuOver(1)">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+
+           <tbody><tr id="P66" bgcolor="#FFFFFE">
+             <td><a class="menu" href="UsbExtensionCable.asp" onmouseout="setBgColor('P66','#FFFFFE')" onmouseover="setBgColor('P66','#336699')" target="_top">
+                 <b> &nbsp; USB 1.1 Extension Cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P115" bgcolor="#FFFFFE">
+             <td><a class="menu" href="Usb2DeviceCable.asp" onmouseout="setBgColor('P115','#FFFFFE')" onmouseover="setBgColor('P115','#336699')" target="_top">
+                 <b> &nbsp; USB 2.0 Device Cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P106" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usb2extensioncable.asp" onmouseout="setBgColor('P106','#FFFFFE')" onmouseover="setBgColor('P106','#336699')" target="_top">
+                 <b> &nbsp; USB 2.0 Extension Cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P122" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usbminidevicecable.asp" onmouseout="setBgColor('P122','#FFFFFE')" onmouseover="setBgColor('P122','#336699')" target="_top">
+                 <b> &nbsp; USB Mini Device Cable &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="P129" bgcolor="#FFFFFE">
+             <td><a class="menu" href="/usb2passivecable.asp" onmouseout="setBgColor('P129','#FFFFFE')" onmouseover="setBgColor('P129','#336699')" target="_top">
+                 <b> &nbsp; USB Passive Extension &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+		</tbody></table>
+	   </td>
+	 </tr>
+   </tbody></table>
+</div>
+
+ 
+ 
+
+
+<div id="Pro" style="position:absolute; z-index:202; visibility:hidden" onmouseout="menuOut('rollimg2')" onmouseover="menuOver('rollimg2')">
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+ 
+
+ 
+           <tbody><tr id="FastLynx0" bgcolor="#FFFFFE" onmouseout="setBgColor('FastLynx0','#FFFFFE')" onmouseover="setBgColor('FastLynx0','#225588');shLayer('FastLynx',1)">
+             <td height="8">
+             	<a class="menu" href="FastLynx3.asp" target="_top">            
+                 <b> &nbsp; FastLynx Products &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="FastLynx_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="FastLynxCables0" bgcolor="#FFFFFE" onmouseout="setBgColor('FastLynxCables0','#FFFFFE')" onmouseover="setBgColor('FastLynxCables0','#225588');shLayer('FastLynxCables',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; FastLynx Cables &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="FastLynxCables_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="FireWireCables0" bgcolor="#FFFFFE" onmouseout="setBgColor('FireWireCables0','#FFFFFE')" onmouseover="setBgColor('FireWireCables0','#225588');shLayer('FireWireCables',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; FireWire Cables &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="FireWireCables_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="Hubs0" bgcolor="#FFFFFE" onmouseout="setBgColor('Hubs0','#FFFFFE')" onmouseover="setBgColor('Hubs0','#225588');shLayer('Hubs',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; Hubs &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="Hubs_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="InputDevices0" bgcolor="#FFFFFE" onmouseout="setBgColor('InputDevices0','#FFFFFE')" onmouseover="setBgColor('InputDevices0','#225588');shLayer('InputDevices',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; Input Devices &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="InputDevices_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="KVM0" bgcolor="#FFFFFE" onmouseout="setBgColor('KVM0','#FFFFFE')" onmouseover="setBgColor('KVM0','#225588');shLayer('KVM',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; KVM Switches &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="KVM_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="Other0" bgcolor="#FFFFFE" onmouseout="setBgColor('Other0','#FFFFFE')" onmouseover="setBgColor('Other0','#225588');shLayer('Other',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; Other &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="Other_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="PCICards0" bgcolor="#FFFFFE" onmouseout="setBgColor('PCICards0','#FFFFFE')" onmouseover="setBgColor('PCICards0','#225588');shLayer('PCICards',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; PCI Cards &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="PCICards_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="PCMCIACards0" bgcolor="#FFFFFE" onmouseout="setBgColor('PCMCIACards0','#FFFFFE')" onmouseover="setBgColor('PCMCIACards0','#225588');shLayer('PCMCIACards',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; PCMCIA Cards &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="PCMCIACards_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="SerialConverters0" bgcolor="#FFFFFE" onmouseout="setBgColor('SerialConverters0','#FFFFFE')" onmouseover="setBgColor('SerialConverters0','#225588');shLayer('SerialConverters',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; Serial Converters &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="SerialConverters_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="Software0" bgcolor="#FFFFFE" onmouseout="setBgColor('Software0','#FFFFFE')" onmouseover="setBgColor('Software0','#225588');shLayer('Software',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; C++ Modules &amp; Programs &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="Software_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="Storage0" bgcolor="#FFFFFE" onmouseout="setBgColor('Storage0','#FFFFFE')" onmouseover="setBgColor('Storage0','#225588');shLayer('Storage',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; External Storage &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="Storage_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="USBAdapters0" bgcolor="#FFFFFE" onmouseout="setBgColor('USBAdapters0','#FFFFFE')" onmouseover="setBgColor('USBAdapters0','#225588');shLayer('USBAdapters',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; USB Adapters &amp; Converters &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="USBAdapters_img" width="4" height="7"></td>
+           </tr>
+ 
+           <tr id="USBCables0" bgcolor="#FFFFFE" onmouseout="setBgColor('USBCables0','#FFFFFE')" onmouseover="setBgColor('USBCables0','#225588');shLayer('USBCables',1)">
+             <td height="8">
+             	<a class="menu" href="Hardware.asp" target="_top">            
+                 <b> &nbsp; USB Cables &nbsp; </b></a>
+             </td>
+			 <td valign="middle"><img src="images/tinyArrow.gif" border="0" align="right" valign="middle" name="USBCables_img" width="4" height="7"></td>
+           </tr>
+ 
+         </tbody></table>
+       </td>
+     </tr>
+   </tbody></table>
+ </div>
+
+ 
+ 
+
+<div id="Res" style="position:absolute; z-index:203; visibility:hidden" onmouseout="menuOut('rollimg2')" onmouseover="menuOver('rollimg2')">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+           <tbody><tr id="rs100" bgcolor="336699">
+             <td><a class="menuHeader" href="CppSourceCode.asp" target="_top">            
+                 <b>&nbsp; C++ Modules and Programs &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="rs5" bgcolor="#FFFFFE">
+             <td><a class="menu" href="CrcGen.asp" onmouseout="setBgColor('rs5','#FFFFFE')" onmouseover="setBgColor('rs5','#225588')" target="_top">
+                  
+                 <b> &nbsp; CRC Source Code Generator &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="rs6" bgcolor="#FFFFFE">
+             <td><a class="menu" href="RandomNumber.asp" onmouseout="setBgColor('rs6','#FFFFFE')" onmouseover="setBgColor('rs6','#225588')" target="_top">
+                  
+                 <b> &nbsp; Random Number Generator &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="rs7" bgcolor="#FFFFFE">
+             <td><a class="menu" href="SecureHashAlgorithm.asp" onmouseout="setBgColor('rs7','#FFFFFE')" onmouseover="setBgColor('rs7','#225588')" target="_top">
+                  
+                 <b> &nbsp; Secure Hash Implementation &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="rs8" bgcolor="#FFFFFE">
+             <td><a class="menu" href="SourceCodeLicensing.asp" onmouseout="setBgColor('rs8','#FFFFFE')" onmouseover="setBgColor('rs8','#225588')" target="_top">
+                  
+                 <b> &nbsp; Licensing &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+        </tbody></table>
+       </td>
+     </tr>
+   </tbody></table>
+ </div>
+
+
+
+<div id="Rat" style="position:absolute; z-index:204; visibility:hidden" onmouseout="menuOut('rollimg2')" onmouseover="menuOver('rollimg2')">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+<!--
+           <tr id="rt100"  bgcolor="336699">
+             <td><a class="menuHeader" href="Support.asp" onMouseOut="" onMouseOver="" target=_top>            
+                 <B>&nbsp; Technical Support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </B></a>
+             </td>
+           </tr>
+-->
+
+           <tbody><tr id="rt8" bgcolor="#FFFFFE">
+             <td height="9"><a class="menu" href="FastLynx3Support.asp" onmouseout="setBgColor('rt8','#FFFFFE')" onmouseover="setBgColor('rt8','#225588')" target="_top">
+                  
+                 <b> &nbsp; FastLynx 3.x Support &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="rt5" bgcolor="#FFFFFE">
+             <td height="9"><a class="menu" href="QuickStartGuide33.asp" onmouseout="setBgColor('rt5','#FFFFFE')" onmouseover="setBgColor('rt5','#225588')" target="_top">
+                  
+                 <b> &nbsp; FastLynx 3.3 Quick Start Guide &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="rt9" bgcolor="#FFFFFE">
+             <td height="9"><a class="menu" href="Fx33Man.pdf" onmouseout="setBgColor('rt9','#FFFFFE')" onmouseover="setBgColor('rt9','#225588')" target="_top">
+                  
+                 <b> &nbsp; FastLynx 3.3 User Manual (pdf) &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="rt10" bgcolor="#FFFFFE">
+             <td height="9"><a class="menu" href="TroubleshootingFX33.asp" onmouseout="setBgColor('rt10','#FFFFFE')" onmouseover="setBgColor('rt10','#225588')" target="_top">
+                  
+                 <b> &nbsp; Troubleshooting Tips &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="rt11" bgcolor="#FFFFFE">
+             <td height="9"><a class="menu" href="USBSupport.asp" onmouseout="setBgColor('rt11','#FFFFFE')" onmouseover="setBgColor('rt11','#225588')" target="_top">
+                  
+                 <b> &nbsp; USB Transfer Support &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+<!--
+           <tr id="rt101"  bgcolor="336699">
+             <td><a class="menuHeader" href="Support.asp" onMouseOut="" onMouseOver="" target=_top>            
+                 <B>&nbsp; Hardware Support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </B></a>
+             </td>
+           </tr>
+-->
+
+           <tr id="rt101" bgcolor="#FFFFFE">
+             <td><hr noshade="" size="1" width="90%" color="#EEEEEE"></td>
+           </tr>
+
+           <tr id="rt12" bgcolor="#FFFFFE">
+             <td height="9"><a class="menu" href="USBtoSerialSupport.asp" onmouseout="setBgColor('rt12','#FFFFFE')" onmouseover="setBgColor('rt12','#225588')" target="_top">
+                  
+                 <b> &nbsp; USB to Serial Installation Help &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="rt13" bgcolor="#FFFFFE">
+             <td height="9"><a class="menu" href="USBtoParallelSupport.asp" onmouseout="setBgColor('rt13','#FFFFFE')" onmouseover="setBgColor('rt13','#225588')" target="_top">
+                  
+                 <b> &nbsp; USB to Parallel Installation Help &nbsp; </b></a>
+             </td>
+           </tr>
+
+
+        </tbody></table>
+       </td>
+     </tr>
+   </tbody></table>
+ </div>
+
+
+<div id="Shp" style="position:absolute; z-index:205; visibility:hidden" onmouseout="menuOut('rollimg2')" onmouseover="menuOver('rollimg2')">
+
+   <table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;border-color:#336699">
+     <tbody><tr>
+       <td bgcolor="#FFFFFF">
+
+         <table border="0" cellpadding="0" cellspacing="0">
+
+<!--
+           <tr id="sh99"  bgcolor="336699">
+             <td><a class="menuHeader" href="CompanyInfo.asp" onMouseOut="" onMouseOver="" target=_top>            
+                 <B>&nbsp; Company Information &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </B></a>
+             </td>
+           </tr>
+-->
+           <tbody><tr id="sh6" bgcolor="#FFFFFE">
+             <td height="14"><a class="menu" href="InternationalPartners.asp" onmouseout="setBgColor('sh6','#FFFFFE')" onmouseover="setBgColor('sh6','#225588')" target="_top">
+                  
+                 <b> &nbsp; Global Partners &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sh7" bgcolor="#FFFFFE">
+             <td height="14"><a class="menu" href="Register.asp" onmouseout="setBgColor('sh7','#FFFFFE')" onmouseover="setBgColor('sh7','#225588')" target="_top">
+                  
+                 <b> &nbsp; Customer Registration &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sh3" bgcolor="#FFFFFE">
+             <td height="14"><a class="menu" href="ReturnPolicy.asp" onmouseout="setBgColor('sh3','#FFFFFE')" onmouseover="setBgColor('sh3','#225588')" target="_top">
+                  
+                 <b> &nbsp; Return Policy &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sh9" bgcolor="#FFFFFE">
+             <td height="14"><a class="menu" href="PrivacyPolicy.asp" onmouseout="setBgColor('sh9','#FFFFFE')" onmouseover="setBgColor('sh9','#225588')" target="_top">
+                  
+                 <b> &nbsp; Privacy Policy &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+           <tr id="sh8" bgcolor="#FFFFFE">
+             <td height="14"><a class="menu" href="CompanyInfo.asp" onmouseout="setBgColor('sh8','#FFFFFE')" onmouseover="setBgColor('sh8','#225588')" target="_top">
+                  
+                 <b> &nbsp; Contact Us &nbsp; &nbsp;  &nbsp; &nbsp; </b></a>
+             </td>
+           </tr>
+
+
+
+        </tbody></table>
+       </td>
+     </tr>
+   </tbody></table>
+ </div>
+
+
+<!--
+<div style="position:absolute;top:35;left:570;z-index:3">
+	<input type=text class=tiny size=20 style="z-index:3">
+	<input type=submit class=tiny value="search" style="z-index:3">
+</div>
+-->
+
+<div style="position:absolute;top:35;left:488;z-index:3">
+
+
+
+
+			&nbsp; &nbsp; &nbsp; &nbsp; 
+			&nbsp; &nbsp; &nbsp; &nbsp; 
+			&nbsp; &nbsp; &nbsp; &nbsp; 
+			&nbsp; &nbsp; &nbsp; &nbsp; 
+			<a href="EnterPromotion.asp">
+			<img src="images/promotionsTab.gif" border="0"></a>
+			<a href="IdentifyUser.asp">
+			<img src="images/loginTab.gif" border="0"></a> &nbsp; &nbsp; 
+
+	
+
+
+<!--
+  					<img src="images/loginTab.jpg" style="margin-top:10px" width="84" height="23">
+  					<img src="images/checkoutTab.jpg" style="margin-top:8px" width="84" height="23">
+-->
+</div>
+
+
+
+
+<div class="shoppingCartItemCount">
+
+
+
+	<font style="font-size:4pt;color:#336699">
+	&nbsp; &nbsp; [&nbsp;
+	items in <a href="ShoppingCart.asp" style="color:#336699">shopping cart</a>: 0
+	&nbsp;] &nbsp; &nbsp;
+	</font>
+
+
+
+</div>
+
+
+
+
+<div style="position:absolute;top:8;left:265;z-index:3">
+
+	<font style="font-size:10pt;font-weight:bold;color:#AAAAAA">
+	
+	Questions or Problems? Call us at (801) 356-3823
+	&nbsp; &nbsp; &nbsp; &nbsp; 
+	</font>
+	
+</div>
+
+<div style="position:absolute;top:7;left:264;z-index:3">
+
+	<font style="font-size:10pt;font-weight:bold;color:#336699">
+	
+	Questions or Problems? Call us at (801) 356-3823
+	&nbsp; &nbsp; &nbsp; &nbsp; 
+	</font>
+</div>
+
+
+<script language="Javascript">
+
+function clearSearchField()
+{
+	var fieldVal = document.SearchForm.qy.value;
+	if (fieldVal == "product search")
+	{
+		document.SearchForm.qy.value = "";
+	}
+}
+
+</script>
+
+
+<div style="position:absolute;top:6;left:620;z-index:3">
+<form name="SearchForm" action="Search.asp" method="GET">
+	<input type="text" name="qy" value="product search" class="tiny" size="18" onclick="clearSearchField()">
+	<input type="image" align="middle" src="images/smallSearch.gif" onclick="clearSearchField();document.SearchForm.submit()">
+</form>
+</div>
+
+
+
+
+
+<div style="position:absolute;top:39;left:203;z-index:3">
+
+
+	<img name="Pro_img" src="images/menuBar.gif" align="baseline" border="0" alt="Products">
+	<a href="hardware.asp" onmouseout="btnTimer()" onmouseover="shLayer('Pro',0)" style="text-decoration:none">
+	<font class="menuCategory" bgcolor="red">
+		products
+	</font>
+	</a>
+    &nbsp;
+	<img name="Ser_img" src="images/menuBar.gif" align="baseline" border="0" alt="FastLynx">
+	<a href="fastlynxhomepage.asp" onmouseout="btnTimer()" onmouseover="shLayer('Ser',0)" style="text-decoration:none">
+	<font class="menuCategory">
+		fastlynx
+	</font>
+	</a>
+    &nbsp;
+	<img name="Rat_img" src="images/menuBar.gif" align="baseline" border="0" alt="FastLynx">
+	<a href="support.asp" onmouseout="btnTimer()" onmouseover="shLayer('Rat',0)" style="text-decoration:none">
+	<font class="menuCategory">
+		support
+	</font>
+	</a>
+    &nbsp;
+	<img name="Shp_img" src="images/menuBar.gif" align="baseline" border="0" alt="FastLynx">
+	<a href="companyinfo.asp" onmouseout="btnTimer()" onmouseover="shLayer('Shp',0)" style="text-decoration:none">
+	<font class="menuCategory">
+		about us
+	</font>
+	</a>
+
+</div>
+
+
+
+
+<!-- END MENU SETUP CODE -->
+
+
+<script language="Javascript">
+
+function openMenuURL(url)
+{
+    var stdOptions = "resizable=no,directories=no,left=400,top=300,toolbar=no";
+    var options = stdOptions + ",width=270,height=380,scrollbars=no" ;
+    window.open(url,"url",options);
+}
+
+</script>
+
+
+
+<div class="menuProper">
+
+
+<table border="0" align="left" cellpadding="0" cellspacing="0" width="770" style="background-image:url('images/greyBackDrop_aluminum.gif');background-repeat:no-repeat" bgcolor="white" height="66">
+  <tbody><tr>
+    <td width="190" height="47" align="center">
+        	<a href="default.asp"><img src="images/blanklogo.gif" border="0" z-index="100"></a>
+    </td>
+    <td height="66" valign="top">
+	</td>
+
+  </tr>
+</tbody></table>
+
+
+
+</div>
+
+
+ 
+
+<!-- END MENU TEST CODE -->
+
+<div class="sideBar" style="">
+
+				
+				<table width="170" border="0" style="border-collapse:collapse;table-layout:fixed" cellpadding="0" cellspacing="0">
+
+<!--
+		      <tr>
+		        <td bgcolor="#EEEEEE" align=center valign=middle class="header3" height="36" colspan="3" style="border-style:solid; border-width:1; ">
+                <font class="sideBarTitle">Related Items</font></td>
+		      </tr>
+-->
+<!--
+
+					<tr>
+						<td width=17 height=1>&nbsp;</td>
+						<td width=136 height=1>&nbsp;</td>
+						<td width=17 height=1>&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td class="sideBarTitle" align=center width=170 height=36 colspan=3 style="background-image:url('images/sideBarTop.gif')"><p class=sideBarTitle style="margin-top:3px">Related Items</p></td> 
+-->
+<!--
+						<td width=17><img src="images/leftTopGray.gif"></td>
+						<td class="sideBarTitle" align=center style="background-image:url('images/middleTopGray.gif')">
+							Related Items &nbsp;</td>
+						<td width=17><img src="images/rightTopGray.gif"></td>
+-->
+<!--
+					</tr>
+-->
+<!--
+					<tr>
+						<td colspan=3 width=170><img src="images/t_bot4.gif"></td>
+					</tr>
+-->
+
+
+
+	    		    <tbody><tr>
+			    		<td width="17"><img src="images/raisedTopLeft.gif"></td>
+			    		<td width="136" style="background-image:url('images/raisedTop.gif');background-repeat:repeat-x"></td>
+			    		<td width="17"><img src="images/raisedTopRight.gif"></td>
+			  		</tr>
+
+
+
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="left" height="70" style="border-style:none; border-width:medium; background-repeat:no-repeat; background-position: center center;" background="images/roundedsmaller.jpg">
+					<a href="/usbtops2.asp"><img border="0" src="images/USBTOPS2_th.jpg" style="margin-left:34px" alt="USB to PS2 Adapter"></a></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+		      
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="center" valign="top" height="40" colspan="1">
+					<font class="sideBarText"><a href="/usbtops2.asp">USB to PS2 Adapter</a></font><br><font class="sideBarPrice">
+					<b>$11.95</b></font></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="left" height="70" style="border-style:none; border-width:medium; background-repeat:no-repeat; background-position: center center;" background="images/roundedsmaller.jpg">
+					<a href="usbtoparallel.asp"><img border="0" src="images/USBTOPAR_th.jpg" style="margin-left:34px" alt="USB to Parallel Adapter"></a></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+		      
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="center" valign="top" height="40" colspan="1">
+					<font class="sideBarText"><a href="usbtoparallel.asp">USB to Parallel Adapter</a></font><br><font class="sideBarPrice">
+					<b>$14.95</b></font></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="left" height="70" style="border-style:none; border-width:medium; background-repeat:no-repeat; background-position: center center;" background="images/roundedsmaller.jpg">
+					<a href="/usbtofloppy.asp"><img border="0" src="images/USBFLOPPY_th.jpg" style="margin-left:34px" alt="USB Floppy Drive"></a></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+		      
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="center" valign="top" height="40" colspan="1">
+					<font class="sideBarText"><a href="/usbtofloppy.asp">USB Floppy Drive</a></font><br><font class="sideBarPrice">
+					<b>$34.90</b></font></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="left" height="70" style="border-style:none; border-width:medium; background-repeat:no-repeat; background-position: center center;" background="images/roundedsmaller.jpg">
+					<a href="/wirelesslancard.asp"><img border="0" src="images/WIRELESSLAN_th.jpg" style="margin-left:34px" alt="Wireless LAN CardBus"></a></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+		      
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="center" valign="top" height="40" colspan="1">
+					<font class="sideBarText"><a href="/wirelesslancard.asp">Wireless LAN CardBus</a></font><br><font class="sideBarPrice">
+					<b>$28.95</b></font></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="left" height="70" style="border-style:none; border-width:medium; background-repeat:no-repeat; background-position: center center;" background="images/roundedsmaller.jpg">
+					<a href="/usbdockingstation.asp"><img border="0" src="images/SW-1901_th.jpg" style="margin-left:34px" alt="USB Docking Station"></a></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+		      
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="center" valign="top" height="40" colspan="1">
+					<font class="sideBarText"><a href="/usbdockingstation.asp">USB Docking Station</a></font><br><font class="sideBarPrice">
+					<b>$69.90</b></font></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="left" height="70" style="border-style:none; border-width:medium; background-repeat:no-repeat; background-position: center center;" background="images/roundedsmaller.jpg">
+					<a href="/usbtoide.asp"><img border="0" src="images/USBTOIDE_th.jpg" style="margin-left:34px" alt="USB to IDE Adapter"></a></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+		      
+		      <tr>
+			    <td width="17" style="background-image:url('images/raisedLeft.gif');background-repeat:repeat-y">&nbsp;</td> 
+		        <td width="136" bgcolor="white" align="center" valign="top" height="40" colspan="1">
+					<font class="sideBarText"><a href="/usbtoide.asp">USB to IDE Adapter</a></font><br><font class="sideBarPrice">
+					<b>$44.95</b></font></td>
+			    <td width="17" style="background-image:url('images/raisedRight.gif');background-repeat:repeat-y">&nbsp;</td> 
+		      </tr>
+
+	    		    <tr>
+			    		<td width="17"><img src="images/raisedBottomLeft.gif"></td>
+			    		<td width="136" style="background-image:url('images/raisedBottom.gif');background-repeat:repeat-x"></td>
+			    		<td width="17"><img src="images/raisedBottomRight.gif"></td>
+			  		</tr>
+				</tbody></table>
+
+
+</div>
+			
+			
+
+
+
+
+<!--  ====================================  -->
+<!--  START OF PRODUCT DESCRIPTION SECTION  -->
+<!--  ====================================  -->
+
+
+<form method="POST" name="Form" action="SubscribeSubmit.asp">
+
+<input type="hidden" name="url" value="undefined">
+
+
+<div class="productContent">
+
+	<table class="productContentTable">
+
+		<tbody><tr>
+			<td colspan="2" align="center" class="productPageTitleCell">
+
+	<table><tbody><tr><td background="images/titleBack.gif" valign="bottom" height="38" width="600">
+				 <font face="Arial" size="5"> &nbsp;&nbsp;Privacy Policy</font></td></tr></tbody></table>
+			</td>
+		</tr>
+		
+		<tr>
+
+			<td colspan="2" width="500">
+<blockquote class="text">
+
+<p>When you leave any personal information on our web site, either by visiting
+the "Registration" page or by placing an order, you can be assured that
+our company is the only one who will use it.&nbsp; We do not rent, sell, or
+otherwise distribute any information from our customer database, including
+e-mail addresses.</p>
+
+<h3>E-mail Address Usage</h3>
+
+<p>Your e-mail address, if you provide one, is stored in your customer record in
+our database.&nbsp; You can enter more than one e-mail address by separating
+them with a ";" character.&nbsp; If you leave the e-mail address
+blank, or erase it later (from the Registration page), you can be assured that
+you will not receive any more e-mail from us.&nbsp; If you provide a valid
+e-mail address, it will always be used to confirm any order you place and to
+communicate with you, if necessary, about your order.&nbsp;&nbsp;</p>
+
+<p>If you wish to receive e-mail notices of upgrades or bug fixes for any
+products you have purchased, select the "Order and upgrade/bug fix"
+option in the E-mail Usage field of your customer record (shown on the
+Registration page and when placing an order).</p>
+
+<p>If, in addition to upgrade/bug fix notices, you also wish to receive general
+announcements about special sales, new products, etc., select the "Order,
+upgrade, and general" option in the E-mail Usage field of your customer
+record.</p>
+
+<h3>Authentication</h3>
+
+<p>We use a digital ID from VeriSign on our web server.&nbsp; Your browser
+should provide a way to display this certificate to verify that you are really
+dealing with Sewell Development Corporation.&nbsp; We also provide a button on
+the store entrance page and the registration page that you can press to invoke a
+VeriSign script that will verify our identity.&nbsp; NOTE: currently our web
+server uses many domain names, including: sewelldirect.com, sewelldev.com, sewelld.com, fastlynxsoftware.com, 
+and fastlynx.info.&nbsp; The
+certificate is currently registered for sewelldev.com.</p>
+
+<h3>Security</h3>
+
+<p>The portions of our web site that collect any personal information -
+including the on-line store and the customer registration page, can only be
+accessed via a secure link (using SSL encryption).&nbsp; Most newer browsers
+support this kind of link.&nbsp; We use a Global ID from VeriSign, which allows
+our server to provide the maximum security generally available for electronic
+commerce - up to a 128-bit SSL connection.&nbsp; However, whether the connection
+actually uses 128-bit SSL or a weaker level of encryption, depends also on your
+browser.</p>
+
+<h3>Credit Card Information</h3>
+
+<p>Some large electronic commerce sites save your credit card information so
+that you can order again without having to provide the same information each
+time.&nbsp; We do not do this, however, for security reasons.&nbsp; Soon after
+your order completes, regardless of whether it succeeds or fails, the credit
+card information is deleted from our system.&nbsp;  </p>
+
+</blockquote>
+
+			</td>
+		</tr>
+			
+	</tbody></table>
+            
+            
+            <p align="center"><font size="2"></font><br></p><p align="center"><b>For questions or problems, or to order by phone, call
+(801)356-3823.</b><br><i>Good service, fast delivery, low shipping rates.</i><br>
+<small>Copyright © 2000-2004 
+Sewell Development Corp.&nbsp;
+<a href="PrivacyPolicy.asp">Privacy Policy</a></small></p>
+
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/23037419/x.js?cmd=file&amp;file=chatScript3&amp;site=23037419&amp;category=en;liveperson;1"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
+</div>
+
+
+<!--  ==================================  -->
+<!--  END OF PRODUCT DESCRIPTION SECTION  -->
+<!--  ==================================  -->
+
+
+
+
+
+
+</form></body></html>
