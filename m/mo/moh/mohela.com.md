@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401114014id_/http%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207142634id_/http%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
 
 # MOHELA Privacy Policy
 
@@ -58,4 +58,6 @@ _Nonaffiliated Third Parties_
 We do not sell or share customer information to nonaffiliated third parties for the third parties to use for their own purposes. We do share information with companies that work for us. For example, we may disclose nonpublic personal information about you, as permitted by law, to nonaffiliated third parties such as companies that service our loans and/or provide loan servicing computer support. These companies are acting on our behalf and are obligated to maintain the information they receive in a confidential manner. They are never authorized to use the information for any other purposes. We may disclose all of the information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.  
    
 _Security_  
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.  
+   
+[Internet Privacy Policy](https://web.archive.org/web/20041207142634id_/http%3A//www.mohela.com/Misc/Info/Info_InternetPrivacyAct.asp)
