@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206090109id_/http%3A//www.internetsecure.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630221123id_/http%3A//www.internetsecure.com/privacy.html) for the most accurate reproduction.*
 
 # InternetSecure Privacy Policy
 
@@ -6,19 +6,19 @@
 
 This policy forms part of, and should be read in conjunction with, our 
 
-[_**Terms of Use**_](https://web.archive.org/web/20031206090109id_/http%3A//www.internetsecure.com/termsofuse.html). 
+[_**Terms of Use**_](https://web.archive.org/web/20040630221123id_/http%3A//www.internetsecure.com/termsofuse.html). 
 
 InternetSecure believes that privacy is crucial for the ongoing success of Internet commerce. Our status as an Internet merchant account provider and certified payment gateway requires us to have a stringent policy regarding all of the information that we collect. 
 
 Your use of this site or InternetSecure’s services constitutes acceptance of these terms and conditions. If you do not agree with these policies, please cease using this site immediately. 
 
-These terms were last revised on September 26, 2002. InternetSecure reserves the right to amend these policies from time to time. If such amendments affect how InternetSecure uses or discloses personal information already held by InternetSecure in a material and adverse way over and above previous express or implied consent, InternetSecure will contact you to obtain consent. Notwithstanding the terms of this policy, the collection, use, and disclosure of personal information may be made outside of the terms herein to the extent provided for in the Canadian Personal Information Protection and Electronic Documents Act, and other relevant Canadian and Ontario legislation in effect from time to time. These exemptions include, without limitation, publicly available information, or information disclosed for criminal or civil investigations or compliance with law or court orders. 
+These terms were last revised on April 19, 2004. InternetSecure reserves the right to amend these policies from time to time. If such amendments affect how InternetSecure uses or discloses personal information already held by InternetSecure in a material and adverse way over and above previous express or implied consent, InternetSecure will contact you to obtain consent. Notwithstanding the terms of this policy, the collection, use, and disclosure of personal information may be made outside of the terms herein to the extent provided for in the Canadian Personal Information Protection and Electronic Documents Act, and other relevant Canadian and Ontario legislation in effect from time to time. These exemptions include, without limitation, publicly available information, or information disclosed for criminal or civil investigations or compliance with law or court orders. 
 
 InternetSecure takes reasonable precautions to ensure your privacy on the terms contained in this policy. InternetSecure uses reasonable efforts to, but cannot totally prevent, unintended disclosures by such means as hackers and other unauthorized individuals, and inadvertent or illicit employee actions. 
 
 **Cardholder provided Information:**
 
-Our electronic purchase service requires that cardholders provide contact information (including without limitation: name, address, city, state or province, postal code, country, telephone and email), and financial information (including without limitation: name on credit card, credit card number and expiry date), and ordering information. This information is collected and used to process the transaction and for internal accounting and other procedures. 
+Our electronic purchase service requires that cardholders provide contact information (including without limitation: name, address, city, state or province, postal code, country, telephone and email), and financial information (including without limitation: name on credit card, credit card number and expiry date), and ordering information. This information is collected and used to process the transaction and for internal accounting and other procedures. Following a transaction, we may contact cardholders by phone or email for security purposes. 
 
 **Merchant Provided Information:**
 
@@ -36,7 +36,7 @@ Certain information submitted through the electronic purchase service (excluding
 
 InternetSecure is acting as an intermediary between the merchant and a user’s credit card company. The parties mentioned in the above paragraph, and not InternetSecure, are responsible for their own privacy polices and for maintaining privacy and confidentiality for all information InternetSecure provides them. If a user has any questions or concerns about the privacy policies of those parties, it must contact such parties. 
 
-Except for the above parties, and for use by InternetSecure’s consultants and professional advisers on InternetSecure’s behalf for the uses disclosed herein, InternetSecure does not share personal information with any other third parties. InternetSecure may, however, provide to third parties aggregate or statistical information that does not disclose personally identifiable information. 
+Except for the above parties, and for use by InternetSecure’s consultants and professional advisers on InternetSecure’s behalf for the uses disclosed herein, InternetSecure does not share personal information with any other third parties. InternetSecure may, however, provide to third parties aggregate or statistical information that does not disclose personally identifiable information. InternetSecure may disclose personal information to another entity purchasing (including for diligence purposes prior to purchase) the assets of InternetSecure, providing that entity abides by this or a similar privacy policy. 
 
 **Contact Us / Email Inquiries:**
 
