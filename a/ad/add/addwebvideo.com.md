@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the addwebvideo.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205021347id_/http%3A//www.playstream.com/tc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addwebvideo.com privacy policy that was archived on 2004-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040722094433id_/http%3A//www.playstream.com/tc/privacy.aspx) for the most accurate reproduction.*
 
-# PlayStream - Terms and Conditions - Privacy Policy
+# PlayStream, LLC :: TC - Privacy Policy
+
+PLAYSTREAM LLC PRIVACY POLICY
 
 **What Sites This Policy Covers**
 
-This privacy policy (the “Policy”) discloses our privacy practices for http://www.PlayStream.com (the “ **PlayStream Site** ”), http://www.AddWebVideo.com (the “ **AddWebVideo Site** ”), http://www.DigitalRightsMedia.com (the “ **DigitalRightsMedia Site** ”), http://www.GoSmil.com (the “ **GoSmil Site** ”), and http://www.StreamingCalculator.com (the “ **StreamingCalculator Site** ”). This Policy refers to these five Sites collectively as “our Sites.”
+This privacy policy (the “Policy”) discloses our privacy practices for http://www.PlayStream.com (the “PlayStream Site”), http://www.AddWebVideo.com (the “AddWebVideo Site”), http://www.DigitalRightsMedia.com (the “DigitalRightsMedia Site”), http://www.GoSmil.com (the “GoSmil Site”), and http://www.StreamingCalculator.com (the “StreamingCalculator Site”). This Policy refers to these five Sites collectively as “our Sites.”
 
 **I. The Information We Collect, And How We Use It**
 
@@ -14,13 +16,15 @@ PlayStream, LLC, is the sole owner of the information collected on our Sites. Pl
 
 **1\. PlayStream Newsletter**
 
-We provide a low-volume email newsletter (currently averaging one to two news announcements per month) to provide general news about PlayStream’s new services, upgrades, and general information about our Sites and our services. There is an online field on PlayStream’s home page that you can use to enter your email address in order to subscribe to the newsletter. You can also subscribe or unsubscribe to the Newsletter when you sign up for an Evaluation Account or place an Order for Service (as described below). You do this by checking a box on the relevant Evaluation Account or Order for Service order page.
+We provide a low-volume email newsletter (currently averaging one to two news announcements per month) to provide general news about PlayStream’s new services, upgrades, and general information about our Sites and our services. There is an online field on PlayStream’s home page that you can use to enter your email address in order to subscribe to the newsletter. You can also subscribe or unsubscribe to the Newsletter when you sign up for an Evaluation Account or place an Order for Service (as described below). You do this by checking a box on the relevant Evaluation Account or Order for Service order page. 
 
 When you subscribe to the newsletter, we use your email address to provide the newsletter to you via email. With each newsletter we provide a method to unsubscribe from the newsletter, with a link to the Web page where you can enter your request to unsubscribe. You may also contact PlayStream directly as described at the end of this Policy regarding unsubscribing from the newsletter.
 
 **2\. Evaluation Account**
 
-PlayStream provides a 15-day free evaluation of our service, subject to PlayStream’s Terms and Conditions of service. When you sign up for an Evaluation Account by filling out our online form, you are required to provide information that includes contact information (such as name and email address). We may, at times, also ask you to provide demographic information (such as income level and gender) or answers to survey questions (such as how you heard about PlayStream) during this process. We do not collect credit card or financial information when you sign up for an Evaluation Account. We use contact information to communicate with you about your Evaluation Account. We use demographic information you provide and your answers to surveys to improve our Sites and services we offer, and for any other purposes described in the surveys.
+PlayStream provides a 15-day free evaluation of our service, subject to PlayStream’s Terms and Conditions of service. When you sign up for an Evaluation Account by filling out our online form, you are required to provide information that includes contact information (such as name and email address). We may, at times, also ask you to provide demographic information (such as income level and gender) or answers to survey questions (such as how you heard about PlayStream) during this process. We do not collect credit card or financial information when you sign up for an Evaluation Account.
+
+We use contact information to communicate with you about your Evaluation Account. We use demographic information you provide and your answers to surveys to improve our Sites and services we offer, and for any other purposes described in the surveys.
 
 **3\. Order For Service**
 
@@ -50,7 +54,7 @@ A cookie is a piece of data stored on your computer in a folder dedicated to use
 
 **a. Session Cookies**
 
-“ Session cookies” store information needed by the web server in order to avoid asking you for your password (if any) with each new page you visit. No other information is stored in session cookies. (In addition, password information itself is not stored in session cookies.) Session cookies are deleted when your session on the PlayStream Site ends (i.e: when you leave the PlayStream Site).
+“Session cookies” store information needed by the web server in order to avoid asking you for your password (if any) with each new page you visit. No other information is stored in session cookies. (In addition, password information itself is not stored in session cookies.) Session cookies are deleted when your session on the PlayStream Site ends (i.e: when you leave the PlayStream Site).
 
 **b. Referrals**
 
@@ -76,7 +80,7 @@ We use the DigitalRightsMedia Site to demonstrate PlayStream’s pay-per-view ca
 
 **3\. AddWebVideo Site**
 
-We operate this site as an advertisement on the Internet for PlayStream’s services. We do not collect any information at the AddWebVideo Site, other than Log File information. (See Section I.B above.)
+We operate this site as an advertisement on the Internet for PlayStream’s services. We do not collect any information at the AddWebVideo Site, other than Log File information. (See Section I.B above.) 
 
 **4\. StreamingCalculator Site**
 
@@ -114,9 +118,9 @@ If a parent believes that his or her child has submitted personal information to
 
 We are vitally concerned with security on our Sites and Services. We would like to ensure that information about you that we receive on our Sites is perfectly protected at all times, but no one could really make (and keep) that kind of promise. However, when you submit confidential information via our Sites, we do make reasonable efforts to protect that information both online and off-line.
 
-When you are asked to enter confidential information on the PlayStream Site (such as credit card number), that information is encrypted with the leading encryption software in the industry—SSL. To learn more about SSL, follow this link [http//:www.thawte.com](http://www.thawte.com/). Please be aware that despite the efforts we make, we cannot absolutely ensure or protect the security of any information transmitted to or by us over the Internet.
+When you are asked to enter confidential information on the PlayStream Site (such as credit card number), that information is encrypted with the leading encryption software in the industry—SSL. To learn more about SSL, follow this link [http://www.thawte.com](http://www.thawte.com/). Please be aware that despite the efforts we make, we cannot absolutely ensure or protect the security of any information transmitted to or by us over the Internet.
 
-We also take the following significant steps to protect your information off-line. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees are each assigned a unique login and password, and must use this login and password to access customer records where your personal and confidential information is recorded and stored. Our system provides an audit trail of modifications to customer records, which enables management to help monitor activity. Furthermore, all of our employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a firewall in secured premises. 
+We also take the following significant steps to protect your information off-line. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees are each assigned a unique login and password, and must use this login and password to access customer records where your personal and confidential information is recorded and stored. Our system provides an audit trail of modifications to customer records, which enables management to help monitor activity. Furthermore, all of our employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a firewall in secured premises.
 
 If you have any questions about the security at our Sites, you can send an email to [legal@playstream.com](mailto:legal@playstream.com).
 
@@ -130,7 +134,7 @@ PlayStream considers your password to be sensitive information protecting your a
 
 **V. Correcting/Updating Personal Information**
 
-If your personally identifiable information (such as your address) changes, or if you no longer desire our service, you may login to PlayStream's Web site to request modification and/or closure of your service (subject to any applicable agreements with PlayStream). You may also requests modification and/or closure of your service by emailing us at [customerservice@playstream.com](mailto:customerservice@playstream.com) or by contacting PlayStream via telephone at 1 (206) 404-7900 during regular business hours. We reserve the right to retain information about you as needed (in our sole discretion) to collect amounts you owe to PlayStream.
+If your personally identifiable information (such as your address) changes, or if you no longer desire our service, you may login to PlayStream's Web site to request modification and/or closure of your service (subject to any applicable agreements with PlayStream). You may also requests modification and/or closure of your service by emailing us at [customerservice@playstream.com](mailto:customerservice@playstream.com%20) or by contacting PlayStream via telephone at 1 (206) 404-7900 during regular business hours. You can expect a response to your requests within one business day. (That response may be that we simply implement your requested change, or we may respond in some other way.) We reserve the right to retain information about you as needed (in our sole discretion) to collect amounts you owe to PlayStream.
 
 **VI. Notification of Changes**
 
@@ -140,17 +144,17 @@ If we decide to change this privacy Policy, we will post an "Updated" notice in 
 
 Our Sites may contain links to third parties’ sites. Please be aware that PlayStream is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Sites and to read the privacy policies of each and every web site that collects personally identifiable information. This Policy applies solely to information collected by our Sites.
 
-**VIII. Dispute Resolution and Enforcement**
+**VIII.     Dispute Resolution and Enforcement **
 
 PlayStream, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
 
-Users with questions or concerns regarding this statement or PlayStream’s privacy practices should first contact George Grubb/Privacy Policy by email at [legal@playstream.com](mailto:legal@playstream.com) or by fax at 1-206-404-7901. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html)](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with PlayStream to resolve users’ concerns.
+Users with questions or concerns regarding this statement or PlayStream’s privacy practices should first contact George Grubb/Privacy Policy by email at legal@playstream.com or by fax at 1-206-404-7901. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact [TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html)](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with PlayStream to resolve users’ concerns.
 
 The TRUSTe program covers only information that is collected through the Web sites identified above, and does not cover information that may be collected through software downloaded from those sites.
 
 PlayStream also is subject to the jurisdiction of the Federal Trade Commission (FTC), which has been active in monitoring the state of privacy on the Internet. The Federal Trade Commission is a government agency with the mandate to enforce the Federal Trade Commission Act, which prohibits unfair or deceptive acts or practices in or affecting commerce. Commerce on the Internet falls within the scope of this statutory mandate. The FTC has committed to reviewing, on a priority basis, referrals from TRUSTe. For further information, see [http://www.ftc.gov](http://www.ftc.gov/).
 
-**IX. Safe Harbor Verification**
+**IX.        ** **Safe** **** **Harbor** **Verification**
 
 PlayStream verifies that its privacy policy, as set forth above, is accurate, comprehensive and completely implemented, including implementation of appropriate employee training and other internal procedures. PlayStream further verifies that its privacy policy conforms with the “Safe Harbor Principles” issued by the U.S. Department of Commerce on July 21, 2000, which concerns compliance with European Union privacy protection requirements by U.S. organizations. See <http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm>.
 
