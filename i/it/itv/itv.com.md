@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605120126id_/http%3A//www.itv.com/page.asp%3Fpartid%3D218) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203033034id_/http%3A//www.itv.com/page.asp%3Fpartid%3D218) for the most accurate reproduction.*
 
 # ITV Privacy Policy
 
@@ -10,7 +10,7 @@
 
 1.3 We are fully registered under the Data Protection Act 1998 (“the Act”) and to ensure we comply with all protection the Act affords to you we have set out below how we intend to utilise the information provided by you when you register via the Site homepage. Further information on the Act is on the internet at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/). 
 
-1.4 When you access the site, we ask you to give us your name, email address and other personal information that will be needed to supply the services to you. You can ‘unsubscribe’ at any time. We may use your personal data for contacting you via the phone or e-mail for support, notification of new products or new versions, general correspondence regarding the Site and correspondence which may relate you. If you would rather not receive future marketing emails from us once you have registered please inform us by e-mail at [privacy@itv.com](mailto:privacy@itv.com)
+1.4 When you access the site, we ask you to give us your name, email address and other personal information that will be needed to supply the services to you. You can ‘unsubscribe’ at any time. We may use your personal data for contacting you via the phone or e-mail for support, notification of new products or new versions, general correspondence regarding the Site and correspondence which may relate you. If you would rather not receive future marketing emails from us once you have registered please inform us by e-mail at [adminprivacy@itv.com](mailto:adminprivacy@itv.com)
 
 1.5 The information you provide will be kept confidential and will only be passed on to external companies if you have opted in to permit ITV to give your contact information to selected companies, business partners, sponsors and advertisers. If you opt out of permitting ITV to pass on your information, it will be used only to support your customer relationship with us (i.e. e-mails only from ITV) and to provide the specified service. We do not disclose or sell your information outside our corporate group except if we sell the whole or part of our business. 
 
