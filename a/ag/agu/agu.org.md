@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204224558id_/http%3A//www.agu.org/pubs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401145732id_/http%3A//www.agu.org/pubs/privacy.html) for the most accurate reproduction.*
 
 # AGU - My Privacy Policy
 
@@ -8,7 +8,7 @@ As constituents of AGU we value the ability to set the level at which we will sh
 
 Addresses, phone numbers, e-mail addresses, other contact information, and information related to scientific interests are collected from AGU constituents in the course of providing services such as subscriptions, meeting registration, and submission of articles, and in various other interactions. Such information is required to complete the individual order or deliver the service. Other demographic information, such as education and employment data, is collected when individuals apply for membership or are suggested for various positions in the Union. Except as described below, these data and any other information of a personal nature, such as gender, are collected on a purely voluntary basis; furthermore, they are not shared or used in such a way that an individual is identified. Principal uses of these data are for internal assessments of AGU programs and the membership; additionally, these data, in a consolidated form, may be used in publicly distributed statistical descriptions and studies of the AGU constituency.
 
-AGU members may add, correct, or update their personal information through a [form](https://web.archive.org/cgi-bin/membership_services/login.cgi) on the AGU Web site or to Member Services by phone at : +1-202-462-6900 (toll free in North America: 800-966-2481) or by e-mail at [service@agu.org](mailto:service@agu.org).
+AGU members may add, correct, or update their personal information through a [form](https://web.archive.org/cgi-bin/membership_services/member_search.cgi) on the AGU Web site or to Member Services by phone at : +1-202-462-6900 (toll free in North America: 800-966-2481) or by e-mail at [service@agu.org](mailto:service@agu.org).
 
 ### What personal data are made available
 
