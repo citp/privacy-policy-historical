@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208054549id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306114238id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
 
 # ThirdAge - About Us - Privacy Statement
 
@@ -58,7 +58,7 @@ As we continue to develop our business, we might sell or buy stores or assets, o
 By using the Web Site, you signify your assent to the ThirdAge Privacy Policy and the Web Site's Terms of Service. If you do not agree to this Policy or the Terms of Service, please do not use the Web Site. Your continued use of the Web Site following the posting of changes to these terms will mean you accept those changes. 
 
 **11\. Whom to Contact**  
-If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact ThirdAge by mail at: ThirdAge Inc., 585 Howard Street, First Floor, San Francisco, CA 94105; or through our [contact form](http://thirdage.com/research/help/). 
+If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact ThirdAge by mail at: ThirdAge Inc., 25 Stillman Street, Suite 102, San Francisco, CA 94107-1309; or through our [contact form](http://thirdage.com/research/help/). 
 
 **12\. Ad Serving**  
 The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy). 
