@@ -1,6 +1,57 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623075251id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210124946id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
 
 # Newsday.com - About Newsday
+
+| [](http://www.newsday.com/) |  [](https://web.archive.org/web/20041210030805id_/http://www.newsday.com/about/c) [ ](http://adserver.trb.com/event.ng/Type=click&FlightID=497929&AdID=142670&TargetID=3930&Segments=52,164,249,579,598,688,779,1123,1280,1470,1552,1599,1608,1651,1708,2032,2166,2254,2383,2434,2533,3170,3379,3407,3538,3923,4077,4294,4312,4339,4375,4410,4415,4538,4709,5041,5140,5382,6039,6308,6469,6788,6803,7114,7537,7978,50054,50055,50200,50523,50586,50980&Targets=197,7178,881,50960,8497,1666,9150,7858,6576,2813,3930,51449,7936,6484,51705,7871,12166,12368,50359,50920&Values=34,46,51,63,77,84,92,100,110,132,289,294,301,311,328,331,395,591,836,1016,1122,1436,1606,1617,1654,1656,1725,1733,1754,1787,1816,1836,1870,1871,1872,1887,1888,1917,1946,1977,1986,2061,2091,2281,2283,2365,2380,2384,2511&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www.tristatebmw.com)  
+---|---  
+| [  News](https://web.archive.org/news/local/longisland/?track=topnav) |  | [  Sports](https://web.archive.org/sports/?track=topnav) |  | [  Business](https://web.archive.org/business/?track=topnav) |  | [  Entertainment](https://web.archive.org/entertainment/?track=topnav) |  | [   Photos](https://web.archive.org/news/local/longisland/photos/?track=topnav) |  | [   Shopping](http://www.shoplocal.com/newsday/new_user_entry.aspx?CityStateZip=11747&track=ShoppingNavRail?track=topnav) | [NY Newsday.com](http://www.nynewsday.com/?track=topnav) |   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  | [HOMEPAGE](https://web.archive.org/) |   
+---|---|---  
+| [LONG ISLAND](https://web.archive.org/news/local/longisland/) |   
+| [NEW YORK CITY](http://www.nynewsday.com/) |   
+| [NATION](https://web.archive.org/news/nationworld/nation/) | [STATE](https://web.archive.org/news/local/state/?track=navrail) |   
+| [WORLD](https://web.archive.org/news/nationworld/world/) |   
+| [HEALTH / SCIENCE](https://web.archive.org/news/health/) |   
+| [SPORTS](https://web.archive.org/sports/) |   
+| [BUSINESS](https://web.archive.org/business/) |   
+| [OPINION](https://web.archive.org/news/opinion/) |   
+| [ENTERTAINMENT](https://web.archive.org/entertainment/) |   
+| [FEATURES](https://web.archive.org/features/printedition/) |   
+| [OBITUARIES](http://www.legacy.com/Newsday/LegacyHome.asp) |   
+| [PHOTOS](https://web.archive.org/news/local/longisland/photos/) |   
+| [SPECIAL PROJECTS](https://web.archive.org/news/specials/) |   
+| [EVENTS](https://web.archive.org/entertainment/localguide/?track=navrail) |   
+---|---|---  
+| [MOVIES](https://web.archive.org/entertainment/movies/?track=navrail) |   
+| [KIDZ](https://web.archive.org/kidz/?track=navrail) |   
+| [FOOD](https://web.archive.org/features/food/?track=navrail) |   
+| [AP TOP NEWS](https://web.archive.org/news/nationworld/wire/?track=navrail) |   
+| [LOTTERY RESULTS](https://web.archive.org/features/lottery/wire/?track=navrail) |   
+| [TRAVEL](https://web.archive.org/travel/?track=navrail) |   
+| [SPORTS SCORES](https://web.archive.org/sports/ny-scoreboard-mainpage.htmlstory?track=navrail) |   
+| [TRAFFIC](https://web.archive.org/news/traffic/?track=navrail) |   
+| [5-DAY FORECAST](http://weather.newsday.com/US/NY/Islip.html?main=1) |   
+| [MARINE FORECAST](http://weather.newsday.com/MAR/AN/335.html) |   
+| [CROSSWORDS](https://web.archive.org/features/puzzles/ny-puzzle-crossword-htmlstory.htmlstory?track=navrail) |   
+| [CONTACT US](https://web.archive.org/go/services/contact/) |   
+| [ARCHIVES](http://pqasb.pqarchiver.com/newsday/search.html) |   
+| [ ](https://web.archive.org/news/printedition/)[   
+](https://web.archive.org/news/printedition) |   
+---|---|---  
+| [WB11](http://www.wb11.com/) |   
+---|---|---  
+| [Star Community Publishing](http://www.dsapub.com/) |   
+| [Island Publications  
+Tourism](https://web.archive.org/travel/local/island) |   
+| [HOY  
+News in Spanish](http://www.holahoy.com/) |   
+  | 
+
+ABOUT US
+
+Newsday.com Privacy Policy  
+
 
 **Newsday.com** strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by Newsday.com online and does not impact information collected or used by Newsday.com or its affiliates through other means. 
 
@@ -55,3 +106,15 @@ Newsday.com reserves the right to change this policy at any time. Please check t
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Newsday.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Newsday.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. 
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
+
+Copyright © 2004, [Newsday, Inc.](http://www.newsday.com/)
+
+|   | 
+
+|   
+  
+---  
+  
+[](https://web.archive.org/web/20041210030805id_/http://www.newsday.com/about/c) [ ](http://adserver.trb.com/event.ng/Type=click&FlightID=503777&AdID=137604&TargetID=50958&Segments=85,165,249,530,673,692,755,1123,1425,1545,1553,1600,1608,1652,1708,1929,2167,2254,2436,2571,2819,3356,3379,3391,3539,3753,3907,4079,4294,4296,4339,4375,4410,4415,4538,4709,4943,4948,5020,5041,5218,5382,5590,6039,6764,6787,7030,7391,7537,7978,50054,50055,50200,50523,50586,50587,50980&Targets=8227,196,5248,785,50958,1773,1985,6576,2812,7686,3204,8356,8257,8599,7872,6458,8005,7637,6655,6654,8287,11347,12367,50065,50066,50919&Values=34,46,51,63,77,84,92,100,110,131,289,301,311,328,333,388,395,591,836,1016,1122,1436,1606,1617,1654,1656,1725,1733,1754,1787,1816,1836,1870,1871,1872,1887,1888,1917,1946,1977,1986,2061,2091,2281,2283,2365,2380,2384,2511&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www.print2webcorp.com/news/nynewsday/broadway/)  
+---  
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=506123&AdID=142603&Custom=circulation&TargetID=785&Segments=85,165,249,530,673,692,755,1123,1553,1585,1600,1608,1652,1708,1929,2167,2254,2291,2436,2571,2819,3356,3379,3391,3539,3753,3907,4079,4294,4297,4374,4375,4709,4948,5020,5041,5299,5382,5590,6039,6764,6787,6926,7030,7391,7537,7978,50054,50055,50200,50523,50586,50980&Targets=8227,196,5248,785,50958,8073,1985,6576,2812,7686,3204,5703,8257,8599,7872,6458,6581,8286,7637,10571,11347,12367,50065,50066&Values=34,46,51,63,77,84,92,100,110,131,289,301,311,328,334,388,395,591,836,1016,1122,1436,1606,1617,1654,1656,1725,1733,1754,1787,1816,1836,1870,1871,1872,1887,1888,1917,1946,1977,1986,2061,2091,2281,2283,2365,2380,2384,2511&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.newsday.com%2Fother%2Fspecial%2Fny-subscribeforgiftcard.htmlstory)
