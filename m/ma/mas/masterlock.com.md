@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205081734id_/http%3A//masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607154420id_/http%3A//masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # Master Lock: Privacy Notice
 
-**
-
-Master Lock Company
-
-**  
-©2001 Master Lock Company   
+Master Lock Company   
 2600 North 32nd Street   
-Milwaukee, WI 53210-0367 USA   
-(414)444-2800 
+Milwaukee, WI 53210-0367 USA 
 
 Welcome to the Internet site of Master Lock Company (this "Site"). Master Lock Company wants you to know what information we learn about you when you visit this Site, what we do with that information, and how you can view or change the information we have. 
 
@@ -28,6 +22,6 @@ Master Lock reserves the right to change or update this policy at any time by po
 
 Please see the Master Lock Company's 
 
-[legal notice](https://web.archive.org/web/20011205081734id_/http%3A//masterlock.com/general/legal.shtml) for more information.  
+[legal notice](https://web.archive.org/web/20020607154420id_/http%3A//masterlock.com/general/legal.shtml) for more information.  
   
 
