@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corante.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603044213id_/http%3A//www.corante.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corante.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218065015id_/http%3A//www.corante.com/pp.html) for the most accurate reproduction.*
 
 # C O R A N T E - Tech News. Filtered Daily.
 
@@ -35,4 +35,4 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:  
 [info@corante.com](mailto:info@corante.com)
 
-Copyright © 2001 Corante. All rights reserved. [Terms of use.](https://web.archive.org/web/20010603044213id_/http%3A//www.corante.com/terms.html)
+Copyright © 2001 Corante. All rights reserved. [Terms of use.](https://web.archive.org/web/20011218065015id_/http%3A//www.corante.com/terms.html)
