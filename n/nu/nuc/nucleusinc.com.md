@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nucleusinc.com privacy policy that was archived on 2003-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030415221435id_/http%3A//catalog.nucleusinc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nucleusinc.com privacy policy that was archived on 2003-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031023024225id_/http%3A//catalog.nucleusinc.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
