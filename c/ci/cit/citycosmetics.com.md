@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citycosmetics.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020224id_/http%3A//www.citycosmetics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citycosmetics.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206172425id_/http%3A//www.citycosmetics.com/privacy.html) for the most accurate reproduction.*
 
 # CITYcosmetics.com One-of-a-kind skin care treatments that TURN BACK YEARS in 30 days!
 
