@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216191451id_/http%3A//www.aiim.org/article_pr.asp%3FID%3D20575) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405125806id_/http%3A//www.aiim.org/article_pr.asp%3FID%3D20575) for the most accurate reproduction.*
 
 # 
 
@@ -18,7 +18,7 @@ This privacy statement discloses the privacy practices for aiim.org and other AI
 
 7\. How you can correct any inaccuracies in the information.
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact Richard Palarea, Vice President of Technology by e-mail at [rpalarea@aiim.org](mailto:rpalarea@aiim.org?Subject=Privacy%20Issues) or by phone at 301-755-2616.
+If you feel that this company is not abiding by its posted privacy policy, you should first contact Lisa Morris, e-mail at [lmorris@aiim.org](mailto:lmorris@aiim.org) or by phone at 301-755-2626.
 
 **Information Collection and Use**  
 AIIM International is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. AIIM International collects information from our users at several different points on our website.
@@ -60,7 +60,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees use workstation locking to protect access to their personal workstation when not at their desks. When they return, they must re-enter their password to re-gain access to your information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked door. User data is not stored on individual workstations or notebook computers.
 
-If you have any questions about the security at our website, you can send an e-mail to [rpalarea@aiim.org](mailto:rpalarea@aiim.org?Subject=Privacy%20Policy,%20website%20security).
+If you have any questions about the security at our website, you can send an e-mail to [lmorris@aiim.org](mailto:lmorris@aiim.org). 
 
 **Site and Service Updates**  
 We also send the user site and service announcement updates. Registered users of the website and Members of AIIM International are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via e-mail or phone.
