@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605040608id_/http%3A//www.search-engine-placement-services.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208080805id_/http%3A//www.seologic.com/privacy.php) for the most accurate reproduction.*
 
-# SEO Logic Privacy Statement
+# Privacy Statement - SEO Logic
 
 Effective January 1, 2002
 
@@ -37,7 +37,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **How You Can Access Or Correct Your Information**  
-You can request that we delete your information by [emailing us](https://web.archive.org/web/20020605040608id_/http%3A//www.search-engine-placement-services.net/contact.html).
+You can request that we delete your information by [emailing us](http://www.seologic.com/contact.php).
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at (773) 661-1011 or send us email by clicking [here](https://web.archive.org/web/20020605040608id_/http%3A//www.search-engine-placement-services.net/contact.html).
+Should you have other questions or concerns about these privacy policies, please call us at (773) 661-1011 or send us email by clicking [here](http://www.seologic.com/contact.php).
