@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50states.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217224129id_/http%3A//50states.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50states.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405100648id_/http%3A//50states.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,6 @@ In the event you have a question about this important subject, visit the Federal
 
 [](http://www.50states.com/fileindx.htm) [](mailto:webmaster@50states.com)
 
-http://www.50states.com/privacy.htm  
-©Weber Publications, 1999-2000  
-Santa Clarita CA 91322Press Ctrl - D to bookmark this page.
+http://www.50states.com/  
+[© Pike Street Industries, Inc., 2002](mailto:webmaster@50states.com)  
+Issaquah, WA 98029Press Ctrl - D to bookmark this page.
