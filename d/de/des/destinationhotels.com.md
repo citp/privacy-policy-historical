@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210130151id_/http%3A//www.destinationhotels.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404045323id_/http%3A//www.destinationhotels.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Destination Hotels & Resorts
 
