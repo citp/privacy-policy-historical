@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408075625id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209181114id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
 
 # BookLocker.com
 
@@ -22,13 +22,11 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our site uses cookies to keep track of your shopping cart contents.
 
-Our site uses javascript, image tags and cookies from Webtrends Live to track, in aggregate, how many visitors the site gets and what pages are looked at. We do not, and cannot, match the actual identities of visitors to the site with specific pages of content with Webtrends Live data.
-
 This site contains links to other sites. BookLocker.com is not responsible for the privacy practices or the content of such Web sites. 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us in the following ways:
 
-Using the form [here](https://web.archive.org/web/20020408075625id_/http%3A//www.booklocker.com/help/contact.html).
+Using the form [here](https://web.archive.org/web/20021209181114id_/http%3A//www.booklocker.com/help/contact.html).
 
 Mailing us at:  
 Booklocker.com, Inc.  
