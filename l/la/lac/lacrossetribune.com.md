@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lacrossetribune.com privacy policy that was archived on 2003-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030730063232id_/http%3A//www.lacrossetribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrossetribune.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622135934id_/http%3A//www.lacrossetribune.com/privacy) for the most accurate reproduction.*
 
-# La Crosse Tribune - privacy policy
+# La Crosse Tribune - Privacy Policy
 
 **Welcome to the web sites of the La Crosse Tribune,** a media company located in western Wisconsin. We believe in your right to know what information is collected during your visit to our web sites and how the information is used and safeguarded. 
 
