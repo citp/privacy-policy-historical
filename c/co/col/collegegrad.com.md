@@ -1,28 +1,38 @@
-> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601185800id_/http%3A//collegegrad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209093435id_/http%3A//www.collegegrad.com/Privacy/index.shtml) for the most accurate reproduction.*
 
-# Collegegrad Internet Privacy Statement
+# CollegeGrad.com Internet Privacy Statement
 
-Privacy Information  
+  
+| 
+
+Privacy Statement  
 
 
 **Personal Information**   
-At College Grad Job Hunter, you can visit our site without telling us who you are or revealing any information about yourself. There are times, however, when we may request information from you, such as your name and address. It is our intent to let you know before we collect personal information from you on the Internet. Any request for information is purely voluntary. 
+Your privacy is important at CollegeGrad.com. This statement discloses the information practices for the CollegeGrad.com Web site, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
+
+In general, you can visit CollegeGrad.com without telling us who you are or revealing any information about yourself. There are times, however, when we or our partners may request information from you. It is our intent to let you know before we collect personal information from you on the Internet. Any request for information is purely voluntary. If you tell us that you do not want us to use this information as a basis for further contact with you, we will respect your wishes. 
 
 If you choose to give us personal information via the Internet, we will keep that information private unless expressly stated otherwise. We do keep track of the domains from which people visit us. We analyze this data for trends and statistics, and then we discard it. 
 
-**Business relationships**   
-We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.247media.com/privacy). 
+You may voluntarily post your resume at our site. It will be included in our resume database for restricted access by employers who are interested in job seekers. Your resume and the information contained therein will not be given away or sold to anyone outside of our site. 
 
-Our site contains links to other Web sites. College Grad Job Hunter is not responsible for the privacy practices or the content of such Web sites. 
+We produce an e-mail newsletter, the CollegeGrad.com Job Hunter Newsletter, which will be sent to you if you register at our site. You are given an opportunity to opt out of this newsletter if you do not wish to receive it. Your e-mail address is not sold or given out to anyone external to our site. 
+
+**Online advertising**   
+CollegeGrad.com has certain companies help us deliver our banner ads and other online communications. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. The information they collect is aggregated so it is not identifiable to a specific individual. If, however, you would prefer that these companies not collect information from your experience, please visit the PrivacyChoices site at [www.privacychoices.org](http://www.privacychoices.org/) and follow the “opt-out” instructions. 
+
+**Business relationships**   
+Our site contains links to other Web sites. CollegeGrad.com is not responsible for the privacy practices or the content of such Web sites. 
 
 **Cookies**   
-A cookie is an element of data that a Web site can send to your browser, which may then store it on your system in a filed named "cookies.txt" which is used to identify you to the site. We do not currently use cookie technology at our site. You can set your browser to notify you when you receive a cookie, giving you the chance to personally decide whether to accept it. 
+A cookie is an element of data that a Web site can send to your browser, which may then store it on your system in a filed named "cookies.txt" which is used to identify you to the site. We use cookies in order to store your personal preferences, but do not collect personal information about you. You can set your browser to notify you when you receive a cookie, giving you the chance to personally decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some areas of our site may not function properly. 
 
 If you have further questions on our Internet Privacy Statement or privacy at our site, you can [contact us online](https://web.archive.org/contact/index.shtml) or you can mail, phone, or fax us at: 
 
-CollegeGrad.com, Inc.  
-1629 Summit, Suite 200  
-Cedarburg, WI 53012-9399  
-Phone: 262-376-1000  
+CollegeGrad.com, Inc.   
+1629 Summit, Suite 200   
+Cedarburg, WI 53012-9399   
+Phone: 262-376-1000   
 Fax: 262-376-1030
-
+| 
