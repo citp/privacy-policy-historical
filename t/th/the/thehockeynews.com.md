@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehockeynews.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205204700id_/http%3A//www.thehockeynews.com/servlet/thn%3Fcp%3D5%26page%3DPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehockeynews.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024213648id_/http%3A//www.thehockeynews.com/en/static/static.asp%3Fpage%3DPrivacyPolicy.html%26new%3D0%26lieu%3D16) for the most accurate reproduction.*
 
 # thehockeynews.com
 
