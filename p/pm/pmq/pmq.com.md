@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231918id_/http%3A//www.pmq.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409053124id_/http%3A//pmq.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
