@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the channel4.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204194842id_/http%3A//www4.channel4.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel4.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601184207id_/http%3A//www3.channel4.com/privacy.html) for the most accurate reproduction.*
 
 # Channel 4 Information: PRIVACY POLICY
 
   
 **CHANNEL4.COM - PRIVACY STATEMENT**  
- **1\. 1 General Information**   
-Channel Four Television Corporation owns and is responsible for the content of a number of websites including, but not exclusively, www.channel4.com, www.filmfour.com, www.e4.com, www.homeworkhigh.com, www.4learning.co.uk, www.4car.co.uk and www.cricket4.com. Unless stated otherwise, this Privacy Statement applies only to the Channel4.com website. Any site belonging to Channel Four Television Corporation may have additional privacy statements that relate to their content, practices and use of personal information on each specific site. When visiting any of the Channel Four Television Corporation websites, it is recommended that users consult the individual privacy statements available. 
+**1\. 1 General Information**   
+Channel Four Television Corporation owns and is responsible for the content of a number of websites including, but not exclusively, [www.channel4.com](http://www.channel4.com/), www.homeworkhigh.com, www.4learning.co.uk, www.4car.co.uk and www.cricket4.com. Unless stated otherwise, this Privacy Statement applies only to the Channel4.com website. Any site belonging to Channel Four Television Corporation may have additional privacy statements that relate to their content, practices and use of personal information on each specific site. When visiting any of the Channel Four Television Corporation websites, it is recommended that users consult the individual privacy statements available. 
 
 **1.2 Channel4.com Privacy Statement**   
 Channel 4 Television Corporation will use any personal information collected from this website (www.channel4.com) in accordance with the UK Data Protection Act 1998. Further details on the UK Data Protection Act can be found at the website for [The Office of the Data Protection Commissioner](http://www.dataprotection.gov.uk/) Channel4.com has taken appropriate measures to keep secure and personal information given by user of this site. 
@@ -19,7 +19,7 @@ The information collected on this site includes:
 
 1.3.3 E-mail addresses and/or other contact details which users voluntarily provide in order to:   
 a) receive information from Channel 4 and/or our partners   
-b) register for competitions   
+b) register for competitions and other premium content   
 c) participate in discussion forums (See below).   
 Channel Four will not disclose voluntarily provided details to third parties or use the information in any other way without prior consent. On all pages where personal data is collected, specific details on the use of this information will be provided. 
 
