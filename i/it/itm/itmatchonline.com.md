@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itmatchonline.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012124036id_/http%3A//www.itmatchonline.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itmatchonline.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401182519id_/http%3A//www.itmatchonline.com/privacy_policy.php3) for the most accurate reproduction.*
 
 # Outsource Medical Transcription, Data Entry, Call Centre, Back-Office operations etc
 
@@ -14,6 +14,6 @@ Itmatchonline.com recognizes the importance of protecting the privacy of persona
 
 **5.** Outside Parties. From time to time, we are approached by companies and organizations that produce a product or service that we believe may be of interest to you. We see this as a value-added service helping you to find products or services to help you work or play smarter. We will from time to time share our mailing lists' e-mail addresses with very carefully selected parties outside Itmatchonline.com.  You can stop this from happening at any time by un-subscribing from the mailing lists.
 
-We hope you will find this privacy policy to your satisfaction. If you have any suggestions, comments or concerns, please [contact us](https://web.archive.org/web/20021012124036id_/http%3A//www.itmatchonline.com/feedback.htm).
+We hope you will find this privacy policy to your satisfaction. If you have any suggestions, comments or concerns, please [contact us](https://web.archive.org/web/20030401182519id_/http%3A//www.itmatchonline.com/feedback.htm).
 
 Thank you.
