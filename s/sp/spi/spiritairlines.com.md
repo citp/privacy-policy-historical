@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritairlines.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207193500id_/http%3A//spiritairlines.com/welcome.aspx%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritairlines.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305080937id_/http%3A//spiritairlines.com/welcome.aspx%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Spirit Airlines - Catch the Spirit!
 
