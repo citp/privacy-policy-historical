@@ -1,34 +1,52 @@
-> *The following text is extracted and transformed from the parkrecord.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216071328id_/http%3A//www.parkrecord.com/Stories/0%2C1413%2C122%25257E8198%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrecord.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609170919id_/http%3A//www.parkrecord.com/Stories/0%2C1413%2C122%25257E8198%25257E%2C00.html) for the most accurate reproduction.*
 
 # Park Record
 
 | [News](https://web.archive.org/Stories/0,1413,122%257E8129%257E,00.html)  
 ---  
-[Business](https://web.archive.org/Stories/0,1413,122%257E8132%257E,00.html)  
 [Today's Headlines](https://web.archive.org/Stories/0,1413,122%257E8138%257E,00.html)  
-[City/County](https://web.archive.org/Stories/0,1413,122%257E8134%257E,00.html)  
+[City ](https://web.archive.org/Stories/0,1413,122%257E8134%257E,00.html)  
+[County](https://web.archive.org/Stories/0,1413,122%257E8135%257E,00.html)  
+[Business](https://web.archive.org/Stories/0,1413,122%257E8132%257E,00.html)  
 [Education](https://web.archive.org/Stories/0,1413,122%257E8136%257E,00.html)  
 [Scene](https://web.archive.org/Stories/0,1413,122%257E8143%257E,00.html)  
 [Sports](https://web.archive.org/Stories/0,1413,122%257E8144%257E,00.html)  
-[Viewpoints](https://web.archive.org/Stories/0,1413,122%257E8149%257E,00.html)  
-[Professional Services](http://63.147.65.24/communitypg/prof.htm)  
 [Weather](https://web.archive.org/Stories/0,1413,122%257E8154%257E,00.html)  
-[Classifieds](http://localnet.abracat.com/park)  
-[MoreCities MoreChoices](http://www.abracat.com/abracat/index.jsp)  
-[Entertainment](https://web.archive.org/Stories/0,1413,122%257E8165%257E,00.html)  
+    
+[Viewpoints](https://web.archive.org/Stories/0,1413,122%257E8149%257E,00.html)  
+[Columnists](https://web.archive.org/Stories/0,1413,122%257E8147%257E,00.html)  
+[Letters to Editor](https://web.archive.org/Stories/0,1413,122%257E8148%257E,00.html)  
+[Today's Editorials](https://web.archive.org/Stories/0,1413,122%257E8149%257E,00.html)  
+[Cartoon](https://web.archive.org/Stories/0,1413,122%257E28062%257E,00.html)  
+[Write a Letter](https://web.archive.org/Stories/0,1413,122%257E8150%257E,00.html)  
+    
+[Community](https://web.archive.org/Stories/0,1413,122%257E27986%257E,00.html)  
+[Clubs](https://web.archive.org/Stories/0,1413,122%257E27988%257E,00.html)  
+[Meetings](https://web.archive.org/Stories/0,1413,122%257E27987%257E,00.html)  
+[Worship](https://web.archive.org/Stories/0,1413,122%257E27989%257E,00.html)  
+[Volunteers](https://web.archive.org/Stories/0,1413,122%257E27990%257E,00.html)  
+    
+[Entertainment](https://web.archive.org/Stories/0,1413,122%257E8160%257E,00.html)  
 [Audio](https://web.archive.org/Stories/0,1413,122%257E8161%257E,00.html)  
 [Book Reviews](https://web.archive.org/Stories/0,1413,122%257E8162%257E,00.html)  
 [Dining Guide](http://63.147.65.24/dining/index.htm)  
 [Movie Reviews](https://web.archive.org/Stories/0,1413,122%257E8165%257E,00.html)  
+    
+[Classifieds](http://localnet.abracat.com/park)  
+[MoreCities MoreChoices](http://www.abracat.com/abracat/index.jsp)  
+    
 [Services](https://web.archive.org/Stories/0,1413,122%257E8175%257E,00.html)  
 [Info/Feedback](https://web.archive.org/Stories/0,1413,122%257E8175%257E,00.html)  
-[Search Archives](http://search.newschoice.com/)  
+[Search Archives](https://web.archive.org/Stories/0,1413,122%257E8178%257E,00.html)  
 [Subscriptions](https://web.archive.org/Stories/0,1413,122%257E8182%257E,00.html)  
 [Advertising](http://63.147.65.24/mediakit/index.htm)  
+[Buy Photos](https://web.archive.org/Stories/0,1413,122%257E27979%257E,00.html)  
+    
+[Professional Services](http://63.147.65.24/communitypg/prof.htm)  
+    
 [Privacy Policy](https://web.archive.org/Stories/0,1413,122%257E8198%257E,00.html)  
-[](http://63.147.65.24/NewRealEstate/index.htm)
-
-|  [](http://www.qksrv.net/click-408787-8762571)
+  
+| 
 
 |    
 |  | **General Privacy Policy**  
@@ -133,17 +151,17 @@ We use a third-party advertising company to serve ads when you visit our Web sit
   
 * * *
 
-**© 1999-2002 MediaNews Group, Inc. ****** ** ****** |  Monday, December 16, 2002  
-12:13 AM MST
+**© 1999-2003 MediaNews Group, Inc. ****** ** ****** |  Monday, June 09, 2003   
+11:09 AM MST
 
 [](http://www.qksrv.net/click-408787-5319910)
 
-| [Lifestyles](https://web.archive.org/Stories/0,1413,122%257E8168%257E,00.html)  
+| [Lifestyles](https://web.archive.org/Stories/0,1413,122%257E8167%257E,00.html)  
 ---  
 [Horoscopes](https://web.archive.org/Stories/0,1413,122%257E8169%257E,00.html)  
 [Lottery Results](https://web.archive.org/Stories/0,1413,122%257E8170%257E,00.html)  
-[Park City Community](http://63.147.65.24/communitypg/index.htm)  
 [Soap Opera Recaps](https://web.archive.org/Stories/0,1413,122%257E8172%257E,00.html)  
+    
 [Featured Channels](http://www.abracat.com/)  
 [Real Estate Weekly](http://63.147.65.24/NewRealEstate/index.htm)  
 [Real Estate Weekly](http://63.147.65.24/NewRealEstate/index.htm)  
