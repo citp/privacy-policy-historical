@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the michaelhyatt.com privacy policy that was archived on 2002-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020408162836id_/http%3A//michaelhyatt.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the michaelhyatt.com privacy policy that was archived on 2002-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204193103id_/http%3A//www.michaelhyatt.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/support.dwt" --><head>
 <!-- #BeginEditable "doctitle" --> 
@@ -84,14 +84,60 @@ function MM_nbGroup(event, grpName) { //v3.0
 <link rel="stylesheet" type="text/css" href="/moreprivacy.css">
 </head>
 <body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/assets/images/bg_blue.jpg" onload="MM_preloadImages('/assets/images/mh_button_home_click.jpg', '/assets/images/mh_button_home_on.jpg','/assets/images/mh_button_newbook_click.jpg','/assets/images/mh_button_newbook_on.jpg','/assets/images/mh_button_assessment_click.jpg','/assets/images/mh_button_assessment_on.jpg','/assets/images/mh_button_email_click.jpg','/assets/images/mh_button_email_on.jpg','/assets/images/mh_button_discussion_click.jpg','/assets/images/mh_button_discussion_on.jpg','/assets/images/mh_button_feedback_click.jpg','/assets/images/mh_button_feedback_on.jpg')">
-<!-- #BeginLibraryItem "/Library/Banner Ad - Top.lbi" -->
-<table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-  <tbody><tr> 
-    <td align="left" valign="top" height="55" width="52" bgcolor="#FFFFFF">&nbsp;</td>
-    <td width="587" align="center" valign="top"><a href="http://www.moreprivacy.com/cgi-bin/pl.cgi?zapw"><img src="/assets/images/ba_zonealarm.gif" border="0" width="468" height="60" alt="Zone Alarm Pro"></a></td>
-  </tr>
-</tbody></table>
-<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Masthead.lbi" --><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<!-- #BeginLibraryItem "/Library/Masthead.lbi" -->
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tbody><tr> 
     <!-- left border -->
     <td height="228" width="43" valign="top"><img src="/assets/images/mh_banner_left.jpg" width="43" height="228"></td>
@@ -132,9 +178,9 @@ function MM_nbGroup(event, grpName) { //v3.0
                 <td width="19" height="44" valign="top">&nbsp;</td>
                 <td width="76" valign="top"><a href="/index.htm" onclick="MM_nbGroup('down','group1','home','/assets/images/mh_button_home_click.jpg',1)" onmouseover="MM_nbGroup('over','home','/assets/images/mh_button_home_on.jpg','',1)" onmouseout="MM_nbGroup('out')"><img name="home" src="/assets/images/mh_button_home.jpg" border="0" onload="" width="76" height="44" alt="Return to the home page"></a></td>
                 <td width="99" valign="top"><a href="/book/book.htm" onclick="MM_nbGroup('down','group1','newbook','/assets/images/mh_button_newbook_click.jpg',1)" onmouseover="MM_nbGroup('over','newbook','/assets/images/mh_button_newbook_on.jpg','',1)" onmouseout="MM_nbGroup('out')"><img name="newbook" src="/assets/images/mh_button_newbook.jpg" border="0" onload="" width="99" height="44" alt="Preview Michael's New Book"></a></td>
-                <td width="100" valign="top"><a href="/assessment.htm" onclick="MM_nbGroup('down','group1','assessment','/assets/images/mh_button_assessment_click.jpg',1)" onmouseover="MM_nbGroup('over','assessment','/assets/images/mh_button_assessment_on.jpg','',1)" onmouseout="MM_nbGroup('out')"><img name="assessment" src="/assets/images/mh_button_assessment.jpg" border="0" onload="" width="100" height="44" alt="Take our free Privacy Self-Assessment"></a></td>
+                <td width="100" valign="top"><a href="/assessment.htm" onclick="MM_nbGroup('down','group1','assessment','/assets/images/mh_button_assessment_click.jpg',1)" onmouseover="MM_nbGroup('over','assessment','/assets/images/mh_button_assessment_on.jpg','',1)" onmouseout="MM_nbGroup('out')"><img name="assessment" src="assets/images/mh_button_assessment.jpg" border="0" onload="" width="100" height="44" alt="Take our free Privacy Self-Assessment"></a></td>
                 <td width="99" valign="top"><a href="/email.htm" onclick="MM_nbGroup('down','group1','email','/assets/images/mh_button_email_click.jpg',1)" onmouseover="MM_nbGroup('over','email','/assets/images/mh_button_email_on.jpg','',1)" onmouseout="MM_nbGroup('out')"><img name="email" src="/assets/images/mh_button_email.jpg" border="0" onload="" width="99" height="44" alt="Learn about our Free E-mail Newsletter"></a></td>
-                <td width="99" valign="top"><a href="http://www.moreprivacy.com/cgi-bin/pl.cgi?dgw" onclick="MM_nbGroup('down','group1','discussion','/assets/images/mh_button_discussion_click.jpg',1)" onmouseover="MM_nbGroup('over','discussion','/assets/images/mh_button_discussion_on.jpg','',1)" onmouseout="MM_nbGroup('out')"><img name="discussion" src="/assets/images/mh_button_discussion.jpg" border="0" onload="" width="99" height="44" alt="Visit our MorePrivacy.com Discussion Group"></a></td>
+                <td width="99" valign="top"><a href="http://pub11.ezboard.com/bmoreprivacy" onclick="MM_nbGroup('down','group1','discussion','assets/images/mh_button_discussion_click.jpg',1)" onmouseout="MM_nbGroup('out')" onmouseover="MM_nbGroup('over','discussion','assets/images/mh_button_discussion_on.jpg','',1)"><img name="discussion" src="/assets/images/mh_button_discussion.jpg" border="0" onload="" width="99" height="44" alt="Visit our MorePrivacy.com Discussion Group"></a></td>
                 <td width="74" valign="top"><a href="/feedback.htm" onclick="MM_nbGroup('down','group1','feedback','/assets/images/mh_button_feedback_click.jpg',1)" onmouseover="MM_nbGroup('over','feedback','/assets/images/mh_button_feedback_on.jpg','',1)" onmouseout="MM_nbGroup('out')"><img name="feedback" src="/assets/images/mh_button_feedback.jpg" border="0" onload="" width="74" height="44" alt="Contact us"></a></td>
                 <td width="21" valign="top">&nbsp;</td>
               </tr>
@@ -260,7 +306,7 @@ function MM_nbGroup(event, grpName) { //v3.0
 		writeThis = ("<a href=mailto:?SUBJECT=A%20Privacy%20Article%20You%20Should%20Read&BODY=I%20thought%20you%20might%20find%20the%20following%20article%20interesting:%20" + this.location
 		+ ".%20Let%20me%20know%20what%20you%20think. title='Click here to send this page to a friend. This feature only works if Outlook or Outlook Express is your e-mail program.'>Send This Page to a Friend</a>")
 		document.writeln(writeThis);		
-		</script><a href="mailto:?SUBJECT=A%20Privacy%20Article%20You%20Should%20Read&amp;BODY=I%20thought%20you%20might%20find%20the%20following%20article%20interesting:%20https://web.archive.org/web/20020408162836id_/http%3A//michaelhyatt.com/privacy.htm.%20Let%20me%20know%20what%20you%20think." title="Click here to send this page to a friend. This feature only works if Outlook or Outlook Express is your e-mail program.">Send This Page to a Friend</a>
+		</script><a href="mailto:?SUBJECT=A%20Privacy%20Article%20You%20Should%20Read&amp;BODY=I%20thought%20you%20might%20find%20the%20following%20article%20interesting:%20https://web.archive.org/web/20021204193103id_/http%3A//www.michaelhyatt.com/privacy.htm.%20Let%20me%20know%20what%20you%20think." title="Click here to send this page to a friend. This feature only works if Outlook or Outlook Express is your e-mail program.">Send This Page to a Friend</a>
 
               &nbsp; <a href="http://www.moreprivacy.com/cgi-bin/MasterPFP.cgi?doc=http://www.moreprivacy.com/privacy.htm&amp;top=http://www.moreprivacy.com/privacy.htm&amp;bottom=http://www.moreprivacy.com/privacy.htm" class="pagefeatures"> 
               <img src="/assets/images/mi_print_friendly.gif" border="0">Display 
@@ -379,7 +425,8 @@ function MM_nbGroup(event, grpName) { //v3.0
     </td>
   </tr>
 </tbody></table>
-<!-- #EndLibraryItem --><!-- End right sidebar -->
+<!-- #EndLibraryItem -->
+            <!-- End right sidebar -->
           </td>
           <td width="1"></td>
         </tr>
