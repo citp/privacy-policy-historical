@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackboard.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203053051id_/http%3A//blackboard.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboard.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605064456id_/http%3A//blackboard.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,6 +73,8 @@ If you reside in the European Union, upon registration you will be indicating yo
 If Blackboard changes this privacy statement, we will post those changes at [/legal/privacy.htm](https://web.archive.org/legal/privacy.htm), so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. By using Blackboard.com or its Services, you signify your assent to the Blackboard.com Privacy Policy Statement. If you do not agree to this statement, please do not use the Blackboard.com Web site or its Services. Your continued use of Blackboard.com or its Services following the posting of changes to these terms will mean you accept those changes. 
 
 **10\. Contact Blackboard**
+
+If you have any questions about this privacy statement or this Web site, please contact us electronically [/about/contact/index.htm](https://web.archive.org/about/contact/index.htm) or write to: 
 
 Webmaster  
 Blackboard Inc.  
