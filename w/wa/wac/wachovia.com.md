@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204060904id_/http%3A//www.wachovia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403215649id_/http%3A//www.wachovia.com/privacy) for the most accurate reproduction.*
 
 # Wachovia Privacy Statement
 
@@ -8,13 +8,13 @@
 
 * * *
 
-## Privacy At a Glance
+**Privacy At A Glance**
 
-Wachovia1 is your partner in helping you achieve your financial goals.  We are dedicated to providing you with the highest level of service and protecting your privacy.  As technology continues to transform the way information is collected and distributed, we want to make sure you know that we have implemented important practices for safeguarding the privacy and security of financial information about you.
+Wachovia is your partner in helping you achieve your financial goals.  We are dedicated to protecting your privacy and providing you with the highest level of service.  As technology continues to transform the way information is collected and distributed, we want you to know that we have implemented important procedures and practices designed to safeguard the privacy and security of financial information about you.
 
   * We employ safeguards to protect customer information and to prevent fraud.
   * We carefully manage information about you among the companies that make up Wachovia.  By understanding your complete relationship with us, we can provide you with more personalized and efficient service.
-  * We do not sell customer information to other companies for marketing purposes.   
+  * We do not provide customer information to other companies for their own marketing purposes.  However, we have agreements with a limited number of companies to jointly offer financial products that Wachovia does not directly provide.
 
 
 
@@ -24,19 +24,41 @@ _You Have Choices_
     * Telephone,
     * Direct mail, or
     * E-mail.
-  * You may direct us not to share, within Wachovia, non-transactional information about you (such as credit or employment history) that we receive from others.
+  * You may direct us not to share, within Wachovia, credit information about you that we receive from you or others.
 
 
 
 _How to Reach Us to Exercise Your Choices_
 
   * Visit a Wachovia financial center.
-  * Call us at (866) 203-5722 to speak to a representative (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114).
-  * Complete our online [Consumer Privacy Preference Form](https://web.archive.org/personal/forms/privacy_optout).
+  * Call us at (866) 203-5722 to speak to a representative (Command Asset Program, IRA, Brokerage and Insurance customers should call (877) 358-1114).
+  * Complete our online [Consumer Privacy Preference Form](https://www.wachovia.com/personal/forms/privacy_optout).
 
 
-  *   *   *   *   * 
 
+_How You Can Help Protect Your Privacy_
+
+  * Do not share your account information, passwords, user ID’s, PINs, code words or other confidential information with others.
+  * Do not provide confidential information by telephone to unknown callers. 
+  * Do not provide confidential information online unless you initiated the contact, know the party with whom you are dealing, and provide the information through a secure channel.
+  * When conducting business over the Internet, always use a secure browser and exit online applications as soon as you finish using them.
+  * Protect and properly dispose of your account records.
+  * If you believe you are a victim of fraud or identity theft, please contact us at (888) 647-3648 for assistance, which may include placing holds on your accounts.  Also, see the “Identity Theft Assistance” section of our Privacy Statement for additional information.
+
+
+
+**Since this page is a summary, it is important that you read the rest of this statement.**  
+
+
+How We Secure Your Assets and Protect Information About You  
+How We Protect Your Privacy Online  
+How We Gather Information to Understand Your Financial Needs  
+How We Manage Information to Serve Your Needs  
+Your Choices as a Customer  
+Identity Theft Assistance  
+How to Limit Direct Marketing from Other Companies  
+We Strive to Maintain Accurate Information  
+If You Have Questions, Contact Us
 
 ## How We Secure Your Assets and Protect Information About You
 
@@ -55,12 +77,12 @@ _How to Reach Us to Exercise Your Choices_
 
 Protecting customer information online is an essential part of our service to you.
 
-  * Our systems use technologies such as firewalls (which protect systems from intrusion) and encryption (scrambling of information) to protect customer information.
+  * Our systems use technologies such as firewalls (which are designed to protect systems from intrusion) and encryption (scrambling of information).
   * We validate your identity through confidential access codes before we allow online access to your accounts.
 
 
 
-For more information on our Internet security measures, please visit our [Security Statement](http://www.wachovia.com/security).
+For more information on our Internet Security measures, please visit our [Security Statement](https://web.archive.org/inside/legal_footer/0,,2161,00.html) .
 
  Back to Top
 
@@ -70,11 +92,11 @@ The information we gather about you helps us to better understand your financial
 
 The information we gather comes from a variety of sources, including:
 
-  * Information you provide to us (such as information on applications about assets and income)
-  * Information related to your transactions with Wachovia (such as account balance and payment history)
-  * Information we receive from credit reporting agencies and other companies (such as your credit history) when you apply for a service
-  * Information we obtain from others at your request (such as information about assets held at another institution for inclusion in a financial plan) 
-  * Information obtained when you use Internet products and services (such as application and transaction information and information contained in e-mails you send us)
+  * Information you provide to us (such as information on applications about assets and income).
+  * Information related to your transactions with Wachovia (such as account balance and payment history).
+  * Information we receive from credit reporting agencies and other companies (such as your credit history) when you apply for a service.
+  * Information we obtain from others at your request (such as information about assets held at another institution for inclusion in a financial plan).
+  * Information obtained when you use Internet products and services (such as application and transaction information and information contained in e-mails you send us).
 
 
 
@@ -88,12 +110,12 @@ _Within Wachovia Corporation_
 
 We consolidate information about customers within the companies that make up Wachovia Corporation, including: 
 
-  * Information based on your transactions with us (for example, information that we would collect about your loan amounts and deposits with us in order to offer you a rate based on total balances) and contact information (such as your name and address)  
-  * Non-transactional information received from others (such as credit or employment history) to evaluate your eligibility for various financial services (for example, a line of credit at a special rate)
+  * Information based on your transactions with us (for example, information that we would collect about your loan amounts and deposits with us in order to offer you a rate based on total balances) and contact information (such as your name and address). 
+  * Credit information received from you or others (such as information from your credit application or your employment or credit history) to evaluate your eligibility for various financial services (for example, a line of credit at a special rate).
 
 
 
-You may tell us not to share non-transactional information with other Wachovia companies*.  For more information, see the section below entitled, Your Choices as a Customer.
+You may tell us not to share credit information with other Wachovia companies*.  For more information, see the section below entitled, Your Choices as a Customer.
 
 _Outside of Wachovia Corporation_
 
@@ -101,19 +123,19 @@ Other than limited exceptions like those below, we do not provide customer infor
 
 In order to serve your needs, we may provide all of the information we gather to:
 
-  * specialists that perform business operations for us (such as check printing)
-  * companies that act on our behalf to market our services, or companies with whom we have entered into a joint marketing agreement in order to provide you with valuable financial services that we do not offer  (such as credit cards)*
-  * others only as permitted or required by law (such as to protect against fraud or in response to a subpoena)
+  * Service providers that perform business operations for us (such as check printing)
+  * Companies that act on our behalf to market our services, or companies with whom we have entered into a joint marketing agreement in order to provide you with valuable financial services that we do not offer  (such as credit cards)*
+  * Others only as permitted or required by law (such as to protect against fraud or in response to a subpoena)
 
 
 
-We select very carefully the companies that provide services on our behalf, or offer you financial services that we do not provide.  Also, we only provide them with information that we believe is necessary to fulfill their responsibilities or to provide a financial service to you. These companies are prevented by legal agreement from using this information for their own purposes or selling this information to others.
+We select very carefully the companies that provide services on our behalf, or offer you financial services that we do not provide.   Also, we only provide them with information that we believe is necessary to fulfill their responsibilities or to provide a financial service to you. These companies are prevented by legal agreement from using this information for their own purposes or selling this information to others.
 
 ***Other Applicable Laws**
 
-The practices described above are in accordance with federal law.  We may also be subject to other privacy requirements under applicable state law.  For example, Vermont law places additional limits on sharing information about Vermont residents.  So long as they remain residents of Vermont, we will not share information we collect about Vermont residents with companies outside of Wachovia, except:
+The practices described above are in accordance with federal law.   You may have other protections under applicable state laws, such as Vermont and California.  To the extent these state laws apply, we will comply with them when we share information about you.  For example, Vermont law places additional limits on sharing information about Vermont residents.  As long as they remain residents of Vermont, we will not share information we collect about Vermont residents to companies outside of Wachovia, except:
 
-  * With companies that perform marketing or other services on our behalf;
+  * To companies that perform marketing or other services on our behalf;
 
   * Contact information (like name and address), and transaction information (such as your payment history) to other financial institutions with which we have joint marketing agreements;
 
@@ -124,7 +146,7 @@ The practices described above are in accordance with federal law.  We may also 
 
 
 
-We also will not share non-transactional information about Vermont residents received from others within Wachovia except with the authorization or consent of the Vermont resident. 
+We also will not share credit information about Vermont residents received from others within Wachovia except with the authorization or consent of the Vermont resident. 
 
  Back to Top
 
@@ -133,21 +155,24 @@ We also will not share non-transactional information about Vermont residents rec
 We are committed to helping you manage your finances in the most effective way, and helping you maximize the return on your financial investments.  For these reasons, we may contact you to offer financial advice and inform you of different options that may be of value to you.  If you are comfortable with the ways in which we contact you currently, there is no need to indicate your preferences.  We recognize, however, that you may wish to limit the ways in which we contact you for marketing purposes and we offer the options listed below:
 
   1. Please do not contact me by telephone for marketing purposes.
+
   2. Please do not contact me by mail for marketing purposes.
+
   3. Please do not contact me by e-mail for marketing purposes.
 
 
 
-You also have a choice about how information about you is managed within Wachovia.  If you prefer that we not share non-transactional information about you with other Wachovia companies, you may choose the following option:
 
-  4. Please do not share, among Wachovia companies, non-transactional information about me that you receive from others.
+You also have a choice about how information about you is managed within Wachovia.   If you prefer that we not share credit information about you with other Wachovia companies, you may choose the following option:
+
+  4. Please do not share, among Wachovia companies, credit information about me that you receive from me or others.
 
 
 
 
 Whatever your preferences, we will honor your wishes and respect your privacy.  Your preferences will remain in effect until you tell us otherwise.  You do not need to notify us if you have already indicated your preferences to us. 
 
-To discuss your options, inform us of a preference, or provide us with feedback, call us at (866) 203-5722 (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114), visit a Wachovia financial center or complete our online [Consumer Privacy Preference Form](http://www.wachovia.com/personal/forms/privacy_optout).
+**To discuss your options, inform us of a preference, or provide us with feedback, call us at (866) 203-5722 (Command Asset Program, IRA, Brokerage and Insurance customers should call (877) 358-1114), visit a Wachovia financial center or complete our online  [Consumer Privacy Preference Form](https://www.wachovia.com/personal/forms/privacy_optout)** **.**
 
 If you contact us, we will assume your preferences apply to you only - unless you tell us that they also apply to other individuals listed on your accounts.
 
@@ -159,18 +184,21 @@ Please note that we are committed to providing you with superior service.  Occa
 
 If you believe you may be a victim of identity theft:
 
-  1. Contact us at 888-647-3648 to place holds on your accounts, obtain a free copy of Wachovia’s [Customer Fraud Assistance Package](https://web.archive.org/file/new_fraud_0728.pdf)  or for other assistance.  
+  1. Contact us at (888) 647-3648 to place holds on your accounts, obtain a free copy of Wachovia’s [Customer Fraud Assistance Package](https://web.archive.org/file/new_fraud_0728.pdf)   or for other assistance.  
+
   2. Contact the Social Security Administration’s Fraud Hotline at (800) 269-0271 to report fraudulent use of your identification information.
-  3. Report the incident as quickly as possible to the credit reporting agencies:
 
-
-
+  3. Report the incident as quickly as possible to any one of the credit reporting agencies:
 
 > | Experian | (888) 397-3742  
 > ---|---  
 > Equifax | (800) 525-6285  
 > Trans Union | (800) 680-7289  
-  
+>   
+>  You should review a current credit bureau report to identify any unauthorized accounts or inquiries and ask the credit reporting agency about placing a Victim Alert Flag on your files.
+
+
+
   4. File a police report in your local jurisdiction and retain the report number and the name of the officer who took the report.
   5. File a complaint with the Federal Trade Commission (FTC) by contacting the FTC’s Identity Theft Hotline: (877) IDTHEFT.
 
@@ -180,18 +208,28 @@ If you believe you may be a victim of identity theft:
 
 ## How to Limit Direct Marketing from Other Companies
 
-DMA Mail Preference Service  | DMA Telephone Preference Service  
----|---  
-PO Box 643  | PO Box 1559  
-Carmel, NY 10512 | Carmel, NY 10512  
+To limit the instances in which credit reporting agencies share your information with companies wishing to offer you pre-approved credit solicitations, you can call 888-567-8688 (the Credit Reporting Industry Pre-screening Opt Out Number). 
+
+To limit the marketing you receive by mail and by e-mail from companies outside of Wachovia, you may contact the Direct Marketing Association (DMA) at the addresses below and request that your information be placed on its do not contact lists.  You must include your name, address, telephone number and signature with your request.
+
+DMA Mail Preference Service   
+---  
+PO Box 643   
+Carmel, NY 10512  
   
-[Email Preference Service](http://www.dmaconsumers.org/optoutform_emps.shtml)
+[DMA Email Preference Service](http://www.dmaconsumers.org/optoutform_emps.shtml)  
+
+To limit telemarketing calls from companies outside of Wachovia, you may add your telephone number to the National Do Not Call list through the following Web site:
+
+[donotcall.gov](http://www.donotcall.gov/)
+
+Registration with the National Do Not Call list will not affect the preference you may have provided to Wachovia regarding being contacted by telephone about Wachovia products and services.  To direct Wachovia not to contact you by telephone to offer its products or services, please see the section titled Your Choices as a Customer.
 
  Back to Top
 
 ## We Strive to Maintain Accurate Information
 
-We strive to maintain complete and accurate information about you and your accounts.  If you ever believe that our records contain inaccurate or incomplete information about you, please let us know immediately.  We are committed to resolving any inaccuracies as quickly as possible.
+We strive to maintain complete and accurate information about you and your accounts.   If you ever believe that our records contain inaccurate or incomplete information about you, please let us know immediately.  We are committed to resolving any inaccuracies as quickly as possible.
 
 _Credit Reporting Agencies_
 
@@ -201,9 +239,9 @@ If you believe we have reported inaccurate information about your account to any
 
 ## If You Have Questions, Contact Us
 
-We welcome the opportunity to answer any questions you may have about this statement or the safeguarding and confidentiality of your information.  For more information, please read our [Internet Privacy](http://www.wachovia.com/inside/legal_footer/0,,2157_2158,00.html) section, visit a Wachovia financial center, or call us at (866) 203-5722 (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114) to speak to a representative.
+We welcome the opportunity to answer any questions you may have about this statement or the safeguarding and confidentiality of customer information.   For more information, please read our [Internet Privacy](https://web.archive.org/inside/legal_footer/0,,2157_2158,00.html)  section, visit a Wachovia financial center, or call us at (866) 203-5722 (Command Asset Program, IRA, Brokerage and Insurance customers should call (877) 358-1114) to speak to a representative. 
 
-1 Wachovia Corporation, or Wachovia, includes multiple companies, such as Wachovia Bank, N.A., Wachovia Mortgage Corporation and Wachovia Securities, LLC. This Privacy Statement applies to all Wachovia companies unless the Wachovia company provides notice that a separate Privacy Statement applies to that company.  This Privacy Statement explains how we handle and protect information and replaces any Privacy Statements previously provided.  The Privacy Statement applies to consumers who are customers or former customers of Wachovia companies and have established relationships with Wachovia in the United States.  The policies and practices described in this Privacy Statement are subject to change, but we will notify you of any significant changes.
+ Back to Top
 
   
 
