@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2004-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040513172239id_/http%3A//www.goldenhelix.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212220034id_/http%3A//www.goldenhelix.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Golden Helix, Inc. | Privacy Statement
 
-|  |  |  | 
-
-Golden Helix, Inc. | Privacy Statement
-
-|   
----|---|---  
----  
-  
 |  |   
   
 ---|---  
@@ -46,7 +38,7 @@ The information we learn from visitors helps us continually improve our informat
   
 **Automatic Information:** Like many Web sites, we use "cookies," and we obtain certain types of information when you interact with us in response to an email offering by clicking on a hyperlink in the email. If you are just browsing our site from your web browser, we do not use any cookies. To keep the playing field level, we want you to know that there are internet tools that are designed to let you visit web sites incognito, such as [www.anonymizer.com](http://www.anonymizer.com/), [www.IDzap.com](http://www.idzap.com/), [www.somebody.net](http://www.somebody.net/), and [www.zeroknowledge.com](http://www.zeroknowledge.com/). We do not advise against or recommend any of these tools, we only offer them for your education.
 
-**E-mail Communications:** To help us make e-mails more useful and interesting, we sometimes receive a confirmation when you open e-mail from Golden Helix. If you do not want to receive e-mail or other mail from us, please notify us at [unsubscribe@goldenhelix.com.](mailto:unsubscribe) You also may 'opt-out' of having your information used for purposes not directly related to our site at the point where we ask for the information. We provide an “opt out” option if you do not wish to receive unsolicited email marketing materials from us.  
+**E-mail Communications:** To help us make e-mails more useful and interesting, we sometimes receive a confirmation when you open e-mail from Golden Helix. If you do not want to receive e-mail or other mail from us, please notify us by clicking [here](mailto:unsubscribe@goldenhelix.com). You also may 'opt-out' of having your information used for purposes not directly related to our site at the point where we ask for the information. We provide an “opt out” option if you do not wish to receive unsolicited email marketing materials from us.  
   
   
 Golden Helix’ Use of Personal Information
