@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepkidshealthy.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212022616id_/http%3A//www.keepkidshealthy.com/welcome/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepkidshealthy.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607215020id_/http%3A//www.keepkidshealthy.com/welcome/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Keep Kids Healthy
 
