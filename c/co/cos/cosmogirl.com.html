@@ -1,15 +1,19 @@
-<!--The following is the downloaded HTML source of the cosmogirl.com privacy policy that was archived on 2004-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040622102320id_/http%3A//www.cosmogirl.com/magazine/winit/spc/0%2C%2C622478%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cosmogirl.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208185305id_/http%3A//www.cosmogirl.com/magazine/winit/spc/0%2C%2C622478%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
 
+	
   <title>Terms of Use and Privacy Policy</title>
   <meta name="description" content="">
   <meta name="keywords" content="Terms of Use and Privacy Policy">
   <meta name="priority" content="">
+  
+  
+  
 
-  <script language="JavaScript">
-var cimsCid = '';
+  <script type="text/javascript" language="JavaScript">
+var cimsCid = '621266';
 var cimsUid = '622478';
 </script>
 <link rel="stylesheet" type="text/css" href="/xchannel/stylesheets/0,,,00.css">
@@ -40,26 +44,130 @@ if (navigator.plugins) {
 	} 
 }
 </script>
-	</head>
+	
+<!-- begin style sheet here -->
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="background">
-<table width="800" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td colspan="3">
-			
+<style>
+	.background { background-color:#CDC8BC }
+	a.close { position:absolute; right:0; bottom:0; }
+	.downleft {position:relative; top:20%; bottom:0; left:10%; right:0; margin:1em; }
+	.pollquestion { font-family:arial;font-weight:bold; font-size:11px;color:#; }
+	.pollanswer { font-family:arial;font-weight:bold; font-size:11px;color:#; }
+	.qotdtext  { font-family:arial;font-weight:bold; font-size:11px;color:#; }
+	.ouchtext  { font-family:arial;font-weight:bold; font-size:11px;color:#; }
+	.cgpink { font-family:arial;font-weight:bold; font-size:11px;color:#; }
+	.touthed { font-family:arial;font-weight:bold; font-size:11px;color:#; }
+	.toutdek { font-family:arial;font-weight:normal; font-size:11px;color:#; }
+	.leftNavLayer { position:relative; z-index: 1; left: 5px; top: -50px; width: 10px; height: 50px; visibility: visible; }
+	.ouchArtHed { font-family:arial;font-weight:bold; font-size:26px;color:#FF20A6; }
+	.ouchArtDek { font-family:arial;font-weight:bold; font-size:11px;color:#000000; }
+	.bottBoys { font-family:arial;font-weight:bold; font-size:11px; }
+		
+	.pollpos { position:relative; top:141; left:-5 }
+	.ouchpos { position:relative; top:100; left:-5 }
+	.qotdpos { position:relative; top:62; left:190 }
+	.qotdvertpos { position:relative; top:55; left:190 }
+	.bottoutpos { position:relative; top:75; left:140 }
+	
+	.quizdektxt {font-family:verdana; font-weight:normal; font-size:10px; color:#000000}
+	.quizanswertxt { font-family:verdana; font-weight:normal; font-size:10px; color:#000000 }
+	.quizquestiontxt { font-family:verdana; font-weight:bold; font-size:11px; color:#FF0099 }
+	.quizpageof { font-family:verdana; font-weight:normal; font-size:10px; color:#FF0099 }
+
+	.footer	{ font-family:arial;font-weight:normal; font-size:11px; color:black; text-decoration:none }
+	a.footer	{ font-family:arial;font-weight:normal; font-size:11px; color:black; text-decoration:none }	
+	p { margin:2px 0px 0px 5px ; }
+	td.midtout 	{ background-color:#; }
+	td.adWell 	{ background-color:#00A5D2; }
+	.btmtout 	{ border-width:1px 1px 1px 1px; border-style:solid; width:295px}
+	td.offset8grey {background: white url(http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/gutter_sec2.gif) top left repeat-y scroll;}
+	td.ouchArt 	{ background-color:#FFFF00; }
+	td.ouchMore	{ background-color:#FF34FF; }
+
+</style>
+<!-- end style sheet here -->
+
+<!-- begin JavaScript here -->
+<script language="javascript">
+<!--
+
+var section = "home";
+var actLayer = "none";
+
+function resetAllButtons() {
+	for (i = 0; i < buttonList.length; i++) {
+		flip(buttonList[i],0);
+	}
+}
+
+function fullResetButtons() {
+	var actLayer = "none";
+	for (i = 0; i < layerList.length; i++) {
+		thisimage = layerList[i];
+		if (document[thisimage] && thisimage != section) document[thisimage].src = eval(thisimage+'_off.src');
+	}
+}
+
+function flip(name,over) {
+	if (document.images && (name != section)) {
+		image = (over == 1) ? eval(name+"_on.src") : eval(name+"_off.src");
+		if (name != actLayer) document[name].src = image;
+	}
+}
+
+menuTimer = setTimeout("actLayer='none',clearAll()",3000);
+
+function clearMenus() {
+	menuTimer = setTimeout("actLayer='none',clearAll()",3000);
+}
+
+function clearAll() {
+	var actLayer = "none";
+	fullResetButtons();
+}
+
+function subForm() {document.myForm.submit()}
+
+function todaysDate() {
+	var todayDate = new Date();
+	tmpDate = todayDate.toLocaleString().split(",");
+	tmpYear = tmpDate[2].split(" ");
+	document.write("<span class=cgtimeyellow>" + tmpDate[1] + ", " + tmpYear[1] + "</span>");
+}
+
+// For horoscope jumping
+function go_scope(i) {
+	if (i == 0) {
+		return false;
+	}
+	g_WINDOW_FLAG = false;
+	location.href = '/guys/dailyhoroscopes/' + i;
+}
+//-->
+</script>
+<!-- end JavaScript here -->
+</head>
+
+<body bgcolor="#CDC8BC" maginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+<script language="javascript" src="http://www.cosmogirl.com/stc/exitpop.js"></script>
+<center>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="3">
 	<!-- Header Tracking Version 1.1 -->
 
-	
-	<script language="javascript" src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/includes/iv_header.js"></script>
+		
+		<script type="text/javascript" language="javascript" src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/includes/iv_header.js"></script>
 	
 <script language="JavaScript">
 // Tacoda category stamp
 var dartCatStamp = "cosmogirl";
 Tacoda_AMS_DDC_addPair("dartCatStamp", dartCatStamp);
 </script>
-	<table cellspacing="0" cellpadding="0" border="0" width="800" class="background">
-		<tbody><tr><td><img src="http://i.ivillage.com/i/t.gif" border="0" width="5" height="10"></td></tr>
-		<tr align="center"><td align="center">
+	<script language="javascript" src="http://www.ivillage.com/arrival/include/0,,621266,00.js"></script>
+	<table cellspacing="0" cellpadding="0" border="0" class="background">
+	<tbody><tr><td><img src="/i/t.gif" border="0" width="5" height="10"></td></tr>
+		<tr><td align="left" valign="bottom">
 			
 <!-- V/5 generated DART tag v2.1 --><!-- sstype=other -->
 <!--DART params(1|621266|/cosmogirl/magazine/winit/spc:622478)--><script>
@@ -69,6 +177,7 @@ if (!document.dartFTT) document.dartFTT = ''
 if (!document.dartTData) document.dartTData = ''
 if (!document.dartTid) document.dartTid = ''
 if (!document.catid) document.catid = ''
+if (!document.ivrtt) document.ivrtt = '';
 
 if (!document.ivNPA) {
     qs = location.search.substring(1).split('&');
@@ -85,302 +194,200 @@ if (!document.checkedPBA) {
         if (qs[i].substring(0, pos) == 'pba') { document.arrival_pba = unescape(qs[i].substring(pos+1)+';!category=nopopup;!category=nopopunder;'); document.checkedPBA = 1; break; }
     }
 }
-      document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;'+document.arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+'sz=468x60;pos=1;tile=1;dcopt=ist;ord=231910?></scr'+'ipt>')
-	  </script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=468x60;pos=1;tile=1;dcopt=ist;ord=231910?"></script>
+      document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;'+document.arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+document.ivrtt+'sz=468x60;pos=1;tile=1;dcopt=ist;ord=525818?></scr'+'ipt>')
+	  </script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=468x60;pos=1;tile=1;dcopt=ist;ord=525818?"></script>
 
 
-<noscript><a href="http://iv.doubleclick.net/jump/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=468x60;pos=1;tile=1;dcopt=ist;ord=231910?"><img src="http://iv.doubleclick.net/ad/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=468x60;pos=1;tile=1;dcopt=ist;ord=231910?" border=0 width=468 height=60 alt="Click Here!"></a></noscript><!-- End DART Tag -->
+<noscript><a href="http://iv.doubleclick.net/jump/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=468x60;pos=1;tile=1;dcopt=ist;ord=525818?"><img src="http://iv.doubleclick.net/ad/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=468x60;pos=1;tile=1;dcopt=ist;ord=525818?" border=0 width=468 height=60 alt="Click Here!"></a></noscript><!-- End DART Tag -->
 		</td></tr>
-		<tr><td><img src="http://i.ivillage.com/i/t.gif" border="0" width="5" height="10"></td></tr>
-	</tbody></table>
-	 </td>
-	</tr>
-	<tr valign="top">
-		<!-- left column (130px) -->
-		<td class="background">
-		<!-- Vignette V6 Tue Jun 22 01:00:23 2004 -->
+		<tr><td><img src="/i/t.gif" border="0" width="5" height="5"></td></tr>
+	</tbody></table><br></td></tr>
 
- 
- 
-
-<!-- begin left nav (621266) -->
-<table width="130" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
+<tr>
+      <td valign="top" width="625" bgcolor="#ffffff"> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
 <tbody><tr>
-	<td><img src="/i/t.gif" width="5" height="1" border="0"></td>
-	<td>
-	
-	<!-- logo -->
-	<table width="125" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
-		<tbody><tr>
-			<td><img src="/i/t.gif" width="1" height="5" border="0"></td>
-		</tr>
-		<tr>
-			<td><a href="http://www.cosmogirl.com"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cg/i/logo.gif" width="125" height="87" alt="CosmoGIRL!" border="0"></a></td>
-		</tr>
-	</tbody></table>
-	 <!-- search -->
-	<table width="125" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
-		<tbody><tr>
-			<td><img src="/i/t.gif" width="1" height="5" border="0"></td>
-		</tr>
-		<tr>
-			<td><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cg/i/search/title_search.gif" width="125" height="15" alt="Search" border="0"></td>
-		</tr>
-		<tr>
-			<!-- Atomz Search HTML for CosmoGirl -->
-			<form method="get" action="http://search.atomz.com/search/"></form>
-			<input type="hidden" name="sp-a" value="sp1002eb3b">
-			<input type="hidden" name="sp-p" value="all">
-			<input type="hidden" name="sp-f" value="ISO-8859-1">
-			<td class="background">
-			<img src="/i/t.gif" width="2" height="1" border="0">
-			<input type="text" class="text" name="sp-q" size="6">
-			<input type="image" src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cg/i/search/bu_arrow.gif" name="submit" alt="search" border="0">
-			</td>
-		</tr>
-		<tr>
-			<td class="background"><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-	</tbody></table>
-	<!-- main links -->
-	<table width="125" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
-		
-		<tbody><tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="talktous" id="cell_talktous" onmouseover="javascript:navOn('cell_talktous','#FF0099')" onmouseout="javascript:navOff('cell_talktous','#FF6600')" onclick="javascript:location.href='/magazine/talktous/0,,,00.html'"><a href="/magazine/talktous/0,,,00.html" class="navlink">talk to us</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_hotboyfriend" onmouseover="javascript:navOn('cell_hotboyfriend','#FF0099')" onmouseout="javascript:navOff('cell_hotboyfriend','#666666')" onclick="javascript:location.href='/guys/hotboyfriend/0,,,00.html'"><a href="/guys/hotboyfriend/0,,,00.html" class="navlink">hot boyfriend</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_astrolovematch" onmouseover="javascript:navOn('cell_astrolovematch','#FF0099')" onmouseout="javascript:navOff('cell_astrolovematch','#666666')" onclick="javascript:location.href='/guys/astrolovematch/spc/0,,621256_622610,00.html'"><a href="/guys/astrolovematch/spc/0,,621256_622610,00.html" class="navlink">astro love match</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_quiz" onmouseover="javascript:navOn('cell_quiz','#FF0099')" onmouseout="javascript:navOff('cell_quiz','#666666')" onclick="javascript:location.href='/innergirl/quiz/spc/0,,621261_622553,00.html'"><a href="/innergirl/quiz/spc/0,,621261_622553,00.html" class="navlink">quiz</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_2024" onmouseover="javascript:navOn('cell_2024','#FF0099')" onmouseout="javascript:navOff('cell_2024','#666666')" onclick="javascript:location.href='/innergirl/2024/spc/0,,621260_621294,00.html'"><a href="/innergirl/2024/spc/0,,621260_621294,00.html" class="navlink">club 2024</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_rockstar" onmouseover="javascript:navOn('cell_rockstar','#FF0099')" onmouseout="javascript:navOff('cell_rockstar','#666666')" onclick="javascript:location.href='/celebs/rockstar/spc/0,,621254_621331,00.html'"><a href="/celebs/rockstar/spc/0,,621254_621331,00.html" class="navlink">kiss the rock star</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_makeovermadness" onmouseover="javascript:navOn('cell_makeovermadness','#FF0099')" onmouseout="javascript:navOff('cell_makeovermadness','#666666')" onclick="javascript:location.href='/beauty/makeovermadness/spc/0,,621252_621333,00.html'"><a href="/beauty/makeovermadness/spc/0,,621252_621333,00.html" class="navlink">makeover madness</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigationon" id="cell_winit" onclick="javascript:location.href='/magazine/winit/spc/0,,621266_621332,00.html'"><a href="/magazine/winit/spc/0,,621266_621332,00.html" class="navlink">win it!</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_dailyhoroscopes" onmouseover="javascript:navOn('cell_dailyhoroscopes','#FF0099')" onmouseout="javascript:navOff('cell_dailyhoroscopes','#666666')" onclick="javascript:location.href='/guys/dailyhoroscopes/spc/0,,621257_621281,00.html'"><a href="/guys/dailyhoroscopes/spc/0,,621257_621281,00.html" class="navlink">daily horoscopes</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_ezine" onmouseover="javascript:navOn('cell_ezine','#FF0099')" onmouseout="javascript:navOff('cell_ezine','#666666')" onclick="javascript:location.href='/magazine/ezine/spc/0,,621263_621330,00.html'"><a href="/magazine/ezine/spc/0,,621263_621330,00.html" class="navlink">CG! e-zine</a></td>
-		</tr>
-	
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_exclusively" onmouseover="javascript:navOn('cell_exclusively','#FF0099')" onmouseout="javascript:navOff('cell_exclusively','#666666')" onclick="javascript:location.href='/magazine/exclusively/spc/0,,621264_621329,00.html'"><a href="/magazine/exclusively/spc/0,,621264_621329,00.html" class="navlink">in the magazine</a></td>
-		</tr>
-	 <tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td>
-	<script language="javascript">
-	SetCookie('pollChk',1,.01,'/');
-	function submitPoll(f) {
-		var choice = '';
-		for (var i = 0; i < f.choice.length; i++) {
-			if (f.choice[i].checked == true) {
-				choice = f.choice[i].value;
-				break;
-			}
-		}
-		if (choice == '') {
-			alert('Please make a selection.');
-			return false;
-		}
-		
-		var url = '/xchannel/pollcounter/1,,72,00.html';
-		var query = '?pollType=hp&pollID='+f.pollID.value+'&choice='+choice;
-		window.open(url+query,'cosmogirl_poll','width=160,height=300,top=350,left=160,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no');
-		return false;
-	}
-	</script>
-	
-	<table width="120" border="0" cellspacing="0" cellpadding="0" bgcolor="#FF9900">
-	<form method="get" name="pollForm" target="cosmogirl_poll" onsubmit="return submitPoll(this)"></form>
-	<input type="hidden" name="pollID" value="639964">
-		<tbody><tr valign="top">
-			<td><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/images/title_daily_poll.gif" width="125" height="35" alt="Daily Poll" border="0/"></td>
-			<td rowspan="100%"><img src="http://i.ivillage.com/i/t.gif" width="1" height="252" border="0"></td>
-		</tr>
-		<tr valign="top">
-			<td><table width="120" border="0" cellspacing="0" cellpadding="3">
-				<tbody><tr align="left" valign="top">
-					<td colspan="2">06/22/2004</td>
-				</tr>
-				<tr align="left" valign="top">
-					<td colspan="2"><b class="small">The biggest compliment is when someone says you look:</b></td>
-				</tr>
-				
-			<tr valign="top">
-				<td width="5" align="left" valign="middle"><input type="radio" name="choice" value="1" bgcolor="#FF9900/"></td>
-				<td width="120" class="small" align="left" valign="middle"><span class="small">Hot!</span></td>
-			</tr>
-		
-			<tr valign="top">
-				<td width="5" align="left" valign="middle"><input type="radio" name="choice" value="2" bgcolor="#FF9900/"></td>
-				<td width="120" class="small" align="left" valign="middle"><span class="small">Cute!</span></td>
-			</tr>
-		
-			<tr valign="top">
-				<td width="5" align="left" valign="middle"><input type="radio" name="choice" value="3" bgcolor="#FF9900/"></td>
-				<td width="120" class="small" align="left" valign="middle"><span class="small">Amazing!</span></td>
-			</tr>
-		
-			</tbody></table></td>
-		</tr>
-		<tr valign="bottom">
-			<td><input type="image" src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/images/button_vote.gif" border="0" alt="Vote/"></td>
-		</tr>
-	
-	</tbody></table>
-	</td>
-		</tr>
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_reg" onmouseover="javascript:navOn('cell_reg','#FF0099');" onmouseout="javascript:navOff('cell_reg','#666666');" onclick="javascript:location.href='http://auth.cosmogirl.com/register/regPage'"><a href="http://auth.cosmogirl.com/register/regPage" class="navlink">register</a></td>
-		</tr>
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="navigation" id="cell_hp" onmouseover="javascript:navOn('cell_hp','#FF0099');" onmouseout="javascript:navOff('cell_hp','#666666');"><a href="#" onclick="makeThisMyHomePage(this);return false;" class="navlink"><span class="navigationsmall">make this my</span> homepage</a></td>
-		</tr>
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td class="subscription" id="cell_sub" onmouseover="javascript:navOn('cell_sub','#FF0099');" onmouseout="javascript:navOff('cell_sub','#9900CC');"><a href="http://www.hearstmags.com/cosmogirl.htm" target="hearst" class="sublink">questions <span class="navigationsmall">about your</span> subscription</a></td>
-		</tr>
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
-<!-- V/5 generated DART tag v2.1 --><!-- sstype=other -->
-<!--DART params(10|621266|/cosmogirl/component/leftnav:621266)--><script>
-document.checkedPBA = (location.search == '')? true:false
-if (!document.arrival_pba) document.arrival_pba = ''
-if (!document.dartFTT) document.dartFTT = ''
-if (!document.dartTData) document.dartTData = ''
-if (!document.dartTid) document.dartTid = ''
-if (!document.catid) document.catid = ''
-
-if (!document.ivNPA) {
-    qs = location.search.substring(1).split('&');
-    document.ivNPA = "";
-    for (i = 0; i < qs.length; i++) {
-        valSplit = qs[i].split('=');
-        if (valSplit[0] == 'ivNPA') { if (valSplit[1] == 1) { document.arrival_pba = "!category=nopopup;!category=nopopunder;"; break; } }
-    }
-}
-
-if (!document.checkedPBA) {
-    for (i = 0; i < qs.length; i++) {
-        pos = qs[i].indexOf('=');
-        if (qs[i].substring(0, pos) == 'pba') { document.arrival_pba = unescape(qs[i].substring(pos+1)+';!category=nopopup;!category=nopopunder;'); document.checkedPBA = 1; break; }
-    }
-}
-      document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;'+document.arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+'sz=120x60;pos=10;tile=10;ord=231910?></scr'+'ipt>')
-	  </script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=120x60;pos=10;tile=10;ord=231910?"></script>
-
-
-<noscript><a href="http://iv.doubleclick.net/jump/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=120x60;pos=10;tile=10;ord=231910?"><img src="http://iv.doubleclick.net/ad/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=120x60;pos=10;tile=10;ord=231910?" border=0 width=120 height=60 alt="Click Here!"></a></noscript><!-- End DART Tag --></td></tr></tbody></table></td>
-		</tr>
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td><a href="http://ccare.hearstmags.com/cgi-bin/absplit.cgi?SplitFile=coggift.urls" target="hearst"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cg/i/navigation/givecosmogirl.gif" width="125" height="84" alt="Give CosmoGIRL! as a Gift!" border="0"></a></td>
-		</tr>
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td><a href="/magazine/mobile/spc/0,,621618,00.html"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cg/i/navigation/mobilebutton.gif" width="125" height="84" alt="CosmoGirl! on your cell phone" border="0"></a></td>
-		</tr>
-		<tr>
-			<td><img src="/i/t.gif" width="1" height="5" border="0"></td>
-		</tr>
-	</tbody></table>
-	</td>
+<td width="10"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/top_left_corner.gif" border="0"></td>
+<td width="605"><img src="/i/t.gif" border="0" width="615" height="1"></td>
+<td width="*" align="right"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/top_right_corner.gif" border="0"></td>
 </tr>
 </tbody></table>
-<!-- end left nav --> </td>
-		<!-- middle column (520px) -->
-		<td>
-		<!-- begin main content -->
-		<table width="520" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
+       <!-- logo -->
+	    <table width="625" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+		<td width="173" align="left" valign="bottom"><a href="http://www.cosmogirl.com"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/images/november04/cg_logo_top.gif" border="0"><!-- logo_top here --></a></td>
+		<td width="449" align="right"><!-- shout outs here --><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="440" height="50" id="sub" align="middle">
+<param name="allowScriptAccess" value="always">
+<param name="movie" value="http://www.cosmogirl.com/stc/swf/sub/cg_announcements_sub.swf?conf=http://www.cosmogirl.com/shoutout/xmlyfc">
+<param name="base" value="http://www.cosmogirl.com/stc/swf/sub/">
+<param name="quality" value="high">
+<param name="wmode" value="opaque">
+<param name="bgcolor" value="#ffffff">
+<embed base="http://www.cosmogirl.com/stc/swf/sub/" src="http://www.cosmogirl.com/stc/swf/sub/cg_announcements_sub.swf?conf=http://www.cosmogirl.com/shoutout/xmlyfc" quality="high" bgcolor="#ffffff" width="440" height="50" name="sub" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+<!-- <img src="http://i.ivillage.com/cosmogirl/hp/new/shout_out.gif" border=0> --></td>
+		</tr>
+		</tbody></table>
+        
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td width="107" valign="top"><!-- begin left nav here --><table width="107" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td align="right"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/images/november04/cg_logo_bottom1.gif" border="0"></td></tr>
+
+ 
+ 
+
+<!-- begin left nav (622478) -->
+<tr>
+	<td>
+<script language="javascript">
+buttonList = new Array(); layerList = new Array(); urlList = new Array();
+
+<!-- subscribe add -->
+buttonList[1] = "leftNavLink1"; leftNavLink1_on= new Image(); leftNavLink1_off = new Image(); leftNavLink1_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/subscribe_off.gif"; leftNavLink1_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/subscribe_on.gif";
+layerList[0]  = "leftNavLink1"; 
+urlList[1] = "http://ccare.hearstmags.com/cgi-bin/absplit.cgi?SplitFile=cogbanners.urls";
+<!-- Give CG as a gift! add -->
+buttonList[2] = "leftNavLink2"; leftNavLink2_on= new Image(); leftNavLink2_off = new Image(); leftNavLink2_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/give_cg_off.gif"; leftNavLink2_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/give_cg_on.gif";
+layerList[1]  = "leftNavLink2"; 
+urlList[2] = "http://ccare.hearstmags.com/cgi-bin/absplit.cgi?SplitFile=coggift.urls";
+<!-- Questions about your subscription? add -->
+buttonList[3] = "leftNavLink3"; leftNavLink3_on= new Image(); leftNavLink3_off = new Image(); leftNavLink3_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/subscription_q_off.gif"; leftNavLink3_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/subscription_q_on.gif";
+layerList[2]  = "leftNavLink3"; 
+urlList[3] = "https://ntss01.webserve.net/secure/HEARST/gemini/ccare/cog_faq.html";
+<!-- Inside the Magazine add -->
+buttonList[4] = "leftNavLink4"; leftNavLink4_on= new Image(); leftNavLink4_off = new Image(); leftNavLink4_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/inside_off.gif"; leftNavLink4_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/inside_on.gif";
+layerList[3]  = "leftNavLink4"; 
+urlList[4] = "http://www.cosmogirl.com/magazine/exclusively/spc/0,,621264_654987,00.html";
+<!-- Talk to Us add -->
+buttonList[5] = "leftNavLink5"; leftNavLink5_on= new Image(); leftNavLink5_off = new Image(); leftNavLink5_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/talk_us_off.gif"; leftNavLink5_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/talk_us_on.gif";
+layerList[4]  = "leftNavLink5"; 
+urlList[5] = "http://www.cosmogirl.com/magazine/talktous/";
+<!-- Pop Culture Quiz add -->
+buttonList[6] = "leftNavLink6"; leftNavLink6_on= new Image(); leftNavLink6_off = new Image(); leftNavLink6_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/pop_culture_off.gif"; leftNavLink6_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/pop_culture_on.gif";
+layerList[5]  = "leftNavLink6"; 
+urlList[6] = "http://quiz.ivillage.com/cosmogirl/tests/Dec2004-TriviaQuiz.htm";
+<!-- Quiz add -->
+buttonList[7] = "leftNavLink7"; leftNavLink7_on= new Image(); leftNavLink7_off = new Image(); leftNavLink7_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/quiz_off.gif"; leftNavLink7_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/quiz_on.gif";
+layerList[6]  = "leftNavLink7"; 
+urlList[7] = "http://quiz.ivillage.com/cosmogirl/tests/Dec2004-GuysThink.htm";
+<!-- Battle of the Boys add -->
+buttonList[8] = "leftNavLink8"; leftNavLink8_on= new Image(); leftNavLink8_off = new Image(); leftNavLink8_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/battle_boys_off.gif "; leftNavLink8_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/battle_boys_on.gif ";
+layerList[7]  = "leftNavLink8"; 
+urlList[8] = "http://www.cosmogirl.com/guys/battleoftheboys/";
+<!-- Deal of the Day add -->
+buttonList[9] = "leftNavLink9"; leftNavLink9_on= new Image(); leftNavLink9_off = new Image(); leftNavLink9_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/dealoftheday_off.gif"; leftNavLink9_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/dealoftheday_on.gif";
+layerList[8]  = "leftNavLink9"; 
+urlList[9] = "http://www.cosmogirl.com/magazine/dealoftheday";
+<!-- Daily Horoscopes add -->
+buttonList[10] = "leftNavLink10"; leftNavLink10_on= new Image(); leftNavLink10_off = new Image(); leftNavLink10_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/daily_horos_off.gif"; leftNavLink10_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/daily_horos_on.gif";
+layerList[9]  = "leftNavLink10"; 
+urlList[10] = "http://www.cosmogirl.com/guys/dailyhoroscopes/";
+<!-- Ouch! add -->
+buttonList[11] = "leftNavLink11"; leftNavLink11_on= new Image(); leftNavLink11_off = new Image(); leftNavLink11_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/ouch_off.gif "; leftNavLink11_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/ouch_on.gif ";
+layerList[10]  = "leftNavLink11"; 
+urlList[11] = "http://www.cosmogirl.com/guys/ouchoftheday";
+<!-- win it! add -->
+buttonList[12] = "leftNavLink12"; leftNavLink12_on= new Image(); leftNavLink12_off = new Image(); leftNavLink12_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/winit_off.gif"; leftNavLink12_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/winit_on.gif";
+layerList[11]  = "leftNavLink12"; 
+urlList[12] = "http://www.cosmogirl.com/magazine/winit/spc/0,,621266_655722,00.html";
+<!-- club 2024 add -->
+buttonList[13] = "leftNavLink13"; leftNavLink13_on= new Image(); leftNavLink13_off = new Image(); leftNavLink13_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/club2024_off.gif"; leftNavLink13_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/club2024_on.gif";
+layerList[12]  = "leftNavLink13"; 
+urlList[13] = "http://www.cosmogirl.com/innergirl/2024/spc/0,,621260_648255,00.html";
+<!-- Love and Sex Survey add -->
+buttonList[14] = "leftNavLink14"; leftNavLink14_on= new Image(); leftNavLink14_off = new Image(); leftNavLink14_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/survey_off.gif"; leftNavLink14_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/survey_on.gif";
+layerList[13]  = "leftNavLink14"; 
+urlList[14] = "http://ivillage.opinionware.com/owuser/cosmogirl/surveys/102904_sexlove.html";
+<!-- Pieces of Me add -->
+buttonList[15] = "leftNavLink15"; leftNavLink15_on= new Image(); leftNavLink15_off = new Image(); leftNavLink15_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/pieces_of_me_off.gif"; leftNavLink15_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/pieces_of_me_on.gif";
+layerList[14]  = "leftNavLink15"; 
+urlList[15] = "http://www.cosmogirl.com/guys/eyecandy/";
+<!-- CosmoGIRL! of the Year add -->
+buttonList[16] = "leftNavLink16"; leftNavLink16_on= new Image(); leftNavLink16_off = new Image(); leftNavLink16_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/cg_oftheyear_off.gif"; leftNavLink16_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/cg_oftheyear_on.gif";
+layerList[15]  = "leftNavLink16"; 
+urlList[16] = "http://www.cosmogirl.com/innergirl/cgoftheyear/spc/0,,621335,00.html";
+<!-- Beauty Blizzard add -->
+buttonList[17] = "leftNavLink17"; leftNavLink17_on= new Image(); leftNavLink17_off = new Image(); leftNavLink17_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/beauty_blizzard_off.gif"; leftNavLink17_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/beauty_blizzard_on.gif";
+layerList[16]  = "leftNavLink17"; 
+urlList[17] = "http://www.cosmogirl.com/beauty/beautyblizzard/spc/0,,646167_647665,00.html";
+<!-- astro love match add -->
+buttonList[18] = "leftNavLink18"; leftNavLink18_on= new Image(); leftNavLink18_off = new Image(); leftNavLink18_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/astro_love_off.gif"; leftNavLink18_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/astro_love_on.gif";
+layerList[17]  = "leftNavLink18"; 
+urlList[18] = "http://www.cosmogirl.com/guys/astrolovematch/spc/0,,621256_622610,00.html";
+<!-- CG e-zine add -->
+buttonList[19] = "leftNavLink19"; leftNavLink19_on= new Image(); leftNavLink19_off = new Image(); leftNavLink19_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/cg_ezine_off.gif"; leftNavLink19_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/cg_ezine_on.gif";
+layerList[18]  = "leftNavLink19"; 
+urlList[19] = "http://www.cosmogirl.com/magazine/ezine/spc/0,,621263_621330,00.html";
+<!-- Register add -->
+buttonList[20] = "leftNavLink20"; leftNavLink20_on= new Image(); leftNavLink20_off = new Image(); leftNavLink20_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/register_off.gif"; leftNavLink20_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/register_on.gif";
+layerList[19]  = "leftNavLink20"; 
+urlList[20] = "http://auth.cosmogirl.com/register/regPage";go_search_on= new Image(); go_search_off = new Image(); 
+go_search_off.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/go_search_btn_off.gif"; 
+go_search_on.src = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/go_search_btn_on.gif";
+layerList[21]  = "go_search";
+</script>
+<div id="LeftNav" class="leftNavLayer">
+		<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td width="100%" valign="top"><a href="http://ccare.hearstmags.com/cgi-bin/absplit.cgi?SplitFile=cogbanners.urls" target="_new" onmouseover="flip(&quot;leftNavLink1&quot;,1);" onmouseout="flip(&quot;leftNavLink1&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/subscribe_off.gif" border="0" name="leftNavLink1" alt="leftNavLink1"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://ccare.hearstmags.com/cgi-bin/absplit.cgi?SplitFile=coggift.urls" target="_new" onmouseover="flip(&quot;leftNavLink2&quot;,1);" onmouseout="flip(&quot;leftNavLink2&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/give_cg_off.gif" border="0" name="leftNavLink2" alt="leftNavLink2"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="https://ntss01.webserve.net/secure/HEARST/gemini/ccare/cog_faq.html" onmouseover="flip(&quot;leftNavLink3&quot;,1);" onmouseout="flip(&quot;leftNavLink3&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/subscription_q_off.gif" border="0" name="leftNavLink3" alt="leftNavLink3"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/magazine/exclusively/spc/0,,621264_654987,00.html" onmouseover="flip(&quot;leftNavLink4&quot;,1);" onmouseout="flip(&quot;leftNavLink4&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/inside_off.gif" border="0" name="leftNavLink4" alt="leftNavLink4"></a></td></tr>
+<tr><td><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/i/t.gif" border="0" width="1" height="10"></td></tr>
+<tr><td width="100%" valign="top"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/search.gif" border="0" height="8" width="33"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><form method="get" action="http://search.atomz.com/search/" name="myForm"><input type="hidden" name="sp-a" value="sp1002eb3b"><input type="hidden" name="sp-p" value="all"><input type="hidden" name="sp-f" value="ISO-8859-1"><input type="text" name="sp-q" size="6"><a href="javascript:subForm()" onmouseover="document.subButton.src=go_search_on.src" onmouseout="document.subButton.src=go_search_off.src"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/go_search_btn_off.gif" alt="submit" name="subButton" border="0"></a></form></td></tr></tbody></table></td></tr>
+<tr><td><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/i/t.gif" border="0" width="1" height="10"></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/magazine/talktous/" onmouseover="flip(&quot;leftNavLink5&quot;,1);" onmouseout="flip(&quot;leftNavLink5&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/talk_us_off.gif" border="0" name="leftNavLink5" alt="leftNavLink5"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://quiz.ivillage.com/cosmogirl/tests/Dec2004-TriviaQuiz.htm" onmouseover="flip(&quot;leftNavLink6&quot;,1);" onmouseout="flip(&quot;leftNavLink6&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/pop_culture_off.gif" border="0" name="leftNavLink6" alt="leftNavLink6"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://quiz.ivillage.com/cosmogirl/tests/Dec2004-GuysThink.htm" onmouseover="flip(&quot;leftNavLink7&quot;,1);" onmouseout="flip(&quot;leftNavLink7&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/quiz_off.gif" border="0" name="leftNavLink7" alt="leftNavLink7"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/guys/battleoftheboys/" onmouseover="flip(&quot;leftNavLink8&quot;,1);" onmouseout="flip(&quot;leftNavLink8&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/battle_boys_off.gif " border="0" name="leftNavLink8" alt="leftNavLink8"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/magazine/dealoftheday" onmouseover="flip(&quot;leftNavLink9&quot;,1);" onmouseout="flip(&quot;leftNavLink9&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/dealoftheday_off.gif" border="0" name="leftNavLink9" alt="leftNavLink9"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/guys/dailyhoroscopes/" onmouseover="flip(&quot;leftNavLink10&quot;,1);" onmouseout="flip(&quot;leftNavLink10&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/daily_horos_off.gif" border="0" name="leftNavLink10" alt="leftNavLink10"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/guys/ouchoftheday" onmouseover="flip(&quot;leftNavLink11&quot;,1);" onmouseout="flip(&quot;leftNavLink11&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/ouch_off.gif " border="0" name="leftNavLink11" alt="leftNavLink11"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/magazine/winit/spc/0,,621266_655722,00.html" onmouseover="flip(&quot;leftNavLink12&quot;,1);" onmouseout="flip(&quot;leftNavLink12&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/winit_off.gif" border="0" name="leftNavLink12" alt="leftNavLink12"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/innergirl/2024/spc/0,,621260_648255,00.html" onmouseover="flip(&quot;leftNavLink13&quot;,1);" onmouseout="flip(&quot;leftNavLink13&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/club2024_off.gif" border="0" name="leftNavLink13" alt="leftNavLink13"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://ivillage.opinionware.com/owuser/cosmogirl/surveys/102904_sexlove.html" onmouseover="flip(&quot;leftNavLink14&quot;,1);" onmouseout="flip(&quot;leftNavLink14&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/survey_off.gif" border="0" name="leftNavLink14" alt="leftNavLink14"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/guys/eyecandy/" onmouseover="flip(&quot;leftNavLink15&quot;,1);" onmouseout="flip(&quot;leftNavLink15&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/pieces_of_me_off.gif" border="0" name="leftNavLink15" alt="leftNavLink15"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/innergirl/cgoftheyear/spc/0,,621335,00.html" onmouseover="flip(&quot;leftNavLink16&quot;,1);" onmouseout="flip(&quot;leftNavLink16&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/cg_oftheyear_off.gif" border="0" name="leftNavLink16" alt="leftNavLink16"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/beauty/beautyblizzard/spc/0,,646167_647665,00.html" onmouseover="flip(&quot;leftNavLink17&quot;,1);" onmouseout="flip(&quot;leftNavLink17&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/beauty_blizzard_off.gif" border="0" name="leftNavLink17" alt="leftNavLink17"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/guys/astrolovematch/spc/0,,621256_622610,00.html" onmouseover="flip(&quot;leftNavLink18&quot;,1);" onmouseout="flip(&quot;leftNavLink18&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/astro_love_off.gif" border="0" name="leftNavLink18" alt="leftNavLink18"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://www.cosmogirl.com/magazine/ezine/spc/0,,621263_621330,00.html" onmouseover="flip(&quot;leftNavLink19&quot;,1);" onmouseout="flip(&quot;leftNavLink19&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/cg_ezine_off.gif" border="0" name="leftNavLink19" alt="leftNavLink19"></a></td></tr>
+<tr><td width="100%" valign="top"><a href="http://auth.cosmogirl.com/register/regPage" onmouseover="flip(&quot;leftNavLink20&quot;,1);" onmouseout="flip(&quot;leftNavLink20&quot;,0);"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/nav/register_off.gif" border="0" name="leftNavLink20" alt="leftNavLink20"></a></td></tr>
+</tbody></table>
+</div>
+	</td>
+</tr>
+<tr><td><script language="javascript">
+	<!--
+	function draw_promos() {	
+		var url = 'http://www.cosmogirl.com/advertising/exclamations/pop/0,,623490_623491,00.html';
+		var options = 'resizable=yes,toolbar=no,location=no,status=no,scrollbars=yes,menubar=no,width=630,height=600,left=0,top=0,screenX=0,screenY=0';
+		window.open(url,'events',options);
+	}
+	//-->
+	</script>
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td><a href="javascript:draw_promos()"><img src="http://i.ivillage.com/cosmogirl/hp/new/banner_events_promos.gif" border="0"></a></td></tr>
+<tr><td><img src="http://i.ivillage.com/i/t.gif" border="0" width="1" height="5"></td></tr>
+<tr><td><a href="http://www.cosmogirl.com/mobile"><img src="http://i.ivillage.com/cosmogirl/hp/new/banner_cell_phone.gif" border="0"></a></td></tr>
+</tbody></table></td></tr>
+
+<!-- end left nav -->
+</tbody></table><!-- end left nav here --></td>
+            <td width="518" valign="top">
+            <img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/images/november04/cg_logo_bottom2.gif" border="0">
+            <!-- begin main page content here -->
+			<table width="521" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
 			<tbody><tr valign="top">
-				<td colspan="3"><img src="/i/t.gif" width="1" height="5" border="0"></td>
-			</tr>
-			<tr valign="top">
-				<td><img src="/i/t.gif" width="5" height="941" border="0"></td>
-				<td><table width="510" cellpadding="0" cellspacing="0" border="0">
+				<td><img src="/i/t.gif" width="5" height="1" border="0"></td>
+				<td valign="top"><table width="510" cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
 						<td>
-						<!--<img src=/i/t.gif border=0 width=510 height=10><br>-->
-						
-						<span class="breadcrumb"><a href="http://www.cosmogirl.com">CosmoGIRL!</a> &gt; Terms of Use and Privacy Policy</span><br><img src="http://i.ivillage.com/i/t.gif" border="0" width="2" height="6"><br><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/images/dotted_line.gif" border="0" width="510" height="1"><br><img src="http://i.ivillage.com/i/t.gif" border="0" width="2" height="6"><br>
- <!-- slugs: 621249 621266 -->
-						<img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/images/titles/title_win_it.gif" width="135" height="47" border="0" alt="Win It!"><br>
-  <!-- add category slug and/or header art -->
-						<!-- page body (510px) -->
-						<!--start content-->
+<!-- add category slug and/or header art -->
+
+
+<img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/images/titles/title_win_it.gif" width="135" height="47" border="0" alt="Win It!"><br>
+<!-- page body (510px) -->
+<!--start content-->
 		
 						<table width="510" cellpadding="0" cellspacing="0" border="0">
 							<tbody><tr>
@@ -448,91 +455,13 @@ This policy was last updated on September 24, 2003.
 							</tr>
 						</tbody></table>
 			
-		<!--end content-->  </td>
-					</tr>
-					<tr>
-						<td align="center">
-							<br><br>
-							
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-		<td width="2"><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_01.gif" width="2" height="18"></td>
-		<td width="16"><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_02.gif" width="16" height="18"></td>
-		<td width="113"><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_03.gif" width="113" height="18"></td>
-		<td width="15"><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_04.gif" width="15" height="18"></td>
-		<td width="3"><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_05.gif" width="3" height="18"></td>
-		</tr>
-		<tr>
-		<td><img src="http://www.ivillage.com/i/t.gif" width="2" height="2"></td>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_07.gif" width="16" height="2"></td>
-		<td bgcolor="#FD1818" width="113"><img src="http://www.ivillage.com/i/t.gif" width="1" height="2"></td>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_09.gif" width="15" height="2"></td>
-		<td><img src="http://www.ivillage.com/i/t.gif" width="3" height="2"></td>
-		</tr>
-		
-		<tr>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_11.gif" width="2" height="14"></td>
-		<td width="16"><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_12.gif" width="16" height="14"></td>
-		<td><img src="http://www.ivillage.com/i/t.gif" width="1" height="14"></td>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_14.gif" width="15" height="14"></td>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_15.gif" width="3" height="14"></td>
-		</tr>
-		
-		<tr>
-		<td bgcolor="#FD1818"><img src="http://www.ivillage.com/i/t.gif" width="2" height="1"></td>
-		<td width="16"><img src="http://www.ivillage.com/i/t.gif" width="1" height="1"></td>
-		<td>
-<!-- V/5 generated DART tag v2.1 --><!-- sstype=other -->
-<!--DART params(7|621266|/cosmogirl/magazine/winit/spc:622478)--><script>
-document.checkedPBA = (location.search == '')? true:false
-if (!document.arrival_pba) document.arrival_pba = ''
-if (!document.dartFTT) document.dartFTT = ''
-if (!document.dartTData) document.dartTData = ''
-if (!document.dartTid) document.dartTid = ''
-if (!document.catid) document.catid = ''
-
-if (!document.ivNPA) {
-    qs = location.search.substring(1).split('&');
-    document.ivNPA = "";
-    for (i = 0; i < qs.length; i++) {
-        valSplit = qs[i].split('=');
-        if (valSplit[0] == 'ivNPA') { if (valSplit[1] == 1) { document.arrival_pba = "!category=nopopup;!category=nopopunder;"; break; } }
-    }
-}
-
-if (!document.checkedPBA) {
-    for (i = 0; i < qs.length; i++) {
-        pos = qs[i].indexOf('=');
-        if (qs[i].substring(0, pos) == 'pba') { document.arrival_pba = unescape(qs[i].substring(pos+1)+';!category=nopopup;!category=nopopunder;'); document.checkedPBA = 1; break; }
-    }
-}
-      document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;'+document.arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+'sz=300x250;pos=7;tile=7;ord=231910?></scr'+'ipt>')
-	  </script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=300x250;pos=7;tile=7;ord=231910?"></script>
-
-
-<noscript><a href="http://iv.doubleclick.net/jump/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=300x250;pos=7;tile=7;ord=231910?"><img src="http://iv.doubleclick.net/ad/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=300x250;pos=7;tile=7;ord=231910?" border=0 width=300 height=250 alt="Click Here!"></a></noscript><!-- End DART Tag --></td>
-		<td><img src="http://www.ivillage.com/i/t.gif" width="15" height="1"></td>
-		<td bgcolor="#FD1818"><img src="http://www.ivillage.com/i/t.gif" width="3" height="1"></td>
-		</tr>
-		
-		<tr>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_21.gif" width="2" height="13"></td>
-		<td width="16"><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_22.gif" width="16" height="13"></td>
-		<td><img src="http://www.ivillage.com/i/t.gif" width="1" height="13"></td>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_24.gif" width="15" height="13"></td>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_25.gif" width="3" height="13"></td>
-		</tr>
-		
-		<tr>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_26.gif" width="2" height="3"></td>
-		<td width="16"><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_27.gif" width="16" height="3"></td>
-		<td bgcolor="#FD1818"><img src="http://www.ivillage.com/i/t.gif" width="1" height="3"></td>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_29.gif" width="15" height="3"></td>
-		<td><img src="http://i.ivillage.com/cosmogirl/images/bottomad/ad_box_30.gif" width="3" height="3"></td>
-		</tr>
-		</tbody></table>
-	 <br><br>
-						</td>
+		<!--end content--><div style="border-left:5px; border-right:5px; margin-top:5px;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="510" height="230" id="subscribe_generic_nov04" align="">
+	<param name="movie" value="http://i.ivillage.com/cosmogirl/swf/sub/subscribe_generic_nov04.swf">
+	<param name="quality" value="high">
+	<param name="wmode" value="opaque">
+	<param name="bgcolor" value="#EC3781">
+	<embed src="http://i.ivillage.com/cosmogirl/swf/sub/subscribe_generic_nov04.swf" quality="high" bgcolor="#FF641C" width="510" height="230" name="subscribe_generic_nov04" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object></div> </td>
 					</tr>
 				</tbody></table></td>
 				<td><img src="/i/t.gif" width="5" height="1" border="0"></td>
@@ -541,76 +470,45 @@ if (!document.checkedPBA) {
 				<td colspan="3"><img src="/i/t.gif" width="1" height="5" border="0"></td>
 			</tr>
 		</tbody></table>
-		<!-- end main content -->
-		<!-- Vignette V6 Tue May 04 13:55:22 2004 -->
+<!-- end main page content here -->
+<!-- Vignette V6 Tue Oct 19 11:04:07 2004 -->
+
+
+
 <!-- start footer -->
 
-<!-- Footer Tracking Version 1.1 -->
-<script language="javascript">Tacoda_AMS_DDC_js=1.0</script>
-<script language="javascript1.1">Tacoda_AMS_DDC_js=1.1</script>
-<script language="javascript1.2">Tacoda_AMS_DDC_js=1.2</script>
-<script language="javascript1.3">Tacoda_AMS_DDC_js=1.3</script>
-<script language="javascript" src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/includes/iv_tacoda.js"></script> 
-
-<script language="javascript" src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/includes/iv_footer.js"></script>
+		<!-- Footer Tracking Version 1.1 -->
+		<script type="text/javascript" language="javascript">Tacoda_AMS_DDC_js=1.0</script>
+<script type="text/javascript" language="javascript1.1">Tacoda_AMS_DDC_js=1.1</script>
+<script type="text/javascript" language="javascript1.2">Tacoda_AMS_DDC_js=1.2</script>
+<script type="text/javascript" language="javascript1.3">Tacoda_AMS_DDC_js=1.3</script>
+<script type="text/javascript" language="javascript" src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/includes/iv_tacoda.js"></script>
+		
+		<script type="text/javascript" language="javascript1.1" src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/includes/iv_footer.js"></script>
+<center>
 <table width="520" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td align="center" class="small"><br><br>
-		<span class="white">Copyright © 2004. Hearst Communications, Inc.</span>
-		<br>
-		<span class="footerlinks"><a href="/magazine/winit/spc/0,,622478,00.html" class="footerlinks"><span style="font-size:12px;">Terms of Use and Privacy Policy</span></a>, <a href="/magazine/spc/0,,624187,00.html" class="footerlinks">Frequently Asked Questions</a>,<br>
-		<a href="/advertising/advertisewithus/spc/0,,624306,00.html" class="footerlinks">Want
-		to Advertise on CosmoGIRL.com?</a></span>
-		<br><br>
-		</td>
-	</tr>
+<tbody><tr><td align="center"><a href="http://www.cosmogirl.com/magazine/winit/spc/0,,622478,00.html" class="footer">Privacy Policy</a> | <a href="http://www.cosmogirl.com/magazine/spc/0,,624187,00.html" class="footer">Frequently Asked Questions</a> | <a href="http://www.cosmogirl.com/advertising/advertisewithus/spc/0,,624306,00.html" class="footer">How	to Advertise on CosmoGIRL.com?</a></td></tr>
+<tr><td><img src="/i/t.gif" width="1" height="7" border="0"></td></tr>
 </tbody></table>
+</center>
 <!-- end footer --> </td>
-		<!-- right column (150px) -->
-		<td>
-		
-	<!-- begin right ads -->
-	<script language="javascript">
-	<!--
-	function draw_promos() {	
-		var url = 'http://www.cosmogirl.com/advertising/exclamations/pop/0,,623490_623491,00.html';
-		var options = 'resizable=yes,toolbar=no,location=no,status=no,scrollbars=yes,menubar=no,width=630,height=600,left=0,top=0,screenX=0,screenY=0';
-		window.open(url,'events',options);
-	}
-	//-->
-	</script>
-	<table width="150" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td><img src="http://i.ivillage.com/i/t.gif" width="14" height="92" border="0"></td>
-			<td valign="middle"><a href="javascript:draw_promos()"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cg/i/navigation/eventspromos.gif" width="125" height="90" alt="Events, Promos, and Fun!" border="0"></a></td>
-			<td><img src="http://i.ivillage.com/i/t.gif" width="5" height="92" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="3"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-				<td width="10"><img src="http://i.ivillage.com/i/t.gif" width="10" height="2" border="0"></td>
-				<td>
-	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="133" height="413" id="sub" align="middle">
-	<param name="allowScriptAccess" value="always">
-	<param name="movie" value="http://www.cosmogirl.com/stc/swf/sub/subscribe.swf">
-	<param name="base" value="http://www.cosmogirl.com/stc/swf/sub/">
-	<param name="quality" value="high">
-	<param name="bgcolor" value="#ffffff">
-	<embed base="http://www.cosmogirl.com/stc/swf/sub/" src="http://www.cosmogirl.com/stc/swf/sub/subscribe.swf" quality="high" bgcolor="#ffffff" width="133" height="413" name="sub" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-	</object>
-	</td>
-			</tr></tbody></table><table>
-		
-		<tbody><tr>
-			<td><img src="http://i.ivillage.com/i/t.gif" width="9" height="1" border="0"></td>
-			<td valign="center">
+          </tr>
+        </tbody></table>
+    	<br>
+    </td>
+	<td width="8" valign="top" class="offset8grey"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/cosmogirl/hp/new/gutter_sec1.gif" border="0"></td>
+	<td width="120" valign="top" class="background">    
+<!-- begin right side ads here -->
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="center">
 <!-- V/5 generated DART tag v2.1 --><!-- sstype=other -->
-<!--DART params(12|621266|/cosmogirl/magazine/winit/spc:622478)--><script>
+<!--DART params(5|621266|/cosmogirl/magazine/winit/spc:622478)--><script>
 document.checkedPBA = (location.search == '')? true:false
 if (!document.arrival_pba) document.arrival_pba = ''
 if (!document.dartFTT) document.dartFTT = ''
 if (!document.dartTData) document.dartTData = ''
 if (!document.dartTid) document.dartTid = ''
 if (!document.catid) document.catid = ''
+if (!document.ivrtt) document.ivrtt = '';
 
 if (!document.ivNPA) {
     qs = location.search.substring(1).split('&');
@@ -627,21 +525,26 @@ if (!document.checkedPBA) {
         if (qs[i].substring(0, pos) == 'pba') { document.arrival_pba = unescape(qs[i].substring(pos+1)+';!category=nopopup;!category=nopopunder;'); document.checkedPBA = 1; break; }
     }
 }
-      document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;'+document.arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+'sz=120x600;pos=12;tile=12;ord=231910?></scr'+'ipt>')
-	  </script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=120x600;pos=12;tile=12;ord=231910?"></script>
+      document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;'+document.arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+document.ivrtt+'sz=120x600;pos=5;tile=5;ord=525818?></scr'+'ipt>')
+	  </script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=120x600;pos=5;tile=5;ord=525818?"></script>
 
 
-<noscript><a href="http://iv.doubleclick.net/jump/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=120x600;pos=12;tile=12;ord=231910?"><img src="http://iv.doubleclick.net/ad/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=120x600;pos=12;tile=12;ord=231910?" border=0 width=120 height=600 alt="Click Here!"></a></noscript><!-- End DART Tag --></td>
-			<td><img src="http://i.ivillage.com/i/t.gif" width="5" height="1" border="0"></td>
-		</tr>
-	</tbody></table>
-	<!-- end right -->
-	 </td>
-	</tr>
-	<tr>
-		<td colspan="3"><br></td>
-	</tr>
+<noscript><a href="http://iv.doubleclick.net/jump/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=120x600;pos=5;tile=5;ord=525818?"><img src="http://iv.doubleclick.net/ad/htig.cosmogirl/cosmogirl;chan=cosmogirl;sz=120x600;pos=5;tile=5;ord=525818?" border=0 width=120 height=600 alt="Click Here!"></a></noscript><!-- End DART Tag --></td></tr><tr><td><img src="/i/t.gif" border="0" width="5" height="5"></td></tr><tr><td valign="center"><!--Pos Off -->
+<!-- V/5 generated DART tag v2.1 --><!-- sstype=other -->
+<!--DART params(2|621266|/cosmogirl/magazine/winit/spc:622478)--> <!-- End DART Tag --></td></tr><tr><td><img src="/i/t.gif" border="0" width="5" height="5"></td></tr><tr><td valign="center"><!--Pos Off -->
+<!-- V/5 generated DART tag v2.1 --><!-- sstype=other -->
+<!--DART params(3|621266|/cosmogirl/magazine/winit/spc:622478)--> <!-- End DART Tag --></td></tr><tr><td><img src="/i/t.gif" border="0" width="5" height="5"></td></tr><tr><td valign="center"><!--Pos Off -->
+<!-- V/5 generated DART tag v2.1 --><!-- sstype=other -->
+<!--DART params(4|621266|/cosmogirl/magazine/winit/spc:622478)--> <!-- End DART Tag --></td></tr><tr><td><img src="/i/t.gif" border="0" width="5" height="5"></td></tr><tr><td valign="center"><!--Pos Off -->
+<!-- V/5 generated DART tag v2.1 --><!-- sstype=other -->
+<!--DART params(6|621266|/cosmogirl/magazine/winit/spc:622478)--> <!-- End DART Tag --></td></tr><tr><td><img src="/i/t.gif" border="0" width="5" height="5"></td></tr><tr><td valign="center"><!--Pos Off -->
+<!-- V/5 generated DART tag v2.1 --><!-- sstype=other -->
+<!--DART params(10|621266|/cosmogirl/magazine/winit/spc:622478)--> <!-- End DART Tag --></td></tr><tr><td><img src="/i/t.gif" border="0" width="5" height="5"></td></tr></tbody></table>
+		<!-- end right -->
+		<!-- end right side ads here -->
+	</td>
+</tr>
 </tbody></table>
+</center>
 
-
-</td></tr></tbody></table></body></html>
+</body></html>
