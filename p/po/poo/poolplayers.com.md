@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207082516id_/http%3A//poolplayers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602210654id_/http%3A//poolplayers.com/privacy.html) for the most accurate reproduction.*
 
 # APA Privacy Policy
 
@@ -28,7 +28,7 @@ Please be aware that APA advertisers or Web sites that have links on our site ma
 
 **How do I opt-out?**
 
-From time to time we have sponsors who may want to send you offers or information based on the information you provide through your membership application. We may share our membership information with our sponsors for these purposes. If you would prefer to be eliminated from these lists, **[please fill in the opt-out form](https://web.archive.org/web/20031207082516id_/http%3A//poolplayers.com/opt-out.html)** located on this page and click "submit", your name will be withheld from these particular lists. By choosing to opt-out, however, does not eliminate you from the list the APA may use on occasion for its own purposes.
+From time to time we have sponsors who may want to send you offers or information based on the information you provide through your membership application. We may share our membership information with our sponsors for these purposes. If you would prefer to be eliminated from these lists, **[please fill in the opt-out form](https://web.archive.org/web/20040602210654id_/http%3A//poolplayers.com/opt-out.html)** located on this page and click "submit", your name will be withheld from these particular lists. By choosing to opt-out, however, does not eliminate you from the list the APA may use on occasion for its own purposes.
 
 With whom does APA share my information?
 
