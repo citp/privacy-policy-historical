@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the tdbank.ca privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604073321id_/http%3A//www.td.com/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tdbank.ca privacy policy that was archived on 2001-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011201215701id_/http%3A//www.td.com/privacy/index.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>TD Privacy Code</title>
 <meta name="description" content="TD Privacy Code">
 <meta name="keywords" content="Privacy Code, privacy">
+
 <!-- HEADSTUFF START-->
 	<style type="text/css">
 <!--
@@ -152,7 +153,78 @@ A.ListLink:VISITED {
 	border:"1px solid #AECAB4";
 }
 --></style>	
-
+<!-- nexus styles -->
+<style type="text/css">
+<!-- 
+	p.section { 
+		margin-top:15px;
+	}
+	
+	.text {
+		color: #000000;
+		font-family: verdana, helvetica, sans serif;
+		font-size: 13px;	
+	}
+	
+	.pageTitleB {
+		color: #2D5C3D;
+		font-family: Arial, helvetica, sans serif;
+		font-size: 13pt;
+		font-weight: bold;	
+	}
+	
+	.sectionhead {
+		color: #2D5C3D;
+		font-family: verdana, helvetica, sans serif;
+		font-size: 13px;
+		font-weight: bold;	
+	}
+	
+	.sectionsubhead {
+		color: #000000;
+		font-family: verdana, helvetica, sans serif;
+		font-size: 11px;
+		font-weight: bold;	
+	}
+	
+	
+	.toolbox {
+		color: #2D5C3D;
+		font-family: verdana, helvetica, sans serif;
+		font-size: 8pt;	
+		font-weight: bold;	
+	}
+	
+	 .toolboxHeader {
+	  color: #2D5C3D;
+	  font-family: verdana, helvetica, sans serif;
+	  font-size: 9pt; 
+	  font-weight: bold; 
+	 }
+	 
+	 A.bulletlink:link {
+		color: #2D5C3D;
+		text-decoration : underline;
+		font-family: verdana, helvetica, sans serif;
+		font-size: 13px;	
+	}   
+	
+	A.bulletlink:visited {
+		color: #666666;
+		text-decoration : underline;
+		font-family: verdana, helvetica, sans serif;
+		font-size: 13px;	
+	} 
+	
+	.pageTitleB {
+		color: #2D5C3D;
+		font-family: verdana, helvetica, sans serif;
+		font-size: 13pt;
+		font-weight: bold;	
+	}
+ -->
+</style>
+<!-- end nexus styles -->
 <script language="JavaScript">
 <!--
 // browser detection
@@ -294,6 +366,7 @@ function makeContact(){
 
 
 <!-- HEADSTUFF END-->
+
 </head>
 
 <body marginheight="0" marginwidth="0" bgcolor="white" link="#006666" vlink="#999999" alink="#336699" topmargin="0" leftmargin="0">
@@ -305,6 +378,9 @@ function makeContact(){
 if (isLinux) {
 	ShowPrint = false;
 	widePage = true;
+}
+if (bIsNav) {
+	ShowPrint = false;
 }
 else {
 	if (printSize =="no")	{
@@ -322,24 +398,27 @@ else {
 	}
 
 
-	if (widePage) {		
-		document.write('</table><TABLE width=770 bgcolor="white" cellpadding=0 cellspacing=0 border=0 style="border: solid 1px black">');}
-	else {
-		document.write('</table><TABLE width=600 bgcolor="white" cellpadding=0 cellspacing=0 border=0 style="border: solid 1px black">');}
+	if (bIsIE) {
+		if (widePage) {		
+			document.write('</table><TABLE width=770 bgcolor="white" cellpadding=0 cellspacing=0 border=0 style="border: solid 1px black">');}
+		else {
+			document.write('</table><TABLE width=600 bgcolor="white" cellpadding=0 cellspacing=0 border=0 style="border: solid 1px black">');}
+	}
 }
 
 </script>
 <!--top nav area-->
 
 <tbody><tr><td bgcolor="#2D5C3D" width="100%">
-
+<table border="0" width="770" cellpadding="0" cellspacing="0">
 <script>
-//alert(howWide);
-	if (widePage) {		
-		document.write('<TABLE border=0 width=770 cellpadding=0 cellspacing=0>')}
-	else {
-		document.write('<TABLE border=0 width=600 cellpadding=0 cellspacing=0>')}
-</script><table border="0" width="770" cellpadding="0" cellspacing="0">	
+	if (bIsIE) {
+		if (widePage) {		
+			document.write('</table><TABLE border=0 width=770 cellpadding=0 cellspacing=0>')}
+		else {
+			document.write('</table><TABLE border=0 width=600 cellpadding=0 cellspacing=0>')}
+	}
+</script>	
 	<tbody><tr>
 	<td>
 	<table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -363,6 +442,7 @@ else {
 </tbody></table>
 </td></tr>
 <tr><td>
+<table bgcolor="white" border="0" width="600" cellpadding="0" cellspacing="0">
 <script>
 	if (bIsIE || ns5){
 		if (widePage) {
@@ -370,13 +450,13 @@ else {
 		else {
 			document.write('<TABLE bgcolor="white" border=0 width=600 cellpadding=0 cellspacing=0>'); }
 	}
-	else {
-		if (widePage) {
-			document.write('<TABLE bgcolor="white" border=0 width=600 cellpadding=0 cellspacing=0>'); }
-		else {
-			document.write('<TABLE bgcolor="white" border=0 width=450 cellpadding=0 cellspacing=0>'); }
-	}
-</script><table bgcolor="white" border="0" width="770" cellpadding="0" cellspacing="0">	
+	//else {
+	//	if (widePage) {
+	//		document.write('<TABLE bgcolor="white" border=0 width=600 cellpadding=0 cellspacing=0>'); }
+	//	else {
+	//		document.write('<TABLE bgcolor="white" border=0 width=450 cellpadding=0 cellspacing=0>'); }
+	//}
+</script></table><table bgcolor="white" border="0" width="770" cellpadding="0" cellspacing="0">	
 <!-- MAIN NAVBAR END --->
 	<tbody><tr>
 	<td bgcolor="#2D5C3D" valign="top" width="150">
@@ -506,7 +586,6 @@ else {
 		<td width="12" valign="top"><img src="/images/n2_primarrow_n.gif" width="12" height="19" alt="" border="0"></td>
 		<td colspan="2" class="PrimaryNav"><a href="/customer.html" class="PrimaryNav">Information for Customers</a></td>
 	</tr>
-	
 	<!-- secondary navigation -->
 	
 		
@@ -517,18 +596,17 @@ else {
 	</td>
 	<td><img src="/images/transp.gif" width="10"></td>
 	<td bgcolor="white" valign="top" width="100%">
-<table align="left" border="0" width="100%" cellspacing="0">
-	<tbody><tr>
-		<td bgcolor="white" width="100%">
+			<table align="left" border="0" width="100%" cellspacing="0"><tbody><tr><td bgcolor="white" width="100%">
 	<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
 		<td>
 			<img src="images/title.gif">
 		</td>
-		<td valign="bottom">&nbsp;</td>
+
 	</tr>
-	</tbody></table>		
-	
-	<div style="margin-top:-10px"><hr class="line1" noshade="" width="100%" align="left"></div>
+	</tbody></table>
+
+			<!-- CONTENT START-->	
+					<div style="margin-top:-10px"><hr class="line1" noshade="" width="100%" align="left"></div>
 			
 			<!--THIS IS WHERE THE TEXT STARTS-->			
 				<font face="verdana,Arial,helevetica" size="2" color="black">	
@@ -843,7 +921,7 @@ or visit our website at<br>
 		 <hr class="line1">
 	     <p align="left">
 		 <font face="Verdana,Arial,Tahoma" size="1">
-		 1 The TD Bank Financial Group means The Toronto-Dominion Bank and affiliates, who provide deposit, investment, loan, securities, trust, insurance and other products and services. Our affiliates include: The Canada Trust Company, Canada Trustco Mortgage Company, TD Mortgage Corporation, TD Pacific Mortgage Corporation, TD Securities Inc. (TD Evergreen Investment Services), TD Waterhouse Investor Services (Canada) Inc., TD Asset Management Inc., Toronto Dominion Life Insurance Company, Meloche Monnex Inc. and TD MarketSite Inc.<br>
+		 1 The TD Bank Financial Group means The Toronto-Dominion Bank and affiliates, who provide deposit, investment, loan, securities, trust, insurance and other products and services. Our affiliates include: The Canada Trust Company, Canada Trustco Mortgage Company, TD Mortgage Corporation, TD Pacific Mortgage Corporation, TD Securities Inc. (TD Evergreen Investment Services), TD Waterhouse Investor Services (Canada) Inc., TD Asset Management Inc., TD Life Insurance Company, Meloche Monnex Inc. and TD MarketSite Inc.<br>
 *Trade-mark of TD Bank.<br>
 * TD Bank, licensed user of Mark.<br>
 TD Bank Financial Group’s Privacy Code complies with the provisions of the Personal Information Protection and Electronic Documents Act.</font>
@@ -852,8 +930,12 @@ TD Bank Financial Group’s Privacy Code complies with the provisions of the Per
 <p>
 </p><p></p><div align="right"><a href="#top"><font face="Arial" size="2"><b>Top</b></font> <img src="/images/red4.gif" width="9" height="13" alt="" border="0"></a></div>
 			
-			<!--THIS IS WHERE THE TEXT ENDS-->				
-				
+			<!--THIS IS WHERE THE TEXT ENDS-->			
+			<!-- CONTENT END-->	
+	
+				</td></tr>
+			<tr>
+				<td>
 				<!-- FOOTER START-->	
 						<table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -890,9 +972,9 @@ TD Bank Financial Group’s Privacy Code complies with the provisions of the Per
 			</tr>
 			</tbody></table>
 	</td></tr></tbody></table><!--content main area table END-->
-	</td></tr> <!--bottom area END-->
+	
+</td></tr> <!--bottom area END-->
 </tbody></table>
- <!--bottom area END-->
 
 
 
