@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dslreports.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082622id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslreports.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017060657id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
 
 # broadbandreports.com - the place for BROADBAND
 
@@ -30,7 +30,7 @@ Registered users may elect to disable adverts completely.
 
 ##  Changes 
 
-We reserve the right to make changes to this policy at any time. If the change involves a _reduction_ in privacy protection of any kind, a notice will be posted to our [site forum](https://web.archive.org/forums/beeble) explaining the change. Since the inception of BBR and the first version of the privacy policy, no such change has been made.
+We reserve the right to make changes to this policy at any time. If the change involves a _reduction_ in privacy protection of any kind, a notice will be posted to our [site forum](https://web.archive.org/forum/beeble) explaining the change. Since the inception of BBR and the first version of the privacy policy, no such change has been made.
 
 _Last updated: 31 December 2000_  
 _update for company name: 6th May 2002_
