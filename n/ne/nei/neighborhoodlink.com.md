@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204200004id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602181108id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
 
 # Neighborhood Link - Your Neighborhood's Privacy Practices
 
@@ -13,7 +13,7 @@ Neighborhood Link has created this privacy statement in order to demonstrate our
 
 It is Neighborhood Link's intention to give you as much control as possible over your personal information. In general, you can visit the Neighborhood Link Web site without telling us who you are or revealing any information about yourself. However, there are places on our Web site when we may need information from you, such as your name, email address, city/state, and zip code. It is our intent to let you know before we collect personal information from you. 
 
-Neighborhood Link will not distribute or sell any of your personal information to third parties. However, your name and email address are available to registered coordinators. These coordinators have agreed to keep this information confidential. We do release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Neighborhood Link, our users, or others.
+Neighborhood Link will not distribute or sell any of your personal information to third parties. However, your name, username, and email address are available to registered coordinators if you request coordinator access to the site. Only these three pieces of information are shared with them, nothing more. We do release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Neighborhood Link, our users, or others.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We also can use the IP address to verify the identity of perpetrators of illegal postings. 
 
