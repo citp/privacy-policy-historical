@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206054753id_/http%3A//www.bgminteractive.com/privacy/bgmi_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602001412id_/http%3A//www.bgminteractive.com/privacy/bgmi_privacy.html) for the most accurate reproduction.*
 
 # Bell Globemedia Interactive Website Privacy Policy
 
@@ -17,7 +17,7 @@ Business contact information such as the name, title, business address, email ad
 
 "Non-Personal Information" is information of an anonymous nature, such as an [Internet Protocol Address (IP Address)](http://www.bgminteractive.com/privacy/bgmi_privacy2.html#ip), the domain used to access a BGMI Service, and the type and version of browser or operating system being used. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors and average time spent on a BGMI Service, is also considered Non-Personal Information. 
 
-Non-Personal Information is collected or derived by us in the course of operating the BGMI Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a [Cookie](https://web.archive.org/web/20021206054753id_/http%3A//www.bgminteractive.com/privacy/bgmi_privacy2.html#cookies) or through a [Web Beacon](http://www.bgminteractive.com/privacy/bgmi_privacy2.html#cookies) when you choose to visit a BGMI Service. [Non-Personal Information is used by BGMI as described here.](http://www.bgminteractive.com/privacy/bgmi_privacy2.html#nonpersonal)
+Non-Personal Information is collected or derived by us in the course of operating the BGMI Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a [Cookie](https://web.archive.org/web/20030602001412id_/http%3A//www.bgminteractive.com/privacy/bgmi_privacy2.html#cookies) or through a [Web Beacon](http://www.bgminteractive.com/privacy/bgmi_privacy2.html#cookies) when you choose to visit a BGMI Service. [Non-Personal Information is used by BGMI as described here.](http://www.bgminteractive.com/privacy/bgmi_privacy2.html#nonpersonal)
 
 USE OF PERSONAL INFORMATION   
 Personal Information may be used by us for the following purposes: 
@@ -64,4 +64,4 @@ If you decide at any time that you do not want to receive any e-mail materials t
 QUESTIONS, COMMENTS OR SUGGESTIONS  
 If you have questions, comments or suggestions about this Privacy Policy or BGMI's privacy practices that were not answered here, send our Privacy Manager an e-mail at [privacy@bgminteractive.com](mailto:privacy@bgminteractive.com)
 
-Copyright 2002 Bell Globemedia Interactive Inc. All Rights Reserved. 
+Copyright 2003 Bell Globemedia Interactive Inc. All Rights Reserved. 
