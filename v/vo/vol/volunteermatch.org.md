@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203024118id_/http%3A//volunteermatch.org/about/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616144119id_/http%3A//volunteermatch.org/about/legal/privacy.jsp) for the most accurate reproduction.*
 
 # VolunteerMatch - About - Privacy Policy
 
@@ -68,7 +68,7 @@ For Volunteers (with a personalized account):
   * Username and Password
   * Referral history
   * Customized email preferences (optional)
-  * RÃ©sumÃ© (optional)
+  * Resume (optional)
 
 
 
@@ -110,12 +110,12 @@ This site contains links to other sites. VolunteerMatch is not responsible for t
 In the unlikely event that VolunteerMatch undergoes a sale or transfer of all or substantially all of its assets, the acquiring entity will be subject to this Privacy Policy in its use of your personally identifiable Information. In addition, in the further unlikely event that VolunteerMatch is adjudicated bankrupt or insolvent (a) there will be no further use or disclosure of your personally identifiable Information by VolunteerMatch and (b) your personally identifiable Information will be destroyed. In addition, there will be no use or disclosure of your personally identifiable Information by any entity that acquires assets of VolunteerMatch pursuant to such bankruptcy or insolvency proceedings. 
 
 **How You Can Access Or Correct Your Information**  
-If you are a nonprofit member, or volunteer with an account, you may access all your personally identifiable Information that we collect and maintain online by simply inputting your username and password where indicated on the website. If you are a nonprofit administrator, you may make any changes or correct factual errors in your administrator, organization and opportunity information 24 hours a day. We use this procedure to better safeguard your Information. You do not need to contact us to access your record or to make any changes. If you have problems changing your organization's Information, please contact Community Services at [respond@volunteermatch.org](mailto:respond@volunteermatch.org). 
+If you are a nonprofit member, or volunteer with an account, you may access all your personally identifiable Information that we collect and maintain online by simply inputting your username and password where indicated on the website. If you are a nonprofit administrator, you may make any changes or correct factual errors in your administrator, organization and opportunity information 24 hours a day. We use this procedure to better safeguard your Information. You do not need to contact us to access your record or to make any changes. If you have problems changing your organization's Information, please contact Community Services at [support@volunteermatch.org](mailto:support@volunteermatch.org). 
 
-If you are a volunteer and would like to have your Information deleted from the site, you may do so by contacting Community Services at [respond@volunteermatch.org](mailto:respond@volunteermatch.org). 
+If you are a volunteer and would like to have your Information deleted from the site, you may do so by contacting Community Services at [support@volunteermatch.org](mailto:support@volunteermatch.org). 
 
 **Opting-out of communications**  
-Individuals who serve as administrators for their organization by registering and maintaining their organizations' information and membership, are the only group required to receive VolunteerMatch communications. All other communications are optional and allow the nonprofit organization, volunteer, subscriber or other user to unsubscribe from the newsletter. In every email we send, we provide instructions regarding how to opt-out of receiving future mailings. Users may remove their Information from our database so as not to receive our service or future communications by sending an email to Community Services at [respond@volunteermatch.org](mailto:respond@volunteermatch.org). 
+Individuals who serve as administrators for their organization by registering and maintaining their organizations' information and membership, are the only group required to receive VolunteerMatch communications. All other communications are optional and allow the nonprofit organization, volunteer, subscriber or other user to unsubscribe from the newsletter. In every email we send, we provide instructions regarding how to opt-out of receiving future mailings. Users may remove their Information from our database so as not to receive our service or future communications by sending an email to Community Services at [support@volunteermatch.org](mailto:support@volunteermatch.org). 
 
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of Information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. 
@@ -124,7 +124,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 ** VolunteerMatch may change this privacy policy from time to time. VolunteerMatch will notify you of any such changes by posting notice of the changes on the VolunteerMatch start-up screen. If you object to any such changes, your sole recourse shall be to cease using the VolunteerMatch Web site. Continued use of the VolunteerMatch Web site following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
 **How To Contact Us**  
-We appreciate your questions or comments about this privacy statement, the practices of this site, or your dealings with VolunteerMatch. Please send email to [respond@volunteermatch.org](mailto:respond@volunteermatch.org) or you can send snail mail to 385 Grove Street, San Francisco, CA 94102. 
+We appreciate your questions or comments about this privacy statement, the practices of this site, or your dealings with VolunteerMatch. Please send email to [support@volunteermatch.org](mailto:support@volunteermatch.org) or you can send snail mail to 385 Grove Street, San Francisco, CA 94102. 
 
 Revised July 18, 2003 
 
