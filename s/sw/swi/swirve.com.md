@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601194500id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075410id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # About Swirve.com
 
 | 
 
-**Swirve.com... It's all in the hips.**
+**Swirve.com... The reason Al Gore invented the internet.**
 
 |   
 ---  
@@ -66,11 +66,14 @@ SWIRVE.COM!**
 * * *
 
   
-Brian - Thank you for all you are and all the adventures we may have this summer. You are a special person in my life. I hope we can grow together and make lasting memories.   
-_\- Daria_
+Bobcat, when we first met, we definitely knew that it was love at first sight. Thought the mist of the storm comes the quiet love we have for each other.   
+_Never forget, Tiger!_
 
-Daniel, There is so much I want to say. I love you so very much. Ithought the day came to be with you in Sweden was the best day of my life, but I was wrong. It was the day you asked me to marry you. I love you.   
-_Stephie_
+Kelly, I know we have been through a lot ... but I know love will conquer all. I love you baby, and I always will. I want you to be my wife someday, Kelly. I love you!   
+_Danny_
+
+Redbeard, Since I've met you here, we've shared so much: talks, stories, thoughts, dreams, goals and so much more. If I would have never met you, my life would be incomplete. You make me want to be a better person.   
+_Love, MeloDEE_
 
 Want to say something? [Tell Us!](javascript:Users\(\);)  
   
