@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salomon.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013080103id_/http%3A//www.salomon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salomon.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210112326id_/http%3A//www.smithbarney.com/privacy.html) for the most accurate reproduction.*
 
 # Internet Privacy Statement
 
@@ -6,9 +6,9 @@
   
 
 
-Salomon Smith Barney clients may review the [Citigroup Privacy Promise For Consumers](https://web.archive.org/about_us/citi_privacy.html).
+Smith Barney clients may review the [Citigroup Privacy Promise For Consumers](https://web.archive.org/citi_privacy.html).
 
-Keeping your personal information secure and ensuring your understanding of how we use that information is important to us at Salomon Smith Barney Access. Our goal is to help you understand how the personal information you choose to share with us through this site is used and maintained.
+Keeping your personal information secure and ensuring your understanding of how we use that information is important to us at Smith Barney Access. Our goal is to help you understand how the personal information you choose to share with us through this site is used and maintained.
 
 You can visit this site to read about our firm, its products and services, or award winning research, get up-to date market news, check for career opportunities, use our branch locator or other features, all without giving us any personal information about yourself. 
 
@@ -20,4 +20,4 @@ Our Young Investors Network section of this site does not collect personally ide
 
 We maintain your personal information and data according to strict standards of security and confidentiality as described in the Terms and Conditions that govern your use of this site. Online access to your account portfolio is only possible through a secure (SSL capable) web browser. SSL capable web browsers support encryption technology, which helps prevent unauthorized users from viewing your account information as it travels over the Internet. You can learn more about security features in our [FAQs on Software & Technical](https://web.archive.org/help/faq/software_tech.html) section. 
 
-This privacy statement does not supersede the Terms and Conditions that govern your use of this site. Any conflict between the two shall be determined in favor of such Terms and Conditions. Salomon Smith Barney may change this statement at any time. Any changes or updates will be effective immediately upon posting to this site.
+This privacy statement does not supersede the Terms and Conditions that govern your use of this site. Any conflict between the two shall be determined in favor of such Terms and Conditions. Smith Barney may change this statement at any time. Any changes or updates will be effective immediately upon posting to this site.
