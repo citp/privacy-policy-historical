@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603190534id_/http%3A//www.briggsandstratton.com/display/AppLinkRedir.asp%3FDocID%3D74934%26LRID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803070437id_/http%3A//www.briggsandstratton.com/display/AppLinkRedir.asp%3FDocID%3D74934%26LRID%3D1) for the most accurate reproduction.*
 
 # Briggs & Stratton - PRIVACY STATEMENT
 
@@ -25,7 +25,7 @@ This privacy statement discloses the privacy practices for http://www.briggsands
   7. How you can correct any inaccuracies in the information. 
 
   
-If you feel that this company is not abiding by its posted privacy policy, you should first contact the Webmaster by sending an email to [webmaster@basco.com](mailto:spanic.deborah@basco.com).   
+If you feel that this company is not abiding by its posted privacy policy, you should first contact the Webmaster by sending an email to [webmaster@basco.com](http://faqs.custhelp.com/cgi-bin/faqs.cfg/php/enduser/std_alp.php).   
 Information Collection and Use  
 The Briggs & Stratton Corporation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Briggs & Stratton Corporation collects information from our users at several different points on our web site.  
 My Engine Information: Registration  
