@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606033906id_/http%3A//www.stardock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208035420id_/http%3A//www.stardock.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ##  Privacy Statement for Stardock.com
 
-**Stardock.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Stardock.com ](http://www.iconzone.com/) This policy is also applicable to Stardock's other Web sites, including but not limited to: [Stardock.net](http://www.stardock.net/), [JoeUser.com](http://www.joeuser.com/), [Windowblinds.net](http://www.windowblinds.net/), [DesktopX.net](http://www.desktopx.net/), and [ObjectDesktop.net](http://www.objectdesktop.net/).
+**Stardock.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Stardock.com ](http://www.iconzone.com/) This policy is also applicable to Stardock's other Web sites, including but not limited to: [Stardock.net](http://www.stardock.net/), [WinCustomize.com](http://www.wincustomize.com/), [JoeUser.com](http://www.joeuser.com/), [Windowblinds.net](http://www.windowblinds.net/), [DesktopX.net](http://www.desktopx.net/), [GalCiv.com](http://www.galciv.com/), [PoliticalMachine.com](http://www.politicalmachine.com/), and [ObjectDesktop.net](http://www.objectdesktop.net/).
 
 ####  Information Automatically Logged
 
@@ -12,7 +12,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 ####  Cookies
 
-Our Site uses cookies to keep track of items in your shopping cart. ObjectDesktop.net's Component Manager also uses per session cookies as part of its validation process.
+Our Site uses cookies to keep track of items in your shopping cart. Stardock.net accounts on the various websites (like WinCustomize.com and for installing software via Stardock Central) also uses cookies as part of their validation process.
 
 ####  Advertisers
 
@@ -28,8 +28,6 @@ Contact information from the registration forms is used to get in touch with the
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-Unique identifiers are not currently collected from Web site visitors. 
-
 Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
 ####  Order Forms
@@ -41,8 +39,6 @@ Contact information from the order forms is used to ship purchases, information 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
 Financial information that is collected is used to bill the user for products and services.
-
-Unique identifiers are not currently collected from Web site visitors. 
 
 Demographic and profile data is also collected at our site.   
 We may use this data in the future to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
