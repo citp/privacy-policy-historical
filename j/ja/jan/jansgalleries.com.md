@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jansgalleries.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203204907id_/http%3A//www.janswebring.com/vs_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jansgalleries.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602210236id_/http%3A//www.janswebring.com/vs_privacy_policy.php) for the most accurate reproduction.*
 
 # Jans! Webring - User Agreement
 
