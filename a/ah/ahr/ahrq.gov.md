@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602064639id_/http%3A//ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # AHRQ Privacy Policy Notice
 
@@ -54,4 +54,16 @@ Electronically submitted information is maintained and destroyed according to th
 
 ### Links to Other Sites
 
-Our Web site has links to other Federal agencies. We also have selected links to other Web resources. The privacy policy described here does not necessarily apply to those other sites. Once you link to another site, you are subject to the privacy policy of that site. 
+Our Web site has links to other Federal agencies. We also have selected links to other Web resources. The privacy policy described here does not necessarily apply to those other sites. Once you link to another site, you are subject to the privacy policy of that site.
+
+_Current as of December 1999_
+
+* * *
+
+[News & Information](https://web.archive.org/news/)  
+[AHRQ Home Page](https://web.archive.org/)  
+[Department of Health and Human Services](http://www.hhs.gov/)
+
+* * *
+
+[Accessibility](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/508web.htm) | [Contact Us](https://web.archive.org/info/customer.htm) | [Copyright](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/policyix.htm#copyright) | [Disclaimers](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/disclaim.htm) | [FOIA](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/foia.htm) | [Linking](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/weblink.htm) | [Privacy Notice](https://web.archive.org/web/20031203224002id_/http%3A//www.ahrq.gov/news/privacy.htm)
