@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsetc.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602201427id_/http%3A//craftsetc.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsetc.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211212832id_/http%3A//www.craftsetc.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # Crafts Etc! - Privacy Policy
 
@@ -18,4 +18,4 @@ We use SSL (secure socket layering) 128-bit encryption to protect your informati
 
 We also have a digital certificate through Verisign. This guarantees that data exchanged online is protected from theft and/or tampering. Their seal verifies that CraftsEtc.com is a secure site. 
 
-If you have any questions that are not answered here, please feel free to contact us at 1-800-888-0321 Ext. 1275 or e-mail us at [crafts@craftsetc.com](mailto:crafts@craftsetc.com) . We may change our Privacy Policy. All changes will be posted to the site and be effective immediately.
+If you have any questions that are not answered here, please feel free to contact us at 1-800-888-0321 Ext. 1275 or e-mail us at [ crafts@craftsetc.com](mailto:crafts@craftsetc.com) . We may change our Privacy Policy. All changes will be posted to the site and be effective immediately.
