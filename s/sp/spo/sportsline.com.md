@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the sportsline.com privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219161511id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsline.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602205806id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.*
 
 # CBS.SportsLine.com - SportsLine.com
 
-  |  |   |     
+  | 
+
+  
+  |   |     
 Privacy Statement for SportsLine.com   
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of SportsLine.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for SportsLine.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites (including those to which the Website links and third party sites or services with which SportsLine.com) may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to [privacy@sportsline.com](mailto:privacy@sportsline.com)   
 
@@ -45,13 +48,13 @@ We run contests on our site in which we ask visitors for SportsLine.com ID and p
 We offer a number of free newsletters to share content information about our site with interested users. Users may cancel their free email subscriptions by following the simple instructions at the bottom of each newsletter or email.   
   
 SportsLine.com utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in SportsLine.com's secure database, which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in SportsLine.com's databases as stated above.   
-If you choose to modify your personal information, you may do so by visiting the [Member Services](https://web.archive.org/u/helpcenter/index.html) page. You will be required to submit a valid user ID and password for authentication before you will be able to modify your file. If you have forgotten your password or prefer to speak with a customer service representative to modify your personal information, you may contact customer service at (800) 771-4616. You will be asked to provide your name or user ID and then to verify certain non-sensitive information (i.e. mother's maiden name) in order to proceed. Because password and credit card information has been encrypted, it is completely invisible to any employee who accesses it, including our customer service team. If you desire to change your password, the customer service representative will reset to a new one after you have properly identified yourself.   
+If you choose to modify your personal information, you may do so by visiting the [Member Services](https://web.archive.org/u/helpcenter/index.html) page. You will be required to submit a valid user ID and password for authentication before you will be able to modify your file. If you have forgotten your password or prefer to speak with a customer service representative to modify your personal information, you may contact customer service at (954) 489-4115. You will be asked to provide your name or user ID and then to verify certain non-sensitive information (i.e. mother's maiden name) in order to proceed. Because password and credit card information has been encrypted, it is completely invisible to any employee who accesses it, including our customer service team. If you desire to change your password, the customer service representative will reset to a new one after you have properly identified yourself.   
 SportsLine.com's technology department conducts frequent site security audits and employs a third party audit company to perform additional site security audits.   
   
 You have the following options to deactivate your information from SportsLine.com's database. This will cease deployment of future communications and/or SportsLine.com's services. 
 
   1. You can send an email to [Member Services](https://web.archive.org/u/helpcenter/index.html)
-  2. You can contact customer service at 800-771-4616 
+  2. You can contact customer service at 954-489-4115 
   3. You can [change/modify](http://www.sportsline.com/u/contests/register/update.htm) your personal options 
 
 **WARNING:** Deactivating your account will result in the loss of access to Members-Only areas.
