@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603183746id_/http%3A//www.covisint.com/legalPub/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203053639id_/http%3A//www.covisint.com/legalPub/privacy.shtml) for the most accurate reproduction.*
 
 # Covisint - Legal - Covisint Privacy Policy
 
 |    
 |   
 ---  
+| [Language](https://web.archive.org/language.shtml)  
 | [Legal Statements](https://web.archive.org/legalPub/)  
 | [Antitrust Policy](https://web.archive.org/legalPub/antitrust.shtml)  
 | [Privacy Policy](https://web.archive.org/legalPub/privacy.shtml)  
