@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209003508id_/http%3A//www.sinclairintl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601105943id_/http%3A//www.sinclairintl.com/privacy.html) for the most accurate reproduction.*
 
 # Sinclair International - Privacy
 
@@ -168,7 +168,7 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
 
 **Unsatisfactory policy** : this compact policy is considered _unsatisfactory_ according to the rules defined by Internet Explorer 6. The behavior of Internet Explorer 6 regarding cookies set under this compact policy is as follows: 
 
-| **First-party usage**|  **Third-party usage**  
+| | **First-party usage**|  **Third-party usage**  
 ---|---|---  
 **Persistent Cookies** | 
 
@@ -213,15 +213,4 @@ In addition, the data is used in the following manner, marking the policy as uns
 
 
 
-Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory. 
-
-  
-
-
-© 2000, 2001, 2002 Sinclair International  
-All rights reserved  
-Website development and maintenance by  
-[Visionary Web Design](http://www.visionaryweb.com/)
-
-|   
----|---
+Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory.
