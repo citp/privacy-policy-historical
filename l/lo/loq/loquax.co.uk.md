@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loquax.co.uk privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203052032id_/http%3A//www.loquax.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loquax.co.uk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607211651id_/http%3A//www.loquax.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Loquax Privacy Policy
 
