@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ket.org privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612050013id_/http%3A//www.ket.org/agency/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ket.org privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209195501id_/http%3A//www.ket.org/agency/privacy) for the most accurate reproduction.*
 
 # KET - Privacy and User Agreement Policy
 
