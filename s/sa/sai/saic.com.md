@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206185400id_/http%3A//www.saic.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603095420id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
 
 # SAIC: Privacy Statement
 
@@ -9,5 +9,3 @@ If you request information from www.saic.com through our On-Line Contact Form, w
 We also collect information through the use of cookies. Cookies are small pieces of data, or data files, which are sent by a web site to your web browser and are stored on your computer. They are used to understand general traffic patterns on www.saic.com. The information stored in the cookie is only used for statistical tracking purposes and not for individual identification. In no way does SAIC relate personal information to these traffic pattern statistics. We may use this aggregate data to provide feedback to our web designers, content providers or business managers to assist them in improving our web site and services offered.
 
 This privacy policy applies only to www.saic.com. You should be aware that through links you may be directed to other sites that we do not control. SAIC has no control over the privacy policies or practices of these other sites, and is not responsible for the privacy practices or the content of Web sites to which we link, list, rank or identify by means of a search. SAIC takes no responsibility for the products, services, policies or actions of third parties or the content of third party Web sites. We encourage you to be aware when you are leaving our site and to read the privacy policies of each Web site you visit. 
-
- Back to Top
