@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northropgrumman.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609175814id_/http%3A//www.northropgrumman.com/who_we_are/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northropgrumman.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208204734id_/http%3A//www.northropgrumman.com/who_we_are/privacy_policy.html) for the most accurate reproduction.*
 
 # Northrop Grumman Corporation - Defining the Future
 
