@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216100041id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2005-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050119094232id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
 
 # PayLoadz - Sell Digital Goods with PayPal
 
   
-| "As a new website called, tripstip.com, just getting started was difficult, however with PayLoadz we could sell our money saving tips for travel fast and efficiently with superb service from PayLoadz.com."  
+| "www.gmanvideo.com has been a great success thanks to your services. It's allowed my Customers to purchase individual Video Backgrounds and download them instantly while protecting the files from theft. It really is Awesome how everything is automatic. Once the item's Buy Now Button is added to the page all I have to do is watch the money come in. It's turned my Website into a virtual Cash Machine."  
   
 ---  
-From: [**Jill Rasnake  
-tripstip.com**](http://www.tripstip.com/)  
+From: [**Gmanvideo**](http://www.gmanvideo.com/)  
   
   
 
@@ -85,3 +84,8 @@ By using this site, you consent to the collection and use of this information by
 **
 
 |   | 
+
+[](http://store.payloadz.com/detail.asp?c=13&s=58&i=7666)  
+| **[Tsunami Relief](http://store.payloadz.com/detail.asp?c=13&s=58&i=7666)**  
+---  
+We are helping one of our merchants raise money for the disaster relief effort. Click the image to learn more.
