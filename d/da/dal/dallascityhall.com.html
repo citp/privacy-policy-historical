@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dallascityhall.com privacy policy that was archived on 2003-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031004162307id_/http%3A//dallascityhall.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dallascityhall.com privacy policy that was archived on 2004-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040402170312id_/http%3A//www.dallascityhall.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>DALLAScityhall.com: Privacy Policy</title>
@@ -131,30 +131,68 @@ a.navlnk:hover {
 
 <script language="JavaScript" type="text/javascript">
 <!--
-function credit() {
-  window.open('/credits.jsp','credits',
-  'toolbar=no,location=no,status=no,menubar=no,resizable=no,scrollbars=no,width=300,height=200');
+
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
+
+// a few browser sniffs to account for known bugs
+var sUserAgent = navigator.userAgent.toLowerCase();
+var isIE = document.all?true:false;
+var isOp = (sUserAgent.indexOf('opera')!=-1)?true:false;
+
+// make new popup window
+function pop(oAnchor,sProps,sWindow){
+	var sUrl = '';
+
+	// get URL from calling link oAnchor
+	if(oAnchor.getAttribute) sUrl = oAnchor.getAttribute('href');
+	if(sUrl=='') sUrl = oAnchor.href;
+
+	// if still no URL, return true and let the regular link take over
+	if(sUrl=='') return true;
+
+	// set window name ('_blank' for new window each time)
+	var sWindowName = sWindow?sWindow:'reusedWindow';
+
+	// sets default properties if none are defined in the function call optional variable 'sProps'
+	if(!sProps) sProps = 'width=300,height=200,scrollbars,resizable,toolbar,status,menubar,location';
+
+	// assign the popup to this variable so we can verify it exists
+	if(sUrl) var oPopup = window.open(sUrl,sWindowName,sProps);
+
+	// An Opera bug returns too early if you focus the window, so we don't focus it in that browser.
+	// Only a noticable defect if a window is already open and hidden.
+	if(oPopup && !isOp) oPopup.focus();
+
+	// If popup was created successfully, cancel link in calling window.
+	// Acts as regular link in browser that has popup blocking enabled or JavaScript turned off.
+	return (oPopup)?false:true;
+
 }
 
-function creditEsp() {
-  window.open('/credits.jsp?language=esp','credits',
-  'toolbar=no,location=no,status=no,menubar=no,resizable=no,scrollbars=no,width=300,height=200');
+// With onkeypress event, this verifies 'Enter' key
+function verifyKey(oElement,oEvent){
+	if(oEvent.keyCode==13 && oElement.onclick) oElement.onclick();
 }
 
 //-->
 </script>
+
 <form method="get" name="searchit" onsubmit="if (this.user_query.value=='') {alert('Please enter query.'); return false;}" action="/search.jsp">
 <input name="language" type="hidden" value="eng">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tbody><tr>
-    <td class="header" align="left" width="30%"><img src="/images/eng/secheader.gif"></td>
+    <td class="header" align="left" width="30%"><img src="/images/eng/secheader.gif" alt="City of Dallas.com logo"></td>
 
     <td class="header" align="right" valign="middle"><a class="secmenu" href="/dallas/eng/city_of_dallas_info.html">City Information</a> | <a class="secmenu" href="/dallas/eng/html/dallas_city_council.html">Elected Officials</a> | <a class="secmenu" href="/dallas/eng/html/employment.html">City Employment</a> | <a class="secmenu" href="/contact/">Contact the City</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
   </tr>
   <tr>
-    <td class="collage" colspan="2"><img src="/images/collage.jpg"></td>
+    <td class="collage" colspan="2"><img src="/images/collage.jpg" alt="Photo collage of Dallas landmarks"></td>
   </tr>
 </tbody></table>
 
@@ -293,14 +331,16 @@ setSearch(document.forms['searchit'].elements['user_query'], 0);
   </tr>
 	  <tr><td width="600" align="center">
     <br><br>
-    <!-- $$Revision: 6 $-->
+    <!-- $$Revision: 7 $-->
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tbody><tr>
 
-    <td align="center" valign="bottom"><a href="http://www.centerdigitalgov.com/center/bow02/"><img src="/images/bow_winner_02.gif" border="0"></a>
-<a class="footer" href="http://www.dallascityhall.com/dallas/eng/html/web_accessiblity.html">web accessibility</a>&nbsp;|&nbsp;<a class="footer" href="javascript:credit()">credits</a>&nbsp;|&nbsp;<a class="footer" href="/contact">help</a>&nbsp;|&nbsp;<a class="footer" href="/privacy.jsp">privacy</a><a href="http://www.texasonline.com"><img src="/images/tol.gif" border="0"></a>©2001-2003 dallascityhall.com</td>
+    <td align="center" valign="bottom"><a href="http://www.centerdigitalgov.com/center/bestofweb03.php"><img src="/images/bow02.jpg" alt="Best of the Web Winner logo" border="0"></a>
+<a class="footer" href="http://www.dallascityhall.com/dallas/eng/html/web_accessiblity.html">web accessibility</a>&nbsp;|&nbsp;<a class="footer" href="/credits.jsp" onclick="return pop(this,'width=300,height=200,scrollbars=no,resizable=no,location=no','Credits');" onkeypress="verifyKey(this,event);">credits</a>&nbsp;|&nbsp;<a class="footer" href="/contact">help</a>&nbsp;|&nbsp;<a class="footer" href="/privacy.jsp">privacy</a><a href="http://www.texasonline.com"><img src="/images/tol.gif" border="0" alt="TexasOnline logo"></a>©2001-2004 dallascityhall.com
+	
+</td>
 
   </tr>
 </tbody></table>
