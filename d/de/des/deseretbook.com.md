@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 1999-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991111150541id_/http%3A//deseretbook.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622064319id_/http%3A//deseretbook.com/help/privacy.html) for the most accurate reproduction.*
 
 # DeseretBook.com's Privacy Policy
 
@@ -39,7 +39,7 @@
 
 ### Will personal information be shared with outside entities?
 
-> No. Deseret Book Company will use the information you provide us for internal purposes only. We will not sell, rent or trade the information to any outside entity. 
+> No. Deseret Book Company will use the information you provide us for internal purposes only. We will not sell, rent or trade the information to any outside entity. However, if you participate in [DeseretBook.com Auctions](http://deseretbook.com/auctions/), your email address (but not your mailing address or name, etc.) will be available to other buyers and sellers to finalize transactions and to conduct other auction related correspondence. 
 
 ### Can I change my personal information?
 
@@ -54,3 +54,13 @@
 > If you feel uncomfortable sending your credit card information over the Web, we offer you two additional options to complete your order. First, you can check the box "Check here and we will call you for your credit card information" on the final checkout screen. Second, you can call our Customer Service Center to complete your order. Once you've identified the items you wish to order, call 1-800-453-4532 to place your order. 
 
 * * *
+
+© Copyright 1996-2000 Deseret Book Company. All Rights Reserved.  
+40 East South Temple Street  
+Salt Lake City, Utah 84111  
+Read our [privacy policy](https://web.archive.org/help/privacy.html) and [100% safe shopping guarantee](https://web.archive.org/help/guarantee.html) |  Toll-free Orders: (800) 453-4532  
+(Operators available M-F 9am-5pm MDT)  
+Fax Orders: (801) 517-3392  
+Phone: (801) 534-1515  
+[Contact us via Email](https://web.archive.org/help/contact.html)  
+---|---
