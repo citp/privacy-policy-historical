@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013732id_/http%3A//rocklandtrust.com/about/a_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209191634id_/http%3A//www.rocklandtrust.com/about/a_privacy.html) for the most accurate reproduction.*
 
 # Rockland Trust: Privacy Policy
 
-  |  | [About](https://web.archive.org/web/20020604013732id_/http%3A//rocklandtrust.com/about/a_welcome.html)  
+  |  | [About](https://web.archive.org/web/20021209191634id_/http%3A//www.rocklandtrust.com/about/a_welcome.html)  
 ---  
-[Branch/ATM Locator](https://web.archive.org/web/20020604013732id_/http%3A//rocklandtrust.com/about/a_locator.html)  
-[Site Map](https://web.archive.org/web/20020604013732id_/http%3A//rocklandtrust.com/about/a_map.html)  
-[Contact](https://web.archive.org/web/20020604013732id_/http%3A//rocklandtrust.com/about/a_contact.html)  
+[Branch/ATM Locator](https://web.archive.org/web/20021209191634id_/http%3A//www.rocklandtrust.com/about/a_locator.html)  
+[Site Map](https://web.archive.org/web/20021209191634id_/http%3A//www.rocklandtrust.com/about/a_map.html)  
+[Contact](https://web.archive.org/web/20021209191634id_/http%3A//www.rocklandtrust.com/about/a_contact.html)  
 [Careers](http://company.monster.com/rockland/)  
-[**Privacy Policy**](https://web.archive.org/web/20020604013732id_/http%3A//rocklandtrust.com/about/a_privacy.html)  
+[**Privacy Policy**](https://web.archive.org/web/20021209191634id_/http%3A//www.rocklandtrust.com/about/a_privacy.html)  
 [Shareholders](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=indb&script=2100)  
-[News](https://web.archive.org/web/20020604013732id_/http%3A//rocklandtrust.com/about/a_news.html)  
+[News](https://web.archive.org/web/20021209191634id_/http%3A//www.rocklandtrust.com/about/a_news.html)  
 | 
 
 Rockland Trust Company Privacy Information
