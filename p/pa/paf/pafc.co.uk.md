@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pafc.co.uk privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004052657id_/http%3A//www.pafc.co.uk/home/view/privacy_statement/0%2C%2C10364%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pafc.co.uk privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220022516id_/http%3A//www.pafc.premiumtv.co.uk/page/PrivacyStatement/0%2C%2C10364%2C00.html) for the most accurate reproduction.*
 
-# Plymouth Argyle Football Club
+# Plymouth Argyle Official Site
 
-The Club and the operator of this website, FLPTV Limited (“FLPTV”), are committed to protecting your privacy. Please take a moment to read this site’s Privacy Policy.  References to “we”, “us” and “our” in this Policy are references to FLPTV. This Policy describes what happens to the information which you supply to us, where that information identifies you individually :- e.g. your name and address details. 
+Privacy Statement The Club and the operator of this website, FLPTV Limited (“FLPTV”), are committed to protecting your privacy. Please take a moment to read this site’s Privacy Policy.  References to “we”, “us” and “our” in this Policy are references to FLPTV. This Policy describes what happens to the information which you supply to us, where that information identifies you individually :- e.g. your name and address details. 
 
  We reserve the right to change the terms of this Privacy Policy from time to time.
 
@@ -50,11 +50,12 @@ FLPTV is firmly committed to data security.  When you place orders or access yo
 
 If you have any questions or concerns about our use of your personal information please write to:
 
-Kenny Boyle  
+Nigel Blower  
 Data Protection Compliance Officer  
 FLPTV Limited  
 Digital Sports Centre  
 Plane Tree Crescent  
 Feltham  
 Middlesex  
-TW13 7HE
+TW13 7HE  
+
