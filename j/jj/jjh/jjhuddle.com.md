@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217084607id_/http%3A//jjhuddle.com/update/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034916id_/http%3A//jjhuddle.com/update/privacy.htm) for the most accurate reproduction.*
 
 # J.J.'s Ohio High School Sports Huddle
 
@@ -10,11 +10,15 @@ Your computer reaches us via a particular IP (Internet Protocol) address. This c
 
 Your browser has the ability to use so-called "cookies" which, unless you disable their use, store small amounts of data on your computer about your visit to various web sites. Message Boards used on our site use cookies. We use this data to tailor our visitor's experience at our site, displaying the content according to their preferences. None of this information is sold or disseminated to outside parties. Please remember that any information that is disclosed on the message boards becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Our message boards ask visitors for contact information (like their email address), demographic and profile data. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings. None of this information is sold or disseminated to outside parties.
-
-Banner ads displayed through advertising brokers on our pages may elect to use cookies to prevent the same ad being displayed too many times to the same user, or to identify JJHuddle.com as the site responsible for a "click-through" for an advertiser. However, cookies can not reveal any personal information about you. None of this information is available to JJHuddle.com, and therefore is not sold or disseminated to outside parties.
+Our message boards ask visitors for contact information (like their email address), demographic and profile data. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings. We do not and will not disclose your private, personally identifiable information to any third party for any purpose without your prior consent. However, JJHuddle reserves the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action arising from any message posted by you.  See the [user agreement](http://www.jjhuddle.com/cgi-bin/ubb/Ultimate.cgi?action=agree&COPPAcheck=OK) for more details.
 
 This site contains links to other sites. JJHuddle.com is not responsible for the privacy practices or the content of such Web sites.
+
+**Third Party Advertising**  
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp)   
+**  
+Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **Privacy for Children Aged 12 and Under**
 
