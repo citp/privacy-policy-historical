@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the kfsm.com privacy policy that was archived on 2000-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000823082213id_/http%3A//www.kfsm.com/now/story/0%2C1597%2C53940-356%2C00.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfsm.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410025245id_/http%3A//kfsm.com/now/story/0%2C1597%2C53940-356%2C00.shtml) for the most accurate reproduction.*
 
 # CBS.com--CBS.com Privacy Statement
 
 **(CBS)**  CBS.com takes your electronic privacy seriously. We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information. 
-
-We understand the need to protect the online privacy of children who may not yet be sophisticated enough to determine for themselves what information is appropriate to release. The Kidshow portion of our site is hosted by Nikolai.com. Nikolai.com has a [Children's Privacy Policy](http://cbs.nikolai.com/privacy.shtm) that parents can read. 
 
 Questions regarding this statement should be directed to the cbs.com privacy coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to: 
 
