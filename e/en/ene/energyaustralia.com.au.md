@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610043931id_/http%3A//energyaustralia.com.au/ea/earetail.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209032059id_/http%3A//www.energyaustralia.com.au/ea/earetail.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # EnergyAustralia - Our Website Privacy Policy
 
 **1\. EnergyAustralia's approach to privacy**
 
-EnergyAustralia respects privacy and is committed to complying with the National Privacy Principles in the _Privacy Act_ 1988\. This Website Privacy Policy explains how we handle information we collect online. For more information about how EnergyAustralia handles personal information collected offline, and information about how you can seek access to the personal information which EnergyAustralia holds about you, click here for [EnergyAustralia's Privacy Statement and Privacy __ Policy](https://web.archive.org/web/20020610043931id_/http%3A//energyaustralia.com.au/ea/earetail.nsf/Content/EA_Privacy_Statement_and_Privacy_Policy).
+EnergyAustralia respects privacy and is committed to complying with the National Privacy Principles in the _Privacy Act_ 1988\. This Website Privacy Policy explains how we handle information we collect online. For more information about how EnergyAustralia handles personal information collected offline, and information about how you can seek access to the personal information which EnergyAustralia holds about you, click here for [EnergyAustralia's Privacy Statement and Privacy __ Policy](https://web.archive.org/web/20021209032059id_/http%3A//www.energyaustralia.com.au/ea/earetail.nsf/Content/EA_Privacy_Statement_and_Privacy_Policy).
 
 **2\. What personal information is collected online**
 
