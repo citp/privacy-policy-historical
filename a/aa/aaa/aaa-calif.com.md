@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the aaa-calif.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621081504id_/http%3A//aaa-calif.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaa-calif.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001213042id_/http%3A//aaa-calif.com/privacy.asp) for the most accurate reproduction.*
 
 # AAA - Auto Club of Southern California - Privacy Statement
 
 **Automobile Club of Southern California**
 
 **Privacy Notice**  
-The Auto Club and its affiliates, including the Interinsurance Exchange of the Automobile Club, respect your privacy. We want to assure you that safeguarding information about you is important to us. We gather nonpublic personal information about you only to conduct business on your behalf, provide superior service, and communicate offers on products and services that we believe will be of interest or benefit to you. 
+The Auto Club and its affiliates respect your privacy. We want to assure you that safeguarding information about you is important to us. We gather nonpublic personal information about you only to conduct business on your behalf, provide superior service, and communicate offers on products and services that we believe will be of interest or benefit to you. 
 
-**Information we collect.** We collect, from you or other sources, information such as your name, address and telephone number. We also collect information about your transactions with us, with our affiliates, or with others, such as insurance policy information, premiums, payment history, and purchases related to the use of your membership card. For those who take advantage of insurance services, we may also collect information, such as claims history, from consumer reporting agencies. 
+**Information we collect.** We collect, from you or other sources, information such as your name, address and telephone number. We also collect information about your transactions with us, with our affiliates, or with others, such as purchases related to the use of your membership card. 
 
-**Information we share.** We share information about you with our affiliates and non-affiliates, such as companies that perform marketing services on our behalf or financial institutions with whom we have joint marketing agreements. Because we value the trust you’ve placed in us, we require that these companies keep the information we send them confidential and limit their use of it to the purposes for which we send it to them, such as notifying you of special offers. We also provide information about you to others as permitted or required by law for specific, limited purposes, such as processing transactions you request (towing, DMV), responding to subpoenas or government agencies, or preventing fraud. 
+**Information we share.** We share information about you with our affiliates and non-affiliates, such as companies that perform marketing services on our behalf or financial institutions with whom we have joint marketing agreements. Because we value the trust you’ve placed in us, we require that these companies keep the information we send them confidential and limit their use of it to the purposes for which we send it to them, such as notifying you of special offers. We also provide information about you to others as permitted or required by law for specific, limited purposes, such as processing transactions you request (towing, DMV), responding to subpoenas or government agencies. 
 
 **Information protection.** We protect nonpublic personal information about you by restricting access to employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards to guard this nonpublic personal information. 
 
 **This notice is being provided on behalf of the following:**  
 Automobile Club of Southern California  
-Interinsurance Exchange of the Automobile Club  
-ACSC Management Services, Inc.  
 AAA Club Services, LLC 
 
 Note: The words "you," and "your," as used in this notice, mean an individual, including a former customer, who seeks to obtain, obtains, or has obtained a product or service from the Auto Club or an affiliate that is to be used primarily for personal, family or household purposes. 
