@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthinsurance.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205035404id_/http%3A//www.lifeinsurance.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.net privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202903id_/http%3A//www.lifeinsurance.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Life Insurance .Net
 
