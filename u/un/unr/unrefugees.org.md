@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrefugees.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202164621id_/http%3A//www.unrefugees.org/dynamic.cfm%3FID%3D102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrefugees.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607164426id_/http%3A//www.unrefugees.org/dynamic.cfm%3FID%3D102) for the most accurate reproduction.*
 
 # USA for UNHCR
 
