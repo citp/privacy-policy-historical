@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208125940id_/http%3A//www.pitch.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208180444id_/http%3A//www.pitch.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Pitch Weekly | pitch.com | About
+# The Pitch | pitch.com | About
 
 ****
 
 **New Times**   
-Parent of _Pitch Weekly_ and pitch.com 
+Parent of _The Pitch_ and pitch.com 
 
 New Times respects your privacy. Here's our privacy policy for this site: 
 
