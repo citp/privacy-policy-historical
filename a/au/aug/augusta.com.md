@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the augusta.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616124054id_/http%3A//www.augusta.com/faq/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augusta.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205071901id_/http%3A//augusta.com/faq/privacy.shtml) for the most accurate reproduction.*
 
 # Augusta.com - Ulitmate source of news, information, and entertainment for Augusta, Georgia.
 
