@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the duke-energy.com privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204223215id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the duke-energy.com privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606163340id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -36,24 +36,35 @@ Privacy - Duke Energy
 
 
 <div id="search" style="position:absolute; left: 170px; top: 0px; width:599px; z-index:1"> 
-  <form id="searchform" name="searchform" action="/search/default.asp" method="post">
+  <form id="searchform" name="searchform" onsubmit="SubmitSearchForm()" method="post">
     <table align="right" cellspacing="0" cellpadding="0" border="0" class="search">
       <tbody><tr>
         <td><img src="/images/spacer.gif" alt="" width="1" height="10"></td>
         <td rowspan="2"><img src="/images/spacer.gif" alt="" width="17" height="1"></td>
-
-        <td rowspan="2" class="border"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
-
+	
+	        <td rowspan="2" class="border"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+	
         <td rowspan="2"><img src="/images/spacer.gif" alt="" width="17" height="1"></td>
         <td><img src="/images/spacer.gif" alt="" width="151" height="10"></td>
       </tr>
       <tr>
         <td><a href="https://my.duke-energy.com/mydukeenergy/admin/login.asp">Customer Sign In</a></td>
-        <td><input type="text" class="text" size="10" id="searchstring" name="searchstring" value="Search" onmouseover="this.style.background='#eee';" onmouseout="this.style.background='#fff';" onclick="this.value='';">&nbsp;<input type="submit" class="submit" value=" Go " id="searchsubmit" name="searchsubmit" onmouseover="this.style.background='#bbb';" onmouseout="this.style.background='#ccc';"></td>
+        <td><input type="text" class="text" size="10" id="searchstring" name="searchstring" value="Search" onmouseover="this.style.background='#eee';" onmouseout="this.style.background='#fff';" onclick="this.value='';">&nbsp;<input type="submit" class="submit" onclick="SubmitSearchForm()" value=" Go " id="searchsubmit" name="searchsubmit" onmouseover="this.style.background='#bbb';" onmouseout="this.style.background='#ccc';"></td>
       </tr>
     </tbody></table>
   </form>
 </div>
+<script language="JavaScript" type="Text/JavaScript">
+
+function SubmitSearchForm()
+{
+ 
+   document.searchform.action =  "/search/default.asp?SearchStringPost=" + document.searchform.searchstring.value;
+   document.searchform.submit(); 
+}
+</script>
+
+
 
 <!-- begin masthead table -->
 
@@ -300,7 +311,7 @@ Privacy - Duke Energy
 	<div id="footer"> 
 	  <table width="397" border="0" cellspacing="0" cellpadding="0">
 	    <tbody><tr>
-	      <td>©Copyright 2003&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy.asp">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/legal.asp">Legal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/sitemap.asp">Site Map</a></td>
+	      <td>©Copyright 2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy.asp">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/legal.asp">Legal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/sitemap.asp">Site Map</a></td>
  	      
 	      <td align="right"> 
 	        <div id="top"><a href="#top" onclick="scroll(0,0);return false;"><img src="/images/top.gif" alt="back to top" width="11" height="10" border="0" align="middle">top</a></div>
