@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204550id_/http%3A//www.mbta.com/MBTAPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607145127id_/http%3A//www.mbta.com/MBTAPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Access Washington - Site Information
 
