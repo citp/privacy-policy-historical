@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2000-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000119200352id_/http%3A//thehuddle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205155500id_/http%3A//www.thehuddle.com/site/privacy.shtml) for the most accurate reproduction.*
 
-# thehuddle.com - Privacy Policy
+# Fantasy Football @ thehuddle.com - Fantasy Football Services
 
-**Privacy Statement**  
-thehuddle.com Privacy Policy   
+**Privacy Statement**   
 Oct 11, 1999 
 
-By using this site, you agree to the Privacy Policy of thehuddle.com. If you do not agree to the Policy, please do not use this site. thehuddle.com reviews its Privacy Policy periodically and reserves the right, at its discretion, to modify or remove portions of this Policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy or to change any information previously submitted, please write to us at thehuddle.com, P.O. Box 6377, Folsom, CA 95763, or e-mail us at privacy@thehuddle.com. 
+By using this site, you agree to the Privacy Policy of thehuddle.com. If you do not agree to the Policy, please do not use this site. thehuddle.com reviews its Privacy Policy periodically and reserves the right, at its discretion, to modify or remove portions of this Policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy or to change any information previously submitted, please write to us at thehuddle.com, P.O. Box 6377, Folsom, CA 95763, or e-mail us at [privacy@thehuddle.com](mailto:privacy@thehuddle.com). 
 
-thehuddle.com, which operates the Internet sites located at www.thehuddle.com, recognizes the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites. Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimize our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
+thehuddle.com, which operates the Internet sites located at [www.thehuddle.com](http://www.thehuddle.com/), [www.thehuddlelounge.com](http://www.thehuddlelounge.com/), [www.thehuddleleagues.com](http://www.thehuddleleagues.com/) and [www.sofawebwars.com](http://www.sofawebwars.com/), recognizes the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites. Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimize our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
 
 In those instances when we do collect personally identifiable information, the following policies apply: 
 
@@ -36,6 +35,10 @@ thehuddle.com has established relationships with reputable business partners tha
 
 thehuddle.com chooses its advertisers and business partners carefully. However, thehuddle.com is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by thehuddle.com of the content, policies or practices of such third party sites. Once you have left thehuddle.com site via such a link, you should check the applicable privacy policy of the third party site.
 
+**Children**
+
+thehuddle.com is a general audience site. We do not direct any of our content specifically at children under thirteen (13) years of age.
+
 **Ad Serving**
 
-thehuddle.com works with a third party, FlyCast, that serves ads to this site. To find out more about how FlyCast manages the privacy of information in conjunction with serving ads on this site, please [click here](http://www.flycast.com/about_us/about-privacy.html).
+thehuddle.com works with a third party, Engage Media, that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please [click here](http://www.flycast.com/about_us/about-privacy.html).
