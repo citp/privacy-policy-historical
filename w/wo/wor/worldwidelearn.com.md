@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602160153id_/http%3A//www.worldwidelearn.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201164657id_/http%3A//www.worldwidelearn.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for World Wide Learn
 
@@ -20,7 +20,7 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 ### Log Files
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+World Wide Learn uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/privacy_policy.htm).
 
 ### Registration
 
