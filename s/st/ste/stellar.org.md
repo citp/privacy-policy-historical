@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellar.org privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009213719id_/http%3A//www.megabyteminute.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellar.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401143946id_/http%3A//www.megabyteminute.com/privacy.html) for the most accurate reproduction.*
 
 # <h5>The MegabyteMinute.com</h5>
 
