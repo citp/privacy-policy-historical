@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusnet.net privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208214554id_/http%3A//www.campusnet.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusnet.net privacy policy that was archived on 2005-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050209160323id_/http%3A//www.campusnet.net/privacy.asp) for the most accurate reproduction.*
 
 # Campus Management Corp: Privacy Policy
 
