@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenmine.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208071043id_/http%3A//www.goldenmine.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenmine.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204202947id_/http%3A//www.goldenmine.com/policy.asp) for the most accurate reproduction.*
 
 # GoldenMine.com - Fine Gold Jewelry at Wholesale Discount Prices: Chains, Necklaces, Rings, Bracelets, Earrings
 
