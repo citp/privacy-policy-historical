@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209150907id_/http%3A//beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624190755id_/http%3A//beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Wedding Favors | Bridal Shower Favors | Wedding Decorations
 
