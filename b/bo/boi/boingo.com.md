@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603185804id_/http%3A//www.boingo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204164045id_/http%3A//boingo.com/privacy.html) for the most accurate reproduction.*
 
 # Boingo Wireless - Privacy Policy
 
 | 
 
-The privacy and security of your personal information is a foremost consideration of Boingo Wireless, Inc. We want to make your experience using the Boingo™ service as enjoyable and rewarding as possible while allowing you to feel secure that your privacy interests are being respected. 
+The privacy and security of your personal information is a foremost consideration of Boingo Wireless, Inc. We want to make your experience using the Boingo® service as enjoyable and rewarding as possible while allowing you to feel secure that your privacy interests are being respected. 
 
 **Collection of Personal Information**
 
