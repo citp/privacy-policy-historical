@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212044933id_/http%3A//www.deepdiscounts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307223447id_/http%3A//www.deepdiscounts.com/privacy) for the most accurate reproduction.*
 
-# Shop@discounts.com
+# Shop@deepdiscounts.com
 
 Search  
 in   
