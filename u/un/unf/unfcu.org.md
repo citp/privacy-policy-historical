@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212174133id_/http%3A//unfcu.org/pages/PRIVACY.ASP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613203619id_/http%3A//unfcu.org/pages/PRIVACY.ASP) for the most accurate reproduction.*
 
 # UNFCU - Privacy Policy
 
@@ -76,7 +76,7 @@ When you visit our website at www.unfcu.org, we want you to feel secure that we 
 We protect your account information by placing it on the secure portion of our website. That's why you have to enter a unique member number and password each time you want to access your account information. In addition, you can use the sign off button located throughout the Internet Account Access portion of the website to securely exit your account without closing your browser. Your password should never be shared with anyone. 
 
 **A. General Website Pages**  
-When you browse through [www.unfcu.org](https://web.archive.org/web/20031212174133id_/http%3A//unfcu.org/default.asp) and have not registered for any online service from UNFCU, you browse anonymously. Personal information \-- such as your name, address, phone number or email address -- is not collected as you browse.
+When you browse through [www.unfcu.org](https://web.archive.org/web/20040613203619id_/http%3A//unfcu.org/default.asp) and have not registered for any online service from UNFCU, you browse anonymously. Personal information \-- such as your name, address, phone number or email address -- is not collected as you browse.
 
 UNFCU does, however, collect and store information, or “cookies,” on the domain you use to access our website, the Internet address of the site from which you linked directly to our site, and the date and time of your visit to our website. This information is used to measure the number of visitors to the various pages on the UNFCU website, to help us make improvements to the information contained on the site, and to better serve our members through special marketing and service programmes.
 
