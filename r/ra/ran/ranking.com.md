@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ranking.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205051805id_/http%3A//ranking.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ranking.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623102401id_/http%3A//ranking.com/privacy.htm) for the most accurate reproduction.*
 
-# Free traffic ranking of the top 900,000 most visited and popular web sites, rank by unique visits. see your competitors traffic.
+# Ranking.com Privacy Policy
 
 **  PRIVACY POLICY  **   
 **UPDATED 10/14/2003**
@@ -41,4 +41,4 @@ Weekly Report via email. Click here!**
 
 * * *
 
-|   
+|  
