@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206232317id_/http%3A//www.oxy.com/LEGAL_STATEMENT/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404070910id_/http%3A//www.oxy.com/LEGAL_STATEMENT/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -14,11 +14,11 @@ At points throughout the site, Occidental allows its users to submit personal in
 
 **Access to Personal Data**
 
-Users who wish to review the personally identifiable information submitted on the Occidental site can do so by [contacting Occidental](https://web.archive.org/web/20041206232317id_/http%3A//www.oxy.com/contactUs.htm).
+Users who wish to review the personally identifiable information submitted on the Occidental site can do so by [contacting Occidental](https://web.archive.org/web/20050404070910id_/http%3A//www.oxy.com/contactUs.htm).
 
 **Request for Opt Out or Modification**
 
-At your request, Occidental will remove or modify any information submitted by you, as appropriate, from its database.  If you wish to opt out, please [contact Occidental ](https://web.archive.org/web/20041206232317id_/http%3A//www.oxy.com/contactUs.htm)Information Shared with Third Parties
+At your request, Occidental will remove or modify any information submitted by you, as appropriate, from its database.  If you wish to opt out, please [contact Occidental ](https://web.archive.org/web/20050404070910id_/http%3A//www.oxy.com/contactUs.htm)Information Shared with Third Parties
 
 As mentioned above, Occidental does not sell or share personally identifiable information from its users to third parties.
 
@@ -36,6 +36,6 @@ This Privacy Statement is effective as of July 1, 2004.  The Privacy Statement 
 
 **Contacting Occidental**
 
-If you have any questions about Occidental’s Privacy Statement, please contact Occidental.  [Click here to contact Occidental](https://web.archive.org/web/20041206232317id_/http%3A//www.oxy.com/contactUs.htm).
+If you have any questions about Occidental’s Privacy Statement, please contact Occidental.  [Click here to contact Occidental](https://web.archive.org/web/20050404070910id_/http%3A//www.oxy.com/contactUs.htm).
 
 -top-
