@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 1999-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991012123602id_/http%3A//tradingcharts.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816153118id_/http%3A//tradingcharts.com/privacy_statement.html) for the most accurate reproduction.*
 
 # TradingCharts.Com, Inc. Privacy Statement
 
