@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mididb.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013182058id_/http%3A//www.mididb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mididb.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601123723id_/http%3A//www.mididb.com/privacy) for the most accurate reproduction.*
 
 # MIDI Database Privacy Policy
 
@@ -14,7 +14,7 @@
 > 
 > ### Newsletter Registration Form
 > 
-> Our site's registration form REQUIRES users to give us contact information (their email address) but does not collect other information. 
+> Our site's registration form include S users to give us contact information (their email address) but does not collect other information. 
 > 
 > Contact information from the Newsletter registration form is used only to distribute information about changes to our web site.
 > 
