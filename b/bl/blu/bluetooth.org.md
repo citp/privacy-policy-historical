@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetooth.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604192202id_/http%3A//www.bluetooth.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetooth.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204224939id_/http%3A//www.bluetooth.org/privacy.htm) for the most accurate reproduction.*
 
 # Bluetooth SIG - Privacy Policy
 
@@ -17,9 +17,7 @@
      \- [ Membership](http://www.bluetooth.org/sig-membership/)  
      \- [ Interest](http://www.bluetooth.org/interest_registration/)  
         [ Registration](http://www.bluetooth.org/interest_registration/)  
-     \- [ UnPlugFest 8](http://www.bluetooth.org/upf/unplugfest8.htm)  
-     \- [ SIG Employment](http://www.bluetooth.org/employment.htm)  
-        [ Opportunities](http://www.bluetooth.org/employment.htm)  
+     \- [ Next UnPlugFest](http://www.bluetooth.org/index.htm#UPF)  
   
   | 
 
