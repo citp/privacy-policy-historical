@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tri-cityherald.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215055217id_/http%3A//tri-cityherald.com/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tri-cityherald.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601144827id_/http%3A//www.tri-cityherald.com/policies/privacy_policy.html) for the most accurate reproduction.*
 
 # Tri-City Herald PRIVACY POLICY
 
@@ -10,7 +10,7 @@ Tri-City Herald has a firm commitment to privacy. We take your privacy concerns 
 
 From time to time, we will ask for information that personally identifies you, as in our user surveys or registration for Tri-City Herald services such as e-mail, forums, or promotions. We use this information to operate Tri-City Herald's services, provide you with the highest quality services and offer you opportunities we think will be of interest.
 
-We will **not** disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of Tri-City Herald, or as explained below or in our [User Agreement](https://web.archive.org/web/20011215055217id_/http%3A//tri-cityherald.com/policies/user_agreement.html).
+We will **not** disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of Tri-City Herald, or as explained below or in our [User Agreement](https://web.archive.org/web/20020601144827id_/http%3A//www.tri-cityherald.com/policies/user_agreement.html).
 
 In order to describe our services to prospective partners, advertisers and others, we may disclose user information but only in a form that does **not** identify individual users. For example, we might disclose that a certain percentage of our users are male or within a certain age range.
 
@@ -20,7 +20,7 @@ Occasionally, we may disclose personal information in other circumstances, but w
 
 Tri-City Herald is particularly concerned with providing a safe online environment for kids. Therefore, in areas operated by Tri-City Herald that are directed to kids or when we learn that a user is under the age of 13, we will ask for parental consent before collecting additional personal information about the child or allowing the child to use the Tri-City Herald services to provide additional personal information. Parental consent can be provided in two ways:
 
-  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20011215055217id_/http%3A//tri-cityherald.com/policies/parental_consent.html) (which will be provided in applicable areas on our site); or 
+  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20020601144827id_/http%3A//www.tri-cityherald.com/policies/parental_consent.html) (which will be provided in applicable areas on our site); or 
   2. Call our toll-free number at the telephone number provided on the Parental Consent Form. 
 
 
