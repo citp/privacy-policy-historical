@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zagat.com privacy policy that was archived on 2002-08-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020808160552id_/http%3A//www.zagat.com/about/privacy_policy.asp%3FVID%3D1%26PID%3D1%26LID%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zagat.com privacy policy that was archived on 2003-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030307230214id_/http%3A//www.zagat.com/about/privacy_policy.asp%3FVID%3D1%26PID%3D1%26LID%3D) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>ZAGAT SURVEY: BY POPULAR VOTE</title>
@@ -48,146 +48,142 @@ td {
   font-size: 15pt;
   color: #003366;
   font-weight: bold
-  }
-  
+  }  
 </style>
 <script type="text/javascript">
-
-bname=navigator.appName
-
-if (bname.indexOf("Netscape")!=-1)
-	{
-	// cookie construct
-	new Cookie()
-	Cookie.prototype.write = CookieWrite
-	Cookie.prototype.del   = CookieDelete
-	Cookie.prototype.read  = CookieRead
-    // end cookie construct
-
-	var myCookie = new Cookie(document,"TestCookie",1)
-	myCookie.test="test";
-	myCookie.write();	
-	if (!myCookie.read() || myCookie.test!="test")
-		{window.location = 'http://zagat.com/Cookies.htm';}
-	else
-	    {myCookie.del()}
-	}
-if (bname.indexOf("Microsoft")!=-1)
-	{
-	if (!navigator.cookieEnabled)
-       {window.location = 'http://zagat.com/Cookies.htm'}
-	}
-
-function Cookie(document,name,hours,path,domain,secure)
-{
- // any VAR in "this" that does not start with a "$" will
- // be written into the cookie (read from also)
- this.$doc  = document
- this.$name = name
- if (hours)  this.$expiration=new Date((new Date()).getTime()+hours*3600000); else this.$expiration = null
- if (path)   this.$path   = path;                                             else this.$path       = null
- if (domain) this.$domain = domain;                                           else this.$domain     = null
- if (secure) this.$secure = true;                                             else this.$secure     = false
-}
-
-
-function CookieWrite() {
-  var cookieval=""
-  for(var prop in this) {
-    if ((prop.charAt(0) == '$') || ((typeof this[prop]) == 'function') || prop == '') continue
-        if (cookieval != "") cookieval += '&'
-        cookieval+=prop+":"+escape(this[prop])
-  }
-  var cookie=this.$name+"="+cookieval
-  if (this.$expiration) cookie+='; expires=' + this.$expiration.toGMTString()
-  if (this.$path)       cookie+='; path='    + this.$path
-  if (this.$domain)     cookie+='; domain='  + this.$domain
-  if (this.$secure)     cookie+='; secure'
-  this.$doc.cookie=cookie   
-}
-
-function CookieRead() {
-  var allcookies=this.$doc.cookie  
-  if (allcookies=="") {
-    return false
-  }
-  var start= allcookies.indexOf(this.$name+'=')
-  if (start== -1) {
-    return false
-  }
-  start += this.$name.length+1
-  var end=allcookies.indexOf(';',start)
-  if (end == -1) end=allcookies.length
-  var cookieval = allcookies.substring(start,end)
-  var a = cookieval.split('&')
-  for (var i=0;i < a.length;i++) a[i]=a[i].split(':')
-  for (var i=0;i < a.length;i++) this[a[i][0]]=unescape(a[i][1])
-  return true
-}
-
-function CookieDelete() {
-  var cookie = this.$name+'='
-  if (this.$path)   cookie+='; path='+this.$path
-  if (this.$domain) cookie+='; domain='+this.$domain
-  cookie+='; expires=Fri, 02-Jan-1970 00:00:00 GMT'  // MAKE IT EXPIRE!
-  this.$doc.cookie=cookie
-}
-
-</script>
-
-<script language="Javascript">
 <!--
 // Browser Detection places by Scott Sala for expandable tables
-
 isMac = (navigator.appVersion.indexOf("Mac")!=-1) ? true : false;
 NS4 = (document.layers) ? true : false;
 IEmac = ((document.all)&&(isMac)) ? true : false;
 IE4plus = (document.all) ? true : false;
 IE4 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 4.")!=-1)) ? true : false;
 IE5 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 5.")!=-1)) ? true : false;
+IE6 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 6.")!=-1)) ? true : false;
+
 ver4 = (NS4 || IE4plus) ? true : false;
+NS6 = (!document.layers) && (navigator.userAgent.indexOf('Netscape')!=-1)?true:false;
 
-Locale = new String('');
+IE5plus = IE5 || IE6;
 
-function check_locale(objForm) 
-{
-var myform = document.Locale;
-var newLocale = myform.newLID.options[myform.newLID.selectedIndex].value;
-    
-if (Locale != newLocale && (Locale != 0 || newLocale != 0))
-   {
-    objForm.newLID.value = newLocale;
-   }
-objForm.submit();      
+// cookie construct
+new Cookie();
+Cookie.prototype.write = CookieWrite;
+Cookie.prototype.del   = CookieDelete;
+Cookie.prototype.read  = CookieRead;
+// end cookie construct
+
+var myCookie = new Cookie(document,'CHECK');
+myCookie.test = "CHECK";
+myCookie.write();
+
+if (!myCookie.read() || myCookie.test!='CHECK')
+	{window.location = 'http://www.zagat.com/Cookies.htm';}  	
+else
+    {myCookie.del();}   
+
+function Cookie(document,name,hours,path,domain,secure){
+// any VAR in "this" that does not start with a "$" will
+// be written into the cookie (read from also)
+this.$doc  = document;
+this.$name = name;
+if (hours)  this.$expiration=new Date((new Date()).getTime()+hours*3600000); else this.$expiration = null;
+if (path)   this.$path   = path;                                             else this.$path       = null;
+if (domain) this.$domain = domain;                                           else this.$domain     = null;
+if (secure) this.$secure = true;                                             else this.$secure     = false;
 }
+
+function CookieWrite() {   
+var cookieval="";
+for(var prop in this) {
+  if ((prop.charAt(0) == '$') || ((typeof this[prop]) == 'function') || prop == '') continue
+      if (cookieval != "") cookieval += '&'
+      cookieval+=escape(this[prop])
+}
+var cookie=this.$name+"="+cookieval;
+if (this.$expiration) cookie+='; expires=' + this.$expiration.toGMTString();
+if (this.$path)       cookie+='; path='    + this.$path;
+if (this.$domain)     cookie+='; domain='  + this.$domain;
+if (this.$secure)     cookie+='; secure';  
+this.$doc.cookie=cookie;}
+
+function CookieRead() {
+var allcookies=this.$doc.cookie;  
+if (allcookies=="") {return false;}
+var start= allcookies.indexOf(this.$name+'=');
+if (start== -1) {return false;}
+start += this.$name.length + 1;
+var end=allcookies.indexOf(';',start);
+if (end == -1) end=allcookies.length;
+var cookieval = allcookies.substring(start,end);
+var a = cookieval.split('&');
+for (var i=0;i < a.length;i++) a[i]=a[i].split(':');
+for (var i=0;i < a.length;i++) this[a[i][0]]=unescape(a[i][1]);
+return true;}
+
+function CookieDelete() {
+var cookie = this.$name+'=';
+if (this.$path)   cookie+='; path='+this.$path;
+if (this.$domain) cookie+='; domain='+this.$domain;
+cookie+='; expires=Fri, 02-Jan-1970 00:00:00 GMT';  // MAKE IT EXPIRE!
+this.$doc.cookie=cookie;}
 //-->
 </script>
+<script id="clientEventHandlersJS" language="javascript">
+<!--
+function search_onsubmit(objForm) {
+var myLocale = new String('');
+var newLocale = document.Locale.newLID.options[document.Locale.newLID.selectedIndex].value;    
+if (myLocale != newLocale && newLocale != 0) {objForm.newLID.value = newLocale;}
+}
+function newLID_onchange() {
+var objForm = document.Locale;
+var objSelect = objForm.newLID;
+var optSelected = objSelect.options[objSelect.selectedIndex];
+var strValue = optSelected.value;
+var strIndex = objSelect.selectedIndex;
+var strText = optSelected.text;
+if (strValue > 0){
+   var newOption = new Option();
+   newOption.value = strValue;
+   newOption.text = strText.replace('- ','');
+   objSelect.options[objSelect.selectedIndex] = newOption;
+   objSelect.selectedIndex = strIndex;
+   }   
+}
+
+//-->
+</script>
+<noscript>
+<meta http-equiv="refresh" content="0; URL=http://www.zagat.com/Cookies.htm">
+Browser does not support javascript.
+</noscript>
 <!-- START HEADER TABLE-->
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
-	<tbody><tr><!-- ROW 1 - TOP BLACK BORDER-->
-		<td rowspan="9" bgcolor="#000000"><img src="../img/dot-clear.gif" width="1" height="1"></td>
+	<tbody><tr>
+		<td rowspan="6" bgcolor="#000000"><img src="../img/dot-clear.gif" width="1" height="1"></td>
 		<td bgcolor="#000000" colspan="3"><img src="../img/dot-clear.gif" width="1" height="1"></td>
-		<td rowspan="9" bgcolor="#000000"><img src="../img/dot-clear.gif" width="1" height="1"></td>
+		<td rowspan="6" bgcolor="#000000"><img src="../img/dot-clear.gif" width="1" height="1"></td>
 	</tr>
-	<tr><!-- ROW 2 - SPACE -->
+	<tr>
 		<td bgcolor="#AA0029" colspan="3"><img src="../img/dot-clear.gif" width="1" height="3"></td>
 	</tr>
-	<tr bgcolor="#AA0029"><!-- ROW 3 - LOGO ROW -->
-		<td align="left"><a href="../index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_header_logo.gif" width="239" height="27" border="0" alt="ZAGAT SURVEY: BY POPULAR VOTE"></a></td>
-		<td valign="middle" align="center" nowrap="nowrap"><a href="../index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_home.gif" border="0" align="absmiddle" alt="Home"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../Browse/index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_browse.gif" border="0" align="absmiddle" alt="Browse"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../List/index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_lists.gif" border="0" align="absmiddle" alt="Lists"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../NewRest/index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_newcomers.gif" border="0" align="absmiddle" alt="Newcomers"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../survey/index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_vote.gif" border="0" align="absmiddle" alt="Vote"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../shop/index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_shop.gif" border="0" align="absmiddle" alt="Shop"></a><img src="../img/dot-clear.gif" width="5" height="1"></td>
+	<tr bgcolor="#AA0029">
+		<td align="left"><a href="../index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_header_logo.gif" border="0" alt="ZAGAT SURVEY: BY POPULAR VOTE"></a></td>
+		<td valign="middle" align="center" nowrap="nowrap"><a href="../index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_home.gif" border="0" align="absmiddle" alt="Home"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../NewRest/zw_archive.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_news.gif" border="0" align="absmiddle" alt="News"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../Browse/index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_browse.gif" border="0" align="absmiddle" alt="Browse"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../List/index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_indexes.gif" border="0" align="absmiddle" alt="Indexes"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../survey/index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_vote.gif" border="0" align="absmiddle" alt="Vote"></a><img src="../img/dot-clear.gif" width="5" height="1"><a href="../shop/index.asp?VID=1&amp;PID=1&amp;LID="><img src="../img/20_btn_header_shop.gif" border="0" align="absmiddle" alt="Shop"></a><img src="../img/dot-clear.gif" width="5" height="1"></td>
 		<td align="right" nowrap="nowrap" valign="top">
 		
 				  	<table border="0" cellspacing="0" cellpadding="0">
 						<tbody><tr>
 							<td rowspan="4"><img src="../img/dot-clear.gif" width="3" height="1"></td>
-							<td><a href="http://zagat.com/user/login.asp?VID=1&amp;PID=1&amp;LID=&amp;SC=1&amp;RURL=http://zagat.com/about/Privacy_policy.asp?VID%3D1%26PID%3D1%26LID%3D"><img src="../img/20_btn_header_join.gif" border="0" align="absmiddle" alt="Join"></a></td>
+							<td nowrap=""><img src="../img/20_arrow_white.gif" align="left" hspace="0"><a href="http://www.zagat.com/user/login.asp?VID=1&amp;PID=1&amp;LID=&amp;SC=14&amp;RURL=http://www.zagat.com/about/privacy_policy.asp?VID%3D1%26PID%3D1%26LID%3D"><font size="2" face="arial, helvetica, 'sans serif'" color="#FFFFFF"><b>Subscribe</b></font></a><img src="../img/dot-clear.gif" width="9" height="1"></td>
 							<td rowspan="4"><img src="../img/dot-clear.gif" width="3" height="1"></td>
 						</tr>
 						<tr>
-							<td><img src="../img/dot-clear.gif" width="1" height="3"></td>
+							<td><img src="../img/dot-clear.gif" width="1" height="1"></td>
 						</tr>
 						<tr>
-							<td><a href="http://zagat.com/user/login.asp?VID=1&amp;PID=1&amp;LID=&amp;RURL=http://zagat.com/about/Privacy_policy.asp?VID%3D1%26PID%3D1%26LID%3D"><img src="../img/20_btn_header_signin.gif" border="0" align="absmiddle" alt="Sign In"></a></td>
+							<td nowrap=""><img src="../img/20_arrow_white.gif" align="left" hspace="0"><a href="http://www.zagat.com/user/login.asp?VID=1&amp;PID=1&amp;LID=&amp;RURL=http://www.zagat.com/about/privacy_policy.asp?VID%3D1%26PID%3D1%26LID%3D"><font size="2" face="arial, helvetica, 'sans serif'" color="#FFFFFF"><b>Sign In</b></font></a></td>
 						</tr>
 						<tr>
 							<td><img src="../img/dot-clear.gif" width="1" height="17"></td>
@@ -196,49 +192,62 @@ objForm.submit();
 				
 		</td>
 	</tr>
-	<tr><!-- ROW 4 - SPACE -->
+	<tr>
 		<td bgcolor="#AA0029" colspan="3"><img src="../img/dot-clear.gif" width="1" height="5"></td>
 	</tr>
-	<tr><!-- ROW 5 - BLACK LINE -->
+	<tr>
 		<td bgcolor="#000000" colspan="3"><img src="../img/dot-clear.gif" width="1" height="1"></td>
 	</tr>
-	<tr><!-- ROW 6 - SPACE -->
+	<tr>
 		<td bgcolor="#BC1935" colspan="3"><img src="../img/dot-clear.gif" width="1" height="5"></td>
 	</tr>
-	<tr bgcolor="#BC1935">
-		<!-- ROW 7 - LOCATION ROW -->
-		<form id="Locale" name="Locale" action="../index.asp?VID=1&amp;PID=1&amp;LID=" method="post"></form>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+	<tbody><tr bgcolor="#BC1935">
+		<td rowspan="3" bgcolor="#000000"><img src="../img/dot-clear.gif" width="1" height="1"></td>
 		<td align="left" nowrap="nowrap">
-		   <table>
-		      <tbody><tr>
-		        <td><img src="../img/dot-clear.gif" width="5" height="1"><font face="verdana, arial, helvetica" size="1" color="#FFFFFF"><b>location:</b></font></td>
-		        <td><img src="../img/dot-clear.gif" width="5" height="1"><select name="newLID"><option value="0">Select locale</option><option value="50">Arizona</option><option value="31">Atlanta</option><option value="2">Baltimore</option><option value="36">Berkshires</option><option value="3">Boston Area</option><option value="58">Central Coast, CA</option><option value="20">Chicago Area</option><option value="61">Cincinnati</option><option value="60">Cleveland</option><option value="43">Colorado</option><option value="59">Columbus</option><option value="34">Connecticut</option><option value="25">Dallas/Ft. Worth</option><option value="45">Florida Keys</option><option value="46">Ft. Lauderdale</option><option value="8">Hawaii</option><option value="33">Houston</option><option value="41">Kansas City</option><option value="28">Las Vegas</option><option value="39">London</option><option value="62">Long Beach</option><option value="38">Long Island</option><option value="9">Los Angeles</option><option value="44">Miami</option><option value="40">Minneapolis/St. Paul</option><option value="42">New Jersey</option><option value="49">New Mexico</option><option value="13">New Orleans</option><option value="14">New York City</option><option value="55">Orange County, CA</option><option value="4">Orlando Area</option><option value="47">Palm Beach</option><option value="56">Palm Springs, CA</option><option value="32">Paris</option><option value="16">Philadelphia</option><option value="27">Portland, OR</option><option value="21">San Diego</option><option value="30">San Francisco</option><option value="57">Santa Barbara, CA</option><option value="37">Seattle</option><option value="35">Southern NY State</option><option value="51">Tokyo</option><option value="19">Toronto</option><option value="52">Utah</option><option value="29">Vancouver</option><option value="7">Washington, DC</option></select></td>
-		        <td><img src="../img/dot-clear.gif" width="5" height="1"><input type="image" src="../img/20_btn_header_go.gif" align="absbottom" id="image1" name="image1" width="31" height="21" border="0"></td>
-		      </tr>
-		   </tbody></table>
-		</td>		
-				
-		<form action="../search/results.asp?VID=1&amp;PID=1&amp;LID=" method="get" id="search" name="search"></form>									 
-		<td width="100%" align="right" nowrap="nowrap">
-		<input type="hidden" name="LID" value="">				
-		<input type="hidden" name="PID" value="1">
-		<input type="hidden" name="VID" value="1">												
-		<input type="hidden" name="SBY" value="11">
-		<input type="hidden" name="ST" value="2">
-		<input type="hidden" name="PG" value="1">
-		<input type="hidden" name="SearchType" value="ContainsName">																																																																				
-		<font face="verdana, arial, helvetica" size="1" color="#FFFFFF"><b>restaurant search:</b></font><img src="../img/dot-clear.gif" width="5" height="1"><input type="textbox" name="SPH" size="25" maxlength="50" value=""><img src="../img/dot-clear.gif" width="5" height="1"><a href="javascript:check_locale(document.search);"><img src="../img/20_btn_header_go.gif" align="absbottom" id="image2" name="image2" width="31" height="21" border="0"></a><img src="../img/dot-clear.gif" width="5" height="1"><font face="verdana, arial, helvetica" size="3" color="#FFFFFF">|</font><img src="../img/dot-clear.gif" width="5" height="1">
-		<input type="hidden" name="newLID" value="">
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr><form id="Locale" name="Locale" action="../index.asp?VID=1&amp;PID=1&amp;LID=" method="post"></form>
+					<td><img src="../img/dot-clear.gif" width="9" height="1"></td>
+					<td><font face="verdana, arial, helvetica" size="1" color="#FFFFFF"><b>location:</b></font></td>
+					<td><img src="../img/dot-clear.gif" width="5" height="1"></td>
+					<td><select name="newLID" language="javascript" onchange="return newLID_onchange()"><option value="0">Select locale</option><option value="0">-----------------------</option><option value="0">UNITED STATES</option><option value="0">-----------------------</option><option value="50">- Arizona Tops</option><option value="31">- Atlanta</option><option value="2">- Baltimore</option><option value="36">- Berkshires</option><option value="3">- Boston Area</option><option value="58">- Central Coast, CA</option><option value="87">- Charlotte</option><option value="20">- Chicago Area</option><option value="61">- Cincinnati Tops</option><option value="60">- Cleveland Tops</option><option value="43">- Colorado</option><option value="59">- Columbus Tops</option><option value="34">- Connecticut</option><option value="25">- Dallas/Ft. Worth</option><option value="88">- Detroit Tops</option><option value="45">- Florida Keys</option><option value="46">- Ft. Lauderdale</option><option value="8">- Hawaii Tops</option><option value="33">- Houston</option><option value="41">- Kansas City Tops</option><option value="28">- Las Vegas</option><option value="62">- Long Beach</option><option value="38">- Long Island</option><option value="9">- Los Angeles</option><option value="44">- Miami</option><option value="40">- Minneapolis/St. Paul Tops</option><option value="42">- New Jersey</option><option value="49">- New Mexico</option><option value="13">- New Orleans</option><option value="14">- New York City</option><option value="55">- Orange County, CA</option><option value="4">- Orlando Area</option><option value="47">- Palm Beach</option><option value="56">- Palm Springs, CA</option><option value="16">- Philadelphia</option><option value="27">- Portland, OR</option><option value="21">- San Diego</option><option value="30">- San Francisco</option><option value="57">- Santa Barbara, CA</option><option value="37">- Seattle</option><option value="35">- Southern NY State</option><option value="89">- St. Louis Tops</option><option value="52">- Utah</option><option value="7">- Washington, DC</option><option value="0">-----------------------</option><option value="0">INTERNATIONAL</option><option value="0">-----------------------</option><option value="64">- Amsterdam Tops</option><option value="63">- Athens Tops</option><option value="65">- Barcelona Tops</option><option value="66">- Berlin Tops</option><option value="67">- Brussels Tops</option><option value="68">- Budapest Tops</option><option value="69">- Copenhagen Tops</option><option value="70">- Dublin Tops</option><option value="71">- Florence Tops</option><option value="72">- Frankfurt Tops</option><option value="73">- Geneva Tops</option><option value="74">- Hamburg Tops</option><option value="75">- Istanbul Tops</option><option value="76">- Lisbon Tops</option><option value="39">- London</option><option value="77">- Madrid Tops</option><option value="78">- Milan Tops</option><option value="79">- Munich Tops</option><option value="32">- Paris</option><option value="80">- Prague Tops</option><option value="81">- Rome Tops</option><option value="82">- Stockholm Tops</option><option value="51">- Tokyo</option><option value="19">- Toronto</option><option value="29">- Vancouver</option><option value="83">- Venice Tops</option><option value="84">- Vienna Tops</option><option value="85">- Warsaw Tops</option><option value="86">- Zurich Tops</option></select></td>
+					<td><img src="../img/dot-clear.gif" width="5" height="1"></td>
+					<td><input type="image" src="../img/20_btn_header_go.gif" align="absbottom" id="image1" name="image1" width="31" height="21" border="0"></td>
+				</tr>
+			</tbody></table>
 		</td>
-		<td nowrap="nowrap"><a href="../PowerSearch/index.asp?VID=1&amp;PID=1&amp;LID="><font face="verdana, arial, helvetica" size="1" color="#FFFFFF"><b>advanced search</b></font></a><img src="../img/dot-clear.gif" width="5" height="1"></td>
-		
+		<td width="100%" align="right" nowrap="nowrap">
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr><form action="http://www.zagat.com/search/results.asp" method="get" id="search" name="search" language="javascript" onsubmit="return search_onsubmit(document.search)"></form>									 
+				<input type="hidden" name="LID" value="">				
+				<input type="hidden" name="PID" value="1">
+				<input type="hidden" name="VID" value="1">												
+				<input type="hidden" name="SBY" value="11">
+				<input type="hidden" name="ST" value="2">
+				<input type="hidden" name="PG" value="1">
+				<input type="hidden" name="SearchType" value="ContainsName">																																																																				
+				<input type="hidden" name="newLID" value="">
+					<td align="right"><font face="verdana, arial, helvetica" size="1" color="#FFFFFF"><b>restaurant<br>search:</b></font></td>
+					<td><img src="../img/dot-clear.gif" width="5" height="1"></td>
+					<td><input type="textbox" name="SPH" size="25" maxlength="50" value=""></td>
+					<td><img src="../img/dot-clear.gif" width="5" height="1"></td>
+					<td><input type="image" src="../img/20_btn_header_go.gif" align="absbottom" id="image2" name="image2" width="31" height="21" border="0"></td>
+					<td><img src="../img/dot-clear.gif" width="10" height="1"></td>
+					<td><font face="verdana, arial, helvetica" size="3" color="#FFFFFF">|</font></td>
+					<td><img src="../img/dot-clear.gif" width="10" height="1"></td>
+				</tr>
+			</tbody></table>		
+		</td>			
+		<td align="center"><a href="../PowerSearch/index.asp?VID=1&amp;PID=1&amp;LID="><font face="verdana, arial, helvetica" size="1" color="#FFFFFF"><b>advanced<br>search</b></font></a></td>
+		<td><img src="../img/dot-clear.gif" width="9" height="1"></td>
+		<td rowspan="3" bgcolor="#000000"><img src="../img/dot-clear.gif" width="1" height="1"></td>
 	</tr>
-	<tr><!-- ROW 8 -->
-		<td bgcolor="#BC1935" colspan="3"><img src="../img/dot-clear.gif" width="1" height="3"></td>
+	<tr>
+		<td bgcolor="#BC1935" colspan="4"><img src="../img/dot-clear.gif" width="1" height="3"></td>
 	</tr>
-
-	<tr><!-- ROW 9 --><!-- BLACK BORDER -->
-		<td bgcolor="#000000" colspan="3"><img src="../img/dot-clear.gif" width="1" height="1"></td>
+	<tr>
+		<td bgcolor="#000000" colspan="4"><img src="../img/dot-clear.gif" width="1" height="1"></td>
 	</tr>
 </tbody></table>
 <!-- END HEADER TABLE-->						
@@ -266,8 +275,10 @@ objForm.submit();
 							</tr>
 							<tr>
 								<td><font face="arial,helvetica" size="2">
-<p>Last Updated: July 15, 2002</p>
-</font><p><font face="arial,helvetica" size="2"><font face="Arial" size="3" font="">This overall Privacy statement verifies, among other things, that Zagat Survey, LLC ("we" or "us" or "Zagat") on the Web is a member of the  <a href="#truste"><font color="#FF0000">TRUSTe</font></a> program and is in compliance with TRUSTe Privacy principles.</font>
+<p>Last Updated: September 10, 2002</p>
+</font><p><font face="arial,helvetica" size="2"><font face="Arial" size="3">
+This overall Privacy statement verifies, among other things, that Zagat Survey, LLC ("we" or "us" or "Zagat") on the Web is a member of the <a href="#truste"><font color="#FF0000">TRUSTe</font></a> program and is in compliance with TRUSTe Privacy principles.
+</font>
 </font></p>
 
 <a href="http://www.truste.org/validate/6325" target="_blank"><img src="../img/TRUSTeSealBox.gif" alt="Click to Verify" border="0" height="73" width="91" align="right"></a>
@@ -324,7 +335,7 @@ in the Internet by promoting the use of fair information practices. Because this
 	address, e-mail address and year of birth. This information is required in the registration process 
 	at zagat.com, but we recognize that this is your personal information and we do not give it out to 
 	third parties. Becoming a registered user on zagat.com allows you to vote on restaurants in your 
-	favorite city, purchase items in our Shop and take advantage of zagat.com's special offers. Additional 
+	favorite city and purchase items in our Shop. Additional 
 	demographic information, such as your occupation, level of education, household income and special 
 	interests, are also collected in an "optional information" area. In this section, you are 
 	not required to provide additional information about yourself that you may find personal. We do this 
@@ -338,30 +349,30 @@ in the Internet by promoting the use of fair information practices. Because this
 	and password and then going to the "update profile" icon.
 	</font></font></p><font size="2"> 
                        
-<p><b><font size="2"><font face="Arial">Subscriptions to Zagat Wire</font></font></b><font size="2"><font face="Arial">. 
-	To subscribe for Zagat Wire, you must provide the personal information 
-	requested in the Zagat Wire subscription process, including, without limitation, your name, address, 
+<p><b><font size="2"><font face="Arial">Subscriptions to Zagat.com</font></font></b><font size="2"><font face="Arial">. 
+	To subscribe to zagat.com, you must provide the personal information 
+	requested in the zagat.com subscription process, including, without limitation, your name, address, 
 	e-mail address, other information required in order to become a registered user of zagat.com, and your 
 	credit card information for subscription fee billing. This information is required in the subscription 
 	process, but we recognize that this is your personal information and we do not give it out to third 
-	parties without your approval.  Becoming a subscriber of Zagat Wire provides you with the benefits 
-	described in the Zagat Wire section of zagat.com, including access to certain content that is not 
-	available to persons who are not subscribers and a discount for purchases in our Shop.  The Zagat 
-	Wire Subscriber Agreement applies to your subscription to Zagat Wire.  In addition, as a subscriber 
-	to Zagat Wire, which is part of zagat.com, you will also automatically become a registered user of 
+	parties without your approval.  Becoming a subscriber of zagat.com provides you with the benefits 
+	described in the subscriber section of zagat.com, including access to certain content that is not 
+	available to persons who are not subscribers and a discount for purchases in our Shop.  The Subscriber Agreement applies 
+	to your subscription to zagat.com.  In addition, as a subscriber 
+	to zagat.com, which is part of zagat.com, you will also automatically become a registered user of 
 	zagat.com, thereby subjecting you to the terms and conditions of this Privacy Policy applicable to 
 	registered users, and you will be entitled to all of the benefits and privileges available to 
 	registered users of zagat.com.</font></font></p><font size="2">                
                    
 <p><b><font size="2"><font face="Arial">Credit Card Policy</font></font></b><font size="2"><font face="Arial">. To simplify 
 	ordering and product fulfillment in our Shop, and also to make online 
-	reservations on our site and/or your subscription to Zagat Wire, if applicable, 
+	reservations on our site and/or for your subscription to zagat.com, if applicable, 
 	we request your credit card number, its 
 	expiration date and your billing and shipping address. We transmit this 
 	information safely over the Internet in encrypted form and store it on a 
 	secure server. This information is used only to bill you for and ship to 
 	you the zagat.com products that you order or to bill you for your subscription 
-	to Zagat Wire or other services available on zagat.com.</font></font></p><font size="2">                                                                                   <p></p>
+	to zagat.com or other services available on zagat.com.</font></font></p><font size="2">                                                                                   <p></p>
 
 <p><b><font face="Arial" size="2">Cookies</font></b><font face="Arial" size="2">. zagat.com employs cookies 
 	to recognize you and your access privileges. Cookies are small pieces of 
@@ -408,9 +419,13 @@ in the Internet by promoting the use of fair information practices. Because this
 	addresses, or the location of your computer on the Internet, for systems 
 	administration and troubleshooting purposes. We do not use IP address logs 
 	to track your session or your behavior on our site. Your IP address is not 
-	linked to any personally identifiable information.</font> </p><br> 
+	linked to any personally identifiable information.</font></p>
                          
-        
+  <p><font face="Arial" size="2"><b>Non-Personally Identifiable Information</b>. This site 
+	uses Open AdStream NETWORK to serve and/or target ads, promotions and other 
+	marketing messages.  This technology collects non-personally identifiable information about your visit to this 
+	and other sites, typically through the use of cookies.  This information is used in aggregate format only to optimize the zagat.com
+	web site.</font></p><br>
               
 
 <p><font face="Arial" size="3"><b>How We Use Your Information</b><br>
@@ -450,13 +465,6 @@ in the Internet by promoting the use of fair information practices. Because this
 	rights or property.</font></font></p><font face="Arial" size="3">
     
 
-<p><font face="Arial" size="3"><b>Third Party Ad Servers</b><br><font size="2">This site 
-	uses the services of Engage for the serving and/or targeting of ads, promotions and other 
-	marketing messages.  To do this, Engage collects anonymous data about your visit to this 
-	and other sites, typically through the use of cookies.  To learn more about Engage, 
-	including your ability to opt out of the Engage system, go to <a href="http://www.engage.com/privacy" target="_blank">http://www.engage.com/privacy</a>.
-	</font></font></p><font face="Arial" size="3">
-	
 <p><font face="Arial" size="3"><b>Security</b><br><font size="2">zagat.com has security measures in place 
 	to help protect the loss, misuse and alteration of the information under our control. All information is 
 	stored in a secure operating environment. When sending sensitive information across the Internet - including 
@@ -508,9 +516,9 @@ in the Internet by promoting the use of fair information practices. Because this
 	any information to them.</font></font></p><font face="Arial" size="3">
 
 <p><font face="Arial" size="3"><b>How You Can Access or Correct Your Information</b><br><font size="2">You 
-	can make changes to your personal information at any time by clicking on "Your Profile" 
+	can make changes to your personal information at any time by clicking on "My Profile" 
 	on zagat.com or by e-mailing us at <a href="mailto:feedback@zagat.com">feedback@zagat.com</a>. 
-	At any time you can also review your personal information by clicking on "Your Profile" 
+	At any time you can also review your personal information by clicking on "My Profile" 
 	as well.</font></font></p><font face="Arial" size="3">
 
 <p><font face="Arial" size="3"><b>Questions</b><br><font size="2">Protecting your privacy is one of 
@@ -540,7 +548,6 @@ in the Internet by promoting the use of fair information practices. Because this
 
 <!-- </BLOCKQUOTE> -->
 <p><font face="Arial" size="2">Thank you for reading this privacy policy and for using zagat.com.</font></p>
-</font>
 </font></font></font></font></font></font></font></font></font></font></font></font></td>
 							</tr>
 							
@@ -574,7 +581,7 @@ in the Internet by promoting the use of fair information practices. Because this
 		<td colspan="2"><img src="../img/dot-clear.gif" width="1" height="10"><br></td>
 	</tr>
 	<tr valign="top">
-		<td align="left" nowrap="nowrap"><font face="verdana, arial, helvetica" size="1">© Copyright 1999-2002 Zagat Survey, LLC.  All rights reserved.<br>Please read our <a href="../about/terms_of_use.asp?VID=1&amp;PID=1&amp;LID=" target="_self">Terms of Use</a> and <a href="../about/privacy_policy.asp?VID=1&amp;PID=1&amp;LID=" target="_self">Privacy Policy</a>.</font><font face="verdana, arial, helvetica" size="1" color="white">&nbsp;|&nbsp;66.129.68.245</font></td>
+		<td align="left" nowrap="nowrap"><font face="verdana, arial, helvetica" size="1">© Copyright 1999-2003 Zagat Survey, LLC.  All rights reserved.<br>Please read our <a href="../about/terms_of_use.asp?VID=1&amp;PID=1&amp;LID=" target="_self">Terms of Use</a> and <a href="../about/privacy_policy.asp?VID=1&amp;PID=1&amp;LID=" target="_self">Privacy Policy</a>.</font><font face="verdana, arial, helvetica" size="1" color="white">&nbsp;|&nbsp;66.129.68.242</font></td>
 		<td align="right" nowrap="nowrap"><font face="verdana, arial, helvetica" size="1"><a href="../corporate/index.asp?VID=1&amp;PID=1&amp;LID="><u>Customized Guides</u></a>&nbsp;|&nbsp;<a href="../about/index.asp?VID=1&amp;PID=1&amp;LID="><u>About</u></a>&nbsp;|&nbsp;<a href="../help/index.asp?VID=1&amp;PID=1&amp;LID="><u>Help</u></a></font></td>
 	</tr>
 </tbody></table>
