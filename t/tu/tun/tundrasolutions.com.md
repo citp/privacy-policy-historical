@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tundrasolutions.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604120128id_/http%3A//www.tundrasolutions.com/ubb/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tundrasolutions.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212144949id_/http%3A//www.tundrasolutions.com/privacy.htm) for the most accurate reproduction.*
 
-# TundraSolutions.com Privacy Page
+# TundraSolutions.com A TSSN Home Page
 
-**  
-Types of Information We Collect**
+**Types of Information We Collect**
 
-Generally, you are free to browse the TundraSolutions.com site without submitting any personal information. We do not collect any of your personal information (such as a name, address or email address) when you visit the TundraSolutions.com site. Types of information collected on the TundraSolutions.com site are described in more detail below.   
-  
+Generally, you are free to browse the TundraSolutions.com site without submitting any personal information. We do not collect any of your personal information (such as a name, address or email address) when you just browse the TundraSolutions.com site unless you want to post messages or download files. Types of information collected on the TundraSolutions.com site are described in more detail below.  
   
 ---  
   
@@ -14,9 +12,13 @@ Generally, you are free to browse the TundraSolutions.com site without submittin
 
 TundraSolutions.com requires users who want to participate in the TundraSolutions.com message boards to register. In order to register, you must provide us with a username (which does not have to be your real name), password and a valid e-mail address. This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise. At any time, you have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile.
 
-When you register, you have the option of providing some additional information such as occupation, interests, and homepage URL. This optional information is made available to other bulletin or message board users to foster a sense of community. If you have any concerns about providing this information, simply leave the fields blank and your registration will still be processed.
+When you register, you have the option of providing some additional information such as occupation, interests, and homepage URL and what vehilce you own. This optional information is made available to other bulletin or message board users to foster a sense of community. If you have any concerns about providing this information, simply leave the fields blank and your registration will still be processed. 
 
-_**IF YOU ARE UNDER 13 YEARS OF AGE**_ ** __** you are not allowed to participate in the TundraSolutions.com message forums, or to provide any personal information on our site.   
+**Downloading files**
+
+If you want to download any files, typically catalogs or brochures we ask you complete an additional registration form to do so. The form will ask for your **real name** , and **mailing address**. This information is kept in strict confidence and is only viewable by the site administrator. This information is not provided to third parties or re-sold. If the information changes we ask you notify us so we may update your record.
+
+_**IF YOU ARE UNDER 13 YEARS OF AGE**_ ** __** you are **not** allowed to participate in the TundraSolutions.com message forums, download files or provide any personal information on our site.   
   
   
 **Cookies**
@@ -49,7 +51,7 @@ All reasonable care is taken by our staff in handling your personal information 
   
 **Changing or Updating Personal Information**
 
-If you would like to update or change your user profile on our message boards, just click [here](http://www.tundrasolutions.com/cgi-bin/ultimatebb.cgi?ubb=my_profile).
+If you would like to update or change your user profile on our message boards, just click **[here](http://www.tundrasolutions.com/usercp.php?s=)**.
 
 If you have questions regarding your information, you can contact our **Privacy Administrator** at [lonv@tundrasolutions.com](mailto:lonv@tundrasolutions.com) [  
 ](mailto:support@tundrasolutions.com)  
