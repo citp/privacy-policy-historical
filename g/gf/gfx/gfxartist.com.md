@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gfxartist.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203220930id_/http%3A//www.gfxartist.com/about/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxartist.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610090011id_/http%3A//www.gfxartist.com/about/privacy_statement) for the most accurate reproduction.*
 
-# Privacy statement - GFXartist.com - Over 16,000 pages of digital expression
+# Privacy statement - GFXartist.com - Over 36,000 pages of digital expression
 
 **Collection of your Personal Information**
 
