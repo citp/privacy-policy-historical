@@ -1,256 +1,71 @@
-<!--The following is the downloaded HTML source of the expertclick.com privacy policy that was archived on 2002-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021017040655id_/http%3A//www.expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expertclick.com privacy policy that was archived on 2003-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030623064825id_/http%3A//www.expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
-		<title>
-			ExpertClick.com
-		</title>
-		<meta name="MSSmartTagsPreventParsing" content="True">
-		<script language="JavaScript">
-		<!--
-			function MM_preloadImages()
-			{ //v2.0
-				if (document.images)
-				{
-					var imgFiles = MM_preloadImages.arguments;
-					if (document.preloadArray==null)
-						document.preloadArray = new Array();
-					var i = document.preloadArray.length;
-					with (document)
-					{
-						for (var j=0; j<imgFiles.length; j++)
-						{
-							if (imgFiles[j].charAt(0)!="#")
-							{
-								preloadArray[i] = new Image;
-								preloadArray[i++].src = imgFiles[j];
-							}
-						}
-					}
-				}
-			}
+<title>ExpertClick.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
 
-			function MM_swapImgRestore()
-			{ //v2.0
-				if (document.MM_swapImgData != null)
-				{
-					for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
-						document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
-				}
-			}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
 
-			function MM_swapImage()
-			{ //v2.0
-				var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
-				for (i=0; i < (MM_swapImage.arguments.length-2); i+=3)
-				{
-					objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
-					if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
-						(objStr.indexOf('document.all[')   ==0 && document.all   ==null))
-					{
-						objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
-					}
-					obj = eval(objStr);
-					if (obj != null)
-					{
-						swapArray[j++] = obj;
-						swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
-						obj.src = MM_swapImage.arguments[i+2];
-					}
-				}
-				document.MM_swapImgData = swapArray; //used for restore
-			}
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
 
-			
-				function openlittleme()
-				{
-					
-					window.open('http://www.ExpertClick.com/default.cfm?Action=Instructions', "InstructionsPopUp", "height=400,width=800,resizable,scrollbars");
-					
-				}
-			
-			
-			
-			var support;
-			if (navigator.appName == 'Netscape' && document.layers != null)
-				support = "ns";
-			else if (document.all != null)
-				support = "ie";
-			else
-				support = "no";
-				
-			function showItem(Item, event)
-			{
-				var Object = getObject(Item);
-				if (support == "ie")
-				{
-					var x = event.clientX - event.offsetX + 60 + document.body.scrollLeft;
-					var y = event.clientY - event.offsetY + 50 + document.body.scrollTop;
-					Object.style.top = y;
-					Object.style.left = x;
-				}
-				else if (support == "ns")
-				{
-					var x = event.x + 30;
-					var y = event.y + 25;
-					Object.top = y;
-					Object.left = x; 
-				}
-				hideLayers();
-				MM_showHideLayers("document.layers['" + Item + "']", "document.all['" + Item + "']","show");
-			}
-			
-			function getObject(Item)
-			{
-				if (support == "ns")
-					return document.layers[Item];
-				else if (support == "ie") {
-					return document.all[Item];}
-				else
-					return null;
-			}
-			
-			function MM_showHideLayers()
-			{
-				var
-					i,
-					visStr,
-					args,
-					theObj;
-				args = MM_showHideLayers.arguments;
-				for (i=0; i<(args.length-2); i+=3)
-				{ //with arg triples (objNS,objIE,visStr)
-					visStr   = args[i+2];
-					if (support == "ns")
-					{
-						theObj = eval(args[i]);
-						if (theObj)
-							theObj.visibility = visStr;
-					}
-					else if (support == "ie")
-					{ //IE
-						if (visStr == 'show')
-							visStr = 'visible'; //convert vals
-						if (visStr == 'hide')
-							visStr = 'hidden';
-						theObj = eval(args[i+1]);
-						if (theObj)
-							theObj.style.visibility = visStr;
-					}
-				}
-			}
-		
-		
-		  function hideLayers ()
-			{				
-				MM_showHideLayers(
-								
-				                  'document.layers[\'ViewNews\']','document.all[\'ViewNews\']','hide',
-				                  'document.layers[\'SearchProfiles\']','document.all[\'SearchProfiles\']','hide',
-				                  'document.layers[\'FreeYearbook\']','document.all[\'FreeYearbook\']','hide',
-				                  'document.layers[\'FreeKit\']','document.all[\'FreeKit\']','hide',
-				                  'document.layers[\'Login\']','document.all[\'Login\']','hide',
-				                  'document.layers[\'ExpertClick\']','document.all[\'ExpertClick\']','hide',
-				                  'document.layers[\'CreateProfile\']','document.all[\'CreateProfile\']','hide',				                
-								  'document.layers[\'AboutUs\']','document.all[\'AboutUs\']','hide',	
-								  'document.layers[\'ECHomeText\']','document.all[\'ECHomeText\']','hide',	
-									
-								  'document.layers[\'useEC\']','document.all[\'useEC\']','hide',			
-								  'document.layers[\'Daybook\']','document.all[\'Daybook\']','hide',			
-								  'document.layers[\'RadioTour\']','document.all[\'RadioTour\']','hide',			
-								  'document.layers[\'Instructions\']','document.all[\'Instructions\']','hide',	                  
-				                  'document.layers[\'Home\']','document.all[\'Home\']','hide');
-				return;
-			}
-			
-			function showLayer (name)
-			{
-			}
-			
-		//-->
-		</script>
-	</head>
-		
-	<body bgcolor="#FFFFFF" onload="hideLayers();MM_preloadImages('01_on.gif','988995558322');MM_preloadImages('02_on.gif','988995565402');MM_preloadImages('03_on.gif','988995571882');MM_preloadImages('04_on.gif','988995578832');MM_preloadImages('05_on.gif','988995585271');MM_preloadImages('06_on.gif','988995591970');MM_preloadImages('07_on.gif','988995598730');MM_preloadImages('08_on.gif','988995605260');MM_preloadImages('09_on.gif','988995611769');MM_preloadImages('10_on.gif','988995620091');MM_preloadImages('11_on.gif','988995627171');MM_preloadImages('12_on.gif','988995635132');MM_preloadImages('13_on.gif','988995642573');MM_preloadImages('14_on.gif','988995649924');MM_preloadImages('15_on.gif','988995656894');MM_preloadImages('16_on.gif','988995663403');MM_preloadImages('26_on.gif','988995663413');MM_preloadImages('daybook_on.gif','988995663424');MM_preloadImages('Managedaybook_on.gif','988995663424');">
-		
-		
-			
-		
-		<span id="Home" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			This returns you to this main page, but be careful, for if you are logged in and you hit it, you will lose all your changes.
-		</span>
-		<span id="useEC" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			View and respond to questions journalists are asking our experts.
-		</span>
-		<span id="Instructions" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Click here for our Web Handbook of all the instructions of how to use the page, and our services.
-		</span>
-		<span id="Daybook" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Click here to view Daybook.
-		</span>
-		<span id="RadioTour" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Click here to view Radio Tour.
-		</span>
-		
-		
-		<span id="ViewNews" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			This shows all the news release headlines from News Release Wire, and link from those news releases back to Yearbook profiles.
-		</span>
-		<span id="SearchProfiles" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			This allows you to search Yearbook profiles for experts, and link to their news releases.
-		</span>
-		<span id="ECHomeText" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Here you can ask our experts a question.
-		</span>
-		<span id="FreeYearbook" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Journalists:  Click here to register for benefits: Get the NewsReleaseWire -- Choose to get Instant News Releases from the experts you like.  Ask ExpertClick questions, and read responses to public questions.  Create your own journalist profile, and have access to our databases of journalists.
-		</span>
-		<span id="FreeKit" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Experts, and news sources, click here to request free information about including your profile in the Yearbook database.
-		</span>
-		<span id="Login" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Experts, if you have a UserID and Password, log in Here.
-		</span>
-		<span id="ExpertClick" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Contact Experts.
-		</span>
-		<span id="CreateProfile" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Experts, you can create a complete profile in minutes and have your listing be part of the Yearbook.com site, and be able to send news releases. Click here and your listing can be on-line in minutes, plus you'll have your own internet homepage with our MinutePage® HomePage Creator:
-		</span>
-		<span id="AboutUs" style="visibility: hide; border-width:1px; border-style:solid; position:absolute; z-index:1; background:rgb(226,238,255); width:200; font-weight:bold; font-size:10pt; padding-right:2px; padding-top:2px; padding-left:2px; padding-bottom:2px;">
-			Our history. We are no dot.com. Since 1984 we've been the leader with news for the media.
-		</span>
-		
-		
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
 
-		
-		<table align="center" width="800" border="0">
-			<tbody><tr>
-				
-				<td align="center">
-					<table width="100%" border="0" cellspacing="0" cellpadding="0" align="CENTER">
-						<tbody><tr bgcolor="FFFFFF">
-							<td align="center">
-								
-										
-									
-									<a href="http://www.ExpertClick.com/Search/default.cfm?action=preview&amp;GroupID=2822&amp;Serial=19-1238">
-									<img src="http://www.ExpertClick.com/images/yb-circle.gif" border="0" align="middle"></a>
-									
-									<a href="http://www.ExpertClick.com"><img src="http://www.ExpertClick.com/Images/Headers/ECColor.gif" border="0" align="middle"></a>
-								
-							</td>	
-							
-						</tr>
-						
-						
-					</tbody></table>
-				</td>
+function openlittleme()
+{
+	
+	window.open('http://www.ExpertClick.com/default.cfm?Action=Instructions', "InstructionsPopUp", "height=400,width=800,resizable,scrollbars");
+	
+}
+//-->
+</script>
+</head>
+
+
+<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" onload="MM_preloadImages('http://www.ExpertClick.com/images/NewNav/exp_01on.gif','http://www.ExpertClick.com/images/NewNav/exp_02on.gif','http://www.ExpertClick.com/images/NewNav/exp_03on.gif','http://www.ExpertClick.com/images/NewNav/exp_04on.gif','http://www.ExpertClick.com/images/NewNav/exp_05on.gif','http://www.ExpertClick.com/images/NewNav/exp_06on.gif','http://www.ExpertClick.com/images/NewNav/exp_07on.gif','http://www.ExpertClick.com/images/NewNav/exp_08on.gif','http://www.ExpertClick.com/images/NewNav/exp_09on.gif','http://www.ExpertClick.com/images/NewNav/exp_10on.gif','http://www.ExpertClick.com/images/NewNav/exp_11on.gif','http://www.ExpertClick.com/images/NewNav/exp_12on.gif','http://www.ExpertClick.com/images/NewNav/exp_13on.gif')">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	
+	<tbody><tr> 
+		<td width="2%"><img src="http://www.ExpertClick.com/images/NewNav/exp_logo.gif" width="194" height="100"></td>
+		<td width="98%"> 
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr> 
+				<td width="1%"><img src="http://www.ExpertClick.com/images/NewNav/spacer.gif" width="22" height="100"></td>
+				<td width="99%"><img src="http://www.ExpertClick.com/images/NewNav/logo_expertclick_home.gif" width="524" height="88"></td>
 			</tr>
-			<tr>
-			 	
-		<td valign="top">
-
+		</tbody></table>
+		</td>
+	</tr>
+	
+	<tr> 
+		
+		<td colspan="2" valign="top">
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr> 
+				
+				<td width="1%"><img src="http://www.ExpertClick.com/images/NewNav/spacer.gif" width="22" height="10"></td>
+				
+				<td width="99%"> 
 <br><br>
 <p><font size="2" face="Verdana">
 This site is operated by Broadcast Interview Source (Broadcast Interview Source is referred to herein as "we" or "us").  We respect the privacy of visitors to our site.  Please read this Privacy Policy carefully so that you understand our privacy practices.
@@ -308,33 +123,57 @@ A final note:  The Web is an evolving medium.  If we need to change our privacy 
 Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. 
 </font> </p>
 
-
-
-		</td>
-		<td width="100" valign="top">
-		 	&nbsp;
-		</td>
-	</tr>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="2%">&nbsp;</td>
+    <td width="98%">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="2%">&nbsp;</td>
+    <td width="98%"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="1%"><img src="http://www.ExpertClick.com/images/newnav/spacer.gif" width="22" height="10"></td>
+          <td width="99%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+			<table width="60%"><tbody><tr><td>
+				
+				 <font size="-2"> 
+			 
+			<div align="CENTER">
+			<br>
+			
+			<a href="http://www.ExpertClick.com/default.cfm?Action=terms2" target="_new">Terms and Conditions</a> /
+			
+			<a href="http://www.ExpertClick.com/default.cfm?Action=privacy" target="_new">Privacy Policy</a> /
+			<a href="http://www.ExpertClick.com/19-1238.html">Contact us</a> /  <br>
+			<a href="http://www.ExpertClick.com/informationKit/">Get Information</a> 
+			
+			
+			<br><br>
+			<b>Copyright© 2002 BIS Inc.  Patent Pending.  All rights reserved.</b>
+			<br>
+			
+			<b>Broadcast Interview Source, Inc. 2233 Wisconsin Ave., N.W.   Washington,
+			D.C.  20007   Phone: (202) 333-4904</b>
+			</div>
+			
+			</font>
+			
+			</td></tr></tbody></table>	
+			
+			
+			
+			</font></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
 </tbody></table>
 
-
- 
-<div align="CENTER">
-<br>
-<font face="VERDANA,GENEVA,ARIAL,HELVETICA" size="2"><a href="http://www.ExpertClick.com/default.cfm?Action=terms2" target="_new">Terms and Conditions</a> /
-
-<a href="http://www.ExpertClick.com/default.cfm?Action=privacy" target="_new">Privacy Policy</a> /
-<a href="http://www.ExpertClick.com/19-1238.html">Contact us</a> /  <br>
-<a href="http://www.ExpertClick.com/informationKit/">Get Information</a> 
-
-</font>
-<br><br>
-<font face="VERDANA,GENEVA,ARIAL,HELVETICA" size="-3"><b>Copyright© 2002 BIS Inc.  Patent Pending.  All rights reserved.</b></font>
-<br>
-<font face="VERDANA,GENEVA,ARIAL,HELVETICA" size="1">
-<b>Broadcast Interview Source, Inc. 2233 Wisconsin Ave., N.W.   Washington,
-D.C.  20007   Phone: (202) 333-4904</b></font>
-</div>
 
 
 	  </body></html>
