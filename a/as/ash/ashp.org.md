@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205072645id_/http%3A//ashp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604012439id_/http%3A//www.ashp.org/privacy.html) for the most accurate reproduction.*
 
 # ASHP Privacy Statement
 
@@ -23,7 +23,7 @@ Our site uses cookies to keep track of your shopping cart. The shopping cart may
 Browser type, IP address, access time, and files accessed are collected in log files. ASHP uses this information to analyze traffic on the site and then discards the log files. Aggregate information generated from the log files is sometimes shared with advertisers. 
 
 **PERSONALLY IDENTIFIABLE INFORMATION**   
-The site collects personally identifiable information at the following locations: [ASHP Membership Application](http://www.ashp.org/public/memberconst/memberapp.html), [Change of Address Form for ASHP Members](http://www.ashp.org/public/memberconst/cscod.cfm), [Application for PALs Mentors and Protégés](http://www.ashp.org/public/memberconst/pals/index.html), [The ASHP Shopping Cart](https://shop.ashp.org/timssnet/common/tnt_frontpage.cfm), [Communications Center Sign-up](http://www.ashp.org/login/register.cfm), [Listserv sign-up](http://list.ashp.org/scripts/lyris.pl?enter=), and the [CE Testing Center](http://ce.ashp.org/). The information collected includes name, title, home address, business address, e-mail, and credit card number. We use customer contact information from the forms to send orders, newsletters, our journal (AJHP), Products Catalog, and event announcements. A credit card processing company is used to process credit cards. The credit card information is used only for billing purposes. The information we collect is sometimes shared with other reputable organizations to help them contact consumers for marketing purposes. Users may choose to decline receiving future mailings; please see the "Opting Out" section below. Aggregated demographic information may also be compiled and shared, but does not identify the individual user. 
+The site collects personally identifiable information at the following locations: [ASHP Membership Application](http://ashp.org/public/memberconst/memberapp.html), [Change of Address Form for ASHP Members](http://ashp.org/public/memberconst/cscod.cfm), [Application for PALs Mentors and Protégés](http://ashp.org/public/memberconst/pals/index.html), [The ASHP Shopping Cart](https://shop.ashp.org/timssnet/common/tnt_frontpage.cfm), [Communications Center Sign-up](http://ashp.org/login/register.cfm), [Listserv sign-up](http://list.ashp.org/scripts/lyris.pl?enter=), and the [CE Testing Center](http://ce.ashp.org/). The information collected includes name, title, home address, business address, e-mail, and credit card number. We use customer contact information from the forms to send orders, newsletters, our journal (AJHP), Products Catalog, and event announcements. A credit card processing company is used to process credit cards. The credit card information is used only for billing purposes. The information we collect is sometimes shared with other reputable organizations to help them contact consumers for marketing purposes. Users may choose to decline receiving future mailings; please see the "Opting Out" section below. Aggregated demographic information may also be compiled and shared, but does not identify the individual user. 
 
 **SPECIAL RELATIONSHIPS**  
 Part of the [ASHP Superstore](http://www.doody.com/ashp.htm) is a royalty arrangement with Doody Publishing. Doody Publishing collects personally identifiable information only for billing purposes and never shares personal information with third parties. Doody Publishing does share with ASHP aggregate sales information as part of the royalty arrangement. Please read Doody Publishing's [privacy policy](http://www.doody.com/Rev450WebScripts/aboutPrivacy.asp?ShoppingCartID=0SOCLAB1160840-) for additional information. 
@@ -45,7 +45,7 @@ Our site provides users the opportunity to opt out of receiving communications f
 
 Users who do not want to receive mailings from ASHP or third parties can contact ASHP by the following means and request to be excluded: 
 
-  1. [Change of Address Form](http://www.ashp.org/public/memberconst/cscod.cfm)
+  1. [Change of Address Form](http://ashp.org/public/memberconst/cscod.cfm)
   2. [E-mail](mailto:custserv@ashp.org)
   3. Postal mail:  American Society of Health-System Pharmacists  
 7272 Wisconsin Avenue  
@@ -57,7 +57,7 @@ Bethesda, MD 20814
 **CHANGING INFORMATION**  
 Users have the ability to change information previously provided such as name, address, telephone, and e-mail address. Please contact ASHP by the following means to request the change: 
 
-  1. [Change of Address Form](http://www.ashp.org/public/memberconst/cscod.cfm)
+  1. [Change of Address Form](http://ashp.org/public/memberconst/cscod.cfm)
   2. [E-mail](mailto:custserv@ashp.org)
   3. Postal mail:  American Society of Health-System Pharmacists  
 7272 Wisconsin Avenue  
