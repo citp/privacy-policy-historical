@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604115357id_/http%3A//www.epals.com/privacy/index_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217203507id_/http%3A//www.epals.com/privacy/index_en.html) for the most accurate reproduction.*
 
 # ePALS Classroom Exchange Privacy Policy
 
 | [**Products and  
-Services**](https://web.archive.org/solutions/)  
+Services**](https://web.archive.org/solutions/index_en.html)  
 ---  
 Put ePALS expertise to work for you.  
 [**Communication  
@@ -14,12 +14,13 @@ ePALS**](https://web.archive.org/teaching/)
 Making education and ePALS easier for you.  
 [**Events**](https://web.archive.org/events/)  
 Current happenings and memorable moments.  
-[**Support**](https://web.archive.org/feedback/index_en.html)  
+[**Support**](https://web.archive.org/support/)  
 Help materials and ePALS Support.  
 [**About ePALS**](https://web.archive.org/about/)  
 FAQ, media, awards, partners and more...  
   
-[](https://web.archive.org/phpAds/click.php3?bannerID=96) |    **ePALS Classroom Exchange  
+  
+|    **ePALS Classroom Exchange  
 Privacy Policy**
 
 [](https://www.truste.org/validate/6371)
@@ -48,9 +49,9 @@ Detailed instructions on what information must be provided can be found in the a
 
 We also permit teachers to register their students/classrooms. For students who are under 13, we instruct the teachers to print out the privacy policy and parental consent form, and obtain written parental consent. Once they have verified to us that they have received written parental consent, we permit them to register their students and create accounts for them, with access to all the features described below. 
 
-Members whose birthdates show they are over 12 are taken to a second registration page, where they give us their city, and have the option of providing us with their street address, state or province, and zip or postal code. Their mailing address may be used to send a print version of the ePALS Newsletter, and makes it possible to generate customized street maps on the user's ePALS Settings page. Once this page is completed, the registration process is complete.
+Members whose birthdates show they are over 12 are taken to a second registration page, where they give us their city, and have the option of providing us with their street address, state or province, and zip or postal code. Their mailing address may be used to send a print version of the ePALS Newsletter, and makes it possible to generate customized street maps on the user's My Account page. Once this page is completed, the registration process is complete.
 
-Once registered with parental consent, children under 13 have the option of providing us with their mailing address at the Settings page of their account. This makes it possible to generate customized street maps on the user's ePALS Settings page. 
+Once registered with parental consent, children under 13 have the option of providing us with their mailing address at the Settings page of their account. This makes it possible to generate customized street maps on the user's My Account page. 
 
 We protect the confidentiality, security and integrity of the personal information we collect. This information is maintained on secure servers and is only accessible to qualified ePALS personnel who require this information. 
 
@@ -88,7 +89,7 @@ ePALS occasionally offers moderated, real-time discussions on specific topics. A
 
 #### Newsletters
 
-ePALS offers its members our monthly newsletter on new site features and general Internet and educational information. Members can subscribe at registration by checking the appropriate box on their registration form. They can unsubscribe at any time by unchecking the appropriate box in their ePALS Settings page, or by following the unsubscribe link in every newsletter. Once their membership is activated, users under 13 who signed up for the newsletter in the pre-registration process will receive it.
+ePALS offers its members our monthly newsletter on new site features and general Internet and educational information. Members can subscribe at registration by checking the appropriate box on their registration form. They can unsubscribe at any time by unchecking the appropriate box in their My Account page, or by following the unsubscribe link in every newsletter. Once their membership is activated, users under 13 who signed up for the newsletter in the pre-registration process will receive it.
 
 Students whose teachers are members, but who may not be members themselves, can also participate in some interactive functions at the ePALS site. 
 
@@ -120,7 +121,7 @@ In addition to the information contained above, we also collect additional infor
 
 #### e-Commerce
 
-ePALS offers links to various online stores that offer merchandise of interest to teachers and parents in our "Educational Products" section. ePALS staff have carefully chosen e-commerce partners that provide only products appropriate to educators and parents, but cannot guarantee the contents of these external sites.
+ePALS offers links to various online stores that offer merchandise of interest to our community in the ePALS Emporium. ePALS staff have carefully chosen e-commerce partners that provide only products appropriate to members, but cannot guarantee the contents of these external sites.
 
 Please let us know if you have any questions or comments regarding our privacy policy. You can contact us at:
 
