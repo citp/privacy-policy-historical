@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peapod.com privacy policy that was archived on 2000-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001219094500id_/http%3A//peapod.com/fcgi-bin/fetch.fcg%3Fmsgid%3D5014) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peapod.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406220610id_/http%3A//www.peapod.com/fcgi-bin/fetch.fcg%3Fmsgid%3D5014) for the most accurate reproduction.*
 
 # Peapod.com - Grocery Shopping & Delivery Service
 
