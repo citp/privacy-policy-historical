@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jetphotos.net privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209033947id_/http%3A//www.jetphotos.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetphotos.net privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095316id_/http%3A//www.jetphotos.net/privacy) for the most accurate reproduction.*
 
 # JetPhotos.Net » Privacy Policy
 
 **PRIVACY STATEMENT:**  
-Copyright © 2000-2002 [_JetPhotos.Net_](http://www.jetphotos.net/). All Rights Reserved. [Updated 09-19-2002]
+Copyright © 2000-2002 [_JetPhotos.Net_](http://www.jetphotos.net/). All Rights Reserved. [Updated 09-27-2003]
 
 Our users' privacy is a top priority at JetPhotos.Net. Thus, we have developed this privacy statement, which outlines in detail the privacy policies of our site.
 
