@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054200id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605161724id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
 
-# The United States Phamacopeial Convention, Inc. -- USP Web Site Privacy Policy
+# The United States Pharmacopeial Convention, Inc. -- USP Web Site Privacy Policy
 
 | 
 
