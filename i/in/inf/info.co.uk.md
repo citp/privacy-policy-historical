@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the info.co.uk privacy policy that was archived on 2003-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030406051750id_/http%3A//www.info.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the info.co.uk privacy policy that was archived on 2003-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030805082329id_/http%3A//info.co.uk/common/privacy.php) for the most accurate reproduction.*
 
-# Info.co.uk : Terms of Use
+# Info.co.uk - Privacy Statement
 
 Info.co.uk, is a site owned by Info (Domain Names) Limited, a UK registered Company. We are strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information that may be gathered about individuals who visit the Website and how that information is used. This policy applies only to Info.co.uk, and not to the Web sites of other companies or organizations to which we provide links. 
 
