@@ -1,67 +1,239 @@
-<!--The following is the downloaded HTML source of the vcuhealth.org privacy policy that was archived on 2003-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030407060826id_/http%3A//www.vcuhealth.org/webprivate.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vcuhealth.org privacy policy that was archived on 2003-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204215412id_/http%3A//www.vcuhealth.org/webprivate.html) for the most accurate reproduction.-->
 
 <html><head>
-	<title>Virginia Commonwealth University Health System: Health and Patient Care</title>
-	<link rel="stylesheet" type="text/css" href="second.css">
+<title>Virginia Commonwealth University Health System, MCV Hospitals and Physicians: Web Privacy Statement</title>
+<link rel="stylesheet" href="frontimages/styles.css">
+
+
 
 <script language="JavaScript">
+<!--
 
-function vare(id, newSrc) {
-    var theImage = swapper(document, id, 0);
-    if (theImage) {
-        theImage.src = newSrc;
-    }
+
+function gotosite(site) {            
+	if (site != "") {                    
+		self.location=site; 
+	}
 }
 
-
-
-function swapper(doc, name, j) {
-    var theImage = false;
-    if (doc.images) {
-        theImage = doc.images[name];
-    }
-    if (theImage) {
-        return theImage;
-    }
-    if (doc.layers) {
-        for (j = 0; j < doc.layers.length; j++) {
-            theImage = swapper(doc.layers[j].document, name, 0);
-            if (theImage) {
-                return (theImage);
-            }
-        }
-    }
-    return (false);
+function checkQuery() {
+ var queryFld = document.keyword.query
+ if (queryFld.value == "") {
+  alert ("Please enter a query")
+  queryFld.focus()
+  return(false)
+ }
+ return(true)
 }
 
-function MM_preloadImages() {
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+function checkName() {
+ var nameFld = document.ccso.NAME
+ if (nameFld.value == "") {
+  alert ("Please enter a name")
+  nameFld.focus()
+  return(false)
+ }
+ return(true)
 }
+
+function convertString( temp ) {
+ var newString = "";
+ var i=0;
+ for( i=0; i < temp.length; i++ ) {
+  if( temp.charAt(i) != " " ) {
+   newString += temp.charAt(i);
+  }
+  else {
+   newString += "+";
+  }
+ }
+ return newString;
+}
+
+function startSearch() {
+
+//people
+if( document.keyword.searchnav.selectedIndex == 1 ) {
+ if( checkQuery() ) {
+  var header = "http://search.vcu.edu/cgi-bin/directall?";
+  options = "TYPE=All";
+  searchVal = "&NAME=" + convertString(document.keyword.query.value);
+  eval( "location = " + "\"" + header + options + searchVal + "\"" );
+ }
+}
+
+//vcuhealth via HtDig
+if( document.keyword.searchnav.selectedIndex == 0 ) {
+ if( checkQuery() ) {
+  var header = "http://search.vcu.edu/cgi-bin/htsearch?";
+  var options = "config=htdig&restrict=";
+  var restrict = "http://www.vcuhealth.org";
+  var exclude = "&exclude=http://www.at.vcu.edu/gartner/"
+  var restrictsas = "";
+  var excludesas = "&exclude=http://www.at.vcu.edu/manuals/"
+  var options2 = "&method=and&format=long&sort=score&matchesperpage=20";
+  var searchVal = "&words=" + convertString(document.keyword.query.value);
+  eval( "location = " + "\"" + header + options + restrict + exclude + restrictsas + excludesas + options2 + searchVal + "\"");
+  }
+ }
+
+//library
+if( document.keyword.searchnav.selectedIndex == 2 ) {
+ if( checkQuery() ) {
+  var header = "http://www.library.vcu.edu/cfapps/jbc/instruct/libsearch.cfm?";
+  var searchVal = "&search=" + convertString(document.keyword.query.value);
+  eval( "location = " + "\"" + header + searchVal + "\"");
+ }
+}
+
+//vcu via HtDig
+if( document.keyword.searchnav.selectedIndex == 3 ) {
+ if( checkQuery() ) {
+  var header = "http://search.vcu.edu/cgi-bin/htsearch?";
+  var options = "config=htdig&restrict=";
+  var restrict = "";
+  var exclude = "&exclude=http://www.at.vcu.edu/gartner/"
+  var restrictsas = "";
+  var excludesas = "&exclude=http://www.at.vcu.edu/manuals/"
+  var options2 = "&method=and&format=long&sort=score&matchesperpage=20";
+  var searchVal = "&words=" + convertString(document.keyword.query.value);
+  eval( "location = " + "\"" + header + options + restrict + exclude + restrictsas + excludesas + options2 + searchVal + "\"");
+  }
+ }
+
+}
+
+//searchSearch
+
 </script>
+
 </head>
-<body onload="MM_preloadImages('images/menu1on.gif','images/menu2on.gif','images/menu3on.gif','images/menu4on.gif','images/menu5on.gif')">
-<center>
-<table width="640" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td colspan="3" align="center" valign="top">
-<a href="http://www.vcuhealth.org"><img border="0" src="images/toplogo.gif" width="640" height="94"></a><br>
-<img src="images/toppic.gif" width="640" height="50"><br>
-<a href="healthser.html" onmouseover="vare('menu1','images/menu1on.gif');" onmouseout="vare('menu1','images/menu1off.gif');"><img name="menu1" src="images/menu1off.gif" border="0" width="99" height="16"></a><a href="facloc.html" onmouseover="vare('menu2','images/menu2on.gif');" onmouseout="vare('menu2','images/menu2off.gif');"><img name="menu2" src="images/menu2off.gif" border="0" width="135" height="16"></a><a href="patvisit.html" onmouseover="vare('menu3','images/menu3on.gif');" onmouseout="vare('menu3','images/menu3off.gif');"><img name="menu3" src="images/menu3off.gif" border="0" width="173" height="16"></a><a href="http://www.communicationcenter.vcu.edu/physiciansdir.html" onmouseover="vare('menu4','images/menu4on.gif');" onmouseout="vare('menu4','images/menu4off.gif');"><img name="menu4" src="images/menu4off.gif" border="0" width="114" height="16"></a><a href="http://www.vcuhealth.org/frames/CHOICE.htm" onmouseout="vare('menu5','images/menu5off.gif');" onmouseover="vare('menu5','images/menu5on.gif');"><img name="menu5" src="images/menu5off.gif" border="0" width="115" height="16"></a>
-</td>
-</tr>
-<tr>
-<td colspan="3" align="left" valign="top">
-<hr width="100%">
-<img border="0" src="images/priv-hdr.gif" width="300" height="29"><br>
-<hr width="100%"><br>
-</td>
-</tr>
-<tr>
-      <td width="33"><img src="images/pixel.gif" width="33"></td>
-      <td align="left" valign="top" width="600"> 
+
+<body bgcolor="#FFFFFF">
+<table width="750" border="0" cellspacing="0" cellpadding="1" align="center">
+  <tbody><tr bgcolor="#000000"> 
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td bgcolor="#000000" width="395" align="left" valign="top"><a href="http://www.vcuhealth.org"><img src="frontimages/vcuhs_logo.gif" width="394" height="77" border="0"></a></td>
+          <td bgcolor="#000000" align="right" valign="top" width="355"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="5" align="right">
+              <tbody><tr align="right" valign="bottom"> 
+                <td> 
+                  <form name="keyword" action="" onsubmit="startSearch();return false">
+                    <div align="right">
+                      <input type="text" name="query" size="20" maxlength="30">
+                      <select name="searchnav" size="1">
+                        <option value="vcuhealth">Health System</option>
+						<option value="people">People</option>
+                        <option value="libraries">Libraries</option>
+                        <option value="vcu">VCU</option>
+                      </select>
+                      <input type="image" value="submit" src="frontimages/go.gif" border="0" width="18" height="19">
+                    </div>
+                  </form>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td colspan="2" background="frontimages/vcu_bar_bg.gif"><img src="frontimages/vcu_bar.gif" width="676" height="20"></td>
+        </tr>
+        <tr align="right" valign="top"> 
+          <td colspan="2" bgcolor="415362" class="menu"><a href="healthser.html"><span class="menu">Health Services</span></a> ·
+            <a href="patvisit.html"> 
+            <span class="menu">Patients &amp; Visitors</span></a> · <a href="facloc.html"><span class="menu">Clinical Facilities</span></a> ·
+            <a href="profinfo.html"><span class="menu">Professionals</span></a> 
+            · <a href="careers/index.htm"><span class="menu">Careers</span></a> </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<div align="center"><br>
+  <table width="750" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td width="150" align="left" valign="top"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr bgcolor="#FFFFFF"> 
+                  <td> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="1" bgcolor="#000000">
+                      <tbody><tr> 
+                        <td> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                            <tbody><tr> 
+                              <td> 
+                                <p><img src="frontimages/areas_bar.gif" width="148" height="19"><br>
+                                  &nbsp;<br>
+                                &nbsp;<a href="about_us.html">About Us</a><br>
+                                &nbsp;<a href="affiliates.html">Affiliates</a><br>
+                                &nbsp;<a href="edres.html">Education &amp; Research</a><br>
+                                &nbsp;<a href="http://www.communicationcenter.vcu.edu/physiciansdir.html">Find A Physician</a><br>
+                                &nbsp;<a href="employees.html">For Employees</a><br>&nbsp;<a href="resources.html">Health Resources</a><br>
+                                &nbsp;<a href="give2mcv.html">MCV Foundation</a><br>
+                                &nbsp;<a href="store/index.html">Online Store<br>
+                              </a>
+                                &nbsp;<a href="publications/index.html">Publications</a><br>
+                                &nbsp;<a href="appointment.html">Request Appointment</a><br>
+                                &nbsp;<a href="speakers/index.html">Speaker's Bureau</a><br>
+                                &nbsp;<a href="a-z.html">VCUHS A-Z Site Map</a><br>
+                                &nbsp;<a href="nursery/index.html">Web Nursery</a><br>
+                                  <br>
+                                </p>
+                              </td>
+                            </tr>
+                          </tbody></table>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+                <tr bgcolor="#FFFFFF"> 
+                  <td>&nbsp;</td>
+                </tr>
+                <tr bgcolor="#FFFFFF"> 
+                  <td> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="1" bgcolor="#000000">
+                      <tbody><tr> 
+                        <td> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                            <tbody><tr> 
+                              <td> 
+                                <p><img src="frontimages/comm_bar.gif" width="148" height="19"></p>
+                              <p><b>&nbsp;</b><a href="calendar.html">Calendar of Events</a><br>
+                                &nbsp;<a href="http://www.vcu.edu">VCU Homepage<br>
+                              <br>
+                              </a>
+                              </p>
+                              </td>
+                            </tr>
+                          </tbody></table>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td align="center" valign="top" width="8"> 
+        <p>&nbsp;</p>
+      </td>
+      <td align="center" valign="top" width="592"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="1" bgcolor="#000000">
+          <tbody><tr> 
+            <td> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="10" bgcolor="#FFFFFF">
+                <tbody><tr> 
+                  <td colspan="2">
+                    <p><img border="0" src="images/header_priv.gif" width="300" height="25"></p>
 The following discloses the information gathering and dissemination practices of
 official Virginia Commonwealth University Health System (VCUHS) web pages
 (defined as an Institutional Web Page in the <a href="http://www.vcu.edu/guidelines/"><b>VCU
@@ -137,26 +309,22 @@ If you wish to review or change information gathered about you via an official
 VCU Health System web site, you may contact the VCU Health System Webmaster who
 will assist you in locating the person responsible for that site so that you may
 make your request for that review or change directly with them.</p>
-&nbsp;
-
-
-
-        <img src="images/pixel.gif" width="556" height="1">
+                    <p>&nbsp;
+                  </p></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+        <p align="right">© 2003 Virginia Commonwealth University Health System. (804) 828-9000.<br>
+          1250 East Marshall Street, Richmond, VA 23294<br>
+        <a href="webprivate.html">
+        Web Privacy Statement</a> | <a href="contact.html"> Contact the VCU Health System</a> </p>
       </td>
-      <td width="33"><img src="images/pixel.gif" width="33"></td>
-</tr>
-</tbody></table>
-<table width="640" cellspacing="0" cellpadding="0" border="0" align="center">
-<tbody><tr>
-<td colspan="5" align="center" valign="top">
-<hr noshade="" size="1" width="640" color="#000000">
-<span class="tiny">© 2003 <a href="http://www.vcuhealth.org"> VCU Health
-System</a>. All Rights Reserved.</span><br>
-<span class="tiny">401 N. 12th Street, Richmond, VA 23298</span><br>
-<span class="tiny"><a href="http://www.vcuhealth.org/contact.html">Contact VCU Health System</a> |
-<a href="http://www.vcuhealth.org/webprivate.html"> Web Privacy Statement</a></span><br>
-</td>
-</tr>
-</tbody></table>
-</center>
+    </tr>
+  </tbody></table>
+</div>
+<div align="right"></div>
+
+
 </body></html>
