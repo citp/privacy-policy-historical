@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wispolitics.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206132000id_/http%3A//www.wispolitics.com/mast.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wispolitics.com privacy policy that was archived on 2001-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010418231119id_/http%3A//www.wispolitics.com/mast.html%23Privacy) for the most accurate reproduction.*
 
 # WisPolitics.com : Masthead
 
@@ -9,7 +9,6 @@
 Certain information is gathered from users of the following services (go to the subscription page for each service to view what information is collected):
 
   * [WisPolitics Subscriber Services](https://web.archive.org/subscribe.html) (including the WisPolitics News Summary and the WisPolitics Report);
-  * [WisPolitics Headline Service](https://web.archive.org/web/20001206132000id_/http%3A//www.wispolitics.com/freeser/headser.html).
 
 
 
