@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604034634id_/http%3A//www.boh.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207045135id_/http%3A//boh.com/privacy.asp) for the most accurate reproduction.*
 
 # Bank of Hawaii
 
@@ -30,15 +30,14 @@ We may occasionally run contests on our site and ask visitors for contact inform
 If you are a current e-Bankoh online banking customer, you can provide updated contact information through our web site. If you are not an online banking customer, please visit a convenient branch. 
 
 **Contacting the Web Site**  
-If you have any questions regarding this Privacy Policy or the practices of our web site, you can contact [info@boh.com](mailto:info@boh.com). 
+If you have any questions regarding this Privacy Policy or the practices of our web site, you can [contact us](https://www.boh.com/contact/form_gen-info.asp). 
 
 **Children's Privacy**  
 Our web site is directed to a general audience. We do not knowingly solicit or collect personal information from children on our site. 
 
-Bank of Hawaii values its customers and is committed to protecting customer privacy. If you would like to view our Consumer Privacy Statement in its entirety, [click here for a printable version](https://web.archive.org/web/20030604034634id_/http%3A//www.boh.com/privacy.pdf) (PDF format). 
+Bank of Hawaii values its customers and is committed to protecting customer privacy. If you would like to view our Consumer Privacy Statement in its entirety, [click here for a printable version](https://web.archive.org/web/20031207045135id_/http%3A//boh.com/privacy.pdf) (PDF format). 
 
 Use the free Adobe Acrobat Reader to view and print the Consumer Privacy Statement. 
 
 Our postal address is P.O. Box 2900, Honolulu, HI 96846-6000.  
-We can be reached via email at [info@boh.com](mailto:info@boh.com)  
-Or you can reach us by telephone at 1-888-643-3888.
+[Contact us](https://www.boh.com/contact/form_gen-info.asp) for more information or you can reach us by telephone at 1-888-643-3888.
