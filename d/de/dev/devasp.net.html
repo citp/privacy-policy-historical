@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the devasp.net privacy policy that was archived on 2002-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021216100503id_/http%3A//www.devasp.net/Net/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devasp.net privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204223956id_/http%3A//www.devasp.net/net/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>DevASP.Net Privacy Policy</title>
 <meta name="Description" content="Directory of ASP.NET, VB.NET, C#, XML and SQL resources, articles, samples, tutorials, scripts, applications and sample chapters arranged by category.">
 <meta name="keywords" content="DevASP.NET, ASP.NET, ASP.Net Help, VB.NET, VS.NET, .NET Framework, ADO.NET, ASP .NET, VB .NET, XML, Visual Studio.Net, SOAP, ASP.Net Samples, VB.Net Samples, ASP.Net Articles, VB.Net Articles, C-Sharp .Net, VB.Net Samples, .Net Framework, Sample Chapters, Articles, Samples, Links, Search, Components">
-<link rel="stylesheet" type="text/css" href="/Include/style.css">
+<link rel="stylesheet" type="text/css" href="/Net/Include/style.css">
 
 <script language="JavaScript">
 <!-- //
@@ -15,13 +15,24 @@ function ClearThisField(){
 		document.frmSearch.st.value= "";
 	}
 	
-	
-	function SubmitOrderByForm()
+function ClearTextField(thisField){
+	if (thisField.value == " Keyword Search ")
+		thisField.value	= "";
+	}
+		
+function ClearNLTextBox(ThisField){
+	if (ThisField.value == "  Email Address  ")
+		ThisField.value	= "";
+	}
+
+
+function SubmitOrderByForm()
 	{
 		document.OrderByForm.submit();
 		return;
 	}
-	function SubmitRatingForm(ThisField)
+
+function SubmitRatingForm(ThisField)
 	{
 		if (!ThisField.value =="")
 			{
@@ -30,7 +41,8 @@ function ClearThisField(){
 			return;
 			}
 	}
-	function OpenProductImageWindow(URL) 
+
+function OpenProductImageWindow(URL) 
 	{
 	var options;
 	options = "toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes,top=50,left=50,width=415,height=515";
@@ -40,16 +52,22 @@ function ClearThisField(){
 	}
 
 
+function BookMarkThisPage(Title, URL)
+		{
+	if (document.all)
+		window.external.AddFavorite(URL,Title)
+}
+
 //-->
 </script>
 </head><body bgcolor="#FFFFFF" link="#0000FF" vlink="#0000FF" cellspacing="0" cellpadding="0" leftmargin="0" topmargin="0" rightmargin="0"><map name="tabsmap">
-<area href="/Net/Search/" shape="rect" coords="10, 0, 75, 25">
-<area href="http://www.devasp.com/search/displayc.asp?C_id=330" shape="rect" coords="85, 0, 132, 25">
-<area href="http://www.devasp.com/Search/displayc.asp?C_ID=77" shape="rect" coords="140, 0, 188, 25">
-<area href="/Net/Search/displayc.asp?C_ID=272" shape="rect" coords="200, 0, 270, 25">
-<area href="/net/search/displayc.asp?c_id=253" shape="rect" coords="285, 0, 345, 25">
-<area href="/net/search/displayc.asp?c_id=248" shape="rect" coords="358, 0, 430, 25">
-<area href="/net/search/displayc.asp?c_id=147" shape="rect" coords="440, 0, 490, 25">
+<area href="/net/search/" shape="rect" coords="10, 0, 75, 25">
+<area href="http://www.devasp.com/search/display/category330.html" shape="rect" coords="85, 0, 132, 25">
+<area href="http://www.devasp.com/search/display/category77.html" shape="rect" coords="140, 0, 188, 25">
+<area href="/net/search/display/category272.html" shape="rect" coords="200, 0, 270, 25">
+<area href="/net/search/display/category253.html" shape="rect" coords="285, 0, 345, 25">
+<area href="/net/search/display/category248.html" shape="rect" coords="358, 0, 430, 25">
+<area href="/net/search/display/category147.html" shape="rect" coords="440, 0, 490, 25">
 </map>
 
 
@@ -57,17 +75,17 @@ function ClearThisField(){
 <table border="0" cellpadding="0" cellspacing="0" width="770">
 	<tbody><tr><td align="left" width="20" bgcolor="#0679F9" nowrap=""><img src="/Net/Images/corner1.gif" width="20" height="20" border="0"></td>
 		<td align="Right" bgcolor="#0679F9" width="735" nowrap=""><b>
-			<a class="Slink" href="/net/default.asp">Home</a>&nbsp;&nbsp;
-			<a class="Slink" href="/net/search/displayc.asp">Search</a>&nbsp;&nbsp;
-			<a class="Slink" href="/net/articles/default.asp">Articles</a>&nbsp;&nbsp;
-			<a class="Slink" href="/net/Forum/">Discussion Forums</a>&nbsp;&nbsp;
+			<a class="Slink" href="/">Home</a>&nbsp;&nbsp;
+			<a class="Slink" href="/net/search/">Search</a>&nbsp;&nbsp;
+			<a class="Slink" href="/net/articles/">Articles</a>&nbsp;&nbsp;
+			<a class="Slink" href="/net/forum/">Discussion Forums</a>&nbsp;&nbsp;
 			<a class="Slink" href="/net/members/personalize.asp">Personalize</a>&nbsp;&nbsp;
 			<a class="Slink" href="/net/members/favorites.asp">Favorites</a>&nbsp;&nbsp;
 			
 				<a class="Slink" href="/net/members/memberLogin.asp">Member Login</a>&nbsp;&nbsp;
 			
 			</b>
-			&nbsp;&nbsp;&nbsp;&nbsp;<font face="arial" size="2" color="FFFFFF">Active Users:&nbsp;&nbsp;45</font>
+			&nbsp;&nbsp;&nbsp;&nbsp;<font face="arial" size="2" color="FFFFFF">Active Users:&nbsp;&nbsp;44</font>
 		</td>
 		<td align="right" bgcolor="#0679F9" nowrap=""><img src="/Net/Images/corner2.gif" width="20" height="20" border="0"></td></tr>
 		<tr>
@@ -77,154 +95,144 @@ function ClearThisField(){
 						<td valign="top" align="Left" width="125" bgcolor="#0679F9">
 							<table border="0" width="125" cellpadding="1" cellspacing="0">
 								<tbody><tr>
-									<td align="center" valign="top" nowrap=""><a href="http://www.devasp.Net"><img src="/Net/Images/DevASPNet_Logo.gif" border="0" width="100" height="30"></a></td>
+									<td align="center" valign="top" nowrap=""><a href="http://www.devasp.net"><img src="/Net/Images/DevASPNet_Logo.gif" alt="DevASP.NET for ASP.NET, VB.NET, XML and C# (C-Sharp) Developers Saturday, December 04, 2004" border="0" width="100" height="30"></a></td>
 							  </tr>
-							  <tr>
-									<td>&nbsp;<b><a class="Slink" href="/net/default.asp">Home</a></b></td>
-								</tr>
-								<tr>
-							    <td>&nbsp;<b><a class="Slink" href="/net/articles/default.asp">Dev Articles</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/net/search/displayc.asp?c_id=155">Dev Books</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/Net/Search/Displayc.asp?c_id=697">Dev Software</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/Net/Search/Displayc.asp?c_id=773">Dev Training</a></b></td>
-							  </tr>
-							  <tr>
-									<td>&nbsp;<b><a class="Slink" href="/Net/Forum/">Dev Forum</a></b></td>
-								</tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/Net/Search/">Dev Search</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/Net/SampleChapters/Default.asp">Sample Chapters</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/Net/Search/ListingAddNew.asp">Add a Listing</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/Net/Chat/">.Net Chat</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/Net/LinkToUs.asp">Link to US</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/net/directory.asp">Directory Feed</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/Net/WriteForUs.asp">Write For Us</a></b></td>
-							  </tr>
-							  <tr>
-							    <td>&nbsp;<b><a class="Slink" href="/Net/Advertising.asp">Advertising</a></b></td>
-							  </tr>
-							  <tr>
-									<td nowrap="">
-										
-										&nbsp;<b><a class="Slink" href="/net/members/memberlogin.asp?targeturl=/Net/privacy.asp">Add to Favorites</a></b>
-										
-									</td>
-							  </tr>
-							  <tr>
-							    <td nowrap="">&nbsp;<b><a class="Slink" href="/Net/Contact.asp">Contact</a></b></td>
-							  </tr>
-							  <tr>
-									<td align="center">
-										<img src="/images/clear.gif" width="1" height="6" border="0"><br>
-										<table align="Center" border="0" width="120" cellspacing="0" cellpadding="0">
-											<tbody><tr>
-												<td align="center">
-													<table width="100%" cellspacing="1" cellpadding="0" bgcolor="686898" border="0">
-														<tbody><tr>
-															<td>
-																<table width="100%" cellspacing="0" cellpadding="4" bgcolor="ffffff" border="0">
-																	<tbody><tr>
-																		<td valign="top">
-																			<center>
-																			<a href="http://www.plaza101.com/plaza/store/shop3564/"><img src="http://www.plaza101.com/Plaza/images/HolidayShopping2.gif" alt="Holiday Shopping" border="0"></a>
-																			<br>
-																			<a href="http://www.plaza101.com/plaza/store/shop3564/"><img src="http://www.plaza101.com/Plaza/images/GiftBox1.gif" alt="Bift Box" border="0"></a>
-																			</center>
-																			<img src="/images/clear.gif" width="1" height="4" border="0"><br>
-																			<li class="GiftRed"><a href="http://www.plaza101.com/plaza/store/shop5932/" class="GiftRed">Gifts for Kids</a></li>
-																			<li class="GiftGreen"><a href="http://www.plaza101.com/plaza/store/shop5934/" class="GiftGreen">Gift for Him</a></li>
-																			<li class="GiftRed"><a href="http://www.plaza101.com/plaza/store/shop5933/" class="GiftRed">Gifts for Her</a></li>
-																			<li class="GiftGreen"><a href="http://www.plaza101.com/plaza/store/shop5939/" class="GiftGreen">Gifts by Price</a></li>
-																			<li class="GiftRed"><a href="http://www.plaza101.com/plaza/store/shop5781/Online/Movies/" class="GiftRed">Movies</a></li>
-																			<li class="GiftGreen"><a href="http://www.plaza101.com/plaza/store/shop3503/Online/Music/" class="GiftGreen">Music</a></li>
-																			<li class="GiftRed"><a href="http://www.plaza101.com/plaza/store/shop3504/Online/Books/" class="GiftRed">Books</a></li>
-																			<li class="GiftGreen"><a href="http://www.plaza101.com/plaza/store/shop4035/Online/Flowers_Gifts/" class="GiftGreen">Flowers</a></li>
-																			<br><img src="/images/clear.gif" width="1" height="4" border="0"><br>
-																			<center><a href="http://www.plaza101.com/plaza/store/shop3564/" class="Small">Please Visit<br>Our Sponsors</a></center>
-																		</td>
-																	</tr>
-																</tbody></table>
-															</td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
 							  <tr>
 									<td>
+										<a class="Slink" href="/">Home</a><br>
+										<a class="Slink" href="/net/articles/">Dev Articles</a><br>
+										<a class="Slink" href="/net/store/shop155/Books_Software/Books/">Dev Books</a><br>
+										<a class="Slink" href="/net/store/shop697/Books_Software/Software/">Dev Software</a><br>
+										<a class="Slink" href="/net/forum/">Dev Forum</a><br>
+										<a class="Slink" href="/net/samplechapters/">Sample Chapters</a><br>
+										<a class="Slink" href="/Net/Search/ListingAddNew.asp">Add a Listing</a><br>
+										<a class="Slink" href="/Net/Chat/">.Net Chat</a><br>
+										<a class="Slink" href="/net/directory.asp">Directory Feed</a><br>
+										<a class="Slink" href="/Net/LinkToUs.asp">Link to US</a><br>
+										<a class="Slink" href="/Net/WriteForUs.asp">Write For Us</a><br>
+										<a class="Slink" href="/Net/Advertising.asp">Advertising</a><br>
 										
-	<center>
-	<br><img src="/Images/Clear.gif" border="0" width="1" height="1"><br>
-	<table width="125" bgcolor="eeeeee" border="0" cellpadding="4" cellspacing="0">
-		<tbody><tr>
-			<td bgcolor="FF3C3C" align="Center">
-				<a href="/Net/Forum/Default.asp">
-				<font color="FFFFFF" face="Arial" size="2"><b>
-				<b>Latest Posts In<br>Dev Forums</b>
-				</b></font></a><font color="FFFFFF" face="Arial" size="2"><b>
-			</b></font></td>
-		</tr>
-		
-		
-		<tr bgcolor="EEEEEE">
-			<td><a href="/Net/Forum/topic.asp?TOPIC_ID=101"><font face="arial" size="1">can't see asp project in  the browser</font></a></td>
-		</tr>
-		
-		<tr bgcolor="FFFFFF">
-			<td><a href="/Net/Forum/topic.asp?TOPIC_ID=100"><font face="arial" size="1">Free Developer Newsletter</font></a></td>
-		</tr>
-		
-		<tr bgcolor="EEEEEE">
-			<td><a href="/Net/Forum/topic.asp?TOPIC_ID=99"><font face="arial" size="1">dynamic creation of controls</font></a></td>
-		</tr>
-		
-		<tr bgcolor="FFFFFF">
-			<td><a href="/Net/Forum/topic.asp?TOPIC_ID=98"><font face="arial" size="1">need an access to Server running SQL...</font></a></td>
-		</tr>
-		
-		<tr bgcolor="EEEEEE">
-			<td><a href="/Net/Forum/topic.asp?TOPIC_ID=95"><font face="arial" size="1">Web Mail</font></a></td>
-		</tr>
-		
-		<tr bgcolor="FFFFFF">
-			<td><a href="/Net/Forum/topic.asp?TOPIC_ID=97"><font face="arial" size="1">Disable  Submitting the Form with Ente..</font></a></td>
-		</tr>
-		
-		<tr bgcolor="EEEEEE">
-			<td><a href="/Net/Forum/topic.asp?TOPIC_ID=96"><font face="arial" size="1">How to deal with graphics class</font></a></td>
-		</tr>
-		
-	</tbody></table>
-	</center>
-	
+										<a class="Slink" href="/net/members/memberlogin.asp?targeturl=/net/privacy.asp">Add to Favorites</a><br>
+										
+										<a class="Slink" href="/Net/Contact.asp">Contact</a>
+									</td> 
+								</tr>
+								<tr>
+									<td nowrap="" align="center"><img src="/images/clear.gif" width="1" height="6"><br><a href="/net/ad_redirect.asp?ad_id=465" target="_New"><img src="/images/logo/Discountasp14.gif" border="0" alt="ASP.NET Hosting with SQL Reporting Services!!"></a>
+</td>
+								</tr>								
+								<tr>
+									<td bgcolor="#FFFFBB" align="center">
+										<b><a href="/net/search/">Search Directory</a></b> 
 									</td>
 								</tr>
-								
-								<tr><td>&nbsp;</td></tr>
+								<tr>
+									<td>
+										<a class="Slink" href="/net/search/display/category65694.html">NET Namespaces</a><br>
+										<a class="Slink" href="/net/search/display/category87.html">Applications</a><br>
+										<a class="Slink" href="/net/search/display/category215.html">Articles &amp; Samples</a><br>
+										<a class="Slink" href="/net/search/display/category212.html">Assembly &amp; Controls</a><br>
+										<a class="Slink" href="/net/search/display/category246.html">Community</a><br>
+										<a class="Slink" href="/net/search/display/category187.html">Developer Sites</a><br>
+										<a class="Slink" href="/net/search/display/category379.html">Downloads</a><br>
+										<a class="Slink" href="/net/search/display/category263.html">Hosting Services</a><br>
+										<a class="Slink" href="/net/search/display/category163.html">Introduction</a><br>
+										<a class="Slink" href="/net/search/display/category296.html">Knowledge Base</a><br>									
+										<a class="Slink" href="/net/search/display/category373.html">Sample Chapters</a><br>									
+										<a class="Slink" href="/net/search/display/category945.html">WebCasts</a>										
+									</td>
+								</tr>						  
+							  <tr>
+									<td bgcolor="#FFFFBB" align="center">
+										<b><a href="/net/search/display/category272.html">ASP.NET</a></b> 
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a class="Slink" href="/net/search/display/category224.html">Applications</a><br>
+										<a class="Slink" href="/net/search/display/category30.html">Articles &amp; Samples</a><br>
+										<a class="Slink" href="/net/store/shop221/Books_Software/Books/Net_Books/ASPNet/">ASP.Net Books</a><br>
+										<a class="Slink" href="/net/search/display/category151.html">ASP.Net Sites</a><br>
+										<a class="Slink" href="/net/search/display/category212.html">Assembly &amp; Controls</a><br>
+										<a class="Slink" href="/net/search/display/category114.html">Downloads</a><br>
+										<a class="Slink" href="/net/search/display/category867.html">Errors &amp; Bugs</a><br>
+										<a class="Slink" href="/net/search/display/category291.html">Introduction</a><br>
+										<a class="Slink" href="/net/search/display/category177.html">Knowledge Base</a><br>
+										<a class="Slink" href="/net/search/display/category410.html">Sample Chapters</a><br>									
+										<a class="Slink" href="/net/search/display/category950.html">WebCasts</a>
+									</td>
+								</tr>
+								<tr>
+									<td bgcolor="#FFFFBB" align="center">
+										<b><a href="/net/search/display/category253.html">VB.Net</a></b> 
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a class="Slink" href="/net/search/display/category270.html">Articles &amp; Samples</a><br>
+										<a class="Slink" href="/net/store/shop230/Books_Software/Books/Net_Books/Visual_BasicNet/">VB.Net Books</a><br>
+										<a class="Slink" href="/net/search/display/category380.html">Downloads</a><br>
+										<a class="Slink" href="/net/search/display/category920.html">Errors, Bugs &amp; Fixes</a><br>
+										<a class="Slink" href="/net/search/display/category292.html">Introduction</a><br>
+										<a class="Slink" href="/net/search/display/category635.html">Knowledge Base</a><br>
+										<a class="Slink" href="/net/search/display/category928.html">Sample Chapters</a><br>
+										<a class="Slink" href="/net/search/display/category1001.html">WebCasts</a>
+									</td>
+								</tr>
+								<tr>
+									<td bgcolor="#FFFFBB" align="center">
+										<b><a href="/net/search/display/category248.html">C-Sharp</a></b> 
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a class="Slink" href="/net/search/display/category526.html">Applications</a><br>
+										<a class="Slink" href="/net/search/display/category322.html">Articles &amp; Samples</a><br>
+										<a class="Slink" href="/net/store/shop299/Books_Software/Books/Net_Books/Visual_C/">C-Sharp Books</a><br>
+										<a class="Slink" href="/net/search/display/category162.html">C-Sharp Sites</a><br>
+										<a class="Slink" href="/net/search/display/category922.html">Errors, Bugs &amp; Fixes</a><br>
+										<a class="Slink" href="/net/search/display/category293.html">Introduction</a><br>
+										<a class="Slink" href="/net/search/display/category646.html">Knowledge Base</a><br>
+										<a class="Slink" href="/net/search/display/category411.html">Sample Chapters</a><br>
+										<a class="Slink" href="/net/search/display/category1003.html">WebCasts</a>
+									</td>
+								</tr>
+								<tr>
+									<td bgcolor="#FFFFBB" align="center">
+										<b><a href="/net/search/display/category147.html">SQL Server</a></b> 
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a class="Slink" href="/net/search/display/category492.html">Applications</a><br>
+										<a class="Slink" href="/net/search/display/category463.html">Articles &amp; Samples</a><br>
+										<a class="Slink" href="/net/store/shop117/Books_Software/Books/By_Product_Name/SQL_Server/">SQL Server Books</a><br>
+										<a class="Slink" href="/net/search/display/category1179.html">SQL Sites</a><br>
+										<a class="Slink" href="/net/search/display/category404.html">Downloads</a><br>
+										<a class="Slink" href="/net/search/display/category523.html">Errors, Bugs &amp; Fixes</a><br>
+										<a class="Slink" href="/net/search/display/category486.html">Introduction</a><br>
+										<a class="Slink" href="/net/search/display/category522.html">Knowledge Base</a><br>
+										<a class="Slink" href="/net/search/display/category537.html">Sample Chapters</a><br>
+										<a class="Slink" href="/net/store/shop712/Books_Software/Software/By_Product_Name/SQL_Server/">SQL Software</a><br>
+										<a class="Slink" href="/net/search/display/category948.html">WebCasts</a>
+										<br>
+									</td>
+								</tr>
+								<tr>
+									<td bgcolor="#FFFFBB" align="center">&nbsp;</td>
+								</tr>
+							  
+							  
 								<tr>
 									<td align="center" valign="top">
 										<br><img src="/Images/Clear.gif" border="0" width="1" height="2"><br>
-										<img src="/Images/clear.gif" border="0" width="125" height="1"><br><a href="http://www.plaza101.com/plaza/"><img src="http://www.plaza101.com/plaza/images/PlazaLogoComputer.gif" border="0" width="100" height="30"></a>
+										<img src="/Images/clear.gif" border="0" width="125" height="1"><br><a href="http://www.booksmags.com"><img src="/images/logo/booksmagslogo.gif" border="0" width="100" height="30"></a>
+							     </td>
+							  </tr>
+							  <tr>
+									<td align="center" valign="top">
+										<img src="/Images/clear.gif" border="0" width="125" height="1"><br>
+										<a href="http://www.plaza101.com"><img src="http://www.plaza101.com/images/PlazaLogo.gif" border="0" width="100" title="Online Shopping Store" height="30"></a>
 							     </td>
 							  </tr>
 							  <tr>
@@ -235,30 +243,29 @@ function ClearThisField(){
 							  
 			<tr>
 					<td align="center">
-						<a href="/Net/ad_redirect.asp?ad_id=58"><img src="/images/devdex_logo.gif" width="100" height="30" border="0" alt="Click here"></a>
+						
 					</td>
 				</tr>
 			
 			<tr>
 					<td align="center">
-						<a href="/Net/ad_redirect.asp?ad_id=235"><img src="/images/logo/dotnetsolutions.gif" width="100" height="30" border="0" alt=""></a>
+						<a href="/net/ad_redirect.asp?ad_id=238"><img src="\images\logo\webwizguide.gif" width="100" height="30" border="0" alt="Click Here"></a>
 					</td>
 				</tr>
 			
 			<tr>
 					<td align="center">
-						<a href="/Net/ad_redirect.asp?ad_id=238"><img src="\images\logo\webwizguide.gif" width="100" height="30" border="0" alt="Click Here"></a>
+						<a href="/net/ad_redirect.asp?ad_id=248"><img src="/images/logo/deep100x30.gif" width="100" height="30" border="0" alt="Click here"></a>
 					</td>
 				</tr>
 			
 			<tr>
 					<td align="center">
-						<a href="/Net/ad_redirect.asp?ad_id=246"><img src="/images/logo/csf100x30.gif" width="100" height="30" border="0" alt="Click here"></a>
+						<a href="/net/ad_redirect.asp?ad_id=275"><img src="http://www.dmbcllc.com/images/DMBCLogo.gif" width="100" height="30" border="0" alt="Click here"></a>
 					</td>
 				</tr>
 			
-								
-							  <tr><td align="center"><a class="Slink" href="/Net/Partners.asp"><b>More Partners &gt;&gt;</b></a><b><br><br></b></td></tr>
+								<tr><td align="center"><a class="Slink" href="/Net/Partners.asp"><b>More Partners &gt;&gt;</b></a><b><br><br></b></td></tr>
 							  
 							</tbody></table>
 						</td>
@@ -267,14 +274,9 @@ function ClearThisField(){
 							<center>
 							<table border="0" height="63" width="100%" cellspacing="0" cellpadding="0" id="Table1">
 								<tbody><tr>
-									<td align="center"><img src="/Images/Clear.gif" width="490" height="3" border="0"><br><iframe src="http://ad.doubleclick.net/adi/N763.devASP.com/B1088626.3;sz=468x60;ord=[timestamp]?" width="470" height="62" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N763.devASP.com/B1088626.3;abr=!ie;sz=468x60;ord=[timestamp]?">
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://ad.doubleclick.net/jump/N763.devASP.com/B1088626.3;abr=!ie4;abr=!ie5;sz=468x60;ord=[timestamp]?">
-<IMG SRC="http://ad.doubleclick.net/ad/N763.devASP.com/B1088626.3;abr=!ie4;abr=!ie5;sz=468x60;ord=[timestamp]?" BORDER=0 WIDTH=468 HEIGHT=60 ALT="Alt Text">Alt Text</A>
-</NOSCRIPT>
-</iframe><br><img src="/Images/Clear.gif" width="490" height="4" border="0"></td>
+									<td align="center">
+										<img src="/Images/clear.gif" width="1" height="2" border="0"><br>
+										<img src="/Images/Clear.gif" width="490" height="2" border="0"><br><a href="http://www.devasp.com/ad_redirect.asp?ad_id=447"><img src="http://www.ezproductsearch.com/images/banner1.gif" border="0"></a><br><img src="/Images/Clear.gif" width="490" height="2" border="0"><br></td>
 								</tr>
 								<tr bgcolor="cecece">
 									<td align="center"><img src="/Images/Clear.gif" width="1" height="2" border="0"></td>
@@ -286,8 +288,6 @@ function ClearThisField(){
 									<td align="left" valign="Top">
 									<!-- Main page  Start here -->
 									
-
-
 <h2>Privacy Policy</h2>
 <p>
 DevASP.Net is strongly committed to protecting the privacy of its user community.
@@ -330,171 +330,148 @@ not adhered to the guidelines set forth above, please <a href="/net/contact.asp"
 <br>
 Thank you.
 
-								<!-- Main page  ends here -->
-								</p></td>
-							</tr>
-							<tr>
-								<td height="100%">
-									<center>
-									<table border="0" height="63" width="100%" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td align="center">
-												<br>
-												<img src="/Images/Clear.gif" width="500" height="10" border="0"><br><iframe src="http://ad.doubleclick.net/adi/N763.devASP.com/B1088626.3;sz=468x60;ord=[timestamp]?" width="470" height="62" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N763.devASP.com/B1088626.3;abr=!ie;sz=468x60;ord=[timestamp]?">
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://ad.doubleclick.net/jump/N763.devASP.com/B1088626.3;abr=!ie4;abr=!ie5;sz=468x60;ord=[timestamp]?">
-<IMG SRC="http://ad.doubleclick.net/ad/N763.devASP.com/B1088626.3;abr=!ie4;abr=!ie5;sz=468x60;ord=[timestamp]?" BORDER=0 WIDTH=468 HEIGHT=60 ALT="Alt Text">Alt Text</A>
-</NOSCRIPT>
-</iframe><br><img src="/Images/Clear.gif" width="1" height="10" border="0"><br>
-											</td>
-										</tr>
-									</tbody></table>
-									<table border="0">
-										<tbody><tr>
-											<td align="center" height="25">
-												<font size="2" face="arial, verdana">			
-												<a href="/Net/">Home</a> -
-												<a href="http://www.devasp.com/">DevASP.com</a> -
-												<a href="/Net/Search/ListingAddNew.asp">Add a Listing</a> -
-												<a href="/Net/advertising.asp">Advertising</a> -
-												<a href="/Net/disclaimer.asp">Disclaimer</a> -
-												<a href="/Net/privacy.asp">Privacy</a>
-												</font>
-												<br>
-										    <font face="Arial" size="1">Copyright © 2002 DevASP.net</font>
-										  </td>
-										</tr>
-									</tbody></table>
-								</center></td>
-							</tr>
-						</tbody></table>
-					</td>
-					
-					<td rowspan="2" align="Center" width="130" valign="top">
-						<table align="Center" border="0" width="130" cellspacing="0" cellpadding="3">
-							<tbody><tr>
-								<td align="center">
-									<img src="/Images/Clear.gif" width="1" height="5"><br>
-									<table width="125" cellspacing="1" cellpadding="2" bgcolor="0679F9" border="0">
-										<tbody><tr>
-											<td align="middle" bgcolor="0679F9"><font face="Verdana" color="FFFFFF" size="2"><b>News Letter</b></font></td>
-										</tr>
-										<tr><form method="get" action="/Net/Newsletter.asp" id="form1" name="form1"></form>
-											<td valign="top" align="center" bgcolor="#efefef">
-												<input type="text" name="email_address" size="15" value="  Email Address  ">
-												<br>
-												<input type="submit" name="Method" value="Subscribe">
-												<br>
-												<a href="/Net/nledit.asp">More info..</a>
-												
-											</td>
-										</tr>
-									</tbody></table>
-									<br><center><img src="/images/clear.gif" width="8" height="1"><iframe src="http://ad.doubleclick.net/adi/N763.devASP.com/B1088626.4;sz=120x600;ord=[timestamp]?" width="122" height="602" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N763.devASP.com/B1088626.4;abr=!ie;sz=120x600;ord=[timestamp]?">
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://ad.doubleclick.net/jump/N763.devASP.com/B1088626.4;abr=!ie4;abr=!ie5;sz=120x600;ord=[timestamp]?">
-<IMG SRC="http://ad.doubleclick.net/ad/N763.devASP.com/B1088626.4;abr=!ie4;abr=!ie5;sz=120x600;ord=[timestamp]?" BORDER=0 WIDTH=120 HEIGHT=600 ALT="Alt Text">Alt Text</A>
-</NOSCRIPT>
-</iframe><br>
-</center><img src="/images/clear.gif" width="8" height="1">
-									<p>
-									
-									</p>
-									
-<table width="125" cellspacing="1" cellpadding="1" bgcolor="0679F9" border="0">
-	<tbody><tr>
-		<td align="middle" bgcolor="0679F9"><font face="Verdana" color="FFFFFF" size="2"><b>New Members</b></font></td>
-	</tr>
-	<tr>
-		<td valign="top" bgcolor="#cecece">
-			<table width="124" border="0" cellspacing="0" cellpadding="2">
+<!-- Main page  ends here -->
+</p></td>
+</tr>
+<tr>
+	<td height="100%">
+		<center>
+			<table border="0" height="63" width="100%" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td align="left" bgcolor="#ffffff">
-						<center>
-						<font face="Verdana, Arial, Helvetica" size="1">Please welcome our<br>newest members..</font>
-						</center>
+					<td align="center">
+						<a href="http://www.devasp.com/ad_redirect.asp?ad_id=447"><img src="http://www.ezproductsearch.com/images/banner1.gif" border="0"></a>
 					</td>
 				</tr>
-				
-					<tr bgcolor="EEEEEE">
-						<td nowrap="">
-							
-							<a href="/Net/forum/pop_profile.asp?mode=display&amp;id=195">yaniv hanya</a></td>
-					</tr>
-					
-					<tr bgcolor="FFFFFF">
-						<td nowrap="">
-							
-							<a href="/Net/forum/pop_profile.asp?mode=display&amp;id=194">gmitchel</a></td>
-					</tr>
-					
-					<tr bgcolor="EEEEEE">
-						<td nowrap="">
-							
-							<a href="/Net/forum/pop_profile.asp?mode=display&amp;id=193">jlp</a></td>
-					</tr>
-					
-					<tr bgcolor="FFFFFF">
-						<td nowrap="">
-							
-							<a href="/Net/forum/pop_profile.asp?mode=display&amp;id=192">xandy</a></td>
-					</tr>
-					
-					<tr bgcolor="EEEEEE">
-						<td nowrap="">
-							
-							<a href="/Net/forum/pop_profile.asp?mode=display&amp;id=191">come2study</a></td>
-					</tr>
-					
-					<tr bgcolor="FFFFFF">
-						<td nowrap="">
-							
-							<a href="/Net/forum/pop_profile.asp?mode=display&amp;id=190">Elminster</a></td>
-					</tr>
-					
-					<tr bgcolor="EEEEEE">
-						<td nowrap="">
-							
-							<a href="/Net/forum/pop_profile.asp?mode=display&amp;id=189">nguyenxuanquan80</a></td>
-					</tr>
-					
-					<tr bgcolor="FFFFFF">
-						<td nowrap="">
-							
-							<a href="/Net/forum/pop_profile.asp?mode=display&amp;id=188">PI</a></td>
-					</tr>
-					
 			</tbody></table>
-		</td>
-	</tr>
+			<table border="0">
+				<tbody><tr>
+					<td align="center" height="25">
+						<a href="/net/disclaimer.asp"><font size="1">Disclaimer</font></a> -
+						<a href="/net/privacy.asp"><font size="1">Privacy</font></a> -
+						<a href="http://www.plaza101.com/plaza/store/shop3504/Online/Books/"><font size="1">
+								Books</font></a> -
+						<a href="http://www.electronicsplaza101.com/electronics/shop21435/Online/Computers/"><font size="1">
+								Computers</font></a> -
+						<a href="http://www.softwarehouse101.com"><font size="1">Software</font></a> -
+						<a href="http://www.pcandvideogames.com"><font size="1">Games</font></a> -
+						<a href="http://www.ezproductsearch.com"><font size="1">Product Search</font></a> -
+						<a href="http://www.easyshopping123.com"><font size="1">Shopping Mall</font></a>
+						<br>
+						<font face="Arial" size="1">Copyright © 2004 DevASP.net</font>
+					</td>
+				</tr>
+			</tbody></table>
+	</center></td>
+</tr>
 </tbody></table>
+</td>
 
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-					
-				</tr>
-				<tr>
-					<td valign="bottom" bgcolor="#0679F9" height="20" align="left"><img src="/Net/Images/corner3.gif" width="20" height="20" border="0"></td>
-					<td>&nbsp;</td>
-				</tr>
-			</tbody></table>
-		</td>
-  </tr>
+<td rowspan="2" align="Center" width="130" valign="top">
+	<table align="Center" border="0" width="130" cellspacing="0" cellpadding="3">
+		<tbody><tr>
+			<td align="center">
+				<script language="JavaScript">
+									<!--
+									google_ad_client = 'pub-8159070411425418';
+									
+									google_alternate_ad_url = "http://www.devasp.net/aa/sky.aspx";			
+											
+									google_ad_width = 120;
+									google_ad_height = 600;
+									google_ad_format = '120x600_as';
+									google_ad_channel ="4915219479";
+									// -->
+				</script>
+				<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+				<img src="/Images/Clear.gif" width="1" height="1" border="0">
+				<table border="1" width="127" bordercolor="Blue" cellspacing="0" cellpadding="2" id="Table1">
+					<tbody><tr>
+						<td bgcolor="Blue" align="center">
+							<b><font color="#FFFFFF" face="arial" size="2">Hot Categories</font></b>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<img src="/Images/Clear.gif" width="1" height="5" border="0"><br>
+							<table border="0" cellpadding="3" cellspacing="0" id="Table2">
+								<tbody><tr>
+									<td nowrap="">
+										<a href="http://www.booksmags.com/books/shop19638/Books/NET_Books/">.Net Books</a>
+										<br><a href="http://www.booksmags.com/books/shop2155/Books/Certifications/">Certifications</a>
+										<br><a href="http://www.plaza101.com/plaza/store/shop3519/Online/Computers_Internet/">Computer Books</a>
+										<br><a href="http://www.booksmags.com/books/shop1421/Books/Databases">Database Books</a>
+										<br><a href="http://www.booksmags.com/books/shop1545/Books/Exams/">Exams Books</a>
+										<br><a href="http://www.booksmags.com/books/shop1425/Books/Microsoft/">Microsoft Books</a>
+										<br><a href="http://www.softwarehouse101.com/store/shop740/Online/Networking/">Networking</a>
+										<br><a href="http://www.plaza101.com/plaza/store/shop3507/Online/Software/">Software</a>
+										<br><a href="http://www.plaza101.com/plaza/store/shop3502/Online/Computers/">Computers</a>
+										<br><a href="http://www.pcandvideogames.com">Video Games</a>
+										<br><a href="http://www.electronicsplaza101.com/electronics/shop73955/Online/Laptops_Notebooks/">Notebooks</a>
+										<br><a href="http://www.booksmags.com/books/shop2652/Books/Web_Programming/">Web Programming</a>
+									</td>
+								</tr>
+							</tbody></table>
+							<img src="/Images/Clear.gif" width="1" height="5" border="0"><br>
+						</td>
+					</tr>
+				</tbody></table>
+				<p>
+		<table border="1" bordercolor="0679F9" cellspacing="0" cellpadding="2" width="125" id="Table5">
+			<tbody><tr>
+				<td bgcolor="0679F9" align="center">
+					<b><font face="Verdana" size="2" color="FFFFFF">Featured Item</font>
+				</b></td>
+			</tr>
+		
+		<tr>
+			<td wrap=""><a class="Prod" href="http://www.plaza101.com/plaza/store/shop3507/pdB000067FDW/Online/Software/">World of Warcraft</a></td>
+		</tr>
+		
+		<tr>
+			<td wrap=""><a class="Prod" href="http://www.cameraandphotostore.com/shop/dept2232/itemB0002A9SKQ/Online/Printers-Scanners-Camera/">Epson Stylus C86 Inkjet Printer</a></td>
+		</tr>
+		
+		<tr>
+			<td wrap=""><a class="Prod" href="http://www.electronicsplaza101.com/electronics/shop21689/pdB0002UDTQK/Online/Camcorders-Camera-Photo/">Sony DCR-DVD301 DVD Handycam Camcorder w/10x Optical Zoom</a></td>
+		</tr>
+		
+		<tr>
+			<td wrap=""><a class="Prod" href="http://www.easyshopping123.com/shop/dept89287/itemB00004SSS0/Online/Printers-Electronics/">HP No. 78 Tri-Color Inkjet Print Cartridge (C6578DN)</a></td>
+		</tr>
+		
+		<tr>
+			<td wrap=""><a class="Prod" href="http://www.electronicsplaza101.com/electronics/shop78672/pdB0000DC64V/Online/Accessories-Projectors-Camera-Photo/">Sony LMP-E180 UHP Replacement Lamp (VPL-ES1 Projector)</a></td>
+		</tr>
+		
+		<tr>
+			<td wrap=""><a class="Prod" href="http://www.plaza101.com/plaza/store/shop3580/pdB00008O0P3/Online/Memory-Computer-Add-Ons/">FujiFilm 256 MB xD Picture Card</a></td>
+		</tr>
+		
+		<tr>
+			<td wrap=""><a class="Prod" href="http://www.pcandvideogames.com/store/shop733/pdB00006I02Z/Online/PC-Games/">Half-Life 2</a></td>
+		</tr>
+		
+		<tr>
+			<td wrap=""><a class="Prod" href="http://www.easyshopping123.com/shop/dept4341/itemB0002YT0J6/Online/Office-Electronics/">HP Photosmart 2710 All-in-One Printer</a></td>
+		</tr>
+		</tbody></table></p>
+
+			</td>
+		</tr>
+	</tbody></table>
+</td>
+
+</tr>
+<tr>
+	<td valign="bottom" bgcolor="#0679F9" height="20" align="left"><img src="/Net/Images/corner3.gif" width="20" height="20" border="0"></td>
+	<td>&nbsp;</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
 </tbody></table>
 <br>
 
 
-<script language="JavaScript">
-<!--
-var url = "/Net/NLWindow.asp";
-var options = "toolbar=no,status=no,menubar=no,scrollbars=No,resizable=No,top=100,left=100,width=340,height=200";
-NewsLetterWindow=window.open(url,"NewsLetterWindow", options);
-//-->
-</script>
 </center></body></html>
