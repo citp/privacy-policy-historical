@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marimari.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609163922id_/http%3A//www.marimari.com/content/marimari/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marimari.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205074529id_/http%3A//www.marimari.com/content/marimari/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
