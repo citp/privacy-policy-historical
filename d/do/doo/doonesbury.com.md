@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doonesbury.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601144006id_/http%3A//www.doonesbury.ucomics.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doonesbury.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207092222id_/http%3A//www.doonesbury.ucomics.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Doonesbury Electronic Town Hall - Privacy Policy
 
