@@ -1,0 +1,28 @@
+> *The following text is extracted and transformed from the idexx.com privacy policy that was archived on 2000-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000226113444id_/http%3A//www.idexx.com/legal/privacy.asp) for the most accurate reproduction.*
+
+# Privacy Statement : IDEXX.com
+
+| 
+
+> **IDEXX Laboratories, Inc. Privacy Policy Statement**
+> 
+> This privacy policy applies to information derived from a visitor's use of this Internet site (the "Site"). This Site is administered and maintained by IDEXX Laboratories, Inc. ("IDEXX"), located at One IDEXX Drive, Westbrook, Maine 04092, United States of America. Use of this Site is governed by the Terms of Use and indicates acceptance of such terms. 
+> 
+> You may reach IDEXX in the following ways:
+> 
+>   * by email at [Webmaster@idexx.com](mailto:Webmaster@idexx.com). 
+>   * by telephone (800) 551-0998 or (207) 856-0300. 
+>   * by facsimile at (207) 856-0346. 
+>   * by regular mail at One IDEXX Drive, Westbrook, Maine 04092, USA. 
+> 
+IDEXX provides this statement to make visitors aware of this privacy policy. IDEXX is committed to respecting the privacy of visitors to the Site and recognizes the need for reasonable control and security of personally identifiable information. Personally identifiable information is information that is associated with your name and identity. IDEXX takes reasonable steps to see that this privacy policy is followed within the company. 
+> 
+> This Site recognizes the identity of a visitor's home server, but does not recognize a visitor's individually identifiable e-mail address. Therefore, a visitor's individually identifiable e-mail address or other personally identifiable information will not be captured or stored for future use, unless a visitor submits such information to IDEXX by completing the registration form or posting a message to IDEXX. To help IDEXX improve the experience of using this Site, IDEXX may use the identity of a visitor's home server to track a visitor's use of this Site. 
+> 
+> Information collected by IDEXX or submitted upon registration or during a visitor's use of this Site is used by IDEXX solely for internal purposes including, without limitation, marketing, promotional, editorial and feedback purposes. IDEXX does not sell e-mail addresses or other personally identifiable information to other companies. If a visitor objects to the use of such information by IDEXX, the visitor may request IDEXX to stop such use by notifying the Webmaster at [Webmaster@idexx.com](mailto:Webmaster@idexx.com) or at an address or phone number specified above. 
+> 
+> If a visitor supplies IDEXX with a mailing address or telephone number during use of the Site, the visitor may receive periodic mailings or telephone calls, whichever the case may be, with information on new products and services or upcoming events. If a visitor does not wish to receive such mailings or telephone calls, a visitor should notify IDEXX by notifying the Webmaster at [Webmaster@idexx.com](mailto:Webmaster@idexx.com) or at an address or phone number specified above. 
+> 
+> IDEXX may revise this privacy policy at any time by updating this posting without notice. Visitors should view this page from time to time to review the then-current policy. 
+> 
+> If you have any questions or comments regarding this privacy policy, please send a message to the Webmaster at [Webmaster@idexx.com](mailto:Webmaster@idexx.com) or at an address or phone number specified above. 
