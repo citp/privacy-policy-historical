@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004054227id_/http%3A//www.acecashexpress.com/general/privacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603223123id_/http%3A//www.acecashexpress.com/general/privacynotice.html) for the most accurate reproduction.*
 
 # ACE Cash Express, Inc. General Information
 
