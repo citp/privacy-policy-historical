@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepdiscounts.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607045538id_/http%3A//deepdiscounts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdiscounts.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212044933id_/http%3A//deepdiscounts.com/privacy) for the most accurate reproduction.*
 
 # Shop@discounts.com
 
