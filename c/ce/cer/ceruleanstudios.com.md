@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604123812id_/http%3A//ceruleanstudios.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212090805id_/http%3A//ceruleanstudios.com/privacy.html) for the most accurate reproduction.*
 
-# Trillian - the ultimate chat program
+# Trillian > Privacy Policy
+
+This is the web site of **Cerulean Studios**.  
+We can be reached via e-mail at [comments@ceruleanstudios.com](mailto:comments@ceruleanstudios.com)  
+
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
