@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the midwestairlines.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810202052id_/http%3A//www2.midwestexpress.com/privacySec/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestairlines.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603100028id_/http%3A//www.midwestairlines.com/privacySec/default.asp) for the most accurate reproduction.*
 
 # Midwest Express Airlines - Services
 
 |   
 **Your Privacy**  
-As a customer of Midwest Express Airlines’ Web site, we recognize the importance of protecting information. We will ensure that our relationship is as exclusive as you want it to be. 
+As a customer of Midwest Airlines Web site, we recognize the importance of protecting information. We will ensure that our relationship is as exclusive as you want it to be. 
 
-The following are guidelines we use for protecting the information you provide during a visit to midwestexpress.com. 
+The following are guidelines we use for protecting the information you provide during a visit to midwestairlines.com.
 
-We collect personal information online to provide you with a personalized web experience. Using the information provided by you, we can deliver you pertinent information and specials each time you visit www.midwestexpress.com.
+We collect personal information online to provide you with a personalized web experience. Using the information provided by you, we can deliver you pertinent information and specials each time you visit midwestairlines.com.
 
 Throughout different sections of our Web site you will find different links to provide you greater service and useful resources. These links will lead to sites operated by different privacy practices. We want to caution you that it is your responsibility to access the other sites’ privacy policies, for we have no control over the information that is submitted to these other sites.
 
 **Information Collection and Use**  
-Midwest Express Airlines is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Midwest Express Airlines collects information from our users at several different points on our Web site. 
+Midwest Airlines is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Midwest Airlines collects information from our users at several different points on our Web site. 
 
 **Profile**  
-While a profile is not required to purchase a flight on our Web site, having a profile does provide you with additional benefits. With a profile, you have the option of holding a reservation for up to 72 hours. You can also view your held or purchased itinerary at midwestexpress.com. A profile stores your personal preferences, which speeds up the booking process. In addition, you can purchase Best Care Web Fare specials. Again, these benefits are only available if you have a profile.
+While a profile is not required to purchase a flight on our Web site, having a profile does provide you with additional benefits. With a profile, you have the option of holding a reservation for up to 72 hours. You can also view your held or purchased itinerary at midwestairlines.com. A profile stores your personal preferences, which speeds up the booking process. In addition, you can purchase Best Care Web Fare specials. Again, these benefits are only available if you have a profile.
 
 While building a profile, users are required to give their contact information, name, e-mail, user ID, password and security question. This information is used to speed up and simplify the online reservation process. It is optional for the user to provide information on preferences, but encouraged so we can provide a more personalized experience on our site.
 
 We may also retain your flight information and ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, experience with our products and contact preferences.
 
 **E-mail:**  
-In order to sign up for e-mail notification, we will request your name and e-mail address in order to subscribe you to Fare Sale Information, Midwest Miles account information, Best Care Web Fares, Midwest Express What’s New and Other Promotions. With your permission we will send you information about these services or offers that we feel may be of interest to you according to what you have told us about your preferences.  
+In order to sign up for e-mail notification, we will request your name and e-mail address in order to subscribe you to Fare Sale Information, Midwest Miles account information, Best Care Web Fares, Midwest Airlines What's New and Other Promotions. With your permission we will send you information about these services or offers that we feel may be of interest to you according to what you have told us about your preferences.  
 > Such addresses are not used for any other purpose and are not shared with outside parties. 
 
 **Forward-to-a-Friend**  
@@ -40,7 +40,7 @@ A cookie is a piece of data stored on the user’s hard drive containing informa
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
 
 **Links**  
-This Web site contains links to other sites. Please be aware that Midwest Express Airlines is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This Web site contains links to other sites. Please be aware that Midwest Airlines is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **How can I access or correct my information**  
-You can access your personal profile to make changes by clicking at any time the [“Manage Personal Profile”](https://web.archive.org/web/20030810202052id_/http%3A//www2.midwestexpress.com/personalize/default.asp) button in the upper right hand corner of the site.
+You can access your personal profile to make changes by clicking at any time the [“Manage Personal Profile”](https://web.archive.org/web/20040603100028id_/http%3A//www.midwestairlines.com/personalize/default.asp) button in the upper right hand corner of the site.
