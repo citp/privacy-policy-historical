@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605162419id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203030414id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Time Out Dubai { Privacy Policy }
 
