@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whirlpool.net.au privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213063600id_/http%3A//whirlpool.net.au/article.cfm%3Fid%3D49%26show%3Dextend) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whirlpool.net.au privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405214824id_/http%3A//www.whirlpool.net.au/article.cfm%3Fid%3D49%26show%3Dextend) for the most accurate reproduction.*
 
 # Whirlpool - Broadband News Australia
 
@@ -53,4 +53,4 @@ This privacy policy was erected in response to a particularly nasty commentary a
 
  **It was even claimed** that 'evidence' was discovered of this, saying _"To give your an example of what I have found out about Whirlpool..."_ , as if it were actually true and not someone's creative imagination.
 
- **The replies shown below** indicate the public response to this issue, which has been cleared up, thanks to Dean Wilson who runs the great [Cableusers.com](http://www.cableusers.com/). 
+ **The replies shown below** indicate the public response to this issue, which has been cleared up, thanks to Dean Wilson who runs the great [Cableusers.com](http://www.cableusers.com/).
