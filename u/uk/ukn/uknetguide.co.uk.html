@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uknetguide.co.uk privacy policy that was archived on 2002-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207221339id_/http%3A//www.uknetguide.co.uk/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uknetguide.co.uk privacy policy that was archived on 2003-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030606224405id_/http%3A//uknetguide.co.uk/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="P3P" content="policyref=&quot;http://www.uknetguide.co.uk/w3c/p3p.xml&quot;">
@@ -16,6 +16,7 @@
 
 <script language="JavaScript">
 <!-- 
+
 if (top.frames.length!=0)
 top.location=self.document.location;
 
@@ -40,58 +41,6 @@ Favicon.src = "/netguide/images/favicon.ico";
 var GuideURL = 'http://www.uknetguide.co.uk';
 var GuideName = 'UK Net Guide';
 var browserName = navigator.appName.substring(0,1);
-var LPGDate = GetCookie('LPGDate');
-if (LPGDate == null) {
-var now = new Date();
-UpdateCookie('LPGDate',now.getTime());
-}
-
-
-function SetCookie (name, value) {
-var argv = SetCookie.arguments;
-var argc = SetCookie.arguments.length;
-var expires = (argc > 2) ? argv[2] : null;
-var path = (argc > 3) ? argv[3] : null;
-var domain = (argc > 4) ? argv[4] : null;
-var secure = (argc > 5) ? argv[5] : false;
-document.cookie = name + "=" + escape (value) +
-((expires == null) ? "" : ("; expires=" +
-expires.toGMTString())) +
-((path == null) ? "" : ("; path=" + path)) +
-((domain == null) ? "" : ("; domain=" + domain)) +
-((secure == true) ? "; secure" : "");
-}
-
-function UpdateCookie (name, value) {
-pathname = location.pathname;
-myDomain = pathname.substring(0,pathname.indexOf('/')) +'/';
-var largeExpDate = new Date ();
-largeExpDate.setTime(largeExpDate.getTime() + (365 * 24 * 3600 * 1000));
-SetCookie(name,value,largeExpDate,myDomain);
-   }
-
-function GetCookie (name) {
-var arg = name + "=";
-var alen = arg.length;
-var clen = document.cookie.length;
-var i = 0;
-while (i < clen) {
-	var j = i + alen;
-    if (document.cookie.substring(i, j) == arg)
-		return getCookieVal (j);
-    i = document.cookie.indexOf(" ", i) + 1;
-    if (i == 0)
-		break;
-		}
-   return null;
-}
-
-function getCookieVal (offset) {
-var endstr = document.cookie.indexOf (";", offset);
-if (endstr == -1)
-endstr = document.cookie.length;
-return unescape(document.cookie.substring(offset, endstr));
-}
 
 function NavtoGuides()
 {
@@ -106,16 +55,31 @@ var now=new Date();
 window.open(URL,'GuideSite'+now.getTime(),'toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,left=20,top=20,width=760,height=550');
 }
 
-function OpenSite(GID,GCID)
+
+
+function OpenSearch(GID,GKID)
 {
 var now=new Date();
 if (Math.floor && screen.width && screen.height && window.resizeTo && window.moveTo)
 {
-window.open('http://clicks.uknetguide.co.uk/Click/OpenSite.asp?SI=UKNE&GID='+GID+'&GCID='+GCID,'GuideSite'+now.getTime(),'toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,left=10,top=10,width='+Math.floor(screen.width*0.95)+',height='+Math.floor(screen.height*0.65));
+window.open('http://clicks.uknetguide.co.uk/Click/OpenSite.asp?SI=UKNE&GID='+GID+'&GKID='+GKID,'GuideSearch'+now.getTime(),'toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,left=10,top=10,width='+Math.floor(screen.width*0.95)+',height='+Math.floor(screen.height*0.65));
 }
 else
 {
-window.open('http://clicks.uknetguide.co.uk/Click/OpenSite.asp?SI=UKNE&GID='+GID+'&GCID='+GCID,'GuideSite'+now.getTime(),'toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,left=10,top=10,width=760,height=550');
+window.open('http://clicks.uknetguide.co.uk/Click/OpenSite.asp?SI=UKNE&GID='+GID+'&GKID='+GKID,'GuideSearch'+now.getTime(),'toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,left=10,top=10,width=760,height=550');
+}
+}
+
+function OpenSURL(URL)
+{
+var now=new Date();
+if (Math.floor && screen.width && screen.height && window.resizeTo && window.moveTo)
+{
+window.open(URL,'SearchSite'+now.getTime(),'toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,left=10,top=10,width='+Math.floor(screen.width*0.95)+',height='+Math.floor(screen.height*0.65));
+}
+else
+{
+window.open(URL,'SearchSite'+now.getTime(),'toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,left=10,top=10,width=760,height=550');
 }
 }
 
@@ -139,8 +103,8 @@ window.open('http://clicks.uknetguide.co.uk/Click/OpenSite.asp?SI=UKNE&GID='+GID
 			<td align="center" class="GSmall">
 			<table border="0" cellpadding="0" cellspacing="0" bgcolor="white">
 				<tbody><tr><td align="center" class="GSmall">
-				<a href="/">
-				<img src="/netguide/images/Sites/UKNECh.gif" border="0" alt="UK Net Guide">
+				<a href="/" target="_top">
+				<img src="/netguide/images/Sites/UKNE.gif" border="0" alt="UK Net Guide">
 				</a></td></tr>
 				<tr><td align="center" class="GSmall">
 				<font face="verdana" size="1"><b>We Guide! You Find!</b></font>
@@ -167,15 +131,24 @@ window.open('http://clicks.uknetguide.co.uk/Click/OpenSite.asp?SI=UKNE&GID='+GID
 		<td valign="top">
 		<table cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
-			<td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Travel/" style="text-decoration: none;color: #ffffff;" name="Travel">travel</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Finance/" style="text-decoration: none;color: #ffffff;" name="Finance">finance</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Jobs/" style="text-decoration: none;color: #ffffff;" name="Jobs">jobs</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Homes/" style="text-decoration: none;color: #ffffff;" name="Homes">homes</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Motors/" style="text-decoration: none;color: #ffffff;" name="Motors">motors</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Shopping/" style="text-decoration: none;color: #ffffff;" name="Shopping">shopping</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Lifestyle/" style="text-decoration: none;color: #ffffff;" name="Lifestyle">lifestyle</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Mobile_Phones/Ringtones_and_Logos.asp" style="text-decoration: none;color: #ffffff;" name="Mobiles">mobiles</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/News/UK_News/Section/UKNW/GCID/1733/Guide.asp" style="text-decoration: none;color: #ffffff;" name="News">news</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Business/" style="text-decoration: none;color: #ffffff;" name="Business">business</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Sports/" style="text-decoration: none;color: #ffffff;" name="Sports">sports</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Health/Health_Sites/Section/UKHE/GCID/1430/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Health">health</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Computers/" style="text-decoration: none;color: #ffffff;" name="Computers">computers</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Entertainment/" style="text-decoration: none;color: #ffffff;" name="Entertainment">entertainment</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Education/Education_Sites/Section/UKED/GCID/2020/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Education">education</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td>
+			<td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Travel/" style="text-decoration: none;color: #ffffff;" name="Travel" target="_top">travel</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Finance/" style="text-decoration: none;color: #ffffff;" name="Finance" target="_top">finance</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Jobs/Job_Databases/Section/UKJG/GCID/101/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Jobs" target="_top">jobs</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Homes/" style="text-decoration: none;color: #ffffff;" name="Homes" target="_top">homes</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/Motors/" style="text-decoration: none;color: #ffffff;" name="Motor" target="_top">motor</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guides/TV/" style="text-decoration: none;color: #ffffff;" name="TV" target="_top">tv</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Shopping/Shops/Section/UKSG/GCID/2038/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Shopping" target="_top">shopping</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Lifestyle/Lifestyle_Sites/Section/UKLI/GCID/2166/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Lifestyle" target="_top">lifestyle</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Mobile_Phones/Mobile_Phones/Section/NEMB/GCID/1378/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Mobiles" target="_top">mobiles</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/News/UK_News/Section/UKNW/GCID/1733/Guide.asp" style="text-decoration: none;color: #ffffff;" name="News" target="_top">news</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Business/Business_Sites/Section/UKBZ/GCID/1959/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Business" target="_top">business</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Sport/Sporting_Sites/Section/UKSP/GCID/817/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Sport" target="_top">sport</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Health/Health_Sites/Section/UKHE/GCID/1430/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Health" target="_top">health</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Computers/Computers/Section/UKCO/GCID/1595/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Computers" target="_top">computers</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Entertainment/Entertainment/Section/UKEG/GCID/2072/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Entertainment" target="_top">entertainment</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/netguide/images/Navigation/TopTabLeft.gif" width="5" height="19" alt=""></td><td class="GMid"><table cellpadding="0" cellspacing="0" border="0" height="19"><tbody><tr bgcolor="#3f5d9c"><td align="left"><img src="/netguide/images/Navigation/TopTabTLeft.gif" width="4" height="2" alt=""></td><td align="right"><img src="/netguide/images/Navigation/TopTabTRight.gif" width="5" height="2" alt=""></td></tr><tr><td class="GMid" bgcolor="#3f5d9c" colspan="2" align="center"><font color="#ffffff"><b><a href="/Guide/PPF/Education/Education_Sites/Section/UKED/GCID/2020/Guide.asp" style="text-decoration: none;color: #ffffff;" name="Education" target="_top">education</a></b></font></td></tr></tbody></table></td><td><img src="/netguide/images/Navigation/TopTabRight.gif" width="3" height="19" alt=""></td></tr></tbody></table></td>
 			</tr>
 		</tbody></table>
 		</td>
 		</tr>
 		<tr>
-		<td bgcolor="#b5e7ff" valign="top" class="GStd" align="right">
+		<td bgcolor="#b5e7ff" valign="top" class="GStd" align="left">
 		<table cellpadding="2" cellspacing="1" border="0">
-			<tbody><tr><td><img src="/netguide/images/px.gif" height="6" width="1" alt=""></td></tr>
+			<tbody><tr>
+<td><img src="/netguide/images/px.gif" width="150" height="1"></td>
+<td class="GStd" align="center">
+<form name="xmlsearch" action="/Search/Default.asp" method="GET">
+<b><font color="#9c005a">Search the web:</font></b> 
+<input style="font-family: Verdana; border: solid 1px #9c005a" type="text" name="Search" size="40" value="">
+</form></td><td valign="bottom"><input style="font-size: 10px;" type="image" name="cmdSearch" value="Go" src="/netguide/images/Search/Go.gif" border="0" width="22" height="22"></td>
+</tr>
+
+			
 		</tbody></table>
 		</td>
 		</tr>
@@ -183,7 +156,7 @@ window.open('http://clicks.uknetguide.co.uk/Click/OpenSite.asp?SI=UKNE&GID='+GID
 		<tr>
 		<!-- Main Table -->
 		<td>
-		<table cellpadding="0" cellspacing="0" border="0" height="100%" width="100%">
+		<table cellpadding="0" cellspacing="0" border="0" height="100%" width="128">
 			<tbody><tr><td bgcolor="white"><img src="/netguide/images/px.gif" height="6" width="1" alt=" "></td></tr>
 			<tr>
 			<!-- Menu Bar -->
@@ -223,48 +196,84 @@ window.open('http://clicks.uknetguide.co.uk/Click/OpenSite.asp?SI=UKNE&GID='+GID
 <td id="M1" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Travel/" style="text-decoration: none;color='#9c005a';" name="Travel" id="H1"><b>Travel</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L2" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M2" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Finance/" style="text-decoration: none;color='#9c005a';" name="Finance" id="H2"><b>Finance</b></a></td></tr>
+<td id="M2" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Finance/" style="text-decoration: none;color='#9c005a';" name="Money &amp; Finance" id="H2"><b>Money &amp; Finance</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L3" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M3" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Jobs/" style="text-decoration: none;color='#9c005a';" name="Jobs" id="H3"><b>Jobs</b></a></td></tr>
+<td id="M3" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Jobs/Job_Databases/Section/UKJG/GCID/101/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Jobs &amp; Careers" id="H3"><b>Jobs &amp; Careers</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L4" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M4" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Homes/" style="text-decoration: none;color='#9c005a';" name="Homes" id="H4"><b>Homes</b></a></td></tr>
+<td id="M4" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Homes/" style="text-decoration: none;color='#9c005a';" name="Homes &amp; Gardens" id="H4"><b>Homes &amp; Gardens</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L5" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M5" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Motors/" style="text-decoration: none;color='#9c005a';" name="Motors" id="H5"><b>Motors</b></a></td></tr>
+<td id="M5" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Motors/" style="text-decoration: none;color='#9c005a';" name="Motoring" id="H5"><b>Motoring</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L6" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M6" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Shopping/" style="text-decoration: none;color='#9c005a';" name="Shopping" id="H6"><b>Shopping</b></a></td></tr>
+<td id="M6" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/TV/" style="text-decoration: none;color='#9c005a';" name="TV Guide" id="H6"><b>TV Guide</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L7" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M7" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Lifestyle/" style="text-decoration: none;color='#9c005a';" name="Lifestyle" id="H7"><b>Lifestyle</b></a></td></tr>
+<td id="M7" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Shopping/Shops/Section/UKSG/GCID/2038/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Shopping" id="H7"><b>Shopping</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L8" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M8" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Mobile_Phones/Ringtones_and_Logos.asp" style="text-decoration: none;color='#9c005a';" name="Mobiles" id="H8"><b>Mobiles</b></a></td></tr>
+<td id="M8" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Lifestyle/Lifestyle_Sites/Section/UKLI/GCID/2166/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Lifestyle" id="H8"><b>Lifestyle</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L9" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M9" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/News/UK_News/Section/UKNW/GCID/1733/Guide.asp" style="text-decoration: none;color='#9c005a';" name="News" id="H9"><b>News</b></a></td></tr>
+<td id="M9" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Mobile_Phones/Mobile_Phones/Section/NEMB/GCID/1378/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Mobile Phones" id="H9"><b>Mobile Phones</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L10" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M10" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Business/" style="text-decoration: none;color='#9c005a';" name="Business" id="H10"><b>Business</b></a></td></tr>
+<td id="M10" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/News/UK_News/Section/UKNW/GCID/1733/Guide.asp" style="text-decoration: none;color='#9c005a';" name="News &amp; Weather" id="H10"><b>News &amp; Weather</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L11" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M11" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Sports/" style="text-decoration: none;color='#9c005a';" name="Sports" id="H11"><b>Sports</b></a></td></tr>
+<td id="M11" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Business/Business_Sites/Section/UKBZ/GCID/1959/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Business" id="H11"><b>Business</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L12" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M12" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Health/Health_Sites/Section/UKHE/GCID/1430/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Health" id="H12"><b>Health</b></a></td></tr>
+<td id="M12" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Sport/Sporting_Sites/Section/UKSP/GCID/817/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Sports" id="H12"><b>Sports</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L13" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M13" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Computers/" style="text-decoration: none;color='#9c005a';" name="Computers" id="H13"><b>Computers</b></a></td></tr>
+<td id="M13" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Health/Health_Sites/Section/UKHE/GCID/1430/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Health &amp; Fitness" id="H13"><b>Health &amp; Fitness</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L14" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M14" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guides/Entertainment/" style="text-decoration: none;color='#9c005a';" name="Entertainment" id="H14"><b>Entertainment</b></a></td></tr>
+<td id="M14" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Computers/Computers/Section/UKCO/GCID/1595/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Computing" id="H14"><b>Computing</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L15" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
-<td id="M15" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Education/Education_Sites/Section/UKED/GCID/2020/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Education" id="H15"><b>Education</b></a></td></tr>
+<td id="M15" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Entertainment/Entertainment/Section/UKEG/GCID/2072/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Entertainment" id="H15"><b>Entertainment</b></a></td></tr>
 <tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
-<tr><td><img src="/netguide/images/px.gif" width="1" height="8" alt=" "></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="L16" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
+<td id="M16" valign="top" class="GBar" bgcolor="white" height="14" width="118"><img src="/netguide/images/px.gif" width="1" height="1" alt=" "><a href="/Guide/PPF/Education/Education_Sites/Section/UKED/GCID/2020/Guide.asp" style="text-decoration: none;color='#9c005a';" name="Education" id="H16"><b>Education</b></a></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="1" height="8" alt=" "></td></tr><tr><td><img src="/netguide/images/px.gif" width="1" height="8" alt=" "></td></tr>
+
+
+
+
+
+
+	<tr><td colspan="3">
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+		<td class="MainMenu"><img src="/netguide/images/px.gif" width="20" height="1" alt=" "></td>
+		<td height="18" valign="middle" class="MainMenu">
+		UK Net Guide
+		</td>
+		<td><img src="/netguide/images/Navigation/MainMenuRight.gif" width="9" height="18" alt=" "></td>
+		</tr>
+		<tr><td><img src="/netguide/images/px.gif" height="10" width="1" alt=" "></td></tr>
+	</tbody></table>
+	</td></tr>
+
+
+<tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="LLL100" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
+<td id="MMM100" valign="top" class="GBar" bgcolor="white" height="14" width="118"><a href="http://submit.uknetguide.co.uk/?s=UKNE&amp;g=0" target="SubmitUKNE" style="text-decoration: none;color='#9c005a';" name="Add your site" id="HHH100"><b>Add your site</b></a></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="LLL101" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
+<td id="MMM101" valign="top" class="GBar" bgcolor="white" height="14" width="118"><a href="/default.asp?homepage" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.uknetguide.co.uk');" style="text-decoration: none;color='#9c005a';" name="Make homepage" id="HHH101"><b>Make homepage</b></a></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="LLL102" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
+<td id="MMM102" valign="top" class="GBar" bgcolor="white" height="14" width="118"><a href="javascript:window.external.AddFavorite('http://www.uknetguide.co.uk','UK Net Guide');" onmouseover="window.status='Add UK Net Guide to your favourites!'; return true " onmouseout="window.status=' '; return true" style="text-decoration: none;" name="Add to favourites" id="HHH102"><b>Add to favourites</b></a></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="3" height="14" alt=" "></td><td><img id="LLL103" src="/netguide/images/Navigation/MenuLeftWhite.gif" width="5" height="14" alt=" "></td>
+<td id="MMM103" valign="top" class="GBar" bgcolor="white" height="14" width="118"><a href="/EmailaFriend/" style="text-decoration: none;color='#9c005a';" name="Email-a-friend" id="HHH103"><b>Email-a-friend</b></a></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="1" height="4" alt=" "></td></tr>
+
 					</tbody></table>
 					</td></tr>
 				</tbody></table>
@@ -337,18 +346,19 @@ We suggest that you practise reasonable discretion with any site when providing 
 
 <tr>
 <td align="center">
-<font face="Verdana, Arial" size="1">©<a href="/Info/CrystalSites.asp">Crystal Guides Ltd</a> 2000-2002. All Rights Reserved.<br>
+<font face="Verdana, Arial" size="1">©<a href="/Info/CrystalSites.asp">Crystal Guides Ltd</a> 2000-2003. All Rights Reserved.<br>
 <a href="/promo.asp">Advertising/Promotion</a> | 
 <a href="/aboutus.asp">About us</a> | 
 <a href="/Privacy.asp">Privacy Policy</a> | 
-<a href="/EmailUs/">Email Us</a>
+<a href="/EmailUs/?channel=UKNE">Email Us</a>
 <br>
 <!--[if IE]><a href='default.asp?homepage' onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.uknetguide.co.uk');">Make us your homepage</a> | <![endif]-->
 <a href="http://submit.uknetguide.co.uk">Add URL</a> |
 <a href="/NetworkList.asp">UK Net Guide Network</a> | 
 <a href="/SearchBox.asp">Put UK Net Guide on your site</a> </font>
 </td></tr>
-<tr><td><img src="/netguide/images/px.gif" width="10" height="10"></td></tr>
+<tr><td><img src="/netguide/images/px.gif" width="10" height="10" border="0"></td></tr>
+<tr><td height="1" width="1"><a href="/netguide/st/"><img src="/netguide/images/px.gif" width="1" height="1" border="0"></a></td></tr>
 </tbody></table></td></tr></tbody></table></td></tr></tbody></table>
 
 
