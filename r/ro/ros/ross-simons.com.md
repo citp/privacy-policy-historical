@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the ross-simons.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408080925id_/http%3A//www.ross-simons.com/custom/privacy.html) for the most accurate reproduction.*
+
+# Ross-Simons' Online Catalog | Privacy Policy
+
+| 
+
+The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. To learn more about our marketing partners, click here. If you prefer we do not share your name and address with marketing partners, please email us at [**customerservice@ross-simons.com**](mailto:customerservice@ross-simons.com). To remove your email address from the Ross-Simons database, [click here](http://www.ross-simons.com/utilities/unsubscribe.html).  
+  
+---  
+If you agreed to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each email our partners send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.  
+We also track aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information.  
+The information we collect is used to improve the content of our Web page, or used to contact consumers for marketing purposes.  
+If you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address or calling us at the above telephone number or writing to us at the above address and telling us that you do not want to receive e-mail from our company.  
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending email to us at the above address or calling us at the above telephone number or writing to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list.  
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. If you do not wish to receive such telephone calls, please let us know by sending email to us at the above address or calling us at the above telephone number or writing to us at the above address. Please provide us with your correct phone number.
