@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingo.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603153016id_/http%3A//pretzel.bingo.com/bingo_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingo.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101062700id_/http%3A//pretzel.bingo.com/bingo_privacy.php) for the most accurate reproduction.*
 
 # Bingo.com - Free online bingo. Bingo chat, play bingo games, video poker, free sweepstakes.
 
