@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ihigh.com privacy policy that was archived on 2001-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217213937id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ihigh.com privacy policy that was archived on 2002-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604181614id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
 	
@@ -47,15 +47,11 @@ top:5px;
 
 <map name="icon_nav">
 <area shape="circle" alt="Register With iHigh" coords="90,49,27" href="javascript:registration('/register')" title="Register With iHigh">
-<area shape="circle" alt="Sports" coords="210,31,27" href="/0,1773,1_1_0,00.html" title="Sports">
-<area shape="circle" alt="Auto Network" coords="272,31,27" href="/0,1773,1_10_0,00.html" title="Auto Network">
-<area shape="circle" alt="Activities" coords="338,29,25" href="/0,1773,1_2_0,00.html" title="Activities">
-<area shape="circle" alt="Colleges &amp; Careers" coords="398,31,29" href="/0,1773,1_3_0,00.html" title="Colleges &amp; Careers">
-<area shape="circle" alt="Our World" coords="460,31,26" href="/0,1773,1_4_0,00.html" title="Our World">
-<area shape="circle" alt="Pop Culture" coords="518,41,27" href="/0,1773,1_4_0,00.html" title="Pop Culture">
-<area shape="circle" alt="Rant &amp; Rave" coords="582,45,26" href="/0,1773,1_4_0,00.html" title="Rant &amp; Rave">
-<area shape="circle" alt="iHigh News Network" coords="642,49,27" href="/0,1773,1_7_0,00.html" title="iHigh News Network">
-<area shape="circle" alt="iHigh Broadcast Network" coords="702,53,28" href="/0,1773,1_11_0,00.html" title="iHigh Broadcast Network">
+<area shape="rect" alt="Sports" coords="242,0 311,64" href="/0,1773,1_1_0,00.html" title="Sports">
+<area shape="rect" alt="Cheer, Band &amp; Activities" coords="313,0 394,65" href="/0,1773,1_2_0,00.html" title="Cheer, Band &amp; Activities">
+<area shape="rect" alt="Colleges &amp; Careers" coords="396,0 477,69" href="/0,1773,1_3_0,00.html" title="Colleges &amp; Careers">
+<area shape="rect" alt="Our World" coords="478,0 563,70" href="/0,1773,1_4_0,00.html" title="Our World">
+<area shape="rect" alt="School News" coords="565,0 642,68" href="/0,1773,1_7_0,00.html" title="School News">
 <area shape="default" nohref="">
 </map>
 
@@ -66,7 +62,24 @@ top:5px;
 </map>
 
 
-	   
+	   <!-- 
+    select  /* National CDA Header - aml */ 
+			a.NEWS_ID,
+			a.HEADLINE,
+			a.TEASER,
+			a.STORY_DATE,
+			b.CCAT_ID,
+			to_char(a.story_date,'MM/DD') as format_date
+	from
+			TBL_NAT_NEWS b,
+			TBL_NEWS a
+	where
+			(b.NEWS_ID = a.NEWS_ID) and ccat_id in (12, 3, 1) and
+			(b.LAUNCHED = 'Y')  and (a.STORY_DATE > (sysdate - 60))  
+	order by
+			a.STORY_DATE desc, a.NEWS_ID desc
+:100(12,3,1) -->
+
 	
 		 
 	
@@ -76,11 +89,7 @@ top:5px;
 	
 		 
 	
-		 
 	
-		 
-	
-		 
 	
 		 
 	
@@ -95,6 +104,7 @@ top:5px;
 	
 	
 	
+		 
 	
 	
 	
@@ -103,14 +113,92 @@ top:5px;
 	
 	
 	
-	<font face="verdana,arial">
+	
+		 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!-- CENTER:  -->
+<!-- A: (3) {tNews {59131 {The college roadmap} {If you're a high school student, you need to stay in tune with the admissions process. No matter what grade you're in, each month requires some action on your part. Here's a look at what sophomores, juniors and seniors should be doing during the month of June.} {Jun 03 2002 12:00:00:000AM} 3 06/03}} {tNews {58936 {Cruising towards possible future as chef} {Food is a necessity so why not pursue a career in the culinary arts? Here's the story of one high school senior who is looking to set sail as a chef aboard a cruise ship. } {May 29 2002 12:00:00:000AM} 3 05/29}} {tNews {58745 {Is there truth to testing?} {Standardized tests. Nobody likes to take them, there's no question about that. But are they fair? The debate over standardized testing rages on as our teen reporter covers both sides of the issue. } {May 24 2002 12:00:00:000AM} 3 05/24}} {tNews {58591 {Importance of the essay} {How would you feel if getting into the school of your choice had nothing to do with your grades and your test scores? What if the only thing an admissions committee would ever see is your essay?} {May 22 2002 12:00:00:000AM} 3 05/22}} -->
+<!-- B: (1) {tNews {59211 {Several prep stars should be taken in Major League Baseball draft} {It may be unlikely that a high school player will be taken with the No. 1 pick in the Major League Baseball again this year, but they’ll be plenty of prep stars selected in the first round. } {Jun 04 2002 12:00:00:000AM} 1 06/04}} {tNews {59203 {Elkins on top of Baseball America poll} {Elkins High School has been at or near the top of the poll all season, and that hasn't changed this week.} {Jun 04 2002 12:00:00:000AM} 1 06/04}} {tNews {59202 {USA Basketball names 16 finalists for World Team} {After three days of Trials that featured 31 participants and three others who had requested a waiver from the Trials, 16 finalists for the 2002 USA Basketball Junior World Championship Qualifying Team were selected and announced by the USA Basketball Men's Collegiate Committee.} {Jun 04 2002 12:00:00:000AM} 1 06/04}} {tNews {59201 {Illinois softball team softball wins chance to defend title } {The Normal Community High School softball team can take a collective sigh of relief.} {Jun 04 2002 12:00:00:000AM} 1 06/04}} -->
+<font face="verdana,arial">
 
 <!-- LOGO AND BANNER TABLE -->
 <table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" width="750"><tbody><tr><td width="278" height="85" rowspan="2">
 <a href="http://www.ihigh.com"><img src="/doodads/top_logo_12.gif" width="278" height="85" alt="iHigh.com" border="0"></a></td>
 <td width="472" height="69" align="right" valign="bottom">
 
-<span class="banner"><a href="http://adserver.ihigh.com/oasisc.php?alias=www.ihigh.com/index@Top&amp;w=468&amp;h=60"><script language="JavaScript">document.write('<IMG SRC=http://adserver.ihigh.com/oasisi.php?alias=www.ihigh.com/index@Top&w=468&h=60&rand=');document.write(Math.round(10000 * Math.random()).toString() + ' BORDER=0>');</script><img src="http://adserver.ihigh.com/oasisi.php?alias=www.ihigh.com/index@Top&amp;w=468&amp;h=60&amp;rand=2658" border="0"></a></span>
+<span class="banner"><!-- JDH Removed height parameter -->
+<a href="http://adserver.ihigh.com/oasisc.php?s=6&amp;c=133"><img src="http://adserver.ihigh.com/oasisi.php?s=6&amp;c=133&amp;cb=732649956" width="468" border="0" alt=""></a></span>
 
 </td></tr><tr><td width="472" height="16"><img src="/doodads/top_underad_12.gif" width="472" height="16" border="0"></td></tr></tbody></table>
 
@@ -120,8 +208,9 @@ top:5px;
 
 <!-- IMAGE MAP: SUBPAGE LINKS -->
 
-	<img src="/doodads/nat_nav_full_12.gif" width="750" height="85" border="0" usemap="#icon_nav" alt="Icon Navigation"></td></tr></tbody></table>
-<!-- MASTER CONTENT TABLE -->
+	
+		<img src="/doodads/nat_nav_full_0.gif" width="750" height="85" border="0" usemap="#icon_nav" alt="Icon Navigation"></td></tr></tbody></table>
+	<!-- MASTER CONTENT TABLE -->
 <table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" width="750"><tbody><tr><td width="198" height="41" valign="top">
 
 	<!-- LEFT STAGE TABLE -->
@@ -130,12 +219,54 @@ top:5px;
 			<!--FEATURES -->
 <center><font face="verdana,arial" size="1"><b>
 
-<!--BECOME A MEMBER-->
-<a href="http://www.ihigh.com/national/static/join"><img src="/banners/join_ihigh_120x30.gif" width="120" height="30" alt="Become a member!"><br clear="all"><b>Become a member!</b></a><br><hr noshade="" size="1" color="#000000" width="90%">
- <a href="http://www.ihigh.com/forums/"><img src="http://www.ihigh.com/banners/forums_120x60.gif" width="120" height="60" alt="iHigh.com Forums" border="0"><br clear="all"><b>iHigh.com Forums!</b></a><br>
-		
+<p>
 
-	<a href="http://adserver.ihigh.com/oasisc.php?alias=www.ihigh.com/index@Middle&amp;w=120&amp;h=60"><script language="JavaScript">document.write('<IMG SRC=http://adserver.ihigh.com/oasisi.php?alias=www.ihigh.com/index@Middle&w=120&h=60&rand=');document.write(Math.round(10000 * Math.random()).toString() + ' BORDER=0>');</script><img src="http://adserver.ihigh.com/oasisi.php?alias=www.ihigh.com/index@Middle&amp;w=120&amp;h=60&amp;rand=4764" border="0"></a><br>		
+<object style="border:1px solid #000000;" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" id="ihigh_car_120x120" width="120" height="120">
+	<param name="movie" value="/fla/ihigh_car_120x120.swf">
+	<param name="quality" value="high">
+	<param name="bgcolor" value="#0000b0">
+	<embed src="/fla/ihigh_car_120x120.swf" quality="high" bgcolor="#0000b0" width="120" height="120" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+</object>
+</p><hr noshade="" size="1" color="#FFFFFF" width="90%">
+
+<script language="JavaScript">
+function FlashInstalled()
+{
+	result = false;
+
+	if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"])
+	{
+		result = navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin;
+	}
+	else if (document.all && (navigator.appVersion.indexOf("Mac")==-1))
+	{
+		// IE Windows only -- check for ActiveX control, have to hide code in eval from Netscape (doesn't like try)
+		eval ('try {var xObj = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");if (xObj)	result = true; xObj = null;	} catch (e)	{}');
+	}
+	return result;
+}
+
+function FlashWrite(url,width,height)
+{
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" ');
+	document.write('  WIDTH=' + width + ' HEIGHT=' + height + '>');
+	document.write(' <PARAM NAME=movie VALUE="' + url + '"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF>  '); 
+	document.write(' <EMBED src="' + url + '" quality=high bgcolor=#FFFFFF  ');
+	document.write(' swLiveConnect=FALSE WIDTH=' + width + ' HEIGHT=' + height);
+	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+	document.write(' </EMBED></OBJECT>');
+}
+
+if (FlashInstalled()){
+	FlashWrite('http://www.ihigh.com/banners/brainscratch004.swf',120,600);
+} else {
+	document.write('You need to install flash.  <A HREF="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Click Here</A>');
+}
+
+</script>You need to install flash.  <a href="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Click Here</a><hr noshade="" size="1" color="#000000" width="90%">
+
+<a href="http://www.ihigh.com/national/static/join"><img src="/banners/join_ihigh_120x30.gif" width="120" height="30" alt="Become a member!"><br clear="all"><b>Become a member!</b></a><br>
 </b></font></center> </td><td width="2" bgcolor="#000000"><img src="/img/spacer.gif" width="2" height="1" border="0">
 	</td><td width="10" bgcolor="#FFFFFF"><img src="/img/spacer.gif" width="10" height="1" border="0">
 	</td></tr><tr><td colspan="3" width="198" bgcolor="#FFFFFF"><img src="http://www.ihigh.com/img/dot_measure1.gif" width="198" height="34"></td></tr><tr><td width="187">
@@ -146,19 +277,19 @@ top:5px;
 	   
 	   
 	   
-	   <font size="2" face="verdana,arial"><b><a href="/0,1773,2_2_0_48534,00.html">Cheaters never prosper<img src="/doodads/cat_icon2.gif" width="60" height="60" alt="" border="0" hspace="5" vspace="5" align="right"></a></b></font><br>
-<font face="verdana,arial" size="1">Newsflash: Writing an eight-page term paper on 'what realism means to me' is NOT a priority. Socializing, now that's a different story. <br clear="all"><center>- - - - - - - - - - - - - - - - - - -<br clear="all"></center>
+	   <font size="2" face="verdana,arial"><b><a href="/0,1773,2_3_0_59131,00.html">The college roadmap<img src="/doodads/cat_icon3.gif" width="60" height="60" alt="" border="0" hspace="5" vspace="5" align="right"></a></b></font><br>
+<font face="verdana,arial" size="1">If you're a high school student, you need to stay in tune with the admissions process. No matter what grade you're in, each month requires some action on your part. Here's a look at what sophomores, juniors and seniors should be doing during the month of June.<br clear="all"><center>- - - - - - - - - - - - - - - - - - -<br clear="all"></center>
 <table width="160" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-<td width="8" valign="top"><a href="/0,1773,2_2_0_48389,00.html"><img src="/doodads/content_boxes_buttons2.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
-<td><font face="verdana,arial" size="1"><a href="/0,1773,2_2_0_48389,00.html">The Spread: The Debater's Role</a></font></td>
+<td width="8" valign="top"><a href="/0,1773,2_3_0_58936,00.html"><img src="/doodads/content_boxes_buttons3.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
+<td><font face="verdana,arial" size="1"><a href="/0,1773,2_3_0_58936,00.html">Cruising towards possible future as chef</a></font></td>
 </tr><tr>
 <td colspan="3"><img src="/img/spacer.gif" width="1" height="3" border="0"></td></tr><tr>
-<td width="8" valign="top"><a href="/0,1773,2_2_0_48202,00.html"><img src="/doodads/content_boxes_buttons2.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
-<td valign="top"><font face="verdana,arial" size="1"><a href="/0,1773,2_2_0_48202,00.html">Oh baby it's cold outside!</a></font></td>
+<td width="8" valign="top"><a href="/0,1773,2_3_0_58745,00.html"><img src="/doodads/content_boxes_buttons3.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
+<td valign="top"><font face="verdana,arial" size="1"><a href="/0,1773,2_3_0_58745,00.html">Is there truth to testing?</a></font></td>
 </tr><tr>
 <td colspan="3"><img src="/img/spacer.gif" width="1" height="3" border="0"></td></tr><tr>
-<td width="8" valign="top"><a href="/0,1773,2_2_0_48020,00.html"><img src="/doodads/content_boxes_buttons2.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
-<td><font face="verdana,arial" size="1"><a href="/0,1773,2_2_0_48020,00.html">Staying in your best shape</a></font></td>
+<td width="8" valign="top"><a href="/0,1773,2_3_0_58591,00.html"><img src="/doodads/content_boxes_buttons3.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
+<td><font face="verdana,arial" size="1"><a href="/0,1773,2_3_0_58591,00.html">Importance of the essay</a></font></td>
 </tr></tbody></table></font>
 <font face="verdana,arial" size="1">» <a href="/forums">Add comments iHigh forum.</a></font>
 	   
@@ -175,19 +306,19 @@ top:5px;
 	   
 	   
 	   
-	   <font size="2" face="verdana,arial"><b><a href="/0,1773,2_3_0_48442,00.html">Just do it<img src="/doodads/cat_icon3.gif" width="60" height="60" alt="" border="0" hspace="5" vspace="5" align="right"></a></b></font><br>
-<font face="verdana,arial" size="1">Why is it that we're supposed to decide exactly what to do with the next 50 years of our lives the minute we enter high school? How can we possibly make such important life-altering decisions? The answers may not always be clear, but it helps to know the questions first.<br clear="all"><center>- - - - - - - - - - - - - - - - - - -<br clear="all"></center>
+	   <font size="2" face="verdana,arial"><b><a href="/0,1773,2_1_0_59211,00.html">Several prep stars should be taken in Major League Baseball draft<img src="/doodads/cat_icon1.gif" width="60" height="60" alt="" border="0" hspace="5" vspace="5" align="right"></a></b></font><br>
+<font face="verdana,arial" size="1">It may be unlikely that a high school player will be taken with the No. 1 pick in the Major League Baseball again this year, but they’ll be plenty of prep stars selected in the first round. <br clear="all"><center>- - - - - - - - - - - - - - - - - - -<br clear="all"></center>
 <table width="160" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-<td width="8" valign="top"><a href="/0,1773,2_3_0_48281,00.html"><img src="/doodads/content_boxes_buttons3.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
-<td><font face="verdana,arial" size="1"><a href="/0,1773,2_3_0_48281,00.html">Your transcript: What does it <i>really</i> say?</a></font></td>
+<td width="8" valign="top"><a href="/0,1773,2_1_0_59203,00.html"><img src="/doodads/content_boxes_buttons1.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
+<td><font face="verdana,arial" size="1"><a href="/0,1773,2_1_0_59203,00.html">Elkins on top of Baseball America poll</a></font></td>
 </tr><tr>
 <td colspan="3"><img src="/img/spacer.gif" width="1" height="3" border="0"></td></tr><tr>
-<td width="8" valign="top"><a href="/0,1773,2_3_0_48144,00.html"><img src="/doodads/content_boxes_buttons3.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
-<td valign="top"><font face="verdana,arial" size="1"><a href="/0,1773,2_3_0_48144,00.html">How far would you go to get in?</a></font></td>
+<td width="8" valign="top"><a href="/0,1773,2_1_0_59202,00.html"><img src="/doodads/content_boxes_buttons1.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
+<td valign="top"><font face="verdana,arial" size="1"><a href="/0,1773,2_1_0_59202,00.html">USA Basketball names 16 finalists for World Team</a></font></td>
 </tr><tr>
 <td colspan="3"><img src="/img/spacer.gif" width="1" height="3" border="0"></td></tr><tr>
-<td width="8" valign="top"><a href="/0,1773,2_3_0_47930,00.html"><img src="/doodads/content_boxes_buttons3.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
-<td><font face="verdana,arial" size="1"><a href="/0,1773,2_3_0_47930,00.html">Score college admission without the SAT</a></font></td>
+<td width="8" valign="top"><a href="/0,1773,2_1_0_59201,00.html"><img src="/doodads/content_boxes_buttons1.gif" width="8" height="8" alt="button" vspace="4" border="0"></a></td><td>&nbsp;</td>
+<td><font face="verdana,arial" size="1"><a href="/0,1773,2_1_0_59201,00.html">Illinois softball team softball wins chance to defend title </a></font></td>
 </tr></tbody></table></font>
 <font face="verdana,arial" size="1">» <a href="/forums">Add comments iHigh forum.</a></font>
 	   
@@ -201,7 +332,8 @@ top:5px;
 			<font face="verdana,arial" size="1">
 <center><a href="/scoresolution/home"><img src="/pix/logo_scoresolution140.gif" width="140" height="36" border="0" alt="Score Solution"></a></center>
 <p>
-</p><center><a href="http://adserver.ihigh.com/oasisc.php?alias=www.ihigh.com/index@Bottom&amp;w=120&amp;h=60"><script language="JavaScript">document.write('<IMG SRC=http://adserver.ihigh.com/oasisi.php?alias=www.ihigh.com/index@Bottom&w=120&h=60&rand=');document.write(Math.round(10000 * Math.random()).toString() + ' BORDER=0>');</script><img src="http://adserver.ihigh.com/oasisi.php?alias=www.ihigh.com/index@Bottom&amp;w=120&amp;h=60&amp;rand=4530" border="0"></a></center>
+</p><center><!-- JDH Removed height parameter -->
+<a href="http://adserver.ihigh.com/oasisc.php?s=7&amp;c=132"><img src="http://adserver.ihigh.com/oasisi.php?s=7&amp;c=132&amp;cb=395818630" width="120" border="0" alt=""></a></center>
 </font><p><font face="verdana,arial" size="1">
 » <a href="http://www.accessoryprocessing.com/ihigh/site/shop/">Wireless Accessory Store</a><br>
 » <a href="/sportssource">The Sports Source</a><br>
@@ -216,7 +348,7 @@ top:5px;
 	</td></tr></tbody></table>
 </td><td width="522" height="41" valign="top">  
 		
-	              <!-- MAIN CONTENT WELL TABLE -->
+	           <!-- MAIN CONTENT WELL TABLE -->
 	<table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" width="554"><tbody><tr><td colspan="8" width="554" height="41" valign="top"><img src="/doodads/head_stories_12.gif" width="554" height="41" border="0" alt=""></td></tr><tr><td width="10" bgcolor="#FFFFFF"><img src="/img/spacer.gif" width="10" height="1" border="0">
 	</td><td width="2" bgcolor="#000000"><img src="/img/spacer.gif" width="2" height="1" border="0"></td><td width="8" bgcolor="#FFFFFF"><img src="/img/spacer.gif" width="8" height="1" border="0"></td><td width="508" bgcolor="#FFFFFF">
 	
@@ -227,15 +359,17 @@ top:5px;
 	
 		<font face="verdana,arial" size="1"><b>
 
-	   » <a href="/0,1773,2_12_0_38153,00.html">iHigh Corporate Sponsors</a>&nbsp;&nbsp;	
-
 	   » <a href="/0,1773,2_12_0_36677,00.html">About Us</a>&nbsp;&nbsp;	
+
+	   » <a href="/0,1773,2_12_0_53573,00.html">Advertising and Marketing Programs</a>&nbsp;&nbsp;	
+
+	   » <a href="/0,1773,2_12_0_39558,00.html">Privacy Statement for iHigh.com</a>&nbsp;&nbsp;	
+
+	   » <a href="/0,1773,2_12_0_38153,00.html">iHigh Corporate Sponsors</a>&nbsp;&nbsp;	
 
 	   » <a href="/0,1773,2_12_0_36680,00.html">iHigh.com Staff Bios</a>&nbsp;&nbsp;	
 
 	   » <a href="/0,1773,2_12_0_36681,00.html">Career Opportunities</a>&nbsp;&nbsp;	
-
-	   » <a href="/0,1773,2_12_0_39558,00.html">Privacy Statement for iHigh.com</a>&nbsp;&nbsp;	
 
 	   » <a href="/0,1773,2_12_0_39557,00.html">Join/Contribute</a>&nbsp;&nbsp;	
 
@@ -250,7 +384,7 @@ top:5px;
 </b></font>
 </p><p>
   </p><p>
-	 <font face="VERDANA,ARIAL" size="2"><b>Jan 01, 2001</b> - <a href="https://www.truste.org/validate/7584 "><img src="http://www.ihigh.com/banners/logo_clickseal.gif" width="91" height="73" border="0" alt="TRUSTe: Click to Verify" align="right" hspace="5" vspace="2"></a>
+	 <font face="VERDANA,ARIAL" size="2"><b>Jan 08, 2002</b> - <a href="https://www.truste.org/validate/7584 "><img src="http://www.ihigh.com/banners/logo_clickseal.gif" width="91" height="73" border="0" alt="TRUSTe: Click to Verify" align="right" hspace="5" vspace="2"></a>
 This confirms that iHigh.com is a licensee
  of the TRUSTe Privacy Program. This privacy
  statement discloses the privacy practices for<a href="http://www.ihigh.com">
@@ -278,11 +412,11 @@ This site contains links to other web sites that may set cookies. iHigh.com is n
 
 
 <p>
-<!-- 
-Our site uses an order form for customers to request information, products, and services.  We collect visitor's contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level).  Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers.  The customer's contact information is also used to get in touch with the visitor when necessary.  Users may opt-out of receiving future mailings; see the choice/opt-out section below.  Financial information that is collected is used to check the users' qualifications and bill the user for products and services.  Demographic and profile data is also collected at our site.  We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.  This information is shared with advertisers on an aggregate basis.  ** MAKE SURE that you explain the other data that you mentioned you collect here. ** -->
-</p><p>
+</p><h2>Order Forms</h2>
+Our site uses an order form for customers to request information, products, and services.  We collect visitor's contact information (like their email address), and demographic information (like their zip code, age, or income level).  Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers.  The customer's contact information is also used to get in touch with the visitor when necessary.  Users may opt-out of receiving future mailings; see the choice/opt-out section below.  Financial information that is collected is used to check the users' qualifications and bill the user for products and services.  Demographic and profile data is also collected at our site.  We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.  This information is shared with advertisers on an aggregate basis.  
+<p>
 </p><h2>Registration</h2>
-Our site's registration forms require users to give us contact information (like their name, email, address, and phone number), and demographic information (like their title, high school name, and student body size). Places where personal information is collected include our "Contact Us" form (where we ask for name, company, email, address, and fax and phone number), and our "Be an iHigh SID" form (where we ask for name, school, email, address, and phone number). This information is used to contact the visitor in order to respond to specific requests for information, or to send information to the visitor on how they can become an iHigh School Information Director (SID). This information is not shared with advertisers or any affiliate company. 
+Our site's registration forms require users to give us contact information (like their name, email, address, and phone number), and demographic information (like their title, age, high school name, and student body size). Places where personal information is collected include our "Contact Us" form (where we ask for name, company, email, address, and fax and phone number), and our "Be an iHigh SID" form (where we ask for name, school, email, address, and phone number). This information is used to contact the visitor in order to respond to specific requests for information, or to send information to the visitor on how they can become an iHigh School Information Director (SID). This information is not shared with advertisers or any affiliate company. 
 
 <p>
 We also ask for personal information in our "Join iHigh.com" form (where we ask for name, title, email, phone number, address, high school name, mascot name, and student body size). We use this information to send the user a confirmation letter and information about our company via email. The customer's contact information is also used to contact the visitor regarding weekly updates and suggestions on how to improve their site, as well as to provide technical support. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
@@ -290,8 +424,7 @@ We also ask for personal information in our "Join iHigh.com" form (where we ask 
 
 </p><p>
 </p><h2>Contests</h2>
-We run contests on our site in which we ask visitors for contact information (like their name, email, address, and phone number), and demographic information (like their school name, gender, grade, and age). This information is collected by our marketing department and we use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. The customer's contact information is used to contact the visitor only when winners are chosen.
-
+We run contests on our site in which we ask visitors for contact information (like their name, email, address, and phone number), and demographic information (like their school name, gender, grade, and age). This information is collected by our marketing department and we use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.   The customer's contact information is also used to get in touch with the visitor when necessary.  Users may opt-out of receiving future mailings.
 <p>
 If there is any change in the way iHigh intends to use this personal information, we will notify users at least 30 days in advance of our intention and, if applicable, provide users with an opportunity to opt out of these changes.
 
@@ -321,7 +454,7 @@ This site gives users the following options for changing and modifying informati
 <li>Log on to <a href="go.ihigh.com">go.ihigh.com</a> and click on "Help."
 </li></ol>
 <h2>Partners</h2>
-<p>In order to present content representing a wide range of interests and specialization, our site partners with other web sites and servers. Our audio/video streams are powered by Activate.net, and our ad servers by Real Media. Certain other content is obtained through co-branded pages with other web sites, including but not limited to Standard Deviants, MapQuest, and The Princeton Review. These co-branded pages are used solely for the purpose of presenting content we think is relevant to our audience. No contact information is shared with them.</p>
+<p>In order to present content representing a wide range of interests and specialization, our site partners with other web sites and servers. Our audio/video streams are powered by Alinq. Certain other content is obtained through co-branded pages with other web sites, including but not limited to Standard Deviants, MapQuest, and The Princeton Review. These co-branded pages are used solely for the purpose of presenting content we think is relevant to our audience. No contact information is shared with them.</p>
 
 
 <h2>Contacting the Web Site</h2>
@@ -364,7 +497,7 @@ If you have any questions about this privacy statement, the practices of this si
 	<center><a href="http://www.nfhs.org" target="new"><img src="/pix/nfhs.gif" border="0" alt="nfhs.org"></a><br><a href="http://www.nfhs.org" target="new"><font face="verdana,arial" size="1">NFHS.ORG</font></a></center>
 </td><td valign="top">
 	
-	<center><font face="verdana,arial" size="1" color="#000000">© Copyright 2001 <a style="color:#000000;text-decoration:none;" href="/www.ihigh.com">iHigh.com</a>
+	<center><font face="verdana,arial" size="1" color="#000000">&nbsp;Copyright © 1999-02 <a style="color:#000000;text-decoration:none;" href="/www.ihigh.com">iHigh.com</a>
 	<a style="color:#000000;text-decoration:none;" href="/0,1773,2_12_0_39558,00.html">The High School Network.<br>All rights reserved world wide.&nbsp; Site Privacy Statement.</a></font><a style="color:#000000;text-decoration:none;" href="/0,1773,2_12_0_39558,00.html"><br>
 	</a><a style="color:#000000;text-decoration:none;" href="/0,1773,2_12_0_39558,00.html"><img src="/banners/logo_trustefinalmark.gif" width="116" height="31" border="0" alt="Site Privacy Statement" vspace="4" hspace="1"></a></center>
 	 
