@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217093923id_/http%3A//ktul.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602134800id_/http%3A//www.ktul.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Oklahoma's Newschannel 8 - Privacy Statement
 
-**1\. PRIVACY PRACTICES.** This statement discloses the privacy practices for the KTUL website (the "Website") a service provided by KTUL, LLC. Questions regarding this statement should be directed to KTUL at www.ktul.com or KTUL Privacy Policy, PO Box 8, Tulsa, OK 74170.   
-**  
+**Privacy Policy**
+
+**1\. PRIVACY PRACTICES.** This statement discloses the privacy practices for the KTUL website (the "Website") a service provided by KTUL, LLC. Questions regarding this statement should be directed to KTUL at www.ktul.com or KTUL Privacy Policy, PO Box 8, Tulsa, OK 74170. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events.  
+ **  
 2\. CATEGORIES OF INFORMATION.** The information gathered by KTUL falls into two categories: (1) information voluntarily supplied by users to the Website through optional registration and (2) tracking information gathered as users navigate through the Website. 
 
 **3\. REGISTRATION.** To make use of certain features on the Website users may need to register and to provide certain information as part of the registration process. (KTUL may ask, for example, for a user's name, email address, gender, age, and zip code.) The information supplied will help KTUL to offer more personalized features, to tailor the Website, and to make it more useful to users. Supplying such information is entirely voluntary. However, if a user chooses not to supply information requested, KTUL may be unable to provide the user with services made available to other users of the Website. Even if a user wishes to remain completely anonymous, the user may still to take advantage of the content available on the Website without registration. **
