@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201174806id_/http%3A//www.earthjustice.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602035602id_/http%3A//www.earthjustice.org/privacy) for the most accurate reproduction.*
 
 # Earthjustice: Privacy Policy
 
@@ -37,5 +37,5 @@ Contact
 For questions regarding this policy statement, or the practices of this site, email [webmaster@earthjustice.org](mailto:webmaster@earthjustice.org) or contact:
 
 Earthjustice   
-180 Montgomery St., Suite 1400  
-San Francisco, CA 94104
+426 17th Street, 6th Floor  
+Oakland, CA 94612
