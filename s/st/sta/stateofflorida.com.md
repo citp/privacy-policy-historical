@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stateofflorida.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602021938id_/http%3A//www.stateofflorida.com/privin1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateofflorida.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212022752id_/http%3A//www.stateofflorida.com/privin1.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| | [](https://web.archive.org/web/20010602021938id_/http%3A//www.stateofflorida.com/index.html)
 
 We at Livingston North Communications recognize the importance of protecting your personal information.
 
@@ -15,3 +13,5 @@ We at Livingston North Communications recognize the importance of protecting you
   5. We do not sell your personal information to third parties and we do not provide your personal information to third parties without your knowledge for the purpose of their contacting you or soliciting you. We do, however, share selected information under certain conditions in accordance with our business operations or legal requirements.
 
 State of Florida.com contains links to other Web sites. Livingston North Communications and State of Florida.com are not responsible for the privacy practices of other Web sites.
+
+State of Florida.com uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm).
