@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xaraonline.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206073844id_/http%3A//www.xaraonline.com/home/other/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaraonline.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607123403id_/http%3A//www.xaraonline.com/home/other/privacy.htm) for the most accurate reproduction.*
 
 # Xara Online web service applications for your website
 
