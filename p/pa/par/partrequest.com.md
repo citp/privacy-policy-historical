@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805003357id_/http%3A//www.partrequest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402230200id_/http%3A//www.partrequest.com/privacy.htm) for the most accurate reproduction.*
 
 # Used Auto Parts Online - PartRequest.com
 
@@ -6,8 +6,6 @@
   
   
 | 
-
-### **Privacy Policy**
 
 PartRequest.com is committed to protecting your privacy.
 
@@ -25,6 +23,7 @@ PartRequest.com reserves the right to collect and store information and statisti
 
 At PartRequest.com we strive to help you find the part you need at the price you want. We also value your use of our service and recognize that without you there wouldn't be a business to run. 
 
-Happy motoring!  
-  
----|---
+Happy motoring!
+
+|   
+---|---|---
