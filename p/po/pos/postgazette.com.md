@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postgazette.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621143644id_/http%3A//www.postgazette.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postgazette.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020313id_/http%3A//www.post-gazette.com/privacy.asp) for the most accurate reproduction.*
 
 # Pittsburgh Post-Gazette - Privacy Policy
 
@@ -33,3 +33,6 @@ We use a third-party advertising company to serve ads when you visit our Web sit
 **Order Information Privacy**
 
 Information provided to the Pittsburgh Post-Gazette and post-gazette.com as part of the ordering process is not provided to anyone else. The only exception is that credit card transactions are handled by a third-party financial institution, which receives the credit card number and other personal identifying information like billing address to verify the credit card numbers and process transactions.
+
+|  |  [](https://web.archive.org/pgdelivery/autorenew2.asp)  
+
