@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redoctane.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402222750id_/http%3A//www.redoctane.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redoctane.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055732id_/http%3A//www.redoctane.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy** RedOctane knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting RedOctane, you are accepting the practices described in this Privacy Notice.
+RedOctane knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting RedOctane, you are accepting the practices described in this Privacy Notice.
 
  **What Personal Information About Customers Does RedOctane Gather?**
 
@@ -10,7 +10,7 @@ The information we learn from customers helps us personalize and continually imp
 
 Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. Scroll to the bottom of this page to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
 
-Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.com. Scroll to the bottom of this page to see examples of the information we receive. A number of companies offer utilities designed to help you visit Web sites anonymously.
+Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses RedOctane.com. Scroll to the bottom of this page to see examples of the information we receive. A number of companies offer utilities designed to help you visit Web sites anonymously.
 
 Information from Other Sources: For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
 
