@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoshopuser.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218164906id_/http%3A//www.photoshopuser.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopuser.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142354id_/http%3A//photoshopuser.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Four easy ways to join the NAPP
 
