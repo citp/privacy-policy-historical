@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215819id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206155549id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Smiley Traffic
 
@@ -8,15 +8,16 @@
   
 
 
-**537** Active Members 
+**1046** Active Members 
 
-16 Premium Members  
-6 Pro MembersMembers Earnings  
-Updated 06-01-04  
- **$88.24**
+24 Premium Members  
+18 Pro MembersMembers Earnings  
+Updated 12-04-04  
+ **$486.12**
 
-|   
-Personal Information  
+[](https://www.paypal.com/us/verified/pal=chumbley%40mchsi.com)
+
+|  Personal Information  
 Is NEVER EVER given out to anyone, this is collected to set up your account and for payment or contact with Smileytraffic.com.
 
 Cookies  
