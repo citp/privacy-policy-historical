@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altru.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208174326id_/http%3A//www.altru.org/Policies/Priv_pol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altru.org privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618020842id_/http%3A//www.altru.org/Policies/Priv_pol.htm) for the most accurate reproduction.*
 
 # Untitled
 
