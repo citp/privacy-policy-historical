@@ -1,23 +1,49 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208075940id_/http%3A//www.wizards.com/company/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403114453id_/http%3A//www.wizards.com/company/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # WIZARDS WEB SITE PRIVACY STATEMENT
 
-_Last modified June 30, 2002_
+_Last modified November 20, 2004_
 
 ### WELCOME! 
 
-The Wizards of the Coast Web site brings you the coolest information about the world of Wizards and provides a first hand look at our games. If you are a parent or guardian and are interested in knowing more about Wizard’s policy regarding the online collection of information from children, we recommend reviewing the Note To Parents below. 
+The Wizards of the Coast Web site brings you the coolest information about the world of Wizards and provides a first hand look at our games. If you are a parent or guardian and are interested in knowing more about Wizard's policy regarding the online collection of information from children, we recommend reviewing the Note To Parents below. 
 
 Wizards respects the privacy rights of its online visitors and is committed to providing you with a secure online environment. We have adopted an Online Privacy Policy ("Privacy Policy") that guides how we collect, store and use the information you provide us online. 
+
+### What does this Privacy Policy apply to?
+
+This privacy policy applies to the following websites operated by Wizards:
+
+  * www.wizards.com
+  * www.wizards.com/magic
+  * www.wizards.com/dnd
+  * www.wizards.com/minis
+  * www.wizards.com/d20modern
+  * www.wizards.com/books
+  * www.wizards.com/duelmasters
+  * www.wizards.com/gijoetcg
+  * www.wizards.com/starwars
+  * www.wizards.com/neopets
+  * www.wizards.com/mlb
+  * wizards.custhelp.com
+  * boards1.wizards.com
+  * www.avalonhill.com
+  * www.starsisterz.com
+
+
+
+Please note that this privacy policy applies only to information submitted and collected online through the website(s) listed above, and does not apply to information that may be collected by Wizards offline. In addition, this privacy policy applies only to sites maintained by Wizards and not to websites maintained by other companies or organizations to which we link. Wizards is therefore not responsible for the content or activities provided on such sites.
 
 ### What information does Wizards collect? 
 
 Wizards wants to give you the most exciting Internet experience possible. To help us figure out what you like and don't like about our sites, we may ask for your opinion from time to time. Wizards may request and/or collect information from you on a voluntary basis when you:
 
   * sign up for Wizards.Community
-  * shop at one of our affiliate online stores 
-  * participate in contests, events or promotions
-  * send questions or comments via e-mail to Wizards customer support
+  * shop at one of our affiliate online stores
+  * give credit card information to make purchases from our website
+  * enter a shipping and billing address when making a purchase
+  * participate in contests, events, or promotions
+  * send questions or comments via e-mail to Wizards customer service
   * submit your resume to us online
   * fill out online surveys
 
@@ -30,14 +56,16 @@ If you are under the age of 13, you will need your parent or guardian's consent 
   * **WIZARDS.COMmunity Chat, Bulletin Boards, and Mailing Lists**  
 Since Wizards' free interactive community activities are moderated, registered members under 13 years of age may participate in such activities upon registration, unless their parent or guardian asks that their registration be disallowed. Personal information of registered users is not accessible by the public unless the member adds it to his or her User Information or is disclosed by the user themselves in a public post. 
   * **Online Stores**  
-Visitors purchasing goods and services through one of our affiliate online store will need to provide a valid credit card number and expiration date, in addition to name, mailing address,phone number and e-mail address. 
+Visitors purchasing goods and services through one of our affiliate online stores will need to provide a valid credit card number and expiration date, in addition to name, mailing address, phone number and e-mail address. 
   * **Promotions  
 ** To participate in some of our promotions, you may be asked to provide an e-mail address or screen name, so that we can let you know if you won a prize. Please do not use your real name for these promotions. For other Wizards promotions, we may request your name and home address in order to send you products or information by regular mail.
   * **E-mail**  
-By allowing you to send e-mail to us, we are not attempting to collect any personal information about you. We will only use personal information (such as name, mailing address and e-mail address) contained in your e-mail to respond to your specific inquiry or comments in the e-mail. Although we may retain your e-mail for a period of time, we will not use any personal information contained in your e-mail for any purpose other than responding to your specific inquiry or comments.  
+By allowing you to send e-mail to us, we are not attempting to collect any personal information about you. We will only use personal information (such as name, mailing address and e-mail address) contained in your e-mail to respond to your specific inquiry or comments in the e-mail. Although we may retain your e-mail for a period of time, we will not use any personal information contained in your e-mail for any purpose other than responding to your specific inquiry or comments.
+
 By allowing you to send postcards or pages to friends, we are not attempting to collect any personal information about you or the person you are e-mailing. We will use the personal information supplied (such as name and e-mail address) only to send the postcard or page as you request and allow the recipient to respond to you. 
+
   * **Resumes**  
-Some of our sites allow for the online submission of resumes. Personal information collected from resumes will be used solely for the purpose of accepting and evaluating candidate submissions for job postings. This information may be shared within Wizards.
+Some of our sites allow for the online submission of resumes. Personal information collected from resumes is not subject to this Privacy Policy. However, we can assure you that such information will be used solely for the purpose of accepting and evaluating candidate submissions for job postings.
   * **Online Surveys**  
 In order to improve the user experience at our Web sites, we may employ online surveys for visitors to volunteer anonymous demographic information about themselves and provide us feedback about why they visit our sites and what we can do to make them better. Information collected through these surveys is anonymous; we cannot identify who is submitting the information or tie it to other personally identifiable information a user may have provided us through another means.
 
@@ -57,15 +85,21 @@ From time to time, Wizards may employ and share its customers' personal informat
 
 We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
 
-Wizards, as a subsidiary of Hasbro, Inc. does not sell, rent, or otherwise disclose personal information collected from and about its users (including children under 13) to third parties. However, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Wizard’s customer information may be transferred to Wizard’s successor or assign, if permitted by and done in accordance with applicable law.
+Wizards, as a subsidiary of Hasbro, Inc. does not sell, rent, or otherwise disclose personal information collected from and about its users (including children under 13) to third parties. However, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Wizard's customer information may be transferred to Wizard's successor or assign, if permitted by and done in accordance with applicable law.
 
-### Cookies and IP Addresses
+### Clear GIFs, Cookies and IP Addresses
+
+Clear GIFs, sometimes called "web bugs," are file objects, usually a graphic image such as a transparent one pixel-by-one pixel GIF (Graphics Interchange Format, one of the two most common file formats for images on the Web), that are placed on a Web page or in an e-mail message to monitor user behavior. The GIF tells us the IP address of the computer that fetched our page, the URL of the page the GIF is on, the time the page was viewed, the type of browser used, and can tell us a previously set cookie value. This anonymous information is returned by the clear GIF to Wizards and we use this information to accurately count visitors across multiple Wizards sites and understand how they navigate and use our network of sites. Wizards does not combine information gathered through clear GIFs with your personal information.
 
 Wizards uses "cookies" to enhance your experience at our Web sites. Cookies are pieces of information that we place on your computer to help us accurately understand how many consumers are visiting a particular site, how often they visit that site and what content they are most interested in viewing. For example, a cookie will allow us to remember certain things based on your Internet Protocol or "IP" address (an IP address is the string of numbers that identifies each sender or receiver of information that is sent across the Internet), such as the time and duration of your visits, how you navigated through our content and where you exited a particular site. 
 
-Wizards' website collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When visitors request pages on Wizards' website, our servers log the visitors' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our community rules [[Code of Conduct](https://web.archive.org/community/main.asp?x=onlineconduct)] or posted [Legal Notice](https://web.archive.org/company/WebSiteLegalNotice.asp), or to protect our service, site, customers, or others. 
+Wizards' website collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When visitors request pages on Wizards' website, our servers log the visitors' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our community rules [Code of Conduct](https://web.archive.org/default.asp?x=community/coc) or posted [Legal Notice](https://web.archive.org/company/WebSiteLegalNotice.asp), or to protect our service, site, customers, or others. 
 
 Some services within Wizards' website, such as certain message boards, may display IP addresses along with the message poster's name, email address, and message. Please review each service prior to use and only use those that disclose information you are comfortable with sharing. 
+
+### Log Files
+
+Other information passively collected by Wizards is in the form of logs - files that record website activity and gather statistics about web users' browsing habits. These entries are generated anonymously, and help Wizards determine (among other things) how many and how often users have visited our Web sites, which pages they've visited, and other similar data. We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and are not associated with any particular user, computer, or browser.
 
 ### Linking to third party sites
 
@@ -73,7 +107,7 @@ To provide relevant information not found on our Web sites and to facilitate onl
 
 ### Opt-out
 
-If you do not want Wizards to send you e-mail or regular mail about our products and/or services, you can opt-out at the time of registration or at the time of information collection. If you are receiving e-mails or regular mail and at a later date you choose to opt-out and have your name removed from Wizard’s e-mailing list, you can do so by using the link included with a Wizards e-mail or by sending an e-mail to webregistration@wizards.com.
+If you do not want Wizards to send you e-mail or regular mail about our products and/or services, you can opt-out at the time of registration or at the time of information collection. If you are receiving e-mails or regular mail and at a later date you choose to opt-out and have your name removed from Wizard's e-mailing list, you can do so by using the link included with a Wizards e-mail or by sending an e-mail to webregistration@wizards.com.
 
 ### Safeguarding your personal information
 
@@ -93,7 +127,7 @@ Thanks. Have fun!
 
 ### NOTE TO PARENTS 
 
-Wizards has developed its Web site to be an enjoyable experience for children (and adults) of all ages. Wizards recognizes that some younger children may not understand some of the information contained on the Web site or how the site operates. That is the purpose of the Privacy Statement. Please discuss this statement with your children so that they will better understand how to use the site and the information they may be asked to provide. Wizards strongly believes that providing its visitors with accurate and adequate notice about the Web site will lead to informed choices and decisions about how to use the site, as well as protect its users' privacy. If you have any questions or comments about our policy, please contact us using the Contact Information provided below. For all other issues, please contact [Customer Service](https://web.archive.org/leaving.asp?url=http://www.hasbro.com/pl/page.customer_care/dn/default.cfm&origin=company_privacystatement).
+Wizards has developed its Web site to be an enjoyable experience for children (and adults) of all ages. Wizards recognizes that some younger children may not understand some of the information contained on the Web site or how the site operates. That is the purpose of the Privacy Statement. Please discuss this statement with your children so that they will better understand how to use the site and the information they may be asked to provide. Wizards strongly believes that providing its visitors with accurate and adequate notice about the Web site will lead to informed choices and decisions about how to use the site, as well as protect its users' privacy. If you have any questions or comments about our policy, please contact us using the Contact Information provided below. For all other issues, please contact [Wizards Customer Service](https://web.archive.org/leaving.asp?url=http://wizards.custhelp.com&origin=company_privacystatement).
 
 ### Teenagers (Ages 13-17)
 
@@ -103,7 +137,7 @@ Wizards may collect personal information from users over 12 and under 18 ("teena
 
 **Collection and Use of Children's Personal Information**
 
-Wizards may collect and store personal information about children under 13 ("children" or "child") if it submitted by way of our registration form and with the parent's verifiable consent. To determine who is younger than 13 years old and whether parental consent is required, we ask all users who wish to register to submit their date of birth. Those users that indicate they are under 13 years of age are directed to our Parental Consent Form. If given verifiable permission from a parent, Wizards may collect and store the following types of personal information about a child under 13: name, email address, mailing address, parent's or guardian's name, and parent's or guardian's email address. Wizards may also collect demographic information about a child such as the child's date of birth, gender, and other preferences; and, combine such information with the child's personal information. Wizards will only collect this information if it is voluntarily submitted to us by the child or parent and provided with the parent's signed permission. We do not gather personal information about a child through the use of passive collection mechanisms such as cookies. For more information on how we use cookies and other information collection tools, please see our section on cookies (provided above).
+Wizards may collect and store personal information about children under 13 ("children" or "child") if it submitted by way of our registration form and with the parent's verifiable consent. To determine who is younger than 13 years old and whether parental consent is required, we ask all users who wish to register to submit their date of birth. Those users that indicate they are under 13 years of age are directed to a Parental Consent Form. If given verifiable permission from a parent, Wizards may collect and store the following types of personal information about a child under 13: name, email address, mailing address, parent's or guardian's name, and parent's or guardian's email address. Wizards may also collect demographic information about a child such as the child's date of birth, gender, and other preferences; and, combine such information with the child's personal information. Wizards will only collect this information if it is voluntarily submitted to us by the child or parent and provided with the parent's signed permission. We do not gather personal information about a child through the use of passive collection mechanisms such as cookies. For more information on how we use cookies and other information collection tools, please see our section on cookies (provided above).
 
 The information that a child provides on his/her registration form may be used to: (a) allow the child to participate in activities on our site (e.g., contests); and, (b) allow us to send the child promotional materials, including information about new products, contests, features and enhancements, special offers, and other events of interest. We may also use the information for our internal marketing and demographic studies, so that we can constantly improve the products and services we provide our visitors and to better meet their needs. 
 
