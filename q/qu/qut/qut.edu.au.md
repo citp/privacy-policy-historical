@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802102847id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629083939id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
 
 # QUT | QUT's privacy and security statement
+
+[[Print-friendly version](http://www.qut.edu.au/general/privacy.jsp?view=print)]
 
 Use of cookies and other information collection technologies  
 Site usage  
@@ -9,7 +11,7 @@ Further information about privacy
 
 Thank you for visiting QUT’s website. QUT is committed to protecting the privacy of users of our website. We understand that visitors to and users of this website are concerned about their privacy and the security of any information that they may provide. 
 
-The Queensland Government has established a privacy regime for Queensland public sector departments and agencies, including statutory authorities such as QUT. The privacy regime has been implemented by administrative means, with the issue of[ Information Standard No 42 – Information Privacy (IS42)](http://www.iie.qld.gov.au/informationstandards/downloads/IS42.pdf) (download PDF). IS42 states that personal information held by Queensland agencies must be responsibly collected and managed in accordance with 11 Information Privacy Principles adapted from the _Commonwealth Privacy Act 1988_. 
+The Queensland Government has established a privacy regime for Queensland public sector departments and agencies, including statutory authorities such as QUT. The privacy regime has been implemented by administrative means, with the issue of [ Information Standard No 42 – Information Privacy (IS42)](http://www.iie.qld.gov.au/informationstandards/downloads/IS42.pdf) (download PDF). IS42 states that personal information held by Queensland agencies must be responsibly collected and managed in accordance with 11 Information Privacy Principles adapted from the _Commonwealth Privacy Act 1988_. 
 
 Like many other websites, we monitor usage of the QUT site to help us to make it useful to as many visitors as possible. Consequently, our website does collect some information about users of the site, and we may also ask you for information in order to provide a service to you. Details of what we collect and how it is used are contained in this statement. 
 
