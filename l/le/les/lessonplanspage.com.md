@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207060609id_/http%3A//www.lessonplanspage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211858id_/http%3A//www.lessonplanspage.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for The Lesson Plans Page
 
@@ -109,3 +109,11 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
 **Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
 
 For any questions, please contact [webmaster@lessonplanspage.com](mailto:webmaster@lessonplanspage.com).
+
+**Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
+
+<http://www.maxonline.com/privacy_policy/index.php>
+
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
