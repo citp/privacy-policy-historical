@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605173201id_/http%3A//teenhollywood.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206221045id_/http%3A//www.teenhollywood.com/privacy.asp) for the most accurate reproduction.*
 
 # TEENHOLLYWOOD.COM - Privacy Policy
 
