@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609211457id_/http%3A//portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224012823id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# PGE - Privacy Policy and Security
+# PGE - Privacy Policy
 
 | 
 
-**Portland General Electric Co. (PGE) believes the confidentiality of customer information is extremely important.**
+**Portland General Electric Co. believes the confidentiality of customer information is extremely important.**
 
 We value our customer relationships and recognize that when you provide personal information, you trust us to protect your privacy. For that reason, we have adopted this policy governing the use of information gathered on our Web site.
 
@@ -20,31 +20,31 @@ We value our customer relationships and recognize that when you provide personal
 
 
 
-[](https://www.truste.org/ivalidate.php?url=www.portlandgeneral.com "This link opens a new browser window to the TRUSTe licensee validation page.")PGE is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.portlandgeneral.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
+[](http://www.truste.org/ivalidate.php?url=www.portlandgeneral.com "This link opens a new browser window to the TRUSTe licensee validation page.")PGE is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.portlandgeneral.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
 
-If users have questions or concerns regarding this statement, you should first contact PGE by e-mail at **[customer_service@pgn.com](https://cs.portlandgeneral.com/emailUs.asp)**. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [**TRUSTe Watchdog Dispute Resolution Process**](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users’ concerns.
+If users have questions or concerns regarding this statement, you should first contact PGE by e-mail at **[customer_service@pgn.com](https://cs.portlandgeneral.com/Secure/ContactUs.aspx "Contact customer service")**. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [**TRUSTe Watchdog Dispute Resolution Process**](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users’ concerns.
 
 **What personal information do we collect?**  
 As a visitor to this Web site, your identity will remain anonymous unless you register to access certain products or services, such as the online account services, or elect to purchase certain goods using your credit card. In such cases, you will be notified that personal information, such as your name, address, phone number and e-mail address, is required. If you are starting a new electric service account, we will ask for additional personal information for credit verification and security purposes only. This information will be used to provide a requested service, to facilitate purchases or to provide you with an online newsletter.
 
 **Online Purchases**  
-In the event that you elect to make a purchase through this Web site, your credit card information will be required. For purchases made on this Web site through our Home Power Protection program, we will collect your credit card information and other personal information such as your name, address and phone number. Your order and shipping information will be shared with our fulfillment vendor. In order to process payment for your purchase we will pass your credit card information to the necessary financial institutions. For purchases made using your credit card through our Home Power Protection program, credit card numbers are received and stored in an encrypted format and remain encrypted in transit at all times. Access to credit card numbers is highly restricted and limited to a very few employees who have a need to process the information. PGE follows the Cardholder Information Security Program guidelines set by VISA for handling credit card information electronically.
+In the event that you elect to make a purchase through this Web site, your credit card information will be required. For purchases made on this Web site through our Surge Protection program, we will collect your credit card information and other personal information such as your name, address and phone number. Your order and shipping information will be shared with our fulfillment vendor. In order to process payment for your purchase we will pass your credit card information to the necessary financial institutions. For purchases made using your credit card through our Surge Protection program, credit card numbers are received and stored in an encrypted format and remain encrypted in transit at all times. Access to credit card numbers is highly restricted and limited to a very few employees who have a need to process the information. PGE follows the Cardholder Information Security Program guidelines set by VISA for handling credit card information electronically.
 
 PGE will not sell or rent the information collected at this site to any party or share it in ways different from those disclosed in this statement.
 
 Back to top
 
 **Communications from the site**  
-**Online services** : We send service-related communications when you transact business on our site, such as paying your electricity bill or ordering a product or service. Users cannot “opt out” of these communications, although you may cancel your online services at any time by following the instructions located under **[Cancel Your Online Services](https://cs.portlandgeneral.com/AllMembers/unregister.asp "Cancel Your Online Services")**
+**Online services** : We send service-related communications when you transact business on our site, such as paying your electricity bill or ordering a product or service. Users cannot “opt out” of these communications, although you may cancel your online services at any time by following the instructions located under **[Cancel Your Online Services](https://cs.portlandgeneral.com/Secure/UnRegister/UnRegister.aspx "Cancel Your Online Services")**
 
 **Newsletter** : When you register for online services you will be given the choice to “opt-in” or “opt-out” of receiving PGE’s _Online News for You_ e-mail newsletter. You may also choose to subscribe to the newsletter without registering for online services. In both instances, you can unsubscribe from the newsletter at any time by following the “Unsubscribe” link in each edition.
 
 Back to top
 
 **How can you update the online services information you have provided?**  
-You can make changes to your online account information by visiting the **[Update Your Information](https://cs.portlandgeneral.com/AllMembers/index_profile.asp "Update Your Information")** section of the site.
+You can make changes to your online account information by visiting the **[Update Your Information](https://cs.portlandgeneral.com/secure/updateaccount/default.aspx "Update Your Information")** section of the site.
 
-If you no longer wish to access your account online, you can cancel your online membership by following the instructions located under **[Cancel Your Online Services](https://cs.portlandgeneral.com/AllMembers/unregister.asp "Cancel Your Online Services")**.
+If you no longer wish to access your account online, you can cancel your online membership by following the instructions located under **[Cancel Your Online Services](https://cs.portlandgeneral.com/Secure/UnRegister/UnRegister.aspx "Cancel Your Online Services")**.
 
 Back to top
 
@@ -90,9 +90,9 @@ As an added security measure, we encourage you to sign out of the interactive po
 Back to top
 
 **Notification of changes**  
-Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.
+The privacy policy was effective as of Jan. 10, 2003. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.
 
 Back to top
 
-**Questions?**  
-We welcome your questions and comments regarding this policy. **[E-mail Customer Service](https://cs.portlandgeneral.com/emailUs.asp)** or call 800-542-8818.
+**Contact information?**  
+We welcome your questions and comments regarding this policy. **[E-mail Customer Service](https://cs.portlandgeneral.com/secure/contactus.aspx "E-mail Customer Service")** or call 800-542-8818. The address for PGE headquarters is 121 SW Salmon St., Portland, OR 97204.
