@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202070748id_/http%3A//www.smud.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206070322id_/http%3A//www.smud.org/info/privacy.html) for the most accurate reproduction.*
 
 # SMUD information
 
 > **TERMS OF USE**
 
-By using this site, user acknowledges and accepts all terms of use outlined herein. User understands unauthorized attempts to upload or change information on this web site is prohibited under the [ Computer Fraud and Abuse Act of 1986](http://www.scccd.cc.ca.us/pages/use_pol/cfaa1986.html).
+By using this site, user acknowledges and accepts all terms of use outlined herein. User understands unauthorized attempts to upload or change information on this web site is prohibited under the [ Computer Fraud and Abuse Act of 1986](http://www.scccd.com/is/fraud.html).
 
 **COPYRIGHT**
 
@@ -23,7 +23,7 @@ Use or modification of materials or information for commercial or profit making 
 
 Sacramento Municipal Utility District reserves all rights for these registered service marks: The Power To Do MoreSM, GreenergySM, and Community SolarSM.
 
-Sacramento Municipal Utility District reserves all rights in use of the District [logo](https://web.archive.org/web/20020202070748id_/http%3A//www.smud.org/images/logo1.gif)
+Sacramento Municipal Utility District reserves all rights in use of the District [logo](https://web.archive.org/web/20021206070322id_/http%3A//www.smud.org/images/hp_graphics/smudlogo.gif)
 
 **THIRD PARTY MATERIALS **
 
@@ -55,13 +55,13 @@ Collected information includes your internet service provider address, your brow
 
 **Information that can be used to identify individual users**
 
-Sensitive customer information will never be stored on our web server or in [cookies](https://web.archive.org/web/20020202070748id_/http%3A//www.smud.org/info/cookie.html). _**Generally**_ **,** customer information will only be used for SMUD purposes and will be treated with the same security precautions as data gathered by other means (i.e., telephone, written forms, mail-in information, etc.). **_As a general rule_** information will **not** be given to outside entities, such as contractors, direct marketers, or other non-SMUD public or private sector organizations **_except when we have your permission or under special circumstances,_ **such as when we believe in good faith that the law requires it or in the good faith belief that such action is necessary to (i) protect and defend the rights and property of SMUD and (ii) act in an emergency to protect the personal safety of our customers or the public.
+Sensitive customer information will never be stored on our web server or in [cookies](https://web.archive.org/web/20021206070322id_/http%3A//www.smud.org/info/cookie.html). _**Generally**_ **,** customer information will only be used for SMUD purposes and will be treated with the same security precautions as data gathered by other means (i.e., telephone, written forms, mail-in information, etc.). **_As a general rule_** information will **not** be given to outside entities, such as contractors, direct marketers, or other non-SMUD public or private sector organizations **_except when we have your permission or under special circumstances,_ **such as when we believe in good faith that the law requires it or in the good faith belief that such action is necessary to (i) protect and defend the rights and property of SMUD and (ii) act in an emergency to protect the personal safety of our customers or the public.
 
 1\. **Registration forms** for Energy & Technology Center classes, sign-up for specific SMUD programs, or requests for specific information may request a user to submit their name, phone number, fax number, street address, e-mail address, account number, or other information that can be used to identify that individual.
 
 2\. **Customer contests** may require specific information that can be used to identify that individual.
 
-3\. This site may use ****[cookies](https://web.archive.org/web/20020202070748id_/http%3A//www.smud.org/info/cookie.html) to deliver personalized content, remember your entries on interactive pages, surveys, or passwords. 
+3\. This site may use ****[cookies](https://web.archive.org/web/20021206070322id_/http%3A//www.smud.org/info/cookie.html) to deliver personalized content, remember your entries on interactive pages, surveys, or passwords. 
 
 4. **E-mail addresses** will only be used to respond to specific customer requests.
 
@@ -88,7 +88,7 @@ E-mail:
 
 **CHILDRENS PRIVACY NOTICE FOR PARENTS**
 
-This web site complies with guidelines specified by the [Children's Online Privacy Rule](http://www.ftc.gov/ogc/coppa1.htm) which became effective on April 20, 2000. The FTC maintains a special Web page at [www.ftc.gov/kidsprivacy ](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/)with more information for children and parents.
+This web site complies with guidelines specified by the [Children's Online Privacy Rule](http://www.ftc.gov/ogc/coppa1.htm) which became effective on April 20, 2000. The FTC maintains a special Web page at <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/> with more information for children and parents.
 
 Currently, this web site does not collect personal information from children under 13 years of age.  Students who are 12 and younger may request information or register to attend SMUD's Science on Saturday or Summer Science classes in the Energy & Technology Center by mail.
 
@@ -168,15 +168,19 @@ E-mail:
   
 Identity of the requesting parent will be verified by SMUD using your account number by e-mail, phone call, or written letter.
 
-[Cookies](https://web.archive.org/web/20020202070748id_/http%3A//www.smud.org/info/cookie.html) may be used for remembering user input on interactive pages, such as games.
+[Cookies](https://web.archive.org/web/20021206070322id_/http%3A//www.smud.org/info/cookie.html) may be used for remembering user input on interactive pages, such as games.
 
-[SMUD privacy statement for children](https://web.archive.org/web/20020202070748id_/http%3A//www.smud.org/info/child_privacy.html)
+[SMUD privacy statement for children](https://web.archive.org/web/20021206070322id_/http%3A//www.smud.org/info/child_privacy.html)
 
 **SECURITY STATEMENT**
 
 The Sacramento Municipal Utility District has created this security statement in order to demonstrate our firm commitment to security.
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under its control. 
+
+Please keep in mind, however, that no data transmission over the Internet or any wireless network can be guaranteed to be 100 percent secure.
+
+As a result, we cannot guarantee the security of any information you transmit using our Web site, and you transmit such information at your own risk. SMUD further does not assume responsbility for use or disclosure of your information that are the result of unauthorized or illegal access to our systems or those of our vendors or partners.
 
 **SSL security is implemented at any stage of the information gather process that requires personal information. **
 
