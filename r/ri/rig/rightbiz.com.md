@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2001-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011025004726id_/http%3A//www.rightbiz.com/ceo-letter.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204223508id_/http%3A//www.rightbiz.com/ceo-letter.html) for the most accurate reproduction.*
 
 # Letter from the CEO of RightBiz Enterprises
 
