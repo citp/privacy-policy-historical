@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the einet.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202150103id_/http%3A//www.einet.net/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einet.net privacy policy that was archived on 2004-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040207185104id_/http%3A//www.einet.net/info/privacy.html) for the most accurate reproduction.*
 
-# Galaxy
+# Galaxy Search Engine & Directory : Serious Searches >> Relevant Results
 
 We at Galaxy, owned and operated by LOGIKA Corporation, understand that the Internet presents an opportunity for us to reach you, the public, in new and exciting ways with information about our programming, interactive content, news, and other forms of interaction. Visitors to our Web sites can be confident that we are very respectful of their privacy concerns. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as name, address or e-mail address, is automatically collected from visitors to our site. 
 
