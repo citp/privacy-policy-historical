@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/FAQ/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/FAQ/privacy.html) for the most accurate reproduction.*
 
 # Kids Domain Privacy Policy
 
@@ -82,9 +82,9 @@ Bedford, TX 76022
 [Tigger@KidsDomain.com](mailto:tigger@kidsdomain.com) 
 
 
-[Kids Home](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/kids.html) \- [Grownups Place](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/grown.html) \- [KD Review](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/review/) \- [Downloads](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/down/)
+[Kids Home](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/kids.html) \- [Grownups Place](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/grown.html) \- [KD Review](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/review/) \- [Downloads](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/down/)
 
 The Kids Domain - www.kidsdomain.com  
-© 2001 Attitude Network, Ltd., part of theglobe.com network, All Rights Reserved  
-Kid's Domain and the Kids Domain Logo are service marks of Attitude Network, Ltd.  
+© 2001 Kaboose Inc., All Rights Reserved  
+Kid's Domain and the Kid's Domain Logo are service marks of Kaboose Inc.  
 Send comments and suggestions to: [tigger@kidsdomain.com](mailto:tigger@kidsdomain.com)
