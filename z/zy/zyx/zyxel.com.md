@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyxel.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601230709id_/http%3A//zyxel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyxel.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209042331id_/http%3A//www.zyxel.com/privacy.htm) for the most accurate reproduction.*
 
 # ZyXEL Privacy Statement
 
@@ -17,9 +17,9 @@ Third Party Sites
 The Site contains links to other sites. ZyXEL doesn't not share the your personal information wither other sites and is not responsible for their privacy practices. 
 
 Questions or Suggestions  
-If you have any question or concern about the disclosure and use of your personal information, please write us at [webmaster@zyxel.com ](mailto:webmaster@zyxel.com%20)
+If you have any question or concern about the disclosure and use of your personal information, please write us at [webmasters@zyxel.com ](mailto:webmasters@zyxel.com%20)
 
-The file was last updated June 15, 2002 
+The file was last updated January 5, 2004 
 
 * * *
 
