@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theromantic.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202055856id_/http%3A//theromantic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theromantic.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408085514id_/http%3A//theromantic.com/privacy.htm) for the most accurate reproduction.*
 
 # Contact Information
 
