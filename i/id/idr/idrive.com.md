@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idrive.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206004200id_/http%3A//www.idrive.com/site/corporate/corp_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrive.com privacy policy that was archived on 2001-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010530213124id_/http%3A//www.idrive.com/site/corporate/corp_privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
