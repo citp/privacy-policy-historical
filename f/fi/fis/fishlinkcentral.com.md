@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishlinkcentral.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603064901id_/http%3A//fishlinkcentral.com/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlinkcentral.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206214631id_/http%3A//www.fishlinkcentral.com/misc/privacy.htm) for the most accurate reproduction.*
 
 # Fish Link Central: Privacy Policy
 
