@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireland-information.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216172200id_/http%3A//www.ireland-information.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireland-information.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411184014id_/http%3A//ireland-information.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for The Information about Ireland Site
 
