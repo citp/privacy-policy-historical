@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401203039id_/http%3A//electricgeneratorsdirect.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2004-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040815004630id_/http%3A//www.electricgeneratorsdirect.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Electric Generators Direct -- Privacy Policy
 
