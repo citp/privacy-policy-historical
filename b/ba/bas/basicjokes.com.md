@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basicjokes.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602211238id_/http%3A//www.basics4life.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicjokes.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202021923id_/http%3A//www.basics4life.com/privacy.php) for the most accurate reproduction.*
 
 # Basics 4 Life Network - Privacy Statement
 
