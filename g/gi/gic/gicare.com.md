@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/jprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/jprivacy.htm) for the most accurate reproduction.*
 
 # Jackson Gastroenterology Privacy Policy
 
-[ ](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/j000001.htm) [ ](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/j000001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/j000001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/jpl0001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/jos0001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/joi0001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/jfu0001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/jin0001.htm) [ ](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/jpt0001.htm)  
-[ ](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/jprivacy.htm)
+[ ](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/j000001.htm) [ ](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/j000001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/j000001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/jpl0001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/jos0001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/joi0001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/jfu0001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/jin0001.htm) [ ](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/jpt0001.htm)  
+[ ](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/jprivacy.htm)
 
-[ ](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/pated/e000001.htm)  
+[ ](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/pated/e000001.htm)  
 [ ](file:///Macintosh%20HD/My%20Work/Web%20sites/Gicare-A-L/web/www/pated/e000001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/pated/ecd0001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/pated/epd0001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/pated/edt0001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/pated/edr0001.htm) [   
-](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/pated/ei00001.htm) [ ](https://web.archive.org/web/20031202234203id_/http%3A//www.gicare.com/pated/elk0001.htm)
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/pated/ecd0001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/pated/epd0001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/pated/edt0001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/pated/edr0001.htm) [   
+](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/pated/ei00001.htm) [ ](https://web.archive.org/web/20040603221518id_/http%3A//www.gicare.com/pated/elk0001.htm)
 
 |  | 
 
