@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607103117id_/http%3A//www.fhb.com/hm_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215094029id_/http%3A//www.fhb.com/hm_privacy.htm) for the most accurate reproduction.*
 
-# First Hawaiian Bank
+# First Hawaiian Bank: Privacy Policy
+
+  
+|  | 
+
+Privacy Policy
 
 **How First Hawaiian Protects your Privacy**
 
-  
 We at First Hawaiian take seriously our responsibility to protect the privacy and security of individual customers' financial information.
 
 We want you to understand:
@@ -103,11 +107,11 @@ We may disclose all your nonpublic personal information to:
 
 
 
-**INFORMATION WE CAN SHARE WITH OUR CORPORATE FAMILY ABOUT YOU  \-- UNLESS YOU TELL US NOT TO.**
+**INFORMATION WE CAN SHARE WITHIn OUR CORPORATE FAMILY ABOUT YOU  \-- UNLESS YOU TELL US NOT TO.**
 
-Companies in First Hawaiian's corporate family include First Hawaiian Bank, First Hawaiian Insurance and other affiliated financial institutions who work with us to provide products and services that may benefit you. We are permitted by law to share information about our experience or transactions with you or your account with members of our corporate family.
+Companies in First Hawaiian's corporate family include First Hawaiian Bank and other affiliated financial institutions who work with us to provide products and services that may benefit you. We are permitted by law to share information about our experience or transactions with you or your account with members of our corporate family.
 
-**Unless you tell us not to ,** we may also share with these companies in our corporate family other information about you including:
+**Unless you tell us not to,** we may also share with these companies in our corporate family other information about you including:
 
   1. Information we obtained from an application you completed, such as your income or marital status;
   2. Information we obtained from a consumer report, such as your credit score or credit history;
@@ -116,7 +120,7 @@ Companies in First Hawaiian's corporate family include First Hawaiian Bank, Firs
 
 
 
-**HOW TO TELL US _NOT_ TO SHARE THIS INFORMATION WITHIN OUR CORPORATE FAMILY**
+**HOW TO TELL US _NOT_ TO SHARE THIS INFORMATION WITHIN OUR CORPORATE FAMILY.**
 
 If you prefer that we **_not_** share the types of information described above in #1 - 4 with companies in our corporate family, you may direct us not to share this information by filling out an "Opt-Out Request" form, available at any First Hawaiian branch, and mailing it back to the address on the form. (The opt-out will apply to all your First Hawaiian accounts.)
 
@@ -133,22 +137,21 @@ Within First Hawaiian, access to nonpublic personal information about you is lim
 
 You may sometimes provide medical information to us for a specific financial purpose (for example, to request insurance coverage.) We recognize that, when you do provide such information, it should only be used for the intended purpose. We do not share medical or health information among our family of companies or with third parties except to process transactions or to provide services you have requested or initiated, such as an insurance application. We do not use personal medical information about our customers for marketing purposes or in making credit decisions.
 
-**FREQUENTLY ASKED QUESTIONS.**
+**HOW TO PROTECT YOUR CREDIT  INFORMATION**. **  
+We may report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report.**
 
-**Q. ACCURACY OF INFORMATION**. **How can I make sure that the information you have about me is accurate?  
-A.** If you believe that we have incorrect information or have reported inaccurate information to a credit bureau, please write or call us at the address or telephone number listed on your account statement. Or you may call 844-4444 (from Oahu) or call toll-free 888-844-4444 (from the Mainland U.S. or Neighbor Islands). From Guam, call (671) 475-7900. From CNMI, call (670) 235-3090.
+Your credit report includes personal and financial information such as your account balances and account payment history for credit cards, mortgages or other consumer loans. By law, an individual's credit report can be obtained by insurance companies, banks and others when needed to transact business with you.
 
-**Q. TELEMARKETING. _(Telephone Marketing)_ Do you give my personal information to outside telemarketing companies?  
-A.** No. At no time do we use outside telemarketing companies to sell First Hawaiian products and services, nor do we sell or give customer information to outside telemarketing companies to use to solicit business from you.
+It's a good idea to check your report periodically with one or more of the major credit bureaus listed below to see that the information is accurate and up to date.
 
-**Q. CREDIT REPORTS. What information do credit bureaus have about me? How can I make sure it's correct?  
-A.** Your credit report includes personal and financial information such as your account balances and account payment history for credit cards, mortgages or other consumer loans. By law, an individual's credit report can be given to insurance companies, banks and others when needed to transact business with you.
+Equifax, Inc. (800) 685-1111 www.equifax.com  
+Trans Union Corporation (800) 888-4213 www.tuc.com  
+Experian (888) 397-3742 www.experian.com
 
-It's a good idea to check your report periodically to see that the information is accurate and up to date. For a fee, each of the major credit bureaus below will supply you with a copy. However, if you have been denied credit within the past 60 days because of information in your credit report, you are entitled to a free copy.
+If you believe that we have incorrect information or have reported inaccurate information to a credit bureau, please write or call us at the address or telephone number listed on your account statement. Or you may call 844-4444 (from Oahu) or call toll-free 888-844-4444 (from the Mainland U.S. or Neighbor Islands). From Guam, call (671) 475-7900. From CNMI, call (670) 235-3090.
 
-Equifax, Inc. (800) 997-2493 [www.equifax.com](http://www.equifax.com/)  
-Trans Union Corp. (800) 916-8800 [www.tuc.com](http://www.tuc.com/)  
-Experian (888) 397-3742 [www.experian.com](http://www.experian.com/)
+**TELEMARKETING. _(Telephone Marketing)  
+_**_At no time do we use outside telemarketing companies to sell First Hawaiian products and services, nor do we sell or give customer information to outside telemarketing companies to use to solicit business from you._
 
 **PROTECT YOUR GOOD NAME.**
 
@@ -160,9 +163,16 @@ You can take steps to secure your personal information and guard against identit
   * Tear up receipts, bank statements and unused credit card offers before throwing them away.
   * Review account statements regularly for unauthorized charges.
   * If you suspect your identity has been stolen:  
-1\. Contact First Hawaiian Bank immediately so we can start closing accounts and clearing your name. Call (808) 844-4444 (from Oahu) or call toll-free (888) 844-4444 (from the Mainland U.S. or Neighbor Islands). From Guam, call (671) 475-7900. From CNMI, call (670) 235-3090.  
-2\. File a police report and call the fraud units of the major credit bureaus: Trans Union (800) 680-7289, Experian (800) 397-3742 and Equifax (800) 525-6285.  
+1\. Contact First Hawaiian Bank immediately so we can start closing accounts and clearing your name. Call 844-4444 (from Oahu) or call toll-free (888) 844-4444 (from the Mainland U.S. or Neighbor Islands). From Guam, call (671) 475-7900. From CNMI, call (670) 235-3090.  
+2\. File a police report and call the fraud units of the major credit bureaus: Trans Union (800) 680-7289, Experian (888) 397-3742 and Equifax (800) 525-6285.  
 3\. Report the incident to the toll-free Identity Theft Hotline of the Federal Trade Commission at 1-877-ID THEFT (438-4338). Counselors there can help you resolve problems.  
-4\. Learn more about identity theft at [www.consumer.gov/idtheft](http://www.consumer.gov/idtheft)
+4\. Learn more about identity theft at www.consumer.gov/idtheft
 
 
+
+**Changes To Our Privacy Policy**
+
+If you request and continue to receive advice or special offers from First Hawaiian, you will be notified by email if there are major changes to the Internet Privacy Policy. If you have a consumer account with First Hawaiian, you will be notified by mail if there are major changes to the First Hawaiian Privacy Policy.
+
+**Effective Date**  
+The privacy policy is current as of 12/1/04.
