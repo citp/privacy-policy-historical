@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmcu.org privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629162252id_/http%3A//www.lmcu.org/footer_links/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmcu.org privacy policy that was archived on 2004-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040808163752id_/http%3A//www.lmcu.org/footer_links/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
