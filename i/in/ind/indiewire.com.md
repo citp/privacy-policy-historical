@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiewire.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218003232id_/http%3A//www.indiewire.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiewire.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601112502id_/http%3A//www.indiewire.com/about/privacy.html) for the most accurate reproduction.*
 
 # indieWIRE - Privacy Statement
 
