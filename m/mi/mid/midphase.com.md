@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609232946id_/http%3A//midphase.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010613id_/http%3A//midphase.com/privacy.shtml) for the most accurate reproduction.*
 
-# midPhase Mega-PHASE Hosting Platform - Introducing a whole new phase in hosting!
+# midPhase Services, Inc. - Cheap Web Hosting & Quality Customer Service. Home of Mega-PHASE!
 
 **Privacy Policy Statement**
 
-This is the web site of midPhase Services, LLP. (midphase.com)
+This is the web site of midPhase Services, Inc. (midphase.com)
 
 Our postal for legal and privacy issues is satellite office:  
 PO Box 53 Bowling Green, KY, 42102-0053  
