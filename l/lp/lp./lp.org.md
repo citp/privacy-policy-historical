@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625030036id_/http%3A//www.lp.org/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217013853id_/http%3A//www.lp.org/legal.html) for the most accurate reproduction.*
 
 # Libertarian Party: Online Privacy Policy
 
@@ -9,12 +9,12 @@ Are you a Libertarian?
 [](https://web.archive.org/quiz/)  
 Take the **World's Smallest Political Quiz** and find out!
 
-First time here? Try our new [WWW Site Tour](https://web.archive.org/web/20040625030036id_/http%3A//www.lp.org/tour/index.php?screen=0) and see what we have to offer.
+First time here? Try our new [WWW Site Tour](https://web.archive.org/web/20041217013853id_/http%3A//www.lp.org/tour/index.php?screen=0) and see what we have to offer.
 
-The [LP News](https://web.archive.org/web/20040625030036id_/http%3A//www.lp.org/lpnews/) is the official newspaper of the Libertarian Party.
+The [LP News](https://web.archive.org/web/20041217013853id_/http%3A//www.lp.org/lpnews/) is the official newspaper of the Libertarian Party.
 
 Plan for [Upcoming Events.  
-](https://web.archive.org/web/20040625030036id_/http%3A//www.lp.org/calendar/)
+](https://web.archive.org/web/20041217013853id_/http%3A//www.lp.org/calendar/)
 
   
   
