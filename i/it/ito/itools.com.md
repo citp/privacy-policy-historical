@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itools.com privacy policy that was archived on 2003-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030808181451id_/http%3A//itools.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itools.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623174557id_/http%3A//itools.com/info/privacy) for the most accurate reproduction.*
 
 # iTools Privacy Statement
 
@@ -27,6 +27,6 @@
 > 
 > ### Contact Information
 >
->> If users have questions or concerns regarding this statement, they should contact our Privacy Group by sending an email to [privacy@itools.com](mailto:privacy@itools.com)
+>> If users have questions or concerns regarding this statement, they should contact our Privacy Group by sending an email to [webprivacy@itools.com](mailto:webprivacy@itools.com)
 
 This page is [http://www.itools.com/info/privacy/](https://web.archive.org/info/privacy/)
