@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masslive.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622104707id_/http%3A//masslive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masslive.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207093838id_/http%3A//www.masslive.com/privacypolicy) for the most accurate reproduction.*
 
 # MassLive.com: Privacy Policy
 
@@ -62,7 +62,7 @@ Privacy Policy Coordinator
 41 Taylor Street  
 Springfield, MA 01103 
 
-|  | [](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/showcase/sliding.ssf/NQS/199287886/SponsorRight/default/empty.gif/64316564656561663365663538393230)   
+|  | [](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/showcase/sliding.ssf/NQS/626573008/SponsorRight/default/empty.gif/64316564656561633366643266353130)   
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
@@ -72,7 +72,7 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/privacypolicy/index.ssf/NQS/1322437263/Tile1/MASSLIVE/BERTERACP02MA02/bert190_03.gif/64316564656561663365663538393230)   
+[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/privacypolicy/index.ssf/NQS/241045311/Tile1/MASSLIVE/BERTDODGE02MA02/bertdodge_ramitT2.gif/64316564656561633366643266353130)   
   
   
 
