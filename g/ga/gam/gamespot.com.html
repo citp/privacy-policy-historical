@@ -1,411 +1,501 @@
-<!--The following is the downloaded HTML source of the gamespot.com privacy policy that was archived on 1999-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19990428074250id_/http%3A//gamespot.com/misc/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamespot.com privacy policy that was archived on 2000-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001110135000id_/http%3A//www.zdnet.com/filters/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>GameSpot's Privacy Statement</title><link rel="stylesheet" type="text/css" href="/shared/basic.css" title="style1"></head>
-
-
-
-<body bgcolor="#000000" background="/shared/bg.gif" text="#FFFFbb" link="#07F8D0" alink="#FF0000" vlink="#00B598">
-
-<table border="0" width="575" cellpadding="0"><tbody><tr><td valign="center"><a href="/index.html"><img src="/shared/gamespot_logo.gif" alt="T H E   G A M E S P O T   N E T W O R K" width="102" height="102" border="0"></a></td>
-<td valign="bottom"><script language="JavaScript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>ZDNet: Privacy</title>
+<meta http-equiv="expires" content="Tue, 20 Aug 1996 01:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<!-- DD2: 10/19/2000 13:09:31 -->
+<script language="JavaScript">
 <!--
-if (navigator.appName == "Netscape" && parseFloat(navigator.appVersion) >= 4.02) {
-    document.writeln('')
-    document.writeln('<ILAYER ID="j1" visibility="hide" WIDTH="468" HEIGHT="60"></ILAYER>')
+
+function checkOS() {
+  if(navigator.userAgent.indexOf('Linux') != -1)
+    { var OpSys = "Linux"; }
+  else if((navigator.userAgent.indexOf('Win') != -1) &&
+  (navigator.userAgent.indexOf('95') != -1))
+    { var OpSys = "Windows95"; }
+  else if(navigator.userAgent.indexOf('Win') != -1)
+    { var OpSys = "Windows3.1 or NT"; }
+  else if(navigator.userAgent.indexOf('Mac') != -1)
+    { var OpSys = "Macintosh"; }
+  else { var OpSys = "other"; }
+  return OpSys;
 }
-	else {
+
+var OpSys = checkOS();
+
+beginRollover = false;// This handles a bug in Nav4.0x that executes the code too quickly.
+
+// convert all characters to lowercase to simplify testing 
+var agt=navigator.userAgent.toLowerCase(); 
+// *** BROWSER VERSION *** 
+// Note: On IE5, these return 4, so use is_ie5up to detect IE5. 
+var is_major = parseInt(navigator.appVersion); 
+var is_minor = parseFloat(navigator.appVersion); 
+
+var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) 
+            && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1) 
+            && (agt.indexOf('webtv')==-1)); 
+var is_nav2 = (is_nav && (is_major == 2)); 
+var is_nav3 = (is_nav && (is_major == 3)); 
+var is_nav4 = (is_nav && (is_major == 4)); 
+var is_nav4up = (is_nav && (is_major >= 4)); 
+var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) || 
+                      (agt.indexOf("; nav") != -1)) ); 
+var is_nav5 = (is_nav && (is_major == 5)); 
+var is_nav5up = (is_nav && (is_major >= 5)); 
+
+var is_ie   = (agt.indexOf("msie") != -1); 
+var is_ie3  = (is_ie && (is_major < 4)); 
+var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) ); 
+var is_ie4up  = (is_ie  && (is_major >= 4)); 
+var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) ); 
+var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4); 
+var isIE4, isIE4PC, isNav4PC, isNav4, isNav3;
+
+if (is_ie4 || is_ie4up || is_nav5 || is_nav5up) {
+	isIE4 = true;
+	if (OpSys != "Macintosh") {
+		isIE4PC = true;
+	} 
+} else if (is_nav4) {
+	isNav4 = true;
+	if (OpSys != "Macintosh") {
+		isNav4PC = true;
+	} 
+} else if  (is_nav) {
+	isNav3 = true;	
+}
+
+self.name = "parentWin";
+function openDec(url, name, w, h) {
+        popupWin = window.open(url, name, 'resizable=1,scrollbars=1,width=' + w + ',height=' + h + '');
+    // focus window (only for Navigator >= 3.0)
+    if ( (navigator.appName != "Microsoft Internet Explorer") && (navigator.appVersion.substring(0,1) == "3") )
+    popupWin.focus();
+}
+if (OpSys == "Linux") {
+	document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet-linux.css" TITLE="ZDNet Planet Styles - Linux">');
+} else {
+	document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet.css" TITLE="ZDNet Planet Styles">');
+	if (isNav4PC) {
+		document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet-ns.css" TITLE="ZDNet Planet Styles - Netscape">');
+	}
+}
+//-->
+</script><link rel="STYLESHEET" type="text/css" href="http://www.zdnet.com/graphics/styles/planet-linux.css" title="ZDNet Planet Styles - Linux"></head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#333399" vlink="#0033CC" alink="#6666FF" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
+ <script language="JavaScript1.2">
+if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:610">');}
+</script><div style="position:relative;top:0;left:0;width:610">
+ <!-- START TOPTABLE -->
+<!--START TOPNAV-->
+ 
+
+<!-- TOP NAV TABLE -->
+<table width="610" border="0" cellpadding="0" cellspacing="0" bgcolor="#0066CC">
+<tbody><tr><td align="center" valign="middle" height="20"> 
+<a class="tlink" href="http://www.zdnet.com/special/filters/sc/camera/" target="_top">Cameras</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/reviews" target="_top">Reviews</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/shopping/" target="_top">Shop</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/business/" target="_top">Business</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/help" target="_top">Help</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/news" target="_top">News</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/equip" target="_top">Electronics</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/games" target="_top">GameSpot</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/special/filters/giftguide/" target="_top">Holiday</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/downloads" target="_top">Downloads</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/developer" target="_top">Developer</a></td></tr>
+</tbody></table>
+<!-- END TOP NAV TABLE -->
+<!--END TOPNAV-->
+<table border="0" width="610" cellpadding="0" cellspacing="0">
+ 
+	<tbody><tr><td align="LEFT" valign="BOTTOM" width="472" bgcolor="#333399">
+
+	<map name="zdnetlogo">
+	<area shape="RECT" coords="4,29,72,77" href="http://www.zdnet.com" target="_top">
+	</map>
+	<img src="http://www.zdnet.com/graphics/heads/908.gif" width="472" height="80" alt="Privacy" usemap="#zdnetlogo" border="0"><br>
+	</td>
+	<td align="CENTER" valign="MIDDLE" bgcolor="#333399">
+	<!--START PPLS-->
+	
+	
+	<table border="0" cellpadding="0" cellspacing="0" width="134">
+	<tbody><tr><td align="LEFT">
+
+<font color="#FFFFFF" size="-2">
+• <a href="http://chkpt.zdnet.com/chkpt/zdpp01/creative.zdnet.com/adverts/micro/msnexplorer/" target="_top"><span class="tsquirt">Get Explorer Now</span></a><br>
+<span class="spacer4">&nbsp;</span><br>
+• <a href="http://chkpt.zdnet.com/chkpt/zdpp02/computershopper.zdnet.com/texis/cs/topsellers.html" target="_top"><span class="tsquirt">Most Popular Products</span></a><br>
+<span class="spacer4">&nbsp;</span><br>
+• <a href="http://chkpt.zdnet.com/chkpt/zdpp03/www.zdnet.com/swlib/exclusiv.html" target="_top"><span class="tsquirt">Free Downloads</span></a><br>
+</font>
+</td></tr></tbody></table><!--END PPLS-->
+<img src="http://www.zdnet.com/graphics/clear.gif" width="138" height="1" alt=""><br>
+</td></tr></tbody></table>
+
+
+	
+		  <table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tbody><tr>
+		<td align="LEFT" width="8">&nbsp;</td><td align="LEFT" valign="TOP" width="602">
+		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
+		<a class="bread" href="http://www.zdnet.com">ZDNet</a>&nbsp;<span class="bread">&gt;</span> <span class="breadb">Privacy</span><br>  <span class="spacer4">&nbsp;</span><br>
+		</td>
+		 </tr></tbody></table>
+		<table border="0" width="610" cellpadding="0" cellspacing="0">
+		<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#999999">
+		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
+		</td></tr></tbody></table>
+	 
+		<!--START AD TABLE-->
+		<table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tbody><tr>
+		 <td align="CENTER" valign="TOP">
+		<span class="spacer6">&nbsp;</span><br>
+		<!-- START BANNER AD -->
+		<!-- Rebecca e40:12372 -->
+
+<!--ba--><font size="4"><a href="http://ads3.zdnet.com/c/g=r024&amp;c=a54598&amp;idx=2000.11.10.08.50.01/creative.zdnet.com/adverts/micro/msnexplorer/" target="_top"><img src="http://ads3.zdnet.com/i/g=r024&amp;c=a54598&amp;idx=2000.11.10.08.50.01/http://images.zdnet.com/adverts/imp/c17627/exp_contest_bn_browse_468x60.gif" height="60" width="468" border="1" alt="Click Here!"></a></font><!--bcg--><img src="http://gserv.zdnet.com/clear/SSEL=&amp;SSCH=&amp;SSNS=&amp;SSPR=&amp;SSTP=/ns.gif?a54598+973864201+r024+rh=" height="1" width="1"><img src="http://bcs.zdnet.com/prism/7/SSEL=&amp;SSCH=&amp;SSNS=&amp;SSPR=&amp;SSTP=" height="1" width="1"><!--ecg--><br><!--ea-->
+
+ <!-- END BANNER AD -->
+		<span class="spacer6">&nbsp;</span><br></td>
+		</tr></tbody></table>
+		<!--END AD TABLE-->
+		<table border="0" width="610" cellpadding="0" cellspacing="0">
+		<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#999999">
+		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
+		</td></tr></tbody></table>
+	 
+		<!--START SEARCH TABLE-->
+		<table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tbody><tr><td align="CENTER" valign="MIDDLE">
+		<span class="spacer4">&nbsp;</span><br>
+		<!--SEARCH-->
+		<script language="Javascript">
+<!--
+function submit_it () {
+	if (document.zdform.db[1].selected) {
+  		document.directform.Utext.value = document.zdform.Utext.value; 
+    	document.directform.submit();
+  	} else {
+  		if (document.zdform.db[0].selected) {
+			document.zdform.Uch.value = '';
+		}
+  		document.zdform.submit();
+  	}
 }
 //-->
 </script>
-<ilayer id="j1" visibility="hide" width="468" height="60"></ilayer>
 
 
-<noscript>
-<A HREF="http://ad.doubleclick.net/jump/gamespot.com/page;sz=468x60;ord=56480?">
-<IMG SRC="http://ad.doubleclick.net/ad/gamespot.com/page;sz=468x60;ord=56480?" height=60 width=468 border=0></A>
-</noscript>
 
-<nolayer>
-<iframe src="http://ad.doubleclick.net/adi/gamespot.com/page;sz=468x60;ord=56480?" name="topad" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<A HREF="http://ad.doubleclick.net/jump/gamespot.com/page;sz=468x60;ord=56480?">
-<IMG SRC="http://ad.doubleclick.net/ad/gamespot.com/page;sz=468x60;ord=56480?" height=60 width=468 border=0></A>
-</iframe>
-</nolayer>
+
+	 <!-- START SEARCH -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td>
+<table border="0" cellpadding="0" cellspacing="0" align="CENTER">
+<tbody><tr><form name="zdform" method="get" action="http://xlink.zdnet.com/cgi-bin/texis/xlink/xlink/search.html" onsubmit="submit_it();return(false);"></form><td align="RIGHT" valign="MIDDLE" rowspan="2">
+<span class="search">Search For:</span></td>
+<td align="CENTER" valign="MIDDLE" rowspan="2">
+&nbsp;</td>
+<td align="LEFT" valign="MIDDLE" rowspan="2">
+<input type="hidden" name="Uch" value="">
+<input type="hidden" name="Utype" value="D">	
+<input type="TEXT" name="Utext" size="18">&nbsp;&nbsp;<span class="tdrop">
+<select name="db" class="tdrop">
+<option value="zd">&nbsp;All ZDNet&nbsp;</option>
+<option value="web">&nbsp;The Web&nbsp;</option>
+</select></span>&nbsp;&nbsp;<input type="submit" value="  GO  " onclick="submit_it();"></td>
+<td align="LEFT" rowspan="2">
+&nbsp;&nbsp;</td>
+<td align="LEFT" valign="MIDDLE">
+<span class="v10">•&nbsp;<a href="http://www.zdnet.com/filters/searchtips">Search Tips</a></span></td></tr>
+<tr><td align="LEFT" valign="MIDDLE">
+<span class="v10">•&nbsp;<a href="http://xlink.zdnet.com/cgi-bin/texis/xlink/psearch/search.html">Power Search</a></span></td><form name="directform" method="get" action="http://xlink.zdnet.com/cgi-bin/texis/xlink/websearch/search.html"></form>
+<input type="hidden" name="cmd" value="zd_qry">
+<input type="hidden" name="Utext" value="dvd"></tr></tbody></table>
 </td></tr></tbody></table>
+ <!--END SEARCH-->
+		<span class="spacer4">&nbsp;</span><br></td>
+		</tr>
+		<tr><td align="left" valign="top" bgcolor="#999999">
+		<img src="http://www.zdnet.com/graphics/clear.gif" height="2" width="1" alt=""></td></tr>
+		</tbody></table>
+		<!--END SEARCH TABLE-->
+	  <!-- END TOPTABLE --><script language="JavaScript1.2">
+if (isIE4PC) {document.write('</DIV>');}
+</script></div>
 
+	
+		<script language="JavaScript">
+if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:630">');}
+if ((isNav3) || (isNav4)) {document.write('<TABLE WIDTH="610" CELLPADDING="0" CELLSPACING="0" BORDER="0"><TR><TD VALIGN="TOP" WIDTH="142">');}
+</script><div style="position:relative;top:0;left:0;width:630">
+<table width="142" cellpadding="0" cellspacing="0" border="0" align="LEFT">
 
-<table border="0" width="575" cellpadding="0"><tbody><tr><td width="130" valign="top" rowspan="2"><!--sidenav--><br>
+	<tbody><tr>
+	<td align="LEFT" valign="MIDDLE" rowspan="2">
+	<img src="/graphics/clear.gif" width="4" height="1" alt=""></td>
+	<td align="LEFT" valign="TOP" width="130">
+	<span class="spacer8">&nbsp;</span><br>
+	 </td>
+	<td align="LEFT" valign="MIDDLE">
+	<img src="/graphics/clear.gif" width="8" height="1" alt=""></td>
+	</tr>
+<tr>
+<td valign="TOP">
 
-<font face="arial, verdana, helvetica" size="2"><b><a href="/index.html"><font color="#CE3100"><span class="red"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''"><span class="sidenav">GameSpot</span></font></span></font></a></b><font color="#CE3100"><br>
+	<!--BEGIN LEFT COLUMN TABLE-->
+<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#EEEEEE">
+<tbody><tr><td align="LEFT" valign="TOP">
+<span class="lhead2">Pick a Topic:</span><br>
+<span class="spacer6">&nbsp;</span><br>
 
-<font face="arial, verdana, helvetica" color="#CE3100" size="2"><span class="sidenav"><b>
-&nbsp;&nbsp;<a href="/action/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">action</font></span></a><br>
-&nbsp;&nbsp;<a href="/adventure/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">adventure</font></span></a><br>
-&nbsp;&nbsp;<a href="/driving/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">driving</font></span></a><br>
-&nbsp;&nbsp;<a href="/puzzle/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">puzzle</font></span></a><br>
-&nbsp;&nbsp;<a href="/rpg/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">role-playing</font></span></a><br>
-&nbsp;&nbsp;<a href="/simulation/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">simulation</font></span></a><br>
-&nbsp;&nbsp;<a href="/sports/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">sports</font></span></a><br>
-&nbsp;&nbsp;<a href="/strategy/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">strategy</font></span></a><br>
-&nbsp;&nbsp;<a href="http://www.gamespot.com/hardware/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">hardware</font></span></a><br>
-<br>
+<a href="http://www.zdnet.com/reviews/"><span class="lhead">Reviews</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/products/hardwareuser/"><span class="ldeck">Hardware</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/products/softwareuser/"><span class="ldeck">Software</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/products/filter/guide/0,7267,1500113,00.html"><span class="ldeck">Desktops</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/reviews/"><span class="ldeck">More...</span></a><br>
 
-&nbsp;&nbsp;<a href="http://headline.gamespot.com/news/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">news</font></span></a><br>
-&nbsp;&nbsp;<a href="/reviews.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">reviews</font></span></a><br>
-&nbsp;&nbsp;<a href="/previews.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">previews</font></span></a><br>
-&nbsp;&nbsp;<a href="/hints.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">hints</font></span></a><br>
-&nbsp;&nbsp;<a href="http://shareware.gamespot.com/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">downloads</font></span></a><br>
-<br><br></b></span></font></font><p></p>
+<span class="spacer6">&nbsp;</span><br>
 
-&nbsp;
-<!-- 9/2/98 good button stuff -->
+<a href="http://www.zdnet.com/shopping/"><span class="lhead">Shopping</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://computershopper.zdnet.com/texis/cs/baseframe.html"><span class="ldeck">Special Deals</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://zdnet.e-centives.com/"><span class="ldeck">Digital Coupons</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://auctions.zdnet.com"><span class="ldeck">Tech Auctions</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/shopping/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/business/"><span class="lhead">Business &amp; Tech</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/icom/e-business/"><span class="ldeck">E-Commerce</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/enterprise"><span class="ldeck">Enterprise</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/enterprise/linux"><span class="ldeck">Linux</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/business/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/help/"><span class="lhead">Help &amp; Learning</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdhelp/filters/subfilter/0,7212,6002585,00.html"><span class="ldeck">Tips</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdhelp/filters/subfilter/0,7212,6002354,00.html"><span class="ldeck">How To's</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdhelp/filters/helpfinder/0,7562,6006063,00.html"><span class="ldeck">Software Help</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/help/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/news/"><span class="lhead">Tech News</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/anchordesk/"><span class="ldeck">AnchorDesk</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdnn/computing"><span class="ldeck">Computing</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdnn/internet"><span class="ldeck">Internet</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/news/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/investing/"><span class="lhead">Investing</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdii.com/headline_scan.asp"><span class="ldeck">News</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdii.com/thedayahead.asp"><span class="ldeck">Analysis</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdii.com/market_summary.asp"><span class="ldeck">Markets</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/investing/"><span class="ldeck">More...</span></a><br>
+ 
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/games/"><span class="lhead">Games</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/games/"><span class="ldeck">PC</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.videogames.com/psx/index.html"><span class="ldeck">PlayStation</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.videogames.com/n64/index.html"><span class="ldeck">N64</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.videogames.com/dream/"><span class="ldeck">Dreamcast</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/games/"><span class="ldeck">More...</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/techlife/"><span class="lhead">Tech Life</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/familypc/"><span class="ldeck">Family</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/equip/"><span class="ldeck">Electronics</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/yil/"><span class="ldeck">The Web</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/techlife/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/downloads/"><span class="lhead">Downloads</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://hotfiles.zdnet.com/cgi-bin/texis/swlib/hotfiles/search.html?link=1&amp;Usrt=download&amp;Udownloads=20000"><span class="ldeck">Most Popular</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www5.zdnet.com/mac/download.html"><span class="ldeck">Macintosh</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.palmpilotsoftware.com"><span class="ldeck">Palm</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/downloads/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/developer/"><span class="lhead">Developer</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/devhead/filters/html/"><span class="ldeck">HTML</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/devhead/filters/java/"><span class="ldeck">Java</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/devhead/resources/scriptlibrary/"><span class="ldeck">ScriptLibrary</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/developer/"><span class="ldeck">More...</span></a><br>
+<span class="spacer8">&nbsp;</span><br>
+</td></tr></tbody></table>
+<!-- END LEFT COLUMN TABLE--></td>
+<td align="LEFT" valign="MIDDLE">
+<img src="/graphics/clear.gif" width="8" height="1" alt=""></td>
+</tr>
+</tbody></table>
 <script language="JavaScript">
 <!--
-
-hasLayers = (navigator.appName.substring(0,8) == "Netscape" && parseFloat(navigator.appVersion) >= 4.02)
-hasIframes = (navigator.appName.substring(0,9) == "Microsoft" && parseFloat(navigator.appVersion) >= 4)
-obeysNoscript = (navigator.appName.substring(0,8) == "Netscape" && parseFloat(navigator.appVersion) >= 3) || (navigator.appName.substring(0,9) == "Microsoft" && parseFloat(navigator.appVersion) >= 2)
-
-
-if (hasLayers && obeysNoscript) {
-    document.writeln('<ILAYER ID="j2" visibility="hide" WIDTH="120" HEIGHT="90"></ILAYER>')
-} else {
-	if (hasIframes && obeysNoscript) {
-		document.writeln('<IFRAME SRC="http://ad.doubleclick.net/adi/gamespot.com/nav_button;sz=120x90;ord=56480?" name="topad" width="120" Height="90" FrameBorder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">')
-		document.writeln('</IFRAME>')
-	} else {
-		if (obeysNoscript && !hasLayers && !hasIframes) {
-			document.writeln('<A HREF="http://ad.doubleclick.net/jump/gamespot.com/nav_button;sz=120x90;ord=56480?">')
-			document.writeln('<IMG SRC="http://ad.doubleclick.net/ad/gamespot.com/nav_button;sz=120x90;ord=56480?" height="90" width="120" border=0></A>')
-		}
-	}
-}
-
+if ((isNav3) || (isNav4)) {document.write('<BR></TD><TD VALIGN="TOP" WIDTH="468">');}
 //-->
-</script><ilayer id="j2" visibility="hide" width="120" height="90"></ilayer>
+</script> 
 
 
-<noscript>
-<A HREF="http://ad.doubleclick.net/jump/gamespot.com/nav_button;sz=120x90;ord=56480?">
-<IMG SRC="http://ad.doubleclick.net/ad/gamespot.com/nav_button;sz=120x90;ord=56480?" height=90 width=120 border=0></A>
-</noscript>
-
-
-<br><br><br>
-
-<font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><span class="sidenav">See Also</span></b></font></font><font face="arial, verdana, helvetica" size="2"><br>
-<span class="sidenav">&nbsp;&nbsp;<a href="http://www.videogames.com"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''"><b>videogames.com</b></font></a></span><br>
-<span class="sidenav">&nbsp;&nbsp;<a href="http://www.gameguides.com"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''"><b>gameguides.com</b></font></a></span><br>
-<br><br>
-
-<form method="post" action="http://perl.gamespot.com/perl/mailadd.pl"><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><span class="sidenav">Subscribe to our<br>
-free newsletter</span></b></font><br>
-<img border="0" src="http://img.gamespot.com/shared/space.gif" width="72" height="5"><br>
-
-<input name="email" size="15" value="your e-mail"><br>
-
-<input type="image" name="submit" src="http://img.gamespot.com/shared/submit2.gif" border="0" alt="submit" align="top" width="118" height="16"></form><br>
-
-<form action="http://search.gamespot.com/perl/search_pc.cgi" method="POST"><font size="2" face="arial, verdana, helvetica" color="#CE3100"><span class="sidenav"><b>Find a Game</b></span></font><br>
-<input type="hidden" name="db" value="all_pc"><input type="hidden" name="sp" value="sp">
-
-<input type="text" name="search" value="game title here" size="15"><br>
-
-<input type="image" name="submit" src="http://img.gamespot.com/shared/submit2.gif" border="0" alt="submit" align="top" width="118" height="16"></form></font><br>
-
-<p class="red"><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><span class="sidenav">User
-Services</span></b><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><br>
-<span class="sidenav">&nbsp;&nbsp;<a href="/register/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">join</font></span></a><br>
-&nbsp;&nbsp;<a href="/help/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">help</font></span></a><br>
-&nbsp;&nbsp;<a href="/help/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">feedback</font></span></a><br>
-
-&nbsp;&nbsp;<a href="/help/"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">contact us</font></span></a><br>
-
-&nbsp;&nbsp;<a href="/global/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">international</font></span></a><br>
-&nbsp;&nbsp;<a href="http://www3.zdnet.com/products/vrmluser/map/zd3d.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">vrml site map</font></span></a><br>
-&nbsp;&nbsp;<a href="http://www.amazon.com/exec/obidos/redirect?tag=zdgameltxtlnk&amp;path=subst/home/gamespot-home.html"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">shop amazon.com</font></a></span><br>
-<br><br></b></font></font>
-
-<!-- Begin Sponsored Sites -->
-<span class="sidenav"><b><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><span class="sidenav">Sponsored Sites</span></b></font><br>
-<span class="sidenav">
-&nbsp;&nbsp;<a href="http://www.pgl.net/"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">Professional</font></span></a><br>
-&nbsp;&nbsp;<a href="http://www.pgl.net/"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">Gamers'</font></span></a><br>
-&nbsp;&nbsp;<a href="http://www.pgl.net/"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">League (PGL)</font></span></a><br>
-</span></b>
-<br><br><br></font></b></span>
-
-<a href="http://cgw.gamespot.com/"><img src="http://img.gamespot.com/shared/cgwlogo.gif" border="0" hspace="13"></a><br>
-<br><br>
-
-<a href="/familypc/index.html"><img src="http://img.gamespot.com/shared/fampc_logo.gif" alt="FamilyPC" width="91" height="28" hspace="13" border="0"></a><br>
-<br><br>
-<!--end side nav-->
-
-
-
-
-
-
-
-
-
-
-
-<!--end side nav--></p></td><td width="20" valign="top" rowspan="2"><img src="/shared/space.gif" width="20" height="1"></td><td width="425" valign="top" colspan="3"><font size="2" face="arial, verdana, helvetica"><img src="/shared/staticlogo.gif" align="right" alt="G A M E S P O T"><br><p>
-<br>&nbsp;<br><font size="5" face="arial, verdana, helvetica" color="#FFCE31"><b>Your Privacy Matters To Us</b></font><br><font face="arial, verdana, helvetica">
-
-</font></p><p><font face="arial, verdana, helvetica">GameSpot Inc. collects personal information about our users during registration for the GameSpot service, during sign up for our newsletters, or through research studies delivered either on our web sites or via e-mail. Registration is required if a user wishes to enter a GameSpot contest or sweepstakes or submit a review of a game.
-
-</font></p><p><font face="arial, verdana, helvetica">The data we collect is used in the aggregate to give us demographic information about the entire GameSpot audience to improve the GameSpot service and help us sell the advertising that supports the sites. The personal information you provide lets us inform you about updates to the service and, if you have elected to receive such information, notify you of products and services of GameSpot Inc., its affiliates, and third parties we believe may be of interest to you.
-
-</font></p><p><font face="arial, verdana, helvetica"><b>Registration</b><br>
-GameSpot collects information from all registrants to our sites. Information collected during this registration process is used only in the aggregate to tell us your general gaming preferences and how you found out about our service, unless you also choose to receive promotional mailings from GameSpot and selected third parties, in which case the gaming preference information is used to help advertisers send e-mails only to those with specific gaming genre or hardware interests.
-
-</font></p><p><font face="arial, verdana, helvetica">GameSpot does let selected third parties use those e-mail addresses from users that specifically and actively consent to this use when registering to inform you of discounted or free products. GameSpot generally conducts such mailings on behalf of  such third parties to ensure the proper use of such information. GameSpot permits a third party to use the information for limited purposes only after agreeing to comply with certain safeguards and other requirements. 
-
-</font></p><p><font face="arial, verdana, helvetica">GameSpot respects your right to privacy. As part of the registration process, we give you the opportunity to decline to receive any mailings from GameSpot or other parties to whom GameSpot may provide such information. You may also remove your e-mail address from our lists at any time.
-
-</font></p><p><font face="arial, verdana, helvetica"><b>Surveys and User Research</b><br>
-GameSpot also conducts periodic e-mail and Web-delivered surveys to gather information about our audience. We share the aggregate results of these surveys - not individual data -with our advertisers to help them better understand our services and monitor the reach of their advertising on the service.
-
-</font></p><p><font face="arial, verdana, helvetica">GameSpot uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that receive the information.
-
-</font></p><p><font face="arial, verdana, helvetica">You may correct your member information, join our mailing lists, or remove your name from any of the lists by going to http://www.gamespot.com/help/index.html. If you have questions we can be reached by e-mail at feedback@gamespot.com.
-
-</font></p></font></td></tr></tbody></table>
-
-<br>
-
-<table width="575" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td width="130" align="center" valign="top">&nbsp;<br><a href="http://www.zdnet.com"><img border="0" src="/shared/zdlogo.gif" width="69" height="46"></a></td>
-<td width="20"></td>
-<td width="425" valign="top">
-<dd><dl>
-<table align="left"><tbody><tr>
-<td width="106" height="51" align="center" bgcolor="#595959"><a href="http://ad.doubleclick.net/jump/gamespot.com/trigger_button;sz=88x31;tile=1;ord=56480?">
-<img src="http://ad.doubleclick.net/ad/gamespot.com/trigger_button;sz=88x31;tile=1;ord=56480?" width="88" height="31" border="0"></a></td>
-
-<td width="106" height="51" align="center" bgcolor="#595959"><a href="http://ad.doubleclick.net/jump/gamespot.com/trigger_button;sz=88x31;tile=2;ord=56480?">
-<img src="http://ad.doubleclick.net/ad/gamespot.com/trigger_button;sz=88x31;tile=2;ord=56480?" width="88" height="31" border="0"></a></td>
-
-<td width="106" height="51" align="center" bgcolor="#595959"><a href="http://ad.doubleclick.net/jump/gamespot.com/trigger_button;sz=88x31;tile=3;ord=56480?">
-<img src="http://ad.doubleclick.net/ad/gamespot.com/trigger_button;sz=88x31;tile=3;ord=56480?" width="88" height="31" border="0"></a></td>
-
-<td width="106" height="51" align="center" bgcolor="#595959"><a href="http://ad.doubleclick.net/jump/gamespot.com/trigger_button;sz=88x31;tile=4;ord=56480?">
-<img src="http://ad.doubleclick.net/ad/gamespot.com/trigger_button;sz=88x31;tile=4;ord=56480?" width="88" height="31" border="0"></a></td>
-</tr></tbody></table>
-
-<br clear="all">
-</dl></dd>
-
-<br>
-<font face="arial, verdana, helvetica" size="1">
-<font face="arial, verdana, helvetica" size="1">
-<center><a href="/shared/copyright.html">Copyright © GameSpot Inc.</a></center></font>
-
-<!-- ZD Clear.gif for tracking traffic -->
-<br>
-<img src="http://e12.zdnet.com:8080/clear/ns.gif" alt="" border="0" width="100" height="100">
-<br>
-<!-- ZD Clear.gif for tracking traffic -->
-</font><br>
-</td></tr></tbody></table>
+	
+		<table border="0" cellspacing="0" cellpadding="0" align="LEFT" width="468">
+	 <tbody><tr>
+	<td align="LEFT" valign="TOP" width="468">
+	
+		<span class="spacer8">&nbsp;</span><br>  
+		<span class="mhead">Your Privacy Matters To Us</span>
+<p>
+<span class="body">
+<a href="https://www.truste.org/validate/381"><img src="/findit/graphics/verifybox.gif" height="73" width="91" border="0" align="right" hspace="5" vspace="5" alt="TRUSTe: Click to Verify"></a>
+This Overall Privacy Statement verifies that ZDNet is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. This statement discloses the privacy practices for the entire Web site. 
+</span></p><p>
+TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
+</p><p>
+1.What information this site gathers/tracks about you<br>
+2.What this site does with the information it gathers/tracks<br>
+3.With whom this site shares the information it gathers/tracks 
+</p><p>
+ZDNet collects personal information from you (name, postal address, e-mail address, and other data) during registration for the ZDNet service, from our use of "cookie" technology and IP-address logging as you use the service, during entry into a contest or sweepstakes, and from your participation in optional online surveys. We may exchange some of this information with business partners who offer co-branded services as part of ZDNet, such as eCircles, Deja.com, Techies.com, onebox.com and others. The information you provide allows us to inform you about updates to the service and to notify you of products and services of ZDNet, its affiliates, and third parties that we believe may be of interest to you. As part of the registration process, we give you the opportunity to decline to receive any mailings from ZDNet and other companies to whom we may provide such information.
+</p><p>
+The ZDNet service is directed to teenagers and adults and is not directed to children under the age of 13. ZDNet complies with the Children's Online Privacy Protection Act and does not permit registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted wherever ZDNet collects data within the ZDNet service, such as during the registration process.
+</p><p>
+The data we collect from cookies and IP addresses gives us demographic information about the entire ZDNet audience, which we use to improve the ZDNet service. We also share aggregate information -- not individual data -- with our advertisers to help them better understand our services and to monitor the reach of their advertising on the service. ZDNet also may disclose or exchange with others information you have provided to us if we believe in good faith that the law requires us to do so or if it is necessary to protect the rights or property of ZDNet or our users.   
+</p><p>
+Advertisers on ZDNet may deliver their ads via third-party advertising networks. One of these networks, Engage, is used on ZDNet occasionally for serving and/or targeting of banner ads, promotions and other marketing messages. Engage collects anonymous data, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to: <a href="http://www.engage.com/privacy">http://www.engage.com/privacy</a>
+</p><p>
+ZDNet uses reasonable precautions to keep the information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. ZDNet also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users. 
+</p><p>
+Users of the ZDNet eCircles service should be aware that eCircles may also collect information about you and may exchange that information with other business partners to verify your identity and to give you access to their services. On ZDNet eCircles, the content sent to a circle is posted and available to all of the other members of that particular circle but is not publicly available on the Web. When you are voluntarily participating in and sending information to your circles, the information disclosed by you could be collected and used by others who visit that circle.  
+</p><p>
+You may correct your member information or select the option not to receive ZDNet mailings by going <a href="http://members.zdnet.com/edituser">here</a>. If you have questions, you should direct them to the ZDNet site privacy coordinator at <a href="mailto:privacy@zdcommunity.com">privacy@zdcommunity.com</a> or <a href="http://www.truste.org/">TRUSTe</a> for clarification. 
+</p><p>
+  </p></td>
+	</tr>
+ </tbody></table>
 <script language="JavaScript">
-<!--
-	topad = '<LAYER SRC="http://ad.doubleclick.net/adl/gamespot.com/page;sz=468x60;ord=56480?" ID=layerj1 visibility="hide" bgcolor="#000000" onload="moveToAbsolute(j1.pageX, j1.pageY); visibility=\'show\';"></LAYER>'
-	sidead = '<LAYER SRC="http://ad.doubleclick.net/adl/gamespot.com/nav_button;sz=120x90;ord=56480?" visibility="show" bgcolor="#000000" onload="moveToAbsolute(j2.pageX, j2.pageY); visibility=\'show\';"></LAYER>'
-	if (navigator.appName == "Netscape" && parseFloat(navigator.appVersion) >= 4.02) {
-	document.write(topad);
-	document.write(sidead);
-}
-	else {
-}
-//-->
-</script><layer src="http://ad.doubleclick.net/adl/gamespot.com/page;sz=468x60;ord=56480?" id="layerj1" visibility="hide" bgcolor="#000000" onload="moveToAbsolute(j1.pageX, j1.pageY); visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/gamespot.com/nav_button;sz=120x90;ord=56480?" visibility="show" bgcolor="#000000" onload="moveToAbsolute(j2.pageX, j2.pageY); visibility='show';"></layer>
+if ((isNav3) || (isNav4)) {document.write('</TD></TR></TABLE>');}
+if (isIE4PC) {document.write('</DIV>');}
+</script></div>
+<br clear="ALL">
+<br clear="ALL"> <script language="JavaScript1.2">
+if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:610;vertical-align:top">');}
+</script><div style="position:relative;top:0;left:0;width:610;vertical-align:top">
+<table width="610" border="0" cellpadding="0" cellspacing="0">
 
+	<tbody><tr>
+	
+		<td width="4" rowspan="2" bgcolor="#FFFFFF"><img src="http://www.zdnet.com/graphics/clear.gif" width="4" height="1" alt=""></td>
+		<td valign="TOP" width="606" bgcolor="#FFFFFF">
+	   </td>
+		</tr>
+		<tr>
+		<td valign="TOP" bgcolor="#FFFFFF">
+	
+		<!-- BOTTOM NAV TABLE -->
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#333399" width="125">
+<a href="http://www.zdnet.com"><img src="http://www.zdnet.com/graphics/botnavlogo-top.gif" width="125" height="42" border="0" alt=""></a></td>
+<td align="CENTER" valign="MIDDLE" bgcolor="#333399" height="42" width="100%">
 
+	<nobr><a class="bnav" href="http://techies.zdnet.com">Tech Jobs</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-</body></html><html><head>
-<title>GameSpot's Privacy Statement</title><link rel="stylesheet" type="text/css" href="/shared/basic.css" title="style1"></head>
+	<nobr><a class="bnav" href="http://zdnet.e-centives.com/">ZDNet e-centives</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
+	<nobr><a class="bnav" href="http://www.zdnetonebox.com">Free E-mail</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
+	<nobr><a class="bnav" href="http://www.zdnet.com/filters/email/">Newsletters</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-<body bgcolor="#000000" background="/shared/bg.gif" text="#FFFFbb" link="#07F8D0" alink="#FF0000" vlink="#00B598">
+	<nobr><a class="bnav" href="http://updates.zdnet.com/">Updates</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-<table border="0" width="575" cellpadding="0"><tbody><tr><td valign="center"><a href="/index.html"><img src="/shared/gamespot_logo.gif" alt="T H E   G A M E S P O T   N E T W O R K" width="102" height="102" border="0"></a></td>
-<td valign="bottom"><a href="http://ad.doubleclick.net/jump/gamespot.com/page;sz=468x60;ord=40900?"><img src="http://ad.doubleclick.net/ad/gamespot.com/page;sz=468x60;ord=40900?" height="60" width="468" border="0"></a></td></tr></tbody></table>
+	<nobr><a class="bnav" href="http://my.zdnet.com/myzdnet/">MyZDNet</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
+	<nobr><a class="bnav" href="http://my.zdnet.com/myzdnet/alerthelp/">Alerts</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-<table border="0" width="575" cellpadding="0"><tbody><tr><td width="130" valign="top" rowspan="2"><!--sidenav--><br>
+	<nobr><a class="bnav" href="http://cgi.zdnet.com/slink?60865">Rewards</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-<font face="arial, verdana, helvetica" size="2"><b><a href="/index.html"><font color="#CE3100"><span class="red"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''"><span class="sidenav">GameSpot</span></font></span></font></a></b><font color="#CE3100"><br>
+	<nobr><a class="bnav" href="http://members.zdnet.com/register/register.cgi">Join ZDNet</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-<font face="arial, verdana, helvetica" color="#CE3100" size="2"><span class="sidenav"><b>
-&nbsp;&nbsp;<a href="/action/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">action</font></span></a><br>
-&nbsp;&nbsp;<a href="/adventure/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">adventure</font></span></a><br>
-&nbsp;&nbsp;<a href="/driving/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">driving</font></span></a><br>
-&nbsp;&nbsp;<a href="/puzzle/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">puzzle</font></span></a><br>
-&nbsp;&nbsp;<a href="/rpg/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">role-playing</font></span></a><br>
-&nbsp;&nbsp;<a href="/simulation/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">simulation</font></span></a><br>
-&nbsp;&nbsp;<a href="/sports/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">sports</font></span></a><br>
-&nbsp;&nbsp;<a href="/strategy/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">strategy</font></span></a><br>
-&nbsp;&nbsp;<a href="http://www.gamespot.com/hardware/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">hardware</font></span></a><br>
-<br>
+	<nobr><a class="bnav" href="http://www.zdnet.com/members">Members</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-&nbsp;&nbsp;<a href="http://headline.gamespot.com/news/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">news</font></span></a><br>
-&nbsp;&nbsp;<a href="/reviews.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">reviews</font></span></a><br>
-&nbsp;&nbsp;<a href="/previews.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">previews</font></span></a><br>
-&nbsp;&nbsp;<a href="/hints.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">hints</font></span></a><br>
-&nbsp;&nbsp;<a href="http://shareware.gamespot.com/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">downloads</font></span></a><br>
-&nbsp;&nbsp;<a href="/top10/index.html"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">top games</font></a><br>
-&nbsp;&nbsp;<a href="/3dgallery/index.html"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">3d model gallery</font></a><br>
-&nbsp;&nbsp;<a href="/calendar/"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">release calendar</font></a><br>
-<br><br></b></span></font></font><p></p>
+	<nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/jbsitebuilder10/www.zdnet.com/sitebuilder">SiteBuilder</a></nobr>
+</td></tr>
+<tr><td align="LEFT" valign="TOP" bgcolor="#000066" width="125">
+<a href="http://www.zdnet.com"><img src="http://www.zdnet.com/graphics/botnavlogo-bot.gif" width="125" height="26" border="0" alt=""></a></td>
+<td align="CENTER" valign="MIDDLE" bgcolor="#000066" height="26" width="100%">
 
-<a href="http://ad.doubleclick.net/jump/gamespot.com/nav_button;sz=120x90;ord=40900?">
-<img src="http://ad.doubleclick.net/ad/gamespot.com/nav_button;sz=120x90;ord=40900?" height="90" width="120" border="0"></a>
+	<nobr><a class="bnav2" href="http://www.zdnet.com/filters/feedback">Feedback</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-<br><br><br>
+	<nobr><a class="bnav2" href="http://www.zdnet.com/filters/privacy/">Your Privacy</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-<font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><span class="sidenav">See Also</span></b></font></font><font face="arial, verdana, helvetica" size="2"><br>
-<span class="sidenav">&nbsp;&nbsp;<a href="http://www.videogames.com"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''"><b>videogames.com</b></font></a></span><br>
-<span class="sidenav">&nbsp;&nbsp;<a href="http://www.gameguides.com"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''"><b>gameguides.com</b></font></a></span><br>
-<br><br>
+	<nobr><a class="bnav2" href="http://www.zdnet.com/filters/terms">Service Terms</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-<form method="post" action="http://perl.gamespot.com/perl/mailadd.pl"><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><span class="sidenav">Subscribe to our<br>
-free newsletter</span></b></font><br>
-<img border="0" src="http://img.gamespot.com/shared/space.gif" width="72" height="5"><br>
+	<nobr><a class="bnav2" href="http://www.zdnet.com/coinfo/filters/adinfo/">Advertise</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
 
-<input name="email" size="15" value="your e-mail"><br>
+	<nobr><a class="bnav2" href="http://www.zdnet.com/coinfo/filters/welcome/">About Us</a></nobr>
+</td></tr>
+</tbody></table>
+<!-- /BOTTOM NAV TABLE -->  <table border="0" width="100%" cellpadding="0" cellspacing="0">
+	
+		
+	
+	
+		<tbody><tr><td colspan="2">
+		 
+			<span class="v10">
+		Copyright © 2000 ZD Inc.  All rights reserved.  ZDNet and the ZDNet logo are registered trademarks of ZD Inc. 
+			</span>
+		</td></tr>
+	  </tbody></table>
 
-<input type="image" name="submit" src="http://img.gamespot.com/shared/submit2.gif" border="0" alt="submit" align="top" width="118" height="16"></form><br>
-
-<!-- SEARCH -->
-<form method="POST" action="http://search.gamespot.com/perl/search_fe.cgi">
-<font face="arial, verdana, helvetica" color="#CE3100" size="2"><span class="sidenav"><b>
-Search</b></span><br>
-<input type="text" name="search" size="15<br">
-<font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><span class="sidenav">by:</span></b><br><select name="type">
-<option value="title">Title
-</option><option value="company">Company
-</option><option value="fulltext">Full Text
-</option><option value="">_____________&nbsp;
-</option></select><br>
-<input type="IMAGE" name="submit" src="http://img.gamespot.com/shared/submit2.gif" border="0" alt="submit" align="top" width="118" height="16">
-</font><br clear="all">
-
-<!-- SEARCH -->
-
-<p class="red"><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><span class="sidenav">User
-Services</span></b><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><br>
-<span class="sidenav">&nbsp;&nbsp;<a href="/register/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">join</font></span></a><br>
-&nbsp;&nbsp;<a href="/help/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">help</font></span></a><br>
-&nbsp;&nbsp;<a href="/help/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">feedback</font></span></a><br>
-
-&nbsp;&nbsp;<a href="/help/"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">contact us</font></span></a><br>
-
-&nbsp;&nbsp;<a href="/global/index.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">international</font></span></a><br>
-&nbsp;&nbsp;<a href="http://www3.zdnet.com/products/vrmluser/map/zd3d.html"><span><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">vrml site map</font></span></a><br>
-&nbsp;&nbsp;<a href="http://go.gamespot.com/apps/amalink?http%3a%2f%2fwww%2eamazon%2ecom%2fexec%2fobidos%2fredirect%2dhome%2fzdgameltxtlnk"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">shop amazon.com</font></a><br>
-&nbsp;&nbsp;<a href="http://onward.gamespot.com/onward?dest=http%3a%2f%2fwww%2eheat%2enet%2fpub%2fcgi-bin%2flogin%2flogin%2ecgi%3faffiliate%3dgamespot&amp;p=1"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">play on HEAT.NET</font></a></span><br>
-<br><br></b></font></font>
-
-<!-- Begin Sponsored Sites -->
-<span class="sidenav"><b><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><font face="arial, verdana, helvetica" color="#CE3100" size="2"><b><span class="sidenav">Sponsored Sites</span></b></font><br>
-<span class="sidenav">
-&nbsp;&nbsp;<a href="http://onward.gamespot.com/onward?dest=http%3a%2f%2fwww%2eheat%2enet%2fpub%2fcgi-bin%2flogin%2flogin%2ecgi%3faffiliate%3dgamespot&amp;p=2"><img src="http://img.gamespot.com/shared/heatnet.gif" border="0" width="66" height="66" alt="HEAT"></a><br>
-&nbsp;&nbsp;<a href="http://onward.gamespot.com/onward?dest=http%3a%2f%2fwww%2eheat%2enet%2fpub%2fcgi-bin%2flogin%2flogin%2ecgi%3faffiliate%3dgamespot&amp;p=2"><font onmouseover="this.style.color='ffffff'" onmouseout="this.style.color=''">HEAT.NET</font></a><br><br>
-
-
-<!--
-&nbsp;&nbsp;<a href="http://www.pgl.net"><font onMouseOver="this.style.color='ffffff'"onmouseout="this.style.color=''">Professional</font></a><br>
-&nbsp;&nbsp;<a href="http://www.pgl.net"><font onMouseOver="this.style.color='ffffff'"onmouseout="this.style.color=''">Gamers'</font></a><br>
-&nbsp;&nbsp;<a href="http://www.pgl.net"><font onMouseOver="this.style.color='ffffff'"onmouseout="this.style.color=''">League (PGL)</font></a><br>
--->
-
-</span></b>
-<br><br><br></font></b></span>
-
-<a href="http://cgw.gamespot.com/"><img src="http://img.gamespot.com/shared/cgwlogo.gif" border="0" hspace="13"></a><br>
-<br><br>
-
-<a href="/familypc/index.html"><img src="http://img.gamespot.com/shared/fampc_logo.gif" alt="FamilyPC" width="91" height="28" hspace="13" border="0"></a><br>
-<br><br>
-<!--end side nav-->
-
-
-
-
-
-
-
-
-
-
-
-<!--end side nav--></p></font></form></font></td><td width="20" valign="top" rowspan="2"><img src="/shared/space.gif" width="20" height="1"></td><td width="425" valign="top" colspan="3"><font size="2" face="arial, verdana, helvetica"><img src="/shared/staticlogo.gif" align="right" alt="G A M E S P O T"><br><p>
-<br>&nbsp;<br><font size="5" face="arial, verdana, helvetica" color="#FFCE31"><b>Your Privacy Matters To Us</b></font><br><font face="arial, verdana, helvetica">
-
-</font></p><p><font face="arial, verdana, helvetica">The GameSpot site collects personal information about our users during registration for the GameSpot service, during sign up for our newsletters, or through research studies delivered either on our web sites or via e-mail. Registration is required if a user wishes to enter a GameSpot contest or sweepstakes or submit a review of a game.
-
-</font></p><p><font face="arial, verdana, helvetica">The data we collect is used in the aggregate to give us demographic information about the entire GameSpot audience to improve the GameSpot service and help us sell the advertising that supports the sites. The personal information you provide lets us inform you about updates to the service and, if you have elected to receive such information, notify you of products and services of the GameSpot site, its affiliates, and third parties we believe may be of interest to you.
-
-</font></p><p><font face="arial, verdana, helvetica"><b>Registration</b><br>
-GameSpot collects information from all registrants to our sites. Information collected during this registration process is used only in the aggregate to tell us your general gaming preferences and how you found out about our service, unless you also choose to receive promotional mailings from GameSpot and selected third parties, in which case the gaming preference information is used to help advertisers send e-mails only to those with specific gaming genre or hardware interests.
-
-</font></p><p><font face="arial, verdana, helvetica">GameSpot does let selected third parties use those e-mail addresses from users that specifically and actively consent to this use when registering to inform you of discounted or free products. GameSpot generally conducts such mailings on behalf of  such third parties to ensure the proper use of such information. GameSpot permits a third party to use the information for limited purposes only after agreeing to comply with certain safeguards and other requirements. 
-
-</font></p><p><font face="arial, verdana, helvetica">GameSpot respects your right to privacy. As part of the registration process, we give you the opportunity to decline to receive any mailings from GameSpot or other parties to whom GameSpot may provide such information. You may also remove your e-mail address from our lists at any time.
-
-</font></p><p><font face="arial, verdana, helvetica"><b>Surveys and User Research</b><br>
-GameSpot also conducts periodic e-mail and Web-delivered surveys to gather information about our audience. We share the aggregate results of these surveys - not individual data -with our advertisers to help them better understand our services and monitor the reach of their advertising on the service.
-
-</font></p><p><font face="arial, verdana, helvetica">GameSpot uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that receive the information.
-
-</font></p><p><font face="arial, verdana, helvetica">You may correct your member information, join our mailing lists, or remove your name from any of the lists by going to http://www.gamespot.com/help/index.html. If you have questions we can be reached by e-mail at feedback@gamespot.com.
-
-</font></p></font></td></tr></tbody></table>
-
-<br>
-
-<table width="575" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td width="130" align="center" valign="top">&nbsp;<br><a href="http://www.zdnet.com"><img border="0" src="/shared/zdlogo.gif" width="69" height="46"></a></td>
-<td width="20"></td>
-<td width="425" valign="top">
-<dd><dl>
-<table align="left"><tbody><tr>
-<td width="106" height="51" align="center" bgcolor="#595959"><a href="http://ad.doubleclick.net/jump/gamespot.com/trigger_button;sz=88x31;tile=1;ord=40900?">
-<img src="http://ad.doubleclick.net/ad/gamespot.com/trigger_button;sz=88x31;tile=1;ord=40900?" width="88" height="31" border="0"></a></td>
-
-<td width="106" height="51" align="center" bgcolor="#595959"><a href="http://ad.doubleclick.net/jump/gamespot.com/trigger_button;sz=88x31;tile=2;ord=40900?">
-<img src="http://ad.doubleclick.net/ad/gamespot.com/trigger_button;sz=88x31;tile=2;ord=40900?" width="88" height="31" border="0"></a></td>
-
-<td width="106" height="51" align="center" bgcolor="#595959"><a href="http://ad.doubleclick.net/jump/gamespot.com/trigger_button;sz=88x31;tile=3;ord=40900?">
-<img src="http://ad.doubleclick.net/ad/gamespot.com/trigger_button;sz=88x31;tile=3;ord=40900?" width="88" height="31" border="0"></a></td>
-
-<td width="106" height="51" align="center" bgcolor="#595959"><a href="http://ad.doubleclick.net/jump/gamespot.com/trigger_button;sz=88x31;tile=4;ord=40900?">
-<img src="http://ad.doubleclick.net/ad/gamespot.com/trigger_button;sz=88x31;tile=4;ord=40900?" width="88" height="31" border="0"></a></td>
-</tr></tbody></table>
-
-<br clear="all">
-</dl></dd>
-
-<br>
-<font face="arial, verdana, helvetica" size="1">
-<font face="arial, verdana, helvetica" size="1">
-<center><a href="/shared/copyright.html">Copyright © ZDNet</a></center></font>
-
-<!-- ZD Clear.gif for tracking traffic -->
-<br>
-<img src="http://gserv.zdnet.com/clear/ns.gif" alt="" border="0" width="100" height="100">
-<br>
-<!-- ZD Clear.gif for tracking traffic -->
-</font><br>
-</td></tr></tbody></table>
-
+	</td>
+	</tr>
+</tbody></table>
+<script language="JavaScript1.2">
+if (isIE4PC) {document.write('</DIV>');}
+</script></div>
 
 
 </body></html>
