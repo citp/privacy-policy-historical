@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622001740id_/http%3A//www2.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208004853id_/http%3A//www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # NexTag: Help [Privacy Policy]
 
@@ -27,7 +27,7 @@ In some cases we request that you submit personal information in order to forwar
 
 For registered users, you can review your personal identifiable information by logging in with your email and password and then clicking on the "My Account" link located at the top right of each page. After accessing your My Account page, click the links under the General Account Information section to make changes as necessary. 
 
-Please note: Though we store encrypted credit card information for transactional purposes, we do not display it for review as part of your online account information. If you would like to review this or any further information offline, please feel free to [contact us.](https://web.archive.org/web/20040622001740id_/http%3A//www2.nextag.com/serv/main/about/contact_us.jsp)
+Please note: Though we store encrypted credit card information for transactional purposes, we do not display it for review as part of your online account information. If you would like to review this or any further information offline, please feel free to [contact us.](https://web.archive.org/web/20041208004853id_/http%3A//www.nextag.com/serv/main/about/contact_us.jsp)
 
 **Confidentiality and Security**
 
@@ -104,4 +104,4 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 > usersupport at nextag.com   
 > 
 
-If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process at <http://www.truste.org/watchdog.html>. TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Web site to resolve users concerns.
