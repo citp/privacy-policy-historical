@@ -1,0 +1,1048 @@
+<!--The following is the downloaded HTML source of the lawcrossing.com privacy policy that was archived on 2003-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031008203633id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.-->
+
+<html><head><script language="javascript">
+function tellafriend()
+{
+	window.open("http://www.lawcrossing.com/lctellafreind.php","tellafriend","height=365,width=433,left=75,top=75,scrollbars=yes,resizable=no");
+}
+function signinquicktour(include_path)
+{
+  	var url;
+	url='http://www.lawcrossing.com/lcsignedtour.php';
+	window.open(url,'mywinhomeqt','height=411,width=578,toolbar=no,top=80,left=100,scrollbars=no')
+	//window.open(url,'mywinhomeqt','height=431,width=595,toolbar=no,top=80,left=100,scrollbars=yes')
+}
+function qthome(include_path)
+{
+  	var url;
+	url='http://www.lawcrossing.com/qthomepage/qt1.htm'; 
+
+	theight=screen.height-60;
+	if (theight>692) theight=692;
+	tmp='height='+(theight)+',width=595,toolbar=no,top=0,left=100,scrollbars=yes';
+	window.open(url,'mywinhomeqt',tmp);
+}
+function searchpagevalidation()
+{
+	err="";
+	flg=true;
+	for (i = 0; i < document.forms["formjobsrch"].elements.length; i++)
+	{	
+		if(document.forms["formjobsrch"].elements[i].type == "select-one")
+		{
+			flg=flg && (document.forms["formjobsrch"].elements[i].value==0);
+		}
+	}
+	
+	if (flg)
+		err="Select atleast one item";
+		
+	if (err!="") 
+	{
+		alert (err);
+		return ;
+	}
+	document.forms["formjobsrch"].target="lcwa";
+	document.forms["formjobsrch"].action = "http://www.lawcrossing.com/lcjssearchresults.php";
+	document.forms["formjobsrch"].submit();
+}
+</script>
+<script language="javascript">
+function opentellusabout()
+{
+	window.open('http://www.lawcrossing.com/lctellusaboutjob.php','lcpostjob','resizable=yes,height=400,width=582,toolbar=no,scrollbars=yes,top=80,left=100,titlebar=yes');
+}
+
+function whatsthis()
+{
+	window.open('lcwhatisthispopup.php','LCPOPUP', 'height=165,width=333,toolbar=no,scrollbars=no,top=80,left=100');
+}
+function revealjobdetail()
+{
+	document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
+	document.formmyjobalert.clsjobalert_hdnaction.value="Reveal";
+	document.formmyjobalert.submit();
+}
+function hidejobdetail()
+{
+	document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
+	document.formmyjobalert.clsjobalert_hdnaction.value="Hide";
+	document.formmyjobalert.submit();
+}
+function deletemyjobalert()
+{
+	delflag = false;
+	for(i=0; i<document.formmyjobalert.elements.length; i++)
+	{
+		if(document.formmyjobalert.elements[i].type=="checkbox" && document.formmyjobalert.elements[i].checked==true)
+			delflag = true;
+	}
+	if(delflag)
+	{
+		if(confirm("Are You sure to delete the job?"))
+		{
+			document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
+			document.formmyjobalert.clsjobalert_hdnaction.value="D";
+			document.formmyjobalert.submit();
+		}
+	}
+	else
+	{
+		alert("Please select atleast one job alert.");
+	}
+}
+function emailmejobalert()
+{
+	delflag = false;
+	for(i=0; i<document.formmyjobalert.elements.length; i++)
+	{
+		if(document.formmyjobalert.elements[i].type=="checkbox" && document.formmyjobalert.elements[i].checked==true)
+			delflag = true;
+	}
+	if(delflag)
+	{
+		document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
+		document.formmyjobalert.clsjobalert_hdnaction.value="MailMe";
+		document.formmyjobalert.submit();
+	}
+	else
+	{
+		alert("Please select atleast one job alert for E-mail.");
+	}
+}
+function cancelemailmyjobalert()
+{
+	delflag = false;
+	for(i=0; i<document.formmyjobalert.elements.length; i++)
+	{
+		if(document.formmyjobalert.elements[i].type=="checkbox" && document.formmyjobalert.elements[i].checked==true)
+			delflag = true;
+	}
+	if(delflag)
+	{
+		document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
+		document.formmyjobalert.clsjobalert_hdnaction.value="MailCancel";
+		document.formmyjobalert.submit();
+	}
+	else
+	{
+		alert("Please select atleast one job alert for E-mail Delete.");
+	}
+}
+function openwinjobalert(jaid)
+{
+	document.formmyjobalert.clsjobalert_jaid.value=jaid;
+	document.formmyjobalert.action="lcjsadvancesearch.php";
+	document.formmyjobalert.submit();
+}
+function deletejobalert(jaid)
+{
+	if(confirm("Are You sure to delete the job?"))
+	{
+		document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
+		document.formmyjobalert.clsjobalert_hdnaction.value="D";
+		document.formmyjobalert.clsjobalert_jaid.value=jaid;
+		document.formmyjobalert.submit();
+	}
+}
+function searchjobalert(jaid)
+{
+	document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
+	document.formmyjobalert.clsjobalert_jaid.value=jaid;
+	document.formmyjobalert.action="lcjssearchresults.php";
+	document.formmyjobalert.submit();
+}
+var orgwinname=window.name;
+window.name="lcwa";
+function loadimagemainnavigation()
+{
+	MM_preloadImages('http://www.lawcrossing.com/images/lcattorneyover.gif','http://www.lawcrossing.com/images/lcrustover.gif',
+		'http://www.lawcrossing.com/images/lcstudentover.gif','http://www.lawcrossing.com/images/lcstaffover.gif','http://www.lawcrossing.com/images/lcempover.gif',
+		'http://www.lawcrossing.com/images/lcrecruiterover.gif');
+}
+function loadimagetopsignup()
+{
+	MM_preloadImages('http://www.lawcrossing.com/images/lcnewsignupover.gif');
+}
+</script>
+
+<title>LawCrossing - Privacy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="robots" content="index,nofollow">
+<meta name="title" content="LawCrossing - Privacy">
+<meta name="description" content="Legal employment job board and career resource for lawyers, law students, paralegals, legal secretaries and other legal professionals.">
+<meta name="keywords" content="Legal employment job board, career resource for lawyers, law students, paralegals, legal secretaries, legal professionals, employers, recruiters.">
+<link rel="stylesheet" style="text/css" href="css/style.css">
+<script language="javascript" src="script/general.js"></script>
+</head>
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="MM_preloadImages('images/mainnav_attorneys_over.gif','images/mainnav_lawstudents_over.gif','images/mainnav_legalstaff_over.gif','images/mainnav_employers_over.gif','images/mainnav_recruiters_over.gif','images/iconseehowhover.gif')">
+<center>
+<table cellpadding="0" cellspacing="0" width="100%" border="0" title="First Table">
+	<tbody><tr>
+		<td width="100%" height="5"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="742" border="0">
+	<tbody><tr>
+		<td width="742"><object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="742" height="45" id="Intro" align=""><param name="movie" value="http://www.lawcrossing.com/images/htflash2.swf"> <param name="bgcolor" value="#dfe4e8" <param=""> <param name="salign" value="LT"> <embed src="http://www.lawcrossing.com/images/htflash2.swf" width="742" height="45" quality="high" salign="LT" bgcolor="#dfe4e8" name="Intro" align="" type="application/x-shockwave-flash"></object></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="742" border="0">
+	<tbody><tr>
+		<td width="392" class="maroonbg">
+			<table width="392" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td class="maroonbg" width="392" height="17" colspan="2"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr>
+				<tr>
+					<td class="maroonbg" width="15" height="30"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+					<td class="maroonbg" valign="top" width="362"><a href="http://www.lawcrossing.com/index.php"><img src="http://www.lawcrossing.com/images/logo.gif" width="303" height="32" border="0"></a></td>
+				</tr>
+				<tr>
+					<td class="maroonbg" width="392" height="27" colspan="2"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr>
+			</tbody></table>
+			<table class="maroonbg" cellspacing="0" cellpadding="0" width="392" border="0">
+				<tbody><tr>
+					<td width="8"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+					<td rowspan="3" width="53"><img src="http://www.lawcrossing.com/images/lcchannelsup.gif" height="3"></td>
+					<td width="331"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr>
+				<tr>
+					<td width="8" bgcolor="#481010"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+					<td width="331" bgcolor="#481010"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr>
+				<tr>
+					<td width="8" bgcolor="#753636"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+					<td width="331" bgcolor="#753636"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr>
+			</tbody></table>
+			<table width="392" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="74" bgcolor="#481010">
+						<table width="74" cellpadding="0" cellspacing="0" bgcolor="#481010" border="0">
+							<tbody><tr>
+								<td width="8"><img src="http://www.lawcrossing.com/images/watp.gif" width="8" height="1"></td>
+								<td width="54"><img src="http://www.lawcrossing.com/images/lcchannelbot.gif" alt="" width="53" height="2" border="0"></td>
+								<td width="10"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#753636"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#330a0a"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+							<td colspan="3" valign="middle" align="center" height="25" width="72" class="maroonbg"><a href="http://www.lawcrossing.com/lcattorney.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imageh30','','http://www.lawcrossing.com/images/lcrustover.gif',1)
+									"><img border="0" src="http://www.lawcrossing.com/images/lcattorney.gif" width="62" height="7"></a>
+																</td>
+								<td width="1" bgcolor="#753636"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#330a0a"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td width="74" bgcolor="#753636" height="1" colspan="5"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td width="72" class="graybg" height="4" colspan="3"><img name="imageh30" src="http://www.lawcrossing.com/images/watp.gif" width="72" height="4"></td>
+								<td width="2" class="graybg" colspan="2"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="88" bgcolor="#481010">
+						<table width="88" cellpadding="0" cellspacing="0" bgcolor="#481010" border="0">
+							<tbody><tr>
+								<td width="86" valign="middle" align="center" height="27" class="maroonbg">
+								<a href="http://www.lawcrossing.com/lclawstudents.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imageh31','','http://www.lawcrossing.com/images/lcrustover.gif',1)"><img border="0" src="http://www.lawcrossing.com/images/lcstudent.gif" width="80" height="7"></a>								</td>
+								<td width="1" bgcolor="#753636"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#330a0a"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td width="88" bgcolor="#753636" height="1" colspan="3"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td width="86" class="graybg" height="4" colspan="2"><img name="imageh31" src="http://www.lawcrossing.com/images/watp.gif" width="86" height="4"></td>
+								<td width="2" class="graybg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="78" bgcolor="#481010">
+						<table width="78" cellpadding="0" cellspacing="0" bgcolor="#481010" border="0">
+							<tbody><tr>
+								<td width="76" valign="middle" align="center" height="27" class="maroonbg">
+								<a href="http://www.lawcrossing.com/lclegalstaff.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imageh32','','http://www.lawcrossing.com/images/lcrustover.gif',1)"><img border="0" src="http://www.lawcrossing.com/images/lcstaff.gif" width="70" height="7"></a>								</td>
+								<td width="1" bgcolor="#753636"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#330a0a"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td width="78" bgcolor="#753636" height="1" colspan="3"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td width="76" class="graybg" height="4" colspan="2"><img name="imageh32" src="http://www.lawcrossing.com/images/watp.gif" width="76" height="4"></td>
+								<td width="2" class="graybg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="72" bgcolor="#481010">
+						<table width="72" cellpadding="0" cellspacing="0" bgcolor="#481010" border="0">
+							<tbody><tr>
+								<td width="70" valign="middle" align="center" height="27" class="maroonbg">
+								<a href="http://www.lawcrossing.com/lcemployer.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imageh33','','http://www.lawcrossing.com/images/lcrustover.gif',1)"><img border="0" src="http://www.lawcrossing.com/images/lcemp.gif" width="65" height="7"></a>								</td>
+								<td width="1" bgcolor="#753636"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#330a0a"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td width="72" bgcolor="#753636" height="1" colspan="3"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td width="70" class="graybg" height="4" colspan="2"><img name="imageh33" src="http://www.lawcrossing.com/images/watp.gif" width="70" height="4"></td>
+								<td width="2" class="graybg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="80" bgcolor="#481010">
+						<table width="80" cellpadding="0" cellspacing="0" bgcolor="#481010" border="0">
+							<tbody><tr>			
+								<td width="80" valign="middle" align="center" height="27" class="maroonbg" colspan="2">
+								<a href="http://www.lawcrossing.com/lcrecruiters.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imageh34','','http://www.lawcrossing.com/images/lcrustover.gif',1)"><img border="0" src="http://www.lawcrossing.com/images/lcrecruiter.gif" width="66" height="7"></a>								</td>
+							</tr>
+							<tr>
+								<td width="80" bgcolor="#753636" height="1" colspan="2">
+										<img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td width="78" class="graybg" height="4"><img name="imageh34" src="http://www.lawcrossing.com/images/watp.gif" width="78" height="4"></td>
+								<td width="2" class="graybg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td width="121" class="rustbg" height="109">
+					<table width="121" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td width="121" align="center"><a href="http://www.lawcrossing.com/lcsignin.php"><img src="http://www.lawcrossing.com/images/signupani.gif" width="121" height="107" border="0"></a></td>
+					<!--<td width="1" background="http://www.lawcrossing.com/images/lcrustbg.gif" height="104"><img src="http://www.lawcrossing.com/images/watp.gif" height="1" width="1"></TD>
+					<td width="119" class="rustbg" height="104" valign="bottom">
+						<table width="119" cellpadding="0" cellspacing="0" border="0" height="105">
+							<tr>
+								<Td width="119" height="1" class="rustbglit"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></TD>
+							</tr>
+							<tr>
+								<td width="119" height="103" valign="middle" align="center" class="rustbglit1"><a href="http://www.lawcrossing.com/lcsignin.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Imageh82','','http://www.lawcrossing.com/images/lcnewsignupover.gif',0)"><img name="Imageh82" border="0" src="http://www.lawcrossing.com/images/lcnewsignupsimple.gif" width="94" height="20"></a></td>
+							</tr>
+							<tr>
+								<td width="119" height="1" class="rustbglit"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+								<td width="119" height="1" class="rustbgdark"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+							</tr>
+						</table> 
+					</TD>-->
+				</tr>
+			</tbody></table>
+			<table width="121" cellpadding="0" cellspacing="0" border="0">
+				<!-- <tr>
+					<td width="121" height="1" bgcolor="#753636"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr> -->
+				<tbody><tr>
+					<td width="121" height="4" class="graybg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr>
+			</tbody></table>
+			
+		</td>
+		<td width="230" class="maroonbg" valign="bottom">
+				<script language="javascript" src="script/general.js"></script>
+	<script language="javascript">
+	function login()
+	{
+	var err="";
+	if (ValidatorTrim(document.loginform.clslogin_username.value)=="") err+="Screen Name is required field \n";
+	if (ValidatorTrim(document.loginform.clslogin_password.value)=="") err+="Password is required field";
+	if (err!="") {
+		alert(err);
+		return false;
+		}
+	else
+	{
+		document.loginform.clslogin_hdnsubmited.value="1";
+		}	
+	}
+	</script>
+	<table cellpadding="0" cellspacing="0" width="100%" border="0" height="85" valign="top">
+		<tbody><tr>
+			<td width="5%" valign="top"><img src="http://www.lawcrossing.com/images/signin_header.gif" border="0"></td>
+			<td width="1%" valign="top"></td>
+			<td width="4%">&nbsp;<form id="loginform" name="loginform" method="POST" action="" onsubmit="return login();"><input type="hidden" name="PHPSESSID" value="e3cd8928a41b8bd2b4c3d72c0bf008dc">
+				<input type="hidden" name="clslogin_hdnaction" value="LI">
+				<input type="hidden" name="clslogin_hdnsubmited" value="">
+				<input type="hidden" name="clslogin_hdnloginurl" value="">
+				<input type="hidden" name="clslogin_hdnreturl" value="">
+</form></td>
+			<td width="88%" valign="bottom">
+				<table cellpadding="0" cellspacing="0" width="100%" border="0">
+					        </table>
+				<table cellpadding="0" cellspacing="0" width="100%" border="0">
+					<tbody><tr>
+						<td width="50%" class="size2" height="18"><font color="#EA9292">Username</font></td>
+						<td width="50%" class="size2"><font color="#EA9292">Password</font></td>
+					</tr>
+					<tr>
+						<td width="50%" class="size1"><input type="text" name="clslogin_username" size="8" maxlength="16" class="reddishback" value=""></td>
+						<td width="50%" class="size1"><input type="password" name="clslogin_password" maxlength="16" size="8" class="reddishback"></td>
+					</tr>
+				</tbody></table>
+				<table cellpadding="0" cellspacing="0" width="100%" border="0">
+	        		<tbody><tr>
+	        			<td width="100%" height="5"></td>
+	            	</tr>
+	            </tbody></table>
+				<table cellpadding="0" cellspacing="0" width="100%" border="0">
+	            	<tbody><tr>
+						<td width="75%" class="size1" height="28" valign="top">
+							<table cellpadding="0" cellspacing="0" width="100%" border="0">
+                            	<tbody><tr>
+                            		<td width="100%" height="11" valign="bottom"><a href="http://www.lawcrossing.com/lcforgotpass.php"><img src="http://www.lawcrossing.com/images/tforgotpass.gif" width="130" height="7" border="0"></a></td>
+                            	</tr>
+                            </tbody></table>
+						</td>
+		        		<td width="25%" valign="top">
+						<input type="image" src="http://www.lawcrossing.com/images/signin_signin_normal.gif" width="48" height="15" alt="" border="0">
+						</td>
+	        		</tr>
+	            </tbody></table>
+			</td>
+			<td width="2%"></td>
+		</tr>
+	</tbody></table>
+			<table cellpadding="0" cellspacing="0" width="100%" border="0">
+				<tbody><tr>
+					<td width="100%" bgcolor="#975353"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr>
+				<tr>
+					<td width="100%" class="graybg" valign="bottom" height="4"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr>
+            </tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0">
+	<tbody><tr>
+		<td width="100%" height="22">&nbsp;</td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="742" border="0">
+	<tbody><tr>
+		<td width="14" class="maroonbg">&nbsp;</td>
+		<td width="498" valign="top" class="yellowbg">
+			<table cellpadding="0" cellspacing="0" width="100%" border="0">
+	<tbody><tr>
+		<td width="100%" height="57" class="maroonbg"><img src="images/tprivacy.gif" width="72" height="22" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="100%" background="images/yopattern.gif"><img src="images/yopattern.gif" alt="" border="0" width="16" height="11"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0">
+	<tbody><tr>
+		<td width="100%">&nbsp;</td>
+	</tr>
+</tbody></table>
+<table width="498" cellpadding="0" cellspacing="0" border="0" class="yellowbg">
+	<tbody><tr>
+		<td width="15"></td>
+		<td width="440" class="size1maroon"><b>Privacy Policy</b></td>
+		<td width="43"></td>
+	</tr>
+	<tr>
+		<td width="15"></td>
+		<td width="440" class="size1normal"><br><br>This privacy statement covers the site http://www.lawcrossing.com. If users have questions or concerns regarding this statement, they should first contact our User Privacy Department by emailing <a href="mailto:privacy@lawcrossing.com">privacy@lawcrossing.com</a>.  LawCrossing is deeply committed to maintaining your privacy.  
+ <br><br>
+
+<font class="size1maroon"><b>Why is your privacy so important to us? </b></font><br>
+Confidentiality and discretion are the cornerstones of every job search.  We consistently challenge ourselves to rise above every competitor in our honesty and discretion, and we believe we have met this challenge day after day.
+ 
+
+ <br><br>
+
+<font class="size1maroon"><b>What personally identifiable information is collected on this site? </b></font><br>
+In order to register as a LawCrossing member, users are required to give us contact information and demographic information. Visitors may also give up personally identifiable information for other purposes, including submitting a resume or asking a question about LawCrossing. LawCrossing does not collect personal information from you unless you provide it to us. This means that you can visit our site without telling us who you are or revealing any personally identifiable information about yourself.
+
+<br><br>
+<font class="size1maroon"><b>How is the information used? </b></font><br>
+When you supply personal information about yourself for a specific purpose, we use the information for only that purpose (such as to provide the service or information you have requested). Your contact information may also used to contact you when necessary to respond in accordance with the service or follow up with your expressed interest. Every communication with Law Crossing is held in strictest confidence, and none of your personal information will be disclosed to a potential employer without you taking affirmative action to disclose this information on your own. Your personal information will not be disclosed to other third parties under any circumstances. Any general demographic information that we receive will never be used to identify you, and may be used in our research to further develop our understanding of the job market. The general information may be disseminated or published if pertinent. <br><br>
+Should any material changes be made to the ways in which we use personally identifiable information, LawCrossing will post the changes to our use of personally identifiable information on our site at least 30 days prior to a change, to give users time to request removal of their information from our database.
+ <br><br>
+
+ 
+
+<font class="size1maroon"><b>Security</b></font><br>
+Personally identifiable information is stored on our database and is not publicly accessible. All LawCrossing employees must sign non-disclosure contracts that ensure the confidentiality of all personally identifiable information before gaining access to such information. This site has security measures in place to protect the loss, misuse and alteration of the information under our control, and meets or exceeds all industry standards for the protection and confidentiality of personally identifiable information.
+ 
+
+ <br><br>
+
+<font class="size1maroon"><b>Opt-out</b></font><br>
+If you have registered to receive our newsletter. job updates and other information and later change your mind, you may contact us to have your name removed from our distribution list. You have the following options to do this: <br><br>
+You can send an e-mail to <a href="mailto:privacy@lawcrossing.com">privacy@lawcrossing.com</a><br><br>
+You can send mail to the following address: <br><br>
+Consumer Privacy Department<br>
+LawCrossing                 <br>                                                                                                                            617 South Olive Street<br>
+Suite 1210<br>
+Los Angeles, CA 90014 <br><br>
+ 
+
+ 
+
+<font class="size1maroon"><b>Correct/Update</b></font><br>
+If you would like to verify the data we have received from you or to make corrections to it, or to deactivate the use of your personal information you may contact us directly at the addresses provided above. <br><br>
+ 
+
+ 
+
+<font class="size1maroon"><b>What anonymous information is collected on this site? </b></font><br>
+IP addresses are briefly logged but discarded within a short period of time. No anonymous information that may be received from visitors is used in any of our work, promotions, or research. <br><br>
+ 
+
+ 
+
+<font class="size1maroon"><b>How does this site use cookies? </b></font><br>
+LawCrossing uses cookies to identify your browser as you visit pages on the LawCrossing site. The cookies are used to present dynamic content so that you are not presented with identical content on every visit. No information from the cookies are used in any of our work, promotions or research. <br><br>
+ 
+
+ 
+
+<font class="size1maroon"><b>Links to external pages</b></font><br>
+This site may contain links to other Web sites. Please note that when you click on one of these links, you are entering another site. LawCrossing is not responsible for the privacy practices or the content of such Web sites. <br><br>
+ 
+
+ 
+
+<font class="size1maroon"><b>Legal Disclaimer</b></font><br>
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on LawCrossing. <br><br>
+ 
+
+ 
+
+<font class="size1maroon"><b>For more information</b></font><br>
+If you have any questions, concerns or comments regarding this statement, please e-mail <a href="mailto:privacy@lawcrossing.com">privacy@lawcrossing.com</a>. <br><br>
+<br><br><br><br></td>
+		<td width="43"></td>
+	</tr>
+</tbody></table>
+		</td>
+		<td width="230" class="maroonbg" valign="top">
+			<script language="javascript">
+function loadalljpgimage()
+{
+	MM_preloadImages('http://www.lawcrossing.com/images/htoprigb1.jpg','http://www.lawcrossing.com/images/htoprigb2.jpg','http://www.lawcrossing.com/images/htoprigb3.jpg',
+	'http://www.lawcrossing.com/images/htoprigb4.jpg','http://www.lawcrossing.com/images/htoprigb5.jpg','http://www.lawcrossing.com/images/htoprigt1.jpg','http://www.lawcrossing.com/images/htoprigt2.jpg',
+	'http://www.lawcrossing.com/images/htoprigt3.jpg','http://www.lawcrossing.com/images/htoprigt4.jpg','http://www.lawcrossing.com/images/htoprigt5.jpg');
+}
+function loadjamodule()
+{
+	MM_preloadImages('http://www.lawcrossing.com/images/iconseehow.gif','http://www.lawcrossing.com/images/iconseehowhover.gif');
+}
+</script>
+<map name="tellusaboutjob">
+	<area href="javascript:opentellusabout();" name="clickhere" shape="rect" coords="0,17,221,95">
+</map>
+<table border="0" cellpadding="0" cellspacing="0" width="230">
+	<tbody><tr>
+		<td class="backbg" width="1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+		<td valign="top" width="229">
+			<table border="0" cellpadding="0" cellspacing="0" width="229">
+				<tbody><tr>
+					<td width="3" height="3"><img src="http://www.lawcrossing.com/images/lcorner_lt.gif" border="0" width="3" height="3"></td>
+					<td height="3" background="http://www.lawcrossing.com/images/lcorner_topbg.gif"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+					<td width="3" height="3"><img src="http://www.lawcrossing.com/images/lcorner_rt.gif" border="0" width="3" height="3"></td>
+				</tr>
+				<tr>
+					<td width="3" background="http://www.lawcrossing.com/images/lcorner_leftbg.gif"><img src="http://www.lawcrossing.com/images/blanker.gif" border="0" width="3" height="3"></td>
+					<td width="223" align="left" valign="top" class="greybg2">
+						<table border="0" cellpadding="0" cellspacing="0" width="223">
+														<tbody><tr><td><a href="javascript:qthome('http://www.lawcrossing.com/');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('qtimg','','http://www.lawcrossing.com/images/iconseehowhover.gif',1)"><img src="http://www.lawcrossing.com/images/iconseehow.gif" alt="Quick Tour" name="qtimg" width="223" height="27" border="0"></a></td></tr>
+							<tr><td height="3" class="greybg1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td></tr>
+														<tr><td width="223"><table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="223" height="16" class="whitebg" valign="middle"><img src="http://www.lawcrossing.com/images/tp.gif" height="1" width="11"><img src="http://www.lawcrossing.com/images/lcjobsearch.gif" border="0" width="69" height="5"></td>
+	</tr>
+	<tr>
+		<td width="223" height="30"><img src="http://www.lawcrossing.com/images/iframe.gif" alt="" width="223" height="30" border="0"></td>
+	</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0">	
+	<tbody><tr>
+		<td width="223" height1="151" class="whitebg" align="center" valign="top">
+			<table border="0" cellspacing="0" cellpadding="0">	
+				<tbody><tr>
+					<td width="11" height1="156" class="whitebg"><img src="http://www.lawcrossing.com/images/tp.gif" height="1" width="11"></td>
+					<td width="212" height1="156" class="whitebg">	<table border="0" cellpadding="0" cellspacing="0" width="212">
+		<form id="formjobsrch" name="formjobsrch" method="post" action=""></form><input type="hidden" name="PHPSESSID" value="e3cd8928a41b8bd2b4c3d72c0bf008dc">
+		<tbody><tr>
+	  		<td valign="middle" class="size1normal"><img src="http://www.lawcrossing.com/images/blanker.gif" border="0" width="1" height="5"></td>
+		</tr>
+	  	<tr>
+			<td valign="middle" class="size1normal" height="15">Job Type</td>
+		</tr>
+	  	<tr>
+			<td valign="middle" height="21"><select name="clsjobalert_japaarray[]">
+				<option value="-1" selected="">Select All</option>
+					<option value="401">Attorney</option><option value="405">Clerkship</option><option value="402">Legal Staff</option><option value="404">Summer Associate / Internship</option> </select></td></tr>
+		<tr>
+			<td valign="middle" class="size1normal" height="15">Location</td>
+		</tr>
+		<tr>
+			<td valign="middle"><select name="clsjobalert_jobalertregionarray[]">
+				<option value="-1" selected="">Select All</option>
+					<option value="51">Alabama</option><option value="52">Alaska</option><option value="53">Arizona</option><option value="99">Arkansas</option><option value="54">California</option><option value="55">Colorado</option><option value="56">Connecticut</option><option value="57">Delaware</option><option value="58">District of Columbia</option><option value="59">Florida</option><option value="60">Georgia</option><option value="61">Hawaii</option><option value="62">Idaho</option><option value="63">Illinois</option><option value="64">Indiana</option><option value="100">Iowa</option><option value="65">Kansas</option><option value="66">Kentucky</option><option value="67">Louisiana</option><option value="68">Maine</option><option value="69">Maryland</option><option value="70">Massachusetts</option><option value="71">Michigan</option><option value="72">Minnesota</option><option value="73">Mississippi</option><option value="74">Missouri</option><option value="75">Montana</option><option value="76">Nebraska</option><option value="77">Nevada</option><option value="78">New Hampshire</option><option value="79">New Jersey</option><option value="80">New Mexico</option><option value="81">New York</option><option value="82">North Carolina</option><option value="101">North Dakota</option><option value="83">Ohio</option><option value="84">Oklahoma</option><option value="85">Oregon</option><option value="86">Pennsylvania</option><option value="87">Rhode Island</option><option value="88">South Carolina</option><option value="89">South Dakota</option><option value="90">Tennessee</option><option value="91">Texas</option><option value="92">Utah</option><option value="93">Vermont</option><option value="94">Virginia</option><option value="95">Washington</option><option value="96">West Virginia</option><option value="97">Wisconsin</option><option value="98">Wyoming</option><option value="2">Canada</option><option value="151">Alberta</option><option value="152">British Columbia</option><option value="153">Ontario</option><option value="154">Quebec</option><option value="3">International</option><option value="26">Argentina</option><option value="1477">Asia</option><option value="5">Australia</option><option value="27">Austria</option><option value="28">Azerbaijan</option><option value="1033">Belgium</option><option value="2587">Bermuda</option><option value="4">Brazil</option><option value="18">China</option><option value="21">Colombia</option><option value="29">Czech Republic</option><option value="14">Egypt</option><option value="2566">England</option><option value="1478">Europe</option><option value="31">France</option><option value="17">Germany</option><option value="9">Greece</option><option value="1135">Guernsey</option><option value="1150">Hong Kong</option><option value="32">Hungary</option><option value="33">Indonesia</option><option value="2569">Ireland</option><option value="7">Italy</option><option value="15">Japan</option><option value="23">Kazakhstan</option><option value="2586">Korea</option><option value="13">Lithuania</option><option value="1196">Luxembourg</option><option value="1210">Mexico</option><option value="39">Netherlands</option><option value="19">Philippines</option><option value="8">Poland</option><option value="25">Puerto Rico</option><option value="36">Russia</option><option value="35">Saudi Arabia</option><option value="1329">Singapore</option><option value="37">Slovakia</option><option value="1479">South America</option><option value="20">South Korea</option><option value="22">Spain</option><option value="24">Sweden</option><option value="12">Switzerland</option><option value="38">Taiwan</option><option value="34">Thailand</option><option value="11">UAE</option><option value="6">Ukraine</option><option value="30">United Kingdom</option><option value="16">Venezuela</option><option value="10">Vietnam</option><option value="2576">New south wales</option><option value="2577">Queensland</option><option value="2575">Victoria</option></select></td></tr>
+	  	<tr>
+			<td valign="middle" class="size1normal" height="15">Employer Type</td>
+		</tr>
+	  	<tr>
+			<td valign="middle"><select name="clsjobalert_japaarray[]">
+				<option value="-1" selected="">Select All</option>
+				<option value="101">Law Firm</option><option value="107">Corporate/Other</option></select></td>
+		</tr>
+	  	<tr>
+			<td valign="middle" class="size1normal"><input type="checkbox" name="clsjobalert_showrecruiters" value="Y" checked="">Show Recruiter Jobs</td>
+		</tr>
+	  	<tr>
+			<td align="right" height1="20" valign="bottom"><img src="../images/blanker.gif" border="0" width="20" height="1"></td>
+		</tr>
+	</tbody></table>
+	<table cellpadding="0" cellspacing="0" width="90%" border="0">
+    	<tbody><tr>
+			<td height="5"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		</tr>
+		<tr>
+        	<td width="90%" align="right"><a href="javascript:searchpagevalidation();"><img src="http://www.lawcrossing.com/images/left_searchjobs.gif" name="searchjobs" border="0" width="79" height="11"></a></td>
+    	</tr>
+		<tr>
+			<td class="size1normal" align="right" valign="bottom" height="18"><a href="http://www.lawcrossing.com/lcjsadvancesearch.php">Advanced search</a></td>
+		</tr>
+    </tbody></table>
+</td>
+			    </tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td width="223" height="5" class="whitebg"><img src="http://www.lawcrossing.com/images/blanker.gif" border="0" width="1" height="5"></td>
+	</tr>
+	<tr>
+		<td width="223" height="1" background="http://www.lawcrossing.com/images/horizontal_dots_gw.gif"><img src="http://www.lawcrossing.com/images/blanker.gif" border="0" width="1" height="1"></td>
+	</tr>
+<!-- 	<tr>
+		<td width="223" height="34" class="greybg2" 
+			valign="middle">&nbsp;&nbsp;&nbsp;<a href="javascript:openwintellus();"><img src="http://www.lawcrossing.com/images/tellusaboutjob.gif" border="0"></a></td>
+	</tr> -->
+	<tr><td></td></tr>
+</tbody></table>
+</td></tr>
+														<tr><td height="1" class="greybg1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td></tr>
+							<tr><td height="1" class="greybg1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td></tr>
+						</tbody></table>
+					</td>
+					<td height="3" background="http://www.lawcrossing.com/images/lcorner_rightbg.gif"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+				</tr>
+				<tr>
+					<td width="3" height="3"><img src="http://www.lawcrossing.com/images/lcorner_lb.gif" border="0" width="3" height="3"></td>
+					<td height="3" background="http://www.lawcrossing.com/images/lcorner_bottombg.gif"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td>
+					<td width="3" height="3"><img src="http://www.lawcrossing.com/images/lcorner_rb.gif" border="0" width="3" height="3"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr><td colspan="2" class="backbg" width="1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1"></td></tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" height="9" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0" class="yellowbg">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" height="22"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0" class="yellowbg">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" height="13" valign="top"><img src="http://www.lawcrossing.com/images/lcnearyou.gif" width="140" height="5" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0" class="yellowbg">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="213" align="center" height="30" valign="top">
+			<table cellpadding="0" cellspacing="1" width="206" border="0" class="yellowbgdark">
+				<tbody><tr>
+			    	<td width="206" class="whitebg">
+						<table cellpadding="0" cellspacing="1" width="100%" border="0">
+                        	<tbody><tr>
+                            	<td width="100%">
+									<table cellpadding="0" cellspacing="0" width="100%" border="0" class="yellowbg">
+                                    	<tbody><tr>
+                                        	<td width="100%" class="yellowbglit">
+												<table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                	<tbody><tr>
+                                                    	<td width="100%" height="6"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+                                                	</tr>
+                                                </tbody></table>
+												<table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                	<tbody><tr>
+                                                    	<td width="19%" align="center"><img src="http://www.lawcrossing.com/images/lcjobs.gif" width="24" height="5" border="0"></td>
+														<td width="1%" height="12">
+															<table cellpadding="0" cellspacing="0" width="1" border="0">
+                                                            	<tbody><tr>
+                                                                	<td width="1" background="http://www.lawcrossing.com/images/dotsearchh.gif" height="12"><img src="http://www.lawcrossing.com/images/watp.gif" alt="" width="1" height="2" border="0"></td>
+                                                            	</tr>
+                                                            </tbody></table>
+														</td>
+														<td width="80%"><img src="http://www.lawcrossing.com/images/lccity.gif" width="29" height="5" border="0"></td>
+                                                	</tr>
+                                                </tbody></table>
+												<table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                	<tbody><tr>
+                                                    	<td width="100%" height="1" background="http://www.lawcrossing.com/images/dotsearch.gif"><img src="http://www.lawcrossing.com/images/watp.gif" alt="" width="1" height="1" border="0"></td>
+                                                	</tr>
+                                                </tbody></table>
+												<table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                                	<tbody><tr>
+                                                    	<td width="100%" height="1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+                                                	</tr>
+                                                </tbody></table>
+												<iframe src="http://www.lawcrossing.com/lcjobcountcity.html" class="prabhu" name="jobstate" id="jobstate" width="203" height="112" marginwidth="0" marginheight="0" scrolling="yes" frameborder="0"></iframe>
+											</td>
+                                    	</tr>
+                                    </tbody></table>
+								</td>
+                        	</tr>
+                        </tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0" class="yellowbg">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214">&nbsp;</td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" height="9" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="17"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="8" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="202" class="yellowbg"><a href="javascript:opentellusabout()"><img src="http://www.lawcrossing.com/images/lctellusaboutajob.gif" width="150" height="12" border="0"></a></td>
+		<td width="2" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="11"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="8" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="202" class="yellowbg"><font class="size1green">Got a job to fill? Great LawCrossing Candidates want to know about it! Best of all, it's free! &nbsp;</font><font class="smallmaroon"><a href="javascript:opentellusabout()">+ click here</a></font></td>
+		<td width="2" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="22"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" height="9" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="17"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="8" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="202" class="yellowbg"><a href="http://www.lawcrossing.com/lccommsugg.php"><img src="http://www.lawcrossing.com/images/lcserverubetter.gif" width="143" height="20" border="0"></a></td>
+		<td width="2" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="11"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="8" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="202" class="yellowbg"><font class="size1green">If there is something we can do to serve you better. Please let us know </font><font class="smallmaroon"><a href="http://www.lawcrossing.com/lccommsugg.php">+ click here</a></font></td>
+		<td width="2" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="22"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="216" height="9" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="2" width="216" border="0">
+	<tbody><tr>
+		<td width="216" height="90" align="center" bgcolor="#CFCF30" class="headmaroon"><a href="javascript:newwindow('http://www.legalauthority.com');"><img src="http://www.lawcrossing.com/images/lcadla.gif" width="212" height="90" border="0"></a></td>
+	</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" height="9" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="17"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="8" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="202" class="yellowbg"><a href="#" onclick="newWindow=window.open('http://www.lawcrossing.com/chat/start_client_process.pl?function=start','client_chat_window','resizable=1,toolbar=0,menubar=0,width=325,height=400')"><img src="http://www.lawcrossing.com/images/lcchat.gif" border="0" name="chat" width="129" height="15"></a></td>
+		<td width="2" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="11"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="8" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="202" class="yellowbg"><font class="size1green">Chat live with a Customer Service Representative!</font>&nbsp;&nbsp;<font class="smallmaroon"><a href="#" onclick="newwindow=window.open('http://www.lawcrossing.com/chat/start_client_process.pl?function=start','client_chat_window','resizable=1,toolbar=0,menubar=0,width=325,height=400');">+ click here</a></font></td>
+		<td width="2" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="22"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" height="9" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="5"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="8" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="202" class="yellowbg"><a href="javascript:tellafriend();"><img src="http://www.lawcrossing.com/images/lctellafreindsmall.gif" width="110" height="21" border="0"></a></td>
+		<td width="2" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="11"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="8" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="202" class="yellowbg"><font class="size1green">Spread the world about LawCrossing<br></font><font class="smallmaroon"><a href="javascript:tellafriend();">+ send an email to a friend</a></font></td>
+		<td width="2" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg" height="22"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" height="9" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" background="http://www.lawcrossing.com/images/lcstorrypattern.gif" height="18"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbgdark" height="1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="whitebg" height="1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" class="yellowbg" height="15"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0" class="yellowbg">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" align="right"><img src="http://www.lawcrossing.com/images/lcstorygirl.gif" width="99" height="105" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbgdark" height="1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="whitebg" height="1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" class="yellowbg" height="5"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0" class="yellowbg">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="10"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="200" class="size1graydark"><img src="http://www.lawcrossing.com/images/lcslogan.gif" width="153" height="20" border="0"></td>
+		<td width="2"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0" class="yellowbg">
+	<tbody><tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" height="4"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="yellowbgdark" height="1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" class="whitebg" height="1"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+		<td width="2"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+    	<td width="214" background="http://www.lawcrossing.com/images/lcstorrypattern.gif" height="50"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="2" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+		<td width="214" height="9" class="maroonbg"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="2" width="216" border="0">
+   	<tbody><tr>
+		<td width="216" height="149">
+				<img src="http://www.lawcrossing.com/images/hleftban2.jpg" width="212" height="149" alt="" border="0">
+				</td>
+	</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="216" class="maroonbg" height="9"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="2" width="216" border="0">
+	<tbody><tr>
+		<td width="216" height="90" align="center" class="whitebg"><a href="javascript:newwindow('http://www.bcgsearch.com');"><img src="http://www.lawcrossing.com/images/lcadbcg.gif" width="212" height="90" alt="" border="0"></a></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="216" class="maroonbg" height="9"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="2" width="216" border="0">
+	<tbody><tr>
+		<td width="216" height="9" align="center"><a href="javascript:newwindow('http://www.lawfirmstaff.com');"><img src="http://www.lawcrossing.com/images/lcadlfs.gif" width="212" height="90" alt="" border="0"></a></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="216" border="0">
+	<tbody><tr>
+    	<td width="216" class="maroonbg" height="9"><img src="http://www.lawcrossing.com/images/watp.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="2" width="216" border="0">
+	<tbody><tr>
+		<td width="216" height="9" align="center"><img src="http://www.lawcrossing.com/images/lcrightbanner1.gif" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<!--- Bottom include starts here --->
+<table cellpadding="0" cellspacing="0" width="742" border="0" class="maroonbg">
+	<tbody><tr>
+		<td width="100%">&nbsp;</td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="742" class="maroonbg" border="0">
+	<tbody><tr>
+		<td width="35">&nbsp;</td>
+		<td width="707" class="bnav" height="15">	<font color="#907171">
+			+&nbsp;<a href="http://www.lawcrossing.com/lcabout.php">about LawCrossing</a>&nbsp;&nbsp;
+			+&nbsp;<a href="http://www.lawcrossing.com/lchelp.php">help</a>&nbsp;&nbsp;
+			+&nbsp;<a href="http://www.lawcrossing.com/lcadvertise.php">advertise with us</a>&nbsp;&nbsp;
+			+&nbsp;<a href="http://www.lawcrossing.com/lcprivacy.php">privacy</a>&nbsp;&nbsp;
+			+&nbsp;<a href="http://www.lawcrossing.com/lcterms.php">terms of use</a>&nbsp;&nbsp;
+			+&nbsp;<a href="http://www.lawcrossing.com/sitemap.php">site map</a></font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td class="bnav"><font color="#7E4F4F">©&nbsp;2003 LawCrossing. All rights reserved.</font></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="742" border="0" class="maroonbg">
+	<tbody><tr>
+		<td width="100%" height="20">&nbsp;</td>
+	</tr>
+</tbody></table>
+</center><!--- Bottom include ends here --->
+
+
+
+			</body></html>
