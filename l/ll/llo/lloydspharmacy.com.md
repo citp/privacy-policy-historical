@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232933id_/http%3A//www.lloydspharmacy.com/6-0-0-0.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207093630id_/http%3A//www.lloydspharmacy.com/6-0-0-0.htm) for the most accurate reproduction.*
 
 # Lloydspharmacy - Privacy Policy
 
@@ -9,7 +9,6 @@ Lloyds Pharmacy Limited is a company incorporated in England and is a member of 
 Admenta UK plc  
 John Bell & Croyden Limited  
 G J Maley Limited (Isle of Man subsidiary)  
-Quennevais Pharmacy Limited (Jersey subsidiaries)  
 Savory &Moore (Jersey) Limited  
 Stephen Smith Limited (Guernsey subsidiary)  
 AAH Pharmaceuticals Limited  
