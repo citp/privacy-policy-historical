@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602201113id_/http%3A//payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202144711id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
 
-# PayScale - Salary Information, Wages, Compensation Surveys and Analysis
+# PayScale - Salary Survey, Salaries, Wages, Compensation Information and Analysis
 
 | [](https://web.archive.org/default.asp) |  |  |  |   Privacy Policy  
 ---|---|---|---|---  
