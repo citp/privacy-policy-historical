@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602083512id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031053id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
-# Arizona State University
+# Arizona State University | Privacy Statement
 
 [Home](https://web.archive.org/) > **Privacy Statement**
 
