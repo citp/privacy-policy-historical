@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleknot.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618144134id_/http%3A//www.doubleknot.com/DK_PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleknot.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206232830id_/http%3A//www.doubleknot.com/DK_PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
@@ -12,7 +12,7 @@ Saratoga, California 95070
 USA   
 Email: doubleknot@doubleknot.com   
 Telephone: +1 408-971-9120   
-Fax: +1 734-448-8179 
+Fax: +1 408-850-8182 
 
 **Privacy**  
 We realize most organizations, especially those that include youth membership, are very concerned about privacy.  Keeping member information secure, and using it only as our members would want us to, is a top priority. It is Doubleknot's policy that all your membership information is confidential and owned by your organization.  Doubleknot does not rent, sell, or share personal information about you or your organization with other people or other companies except to fulfill products or services you've requested, comply with law enforcement and to classify your organization in our list of member organizations.  Access by you to your Member Information is available through a password and unique user ID.  By default, from  log in to log out, all communication between our server and your browser is encrypted. 
