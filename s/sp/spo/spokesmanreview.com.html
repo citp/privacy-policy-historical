@@ -1,7 +1,21 @@
-<!--The following is the downloaded HTML source of the spokesmanreview.com privacy policy that was archived on 2002-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020609161428id_/http%3A//spokesmanreview.com/help/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spokesmanreview.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208092737id_/http%3A//www.spokesmanreview.com/help/privacy.asp) for the most accurate reproduction.-->
 
-<html><!-- begin functions.asp --><!-- begin registrationtest/functions.inc --><!-- end registrationtest/functions.inc --><head><script language="JavaScript" type="text/javascript">
+<html><!-- begin functions.asp --><!-- script to clear out text field of forms when clicked on--><head><script language="JavaScript">
+function clearText(thefield)
+{
+if (thefield.defaultValue==thefield.value)
+thefield.value = ""
+} 
+</script>
+
+
+
+
+<!-- here is the globalSQLConn3(ap, dbConn) -->
+
+
+<script language="JavaScript" type="text/javascript">
 function imgswapon(name)
 {
 	if (document.images)
@@ -42,6 +56,7 @@ function unsetstat()
 <font class="navhed">News</font><br>
 <a class="leftnav" href="/news/allcat.asp?cat=spokane" onmouseover="imgswapon(&quot;spokane&quot;);return false;" onmouseout="imgswapoff(&quot;spokane&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="spokane">Spokane</a><br>
 <a class="leftnav" href="/news/allcat.asp?cat=idaho" onmouseover="imgswapon(&quot;idaho&quot;);return false;" onmouseout="imgswapoff(&quot;idaho&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="idaho">Idaho</a><br>
+<a class="leftnav" href="/library/valley/cover.asp" onmouseover="imgswapon(&quot;valley&quot;);return false;" onmouseout="imgswapoff(&quot;valley&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="valley">Valley</a><br>
 <a class="leftnav" href="/news/allcat.asp?cat=regional" onmouseover="imgswapon(&quot;regional&quot;);return false;" onmouseout="imgswapoff(&quot;regional&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="regional">Region</a><br>
 <a class="leftnav" href="/news/allcat.asp?cat=national" onmouseover="imgswapon(&quot;nation&quot;);return false;" onmouseout="imgswapoff(&quot;nation&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="nation">Nation</a><br>
 <a class="leftnav" href="/news/allcat.asp?cat=international" onmouseover="imgswapon(&quot;world&quot;);return false;" onmouseout="imgswapoff(&quot;world&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="world">World</a><br>
@@ -61,7 +76,6 @@ function unsetstat()
 
 <font class="navhed">Extra</font><br>
 
-<a class="leftnav" href="/news/newspackages.asp" onmouseover="imgswapon(&quot;reports&quot;);return false;" onmouseout="imgswapoff(&quot;reports&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="reports">Special reports</a><br>
 <a class="leftnav" href="/news/specialsections.asp" onmouseover="imgswapon(&quot;sections&quot;);return false;" onmouseout="imgswapoff(&quot;sections&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="sections">Special sections</a><br>
 <a class="leftnav" href="/forums/cover.asp" onmouseover="imgswapon(&quot;forums&quot;);return false;" onmouseout="imgswapoff(&quot;forums&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="forums">Forums</a><br>
 <a class="leftnav" href="/sections/ourgen" onmouseover="imgswapon(&quot;teensonly&quot;);return false;" onmouseout="imgswapoff(&quot;teensonly&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="teensonly">Teens only</a><br>
@@ -177,6 +191,7 @@ function unsetstat()
 <a class="leftnav" href="/help/newstip.asp" onmouseover="imgswapon(&quot;newstip&quot;);return false;" onmouseout="imgswapoff(&quot;newstip&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="newstip">News tip</a><br>
 <a class="leftnav" href="/interact/pulse/cover.asp" onmouseover="imgswapon(&quot;feedback&quot;);return false;" onmouseout="imgswapoff(&quot;feedback&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="feedback">Feedback</a><br>
 <a class="leftnav" href="/help/contact.asp" onmouseover="imgswapon(&quot;contact&quot;);return false;" onmouseout="imgswapoff(&quot;contact&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="contact">Contact us</a><br>
+<a class="leftnav" href="/jobs/cover.asp" onmouseover="imgswapon(&quot;jobs&quot;);return false;" onmouseout="imgswapoff(&quot;jobs&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="jobs">SR jobs</a><br>
 <a class="leftnav" href="/help/privacy.asp" onmouseover="imgswapon(&quot;privacy&quot;);return false;" onmouseout="imgswapoff(&quot;privacy&quot;);return false;"><img src="/images/arrow-off.gif" width="11" height="11" border="0" name="privacy">Privacy policy</a><br><br>
 <a href="http://www.spokane.net" target="_top"><img src="/images/spokanenet.gif" width="120" height="22" border="0" alt="Spokane.net"></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -190,10 +205,11 @@ function unsetstat()
 	<tbody><tr><td colspan="6">
 	<!-- Start Banner Ad Generation Code -->
 
+<img src="/advertising/ads/banner-ad-test" width="1" height="1"><br>
 <table width="120" border="1" cellspacing="0" cellpadding="0" bordercolor="#336699">
   <tbody><tr> 
     <td align="middle"> 
-<a href="/advertising/default.asp?content=townhound.asp" target="_blank"><img src="/advertising/ads/tc_banner.gif" border="0"></a><br>
+<a href="/advertising/adclick.asp?url=http://www.abacus-llc.com" target="_blank"><img src="/advertising/ads/197207-42143-126-a-button.gif" border="0" width="468" height="60"></a><br>
     </td>
   </tr>
 </tbody></table>
@@ -202,7 +218,7 @@ function unsetstat()
 	</td></tr>
 		<tr valign="BOTTOM">
 	    <td colspan="5">
-			<table border="0" width="451"><tbody><tr><td align="left"><a href="/cover.asp"><img src="/images/small-logo.gif" width="200" height="20" border="0"></a></td><td align="right"><font size="2" face="Tahoma, Sans-serif">Sunday, June&nbsp;9, 2002</font></td></tr></tbody></table><br>
+			<table border="0" width="451"><tbody><tr><td align="left"><a href="/cover.asp"><img src="/images/small-logo.gif" width="200" height="20" border="0"></a></td><td align="right"><font size="2" face="Tahoma, Sans-serif">Sunday, December&nbsp;8, 2002</font></td></tr></tbody></table><br>
 		</td>
     </tr>
     <tr valign="TOP">
