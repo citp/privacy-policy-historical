@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axcis.co.uk privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605082404id_/http%3A//axcis.co.uk/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axcis.co.uk privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013113857id_/http%3A//www.axcis.co.uk/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of Axcis teacher recruitment
 
@@ -34,4 +34,4 @@ Axcis Ltd use cookies to restrict the pop up advertisements and for no other pur
 
 **7\. Questions** ****
 
-If you have a question, of any type, about the Axcis.co.uk web site or privacy policy or the use to which we put information we gather, please contact Wade Baylis on 07799 032199 or e-mail [privacypolicy@axcis.co.uk](mailto:privacypolicy@axcis.co.uk)
+If you have a question, of any type, about the Axcis.co.uk web site or privacy policy or the use to which we put information we gather, please email [privacypolicy@axcis.co.uk](mailto:privacypolicy@axcis.co.uk)
