@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the incredible.co.za privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610125004id_/http%3A//www.incredible.co.za/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredible.co.za privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208123333id_/http%3A//www.incredible.co.za/privacy_statement.asp) for the most accurate reproduction.*
 
 # Incredible Connection : Privacy Statement
 
-**Incredible Connection ("we" or "us) have adopted the following privacy policy which applies to all personal information ("information") collected by us from visitors ("you" or "your") to the website ("the site")**
+**Connection Group Holdings Limited Reg No:1997/005390/06 ("we" or "us) have adopted the following privacy policy which applies to all personal information ("information") collected by us from visitors ("you" or "your") to the website ("the site")**
 
 When and how we collect information \- Information is collected by specifically requesting it from you, generally this occurs when you register on the site or buy a product online. 
 
