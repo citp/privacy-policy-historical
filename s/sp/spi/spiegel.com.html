@@ -1,20 +1,17 @@
-<!--The following is the downloaded HTML source of the spiegel.com privacy policy that was archived on 2002-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602112701id_/http%3A//www.spiegel.com/customer/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spiegel.com privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206033155id_/http%3A//www.spiegel.com/customer/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
-<title>Spiegel: Privacy Policy</title>
-
+<html><head><script language="JavaScript" src="/include/personalization_cookie_functions.js"></script>
 
 
+<title>Spiegel | Privacy Policy</title>
 
-<script language="JavaScript" type="text/javascript">
+
+<script language="JavaScript">
 <!--
 
 
-
-
-
-
+//Client Side Detection Code
 var agt=navigator.userAgent.toLowerCase();
 var is_mac    = (agt.indexOf("mac")!=-1);
 var is_win	= ( (agt.indexOf("win")!=-1) || (agt.indexOf("16bit")!=-1) );
@@ -32,408 +29,256 @@ var is_ie4  = (is_ie && (is_major == 4) && (msie_real_vers < 5));
 var is_ie4up  = (is_ie  && (is_major >= 4));
 var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4);
 
+//style sheet
 
 
+	document.write("<link rel='stylesheet' type='text/css' HREF='/scripts/winter_ss_redesign_global_styles.css'>");
 
 
-if (is_win && is_nav4up)
-	document.write("<link rel=stylesheet type='text/css' HREF='/scripts/ss_win_nav_global_styles.css'>");
-else if (is_mac && is_nav4up)
-	document.write("<link rel=stylesheet type='text/css' HREF='/scripts/ss_mac_nav_global_styles.css'>");
-else if (is_mac && is_ie4up)
-	document.write("<link rel=stylesheet type='text/css' HREF='/scripts/ss_mac_ie_global_styles.css'>");
-else //default to ie for windows
-	document.write("<link rel=stylesheet type='text/css' HREF='/scripts/ss_win_ie_global_styles.css'>");
-/*
-var brs	
-if (is_win && is_nav4up)
-	brs="win nav4"
-else if (is_mac && is_nav4up)
-	brs="mac nav4"
-else if (is_mac && is_ie4up)
-	brs="mac ie"
-else //default to ie for windows
-	brs="default"
-		
-alert(brs);
-
-*/
 	
+// rollover for top navigation items
+function topNavRollOver(nm, loc){loc.src="/assets/navigation_images/"+nm}
+
+
+
+function checkValidity(strToChk){
+	var spaceCounter = 0;
+	for (y=0;y<strToChk.length;y++)
+		{if (strToChk.charAt(y) == " ")
+			spaceCounter++;
+		}
+	if (spaceCounter == strToChk.length || strToChk.length==0 ){
+		alert("Please enter search terms.");
+		return false;
+		}
+	else
+		return true;
+}
+
+
+
+
+
+//your javascript goes here
 //-->
-</script><link rel="stylesheet" type="text/css" href="/scripts/ss_win_ie_global_styles.css">
+</script><link rel="stylesheet" type="text/css" href="/scripts/winter_ss_redesign_global_styles.css">
+
 </head>
-<body bgcolor="#FFFFFF" text="#000000" link="#000066" vlink="#666666" alink="#666666">
-<table border="0" width="600" cellpadding="0" cellspacing="0">
-<tbody><tr valign="top">
-<td align="left" width="150" valign="top" rowspan="2">
-        
-<style>
-.monospace {font-family: Courier, monospace;}
-</style>
 
-<!--left nav table -->
+<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
+<!-- HEADER -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<!--TOP NAV-->
+	<tbody><tr>
+		<td valign="top" width="725" bgcolor="#666666">
+			<table cellpadding="0" cellspacing="0" border="0" width="725">
+				<tbody><tr>
+					<!--SPIEGEL LOGO-->
+					<td width="132" rowspan="4"><a target="_top" href="http://www.spiegel.com/home.asp"><img src="/assets/navigation_images/sp_bttn_tn_splogo_132x60.gif" width="132" height="60" border="0"></a></td>
+					<!--SPACER ROW-->
+					<td width="593"><img src="/assets/images/shim.gif" width="593" height="3"></td>
+				</tr>
+				<tr>
+					<!--SHOPPING BAG ROW-->
+					<td width="593" align="right">
+						<table cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td><img src="/assets/images/shim.gif" width="7" height="1"><a target="_top" href="http://www.spiegel.com/home.asp"><img src="/assets/navigation_images/sp_bttn_tn_tohome_69x16.gif" width="69" height="16" border="0"></a><img src="/assets/images/shim.gif" width="17" height="1"><a target="_top" href="http://www.spiegel.com/my/default.asp"><img src="/assets/navigation_images/sp_bttn_tn_myacct_84x16.gif" width="84" height="16" border="0"></a><img src="/assets/images/shim.gif" width="15" height="1"><a target="_top" href="http://www.spiegel.com/shop/basket.asp"><img src="/assets/navigation_images/sp_bttn_tn_shopbag_110x16.gif" width="110" height="16" border="0"></a></td>
+								<td valign="middle"><img src="/assets/images/shim.gif" width="7" height="2"><span class="smallprintreverse"><br>&nbsp;( 
+<script language="javascript">
+<!--
+//declarations dictionary, quantity, for loop counter,
+//item attribute collection, actual quantity (e.g. 2 pairs of pants)
+var item_count
+var item_index
+var item
+var quantity
+var iCookieCount
+//initialize the quantity counter.
+quantity = 0
+iCookieCount = getCookie("bc");
+document.write(iCookieCount);
+// -->
+</script>0
+ item(s) )
+</span></td>
+								<td><img src="/assets/images/shim.gif" width="15" height="1"><a target="_top" href="http://www.spiegel.com/P2I/default.asp"><img src="/assets/navigation_images/sp_bttn_tn_shop-cat_116x16.gif" width="116" height="16" border="0"></a><img src="/assets/images/shim.gif" width="15" height="1"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<!--SPACER ROW-->
+					<td width="593"><img src="/assets/images/shim.gif" width="593" height="10"></td>
+				</tr>
+				<tr>
+					<!--CATEGORY ROW-->
+					<td width="593" align="right" valign="bottom"><a target="_top" href="http://www.spiegel.com/shop/category_splash.asp?gp_cat_id=284" onmouseout="topNavRollOver('sp_bttn_tn_fshn_off_66x25w.gif', document.topnavimg0)" onmouseover="topNavRollOver('sp_bttn_tn_fshn_on_66x25w.gif', document.topnavimg0)"><img src="/assets/navigation_images/sp_bttn_tn_fshn_off_66x25w.gif" name="topnavimg0" border="0" alt="Fashion"></a><img src="/assets/navigation_images/sp_elem_EAEAC4_spacer_1x1.gif" width="1" height="18"><a target="_top" href="http://www.spiegel.com/shop/category_splash.asp?gp_cat_id=282" onmouseout="topNavRollOver('sp_bttn_tn_home_off_100x25w.gif', document.topnavimg1)" onmouseover="topNavRollOver('sp_bttn_tn_home_on_100x25w.gif', document.topnavimg1)"><img src="/assets/navigation_images/sp_bttn_tn_home_off_100x25w.gif" name="topnavimg1" border="0" alt="For the Home"></a><img src="/assets/navigation_images/sp_elem_EAEAC4_spacer_1x1.gif" width="1" height="18"><a target="_top" href="http://www.spiegel.com/shop/category_splash.asp?gp_cat_id=283" onmouseout="topNavRollOver('sp_bttn_tn_elec_off_93x25w.gif', document.topnavimg2)" onmouseover="topNavRollOver('sp_bttn_tn_elec_on_93x25w.gif', document.topnavimg2)"><img src="/assets/navigation_images/sp_bttn_tn_elec_off_93x25w.gif" name="topnavimg2" border="0" alt="Electronics"></a><img src="/assets/navigation_images/sp_elem_EAEAC4_spacer_1x1.gif" width="1" height="18"><a target="_top" href="http://www.spiegel.com/shop/category_splash.asp?gp_cat_id=678" onmouseout="topNavRollOver('sp_bttn_tn_kids_off_42x25w.gif', document.topnavimg3)" onmouseover="topNavRollOver('sp_bttn_tn_kids_on_42x25w.gif', document.topnavimg3)"><img src="/assets/navigation_images/sp_bttn_tn_kids_off_42x25w.gif" name="topnavimg3" border="0" alt="Kids"></a><img src="/assets/navigation_images/sp_elem_EAEAC4_spacer_1x1.gif" width="1" height="18"><a target="_top" href="http://www.spiegel.com/shop/category_splash.asp?gp_cat_id=681" onmouseout="topNavRollOver('sp_bttn_tn_jewl_off_63x25w.gif', document.topnavimg4)" onmouseover="topNavRollOver('sp_bttn_tn_jewl_on_63x25w.gif', document.topnavimg4)"><img src="/assets/navigation_images/sp_bttn_tn_jewl_off_63x25w.gif" name="topnavimg4" border="0" alt="Jewelry"></a><img src="/assets/navigation_images/sp_elem_EAEAC4_spacer_1x1.gif" width="1" height="18"><a target="_top" href="http://www.spiegel.com/shop/category_splash.asp?gp_cat_id=679" onmouseout="topNavRollOver('sp_bttn_tn_gift_off_47x25w.gif', document.topnavimg5)" onmouseover="topNavRollOver('sp_bttn_tn_gift_on_47x25w.gif', document.topnavimg5)"><img src="/assets/navigation_images/sp_bttn_tn_gift_off_47x25w.gif" name="topnavimg5" border="0" alt="Gifts"></a><img src="/assets/navigation_images/sp_elem_EAEAC4_spacer_1x1.gif" width="1" height="18"><a target="_top" href="javascript:var jumpwin=window.open('/customer/sp_jump_to_page.asp','jumpwin','width=400,height=225,top=100,left=150,resizable=no,scrollbars=no')" onmouseout="topNavRollOver('sp_bttn_tn_ulti_off_61x25w.gif', document.topnavulti)" onmouseover="topNavRollOver('sp_bttn_tn_ulti_on_61x25w.gif', document.topnavulti)"><img name="topnavulti" src="/assets/navigation_images/sp_bttn_tn_ulti_off_61x25w.gif" width="61" height="25" border="0" alt="Ultimate Outlet - Save 30-70%"></a><img src="/assets/navigation_images/sp_elem_EAEAC4_spacer_1x1.gif" width="1" height="18"><a target="_top" href="/emarket/" onmouseout="topNavRollOver('sp_bttn_tn_emkt_off_74x25w.gif', document.topnavemkt)" onmouseover="topNavRollOver('sp_bttn_tn_emkt_on_93x25w.gif', document.topnavemkt)"><img name="topnavemkt" src="/assets/navigation_images/sp_bttn_tn_emkt_off_74x25w.gif" width="74" height="25" border="0" alt="Virtual Mall"></a></td></tr>
+			</tbody></table>
+		</td>
+		<td valign="top" align="left" width="1" bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="1"></td>
+		<td valign="top" align="left" width="103" bgcolor="#666699">				<a href="http://www.spiegel.com/shop/thumbnail.asp?nav_cat_id=1287&amp;gp_cat_id=284&amp;category_id=1505"><img src="/assets/navigation_images/sp_bttn_tn_winter_an_145x60.gif" width="145" height="60" border="0" alt="Weekly Specials"></a></td>
+		<td valign="top" width="100%" bgcolor="#666699">&nbsp;</td>
+	</tr>
+	<!--WHITE LINE B/W BODY AND TOP NAV-->
+	<tr>
+		<td colspan="3" bgcolor="#FFFFFF"><img src="/assets/images/shim.gif" width="1" height="1"></td>
+		<td bgcolor="#FFFFFF" width="100%"><img src="/assets/images/shim.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+<!--HEADER ENDS-->
 
-<table align="right" border="0" width="151" cellpadding="0" cellspacing="0">
-<!-- begin upper left nav table -->
-<tbody><tr valign="top" align="center">
-<td valign="top">
-	<table align="center" border="0" width="151" cellpadding="0" cellspacing="0">
-	<tbody><tr valign="top" align="center">
-	
+
+<!-- MAIN CONTENT -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+
 		
-		<td width="151"><a href="/home.asp" target="_parent"><img src="/assets/navigation_images/sp_elem_ul_spiegel_b.gif" width="151" height="70" border="0"></a></td>
-		</tr>
-     
-
-	<tr valign="middle" align="center">
-	<td width="151" bgcolor="#333399"><form target="_top" method="POST" action="/shop/search_results.asp"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle"><span class="searchtext">Search&nbsp;</span></td><td valign="middle"><font class="monospace"><input type="text" name="keyword" value="" size="8"></font></td><td valign="middle" align="center"><img src="/assets/images/spacer.GIF" width="2" height="12" border="0"><input type="IMAGE" src="/assets/navigation_images/sp_bttn_rtarrow.gif" width="12" height="12" border="0" alt="Search" name="Search"></td></tr>
-	
-        <tr><td colspan="2" height="20" valign="bottom" align="right"><a class="advsearchtext" href="/shop/search.asp" target="_top"> Advanced Search </a></td><td align="right" valign="bottom"><img src="/assets/images/spacer.GIF" width="2" height="12" border="0"><a href="/shop/search.asp" target="_top"><img src="/assets/navigation_images/sp_bttn_rtarrow.gif" width="12" height="12" border="0"></a></td></tr>
-                
-</tbody></table></form></td>
-                                                
-</tr>
+		
+		<td valign="top" width="150" height="100%" bgcolor="#666699">
 
 
-
-  	<tr valign="top" align="center"><!-- row 4 -->
-  	<td><img src="/assets/navigation_images/sp_elem_bttm_151x12.gif" width="151" height="12" border="0"></td>
- 	</tr>
- 	<tr>
- 		<td>
- 	<!--BEGIN COREMETRICS - if filename is not horo_drill.asp throw a regular pageview,
-	<!--if it is, throw pageview with querystring value appended to cm_PageName and cm_ClientPageID
-	<!--so Spiegel will know which horoscope page was looked at.-->
-	
-	
-	<script language="javascript">
-	<!--
-	/* Pageview Data-Tag v2.4.5, 08/29/2000
-	   COPYRIGHT 1999-2000 COREMETRICS, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. */
-	
-	/* variables begin here */
-	cm_ReferralURL = "";
-	cm_URL = "";
-	cm_Search= "";
-	cm_PageName = "customer/privacy.asp";
-	cm_ClientPageID = cm_PageName;
-	cm_ContentName = "";
-	cm_ParentContentName = "";
-	cm_PageExtraString1 = "";
-	cm_PageExtraString2 = "";
-	cm_PageExtraNumeric1 = "";
-	cm_PageExtraNumeric2 = "";
-	cm_ActionName1 = "";
-	cm_ActionName2 = "";
-	cm_ActionName3 = "";
-	cm_PromotionName = "";
-	cm_PageCount = "Yes";
-	/* variables end here */
-	
-	var cm_Display = "";
-	cm_Version2="e2.4.5";
-	//-->
-	</script>
-	<script language="javascript" src="/coremetrics/pageview.js"></script>
-	<script language="javascript">
-	<!--
-	document.write(cm_Display);
-	document.write('<br>');
-	//-->
-	</script><img width="1" height="1" src="https://data.coremetrics.com/eluminate?pt%3DC%26vn1%3De2.4.5%26vn2%3De2.4.5%26ci%3D90000008%26rf%3D%26ul%3Dhttps%253A//web.archive.org/web/20020602112701id_/http%25253A//www.spiegel.com/customer/privacy.asp%26se%3D%26pn%3Dcustomer/privacy.asp%26pi%3Dcustomer/privacy.asp%26cn%3D%26sc%3D%26ps1%3D%26ps2%3D%26pn1%3D%26pn2%3D%26a1%3D%26a2%3D%26a3%3D%26pa%3D%26pc%3DYes%26ts%3DYes%26tp%3DYes%26rnd%3D114181"><br>
-	<noscript>
-	<IMG width="1" height="1" src="http://data.coremetrics.com/eluminate?pt=C&vn1=e2.4&vn2=e2.4&ci=90000008&rf=&ul=&pn=&pi=&cn=&sc=&vi=&fn=&ln=&ag=&gd=&ad1=&ad2=&ct=&sa=&zp=&cy=&th=&be=&nl=&sd=&hf=&s1=&s2=&s3=&s4=&s5=&s6=&n1=&n2=&n3=&n4=&n5=&n6=&ps1=&ps2=&pn1=&pn2=&a1=&a2=&a3=&pa=&pc=&ts=&tp=&rnd=">
-	</noscript>
-
-
-	<!--END COREMETRICS-->
- 		</td>
- 	</tr>
-	
-
-
-<input type="HIDDEN" name="VIEWMODE" value="">
-
-
-
-	</tbody></table>
-  <!-- end upper left nav table -->
-
-
-
-
-<!--vertical spacer-->
-</td></tr><tr><td><img src="/assets/images/spacer.GIF" width="151" height="9"></td></tr>
-
-<!--EMAIL REG-->
-<tr>
-	<td><a href="/customer/emailopt.asp"><img src="/assets/navigation_images/sp_bttn_leftnav_email.gif" width="151" height="27" border="0"></a>
-
-</td></tr>
-
-
-<!--vertical spacer-->
-<tr><td><img src="/assets/images/spacer.GIF" width="151" height="9"></td></tr>
-
-<tr align="center" valign="top">
-<td width="151">
-
-	
-
-
-<!--begin the table that contains nav images-->
-<table align="center" border="0" width="151" cellpadding="0" cellspacing="0">
-
-<!--upper curve( 151x12 pts) -->
-<tbody><tr align="center"><td width="151"><img src="/assets/navigation_images/sp_elem_top_151x12.gif" width="151" height="12"></td></tr>
-
-
-<!--spacer( 151x1 pts) -->
-<tr align="center"><td width="151"><img src="/assets/images/spacer.GIF" width="151" height="1"></td></tr>
-
-<tr align="CENTER">
-	<td width="151" align="left" height="12" style="color:white; background-color: #6666CC;" onmouseover="this.style.backgroundColor='#333399'" onmouseout="this.style.backgroundColor='#6666CC'" onclick="location='/customer/contact.asp'">
-	<span class="leftnavcategory">&nbsp;&nbsp;</span><a target="_parent" href="/customer/contact.asp" class="leftnavcategory">Contact Us</a></td>
+				<!-- LEFT NAV -->
+				<table cellpadding="0" cellspacing="0" border="0" width="150">
+	<tbody><tr>
+		<td valign="top" align="left" width="150" bgcolor="#666699" rowspan="2">
+			<table cellpadding="0" cellspacing="0" border="0" width="149">
+				<!--PERSONALIZATION AREA-->
+<tbody><tr><td bgcolor="#666699"><img src="/assets/images/shim.gif" width="1" height="3"></td></tr>				<tr>
+<td valign="top" width="149" bgcolor="#666699"><span class="bodytextreverse">&nbsp;<script language="JavaScript">
+<!--
+var iCookieCount
+iCookieCount = getCookie("wc");
+var myUserName = getUserName();
+if (myUserName == null) {
+document.write("Welcome to Spiegel.<br>&nbsp;<a target=\"_top\" href=\"https://www.spiegel.com/my/my_register.asp\" alt=\"Sign up\" class=\"bodytextreverse\">Sign up</a> or <a target=\"_top\" href=\"https://www.spiegel.com/my/my_login.asp\" alt=\"log in\" class=\"bodytextreverse\">log in</a>.</span>");
+} else {
+	if (myUserName == "") {
+		document.write("logged in no username");
+	} else {
+		document.write("Hi " + myUserName + ",<br>Your <a target=\"_top\" href=\"http://www.spiegel.com/my/wishlist/wish_default.asp\" alt=\"wishlist\" class=\"bodytextreverse\">wishlist</a> has " + iCookieCount + " item(s).");
+	}
+}
+// -->
+</script>Welcome to Spiegel.<br>&nbsp;<a target="_top" href="https://www.spiegel.com/my/my_register.asp" alt="Sign up" class="bodytextreverse">Sign up</a> or <a target="_top" href="https://www.spiegel.com/my/my_login.asp" alt="log in" class="bodytextreverse">log in</a>.</span>
+<br></td>
+ 					<td width="1" rowspan="80" bgcolor="#666699"><img src="/assets/images/shim.gif" width="1" height="1"></td>
+				</tr>
+<tr><td bgcolor="#666699"><img src="/assets/images/shim.gif" width="1" height="3"></td></tr><tr><td bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="5"></td></tr>				<!--SEARCH AREA-->
+				<tr>
+					<td valign="top" width="149" bgcolor="#FFFFFF"><form name="searchForm" method="post" action="http://www.spiegel.com/shop/search_results.asp" onsubmit="return checkValidity(document.searchForm.keyword.value);" target="_top">
+						<table width="149" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td width="46" valign="middle" align="left"><img src="/assets/navigation_images/sp_elem_ln_srch_46x10w.gif" width="46" height="10" border="0"></td>
+								<td width="92" valign="middle" align="left"><span class="form"><script language="javascript">if (is_nav4) document.write('<font face="arial,helvetica" size ="10"><input type="text" size="6" class="form" name="keyword" value=""></font>'); else document.write('<input type="text" size="8" class="form" name="keyword" value="">');</script><input type="text" size="8" class="form" name="keyword" value=""><img src="/assets/images/shim.gif" width="5" height="1"><input type="image" src="/assets/navigation_images/sp_bttn_ln_rtarrow_11x10w.gif" width="11" height="10" border="0" target="_top" alt="Search"></span></td>
+							</tr>
+						</tbody></table>
+					</form></td>
+				</tr>
+				<tr>
+<td valign="top" width="149" bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="6"><img src="/assets/images/sp_666699_spacer_1x1.gif" width="149" height="1"><img src="/assets/images/shim.gif" width="1" height="6"></td>
+				</tr>
+				<!--CATALOG QUICK ORDER-->
+				<tr>
+					<td valign="top" width="149" bgcolor="#ffffff"><a target="_top" href="http://www.spiegel.com/customer/eob_1.asp"><img src="/assets/navigation_images/sp_bttn_ln_qord_on_149x10w.gif" width="149" height="10" border="0" alt="Place Catalog Order"></a></td>
+				</tr>
+				<tr>
+<td valign="top" width="149" bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="6"><img src="/assets/images/sp_666699_spacer_1x1.gif" width="149" height="1"><img src="/assets/images/shim.gif" width="1" height="6"></td>
+				</tr>
+				<tr>
+					<td valign="top" width="149" bgcolor="#ffffff"><a target="_top" href="http://www.spiegel.com/customer/gc_jump.asp"><img src="/assets/navigation_images/sp_bttn_ln_giftcert_149x10w.gif" width="149" height="10" border="0" alt="Gift Certificates"></a></td>
+				</tr>
+				<tr>
+<td valign="top" width="149" bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="6"><img src="/assets/images/sp_666699_spacer_1x1.gif" width="149" height="1"><img src="/assets/images/shim.gif" width="1" height="6"></td>
+				</tr>
+				<tr>
+					<td valign="top" width="149" bgcolor="#ffffff"><a target="_top" href="http://www.spiegel.com/customer/emailopt.asp"><img src="/assets/navigation_images/sp_bttn_ln_email_149x10w.gif" width="149" height="10" border="0" alt="E-mail Registration"></a></td>
+				</tr>
+				<tr>
+<td valign="top" width="149" bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="6"><img src="/assets/images/sp_666699_spacer_1x1.gif" width="149" height="1"><img src="/assets/images/shim.gif" width="1" height="6"></td>
+				</tr>
+				<!--MORE SPIEGEL SITES-->				<tr>
+					<td valign="top" width="149" bgcolor="#ffffff"><a target="_top" href="http://www.spiegel.com/customer/othersites.asp"><img src="/assets/navigation_images/sp_bttn_ln_othrsite2_149x10w.gif" width="149" height="10" border="0"></a></td>
+				</tr>
+				<tr>
+<td valign="top" width="149" bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="6"><img src="/assets/images/sp_666699_spacer_1x1.gif" width="149" height="1"><img src="/assets/images/shim.gif" width="1" height="6"></td>
+				</tr>
+				<tr>
+					<td valign="top" width="149" bgcolor="#ffffff"><a target="_top" href="http://www.spiegel.com/customer/iss/default.asp"><img src="/assets/navigation_images/sp_bttn_ln_inspgl_149x10w.gif" width="149" height="10" border="0" alt="Inside Spiegel Style"></a></td>
+				</tr>
+				<tr>
+<td valign="top" width="149" bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="6"><img src="/assets/images/sp_666699_spacer_1x1.gif" width="149" height="1"><img src="/assets/images/shim.gif" width="1" height="6"></td>
+				</tr>
+				<tr>
+					<td valign="top" width="149" bgcolor="#ffffff"><a target="_top" href="http://www.spiegel.com/my/my_order_status.asp"><img src="/assets/navigation_images/sp_bttn_ln_status_149x10w.gif" width="149" height="10" border="0" alt="Order History"></a></td>
+				</tr>
+				<tr>
+<td valign="top" width="149" bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="6"><img src="/assets/images/sp_666699_spacer_1x1.gif" width="149" height="1"><img src="/assets/images/shim.gif" width="1" height="6"></td>
+				</tr>
+				<!--CUSTOMER SERVICE AREA-->
+				<tr>
+					<td valign="top" width="149" bgcolor="#ffffff">
+					<span class="leftnavcategory">
+					&nbsp;&nbsp;<a target="_top" href="http://www.spiegel.com/customer/custserv.asp" class="leftnavcategory">CUSTOMER SERVICE</a><br>
+					&nbsp;&nbsp;<a target="_top" href="http://www.spiegel.com/customer/catalogrequest.asp" class="leftnavcategory">REQUEST A CATALOG</a><br>
+					&nbsp;&nbsp;<a target="_top" href="http://www.spiegel.com/customer/xmasguar.asp" class="leftnavcategory">CHRISTMAS GUARANTEED®</a><br>
+					&nbsp;&nbsp;<a target="_top" href="http://www.spiegel.com/customer/giftserv.asp" class="leftnavcategory">GIFT SERVICE</a><br>
+					&nbsp;&nbsp;<a target="_top" href="http://www.spiegel.com/customer/contact.asp" class="leftnavcategory">CONTACT US</a><br>
+					&nbsp;&nbsp;<a target="_top" href="http://www.spiegel.com/help/default.asp" class="leftnavcategory">SITE HELP</a><br>
+					&nbsp;&nbsp;<a target="_top" href="http://www.spiegel.com/about/default.asp" class="leftnavcategory">ABOUT SPIEGEL</a><br>
+					</span>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="149" bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="6"></td>
+				</tr>
+			</tbody></table>
+			<!--LOWER LEFT NAV BANNER AREA-->
+			<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr bgcolor="black"><td width="150"><a target="_top" href="http://www.spiegel.com/customer/promotions/sweeps/sweeps2002.asp?omid=spglpmainl42"><img src="/assets/homesplash/sp_bnnr_ln_sweeps_150x57w.gif" width="150" height="57" border="0" alt="Special Promotions"></a></td></tr>
+<tr bgcolor="black"><td width="150"><a target="_top" href="http://www.spiegel.com/P2I/default.asp?omid=spglpmainl43"><img src="/assets/homesplash/sp_bnnr_ln_shopcat_150x30w.gif" width="150" height="30" border="0" alt="Special Promotions"></a></td></tr>
+<tr bgcolor="black"><td width="150"><a target="_top" href="http://www.spiegel.com/customer/promotions/horoscopes/horoscopes.asp?omid=spglpmainl44"><img src="/assets/homesplash/sp_bnnr_ln_horo_150x57w.gif" width="150" height="57" border="0" alt="Special Promotions"></a></td></tr>
+<tr bgcolor="black"><td width="150"></td></tr>
+			</tbody></table>
+		</td>
 	</tr>
-	
-
-<!--spacer( 151x1 pts) -->
-<tr align="center"><td width="151"><img src="/assets/images/spacer.GIF" width="151" height="1"></td></tr>
-	
-	<tr valign="top">
-		<td width="151" align="left" height="12" style="color:white; background-color: #6666CC;" onmouseover="this.style.backgroundColor='#333399'" onmouseout="this.style.backgroundColor='#6666CC'" onclick="location='/customer/custserv.asp'">
-	<span class="leftnavcategory">&nbsp;&nbsp;</span><a target="_parent" href="/customer/custserv.asp" class="leftnavcategory">Customer Service</a></td>
-	</tr>
-	
-
-	<!--spacer( 151x1 pts) -->
-<tr align="center"><td width="151"><img src="/assets/images/spacer.GIF" width="151" height="1"></td></tr>
-
-
-
-<tr valign="top">
-		<td width="151" align="left" height="12" style="color:white; background-color: #6666CC;" onmouseover="this.style.backgroundColor='#333399'" onmouseout="this.style.backgroundColor='#6666CC'" onclick="location='/my/my_login.asp'">
-	<span class="leftnavcategory">&nbsp;&nbsp;</span><a target="_parent" href="/my/" class="leftnavcategory">My Spiegel</a></td>
-	</tr>
-	
-
-<!--spacer( 151x1 pts) -->
-<tr align="center"><td width="151"><img src="/assets/images/spacer.GIF" width="151" height="1"></td></tr>	
-<tr>	
-<td width="151" align="left" height="12" style="color:white; background-color: #6666CC;" onmouseover="this.style.backgroundColor='#333399'" onmouseout="this.style.backgroundColor='#6666CC'" onclick="location='/customer/giftserv.asp'">
-	<span class="leftnavcategory">&nbsp;&nbsp;</span><a target="_parent" href="/customer/giftserv.asp" class="leftnavcategory">Gift Services</a></td>
-	</tr>
-	
-	
-	<!--spacer( 151x1 pts) -->
-<tr align="center"><td width="151"><img src="/assets/images/spacer.GIF" width="151" height="1"></td></tr>
-
-
-
-<tr valign="top">
-		<td width="151" align="left" height="12" style="color:white; background-color: #6666CC;" onmouseover="this.style.backgroundColor='#333399'" onmouseout="this.style.backgroundColor='#6666CC'" onclick="location='/customer/employment.asp'">
-	<span class="leftnavcategory">&nbsp;&nbsp;</span><a target="_parent" href="/customer/employment.asp" class="leftnavcategory">About Spiegel</a></td>
-	</tr>
-	
-	<tr align="center" valign="top">
-	<td width="151" bgcolor="#6666CC">
-		<table align="center" valign="top" border="0" width="151" cellpadding="0" cellspacing="0">
-		<tbody><tr align="center" valign="top">
-		<td align="left" width="10"><img src="/assets/images/spacer.GIF" width="10" height="2" border="0" alt=""></td>
-		<td align="left" width="141">
-		<a target="_parent" href="/customer/employment.asp" class="leftnavsubcategory">Careers at Spiegel</a><br>
-		<a target="_parent" href="/rewards/" class="leftnavsubcategory">Spiegel Incentives</a><br>
-		<a target="_parent" href="http://www.thespiegelgroup.com" class="leftnavsubcategory">Investor Relations</a><br>
-		<a target="_parent" href="/customer/strlocal.asp" class="leftnavsubcategory">Store Locations</a><br>
-		<a target="_parent" href="/customer/privacy.asp" class="leftnavsubcategory">Spiegel Privacy</a><br>
-		<a target="_parent" href="/customer/aol.asp" class="leftnavsubcategory">AOL Privacy</a><br>
-		<a target="_parent" href="/customer/othersites.asp" class="leftnavsubcategory">Other Spiegel Sites</a><br>
+</tbody></table>
 
 		</td>
-		</tr>
-		</tbody></table>
-	</td>
-	</tr>
-	
-	
-
-	
-	<!--<tr align="center"><td width="151"><img src="/assets/images/spacer.GIF" width="151" height="1"></td></tr>
-	
-	 <TR VALIGN="top">
-		<TD WIDTH="151" align="left" height="12" style="color:white; background-color: #6666CC;" onMouseover="this.style.backgroundColor='#333399'" onMouseout="this.style.backgroundColor='#6666CC'" onClick="location='/customer/xmasguar.asp'">
-	<span class="leftnavcategory">&nbsp;&nbsp;</span><A TARGET="_parent" HREF="/customer/xmasguar.asp" class="leftnavcategory">Christmas Guaranteed&#174;</A></TD>
-	</TR> -->
-	
-	
-<!--spacer( 151x1 pts) -->
-<tr align="center"><td width="151"><img src="/assets/images/spacer.GIF" width="151" height="1"></td></tr>
-
-	<!--lower curve( 151x13 pts) -->
-<tr><td><img src="/assets/navigation_images/sp_elem_bttm_151x12.gif" width="151" height="12"></td></tr>
-</tbody></table></td></tr>
-
-<!-- END NAV BUTTONS -->
-
-
-
-
-
-<!--vertical spacer-->
-<tr><td><img src="/assets/images/spacer.GIF" width="151" height="9"></td></tr>
-
-
-
-<tr align="center" valign="top">
-<td width="151">
-
-	
-
-<a href="/customer/othersites.asp" target="_parent"><img src="/assets/navigation_images/sp_bttn_lnav_sites_151x27.gif" border="0" width="151" height="27"></a><table width="151" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td><img src="/assets/images/spacer.GIF" width="151" height="3"></td>
-</tr>
-<tr>
-	<td><a href="/customer/iss/sp_iss_index.asp" target="_parent"><img src="/assets/navigation_images/sp_bttn_leftnav_stylefile.gif" width="151" height="47" border="0"></a></td>
-</tr>
-<tr>
-	<td><img src="/assets/images/spacer.GIF" width="151" height="9"></td>
-</tr>
-
-
-
-	
-
-
-
-	</tbody></table>
-
-</td>
-</tr>
-
-
-
-
-
-</tbody></table>
-
-
-
-
-</td>
-<td align="left" valign="top" colspan="2">
-        
-
-
-
-<map name="n1">
-<area shape="rect" coords="395,13,440,28" target="_top" href="/help/default.asp?return_url=http%3A%2F%2Fwww%2Espiegel%2Ecom%2Fcustomer%2Fprivacy%2Easp%3F">
-<area shape="rect" coords="302,13,388,28" target="_top" href="http://www.thespiegelgroup.com">
-<area shape="rect" coords="191,13,296,28" target="_top" href="/customer/eob_1.asp">
-<area shape="rect" coords="119,13,187,27" target="_top" href="/cheetah/">
-<area shape="rect" alt="Spiegel Catalog Request" coords="32,13,115,27" target="_top" href="/customer/catalogrequest.asp">
-</map>
-
-
-
-
-<map name="n2">
-<area shape="RECT" alt="Spiegel Customer Service" coords="0,1,92,15" target="_top" href="/customer/contact.asp">
-</map>
-
-<map name="n3">
-<area shape="RECT" alt="Spiegel Gift Certificates" coords="0,1,82,15" target="_top" href="/customer/gc.asp">
-</map>
-
-<map name="n4">
-<area shape="RECT" alt="My Spiegel Order" coords="0,1,76,15" target="_top" href="/shop/basket.asp?null=0">
-</map>
-
-<map name="n5">
-<area shape="RECT" alt="My Spiegel" coords="0,1,60,15" target="_top" href="/my/default.asp">
-</map>
-
-<map name="n6">
-<area shape="RECT" alt="Spiegel Wishlist" coords="0,1,46,15" target="_top" href="/my/wishlist/wish_default.asp">
-</map>
-
-<map name="n7">
-<area shape="RECT" alt="Spiegel Privacy" coords="0,1,41,15" target="_top" href="/customer/privacy.asp">
-</map>
-
-
-
-
-
-
-<!-- top nav right of logo begins -->
-
-<table align="left" border="0" cellpadding="0" cellspacing="0" width="589">
-<tbody><tr>
-<td align="left" height="32"><table align="left" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" rowspan="2"><img src="/assets/navigation_images/sp_elem_ul_el1.gif" width="39" height="32" border="0"></td>
-			<td height="31" width="548" bgcolor="#333399" valign="middle" align="left"><nobr><span class="topnavtextlink" target="_top"><a href="/customer/eob_1.asp" class="topnavtextlink" target="_parent">Place Catalog Order</a> | <a href="/customer/catalogrequest.asp" class="topnavtextlink" target="_parent">Catalog Request</a> | <a href="/customer/custserv.asp" class="topnavtextlink" target="_parent">Customer Service</a> | <a href="/my/wishlist/wish_default.asp" class="topnavtextlink" target="_parent">Wishlist</a> | <a href="/customer/privacy.asp" class="topnavtextlink" target="_parent">Privacy</a> | <a href="/help/default.asp?return_url=http%3A%2F%2Fwww%2Espiegel%2Ecom%2Fcustomer%2Fprivacy%2Easp%3F" class="topnavtextlink" target="_parent">Site Help</a> | <a href="/shop/basket.asp?null=0" class="topnavtextlink" target="_parent">Shopping Bag</a></span></nobr></td>
-<td width="9" height="32" rowspan="2"><img src="/assets/navigation_images/sp_elem_ur_topcurve.gif" width="9" height="32" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="2" bgcolor="white"><img src="/assets/images/spacer.GIF" width="1" height="1"></td>
-		</tr>
-	</tbody></table></td>
-</tr>
-
-<!-- NOT USING CACHE -->
-
-<!-- with the buttons and spacers this is XX wide -->
-<tr>
-<td><table cellpadding="0" cellspacing="0" border="0" align="left">
-		<tbody><tr>
+		<!-- WHITE SPACER B/W BODY AND LEFT NAV-->
+		<td valign="top" bgcolor="#FFFFFF" width="1" rowspan="3"><img src="/assets/images/shim.gif" width="1" height="1">
+		</td>
 		
-		<td width="39" height="27" align="center"><nobr><img src="/assets/navigation_images/sp_elem_ul_el2.gif" name="secondrowlt" border="0" height="27" width="39"></nobr></td><td width="88" height="27" align="center" style="color:white; background-color: #6666CC; cursor:hand" onmouseover="this.style.backgroundColor='#333399'; document.secondrowlt.src='/assets/navigation_images/sp_elem_ul_el2_over.gif'" onmouseout="this.style.backgroundColor='#6666CC'; document.secondrowlt.src='/assets/navigation_images/sp_elem_ul_el2.gif'" onclick="window.top.location='/shop/category_splash.asp?gp_cat_id=284'"><nobr><a target="_parent" href="/shop/category_splash.asp?gp_cat_id=284" class="topnavcategory">Fashion</a></nobr></td>
-		<td width="1" height="27" bgcolor="white"><img src="/assets/images/spacer.GIF" width="1" height="27"></td><td width="88" height="27" align="center" style="color:white; background-color: #6666CC; cursor:hand" onmouseover="this.style.backgroundColor='#333399'" onmouseout="this.style.backgroundColor='#6666CC'" onclick="window.top.location='/shop/category_splash.asp?gp_cat_id=282'"><nobr><a target="_parent" href="/shop/category_splash.asp?gp_cat_id=282" class="topnavcategory">For the Home</a></nobr></td>
-		<td width="1" height="27" bgcolor="white"><img src="/assets/images/spacer.GIF" width="1" height="27"></td><td width="88" height="27" align="center" style="color:white; background-color: #6666CC; cursor:hand" onmouseover="this.style.backgroundColor='#333399'" onmouseout="this.style.backgroundColor='#6666CC'" onclick="window.top.location='/shop/category_splash.asp?gp_cat_id=283'"><nobr><a target="_parent" href="/shop/category_splash.asp?gp_cat_id=283" class="topnavcategory">Electronics</a></nobr></td>
-		<td width="1" height="27" bgcolor="white"><img src="/assets/images/spacer.GIF" width="1" height="27"></td><td width="88" height="27" align="center" style="color:white; background-color: #6666CC; cursor:hand" onmouseover="this.style.backgroundColor='#333399'" onmouseout="this.style.backgroundColor='#6666CC'" onclick="window.top.location='/shop/category_splash.asp?gp_cat_id=678'"><nobr><a target="_parent" href="/shop/category_splash.asp?gp_cat_id=678" class="topnavcategory">Kids</a></nobr></td>
-		<td width="1" height="27" bgcolor="white"><img src="/assets/images/spacer.GIF" width="1" height="27"></td><td width="88" height="27" align="center" style="color:white; background-color: #6666CC; cursor:hand" onmouseover="this.style.backgroundColor='#333399'" onmouseout="this.style.backgroundColor='#6666CC'" onclick="window.top.location='/shop/category_splash.asp?gp_cat_id=681'"><nobr><a target="_parent" href="/shop/category_splash.asp?gp_cat_id=681" class="topnavcategory">Jewelry</a></nobr></td>
-		<td width="1" height="27" bgcolor="white"><img src="/assets/images/spacer.GIF" width="1" height="27"></td><td width="88" height="27" align="center" style="color:white; background-color: #6666CC; cursor:hand" onmouseover="this.style.backgroundColor='#333399'; document.secondrowrt.src='/assets/navigation_images/sp_elem_ur_bttmcurve_over.gif'" onmouseout="this.style.backgroundColor='#6666CC'; document.secondrowrt.src='/assets/navigation_images/sp_elem_ur_bttmcurve.gif'" onclick="window.top.location='/shop/category_splash.asp?gp_cat_id=679'"><nobr><a target="_parent" href="/shop/category_splash.asp?gp_cat_id=679" class="topnavcategory">Gifts</a></nobr></td>
-		<td width="10" height="27"><img src="/assets/navigation_images/sp_elem_ur_bttmcurve.gif" name="secondrowrt" width="10" height="27" border="0"></td>
-
-		</tr>
-	</tbody></table></td></tr>
-
-
-
-
-<tr><td align="left"><img src="/assets/navigation_images/sp_elem_ul_bttmarch.gif" width="39" height="11" border="0"></td></tr>
-
-</tbody></table>
-<!-- end top nav -->
-
-
-</td>
-</tr>
-<tr>
-<td>
-	<!-- start of content area -->
-		<table align="left" border="0" width="447" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-		<!-- spacer on left of content area -->
-		<td><img src="/assets/images/spacer.GIF" width="15" height="2" border="0" alt=""></td>
-		<!-- end spacer on left of content area -->
-		<td>
-		<!-- place content of page here -->
-			<table align="left" border="0" width="427" cellpadding="0" cellspacing="0">
+		<td valign="top" bgcolor="#666666">
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
 			<tbody><tr>
-			<td align="left" valign="bottom"><a href="/customer/employment.asp" class="mainmerchlink">About Spiegel</a><span class="mainmerchlink"> :: Spiegel Privacy Policy</span></td>
-			</tr>
-			
-			<tr>
-			<td><br><span class="bodytext"><b>Privacy Policy Statement</b></span></td>
-			</tr>
-			<tr>
-			<td><p><a name="top"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext">This is the Privacy Policy for
-Spiegel Catalog, Inc. </span></p>
+				<!-- TEMPLATE CONTENT -->
+				<td valign="top" bgcolor="#ffffff">
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						
+						
+						<tbody><tr>
+							<!--BORDER B/W TOP NAV AND BODY-->
+							<td width="20"><img src="/assets/images/shim.gif" width="1" height="5"></td>
+							<td width="595"><img src="/assets/images/shim.gif" width="605" height="5"></td>
+							<td width="100%"><img src="/assets/images/shim.gif" width="1" height="5"></td>
+						</tr>
+						
+						<tr>
+							<!--BORDER B/W LEFT NAV AND BODY-->
+							
+							<td width="20"><img src="/assets/images/shim.gif" width="20" height="1"></td>
+							
+							<td valign="top" width="595" bgcolor="#FFFFFF">
+
+<!--LIVE AREA BEGINS-->
+<!--BREADCRUMB TRAIL-->
+<p class="breadcrumb"><a href="/customer/custserv.asp" class="breadcrumb">customer service</a> &gt; privacy policy</p>
+<img src="/assets/navigation_images/page_headers/sp_elem_245x30_privacy.gif" width="245" height="30" border="0" alt="privacy policy"><br>
+
+<a name="top"></a>
+<p><span class="bodytext">This is the Privacy Policy for Spiegel Catalog, Inc. </span></p>
 
 <p><span class="bodytext">Shopping on-line has changed our
 lives. At Spiegel your trust and satisfaction is of the utmost
@@ -443,33 +288,37 @@ handled in a safe and responsible manner. </span></p>
 
 <p><span class="bodytext">We suggest that you review this
 Privacy Statement periodically as we may update it from time to
-time. This policy was last revised on April 5, 2002. </span></p>
+time. This policy was last revised on November 11, 2002. </span></p>
 
-<p><a href="#collect"><span class="bodytext"><b>WHAT INFORMATION DO WE COLLECT?</b></span></a>
+
+<a href="#collect" class="bodytextbold">What information do we collect?</a>
 <br>
-<a href="#info"><span class="bodytext"><b>HOW DO WE USE YOUR INFORMATION?</b></span></a>
+<a href="#info" class="bodytextbold">How do we use your information?</a>
 <br>
-<a href="#cookies"><span class="bodytext"><b>WHAT ARE COOKIES?</b></span></a>
+<a href="#cookies" class="bodytextbold">What are cookies?</a>
 <br>
-<a href="#who"><span class="bodytext"><b>THIRD PARTY MERCHANTS "PRESENTED BY SPIEGEL"</b></span></a>
+<a href="#who" class="bodytextbold">Third party merchants "Presented by Spiegel"</a>
 <br>
-<a href="#secure"><span class="bodytext"><b>HOW DO YOU KNOW YOUR INFORMATION IS SECURE?</b></span></a>
+<a href="#secure" class="bodytextbold">How do you know your information is secure?</a>
 <br>
-<a href="#update"><span class="bodytext"><b>HOW CAN YOU UPDATE YOUR INFORMATION?</b></span></a>
+<a href="#update" class="bodytextbold">How can you update your information?</a>
 <br>
-<a href="#kids"><span class="bodytext"><b>CHILDREN'S PRIVACY</b></span></a>
+<a href="#kids" class="bodytextbold">Children's Privacy</a>
 <br>
-<a href="#changes"><span class="bodytext"><b>CHANGES TO THIS PRIVACY STATEMENT</b></span></a>
+<a href="#changes" class="bodytextbold">Changes to this privacy statement</a>
 <br>
-<a href="#conflict"><span class="bodytext"><b>CONFLICT IN TERMS</b></span></a>
+<a href="#conflict" class="bodytextbold">Conflict in terms</a>
 <br>
-<a href="#contact"><span class="bodytext"><b>CONTACT US</b></span></a></p>
+<a href="#contact" class="bodytextbold">Contact us</a>
+<br>
 
 <hr>
 
+
+
 <p><a name="collect"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>WHAT INFORMATION DO WE COLLECT?</b></span></p>
+<p><span class="bodytextbold">What information do we collect?</span></p>
 
 <p><span class="bodytext">Every time you visit our Web site, our Web server automatically collects the
 following non-personally identifiable information: your Internet service
@@ -481,31 +330,31 @@ information that you provide, such as survey information and information you
 provide when you make a purchase, register your e-mail address or sign-up for
 sweepstakes or contests. If you have visited our site before and provided us 
 with your email address, we collect information on what pages you access or 
-visit while on our site.</span>
+visit while on our site.</span></p>
 
-</p><p><a href="#top"><span class="bodytext">Return to top.</span></a></p>
+<p><a href="#top" class="bodytext">return to top</a></p>
 
 <hr>
 
 <p><a name="info"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>HOW DO WE USE YOUR INFORMATION?</b></span></p>
+<p><span class="bodytextbold">How do we use your information?</span></p>
 
 <p><span class="bodytext">The information we collect is used:
 </span></p>
 
 <ul>
-    <li><span class="bodytext">to generally improve the content and
-        layout of our Web site </span></li>
-    <li><span class="bodytext">to improve the content and
-        layout of our Web site for individual visitors </span></li>        
-    <li><span class="bodytext">to notify you about updates
-        to our Web site</span></li>
-    <li><span class="bodytext">to contact you for marketing
-        purposes </span></li>
-    <li><span class="bodytext">in some instances, shared
-        with other organizations for marketing purposes</span></li>
-    <li><span class="bodytext">for internal review</span></li>
+<li><span class="bodytext">to generally improve the content and
+layout of our Web site </span></li>
+<li><span class="bodytext">to improve the content and
+layout of our Web site for individual visitors </span></li>        
+<li><span class="bodytext">to notify you about updates
+to our Web site</span></li>
+<li><span class="bodytext">to contact you for marketing
+purposes </span></li>
+<li><span class="bodytext">in some instances, shared
+with other organizations for marketing purposes</span></li>
+<li><span class="bodytext">for internal review</span></li>
 </ul>
 
 <p><span class="bodytext">When you supply us with personal
@@ -515,14 +364,15 @@ may receive periodic mailings or telephone contact from us with
 information on new products and services, discounts, special
 promotions or upcoming events that we offer. If you do not want
 to receive such mailings or telephone contact from us, then
-please </span><a href="#contact"><span class="bodytext">Click
-Here</span></a><span class="bodytext"> for information on where 
+please </span><a href="#contact" class="bodytext">Click
+Here</a><span class="bodytext"> for information on where 
 to reach us to remove yourself from our contact list. </span></p>
 
 <p><span class="bodytext">We may send you e-mail with information 
 on new products and services, discounts, special promotions or upcoming 
 events that we offer. If you do not wish to receive such e-mail in the
-future, please </span><a href="#contact"><span class="bodytext">Click Here</span></a> <span class="bodytext">for information on where to contact us to remove 
+future, please </span><a href="#contact" class="bodytext">Click Here</a>  
+<span class="bodytext">for information on where to contact us to remove 
 yourself from our email list or, click on the "opt-out" link on any e-mail 
 you receive from us. Please note that when you make a purchase and provide 
 us with your e-mail address, we may send you confirmation of your order
@@ -534,7 +384,7 @@ questions about your order. </span></p>
 phone number (but not your e-mail address) to a select group of
 companies whose products you may find of interest. If you do not
 want us to share this information with these companies, we can
-put you on our "do-not-share" or "do not call" lists. Please</span> <a href="#contact"><span class="bodytext">Click Here</span></a> 
+put you on our "do-not-share" or "do not call" lists. Please</span> <a href="#contact" class="bodytext">Click Here</a> 
 <span class="bodytext">for information on where to contact us if you do 
 not want us to share this information with third parties. </span></p>
 
@@ -544,12 +394,12 @@ party companies to help us in providing our products and services
 to you, to assist us in managing customer information, to fulfill 
 promotions and to communicate with you. Some of these vendors are 
 given access to some or all of the information you provide to us, including 
-your e-mail address, and may use</span> <a href="#cookies"><span class="bodytext">cookies</span></a> 
+your e-mail address, and may use</span> <a href="#cookies" class="bodytext">cookies</a> 
 <span class="bodytext">on our behalf. These vendors are contractually 
 restricted from using your information in any manner, other than in helping 
 us to provide you with the products and services available from Spiegel. 
-For more information about these companies,</span> 
-<a href="vendor.asp"><span class="bodytext">Click Here.</span></a></p>
+For more information about these companies,
+<a href="vendor.asp" class="bodytext">Click Here</a>.</span> </p>
 
 <p><span class="bodytext">We may share information with governmental 
 agencies or other companies assisting us in fraud prevention or investigation. 
@@ -558,13 +408,13 @@ against or prevent actual or potential fraud or unauthorized transactions;
 or, (3) investigating fraud which has already taken place. The information is 
 not provided to these companies for marketing purposes.</span></p>
 
-<p><a href="#top"><span class="bodytext">Return to top.</span></a></p>
+<p><a href="#top" class="bodytext">return to top</a></p>
 
 <hr>
 
 <p><a name="cookies"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>WHAT ARE COOKIES?</b></span></p>
+<p><span class="bodytextbold">What are cookies?</span></p>
 
 <p><span class="bodytext">Most Internet sites, including
 ours, collect data about visitors through the use of "cookies".
@@ -587,26 +437,26 @@ information on your computer. </span></p>
 cookies. If you wish to purchase from our site, you must accept the
 cookie so that we can securely process your order. </span></p>
 
-<p><span class="bodytextbold">For our customers using Internet Explorer 6.0</span>
+<p><span class="bodytext"><b>For our customers using Internet Explorer 6.0</b></span>
 <br><span class="bodytext">If you are shopping on Spiegel.com using Internet 
 Explorer 6.0 and are having difficulty accessing the site, please check your 
 privacy settings in your browser and set them to "Medium". If you do not wish
 to change your privacy settings to "Medium" and you are currently
 using the "Medium High" or "High" settings, you may choose to override your 
 current cookie handling practices for individual sites that you specify, 
-including Spiegel.com. Please</span> <span class="bodytext">
-<a href="#" onclick="window.open('/customer/cookies.asp', 'popup','toolbar=no,scrollbars=yes,location=no,directories=no, status=no,menubar=no, width=450,height=300')">Click Here</a></span> 
+including Spiegel.com. Please</span>
+<a href="#" class="bodytext" onclick="window.open('/customer/cookies.asp', 'popup','toolbar=no,scrollbars=yes,location=no,directories=no, status=no,menubar=no, width=450,height=300')">Click Here</a>
 <span class="bodytext">for instructions on how to override your normal 
 cookie handling practices. As always, you can place your order by phone
 at 1.800.527.1577.</span></p>
 
-<p><a href="#top"><span class="bodytext">Return to top.</span></a></p>
+<p><a href="#top" class="bodytext">return to top</a></p>
 
 <hr>
 
 <p><a name="who"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>THIRD PARTY MERCHANTS "PRESENTED BY SPIEGEL"</b></span></p>
+<p><span class="bodytextbold">Third party merchants "Presented by Spiegel"</span></p>
 
 <p><span class="bodytext">If you make a purchase from a Merchant Site with 
 a link originating from the Spiegel eMarket site or a Merchant catalog or 
@@ -628,22 +478,21 @@ send catalogs or host websites "presented by" Spiegel and their privacy
 policies, please see the Merchant’s home page and click on their Information 
 link or review the customer service section of any catalog you may receive 
 from the Merchant. For a complete listing of the Spiegel eMarket
-Merchants,</span> <a href="http://www.spiegel.com/emarket/merchant.asp">
-<span class="bodytext">Click Here</span></a>.</p>
+Merchants, <a href="http://www.spiegel.com/emarket/merchant.asp" class="bodytext">Click Here</a>.</span> </p>
 
 <p><span class="bodytext">Merchants on the Spiegel eMarket site that have 
 links on our site may collect personally identifiable information about 
 you. The information practices of these Merchants are not covered by the 
 Spiegel privacy statement.</span></p>
 
-<p><a href="#top"><span class="bodytext">Return to top.</span></a>
+<p><a href="#top" class="bodytext">return to top</a>
 </p>
 
 <hr>
 
 <p><a name="secure"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>HOW DO YOU KNOW YOUR INFORMATION IS SECURE?</b></span></p>
+<p><span class="bodytextbold">How do you now your information is secure?</span></p>
 
 <p><span class="bodytext">When you see either a solid key
 icon or a locked padlock icon at the lower portion of your
@@ -664,43 +513,37 @@ site so you can feel comfortable and secure. </span></p>
 <p><span class="bodytext">Please note that e-mail is not encrypted 
 and is not considered a secure means of transmitting credit card numbers.</span></p>
 
-<p><a href="#top"><span class="bodytext">Return to top.</span></a></p>
+<p><a href="#top" class="bodytext">return to top</a></p>
 
 <hr>
 
 <p><a name="update"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>HOW CAN YOU UPDATE YOUR
-INFORMATION?</b></span></p>
+<p><span class="bodytextbold">How can you update your information?</span></p>
 
 <p><span class="bodytext">We will provide you access to the
 following information if you send us an e-mail, call us or write
 to us: </span></p>
 
 <ul>
-    <li><span class="bodytext">financial information (such
-        as credit card account information) </span></li>
-    <li><span class="bodytext">unique identifier information
-        (customer number or password)</span></li>
-    <li><span class="bodytext">transaction information (dates
-        on which you made purchases, amounts and types of
-        purchases) </span></li>
-    <li><span class="bodytext">contact information (name,
-        address, phone number)</span></li>
+<li><span class="bodytext">financial information (such as credit card account information) </span></li>
+<li><span class="bodytext">unique identifier information (customer number or password)</span></li>
+<li><span class="bodytext">transaction information (dates on which you made purchases, amounts and types of purchases) </span></li>
+<li><span class="bodytext">contact information (name, address, phone number)</span></li>
 </ul>
 
 <p><span class="bodytext">We will evaluate each request and
 reply in an appropriate manner and form of communication that
-ensures the security of the information you have requested. </span><a href="#contact"><span class="bodytext">Click Here</span></a><span class="bodytext"> for 
+ensures the security of the information you have requested. </span><a href="#contact" class="bodytext">Click Here</a><span class="bodytext">  for 
 Contact Information. </span></p>
 
-<p><a href="#top"><span class="bodytext">Return to top.</span></a></p>
+<p><a href="#top" class="bodytext">return to top</a></p>
 
 <hr>
 
 <p><a name="kids"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>CHILDREN'S PRIVACY</b></span></p>
+<p><span class="bodytextbold">Children's Privacy</span></p>
 
 <p><span class="bodytext">Spiegel does not seek to solicit
 information from anyone under the age of thirteen (a "Child").
@@ -710,13 +553,13 @@ is a Child, we delete the information as soon as we discover it and
 do not use it for any purpose, nor do we disclose it to third
 parties. </span></p>
 
-<p><a href="#top"><span class="bodytext">Return to top.</span></a></p>
+<p><a href="#top" class="bodytext">return to top</a></p>
 
 <hr>
 
 <p><a name="changes"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>CHANGES TO THIS PRIVACY STATEMENT</b></span></p>
+<p><span class="bodytextbold">Changes to this privacy statement</span></p>
 
 <p><span class="bodytext">From time to time, we may use the information 
 you provide us for new, unanticipated uses not previously addressed in 
@@ -729,103 +572,114 @@ periodically for more information on how we use the data we collect.</span></p>
 use data we collect, we will update this Privacy Statement to reflect 
 these changes. </span></p>
 
-<p><a href="#top"><span class="bodytext">Return to top.</span></a></p>
+<p><a href="#top" class="bodytext">return to top</a></p>
 
 <hr>
 
 <p><a name="conflict"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>CONFLICT IN TERMS</b></span></p>
+<p><span class="bodytextbold">Conflict in terms</span></p>
 
-<p><span class="bodytext">It is our goal to make our privacy practices 
-easy to understand. We have created this easy-to-read Privacy Statement 
-with that goal in mind. Some browsers utilize privacy enhancing technology 
-to translate our Privacy Statement into a computer readable format and then 
-translate it back into human readable format for you to read. This translation
-back into human readable format is often referred to as a "Policy Summary". To 
-the extent that this Policy Summary is inconsistent with, fails to address or 
-addresses an issue not raised in, our Privacy Statement, you should rely on our 
-Privacy Statement as it is the controlling authority.</span></p>
+<p><span class="bodytext">It is our goal to make our privacy practices easy to understand. We have created this easy-to-read Privacy Statement with that goal in mind. Some browsers utilize privacy enhancing technology to translate our Privacy Statement into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary".  It is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the Privacy Statement upon which it is based. It might fail to address an issue or it might address an issue not raised in our Privacy Statement. For this reason, you should rely on our Privacy Statement as the most accurate and definitive description of our practices.</span></p>
 
-<p><a href="#top"><span class="bodytext">Return to top.</span></a></p>
+<p><a href="#top" class="bodytext">return to top</a></p>
 
 <hr>
 
 <p><a name="contact"></a><span class="bodytext">&nbsp;</span></p>
 
-<p><span class="bodytext"><b>CONTACT US</b></span></p>
+<p><span class="bodytextbold">Contact us</span></p>
 
 <p><span class="bodytext">To contact us for any reason,
 including a request to be added to or taken off a list, or if you
 have any concerns or questions, please contact us: </span></p>
 
 <ul>
-    <li><span class="bodytext">BY MAIL: </span><blockquote>
-            <p><span class="bodytext">Spiegel Customer
-            Satisfaction<br>
-            P.O. Box 6105<br>
-            Rapid City, South Dakota 57709-6105</span></p>
-        </blockquote>
-    </li>
-    <li><span class="bodytext">BY PHONE: </span><blockquote>
-            <p><span class="bodytext">1.800.474.5555</span></p>
-        </blockquote>
-    </li>
-    <li><span class="bodytext">BY E-MAIL: </span><blockquote>
-            <p><a href="mailto:spiegel@spiegel.com"><span class="bodytext">spiegel@spiegel.com</span></a></p>
-        </blockquote>
-    </li>
+<li><span class="bodytext">By mail: </span><blockquote>
+<p><span class="bodytext">Spiegel Customer Satisfaction<br>
+P.O. Box 6105<br>
+Rapid City, South Dakota 57709-6105</span></p>
+</blockquote>
+</li>
+<li><span class="bodytext">By phone: </span><blockquote>
+<p><span class="bodytext">1.800.474.5555</span></p>
+</blockquote>
+</li>
+<li><span class="bodytext">By e-mail: </span><blockquote>
+<p><a href="mailto:spiegel@spiegel.com" class="bodytext">spiegel@spiegel.com</a></p>
+</blockquote>
+</li>
 </ul>
 
 <p><span class="bodytext">Special Note: When you contact us,
 please provide us with your exact name and address as it appears
 on correspondence you have received from us.</span></p>
 
-<p><a href="customer/emailopt.asp"><span class="bodytext">Click here</span></a> 
+<p><a href="customer/emailopt.asp" class="bodytext">Click here</a> 
 <span class="bodytext">to unsubscribe to Spiegel e-mail.</span></p>
 
 <p><span class="bodytext">We are an active member of the
-Direct Marketing Association. </span><a href="http://www.the-dma.org/consumers/index.html">
-<span class="bodytext">Click here</span></a><span class="bodytext"> for 
+Direct Marketing Association. </span><a href="http://www.the-dma.org/consumers/index.html" class="bodytext">Click here</a><span class="bodytext"> for 
 additional privacy information from the DMA. If you feel that this site is not
 following its stated information privacy policy, you may contact
 us at the above address(es) or phone number or at </span>
-<a href="mailto:spiegel@spiegel.com"><span class="bodytext">spiegel@spiegel.com</span></a> 
+<a href="mailto:spiegel@spiegel.com" class="bodytext">spiegel@spiegel.com</a> 
 <span class="bodytext">or you may contact the DMA's Committee on Ethical Business 
-Practices at</span> <a href="mailto:mgoldberger@the-dma.org"><span class="bodytext">mgoldberger@the-dma.org.</span></a></p>
+Practices at <a href="mailto:mgoldberger@the-dma.org" class="bodytext">mgoldberger@the-dma.org</a>.</span></p>
 
 
-<p><a href="#top"><span class="bodytext">Return to top.</span></a></p>
+<p><a href="#top" class="bodytext">return to top</a></p>
 
 <br><br>
-</td>
+
+<!--LIVE AREA ENDS-->
+
+		
+					</td>					
+					<!--AREA TO RIGHT OF BODY-->
+					<td valign="top" width="100%" bgcolor="#FFFFFF">&nbsp;&nbsp;</td>
 				</tr>
 			</tbody></table>
-		<!-- end content of page here -->
+			<br><img src="/assets/images/shim.gif" width="1" height="20">
 		</td>
-		<!-- spacer on right of content area -->	
-		<td><img src="/assets/images/spacer.GIF" width="15" height="10" border="0" alt=""></td>
-		<!-- end spacer on right of content area -->	
-		</tr>
-		
-
-<!--footer begins-->
-
-<tr>
-<td align="center" colspan="8">
-		<span class="footertext"><a href="/customer/catalogrequest.asp" class="footertext">Catalog Request</a>&nbsp;|&nbsp;<a href="/customer/emailopt.asp" class="footertext">E-mail Registration</a>&nbsp;|&nbsp;<a href="/customer/eob_1.asp" class="footertext">Place Catalog Order</a>&nbsp;|&nbsp;<a href="/customer/privacy.asp" class="footertext">About Spiegel Catalog</a><br>
-<a href="/customer/employment.asp" class="footertext">Career Opportunities</a>&nbsp;|&nbsp;<a href="/help/default.asp?return_url=http%3A%2F%2Fwww%2Espiegel%2Ecom%2Fhome%2Easp%3F">Site Help</a>&nbsp;|&nbsp;<a href="/my/wishlist/wish_default.asp" class="footertext">Wishlist</a>&nbsp;|&nbsp;<!-- <A HREF="http://credit.spiegel.com">Spiegel&#174;Charge</A>&nbsp;|&nbsp; --><a href="/customer/contact.asp" class="footertext">Contact Us</a><br>
-<a href="/customer/privacy.asp" class="footertext">Security/Privacy</a>&nbsp;|&nbsp;<a href="http://www.thespiegelgroup.com">Public/Investor Relations</a>&nbsp;|&nbsp;<a href="/eMarket/">Spiegel eMarket™</a>&nbsp;|&nbsp;<a href="https://www.connectcommerce.com/secure/partner_app.html?ccmid=K156">Affiliate Program</a></span><br>
-<span class="footertext">© Copyright Spiegel Publishing, Inc., 2002.<br>Charge toll-free 24 hours a day: 1.800.527.1577</span></td>
-</tr>
-
-<!--end of footer-->
-
-		</tbody></table>
-	</td>
 	</tr>
-	<!--End of white body of doc -->
-	</tbody></table>
+	<!-- / TEMPLATE CONTENT -->
+	<tr>
+		<td bgcolor="#ffffff"><img src="/assets/images/shim.gif" width="1" height="1"></td>
+	</tr>
+	<!-- FOOTER -->
 
+	<tr>	<td valign="top" bgcolor="#666666">		
+			<table width="100%" cellpadding="6" cellspacing="0" border="0">
+				<tbody><tr>
+					<td bgcolor="#666666">
+
+					
+<script language="javascript1.1">
+var urlTest = "TRUE";
+</script>
+<script language="javascript1.1" src="/coremetrics/v31/eluminate.js"></script>
+<script language="javascript1.1" src="/coremetrics/v31/techprops.js"></script>
+<script language="javascript1.1">
+var cm = new _cm("tid", "1", "vn2", "e3.1");
+cm.pi = "customer/privacy.asp";
+cm.writeImg();
+</script><img width="1" height="1" src="https://data.coremetrics.com/eluminate?tid%3D1%26ci%3D90000008%26vn2%3De3.1%26pi%3Dcustomer/privacy.asp%26vn1%3De3.1%26rnd%3D121710%26ul%3Dhttps%253A//web.archive.org/web/20021206033155id_/http%25253A//www.spiegel.com/customer/privacy.asp%26ts%3DYes%26tp%3DYes"><span class="bodytextreverse"><a target="_top" href="javascript:var jumpwin=window.open('/customer/security_pop.asp','jumpwin','width=360,height=400,top=100,left=150,resizable=yes,scrollbars=yes')" class="bodytextreverse">security</a> | <a target="_top" href="http://www.spiegel.com/customer/privacy.asp" class="bodytextreverse">privacy</a> | <a target="_top" href="http://www.spiegel.com/help/default.asp" class="bodytextreverse">site help</a> | <a target="_top" href="http://thespiegelgroup.com" class="bodytextreverse">investor relations</a> | <a target="_top" href="https://www.connectcommerce.com/secure/partner_app.html?ccmid=K156" class="bodytextreverse">affiliate program</a> | <a target="_top" href="/rewards/" class="bodytextreverse">corporate incentives</a> | <a target="_top" href="/customer/employment.asp" class="bodytextreverse">career opportunities</a><br><br>charge toll free/ contact us 24 hours a day: 1.800.527.1577<br></span><img src="/assets/images/shim.gif" width="1" height="1">
+
+					</td>
+				</tr>
+
+			</tbody></table>
+		</td>
+
+		
+	</tr>
+	
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<p class="smallprint">copyright© Spiegel Publishing Inc. 2002</p>
 
 </body></html>
