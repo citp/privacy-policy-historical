@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605101346id_/http%3A//girl.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210153621id_/http%3A//www.girl.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy/Terms of Use
+
+[](http://adserver.trellian.com/adclick.php?bannerid=94&zoneid=3&source=%2Fcontactus%2Fprivacypol&dest=http%3A%2F%2Fmembers.commissionmonster.com%2Fz%2F67027%2F65)
+
+|  |   
+
 
 **Copyright**
 
@@ -24,7 +29,7 @@ When you enter a contest or other promotional feature, we may request both your 
 
 Winners drawn are at the discretion of Girl.com.au. The decision is final and not negotiable. Competitions are not open to Girl.com.au staff, relatives or friends of staff.
 
-To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20040605101346id_/http%3A//girl.com.au/compstermsconditions.htm)
+To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20041210153621id_/http%3A//www.girl.com.au/compstermsconditions.htm)
 
 **What happens to information & content collected by Girl.com.au?**
 
