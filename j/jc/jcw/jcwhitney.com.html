@@ -1,13 +1,29 @@
-<!--The following is the downloaded HTML source of the jcwhitney.com privacy policy that was archived on 2001-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011207214321id_/http%3A//www.jcwhitney.com/Privacy.jhtml%3FBQ%3Djcw2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jcwhitney.com privacy policy that was archived on 2002-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204202527id_/http%3A//www.jcwhitney.com/Privacy.jhtml%3FBQ%3Djcw2) for the most accurate reproduction.-->
 
 <html><head>
-		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-		<meta name="generator" content="Adobe GoLive 4">
-		<title>JC Whitney Parts and Accessories for Cars, Trucks, SUVs, Vans, Motorcycles, ATVs, RVs</title>
-</head>
+		<title>JC Whitney Privacy and Security</title>				
+        <script language="JavaScript">
+<!--
+	if (navigator.userAgent.indexOf("MSIE 3.0") == -1) {
+     	if (navigator.userAgent.indexOf("Mac") > 0 && navigator.userAgent.indexOf("MSIE 5.0") == -1) {
+           	document.write("<LINK rel=\"stylesheet\" href=\"jcwstyles_mac.css\" type=\"text/css\">");
+   		} else {
+        	document.write("<LINK rel=\"stylesheet\" href=\"jcwstyles_pc.css\" type=\"text/css\">");
+    	}
+	}
+// -->
+</script><link rel="stylesheet" href="jcwstyles_pc.css" type="text/css">
 
-<body bgcolor="white">
+	</head>
+
+	<body bgcolor="#ffffff">
+	
+
+
+
+
+
 
 
 
@@ -21,145 +37,494 @@
 
 <script language="javascript" type="text/javascript">
 	var bq = "jcw2";
-	
-	function getTabs()
-	{
-		var page = location.pathname;
-		var imageName;
-		
-		if(page.indexOf("/freecatalogs.jhtml") != -1)
-			imageName = "images/tab_" + bq + "_freecats.gif"; 
-		else if(page.indexOf("/help.jhtml") != -1)
-			imageName = "images/tab_" + bq + "_help.gif";
-		else
-			imageName = "images/tab_" + bq + "_blank.gif";
-		
-		return imageName;
-	}
-	
-	function getMap() {
-		return "tabs_" + bq;
-	}
+	var qx = "false";
+        
+   function getNavImage() {
+    var page = location.pathname;
+    var imageName;
+
+    if(qx == "true")  {
+      if(page.indexOf("/home.jhtml") != -1 || page == "/" || page.indexOf("quixtar_home.jhtml") != -1)
+        imageName ="/images/top_nav_" + bq + "_home_q.gif";
+      else
+        imageName = "/images/top_nav_" + bq + "_blank_q.gif";
+    } else {
+     if(page.indexOf("/home.jhtml") != -1 || page == "/")
+         imageName ="/images/top_nav_" + bq + "_home.gif";
+      else
+        imageName = "/images/top_nav_" + bq + "_blank.gif";
+    }    
+    return imageName;
+  }
+
+
+function getMap() {
+    if(qx == "true")
+	return "topqx_nav_" + bq;
+    else 
+	return "top_nav_" + bq;
+}
 </script>
+
+<script src="javascript/PersonalizationHandler.js" language="javascript" type="text/javascript"></script>
 
 <a name="Anchor"></a>
 
+<input type="hidden" value="http://www.jcwhitney.com/home.jhtml" name="/jcw2/MemberProfileHandler.logoutSuccessURL">
+		<table border="0" cellpadding="0" cellspacing="0" height="81" width="728">
+			<tbody><tr height="44">	
+                            <td height="60" width="225" align="left" rowspan="2">
+                                <img src="/images/logo_244.jpg" border="0" alt="Home" usemap="#logo_244">
+                                <map name="logo_244"><area alt="JC Whitney" coords="0,0,244,37" href="home.jhtml"></map>
+                             </td>
+                             <td height="44" align="left" valign="bottom">
+                            <form method="POST" action="catsublist.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" name="vehicleForm">
+                            <script src="javascript/PersonalizationHandler.js" language="javascript" type="text/javascript"></script>
+				<script>
+                                    if(isUserLoggedIn())
+                                        document.write('<a href="vehicle_prefs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?newUser=false&BQ=jcw2"><img src="/images/my_jcw_vehix.gif" width="102" height="18" border="0" alt="Modify Vehicle Preferences"></a><br>');
+                                    else
+                                        document.write('<a href="header_cookie.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2"><img src="/images/my_jcw_vehix.gif" width="102" height="18" border="0" alt="Modify Vehicle Preferences"></a><br>');
+                                    if(cookieFound()) {
+					document.write('<select name="CATID"><option value="">needed for netscape only</option></select><input type="image" border="0" src="/images/go_oval_blu.gif" alt="Go" name="make_select">');
+					populateVehicles(document.vehicleForm);
+                                    }
+				</script><a href="header_cookie.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2"><img src="/images/my_jcw_vehix.gif" width="102" height="18" border="0" alt="Modify Vehicle Preferences"></a><br>
+                            </form></td>
+                           
+                            <td height="44" width="483" align="right" valign="bottom">
+
+                            
+				<script>
+						if(isUserLoggedIn()) {
+							document.write('<a href="logout.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" class="disappear"><font face="Verdana" size ="1" color ="#003366"><b>LOGOUT&nbsp;</b></font></a><b>&nbsp;&nbsp;|&nbsp;</b>');
+						}
+                                </script>                    
+                                <a href="https://www.jcwhitney.com/login_register.jhtml" class="disappear">
+                                <font face="Verdana" size="1" color="#003366"><b>MY ACCOUNT &nbsp;</b></font></a>
+				<b>&nbsp;&nbsp;|&nbsp;</b>
+				<a href="https://www.jcwhitney.com/Login.jhtml" class="disappear">
+				<font face="Verdana" size="1" color="#003366"><b>ORDER TRACKING</b></font></a>
+				<b>&nbsp;&nbsp;|&nbsp;</b>
+				<a href="http://www.jcwhitney.com/ShoppingCart.jhtml?BQ=jcw2" class="disappear">
+				<font face="Verdana" size="1" color="#003366"><b>CART&nbsp;</b></font>
+                                
+				<img src="images/cart_no_text.gif" width="34" height="19" border="0" alt="Shopping Cart"></a></td>
+                                
+                            
+                            
+
+                        </tr>
+
+			<tr height="5">
+				<td height="5" colspan="3"><img src="/images/spacer_trans.gif" width="75" height="5" border="0"></td>
+			</tr>
+
+			<tr height="20">
+				<td height="20" colspan="3"> 
+<script>document.write("<img height=20 width=728 src=" + getNavImage() + " border=0 align=bottom usemap=#" + getMap() + ">");</script><img height="20" width="728" src="/images/top_nav_jcw2_blank.gif" border="0" align="bottom" usemap="#top_nav_jcw2"></td>                    
+			</tr>
+			<tr>
+				<td colspan="3"><img src="/images/spacer_trans.gif" width="728" height="2" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3"><img src="/images/spacer_cc0000.gif" width="728" height="2" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3"><img src="/images/spacer_trans.gif" width="728" height="2" border="0"></td>
+			</tr>
 
 
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr valign="bottom">
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" height="60" width="749">
-				<tbody><tr>
-					<td height="60" width="264" align="left" rowspan="2" background="images/winter_bkgd_1.gif"><img src="/images/logo_244.gif" border="0" alt="Home" usemap="#logo_244"><map name="logo_244"><area alt="JC Whitney" coords="0,0,244,37" href="home.jhtml"></map></td>
-			   		<form method="POST" action="catlevel1.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?_DARGS=%2Fheader.jhtml.1"></form>
-						<td height="37" width="250" align="left" valign="middle" background="images/winter_bkgd_2.gif">
-							
-						   			<a href="header_cookie.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2"><img src="/images/my_jcw_vehix.gif" width="102" height="18" border="0" alt="Modify Vehicle Preferences"></a><br>
-						  		
-							
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		<!-- Cookie -->
-   		
-				<!-- Initiates the home page to the user's preference 
-				<setvalue bean="VehiclePreference.startup" value=""> -->
-
-				
-				
-				
-								
-  			
-
-
-	
-
-						</td>
-							
-					
-							<td height="37" width="235" align="right" valign="middle" background="images/winter_bkgd_3.gif">
-								<a href="your_acct_login.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2"><img src="/images/login3.gif" width="62" height="19" border="0" alt="Login"></a>
-								<a href="ShoppingCart.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2"><img src="/images/cart3.gif" width="136" height="19" border="0" alt="Shopping Cart"></a>
-							</td>
-						
-				</tr>
-				<tr>
-					<td height="23" colspan="2" valign="bottom" background="images/winter_bkgd_4.gif"><script>document.write("<img height=23 width=475 src=" + getTabs() + " border=0 align=bottom usemap=#" + getMap() + ">");</script><img height="23" width="475" src="images/tab_jcw2_blank.gif" border="0" align="bottom" usemap="#tabs_jcw2"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="749">
-				<tbody><tr>
-					<td bgcolor="#003366" width="260"><font class="text" color="#003366">&nbsp;</font></td>
-					
-							
-							<td align="right"><img src="/images/top_nav_a.gif" border="0" usemap="#top_nav_a"><img src="/images/top_nav_c.gif" border="0" usemap="#top_nav_c"></td>
-						
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
 </tbody></table>
-<map name="tabs_jcw2"><area shape="rect" coords="370,2,490,22" href="freecatalogs.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="213,2,254,25" href="help.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="67,1,210,48" href="EOBSplash.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Catalog Order"><area shape="rect" coords="3,0,61,31" href="home.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Home"></map>
-<map name="tabs_jp"><area shape="rect" coords="65,2,118,22" href="JCWJeep.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Specialty Shop Home"><area shape="rect" coords="370,2,490,22" href="freecatalogs.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="271,2,312,24" href="help.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="123,3,266,50" href="EOBSplash.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Catalog Order"><area shape="rect" coords="3,0,61,31" href="home.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Home"></map>
-<map name="tabs_st"><area shape="rect" coords="67,2,155,33" href="JCWSportTruck.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Specialty Shop Home"><area shape="rect" coords="372,2,471,41" href="freecatalogs.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="309,2,345,41" href="help.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="161,2,303,41" href="EOBSplash.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Catalog Order"><area shape="rect" coords="4,2,61,24" href="home.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Home"></map>
-<map name="tabs_sc"><area shape="rect" coords="68,2,170,41" href="JCWSportCompact.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Specialty Shop Home"><area shape="rect" coords="371,2,470,37" href="freecatalogs.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="325,2,361,22" href="help.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="177,2,318,43" href="EOBSplash.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Catalog Order"><area shape="rect" coords="4,2,61,37" href="home.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Home"></map>
-<map name="tabs_ptc"><area shape="rect" coords="67,2,142,32" href="JCWPTCruiser.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Specialty Shop Home"><area shape="rect" coords="372,2,470,49" href="freecatalogs.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="297,2,333,30" href="help.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="148,2,290,35" href="EOBSplash.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Catalog Order"><area shape="rect" coords="5,2,60,25" href="home.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Home"></map>
-<map name="tabs_mot"><area shape="rect" coords="67,2,154,34" href="JCWMotorcycle.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Specialty Shop Home"><area shape="rect" coords="372,2,469,38" href="freecatalogs.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="308,2,345,21" href="help.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="161,2,300,38" href="EOBSplash.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Catalog Order"><area shape="rect" coords="3,2,61,22" href="home.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0" alt="Home"></map>
-<map name="top_nav_a"><area shape="RECT" href="your_acct_login.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" coords="72,2, 216,17" alt="Create an Account"></map>
-<map name="top_nav_c"><area shape="RECT" href="catlevel1_clearance.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?CATID=67813&amp;BQ=jcw2" coords="180,3, 260,17" alt="Clearance"><area shape="RECT" href="shippingrate2.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" coords="97,3, 160,17" alt="Shipping"><area shape="RECT" href="Privacy.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2" coords="18,2, 76,17" alt="Privacy"></map>
 
+<map name="top_nav_a"><area shape="RECT" href="login_register.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" coords="72,2, 216,17" alt="Create an Account"></map>
+<map name="top_nav_jcw2"><area shape="rect" coords="652,1,723,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="504,1,643,18" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="368,1,495,33" href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Catalog Order"><area shape="rect" coords="315,0,363,23" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="249,0,311,18" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="top_nav_atv"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="531,3,643,17" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="422,2,523,16" href="EOBSplash.jhtml" alt="Catalog Order" "=""><area shape="rect" coords="387,2,417,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="329,2,362,17" href="JCWATV.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="ATV Home"><area shape="rect" coords="250,3,307,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="top_nav_hly"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="531,3,643,17" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="422,2,523,16" href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Catalog Order"><area shape="rect" coords="387,2,417,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="325,2,369,17" href="JCWHarley.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Harley Home"><area shape="rect" coords="250,3,307,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="top_nav_jp"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="531,3,643,17" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="422,2,523,16" href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Catalog Order"><area shape="rect" coords="387,2,417,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="326,2,367,17" href="JCWJeep.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Jeep Home"><area shape="rect" coords="250,3,307,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="top_nav_mot"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="531,3,643,17" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="422,2,523,16" href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Catalog Order"><area shape="rect" coords="387,2,417,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="317,2,376,17" href="JCWMotorcycle.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Motorcycle Home"><area shape="rect" coords="250,3,307,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="top_nav_ptc"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="531,3,643,17" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="422,2,523,16" href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Catalog Order"><area shape="rect" coords="387,2,417,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="320,2,375,17" href="JCWPTCruiser.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="PT Cruiser Home"><area shape="rect" coords="250,3,307,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="top_nav_rv"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="531,3,643,17" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="422,2,523,16" href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Catalog Order"><area shape="rect" coords="387,2,417,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="330,2,360,17" href="JCWRV.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="RV Home"><area shape="rect" coords="250,3,307,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="top_nav_sc"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="531,3,643,17" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="422,2,523,16" href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Catalog Order"><area shape="rect" coords="387,2,417,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="313,2,381,17" href="JCWSportCompact.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Sport Compact Home"><area shape="rect" coords="250,3,307,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="top_nav_st"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="531,3,643,17" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="422,2,523,16" href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Catalog Order"><area shape="rect" coords="387,2,417,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="318,2,375,17" href="JCWSportTruck.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Sport Truck Home"><area shape="rect" coords="250,3,307,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="top_nav_vw"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="531,3,643,17" href="freecatalogs.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Free Catalogs"><area shape="rect" coords="422,2,523,16" href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Catalog Order"><area shape="rect" coords="387,2,417,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="330,2,359,17" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"><area shape="rect" coords="250,3,307,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_atv"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="451,2,474,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="381,2,401,17" href="JCWATV.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="ATV Home"><area shape="rect" coords="284,3,341,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_hly"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="451,2,474,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="372,2,414,17" href="JCWHarley.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Harley Home"><area shape="rect" coords="284,3,341,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_jp"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="451,2,474,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="377,2,407,17" href="JCWJeep.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Jeep Home"><area shape="rect" coords="284,3,341,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_mot"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="451,2,474,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="362,2,420,17" href="JCWMotorcycle.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Motorcycle Home"><area shape="rect" coords="284,3,341,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_ptc"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="451,2,474,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="367,2,418,17" href="JCWPTCruiser.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="PT Cruiser Home"><area shape="rect" coords="284,3,341,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_rv"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="451,2,474,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="382,2,397,17" href="JCWRV.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="RV Home"><area shape="rect" coords="284,3,341,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_sc"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="451,2,474,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="355,2,432,17" href="JCWSportCompact.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Sport Compact Home"><area shape="rect" coords="284,3,341,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_st"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="451,2,474,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="360,2,424,17" href="JCWSportTruck.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Sport Truck Home"><area shape="rect" coords="284,3,341,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_vw"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="451,2,474,16" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="378,2,401,17" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"><area shape="rect" coords="284,3,341,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+<map name="topqx_nav_jcw2"><area shape="rect" coords="654,2,715,17" href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" alt="Clearance"><area shape="rect" coords="321,2,352,17" href="help.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?BQ=jcw2" alt="Help"><area shape="rect" coords="260,3,300,16" href="home.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" alt="Home"></map>
+		<table border="0" cellpadding="0" cellspacing="0" width="753">
+			<tbody><tr height="623">
+				<td align="left" valign="top" height="623" width="217">
+			   <table border="0" cellpadding="0" cellspacing="0" width="191">
+<tbody><tr height="60">
+<td align="left" bgcolor="#003366" colspan="2" height="60" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<form method="post" action="/navbar.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?_DARGS=%2Fsearch3.jhtml" name="searchForm"></form>
+<tbody><tr height="15">
+<td bgcolor="#cccccc" height="15" width="6">&nbsp;&nbsp;</td>
+<td bgcolor="#cccccc" height="15" width="171"><font size="2" face="Verdana" color="black"><b>PRODUCT SEARCH</b></font></td>
+</tr>
+<tr height="22">
+<td rowspan="3" width="6">&nbsp;&nbsp;</td>
+<td bgcolor="#003366" height="22" align="left" valign="middle" width="171">
+<input type="hidden" value="combination" name="/jcw2/CombinationSearch.typeOfSearch"><input type="hidden" name="_D:/jcw2/CombinationSearch.typeOfSearch" value=" ">
+<input type="hidden" name="BQ" value="jcw2">
+<input type="text" size="18" priority="-5" class="text" value="" name="/jcw2/CombinationSearch.searchString"><input type="hidden" name="_D:/jcw2/CombinationSearch.searchString" value=" ">
+<input type="image" border="0" src="/images/go_oval_whtwblu.gif" width="23" height="13" alt="go"><br>
+</td>
+</tr>
+<tr height="15">
+<td bgcolor="#003366" height="15" valign="middle" align="left" width="171">
+<font size="1" color="white" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Enter Keyword or Catalog Stk. No.</font></td>
+</tr>
+<tr height="12">
+<td bgcolor="#003366" height="12" valign="middle" align="left" width="171">
+<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><a href="SearchHelp.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0" class="disappear">
+<font class="text" color="#ffffff" size="2">Search Tips</font></a><br>
+</font></td>
+</tr>
 
-<table width="650">
-<tbody><tr><td>
-<font face="Arial" size="2"><p align="CENTER"><strong>Privacy Statement</strong></p>
-<p>Today, privacy is everyone’s concern and JC Whitney is committed to protecting your online shopping experience. In general, we use information we collect from you to process orders and to ensure the best online shopping experience. The following details what information is collected, how it is protected, and how it is used. </p>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td width="187" align="right"><img height="17" width="187" src="/images/shopMakeModel2.gif"></td>
+<td width="4" rowspan="7" bgcolor="#003366" valign="top"><img src="/images/2x2_spacer.gif" width="2" height="2" border="0"></td>
+</tr>
+<tr>
+<td width="187"><img src="/images/left_shop_cars_notext.gif" width="175" height="38" border="0"></td>
+</tr>
+<tr>
+<form method="POST" action="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0"></form>
+<td width="187" valign="top">
+<select name="CATID">
+<option value="20">Select Your Make
+</option><option value="100">
+Acura
+</option><option value="101">
+American Motors
+</option><option value="102">
+Audi
+</option><option value="103">
+BMW
+</option><option value="104">
+Buick
+</option><option value="105">
+Cadillac
+</option><option value="106">
+Checker
+</option><option value="107">
+Chevrolet
+</option><option value="108">
+Chrysler
+</option><option value="109">
+Daewoo
+</option><option value="110">
+Daihatsu
+</option><option value="111">
+Dodge
+</option><option value="112">
+Eagle
+</option><option value="113">
+Fiat
+</option><option value="114">
+Ford
+</option><option value="116">
+GMC
+</option><option value="115">
+Geo
+</option><option value="117">
+Honda
+</option><option value="118">
+Hyundai
+</option><option value="119">
+Infiniti
+</option><option value="120">
+International
+</option><option value="121">
+Isuzu
+</option><option value="122">
+Jaguar
+</option><option value="123">
+Jeep
+</option><option value="124">
+Kia
+</option><option value="125">
+Land Rover
+</option><option value="126">
+Lexus
+</option><option value="127">
+Lincoln
+</option><option value="132">
+MG
+</option><option value="128">
+Mazda
+</option><option value="129">
+Mercedes Benz
+</option><option value="130">
+Mercury
+</option><option value="131">
+Merkur
+</option><option value="133">
+Mitsubishi
+</option><option value="134">
+Nissan
+</option><option value="135">
+Oldsmobile
+</option><option value="136">
+Peugeot
+</option><option value="137">
+Plymouth
+</option><option value="138">
+Pontiac
+</option><option value="139">
+Porsche
+</option><option value="140">
+Renault
+</option><option value="141">
+Saab
+</option><option value="142">
+Saturn
+</option><option value="143">
+Sterling
+</option><option value="144">
+Subaru
+</option><option value="145">
+Suzuki
+</option><option value="146">
+Toyota
+</option><option value="147">
+Triumph
+</option><option value="148">
+Volkswagen
+</option><option value="149">
+Volvo
+</option></select>
+<input type="hidden" name="BQ" value="jcw2">
+<input type="image" src="/images/go_oval_blu.gif" border="0" alt="go">
+</td>
 
-<a name="safeAndSecure"></a>
-<b></b><p><b>How does JC Whitney protect your information?<br>
-</b>We provide the use of a secure server (SSL) when you place your order. All information is encrypted by the software before it is sent to us. Afterwards, all access to this information is limited and protected against unauthorized use.</p>
-
-<b></b><p><b>Does JC Whitney use "cookies" on the site?<br>
-</b>Yes, as do most other worthwhile site on the Internet. "Cookies" are small fragments of information stored by your browser on your hard drive. This information allows us to remember certain data about your previous visits to our site, such as pages you have visited, preferences, etc. We do not use "cookies" to store any personally identifying information. If you do not want to receive cookies, you can turn them of in your browser, however, you will not be able to place orders from the JC Whitney web site.  One solution is to leave cookies on and delete them after your browsing / ordering session. </p>
-
-<b></b></font><p><font face="Arial" size="2"><b>What information do we collect and how is it used?<br>
-</b>Customer Service and e-mail correspondence <br>
-Our customer service page provides several e-mail addresses for your convenience when contacting us. Information collected on these forms is only used to correspond with you regarding your message. E-mail addresses and other information that you send us from these customer service forms is not used for marketing purposes and is not made available to anyone outside the customer service group. Note that some forms may contain options so that you may select to receive additional information from other reputable companies. If you have selected these options and no longer want to receive this type of information, please e-mail us at </font><a href="mailto:noemail@jcwhitney.com"><font face="Arial" size="2">noemail@jcwhitney.com</font></a><font face="Arial" size="2"> . </font></p><font face="Arial" size="2">
-
-<a name="email"></a>
-<b></b></font><p><font face="Arial" size="2"><b>Opt-In Newsletters<br>
-</b>We also offer e-mail newsletters, that contain special offers, sales and information of interest on specific subjects. You may select from a list of categories by visiting </font><u><a href="./newsletters.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0"><font face="Arial" size="2" color="#0000ff">jcwnewsletters</font></a></u><font face="Arial" size="2">. If you have joined one or more of these newsletters, you may change or remove your e-mail address using the option listed at the end of every e-mail newsletter. We occasionally make these newsletter addresses available to carefully selected companies with offers or information directly related to your area of interest. If you do not want your e-mail address released to any third party companies, please e-mail us at </font><a href="mailto:noemail@jcwhitney.com"><font face="Arial" size="2">noemail@jcwhitney.com</font></a><font face="Arial" size="2">.</font></p><font face="Arial" size="2">
-
-<b></b></font><p><font face="Arial" size="2"><b>Order Information<br>
-</b>When you place an order, we collect your name, address, telephone number, credit card number, card expiration date and e-mail address. We use this information to process and fill your order and to contact you about the order. The e-mail address collected here will not be sold or shared with any other companies. On occasion, however, JC Whitney may e-mail you to notify you of significant changes in our web site or to make you aware of special offers that may be of interest. If you do not want to receive these site notifications or special offers, please send an e-mail from your e-mail address to </font><a href="mailto:noemail@jcwhitney.com"><font face="Arial" size="2">noemail@jcwhitney.com</font></a><font face="Arial" size="2">.</font></p><font face="Arial" size="2">
-
-<b></b><p><b>Other Information<br>
-</b>We collect information to monitor traffic patterns and site usage to help us improve the design of the site. We may provide aggregate statistics about our customers to reputable third party vendors, however, this data does not contain any personally identifying information.</p>
-
-<b></b></font><p><font face="Arial" size="2"><b>Consent<br>
-</b>By using this web site, you consent to the collection and use of information by JC Whitney and JC Whitney. Changes to our privacy policy will be posted to this page, so you may be updated as soon as possible. If you have any questions or comments regarding this policy, please e-mail us at </font><a href="mailto:internetmgr@jcwhitney.com"><font face="Arial" size="2">internetmgr@jcwhitney.com</font></a><font size="2">.</font></p><font size="2">
-
-<p>&nbsp;</p></font>
-
+</tr>
+<tr>
+<td width="187" align="right"><img src="/images/spacer_trans.gif" width="100%" height="6" border="0"></td>
+</tr>
+<tr>
+<td width="187" align="right"><img src="/images/shop_univers.gif" width="187" height="16" border="0"></td>
+</tr>
+<tr>
+<td width="187">
+<table border="0" cellpadding="2" cellspacing="0" width="166">
+<tbody><tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5013&amp;BQ=jcw2" class="navbar">A/C, Heating &amp; Ventilation</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5002&amp;BQ=jcw2" class="navbar">Apparel/Softgoods</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5025&amp;BQ=jcw2" class="navbar">Body Parts</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catsubpic.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5024&amp;BQ=jcw2" class="navbar">Brakes</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5005&amp;BQ=jcw2" class="navbar">Car Care &amp; Chemicals</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1_clearance.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67813&amp;BQ=jcw2" class="navbar">Clearance</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5006&amp;BQ=jcw2" class="navbar">Collectibles, Models &amp; Toys</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5007&amp;BQ=jcw2" class="navbar">Cooling Systems</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5008&amp;BQ=jcw2" class="navbar">Electrical Systems</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5022&amp;BQ=jcw2" class="navbar">Engine Parts &amp; Filters</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5011&amp;BQ=jcw2" class="navbar">Exhaust &amp; Emissions</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5000&amp;BQ=jcw2" class="navbar">Exterior Accessories</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5012&amp;BQ=jcw2" class="navbar">Fuel &amp; Intake Systems</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catsubpic.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=41605&amp;BQ=jcw2" class="navbar">Gift Certificates</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5009&amp;BQ=jcw2" class="navbar">Horns &amp; Gauges</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5001&amp;BQ=jcw2" class="navbar">Interior Accessories</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5015&amp;BQ=jcw2" class="navbar">Lighting</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5014&amp;BQ=jcw2" class="navbar">Manuals, Videos &amp; Software</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=23&amp;BQ=jcw2" class="navbar">Marine</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=67695&amp;BQ=jcw2" class="navbar">Products by Mfr.</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5016&amp;BQ=jcw2" class="navbar">Security &amp; Alarms</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5017&amp;BQ=jcw2" class="navbar">Sound &amp; Electronics</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5023&amp;BQ=jcw2" class="navbar">Steering &amp; Suspension</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5019&amp;BQ=jcw2" class="navbar">Tools &amp; Garage Equip.</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5020&amp;BQ=jcw2" class="navbar">Towing</a><br>
+</font></td></tr>
+<tr><td height="10"><font face="Arial,Helvetica,Geneva,Verdana" size="1">
+<a href="catlevel1.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0?CATID=5021&amp;BQ=jcw2" class="navbar">Transmission &amp; Drivetrain</a><br>
+</font></td></tr>
+</tbody></table>
 </td>
 </tr>
 </tbody></table>
-   <table border="0" cellpadding="5" cellspacing="0" "="">
+<!-- navbar.html -->
+
+               </td>
+				<td align="left" valign="top" height="623"><br>
+					<table border="0" cellpadding="0" cellspacing="0" width="493" align="left">
+						<tbody><tr>
+							<td colspan="2"><img height="50" width="359" src="images/privacy_security.gif" align="absmiddle"></td>
+						</tr>
+						<tr height="561">
+							<td width="6" height="561"><br>
+							</td>
+							<td height="561" valign="top">
+								<a name="Anchor-SSL"></a><a name="Anchor-cookies"></a><a name="Anchor-Info"></a><table border="0" cellpadding="0" cellspacing="0" width="487" height="582" align="left">
+									<tbody><tr height="31">
+										<td height="31" align="left" valign="top" width="7"></td>
+										<td height="31" align="left" valign="top" width="480"><font class="body" color="black">Today, privacy is everyone’s concern and JC Whitney is committed to protecting your online shopping experience. In general, we use information we collect from you to process orders and to ensure the best online shopping experience. The following details what information is collected, how it is protected, and how it is used. </font></td>
+									</tr>
+									<tr height="12">
+										<td height="12" align="left" valign="top" width="7"><br>
+										</td>
+										<td height="12" align="left" valign="top" width="480"></td>
+									</tr>
+									<tr height="11">
+										<td height="11" align="left" valign="top" colspan="2"><font class="subhead" color="black"><b>JC Whitney Protects Your Information</b></font></td>
+									</tr>
+									<tr height="21">
+									    
+										<td width="7" height="21" align="left" valign="top"></td>
+										<td width="480" height="21" align="left" valign="top"><font class="body" color="black">
+													We provide the use of a secure server (SSL) when you place your order. All information is encrypted by the software before it is sent to us. Afterwards, all access to this information is limited and protected against unauthorized use.</font></td>
+									</tr>
+									<tr height="12">
+										<td height="12" align="left" valign="top" width="7"><br>
+										</td>
+										<td height="12" align="left" valign="top" width="480"></td>
+									</tr>
+									<tr height="12">
+										<td height="12" align="left" valign="top" colspan="2"><font class="subhead" color="black"><b>Shop with Confidence</b></font></td>
+									</tr>
+									<tr height="12">
+										<td height="12" align="left" valign="top" width="7"></td>
+										<td height="12" align="left" valign="top" width="480"><font class="body" color="black">We guarantee your transaction is safe and secure. JCWhitney.com is certified by Verisign. We are committed to protecting your privacy.</font></td>
+									</tr>
+									<tr height="12">
+										<td height="12" align="left" valign="top" width="7"><br>
+										</td>
+										<td height="12" align="left" valign="top" width="480"></td>
+									</tr>
+									<tr height="11">
+									    
+										<td height="11" align="left" valign="top" colspan="2"><font class="subhead" color="black"><b>Does JC Whitney use "Cookies" on the Site?</b></font></td>
+									</tr>
+									<tr height="50">
+										<td width="7" height="50" align="left" valign="top"></td>
+										<td width="480" height="50" align="left" valign="top"><font class="body" color="black">Yes, as do most other worthwhile sites on the Internet. "Cookies" are small fragments of information stored by your browser on your hard drive. This information allows us to remember certain data about your previous visits to our site, such as pages you have visited, preferences, etc. We do not use "cookies" to store any personally identifying information. If you do not want to receive cookies, you can turn them off in your browser, however, you will not be able to place orders from the JC Whitney web site. One solution is to leave cookies on and delete them after your browsing / ordering session.</font></td>
+									</tr>
+									<tr height="12">
+										<td width="7" height="12" align="left" valign="top"><br>
+										</td>
+										<td width="480" height="12" align="left" valign="top"></td>
+									</tr>
+									<tr height="11"> 
+									    
+										<td height="11" align="left" valign="top" colspan="2"><font class="subhead" color="black"><b>Information We Collect and How It's Used</b></font></td>
+									</tr>
+									<tr height="51">
+										<td width="7" height="51" align="left" valign="top"></td>
+										<td width="480" height="51" align="left" valign="top"><font class="body" color="black">Customer Service and E-mail Correspondence<br>
+												Our customer service page provides several e-mail addresses for your convenience when contacting us. Information collected on these forms is only used to correspond with you regarding your message. E-mail addresses and other information that you send us from these customer service forms are not used for marketing purposes and are not made available to anyone outside the customer service group. </font></td>
+									</tr>
+
+									<tr height="12">
+										<td width="7" height="12" align="left" valign="top"><br>
+										</td>
+										<td width="480" height="12" align="left" valign="top"></td>
+									</tr>
+									<tr height="61">
+										<td width="7" height="61" align="left" valign="top"></td>
+										<td width="480" height="61" align="left" valign="top"><font class="body" color="black">Order Information<br>
+											</font><font class="body" color="black">When you place an order, we collect your name, address, telephone number, credit card number, card expiration date and e-mail address. We use this information to process and fill your order and to contact you about the order. <br>
+												We sometimes make our list available to carefully selected companies whose products or services may interest you. If, however, you prefer not to receive these solicitations, please forward your name, address and phone number to: Marketing Department, Business Development Manager, JC Whitney, PO Box 8410, Chicago, IL, 60680. <br>
+												<br>
+												Also, on occasion, JC Whitney may e-mail you to notify you of significant changes in our web site or to make you aware of special offers that may be of interest. If you do not want to receive these site notifications or special offers, please send us your full name (first and last), complete mailing address (include any apt. no. and zip code) and your e-mail address to <a href="mailto:noemail@jcwhitney.com">noemail@jcwhitney.com</a>.</font></td>
+									</tr>
+									<tr height="12">
+										<td width="7" height="12" align="left" valign="top"><br>
+										</td>
+										<td width="480" height="12" align="left" valign="top"></td>
+									</tr>
+									<tr height="31">
+										<td width="7" height="31" align="left" valign="top"></td>
+										<td width="480" height="31" align="left" valign="top"><font class="body" color="black">Other Information<br>
+												We collect information to monitor traffic patterns and site usage to help us improve the design of the site. We may provide aggregate statistics about our customers to reputable third party vendors, however, this data does not contain any personally identifying information.</font></td>
+									</tr>
+									<tr height="13">
+										<td width="7" height="13" align="left" valign="top"><br>
+										</td>
+										<td width="480" height="13" align="left" valign="top"></td>
+									</tr>
+									<tr height="11">
+										<td height="11" align="left" valign="top" colspan="2"><font class="subhead" color="black"><b>Consent</b></font></td>
+									</tr>
+									<tr height="32">
+										<td width="7" height="32" align="left" valign="top"><br>
+										</td>
+										<td width="480" height="32" align="left" valign="top">
+											<div>
+												<font class="body" color="black">By using this web site, you consent to the collection and use of information by JC Whitney and JC Whitney.com. Changes to our privacy policy will be posted to this page so you will be kept update. If you have any questions or comments regarding this policy, please review our <a href="/CustomerService.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0">customer service</a> page.</font></div>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		
+
+
+
+
+<table border="0" cellpadding="5" cellspacing="0" "="">
 	<tbody><tr valign="top" align="center">
 		<td align="center">
 			<a href="#Anchor"><font size="1" face="Arial,Verdana,Helvetica"><b>BACK TO TOP</b></font></a><br>
@@ -170,38 +535,40 @@ Our customer service page provides several e-mail addresses for your convenience
 			<table width="700">
 				<tbody><tr>
 					<td align="center">
-						<font face="Arial,Verdana,Helvetica" color="black" size="1">
-						
+						<center>
+							<font face="Arial,Verdana,Helvetica" color="black" size="1">
+							
+								    
 
 
 
 
 
-[<a href="home.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0">Home</a>]
-[<a href="help.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Help</a>]
-[<a href="CustomerService.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Customer&nbsp;Service</a>]
-[<a href="ShoppingCart.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Shopping&nbsp;Cart</a>]
-[<a href="freecatalogs.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Free&nbsp;Catalog</a>]
-[<a href="newsletters.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Newsletters</a>] 
-[<a href="carClubs.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Car&nbsp;Clubs</a>]
-[<a href="Privacy.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Privacy&nbsp;Statement</a>]<br>
-[<a href="EOBSplash.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0">Order&nbsp;From&nbsp;Your&nbsp;Catalog</a>]
-[<a href="jobopps.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Career&nbsp;Opportunities</a>]
-[<a href="aboutus.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">About&nbsp;Us</a>] 
-[<a href="faq.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">FAQ</a>]
-[<a href="shippingrate2.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Shipping</a>]
-[<a href="aff_mktg_program.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Affiliate&nbsp;Program</a>]
-[<a href="AdvertiseForm.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Advertise&nbsp;with&nbsp;JC Whitney</a>]
-[<a href="RetailStore.html;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0?BQ=jcw2">Retail&nbsp;Store</a>]
+[<a href="http://www.jcwhitney.com/home.jhtml">Home</a>]
+[<a href="http://www.jcwhitney.com/help.jhtml?BQ=jcw2">Help</a>]
+[<a href="http://www.jcwhitney.com/CustomerService.jhtml?BQ=jcw2">Customer&nbsp;Service</a>]
+[<a href="http://www.jcwhitney.com/ShoppingCart.jhtml?BQ=jcw2">Shopping&nbsp;Cart</a>]
+[<a href="http://www.jcwhitney.com/freecatalogs.jhtml?BQ=jcw2">Free&nbsp;Catalog</a>]
+[<a href="http://www.jcwhitney.com/Privacy.jhtml?BQ=jcw2">Privacy&nbsp;Statement</a>]<br>
+[<a href="EOBSplash.jhtml;$sessionid$3QWPK5IAAAUOAQSNDV1CFE0CJUOXKIV0">Order&nbsp;From&nbsp;Your&nbsp;Catalog</a>]
+[<a href="http://www.jcwhitney.com/jobopps.jhtml?BQ=jcw2">Career&nbsp;Opportunities</a>]
+[<a href="http://www.jcwhitney.com/aboutus.jhtml?BQ=jcw2">About&nbsp;Us</a>] 
+[<a href="http://www.jcwhitney.com/faq.jhtml?BQ=jcw2">FAQ</a>]
+[<a href="http://www.jcwhitney.com/shippingrate2.jhtml?BQ=jcw2">Shipping</a>]
+[<a href="http://www.jcwhitney.com/aff_mktg_program.jhtml?BQ=jcw2">Affiliate&nbsp;Program</a>]
+[<a href="http://www.jcwhitney.com/AdvertiseForm.jhtml?BQ=jcw2">Advertise&nbsp;with&nbsp;JC Whitney</a>]
+[<a href="http://www.jcwhitney.com/RetailStore.jhtml?BQ=jcw2">Retail&nbsp;Store</a>]
 
 
 
 
 
 
-						</font><p><font face="Arial,Verdana,Helvetica" color="black" size="1">Copyright © 1999-2001, J.C. Whitney, Inc.
-						</font>
-					</p></td>
+		                          
+							</font><p><font face="Arial,Verdana,Helvetica" color="black" size="1">Copyright © 1999-2002, J.C. Whitney, Inc.
+							</font>	
+						</p></center>
+					</td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -209,10 +576,8 @@ Our customer service page provides several e-mail addresses for your convenience
 </tbody></table>
 		
 
-
-
-
-
+		<map name="privacy_stripb8e498e2"><area shape="rect" coords="7,6,70,72" href="javascript:openPopup('https://digitalid.verisign.com/as2/9c3ce71cc458d101ea85d17525b95901',500,450,1,0,0)" alt="Verisign"></map>
+	
 
 
 
