@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caribbeantravelmag.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212014652id_/http%3A//www.caribbeantravelmag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeantravelmag.com privacy policy that was archived on 2004-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040214124243id_/http%3A//www.caribbeantravelmag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
 
 # Caribbean Travel & Life Online
 
