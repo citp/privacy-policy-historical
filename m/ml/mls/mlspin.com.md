@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlspin.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607054303id_/http%3A//mlspin.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlspin.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211094448id_/http%3A//mlspin.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # MLS Property Information Network - Privacy Policy
 
