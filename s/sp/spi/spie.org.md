@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233121id_/http%3A//spie.org/dsp_globalPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307234948id_/http%3A//spie.org/dsp_globalPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SPIE--The International Society for Optical Engineering. The Optics, Photonics, Fibers, and Lasers Resource.
 
@@ -26,7 +26,7 @@ _Web Site Forms_
 
 We obtain information you provide to us in online forms such as your name, address, and e-mail address. We may use this information to provide you with information about the products and services offered by SPIE. Online forms are available for customers to request information, products, and services. We collect information about you only if you voluntarily provide contact information within these forms.
 
-If you do not wish to receive relevant information through the mail from organizations other than SPIE, you may email [SPIE](https://web.archive.org/web/20041206233121id_/http%3A//spie.org/address-change@spie.org), telephone SPIE Customer Service, or indicate so on forms where the option is available.
+If you do not wish to receive relevant information through the mail from organizations other than SPIE, you may email [SPIE](https://web.archive.org/web/20050307234948id_/http%3A//spie.org/address-change@spie.org), telephone SPIE Customer Service, or indicate so on forms where the option is available.
 
 E-mail addresses are never released to third parties as a matter of SPIE policy. 
 
