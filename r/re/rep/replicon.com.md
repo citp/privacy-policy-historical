@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008082800id_/http%3A//www.replicon.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606131234id_/http%3A//www.replicon.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
 
 # Replicon - About Replicon
 
