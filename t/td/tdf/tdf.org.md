@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tdf.org privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613032426id_/http%3A//tdf.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdf.org privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203133457id_/http%3A//tdf.org/privacy.html) for the most accurate reproduction.*
 
 # Theatre Development Fund
+
+  | 
 
 > **** February 19, 2020 ****
 > 
@@ -40,18 +42,5 @@
 > 
 > **Content Policy**  
 >  Please see our Content Policy for other terms and conditions governing your use of TDF Web site.
-> 
->   
->  **  
-> **[**HOW CAN I CONTRIBUTE TO TDF'S PROGRAMS?  
->  **](https://web.archive.org/web/20010613032426id_/http%3A//tdf.org/contribution/index.html)**  
-> **   
-> 
-> 
-> **DID YOU KNOW?** **** YOU CAN REACH TDF.ORG BY TYPING THE KEYWORDS:  
->  **THEATRE DEVELOPMENT FUND** OR **TDF COSTUME COLLECTION** INTO  
->  YOUR BROWSER'S ADDRESS FIELD.
-> 
-> ****************************************************************© Theatre Development Fund.TKTS, TDF & TKTS**************************************************************** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **Plus are registered trademarks.  
->  All content is the ************************************************************************************************************************************************************************************************************************************************************************************************************property of ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **Theatre Development Fund:  
->  ****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************last updated:******************************************************************************************************************************************************************************************************************************************************************************************** 02/19/2020 
+
+|  
