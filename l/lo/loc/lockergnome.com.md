@@ -1,84 +1,6 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206035901id_/http%3A//www.lockergnome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204431id_/http%3A//www.lockergnome.com/privacy.html) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Statement
-
-[](http://www.lockergnome.com/)
-
-  
- [Get Our Help Files](http://www.gnometomes.com/)  
- [New PC Tips Book](http://www.booklocker.com/books/918.html)  
-
-
- [Latest Windows Daily](http://windowsdaily.lockergnome.com/)  
- [Latest Digital Media](http://digitalmedia.lockergnome.com/)  
- [Latest Tech Specialist](http://techspecialist.lockergnome.com/)  
- [Latest Penguin Shell](http://penguinshell.lockergnome.com/)  
- [Latest Apple Core](http://applecore.lockergnome.com/)  
- [Latest Web Weekly](http://webmasterweekly.lockergnome.com/)  
- [Latest Bits & Bytes](http://updates.lockergnome.com/)  
- [Latest Downloads](http://www.gnomedownloads.com/)  
- [Latest Forum Posts](http://help.lockergnome.com/)  
-
-
- [Suggest a Feature](http://www.lockergnome.com/submit.php)  
- [Advertise With Us](http://www.lockergnome.com/advertise.html)  
- [High-Tech Job Search](http://seeker.dice.com/seeker.epl?rel_code=14)  
- [Chat With Gnomies](http://www.lockergnome.com/chat.html)  
- [Watch The Webcams](http://www.lockergnome.com/webcam.html)  
- [Recommend Us!](http://www.lockergnome.com/recommend.html)  
- [Read Past Issues](http://www.lockergnome.com/issues/)  
- [About Lockergnome](http://www.lockergnome.com/about.html)  
- [View More Options](http://www.lockergnome.com/options.html)  
-
-
- [Link To Lockergnome](http://www.lockergnome.com/code.zip)  
- [Our Privacy Policy](http://www.lockergnome.com/privacy.html)  
- [Download X-Setup](http://www.xteq.com/)  
- [Our XML / RSS Feed](http://www.lockergnome.com/lockergnome.xml)  
- [Syndicate Our Tips](http://www.lockergnome.com/options.html#syndicate)  
-
-
- [Ask a Question](http://help.lockergnome.com/)  
- [Low Price Finder](http://lockergnome.pricegrabber.com/)  
- [CPU Magazine](https://www.sandhills.com/secure/smartcomputing/cpufreetrial3.asp?source=cp491bonus)  
- [Gnomies.com ISP](http://www.gnomies.com/)  
- [The GnomeSTORE](http://store.lockergnome.com/)  
- [Get Our Help Files](http://www.gnometomes.com/)  
- [New PC Tips Book](http://www.booklocker.com/books/918.html)  
-
-
- [General Feedback](mailto:feedback@lockergnome.com?subject=Lockergnome%20Web%20Site%20Feedback)  
- 
-
-  
-
-
-  
- [Protect Your Passwords](http://shop.usahero.com/ "Password Manager: Store. Encrypt. Protect.")  
- [Easy Slide Show Maker](http://www.programmingart.com/products/slideshow/?lockergnome "Easy Slide Show Creator - Create digital slide shows with music, sounds, captions, and more! Send through email or on CD-ROM.")  
- [zip.XL](http://www.whirlingdervishes.com/zipxl/gnomies.php "Zip files finally made easy. Click to get 20% off.")  
- [Outpost Firewall Pro](http://www.e-macone.com/Outpost.asp "Outpost Personal Firewall - an incredibly powerful, yet easy to use, software tool to protect you, your family, or your business from internet threats.")  
- [Pretty Good MahJongg](http://www.goodmj.com/lockergnome.html "Play the classic MahJongg tile matching game and original solitaire games with MahJongg tiles!")  
- [Book Collector](http://www.collectorz.com/book?from=lockergnome "Software for organizing your personal book collection.
-Add books quickly - no typing required! Group, filter, sort and print your book list. Click for free trial version.")  
- [Manage Your Workgroup](http://outlook.4team.biz/?fr=gnome "Share your team/project contacts, calendars, tasks, etc. in MS Oulook 2002, without a server!")  
- [Form Pilot](http://www.colorpilot.com/typewriter.html "Software for filling in paper forms on your computer instead of a typewriter")  
- [FirstStop WebSearch](http://www.firststopwebsearch.com/lockergnomeoffer.html "FirstStop WebSearch\(TM\) Deluxe Edition, a FREE trial version of this incredibly fast, award winning, customizable multi-search engine that has been described as the FASTEST no-nonsense meta search for the net. Now, Gnomies can save 50% when they register a copy of FirstStop WebSearch!")  
- [Tag&Rename](http://www.softpointer.com/tr_2.htm "Organize all your mp3 collection in seconds! You can rename mp3s quickly and easily, write tag information in batch, from file names or import it from cddb. Get your free trial now!")  
- [Boomer - Stream Now](http://www.gfx2swf.com/gnome-special/ "Convert MP3, WAV, AVI, JPG, GIF, and PNG to the SWF format for no buffer streaming")  
-
-
-[**Get Listed Here**](http://www.lockergnome.com/special.html)
-
-Question: which group is 250,000+ strong and always looking for stuff to make their personal and professional lives run smoother? 
-
-**CAREER SERVICES FROM LOCKERGNOME AND DICE.COM**  
-We teamed up with [Dice.com](http://seeker.dice.com/jobsearch/jobsearch.epl?rel_code=14) to bring you a full service I.T. career enhancement solution. Whether you are looking for your [dream job](http://seeker.dice.com/jobsearch/jobsearch.epl?rel_code=14) or trying to [hire talented people](http://seeker.dice.com/jobsearch/jobsearch.epl?rel_code=14), the full-featured career resource center is the place to start. Find your [IT talent solution](http://seeker.dice.com/jobsearch/jobsearch.epl?rel_code=14) today! 
-
-[](http://store.lockergnome.com/)
-
-  
-©2002, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our [Terms of Service](http://www.lockergnome.com/terms.html). Our Web site is hosted by [DigitalDaze](http://www.digitaldaze.com/?lg). Domain registered at [DNS Central](http://www.dnscentral.com/?lg). Powered by [Lyris ListManager](http://www.lyris.com/). Chris's Internet service provided by [Sonic](https://sonic.sonic.net/web_signup/submit.cgi?referrer=pirillo). 
 
 | 
 
@@ -155,16 +77,74 @@ In Touch
 
 If you have any questions about this privacy statement or the professional practices of Lockergnome, you may contact one of the head geeks, Lori Lockwood: 
 
-[feedback@lockergnome.com](mailto:feedback@lockergnome.com)  
-108 3rd Street, Suite 305A  
-Des Moines, IA 50309  
+[feedback@lockergnome.com](mailto:%20feedback@lockergnome.com)  
+4225 Fleur Dr #145  
+Des Moines, IA 50321 USA   
 1.888.472.0483 
 
   
 
 
- Get Our Computer Tips Book!
+ Remember Our Free Newsletters
 
-This [compendium of Lockergnome tips](http://www.booklocker.com/books/918.html) represents just a small fraction of the information available from Lockergnome.com. Covering a range of topics, including Internet Explorer, the Windows User Interface, E-mail, Networking, Troubleshooting, and a variety of other subjects all geared toward making your computing experience both easier and more enjoyable, you'll find the [1000+ tips](http://www.booklocker.com/books/918.html) contained within these pages an invaluable resource in your personal learning process. 
+©1996-2003, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our [Terms of Service](http://www.lockergnome.com/terms.html) and [Privacy Policy](http://www.lockergnome.com/privacy.html). Domains registered at [DNS Central](https://gnomedomains.securenow.com/registerdomain.cgi). Powered by [Lyris ListManager](http://www.lyris.com/). Chris Pirillo fueled by [Peet's Coffee](http://www.qksrv.net/click-471546-1200274). Headers provided by [Habeas](http://www.habeas.com/partner.php?affil=lockergnome&url=lockergnome.htm). Statistics provided by [Urchin](http://www.urchin.com/).
 
-Some of the tips are more technical than others, but Chris Pirillo has a gift for making even the geekiest subject accessible to virtually [any user](http://www.booklocker.com/books/918.html). Pirillo already did the work to solve your computing problems, you just have to implement his solutions. This book is available in printed or electronic format, but if you'd rather browse our collection of e-books: 
+|  [](http://www.gnomedex.com/)
+
+**Helpful Services:**  
+ [GnomeDomains](https://gnomedomains.securenow.com/registerdomain.cgi)  
+ [GnomePortable](http://www.handango.com/brainstore/home.jsp?siteId=813)  
+ [Gnomies.com](http://www.crosspaths.net/links.asp?code=XPLGWEB&dest=/services/gnomies/)  
+ [GnomeSavings](http://lockergnome.pricegrabber.com/)  
+ [GnomePersonals](http://personals.lockergnome.com/)  
+ [GnomeJobs](http://seeker.dice.com/seeker.epl?rel_code=14)  
+
+
+**Current Content:**  
+ [Windows Daily](http://windowsdaily.lockergnome.com/)  
+ [Digital Media](http://digitalmedia.lockergnome.com/)  
+ [Tech Specialist](http://techspecialist.lockergnome.com/)  
+ [Penguin Shell](http://penguinshell.lockergnome.com/)  
+ [Apple Core](http://applecore.lockergnome.com/)  
+ [Webmaster Weekly](http://webmasterweekly.lockergnome.com/)  
+ [Technology News](http://update.lockergnome.com/)  
+ [PDF Downloads](http://tutorials.lockergnome.com/)  
+ [File Of The Day](http://windows.fileoftheday.com/)  
+
+
+**Our Community:**  
+ [Gnomedex Conference](http://www.gnomedex.com/)  
+ [Recommend Us!](http://www.lockergnome.com/recommend.html)  
+ [Enter the Forums](http://help.lockergnome.com/)  
+ [Live Chat Room](http://www.lockergnome.com/chat.html)  
+ [Watch The Webcams](http://www.lockergnome.com/webcam.html)  
+ [About Lockergnome](http://www.lockergnome.com/about.html)  
+
+
+**Contact Us:**  
+ [General Feedback](mailto:feedback@lockergnome.com?subject=Lockergnome%20Web%20Site%20Feedback)  
+ [Submit Your Link](http://www.lockergnome.com/submit.php)  
+ [Sponsorships](http://advertise.lockergnome.com/)  
+
+
+  
+
+
+  
+ [Pretty Good Solitaire](http://www.goodsol.com/index.html?src=gnome "You will enjoy countless hours of fun with Pretty Good Solitaire! Play over 500 solitaire card games, from classic games like Klondike, FreeCell, and Spider, to original games found nowhere else.  Enjoy lush graphics, large easy-to-read cards, statistics, and quests, a unique new way to play for points.")  
+ [Download StealthDisk](http://www.invisicom.com/?lockergnome "Secure, hide, and encrypt your valuable data. StealthDisk removes all traces of online and offline activities using patent pending technology.")  
+ [Intranet Help Desk](http://www.auscomp.com/itcommander_lg.html "Auscomp IT Commander. Free relational database. Easy to install, deploy, use, maintain & scale. Try it!")  
+ [Easy webcam mobility!](http://www.strangesolutions.com/ccp5/cgi-bin/cp-app.cgi?pg=prod&ref=FlexStand&camp=gnome "FlexStand - the necessary webcam accessory. Put your webcam where you want it. The FlexStand provides unmatched mobility for your web camera. FlexStand your webcam today!")  
+ [Dr.Tag - MP3 Tagger](http://www.drtag.de/?lockergnome "World's most effective and easiest MP3 tagging and renaming utility. Click here to purchase now and pay only $19.95!")  
+ [Registry Mechanic](http://www.winguides.com/regmech/?ref=lggsmay "Safely clean and repair Windows registry problems with a few simple mouse clicks!")  
+ [Create CD, Web, catalog](http://www.hyperpublish.com/create_a_catalog_000018.htm "Creating autorun CDs with CD FrontEnd is really a snap! Not just a compiler but a quick, powerful all-in-one environment for creating stunning CDs!")  
+ [1SITE Web creator](http://www.1site.info/lg.html "Create a Web site quickly, without Html tech stuff! Internet pages in a snap! - 1site, the easy web software")  
+ [EBooksWriter](http://www.ebookswriter.com/lg.html "Creating e-books with EbooksWriter is really a snap! Not just an ebook compiler, but a quick, powerful all-in-one environment for making stunning e-books!")  
+ [Recover Nonbooting PCs](http://store.yahoo.com/cgi-bin/clink?configsafe+7TusZ4+myezfixcom1.html "CPR software from imagine LAN recovers non-booting Windows PCs in minutes - and without data loss!")  
+ [Computer Power User](https://www.sandhills.com/secure/smartcomputing/cpufreetrial4.asp?guid=&source=CPU740bonus "Computer Power User is a monthly publication tech enthusiasts. It         offers a mix of opinions from columnists like Chris Pirillo, Rob Malda, and Sharky Ross. In addition to high-tech tips and information and product reviews")  
+
+
+[**Get Listed Here**](http://www.lockergnome.com/special.html)
+
+Question: which group is 250,000+ strong and always looking for stuff to make their personal and professional lives run smoother?   
+---|---
