@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rjf.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206162138id_/http%3A//www.raymondjames.com/privacy_cl.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rjf.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603202530id_/http%3A//www.raymondjames.com/privacy_cl.htm) for the most accurate reproduction.*
 
 # Raymond James Financial - Privacy notice for Raymond James Clients, including Heritage Family of Funds Customers
 
@@ -28,6 +28,6 @@ Marketing Director
 Raymond James Financial  
 880 Carillon Parkway  
 St. Petersburg, FL 33716  
-[InvestorRelations@RJF.com](mailto:investorrelations@rjf.com)
+[InvestorRelations@RaymondJames.com](mailto:InvestorRelations@RaymondJames.com)
 
 _
