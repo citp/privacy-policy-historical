@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsprewards.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603170409id_/http%3A//bsprewards.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsprewards.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202021604id_/http%3A//bsprewards.com/privacy.cfm) for the most accurate reproduction.*
 
 # BSP Rewards Privacy Policy
 
@@ -133,4 +133,4 @@ BSP Rewards Privacy Department
 [](http://bsprewards.com/index.cfm)  
 1515 N. Federal Hwy. Suite 300  
 Boca Raton, FL 33432-1994  
-Phone: 561.392.4550   Fax: 561.864.1095
+Phone: (561) 392-4550   Fax: (561) 864-1065
