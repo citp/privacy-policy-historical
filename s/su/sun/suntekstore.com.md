@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the suntekstore.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204044840id_/http%3A//www.suntekstore.com/privacypolicy.html) for the most accurate reproduction.*
+
+# SuntekStore.com Privacy Policy
+
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+
+ _SuntekStore values its customers and visitors and respects their privacy. We will not share, sell, rent, or otherwise distribute any of the personal information that you provide us when making a purchase through our online store. We will use your feedback and comments for the purposes of improving the services that we can provide you, and keeping you up to date with any special promotions or updates. If our information practices change in the future, we will let you know by posting the policy changes on our Web site before any new policies formally take effect. Please contact us by e-mail at[info@suntekstore.com](mailto:info@pda-mart.com), with any questions._
