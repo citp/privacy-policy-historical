@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609234146id_/http%3A//www.babymed.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210101557id_/http%3A//www.babymed.com/privacy.asp) for the most accurate reproduction.*
 
 # BabyMed.com
 
-|  [home](https://web.archive.org/) |  [tools](https://web.archive.org/tools/) |  [topics](https://web.archive.org/docs) |  [community](https://web.archive.org/community) |  [my babymed](https://web.archive.org/members/) |  [site map](https://web.archive.org/site_map.asp) |  [search](https://web.archive.org/search/) |  [feedback](https://web.archive.org/feedback/)  
----|---|---|---|---|---|---|---  
+|  [Home](https://web.archive.org/) |  [Tools](https://web.archive.org/tools/) |  [Topics](https://web.archive.org/docs/) |  [Community](https://web.archive.org/community/) |  [Success Stories](https://web.archive.org/docs/english/452.asp) |  [My BabyMed](https://web.archive.org/members/) |  [Map](https://web.archive.org/site_map.asp) |  [Search](https://web.archive.org/search/) |  [Help](https://web.archive.org/docs/english/803.asp)  
+---|---|---|---|---|---|---|---|---  
   
 ### BabyMed.com Privacy Statement
 
@@ -61,5 +61,5 @@ Our site also has public areas such as chat rooms and message boards. Please rem
 
 **• Your questions and comments**  
 Feel free to [contact](https://web.archive.org/feedback/) us, with comments or questions. See [About Us](https://web.archive.org/about.asp) to find out more about our company and our policies.   
-  [About Us](https://web.archive.org/about.asp) |  [Terms of Use & Disclaimer](https://web.archive.org/terms.asp) |  [Privacy Statement](https://web.archive.org/privacy.asp) |  [Doctors](https://web.archive.org/doctors/) |  [Editors](https://web.archive.org/editors/)  
----|---|---|---|---
+  [About Us](https://web.archive.org/docs/english/804.asp) |  [Terms of Use & Disclaimer](https://web.archive.org/terms.asp) |  [Privacy Statement](https://web.archive.org/privacy.asp) |  [Feedback](https://web.archive.org/feedback/) |  [Doctors](https://web.archive.org/doctors/) |  [Editors](https://web.archive.org/editors/)  
+---|---|---|---|---|---
