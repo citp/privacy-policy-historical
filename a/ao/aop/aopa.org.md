@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621121358id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802042050id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
 
 # AOPA Online - Privacy Policy Statement
 
