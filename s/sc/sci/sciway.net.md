@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciway.net privacy policy that was archived on 2000-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001220003000id_/http%3A//sciway.net/sciway/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciway.net privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413025344id_/http%3A//www.sciway.net/sciway/privacy.html) for the most accurate reproduction.*
 
-# Your Privacy on SCIway - South Carolina's Information Highway
+# Your Privacy on SCIway
 
 ### Your Privacy on SCIway
 
