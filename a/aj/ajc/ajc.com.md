@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajc.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601123339id_/http%3A//www.accessatlanta.com/ajc/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajc.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203165439id_/http%3A//www.accessatlanta.com/ajc/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # ajc.com | Privacy policy
 
@@ -17,10 +17,12 @@
   
   
 [Archives](http://stacks.ajc.com/)  
-[Email alerts](http://newstoyou.ajc.com/)  
+[Email alerts](http://my.ajc.com/ajc/signup.epl)  
 [Subscribe](https://web.archive.org/ajc/subscribe/)  
-[Photos, gifts](https://web.archive.org/ajc/info/photos.html)  
-[Contact us](https://web.archive.org/ajc/info/contact.html)  
+[Photo, page](https://web.archive.org/ajc/services/info/photos.html)  
+  [reprints](https://web.archive.org/ajc/services/info/photos.html)  
+[Gifts, guides](https://web.archive.org/ajc/services/info/)  
+[Contact us](https://web.archive.org/ajc/services/info/contact.html)  
 [Site map](https://web.archive.org/ajc/sitemap.html)  
   
   
