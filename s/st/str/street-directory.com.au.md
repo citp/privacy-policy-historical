@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the street-directory.com.au privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204091126id_/http%3A//www.street-directory.com.au/administrative/map_admin.cgi%3Ffile%3D/administrative/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the street-directory.com.au privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209154104id_/http%3A//www.street-directory.com.au/administrative/map_admin.cgi%3Ffile%3D/administrative/privacypolicy.htm) for the most accurate reproduction.*
 
 # Administrative Policies, Streetdirectory.com
 
