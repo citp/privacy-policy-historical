@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075436id_/http%3A//www.eeoc.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161306id_/http%3A//www.eeoc.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for the U.S. Equal Employment Opportunity Commission Web Site
 
@@ -28,7 +28,7 @@ Our web site has links to other federal agencies. In a few cases we may link to 
 
 ## Use of cookies
 
-Our web site is designed to [allow visitors to change the appearance of the site](https://web.archive.org/web/20041204075436id_/http%3A//www.eeoc.gov/style/about.html) by selecting from several style sheets. The main purpose of this is to improve accessibility and make the site easier to use for people with limited vision, or people who use adaptive equipment to access the web. It may also be of use for people using hand-held computers, WebTV, or other alternative web access devices. If you choose to use this feature, a "cookie" will be set on your web browser. The only thing we put in the cookie is the name of the style sheet you select. We do not track or monitor cookies, and no personal information will be collected or stored. We do not use cookies for any other purpose.
+Our web site is designed to [allow visitors to change the appearance of the site](https://web.archive.org/web/20050403161306id_/http%3A//www.eeoc.gov/style/about.html) by selecting from several style sheets. The main purpose of this is to improve accessibility and make the site easier to use for people with limited vision, or people who use adaptive equipment to access the web. It may also be of use for people using hand-held computers, WebTV, or other alternative web access devices. If you choose to use this feature, a "cookie" will be set on your web browser. The only thing we put in the cookie is the name of the style sheet you select. We do not track or monitor cookies, and no personal information will be collected or stored. We do not use cookies for any other purpose.
 
 * * *
 
