@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607003951id_/http%3A//www.newsday.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217235840id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
 
-# newsday.com | privacy policy
+# Newsday.com - Newsday.com Privacy Policy
 
 As newsday.com strives to offer its visitors as many advantages of Internet technology as possible, we are dedicated to protecting visitors from unexpected use of personally identifiable information.
 
@@ -15,12 +15,12 @@ Affiliated and Linked Sites
 
 newsday.com hopes its partners, advertisers and affiliates will respect the privacy of our visitors. Please be aware, however, that promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through our site may have their own privacy and data collection policies and practices.  
 newsday.com is not responsible for any actions or policies of such third parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-branded, affiliated or linked sites. While on our site, you may occasionally receive "cookies" -- information inserted into the cookies.txt file stored in your computer -- from those who advertise on our site. The placement of cookies by third-party servers is common on the Internet. newsday.com does not control the use of these cookies or the resulting information; therefore, these cookies are not subject to newsday.com's privacy policy.  
-Please note that if you post personal information on the message boards of newsday.com's public forums, that information can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of newsday.com. 
+Please note that if you post personal information on the message boards of newsday.com's public forums, that information can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of newsday.com.
 
 Children  
 
 
-newsday.com does not knowingly solicit personal information from children under the age of 13. In the event that we learn that we have collected any personal information from a child under the age of 13 without parental consent, we will delete that information from our database as quickly as is practical. 
+newsday.com does not knowingly solicit personal information from children under the age of 13. In the event that we learn that we have collected any personal information from a child under the age of 13 without parental consent, we will delete that information from our database as quickly as is practical.
 
 Policy Changes  
 
