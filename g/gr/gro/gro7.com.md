@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gro7.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602170955id_/http%3A//www.freeservers.com/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gro7.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204233010id_/http%3A//www.freeservers.com/policies/privacy_policy.html) for the most accurate reproduction.*
 
 # Freeservers.com--Free Web Space
 
