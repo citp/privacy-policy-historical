@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phuketindex.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009174507id_/http%3A//www.phuketindex.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuketindex.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403182510id_/http%3A//www.phuketindex.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - One stop Phuket island directory
 
