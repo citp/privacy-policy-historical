@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smartlabel.com privacy policy that was archived on 2004-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040802230842id_/http%3A//www.smartlabel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlabel.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403231736id_/http%3A//www.newgistics.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Newgistics.com - Privacy Policy
 
-[Home](https://web.archive.org/web/20040806115433id_/http://www.newgistics.com/index.html) > Privacy Policy 
+[Home](https://web.archive.org/web/20050403231736id_/http%3A//www.newgistics.com/index.php) > Privacy Policy 
 
 Privacy Policy
 
