@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2003-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031215234151id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620172317id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
 
 # BabyCenter Privacy Policy
 
@@ -6,7 +6,7 @@
 **Privacy & Security**
 
 **Welcome**  
-Welcome to **BabyCenter.com** and **ParentCenter.com** , web sites owned by BabyCenter, L.L.C. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
+Welcome to **BabyCenter.com** and **ParentCenter.com** , **baby.com** , and **pregnancy.com** , web sites owned by BabyCenter, L.L.C. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
 
 **Your Consent**  
 By using this site, you agree to the terms of this Privacy Policy and the BabyCenter [Terms of Use](https://web.archive.org/help/aboutus/terms). Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
@@ -31,7 +31,7 @@ If you provide personally identifiable information to this site, we may combine 
 
 > (i) to carefully selected partners who have offers that may be of interest to you, provided you have requested such offers, in which case we will require such partners to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. 
 > 
-> (ii) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; 
+> (ii) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. One such contractor is DoubleClick, Inc., who manages many of the advertisements you see on the Web site. For more information on DoubleClick, including your choices on how DoubleClick uses certain non-personal information, click [here](http://www.babycenter.com/misc/privacy-doubleclick.jhtml); 
 > 
 > (iii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or 
 > 
@@ -52,13 +52,13 @@ This site takes reasonable steps to protect personally identifiable information 
 This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit. 
 
 **How to Contact Us**  
-To keep your personally identifiable information accurate, current, and complete, please visit our member center at http://www.babycenter.com/members/, or contact us as follows: 
+To keep your personally identifiable information accurate, current, and complete, please visit our member center at [http://www.babycenter.com/members](http://www.babycenter.com/members/), or contact us as follows: 
 
 > **BabyCenter, L.L.C.  
 >  Attention: Customer Service  
 >  163 Freelon St.  
 >  San Francisco, CA 94107  
->  feedback@babycenter.com  
+>  [http://www.babycenter.com/contactus](http://www.babycenter.com/contactus/?form=membership)  
 >  1-866-241-2229  
 >  **
 
@@ -72,7 +72,7 @@ If you have any questions, comments, requests, or concerns related to this Priva
 >  **
 
 **Changes to This Privacy Policy**  
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on **June 6, 2003**. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on **April 20, 2004**. 
 
 [](https://web.archive.org/help)
 
