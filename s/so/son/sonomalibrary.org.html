@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sonomalibrary.org privacy policy that was archived on 2003-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622064410id_/http%3A//www.sonoma.lib.ca.us/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sonomalibrary.org privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602192640id_/http%3A//sonomalibrary.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-US"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,153 +14,95 @@ information">
 <title> Privacy Statement for the Sonoma County Library Web Pages</title>
 
 
-<!--this is the main style sheet-->
-<style type="text/css">
-<!--
-BODY, TD, TH {
-  background: white;
-  color: black;
-  font-family: Verdana, Geneva, sans-serif; }
-
-H1, H2, H3 {
-  font-weight: normal;
-  font-family: Arial, sans-serif;
-  margin-bottom: 25px;
-  margin-top: 25px; }
-
-
-TD.main {
-  font-family: Arial, sans-serif;
-  font-weight: medium;
-  /*font-size: 120%; */
-  /*font-size: 1.33em;;*/ }
-
-HR {
-  color: #006;
-  margin-top: 0;
-  margin-bottom: 0; }
-
-A {
-  color: #009;
-  background: none;
-  font-family: Verdana, Geneva, sans-serif; 
-  font-weight: normal;}
-
-A:visited {
-  color: #069;
-  background: none; }
-
-A:active {
-  color: #09F;
-  background: #CCC; }
-
-A:hover {
-  background: #EEE;
-  color: #F36; }
-
-TD.left {
-  background: #066;
-  color: white;
-  font-family: Arial, sans-serif; }
-
-TD.left A {
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  color: #FFF; }
-
-TD.left A:hover {
-  background: none;
-  color: #F36; }
-
-TD.left A:visited {
-  background: none;
-  color: #FFF; }
-
-Td.left A:hover {            
-  background: #EEE;  
-  color: #F36; }     
-
-TD.main {
-background: white;                  
-color: black;                       
-font-family: Arial, sans-serif; }   
-                                    
-
-TD.main A:active {
-  background: #999;
-  color: white; }
-
--->
-  </style>
+<link rel="stylesheet" type="text/css" href="/inc/top.css">
 
   </head>
 <body>
-<table border="0" cellspacing="0" cellpadding="10">
+<table width="100%" border="0">
   <tbody><tr> 
-    <td class="left" width="115" align="left" valign="top">
+    <td width="115" align="left" valign="top" nowrap="" class="left">
 
-<!--here is where you insert the SSI for the navigation bar-->
+<script language="JavaScript">
+function alertData() {
+	var sTranslate="";
+	var NextTerm;
+	var sTranslist;
+	var re=/\s/
+	sTranslist=document.SForm[3].value.split(re);
+	if (sTranslist.length > 1) {
+		for(i=0;i<sTranslist.length-1;i++) {
+			//ignore booleans and add our own
+			if ((sTranslist[i].indexOf('AND') != 0) && 
+				(sTranslist[i].indexOf('and') != 0) && 
+				(sTranslist[i].indexOf('OR') != 0) && 
+				(sTranslist[i].indexOf('or') != 0) && 
+				(sTranslist[i].indexOf('NOT') != 0) &&
+				(sTranslist[i].indexOf('not') != 0)) {
+				sTranslate+=sTranslist[i]+' AND ';
+			}
+		}
+		sTranslate+=sTranslist[i];
+		document.SForm[3].value=sTranslate;
+	}
+}   
 
-<p>
-<a href="/index.html" title="The Library's 
-home page">Home</a>
-</p>
-<p>
-<a href="/catalog.html" title="The Library's
-online card catalog">Catalog</a> 
-</p>
-<p>
-<a href="/searching.html" title="Search engines
-and directories">Search the Web</a>
-</p>
-<p>
-<a href="/ref/" title="Links
-to subject pages">Subject Links</a> 
-</p>
-<p>
-<a href="/ref/articles.html" title="Online 
-books, newspaper and magazine articles, dictionary and encyclopedia entries">Magazines, 
-Newspapers, &amp; More</a>
-</p>
-<p>
-<a href="/kids.html" title="Games for tots,
-kid-safe search engines and more">Kids</a> and 
-<a href="/teens.html">Teens</a> Pages
-</p>
-<p>
-<a href="/branches/">Branch Locations &amp; 
+</script>
+<p align="center">
+<a href="/index.html"><img src="/img/logo/SCLogo_sm.gif" alt="Sonoma County Library" width="72" height="88" border="0"></a></p>
+<br>
+<a href="/index.html" title="The Library's home page">Home</a>
+<br>
+<br>
+<a href="/catalog.html" title="The Library's online card catalog">Catalog</a> 
+<br>
+<br>
+<a href="/searching.html" title="Search engines and directories">Search the Web</a>
+<br>
+<br>
+<a href="/ref/" title="Links to subject pages">Subject Links</a> 
+<br>
+<br>
+<a href="/ref/articles.html" title="Articles and references">Magazines, <br>Newspapers,<br> 
+&amp; More</a>
+<br>
+<br>
+<a href="/kids.html" title="Games for tots, kid-safe search engines and more">Kids'</a> and 
+<a href="/teens.html" title="Homework help, college info, zines and more"><br>
+Teens'</a> Pages
+<br>
+<br>
+<a href="/branches/" title="Library branches">Branch Locations<br>&amp; 
 Hours</a> 
-</p>
-
-<p>
-<a href="/sitemap.html">Site Map</a>
-</p>
-
+<br>
+<br>
+<form name="SForm" id="SForm" method="post" action="/search?NS-search-page=results" onsubmit="alertData();">
+  <input type="hidden" name="NS-search-type" value="NS-boolean-query">
+  <input type="hidden" name="NS-max-records" value="$$NS-max-records">
+  <input type="hidden" name="NS-collection" value="Sonoma County Library">
+<table border="0">
+    <tbody><tr>
+      <td align="left"><input name="NS-query" id="NS-query" size="12">
+      </td>
+	</tr>
+	<tr>
+	  <td align="left"><input type="submit" name="Submit" value="Search site">
+      </td>
+    </tr>
+  </tbody></table>
+</form>
+<br>
+<br>
 
 
 <!-- the SSI should appear above this line-->
-        </td>
-<td width="20">&nbsp;</td>
+    </td>
+<td width="10">&nbsp;</td>
 
-<td class="main" width="500" valign="top" align="left">
-
-<!--the graphic or imagemap of the Logo-->
-<img name="contentlogo4" src="/images/content-logo4.gif" width="497" height="50" border="0" usemap="#m_content-logo4" alt="usemap 
-of Logo">
-<map name="m_content-logo4">
-<area shape="rect" coords="420,5,497,25" href="http://www.sonoma.lib.ca.us/sitemap.html" title="sitemap" alt="sitemap">
-<area shape="rect" coords="301,5,415,26" href="http://www.sonoma.lib.ca.us/contact.html" title="contact
-us" alt="contact us">
-<area shape="rect" coords="0,19,297,41" href="http://www.sonoma.lib.ca.us/index.html" target="_self" title="logo
-graphic/home" alt="logo graphic/home">
-</map>
-
-<!--end of the image-->
-<!--content goes here-->
-
-<h3 style="background: #066; color: #FFF; text-align: center">
-Privacy Statement</h3>
-<center> <a href="espprivacy.html"> En Español</a></center>
+<td class="main" valign="top" align="left">
+  <h1>Privacy Statement
+</h1>
+  <hr noshade="">
+  <center> <a href="espprivacy.html"> En Español</a></center>
 <p>
 Thank you for visiting the Sonoma County Library’s web site. We are
 committed to preserving the privacy of our visitors and patrons.  We do
@@ -240,39 +182,36 @@ can contact the web coordinator at:
 
 
 
-</td>
-   </tr>
-      </tbody></table>
+<hr noshade="" size="1">
+<p>Related documents:</p>
+<ul>
+  <li><small><a href="/policy.html">Internet Access Policy</a></small></li>
+  <li><small><a href="/Inetpolicy.html">Library Measures to Promote the Responsible
+        Use of Computer Workstations</a></small></li>
+  <li><small><a href="/workstation.html">Public Computer Workstation Procedures</a></small></li>
+  <li><small><a href="/guide.html">Web Guidelines</a></small></li>
+</ul></td>
+  </tr>
+</tbody></table>
 
-<p></p>
-<hr noshade="">
-<p></p>
-<center>
-<!--insert the three SSI lines below here-->
-<p style="font-size: x-small">
 
+<hr noshade="" size="1">
+<div align="center" class="footer">
 <br>
-Copyright © 2000-2003 Sonoma County Library<br>
-
-<a href="http://www.sonoma.lib.ca.us/index.html"> Home</a> |
-<a href="http://www.sonoma.lib.ca.us/privacy.html" title="How we protect    
-your online information"> Privacy Statement</a> |
-<a href="http://www.sonoma.lib.ca.us/contact.html"> Contact Us</a> |
-<a href="http://www.sonoma.lib.ca.us/sitemap.html"> Site Map</a>                            
-|  <a href="http://www.sonoma.lib.ca.us/feedback.html">Web Coordinator</a>
-
+Copyright © 2000-2004 Sonoma County Library
 <br>
 
+<a href="/index.html" title="Sonoma County Library home page">Home</a> |
+<a href="/privacy.html" title="How we protect your online information">Privacy Statement</a> |
+<a href="/contact.html" title="E-mail, phone, mail, and visiting information">Contact Us</a> |
+<a href="/sitemap.html" title="List of pages on this web site">Site Map</a> |                            
+<a href="/feedback.html" title="Send feedback about this web site">Web Coordinator</a> |
+<a href="/ref/ask.html" title="Send a question to the librarian">Ask a Librarian</a><br>
 
 <!--config tmft=%e, %m, %Y"-->
-
-<i> Last updated on Thursday, 27-Dec-01 12:01:27<br></i>
-
-URL: http://www.sonoma.lib.ca.us/privacy.html
-
-</p>
-<!--insert the three SSI lines above here-->
-</center>
+ Last updated on Tuesday, 23-Dec-03 13:06:49<br>
+URL: http://www.sonomalibrary.org/privacy.html
+</div>
 
 
 </body></html>
