@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eplans.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214083647id_/http%3A//eplans.com/plans2/privacy.asp%3FserviceID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplans.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402191427id_/http%3A//eplans.com/plans2/privacy.asp%3FserviceID%3D4) for the most accurate reproduction.*
 
 # Privacy Statement
 
