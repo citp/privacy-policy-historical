@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2002-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021126235756id_/http%3A//www.skyauction.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603160737id_/http%3A//www.skyauction.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # SkyAuction.com Travel Auctions: Privacy Policy
 
@@ -14,7 +14,7 @@ SkyAuction.com recognizes and respects the importance of responsible use of your
 
 OPTING-OUT 
 
-To keep you in control of your personal information and the communications directed to you, we allow you to opt-out of receiving certain communications from SkyAuction.com about new features or services. If a guest objects to such use for any reason, you may stop that use, either by e-mail request to support@SkyAuction.com [support@SkyAuction.com](mailto:support@SkyAuction.com) or by modifying your member information online. 
+To keep you in control of your personal information and the communications directed to you, we allow you to opt-out of receiving certain communications from SkyAuction.com about new features or services. If a guest objects to such use for any reason, you may stop that use, either by e-mail request to [support@SkyAuction.com](mailto:support@SkyAuction.com) or by modifying your member information online. 
 
 Information provided when reserving or purchasing travel services through SkyAuction.com, may be used for marketing and promotional purposes and is subject to the opt-out processes described on, or linked to, each order form. 
 
@@ -24,7 +24,7 @@ We use DoubleClick and other third-party advertising companies to serve ads when
 
 USE OF COOKIES 
 
-Our Web site may use cookies to enhance your experience while using our Web site. Cookies are pieces of information that a Web site transfers to the computer that is browsing that Web site for record?keeping purposes. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords and your personal preferences regarding your use of the particular Web site and making sure that you do not see the same ad repeatedly. Many consider the use of cookies to be an industry standard.
+Our Web site may use cookies to enhance your experience while using our Web site. Cookies are pieces of information that a Web site transfers to the computer that is browsing that Web site for record keeping purposes. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords and your personal preferences regarding your use of the particular Web site and making sure that you do not see the same ad repeatedly. Many consider the use of cookies to be an industry standard.
 
 Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Web site will not function properly when you view them.
 
@@ -54,7 +54,7 @@ Occasionally SkyAuction.com conducts user surveys to better target our content t
 
 LINKS TO OTHER SITES 
 
-Users should be aware that when you are on SkyAuction.com, you could be directed to other sites that are beyond our control. There are links to other sites from SkyAuction.com pages that take you outside our service. For example, if you ?click? on a banner advertisement or a SkyAuction.com more information link, the ?click? takes you off the SkyAuction.com site. This includes, but is not limited to, links from advertisers, sponsors and partners that may use SkyAuction.com's logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information. 
+Users should be aware that when you are on SkyAuction.com, you could be directed to other sites that are beyond our control. There are links to other sites from SkyAuction.com pages that take you outside our service. For example, if you click on a banner advertisement or a SkyAuction.com more information link, the click takes you off the SkyAuction.com site. This includes, but is not limited to, links from advertisers, sponsors and partners that may use SkyAuction.com's logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information. 
 
 SkyAuction.com's policy does not extend to such third parties' use of such information, anything that is inherent in the operation of the Internet, and therefore beyond SkyAuction.com's control, and is not to be applied in any manner contrary to applicable law or governmental regulation. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. 
 
