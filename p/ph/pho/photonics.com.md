@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210022336id_/http%3A//www.photonics.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204637id_/http%3A//www.photonics.com/XQ/ASP/QX/privacy.htm) for the most accurate reproduction.*
 
-# Photonics.com - Laurin Publishing Co. Inc.: Privacy Policy
+# Photonics.com - Privacy Policy
 
 **Laurin Publishing Co., Inc.'s  
 Privacy Policy**
@@ -27,8 +27,6 @@ Laurin Publishing may offer from time to time voluntary, optional contests in wh
 
 Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event. All contests are conducted in full accordance with United States federal and state laws. 
 
-* **Electronic newsletters**  
-Laurin Publishing offers a free newsletter to users of its Photonics.com site. Laurin Publishing gathers the e-mail addresses of users who voluntarily subscribe to this newsletter. (This "unsubscribe" information is repeated in every newsletter.) 
 * **E-mail**  
 Users of the Laurin Publishing Web sites may voluntarily e-mail Laurin Publishing from time to time with requests for information on advertising rates or to order copies of our publications (such as the Photonics Directory, the Photonics Handbook, or the Photonics Spectra Job & Salary Survey). Such e-mails may include the user's name and other contact information in addition to his or her e-mail address. **Under no circumstances will Laurin Publishing divulge this information to a third party.**
 * **Resume postings**  
@@ -60,14 +58,12 @@ Laurin Publishing gives users options wherever necessary and practical. Such cho
 
 **5\. How can visitors correct and update personally identifiable information?**
 
-To correct or change the information collected during subscription to one of our publications, please visit our Web site's subscription areas for [Photonics Spectra](http://www.photonics.com/about/subscribe2.html), [Biophotonics International](http://www.photonics.com/about/subscribe3.html), or [EuroPhotonics](http://www.photonics.com/about/subscribe4.html). You may also e-mail any changes to [photonics@laurin.com](mailto:photonics@laurin.com), call us at 413-499-0514, fax us at 413-442-3180, or send ground mail to: 
+To correct or change the information collected during subscription to one of our publications, please visit our Web site's subscription areas for [Photonics Spectra](http://www.photonics.com/about/XQ/ASP/QX/subscribe2.htm), [Biophotonics International](http://www.photonics.com/about/XQ/ASP/QX/subscribe3.htm), or [EuroPhotonics](http://www.photonics.com/about/XQ/ASP/QX/subscribe4.htm). You may also e-mail any changes to [photonics@laurin.com](mailto:photonics@laurin.com), call us at 413-499-0514, fax us at 413-442-3180, or send ground mail to: 
 
 _Mailing List  
 Laurin Publishing Co., Inc.  
 P.O. Box 4949  
 Pittsfield, MA 01202-4949_
-
-To correct or change the information our electronic newsletter, please e-mail any corrections to [webmaster@laurin.com](mailto:webmaster@laurin.com). 
 
 **6\. What is Laurin Publishing's policy on deleting or deactivating names from its database?**
 
