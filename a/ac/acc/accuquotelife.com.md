@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuquotelife.com privacy policy that was archived on 2000-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000623190938id_/http%3A//www.accuquote.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuquotelife.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206055400id_/http%3A//www.accuquote.com/privacy.cfm) for the most accurate reproduction.*
 
 # AccuQuote Life Insurance - Privacy Policy
 
