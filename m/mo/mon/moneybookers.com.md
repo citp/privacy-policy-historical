@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204023709id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603095718id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # moneybookers.com - and money moves
 
@@ -51,4 +51,4 @@ If you have any questions or suggestions regarding our privacy policy, please co
 Customer support: service@moneybookers.com  
 Telephone: 0870 8812808  
 Fax: 0870 1254861  
-Postal Address: 112 Lee Valley Technopark, Ashley Road, London N17 9LN, UK
+Postal Address: C3 Cairngorm House, Meridian Gate, 203 Marsh Wall, London E14 9YT, UK
