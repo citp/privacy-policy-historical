@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218233052id_/http%3A//www.bobsguide.com/cgi-bin/guide/vinfo.pl%3FID%3Dbg%26hkey%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122656id_/http%3A//www.bobsguide.com/cgi-bin/guide/vinfo.pl%3FID%3Dbg%26hkey%3Dprivacy) for the most accurate reproduction.*
 
 # Bobs Guide
 
 This privacy statement is issued by MyGuides Ltd. It applies to visitors to the site. This does not apply to information collected from Vendors.
 
-information this site gathers  
+Information this site gathers  
 We collect names, email, Job title, Type of business, Main uses of the guide, company, address, web site, telephone and fax number. 
 
-We also gather information about which company contact pages and which product pages have been visited. 
+We also gather information about which contact pages and which product pages have been visited by companies. 
 
-This information is only collected if you register, either to view contact information or to use one of the member services.
+This information can only be collected if you register, either to view contact information or to use one of the member services.
 
 Sharing of the information this site gathers.  
 Information is shared with vendors on the guide, but only if the visitor has not opted out (see below), and the visitor has visited the contact page or one of the product pages of the vendor. 
@@ -17,7 +17,7 @@ Information is shared with vendors on the guide, but only if the visitor has not
 The privacy policies of vendors on the guide is not under our control. 
 
 Opt out procedure  
-Visitors can opt out of the information sharing with vendors. If the visitor opts out then the information given to the vendor cannot be linked to an individual. The information is limited to job title, country, and organisation type. This is used to give a profile of visitors only. 
+Visitors can opt out of the information sharing with vendors. If the visitor opts out, then the information given to the vendor cannot be linked to an individual. The information is limited to job title, country, and organisation type. This is used to give a profile of visitors only. 
 
 The visitor may opt out by un-checking a box on the original registration form. The box is marked " _I agree to my details being revealed to companies on the guide who may be relevant to my interests_ ". If a visitor decides to opt out after registration the procedure is   
 
@@ -50,7 +50,7 @@ Standard web server log files are used for statistical analysis. This informatio
 Third party advertising  
 Some graphics (advertisements) on the site may be provided by a third party. We do not provide personal information to any such third party which would allow them to associate your personal information with any information they may gather.
 
-Visitor's book  
+Visitor's book (Guest Book)  
 Additions to the visitor's book are shown on the site.
 
 Security   
@@ -68,5 +68,5 @@ The server of this site is hosted by another company, but the information of the
 Notification of Changes in Privacy Policy  
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email provided you have checked the box that indicates you wish to receive our newsletter. Otherwise please check this privacy statement. 
 
-Queries / Inaccuracies /contact  
+Queries / Inaccuracies /Contact  
 If you find any inaccuracies in your personal information you can correct them by editing the information in your member update page at <http://www.bobsguide.com/cgi-bin/guide/memgate.pl?ID=bg>. If you have any questions regarding this statement you should first contact: Bob Browning Textor Webmasters 10 Barley Mow Passage Chiswick London W4 4PH, by Phone number: + 44 20 8400 6115 or e-mail: bob@textor.com. The address of MyGuides.com is at [http://www.bobsguide.com/cgi-bin/guide/vinfo.pl?ID=bg&hkey=address](http://www.bobsguide.com/cgi-bin/guide/vinfo.pl?ID=bg&hkey=address). To maintain the integrity and security of your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
