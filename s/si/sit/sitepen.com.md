@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122832id_/http%3A//www.sitepen.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207221706id_/http%3A//www.sitepen.com/about/privacy.html) for the most accurate reproduction.*
 
 # About SitePen - Privacy Policy
 
 ### Privacy Policy
 
-SitePen tracks usage statistics for this web site through log files. We do not use http cookies, web bugs, or other tracking similar mechanisms. We track search queries in aggregate but do not apply them to a specific user. Select pages of our site contain forms for contacting SitePen. We use that information to contact you regarding your answers. This information will not be shared or redistributed for other purposes. 
+SitePen tracks usage statistics for this web site through log files. We do not use http cookies, web bugs, or other similar tracking mechanisms. We track search queries in aggregate but do not apply them to a specific user. Select pages of our site contain forms for contacting SitePen. We use that information to contact you regarding your answers. This information will not be shared or redistributed for other purposes. 
 
 ### About Us
 
