@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkforgood.org privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202104844id_/http%3A//networkforgood.org/help/privacy_full.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkforgood.org privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214014919id_/http%3A//www.networkforgood.org/help/privacy_full.html) for the most accurate reproduction.*
 
 # Network for Good :: Privacy and Security
 
@@ -24,6 +24,15 @@ Network for Good takes every precaution to protect our users' information. When 
 
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry. Network for Good uses Secure Sockets Layer (SSL) technology to keep your personal information as secure as possible. Network for Good helps to protect your information by working with partners that provide a secure and safe environment for credit card donations. 
 
+Your Volunteer Record of Service  
+We have asked you to create your Volunteer Record of Service using your e-mail address because it is a unique identifier (no one else has your e-mail address) and because it will be easiest for you to remember. Your e-mail address will not be shared with any third parties and will not be used for any other purpose by Network for Good, unless you indicate that you would like to receive periodic e-mail updates. If you checked the box beside "Send me updates," you will receive periodic e-mail updates.
+
+We realize the data that you enter into your Volunteer Record of Service is information of a personal nature. This data will be treated accordingly with every precaution related to security and privacy as described above. Information concerning specific organizations and your individual volunteer activity on their behalf will not be shared with any other organization, nor will your personal comments and reflections.
+
+Our system automatically gathers information about the areas you visit on our site. We do not use any of this navigational data about where you -- as an individual -- go on the site. Nor do we share any of this data with outside companies. We do use navigational information in the aggregate to understand how our members as a group use the service so that we can improve the site.
+
+If you are a parent and would like your child to create a Volunteer Record of Service, we encourage you to participate in this activity with your child.
+
 If we change our privacy statement, we will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. 
 
 FAQ
@@ -40,4 +49,4 @@ Yes. We pass on only the information the individual provides to us if that is wh
 **What obligation does an organization have to the privacy of people who donate through Network for Good?**  
 Each organization has its own policies regarding privacy of donor information. We encourage concerned individuals to contact charities directly to learn about their privacy policies. We will only pass on the information individuals provide to us if they authorize us to do so. 
 
-Questions regarding the above statement should be directed to Network for Good. 
+Questions regarding the above statement should be directed to [Network for Good](https://web.archive.org/contact.go?input=/about/contact.html). 
