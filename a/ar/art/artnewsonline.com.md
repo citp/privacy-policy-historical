@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artnewsonline.com privacy policy that was archived on 1999-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990502054248id_/http%3A//www.artnewsonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artnewsonline.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619165932id_/http%3A//artnewsonline.com/privacy.htm) for the most accurate reproduction.*
 
 # ARTnews ONLINE
 
