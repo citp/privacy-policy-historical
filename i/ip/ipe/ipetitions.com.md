@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603063735id_/http%3A//www.ipetitions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209034343id_/http%3A//www.ipetitions.com/privacy.html) for the most accurate reproduction.*
 
-# iPetitions: Your Voice Counts
+# iPetitions: Create and host an online petition, FREE - Your voice counts
 
 **INFORMATION COLLECTION AND USE**
 
-iPetitions collects information at different points on our website. The two main points at which we collect information are when new **members** join iPetitions and when outside users **sign** a petition powered by iPetitions. 
+iPetitions collects information at different points on our website. The two main points at which we collect information are when new **members** join iPetitions and when outside users **sign** a petition powered by iPetitions.
 
-**Members:** When you become a member of iPetitions, you provide us with your name, email address, country, and zip code. Currently, we do not gather any demographic information. iPetitions is the sole owner of this information and we will not sell, share, or rent this information with any other company or individual in ways different from what is disclosed in this statement. From time to time, we may share your information with others on an aggregated basis. We will not share information in such a way that it can be linked to an individual. 
+**Members** : When you become a member of iPetitions, you provide us with your name, email address, country, and zip code. iPetitions is the sole owner of this information and we will not sell, share, or rent this information with any other company or individual in ways different from what is disclosed in this statement. From time to time, we may share your information with others on an aggregated basis. We will not share information in such a way that it can be linked to an individual. 
 
 **Sign:** When you sign a petition powered by iPetitions, you will be asked for your name, and you may be asked for your email address as well as certain demographic information. Some of this information may be optional, but we encourage you to provide it as it will allow us to better customize your experience. The information you provide when you sign a petition is stored on our servers but is the exclusive property of the petition host, who is a member of iPetitions and who has agreed to the terms of this privacy policy. As with the information you supply iPetitions, hosts will be asked not to sell, share, or rent this information with any other company or individual except in an aggregated form. There is one exception to this rule, however, and that is when the petition is presented to its designated recipient. At such time, the recipient will receive a disaggregated list of names with some or all of the information they provided when they signed the petition. This is because a petition is far more likely to be effective when its recipients receives a list of signatures rather than simply an aggregated number of signatures. No individual or organization other than the designated recipient will receive this disaggegated information. 
 
 Please be aware that this applies only to petitions powered by iPetitions on iPetitions' servers (these petitions will have a URL of the form: http://www.ipetitions.com/petitionname.html). Petitions sponsored by external organizations but using our software may have different privacy policies. 
 
+**Ad Services:** In addition, some user information is collected by third-party ad services. Users always have a choice of whether to supply this information and in no case is the information collected without their knowledge. iPetitions does not maintain any control over the information supplied to these ad services and this information will be used in accordance with the privacy policies of these outside services. iPetitions uses these services in order to allow us to keep supplying free and subsidized petition services. We have screened external privacy policies to ensure that personal user information is not misused, but we encourage users with concerns to contact us directly.
+
+  
 **Exception:** iPetitions may disclose user or signer information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Membership Agreement or may be causing injury or interference, intentionally or unintentionally, to iPetitions' rights or property, other iPetitions users, or anyone else that could be harmed by such activities. 
 
 **COOKIES**
@@ -22,21 +25,21 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 **LOG FILES**
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+We use IP addresses to analyze trends, administer the site, track user’s movement, gather broad demographic information for aggregate use, and prevent duplicate signatures. 
 
-******LINKS**
+**LINKS**
 
-This web site contains links to external sites. Please be aware that iPetitions is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by iPetitions and by petitions powered by iPetitions on our own servers. 
+This web site contains links to external sites. Please be aware that iPetitions is not responsible for the privacy practices of such other sites. For more information, please read our statement on ad services (above). We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by iPetitions and by petitions powered by iPetitions on our own servers. 
 
-******NEWSLETTER**
+**NEWSLETTER**
 
 All members of iPetitions have the option of subscribing to our free newsletter. They can unsubscribe at any time. 
 
-******DISCUSSION GROUPS**
+**DISCUSSION GROUPS**
 
 All members of iPetitions can participate in our discussion groups. The contents of those groups are publicly accessible. From time to time, iPetitions may use a part or whole of posts on these groups for publicity purposes. In doing so, however, we will not identify by name or iPetitions ID the user who has made the post. 
 
-******CONTENT**
+**CONTENT**
 
 While we do everything possible to monitor the contents of individual petitions and discussion group postings on our site, we cannot be held liable for any offence, damage, injury or other legal infraction attributed to such content. iPetitions is a service provider; we are not content generators. 
 
@@ -48,11 +51,11 @@ All petitions come with a "Tell a Friend" button, which allows signers to forwar
 
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry \- SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected.
 
-If you have any questions about the security at our website, feel free to [contact us](https://web.archive.org/web/20040603063735id_/http%3A//www.ipetitions.com/contact.html). 
+If you have any questions about the security at our website, feel free to contact us. 
 
 **SITE AND SERVICE UPDATES**
 
@@ -64,4 +67,4 @@ If a user’s personally identifiable information changes (such as your zip code
 
 **NOTIFICATION OF CHANGES**
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
