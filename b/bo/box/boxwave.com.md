@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001205557id_/http%3A//boxwave.com/contactus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616185019id_/http%3A//www.boxwave.com/contactus/privacy.htm) for the most accurate reproduction.*
 
 # BoxWave - Privacy Policy
 
+**BoxWave Privacy Policy**  
   
-**BoxWave Privacy Policy**
-
 **Overall Privacy Statement**  
   
 BoxWave takes your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated by BoxWave, its partner or affiliate. 
