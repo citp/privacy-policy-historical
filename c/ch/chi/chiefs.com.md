@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2001-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011128155043id_/http%3A//sports.nfl.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205134042id_/http%3A//www.nfl.com/help/privacy.html) for the most accurate reproduction.*
 
 # NFL.com: Privacy Policy
 
