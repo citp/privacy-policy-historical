@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805162934id_/http%3A//www.nutritionexpress.com/pls/ne/nut_exp%3FID%3D%26treq%3Dps%26mid%3D%26sub%3D%26itm%3D%26dgp%3D%26pg%3D%26ent%3D1070) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402072549id_/http%3A//www.nutritionexpress.com/pls/ne/nut_exp%3FID%3D%26treq%3Dps%26mid%3D%26sub%3D%26itm%3D%26dgp%3D%26pg%3D%26ent%3D1070) for the most accurate reproduction.*
 
 # Nutrition Express Privacy Statement
 
   
   
-The privacy of Nutrition Express online customers is treated with utmost respect. The personally identifiable information on you and your purchases will not be sold, rented or given away to any other company or agency without your explicit permission. This document should answer any questions you may have regarding user privacy and our web site. _(Please see our_ [Terms of Use Agreement](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=ts&mid=&sub=&itm=&dgp=&pg=) _for information on use and liability.)_
+The privacy of Nutrition Express online customers is treated with utmost respect. The personally identifiable information on you and your purchases will not be sold, rented or given away to any other company or agency without your explicit permission. This document should answer any questions you may have regarding user privacy and our web site. _(Please see our_ [Terms of Use Agreement](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a27521807299000&treq=tu&mid=&sub=&itm=&dgp=&pg=) _for information on use and liability.)_
 
 **Information Collection and Use**  
 Nutrition Express is the sole owner of the information collected on this site. We will not sell, share, rent or give this information to others in ways different from what is disclosed in this statement. Nutrition Express collects information from our users at several different points on our web site. 
@@ -46,56 +46,13 @@ If you have any questions about security at our web site, you can write to [webm
 **Notification of Changes**  
 If we decide to change our privacy policy, notification will be linked from our homepage to the new policy so that our users are always up-to-date on what information we collect, how we use it and under what circumstances (if any) we disclose it. Users will be notified via email and presented with an opportunity to opt-out should we decide to use information in a manner that is inconsistent with the way in which it was collected. 
 
-|  |  | August Internet Specials  
----  
-Save 40% or more online this month on our complete line of these popular brands:  
-[](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=m1&mid=94&sub=&itm=&dgp=&pg=1) | **[Fitness Labs](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=m1&mid=94&sub=&itm=&dgp=&pg=1)**  
-[](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=m1&mid=58&sub=&itm=&dgp=&pg=1) | **[Enzymatic Therapy](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=m1&mid=58&sub=&itm=&dgp=&pg=1)**  
-[](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=m1&mid=28&sub=&itm=&dgp=&pg=1) | **[Jason](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=m1&mid=28&sub=&itm=&dgp=&pg=1)**  
-[](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=m1&mid=h6&sub=&itm=&dgp=&pg=1) | **[CytoSport](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=m1&mid=h6&sub=&itm=&dgp=&pg=1)**  
-|   
+|  | 
+
+**New Customers Now Get FREE Shipping or Gift!**  
+Try us! On your first order over $50 with Nutrition Express choose FREE shipping to anywhere in the Continental USA...or choose a FREE gift.  
+Choices offered at checkout. **Existing Customers Always Get a FREE Gift!**  
+Choose a FREE gift on orders of $50 or more.  
+Choices offered at checkout.
+
   
 
-
-|   
-  
-  
----  
-**[Home](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=hm&mid=&sub=&itm=&dgp=&pg=&ent=1070)**  
-[Request a Catalog](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=rc&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[About Us](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=au&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[Privacy Statement](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=ps&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[Advanced Search](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=s2&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-| **[Shop](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=mi&mid=&sub=&itm=&dgp=&pg=&ent=1070)**  
-[By Brand](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=mi&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[By Category](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=di&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[By Condition](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=ti&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[Quick Order](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=qo&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[Recommendations](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=r1&mid=&sub=&itm=&dgp=&pg=1&ent=1070)  
-[New Products](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=ns&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[Closeouts](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=ws&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-| **[Articles](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=ai&mid=aa&sub=&itm=&dgp=&pg=&ent=1070)**  
-[By Topic](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=a1&mid=aa&sub=&itm=&dgp=&pg=&ent=1070)  
-[By Author](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=a2&mid=aa&sub=&itm=&dgp=&pg=&ent=1070)  
-[By Manufacturer](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=a3&mid=aa&sub=&itm=&dgp=&pg=&ent=1070)  
-[Interviews & Testimonials](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=a4&mid=aa&sub=&itm=&dgp=&pg=&ent=1070)  
-| **[Customer Service](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=cu&mid=&sub=&itm=&dgp=&pg=&ent=1070)**  
-[Ship/Order Policies](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=sp&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[Guarantee & Returns](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=gr&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[International Orders](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=io&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-[Contact Us & FAQs](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=cu&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-  
-  
-**[View Cart](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=vc&mid=&sub=&itm=&dgp=&pg=&ent=1070)**  
-  
-  
-  
-Questions? 1-800-338-7979  
-[Terms of Use](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a87030505026000&treq=ts&mid=&sub=&itm=&dgp=&pg=&ent=1070)  
-Copyright 2000-2004 Nutrition Express Corporation. All rights reserved. 
-
-Information provided on this site is solely for informational purposes only. It is not a substitute for professional medical advice. Do not use this information for diagnosing or treating a health problem or disease, or prescribing of any medications or supplements. Only your healthcare provider should diagnose your healthcare problems and prescribe treatment. 
-
-None of our statements or information, including health claims, articles, advertising or product information have been evaluated or approved by the United States Food and Drug Administration (FDA). The products or ingredients referred to on this site are not intended to diagnose, treat, cure or prevent any disease. Please consult your healthcare provider before starting any supplement, diet or exercise program, before taking any medications or receiving treatment, particularly if you are currently under medical care. Make sure you carefully read all product labeling and packaging prior to use. If you have or suspect you may have a health problem, do not take any supplements without first consulting and obtaining the approval of your healthcare provider. 
-
-We cannot be held responsible for typographical, system or application errors. 
