@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulead.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207173206id_/http%3A//www.ulead.com/aboutulead/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulead.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610053957id_/http%3A//www.ulead.com/aboutulead/privacy.htm) for the most accurate reproduction.*
 
 # Multimedia Software Developer: About Ulead Systems - Online Privacy Statement
 
@@ -64,7 +64,7 @@ If a user's personally identifiable information changes (such as the postal code
 Choice/Opt-out  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. These types of options may include receiving product specific news, 3rd party contact, or even adding your e-mail address to a contest list. 
 
-Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by modifing your mailing status [here](https://web.archive.org/web/20031207173206id_/http%3A//www.ulead.com/aboutulead/subscribe.htm). 
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by modifing your mailing status [here](https://web.archive.org/web/20040610053957id_/http%3A//www.ulead.com/aboutulead/subscribe.htm). 
 
 Users who no longer wish to receive promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the e-mail.
 
