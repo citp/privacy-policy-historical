@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205073148id_/http%3A//babiesonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209174825id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Babies Online
 
@@ -15,9 +15,9 @@ Our site uses cookies to keep track of your shopping cart. We use cookies to sav
 
 Our site's registration form requires users to give us demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data for other purposes. This information is shared with advertisers on an aggregate basis. **Babies Online** is not responsible for the privacy practices or the content of such Web sites.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email and postal address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to get in touch with the visitor when necessary and to provide to select birth product marketers, when consumer permission to do so is granted. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
 
-We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
+We run contests on our site in which we ask visitors for contact information (like their email and postal address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
 
 ## Public Forums
 
