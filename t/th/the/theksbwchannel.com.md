@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theksbwchannel.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622035557id_/http%3A//www.theksbwchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theksbwchannel.com privacy policy that was archived on 2003-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030803155618id_/http%3A//www.theksbwchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheKSBWChannel.com - News -
 
