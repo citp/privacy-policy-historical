@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206092210id_/http%3A//www.amtrak.com/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621173628id_/http%3A//amtrak.com/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,9 +48,9 @@ We never sell or rent the personal information provided to us on the site.
 
 Amtrak has retained certain reputable independent contractors or third party service providers to perform special contract functions for Amtrak such as storing and managing customer information and providing advice about and support of our products and services. By utilizing these contract service providers for various operations of the site, we are better able to offer site visitors and Members of the Amtrak Guest Rewards Program a variety of products and services through the site. These contract services include, but are not limited to, the following:
 
-  *  **Amtrak Guest Rewards Program management**          
-  *  **Amtrak email services**          
-  *  **Customer data storage and processing**          
+  *  **Amtrak Guest Rewards Program management**           
+  *  **Amtrak email services**           
+  *  **Customer data storage and processing**           
   *  **Order fulfillment**
 
 
@@ -75,10 +75,10 @@ Amtrak collects personal information in several ways from different parts of the
 
 Amtrak asks for and collects personal information when you:
 
-  *  **Complete a Member Profile in the Reservations area;**          
-  *  **Make an online purchase;**          
-  *  **Enroll in the Amtrak Guest Rewards Program;**          
-  *  **Request travel and promotional information; or**          
+  *  **Complete a Member Profile in the Reservations area;**           
+  *  **Make an online purchase;**           
+  *  **Enroll in the Amtrak Guest Rewards Program;**           
+  *  **Request travel and promotional information; or**           
   *  **Contact Amtrak through the site.  
 **
 
@@ -183,6 +183,6 @@ _  Back to Top_
 
  **9.   How you can contact us regarding this Policy**
 
-Questions or concerns regarding this Policy should be directed to the following email address: [service@sales.amtrak.com](mailto:service@sales.amtrak.com).  
+[Questions or concerns regarding this Policy should be emailed to Amtrak by clicking on this link](https://web.archive.org/contactus.html).  
 
  _  Back to Top_
