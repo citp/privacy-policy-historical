@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspalliance.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609193300id_/http%3A//aspalliance.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspalliance.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205011423id_/http%3A//aspalliance.com/privacy.aspx) for the most accurate reproduction.*
 
 # ASPAlliance.com : The #1 ASP.NET Developer Community : Privacy Policy
 
