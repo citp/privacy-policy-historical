@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grid.org privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615215626id_/http%3A//www.grid.org/about/gs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grid.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207205623id_/http%3A//www.grid.org/about/gs/privacy.htm) for the most accurate reproduction.*
 
 # GRID.ORG ™ - About Us: Privacy & Security
 
