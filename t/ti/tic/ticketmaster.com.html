@@ -1,349 +1,491 @@
-<!--The following is the downloaded HTML source of the ticketmaster.com privacy policy that was archived on 2000-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001202024300id_/http%3A//www.ticketmaster.com/h/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketmaster.com privacy policy that was archived on 2003-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030601105544id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.-->
 
 <html><head>
-<title>Welcome to ticketmaster.com!</title>
-<meta http-equiv="PageClass" content="WWW">
-<meta http-equiv="PageName" content="Help Pages">
-<meta http-equiv="PageVersion" content="1.0.1">
-
+<title>Ticketmaster-Help</title>
+<link rel="stylesheet" href="http://media.ticketmaster.com/css/tm_style.css">
 <script language="JavaScript">
-function verifyState(form)
-{
-if(form.state.options[form.state.selectedIndex].value == "XX")
-{
-	alert("Please select a state.");
-	return false;
+// <!--
+// This code below extracts the contents of the 
+// location.search and conveniently seperates
+// the name and value into a usable form.
+// Don't alter this code.
+//  -->
+function replace(str, from, to) {
+	var i = str.indexOf(from);
+	if (!from || !str || i == -1) return str;
+	var newstr = str.substring(0, i) + to;
+	if (i+from.length < str.length)
+		newstr += replace(str.substring(
+		i+from.length,str.length),from,to);
+	return newstr;
 }
- return true;
+function getQry(nm)
+{
+	if (!location.search) return '';
+	var i, j, qry;
+	qry = location.search.substring(1);
+	i = qry.indexOf(nm)+nm.length+1;
+	if (i == nm.length) return '';
+	j = qry.indexOf('&',i);
+	if (j+1) qry = qry.substring(i,j);
+	else     qry = qry.substring(i);
+	return unescape(replace(qry, '+', ' '));
 }
-</script>
 
-<style type="text/css">
-<!--
-.noul {text-decoration: none}
--->
-</style>
+function substitute(str, from, to) {
+	var i = str.indexOf(from);
+	if (!from || !str || i == -1) return str;
+	var newstr = str.substring(0, i);
+	if (i+from.length < str.length)
+		newstr += replace(str.substring(
+		i+from.length,str.length),from);
+	return newstr;
+
+}
+function convert(nm)
+{
+	if (!location.search) return '';
+	var i, j, qry;
+	qry = location.search.substring(1);
+	i = qry.indexOf(nm)+nm.length+1;
+	if (i == nm.length) return '';
+	j = qry.indexOf('&',i);
+	if (j+1) qry = qry.substring(i,j);
+	else     qry = qry.substring(i);
+	return unescape(substitute(qry, '+'));
+}
+
+
+function gener_seatven(x,y){
+var newx;
+var cssval=aolcsscheck();
+  if (getQry('style') || cssval) {
+    newVal=(cssval) ? cssval : getQry('style');
+    newx = x + "?style=" +  newVal;
+  }
+  else {
+    newx = x;
+  }
+     windowabandon = window.open(newx,y,'width=800,height=600,toolbar=0,location=0,directories=0,status=0,scrollbars=1,menubar=0,resizable=1');
+}
+function aolcsscheck(){
+  var aolcss = new Array ('aolboxoffice','aolsvcboxoffice','aolsvcsportsbox','aolsvcmusicbox','africanaboxoffice','nsboxoffice');
+  for(y=0;y < aolcss.length;y++){
+      if(document.URL.indexOf('brand='+aolcss[y])!=-1){return aolcss[y];}
+      }
+  return false;
+}
+
+function grabUrl() {
+   var ticketPath = "http://media.ticketmaster.com/img/sys/exchange/"
+   TMObject(mName).SetVariable("serverUrl", ticketPath);
+
+   var tmPath = "http://www.ticketmaster.com/"
+   TMObject(mName).SetVariable("tmUrl", tmPath);
+
+}</script>
 </head>
-<body background="http://a1476.g.akamaitech.net/7/1476/905/60fcbcac9fac8/origin.ticketmaster.com/img/back/bkgdtxt.gif" topmargin="0" vlink="ffffff" text="#000000" marginheight="0" bgcolor="006699" leftmargin="5" marginwidth="5" link="ffffff" alink="#ffcc00">
-<br>
 
-<!-- Header Ads -->
-<a name="HOME"></a><table border="0" cellspacing="0" cellpadding="0" width="770">
-<tbody><tr>
-	<td>
-		<table align="center" border="0" cellspacing="0" cellpadding="2">
-		<tbody><tr>
-			<td align="left"><!-- AdSpace  site="tm" type="BANNER" page="help" --><a href="/event.ng/Type=click&amp;ProfileID=886&amp;RunID=4039&amp;AdID=3686&amp;GroupID=1&amp;FamilyID=1&amp;TagValues=1396.2124.2242&amp;Redirect=http:%2F%2Fwww.ubl.com%2Ffp2.asp%3Flayout%3Da_ss_storefront%26pd%3Dad%26pa%3Dnav%26di%3Dbtl_shop" target="_top"><img src="/tmimages/ads/artistdirect/buy_music_7.gif" border="0" height="60" width="468" alt=""></a><!-- /AdSpace --></td>
-			<td align="right"><!-- AdSpace  site="tm" type="MicroB2" page="help" --><!--   --><!-- /AdSpace --></td>
-		</tr>
-		<tr>
-			<td align="center" colspan="3"><!-- AdSpace site="tm" type="DDTB" page="help" --><!-- --><!-- /AdSpace --></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td><img src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" width="1" height="10" border="0"></td>
-</tr>
-</tbody></table>
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+ <map name="tabs_Map">
+    <area shape="rect" alt="home" coords="163,0,238,21" href="http://www.ticketmaster.com/section">
+    <area shape="rect" alt="concerts" coords="239,0,326,21" href="http://www.ticketmaster.com/section/concerts">
+    <area shape="rect" alt="sports" coords="327,0,402,21" href="http://www.ticketmaster.com/section/sports">
+    <area shape="rect" alt="arts &amp; theater" coords="403,0,525,21" href="http://www.ticketmaster.com/section/arts_theater">
+    <area shape="rect" alt="family" coords="526,0,602,21" href="http://www.ticketmaster.com/section/family">
+ </map>
+     <table cellspacing="0" cellpadding="0" width="770" border="0" align="center">
+ <!-- TABS -->
+ <tbody><tr>
+  <td colspan="2" align="center" bgcolor="#f4f4f4"><a href="http://www.ticketmaster.com/h/terms.html"><img src="http://media.ticketmaster.com/img/sys/common/legal.gif" width="717" height="16" border="0" alt=""></a></td>
+ </tr>
+ <tr>
+  <td><a href="http://www.ticketmaster.com/section"><img src="http://media.ticketmaster.com/img/sys/common/tmlogo_rgb.gif" alt="Ticketmaster" width="160" height="30" border="0" vspace="10" hspace="10"></a></td>   <td class="separators" align="right"><a href="http://www.ticketmaster.com/h/help.html?" class="noline">Help</a> &nbsp;|&nbsp; <a href="https://www.ticketmaster.com/member/order_history?brand=" class="noline">View Order History</a> &nbsp;|&nbsp; <a href="http://www.ticketmaster.com/member/?brand=" class="noline">My Account</a> &nbsp;|&nbsp; <a href="http://www.ticketmaster.com/international" class="noline">International</a> &nbsp;&nbsp;</td>  </tr>
+  <tr>
+  <td colspan="2" align="center">
+   <img src="http://media.ticketmaster.com/img/sys/common/tabs_none.jpg" width="770" height="25" border="0" usemap="#tabs_Map" alt="Navigation">
+  </td>
+ </tr>
+ <!-- END TABS -->
+ <!-- SEARCH AND SUB TAB BAR -->
+ <script language="javascript">
+    function verifySearchString(form){
+        if(form.keyword.value == ""){
+            alert("Please enter search text.");
+            form.keyword.focus();
+            return false;
+        }
+    }
+    function launchComment(x){
+     windowHandle = window.open(x,'windowName','width=600,height=600,toolbar=1,location=0,directories=0,status=1,scrollbars=1,menubar=0,resizable=1');
+    }
+ </script>
+ <tr>
+  <td colspan="2">
+   <table cellpadding="0" cellspacing="0" border="0" width="770" height="41">
+   <form onsubmit="return verifySearchString(this)" action="http://www.ticketmaster.com/search" name="main_search"></form>
+     <tbody><tr>
+      <td bgcolor="#ffcc33"><img src="http://media.ticketmaster.com/img/sys/common/x.gif" width="10" height="41" alt=""></td>
+      <td bgcolor="#ffcc33"><img src="http://media.ticketmaster.com/img/sys/common/enterartist.gif" alt="enter artist, team or venue" width="125" height="9"><br><input type="text" name="keyword" value="" maxlength="80" class="search"></td>
+      <td bgcolor="#ffcc33"><input type="image" id="search" src="http://media.ticketmaster.com/img/sys/common/search_btn.gif" border="0" width="72" height="22"></td>
+      <td background="http://media.ticketmaster.com/img/sys/common/swoosh.gif"><img src="http://media.ticketmaster.com/img/sys/common/x.gif" width="72" height="41" alt=""></td>
+      <td bgcolor="#ddeef9" class="viewing"></td>
+      <td bgcolor="#ddeef9" width="100%">      <span class="metro">United States</span>
+       <br><a href="http://www.ticketmaster.com/find_area">       see local venues and events       </a></td>
+      <td bgcolor="#ddeef9" align="right"><!--Sponsor Unit 180x40-->
+<iframe width="180" height="40" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.as4x.tmcs.ticketmaster.com/html.ng/Params.richmedia=yes&amp;Params.lifetime=-1&amp;site=tm&amp;pagepos=503&amp;adsize=180x40&amp;page=h">
+<a href="http://ads.as4x.tmcs.ticketmaster.com/click.ng/Params.richmedia=yes&Params.lifetime=-1&site=tm&pagepos=503&adsize=180x40&page=h">
+<img src="http://ads.as4x.tmcs.ticketmaster.com/image.ng/Params.richmedia=yes&Params.lifetime=-1&site=tm&pagepos=503&adsize=180x40&page=h" width=180 height=40 border=0></a>
+</iframe>
 
-<!-- Top Bar -->
-<table border="0" cellpadding="0" cellspacing="0" width="770">
-	<tbody><tr>
-		<td rowspan="2" align="left"><img width="20" src="http://a1476.g.akamaitech.net/7/1476/905/273d502ecef95/origin.ticketmaster.com/img/back/lcorner.gif" height="40"></td>
-		<td bgcolor="333366" colspan="3" width="730"><img src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="5"></td>
-		<td rowspan="2" align="right"><img width="20" src="http://a1476.g.akamaitech.net/7/1476/905/d84a1155171c6/origin.ticketmaster.com/img/back/rcorner.gif" height="40"></td>
-	</tr>
-	<tr>
-		<td bgcolor="ffffff"><a href="http://www.ticketmaster.com" target="_top"><img width="318" src="http://a1476.g.akamaitech.net/7/1476/905/07b959fced536/origin.ticketmaster.com/img/back/tmlogo.gif" height="35" alt="ticketmaster.com home" border="0"></a></td>
-		<td bgcolor="ffffff" width="100%"><img width="1" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td bgcolor="ffffff" align="right" nowrap=""><font face="verdana,arial,helvetica" size="1">
-			<a href="http://www.ticketmaster.com/" class="noul"><font color="333366"><b>Home</b></font></a> | 
-			<a href="http://www.ticketmaster.com/h/help.html" class="noul"><font color="333366"><b>Help</b></font></a> | 
-			<a href="https://ticketing.ticketmaster.com/order/accountSearch.html" class="noul"><font color="333366"><b>Check My Order</b></font></a> | 
-			<a href="http://www.ticketmaster.com/h/emailform.htm" class="noul" target="_blank"><font color="333366"><b>Email Us</b></font></a>
-		</font></td>
-	</tr>
-</tbody></table>
 
-<!-- SearchBar -->
-<table width="770" bgcolor="#333366" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><img width="5" height="1" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif"></td>
-<td>
-<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="yellow">
-<tbody><tr>
-<td colspan="6" bgcolor="#000000"><img width="760" height="1" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif"></td>
-</tr>
-<tr align="center">
-<td><img width="62" height="15" src="http://a1476.g.akamaitech.net/7/1476/905/5dd4126d0844d/origin.ticketmaster.com/img/back/browsedots_p.gif"></td>
-<td><img width="130" height="13" src="http://a1476.g.akamaitech.net/7/1476/905/a532cf9764b8c/origin.ticketmaster.com/img/back/searchfor4.gif"></td>
-<td><form action="http://www.ticketmaster.com/cgi/tm2k_search_2001.idc" onsubmit="return verifyState(this)"><input maxlength="80" name="searchname" type="text" size="40" value=""><input name="type" type="HIDDEN" value="SEARCH"></form></td>
-<td><img width="19" height="11" src="http://a1476.g.akamaitech.net/7/1476/905/22fbee42929c8/origin.ticketmaster.com/img/back/in3.gif"><img width="5" height="1" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif"></td>
-<td>
-<select name="state">
-<option value="XX">Choose State
-</option><option value="AL">Alabama
-</option><option value="AK">Alaska
-</option><option value="AZ">Arizona
-</option><option value="AR">Arkansas
-</option><option value="CA">California
-</option><option value="CO">Colorado
-</option><option value="CT">Connecticut
-</option><option value="DE">Delaware
-</option><option value="FL">Florida
-</option><option value="GA">Georgia
-</option><option value="HI">Hawaii
-</option><option value="ID">Idaho
-</option><option value="IL">Illinois
-</option><option value="IN">Indiana
-</option><option value="IA">Iowa
-</option><option value="KS">Kansas
-</option><option value="KY">Kentucky
-</option><option value="LA">Louisiana
-</option><option value="ME">Maine
-</option><option value="MD">Maryland
-</option><option value="MA">Massachusetts
-</option><option value="MI">Michigan
-</option><option value="MN">Minnesota
-</option><option value="MS">Mississippi
-</option><option value="MO">Missouri
-</option><option value="MT">Montana
-</option><option value="NE">Nebraska
-</option><option value="NV">Nevada
-</option><option value="NH">New Hampshire
-</option><option value="NJ">New Jersey
-</option><option value="NM">New Mexico
-</option><option value="NY">New York
-</option><option value="NC">North Carolina
-</option><option value="ND">North Dakota
-</option><option value="OH">Ohio
-</option><option value="OK">Oklahoma
-</option><option value="OR">Oregon
-</option><option value="PA">Pennsylvania
-</option><option value="RI">Rhode Island
-</option><option value="SC">South Carolina
-</option><option value="SD">South Dakota
-</option><option value="TN">Tennessee
-</option><option value="TX">Texas
-</option><option value="UT">Utah
-</option><option value="VT">Vermont
-</option><option value="VA">Virginia
-</option><option value="WA">Washington
-</option><option value="DC">Washington D.C.
-</option><option value="WV">West Virginia
-</option><option value="WI">Wisconsin
-</option><option value="WY">Wyoming
- </option></select>
+
+
+
+
+
+ <!--Skyscraper-->
+
+
+
+
+
+
+
+
+
+
 </td>
-<td><input width="30" height="30" src="http://a1476.g.akamaitech.net/7/1476/905/a6b771b8876c1/origin.ticketmaster.com/img/back/go_p.gif" alt="go" name="go" type="image" border="0"><img width="5" height="1" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif"></td>
-</tr>
+      <td bgcolor="#ddeef9"><img src="http://media.ticketmaster.com/img/sys/common/x.gif" width="5" height="41" alt=""></td>
+     </tr>
+      
+    </tbody></table>
+  </td>
+ </tr> <!-- END SEARCH AND SUB TAB BAR -->
+ <tr>
+  <td colspan="2"><img src="http://media.ticketmaster.com/img/sys/common/x.gif" width="770" height="3" alt=""></td>
+ </tr>
 </tbody></table>
+
+
+
+
+
+     <table cellspacing="0" cellpadding="4" width="770" border="0" align="center"><tbody><tr>
+<td valign="top" align="center">
+
+<!-- MAIN TABLE -->
+
+<table cellspacing="0" cellpadding="4" width="770" border="0" align="center">
+ <tbody><tr>
+
+<!-- LEFT COLUMN -->
+
+  <td valign="top">
+
+<!-- help index -->
+
+   <table bgcolor="#ddeef9" cellpadding="0" cellspacing="0" border="0" width="155">
+     <tbody><tr>
+     <td colspan="3"><img src="http://media.ticketmaster.com/img/static/h/helpguide_sm.gif" width="155" height="26" alt="Help Guide"></td>
+    </tr>
+
+    <tr>
+     <td><br></td>
+     <td>
+      <table cellspacing="0" cellpadding="2" border="0" width="141">
+       <tbody><tr>
+        <td valign="top"><img src="http://media.ticketmaster.com/img/sys/common/bluearrow.gif" width="11" height="11" hspace="3" alt=""></td>
+        <td valign="top"><a href="/h/help.html"><b>Help Index</b></a></td>
+       </tr>
+	   
+	   <tr>
+        <td valign="top" colspan="2"><img src="http://media.ticketmaster.com/img/static/h/helpdots.gif" width="137" height="11" alt=""></td>
+       </tr>
+
+       <tr>
+        <td align="middle"><img src="http://media.ticketmaster.com/img/sys/browse/orangetriangle2.gif" width="4" height="7" hspace="3" alt=""></td>
+        <td valign="top"><a href="/h/faq.html">Ticket FAQs</a></td>
+       </tr>
+
+       <tr>
+        <td align="middle"><img src="http://media.ticketmaster.com/img/sys/browse/orangetriangle2.gif" width="4" height="7" hspace="3" alt=""></td>
+        <td valign="top"><a href="https://www.ticketmaster.com/member/">My Account</a></td>
+       </tr>
+
+       <tr>
+        <td align="middle"><img src="http://media.ticketmaster.com/img/sys/browse/orangetriangle2.gif" width="4" height="7" hspace="3" alt=""></td>
+        <td valign="top"><a href="https://www.ticketmaster.com/member/order_history">Check My Order</a></td>
+       </tr>
+
+       <tr>
+        <td align="middle"><img src="http://media.ticketmaster.com/img/sys/browse/orangetriangle2.gif" width="4" height="7" hspace="3" alt=""></td>
+        <td valign="top"><a href="/h/customer_serve.html">Customer Service</a></td>
+       </tr>
+	   
+	   <tr>
+        <td align="middle" valign="top"><img src="http://media.ticketmaster.com/img/sys/browse/orangetriangle2.gif" width="4" height="7" hspace="3" alt=""></td>
+        <td valign="top"><a href="/h/policies.html">Policies &amp; Terms of Use</a></td>
+       </tr>
+
+       <tr>
+        <td valign="top"><img src="http://media.ticketmaster.com/img/static/h/common/x.gif" width="4" height="1" alt=""></td>
+        <td valign="top"><img src="http://media.ticketmaster.com/img/static/h/common/x.gif" width="113" height="1" alt=""></td>
+       </tr>
+      </tbody></table>
+	  </td>
+     <td><br></td>
+    </tr>
+
+    <tr>
+     <td colspan="3"><img src="http://media.ticketmaster.com/img/sys/common/catbottom.gif" width="155" height="9" alt=""></td>
+    </tr>
+
+    <tr>
+     <td bgcolor="#ffffff"><img src="http://media.ticketmaster.com/img/static/h/common/x.gif" width="7" height="1" alt=""></td>
+     <td bgcolor="#ffffff"><img src="http://media.ticketmaster.com/img/static/h/common/x.gif" width="141" height="1" alt=""></td>
+     <td bgcolor="#ffffff"><img src="http://media.ticketmaster.com/img/static/h/common/x.gif" width="7" height="1" alt=""></td>
+    </tr>
+   </tbody></table>
 </td>
-<td><img width="5" height="1" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif"></td>
-</tr>
-</tbody></table>
 
-<!-- Date & Toolbar -->
-<table width="770" bgcolor="#006699" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td bgcolor="#333366"><img width="5" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td bgcolor="yellow"><img width="5" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td bgcolor="#333366" width="150" align="center">
-			<font face="Arial,Helvetica,Sans Serif" color="#FFFFFF" size="2">
-<script language="JavaScript">
-var month=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
-var today=new Date()
-var thisDate=today.getDate()
-var thisMonth=month[today.getMonth()]
-var year=today.getYear()
-if (year < 1000) {year += 1900};
-var TheDate=thisMonth+" "+thisDate+", "+year
-document.write(TheDate)
-</script>January 31, 2020
-		</font>
-		</td>
-		<td width="610">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td><img src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" width="15" height="1"></td>
-					<td>
-<table border="0" bgcolor="ffffff" cellpadding="0" cellspacing="0">
-<tbody><tr><td bgcolor="000000"><img width="590" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td></tr>
-<tr><td width="100%" align="center" valign="middle" nowrap="">
-<a href="http://www.ticketmaster.com/stateselectvenues.html"><img width="90" src="http://a1476.g.akamaitech.net/7/1476/905/61578bd9eee61/origin.ticketmaster.com/img/lowervenue16_purple.gif" height="20" alt="Find events by venue" vspace="2" align="middle" border="0"></a>
-<img width="6" src="http://a1476.g.akamaitech.net/7/1476/905/2bc9c65eafe7f/origin.ticketmaster.com/img/bullet.gif" height="6" align="middle" hspace="7">
-<a href="http://www.ticketmaster.com/stateselectstates.html"><img width="115" src="http://a1476.g.akamaitech.net/7/1476/905/ff1dcbea4766f/origin.ticketmaster.com/img/lowerstate16_purple.gif" height="20" alt="Find events by state" align="middle" border="0"></a>
-<img width="6" src="http://a1476.g.akamaitech.net/7/1476/905/2bc9c65eafe7f/origin.ticketmaster.com/img/bullet.gif" height="6" align="middle" hspace="7">
-<a href="http://www.livedaily.com/tickets/today.html"><img width="141" src="http://a1476.g.akamaitech.net/7/1476/905/fde4e98d38b25/origin.ticketmaster.com/img/tixalert_purple.gif" height="20" alt="Shop for great merchandise" align="middle" border="0"></a>
-<img width="6" src="http://a1476.g.akamaitech.net/7/1476/905/2bc9c65eafe7f/origin.ticketmaster.com/img/bullet.gif" height="6" align="middle" hspace="7">
-<a href="https://ticketing.ticketmaster.com/cgi/myaccount.asp"><img width="138" src="http://a1476.g.akamaitech.net/7/1476/905/3c7b239b6dc8f/origin.ticketmaster.com/img/myacct_purple.gif" height="20" alt="My Account" align="middle" border="0"></a>
-</td></tr>
-<tr><td bgcolor="000000"><img width="590" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td></tr>
-</tbody></table>					</td>
-					<td width="5" bgcolor="#333366"><img src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" width="5" height="1"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+<!-- RIGHT COLUMN -->
 
-
-<!-- Main Table: Cat Tree, Center Well, Right Ad Column -->
-<table width="770" bgcolor="006699" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr valign="top">
-		<td bgcolor="333366"><img src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" width="5" height="1"></td>
-		<td bgcolor="ffff00"><img src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" width="5" height="1"></td>
-		<td bgcolor="333366" width="150" valign="top">
-		<!-- Cat Tree & PMTs -->
-			<table border="0" width="150" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td bgcolor="333366"><img width="5" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-					<td>
-					<br>
-					<font size="1" face="Verdana,Arial,Helvetica,Sans Serif">
-				<a style="text-decoration: none" href="about_us.html"><font color="#FFFF00"><b>About Us</b></font></a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="policies.html"><font color="#33ccff">• Our Policies</font></a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="http://www.ticketmaster.com/jobs/">• Work For Us</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="http://www.ticketmaster.com/h/contact_sheet.html">• Advertise with Us</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="http://www.ticketmaster.com/cgi/ticketwithus/splash.idc?refer=ticketmaster">• Sell Tickets with Us</a><br>
-				<!--&nbsp;&nbsp;<A HREF="sitemap.html" style="text-decoration: none">&#149; Our Site Map</A><BR>-->
-				<!--&nbsp;&nbsp;<A HREF="international.html" style="text-decoration: none">&#149; Visit Our <BR>&nbsp;&nbsp;&nbsp;&nbsp; International Sites</A><BR>-->
-				&nbsp;&nbsp;<a style="text-decoration: none" href="http://www.prnewswire.com/micro/TMCS">• Press Room</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="http://www.abouttmcs.com/">• Investor Information</a><p>
-				
-				<a style="text-decoration: none" href="http://www.ticketmaster.com/h/service.html"><font color="FFff00"><b>Customer Service</b></font></a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="express_order.html">• Sign Up for <br>&nbsp;&nbsp;&nbsp;&nbsp;   Express Ordering</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="contact_us.html">• Contact Us</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="https://ticketing.ticketmaster.com/order/accountSearch.html">• Check My Order</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="faqs.html">• FAQs</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="security.html">• Security on Our Site</a></p><p>
-
-				<a style="text-decoration: none" href="buying_tips.html"><font color="FFFF00"><b>Ticket Buying Tips</b></font></a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="help_tips.html">• Tips You'll Want<br>&nbsp;&nbsp;&nbsp;&nbsp; to Know</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="buy_online.html">• Buying Tickets Online</a><br>
-				<!--&nbsp;&nbsp;<A HREF="charge_ph.html" style="text-decoration: none">&#149; Charge-by-Phone<BR>&nbsp;&nbsp;&nbsp;&nbsp; Centers</A><BR>-->
-				&nbsp;&nbsp;<a style="text-decoration: none" href="http://www.ticketmaster.com/h/charge_ph.html">• Charge-by-Phone<br>&nbsp;&nbsp;&nbsp;&nbsp; Centers</a><br>
-				<!--&nbsp;&nbsp;<A HREF="ticket_centers.html" style="text-decoration: none">&#149; Ticket Centers</A><BR>-->
-				&nbsp;&nbsp;<a style="text-decoration: none" href="error_messages.html">• Transaction Error<br>&nbsp;&nbsp;&nbsp;&nbsp; Messages</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="how_process.html">• How Your Order<br>&nbsp;&nbsp;&nbsp;&nbsp; is Processed</a></p></font><p><font size="1" face="Verdana,Arial,Helvetica,Sans Serif">
-
-				<a style="text-decoration: none" href="find_tips.html"><font color="FFFF00"><b>Event Finding Tips</b></font></a><br>
-				<!--&nbsp;&nbsp;<A HREF="find_event.html" style="text-decoration: none">&#149; Finding an Event</A><BR>-->
-				&nbsp;&nbsp;<a style="text-decoration: none" href="list_errors.html">• Online Listing Errors</a><br>
-				&nbsp;&nbsp;<a style="text-decoration: none" href="event_unlisted.html">• Why Your Event <br>
-				&nbsp;&nbsp;&nbsp;&nbsp; is Not Listed</a><br></font></p><p>
-					</p></td>
-				</tr><tr>
-			</tr></tbody></table>
-			<!-- Ads -->
-			<div align="center">
-			<br>
-			<!-- AdSpace type="PMT1" site=tm page=help --><a href="/event.ng/Type=click&amp;ProfileID=2511&amp;RunID=2393&amp;AdID=3244&amp;GroupID=1&amp;FamilyID=1&amp;TagValues=1396.2125.2242&amp;Redirect=http:%2F%2Fwww.ticketmaster.com%2Fbroadway%2Findex.html" target="_top"><img src="/tmimages/ads/t2000/retro_shad_5k.gif" border="0" alt=""></a><!-- /AdSpace --><br><br>
-			<!-- AdSpace type="PMT2" site=tm page=help --><a href="/event.ng/Type=click&amp;ProfileID=2512&amp;RunID=3883&amp;AdID=3504&amp;GroupID=1&amp;FamilyID=1&amp;TagValues=1396.2126.2242&amp;Redirect=https:%2F%2Fticketing.ticketmaster.com%2Fcgi%2Fmyaccount.asp" target="_top"><img src="/tmimages/ads/myaccount/pixel_speedy2.gif" border="0" height="30" width="120" alt=""></a><!-- /AdSpace --><br><br>
-			</div>
-		</td>
-		<td>&nbsp;</td>
-		
-		<!-- START: Help Page Area -->		
-		<td>&nbsp;
-		
-			<table border="0" background="" color="33ccff" cellpadding="0" cellspacing="0" width="585" align="left">
-			<!--SPACER GIFS-->
-				<tbody><tr>
-					<td bgcolor="006699"><img width="20" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="15"></td>
-					<td bgcolor="006699"><img width="545" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="15"></td>
-					<td bgcolor="006699"><img width="20" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="15"></td>
-				</tr>
-				<!---- PURPLE TITLE BAR----->
-				<tr valign="top">
-					<td bgcolor="006699"><img width="20" src="http://a1476.g.akamaitech.net/7/1476/905/88115003ead5b/origin.ticketmaster.com/h/img/lft_corner3.gif" height="30"></td>
-					<td bgcolor="333366" valign="middle"><font size="3" face="Verdana,Arial,Helvetica,Sans Serif" color="ffff00"><b>Privacy Policies</b></font></td>
-					<td bgcolor="006699"><img width="20" src="http://a1476.g.akamaitech.net/7/1476/905/f7661bc175955/origin.ticketmaster.com/h/img/rt_corner3.gif" height="30"></td>
-				</tr>
+  <td colspan="2" valign="top">
+  <table cellspacing="0" cellpadding="0" border="0" width="594">
+ <tbody><tr>
+    <td colspan="6"><img src="http://media.ticketmaster.com/img/static/h/safety_lrg.gif" alt="" width="594" height="26"></td>
+  </tr>
+  
+   <tr>
+    <td bgcolor="#DFDFDF"><br></td>
+	<td><br></td>
 	
-				<!----START: TEXT BODY----->
-				<tr valign="top">
-					<td bgcolor="ffffff">&nbsp;</td>
-					<td bgcolor="ffffff" valign="top"><br>
-						<font size="2" face="Verdana,Arial,Helvetica,Sans Serif" color="000000">
+    <td colspan="2">
+<!-- help content -->
 
-		Ticketmaster.com has created this privacy statement in order to demonstrate our firm commitment to your privacy online. The following discloses our information gathering and dissemination practices for this web Site.  This Privacy Policy does not apply to the Ticketmaster Store.<p>
-
-		<b>Your IP Address.</b>  We use your IP address to help diagnose problems with our server, and to administer our web Site.  Your IP address is used to help identify you and to gather broad demographic information about you.</p><p>
-
-		<b>Cookies.</b> Our site uses cookies to keep track of what you have purchased.  We use cookies to deliver content specific to your interests, to save your password so you do not have to re-enter it each time you visit our Site, and for other purposes relating to your transactions on the Site.</p><p>
-
-		<b>Information We Request Directly From You.</b> Our Site's registration forms, order forms, surveys and contests require you to give us contact information (like your name and email address), occasionally, unique identifiers (like your social security number), and demographic information (like your zip code, age, or income level).  Our order forms require financial information (like your account or credit card numbers) as well.</p><p>
-
-		<b>How We Use Contact Information.</b> Your contact information is used to contact you when necessary in connection with transactions entered into by you on our Site. Your contact information is provided to the venues and selected promoters of concerts and events for which you purchase tickets.  We also use customer contact information we collect in order to send you information and offers from our company and promotional material from some of our partners.  We carefully select the information we send and make sure that it offers real value to you, such as discounts, exclusive offers or special event information.</p><p>
-
-		<b>How We Use Financial Information.</b> Financial information that is collected is used to check your qualifications and bill you for products and services.  Unique identifiers (such as social security numbers) are collected from you to verify your identity and for use as account numbers in our record system. We will not share financial or unique identifier information with third parties without your prior consent.  When you make a purchase on the Site, your consent is given to provide your financial or contact information to those third parties necessary to process your transactions with us, such as credit card companies and the companies that handle shipping on our behalf.</p><p>
-
-		<b>How We Use Demographic Information.</b> We use this information to tailor our Site to the interests of our users.  This information is shared with advertisers only on an aggregate basis so that they can tailor their advertisements to the appropriate audience.</p><p>
-
-		<b>Other Sites/Third Party Vendors and their Privacy Policies.</b>  This Site may contain links to other Sites.  Ticketmaster.com is not responsible for the privacy practices or the content of such web Sites or for the privacy policies and practices of other third parties.</p><p>
-
-		<b>Your Disclosures in Chats and Message Boards, Etc.</b> This Site may make available to its users chat rooms, forums, message boards, and/or news groups at various times.  Please remember that any information you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p><p>
-
-		<b>Our Security Precautions.</b> This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.</p><p>
-
-		<b>How You Can Update Your Personal Information.</b> This Site gives users the opportunity to change and/or modify information you have provided to us.  <a style="text-decoration: underline" href="https://ticketing.ticketmaster.com/cgi/eo_login.asp"><font color="006699">Click here</font></a> to access your Express Ordering account.</p><p>
-
-		Changing or deleting your data here will change or delete the data only in our My Account database, but will not change or delete information which we have collected as part of a particular ticket purchase in our transactions database.</p><p>
-		
-		If you have any questions or concerns about this privacy statement, the practices of this Site, or your dealings with this web Site, you can contact us at <a style="text-decoration: underline" href="mailto:legal@ticketmaster.com"><font color="006699">legal@ticketmaster.com</font></a>.</p><p>
-
-		You can also send us mail to: ticketmaster.com,  c/o Legal Department, 790 East Colorado Blvd. Suite 200, Pasadena, CA 91101.
-		</p><p>
-
-		</p><div align="RIGHT">
-		<a style="text-decoration: underline" href="#HOME"><i><font color="006699">Back to Top</font></i><img width="15" src="http://a1476.g.akamaitech.net/7/1476/905/687f57d020e41/origin.ticketmaster.com/h/img/back_btn3.gif" height="15" align="MIDDLE" hspace="5" border="0"></a><p>
-		</p></div><p>
-					</p></font></td>
-					<td bgcolor="ffffff">&nbsp;</td>
-				</tr>
-				<tr valign="top">
-					<td bgcolor="006699"><img width="20" src="http://a1476.g.akamaitech.net/7/1476/905/cf7338f0e39a4/origin.ticketmaster.com/h/img/btm_lft_corner.gif" height="30"></td>
-					<td bgcolor="333366">&nbsp;</td>
-					<td bgcolor="006699"><img width="20" src="http://a1476.g.akamaitech.net/7/1476/905/eec8158ff6f0e/origin.ticketmaster.com/h/img/btm_rtcorner.gif" height="30"></td>
-				</tr>
-				<tr>
-					<td bgcolor="006699" colspan="3"><img width="15" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="25"></td>
-				</tr>				
-				<tr>
-					<td bgcolor="006699" align="center" colspan="3">
-					<font face="Verdana,Arial,Helvetica,Sans Serif" size="1" color="white">
-					©2000 Ticketmaster Online - Citysearch, Inc. All rights reserved.<br> 
-					<a href="http://www.ticketmaster.com/h/policies.html">Our Policies</a> |
-					<a href="http://www.ticketmaster.com/h/terms.html">Terms of Use</a> |
-					<a href="http://www.ticketmaster.com/h/terms.html#copyright">Copyright Policy</a>
-					<br><br><br>
-					</font></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<!-- END: Help Page Area -->		
-		
-		<td><img width="5" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td bgcolor="#333366"><img width="5" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
+	<table cellspacing="0" cellpadding="0" border="0" width="574">
+	
+	<tbody><tr>
+	<td colspan="3">
+	<br><b class="fourteenorange">Ticketmaster Privacy Policy</b><br><br>
+		We at Ticketmaster L.L.C. ("we" or "Ticketmaster") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it.  This privacy policy only applies to transactions made, and data gathered, on the ticketmaster.com web site (the "Site") and does not apply to any other web site or offline point of contact between Ticketmaster and consumers.	 Please review this privacy policy periodically as we may update it from time to time. This privacy policy was last revised on January 17th, 2003.  Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
+	<br><br>
+	</td>
 	</tr>
+	
 	<tr>
-		<td bgcolor="333366" colspan="7"><img width="1" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="5"></td><td>
-	</td></tr>
-<!-- main table: sizing row -->
-	<tr>
-		<td><img width="5" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td><img width="5" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td><img width="150" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td><img width="15" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td><img width="585" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td><img width="5" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
-		<td><img width="5" src="http://a1476.g.akamaitech.net/7/1476/905/5472601571f31/origin.ticketmaster.com/img/x.gif" height="1"></td>
+	<td><img src="http://media.ticketmaster.com/img/static/h/grayarrow.gif" alt="" width="4" height="7"></td>
+	<td colspan="2"><b class="blue">Your IP Address</b></td>
 	</tr>
+	
+	<tr>
+	<td><br></td>
+	<td colspan="2">
+		Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.<br><br></td>
+	</tr>
+	
+	<tr>
+	<td><img src="http://media.ticketmaster.com/img/static/h/grayarrow.gif" alt="" width="4" height="7"></td>
+	<td colspan="2"><b class="blue">Cookies</b></td>
+	</tr>
+	
+	<tr>
+	<td><br></td>
+	<td colspan="2">
+		Like most websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Third party advertisers on the Site may also place cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the Site.<br><br></td>
+	</tr>
+	
+	<tr>
+	<td><img src="http://media.ticketmaster.com/img/static/h/grayarrow.gif" alt="" width="4" height="7"></td>
+	<td colspan="2"><b class="blue">Information We Collect From You</b></td>
+	</tr>
+	
+	<tr>
+	<td><br></td>
+	<td colspan="2">
+		In order to operate the Site and provide you with information on products and services that may be of interest to you, we may collect personal information (i.e. information that could be used to contact you such as full name, postal address, phone number and email address), financial information (e.g. passwords, credit and debit card numbers and bank and other financial institution account numbers) and demographic information (zip code, hometown, gender, purchase history information and age) from you.  Please note that nowhere on the Site do we knowingly collect personal information from children under the age of 13.<br><br></td>
+	</tr>
+	
+	<tr>
+	<td><img src="http://media.ticketmaster.com/img/static/h/grayarrow.gif" alt="" width="4" height="7"></td>
+	<td colspan="2"><b class="blue">Information Other Web Sites Collect From You</b></td>
+	</tr>
+	
+	<tr>
+	<td><br></td>
+	<td colspan="2">
+		On the Site, we place links to other web sites operated by other parties.  Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not.  When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites.  Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site.  We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.<br><br></td>
+	</tr>
+	
+	<tr>
+	<td><img src="http://media.ticketmaster.com/img/static/h/grayarrow.gif" alt="" width="4" height="7"></td>
+	<td colspan="2"><b class="blue">How We Use Personal Information</b></td>
+	</tr>
+	
+	<tr>
+	<td><br></td>
+	<td colspan="2">
+		We use your personal information to help us efficiently perform transactions on the Site, to deliver the services you have requested, to contact you when necessary in connection with events for which you purchased tickets on the Site (including event confirmations, changes and cancellations), and to send you information, offers and other promotional materials from Ticketmaster and selected third parties. We carefully select the information we send to you and attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Site provides you with the option of declining to receive offers from Ticketmaster by "opting-out" of receiving this type of communication.  To process transactions on the Site, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, order fulfillment and sweepstakes and promotional fulfillment, as well as to your credit card issuer for their purposes.  We require these entities not to use your information for any other purpose. 
+		<p>
+			By purchasing a ticket, or completing a registration form so that you are able to access a purchase page for a ticket, to a concert, game or other event on the Site, you consent (i.e., you opt-in) to us sharing your personal information with the venues, promoters, artists, teams, leagues and other third parties associated with that concert, game or other event ("Event Partners"). We cannot offer you  a separate opportunity to opt-out, or not to consent, to our sharing of your personal information with them.  Event Partners may use your personal information in accordance with their own privacy policies, and may consequently use your personal information to contact you and may share your personal information with others. You will need to contact those Event Partners who contact you to instruct them directly regarding your preferences for the use of your personal information by them.	
+		</p>
+		<p>
+			By purchasing, or making reservations for, products or services (such as magazine subscriptions, hotel bookings or cruises), electing to receive communications (such as emails) or electing to participate in, or register for, contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, you consent to our providing your personal information to those third parties.  Those third parties may use your personal information in accordance with their own privacy policies, and may consequently use your personal information to contact you and may share your personal information with others.  You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them.  Additionally, you agree that we will have the right to use and disclose all such information submitted by you for such third party offers in the same manner in which we use and disclose all other information submitted by you for offers we sponsor.
+		</p>
+		<p>
+			We may select third parties with whom we will share your personal information so that they can communicate directly with you about their products and services. In order to decline having your personal information that we collected on the Site shared with these selected third parties, you must, in the My Account section of the Site, uncheck both the box for receiving Special Ticket Offers and the box for receiving Ticket Related Merchandise and Services.  We attempt to carefully select these third parties and the specific offers they intend to communicate to you so that you will receive valuable offers.
+		</p>
+		<p>
+			Your personal information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of Ticketmaster. We may also disclose specific information when we determine that such disclosure is necessary to comply with law, to cooperate with law enforcement or to protect the interests or safety of Ticketmaster or other visitors to the Site or users of services or products provided by Ticketmaster.  We may also disclose your personal information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control.  However, all of these parent, subsidiary and affiliated legal entities and businesses that receive your personal information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such personal information.
+		</p>
+			Except as may otherwise be described in this policy, we have no control over the personal information practices of Event Partners and other third parties.  As described above, by purchasing tickets on the Site, purchasing other products or services from third parties, electing to receive communications from or to participate in contests, sweepstakes or other programs associated with, or sponsored by, third parties, filling out a registration form on the Site or otherwise opting to allow us to share your information with third parties as permitted in this policy, you authorize us to share your personal information with Event Partners and these other third parties, and you agree that we are not responsible or liable for any of their actions or omissions.  These Event Partners and these other third parties may use your personal information in accordance with our contractual arrangements with them and in accordance with their own privacy policies, over which we have no control.  You will need to contact them directly in order to instruct them regarding your preferences for how they use your personal information.<br><br></td>
+	</tr>
+	
+	<tr>
+	<td><img src="http://media.ticketmaster.com/img/static/h/grayarrow.gif" alt="" width="4" height="7"></td>
+	<td colspan="2"><b class="blue">How We Use Financial Information</b></td>
+	</tr>
+	
+	<tr>
+	<td><br></td>
+	<td colspan="2">
+		We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate.  By making a purchase, or engaging in any other kind of activity that uses financial information, on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your transactions, as well as to your credit card issuer for their purposes.  These third parties may include the credit card companies and banking institutions used to process the transaction.  Also, depending on the circumstances of our arrangements, we may share your financial information with applicable Event Partners, primarily for facilitating "will call" ticket pick up and dispute resolution and customer service at the event venue on the date of the event.  By purchasing, or making reservations for, products or services of third parties (such as magazine subscriptions, hotel bookings or cruises) offered on the Site, or by participating in programs offered on the Site that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties.  Any of these various third parties are authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control.	 When we provide financial information pertaining to a transaction, we may also provide payment information pertaining to that transaction, such as amount of money paid or types of payment methods used.
+		<p>
+		Your financial information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of Ticketmaster. We may also disclose specific information when we determine that such disclosure is necessary to comply with law, to cooperate with law enforcement or to protect the interests or safety of Ticketmaster or other visitors to the Site or users of services or products provided by Ticketmaster.  We may also disclose your financial information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control.  However, all of these parent, subsidiary and affiliated legal entities and businesses that receive your financial information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such financial information.
+		</p><br>
+	</td>
+	</tr>
+	
+	<tr>
+	<td><img src="http://media.ticketmaster.com/img/static/h/grayarrow.gif" alt="" width="4" height="7"></td>
+	<td colspan="2"><b class="blue">How We Use Demographic Information</b></td>
+	</tr>
+	
+	<tr>
+	<td><br></td>
+	<td colspan="2">
+		We use demographic information to tailor the Site and communications to the interests of our users. We may share your personal and demographic information with our Event Partners.  We may share anonymous, aggregated (grouped) demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience.  If you consent to have us share, or we are otherwise allowed to share, your personal information, as described above, then the demographic information that we provide to third parties may be linked to your personal information so that they will be able to know about your demographic information on a non-anonymous basis.<br><br>
+	</td>
+	</tr>
+	
+	<tr>
+	<td><img src="http://media.ticketmaster.com/img/static/h/grayarrow.gif" alt="" width="4" height="7"></td>
+	<td colspan="2"><b class="blue">Our Security Precautions</b></td>
+	</tr>
+	
+	<tr>
+	<td><br></td>
+	<td colspan="2">
+		The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form.  Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction.
+		<br><br>
+	</td>
+	</tr>
+	
+	<tr valign="top">
+	<td><img src="http://media.ticketmaster.com/img/static/h/grayarrow.gif" alt="" width="4" height="7"></td>
+	<td colspan="2"><b class="blue">How You Can Access and Update Your Email Preferences, Personal Information and other My Account Information</b></td>
+	</tr>
+	
+	<tr>
+	<td><br></td>
+	<td colspan="2">
+		When you register to create an account with the Site or complete a purchase transaction on the Site, we will either give you the opportunity to set certain email preferences at the place where you register or make the purchase, or we will automatically set certain email preferences for you.  When you receive a confirmation email from us confirming your registration or purchase, you will be provided with a link to change these preferences.  The link will take you to a place where you can change registration information, including your email preferences.  After we collect personal information that you submit in connection with purchasing or reserving products or services, electing to receive communications or electing to participate in contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, or registering with the Site, we may use such information to send you marketing emails.  However, if we do so, we will provide a link that you can click on to opt-out of receiving subsequent marketing emails sent by us generated from the same such information. We also give you the opportunity to opt-out and modify information you have provided to us at anytime by clicking on the My Account link, navigating to your "My Account" account and selecting those portions of your account you would like to update.
+	<p>
+		Please note that changing or deleting your information through your My Account Profile, or otherwise opting-out of receipt of email communications from Ticketmaster and third parties (other than Event Partners) will only change or delete the data in our My Account database for purposes of transacting future business on the Site and for managing future communications from Ticketmaster and third parties.  These changes and deletions will not change or delete:
+	</p>
+	<p>
+		A) Information already collected as part of a particular ticket purchase in our transactions database which may be shared with our Event Partners regardless of your email preferences; or
+	</p>
+	<p>
+		B) Information that we may have already forwarded to Event Partners, credit card companies or any other third parties, all as provided above in this privacy policy.<br><br>
+		If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at <a href="mailto:legal@ticketmaster.com">legal@ticketmaster.com.</a>
+	</p>
+		You can also send us mail to:<br>
+		<ul>
+			Privacy Officer, Ticketmaster.com, c/o Legal Department<br>
+			3701 Wilshire Boulevard, 9th Floor<br>
+			Los Angeles, CA 90010
+		</ul>
+		<br>
+	</td>
+	</tr>
+	
+	
+	<tr><td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" alt="" width="9" height="1"></td>
+	<td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" alt="" width="9" height="1"></td>
+	<td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" alt="" width="555" height="1"></td>
+	</tr>
+	</tbody></table>
+	
+	</td>
+	
+    <td><br></td>
+	<td bgcolor="#DFDFDF"><br></td>
+  </tr>
+  
+   <tr>
+    <td bgcolor="#DFDFDF"><img src="http://media.ticketmaster.com/img/static/h/common/x.gif" alt="" width="1" height="1"></td>
+	<td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" alt="" width="9" height="1"></td>
+    <td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" alt="" width="150" height="1"></td>
+    <td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" alt="" width="424" height="1"></td>
+    <td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" alt="" width="9" height="1"></td>
+    <td bgcolor="#DFDFDF"><img src="http://media.ticketmaster.com/img/sys/common/x.gif" alt="" width="1" height="1"></td>
+  </tr>
+  
+  <tr>
+    <td bgcolor="#DFDFDF" colspan="6"><img src="http://media.ticketmaster.com/img/sys/common/x.gif" alt="" width="574" height="1"></td>
+  </tr>
+  </tbody></table>
+  
+</td>
+</tr>
 </tbody></table>
-<br>
+  </td></tr></tbody></table>
+    <table cellspacing="0" cellpadding="4" width="770" border="0" align="center">
+       <tbody><tr>
+         <td colspan="3" align="center">
+           <a href="http://www.ticketmaster.com/section" class="bottab">home</a> &nbsp;&nbsp;
+           <a href="http://www.ticketmaster.com/section/concerts" class="bottab">concerts</a> &nbsp;&nbsp;
+           <a href="http://www.ticketmaster.com/section/sports" class="bottab">sports</a> &nbsp;&nbsp;
+           <a href="http://www.ticketmaster.com/section/arts_theater" class="bottab">arts &amp; theater</a> &nbsp;&nbsp;
+           <a href="http://www.ticketmaster.com/section/family" class="bottab">family</a> &nbsp;&nbsp;
+       </td></tr>          <tr>
+        <td colspan="3" bgcolor="#ddeef9" align="center" class="lowervbar">
+          <a href="http://www.ticketmaster.com/h/help.html" class="noline">Help</a> &nbsp;|&nbsp; <a href="http://www.ticketmaster.com/h/faq.html" class="noline">Ticket FAQs</a> &nbsp;|&nbsp; <a href="http://www.ticketmaster.com/member/?brand=" class="noline">My Account</a> &nbsp;|&nbsp; <a href="http://www.ticketmaster.com/h/about_us.html" class="noline">About Ticketmaster</a> &nbsp;|&nbsp; <a href="http://aboutticketmaster.com/sell.html" class="noline">Sell Tickets With Us</a> &nbsp;|&nbsp;<a href="http://www.ticketmaster.com/h/policies.html" class="noline">Our Policies</a> &nbsp;|&nbsp; <a href="http://www.ticketmaster.com/h/privacy.html" class="noline">Privacy Policy</a> &nbsp;|&nbsp; <a href="http://www.ticketmaster.com/international" class="noline">International</a>
+        </td>
+      </tr>     <tr>
+       <td colspan="3" align="center" class="fineprint">© 2003 Ticketmaster. All rights reserved.</td>
+     </tr>
+ <!-- SPACING ROW -->
+     <tr>
+       <td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" width="155" height="1" alt=""></td>
+       <td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" width="392" height="1" alt=""></td>
+       <td><img src="http://media.ticketmaster.com/img/sys/common/x.gif" width="199" height="1" alt=""></td>
+     </tr>
+   </tbody></table><iframe width="1" height="1" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.as4x.tmcs.ticketmaster.com/html.ng/Params.richmedia=yes&amp;Params.lifetime=-1&amp;site=tm&amp;pagepos=508&amp;adsize=1x1&amp;page=h">
+<a href="http://ads.as4x.tmcs.ticketmaster.com/click.ng/Params.richmedia=yes&Params.lifetime=-1&site=tm&pagepos=508&adsize=1x1&page=h">
+<img src="http://ads.as4x.tmcs.ticketmaster.com/image.ng/Params.richmedia=yes&Params.lifetime=-1&site=tm&pagepos=508&adsize=1x1&page=h" width=1 height=1 border=0></a>
+</iframe>
+
+
+
+
+
+
+
+ <!--Skyscraper-->
+
+
+
+
+
+
+
+
+
+
 
 
 
