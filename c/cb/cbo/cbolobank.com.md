@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604151048id_/http%3A//www.cbolobank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014101129id_/http%3A//www.cbolobank.com/privacy.htm) for the most accurate reproduction.*
 
 # Central Bank - About Us - Privacy
 
@@ -89,6 +89,6 @@ One of the ways we protect your information is by limiting access to information
   
 _
 
-[© Copyright ](mailto:cecilia_thomson@cbolobank.com)[2001 Central Bank of Lake of the Ozarks](mailto:cecilia_thomson@cbolobank.com)
+[© Copyright Central Bank of Lake of the Ozarks](mailto:cecilia_thomson@cbolobank.com)
 
 _
