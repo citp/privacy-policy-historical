@@ -1,125 +1,183 @@
-> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620185949id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201224739id_/http%3A//us.infogrames.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# HASBRO WEB SITE PRIVACY STATEMENT
+# Infogrames, Inc.
 
-### HASBRO WEB SITE PRIVACY STATEMENT 
+[](http://www.esrb.org/confirm/Infogrames-confirmation.htm)**Infogrames Online Privacy Policy**   
+Infogrames is very concerned with the privacy rights of our online visitors and customers and is committed to protecting the information collected about you. We have adopted an Online Privacy Policy that guides how we collect, store and use the information you provide while visiting any of the websites governed by this Privacy Policy (as listed below). For our information collection practices with respect to children under 13, please see our special children's section below. 
 
-**
+This Privacy Policy and the certification seal located on this page confirms that Infogrames is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our Web sites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
-WELCOME!
+**Whenever you visit a Web site that displays the ESRB Privacy Online Certification Seal, you can expect to be notified of the following:**
 
-**
+  * The websites and information covered by this Privacy Policy   
 
-This Hasbro Web site brings you the coolest information about the world of Hasbro and provides a first hand look at some of our games and toys. If you are a parent or guardian and are interested in knowing more about Hasbro's policy regarding the online collection of information from children, we recommend reviewing the Note To Parents below.
+  * Exactly what personal information may be collected and how it will be used   
 
-| This Privacy Statement and the certification seal located to your right confirms that is a valid licensee and participating member in the Entertainment Software Rating Board’s Privacy Online Program: ESRB Privacy Online. To protect your privacy we have undertaken this privacy initiative and all our Web sites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB. | 
+  * The consequences, if any, resulting from your refusal to provide personal information   
 
-[](http://208.59.2.67/hasbro-confirmation.html)  
-  
----|---  
-  
-ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers’ online privacy and make the Internet a secure, reliable, and private place to share information and conduct business. ESRB Privacy Online promotes and enforces established principles and guidelines for fair information practices that include requirements of full disclosure, notice, and informed consent.
+  * Whether Infogrames uses cookies, tracks IP Addresses or uses other passive means to collect information   
 
-Whenever you visit a Web site that displays the ESRB Privacy Online certification seal, you can expect to be notified of:
+  * Who, if anyone, is collecting your personal information   
 
-  * Exactly what personal information may be collected and by what means; 
-  * Who, if anyone, is collecting your personal information; 
-  * How this information may be used, including, who-if anyone-it might be shared with; 
-  * The consequences -if any-resulting from your refusal to provide personal information; 
-  * How you can access and, if necessary, change the personal information a company maintains; 
-  * How a company ensures data security, quality, and integrity; and, 
-  * Where and how to ask questions or file complaints. 
+  * With whom, if anyone, will your personal information be shared   
 
+  * What choices you have with regard to the use of your personal information   
 
+  * How you can access and, if necessary, change the personal information Infogrames collects and maintains   
 
-If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact the Privacy Policy Administrator at registration@hasbro.com. You can also contact ESRB Privacy Online directly at (212) 759-0700 or by regular mail at 845 Third Avenue, New York, NY 10022. Address all ESRB Privacy Online correspondence to Marc E. Szafran, General Counsel.
+  * What about links to other parties   
 
-_**
+  * Whether and how information is collected from Children under 13   
 
-What information is collected?
+  * How Infogrames ensures data security, quality, and integrity   
 
-**_
+  * Where and how to ask questions or file complaints 
 
-Hasbro wants to give you the most exciting Internet experience possible. To help us figure out what you like and don't like about our sites, we may ask for your opinion from time to time. You may also be asked whether you would like to receive information about new Hasbro products. In addition, we sometimes collect information to find out how people found the Hasbro site, which pages they visited, and how long they stayed. This information does not include any personal information about you. We just need to know this stuff so we can keep making this site better and better! 
+**The websites and information covered by this Privacy Policy:**
 
-If you are under the age of 13, you will need your parent or guardian's consent before you can provide any personal information to us. Kids, if you are ever unsure about anything you are seeing on this site, ask your parent or guardian for help. 
+This Privacy Policy currently applies to the following Web sites operated by Infogrames: 
 
-Hasbro may in some cases collect demographic information provided by you such as game platform, hobbies, game preferences, etc. This information is only requested on a voluntary basis. Hasbro may aggregate this demographic information and disclose such information in aggregate to third parties. However, in these situations, **Hasbro will not share any information that could be used to personally identify you.**
+[www.infogrames.com](http://www.infogrames.com/)  
+[www.us.infogrames.com](http://www.us.infogrames.com/)  
+[www.wizworks.com/macsoft](http://www.wizworks.com/macsoft)  
+[www.atari.com](http://www.atari.com/)  
+[www.ina-support.com](http://www.ina-support.com/)  
+[www.funkidsgames.com](http://www.funkidsgames.com/)
 
-Specifically, we may collect information for the following circumstances:
+In addition, Infogrames may own several other domain names that point to the Web sites listed above. From time to time, we may add new websites and will take reasonable steps to update the list. Please note, however, that this Privacy Policy applies only to the websites set forth above, and not to websites operated by our International affiliates (e.g., Infogrames of Brazil, France, United Kingdom, Italy, etc.). When you link to these foreign sites or any other sites from a website listed above, their privacy policies will apply. 
 
-**
-  * _E-mail_
-**
+Also, please note that this Privacy Policy applies only to information collected by Infogrames online through the sites listed above, not to information that Infogrames may collect offline.
 
+**What information does Infogrames collect and how will it be used?**
 
-> ****
-> 
-> By allowing you to send email to us, we are not attempting to collect any personal information about you. We will only use any personal information (such as name, mailing address and e-mail address) contained in your email to respond to your specific inquiry or comments in the e-mail. Though we may retain your e-mail for a period of time, we will not use any personal information contained in your e-mail for any purpose other than responding to your specific inquiry or comments.
+In order to give you the best experience on our sites, Infogrames may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask a user to submit personal and/or demographic information, and it will usually take the form of either: (1) game-specific or site registration; (2) community registration; (3) technical product support; (4) placement of an order for goods or services in the event Infogrames launches an online store; (5) sending an e-card to a friend; (6) submitting a question or comment to our webmaster; and/or, (7) personal information submitted in a business capacity (e.g., resumes). The types of information requested for each activity and the way the information is used are detailed by category below. Please note, however, that depending on the Infogrames website which you are visiting, some of the amenities listed above may not be available. 
 
-_**
-  * Promotions
-**_
+Unless noted otherwise, we may also use your personal information collected through one of the means set forth below for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you and to better meet your needs. Demographic information is similarly used to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying content according to their preferences. 
 
+No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.
 
-> _****_
-> 
-> To participate in some of our promotions, you may be asked to provide an email address or screen name, so that we can let you know if you won a prize. Please do not use your real name for these promotions. For other Hasbro promotions, we may request your name and home address in order to send you products or information by regular mail. Remember, children under 13 years of age will need their parent or guardian's permission before providing this information. 
+**Game Specific Registration**
 
-_**
-  * Bulletin Boards
-**_ 
+Almost all game pages that appear on our sites provide you the opportunity to register to receive the latest news and information about a particular game (i.e., Subscription Center). If you choose to subscribe, you may be prompted to submit personal information such as your full name, home address, phone number and email address. Additionally, we may ask you for some demographic information including your age, gender, the game systems you own, and the types of games you play. The information you provide on this registration form will be used to send you, via email, game news and information tailored to your game and platform preferences. In addition, we may use the information to send you notices that contain additional information, discounts, and offers from Infogrames, unless you opt out from receiving such notices at the time of registration or at a later time.   
+**  
+Community Forum Registration**
 
+To register for membership in our online community, we may ask you to provide personal information such as your email address, and to create a username and password. We may also collect demographic information about you, including your occupation, hobbies and interest, and other preferences. The information that you submit to us for this purpose is used to give you access to our community forums and other community features. 
 
-> If you are 18 years or older, you may have the ability to email other users or post messages on portions of this site. In the event that you do post messages on this site, remember that other users of this site will have access to your email address and user name. 
+The ability to participate in the community forums by simply logging in is available to only those Web users that have already created a password during an earlier visit to the community registration area of our site. To login as a member, we may ask you to submit your username and password. This information is collected so that you can access and participate in the community forums without having to reregister. 
 
-**
-  * _Resumes_
-** 
+Please note that whenever you give out personal information in public areas such as on our community forums, that information can be collected and used by people you don't know. While we strive to protect those who wish to participate in these forums, we cannot guarantee the security of any information you post in these areas. When you register for the community forum, you have the option to make your email address inaccessible to other users of the forum.
 
+**Technical Support**
 
-> Some of our sites allow for the online submission of resumes. Personal information collected by allowing for resume submission will be used solely for the purpose of accepting and evaluating candidate submissions for job postings. This information may be shared within the company.
+To submit a question or problem to our technical support center using Infogrames' email form, you may be asked to provide your first and last name, date of birth, country, state or province, email address, telephone number, the date and location of your purchase, the name of the game in question, the operating system you are having the trouble on, and a description of the problem you are encountering. The information you provide us for this purpose is used to respond to the your troubleshooting problem.
 
-_**
+**Online Store**
 
-Cookies
+In the event Infogrames launches an online store for its web users, visitors purchasing goods or services may need to provide a valid credit card number and expiration date, in addition to name, mailing and billing addresses, phone number and e-mail address. In the event that we launch such an online store, we may also ask you to create a password so that when you return to our site, you can easily retrieve your shopping cart by logging in. 
 
-**_
+**E-cards**
 
-Hasbro may use "cookies" to enhance your experience at our Web site. Cookies are pieces of information that we may place on your computer to help "personalize" your visit to the site. For example, a cookie will allow us to remember certain things about you, such as your screen name or where you left off in a game. Most major Web sites use cookies exactly for this purpose. We can not tell who you are or where you are. The cookie only tells us that you have visited the site before and may contain certain information that will help us make your visit more enjoyable. Hasbro will never use cookies to retrieve information from your computer that was not originally sent in a cookie. 
+Web users who wish to send an e-card to a friend or family member may be asked to provide their name and email address, and the name(s) and email address(es) of the person(s) to whom they wish to send the e-card. After we send the E-card, we do not store the collected email addresses or use them for other purposes.
 
-_**
+**Email to Webmaster**
 
-Opt-out
+Infogrames may collect and temporarily store personal information that you voluntarily submit to us via email correspondence. For example, Infogrames provides a link through which an online visitor can send e-mail to our Webmaster addressing any issue a user encounters when using our websites. Any personal information contained in such email is used by Infogrames for the sole purpose of responding to your questions. Although most e-mail messages are deleted after they are responded to, in certain cases hard copies of or data from certain e-mail correspondence may be kept on file for security purposes. Any such copy or data will also be stored in a secure location, and information from these messages will not be used for marketing purposes.
 
-**_
+**Business Capacity**
 
-If you do not want Hasbro to send you e-mail or regular mail about our products and/or services, you can opt-out at the time of registration or at the time of information collection. If you are receiving e-mails or regular mail and at a later date you choose to opt-out and have your name removed from Hasbro’s database, you can do so by sending an e-mail to registration@hasbro.com.
+Infogrames allows for the online submission of resumes. Personal information collected from resumes will be used solely for the purpose of accepting and evaluating candidate submissions for job postings. Information obtained from resumes may be shared within our company.
 
-**
+Portions of our site may also contain an area where businesses can submit a request to receive corporate or financial information about Infogrames (e.g., www.infogrames.com). Any personal information collected from such requests, such as name, email address, and phone number, is used to respond to the specific request and, if you opt-in, is added to our business mailing list. 
 
-_Safeguarding your personal information_
+Other than as explained above, this Privacy Policy does not apply to personal information gathered through resumes or requests for corporate or financial information.   
+**  
+What happens if I refuse to provide my personal information?**
 
-**
+Your refusal to submit personal information may limit your ability to participate in some of our activities such as sweepstakes or community forums. However, you do not need to provide personal information to access and browse our Web sites. 
 
-Hasbro will only collect personal information to the extent deemed reasonably necessary to serve our legitimate business purposes, and we will take the appropriate steps to ensure the security and integrity of any information you provided to us.
+Does Infogrames use cookies, track IP Addresses or use other passive means to collect information?
 
-**_Review, update and removal of personal information_**
+Infogrames uses cookies on its websites. A "cookie" is a small bit of record-keeping information that websites often store on a user's computer. Cookies do not include people's names, e-mail addresses, or other information that is personally identifiable; they are typically used to quickly identify a user's computer and to "remember" things about the user's visit.
 
-If you have registered with our site, you may at any time review and/or update the contact information we have for you or inform us that you want us to remove your information from our database by contacting us at registration@hasbro.com. _Please be sure to include in your message the name of the site at which you registered and the email address you used to register so that we can verify your request._
+Infogrames also keep tracks of Internet Protocol (IP) addresses for safety and security reasons. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
-We reserve the right to change this statement at any time, so visit this page from time to time to check for changes. For additional information about our Web site, please see our [Terms and Conditions](unsaved:///terms.html) of Use.
+**Who is collecting my personal information?**
 
-Thanks. Have fun! 
+The information you submit to our websites is collected by Infogrames and is used in the manner specified under the section titled "What information does Infogrames collect and how will it be used?" Contact information for Infogrames is provided below. 
 
-**
+**With whom does Infogrames share my personal information?**
 
-NOTE TO PARENTS
+It is our policy not to share your personal information with any third parties. However, this policy does not apply when disclosure is required by law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, information about our customers, including personal information, may be disclosed as part of any bankruptcy, merger, sale, transfer of company assets, or acquisition, if permitted by and done in accordance with applicable law. 
 
-**
+**Can I choose how my personal information is used?**
 
-Hasbro has developed its Web site to be an enjoyable experience for children (and adults) of all ages. Hasbro recognizes that some younger children may not understand some of the information contained on the Web site or how the site operates. That is the purpose of the Privacy Statement. Please discuss this statement with your children so that they will better understand how to use the site and the information they may be asked to provide. Hasbro strongly believes that providing its visitors with accurate and adequate notice about the Web site will lead to informed choices and decisions about how to use the site, as well as protecting its users' privacy. If you have any questions or comments about the Hasbro Web site, please feel free to contact us at [consumer_support@hasbro.com](mailto:consumer_support@hasbro.com). 
+If you do not want Infogrames to send you communications about our products and services, you can opt-out from receiving these communications at the time of information collection or by contacting us by phone at (425) 951-7106 or by regular mail at Infogrames, 2230 Broadway Avenue, Santa Monica CA 90404, Attn: Customer Database. In addition, along with every communication sent to you, Infogrames gives you the opportunity to discontinue receiving future communications.
 
-It is Hasbro's policy not to collect personally identifiable information from children under 13 without first obtaining a parent or guardian's verifiable permission. If a visitor indicates that he/she is under the age of 13, he/she will be asked to print out a permission form from the site which must be signed and returned by the visitor's parent or guardian before Hasbro will accept information from that visitor. Furthermore, Hasbro will not collect personally identifiable information from children over 12 and under 18 without notifying a parent or guardian via email. 
+**How do I access my personal information?**
 
-Back to start of Hasbro Privacy Statement.
+You always have the option to view, correct and/or delete the personal information collected about you and stored in our database. To do so, please take any one of the following steps:
+
+1\. Send mail to the following postal address:  
+Infogrames  
+2230 Broadway Avenue,  
+Santa Monica, CA 90404 Attn: Customer Database
+
+2\. Call the following telephone number:  
+(425) 951-7106 and use our Automated Systems' Main Menu option or speak to a customer service representative. 
+
+**What is Infogrames' policy regarding links to third party sites?**
+
+You should be aware that while you are on a website operated by Infogrames, you could be directed to other sites that are beyond our control and for which we are not responsible. Because we cannot guarantee that the privacy policies of these websites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.
+
+**Does Infogrames collect personal information from children under 13?**
+
+ _Collection and Use of Personal Information_
+
+At this time, we collect and store personal information about children under 13 ("children" or "child") only if it submitted by way of our email support page (accessible from the Technical Support area of our site at www.ina-support.com) and is submitted after we've obtained verifiable parental consent. We do not collect personal information from children through our kids' site located at www.funkidsgames.com. On our email support page, we determine who is younger than 13 years old and whether parental consent is required by asking all users seeking technical support help to submit their age (i.e., date of birth). Those users under 13 years old are directed to our Parental Consent Form. If given verifiable permission from a parent, Infogrames may collect and store the following types of personal information about a child seeking technical support help: first and last name, email address, and telephone number. Infogrames may also collect demographic information about a child such as the country and state in which the child lives, the child's date of birth, and a description of the hardware (e.g., operating system) and/or product the child has encountered a problem with; and, combine such information with the child's personal information. Infogrames will only collect this information if it is voluntarily submitted to us by the child. We do not collect personal information about the child through the use of passive collection mechanisms such as cookies. 
+
+The information collected from a child through our email support page is used by Infogrames for purposes of diagnosing a child's specific technical problem and providing an acceptable solution, and may be stored for purposes of providing ongoing technical support. From time to time and through the use of our email support page, we receive requests from children relating to Frequently Asked Question documents (FAQ's), Hint documents, and/or patch disks or update disks related to a specific game or games, and we may use the contact information provided to respond to such requests. 
+
+Under no circumstances will we ask the child to provide us more personal information than is reasonably necessary for the child to receive technical support help. 
+
+_Third Parties_
+
+Please read the section titled "With whom does Infogrames share my personal information" (above) for our policy on the disclosure of personal information collected from and about children under 13.
+
+ _Parental Access_
+
+As a parent, you have the right to review, update or delete your child's personal information and/or have Infogrames discontinue further collection or use of your child's personal information. To do so, please contact us by phone at 425-951-7106, E-Mail ([webmaster@us.infogrames.com](mailto:webmaster@us.infogrames.com)) or by regular mail at:
+
+Infogrames
+
+Attn: Technical Support Department  
+13110 NE 177th Place  
+Suite #B101, Box 180  
+Woodinville, WA 98072-9965
+
+We will be happy to review, update, or delete your child's information as appropriate. Please make sure to have your child's email address available for verification purposes.
+
+**What safeguards does Infogrames use to protect my personal information?**
+
+To protect your personal information, Infogrames maintains appropriate safeguards to ensure the security, integrity and privacy of the personal information collected from and about its users, including children under 13. Our sites have security measures in place to protect the loss, misuse and alteration of the information under our control. Personal information collected by Infogrames is stored in secure operating environments that are not available to the public. 
+
+**How do I ask a question or file a complaint?**
+
+If you have any questions, complaints, or comments regarding our privacy statement, the practices of this site, or your dealings with any of our websites, please contact our Technical Support team by phone at (425) 951-7106, or by regular mail at: 
+
+Infogrames  
+2230 Broadway Avenue  
+Santa Monica, CA 90404  
+Attn: Customer Database
+
+For complaints, you can also contact ESRB Privacy Online directly at www.esrb.org or by regular mail at:
+
+ESRB Privacy Online  
+845 Third Avenue  
+New York, NY 10022
+
+By using this site, you signify your assent to Infogrames Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy at any time. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
+
+This Privacy Policy reflects the law of the United States. In France, the collection of personal information on the Internet is governed by French law no. 78-17 of January 6, 1978.
+
+| 
