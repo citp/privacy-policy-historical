@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventurebox.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408233002id_/http%3A//registerfly.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventurebox.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053518id_/http%3A//registerfly.com/info/privacy.php) for the most accurate reproduction.*
 
 # RegisterFly.com | PRIVACY POLICY
 
