@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611210353id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208213517id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia Teachers - Privacy Policy
 
@@ -32,13 +32,13 @@ Kids who wish to display their artwork on Artsonia are required to register with
 
 
 
-Kids under 13 years of age are not allowed to register for our newsletter or the fan clubs and kids under 18 are not allowed to purchase any products from Artsonia.
+Kids under 13 years of age are not allowed to register for our fan clubs and kids under 18 are not allowed to purchase any products from Artsonia.
 
 If you are a parent of a child under 18 and you want us to remove your child's artwork that has already been published on our website (either by your child with your permission or by your child's school), you can request that the artwork and all information about the child be removed from our records. Please write a signed letter to the address noted below indicating your child's screenname and the artid(s) of the artwork(s) that you want removed.
 
 > Artsonia  
 >  Attn: Member Services  
->  3166 N. Lincoln Ave Suite 405  
+>  3166 N. Lincoln Ave Suite 416  
 >  Chicago, IL 60657
 
 **4\. Identifying information about kids**
@@ -73,5 +73,5 @@ For more information about Artsonia's privacy policy or questions and comments, 
 
 > Artsonia  
 >  Attn: Member Services  
->  3166 N. Lincoln Ave, Suite 405   
+>  3166 N. Lincoln Ave, Suite 416   
 >  Chicago, IL 60657
