@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2003-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031015121810id_/http%3A//fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626153503id_/http%3A//fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Policy - Using this Site - Fairfax County, Virginia
 
@@ -18,4 +18,4 @@
 
      Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other that it’s intended purposes are prohibited and may result in criminal prosecution.
 
-     If you have any questions specifically regarding your privacy on our site, please email [webadmin@co.fairfax.va.us](mailto:webadmin@co.fairfax.va.us).
+     If you have any questions specifically regarding your privacy on our site, please email the [Web administrator](https://web.archive.org/contact/mailform.asp?ref=3089).
