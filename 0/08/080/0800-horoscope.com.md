@@ -1,64 +1,64 @@
-> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011914id_/http%3A//www.0800-horoscope.com/privacy.html) for the most accurate reproduction.*
 
 # 0800-horoscope - Privacy Statement
 
-[](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/index.html)  
+[](https://web.archive.org/index.html)  
 | 
 
 * * *  
   
 ---  
 [Horoscopes](https://web.archive.org/)  
-  \- [Daily](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/daily.html)  
+  \- [Daily](https://web.archive.org/daily.html)  
   \- [Weekly](https://web.archive.org/)  
-  \- [Monthly](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/monthly.html)  
-  \- [Year 2003](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/year2003.html)  
-  \- [14 Day Outlook](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/previsions.html)  
-  \- [PartnerScope](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/partnerscope.html)  
-  \- [Sun*Moon*Asc](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/weeklycombi.html)  
-[E-Mail Scopes](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/emailscopes.html)  
-  \- [Daily](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/dailyscopes.html)  
-  \- [Weekly](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/emailscopes.html)  
+  \- [Monthly](https://web.archive.org/monthly.html)  
+  \- [Year 2003](https://web.archive.org/year2003.html)  
+  \- [14 Day Outlook](https://web.archive.org/previsions.html)  
+  \- [PartnerScope](https://web.archive.org/partnerscope.html)  
+  \- [Sun*Moon*Asc](https://web.archive.org/weeklycombi.html)  
+[E-Mail Scopes](https://web.archive.org/emailscopes.html)  
+  \- [Daily](https://web.archive.org/dailyscopes.html)  
+  \- [Weekly](https://web.archive.org/emailscopes.html)  
   
 * * *  
   
- **FREE ASTROLOGY SERVICES**  
-[Beginner Course](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/guide.html)  
-[Birth Charts](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/birthchart.html)  
-[Back Issues](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/backissues.html)  
-[Compatibility](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/compatibility.html)  
-[Zodiac Profiles](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/zodiacprofiles.html)  
+**FREE ASTROLOGY SERVICES**  
+[Beginner Course](https://web.archive.org/guide.html)  
+[Birth Charts](https://web.archive.org/birthchart.html)  
+[Back Issues](https://web.archive.org/backissues.html)  
+[Compatibility](https://web.archive.org/compatibility.html)  
+[Zodiac Profiles](https://web.archive.org/zodiacprofiles.html)  
   
 * * *  
   
- **SERVICES**  
-[Full Merlin Report](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/astrologysource.html)  
-[Numerology](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/numerology.html)  
-[Love Advice](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/articles.html)  
+**SERVICES**  
+[Full Merlin Report](https://web.archive.org/astrologysource.html)  
+[Numerology](https://web.archive.org/numerology.html)  
+[Love Advice](https://web.archive.org/articles.html)  
 [Personal Ads](http://www.one-and-only.com/menu1.htm?AssociateID=174099)  
-[Astro Products](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/products.html)  
+[Astro Products](https://web.archive.org/products.html)  
   
 * * *  
   
- **SITE INFO**  
-[Home](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/index.html)  
-[About 0800](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/about.html)  
-[About Rita Ann](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/ritaann.html)  
-[Advertise](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/sponsors.html)  
-[Guest Book](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/guestbook.html)  
-[Feedback](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/feedback.html)  
-[Link To Us](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/linkus.html)  
-[Newsletter](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/newsletter.html)  
-[Tell A Friend](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/tellafriend.html)  
-[Weekly Diary](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/diary.html)  
-[Zodiac Stats](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/statistics.html)  
+**SITE INFO**  
+[Home](https://web.archive.org/index.html)  
+[About 0800](https://web.archive.org/about.html)  
+[About Rita Ann](https://web.archive.org/ritaann.html)  
+[Advertise](https://web.archive.org/sponsors.html)  
+[Guest Book](https://web.archive.org/guestbook.html)  
+[Feedback](https://web.archive.org/feedback.html)  
+[Link To Us](https://web.archive.org/linkus.html)  
+[Newsletter](https://web.archive.org/newsletter.html)  
+[Tell A Friend](https://web.archive.org/tellafriend.html)  
+[Weekly Diary](https://web.archive.org/diary.html)  
+[Zodiac Stats](https://web.archive.org/statistics.html)  
   
 * * *  
   
- **SELECTED SITES**  
-[Link Index](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/horoscope_links.html)  
+**SELECTED SITES**  
+[Link Index](https://web.archive.org/horoscope_links.html)  
 [AstroBingo](http://www.easyscopes.com/astrobingo.html)  
-[AstroChatters](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/astrochatters.html)  
+[AstroChatters](https://web.archive.org/astrochatters.html)  
 [EasyScopes](http://www.easyscopes.com/)  
 [Love Tests](http://www.lovetest.com/)  
   
@@ -107,7 +107,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   1. You can send email to [unsubscribe@0800-horoscope.com](mailto:unsubscribe@0800-horoscope.com)
-  2. You can visit the following URL: [http://www.0800-horoscope.com/newsletter.html](https://web.archive.org/web/20030605062215id_/http%3A//www.0800-horoscope.com/newsletter.html)
+  2. You can visit the following URL: <http://www.0800-horoscope.com/newsletter.html>
   3. You can send mail to the following postal address:  Euregio.Net AG, Wirtzfeld 140, 4760 Büllingen, Belgium 
 
 
