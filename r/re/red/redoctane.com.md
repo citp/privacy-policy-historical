@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the redoctane.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204035855id_/http%3A//redoctane.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redoctane.com privacy policy that was archived on 2005-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050218140346id_/http%3A//www.redoctanegames.com/AboutUs/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# RedOctane Games
+
+**PRIVACY POLICY _ RedOctane**
 
 RedOctane knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting RedOctane, you are accepting the practices described in this Privacy Notice.
 
- **What Personal Information About Customers Does RedOctane Gather?**
+_**What Personal Information About Customers Does RedOctane Gather?**_
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at RedOctane. Here are the types of information we gather.
 
@@ -14,11 +16,11 @@ Automatic Information: We receive and store certain types of information wheneve
 
 Information from Other Sources: For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
 
- **What About Cookies?**
+_**What About Cookies?**_
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features sucha as storage of items in your Shopping Cart between visits. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of our features, and we recommend that you leave them turned on.
 
- **Does RedOctane Share the Information It Receives?**
+_**Does RedOctane Share the Information It Receives?**_
 
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only with the subsidiaries RedOctane, Inc., controls and as described below.
 
@@ -30,6 +32,8 @@ Protection of RedOctane and Others: We release account and other personal inform
 
 With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
- **How Secure Is Information About Me?**
+_**How Secure Is Information About Me?**_
 
 We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+
+ 
