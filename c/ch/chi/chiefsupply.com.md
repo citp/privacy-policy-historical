@@ -1,60 +1,41 @@
-> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2003-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030206080447id_/http%3A//www.chiefsupply.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202153425id_/http%3A//www.chiefsupply.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Chief Supply's Online Privacy Policy
 
-  
-|    
+  |    |    
 
 
-### _Privacy Statement for Chiefsupply.com_
+### _Privacy Policy Statement_
 
-Chief Supply Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: Chiefsupply.com. 
+This is the web site of **Chief Supply**. 
 
-Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
+Our postal address is   
+**1400 Executive Parkway / Suite 220 / Mailbox 26  
+Eugene, OR 97401**
 
-Our site uses cookies to keep track of your shopping cart. 
+We can be reached via e-mail at [this address](https://web.archive.org/web/20031202153425id_/http%3A//www.chiefsupply.com/contact_us.html) or you can reach us by telephone at (800) 824-4338 from 5am - 4pm, PT, Weekdays. 
 
-This site contains links to other sites. **Chiefsupply.com** is not responsible for the privacy practices or the content of such Web sites. 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. 
+We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as catalog requests or on-line orders. 
 
-Our catalog request forms and online surveys ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. The information we collect is used for internal review and is then discarded and not shared with other organizations for commercial purposes. In plain English: **we will not sell, rent, or lend your name... ever!**
+The information we collect is used to notify consumers about issues with his or her order or if they have opted in to our newsletter, updates to our Web site. 
 
-### Security
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart. To purchase off of our Web site, the user must enable cookies. 
 
-### Choice/Opt-Out
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above or by e-mailing us at the above address. 
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically (we will maintain a last updated date at the bottom of this web page). 
 
-  1. You can send email to [webmaster@chiefsupply.com](mailto:webmaster@chiefsupply.com)
-  2. You can visit the following URL: <http://lb.bcentral.com/ex/manage/subscriberprefs?customerid=6129>
-  3. You can send mail to the following postal address:  Chief Supply Corporation  
-1400 Executive Parkway, Suite 220  
-Mail Box #26  
-Eugene, OR 97401 
-  4. You can call the following telephone number: (800) 733-9281 
-  5. You can fax (800) 329-2003 
+Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them. Consumers can access this information by writing to us at the above address. Consumers can have this information corrected by calling us at the above telephone number. 
 
+With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-### Correct/Update
+_Last Updated: June 16, 2003_   
 
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. You can send email [webmaster@chiefsupply.com](mailto:webmaster@chiefsupply.com)
-  2. You can send mail to the following postal address:  Chief Supply Corporation  
-1400 Executive Parkway, Suite 220  
-Mail Box #26  
-Eugene, OR 97401 
-  3. You can call the following telephone number: (800) 733-9281 
-  4. You can fax (800) 329-2003 
-
-
-
-### Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Web Chief Chief Supply Corporation 1400 Executive Parkway, Suite 220 Mail Box #26 Eugene, OR 97401 [webmaster@chiefsupply.com](mailto:webmaster@chiefsupply.com)
