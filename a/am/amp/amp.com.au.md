@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amp.com.au privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206102000id_/http%3A//www.amp.com.au/au/ampweb.nsf/Content/J%2BPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amp.com.au privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614143933id_/http%3A//www.amp.com.au/au/ampweb.nsf/Content/J%2BPrivacy) for the most accurate reproduction.*
 
 # AMP - amp.com.au - Privacy statement
 
@@ -46,7 +46,7 @@ In designing this web site, we have incorporated security procedures and practic
 
 Personal information about you and your business with AMP is only accessible by you and by those who are authorised by us to access it. They also must use a password, and are bound to safeguard the information and access it only for approved business purposes. 
 
-Your password is your key to accessing your information, and so you should keep it securely. It is also good practice to change it periodically. You can do this online (for example in "My Portfolio" or by using the the "change password" facility within the "services" section of Internet Banking) or by calling **1300 300 465** (or **13 30 30** for Internet Banking). 
+Your password is your key to accessing your information, and so you should keep it securely. It is also good practice to change it periodically. You can do this online (for example in "My Portfolio" or by using the the "change password" facility within the "services" section of BankNet) or by calling **1300 300 465** (or **13 30 30** for BankNet). 
 
 You should also ensure that once you have finished accessing the secure parts of our site (such as My Portfolio) you log off. Otherwise, others may be able to access your details and make transactions without your authority
 
