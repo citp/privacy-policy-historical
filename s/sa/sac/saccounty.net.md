@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the saccounty.net privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162623id_/http%3A//www.saccounty.net/disclaimer.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saccounty.net privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/disclaimer.html%23Privacy) for the most accurate reproduction.*
 
 # Welcome to the County of Sacramento - Conditions of Use
 
-Skip to Navigation Skip to Page Content  
-|  | Quick Links  
+| Quick Links  
 ---  
 [Board of Supervisors](http://boardofsupervisors.saccounty.net/)  
 [About the County](http://www.saccounty.net/portal/about/about.htm)  
@@ -22,34 +21,33 @@ View Maps of the County, including school districts, supervisor districts, citie
    
 Current Events  
    
-****
+  
+**California State  
+Railroad Museum  
+Walt Disney’s Backyard Railroad **  
+  
+[Through March 31, 2002](http://www.californiastaterailroadmuseum.org/doc.asp?id=401)  
+  
+  
+  
+   
+   
+|  | 
 
-**Free Lunch For Kids This Summer!**  
+Conditions of Use   
   
-   
-  
-[Free Lunch For Kids](http://dhaweb.saccounty.net/summer%20lunch_AB.htm)  
-   
-   
-|  |   
 ---  
-  
-|   
----  
-| 
+|  | 
 
-By visiting the Sacramento County Portal, users agree that they will not use the site for any unlawful activity, or use it in any way that would violate the terms and conditions of use. This web site is governed and construed by the laws of the State of California. Any use of the web site shall comply with all Sacramento County and California laws and regulations as well as with all federal laws and regulations. 
+By visiting the Sacramento County Portal, users agree that they will not use the site for any unlawful activity, or use it in any way that would violate the terms and conditions of use. This web site is governed and construed by the laws of the State of California. Any use of the web site shall comply with all Sacramento County and California laws and regulations as well as with all federal laws and regulations
 
-Unauthorized attempts to upload information or change information on this portal are strictly prohibited and may be punishable under the state Computer Trespass law and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
+Unauthorized attempts to upload information or change information on this portal are strictly prohibited and may be punishable under the state Computer Trespass law and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
 Third Party Links
 
-The County Portal may contain links to local, State and federal government agencies and to other websites. The inclusion of such links does not constitute an endorsement of the destination website nor the content, viewpoint, accuracy, opinions, policies, products or site accessibility. Nor does any linkage between the County and a third-party website imply sponsorship of that website.
-
-|   
+The County Portal may contain links to local, State and federal government agencies and to other websites. The inclusion of such links does not constitute an endorsement of the destination website nor the content, viewpoint, accuracy, opinions, policies, products or site accessibility. Nor does any linkage between the County and a third-party website imply sponsorship of that website.  
   
-|   
----  
+---|---  
 | 
 
 Use of Information Collected
@@ -58,7 +56,7 @@ Information use when only browsing the site Individuals only browsing the site, 
 
 The information listed above is for information and statistical purposes only. The County may use this information to create summary statistics used to assess highly accessed information and pages to assist in determining technical design specifications, and/or assess system performance or problem areas.
 
-Additionally, the County portal uses software programs for the purpose of monitoring network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations and the security purposes mentioned elsewhere in this notice, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction. 
+Additionally, the County portal uses software programs for the purpose of monitoring network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations and the security purposes mentioned elsewhere in this notice, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction.
 
 Information use when you volunteer information
 
@@ -78,20 +76,16 @@ Cookies are text files created by your browser and stored on your system for to 
 
 Minors Privacy Policy
 
-This site may have purpose to collect information from minors, on a voluntary basis, in relation to youthful based activities or County sites. Any information collected by the Sacramento County portal from children 13 and under is subject to the same guidelines of the County's general privacy policy as well as the following guidelines: * Parental consent will be obtained before collecting, using or disclosing personal information about a child. * In the event that the County changes its practices of collecting, using or disclosing any information in a substantive way, new parental consent will be obtained. An example of a change may include, what material is collected, how the information may be used, or third party access to that information. * Upon verification of a child's parent's identity, the requesting parent will be able to review the personal information collected from their child. * A parent will be allowed to revoke their consent and the County will delete information collected from or for their children on request. When consent is revoked, the website will stop collecting, using or disclosing information from or for that child. Revocation may end a child's participation in an activity if the information collected was necessary for participation on the website. Additional information can be obtained at the FTC's Consumer Response Center and the Kidz Privacy websites. 
+This site may have purpose to collect information from minors, on a voluntary basis, in relation to youthful based activities or County sites. Any information collected by the Sacramento County portal from children 13 and under is subject to the same guidelines of the County's general privacy policy as well as the following guidelines: * Parental consent will be obtained before collecting, using or disclosing personal information about a child. * In the event that the County changes its practices of collecting, using or disclosing any information in a substantive way, new parental consent will be obtained. An example of a change may include, what material is collected, how the information may be used, or third party access to that information. * Upon verification of a child's parent's identity, the requesting parent will be able to review the personal information collected from their child. * A parent will be allowed to revoke their consent and the County will delete information collected from or for their children on request. When consent is revoked, the website will stop collecting, using or disclosing information from or for that child. Revocation may end a child's participation in an activity if the information collected was necessary for participation on the website. Additional information can be obtained at the FTC's Consumer Response Center and the Kidz Privacy websites.
 
 Health Information
 
-Agencies requesting or providing personally identifiable health care information this portal are required to certify that its health care data handling and security procedures are compliant with the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). If such data and security services are provided to such agency by a third-party provider, the agency shall be responsible for such third party's compliance with HIPAA. 
+Agencies requesting or providing personally identifiable health care information this portal are required to certify that its health care data handling and security procedures are compliant with the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). If such data and security services are provided to such agency by a third-party provider, the agency shall be responsible for such third party's compliance with HIPAA.
 
-Contact Information 
+Contact Information
 
-The County is made up of a number of departments. Each department is responsible for the applications it develops including applications that may gather volunteered personally identifying information. In these cases, contact information is provided at the point of information entry allowing the user to contact that department either through e-mail or the phone. Additionally, contact information for the portal is provided and can be used as an initial point of contact in lieu of individual department contacts. 
-
-|   
+The County is made up of a number of departments. Each department is responsible for the applications it develops including applications that may gather volunteered personally identifying information. In these cases, contact information is provided at the point of information entry allowing the user to contact that department either through e-mail or the phone. Additionally, contact information for the portal is provided and can be used as an initial point of contact in lieu of individual department contacts.   
   
-|   
----  
 | 
 
 The Sacramento County e-Government Portal is striving to achieve the following accessibility standards and guidelines.
@@ -107,8 +101,8 @@ To insure maximum access to all web users the portal design utilizes the princip
   * The design minimizes hazards and the adverse consequences of accidental or unintended actions.
   * The design can be used efficiently and comfortably and with a minimum of fatigue.
 
-These polices directed the creation of the portal templates and should serve as central reference points for Portal development. |   
+These polices directed the creation of the portal templates and should serve as central reference points for Portal development.  
   
 Back to Top of Page  
 © 2002 County of Sacramento.  
-Privacy Policy Conditions of Use Accessibility Policy [Contact Us](http://www.saccounty.net/portal/contact.htm)
+[Privacy Policy](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/disclaimer.html#Privacy) [Conditions of Use](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/disclaimer.html#use) [Accessibility Policy](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/disclaimer.html#Accessibility) [Contact Us](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/portal/contact.htm)
