@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204182758id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2005-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050217100036id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
 
 # WPXI.com - WPXI-TV - PRIVACY POLICY
 
@@ -41,7 +41,9 @@ We use cookies to help us tailor our site to your needs, to deliver a better, mo
 The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. **DISCLOSURE OF INFORMATION**
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+**DISCLOSURE OF INFORMATION**
 
 **Advertisers**. Without your permission, we will not share the personally-identifiable information you provide when registering on our site with advertisers. We may, however, take the information you provide and aggregate it with data from all the other people that use this site and associated services. Then we will use that pool of information to inform our advertisers about our audience without identifying you personally. 
 
@@ -76,7 +78,3 @@ All information gathered on our site is stored within a database operated by us 
 **CHANGES TO THIS PRIVACY POLICY**
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
-
-  
-  
-
