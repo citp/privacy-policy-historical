@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the firstcitizens.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601114204id_/http%3A//firstcitizens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizens.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204033535id_/http%3A//firstcitizens.com/privacy_security/privacy_statement) for the most accurate reproduction.*
 
 # First Citizens Bank | Privacy and Security | Privacy Statement
 
-Privacy Statement—June 2002 
+Privacy Statement — June 2003
 
 IMPORTANT INFORMATION ABOUT PRIVACY
 
