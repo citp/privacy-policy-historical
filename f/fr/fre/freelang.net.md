@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604024328id_/http%3A//www.freelang.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017125744id_/http%3A//www.freelang.net/privacy.html) for the most accurate reproduction.*
 
 # FREELANG.net - privacy
 
-|  [DICTIONARY](https://web.archive.org/web/20020604024328id_/http%3A//www.freelang.net/dictionary/index.html)  
+|  [DICTIONARY](https://web.archive.org/web/20021017125744id_/http%3A//www.freelang.net/dictionary/index.html)  
 ---  
 Offline dictionary program (freeware for Windows). Install the program once, then download as many word lists as needed.  
   
- [FREE TRANSLATION](https://web.archive.org/web/20020604024328id_/http%3A//www.freelang.net/translation/index.html)  
+ [FREE TRANSLATION](https://web.archive.org/web/20021017125744id_/http%3A//www.freelang.net/translation/index.html)  
 ---  
 Having trouble translating something? Ask your question to volunteers ready to help you... for free!  
   
- [FONT CENTER](https://web.archive.org/web/20020604024328id_/http%3A//www.freelang.net/fonts/index.html)  
+ [FONT CENTER](https://web.archive.org/web/20021017125744id_/http%3A//www.freelang.net/fonts/index.html)  
 ---  
 From Arab to Vietnamese, including Hebrew, Japanese... more than 300 fonts available to download on one page.  
   
@@ -22,7 +22,7 @@ Freelang does not collect or save any personal information for commercial purpos
 
 Freelang logs statistic information about browsers, operating systems, IP-addresses and referring websites for security purposes and to further improve the website. None of this information is distributed to any third party. 
 
-Freelang does not use cookies. 
+Freelang does not use cookies (except for registered translators, but the cookie is deleted when the session is closed). 
 
 * * *
 
