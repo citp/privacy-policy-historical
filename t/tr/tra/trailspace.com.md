@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208071232id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605060805id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - trailspace.com
-
-  You are here: [Home](https://web.archive.org/index.html) > [About Trailspace](https://web.archive.org/about/index.html) > **Privacy Policy**
 
 Individuals who visit the Trailspace website are important to us. Because visitors to our website are important, we do not capture personal information about them without their permission. We endeavor to collect only the minimum amount of information needed to meet the purposes for which the website was created.
 
@@ -24,17 +22,18 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 ## Cookies
 
-Trailspace does not use cookies in order to track your visit to our website or for any other purpose.
+Trailspace may use cookies on a limited basis in order to track your visit to our website or for other purposes. Trailspace does not use cookies to track or store personally identifiable information.
 
-Some of our business partners (for example, advertisers) may use cookies on our site. This privacy statement covers the use of cookies by Trailspace only and does not cover the use of cookies by any advertisers.
+Some of our business partners (for example, advertisers) may also use cookies on our site. This privacy statement covers the use of cookies by Trailspace only and does not cover the use of cookies by any advertisers.
 
 ## Third Party Advertising
 
 The graphical and text-based ads appearing on this Web site are delivered to users by several Web advertising partners. Information about usersš visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about our advertising partners and their privacy policies, please follow the links below:
 
-  * [Burst Media Privacy Policy](http://www.burstmedia.com/release/privacy_content.htm)
-  * [LinkShare Privacy Policy](http://www.linkshare.com/home/privacy.shtml)
   * [Commission Junction Privacy Policy](http://www.cj.com/privacy.asp)
+  * [LinkShare Privacy Policy](http://www.linkshare.com/home/privacy.shtml)
+  * [Burst! Media Privacy Policy](http://www.burstmedia.com/release/privacy_content.htm)
+  * [Tribal Fusion Privacy Policy](http://www.tribalfusion.com/www/about/privacy.html)
 
 
 
