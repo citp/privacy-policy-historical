@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eetasia.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203092649id_/http%3A//www.eetasia.com/MAGAZINE/POLICY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eetasia.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202002id_/http%3A//www.eetasia.com/MAGAZINE/POLICY.HTM) for the most accurate reproduction.*
 
 # Electronic Engineering Times - Asia
 
@@ -84,21 +84,3 @@ Some of our services or features require cookies. If you do not accept cookies o
 
   
 
-
-  
-[Prototype Circuit Boards from PCBexpress](http://links.industrybrains.com/?Click?159095&0&41&20031203042238&http://www.pcbexpress.com/?source=ib_asia)  
-Two-layer, 20-piece at $11 each, ship in 24-hours. Four-layer, 10-piece at $19 each, ship in 48 hours. No tooling charges for our quality prototype boards. No hassles, easy order process.  
-  
-[Techniques to Future-Proof Embedded CPU Designs](http://links.industrybrains.com/?Click?174538&0&41&20031203042238&http://www.pmc-sierra.com/cgi-bin/google.pl?terms=WebinarEpad)  
-Engineers must design for the future. Feature creep, software bloat, shifting standards, and competition require a design with legs. View this free webinar to examine performance, cost, power, heat, layout, components and firmware for scalability.  
-  
-[High Performance Memory from OCZ Technology](http://links.industrybrains.com/?Click?181729&0&41&20031203042238&http://www.ocztechnology.com)  
-Performance Memory Manufacturer, Lifetime Warranty, Direct Support, Choose from our PC2100 thru PC4200 DDR Memories. Dual Channel, Performance ECC Server Memory, Notebook Memory and More! Visit our worldwide where to buy section for locations near you.  
-  
-[McObject's eXtremeDB in-memory embedded database](http://links.industrybrains.com/?Click?156907&0&41&20031203042238&http://www.mcobject.com/products.shtml)  
-eXtremeDB is the embedded in-memory database for C/C++ programmers. In-memory means amazing performance. Check out the XML-enabled and High Availability versions, too. Download a free trial.  
-  
-[~*~ Download Free Technical Publications ~*~](http://links.industrybrains.com/?Click?157279&0&41&20031203042238&http://www.mentor.com/techpubs/index.html)  
-Read about EDA Innovations, New Techniques, Tools, Reference Guides and more. Click Here!  
-  
-[](http://www.industrybrains.com/EETimesAsia)
