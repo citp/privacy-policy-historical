@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediaweek.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205051215id_/http%3A//www.vnuemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaweek.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208033829id_/http%3A//www.vnuemedia.com/privacy.html) for the most accurate reproduction.*
 
-# VNU Business Media USA
+# VNU eMedia Inc.
 
   
 **Revised October 2003**
@@ -55,4 +55,4 @@ By using our Web site, you consent to the collection and use of the information 
 
 We welcome your questions and/or comments. Please send all queries to [webmaster@vnuemedia.com](mailto:webmaster@vnuemedia.com).
 
-© 2003 VNU eMedia, Inc. All rights reserved. 
+© 2004 VNU eMedia, Inc. All rights reserved. 
