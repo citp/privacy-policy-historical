@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the justfreegames.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612150422id_/http%3A//www.justfreegames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreegames.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206152353id_/http%3A//justfreegames.com/privacy.html) for the most accurate reproduction.*
 
-# SUNNY GAMES LLC WEB SITE PRIVACY STATEMENT
+# JUST FREE GAMES.COM WEB SITE PRIVACY STATEMENT
 
-**SUNNY GAMES LLC WEB SITE PRIVACY STATEMENT**
+**JUSTFREEGAMES.COM WEB SITE PRIVACY STATEMENT**
 
-Sunny Games LLC is committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.
+Just Free Games.com is committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.
 
-**What information does Sunny Games LLC collect?**  
-Sunny Games LLC may request and/or collect information from you on a voluntary basis when you: register with us; participate in contests, events or promotions; and/or send questions or comments via e-mail to Sunny Games LLC customer support. The requested information may include personal information such as your name and e-mail address.  
+**What information does** **Just Free Games.com** **collect?**  
+Just Free Games.com may request and/or collect information from you on a voluntary basis when you: register with us; participate in contests, events or promotions; and/or send questions or comments via e-mail to Just Free Games.com customer support. The requested information may include personal information such as your name and e-mail address.  
 If you are under the age of 13, you will need your parent or guardian's consent before you can provide any personal information to us for purposes of registration and other online activities. 
 
   * Sign up to our free newsletter   
-If you wish to sign up to our free newsletter, you will be asked to supply personal information such as your e-mail address. With your permission, Sunny Games LLC uses such information to periodically contact you with product information news, special offers and relevant announcements;
+If you wish to sign up to our free newsletter, you will be asked to supply personal information such as your e-mail address. With your permission, Just Free Games.com uses such information to periodically contact you with product information news, special offers and relevant announcements;
   * Promotions   
 To participate in some of our promotions, you may be asked to provide an e-mail address and/or name, so that we can let you know if you won a prize. Please do not use your real name for these promotions;
   * E-mail   
@@ -21,25 +21,25 @@ Whatever the activity may be, we will only collect information to the extent dee
 
 
 **Opt out**  
-If you are receiving e-mails or regular mail and at a later date you choose to opt out and have your name removed from the e-mailing list, you can do so by using the link included with a Sunny Games LLC e-mail.
+If you are receiving e-mails or regular mail and at a later date you choose to opt out and have your name removed from the e-mailing list, you can do so by using the link included with a Just Free Games.com e-mail.
 
 **Cookies**  
-Sunny Games LLC may use cookies to improve the use of our websites. A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, Sunny Games LLC does not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.
+Just Free Games.com may use cookies to improve the use of our websites. A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, Just Free Games.com does not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.
 
 **IP Addresses**  
-Sunny Games LLC may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. 
+Just Free Games.com may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. 
 
 **Log Files**  
-Other non-personal information collected by Sunny Games LLC is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a., "click-through data"). For example, log file entries are generated every time a visitor clicks the "Online Shop" icon on our site. These entries enable Sunny Games LLC to assess overall site activity, track interest in advertised sales, track interest in purchase behavior, and troubleshoot technical concerns.  
+Other non-personal information collected by Just Free Games.com is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a., "click-through data"). For example, log file entries are generated every time a visitor clicks the "Home" icon on our site. These entries enable Just Free Games.com to assess overall site activity, track interest in advertised sales, track interest in purchase behavior, and troubleshoot technical concerns.  
 Through the use of log files, we may also collect certain demographic information such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows 98 or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink).  
 **  
 Linking to third party sites**  
-To provide relevant information not found on our Web site, Sunny Games LLC may provide links from our Web sites to third party Web sites and we encourage our users to read third party sites' privacy policies before submitting personal information. Sunny Games LLC is not responsible for the privacy practices of the content of third party sites'. Sunny Games LLC hereby disclaims any representations or warranties expressed on any site other than its own site.
+To provide relevant information not found on our Web site, Just Free Games.com may provide links from our Web sites to third party Web sites and we encourage our users to read third party sites' privacy policies before submitting personal information. Just Free Games.com is not responsible for the privacy practices of the content of third party sites'. Just Free Games.com hereby disclaims any representations or warranties expressed on any site other than its own site.
 
 **Who is collecting my personal information?**  
-Any personal information that you disclose while visiting any of our websites is collected by Sunny Games LLC, and is used in the manner specified above.
+Any personal information that you disclose while visiting any of our websites is collected by Just Free Games.com, and is used in the manner specified above.
 
 **Questions and Complaints**  
-If you have any questions, complaints or comments regarding our Privacy Policy Statement, please contact us via email at **feedback@sunnygames.com**.
+If you have any questions, complaints or comments regarding our Privacy Policy Statement, please contact us via web-form. 
 
-By using this site, you signify your assent to the Sunny Games LLC Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
+By using this site, you signify your assent to the Just Free Games.com Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
