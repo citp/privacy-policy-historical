@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624150633id_/http%3A//askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202225645id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
 
-# AskMen.com : Media Kit
+# AskMen.com - Contest Page
 
 ## AskMen.com Privacy Statement
 
@@ -64,4 +64,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ### How to Contact Us
 
-If you have any questions or concerns about the AskMen.com online policy for this site or its implementation you may contact us at [privacy@askmen.com](mailto:privacy@askmen.com). 
+If you have any questions or concerns about the AskMen.com online policy for this site or its implementation you may contact us at [privacy@askmen.com](mailto:privacy@askmen.com).  
+   
+  
+
