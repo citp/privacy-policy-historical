@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208210258id_/http%3A//www.theatlantic.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608144057id_/http%3A//www.theatlantic.com/about/privacy.htm) for the most accurate reproduction.*
 
 # The Atlantic Online | Privacy Policy
 
@@ -33,7 +33,7 @@ We can be reached at:
 
 * * *
 
-Copyright © 2002 by [The Atlantic Monthly Group](https://web.archive.org/about/legal.htm). All rights reserved.    
+Copyright © 2003 by [The Atlantic Monthly Group](https://web.archive.org/about/legal.htm). All rights reserved.    
 
 
 * * *
