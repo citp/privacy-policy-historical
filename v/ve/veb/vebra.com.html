@@ -1,205 +1,34 @@
-<!--The following is the downloaded HTML source of the vebra.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604142006id_/http%3A//www.vebra.com/home/vebra/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vebra.com privacy policy that was archived on 2002-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603151206id_/http%3A//www.vebra.com/home/vebra/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
-	<meta http-equiv="Author" content="Simon George <simon@craftcomputers.co.uk>"> 
-	<title>Vebra.com plc - Privacy Policy</title><script language="JavaScript">
-
-<!--
-manu=navigator.appName;
-vers=navigator.appVersion;
-ie3=0;
-
-
-function popup( mylink,windowname ) {
-	if (!window.focus) return true;
-	var href;
-	if (typeof(mylink) == 'string' ) {
-		href = mylink;
-	}else{
-		href = mylink.href;
-	}
-	window.open(href,windowname,'copyhistory=no,toolbar=yes,width=600,height=400,scrollbars=yes,resizable=yes,location=yes');
-	return false;
-} 
-
-
-
-function imgOn(imgName) {
-    if (document.images && ie3==0 ) {
-        document[imgName].src = eval(imgName + "on.src");
-    }              
-}
-
-function imgOff(imgName) {
-        if (document.images && ie3==0 ) {
-            document[imgName].src = eval(imgName + "off.src");
-        }
-}
-
-function MM_showHideLayers() { //v2.0
-  var i, visStr, args, theObj;
-  args = MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) { //with arg triples (objNS,objIE,visStr)
-    visStr   = args[i+2];
-    if ( document.layers != null) { // 080101 (SJG) navigator.appName == 'Netscape' removed
-      theObj = eval(args[i]);
-      if (theObj) theObj.visibility = visStr;
-    } else if (document.all != null) { //IE
-      if (visStr == 'show') visStr = 'visible'; //convert vals
-      if (visStr == 'hide') visStr = 'hidden';
-      theObj = eval(args[i+1]);
-      if (theObj) theObj.style.visibility = visStr;
-	} else if (document.getElementById) { // 080101 (SJG) N6
-      if (visStr == 'show') visStr = 'visible'; //convert vals
-      if (visStr == 'hide') visStr = 'hidden';
-		strtheObj = args[i].substring(args[i].indexOf('[')+2,args[i].indexOf(']')-1); // get the element id from "document.layers['example']"
-		changeStr = "document.getElementById('" + strtheObj + "')";
-		theObj = eval(changeStr);
-		if (theObj) theObj.style.visibility = visStr;
-	}
-  }
-}
-
-
-if (manu.indexOf("Microsoft")>=0 && vers.indexOf("3")>=0) { ie3=1 }
-
-if (document.images && ie3==0 ) {
-      var homeon = new Image();
-      homeon.src = "../vebra/images/nav/nav-home-rol.gif";
-      var homeoff = new Image();
-      homeoff.src = "../vebra/images/nav/nav-home.gif";
-      var infoon = new Image();
-      infoon.src = "../vebra/images/nav/nav-info-rol.gif";
-      var infooff = new Image();
-      infooff.src = "../vebra/images/nav/nav-info.gif";       
-
-      var agentson = new Image();
-      agentson.src = "../vebra/images/nav/nav-agent-rol.gif";
-      var agentsoff = new Image();
-      agentsoff.src = "../vebra/images/nav/nav-agent.gif";
-      var mailingon = new Image();
-      mailingon.src = "../vebra/images/nav/nav-mailing-rol.gif";
-      var mailingoff = new Image();
-      mailingoff.src = "../vebra/images/nav/nav-mailing.gif";       
-      var contacton = new Image();
-      contacton.src = "../vebra/images/nav/nav-contact-rol.gif";
-      var contactoff = new Image();
-      contactoff.src = "../vebra/images/nav/nav-contact.gif";      
-      var ukpropon = new Image();
-      ukpropon.src = "../vebra/images/nav/nav-uk-rol.gif";
-      var ukpropoff = new Image();
-      ukpropoff.src = "../vebra/images/nav/nav-uk.gif";
-      var europropon = new Image();
-      europropon.src = "../vebra/images/nav/euro-prop-rol.gif";
-      var europropoff = new Image();
-      europropoff.src = "../vebra/images/nav/euro-prop.gif";
-      var uksaleson = new Image();
-      uksaleson.src = "../vebra/images/homepage2/uk-drop-sales-rol.gif";
-      var uksalesoff = new Image();
-      uksalesoff.src = "../vebra/images/homepage2/uk-drop-sales.gif";
-      var ukrenton = new Image();
-      ukrenton.src = "../vebra/images/homepage2/uk-drop-rent-rol.gif";
-      var ukrentoff = new Image();
-      ukrentoff.src = "../vebra/images/homepage2/uk-drop-rent.gif";
-      var ukcommon = new Image();
-      ukcommon.src = "../vebra/images/homepage2/uk-drop-comm-rol.gif";
-      var ukcommoff = new Image();
-      ukcommoff.src = "../vebra/images/homepage2/uk-drop-comm.gif";
-      var frsaleson = new Image();
-      frsaleson.src = "../vebra/images/homepage2/fr-drop-sales-rol.gif";
-      var frsalesoff = new Image();
-      frsalesoff.src = "../vebra/images/homepage2/fr-drop-sales.gif"; 
-       var frcommon = new Image();
-      frcommon.src = "../vebra/images/homepage2/fr-drop-comm-rol.gif";
-      var frcommoff = new Image();
-      frcommoff.src = "../vebra/images/homepage2/fr-drop-comm.gif";           
-      var faqon = new Image();
-      faqon.src = "../vebra/images/agentsnav/nav-faq-rol.gif";           
-      var faqoff = new Image();
-      faqoff.src = "../vebra/images/agentsnav/nav-faq.gif";           
-      var portalson = new Image();
-      portalson.src = "../vebra/images/agentsnav/nav-portals-rol.gif";           
-      var portalsoff = new Image();
-      portalsoff.src = "../vebra/images/agentsnav/nav-portals.gif";           
-
-
-
-
-  }
-//-->
-</script>
-<script language="javascript">
-<!--
-
-manu=navigator.appName;
-vers=navigator.appVersion;
-ie3=0;
-
-if (manu.indexOf("Microsoft")>=0 && vers.indexOf("3")>=0) ie3=1;
-if (document.images && ie3==0 ) {
-      var agenton = new Image();
-      agenton.src = "../vebra/images/results/go-agent-rol.gif";
-      var agentoff = new Image();
-      agentoff.src = "../vebra/images/results/go-agent.gif";      
-      var addtobasketon = new Image();
-      addtobasketon.src = "../vebra/images/results/add-to-basket-rol.gif";
-      var addtobasketoff = new Image();
-      addtobasketoff.src = "../vebra/images/results/add-to-basket.gif";  
-      var fulldetailson = new Image();
-      fulldetailson.src = "../vebra/images/results/full-details-rol.gif";
-      var fulldetailsoff = new Image();
-      fulldetailsoff.src = "../vebra/images/results/full-details.gif";  
-      var fulldetailspdfon = new Image();
-      fulldetailspdfon.src = "../vebra/images/results/full-details-pdf-rol.gif";
-      var fulldetailspdfoff = new Image();
-      fulldetailspdfoff.src = "../vebra/images/results/full-details-pdf.gif"; 
-      var removeon = new Image();
-      removeon.src = "../vebra/images/results/remove-button-rol.gif";
-      var removeoff = new Image();
-	  removeoff.src = "../vebra/images/results/remove-button.gif";  
-      var showhideon = new Image();
-      showhideon.src = "../vebra/images/results/show-button-rol.gif";
-      var showhideoff = new Image();
-      showhideoff.src = "../vebra/images/results/show-button.gif";  
-      
-      
-}
-// -->
-</script>
-</head><body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">  
-<div id="ukdrop" style="position:absolute; left:118px; top:94px; width:120px; height:57px; z-index:2; visibility: hidden">
-	<a href="http://www.vebra.com/home/vebra/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=1" onmouseover="window.status='Search property for sale'; imgOn('uksales'); return true;" onmouseout="window.status='';  imgOff('uksales'); return true;">
-	<img src="../vebra/images/homepage2/uk-drop-sales.gif" border="0" name="uksales"></a><br>
-	<a href="http://www.vebra.com/home/vebra/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=2" onmouseover="window.status='Search property to let'; imgOn('ukrent'); return true;" onmouseout="window.status='';  imgOff('ukrent'); return true;">
-	<img src="../vebra/images/homepage2/uk-drop-rent.gif" border="0" name="ukrent"></a><br>
-	<a href="http://www.vebra.com/home/vebra/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=5" onmouseover="window.status='Search Commercial property'; imgOn('ukcomm'); return true;" onmouseout="window.status='';  imgOff('ukcomm'); return true;">
-	<img src="../vebra/images/homepage2/uk-drop-comm.gif" border="0" name="ukcomm"></a>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>Vebra.com plc - Privacy Policy</title><script language="JavaScript" src="http://www.vebra.com/home/js/vebranav2.js"></script><link rel="stylesheet" href="http://www.vebra.com/home/css/vebra.css" type="text/css"></head><body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">  <div id="ukdrop" style="position:absolute; left:120px; top:96px; width:140px; height:57px; z-index:2; visibility: hidden">
+	<table class="navdd" cellpadding="2" cellspacing="0"><tbody><tr><td align="center" class="navdd">&nbsp;&nbsp;<a class="navl" href="/home/search/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=1" onmouseover="window.status='Search property for sale'; return true;" onmouseout="window.status='';  return true;">Homes for sale</a>&nbsp;&nbsp;<br><a class="navl" href="/home/search/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=2" onmouseover="window.status='Search property to let';  return true;" onmouseout="window.status=''; return true;">Homes to Let</a><br><a class="navl" href="/home/search/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=5" onmouseover="window.status='Search Commercial property'; return true;" onmouseout="window.status=''; return true;">Commercial</a></td></tr></tbody></table>
 </div>
-<div id="frdrop" style="position:absolute; left:232px; top:94px; width:120px; height:38px; z-index:2; visibility: hidden">
-	<a href="http://www.vebra.com/home/vebra/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=3" onmouseover="window.status='Search property for sale'; imgOn('frsales'); return true;" onmouseout="window.status='';  imgOff('frsales'); return true;">
-	<img src="../vebra/images/homepage2/fr-drop-sales.gif" border="0" name="frsales"></a><br>
-	<a href="http://www.vebra.com/home/vebra/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=4" onmouseover="window.status='Search Commercial property'; imgOn('frcomm'); return true;" onmouseout="window.status='';  imgOff('frcomm'); return true;">
-	<img src="../vebra/images/homepage2/fr-drop-comm.gif" border="0" name="frcomm"></a>
+<div id="frdrop" style="position:absolute; left:222px; top:96px; width:140px; height:38px; z-index:2; visibility: hidden">
+	<table class="navdd" cellpadding="2" cellspacing="0"><tbody><tr><td align="center" class="navdd"><a class="navl" href="/home/search/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=3" onmouseover="window.status='Search property for sale'; return true;" onmouseout="window.status=''; return true;">French Homes</a><br>&nbsp;&nbsp;<a class="navl" href="/home/search/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=4" onmouseover="window.status='Search Commercial property'; return true;" onmouseout="window.status=''; return true;">French Commercial</a>&nbsp;&nbsp;<br></td></tr></tbody></table>
 </div>
 <div id="nav_offb" style="position:absolute; left:0px; top:0px; z-index:1; visibility: 'visible'">
-	<a href="#" onmouseover="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide','document.layers[\'nav_offb\']','document.all[\'nav_offb\']','hide');"><img src="../vebra/images/homepage/spacer.gif" border="0" height="77" width="400"></a>
+	<a href="#" onmouseover="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide','document.layers[\'nav_offb\']','document.all[\'nav_offb\']','hide');"><img src="/home/images/homepage/spacer.gif" border="0" height="77" width="400"></a>
 </div>
 <div id="nav_off" style="position:absolute; left:0px; top:111px; z-index:1; visibility: 'visible'">
-	<a href="#" onmouseover="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide','document.layers[\'nav_off\']','document.all[\'nav_off\']','hide');"><img src="../vebra/images/homepage/spacer.gif" border="0" height="90" width="400"></a>
+	<a href="#" onmouseover="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide','document.layers[\'nav_off\']','document.all[\'nav_off\']','hide');"><img src="/home/images/homepage/spacer.gif" border="0" height="90" width="400"></a>
 </div>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" background="../vebra/images/homepage2/nav-back.jpg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="/home/images/nav/nav-back.jpg">
   <tbody><tr> 
-    <td height="77" width="159" align="left" valign="top"><img src="../vebra/images/homepage2/nav-logo.jpg" width="159" height="77"></td>
-    <td height="77" align="center" valign="top"><img src="../vebra/images/homepage2/nav-tageline.jpg" width="445" height="77"></td>
-    <td height="77" align="right" valign="top"><img src="../vebra/images/homepage2/top-house.jpg" width="170" height="77" align="right"></td>    
-  </tr>
-  <tr> 
-    <td colspan="3"><img src="../vebra/images/homepage/spacer.gif" width="20" height="10"><a href="http://www.vebra.com/" onmouseover="window.status='Vebra Homepage'; imgOn('home'); MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide'); return true;" onmouseout="window.status='';  imgOff('home'); return true;"><img src="../vebra/images/nav/nav-home.gif" name="home" alt="Vebra Homepage" border="0" width="57" height="17" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')"></a><a href="http://www.vebra.com/home/vebra/info.asp" onmouseover="window.status='Find out about Vebra plc'; imgOn('info');MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide'); return true;" onmouseout="window.status=''; imgOff('info'); return true;"><img src="../vebra/images/nav/nav-info.gif" name="info" alt="Find out about Vebra plc" border="0" width="52" height="17" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')"></a><a href="http://www.vebra.com/home/vebra/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=1" onclick="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','show','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide','document.layers[\'nav_off\']','document.all[\'nav_off\']','show','document.layers[\'nav_offb\']','document.all[\'nav_offb\']','show')" onmouseover="window.status='UK property search menu'; MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','show','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide','document.layers[\'nav_off\']','document.all[\'nav_off\']','show','document.layers[\'nav_offb\']','document.all[\'nav_offb\']','show'); imgOn('ukprop'); return true;" onmouseout="window.status=''; imgOff('ukprop'); return true;"><img src="../vebra/images/nav/nav-uk.gif" name="ukprop" alt="Search for UK property" border="0" width="100" height="17"></a><a href="http://www.vebra.com/home/vebra/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=3" onclick="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','show','document.layers[\'nav_off\']','document.all[\'nav_off\']','show')" onmouseover="window.status='Euro property search menu'; imgOn('europrop'); MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','show','document.layers[\'nav_off\']','document.all[\'nav_off\']','show'); return true;" onmouseout="window.status=''; imgOff('europrop'); return true;"><img src="../vebra/images/nav/euro-prop.gif" name="europrop" alt="Search for European property" border="0" width="132" height="17"></a><a href="http://www.vebra.com/home/members" onmouseover="window.status='My Vebra, the personal property portal, available now!'; imgOn('mailing');MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide'); return true;" onmouseout="window.status = ''; imgOff('mailing'); return true;"><img src="../vebra/images/nav/nav-mailing.gif" name="mailing" alt="Your personal portal" border="0" width="82" height="17" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')"></a><a href="http://www.vebra.com/home/vebra/contact.asp" onmouseover="window.status='Contact Vebra plc'; imgOn('contact');MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide'); return true;" onmouseout="window.status = ''; imgOff('contact'); return true;"><img src="../vebra/images/nav/nav-contact.gif" name="contact" alt="Contact Vebra plc" border="0" width="96" height="17" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')"></a><a href="http://www.vebra.com/home/vebra/vebraagent.asp" onmouseover="window.status='Find a Vebra Estate Agent'; imgOn('agents'); MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide');return true;" onmouseout="window.status=''; imgOff('agents'); return true;"><img src="../vebra/images/nav/nav-agent.gif" name="agents" alt="Find an agent" border="0" width="111" height="17" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')"></a></td>
+    <td height="77" width="159" align="left" valign="top"><img src="/home/images/homepage/logo.gif" width="134" height="77"></td>
+    <td height="77" align="center" valign="top"><img src="/home/images/homepage/title.gif" width="470" height="77"></td>
+    <td height="77" align="right" valign="top"><img src="/home/images/homepage/top-house.jpg" width="170" height="77" align="right"></td>    
   </tr>
 </tbody></table>
-<center>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" bgcolor="Black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/" class="navbar" onmouseover="window.status='Vebra Homepage'; MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide'); return true;" onmouseout="window.status=''; return true;" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="navbar" href="/home/vebra/info.asp" onmouseover="window.status='Find out about Vebra plc'; MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide'); return true;" onmouseout="window.status=''; return true;" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')">INFO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="navbar" href="/home/search/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=1" onclick="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','show','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide','document.layers[\'nav_off\']','document.all[\'nav_off\']','show','document.layers[\'nav_offb\']','document.all[\'nav_offb\']','show')" onmouseover="window.status='UK property search menu'; MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','show','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide','document.layers[\'nav_off\']','document.all[\'nav_off\']','show','document.layers[\'nav_offb\']','document.all[\'nav_offb\']','show');  return true;" onmouseout="window.status='';  return true;">UK PROPERTY</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="navbar" href="/home/search/searchmap.asp?firmid=0&amp;branchid=1&amp;dbtype=3" onclick="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','show','document.layers[\'nav_off\']','document.all[\'nav_off\']','show')" onmouseover="window.status='Euro property search menu'; MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','show','document.layers[\'nav_off\']','document.all[\'nav_off\']','show'); return true;" onmouseout="window.status='';  return true;">EURO PROPERTY</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="navbar" href="/home/members" onmouseover="window.status='My Vebra, the personal property portal, available now!'; MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide'); return true;" onmouseout="window.status = ''; return true;" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')">MY VEBRA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="navbar" href="/home/vebra/contact.asp" onmouseover="window.status='Contact Vebra plc'; MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide'); return true;" onmouseout="window.status = '';  return true;" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="navbar" href="/home/vebra/vebraagent.asp" onmouseover="window.status='Find a Vebra Estate Agent';  MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide');return true;" onmouseout="window.status='';  return true;" onmousedown="MM_showHideLayers('document.layers[\'ukdrop\']','document.all[\'ukdrop\']','hide','document.layers[\'frdrop\']','document.all[\'frdrop\']','hide')">FIND AN AGENT</a></td>
+	
+  </tr>
+</tbody></table><center>
 <br>
 <table width="620"><tbody><tr><td>
 <font face="veradana,arial" size="2">
@@ -238,12 +67,13 @@ By using our Web site you consent to the collection and use of this information 
 </p><p>
 </p></font></td></tr></tbody></table>
 
-<br><br>
+
+		<br><br>
 		<table align="center" width="640"><tbody><tr><td align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="1" face="arial, helvetica" color="black">Copyright © 2000 VEBRA plc or its licensors all rights reserved, see our
-<a href="http://www.vebra.com/home/vebra/terms.asp" target="_blank"><font color="black"><u>Terms and Conditions</u></font></a> and 
-<a href="http://www.vebra.com/home/vebra/privacy.asp" target="_blank"><font color="black"><u>Privacy Policy</u></font></a>
-</font></td></tr></tbody></table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="FooterText">Copyright © 2000-2002 VEBRA plc or its licensors all rights reserved, see our
+<a href="http://www.vebra.com/home/vebra/terms.asp" class="FooterText" target="_blank">Terms and Conditions</a> and 
+<a href="http://www.vebra.com/home/vebra/privacy.asp" class="FooterText" target="_blank">Privacy Policy</a></span>
+</td></tr></tbody></table>
 <br><br>
 
 </center></body></html>
