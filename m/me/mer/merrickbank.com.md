@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrickbank.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411083724id_/http%3A//www.merrickbank.com/privacy.tcl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrickbank.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207181622id_/http%3A//www.merrickbank.com/privacy.tcl) for the most accurate reproduction.*
 
 # Merrick Bank
 
@@ -27,12 +27,12 @@ We may disclose all of the information that we collect about you and our former 
 We may disclose nonpublic personal information about you and our former customers to the following types of "affiliates" (i.e., companies related to us by common control or ownership) and "nonaffiliated third parties" (i.e., third parties that are not members of our corporate family): 
 
   * Affiliates of Merrick Bank Corporation and its parent, CardWorks, Inc.;
-  * Financial service providers such as VISA USA, Inc., MasterCard International, Inc., other banks and financial institutions, and insurance companies; and
+  * Financial service providers such as VISA USA, Inc., MasterCard International, Incorporated, other banks and financial institutions, and insurance companies; and
   * Non-financial companies, such as retailers, direct marketers, marketing partners, and others.
 
 
 
-If you prefer that we not disclose nonpublic personal information about you (and your authorized user or co-account holder, if applicable) or with respect to your account to such nonaffiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law). If you wish to wish to opt out of disclosures to nonaffiliated third parties, you may do so by completing the online [Opt Out form](https://applymerrick.com/secure/optout/). **Please note that we are unable to process requests without an account number.**
+If you prefer that we not disclose nonpublic personal information about you (and your authorized user or co-account holder, if applicable) or with respect to your account to such nonaffiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law). If you wish to opt out of disclosures to nonaffiliated third parties, you may do so by completing the online [Opt Out form](https://applymerrick.com/secure/optout/). **Please note that we are unable to process requests without an account number.**
 
 In addition, we may disclose the following information to companies that perform marketing services on our behalf or to other financial institutions with which we have joint marketing agreements: 
 
@@ -52,13 +52,11 @@ If you decide to close your account or become an inactive customer, we will cont
 We restrict access to nonpublic personal information about you to those employees who need to know the information to provide products or services to you. We maintain physical, electronic, and procedural safeguards in accordance with federal regulations to guard your nonpublic personal information. See _[Internet Privacy Policy](https://web.archive.org/security#Internet_Privacy_Policy)_ or _[Internet Security](https://web.archive.org/security#Internet_Security)_ for more information. 
 
 **Keeping Customer Information Accurate:**  
-Keeping customer account information accurate is important to us. If you have reason to believe our records are incomplete or inaccurate, you can call us at 877-790-5648 or write to us at: Customer Service, P.O. Box 9201, Old Bethpage, NY 11804 (both listed on monthly statement). 
+Keeping customer account information accurate is important to us. If you have reason to believe our records are incomplete or inaccurate, you can call us or write to us at: Customer Service, P.O. Box 9201, Old Bethpage, NY 11804 (or call the Customer Service number on the monthly statement). 
 
 **Thanks for Choosing Merrick Bank:**  
 Thank you for choosing Merrick Bank to provide you with the products and services you have selected. We appreciate your business and are committed to providing you confidential service. 
 
-Privacy Policy Version: 20011127 
-
-[Click here for a printer friendly version](https://web.archive.org/web/20030411083724id_/http%3A//www.merrickbank.com/privacy.tcl?print_friendly=%5fprinter%5ffriendly&title=Privacy)
+[Click here for a printer friendly version](https://web.archive.org/web/20031207181622id_/http%3A//www.merrickbank.com/privacy.tcl?print_friendly=%5fprinter%5ffriendly&title=Privacy)
 
 |  | 
