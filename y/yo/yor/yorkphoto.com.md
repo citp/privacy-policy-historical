@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yorkphoto.com privacy policy that was archived on 2002-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021001161803id_/http%3A//www.yorkphoto.com/privacy/t_%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkphoto.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621210358id_/http%3A//www.yorkphoto.com/privacy/t_%3D0) for the most accurate reproduction.*
 
 # York: Privacy Policy
 
