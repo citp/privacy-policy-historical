@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603180328id_/http%3A//www.statesman.com/search/content/standing/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203225558id_/http%3A//www.statesman.com/search/content/standing/privacypolicy.html) for the most accurate reproduction.*
 
-# statesman.com
+# 
 
 ### PRIVACY POLICY
 
@@ -17,7 +17,7 @@ e-mail: [lsanders@statesman.com](mailto:lsanders@statesman.com)
 
 ### CHILDREN'S PRIVACY
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information.  If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number).
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information.  If you're under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number).
 
 ### TYPES OF INFORMATION WE COLLECT
 
@@ -63,7 +63,7 @@ We will use the information you provide us to process your transaction and to co
 
 ### OPTING OUT
 
-If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us by [using this form](http://www.austin360.com/shared/help/privacy_feedback.html)
+If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us by [using this form](http://www.austin360.com/search/content/shared/help/privacy_feedback.html).
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by going back to our site). 
 
