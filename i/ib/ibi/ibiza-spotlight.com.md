@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610072656id_/http%3A//www.ibiza-spotlight.com/privacy_i.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206070002id_/http%3A//www.ibiza-spotlight.com/privacy_i.htm) for the most accurate reproduction.*
 
 # Ibiza Spotlight Privacy Policy
 
@@ -26,4 +26,4 @@ Cala de Bou
 07820 San Antonio  
 Ibiza, Baleares  
 Spain  
-[Contact us](https://web.archive.org/web/20020610072656id_/http%3A//www.ibiza-spotlight.com/contact/contact_i.htm)
+[Contact us](https://web.archive.org/web/20021206070002id_/http%3A//www.ibiza-spotlight.com/contact/contact_i.htm)
