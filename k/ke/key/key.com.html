@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the key.com privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604065715id_/http%3A//www.key.com/templates/generic.jhtml%3FnodeID%3DK) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the key.com privacy policy that was archived on 2002-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021214015448id_/http%3A//www.key.com/templates/generic.jhtml%3FnodeID%3DK) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="keywords" content="privacy, privacy department, privacy policy, key privacy">
@@ -142,30 +142,6 @@ function displayAccept(PFMAccept) {
 			acceptbutton = window.open('/templates/UrlRedirectServlet.jhtml?url=/PFM+Application')
 }
 
-//random images
-function r() {
-	picNumber = Math.round(Math.random() * 2);
-	}
-
-
-function SRrandomimg() {
-    if (preload) {
-		r();
-		SRpicSelect();
-	}
-}
-
-function SRpicSelect() {
-	if   (picNumber == 0) {
-	     document.pic.src = SRpic1.src;
-     }
-	if (picNumber == 1)	{
-          document.pic.src = SRpic2.src;
-	}
-	if (picNumber == 2) {
-          document.pic.src = SRpic3.src;
-     }
-}
 
 //FONTIFY
 function Fontify(text, hspace, vspace, path) {
@@ -296,6 +272,20 @@ function showStatusOut() {
 function toolWindow(where) {
 	newWindow = window.open( where, 'TOOL', 'width=700,height=420,top=20,left=20,toolbar=0,location=0,directories=0,status=0,menuBar=1,scrollBars=1,resizable=1' ); 
 }
+
+function openPup(theURL,winName,features) {
+	PupWindow = window.open(theURL,winName,features);
+    PupWindow.focus();
+}
+
+function dropdown1(){
+window.location=document.form1.links.options[document.form1.links.selectedIndex].value
+}
+
+function dropdown2(){
+window.location=document.form2.links.options[document.form2.links.selectedIndex].value
+}
+
 </script>
 <link rel="STYLESHEET" type="text/css" href="/mainred.css">
 </head>
@@ -305,7 +295,7 @@ function toolWindow(where) {
 	<tbody><tr>
 		<td rowspan="99" width="142" valign="TOP">
 <!-- KEY LOGO -->
-<p align="center"><a href="/;$sessionid$ONRGQGRNOJFBXHCNII2SFFA"><img src="/gfx/logo_key.gif" width="142" height="45" alt="Key Logo" border="0"></a>
+<p align="center"><a href="/;$sessionid$YCI2JWA1FGZMVHCNII2SFEY"><img src="/gfx/logo_key.gif" width="142" height="45" alt="Key Logo" border="0"></a>
 		
 
 
@@ -348,23 +338,23 @@ function toolWindow(where) {
 
     		
 
-<td width="31%"><a href="/cgi-bin/KeyLoad.pl;$sessionid$ONRGQGRNOJFBXHCNII2SFFA" onmouseover="roll('bank','bankov');" onmouseout="roll('bank','bank');"><img src="/gfx/nav/nav_onlinebanking_up.gif" width="165" height="13" alt="Online Banking and Investing" border="0" hspace="2" name="bank" id="bank"></a></td>
+<td width="31%"><a href="/UrlRedirectServlet.jhtml;$sessionid$YCI2JWA1FGZMVHCNII2SFEY?url=/Internet+Banking" onmouseover="roll('bank','bankov');" onmouseout="roll('bank','bank');"><img src="/gfx/nav/nav_onlinebanking_up.gif" width="165" height="13" alt="Online Banking and Investing" border="0" hspace="2" name="bank" id="bank"></a></td>
 
 						
 
 <td width="1%"><img src="/gfx/1pblue.gif" width="1" height="14" alt="" border="0"></td>
 
 <!-- About Key button-->
-<td width="15%"><a href="/templates/t-pl2.jhtml;$sessionid$ONRGQGRNOJFBXHCNII2SFFA?nodeID=D-1" onmouseover="roll('apply','applyov');" onmouseout="roll('apply','apply');"><img src="/gfx/nav/nav_applyonline_up.gif" width="74" height="13" alt="Apply Online for Accounts &amp; Services" border="0" hspace="2" name="apply" id="apply"></a></td>
+<td width="15%"><a href="/templates/t-pl2.jhtml;$sessionid$YCI2JWA1FGZMVHCNII2SFEY?nodeID=D-1" onmouseover="roll('apply','applyov');" onmouseout="roll('apply','apply');"><img src="/gfx/nav/nav_applyonline_up.gif" width="74" height="13" alt="Apply Online for Accounts &amp; Services" border="0" hspace="2" name="apply" id="apply"></a></td>
 <td width="1%"><img src="/gfx/1pblue.gif" width="1" height="14" alt="" border="0"></td>
 <!-- Sitemap button-->
-<td width="13%"><a href="/smap.jhtml;$sessionid$ONRGQGRNOJFBXHCNII2SFFA" onmouseover="roll('sitemap','sitemapov');" onmouseout="roll('sitemap','sitemap');"><img src="/gfx/nav/nav_sitemap_up.gif" width="49" height="13" alt="Site Map" border="0" hspace="2" name="sitemap" id="sitemap"></a></td>
+<td width="13%"><a href="/smap.jhtml;$sessionid$YCI2JWA1FGZMVHCNII2SFEY" onmouseover="roll('sitemap','sitemapov');" onmouseout="roll('sitemap','sitemap');"><img src="/gfx/nav/nav_sitemap_up.gif" width="49" height="13" alt="Site Map" border="0" hspace="2" name="sitemap" id="sitemap"></a></td>
 <td width="1%"><img src="/gfx/1pblue.gif" width="1" height="14" alt="" border="0"></td>
 <!-- Search Center button-->
-<td width="10%"><a href="/templates/t-sr1.jhtml;$sessionid$ONRGQGRNOJFBXHCNII2SFFA?nodeID=B" onmouseover="roll('search','searchov');" onmouseout="roll('search','search');"><img src="/gfx/nav/nav_search_up.gif" width="34" height="13" alt="Search the Site" border="0" hspace="2" name="search" id="search"></a></td>
+<td width="10%"><a href="/templates/t-sr1.jhtml;$sessionid$YCI2JWA1FGZMVHCNII2SFEY?nodeID=B" onmouseover="roll('search','searchov');" onmouseout="roll('search','search');"><img src="/gfx/nav/nav_search_up.gif" width="34" height="13" alt="Search the Site" border="0" hspace="2" name="search" id="search"></a></td>
 <td width="1%"><img src="/gfx/1pblue.gif" width="1" height="14" alt="" border="0"></td>
 <!-- Contact Us button-->
-<td width="15%"><a href="/templates/t-ak2.jhtml;$sessionid$ONRGQGRNOJFBXHCNII2SFFA?nodeID=A-10" onmouseover="roll('contact','contactov');" onmouseout="roll('contact','contact');"><img src="/gfx/nav/nav_contact_up.gif" width="56" height="13" alt="Contact Us" border="0" hspace="2" name="contact" id="contact"></a></td>
+<td width="15%"><a href="/templates/t-ak2.jhtml;$sessionid$YCI2JWA1FGZMVHCNII2SFEY?nodeID=A-10" onmouseover="roll('contact','contactov');" onmouseout="roll('contact','contact');"><img src="/gfx/nav/nav_contact_up.gif" width="56" height="13" alt="Contact Us" border="0" hspace="2" name="contact" id="contact"></a></td>
 </tr>
 </tbody></table>
 <!-- xxxxxxxxxx END Top Nav xxxxxxxxxx -->
