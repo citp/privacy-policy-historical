@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208195828id_/http%3A//www.wendys.com/w-8-0.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2005-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050331075624id_/http%3A//www.wendys.com/w-8-0.shtml) for the most accurate reproduction.*
 
 # Wendy's > Privacy Statement
 
