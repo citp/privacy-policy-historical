@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813124822id_/http%3A//kamat.com/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114412id_/http%3A//www.kamat.com/ppolicy.htm) for the most accurate reproduction.*
 
 # Kamat's Potpourri: Privacy Policy
 
-Last Updated On: May 17,2001
+Last Updated On: December 04,2001
 
 Privacy Statement for Kamat's Potpourri 
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy of our patrons. The following discloses the information gathering and dissemination practices for Kamat's Potpourri website. 
+We have created this privacy statement in order to demonstrate our firm commitment to privacy of our patrons. The following discloses the information gathering and dissemination practices for Kamat's Potpourri website (domains kama.com and kamat.org)
 
 Information Automatically Logged 
 
@@ -14,7 +14,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 Advertisers 
 
-We use an outside advertisement company to display advertisements on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use outside advertisement companies to display advertisements on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
 Personal Information 
 
@@ -24,7 +24,7 @@ Since we do not collect any personal information (such as age, income) on this W
 
 Unsolicited E-mail
 
-You will not receive an unsolicited e-mail from us for any reason.
+You will not receive an unsolicited email from us for any reason. Please use caution while disclosing your email address (which is optional) in our Guestbook ([add](https://web.archive.org/guest/addguest.htm) \- [view](https://web.archive.org/guest/)); it is a public forum and your email address becomes visible to everybody.
 
 External Links
 
@@ -36,4 +36,6 @@ This site makes guest books, chat rooms, forums, message boards, and/or news gro
 
 Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [kamats@kamat.com](mailto:kamats@kamat.com). For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20010813124822id_/http%3A//kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20010813124822id_/http%3A//kamat.com/copyrite.htm), and [Kamat Colophon](https://web.archive.org/colophon/index.htm) sections.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: kamats @ kamat.com. 
+
+For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20020602114412id_/http%3A//www.kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20020602114412id_/http%3A//www.kamat.com/copyrite.htm), and [Kamat Colophon](https://web.archive.org/colophon/index.htm) sections.
