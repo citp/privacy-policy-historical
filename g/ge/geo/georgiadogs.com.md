@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgiadogs.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214081939id_/http%3A//georgiadogs.fansonly.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgiadogs.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605043735id_/http%3A//georgiadogs.fansonly.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Georgiadogs.com Privacy Policy
 
