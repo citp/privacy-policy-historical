@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weeklytips.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603015926id_/http%3A//www.weeklytips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklytips.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207005201id_/http%3A//www.weeklytips.com/privacy.html) for the most accurate reproduction.*
 
-# Weekly Tips - Internet Marketing resources, tips, tricks, techniques to increase revenue from your website.
+# Privacy policy - weeklytips.com
 
 Welcome to weeklytips.com's privacy policy. We at  weeklytips.com view the protection of individual privacy as critically important, and we are committed to maintaining the highest standards in the industry.  weeklytips.com's proprietary technology allows us to deliver relevant, targeted content to individuals, but not at the expense of individual privacy. It is our fundamental goal at  weeklytips.com to remain the industry leader in internet-enabled marketing and advertising, while maintaining our commitment to these standards.
 
@@ -25,8 +25,3 @@ weeklytips.com may also share personally-identifiable information with third-par
 Finally, weeklytips.com may share information on individuals as it deems necessary to comply and cooperate with government and law enforcement officials.
 
 For more information, or if you have questions or concerns regarding Advertising.com's Privacy Statement, please send us an e-mail at [privacy@weeklytips.com](mailto:privacy@weeklytips.com), or you can send correspondence to the following address:
-
-Privacy  
-Multiple Stream Marketing  
-141 Ulster Ave - 2nd floor  
-Saugerties, New York 12477
