@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webbyawards.com privacy policy that was archived on 2002-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020606020714id_/http%3A//www.webbyawards.com/main/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webbyawards.com privacy policy that was archived on 2002-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215153730id_/http%3A//www.webbyawards.com/main/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -45,6 +45,9 @@ document.write(css);
 		peoples_voice_on = new Image();
 		peoples_voice_on.src = "/main/images/nav/peoples_voice_in.gif";
 
+		business_awards_on = new Image();
+		business_awards_on.src = "/main/images/nav/business_awards_in.gif";
+
 		sponsors_on = new Image();
 		sponsors_on.src = "/main/images/nav/sponsors_in.gif";
 
@@ -77,8 +80,33 @@ document.write(css);
 		else {}
 	}
 // end script for section navigation rollovers
+
+//Add in image swapping js --Netsprout
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
 //-->
 </script>
+
 <script language="javascript">
 <!--
 // start script for launching external child window
@@ -102,29 +130,72 @@ function winLaunch (url) {
 	</tr>
 </tbody></table>
 <table width="720" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr bgcolor="#8cc2cf">
-		<td><img src="/main/images/spacer.gif" border="0" width="10" height="45" alt=""></td>
-		<td valign="bottom">
-		<font class="small">June 05, 2002</font><br clear="all"><img src="/main/images/spacer.gif" border="0" width="135" height="6" alt=""></td>
-			<td><img src="/main/images/quotes/press_quote_1.gif" border="0" width="565" height="45" alt=""></td>
-		<td><img src="/main/images/spacer.gif" border="0" width="10" height="1" alt=""></td>
-	</tr>
-	<tr bgcolor="#000000">
-		<td colspan="4"><img src="/main/images/spacer.gif" border="0" width="1" height="1" alt=""></td>
+  <tbody><tr bgcolor="#8cc2cf">
+    <td><img src="/main/images/spacer.gif" border="0" width="10" height="45" alt=""></td>
+    <td valign="bottom">
+      <font class="small">December 15, 2002</font><br clear="all"><img src="/main/images/spacer.gif" border="0" width="135" height="6" alt=""></td>
+    <td><img src="/main/images/quotes/press_quote_7.gif" border="0" width="565" height="45" alt=""></td>
+    <td><img src="/main/images/spacer.gif" border="0" width="10" height="1" alt=""></td>
+  </tr>
+  <tr bgcolor="#000000">
+    <td colspan="4"><img src="/main/images/spacer.gif" border="0" width="1" height="1" alt=""></td>
+  </tr>
+</tbody></table>
+
+<!--BEGIN WEBBY MAIN NAV-->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><img src="/main/images/spacer.gif" width="20" height="2"></td>
+		
+
+<td>
+                <a href="/main/in_motion/index.html" onmouseover="go('in_motion')" onmouseout="stop('in_motion')"><img name="in_motion" src="/main/images/nav/in_motion_off.gif" border="0" width="53" height="18" alt="about"></a>
+</td>
+
+    <td><img src="/main/images/spacer.gif" width="20" height="2"></td>
+
+<td>
+                <a href="/main/webby_awards/index.html" onmouseover="go('webby_awards')" onmouseout="stop('webby_awards')"><img name="webby_awards" src="/main/images/nav/webby_awards_off.gif" border="0" width="95" height="18" alt="the webby awards"></a>
+</td>
+
+    <td><img src="/main/images/spacer.gif" width="20" height="2"></td>
+
+<td>
+                <a href="/peoplesvoice/index.html" target="_new" onmouseover="go('peoples_voice')" onmouseout="stop('peoples_voice')"><img name="peoples_voice" src="/main/images/nav/peoples_voice_off.gif" border="0" width="93" height="18" alt="the people's voice"></a>
+</td>
+
+    <td><img src="/main/images/spacer.gif" width="20" height="2"></td>
+
+<td>
+                <a href="/businessawards/index.html" onmouseover="go('business_awards')" onmouseout="stop('business_awards')"><img name="business_awards" src="/main/images/nav/business_awards_off.gif" border="0" width="109" height="18" alt="business awards"></a>
+</td>
+
+    <td><img src="/main/images/spacer.gif" width="20" height="2"></td>
+
+<td>
+                <a href="/main/submit_jump.html" onmouseover="go('entries')" onmouseout="stop('entries')"><img name="entries" src="/main/images/nav/entries_off.gif" border="0" width="101" height="18" alt="enter your site"></a>
+</td>
+
+    <td><img src="/main/images/spacer.gif" width="20" height="2"></td>
+
+<td>
+                <a href="/main/press/index.html" onmouseover="go('press')" onmouseout="stop('press')"><img name="press" src="/main/images/nav/press_off.gif" border="0" width="44" height="18" alt="press"></a>
+</td>
+
+    <td><img src="/main/images/spacer.gif" width="20" height="2"></td>
+
+<td>
+                <a href="/main/sponsors/index.html" onmouseover="go('sponsors')" onmouseout="stop('sponsors')"><img name="sponsors" src="/main/images/nav/sponsors_off.gif" border="0" width="66" height="18" alt="sponsors"></a>
+</td>
+
+
+    <td><img src="/main/images/spacer.gif" width="20" height="2"></td>
+
 	</tr>
 </tbody></table>
-<table width="720" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td>
-		<img src="/main/images/spacer.gif" border="0" width="5" height="19" alt=""><a href="/main/in_motion/index.html" onmouseover="go('in_motion')" onmouseout="stop('in_motion')"><img name="in_motion" src="/main/images/nav/in_motion_off.gif" border="0" width="100" height="19" alt="webbys in motion"></a>
-		<img src="/main/images/spacer.gif" border="0" width="5" height="19" alt=""><a href="/main/webby_awards/index.html" onmouseover="go('webby_awards')" onmouseout="stop('webby_awards')"><img name="webby_awards" src="/main/images/nav/webby_awards_off.gif" border="0" width="108" height="19" alt="the webby awards"></a>
-		<img src="/main/images/spacer.gif" border="0" width="31" height="19" alt=""><a href="/peoplesvoice/index.html" onmouseover="go('peoples_voice')" onmouseout="stop('peoples_voice')" target="_new"><img name="peoples_voice" src="/main/images/nav/peoples_voice_off.gif" border="0" width="107" height="19" alt="the people's voice"></a>
-		<img src="/main/images/spacer.gif" border="0" width="31" height="19" alt=""><a href="/main/submit/index.html" onmouseover="go('entries')" onmouseout="stop('entries')"><img name="entries" src="/main/images/nav/entries_off.gif" border="0" width="96" height="19" alt="call for entries"></a>
-		<img src="/main/images/spacer.gif" border="0" width="31" height="19" alt=""><a href="/main/press/index.html" onmouseover="go('press')" onmouseout="stop('press')"><img name="press" src="/main/images/nav/press_off.gif" border="0" width="32" height="19" alt="press"></a>
-		<img src="/main/images/spacer.gif" border="0" width="40" height="19" alt=""><a href="/main/sponsors/index.html" onmouseover="go('sponsors')" onmouseout="stop('sponsors')"><img name="sponsors" src="/main/images/nav/sponsors_off.gif" border="0" width="56" height="19" alt="sponsors"></a>
-		<img src="/main/images/spacer.gif" border="0" width="29" height="19" alt=""></td>
-	</tr>
-</tbody></table>
+<!--END WEBBY MAIN NAV-->
+
+
 <table width="720" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td bgcolor="#eef6f7"><img src="images/spacer.gif" border="0" width="10" height="1" alt=""></td>
@@ -151,10 +222,10 @@ function winLaunch (url) {
 </tbody></table>
 <img src="/main/images/spacer.gif" border="0" width="125" height="15" alt=""><br>
 		<img src="images/spacer.gif" border="0" width="125" height="35" alt=""><br clear="all">
-		<table width="122" cellpadding="1" cellspacing="0" border="0" bgcolor="#000000">
+		<table width="122" cellpadding="1" cellspacing="0" border="0" bgcolor="#ffffff">
 <!--Use this size when doing promotional animations width="120" height="125"-->
 	<tbody><tr>
-		<td><a href="/peoplesvoice/index.html" target="new"><img src="/main/images/medallion_anim.gif" border="0" width="120" height="240" alt="People's Voice Awards"><br></a></td>
+		<td><!--<a href="/peoplesvoice/index.html" target="new"><img src="/main/images/medallion_anim.gif" border="0" width="120" height="240" alt="People's Voice Awards"><br>--></td>
 	</tr>
 </tbody></table><br>
 <img src="/main/images/spacer.gif" border="0" width="125" height="15" alt=""><br>
@@ -381,7 +452,7 @@ function winLaunch (url) {
 		<td bgcolor="#cde6e8"><img src="images/spacer.gif" border="0" width="10" height="1" alt=""></td>
 <!--right column-->
 		<td valign="top" bgcolor="#cde6e8"><img src="images/spacer.gif" border="0" width="125" height="10" alt=""><br clear="all">
-		<a href="/main/webby_awards/nominees.html"><img src="/main/images/subhead/2002_nominees.gif" width="125" height="32" border="0" alt="2002 nominees"></a><br>
+		<a href="/main/webby_awards/nominees.html"><img src="/main/images/subhead/2002_winners.gif" width="125" height="32" border="0" alt="2002 winners"></a><br>
 <img src="/main/images/spacer.gif" width="1" height="4" border="0" alt=""><br>
 <a href="/main/webby_awards/nominees.html#activism"><img src="/main/images/nav/activism.gif" width="41" height="11" border="0" alt="activism"></a><br>
 <a href="/main/webby_awards/nominees.html#best"><img src="/main/images/nav/best_practices.gif" width="73" height="11" border="0" alt="best practices"></a><br>
@@ -415,6 +486,9 @@ function winLaunch (url) {
 <a href="/main/webby_awards/nominees.html#weird"><img src="/main/images/nav/weird.gif" width="25" height="11" border="0" alt="weird"></a><br>
 
 <img src="/main/images/spacer.gif" width="1" height="11" border="0" alt=""><br>
+<a href="/main/webby_awards/nominees.html#rising"><img src="/main/images/nav/rising_star.gif" width="100" height="11" border="0" alt="rising star"></a><br>
+<a href="/main/webby_awards/nominees.html#us_property"><img src="/main/images/nav/top_us.gif" width="100" height="11" border="0" alt="top us property"></a><br>
+<a href="/main/webby_awards/nominees.html#global"><img src="/main/images/nav/top_global.gif" width="115" height="11" border="0" alt="top global property"></a><br>
 
 <img src="/main/images/spacer.gif" width="1" height="15" border="0" alt=""><br>
 		</td>
@@ -422,25 +496,35 @@ function winLaunch (url) {
 	</tr>
 </tbody></table>
 
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
 <table width="720" cellpadding="8" cellspacing="0" border="0">
 	<tbody><tr>
-		<td align="center">
-		<p class="footer"><a href="/main/webby_awards/index.html">the webby awards</a> &nbsp; &nbsp;
-		<a href="javascript:winLaunch('/peoplesvoice/index.html')">people's voice</a> &nbsp; &nbsp;
-		<a href="/main/in_motion/index.html">webbys in motion</a> &nbsp; &nbsp;
-		<a href="/main/submit/index.html">call for entries</a> &nbsp; &nbsp;
-		<a href="/main/press/index.html">press</a> &nbsp; &nbsp;
-		<a href="/main/sponsors/index.html">sponsors + partners</a>
-
-		<br><a href="/main/contact.html">contact us</a> &nbsp; &nbsp;
-		<a href="/main/search.html">search</a> &nbsp; &nbsp;
-		<a href="/main/sitemap.html">site map</a> &nbsp; &nbsp;
-		<a href="/main/privacy.html">privacy policy</a> &nbsp; &nbsp;
-		<a href="/main/security.html">security policy</a> &nbsp; &nbsp;
-		<a href="/main/product.html">faq</a>
-
-		<br>© 2002 The Webby Awards, All Rights Reserved
-		</p></td>
+		
+    <td align="center">  
+      <p class="footer"> <a href="/main/in_motion/index.html">
+        about</a> &nbsp; &nbsp; <a href="/main/webby_awards/index.html">webby 
+        awards</a> &nbsp; &nbsp; <a href="javascript:winLaunch('/peoplesvoice/index.html')">people's 
+        voice</a> &nbsp; &nbsp; <a href="/businessawards/index.html">business 
+        awards</a> &nbsp; &nbsp; <a href="/main/submit_jump.html">enter your site 
+        </a> &nbsp; &nbsp; <a href="/main/press/index.html">press</a> &nbsp; &nbsp; 
+        <a href="/main/sponsors/index.html">sponsors + partners</a> &nbsp; &nbsp; 
+        <br>
+        <a href="/main/index.html">home</a> &nbsp; &nbsp; 
+		<a href="/main/contact.html">contact us</a> &nbsp; &nbsp; <a href="/main/search.html">search</a> 
+        &nbsp; &nbsp; <a href="/main/sitemap.html">site map</a> &nbsp; &nbsp; 
+        <a href="/main/privacy.html">privacy policy</a> &nbsp; &nbsp; <a href="/main/security.html">security 
+        policy</a> &nbsp; &nbsp; <a href="/main/product.html">general faq</a> 
+        <br>
+        <br>
+        This site powered by <a href="#" onclick="MM_openBrWindow('http://www.rackspace.com/index.php?supbid=webbyawards5','rackspace','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=730,height=550')">Rackspace<br>
+        </a><br>
+        © 2002 The Webby Awards, Inc. All Rights Reserved </p></td>
 	</tr>
 </tbody></table>
 <table width="720" cellpadding="0" cellspacing="0" border="0">
