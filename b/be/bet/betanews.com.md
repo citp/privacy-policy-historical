@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620185513id_/http%3A//www.efront.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2000-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001014005730id_/http%3A//www.efront.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# eFront Media, Inc. Privacy Policy
 
-**Privacy Statement for eFront.com**   
+[Company Overview](https://web.archive.org/web/20001019020750id_/http://www.efront.com/about.php)  
+[Corporate Offices](https://web.archive.org/web/20001019020750id_/http://www.efront.com/offices.php)  
+[Press Room](https://web.archive.org/web/20001019020750id_/http://www.efront.com/press.php)  
+[Strategic Partners](https://web.archive.org/web/20001019020750id_/http://www.efront.com/partners.php)  
+[Investor Relations](https://web.archive.org/web/20001019020750id_/http://www.efront.com/investors.php)  
+[Career Opportunities](https://web.archive.org/web/20001019020750id_/http://www.efront.com/careers.php)  
+[Advertising](https://web.archive.org/web/20001019020750id_/http://www.efront.com/advertising.php)  
+[Contact Us](https://web.archive.org/web/20001019020750id_/http://www.efront.com/contact.php)  
+[Management](https://web.archive.org/web/20001019020750id_/http://www.efront.com/management.php)  
+[Copyright Infringement](https://web.archive.org/web/20001019020750id_/http://www.efront.com/copyright.php)  
+[Terms of Use](https://web.archive.org/web/20001019020750id_/http://www.efront.com/terms.php)  
+[Privacy Policy](https://web.archive.org/web/20001019020750id_/http://www.efront.com/privacy.php) |  **Privacy Statement for eFront.com**   
 
 
 eFront Media, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **eFront.com** and network sites. The eFront.com, and network Web sites ("sites") are operated by eFront Media, Inc., located in Costa Mesa, California. You can reach us with questions regarding this statement via e-mail at [privacy@efront.com](mailto:privacy@eFront.com). 
@@ -17,7 +28,9 @@ This site contains links to other sites. **eFront Media, Inc.** is not responsib
 
 Our online surveys ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level). The customer's contact information is only used to contact the visitor when necessary. Users may opt-out of receiving mailings they have signed up for; see the choice/opt-out section below. Demographic and profile data is also collected on our sites. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To find out more about how Doubleclick manages the privacy of information in conjunction with serving ads on this site, please go to <http://doubleclick.com/privacy_policy>. 
+
+This site, eFront, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 
 **Public Forums**
 
