@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604004059id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204205647id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Network: Privacy Policy [Jan. 31, 2000]
 
@@ -8,7 +8,8 @@
 |  |    
 
 
-[](https://web.archive.org/lpt/a//mediakit/privacy.html)
+[](https://web.archive.org/lpt/a//mediakit/privacy.html)  
+
 
 ## O'Reilly & Associates, Inc. Privacy Policy
 
@@ -20,6 +21,8 @@ Information O'Reilly gathers and tracks
 Personal information  
 Aggregated tracking information  
 Cookies  
+Third Party Cookies  
+Third Party Advertising  
 Notification of Changes  
 How to update, correct, or delete your information
 
@@ -59,13 +62,22 @@ On O'Reilly Network sites, we and some of our advertisers use a third-party ad s
 
 You can set your browser to warn you before accepting cookies or to block cookies. If you block cookies, you may not be able to use certain site features or functions. 
 
+### Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+### Third Party Advertising
+
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here:  
+<http://www.doubleclick.net/us/corporate/privacy>
+
 ### Notification of Changes
 
-If we change our Privacy Policy, we will post those changes on www.oreilly.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information. 
+If we change our Privacy Policy, we will post those changes on www.oreilly.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
 
 ### How to update, correct, or delete your information
 
-**Email** : To update or unsubscribe from our email newsletters or product announcements, go to elists.oreilly.com. To get help from a human, send email to help@oreillynet.com or call 800-998-9938 or 707-829-0515. 
+**Email** : To update or unsubscribe from our email newsletters or product announcements, go to elists.oreilly.com. To get help from a human, send email to [help@oreillynet.com](mailto:help@oreillynet.com) or call 800-998-9938 or 707-829-0515. 
 
 **Snailmail** : To change your address or delete your name from our mailing list for paper catalogs, brochures, or advertisements, send email to catalog@oreilly.com or call 800-998-9938 or 707-829-0515.
 
@@ -74,3 +86,9 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 |  | 
 
 Sponsored by:
+
+[](http://ad.doubleclick.net/clk;3415514;6477536;m?http://www.macromedia.com/software/coldfusion/special/promotions/)
+
+[](http://conferences.oreilly.com/biocon/)
+
+[](http://www.oreilly.com/catalog/p2presearch/)
