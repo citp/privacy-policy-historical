@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the familytreemagazine.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008184850id_/http%3A//www.familytreemagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familytreemagazine.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607213017id_/http%3A//www.familytreemagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Family Tree Magazine
 
-Our Privacy Policy
+|  |   |  Our Privacy Policy
 
 At familytreemagazine.com, your online privacy is our highest priority. We appreciate your confidence in us and will continue to work diligently to uphold that trust and provide you with a safe and secure environment in which to use and enjoy our services. 
 
