@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perdue.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212151300id_/http%3A//www.perdue.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perdue.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408184538id_/http%3A//www.perdue.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Legal Statement
 
@@ -10,7 +10,7 @@
 ---|---|---|---|---  
 |  |  |  |  | [](http://www.perdue.com/)  
 ---  
-|  | [](https://web.archive.org/web/20001212151300id_/http%3A//recipes/recipes_main.html)  
+|  | [](https://web.archive.org/web/20010408184538id_/http%3A//recipes/recipes_main.html)  
 ---  
 [](https://web.archive.org/product/product_main.html)  
 |  | [](https://web.archive.org/about/about_main.html)  
