@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602154817id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206082112id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
@@ -20,11 +20,11 @@ The USGS web site which referred you to this document conforms to the general U.
 
 Like most web servers on the Internet, our servers collect and store all of the information that your web browser sends when it requests a web page, including:
 
-  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name is (none) and its numerical address is 80.67.66.37; 
+  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet; 
   * the date and time you accessed our site; 
-  * the Internet address of the web page that you came from (for this visit that address is (none)); 
+  * the Internet address of the web page that you came from; 
   * the page you requested from our site and the number of characters sent to your computer; and 
-  * the information your web browser software sends as its so-called "User Agent," which typically identifies the browser software and may also indicate the operating system and type of CPU used in your personal computer. Your User Agent information is Scooter/3.3_SF. 
+  * the information your web browser software sends as its so-called "User Agent," which typically identifies the browser software and may also indicate the operating system and type of CPU used in your personal computer. 
 
 
 
@@ -98,13 +98,13 @@ We make every effort to provide and maintain accurate, complete, usable, and tim
 
 * * *
 
-## Copyright
+## Copyrights and Trademarks
 
 USGS-authored or produced data and information are in the public domain. While the content of most USGS web pages is in the public domain, not all the information on our site is in the public domain. Some images/graphics are used by USGS with permission. For other uses, you may need to obtain permission from the copyright holder under the [copyright law](http://lcweb.loc.gov/copyright/).
 
 You are welcome to make a link to any of the Web pages USGS has published on the Internet. There is no need to request permission.
 
-Use of the USGS visual identifier (logo) is restricted to official publications.
+The USGS identifier is trademarked and must be used in accordance with the rules outlined at [Quick Start](http://www.usgs.gov/visual-id/quickstart.html). Information on who may use the USGS identifier and how to obtain a copy of it is available at [ Use of the Trademarked USGS Identifier by Outside Organizations](http://www.usgs.gov/visual-id/outside_use.html).
 
 We will identify material we use from sources outside of USGS, and request others do the same when using information published by USGS. Credit can be provided by including on the page (or via a link to a credits page) a citation such as:
 
