@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diynetwork.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605162910id_/http%3A//diynetwork.com/DIY/privacyPolicy/0%2C1034%2C%2CFF.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynetwork.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209041144id_/http%3A//www.diynetwork.com/DIY/privacyPolicy/0%2C1034%2C%2CFF.html) for the most accurate reproduction.*
 
 # About DIY - Privacy Policy
 
@@ -25,11 +25,11 @@ Categories
 [Workshops](https://web.archive.org/DIY/workshopList/0,1026,,FF.html)  
 [Program Guide](https://web.archive.org/DIY/dailyPg/0,2004,,FF.html)  
 [Get DIY](https://web.archive.org/DIY/aboutNetworkProviders/0,1420,,FF.html)  
-[About DIY](https://web.archive.org/DIY/about/1,1022,,FF.html)  
+[About DIY](https://web.archive.org/DIY/about/0,1022,,FF.html)  
 [My DIY](https://web.archive.org/DIY/myDiyHome/1,1055,,FF.html)  
   
   
-|  [DIY](https://web.archive.org/DIY/0,1014,,FF.html) > [About DIY](https://web.archive.org/DIY/about/1,1022,,FF.html) > Legal Information
+|  [DIY](https://web.archive.org/DIY/0,1014,,FF.html) > [About DIY](https://web.archive.org/DIY/about/0,1022,,FF.html) > Legal Information
 
   
 DIYNET.com is committed to protecting the online privacy of visitors to its Web site. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At diynet.com, we intend to give you as much control as possible over your personal information. 
@@ -49,8 +49,7 @@ We may require you to supply us with personal information (demographic informati
 We may perform statistical analyses of aggregate (group) user behavior. This allows us to measure relative consumer interest in the various areas of our Web sites for product development purposes. Any information we collect is used for our own internal purposes to improve the content of the Web site, to enhance users' experiences when visiting our site, to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. Aside from an automatic reply to an e-mail received by us, it is our intent not to e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There may be instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but after an initial mailing gauging your interest this will be continued only with your permission and consent.  
 
 
-DoubleClick, Inc. utilizes certain technologies to deliver specific advertisements, which appear on pages throughout this Web site, to the site's users. Privacy issues surrounding DoubleClick's use of certain non-personally identifiable user information by its technology are discussed in DoubleClick's privacy policy. That policy can be viewed at [www.doubleclick.net/privacy_policy](http://www.doubleclick.net/privacy_policy).  
-
+Third-Party advertising companies such as DoubleClick Inc. utilize certain technologies to deliver specific advertisements, which appear on pages throughout this Web site, to the site's users. These companies may collect, store and use non-personally ientifiable user information. If you want to prevent a third-party advertiser from collecting such user information, you may either visit each third party advertiser's Web site directly and opt-out (for example [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object=1&) for DoubleClick's privacy policy and opt-out options), or [click here](http://www.networkadvertising.org/optout_nonppii.asp) to visit the NAI gateway opt-out site. The NAI gateway opt-out site will allow you to review various third-party advertising companies' privacy policies and opt-out options.
 
 **III. Disclosure to Third Parties**  
 We do not share personal identifying information with any third party without your permission. We disclose only in aggregate (group) form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. This aggregate information does not include names or e-mail addresses. In some instances, we operate shared Web sites with businesses affiliated with us. Our Privacy Policy will apply to these Web sites. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name or e-mail address) in chat areas or bulletin boards or to third parties, that information may be collected by others outside our control and may result in unsolicited messages from others. 
