@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bottomlineinc.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004074231id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlineinc.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602080139id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web site Privacy Policy
 
 **BottomLineSecrets.com Web site Privacy Policy**
 
 _ _  
-[](https://digitalid.verisign.com/as2/be44de656a17577d392827412cb29e08)
+[](https://digitalid.verisign.com/as2/a6bae7b539d7d430bd9b3dd24cb2907d)
 
 Effective: January 2002
 
@@ -63,7 +63,7 @@ Boardroom may combine information provided by customers with information obtaine
 
 Change of Address
 
-If you want to review, correct, or change your postal address, [click here](http://store.bottomlinesecrets.com/cust_service/change_address.cfm). If you want to review, correct or change your e-mail address, [click here.](http://store.bottomlinesecrets.com/cust_service/email_prefs.html)
+If you want to review, correct, or change your postal address, [click here](http://store.bottomlinesecrets.com/cust_service/acct_mgmt.cfm). If you want to review, correct or change your e-mail address, [click here.](http://store.bottomlinesecrets.com/cust_service/email_prefs.html)
 
 Links from the Site
 
@@ -84,8 +84,6 @@ Boardroom takes reasonable precautions to safeguard information transmitted betw
 Transfer of Information in Business Transactions
 
 As Boardroom continues to explore new business opportunities, it may need to, and reserves the right to, transfer and assign customer contact and Site usage information collected on the Site to one or more affiliated and unaffiliated entities as part of a business transaction.
-
-If you would like to share your comments about our privacy policy, please write to [webteam@boardroom.com](mailto:webteam@boardroom.com)
 
   
 
