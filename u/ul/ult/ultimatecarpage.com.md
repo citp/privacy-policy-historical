@@ -1,32 +1,18 @@
-> *The following text is extracted and transformed from the ultimatecarpage.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212113id_/http%3A//ultimatecarpage.com/frame.mv%3Ffile%3Dcopyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecarpage.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207201056id_/http%3A//www.ultimatecarpage.com/frame.php%3Ffile%3Dcopyright.html) for the most accurate reproduction.*
 
 # Ultimatecarpage.com - Images, Specifications and Information
 
-[Forums:](http://www.ultimatecarpage.com/forum/index.php)  
-[Manufacturer forums](http://www.ultimatecarpage.com/forum/forumdisplay.php?s=&forumid=7)  
-[General automotive](http://www.ultimatecarpage.com/forum/forumdisplay.php?s=&forumid=13)  
-[General forums](http://www.ultimatecarpage.com/forum/forumdisplay.php?s=&forumid=1)  
-Cars:  
-[In the spotlight](https://web.archive.org/frame.mv?file=spotlight.mv)  
-[Cars by brand](https://web.archive.org/frame.mv?file=brandlist.mv&left=left_cars.mv)  
-[Racing Cars](https://web.archive.org/frame.mv?file=race.mv)  
-[Prototypes](https://web.archive.org/frame.mv?file=list.mv&typesearch=Proto)  
-[Random Car](https://web.archive.org/frame.mv?file=car.mv)  
-Features:  
-[Future events](https://web.archive.org/frame.mv?file=Features/future.html)  
-[Events 2004](https://web.archive.org/frame.mv?file=Features/events2004.html)  
-[Events 2003](https://web.archive.org/frame.mv?file=Features/events2003.html)  
-[Events 2002](https://web.archive.org/frame.mv?file=Features/events.html)  
-[Wallpapers](https://web.archive.org/frame.mv?file=wall.mv)  
-Lists:  
-[Sorted lists](https://web.archive.org/frame.mv?file=lists.html&left=left_lists.mv)  
-[Top 50](https://web.archive.org/frame.mv?file=hitlist.mv)  
-[Site stats](https://web.archive.org/frame.mv?file=sitespec.mv)  
-General:  
-[Home](https://web.archive.org/)  
-[News](https://web.archive.org/frame.mv?file=news/current.mv)  
-[Links](https://web.archive.org/frame.mv?file=Links.html)  
-Contact us   
+  
+[Forums:](http://www.ultimatecarpage.com/forum/index.php)
+
+Cars:
+
+Features:
+
+Lists:
+
+General:
+
 | 
 
 ## Manifest
