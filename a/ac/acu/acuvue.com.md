@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202212200id_/http%3A//acuvue.com/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606091003id_/http%3A//acuvue.com/legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - jnjvisioncare.com
 
@@ -54,7 +54,7 @@ We take reasonable steps to protect your personally identifiable information as 
 This site may contain links or references to other Web sites. Please be aware that we do not control other Web sites and that, in any case, this Privacy Policy does not apply to those Web sites. We encourage you to read the privacy policy of every Web site you visit. 
 
 **Other Terms**  
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20001202212200id_/http%3A//acuvue.com/legal/legal_notice.htm).
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20010606091003id_/http%3A//acuvue.com/legal/legal_notice.htm).
 
 **How to Contact Us**  
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows:  
