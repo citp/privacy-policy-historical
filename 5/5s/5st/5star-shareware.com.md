@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5star-shareware.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140137id_/http%3A//www.5star-shareware.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5star-shareware.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205154119id_/http%3A//www.5star-shareware.com/docs/privacy.html) for the most accurate reproduction.*
 
 # 5 Star Privacy Policy
 
