@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203012914id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607114800id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Environmental Defense and Environmental Defense Action Fund put high priority on protecting your privacy. This privacy policy applies to the [Environmental Defense](http://www.environmentaldefense.org/) web site, the [Get Green](http://www.getgreen.com/) web site, the [Scorecard](http://www.scorecard.org/) web site, the [Texas Environmental Profiles](http://www.texasep.org/) web site, the [Undoit.org](http://www.undoit.org/) web site, and the [Environmental Defense Action Network](http://www.actionnetwork.org/) web site. (Action Network sites operated by other organizations described below are governed by their own privacy policies.) 
+Environmental Defense and Environmental Defense Action Fund put high priority on protecting your privacy. This privacy policy applies to the [Back from the Brink](http://www.backfromthebrink.org/) web site, the [Environmental Defense](http://www.environmentaldefense.org/) web site, the [Get Green](http://www.getgreen.com/) web site, the [Scorecard](http://www.scorecard.org/) web site, the [Texas Environmental Profiles](http://www.texasep.org/) web site, the [Undoit.org](http://www.undoit.org/) web site, and the [Environmental Defense Action Network](http://www.actionnetwork.org/) web site. (Action Network sites operated by other organizations described below are governed by their own privacy policies.) 
 
 When you register for special services on one of our sites (to get personalized content or free subscriptions, use our Action Network, enter contests, etc.), you give us personal information about yourself (such as name, address, zip code, email address, etc.). We use this information to provide you with services from ourselves and our partners and affiliates which we think may be of interest to you. You can always "opt-out," now or at any time later, to keep from getting any unwanted messages or solicitations. 
 
-If you have any questions, don't hesitate to contact our [Privacy Manager](mailto:privacy_fmw@environmentaldefense.org) directly at any time. 
+If you have any questions, don't hesitate to contact our Privacy Manager directly at any time. 
 
   1. What personally identifiable information of yours is collected?    
 
@@ -53,7 +53,7 @@ We are Environmental Defense, a non-profit, tax-deductible environmental advocac
 
 
 
-**Action Network** sites operated by other organizations are governed by their own privacy policies. Each Action Network site operates independently, and no information is shared between them. Select an organization from the menu below. 
+**Action Network** sites operated by other organizations are governed by their own privacy policies. Each Action Network site operates independently, and no information is shared between them. 
 
 [top] 
 
@@ -81,7 +81,7 @@ We store your personally identifiable information on secure servers. We also use
 
 **6.   How You Can Access, Update, or Delete Your Information**
 
-Please contact our [Privacy Manager](mailto:privacy_fmw@environmentaldefense.org) to obtain, change, update or delete our records of your personal information, or to change your privacy options. 
+Please contact our Privacy Manager to obtain, change, update or delete our records of your personal information, or to change your privacy options. 
 
 [top] 
 
