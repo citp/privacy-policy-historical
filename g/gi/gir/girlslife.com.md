@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402144039id_/http%3A//www.girlslife.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207004725id_/http%3A//www.girlslife.com/info/privacy.php) for the most accurate reproduction.*
 
-# Girls Life
+# Privacy Policy - Girls' Life Magazine
 
-**Privacy Policy**
+**Like any good friend, we at Girls' Life think your private stuff should stay private. We aren't about to gossip to any third parties about personal information like your name, address, age, gender or any other identifying info.**
 
-Like any good friend, we at Girls' Life think your private stuff should stay private. We aren't about to gossip to any third parties about personal information like your name, address, age, gender or any other identifying info.
+* * *
 
-Here is the deal on our privacy policies so that you understand what we do with your personal information. By using the www.girlslife.com site, you agree to the terms and conditions outlined below. If you do not agree to these terms and conditions, please do not use this site. If you have any questions or want to contact us, please email us at [**webmaster@girlslife.com**](mailto:webmaster@girlslife.com).
+Here's the deal on our privacy policies so that you understand what we do with your personal information. By using the www.girlslife.com site, you agree to the terms and conditions outlined below. If you do not agree to these terms and conditions, please do not use this site. If you have any questions or want to contact us, please email us at [webmaster@girlslife.com](mailto:webmaster@girlslife.com). 
 
 **Girls' Life Privacy Statement**  
 We want to keep all our site visitors in a safe and happy environment. It is our intention to strictly adhere to the rules and regulations regulated by COPPA (Children's Online Privacy Protection Act) and CARU (Children's Advertising Review Unit of the Council of Better Business Bureaus) in order to protect the privacy of children online. We hope this guide will help answer your questions about being on our site.
@@ -27,16 +27,13 @@ Girls' Life shares personal information with contracted partners exclusively for
 
 **Hurricane Electric:** This company hosts Girls' Life.com and handles all front-end interface with visitors to the site. All contracted partners of Girls' Life are contractually bound to maintain the confidentiality and security of all customer information. Hurricane does collect personal information for any of our users.
 
-**Will anyone know how I answer questions on your site? Or if I ask them?**   
+**Will anyone know how I answer questions on your site? Or if I ask them?**  
 Girlslife.com visitors can send questions to several different experts whose wisdom we share on our web site. Those submissions are send via U.S. mail.
 
-We ask that all girls sign their letters with a nickname or name related to the concern (i.e. Boy Baffled, In Need of a Mascara Master, Bewildered and Confused, etc). 
-
-For Question of the Week, girls are asked to submit their answers to different types of questions. Girls' Life publishes some of the results of these in the magazine, others may be used on-line. The information is collected and published without any personal data.
-
-Girlslife.com visitors can take quizzes on our site. We do not collect any quiz answers provided by participants.
-
-Girls' Life also does polls from time to time. Some of the results of these polls will be in the magazine, others may be used on-line. The information is collected and published without any personal data. No personally identifiable data is collected from participants through any of these features.
+? We ask that all girls sign their letters with a nickname or name related to the concern (i.e. Boy Baffled, In Need of a Mascara Master, Bewildered and Confused, etc).  
+• For Question of the Week, girls are asked to submit their answers to different types of questions. Girls' Life publishes some of the results of these in the magazine, others may be used on-line. The information is collected and published without any personal data.  
+? Girlslife.com visitors can take quizzes on our site. We do not collect any quiz answers provided by participants.  
+? Girls' Life also does polls from time to time. Some of the results of these polls will be in the magazine, others may be used on-line. The information is collected and published without any personal data. No personally identifiable data is collected from participants through any of these features.
 
 **What about cyber pals, electronic postcards and e-mail services?**  
 Girls' Life has offered links to selected outside providers for cyberpals (A Girl's World Productions, Inc.) and we link to certain sites we feel our girls would enjoy. Please by aware that you are leaving the Girls' Life site when you participate in those services.Girls' Life is in no way libel for the practices of these companies. If you engage in any of these outside services, you agree to the terms listed by those services. Girls' Life cannot be held responsible for the conduct of these companies in regard to their privacy, advertising and content policies. Please become thoroughly familiar with the privacy policies of these sites and adhere to all their guidelines. We offer these links as a service to our readers. In no way to we endorse their practices or policies. Girlslife.com also contains hyperlinks to other websites operated by parties other than us. We do not control their websites and are not responsible for their contents. 
@@ -45,7 +42,7 @@ Girls' Life has offered links to selected outside providers for cyberpals (A Gir
 The importance of security for all personally identifiable information associated with our users is of great concern to us. Financial information is transmitted from your computer to our server utilizing encryption software. Only those employees who need access to our users' information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to termination and civil and/or criminal prosecution. 
 
 **Terms**  
-Here is all the legal mumbo-jumbo that keeps us from being sued and our lawyer in expensive suits. Don't fall asleep reading this, you're agreeing to it by being part of our site!
+**Here is all the legal mumbo-jumbo that keeps us from being sued and our lawyer in expensive suits. Don't fall asleep reading this, you're agreeing to it by being part of our site!**
 
 Everything you see or read on www.girlslife.com is owned by us or used with permission. You may not use anything from or for our site without our permission. You are not allowed to post or distribute any material you do not own or which you do not have permission to use. Ignoring this policy may result in copyright, trademark or other intellectual property rights violation. 
 
@@ -59,18 +56,18 @@ Www.girlslife.com is not liable for any damages that may result from your use of
 
 By using www.girlslife.com you agree to protect and hold us harmless from all liabilities, claims and expenses that may result from the use of this service, your posting of any material to the site, or the transmission of any content through this service, or your breach of these terms of service.
 
-**Contact us**   
+**Contact us**  
 Please let us know your concerns and questions regarding privacy:   
-1\. Send an e-mail to webmaster@girlslife.com  
-2\. Send your request via mail to: On-line Privacy, Girls' Life, 4517 Harford Road, Baltimore, Maryland.   
+1\. Send an e-mail to [webmaster@girlslife.com](https://web.archive.org/web/20041207004725id_/http%3A//www.girlslife.com/info/%20mailto:webmaster@girlslife.com?subject=privacy)  
+2\. Send your request via mail to: Online Privacy, Girls' Life, 4517 Harford Road, Baltimore, Maryland.   
 3\. Call us at 1-410-254-9200  
 4\. Fax your comments to 1-410-254-0991 
 
-**Opting/out**  
+**Opting out**  
 Our site provides users the opportunity to opt/out from receiving future communications or mailings from Girls' Life magazine. You may also correct/update any information supplied to Girls' Life. You may:   
-1\. Send an e-mail to customerservice@girlslife.com  
+1\. Send an e-mail to [customerservice@girlslife.com](mailto:customerservice@girlslife.com?subject=opting%20out)  
 2\. Send your request via mail to: Opt/Out, Girls' Life Subscription Department, 4517 Harford Road, Baltimore, Maryland.   
 3\. Call us at 1-410-254-9200  
 4\. Fax your request to 1-410-254-0991 
 
-**NOTICE: Visit[www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) for information from the Federal Trade Commission about protecting children's privacy online.**
+NOTICE: Visit [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) for information from the Federal Trade Commission about protecting children's privacy online.
