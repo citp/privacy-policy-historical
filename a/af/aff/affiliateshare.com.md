@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateshare.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085557id_/http%3A//www.affiliateshare.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateshare.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202080921id_/http%3A//affiliateshare.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy
 
