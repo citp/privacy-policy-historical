@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gepower.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622102755id_/http%3A//www.gepower.com/dhtml/corporate/en_us/aboutgeps/legal/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gepower.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003220724id_/http%3A//www.gepower.com/dhtml/corporate/en_us/aboutgeps/legal/policy.jsp) for the most accurate reproduction.*
 
 # GE Power Systems - GEII Privacy Policy
 
