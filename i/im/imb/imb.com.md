@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imb.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803063648id_/http%3A//www.imb.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imb.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204021823id_/http%3A//www.imb.com/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement/Terms of Use > Kronos
+# Kronos' Privacy Statement
 
 Kronos® Incorporated respects your right to privacy. This statement discloses the privacy practices for the Kronos Incorporated website. This statement also describes other important topics relating to your privacy.
 
