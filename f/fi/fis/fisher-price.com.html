@@ -1,12 +1,35 @@
-<!--The following is the downloaded HTML source of the fisher-price.com privacy policy that was archived on 2004-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040612115631id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fisher-price.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205002633id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<meta name="Keywords" content="Fisher-Price, fisherprice, Fisher-Price toys, online shopping, toys, baby, toy, preschool toys, infant, playtips, kitchen playsets, toy classics, children, little people, rescue heroes, power wheels, powerwheels, view-master, toddler, toy tips, News for You Club, loving family, magna doodle, fun, dollhouse, gift registry, gift suggestions, birthday gifts, family, customer service, email, customized email, Mattel, monitors, newborn, fisher, price, baby registry, baby shower gifts, infant products, online catalogue, online catalog, preschool, baby's first year, car seats, child development experts, games, education, imagination, great adventures, kids, store locator, child locator, mothers, nursery, parenting, safety, Shop 'n Cook, child development, children's products, creative, mom, feeding accessories, first birthday, stores, strollers">
 	<meta name="DESCRIPTION" content="A great resource for parents and grandparents, including information on toys for baby/preschoolers, customized e-mail, special offers and Playtips.">
 	<title>Welcome to Fisher-Price.com!</title>
 	
-	<link rel="stylesheet" type="text/css" href="/us/legal_footer.css">
+  
+   <script language="JavaScript">
+   //diplay confirm box once per visit, write cookie, 
+   //default expiration of cookie is the end of the session
+   
+	var site
+	
+	site = 'us';
+	
+	if (site == 'kr')
+	{
+		var sJSAllCookie = document.cookie;
+		var pos = sJSAllCookie.indexOf("FPBrowseCountry=");
+		
+		if (pos == -1)
+		{
+			var win = window.open("/us/includes/koreanPopup.asp?", "KR", "width=400,height=190");
+		}
+				
+	}
+
+	
+  </script>
+	<link rel="stylesheet" type="text/css" href="/US/legal_footer.css">
 	<link rel="stylesheet" href="/us/includes/default_2003.css" type="text/css">
 </head>
 
@@ -18,26 +41,72 @@
 	<tbody><tr><!-- left nav td -->
 		<td valign="top" class="leftnavcolor">
 			
+<link rel="stylesheet" href="/us/includes/default_2004.css" type="text/css">
 <script language="javascript" src="/us/includes/KeywordValue.js"></script>
 <script language="javascript" src="/us/includes/OpenWin.js"></script>
 <script language="javascript" src="/us/includes/exitsite.js"></script>
 <script language="javascript" src="/us/includes/js/detectPupBlocker_inc.js"></script>
 <script language="javascript" src="/us/includes/js/pregPltmPup_inc.js"></script>
+<script language="javascript" src="/us/includes/js/detectFlash_inc.js"></script>
+<script language="javascript" src="/us/includes/js/detectBrowser_inc.js"></script>
+<script language="javascript" src="/us/includes/js/detectPlatform_inc.js"></script>
 <script language="javascript">
-	var sJSMetaDesc;
+	var bIsUSHome;
+	var sJSMetaDesc, sPgURL;
+
+	sPgURL = document.location.href.toLowerCase();
+	if (sPgURL.substr(sPgURL.length-4, 4) == '/us/' || sPgURL.substr(sPgURL.length-15, 15) == '/us/default.asp')
+		bIsUSHome = true;
+	else
+		bIsUSHome = false;
+
 	sJSMetaDesc = '';
 	if (document.all)
-		for (var i=0;i < document.all.length; i++)
+		for (var i = 0; i < document.all.length; i++)
 		    if (document.all(i).tagName.toLowerCase() == 'meta' && document.all(i).name.toLowerCase() == 'description') {
 				sJSMetaDesc = document.all(i).content;
 				break;
 			}
-	
-	function OpenEmailToFriend(){
-		var win = window.open('/us/emailtofriend.asp?url=http%3A%2F%2Fwww%2Efisher%2Dprice%2Ecom%2Fus%2Fprivacy%2Easp&type=page&referer=' + escape(window.location), 'emailWindow', 'left=150,top=50,screenX=200,screenY=100,resizable=yes,scrollbars=yes,toolbar=no,width=500,height=560');
+
+	function trackandgo(sLink, sWebTrack) {
+		//homepage nav tracking
+		if (bIsUSHome) TrackInterstitial('homepage', 'Section', sWebTrack);
+
+		if (sLink.indexOf('javascript:') != -1)
+			eval(sLink.replace('javascript:', ''));
+		else
+			document.location.replace(sLink);
+	}
+
+	if (!bIsMac && bIsIE && bFlashInstalled && iFlashVersion > 5) {
+		document.write('<div id="BtnNav" style="position:absolute; left:0px; top:354px; width:360px; height:298px; z-index:4">\n');
+		document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="355" height="305" id=ShockwaveFlash1>\n');
+		document.write('<param name="allowScriptAccess" value="sameDomain">\n');
+		document.write('<param name="movie" value="/us/swf/leftnav_btns.swf?fphome=0&sSite=us">');
+		document.write('<param name="menu" value="false">\n');
+		document.write('<param name="quality" value="high">\n');
+		document.write('<param name="wmode" value="transparent">\n');
+		document.write('<embed src="/us/swf/leftnav_btns.swf?fphome=0&sSite=us" quality="high" wmode="transparent" width="355" height="305" name="leftnav" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">');
+		document.write('</object>\n');
+		document.write('</div>\n');
+		
+				// Set up special print functionality so that all content is displayed,
+				// previously the flash transparency would block much of the content
+		var flashNav = document.getElementById('BtnNav').innerHTML;
+		var flashTop = document.getElementById('BtnNav').style.top;
+		var flashLeft = document.getElementById('BtnNav').style.left;
+		document.getElementsByTagName('body')[0].onbeforeprint = function(){
+			document.getElementById('BtnNav').innerHTML = '<img src="/us/content/img/navPrint.gif">';
+			document.getElementById('BtnNav').style.top = 427;
+			document.getElementById('BtnNav').style.left = 1;
+		}
+		document.getElementsByTagName('body')[0].onafterprint = function(){
+			document.getElementById('BtnNav').innerHTML = flashNav;
+			document.getElementById('BtnNav').style.top = flashTop;
+			document.getElementById('BtnNav').style.left = flashLeft;
+		}
 	}
 </script>
-<link rel="stylesheet" href="/us/includes/default_2003.css" type="text/css">
 <table cellpadding="0" cellspacing="0" width="168" border="0">
 	<tbody><tr>
 		<td bgcolor="#FFFFFF"><img src="/us/img/s.gif" width="1" height="2"></td>
@@ -72,21 +141,24 @@
 		<td bgcolor="#FFFFFF"><img src="/us/img/home/plg.gif" width="168" height="59" alt="play.laugh.grow.(tm)"></td>
 	</tr>
 	<tr>
-		<td><a href="/usp/" onmouseover="window.status='Espanol'; return true" onmouseout="window.status='Welcome to Fisher-Price.com!'; return true"><img src="/us/img/home/espanol_button.gif" width="68" height="27" alt="" border="0"></a><a href="/intl.asp" onmouseover="window.status='International'; return true" onmouseout="window.status='Welcome to Fisher-Price.com!'; return true"><img src="/us/img/home/intl_button.gif" width="100" height="27" alt="Fisher-Price International Web Sites" border="0"></a>
+		<td><a href="/usp/" onmouseover="window.status='Espanol'; return true" onmouseout="window.status='Welcome to Fisher-Price.com!'; return true"><img src="/us/img/fpnav_usp.gif" width="71" height="26" alt="" border="0"></a><a href="/intl.asp" onmouseover="window.status='International'; return true" onmouseout="window.status='Welcome to Fisher-Price.com!'; return true"><img src="/us/img/fpnav_int.gif" width="97" height="26" alt="Fisher-Price International Web Sites" border="0"></a>
 	</td></tr>
 	<tr>
-		<td><img src="/us/img/s.gif" width="1" height="8"></td>
+		<td bgcolor="#ffffff"><img src="/us/img/s.gif" width="1" height="2"></td>
 	</tr>
 	<tr>
-		<td bgcolor="#DDF5D0">
+		<td class="leftnavcolor"><img src="/us/img/s.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td class="leftnavcolor">
 			<table cellpadding="0" cellspacing="0" width="168" border="0">
 				<form name="keywordsearch" method="POST" onsubmit="keywordValue();"></form>
 				<tbody><tr>
-					<td bgcolor="#DDF5D0" valign="top"><img src="/us/img/s.gif" width="2" height="1">
+					<td class="leftnavcolor" valign="top"><img src="/us/img/s.gif" width="2" height="1">
 						<input type="hidden" name="type" value="keyword">
 						<input type="text" name="keywords" size="14" maxlength="30" value="Search" onfocus="this.value=''">
 					</td>
-					<td bgcolor="#DDF5D0" valign="middle"><input type="image" src="/us/img/home/go_button.gif" value="Go!" border="0" id="image1" name="image1"><img src="/us/img/s.gif" width="5" height="1"></td>
+					<td class="leftnavcolor" valign="middle"><input type="image" src="/us/img/home/go_button.gif" value="Go!" border="0" id="image1" name="image1"><img src="/us/img/s.gif" width="5" height="1"></td>
 				</tr>
 				
 				<tr>
@@ -96,42 +168,243 @@
 		</td>
 	</tr>
 </tbody></table>
-<table cellpadding="0" cellspacing="0" width="168" bgcolor="#DDF5D0" border="0">
-	<tbody><tr>
-		<td colspan="2"><img src="/us/img/s.gif" width="1" height="5" border="0"></td>
-	</tr>
-	<tr>
-		<td colspan="2"><a href="javascript://" onclick="window.open('/us/family/pop.asp?from=FPHome', 'FamilyCommercialWindow', 'left=150, top=50, resizable=yes,scrollbars=yes,toolbar=yes,width=545,height=450');" onmouseover="window.status='Fisher-Price® Family Club'; return true" onmouseout="window.status='Welcome to Fisher-Price.com!'; return true"><img src="/us/img/famcopy.gif" width="168" height="36" border="0"></a></td>
-	</tr>
-	<tr>
-		<td><a href="/us/family/"><img src="/us/img/famsignup.gif" width="84" height="24" border="0"></a></td>
-		<td><a href="/us/family/getuser.asp?noLogin=1"><img src="/us/img/famupdate.gif" width="84" height="24" border="0"></a></td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="/us/img/s.gif" width="1" height="5" border="0"></td>
-	</tr>
+<table cellpadding="0" cellspacing="0" width="168" class="leftnavcolor" border="0">
+	<script language="javascript">
+	<!--
+		if (!bIsMac && bIsIE && bFlashInstalled && iFlashVersion > 5) {
+			document.write('<tr>\n');
+			document.write('<td><img src="/us/img/fpnav_toysmain.gif" width="168" height="30" border="0"></td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td valign="top" class="leftnavcolor" width="161">\n');
+			document.write('<ul class="toysnav">\n');
+			document.write('<li class="toysnav"><a href="/us/toys/toysbyage/default.asp?agegrade=" class="nav">Toys by Age</a></li>\n');
+			document.write('<li class="toysnav"><a href="/us/toys/toysbytype/" class="nav">Toys by Type</a></li>\n');
+			document.write('<li class="toysnav"><a href="/us/learning/" class="nav">Learning Toys</a></li>\n');
+			document.write('<li class="toysnav"><a href="/us/babygear/" class="nav">Babygear</a></li>\n');
+			document.write('<li class="toysnav"><a href="/us/babygear/" class="navsm"><img src="/us/img/s.gif" width="5" height="1" border="0" alt="0">Swings, monitors, and more</a></li>\n');
+			document.write('<li class="toysnav"><a href="/us/special/" class="nav">What&#146;s New!</a></li>\n');
+			document.write('<li class="toysnav"><a href="/us/special/offers/" class="special">Special Offers &amp; Events</a></li>\n');
+			document.write('<li class="toysnav"><a href="/us/special/awards.asp" class="nav">Award Winners</a></li>\n');
+			document.write('<li class="toysnav"><a href="/us/locator/" class="nav">Where to Buy</a></li>\n');
+			document.write('<li class="toysnav"><a href="javascript: openWin(\'/fp.aspx?t=page&a=go&p=default&s=wishlist&site=us\', \'WishList\', \'width=800,height=600,resizable=yes,scrollbars=yes\');"  class="nav">Wish List Helper</a></li>\n');
+			document.write('</ul>\n');
+			document.write('</td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td><img src="/us/img/fpnav_bottom.gif" width="168" height="12" border="0"></td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td class="leftnavcolor"><img src="/us/img/s.gif" width="1" height="6"></td>\n');
+			document.write('</tr>\n');
+		}
+		else {
+			document.write('<tr>\n');
+			document.write('<td><img src="/us/img/home/toys_head.gif" width="168" height="30" border="0" alt="Toys &amp; babygear"></td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td valign="top" class="leftnavcolor" width="161">\n');
+			document.write('<ul class="htmlnav">\n');
+			document.write('<li class="htmlnav"><a href="/us/toys/toysbyage/default.asp?agegrade=" class="nav">Toys by Age</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/toys/toysbytype/" class="nav">Toys by Type</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/learning/" class="nav">Learning Toys</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/babygear/" class="nav">Babygear</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/babygear/" class="navsm"><img src="/us/img/s.gif" width="5" height="1" border="0" alt="0">Swings, monitors, and more</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/special/" class="nav">What&#146;s New!</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/special/offers/" class="special">Special Offers &amp; Events</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/special/awards.asp" class="nav">Award Winners</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/locator/" class="nav">Where to Buy</a></li>\n');
+			document.write('<li class="htmlnav"><a href="javascript: openWin(\'/fp.aspx?t=page&a=go&p=default&s=wishlist&site=us\', \'WishList\', \'width=800,height=600,resizable=yes,scrollbars=yes\');"  class="nav">Wish List Helper</a></li>\n');
+			document.write('</ul>\n');
+			document.write('</td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td><img src="/us/img/s.gif" height="5" width="168"><br>\n');
+			document.write('<img src="/us/img/home/email_head.gif" width="168" height="30" border="0" alt="E-mail Updates"></td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td valign="top" class="leftnavcolor" width="161">\n');
+			document.write('<ul class="htmlnav">\n');
+			document.write('<li class="htmlnav"><a href="/us/family/" class="nav">Sign Up!</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/fp.aspx?from=FPhomeupdate&a=go&t=page&p=login&s=family&site=us" class="nav">Update Profile</a></li>\n');
+			document.write('</ul>\n');
+			document.write('</td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td><img src="/us/img/s.gif" height="5" width="168"><br>\n');
+			document.write('<img src="/us/img/home/parent_head.gif" width="168" height="30" border="0" alt="Parenting"></td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td valign="top" class="leftnavcolor" width="161">\n');
+			document.write('<ul class="htmlnav">\n');
+			document.write('<li class="htmlnav"><a href="/us/myfp/" class="nav">Age-by-Age Parenting Guide</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/parentingsolutions#expert" class="nav">Advice from Experts</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/parentingsolutions" class="nav">Advice from Moms</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/pregnancy/" class="nav">Your Pregnancy</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/special_needs" class="nav">For Special Needs Kids</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/playstages/" class="nav">All About Play...<br><img src="/us/img/s.gif" width="20" height="1" border="0" alt="0">stages, toys & tips</a></li>\n');
+			document.write('</ul>\n');
+			document.write('</td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td><img src="/us/img/s.gif" height="5" width="168"><br>\n');
+			document.write('<img src="/us/img/home/shop_head.gif" width="168" height="30" border="0" alt="Shop Our Online Store"></td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td valign="top" class="leftnavcolor" width="161">\n');
+			document.write('<ul class="htmlnav">\n');
+			document.write('<li class="htmlnav"><a href="/us/fpstore_leaving.asp?goto=fpstore&pid=fromInnerNav&dest='+'http%3A%2F%2Fwww%2Efisher%2Dpricestore%2Ecom%2Ffpecom%2Fplsql%2Fprthr%3Frd%3DF20947'+'" class="nav">Shop Our Online Store</a></li>\n');
+			document.write('<li class="htmlnav"><a href="https://www.fisher-pricestore.com/fpecom/plsql/fp_common.wrap?proc=catalog" target="requestfpcatalog" class="nav">Request a Catalog</a></li>\n');
+			document.write('</ul>\n');
+			document.write('</td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td><img src="/us/img/s.gif" height="5" width="168"><br>\n');
+			document.write('<img src="/us/img/home/fun_head.gif" width="168" height="30" border="0" alt="Fun &amp; Family Time"></td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td valign="top" class="leftnavcolor" width="161">\n');
+			document.write('<ul class="htmlnav">\n');
+			document.write('<li class="htmlnav"><a href="/us/ecards/" class="nav">Send a FREE e-CARD!</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/crafts/" class="nav">Crafts for Kids</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/playtime/learn.asp" class="nav">Play & Learn Activities</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/playtime/" class="nav">Fun & Games, Online!</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/party/" class="nav">Best-Ever Birthday Bashes</a></li>\n');
+			document.write('</ul>\n');
+			document.write('</td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td><img src="/us/img/s.gif" height="5" width="168"><br>\n');
+			document.write('<img src="/us/img/home/services_head.gif" width="168" height="30" border="0" alt="Services &amp; Info"></td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td valign="top" class="leftnavcolor" width="161">\n');
+			document.write('<ul class="htmlnav">\n');
+			document.write('<li class="htmlnav"><a href="javascript:exitSite(\'%2Fus%2FDefault%2Easp%3F\', \'http://www.service.mattel.com/us/default.asp?from=fp\', \'MATTELCR\', \'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470\', \'Customer Service\', \'-1\');" class="nav">Customer Service</a></li>\n');
+			document.write('<li class="htmlnav"><a href="javascript:exitSite(\'%2Fus%2FDefault%2Easp%3F\', \'http://www.service.mattel.com/us/recall.asp\', \'MATTELCR\', \'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470\', \'Recall Information\', \'-1\');" class="nav">Recall Information</a></li>\n');
+			document.write('<li class="htmlnav"><a href="http://www.fisher-pricestore.com/fpecom/plsql/fp_common.wrap?proc=feedback" target="shoponlinefphelp" class="nav">Shop Online Order Help</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/help/sitemap.asp" class="nav">Site Map</a></li>\n');
+			document.write('</ul>\n');
+			document.write('</td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td><img src="/us/img/s.gif" height="5" width="168"><br>\n');
+			document.write('<img src="/us/img/home/company_head.gif" width="168" height="30" border="0" alt="Company Info"></td>\n');
+			document.write('</tr>\n');
+			document.write('<tr>\n');
+			document.write('<td valign="top" class="leftnavcolor" width="161">\n');
+			document.write('<ul class="htmlnav">\n');
+			document.write('<li class="htmlnav"><a href="/us/hr/aboutus.asp" class="nav">About Us</a></li>\n');
+			document.write('<li class="htmlnav"><a href="/us/hr/" class="nav">Careers at Fisher-Price</a></li>\n');
+			document.write('<li class="htmlnav"><a href="javascript: var wMattel = window.open(\'http://www.mattel.com\', \'wMattel\', \'scrollbars=yes,resize=yes,toolbar=yes, width=780\');" class="nav">Mattel, our Parent Company</a></li>\n');
+			document.write('</ul>\n');
+			document.write('</td>\n');
+			document.write('</tr>\n');
+		}
+	//-->
+	</script><tbody><tr>
+<td><img src="/us/img/home/toys_head.gif" width="168" height="30" border="0" alt="Toys &amp; babygear"></td>
+</tr>
+<tr>
+<td valign="top" class="leftnavcolor" width="161">
+<ul class="htmlnav">
+<li class="htmlnav"><a href="/us/toys/toysbyage/default.asp?agegrade=" class="nav">Toys by Age</a></li>
+<li class="htmlnav"><a href="/us/toys/toysbytype/" class="nav">Toys by Type</a></li>
+<li class="htmlnav"><a href="/us/learning/" class="nav">Learning Toys</a></li>
+<li class="htmlnav"><a href="/us/babygear/" class="nav">Babygear</a></li>
+<li class="htmlnav"><a href="/us/babygear/" class="navsm"><img src="/us/img/s.gif" width="5" height="1" border="0" alt="0">Swings, monitors, and more</a></li>
+<li class="htmlnav"><a href="/us/special/" class="nav">What’s New!</a></li>
+<li class="htmlnav"><a href="/us/special/offers/" class="special">Special Offers &amp; Events</a></li>
+<li class="htmlnav"><a href="/us/special/awards.asp" class="nav">Award Winners</a></li>
+<li class="htmlnav"><a href="/us/locator/" class="nav">Where to Buy</a></li>
+<li class="htmlnav"><a href="javascript: openWin('/fp.aspx?t=page&amp;a=go&amp;p=default&amp;s=wishlist&amp;site=us', 'WishList', 'width=800,height=600,resizable=yes,scrollbars=yes');" class="nav">Wish List Helper</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><img src="/us/img/s.gif" height="5" width="168"><br>
+<img src="/us/img/home/email_head.gif" width="168" height="30" border="0" alt="E-mail Updates"></td>
+</tr>
+<tr>
+<td valign="top" class="leftnavcolor" width="161">
+<ul class="htmlnav">
+<li class="htmlnav"><a href="/us/family/" class="nav">Sign Up!</a></li>
+<li class="htmlnav"><a href="/fp.aspx?from=FPhomeupdate&amp;a=go&amp;t=page&amp;p=login&amp;s=family&amp;site=us" class="nav">Update Profile</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><img src="/us/img/s.gif" height="5" width="168"><br>
+<img src="/us/img/home/parent_head.gif" width="168" height="30" border="0" alt="Parenting"></td>
+</tr>
+<tr>
+<td valign="top" class="leftnavcolor" width="161">
+<ul class="htmlnav">
+<li class="htmlnav"><a href="/us/myfp/" class="nav">Age-by-Age Parenting Guide</a></li>
+<li class="htmlnav"><a href="/us/parentingsolutions#expert" class="nav">Advice from Experts</a></li>
+<li class="htmlnav"><a href="/us/parentingsolutions" class="nav">Advice from Moms</a></li>
+<li class="htmlnav"><a href="/us/pregnancy/" class="nav">Your Pregnancy</a></li>
+<li class="htmlnav"><a href="/us/special_needs" class="nav">For Special Needs Kids</a></li>
+<li class="htmlnav"><a href="/us/playstages/" class="nav">All About Play...<br><img src="/us/img/s.gif" width="20" height="1" border="0" alt="0">stages, toys &amp; tips</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><img src="/us/img/s.gif" height="5" width="168"><br>
+<img src="/us/img/home/shop_head.gif" width="168" height="30" border="0" alt="Shop Our Online Store"></td>
+</tr>
+<tr>
+<td valign="top" class="leftnavcolor" width="161">
+<ul class="htmlnav">
+<li class="htmlnav"><a href="/us/fpstore_leaving.asp?goto=fpstore&amp;pid=fromInnerNav&amp;dest=http%3A%2F%2Fwww%2Efisher%2Dpricestore%2Ecom%2Ffpecom%2Fplsql%2Fprthr%3Frd%3DF20947" class="nav">Shop Our Online Store</a></li>
+<li class="htmlnav"><a href="https://www.fisher-pricestore.com/fpecom/plsql/fp_common.wrap?proc=catalog" target="requestfpcatalog" class="nav">Request a Catalog</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><img src="/us/img/s.gif" height="5" width="168"><br>
+<img src="/us/img/home/fun_head.gif" width="168" height="30" border="0" alt="Fun &amp; Family Time"></td>
+</tr>
+<tr>
+<td valign="top" class="leftnavcolor" width="161">
+<ul class="htmlnav">
+<li class="htmlnav"><a href="/us/ecards/" class="nav">Send a FREE e-CARD!</a></li>
+<li class="htmlnav"><a href="/us/crafts/" class="nav">Crafts for Kids</a></li>
+<li class="htmlnav"><a href="/us/playtime/learn.asp" class="nav">Play &amp; Learn Activities</a></li>
+<li class="htmlnav"><a href="/us/playtime/" class="nav">Fun &amp; Games, Online!</a></li>
+<li class="htmlnav"><a href="/us/party/" class="nav">Best-Ever Birthday Bashes</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><img src="/us/img/s.gif" height="5" width="168"><br>
+<img src="/us/img/home/services_head.gif" width="168" height="30" border="0" alt="Services &amp; Info"></td>
+</tr>
+<tr>
+<td valign="top" class="leftnavcolor" width="161">
+<ul class="htmlnav">
+<li class="htmlnav"><a href="javascript:exitSite('%2Fus%2FDefault%2Easp%3F', 'http://www.service.mattel.com/us/default.asp?from=fp', 'MATTELCR', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470', 'Customer Service', '-1');" class="nav">Customer Service</a></li>
+<li class="htmlnav"><a href="javascript:exitSite('%2Fus%2FDefault%2Easp%3F', 'http://www.service.mattel.com/us/recall.asp', 'MATTELCR', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470', 'Recall Information', '-1');" class="nav">Recall Information</a></li>
+<li class="htmlnav"><a href="http://www.fisher-pricestore.com/fpecom/plsql/fp_common.wrap?proc=feedback" target="shoponlinefphelp" class="nav">Shop Online Order Help</a></li>
+<li class="htmlnav"><a href="/us/help/sitemap.asp" class="nav">Site Map</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><img src="/us/img/s.gif" height="5" width="168"><br>
+<img src="/us/img/home/company_head.gif" width="168" height="30" border="0" alt="Company Info"></td>
+</tr>
+<tr>
+<td valign="top" class="leftnavcolor" width="161">
+<ul class="htmlnav">
+<li class="htmlnav"><a href="/us/hr/aboutus.asp" class="nav">About Us</a></li>
+<li class="htmlnav"><a href="/us/hr/" class="nav">Careers at Fisher-Price</a></li>
+<li class="htmlnav"><a href="javascript: var wMattel = window.open('http://www.mattel.com', 'wMattel', 'scrollbars=yes,resize=yes,toolbar=yes, width=780');" class="nav">Mattel, our Parent Company</a></li>
+</ul>
+</td>
+</tr>
+
 </tbody></table>
-<table cellpadding="0" cellspacing="0" width="168" bgcolor="#DDF5D0" border="0">
-	<tbody><tr>
-		<td bgcolor="#DDF5D0"><img src="/us/img/s.gif" width="7" height="1"></td>
-		<td valign="top" bgcolor="#DDF5D0" width="161"><span class="navhead">Browse Our Products:</span><br><a href="/us/toys/toysbyage/default.asp?agegrade=" class="nav">Toys by Age</a><br><a href="/us/toys/toysbytype/" class="nav">Toys by Type</a><br><a href="/us/toys/toysbyskill/" class="nav">Toys by Learning Skill</a><br><a href="/us/babygear/" class="nav">Babygear</a><br><a href="/us/babygear/" class="navsm"><img src="/us/img/s.gif" width="5" height="1" border="0" alt="0">High chairs, monitors, and more</a><br><a href="/us/special/" class="nav">What’s New!</a><br><a href="/us/special/offers/" class="special">Special Offers</a><br><a href="/us/special/awards.asp" class="nav">Award Winners</a><br>
-		<img src="/us/img/s.gif" width="1" height="10"><br><img src="/us/img/s.gif" width="3" height="1"><a href="http://www.fisher-pricestore.com/fpecom/plsql/prthr?rd=F20947 " target="shoponlinefp" onmouseover="window.status='Shop Our Online Store'; return true" onmouseout="window.status='Welcome to Fisher-Price.com!'; return true"><img src="/us/img/home/shop_button.gif" width="140" height="21" alt="Shop Our Online Store" border="0"></a><br><img src="/us/img/s.gif" width="1" height="6"><br>
-		<a class="nav" href="https://www.fisher-pricestore.com/fpecom/plsql/fp_common.wrap?proc=catalog" target="requestfpcatalog" onmouseover="window.status='Request a Catalog'; return true" onmouseout="window.status='Welcome to Fisher-Price.com!'; return true">Request a Catalog</a><br>
-			
-			<a href="/us/myfp/" class="nav">Age-by-Age Parenting Guide</a><br>
-			
-			<a href="/us/parentingsolutions" class="nav">Parenting Solutions</a><br><a href="/us/parentingsolutions#expert" class="navsm"><img src="/us/img/s.gif" width="5" height="1" border="0" alt="0">Get expert advice</a><br><a href="/us/parentingsolutions" class="navsm"><img src="/us/img/s.gif" width="5" height="1" border="0" alt="0">Ask other moms</a><br><a href="/us/babygear/default_articles.asp" class="nav">Prepare &amp; Care for Baby</a><br><a href="/us/special_needs" class="nav">For Special Needs Kids</a><br><a href="/us/crafts/default.asp" class="nav">Crafts for Kids</a><br><a href="/us/playstages/" class="nav">All About Play...<br>&nbsp;&nbsp;stages, toys &amp; tips</a><br><a href="/us/playtime/learn.asp" class="nav">Play &amp; Learn Activities</a><br><a href="/us/playtime/" class="nav">Fun &amp; Games, Online!</a><br><a href="/us/party/" class="nav">Best-Ever Birthday Bashes!</a><br><img src="/us/img/s.gif" width="1" height="10"><br><img src="/us/img/s.gif" width="3" height="1">
-			
-			<a href="/us/locator/default.asp" onmouseover="window.status='Where to Buy'; return true" onmouseout="window.status='Welcome to Fisher-Price.com!'; return true;">
-			
-			<img src="/us/img/home/buy_button.gif" width="140" height="21" alt="Where to Buy" border="0"></a><br><img src="/us/img/s.gif" width="1" height="6"><br><a href="javascript:exitSite('%2Fus%2Fprivacy%2Easp%3F', 'http://www.service.mattel.com/us/default.asp?from=fp', 'MATTELCR', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470', 'Customer Service', '-1');" class="nav2">Customer Service</a><br><a href="javascript:exitSite('%2Fus%2Fprivacy%2Easp%3F', 'http://www.service.mattel.com/us/recall.asp', 'MATTELCR', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470', 'Recall Information', '-1');" class="nav2">Recall Information</a><br>
-			
-			
-			<a href="javascript://" onclick=" OpenEmailToFriend();" class="nav2">E-mail Page to a Friend</a><br>
-			
-			<a href="http://www.fisher-pricestore.com/fpecom/plsql/fp_common.wrap?proc=feedback" class="nav2">Shop Online Order Questions</a><br><a href="http://www.toddlertoys.com" target="_blank" class="nav2">Toddler Toys at McDonald’s®</a><br><a href="/us/hr/aboutus.asp" class="nav2">About Us</a><br><a href="/us/hr/" class="nav2">Careers at Fisher-Price</a><br><a href="http://www.mattel.com" openwin('http:="" www.mattel.com',="" 'popup','scrollbars="yes,resize=yes,toolbar=yes," width="780');return" false;"="" class="nav2">Mattel, our Parent Company</a><br><a href="/us/help/sitemap.asp" class="nav2">Site Map</a><br><br></td>
-	</tr>
-</tbody></table>			
 
 		</td>
 		<td width="10"><img src="/us/img/spacer.gif" width="10" height="1" alt="" border="0"></td>
@@ -185,7 +458,7 @@
 		
 					</p><p>Fisher-Price also collects personally identifiable data, such as names, addresses, e-mail addresses, and the like, when voluntarily submitted by a visitor in one of our guestbooks, registries, contest, or survey sections. Except as provided below, we do not knowingly collect personally identifiable information from children under 18 without prior verifiable parental consent. We ask for age first so that we can provide our younger audience with an appropriate questionnaire that does not ask any personal questions or limit information that we collect. In the case of online promotions and other activities, we do not condition a child's participation on the child's disclosing more personal information than is reasonably necessary to participate in the activity. We may collect your child's first name and e-mail address to respond to your child on a one-time basis. This contact information is deleted from our system after the contact. We may also collect the name of your child, his or her e-mail address and an e-mail address of a parent to obtain your consent, where consent is required. In this case the information is deleted from our system if you do not give your consent to the described use of the information within a reasonable time. In some cases we collect the name and e-mail address of your child so that he or she can be contacted more than once as necessary in connection with a specific request from your child (as, for example, in connection with their registration in a contest or sweepstakes, or signing up for an e-mail newsletter) or when we deem it necessary or prudent to protect the safety of your child participating in interactive activities such as a chat room, message board or e-mail service. In each of these situations, we also collect your e-mail address so that you can be notified of the child's entry in the program or service. In the notice we advise you that you have the right to request that the child's contact information be deleted from our database. The limited information obtained in this manner is used only for the purpose indicated and is deleted from our database at the conclusion of a limited-time promotion, program or activity. 
 	
-					</p><p>You always have the right to request that contact information regarding you or your child be deleted from our database. To request deletion of your contact information in our database, please call 1-800-432-5437 for more information. Upon proper identification, parents may review the personal information we have collected about their child, request deletion, or refuse to allow further collection or use by writing to us at the address above.  
+					</p><p>You always have the right to request that contact information regarding you or your child be deleted from our database. To request deletion of your contact information in our database, please <a href="http://www.service.mattel.com/us/privacy.asp">click here</a> for more information. Upon proper identification, parents may review the personal information we have collected about their child, request deletion, or refuse to allow further collection or use by writing to us at the address above.   
 				
 					</p><p>We reserve the right to change this policy at any time by posting it on our web site. 
 		
@@ -206,13 +479,42 @@
 		<td><img src="/us/img/s.gif" width="10" height="1"></td>
 		<td align="center">
 <script language="javascript" src="/us/includes/exitsite.js"></script>
+<script language="javascript">
+	function OpenEmailToFriend(){
+		var sUrl = '%2Fus%2Fprivacy%2Easp';
+		
+				// Coming from aspx pages b/c they use a published version of the 
+				// leftnav and the email url variable will always be 
+				// /us/includes/leftnav.asp, need to manually create this value now.
+		if (sUrl.indexOf('leftnav') != -1) {
+					// document.taps_var is a variable written through a .NET user control
+					// if available, append it to the controller page, else default to the site's homepage
+			if (document.taps_vars != null)
+				sUrl = "/fp.aspx?" + escape(document.taps_vars);
+			else
+				sUrl = '/default.asp';
+		}
+
+		var win = window.open('/us/emailtofriend.asp?url=' + sUrl + '&type=page', 'emailWindow', 'left=150,top=50,screenX=200,screenY=100,resizable=yes,scrollbars=yes,toolbar=no,width=500,height=560');
+	}
+</script>
+
+<script language="javascript" src="/us/includes/exitsite.js"></script>
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-		<td><p class="legal_footer"><img src="/us/img/s.gif" width="1" height="5"><br><a href="/us/privacy.asp" target="_top" class="legal_footer"><b>FISHER-PRICE PRIVACY POLICY</b></a>&nbsp;|&nbsp;<a href="/us/legal.asp" target="_top" class="legal_footer"><b>FISHER-PRICE LEGAL TERMS &amp; CONDITIONS</b></a><br>© 2004 Mattel, Inc. All Rights Reserved.<br>Use of this U.S. site signifies your acceptance of the terms and conditions of use.<br><a href="javascript:exitSite('/us/privacy.asp?', 'http://www.service.mattel.com/us/default.asp?from=fp', 'MATTELCR', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470', 'Customer Service', '-1');" class="legal_footer_new">Customer Service</a>&nbsp;•&nbsp;<a href="javascript:var wHelp = window.open('/us/help/', 'fphelp', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470');" class="legal_footer_new">How to use Fisher-Price.com</a><img src="/us/img/s.gif" width="1" height="5" border="0"></p></td>
+		<td>
+			<p class="legal_footer"><img src="/us/img/s.gif" width="1" height="5"><br>
+			<a href="/us/privacy.asp" target="_top" class="legal_footer"><b>FISHER-PRICE PRIVACY POLICY</b></a>&nbsp;|&nbsp;
+			<a href="/us/legal.asp" target="_top" class="legal_footer"><b>FISHER-PRICE LEGAL TERMS &amp; CONDITIONS</b></a><br>© 2004 Mattel, Inc. All Rights Reserved.<br>Use of this U.S. site signifies your acceptance of the terms and conditions of use.<br>
+			<a href="javascript:exitSite('/US/privacy.asp?', 'http://www.service.mattel.com/us/default.asp?from=fp', 'MATTELCR', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470', 'Customer Service', '-1');" class="legal_footer_new">Customer Service</a>&nbsp;•&nbsp;
+			<a href="javascript:var wHelp = window.open('/us/help/', 'fphelp', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470');" class="legal_footer_new">How to use Fisher-Price.com</a>&nbsp;•&nbsp;
+			<a href="javascript:OpenEmailToFriend();" class="legal_footer_new">E-mail Page to a Friend</a>
+			<img src="/us/img/s.gif" width="1" height="5" border="0"></p>
+		</td>
 	</tr>
 </tbody></table>
 <script language="JavaScript" type="text/javascript" src="/us/includes/webtrends_FP_US.js"></script> 
-<noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.mattel.com/DCSN1xwj2B4S3eDMs3lPV83F5_6E9R/njs.gif?dcsuri=/us/privacy.asp%3FWT.js%3DNo">
+<noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.mattel.com/DCSN1xwj2B4S3eDMs3lPV83F5_6E9R/njs.gif?dcsuri=/US/privacy.asp%3FWT.js%3DNo">
 </noscript>
 </td>
 		<td><img src="/us/img/s.gif" width="10" height="1"></td>
