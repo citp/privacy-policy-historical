@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215030id_/http%3A//www.smartcomputing.com/info/privacy.asp%3Fguid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207012841id_/http%3A//www.smartcomputing.com/info/privacy.asp%3Fguid%3D) for the most accurate reproduction.*
 
 # Smart Computing Privacy Policy
 
@@ -10,4 +10,4 @@ Sandhills Publishing understands the concerns people have about privacy and safe
 5. | Sandhills Publishing does **not** sell, trade, or otherwise release any personal information on our site visitors or subscribers. We respect your desire for privacy and zealously protect any information you give us. Your information is safe with us!  
 6. | We are participants in the BBBOnLine® Reliability Program. Our company has been in business for more than 20 years, and we have always strived to provide the best customer service available.  
   
-If you have any questions at all about our Privacy Policy or our Web site, [please send us a message](http://www.sandhills.com/customerservice.htm). Thank you for visiting our site.
+If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](mailto:feedback@sandhills.com). Thank you for visiting our site.
