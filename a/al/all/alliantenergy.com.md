@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201170348id_/http%3A//www.alliantenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211913id_/http%3A//www.alliantenergy.com/privacy) for the most accurate reproduction.*
 
 # Alliant Energy - Privacy Policy
 
@@ -10,24 +10,30 @@ If you volunteer your e-mail address, telephone number or other personal informa
 
 We may occasionally use the information to contact you via postal mail or e-mail regarding new products, services and programs or special offers. If you would prefer not to receive these notifications, please contact us at [customercare@alliant-energy.com](mailto:customercare@alliant-energy.com). 
 
-**Alliant Energy Corporate Site** |  [http://www.alliantenergy.com](http://www.alliantenergy.com/)  
----|---  
-**Alliant Energy Integrated Services** |  [http://www.alliantenergyisco.com](http://www.alliantenergyisco.com/)  
-**Alliant Energy Resources** |  <http://www.alliantenergy.com/diversified>  
-**Heartland Properties** |  [http://www.heartland-properties.com](http://www.heartland-properties.com/)  
-**PowerHouse: Home Comfort Tips** |  [http://www.powerhousetv.com](http://www.powerhousetv.com/)  
-**Track Pro Services** |  [http://www.trackproservices.com](http://www.trackproservices.com/)  
-**GeoThermal Information Office** |  [http://www.alliantgeo.com](http://www.alliantgeo.com/)  
-**CRANDIC** | [http://www.crandic.com](http://www.crandic.com/)  
-**Economic Development** |  [http://www.midwestsites.com](http://www.midwestsites.com/)  
-**RMT** |  [http://www.rmtinc.com](http://www.rmtinc.com/)  
-**Alliant Energy Resources Home Protection** |  [http://www.go2homeprotect.com](http://www.go2homeprotect.com/)  
-**PowerPledge** |  [http://www.powerpledge.net](http://www.powerpledge.net/)  
-**Alliant Energy Retiree Association** |  [http://www.alliantenergyretirees.com](http://www.alliantenergyretirees.com/)  
+**Alliant Energy Web Sites**  
+---  
+**Alliant Energy Corporate Site** | [http://www.alliantenergy.com](http://www.alliantenergy.com/)  
+**Alliant Energy Integrated Services** | [http://www.alliantenergyisco.com](http://www.alliantenergyisco.com/)  
+**Alliant Energy Resources** | <http://www.alliantenergy.com/diversified>  
+****Heartland Properties**** | [http://www.heartland-properties.com](http://www.heartland-properties.com/)  
   
-**Exception:** Alliant Energy Resources' [PowerHouse Catalog](http://www.powerhousecatalog.com/) will occasionally share its customer list with other catalog companies with similar product offerings. If you do not want PowerHouse Catalog to share your name with a third party, please email [powerhousecatalog@alliant-energy.com](mailto:powerhousecatalog@alliant-energy.com). 
+**PowerHouse: Home Comfort Tips**  
+| [http://www.powerhousetv.com](http://www.powerhousetv.com/)  
+**Track Pro Services** | [http://www.trackproservices.com](http://www.trackproservices.com/)  
+**GeoThermal Information Office** | [http://www.alliantgeo.com](http://www.alliantgeo.com/)  
+**CRANDIC** | [http://www.crandic.com](http://www.crandic.com/)  
+**Economic Development** | [http://www.midwestsites.com](http://www.midwestsites.com/)  
+**RMT**  
+| [http://www.rmtinc.com](http://www.rmtinc.com/)  
+**Alliant Energy Resources Home Protection** | [http://www.go2homeprotect.com](http://www.go2homeprotect.com/)  
+**PowerPledge** | [http://www.powerpledge.net](http://www.powerpledge.net/)  
+**Alliant Energy Retiree Association** | [http://www.alliantenergyretirees.com](http://www.alliantenergyretirees.com/)  
+**PowerHouse Kids** | [http://www.powerhousekids.com](http://www.powerhousekids.com/)  
+**Energy Technologies** | [http://www.alliantenergytechnologies.com](http://www.alliantenergytechnologies.com/)  
+  
+**Exception:** Alliant Energy Resources' [PowerHouse Catalog](http://www.powerhousecatalog.com/) will occasionally share its customer list with other catalog companies with similar product offerings. If you're a PowerHouse Catalog customer or have previously requested a catalog and don't want us to share your name with a third party, please notify us at [powerhousecatalog@alliant-energy.com](mailto:powerhousecatalog@alliant-energy.com). 
 
-PowerHouse Catalog does not sell, exchange or rent customer e-mail addresses with a third party. PowerHouse Catalog cannot, under penalty of law, sell, exchange or rent the Alliant Energy gas and electric utility customer names. 
+PowerHouse Catalog does not sell, exchange or rent customer e-mail addresses with a third party. 
 
 **Questions?**
 
