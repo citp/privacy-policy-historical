@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the windowsdevcenter.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607051424id_/http%3A//www.windowsdevcenter.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsdevcenter.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010072831id_/http%3A//www.windowsdevcenter.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
-# O'Reilly Network: Privacy Policy [Jan. 31, 2000]
+# WindowsDevCenter.com: Privacy Policy
 
 |  |   
 |    | [](https://web.archive.org/lpt/a/14 "Go to a print-friendly version of this page.")| [Print](https://web.archive.org/lpt/a/14 "Go to a print-friendly version of this page.")  
 ---|---|---  
-[](mailto:?subject=Privacy%20Policy&body=http://www.oreillynet.com/pub/a/mediakit/privacy.html "Send a link to this article to a friend.")| [Email article link](mailto:?subject=Privacy%20Policy&body=http://www.oreillynet.com/pub/a/mediakit/privacy.html "Send a link to this article to a friend.")  
+[](mailto:?subject=Privacy%20Policy&body=http://www.windowsdevcenter.com/pub/a/mediakit/privacy.html "Send a link to this article to a friend.")| [Email article link](mailto:?subject=Privacy%20Policy&body=http://www.windowsdevcenter.com/pub/a/mediakit/privacy.html "Send a link to this article to a friend.")  
 [](https://web.archive.org/pub/a/mediakit/privacy.html?page=last#trackbacks "Trackbacks")| [Trackbacks](https://web.archive.org/pub/a/mediakit/privacy.html?page=last#trackbacks "View trackbacks for this article.")  
 [](http://www.oreillynet.com/cs/user/print/a/14?x-t=blog_this.view "Get info to copy for a weblog post.")| [Blog this](http://www.oreillynet.com/cs/user/print/a/14?x-t=blog_this.view "Get info to copy for a weblog post.")  
   
