@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkbiz.com privacy policy that was archived on 2000-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001025112045id_/http%3A//talkbiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkbiz.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613122630id_/http%3A//www.talkbiz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
