@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cognex.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121134915id_/http%3A//cognex.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognex.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409082241id_/http%3A//www.cognex.com/privacy.asp) for the most accurate reproduction.*
 
 # Cognex - Privacy Policy
 
 **LEGAL INFORMATION: Cognex Corporation**
 
-**© Copyright 1996-2003. Cognex Corporation. All Rights Reserved.**
+**© Copyright 1996-2004. Cognex Corporation. All Rights Reserved.**
 
 The contents of this web site, including but not limited to all text, designs and images appearing herein (collectively, the "Contents"), are copyrighted works owned by Cognex Corporation ("Cognex" or the "Company"). Any copying, reproduction, modification, distribution or other unauthorized use of the Contents, including any portion or version thereof, is prohibited. Notwithstanding the foregoing, users of this web site have the limited permission to view, copy, print and distribute the Contents for non-commercial, informational purposes so long as any copy or other reproduction includes the above copyright notice.
 
-The products, processes, technology and related information described in this web site may be covered by one or more issued or pending [Cognex patents](https://web.archive.org/web/20031121134915id_/http%3A//cognex.com/patents.asp). No license or other intellectual property right to such Cognex products, processes or technologies is granted or conferred by this web site or by anything appearing herein.
+The products, processes, technology and related information described in this web site may be covered by one or more issued or pending [Cognex patents](https://web.archive.org/web/20040409082241id_/http%3A//www.cognex.com/patents.asp). No license or other intellectual property right to such Cognex products, processes or technologies is granted or conferred by this web site or by anything appearing herein.
 
-The [trademarks and registered trademarks](https://web.archive.org/web/20031121134915id_/http%3A//cognex.com/trademarks.asp) of Cognex referenced or used in this web site appear as marked and may not be used for any purpose without the express written permission of Cognex. All other brand names, designs, service marks and trademarks (whether or not registered) referenced or used herein are the property of their respective owners. Any reference to or use of third-party trademarks in this web site shall not constitute and is not intended to indicate such third party's affiliation with or endorsement of Cognex products and services.
+The [trademarks and registered trademarks](https://web.archive.org/web/20040409082241id_/http%3A//www.cognex.com/trademarks.asp) of Cognex referenced or used in this web site appear as marked and may not be used for any purpose without the express written permission of Cognex. All other brand names, designs, service marks and trademarks (whether or not registered) referenced or used herein are the property of their respective owners. Any reference to or use of third-party trademarks in this web site shall not constitute and is not intended to indicate such third party's affiliation with or endorsement of Cognex products and services.
 
 The product and/or service information set forth in this web site may be outdated, may contain errors and omissions, and is subject to change without notice. No statement, representation or other information contained in this web site should be construed as binding upon Cognex contractually or otherwise the basis for any express or implied warranty. Please contact the Company during normal business hours for the most up-to-date information regarding specific products and services.
 
