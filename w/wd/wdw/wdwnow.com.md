@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wdwnow.com privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219034804id_/http%3A//www.wdwnow.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwnow.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604025131id_/http%3A//www.wdwnow.com/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# WDWNOW.COM WDW, Walt Disney World News Updates Photos Reviews Discussion Forum
 
   
 
