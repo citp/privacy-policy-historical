@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2002-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021103005634id_/http%3A//www.federalnewsradio.com/%3Fsid%3D1313%26nid%3D44%26pid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606214722id_/http%3A//www.federalnewsradio.com/%3Fsid%3D1313%26nid%3D44%26pid%3D0) for the most accurate reproduction.*
 
 # FederalNewsRadio.com
 
