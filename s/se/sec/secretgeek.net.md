@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretgeek.net privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretgeek.net privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,31 +21,37 @@ If you have any concerns about this privacy policy, please contact me.
   
 
 
-[Add or view comments about this page](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/Comments_privacy.asp)
+[Add or view comments about this page](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/Comments_privacy.asp)
 
-|  [ windows search](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/ms_search.asp)  
-[ baby named blog](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/baby_named_blog.asp)  
-[ scoble hack](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/scoble_hack.asp)  
-[ Linkblog Added](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/new_linkblog.asp)  
-[ Soft v Hard](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/soft_hard.asp)  
-[ Bilbo, Keys](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/bilbo_key_idea.asp)  
-[ DVD, Lano, Woodley](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/dvd_lano_woodley.asp)  
-[ Save Dog as Chicken](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/theDogisaChicken.asp)  
-[ Coder to Developer, reviewed](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/coder_to_developer_is_so_handy.asp)  
-[ Stuckness](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/stuckness_delicious.asp)  
-[ 43 Folders...And 113](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/43folders_311.asp)  
+|  [ Web App of Evil](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/webappconfigproblem.asp)  
+[ MP3s and Moods](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/mp3moods.asp)  
+[ del.icio.us](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/delicious_people.asp)  
+[ Dev While U Wait](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/dey_while_u_wait.asp)  
+[ Best Kept Secrets in .NET](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/BestKeptSecrets.asp)  
+[ Goals: 2005](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/goals2005.asp)  
+[ Tsunami!](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/tsunami.asp)  
+[ podcast pain](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/podcast_pain.asp)  
+[ Used Pizza Podcast](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/podcast_20041224.asp)  
+[ Xmas with the Scobles!](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/scoble_Xmas.asp)  
+[ code quiz](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/codequiz.asp)  
+[ windows search](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/ms_search.asp)  
+[ baby named blog](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/baby_named_blog.asp)  
+[ scoble hack](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/scoble_hack.asp)  
+[ Linkblog Added](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/new_linkblog.asp)  
+[ Soft v Hard](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/soft_hard.asp)  
+[ Bilbo, Keys](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/bilbo_key_idea.asp)  
 
 
 * * *
 
-[ Older articles...](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/blogarchive.asp)  
+[ Older articles...](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/blogarchive.asp)  
 
 
 * * *
 
 * * *
 
-[ How to be depressed](https://web.archive.org/web/20041212223031id_/http%3A//secretgeek.net/depression_is_easy.asp)  
+[ How to be depressed](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/depression_is_easy.asp)  
 [ You are not inadequate.](http://secretgeek.net/inadequate.asp)  
 
 
@@ -53,6 +59,7 @@ If you have any concerns about this privacy policy, please contact me.
 
 ## Recommended Reading
 
+[Best Kept Secrets in .NET](http://www.amazon.com/exec/obidos/redirect?tag=thesecretgeek-20&path=tg%2Fdetail%2F-%2F1590594266%3Fv%3Dglance)  
 [Coder To Developer](http://www.amazon.com/exec/obidos/ASIN/078214327X/secretgeek-20)
 
 * * *
