@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604100522id_/http%3A//www.asiarooms.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025459id_/http%3A//www.asiarooms.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Discount hotels in - asiarooms.com provides lowest rates on accommodation
 
@@ -14,7 +14,7 @@ We also use data collected when you register, enter a contest, and make purchase
 
 We use your IP address to help diagnose problems with our server and to administer this website. We log IP addresses for the purposes of system administration, to track a user's specific session, or to investigate cases of fraud or other security violations on our site. Any personally identifiable information contained in our IP address logs will be treated with the same respect for your privacy that order and registration information is treated.
 
-**What the heck are cookies and should I worry about them?**  
+**What are cookies and should I worry about them?**  
 Cookies are small pieces of information that many web sites use to make online navigation easier. This data is contained on your hard drive in a file which your web browser provides for the purpose. A cookie can contain information such as a user ID. Our site can't read other data on your hard drive or read cookies created by other sites. 
 
 Our site uses cookies to keep track of your travel cart. You do not need to have cookies turned on to view our site, but you will need to accept cookies to fill the online reservation form.
