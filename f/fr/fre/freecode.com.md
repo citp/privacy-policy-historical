@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecode.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603213838id_/http%3A//osdn.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecode.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009014525id_/http%3A//osdn.com/privacy.shtml) for the most accurate reproduction.*
 
 # Open Source Development Network
 
@@ -58,13 +58,7 @@ To update the Privacy Statement, we will post both the changed version and its e
 
 
   
+[](http://ads.osdn.com/?ad_id=767&alloc_id=1760&site_id=6&request_id=5416821&op=click&page=%2fslashhead%2einc)  
 
 
-[](http://ads.osdn.com/?ad_id=271&alloc_id=155&site_id=6&request_id=8032724&op=click&page=%2fslashhead%2einc)  
-
-
-  
-
-
-[](http://ads.osdn.com/?ad_id=82&alloc_id=102&site_id=6&request_id=8032724&op=click&page=%2fslashhead%2einc)  
-
+**Spotlight links**
