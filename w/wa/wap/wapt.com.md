@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapt.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621100118id_/http%3A//www.thejacksonchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapt.com privacy policy that was archived on 2003-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030804054346id_/http%3A//www.thejacksonchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheJacksonChannel.com - News -
 
