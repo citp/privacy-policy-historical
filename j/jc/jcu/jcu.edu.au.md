@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcu.edu.au privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204211237id_/http%3A//www.jcu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcu.edu.au privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602230921id_/http%3A//www.jcu.edu.au/privacy) for the most accurate reproduction.*
 
 # JCU - Privacy Statement
 
