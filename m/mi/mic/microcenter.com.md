@@ -1,0 +1,63 @@
+> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207095023id_/http%3A//www.microcenter.com/privacy_policy.html) for the most accurate reproduction.*
+
+# Micro Center Online Privacy Policy
+
+  
+Micro Electronics, Inc. and Micro Center Online are concerned about your privacy and the security of your important personal information. We want you to be aware of what kind of information we obtain from you, how we use this information, and how you can control its use. This page discloses the privacy policy of Micro Electronics, Inc. on this site and you agree by using this site, without limitation or qualification, to be bound by this Privacy Policy. You should also review our [Safe Shopping Promise](https://web.archive.org/web/20021207095023id_/http%3A//www.microcenter.com/safe_shopping.html).
+
+This site is not intended or designed to attract children under the age of 13. We do not obtain any personally identifiable information from any person we know to be under the age of 13 and instruct children not to send us any information. 
+
+This site is restricted to users from the United States and those not governed by privacy policies of the European Union. Users from the European Union are advised not to disclose personal information on this site.
+
+Micro Center Online collects aggregate information as to what pages visitors to this site access or visit. The information that we collect is used to improve the content of this site. In certain cases we may ask for your name, address, e-mail address, phone number, type of business and other miscellaneous information such as product interests. This information will be used to inform you of special offers, new products, and any additional information about our company via postal mail or e-mail. You may ask to be removed or "opt out" of receiving additional marketing literature from Micro Center Online at any time. The ways that you can "opt out" are described below.
+
+We do not re-sell or distribute to third parties any of the information that you provide in online forms without your permission (by checking the appropriate box - or "opting in"). (A detailed description of how you must affirmatively act to "opt in" is provided below.) Such forms are used by us when you order online, if you should request more information from us, or should you add your name to our postal and e-mail mailing lists. **Information we DO NOT make available to anyone is financial, credit card transaction information or phone numbers.**
+
+Opt-in and Opt-Out Procedures  
+If you prefer not to receive any marketing literature from Micro Center Online, go to our [Mailing List](https://web.archive.org/web/20021207095023id_/http%3A//www.microcenter.com/mailing_lists.phtml) page and select the REMOVE ME FROM THE MAILING LIST button. You may also, if you prefer, send us an e-mail at [optout@microcenter.com](mailto:optout@microcenter.com) or write to us at Micro Center Online at 4115 Leap Road, Hilliard, Ohio 43026 and request that we not send you any more marketing literature. You may also call us toll free at 1-800-634-3478 to request this. If you choose not to receive mailings from us, we will not send you advertisements relating to either our online store or our local Micro Center stores. Please allow 1-2 months for us to make the requested change. Of course, you have the ability to "opt-in" and get back on our mailing list at any time by going to our [Mailing List](https://web.archive.org/web/20021207095023id_/http%3A//www.microcenter.com/mailing_lists.phtml) page and selecting the ADD ME TO THE MAILING LIST button.
+
+If you agree that we may provide your e-mail address to our carefully selected marketing partners, then the personal information that you have provided to us and the information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic and past purchase information) available from our records and other sources and shared with marketing partners. It may be used by our marketing partners to bring you offers of interest.
+
+Please go to our [Mailing List](https://web.archive.org/web/20021207095023id_/http%3A//www.microcenter.com/mailing_lists.phtml) page. If you prefer that we do NOT share your name, e-mail address, and other personally identiable information (as described above) with marketing partners, simple LEAVE the circle marked NO (this is the default setting) in answer to the question "May we provide your e-mail address to carefully selected Micro Center partners?" If, however, you want to permit us TO SHARE your name, e-mail address, and other personally identifiable information (as described above) with marketing partners, you have to affirmatively act and select the YES button in answer to that question. If you choose YES to permit us to share your personally identifiable information with marketing partners and at some later point change your mind, at that time select the NO button to request that we stop sharing your personally identifiable information with third parties. (Of course, you will have to tell any third parties who are sending you marketing information at that time to stop sending you their marketing information if that is your desire.) You may also, if you prefer, write to us at Micro Center Online, 4115 Leap Road, Hilliard, Ohio 43026 in order to request that we stop sharing your personally identifiable information with marketing partners. You may also call toll free at 1-800-634-3478 or e-mail us at [optout@microcenter.com](mailto:optout@microcenter.com). Please allow 1-2 months for us to make the requested change.
+
+If you agree to receive e-mail from our marketing partners, we will share with them your e-mail address and the information described above so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by clicking on the YES button on our [Mailing List](https://web.archive.org/web/20021207095023id_/http%3A//www.microcenter.com/mailing_lists.phtml) page. Additionally, each e-mail message our partners send you should include similar descriptions of simple opt-in and opt-out processes to enable you to stop receiving future e-mail and marketing materials from them or their marketing partners. Please be aware that the sites operated by our marketing partners may collect personal information about you and will operate according to their own privacy practices that may differ from our Privacy Policy and our [Safe Shopping Promise](https://web.archive.org/web/20021207095023id_/http%3A//www.microcenter.com/safe_shopping.html). Remember to consult other sites' privacy policies if you are concerned how your information is used by any party other than Micro Electronics, Inc. or Micro Center Online. Also, you need to consult other sites' privacy policies to find out how to choose not to receive marketing information from companies other than Micro Electronics, Inc. or Micro Center Online if that is your desire.
+
+Micro Center Online does not partner with or have special relationships with any ad server companies.
+
+From time to time, we may use visitor or customer information for new, unanticipated uses not previously disclosed in this Privacy Policy or our [Safe Shopping Promise](https://web.archive.org/web/20021207095023id_/http%3A//www.microcenter.com/safe_shopping.html). If our information practices change at some time in the future we will contact you before we use your data for these new purposes in order to notify you of the policy change or changes and to provide you with the ability to make choices respecting these new practices. We will also post the policy changes on this site to notify you and all visitors of these changes and to provide everyone with the ability to make choices respecting these new uses. If you are concerned about how your information is used, you should check back at this site periodically. At any time, you may prevent your information from being used for purposes other than those for which it was originally collected by sending us an e-mail at [optout@microcenter.com](mailto:optout@microcenter.com) or by writing to us at 4115 Leap Road, Hilliard, Ohio 43026. You may also call us toll free at 1-800-634-3478.
+
+Upon request we will provide you with any information that we maintain about you, including, without limitation, any financial information (e.g., credit card account information), unique identifier information (e.g., customer number or password), transaction information (e.g., dates on which you made purchases, amounts and types of purchases), contact information (e.g., name, address, phone number), and any other general information that we maintain about you. You may access this information by writing to Micro Center Online at 4115 Leap Road, Hilliard, Ohio 43026 or by calling us toll free at 1-800-634-3478. For security reasons, we will not provide you with this information online. Upon request and after appropriate verification, we will offer you the ability to have any inaccuracies corrected in your contact information, transaction information, or any other communications that you have directed to this site. You may have this information corrected by contacting us in the manner provided above.
+
+Cookies  
+Like every major online vendor, we utilize "cookie" technology, but the information gathered with cookies is limited to the type of computer you are using and where you travel within our site. **We set cookies to record certain information during your visit to Micro Center Online.** The benefit to you is the ability to save items added to your shopping bag and store them on our server for future reference (up to 30 days). These cookies **DO NOT (and cannot)** gather sensitive information like your name, address, credit card number, social security number, etc. **if you do not specifically give that information to us voluntarily. If you have given us that information cookies enable us to recall it (and save you the trouble of entering it all over again) each time you visit our site.  
+**
+
+Legal Disclaimer  
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our web site.
+
+For additional information about the steps we have taken to secure your personal information see our [Safe Shopping Promise](https://web.archive.org/web/20021207095023id_/http%3A//www.microcenter.com/safe_shopping.html).
+
+If you ever believe that we are not following our stated policies, including, without limitation, this Privacy Policy or our Safe Shopping Promise, you may contact any or all of the following: Micro Center Online at 4115 Leap Road, Hilliard, Ohio 43026 (or call toll free at 1-800-634-3478); your state or local chapter of the Better Business Bureau; your state or local consumer protection office; or the Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357) or electronically at <http://www.ftc.gov/ro/romap2.htm>.
+
+We take privacy seriously at Micro Center Online because we want you to shop with safety and security.
+
+This Privacy Policy was last updated on June 5, 2002.
+
+|    
+
+
+VeriSign Authentic Site  
+Authentic Sites like microcenter.com use a VeriSign Secure Server Digital ID to offer proof of identity, to enable secure communications and to encrypt translations with site visitors through their web browser connections. The only way to be sure of a web site's authenticity is to view the site's Digital ID. Viewing a site's ID assures that you are not being "spoofed" (i.e. the site is real and not an imposter) since it contains:
+
+  * The name of the company which owns the web site (e.g. Micro Electronics, Inc.) 
+  * The site's registered Internet address (e.g. www.microcenter.com) 
+  * The name of the Secure Server Certification Authority under which VeriSign issued the Digital ID (RSA Data Security or VeriSign)
+
+
+
+To view Micro Electronics, Inc.'s Digital ID when you enter the checkout page, follow these steps for your browser:
+
+  * Microsoft Internet Explorer 4 and later: Click on the gold padlock to bring up the details of this site's Digital ID. 
+  * Netscape Communicator: Click on the gold padlock in the lower left corner and the View Certificate button on the Security Information page.
+
+
