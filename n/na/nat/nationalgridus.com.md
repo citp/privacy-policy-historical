@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206230732id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607202202id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
 
 # National Grid - Privacy Policy
 
@@ -18,9 +18,9 @@ When on a secure page, you will see the lock icon on the bottom of your Internet
 We use order forms which allow customers to request information and apply for services. When applicable, we collect personal contact and identification information (such as your email address and home address). This information is used to answer your questions, solve your problems, and provide interactivity. We do not provide this information to any other parties.
 
 **Website Cookies**   
-A cookie is a small text file that is stored on your computer. We use both session ID cookies and persistent cookies on our website. A session ID cookie is temporary and once you close your browser, the cookie terminates. A persistent cookie is stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. On nationalgridus.com, cookies are not used to invade the privacy of internet users.
+A cookie is a small text file that is stored on your computer. We use both session ID cookies and persistent cookies on our website. A session ID cookie is temporary and once you close your browser, the cookie terminates. A persistent cookie is stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. On all National Grid-USA websites, cookies are not used to invade the privacy of internet users.
 
-Our cookies are used to improve the user experience. Persistent cookies enable us to track website usage patterns and analyze trends in the aggregate. This helps us to make nationalgridus.com more useful to visitors. If users reject this cookie, they will still have full access to our website. This cookie does include any personally identifiable information.
+Our cookies are used to improve the user experience. Persistent cookies enable us to track website usage patterns and analyze trends in the aggregate. This helps us to make nationalgridus.com more useful to visitors. If users reject this cookie, they will still have full access to our website. This cookie does not include any personally identifiable information.
 
 We also use cookies to create a continuous connection to the website. This type of cookie (a session ID cookie) is only temporary and allows users to fill out and complete a form. 
 
