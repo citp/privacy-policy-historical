@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208210903id_/http%3A//michiganbulb.com/article_disp.asp%3Fai%3D131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205032729id_/http%3A//michiganbulb.com/article_disp.asp%3Fai%3D131) for the most accurate reproduction.*
 
 # Michigan Bulb Co.
 
-|  **Michigan Bulb Co. Privacy Policy**  
-This is the web site of Michigan Bulb Co.
+|  **Michigan Bulb Company Privacy Policy**  
+This is the web site of Michigan Bulb CompanyŽ.
 
 Our postal address:  
-Reservation Center  
 PO Box 4180  
 Lawrenceburg IN 47025-4180 
 
-We can be reached via e-mail at service@michiganbulb.com
+Email address [service@michiganbulb.com.](mailto:service@michiganbulb.com)
 
-Telephone: 812.539.2496 
+Phone: 513-354-1498 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
@@ -28,17 +27,13 @@ The personal information you have provided us and information about your order m
 
 If you do not want to receive e-mail from us in the future or if you do not wish to receive the above-mentioned mailings, please let us know by sending e-mail to us at the above address, or calling us at the above telephone number, or writing to us at the above address.
 
-In addition, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending e-mail to us at the above address, or calling us at the above telephone number, or writing to us at the above address. If you prefer we do not share your name and address with marketing partners, please email us at service@michiganbulb.com.
+In addition, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending e-mail to us at the above address, or calling us at the above telephone number, or writing to us at the above address. If you prefer we do not share your name and address with marketing partners, please email us at: [service@michiganbulb.com.](mailto:service@michiganbulb.com)
 
 If you agreed to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each email our partners send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
 Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.
 
@@ -56,4 +51,9 @@ With respect to security: When we transfer and receive certain types of sensitiv
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau.
 
+* * *
+
+Have another question? Return to the [Customer Service Help](https://web.archive.org/article_disp.asp?article_id=244) page or send an e-mail directly to Customer Service.
+
+  
 | 
