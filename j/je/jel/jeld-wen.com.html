@@ -1,0 +1,448 @@
+<!--The following is the downloaded HTML source of the jeld-wen.com privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207001029id_/http%3A//www.jeld-wen.com/privacy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>JELD-WEN Privacy Policy</title>
+	<meta name="description" content="JELD-WEN Privacy Policy">
+	<meta name="keyword" content="JELD-WEN, Privacy, Policy">
+	<link rel="stylesheet" type="text/css" href="/_inc/css/style.css">
+	<script src="_inc/js/browserObject.js"></script>
+	<script>
+var W_NUMLAYERS = 4;
+var w_curLayer=W_NUMLAYERS;  //no layer selected
+var layerArray = new Array(W_NUMLAYERS);
+var b_init = false;
+var w_lastLayer = 0;
+var str_primNavArr = new Array(W_NUMLAYERS);
+var obj_primNavArr = new Array(W_NUMLAYERS);
+var str_windowsDefault = "/_images/topnav/windows.gif";
+var str_exteriordoorsDefault = "/_images/topnav/exterior_doors.gif";
+var str_interiordoorsDefault = "/_images/topnav/interior_doors.gif";
+var str_otherproductsDefault = "/_images/topnav/other_products.gif";
+var w_ignoreIndex;
+str_primNavArr[0] = str_windowsDefault;
+str_primNavArr[1] = str_exteriordoorsDefault;
+str_primNavArr[2] = str_interiordoorsDefault;
+str_primNavArr[3] = str_otherproductsDefault;
+
+
+
+
+
+
+function init(){
+	
+	if(is.ns){
+		layerArray[0]= document.layers["container_layer"].document.layers["flyout_win"];
+		layerArray[1]= document.layers["container_layer"].document.layers["flyout_ext"];
+		layerArray[2]= document.layers["container_layer"].document.layers["flyout_int"];
+		layerArray[3]= document.layers["container_layer"].document.layers["flyout_oth"];
+	}
+	else if(is.ns6){
+		layerArray[0]=document.getElementById("flyout_win");
+		layerArray[1]=document.getElementById("flyout_ext");
+		layerArray[2]=document.getElementById("flyout_int");
+		layerArray[3]=document.getElementById("flyout_oth");
+	}
+	else{
+		layerArray[0]=window.flyout_win;
+		layerArray[1]=window.flyout_ext;
+		layerArray[2]=window.flyout_int;
+		layerArray[3]=window.flyout_oth;
+	}
+	obj_primNavArr[0] = document.images["windows"];
+	obj_primNavArr[1] = document.images["exteriordoors"];
+	obj_primNavArr[2] = document.images["interiordoors"];
+	obj_primNavArr[3] = document.images["otherproducts"];
+	
+	b_init=true;
+	
+}
+
+function showlayer(lyr_index){
+	w_curLayer=lyr_index;
+	if(is.ie || is.ns6){
+		for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
+			if(w_temp!=lyr_index){
+				layerArray[w_temp].style.visibility = "hidden";
+			}/*
+			if(lyr_index == 1)
+				document.images["windows"].src = str_windowsDefault;
+			else if(lyr_index == 2)
+				document.images["exteriordoors"].src = str_exteriordoorsDefault;
+			else if(lyr_index == 3)
+				document.images["interiordoors"].src = str_interiordoorsDefault;
+			else if(lyr_index == 4)
+				document.images["otherproducts"].src = str_otherproductsDefault;*/
+		}
+		layerArray[w_curLayer].style.visibility = "visible";
+	}
+	else if(is.ns){
+		for(w_temp = 0; w_temp < W_NUMLAYERS; w_temp++){
+			if(w_temp!=lyr_index){
+				layerArray[w_temp].visibility = "hide";
+			}/*
+			if(lyr_index == 1)
+				document.images["windows"].src = str_windowsDefault;
+			else if(lyr_index == 2)
+				document.images["exteriordoors"].src = str_exteriordoorsDefault;
+			else if(lyr_index == 3)
+				document.images["interiordoors"].src = str_interiordoorsDefault;
+			else if(lyr_index == 4)
+				document.images["otherproducts"].src = str_otherproductsDefault;*/
+		}
+		layerArray[w_curLayer].visibility = "show";
+	}
+}
+
+function hideAllLayers(){
+	if(w_curLayer==W_NUMLAYERS){
+		if(is.ie || is.ns6){
+			for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
+				layerArray[w_temp].style.visibility = "hidden";
+			}
+		}
+		else if(is.ns){
+			for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
+				layerArray[w_temp].visibility = "hide";
+			}
+		}
+		//swap images back
+		for(w_temp = 0; w_temp < W_NUMLAYERS; w_temp++){
+			if(w_temp != w_ignoreIndex)
+				obj_primNavArr[w_temp].src = str_primNavArr[w_temp];
+		}
+		/*
+		if(is.ie || is.ns6){
+			document.images["windows"].src = str_windowsDefault;
+			document.images["exteriordoors"].src = str_exteriordoorsDefault;
+			document.images["interiordoors"].src = str_interiordoorsDefault;
+			document.images["otherproducts"].src = str_otherproductsDefault;
+		}
+		else{
+			document.images["windows"].src = str_windowsDefault;
+			document.images["exteriordoors"].src = str_exteriordoorsDefault;
+			document.images["interiordoors"].src = str_interiordoorsDefault;
+			document.images["otherproducts"].src = str_otherproductsDefault;
+		}
+		*/
+	}
+	else
+		setTimeout("hideAllLayers()", 500);
+}
+
+function hideLayer(){
+	var x = 0;
+	if(w_curLayer==0)
+		x=1;
+	if(is.ie || is.ns6){
+		layerArray[x].style.visibility = "hidden";
+	}
+	else if(is.ns){
+		layerArray[x].visibility = "hide";
+	}
+
+}
+
+function mouseExit(){
+	if(!b_init)
+		return;
+	w_curLayer=W_NUMLAYERS;
+	setTimeout("hideAllLayers()", 500);
+}
+
+
+function mouseEnter(w_layerIndex){
+	if(!b_init){
+		return;
+	}
+	w_curLayer=w_layerIndex;
+	for(w_temp = 0; w_temp < W_NUMLAYERS; w_temp++){
+		if((w_temp != w_layerIndex) && (w_temp != w_ignoreIndex))
+			obj_primNavArr[w_temp].src = str_primNavArr[w_temp];
+	}
+	showlayer(w_layerIndex);
+	
+}
+
+function hideLayersNoWait(){
+	if(is.ie || is.ns6){
+		for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
+			layerArray[w_temp].style.visibility = "hidden";
+		}
+	}
+	else if(is.ns){
+		for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
+			layerArray[w_temp].style.visibility = "hide";
+		}
+	}
+}
+</script>
+	
+	<script src="_inc/js/cssSelector.js"></script><link rel="stylesheet" href="/_inc/css/pc_ns6_flyout_style.css">
+	<script src="_inc/js/swapImage.js"></script>
+	<script src="_inc/js/popupWindow.js"></script>
+</head>
+
+<body onload="init()" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+
+<script>
+<!--
+function popupGallery(){
+	window.open('/gallery/gallery_stage.html','gallery','scrollbars=no,width=744,height=500');
+}
+
+function donothing(){
+	
+}
+-->
+</script>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td bgcolor="#487A93"><img src="/_images/spacer.gif" width="1" height="8"></td></tr>
+<tr><td><img src="/_images/spacer.gif" width="1" height="16"></td></tr>
+<tr>
+<td align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="760">
+	<tbody><tr>
+		<td><img src="/_images/spacer.gif" width="7" height="1"><a href="/index.cfm"><img src="/_images/topnav/jeld-wenlogo.gif" width="172" height="58" border="0" alt="JELD-WEN Windows &amp; Doors"></a></td>
+		<td valign="top">
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td width="580" colspan="8" align="right"><a href="/about/index.cfm" onmouseover="swapImages('about', '/_images/topnav/about-o.gif'); return true;" onmouseout="swapImages('about', '/_images/topnav/about.gif'); return true;"><img src="/_images/topnav/about.gif" alt="about JELD-WEN" name="about" width="103" height="22" hspace="0" vspace="0" border="0"></a><a href="/resources/index.cfm" onmouseover="swapImages('resources', '/_images/topnav/resources-o.gif'); return true;" onmouseout="swapImages('resources', '/_images/topnav/resources.gif'); return true;"><img name="resources" src="/_images/topnav/resources.gif" width="63" height="22" alt="resources" hspace="0" vspace="0" border="0"></a><a href="javascript:popupGallery();" onmouseover="swapImages('gallery', '/_images/topnav/gallery-o.gif'); return true;" onmouseout="swapImages('gallery', '/_images/topnav/gallery.gif'); return true;"><img name="gallery" src="/_images/topnav/gallery.gif" width="49" height="22" alt="gallery" hspace="0" vspace="0" border="0"></a><a href="/findsupplier/index.cfm" onmouseover="swapImages('findasupplier', '/_images/topnav/findasupplier-o.gif'); return true;" onmouseout="swapImages('findasupplier', '/_images/topnav/findasupplier.gif'); return true;"><img name="findasupplier" src="/_images/topnav/findasupplier.gif" width="86" height="22" alt="find a supplier" hspace="0" vspace="0" border="0"></a><a href="/pressroom/index.cfm" onmouseover="swapImages('pressroom', '/_images/topnav/pressroom-o.gif'); return true;" onmouseout="swapImages('pressroom', '/_images/topnav/pressroom.gif'); return true;"><img name="pressroom" src="/_images/topnav/pressroom.gif" width="71" height="22" alt="press room" hspace="0" vspace="0" border="0"></a><a href="/brochure/index.cfm" onmouseover="swapImages('brochures', '/_images/topnav/brochures-o.gif'); return true;" onmouseout="swapImages('brochures', '/_images/topnav/brochures.gif'); return true;"><img name="brochures" src="/_images/topnav/brochures.gif" width="67" height="22" alt="brochures" hspace="0" vspace="0" border="0"></a><a href="/search.cfm" onmouseover="swapImages('search', '/_images/topnav/search-o.gif'); return true;" onmouseout="swapImages('search', '/_images/topnav/search.gif'); return true;"><img name="search" src="/_images/topnav/search.gif" width="55" height="22" alt="search" hspace="0" vspace="0" border="0"></a></td></tr>
+			<tr>
+				<td width="157"><a href="javascript:donothing();" onmouseover="mouseEnter(0);swapImage('windows', '/_images/topnav/windows-o.gif', 'container_layer')" onmouseout="mouseExit()"><img src="/_images/topnav/windows.gif" width="157" height="19" border="0" alt="windows &amp; patio doors" name="windows"></a></td>
+				<td width="8"><img src="/_images/spacer.gif" width="8" height="1"></td>
+				<td width="132"><a href="javascript:donothing();" onmouseover="mouseEnter(1);swapImage('exteriordoors', '/_images/topnav/exterior_doors-o.gif', 'container_layer')" onmouseout="mouseExit()"><img src="/_images/topnav/exterior_doors.gif" width="132" height="19" border="0" alt="exterior doors" name="exteriordoors"></a></td>
+				<td width="8"><img src="/_images/spacer.gif" width="8" height="1"></td>
+				<td width="132"><a href="javascript:donothing();" onmouseover="mouseEnter(2);swapImage('interiordoors', '/_images/topnav/interior_doors-o.gif', 'container_layer')" onmouseout="mouseExit()"><img src="/_images/topnav/interior_doors.gif" width="132" height="19" border="0" alt="interior doors" name="interiordoors"></a></td>
+				<td width="8"><img src="/_images/spacer.gif" width="8" height="1"></td>
+				<td width="127"><a href="javascript:donothing();" onmouseover="mouseEnter(3);swapImage('otherproducts', '/_images/topnav/other_products-o.gif', 'container_layer')" onmouseout="mouseExit()"><img src="/_images/topnav/other_products.gif" width="127" height="19" border="0" alt="other products" name="otherproducts"></a></td>
+
+				<td width="8"><img src="/_images/spacer.gif" width="8" height="1"></td></tr>
+			</tbody></table>
+
+			
+
+			<div id="container_layer" class="container">				
+				<div id="flyout_win" class="fly_win">
+				<table border="0" cellpadding="0" cellspacing="0" class="normaltable">
+					<tbody><tr><td height="19" class="normaltable"><a href="/windows/wood/index.cfm" onmouseover="mouseEnter(0);swapFlyoutImageA('/_images/topnav/windows_wood-o.gif', 'woodwindows')" onmouseout="mouseExit();swapFlyoutImageA('/_images/topnav/windows_wood.gif', 'woodwindows')"><img src="/_images/topnav/windows_wood.gif" width="157" height="19" border="0" name="woodwindows" alt="wood and clad wood"></a></td></tr>
+					<tr><td height="19" class="normaltable"><a href="/windows/vinyl/index.cfm" onmouseover="mouseEnter(0);swapFlyoutImageA('/_images/topnav/windows_vinyl-o.gif', 'vinyl')" onmouseout="mouseExit();swapFlyoutImageA('/_images/topnav/windows_vinyl.gif', 'vinyl')"><img src="/_images/topnav/windows_vinyl.gif" width="157" height="19" border="0" name="vinyl" alt="vinyl"></a></td></tr>
+					<tr><td height="19" class="normaltable"><a href="/windows/aluminum/index.cfm/material_id/3" onmouseover="mouseEnter(0);swapFlyoutImageA('/_images/topnav/windows_aluminum-o.gif', 'aluminum')" onmouseout="mouseExit();swapFlyoutImageA('/_images/topnav/windows_aluminum.gif', 'aluminum')"><img src="/_images/topnav/windows_aluminum.gif" width="157" height="19" border="0" name="aluminum" alt="aluminum"></a></td></tr>
+				</tbody></table>
+				</div>
+				<div id="flyout_ext" class="fly_ext">
+				<table border="0" cellpadding="0" cellspacing="0" class="normaltable">
+					<tbody><tr><td class="normaltable"><a href="/exteriordoors/wood/index.cfm" onmouseover="mouseEnter(1);swapFlyoutImageV('/_images/topnav/exterior_doors_wood-o.gif', 'woodexterior')" onmouseout="mouseExit();swapFlyoutImageV('/_images/topnav/exterior_doors_wood.gif', 'woodexterior')"><img src="/_images/topnav/exterior_doors_wood.gif" width="132" height="19" border="0" name="woodexterior" alt="wood and clad wood"></a></td></tr>
+					<tr><td class="normaltable"><a href="/exteriordoors/fiberglass/index.cfm" onmouseover="mouseEnter(1);swapFlyoutImageV('/_images/topnav/exterior_doors_fiberglass-o.gif', 'fiberglass')" onmouseout="mouseExit();swapFlyoutImageV('/_images/topnav/exterior_doors_fiberglass.gif', 'fiberglass')"><img src="/_images/topnav/exterior_doors_fiberglass.gif" width="132" height="19" border="0" name="fiberglass" alt="fiberglass"></a></td></tr>
+					<tr><td class="normaltable"><a href="/exteriordoors/woodcomposite/alterna/index.cfm" onmouseover="mouseEnter(1);swapFlyoutImageV('/_images/topnav/exterior_doors_woodcomp-o.gif', 'woodcomposite')" onmouseout="mouseExit();swapFlyoutImageV('/_images/topnav/exterior_doors_woodcomp.gif', 'woodcomposite')"><img src="/_images/topnav/exterior_doors_woodcomp.gif" width="132" height="19" border="0" name="woodcomposite" alt="wood composite"></a></td></tr>
+					<tr><td class="normaltable"><a href="/exteriordoors/steel/index.cfm" onmouseover="mouseEnter(1);swapFlyoutImageV('/_images/topnav/exterior_doors_steel-o.gif', 'steel')" onmouseout="mouseExit();swapFlyoutImageV('/_images/topnav/exterior_doors_steel.gif', 'steel')"><img src="/_images/topnav/exterior_doors_steel.gif" width="132" height="19" border="0" name="steel" alt="steel"></a></td></tr>
+				</tbody></table>
+				</div>
+				<div id="flyout_int" class="fly_int">
+				<table border="0" cellpadding="0" cellspacing="0" class="normaltable">
+					<tbody><tr><td class="normaltable"><a href="/interiordoors/wood/index.cfm" onmouseover="mouseEnter(2);swapFlyoutImageC('/_images/topnav/interior_doors_wood-o.gif', 'woodinterior')" onmouseout="mouseExit();swapFlyoutImageC('/_images/topnav/interior_doors_wood.gif', 'woodinterior')"><img src="/_images/topnav/interior_doors_wood.gif" width="132" height="19" border="0" name="woodinterior" alt="wood"></a></td></tr>
+					<tr><td class="normaltable"><a href="/interiordoors/customcarved/index.cfm" onmouseover="mouseEnter(2);swapFlyoutImageC('/_images/topnav/interior_doors_custom-o.gif', 'custom')" onmouseout="mouseExit();swapFlyoutImageC('/_images/topnav/interior_doors_custom.gif', 'custom')"><img src="/_images/topnav/interior_doors_custom.gif" width="132" height="19" border="0" name="custom" alt="router carved"></a></td></tr>
+					<tr><td class="normaltable"><a href="/interiordoors/molded/jeld-wen/index.cfm" onmouseover="mouseEnter(2);swapFlyoutImageC('/_images/topnav/interior_doors_molded-o.gif', 'molded')" onmouseout="mouseExit();swapFlyoutImageC('/_images/topnav/interior_doors_molded.gif', 'molded')"><img src="/_images/topnav/interior_doors_molded.gif" width="132" height="19" border="0" name="molded" alt="molded"></a></td></tr>
+					<tr><td class="normaltable"><a href="/interiordoors/flush/jeld-wen/index.cfm" onmouseover="mouseEnter(2);swapFlyoutImageC('/_images/topnav/interior_doors_flush-o.gif', 'flush')" onmouseout="mouseExit();swapFlyoutImageC('/_images/topnav/interior_doors_flush.gif', 'flush')"><img src="/_images/topnav/interior_doors_flush.gif" width="132" height="19" border="0" name="flush" alt="flush"></a></td></tr>
+				</tbody></table>
+				</div>
+				<div id="flyout_oth" class="fly_oth">
+				<table border="0" cellpadding="0" cellspacing="0" class="normaltable">
+					<tbody><tr><td class="normaltable"><a href="/otherproducts/garagedoors/jeld-wen/product.cfm/product_id/117" onmouseover="mouseEnter(3);swapFlyoutImageD('/_images/topnav/other_products_garage-o.gif', 'garagedoors')" onmouseout="mouseExit();swapFlyoutImageD('/_images/topnav/other_products_garage.gif', 'garagedoors')"><img src="/_images/topnav/other_products_garage.gif" width="127" height="19" border="0" name="garagedoors" alt="garage doors"></a></td></tr>
+
+				</tbody></table>
+				</div>
+			</div>
+		</td>
+	</tr>
+	</tbody></table>
+	
+</td>
+</tr>
+</tbody></table>
+<script>
+	if((is.ns4) || ((is.ie) && (is.mac))){
+		document.write("<br><img src='/_images/spacer.gif' width='100' height='60'><br>");
+	}
+</script>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td align="center" valign="top" background="/_images/double_bar.gif">
+	
+			<table width="760" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="8" bgcolor="#FFFFFF"><img src="/_images/spacer.gif" width="8" height="1"></td>
+					<td bgcolor="#DFDCD8">
+					<table width="726" border="0" cellspacing="0" cellpadding="0" align="center">
+					<tbody><tr>
+					<td>
+					<p>
+					<img src="/_images/spacer.gif" width="10" height="6"><br clear="all">
+					<b>PRIVACY POLICY</b></p>
+					
+					<p>
+					We at <b>JELD-WEN, inc.</b> (referred to as "<b>JELD-WEN, inc.</b>," "we," "us," or "our") recognize the importance of protecting the privacy of certain information ("Information") collected about our customers and prospective customers (referred to as "Customers," "you," or "your"). This privacy statement discloses what Information we gather, how we use it, and how to correct or change it. At <b>JELD-WEN, inc.</b>, it is our intention to give you an understanding about how we collect your Information and the use we make of it in the course of our business.</p>
+					
+					<p>
+					To that end, we gather three types of Information about Customers: data that Customers provide through optional, voluntary registration on our sites; data collected and shared between JELD-WEN affiliates; and data we gather through aggregated tracking, mainly by tallying page views throughout our sites. Such Information enables us to tailor our content to fit Customers' needs better and to help our affiliates understand our audience. Be assured that <b>JELD-WEN, inc.</b>  will not disclose Personal Information to third parties without your consent, except as may be noted in this Privacy Policy or disclosed to you when the Information is submitted.</p>
+
+					<p>
+					<b>Table of Contents</b><br>
+					<table width="700" border="0">
+						<tbody><tr>
+							<td valign="top">
+							<img src="_images/arrow.gif"><a href="#Cookies">Use of Cookies</a><br>
+							<img src="_images/arrow.gif"><a href="#IP_Addresses">Use of Internet Protocol IP Addresses</a><br>
+							<img src="_images/arrow.gif"><a href="#Information">Information Collection</a><br>
+							<img src="_images/arrow.gif"><a href="#Forms">Forms</a></td>
+							<td valign="top">
+							<img src="_images/arrow.gif"><a href="#Child_Use">Child Use of Sites</a><br>
+							<img src="_images/arrow.gif"><a href="#Notifications">Notifications and Verifications</a><br>
+							<img src="_images/arrow.gif"><a href="#Sharing">Sharing Information</a><br>
+							<img src="_images/arrow.gif"><a href="#Supplementation">Data Supplementation</a></td>
+							<td valign="top">
+							<img src="_images/arrow.gif"><a href="#Third_Party">Third Party and Aggregate Data</a><br>
+							<img src="_images/arrow.gif"><a href="#Safeguarding">Safeguarding Customer Information</a><br>
+							<img src="_images/arrow.gif"><a href="#Acceptance">Your Acceptance of these terms</a></td>
+						</tr>
+					</tbody></table>
+					</p>
+
+					<p><a name="Cookies"></a>
+					<b>Use of Cookies</b><br>
+					A cookie is a piece of data generated by a Web site and stored on your computer. Our Sites may use cookies to track unique visits. This simply means that visits to the Site can be uniquely identified and tracked from page to page. However, it does not tell us who you are specifically, only that you are a unique visitor. Our Sites may also use cookies to keep visitors logged into secure areas as they navigate from page to page. This eliminates the need to log in multiple times during your visit. We may also use cookies to help our Sites remember the preferences or settings you may set in different Site functions.
+					<br><br>
+					We do not have access to and cannot control cookies set by Web sites we link to or that link to our Sites.
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+
+					<p><a name="IP_Addresses"></a>
+					<b>Use of Internet Protocol ("IP") Addresses</b><br>
+					An IP address is a unique number that is automatically assigned to your computer whenever you are surfing the Internet so that your computer can be identified by the main computers, known as "Web servers," that "serve up" Web pages.
+					<br><br>
+					<b>JELD-WEN, inc.</b>  and/or its affiliates collect IP addresses for the purposes of system administration, to report aggregated Information to our affiliates, and to audit the use of our site. When Customers request pages from <b>JELD-WEN, inc.</b>  and/or its affiliates' sites, our servers log the Customers' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a Customer's session will be logged, but the Customer will remain anonymous to us. We can and will use IP addresses to identify a Customer when we feel it is necessary to enforce compliance with our Site terms of use or terms of service or to protect our service, site, customers or others.
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+ 
+					<p><a name="Information"></a>
+					<b>Information Collection</b><br>
+In most instances, we collect Information by specifically requesting it from you. Generally, this occurs when you register at a site or request information or a service. Our sites may also use your information to inform you about other products or services available from <b>JELD-WEN, inc.</b>  and its affiliates.
+					<br><br>
+					We may also collect information provided by our affiliates and/or third parties. This information is generally non-personal information, relating to demographic traits and purchasing habits.
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+
+					<p><a name="Forms"></a>
+					<b>Forms</b><br>
+					Some of our sites and services may require a completed form in order to access secured information, use special site functions, or complete a transaction. Product literature requests may require your contact information, demographics, unique identifiers, shipping or billing information,  and other personal or financial information. We may also use some of this information to contact you about the services for which you have expressed interest and/or important support information.
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+
+					<p><a name="Child_Use"></a>
+					<b>Child Use of Sites</b><br>
+<b>JELD-WEN, inc.</b>  Web sites are not intended for use by children under 18 years of age. Furthermore, it is not our intention to extend promotional offers to children. Should this occur in error, we will take immediate action, upon notification of the child's age, to modify our records and eliminate the chance for future offers of this nature.
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+
+					<p><a name="Notifications"></a>
+					<b>Notifications and Verifications</b><br>
+					We may use e-mail or other contact methods to notify site users and promotional participants of <b>JELD-WEN, inc.</b>  special offers, newsletters, and site alerts or features. We may also use e-mail or other contact methods to disseminate PINS and passwords, validate requests and provide customer support.
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+ 
+					<p><a name="Sharing"></a>
+					<b>Sharing Information</b><br>
+					<b>JELD-WEN, inc.</b>  does not sell or lease your Personal Information. And, as a general rule, we will not disclose any specific Personal Information that you submit to us about you ("Personal Information") in a manner that connects you with the Personal Information, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Personal Information is information about you that is personally identifiable like your name, address, e-mail address, or phone number, and that is not otherwise publicly available. The following describes some of the ways that your Personal Information may be disclosed.
+					<br><br>
+					Business Partners and Sponsors: We may disclose some or all of your Personal Information to business partners or sponsors who work on behalf of or with <b>JELD-WEN, inc.</b>  under confidentiality agreements. These companies may use your Personal Information to help us communicate with you about offers from <b>JELD-WEN, inc.</b>  and our marketing partners. However, these companies do not have any independent right to share this information. We may share the Personal Information we collect with other entities, such as:
+					</p><ul>
+					<li>Unaffiliated service providers such as firms who provide note securitization;</li>
+					<li>Government agencies and law enforcement officials;</li>
+					<li>Other organizations, with your consent;</li>
+					<li>Other organizations, as permitted by law.</li>
+					</ul>
+					By requesting more information, you give <b>JELD-WEN, inc.</b>  permission to transfer your Personal Information to the sponsor so they can fulfill your request. In many instances, only your e-mail address will be shared.
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a><p></p>
+
+					<p><a name="Supplementation"></a>
+					<b>Data Supplementation</b><br>
+					We may supplement, under confidentiality agreements, your Personal Information with information provided by our affiliates or third parties in order to offer you products and services that better meet your needs and preferences. 
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+ 
+					<p><a name="Third_Party"></a>
+					<b>Third Party and Aggregate Data</b><br>
+					From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt to receive information from these third parties, we will (with your permission) share your name and e-mail address with such third parties. Also, we may keep track of what portions of the Web site Customers are visiting and other Customer statistics, and aggregate this information to help us create a better experience for users of our Web site. This is all done without knowing your name or other Personal Information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+					<br><br>
+					<b>What happens when you link to a third party site?</b><br>
+					<b>JELD-WEN, inc.</b>  are not responsible for the content of any off-site pages or any other Web sites linked to or from the sites. Links appearing on the sites are for convenience only and are not an endorsement by <b>JELD-WEN, inc.</b>  or our affiliates or their partners of the referenced content, product, service or supplier. Your linking to or from any off-site pages or other Web sites is at your own risk. <b>JELD-WEN, inc.</b>  are in no way responsible for examining or evaluating, and they do not warrant the offerings of, off-site pages or any other Web sites linked to or from the sites, nor do we assume any responsibility or liability for the actions, content, products, or services of such pages and Web sites, including, without limitation, terms and conditions. You should carefully review the terms and conditions of all off-site pages and other Web sites that you visit.
+					<br><br>
+					Third-party Web sites may refer to our sites and even provide hyperlinks to specific pages or functions. We are not responsible for the context in which those referring links are made nor are we responsible for ensuring those links work properly.
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+
+					<p><a name="Safeguarding"></a>
+					<b>Safeguarding Customer Information</b><br>
+We only grant access to nonpublic personal information about you (such as your name, address, e-mail address, and phone number) to company employees and affiliated and non-affiliated service providers so that they can provide or offer products and services to you, process and service your accounts, and administer our business.
+					<br><br>
+					Our Code of Conduct requires that your information remain confidential. Even if you are no longer our customer, we will continue to treat your nonpublic personal information in the same way as if you were still a customer. In addition, we maintain physical, electronic and procedural safeguards that comply with federal standards to guard this personal information. Some state laws may further restrict the sharing of your nonpublic personal information.
+					<br><br>
+					Other: We may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating JELD-WEN, inc.  terms of use or terms of service, or may be causing injury to or interference (either intentionally or unintentionally) with any <b>JELD-WEN, inc.</b>'s rights or property, other <b>JELD-WEN, inc.</b>  Customers, or anyone else. 
+					<br><br>
+					<b>JELD-WEN, inc.</b>  may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
+					<br><br>
+					You are responsible for maintaining the confidentiality of your account and password, restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. 
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+
+					<p><a name="Acceptance"></a>
+					<b>Your Acceptance of these terms</b><br>
+By using this site, you signify your agreement to <b>JELD-WEN, inc.</b>  and/or its affiliates' sites following the posting changes to these terms will mean you accept those changes.
+					<br><br>
+					This policy applies to <b>JELD-WEN, inc.</b>  and other Web sites owned by <b>JELD-WEN, inc.</b>  or its affiliates are specifically linked to this Privacy Policy.
+					<br><br>
+					<a href="privacy.cfm">Back to Top</a></p>
+					</td>
+					</tr>
+					</tbody></table>
+					</td>
+					<td width="8" bgcolor="#FFFFFF"><img src="/_images/spacer.gif" width="8" height="1"></td>
+				</tr>
+			</tbody></table>
+	
+		</td>
+	</tr>
+</tbody></table>
+<!-- Ghosted link to site map for search engines -->
+<a href="site_map_hop1.cfm"><img src="/_images/spacer.gif" width="8" height="1" border="0"></a>
+
+
+<br>
+<br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+	<td bgcolor="#CAD9E2"><img src="/_images/spacer.gif" width="8" height="1"></td>
+	<td bgcolor="#CAD9E2" align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="742">
+	<tbody><tr>
+		<td bgcolor="#CAD9E2" height="23">
+		<a href="/index.cfm">Home</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/privacy.cfm">Privacy Policy</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/trademark.cfm">Trademark and Copyright</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		© 2003 JELD-WEN, inc. All rights reserved.</td>
+	</tr>
+	</tbody></table></td>
+	<td bgcolor="#CAD9E2"><img src="/_images/spacer.gif" width="8" height="1"></td>
+</tr>
+<tr><td colspan="3" bgcolor="#00436E"><img src="/_images/spacer.gif" width="1" height="8"></td></tr>
+</tbody></table>
+
+
+</body></html>
