@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2002-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021120120821id_/http%3A//www.ceruleanstudios.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2003-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030614085226id_/http%3A//www.ceruleanstudios.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Cerulean Studios > Privacy Policy
 
