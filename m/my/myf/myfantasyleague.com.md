@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212132326id_/http%3A//myfantasyleague.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604020923id_/http%3A//myfantasyleague.com/privacy.html) for the most accurate reproduction.*
 
 # Fantasy Football at myfantasyleague.com: Our Privacy Policy
 
 [](https://web.archive.org/)  
-[](https://web.archive.org/web/20011212132326id_/http%3A//myfantasyleague.com/features.html)  
-[](https://web.archive.org/web/20011212132326id_/http%3A//myfantasyleague.com/reports.html)  
-[](https://web.archive.org/web/20011212132326id_/http%3A//myfantasyleague.com/support.html)  
-[](https://web.archive.org/web/20011212132326id_/http%3A//myfantasyleague.com/faqs.html)  
-[](https://web.archive.org/web/20011212132326id_/http%3A//myfantasyleague.com/compare.html)  
-[](https://web.archive.org/web/20011212132326id_/http%3A//myfantasyleague.com/purchase.html)  
+[](https://web.archive.org/web/20020604020923id_/http%3A//myfantasyleague.com/features.html)  
+[](https://web.archive.org/web/20020604020923id_/http%3A//myfantasyleague.com/reports.html)  
+[](https://web.archive.org/web/20020604020923id_/http%3A//myfantasyleague.com/support.html)  
+[](https://web.archive.org/web/20020604020923id_/http%3A//myfantasyleague.com/faqs.html)  
+[](https://web.archive.org/web/20020604020923id_/http%3A//myfantasyleague.com/compare.html)  
+[](https://web.archive.org/web/20020604020923id_/http%3A//myfantasyleague.com/purchase.html)  
 [](https://web.archive.org/)  
 |   
   
