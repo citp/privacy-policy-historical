@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the williecrawford.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williecrawford.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/privacy.html) for the most accurate reproduction.*
 
 # Crawford Marketing Consultants - Privacy Policy
 
   | 
 
-[](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/services.htm)[](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/services.htm)[**Services**](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/services.htm)[](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/services.htm)
+[](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/services.htm)[](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/services.htm)[**Services**](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/services.htm)[](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/services.htm)
 
 [Website Promotion](http://www.williecrawford.com/website-promotion.html)  
 [Ezine Promotion](http://www.williecrawford.com/ezine-promotion.html)  
@@ -13,7 +13,7 @@
 [Personal Consults](http://www.williecrawford.com/consultation.html)  
 
 
-[](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/products.htm)[](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/products.htm)[**Products**](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/products.htm)[](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/products.htm)
+[](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/products.htm)[](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/products.htm)[**Products**](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/products.htm)[](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/products.htm)
 
 [Merchant Acc'ts.](http://www.marketingtips.com/creditcards/t.x/25861)  
 Free Trials:  
@@ -21,9 +21,9 @@ Free Trials:
 [E-ditor Pro Ebook](http://www.e-ditorial.com/cgi-bin/affiliates/clickthru.cgi?id=williec)  
 [Net Detective](http://www.collector-club.com/DET/members/100292/index.shtml)
 
-[](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/articles.htm)[](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/articles.htm)[**Articles**](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/articles.htm)[](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/articles.htm)
+[](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/articles.htm)[](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/articles.htm)[**Articles**](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/articles.htm)[](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/articles.htm)
 
-[Online list](https://web.archive.org/web/20020605080857id_/http%3A//www.williecrawford.com/articles.htm)  
+[Online list](https://web.archive.org/web/20021207211704id_/http%3A//www.williecrawford.com/articles.htm)  
 [By autoresponder](http://www.williecrawford.com/ar.html)
 
 **Learn what works for:** Promoting your web site, Getting Subscribers, Increasing Sales.  
