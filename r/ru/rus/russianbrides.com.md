@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207092226id_/http%3A//www.russianbrides.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2005-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050327062131id_/http%3A//www.russianbrides.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Russianbrides.com Privacy policy
 
@@ -107,4 +107,4 @@ This Privacy Policy was posted in June 2001. Russianbrides.com reserves the righ
 
 If you have any questions, comments, criticisms, or complaints about Russianbrides.com's privacy policy and/or the way it affects you, please feel free to email us at [info@Russianbrides.com.](mailto:info@russianbrides.com)
 
-[](http://4affiliate.net/href.asp?afid=12&uin=1271)
+[](http://4affiliate.net/href.asp?afid=12&uin=4374)
