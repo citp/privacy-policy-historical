@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gene.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212201144id_/http%3A//www.gene.com/gene/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gene.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603235159id_/http%3A//www.gene.com/gene/privacy.jsp) for the most accurate reproduction.*
 
 # Genentech - Privacy Policy
 
