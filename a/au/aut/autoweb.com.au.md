@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoweb.com.au privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613183532id_/http%3A//www2.autoweb.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoweb.com.au privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021172527id_/http%3A//autoweb.com.au/privacy.html) for the most accurate reproduction.*
 
 # AutoWeb - Your Online Guide to Buying and Selling New and Used Cars
 
@@ -20,16 +20,16 @@ From time to time we may also collect non-personally identifiable information du
 
 Personally identifiable information we collect from you is used to fulfil the service you have requested from us such as a purchase or an enquiry. If the information is to be used for any other purpose this use will be clearly stated at the time we collect the information. If the information provided is not necessary to fulfil the service completion of the details will be optional.
 
-Fulfilment of the service may require your personally identifiable information to be provided to a third party such as the provider of the service, supplier of a product or the goods carrier in the case of a purchase and carsales.com.au and the relevant car dealer in the case of new and used vehicle enquiries. 
+Fulfilment of the service may require your personally identifiable information to be provided to a third party such as the provider of the service, supplier of a product or the goods carrier in the case of a purchase and Autobytel.com.au and the relevant car dealer in the case of new and used vehicle enquiries. 
 
 #### Third Party Advertising
 
-We use various third party ad servers including DoubleClick's DART, DoubleClick's Audience Network and BMC Media's Sabela to display advertisements to you. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. This information is provided to the Ad-Server and is used by the Ad-Server to create anonymous interest profiles. This information does not include and is never merged with personally identifiable information (such as name, address or email address) or any information that is considered sensitive or controversial or that would compromise your privacy. The Ad-Server(s') profiles may be accessed by the website and marketers to tailor site content, promotions and advertising, and to perform marketing research. Consumers can opt-out from these profiles at any time. 
+We use various third party ad servers including DoubleClick's DART and DoubleClick's Audience Network to display advertisements to you. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. This information is provided to the Ad-Server and is used by the Ad-Server to create anonymous interest profiles. This information does not include and is never merged with personally identifiable information (such as name, address or email address) or any information that is considered sensitive or controversial or that would compromise your privacy. The Ad-Server(s') profiles may be accessed by the website and marketers to tailor site content, promotions and advertising, and to perform marketing research. Consumers can opt-out from these profiles at any time. 
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies visit the following pages:
 
-[DoubleClick](http://www.doubleclick.net/naiprivacy)  
-[Sabela](http://us.www.sabela.com/information/privacy.html)
+[DoubleClick](http://www.doubleclick.net/us/corporate/privacy/)  
+
 
 #### Third Party Cookies
 
