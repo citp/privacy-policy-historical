@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dod.mil privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611214020id_/http%3A//www.dod.mil/warning/warn-dl.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dod.mil privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210013615id_/http%3A//www.dod.mil/warning/warn-dl.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
