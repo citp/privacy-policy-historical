@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aop.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001143936id_/http%3A//aop.com/article.asp%3Fchan_id%3D329) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aop.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603022446id_/http%3A//aop.com/article.asp%3Fchan_id%3D329) for the most accurate reproduction.*
 
 # Alpha Omega Publications - Privacy Policy
 
