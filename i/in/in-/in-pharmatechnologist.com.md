@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the in-pharmatechnologist.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206205333id_/http%3A//www.inpharma.com/misc/misc.asp%3Fidmisc%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the in-pharmatechnologist.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404064423id_/http%3A//www.in-pharmatechnologist.com/misc/misc.asp%3Fidmisc%3D12) for the most accurate reproduction.*
 
 # Pharmaceutical industry and manufacturer - Pharmaceutical news, packaging and technology
 
@@ -28,7 +28,7 @@ Methods used to collect this information may include "cookies" and "clear GIFs" 
 
 Every browser (the vehicle by which a computer accesses the Internet) is assigned an ID number. That ID number is held in a file called a cookie. That number is not attached to a name, just a number. Site Publishers such as Novis use cookies to enhance the user's Web viewing experience. Cookies cannot damage user files, nor can they read information from a user's hard drive. A cookie is a small file of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of the Sites. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message.
 
-A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We also use specific individual identifiers on e-mails which allows us to monitors which e-mails are successfully delivered and remove obsolete addresses from our database. For internal analytical purposes we sometimes link this individual identifier to the clear GIFs to allow us to see the general open rates and activity generated from newsletters. Information retrieved this way is used for statistical purposes only. It is never released to thrird parties and is part of our on-going efforts to improve the relevancy and quality of our products. 
+A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We also use specific individual identifiers on e-mails which allows us to monitors which e-mails are successfully delivered and remove obsolete addresses from our database. For internal analytical purposes we sometimes link this individual identifier to the clear GIFs to allow us to see the general open rates and activity generated from newsletters. Information retrieved this way is used for statistical purposes only. It is never released to third parties and is part of our on-going efforts to improve the relevancy and quality of our products. 
 
 **How We Use Your Information**  
   
@@ -56,7 +56,7 @@ We may disclose aggregated anonymous statistics about many Users to advertisers,
 
 We sometimes engage third parties to perform services for us, including in connection with the Sites that require us to disclose Users’ Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services. 
 
-We also will disclose your information to third parties that market products or services using the Product Presentations and Company Profiles when you fill out an enquiry form. The information you supply on that form, and only that information, will forwarded to the advertiser so they can provide you with the information you have requested. 
+We also will disclose your information to third parties that market products or services using the Product Presentations and Company Profiles when you fill out an enquiry form. The information you supply on that form, and only that information, will be forwarded to the advertiser so they can provide you with the information you have requested. 
 
 The only other times we may disclose your Personally Identifiable Information collected on the Sites are as follows: 
 
