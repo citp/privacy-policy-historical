@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the residentscreening.net privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217003035id_/http%3A//residentscreening.net/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentscreening.net privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405135759id_/http%3A//residentscreening.net/Privacy.asp) for the most accurate reproduction.*
 
 # PRIVACY & SECURITY POLICY
 
