@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicurean.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001202854id_/http%3A//www.epicurean.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicurean.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604214658id_/http%3A//www.epicurean.com/policy.html) for the most accurate reproduction.*
 
 # Epicurean.com
 
