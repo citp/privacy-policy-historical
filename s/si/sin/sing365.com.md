@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sing365.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218055525id_/http%3A//www.sing365.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sing365.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603154702id_/http%3A//www.sing365.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,6 @@ Here's how it works. When you are first served an ad by sing365.com, the adverti
 
 While we believe that cookies enhance your Web experience by limiting the repetitiveness of advertising and increasing the level of relevant content on the Web, they are not essential for us to continue our leadership position in Web advertising. If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature.
 
-  
-This site, Your Lyrics Search Engine, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy.
+This site, Sing365.com, receives advertising from the Burstmedia.com and Advertising.com. For more information on what data is collected from Internet consumers through the two companys' ads, please see their privacy policy statement at [http://www.burstmedia.com](http://www.burstmedia.com/release/privacy.asp) and [http://www.advertising.com](http://www.advertising.com/privacy/privacy.html). 
 
 | 
