@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pvamu.edu privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603223201id_/http%3A//www.pvamu.edu/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pvamu.edu privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202307id_/http%3A//www.pvamu.edu/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Prairie View A&M University
 
