@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2003-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030204023811id_/http%3A//www.edressme.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2003-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030720055728id_/http%3A//www.edressme.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cocktail Evening Dresses,Prom,Bridesmaid,Formal Info
 
