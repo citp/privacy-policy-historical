@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightstarcorp.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612042531id_/http%3A//www.brightstarcorp.com/Site.aspx/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstarcorp.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208143319id_/http%3A//www.brightstarcorp.com/Site.aspx/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -87,15 +87,15 @@ If you would like to review, correct or change any personal information you have
 
 **What about my child's privacy?**
 
-This site is intended for use by persons over the age of 13. Brightstar does not seek to collect information about children under the age of 13. No information should be submitted to or posted on this Web site by users under 13 years of age. If a child under the age of 13 submits personal information to this Web site, we delete the information as soon as we discover it and do not use it for any other purpose. Brightstar encourages parents to take an active role in their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet. 
+This site is intended for use by persons over the age of 13. Brightstar does not seek to collect information about children under the age of 13\. No information should be submitted to or posted on this Web site by users under 13 years of age. If a child under the age of 13 submits personal information to this Web site, we delete the information as soon as we discover it and do not use it for any other purpose. Brightstar encourages parents to take an active role in their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet. 
 
 **Additional Information.** Questions regarding this policy should be directed to info@us.brightstarcorp.com. You may also contact us by U.S. mail at: 
 
 Brightstar 
 
-625 Forest Edge Drive 
+1001 Technology Way
 
-Vernon Hills, IL 60061
+Libertyville, IL 60048
 
   
 
