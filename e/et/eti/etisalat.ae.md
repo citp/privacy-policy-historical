@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etisalat.ae privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207044910id_/http%3A//www.etisalat.ae/html/custom_info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etisalat.ae privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607024202id_/http%3A//etisalat.ae/html/custom_info/privacy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Etisalat
 
