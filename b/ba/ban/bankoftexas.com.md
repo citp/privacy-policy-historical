@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankoftexas.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207231736id_/http%3A//www.bankoftexas.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankoftexas.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401184651id_/http%3A//www.bankoftexas.com/privacy.cfm) for the most accurate reproduction.*
 
 # Bank of Texas
 
@@ -19,9 +19,9 @@ We do not disclose specific information about your accounts or other personal da
 Sometimes we are required to provide personal information about you to a third party, such as a vender, to provide support for one of our services. These companies agree to maintain our confidential information about you and your products/services with us and must abide by applicable law.
 
 Bank of Texas reserves the right to modify these Privacy Practices as needed, along with related provisions, at any time.  
-A recent federal law, the Gramm-Leach-Bliley Act ("GLB"), requires that all financial institutions provide notice to consumer customers about the types of information financial institutions collect and with whom and under what circumstances the information is shared. Please click [here](https://web.archive.org/web/20021207231736id_/http%3A//www.bankoftexas.com/privacy_bot.htm) for our policy. 
+A recent federal law, the Gramm-Leach-Bliley Act ("GLB"), requires that all financial institutions provide notice to consumer customers about the types of information financial institutions collect and with whom and under what circumstances the information is shared. Please click [here](https://web.archive.org/web/20030401184651id_/http%3A//www.bankoftexas.com/privacy_bot.htm) for our policy. 
 
 [Bank of Texas Home](https://web.archive.org/) | [Personal](https://web.archive.org/personal/) | [Small Business](https://web.archive.org/smallbusiness/)  
-[Commercial Services](https://web.archive.org/commercial/) | [Investor Info](https://web.archive.org/investor/) | [Infocenter](https://web.archive.org/infocenter/) | [Contact](https://www.bankoftexas.com/contact/index.cfm?x=0.24052683)  
+[Commercial Services](https://web.archive.org/commercial/) | [Investor Info](https://web.archive.org/investor/) | [Infocenter](https://web.archive.org/infocenter/) | [Contact](https://www.bankoftexas.com/contact/index.cfm?x=0.15321696)  
 [Jobs](https://web.archive.org/employment/) | [Locations](http://www.vicinity.com/bankoftx/startprx.hm)   
 
