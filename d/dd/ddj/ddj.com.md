@@ -1,41 +1,87 @@
-> *The following text is extracted and transformed from the ddj.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217223259id_/http%3A//www.ddj.com/ddj/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddj.com privacy policy that was archived on 2002-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021122044005id_/http%3A//www.cmp.com/delivery/privacy.html) for the most accurate reproduction.*
 
-# DDJ Privacy Policy
+# CMP Media LLC Privacy Policy
 
-_Dr. Dobb's Journal_ is committed to protecting your privacy in all aspects of our business, from web sites to print publications. This privacy statement discloses what information we collect and how we use it. By using our web sites, products, or services you agree to be bound by this policy. We welcome your feedback, and can be reached in the ways described below. 
+|  | **CMP MEDIA LLC PRIVACY STATEMENT  
+** CMP MEDIA LLC ("CMP") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by CMP. A current list of our publications, web sites, online webcasts and trade shows can be found at <http://www.cmp.com/>. 
 
-## What information does _Dr. Dobb's Journal_ collect?
+**INFORMATION COLLECTION AND USE**  
+CMP collects information from our website users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers. 
 
-Internet: When you visit a _Dr. Dobb's Journal_ web site, we collect your computer's IP address and other information. We also collect identifying information (such as your name, address, and e-mail addresses) that you knowingly provide to us-during, for example, site or trade show registration, subscriptions to one of our publications, surveys, and contests.
+**Registration and Ordering**  
+When attending our trade shows, participating in our customer-sponsored webcasts, using some of our websites and signing up for certain selected services (such as free subscriptions), users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). We also may collect demographic information (such as job title and purchasing responsibilities, company information and professional certification). For internal purposes, we use this information to communicate with users and provide requested services, and, for our website visitors, to provide a more personalized experience on our sites. We use aggregate demographic information about our audience to improve our service, for marketing purposes and/or industry reporting purposes. 
 
-When you subscribe to _Dr. Dobb's Journal_ , you may be asked to provide us with identifying information about you (including your name, address, phone numbers, fax numbers and e-mail addresses) as well as demographic information.
+Many of our products and services are free to subscribers who meet certain demographic criteria. Independent auditors may need to certify the eligibility of these subscribers. In order to do that, we may collect unique identifiers (such as mother’s maiden name) that we disclose to the auditors strictly for industry reporting and audit verification purposes. 
 
-When you buy a _Dr. Dobb's Journal_ CD-ROM or register for a _Dr. Dobb's Journal_ seminar or event, you may be asked to provide us with identifying information about you (including your name, address, phone numbers, fax numbers and e-mail addresses) as well as demographic information.
+For our services that require payment (such as certain events, products and subscriptions), we also collect credit card information (such as account name, number and expiration date), which is used for billing purposes only, and is not otherwise shared. 
 
-## Does _Dr. Dobb's Journal_ collect information from children online?
+**E-mail Newsletters**  
+If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and, occasionally, demographic information). We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter. 
 
-We understand that children's privacy is important. We do not monitor the age of our user audience. However, if you are under age 13, you should not submit personal identifying information to the _Dr. Dobb's Journal_ web site without the consent of your parent or guardian.
+**Surveys and Contests**  
+From time to time we invite users to provide information via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). In addition to other uses set forth in this policy, contact information collected in connection with surveys and contests is used to notify the winners and award prizes, to monitor or improve the use and satisfaction of the site, and may be shared with sponsors of such surveys or contests. 
 
-## How does _Dr. Dobb's Journal_ use customer information?
+**Interactive Features**  
+At some of our sites, we offer interactive and community features such as discussion boards, webcasts and user profiles. Note that all personal information sent or posted via such features becomes public information for which we are not responsible. 
 
-General: When you provide _Dr. Dobb's Journal_ with information about yourself, we use that information internally to improve our products and services, to notify you about ordered products, subscription renewals and upcoming events, and to market _Dr. Dobb's Journal_ products and services. In addition, some of our audit bureaus may use some of this information to verify cumulative demographic statistics. We also use customer-provided information to conduct research surveys and to enable our management to consult with our readers and conference or symposia attendees and registrants.
+**Tell-A-Friend**  
+If users elect to use our referral service for informing a friend about our sites and services, we may ask them for the friend's name, job title and e-mail address. CMP will store and use this information to send the friend an invitation. This information may also be used to provide information about our company and related products and services. The friend may contact us as specified in the tell-a-friend message to request that no further communications be sent. 
 
-Fax and e-mail: We use your fax number and e-mail address to tell you about ordered products, subscription renewals and upcoming events. If you do not wish to receive information from us via fax or e-mail, please let us know. (Information on how to contact us is provided below.)
+**Communications with Us**  
+We have features where users can submit information to us (such as our feedback forms). Letters to the editor and similar submissions may be made public. Requests for service, support or information may be forwarded as needed to best respond to a specific request. We may retain e-mails and other information sent to us for our internal administrative purposes, and to help us to serve customers better. 
 
-## When does _Dr. Dobb's Journal_ disclose customer information to third parties?
+**Communications from Us: Service Updates, Special Offers**  
+In order to best serve our customers, we may send updates that contain important information about our sites and services. For example, we send new members a welcoming message, and verify password and username for our password-protected sites. We may also communicate with a user to provide requested services and for account-related issues via e-mail, phone or regular mail. 
 
-_Dr. Dobb's Journal_ may disclose certain identifying information about you to third parties under the circumstances described below.
+We offer our users the option to receive information about our company, related products, services and special deals. Users can choose not to receive these communications, as set forth in our Permission section below. 
 
-Private information: We treat your e-mail address and fax number as private information that might not ordinarily be known to others and we do not share this information with third parties unless you have consented to such disclosure or such disclosure is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect our members, subscribers, or registrants from misuse or unauthorized use of the _Dr. Dobb's Journa_ l web site; or (4) protect the personal safety or property of our members, subscribers, registrants, or the public. When you as a customer have given us permission we may make your e-mail address available to other companies and organizations whose products or services we think might be of interest to you. If, subsequently, you do not want us to use your e-mail address for communications concerning _Dr. Dobb's Journal_ products and services, and/or be shared with other companies or organizations, please let us know. (Information on how to contact us is provided below.)
+**Automatic Data Collection**  
+Our web sites have features that automatically collect information from users, to deliver content specific to users' interests and to honor their preferences. This information assists us in creating sites that will serve the needs of our users. 
 
-Personal information: We consider other personal identifying information you provide (such as your name, mailing address and telephone number), any optional information you provide (such as your job title and/or other demographics), and your computer's IP address to be personal information but also a type of information that would generally be available to others. Unless you tell us otherwise, we may provide this information to our business partners and to certain select third parties. From time to time, we make our customer addresses and telephone number lists available to other companies and organizations whose products or services we think you might find interesting. If you do not wish to receive information from other companies or organizations, please let us know. (Information on how to contact us is provided below.) As with private information, personal information also may be disclosed if disclosure is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect our members, subscribers, or registrants from misuse or unauthorized use of the _Dr. Dobb's Journal_ web site; or (4) protect the personal safety or property of our members, subscribers, registrants, or the public. (Among other things, this means that if you provide false membership, subscription or registration information, or if you attempt to pose as someone else, both private and personal information about you-including your computer's IP address-may be disclosed as part of any investigation into your actions.) 
+We use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our site. If users reject the cookies, they may be limited in the use of some areas of our site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Additionally, we may note some of the pages the user visits on our site through the use of pixel tags (also called clear gifs). The use of cookies and pixels enable us to track and target the interests of our users to enhance the experience on our sites. 
 
-Aggregate information: _Dr. Dobb's Journal_ sometimes provides aggregate usage or tracking information to third parties. This aggregate information does not contain user-specific information that reveals the identity of a member, subscriber or registrant. We may share this information with anyone since it does not personally identify you and is not correlated to your personal identifying information.
+Some of our business affiliates use cookies on our sites in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information. 
 
-Information you choose to disclose to third parties: From time to time, _Dr. Dobb's Journal_ may allow third parties to advertise on our web sites, or may provide links to sites we think may be of interest to you. If you choose to disclose personal identifying information directly to one of our advertisers or to a web site to which we have linked, the information you disclose will be subject to that advertiser's or that web site's privacy policy, if any. We also may allow third parties to sponsor or cosponsor contests, promotions or surveys on our web sites. In order to enter a contest, promotion or survey, you may be asked to provide personal identifying information, and by doing so you agree that such information may be disclosed to the sponsor of the contest, promotion or survey. Any information you choose to submit will be subject to the sponsor's privacy policy, if one exists. Although _Dr. Dobb's Journal_ encourages third parties to adhere to appropriate privacy standards and policies, we are not responsible for the actions or policies of such parties. 
+For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our site. This information does not contain anything that can identify users personally. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use. 
 
-Information you choose to disclose publicly: Finally, if you knowingly provide personal identifying information such as your user name or e-mail address in a chat or bulletin board area, you should be aware that the information provided can be collected and used by others visiting that area.
+We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services. 
 
-## How can I contact you?
+**WITH WHOM YOUR INFORMATION IS SHARED**  
+When we have co-branded, customized, private label, powered by or sponsored products and services, or when we join with other parties to provide specific services, we may share (provide and receive) personal information with them. We do not share credit card information with such third parties. 
 
-If you have comments or questions about this policy, you can contact us at [editors@ddj.com](mailto:editors@ddj.com).
+In particular, please note that information collected in connection with online webcasts, such as at www.netseminar.com, will be shared with the sponsor of the particular webcast(s)/seminar(s). These sponsors will use the information according to their own privacy policies, and we urge participants to read those policies and be aware of their privacy practices before registering. 
+
+At ChipCenter.com and related sites, information may be shared with selected advertisers if a user affirmatively clicks through on a link/ad to such advertiser at those sites or in e-mails. 
+
+On occasion, we may provide targeted lists of names and offline and online contact information for marketing purposes to third parties, subject to our Permission policies. We give users the option of not having their name or contact information disclosed to third parties, as set forth in the Permission section. 
+
+Other than as set forth above, we do not share personally identifiable information with other companies, apart from those acting as our agents in providing our product(s)/service(s), and which agree to use it only for that purpose and to keep the information secure and confidential. Also, our parent, subsidiary and affiliate companies, entities into which our company may be merged, or entities to which any of our assets, products, sites or operations may be transferred, will be able to use personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission. 
+
+We may share aggregate information, which is not personally identifiable, with others. This information may include usage and demographic data, but it will not include personal information. 
+
+**CORRECTION/UPDATING PERSONAL INFORMATION**  
+If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our product(s)/service(s), we provide a way to correct or update that user's personal data. The user should contact Customer Support for the applicable product or service. 
+
+**PERMISSION**  
+Our users are given the opportunity to choose whether to receive information from our affiliates and us not directly related to the registered services. Users also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Instructions for how to exercise this choice are contained in e-mails sent by us, on our product websites and in each of our publications. In addition, users can go to our Feedback page at <http://www.cmp.com/feedback/permission.html> to change their options. Please note that we will endeavor to implement requests within a reasonable time, although for a time users may continue to receive mailings, etc., transmitted based on information released prior to the implementation of the request. Users will continue to receive information directly related to their registered services, so they always are kept informed. 
+
+**SECURITY**  
+We use reasonable precautions to protect our users' personal information and to store it securely. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. In addition, access to all of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers on which we store personally identifiable information are kept in a secure environment. 
+
+**LINKS**  
+Our web sites contain links to other sites. CMP is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information. 
+
+**NOTIFICATION and CHANGES**  
+If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
+
+For questions about this privacy statement, the practices of this site or any dealings with CMP Media LLC, contact us at: 
+
+> Corporate Communications  
+>  CMP Media LLC  
+>  600 Community Drive  
+>  Manhasset NY 11030  
+>  516-562-5000 Ext. 5107   
+>  [cmp@cmp.com](mailto:cmp@cmp.com)
+
+**[About Us Home](https://web.archive.org/aboutus/aboutus.htm)**  
+---|---
