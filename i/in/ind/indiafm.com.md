@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212072908id_/http%3A//indiafm.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603151819id_/http%3A//www.indiafm.com/privacy.shtml) for the most accurate reproduction.*
 
 # IndiaFM.com privacy statement
 
@@ -63,7 +63,7 @@ If you have any questions about this privacy statement, the practices of this si
 | [Movie Showcase](http://www.indiafm.com/showcase/index.shtml) | [Downloads](http://www.indiafm.com/downloads/index.shtml) | [Reviews](http://www.indiafm.com/reviews/index.shtml) | [Previews](http://www.indiafm.com/previews/index.shtml) | [Chat](http://www.indiafm.com/chatroom/index.shtml) | [Face 2 Face](http://www.indiafm.com/face2face/index.shtml) |  
 | [Parties & Events](http://www.indiafm.com/memories/index.shtml) | [Release Dates](http://www.indiafm.com/scoop/releasedates.shtml) | [Music Reviews](http://www.indiafm.com/musicreview/index.shtml) | [Filmfare Awards](http://www.indiafm.com/filmfare/index.shtml) |  
 | [Box Office](http://www.indiafm.com/boxoffice/index.shtml) | [Stars as kids](http://www.indiafm.com/staraskids/index.shtml) | [Fun & Humour](http://www.indiafm.com/etcetera/index.shtml) | [Star Birthdays](http://www.indiafm.com/wishstars/index.shtml) | [Interviews](http://www.indiafm.com/interviews/index.shtml) |  
-| [Scoop & News](http://www.indiafm.com/scoop/index.shtml) | [Movie Stills](http://www.indiafm.com/stills/index.shtml) | [On sets](http://www.indiafm.com/onthesets/index.shtml) | [Concert Schedule](http://www.indiafm.com/concerts.shtml) | [Games](http://www.indiafm.com/games/index.shtml) |  
+| [Scoop & News](http://www.indiafm.com/scoop/index.shtml) | [Movie Stills](http://www.indiafm.com/stills/index.shtml) | [On sets](http://www.indiafm.com/onthesets/index.shtml) | [E-Cards](http://www.indiafm.com/ecards/index.shtml) | [Games](http://www.indiafm.com/games/index.shtml) | [Forum](http://pub44.ezboard.com/bindiafm) |  
 
 
 |   
