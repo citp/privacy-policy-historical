@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selco.org privacy policy that was archived on 2002-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021126022346id_/http%3A//selco.org/selco/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selco.org privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210093759id_/http%3A//selco.org/selco/privacypolicy.asp) for the most accurate reproduction.*
 
 # SELCO Credit Union - free checking and online banking, low rate loans, credit cards, auto loans, home equity loans, Eugene, Springfield, Bend, Oregon
 
