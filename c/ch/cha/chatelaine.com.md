@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the chatelaine.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207070900id_/http%3A//www.chatelaine.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatelaine.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607043213id_/http%3A//www.chatelaine.com/faq/privacy.html) for the most accurate reproduction.*
 
 # Chatelaine.com: Privacy policy
 
-  |  |   |  |   
----|---|---  
-  
 ** Chatelaine.com Privacy Statement  
 **  
 **In general...**
 
-At Chatelaine Connects, we take the issue of privacy seriously, and believe everyone involved in using the Web to conduct surveys, contests, etc. should do the same. 
+At Chatelaine.com, we take the issue of privacy seriously, and believe everyone involved in using the Web to conduct surveys, contests, etc. should do the same. 
 
 ### Our promise...
 
-Chatelaine Connects will not sell, distribute, barter or transfer any personally identifiable information obtained about our users to a third party, without prior permission from the user. 
+Chatelaine.com will not sell, distribute, barter or transfer any personally identifiable information obtained about our users to a third party, without giving the user the opportunity to opt-out.
 
-### DoubleClick Privacy Statement
+For more detailed information, please see our [Rogers Media Publishing privacy policy](http://www.rogersmagazines.com/privacy.htm).  
+For any futher questions about our privacy policy, please feel free to send an e-mail to [webmaster@chatelaine.com](mailto:webmaster@chatelaine.com).  
+
+
+DoubleClick Privacy Statement
 
 Internet user privacy is of paramount importance to DoubleClick, our advertisers and our Web publishers. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding DoubleClick's commitment to protect the privacy of users and to ensure the integrity of the Internet. 
 
@@ -61,16 +62,4 @@ DoubleClick makes available all of our information practices at www.doubleclick.
 
 ### Honesty
 
-DoubleClick has voluntarily opened its practices and systems for third party auditing. We are committed to shaping privacy policies and standards with industry organizations and are active members of the Internet Advertising Bureau, Online Privacy Alliance, New York New Media Association, and the American Advertising Federation. DoubleClick's policy on privacy is also in accordance with the Direct Marketing Association's Marketing Online Privacy Principles, which were agreed upon by the Interactive Services Association.   | 
-
-|   
----  
-|  |   
-| [Subscribe online](https://commerce.cdsfulfillment.com/CHE/subscriptions.cgi?IN_Code=W001RS2W0)  
-| [Gift Subscriptions](https://gifts.cdsfulfillment.com/gifts/CHE/giftform.shtml?in_code=WX00DEF)  
-  
-| 
-
-[Subscriber Care](https://commerce.cdsfulfillment.com/CHE/custserv.cgi)  
-  
- 
+DoubleClick has voluntarily opened its practices and systems for third party auditing. We are committed to shaping privacy policies and standards with industry organizations and are active members of the Internet Advertising Bureau, Online Privacy Alliance, New York New Media Association, and the American Advertising Federation. DoubleClick's policy on privacy is also in accordance with the Direct Marketing Association's Marketing Online Privacy Principles, which were agreed upon by the Interactive Services Association.
