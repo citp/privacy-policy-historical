@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211060713id_/http%3A//www.4templates.com/index.php%3F_p%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601104038id_/http%3A//www.4templates.com/index.php%3F_p%3Dps) for the most accurate reproduction.*
 
 # 4Templates.com - web templates, flash templates, website templates, professional, business templates, high tech templates
 
@@ -26,7 +26,7 @@ Information is collected from the customer at the time of a sale in order to com
 
 All credit card transactions are securely processed through [Authorize.net](http://www.authorize.net/). The information collected by Authorize.net's payment form is stored only on Authorize.net's network and is not recorded by 4Templates.com. 
 
-Copyright © 2002 WireZero Communications, Inc. [[Contact Us]](http://www.4templates.com/index.php?_p=contact&who=2)  
+Copyright © 2002 Wirezero Communications [[Contact Us]](http://www.4templates.com/index.php?_p=contact&who=2)  
 All trademarks and service marks mentioned herein belong to their respective owners. 
 
 |  |  | 
