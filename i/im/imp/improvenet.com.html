@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the improvenet.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603225742id_/http%3A//www.improvenet.com/AboutUs/secure/truste/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the improvenet.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205015930id_/http%3A//www.improvenet.com/AboutUs/secure/truste/index.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Improvenet Inc. : Home Owner</title>
@@ -40,7 +40,7 @@
 </td></tr></tbody></table>
 </form>
 </td>
-<td class="text" align="right"><b><a id="registerLink" href="/AboutUs/user.html" class="headerLink">Register</a>  |  <a id="loginLink" href="/AboutUs/UserLogin.html" class="headerLink">Login</a>  |  <a id="aboutusLink" href="/AboutUs/index.html" class="headerLink">About Us</a>  |  <a id="contactusLink" href="/AboutUs/contactus.html" class="headerLink">Contact Us</a>   |  <a id="homeLink" href="/index.html" class="headerLink">Home</a></b></td>
+<td class="text" align="right"><b><a id="registerLink" href="/AboutUs/user.html" class="headerLink">Register</a>  |  <a id="loginLink" href="/AboutUs/UserLogin.html" class="headerLink">Login</a>  | <a href="/products/" class="headerlink">Services</a> | <a id="aboutusLink" href="/AboutUs/index.html" class="headerLink">About Us</a>  |  <a id="contactusLink" href="/AboutUs/contactus.html" class="headerLink">Contact Us</a>   |  <a id="homeLink" href="/index.html" class="headerLink">Home</a></b></td>
 </tr>
 </tbody></table>
 <map name="Map"> 
@@ -73,7 +73,40 @@ var doc=document.SubmitCategoryForm;
 	if (doc.ProjectCategory.value==""){
 	return false;
 	}
-	doc.action="http://affiliate.improvenet.com/IMPV_HOMEOWNER/Find-A-Contractor.html?trade="+tradeVal
+	switch(tradeVal) 
+	{
+		case "1013": 
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_kitchen/Find-A-Contractor.html?trade="+tradeVal;	 
+			break
+		case "1253":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_roofing/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1277":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_windowdoor/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1002":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_addition/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1012":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_bath/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1519":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_home/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1044":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_deck/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1008":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_attic/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		case "1019":
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO_cabinets/Find-A-Contractor.html?trade="+tradeVal ;
+			break
+		default:
+			FACUrl = "http://affiliate.improvenet.com/IMPV_HO/Find-A-Contractor.html?trade="+tradeVal ;
+		break
+	}
+	doc.action=FACUrl
 	doc.submit();
 	return true;
 
