@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescodvdrental.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614075936id_/http%3A//www.tescodvdrental.com/user/aboutPrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescodvdrental.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012131854id_/http%3A//www.tescodvdrental.com/user/aboutPrivacyPolicy.php) for the most accurate reproduction.*
 
 # Tesco DVD Rentals - Tesco DVD Rental
 
@@ -68,7 +68,7 @@ When you visit the site, Tesco DVD Rental collects additional information about 
 
   
   
-Tesco DVD Rental offers an [Affiliate Program](https://web.archive.org/web/20040614075936id_/http%3A//www.tescodvdrental.com/user/affiliateHome.php) to help affiliate members refer customers to Tesco DVD Rental. When an affiliate registers, we collect information from them. 
+Tesco DVD Rental offers an [Affiliate Program](https://web.archive.org/web/20041012131854id_/http%3A//www.tescodvdrental.com/user/affiliateHome.php) to help affiliate members refer customers to Tesco DVD Rental. When an affiliate registers, we collect information from them. 
 
 **What we collect** | **How we use it**  
 ---|---  
@@ -139,7 +139,7 @@ Access authorisation is granted to key Tesco DVD Rental staff only. Backups are 
 
 Your ability to edit and cancel your account 
 
-You can access [Your Account](https://web.archive.org/web/20040614075936id_/http%3A//www.tescodvdrental.com/user/accountHomePage.php) from every page on the site to update and correct the personal details that we gathered when you subscribed. You must be logged in to access this information. All information is password-protected so no one can access the information but you.
+You can access [Your Account](https://web.archive.org/web/20041012131854id_/http%3A//www.tescodvdrental.com/user/accountHomePage.php) from every page on the site to update and correct the personal details that we gathered when you subscribed. You must be logged in to access this information. All information is password-protected so no one can access the information but you.
 
 If you decide to cancel your Tesco DVD Rental subscription, your account will be deactivated immediately. However we are required to retain your information for accounting and taxation purposes. 
 
