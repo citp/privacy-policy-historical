@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018034540id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122251id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
 
-# NCBuy Service Center - Privacy Policy
+# NCBuy.com: Service Center Privacy Policy
 
 NetCent Communications has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: NCBuy. Prior to disclosing how specific information is used, there are some terms that should be defined:
 
@@ -9,7 +9,6 @@ NetCent Communications has created this privacy statement in order to demonstrat
   * **AGGREGATE BASIS:** \- When information is shared with third parties on an _aggregate basis_ , said third parties can not link this information to any one specific person. This is broad demographic information. For example, a third party may know that 63% of visitors to NCBuy are women, but they do not know who these people are. 
   * **OPT-IN POLICY:** \- By definition, an _opt-in policy_ implies that a user must specifically ask to join a mailing list or a newsletter before they are added. Users are not subscribed to these listings by default. Users that specifically request a subscription may remove themselves at a later date. 
   * **DOUBLE OPT-IN POLICY:** \- By definition, a _double opt-in policy_ implies that a user must specifically ask to join a mailing list or a newsletter before they are added. After submitting a subscription request, a message is sent to the user requesting confirmation. If the user does NOT confirm their request, their subscription requests are not processed. The process of _double opt-in_ prevents one user from subscribing another user without their consent. Subscribers can remove themselves at a later date. 
-  * **OPT-OUT POLICY** \- By definition, an _opt-out policy_ implies that a Web site automatically adds users to a mailing list when they complete a specific task, such as entering contests or completing registration forms. Users have the opportunity to remove themselves from the lists, however, they are added by default. 
 
 
 
@@ -75,5 +74,4 @@ ATTN: Privacy Administrator
 NetCent Communications  
 74 MacDermott Drive  
 Ajax, Ontario, L1T 3T9  
-privacy@netcent.com  
 
