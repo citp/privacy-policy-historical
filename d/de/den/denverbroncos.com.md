@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204164427id_/http%3A//www.denverbroncos.com/page.php%3Fid%3D101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404210852id_/http%3A//www.denverbroncos.com/page.php%3Fid%3D101) for the most accurate reproduction.*
 
 # DenverBroncos.com -- Official Web Site of the Denver Broncos
 
