@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213348id_/http%3A//www.barryplantdoherty.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206225352id_/http%3A//www.barryplantdoherty.com.au/privacy) for the most accurate reproduction.*
 
 # BPD - Privacy
 
