@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207191251id_/http%3A//heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206025517id_/http%3A//www.heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
 
-# Welcome to Heart Internet: Domain Name Registration and Web Hosting
+# Privacy Statement
 
 1\. Heart Internet Ltd is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of data protection legislation in the UK. The purpose of this statement is to explain to you what personal information we collect and how we may use it. 
 
