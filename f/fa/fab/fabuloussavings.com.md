@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabuloussavings.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017015426id_/http%3A//www.fabuloussavings.com/cmct/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabuloussavings.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622133631id_/http%3A//fabuloussavings.com/cmct/privacy) for the most accurate reproduction.*
 
-# Fabuloussavings.com
+# FabulousSavings.com - Free printable coupons and online discount coupon codes for shops, restaurants, services
 
   
   
@@ -47,3 +47,8 @@ If a user’s personally identifiable information changes (such as your postal/z
 
 **Choice/Opt-out**  
 Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@fabuloussavings](mailto:support@fabuloussavings.com). Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+
+**How to Contact Us**  
+If you have any question or concerns about FabulousSavings.com policy for this site or its implementation you may contact us via email at: [privacy@fabuloussaving.com](mailto:privacy@fabuloussavings.com)
+
+**[ bookmark this site ] [[tell a friend about this site](http://www.fabuloussavings.com/cmct/tellafriend?id=) ]**
