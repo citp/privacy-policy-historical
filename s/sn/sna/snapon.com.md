@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001212909id_/http%3A//snapon.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616190403id_/http%3A//www.snapon.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Practices Statement
 
@@ -74,9 +74,9 @@ Should you have other questions or concerns about these privacy policies or wish
 
 Snap-on Diagnostics
 
-[Snap-on Industrial](http://industrial.snapon.com/)
+[Snap-on Industrial](http://www.snapon.com/industrial)
 
-Snap-on IndustrialSpecial Products Division 
+Snap-on Industrial Special Products Division 
 
 Snap-on Japan 
 
@@ -102,6 +102,6 @@ John Bean (JBC)
 
 Mitchell Repair Information Company 
 
-SOTIN Sun Electric Netherlands
+Sun Electric Netherlands
 
 [Snap-on UK](http://www.snapon.com/UK/default.asp)
