@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the technovelgy.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202162612id_/http%3A//www.technovelgy.com/ct/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technovelgy.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605224655id_/http%3A//www.technovelgy.com/ct/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
 We are very concerned about the problem of privacy on the Internet. We know that you are cautious about entering your personal information into a web browser, and are concerned about what information a website might be gathering about you. 
+
+**What does Technovelgy.com do with your email address?**
+
+We send you a short email with fresh links to stuff on the site once per week. That's it. If you get tired of it, send an email back with "Unsubscribe" in the subject line.
 
 **Does Technovelgy.com disclose information about visitors or clients to third parties?**
 
@@ -22,4 +26,4 @@ If you leave a site comment, that information will be retained in our database. 
 
 It is the intention of the Technovelgy.com website to adhere strictly to both the letter and the spirit of "fair use" in quoting from an author's works. Some quotes are from works in the public domain, and may be longer.
 
-However, if an author or intellectual property owner feels that any quote is not "fair use", please [contact us](https://web.archive.org/web/20031202162612id_/http%3A//www.technovelgy.com/ct/contactus.asp) immediately, and we will work with you to rectify the situation immediately.
+However, if an author or intellectual property owner feels that any quote is not "fair use", please [contact us](https://web.archive.org/web/20040605224655id_/http%3A//www.technovelgy.com/ct/contactus.asp) immediately, and we will work with you to rectify the situation immediately.
