@@ -1,206 +1,85 @@
-<!--The following is the downloaded HTML source of the caqh.org privacy policy that was archived on 2002-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021002064205id_/http%3A//www.caqh.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caqh.org privacy policy that was archived on 2003-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604042903id_/http%3A//www.caqh.org/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
-		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
-		<title>CAQH  |  Coalition for Affordable Quality Healthcare</title>
-		</head><body bgcolor="#ffffff" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" onload="CSScriptInit();" link="#003366" alink="#003366" vlink="#003366"><csscriptdict>
-			<script><!--
-CSInit = new Array;
-function CSScriptInit() {
-if(typeof(skipPage) != "undefined") { if(skipPage) return; }
-idxArray = new Array;
-for(var i=0;i<CSInit.length;i++)
-	idxArray[i] = i;
-CSAction2(CSInit, idxArray);}
-CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
-function IsIE() { return CSAg.indexOf("MSIE") > 0;}
-function CSIEStyl(s) { return document.all.tags("div")[s].style; }
-function CSNSStyl(s) { return CSFindElement(s,0); }
-function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
-	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
-	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
-		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
-	return elem;
-}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>CAQH</title>
+	<link title="sty" rel="stylesheet" href="stylesheet.css" type="text/css">
 
-function CSClickReturn () {
-	var bAgent = window.navigator.userAgent; 
-	var bAppName = window.navigator.appName;
-	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
-		return true; // dont follow link
-	else return false; // dont follow link
-}
+</head>
 
-function CSButtonReturn () {
-	var bAgent = window.navigator.userAgent; 
-	var bAppName = window.navigator.appName;
-	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
-		return false; // follow link
-	else return true; // follow link
-}
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<script type="text/javascript" src="dynmenu.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<a name="top"></a>
+<map name="hmap">
+<area alt="home page link" coords="-12,-15,49,30" href="index.html" shape="RECT">
+<area alt="Member Log In" coords="54,-2,108,30" href="http://216.139.200.183/" shape="RECT">
+<area alt="" coords="116,-7,190,30" href="sitemap.html" shape="RECT">
+</map><table width="760" cellspacing="0" cellpadding="0" border="0" height="100%">
+<tbody><tr>
+    <td colspan="4" width="760"><img src="nav/hd_caqh.jpg" width="760" height="113" alt="header graphic of CAQH" border="0" usemap="#hmap"></td>
 
-CSIm = new Object();
-function CSIShow(n,i) {
-	if (document.images) {
-		if (CSIm[n]) {
-			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
-			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
-			if(i != 0)
-				self.status = CSIm[n][3];
-			else
-				self.status = " ";
-			return true;
-		}
-	}
-	return false;
-}
-function CSILoad(action) {
-	im = action[1];
-	if (document.images) {
-		CSIm[im] = new Object();
-		for (var i=2;i<5;i++) {
-			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
-			else CSIm[im][i-2] = 0;
-		}
-		CSIm[im][3] = action[5];
-	}
-}
-CSStopExecution = false;
-function CSAction(array) { 
-	return CSAction2(CSAct, array);
-}
-function CSAction2(fct, array) { 
-	var result;
-	for (var i=0;i<array.length;i++) {
-		if(CSStopExecution) return false; 
-		var actArray = fct[array[i]];
-		if (actArray == null) return false;
-		var tempArray = new Array;
-		for(var j=1;j<actArray.length;j++) {
-			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
-				if(actArray[j][0] == "VAR") {
-					tempArray[j] = CSStateArray[actArray[j][1]];
-				}
-				else {
-					if(actArray[j][0] == "ACT") {
-						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
-					}
-				else
-					tempArray[j] = actArray[j];
-				}
-			}
-			else
-				tempArray[j] = actArray[j];
-		}			
-		result = actArray[0](tempArray);
-	}
-	return result;
-}
-CSAct = new Object;
+</tr>
+<tr>
+    <td width="138" valign="top" background="nav/nav_bottom.gif" height="100%"><img src="nav/nav_bottom.gif" width="138" height="25" alt="" border="0"></td>
+	<td valign="top" width="22"><img src="nav/sp.gif" width="22" height="22" alt="" border="0"></td>
+    <td valign="top" width="580"><img src="nav/sp.gif" width="580" height="10" alt="" border="0">
 
+<div class="head">Privacy Policy</div>
+<br>
+<div class="copy">	
+Welcome to CAQH’s Web site. We appreciate your interest in us. CAQH is concerned with your privacy when you visit our site within the CAQH.org domain and in all of your dealings with us. We are committed to the protection of personal data and the appropriate use of all data that we manage.
+<p>
+When you visit and navigate our site and when you communicate with us via our sites, we will not collect personal information about you, unless you provide us that information voluntarily. If you provide personal information to us voluntarily via our Web site, we will not sell, license or transmit that information outside of CAQH and those affiliated companies involved in administering or providing services, unless required to do so by legal, judicial or governmental proceedings, or unless we do so in accordance with an express authorization you have given us. Also, in some cases, we may disclose information to our contractors or agents for the purpose of enabling them to provide the services offered by CAQH. We will disclose information in compliance with applicable laws and regulations and will require the recipient to protect the information and use it only for the purpose of providing functionality for the Web site and for the purpose of providing the services offered via the Web site
+</p><p>
+In the event that personal information is included in the "comments" portion of this Web site you will have the opportunity to view, modify or delete this information. All such requests should use the Web site "comments" facility.
+</p><p>
+You should also be aware that when you visit our Web site, we may collect certain information that does not identify you personally, but provides us with "usage data," such as the number of visitors we receive or what pages are visited most often. This data helps us to analyze and improve the usefulness of the information we provide at this Web site. In order to prevent the introduction of viruses and hackers into our Web site we may collect such information, such as IP address, into a log file to be used solely for the purpose of identifying potential hackers of this Web site.
+</p><p>
+Like most commercial Web site owners, we may also use what is known as "cookie" technology. A "cookie" is an element of data that a web site can send to your browser when you link to that web site. It is not a computer program and has no ability to read data residing on your computer or instruct it to perform any step or function. By assigning a unique data element to each visitor, the Web site is able to recognize repeat users, track usage patterns and better serve you when you return to that site. The cookie does not extract other personal information about you, such as your name or address. Most browsers provide a simple procedure that will enable you to control whether you want to receive cookies by notifying you when a web site is about to deposit a cookie file. Access to this web site will not be affected in the event that cookies are turned off.
+</p><p>
+Protecting your privacy and any user information is a top priority at CAQH. We have taken careful measures to prevent the loss, misuse and alteration of web site information. All information on our web site is stored behind a firewall and is only accessible to those employees who need it in order to perform their jobs.
+</p><p>
+CAQH may change this Statement from time to time without notice. This Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
+</p><p>
+Effective Date: June 18, 2001
 
-// --></script>
-		</csscriptdict>
-		<csactiondict>
-			<script><!--
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button',/*URL*/'images/button_whoweare.gif',/*URL*/'images/button_whoweare2.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button2',/*URL*/'images/button_whatwedo.gif',/*URL*/'images/button_whatwedo2.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button3',/*URL*/'images/button_news.gif',/*URL*/'images/button_news2.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button4',/*URL*/'images/button_contact.gif',/*URL*/'images/button_contact2.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button5',/*URL*/'images/button_knowledge.gif',/*URL*/'images/button_knowledge2.gif',/*URL*/'','');
-
-// --></script>
-		</csactiondict>
-	
+</p><p>
 
 	
-		<table border="0" cellpadding="0" cellspacing="0" width="600">
-			<tbody><tr height="77">
-				<td bgcolor="#003366" height="77">
-					<table border="0" cellpadding="0" cellspacing="0" width="100%">
-						<tbody><tr><td bgcolor="#D6CFDE" width="100%"><img src="images/header.gif" width="600" height="88" alt="" border="0"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-		<table border="0" cellpadding="0" cellspacing="0" width="600">
-			<tbody><tr height="12">
-				<td width="100" height="12" align="center"><a href="index2.html"><img src="images/home.gif" width="100" height="12" border="0"></a></td>
-				<td height="12"><img src="images/block.gif" width="12" height="12" border="0"></td>
-			</tr>
-			<tr height="12">
-				<td width="100" height="12" align="center"><a href="sitemap.html"><img src="images/sitemap.gif" width="100" height="12" border="0"></a></td>
-				<td height="12"></td>
-			</tr>
-			<tr height="12">
-				<td width="100" rowspan="2" bgcolor="#ffffcc" valign="top" align="center">
-					<table border="0" cellpadding="0" cellspacing="0" width="100">
-						<tbody><tr height="13">
-							<td height="13" width="100"></td>
-						</tr>
-						<tr height="50">
-							<td align="center" height="50" valign="bottom" width="100"><csobj w="100" h="30" t="Button" ht="images/button_whoweare2.gif"><a href="whoweare.html" onmouseover="return CSIShow(/*CMP*/'button',1)" onmouseout="return CSIShow(/*CMP*/'button',0)" onclick="return CSButtonReturn()"><img src="images/button_whoweare.gif" width="100" height="30" name="button" border="0"></a></csobj></td>
-						</tr>
-						<tr height="50">
-							<td align="center" height="50" valign="bottom" width="100"><csobj w="100" h="30" t="Button" ht="images/button_whatwedo2.gif"><a href="whatwedo.html" onmouseover="return CSIShow(/*CMP*/'button2',1)" onmouseout="return CSIShow(/*CMP*/'button2',0)" onclick="return CSButtonReturn()"><img src="images/button_whatwedo.gif" width="100" height="30" name="button2" border="0"></a></csobj></td>
-						</tr>
-						<tr height="50">
-							<td align="center" height="50" valign="bottom" width="100"><csobj w="100" h="30" t="Button" ht="images/button_news2.gif"><a href="caqhnews.html" onmouseover="return CSIShow(/*CMP*/'button3',1)" onmouseout="return CSIShow(/*CMP*/'button3',0)" onclick="return CSButtonReturn()"><img src="images/button_news.gif" width="100" height="30" name="button3" border="0"></a></csobj></td>
-						</tr>
-						<tr height="50">
-							<td align="center" height="50" valign="bottom" width="100"><csobj w="100" h="30" t="Button" ht="images/button_contact2.gif"><a href="contact.html" onmouseover="return CSIShow(/*CMP*/'button4',1)" onmouseout="return CSIShow(/*CMP*/'button4',0)" onclick="return CSButtonReturn()"><img src="images/button_contact.gif" width="100" height="30" name="button4" border="0"></a></csobj></td>
-						</tr>
-						<tr height="50">
-							<td align="center" height="50" valign="bottom" width="100"><csobj w="100" h="30" t="Button" ht="images/button_knowledge2.gif"><a href="refresh.html" onmouseover="return CSIShow(/*CMP*/'button5',1)" onmouseout="return CSIShow(/*CMP*/'button5',0)" onclick="return CSButtonReturn()"><img src="images/button_knowledge.gif" width="100" height="30" name="button5" border="0"></a></csobj></td>
-						</tr>
-						<tr height="41">
-							<td align="center" height="41" valign="bottom" width="100"><a href="ahttp://216.139.200.183)"><img src="images/login.gif" width="100" height="90" border="0"></a></td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td height="12"></td>
-			</tr>
-			<tr>
-				<td valign="top"><a name="top"></a><br>
-					<table border="0" cellpadding="23" cellspacing="0" width="500">
-						<tbody><tr>
-							<td valign="top" align="left"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="black"><b>CAQH Privacy Policy</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3"><br>
-								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><br>
-									<br>Welcome to CAQH’s Web site. We appreciate your interest in us. CAQH is concerned with your privacy when you visit our site within the CAQH.org domain and in all of your dealings with us. We are committed to the protection of personal data and the appropriate use of all data that we manage.<br>
-									<br>When you visit and navigate our site and when you communicate with us via our sites, we will not collect personal information about you, unless you provide us that information voluntarily. If you provide personal information to us voluntarily via our Web site, we will not sell, license or transmit that information outside of CAQH and those affiliated companies involved in administering or providing services, unless required to do so by legal, judicial or governmental proceedings, or unless we do so in accordance with an express authorization you have given us. Also, in some cases, we may disclose information to our contractors or agents for the purpose of enabling them to provide the services offered by CAQH. We will disclose information in compliance with applicable laws and regulations and will require the recipient to protect the information and use it only for the purpose of providing functionality for the Web site and for the purpose of providing the services offered via the Web site<br>
-									<br>In the event that personal information is included in the "comments" portion of this Web site you will have the opportunity to view, modify or delete this information. All such requests should use the Web site "comments" facility.<br>
-									<br>You should also be aware that when you visit our Web site, we may collect certain information that does not identify you personally, but provides us with "usage data," such as the number of visitors we receive or what pages are visited most often. This data helps us to analyze and improve the usefulness of the information we provide at this Web site. In order to prevent the introduction of viruses and hackers into our Web site we may collect such information, such as IP address, into a log file to be used solely for the purpose of identifying potential hackers of this Web site.<br>
-									<br>Like most commercial Web site owners, we may also use what is known as "cookie" technology. A "cookie" is an element of data that a web site can send to your browser when you link to that web site. It is not a computer program and has no ability to read data residing on your computer or instruct it to perform any step or function. By assigning a unique data element to each visitor, the Web site is able to recognize repeat users, track usage patterns and better serve you when you return to that site. The cookie does not extract other personal information about you, such as your name or address. Most browsers provide a simple procedure that will enable you to control whether you want to receive cookies by notifying you when a web site is about to deposit a cookie file. Access to this web site will not be affected in the event that cookies are turned off.<br>
-									<br>Protecting your privacy and any user information is a top priority at CAQH. We have taken careful measures to prevent the loss, misuse and alteration of web site information. All information on our web site is stored behind a firewall and is only accessible to those employees who need it in order to perform their jobs.<br>
-									<br>
-									CAQH may change this Statement from time to time without notice. This Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.<br>
-									<br>
-									Effective Date: June 18, 2001<br>
-								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><br>
-									<br>
-									<br>
-									<br>
-									<br>
-									<br>
-								</font></td>
-						</tr>
-					</tbody></table>
-					<table border="0" cellpadding="0" cellspacing="0" width="500">
-						<tbody><tr height="23">
-							<td valign="top" align="center" height="23">
-								<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1" color="#003366"><a href="privacy.html">Privacy Policy</a></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="1"> &nbsp;|&nbsp; </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1" color="#003366"><a href="terms_of_service.html">Terms of Service</a></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1" color="black"> &nbsp;|&nbsp; </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1" color="#003366">© CAQH 2002. All Rights Reserved.</font></p>
-							</td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-			<tr height="12">
-				<td width="100" height="12" bgcolor="#cccccc" align="center"><a href="#top"><img src="images/top_of_page.gif" width="100" height="12" border="0"></a></td>
-				<td height="12" bgcolor="#003366"><img src="images/blueblock.gif" width="12" height="12" border="0"></td>
-			</tr>
-		</tbody></table>
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</p></div>
+	</td>
+	<td width="20"><img src="nav/sp.gif" width="20" height="25" alt="" border="0"></td>
+</tr>
+<tr>
+    <td width="138" valign="top" background="nav/nav_bottom.gif">&nbsp; &nbsp;<a class="btop" href="#top">Back to Top</a>
+<p><br></p></td>
+    <td colspan="3"><div class="snav" align="center"><a class="snav" href="privacy.html">Privacy Policy</a>  |  <a class="snav" href="terms_of_service.html">Terms of Service</a>  |  © CAQH 2003. All Rights Reserved.</div>
+</td>
+</tr>
+</tbody></table>
 
-</body></html>
+
+
+
+<div style="position: absolute; visibility: visible; background-color: rgb(255, 255, 255); width: 138px; height: 299px; font-family: arial; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 101; top: 140px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 138px; height: 25px; left: 0px; top: 0px;"><img src="nav/nav_who.gif" name="Menu1i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 138px; height: 27px; left: 0px; top: 25px;"><img src="nav/nav_what.gif" name="Menu2i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 138px; height: 26px; left: 0px; top: 52px;"><img src="nav/nav_caqh.gif" name="Menu3i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 138px; height: 53px; left: 0px; top: 78px;"><img src="nav/nav_uni.gif" name="Menu4i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 138px; height: 38px; left: 0px; top: 131px;"><img src="nav/nav_save.gif" name="Menu5i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 138px; height: 39px; left: 0px; top: 169px;"><img src="nav/nav_form.gif" name="Menu6i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 138px; height: 39px; left: 0px; top: 208px;"><img src="nav/nav_nat.gif" name="Menu7i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 138px; height: 26px; left: 0px; top: 247px;"><img src="nav/nav_wendi.gif" name="Menu8i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 138px; height: 26px; left: 0px; top: 273px;"><img src="nav/nav_contact.gif" name="Menu9i"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(255, 255, 255); width: 146px; height: 36px; font-family: arial; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 0px;"><img src="nav/nav_who_exec.gif" name="Menu1_1i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 18px;"><img src="nav/nav_who_mem.gif" name="Menu1_2i"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(255, 255, 255); width: 146px; height: 106px; font-family: arial; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 31px; left: 0px; top: 0px;"><img src="nav/nav_what_improve.gif" name="Menu2_1i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 44px; left: 0px; top: 31px;"><img src="nav/nav_what_work.gif" name="Menu2_2i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 31px; left: 0px; top: 75px;"><img src="nav/nav_what_simplify.gif" name="Menu2_3i"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(255, 255, 255); width: 146px; height: 80px; font-family: arial; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 0px;"><img src="nav/nav_caqh_press.gif" name="Menu3_1i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 31px; left: 0px; top: 18px;"><img src="nav/nav_caqh_news.gif" name="Menu3_2i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 31px; left: 0px; top: 49px;"><img src="nav/nav_caqh_one.gif" name="Menu3_3i"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(255, 255, 255); width: 146px; height: 36px; font-family: arial; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 0px;"><img src="nav/nav_uni_demo.gif" name="Menu4_1i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 18px;"><img src="nav/nav_uni_reg.gif" name="Menu4_2i"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(255, 255, 255); width: 146px; height: 180px; font-family: arial; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 0px;"><img src="nav/nav_save_fact.gif" name="Menu5_1i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 18px;"><img src="nav/nav_save_consu.gif" name="Menu5_2i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 36px;"><img src="nav/nav_save_ct.gif" name="Menu5_3i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 54px;"><img src="nav/nav_save_ga.gif" name="Menu5_4i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 72px;"><img src="nav/nav_save_nj.gif" name="Menu5_5i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 90px;"><img src="nav/nav_save_ny.gif" name="Menu5_6i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 108px;"><img src="nav/nav_save_va.gif" name="Menu5_7i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 126px;"><img src="nav/nav_save_penn.gif" name="Menu5_8i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 144px;"><img src="nav/nav_save_ca.gif" name="Menu5_9i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 162px;"><img src="nav/nav_save_sas.gif" name="Menu5_10i"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(255, 255, 255); width: 146px; height: 67px; font-family: arial; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 0px;"><img src="nav/nav_form_phys.gif" name="Menu6_1i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 18px; left: 0px; top: 18px;"><img src="nav/nav_form_int.gif" name="Menu6_2i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 31px; left: 0px; top: 36px;"><img src="nav/nav_form_access.gif" name="Menu6_3i"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(255, 255, 255); width: 146px; height: 62px; font-family: arial; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 31px; left: 0px; top: 0px;"><img src="nav/nav_beta.gif" name="Menu7_1i"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 31px; left: 0px; top: 31px;"><img src="nav/nav_reaching.gif" name="Menu7_2i"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(255, 255, 255); width: 146px; height: 31px; font-family: arial; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); background-color: rgb(255, 204, 102); text-align: left; width: 146px; height: 31px; left: 0px; top: 0px;"><img src="nav/nav_wendi_et.gif" name="Menu8_1i"></div></div></body></html>
