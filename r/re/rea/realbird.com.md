@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606150437id_/http%3A//www.realbird.com%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204160902id_/http%3A//www.realbird.com%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
 
-# realbird ™ - Maps for real estate websites
+# RealBird - Maps for real estate websites. Aerial photo, street map, topo map and more
 
 This page contains the privacy policy of DonationChannel Inc.
 
