@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209024942id_/http%3A//www.fhb.com/hm_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604021714id_/http%3A//www.fhb.com/hm_privacy.htm) for the most accurate reproduction.*
 
 # First Hawaiian Bank
 
 **How First Hawaiian Protects your Privacy**
 
   
-First Hawaiian takes seriously our responsibility to protect the privacy and security of individual customers' financial information.
+We at First Hawaiian take seriously our responsibility to protect the privacy and security of individual customers' financial information.
 
 We want you to understand:
 
@@ -64,7 +64,7 @@ To provide better service and a more effective website, we use "cookies" as part
 
 **WHAT INFORMATION WE COLLECT ABOUT YOU.**
 
-In the course of doing business with you, we collect nonpublic personal information about you. "Nonpublic personal information" is personally identifiable financial information about you. For example, it includes information regarding your account balance, payment history, and overdraft history.
+In the course of doing business with you, we collect nonpublic personal information about you. "Nonpublic personal information" is financial information specifically about you. For example, it includes information regarding your account balance, payment history, and overdraft history.
 
 We collect this information from the following sources:
 
@@ -77,14 +77,14 @@ We collect this information from the following sources:
 
 **WHAT INFORMATION WE DISCLOSE AND WHO WE DISCLOSE INFORMATION TO.**
 
-We may disclose all the nonpublic personal information we collect about you as permitted by law. For example, we may disclose nonpublic personal information about you to affiliated members of our corporate family and to nonaffiliated third parties such as:
+We may disclose all the nonpublic personal information we collect about you as permitted by law. The following are some examples of situations in which we may disclose nonpublic personal information about you to affiliated members of our corporate family and to nonaffiliated third parties:
 
-  * Government entities, in response to subpoenas, or to comply with laws or regulations.
+  * To government entities, in response to subpoenas, or to comply with laws or regulations.
   * When you direct us to do so or consent to the disclosure.
-  * Companies that perform services necessary to process your transactions or maintain your account -- for example, data processing companies or ATM networks.
+  * When companies perform services for us that are necessary to process your transactions or maintain your account -- for example, data processing companies or ATM networks.
   * When you have initiated a transaction and we are asked to verify funds or account information.
   * When needed to protect against fraud, or to collect unpaid debts.
-  * Credit bureaus that prepare reports on your creditworthiness.
+  * To update credit bureaus that prepare reports on your creditworthiness.
 
 
 
@@ -96,8 +96,8 @@ If you close your account(s) or become an inactive customer, we will continue to
 
 We may disclose all your nonpublic personal information to:
 
-  * Companies that perform services on our behalf, such as marketing.
-  * Other financial institutions with whom we have joint marketing agreements. As one example, when you purchase an investment product (such as a mutual fund or annuity), you may be dealing with one of our employees who also works for the company that sells the investment products. When you provide information in connection with your purchase of the investment product, you provide it both to us and to the other company involved in offering these products.
+  * Companies that perform marketing services on our behalf, such as preparing mailings on our marketing materials.
+  * Other financial institutions with whom we have joint marketing agreements. As one example, when you purchase an investment product (such as a mutual fund or annuity), you may be dealing with one of our employees who also works for the company that sells the investment product. When you provide information in connection with your purchase of the investment product, you provide it both to us and to the other company involved in offering that product.
 
 
 
@@ -144,21 +144,19 @@ A.** Your credit report includes personal and financial information such as your
 
 It's a good idea to check your report periodically to see that the information is accurate and up to date. For a fee, each of the major credit bureaus below will supply you with a copy. However, if you have been denied credit within the past 60 days because of information in your credit report, you are entitled to a free copy.
 
-Equifax, Inc. (800) 997-2493 
-
-[www.equifax.com](http://www.equifax.com/)  
-Trans Union Corp. (800) 888-4213 [www.tuc.com](http://www.tuc.com/)  
+Equifax, Inc. (800) 997-2493 [www.equifax.com](http://www.equifax.com/)  
+Trans Union Corp. (800) 916-8800 [www.tuc.com](http://www.tuc.com/)  
 Experian (888) 397-3742 [www.experian.com](http://www.experian.com/)
 
 **Special offers from us.**  
-We want you to be able to choose whether to receive information about special offers of products and services from us. For example, you can choose to remove your name from our marketing lists so that you will not receive offers by mail, telephone or e-mail. This may mean you might not receive information of interest to you. (Of course, we will continue to send you routine statements and information concerning your accounts that may, from time to time, include promotional offers.) You may direct us to remove your name from our marketing lists by writing to:
+We want you to be able to choose whether to receive information about special offers of products and services from us. For example, you can choose to remove your name from our marketing lists so that you will not receive offers by mail, telephone or e-mail. This may mean you might not receive information that may be of interest to you. (Of course, we will continue to send you routine statements and information concerning your accounts that may, from time to time, include promotional offers.) You may direct us to remove your name from our marketing lists by writing to:
 
 Customer Information Manager  
 First Hawaiian Bank  
 P.O. Box 3200  
 Honolulu, HI 96847
 
-When doing so, please provide your name, address, Social Security number and First Hawaiian account numbers.
+When doing so, please provide your name, address,  and First Hawaiian account numbers.
 
 **PROTECT YOUR GOOD NAME.**
 
@@ -166,13 +164,13 @@ You can take steps to secure your personal information and guard against identit
 
   * **Never** give your Social Security number, credit card or bank account information on the phone unless you initiate the call.
   * **Don't** print your Social Security number on your checks.
-  * Protect banking personal identification numbers (PINs) and passwords. Don't carry PINs in your wallet or write them on your debit or credit cards! **Never** use your Social Security number as a password. Change your PIN regularly.
+  * Protect banking personal identification numbers (PINs) and passwords. Don't carry PINs in your wallet or write them on your debit or credit cards! **Never** use as a password your Social Security number or another number (or portion of the number) that can be found in your wallet. Change your PIN regularly.
   * Tear up receipts, bank statements and unused credit card offers before throwing them away.
   * Review account statements regularly for unauthorized charges.
   * If you suspect your identity has been stolen:  
 1\. Contact First Hawaiian Bank immediately so we can start closing accounts and clearing your name. Call (808) 844-4444 (from Oahu) or call toll-free (888) 844-4444 (from the Mainland U.S. or Neighbor Islands). From Guam, call (671) 475-7900. From CNMI, call (670) 235-3090.  
-2\. File a police report and call the fraud units of the major credit bureaus: Trans Union (800) 916-8800, Experian (800) 397-3742 and Equifax (800) 525-6285.  
+2\. File a police report and call the fraud units of the major credit bureaus: Trans Union (800) 680-7289, Experian (800) 397-3742 and Equifax (800) 525-6285.  
 3\. Report the incident to the toll-free Identity Theft Hotline of the Federal Trade Commission at 1-877-ID THEFT (438-4338). Counselors there can help you resolve problems.  
-4\. Learn more about identity theft at the U.S. Postal Service "Know Fraud" ID Theft website (www.consumer.gov/knowfraud).
+4\. Learn more about identity theft at [www.consumer.gov/idtheft](http://www.consumer.gov/idtheft)
 
 
