@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409211917id_/http%3A//www.newyorklife.com/NYL2/Display/0%2C1235%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019111455id_/http%3A//www.newyorklife.com/NYL2/Display/0%2C1235%2C10564%2C00.html) for the most accurate reproduction.*
 
 # New York Life Privacy Policy
 
@@ -9,18 +9,17 @@
 [](https://web.archive.org/NYL2/Investment/0,1281,16,00.html)  
 [](http://www.newyorklifeltc.com/)  
 [](https://web.archive.org/NYL2/DocDisplay/0,1232,10599,00.html)  
-[ ](https://web.archive.org/NYL2/DocDisplay/0,1232,2,00.html)  
-[ ](https://web.archive.org/NYL2/Display/0,1235,10580,00.html)  
-[ ](https://web.archive.org/NYL2/GenericRedirect/1,1725,,00.html?url=http%3A%2F%2Fagents%2Enewyorklife%2Ecom%2F&hitbox_pn=Agent+Locator&hitbox_ct=Agent+Locator)  
-[](https://web.archive.org/NYL2/Personal_Folder_Login/1,1246,,00.html)  
-|  |  |   
-|  |  |   
-|  |   
-[ ](https://web.archive.org/NYL2/Personal_Folder_Registration/1,1247,,00.html)  
-|  |   
-[ ](https://web.archive.org/NYL2/ArticleDisplay/0,1234,11089,00.html) |  |   
+[](https://web.archive.org/NYL2/Display/0,1235,11210,00.html)  
+[](https://web.archive.org/NYL2/DocDisplay/0,1232,2,00.html)  
+[](https://web.archive.org/NYL2/Display/0,1235,10580,00.html)  
+| | |   
+| []()| |   
+[](https://web.archive.org/NYL2/Personal_Folder/Get_Password_Form/0,1738,,00.html)  
+[](https://web.archive.org/NYL2/Personal_Folder/Profile_Form/1,1748,,00.html)  
+[](https://web.archive.org/NYL2/DisplayOne/0,1237,11265,00.html)  
   
-New York Life Online Privacy Policy 
+New York Life Online Privacy Policy   
+(Effective as of April 1, 2001) 
 
 We know that the privacy of your personal information is important to you. That's why the New York Life Family of Companies* wants you to know how we protect your privacy and the measures we take to safeguard your information. 
 
@@ -66,10 +65,12 @@ We may share your personal information within the New York Life Family or with n
 
 
 
+If you are a customer of the New York Life Family, and you use any of our service areas to change your accounts or account information, we will handle that information in accordance with our Customer Privacy Policy, which you can access by [clicking here.](https://web.archive.org/NYL2/Display/0,1235,11102,00.html)
+
 Keeping Up-To-Date With Our Privacy Policy  
 This privacy policy takes effect April 1, 2001. You can always review the current privacy policy from the front page of the site, www.newyorklife.com. 
 
-* The New York Life Family of Companies (also referred to as 'the New York Life Family," "we," "our," or "us" throughout this notice) currently includes the following affiliates and funds: 
+* The New York Life Family of Companies (also referred to as "the New York Life Family," "we," "our," or "us" throughout this notice) currently includes the following affiliates and funds: 
 
 | New York Life Insurance Company | New York Life Benefit Services LLC  
 ---|---  
