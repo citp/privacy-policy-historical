@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601104744id_/http%3A//techcu.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091221id_/http%3A//www.techcu.com/privacy/index.html) for the most accurate reproduction.*
 
 # Technology Credit Union
 
@@ -111,7 +111,7 @@ Opting Out:
 If you do not want us to give information about you to third parties who are selling their own products or services, and do not want us to exchange information other than transactions and experiences between the Credit Union and TechCU Financial and Insurance Services, Inc. (including the Car Store), you can opt out at any time by:
 
   * Calling (408) 451-9111 or (800) 553-0880 (outside the 408 area code) 
-  * Completing the following form and returning it in person to any [Technology Credit Union branch](https://web.archive.org/web/20020601104744id_/http%3A//techcu.com/branches/index.html), or mailing it to us at the address given on the [form](https://web.archive.org/privacy/form.pdf). 
+  * Completing the following form and returning it in person to any [Technology Credit Union branch](https://web.archive.org/web/20021208091221id_/http%3A//www.techcu.com/branches/index.html), or mailing it to us at the address given on the [form](https://web.archive.org/privacy/form.pdf). 
   * Completing the following [secure online form](https://www.technologycu.org/onlineapps/optout.asp)
 
 
@@ -127,6 +127,6 @@ Personal Information Accuracy
 We make every effort to ensure the accuracy of your personal information you provide us. If you identify an error, or need to change or update your current information, please notify us so we can promptly update our records. You may report any errors by:
 
   * Calling (408) 451-9111 or (800) 553-0880 (outside the 408 area code)
-  * Sending us a secure e-mail (link to next section about secure e-mails) through WebBranch
+  * Sending us a secure email (link to next section about secure emails) through WebBranch
 
 
