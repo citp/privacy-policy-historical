@@ -1,0 +1,471 @@
+<!--The following is the downloaded HTML source of the directholidays.co.uk privacy policy that was archived on 2004-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041126014711id_/http%3A//www.directholidays.co.uk/AniteNextPage.asp%3Fp%3DPRIVACYPOLICY%26s%3D747391) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3org/TR/html4/loose.dtd"><html><head>
+<meta name="Service" content="Anite CMS">
+<meta name="Copyright" content="(c) Anite Travel Systems Limited">
+<title>Direct Holidays UK</title>
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="DHUKBrand/main.css" type="text/css">
+<link rel="stylesheet" href="DHUKBrand/browse.css" type="text/css">
+
+
+
+<script language="JavaScript" src="javascript/drawDates.js"></script>
+<link rel="shortcut icon" href="favicon.ico">
+<script language="JavaScript">
+<!--
+
+//function to add days to any date
+Date.prototype.addDays=function(num)
+{
+	return new Date((new Number(this)) + (num * 60 * 60 * 24 * 1000))
+}
+
+function pad(str, desiredStrLen, padChar)
+{
+ var str = str.toString();
+ var strLen = str.length;
+ while(strLen < desiredStrLen)
+ {
+  str = padChar + str;
+  strLen = str.length;
+ }
+ return str;
+}
+
+function validate() {
+
+//****************
+	var day_depart=document.CriteriaForm.Day.options[document.CriteriaForm.Day.selectedIndex].value;
+	var monthYear = document.CriteriaForm.Month.options[document.CriteriaForm.Month.selectedIndex].value;
+	var tempArr = monthYear.split("-");
+
+	//alert(monthYear);
+
+	var month_depart = tempArr[0];
+	var year_depart = tempArr[1];
+
+alert(month_depart);
+alert(year_depart);
+var tempDate = new Date(year_depart, month_depart-1, day_depart);
+
+	//alert(tempDate);
+
+	var duration = document.CriteriaForm.duration[document.CriteriaForm.duration.selectedIndex].value;
+	duration = Number(duration);
+
+	//alert(duration);
+	//alert(tempDate.getDate());
+
+	//tempDate.setDate(tempDate.getDate() + duration);
+
+	tempDate = tempDate.addDays(duration)
+
+	//alert(tempDate);
+
+
+	var day_return = tempDate.getDate();
+
+	//alert(day_return);
+
+	day_return = pad(day_return, 2, "0");
+	var month_return = tempDate.getMonth()+1;
+
+	//alert(month_return);
+
+	month_return = pad(month_return, 2, "0");
+	var year_return = tempDate.getYear();
+
+	//alert(year_return);
+
+	document.CriteriaForm.OutDepDate.value = day_depart + "/" + month_depart + "/" + year_depart;
+
+	document.CriteriaForm.RetDepDate.value = day_return + "/" + month_return + "/" + year_return;
+
+	//alert("Out date: " + document.CriteriaForm.OutDepDate.value + ", Return Date: " + document.CriteriaForm.RetDepDate.value);
+//******************
+
+//Destination
+document.CriteriaForm.OutArrAir.value = document.CriteriaForm.Dest[document.CriteriaForm.Dest.selectedIndex].value;
+document.CriteriaForm.RetDepAir.value = document.CriteriaForm.Dest[document.CriteriaForm.Dest.selectedIndex].value;
+document.CriteriaForm.Destination1.value=document.CriteriaForm.Dest[document.CriteriaForm.Dest.selectedIndex].value;
+
+//Departure
+document.CriteriaForm.Departure1.value = document.CriteriaForm.Dep[document.CriteriaForm.Dep.selectedIndex].value;
+document.CriteriaForm.OutDepAir.value = document.CriteriaForm.Dep[document.CriteriaForm.Dep.selectedIndex].value;
+document.CriteriaForm.RetArrAir.value = document.CriteriaForm.Dep[document.CriteriaForm.Dep.selectedIndex].value;
+
+//CompCode
+var dest = document.CriteriaForm.Dest[document.CriteriaForm.Dest.selectedIndex].value.replace(" ","");
+
+
+if (!document.getElementById('FlightOnly').value)
+{
+	if (dest=="LCA"||dest=="PFO")
+	{
+	document.CriteriaForm.CompCode.value = "DH";
+	}
+	else
+	{
+	document.CriteriaForm.CompCode.value = "DH";
+	}
+}
+
+
+return true;
+}
+
+function setSearchType()
+{
+	if (document.CriteriaForm.HolType[0].checked)
+	{
+		document.getElementById('FlightOnly').value = true;
+		document.CriteriaForm.action = "/atopweb/test/en/flightonly/ATOPWeb.ASP?WCU=NewFltOnly";
+		document.CriteriaForm.CompCode.value = "DF";
+	}
+	else if (document.CriteriaForm.HolType[1].checked)
+	{
+		document.CriteriaForm.CompCode.value = "DG";
+		document.getElementById('FlightOnly').value = false;
+		document.CriteriaForm.action = "/atopweb/test/en/inclusive/ATOPWeb.ASP?WCU=New&bst=Avail";
+	}
+	else if (document.CriteriaForm.HolType[2].checked)
+	{
+		document.CriteriaForm.CompCode.value = "DG";
+		document.getElementById('FlightOnly').value = false;
+		document.CriteriaForm.action = "/atopweb/test/en/inclusive/ATOPWeb.ASP?WCU=New&bst=Avail";
+	}
+
+	validate();
+	document.CriteriaForm.submit();
+
+}
+
+//-->
+</script>
+</head>
+
+<body>
+
+<table width="777" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	<td class="topnav"><a href="AniteNextPage.asp?p=HOME&amp;s=747391"><img src="/media/dh-logo.gif" width="777" height="80" border="0" alt="Direct Holidays make the direct comparison"></a></td>
+  </tr>
+  <tr>
+	<td valign="top">
+	  <table width="777" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		  <td id="leftnavpanel" class="leftnav" valign="top">
+		  <!-- start left nav-->
+					<!-- INCLUDE THE LEFT NAV	-->
+						<a href="#startofmenu"></a>
+		    <div align="center">
+			<img src="/media/helpdesk-DIRECT130.gif" width="130" height="57" alt="Phone 0870 238 7700" name="helpdesk" usemap="#helpdeskMap" border="0"><br>
+			</div>
+			  <img src="graphics/spacer.gif" alt="" width="135" height="5" border="0">
+
+				<div id="navigation" class="leftnavmenu">
+				Holiday Choices<br>
+
+					
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=HOME&amp;s=747391">Home</a><br>
+
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=HOME&amp;s=747391">Holidays</a><br>
+
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=FLIGHTONLY&amp;t=5045&amp;s=747391">Flights</a><br>
+
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=OFFERLIST&amp;s=747391">Special Offers</a><br>
+
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=LATEDEALS&amp;s=747391">Late Deals</a><br>
+
+					
+					
+						
+<br>Holiday Extras<br>
+
+					
+					
+					
+						
+
+					
+					
+					
+						<a href="#" onclick="submitBreakout('MYTRAVELMONEYLINK');">Foreign Currency</a><br>
+
+
+					
+					
+					
+						<a href="#" onclick="submitBreakout('AIRPORTEXTRASLINK');">Airport Extras</a><br>
+
+<br>Holiday Info<br>
+
+					
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=TRAVELGUIDES&amp;s=747391">Travel Guides</a><br>
+
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=SEASONSQUICKFIND&amp;s=747391">Property search</a><br>
+
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=WHYDH&amp;s=747391">Why Direct Holidays</a><br>
+
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=EXTRAINFOLIST&amp;s=747391">Extra holiday info</a><br>
+
+					
+					
+						
+
+					
+					
+					
+						<a href="#" onclick="submitBreakout('BROCHURE');">Brochure Request</a><br>
+
+
+					<a href="AniteNextPage.asp?p=IRELAND&amp;s=747391">Ireland departures</a><br>
+
+					
+					
+						
+
+					
+					
+					
+						<a href="#" onclick="submitBreakout('DG');">Direct Greece</a><br>
+
+
+					<a href="AniteNextPage.asp?p=ABOUT&amp;s=747391">About Us</a><br>
+
+					
+					
+						
+
+					<a href="AniteNextPage.asp?p=CONTACTUS&amp;s=747391">Contact Us</a><br>
+
+					
+					
+						
+
+				
+					
+					
+<br>
+						
+							
+								<a href="AniteNextPage.asp?p=SPECIFICPROMO_19592&amp;s=747391"><img src="/media/dhuk_mini_halfpriceins.gif" width="120" height="60" alt="Half Price Insurance for Summer 2005!!" border="0"></a><br>
+
+
+
+						
+
+					
+					
+
+					<br>
+						
+							
+								<a href="AniteNextPage.asp?p=SPECIFICPROMO_19593&amp;s=747391"><img src="/media/dhuk_mini_freechildplaces.gif" width="120" height="60" alt="1000's Of Guarunteed Free Child Places!" border="0"></a><br>
+
+
+
+						
+
+					
+
+					
+					<br>
+						
+							
+								<a href="AniteNextPage.asp?p=SPECIFICPROMO_19594&amp;s=747391"><img src="/media/dhuk_mini_save100couple.gif" width="120" height="60" alt="Save up to £100 per couple" border="0"></a><br>
+
+
+
+						
+						<br>
+
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+					
+					
+
+			</div>
+
+			  <div align="center"><a href="http://www.Atol.org.uk" target="_new">
+				<img src="/media/atol_Direct-Holidays.gif" width="65" height="69" border="0" alt="Atol protected click here for details"></a>
+			  <br>
+			  <a href="AniteNextPage.asp?p=CARDS&amp;s=747391">
+				<img src="/media/creditcards.gif" width="90" height="42" border="0" alt="Visa, Solo, Maestro, Delta  &amp; Mastercard accepted"></a>
+			  <br>
+			  </div>
+
+
+<!-- image map for left nav -->
+	<map name="helpdeskMap">
+  <area shape="rect" coords="55,38,122,54" href="AniteNextPage.asp?p=HELP&amp;s=747391" alt="Help pages">
+</map>
+
+					<!-- END OF INCLUDE LEFT NAV -->
+		   <!-- end of left nav-->
+		   </td>
+
+			<td valign="top">
+				  <table width="100%" cellspacing="0" cellpadding="20">
+				  <tbody><tr>
+					 <td valign="top">
+						<div class="infoheading">
+						Direct Holidays Privacy Policy
+						</div>
+
+							<!-- horizontal line -->
+								<table width="100%" border="0" cellspacing="0" cellpadding="0" class="stripe-blu">
+								  <tbody><tr>
+									<td><img src="/graphics/spacer.gif" width="200" height="1"></td>
+								  </tr>
+								</tbody></table>
+
+						  <p>
+							<!-- end of horiz line -->
+
+							</p><div class="infotxt">
+							We treat your privacy seriously. This Privacy Policy will explain how we collect and use your personal data and give you the opportunity to limit our use of this information.<br><br>We use the personal information that we collect to identify your personal preferences and match your needs with relevant products and services, and assist in processing any bookings that you make through this website.<br><br><b>Consent</b>
+<br>You signify your consent to us collecting and using this information by your use of this website. If we change our Privacy Policy, the changes will be posted here, so that you are always kept informed of how we collect and use the information, and when we would disclose it. Your continued use of this website constitutes your agreement to the changed policy.<br><br>We may also monitor and/or record your telephone conversations with us for security purposes and to ensure consistent customer service levels (including for staff training purposes).&nbsp;<br><br><b>Your booking</b>
+<br>In order to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements we need to use the information you provide such as name, home address, e-mail address, credit card number and any special needs/disabilities/dietary/religious requirements or any medical information etc.&nbsp;<br><br>We take full responsibility for ensuring that proper security measures are in place to protect your information. We must pass the information on to the relevant suppliers of your travel arrangements such as airlines, hotels, transport companies etc. The information may also be provided to your insurers (if you apply for insurance), security or credit checking companies, public authorities such as customs/immigration if required by them, for debt collection purposes or as required by law.&nbsp;<br><br>Additionally, where your holiday is outside the European Economic Area (EEA), controls on data protection in your destination may not be as strong as the legal requirements in this country.&nbsp;<b>(If we cannot pass this information to the relevant suppliers, whether in the EEA or not, we cannot provide your booking. When making a booking, you consent to this information being passed on to the relevant persons.)</b>&nbsp;<br><br>Your data controller is: Direct Holidays plc<br><br>You are entitled to a copy of your information held by us. If you would like to see this please contact the data controller named above.<br><br>We may make a small charge for providing this to you.<br><br><b>Marketing</b>
+<br>We will hold your information, where collected by us, and may use it to inform you in the future of offers by us and other MyTravel Group companies a full list of which is available on request including offers relating to financial services and to send you brochures. We may also provide, rent or sell your details to selected third parties for similar purposes.<br><br><b>Your Personal Profile</b>
+<br>We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic. We use information collected to recommend holidays and other products/services that may be of interest to you. The Group may also use the information to help develop the design and layout of the site to ensure that it is as useful and enjoyable as possible.<br><br>We may use the information you provide us with to inform you of suggestions for your next holiday or any other promotions and special offers that may be of interest.&nbsp;<br><br>By registering with us you agree to the use and disclosure of information by the Group as described.<br><br><b>How to withdraw your consent</b>
+<br>If you would rather we do not use your personal data for the purposes stated above or for any form of promotional contact, please contact the data controller named above.<br><br><b>Important Note</b>
+<br>Please bear in mind that you will be opting out of receiving any information from Direct Holidays, Late Escapes and selected third parties.&nbsp;<br><br>If you believe that we are storing details relating to you and that these are incorrect please contact the data controller named above.<br><br><b>How do we protect your information?</b>
+<br>When you provide us with your credit card details or order services from us, we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us.<br><br>We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access to comply with the UK Data Protection Acts of 1984 and 1998. This means that sometimes we may ask for proof of identity before we disclose personal information to you.<br><br>Whilst we have taken all reasonable steps to ensure that the information you provide will be kept secure from unauthorised access, the Internet is not a secure environment. We can not guarantee that the information will be secure during transmission to our web server.<br><br>It is your responsibility to keep your passwords confidential and use the security devices offered. Our security measures depend on you complying with this obligation and we are not responsible for any breach of your privacy due to your failure either to keep your passwords secret or to use the other security devices correctly. Nor are we responsible for breaches of security arising out of intentional and/or unauthorised attempts to access the site, for example, by computer hackers.<br><br><b>Note</b>
+<br>This Privacy Policy only applies to this website and not to the websites of other companies, individuals or organisations to which we provide links. Direct Holidays plc nor MyTravel Group plc have any responsibility for those linked sites.<br><br>We are not responsible and will not be able to protect your privacy if you disclose personal information by emailing Direct Holidays or a third party from this website. Please be careful when disclosing personal information in this way. Emails sent to us may be used for testimonial purposes on this Site but will be withdrawn if requested.
+							</div>
+						</td>
+					</tr>
+					</tbody></table>
+
+		 	 <!-- INCLUDE THE FOOTER	-->
+					<table width="100%" cellpadding="0" cellspacing="20" border="0">
+	<tbody><tr>
+	<td valign="top" colspan="2">
+		<div id="termsconditions" align="center"><br>
+		 <a href="AniteNextPage.asp?p=ABOUT&amp;s=747391">About us</a> <a href="AniteNextPage.asp?p=TANDCS&amp;s=747391">Terms of use</a> <a href="AniteNextPage.asp?p=PRIVACYPOLICY&amp;s=747391">Privacy Policy</a> <a href="AniteNextPage.asp?p=CONTENTDISCLAIMER&amp;s=747391">Content Disclaimer</a> <a href="AniteNextPage.asp?p=HELP&amp;s=747391">Help</a> <a href="javascript: void (0)" onclick="window.print()">Print</a><br><span class="tcssml"><br>
+		  26/11/2004-01:47:04<img src="graphics/spacer.gif" width="20" height="8" alt="">© Copyright Direct Holidays 2004</span><br>
+		</div>
+	</td>
+</tr>
+</tbody></table>
+<script language="javascript">
+function submitBreakout(avSubmit)
+{
+var newwindow;
+	newwindow = window.open('', 'MYTBREAKOUT', 'screenX=50,screenY=50,left=50,top=50,height=550,width=750,scrollbars=yes,toolbars=no');
+	document.frmBreakout.target = 'MYTBREAKOUT';
+	document.frmBreakout.ASUBMIT.value = "SUBMIT_USERPAGE_" + avSubmit;
+	document.frmBreakout.submit();
+	newwindow.focus();
+}
+</script>
+<form name="frmBreakout" method="post" action="AniteXMLGateway.asp">
+<input type="hidden" name="CONTEXTID" value="747391">
+<input type="hidden" name="ASUBMIT" value="">
+</form>
+
+
+			<!-- END OF INCLUDE THE FOOTER -->
+
+
+		  </td>
+		</tr>
+	  </tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+<p>&nbsp;
+</p>
+
+
+</body></html>
