@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606004243id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220195802id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
 
-# civilrights.org -- civilrights.org
+# civilrights.org -- civilrights.org Privacy Policy
 
 civilrights.org does not sell, rent, exchange or otherwise disclose our mailing lists or information about our site visitors. 
 
