@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compassweb.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621132902id_/http%3A//www.compassweb.com/compass/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassweb.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213025100id_/http%3A//www.compassweb.com/compass/privacy.html) for the most accurate reproduction.*
 
-# CompassWeb: About Compass: Privacy Policy
+# Compass Bank > About Compass
 
-|  | 
+**Privacy Policy**
 
 This section explains Compass' policy about personal information you supply when you visit this site. Our goal is to protect your information on CompassWeb in the same way we protect it when you use our banking centers, ATMs, or contact Compass by phone. Our policy is as follows: 
 
@@ -23,4 +23,4 @@ Birmingham, AL 35233
 (A cookie is a small piece of information which a web site stores in the web browser of your PC and can later retrieve. A cookie cannot be read by a web site other than the one that set the cookie. Most cookies only last through a single session or visit. You can set up your web browser to inform you when cookies are set or to prevent cookies from being set.) 
 
 
-|  | [Return to CompassWeb home](https://web.archive.org/web/20000621132902id_/http%3A//www.compassweb.com/index.html)
+
