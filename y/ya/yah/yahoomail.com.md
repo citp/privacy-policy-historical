@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yahoomail.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202081340id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoomail.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630144358id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -13,6 +13,7 @@
 · | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
 · | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
 **Special Topics**  
+· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
 · | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
 · | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
 · | [more...](https://web.archive.org/privacy/us/all.html)  
@@ -27,17 +28,15 @@
   
   | 
 
-**Yahoo! Privacy Policy     \-    Updated**
+[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-[](https://www.truste.org/validate/361) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
-
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html) for important information about safe surfing from the Federal Trade Commission. **
+**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
 
 **What This Privacy Policy Covers**  
 
 
   * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. 
+  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
 
 **Information Collection and Use**
 
@@ -98,8 +97,7 @@
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * Your Yahoo! Account Information is password-protected. 
-  * In certain areas Yahoo! uses industry-standard SSLencryption to protect data transmissions. 
+  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
 
 **Changes to this Privacy Policy**  
 
