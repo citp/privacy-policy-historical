@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gay.net privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609183223id_/http%3A//gay.net/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gay.net privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008135125id_/http%3A//www.gay.com/help/privacy.html) for the most accurate reproduction.*
 
 # Gay.com Help
 
@@ -61,7 +61,7 @@ Gay.com provides links to other sites. Gay.com is not responsible for the privac
 Gay.com may syndicate its content to and distribute its content through other sites on the Internet. Although you may see the Gay.com logo on these pages, your activity on these sites is governed by the privacy statement on the site you're visiting. 
 
 **OPT-OUT**  
-Our site provides users the opportunity upon registration to opt out of receiving communications from us and from our partners, affiliates, and advertisers. These options are available during registration, and through the preferences setting on the "My Account" page. You may further opt out of certain information uses when providing information on forms such as the Premium Personals profile forms. Please note that even if you have chosen to opt out of receiving communications from us, we reserve the right to contact you by e-mail about material changes to this privacy policy or the Gay.com User Agreement. 
+Our site provides users the opportunity upon registration to opt out of receiving communications from us and from our partners, affiliates, and advertisers. These options are available during registration, and through the preferences setting on the "Member Center" page. You may further opt out of certain information uses when providing information on forms such as the Premium Personals profile forms. Please note that even if you have chosen to opt out of receiving communications from us, we reserve the right to contact you by e-mail about material changes to this privacy policy or the Gay.com User Agreement. 
 
 **DELETE/DEACTIVATE INFORMATION**  
 Gay.com gives users the following options for removing their information from our database: • You can send e-mail to feedback@gay.com. Please be sure to include your member name, e-mail address and name. 
@@ -69,7 +69,7 @@ Gay.com gives users the following options for removing their information from ou
 Gay.com is not responsible for removing information from third-party lists or databases with whom users have previously authorized us to share their information. 
 
 **CHANGE/MODIFY INFORMATION**  
-Gay.com gives users the following options for changing or modifying information previously provided: 1\. Visit [http://www.gay.com/members/update/](https://web.archive.org/members/update/) 2\. Send e-mail to [feedback@gay.com](mailto:feedback@gay.com). 
+Gay.com gives users the following options for changing or modifying information previously provided: 1\. Visit [http://www.gay.com/members/](https://web.archive.org/members/) 2\. Send e-mail to [feedback@gay.com](mailto:feedback@gay.com). 
 
 **AD SERVER**  
 Gay.com uses a reputable third party to serve some of the advertisements you see on the pages of the Gay.com Site. We use clear GIFs, or pixel tags, provided by our ad serving company to help manage our advertising. These clear GIFs allow our ad serving company to recognize a browser's cookie when the browser visits the Gay.com Site. This allows us to learn which banner ads bring users to our site. The information we collect and share through this technology is not linked to any information that would allow our ad server to personally identify our users. For more information about our ad serving company or for your choices about not having this anonymous information used, please click [here](http://www.privacychoices.org/). 
