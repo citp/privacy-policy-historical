@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609044137id_/http%3A//bestanimations.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214205700id_/http%3A//bestanimations.com/Privacy.html) for the most accurate reproduction.*
 
 # Best Animations - Privacy Policy
 
@@ -19,7 +19,7 @@ Best Animations, as well as most sites on the Internet, use "cookies" to enhance
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
 
-**Best Animations** works with a third party that serves ads to this site. To find out more about how they (The Flycast Network) manage the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+**Best Animations** works with a third party that serves ads to this site.  These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  To find out more about how they manage the privacy of information in conjunction with serving ads on this site, please go to [Flycast Policy](http://www.flycast.com/about_us/about-privacy.html) and [Sonar Policy](http://www.sonar.com/content/privacy.htm).
 
 **Opt Out Procedure**
 
@@ -29,4 +29,4 @@ If you would like to "opt out," that is, to prevent any data from being stored b
 
 Flycast works with several recognized trade associations and privacy groups that are both actively shaping privacy policies and support consumer privacy. We are actively participating in the Direct Marketing Association's efforts to establish industry guidelines that safeguard the right to privacy, and are members of the Ad Club of New York, the New York New Media Association, the Interactive Advertising Bureau.
 
-[Return to Best Animations main menu](https://web.archive.org/web/20000609044137id_/http%3A//bestanimations.com/index.html)
+[Return to Best Animations main menu](https://web.archive.org/web/20001214205700id_/http%3A//bestanimations.com/index.html)
