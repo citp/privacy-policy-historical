@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203203300id_/http%3A//www.debshops.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607061359id_/http%3A//www.debshops.com/privacy.htm) for the most accurate reproduction.*
 
 # Debshops.com Privacy
 
