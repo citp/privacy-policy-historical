@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamefools.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628003038id_/http%3A//www.gamefools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefools.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204053237id_/http%3A//gamefools.com/privacy.php) for the most accurate reproduction.*
 
-# GameFools.com - Free Game Downloads and Reviews
+# GameFools Game Download Directory - Privacy Policy
 
 ##  **GameFools Privacy Policies**
 
