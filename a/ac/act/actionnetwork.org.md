@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610055028id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203012914id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Environmental Defense - Privacy Policy
+# Privacy Policy
 
-As a non-profit advocacy and research organization, Environmental Defense puts high priority on protecting your privacy. This privacy policy applies to the [Environmental Defense](http://www.environmentaldefense.org/) web site, the [Get Green](http://www.getgreen.com/) web site, the [Green Adviser](http://www.greenadviser.org/) web site, the [Scorecard](http://www.scorecard.org/) web site, the [Texas Environmental Profiles](http://www.texasep.org/) web site, and the [Environmental Defense Action Network](http://www.actionnetwork.org/) web site. (Action Network sites operated by other organizations described below are governed by their own privacy policies.) 
-
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBB _OnLine_ ® Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [www.bbbonline.org](http://www.bbbonline.org/). 
+Environmental Defense and Environmental Defense Action Fund put high priority on protecting your privacy. This privacy policy applies to the [Environmental Defense](http://www.environmentaldefense.org/) web site, the [Get Green](http://www.getgreen.com/) web site, the [Scorecard](http://www.scorecard.org/) web site, the [Texas Environmental Profiles](http://www.texasep.org/) web site, the [Undoit.org](http://www.undoit.org/) web site, and the [Environmental Defense Action Network](http://www.actionnetwork.org/) web site. (Action Network sites operated by other organizations described below are governed by their own privacy policies.) 
 
 When you register for special services on one of our sites (to get personalized content or free subscriptions, use our Action Network, enter contests, etc.), you give us personal information about yourself (such as name, address, zip code, email address, etc.). We use this information to provide you with services from ourselves and our partners and affiliates which we think may be of interest to you. You can always "opt-out," now or at any time later, to keep from getting any unwanted messages or solicitations. 
 
@@ -43,15 +41,15 @@ If you ask for one of our many personalized or enhanced services, we will ask yo
 
 **2.   What Organization is Collecting Your Information?**
 
-We are Environmental Defense, a non-profit environmental advocacy and research organization. We are responsible for any information collected on our web sites. Our organizational site is [www.environmentaldefense.org](http://www.environmentaldefense.org/). In addition, we sponsor: 
+We are Environmental Defense, a non-profit, tax-deductible environmental advocacy and research organization, and Environmental Defense Action Fund, a non-profit, non-tax-deductible environmental advocacy and research organization. Environmental Defense and Environmental Defense Action Fund are affiliated organizations. We are responsible for any information collected on our web sites. Our organizational site is [www.environmentaldefense.org](http://www.environmentaldefense.org/). In addition, we sponsor: 
 
   * **[Scorecard](http://www.scorecard.org/)** , a comprehensive online tool for monitoring and taking action on chemical releases and other forms of pollution nationwide; 
-  * [**Green Adviser**](http://www.greenadviser.org/), a source of practical advice for solving environmental problems; 
   * [**Hog Watch**](http://www.hogwatch.org/), a clearinghouse and advocacy site focused on environmental threats from factory farming in the U.S.; 
   * **[Environmental Defense's Action Network](http://www.actionnetwork.org/), **an online activist tool to influence policy (parts of which are operated by **other organizations** ); 
   * **[GetGreen](http://www.getgreen.org/)** , which features tips on how to save money while saving the environment; 
   * [**Alliance for Environmental Innovation**](http://www.environmentaldefense.org/alliance), the web site for our joint project with The Pew Charitable Trusts that works with private companies to create environmental change; 
   * [**Texas Environmental Profiles**](http://www.texasep.org/), where the Texas Center for Policy Studies joins with Environmental Defense to present rankings of air, water, land use and energy issues in the Lone Star State. 
+  * [Undoit.org](http://www.undoit.org/), a Web site dedicated to informing the public about the consequences of global warming and the steps we can take to not just stop global warming, but to undo it. 
 
 
 
