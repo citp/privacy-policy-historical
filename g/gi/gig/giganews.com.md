@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giganews.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608013253id_/http%3A//giganews.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giganews.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203185200id_/http%3A//giganews.com/info/privacy.html) for the most accurate reproduction.*
 
 # Giganews Privacy Policy
 
