@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618090953id_/http%3A//www.handlesets.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204103801id_/http%3A//www.handlesets.com/privacy.cfm) for the most accurate reproduction.*
 
 # 
 
