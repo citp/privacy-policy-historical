@@ -1,10 +1,31 @@
-> *The following text is extracted and transformed from the multiplayer.com privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629233025id_/http%3A//multiplayer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplayer.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203003721id_/http%3A//www.multiplayer.com/modules.php%3Fname%3DPrivacy) for the most accurate reproduction.*
 
-# Multiplayer.com - Privacy Policy
+# Multiplayer.com
+
+|   
+---  
+  
+There are currently, 19 guest(s) and 0 member(s) that are online.
+
+You are Anonymous user. You can register for free by clicking [here](https://web.archive.org/web/20031203003721id_/http%3A//www.multiplayer.com/modules.php?name=Your_Account&op=new_user)  
+  
+   
+  
+---  
+  
+  
+[](http://www.amazon.com/exec/obidos/ASIN/0812568583/jagwarecom-20)  
+  
+   
+  
+**  
+Multiplayer.com Privacy Policy**
 
 **What this Privacy Policy Covers**
 
  ****
+
+****
   * This Privacy Policy covers Multiplayer.com’s treatment of personally identifiable information that Multiplayer.com collects when you are on the Multiplayer.com site, and when you use Multiplayer MGOLD service.
   * This policy does not apply to the practices of companies that Multiplayer.com does not own or control, or to people that Multiplayer.com does not employ or manage.
 
@@ -32,7 +53,7 @@ Information Sharing and Disclosure
     * We have your consent to share the information;
     * We need to send the information to companies who work on behalf of Multiplayer.com to provide our service to you. (such as our payment processing company);
     * We respond to subpoenas, court orders or legal process; or
-    * We find that your actions on our web sites violate the [Multiplayer.com Terms of Service.](https://web.archive.org/termsofservice.html)
+    * We find that your actions on our web sites violate the Multiplayer.com Terms of Service.
 
 **
 
@@ -80,6 +101,26 @@ Questions or Suggestions
 **
 
 ****
-  * If you have questions or suggestions please [ forward](https://web.archive.org/help.html) them to us.
+  * If you have questions or suggestions please [ forward](https://web.archive.org/modules.php?name=Contact) them to us.
 
 
+
+| 
+
+|   
+---  
+  
+| [](http://www.multiplayergamepass.com/skPortal.asp)  
+---  
+Build and manage your empire in [Star Knights](http://www.multiplayergamepass.com/skPortal.asp) \- a captivating and addictive ONLINE space strategy game. Compete against human opponents and AI-CONTROLLED aliens!  
+  
+  
+[](http://www.multiplayergamepass.com/wcPortal.asp)  
+Ever wondered how strong you would be as a Wizard? [Wizards Challenge](http://www.multiplayergamepass.com/wcPortal.asp) allows you to role play one, learn spells, fight against many wizards, fight in duels and play in tournaments.  
+  
+Sign up right now for a 7 day trial with unlimited access to **Star Knights** and **Wizards Challenge** \- plus a dozen more of the hottest independent online multiplayer games for just 
+
+**$3.75**.  
+  
+  
+ 
