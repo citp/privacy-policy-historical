@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115159id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404235013id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
 
 # Travel Signposts
 
-#####  [](http://travelsignposts.com/Destinations/Cardiff/GB_0568)  
-This Norwegian church on Waterfront Park   
-From: [The Pembroke ferry and Cardiff](http://travelsignposts.com/Destinations/Cardiff)
+##### 
 
 | 
 
@@ -13,9 +11,11 @@ Travel Signposts Newsletter
 ---  
 Our Privacy Statement  | 
 
-#####  [](http://travelsignposts.com/Destinations/Waterford/DSC_0672)  
-Reginald's Tower on the quayside, Waterford  
-From: [Waterford, Rosslare and around](http://travelsignposts.com/Destinations/Waterford)
+##### 
+
+[](http://216.92.159.120/Destinations/Siena/italy_0139)  
+A fish-eye view of Piazza del Campo [Siena - Italy]  
+ _From:_[Siena](http://216.92.159.120/Destinations/Siena)
 
 | 
 
@@ -23,21 +23,25 @@ Travel Signposts Forums Latest
   
 ---  
   
-| [**Photos - what format and where to post**](http://www.travelsignposts.com/forums/index.php?showtopic=6) in [Photography](http://www.travelsignposts.com/forums/index.php?) (Started by [**ampphoto**](http://www.travelsignposts.com/forums/index.php?showuser=7) at **Nov 4 2004, 04:27 PM** )  
+| [**We Need Your Help**](http://www.travelsignposts.com/forums/index.php?showtopic=9) in [Other European Touring Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**Sheldon**](http://www.travelsignposts.com/forums/index.php?showuser=13) at **Mar 21 2005, 03:33 AM** )  
 ---  
-Replies: **0** :: Views: **50** :: Last comment by **[ampphoto](http://www.travelsignposts.com/forums/index.php?showuser=7)** at **Nov 4 2004, 04:27 PM**  
+Replies: **0** :: Views: **23** :: Last comment by **[Sheldon](http://www.travelsignposts.com/forums/index.php?showuser=13)** at **Mar 21 2005, 03:33 AM**  
+  
+[**Travel to Russia**](http://www.travelsignposts.com/forums/index.php?showtopic=8) in [Other European Touring Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**maria**](http://www.travelsignposts.com/forums/index.php?showuser=11) at **Feb 14 2005, 03:29 AM** )  
+---  
+Replies: **0** :: Views: **115** :: Last comment by **[maria](http://www.travelsignposts.com/forums/index.php?showuser=11)** at **Feb 14 2005, 03:29 AM**  
+  
+[**Apartment for rent Odessa, Ukraine**](http://www.travelsignposts.com/forums/index.php?showtopic=7) in [Other European Touring Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**odessacity**](http://www.travelsignposts.com/forums/index.php?showuser=9) at **Jan 24 2005, 03:36 PM** )  
+---  
+Replies: **0** :: Views: **185** :: Last comment by **[odessacity](http://www.travelsignposts.com/forums/index.php?showuser=9)** at **Jan 24 2005, 03:36 PM**  
+  
+[**Photos - what format and where to post**](http://www.travelsignposts.com/forums/index.php?showtopic=6) in [Photography](http://www.travelsignposts.com/forums/index.php?) (Started by [**ampphoto**](http://www.travelsignposts.com/forums/index.php?showuser=7) at **Nov 4 2004, 04:27 PM** )  
+---  
+Replies: **0** :: Views: **312** :: Last comment by **[ampphoto](http://www.travelsignposts.com/forums/index.php?showuser=7)** at **Nov 4 2004, 04:27 PM**  
   
 [**The European Alpine Region**](http://www.travelsignposts.com/forums/index.php?showtopic=5) in [List Your Vacation Photo Album](http://www.travelsignposts.com/forums/index.php?) (Started by [**ampphoto**](http://www.travelsignposts.com/forums/index.php?showuser=7) at **Nov 4 2004, 02:34 PM** )  
 ---  
-Replies: **0** :: Views: **54** :: Last comment by **[ampphoto](http://www.travelsignposts.com/forums/index.php?showuser=7)** at **Nov 4 2004, 02:34 PM**  
-  
-[**Apartments Odessa Ukraine**](http://www.travelsignposts.com/forums/index.php?showtopic=4) in [Other European Touring Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**odessaukraine**](http://www.travelsignposts.com/forums/index.php?showuser=6) at **Oct 27 2004, 04:36 AM** )  
----  
-Replies: **0** :: Views: **51** :: Last comment by **[odessaukraine](http://www.travelsignposts.com/forums/index.php?showuser=6)** at **Oct 27 2004, 04:36 AM**  
-  
-[**Welcome to the Travel Signposts Forums!**](http://www.travelsignposts.com/forums/index.php?showtopic=3) in [European Coach Tour Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**travel**](http://www.travelsignposts.com/forums/index.php?showuser=1) at **Nov 6 2003, 12:56 AM** )  
----  
-Replies: **0** :: Views: **363** :: Last comment by **[travel](http://www.travelsignposts.com/forums/index.php?showuser=1)** at **Nov 6 2003, 12:56 AM**  
+Replies: **0** :: Views: **321** :: Last comment by **[ampphoto](http://www.travelsignposts.com/forums/index.php?showuser=7)** at **Nov 4 2004, 02:34 PM**  
   
   
   
