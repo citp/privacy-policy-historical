@@ -1,31 +1,32 @@
-> *The following text is extracted and transformed from the sco.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202021700id_/http%3A//www.scoinc.com/copyright/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sco.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603203411id_/http%3A//www.sco.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# SCO | Company | Privacy Notice
 
-## The Santa Cruz Operation, Inc. ("SCO")
+| 
 
-The use of SCO in this document refers to SCO and its subsidiaries. SCO is committed to the security of data collected online. Your privacy is important to us and we recognize your need for reasonable control of personally identifiable information that you provide to SCO. Personally identifiable information is any information that is associated with your name. The information you provide helps SCO to better understand your needs and provide you with better service. To further improve your experience, SCO may also track your use while visiting our web site. 
+Privacy  
+  
+---|---  
+  
+* * *  
+  
+You can visit any part of [SCO's* Web site](http://www.sco.com/) without telling us who you are or revealing any personal information about yourself. However, if you want to purchase a product from the SCO OpenStore, register a new product, sign up for a mailing list, enter a sweepstakes, or sign onto a page that requires authorization, you will be asked for your name, e-mail address, postal address, and other related information. 
 
-SCO's privacy policy strives to be in line with evolving industry standards and at present covers these main areas regarding the privacy of your information:
+This privacy notice contains the following statements:
 
-## Awareness
+  * Collecting and Using Information 
+  * Purchasing Online Products 
 
-SCO wants you to be aware of its online privacy policy in case you opt to provide personally identifiable information to us. We take reasonable steps to see that it is followed within our company.
 
-## Choice
 
-SCO will not sell your personally identifiable information to others. SCO may share your information with SCO entities located in other countries and/or business partners in order to help satisfy your business needs. Whenever possible, SCO will provide you the choice of whether or not your information can be used for additional purposes such as direct marketing.
+**Collecting and Using Information**  
+SCO may use "cookies" to learn about you and to remember you the next time you visit our Web site. That way, subsequent visits will be simpler and more seamless for you. If you want to manually control whether or not a cookie is used, you may be able to set your browser to do so. (For Web pages requiring authorization, cookies are not optional. Users choosing not to accept cookies will likely not be able to access those pages.)
 
-## Access & Accuracy
+SCO may track IP addresses (the Internet address of a computer) to keep track of a user's session, while the user's personal information remains totally anonymous. Tracking IP addresses can give us important information about our visitors. For example, we can learn which parts of our site users are visiting and how long they stay.
 
-SCO works to keep your personally identifiable information accurate. We are currently working to make it easier for you to review the information SCO stores about you and to enable you, if necessary, to update or correct it. 
+When SCO receives information about you or about your session, we may use it for research or to improve our site and the services we offer you. We may also ask if we may later contact you via e-mail or postal mail (for example, to send you information or special offers) or if we may share your personal information with other companies that offer related services.
 
-## Security
+**Purchasing Online Products**  
+When you purchase products from our online store (OpenStore), we establish a "secure session" using the Secure Socket Layer (SSL) protocol. This protocol lets you securely pass information between systems by creating a private conversation that only your computer and SCO systems can understand (called "public key cryptography").
 
-SCO is committed to ensuring the security of your information. Credit card numbers are only used for processing payment and are not used for other purposes. 
-
-## Oversight
-
-SCO supports industry self-regulation efforts on privacy. We also closely monitor and track what government bodies in the U.S. and in other countries, as well as consumer groups who are working to protect consumer privacy, are doing. We strive to be in line with their evolving policies and guidelines related to the collection and use of personal data. If you have comments or questions about our privacy policy, please send them to this email address: [legal@sco.com](mailto:legal@sco.com).
-
-Current as of March 5 1999
+To benefit from the SSL technology, you will need an SSL-capable browser. Examples of browsers that support the SSL technology are Netscape® Navigator 2.0 and later, Microsoft® Internet Explorer 2.0 and later, and the 3.0 browser (and later) in America Online® for Windows. (For more details, see the documentation that came with your Web browser.)
