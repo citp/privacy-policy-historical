@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pctools.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602230617id_/http%3A//pctools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pctools.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215015237id_/http%3A//www.pctools.com/privacy.php) for the most accurate reproduction.*
 
 # PC Tools Privacy Policy
 
@@ -18,7 +18,7 @@ We use an outside advertising company to display ads on our site. These ads may 
 Some anonymous demographic data is shared with the advertising companies on an aggregate basis. 
 
 **Third Party Cookies**   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
 
 **Registration Forms**   
 Our site's registration form requires users to give us contact information (like their name, email, and postal address), and demographic information (like their zip code, age, or income level). 
@@ -78,7 +78,7 @@ We care about children and understand that they have special privacy needs. Ther
 Our site provides users the opportunity to opt-out of receiving promotional / marketing information from our partners, and us. 
 
   1. You can [contact us](https://web.archive.org/contact.php)
-  2. You can visit the following URL: [pctools.com](http://pctools.com/)
+  2. You can visit the following URL: [www.pctools.com](http://www.pctools.com/)
 
 
 
