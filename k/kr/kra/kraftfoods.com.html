@@ -1,12 +1,69 @@
-<!--The following is the downloaded HTML source of the kraftfoods.com privacy policy that was archived on 2000-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001201225800id_/http%3A//kraftfoods.com/html/main/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kraftfoods.com privacy policy that was archived on 2002-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020806210557id_/http%3A//web.kraftfoods.com/knet_fridge.aspx%3Fs%3Dabout%26m%3Dabout/legal_privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>Kraft Interactive Kitchen</title>
-<link href="/legacy_hp_files/kraft_style.css" type="text/css" rel="stylesheet">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>Kraft Interactive Kitchen</title>
 
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<link href="kraft_style.css" type="text/css" rel="stylesheet">
+	<!-- ALL JAVASCRIPT IN JS CONTROL -->
+	
 <script>
 <!-- 
+
+
+function changePage() {
+		if (parent.top.location != document.location)
+			parent.location=document.location;
+		}
+//setTimeout ("changePage()", 300);
+//====================================================
+// BROWSER CHECK
+//====================================================
+function BrowserCheck() { 
+var b = navigator.appName 
+	if (b=="Netscape") this.b = "ns" 
+	else if (b=="Microsoft Internet Explorer") this.b = "ie" 
+	else this.b = b 
+		this.v = parseInt(navigator.appVersion) 
+		this.ns = (this.b=="ns" && this.v>=4) 
+		this.ns4 = (this.b=="ns" && this.v==4) 
+		this.ns5 = (this.b=="ns" && this.v==5) 
+		this.ie = (this.b=="ie" && this.v>=4)
+		this.ie4 = (navigator.userAgent.indexOf('MSIE 4')>0)
+		this.ie5 = (navigator.userAgent.indexOf('MSIE 5')>0)
+		this.ie6 = (navigator.userAgent.indexOf('MSIE 6')>0)
+		this.ie7 = (navigator.userAgent.indexOf('MSIE 7')>0)
+		// through version 8 of IE
+	if (this.ie5) this.v = 5 
+	var p = navigator.platform
+	this.mac = (navigator.appVersion.indexOf("Mac") != -1)
+	this.win = (navigator.appVersion.indexOf("Win") != -1)
+	this.otherOS = (! this.mac || ! this.win )
+	this.min = (this.ns||this.ie) 
+	this.ie5w = (this.ie5 && this.win)
+} 
+is = new BrowserCheck(); // keep this line to initialize JS object
+
+function setLayerText(objName,x,newText) {
+	if ((obj=MM_findObj(objName))!=null) {
+		with (obj){
+			if (is.ns4) {
+				document.write("<span class=\"bodyPlain\">" + unescape(newText) + "</span>"); 
+				document.close();
+			}else{
+				innerHTML = unescape(newText);
+			}
+		}
+	}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
 
 if (document.images){
 	rec1 = new Image
@@ -24,287 +81,508 @@ if (document.images){
 	just1 = new Image
 	just2 = new Image
 	just3 = new Image
-	search1 = new Image
-	search2 = new Image
-	search3 = new Image
-	season1 = new Image
-	season2 = new Image
-	season3 = new Image
-	classic1 = new Image
-	classic2 = new Image
-	classic3 = new Image
-	nutr1 = new Image
-	nutr2 = new Image
-	nutr3 = new Image
-	tip1 = new Image
-	tip2 = new Image
-	tip3 = new Image
-	email1 = new Image
-	email2 = new Image
-	email3 = new Image
-	recibox1 = new Image
-	recibox2 = new Image
-	recibox3 = new Image
-	profile1 = new Image
-	profile2 = new Image
-	profile3 = new Image
-	join1 = new Image
-	join2 = new Image
-	join3 = new Image
-	brand1 = new Image
-	brand2 = new Image
-	brand3 = new Image
-	product1 = new Image
-	product2 = new Image
-	product3 = new Image
-	contest1 = new Image
-	contest2 = new Image
-	contest3 = new Image
-	faq1 = new Image
-	faq2 = new Image
-	faq3 = new Image
-	prodfind1 = new Image
-	prodfind2 = new Image
-	prodfind3 = new Image
-	store1 = new Image
-	store2 = new Image
-	store3 = new Image
-	heritage1 = new Image
-	heritage2 = new Image
-	heritage3 = new Image
-	contact1 = new Image
-	contact2 = new Image
-	contact3 = new Image
-	corp1 = new Image
-	corp2 = new Image
-	corp3 = new Image
-	career1 = new Image
-	career2 = new Image
-	career3 = new Image
-	canada1 = new Image
-	canada2 = new Image
-	canada3 = new Image
-	
-	
-	rec1.src = "/nav/images/n0_rec.gif";
-	rec2.src = "/nav/images/n1_rec.gif";
-	rec3.src = "/nav/images/n2_rec.gif";
-	food1.src = "/nav/images/n0_food.gif";
-	food2.src = "/nav/images/n1_food.gif";
-	food3.src = "/nav/images/n2_food.gif";
-	health1.src = "/nav/images/n0_health.gif";
-	health2.src = "/nav/images/n1_health.gif";
-	health3.src = "/nav/images/n2_health.gif";
-	about1.src = "/nav/images/n0_about.gif";
-	about2.src = "/nav/images/n1_about.gif";
-	about3.src = "/nav/images/n2_about.gif";
-	just1.src = "/nav/images/n0_just.gif";
-	just2.src = "/nav/images/n1_just.gif";
-	just3.src = "/nav/images/n2_just.gif";
-	search1.src = "/nav/images/subnav/sub_1recipe/sn_1ingred_off.gif";
-	search2.src = "/nav/images/subnav/sub_1recipe/sn_1ingred_roll.gif";
-	search3.src = "/nav/images/subnav/sub_1recipe/sn_1ingred_on.gif";
-	season1.src = "/nav/images/subnav/sub_1recipe/sn_2seasonal_off.gif";
-	season2.src = "/nav/images/subnav/sub_1recipe/sn_2seasonal_roll.gif";
-	season3.src = "/nav/images/subnav/sub_1recipe/sn_2seasonal_on.gif";
-	classic1.src = "/nav/images/subnav/sub_1recipe/sn_3classics_off.gif";
-	classic2.src = "/nav/images/subnav/sub_1recipe/sn_3classic_roll.gif";
-	classic3.src = "/nav/images/subnav/sub_1recipe/sn_3classics_on.gif";
-	nutr1.src = "/nav/images/subnav/sub_1recipe/sn_4nutcat_off.gif";
-	nutr2.src = "/nav/images/subnav/sub_1recipe/sn_4nutcat_roll.gif";
-	nutr3.src = "/nav/images/subnav/sub_1recipe/sn_4nutcat_on.gif";
-	tip1.src = "/nav/images/subnav/sub_1recipe/sn_5tips_off.gif";
-	tip2.src = "/nav/images/subnav/sub_1recipe/sn_5tips_roll.gif";
-	tip3.src = "/nav/images/subnav/sub_1recipe/sn_5tips_on.gif";
-	email1.src = "/nav/images/subnav/sub_5just/sn_4email_off.gif";
-	email2.src = "/nav/images/subnav/sub_5just/sn_4email_roll.gif";
-	email3.src = "/nav/images/subnav/sub_5just/sn_4email_on.gif";
-	recibox1.src = "/nav/images/subnav/sub_5just/sn_3recibox_off.gif";
-	recibox2.src = "/nav/images/subnav/sub_5just/sn_3recibox_roll.gif";
-	recibox3.src = "/nav/images/subnav/sub_5just/sn_3recibox_on.gif";
-	profile1.src = "/nav/images/subnav/sub_5just/sn_2profile_off.gif";
-	profile2.src = "/nav/images/subnav/sub_5just/sn_2profile_roll.gif";
-	profile3.src = "/nav/images/subnav/sub_5just/sn_2profile_on.gif";
-	join1.src = "/nav/images/subnav/sub_5just/sn_1join_off.gif";
-	join2.src = "/nav/images/subnav/sub_5just/sn_1join_roll.gif";
-	join3.src = "/nav/images/subnav/sub_5just/sn_1join_on.gif";
-	brand1.src = "/nav/images/subnav/sub_4about/sn_1brand_off.gif";
-	brand2.src = "/nav/images/subnav/sub_4about/sn_1brand_roll.gif";
-	brand3.src = "/nav/images/subnav/sub_4about/sn_1brand_on.gif";
-	product1.src = "/nav/images/subnav/sub_4about/sn_2newprod_off.gif";
-	product2.src = "/nav/images/subnav/sub_4about/sn_2newprod_roll.gif";
-	product3.src = "/nav/images/subnav/sub_4about/sn_2newprod_on.gif";
-	contest1.src = "/nav/images/subnav/sub_4about/sn_3contest_off.gif";
-	contest2.src = "/nav/images/subnav/sub_4about/sn_3contest_roll.gif";
-	contest3.src = "/nav/images/subnav/sub_4about/sn_3contest_on.gif";
-	faq1.src = "/nav/images/subnav/sub_4about/sn_4faq_off.gif";
-	faq2.src = "/nav/images/subnav/sub_4about/sn_4faq_roll.gif";
-	faq3.src = "/nav/images/subnav/sub_4about/sn_4faq_on.gif";
-	prodfind1.src = "/nav/images/subnav/sub_4about/sn_5prodfind_off.gif";
-	prodfind2.src = "/nav/images/subnav/sub_4about/sn_5prodfind_roll.gif";
-	prodfind3.src = "/nav/images/subnav/sub_4about/sn_5prodfind_on.gif";
-	store1.src = "/nav/images/subnav/sub_4about/sn_6store_off.gif";
-	store2.src = "/nav/images/subnav/sub_4about/sn_6store_roll.gif";
-	store3.src = "/nav/images/subnav/sub_4about/sn_6store_on.gif";
-	heritage1.src = "/nav/images/subnav/sub_4about/sn_7heritage_off.gif";
-	heritage2.src = "/nav/images/subnav/sub_4about/sn_7heritage_roll.gif";
-	heritage3.src = "/nav/images/subnav/sub_4about/sn_7heritage_on.gif";
-	contact1.src = "/nav/images/subnav/sub_4about/sn_8contact_off.gif";
-	contact2.src = "/nav/images/subnav/sub_4about/sn_8contact_roll.gif";
-	contact3.src = "/nav/images/subnav/sub_4about/sn_8contact_on.gif";
-	corp1.src = "/nav/images/subnav/sub_4about/sn_9corp_off.gif";
-	corp2.src = "/nav/images/subnav/sub_4about/sn_9corp_roll.gif";
-	corp3.src = "/nav/images/subnav/sub_4about/sn_9corp_on.gif";
-	career1.src = "/nav/images/subnav/sub_4about/sn_10career_off.gif";
-	career2.src = "/nav/images/subnav/sub_4about/sn_10career_roll.gif";
-	career3.src = "/nav/images/subnav/sub_4about/sn_10career_on.gif";
-	canada1.src = "/nav/images/subnav/sub_4about/sn_11canada_off.gif";
-	canada2.src = "/nav/images/subnav/sub_4about/sn_11canada_roll.gif";
-	canada3.src = "/nav/images/subnav/sub_4about/sn_11canada_on.gif";
+	home1 = new Image
+	home2 = new Image
+
+	rec1.src = "images/n0_rec.gif";
+	rec2.src = "images/n1_rec.gif";
+	rec3.src = "images/n2_rec.gif";
+	food1.src = "images/n0_food.gif";
+	food2.src = "images/n1_food.gif";
+	food3.src = "images/n2_food.gif";
+	health1.src = "images/n0_health.gif";
+	health2.src = "images/n1_health.gif";
+	health3.src = "images/n2_health.gif";
+	about1.src = "images/n0_about.gif";
+	about2.src = "images/n1_about.gif";
+	about3.src = "images/n2_about.gif";
+	just1.src = "images/n0_just.gif";
+	just2.src = "images/n1_just.gif";
+	just3.src = "images/n2_just.gif";
+	home1.src = "images/logo2.gif";
+	home2.src = "images/logo_roll.gif";
 	}
 
-	
 
 //-->
 </script>
-<!--HTML needs to be built around these droplets-->
-</head>
-<body bottommargin="0" leftmargin="0" background="/legacy_hp_files/winterpattern.gif" topmargin="0" marginwidth="0" marginheight="0">
-<table height="100%" cellspacing="0" cellpadding="0" border="0" width="770">
-  <tbody>
-  <tr>
-    <td valign="top" colspan="6"><img height="12" alt="" src="/legacy_hp_files/spacer.gif" width="20" border="0"></td></tr>
-  	<tr>
-    <td><img height="10" alt="" src="/legacy_hp_files/spacer.gif" width="10" border="0"></td>
-    <td valign="top" align="middle" width="185">
-	<table cellspacing="0" cellpadding="0" width="185" border="0">
-        <tbody><tr>
-          <td align="middle">	
-		  <table cellspacing="0" cellpadding="0" width="180" border="0">
-            <tbody><tr>
-                <td>Welcome to the Kraft Interactive Kitchen. <a href="/templates/template4.jhtml?main=/profile/registration&amp;nav=/nav/justNav ">Join now</a> 
-				to become a member or <a href="/templates/template4.jhtml?main=/profile/registration&amp;nav=/nav/justNav ">login</a>
-				 if you already are!<br><br></td></tr></tbody></table></td></tr>
-        <tr>
-          <td align="middle">
-            <table cellspacing="0" cellpadding="0" border="0">
-              <tbody><tr>
-                <td><img height="5" alt="" src="/legacy_hp_files/spacer.gif" width="1" border="0"></td></tr>
-              <tr>
-                <td><img height="11" alt="" src="/legacy_hp_files/left_spacer.gif" width="180" border="0"></td></tr>
+
+<script>
+<!-- 
+function clearIngredient(frm) {
+	frm.value="";
+}
+	
+function clearIngredient5() {
+	document.form1.text1.value="";
+	}
+	
+function clearEmail() {
+	document.email.emailAddress.value="";
+	}
+	
+function clearUser() {
+	document.user.loginName.value="";
+	}
+	
+function clearAns() {
+	document.registration.challengeAns.value="";
+	}
+	
+function clearAns2() {
+	document.challenge.challengeans.value="";
+	}
+	
+function clearYear() {
+	document.registration.dobYYYY.value="";
+	}
+	
+//-->
+</script>
+<script>
+if (is.ns4) {
+         var origWidth = window.innerWidth
+         var origHeight = window.innerHeight
+}
+function restorePage() {
+        if (is.ns4) {
+                 if (origWidth != window.innerWidth || origHeight != window.innerHeight) {
+                        history.go(0)
+                }
+        }
+}
+ </script>
+
+  </head>
+<body onresize="restorePage();" bottommargin="0" leftmargin="0" background="images/kik_BGround.gif" topmargin="0" marginheight="0" marginwidth="0">
+<table width="770" border="0" cellspacing="5" cellpadding="0" height="100%">
+  <tbody><tr> 
+    <td width="192" valign="top">&nbsp;
+    <!-- PROFILE PANEL -->
+    
+<!--%@ OutputCache Duration="30" VaryByParam="wf" %-->
+<span id="knet_profile_panel_lblMsg"></span>
+
+    <table cellspacing="0" cellpadding="0" width="100%" border="0">
+      <tbody><tr>
+        <td align="middle">
+			<table cellspacing="0" cellpadding="0" width="180" border="0">
+			<form action="/knet_fridge.aspx?s=profile&amp;m=profile/knet_profile_logout&amp;u1=logout" method="post" name="frmProfile"></form>
+				<tbody>
+				<tr>
+					<td>
+            <p align="left">
+						<span id="knet_profile_panel_lblName"></span>Welcome to our kitchen!
+							
+							<br>
+							<br>
+							<a id="knet_profile_panel_lnkShoppingList" href="/knet_fridge.aspx?s=profile&amp;m=profile/knet_profile_shopping_list">Your Shopping List</a><span id="knet_profile_panel_lblShoppingCount"></span><br><img height="5" alt="" src="images/spacer.gif" width="10" border="0"><br>
+							<a id="knet_profile_panel_lnkRecipeBox" href="/knet_fridge.aspx?s=profile&amp;m=profile/knet_profile_recipe_box">Your Recipe Box</a><span id="knet_profile_panel_lblRecipeCount"></span><br><img height="5" alt="" src="images/spacer.gif" width="10" border="0"><br><br><span id="knet_profile_panel_lblPromo"></span></p>
+						</td>
+					</tr>
+			
+			</tbody></table>
+		</td>
+	</tr></tbody>
+</table>
+<br>
+    <!-- END PROFILE PANEL -->
+		<!-- PUSH ASSETS CONTROL   -->  
+		
+    <table cellspacing="0" cellpadding="0" width="100%" border="0">
+      <tbody><tr>
+        <td align="center"><img src="/images/left_spacer.gif"></td>
+      </tr>
+      <tr>
+        <td><img src="/images/spacer.gif" height="10" width="1"></td>
+      </tr>
+  
+      <tr>
+        <td align="center">
+<script language="Javascript">
+function KeywordSearch(){
+	if (document.keywordSearch.u2.value == ""){
+		if (is.ns4) {
+			setLayerText("error","","Please enter a keyword or ingredient")
+		}else{
+			setLayerText("error","","Please enter a keyword or ingredient")
+		}
+	}else{
+		document.keywordSearch.submit()
+	}
+}
+</script>
+<script language="Javascript">
+if (is.ns4){
+tempWriteR0 = "<ilayer name=\"error\" id=\"error\"  class=\"error\"><img  src=\"images/spacer.gif\" height=10 width=120></ilayer>"
+}else{
+tempWriteR0 = "<div name=\"error\" id=\"error\" class=\"error\"></div>"
+}</script>
+<table cellspacing="0" cellpadding="0" width="180" border="0">
+<form name="keywordSearch" method="get" action="knet_fridge.aspx"></form>
+<input type="hidden" name="s" value="recipe">
+<input type="hidden" name="m" value="recipe/knet_recipe_grid">
+<input type="hidden" name="u1" value="keyword"> 
+<input type="hidden" name="cid" value=""> 
+<tbody>
+	<tr>
+		<td width="8" rowspan="3"><img height="5" alt="" src="images/spacer.gif" width="8" border="0"></td>
+		<td colspan="2"><b>Quick Recipe Search</b><br>Search for recipes by keyword or ingredient.<br><img height="10" alt="" src="images/spacer.gif" width="8" border="0"></td>
+	</tr>
+	<tr>
+		<td width="82">
+		<input type="text" name="u2" size="10"></td>
+		<td align="left" width="20"><a href="javascript:KeywordSearch()"><img height="25" alt="go" width="43" src="images/btn_go.gif" align="bottom" border="0"></a></td>
+	</tr>
+	<tr>
+		<td colspan="2"><script language="Javascript">document.writeln(tempWriteR0);</script><div name="error" id="error" class="error"></div>
+<img height="5" alt="" src="images/spacer.gif" width="8" border="0">&nbsp; 
+		<br> Select <a href="/knet_fridge.aspx?s=recipe&amp;m=recipe/knet_recipe_search">Recipe Search</a> for alternative search options.
+		</td>
+	</tr></tbody>
+</table>
+</td>
+      </tr>
+      <tr>
+        <td><img src="/images/spacer.gif" height="10" width="1"></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="/images/left_spacer.gif"></td>
+      </tr>
+      <tr>
+        <td><img src="/images/spacer.gif" height="10" width="1"></td>
+      </tr>
+  
+      <tr>
+        <td align="center"><span><table width="172" border="0">
+<tbody><tr>
+<td colspan="2">
+<center>
+<font face="verdana" size="-2">
+<b>Manage Your Kraft Newsletter Subscriptions</b>
+</font>
+</center></td>
+</tr>
 
 <tr>
-	<td colspan="2"><font face="Verdana,Century Gothic,Arial,Helvetica,sans-serif" size="2" color="green"><b> Online Nutrition 	Guide<br></b></font></td></tr>
-	<tr>
-	<td valign="top">	
-	<font face="Verdana,Century Gothic,Arial,Helvetica,sans-serif" size="-2"><a href="/html/nutrition/nutrition_index.html">Click here</a> for practical information, recipes and food tips for a healthy, enjoyable diet. 
-</font><br><img src="/images/spacer.gif" width="2" height="5" alt="" border="0"></td>
-	</tr> 
+<td>
+<a href="" knet_fridge.aspx?s="profile&amp;m=profile/knet_subscribe&amp;task=Profile&amp;taskSet=SubCenter&quot;"><img src="/images/subscrpt_icon.gif" border="0" width="58" height="54"></a>
+</td>
+<td><font face="verdana" size="-2">
+<a href="/knet_fridge.aspx?s=profile&amp;m=profile/knet_subscribe&amp;task=Profile&amp;taskSet=SubCenter">Click here</a> to get customized recipes and other great newsletters delivered right to your e-mail address.
+</font></td>
+</tr>
 
-<tr><td><img height="11" alt="" src="/legacy_hp_files/left_spacer.gif" width="180" border="0"></td></tr>
-<tr><td align="center" valign="top"><font face="Verdana,Century Gothic,Arial,Helvetica,sans-serif" size="2" color="green">
-	<b>Tips &amp; Techniques</b></font></td></tr>
-<tr><td><font face="Verdana,Century Gothic,Arial,Helvetica,sans-serif" size="-2"><a href="/html/main/howto_index.html">Click here</a> for secrets, hints and helpful how-to's that'll help you in your kitchen!<br>
-<img src="/images/spacer.gif" width="2" height="5" alt="" border="0"></font></td>
-	</tr>
-<tr><td><img height="11" alt="" src="/legacy_hp_files/left_spacer.gif" width="180" border="0"></td></tr>
+</tbody></table></span></td>
+      </tr>
+      <tr>
+        <td><img src="/images/spacer.gif" height="10" width="1"></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="/images/left_spacer.gif"></td>
+      </tr>
+      <tr>
+        <td><img src="/images/spacer.gif" height="10" width="1"></td>
+      </tr>
+  
+      <tr>
+        <td align="center"><span><!--   HTML GOES HERE      -->
+	
+<table border="0" cellpadding="0" cellspacing="0" width="177">
+<tbody><tr><td colspan="2" align="center">
+	<font face="verdana,helvetica" size="-1" color="darkblue"><b>Free Gift from Kraft
+  </b></font></td></tr>
+<tr width="172">
+<td align="right" valign="center">
+	<a href="/ff/promo/lifeserv/knet_promo_log.aspx?s=food&amp;m=ff/promo/lifeserv/knet_promo_profile&amp;user_name=&amp;promo_id=23&amp;promo_name=LSFreeGift&amp;conf_url=http%3a%2f%2fwww.lifeserv.com%2fdefault.asp&amp;q1=&amp;q2=&amp;q3=&amp;q4=&amp;q5=&amp;q6=&amp;q7=&amp;q8=&amp;q9=&amp;q10=&amp;wf=lifeguide">
+	<img src="/images/assets/1_c_partner_lifeserv_106b_image.gif" alt="LifeServ" border="0" width="41" hspace="2"></a></td>
 
+<td width="120" valign="top" align="center">
+	<font face="verdana,helvetica" size="-2">
+	Buying a home? <br>Getting married?<br> Having a baby?<br>
+	<a href="/ff/promo/lifeserv/knet_promo_log.aspx?s=food&amp;m=ff/promo/lifeserv/knet_promo_profile&amp;user_name=&amp;promo_id=23&amp;promo_name=LSFreeGift&amp;conf_url=http%3a%2f%2fwww.lifeserv.com%2fdefault.asp&amp;q1=&amp;q2=&amp;q3=&amp;q4=&amp;q5=&amp;q6=&amp;q7=&amp;q8=&amp;q9=&amp;q10=&amp;wf=lifeguide">Click here</a>
+	to get planning help for life's big events.
 
-              <tr>
-                <td><img height="5" alt="" src="/legacy_hp_files/spacer.gif" width="1" border="0"></td></tr></tbody></table></td></tr>
-     			</tbody></table></td><!-- End Navbar template -->
-   
-   <td><img height="10" alt="" src="/legacy_hp_files/spacer.gif" width="10" border="0"></td>
-    <td valign="top" width="13" background="/legacy_hp_files/left_side_pix.gif" rowspan="2"><img height="13" alt="" src="/legacy_hp_files/left_corner.gif" width="12" border="0"></td>
-    <td valign="top" width="500" bgcolor="#f2f2f4" rowspan="2">
-      <table cellspacing="0" cellpadding="0" width="500" border="0">
-        <tbody>
-        <tr>
-          <td background="/legacy_hp_files/winterpattern.gif" colspan="2">
-		<table cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td></td>
-			<td><img src="/legacy_hp_files/top_rite_1.gif" width="52" height="5" alt="" border="0"></td>
-		</tr>
-		<tr>
-			<td><img src="/legacy_hp_files/sop_stretch.gif" width="490" height="9" alt="" border="0"></td>
-			<td><img src="/legacy_hp_files/top_rite_2.gif" width="52" height="9" alt="" border="0"></td>
-		</tr>
-		</tbody></table></td>
-		</tr>
-        <tr>
-          <td valign="top" align="middle" colspan="2">
-		  	<!--This page will switch based on page name 
-					and point to all various displays of the navs-->
+</font></td>
+</tr>
+</tbody></table></span></td>
+      </tr>
+      <tr>
+        <td><img src="/images/spacer.gif" height="10" width="1"></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="/images/left_spacer.gif"></td>
+      </tr>
+      <tr>
+        <td><img src="/images/spacer.gif" height="10" width="1"></td>
+      </tr>
+  
+    </tbody></table>
+  
+
+		<!-- END PUSH ASSETS CONTROL  --></td>
+    <td valign="top">
+    
+    
+      <table height="100%" cellspacing="0" cellpadding="0" width="577" border="0">
+        <tbody><tr> 
+<!-- End left area template -->
+          <td valign="top" width="12" background="images/left_side_pix.gif" rowspan="2"><img height="13" alt="" src="images/left_corner.gif" width="12" border="0"></td>
+          <td valign="top" width="100%" bgcolor="#f2f2f4"> 
             <table cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr>
-                <td colspan="6"><img height="15" alt="" src="/legacy_hp_files/spacer.gif" width="1" border="0"></td></tr>
+              <tbody><tr> 
+                <td valign="top" background="images/kik_BGround.gif" colspan="4"> 
+                  <table cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tbody><tr> 
+                      <td valign="top"></td>
+                      <td align="right" width="52"><img height="5" alt="" src="images/top_rite_1.gif" width="51" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td background="images/sop_stretch.gif"> <img height="9" src="images/spacer.gif" width="490" border="0"></td>
+                      <td align="right" background="images/sop_stretch.gif"><img height="9" alt="" src="images/top_rite_2.gif" width="51" border="0"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+              <tr> 
+                <td align="middle" colspan="4">
 
-             <tr>
-                <td colspan="6"></td></tr>
-              <tr>
-                <td><a href="/"><img height="45" alt="KRAFT" src="/legacy_hp_files/logo2.gif" width="93" border="0"></a></td>
-                <td><a onmouseover="document.food.src=food2.src" onclick="document.food.src=food3.src" onmouseout="document.food.src=food1.src" href="/html/holiday/holiday.html"><img height="32" alt="Food and Family" src="/nav/images/n0_food.gif" width="93" border="0" name="food"></a></td>
-                <td><a onmouseover="document.health.src=health2.src" onclick="document.health.src=health3.src" onmouseout="document.health.src=health1.src" href="/html/nutrition/nutrition_index.html"><img height="32" alt="Health and Wellness" src="/nav/images/n0_health.gif" width="101" border="0" name="health"></a></td>
-                <td><a onmouseover="document.just.src=just2.src" onclick="document.just.src=just3.src" onmouseout="document.just.src=just1.src" href="/templates/template4.jhtml?main=/profile/registration&amp;nav=/nav/justNav "><img height="32" alt="Just for You" src="/nav/images/n0_just.gif" width="70" border="0" name="just"></a></td>
-                <td><a onmouseover="document.rec.src=rec2.src" onclick="document.rec.src=rec3.src" onmouseout="document.rec.src=rec1.src" href="/templates/template2.jhtml?main=/recipe/cookbook&amp;nav=/nav/recipeNav&amp;subnav=/nav/recipeSubNav"><img height="32" alt="Recipes" src="/nav/images/n0_rec.gif" width="92" border="0" name="rec"></a></td>
-                <td><img height="32" alt="About Kraft" src="/nav/images/n2_about.gif" width="79" border="0" name="about"></td></tr></tbody></table></td></tr>
-        <tr>
-          <td width="10"><img height="10" alt="" src="/legacy_hp_files/spacer.gif" width="10" border="0"></td>
-          <td width="532">
-		  
-		  <!-- Begin Main Content Area -->
-		   <table cellspacing="0" cellpadding="0" width="532" border="0">
-              <tbody><tr>
-                <td width="377">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody><tr>
+<td><img height="15" alt="" src="images/spacer.gif" border="0"></td></tr>
+<tr>
+<td colspan="6"></td></tr>
+<tr>
 
-<!-- Insert stuff here -->
+<!-- NAV LOGO -->
+<td valign="bottom">
+<a href="/knet_fridge.aspx?s=">
+<img height="48" alt="Home" src="images/krafthomelogo.gif" width="88" border="0" name="home"></a></td>
+<!-- NAV LOGO  -->
+
+
+<!-- NAV BUTTONS -->
+
+
+<td valign="bottom">
+
+<a alt="Recipe Search" onmouseover="document.rec.src=rec2.src" onclick="document.rec.src=rec3.src" onmouseout="document.rec.src=rec1.src" href="/knet_fridge.aspx?s=recipe&amp;m=recipe/knet_recipe_search">
+
+<img height="32" alt="RecipeSearch" src="images/n0_rec.gif" border="0" name="rec"></a></td>
+
+<td valign="bottom">
+
+<a alt="Food and Family" onmouseover="document.food.src=food2.src" onclick="document.food.src=food3.src" onmouseout="document.food.src=food1.src" href="/knet_fridge.aspx?s=food&amp;m=ff/knet_food_main">
+
+<img height="32" alt="Food and Family" src="images/n0_food.gif" width="93" border="0" name="food"></a></td>
+
+<td valign="bottom">
+
+<a alt="Health and Wellness" onmouseover="document.health.src=health2.src" onclick="document.health.src=health3.src" onmouseout="document.health.src=health1.src" href="/knet_fridge.aspx?s=health&amp;m=health/knet_health_main">
+
+<img height="32" alt="Health and Wellness" src="images/n0_health.gif" width="101" border="0" name="health"></a></td>
+
+<td valign="bottom">
+
+<a alt="Just for You" onmouseover="document.just.src=just2.src" onclick="document.just.src=just3.src" onmouseout="document.just.src=just1.src" href="/knet_fridge.aspx?s=profile&amp;m=profile/knet_profile_main">
+
+<img height="32" alt="Just For You" src="images/n0_just.gif" width="70" border="0" name="just"></a></td>
+
+
+
+<!-- END NAV BUTTONS -->
+
+<!-- SELECTED MENU -->
+
+<td valign="bottom" align="right"><a href="/knet_fridge.aspx?s=about&amp;m=about/knet_about_main">
+<img height="30" alt="" src="images/spacer.gif" width="1" border="0"><img alt="About Kraft" src="images/abtkft_subnav_01.gif" border="0" name="about"></a></td>
+
+<!-- END SELECTED MENU -->
+</tr></tbody></table>
+
+<!-- SHOW DHTML LAYERS FOR NAV ROLLOVER IF ON MAIN PAGE -->
+</td>
+              </tr>
+            </tbody></table>
+            <table cellspacing="0" cellpadding="0" width="100%" border="0" height="100%">
+              <tbody><tr> 
+                <td valign="top" width="10" height="69"><img height="633" alt="" src="images/spacer.gif" width="10" border="0"></td>
+                <td valign="top" height="69"> 
+                  <table cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tbody><tr> 
+                      <td width="100%" valign="top" height="570"> 
+<!-- RIGHT SIDE NAV IF THERE IS ONE FOR THSI SECTION - RIGHT NAV USER CONTROL WILL DETERMINE -->
+                        <table width="10" border="0" cellspacing="0" cellpadding="0" align="right">
+                          <tbody><tr> 
+                            <td> 
+
+<!--This page will switch out the right nav based on the appswitch -->
+<table cellspacing="0" cellpadding="0" border="0" width="80&quot;">
+<tbody><tr><td align="right" valign="top">
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td><a href="/knet_fridge.aspx?s=about&amp;m=about/brands"><img height="16" alt="Our Brands" src="images/abtkft_subnav_02.gif" width="78" border="0"></a></td></tr>
+<tr><td><a href="/knet_fridge.aspx?s=about&amp;m=about/newproducts"><img height="31" alt="New Products" src="images/abtkft_subnav_03.gif" width="78" border="0"></a></td></tr>
+<tr><td><a href="/knet_fridge.aspx?s=about&amp;m=about/contests"><img height="31" alt="Contests and Promotions" src="images/abtkft_subnav_04.gif" width="78" border="0"></a></td></tr>
+<tr><td><a href="http://www.kraftapps.com/contact_us/contact_us.asp?referrer=kraftfoods" target="faq"><img height="19" alt="FAQs" src="images/abtkft_subnav_05.gif" width="78" border="0"></a></td></tr>
+<tr><td><a href="/knet_fridge.aspx?s=about&amp;m=about/hard_to_find"><img height="31" alt="Product Finder" src="images/abtkft_subnav_06.gif" width="78" border="0"></a></td></tr>
+<tr><td><a href="http://jellostore.gage.com/cgi-bin/CornerStore.storefront/" target="store"><img height="30" alt="Kraft Corner Store" src="images/abtkft_subnav_07.gif" width="78" border="0"></a></td></tr>
+<tr><td><a href="/knet_fridge.aspx?s=about&amp;m=about/heritage"><img height="21" alt="Heritage" src="images/abtkft_subnav_08.gif" width="78" border="0"></a></td></tr>
+<tr><td><a href="http://www.kraftapps.com/contact_us/contact_us.asp?referrer=kraftfoods" target="contact"><img height="17" alt="Contact Us" src="images/abtkft_subnav_09.gif" width="78" border="0"></a></td></tr>
+<tr><td><img height="31" alt="Visit our other sites" src="images/abtkft_subnav_10.gif" width="78" border="0"></td></tr>
+<tr><td><a href="http://www.kraft.com/" target="_v"><img height="32" alt="Corporate Site" src="images/abtkft_subnav_11.gif" width="78" border="0"></a></td></tr>
+<tr><td><a href="http://www.kraftfoods.com/careers/" target="_v"><img height="30" alt="Kraft Career Site" src="images/abtkft_subnav_12.gif" width="78" border="0"></a></td></tr>
+<tr><td><a href="http://www.kraftcanada.com/" target="_v"><img height="36" alt="Kraft Canada" src="images/abtkft_subnav_13.gif" width="78" border="0"></a></td></tr>
+</tbody></table>
+
+</td></tr>
+<tr><td align="right" valign="top">
+<span id="Knet_rightnav2_lblPushAssetRight"></span>
+</td></tr>
+</tbody></table>
+
+
+
+
+ 
+                            </td>
+                          </tr>
+                        </tbody></table>
+<!-- END RIGHT SIDE NAV IF THERE IS ONE FOR THSI SECTION - RIGHT NAV USER CONTROL WILL DETERMINE -->
+<!-- INNER CONTENT  --><img height="25" src="images/spacer.gif" width="50" border="0"><br>
+
+
+<!-- TITLE AND HEADER GRAPHIC/ SAYING --><!-- END TITLE AND HEADER GRAPHIC/ SAYING -->
+
+<!-- load in content from default or by passed in main switch -->
+
 <p>
-</p><center><img src="/images/headers/hdr_privacy.gif" border="0">
-<table width="377" border="0" cellpadding="20" cellspacing="0">
-<tbody><tr>  
+</p><center><img src="/images/headers/hdr_privacy.gif" border="0"></center>
+<table width="400" border="0" cellpadding="20" cellspacing="0">
+<tbody><tr>
  <td valign="TOP" width="377" align="LEFT">
 <font face="verdana" size="2">
-This website is owned and operated by Kraft Foods, Inc. Here at Kraft, we recognize that many visitors to our site are concerned about the information they provide to us, and how we treat that information. So we've developed a Privacy Policy to address those concerns.  We may update the Policy from time to time, so please check in occasionally. <p>
- 
-<b>Information We Collect and What We Do With It </b></p><p>
-At our site, we don't collect personally-identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we don't require you to register or provide information to us in order to view our site. If you register in order to use the "Recipe Box," "Simple Meal-Planner," or "Recipes By E-Mail" features of our site, we use the information you supply for the purpose of providing the services you've requested. If you specifically agreed to follow-up contacts by us or asked to be put on our mailing list when you registered, we may also contact you from time to time. You can always change your preference for follow-up contacts just by e-mailing the Online Team at the address listed below.  We don't share any information you give us with anyone outside of Kraft Foods. </p>
+This website is owned and operated by Kraft Foods North America.  Here at Kraft, we recognize that many visitors to our site are concerned about the information they provide to us, and how we treat that information.  So we've developed this Privacy Policy to address those concerns.  This Policy relates only to our <u>online</u> information collection and use practices.
+We may update this Policy from time to time, so please check in occasionally.     <p>
+</p><ul><li><a href="#types">Types of Information We Collect</a></li>
+<li><a href="#how">How Information is collected</a></li>
+<ul><li><a href="#cookies">Cookies</a></li>
+<li><a href="#beacons">Web Beacons</a></li></ul>
+<li><a href="#contests">Contests and Sweepstakes</a></li>
+<li><a href="#surveys">Questionnaires and Surveys</a></li>
+<li><a href="#use">How We Use Your Personal Information</a></li>
+<li><a href="#partners">Advertising Partners</a></li>
+<li><a href="#parties">Third Parties Who Provide Support Services to Kraft</a></li>
+<li><a href="#data">Data Sharing and Transfer</a></li>
+<li><a href="#links">Links to Other Sites</a></li>
+<li><a href="#choice">Choice and Control</a></li>
+<li><a href="#kids">Important Note to Kids</a></li>
+<li><a href="#children">Children's Privacy Policy</a></li>
+<li><a href="#contact">How To Contact Us</a></li></ul>
+<p>
 
-In the e-mail section of our site, we ask for some personally-identifiable information, such as your name and phone number.  We use this information only if we need to contact you directly because our attempts to contact you by e-mail were unsuccessful. We don't use the information internally for other purposes, and we don't share it with anyone outside of Kraft Foods.  We don't use your e-mail address for any purpose other than responding to the message you've sent, unless we have your permission. <p></p>
+<b><a name="types">Types of Information We Collect </a></b></p><p>
+At our site, we collect both personally-identifiable information and aggregate information. Personally-identifiable information relates to an individual consumer - e.g., name, address, telephone number, e-mail address, credit card number, etc.  We only collect personally-identifiable information from individuals who provide it to us voluntarily and knowingly, such as by registering at our site, or by providing name and address information to enter a promotion.  We don't require you to register or provide this information to us in order to view our site or have access to much of its content, such as our many delicious recipes.  However, if you register, you will have access to certain additional features, such as "Your Recipe Box" and "Recipes by e-Mail".  Additionally, the more detailed the information you provide in Your Profile section, the better we are able to customize your website sessions to best meet your needs.  </p>
 
-Our site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to enter electronically in some cases.  If that occurs, we will use the information you provide for the purpose of conducting the promotion (e.g., to contact you if you're a winner).  We don't share the information you give us with anyone outside of Kraft Foods. <p>
+Aggregate information relates to such things as how many consumers visit the site, which pages they access, what recipes they download, the type of web browser and operating system you use, the name of your Internet Service Provider (e.g., America Online), and so on.  When you visit our site, we automatically collect this information ,and combine it with similar information collected about all other visitors.  By collecting this information, we learn how to best tailor our website to our visitors.  <p></p>
+
+<b><a name="how">How Information is Collected</a></b><p>
+
+As we noted above, personally-identifiable information is collected from you directly and with your knowledge.  Thus, when you register on the site, we collect the information you provide.  When you enter a promotion, we collect the information needed for you to participate and for us to fulfill our obligations to you.
+When you use our Recipe Ratings function, we collect whatever information you submit.  When you e-mail us, we collect the e-mail address you supply, so that we can respond.  </p><p>
+
+We also collect aggregate, non-personal information on an ongoing basis when you view our website or our interactive advertisements.  The collection of this non-personal information is done either through "cookie" technology or with "web beacons" (also called 'single-pixel gifs'), as explained below.</p><p>
+
+</p><ul><b><a name="cookies">Cookies</a></b><p>
+
+Like many companies, we use "cookie" technology on and off of our website.  Cookies are pieces of information that a website transfers to an individual's hard drive for purpose of keeping records.  They enhance your online experience by saving your preferences while you are visiting a particular site.  The cookies do not contain any personally-identifiable information and cannot profile your system or collect information from your hard drive.</p><p>
+
+When you view our website or interactive advertisements, we may place a "cookie" on your computer.  Temporary cookies are used for purposes such as counting the number of visits to our sites.  These temporary cookies are eliminated when you exit your browser.  A permanent cookie may also be stored on your computer by your browser.  When you log in, this type of cookie tells us whether you've visited us before or if you are a new visitor.  The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer.  We do use the cookie to help us identify site features and recipes in which you have the greatest interest, so that we can provide more of what you may want.</p><p>
+
+The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.  Remember, though, that cookies allow you to take full advantage of all of Kraft's newest website features, and we recommend that you leave them turned on.</p><p>
+
+<b><a name="beacons">Web Beacons</a></b></p><p>
+
+Web beacons are Internet instrumentation that helps us to determine, for instance, whether a page has been viewed.  When you ask us to send you information on a promotion or newsletter, we may use web beacons to determine how many of the e-mails we sent were actually opened.  In general, any electronic image viewed as part of a web page, including a banner ad, can act as a web beacon.</p><p>
+
+Third party advertising networks that serve ads onto any Kraft website may use cookies and/or web beacons in their advertisements.  Kraft retains no control over these third party cookies and/or web beacons and does not have access to whatever information they may collect on behalf of the third party.  To learn more about third party advertising networks and their privacy policies, click here <a href="http://www.networkadvertising.org/" target="_v">http://www.networkadvertising.org/</a>. In addition, Kraft may use cookies and/or web beacons when Kraft advertises on other companies' websites.  Any information we gather in this way will be governed by this Privacy Policy.</p><p>
+</p></ul>
+
+<b><a name="contests">Contests and Sweepstakes</a></b><p>
+
+Our site sometimes includes notices of promotions we are conducting, and we may permit you to enter electronically in some cases.  If that occurs, we will use the information you provide for the purpose of conducting the promotion (e.g., to contact you if you're a winner).  Within a reasonable time after the conclusion of the promotion, the personal information will be deleted from our database, unless you've agreed to permit us to keep it and use it to contact you again.  </p><p>
+
+<b><a name="surveys">Questionnaires and Surveys </a></b></p><p>
+
+We may occasionally ask visitors to complete surveys and opinion polls about their attitudes and interests.  Surveys help us to understand your needs.  If sample answers to surveys are posted on the website site, no personally identifiable information will be included.  If you participate in one of our surveys, you can be assured that we do not maintain any personal information about you in our databases as a result of the survey.  </p><p>
+
+<b><a name="use">How We Use Your Personal Information</a></b></p><p>
+
+If you specifically agreed to follow-up contacts by us or asked to be put on our mailing list when you registered, we may contact you from time to time.  For example, we may send you marketing or promotion materials; we may respond to your comments or requests for information; or we may contact you if needed in the course of processing a product or service you requested through our website.</p><p>
+
+When you use our Recipe Ratings function, we collect whatever information you submit, whether it's in the form of a rating or specific comments that explain your opinions about a recipe.  Please remember that when you post your comments they are publicly available, so you should exercise caution when deciding to disclose anything personal about yourself.  We will not display comments that include personally identifying information.
+</p><p>
+In the e-mail section of our site, we ask for some personally-identifiable information, such as your name and phone number.  We use this information only if we need to contact you directly because our attempts to contact you by e-mail were unsuccessful.  We don't use your e-mail address for any purpose other than responding to the message you've sent, unless we have your permission. </p><p>
+
+We also use personal information about you to improve our marketing and promotional efforts; to statistically analyze website usage; and to improve our features and content.  We may also use your personal information to deliver content that is customized to your interests as we best understand them from the information you've provided to us and your activities on the site.  This customized content may include such things as recipes, banners, product information, and promotions.  We do not collect personal information automatically, but we may combine non-personal information collected automatically (through cookies) with your previously submitted personal information. </p><p>
+
+Kraft's primary goal in collecting personal information is to give you a meaningful and customized experience while you are using our websites and interactive banner ads. </p><p>
+
+<b><a name="partners">Advertising Partners</a></b></p><p>
+
+Kraft has selected DoubleClick to deliver banner advertising to other companies' websites on our behalf.  DoubleClick uses cookies to track the activities of anyone who clicks on its advertising.  DoubleClick's privacy policy <a href="http://www.doubleclick.com/us/corporate/privacy/" target="_v">http://www.doubleclick.com/us/corporate/privacy/</a> explains how to opt-out of this kind of tracking.  In addition, you may be able to disable the "cookies" function in your browser.  Check your browser's Help section for details. </p><p>
+
+<b><a name="parties">Third Parties Who Provide Support Services to Kraft</a></b></p><p>
+
+In the course of doing business, we employ other companies and individuals to perform a variety of functions on our behalf.  For example, we hire agencies to help administer consumer promotions, to analyze data, to fulfill orders you place, and to provide customer service.  These agents may have access to personal information if it is needed to perform their functions for Kraft; however, they are prohibited from using it for other purposes and they are required to maintain the information in confidence.
+</p><p>
+
+<b><a name="data">Data Sharing and Transfer</a></b></p><p>
+
+We do not sell, transfer, or disclose the personally-identifiable information we gather at our websites to third parties without your prior consent.  There are only two exceptions to this rule:  (1) We will disclose information in cases where we believe in good faith that it is necessary to prevent a crime or an injury to ourselves or third parties; and (2) We disclose information to third parties who provide support services to us, as described above.
+</p><p>
+
+There may be times when we share aggregate information about our visitors (for example, the percentage of male and female visitors to our site) with advertisers, business partners, sponsors, and other third parties in an effort to customize or enhance the content and advertising of our site for our users.  We may also aggregate data from web log files (such as your web browser, operating system, pages visited, etc.) to understand how users navigate the site and what features are most popular.
+</p><p>
+
+<b><a name="links">Links to Other Sites</a></b></p><p>
+
+Kraft does its best to make sure that every link on our website sends you and/or your kids to a safe place on the Internet.  However, websites and addresses change quickly, and Kraft cannot guarantee the content of every site to which we provide a link.  In addition, different websites have different privacy policies.  You should always check the privacy policy of the specific site you're visiting to understand your rights.  </p><p>
 
 
-<b>Important Note to Kids</b></p><p>
+<b><a name="choice">Choice and Control</a></b></p><p>
 
-Before providing your name, address, email address, or any other personal information to anyone on the Internet, be sure to ask your parents if it's ok.  </p><p>
+You are ultimately in control of the personally-identifiable information you provide to us on our site.  For example, you can always change your preference for follow-up contacts just by e-mailing the Online Team at the address listed below or by changing the information in Your Profile section of the site.  Or, if you prefer, you can cancel your registration altogether and we will take prompt steps to remove your personally-identifiable information from our database.  E-mail the Online team at the address listed below if you wish to take this action.  </p><p>
 
+<b><a name="kids">Important Note to Kids</a></b></p><p>
 
-<b>Important Note to Parents</b></p><p>
-
-The portions of our website that are dedicated to the Oscar Mayer and Lunchables brands are directed in whole or in part to kids under 13.  At the present time, we do not knowingly collect personally-identifiable information from kids under 13 in these areas, except as described below.  </p><p>
-We do sometimes offer promotions in these areas of our website, such as a sweepstakes or contest.  In those cases, we permit the child to enter by submitting a first name and e-mail address only, along with the name and e-mail address of his/her parent.  We then notify the parent about the child's entry, and offer the parent an opportunity to withdraw the entry and remove the submitted information from our operational database.  If the parent permits the child's participation in the promotion and the child wins, we contact the parent (not the child) for further personal information needed for any prize delivery.  We do not use the child's personal information for any purpose other than completion of the promotion, and we do not share the information with any third parties unless we've explicitly said so in the notice to parents. We delete both the child's and the parent's personal information from our operational database within a reasonable time after the conclusion of these promotions. </p><p>
-We may permit a child to send us an e-mail, or to send a friend an e-mail through our site.  We will respond to or deliver the e-mail, but we do not store the names, addresses, or the e-mails in our operational database.  We do not maintain this information and we do not share it with any third parties.  </p><p>
-Under federal law, websites directed to children under 13 are prohibited from conditioning a child's participation in an activity on the child's disclosing more information than is reasonably necessary.  We comply fully with this requirement. </p><p> 
-
-Upon proper identification, any parent can review any personal information we have collected from their child, if we are still maintaining the information in our operational database.  They may also have the information deleted from the database, and refuse to permit further collection or use of their child's information.  If you are a parent and wish to exercise these rights, please contact the Online Team as described below.  </p><p>
+Before providing your name, address, e-mail address, or any other personal information to anyone on the Internet, be sure to ask your parents if it's OK. </p><p>
 
 
-<b>Cookies </b></p><p>
+<b><a name="children">Children's Privacy Policy</a></b></p><p>
 
-Like many companies, we use "cookie" technology on our web site. We use a temporary session cookie to enable you to use our shopping list and play some of our games. These temporary cookies are eliminated when you exit your browser. Another type of cookie can be stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. We do use the cookie to help us identify site features and recipes in which you have the greatest interest, so that we can provide more of what you may want.</p><p>
+Some portions of our website - specifically, the websites for Oscar Mayer, for Lunchables and for Kool-Aid - are directed in whole or in part to kids under 13.  In these areas of our website, our conduct is governed by federal law and regulations that address children's online privacy, as well as by the guidelines of the Children's Advertising Review Unit (CARU), a part of the Council of Better Business Bureaus.   </p><p>
+
+We do not directly collect personally identifiable information from kids under 13 in the child-directed areas of our website, except as permitted by federal regulations and CARU guidelines.  We do sometimes offer promotions in these areas of our website, such as a sweepstakes or contest.  In those cases, we may permit the child to enter by submitting a first name and e-mail address only, along with the name and e-mail address of his/her parent.  We then notify the parent about the child's entry, and offer the parent an opportunity to withdraw the entry and remove the submitted information from our database.  If the parent permits the child's participation in the promotion and the child wins, we contact the parent (not the child) for further personal information needed for any prize delivery.  We do not use the child's personal information for any purpose other than completion of the promotion, and we do not share the information with third parties (other than support service companies as described above), unless we've explicitly said so in the notice to parents.  We delete both the child's and the parent's personal information from our database within a reasonable time after the conclusion of these promotions, unless the parent has given permission for us to retain the information in our files.</p><p>
+
+We also might permit a child to send us an e-mail, or to send an e-mail to a friend through our site.  We will respond to or deliver these e-mails, but we do not store the names, e-mail addresses, or the e-mails themselves in our operational database.  We do not maintain this information, nor do we share it with third parties (other than support service companies as described above).  </p><p>
+
+Under federal law, websites directed to children under 13 are prohibited from conditioning a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to engage in the activity.  We comply fully with this requirement.  </p><p>
+
+Upon proper identification, any parent can review any personal information we have collected from their child, if we are still maintaining the information in our operational database.  They may also request that the information be deleted from our database, and refuse to permit further collection or use of their child's information.  If you are a parent and wish to exercise these rights, please contact the Online Team as described below.    </p><p>
 
 
-<b>How To Contact Us</b></p><p>
+<b><a name="contact">How To Contact Us</a></b></p><p>
 
-If you have any questions about our Privacy Policy, you can contact us at: <br>
+If you have any questions about our Privacy Policy, you can contact us at:
+</p><p>
 Kraft Foods, Inc.<br>
 1 Kraft Court<br>
 Glenview, IL 60025<br>
-Attention: Legal Department <br>
+Attention: Legal Department </p><p>
 1-800-543-5335<br>
 (9 a.m. - 5 p.m. Eastern Time, Monday through Friday.) <br>
-or E-Mail us at onlineteam@kraftfoods.com <br>
+or <a href="/html/email/email.html">E-Mail us</a></p><p>
 We'll be happy to answer your questions or hear your concerns.<br>
 
 </p></font></td>
@@ -312,76 +590,40 @@ We'll be happy to answer your questions or hear your concerns.<br>
 </tbody></table>
 
 
+<!-- load in content from default or by passed in main switch -->
+<!-- END INNER CONTENT  -->
+                      </td>
+                    </tr>
+                  </tbody></table>
+                  <img height="10" alt="" src="images/spacer.gif" width="10" border="0"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="right" colspan="2"></td>
+              </tr>
+            </tbody></table>
+<!-- End Main Content Area -->
+          </td>
+          <td valign="top" background="images/rite_side_pix.gif" rowspan="2"> 
+            <img height="14" alt="" src="images/top_rite_3.gif" width="17" border="0"></td>
+        </tr>
+        <tr> 
+          <td valign="bottom" align="middle" bgcolor="#f2f2f4"> <br>
+
+<a href="http://www.kraftapps.com/contact_us/contact_us.asp?referrer=kraftfoods" class="tt1">Contact Us</a>
+&nbsp;&nbsp;
+<a href="/knet_fridge.aspx?s=about&amp;m=about/legal_privacy" class="tt1">View Our Privacy Policy</a>
+&nbsp;&nbsp;
+<a href="/knet_fridge.aspx?s=about&amp;m=about/legal_lawyers" class="tt1">A message from our lawyers.</a> <p></p>
+
+            <br>
+            <img height="10" alt="" src="images/spacer.gif" width="10" border="0"><br>
+            <img src="images/1px.gif"></td>
+        </tr>
+      </tbody></table>
+
+    </td>
+  </tr>
+</tbody></table>
 
 
-
-
-
-</center></td>
-                <td width="10"><img height="10" alt="" src="/legacy_hp_files/spacer.gif" width="10" border="0"></td>
-                <td width="138" valign="top">
-                 <!-- Sub navigation and targeted content area --> 
-
-
-			<table cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td><a href="/html/brands/brands.html" onmouseover="document.brand.src=brand2.src" onmouseout="document.brand.src=brand1.src" onclick="document.brand.src=brand3.src"><img src="/nav/images/subnav/sub_4about/sn_1brand_off.gif" width="138" height="31" border="0" alt="Our Brands" name="brand"></a></td>
-			</tr>
-			<tr>
-				<td><a href="/html/products/new_products.html" onmouseover="document.product.src=product2.src" onmouseout="document.product.src=product1.src" onclick="document.product.src=product3.src"><img src="/nav/images/subnav/sub_4about/sn_2newprod_off.gif" width="138" height="31" border="0" alt="New Products" name="product"></a></td>
-			</tr>
-			<tr>
-				<td><a href="/contests.html" onmouseover="document.contest.src=contest2.src" onmouseout="document.contest.src=contest1.src" onclick="document.contest.src=contest3.src"><img src="/nav/images/subnav/sub_4about/sn_3contest_off.gif" width="140" height="33" border="0" alt="Contest and Promotions" name="contest"></a></td>
-			</tr>
-			<tr>
-				<td><a href="/html/main/faq.html " onmouseover="document.faq.src=faq2.src" onmouseout="document.faq.src=faq1.src" onclick="document.faq.src=faq3.src"><img src="/nav/images/subnav/sub_4about/sn_4faq_off.gif" width="138" height="30" border="0" alt="FAQs" name="faq"></a></td>
-			</tr>
-			<tr>
-				<td><a href="/htf/htf_index.html" onmouseover="document.prodfind.src=prodfind2.src" onmouseout="document.prodfind.src=prodfind1.src" onclick="document.prodfind.src=prodfind3.src"><img src="/nav/images/subnav/sub_4about/sn_5prodfind_off.gif" width="138" height="30" border="0" alt="Product Finder" name="prodfind"></a></td>
-			</tr>
-			<tr>
-				<td><a href="http://jellostore.gage.com/cgi-bin/CornerStore.storefront/" onmouseover="document.store.src=store2.src" onmouseout="document.store.src=store1.src" onclick="document.store.src=store3.src"><img src="/nav/images/subnav/sub_4about/sn_6store_off.gif" width="138" height="31" border="0" alt="Kraft Corner Store" name="store"></a></td>
-			</tr>
-			<tr>
-				<td><a href="/html/heritage/heritage.html" onmouseover="document.heritage.src=heritage2.src" onmouseout="document.heritage.src=heritage1.src" onclick="document.heritage.src=heritage3.src"><img src="/nav/images/subnav/sub_4about/sn_7heritage_off.gif" width="138" height="30" border="0" alt="Heritage" name="heritage"></a></td>
-			</tr>
-			<tr>
-				<td><a href="/html/email/email.html" onmouseover="document.contact.src=contact2.src" onmouseout="document.contact.src=contact1.src" onclick="document.contact.src=contact3.src"><img src="/nav/images/subnav/sub_4about/sn_8contact_off.gif" width="138" height="31" border="0" alt="Contact Us" name="contact"></a></td>
-			</tr>
-			
-				<tr>
-				<td><br>
-				<img src="/images/sub_visit_sites.gif" width="138" height="13" alt="Visit Our Other Sites" border="0">
-				</td>
-			</tr>
-				<tr>
-				<td><a href="/corporate" onmouseover="document.corp.src=corp2.src" onmouseout="document.corp.src=corp1.src" onclick="document.corp.src=corp3.src"><img src="/nav/images/subnav/sub_4about/sn_9corp_off.gif" width="138" height="31" border="0" alt="Corporate Site" name="corp"></a></td>
-			</tr>
-				<tr>
-				<td><a href="/careers" onmouseover="document.career.src=career2.src" onmouseout="document.career.src=career1.src" onclick="document.career.src=career3.src"><img src="/nav/images/subnav/sub_4about/sn_10career_off.gif" width="138" height="33" border="0" alt="Kraft Career Site" name="career"></a></td>
-			</tr>	<tr>
-				<td><a href="/canada/english/index.html" onmouseover="document.canada.src=canada2.src" onmouseout="document.canada.src=canada1.src" onclick="document.canada.src=canada3.src"><img src="/nav/images/subnav/sub_4about/sn_11canada_off.gif" width="138" height="31" border="0" alt="Kraft Canada" name="canada"></a></td>
-			</tr>
-			</tbody></table></td></tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td align="right"><a href="/kc_index.html"><img src="/images/conn_logo.gif" width="117" height="51" alt="Kraft Connections" border="0"></a></td>
-		</tr>
-              <tr>
-                <td colspan="3"><!-- Grid template goes here --></td>
-				
-				
-				</tr></tbody></table></td>
-		  
-		  <!-- End Main content area --></tr>
-		  
-        <tr>
-          <td align="middle" colspan="2"><img height="10" alt="" src="/legacy_hp_files/spacer.gif" width="10" border="0"></td></tr></tbody></table></td>
-    <td valign="top" width="17" background="/legacy_hp_files/rite_side_pix.gif" rowspan="2"><img src="/legacy_hp_files/top_rite_3.gif" width="17" height="14" alt="" border="0"></td></tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td valign="bottom"><font name="verdana" size="-2">
-      <a href="/html/main/legal.html">A message from our lawyers.</a><p>
-        <br></p></font></td></tr></tbody></table>
 </body></html>
