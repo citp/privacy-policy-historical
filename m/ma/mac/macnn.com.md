@@ -1,9 +1,71 @@
-> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211181430id_/http%3A//macnn.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603071425id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
 
-# MacNN Privacy Statement
+# MacNN | Privacy Policy
 
-|   
----  
+Top Stories
+
+[Macromedia ships new MX line of design apps](http://www.macnn.com/news.php?id=14428)
+
+[Apple offers no-fee FireWire brand license](http://www.macnn.com/news.php?id=14427)
+
+[Some iMac orders to be filled by new vendor](http://www.macnn.com/news.php?id=14416)
+
+[Apple to exhibit at NECC conference in Texas](http://www.macnn.com/news.php?id=14387)
+
+[Apple launches Apple Consultants Network](http://www.macnn.com/news.php?id=14383)
+
+[Apple starts new promos in US and Europe](http://www.macnn.com/news.php?id=14357)
+
+[Netscape posts Netscape 7.0PR1 for review](http://www.macnn.com/news.php?id=14338)
+
+[Users: Apple cuts SSL email support](http://www.macnn.com/news.php?id=14325)
+
+[Reviews on reviews.macnn.com](http://www.macnn.com/news.php?id=14296)
+
+[Apple updates iBook product line](http://www.macnn.com/news.php?id=14277)
+
+[Apple posts Final Cut Pro 3.0.2](http://www.macnn.com/news.php?id=14240)
+
+[Photos from Xserve introduction](http://www.macnn.com/news.php?id=14194)
+
+[Apple introduces XServe dedicated server](http://www.macnn.com/news.php?id=14182)
+
+[Utility offers multiple session burning](http://www.macnn.com/news.php?id=14177)
+
+[Apple expected to introduce new server](http://www.macnn.com/news.php?id=14171)
+
+[Apple launches new Power Mac G4 rebates](http://www.macnn.com/news.php?id=14145)
+
+[webMathematica available for OS X](http://www.macnn.com/news.php?id=14123)
+
+[Apple announces Design Award winners at WWDC](http://www.macnn.com/news.php?id=14122)
+
+[AbiWord 1.0.1: free word processing app](http://www.macnn.com/news.php?id=14119)
+
+[Apple releases iPhoto 1.1.1](http://www.macnn.com/news.php?id=14095)
+
+OS X Stories
+
+[MRJ Plugin 1.0 offers Java support in browser](http://osx.macnn.com/news.php?id=14493)
+
+[Ericsson Client beta has new UI](http://osx.macnn.com/news.php?id=14490)
+
+[KDE available for OS X via Fink](http://osx.macnn.com/news.php?id=14484)
+
+[IPNetTunerX optimizes TCP/IP performance](http://osx.macnn.com/news.php?id=14480)
+
+[Trashcan utility for OS X updated](http://osx.macnn.com/news.php?id=14478)
+
+[MouseWorks 2.0b3 adds simplified app settings](http://osx.macnn.com/news.php?id=14476)
+
+[Full-featured graphic FTP/SSH/SFTP client](http://osx.macnn.com/news.php?id=14474)
+
+[PPTP client for OS X in beta testing](http://osx.macnn.com/news.php?id=14473)
+
+[Shareware utility offers basic scheduling](http://osx.macnn.com/news.php?id=14471)
+
+[ThemeShop 0.5: consumer-oriented theme SW](http://osx.macnn.com/news.php?id=14470)
+
 | 
 
   
@@ -42,15 +104,42 @@
   
 
 
-|   
-  |   
-[](http://www.macnn.com/ads/ads.pl?banner=smalldog9)
+| 
 
-[](http://www.smalldog.com/go.lasso?go=http://fm.smalldog.com/target/G4s.lasso)
+* * *
 
-[](http://www.macnn.com/ads/ads.pl?banner=ecommercesoft)
+* * *
 
-[](http://service.bfast.com/bfast/click?bfmid=9452939&siteid=27904837&bfpage=gafd_119904_mac)
+[](http://kermit.macnn.com/?RC=45005267&AI=787&RANDOM=97412377219958)
 
+[](http://kermit.macnn.com/?RC=45005268&AI=830&RANDOM=97412377220452)   
+
+
+| 
+
+[](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com)  
   
+---  
+  
+**Current Specials:**
 
+**[G4](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com%2F) & [iMac](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com%2Fimacdv.asp%2F) RAM:**  
+512MB - $99, 1Gig - $195, 1.5Gig - $289
+
+**[G4 Titanium](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com%2Fpbg4.asp+) RAM:**  
+256MB - $69, 512MB - $199, 1GB - $389
+
+[**iMac Flat Panel**](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com%2Fimacflat.asp) **RAM:**  
+256MB - $69, 512MB - $119, 1Gig - $215
+
+**1-800-831-4569**  
+  
+[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=97412377220620)
+
+[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=97412377221142)
+
+[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=97412377220288)
+
+[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=97412377219956)
+
+[](http://kermit.macnn.com/?RC=45005274&AI=441&RANDOM=97412377221147)
