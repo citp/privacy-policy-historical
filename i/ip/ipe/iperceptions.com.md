@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608205114id_/http%3A//iperceptions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017044444id_/http%3A//www.iperceptions.com/privacy.html) for the most accurate reproduction.*
 
 # iPerceptions | Privacy Statement
 
@@ -20,12 +20,12 @@ If users have questions or concerns regarding this statement, they should first 
 
 iPerceptions Inc. recognizes the importance of protecting the privacy of all respondents to our on-line surveys. Your privacy is fundamental and essential to ensure the validity of our survey process. We are committed to upholding the principles of honesty and integrity with all respondents to our surveys. It is your opinion that is requested, not your identity.
 
-iPerceptions does not collect any information to be used to identify an individual respondent during the course of a survey. If an incentive award, that requires the collection of personal information, is offered to complete a survey questionnaire, iPerceptions acts solely as an agent of the website owner whose website is being surveyed (the "Owner"). As the Owner's agent, iPerceptions uses only the information necessary to deliver the incentive award. When offered, it is completely optional as to whether you elect to receive the incentive award. See below for details on Contact Information.
+iPerceptions does not collect any information to be used to identify an individual respondent during the course of a survey. If an incentive award, that requires the collection of personal information, is offered to complete a survey questionnaire, iPerceptions acts solely as an agent of the web site owner whose web site is being surveyed (the "Owner"). As the Owner's agent, iPerceptions uses only the information necessary to deliver the incentive award. When offered, it is completely optional as to whether you elect to receive the incentive award. See below for details on Contact Information.
 
 **Information Collected by iPerceptions**
 
 **Surveys administered by iPerceptions as an Agent**  
-The information provided by you on our survey is compiled and aggregated to provide generic profiles of the users of the website being surveyed. Open-ended responses are compiled and reported 'as is. Our survey process does not require us to know, nor report, the identity of any individual survey respondent.
+The information provided by you on our survey is compiled and aggregated to provide generic profiles of the users of the web site being surveyed. Open-ended responses are compiled and reported 'as is. Our survey process does not require us to know, nor report, the identity of any individual survey respondent.
 
 In addition to the information provided by you, our survey tracks user IP addresses, browser type and access time for demographic and web site administration purposes. This information does not contain anything that can identify respondents personally.
 
@@ -48,7 +48,7 @@ On occasion our site requests information from users via surveys. Participation 
 Any personal information collected when users submit request for information and/or feedback forms is for internal purposes only, will not be made public, or be sold to a third party. To fulfill requests for information, iPerceptions requires individual contact information in order to respond. To provide feedback, you may submit comments without disclosing any personally identifying information. 
 
 **General**  
-iPerceptions is not responsible for the privacy policies and content of websites which are being surveyed nor to websites to which it may provide links. We encourage you to read the privacy statements of these sites, as they will differ from ours.
+iPerceptions is not responsible for the privacy policies and content of web sites which are being surveyed nor to web sites to which it may provide links. We encourage you to read the privacy statements of these sites, as they will differ from ours.
 
 iPerceptions uses all reasonable precautions to keep secure any information disclosed during the survey process as part of our secure network. This site has security measures in place to protect the loss, misuse or alteration of the information under our control.
 
