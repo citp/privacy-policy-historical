@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoedge.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604145207id_/http%3A//www.infoedge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoedge.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207154927id_/http%3A//www.infoedge.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -11,4 +11,4 @@ If you wish your name to be removed from any listing, please write to
 Attn: Jill Whitney, Customer Service   
 Two Stamford Landing   
 Stamford, CT, 06902**   
-or email us at [jill.whitney@info-edge.com](mailto:jill.whitney@info-edge.com?subject=Name%20Remove)
+or email us at [Jill.Whitney@InfoEdge.com](mailto:Jill.Whitney@InfoEdge.com?subject=Name%20Remove)
