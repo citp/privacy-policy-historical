@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208041724id_/http%3A//www.movietickets.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603160212id_/http%3A//www.movietickets.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # MovieTickets.com. For the online purchase of movie tickets. Privacy Policy.
 
-|   
+|    
 ---  
 | 
 
@@ -42,7 +42,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 MovieTickets.com  
 Customer Service  
-2255 Glades Road, Suite 237 W  
+2255 Glades Road, Suite 221A  
 Boca Raton, FL 33431
 
   4. Users can call the following telephone number: 1-888-440-8457
@@ -59,7 +59,7 @@ This site gives users the following options for changing and modifying informati
 
 MovieTickets.com  
 Customer Service  
-2255 Glades Road, Suite 237 W  
+2255 Glades Road, Suite 221A  
 Boca Raton, FL 33431
 
   4. Users can call the following telephone number: 1-888-440-8457
@@ -73,7 +73,7 @@ Contacting the Website
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact: 
 
 MovieTickets.com, Inc.  
-2255 Glades Road, Suite 237 W  
+2255 Glades Road, Suite 221A  
 Boca Raton, FL 33431 
 
 or email us at [feedback@movietickets.com](mailto:feedback@movietickets.com)
