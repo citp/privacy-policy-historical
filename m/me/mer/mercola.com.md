@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2002-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021124183656id_/http%3A//www.mercola.com/security_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627113447id_/http%3A//www.mercola.com/forms/security_privacy.htm) for the most accurate reproduction.*
 
 # Security/Privacy Policy
-
-**Mercola.com's Policy on Security and Privacy**
 
 As a doctor I take patient privacy issues very seriously and these same philosophies extend to my website. I will explain my policies in detail below but let me state up front that in general I will do not believe in using any data for any reason without the persons permission in advance. In addition I take great care in protecting any information that is collected on this website against outside access.
 
@@ -55,6 +53,23 @@ If, however, we are going to use users' personally identifiable information in a
 
 **Contact Information**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
+If users have any questions or suggestions regarding our privacy policy, please contact us at: [support](mailto:support@mercola.com)[@mercola.com](mailto:support@mercola.com)
 
-[support](mailto:support@mercola.com)[@mercola.com ](mailto:support@mercola.com)
+* * *
+
+**Optimal Wellness Center Patients: How We Use your Medical Information**
+
+We are required by law to maintain the privacy of your medical information. We must provide you with a copy of this notice. We must follow the terms of this notice. If the notice is changed in any material way, a revised notice will be available upon request.
+
+We will use your medical information for Treatment. For example, a nurse who is providing your care will report any changes in your condition to your doctor. We will use your medical information for Payment. For example, we may need to give your insurance plan information about your diagnosis, treatment and the supplies used. We will use your medical information for Health Care Operations. For example, we may use your medical information to evaluate our services. We may contact you at any phone number or address you have provided to us to remind you of an appointment or other health care matters or to obtain payment for our services.
+
+We may use and disclose your medical information to inform you of treatment alternatives or other health related benefits and services. We may disclose your medical information to family members or others who are involved in your care of payment for that care. You must notify our Designee in writing if you do not want us to communicate with you in any of these ways.
+
+We may use your medical information for any uses that are required or permitted by law.  
+Other uses and disclosures will be made only with your written authorization. You may cancel an authorization at any time by notifying Our Designee in writing.
+
+You have the following rights: Right to privacy notice; Right to request restrictions on uses and disclosures of your medical information; Right to receive confidential communications; Right to inspect and copy your medical information; Right to request an amendment to your medical information; and Right to an accounting of disclosures of your medical information.
+
+Contact Information. If you feel that your privacy rights have been violated, please contact Our Designee at (847) 985?1777 or the U.S. Secretary of Health and Human Services.
+
+[Read more about our HIPAA policies](https://web.archive.org/forms/hipaa.htm).
