@@ -1,27 +1,19 @@
-> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204015200id_/http%3A//www.dansdata.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411175434id_/http%3A//dansdata.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
-**[Untie your phone line!](http://www.websponsors.com/cgi-bin/ad_click.cgi?userid=5753&offerid=508)  
-**Pagoo Call Catcher gives you **instant notification** , on your desktop, of incoming phone calls while you surf the Web! Play back your messages on your PC **without disconnecting from the Web!** **  
-** Call Catcher has received **top ratings** from Tucows, CNET, ZDNet **and** WinFiles! **  
-[FREE DOWNLOAD!](http://www.websponsors.com/cgi-bin/ad_click.cgi?userid=5753&offerid=508)**
+[ ](http://ads.websponsors.com/?u=5753&o=1238)
 
-[  
-**Tired of filling out forms and remembering passwords?**](http://www.websponsors.com/cgi-bin/ad_click.cgi?userid=5753&offerid=501)  
-Gator is **free** , **safe** software that does the typing for you!  
-Comes with $50 in **FREE** coupons!  
-[**FREE DOWNLOAD!**](http://www.websponsors.com/cgi-bin/ad_click.cgi?userid=5753&offerid=501)
+[ ](http://ads.websponsors.com/?u=5753&o=1709)  
+[ ](http://www.websponsors.com/cgi-bin/referral.cgi?userid=5753)
 
-[](http://websponsors.com/cgi-bin/ad_click.cgi?userid=5753&offerid=333)  
-**Mutual funds suck.**  
-Are **you** dumb enough to give them your money?   
-Get wise at **[The Motley Fool](http://websponsors.com/cgi-bin/ad_click.cgi?userid=5753&offerid=333)**.
-
-[  
-Want a no-fuss Internet ad source that actually pays reasonable money? Try WebSponsors!](http://www.websponsors.com/cgi-bin/referral.cgi?userid=5753)
+[](http://ads.clickagents.com/cgibin/refer.ca?drutter)  
+**[Earn money from your Web site!](http://ads.clickagents.com/cgibin/refer.ca?drutter)**
 
 [More **FREE** stuff than you can poke a stick at is at Free2Try.com!](http://free2try.com/?userid=5753)
+
+[ ](http://ads.websponsors.com/?u=5753&o=1592)  
+Want to make 15% per annum? [Be a Fool](http://ads.websponsors.com/?u=5753&o=1592), and get valuable financial [freebies](http://ads.websponsors.com/?u=5753&o=1592) too!
 
 |  | Dan's Data has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for [Dan's Data](http://www.dansdata.com/).
 
