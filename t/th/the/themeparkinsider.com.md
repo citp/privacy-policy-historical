@@ -1,27 +1,46 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401134322id_/http%3A//www.themeparkinsider.com/parks/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207211559id_/http%3A//themeparkinsider.com/news/response.cfm%3FID%3D1676) for the most accurate reproduction.*
 
-# Privacy policy
-
-**[Theme Park Insider](https://web.archive.org/) > Privacy policy**
-
-ThemeParkInsider.com accepts and collects information from its visitors. Users are required to register with the site - providing their name, hometown and e-mail address - in order to vote or comment on theme park locations. Registered users may also participate on our News and Commentary board, although registration is not required to use that feature.
-
-This site uses "cookies" to track its registered users, so those users do not have to log in every time they load a new page on the site. 
-
-(A "cookie" is a line of text in the cookies.txt file in your browser's folder on your personal computer. When a cookie is set, a web site writes a line of text to the cookies.txt file that includes that web site's domain name and a unique user number. The cookie cannot access any other information on your computer, including your name and passwords.)
-
-The site also collects the IP address of each individual who posts information to the site, and the time of posting, whether that person is registered or not. (An IP address is a series of numbers that identifies the computer through which you accessed the Internet. It is not the same as your e-mail address. And for users on dial-up accounts, the IP address we collect is that of the computer you dialed into at your ISP when you logged on.)
-
-Any information submitted to this site becomes its property, and may be transferred to any subsequent owners of the site, or republished in other media. The current owner does not share the information he collects about the site's users with any third party, except to publicly identify the authors of particular information displayed on the site. Users' e-mail addresses are not made public, however.
-
-Individuals under age 18 should make their parents aware of this privacy policy and obtain their permission before submitting any information to this site. Visitors must be 13 years of age or older to register with the site. If an individual is aware that a person under 13 has registered fraudulently, please [e-mail us](https://web.archive.org/parks/email.cfm) and we will terminate that registration.
-
-ThemeParkInsider.com runs advertising on selected pages of the site, including links to Amazon.com and Lodging.com (as part of those online retailers' associates programs). When a user follows a link from ThemeParkInsider.com to Amazon.com, Lodging.com or another advertiser's site, he or she leaves the ThemeParkInsider.com web site, and the terms of this privacy policy no longer apply.
-
-Have a correction or addition to something on this page? Please [e-mail the editor](https://web.archive.org/parks/email.cfm).
-
-These pages are in no way affiliated with nor endorsed by Busch Entertainment, Cedar Fair, Legoland, Paramount Parks, Tussaud's Group, Six Flags, Universal Studios, the Walt Disney Company or any other theme park company. Images on these pages, except where noted, are © the author, but may depict marks held by the above companies. Those images, and any text trademarks, are included here solely for the purpose of eliciting [fair use](http://cyber.law.harvard.edu/metaschool/Fisher/integrity/Links/Cases/newkids.html) comment and criticism from the public. For more on intellectual property, visit [Chilling Effects](http://www.chillingeffects.org/).  
-
+# Protecting Your Privacy on Theme Park Insider
 
   
+Our editor reiterates the site's privacy policy, in light of recent news stories about Google's e-mail program and other questions about users' privacy online. 
 
+  
+|  By **[Robert Niles](https://web.archive.org/parks/profile.cfm?username=robert)**  
+Posted via 144.142.21.5 on May 7, 2004 at 7:54 PM (MST)  
+_Statements below are the work of their authors and not necessarily the opinion of Theme Park Insider._
+
+Your privacy is important to you, and protecting that privacy is important to me, as a website publisher.
+
+What information do we collect about you?
+    As an interactive community where readers provide the bulk of the site's coverage, Theme Park Insider collects and publishes information about its readers when they contribute information to the site. We publish the names and hometowns of people who submit comments to the site, and collect the IP address of everyone who submits a vote or comment. (An IP address is a series of numbers that identifies the computer through which you accessed the Internet. It is not the same as your e-mail address. And for users on dial-up accounts, the IP address we collect is that of the computer you dialed into at your ISP when you logged on.)
+    Only readers who register with the site may submit comments or vote on attractions. Theme Park Insider uses cookies to tell which readers are registered and who they are. (A "cookie" is a line of text in your browser's folder on your personal computer that includes that website's domain name and a unique user number. The cookie does not reveal any other information on your computer, including your name and passwords.)
+    If you do not want your name and hometown published on Theme Park Insider, or if you are under age 13, do not register with the site. Theme Park Insider reserves the right to republish any comments or articles submitted to it in any medium at any time.
+No spam
+    We do not rent, lease, sell or reveal this user database to anyone. Nor do we spam our readers, or anyone else, with unsolicited commercial messages. The only e-mails we send to our readers are registration confirmations and an optional daily digest of new discussion topics. If you are interested in getting that daily digest, you can sign up on the [News & Trip Reports](https://web.archive.org/news/) page.
+    Registered users can send "blind" e-mails to other registered users via the site. We forward those messages without revealing the recipient's e-mail address. Also, those messages are always sent with the same subject line, allowing recipients to filter them.
+No annoying ads
+    Theme Park Insider does not, has not and will not serve pop-up or pop-under ads on the site. Nor will we try to install "spyware" or other software on your computer. If you see pop-ups, pop-unders or graphical banner ads when you visit Theme Park Insider, your computer is likely infected with a spyware or adware program that it downloaded from another site. [Click here](http://www.microsoft.com/mscorp/twc/privacy/spyware.mspx) to learn about spyware and how you can remove it from your computer.
+    We also strongly encourage you to use the free [Firefox browser](http://www.mozilla.org/products/firefox/) from Mozilla to help protect your computer from spyware and viruses that spread via the Internet Explorer browser. If you must use IE, please try the free [Google toolbar](http://toolbar.google.com/) to block pop-ups and set your IE security settings to medium or higher.
+    The only ads we present on ThemeParkInsider.com are text ads sold and served via [Google's AdWords](https://adwords.google.com/select/) program. Our travel agent partners, TravelNow and Lodging.com, may also run text and graphical banner ads on Theme Park Insider co-branded pages hosted on their sites.
+Editorial integrity
+    Our editorial independence is important to us, so that's why we have an outside company (Google) handling all of our advertising. We don't know who spends what to advertise on ThemeParkInsider.com, so there can be no doubt that advertising does not affect our coverage of specific theme parks.
+    In addition, we ask all readers to abide by our [guidelines for writers](http://www.themeparkinsider.com/ethics/) before submitting comments to the site.
+Readers' support
+    As a community-driven website, we are only as successful as our readers allow us to be. That's why we invite our readers to link to **http://www.themeparkinsider.com** , or any other page on the site, and to patronize our [travel reservation pages](http://www.travelnow.com/index.jsp?cid=53831) when making travel plans for any reason or occasion.
+    Also, please do [clean your computer](http://www.microsoft.com/mscorp/twc/privacy/spyware.mspx) of any spyware or adware programs, as those programs hijack weblinks and ad clicks, depriving this and other sites of revenue, which instead goes straight into those spammers' pockets.
+    Again, this site is a community. If you are uncomfortable participating as a public member of an online community, you are welcome to "lurk" and read the content of this site without adding any of your own. Otherwise, please be aware of the policies and practices described on this page before submitting any statements or content to the site.
+Questions?
+    If you have any questions about Theme Park Insider or our practices, you can [read more about the site and its history](http://www.themeparkinsider.com/about_tpi/), e-mail me [directly](https://web.archive.org/parks/email.cfm) or post a comment or question below.
+  
+Thank you for using Theme Park Insider, and thank you for your support of independent publishing online.  
+\--Robert Niles, Editor  
+---|---  
+  
+  
+
+
+[ThemeParkInsider.com](http://www.themeparkinsider.com/)™, the site, content and services ©Copyright 1999-2004 [Robert Niles](http://www.robertniles.com/robert/). [Privacy statement](http://www.themeparkinsider.com/news/response.cfm?ID=1676)  
+Questions? Comments? Corrections? [E-mail the editor](https://web.archive.org/parks/email.cfm)!
+
+These pages are in no way affiliated with nor endorsed by Busch Entertainment, Cedar Fair, Legoland, NBC Universal, Paramount Parks, Tussaud's Group, Six Flags, the Walt Disney Company or any other theme park company. Images and any text trademarks are included here solely for the purpose of eliciting [fair use comment and criticism](http://cyber.law.harvard.edu/metaschool/Fisher/integrity/Links/Cases/newkids.html) from the public.
