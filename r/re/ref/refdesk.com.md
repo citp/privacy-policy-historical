@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204025836id_/http%3A//refdesk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305040847id_/http%3A//www.refdesk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy refdesk.com
 
@@ -14,8 +14,8 @@ Refdesk has one banner-ad atop each page. The text link ads are served by Interm
 
 Refdesk's ad management firm is Intermarkets and they provide [pop-up blocking resources](http://www.intermarkets.net/consumerservices.htm).
 
-Refdesk contains links to over 20,000 external Internet sites. Refdesk is not responsible for the privacy practices or the content on these sites. For further information, see the [Disclaimer on External Links](https://web.archive.org/web/20041204025836id_/http%3A//refdesk.com/disclaim.html).
+Refdesk contains links to over 20,000 external Internet sites. Refdesk is not responsible for the privacy practices or the content on these sites. For further information, see the [Disclaimer on External Links](https://web.archive.org/web/20050305040847id_/http%3A//www.refdesk.com/disclaim.html).
 
-Refdesk provides [links](https://web.archive.org/web/20041204025836id_/http%3A//refdesk.com/anti.html) to ad blocking, E-mail SPAM blocking, and Privacy Monitoring tools. 
+Refdesk provides [links](https://web.archive.org/web/20050305040847id_/http%3A//www.refdesk.com/anti.html) to ad blocking, E-mail SPAM blocking, and Privacy Monitoring tools. 
 
 If you have any questions, comments, or suggestions about this privacy statement, site practices, or your Refdesk experiences, please [ Contact Refdesk](https://web.archive.org/cgi-bin/feedback.cgi). Your feedback is welcomed and appreciated.
