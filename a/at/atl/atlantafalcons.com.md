@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002072440id_/http%3A//www.atlantafalcons.com/team/001/442) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010044210id_/http%3A//www.atlantafalcons.com/team/001/442) for the most accurate reproduction.*
 
 # Atlanta Falcons' Privacy Policy
 
