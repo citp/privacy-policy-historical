@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezlinks.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810060716id_/http%3A//www.ezlinks.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezlinks.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606163650id_/http%3A//ezlinks.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -28,7 +28,7 @@ _Choice/Opt-Out_ :
 Customers or visitors can choose to completely remove all information about themselves from the EZLinks database.  Please understand that once this step is taken, EZLinks cannot recover the data.  If you choose to use any of EZLinks' services that require you to provide information to EZLinks, you will have to reenter ALL data; including address, credit card information, etc.  This site gives users the following options for removing their information from our database. 
 
   1. Send email to [remove@ezlinks.com](mailto:remove@ezlinks.com)
-  2. Call 888-995-4657 
+  2. Call 888-775-4657 
 
 
 
@@ -37,7 +37,7 @@ _Correct/Update_ :
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. Send email [info@ezlinks.com](mailto:info@ezlinks.com)
-  2. Call 888-995-4657
+  2. Call 888-775-4657
 
 
 
@@ -45,4 +45,4 @@ _Contacting EZLinks:_
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-EZLinks Golf, Inc. 401 South LaSalle Street Suite 1601 Chicago, Illinois 60605 [info@ezlinks.com](mailto:info@ezlinks.com)
+EZLinks Golf, Inc. 401 South LaSalle Street Suite 500 Chicago, Illinois 60605 [info@ezlinks.com](mailto:info@ezlinks.com)
