@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the ttu.edu privacy policy that was archived on 2000-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001119221400id_/http%3A//www.ttu.edu/privpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttu.edu privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408110911id_/http%3A//www.ttu.edu/privpolicy.php) for the most accurate reproduction.*
 
-# Texas Tech University System Privacy Policy
+# TTU Privacy Policy
 
-## Notice - Privacy Policy
-
-Texas Tech University System maintains its Web sites as an information resource and service for the public, and this privacy policy applies to all pages of this site that are maintained by TEXAS TECH UNIVERSITY or TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER (pages containing www.ttu.edu, www.texastech.edu, or www.ttuhsc.edu).
+  
+Texas Tech University System maintains its Web sites as an information resource and service for the public, and this privacy policy applies to all pages of this site that are maintained by TEXAS TECH UNIVERSITY or TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER (pages containing [www.ttu.edu](http://www.ttu.edu/), [www.texastech.edu](http://www.texastech.edu/), or [www.ttuhsc.edu](http://www.ttuhsc.edu/)).
 
 ### Disclaimer
 
