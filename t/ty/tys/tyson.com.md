@@ -1,64 +1,27 @@
-> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2004-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040211230058id_/http%3A//www.tyson.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Tyson Foods, Inc.: Privacy Policy
+# Tyson Foods: Privacy Policy
 
-  
-[](https://web.archive.org/chicken/default.asp)  
-[](https://web.archive.org/cookingsmart/default.asp)  
-[](https://web.archive.org/foodservice/default.asp)  
-[](https://web.archive.org/international/default.asp)  
-[](https://web.archive.org/cares/default.asp)  
-[](https://web.archive.org/investorrel/default.asp)  
-[](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/projectaplus/default.asp)  
-[](https://web.archive.org/corporate/default.asp)  
-[](https://web.archive.org/corporate/joinus/default.asp)  
-[](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/contactus.asp)  
-|  | 
+**  
+Tyson Foods' policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so.**
 
-[Contact Us](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/contactus.asp) | Privacy Policy | [Disclaimer](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/disclaimer.asp) | [Information on Sponsorship and Donation Requests](https://web.archive.org/web/20020607193721id_/http%3A//www.tyson.com/sponsor.asp)  
+PERSONAL INFORMATION  
+Tyson Foods, Inc. may request personally identifiable data from you ("Personal Information"), which may include your name and e-mail address. Tyson Foods only collects Personal Information when you voluntarily submit such information to us.
 
+**Use of your Personal Information**  
+Tyson Foods uses the Personal Information you submit to improve the content of our Web site and to serve you more effectively. For example, when you submit Personal Information under the sites "Ask Willie" or "Email Newsletter Group", we will use your Personal Information to respond to your requests. Tyson Foods also uses the Personal Information to improve our Web site to better serve your needs. Most of the Tyson Foods sites do not require you to submit any Personal Information in order to use and enjoy our Web site.
 
-* * *
+Be assured Tyson Foods' policy is to maintain the confidentiality of all Personal Information. Tyson does not sell, share, or otherwise distribute to third parties Personal Information. Tyson Foods will not disclose your Personal Information to third parties without your consent. Under special circumstances, Tyson Foods may disclose Personal Information when we believe in good faith it is necessary to prevent a crime or injury to Tyson Foods or anyone else that could be harmed. Tyson Foods may also disclose Personal Information when we believe in good faith that the law requires it.
 
-**TYSON FOODS WEB SITE PRIVACY POLICY**  
-This site may request personally identifiable data from you ("Personal Information"), which may include your e-mail address, domain name (where possible),or other personal information such as your address, telephone number, etc.
+At any time, you have the right to obtain a summary of the Personal Information on record with Tyson Foods, correct the Personal Information, or request that such Personal Information be removed from Tyson Foods' database. To make any request send e-mail to [webmaster@tyson.com](mailto:webmaster@tyson.com).
 
-The Personal Information described above will be collected by Tyson Foods and is used by Tyson Foods to assist in serving you more effectively. Personal information is also used by Tyson Foods for internal review to improve the content of our web page, to customize the content and/or layout of our page for each individual consumer, to notify consumers about updates to our website, and/or to contact consumers for marketing purposes.
+**Cookie Technology**  
+Tyson Foods also collects non-personal information through "cookie" technology. A cookie is a coded piece of information, stored on your computer, which identifies your computer when you visit our Web site. Your Web browser may store cookies on your computer so that your preferences are saved when you are visiting a particular site. Cookies do not contain any Personal Information, cannot profile your system, or obtain information from your computer.
 
-Tyson Foods may share the Personal Information that is gathered about you via this website with its agents only for the purposes listed above.
+CHILDREN'S PRIVACY  
+Tyson Foods encourages parents and guardians to spend time online with their children and to participate in the activities offered on the sites. Tyson Foods does not knowingly collect Personal Information from anyone under 13 years of age. Children should not submit Personal Information to Tyson Foods without the consent of their parent or guardian. Tyson Foods does not provide any Personal Information, regardless of its source, to any third party for any purpose whatsoever from anyone under 13 years of age. No information collected from anyone under 13 years of age is used for any marketing or promotional purposes whatsoever.
 
-At any time, you may obtain a summary of the Personal Information on record with Tyson Foods which has been collected about you via this website. In addition, at any time you may request to correct the Personal Information, request that such information be removed from Tyson Foods marketing database, or request that "Tyson Foods" no longer solicit you either by e-mail, telephone, regular mail, or by any other means.
+YOUR ACCEPTANCE OF THESE TERMS  
+By using this site, you are agreeing to the terms set forth in Tyson Foods' Privacy Policy. Tyson Foods reserves the right, at its discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean that you accept those changes.
 
-To make any request described above, send e-mail to Tyson Foods, Inc.,at [webmaster@tyson.com](mailto:webmaster@tyson.com), write P.O. Box 2020, Springdale, Arkansas, 72765 or contact Tyson Foods at (501) 290-4000.  
-When contacting us, please be sure to provide us with your exact e-mail address, name, address, and/or telephone number(s) in order to be sure we handle your request correctly.
-
-By using this site, you are agreeing to the terms set forth in Tyson Foods Privacy Policy. Tyson Foods reserves the right, at its discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes.Your continued use of this site following the posting of changes to these terms will mean that you accept those changes.
-
-* * *
-
-**TYSON FOODS PROJECT A+ PRIVACY POLICY**  
-Tyson Foods' policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so. Be assured Tyson Foods will not disclose your personal information to third parties without your consent. Tyson Foods may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Tyson Foods rights or property, other users, or anyone else that could be harmed by such activities. Tyson Foods may disclose user information when we believe in good faith that the law requires it.
-
-There are cases where Tyson Foods may ask you for personal information such as your name, e-mail address, and birth date. Tyson Foods needs to collect this information for fulfilling prizes, tracking/verifying compliance with Tyson Foods' policies as well as federal, state, and local laws, and/or for editorial and feedback solicitation purposes.
-
-At any time, you may obtain a summary of the Personal Information on record with Tyson Foods which has been collected about you via this website. In addition, at any time you may request to correct the Personal Information, request that such information be removed from Tyson Foods marketing database, or request that "Tyson Foods" no longer solicit you either by e-mail, telephone, regular mail, or by any other means.
-
-All photographs and other materials submitted become the property of Tyson Foods, Inc. Articles, photo descriptions, and biographical information may be edited prior to use.
-
-**POLICIES FOR KIDS (INDIVIDUALS UNDER 13 YEARS OF AGE)**  
-Tyson Foods encourages parents and guardians to spend time online with their children and to participate in the activities offered on the sites. No information should be submitted to or posted Tyson Foods by anyone under 13 years of age without the consent of their parent or guardian.
-
-Unless otherwise disclosed during collection, Tyson Foods does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever from anyone under 13 years of age. No information collected from anyone under 13 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside Tyson Foods except as explicitly stated during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion).
-
-Although persons under 13 years of age may be allowed to participate in some contests and promotions, if such a person wins, notification and prizes are sent to the parent or guardian identified in the initial registration process. Publication of names, ages, or images for contest winners under 13 require parental or guardian consent.
-
-We do not allow anyone under 13 years of age to receive direct marketing communications from Tyson Foods or to be sent third-party offers.
-
-**YOUR ACCEPTANCE OF THESE TERMS**  
-By using this site, you signify your assent to the Tyson Foods Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Tyson Foods sites following the posting of changes to these terms will mean you accept those changes.
-
-If you have questions or concerns regarding this Web site's privacy statement, you should contact the company as follows: send e-mail to Tyson Foods, Inc. at [webmaster@tyson.com](mailto:webmaster@tyson.com); write P.O. Box 2020, Springdale, Arkansas, 72765; or contact Tyson Foods at (501) 290-4000. When contacting us, please be sure to provide us with your exact e-mail address, name, address, and/or telephone number(s) in order to be sure we handle your request correctly.
-
-top
-
-* * *
+If you have questions or concerns regarding this Web site's privacy statement, you should contact the company as follows: send e-mail to Tyson Foods, Inc. at [webmaster@tyson.com](mailto:webmaster@tyson.com); write P.O. Box 2020, Springdale, Arkansas, 72765; or contact Tyson Foods at (479) 290-4000. When contacting us, please be sure to provide us with your exact e-mail address, name, address, and/or telephone number(s) in order to be sure we handle your request correctly.
