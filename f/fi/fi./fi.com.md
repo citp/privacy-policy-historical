@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205163157id_/http%3A//www.fi.com/us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403175720id_/http%3A//www.fi.com/us/legal/privacy) for the most accurate reproduction.*
 
 # Fisher Investments - Privacy Policy
 
@@ -12,7 +12,7 @@ If you have any questions concerning Fisher Investment's Privacy Policy, please 
 
 ##### Introduction
 
-Fisher Investments, Inc. provides investment management services to prestigious institutions and individuals worldwide. As a world-class organization, we are committed to providing the highest quality of service to all of our customers. We also have a responsibility to our customers, the public, and our profession to deliver our services in a professional manner, with uncompromising values and standards. As such, the firm must and will in all respects comply with all relevant Federal and State laws, regulations and requirements.
+Fisher Investments provides investment management services to prestigious institutions and individuals worldwide. As a world-class organization, we are committed to providing the highest quality of service to all of our customers. We also have a responsibility to our customers, the public, and our profession to deliver our services in a professional manner, with uncompromising values and standards. As such, the firm must and will in all respects comply with all relevant Federal and State laws, regulations and requirements.
 
 Fisher Investments is committed to providing you with a clear explanation of its Privacy Policy. This Privacy Policy covers privacy issues as they relate to US, Canada, and UK online marketing initiatives and www.fi.com, www.fi-canada.com, www.fisherinvestments.co.uk, www.fi-inst.com, and all respective subdirectories.
 
@@ -76,7 +76,7 @@ Upon request, Fisher Investments will provide site visitors with access to respe
 
 If contact information is willingly provided to Fisher Investments by mail, phone, email, online, or otherwise, in response to our marketing activities, individuals may receive subsequent periodic information from Fisher Investments on new products and services or upcoming events. If individuals don't wish to receive such information, please let Fisher Investments know by sending an email to [privacy@fi.com](mailto:privacy@fi.com), or by writing to the following address: 
 
-Fisher Investments, Inc.   
+Fisher Investments   
 ATTN: Marketing Department   
 13100 Skyline Boulevard   
 Woodside, CA 94062 
