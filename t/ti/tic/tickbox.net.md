@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickbox.net privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201115839id_/http%3A//www.tickbox.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickbox.net privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607144542id_/http%3A//www.tickbox.net/privacy.html) for the most accurate reproduction.*
 
 # Tickbox.net - Privacy
 
@@ -12,7 +12,7 @@ This privacy statement discloses the privacy practices for Tickbox.net.
 
 **Information Collection and Use**
 
-Tickbox.net is a trading name of The Market Tiers Limited who is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Tickbox.net collects information from our users at several different points on our web site.
+Tickbox.net is a trading name of markettiers4dc Limited who is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Tickbox.net collects information from our users at several different points on our web site.
 
 **Registration**
 
@@ -66,7 +66,7 @@ We also send the user site and service announcement updates. Members are not abl
 
 **Correction/Updating Personal Information:**
 
-If a user’s personally identifiable information changes (such as your postcode), or if a user no longer desires our service, we will endeavour to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page **** or by emailing our Customer Support ([support@tickbox.net](mailto:support@tickbox.net)) .
+If a user’s personally identifiable information changes (such as your postcode), or if a user no longer desires our service, we will endeavour to provide a way to correct or update that user’s personal data provided to us. This can usually be done once logged in members can change their details through the "View/Edit my profile" option or by emailing our Customer Support ([support@tickbox.net](mailto:support@tickbox.net)). If a member wishes to be removed from our mailing list they can do so by emailing our Customer Support ([support@tickbox.net](mailto:support@tickbox.net)). 
 
 **Choice/Opt-in**
 
