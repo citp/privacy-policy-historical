@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002125243id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604165211id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.*
 
 # Herald & Review Newspaper Website - Decatur, Illinois
 
+  
 **Welcome to the web site of the Herald & Review, a media company located in central Illinois. We believe in your right to know what information is collected during your visit to our web sites and how the information is used and safeguarded. **
 
 The information gathered by the Herald & Review website falls into two categories: (1) information voluntarily supplied by visitors to our websites through optional registration and (2) tracking information gathered as visitors navigate through our sites. 
