@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandweek.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203200155id_/http%3A//www.vnuemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandweek.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609043209id_/http%3A//www.vnuemedia.com/privacy.html) for the most accurate reproduction.*
 
 # VNU Business Media USA
 
@@ -45,6 +45,6 @@ VNU is committed to the safety of our children. Children under 18 may not partic
 
 **Your Consent** By using our Web site, you consent to the collection and use of the information described in this Privacy Policy by VNU. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [removeme@vnuemedia.com](mailto:removeme@vnuemedia.com). 
 
-**Questions?** We welcome your questions and/or comments. Please send all queries to [webmaster@vnuemedia.com](https://web.archive.org/web/20021203200155id_/http%3A//www.vnuemedia.com/webmaster@vnuemedia.com). 
+**Questions?** We welcome your questions and/or comments. Please send all queries to [webmaster@vnuemedia.com](https://web.archive.org/web/20030609043209id_/http%3A//www.vnuemedia.com/webmaster@vnuemedia.com). 
 
-� 2002 VNU eMedia, Inc. All rights reserved. 
+© 2003 VNU eMedia, Inc. All rights reserved. 
