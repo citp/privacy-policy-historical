@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003223147id_/http%3A//npg.nature.com/npg/servlet/Content%3Fdata%3Dxml/08_privacy.xml%26style%3Dxml/08_privacy.xsl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213740id_/http%3A//npg.nature.com/npg/servlet/Content%3Fdata%3Dxml/08_privacy.xml%26style%3Dxml/08_privacy.xsl) for the most accurate reproduction.*
 
 # Nature Publishing Group
 
 **Nature Publishing Group Privacy Policy Statement**
 
-The Nature Publishing Group (NPG) is committed to providing quality information and services to the scientific community. In order to do this, we need to know a little about you.
+The Nature Publishing Group (NPG) is committed to providing quality information and services to the scientific community. In order to do this, we need to know a little about you. For the purposes of data protection, nature.com is the Internet publishing platform for Nature Publishing Group. The web site is hosted in the US, and on content distribution servers worldwide. Nature Publishing Group is a trading name of Macmillan Publishers Ltd, and Nature America Inc., a wholly-owned US subsidiary of Macmillan Publishers Limited.
 
 **What information do we collect?**
 
