@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamedesire.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402031421id_/http%3A//www.gamedesire.com/la-en%2Cdd-10%2Cn-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedesire.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204131318id_/http%3A//www.gamedesire.com/dd-10%2Cn-1.html) for the most accurate reproduction.*
 
-# Free online multiplayer games - GameDesire - play tournaments, ranking and money games...
+# GameDesire - play free online games. Snooker, pool, mahjong, word games and card games. Rankings, ladders, tournaments...
 
   
 **Privacy policy**
@@ -15,7 +15,7 @@ By registering for an account, you agree that GameDesire may display your login 
 
 You are given the privilege to define the content of an optional info page containing your photo, age and short description of your personal interests. All such information is optional and everything you enter and make visible will be visible to other users of the GameDesire. Ganymede Technologies urges you to be careful only to enter information that you are comfortable sharing with the public at large. You may edit, delete, or modify that information at any time.
 
-Certain information about your computer hardware and software is automatically collected by the GameDesire. This information may include: your IP address, browser type and operating system, hardware and software components of your computer. This information is used by Ganymede Technologies for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the GameDesire.
+Certain information about your computer hardware and software is automatically collected by the GameDesire. This information may include: your IP address, unique identification number based on hardware and software components of the computer, browser type and operating system, hardware and software components of your computer. This information is used by Ganymede Technologies for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the GameDesire.
 
 Cookies are small files downloaded to your computer to track movements within web sites. Like most entertainment and gaming sites, GameDesire also uses cookies to track your visits to the site so you do not have to re-register each time you visit us. They also allow GameDesire to understand how you use our service and how Ganymede Technologies can improve the site.
 
