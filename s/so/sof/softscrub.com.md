@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621194406id_/http%3A//www.clorox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217071500id_/http%3A//www.clorox.com/privacy.html) for the most accurate reproduction.*
 
-# The Clorox Company | Feedback
+# Clorox.com | Privacy Policy
 
 **Privacy Policy** The Clorox Company's Web servers collect the domain names of visitors to our Web sites. This information is aggregated to measure number of visits, average time spent on the site, pages viewed, etc. Clorox uses this information to measure the use of our sites and to improve the content of our sites.
 
