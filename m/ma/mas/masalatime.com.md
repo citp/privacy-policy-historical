@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masalatime.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411082204id_/http%3A//www.masalatime.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masalatime.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204224450id_/http%3A//masalatime.com/privacy.htm) for the most accurate reproduction.*
 
 # Terms of Use
 
