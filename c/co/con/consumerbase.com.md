@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217185202id_/http%3A//www.consumerbase.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623193240id_/http%3A//www.consumerbase.com/privacy.html) for the most accurate reproduction.*
 
 # ConsumerBase :: Behavior Driven. Proven Performance.
 
-## Privacy Policy
+#### Privacy Policy
 
 ConsumerBase has a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it.
 
@@ -79,10 +79,10 @@ Return to Privacy Menu
 **Contact Information**  
 Our Consumer Privacy Advocates may be reached via e-mail or postal mail:
 
-> Privacy Department  
->  ConsumerBase  
->  1007 Church St, 5th Fl  
->  Evanston, IL 60201-3624  
+> Privacy Department   
+>  ConsumerBase   
+>  1007 Church St, 5th Floor   
+>  Evanston, IL 60201  
 >  [privacy@ConsumerBase.com](mailto:privacy@ConsumerBase.com)
 
 Return to Privacy Menu  
