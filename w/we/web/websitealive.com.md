@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202161000id_/http%3A//www.websitealive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619101831id_/http%3A//www.websitealive.com/privacy.htm) for the most accurate reproduction.*
 
 # WebsiteAlive - What? ... I Don't Believe! ... Its So Simple!
 
