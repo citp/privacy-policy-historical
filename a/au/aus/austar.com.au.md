@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austar.com.au privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806060633id_/http%3A//www.austar.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austar.com.au privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401214502id_/http%3A//www.austar.com.au/privacy.asp) for the most accurate reproduction.*
 
 # AUSTAR - Privacy Statement
 
@@ -79,5 +79,7 @@ Locked Bag 2000
 Gold Coast Mail Centre 9726   
 email address: privacy@austar.com.au   
 Austar Entertainment Pty Ltd ABN 93 068 104 530
+
+For details on the use of information gathered on the Austar network, please refer to the [Austar Portal Terms of Use](https://web.archive.org/web/20030401214502id_/http%3A//www.austar.com.au/Terms_of_use.asp)
 
 back to top
