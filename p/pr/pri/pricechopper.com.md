@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricechopper.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216005500id_/http%3A//www.pricechopper.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricechopper.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602041212id_/http%3A//www.pricechopper.com/policy.shtml) for the most accurate reproduction.*
 
 # For People Who Love Food ... And Low Prices!
 
