@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicdrivein.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618091538id_/http%3A//sonicdrivein.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicdrivein.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002083419id_/http%3A//www.sonicdrivein.com/policy.shtml) for the most accurate reproduction.*
 
 # SONIC - America's Drive-in
 
@@ -20,8 +20,8 @@ We may share aggregated demographic information with our business associates and
 **Links**  
 This Web site contains links to other sites. Please be aware that Sonic is not responsible nor liable for the privacy practices or lack of such practices of such other sites. We want our users to be aware of this when they leave our site to visit linked sites. We encourage our users to read the privacy statements of each and every site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-**Surveys and Contests**  
-From time to time, our site may request information from users using surveys or contests. Participation in these surveys or contests is completely voluntary. The user has a choice whether to disclose any information by answering the surveys or entering the contests. Information requested may include contact information (such as user's name and mailing address) and demographic information (such as ZIP code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and services offered by this site.
+**Surveys, Contests and Sweepstakes**  
+From time to time, our site may request information from users using surveys, contests or sweepstakes. Participation in these surveys, contests or sweepstakes is completely voluntary. The user has a choice whether to disclose any information by answering the surveys or entering the contests or sweepstakes. Information requested may include contact information (such as user's name and mailing address) and demographic information (such as ZIP code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and services offered by this site.
 
 **Security**  
 We take reasonably appropriate precautions on this Web site to protect our users' information. Our users' information collected by us on our Web site, not just the sensitive information mentioned above, is maintained and secured in our offices. Only employees who need the information to perform a specific job (for example, a marketing professional or a database specialist) are granted access to personally identifiable information. Employees are kept up-to-date on our security and privacy practices. Periodically, as well as any time new policies are added, our employees are reminded about the importance we place on privacy and are instructed regarding our policies and procedures for proper use and safeguarding of our users' information. Finally, the servers that we use to store personally identifiable information are kept in a secure environment.
@@ -44,4 +44,4 @@ Sonic is very sensitive to children's privacy issues and does not associate cook
 **Notification of Changes**  
 We will use information in accordance with the privacy policy under which the information was collected. If we change our privacy policy, we will post those changes on our Web site so that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we will disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice whether we may use their information in this different manner.
 
-If you have any questions about our Web site's privacy policy, you can contact our [corporate office](https://web.archive.org/web/20030618091538id_/http%3A//sonicdrivein.com/contact/contact.shtml).
+If you have any questions about our Web site's privacy policy, you can contact our [corporate office](https://web.archive.org/web/20031002083419id_/http%3A//www.sonicdrivein.com/contact/contact.shtml).
