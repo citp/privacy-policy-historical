@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605022712id_/http%3A//magportal.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216232413id_/http%3A//magportal.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (MagPortal.com)
 
+**Location: ******| [Help](https://web.archive.org/help/) / Privacy Policy  
+---|---  
 Hot Hot Neuron LLC respects your privacy and we have drafted this document to try to address any concerns that you may have about the information we collect and how it is used on MagPortal.com. Hot Neuron LLC may revise this Privacy Policy at any time without notice. It is your responsibility to check this policy periodically. 
 
-_Last revised: $Date: 2001/05/23 17:28:51 $_
+_Last revised: $Date: 2001/12/01 00:13:32 $_
 
 **What personally identifiable information is collected?**  
 We do not currently require users to provide any personally identifying information (name, email address, street address, etc.) to use the MagPortal.com service. In the future, we may require such information in exchange for providing additional services, such as but not limited to: delivery of physical products, entrance into a sweepstakes, or the privilege of posting on message boards. If you send correspondence to us, we may store a copy (which means that we will have your email address and name). 
@@ -38,3 +40,6 @@ We may provide aggregated statistics about the users of MagPortal.com to third p
 You should keep your password secret and be extremely cautious when using shared computers. Be sure to [remove the MagPortal.com cookie](https://web.archive.org/cgi-bin/myacct.cgi?a=r) from any public computer you use and exit the browser to ensure that nobody else can access your personal information. 
 
 Please be aware that whenever data is transmitted or stored there is always some risk of theft or misuse. 
+
+[Help](https://web.archive.org/help/)   [Home](https://web.archive.org/)   [Site Map](https://web.archive.org/sitemap.html)   [Privacy Policy](https://web.archive.org/help/privacy.html)   [Terms of Use](https://web.archive.org/help/terms.html)   [Contact Us](https://web.archive.org/help/contact.html)   [Advertise](https://web.archive.org/help/custom/advertise.html) Copyright © 2001 Hot Neuron LLC. All Rights Reserved.  
+MagPortal.com and Hot Neuron are service marks owned by Hot Neuron LLC.
