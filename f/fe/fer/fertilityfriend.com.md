@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fertilityfriend.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616014620id_/http%3A//www.fertilityfriend.com/ffprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilityfriend.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202215600id_/http%3A//www.fertilityfriend.com/ffprivacy.html) for the most accurate reproduction.*
 
 # Fertility Friend On-Line Privacy Policy
 
