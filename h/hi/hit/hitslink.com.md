@@ -1,21 +1,36 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406184440id_/http%3A//www.toolshack.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024094525id_/http%3A//www.toolshack.com/privacy.asp) for the most accurate reproduction.*
 
 # Toolshack - web tools: hit counter, banner exchange, search engine submission, promotion, and advertising.
 
 ## Privacy Statement for Toolshack.com
 
-Toolshack.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Toolshack.com. 
+Toolshack.com has created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses our information gathering and dissemination practices for Toolshack.com. 
 
-Our site's registration form requires users to give us contact information (like their name and email address) and financial information (like their account or credit card numbers). The customer's contact information is used to contact the visitor when necessary.  Users may opt-out of receiving future mailings; see the choice/opt-out section below.  Financial information that is collected is used to bill the user for products and services. 
+**Your Information is Private**  
+Subscribers are requested to enter limited personal information during signups.  Under no circumstance will we sell, transfer or disseminate this personal information gathered by our products to any other entity. 
 
-We use an outside ad company to display ads on our site.  Ads may contain cookies.  We do not have access to any information about you from cookies you might receive while visiting our site. 
+Our statistics (HitsLink.com) product collects information about visitors to the subscriber's website.  This information will also not be sold, transfered or disseminated to any other entity.  We may display aggregated data to show industry trends (such as browser share).  However, this data shall be the average of many thousands of sites and will in no way linked to individual subscribers. 
 
-## Security
+**Your Information is Secure**  
+We employ the use of the following measures to ensure your data is secure:
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  Any financial information we request for signing up is only requested on screens secured by SSL encryption. 
+* All accounts require an account id and password to view data. 
+* Secure logins are supported (through SSL 128-bit encryption) for users concerned about their account id and/or password being viewed in transmission.  This login can be accessed at by entering our sites using the https: protocol instead of the standard http: protocol. 
+* All data centers use firewalls and other extensive security measures to prevent unauthorized access to our internal networks. 
+* The physical preservation of the data is ensured by the use of RAID-enabled servers, surge protectors, battery power backups, and daily data backups.  All servers are housed in climate-controlled data centers. 
 
-## Children's Guidelines
+**Cookie Usage**  
+The use of cookies is limited to storing a small amount of non-identifiable information on a visitor's computer.  For visitors to our sites, the data is used only to maintain information about the user's session. 
 
+For visitors to sites that have installed our statistics package (HitsLink.com), cookies are used to enhance the ability of our product to display usage patterns.  This information does not in any way reveal any personal data about visitors.  Visitors to a subscriber's site will receive a cookie that stores only a generic id, the prior page, time since last visit, and number of the visit. 
+
+**Access to Personal Account Data**  
+Every subscriber is requested to enter limited personal information that is stored in our databases.  This information may include credit card information for pay subscribers.  At any time, subscribers may modify this information upon logging into the product using an account id and password.  Credit card information is only requested on secure pages (using SSL 128-bit encryption).  Credit card information is never re-displayed once entered. 
+
+**Opt-In E-Mail Lists**  
+Every new subscriber has the option of not receiving site news and special promotional offers by either unchecking the opt-in check-box on the main signup form, or opting out of future mailings by clicking on the 'Opt-Out' link on any e-mail correspondance sent.  Once an user opts-out no further e-mails will be sent except for traffic alerts the user sets up and important administrative notices. 
+
+**Children's Guidelines**  
 This web site meets the guidelines of TRUSTe's Children's program, which means that it does: 
 
   1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity.  Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent 
@@ -24,26 +39,9 @@ This web site meets the guidelines of TRUSTe's Children's program, which means t
   4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent 
   5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
 
+  
+**Contacting the Web SiteIf you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact support@toolshack.com **
 
-
-## Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can send email to [support@toolshack.com](mailto:support@toolshack.com)
-
-
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. email [support@toolshack.com](mailto:support@toolshack.com)
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact support@toolshack.com
+|   
+  
+---
