@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606012349id_/http%3A//taxact.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208234015id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TaxACT Privacy Policy Statement
 
-**www.taxact.com** is the web site of **2nd Story Software, Inc.**
+| 
 
-Our postal address is  
- **5925 Dry Creek Lane, NE**  
- **Cedar Rapids, IA 52402**
+### www.taxact.com is the web site of 2nd Story Software, Inc.
 
-We can be reached via e-mail at [customerservice@taxact.com](mailto:customerservice@taxact.com)  
+### Our postal address is  
+5925 Dry Creek Lane, NE  
+Cedar Rapids, IA 52402
+
+### We can be reached via e-mail at [customerservice@taxact.com](mailto:customerservice@taxact.com)  
 Or you can reach us by telephone at 319-373-3600  
 Or you can reach us by fax at 319-447-4674
 
@@ -16,7 +18,7 @@ Or you can reach us by fax at 319-447-4674
 
 2nd Story Software is committed to protecting your privacy and data. At any time you may contact 2nd Story Software to request what information you have given us and request correction or deletion. Our goal is to ensure the highest levels of security and confidentiality.
 
-**Information Collected**
+#### Information Collected
 
 Information collected on the TaxACT.com website is only used to complete your orders and supply you with service and support. We do not disclose your information to third parties except as stated in this privacy statement. Only information you have given us is stored by us. We do not supplement your information with information from other companies.
 
@@ -24,13 +26,17 @@ In order to purchase or download our free tax software, a user must first comple
 
 If you decide to purchase our TaxACT products, we request additional information. On the payment information page you have the option of either paying by credit card or paying by check or money order. If you decide to pay by credit card, financial information such as credit card number and expiration date will be collected. This information is used for billing purposes and to fill your order. If we have trouble processing an order, the contact information collected is used to contact you.
 
-**Third Party Intermediaries**
+#### Clear Gifs (Web Beacons/Web Bugs)
+
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. **We do not tie the information gathered by clear gifs to our customers' personally identifiable information.** If you would like to opt-out of these emails, please see "Changing and Deleting Personal Information."
+
+#### Third Party Intermediaries
 
 We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
 We use an advertising company to serve advertisements on our website. We do not share, rent or sell any personally identifiable information to this company. The advertising company uses Pixel tags and cookies on our site to help us measure the effectiveness of the advertising placed on our Web site. We do not have direct control over the use of the cookies or Pixel tags once placed on our site. If you wish to review the advertising company’s privacy policy, please [click here](http://www.advertising.com/Privacy.html).
 
-**Changing and Deleting Personal Information**
+#### Changing and Deleting Personal Information
 
 You may choose to be removed from our mailing list by contacting 2nd Story Software using one of the methods listed at the top of this page (email, phone, mail or fax). If your personally identifiable information changes (such as zip code, phone, email or postal address), we provide a way to correct, and update your personally identifiable information. This can be done by accessing your account online at www.taxact.com and selecting "My Account" in top right-hand corner of the home page.
 
@@ -40,21 +46,21 @@ If you supply us with your postal address on-line you may receive periodic maili
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. They also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending email to us at the above address or calling us at the above telephone number or writing to us at the above address. Please provide us with your correct phone number. Or, you may log into your account on our web site by selecting "My Account" in the upper right-hand corner of the home page.
 
-**Security Measures**
+#### Security Measures
 
 Our primary concern is that your personal information is private and secure. At 2nd Story Software we use the industry-standard Secure Socket Layers (SSL) protocol which provides data encryption, message integrity, and server authentication when your data is sent to us. When you see a small lock in the bottom right or left corner of your browser window, you know your data is being encrypted for transmission.
 
 All information you enter while using TaxACT is used only by 2nd Story Software, Inc. to provide the services requested by our customers. All data is stored on 2nd Story Software servers and is backed up to prevent the loss of data. Electronically filed returns, which are further encrypted, are sent directly from 2nd Story Software to the IRS via a secure connection. Your data is never viewed by anyone at 2nd Story Software unless prompted by you, and we **never sell or rent your name or other information** to anyone.
 
-**Service and Support Section of TaxACT.com**
+#### Service and Support Section of TaxACT.com
 
 TaxACT.com offers support and customer service on the TaxACT product line to our customers. You may choose to submit a question through the service and support section of the TaxACT.com web site. The information submitted via the service and support section is not stored or shared with third parties, affiliates or partners. It is used to research your problem, provide answers, and/or request more information. If you make a suggestion using the service and support section of our web site, the suggestion alone may be stored, but no personal data will be stored with the suggestion. 2nd Story Software, Inc. does retain the right to use suggestions and product enhancement ideas to better the TaxACT web site and product line without obligation to you.
 
-**Affiliate Program**
+#### Affiliate Program
 
 TaxACT.com offers an affiliate program to broaden it's marketing reach. Affiliate sites may register with TaxACT.com to sell the TaxACT product line. All information collected from the affiliate is used to apply proper credit to the affiliate's sales, contact the affiliate if products and offers change, and to make payment to the affiliate for their sales commissions. No information supplied by an affiliate is shared or sold to a third party.
 
-**Use of Webtrends**
+#### Use of Webtrends
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, IP address, access times and pages viewed. IP addresses, etc. are not linked to personally identifiable information.
 
@@ -62,22 +68,22 @@ A cookie is a piece of data stored on the user's computer tied to information ab
 
 Our website uses a tracking devise called Webtrends. This software allows us to anonymously analyze traffic on our website regarding the activities of our web site visitors'. Personally identifiable information is not shared with Webtrends, as the software does not collect personal information such as name, age, phone number, mailing address or credit card numbers from visitors. For more information regarding Webtrends please visit their privacy statement at [http://www.webtrends.com](http://www.webtrends.com/)
 
-**Changes to our Privacy Policy**
+#### Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a prominent notice on our Web site for 30 days.
 
-**Participant of TRUSTe Privacy Program**
+#### Participant of TRUSTe Privacy Program
 
 2nd Story Software, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.taxact.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact 2nd Story Software, Inc. Customer Service by one of the following methods listed above. If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <http://www.truste.org/users/users_watchdog.php> TRUSTe will serve as a liaison between you and 2nd Story Software, Inc.
+If you have questions or concerns regarding this statement, you should first contact 2nd Story Software, Inc. Customer Service by one of the following methods listed above. If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will serve as a liaison between you and 2nd Story Software, Inc.
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-**Disclaimer**
+#### Disclaimer
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
-_Last Updated: April 05, 2004_
+_Last Updated: August 24, 2004_
