@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609125616id_/http%3A//www.kamus.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208163502id_/http%3A//kamus.net/privacy.asp) for the most accurate reproduction.*
 
 # kamus.net by kemangnet.com
 
@@ -17,4 +17,4 @@ We may use this information for three general purposes: to customize the content
   
 Cookies  
 We are not using any cookies on your computer.  
-[home](https://web.archive.org/web/20020609125616id_/http%3A//www.kamus.net/default.asp)
+[home](https://web.archive.org/web/20021208163502id_/http%3A//kamus.net/default.asp)
