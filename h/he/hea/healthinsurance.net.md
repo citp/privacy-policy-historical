@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthinsurance.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602211056id_/http%3A//www.lifeinsurance.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205035404id_/http%3A//www.lifeinsurance.net/privacy.htm) for the most accurate reproduction.*
 
-# Life Insurance .Net - Life Insurance Quotes and Agent Directory
+# Privacy and Security Policy - Life Insurance .Net
 
 Lifeinsurance.net is a Better Business Bureau certified web site dedicated to enabling individuals and families to achieve financial security and peace of mind. LifeInsurance.net is also committed to protecting your privacy. This Privacy Statement explains Lifeinsurance.net’s policies and practices regarding information collected on this web site and how we use that information. Lifeinsurance.net is a division of IdentityWEB, Inc. As used in this Privacy Statement, “Lifeinsurance.net,” “we” and “our” refer to IdentityWEB. 
 
