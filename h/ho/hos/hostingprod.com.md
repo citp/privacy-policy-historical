@@ -1,8 +1,32 @@
-> *The following text is extracted and transformed from the hostingprod.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054123id_/http%3A//privacy.yahoo.com/privacy/us/geo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingprod.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630144358id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
-|   | 
+| **More about Yahoo! Privacy**  
+---  
+|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
+[Find them here](https://web.archive.org/privacy/us/all.html).   
+**Assistance**  
+· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
+· | [Help](http://help.yahoo.com/help/us/privacy/)  
+· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
+· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
+· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
+**Special Topics**  
+· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
+· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
+· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
+· | [more...](https://web.archive.org/privacy/us/all.html)  
+**Privacy Links**  
+· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
+· | [Yahoo! Category: Privacy](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
+· | [Yahoo! Search: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
+· | [Yahoo! Category: Security](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
+· | [Federal Trade Commission](http://www.ftc.gov/)  
+  
+* * *  
+  
+  | 
 
 [](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -12,7 +36,7 @@
 
 
   * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. 
+  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
 
 **Information Collection and Use**
 
@@ -94,5 +118,4 @@ Sunnyvale, CA 94089
 
 
 
-  
----|---|---
+
