@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213074637id_/http%3A//www.leapfile.com/www/corp/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2005-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050317082510id_/http%3A//www.leapfile.com/www/corp/Privacy.jsp) for the most accurate reproduction.*
 
-# Safely send large or confidential files over the Internet
+# LeapFILE - Safely transfer large files over the Internet
 
 LeapFILE has established this Privacy Policy because your privacy is extremely important to us.  You provide us with personal information that you expect will be kept confidential.  Any personal information that you may provide to us will be used to provide you, our customer, better information, products and services. 
 
