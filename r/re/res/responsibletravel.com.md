@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2002-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021001215737id_/http%3A//www.responsibletravel.com/Copy/Copy100068.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411082805id_/http%3A//www.responsibletravel.com/Copy/Copy100068.htm) for the most accurate reproduction.*
 
 # world's best responsible/ecotourism holidays
 
 |  | [Africa/Middle East](http://www.responsibletravel.com/TripSearch/Africa_Middle%20East/Region100001.htm)  
 ---|---  
-  | [Antarctica](http://www.responsibletravel.com/TripSearch/Antarctica/Region100002.htm)  
   | [Asia](http://www.responsibletravel.com/TripSearch/Asia/Region100003.htm)  
   | [Australia/Oceania](http://www.responsibletravel.com/TripSearch/Australia_Oceania/Region100004.htm)  
   | [Caribbean](http://www.responsibletravel.com/TripSearch/Caribbean/Region100006.htm)  
+  | [Central America](http://www.responsibletravel.com/TripSearch/Central%20America/Region100012.htm)  
   | [Europe](http://www.responsibletravel.com/TripSearch/Europe/Region100007.htm)  
   | [Indian Ocean](http://www.responsibletravel.com/TripSearch/Indian%20Ocean/Region100011.htm)  
   | [North America](http://www.responsibletravel.com/TripSearch/North%20America/Region100010.htm)  
+  | [Polar Regions](http://www.responsibletravel.com/TripSearch/Polar%20Regions/Region100002.htm)  
   | [South America](http://www.responsibletravel.com/TripSearch/South%20America/Region100008.htm)  
   | [UK](http://www.responsibletravel.com/TripSearch/UK/Region100009.htm)  
 | Activity search  
 ---|---  
-| [Active/Adventure](http://www.responsibletravel.com/TripSearch/Active_Adventure/ActivityCategory100007.htm)  
+| [Active over 50's](http://www.responsibletravel.com/TripSearch/Active%20over%2050_s/ActivityCategory100015.htm)  
+  | [Active/Adventure](http://www.responsibletravel.com/TripSearch/Active_Adventure/ActivityCategory100007.htm)  
   | [Beach](http://www.responsibletravel.com/TripSearch/Beach/ActivityCategory100003.htm)  
   | [Community](http://www.responsibletravel.com/TripSearch/Community/ActivityCategory100009.htm)  
   | [Culture](http://www.responsibletravel.com/TripSearch/Culture/ActivityCategory100002.htm)  
@@ -26,6 +28,7 @@
   | [Walking holidays](http://www.responsibletravel.com/TripSearch/Walking%20holidays/ActivityCategory100013.htm)  
   | [Well-being](http://www.responsibletravel.com/TripSearch/Well-being/ActivityCategory100008.htm)  
   | [Wildlife safaris](http://www.responsibletravel.com/TripSearch/Wildlife%20safaris/ActivityCategory100001.htm)  
+  | [Winter sports](http://www.responsibletravel.com/TripSearch/Winter%20sports/ActivityCategory100014.htm)  
 | Accommodation  
 ---|---  
 | [B&B](http://www.responsibletravel.com/AccommodationSearch/B%26B/AccommodationCategory100005.htm)  
