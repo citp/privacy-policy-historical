@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216204123id_/http%3A//www.news-gazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604000618id_/http%3A//www.news-gazette.com/privacy) for the most accurate reproduction.*
 
 # privacy.html
 
