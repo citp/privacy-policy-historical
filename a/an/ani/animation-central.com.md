@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animation-central.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816050017id_/http%3A//animation-central.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animation-central.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603062405id_/http%3A//www.animation-central.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -44,5 +44,5 @@ Our site provides users the opportunity to opt-out of receiving our free stuff n
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 
