@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-mania.com privacy policy that was archived on 2001-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010401021131id_/http%3A//celebrity-mania.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-mania.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214104710id_/http%3A//celebrity-mania.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Celebrity Mania
 
