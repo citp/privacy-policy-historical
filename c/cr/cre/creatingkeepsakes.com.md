@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606230005id_/http%3A//creatingkeepsakes.com/global/privacy.ihtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610040150id_/http%3A//www.creatingkeepsakes.com/global/privacy.ihtml) for the most accurate reproduction.*
 
 # Creating Keepsakes
 
