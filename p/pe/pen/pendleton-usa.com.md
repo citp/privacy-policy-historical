@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003011441id_/http%3A//www.pendleton-usa.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605002838id_/http%3A//www.pendleton-usa.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Pendleton Woolen Mills, men's and women's clothing and apparel, bed blankets, Indian blankets, and products for the Home
 
