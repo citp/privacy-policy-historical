@@ -1,19 +1,10 @@
-<!--The following is the downloaded HTML source of the activediner.com privacy policy that was archived on 2000-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205031400id_/http%3A//www.activediner.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the activediner.com privacy policy that was archived on 2001-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010405140101id_/http%3A//activediner.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head><title>ActiveDiner(SM) - Privacy Statement</title>
 
 
-
-
-
-
-
-
   
-
-
-
 
 
 
@@ -41,8 +32,6 @@
 </head>
 
 <body link="blue" vlink="teal" bgcolor="#FFFFFF" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0">
-
- 
 
 
 
@@ -72,37 +61,42 @@ function GoCity(sCity)
                 window.top.location.href = d;
                 sCity.selectedIndex=0;
         }
+function GoCity2(sURL)
+         {  window.top.location.href = sURL; }
 //-->
 </script>
 </p><form name="SelectCityForm">
-<select size="1" onchange="GoCity(this);" language="JavaScript">
-<option value="/">Choose a City</option>
-<option value="/cities/atlanta.cfm">Atlanta</option>
-<option value="/cities/austin.cfm">Austin</option>
-<option value="/cities/bocaraton.cfm">Boca Raton</option>
-<option value="/cities/boston.cfm">Boston</option>
-<option value="/cities/chicago.cfm">Chicago</option>
-<option value="/cities/dallas.cfm">Dallas</option>
-<option value="/cities/denver.cfm">Denver</option>
-<option value="/cities/detroit.cfm">Detroit</option>
-<option value="/cities/fortworth.cfm">Fort Worth</option>
-<option value="/cities/fortlauderdale.cfm">Ft. Lauderdale</option>
-<option value="/cities/houston.cfm">Houston</option>
-<option value="/cities/indianapolis.cfm">Indianapolis</option>
-<option value="/cities/lasvegas.cfm">Las Vegas</option>
-<option value="/cities/la.cfm">Los Angeles</option>
-<option value="/cities/miami.cfm">Miami</option>
-<option value="/cities/neworleans.cfm">New Orleans</option>
-<option value="/cities/nyc.cfm">New York</option>
-<option value="/cities/orlando.cfm">Orlando</option>
-<option value="/cities/philadelphia.cfm">Philadelphia</option>
-<option value="/cities/pittsburgh.cfm">Pittsburgh</option>
-<option value="/cities/sanantonio.cfm">San Antonio</option>
-<option value="/cities/sanfrancisco.cfm">San Francisco</option>
-<option value="/cities/tampa.cfm">Tampa</option>
-<option value="/cities/minneapolis.cfm">Twin Cities</option>
-<option value="/cities/dc.cfm">Wash D.C.</option>
-<option value="/search/SearchIndex.cfm">Other Cities...</option></select></form>
+<select size="1" name="city" onchange="GoCity(this);" language="JavaScript">
+<option value="http://www.activediner.com/">Choose a City</option>
+<option value="http://www.activediner.com/cities/atlanta.cfm">Atlanta</option>
+<option value="http://www.activediner.com/cities/austin.cfm">Austin</option>
+<option value="http://www.activediner.com/cities/bocaraton.cfm">Boca Raton</option>
+<option value="http://www.activediner.com/cities/boston.cfm">Boston</option>
+<option value="http://www.activediner.com/cities/chicago.cfm">Chicago</option>
+<option value="http://www.activediner.com/cities/dallas.cfm">Dallas</option>
+<option value="http://www.activediner.com/cities/denver.cfm">Denver</option>
+<option value="http://www.activediner.com/cities/detroit.cfm">Detroit</option>
+<option value="http://www.activediner.com/cities/fortworth.cfm">Fort Worth</option>
+<option value="http://www.activediner.com/cities/fortlauderdale.cfm">Ft. Lauderdale</option>
+<option value="http://www.activediner.com/cities/houston.cfm">Houston</option>
+<option value="http://www.activediner.com/cities/indianapolis.cfm">Indianapolis</option>
+<option value="http://www.activediner.com/cities/lasvegas.cfm">Las Vegas</option>
+<option value="http://www.activediner.com/cities/la.cfm">Los Angeles</option>
+<option value="http://www.activediner.com/cities/miami.cfm">Miami</option>
+<option value="http://www.activediner.com/cities/minneapolis.cfm">Minneapolis</option>
+<option value="http://www.activediner.com/cities/neworleans.cfm">New Orleans</option>
+<option value="http://www.activediner.com/cities/nyc.cfm">New York</option>
+<option value="http://www.activediner.com/cities/orlando.cfm">Orlando</option>
+<option value="http://www.activediner.com/cities/philadelphia.cfm">Philadelphia</option>
+<option value="http://www.activediner.com/cities/phoenix.cfm">Phoenix</option>
+<option value="http://www.activediner.com/cities/pittsburgh.cfm">Pittsburgh</option>
+<option value="http://www.activediner.com/cities/sanantonio.cfm">San Antonio</option>
+<option value="http://www.activediner.com/cities/sanfrancisco.cfm">San Francisco</option>
+<option value="http://www.activediner.com/cities/tampa.cfm">Tampa</option>
+<option value="http://www.activediner.com/cities/dc.cfm">Wash D.C.</option>
+<option value="http://www.activediner.com/search/SearchIndex.cfm">Other Cities...</option></select><br>
+<input type="button" value="Go" onclick="GoCity2(document.SelectCityForm.city.value);return true;">
+</form>
 
 <p><a href="/add/" onmouseover="window.status='Add a new restaurant.'; return true;" language="Javascript"><font color="white"><b>ADD RESTAURANT</b></font></a>
 
@@ -115,7 +109,7 @@ function GoCity(sCity)
 <br>
 <img src="/images/LLower.jpg" border="0" width="107" height="74">
 </p></font><p><font face="Verdana,Arial,Helvetica" size="-2">
-<a href="/ad/adclick.cfm?REDIRECT=http://www.alladvantage.com/go.asp?refid=JJD497&amp;ADID=37" target="blank"><img src="/images/ad/alladvantage-bu2.gif" width="107" height="90" alt="Join AllAdvantage.com" border="0"></a>
+
 </font>
 <br>
 
@@ -131,50 +125,12 @@ function GoCity(sCity)
 
 <center>
 
-  <!-- BEGIN RICH-MEDIA BURST! CODE --> 
-<script language="JavaScript"> 
-<!-- /* © 1997-1999 BURST! Media, LLC. All Rights Reserved.*/ 
-var TheAdcode = 'ad2510a'; 
-var bN = navigator.appName; 
-var bV = parseInt(navigator.appVersion); 
-var base='http://www.burstnet.com/'; 
-var Tv=''; 
-var agt=navigator.userAgent.toLowerCase(); 
-if (bV>=4) 
-  {ts=window.location.pathname+window.location.search; 
-   i=0; Tv=0; while (i< ts.length) 
-      { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;} 
-  else   {Tv=escape(window.location.pathname); 
-   if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
-          else if (Tv.charAt(1)=="/")
-Tv=""; 
-  if( Tv.charAt(Tv.length-1) == "/") 
-    Tv = Tv + "_";} 
-if (bN=='Netscape'){ 
-     if ((bV>=4)&&(agt.indexOf("mac")==-1))
-{  document.write('<s'+'cript src="'+ 
-      base+'cgi-bin/ads/'+TheAdcode+'.cgi/RETURN-CODE/JS' 
-      +Tv+'">'); 
-     document.write('</'+'script>');    
-} 
-     else if (bV>=3) {document.write('<'+'a href="'+base+'ads/'+ 
-        TheAdcode+'-map.cgi'+Tv+'"target=_top>'); 
-        document.write('<img src="' + base + 'cgi-bin/ads/' + 
-        TheAdcode + '.cgi' + Tv + '" ismap width="468" height="60"' + 
-        ' border="0" alt="Click Here"></a>');} 
- } 
-if (bN=='Microsoft Internet Explorer') 
- document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'
-+ 
-  TheAdcode + '.cgi' + Tv + '/RETURN-CODE" width="468" height="60"' + 
-  'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' + 
-  'frameborder="0" scrolling="no"></ifr'+'ame>'); 
-// --> 
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad2510a.cgi/RETURN-CODE/JS/5247"></script> <noscript><a href="http://www.burstnet.com/ads/ad2510a-map.cgi" target="_top"> 
-<img src="http://www.burstnet.com/cgi-bin/ads/ad2510a.cgi" 
- width="468" height="60" border="0" alt="Click Here"></a> 
-</noscript> 
-<!-- END BURST CODE --> 
+<!-- BEGIN LowerMyBills.com -->
+<img src="http://service.bfast.com/bfast/serve?bfmid=26996221&amp;siteid=38210306&amp;bfpage=468x60" border="0" width="1" height="1" nosave="">
+<a href="http://service.bfast.com/bfast/click?bfmid=26996221&amp;siteid=38210306&amp;bfpage=468x60" target="_top"><img src="http://images.lowermybills.com/Affiliate_Banners/billspile_468x60.gif" border="0" width="468" height="60" alt="LowerMyBills.com"></a>
+<!-- END LowerMyBills.com -->
+
+
 
 </center>
 <br>
@@ -351,87 +307,63 @@ comments@activediner.com
 </p><hr>
 
 
-
-
-
-
 </td>
 
-<td valign="top"><br><br><br><br><br>
+<td valign="top">
+<!-- BEGIN ConsumerInfo -->
+<img src="http://service.bfast.com/bfast/serve?bfmid=13376670&amp;siteid=38209784&amp;bfpage=homepage" border="0" width="1" height="1" nosave="">
+<a href="http://service.bfast.com/bfast/click?bfmid=13376670&amp;siteid=38209784&amp;bfpage=homepage" target="_top"><img src="http://ads.bfast.com/clients/consumerinfo/history-120x90-ani.gif" border="0" width="120" height="90" alt=""></a>
+<!-- BEGIN ConsumerInfo -->
 
-<!-- BEGIN BURST! CODE -->
-<iframe src="http://www.burstnet.com/cgi-bin/ads/cb2510a.cgi/RETURN-CODE/if/27832/" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="125" height="125">
-<A target="_top" HREF="http://www.burstnet.com/ads/cb2510a-map.cgi/27832">
-<IMG SRC="http://www.burstnet.com/cgi-bin/ads/cb2510a.cgi/27832" border="0" width="125" height="125" alt="Please support our sponsor.">
-</A></iframe>
-<!-- END BURST! CODE -->
-<br><br>
+<br>
 
-<!-- BEGIN BURST! CODE -->
-<iframe src="http://www.burstnet.com/cgi-bin/ads/bt2510a.cgi/RETURN-CODE/if/19435/" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="120" height="60">
-<A target="_top" HREF="http://www.burstnet.com/ads/bt2510a-map.cgi/19435">
-<IMG SRC="http://www.burstnet.com/cgi-bin/ads/bt2510a.cgi/19435" border="0" width="120" height="60" alt="Please support our sponsor.">
-</A></iframe>
-<!-- END BURST! CODE -->  
+
+<!-- BEGIN Entertainment Book -->
+<img src="http://service.bfast.com/bfast/serve?bfmid=30719175&amp;siteid=38208930&amp;bfpage=save50_120x240" border="0" width="1" height="1" nosave="">
+<a href="http://service.bfast.com/bfast/click?bfmid=30719175&amp;siteid=38208930&amp;bfpage=save50_120x240" target="_top"><img src="http://www.entertainment.com/images/affiliate/banners/120_banner_1.gif" border="0" width="120" height="240" alt="120 x 240 Banner"></a>
+
+<!-- END Entertainment Book -->
+
+<!-- BEGIN Dan's Chocolates -->
+<img src="http://service.bfast.com/bfast/serve?bfmid=12752042&amp;siteid=38208928&amp;bfpage=fres" border="0" width="1" height="1" nosave="">
+<a href="http://service.bfast.com/bfast/click?bfmid=12752042&amp;siteid=38208928&amp;bfpage=fres" target="_top"><img src="http://www.danschocolates.com/affiliates/images/sixmo120x90.gif" border="0" width="120" height="90" alt=""></a>&nbsp;
+<!-- END Dan's Chocolates -->
+<br>
+<!-- BEGIN Ashford Ad -->
+<img src="http://service.bfast.com/bfast/serve?bfmid=12750952&amp;siteid=36257057&amp;bfpage=home___lifestyle" border="0" width="1" height="1" nosave="">
+<a href="http://service.bfast.com/bfast/click?bfmid=12750952&amp;siteid=36257057&amp;bfpage=home___lifestyle" target="_top"><img src="http://ads.bfast.com/clients/ashford/75x97_homelifestyle.gif" border="0" width="75" height="97" alt=""></a>
+<!-- END Ashford Ad -->
+
+
+
+
 </td>
 <!-- End Content -->
 </tr>
 
 <tr>
 <td valign="BOTTOM" bgcolor="white" width="100%">
-<br>
 <center>
-
-
-<!-- BEGIN RICH-MEDIA BURST! CODE -->
-<script language="JavaScript"> 
-<!-- /* © 1997-1999 BURST! Media, LLC. All Rights Reserved.*/ 
-var TheAdcode = 'ad2510b';
-var bN = navigator.appName; 
-var bV = parseInt(navigator.appVersion); 
-var base='http://www.burstnet.com/'; 
-var Tv=''; 
-var agt=navigator.userAgent.toLowerCase(); 
-if (bV>=4) 
-  {ts=window.location.pathname+window.location.search; 
-   i=0; Tv=0; while (i< ts.length) 
-      { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;} 
-  else   {Tv=escape(window.location.pathname); 
-   if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
-          else if (Tv.charAt(1)=="/")
-Tv=""; 
-  if( Tv.charAt(Tv.length-1) == "/") 
-    Tv = Tv + "_";} 
-if (bN=='Netscape'){ 
-     if ((bV>=4)&&(agt.indexOf("mac")==-1))
-{  document.write('<s'+'cript src="'+ 
-      base+'cgi-bin/ads/'+TheAdcode+'.cgi/RETURN-CODE/JS' 
-      +Tv+'">'); 
-     document.write('</'+'script>');    
-} 
-     else if (bV>=3) {document.write('<'+'a href="'+base+'ads/'+ 
-        TheAdcode+'-map.cgi'+Tv+'"target=_top>'); 
-        document.write('<img src="' + base + 'cgi-bin/ads/' + 
-        TheAdcode + '.cgi' + Tv + '" ismap width="468" height="60"' + 
-        ' border="0" alt="Click Here"></a>');} 
- } 
-if (bN=='Microsoft Internet Explorer') 
- document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'
-+ 
-  TheAdcode + '.cgi' + Tv + '/RETURN-CODE" width="468" height="60"' + 
-  'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' + 
-  'frameborder="0" scrolling="no"></ifr'+'ame>'); 
-// --> 
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad2510b.cgi/RETURN-CODE/JS/5247"></script> <noscript><a href="http://www.burstnet.com/ads/ad2510a-map.cgi" target="_top"> 
-<img src="http://www.burstnet.com/cgi-bin/ads/ad2510a.cgi" 
- width="468" height="60" border="0" alt="Click Here"></a> 
-</noscript> 
-<!-- END BURST CODE -->
-
+<!-- BEGIN Be Free Tag  (c) Copyright 1997-2001 Be Free, Inc. All rights reserved.-->
+<iframe src="http://ads.bfast.com/ad/frame?bfmid=26993801&amp;siteid=38209046&amp;size=468x60&amp;space=12043667" width="468" height="60" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0">
+<script language="JavaScript" src ="http://ads.bfast.com/ad/script?bfmid=26993801&siteid=38209046&size=468x60&space=12043667">
+</script>
+<noscript>
+<A HREF="http://ads.bfast.com/ad/click?bfmid=26993801&siteid=38209046&size=468x60&space=12043667" TARGET="_top">
+<IMG SRC="http://ads.bfast.com/ad/serve?bfmid=26993801&siteid=38209046&size=468x60&space=12043667" BORDER="0" WIDTH="468" HEIGHT="60"></A>
+</noscript>
+</iframe>
+<!-- END Be Free Tag-->
 </center>
+<br>
+
+
+
+
+
 <p align="center"><font size="2">Send e-mail to <a href="mailto:webmaster@activediner.com">webmaster@activediner.com</a>
 with questions or comments about this web site.<br>
-Copyright © 1999 Interactive Dining Solutions, Inc.<br>
+Copyright © 2001 Interactive Dining Solutions, Inc.<br>
 All rights reserved. Do not duplicate or redistribute in any form.<br>
 <a href="/disclaimer.cfm">Disclaimer</a> | <a href="/privacy.cfm">Privacy Statement</a></font></p>
 <br>
