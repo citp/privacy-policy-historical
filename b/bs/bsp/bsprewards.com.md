@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsprewards.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207210745id_/http%3A//www.bsprewards.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsprewards.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603170409id_/http%3A//bsprewards.com/privacy.cfm) for the most accurate reproduction.*
 
 # BSP Rewards Privacy Policy
 
@@ -77,9 +77,9 @@ We release account and other personal information when we believe release is app
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
 
  **Site and Service Updates  
-** We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
+**We also send the user site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
 
- **Correction/Updating Personal Information:  
+**Correction/Updating Personal Information:  
 ** If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support representatives.
 
  **Choice/Opt-out  
@@ -98,7 +98,7 @@ Websites that you may link to BSP Rewards or sites that link you to BSP Rewards 
 Online account data including your account balance and transaction information that is gathered by BSP Rewards on your behalf is for your benefit only and will not be shared or released to a third party. It is provided to you only under the BSP Rewards User Acceptance Agreement. This privacy statement and the conditions and policies outlined herein do not imply any contractual or other legal rights in or on behalf of any other party. If you have any questions about this privacy statement, the practices of BSP Rewards, or your dealings with this website, you can contact BSP Rewards by calling during normal business hours (561) 392-4550 or by sending and email to info@bpsrewards.com  
 
 
- **Logifles**  
+**Logfiles**  
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
  **Special Note For Children**  
@@ -133,9 +133,4 @@ BSP Rewards Privacy Department
 [](http://bsprewards.com/index.cfm)  
 1515 N. Federal Hwy. Suite 300  
 Boca Raton, FL 33432-1994  
-Phone: 561.392.4550   Fax: 561.392.9901
-
-© Copyright 2000-2002 All Rights Reserved
-
-Products and names mentioned on BSP Rewards are registered trademarks  
-or trademarks of their respective companies. 
+Phone: 561.392.4550   Fax: 561.864.1095
