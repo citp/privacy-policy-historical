@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hds.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610085233id_/http%3A//www.hds.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hds.com privacy policy that was archived on 2004-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041227052614id_/http%3A//www.hds.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Hitachi Data Systems: Privacy Policy
 
