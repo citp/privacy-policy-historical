@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstrepublic.com privacy policy that was archived on 2001-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211200007id_/http%3A//firstrepublic.com/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstrepublic.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605053221id_/http%3A//firstrepublic.com/privacy/index.html) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/main.dwt" --><head>
 <!-- #BeginEditable "doctitle" --> 
@@ -26,13 +26,6 @@ function MM_reloadPage(init) {  //reloads the window if Nav4 resized
 }
 MM_reloadPage(true);
 // -->
-
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-}
 
 function MM_showHideLayers() { //v3.0
   var i,p,v,obj,args=MM_showHideLayers.arguments;
@@ -112,6 +105,29 @@ function MM_timelineStop(tmLnName) { //v1.2
   else document.MM_Time[tmLnName].ID = null; //stop one
 }
 
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
 function MM_initTimelines() { //v4.0
     //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
     var ns = navigator.appName == "Netscape";
@@ -136,66 +152,29 @@ function MM_initTimelines() { //v4.0
 </script><link rel="stylesheet" href="/common/first_republic_bank_net.css" type="text/css">
 </head>
 
-<body bgcolor="#CCCC99" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#000000" link="336633" vlink="336633" alink="336633" onload="">
-<div id="droplayer" style="position:absolute; z-index:1; left: 229px; top: 13px; visibility: hidden; width: 106px"> 
+<body bgcolor="#CCCC99" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#000000" link="336633" vlink="336633" alink="336633" onload="MM_preloadImages('/images/nav_topdrop_online_hi.gif','/images/nav_topdrop_brokerage_hi.gif','/images/nav_topdrop_interim_trust_hi.gif')">
+<div id="obanking" style="position:absolute; z-index:12; left: 229px; top: 1px; width: 106px; height: 52px; visibility: hidden"> 
   <table border="0" cellspacing="0" cellpadding="0" width="107" name="droptable">
     <tbody><tr> 
-      <td><a href="https://www.firstrepublichb.com/onlineserv/HB" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','show','obrokerage','','hide','otrust','','hide')"><img src="/images/nav_topdrop_online_lo.gif" width="106" height="13" border="0" name="m1i1"></a></td>
+      <td><img src="/images/spacer.gif" width="1" height="12"><br>
+        <a href="https://www.firstrepublichb.com/onlineserv/HB" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image104','','/images/nav_topdrop_online_hi.gif',1)"><img name="Image104" border="0" src="/images/nav_topdrop_online_lo.gif" width="106" height="13"></a></td>
     </tr>
     <tr> 
-      <td><a href="https://firstrepublic.automatedfinancial.com" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop('Timeline1');MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','show','otrust','','hide')"><img src="/images/nav_topdrop_brokerage_lo.gif" width="106" height="12" border="0" name="brokerage"></a></td>
+      <td><a href="https://firstrepublic.automatedfinancial.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image105','','/images/nav_topdrop_brokerage_hi.gif',1)"><img name="Image105" border="0" src="/images/nav_topdrop_brokerage_lo.gif" width="106" height="12"></a></td>
     </tr>
     <tr> 
-      <td><a href="http://www.tpars.com/prod/login.asp?FI=0825A" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','hide','otrust','','show')"><img src="/images/nav_topdrop_interim_trust_lo.gif" width="106" height="14" name="m1i2" border="0"></a></td>
+      <td><a href="http://www.tpars.com/prod/login.asp?FI=0825A" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image106','','/images/nav_topdrop_interim_trust_hi.gif',1)"><img name="Image106" border="0" src="/images/nav_topdrop_interim_trust_lo.gif" width="106" height="14"></a></td>
     </tr>
   </tbody></table>
 </div>
-<div id="obanking" style="position:absolute; z-index:12; left: 229px; top: 13px; visibility: hidden; width: 106px"> 
-  <table border="0" cellspacing="0" cellpadding="0" width="107" name="droptable">
-    <tbody><tr> 
-      <td><a href="https://www.firstrepublichb.com/onlineserv/HB" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','show','obrokerage','','hide','otrust','','hide')"><img src="/images/nav_topdrop_online_hi.gif" width="106" height="13" border="0" name="m1i11"></a></td>
-    </tr>
-    <tr> 
-      <td><a href="https://firstrepublic.automatedfinancial.com" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop('Timeline1');MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','show','otrust','','hide')"><img src="/images/nav_topdrop_brokerage_lo.gif" width="106" height="12" border="0" name="brokerage1"></a></td>
-    </tr>
-    <tr> 
-      <td><a href="http://www.tpars.com/prod/login.asp?FI=0825A" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','hide','otrust','','show')"><img src="/images/nav_topdrop_interim_trust_lo.gif" width="106" height="14" name="m1i21" border="0"></a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="obrokerage" style="position:absolute; z-index:13; left: 229px; top: 13px; visibility: hidden; width: 106px"> 
-  <table border="0" cellspacing="0" cellpadding="0" width="107" name="droptable">
-    <tbody><tr> 
-      <td><a href="https://www.firstrepublichb.com/onlineserv/HB" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','show','obrokerage','','hide','otrust','','hide')"><img src="/images/nav_topdrop_online_lo.gif" width="106" height="13" border="0" name="m1i12"></a></td>
-    </tr>
-    <tr> 
-      <td><a href="https://firstrepublic.automatedfinancial.com" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop('Timeline1');MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','show','otrust','','hide')"><img src="/images/nav_topdrop_brokerage_hi.gif" width="106" height="12" border="0" name="brokerage2"></a></td>
-    </tr>
-    <tr> 
-      <td><a href="http://www.tpars.com/prod/login.asp?FI=0825A" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','hide','otrust','','show')"><img src="/images/nav_topdrop_interim_trust_lo.gif" width="106" height="14" name="m1i22" border="0"></a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="otrust" style="position:absolute; z-index:14; left: 229px; top: 13px; visibility: hidden; width: 106px"> 
-  <table border="0" cellspacing="0" cellpadding="0" width="107" name="droptable">
-    <tbody><tr> 
-      <td><a href="https://www.firstrepublichb.com/onlineserv/HB" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','show','obrokerage','','hide','otrust','','hide')"><img src="/images/nav_topdrop_online_lo.gif" width="106" height="13" border="0" name="m1i13"></a></td>
-    </tr>
-    <tr> 
-      <td><a href="https://firstrepublic.automatedfinancial.com" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop('Timeline1');MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','show','otrust','','hide')"><img src="/images/nav_topdrop_brokerage_lo.gif" width="106" height="12" border="0" name="brokerage3"></a></td>
-    </tr>
-    <tr> 
-      <td><a href="http://www.tpars.com/prod/login.asp?FI=0825A" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_timelineStop();MM_showHideLayers('droplayer','','hide','obanking','','hide','obrokerage','','hide','otrust','','show')"><img src="/images/nav_topdrop_interim_trust_hi.gif" width="106" height="14" name="m1i23" border="0"></a></td>
-    </tr>
-  </tbody></table>
-</div>
+<div id="Trigger1" style="position:absolute; left:210px; top:0px; width:150px; height:90px; z-index:1; visibility: hidden"><a href="javascript:;" onmouseover="MM_showHideLayers('obanking','','hide','Trigger1','','hide')"><img src="/images/spacer.gif" width="150" height="90" border="0"></a></div>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/images/top_back.gif">
   <tbody><tr background="/images/top_back.gif" align="left" valign="top"> 
     <td> 
       <table width="640" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td rowspan="2" width="209" height="58" align="left" valign="top"><a href="/index.html"><img src="/images/frb_logo.gif" width="209" height="58" border="0"></a></td>
-          <td valign="top" align="right" height="13" width="431"><a href="#" onmouseout="MM_timelineGoto('Timeline1','1');MM_timelinePlay('Timeline1')" onmouseover="MM_showHideLayers('droplayer','','show');MM_timelineStop()"><img src="/images/nav_top_login.gif" width="64" height="13" name="Image1" border="0"></a><a href="/locate/index.html"><img src="/images/nav_top_locate.gif" width="66" height="13" border="0"></a><a href="/inv/finmkts/index.asp"><img src="/images/nav_top_markets.gif" width="104" height="13" border="0"></a><a href="/aboutus/index.asp"><img src="/images/nav_top_about.gif" width="61" height="13" border="0"></a><a href="/employ/index.asp"><img src="/images/nav_top_employ.gif" width="79" height="13" border="0"></a><a href="/index.html"><img src="/images/nav_top_home.gif" width="51" height="13" border="0"></a></td>
+          <td rowspan="2" width="209" height="58" align="left" valign="top"><a href="/"><img src="/images/frb_logo.gif" width="209" height="58" border="0"></a></td>
+          <td valign="top" align="right" height="13" width="431"><a href="javascript:;" onmouseover="MM_showHideLayers('obanking','','show','Trigger1','','show')"><img src="/images/nav_top_login.gif" width="64" height="13" name="Image1" border="0"></a><a href="/locate/index.html"><img src="/images/nav_top_locate.gif" width="66" height="13" border="0"></a><a href="/inv/finmkts/index.asp"><img src="/images/nav_top_markets.gif" width="104" height="13" border="0"></a><a href="/aboutus/index.asp"><img src="/images/nav_top_about.gif" width="61" height="13" border="0"></a><a href="/employ/index.asp"><img src="/images/nav_top_employ.gif" width="79" height="13" border="0"></a><a href="/"><img src="/images/nav_top_home.gif" width="51" height="13" border="0"></a></td>
         </tr>
         <tr> 
           <td width="431" height="45" align="right" valign="top"> 
@@ -210,7 +189,7 @@ function MM_initTimelines() { //v4.0
           </td>
         </tr>
         <tr valign="top" align="right"> 
-          <td colspan="2" width="640"><img src="/images/spacer_mainnav.gif" width="138" height="25"><!-- #BeginEditable "tabnav" --><a href="../dep/index.html"><img src="../images/nav_main_dep.gif" width="101" height="25" border="0"></a><a href="../lend/index.html"><img src="../images/nav_main_lend.gif" width="100" height="25" border="0"></a><a href="../inv/index.html"><img src="../images/nav_main_invest.gif" width="100" height="25" border="0"></a><a href="../trustcom/index.html"><img src="../images/nav_main_trust.gif" width="100" height="25" border="0"></a><a href="../busbank/index.html"><img src="../images/nav_main_busbank.gif" width="101" height="25" border="0"></a><!-- #EndEditable --></td>
+          <td colspan="2" width="640"><img src="/images/spacer_mainnav.gif" width="138" height="25"><!-- #BeginEditable "tabnav" --><a href="/dep/"><img src="../images/nav_main_dep.gif" width="101" height="25" border="0"></a><a href="/lend/"><img src="../images/nav_main_lend.gif" width="100" height="25" border="0"></a><a href="/inv/"><img src="../images/nav_main_invest.gif" width="100" height="25" border="0"></a><a href="/trustcom/"><img src="../images/nav_main_trust.gif" width="100" height="25" border="0"></a><a href="/busbank/"><img src="../images/nav_main_busbank.gif" width="101" height="25" border="0"></a><!-- #EndEditable --></td>
         </tr>
       </tbody></table>
     </td>
@@ -243,95 +222,44 @@ function MM_initTimelines() { //v4.0
   <tbody><tr> 
     <td class="bodyreg"> 
       <p><img src="/images/t_privacy.gif" width="325" height="22"></p>
-      <p>At First Republic Bank, we recognize the importance our customer's information 
-        and the need to maintain the utmost security and confidentiality of our 
-        customer's information. In addition to internal policies and procedures 
-        designed to safeguard customer information, we prohibit those we do business 
-        with from any reuse of that information for purposes other than those 
-        intended by First Republic Bank.<br>
+      <p><img src="/images/t_small_howweprotectinfo.gif" width="350" height="16"></p>
+      <p><img src="/images/t_small_whatyoushouldknow.gif" width="350" height="16"></p>
+      <p>At First Republic Bank, we recognize the importance of our customer's information and the need to maintain the utmost security and confidentiality of our customer's information. In addition to internal policies and procedures designed to safeguard customer information, we prohibit those we do business with from any reuse of that information for purposes other than those intended by First Republic Bank. <br>
       </p>
       <table width="100%" border="1" cellspacing="0" cellpadding="10" bordercolor="#000000">
         <tbody><tr> 
           <td class="bodyreg"> 
-            <p> This privacy policy applies to all consumers who have a relationship 
-              with one of the following within the First Republic Bank family, 
-              including: First Republic Bank, First Republic Securities Company, 
-              LLC, and First Republic Trust Company. Trainer Wortham Company, 
-              Inc., which is a separate wholly owned subsidiary of First Republic 
-              Bank, has a separate privacy policy that is consistent with that 
-              of First Republic Bank. Our privacy policy is subject to change. 
-              In the event that changes occur, you will be informed in accordance 
-              with the applicable laws. Additionally, you will be provided with 
-              our privacy policy annually. For purposes of this policy, customer 
-              information means personally identifiable information about a consumer 
-              who has a relationship with one of the entities within the First 
-              Republic Bank family.</p>
+            <p> This privacy policy applies to all consumers who have a relationship with one of the following entities within the First Republic Bank family, including: First Republic Bank, First Republic Securities Company, LLC, and First Republic Trust Company. First Republic Bank also has a number of affiliated companies that have their own privacy policies and include the following: Trainer, Wortham &amp; Company, Starbuck, Tisdale &amp; Associates, and Froley, Revy Investment Company. Our privacy policy is subject to change. In the event that changes occur, you will be informed in accordance with the applicable laws. Additionally, you will be provided with our privacy policy annually. For purposes of this policy, customer information means personally identifiable information about a consumer who has a relationship with one of the entities within the First Republic Bank family.  </p>
           </td>
         </tr>
       </tbody></table>
       <p>Accordingly, at First Republic Bank we have adopted the following:<br>
       </p>
       <p><img src="../images/t_small_custinfo.gif" width="375" height="16"><br>
-        We take a number of steps to ensure that customer information is adequately 
-        safeguarded. These steps include the following: 1) implementing a number 
-        of physical and electronic security features to prevent unauthorized access; 
-        2) limiting employee access to customer information; and, 3) conducting 
-        periodic reviews of our computer systems, including security features. 
-        Additionally, our employees are required to acknowledge their responsibility 
-        to maintain the confidentiality of customer information.<br>
+        We take a number of steps to ensure that customer information is adequately safeguarded. These steps include the following: 1) implementing a number of physical and electronic security features to prevent unauthorized access; 2) limiting employee access to customer information; and, 3) conducting periodic reviews of our computer systems, including security features. Additionally, our employees are required to acknowledge their responsibility to maintain the confidentiality of customer information.<br>
       </p>
       <p><img src="../images/t_small_how.gif" width="375" height="16"><br>
-        We only collect customer information that: 1) we receive on applications 
-        to us for our products and services; 2) we receive from processing your 
-        accounts with us and the transactions in those accounts, such as deposit 
-        accounts and loans, as well as information that we receive from providing 
-        services to you, such as investment advisory, brokerage, or trust services; 
-        3) we receive from a consumer reporting agency (i.e. credit bureau); 4) 
-        we receive about you from those within the First Republic Bank family; 
-        and, 5) we receive in response to requests made to third parties about 
-        you or to confirm information that you have provided to us, particularly 
-        in the process of evaluating applications for loans.<br>
+       We only collect customer information that: 1) we receive on applications to us for our products and services; 2) we receive from processing your accounts with us and the transactions in those accounts, such as deposit accounts and loans, as well as information that we receive from providing services to you, such as investment advisory or trust services; 3) we receive from a consumer reporting agency (i.e. credit bureau); 4) we receive about you from those within the First Republic Bank family; and, 5) we receive in response to requests made to third parties about you or to confirm information that you have provided to use, particularly in the process of evaluating applications for loans.<br>
       </p>
       <p><img src="../images/t_small_howdisclose.gif" width="375" height="16"><br>
-        We may disclose customer information under the following circumstances: 
-        1) to inform you of our other products or services; 2) to verify or complete 
-        a transaction; 3) to verify the existence and condition of your account 
-        for a third party, such as a merchant, another financial institution or 
-        a credit bureau; 4) to a third party who performs functions on behalf 
-        of the Bank; 5) to comply with law, regulation, or a court or government 
-        order or request; or 6) if you or any authorized person on the account 
-        gives us oral or written permission to do so.<br>
+        We may disclose customer information under the following circumstances: 1) to inform you of our other products or services; 2) to verify or complete a transaction; 3) to verify the existence and condition of your account for a third party, such as a merchant, another financial institution or a credit bureau; 4) to a third party who performs functions on behalf of the Bank; 5) to comply with law, regulation, or a court or government order or request; or 6) if you or any authorized person on the account gives us oral or written permission to do so.<br>
       </p>
       <p><img src="../images/t_small_disclose.gif" width="375" height="16"><br>
-        We may disclose customer information to others as follows: 1) parties 
-        who we request to verify the accuracy of information that a customer has 
-        provided to us; 2) parties who have accepted or have been asked to accept 
-        a check drawn by a customer on his or her account, and, 3) parties with 
-        respect to the sale of a loan. Additionally, we provide customer information 
-        to others as permitted by law, which includes: 1) in response to a subpoena, 
-        levy, garnishment or other legal process and 2) in response to a request 
-        by an auditor or Bank examiner.<br>
+        We may disclose customer information to others as follows: 1) parties who we request to verify the accuracy of information that a customer has provided to us; 2) parties who have accepted or have been asked to accept a check drawn by a customer on his or her account, and, 3) parties with respect to the sale of a loan. Additionally, we provide customer information to others as permitted by law, which include: 1) in response to a subpoena, levy, garnishment or other legal process; and 2) in response to a request by an auditor or Bank examiner.<br>
       </p>
       <p><img src="../images/t_small_withinfamily.gif" width="400" height="16"><br>
-        Within the First Republic Bank family, we have several entities that allow 
-        us to provide our customers with an array of financial services that include 
-        investment advisory services, trust services, securities brokerage and 
-        investment services, and self directed investment services. Accordingly, 
-        information about your transactions and experiences are shared with those 
-        entities within the First Republic Bank family in accordance with the 
-        Fair Credit Reporting Act.<br>
+       Within the First Republic Bank family, we have several entities that allow us to provide our customers with an array of financial services that include investment advisory services, trust services, securities brokerage and investment services, and self directed investment services. Accordingly, the entities within the First Republic Bank Family may share some information about you among themselves to provide you with an array of financial services that meet your financial needs.
+<br><br>
+You may request us not to share application information, consumer report information or information from outside sources among the First Republic Bank Family and our affiliates. To do so, please submit your request in writing to: First Republic Bank, 111 Pine Street, San Francisco, CA 94111 Attn: Compliance Department. Once we receive your request in writing, we will stop sharing this information as soon as reasonably possible for all accounts you hold individually and for all accounts you hold jointly with other persons. For accounts held by your joint account holders, either individually or jointly with persons other than you, those joint account holders will need to submit a separate request.
+<br><br>
+Please note that we are permitted under the Fair Credit Reporting Act to share your name, address and facts about your transactions and experience with us (such as your payment history and other transactions on your accounts with us) among the First Republic Family and other First Republic Bank affiliated companies, including Trainer, Wortham &amp; Company, Starbuck, Tisdale &amp; Associates, and Froley, Revy Investment Company.
+<br>
       </p>
       <p><img src="../images/t_small_formercust.gif" width="375" height="16"><br>
-        We apply the same privacy policies and practices to our former customers 
-        that we do to our existing customers. Collected customer information is 
-        retained in accordance with Federal law.<br>
+       We apply the same privacy policies and practices to our former customers that we do to our existing customers. Collected customer information is retained in accordance with Federal law.  <br>
       </p>
       <p><img src="../images/t_small_accuracy.gif" width="375" height="16"><br>
-        At First Republic Bank we recognize the importance of maintaining accurate 
-        customer information that is provided to you in various forms, including 
-        account statements, online banking, and billing statements. If you ever 
-        notice that your information is inaccurate, please contact us. Upon your 
-        notification, we will correct any inaccuracies.<br>
+        At First Republic Bank, we recognize the importance of maintaining accurate customer information that is provided to you in various forms, including account statements, online banking, and billing statements. If you ever notice that your information is inaccurate, please contact us. Upon your notification, we will correct any inaccuracies. <br>
       </p>
       <p><img src="../images/t_small_protectinfo.gif" width="375" height="16"><br>
         There are a number of steps you can take to protect your information, 
@@ -348,12 +276,10 @@ function MM_initTimelines() { //v4.0
         the creditors for any accounts that have been tampered with or opened 
         fraudulently; and, 4) your local police or the police in the community 
         where the identity theft took place. You should also contact the Federal 
-        Trade Commission (FTC) at 1-877-IDTheft or at <a href="http://www.consumer.gov/idtheft" target="new">www.consumer.gov/idtheft</a>.<br>
+        Trade Commission (FTC) at 1-877-IDTheft or at&nbsp;<a href="http://www.consumer.gov/idtheft" target="new">www.consumer.gov/idtheft</a>.<br>
       </p>
       <p><img src="../images/t_small_limitmarket.gif" width="375" height="16"><br>
-        If you wish to remove your name or reduce the amount of marketing mail 
-        or telemarketing calls that you receive, you may do so by notifying the 
-        following in writing:<br>
+       If you wish to remove your name or reduce the amount of marketing mail or telemarketing calls that you receive, you may do so by notifying the following in writing:<br>
       </p>
       <table width="100%" border="0" cellspacing="0" cellpadding="10">
         <tbody><tr> 
@@ -363,7 +289,7 @@ function MM_initTimelines() { //v4.0
               Mail Preference Service<br>
               Direct Marketing Association<br>
               P. O. Box 9008<br>
-              Framingdale, NY 11735-9008<br>
+              Farmingdale, NY 11735-9008<br>
               <a href="http://www.the-dma.org" target="new">www.the-dma.org</a> 
             </p>
           </td>
@@ -372,7 +298,7 @@ function MM_initTimelines() { //v4.0
               Telephone Preference Service<br>
               Direct Marketing Association<br>
               P. O. Box 90014<br>
-              Framingdale, NY 11735-9014<br>
+              Farmingdale, NY 11735-9014<br>
               <a href="http://www.the-dma.org" target="new">www.the-dma.org</a> 
             </p>
           </td>
@@ -381,7 +307,9 @@ function MM_initTimelines() { //v4.0
       </tbody></table>
       <p><img src="../images/t_small_privacyavail.gif" width="375" height="16"><br>
         A copy of First Republic Bank's privacy policy may be obtained by visiting 
-        or contacting any one of our offices or by visiting our Web site at www.firstrepublic.com.<br>
+        or contacting any one of our offices or by visiting our Web site at www.firstrepublic.com.</p>
+      <p><font size="1">This version of the Privacy Policy for Consumers is effective 
+        June 2002.</font><br>
       </p>
     </td>
   </tr>
@@ -390,9 +318,9 @@ function MM_initTimelines() { //v4.0
 <!-- #EndEditable --><br>
 <table width="640" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr align="center" valign="top"> 
-    <td class="footernav"><a href="/dep/index.html">Deposits</a> 
-      | <a href="/lend/index.html">Lending</a> | <a href="/inv/index.html">Investments</a> 
-      | <a href="/trustcom/index.html">Trust Company</a> | <a href="/busbank/index.html">Business 
+    <td class="footernav"><a href="/dep/">Deposits</a> 
+      | <a href="/lend/">Lending</a> | <a href="/inv/">Investments</a> 
+      | <a href="/trustcom/">Trust Company</a> | <a href="/busbank/">Business 
       Banking</a> <br> <a href="/locate/index.html">Locations</a> | <a href="/inv/finmkts/index.asp">Financial 
       Markets</a> | <a href="/aboutus/index.asp">About Us</a> | <a href="/employ/index.asp">Employment</a> | <a href="/">Home</a>
       <br> 
