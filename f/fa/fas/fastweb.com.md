@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2002-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020907223942id_/http%3A//www3.fastweb.com/fastweb/content/aboutus/privacy.ptml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401102203id_/http%3A//www2.fastweb.com/fastweb/content/aboutus/privacy.ptml) for the most accurate reproduction.*
 
 # FastWeb: Privacy at FastWeb
 
@@ -79,7 +79,7 @@ _Other_ \--In the event that FastWeb sells, assigns or transfers some or all of 
 
 _Links to Other Sites_ \--This site contains links to other sites. Please be aware that FastWeb does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site. 
 
-_Choice/Opt-out_ \--FastWeb users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from FastWeb by clicking [here](https://web.archive.org/fastweb/misc/privacy-prefs.ptml?ID=). FastWeb will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to answer your questions. 
+_Choice/Opt-out_ \--FastWeb users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from FastWeb by clicking [here](https://web.archive.org/fastweb/all/misc/privacy-prefs.ptml?ID=). FastWeb will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to answer your questions. 
 
 
 
