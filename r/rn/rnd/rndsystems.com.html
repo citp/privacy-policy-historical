@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rndsystems.com privacy policy that was archived on 2003-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401113230id_/http%3A//rndsystems.com/asp/g_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rndsystems.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202020814id_/http%3A//www.rndsystems.com/asp/g_privacy.asp) for the most accurate reproduction.-->
 
 <html><head><title>R &amp; D Systems - Privacy Policy</title>
 
@@ -57,16 +57,27 @@
 
 <script language="Javascript">
 	<!--
+		//alert('name: '+navigator.appName+' version: '+navigator.appVersion+' agent: '+navigator.userAgent);
 		if (navigator.appName == "Microsoft Internet Explorer"){
-				document.write ('<link rel="stylesheet" TYPE="text/css" href="../css/IE.css">')
+			//alert('ie');		
+			document.write ('<link rel="stylesheet" TYPE="text/css" href="../css/ie.css">')
 		}
-		else {
-			if  (navigator.appName == "Netscape"){
-					document.write ('<link rel="stylesheet" TYPE="text/css" href="../css/NS.css">')
+		else if  (navigator.appName == "Netscape"){
+			if ((navigator.userAgent).indexOf("Netscape/7") > 0 || (navigator.userAgent).indexOf("Netscape6/6.2.3") > 0) {
+				//alert('ns7');	
+				document.write ('<link rel="stylesheet" TYPE="text/css" href="../css/ns7.css">')
+			}
+			else if ((navigator.userAgent).indexOf("Netscape6/6.01") > 0) {	
+				//alert('ns6');		
+				document.write ('<link rel="stylesheet" TYPE="text/css" href="../css/ns6.css">')
+			}
+			else{
+				//alert('ns');	
+				document.write ('<link rel="stylesheet" TYPE="text/css" href="../css/ns.css">')
 			}
 		}
 	//-->
-	</script><link rel="stylesheet" type="text/css" href="../css/NS.css">
+	</script><link rel="stylesheet" type="text/css" href="../css/ns.css">
 
 
 
@@ -118,7 +129,7 @@ PreLoadImages()
 
 </head>
 
-	<body bgcolor="#FFFFFF" onload="document.Search.Query.focus();loaded=true;" style="background-image: url();background-attachment:fixed;background-repeat:no-repeat;background-position: 0% 0%" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+	<body bgcolor="#FFFFFF" style="background-image: url();background-attachment:fixed;background-repeat:no-repeat;background-position: 0% 0%" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 	<script>
 // Check App Version
 var app
@@ -248,30 +259,49 @@ function MM_swapImage() { //v2.0
 </script>
 
 
-	<table border="0" bordercolor="RED" cellpadding="0" cellspacing="0" width="760" height="100%">
+	<table border="0" bordercolor="RED" cellpadding="0" cellspacing="0" width="100%" height="100%">
 	
 	
 	<tbody><tr>
-		<td valign="TOP" width="133" bgcolor="#999999"><img src="../images/dot_clear.gif" width="135" height="15" alt=""><br clear="ALL">
-<div align="CENTER">
-<a href="../asp/g_home.asp"><img src="../images/g_RNDLogoOnGray_bg.gif" border="0" width="112" height="70"></a>
+		<td valign="TOP" width="135" bgcolor="#999999">
+	<form name="Search" action="../asp/g_search.asp" method="POST" hspace="0" vspace="0" leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
 
+<div align="CENTER">
+
+<table cellpadding="0" cellspacing="0" border="0" width="135" height="161">
+	<tbody><tr valign="CENTER" height="148"><td align="CENTER">
+		<img src="../images/blank.gif" width="1" height="3" alt=""><br>
+			
+		<a href="../asp/g_home.asp"><img src="../images/g_RNDLogoOnGray_bg.gif" border="0" width="112" height="70"></a>
+	</td></tr>
+	<tr height="13"><td>
+		
+			<img src="../images/dot_clear.gif" width="135" height="13" alt="">
+		
+	</td></tr>		
+</tbody></table>
+	
 
 <!--Search Box //-->
-<form name="Search" action="../asp/g_search.asp" method="POST" hspace="0" vspace="0" leftmargin="0" bottommargin="0" topmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
-<input type="TEXT" name="Query" size="12" value=""><br clear="ALL">
-<img src="../images/dot_clear.gif" width="1" height="4" alt=""><br clear="ALL">
+<img src="../images/g_SiteSearch_ng.gif"><br>
+<input type="TEXT" name="Query" size="9" value=""><br clear="ALL">
+<img src="../images/g_ProductSeach_ng.gif"><br>
+<input type="TEXT" name="ProductQuery" size="9" value=""><br clear="ALL">
+<img src="../images/dot_clear.gif" width="1" height="10" alt=""><br clear="ALL">
 <input type="HIDDEN" name="anyall" value="0">
-<!--
-<select name="anyall" ><option value="1"><FONT FACE="ARIAL,HELVETICA" SIZE="2">All of the words</font></option><option value="0" selected><FONT FACE="ARIAL,HELVETICA" SIZE="2">Any of the words</font></option></select><BR>
-//-->
-<br>
 <input type="image" value="submit" src="../images/g_Search_bb.gif" width="62" height="18" border="0" id="image1" name="image1">
-<br>
-<a href="../asp/g_SearchTips.asp"><font face="ARIAL" size="1" color="#FFFFFF">Tips</font></a>
-</form>
+
 
 <!-- BEGIN LivePerson Button Code //-->
+<script language="Javascript">
+	<!--
+		if  (navigator.appName == "Netscape"){
+			if  ((navigator.appVersion).substring(0,3) == "5.0"){			
+				document.write ('<BR><BR>');
+			}
+		}
+	//-->
+</script><br><br>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td align="center"><a href="http://server.iad.liveperson.net/hc/75334893/?cmd=file&amp;file=visitorWantsToChat&amp;site=75334893&amp;byhref=1&amp;AEPARAMS" target="chat75334893" onclick="window.open('http://server.iad.liveperson.net/hc/75334893/?cmd=file&amp;file=visitorWantsToChat&amp;site=75334893&amp;AEPARAMS&amp;referrer='+document.location,'chat75334893','width=472,height=320');return false;"><img src="http://server.iad.liveperson.net/hc/75334893/?cmd=repstate&amp;site=75334893&amp;imageUrl=http://www.rndsystems.com/images/&amp;ver=1&amp;AEPARAMS" name="hcIcon" width="116" height="40" border="0"></a>
@@ -280,38 +310,42 @@ function MM_swapImage() { //v2.0
 </tbody></table><!-- END LivePerson Button code //-->
 <br>
 <img src="../images/blank.gif" width="1" height="6"><br>
-<a href="../asp/c_index.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img1','document.img1','../images/g_CatalogX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img1" border="0" src="../images/g_CatalogU_nb.gif" width="123" height="13" alt="Catalog"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
-<a href="../asp/c_newproducts.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img2','document.img2','../images/g_NewProductsX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img2" border="0" src="../images/g_NewProductsU_nb.gif" width="123" height="11" alt="New Products"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
-<a href="../asp/r_index.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img3','document.img3','../images/g_ReviewsX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img3" border="0" src="../images/g_ReviewsU_nb.gif" width="123" height="26" alt="Reviews &amp; Tech Notes"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
-<a href="../asp/b_index.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img4','document.img4','../images/g_CytokineX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img4" border="0" src="../images/g_CytokineU_nb.gif" width="123" height="13" alt="Cytokine Bulletin"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
-<a href="../asp/g_sitebuilder.asp?bodyId=442" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img5','document.img5','../images/g_CustomerServiceX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img5" border="0" src="../images/g_CustomerServiceU_nb.gif" width="123" height="13" alt="Customer Service"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
-<a href="../asp/g_sitebuilder.asp?bodyId=430" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img6','document.img6','../images/g_CalendarX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img6" border="0" src="../images/g_CalendarU_nb.gif" width="123" height="14" alt="Calendar"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
-<a href="../asp/g_sitebuilder.asp?Bodyid=445" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img7','document.img7','../images/g_CytoTestingX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img7" border="0" src="../images/g_CytoTestingU_nb.gif" width="123" height="14" alt="Cytokine Testing Service"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
-<a href="../asp/hem_g_home.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img8','document.img8','../images/g_HematologyX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img8" border="0" src="../images/g_HematologyU_nb.gif" width="123" height="14" alt="Hematology"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
+<a href="../asp/c_login.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img1','document.img1','../images/g_LoginX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img1" border="0" src="../images/g_LoginU_nb.gif" width="123" height="35" alt="Login for U.S. Pricing"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
+<a href="../asp/c_index.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img2','document.img2','../images/g_CatalogX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img2" border="0" src="../images/g_CatalogU_nb.gif" width="123" height="13" alt="Catalog"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
+<a href="../asp/c_newproducts.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img3','document.img3','../images/g_NewProductsX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img3" border="0" src="../images/g_NewProductsU_nb.gif" width="123" height="11" alt="New Products"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
+<a href="../asp/r_index.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img4','document.img4','../images/g_ReviewsX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img4" border="0" src="../images/g_ReviewsU_nb.gif" width="123" height="26" alt="Reviews &amp; Tech Notes"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
+<a href="../asp/b_index.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img5','document.img5','../images/g_CytokineX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img5" border="0" src="../images/g_CytokineU_nb.gif" width="123" height="13" alt="Cytokine Bulletin"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
+<a href="../asp/g_sitebuilder.asp?bodyId=442" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img6','document.img6','../images/g_CustomerServiceX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img6" border="0" src="../images/g_CustomerServiceU_nb.gif" width="123" height="13" alt="Customer Service"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
+<a href="../asp/g_sitebuilder.asp?BodyId=445" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img7','document.img7','../images/g_CytoTestingX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img7" border="0" src="../images/g_CytoTestingU_nb.gif" width="123" height="14" alt="Cytokine Testing Service"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
+<a href="../asp/hem_g_home.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img8','document.img8','../images/g_HematologyX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img8" border="0" src="../images/g_HematologyU_nb.gif" width="123" height="35" alt="Hematology"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
 <a href="../asp/g_jobs.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img9','document.img9','../images/g_JobOpportunitiesX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img9" border="0" src="../images/g_JobOpportunitiesU_nb.gif" width="123" height="14" alt="Job Opportunities"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
 <a href="http://www.techne-corp.com" target="_techne" onmouseover="RI_swapImgRestore();RI_swapImage('document.img10','document.img10','../images/g_TechneX_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img10" border="0" src="../images/g_TechneU_nb.gif" width="123" height="11" alt="Techne"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
 <a href="../asp/g_home.asp" target="_self" onmouseover="RI_swapImgRestore();RI_swapImage('document.img11','document.img11','../images/g_BiotechHomeU_nb.gif');" onmouseout="RI_swapImgRestore();"><img name="img11" border="0" src="../images/g_BiotechHomeX_nb.gif" width="123" height="14" alt="Biotech Home"></a><br><img src="../images/blank.gif" width="1" height="12"><br>
-</div>
+</div></form>
+
 </td>
-		<td valign="TOP" width="2" bgcolor="#000000"><img src="../images/blank.gif" width="2" height="1"></td>
-		<td valign="TOP" align="LEFT" width="625">
-		<table border="0" cellpadding="0" cellspacing="0" width="625">
+		
+			<td valign="TOP" width="2" bgcolor="#000000"><img src="../images/blank.gif" width="2" height="1"></td>
+		
+		<td valign="TOP" align="LEFT" width="100%">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" valign="TOP">
 		<tbody><tr>
 	
 			<!--Navigation Menu-->
-			<td colspan="2" valign="TOP" align="LEFT"><table width="625" cellpadding="0" cellspacing="0" border="0">
+			<td colspan="2" valign="TOP" align="LEFT">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr height="26">
 					<td bgcolor="#999999" valign="left" width="21"><img src="../images/dot_clear.gif" width="21" height="26" alt=""></td>
-					<td bgcolor="#999999" valign="middle" width="604"><img src="../images/dot_clear.gif" width="1" height="26"></td>	
-					<td bgcolor="#000000"><img src="../images/dot_clear.gif" width="2" height="2"></td>
+					<td bgcolor="#999999" valign="middle" width="100%"><img src="../images/dot_clear.gif" width="1" height="26"></td>	
+					<td bgcolor="#000000" width="2"><img src="../images/dot_clear.gif" width="2" height="2"></td>
 				</tr>
 				
 				<tr height="2"><td bgcolor="#000000" colspan="3"><img src="../images/dot_clear.gif" width="1" height="2"></td></tr>
 	
 				<tr height="18">
 					<td bgcolor="#006699" valign="left" width="21"><img src="../images/dot_clear.gif" width="21" height="18" alt=""></td>
-					<td bgcolor="#006699" valign="middle" width="604"><img src="../images/dot_clear.gif" width="1" height="18"></td>
-					<td bgcolor="#000000"><img src="../images/dot_clear.gif" width="2" height="2"></td>
+					<td bgcolor="#006699" valign="middle" width="100%"><img src="../images/dot_clear.gif" width="1" height="18"></td>
+					<td bgcolor="#000000" width="2"><img src="../images/dot_clear.gif" width="2" height="2"></td>
 				</tr>
 	
 				<tr height="2"><td bgcolor="#000000" colspan="3"><img src="../images/dot_clear.gif" width="1" height="2"></td></tr>
@@ -319,19 +353,18 @@ function MM_swapImage() { //v2.0
 			</tbody></table></td>
 	
 	</tr>
-	
-	
+
 	<tr>
-		<td width="10" valign="TOP"><img src="../images/dot_clear.gif" width="10" height="2"><br clear="ALL">
+	<td width="10" valign="TOP"><img src="../images/dot_clear.gif" width="10" height="2"><br clear="ALL">
 	
 	
 	<br clear="ALL">
 	
 	
 	</td>
-		<td align="LEFT" valign="TOP"><br>
-
-
+	
+		<td align="LEFT" valign="TOP">
+	<br>
 
 	<!--Content-->
 <h1 align="center">Privacy Policy Statement</h1>This is the web site of <b>R &amp; D Systems Inc.</b>.<br>
@@ -357,60 +390,41 @@ Consumers can have this information corrected by sending us e-mail at the above 
 <p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
 	
 
-<br><br>
-
-
-
-<table border="0" width="100%">
-	<tbody><tr valign="MIDDLE">
-		<td align="CENTER" colspan="2">
-			<hr width="100%" height="1">
-		</td>
-	</tr>
-	<tr valign="TOP">
-		<td><font face="ARIAL,HELVETICA" size="2">Copyright ©2002	 R&amp;D Systems.<br>
-			All rights reserved.<br>
-			Comments or questions?<br>
-			<a href="javascript:SendTo('info@rndsystems.com')">info@rndsystems.com</a><br>
-			<a href="../asp/g_privacy.asp">Privacy Policy</a><br>
-			<a href="http://www.ruckusinteractive.com" target="_new">Site Credits</a>
-
-			</font></td>
-
-		<td align="RIGHT">
-			<font face="ARIAL,HELVETICA" size="2">R&amp;D Systems<br>
-			614 McKinley Place NE<br>
-			Minneapolis, MN 55413<br>Tel: 1-800-343-7475<br>
-			(612) 379-2956<br>
-			Fax: (612) 379-6580</font></td>
-	</tr>
-</tbody></table>
-
-<form name="SendTo" method="POST" action="../asp/a_contactform.asp">
-<input type="HIDDEN" name="SendTo" value="">
-</form>
-
-<script language="Javascript">
-<!--
-
-function SendTo(x)
-{
-document.SendTo.SendTo.value=x;
-document.SendTo.submit();
-}
-
-//-->
-</script>
-
-	
-	<!--Channged on February 15 by Jake </TR></TD></TABLE>-->
-	</td></tr></tbody></table>
-
-
 </td></tr></tbody></table>
 
 
+	</td></tr>
+
+	<tr valign="BOTTOM">
+		<td valign="TOP" width="135" bgcolor="#999999"><img src="../images/blank.gif" width="135" height="100%"></td>
 	
-	<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script languge="javascript" src="http://server.iad.liveperson.net/hc/75334893/x.js?cmd=file&amp;file=chatScript3&amp;site=75334893&amp;imageUrl=http://www.rndsystems.com/images/"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+		<td valign="TOP" width="2" bgcolor="#000000"><img src="../images/blank.gif" width="2" height="1"></td>
+		<td>	
+
 	
+	
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="left">
+ <tbody><tr> 
+    <td class="FooterRow">
+      <div class="FooterText">
+        <font color="#FFFFFF"><b>USA</b>&nbsp;&nbsp;</font> 
+        <font color="#DDDDDD">|&nbsp;&nbsp;<b>tel: 1 (800) 343-7475</b>&nbsp;&nbsp;|&nbsp;&nbsp;</font>
+        <b><a href="http://www.rndsystems.com/asp/a_offices.asp" class="FooterLink">Click here for other locations worldwide</a></b><br>
+        <font color="#FFCC33"><b>everything cytokine &amp; beyond</b></font><br>
+        <font color="#DDDDDD">Copyright 2003 ©R&amp;D Systems. All rights reserved. 
+        <br>Comments or questions?&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:info@rndsystems.com" class="FooterLink">info@rndsystems.com</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="http://www.rndsystems.com/asp/g_privacy.asp" class="FooterLink">Privacy Policy</a></font>
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+	
+	<!--Channged on February 15 by Jake </TR></TD></TABLE>-->
+	</td></tr></tbody></table>
+	
+
+		
+		<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script languge="javascript" src="http://server.iad.liveperson.net/hc/75334893/x.js?cmd=file&amp;file=chatScript3&amp;site=75334893&amp;imageUrl=http://www.rndsystems.com/images/"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+		
+
 </body></html>
