@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603225937id_/http%3A//texasmonthly.com/admin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204195158id_/http%3A//texasmonthly.com/admin/privacy.php) for the most accurate reproduction.*
 
 # Texas Monthly: Privacy Statement
 
@@ -6,18 +6,18 @@
 
 TEXAS MONTHLY has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site. This information may be updated or changed without notice.
 
-|  |  |   
-[](http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=126x600;ptile=2;ord=50189656?)  
+|  |  |    
+[](http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=126x600;tile=4;ord=1331915606?)  
   
-[](https://web.archive.org/events/index.php)  
+[](https://web.archive.org/shopping/txbride/index.php)  
   
-[](https://web.archive.org/shopping/domain/index.php)  
+[](https://web.archive.org/events/ford/part_four/index.htm)  
   
-[](https://web.archive.org/shopping/hawaii/index.php)  
+[](https://web.archive.org/events/forecast)  
   
-[](https://web.archive.org/shopping/learningcurve/index.php)  
+[](https://web.archive.org/travel/travel_planner/index.php)  
   
-[](https://web.archive.org/shopping/greatescapes/index.php)  
+[](https://web.archive.org/events/newnext)  
   
 |   
 Our Pledge | 
@@ -38,11 +38,11 @@ This site contains links to other sites. TEXAS MONTHLY is not responsible for th
   
 Co-Branded Sites | 
 
-TEXAS MONTHLY has relationships with **[Hotel Reservations Network](http://www.hoteldiscounts.com/)** and **[SMARTpages](http://www.smartpages.com/)** whereby these companies may maintain TEXAS MONTHLY co-branded Web sites. TEXAS MONTHLY is not responsible for the privacy practices or the content of these Web sites. Any information collected by these sites is received by our partners. This information may be shared with TEXAS MONTHLY on an aggregate basis. TEXAS MONTHLY receives commissions from these companies.  
+TEXAS MONTHLY has relationships with  **[SMARTpages](http://www.smartpages.com/)** whereby these companies may maintain TEXAS MONTHLY co-branded Web sites. TEXAS MONTHLY is not responsible for the privacy practices or the content of these Web sites. Any information collected by these sites is received by our partners. This information may be shared with TEXAS MONTHLY on an aggregate basis. TEXAS MONTHLY receives commissions from these companies.  
   
 Affiliate Agreements | 
 
-TEXAS MONTHLY has affiliate agreements with **[Amazon.com](http://www.amazon.com/)** and **[Cooking.com](http://www.cooking.com/)**. TEXAS MONTHLY receives commissions from these companies if you visit their site from ours by clicking on a text link, banner ad, icon, or other advertisement, and purchase a product from them.  
+TEXAS MONTHLY has affiliate agreements with **[BookPeople](http://www.bookpeople.com/)**. TEXAS MONTHLY receives commissions from BookPeople if you visit their site from ours by clicking on a text link, banner ad, icon, or other advertisement, and purchase a product from them.  
   
 Surveys & Contests | 
 
@@ -70,7 +70,7 @@ We use an outside advertising service ([ **DoubleClick**](http://www.doubleclick
   
 Choice/Opt-Out | 
 
-You'll never receive communications from us without your permission. If you no longer wish to recieve email from us...
+You'll never receive communications from us without your permission. If you no longer wish to receive email from us...
 
   * You can send email to [newmedia@texasmonthly.emmis.com](https://web.archive.org/admin/mailform.php?id=New%20Media%20Department)
   * You can visit the following URL:  
