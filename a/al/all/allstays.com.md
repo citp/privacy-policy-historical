@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610132754id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204134030id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AllStays(tm)
 
@@ -9,8 +9,6 @@ PRIVACY POLICY**
 **Last Updated: January 1st, 2004.**
 
 AllStays is concerned about privacy on the internet. Please read the following to learn more about our privacy policy. Our site does not contain any objectionable material and is not adult-oriented in any manner. 
-
-**NOTE: The Federal Trade Commission has a bulletin with important information on the internet.[Click here to view](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) **
 
 **What this Privacy Policy Covers**  
 
@@ -33,7 +31,7 @@ AllStays is concerned about privacy on the internet. Please read the following t
     * We only have your consent to share the information; 
     * We need to share your information to provide the product or service you have requested or contracted; 
     * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20040610132754id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
+    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20041204134030id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
 
 **Cookies And AllStays**  
 
