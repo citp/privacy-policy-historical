@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402131820id_/http%3A//www.theidm.com/index.cfm%3Ffuseaction%3DcontentDisplay.%26chn%3D1%26tpc%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207083939id_/http%3A//www.theidm.com/index.cfm%3Ffuseaction%3DcontentDisplay.%26chn%3D1%26tpc%3D6) for the most accurate reproduction.*
 
-# Institute of Direct Marketing
+# The IDM respects and safeguards your privacy
 
 Whenever and wherever we collect, process or use personal data, we take steps to ensure that it is treated securely and in accordance with our privacy policy. Whenever you give us personal data, you are consenting to its collection and use in accordance with this privacy policy (including our use of cookies as explained below).
 
