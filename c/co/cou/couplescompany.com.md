@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606101220id_/http%3A//www.couplescompany.com/Company/NewCompany/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215003310id_/http%3A//www.couplescompany.com/Company/NewCompany/privacy.htm) for the most accurate reproduction.*
 
-# Search
+# Couples Company: Privacy Policy and Legal Disclaimer
 
   
-**Legal Disclaimer:  **
+** Legal Disclaimer:  **
 
 The articles, opinions and views provided on Couples Company are not intended as medical, legal or financial advice.  All information is provided for **entertainment purposes only**. Features are authored by licensed psychologists, mental health professionals, legal, financial and other experts or by journalists.  Additional content is provided by affiliated companies and Couples Company patrons.  Articles and content contained herein are not to be used as a substitute for medical attention, diagnosis, treatment, or other professional mental health or medical services. As laws, details and personal situations vary from person to person and state to state, articles and content contained  herein are not and cannot to be used as a substitute for legal, parental. health, mental health, career or financial advice. 
 
-**Couples Company  Privacy Policy**
+**Couples Company   Privacy Policy**
 
 Privacy is as important to us as it is to you. Our founder is a staunch adversary (and really, really, really detests) unsolicited e-mail, direct mail and intrusive telemarketing, which is one of the reasons why at  The Couples Company & via CouplesCompany.com we are commitment to protecting your privacy. We will never sell, rent, publish or distribute your name, email address or other identifiable information collected via the Couples Club registration, during an e-commerce transaction, Web site features or CC cookies to any third party without your consent. In the event that we are sold or acquired by a 3rd party, all members with current contact information will be given the opportunity to remove their information from our systems prior to the transfer or merging of assets.     TOP
 
@@ -74,7 +74,7 @@ Cookies are like your business card and they tell us whether you have visited Co
 Cookies allow you to save time and frustration by storing the user names and passwords you use on our site and information on past purchases and personal preferences. By doing this, you do not have to re-enter the information. Should you disable the use of cookies on your browser, you will need to re-enter this information whenever you visit our site. CouplesCompany.com will not and cannot use cookies to retrieve personal information about you from your computer.   TOP
 
 Opt-Out  
-CouplesCompany.com provides customers the opportunity to opt-out of receiving communications from us during your Couples Club registration. We give you the following options to change or modify your information in our database and to choose not to receive future communications. Please review our **[Zero Tolerance Spam Policy.](https://web.archive.org/web/20040606101220id_/http%3A//www.couplescompany.com/PreLaunchFAQ.htm#SPAM)**   This is as much for our members' benefit as our own.
+CouplesCompany.com provides customers the opportunity to opt-out of receiving communications from us during your Couples Club registration. We give you the following options to change or modify your information in our database and to choose not to receive future communications. Please review our **[Zero Tolerance Spam Policy.](https://web.archive.org/web/20041215003310id_/http%3A//www.couplescompany.com/PreLaunchFAQ.htm#SPAM)**   This is as much for our members' benefit as our own.
 
   1. You can [send email](mailto:question@couplescompany.com?subject=Privacy%20Policy%20Inquiry)
   2. You can visit the Couples Club Home Page (sign-in required)
@@ -86,9 +86,8 @@ TOP
 **Contacting CouplesCompany.com  
 **For Questions, concerns and curiosities about the CouplesCompany.com privacy statement and Web site, please contact us at:
 
-**Couples Company  
-3300 NW 185th, #259   
+**Couples Company, Inc.  
+3300 NW 185th, #259    
 Portland, OR. 97229**
 
-**(503) 645-2818  
-**FAX:  **1 (413) 714-3777**
+**(503) 645-2818**  Couples Company Inc is an Idaho Corporation.
