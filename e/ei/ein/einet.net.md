@@ -1,40 +1,32 @@
-> *The following text is extracted and transformed from the einet.net privacy policy that was archived on 1999-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990418011059id_/http%3A//www.einet.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einet.net privacy policy that was archived on 2000-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000505164956id_/http%3A//www.einet.net/galaxy/Info/privacy.html) for the most accurate reproduction.*
 
-# 
+# Galaxy: Privacy Policy
 
-  
+**Privacy Policy Notice**
 
+We at Galaxy, owned and operated by AHN/FIT Internet, LLC (referred to as "Galaxy"), understand that the Internet presents an opportunity for us to reach you, the public, in new and exciting ways with information about our programming, interactive content, news, and other forms of interaction. Visitors to our Web sites can be confident that we are very respectful of their privacy concerns. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as name, address or e-mail address, is automatically collected from visitors to our site. 
 
-###  Galaxy Privacy Policy
+Galaxy encourages parents to supervise their children's activities online and to participate with their children whenever possible and to consider installing parental control tools available from online services and software manufacturers that help ensure children's safety online. These tools can prevent children from disclosing personally identifiable information, such as their name, address or e-mail address without parental permission. Galaxy does not knowingly collect personally identifiable information from children under the age of 13. **You must be 18 years or older to make any purchases on Galaxy.**
 
-Galaxy collects personal information from visitors to provide you the best online service possible. We may collect personal information from you when you register to participate in a chat room, participate in an online survey, or purchase merchandise from our vendors. We may use such information to track compliance with the [Terms of Use Agreement](https://web.archive.org/web/19990418011059id_/http%3A//www.einet.net/copyright.html), for editorial and feedback purposes, or to fulfill product purchases. 
+By using our Web sites, you agree to the Privacy Policy and Terms of Use of Galaxy. If you do not agree to the Policy or Terms of Use, please do not use our Web sites. Galaxy reviews its Privacy Policy and Terms of Use periodically and reserves the right in its discretion, to modify or remove portions of this Policy, or the Terms of Use at any time. This page should be reviewed periodically so that you are updated on any changes. If you would like to communicate with us about our Privacy Policy, please email us at:[staff@galaxy.com](mailto:staff@galaxy.com). 
 
-####  Policies for Users Over 18 Years of Age:
+**NOTICE**  
+Galaxy will notify you when it is collecting personally identifiable information about you, as well as the use or uses Galaxy intends to make with such information. For example, we may need to collect information to respond to your requests for search results, buying products, requesting information, or to allow you to send or post messages, or for billing purposes. We also keep information about customers, individual shopping sessions, and purchases in a secure database on our servers in order to fulfill online transaction and banking requirements. 
 
-  * Information submitted to Galaxy may be used for marketing and promotional purposes by AHN Partners, L.P. and may be shared with other companies and organizations.
-  * We will not use your information for such purposes if you register your objection at the time of registration.
+**IP ADDRESSES**  
+We may collect and disclose certain non-personal information from your IP address. This information is used only to provide an enhanced on-line experience for our visitors by optimizing our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). We may also use this non-personal information to determine the total number of visitors to our Web sites. 
 
+**USE OF COOKIES**  
+When you view our Web site, we may store some information on your computer. This information will be in the form of a 'Cookie' or similar file and will help us in many ways. For example, Cookies allow us to tailor a Web site to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. 
 
+**PERSONALLY IDENTIFIABLE INFORMATION**  
+Personally identifiable information about our visitors is collected only when knowingly and voluntarily submitted by those visitors. Galaxy uses such information only for the purpose for which it was submitted, unless we disclose other uses at the time of collection. Galaxy does not sell personal information to third parties. Galaxy may share personally identifiable information with other parts of our company, but this will never be used on an individual basis outside of the company. Galaxy maintains appropriate safeguards to ensure the security, integrity, and privacy of personally identifiable information in its possession. Galaxy may use such personally identifiable information in the aggregate (non-identifiable) form to make our Web site better and more responsive to the needs of our visitors. This statistical compilation of non-identifiable information may also be used by or provided to others for marketing, advertising, or research purposes. 
 
-####  Policies for Users Under 18 Years of Age:
+**LINKS TO OTHER SITES**  
+Galaxy chooses its advertisers and business partners carefully. However, Galaxy is not responsible for the content or privacy practices of Web sites operated by third parties that are linked to our Web sites. These links are meant for the visitor's convenience only. Links to third party Web sites do not constitute sponsorship, endorsement, or approval by Galaxy of content, policies or practices of such sites. Once you have left a Galaxy Web site via such a link, you should check the applicable privacy policy of the third party site. Galaxy may also be linked to Web sites operated by companies affiliated with Galaxy. Visitors to those sites should refer to their separate privacy policies and practices. 
 
-  * We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites.
-  * Visitors under 18 should not submit any information to Galaxy without the consent of their parent or guardian.
-  * Information collected from visitors under 18 will not be used for marketing or promotional purposes outside of Galaxy. Galaxy will request consent from visitors under 18 and their parent or guardian any time we intend to use information collected from visitors under 18 for any marketing or promotional purposes outside Galaxy.
-  * Galaxy will use its best efforts to avoid posting the email address or complete name of any visitor to Galaxy under the age of 18 without express, written consent of the underage visitor's parent or guardian.
+**SWEEPSTAKES AND/OR CONTESTS**  
+From time to time, sweepstakes, contests, games and other promotions may run on Galaxy Web sites which may require the visitor to provide some personally identifiable information such as full name, address, e-mail address, and phone number, in order to participate. Galaxy may use a reputable third party to manage and administer some of its sweepstakes and/or contests. This third party may have access to some of the personally identifiable information that is provided by the visitor in order to participate in the sweepstakes and/or contest. In those instances, the third party will be instructed by Galaxy to use the personally identifiable information only for the specific sweepstakes and/or contest related purpose for which it was requested. Most often this information is used only to select and contact winners of the sweepstakes and/or contests. Any other use of the personally identifiable information by the third party is strictly prohibited. Our sweepstakes and/or contests are targeted to individuals 18 years of age and older, individuals under 18 years of age are not eligible to participate. Galaxy requires proof of age in order to collect any prizes awarded. 
 
-
-
-####  Use of ``Cookies''
-
-Cookies are bits of information that a Web site transfers to an individual's hard drive for record- keeping purposes. Cookies can enhance your online experience by automatically saving your personal information, purchases, and preferences while you visit our sites. 
-
-We use cookies because they show us which features of our sites our guests enjoy most by telling us how many guests visit which pages. We do not share this information with others. 
-
-You can set your Internet browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Galaxy is not responsible for the privacy policies of Web sites not owned and operated by AHN Partners, L.P., that are accessed through a Web site owned and operated by AHN Partners, L.P. 
-
-AHN Partners, L.P., reserves the right to change this policy at any time, without advance notice; however, any new policies will not become effective until posted at this online location. 
-
-Questions about this privacy policy should be directed to galaxy@einet.net. 
+**CHAT ROOMS, MESSAGE BOARDS AND SUBMISSIONS**  
+Should any visitor to Galaxy Web site provide information, questions, comments, suggestions, ideas or any material through the feedback mechanisms located in the Web site, Galaxy shall have no obligation of any kind with respect to such information and shall be free to reproduce, use, disclose and distribute the information to others without limitation. The information expressed in any Message Boards or chat rooms, or other forums conducted on Galaxy ("Forums"), if any, are not necessarily those of Galaxy or its affiliated or related entities or content providers and Galaxy makes no representations or warranties regarding that information or those opinions. 
