@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsportsarizona.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202204815id_/http%3A//www.foxsports.com/named/Legal/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsportsarizona.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604042029id_/http%3A//www.foxsports.com/named/Legal/privacyPolicy) for the most accurate reproduction.*
 
 # FOXSports.com | Privacy Policy
 
@@ -78,3 +78,9 @@ e-mail: Privacy@FoxCable.com
 
 
 You may also request a written response to your concerns, which will be made no later than thirty (30) days after you contact FOX. 
+
+Statistical Information provided by:  
+[](http://www.foxsports.com/extlink?url=http%3a%2f%2fbiz%2estats%2ecom)
+
+  
+
