@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelonline.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212051929id_/http%3A//www.channelonline.com/us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelonline.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604010745id_/http%3A//www.channelonline.com/us/privacy.asp) for the most accurate reproduction.*
 
 # ChannelOnline - Privacy policy
 
@@ -32,9 +32,9 @@ Any modifications to CNET Channel's practices regarding user data will be reflec
 |   
 |   
 ---  
-| [_CNET Channel_](http://www.cnetchannel.com/)  : [ _ChannelOnline™_](https://web.archive.org/us/)  | [ _Productviewer™_](http://www.productviewer.com/default.aspx?market=US) |  |  |   
+| [_CNET Channel_](http://www.cnetchannel.com/)  : [ _ChannelOnline™_](https://web.archive.org/us/) |  |  |   
 |   
 ---  
-|  [Copyright ©](https://web.archive.org/us/copyright.asp) 1995-2003 [CNET Networks, Inc](http://www.cnetnetworks.com/). All rights reserved. [Privacy policy](https://web.archive.org/us/privacy.asp).  
+|  [Copyright ©](https://web.archive.org/us/copyright.asp) 1995-2004 [CNET Networks, Inc](http://www.cnetnetworks.com/). All rights reserved. [Privacy policy](https://web.archive.org/us/privacy.asp).  
 CNET [disclaims](https://web.archive.org/us/disclaimer.asp) any responsibility for product information and products described on this site. Some product information may be confusing without additional explanation. All product information, including prices, features, and availability, is subject to change without notice.  
 |  | [](http://www.cnetchannel.com/)
