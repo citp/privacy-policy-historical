@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2004-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040211061923id_/http%3A//www.cccapply.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305214802id_/http%3A//www.cccapply.org/privacy.asp) for the most accurate reproduction.*
 
 # CCCApply - Privacy Policy Statement
-
-**A Privacy Policy Statement from CCCApply**   
-
 
 The Chancellor's Office California Community Colleges is offering students and prospective students CCCApply, an electronic service to complete and file admissions applications to individual California Community Colleges and supplements to those applications. Xap Corporation is the company that operates CCCApply on behalf of the Chancellor's Office California Community Colleges. The Chancellor's Office California Community Colleges and Xap Corporation recognize and respect the privacy interests of CCCApply users and are committed to protecting that privacy and keeping users informed about the privacy policy of CCCApply. Since the privacy policy that will be posted here may be modified from time to time to reflect changes in the manner in which CCCApply deals with personal information, we recommend that you regularly review the privacy policy statement, which will always reflect the then current policy. 
 
