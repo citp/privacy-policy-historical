@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the suite101.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605184447id_/http%3A//www.suite101.com/info.cfm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suite101.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205220953id_/http%3A//www.suite101.com/info.cfm/privacy_policy) for the most accurate reproduction.*
 
 # Suite101.com
-
-  |    
-**Privacy Policy**
 
 Suite101.com respects and protects the privacy of the individuals that use our services. This includes the safety and privacy of children online and we do not target or willingly collect information on children under 13 years of age. You are welcome to visit Suite101.com without providing any personal information at all. However, to participate in some areas of our site, initial registration is required.
 
 If you decide to become a Member at Suite101.com, you will be required to provide us with a unique username and email address. Providing us with your username and password will allow you to use Suite101.com Member services such as SuiteMail, SuiteCards, HomePages, chat rooms, and topic discussions. If you select these options, we will ocassionally use your email to provide you with periodic Member Updates and Topic Updates to which you subscribe. However, you can choose to opt out of these mailings. Contests on our site may require additional information in order to determine your eligibility.
 
-If you choose, you can create a SuiteProfile, which will display information about yourself to other Members of Suite101.com. Available via the Member Options link on the My Suite page, the SuiteProfile lets you decide how much information you wish to share with the Suite101.com community. Any additional information you provide in this section is optional and remains personal and confidential. As a Member of Suite101.com, you may access, update and modify your Suite Profile at any time via the Member Options link available on your My Suite Page. If you have any difficulty making changes to your Suite Profile or unsubscribing from any mailings, please contact us at [memberservices@suite101.com](https://web.archive.org/web/20020605184447id_/http%3A//www.suite101.com/info.cfm/%E2%80%9Cmail).
+If you choose, you can create a SuiteProfile, which will display information about yourself to other Members of Suite101.com. Available via the Member Options link on the My Suite page, the SuiteProfile lets you decide how much information you wish to share with the Suite101.com community. Any additional information you provide in this section is optional and remains personal and confidential. As a Member of Suite101.com, you may access, update and modify your Suite Profile at any time via the Member Options link available on your My Suite Page. If you have any difficulty making changes to your Suite Profile or unsubscribing from any mailings, please contact us at [memberservices@suite101.com](https://web.archive.org/web/20021205220953id_/http%3A//www.suite101.com/info.cfm/%E2%80%9Cmail).
 
 Please be aware that if you voluntarily disclose personal information online, this information may be collected and used by others. This may result in unsolicited emails and Suite101.com will have no ability to control or restrict this. 
 
@@ -20,13 +17,3 @@ When you logon to Suite101.com, we write a “cookie” to your computer that th
 By using our site, you consent to the collection and use of information as we have outlined in this policy and to our [Terms of Use](http://www.suite101.com/info.cfm/policy_disclaimer), available via the link at the bottom of each page on Suite101.com. Suite101.com may decide to change this policy from time to time. When we do, we will post the changes in this Privacy Policy, so you are always aware of the information we collect, how we use it and under what circumstances we may disclose it.
 
 Suite101.com reserves the right to terminate your Suite101.com Membership at any time, if we learn that you have provided false or misleading registration information. 
-
-|    
----  
-[Terms of Use](https://web.archive.org/info.cfm/policy_disclaimer) | [Privacy Policy](https://web.archive.org/info.cfm/privacy_policy) | [Submit Comments](https://web.archive.org/comments.cfm)  
-http://www.suite101.com/info.cfm/privacy_policy  
-Copyright © 1996-2002 i5ive communications inc. doing business as Suite101.com, All rights reserved. 
-
-TM "Suite101.com," "Real People Helping Real People," "Best-of-Web Directory," "SuiteU" & "Suite University" are trademarks of i5ive communications inc. doing business as Suite101.com. Suite101.com utilizes the Dewey Decimal Classification system as the organization structure for our Best-of-Web Directory. The Dewey Decimal Classification system is © 1996-2002 OCLC Online Computer Library Center, Incorporated. ® "OCLC," "Dewey," "Dewey Decimal Classification," & "DDC," are registered trademarks of OCLC Online Computer Library Center, Incorporated. "Organized by Dewey" is a trademark of OCLC. Used under License.   
-  
- 
