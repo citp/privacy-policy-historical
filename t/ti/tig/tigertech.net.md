@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603015216id_/http%3A//www.tigertech.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212092152id_/http%3A//www.tigertech.com/privacy.html) for the most accurate reproduction.*
 
 # Tiger Technologies Privacy Policy
 
@@ -12,7 +12,7 @@ We request personal information (such as your name, address, and e-mail address)
 
 If you choose to purchase one of our programs or services and you supply the requested information, we never sell, trade, or otherwise share any of this information with any other company or organization. 
 
-The only exception is for customers who purchase a domain name. For those customers, we are legally required to supply contact information to the domain registrar, and that information is then governed by the registrar's [domain registration agreement](http://hosting.tigertech.com/domainagreement.html#TOS). 
+The only exception is for customers who purchase a domain name. For those customers, we (like all other domain name registration companies) are legally required to supply contact information to the domain registrar. That information is then governed by the registrar's [domain registration agreement](http://www.tigertech.net/domainagreement.html#TOS), which may allow them to make the information available by the public WHOIS service. If this is a concern, we recommend using a PO Box or work address when you sign up for a domain name with us. 
 
 After your purchase, we will not send you e-mail or postal mail unrelated to the product or service you purchased. Instead, the information you supply is used by us for only these purposes: 
 
