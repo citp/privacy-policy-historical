@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202072716id_/http%3A//www.mckesson.com/wt/tert.php%3Fpage_name%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402055100id_/http%3A//mckesson.com/wt/tert.php%3Fpage_name%3Dprivacy) for the most accurate reproduction.*
 
 # McKesson Corporation: Privacy
 
-As of October 3, 2002
+As of January 10, 2003
 
 We at McKesson Corporation are committed to maintaining the privacy and security of our customers' personal information. Through this privacy statement, McKesson wants to assure you of our commitment to privacy and security. 
 
@@ -45,7 +45,7 @@ If we collect personal information through our sites, we will maintain the infor
 
 **We will tell you how you can contact us regarding our privacy statement and practices.**
 
-If you have any questions about this privacy statement, our information handling practices, or any other aspects of your privacy, please send an e-mail to [privacy@mckesson.com](mailto:privacy@mckesson.com) or call us at 1-800-305-0730. Our mailing address is: One Post St., San Francisco, CA, USA 94104, ATTN: Privacy Officer. 
+If you have any questions about this privacy statement, our information handling practices, or any other aspects of your privacy and the security of information, please send an e-mail to [privacy@mckesson.com](mailto:privacy@mckesson.com) or call us at 1-800-305-0730. Our mailing address is: One Post St., San Francisco, CA, USA 94104, ATTN: Privacy Officer. 
 
 **We retain the flexibility to update this policy.**
 
@@ -53,4 +53,4 @@ McKesson may periodically update this policy to describe how new Web features ma
 
 **HIPAA at McKesson**
 
-As a key provider of services and technology to the healthcare industry, McKesson Corporation and its affiliated companies collectively, ("McKesson") are implementing programs to address the transaction standards, and the privacy and security implications of the rules promulgated pursuant to the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). [Learn more](https://web.archive.org/web/20021202072716id_/http%3A//www.mckesson.com/wt/tert.php?page_name=hipaa) about HIPAA at McKesson.
+As a key provider of services and technology to the healthcare industry, McKesson Corporation and its affiliated companies collectively, ("McKesson") are implementing programs to address the transaction standards, and the privacy and security implications of the rules promulgated pursuant to the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). [Learn more](https://web.archive.org/web/20030402055100id_/http%3A//mckesson.com/wt/tert.php?page_name=hipaa) about HIPAA at McKesson.
