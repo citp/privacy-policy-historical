@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infocreek.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204230239id_/http%3A//infocreek.com/website-design/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infocreek.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606031431id_/http%3A//www.infocreek.com/website-design/privacy.php) for the most accurate reproduction.*
 
 # Best tools for affordable professional website design
 
@@ -19,7 +19,7 @@ We may use your IP address to aid in service to your website as contracted or re
   
 If you have any further questions about the practices of this site, this privacy statement, or your dealings with this website, you can contact: [webmaster@infocreek.com](mailto:webmaster@infocreek.com).   
   
-For more information about Infocreek's Web design and development, web programming, or [Website maintenance services](https://web.archive.org/web/20031204230239id_/http%3A//infocreek.com/website-design/maintenance.php), please [Contact Us](https://web.archive.org/web/20031204230239id_/http%3A//infocreek.com/website-design/contact.php) for a **free** Quote today!  
+For more information about Infocreek's Web design and development, web programming, or [Website maintenance services](http://www.infocreek.com/website-design/maintenance.php), please [Contact Us](http://www.infocreek.com/website-design/contact.php) for a **free** Quote today!  
 |   
 ---|---|---  
 | 
