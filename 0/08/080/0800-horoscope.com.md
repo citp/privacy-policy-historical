@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202556id_/http%3A//www.0800-horoscope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204211246id_/http%3A//www.0800-horoscope.com/privacy.html) for the most accurate reproduction.*
 
 # 0800-horoscope - Privacy Statement
 
@@ -16,6 +16,7 @@
   \- [14 Day Outlook](https://web.archive.org/previsions.html)  
   \- [PartnerScope](https://web.archive.org/partnerscope.html)  
   \- [Sun*Moon*Asc](https://web.archive.org/weeklycombi.html)  
+[Election 2004](https://web.archive.org/election2004.html)  
 [E-Mail Scopes](https://web.archive.org/emailscopes.html)  
   \- [Daily](https://web.archive.org/dailyscopes.html)  
   \- [Weekly](https://web.archive.org/emailscopes.html)  
@@ -126,8 +127,6 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 Joe Savelberg Euregio.Net AG Wirtzfeld 140 4760 Büllingen Belgium webmaster@0800-horoscope.com
-
-[](http://ezb.be/ac.php?n=a2a6b94e)
 
 * * *
 
