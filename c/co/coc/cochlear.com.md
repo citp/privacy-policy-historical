@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the cochlear.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206185247id_/http%3A//www.cochlear.com/About/324.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochlear.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205011943id_/http%3A//www.cochlearamericas.com/About/324.asp) for the most accurate reproduction.*
 
 # Cochlear Website Privacy Policy
+
+Cochlear Website Privacy Policy
+
+**October 2003 Update:**   [Cochlear Americas Notice of Privacy Practices](https://web.archive.org/990.asp)
 
 **Effective June 1,  2000   
 **  
 **Our Commitment To Privacy:**   
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available as a link from our home page and from every page on our web site. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available as a link from our home page and from every page on our web site.
 
   
 **The Information We Collect:**   
