@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604005045id_/http%3A//www.practicalfishkeeping.co.uk/pfk/pages/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803181941id_/http%3A//www.practicalfishkeeping.co.uk/pfk/pages/privacy_statement.php) for the most accurate reproduction.*
 
 # Practical Fishkeeping magazine - tropical fish, marine fish, ponds and aquariums
 
@@ -32,5 +32,5 @@ Our postal address is:
     PE3 8DZ
     
 
-[Designed, coded and edited by Matt Clarke](https://web.archive.org/web/20040604005045id_/http%3A//www.practicalfishkeeping.co.uk/pfk/pages/online.php "Site by Matt Clarke")   
+[Designed, coded and edited by Matt Clarke](https://web.archive.org/web/20040803181941id_/http%3A//www.practicalfishkeeping.co.uk/pfk/pages/online.php "Site by Matt Clarke")   
 
