@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasheartinstitute.org privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214093526id_/http%3A//www.texasheartinstitute.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasheartinstitute.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404172736id_/http%3A//www.texasheartinstitute.org/privacy.html) for the most accurate reproduction.*
 
 # Web Site Terms of Use and Privacy Policy - Texas Heart Institute
 
@@ -30,10 +30,11 @@ The Texas Heart Institute website is not supported by advertising or commercial 
 
 **Copyright Information** ****
 
-All text, graphic, and multimedia content on this website © Copyright 1996-2003 Texas Heart Institute. All rights reserved. Portions of this website may be printed or stored locally for personal use only. Texas Heart Institute, Texas Heart Institute Journal, THI, Heart Owner's, and Leading With the Heart  
-are members of the family of trademarks of the Texas Heart Institute.
+All text, graphic, and multimedia content on this website © Copyright Texas Heart Institute. All rights reserved. Portions of this website may be printed or stored locally for personal use only. Texas Heart Institute, Texas Heart Institute Journal, THI, Heart Owner's, The Heart of Discovery, and Leading With the Heart are members of the family of trademarks of the Texas Heart Institute.
 
 **Contact Information** ****
 
-You may contact the Texas Heart Institute with any questions or comments concerning this website by sending e-mail to [webmaster@heart.thi.tmc.edu](mailto:khoge@heart.thi.tmc.edu).  
+You may contact the Texas Heart Institute with any questions or comments concerning this website by sending e-mail to [webmaster@heart.thi.tmc.edu](mailto:khoge@heart.thi.tmc.edu).
+
+Return to top of page   
  
