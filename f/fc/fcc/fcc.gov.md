@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624174745id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210090644id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
 
 # FCC Web Site Policies, Privacy Statement and Notices
 
@@ -7,7 +7,7 @@ FCC Web Site Policies
 
 Customer Service Standards 
 
-You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20040624174745id_/http%3A//www.fcc.gov/css.html) when interacting with us.
+You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20041210090644id_/http%3A//www.fcc.gov/css.html) when interacting with us.
 
   
 
@@ -28,7 +28,7 @@ The Freedom of Information Act, commonly known as the FOIA, ([5 U.S.C. § 552](
 
 Information Quality Guidelines & Notice 
 
-The FCC is dedicated to ensuring that all data it disseminates reflect a level of quality commensurate with the nature and timeliness of the information. Futher, the FCC seeks to disseminate all its data as broadly and promptly as possible so that the public can benefit from the FCC's work of ensuring vital and innovative communication services are available to all Americans at reasonable prices. In keeping with this commitment, and in accordance with OMB requirements, the FCC has developed Information Quality Guidelines and provides the public the opportunity to [comment](http://www.fcc.gov/omd/dataquality/complaint/) if those guidelines are not followed."
+The FCC is dedicated to ensuring that all data it disseminates reflect a level of quality commensurate with the nature and timeliness of the information. Futher, the FCC seeks to disseminate all its data as broadly and promptly as possible so that the public can benefit from the FCC's work of ensuring vital and innovative communication services are available to all Americans at reasonable prices. In keeping with this commitment, and in accordance with OMB requirements, the FCC has developed [Information Quality Guidelines](http://www.fcc.gov/omd/dataquality/) and provides the public the opportunity to [comment](http://www.fcc.gov/omd/dataquality/complaint/) if those guidelines are not followed."
 
 The FCC makes every effort to insure that the information on this website is accurate. There may, however, be recent rule changes that have not yet been posted to the website or inadvertent errors in the content. The FCC will promptly modify the website information to ensure that the information posted is current, or to correct errors in content brought to the Commission's attention. In the event there is any conflict between information posted on this website and the Commission's rules, the rules shall prevail.
 
@@ -39,7 +39,7 @@ The Federal Communications Commission provides this Internet site as a public se
 
 The FCC posts a Privacy Act notice at those places on this site where the Commission needs to collect any individually identifiable information for use by the FCC.
 
-Any information collected within the context of your email inquiry or comment is used only for the expressed purpose of responding to your inquiry or comment. We collect personally identifiable information only if specifically and knowingly provided by you.
+Any information collected within the context of your email inquiry or comment is used only for the expressed purpose of responding to your inquiry or comment. We collect personally identifiable information only if specifically and knowingly provided by you. We do not give, sell, or rent visitor information to third parties for commercial marketing.
 
 For site management, information is collected for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for purposes such as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. This information is not expressed in any form that would reveal personally identifiable information.
 
