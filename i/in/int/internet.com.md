@@ -1,42 +1,83 @@
-> *The following text is extracted and transformed from the internet.com privacy policy that was archived on 1999-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991115215334id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203042616id_/http%3A//internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
-# internet.com's Privacy Policy
+# Jupitermedia Privacy Policy
 
-[](http://www.internet.com/)   
-| 
+  
+Jupitermedia Corporation Privacy Policy
 
-##  Privacy Policy 
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Jupitermedia, (“JUPM”). (The JUPM Network includes all Web sites and certain other Internet media properties hyper linked from the Jupitermedia home page.) The following discloses our Privacy Policy. 
 
-Internet.com respects the privacy of users who visit each of the sites within the Internet.com network. No effort is made to identify individuals without their knowledge. The following policies are in effect for all of the Web pages owned and operated by Mecklermedia Corp. within the Internet.com network. (The Internet.com network includes all of the sites listed at left.) 
+**What information are you collecting and how are you collecting it?**
 
-  * When a visitor requests pages at any Internet.com site, our Web server automatically recognizes only the browser's domain name, and IP address but not the e-mail address. We collect only the domain name and IP address in order to aggregate information on what pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. 
-  * From time to time, we ask users to provide their e-mail address or mailing address for the purposes of a survey or to provide additional services (for example, subscriptions to print publications, information about a trade show or an e-mail newsletter). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request, before the information is requested. 
-  * If you choose to supply us with your postal address on-line, you may receive mailings from other reputable companies. 
-  * If you sign up for an e-mail newsletter, you will receive only the e-mail newsletter you have requested. You will not receive any mailings that you have not specifically requested. Your e-mail address will not be sold to a third party. 
-  * From time to time, Internet.com or its advertisers may send a cookie to your computer. This information is collected solely for statistical purposes and is not used to identify individuals. 
+Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" [IP address](http://webopedia.internet.com/TERM/I/IP_address.html). When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. See also **Will you disclose the information you collect to outside third parties?** We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
 
-Copyright 1998 Mecklermedia Corporation.   
-All Rights Reserved. [Legal Notices.](http://www.internet.com/corporate/legal.html)
-[](http://www.internet.com/) |    
-internet.com Corporation Privacy Policy
+**What are cookies?**
 
-internet.com respects the privacy of users who visit each of the sites within the internet.com network. No effort is made to identify individuals without their knowledge. The following policies are in effect for all of the Web pages owned and operated by internet.com Corporation. (The internet.com Network includes all sites listed on the pages linked from the internet.com navigation bar at the left.) 
+From time to time, JUPM or its advertisers may send a ["cookie](http://webopedia.internet.com/TERM/c/cookie.html)" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
-  * When a visitor requests pages at any internet.com site, our Web servers automatically recognize the browser's domain name, and IP address. Our servers do not record e-mail addresses. We collect the domain names and IP addresses in order to aggregate information on what pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. 
-  * From time to time, we ask users to provide their e-mail address or mailing address for the purpose of a survey or to provide additional services (for example, subscriptions to print publications, or information about trade shows). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request before the information is requested. If you choose to supply your postal address in an online form, you may receive mailings from other reputable companies. 
-  * From time to time, internet.com or its advertisers may send a cookie to your computer. This information is collected solely for statistical purposes and is not used to identify individuals. 
-  * When you signup for participation in [internet.com forums](http://forums.internet.com/), your name or alias is recorded solely for the purpose of maintaining your own account within the forums. No effort is made to identify individuals who participate in forums or to monitor their acitivity in any way. 
+**How do you use single-pixel gifs?**
 
+JUPM and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. JUPM does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser. 
 
+**What information do you collect when I register for something?**
 
-E-newsletter Privacy Policy
+JUPM offers access to some services that require registration. We may use your registration contact information to send notification to you of JUPM products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See **Will you disclose the information that you collect to outside third parties?**
 
-internet.com maintains a strict "no-spam" policy. Your e-mail address will not be sold to a third party if you sign up for one of our e-newsletters or discussion lists. 
+**What other information do you request?**
 
-  * If you sign up for an e-mail newsletter or discussion list at an internet.com site, you will receive only the e-mail newsletter or discussion list you have requested. You may receive on occasion an offer to sign up for a new newsletter or discussion list, but you will not receive additional newsletters or discussion list mailings unless your specifically request them. 
-  * internet.com has a contractual relationship with PostMaster Direct, an independent company, which creates targeted e-mailings. When you sign up for an internet.com newsletter you are given the option of joining announcement lists created by PostMaster Direct. If you choose to sign up for one of these lists, you will receive mailings only on the topics you selected from third parties who have entered into agreements with PostMaster Direct. You may have your e-mail address removed from the PostMaster Direct lists at any time by following the instructions in the e-mails you receive. 
+We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
 
+We may from time to time send e-mail announcing new JUPM products and services. Except as stated above, JUPM will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other third party companies. 
 
+When you sign up for an JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network. 
 
-Copyright 1999 internet.com Corporation   
-All Rights Reserved. [Legal Notices.](http://www.internet.com/corporate/legal.html)
+When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
+
+When you use co-branded services, or those provided by a third party, within the JUPM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
+
+**What information do you collect when I purchase something?**
+
+If you are purchasing something from an JUPM media property, we and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
+
+Certain JUPM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other JUPM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
+
+Wherever JUPM collects personal information we make an effort to include a link to this Privacy Policy on that page. 
+
+**Will you disclose the information you collect to outside third parties?**
+
+JUPM will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:   
+    1)    Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM, 
+
+    2)   Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties, 
+
+    3)   Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties, 
+
+    4)   Fulfill a user's order or request. 
+
+JUPM uses reasonable precautions to keep the information disclosed to us secure. JUPM reserves the right to transfer all such information in connection with the sale of all or part of JUPM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users  
+_See_ below, **What else should I know about my privacy when online? See What information do you collect when I register for something.**
+
+**Opt-in announcement List Privacy Policy**
+
+As an added benefit to the visitors of the JUPM Network of sites, we have a relationship with PostMasterDirect, an independent, third party company that sends e-mail announcements to individuals who request to receive them. When you sign up for an JUPM e-mail newsletter, you are given the opportunity to also receive announcement lists from PostmasterDirect. Whether you want to receive these announcement lists is your choice; you should only receive those lists you affirmatively choose to. If you choose to receive a specific announcement list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM and/or PostMaster Direct to send messages to the list. Personally identifiable information will not be used by JUPM or PostMasterDirect for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [deleteall@postmasterdirect.com](mailto:deleteall@postmasterdirect.com), or by following the instructions on the e-mails you receive. [Click here to see the Postmaster Direct privacy policy](http://postmasterdirect.com/privacy.html). 
+
+**What else should I know about my privacy when online?**
+
+The JUPM Network contains many hyperlinks to third party Web sites. The JUPM Network also contains advertisements of third parties. JUPM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. JUPM does not share any of the individual personal information you provide JUPM with the third parties to which JUPM links, except as stated elsewhere within this Privacy Policy, although JUPM may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy. 
+
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+
+ **Your Consent To This Agreement**
+
+By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+Please send any questions about JUPM’s Privacy Policy to: [privacy@internet.com](mailto:privacy@internet.com)
+
+Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.internet.com/corporate/legal.html). 
+
+  
+[Legal Notices](http://www.internet.com/corporate/legal.html),  [Licensing](http://www.internet.com/corporate/reprints.html#Licensing1), [Reprints](http://www.internet.com/corporate/reprints.html#Reprints1), & [Permissions](http://www.internet.com/corporate/reprints.html#Permissions),  [Privacy Policy](http://www.internet.com/corporate/privacy/privacypolicy.html).   
+[](http://www.earthweb.com/)   
+[](http://www.internet.com/)
