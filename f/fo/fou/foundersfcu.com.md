@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608030448id_/http%3A//www.foundersfcu.com/home/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307090949id_/http%3A//www.foundersfcu.com/page.cfm%3Fc_id%3D96) for the most accurate reproduction.*
 
-# Founders - Privacy
+# Founders Federal Credit Union
 
-  
+| 
+
+Privacy Policy
+
 Trust has always been the foundation of our relationship with members. Founders has had a long-term commitment to protect your personal financial records by not selling or sharing your information. In fact, our Credit Union Bylaws provide that we hold in confidence all transactions of our members and all information respecting their personal affairs, except when permitted by state or federal law. To preserve your trust, we pledge to protect your privacy by adhering to the practices described below. By signing any application or agreement with us or your use or continued use of any of our services with us after receiving this document, you jointly and severally agree to the terms and conditions set forth in this Policy and Agreement. In this Agreement, the terms "we," "our," or "us" means Founders Federal Credit Union; and the terms "you" or "your" means all members, consumers, borrowers and guarantors. 
 
 **1\. The Types of Information We Collect.**  
@@ -24,3 +27,5 @@ The Credit Union reserves the right to modify, change or amend this Privacy Poli
 
 **6\. Protecting Children.**  
 We do not knowingly solicit or collect data from children, and we do not knowingly market to children online. We recognize that protecting children's identities and online privacy is important and that responsibility rests with us and with parents. 
+
+| 
