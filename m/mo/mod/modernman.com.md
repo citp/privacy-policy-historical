@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernman.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208211416id_/http%3A//www.modernman.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernman.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806184457id_/http%3A//modernman.com/about/privacy.html) for the most accurate reproduction.*
 
 # Modern Man: Privacy Policy
 
