@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602195546id_/http%3A//www.intelligencecareers.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622065257id_/http%3A//www.intelligencecareers.com/_homeroom/privacy.cfm) for the most accurate reproduction.*
 
-# Online Career Center
+# IntelligenceCareers.com
 
-**Privacy Policy**  |  [Policy prior to 2001.07.24](https://web.archive.org/web/20020602195546id_/http%3A//www.intelligencecareers.com/privacy_2001_0723.cfm)
-
-**Comments can be sent to[customerservice@intelligencecareers.com](mailto:customerservice@intelligencecareers.com)**
+Comments can be sent to [customerservice@intelligencecareers.com](mailto:customerservice@intelligencecareers.com)
 
 **General Resume Database Access Guidelines**
 
@@ -13,6 +11,7 @@
   * Access is limited to organizations and individuals registering for the purpose of recruiting potential future employees.
   * Potential employers should have a clear requirement for the skills within our database.
   * All requested identifying employer information must be provided before access will be considered.
+  * Access will not be given to parties believed to be competitors, or partnered with competitors, in the area of cleared personnel recruiting.
   * Initial access may be delayed for as much as 72 hours while potential employer information is confirmed. 
   * Denied access will be without explanation.
 
