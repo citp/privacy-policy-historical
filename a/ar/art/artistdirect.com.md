@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204154330id_/http%3A//artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603234530id_/http%3A//network.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
 
 # Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTIST direct Network
 
@@ -32,6 +32,10 @@ The information we collect that falls into one of two categories - personally id
 We collect personally identifiable information (such as name, email, residence address, and credit card information) whenever you voluntarily submit it to the Sites. Examples of information that you submit voluntarily include: when you make a purchase, answer our polls, enter sweepstakes or contests, fill out the registration page, send us feedback, download music, or post in our chat rooms or to our message boards. If you register, we might also ask you about your musical preferences or other information to customize the Sites for you. You always have the option of choosing not to reveal this personally identifiable information to us, although certain services may be unavailable if you do not. In the event of a complaint, we may also receive and collect personally identifiable information about you from other users or third parties who may communicate information to us about you in relation to such a complaint.
 
 In addition, we collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page, the order in which pages are viewed, and other information to learn which features are the most popular and to refine our design and marketing efforts.
+
+Third Party Advertising
+
+In addition to what we have explained above, we use DoubleClick and other third-party advertising companies to serve ads when you visit our Sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Sites in order to provide advertisements on the Sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.net/naiprivacy).
 
 back to FAQ
 
@@ -75,7 +79,9 @@ Cookies are pieces of information that a website transfers to your computer's ha
 
 We use cookies or IP addresses for a number of uses, including helping us to tailor a website or a marketing message to better match your needs and interests, and to allow us to better understand how users use our Sites. You are always free to instruct your web browser to decline our cookies if it has the capability to do so, but some parts of our Sites may not work properly if you do.
 
-ARTISTdirect places advertising on our Sites that originates from third party advertisers and/or advertising agencies. Even though these advertisements are embedded in our Sites, cookies may be assigned by the advertisers themselves. ARTISTdirect does not control these cookies. 
+Third Party Cookies
+
+In the course of serving advertisements to the Sites, our third-party advertiser may place or recognize a unique "cookie" on your browser. Even though these advertisements are embedded in our Sites, cookies may be assigned by the advertisers themselves. ARTISTdirect does not control these cookies. To find out more about these "cookies," [click here](http://www.doubleclick.net/naiprivacy). 
 
 back to FAQ
 
