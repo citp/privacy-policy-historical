@@ -1,50 +1,73 @@
-> *The following text is extracted and transformed from the teen.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206152000id_/http%3A//teen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teen.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401221422id_/http%3A//www.beyondthewall.com/privacy.asp) for the most accurate reproduction.*
 
-# www.teen.com Privacy Statement - Teen.com
+# Welcome to Beyond The Wall - posters & art prints, great prices
 
-Teen.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; Teen.com. 
+**PRIVACY POLICY / TERMS & CONDITIONS**
 
-You must be 13 years old to enter your email address or any other information on our site. We are very sensitive to the issue of children’s privacy and makes every effort to protect the privacy of children surfing the web. Teen.com’s web site, products, and services are not developed for or directed at children under 13. If you believe your child has provided Teen.com with personally-identifiable data, or registered at one of our sign-up areas, and you would like to have them removed, please contact [support@teen.com](mailto:support@teen.com). 
+**Privacy Policy**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
+This web site, Beyond The Wall (formerly Postermart.com), is owned and operated by Trent Graphics, Inc., a subsidiary of YouthStream Media Networks, Inc. Our postal address is 1903 West Main Street, Stroudsburg, PA 18360. We can be reached via e-mail at [help@beyondthewall.com](mailto:help@beyondthewall.com), or you can reach us by telephone at 800-598-9848. 
 
-Our online surveys asks visitors for contact information (like their email address). We use contact data from our surveys to send the user promotional material from us and some of our partners. Users may opt-out of receiving future mailings; see the delist/deactivate section below. 
+**Personal Information.**  
+Your personal information is used in the following ways: 
 
-We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the delete/deactivate section below. 
+* _User IDs and Passwords._ Allows for quick login to our check out area 
+* _Account Information._ Tells us more about who you are, how to contact you, and your shipping and billing information. 
+* _Customer Feedback and Support._ Provides a way to request information and share comments/suggestions. Also used to tell us how we can improve our products, services and site designs. 
+* _Email Correspondence._ Used to raise and respond to issues and inquiries of all types. Also used to send an order receipt. 
+* _Transactions._ Shows which products and services you have requested. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm)." 
+**Uses of Personal Information**   
+WE only account such as info (name, shipping address, credit card) when place an This information is used process order, invoice and contact if there are any problems with order. We will not change way in which we use your personal information, unless you consent to the new usage. 
 
-Internet user privacy is of paramount importance to DoubleClick, our advertisers and our Web publishers. The success of our business depends upon our ability to maintain the trust of our users. [Click here](http://www.doubleclick.net/us/corporate/privacy/) for information regarding DoubleClick's commitment to protect the privacy of users and to ensure the integrity of the Internet. 
+In the case of our newsletter/affiliate sign-up page we will use this information to notify you of contests, products, promotions, etc. You can opt-out of our newsletters at any time by sending an email to [unsubscribe@beyondthewall.com](mailto:unsubscribe@beyondthewall.com). To be removed from our affiliate program. Simply send an email to [affiliates@beyondthewall.com](mailto:affiliates@beyondthewall.com)
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to   
-<http://www.engage.com/privacy>
+We do not share any of this information with other companies.   
+We will only contact you by email and/or phone either in the event of a problem or question regarding an order you have placed, or in response to mail you have sent us.
 
-## Opt-Out
+**Security Measures**  
+When sharing account information with us or sending your credit card for payment, we protect each transaction through encrypted, secure socket layers (SSL) This means that the url you are seeing at the top of your browser will change from “http” to “https”.
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+Sometimes it is necessary to share your information with an authorized third party agent. For example, if we ship posters to you, we must share your name and address with the US Postal Service. 
 
-This site contains links to other sites. Teen.com is not responsible for the privacy practices or the content of such Web sites. 
+**3 rd Party Ads**  
+From time-to-time, 3rd party advertisers will run a campaign on our site. We only allow them to collect non-identifying information – browser type, referred address, pages visited, etc. We do not control the information contained on other sites. Should you click on a link and leave our site it is your responsibility to check the privacy policy and terms on that site. ****
 
-##  Delete/Deactivate
+**Children Under 13**  
+We do not knowingly collect personal information from children under the age of 13. If information from a child under 13 is found in our data, we will delete it immediately. There are many products on our site that children may be interested in. We encourage parents to go online with their children to make the surfing experience more enjoyable. ****
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+**Cookies**  
+Most ecommerce Web sites use _cookies_. Cookies allow us to provide a better user experience by measuring which Web site areas are of greatest interest. We also use cookies to enable our shopping cart system. This allows you to keep products in your cart as you move around our site and check out. If you do not accept cookies, the associated shopping bag will not work and you would not be able to order. ****
 
-  * You can send email to [listmanager@teen.com](mailto:teennews@teen.com?subject=unsubscribe%20teennews)  with unsubscribe teennews in the subject
+**Updating Information**  
+Please let us know of any changes to your name, address, title, phone number or email address. 
 
+* * *
 
-  * You can visit the following URL: <http://www.teen.com/newsletter.html>
+**Terms** **& Conditions**
 
+**Indemnification**  
+By using this website, you the consumer, agree to indemnify and hold beyondthewall, Inc., its employees, parent companies, suppliers, and affiliates harmless from any dispute which may arise from a breach of this agreement. In addition, the customer agrees to hold beyondthewall, Inc. harmless from any claims and/or expenses, including any and all reasonable attorney's fees and court costs, related to the customer's use of this web site and the merchandise contained within.
 
+**Service**  
+Beyondthewall reserves the right to refuse service to anyone for any reason not based on religion, race or creed.
 
-##  Change/Modify
+**Sales Tax**  
+Applicable sales tax applies to the total (after shipping charges) only for Pennslyvania residents (add 6% sales tax), and New York residents (add 8.25% sales tax) 
 
-This site gives users the following options for changing and modifying information previously provided. 
+**Currency**  
+Prices are in U.S. Dollars. All charges must be paid in U.S. dollars, and sent in the form of credit card, US money order, international money order or check. We do not accept cash. International money orders must be drawn from U.S. funds. We reserve the right to change the prices of merchandise sold on this web site at any time.
 
-> * email [editor@teen.com](mailto:editor@teen.com?subject=visitor%20request)
-> * visit   [http://www.teen.com](https://web.archive.org/index.html)
+**International Taxes/Duties**  
+Please be aware that we are not responsible for any duties or value-added taxes that may be assessed by your local government.
 
-##  Contacting [Teen.com](http://www.teen.com/)
+**Returned Check Policy**  
+All checks that are returned due to insufficient funds or for any other reason will be submitted for collection immediately. All returned checks will result in a twenty-five dollar ($25.00) service charge to the consumer.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+**Return  Policy  
+**Should you become unsatisfied within 5 days of receiving an item that you purchased from us, we will be happy to replace it with a different poster or refund your money, less the cost of shipping and handling.  Be sure to include the product, invoice and a brief explanation as to why you are returning the product to us.  You must contact Customer Service before returning a product.  Items must be returned within 30 days at your expense.
 
-> > > Teen.com 274 Great Rd Acton, MA 01720 USA [webmaster@teen.com](mailto:webmaster@teen.com?subject=visitor%20request)
+If you return an item after 30 days of receiving it, we will issue you a credit for our site for the retail price of the item minus shipping and handling costs.  There will be no refund.
+
+**Policy/Term Changes**  
+Policy and Terms are subject to change without notice. We will post all updates to this policy on the site. Should we change the way we use your personal information, we will notify you via email.
