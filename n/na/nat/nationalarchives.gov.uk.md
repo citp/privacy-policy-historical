@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014013404id_/http%3A//www.nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2005-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050302003454id_/http%3A//www.nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
 
 # The National Archives | Terms of use | Privacy statement
 
