@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountschoolsupply.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603063526id_/http%3A//www.earlychildhood.com/Store/index.cfm%3FFuseAction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountschoolsupply.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101183022id_/http%3A//earlychildhood.com/Store/index.cfm%3FFuseAction%3DPrivacy) for the most accurate reproduction.*
 
 # Discount School Supply - Privacy Policy
 
@@ -23,15 +23,15 @@ If you have any questions regarding Earlychildhood.com's privacy policy, or if y
 * * *
 
   
-[Home](http://www.earlychildhood.com/Store/) | [Request Catalog](http://www.earlychildhood.com/Store/index.cfm?FuseAction=CatReq&CFID=161351&CFTOKEN=85547922) | [Shop Now](http://www.earlychildhood.com/Store/index.cfm?FuseAction=Browse&CFID=161351&CFTOKEN=85547922) | [Quick Cart](http://www.earlychildhood.com/Store/index.cfm?FuseAction=QuickCartForm&CFID=161351&CFTOKEN=85547922) | [Rep Locator](http://www.earlychildhood.com/Store/RepLocator/index.cfm)  
-[Earlychildhood NEWS](http://www.earlychildhood.com/community/news/news_index.asp) | [Auction Site](http://discountschoolsupply.dealnetwork.com/) | [Order Status](http://www.earlychildhood.com/Store/index.cfm?FuseAction=ordinq_all&CFID=161351&CFTOKEN=85547922) | [Search](http://www.earlychildhood.com/Store/index.cfm?FuseAction=SearchTips&CFID=161351&CFTOKEN=85547922)  
-[FAQ](http://www.earlychildhood.com/Store/index.cfm?FuseAction=FAQ&CFID=161351&CFTOKEN=85547922) | [Contact Us](mailto:service@earlychildhood.com) | [Privacy Policy](http://www.earlychildhood.com/Store/index.cfm?FuseAction=Privacy) | [Terms of Service](http://www.earlychildhood.com/Store/index.cfm?FuseAction=TOS)
+[Home](http://www.earlychildhood.com/Store/) | [Request Catalog](http://www.earlychildhood.com/Store/index.cfm?FuseAction=CatReq&CFID=616091&CFTOKEN=89553708) | [Shop Now](http://www.earlychildhood.com/Store/index.cfm?FuseAction=Browse&CFID=616091&CFTOKEN=89553708) | [Quick Cart](http://www.earlychildhood.com/Store/index.cfm?FuseAction=QuickCartForm&CFID=616091&CFTOKEN=89553708) | [Rep Locator](http://www.earlychildhood.com/Store/RepLocator/index.cfm)  
+[Earlychildhood NEWS](http://www.earlychildhood.com/community/news/news_index.asp) | [Order Status](http://www.earlychildhood.com/Store/index.cfm?FuseAction=ordinq_all&CFID=616091&CFTOKEN=89553708) | [Search](http://www.earlychildhood.com/Store/index.cfm?FuseAction=SearchTips&CFID=616091&CFTOKEN=89553708)  
+[FAQ](http://www.earlychildhood.com/Store/index.cfm?FuseAction=FAQ&CFID=616091&CFTOKEN=89553708) | [Contact Us](mailto:service@earlychildhood.com) | [Privacy Policy](http://www.earlychildhood.com/Store/index.cfm?FuseAction=Privacy) | [Terms of Service](http://www.earlychildhood.com/Store/index.cfm?FuseAction=TOS)
 
   
 **Copyright © 1999-2001 Earlychildhood.com LLC. - All Rights Reserved.**
 
 Original website designed and programmed by [SunStar Media](http://ssmedia.com/).  
 Current website updated and maintained by [webmaster@earlychildhood.com](mailto:webmaster@earlychildhood.com).    
-Execution: 656 milliseconds
+Execution: 750 milliseconds
 
 | 
