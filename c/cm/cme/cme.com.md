@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cme.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012092236id_/http%3A//www.cme.com/abt/privacy3403.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cme.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305034355id_/http%3A//www.cme.com/about/ins/privacy3403.html) for the most accurate reproduction.*
 
 # CME Privacy Policy
 
@@ -94,3 +94,13 @@ If you have any questions or comments regarding this Privacy Statement, please s
 Copyright © 19__ - 2000 Chicago Mercantile Exchange Inc.. All rights reserved. Revised September 2000.
 
 |  | 
+
+|   
+  
+---  
+| | 
+
+1-800-331-3332  
+[e-mail CME](http://cme.custhelp.com/cgi-bin/cme.cfg/php/enduser/ask.php?)
+
+| | 
