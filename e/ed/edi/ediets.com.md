@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204083100id_/http%3A//www.ediets.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602024714id_/http%3A//www.ediets.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # eDiets: Personalized diet and weight loss programs
 
@@ -9,15 +9,15 @@
 [Newsletter Ads](https://web.archive.org/company/newsletter_ads.cfm)   
 [Web Site Feedback](https://web.archive.org/company/feedback.cfm)   
 [Our Commitments](https://web.archive.org/company/commitments.cfm)   
-[Upcoming Events](https://web.archive.org/company/events.cfm)   
 [Employment](https://web.archive.org/company/employment.cfm)   
 [Press Room](https://web.archive.org/company/pressroom.cfm)   
+[Press Quotes](https://web.archive.org/company/quotes.cfm)   
 Privacy Policy   
 [Affiliate](https://web.archive.org/company/affiliate.cfm)   
 [Program Terms](https://web.archive.org/company/legal.cfm) 
 
 [FREE NEWSLETTER](https://web.archive.org/news/)   
-[DIET STORE](http://ediets.iconomy.com/geneva/IndexFrame/index.html?memberid=guest)
+[DIET STORE](http://www.ediets.com/store/)
 
 |  |  Legal Statement
 
