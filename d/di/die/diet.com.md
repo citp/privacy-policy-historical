@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404090031id_/http%3A//www.diet.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Diet.com: Personality Type Diet, Personality Test, Diet Plan and Weight Loss Program.
 
@@ -24,7 +24,7 @@ Diet.com requests personal information when you sign up for our services, includ
 
 Your privacy and the security of your personal information are our highest priority. Diet.com is dedicated to protecting the privacy of those who visit one or more of our Websites ("Sites") and subscribe to our products and services ("Services") at all times. This Privacy Policy governs the Sites owned by us and operated in the United States and explains how we collect information on the Sites, what we do to protect such information, and your choices concerning the use of such information. We will not sell your personal information to outside parties. This Privacy Policy may be amended from time to time and any changes will be posted on this web page. We ask that you refer back to this Privacy Policy so that you will know what our current policy is on the gathering and use of your personal information. The Policy will include the most recent date in which any revision has been made.
 
-Please remember that this Privacy Policy applies only to information you provide to us on the Sites. Diet.com is not responsible for the disclosure of your personal information that you may post in any public forum (e.g. message boards or chat rooms) or for the privacy practices of websites that you may link to from our Sites that are owned or operated by third parties. Diet.com stresses that members do not give out personal information in any public forum. Any harm that comes to a member from his or her own practice of revealing personal information online is not the responsibility of Diet.com. Diet.com is also not responsible for members revealing personal information for the purpose of meeting other members outside of the Diet.com website, should this lead to personal injury. [Join Now!](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php)
+Please remember that this Privacy Policy applies only to information you provide to us on the Sites. Diet.com is not responsible for the disclosure of your personal information that you may post in any public forum (e.g. message boards or chat rooms) or for the privacy practices of websites that you may link to from our Sites that are owned or operated by third parties. Diet.com stresses that members do not give out personal information in any public forum. Any harm that comes to a member from his or her own practice of revealing personal information online is not the responsibility of Diet.com. Diet.com is also not responsible for members revealing personal information for the purpose of meeting other members outside of the Diet.com website, should this lead to personal injury. [Join Now!](https://web.archive.org/web/20050404090031id_/http%3A//www.diet.com/member/join_now.php)
 
 Information We Collect
 
@@ -44,7 +44,7 @@ Diet.com may collect information from you in connection with, or through, other 
 
 Becoming a Member
 
-In order to access certain aspects of the Sites, such as your meal plan, chat rooms, message boards, weight loss tools and food database, you must first complete certain steps to become a member. You will be required to provide us with Personally Identifiable Information. This information is used to help us understand who you are, and to provide you with your customized diet, to contact you about our products and services, and/or for billing purposes. Use of this information is described in the previous sections of this Privacy Policy. In order to get the most out of membership and the customized diet plan, information provided by you must be accurate and truthful. Some areas may be password protected. We recommend you do not reveal your password to anyone. [Join Now!](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php)
+In order to access certain aspects of the Sites, such as your meal plan, chat rooms, message boards, weight loss tools and food database, you must first complete certain steps to become a member. You will be required to provide us with Personally Identifiable Information. This information is used to help us understand who you are, and to provide you with your customized diet, to contact you about our products and services, and/or for billing purposes. Use of this information is described in the previous sections of this Privacy Policy. In order to get the most out of membership and the customized diet plan, information provided by you must be accurate and truthful. Some areas may be password protected. We recommend you do not reveal your password to anyone. [Join Now!](https://web.archive.org/web/20050404090031id_/http%3A//www.diet.com/member/join_now.php)
 
 Cookies
 
@@ -70,7 +70,7 @@ If you become our member or subscribe to one of our free products or services, w
 
 We may also use the information gathered on our Sites to perform statistical analysis of user behavior, to analyze and evaluate issues relating to nutrition, weight loss, behavior and fitness, or to evaluate and improve our goods, services, and the products we offer to you. We may link some of this information to Personally Identifiable Information for internal purposes only or to assist you in your personal weight loss efforts.
 
-Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any information we gather from you on our Sites. [Join Now!](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php)
+Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any information we gather from you on our Sites. [Join Now!](https://web.archive.org/web/20050404090031id_/http%3A//www.diet.com/member/join_now.php)
 
 Laws and Legal Rights
 
@@ -90,7 +90,7 @@ From time-to-time, as a Diet.com member, you may be asked to indicate whether yo
 
 Other Uses of Information
 
-In the event that we sell, merge or otherwise transfer all or substantially all of our business assets to a third party, or we liquidate our business, we reserve the right to transfer your information to such third party and we will use reasonable efforts to gain the agreement of such third party to this Privacy Policy. We will notify users of any such transfer through notice on our site and through email. [Join Now!](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php)
+In the event that we sell, merge or otherwise transfer all or substantially all of our business assets to a third party, or we liquidate our business, we reserve the right to transfer your information to such third party and we will use reasonable efforts to gain the agreement of such third party to this Privacy Policy. We will notify users of any such transfer through notice on our site and through email. [Join Now!](https://web.archive.org/web/20050404090031id_/http%3A//www.diet.com/member/join_now.php)
 
 When This Privacy Policy Does Not Apply
 
@@ -120,6 +120,6 @@ Diet.com, Inc.
 San Francisco, CA   
 94131
 
-[Click here](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php) to join Diet.com - the solution that brings long-term results for life!
+[Click here](https://web.archive.org/web/20050404090031id_/http%3A//www.diet.com/member/join_now.php) to join Diet.com - the solution that brings long-term results for life!
 
 © 2004 Diet.com, Inc. All Rights Reserved.
