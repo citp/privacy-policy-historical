@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004094653id_/http%3A//www.teenhollywood.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604142444id_/http%3A//www.teenhollywood.com/privacy.asp) for the most accurate reproduction.*
 
 # TEENHOLLYWOOD.COM - Privacy Policy
 
@@ -39,4 +39,5 @@ Third party ad servers and agencies serve ads to our web sites. They may collect
 TeenHollywood.com, Inc. maintains reasonable procedures to protect the confidentiality of our members information. Our servers are physically secure and are protected by firewall(s).  
  **Revision of Privacy Statement**  
 We reserve the right to update this policy at any time. Material changes in our use of information (i.e. distribution of information to 3rd parties) will not take effect until a reasonable effort has been make to contact members via e-mail and a one week "opt-out" period has passed.   
-| 
+|  |  |    
+
