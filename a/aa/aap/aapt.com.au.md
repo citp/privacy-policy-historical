@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2002-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020213092335id_/http%3A//www.aapt.com.au/about/reg_compliance/Privacy_Awareness_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205100345id_/http%3A//www.aapt.com.au/about/reg_compliance/Privacy_Awareness_Policy.asp) for the most accurate reproduction.*
 
 # AAPT -> About -> Regulatory Compliance -> AAPT Privacy Awareness Policy
 
-AAPT is committed to the privacy of AAPT customer’s personal information and records and for your information we have documented AAPT’s information handling practices below. Please contact AAPT on 13 88 86 if you wish to discuss any aspect of AAPT’s information handling practices.
+AAPT is committed to the privacy of AAPT customer�s personal information and records and for your information we have documented AAPT�s information handling practices below. Please contact AAPT on 13 88 86 if you wish to discuss any aspect of AAPT�s information handling practices.
 
 ##### Is AAPT bound by the National Privacy Principles or an approved Privacy Code?
 
