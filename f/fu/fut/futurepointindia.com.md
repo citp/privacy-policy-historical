@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futurepointindia.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604015519id_/http%3A//indianastrology.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurepointindia.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603220844id_/http%3A//www.futurepointindia.com/privacy.asp) for the most accurate reproduction.*
 
-# IndianAstrology.com - Privacy Policy
+# FuturePointIndia.com - Privacy Policy
 
   
 **Privacy Policy**
@@ -25,13 +25,13 @@ Personally identifiable information is information, like your name, birth date, 
 
 We will not share any anonymous information about the use of our site with third parties if we know that this information will be linked with your personally identifiable information obtained from another source, unless you have given us permission.
 
-Anonymous information is not personally identifiable information. Anonymous information is information about how you use our site (such as sites you visit and searches you do). Anonymous information also includes the domain names and/or I.P. addresses (as explained below) of internet browsers that visit our site, the time of day the site was visited, and other non-personal information. Anonymous information is information that is not tied to any person who is not registered as an IndianAstrology.com member, but helps us know who what our users do (for example, the average stay on the Money channel lasts over 10 minutes). 
+Anonymous information is not personally identifiable information. Anonymous information is information about how you use our site (such as sites you visit and searches you do). Anonymous information also includes the domain names and/or I.P. addresses (as explained below) of internet browsers that visit our site, the time of day the site was visited, and other non-personal information. Anonymous information is information that is not tied to any person who is not registered as an FuturePointIndia.com member, but helps us know who what our users do (for example, the average stay on the Money channel lasts over 10 minutes). 
 
 **Collection and Use of Personally Identifiable Information**
 
 Registration
 
-We want to assure you that you can visit our site and use many of our services without telling us who you are or revealing any personally identifiable information about yourself to us. It is only when you register to become an IndianAstrology.com member that will you be asked to provide us with personally identifiable information.
+We want to assure you that you can visit our site and use many of our services without telling us who you are or revealing any personally identifiable information about yourself to us. It is only when you register to become an FuturePointIndia.com member that will you be asked to provide us with personally identifiable information.
 
 When you register with us, you need to complete certain fields (some are required and some are optional), as well as pick a first name and password. For example, we ask for information so we can contact you (like your first and last name, email address, and physical address). We use this information in several ways: 
 
@@ -62,6 +62,6 @@ Only certain employees have access to the information you provide us. For exampl
 
 If you have questions about this privacy policy or the practices of this site, please 
 
-[_contact us_](mailto:future20@bol.net.in).
+[_contact us_](mailto:mail@futurepointindia.com).
 
-IndianAstrology.com reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will make necessary efforts to notify you of any significant changes to this privacy policy. 
+FuturePointIndia.com reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will make necessary efforts to notify you of any significant changes to this privacy policy. 
