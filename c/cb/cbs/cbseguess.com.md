@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the cbseguess.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605035127id_/http%3A//cbseguess.com/pages/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbseguess.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229021726id_/http%3A//www.cbseguess.com/pages/privacy_policy.asp) for the most accurate reproduction.*
 
-# CBSE India, CBSE Question Papers, CBSE Tutors, CBSE Books, CBSE Schools in India, CBSE Results, Maths, Science, Socal Studies, Hindi English, India, Delhi, Mumbai, Chennai, Allahabad, Kolkata, Banglore, Hyderabad, Kanpur, Patna Developed By Dreamszsop
+# CBSE India, CBSE Board Guess Questions Papers & Results, CBSE Tutors, Books, Schools India, Indian Educational
 
-  |    
-cbseguess.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices. For additional information about cbseguess.com, please review our Terms of Service.   
+  | cbseguess.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices. For additional information about cbseguess.com, please review our Terms of Service.   
 cbseguess.com does not sell or rent your personal identification to third parties. cbseguess.com does provide your personal identification to selected, affiliated companies to allow them to perform services for members on our behalf. 
 
 Personal Messaging  
@@ -110,5 +109,7 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please 
 
-contact us.  
+[contact us.](https://web.archive.org/web/20041229021726id_/http%3A//www.cbseguess.com/pages/contactus.asp)  
 
+
+|  
