@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aps.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171626id_/http%3A//www558.aps.com/general_info/privacy/privacypolicy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202191508id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_1.html) for the most accurate reproduction.*
 
 # APS :: Privacy Policy
 
-Revision:  November 18, 2002
+Revision:  September 4, 2003
 
 Our postal address is:  
 P.O. Box 53999  
@@ -14,13 +14,11 @@ APS sets high standards and has a strong commitment to protect customers' privac
 
 The information we collect is used to ensure quality customer service, to improve the content of our Web site, to notify consumers about updates to our Web site and to contact consumers for marketing purposes, and for other internal business purposes. 
 
-The APS Web site does use cookies. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to facilitate access to different aspects of your account across our website. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that.
+The APS Web site does use cookies. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies enable us to facilitate access to different aspects of your account across our Web site. If you select the option for aps.com to remember your username and password, a cookie file will be stored on your hard drive after you log in. This allows us to re-populate your username and password on our login form, saving you the trouble of remembering it. You can choose to de-select this option at any time, which will delete the cookie file after you log in. Most Web browsers automatically accept cookies, but you can usually change your Web browser to not accept cookies.
 
-If you do not want to receive e-mail from us in the future, please go to <http://www.aps.com/customer/unsubscribe.asp> and unsubscribe using your e-mail address.
+If you do not want to receive e-mail from us in the future, please let us know by e-mailing us at [aps@aps.com](mailto:aps@aps.com). We will remove your name from our e-mail list. APS reserves the right to contact you should it become necessary for administrative purposes.
 
-We will remove your name from our e-mail list. APS reserves the right to contact you should it become necessary for administrative purposes. 
-
-If you supply us with your postal address or telephone number on-line, you will only receive information related to the reason for which you provided us your address or telephone number. 
+If you supply us with your postal address or telephone number on-line, you will only receive information related to the reason for which you provided us your address or telephone number.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
 
@@ -30,7 +28,7 @@ Note that once posted, you can not change or remove postings that are made in an
 
 We strive to make our Web site secure. We use industry-standard encryption technologies when electronically transferring and receiving customer information through the Web site. We have put in place measures in our physical facilities we believe appropriate to protect against the loss, misuse or alteration of information collected at our Web site. But, information transmitted via e-mail is not secure or encrypted. Also, it may be possible for an unauthorized person to gain access to your information notwithstanding our use of security measures. Therefore, please note that you enter information in this Web site at your own risk.
 
-You can assist us in maintaining the security of your information by being careful and responsible when you are online and by being aware that you are responsible for maintaining the secrecy of any passwords and account information you have regarding this Web site.
+You can assist us in maintaining the security of your information by being careful and responsible when you are online and by being aware that you are responsible for maintaining the secrecy of any passwords and account information you have regarding this Web site. We also advise that you use up-to-date virus scanning software on your computer to reduce the risk of encountering a virus through e-mails.  APS accepts no responsibility or liability for any loss or damage arising from the use of e-mail or their attachments, or for any viruses or errors or delays in the contents that result from e-mail transmissions.
 
 This web site may contain links to other sites that are not operated or controlled by APS ("Third Party Sites"). Use of any information you provide to or on these Third Party Sites is governed by the privacy policy of the operator of those sites. Therefore, we encourage you to review that Third Party Site's privacy policy and terms of use whenever you visit such sites. APS is not responsible for the privacy practices or the content of Third Party Sites.
 
@@ -38,4 +36,4 @@ APS reserves the right to change this policy at any time and encourages you to p
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number. 
 
-The [Terms of Use](https://web.archive.org/web/20030603171626id_/http%3A//www558.aps.com/general_info/privacy/privacypolicy_3.html) provide further information governing your use of APS.com.
+The [Terms of Use](https://web.archive.org/web/20031202191508id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_3.html) provide further information governing your use of aps.com.
