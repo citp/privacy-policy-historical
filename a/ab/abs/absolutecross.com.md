@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the absolutecross.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206033038id_/http%3A//www.absolutecross.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutecross.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621055714id_/http%3A//absolutecross.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy -- Absolute Cross
 
   | 
 
+  
+
+
 **AbsoluteCross.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [AbsoluteCross.com](http://www.absolutecross.com/).
 
 We may collect and use your IP address to help diagnose problems with our server, and to administer our Web site.
-
-This site, Absolute Cross - Graphics and Tips, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 Our site's registration forms pertaining to items such as guestbooks, forums, or mailing lists, etc., may require users to give us contact information (like their name and email address). We may use customer contact information from the registration form to send the user information about our site company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
@@ -30,7 +31,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [webmaster@absolutecross.com](mailto:webmaster@absolutecross.com)
+  1. You can contact us with [this form](https://web.archive.org/web/20030621055714id_/http%3A//absolutecross.com/info/contact.php)
   2. To opt-out of a membership to the Absolute Cross Ezine, see this [form](http://www.absolutecross.com/ezine.htm). 
 
 
@@ -39,7 +40,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [webmaster@absolutecross.com](mailto:webmaster@absolutecross.com)
+  1. contact us with [this form](https://web.archive.org/web/20030621055714id_/http%3A//absolutecross.com/info/contact.php)
 
 
 
@@ -47,6 +48,10 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-David Dunkerley Absolute Cross  3132 N. Ashwood St. Orange, CA 92865 [webmaster@absolutecross.com](mailto:webmaster@absolutecross.com)
+David Dunkerley Absolute Cross  3132 N. Ashwood St. Orange, CA 92865 [contact form](https://web.archive.org/web/20030621055714id_/http%3A//absolutecross.com/info/contact.php)
+
+Check out these _excellent_ sites:
+
+[](http://absolutecross.com/cgi-bin/i/t.cgi?sp1boxedart_bbtn)[](http://absolutecross.com/cgi-bin/i/t.cgi?sp1templates911_bbtn)[](http://absolutecross.com/cgi-bin/i/t.cgi?out1guistuff_bbtn)
 
 |  
