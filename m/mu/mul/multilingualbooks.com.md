@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012164741id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628140152id_/http%3A//multilingualbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -59,10 +59,10 @@ Users of Multilingual Books may change or modify information previously collecte
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-**Internet Language Company**  
-**1205 East Pike Street**  
-**Seattle, WA 98105 USA**  
-
+**Multilingual Books  
+1309 NE Ravenna Boulevard  
+Seattle, WA 98105  
+**
 
 **E-mail:** [**info@multilingualbooks.com**](mailto:info@multilingualbooks.com)
 
