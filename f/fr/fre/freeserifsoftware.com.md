@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211053358id_/http%3A//www.freeserifsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605131537id_/http%3A//www.freeserifsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for FREESerifSoftware.com
 
@@ -88,3 +88,8 @@ Serif, Inc.
 The Software Center  
 13 Hampshire Drive, Suite 12  
 Hudson, NH 03051
+
+  
+
+
+[](http://rd1.hitbox.com/rd?acct=WQ530528NCAA94EN8)
