@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401202905id_/http%3A//www2.lingo24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/privacy.html) for the most accurate reproduction.*
 
 # Lingo24.com privacy policy
 
@@ -23,7 +23,7 @@ Credit/debit card details will be collected but, unlike other details, will not 
 
 We will never collect sensitive information about you without your explicit consent.
 
-We will make every effort to keep the information we hold about you accurate and up to date. You can check this information on the control panel once logged into lingo24.com and are free to make changes yourself or may request changes be administered by ourselves by emailing [support@lingo24.com](mailto:support@lingo24.com).
+We will make every effort to keep the information we hold about you accurate and up to date. You can check this information on the control panel once logged into lingo24.com and are free to make changes yourself or may request changes be administered by ourselves by using [this email form](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/contact_us.html).
 
 The personal information which we hold will be held securely in accordance with our internal security policy, the law and the Which? Web Trader Code.
 
@@ -33,13 +33,13 @@ As with most websites, certain technical information about your visit may be log
 
 Lingo24.com uses 'cookies' to ensure visitor security when using the website. This cookie contains your session ID and also your choice of language. Some browsers are set to not receive cookies. Please note that cookies must be enabled to use the lingo24.com website.
 
-If you have any questions/comments about privacy, you should email us at [support@lingo24.com](mailto:support@lingo24.com).
+If you have any questions/comments about privacy, you should email us through [this email form](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/contact_us.html).
 
 Please press the back button on your web browser to return to the page you were at last.
 
 * * *
 
 Copyright © 2001-2004 Lingo24 Ltd. All Rights Reserved.   
-Lingo24 Ltd: [Terms and Conditions](https://web.archive.org/web/20040401202905id_/http%3A//www2.lingo24.com/termsandconditions.html) | [Privacy](https://web.archive.org/web/20040401202905id_/http%3A//www2.lingo24.com/privacy.html) | [Security](https://web.archive.org/web/20040401202905id_/http%3A//www2.lingo24.com/security.html) | [Support](https://web.archive.org/web/20040401202905id_/http%3A//www2.lingo24.com/customerservices.html) | [Links](https://web.archive.org/web/20040401202905id_/http%3A//www2.lingo24.com/links.html) | [Languages](https://web.archive.org/web/20040401202905id_/http%3A//www2.lingo24.com/language_translations.html) | [Services and Industries](https://web.archive.org/web/20040401202905id_/http%3A//www2.lingo24.com/serviceindustry.html) | [Directory](https://web.archive.org/web/20040401202905id_/http%3A//www2.lingo24.com/directory/index.html)
+Lingo24 Ltd: [Terms and Conditions](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/termsandconditions.html) | [Privacy](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/privacy.html) | [Security](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/security.html) | [Support](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/customerservices.html) | [Links](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/links.html) | [Languages](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/language_translations.html) | [Services and Industries](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/serviceindustry.html) | [Directory](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/directory/index.html) | [Site map](https://web.archive.org/web/20041204043747id_/http%3A//www.lingo24.com/sitemap.html)
 
-[Translation Services](http://www.lingo24.com/) | [Service de traduction](http://fr.lingo24.com/) | [Übersetzungsdienst](http://de.lingo24.com/)
+[Translation Agency](http://www.lingo24.com/) | [Service de traduction](http://fr.lingo24.com/) | [Übersetzungsdienst](http://de.lingo24.com/)
