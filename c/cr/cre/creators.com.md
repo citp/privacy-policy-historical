@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the creators.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204235836id_/http%3A//www.creators.com/index2_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creators.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607163411id_/http%3A//www.creators.com/index2_privacypolicy.html) for the most accurate reproduction.*
 
 # Creators.com - Creators Syndicate
 
 **Privacy Policy**
 
 **In summary**  
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects and stores anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy/>. 
+This site uses the services of third parties for the serving and/or targeting of ads, promotions and other marketing messages. To do this, they collect and store anonymous data typically through the use of a certificate and cookies. 
 
 **What information do we collect? How do we use it?**  
 When you use our "Send To a Friend", which allows you to send your favorite creators works to your friends, we use your name and email address. 
