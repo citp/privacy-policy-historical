@@ -1,29 +1,8 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205033400id_/http%3A//www.acm.org/serving/acm-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606225748id_/http%3A//www.acm.org/serving/acm-privacy.html) for the most accurate reproduction.*
 
-# Draft ACM privacy policy
+# ACM: Privacy Policy
 
-  |  **DRAFT ACM Privacy Policy**
-
-Dear ACM Member:
-
-As a major organization in the information technology field, it is essential that ACM take a leadership position in crafting a Privacy Policy. In fact, one of the imperatives of [ACM's Code of Ethics](http://www.acm.org/constitution/code.html#sect1) (1.7), deals with respecting the privacy of others.
-
-Since the purpose of this policy should be to protect the rights and the confidentiality of its members (see [ACM Code of Ethics](http://www.acm.org/constitution/code.html#sect1), 1.8), it follows that drafting such a policy should be a participatory project, a collaborative effort that attempts to define not only the reasons for establishing specific policies but helps define some of the much talked about and cited cyber intrusions, such as "unsolicited email"  and the very nature of contact itself.
-
-At the same time members will be commenting on this Draft of ACM's overall Privacy Policy, the ACM Committee On Privacy Policy, will be revising this draft based on member comment. These revisions will be posted on the Web at <http://www.acm.org/serving/> periodically for you to understand how member comment has re-shaped the original draft.
-
-In soliciting member comments on the attached document we're hoping that members who are deeply interested in privacy issues come forward and identify themselves so that new grass-roots efforts can be created.
-
-Once a final draft of the Privacy Policy is established, ACM will undertake a thorough review of its practices and make the necessary changes to comply with the new policy.
-
-Please send your comments on the draft ACM Privacy Policy to: [privacy@acm.org](mailto:privacy@acm.org). Please also see the [archive](http://www.acm.org/serving/acm-privacy1.html) of comments received.
-
-Sincerely, 
-
-Lorrie Cranor  
-ACM Privacy Committee 
-
-DRAFT ACM Privacy Policy As of 11/8/00
+  | **ACM Privacy Policy** As of 11/8/00
 
 The Association for Computing Machinery (ACM) is committed to protecting the privacy of its members and customers. ACM recognizes the interest of its members and customers in the confidentiality of their personal information. ACM only maintains personal information that is relevant to ACM activities and seeks to maintain accurate, complete, and timely information. 
 
@@ -37,7 +16,7 @@ Just like any other record keeper, ACM may be required to disclose personal info
 
 Personal data about ACM members and customers may, from time to time, be collected or shared with outside contractors, auditors, consultants, and others hired by ACM to assist in carrying out financial or operational activities. ACM informs recipients about safeguarding personal information, and requires them to use it only for an authorized purpose consistent with this privacy policy, and to return it or destroy it upon completion of the activity. 
 
-ACM members may access the information contained in their membership records and correct and update their member profile and mailing information by going to the following web page - [ http://www.acm.org/membership/dir/profile.html](http://www.acm.org/membership/dir/profile.html) or by contacting ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org). 
+ACM members may access the information contained in their membership records and correct and update their member profile and mailing information by going to the following web page. - <http://www.acm.org/membership/dir/profile.html> In order to update your postal tolerance you will need to contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org). 
 
        **Email Policies**
 
@@ -65,7 +44,7 @@ ACM provides four [postal] mailing list options to its members:
 
 The names and mailing addresses of members who have selected options #2, #3, or #4 (above) may be rented to outside organizations for the purposes of sending mailing packages that have been carefully screened by authorized ACM staff for their suitability. Managers in ACM's Membership Department are responsible for the screening of materials used by those companies or organizations renting ACM's mailing list. Materials must be of an educational nature for ACM to rent its list. ACM licenses mailing list usage for one-time only -- the standard mailing list rental practice, and renters are asked to sign their agreement to this practice. ACM's Mailing List Manager does not "enhance" or overlay any data on ACM's mailing list. ACM does not rent telephone or email addresses. 
 
-Members can select any of the above options via email to  or on their annual renewal invoice. 
+In order to update your postal tolerance you will need to contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org). 
 
        **Online Membership Directory**
 
