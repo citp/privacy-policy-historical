@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepkidshealthy.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207091100id_/http%3A//www.keepkidshealthy.com/welcome/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepkidshealthy.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413074739id_/http%3A//www.keepkidshealthy.com/welcome/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Keep Kids Healthy
 
@@ -8,12 +8,17 @@ We are committed to protecting your privacy. Please read on for more details abo
 **What information do we collect? How do we use it?**  
 We do not currently collect any personal information from the visitors to our web site.
 
-When you place an order through one of our affiliates, all information is sent to amazon.com, etoys.com, drugstore.com, or whatever dealer you are ordering from. No information is collected by this web site. Please see our sponsors respective privacy statements for more information. While they do report to us which items have been ordered, they do not include any personal information that would identify who the buyer is. And no credit card information is sent back to this web site!
+When you place an order through one of our affiliates, all information is sent to amazon.com, drugstore.com, or whatever dealer you are ordering from. No information is collected by this web site. Please see our sponsors respective privacy statements for more information. While they do report to us which items have been ordered, they do not include any personal information that would identify who the buyer is. And no credit card information is sent back to this web site!
 
  **What about the mailing list and newsletters?**  
-The Keep Kids Healthy mailing list is for updating subscribers to new and updated information and available on Keep Kids Healthy. The addresses of subscribers will not be sold, traded or rented to others.
+The Keep Kids Healthy mailing list is for updating subscribers to new and updated information and available on Keep Kids Healthy. The addresses of subscribers will not be sold, traded or rented to others.  
 
- **How do we protect customer information?**  
+
+**What about our advertisers?**  
+Keep Kids Healthy makes use of third party companies to serve banner ads on our site. These companies, including Double Click, often use cookies and gather information to track the effectiveness of these banners. This information shared with DoubleClick (or “third party” advertiser) is non-personally-identifiable. This information collected from customer’s visit to this site and other sites is used to serve ads on this site and other sites. Visitors can choose not to have their information shared with 3rd party advertiser(s), i.e., “opt out”; and may view the [DoubleClick Privacy Policy](http://www.sonar.com/naiprivacy).  
+
+
+**How do we protect customer information?**  
 The only way that we can see your e-mail address is if you e-mail us a question or comment. We do not sell, trade, or rent your personal information to others.
 
   
