@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwltv.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605091719id_/http%3A//www.wwltv.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwltv.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009154547id_/http%3A//www.wwltv.com/registration/privacy.html) for the most accurate reproduction.*
 
 # WWLTV.com | News for New Orleans, Louisiana | Privacy Policy
 
@@ -103,7 +103,7 @@ You may access all of the Personal Information that we collect from you online a
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
   
-1\. Enter (or click) http://signin.wwltv.com in your browser.  
+1\. Enter (or click) <http://www.wwltv.com/sharedcontent/registration/membercenter.jsp> in your browser.  
 2\. Sign in by entering your e-mail address and password. Your account information will then be displayed.  
 3\. To change your contact options select "Contact Options," make your selections, and submit the form.  
 4\. To remove your registration profile from our database, select "Delete My Account," make your selections, and submit the form.
@@ -125,10 +125,8 @@ This Privacy Policy is effective as of March 5, 2004. Belo Interactive reserves 
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1982805719/Position1/default/empty.gif/7a2f4869356c34304b32554142585748?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1026216633/Position1/default/empty.gif/7a2f486a615634304b32594141753654?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1058105538/Position4/default/empty.gif/7a2f4869356c34304b32554142585748?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1539586609/Position4/default/empty.gif/7a2f486a615634304b32594141753654?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1569684145/Position5/default/empty.gif/7a2f4869356c34304b32554142585748?x)
-
-Search local ads and more!
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1059717568/Position5/default/empty.gif/7a2f486a615634304b32594141753654?x)
