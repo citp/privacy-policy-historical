@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecatsite.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209180756id_/http%3A//thecatsite.com/cat_contact/contact.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecatsite.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610201609id_/http%3A//www.thecatsite.com/cat_contact/contact.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # TheCatSite.com - privacy
 
