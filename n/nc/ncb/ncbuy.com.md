@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122251id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012042038id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
 
-# NCBuy.com: Service Center Privacy Policy
+# NCBuy: Service Center Privacy Policy
 
 NetCent Communications has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: NCBuy. Prior to disclosing how specific information is used, there are some terms that should be defined:
 
