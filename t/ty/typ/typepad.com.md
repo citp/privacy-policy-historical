@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typepad.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605204217id_/http%3A//www.typepad.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typepad.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214201447id_/http%3A//www.typepad.com/site/privacy.html) for the most accurate reproduction.*
 
 # TypePad: Privacy Policy
 
@@ -7,8 +7,8 @@
 ### What This Privacy Policy Covers
 
   * This policy covers how Six Apart treats personal information that Six Apart collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Please note that your posting is not considered "personal information" and is not considered the type of information protected by a privacy policy.
+  * This policy covers how Six Apart deals with information about your children under the Children’s Online Privacy Protection Act ("COPPA"), and how parents and legal guardians may request from us how they can review, delete or stop the collection of the personally identifiable information of their child.
   * This policy does not apply to the practices of companies that Six Apart does not own or control, or to people that Six Apart does not employ or manage.
-  * This policy does not address children's privacy issues because Six Apart does not permit children under 13 to use its products and services.
 
 
 
@@ -47,6 +47,14 @@
 
 
 
+### Information Relating to Children
+
+  * The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age; and that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of our Web sites.
+  * When your child attempts to register for our site, we will require a parent or legal guardian to complete the registration and to submit a credit card to verify that they are the child’s parent or guardian. Once the registration is complete, the information we collect will be the same as that described above for any other user of the site.
+  * If you would like to review, delete or stop the collection of the personally identifiable information of your child, see “Your Ability to Edit and Delete Your Account Information and Preferences -- How parents can access their children’s personal information” below.
+
+
+
 ### Information Sharing and Disclosure
 
   * When you post a message, your Six Apart ID or alias that you are posting under is visible to other users.
@@ -68,11 +76,23 @@
   * You can [edit your Six Apart Account Information](https://www.typepad.com/t/app/control/profile) at any time.
   * We reserve the right to send you certain communications relating to the Six Apart service, such as service announcements, administrative messages and the Six Apart Newsletter, that are considered part of your Six Apart account, without offering you the opportunity to opt-out of receiving them.
   * You can delete your Six Apart account by visiting our [Account Deletion](https://www.typepad.com/t/app/control/account?__mode=cancel) page; however, please note that your identification, billing and contact information will remain in Six Apart's record for a commercial reasonable time for archival purposes.
-Confidentiality and Security 
+
+
+
+#### Confidentiality and Security
+
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
   * We have physical, electronic, and procedural safeguards to protect personal information about you.
   * Your Six Apart Account Information is password-protected.
   * In certain areas, Six Apart uses industry-standard SSL-encryption to protect data transmissions.
+
+
+
+#### How Parents can Access their Children’S Personal Information
+
+  * In compliance with the Children's Online Privacy Protection Act ("COPPA"), parents and legal guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so in one of two ways.
+  * If you know the user name and password, follow the instructions above under "General," or you may fill out and either fax or mail the form which you may access [here](http://6a.typepad.com/site/coppa-information-access-form.pdf). This form will allow parents to receive the personally identifiable information collected, have this information deleted, and/or request that no further information about their child be collected or used.
+  * If you request that no further information about your child be collected or used, we will be required to terminate your child’s ability to use Six Apart’s products and services that require a user to "sign in."
 
 
 
