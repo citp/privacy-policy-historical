@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3wishes.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208183734id_/http%3A//www.3wishes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3wishes.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406120243id_/http%3A//www.3wishes.com/privacy.asp%23Privacy) for the most accurate reproduction.*
 
 # 3 Wishes Lingerie - Privacy Statement & Security Policy
 
@@ -9,11 +9,12 @@ Privacy
 ****3 Wishes Lingerie values your Privacy.  
 **We do not sell, rent or loan any identifiable information (including e-mail address, phone number, etc.) regarding our customers to anybody. We will not solicit you by phone or mail. Any information you provide us with will be used responsibly, is held with the utmost care and security, and will not be used in ways to which you have not consented.
 
-Use of Information: 3 Wishes Lingerie will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. In order to process your order 3 Wishes Lingerie must obtain some information from each customer. Examples of information you may provide us with: name, postal address, e-mail address and phone number, which will be used to process your order. Your private information is kept safe, secure and private at 3 Wishes Lingerie.
+Use of information: 3 Wishes Lingerie will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. In order to process your order, 3 Wishes Lingerie must obtain some information from each customer. Examples of information you may provide us with: name, postal address, e-mail address and phone number, which will be used to process your order. Your private information is kept safe, secure and private.
 
 * * *
 
-**Guarantee /Security   
+**  
+Guarantee / Security   
 ****3 Wishes Lingerie 100% Safe Shopping Guarantee.**  
 Shopping at 3 Wishes Lingerie is safe. That's why we back every credit card purchase with our 100% Safe Shopping Guarantee. We guarantee that every transaction you make at 3 Wishes Lingerie will be safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at 3 Wishes Lingerie.
 
@@ -22,13 +23,12 @@ Safety in numbers:** When you shop at 3 Wishes Lingerie, you'll be one of thousa
 
 **Safe technology:** Our Secure Sockets Layer (SSL) software is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
 
-**Guarantee Details:**  
-Under the Fair Credit Billing Act, your bank cannot hold you liable for more than fifty dollars worth of fraudulent charges. If your bank does hold you liable for any of this fifty dollars, 3 Wishes Lingerie will cover the entire liability for you, up to the full fifty dollars. 3 Wishes Lingerie will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at 3 Wishes Lingerie while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+**Guarantee Details:** Under the Fair Credit Billing Act, your bank cannot hold you liable for more than fifty dollars worth of fraudulent charges. If your bank does hold you liable for any of this fifty dollars, 3 Wishes Lingerie will cover the entire liability for you, up to the full fifty dollars. 3 Wishes Lingerie will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at 3 Wishes Lingerie while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
 * * *
 
   
-Additional information to assist you.
+**Additional information to assist you.**
 
 Choice/Opt-Out
 
