@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2003-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030205124950id_/http%3A//browncafe.com/statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605204119id_/http%3A//browncafe.com/statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -71,7 +71,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 | 
 
-[News](http://browncafe.com/news.htm)
+[News](http://browncafe.com/news.shtml)
 
 | 
 
@@ -89,9 +89,9 @@ If you have any questions about this privacy statement, the practices of this si
 
 | 
 
-[Quotes](http://fast.quote.com/fq/instapage/pmv/view/rAqeqbqABuFCmrwjjBtogujz1a09)  
+[Quotes](http://browncafe.com/stockport/stock_port.php)  
   
-[Our Privacy Policy](http://browncafe.com/statement.shtml) ~ [Information Integrity](http://browncafe.com/integrity.shtml) ~ [Terms of Service](http://browncafe.com/tos.shtml) ~ [Search](http://browncafe.com/cgi-bin/search/search.cgi) ****  
+[Our Privacy Policy](http://browncafe.com/statement.shtml) ~ [Information Integrity](http://browncafe.com/integrity.shtml) ~ [Terms of Service](http://browncafe.com/tos.shtml) ~ [Search](http://browncafe.com/search/search.pl) ****  
   
 the fine print...
 
