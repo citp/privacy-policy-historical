@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenfreeway.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606182839id_/http%3A//www.teenfreeway.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenfreeway.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023024629id_/http%3A//teenfreeway.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
