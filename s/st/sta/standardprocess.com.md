@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the standardprocess.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215180235id_/http%3A//standardprocess.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardprocess.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621165509id_/http%3A//standardprocess.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Standard Process Inc. - Privacy Policy
 
 PRIVACY POLICY
 
-Standard Process Inc. shares your concerns about privacy on the Internet. In order to better protect your privacy, Standard Process Inc. has provided this notice explaining its online information practices and the choices you can make about the way your information is collected and used on the Site. Furthermore, this Privacy Policy, being part of the Terms, works in conjunction with the [Terms and Conditions of Use](https://web.archive.org/web/20021215180235id_/http%3A//standardprocess.com/TermsOfUse.asp), but does not modify or supercede it.
+Standard Process Inc. shares your concerns about privacy on the Internet. In order to better protect your privacy, Standard Process Inc. has provided this notice explaining its online information practices and the choices you can make about the way your information is collected and used on the Site. Furthermore, this Privacy Policy, being part of the Terms, works in conjunction with the [Terms and Conditions of Use](https://web.archive.org/web/20030621165509id_/http%3A//standardprocess.com/TermsOfUse.asp), but does not modify or supercede it.
 
 **Standard Process Inc.'s Collection and Use of Your Information**  
 In the course of using the Site, Standard Process Inc. may ask you for your name, e-mail address, postal address, telephone number, fax number as well as other relevant information. Standard Process Inc. also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '98 or Mac OS), the domain name of your Internet service provider (e.g., America Online, Earthlink), aggregate data about the number of visits to the Site and/or aggregate data about the pages visited. 
