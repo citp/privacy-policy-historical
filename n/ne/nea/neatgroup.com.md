@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the neatgroup.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406040922id_/http%3A//www.neatgroup.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatgroup.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201205758id_/http%3A//neatgroup.com/policy.asp) for the most accurate reproduction.*
 
 # Neat Group : Privacy Policy
 
-**ANY WRITTEN AGREEMENTS BETWEEN YOU AND NEAT GROUP, INC., INCLUDING ANY NON-DISCLSOURE AND CONFIDENTIALITY AGREEMENTS, ARE HEREBY INCORPORATED BY REFERENCE. IN THE EVENT OF A CONFLICT BETWEEN ANY PROVISIONS IN THIS PRIVACY POLICY AND THE PROVISIONS IN ANY WRITTEN AGREEMENTS BETWEEN YOU AND NEAT GROUP, INC., THE WRITTEN AGREEMENT WILL CONTROL.**
+**Neat Privacy Policy**
+
+**ANY WRITTEN AGREEMENTS BETWEEN YOU AND NEAT GROUP, INC., INCLUDING ANY NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENTS, ARE HEREBY INCORPORATED BY REFERENCE. IN THE EVENT OF A CONFLICT BETWEEN ANY PROVISIONS IN THIS PRIVACY POLICY AND THE PROVISIONS IN ANY WRITTEN AGREEMENTS BETWEEN YOU AND NEAT GROUP, INC., THE WRITTEN AGREEMENT WILL CONTROL.**
 
 #### WHAT KIND OF INFORMATION WILL BE COLLECTED?
 
@@ -20,7 +22,7 @@ Neat will not sell , rent, or share the information collected through our Web si
 
 #### CHANGES IN OUR PRIVACY POLICY
 
-This Privacy Policy was posted on Neatgroup.com in February, 2001. Neat reserves the right to modify or amend this Privacy Policy at any time and for any reason. Any material changes to this statement or in how Neat will use information will be prominently posted prior to Neat's implementation the change(s). 
+Neat reserves the right to modify or amend this Privacy Policy at any time and for any reason. Any material changes to this statement or in how Neat will use information will be prominently posted prior to Neat's implementation the change(s). 
 
 #### LEGAL OBLIGATIONS
 
