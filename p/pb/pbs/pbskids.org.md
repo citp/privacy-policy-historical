@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203014734id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621191027id_/http%3A//pbskids.org/pkhomepage/redir/privacy) for the most accurate reproduction.*
 
 # PBS Kids . Privacy Policy
 
@@ -21,7 +21,7 @@ We also promise to help families and communities find the information they need 
 
   * When a PBS Kids site is partially funded by outside sponsors, we will mark any underwriter logos with a "sponsored by" tag. We choose our underwriters carefully, to make sure that the company's products and services fit PBS standards. PBS Kids sites will not contain advertisements promoting e-commerce or direct links to e-commerce.
   * All links to third party sites are insulated with a PBS Kids bridge page. These pages clearly notify the visitor that he or she is leaving PBS Kids, and offers an opportunity to return to PBS Kids. Each bridge page displays a Web literacy tip, educating visitors how to be safe on the Internet. In the case of a sponsor's link, the bridge page will provide more information about the sponsor's relationship to PBS. Since we cannot be assured that links to outside sites follow our safety or privacy guidelines, we encourage families to discuss these choices together. We are not responsible for the content or safety and privacy practices at any sites linked from our pages.
-  * With areas of our site like "[Get Your Web License](https://web.archive.org/bts/license/)," and our "[Know Before You Go](https://web.archive.org/web/20021203014734id_/http://pbskids.org/privacy/literacytips.html)" Web literacy tips, we will continue to empower our visitors by helping them to make informed choices. 
+  * With areas of our site like "[Get Your Web License](https://web.archive.org/bts/license/)," and our "[Know Before You Go](https://web.archive.org/web/20030604095153id_/http://pbskids.org/privacy/literacytips.html)" Web literacy tips, we will continue to empower our visitors by helping them to make informed choices. 
 
 
 
@@ -29,6 +29,6 @@ Your family's use of this site is conditioned on your having accepted these term
 
 We want to make this site a place where families can surf together, and where parents and caregivers are happy to have their children interact, learn and play. If you have any comments or questions, we're happy to hear them. This is, after all, **your** site. 
 
-If you have any questions or concerns regarding this policy, send us an e-mail at [kids@pbs.org](https://web.archive.org/write/write.html). You may also contact us at 1320 Braddock Place, Alexandria, VA 22314 (703 739-5127). Please read the [Rules of the Road](https://web.archive.org/web/20021203014734id_/http://pbskids.org/privacy/rulesoftheroad.html) for Terms and Conditions for using this site. Read the [PBS Online Privacy Policy](https://web.archive.org/cgi-registry/kidsbridge.cgi?context=pbskids_pbsonline_privacy) for the sites hosted on pbs.org. 
+If you have any questions or concerns regarding this policy, send us an e-mail at [kids@pbs.org](https://web.archive.org/write/write.html). You may also contact us at 1320 Braddock Place, Alexandria, VA 22314 (703 739-5127). Please read the [Rules of the Road](https://web.archive.org/web/20030604095153id_/http://pbskids.org/privacy/rulesoftheroad.html) for Terms and Conditions for using this site. Read the [PBS Online Privacy Policy](https://web.archive.org/cgi-registry/kidsbridge.cgi?context=pbskids_pbsonline_privacy) for the sites hosted on pbs.org. 
 
 Last modified: July 31, 2002 
