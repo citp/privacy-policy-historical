@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netapp.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603031042id_/http%3A//netapp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netapp.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204061026id_/http%3A//www.netapp.com/privacy.html) for the most accurate reproduction.*
 
 # Network Appliance - Privacy Policy Statement
 
@@ -10,7 +10,7 @@ Our postal address is:
 495 East Java Drive  
 Sunnyvale, CA 94089**
 
-We can be reached via e-mail at webmaster@netapp.com or you can reach us by telephone at 800-44-FILER (800-443-4537). 
+We can be reached [via the Web](https://web.archive.org/web/20041204061026id_/http%3A//www.netapp.com/company/feedback.cgi), or by telephone at 800-44-FILER (800-443-4537). 
 
 For each visitor to our Web page, our Web server automatically recognizes only the visitor's domain name, but not the e-mail address (where possible). 
 
