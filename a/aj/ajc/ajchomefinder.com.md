@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajchomefinder.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604214457id_/http%3A//www.ajcclassifieds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajchomefinder.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207150951id_/http%3A//www.ajcclassifieds.com/privacy.html) for the most accurate reproduction.*
 
 # Atlanta Journal-Constitution Classifieds
 
