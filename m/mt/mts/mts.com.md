@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mts.com privacy policy that was archived on 2003-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030212071301id_/http%3A//www.mts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mts.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203071314id_/http%3A//www.mts.com/privacy.htm) for the most accurate reproduction.*
 
 # MTS Systems Internet Privacy Statement
 
@@ -23,5 +23,3 @@
 > It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information.
 > 
 > MTS Systems Corporation reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages.
-
- 
