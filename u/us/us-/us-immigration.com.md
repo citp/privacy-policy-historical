@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205050322id_/http%3A//www.us-immigration.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607030629id_/http%3A//www.us-immigration.com/privacy.html) for the most accurate reproduction.*
 
-# American Immigration Center - Information for Obtaining Green Cards, US Citizenship, US Visas & Immigration Do-it-Yourself Products
+# American Immigration Center - Immigration, Green Cards and Information
 
 **Privacy Statement**
 
