@@ -1,11 +1,44 @@
-> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411131824id_/http%3A//4inkjets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610214750id_/http%3A//4inkjets.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-| | [](https://web.archive.org/web/20030411131824id_/http%3A//4inkjets.com/index.html)
+  
+  
+ [Photo Paper](http://4inkjets.com/inkjetpaper.html)   
+ [Apollo](http://4inkjets.com/apollo.html)   
+ [Apple](http://4inkjets.com/apple.html)   
+ [Brother](http://4inkjets.com/brother.html)   
+ [Canon](http://4inkjets.com/canon1.html)   
+ [Compaq](http://4inkjets.com/compaq.html)   
+ [Dell](http://4inkjets.com/dell.html)   
+ [Epson](http://4inkjets.com/epson.html)   
+ [Lexmark](http://4inkjets.com/lexmarkibm.html)   
+ [Hewlett Packard](http://4inkjets.com/hewlettpackard1.html)   
+ [IBM](http://4inkjets.com/ibm.html)   
+ [NEC](http://4inkjets.com/nec.html)   
+ [Panasonic](http://4inkjets.com/panasonic.html)   
+ [Pitney Bowes](http://4inkjets.com/pitneybowes.html)   
+ [Samsung](http://4inkjets.com/samlasprinsu.html)   
+ [Sharp](http://4inkjets.com/sharp.html)   
+ [Tektronix](http://4inkjets.com/xerteksolink.html)   
+ [Toshiba](http://4inkjets.com/toscomtoncar.html)   
+ [Xerox](http://4inkjets.com/xerox.html)   
+ [i-Stick Pen Drives](http://4inkjets.com/insticisusbf.html)   
+ [Flash Memory](http://4inkjets.com/digmemcomfla.html)   
+ [Burners/Software](http://4inkjets.com/dvanddvbuand.html)   
+ [Customer Service](http://4inkjets.com/cuse.html)
+
+  
+  
+GEIDMTRGEL2U.  
+  
+6DA3DMEWFBZO.  
+
+
+| | [](https://web.archive.org/web/20040610214750id_/http%3A//4inkjets.com/index.html)
 
 Privacy Statement |  | **4Inkjets! : Privacy Notice**  
-Effective **12/01/1999**
+Effective **12/01/1999 - Current**
 
 **Privacy Notice Table Of Contents:**
     Our Commitment To Privacy
@@ -77,4 +110,14 @@ Should you have other questions or concerns about these privacy policies, please
   
 ---|---  
   
-| 
+| | |  [](https://www.scanalert.com/RatingVerify?ref=www.4inkjets.com)
+
+  
+|   
+---  
+ Email :   
+ First Name :   
+ Last Name :   
+  
+My email supports HTML.  
+
