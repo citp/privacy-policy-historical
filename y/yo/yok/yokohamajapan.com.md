@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yokohamajapan.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208063935id_/http%3A//citiesunlimited.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yokohamajapan.com privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310004027id_/http%3A//www.citiesunlimited.com/privacy.htm) for the most accurate reproduction.*
 
 # Cities Unlimited - Your "Home" Page
 
