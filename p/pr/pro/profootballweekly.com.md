@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profootballweekly.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603190344id_/http%3A//www.profootballweekly.com/PFW/About%2BUs/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballweekly.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210035222id_/http%3A//www.profootballweekly.com/PFW/About%2BUs/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # ProFootballWeekly.com / About Us / Privacy Statement
 
