@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the idaho.gov privacy policy that was archived on 2003-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603192049id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idaho.gov privacy policy that was archived on 2003-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031206163742id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy - Access Idaho</title>
@@ -21,82 +21,21 @@
 
 <body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#ffffff" text="#000000" link="#0000ff" alink="#ff6600" vlink="#6699ff" onload="init();">
 
-<div id="DMBRI" style="position: absolute; visibility: hidden;">
-<img src="/media/dmb_i.gif" name="DMBImgFiles">
-<img src="/inc/dmb_m.gif" name="DMBJSCode">
+<div id="DMBRI" style="position:absolute;">
+<img src="/media/dmb_i.gif" name="DMBImgFiles" width="1" height="1" border="0" alt="">
+<img src="/inc/dmb_m.gif" name="DMBJSCode" width="1" height="1" border="0" alt="">
 </div>
 <script language="JavaScript" type="text/javascript">
-	var rimPath = null;
-	var rjsPath = null;
-	var rPath2Root = null;
-	
-	function InitRelCode() {
-		var iImg;
-		var jImg;
-		var tObj;
-		
-		if(!document.layers) {
-			iImg = document.images['DMBImgFiles'];
-			jImg = document.images['DMBJSCode'];
-			tObj = jImg;
-		} else {
-			tObj = document.layers['DMBRI'];
-			if(tObj) {
-				iImg = document.layers['DMBRI'].document.images['DMBImgFiles'];
-				jImg = document.layers['DMBRI'].document.images['DMBJSCode'];
-			}
-		}
-		if(!tObj) {
-			window.setTimeout("InitRelCode()", 1500);
-			return false;
-		}
-		
-		rimPath = _gp(iImg.src);
-		rjsPath = _gp(jImg.src);
-		rPath2Root = rjsPath + "../";
-		
-		return true;
-	}
-	
-	function _purl(u) {
-		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
-	}
-	
-	function _fip(img) {
-		if(!img.fixed) {
-			if(img.src.indexOf("%%REL%%")!=-1)
-				img.src = rimPath + img.src.split("%%REL%%")[1];
-			img.fixed = true;
-		}
-		return img.src;
-	}
-	
-	function _gp(p) {
-		return p.substr(0,p.lastIndexOf("/")+1);
-	}
-	
-	function FixImages() {
-		var h = null;
-	
-		if(typeof(hStyle)!="undefined") h = hStyle;
-		if(typeof(hS)!="undefined") h = hS;
-		if(h)
-			for(var i=0; i<h.length; i++)
-				h[i] = xrep(h[i], "%%REL%%", rimPath);
-	}
-	
-	InitRelCode();
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['DMBImgFiles'];jImg=document.images['DMBJSCode'];tObj=jImg;}else{tObj=document.layers['DMBRI'];if(tObj){iImg=tObj.document.images['DMBImgFiles'];jImg=tObj.document.images['DMBJSCode'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
 </script>
 <script language="JavaScript" type="text/javascript">
 function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
 if(navVer.substr(0,3) >= 4)
-if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4))
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
 document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'nsmenu.js"><\/script\>');
-else
+} else {
 document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'iemenu.js"><\/script\>');
-}LoadMenus();</script><script language="JavaScript" type="text/javascript" src="https://web.archive.org/inc/iemenu.js"></script>
-<!-- DHTML Menu Builder Loader Code END -->
-
+}return true;}LoadMenus();</script><script language="JavaScript" type="text/javascript" src="https://web.archive.org/inc/iemenu.js"></script>
 
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
@@ -106,7 +45,7 @@ document.write('<' + 'script language="JavaScript" type="text/javascript" src="'
 
     <tr>
         <td width="163" class="aiEmCell10" rowspan="2"><a href="/"><img src="/media/ai_logo.gif" width="163" height="46" border="0" name="ailogo" alt="Access Idaho"></a></td>
-      <td width="100%" class="aiEmCell10" align="right"><a class="aiEmCell10" href="#maincontent">Skip Navigation</a><img src="/media/topnav_hunk.gif" width="72" height="19" border="0" alt=""><a href="/"><img src="/media/topnav_home.gif" width="42" height="19" border="0" name="topnav_home" alt="Home"></a><a href="/online_services/search.html"><img src="/media/topnav_search.gif" width="64" height="19" border="0" name="topnav_search" alt="Search"></a><a href="/topical.html"><img src="/media/topnav_agencyindex.gif" width="97" height="19" border="0" name="topnav_agencyindex" alt="Agency Index"></a><a href="/public/portal/calendar.html"><img src="/media/topnav_calendar.gif" width="78" height="19" border="0" name="topnav_calendar" alt="Calendar"></a><a href="/public/portal/howdoi.html"><img src="/media/topnav_howdoi.gif" width="84" height="19" border="0" name="topnav_howdoi" alt="How Do I"></a></td>
+      <td width="100%" class="aiEmCell10" align="right"><a class="aiEmCell10" href="#maincontent">Skip Navigation</a><img src="/media/topnav_hunk.gif" width="72" height="19" border="0" alt=""><a href="/"><img src="/media/topnav_home.gif" width="42" height="19" border="0" name="topnav_home" alt="Home"></a><a href="/online_services/search.html"><img src="/media/topnav_search.gif" width="64" height="19" border="0" name="topnav_search" alt="Search"></a><a href="/topical.html"><img src="/media/topnav_agencyindex.gif" width="97" height="19" border="0" name="topnav_agencyindex" alt="Agency Index"></a><a href="/public/portal/calendar.html"><img src="/media/topnav_calendar.gif" width="78" height="19" border="0" name="topnav_calendar" alt="Calendar"></a><a href="/public/portal/contact.html?ScriptForm.contactformstep=general"><img src="/media/topnav_contact_us.gif" width="84" height="19" border="0" alt="Contact Us"></a></td>
 
     </tr>
 
@@ -257,7 +196,7 @@ Alliance.</a></p>
   </tr>
   <tr>
     <td width="132"><img src="/media/spacer.gif" width="132" height="1" border="0" alt=""></td>
-    <td width="100%" class="aiSmall">Copyright © 2000-2002, Access Idaho. All rights reserved. &nbsp; Menus built using <a href="http://software.xfx.net/">DHTML Menu Builder</a>.<br>&nbsp;</td>
+    <td width="100%" class="aiSmall">Copyright © 2000-2003, Access Idaho. All rights reserved. &nbsp; Menus built using <a href="http://software.xfx.net/">DHTML Menu Builder</a>.<br>&nbsp;</td>
   </tr>
 </tbody></table>
 
