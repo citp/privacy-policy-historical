@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the multiplayer.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402170631id_/http%3A//www.multiplayer.com/modules.php%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplayer.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210102146id_/http%3A//www.multiplayer.com/modules.php%3Fname%3DPrivacy) for the most accurate reproduction.*
 
 # Multiplayer.com
 
 |   
 ---  
   
-There are currently, 22 guest(s) and 0 member(s) that are online.
+There are currently, 21 guest(s) and 0 member(s) that are online.
 
-You are Anonymous user. You can register for free by clicking [here](https://web.archive.org/web/20040402170631id_/http%3A//www.multiplayer.com/modules.php?name=Your_Account&op=new_user)  
+You are Anonymous user. You can register for free by clicking [here](https://web.archive.org/web/20041210102146id_/http%3A//www.multiplayer.com/modules.php?name=Your_Account&op=new_user)  
   
    
   
 ---  
   
   
-[](http://www.amazon.com/exec/obidos/ASIN/B00005JKEX/jagwarecom-20)  
+[](http://www.amazon.com/exec/obidos/ASIN/0886779308/jagwarecom-20)  
   
    
   
@@ -106,21 +106,3 @@ Questions or Suggestions
 
 
 | 
-
-|   
----  
-  
-| [](http://www.multiplayergamepass.com/abPortal.asp)  
----  
-[ASTROBATTLE](http://www.multiplayergamepass.com/abPortal.asp) is a multiplayer network space simulation where you design, program and pilot your own space craft against online opponents.   
-  
-  
-[](http://www.multiplayergamepass.com/territoriesPortal.asp)  
-[Territories 3069](http://www.multiplayergamepass.com/territoriesPortal.asp) is a multi-user, graphical turn-based strategy game where players compete against one another to rule the known universe. Players must gather and manage resources, plan and execute attacks with large fleets of ships and defend their own galaxies.  
-  
-Sign up right now for a 7 day trial with unlimited access to **AstroBattle** and **Territories 3069** \- plus a dozen more of the hottest independent online multiplayer games for just 
-
-**$3.75**.  
-  
-  
- 
