@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413195943id_/http%3A//www.babynames.com/V5/index.php%3Fcontent%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205235854id_/http%3A//www.babynames.com/V5/index.php%3Fcontent%3Dprivacy.htm) for the most accurate reproduction.*
 
 # BABYNAMES.COM - Baby Names! Baby Names! Baby Names! Naming the World, One Baby at a Time.
 
@@ -21,11 +21,14 @@
 >  **BabyNames.com** contains advertising and links to other sites, however we assume no liability and are not responsible for any practices of such third party Web sites, including their privacy practices or content. 
 > 
 > **SECURITY**  
->  **BabyNames.com** has security measures in place to protect the loss, misuse and alteration of the information under our control with SSL encryption, firewall intervention, software and hardware redundancy and a comprehensive data backup schedule. Nonetheless, we cannot guarantee the protection of such information against loss, misuse or alteration.   
+>  **BabyNames.com** has security measures in place to protect the loss, misuse and alteration of the information by third parties. We use SSL encryption, firewall intervention, software and hardware redundancy and a comprehensive data backup schedule. Nonetheless, we cannot guarantee the protection of such information against loss, misuse or alteration.   
 > 
 > 
 > **CHILDREN'S GUIDELINES**  
 >  **BabyNames.com** discourages users under the age of 13 from entering any personal information without consent from a parent or legal guardian. BabyNames.com does not condone posting or distribution of personally identifiable contact information of any individual, including baby's surnames. **BabyNames.com** does not entice (by the prospect of a special game, prize or other activity) any person to divulge more information than is needed to participate in any given activity. 
+> 
+> **REMOVAL OF PERSONAL INFORMATION**  
+>  To remove your personal information from the **BabyNames.com** database, please fax a signed letter to (888) 648-8817 with your BabyNames.com username and/or email addresss. 
 > 
 > **HOW TO CONTACT BABYNAMES.COM**   
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: [info@BabyNames.com](mailto:info@BabyNames.com)
@@ -34,7 +37,7 @@
 >
 >> BabyNames.com  
 >  User Support Services  
->  11901 Santa Monica Blvd. #644  
+>  1940 Westwood Blvd. #218  
 >  Los Angeles, CA 90025   
 >  [info@BabyNames.com](mailto:info@babynames.com)  
 > 
