@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003195512id_/http%3A//www.copernic.com/en/company/privacy/privacy-web.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605214655id_/http%3A//www.copernic.com/en/company/privacy/privacy-web.html) for the most accurate reproduction.*
 
 # Copernic - Company Info - Web Site Privacy Policy for www.copernic.com
 
@@ -6,7 +6,7 @@
 
 **   
 Web Site Privacy Policy for www.copernic.com  
-******[Click here to go to our Software Privacy Policy.](https://web.archive.org/web/20031003195512id_/http%3A//www.copernic.com/en/company/privacy/privacy-software.html)** **
+******[Click here to go to our Software Privacy Policy.](https://web.archive.org/web/20040605214655id_/http%3A//www.copernic.com/en/company/privacy/privacy-software.html)** **
 
 > Copernic Technologies, Inc. has created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.copernic.com. 
 > 
@@ -34,7 +34,9 @@ Web Site Privacy Policy for www.copernic.com
 > 
 > **Additional information about privacy  
 >  **   
->  For further information concerning this Privacy Policy or its application, please write to us in English or French only at [privacy@copernic.com](mailto:privacy@copernic.com). 
+>  For further information concerning this Privacy Policy or its application, please write to us in English or French only at
+> 
+> . 
 
-© 2003 Copernic Technologies, Inc. All rights reserved. [  
-Contact Us](https://web.archive.org/web/20031003195512id_/http%3A//www.copernic.com/en/contact/index.html) | [Privacy Policy](https://web.archive.org/web/20031003195512id_/http%3A//www.copernic.com/en/company/privacy/privacy-web.html) | [Company Info](https://web.archive.org/web/20031003195512id_/http%3A//www.copernic.com/en/company/index.html) | [E-mail this Page](mailto:?subject=A%20page%20on%20Copernic%27s%20Web%20site%20%28www.copernic.com%29&body=Here%20is%20an%20interesting%20page%20on%20Copernic%27s%20Web%20site%3A%20%20https://web.archive.org/web/20031003195512id_/http%3A//www.copernic.com/en/company/privacy/privacy-web.html)
+© 2004 Copernic Technologies, Inc. All rights reserved. [  
+Contact Us](https://web.archive.org/web/20040605214655id_/http%3A//www.copernic.com/en/contact/index.html) | [Privacy Policy](https://web.archive.org/web/20040605214655id_/http%3A//www.copernic.com/en/company/privacy/privacy-web.html) | [Company Info](https://web.archive.org/web/20040605214655id_/http%3A//www.copernic.com/en/company/index.html) | [Email this Page](mailto:?subject=A%20page%20on%20Copernic%27s%20Web%20site%20%28www.copernic.com%29&body=Here%20is%20an%20interesting%20page%20on%20Copernic%27s%20Web%20site%3A%20%20https://web.archive.org/web/20040605214655id_/http%3A//www.copernic.com/en/company/privacy/privacy-web.html)
