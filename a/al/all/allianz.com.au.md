@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012011959id_/http%3A//www.allianz.com.au/internet/allianz.nsf/docs/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628053945id_/http%3A//www.allianz.com.au/internet/allianz.nsf/docs/Privacy) for the most accurate reproduction.*
 
-# Allianz Australia | Privacy
+# Privacy | Allianz Australia
 
 ## New laws about privacy
 
-Protecting your privacy and the confidentiality of your personal information is important to us, as it is fundamental to the way we conduct business. 
+Protecting your privacy and the confidentiality of your personal information is important to us, as it is fundamental to the way we conduct business.
 
-Allianz is sensitive to privacy issues and treats very seriously the ongoing trust our customers have placed in us. Over 60 million customers in more than 70 countries trust their information to Allianz worldwide.
+Allianz is sensitive to privacy issues and treats very seriously the ongoing trust our customers have placed in us. 60 million customers in more than 70 countries trust their information to The worldwide Allianz Group.
 
-You can relax knowing that Allianz Australia aspires to Insurance Industry best practice procedures and believe we have some of the most robust systems in place for handling and protecting your private information.
+You can relax knowing that Allianz Australia aspires to Insurance Industry best practice procedures and believe we have robust systems in place for handling and protecting your private information.
 
 ## Why do we require your personal information?
 
@@ -20,7 +20,7 @@ The information requested allows us to assess risks, write and administer your i
 
 ## Disclosure of your personal information to third parties
 
-As with most insurers, Allianz Australia relies on third party suppliers (agents, loss adjusters, assessors, other insurers, mailhouses etc) to carry out specialised activities. These third parties act on behalf of Allianz Australia. Whilst your personal information may be provided to these third parties to enable them to perform their agreed activities, they are bound by confidentiality and non-disclosure agreements and are prohibited from using the information for any other purpose. We also ensure they are aware of our obligations under the Privacy Act and that they agree to be bound by these obligations.
+We disclose personal information to third parties who we believe are necessary to assist us and them in providing the relevant services and products. For example, in handling claims, we may have to disclose your personal and other information to third parties such as other insurers, loss adjusters, investigators, agents and others involved in the claims handling process, or as required by law. We limit the use and disclosure of any personal information provided by us to them to the specific purpose for which we supplied it.
 
 ## Contacting us about access and correction of your personal information
 
@@ -35,8 +35,17 @@ From time to time we may advise or offer you information on other Allianz produc
 
 In the course of using this site you may provide Allianz with personal information. Allianz will use all reasonable measures to 
 
-[protect any such information](https://web.archive.org/web/20021012011959id_/http%3A//www.allianz.com.au/internet/allianz.nsf/docs/Security) from being used for any other purpose other than the provision of Allianz or any Related Body Corporates insurance products or services. 
+[protect any such information](https://web.archive.org/web/20030628053945id_/http%3A//www.allianz.com.au/internet/allianz.nsf/docs/Security) from being used for any other purpose other than the provision of Allianz or any Related Body Corporates insurance products or services. 
 
 If you would like further information regarding Privacy in general or the National Privacy Principles, please visit the Privacy Commissioner's website [www.privacy.gov.au](http://www.privacy.gov.au/)
 
-**View the**[ **Allianz Privacy Brochure PDF**](https://web.archive.org/web/20021012011959id_/http%3A//www.allianz.com.au/internet/allianz.nsf/docs/PrivacyPDF) **.**
+## New Laws about privacy and the protection of your personal information.
+
+Protecting your privacy and the confidentiality of your personal information is important to us, as it is fundamental to the way we conduct business. Allianz is sensitive to privacy issues and treats very seriously the ongoing trust our customers have placed in us. 
+
+* * *
+
+* * *
+
+[](http://www.adobe.com/products/acrobat/readstep.html)| To view the attached PDF file you will need the Adobe Acrobat Reader. If you do not already have the Adobe Acrobat Reader download it here. Acrobat and Acrobat logo are trade marks of Adobe Systems Incorporated.  
+---|---
