@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609061936id_/http%3A//pcfaster.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204073126id_/http%3A//www.pcfaster.com/privacy.htm) for the most accurate reproduction.*
 
 # Startup Faster! 2004 - Make your PC Faster than ever.
 
@@ -53,5 +53,3 @@ Copyright c2003 by URSoft,Inc Ltd. All rights reserved.
   
 **Related Topics** **  
 **  
-
-**Related Topics**
