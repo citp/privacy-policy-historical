@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2002-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020628020136id_/http%3A//www.standardchartered.com.hk/home/legal_data_main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204172914id_/http%3A//www.standardchartered.com.hk/home/legal_data_main.html) for the most accurate reproduction.*
 
 # Hong Kong Home page: Data Protection And Privacy Policy
 
