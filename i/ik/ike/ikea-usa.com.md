@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413012732id_/http%3A//www.ikea-usa.com/customer_service/privacy_policy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029165728id_/http%3A//www.ikea-usa.com/customer_service/privacy_policy/privacy_policy.asp) for the most accurate reproduction.*
 
 # IKEA - home - customer service - privacy policy
 
