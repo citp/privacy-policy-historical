@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602081835id_/http%3A//alertra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205095801id_/http%3A//www.alertra.com/privacy) for the most accurate reproduction.*
 
-# Alertra Web Site Monitoring Service
+# Alertra Web Site Monitoring
 
-Alertra, Inc.
+Privacy >
 
-PRIVACY STATEMENT
+**Privacy Statement**
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site. 
 
 **Registration Forms**  
 Our site's registration form requires users to give us their e-mail address, other contact information, and optionally credit card billing information. 
 
-Your account e-mail address will be used in the following ways: 
+Your account e-mail address will be used in the following ways: 1) To notify you of changes in device status; 2) To notify you of system changes or problems with your account that may affect your service; and 3) To send you a weekly device summary report. 
 
 Your e-mail address and other contact information will never be shared with a third party. 
 
