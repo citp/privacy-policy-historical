@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2002-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020613130832id_/http%3A//www.westpac.co.nz/olcontent/olcontent.nsf/content/Your%2Bprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205002455id_/http%3A//www.westpac.co.nz/olcontent/olcontent.nsf/content/Your%2Bprivacy) for the most accurate reproduction.*
 
 # WestpacTrust Privacy statement
 
@@ -9,7 +9,7 @@ At WestpacTrust, we are commited to ensuring the privacy of your information. We
 
 The following statement has been developed in recognition that Internet technologies, and specifically WestpacTrust's application of these, are rapidly evolving. This statement addresses privacy issues relevant to the WestpacTrust website. 
 
-Should we change our website privacy statement for any reason, such changes will always be posted to this page. However, if you have any further questions relating to this privacy statement, please do not hestitate to [email us.](https://web.archive.org/web/20020613130832id_/http%3A//www.westpac.co.nz/olcontent/olcontent.nsf/content/Talktous)
+Should we change our website privacy statement for any reason, such changes will always be posted to this page. However, if you have any further questions relating to this privacy statement, please do not hestitate to [email us.](https://web.archive.org/web/20021205002455id_/http%3A//www.westpac.co.nz/olcontent/olcontent.nsf/content/Talktous)
 
 **Information we collect**  
 Our web server collects the following type of information: 
