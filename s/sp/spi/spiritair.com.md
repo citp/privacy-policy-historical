@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiritair.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604161904id_/http%3A//www.spiritair.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritair.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607021036id_/http%3A//www.spiritair.com/welcome.aspx%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# 
+# Spirit Airlines - Catch the Spirit!
 
 **
 
@@ -57,11 +57,7 @@ You have the ability to modify your personal information that you have shared wi
 **Rights:** Spirit Airlines reserves the right to disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Subscriber Agreement or Terms and Conditions of Use. We may also disclose or use your personal information when we, in good faith, believe that the law requires us to do so.   
 
 
-**
-
-Comments and Questions
-
-**
+**Comments and Questions**
 
 If you have any questions, comments or concerns about our Privacy Policy send an email to [webmaster@spiritair.com](mailto:webmaster@spiritair.com)
 
