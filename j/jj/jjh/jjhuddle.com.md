@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034916id_/http%3A//jjhuddle.com/update/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012222014id_/http%3A//www.jjhuddle.com/update/privacy.htm) for the most accurate reproduction.*
 
 # J.J.'s Ohio High School Sports Huddle
 
