@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the netmechanic.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620110532id_/http%3A//netmechanic.com/comp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmechanic.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205121700id_/http%3A//www.netmechanic.com/comp/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for www.netmechanic.com
-
-[](https://web.archive.org/promote.htm)
-
-[](https://web.archive.org/monitor.htm)
-
-[](https://web.archive.org/accelerate.htm)
-
-|  | 
 
 **Your Privacy Matters to NetMechanic!**
 
@@ -60,7 +52,7 @@ NetMechanic utilizes industry standard SSL encryption  when accepting your cred
 
 Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers.
 
- **3\. Choice/Opt-Out**
+**3\. Choice/Opt-Out**
 
 NetMechanic provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
 
@@ -96,8 +88,3 @@ Huntsville, AL 35805
 privacy@netmechanic.com   
 1-877-NET-MECH (1-877-638-6324)  
 or 1-256-533-0076
-
-|  | 
-
-[](http://www.revnetexpress.net/)   
-[](http://www.webhostlist.com/)
