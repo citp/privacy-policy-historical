@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205064309id_/http%3A//www.ivey.ca/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082926id_/http%3A//www.ivey.ca/Privacy.htm) for the most accurate reproduction.*
 
 # Richard Ivey School of Business -
 
