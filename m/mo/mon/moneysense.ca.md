@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010053234id_/http%3A//www.rogersmagazines.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604040716id_/http%3A//www.rogersmagazines.com/privacy.htm) for the most accurate reproduction.*
 
 # Rogers Media Privacy Policy
 
@@ -61,9 +61,9 @@ We operate secure data networks protected by industry standard firewall and pass
 
 Privacy Request   
 Magazine Subscriber Services   
-777 Bay St., 8th Floor   
-Toronto, Ontario   
-M5W 1A7
+Box 860   
+Markham, Ontario   
+L3P 8H8
 Telephone: (416) 596-5523 
 
 Fax: (416) 596-2510 
