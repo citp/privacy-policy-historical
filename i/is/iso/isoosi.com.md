@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isoosi.com privacy policy that was archived on 2004-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040830064141id_/http%3A//www.isoosi.com/getFrames.asp%3Frequest%3D/aboutus/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoosi.com privacy policy that was archived on 2005-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050107195053id_/http%3A//www.isoosi.com/getFrames.asp%3Frequest%3D/aboutus/privacy.xml) for the most accurate reproduction.*
 
 # None
 
