@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601105412id_/http%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004035602id_/http%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
 
-# Bidnapper.com: The most effective ebay auction esniper software. Snipe auctions online. Automatic bid sniping.
+# Bidnapper.com: The eBay Auction Sniper that Wins Online Auctions for you!
 
 **_Privacy/Security Policy_**
 
