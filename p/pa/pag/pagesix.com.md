@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216214607id_/http%3A//pagesix.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202023051id_/http%3A//www.pagesix.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # PageSix.com: PageSix
 
