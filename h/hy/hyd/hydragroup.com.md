@@ -1,83 +1,34 @@
-> *The following text is extracted and transformed from the hydragroup.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205002428id_/http%3A//hydragroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hydragroup.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009122518id_/http%3A//www.hydragroup.com/prvacy.html) for the most accurate reproduction.*
 
 # HydraGroup.com - Privacy Policy
 
-### HYDRAGROUP.COM PRIVACY STATEMENT
-
-#### Information Collection and Use
-
-**Information Collection**  
-Hydra Media Group is the sole owner of the information collected on Hydragroup.com. Hydra Media Group collects information from our users at several different points on our Web site.
-
-**Order**  
-We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
-
-#### Information Use
-
-**Profile**  
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. We do not sell any personally identifiable information to third parties. 
-
-**Cookies**  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session ID cookies to keep track of a user’s order when they move through our site. For the session ID cookie, once users close the browser, the cookie simply terminates. Cookies are required for ordering from Hydragroup.com. See <http://www.cookiecentral.com/faq/> for more information.
-
-**Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
-
-**Clear Gifs (Web Beacons/Web Bugs)**  
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are tied to users’ personally identifiable information to allow us to keep track of the orders of users that have entered our site via third-party advertising.
-
-In addition, we use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section. 
-
-#### Communications from the Site
-
-**Special Offers and Updates**  
-We send all new customers a welcoming email to verify their password and username. Established members will occasionally receive information on products, services, and special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
-
-**Customer Service**  
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users’ wishes.
-
-**Sharing**  
-Legal Disclaimer  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. We do not sell any personally identifiable information to third parties.
-
-**Aggregate Information (non-personally identifiable)**  
-We do not share aggregated demographic information with our partners and advertisers. However, we do store aggregate data so that we provide outside sources with general traffic statistics from our website (for example, we may use aggregate information in a press release that states “traffic at Hydragroup.com increased 40% this week.”)
-
-**Choice/Opt-out**  
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site by changing their profile preferences. Every user will receive an email confirmation of their username and password as well as instructions for how to login to their account. 
-
-Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by emailing us at unsubscribe@Hydragroup.com. We also offer an opt-out mechanism on the user profile page or the user may contact us at 8581 Santa Monica Blvd #707, Los Angeles, CA 90069 to opt-out.
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
-
-**Links**  
-This Web site contains links to other sites. Please be aware that we, Hydra Media Group, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
-
-**Security**  
-This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry \- SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. To learn more about SSL, follow this link <http://wp.netscape.com/security/techbriefs/ssl.html>. 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure Class-A environment, behind a locked cage in a locked facility that employs biometric security measures to restrict access physical access. 
-
-If users have any questions about the security at our Web site, users can send an email to support@Hydragroup.com.
-
-**Correcting/Updating/Deleting/Deactivating Personal Information**  
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done by emailing our Customer Support at support@Hydragroup.com.
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.
-
-**Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
-
-**Email:** support@Hydragroup.com
-
-**Postal Address:**  
-Hydra Media Group  
-8581 Santa Monica Blvd #707, Los Angeles, CA 90069
-
-**URL:** http://www.Hydragroup.com  
-
+The information collection, use, and dissemination practices of HydraGroup.com (the "Company") are discussed in this policy.   
+---  
+1.   | _Collection of Information_.  
+1.1   |  Survey Information. The Company collects information from individuals when an individual voluntarily completes a Company survey or order form or a registration page either online or offline, or by means of online or offline surveys or order forms or registration pages operated by third parties (collectively, a "Survey"). (As used herein, "online" means using the Internet and related technologies, and "offline" means by methods other than online, including in person, in the mail, using telephone and cell phones, and other methods of communication including future technologies.) In the Surveys, the Company or the third party (the "Third Party") may ask an individual to provide various information to the Company, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, employment information, personal and online interests, and such other information as may requested from time to time (together, "Survey Information"). Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to the Company or Third Party, but an individual may receive incentives from the Company or a Third Party in exchange for providing Survey Information to the Company.   
+1.2   | _Third Party List Information._ The Company collects information from individuals when an individual provides information to a third party, and the Company subsequently purchases or otherwise acquires the information from the third party (the "Seller"). Such purchased information may include an individual’s name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, the Company seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to the Company and that the Seller has a right to provide promotional offers to the individuals whose personal information is included on the list.   
+1.3   | _Other Information._ Other occasions when the Company requests personal information include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by the Company or by a third party, (2) when an individual requests assistance through Company’s customer service department, and (3) when an individual voluntarily subscribes to a Company service or newsletter (together, "Other Information").   
+1.4   | _Cookie and Webbug Information._ The Company uses cookie and webbug technology to associate certain Internet-related information about an individual with information about the individual in our database ("Cookie and Webbug Information"). A cookie is a small amount of data stored on the hard drive of the individual’s computer which allows Company to identify the individual with his or her corresponding data that resides in Company’s database. You may wish to read more about cookies at www.cookiecentral.com. Individuals who use certain of Company’s web sites need to accept cookies in order to use of all of the features and functionality of the web sites. A "webbug" is an <img src="x"> link (for more information on webbugs and how webbugs are created, please see www.www.org or http://www.privacyfoundation.org/resources/webbug.asp#1)on an Internet page or in an email message that can be used to monitor who is reading the web page or email message. The following information can be sent to Company’s computer when a webbug is viewed: the Internet protocol (or IP) address of an individual’s computer, the URL of the page where the webbug is located, the time at which the webbug was viewed, the type of browser that received the webbug, and a previously set cookie. If information about the individual who receives the webbug is in Company’s records, Company may associate the information received from the webbug with other information about the individual by using the cookie.   
+1.5   | _Outside Information._ The Company may receive information about individuals from third parties ("Outside Information").   
+1.6   | _No Information Collected from Children._ The Company does not intentionally collect personal information from children who are younger than age 13. Because it does not collect such information, the Company has no such information to use nor to disclose to third parties.   
+1.7   | _Individual Information._ As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Cookie and Webbug Information, and Outside Information, and any other information the Company gathers or receives about individuals.   
+2.   | _Use of Individual Information._  
+2.1   | _Discretion to Use Information._ The Company may use the Individual Information for any legally permissible purpose in Company’s sole discretion. The following paragraphs in Section 2 describe how the Company currently uses the Individual Information, but the Company may change or broaden its use at any time. As noted below, the Company may update this policy from time to time. The Company may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.   
+2.2   | _Targeted Advertising._ Based on the Individual Information, the Company attempts to customize and target advertising to an individual. When an individual is using Company web pages, the Company uses cookies and webbugs (see Section 2.5 below) to associate a person with the person’s Individual Information, and the Company attempts to show advertising for products and services in which the person has expressed an interest in the Surveys and otherwise. The Company may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.   
+2.3   | _Email._ The Company uses Individual Information to provide promotional offers by email to individuals. The Company may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Company email lists, a person must visit and follow the instructions provided at www.HydraGroup.com.   
+2.4   | _Direct Mail and Telemarketing._ The Company uses Individual Information to advertise, directly or indirectly to individuals using direct mail marketing, on telemarketing using telephones and cell phones.   
+2.5   | _Use of Cookies and Webbugs._ The Company uses the Cookie and Webbug Information (1) to match a person’s Cookie and Webbug Information to other categories of Individual Information to make and improve a profile of a person, (2) to track a person’s web browsing habits on Company web sites and on the sites of its marketing partners, (3) to determine which areas of Company’s web sites are most frequently visited. This information helps the Company to better understand the online habits of individuals so that the Company can attempt to customize and target advertising and promotions to them.   
+2.6   | Profiles of Individuals. The Company uses Individual Information to make a profile of a person. A profile is created by associating the various sources of Individual Information.   
+2.7   | _Storage of Individual Information._ The Company stores the Individual Information in a database on Company computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse and alteration of the information under Company’s control. Notwithstanding such measures, the Company cannot guarantee that its security measures will prevent the Company computers from being illegally accessed, and the Individual Information on them stolen or altered, and the Company assumes no responsibility for such actions.   
+3.   | _Dissemination of Individual Information._  
+3.1   | _Sale or Transfer to Third Parties._ The Company may sell or transfer Individual Information to third parties for any purpose in Company’s discretion.   
+3.2   | _Order Fulfillment._ The Company will transfer Individual Information to third parties when necessary to provide a product or service that a person orders from such third party while using Company web sites or when responding to offers provided by Company.   
+3.3   | _Legal Process._ The Company may disclose Individual Information to respond to subpoenas, court orders, and other legal process.   
+3.4   | _Summary Data._ The Company may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.   
+4.   | _Privacy Practices of Third Parties._  
+4.1   | _Advertiser cookies and webbugs._ Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on Company web sites may use their own cookies and webbugs on your computer and collect information from such cookies and webbugs. The Company does not control the Advertisers’ use of their own cookies and webbugs and the Company has no responsibility for such cookies and webbugs and the use of information gathered from them.   
+4.2   | _Links._ The Company’s web sites and email messages sometimes contain hypertext links to the web sites of third parties. The Company is not responsible for the privacy practices or the content of such other web sites.   
+4.3   | _Disclosure of Information in Chat Rooms._ Individuals should be aware that if they disclose personally identifiable information (for example, their name, address, telephone number, or email address) in chat rooms on Company sites, that information can be collected and used by third parties and may result in unsolicited messages from third parties, among other things. Such activities are beyond the control of the Company, and Company recommends that individuals use caution when disclosing personal information.   
+4.4   | _Affiliated Companies._ The Company may disclose, transfer and sell Individual Information to entities affiliated with Company in Company’s discretion.   
+5.   | _Deleting Individual Information._ Individuals have the ability to request deletion of their Individual Information by sending an email to support@HydraGroup.com in which they clearly request to have their Individual Information deleted from the Company database.   
+6.   | _More Information._ For more information about protecting your privacy, you may wish to visit www.netcoalition.com, and www.privacyalliance.org. If you have questions about this policy, please contact us at www.HydraGroup.com. The Company reserves the right to update this policy from time to time, so you should review this policy frequently. 
