@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204133253id_/http%3A//shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151258id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
 
-# ShutterStock :: Inexpensive Royalty Free Stock Photography
+# ShutterStock : Royalty Free Stock Photos by Subscription
 
 |  | 
 
-**Privacy Statement for Advercast LLC DBA ShutterStock**
+**Privacy Statement for ShutterStock, Inc.**
 
-Advercast LLC DBA ShutterStock has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Advercast LLC DBA ShutterStock. 
+ShutterStock, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: ShutterStock, Inc.. 
 
 We use your IP address to help diagnose problems with our server and to log credit card, eCheck, and PayPal orders. 
 
@@ -35,5 +35,5 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Jon Oringer, Founder and CEO Advercast LLC DBA ShutterStock PO Box 1297 NY NY 10159-1297 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Jon Oringer, Founder and CEO ShutterStock, Inc. PO Box 1297 NY NY 10159-1297 
 
