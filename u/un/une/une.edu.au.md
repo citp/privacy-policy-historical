@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the une.edu.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203184418id_/http%3A//www.une.edu.au/rmo/policies/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the une.edu.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605235848id_/http%3A//www.une.edu.au/rmo/policies/privacystatement.htm) for the most accurate reproduction.*
 
 # UNE Privacy Statement
 
@@ -42,7 +42,7 @@ The following statements are intended to communicate simply and clearly the Univ
 
 
 
-*(1) In the Privacy and Personal Information Act 1998 (NSW)  
+*(1) In the Privacy and Personal Information Protection Act 1998 (NSW)  
 *(2) In the Privacy Act 1988 (Commonwealth) as amended in the Privacy Amendment (Private Sector) Act 2000  
 *(3) Controlled entities and affiliated bodies are listed in the UNE Privacy Management Plan
 
