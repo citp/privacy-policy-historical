@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216191725id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602203957id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
-# UT Austin Privacy Statement
-
-## The University of Texas at Austin 
-
-## Web Privacy Statement 
+# Privacy Policy
 
 The University of Texas at Austin is committed to ensuring the privacy and accuracy of your confidential information. We do not actively share personal information gathered from our Web servers. However, because The University of Texas at Austin is a public institution, some information collected from the UT Austin Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.
 
@@ -19,7 +15,13 @@ The University of Texas at Austin also complies with the Family Educational Righ
 
 * * *
 
-The University of Texas at Austin Web consists of hundreds of Web servers. Some servers hosted by The University of Texas at Austin may adopt different privacy statements as their specific needs require. If another UT Austin Web server has a privacy statement that is different from this statement, that policy must be approved by the University Webmaster, and it must be posted on their site. However, those sites cannot adopt a privacy statement that in any way supersedes federal or state regulations.
+The University of Texas at Austin Web consists of hundreds of Web servers. Some servers hosted by The University of Texas at Austin may adopt different privacy statements as their specific needs require. If another UT Austin Web server has a privacy statement that is different from this statement, that policy must be approved by the ITS Information Security Office, and it must be posted on their site. However, those sites cannot adopt a privacy statement that in any way supersedes federal or state regulations.
+
+Approved Departmental Privacy Policies at UT Austin: 
+
+  * [Computer Science Department](http://www.cs.utexas.edu/home/department/privacy.html)
+
+
 
 The University of Texas web site contains links to hundreds of external Web sites. The University is not responsible for the privacy practices or the content of the external Web sites we link to.
 
@@ -76,13 +78,10 @@ The University of Texas is a research institution. At any time there are numerou
 
 Except for educational records governed by FERPA, all information collected from the UT Austin Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act.
 
+### Texas Public Information Act
+
+The Texas Public Information Act, with a few exceptions, gives you the right to be informed about the information that The University of Texas at Austin collects about you. It also gives you the right to request a copy of that information, and to have The University correct any of that information that is wrong. You may request to receive and review any of that information, or request corrections to it, by contacting the University's Public Information Officer, Office of Financial Affairs, PO Box 8179, Austin, Texas, 78713 (email:cfo@www.utexas.edu).
+
 ### Questions
 
-If you have questions about this privacy statement or you believe that your personal information has been released without your consent send e-mail to www@www.utexas.edu. 
-
-This policy has not received final approval by the Information Technology Coordinating Council (ITCC) and is subject to change.
-
-* * *
-
-17 May 2001  
-[Teamweb](https://web.archive.org/teamweb/) at [UT Austin](https://web.archive.org/)
+If you have questions about this privacy statement or you believe that your personal information has been released without your consent send e-mail to security@its.utexas.edu.
