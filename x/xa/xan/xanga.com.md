@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630044715id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231071525id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-**Privacy Policy**
+[All FAQs](http://help.xanga.com/) » [About Xanga.com, Inc.](https://web.archive.org/web/20041231071525id_/http%3A//help.xanga.com/default.htm#aboutxanga) » Privacy Policy
 
 **What personal information does Xanga collect?**
 
@@ -19,7 +18,7 @@ We use this information primarily to help diagnose and fix any technical problem
 
 _Cookies_
 
-Like most sites that have features requiring registration and sign-in, Xanga uses cookies to recognize you when you return to Xanga and to keep track of your username and password when you are signed in (so you don't have to re-sign in every time you visit a new page at Xanga). These cookies also help us provide you with customized content (including information about your Xanga site and promotions that you may find interesting - or, at least, not terribly annoying), based on your interests and activities at Xanga.
+Like most sites that have features requiring registration and sign-in, Xanga uses cookies to recognize you when you return to Xanga and to keep track of your username and password when you are signed in (so you don't have to re-sign in every time you visit a new page at Xanga). Some third-party advertisers may also set cookies when their ads are viewed on Xanga. These cookies help us provide you with customized content (including information about your Xanga site and promotions that you may find interesting - or, at least, not terribly annoying), based on your interests and activities at Xanga.
 
 **Who else collects personal information from me?**
 
