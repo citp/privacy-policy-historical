@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnetnetworks.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202154222id_/http%3A//www.cnet.com/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnetnetworks.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619111617id_/http%3A//www.cnet.com/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
 
 # Editorial Center - CNET Networks.com
 
@@ -49,7 +49,7 @@ We will make your personally identifiable information available to other compani
   * We have your consent to share the information 
   * We have engaged companies to work with us or on our behalf to provide a product or service that you have requested, such as opt-in e-mail announcements 
   * You use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/web/20031202154222id_/http%3A//www.cnet.com/aboutcnet/editorial/terms.html) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
+  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/web/20040619111617id_/http%3A//www.cnet.com/aboutcnet/editorial/terms.html) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
 
 _Aggregate information_  
 We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
