@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206184954id_/http%3A//www.asp.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401085401id_/http%3A//www.asp.net/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
