@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604155152id_/http%3A//www.spss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216211201id_/http%3A//spss.com/privacy.htm) for the most accurate reproduction.*
 
 # Product and Service Inquiries
 
@@ -157,3 +157,7 @@ _**
 You can direct all questions, comments and concerns to [webmaster@spss.com](mailto:webmaster@spss.com). We are always interested in hearing from our sites' visitors -- that's the best way for us to learn how to improve our sites so they give you a better experience.
 
 Note: This site contains links to other Web sites. SPSS Inc. is not responsible for the privacy practices or the content of those Web sites.
+
+  
+  
+
