@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcw.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204224506id_/http%3A//www.mcw.edu/display/router.asp%3FDocID%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcw.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403101826id_/http%3A//mcw.edu/display/router.asp%3FDocID%3D113) for the most accurate reproduction.*
 
 # Medical College of Wisconsin - Privacy
 
@@ -128,7 +128,7 @@ USA **Public Affairs Telephone**
 [ **www.mcw.edu**](http://www.mcw.edu/)
 
 **For more contact information  
-**[ **College Contacts**](https://web.archive.org/web/20041204224506id_/http%3A//www.mcw.edu/display/router.asp?docid=106)  
+**[ **College Contacts**](https://web.archive.org/web/20050403101826id_/http%3A//mcw.edu/display/router.asp?docid=106)  
   
  **More information about the Medical College of Wisconsin  
-**[ **Facts 2004**](https://web.archive.org/web/20041204224506id_/http%3A//www.mcw.edu/display/router.asp?docid=399)
+**[ **Facts 2004**](https://web.archive.org/web/20050403101826id_/http%3A//mcw.edu/display/router.asp?docid=399)
