@@ -1,67 +1,31 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 1999-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991108205848id_/http%3A//www.naa.org/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605133802id_/http%3A//www.naa.org/policy.html) for the most accurate reproduction.*
 
-# Newspaper Association of America®
+# Newspaper Association of America® Online Privacy and Child-Protection Policy
 
-[](https://web.archive.org/web/19981202225421id_/http%3A//www.naa.org/index_nojava.html) | 
+[](https://web.archive.org/web/20000605133802id_/http%3A//www.naa.org/index.html) | 
 
-This is the World Wide Web site of the Newspaper Association of America, 1921 Gallows Road, Suite 600, Vienna, Va. 22182-3900. We can be reached by e-mail at [webmaster@naa.org](mailto:webmaster@naa.org). 
+### Online Privacy and Child-Protection Policy
 
-This site does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Currently, the site collects information (e.g., name, title, employer, mailing address, telephone number, fax number, e-mail address, payment information) voluntarily provided by individuals who register online for NAA events. We use this information to process your registration. Once registered, registrant information may be provided to exhibitors or attendees at the events. 
+This is the World Wide Web site of the Newspaper Association of America, 1921 Gallows Road, Suite 600, Vienna, Va. 22182-3900. NAA can be reached by e-mail at [webmaster@naa.org](mailto:webmaster@naa.org) and by telephone at (703) 902-1600.
 
-Participants may be required to provide information on those forms, such as name, title, employer or school, age (if a child is under 18 years), and telephone number. This information may be used to evaluate the entries submitted by participants.
+This site does not target children under the age of 13 and does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Currently, the site collects information (e.g., name, title, employer, mailing address, telephone number, fax number, e-mail address, and payment information) voluntarily provided by individuals who register for NAA events or purchase NAA products online. NAA uses this information to process online requests.
 
-    * **Children** : Be sure to ask your parents for permission before you send any information about yourself (your name, age, address, email address, etc.) to us or anyone else over the Internet.
-    *  **Parents** : We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personal information collected by NAA from children (if we are aware they are children) will be used only for internal purposes such as contest fulfillment, fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. If you have any concerns regarding use of the information provided by your child, please contact us at [webmaster@naa.org](mailto:webmaster@naa.org). 
+Registration information may be provided to exhibitors or attendees of NAA events, but neither registration nor product-purchase information is sold. Exhibitors represent the universe of newspaper industry suppliers, from programmers and manufacturers to service-providers and consultants; attendees represent a cross-section of newspaper management and related parties, including supplier personnel. Third parties who receive registration information collected on this Web site have not agreed to maintain the confidentiality, security, and integrity of the personal information obtained.
 
-NAA's Web site contains links to many other sites. However, we are not responsible for the content of or the privacy practices employed by other sites. 
+Prior parental consent may be required before a child can submit personal information. For purposes of this policy, a child is anyone under the age of 13. A parent can consent to the collection and use of a child's personal information (e.g., name, e-mail address) without consenting to disclosure of that same information to third parties. A child's participation in any activity offered on this Web site cannot be conditioned on the disclosure of more personal information than reasonably is necessary to participate. In addition, a parent has a right to review and have deleted any personal information submitted by a child, and can refuse to permit further collection or use of the child's information by contacting NAA through the postal mail address, e-mail address, or telephone number shown above and requesting review or deletion of information submitted by a child to the Web site.
 
-If you have any questions or concerns regarding what is done with information provided via this site, please e-mail your concerns to [webmaster@naa.org](mailto:webmaster@naa.org) before submitting the information. 
+Prior parental consent is not required for NAA to accept personal information from a child for the sole purpose of directly responding on a one-time basis to a specific online request. Any contact information obtained from a child in response to such a one-time request will be deleted from NAA's records and will not be used to re-contact the child. Likewise, prior parental consent is not required for NAA to accept personal information from a child for the sole purpose of directly responding more than once to a specific request. When responding more than once to specific request from an individual NAA knows to be a child, a reasonable effort will be made to notify a parent - either by postal mail or by e-mail sent to the parent, not the child - that he can refuse to allow further use of the child's contact information. Such notice will be sent immediately after the first response to the child's request and before any additional responses are sent. Any contest in which children are participants, and for which NAA knows children are registering online, shall be treated by NAA as a contact with a child in which it is responding more than once to a specific request.
 
-Thank you. 
+**Children** : Even under circumstances where prior parental consent is not required by law, NAA suggests that children obtain permission from a parent before sending any information about themselves (including name, age, address, e-mail address, etc.) to NAA or anyone else over the Internet.
 
+**Parents** : NAA encourages parents to get involved with their children's online usage and to be aware of the activities in which their children are participating. Any personal information collected by NAA from children (if NAA is aware they are children) will be used only for internal purposes such as contest fulfillment, or fulfilling requests for information or materials. Such information will not be included in our database and will not be posted or published by NAA, or provided to any third parties, without prior parental consent. If you have any concerns regarding use of information provided by a child, please contact us at [webmaster@naa.org](mailto:webmaster@naa.org), or at the postal mail address or telephone number above.
 
-  
-  
-©1998 Newspaper Association of America. All rights reserved.
-[](https://web.archive.org/web/19990422164853id_/http%3A//www.naa.org/index.html) | 
+NAA's Web site contains links to many other sites. However, we are not responsible for the content of the privacy practices employed by other sites. 
 
-This is the World Wide Web site of the Newspaper Association of America, 1921 Gallows Road, Suite 600, Vienna, Va. 22182-3900. We can be reached by e-mail at [webmaster@naa.org](mailto:webmaster@naa.org). 
-
-This site does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Currently, the site collects information (e.g., name, title, employer, mailing address, telephone number, fax number, e-mail address, payment information) voluntarily provided by individuals who register online for NAA events. We use this information to process your registration. Once registered, registrant information may be provided to exhibitors or attendees at the events. 
-
-Participants may be required to provide information on those forms, such as name, title, employer or school, age (if a child is under 18 years), and telephone number. This information may be used to evaluate the entries submitted by participants.
-
-    * **Children** : Be sure to ask your parents for permission before you send any information about yourself (your name, age, address, email address, etc.) to us or anyone else over the Internet.
-    *  **Parents** : We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personal information collected by NAA from children (if we are aware they are children) will be used only for internal purposes such as contest fulfillment, fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. If you have any concerns regarding use of the information provided by your child, please contact us at [webmaster@naa.org](mailto:webmaster@naa.org). 
-
-NAA's Web site contains links to many other sites. However, we are not responsible for the content of or the privacy practices employed by other sites. 
-
-If you have any questions or concerns regarding what is done with information provided via this site, please e-mail your concerns to [webmaster@naa.org](mailto:webmaster@naa.org) before submitting the information. 
-
-Thank you. 
+Questions or concerns regarding what is done with information provided via this site should be directed to [webmaster@naa.org](mailto:webmaster@naa.org) before any information is submitted.
 
 
   
   
-©1999 Newspaper Association of America. All rights reserved.
-[](https://web.archive.org/web/19991108205848id_/http%3A//www.naa.org/index.html) | 
-
-This is the World Wide Web site of the Newspaper Association of America, 1921 Gallows Road, Suite 600, Vienna, Va. 22182-3900. We can be reached by e-mail at [webmaster@naa.org](mailto:webmaster@naa.org). 
-
-This site does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Currently, the site collects information (e.g., name, title, employer, mailing address, telephone number, fax number, e-mail address, payment information) voluntarily provided by individuals who register for NAA events or purchase NAA products online. We use this information to process your requests. Registration information may be provided to exhibitors or attendees at the NAA events, but neither registration nor product-purchase information is sold. 
-
-Participants may be required to provide information on those forms, such as name, title, employer or school, age (if a child is under 18 years), and telephone number. This information may be used to evaluate the entries submitted by participants.
-
-    * **Children** : Be sure to ask your parents for permission before you send any information about yourself (your name, age, address, email address, etc.) to us or anyone else over the Internet.
-    *  **Parents** : We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personal information collected by NAA from children (if we are aware they are children) will be used only for internal purposes such as contest fulfillment, fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. If you have any concerns regarding use of the information provided by your child, please contact us at [webmaster@naa.org](mailto:webmaster@naa.org). 
-
-NAA's Web site contains links to many other sites. However, we are not responsible for the content of or the privacy practices employed by other sites. 
-
-If you have any questions or concerns regarding what is done with information provided via this site, please e-mail your concerns to [webmaster@naa.org](mailto:webmaster@naa.org) before submitting the information. 
-
-Thank you. 
-
-
-  
-  
-©1999 Newspaper Association of America. All rights reserved.
+©2000 Newspaper Association of America.   
+All rights reserved.
