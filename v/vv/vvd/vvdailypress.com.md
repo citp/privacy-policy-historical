@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vvdailypress.com privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218040800id_/http%3A//www.vvdailypress.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vvdailypress.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602030944id_/http%3A//www.vvdailypress.com/privacy/index.html) for the most accurate reproduction.*
 
 # Daily Press - Privacy Policy
 
@@ -25,8 +25,8 @@ While this privacy policy applies to the Vvdailypress.com site and all of the ot
 **Vvdailypress.com Privacy Policy Changes  
 **If we decide to change our privacy policy for VV.com, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. Vvdailypress.com Privacy Policy
 
-|  [](http://spinbox.freedom.com/?RC=275&AI=1413)
+|  [](http://spinbox.freedom.com/?RC=275&AI=337&RANDOM=28396818259693)
 
-[](http://spinbox.freedom.com/?RC=276&AI=283)
+[](http://spinbox.freedom.com/?RC=276&AI=337&RANDOM=58938250748154)
 
-[](http://spinbox.freedom.com/?RC=276&AI=286)
+[](http://spinbox.freedom.com/?RC=276&AI=1702&RANDOM=109449971163648)
