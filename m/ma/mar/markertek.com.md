@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020035id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402005556id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
 
 # Markertek Video Supply Privacy Policy
 
@@ -63,7 +63,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 800-522-2025 or send us an email at [info@markertek.com](mailto:info@markertek.com).
+Should you have other questions or concerns about these privacy policies, please call us at 800-522-2025 or send us an [email](mailto:info@markertek.com).
 
 Back to Top
 
