@@ -1,36 +1,37 @@
-> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206121700id_/http%3A//www.limos.com/limousines/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607163751id_/http%3A//www.limos.com/limousines/privacypolicy.html) for the most accurate reproduction.*
 
 # Limos.com Privacy Policy
 
-|  | **Privacy / Security Statement for Limos.com & Xenefox Media Corp.  
-**XENEFOX Media Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
+|  |  | **Limos.com Privacy Policy  
+** XENEFOX Media Corporation ("XMC"), a subsidiary of NextDoor Networks, Inc., has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website ( _http://www.limos.com_ ) and the related websites: _http://www.limo-search.com_ and _http://www.limousinesonline.com_ (such three sites being collectively referred to herein as the "Sites"). Please note that the Sites contain links to other websites. XMC is not responsible for the privacy practices or the content of such other websites
 
-http://www.limos.com. 
+ **Collection and Distribution of Information** In order to become a member of the Sites, a limousine company is required to complete a membership application, which includes information such as name, address, type of service offered, service area and credit card. This information is used initially to determine if a company qualifies for membership. 
 
-**Distribution of Information  
-** XENEFOX Media Corporation, Limos.com, LimousinesOnline.com, and/or Limo-Search.com does not sell, redistribute, or license the consumer information submitted at this site. 
+If a limousine company's application for membership of the Sites is accepted, the company will be admitted into the Sites' directory service ("
 
-XMC also further warranties that it does not sell, distribute, or license the information contained within its databases, including our member list and consumer inquiries. 
+ _SearchSERV_ ") and the Sites' limousine company finder service (" _Finder Service_ ").  
+In SearchSERV, contact information (including a complete company profile and company website) for limousine companies in a buyer's geographic area is listed on a randomized basis.  The buyer may send up to eight (8) selected limousine companies a service request containing details as to the limousine service requested by the buyer and details concerning the buyer. The recipient limousine companies are free to respond to the request by contacting the buyer.  
+In the Finder Service, the buyer submits a request containing details regarding the requested limousine service and details concerning the buyer directly to XMC.  XMC forwards this request to up to 15 matching limousine companies (selected on a random basis) in the buyer's geographic area. The recipient limousine companies are free to respond to the request by contacting the buyer.  
+The limousine company's credit card information is used to assess the annual nonrefundable membership fees and the per lead fees which are required to be paid by limousine companies in order to participate in the Limos.com service (members are also sent an itemized statement of charges). The fee amounts are described in the "Join Limos.com" portion of the Sites 
 
-All information obtained and submitted herein is held in the strictest confidence and is not released.
+XMC or its parent (NextDoor Networks) may call to its users' attention products, special offers and unique content that XMC or NextDoor Networks believes might be of interest to its users. 
+
+XMC does not sell, redistribute, or license the consumer information submitted by limousine companies or prospective buyers on the Sites. Nor does XMC sell, distribute, or license the information contained within its databases, including its member list and consumer inquiries. 
+
+All information obtained and submitted herein is only used in accordance with this Privacy Statement.
 
  **Cookies  
-** Our site uses cookies to keep track of your limo preferences, or "shopping cart". We use cookies to save your password so you don't have to re-enter it each time you visit our site. 
-
-Our site's request information forms requires users to give us contact information (like their name and email address). We use customer contact information from the inquiry form to make sure our member services receive true and valid information. 
-
-This site contains links to other sites. **http://www.limos.com** is not responsible for the privacy practices or the content of such Web sites. 
+** The Sites use cookies to keep track of your limo preferences, or "shopping cart". We use cookies to save your password so you don't have to re-enter it each time you visit our site. 
 
 **Public Forums  
-** This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+** This Sites make a discussion forum available to its users where users can comment on and opine with respect to matters concerning the limousine industry. You should be aware that if you voluntarily disclose personally identifiable information in these areas, or in any other manner that is intended for display on the Sites, that information will be public information, and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond XMC's control.
 
-**Security  
-** This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  We operate an SSL encrypted website when prompting for sensitive and/or financial information.
+ **Security  
+** The Sites have security measures in place to protect the loss, misuse and alteration of the information under our control. We operate an SSL technology to protect sensitive and/or financial information such as credit card numbers.
 
  **Contacting the Web Site  
-** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+** If you have any questions about this privacy statement, the practices of the Sites, or your dealings with any of the Sites, you can contact 
 
 _XENEFOX Media Corporation c/o LIMOS.com  
 PO BOX 51113, Phoenix AZ 85076  
-service@limos.com  
-_
+service@limos.com_
