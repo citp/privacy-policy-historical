@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the trygames.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205220826id_/http%3A//trygames.com/privacy.php%3Faff%3Dtrygames) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trygames.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202191405id_/http%3A//www.trygames.com/privacy/aff%3Dtrygames/linksh%3D/time_entered%3D/cp%3D/curr_selected%3D) for the most accurate reproduction.*
 
 # Trygames.com - Privacy
-
-[](https://web.archive.org/web/20031205220826id_/http%3A//trygames.com/index.php?aff=trygames&linksh=&time_entered=&cp=&curr_selected=) |  |  |  |   
----  
-**Pick a door and receive 20% off a game!**  
-  
-
-
-Privacy Policy
 
 Trymedia Systems is committed to protecting the privacy of our users. The following information explains our privacy practices. 
 
@@ -40,11 +32,6 @@ San Francisco, CA 94103
 [info@trymedia.com](mailto:info@trymedia.com)
 
 If you have any problems using the Site, please send an e-mail to our webmaster at [webmaster@trymedia.com](mailto:webmaster@trymedia.com)
-
-  
-
-
-* * *
 
   
 
