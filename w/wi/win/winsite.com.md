@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsite.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405073918id_/http%3A//www.winsite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsite.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029102733id_/http%3A//www.winsite.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to WinSite! The place for shareware, demoware, trialware, tips, and utilities for your computer
 
@@ -24,6 +24,6 @@ As one of the busiest and most popular sites on the Internet, we open ourselves 
 We provide this statement as an assurance to you. We want you to know that your privacy is respected and will not be abused or violated by visiting our site. We also hope that by providing this privacy statement, other sites will join us in reaffirming your rights of privacy while using the Internet.
 
 **We welcome your input!  
-** Please let us know what you think about our privacy statement. Your comments are always welcome at [winsite@winsite.com](mailto:winsite@winsite.com).
+** Please let us know what you think about our privacy statement. Your comments are always welcome at our[Contact](http://www.winsite.com/cgi-bin/contact) page.
 
 Last updated: Fri Apr 21 23:38:15 2000 
