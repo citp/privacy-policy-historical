@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206092906id_/http%3A//www.jta.org/page_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606054244id_/http%3A//www.jta.org/page_privacy.asp) for the most accurate reproduction.*
 
 # JTA - Global Jewish News
 
