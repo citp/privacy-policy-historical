@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408170730id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211837id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
 
 # Association of American Medical Colleges Privacy Statement
 
