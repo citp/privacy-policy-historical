@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621093040id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002041243id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # Unique Rewards / Privacy Policy
+
+I enjoyed your customer service. Any question I had - I got the answer right away. Good Return-on-Investiment.
+
+ **David Kingsley**.
+
+[ ](https://web.archive.org/advertiser.html)
+
+  
+| 
 
 UniqueRewards Privacy Statement
 
@@ -8,9 +17,9 @@ UniqueRewards Privacy Statement
 
 UniqueRewards strictly adheres to the Privacy Policy outlined below. We will closely guard any personally identifiable information you disclose to us during registration or at any other point during your UniqueRewards.com experience. 
 
-Information will only be shared with a third party if a member requests for that information to be shared. 
+Information will only be shared with a third party if a member requests that such information is to be shared. 
 
-By joining UniqueRewards, you may choose between opting-in and opting-out from our Newsletters. You can unsubscribe from UniqueRewards Mail at any time and still maintain an active UniqueRewards account. 
+By joining UniqueRewards, you may choose to opt in or out of receiving our Newsletters. You can unsubscribe from UniqueRewards Mail at any time and still maintain an active UniqueRewards account. 
 
   
 **What Information UniqueRewards Collects:**
@@ -19,31 +28,31 @@ In order to receive any payment from the UniqueRewards service, we require all u
 
 UniqueRewards.com will not share, sell, trade, or give away personally identifiable information to third parties without members' explicit permission. 
 
-UniqueRewards.com collects online behavior statistical information for our members. Upon termination of the online session, closing of the browser and/or termination of your membership, this information will no longer be collected. Summaries of the information will be made available to third parties. Those summaries do not include members' names, addresses, email addresses, or other personally identifiable information. 
+UniqueRewards.com collects online behavior statistical information regarding our members. Upon termination of the online session, closing of the browser and/or termination of your membership, this information will no longer be collected. Summaries of the information will be made available to third parties. Those summaries do not include members' names, addresses, email addresses, or other personally identifiable information. 
 
   
 **Cookies:**
 
-UniqueRewards uses a feature of your Internet browser called a "cookie" to assign a unique identification to your computer. Cookies are files that your Web browser places on your computer's hard drive. Cookies can be used to help save and retrieve passwords used on the UniqueRewards.com and to save information on past activities and other preferences. 
+UniqueRewards uses a feature of your Internet browser called a "cookie" to assign a unique identification to your computer. Cookies are files that your Web browser places on your computer's hard drive. Cookies can be used to help save and retrieve passwords used on the UniqueRewards.com site and to save information on past activities and other preferences. 
 
-That way, you don't have to reenter information upon every move throughout our site and complete offers without being prompted by our security system to log in again after each activity. When you login to UniqueRewards.com, UniqueRewards reads the cookie to help target and personalize offers to you. UniqueRewards uses cookies for the benefit of users. UniqueRewards does not place any personally identifiable information in users cookies. UniqueRewards does not and cannot use cookies to retrieve personal information about you from your computer. 
+Because of the cookie you don't have to reenter information upon every move throughout our site and you may complete offers without being prompted by our security system to log in again after each activity. When you log in to UniqueRewards.com, UniqueRewards reads the cookie to help target and personalize offers to you. UniqueRewards uses cookies for the benefit of users. UniqueRewards does not place any personally identifiable information in users' cookies. UniqueRewards does not and cannot use cookies to retrieve personal information about you from your computer. 
 
   
 **Data Security:**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, UniqueRewards has used appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. However, no data transmitted over the Internet can be 100% secure. As a result, while we strive to protect your personal information, UniqueRewards cannot guarantee the security of any information that you transmit to us or from our sponsors and you do so at your own risk. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, UniqueRewards has used appropriate and standard industry procedures to safeguard the confidentiality of your personal information. Such information includes the nature of your firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. However, no data transmitted over the Internet can be 100% secure. As a result, while we strive to protect your personal information, UniqueRewards cannot guarantee the security of any information that you transmit to us or from our sponsors and you do so at your own risk. 
 
   
 **Links to Other Sites:**
 
-This web site contains links to other sites. Please be aware that we, UniqueRewards.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by the UniqueRewards Web Site. 
+The UniqueRewards web site contains links to other sites. Please be aware that the company, UniqueRewards.com, is not responsible for the privacy practices of such linked sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. The UniqueRewards privacy statement applies solely to information collected by the UniqueRewards Web Site. 
 
   
 **Opting-Out:**
 
-Established members will occasionally receive e-mails containing information regarding new offers or special promotions from UniqueRewards if they have not opted out. "Opting-out" means the user does not wish to receive such e-mails from UniqueRewards.com. The opt-out can be performed upon initial registration or later. You may opt-out of receiving these newsletters at any time by updating your account information in the UniqueRewards "My Profile" section. You can reach the "My Profile" section by clicking on the "My Profile" button in the main user's menu. When you reach this page, uncheck the box that reads, "Yes, I want to receive special cash offers". 
+Established members will occasionally receive e-mails containing information regarding new offers or special promotions from UniqueRewards -- if they have not opted out. By "opting-out" the user indicates that he or she does not wish to receive such e-mails from UniqueRewards.com. The opt-out can be performed upon initial registration or later. You may optout of receiving these newsletters at any time by updating your account information in the UniqueRewards "My Profile" section. You can reach the "My Profile" section by clicking on the "My Profile" button in the main user's menu. When you reach this page, uncheck the box that reads, "Yes, I want to receive special cash offers". 
 
-When a member receives an e-mail from UniqueRewards.com and decides they no longer wish to receive e-mails, they can open the e-mail and scroll to the bottom. At the bottom of the e-mail page there will be a brief description of how to have an account "opted-out". Once we receive information regarding these account changes we will make the specified changes as soon as possible. 
+When a member receives a special offer or promotion e-mail from UniqueRewards.com and decides that he or she no longer wishes to receive such e-mails, the member can open the e-mail and scroll to the bottom. At the bottom of the e-mail page there will be a brief description of how to have an account "opted-out". Once UniqueRewards receives information regarding these account changes the company will make the specified changes as soon as possible. 
 
   
 **Site and Service Announcements:**
@@ -58,13 +67,13 @@ UniqueRewards users are able to change their personal information at any time. T
   
 **SPAM**
 
-We will immediately terminate any account, which we believe, in our sole discretion, is transmitting or is otherwise connected with any Spam or other unsolicited bulk emails and postings. 
+We will immediately terminate any account, which we believe, at our sole discretion, is transmitting or is otherwise connected with any Spam or other unsolicited bulk e-mails and postings. 
 
-We will also pursue severe legal action against members who are involved in SPAM. These may include contacting respective authorities (employers, universities, local law-enforcement, the FBI) as well as asking Internet Service providers to deny service. 
+We will not tolerate any such activities on our site or server of members who are involved in SPAM or related abuses. Our actions may include contacting relevant authorities (such as employers, universities, local law enforcement, the FBI) as well as asking Internet Service providers to deny service. 
 
-SPAM includes, but is not limited to, unsolicited emails and/or postings in discussion groups, bulletin boards, and other public domain groups. Most network providers generally prohibit SPAM messages and certain jurisdictions and those users employing them may be subject to fines and/or imprisonment. We do not allow our members to utilize SPAM messages. The company will automatically terminate all spamming accounts. 
+SPAM includes, but is not limited to, unsolicited emails and/or postings in discussion groups, bulletin boards, and other public domain groups. Most network providers generally prohibit SPAM messages and in certain jurisdictions those users employing them may be subject to fines and/or imprisonment. We do not allow our members to utilize SPAM messages. The company will automatically terminate all spamming accounts. 
 
-The only acceptable methods of referring someone to our UniqueRewards.com Rewards Online Program are through communication with family and friends, as well as through establishing a link to our web site on a member owned web site. 
+The only acceptable methods of referring someone to our UniqueRewards.com Rewards Online Program are through communication with family and friends, as well as through establishing a link to our web site on a member-owned Web site. 
 
 To report spam, send an email to: [abuse@UniqueRewards.com](mailto:abuse@uniquerewards.com)
 
@@ -76,4 +85,4 @@ You may cancel your Membership at anytime by clicking on the "Terminate Account"
   
 **Changes To The Privacy Policy:**
 
-By registering to use the UniqueRewards service, you agree to accept this privacy policy and are aware that UniqueRewards' s privacy policy may change from time to time. We strongly advise our members to check back from time to time. We also welcome any feedback from you; please email us at [support@UniqueRewards.com](mailto:support@uniquerewards.com) if you have any comments regarding the information or improvements that can be made to this privacy policy.
+By registering to use the UniqueRewards service, you agree to accept this privacy policy and are aware that UniqueRewards' s privacy policy is subject to change. We strongly advise our members to check back periodically to this page. We also welcome any feedback from you; please email us at [support@UniqueRewards.com](mailto:support@UniqueRewards.com) if you have any comments regarding the information provided or suggestions for improvements that can be made to this privacy policy. 
