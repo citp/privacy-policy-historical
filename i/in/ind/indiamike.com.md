@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiamike.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610103543id_/http%3A//www.indiamike.com/india/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamike.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806051045id_/http%3A//www.indiamike.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# India Travel Forum Privacy Policy
+# IndiaMike.com
 
 Any information submitted by the user for membership remains confidential and is released to **no one**. 
 
@@ -39,7 +39,7 @@ are stored in a log file and/or database.  This information cannot be used to i
 
 Information collected in this process can also be used to prevent banned users from re-registering under a different username. The email address will only be seen by moderators and administrators if the "Keep your email address viewable to other users when you post notes?" option is set to **no**. Cookies may be sent to your browser to enable automatic log-ins upon further visits, as well as for content customization.
 
-For further information on managing cookies on this site please see our [F.A.Q](http://www.indiamike.com/india/misc.php?s=&action=faq&page=1#cookies). section.
+For further information on managing cookies on this site please see our [F.A.Q](http://www.indiamike.com/india/faq.php?faq=vb_user_maintain#faq_vb_clear_cookies). section.
 
 The following features on the site:
 
@@ -53,3 +53,5 @@ The following features on the site:
 are **not** viewed by the Administrator or the Moderators unless deemed necessary for violation of the original Terms of Agreement.   
 
 We invite you to contact us if you have questions about this policy. You may contact us by e-mail at the following address: [mailto@indiamike.com](mailto:mailto@indiamike.com) 
+
+Privacy Policy last updated on April 27, 2003 
