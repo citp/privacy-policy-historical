@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyctourist.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214131710id_/http%3A//www.nyctourist.com/copyright.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyctourist.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605185735id_/http%3A//www.nyctourist.com/copyright.htm) for the most accurate reproduction.*
 
 # NYCtourist.com - legal stuff, contacts, misc...
 
