@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cunard.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206233200id_/http%3A//www.cunard.com/index.cfm%3Fmethod%3DPrivacyPolicy%26shipline%3Dhome%26content%3DPrivacyPolicy%26Lang%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cunard.com privacy policy that was archived on 2001-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010618035854id_/http%3A//www.cunard.com/index.cfm%3Fmethod%3DPrivacyPolicy%26shipline%3Dhome%26content%3DPrivacyPolicy%26Lang%3Dus) for the most accurate reproduction.*
 
 # Cunard Line
 
