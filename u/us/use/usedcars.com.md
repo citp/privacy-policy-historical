@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205045828id_/http%3A//www.usedcars.com/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605231419id_/http%3A//www.usedcars.com/privacyPolicy.shtml) for the most accurate reproduction.*
 
 # UsedCars.com
 
