@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008090449id_/http%3A//www.vanns.com/shop/servlet/content/info/1057022777629/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607024305id_/http%3A//www.vanns.com/shop/servlet/content/info/1057022777629/1) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|  |  | **Privacy Policy Statement**  
+Site Help and Information
+
+| To track your Vanns.com order please enter your order number and click 'Track Order'.  
+---  
+Your Order Number:  
+|   
+  
+|  | **Privacy Policy Statement**  
 ---  
 This is a web site of Vanns.com Inc., the Internet Company of Vann's Inc.  
 Our postal address is:  
