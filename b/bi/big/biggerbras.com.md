@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401145757id_/http%3A//biggerbras.com/index_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2004-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040926084827id_/http%3A//www.biggerbras.com/index_privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
