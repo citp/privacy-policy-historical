@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footwearnews.com privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014114943id_/http%3A//www.footwearnews.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footwearnews.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308135244id_/http%3A//www.footwearnews.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled
 
@@ -8,7 +8,7 @@ Last Revised: **December 7, 2001**
 
 Kids and parents click here!
 
-In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20041014114943id_/http%3A//www.footwearnews.com/terms.htm). Your use of **FOOTWEARNEWS.COM** constitutes agreement to its terms and conditions.   
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20050308135244id_/http%3A//www.footwearnews.com/terms.htm). Your use of **FOOTWEARNEWS.COM** constitutes agreement to its terms and conditions.   
 **FOOTWEARNEWS.COM** is produced by Fairchild Publications, Inc.. This policy does not cover information collected on sites linked to from **FOOTWEARNEWS.COM**.  
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of FOOTWEARNEWS.COM by you will constitute your acceptance of any changes or revisions to the Privacy Policy. It is the goal of **FOOTWEARNEWS.COM** to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
 
