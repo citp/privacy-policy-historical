@@ -1,16 +1,40 @@
-> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2000-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000511094651id_/http%3A//wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
 
 # WirelessAdvisor.com - Privacy Statement
 
-[ ](https://web.archive.org/web/20000511094651id_/http%3A//wirelessadvisor.com/faq.cfm) [ ](https://web.archive.org/web/20000511094651id_/http%3A//wirelessadvisor.com/glossary.cfm) [ ](https://web.archive.org/web/20000511094651id_/http%3A//wirelessadvisor.com/feedback.cfm) [ ](https://web.archive.org/web/20000511094651id_/http%3A//wirelessadvisor.com/company.cfm) [ ](https://web.archive.org/web/20000511094651id_/http%3A//wirelessadvisor.com/advertising.cfm) [ ](https://web.archive.org/web/20000511094651id_/http%3A//wirelessadvisor.com/legal.cfm) [ ](https://web.archive.org/web/20000511094651id_/http%3A//wirelessadvisor.com/index.cfm)
-
-**Quickly search for all Cellular and PCS carriers covering your area.**
-
-| **Privacy Statement**  
+|   
 ---  
-[](https://www.truste.org/validate/386) | 
+| **A free, consumer service.**  
+| 
 
-Wireless Advisor, LLC is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for WirelessAdvisor.com. 
+* * *  
+  
+|  **[Wireless Glossary](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/Glossary.cfm)  
+[Discussion Forums](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/forums.cfm)  
+[Wireless Books](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/book1.cfm)  
+[FREE Classified Ads](http://209.213.96.253/classpro/viewads.html)  
+[Frequently Asked Questions](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/faq.cfm)  
+[Home](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/index.cfm)  
+**  
+|   
+|  **WirelessAdvisor.com** ®
+
+* * *
+
+**[Company](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/company.cfm)  
+[Advertising](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/advertising.cfm)  
+[Privacy Statement](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/privacy.cfm)  
+[Press](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/press.cfm)  
+[Legal](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/legal.cfm)  
+[Feedback](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/feedback.cfm)  
+**  
+|  WirelessAdvisor.com is not associated by ownership or membership with any cellular, PCS or wireless service provider companies and is not meant to be an endorsement of any company or service.  
+  
+|  | **Privacy Statement**  
+---  
+  
+  
+[](https://www.truste.org/validate/386) |  Wireless Advisor, LLC is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for WirelessAdvisor.com. 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe mark, this Web site has agreed to notify you of:
 
@@ -34,9 +58,7 @@ Further information about this program is available at [http://www.bbbonline.org
 * * *  
   
   
-
-
-### PRIVACY STATEMENT FOR WirelessAdvisor.com
+**PRIVACY STATEMENT FOR WirelessAdvisor.com**
 
 > This privacy statement discloses the privacy practices that WirelessAdvisor.com will adhere to when gathering, handling, correcting, or disposing of information about visitors to its web site. ****
 > 
@@ -61,7 +83,7 @@ Further information about this program is available at [http://www.bbbonline.org
 >   * In order to post ads in the WirelessAdvisor.com classified ads section, users are required to supply an email address. Email addresses submitted for this purpose are not publicly displayed in the ad but used to relay messages to users responding to posted ads.
 >   * WirelessAdvisor.com itself does not use cookies in any part of the web site, however, other companies that place advertising on our site may use cookies. WirelessAdvisor.com cannot control other companies' use of cookies. These cookies cannot be used to individually identify visitors.
 >   * On our website, we display advertisements for other companies, agencies and advertising networks. These advertisements may place cookies with your machine, and use different privacy and security policies than WirelessAdvisor.com (WIRELESS ADVISOR, LLC.).   
-> [A complete list of these companies can be found and further evaluated by following this link.](http://wirelessadvisor.com/privacy_append.cfm)
+> [A list of these companies can be found and further evaluated by following this link.](http://wirelessadvisor.com/pappend.cfm)
 > 
 ****
 > 
@@ -98,7 +120,23 @@ Further information about this program is available at [http://www.bbbonline.org
 > 
 > If you have any questions about this privacy statement, the practices of this site, or dealings with this Web site, you can contact: 
 > 
-> [WirelessAdvisor.com](http://wirelessadvisor.com/)
-> 
-> [webmaster@wirelessadvisor.com](mailto:webmaster@wirelessadvisor.com)  
-> 
+> [WirelessAdvisor.com](http://wirelessadvisor.com/)  
+>  [webmaster@wirelessadvisor.com](mailto:webmaster@wirelessadvisor.com)  
+>   
+  
+  
+|  |   
+  
+---  
+  
+|    
+**WirelessAdvisor.com®**  
+Search by ZIP code for the cellular, PCS and wireless phone companies serving your area of the U.S.  
+  
+  
+**Enter your ZIP Code:**  
+  
+  
+**OR** ... [Select a city by name](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/regions.cfm " Select City")  
+  
+
