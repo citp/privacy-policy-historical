@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204202719id_/http%3A//www.powertochange.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610044925id_/http%3A//powertochange.com/about/privacy.html) for the most accurate reproduction.*
 
 # Power to Change - powertochange.com privacy policy
 
-Privacy Policy **Privacy Policy - Synopsis**
+      send page      Privacy Policy **Privacy Policy - Synopsis**
 
 Power to Change Online takes all possible measures to protect the personal information of its users. We store any personal data given to us as securely as possible, and NEVER sell, rent, give or otherwise provide that personal data (including e-mail address) to anyone outside of our organization.
 
