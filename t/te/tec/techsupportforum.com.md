@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsupportforum.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208190135id_/http%3A//www.techsupportforum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportforum.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403195937id_/http%3A//www.techsupportforum.com//privacy.php) for the most accurate reproduction.*
 
 # Tech Support Forum
 
@@ -11,7 +11,7 @@ Tech Support Forum
 New Port Richey, FL 34653      
 USA
 
-You may contact us by email at [webmaster@techsupportforum.com](mailto:webmaster@techsupportforum.com)
+You may contact us by email [here.](http://www.techsupportforum.com/sendmessage.php)
 
 Site Visits:
 
@@ -36,7 +36,7 @@ are stored in a log file and/or database. This information cannot be used to ide
 
 This information is kept on a secure dedicated server hosted by LiquidWeb as well as servers within the Tech Support Forum offices.
 
-The email addresses collected from subscriptions to the Tech Support Forum newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out Tech Support Forum communications (for example, the Tech Support Forum newsletters). You will not receive any mailings you did not request. The email addresses collected at Tech Support Forum are stored on a server hosted by LiquidWeb. You can remove yourself from our list at any time by visiting [http://www.techsupportnewsletter.com](http://www.techsupportnewsletter.com/) 
+The email addresses collected from subscriptions to the Tech Support Forum newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out Tech Support Forum communications (for example, the Tech Support Forum newsletters). You will not receive any mailings you did not request. The email addresses collected at Tech Support Forum are stored on a server hosted by LiquidWeb. You can remove yourself from our list at any time by visiting [here.](http://www.techsupportforum.com/mwsubscribe) 
 
 You will not receive any mailings you did not request, and you can remove yourself at any time. Your email address will not be disclosed to any third party. Instructions for removal from these mailings are included in each individual email message that is sent to you.
 
@@ -70,4 +70,4 @@ If you purchase products directly from Tech Support Forum, your contact informat
 
 Any data collected will be used by ourselves and our agents. Tech Support Forum hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
 
-If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please [contact us](mailto:webmaster@techsupportforum.com)
+If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please [contact us](http://www.techsupportforum.com/sendmessage.php)
