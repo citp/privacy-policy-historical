@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605163436id_/http%3A//fanartreview.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207103405id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
 
 # fanArtReview.com - post art, art reviews, review art, art contests, art site, paint
 
@@ -42,6 +42,10 @@ Some of our sites contain links to other sites whose information practices may b
 
 The sites covered by this Privacy Notice sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. has no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+
 ###  Cookies 
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
@@ -56,4 +60,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanartreview.com](https://web.archive.org/web/20040605163436id_/http%3A//fanartreview.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanartreview.com](https://web.archive.org/web/20041207103405id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
