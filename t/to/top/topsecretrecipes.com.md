@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsecretrecipes.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401211622id_/http%3A//topsecretrecipes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsecretrecipes.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204054906id_/http%3A//www.topsecretrecipes.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,4 +19,4 @@ Some of the ads appearing on this Web site are delivered to you by MaxWorldWide,
 
 
 Copyright © 2003 Top Secret Recipes, Inc. All Rights Reserved  
-[Terms and Conditions](https://web.archive.org/web/20040401211622id_/http%3A//topsecretrecipes.com/terms.htm)
+[Terms and Conditions](https://web.archive.org/web/20050204054906id_/http%3A//www.topsecretrecipes.com/terms.htm)
