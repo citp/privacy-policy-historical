@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oreilly.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605004203id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreilly.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205014606id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Network: Privacy Policy [Jan. 31, 2000]
 
@@ -31,7 +31,7 @@ We use the personal information you provide voluntarily to send information you'
   * When you sign up to receive O'Reilly Network newsletters and/or O'Reilly product and company news at elists.oreilly.com, you must provide your name, email address, and a password. We never sell or rent your email address or other personally identifiable information you provide when subscribing to our elists.
   * When you register for an O'Reilly conference, or sign up for a conference email list, we will send you email announcements and updates about O'Reilly conferences. We send conference brochures to past conference attendees.
   * When you order books directly from us, or request book catalogs, we add you to our snailmail list, and we'll send you catalogs and other marketing pieces.
-  * When you enter a contest, we may ask for your name, address, and email address so we can administer the contest and notify winners.
+  * When you enter a contest or sweepstakes, we may ask for your name, address, and email address so we can administer the contest and communicate with entrants about the results.
 
 
 
