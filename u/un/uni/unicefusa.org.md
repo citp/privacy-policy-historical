@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicefusa.org privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209212900id_/http%3A//www.unicefusa.org/unicefusa/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicefusa.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604165204id_/http%3A//www.unicefusa.org/unicefusa/privacy.html) for the most accurate reproduction.*
 
 # About Us: Privacy Statement
 
@@ -34,7 +34,7 @@ No information regarding a visitor's e-mail address is automatically recognized 
 
   4. **Children**
 
-We are especially concerned about ensuring the privacy of children online. Please note that we try to ensure that all our activities (particularly the "Trick or Treat for UNICEF" program) are coordinated by an adult and therefore make every effort to send information to adults only. If you are aware that a child has provided their name to us, please let us know by entering their name in the CHILD ALERT box and by providing us with a supervising adult's contact information using the change of address form located at [http://www.unicefusa.org/trickortreat/privacy/index.html](https://web.archive.org/web/20001209212900id_/http%3A//www.unicefusa.org/trickortreat/privacy/index.html)
+We are especially concerned about ensuring the privacy of children online. Please note that we try to ensure that all our activities (particularly the "Trick or Treat for UNICEF" program) are coordinated by an adult and therefore make every effort to send information to adults only. If you are aware that a child has provided their name to us, please let us know by entering their name in the CHILD ALERT box and by providing us with a supervising adult's contact information using the change of address form located at [http://www.unicefusa.org/trickortreat/privacy/index.html](https://web.archive.org/web/20010604165204id_/http%3A//www.unicefusa.org/trickortreat/privacy/index.html)
 
   5. **Dissemination of Personal Data** The United States Fund for UNICEF does not rent, exchange, or sell the electronic mail addresses of our supporters. 
   6. **Donor Bill of Rights** The United States Fund for UNICEF believes in the rights of donors and subscribes to the _Donor Bill of Rights_. This statement of rights was developed by American Association of Fund Raising Counsel (AAFRC), Association for Healthcare Philanthropy (AHP), Council for Advancement and Support of Education (CASE), and the National Society of Fund Raising Executives (NSFRE). The full text of the _Donor Bill of Rights_ follows: 
