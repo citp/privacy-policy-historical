@@ -1,0 +1,679 @@
+<!--The following is the downloaded HTML source of the sfmoma.org privacy policy that was archived on 2002-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020202192428id_/http%3A//www.sfmoma.org/info/about_privacy.html) for the most accurate reproduction.-->
+
+<html><head>
+<title>SFMOMA Privacy Policy</title>
+
+<link rel="stylesheet" href="../styles/globalstyle.css">
+
+
+<!-- highlights dynamic layer //-->
+
+
+<script language="JavaScript">  //this is from the "dynlayer.js" API
+
+function BrowserDetection() {
+	var b=navigator.appName
+	if (b=="Netscape") this.b="ns"
+	else if (navigator.userAgent.indexOf("Opera")>0) this.b = "opera"
+	else if (b=="Microsoft Internet Explorer") this.b="ie"
+	if (!b) {
+		alert('Unidentified browser./nThis browser is not supported,')
+	}
+	this.version=navigator.appVersion
+	this.v=parseInt(this.version)
+	this.ns=(this.b=="ns" && this.v>=4)
+	this.ns4=(this.b=="ns" && this.v==4)
+	this.ns5=(this.b=="ns" && this.v==5)
+	this.ie=(this.b=="ie" && this.v>=4)
+	this.ie4=(this.version.indexOf('MSIE 4')>0)
+	this.ie5=(this.version.indexOf('MSIE 5')>0)
+	this.ie55=(this.version.indexOf('MSIE 5.5')>0)
+	this.opera=(this.b=="opera")
+	this.dom=((document.createRange&&(document.createRange().createContextualFragment))?true:false)
+	var ua=navigator.userAgent.toLowerCase()
+	if (ua.indexOf("win")>-1) this.platform="win32"
+	else if (ua.indexOf("mac")>-1) this.platform="mac"
+	else this.platform="other"
+}
+
+is = new BrowserDetection()
+
+
+function DynLayer(id,nestref,frame) {
+	if (!is.ns5 && !DynLayer.set && !frame) DynLayerInit()
+	this.frame = frame || self
+	if (is.ns) {
+		if (is.ns4) {
+			if (!frame) {
+				if (!nestref) var nestref = DynLayer.nestRefArray[id]
+				if (!DynLayerTest(id,nestref)) return
+				this.css = (nestref)? eval("document."+nestref+".document."+id) : document.layers[id]
+			}
+			else this.css = (nestref)? eval("frame.document."+nestref+".document."+id) : frame.document.layers[id]
+			this.elm = this.event = this.css
+			this.doc = this.css.document
+		}
+		else if (is.ns5) {
+			this.elm = document.getElementById(id)
+			this.css = this.elm.style
+			this.doc = document
+		}
+		this.x = this.css.left
+		this.y = this.css.top
+		this.w = this.css.clip.width
+		this.h = this.css.clip.height
+	}
+	else if (is.ie) {
+		this.elm = this.event = this.frame.document.all[id]
+		this.css = this.frame.document.all[id].style
+		this.doc = document
+		this.x = this.elm.offsetLeft
+		this.y = this.elm.offsetTop
+		this.w = (is.ie4)? this.css.pixelWidth : this.elm.offsetWidth
+		this.h = (is.ie4)? this.css.pixelHeight : this.elm.offsetHeight
+	}
+	this.id = id
+	this.nestref = nestref
+	this.obj = id + "DynLayer"
+	eval(this.obj + "=this")
+}
+
+// DynLayerInit Function
+function DynLayerInit(nestref) {
+	if (!DynLayer.set) DynLayer.set = true
+	if (is.ns) {
+		if (nestref) ref = eval('document.'+nestref+'.document')
+		else {nestref = ''; ref = document;}
+		for (var i=0; i<ref.layers.length; i++) {
+			var divname = ref.layers[i].name
+			DynLayer.nestRefArray[divname] = nestref
+			var index = divname.indexOf("Div")
+			if (index > 0) {
+				eval(divname.substr(0,index)+' = new DynLayer("'+divname+'","'+nestref+'")')
+			}
+			if (ref.layers[i].document.layers.length > 0) {
+				DynLayer.refArray[DynLayer.refArray.length] = (nestref=='')? ref.layers[i].name : nestref+'.document.'+ref.layers[i].name
+			}
+		}
+		if (DynLayer.refArray.i < DynLayer.refArray.length) {
+			DynLayerInit(DynLayer.refArray[DynLayer.refArray.i++])
+		}
+	}
+	else if (is.ie) {
+		for (var i=0; i<document.all.tags("DIV").length; i++) {
+			var divname = document.all.tags("DIV")[i].id
+			var index = divname.indexOf("Div")
+			if (index > 0) {
+				eval(divname.substr(0,index)+' = new DynLayer("'+divname+'")')
+			}
+		}
+	}
+	return true
+}
+DynLayer.nestRefArray = new Array()
+DynLayer.refArray = new Array()
+DynLayer.refArray.i = 0
+DynLayer.set = false
+
+
+function DynLayerShow() {
+	this.css.visibility = (is.ns4)? "show" : "visible"
+}
+
+function DynLayerHide() {
+	this.css.visibility = (is.ns4)? "hide" : "hidden"
+}
+
+DynLayer.prototype.show = DynLayerShow
+DynLayer.prototype.hide = DynLayerHide
+DynLayerTest = new Function('return true')
+</script>
+
+<script language="JavaScript">
+<!--
+
+function init() {
+	mylayer = new DynLayer("mylayerDiv")
+}
+
+
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+
+ns4 = (document.layers)? true:false
+ie4 = (document.all)? true:false
+
+function removeContents(id){
+  if(document.getElementById){
+    var element=document.getElementById(id);
+    if(element.hasChildNodes && element.removeChild){
+      while(element.hasChildNodes()) element.removeChild(element.lastChild);
+    }
+    else notSupported();
+  }
+  else notSupported();
+}
+
+function layerWrite(id,nestref,text) {
+
+	if (ns4) {
+		var lyr = (nestref)? eval('document.'+nestref+'.document.'+id+'.document') : document.layers[id].document
+		lyr.open()
+		lyr.write(text)
+		lyr.close()
+	}
+	else if (ie4) document.all[id].innerHTML = text
+	
+    else {
+    
+	    if(document.getElementById && document.createRange){
+		    var element=document.getElementById(id);
+		    var range  =document.createRange();
+		    range.selectNodeContents(element);
+		    isValid = range.isValidFragment(text);
+		    if(isValid) {
+			 removeContents(id);
+		     element.appendChild(documentFragment=range.createContextualFragment(text));
+			 }
+		  } else notSupported();
+		}
+       
+
+}
+
+function ShowHighlights() {
+ 
+  mylayer.show();
+  layerWrite('mylayerDiv',null,'<table cellpadding=0 cellspacing=0 border=0 background=../images/highlights/highlights_bg.gif><tr><td> <table border=0 cellpadding=0 cellspacing=0 width=550 background=../splash/010101/back/spacer.gif> <tr><td colspan=3 bgcolor=#999999 height=7><img src=../splash/010101/back/spacer.gif width=1 height=1 border=0></td></tr><tr><td valign=top height=454 width=7 bgcolor=#999999><img src=../splash/010101/back/spacer.gif width=1 height=1 border=0></td><td valign=top><table border=0 width=524 cellspacing=0 cellpadding=2 background=../splash/010101/back/spacer.gif><tr><td><img src=../splash/010101/back/spacer.gif width=182 height=1 border=0></td><td align=right height=27><a href=javascript:mylayer.hide() onFocus=if(this.blur)this.blur()><img src=../images/highlights/close.gif width=50 height=27 border=0></a></td></tr><tr><td valign=top align=right height=112><img src=../splash/010101/back/spacer.gif width=80 height=1 border=0><a href=/calendar/seventhart.html target=_top onFocus=if(this.blur)this.blur()><img src=../images/highlights/highlights_1.gif width=74 height=75 border=0></a><img src=../splash/010101/back/spacer.gif width=20 height=1 border=0></td><td class=sptext valign=top height=112><i><b>The Seventh Art: New Dimensions in Cinema</b></i><br>SFMOMA has joined forces with the San Francisco Film Society to create a new film series that will include monthly screenings at SFMOMA paired with discussions with filmmakers, directors, curators, and critics. Held on the second Thursday of each month, <i>The Seventh Art: New Dimensions in Cinema</i> presents films that explore the boundaries of cinema&#39;s formal conventions.<br><br></td></tr><tr><td valign=top align=right height=112><img src=../splash/010101/back/spacer.gif width=80 height=1 border=0><a href=/exhibitions/exhib_detail/02_exhib_hesse.html target=_top onFocus=if(this.blur)this.blur()><img src=../images/highlights/highlights_2.gif width=74 height=75 border=0></a><img src=../splash/010101/back/spacer.gif width=20 height=1 border=0></td><td class=sptext valign=top height=112><i><b>Eva Hesse</b></i> &#40;opens February 2, 2002&#41;<br>Featuring approximately 150 major works by German-born artist Eva Hesse, this retrospective introduces one of the most pivotal figures in twentieth-century art. Though Hesse&#39;s career spanned only a decade, her innovative working methods and experimental materials made her a standout on the postwar international scene.<br><br></td></tr><tr><td height=112 valign=top align=right><img src=../splash/010101/back/spacer.gif width=80 height=1 border=0><a href=/exhibitions/exhib_detail/01_points_of_departure_II.html target=_top onFocus=if(this.blur)this.blur()><img src=../images/highlights/highlights_3.gif width=74 height=75 border=0></a><img src=../splash/010101/back/spacer.gif width=20 height=1 border=0></td><td class=sptext height=112 valign=top><i><b>Points of Departure II: Connecting with Contemporary Art</b></i><br>SFMOMA&#39;s latest installation of works from the permanent collection offers an illuminating introduction to key questions in modern and contemporary art. Paintings, sculptures, installations, and photographs by such artists as Anselm Kiefer, Cindy Sherman, and Andy Warhol are grouped into six compelling themes.<br><br></td></tr><tr><td valign=top align=right height=112><img src=../splash/010101/back/spacer.gif width=80 height=1 border=0><a href=http://store.yahoo.com/sfmoma/individual.html target=_blank onFocus=if(this.blur)this.blur()><img src=../images/highlights/highlights_4.gif width=74 height=75 border=0></a><img src=../splash/010101/back/spacer.gif width=20 height=1 border=0></td><td class=sptext valign=top height=112><b>The New SFMOMA Member Card</b><br>Starting February 2002, look for the newly designed SFMOMA membership card. This bright, bold membership card is yours when you join or renew your SFMOMA membership. Use this card to enjoy all the SFMOMA member benefits.</td></tr></table></td><td valign=top height=454 width=7 bgcolor=#999999><img src=../splash/010101/back/spacer.gif width=1 height=1 border=0></td></tr><tr><td colspan=3 bgcolor=#999999 height=7><img src=../splash/010101/back/spacer.gif width=1 height=1 border=0></tr></table></td></tr></table><p><p>')
+  //layerWrite('mylayerDiv',null,content)
+}
+
+//-->
+</script>
+
+<style type="text/css">
+<!--
+#mylayerDiv {position:absolute; left:185; top:44; width:550; height:466; visibility:hidden; zIndex:100}
+
+-->
+</style>
+
+
+
+
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+}
+
+
+function MM_swapImgRestore() { //v3.0
+
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+}
+
+
+function MM_swapImage() { //v3.0
+
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+//-->
+</script>
+</head>
+
+
+
+<body bgcolor="#99CC00" background="../images/sf/nav/sf_mo_back.gif" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onload="MM_preloadImages('../images/sf_nav/visit_over.gif','../images/sf_nav/calendar_over.gif','../images/sf_nav/education_over.gif','../images/sf_nav/membership_over.gif','../images/sf_nav/shop_over.gif','../images/sf_nav/exhibitions_over.gif','../images/sf_nav/collections_over.gif','../images/sf_nav/espace_over.gif','../images/sf/main/main_museum_hist_over.gif','../images/sf/main/main_sfmoma_admin_over.gif','../images/sf/main/main_your_event_over.gif','../images/sf/sub/sub_site_map_over.gif','../images/sf/main/main_press_rel_over.gif','../images/sf/main/main_webby_over.gif','../images/sf/main/main_get_involved_over.gif','../images/sf/main/main_dir_overview_over.gif','../images/sf/main/main_opportunities_over.gif','../images/sf/sub/sub_site_credits_over.gif');init()">
+<img src="../images/sf/nav/space_clear.gif" height="91" width="1"> 
+<!-- header graphic //-->
+<table border="0" cellpadding="0" cellspacing="0" height="625">
+  <tbody><tr> 
+    <td align="left" valign="top" height="639"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="127">
+        <tbody><tr> 
+          <td><img src="../images/sf/nav/space_clear.gif" width="83" height="1"></td>
+          <td><img src="../images/sf/title/title_about_site.gif" width="158" height="42"></td>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table>
+
+
+<!-- page content //-->
+
+      <table border="0" cellpadding="0" cellspacing="0" width="455">
+        <tbody><tr> 
+          <td><img src="../images/sf/nav/space_clear.gif" width="83" height="1"></td>
+          <td><img src="../images/sf/head/head_privacy_policy.gif" width="182" height="17"></td>
+          <td><img src="../images/sf/nav/space_clear.gif" width="190" height="1"></td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td valign="top">&nbsp;</td>
+          <td colspan="2" class="txt11" valign="top" height="229"> <br>
+            The San Francisco Museum of Modern Art (SFMOMA) is concerned about 
+            protecting the privacy of all SFMOMA Web site visitors. SFMOMA respects 
+            your privacy and your choice not to have your personal information 
+            shared with other people. Please read the following to learn more 
+            about our policy. Your use of our Web site indicates your acceptance 
+            of this Privacy Policy. <br>
+            <span class="textbold"><br>
+            COLLECTION OF INFORMATION</span> <br>
+            <br>
+            SFMOMA does not collect personally identifying data, such as names, 
+            addresses, email addresses, and the like, except when voluntarily 
+            submitted by Web site visitors. 
+            <p>In only three situations does SFMOMA request personally identifying 
+              data from site visitors: for online purchases made in the SFMOMA 
+              MuseumStore; for online purchases of admission tickets; and for 
+              online employment applications. Information that SFMOMA collects 
+              is used to make our Web site more useful by helping us learn about 
+              the number of visitors to our site and the types of technology our 
+              visitors use. We do not track or record information about individuals 
+              and their visits. We may compile and report aggregate statistics 
+              about our users -- such as numbers, traffic patterns, and related 
+              site information -- but these statistics include no personally identifying 
+              information.<br>
+              <span class="textbold"><br>
+              DISCLOSURE OF INFORMATION</span> <br>
+              <br>
+              SFMOMA will not disclose or share any personal information you provide 
+              to SFMOMA with any other party without your permission, except if 
+              requested to do so in accordance with a court order, subpoena, or 
+              similar legal order, and in the event such disclosure is necessary 
+              to protect the rights, property, and safety of SFMOMA, its users, 
+              and other third parties. SFMOMA will not sell, trade, or rent your 
+              personal information to others. <br>
+              <span class="textbold"><br>
+              THIRD PARTY PROCESSING</span> <br>
+              <br>
+              Purchases made through the MuseumStore, purchases of tickets, and 
+              employment applications are processed by third parties who handle 
+              all related ordering, processing, and delivery of the products. 
+              The third parties' practices in connection with the ordering, processing, 
+              and delivery of products are subject to their own privacy policies. 
+              You should consult the privacy policies for the MuseumStore at <a href="http://privacy.yahoo.com/" target="_blank">Yahoo! 
+              Store</a>, online ticket sales at <a href="http://www.ticketweb.com/privacy.html" target="_blank">TicketWeb</a> 
+              and <a href="http://www.tickets.com/privacy_statement.html" target="_blank">Tickets.com</a>, 
+              and online employment applications at <a href="http://karaka.snaphire.com/static/v1.1/help/jobseeker/privacy.htm" target="_blank">SnapHire</a> 
+              to ascertain the uses of the personal information submitted to these 
+              third parties. <br>
+              <br>
+              <span class="textbold">LINKS <br>
+              <br>
+              </span>SFMOMA may provide links to other third party Web sites, 
+              and other Web sites may provide links to the SFMOMA Web site. Third 
+              party Web sites operate according to their own terms of use and 
+              privacy policies. SFMOMA has no control over such third party Web 
+              sites, and therefore you acknowledge and agree that SFMOMA is not 
+              responsible for the availability of such third party sites, and 
+              does not endorse and is not responsible or liable for any content, 
+              advertising, products, or other materials on or available from such 
+              sites. You further acknowledge and agree that SFMOMA will not be 
+              responsible or liable, directly or indirectly, for any damage or 
+              loss caused or alleged to be caused by or in connection with use 
+              of or reliance on any such content, advertising, products, or other 
+              materials on or available from such sites.<span class="text"><br>
+              </span><span class="textbold"><br>
+              CHILDREN</span> <span class="txt11"><br>
+              <br>
+              SFMOMA does not solicit personal information from children. Visitors 
+              12 years of age and under must obtain an adult's permission before 
+              submitting any personal information to this site. <br>
+              </span><span class="textbold"><br>
+              CHANGES TO OUR POLICY</span> <span class="txt11"><br>
+              <br>
+              SFMOMA may amend this policy from time to time. If we make any substantial 
+              changes in the way we use your personal information, we will notify 
+              you by posting a prominent announcement on this page. <br>
+              </span><span class="textbold"><br>
+              CONTACT</span> <span class="txt11"><br>
+              <br>
+              If you have any questions or concerns about this privacy policy, 
+              our online practices, or your dealings with this Web site, please 
+              contact: <br>
+              <br>
+              David Sturtevant <br>
+              Manager, Intellectual Property<br>
+              SFMOMA<br>
+              151 Third Street<br>
+              San Francisco, CA 94103</span> </p>
+            <p>Email: <a href="mailto:copyright@sfmoma.org">copyright@sfmoma.org</a><br>
+            </p>
+            <span class="text"> <br>
+            </span> 
+            <p></p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <span class="splashwht">Copyright © 2002 San Francisco Museum 
+            of Modern Art</span> <br>
+            <br>
+          </td>
+          <td colspan="2" class="txt11" valign="top" height="116"> <br>
+          </td>
+        </tr>
+      </tbody></table>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    </td>
+    <td align="left" valign="top" height="639">&nbsp; </td>
+  </tr>
+</tbody></table>
+
+
+<!-- menu/subnavigation layer //-->
+
+<div id="menubar" style="position:absolute; width:200px; height:100px; z-index:1; left: 455px; top: 0px"> 
+  <table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr> 
+      <td> 
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td><a href="../exhibitions/exhib_detail/98_exhib_vinciarelli.html" onfocus="if(this.blur)this.blur()"><img src="../images/art/lg/lg_vinciarelli_incadescence.jpg" width="185" height="250" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td bgcolor="#FFFFFF" class="text" height="79" width="185" valign="bottom" align="left"> 
+              &nbsp;Lauretta Vinciarelli<br>
+              &nbsp;from <i>Incandescence</i>, an installation<br>
+              &nbsp;of ten watercolors<br>
+              &nbsp;1998</td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td><img src="../images/sf/nav/nav_sf_top.gif" width="185" height="18"></td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="director_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('dirover','','../images/sf/main/main_dir_overview_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf/main/main_dir_overview.gif" width="183" height="12" border="0" name="dirover"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="mushist_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mushist','','../images/sf/main/main_museum_hist_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf/main/main_museum_hist.gif" width="183" height="12" name="mushist" border="0"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="press_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('press','','../images/sf/main/main_press_rel_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf/main/main_press_rel.gif" width="183" height="12" name="press" border="0"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="1" height="1"><img src="../images/sf/nav/space_clear.gif" width="1" height="1"><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="webby_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('webby','','../images/sf/main/main_webby_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf/main/main_webby.gif" width="183" height="12" border="0" name="webby"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="admin_teldirectory.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('admin','','../images/sf/main/main_sfmoma_admin_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf/main/main_sfmoma_admin.gif" width="183" height="12" name="admin" border="0"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="getinv_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('getinv','','../images/sf/main/main_get_involved_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf/main/main_get_involved.gif" width="183" height="12" name="getinv" border="0"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="your_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('yourevent','','../images/sf/main/main_your_event_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf/main/main_your_event.gif" width="183" height="12" name="yourevent" border="0"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="opps_overview.html" onmouseover="MM_swapImage('employ1','','../images/sf/main/main_opportunities_over.gif',1)" onmouseout="MM_swapImgRestore()" onfocus="if(this.blur)this.blur()"><img src="../images/sf/main/main_opportunities.gif" width="183" height="12" border="0" name="employ1"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="8"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><img src="../images/sf/main/main_about_over.gif" width="183" height="12" name="about" border="0"></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="8"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="about_credits.html" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('credits','','../images/sf/sub/sub_site_credits_over.gif',1)"><img src="../images/sf/sub/sub_site_credits.gif" width="183" height="12" name="credits" border="0"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/nav_sf_dot.gif" width="35" height="12"></td>
+            <td> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><img src="../images/sf/sub/sub_privacy_policy_over.gif" width="183" height="12" name="privacy" border="0"></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td>
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                  <td><a href="about_terms.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('privacy1','','../images/sf/sub/sub_terms_use_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf/sub/sub_terms_use.gif" width="183" height="12" name="privacy1" border="0"></a></td>
+                  <td width="1" bgcolor="#FFFFFF"><img src="../images/sf/nav/spaceFFFFFF.gif" width="1" height="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td><img src="../images/sf/nav/nav_sf_base.gif" width="185" height="4"></td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td align="LEFT" valign="BOTTOM"><img src="../images/art/building/building_03b.jpg" width="85" height="36"></td>
+    </tr>
+    <tr> 
+      <td colspan="2"> 
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td><img src="../images/sf/nav/space_clear.gif" width="35" height="1"></td>
+            <td><img src="../images/art/building/building_03a.jpg" width="270" height="312"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+<!-- main navigation bar //-->
+
+<div id="navbar" style="position:absolute; width:760px; height:94px; z-index:2; left: 0; top: 0"> 
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr> 
+      <td colspan="11"><img src="../images/sf_nav/topbar.gif" width="241" height="40"></td>
+    </tr>
+    <tr> 
+      <td><a href="../visit/visitinfo_hours.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('visit','','../images/sf_nav/visit_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf_nav/visit.gif" width="45" height="21" name="visit" border="0"></a></td>
+      <td><img src="../images/sf_nav/info_sel.gif" width="37" height="21" name="info"></td>
+      <td><a href="../calendar/calendar.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('calendar','','../images/sf_nav/calendar_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf_nav/calendar.gif" width="66" height="21" name="calendar" border="0"></a></td>
+      <td><img src="../images/sf_nav/mo.gif" width="89" height="21"></td>
+      <td><a href="../education/edu_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('education','','../images/sf_nav/education_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf_nav/education.gif" width="69" height="21" name="education" border="0"></a></td>
+      <td><a href="../membership/member_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('membership','','../images/sf_nav/membership_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf_nav/membership.gif" width="80" height="21" name="membership" border="0"></a></td>
+      <td><a href="../museumstore/shop.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('shop','','../images/sf_nav/shop_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf_nav/shop.gif" width="40" height="21" name="shop" border="0"></a></td>
+      <td><img src="../images/sf_nav/ma.gif" width="110" height="21"></td>
+      <td><a href="../exhibitions/exhibitions_current.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('exhibitions','','../images/sf_nav/exhibitions_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf_nav/exhibitions.gif" width="79" height="21" name="exhibitions" border="0"></a></td>
+      <td><a href="../collections/collections_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('collections','','../images/sf_nav/collections_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf_nav/collections.gif" width="86" height="21" name="collections" border="0"></a></td>
+      <td><a href="../espace/espace_overview.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('espace','','../images/sf_nav/espace_over.gif',1)" onfocus="if(this.blur)this.blur()"><img src="../images/sf_nav/espace.gif" width="59" height="21" name="espace" border="0"></a></td>
+    </tr>
+    <tr> 
+      <td colspan="11"><img src="../images/sf_nav/basebar.gif" width="760" height="33"></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+<!-- footer //-->
+
+<table border="0" cellspacing="0" cellpadding="0" name="foot" class="unnamed1">
+  <tbody><tr> 
+    <td height="22"> <img src="../images/sf/nav/basenav.gif" width="669" height="22" hspace="40" vspace="20" usemap="#Footer" border="0"> 
+      <map name="Footer"> 
+        <area shape="rect" coords="5,5,39,17" href="../visit/visitinfo_hours.html" onfocus="if(this.blur)this.blur()">
+        <area shape="rect" coords="46,5,75,17" href="../info/director_overview.html" onfocus="if(this.blur)this.blur()">
+        <area shape="rect" coords="84,5,140,17" href="../calendar/calendar.html" onfocus="if(this.blur)this.blur()">
+        <area shape="rect" coords="152,5,213,17" href="../education/edu_overview.html" onfocus="if(this.blur)this.blur()">
+        <area shape="rect" coords="224,5,292,17" href="../membership/member_overview.html" onfocus="if(this.blur)this.blur()">
+        <area shape="rect" coords="302,5,331,17" href="../museumstore/shop.html" onfocus="if(this.blur)this.blur()">
+        <area shape="rect" coords="346,5,418,17" href="../exhibitions/exhibitions_current.html" onfocus="if(this.blur)this.blur()">
+        <area shape="rect" coords="427,5,503,17" href="../collections/collections_overview.html" onfocus="if(this.blur)this.blur()">
+        <area shape="rect" coords="512,5,562,17" href="../espace/espace_overview.html" onfocus="if(this.blur)this.blur()">
+      </map>
+    </td>
+  </tr>
+  <tr> 
+    <td class="text"><font color="#FFFFFF"><img src="../images/mo/nav/space_clear.gif" width="83" height="1">Copyright 
+      © 2000 San Francisco Museum of Modern Art </font><br>
+      <br>
+    </td>
+  </tr>
+</tbody></table>
+
+
+<!-- SFMOMA search logo //-->
+
+<script language="JavaScript">
+<!--
+
+
+function MM_showHideLayers() { //v3.0
+
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+
+    obj.visibility=v; }
+
+}
+//-->
+</script>
+
+<div id="mylayerDiv" style="z-index:10"></div>
+
+<div id="whatsnew" style="position:absolute; left:0px; top:133px; width:34px; height:33px; z-index:6"><a href="javascript:ShowHighlights()"><img src="../images/highlights/WN_icon_grn.gif" width="60" height="60" name="wnimg" border="0"></a></div>
+
+
+
+
+
+
+
+
+</body></html>
