@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208213111id_/http%3A//www.fanball.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402142635id_/http%3A//www.fanball.com/privacy.cfm) for the most accurate reproduction.*
 
-# The Ultimate Fantasy Sports Site
+# The Ultimate Fantasy Sports Site - Hotline
 
 **Privacy Statement for www.fanball.com**
 
