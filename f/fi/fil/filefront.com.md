@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filefront.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207052652id_/http%3A//www.filefront.com/r.b/page__privacy_policy/_output.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefront.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615052846id_/http%3A//privacy.legal.filefront.com) for the most accurate reproduction.*
 
-# FileFront :: Gear Up. Play Hard.
+# FileFront - Gear Up. Play Hard.
 
 Our Commitment To Privacy  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
@@ -32,9 +32,9 @@ Our Commitment To Children's Privacy:
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
 How You Can Access Or Correct Your Information  
-You can access all your personally identifiable information that we collect online and maintain by updating your [User Settings](http://www.filefront.com/r.b/page__user_settings/_output.html) page. 
+You can access all your personally identifiable information that we collect online and maintain by updating your [User Settings](http://settings.filefront.com/) page. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 How To Contact Us  
-Should you have other questions or concerns about these privacy policies, please [send us an e-mail](http://www.filefront.com/r.b/page__contact/_output.html). 
+Should you have other questions or concerns about these privacy policies, please [send us an e-mail](http://contact.filefront.com/). 
