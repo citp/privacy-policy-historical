@@ -1,0 +1,506 @@
+<!--The following is the downloaded HTML source of the liveperson.com privacy policy that was archived on 2000-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001212184900id_/http%3A//liveperson.com/corporate_site/html/howdoes/howdoes_privacypolicy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>LivePerson</title>
+
+<script language="JavaScript">
+<!-- //
+	var lpBaseURL = "http://lp.client.liveperson.net";			//Base URL 
+	var enterCalled = false;
+	
+	// Call chat PopUp	     
+	function enterLivePerson(aname,gname,re,name) {
+		enterCalled = true;
+		window.name = "lp_parent";
+
+		// 3.0 
+		var url = lpBaseURL + "/user.asp?aname=" + aname + "&gname=" + gname + "&re=" + re + "&name=" + name;
+		var hWnd = window.open(url,"live_person","width=300,height=350,resizable=yes,scrollbars=yes");
+		if (hWnd != null) { if (hWnd.opener == null) { hWnd.opener = self; window.name = "home"; hWnd.location.href=url; } }
+	}
+	
+	// Call ProActive PopUp
+	function popMe(aname, gname) {
+		if (enterCalled == false) {
+			var url = lpBaseURL + "/clients/help/help.asp?user=" + aname + "&gname=" + gname;		
+			var hWnd = window.open(url,"pro_active","width=120,height=120,resizable=no,scrollbars=no");
+			if (hWnd != null) { if (hWnd.opener == null) { hWnd.opener = self; window.name = "home"; hWnd.location.href=url; } }
+		}
+	}
+	
+	// Auto Call PopUp
+	function showPopMe(trueFalse) {
+		if (trueFalse == true) {
+		//		var timeout = 0;
+		//		timeout = setTimeout("popMe('liveperson','default');", 30000);
+		}
+	}
+	
+	// Auto Call ChatWindow
+	function showChat(trueFalse) {
+		if (trueFalse == true) {
+				var timeout = 0;
+				timeout = setTimeout("enterLivePerson('liveperson','default','','');", 1000);
+		}
+	}	
+
+	// browser detection
+	var browser = false;
+	browser = document.images;
+
+	// set up variables
+	if (browser) initImages();
+
+	// set up, pre-load navigation imgs
+	function initImages() {
+		nav_whois0 = new Image(154,44);
+		nav_whois0.src = '/corporate_site/images/navigation/nav.whois.0.gif';
+		nav_whois1 = new Image(154,44);
+		nav_whois1.src = '/corporate_site/images/navigation/nav.whois.1.gif';
+
+		nav_howdoes0 = new Image(137,44);
+		nav_howdoes0.src = '/corporate_site/images/navigation/nav.howdoes.0.gif';
+		nav_howdoes1 = new Image(137,44);
+		nav_howdoes1.src = '/corporate_site/images/navigation/nav.howdoes.1.gif';
+
+		nav_whouse0 = new Image(173,44);
+		nav_whouse0.src = '/corporate_site/images/navigation/nav.whouse.0.gif';
+		nav_whouse1 = new Image(173,44);
+		nav_whouse1.src = '/corporate_site/images/navigation/nav.whouse.1.gif';
+
+		nav_need0 = new Image(136,44);
+		nav_need0.src = '/corporate_site/images/navigation/nav.need.0.gif';
+		nav_need1 = new Image(136,44);
+		nav_need1.src = '/corporate_site/images/navigation/nav.need.1.gif';
+	}
+					
+	// turn the images ON
+	function overImg(imgName)  {
+		if (browser) eval("document.nav_" + imgName + ".src = nav_" + imgName + "1.src");
+	}
+
+	// turn the images OFF
+	function outImg(imgName)  {
+		if (browser) eval("document.nav_" + imgName + ".src = nav_" + imgName + "0.src");
+	}
+	
+	function openPopUp(pageref) {
+		var popupref = window.open(pageref,"LPWin","scrollbars=yes,width=600,height=450");
+	}
+
+	function openTips(pageref) {
+		var popupref = window.open(pageref,"LPTips","scrollbars=yes,width=617,height=317");
+	}
+	
+	function openLPWindow() {
+		dpWin = window.open("/corporate_site/html/harris/popup1_form.asp", "popWindow", "toolbar=no,status=no,scrollbars=yes,width=594,height=445");
+     }	
+
+	function adminFunc(mypage) {
+		window.open(mypage, 'news','width=500,height=500,toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=1,resizable=yes');
+	}
+
+// -->
+</script> 
+<script language="JavaScript">
+<!-- //
+	var lpBaseURL = "http://lp.client.liveperson.net";			//Base URL 
+	var enterCalled = false;
+		     
+	function enterLivePerson(aname,gname,re,name) {
+		enterCalled = true;
+		window.name = "lp_parent";
+
+		// 3.0 
+		var url = lpBaseURL + "/user.asp?aname=" + aname + "&gname=" + gname + "&re=" + re + "&name=" + name;
+
+		var hWnd = window.open(url,"live_person","width=300,height=350,resizable=yes,scrollbars=yes");
+		if (hWnd != null) { if (hWnd.opener == null) { hWnd.opener = self; window.name = "home"; hWnd.location.href=url; } }
+	}
+	
+	function popMe(aname, gname) {
+		if (enterCalled == false) {
+			var url = lpBaseURL + "/clients/help/help.asp?user=" + aname + "&gname=" + gname;		
+			var hWnd = window.open(url,"pro_active","width=120,height=120,resizable=no,scrollbars=no");
+			if (hWnd != null) { if (hWnd.opener == null) { hWnd.opener = self; window.name = "home"; hWnd.location.href=url; } }
+		}
+	}
+	
+	// Call PopUp
+	function showPopMe(trueFalse) {
+		if (trueFalse == true) {
+				var timeout = 0;
+				timeout = setTimeout("popMe('liveperson','default');", 30000);
+		}
+	}
+					
+	// turn the images ON
+	function overImg(imgName)  {
+		if (browser) eval("document.nav_" + imgName + ".src = nav_" + imgName + "1.src");
+	}
+
+	// turn the images OFF
+	function outImg(imgName)  {
+		if (browser) eval("document.nav_" + imgName + ".src = nav_" + imgName + "0.src");
+	}
+	
+	function openPopUp(pageref) {
+		var popupref = window.open(pageref,"LPWin","scrollbars=yes,width=600,height=450");
+	}
+
+	function openTips(pageref) {
+		var popupref = window.open(pageref,"LPTips","scrollbars=yes,width=617,height=317");
+	}
+	
+	function openLPWindow() {
+		dpWin = window.open("/corporate_site/html/harris/popup1_form.asp", "popWindow", "toolbar=no,status=no,scrollbars=yes,width=594,height=445");
+     }	
+// -->
+</script> </head>
+
+<body bgcolor="#FFFFFF" link="#000066" vlink="#000066">
+<div align="CENTER"> 
+  <table width="600" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr> 
+      <td width="377" valign="TOP"> 
+        <table width="377" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td><a href="../../../index.asp"><img src="../../images/logos/logo.gif" width="215" height="65" alt="" border="0"></a></td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td width="107"></td>
+      <td width="1"></td>
+      <td width="115" align="RIGHT"> 
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td height="23" valign="TOP" align="RIGHT"></td>
+          </tr>
+          <tr> 
+            <td><a href="Javascript:enterLivePerson('liveperson','default','','')"><img src="../../images/buttons/but_enterlp.gif" width="189" height="42" border="0"></a></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+  <table width="600" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr> 
+      <td bgcolor="#669900"><a href="../whois/whois.asp" onmouseover="overImg('whois')" onmouseout="outImg('whois')"><img src="../../images/navigation/nav.whois.0.gif" width="154" height="44" alt="" name="nav_whois" border="0"></a><a href="howdoes.asp"><img src="../../images/navigation/nav.howdoes.1.gif" width="137" height="44" alt="" name="nav_howdoes" border="0"></a><a href="../whouse/whouse.asp" onmouseover="overImg('whouse')" onmouseout="outImg('whouse')"><img src="../../images/navigation/nav.whouse.0.gif" width="173" height="44" alt="" name="nav_whouse" border="0"></a><a href="../needinfo/needinfo.asp" onmouseover="overImg('need')" onmouseout="outImg('need')"><img src="../../images/navigation/nav.need.0.gif" width="136" height="44" alt="" name="nav_need" border="0"></a></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#669900"> 
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td width="148" align="CENTER" valign="MIDDLE" height="24">&nbsp;</td>
+            <td width="437" valign="MIDDLE" height="24" align="RIGHT"><font size="1" face="ARIAL,HELVETICA"></font></td>
+            <td width="15"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr> 
+      <td bgcolor="#666666" height="4"><img src="../../images/common/space.gif" width="1" height="1" alt="" border="0"></td>
+    </tr>
+  </tbody></table>
+  <table width="600" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr bgcolor="#FFFFFF"> 
+      <td colspan="2" valign="TOP"> 
+        <p><br>
+          <font size="4" face="ARIAL,HELVETICA" color="#669900"><b>LivePerson 
+          Privacy Policy</b></font><font face="Arial, Helvetica, sans-serif" size="2"> 
+          <br>
+          <br>
+          At LivePerson, we have created this privacy policy because we are concerned 
+          about protecting the privacy of the users of our live online customer 
+          service. The success of our service depends on our ability to maintain 
+          the trust of these users. Please read on for more information about 
+          our privacy policy.<br>
+          <br>
+          <b><i>What does LivePerson do? <br>
+          </i></b> </font></p>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">LivePerson 
+        is a leading provider of technology that facilitates real-time sales and 
+        customer service for companies doing business on the Internet. We are 
+        an Application Service Provider, or ASP, and we offer our proprietary 
+        real-time interaction technology as an outsourced service to our customers. 
+        As an ASP, we collect information on behalf of our customers. We also 
+        collect information on our own Web site. Our methods for collection and 
+        use of information depend on whether the user logs directly onto our Web 
+        site (a "LivePerson User") or accesses our service on one of our customer's 
+        sites (an "ASP User"). </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td colspan="2" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+        </font><font size="4" face="ARIAL,HELVETICA" color="#669900"><b>LivePerson 
+        Users</b></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+        <br>
+        <i><b>What information do we collect from LivePerson Users?</b></i> <br>
+        <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">When 
+        the online customer service chat first begins, LivePerson Users are asked 
+        to enter their names in whatever format or detail they prefer. During 
+        the chat, LivePerson Users enter into a live question and answer session 
+        with an operator. We maintain dialogue transcripts of these chats. After 
+        the chat, we ask LivePerson Users to fill out an exit survey in order 
+        to obtain valuable feedback about our service. Filling out the exit survey 
+        is completely voluntary. The surveys may ask for contact information (e.g., 
+        e-mail address) and for demographic information (e.g., zip code, age or 
+        income level). <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">We 
+        log browser information (e.g., Internet Protocol addresses and browser 
+        types) to help diagnose problems with our server, gather broad demographic 
+        information and administer our site. <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">We 
+        do not knowingly collect any information from anyone under 18 years of 
+        age. The exit surveys ask LivePerson Users to enter their age so that 
+        we may refuse to accept any information that has been submitted by anyone 
+        under 18. <br>
+        <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td colspan="2" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><b><i>Will 
+        LivePerson disclose the information it collects from LivePerson Users 
+        to outside parties? </i></b><br>
+        <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">A 
+        LivePerson User's information, including personally-identifiable information, 
+        will not be shared with anyone. <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">We 
+        do not sell, trade or rent the personal information that LivePerson Users 
+        provide. <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td colspan="2" valign="TOP"><font size="4" face="ARIAL,HELVETICA" color="#669900"><br>
+        ASP Users </font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+        <br>
+        <i><b>What information do we collect from ASP Users? <br>
+        <br>
+        </b></i> </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">When 
+        the online customer service chat first begins, ASP Users are asked to 
+        enter their names in whatever format or detail they prefer. During the 
+        chat, ASP Users enter into a live question and answer session with an 
+        operator. We maintain dialogue transcripts of these chats. After the chat, 
+        our customers may ask ASP Users to fill out an exit survey in order to 
+        obtain valuable feedback. Filling out the exit survey is completely voluntary. 
+        The surveys may ask for contact information (e.g., e-mail address) and 
+        for demographic information (e.g., zip code, age or income level). The 
+        surveys vary by customer so that our customers may obtain feedback specific 
+        to their Web site and business, as well as feedback regarding our service. 
+        <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">We 
+        log browser information (e.g., Internet Protocol addresses and browser 
+        types) to help diagnose problems with our server, gather broad demographic 
+        information and administer our site. <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">We 
+        do not knowingly collect any information from anyone under 18 years of 
+        age. The exit surveys ask ASP Users to enter their age so that we may 
+        refuse to accept any information that has been submitted by anyone under 
+        18. <br>
+        <br>
+        </font> </td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td colspan="2" valign="TOP" height="21"><font face="Arial, Helvetica, sans-serif" size="2"><b><i>Will 
+        LivePerson disclose the information it collects from ASP Users to outside 
+        parties? </i></b></font><br>
+        <br>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">An 
+        ASP User's information contained in the dialogue transcripts and the exit 
+        surveys may be shared with our customer on whose Web site the ASP User 
+        accessed our service (the "ASP Customer"). Furthermore, such information 
+        may be shared with others on an aggregate basis. Personally-identifiable 
+        information (supplied voluntarily during the chat or in the exit survey) 
+        will not be shared with parties other than the ASP Customer, except as 
+        required by law. We actively encourage the ASP Customers to post a privacy 
+        policy on their site and to ensure that their use of the information will 
+        comply with their privacy policy. <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"> 
+        <p><font face="Arial, Helvetica, sans-serif" size="2">We do not sell, 
+          trade or rent the personal information that ASP Users provide.</font><br>
+        </p>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td colspan="2" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+        </font><font size="4" face="ARIAL,HELVETICA" color="#669900"><b>Information 
+        Relevant to Both LivePerson Users and ASP Users</b></font><font face="Arial, Helvetica, sans-serif" size="2"></font><br>
+        <font face="Arial, Helvetica, sans-serif" size="2"><br>
+        <i><b>How does LivePerson protect user information? <br>
+        <br>
+        </b></i></font> </td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><b><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></b></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">Our 
+        site has security measures in place to protect the loss, misuse and alteration 
+        of the information under our control. We offer secure sessions for chats 
+        so that data passed between users and operators cannot be decrypted. To 
+        achieve this level of security, we use Secure Socket Layer (SSL) encryption 
+        that secretly encodes information as it is being sent over the Internet 
+        between the user and the operator. All chats and user data are maintained 
+        and archived on secure servers. Access to stored data is password protected 
+        and passwords are account specific. Therefore, no customer can view data 
+        for another customer. We also use Checkpoint-1 firewalls within our facility 
+        to prevent unauthorized access. For another level of protection, all data 
+        is backed up daily, and archives are stored off-site in a secure location. 
+        <br>
+        <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td colspan="2" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><b><i>What 
+        about "cookies"? </i></b><br>
+        <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">Cookies 
+        are pieces of information that some Web sites transfer to the computer 
+        that is browsing that Web site and are used for record-keeping purposes 
+        at many Web sites. Use of cookies makes Web-surfing easier by performing 
+        certain functions such as saving passwords, lists of potential purchases, 
+        personal preferences regarding the use of the particular Web site and 
+        to make sure the user does not see the same ad repeatedly. Many consider 
+        the use of cookies to be an industry standard. Our site uses cookies to 
+        enhance the user's experience by allowing us to recognize a user's return 
+        visit to our own service. <br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">Browsers 
+        are usually set to accept cookies. However, if users would prefer not 
+        to receive cookies, they may alter the configuration of their browser 
+        to refuse cookies. If they choose to have their browser refuse cookies, 
+        it is possible that some areas of our site will not function as effectively 
+        when viewed by the users.<br>
+        </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td colspan="2" valign="TOP"> 
+        <p><br>
+          <font face="Arial, Helvetica, sans-serif" size="2"><b><i>In summary 
+          <br>
+          <br>
+          </i></b></font></p>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td width="14" valign="TOP"><img src="/corporate_site/images/bullets/diamondsmall.gif" width="13" height="15"></td>
+      <td width="586" valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2">We 
+        are committed to protecting the privacy of the users of our service. We 
+        use the information we collect to provide a better experience for future 
+        use of our service and to provide our customers with valuable feedback 
+        on their Web sites and businesses. </font></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td colspan="2" valign="TOP"><br>
+        <font face="Arial, Helvetica, sans-serif" size="2"><i><b>Tell us what 
+        you think <br>
+        </b></i></font> <font face="Arial, Helvetica, sans-serif" size="2"> <br>
+        LivePerson welcomes your feedback on our privacy policy. Send your comments 
+        to <a href="mailto:questions@liveperson.com">questions@liveperson.com</a>. 
+        <br>
+        <br>
+        We recommend that you review this policy periodically, as we may update 
+        it from time to time. </font> 
+        <p><font face="Arial, Helvetica, sans-serif" size="2"> </font><font face="Arial, Helvetica, sans-serif" size="2"> 
+          </font></p>
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="2"></td>
+    </tr>
+    <tr> 
+      <td colspan="2" bgcolor="#669900"><img src="../../images/common/space.gif" width="1" height="1" alt="" border="0"></td>
+    </tr>
+    <tr> 
+      <td colspan="2" bgcolor="#666666"><img src="../../images/common/space.gif" width="1" height="1" alt="" border="0"></td>
+    </tr>
+  </tbody></table>
+  <table width="600" border="0" cellpadding="2" cellspacing="2" align="center">
+  <!-- 4 PIXEL HIGH SPACE --> 
+  <tbody><tr> 
+    <td align="CENTER"> 
+      <p><font size="1" face="ARIAL,HELVETICA"> <a href="/corporate_site/html/whois/whois.asp">Who 
+        is LivePerson?</a> | <a href="/corporate_site/html/howdoes/howdoes.asp">How 
+        does it work?</a> | <a href="/corporate_site/html/whouse/whouse.asp">Who 
+        is using LivePerson?</a> | <a href="/corporate_site/html/needinfo/needinfo.asp">Need 
+        more info?</a> | <a href="Javascript:enterLivePerson('liveperson','default','','')">Give 
+        it a try</a> <br>
+        <a href="/corporate_site/html/needinfo/needinfo.asp">Contact Us</a> | 
+        <a href="/corporate_site/html/whois/whois_careeropp.asp">Career Opportunities</a> 
+        | <a href="http://ir.liveperson.com">Investor Relations</a> | <a href="/corporate_site/html/howdoes/howdoes_disclosure.asp"></a><a href="/corporate_site/html/howdoes/howdoes_privacypolicy.asp">Privacy 
+        Policy</a></font> </p>
+    </td>
+  </tr>
+  <!-- 20 PIXEL HIGH SPACE --> 
+  <tr> 
+    <td align="CENTER"> <font size="1" face="ARIAL,HELVETICA" color="#333333"> 
+      </font><font face="Arial, Helvetica, sans-serif" size="1">330 West 34th Street, 
+      10th Floor, New York, NY 10001 | Phone: 212-918-2100 | Fax: 212-918-2700 
+      <br>
+      115 Sansome Street, Suite 100, San Francisco, CA 94104 | Phone: 415-490-0300 
+      | Fax: 415-490-0204 <br>
+      Albany Hse, Market St., Maidenhead, Berks, SL6 8BE, UK | Phone: 01628 421545 
+      | Fax: 01628 421546<br>
+      ©2000 Copyright LivePerson<br>
+      LIVEPERSON-GIVE YOUR SITE A PULSE and the LIVEPERSON face design are service 
+      marks of LivePerson, Inc</font></td>
+  </tr>
+</tbody></table>
+
+</div>
+
+
+
+
+</body></html>
