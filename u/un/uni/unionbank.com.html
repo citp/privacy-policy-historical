@@ -1,0 +1,1283 @@
+<!--The following is the downloaded HTML source of the unionbank.com privacy policy that was archived on 2004-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605101342id_/http%3A//www.uboc.com/about/main/0%2C3250%2C2485_2873%2C00.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<meta name="description" content="<searchexcerpt>Union Bank of California has a privacy policy,web security document and identity theft information available online.</searchexcerpt>">
+<meta name="keywords" content="privacy, privacy policy, customer information, personal information, confidential, children's privacy, security, web security, encryption, firewall, cryptography, cookies, cookie, browser, browser requirements, fraud, identity, identity theft, ID theft, fraud prevention,">
+<meta http-equiv="Content-Style-Type" content="text/css">  
+<title>Union Bank of California - Privacy &amp; Security</title>  
+<link href="/styles/Master.css" rel="stylesheet" type="text/css">
+<link href="/styles/MasterEwepAbout.css" rel="stylesheet" type="text/css">
+ 
+<script>
+var RateDisclaimerDisplay = "No"
+function populateDateField(stringdate) {
+	RateDisclaimerDisplay = stringdate;
+}
+
+function getRateDisclaimerDisplay(StringCreateTable) {
+	if (RateDisclaimerDisplay != "No") {
+		if (StringCreateTable == "No") {
+			// the table is not created via BBC
+			// So create the table
+			document.write('<TABLE cellpadding="0" cellspacing="0" border="0" width="100%" class="bbcmargintop27">');
+		}
+
+		// create the table row.
+		document.write('<tr><TD colspan="2" class="bodytop2padding"><font class="copytext">*Annual Percentage Yield (APY) is accurate as of ');
+		document.write(RateDisclaimerDisplay);
+		document.write('. Interest rates may change as often as daily without prior notice. Fees could affect account earnings. </font></td></tr>');
+		if (StringCreateTable == "No") {
+			// the table is not created via BBC
+			// So close the table
+			document.write('</TABLE>');
+		}	
+	}
+}
+
+function search_submit() {
+		if(document.SearchFrm.fpQuery.value == "") {
+			alert("Please enter the search text");
+		} else {
+			if (document.SearchFrm.searchCategory.options[document.SearchFrm.searchCategory.selectedIndex].value == "Entire Site") {
+				//document.SearchFrm.searchCategory.options[document.SearchFrm.searchCategory.selectedIndex].value = "Personal~Wealth Management~Small Business~Commercial~About Union Bank";
+				document.SearchFrm.whichserachpage.value="advance";
+			} 
+			document.SearchFrm.submit();
+		}
+}
+
+function ImgPreload()
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=(document.layers && (appVer >= 4));
+  var isIE=(document.all    && (appVer >= 4));
+  if (isNC || isIE)
+  {
+    if (document.images)
+    {
+      var imgName = ImgPreload.arguments[0];
+      var cnt;
+      swImg[imgName] = new Array;
+      for (cnt = 1; cnt < ImgPreload.arguments.length; cnt++)
+      {
+        swImg[imgName][ImgPreload.arguments[cnt]] = new Image();
+        swImg[imgName][ImgPreload.arguments[cnt]].src = ImgPreload.arguments[cnt];
+      }
+    }
+  }
+}
+// ImgFind:
+//
+function ImgFind(doc, imgName)
+{
+  for (var i=0; i < doc.layers.length; i++)
+  {
+    var img = doc.layers[i].document.images[imgName];
+    if (!img) img = ImgFind(doc.layers[i], imgName);
+    if (img) return img;
+  }
+  return null;
+}
+
+function ImgSwap(imgName, imgSrc)
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=(document.layers && (appVer >= 4));
+  var NS6 = (document.getElementById&&!document.all);
+  var isIE=(document.all    && (appVer >= 4));
+  if (isNC || isIE || NS6)
+  {
+    if (document.images)
+    {
+      var img = document.images[imgName];
+      if (!img) img = ImgFind(document, imgName);
+      if (img) img.src = imgSrc;
+    }
+  }
+}
+var swImg; swImg=new Array;
+
+
+// load the images
+
+ImgPreload('back', '/images/back_off.gif', '/images/back_on.gif');
+ImgPreload('print', '/images/print_off.gif', '/images/print_on.gif');
+ImgPreload('back1', '/images/back_off.gif', '/images/back_on.gif');
+ImgPreload('print1', '/images/print_off.gif', '/images/print_on.gif');
+
+
+ImgPreload('about', "/images/common/about_ub_off.gif", "/images/common/about_ub_on.gif"	);
+ImgPreload('contact', "/images/common/contact_us_off.gif", "/images/common/contact_us_on.gif"	);
+ImgPreload('locate', "/images/common/locate_us_off.gif", "/images/common/locate_us_on.gif"	);
+ImgPreload('privacy', "/images/common/privacy_security_off.gif", "/images/common/privacy_security_on.gif"	);
+ImgPreload('acces',	"/images/common/accessibility_off.gif", "/images/common/accessibility_on.gif"	);
+ImgPreload('sitemap', "/images/common/site_map_off.gif", "/images/common/site_map_on.gif"	);
+
+ImgPreload('signon1', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
+ImgPreload('signon2', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
+ImgPreload('signon3', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
+ImgPreload('signon4', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
+ImgPreload('signon5', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
+ImgPreload('signon6', "/images/account_access/onlbnk_signon_off.gif", "/images/account_access/onlbnk_signon_on.gif"	);
+ImgPreload('signon7', "/images/account_access/onlinv_signon_off.gif", "/images/account_access/onlinv_signon_on.gif"	);
+ImgPreload('signon8', "/images/account_access/selben_signon_off.gif", "/images/account_access/selben_signon_on.gif"	);
+ImgPreload('signon9', "/images/account_access/ddw_signon_off.gif", "/images/account_access/ddw_signon_on.gif"	);
+ImgPreload('signon10', "/images/account_access/online_bank&invest_off.gif", "/images/account_access/online_bank&invest_on.gif"	);
+ImgPreload('signon11', "/images/account_access/obc_signon_off.gif", "/images/account_access/obc_signon_on.gif"	);
+ImgPreload('signon12', "/images/account_access/instx_signon_off.gif", "/images/account_access/instx_signon_on.gif"	);
+ImgPreload('signon13', "/images/account_access/lockbx_signon_off.gif", "/images/account_access/lockbx_signon_on.gif"	);
+ImgPreload('signon14', "/images/account_access/order_signon_off.gif", "/images/account_access/order_signon_on.gif"	);
+ImgPreload('signon15', "/images/account_access/selben_signon_off.gif", "/images/account_access/selben_signon_on.gif"	);
+ImgPreload('signon16', "/images/account_access/401k_signon_off.gif", "/images/account_access/401k_signon_on.gif"	);
+ImgPreload('signon17', "/images/account_access/ddw_signon_off.gif", "/images/account_access/ddw_signon_on.gif"	);
+
+ImgPreload('learnmore1', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
+ImgPreload('learnmore2', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
+ImgPreload('learnmore3', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
+ImgPreload('learnmore4', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
+ImgPreload('learnmore5', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
+ImgPreload('learnmore6', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+ImgPreload('learnmore7', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+ImgPreload('learnmore8', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+ImgPreload('learnmore9', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+ImgPreload('learnmore10', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+ImgPreload('learnmore11', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+ImgPreload('learnmore12', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+ImgPreload('learnmore13', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+ImgPreload('learnmore14', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+ImgPreload('learnmore15', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
+
+ImgPreload('personal', "/images/common/personal_off.gif", "/images/common/personal_on.gif"	);
+ImgPreload('wealth', "/images/common/wealth_management_off.gif", "/images/common/wealth_management_on.gif"	);
+ImgPreload('business', "/images/common/small_business_off.gif", "/images/common/small_business_on.gif"	);
+ImgPreload('commercial', "/images/common/commercial_off.gif", "/images/common/commercial_on.gif");
+ImgPreload('calculate', "/images/calculate.gif", "/images/calculate_on.gif");
+
+ImgPreload('recalc', "/images/recalc.gif", "/images/recalc_on.gif");
+ImgPreload('report', "/images/view_report.gif", "/images/view_report_on.gif");
+
+ImgPreload('genPersonal', "/images/search/gen_personal_off.gif", "/images/search/gen_personal_on.gif");
+ImgPreload('genWealth', "/images/search/gen_wealth_managemnt_off.gif", "/images/search/gen_wealth_managemnt_on.gif");
+ImgPreload('genBusiness', "/images/search/gen_small_business_off.gif", "/images/search/gen_small_business_on.gif");
+ImgPreload('genCommercial', "/images/search/gen_commercial_off.gif", "/images/search/gen_commercial_on.gif");
+ImgPreload('genCommercial', "/images/home/home_search_go_on.gif", "/images/home/home_search_go_on.gif");
+
+ImgPreload('search1', "/images/home/home_search_go_off.gif", "/images/home/home_search_go_on.gif"	);
+ImgPreload('search2', "/images/home/home_search_go_off.gif", "/images/home/home_search_go_on.gif"	);
+ImgPreload('search3', "/images/home/home_search_go_off.gif", "/images/home/home_search_go_on.gif"	);
+
+ImgPreload('backtoindex1', "/images/common/backto_index_off.gif", "/images/common/backto_index_on.gif"	);
+ImgPreload('email1', "/images/common/mailto_colleague_off.gif", "/images/common/mailto_colleague_on.gif"	);
+ImgPreload('printable1', "/images/common/printable_version_off.gif", "/images/common/printable_version_off.gif" );
+ImgPreload('backtoindex2', "/images/common/backto_index_off.gif", "/images/common/backto_index_on.gif"	);
+ImgPreload('email2', "/images/common/mailto_colleague_off.gif", "/images/common/mailto_colleague_on.gif"	);
+ImgPreload('printable2', "/images/common/printable_version_off.gif", "/images/common/printable_version_off.gif" );
+
+ImgPreload('submit', "/images/submit_off.gif", "/images/submit_on.gif" );
+ImgPreload('submit1', "/images/submit_off.gif", "/images/submit_on.gif" );
+
+//-- Check for valid number by filtering out none number or decimal
+function valid_number(string) {
+var sTmp = "";
+var sValid = "0123456789.";
+
+for (var i=0; i< string.length; i++) {
+ if (sValid.indexOf(string.charAt(i)) != -1 )  
+ 	sTmp += string.charAt(i);
+	}
+return(sTmp)
+}
+//-- Check for neg number, if it's a neg number, do not remove - from number
+function check_neg(string){
+	var neg_number;
+	if (string.charAt(0)=="-") 
+	{
+		var tNum = valid_number(string);
+		neg_number = "-" + tNum;
+		return neg_number;
+	}
+	else return valid_number(string);
+}
+
+function currency(pNum) {
+  //-- Returns passed number as string in $xxx,xxx.xx format.
+	var tRtnValue = "";
+	if (pNum != "") {
+		var n = pNum.toString().replace(/\$|\,/g,'');
+		if (isNaN(n)) {n = "0";}
+		var tSign = (n == (n = Math.abs(n)));
+		n = Math.floor(n * 100 + 0.50000000001);
+		var tCents = n % 100;
+		if (tCents < 10) {tCents = "0" + tCents;}
+		n = Math.floor(n / 100).toString();
+		for (var i = 0; i < Math.floor((n.length - (1 + i)) / 3); i++) {
+			n = n.substring(0, n.length - (4 * i + 3)) + ',' + n.substring(n.length - (4 * i + 3));
+		}
+		tRtnValue = (((tSign)?'':'-') + '$' + n + '.' + tCents);
+	}
+	return tRtnValue;
+}
+
+function round_digits(amount, digits) {
+	//rounding the decimal to the nearest digits passed.
+	//digits passed needs to be in the tenth,etc. eg.  10,100,1000...
+    if(!Number(amount))
+    {
+	amount= 0;
+    }
+	amount*=digits;  //rounding to the nearest which ever digits that was pass.
+	amount=Math.round(amount);
+	amount/=digits;
+	return amount;
+}
+
+	// Date Validation method
+	function validateDate(dateStr) {
+		// Checks for the date formats: DD/MM/YYYY
+		// alert("Inside date validation");
+		var year = "";
+		msg = new String("valid");
+
+		// regexp to verify there are no letters in the field
+		var datePat = /\[a-z\]+/i;  
+		// string day, month, year;
+		if (dateStr != "") {
+			if (datePat.test(dateStr)) {
+				msg = "Date cannot contain any letters.";
+				return msg;
+			}
+	
+			slash = 0;
+			tempStr = dateStr;
+			if (tempStr.indexOf("/") != -1) {
+	  			slash ++;
+		  		day = tempStr.substring(0,tempStr.indexOf("/"));
+		  		tempStr = tempStr.substring(tempStr.indexOf("/")+1);
+			}
+	
+			if (tempStr.indexOf("/") != -1) {
+		  		slash ++;
+	  			month = tempStr.substring(0,tempStr.indexOf("/"));
+	  			year = tempStr.substring(tempStr.indexOf("/")+1);
+		  		tempStr = tempStr.substring(tempStr.indexOf("/")+1);
+			}
+	
+			if (tempStr.indexOf("/") != -1) {
+	  			slash ++;
+			}
+	
+			if (slash != 2 ) {
+	  			msg = "Date is not in a valid format.";
+	  			return msg;
+			}
+	
+			if (month < 1 || month > 12) { // check month range
+		  		msg = "Month must be between 1 and 12.";
+	  			return msg;
+			}
+		
+			if (day < 1 || day > 31) {
+		  		msg = "Day must be between 1 and 31.";
+	  			return msg;
+			}
+	
+			if ((month==4 || month==6 || month==9 || month==11) && day==31) {
+	  			msg = "Month "+month+"does not have 31 days";
+	  			return msg;
+			}
+	
+			if (month == 2) { // check for february 29th
+	  			var isleap = (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0));
+	  			if (day>29 || (day==29 && !isleap)) {
+		    		msg = "February " + year + " does not have  " + day + " days";
+		    		return msg;
+	  			}
+			}
+	
+			if (year.length != 4) {
+				msg = "Year must be 4 characters ";
+				return msg;
+			} 
+		}	
+	
+		return msg;  // date is valid
+	}
+	
+	function adv_search_submit() {
+		var errorFlag = "no";
+		var categoryList = "";
+		var categoryCount = 0;
+		if(document.AdvSearchFrm.fpQuery.value == "") {
+			alert("Please enter the search text");
+			errorFlag = "yes" ;
+		}	
+			
+			if(document.AdvSearchFrm.segment1.checked) {
+				categoryList = categoryList + "Personal";
+				categoryCount = categoryCount + 1;
+			}
+				
+			if(document.AdvSearchFrm.segment2.checked) {
+				if (categoryCount >= 1) {
+					categoryList = categoryList + "~";
+				}
+				categoryList = categoryList + "Wealth Management";
+				categoryCount = categoryCount + 1;
+			}
+
+			if(document.AdvSearchFrm.segment3.checked) {
+				if (categoryCount >= 1) {
+					categoryList = categoryList + "~";
+				}
+				categoryList = categoryList + "Small Business";
+				categoryCount = categoryCount + 1;
+			}
+
+
+			if(document.AdvSearchFrm.segment4.checked) {
+				if (categoryCount >= 1) {
+					categoryList = categoryList + "~";
+				}
+				categoryList = categoryList + "Commercial";
+				categoryCount = categoryCount + 1;
+			}
+
+			if(document.AdvSearchFrm.segment5.checked) {
+				if (categoryCount >= 1) {
+					categoryList = categoryList + "~";
+				}
+				categoryList = categoryList + "About Union Bank";
+				categoryCount = categoryCount + 1;
+			}
+
+		if (errorFlag == "no") {
+			if (categoryCount > 4) {
+				document.AdvSearchFrm.searchCategory.value="Site";
+			}
+			else {
+				document.AdvSearchFrm.searchCategory.value=categoryList;
+			}
+			return true;
+		}
+	}
+</script>	
+</head>
+<body style="margin-top:0; margin-left:0">
+<a name="top">
+<form action="/search/search_clear/0,3433,2485_2873,00.html" method="post" name="SearchFrm">
+<table cellpadding="0" cellspacing="0" border="0" width="780">
+	<tbody>
+		<tr>
+			<td valign="top" rowspan="2" width="61" height="61" class="borderrightbottom"><a href="http://www-prd-s2.uboc.com/uboc/home/0,,2485,00.html"><img height="61" width="61" src="/images/common/uboc_logo.gif" border="0" alt="Union Bank of California"></a></td>
+	        <td valign="top" colspan="5" width="532" height="30" class="borderrightbottom" bgcolor="#5D81B3">
+				
+<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+	<tbody><tr><td valign="top" align="right" class="secondnavrightborder">
+		
+				<a class="secondnavon" href="http://www-prd-s2.uboc.com/about/main/0,,2485_2647,00.html">About Union Bank</a>
+		
+		&nbsp;<font class="secondnavbar">|</font>&nbsp;
+		<font class="secondnavwhite"><a class="secondaryglobalnav" href="https://www-prd-s2.uboc.com/about/main/0,,2485_10619,00.html?fpSourcePageId=2873">Contact Us</a></font>
+		&nbsp;<font class="secondnavbar">|</font>&nbsp;
+		
+			<font class="secondnavwhite"><a class="secondaryglobalnav" href="http://www-prd-s2.uboc.com/about/main/0,,2485_2865,00.html">Locate Us</a></font>
+		
+		&nbsp;<font class="secondnavbar">|</font>&nbsp;
+		
+			<font class="topnavon">Privacy &amp; Security</font>
+		
+		&nbsp;<font class="secondnavbar">|</font>&nbsp;
+		
+		<font class="secondnavwhite"><a class="secondaryglobalnav" href="http://www-prd-s2.uboc.com/about/main/0,,2485_2877,00.html">Accessibility</a></font>
+		
+		&nbsp;<font class="secondnavbar">|</font>&nbsp;
+		
+			<font class="secondnavwhite"><a class="secondaryglobalnav" href="http://www-prd-s2.uboc.com/sitemap/main/0,,2485,00.html">Sitemap</a></font></td></tr>
+		
+
+</tbody></table>			
+			</td>
+			<td valign="top" rowspan="2" width="185"><table border="0" height="61" bgcolor="#3F597B" cellpadding="0" cellspacing="0" width="185">
+<tbody><tr>
+      <td rowspan="2" valign="top"><img src="/images/common/search.gif" border="0" alt="Search"></td>
+      <td valign="top" colspan="2" class="searchBoxToppadding"><select class="searchBoxSELECT" name="searchCategory" size="1"><option value="Site">Entire Site</option><option value="Personal"> Personal </option><option value="Wealth Management"> Wealth Management </option><option value="Small Business"> Small Business </option><option value="Commercial"> Commercial </option><option value="About Union Bank"> About Union Bank </option></select></td>
+      <td valign="top" rowspan="2" width="5"></td>
+    </tr>
+    <tr>
+      <td valign="top" class="searchBoxTopBottompadding"><input type="hidden" name="fpNumber" value="3"><input type="hidden" name="whichserachpage" value=""><input type="hidden" name="fpType" value="exact"><input class="searchBoxINPUT" type="text" name="fpQuery" size="9"></td>
+	  <td valign="top" class="searchBoxTopBottomImagepadding"><a href="javascript:search_submit();" onmouseover="ImgSwap('search1','/images/home/home_search_go_on.gif')" onmouseout="ImgSwap('search1','/images/home/home_search_go_off.gif')"><img src="/images/home/home_search_go_off.gif" name="search1" border="0" alt="Search"></a></td>
+    </tr>
+</tbody></table></td>
+		</tr>
+		<tr>
+	      <td valign="top" rowspan="2" width="117" class="borderrightbottom" height="84"><img valign="top" src="/images/about/about_photo_02.jpg" alt="Photo"></td>
+			<td height="30" width="72" valign="top" class="borderrightwhite"><a href="http://www-prd-s2.uboc.com/personal/main/0,,2485_2547,00.html" onmouseover="ImgSwap('personal','/images/common/personal_on.gif')" onmouseout="ImgSwap('personal','/images/common/personal_off.gif')"><img src="/images/common/personal_off.gif" name="personal" border="0" alt="Personal"></a></td><td height="30" width="140" valign="top" class="borderrightwhite"><a href="http://www-prd-s2.uboc.com/wealth/main/0,,2485_2701,00.html" onmouseover="ImgSwap('wealth','/images/common/wealth_management_on.gif')" onmouseout="ImgSwap('wealth','/images/common/wealth_management_off.gif')"><img src="/images/common/wealth_management_off.gif" name="wealth" border="0" alt="Wealth Management"></a></td><td height="30" width="109" valign="top" class="borderrightwhite"><a href="http://www-prd-s2.uboc.com/business/main/0,,2485_3012,00.html" onmouseover="ImgSwap('business','/images/common/small_business_on.gif')" onmouseout="ImgSwap('business','/images/common/small_business_off.gif')"><img src="/images/common/small_business_off.gif" name="business" border="0" alt="Small Business"></a></td><td height="30" width="90" valign="top" class="borderrightwhite"><a href="http://www-prd-s2.uboc.com/commercial/main/0,,2485_4082,00.html" onmouseover="ImgSwap('commercial','/images/common/commercial_on.gif')" onmouseout="ImgSwap('commercial','/images/common/commercial_off.gif')"><img src="/images/common/commercial_off.gif" name="commercial" border="0" alt="Commercial"></a></td>
+        </tr>
+		<!-- get the title-->
+		<tr>
+		   <td valign="top" class="borderrightbottom"><script> if (navigator.appName == "Netscape") {document.write("<img src='/images/about/about_photo_01.jpg' alt='Photo' width='61' height='54'>");} else {document.write('<img src="/images/about/about_photo_01.jpg" alt="Photo" width="61" height="53">');}</script><img src="/images/about/about_photo_01.jpg" alt="Photo" width="61" height="54"></td>
+		
+			<td colspan="4" valign="bottom" height="54" class="leftpaddingrightgrey">
+				<table cellpadding="0" cellspacing="0" border="0" width="384">
+				<tbody><tr>
+				  
+					  <td valign="bottom" class="bodytop4padding"><font class="bodytitle" color="#54542A">Privacy &amp; Security</font></td>
+				  
+				</tr>
+		     </tbody></table>
+ 			</td>
+		
+			<!--begin the right Nav 1-->
+				
+						<td>
+						
+							<a href="http://www-prd-s2.uboc.com/about/main/0,,2485_2847,00.html"><img src="/images/about/investor_news.gif" border="0" alt="Investor News"></a></td>
+				
+					 
+    	 </tr>
+				
+				
+		<tr>
+      		<!--begin the left Nav-->
+			
+			<td colspan="2" valign="top" bgcolor="#F0F0D6" class="borderrightbottom"> 
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><script language="JavaScript">
+ImgPreload('smallArrow0','/images/common/nav_arrow_sm.gif','/images/common/nav_red_arrow_sm.gif');ImgPreload('bigArrow1','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');ImgPreload('bigArrow27','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');ImgPreload('bigArrow49','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');ImgPreload('bigArrow62','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');ImgPreload('bigArrow63','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');
+</script>
+<tr><td height="17" class="leftnavsectionborder" bgcolor="#A0A02D" align="right" width="5"><font class="newsDeatilSection">&nbsp;</font></td><td height="17" class="leftnavsectionborder" colspan="6" width="174" bgcolor="#A0A02D" align="left"><font class="leftnavhdrtext">Company Information</font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnavAboutborder" align="right"><img name="bigArrow1" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnavAboutborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow1','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow1','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www-prd-s2.uboc.com/about/main/0,,2485_3464,00.html">Career Opportunities</a></font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnav1stopenborder" align="right"><img name="bigArrow27" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnav1stopenborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow27','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow27','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www-prd-s2.uboc.com/about/main/0,,2485_3453,00.html">Community Reinvestment</a></font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnav1stopenborder" align="right"><img name="bigArrow49" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnav1stopenborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow49','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow49','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www-prd-s2.uboc.com/about/main/0,,2485_2779,00.html">Company Profile</a></font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnav1stopenborder" align="right"><img name="bigArrow62" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnav1stopenborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow62','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow62','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www-prd-s2.uboc.com/about/main/0,,2485_2847,00.html">Investor Relations</a></font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnav1stopenborder" align="right"><img name="bigArrow63" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnav1stopenborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow63','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow63','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www-prd-s2.uboc.com/about/main/0,,2485_2815,00.html">Newsroom</a></font></td></tr>
+<tr class="newsDeatilSection"><td class="lefnav1stopenborder" height="0" width="5">&nbsp;</td>
+      <td class="lefnav1stopenborder" height="0" width="8">&nbsp;</td>
+      <td class="lefnav1stopenborder" height="0" width="7">&nbsp;</td>
+      <td class="lefnav1stopenborder" height="0" width="7">&nbsp;</td>
+      <td class="lefnav1stopenborder" height="0" width="7">&nbsp;</td>
+      <td class="lefnav1stopenborder" height="0" width="7">&nbsp;</td>
+      <td class="lefnav1stopenborder" height="0" width="138">&nbsp;</td>
+</tr></tbody></table><!-- closed the Search Form-->
+				</td>
+				
+			<!-- begin the Body Content-->
+			<td colspan="4" valign="top" class="leftpaddingrightbodygrey">
+			
+				 
+
+	
+
+
+   
+
+
+
+
+
+
+
+
+
+ 
+<!--view.jsp took 0.016-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+   
+
+<a name="top"></a>
+<table cellpadding="0" class="bodyright10padding" cellspacing="0" border="0" width="100%">
+	<tbody>
+		<tr>
+		<td width="384" valign="top" class="bodytop7padding"><font class="bodytext"></font></td>
+			<td width="15"></td>
+		</tr>
+		<tr><td width="384" valign="top" class="bodytop6padding" colspan="2">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				
+			
+			<tbody><tr>
+				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
+				<td valign="top"><a href="#1. FAQ Topic" class="linktext">UnionBanCal Corporation Online Privacy Policy for Consumers</a></td>
+			</tr>
+				
+			
+			<tr>
+				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
+				<td valign="top"><a href="#2. FAQ Topic" class="linktext">Union Bank of California Web Security</a></td>
+			</tr>
+				
+			
+			<tr>
+				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
+				<td valign="top"><a href="#3. FAQ Topic" class="linktext">What you should know about Identity Theft</a></td>
+			</tr>
+				
+			
+			<tr>
+				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
+				<td valign="top"><a href="#4. FAQ Topic" class="linktext">What you should know about fraudulent emails ("Phishing" or "Spoofing")</a></td>
+			</tr>
+				
+			
+			<tr>
+				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
+				<td valign="top"><a href="#5. FAQ Topic" class="linktext">Fraud prevention tip: The Nigerian Advance Fee Scheme</a></td>
+			</tr>
+				
+			
+			<tr>
+				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
+				<td valign="top"><a href="#6. FAQ Topic" class="linktext">Fraud prevention tip: The Canadian Lottery Scam</a></td>
+			</tr>
+			
+			  </tbody></table>		
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" class="bodytop15padding"></td>
+		</tr>
+		
+				<tr><td td="" colspan="2" class="bodytop20padding">
+					<a name="1. FAQ Topic"><div><span class="Subhead">UnionBanCal Corporation Online Privacy Policy for Consumers</span></div></a>
+					</td>
+				</tr>
+				<tr><td colspan="2" class="bodytop7padding">
+					<font class="bodytext"><p>Protecting consumer customer information on the Internet in the same way we protect it in all other ways we interact with you - at banking offices, via ATMs, and by telephone - is of the highest importance to us.</p>
+
+<p>The UnionBanCal Corporation family of companies is made up of a number of different companies that provide a wide range of products and services such as loans, deposits, investments and insurance.&nbsp; These companies, which share common ownership, include Union Bank of California, N. A., UBOC Investment Services, Inc., and HighMark Capital Management, Inc., among others ("we", "our, "us" or "affiliates").&nbsp; We have a long-standing policy of protecting customer information.</p>
+
+<p>Our privacy policy applies to private financial information ("non-public personal information") that has been provided to us by, or that we learned from other sources about, our customers, former customers and individuals who contact us about becoming customers ("you" or "your").&nbsp; This policy applies not only to transactions you conduct on-line, but also to information you provide us through written files, by telephone, and/or when you send us E-mail.&nbsp; We are providing this statement of our privacy policy to you as required by law.</p>
+
+<p>You can visit our Web site(s) without providing us with any personal information about yourself to find out about our products and services, to learn about our history and about career opportunities we have available.</p>
+
+<p>You can also visit our web security (further down this page), which outlines the details of our use of encryption technology and answers questions about our Web banking security.</p>
+
+<p><span class="Subhead">Collection and Retention of Non-Public Personal Information</span><br>
+We collect and retain information about you to identify and communicate with you, to provide you with products and services you have requested, to help us respond to your questions, and to inform you about other financial services that may be of interest to you.</p>
+
+<p class="BodyCopy">We collect the following types of non-public personal information about you from the following sources:</p>
+
+<div class="BodyCopy">
+<ul>
+<li>Information we receive about your identity, such as your name, address, social security number, and driver's license number;</li>
+
+<li>Information about your transactions with us, our affiliates, and others, such as your account balance, loan payment history, and ATM, debit and credit card usage;</li>
+
+<li>Information that we receive from you on applications and other forms, such as information about your income and assets;</li>
+
+<li>Information we receive from consumer reporting agencies, such as your credit history and creditworthiness; and</li>
+
+<li>Information we receive from marketing analysis companies for marketing purposes, such as economic and demographic data.</li>
+</ul>
+</div>
+
+<p><span class="Subhead">Disclosure of Non-Public Personal Information to Non-Affiliated Third Parties</span><br>
+We may share all of the information we collect about you, as described in the Collection and Retention of Non-Public Personal Information section above, with companies that are not our affiliates in the following circumstances:</p>
+
+<ul>
+<li>
+<div class="BodyCopy">When those companies are performing marketing services or support services on our behalf necessary to effect, administer, or enforce transactions you have requested or authorized;</div>
+</li>
+
+<li>
+<div class="BodyCopy">When we have joint marketing agreements with other financial institutions to offer financial products and services to you; and</div>
+</li>
+
+<li>
+<div class="BodyCopy">When required or permitted by applicable law.</div>
+</li>
+</ul>
+
+<p><span class="Subhead">Disclosure of Non-Public Personal Information in Other Circumstances</span><br>
+<span class="BodyCopy">We may also disclose non-public personal information about you as necessary to effect, administer, or enforce transactions that you have requested or authorized, or in connection with servicing or processing a financial product or service you have requested or authorized, or to maintain or service your accounts with us, or as otherwise described below.&nbsp; We normally disclose information:</span></p>
+
+<ul>
+<li>
+<div class="BodyCopy">When it is necessary or helpful in completing a transaction;</div>
+</li>
+
+<li>
+<div class="BodyCopy">To verify the existence and condition of your account for a third party, such as a merchant, another financial institution or a credit reporting agency;</div>
+</li>
+
+<li>
+<div class="BodyCopy">To an account verification service, in addition to a credit reporting agency, if we close your account due to unsatisfactory handling, fraud, attempted fraud or criminal activity;</div>
+</li>
+
+<li>
+<div class="BodyCopy">To comply with a law, regulation, legal process or court order which applies to us or to an affiliate;<br>
+In response to an inquiry about sufficient funds to cover a check you have written;</div>
+</li>
+
+<li>
+<div class="BodyCopy">When you authorize us to;</div>
+</li>
+
+<li>
+<div class="BodyCopy">To other companies, financial institutions and networks which may be involved in processing your transactions;</div>
+</li>
+
+<li>
+<div class="BodyCopy">To local, state or federal authorities, if we believe a crime may have been committed;</div>
+</li>
+
+<li>
+<div class="BodyCopy">To paying agencies after the death or incapacity of a recipient or beneficiary of recurring direct deposit payments;</div>
+</li>
+
+<li>
+<div class="BodyCopy">To our agents and affiliates and to third parties who perform services or functions on our behalf to facilitate the delivery of information related to your accounts or to other financial services that may be of interest to you;</div>
+</li>
+
+<li>
+<div class="BodyCopy">In response to requests by our regulatory agencies or requests by agents of UnionBanCal Corporation or its affiliated companies, such as independent auditors, consultants or attorneys.</div>
+</li>
+</ul>
+
+<p><span class="Subhead">Disclosure of Certain Information Within the UnionBanCal Corporation Family of Companies</span><br>
+The UnionBanCal Corporation family of companies work together to help you achieve your financial goals.&nbsp; We may share certain information about you among our subsidiaries and affiliated companies in order to process and service your transactions, as well as to offer you additional financial products and services that may be of interest or value to you.</p>
+
+<div class="BodyCopy">
+<p>In order to evaluate your needs and to introduce you to additional financial services, we are permitted to share among our family of companies identification information about you, such as name, address and telephone number, as well as information about your transactions, account history or other experience with us.&nbsp; This "experience information" sharing can save you time and money and make it easier for you to do business with us.&nbsp; For example, if you have an account with one of our companies and would like to open an account with another of our companies, we may share information about your transactions and accounts.&nbsp; This may prevent you from having to furnish the same information multiple times.</p>
+
+<p>In addition, we may also share among our family of companies "non-experience information" about you.&nbsp; Non-experience information is information that is not related to our transactions or other experience with you.&nbsp; We may receive non-experience information about you from applications and other forms or from outside sources such as credit reporting agencies.</p>
+</div>
+
+<p><span class="Subhead">Limiting Certain Information Disclosed Within the UnionBanCal Corporation Family of Companies</span><br>
+Under the Fair Credit Reporting Act, you may advise us that you do not want us to share non-experience information, as described in the Disclosure of Certain Information Within the UnionBanCal Corporation Family of Companies section above, among our family of companies. The process of advising us that you do not want us to share non-experience information about you is called "opt-out".</p>
+
+<div class="BodyCopy">
+<p><strong>If you wish to opt-out of disclosure of non-experience information among our family of companies, please tell us either by writing to Union Bank of California, Attn: Opt-out, P. O. Box 512380, Los Angeles, CA&nbsp; 90051-2380, or calling 800-238-4486 and selecting option "0" and then option "3", or sending an E-mail through Contact Us at</strong> <a href="http://www.uboc.com/"><strong>www.uboc.com</strong></a><strong>.&nbsp; Please provide your full name and street address; account type(s), such as checking, savings, and/or home equity loan; account number(s); and telephone number on your request.&nbsp; In the event of joint account relationships, one party may opt-out on behalf of all joint accountholders.&nbsp; Please note that your request will apply only to non-experience information, and may take up to 30 days to process.&nbsp; Once your request has been processed, it will remain in effect for the life of the account(s) unless you revoke it.</strong></p>
+
+<p>Whether or not you choose to opt-out, in the normal course of conducting business, including servicing your accounts and meeting your financial needs, we will continue to share identifying information and information about your transactions and our experience with you, as well as other general information among the UnionBanCal Corporation family of companies while continuing to maintain your confidentiality.</p>
+
+<p>Even if you choose to opt-out, you will continue to receive statements, statement inserts and other account information, but you may not receive special offers from our subsidiaries and affiliated companies that could be of value to you.&nbsp; In addition, this choice does not apply to our efforts to market other financial products and services to you -- we may continue to disclose non-public personal information to non-affiliated third parties outside of our family of companies, as described in the Disclosure of Non-Public Personal Information to Non-Affiliated Third Parties section above.</p>
+</div>
+
+<p><span class="Subhead">Our Employees' Access to and Use of Customer Information</span><br>
+<span class="BodyCopy">Each of our employees has responsibility for maintaining the confidentiality of customer information.&nbsp; We require all of our employees to agree in writing to protect the confidentiality of customer information and to use it only for our business purposes.&nbsp; Our policy is to prohibit employees from accessing your personal information unless there is a business reason to do so.&nbsp; Internal access and sharing of information about you within our various service units occurs to evaluate, structure and facilitate the services you have requested or to inform you of other financial services that may be of interest to you.&nbsp; We train our employees to recognize the importance of customer confidentiality.&nbsp; Employees who violate these standards are subject to disciplinary measures.</span></p>
+
+<p><span class="Subhead">Our Security Procedures</span><br>
+<span class="BodyCopy">We also take other steps to safeguard customer information by maintaining physical, electronic, and procedural safeguards that comply with federal standards to guard your non-public personal information.&nbsp; For more information on our Web banking security, read about our web security below.</span></p>
+
+<p><span class="Subhead">Maintaining the Accuracy of Customer Information</span><br>
+<span class="BodyCopy">We have procedures to see that customer information is maintained in a commercially reasonable manner so that it is accurate, current, and complete.&nbsp; We also have procedures to see that requests to correct inaccurate or incomplete information are acted upon in a timely manner.&nbsp; We maintain security standards and procedures to help prevent unauthorized access to confidential customer information, and we regularly review, test and update our technology and procedures to improve the security and accuracy of such information.&nbsp; We investigate your inquiries about information received from us (or from a credit bureau reflecting information we have provided) that you believe to be inaccurate and we take steps to correct information we determine to be incorrect.</span></p>
+
+<p><span class="Subhead">Maintaining Confidentiality in Our Business Relationships with Other Companies</span><br>
+<span class="BodyCopy">From time to time we contract with other businesses to perform specific services in support of our products.&nbsp; When it is necessary to provide confidential customer information to a third party, we require each business that we select to agree to adhere to the same privacy standards, laws and regulations that apply to us.&nbsp; That is, we require such third parties to agree to safeguard non-public personal information regarding our customers in accordance with our own privacy policies.</span></p>
+
+<p><span class="Subhead">Cookies</span><br>
+<span class="BodyCopy">Solely for the purpose of providing improved service, we will occasionally use a "cookie".&nbsp; A cookie is a small bit of information given to your browser by a web site, which can later be retrieved.&nbsp; A cookie is a way for a web site to recognize whether or not you have visited the site before.&nbsp; The cookie cannot be read by a web site other than the one that "set" the cookie.&nbsp; We use cookies for administrative purposes, such as online banking session management, or where you are able to customize the information you see.&nbsp; Recording cookies at such points makes your online experience easier and more personal. Most cookies last only through a single session, or visit.&nbsp; They do not read your hard drive or contain any information that you have not already explicitly revealed.&nbsp; None will contain information that will enable anyone to contact you via telephone or E-mail.&nbsp; Your web browser can be set to inform you when cookies are set or to prevent them from being set.&nbsp; However, if you elect to prevent cookies from being set, some web banking functions may not work properly.</span></p>
+
+<p><span class="Subhead">Children's Privacy</span><br>
+Our web site is directed to a general audience. We do not knowingly solicit or collect personal information from children on our site.</p>
+
+<div class="BodyCopy">
+<p>This policy applies to consumers.&nbsp; We reserve the right to make changes to this policy at any time, and will notify you if we do so.</p>
+
+<p>(Rev. 11/2003)</p>
+</div></font></td>
+				</tr>
+				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
+					<a href="#top">back to top</a></font>
+					</td>
+				</tr>
+				
+					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
+				
+				<tr><td td="" colspan="2" class="bodytop20padding">
+					<a name="2. FAQ Topic"><div><span class="Subhead">Union Bank of California Web Security</span></div></a>
+					</td>
+				</tr>
+				<tr><td colspan="2" class="bodytop7padding">
+					<font class="bodytext"><p class="BodyCopy">At Union Bank of California, our team of technical security specialists work toward ensuring that all financial transactions, data transmissions and communications are completed in a secure online environment. To safeguard all financial and personal information, Union Bank:</p>
+
+<div class="BodyCopy">
+<ul>
+<li>Requires both a user ID and a password, and ensures that only the user knows his or her password<br>
+Uses encrypted pages for password log-ins</li>
+
+<li>Retains all account data in secure Bank systems</li>
+
+<li>Protects all e-mail sent to the Bank and ensures that email received by the Bank is seen only by a Union Bank employee</li>
+
+<li>Maintains high standards for employee training, instilling in each Bank professional a respect for client confidentiality</li>
+
+<li>Our systems of record protect all financial and personal information, and are anchored by state-of-the-art security features</li>
+</ul>
+</div>
+
+<p><span class="Subhead">Browser Requirements</span><br>
+To support our secure 128-bit encryption, Union Bank operates only with 4.0 or higher versions of both Netscape and Microsoft web browser software. These browsers also prevent any encrypted information from being written onto the user's hard drive, which makes it impossible for an unauthorized user to access Union Bank customer account data. The links below will enable you to download either Netscape or Microsoft's 128-bit browser:</p>
+
+<ul>
+<li><a href="http://channels.netscape.com/ns/browsers/default.jsp" extlinkid="1304896">Netscape Communicator High Security Browser Download</a>&nbsp;</li>
+
+<li><a href="http://microsoft.com/windows/ie/downloads/recommended/128bit/default.asp" extlinkid="1304912">Microsoft Explorer High Security Browser Download</a>&nbsp;</li>
+</ul>
+
+<p>Note: Netscape and Microsoft use the following terms to identify the 128-bit browser: "strong", "domestic grade", "high-security".</p>
+
+<p><span class="Subhead">Cookies</span><br>
+Union Bank does not store encrypted personal information in the form of cookies. We use cookies only to access stored passwords or to enable users to customize information. We also use cookies to scan connecting PCs for information, which helps us determine if an online session is genuine.</p>
+
+<p>At Union Bank, we are committed to maintaining the highest possible levels of data security. This dedication drives our efforts to apply the latest technology to constantly improve security; and to conduct frequent tests and updates of our systems and practices. If you have questions about our Security Policy, please contact us.</p>
+
+<p><span class="Subhead">Cryptography</span><br>
+We utilize public-key cryptography (rather than same-key cryptography) to encrypt account information sent to and from Union Bank over the Web.</p>
+
+<p><span class="Subhead">Encryption</span><br>
+We use 128-bit encryption, which is the most powerful encryption protection available for Web transactions. Strictly guarded and very difficult to export, 128-bit encryption ensures that information exchanged online can only be read by our special decoding software.</p>
+
+<p><span class="Subhead">Firewalls</span><br>
+Firewalls have been placed between users and bank servers, as well as between Bank servers and Bank systems where account data is housed. We are ICSA certified, (for details on certification criteria, see <a href="http://www.icsa.net/">www.icsa.net</a> and we employ an expert, third-party service to scan our Network regularly for potential vulnerabilities.</p></font></td>
+				</tr>
+				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
+					<a href="#top">back to top</a></font>
+					</td>
+				</tr>
+				
+					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
+				
+				<tr><td td="" colspan="2" class="bodytop20padding">
+					<a name="3. FAQ Topic"><div><span class="Subhead">What you should know about Identity Theft</span></div></a>
+					</td>
+				</tr>
+				<tr><td colspan="2" class="bodytop7padding">
+					<font class="bodytext"><p>Identity theft is when someone pretends that they are you when committing a crime. Crimes involving identity theft or impersonation are on the rise and are now the types of crimes that are most frequently reported to the Federal Trade Commission. The crime could be in person, over the telephone or Internet, or through the mail. This increasing trend is mainly attributable to technology. As technology continues to evolve, criminals are developing new ways to exploit or defraud organizations and consumers alike, including attempts to access bank accounts, brokerage accounts, and/or steal credit information or identities.<br>
+&nbsp;<br>
+Both state and federal governments continue to enact legislation to help protect consumers and Union Bank of California is diligent in its efforts to protect customers' information. In our continuing effort to safeguard your privacy, we've implemented a number of enhanced security and identification measures. These efforts include:</p>
+
+<ul>
+<li>
+<div>Requiring more identification for over-the-counter cash transactions</div>
+</li>
+
+<li>
+<div>Discontinuation of check verifications</div>
+</li>
+
+<li>
+<div>Installation of ultraviolet verification equipment in our offices to detect counterfeit id's, checks and currency</div>
+</li>
+
+<li>
+<div>Posting strategic warnings on our online banking and web sites to alert and inform our customers of recent incident's involving e-mail and online fraud schemes</div>
+</li>
+</ul>
+
+<p><span class="Subhead">How you can help prevent identity theft:</span></p>
+
+<ul>
+<li>
+<div>Report any lost or stolen cards immediately.</div>
+</li>
+
+<li>
+<div>Pay attention to billing cycles and call if you do not receive an expected bill in a timely manner. It may mean that an identity thief has diverted the bill.</div>
+</li>
+
+<li>
+<div>Place outgoing mail in post office collection boxes only. Even better, consider using&nbsp;<a href="/personal/main/0,,2485_3074,00.html" intlinkid="3074">online banking with bill payment</a>&nbsp;to send your payments. Making payments online can help prevent mail fraud while saving you time and postage.</div>
+</li>
+
+<li>
+<div>Shred all of your receipts and bank and credit card statements before disposing of them.</div>
+</li>
+
+<li>
+<div>Review your credit report from all three major credit bureaus to make sure that new credit card or other accounts have not been opened in your name. Credit bureau contact information is listed below.</div>
+</li>
+
+<li>
+<div>Make sure personal and financial information stored on your personal computers are protected with a password.</div>
+</li>
+
+<li>
+<div>&nbsp;Avoid using automatic login features that save your user name and password; and always log off when you're finished.</div>
+</li>
+
+<li>
+<div>Install and use a firewall on your personal computers, especially those connected to the Internet through high-speed DSL or cable modems. A firewall helps prevent hackers from accessing your computer.</div>
+</li>
+
+<li>
+<div>Install virus protection software on your computer and make sure it is updated on a regular basis.</div>
+</li>
+
+<li>
+<div>Don't give anyone your financial information unless you initiate the contact or are sure with whom you are dealing.</div>
+</li>
+
+<li>
+<div>Never disclose your PIN or password to anyone and always safeguard it.</div>
+</li>
+
+<li>
+<div>Don't print your Social Security number or driver's license number on your checks.</div>
+</li>
+
+<li>
+<div>Don't download files or click on hyperlinks in emails from un-trusted sources.</div>
+</li>
+</ul>
+
+<p>Watch out for "phishing" or "spoofing" e-mails that may look like they are legitimate messages, but they are not. The sender attempts to get you to reveal confidential personal information that can be used for identity theft. Union Bank will not contact you via email to ask for or to validate any of your personal information.</p>
+
+<p><span class="Subhead">What to do if you are a victim of identity theft:</span></p>
+
+<ul>
+<li>
+<div>Notify Union Bank at the phone number listed on your statement along with any other financial service providers.</div>
+</li>
+
+<li>
+<div>File a report of identity theft with your local police.</div>
+</li>
+
+<li>
+<div>Contact one of the three major credit bureaus to report the incident and ask to have a fraud alert placed on your file. Once the credit bureau confirms your fraud alert, the other two credit bureaus will be automatically notified to place fraud alerts, and all three credit reports will be sent to you free of charge. Review your credit reports and notify the bureaus about anything that looks suspicious.</div>
+</li>
+</ul>
+
+<p><br>
+<span class="Subhead">CREDIT BUREAUS<br>
+</span>Equifax -&nbsp;<a href="/uboc/common/uboc_exit_page/0,3679,2485_0,00.html?externalLink=http://www.equifax.com" extlinkid="500958523">www.equifax.com</a><br>
+To order a report, call: 800-685-1111<br>
+To report fraud, call: 800-525-6285/<br>
+TDD 800-255-0056 and write:<br>
+P.O. Box 740241, Atlanta, GA 30374-0241</p>
+
+<p>Experian -&nbsp;<a href="/uboc/common/uboc_exit_page/0,3679,2485_0,00.html?externalLink=http://experian.com" extlinkid="500958531">www.experian.com</a>&nbsp;<br>
+To order a report, call: 888-EXPERIAN (397-3742)<br>
+To report fraud, call: 888-EXPERIAN (397-3742)/<br>
+TDD 800-972-0322 and write:<br>
+P.O. Box 9532, Allen TX 75013<br>
+<br>
+TransUnion -&nbsp;<a href="/uboc/common/uboc_exit_page/0,3679,2485_0,00.html?externalLink=http://www.transunion.com" extlinkid="500958539">www.transunion.com</a>&nbsp;<br>
+To order a report, call: 800-888-4213<br>
+To report fraud, call: 800-680-7289/<br>
+TDD 877-553-7803; fax: 714-447-6034;&nbsp;or write: Fraud Victim Assistance Department, P.O. Box 6790, Fullerton, CA 92634-6790<br>
+<br>
+For additional valuable information about identity theft we recommend you visit&nbsp;<a href="/uboc/common/uboc_exit_page/0,3679,2485_0,00.html?externalLink=http://www.consumer.gov/idtheft/index.html" extlinkid="500958555">http://www.consumer.gov/idtheft/index.html</a>&nbsp;or call 1-877-ID THEFT, the FTC's toll-free ID Theft Hotline.<br>
+</p></font></td>
+				</tr>
+				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
+					<a href="#top">back to top</a></font>
+					</td>
+				</tr>
+				
+					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
+				
+				<tr><td td="" colspan="2" class="bodytop20padding">
+					<a name="4. FAQ Topic"><div><span class="Subhead">What you should know about fraudulent emails ("Phishing" or "Spoofing")</span></div></a>
+					</td>
+				</tr>
+				<tr><td colspan="2" class="bodytop7padding">
+					<font class="bodytext"><ul>
+<li>"Phishing" or "Spoofing" is when unsolicited emails appear to be coming from a bank, insurance company, retailers or a regulatory agency, but they are not.</li>
+
+<li>The fraudulent emails require that the recipient "verify" certain information to prevent account suspension, cancellation, interest withholding or some other urgent matter.</li>
+
+<li>These messages look professional and authentic, and may even contain links or pop-up windows that have the appearance of legitimacy.</li>
+
+<li>These sophisticated scams will ask for ATM or Banking Card Numbers, PINs or log-on IDs and personal information such as Social Security Number, Date of Birth, or Mothers Maiden Name; all of which can be used by the criminals to perform an account takeover or even worse, commit identity theft.</li>
+</ul>
+
+<p><strong>Please be aware that Union Bank of California WILL NEVER solicit confidential information regarding you or your account(s) via email.</strong></p>
+
+<p><span class="Subhead">Other tips&nbsp;to&nbsp;avoid becoming a victim:</span></p>
+
+<ul>
+<li>Delete emails from unknown parties. Don't even open them.</li>
+
+<li>Do not provide personal information, account numbers, banking or credit card numbers, PINs or log-on IDs through email links or pop-up windows. Either call the institution, or go directly to their web site at the URL you know to be correct.</li>
+
+<li>Invest in spam filtering protection.</li>
+
+<li>NEVER give out any information unless you initiated the contact, and are sure you know with whom you are dealing.</li>
+</ul></font></td>
+				</tr>
+				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
+					<a href="#top">back to top</a></font>
+					</td>
+				</tr>
+				
+					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
+				
+				<tr><td td="" colspan="2" class="bodytop20padding">
+					<a name="5. FAQ Topic"><div><span class="Subhead">Fraud prevention tip: The Nigerian Advance Fee Scheme</span></div></a>
+					</td>
+				</tr>
+				<tr><td colspan="2" class="bodytop7padding">
+					<font class="bodytext"><p>The Nigerian Advance Fee Scam has been around for years. Despite repeat warnings, it continues to draw in many victims. Don’t be one of them.&nbsp;</p>
+
+<ul>
+<li>The scam involves the receipt of an unsolicited letter or email claiming to come from someone who works for the Nigerian Central Bank or from the Nigerian government.</li>
+
+<li>In the letter, the recipient is informed that they are seeking a reputable foreign company or individual into whose account they can deposit funds to facilitate a large transaction, and be paid a percentage of the deal for their participation. Other variations require a "deposit or bond" for a foreign individual to participate in a large construction or other financial transaction.</li>
+
+<li>The scam artist's goal is to lure the victim into thinking that he or she has been singled out to participate in a very lucrative arrangement. The intended victim is reassured of the authenticity of the arrangement by forged or false documents (appearing on Nigerian government letterhead, seals, letters of credit, and bank drafts), or even by arranging a meeting between the victim and "government officials" in real or fake government offices.</li>
+
+<li>Once the victim becomes confident of the potential success of the deal, something goes wrong and the victim is then pressured or threatened to provide one or more large sums of money to save the venture. For example, the "official" will demand an upfront bribe or unforeseen tax/fee to the Nigerian government to be paid before the money can be transferred. If the party isn’t able to send the money, they find "investors" for them. Checks are sent and deposited, instructions are provided to immediately wire the funds out, and by the time the deposited items are returned as counterfeit, stolen or altered, the "contact" disappears. If the victim has the money to send without needing the "investors," the contact stops when the advance fees have been paid.</li>
+</ul></font></td>
+				</tr>
+				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
+					<a href="#top">back to top</a></font>
+					</td>
+				</tr>
+				
+					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
+				
+				<tr><td td="" colspan="2" class="bodytop20padding">
+					<a name="6. FAQ Topic"><div><span class="Subhead">Fraud prevention tip: The Canadian Lottery Scam</span></div></a>
+					</td>
+				</tr>
+				<tr><td colspan="2" class="bodytop7padding">
+					<font class="bodytext"><p>Criminals are always finding new ways to scam victims out of their savings. In this version of a lottery scam, people are being asked to respond to an unsolicited mailing or phone call telling them they are being entered into a prize drawing.</p>
+
+<ul>
+<li>Victims receive an unsolicited phone call from Canada congratulating them on winning the "big prize" in a National Lottery.</li>
+
+<li>They are told that before they can claim the prize, they must send money to pay for taxes and processing fees.</li>
+
+<li>Victims of lottery scams have lost thousands of dollars as they continue to respond to phone calls demanding payments to cover costs in order to receive their prize.</li>
+
+<li>The fact is, the prize does not exist and victims never receive any winnings in return for their cash.</li>
+
+<li>There are also many types of lottery scams that involve innocent people sending in money up front, waiting to receive the "big payoff."</li>
+</ul>
+
+<p>If you receive a telephone call from a direct marketer who promises instant lottery prizes, hang up! No lotteries in the U.S. operate this way. People who approach you with stories like this are criminals. They simply want your money and credit card numbers. They will lie to you and sound convincing. Don´t fall victim to lottery scams. Protect yourself and your money.</p></font></td>
+				</tr>
+				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
+					<a href="#top">back to top</a></font>
+					</td>
+				</tr>
+				
+	</tbody>
+</table>	
+
+
+<vgneap:contentcache cachename="Content:1302847">	
+				
+				<!-- body took 27.886 Seconds-->
+				 
+
+
+
+
+
+
+
+
+
+
+ 
+<!--view.jsp took 0.014-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+<script>
+	getRateDisclaimerDisplay("No"); 
+</script>
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="384" class="disclaimermargintop30">
+
+	<tbody><tr><td width="100%" class="copyborder"><font class="copytext">© 2004 Union Bank of California, N.A.  All rights reserved.  Member FDIC.<br>Equal Housing Lender&nbsp;<img src="/images/common/eq_housng_bug.gif" alt="House Icon"></font></td></tr>
+
+</tbody></table>
+	         </vgneap:contentcache></td> 
+			 <!-- begin the Right Nav2-->
+			 <td width="185" valign="top">
+					 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+<!--view.jsp took 0.014-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+<!-- bottom RNC took 30.242-->
+<!--About-->
+<!--No--> 
+			 </td>
+		</tr>
+		
+					
+	</tbody>
+</table>  
+
+
+<!--Time taken to Load the page :  110.752-->
+<!--Left Nav took :  1.267-->
+<!--Top Nav took :  0.189-->
+<!--Current Version Content Id : 501918128-->
+<!--Original Content Id : 1302847-->
+<!--Composte Type: Page Composite - FAQ-->
+<!--pageCompPath = /uboc/cda/views/page_composites/page_composite_body_faq.jsp   -->
+<!--pageCompType = 1	-->
+<!--contactUsPageType = 	-->
+<!--phonePageChannelId = 10621	-->
+<!--sectionName1 = About Union Bank	-->
+<!--contactUsSegmentName = About Union Bank	-->
+<!--lclDisplayTopRightNav = Yes -->
+<!--isCalculatorPage = no -->
+<!--CIT TIME TAKEN =0.0090-->
+
+</form></a></body></html>
