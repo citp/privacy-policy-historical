@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the astraware.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205011946id_/http%3A//www.astraware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astraware.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607110245id_/http%3A//www.astraware.com/privacy.php) for the most accurate reproduction.*
 
 # Astraware: Privacy Policy
 
-|  |    
+**Note:** Your browser doesn't appear to support the latest web browser standards such as CSS, meaning that our site may not display correctly. We recommend [Internet Explorer 6](http://www.microsoft.com/ie), [Netscape 7](http://www.netscape.com/download), [Opera 7](http://www.opera.com/) or [Mozilla 1.3](http://www.mozilla.org/) or later. If you don't think this applies to your web browser, contact [Webmaster](mailto:webmaster@astraware.com), quoting 'ia_archiver'.
 
+  
+
+
+### Astraware Privacy Policy
 
 **What personally identifiable information is collected on this site?**
 
@@ -40,6 +44,3 @@ We may disclose personal information when required by law or in the good-faith b
 **For more information**
 
 If you have any questions, concerns or comments, please e-mail [privacy@astraware.com](mailto:privacy@astraware.com).
-
-  
-| 
