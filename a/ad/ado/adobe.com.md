@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adobe.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630201037id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adobe.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231073629id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Adobe.com: Online Privacy Policy
 
-Last Updated on 2/23/2004- See our “Collection of Personal Information” Section for more details.
+Last Updated on 7/13/2004- See the “Privacy Related Inquiries and Complaints” Section for more details.
 
 This document sets forth the Adobe Online Privacy Policy (the “Privacy Policy”) for this web site, www.adobe.com (the “Site”). If you have objections to the Privacy Policy, you should not access or use this Site. This Privacy Policy does not govern privacy practices associated with offline activities or other Adobe web sites. 
 
@@ -74,12 +74,12 @@ Legal Department, A17
 345 Park Avenue  
 San Jose, CA 95110-2704  
 USA  
-Email: [privacy-officer@adobe.com](mailto:privacy-officer@adobe.com "privacy officer")
+
 
 In your correspondence, please indicate with as much detail as possible the location on this Site where you provided your personal information. 
 
 **Privacy Related Inquiries and Complaints**  
-Adobe takes its users’ privacy concerns seriously. If you believe that Adobe has not complied with this Online Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you may write the Adobe Privacy Officer at the address indicated above. 
+Adobe takes its users’ privacy concerns seriously. If you believe that Adobe has not complied with this Online Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you may write the Adobe Privacy Officer at the address indicated above or click on [Privacy Inquiries](https://web.archive.org/misc/privacy_inquiry.html).
 
 In your letter, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Adobe Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly. If you do not receive acknowledgment of your inquiry or complaint or your inquiry or complaint is not satisfactorily addressed, you should then contact TRUSTe through the _[TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html)_. TRUSTe will serve as a liaison with this Site to resolve your concerns. 
 
