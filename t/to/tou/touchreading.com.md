@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the touchreading.com privacy policy that was archived on 2003-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031031072731id_/http%3A//www.touchreading.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchreading.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406010558id_/http%3A//www.touchreading.com/go/page/privacy) for the most accurate reproduction.*
 
-# Touch Reading - Privacy Policy
+# Touch Reading - Privacy Touch Reading
 
-  
+| 
 
+[ ](https://web.archive.org/site/enquire)
 
-  
-Touch Community Portal Privacy Policy
+|  | 
 
-The Community Portal is managed and owned by Touch (GoE) plc (“Touch”). 
+The Community Portal is managed and owned by Touch (GoE) plc ("Touch"). 
 
 In providing the Community Portal Touch collects information about you. In doing so, we take your privacy and our obligations under the data protection legislation very seriously. You have a right to expect a website to disclose its privacy policies - how your personal information is collected, used and shared. You also have a responsibility to choose which sites you feel comfortable disclosing such information to.
 
@@ -37,14 +37,7 @@ By posting communications on or through the website, you automatically grant Tou
 * * *
 
  **Your consent**  
-By registering with us you consent to the collection and use of your information by Touch in the ways outlined above. If, having given your consent to the use of your data, you subsequently change your mind you can stop all, or particular uses of your data by sending us an e-mail.
+By registering with us you consent to the collection and use of your information by Touch in the ways outlined above. If, having given your consent to the use of your data, you subsequently change your mind you can stop all, or particular uses of your data by sending us an e-mail. 
 
-* * *
-
-|    
-  
-  
-* * *
-
-[Reading UK Home](http://www.touchreading.com/index.cfm)  |   [About us](http://www.touchreading.com/page.cfm?pageid=xxadded3xx)  |   [Recommended websites](http://www.touchreading.com/referals.cfm)  |   [Consultants](http://www.touchreading.com/consultantlist.cfm)  |   [Advertising](http://www.touchreading.com/advertising.cfm)  |   [Touch's UK community portals](http://www.touchreading.com/sitelist.cfm)   
-[Site Index](http://www.touchreading.com/siteindex.cfm)  |   [Privacy Policy](http://www.touchreading.com/privacy.cfm)  |   [Terms of Use](http://www.touchreading.com/termsofuse.cfm)
+|   
+---|---|---|---|---
