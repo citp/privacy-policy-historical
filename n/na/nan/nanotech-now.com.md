@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208220656id_/http%3A//nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406015527id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,7 @@
 ---  
 [ ](https://web.archive.org/nano_intro.htm)  
 [ ](https://web.archive.org/current-months-news.htm)  
+[ ](https://web.archive.org/current-months-press.htm)  
 [ ](https://web.archive.org/products/)  
 [ ](https://web.archive.org/directory.htm)  
 [ ](https://web.archive.org/Press_Kit/)  
@@ -20,12 +21,9 @@
 [ ](https://web.archive.org/advertise.htm)  
 [ ](https://web.archive.org/accounts/)  
   
-[](https://web.archive.org/banners/track.pl?banner_id=47)  
-  
----  
-|  [](https://web.archive.org/banners/track.pl?banner_id=52) |   
-  
-[Home](https://web.archive.org/web/20041208220656id_/http%3A//nanotech-now.com/) > Privacy
+[](https://web.archive.org/banners/track.pl?banner_id=47)
+
+[Home](https://web.archive.org/web/20050406015527id_/http%3A//www.nanotech-now.com/) > Privacy
 
 **Privacy Notice:**
 
@@ -52,6 +50,7 @@ We use these summary statistics to help us make our site more useful to visitors
 [](https://web.archive.org/products/nanonewsnow/)  
 |  Keep up with the rapid changes in nanotech   
  [Learn More](https://web.archive.org/products/nanonewsnow/) |   
+|   [Free Past Reports](https://web.archive.org/products/nanonewsnow/Past-Reports.htm) |   
    
 [](https://web.archive.org/products/nanotechtransfer/)  
   |  University Technology Transfer & Patents   
@@ -64,6 +63,5 @@ We use these summary statistics to help us make our site more useful to visitors
 [](https://web.archive.org/products/newsdigest/)  
 |  The latest news from around the world, free   
   
-  
-Subscribe |   
+|   
  
