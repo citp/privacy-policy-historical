@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603120211id_/http%3A//www.parachat.com/help/index.php%3F%26aktion%3Dhilfe) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208023907id_/http%3A//www.parachat.com/help/index.php%3F%26aktion%3Dhilfe) for the most accurate reproduction.*
 
 # ParaChat FAQ
 
