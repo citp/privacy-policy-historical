@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604210729id_/http%3A//brecks.com/article.asp%3Fai%3D139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011113006id_/http%3A//brecks.com/article.asp%3Fai%3D139) for the most accurate reproduction.*
 
 # Breck's - Breck's Privacy Policy
 
