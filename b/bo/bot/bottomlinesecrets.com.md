@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204210816id_/http%3A//store.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206195741id_/http%3A//store.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web site Privacy Policy
 
 **BottomLineSecrets.com Web site Privacy Policy**
 
-Effective: June 2001
+Effective: January 2002
 
 Thank you for visiting BottomLineSecrets.com, part of the family of Boardroom Inc. publications. This privacy policy ("Policy") applies to all Boardroom Inc. Web sites, including but not limited to Boardroom.com, BottomLinePersonal.com, BottomLineHealth.com, BottomLineTomorrow.com and I-Power.com (collectively, the "Web sites"). This Policy explains what information Boardroom, Inc. ("Boardroom" or "we") collects on the Web sites and how such information is used. By visiting any of the Web sites, you signify your acceptance of this Policy.
 
@@ -42,6 +42,17 @@ For those who  [specifically request it](http://store.bottomlinesecrets.com/cus
 Boardroom Special Offers
 
 For those who [specifically request it](http://store.bottomlinesecrets.com/cust_service/email.html), we occasionally e-mail special offers from Boardroom and from third parties. If you do not want to receive these special offers by e-mail from Boardroom in the future, please let us know by filling out  [this form](http://store.bottomlinesecrets.com/cust_service/email_prefs.html). Please understand that processing this request may take a few days and you may receive offers during this time. We appreciate your understanding during this process.
+
+If you supply us with your postal address on-line, or if you are a print subscriber, you may receive periodic postal mailings from us with information about new products and services or upcoming events. If you do not wish to receive such postal mailings, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/privacy_no_mail.html). Please understand that processing this request may take a few days and you may receive postal mailings during this time. We appreciate your understanding during this process.
+
+You may also receive postal mailings from other companies that Boardroom believes might interest you. If you do not wish to receive such postal mailings please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/privacy_no_share.html). Please understand that processing this request may take a few days and you may receive postal mailings during this time. We appreciate your understanding during this process.
+
+If you would like to reduce the amount of unsolicited postal mail you receive, you can have your name and address added to the Direct Marketing Association's Mail Preference Service. To add your name, just write to the following address or visit their Web site at [www.the-dma.org](http://www.the-dma.org/) (search for Mail Preference Service in their Consumer section). Be sure to include any different spellings or arrangements your name and address might have taken in the mailings you've received.
+
+Direct Marketing Association  
+Mail Preference Service  
+P.O. Box 9008  
+Farmingdale, NY 11735-9008 
 
 Linking of Information
 
