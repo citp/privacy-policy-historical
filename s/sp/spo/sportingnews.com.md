@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206055212id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403193001id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
 
-# SportingNews.com
+# Sporting News.com
 
   
 |  Vulcan Sports Media Privacy Policy
@@ -20,7 +20,7 @@ If you have questions or concerns regarding this statement, you should first con
 New York, NY 10016**
 
   
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at <http://www.truste.org/users/users_watchdog.html>.   
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at <http://www.truste.org/consumers/watchdog_complaint.php>.   
 TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 **I. Information SN Gathers or Tracks.** Information on general usage and any personal details you provide SN will be used to provide you with enhanced features such as customized content, access to our bulletin boards, and participation in chats. The following are details of the information SN collects:
@@ -36,7 +36,7 @@ TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 **II. What SN Does With the Information**
 
 * Provide Services. SN asks for information in connection with registration, promotions, email updates, and prizes. SN may use this information to tailor online presentations, facilitate navigation throughout sites operated by SN, provide personalized services and promotions, or offer products and services that SN believes might be of use or interest to you, and to communicate separately with you. This information may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient and may also be used to bring you offers of interest.
-* Third Parties. We do not sell information about our visitors. SN will not transfer your personal information to another party for that party's exclusive use apart from the use of the information by SN. However, if we believe there is value to our members, we will share your information by sending messages or promotions to you on behalf of another company. In these instances, we do not transfer your name to the third party -- we send the mailing for them. In all instances we only send mailings if you've given your permission. These promotions may include physical mailings as well, but in a similar fashion will be sent by SN and only if you've given your permission. We may transfer your personal information to companies that we hire that deliver products and services (shipping companies, fulfillment companies and email management companies), companies that operate sweepstakes and promotions on our behalf and sponsors from whom you have ordered or requested products. These companies will not have the ability to use the information for their own purposes but will merely use it to fulfill on our behalf. 
+* Third Parties. We do not sell information about our visitors. SN will not transfer your personal information to another party for that party's exclusive use apart from the use of the information by SN. However, if we believe there is value to our members, we will send messages or promotions to you on behalf of another company. In these instances, we do not transfer your name to the third party -- we send the mailing for them. In all instances we only send mailings if you've given your permission. These promotions may include physical mailings as well, but in a similar fashion will be sent by SN and only if you've given your permission. We may transfer your personal information to companies that we hire that deliver products and services (shipping companies, fulfillment companies and email management companies), companies that operate sweepstakes and promotions on our behalf and sponsors from whom you have ordered or requested products. These companies will not have the ability to use the information for their own purposes but will merely use it to fulfill on our behalf. 
 * Aggregate Reports. SN will aggregate reports for advertisers. For example, SN may tell advertisers how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of the SN sites. Where available, SN may offer additional aggregate information about viewer characteristics. However, this will not include personally identifiable information about you or your usage patterns. Our advertisers allow us to provide their products and services to visitors, and in return, they will need to know how to effectively place their ads in order to attract potential customers. 
 * Information Not Released. Surveys may ask for contact information or unique identifying information to increase the value of the results. Contests may require contact information or other demographic/ personal information in order to determine eligibility. This information will not be released to third parties without your consent. Additionally, usage information may be analyzed so that SN can judge its system's performance or execute visitors' customized features. 
 
@@ -76,4 +76,4 @@ In addition, notwithstanding any other provision of this Privacy Policy, in the 
   
 
 
-[](https://www.truste.org/validate/6383)
+[](http://www.truste.org/ivalidate.php?url=www.sportingnews.com&sealid=101)
