@@ -1,221 +1,965 @@
-<!--The following is the downloaded HTML source of the aaamidatlantic.com privacy policy that was archived on 2001-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010414001718id_/http%3A//aaamidatlantic.com/livenew/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aaamidatlantic.com privacy policy that was archived on 2002-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604065253id_/http%3A//www.aaamidatlantic.com/about/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
-<!--- change title to something meaningful -->
-<title>AAA Mid-Atlantic - Privacy Statement</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!-- this is the template style sheet used for the navigation structure -->
-<link rel="stylesheet" type="text/css" href="/livenew/styles/aaastyle.css">
-<!-- link in page specific style sheets here -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
+<title>AAA Mid-Atlantic - Privacy Policy</title>
+<meta name="description" content="This information we collect is used to improve the content of our Web page and may be used to notify consumers about
+updates to our Web site or to contact consumers for marketing purposes.">
+<meta name="keywords" content="AAA, AAA Mid-Atlantic, automobile, travel, savings, insurance, traffic, highway, discounts, tours, cruises, Triptik, TourBook, RouteMaster, maps, specials, kids, safety, fishing, weather">
+	
+<script language="JavaScript">
+<!--
+function donothing() {}
+function gotosite(site) {
+            if (site != "") {
+                           parent.top.location=site;
+                    } }
 
-<!-- this is the template javascript used for the navigation structure -->
-<script language="JavaScript" src="/livenew/scripts/menu_tab.js"></script>
-<!-- include page specific javascript includes or inline javascript here -->
 
+// -->
+
+
+function openJersey(popJersey)
+{
+ var newwin = window.open("","newwin","width=300,height=200,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no");
+var d = newwin.document;
+d.write('<center><image src="http://www.aaamidatlantic.com/images/aaalogo.gif"></center><P><font face="arial, helvetica" size="-1">AAA Mid-Atlantic serves the following New Jersey counties: Atlantic, Burlington, Cape May, Hunterdon, Mercer, Middlesex, Monmouth, Ocean, Somerset, Sussex, & Warren.')
+d.write('<BR><BR><CENTER><A HREF=javascript:window.close()>Close</A></CENTER></font>')
+d.close();
+newwin.focus();
+}
+
+function openPennsylvania(popPA)
+{
+ var newwin2 = window.open("","newwin2","width=300,height=250,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no");
+var d = newwin2.document;
+d.write('<center><image src="http://www.aaamidatlantic.com/images/aaalogo.gif"></center><P><font face="arial, helvetica" size="-1">AAA Mid-Atlantic serves the following Pennsylvania counties: Bucks, Chester, Delaware, Montgomery, Carbon, Luzerne, Columbia, Montour, Northumberland, & Schuylkill.')
+d.write('<BR><BR><CENTER><A HREF=javascript:window.close()>Close</A></CENTER></font>')
+d.close();
+newwin2.focus();
+}
+
+// javascript for Header Navigation Bar Include 
+// Created July 3, 2000
+
+// Start of javascript for Header Navigation Bar Include 
+
+// Load the images into the array
+if (document.images)
+{
+TravelOn=new Image(44,19);
+TravelOn.src="http://www.aaamidatlantic.com/images/header_new/travel_on.gif";
+
+TravelOff=new Image(44,19);
+TravelOff.src="http://www.aaamidatlantic.com/images/header_new/travel_off.gif";
+
+AutoOn=new Image(65,19);
+AutoOn.src="http://www.aaamidatlantic.com/images/header_new/auto_on.gif";
+
+AutoOff=new Image(65,19);
+AutoOff.src="http://www.aaamidatlantic.com/images/header_new/auto_off.gif";
+
+FinanceOn=new Image(59,19);
+FinanceOn.src="http://www.aaamidatlantic.com/images/header_new/nav_fin_on.gif";
+
+FinanceOff=new Image(59,19);
+FinanceOff.src="http://www.aaamidatlantic.com/images/header_new/nav_fin_off.gif";
+
+InsuranceOn=new Image(59,19);
+InsuranceOn.src="http://www.aaamidatlantic.com/images/header_new/nav_ins_on.gif";
+
+InsuranceOff=new Image(59,19);
+InsuranceOff.src="http://www.aaamidatlantic.com/images/header_new/nav_ins_off.gif";
+
+MemberOn=new Image(94,19);
+MemberOn.src="http://www.aaamidatlantic.com/images/header_new/mem_on.gif";
+
+MemberOff=new Image(94,19);
+MemberOff.src="http://www.aaamidatlantic.com/images/header_new/mem_off.gif";
+
+SafetyOn=new Image(42,19);
+SafetyOn.src="http://www.aaamidatlantic.com/images/header_new/safety_on.gif";
+
+SafetyOff=new Image(42,19);
+SafetyOff.src="http://www.aaamidatlantic.com/images/header_new/safety_off.gif";
+
+PersonalOn=new Image(77,19);
+PersonalOn.src="http://www.aaamidatlantic.com/images/header_new/personal_on.gif";
+
+PersonalOff=new Image(77,19);
+PersonalOff.src="http://www.aaamidatlantic.com/images/header_new/personal_off.gif";
+
+AboutOn=new Image(63,19);
+AboutOn.src="http://www.aaamidatlantic.com/images/header_new/about_on.gif";
+
+AboutOff=new Image(63,19);
+AboutOff.src="http://www.aaamidatlantic.com/images/header_new/about_off.gif";
+
+HomeOn=new Image(40,19);
+HomeOn.src="http://www.aaamidatlantic.com/images/header_new/home_on.gif";
+
+HomeOff=new Image(40,19);
+HomeOff.src="http://www.aaamidatlantic.com/images/header_new/home_off.gif";
+
+}
+
+function on(pic)
+{
+	if (document.images)
+	{
+		document.images[pic].src= eval(pic + "On.src");
+	}
+}
+
+
+function off(pic)
+{
+	if (document.images)
+	{
+		document.images[pic].src= eval(pic + "Off.src");
+	}
+}
+
+// End javascript for Header Navigation Bar Include
+
+
+</script>  
+<link rel="stylesheet" type="text/css" href="../includes/aaa.css">      
 </head>
-<body bgcolor="#FFFFFF" marginwidth="0" leftmargin="0" marginheight="0" onload="preloadImages();">
 
-<!--main enclosing table-->
-<table border="0" cellspacing="0" cellpadding="0" align="center">
+<body bgcolor="White" link="red" vlink="red" alink="red">
+
+<!--- Evaluate the Browser & Platform --->
+
+
+<!--- Pull in the header navigation bar include --->
+
+<!-----------PUT DESTINATION HERE(I.E. TRAVEL)--------->
+<!--put within quotes travel, auto, finance, member, personal -->
+<!--safety, about or home to highlight section on top nav bar-->
+
+ 
+
+<!----------------------------------------------------->
+
+
+<!-- Header Navigation Bar Include -->
+<!-- Created July 3, 2000 -->
+
+<!-- Start of Header Navigation Bar Include -->
+
+
+<!-- Start Header Nav Table -->
+<table cellspacing="0" cellpadding="0" border="0" width="599">
+
 <tbody><tr>
-<td>
-
-<!--header-->
-<table border="0" cellpadding="0" cellspacing="0">
-<form action="../../_vti_bin/shtml.dll/LiveNew/search/search.htm" method="POST" id="searchform" name="searchform"></form>
-	<tbody><tr>
-			<td rowspan="2">
-		<a href="/livenew/index.asp">
-			<img src="/livenew/images/logo.gif" width="143" height="72" border="0" alt="AAA Mid-Atlantic"></a></td>
-	<td colspan="5">
-		<img src="/livenew/images/aaa_mid_atlantic.gif" width="430" height="38"></td>
-			
-	<!--searchbox-->	
-	<td colspan="2" valign="top" align="right" background="/livenew/images/searchbox.gif">
-	<img src="/livenew/images/singlepixel.gif" width="1" height="1" alt="" border="0">
-		<input type="hidden" name="VTI-GROUP" value="0">
-		<input type="text" value="" name="search" size="8" maxlength="20"> 
-		<img src="/livenew/images/singlepixel.gif" width="1" height="1" alt="" border="0"> 
-		<input type="image" border="0" src="/livenew/images/go_button.gif" width="27" height="13" id="image1" name="image1"><br><center><a href="/livenew/search/search.htm">
-	<img src="/livenew/images/search_tips.gif" width="45" height="9" alt="" border="0"></a></center></td>
-	<!--end searchbox-->	
-	</tr>
-	<tr>
-		<!-- Call BuildLevel1Menu to build the level 1 menu.
-			 Use appropriate parameter to display appropriate tab as selected.
-			 The possible parameters are: MEMBERSHIP, TRAVEL, SAVINGS, AUTOMOTIVE, INSURANCE, FINANCIAL, ABOUT US
-		-->
-		
-		<td><a href="/livenew/membership.asp" onmouseover="changeImages('membership', '/livenew/images/membership-over.gif'); return true;" onmouseout="changeImages('membership', '/livenew/images/membership.gif'); return true;">
-				<img name="membership" src="/livenew/images/membership.gif" width="101" height="34" border="0" alt="membership"></a></td>
-
-		<td><a href="/livenew/travel.asp" onmouseover="changeImages('travel', '/livenew/images/travel-over.gif'); return true;" onmouseout="changeImages('travel', '/livenew/images/travel.gif'); return true;">
-				<img name="travel" src="/livenew/images/travel.gif" width="66" height="34" border="0" alt="travel"></a></td>
-
-		<td><a href="/livenew/savings.asp" onmouseover="changeImages('savings', '/livenew/images/savings-over.gif'); return true;" onmouseout="changeImages('savings', '/livenew/images/savings.gif'); return true;">
-				<img name="savings" src="/livenew/images/savings.gif" width="72" height="34" border="0" alt="savings"></a></td>
-
-		<td><a href="/livenew/automotive/aaa_automotive.asp" onmouseover="changeImages('automotive', '/livenew/images/automotive-over.gif'); return true;" onmouseout="changeImages('automotive', '/livenew/images/automotive.gif'); return true;">
-				<img name="automotive" src="/livenew/images/automotive.gif" width="100" height="34" border="0" alt="automotive"></a></td>
-
-		<td><a href="/livenew/insurance.asp" onmouseover="changeImages('insurance', '/livenew/images/insurance-over.gif'); return true;" onmouseout="changeImages('insurance', '/livenew/images/insurance.gif'); return true;">
-				<img name="insurance" src="/livenew/images/insurance.gif" width="91" height="34" border="0" alt="insurance"></a></td>
-
-		<td><a href="/livenew/financial.asp" onmouseover="changeImages('financial', '/livenew/images/financial-over.gif'); return true;" onmouseout="changeImages('financial', '/livenew/images/financial.gif'); return true;">
-				<img name="financial" src="/livenew/images/financial.gif" width="87" height="34" border="0" alt="financial"></a></td>
-	
-		<td><a href="/livenew/about_us.asp" onmouseover="changeImages('about_us', '/livenew/images/about_us-over.gif'); return true;" onmouseout="changeImages('about_us', '/livenew/images/about_us.gif'); return true;">
-				<img name="about_us" src="/livenew/images/about_us.gif" width="80" height="34" border="0" alt="about us"></a></td>
-
-	</tr>
-	<tr>
-		<td rowspan="2">
-			<img src="/livenew/images/upper_sidebar.gif" width="143" height="39"></td>
-			
-		<!-- Call BuildLevel2Menu to build the level 2 menu for a selected tab.
-			 Use appropriate parameters to display appropriate menu item as selected.
-			 First parameter is the menu tab as above: MEMBERSHIP, TRAVEL, SAVINGS, AUTOMOTIVE, INSURANCE, FINANCIAL, ABOUT US
-			 Second parameter is 2nd level menu item to have selected: 
-				for MEMBERSHIP tab the options are "FORMS & APPLICATIONS", "MEMBERSHIP BENEFITS"
-				for TRAVEL tab the options are
-				for SAVINGS
-				for AUTOMOTIVE
-				for INSURANCE
-				for FINANCIAL
-				for ABOUT US
-		-->		
-		
-	<!--level two links-->
-	<td height="20" colspan="7" bgcolor="#3366CC" class="mdWhiteLink">
-	<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td>&nbsp;</td>
-			
-		
-
-			<td>&nbsp; &nbsp;</td>			
-		</tr>
-	</tbody></table></td>
-	<!--end level two links-->
-
-		
-	</tr>
-	<tr>
-		<td colspan="7">
-			<img src="/livenew/images/upper_white.gif" width="597" height="19"></td>
-	</tr>
-
-</tbody></table>
-<!--end membership header-->
-
-<!--sidebar and content-->
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<!--sidebar-->
-	<!-- Call BuildSideBar to build the level 3 menu for a selected tab and level 2 menu item.
-		 Use appropriate parameters to display appropriate menu item as selected.
-		 First parameter is the menu tab as above: MEMBERSHIP, TRAVEL, SAVINGS, AUTOMOTIVE, INSURANCE, FINANCIAL, ABOUT US
-		 Second parameter is 2nd level menu item to have selected: 
-			for MEMBERSHIP tab the options are "FORMS & APPLICATIONS", "MEMBERSHIP BENEFITS"
-			for TRAVEL tab the options are
-			for SAVINGS
-			for AUTOMOTIVE
-			for INSURANCE
-			for FINANCIAL
-			for ABOUT US
-		Third parameter is the 3rd level menu item to have selected.
-	-->		
-
-	<td valign="top" width="143" background="/livenew/images/sidebar_background.gif" align="center"> 
-	
-	<table width="90" border="0" cellspacing="0" cellpadding="0" align="center" background="/livenew/images/singlebluepixel.gif">
-	
-		
-
-		<tbody><tr><td>&nbsp;</td></tr>
-		<tr>
-			<!-- always include home link-->
-			<td><hr align="left" width="85" color="White">
-			<a href="/livenew/index.asp" class="smWhiteLink">Home Page</a></td>
-		</tr>
-	</tbody></table>
-	<!--netscape workaround-->
-	<img src="/livenew/images/singlepixel.gif" width="143" height="1" alt="" border="0">
-	<!--end netscape workaround-->
-	</td>
-	
-
-	<!--end sidebar-->
-	
-	<!--main content area for two column grid-->
-	<td valign="top" width="597">
-	<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr><td class="bodyCopy">
-		
-		
-		<b><font size="5">Privacy Statement</font></b><p></p>
-<p><font face="Verdana" color="#000000">This is the Web site of AAA
-Mid-Atlantic Inc.<br> <br> Our postal address is<br> <b>2040 Market
-Street<br> Philadelphia, PA 19103<br> Attn: Marketing Department<br>
-</b><br> We can be reached via e-mail at <a href="mailto:webmaster@aaamidatlantic.com">webmaster@aaamidatlantic.com</a><br>
-Or you can reach us by telephone at 215-864-5000<br> <br> For each visitor
-to our Web page, our Web server automatically recognizes the consumer's
-domain name and e-mail address (where possible).<br> <br> We collect the
-domain name and e-mail address (where possible) of visitors to our Web page,
-the e-mail addresses of those who communicate with us via e-mail, aggregate
-information on what pages consumers access or visit, user-specific
-information on what pages consumers access or visit and information
-volunteered by the consumer, such as survey information, applications for
-membership and requests for member services.<br> <br> The information we
-collect is used to improve the content of our Web page and may be used to
-notify consumers about updates to our Web site or to contact consumers for
-marketing purposes. If you do not want to receive e-mail
-from us in the future, please let us know by sending e-mail to us at the
-above address and telling us that you do not want to receive e-mail from our
-company.<br> <br> If you supply us with your postal address on-line, you may
-receive periodic mailings from us with information on new products and
-services or upcoming events. If you supply us with your telephone number
-on-line, you may receive telephone contact from us with information
-regarding orders you have placed on-line or with information on new products
-and services or upcoming events. If you do not wish to receive such mailings
-or telephone calls, please let us know by e-mail at the above
-address.</font></p> 
-
-			</td>
-		</tr>
-		<tr>
-			<!-- pagefooter.inc includes main section links, customer service phone#, 
-				copyright and link to privacy statement.
-				Set iBodyCols to the number of columns in the body of the content area-->
-				<td align="center" colspan="1" class="smBlackCopy"><hr> <a href="/livenew/index.asp">Home</a> &nbsp; ¦ &nbsp; <a href="/livenew/membership.asp">Membership</a> 
-  &nbsp; ¦ &nbsp; <a href="/livenew/travel.asp">Travel</a> &nbsp; ¦ &nbsp; <a href="/livenew/savings.asp">Savings</a> 
-  &nbsp; ¦ &nbsp; <a href="/livenew/automotive/aaa_automotive.asp">Automotive</a> 
-  &nbsp; ¦ &nbsp; <a href="/livenew/insurance.asp">Insurance</a> &nbsp; ¦ &nbsp; 
-  <a href="/livenew/financial.asp">Financial</a> &nbsp; ¦ &nbsp; <a href="/livenew/about_us.asp">About 
-  Us</a><br>
-	Customer Service: 1-888-859-5161 • AAA Mid-Atlantic © 2000<br>
-	<a href="/livenew/privacy.asp">Privacy Policy</a></td>
-
-		</tr>	
-	</tbody></table>
-	</td>
-	<!--end main content area for two column grid-->
+ <td valign="bottom" colspan="10">
+	<img src="http://www.aaamidatlantic.com/images/header_new/header_master.jpg" name="headerTop" border="0" align="Top" alt="Header" height="63" width="599">
+ </td>
 </tr>
 
 <tr>
-	<td colspan="2">
-	<img src="/livenew/images/bottom.gif" width="740" height="29" alt="" border="0"></td>
+ <td valign="top" align="right">
+ 	<img src="http://www.aaamidatlantic.com/images/header_new/swish.jpg" name="Swish" border="0" align="top" alt="logo" height="19" width="56">
+</td>
+
+
+<td valign="top">
+	
+	<a href="http://www.aaamidatlantic.com/travel/default.asp" target="_top" onmouseover="on('Travel'); window.status='Travel'; return true;" onmouseout="off('Travel'); window.status=' '; return true;"><img src="http://www.aaamidatlantic.com/images/header_new/travel_off.gif" name="Travel" border="0" alt="Travel" width="44" height="19" align="top"></a>
+	
+</td>
+
+
+<td valign="top">
+	
+	<a href="http://www.aaamidatlantic.com/automotive/default.asp" target="_top" onmouseover="on('Auto'); window.status='Automotive'; return true;" onmouseout="off('Auto'); window.status=' '; return true;"><img src="http://www.aaamidatlantic.com/images/header_new/auto_off.gif" name="Auto" border="0" alt="Automotive" width="65" height="19" align="top"></a>
+	
+</td>
+
+<td valign="top">
+	
+	<a href="http://www.aaamidatlantic.com/finance/default.asp" target="_top" onmouseover="on('Finance'); window.status='Finance'; return true;" onmouseout="off('Finance'); window.status=' '; return true;"><img src="http://www.aaamidatlantic.com/images/header_new/nav_fin_off.gif" name="Finance" border="0" alt="Finance" width="59" height="19" align="top"></a>
+	
+</td>
+
+<td valign="top">
+	
+	<a href="http://www.aaamidatlantic.com/insurance/default.asp" target="_top" onmouseover="on('Insurance'); window.status='Insurance'; return true;" onmouseout="off('Insurance'); window.status=' '; return true;"><img src="http://www.aaamidatlantic.com/images/header_new/nav_ins_off.gif" name="Insurance" border="0" alt="Insurance" width="59" height="19" align="top"></a>
+	
+</td>
+
+<td valign="top">
+	
+	<a href="http://www.aaamidatlantic.com/member_services/default.asp" target="_top" onmouseover="on('Member'); window.status='Member Services'; return true;" onmouseout="off('Member'); window.status=' '; return true;"><img src="http://www.aaamidatlantic.com/images/header_new/mem_off.gif" name="Member" border="0" alt="Member Services" width="94" height="19" align="top"></a>
+	
+</td>
+
+<td valign="top">
+	
+	<a href="http://www.aaamidatlantic.com/safety/default.asp" target="_top" onmouseover="on('Safety'); window.status='Safety'; return true;" onmouseout="off('Safety'); window.status=' '; return true;"><img src="http://www.aaamidatlantic.com/images/header_new/safety_off.gif" name="Safety" border="0" alt="Safety &amp; News Room" width="42" height="19" align="top"></a>
+	
+</td>
+
+<td valign="top">
+	
+	<a href="http://www.aaamidatlantic.com/personal/default.asp" target="_top" onmouseover="on('Personal'); window.status='Personal'; return true;" onmouseout="off('Personal'); window.status=' '; return true;"><img src="http://www.aaamidatlantic.com/images/header_new/personal_off.gif" name="Personal" border="0" alt="Personal AAA" width="77" height="19" align="top"></a>
+	
+</td>
+
+<td valign="top">
+	
+	<a href="http://www.aaamidatlantic.com/about/default.asp" target="_top" onmouseover="window.status='About'; return true;" onmouseout="window.status=' '; return true;"><img src="http://www.aaamidatlantic.com/images/header_new/about_on.gif" name="About" border="0" alt="About AAA" width="63" height="19" align="top"></a>
+	
+</td>
+
+<td valign="top">
+	
+	<a href="http://www.aaamidatlantic.com" target="_top" onmouseover="on('Home'); window.status='Home'; return true;" onmouseout="off('Home'); window.status=' '; return true;"><img src="http://www.aaamidatlantic.com/images/header_new/home_off.gif" name="Home" border="0" alt="Home" width="40" height="19" align="top"></a>
+
+	
+</td>
+
+</tr>
+
+<tr bgcolor="#FFFFFF">
+ <td valign="Top" colspan="10">
+	<img src="http://www.aaamidatlantic.com/images/bluebar.gif" border="0" align="Top" width="599" height="19" alt="bluebar">
+ </td>
 </tr>
 </tbody></table>
-<!--end sidebar and content-->
+<!-- End Header Nav Table -->
+
+<!-- End of  Header Navigation Bar Include -->
+
+<table cellspacing="0" cellpadding="0" border="0" width="599">
+<tbody><tr>
+<td valign="Top" width="463" bgcolor="#FFFFFF"> 
+	<table cellspacing="0" cellpadding="0" border="0" width="463">
+		<tbody><tr>
+ 		<td width="135" valign="Top" bgcolor="#FFFFFF" align="left">
+		<img src="../images/spacer.gif" width="135" height="8"><br>
+		
+<!-- ************ LEFT NAVIGATION ************* -->
+
+<!-- ****Put the following 3 include files in an includes folder within the directory you are working under.  Then change in all 3 files: 1)Reference to webpage 2)Category names ****--> 	
+
+		
+<!-- You will have to: 1)change the category names appropriately, 2)adjust the height of the 2 images sides.gif [on the top and bottom of this page], and 3)delete any extra categories that you did not fill in.
+When deleting extra categories, be sure that you don't have an extra horizontal bar under your last category [the horizontal bars are within their own tables]. -->
+
+<!--Left Navigation for Travel-->
+			<img src="http://www.aaamidatlantic.com/images/travel/top_new6.gif" width="133" height="6" align="top"><br><table width="131" valign="top" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFCC">
+<tbody><tr>
+<td width="1" align="left" valign="top" bgcolor="#FFFFCC"><img src="http://www.aaamidatlantic.com/images/travel/sides.gif" width="1" height="340"></td>
+	<td>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">
+			<tbody><tr><td align="left" valign="top" bordercolor="#000000" bgcolor="#FFFFCC">
+			<a href="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlID=10&amp;dest=about" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="#5959AB"><b>Membership Benefits</b></font></a>
+			</td></tr>
+			</tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaamidatlantic.com/about/JobPostingShowCase/employment.asp" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="#5959AB"><b>Employment</b></font></a>
+			</td></tr>
+		</tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaamidatlantic.com/about/public_affairs/default.asp" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="5959AB"><b>Public Affairs</b></font></a>
+			</td></tr>
+		</tbody></table>
+
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">	
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaamidatlantic.com/press/" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="5959AB"><b>News Releases</b></font></a>
+			</td></tr>
+		</tbody></table>
+      
+      <table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">	
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaamidatlantic.com/about/financialreport.asp" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="5959AB"><b>2001 Annual Report</b></font></a>
+			</td></tr>
+		</tbody></table>
+
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">	
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaaworld.com" style="text-decoration: none" target="_blank"><font size="-2" face="ms sans serif, helvetica" color="5959AB"><b>AAA World</b></font></a>
+			</td></tr>
+		</tbody></table>
+
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaa.com/stop" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="5959AB"><b>Find Another AAA Club Online</b></font></a>
+			</td></tr>
+		</tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaamidatlantic.com/about/terms_conditions.asp" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="5959AB"><b>Terms and Conditions</b></font></a>
+			</td></tr>
+		</tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaamidatlantic.com/about/privacy.asp" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="5959AB"><b>Privacy Policy</b></font></a>
+			</td></tr>
+		</tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaamidatlantic.com/about/branch_locator.asp" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="5959AB"><b>Branch Locations &amp;
+ Hours</b></font></a>
+			</td></tr>
+		</tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC"><tbody><tr><td>
+			<img src="http://www.aaamidatlantic.com/images/travel/horizontal.gif" width="131" height="1"></td></tr></tbody></table>
+		<table width="131" valign="top" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFCC">
+			<tbody><tr valign="top"><td align="left" valign="top" bgcolor="#FFFFCC" bordercolor="#000000">
+			<a href="http://www.aaamidatlantic.com/about/history.asp" style="text-decoration: none"><font size="-2" face="ms sans serif, helvetica" color="5959AB"><b>AAA History</b></font></a>
+			</td></tr>
+		</tbody></table>
+		</td>
+		<td width="1" align="left" valign="top" bgcolor="#FFFFCC"><img src="http://www.aaamidatlantic.com/images/travel/sides.gif" width="1" height="340"></td>
+		</tr></tbody></table><img src="http://www.aaamidatlantic.com/images/travel/low_new6.gif" width="133" height="6" align="top"><br>
+<img src="../images/spacer.gif" width="130" height="10" border="0"><br>
+		
+<!--*****************PUT YOUR CODE HERE****************-->
+
+	<!---------	Savings Near You INCLUDE FILE ----------->
+
+<table cellspacing="0" cellpadding="2" border="0" width="130" bgcolor="#5959AB" valign="top">
+	<tbody><tr valign="Top">
+		<td align="center" valign="top" width="130">
+		<form method="Post" action="http://www.aaamidatlantic.com/savings/sycs/results.asp">
+	<img src="http://www.aaamidatlantic.com/member_services/images/savings.gif" width="68" height="29" border="0" alt="Savings Near You">
+		</form></td>
+	</tr>
+
+	<tr valign="Top">
+		<td align="center" width="130">
+
+                    <font size="=2" face="arial, helvetica"><select name="key" style="width:115px; font-size: 8pt">
+                      <option value="" selected="">Category</option>
+                      <option value="1">App. Auto Repair</option>
+                      <option value="2">Airport Parking</option>
+                      <option value="3">Automotive</option>
+                      <option value="4">Car Washes</option>
+                      <option value="5">Cleaners</option>
+                      <option value="6">Entertainment</option>
+                      <option value="7">Florists</option>
+                      <option value="8">Health Clubs</option>
+                      <option value="9">Home and Personal</option>
+                      <option value="10">Limo Services</option>
+                      <option value="11">Locksmith</option>
+                      <option value="12">Restaurants</option>
+                      <option value="13">Travel</option>
+                      <option value="14">Vision Centers</option>
+
+                    </select>
+
+		</font></td>
+	</tr>
+
+	<tr valign="Top">
+		<td align="center" width="130">
+
+                    <font size="-2" face="arial, helvetica">
+<select name="city" style="width:115px; font-size: 8pt">
+	<option value="" selected="">City
+	</option><option value="Allamuchy">Allamuchy
+	</option><option value="Atlantic Highlands">Atlantic Highlands
+	</option><option value="Augusta">Augusta
+	</option><option value="Avenel">Avenel
+	</option><option value="Bayville">Bayville
+	</option><option value="Belle Mead">Belle Mead
+	</option><option value="Belmar">Belmar
+	</option><option value="Bernardsville">Bernardsville
+	</option><option value="Bordentown">Bordentown
+	</option><option value="Bound Brook">Bound Brook
+	</option><option value="Branchburg">Branchburg
+	</option><option value="Bridgewater">Bridgewater
+	</option><option value="Burlington">Burlington
+	</option><option value="Camden">Camden
+	</option><option value="Centerbrook">Centerbrook
+	</option><option value="Cinnaminson">Cinnaminson
+	</option><option value="Clarksburg">Clarksburg
+	</option><option value="Clinton">Clinton
+	</option><option value="East Brunswick">East Brunswick
+	</option><option value="Eatontown">Eatontown
+	</option><option value="Edison">Edison
+	</option><option value="Englewood">Englewood
+	</option><option value="Farmingdale">Farmingdale
+	</option><option value="Flemington">Flemington
+	</option><option value="Fords">Fords
+	</option><option value="Franklin Park">Franklin Park
+	</option><option value="Freehold">Freehold
+	</option><option value="Glen Gardner">Glen Gardner
+	</option><option value="Green Brook">Green Brook
+	</option><option value="Hamilton">Hamilton
+	</option><option value="Hamilton Square">Hamilton Square
+	</option><option value="Havertown, PA">Havertown, PA
+	</option><option value="Highland Park">Highland Park
+	</option><option value="Howell">Howell
+	</option><option value="Jamesburg">Jamesburg
+	</option><option value="Jersey City">Jersey City
+	</option><option value="Keansburg">Keansburg
+	</option><option value="Lakewood">Lakewood
+	</option><option value="Lanoka Harbor">Lanoka Harbor
+	</option><option value="Lawrenceville">Lawrenceville
+	</option><option value="Lincoft">Lincoft
+	</option><option value="Long Branch">Long Branch
+	</option><option value="Lyndhurst">Lyndhurst
+	</option><option value="Manahawkin">Manahawkin
+	</option><option value="Marlton">Marlton
+	</option><option value="Matawan">Matawan
+	</option><option value="Medford">Medford
+	</option><option value="Mercerville">Mercerville
+	</option><option value="Metuchen">Metuchen
+	</option><option value="Middletown">Middletown
+	</option><option value="Milltown">Milltown
+	</option><option value="Mt. Holly">Mt. Holly
+	</option><option value="Mt. Laurel">Mt. Laurel
+	</option><option value="Natural Bridge Virginia">Natural Bridge VA
+	</option><option value="New Brunswick">New Brunswick
+	</option><option value="New York">New York
+	</option><option value="Newark">Newark
+	</option><option value="Newton">Newton
+	</option><option value="North Brunswick">North Brunswick
+	</option><option value="Oak Ridge">Oak Ridge
+	</option><option value="Ocean">Ocean
+	</option><option value="Ocean Township">Ocean Township
+	</option><option value="Old Bridge">Old Bridge
+	</option><option value="Parsippany">Parsippany
+	</option><option value="Pennington">Pennington
+	</option><option value="Philadelphia">Philadelphia
+	</option><option value="Philadelphia Airport">Phil. Airport
+	</option><option value="Phillipsburg">Phillipsburg
+	</option><option value="Piscataway">Piscataway
+	</option><option value="Pluckemin">Pluckemin
+	</option><option value="Princeton">Princeton
+	</option><option value="Pt. Pleasant">Pt. Pleasant
+	</option><option value="Rahway">Rahway
+	</option><option value="Red Bank">Red Bank
+	</option><option value="Robbinsville">Robbinsville
+	</option><option value="Roseland">Roseland
+	</option><option value="Somerset*">Somerset*
+	</option><option value="Somerville">Somerville
+	</option><option value="South Brunswick">South Brunswick
+	</option><option value="South Plainfield">South Plainfield
+	</option><option value="South River">South River
+	</option><option value="Southampton">Southampton
+	</option><option value="Sparta">Sparta
+	</option><option value="Sussex">Sussex
+	</option><option value="Toms River">Toms River
+	</option><option value="Trenton">Trenton
+	</option><option value="Voorhees">Voorhees
+	</option><option value="Warren">Warren
+	</option><option value="Whitehouse">Whitehouse
+	</option><option value="Whitehouse Station">Whitehouse Station
+	</option><option value="Windsor">Windsor
+	</option><option value="Woodbridge">Woodbridge
+</option></select></font>
+
+		</td>
+	</tr>
+
+
+
+	<tr valign="bottom">
+  	 <td align="center" width="130">
+		<input type="submit" value="Search">
+	</td>
+   </tr>
+
+	</tbody></table>
+
+
+	
+
+	<a href="../member_services/guardian_discount.asp"><img src="../member_services/images/guardian.gif" border="0" width="130" height="23" alt="Guardian Protection Services"></a><p>
+	
+		<img src="../images/spacer.gif" width="130" height="10" border="0"><br>
+		
+		
+
+
+	<a href="http://s0b.bluestreak.com/ix.e?hr&amp;s=51957&amp;n=Insert_Time_Date_Stamp_Here" target="_new"><img src="http://www.aaamidatlantic.com/images/travel/aaa_platinum_card.gif" width="130" height="90" border="0" alt="AAA Platinum Card, Apply Online"></a>
+	
+		<img src="http://www.aaamidatlantic.com/images/spacer.gif" width="130" height="6" border="0"><br>
+
+		<a href="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlID=7&amp;dest=member"><img src="http://www.aaamidatlantic.com/images/travel/variations.gif" width="130" height="90" border="0" alt="AAA Membership, Join Now!"></a>
+<!--*****************END OF YOUR CODE HERE****************-->
+
+
+
+<!-- ************ END LEFT NAVIGATION ************* -->
+
+<!--************* BEGIN MAIN SECTION ************** -->
+		</p></td>
+		
+		<td width="328" valign="top" bgcolor="#FFFFFF" align="center">
+		<img src="../images/spacer.gif" width="135" height="8"><br>
+
+
+<!--*****************PUT YOUR CODE HERE****************-->
+<table width="310" border="0" cellspacing="0" cellpadding="0" align="RIGHT">
+		<tbody><tr><td>
+			<br> 
+			<center><font face="verdana" color="red" size="4"><b>Privacy Policy</b></font><br>
+			
+<span class="head5">Last Updated December 1, 2001</span>
+<p class="text3">This is the Web site of AAA Mid-Atlantic Inc.<br>
+Our postal address is:</p>
+<p class="text4">2040 Market Street<br>
+Philadelphia, PA 19103<br>
+Attn: Marketing Department</p>
+
+<p class="text3">We can be reached via e-mail at<br>
+<a href="mailto:Ecustomerservice@midatlantic.aaa.com">Ecustomerservice@midatlantic.aaa.com</a></p>
+
+<p class="text4">Or you can reach us by telephone at <br>1-888-859-5161</p>
+</center>
+
+<p class="text3">For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).  We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit and information volunteered by the consumer, such as survey information, applications for membership and requests for member services.</p>
+
+<p class="text3">The information we collect is used to improve the content of our Web page and may be used to notify consumers about updates to our Web site or to contact consumers for marketing purposes. If you do not want to receive e-mail from us in the future, please let us know by sending e-mail to us at the above address and telling us that you do not want to receive e-mail from our company.</p>
+
+<p class="text3">If you supply us with your postal address on-line, you may receive periodic mailings from us with information on new products and services or upcoming events. If you supply us with your telephone number on-line, you may receive telephone contact from us with information regarding orders you have placed on-line or with information on new products and services or upcoming events. If you do not wish to receive such mailings or telephone calls, please let us know by e-mail at the above address.</p>
+
+<p class="text3">We know that the nonpublic personal information of our visitors who buy products from us online is confidential. Accordingly, we do not collect or share nonpublic personal information you give us when you buy products from us except as explained below or if compelled by law.</p>
+
+<p class="text3">Nonpublic personal information is any personally identifiable information about you that we obtain from you or others as part of your purchase from us of a financial product. Nonpublic personal information collected may include your name, address, credit card number and details of the financial transaction.  We limit the collection and use of such information to the minimum required to deliver the goods or services you are purchasing.</p>
+
+<p class="text3">We oversee the receipt, storage, use and disclosure of nonpublic personal information about you and restrict access to those employees who need it to serve you.  We maintain physical, electronic, and procedural safeguards to secure nonpublic personal information that comply with federal regulations.  We monitor our databases and who has access to them, and we reinforce the privacy message to our staff.</p>
+
+<p class="text3">Please remember that when you use a link to go from the AAA Mid-Atlantic or AAA World web site that this privacy policy is no longer in effect.  Your browsing and interaction on any other web site, including sites, which have a link on this site, are subject to the terms, conditions, and privacy policies of that site.  Please read over those terms, conditions and policies before proceeding.  </p>
+
+
+		</td></tr></tbody></table>
+
+<!--*****************END OF YOUR CODE HERE****************-->
+
+
+<!--************* END MAIN SECTION ***************** -->
+
+		</td>
+		</tr>
+		</tbody></table>
+
+</td>
+
+<td width="133" valign="TOP" bgcolor="#FFFFFF" align="RIGHT">
+
+<!-- ************ BEGIN RIGHT NAVIGATION ************-->
+	
+<!--- Pull in the search bar include --->
+	<!-- Search Bar Include -->
+<!-- Created June 17, 2000 -->
+
+
+<!-- Evaluate the Browser & Platform -->
+
+
+<!-- Open Connection to the database and retrieve quick search info -->
+
+
+<!-- Start of Search Bar Include -->
+<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr bgcolor="#FFFFFF">
+		<td valign="Top" align="right">
+
+		<!-- The height of the table will depend on the browser - adjust the height on the filler graphic as necessary -->
+		<!-- 132 pixels for netscape; 126 pixels for IE on the PC -->
+		<!-- other pixels for the Mac Browsers -->
+		
+			<img src="http://www.aaamidatlantic.com/images/searchslice.gif" border="0" align="LEFT" hspace="0" vspace="0" height="85">		
+
+		
+
+		<table cellspacing="0" cellpadding="1" border="0" bgcolor="#000000" width="119">
+			<tbody><tr bgcolor="#000000">
+				<td valign="Top" align="Right">	
+				<font size="-2" face="Arial, Helvetica" color="#FFFFFF">
+					June 4, 2002
+				</font>		
+				</td>
+	  	   </tr>
+			<tr bgcolor="#000000">
+		<td valign="Top" height="62">
+
+<form method="Post" action="http://www.aaamidatlantic.com/search/default.asp">
+<img src="http://www.aaamidatlantic.com/images/searchtext.gif" border="0" align="bottom" alt="Search" width="54" height="12"><br>
+<input type="text" name="searchstring" size="8">
+<input type="hidden" name="freetext" value="off">
+<input type="Image" name="" src="http://www.aaamidatlantic.com/images/gobutton.gif" border="0" width="31" height="20">
+<font size="-1">
+<select name="shortcut" onchange="gotosite(this.options[this.selectedIndex].value)" style="width:112px; font-size: 8pt">
+
+		<option value="default.asp" selected="">Short Cuts
+		
+		</option><option value="/about/default.asp">
+		About
+
+				</option><option value="http://www.aaamidatlantic.com/about/JobPostingShowcase/employment.asp">
+			
+					&nbsp;&nbsp;Employment
+
+				</option><option value="http://www.aaamidatlantic.com/press/">
+			
+					&nbsp;&nbsp;Press Releas
+			</option><option value="">----------------
+		
+		</option><option value="/automotive/default.asp">
+		Auto
+
+				</option><option value="http://www.aaamidatlantic.com/finance/financial_web.asp">
+			
+					&nbsp;&nbsp;Auto Loans
+
+				</option><option value="http://www.aaamidatlantic.com/automotive/aar/default.asp">
+			
+					&nbsp;&nbsp;Auto Repair
+
+				</option><option value="http://www.aaamidatlantic.com/automotive/batteryservice.asp">
+			
+					&nbsp;&nbsp;Battery Serv
+
+				</option><option value="/automotive/auto_fr/default.asp?pass=http%3A%2F%2Ftracking%2Ecarprices%2Ecom%2Fcgi%2Dbin%2Fcbredir%2Ecgi%3FPARTNER%3DAAAMA%26redir%3Dhttp%3A%2F%2Fconfigurator%2Ecarprices%2Ecom%2Fcgi%2Dbin%2Fconfigurator%2Ecgi%3Fconf%5Fid%3Daaa%5Fma%2526template%3Daaa%5Fma%2526page%3Dtopcars&amp;dest=Build-A-Car">
+			
+					&nbsp;&nbsp;Build-A-Car
+
+				</option><option value="http://www.aaamidatlantic.com/automotive/vehicle_purchasing_spl.asp">
+			
+					&nbsp;&nbsp;Car Buying
+
+				</option><option value="http://www.aaamidatlantic.com/automotive/driver/default.asp">
+			
+					&nbsp;&nbsp;Drivers Reso
+
+				</option><option value="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlID=39&amp;dest=a">
+			
+					&nbsp;&nbsp;ERS Refunds
+
+				</option><option value="/automotive/auto_fr/default.asp?pass=http%3A%2F%2Ftracking%2Ecarprices%2Ecom%2Fcgi%2Dbin%2Fcbredir%2Ecgi%3FPARTNER%3DAAAMA%26redir%3Dhttp%3A%2F%2Flead%2Ecarprices%2Ecom%2Fcgi%2Dbin%2Fleads%2Fcars%2Faaa%5Fma%2Fdealer%5Flocator%2Ecgi&amp;dest=FindADealer">
+			
+					&nbsp;&nbsp;Find Dealers
+
+				</option><option value="/automotive/auto_fr/default.asp?pass=http%3A%2F%2Fwww%2Ekbb%2Ecom%2Fkb%2Fki%2Edll%2Fkw%2Ekc%2Etp%3Faaan%26%2632%26split&amp;dest=KellyBluebook">
+			
+					&nbsp;&nbsp;Kelly Blue B
+
+				</option><option value="/automotive/auto_fr/default.asp?pass=http%3A%2F%2Ftracking%2Ecarprices%2Ecom%2Fcgi%2Dbin%2Fcbredir%2Ecgi%3FPARTNER%3DAAAMA%26redir%3Dhttp%3A%2F%2Fwww%2Ecarprices%2Ecom%2Fcgi%2Dbin%2Fmatchmaker%2Fstart%2Ecgi%3Fpartner%3Daaa%5Fma&amp;dest=NewCarMatchMaker">
+			
+					&nbsp;&nbsp;MatchMaker
+
+				</option><option value="/automotive/auto_fr/default.asp?pass=http%3A%2F%2Fwww%2Enadaguides%2Ecom%2FLinkedValues%2Easp%3FLinkID%3D1066&amp;dest=NADA">
+			
+					&nbsp;&nbsp;NADA
+
+				</option><option value="http://www.aaamidatlantic.com/automotive/protect_investment.asp">
+			
+					&nbsp;&nbsp;Warranty
+			</option><option value="">----------------
+		
+		</option><option value="/finance/default.asp">
+		F &amp; I
+
+				</option><option value="http://www.aaanetaccess.com/">
+			
+					&nbsp;&nbsp;AAA Credit C
+
+				</option><option value="http://www.aaamidatlantic.com/finance/financial_web.asp">
+			
+					&nbsp;&nbsp;Auto Loans
+
+				</option><option value="http://www.aaamidatlantic.com/insurance/default.asp">
+			
+					&nbsp;&nbsp;Insurance Qu
+			</option><option value="">----------------
+		
+		</option><option value="/member_services/default.asp">
+		Membership
+
+				</option><option value="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlID=22&amp;dest">
+			
+					&nbsp;&nbsp;ERS
+
+				</option><option value="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlid=7&amp;dest=member">
+			
+					&nbsp;&nbsp;Join Online
+
+				</option><option value="https://www.aaamidatlantic.com/membership/movie_tickets.asp">
+			
+					&nbsp;&nbsp;Movie Ticket
+
+				</option><option value="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlid=25&amp;dest=member">
+			
+					&nbsp;&nbsp;Renew Online
+
+				</option><option value="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlID=12&amp;dest=travel">
+			
+					&nbsp;&nbsp;Theme Parks
+			</option><option value="">----------------
+		
+		</option><option value="/safety/default.asp">
+		Safety
+
+				</option><option value="http://www.aaamidatlantic.com/safety/child-safety.asp">
+			
+					&nbsp;&nbsp;Child Safety
+
+				</option><option value="http://www.aaamidatlantic.com/automotive/aaadriving/welcome.asp">
+			
+					&nbsp;&nbsp;Driver Impro
+
+				</option><option value="http://www.aaamidatlantic.com/safety/corporate-comm.asp">
+			
+					&nbsp;&nbsp;Education
+			</option><option value="">----------------
+		
+		</option><option value="/travel/default.asp">
+		Travel
+
+				</option><option value="http://www.aaamidatlantic.com/travel/travelertools/destinationtools.asp">
+			
+					&nbsp;&nbsp;Destination 
+
+				</option><option value="http://www.aaamidatlantic.com/disney/intro.htm">
+			
+					&nbsp;&nbsp;Disney
+
+				</option><option value="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlid=15&amp;dest=member">
+			
+					&nbsp;&nbsp;Internet Tri
+
+				</option><option value="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlid=16&amp;dest=member">
+			
+					&nbsp;&nbsp;Maps &amp; Pubs
+
+				</option><option value="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlID=6&amp;dest=travel">
+			
+					&nbsp;&nbsp;Reservations
+
+				</option><option value="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlID=17&amp;dest=travel">
+			
+					&nbsp;&nbsp;Tourbooks On
+
+				</option><option value="http://www.aaamidatlantic.com/travel/travelertools/default.asp">
+			
+					&nbsp;&nbsp;Travelers To
+
+
+
+	</option></select>
+</font>
+	<noscript><INPUT TYPE="submit" VALUE="Go!" onsubmit="gotosite(document.forms[0].url.options[document.forms[0].url.selectedIndex].value);return false"></noscript>
+
+				</form></td>
+			 </tr>
+		</tbody></table>				
+				
+				</td>
+
+			</tr>			
+		
+		</tbody></table>
+
+<!-- End of Search Bar Include -->
+	<img src="../images/spacer.gif" width="130" height="6" border="0" align="top" vspace="0"><br>
+
+<!--
+   <input type="hidden" name="expyear" value="">
+      <input type="hidden" name="expyear" value="">
+	     <input type="hidden" name="expyear" value="">
+-->
+
+<table cellspacing="0" cellpadding="0" border="0" valign="top" align="center">
+<tbody><tr>
+<!-- check for cookie
+see if the person ever logged in before -->
+	
+	
+	<!-- never logged in -->
+	<!-- row and cell starts on default.asp -->	
+<td valign="bottom" align="right">
+<!-- hidden per Kim's request 8/14/01
+<A HREF="http://www.aaamidatlantic.com/login.asp"><IMG SRC="http://www.aaamidatlantic.com/images/middle/login_button.gif" NAME="bottom" border=0 align="bottom" alt="login Buttons" width=51 height=27></a>
+-->
+<a href="http://www.aaamidatlantic.com/includes/zip_validation.asp?urlID=7&amp;dest=member"><img src="http://www.aaamidatlantic.com/images/middle/join_button.gif" name="bottom" border="0" align="bottom" alt="Join Online Buttons" width="81" height="27"></a>
+</td>
+
+</tr></tbody></table>
+
+
+<!--*****************PUT YOUR CODE HERE****************-->
+<img src="../images/spacer.gif" width="130" height="8" border="0"><br>
+
+<!-- <table cellspacing="0" cellpadding="2" border="0" width="130" bgcolor="#5959AB" valign="top">
+	<tr valign="Top">
+		<td align="center" valign="top">
+		<FORM METHOD="Post" ACTION="http://www.aaacarsonline.com/auto_search/inventory.cgi" TARGET="_new">
+<INPUT TYPE="hidden" NAME="session_id" VALUE="20000775793737">
+<INPUT TYPE="hidden" NAME="search" VALUE="1" onSubmit="return validate_findcar(this);">
+	<img src="http://www.aaamidatlantic.com/automotive/images/auto_find_trans.gif" width=96 height=23 border=0 alt="Find A Car Search"><br>
+<input type="radio" checked name="new_used" value="new">
+			<font size="-2" color="#FFFFFF" face="arial, helvetica">New</font>
+			<input type=radio name="new_used" value="used">
+			<font size="-2" color="#FFFFFF" face="arial, helvetica">Used</font>
+		</td>
+	</tr>
+
+	<tr valign="Top">
+		<td align="center">
+
+                    <font size="-2" face="arial, helvetica"><SELECT NAME="makemodel" style="width:115px; font-size: 8pt">				
+                      <OPTION VALUE="" SELECTED>Select a Make</OPTION>
+                      <OPTION VALUE="AM General">AM General</OPTION>
+                      <OPTION VALUE="Acura">Acura</OPTION>
+                      <OPTION VALUE="Alfa Romeo">Alfa Romeo</OPTION>
+                      <OPTION VALUE="Audi">Audi</OPTION>
+                      <OPTION VALUE="BMW">BMW</OPTION>
+                      <OPTION VALUE="Bentley">Bentley</OPTION>
+                      <OPTION VALUE="Buick">Buick</OPTION>
+                      <OPTION VALUE="Cadillac">Cadillac</OPTION>
+                      <OPTION VALUE="Chevrolet">Chevrolet</OPTION>
+                      <OPTION VALUE="Chrysler">Chrysler</OPTION>
+                      <OPTION VALUE="Daewoo">Daewoo</OPTION>
+                      <OPTION VALUE="Daihatsu">Daihatsu</OPTION>
+                      <OPTION VALUE="Dodge">Dodge</OPTION>
+                      <OPTION VALUE="Eagle">Eagle</OPTION>
+                      <OPTION VALUE="Ferrari">Ferrari</OPTION>
+                      <OPTION VALUE="Ford">Ford</OPTION>
+                      <OPTION VALUE="GMC">GMC</OPTION>
+                      <OPTION VALUE="Geo">Geo</OPTION>
+                      <OPTION VALUE="Honda">Honda</OPTION>
+                      <OPTION VALUE="Hyundai">Hyundai</OPTION>
+                      <OPTION VALUE="Infiniti">Infiniti</OPTION>
+                      <OPTION VALUE="Isuzu">Isuzu</OPTION>
+                      <OPTION VALUE="Jaguar">Jaguar</OPTION>
+                      <OPTION VALUE="Jeep">Jeep</OPTION>
+                      <OPTION VALUE="Kia">Kia</OPTION>
+                      <OPTION VALUE="Lamborghini">Lamborghini</OPTION>
+                      <OPTION VALUE="Land Rover">Land Rover</OPTION>
+                      <OPTION VALUE="Lexus">Lexus</OPTION>
+                      <OPTION VALUE="Lincoln">Lincoln</OPTION>
+                      <OPTION VALUE="Lotus">Lotus</OPTION>
+                      <OPTION VALUE="Maserati">Maserati</OPTION>
+                      <OPTION VALUE="Mazda">Mazda</OPTION>
+                      <OPTION VALUE="Mercedes-Benz">Mercedes-Benz</OPTION>
+                      <OPTION VALUE="Mercury">Mercury</OPTION>
+                      <OPTION VALUE="Merkur">Merkur</OPTION>
+                      <OPTION VALUE="Mitsubishi">Mitsubishi</OPTION>
+                      <OPTION VALUE="Nissan">Nissan</OPTION>
+                      <OPTION VALUE="Oldsmobile">Oldsmobile</OPTION>
+                      <OPTION VALUE="Peugeot">Peugeot</OPTION>
+                      <OPTION VALUE="Plymouth">Plymouth</OPTION>
+                      <OPTION VALUE="Pontiac">Pontiac</OPTION>
+                      <OPTION VALUE="Porsche">Porsche</OPTION>
+                      <OPTION VALUE="Rolls Royce">Rolls Royce</OPTION>
+                      <OPTION VALUE="Saab">Saab</OPTION>
+                      <OPTION VALUE="Saturn">Saturn</OPTION>
+                      <OPTION VALUE="Sterling">Sterling</OPTION>
+                      <OPTION VALUE="Subaru">Subaru</OPTION>
+                      <OPTION VALUE="Suzuki">Suzuki</OPTION>
+                      <OPTION VALUE="Toyota">Toyota</OPTION>
+                      <OPTION VALUE="Volkswagen">Volkswagen</OPTION>
+                      <OPTION VALUE="Volvo">Volvo</OPTION>
+                    </SELECT></font>
+
+		</td>
+	</tr>
+
+	<tr valign="Top">
+  	 <td align="center">
+		<INPUT TYPE="text" NAME="zip" SIZE=9 maxlength="5">
+		&nbsp;<font color="#FFFFFF" face="arial, helvetica" size="-2">Zip</font>
+	</td>
+   </tr>
+	<tr valign="bottom">
+  	 <td align="center">
+		<input type="submit" value="Search">
+	</td>
+   </tr>
+
+	</table>
+</FORM> -->
+
+	
+
+
+<a href="http://www.aaaworld.com"><img src="http://www.aaamidatlantic.com/images/aaaworld/aaaworld_cvrs/aaaworld.jpg" width="76" height="95" border="0" align="center" alt="AAA World"><br><font face="arial, helvetica" size="-1">AAA World</font></a>
+<img src="../images/spacer.gif" width="130" height="8" border="0"><br>
+
+
+
+<!--*****************END OF YOUR CODE HERE****************-->
+
+<!-- ****************END RIGHT NAVIGATION************-->
 
 </td>
 </tr>
+
+<!-- ************ BEGIN BOTTOM NAVIGATION ***********-->
+<tr>
+	<td valign="Top" colspan="2" align="left">
+		<br>
+		<!-- Footer Navigation Bar Include -->
+<!-- Created June 26, 2000 -->
+
+<!-- Start of Search Bar Include -->
+
+<table height="10" width="599" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr valign="top">
+		<td valign="top" width="20" align="right"><img src="http://www.aaamidatlantic.com/images/bottom/left_new.gif" border="0" align="top" alt="Footer Navigation" height="18" width="20"></td>
+		<td width="45" valign="center" bgcolor="#000000" height="10" align="left"><a href="http://www.aaamidatlantic.com/travel/default.asp" style="text-decoration: none"><font color="#FFFFFF" size="-2" face="arial,helvetica">Travel &nbsp;|</font></a></td>
+		<td width="68" valign="center" bgcolor="#000000" height="10" align="center"><a href="http://www.aaamidatlantic.com/automotive/default.asp" style="text-decoration: none"><font color="#FFFFFF" size="-2" face="arial,helvetica">Automotive &nbsp;|</font></a></td>
+		<td width="59" valign="center" bgcolor="#000000" height="10" align="center"><a href="http://www.aaamidatlantic.com/finance/default.asp" style="text-decoration: none"><font color="#FFFFFF" size="-2" face="arial,helvetica">Financial  &nbsp;|</font></a></td>
+		<td width="59" valign="center" bgcolor="#000000" height="10" align="center"><a href="http://www.aaamidatlantic.com/insurance/default.asp" style="text-decoration: none"><font color="#FFFFFF" size="-2" face="arial,helvetica">Insurance &nbsp;|</font></a></td>
+		<td width="95" valign="center" bgcolor="#000000" height="10" align="center"><a href="http://www.aaamidatlantic.com/member_services/default.asp" style="text-decoration: none"><font color="#FFFFFF" size="-2" face="arial,helvetica">Member Services  &nbsp;|</font></a></td>
+		<td width="50" valign="center" bgcolor="#000000" height="10" align="center"><a href="http://www.aaamidatlantic.com/safety/default.asp" style="text-decoration: none"><font color="#FFFFFF" size="-2" face="arial,helvetica">Safety &nbsp;|</font></a></td>
+		<td width="78" valign="center" bgcolor="#000000" height="10" align="center"><a href="http://www.aaamidatlantic.com/personal/default.asp" style="text-decoration: none"><font color="#FFFFFF" size="-2" face="arial,helvetica">Personal AAA  &nbsp;|</font></a></td>
+		<td width="77" valign="center" bgcolor="#000000" height="10" align="center"><a href="http://www.aaamidatlantic.com/about/default.asp" style="text-decoration: none"><font color="#FFFFFF" size="-2" face="arial,helvetica">About AAA &nbsp;|</font></a></td>
+		<td width="28" valign="center" bgcolor="#000000" height="10" align="center"><a href="http://www.aaamidatlantic.com/default.asp" style="text-decoration: none"><font color="#FFFFFF" size="-2" face="arial,helvetica">Home</font></a></td>
+	<td valign="top" width="20" align="left"><img src="http://www.aaamidatlantic.com/images/bottom/right_new.gif" border="0" align="top" alt="Footer Navigation" height="18" width="20"></td>
+	</tr>
 </tbody></table>
-<!--end main enclosing table-->
+<!-- End of Footer Navigation Bar Include --><!-- Copyright Include -->
+<!-- Created June 26, 2000 -->
+
+<!-- Start of Copyright Include -->
+
+<center>
+<font color="black" size="-2">AAA Mid-Atlantic is proud to serve members in <a href="javascript:openPennsylvania('popPA')"><font color="blue">Pennsylvania</font></a>, Maryland, Delaware, <br>Central, Western, &amp; Southeastern <a href="javascript:openJersey('popJersey')"><font color="blue">New Jersey</font></a>, Northern &amp; Central Virginia, and Washington D.C.<br>
+<a href="http://www.aaamidatlantic.com/about/contact/contact_us.asp"><font color="blue" size="-2"><b>Contact Us</b></font></a> | <a href="http://www.aaamidatlantic.com/about/public_affairs/"><font color="blue" size="-2"><b>Public Affairs</b></font></a> | <a href="http://www.aaamidatlantic.com/about/terms_conditions.asp"><font color="blue" size="-2"><b>Terms and Conditions</b></font></a> | <a href="http://www.aaamidatlantic.com/about/privacy.asp"><font color="blue" size="-2"><b>Privacy Policy</b></font></a><font color="blue" size="-2"><br>
+<a href="http://www.aaa.com/stop"><font color="blue" size="-2"><b>American Automobile Association</b></font></a><br>
+<font color="black" size="-2">© copyright 1999 - 2002, AAA Mid-Atlantic, Inc.
+</font></font> 
+</font></center><font color="black" size="-2">
+
+<!-- End of  Include -->
 
 
+
+	</font></td>
+</tr>
+<!-- ************ END BOTTOM NAVIGATION ***********-->
+
+</tbody></table>
 
 
 
