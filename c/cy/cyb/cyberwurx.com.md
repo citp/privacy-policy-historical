@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberwurx.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010010356id_/http%3A//www.cyberwurx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberwurx.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305122228id_/http%3A//www.cyberwurx.com/privacy.html) for the most accurate reproduction.*
 
 # Cyberwurx - Affordable High Speed Web Hosting Services - Privacy statement
 
@@ -13,6 +13,6 @@ Cyber Wurx LLC and any subsidiaries of Cyber Wurx LLC recognize the importance o
 
 4\. It is our policy that we will not share personal customer information (either current or former customers) outside of Cyber Wurx and or any subsidiary of Cyber Wurx for any purpose other than than administration or marketing of Cyber Wurx products or services, unless the disclosure has been authorized by the customer or is permitted or required by law.
 
-5\. To help us keep your customer information up-to-date and accurate, please contact your agent if there is any change in your personal information.
+5\. To help us keep your customer information up-to-date and accurate, please update your information via the customer area if there is any change in your personal information.
 
 6\. When necessary, we will review and revise our Privacy Policies to protect personal customer information.
