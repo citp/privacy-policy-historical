@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callingcards.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207130400id_/http%3A//www.callingcards.com/2/help/help_a23.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callingcards.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002082419id_/http%3A//www.callingcards.com/2/help/help_a23.asp) for the most accurate reproduction.*
 
 # CallingCards.com : Search Rates
 
