@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610183543id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208052700id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
 
 # TidBITS Privacy Statement
 
-(Last updated 18-Mar-2004.) 
+(Last updated Friday, November 19, 2004.) 
 
 TidBITS Electronic Publishing takes online privacy very seriously. We actively protect the privacy of users of TidBITS Web sites and people who subscribe to TidBITS publications and mailing lists.
 
 **Subscription Lists & Email Addresses** \-- TidBITS holds the names and email addresses of subscribers in the strictest confidence, and will not disclose specific subscriber information under any circumstances unless required by law. TidBITS subscriber databases and subscription lists can be accessed by only a few members of the TidBITS staff and are well protected against theft, tampering, and misuse (electronic or otherwise).
 
-Aggregate information about TidBITS subscriptions lists (such as the total number of subscribers) may be discussed in TidBITS publications, used to promote TidBITS, or disclosed to sponsors or advertisers.
+Aggregate information about TidBITS subscription lists (such as the total number of subscribers) may be discussed in TidBITS publications, used to promote TidBITS, or disclosed to sponsors or advertisers.
 
 To receive a TidBITS publication or mailing list via email, you must give us your email address - without it, we can't send you anything. Although we don't require subscribers to tell us their names, your email program or provider may include your name with your subscription request. If so, we'll record your name with your email address; the information helps ensure we don't confuse you with anyone else when sorting out subscription problems.
 
@@ -62,4 +62,4 @@ Special thanks to [digital.forest](http://www.forest.net/), our Web and mailing 
 
 Copyright 2004 TidBITS.   
 Send comments to [our webmaster](http://www.tidbits.com/about/webmaster.html).   
-Last updated on Thursday, March 18, 2004
+Last updated on Friday, November 19, 2004
