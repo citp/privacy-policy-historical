@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nols.edu privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209065859id_/http%3A//www.nols.edu/general/privacy/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nols.edu privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307002658id_/http%3A//www.nols.edu/general/privacy/privacy.shtml) for the most accurate reproduction.*
 
 # NOLS - Privacy Statement
 
@@ -45,8 +45,7 @@ Choice/Opt-Out
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us or having contact information shared at NOLS' discretion.
 
   1. You can send email to [choice@nols.edu](mailto:choice@nols.edu)
-  2. You can visit the following URL:  
-[http://www.nols.edu/General/Privacy/Choice.shtml](https://web.archive.org/general/privacy/choice.shtml)
+  2. You can call the NOLS Alumni office: 1-800-332-4280[](https://web.archive.org/general/privacy/choice.shtml)
   3. You can send mail to the following postal address:  
 Privacy Choice  
 NOLS  
@@ -60,8 +59,7 @@ Correct/Update
 This site gives users the following options for changing and modifying personally identifiable information previously provided as specified in the Fair Information Practices defined by the U.S. Government.
 
   1. You can send email to [addresschange@nols.edu](mailto:addresschange@nols.edu)
-  2. You can visit the following URL:  
-[http://www.nols.edu/General/Privacy/CorrectInfo.shtml](https://web.archive.org/general/correctinfo.shtml)
+  2. You can call the NOLS Alumni office: 1-800-332-4280[](https://web.archive.org/general/privacy/choice.shtml)
   3. You can send mail to the following postal address:  
 Address Change  
 NOLS  
