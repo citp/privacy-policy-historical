@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jambands.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216211054id_/http%3A//jambands.com/Privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambands.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607202042id_/http%3A//www.jambands.com/Privacy.phtml) for the most accurate reproduction.*
 
-# 
+# Jambands.com - Get Your Groove On-Line
 
 Privacy Statement
 
