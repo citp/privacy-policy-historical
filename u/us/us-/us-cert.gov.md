@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-cert.gov privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208135017id_/http%3A//www.us-cert.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-cert.gov privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305161017id_/http%3A//www.us-cert.gov/privacy.html) for the most accurate reproduction.*
 
 # US-CERT: Privacy Policy
 
@@ -21,12 +21,6 @@ We do collect some technical information when you visit to make your visit seaml
 
 > 
 > This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology and information our visitors use. We never track or record information about individuals and their visits. 
-> 
-> Cookies 
-> 
-> When you visit some websites, their webservers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. This is not the case at this website, where the only cookies we will ever use are non-persistent cookies or "session" cookies. These cookies do not collect personal information on users and they are erased as soon as you leave our website. 
-> 
-> Session cookies serve technical purposes like providing seamless navigation through this website. These cookies do not permanently record data and they are not stored on your computer's hard drive. These cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears. 
 > 
 > If You Send Us Personal Information
 > 
