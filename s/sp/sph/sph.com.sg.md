@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sph.com.sg privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612022328id_/http%3A//www.asiaone.com.sg/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sph.com.sg privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207003328id_/http%3A//www.asiaone.com.sg/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
