@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yotatech.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207223635id_/http%3A//www.yotatech.com/%7Ecorey/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotatech.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210174521id_/http%3A//www.yotatech.com/%7Ecorey/privacy.htm) for the most accurate reproduction.*
 
 # YotaTech Privacy Statement
 
@@ -44,7 +44,7 @@ Does YotaTech use cookies?
   * Cookies can be enabled or disabled by the members here. The benefit of using cookies is that it will display the correct time on the forums posts for you, and also the live clock that the forum uses.
   * They are also used for keeping track of which posts you have already viewed, and for telling you which new posts have been composed since you were away when you click on the "[View new posts](http://www.yotatech.com/search.php?s=&action=getnew)" at the top right of the forums index page.
   * Cookies are also used so you do not have to log in every time you open up your browser and surf on over to YotaTech if you so choose to remain logged in all the time.
-  * If you wish to log out of the forum if you will be away from your PC for an extended period, you will find on the main [index page](http://www.yotatech.com/) in the lower right there is a place to log out.
+  * If you wish to log out of the forum if you will be away from your PC for an extended period, you will find on the main  [ index ](http://www.yotatech.com/) [ page](http://www.yotatech.com/) in the lower right there is a place to log out.
 
 Does YotaTech use my IP address in anyway?
 
