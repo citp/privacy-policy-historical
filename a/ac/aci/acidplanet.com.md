@@ -1,42 +1,38 @@
-> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802142835id_/http%3A//www.sonicfoundry.com/corporate/default.asp%3Fpageid%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621140355id_/http%3A//www.sonicfoundry.com/corporate/default.asp%3Fpageid%3D17) for the most accurate reproduction.*
 
 # Sonic Foundry Privacy Statement
-
-| 
 
 Sonic Foundry, Inc. Privacy Statement
 
 [](http://www.the-dma.org/dmalogotext.html)
 
-This privacy statement is applicable to sonicfoundry.com, acidplanet.com, and any other site that Sonic Foundry owns and operates. 
+This privacy statement is applicable to sonicfoundry.com, acidplanet.com, any other site that Sonic Foundry owns and operates and all Sonic Foundry products.
 
 **Children Under 13**
 
-Sonic Foundry does not intend to collect any personal information from anyone under 13 years of age. If you are under 13, you should not enter any personally identifiable information about yourself on any Sonic Foundry web site and should ask a parent to do so for you. If you are under 13, Sonic Foundry must have express written permission from a parent before you may provide us with any information about yourself. The authorizing parent must email us at [customerservice@sonicfoundry.com](mailto:customerservice@sonicfoundry.com?subject=Under%2013%20Permission) certifying the parent's age and authority, and giving us express permission to acquire and retain any such personal information from you as we may normally obtain from users of any of our sites.
+Sonic Foundry does not intend to collect any personal information from anyone under 13 years of age. If you are under 13, you should not enter any personally identifiable information about yourself on any Sonic Foundry web site or in any Sonic Foundry product, and should ask a parent to do so for you. If you are under 13, Sonic Foundry must have express written permission from a parent before you may provide us with any information about yourself. The authorizing parent must email us at [customerservice@sonicfoundry.com](mailto:customerservice@sonicfoundry.com?subject=Under%2013%20Permission) certifying the parent's age and authority, and giving us express permission to acquire and retain any such personal information from you as we may normally obtain from users of any of our sites.
 
 **Information Collection**
 
-Sonic Foundry does not collect personally identifiable information about you on any of our websites except when you specifically provide this information on a voluntary basis. For example, we might ask for such information when we run a contest, when you register for subscription services, during product registration, in our online stores, and in connection with content submissions, community postings (e.g., chat and bulletin boards), surveys, and voting and polling activities. Sonic Foundry will make every effort to ensure that whatever information you provide will be maintained in a secure environment. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Sonic Foundry cannot guarantee the security of any information you transmit to us or from our online products or services, and you provide such information at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption.
+Sonic Foundry does not collect personally identifiable information about you except when you specifically provide this information on a voluntary basis. For example, we might ask for such information when we run a contest, when you register for subscription services, during product registration, in our online stores, and in connection with content submissions, community postings (e.g., chat and bulletin boards), surveys, and voting and polling activities. Sonic Foundry will make every effort to ensure that whatever information you provide will be maintained in a secure environment. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Sonic Foundry cannot guarantee the security of any information you transmit to us or from our online products or services, and you provide such information at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption.
 
 **Information Sharing**
 
-Sonic Foundry may from time to time share or provide your identifiable contact information to third parties, including successors in interest, who may offer you related goods and services, unless you indicate that you would like to "opt out" of receiving promotional and/or marketing information about other products, services, and offerings from these companies. You may opt out at anytime from receiving promotional material from these third parties on a going-forward basis by contacting [Sonic Foundry list maintenance](mailto:mailpref@sonicfoundry.com). 
+Sonic Foundry may from time to time share or provide your personally identifiable contact information to unaffiliated third parties, including successors in interest, who may offer you related goods and services, unless you indicate that you would like to "opt out" of receiving promotional and/or marketing information about other products, services, and offerings from these companies. You may opt out at anytime from receiving promotional material from these Sonic Foundry and/or any third parties on a going-forward basis by contacting [Sonic Foundry list maintenance](mailto:mailpref@sonicfoundry.com).
 
 Sonic Foundry may also retain an outside company to manage a database containing certain customer information to create and distribute mailings or e-mail offerings by Sonic Foundry or third parties. In those situations, the outside party is performing work for Sonic Foundry. Sonic Foundry takes appropriate steps designed to ensure your information is used only to provide the promotion or services requested.
+
+However, even if you opt out of receiving any communications from Sonic Foundry, we reserve the right to contact you regarding your account status, technical support, product information, changes to the subscriber agreement, and any other matter that might affect our service to you and/or our records on you and/or any products you purchased from us.
 
 Sonic Foundry may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Sonic Foundry's rights or property, other Sonic Foundry users, or anyone else that could be harmed by such activities. Sonic Foundry may also disclose user information when we believe in good faith that the law requires it.
 
 **Information Use**
 
-Sonic Foundry may use your identifiable contact information to send you promotional and/or marketing information about products, services and offerings from Sonic Foundry unless you indicate you would like to "opt out" of receiving such materials. You can opt out at anytime by contacting [Sonic Foundry list maintenance](mailto:mailpref@sonicfoundry.com).
-
-However, even if you opt out of receiving any communications from Sonic Foundry, we reserve the right to contact you regarding your account status, changes to the subscriber agreement, and any other matter that might affect our service to you and/or our records on you.
-
-Sonic Foundry reserves the right to perform statistical analyses of user behavior and characteristics, either internally or by sending this data to a third party for further analysis. We do this in order to measure interest in and use of the various areas of our Web sites and to create tailored marketing offerings. We may share this information with advertisers. We may also use this information to let advertisers know how many visitors have seen their banners and how many have clicked on them. Sonic Foundry will provide only aggregated data from these analyses to advertisers; advertisers will not be able to identify any individual from these analyses.
+Sonic Foundry may use your identifiable contact information to send you promotional and/or marketing information about products, services and offerings from Sonic Foundry unless you indicate you would like to "opt out" of receiving such materials. You can opt out at anytime by contacting [Sonic Foundry list maintenance](mailto:mailpref@sonicfoundry.com) . Sonic Foundry reserves the right to perform statistical analyses of user behavior and characteristics, either internally or by sending this data to a third party for further analysis. We do this in order to measure interest in and use of the various areas of our Web sites and to create tailored marketing offerings. We may share this information with advertisers. We may also use this information to let advertisers know how many visitors have seen their banners and how many have clicked on them. Sonic Foundry will provide only aggregated data from these analyses to advertisers; advertisers will not be able to identify any individual from these analyses.
 
 Also, you should be aware that Sonic Foundry may sometimes permit third parties to offer subscription and/or registration-based services through a Sonic Foundry site. Sonic Foundry is not responsible for any actions or policies of such third parties, and you should check the applicable privacy policy of any third party when providing personally identifiable information.
 
-Sonic Foundry collects IP addresses for system administration, record keeping, and advertising reporting. Your IP address is automatically assigned to your computer when you use the World Wide Web. Sonic Foundry's servers record incoming IP addresses. The IP addresses are analyzed only in aggregate; no connection is made between you and your computer's IP address. By tracking IP addresses, we can determine which sites refer the most people to Sonic Foundry. (Think of an IP address like your zip code; it tells us in general terms where you're from.)
+Sonic Foundry collects IP addresses for system administration, record keeping, and advertising reporting. Your IP address is automatically assigned to your computer when you use the World Wide Web. Sonic Foundry's servers record incoming IP addresses. Your IP address may be stored with your registration, order, or other information you submit via forms on our website. By tracking IP addresses, we can determine which sites refer the most people to Sonic Foundry. (Think of an IP address like your zip code; it tells us in general terms where you're from.)
 
 You should be very cautious when you voluntarily disclose personal information (for example, name or e-mail address) on bulletin boards, in chat areas, or the upload areas of any Sonic Foundry site. That information, along with any other information you may disclose in your posting, can be collected, correlated, and used by third parties, and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Sonic Foundry.
 
@@ -70,37 +66,8 @@ Sonic Foundry may from time to time offer links to other sites from sites within
 
 Sonic Foundry is aware of your privacy concerns and strives to collect only as much data as is required to make your Internet and/or product use experience as efficient and satisfying as possible, in the most unobtrusive manner as possible.
 
-The foregoing policies are effective as of November 14, 2001. Sonic Foundry reserves the right to change this policy at any time. By using our sites, you signify your assent to the Sonic Foundry Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Sonic Foundry sites following the posting of changes to these terms will mean you accept those changes.
+**Consent to Processing in the United States**
 
-|  |  |  |  | | 
+By providing any personal information to Sonic Foundry pursuant to this Privacy Policy, all users, including, without limitation, users in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection and processing of such information in the United States of America.
 
-[Company Home](https://web.archive.org/corporate/default.asp)  
-  
----|---  
-| 
-
-[Overview](https://web.archive.org/corporate/overview.asp)  
-  
-| 
-
-[Job Opportunities](https://web.archive.org/jobs/default.asp)  
-  
-| 
-
-[Investor Info](https://web.archive.org/investors/default.asp)  
-  
-| 
-
-[Annual Report](https://web.archive.org/corporate/annual.asp)  
-  
-| 
-
-[Strategic Partners](https://web.archive.org/corporate/partners.asp)  
-  
-| 
-
-[Artwork and Logos](https://web.archive.org/partners/artwork/default.asp)  
-  
-| 
-
-[Contacts](https://web.archive.org/corporate/contacts.asp)
+The foregoing policies are effective as of September 30, 2002. Sonic Foundry reserves the right to change this policy at any time. By using our sites and/or Products, you signify your assent to the Sonic Foundry Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Sonic Foundry sites and products following the posting of changes to these terms will mean you accept those changes. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
