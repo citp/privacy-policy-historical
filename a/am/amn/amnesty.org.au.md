@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org.au privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601170102id_/http%3A//www.amnesty.org.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.au privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210044133id_/http%3A//www.amnesty.org.au/privacy.html) for the most accurate reproduction.*
 
 # Amnesty International Australia (Privacy)
 
