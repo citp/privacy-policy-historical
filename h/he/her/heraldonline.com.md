@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heraldonline.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201213600id_/http%3A//www.heraldonline.com/staticContent/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldonline.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205001056id_/http%3A//www.heraldonline.com/staticContent/services/privacypolicy) for the most accurate reproduction.*
 
-# Default Template
+# The Herald - privacypolicy
 
 The Herald has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on information-gathering and disclosure. 
 
