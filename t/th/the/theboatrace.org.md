@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theboatrace.org privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606232848id_/http%3A//www.theboatrace.org/htmlsite/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theboatrace.org privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211103636id_/http%3A//www.theboatrace.org/htmlsite/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # theboatrace
 
