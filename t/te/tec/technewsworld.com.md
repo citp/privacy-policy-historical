@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technewsworld.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603054029id_/http%3A//www.newsfactor.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewsworld.com privacy policy that was archived on 2002-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021120213910id_/http%3A//www.newsfactor.com/privacy.shtml) for the most accurate reproduction.*
 
 # NewsFactor Network - Tech News
 
@@ -8,9 +8,9 @@
 
 The policies below are applicable to the above-named online services (collectively the "Service") produced and maintained by the NewsFactor NetworkTM. 
 
-NewsFactor Network collects personally identifying information only during subscription registration. In addition, information is collected in certain portions of the Service in which guests specifically and knowingly provide such information along with content submissions, community postings (i.e., chat or bulletin boards), suggestions, or voting. NewsFactor Network may use such information for its internal purposes, including but not limited to editorial and feedback purposes. In the event NewsFactor Network plans to publicly post any such information on a site, guests are provided prior notification of such posting. 
+NewsFactor Network collects personally identifying information only during registration. In addition, information is collected in certain portions of the Service in which guests specifically and knowingly provide such information along with content submissions, community postings (i.e., chat or bulletin boards), suggestions, or voting. NewsFactor Network may use such information for its internal purposes, including but not limited to editorial and feedback purposes. In the event NewsFactor Network plans to publicly post any such information on a site, guests are provided prior notification of such posting. 
 
-Information submitted at the time of registration or submission may be used for marketing and promotional purposes by NewsFactor Network and may be shared with companies that have been pre-screened by NewsFactor Network. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. 
+Information submitted at the time of registration or content submission may be used for marketing and promotional purposes by NewsFactor Network and may be shared with companies that have been pre-screened by NewsFactor Network. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. 
 
 Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords, purchases, and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites. 
 
@@ -39,5 +39,42 @@ ATTENTION KIDS: IF YOU ARE 16 OR UNDER, YOU MUST GET PERMISSION FROM YOUR MOM OR
 IF YOU GET PERMISSION FROM YOUR MOM OR DAD TO SUBMIT YOUR NAME TO BE PUBLICLY POSTED ON THE SERVICE, YOU SHOULD NEVER USE YOUR FULL NAME. JUST SUBMIT YOUR FIRST NAME OR INITIALS.    
 
 
-Please Note: We request that all editorial and PR matters be handled by e-mailing [editorial@newsfactor.com](mailto:editorial@newsfactor.com). Thank you.   
+Please Note: We request that all editorial and PR matters be handled [here](https://web.archive.org/perl/contact_form.pl?to=editorial). Thank you.   
  
+
+|  | 
+
+[]()  
+| **Real-Time  
+Technology News  
+Updated Every  
+5 Minutes  
+24 Hours a Day**  
+---  
+[**NewsFactor.com**](http://www.newsfactor.com/)  
+[**E-Commerce Times**](http://www.ecommercetimes.com/)  
+[**TechNewsWorld**](http://www.technewsworld.com/)  
+[**CRMDaily.com**](http://www.crmdaily.com/)  
+[**CRM Buyer**](http://www.crmbuyer.com/)  
+[**Sci-Tech**](http://sci.newsfactor.com/)  
+[**Linux Insider**](http://www.linuxinsider.com/)  
+[**WirelessNewsFactor**](http://wirelessnewsfactor.com/)  
+[**osOpinion**](http://www.osopinion.com/)  
+[**TechExtreme**](http://www.techextreme.com/)  
+[**FreeNewsFeed.com**](http://www.freenewsfeed.com/)  
+  
+[]()
+
+|    
+**November 20, 2002**   
+  
+  
+  
+[See more news](https://web.archive.org/oneweek/)
+
+[Get news by e-mail](https://web.archive.org/perl/newsletter_registration.pl)
+
+[Visit open forums](https://web.archive.org/perl/board/mboard.pl)
+
+  
+
