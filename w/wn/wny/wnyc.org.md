@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802133047id_/http%3A//www.wnyc.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622121455id_/http%3A//wnyc.org/about/privacy.html) for the most accurate reproduction.*
 
-# WNYC - New York Public Radio
+# WNYC - About WNYC
 
 Visiting WNYC.org: When you visit our site, our Web server automatically recognizes only your domain name, where you are coming to us from and what browser you are using. We do not collect your e-mail address. We use this information to analyze how traffic flows at WNYC.ORG, but no one can contact or identify you from this information.
 
@@ -14,10 +14,10 @@ E-mail Newsletters: WNYCMail is an opt-in e-mail newsletter that requires a sepa
 · Through the secure e-pledge form  
 · Through online and call-in giveaways
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting the **[sign up page](https://web.archive.org/web/20020802133047id_/http%3A//www.wnyc.org/about/email_updates.html)** or call 212 669 3333.
+If you do not want to receive e-mail from us in the future, please let us know by visiting the **[sign up page](https://web.archive.org/web/20030622121455id_/http%3A//wnyc.org/about/email_updates.html)** or call 212 669 3333.
 
 Information WNYC.org Collects:  
-If you supply us with your postal address on-line in conjunction with an e-pledge, you may receive periodic mailings from us with information on fundraising or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at the above address. See more on WNYC's policy on List Exchanges and Rentals HERE.
+If you supply us with your postal address on-line in conjunction with an e-pledge, you may receive periodic mailings from us with information on fundraising or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at the above address.
 
 Donors who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding on-line giving or technical queries. We use this information for customer service purposes only.
 
@@ -32,14 +32,9 @@ The wnyc.org site encrypts all information entered in the secure e-pledge form. 
 
 WNYC.ORG links to a wide variety of other unaffiliated sites. We are not responsible for the privacy policies of those other sites or how they treat information about their users.
 
-Privacy Policy for The Great Escape Giveaway:  
-All donors who provide information to WNYC on the secure e-pledge form will be entered in the Lincoln Great Escape Giveaway. This information will only be used by WNYC subject to WNYC's privacy policy and will be included in the winner selection process. The information from giveaway entrants who do not e-pledge will be included in the winner selection process and will be shared with Lincoln; however, there is an option on the entry form to refuse future contact. The information from those who register for a test drive through the printable form will also be made available to Lincoln.
-
 WNYC Radio  
 1 Centre Street  
 New York, NY 10007
-
-We can be reached via e-mail at **[webproducer@wnyc.org](maolto:webproducer@wnyc.org)**
 
 or you can reach us by telephone at 212 669 3333
 
