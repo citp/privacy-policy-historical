@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cari.com.my privacy policy that was archived on 2000-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001020122305id_/http%3A//www.cari.com.my/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.com.my privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216204958id_/http%3A//www.cari.com.my/privacy_policy.php) for the most accurate reproduction.*
 
-# CARI's Online Privacy Policy
+# Malaysia? = CARI !!!
 
 **CARI's Online Privacy Policy**
 
@@ -32,7 +32,7 @@ CARI websites may use cookies for variousreasons. Cookies enable us to provide y
 
 CARI also uses cookies when you register forone of our web programs. In this situation, a cookie will storeuseful information that enables our website to remember you whenyou return to visit us. 
 
-Cookies from CARI websites can only be read byCARI websites. If you choose to disable cookies in your browser,you can still access most of our websites. CARI works with athird party that serves ads to this site. To find out more abouthow Flycast manages the privacy of information in conjunctionwith serving ads on this site, please go to Flycast
+Cookies from CARI websites can only be read byCARI websites. If you choose to disable cookies in your browser,you can still access most of our websites. This site, www.cari.com.my, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy .](http://www.engage.com/privacy)
 
 CARI content providers, advertisers andpartners 
 
