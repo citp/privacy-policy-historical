@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606021458id_/http%3A//www.thebodyshop.co.uk/global/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802152202id_/http%3A//www.thebodyshop.co.uk/global/legal/privacy.asp) for the most accurate reproduction.*
 
 # The Body Shop - Privacy Policy
 
