@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407200340id_/http%3A//www.speedguide.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207065459id_/http%3A//www.speedguide.net/privacy.shtml) for the most accurate reproduction.*
 
 # SpeedGuide.net - Copyright Information, Privacy Policy, Terms of Use
 
