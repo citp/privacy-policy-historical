@@ -1,26 +1,20 @@
-> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603124652id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205011557id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Piano World
 
   
 [](http://www.pianoworld.com/)SM
 
-**Browse  
-Piano World**  
+**Browse Piano World**  
 (Choose and click GO)
 
-[](http://www.pianosupplies.com/)   
-Visit our online store [PianoSupplies.com](http://www.pianosupplies.com/)  
-Benches - Lamps - Cushions - Toy Pianos - Music Stands   
-Metronomes - Tuning Equipment - More
-
-Have your own web site? Check out our affiliate program. 
-
-  
 [](http://www.sheetmusicplus.com/a/featured.html?id=16685)
 
-Where musicians shop for keyboards  
-[](http://service.bfast.com/bfast/click?bfmid=5607334&siteid=29777701&bfpage=homepage_text)
+[ ](http://www.dpbolvw.net/click-1527615-10366684)
+
+[ ](http://www.tkqlhce.com/n9121mu2-u1HJNKPOJNHJILORIQQ)
+
+[](http://www.qksrv.net/click-1527615-1925266)
 
 [ ](http://www.amazon.com/exec/obidos/ASIN/9076192367/allaboutpianos)
 
@@ -52,8 +46,8 @@ Privacy Policy - Piano World
 >   * When you **enter a contest** or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
 >   * If you **place an ad** with us, we may additionally ask for your phone number, however you will have the option of requesting that we do not post your phone number in your ad. We do not recommend posting your address unless it is a business ad. 
 >   * When you **place an order** , we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order. Any credit card or check information is strictly for the use of the processing companies that handle this part of the transactions for us. We do not keep any credit card or check data on our own computers and we never share this information with anyone else. 
->   * We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you'll find valuable. We will not abuse this privilege. These announcements currently only go out about 2 or 3 times a year. If you never want to receive any announcements or special offers from us, send a e-mail message to [never@pianoworld.com](mailto:never@pianoworld.com) . (If you use more than one e-mail account with Piano World, send this message from each e-mail account you use.) 
->   * If you would like to keep up with what is happening in the piano industry and on the Piano World Web sites, please [subscribe](https://web.archive.org/web/20040603124652id_/http%3A//www.pianoworld.com/subscribe.htm) to our free monthly newsletter, "In-Tune" the newsletter for piano lovers. 
+>   * We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you'll find valuable. We will not abuse this privilege. These announcements currently only go out about 2 or 3 times a year. If you never want to receive any announcements or special offers from us, send a e-mail message to [webmaster@pianoworld.com](mailto:webmaster@pianoworld.com?Subject=No%20Emails%20from%20Piano%20World) . (If you use more than one e-mail account with Piano World, send this message from each e-mail account you use.) 
+>   * If you would like to keep up with what is happening in the piano industry and on the Piano World Web sites, please [subscribe](https://web.archive.org/web/20041205011557id_/http%3A//www.pianoworld.com/subscribe.htm) to our free monthly newsletter, "In-Tune" the newsletter for piano lovers. 
 > 
 
 > 
@@ -79,7 +73,7 @@ Privacy Policy - Piano World
 > 
 > Questions or comments? 
 > 
-> If you have any questions or comments about our policies, please feel free to [Contact](https://web.archive.org/web/20040603124652id_/http%3A//www.pianoworld.com/contact.htm) us. 
+> If you have any questions or comments about our policies, please feel free to [Contact](https://web.archive.org/web/20041205011557id_/http%3A//www.pianoworld.com/contact.htm) us. 
 > 
 > Purchase Policy 
 > 
