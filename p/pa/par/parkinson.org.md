@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2000-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001017204932id_/http%3A//www.parkinson.org/disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004152541id_/http%3A//www.parkinson.org/disclaimer.htm) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
-
-**~||{   _N_ _ational __P_ _arkinson __F_ _oundation  _ }||~** **~||{ _  A World Wide Organization_  }||~**
 
 **NATIONAL PARKINSON FOUNDATION, INC. PRIVACY POLICY**
 
@@ -15,6 +13,28 @@ At those portions of our Web site where we provide you with the option to input 
 
 **Collective/Aggregate Data**  
 NPF Web sites may also collect information from you that is not personally identifiable. For example, we might track information about the date and time visitors access our site, the type of web browser they used, and the Web sites from which they connected to our site. Our Web sites collect this information by depositing certain bits of information called "cookies" in a visitor's computer. This technology does not collect an individual visitor's personally identifiable information, rather this information is collected in an aggregate form. The "cookies" can tell us how and when pages in a Web site were visited and by how many people. This aggregate information will enable us to improve our Web sites to serve and inform you better. It also may allow you to shortcut accesses to point of interest on our Web sites when you reenter our system. Attaching this device to your system has no effect on how it performs.
+
+**Use of Communications Forums**  
+the National Parkinson Foundation website has, will, or may contain threaded discussions, chat rooms, list servers and other communications forums. By participating in any of these, users agree to send and receive messages that are both proper and related to the forum topic. The following actions are unacceptable practices:  
+
+
+  * Defaming, harassing, threatening, or otherwise violating the legal rights of others, including their privacy.
+
+  * Misrepresenting one's person, background, or character; 
+
+  * Posting any defamatory, infringing, obscene, false, or unlawful material; 
+
+  * Selling, advertising, or exchanging any goods or services unless expressly allowed; 
+
+  * Posting any copyrighted material owned by a third party.
+
+
+
+
+The National Parkinson Foundation may alter or remove any messages or postings to our site which we deem inappropriate or offensive.
+
+Also, you agree to use the National Parkinson Foundation website at your own risk. While championing the proper use of such forums, The National Parkinson Foundation cannot guarantee that violations of the above code will not occur.  
+
 
 **Links To Other Sites**  
 As a resource to our visitors NPF may provide links to other Web sites. We try to carefully choose Web sites which we believe are useful and meet our high standards for the accuracy and utility of information. However, because Web site design and content can change so quickly we cannot guarantee the standards of every Web site to which we link. Likewise, we are not responsible for the content of any non NPF site. We also cannot guarantee the privacy policies of these other sites and suggest you check the privacy policies of those sites directly. 
@@ -31,4 +51,4 @@ All information transmitted to this NPF Web site is secure to the extent possibl
 **Changes**  
 Any changes to this privacy policy will be communicated promptly at this location. Please check our privacy page periodically to review any changes that may have been made. 
 
-**Thank you for visiting the NPF Web site. WE value your interest and ideas. If you have any comments or concerns regarding the use of information provided by NPF via an Internet site please[contact us](https://web.archive.org/web/20001017204932id_/http%3A//www.parkinson.org/contact.htm).**
+**Thank you for visiting the NPF Web site. WE value your interest and ideas. If you have any comments or concerns regarding the use of information provided by NPF via an Internet site please[contact us](https://web.archive.org/web/20021004152541id_/http%3A//www.parkinson.org/contact.htm).**
