@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603041126id_/http%3A//allmusic.com/com/amg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201234401id_/http%3A//allmusic.com/com/amg/privacy.html) for the most accurate reproduction.*
 
 # All Media Guide Privacy Policy
 
@@ -15,6 +15,8 @@ The All Media Guide sites contain links to other sites. All Media Guide is not r
 
 _**Advertising & Cookies**_   
 All Media Guide uses an outside ad company to display ads on our site. While we do not use cookies on our sites, ads from advertisers may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. Users will be able to use all features of the All Media Guide network whether or not they have disabled cookies on their system.
+
+The privacy policy of 24/7 Media, All Media Guide's advertising representation firm, can be viewed [here](http://www.247media.com/privacy.html). 
 
 _**Consent**_   
 By using this site, you signify your consent with the All Media Guide Online Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
