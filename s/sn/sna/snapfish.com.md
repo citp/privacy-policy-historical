@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618035745id_/http%3A//www.snapfish.com/privacy/t_%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810232538id_/http%3A//www.snapfish.com/privacy/t_%3D0) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
@@ -6,7 +6,7 @@ Snapfish takes your privacy very seriously. This Privacy Policy describes exactl
 
 Snapfish is a member of TRUSTe. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. TRUSTe's certification covers the website's gathering and dissemination of information -- not any software, services or products. Because our company is completely committed to respecting and protecting your privacy, we have agreed to disclose our customer information practices and to have our privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact our Customer Service department at [service@snapfish.com](mailto:service@snapfish.com?subject=R03:%20My%20questions). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, contact TRUSTe at <http://www.truste.org/users/users_watchdog_intro.html> TRUSTe will then serve as a liaison with Snapfish to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact our Customer Service department at [service@snapfish.com](mailto:service@snapfish.com?subject=R03:%20My%20questions). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, contact TRUSTe at <http://www.truste.org/watchdog.html> TRUSTe will then serve as a liaison with Snapfish to resolve your concerns. 
 
 By using our Service, you consent to the collection and use of information in the manner described below. If we decide to change our privacy practice, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Changes to our policy will be prospective only. Please check this page from time to time for changes to make sure you are aware of our latest privacy practices. 
 
@@ -100,4 +100,10 @@ _Links from the Snapfish Site:_ If you click away from Snapfish to visit the sit
 
 _Notification of Change:_ If we are going to use your personally identifiable information in a manner that is materially different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-_Contacting Snapfish:_ If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at [service@snapfish.com](mailto:service@snapfish.com?subject=R03:%20My%20questions). 
+_Contacting Snapfish:_ If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at: 
+
+Sarah Bacon  
+(415) 820-3888  
+[service@snapfish.com](mailto:service@snapfish.com)  
+731 Market Street, Suite 500  
+San Francisco, CA 94103 
