@@ -1,15 +1,436 @@
-<!--The following is the downloaded HTML source of the utexas.edu privacy policy that was archived on 2001-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011216191725id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utexas.edu privacy policy that was archived on 2002-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602203957id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>UT Austin Privacy Statement</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en"><head>
+<title>Privacy Policy</title>
+
+<link href="/css/second_level.css" type="text/css" rel="stylesheet">
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<!-- Dublin Core Metadata (DC) -->
+
+<!--  use organization name here -->
+<meta name="DC.Creator" content="">
+
+<!-- for the name of the resource assigned by the publisher -->
+<meta name="DC.Title" content="">
+
+<!-- topic of the resource, keywords and/or descriptive phrases --> 
+<meta name="DC.Subject" content="">
+
+<!-- a textual description (abstract) of the content of the page -->
+<meta name="DC.Description" content="">
+
+<!-- name of agency responsible for making the resource available -->
+<meta name="DC.Publisher" content="">
+
+<!-- creation date of this page -->
+<meta name="DC.Date" content="">
+
+<!-- type of content, i.e., text, images, to assist someone's 
+understanding of what kind of hardware/software would be required
+to serve this page -->  
+<meta name="DC.Type" content="">
+
+<!-- URL for page -->
+<meta name="DC.Identifier" content="">
+
+<!-- language of the content -->
+<meta name="DC.Language" content="">
+
+<!-- a link to publishers copyright statement if applicable -->
+<meta name="DC.Rights" content="">
+
+<!-- Local Altavista search engine does not support Dublin Core metadata
+so these meta tags are to help Altavista -->
+
+<meta name="keywords" content="">
+<meta name="description" content="">
+
 </head>
 
-<body bgcolor="#FFFFFF">
+<body text="#000000" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 
-<h2>The University of Texas at Austin </h2>
-<h2>Web Privacy Statement </h2>
+<!-- the "include" below inserts header graphics at the top of the page, so please do not remove it -->
+
+  <style>
+<!--
+.currentmenu { background-color: #EEEEEE;
+              color: #000000;
+              font-weight: bold;
+}
+-->
+</style>
+
+<script language="Javascript">
+<!--
+
+// Three functions to build side nav, cookie crumbs and
+// determine directory depth
+
+// the BuildCookieCrumbs and BuildSideNav function are passed
+// arrays from second level pages, those arrays are 
+// defined normally in a file called sitedata.html which lives
+// in second level sites and in turn is included in all of 
+// the pages in the second leve site
+// these arrays include the pages titles and page urls for 
+// the second level sites
+// looks like this
+// durls[0] = 'index.html'
+// durls[1] = 'arts.html'
+// dts[0] = 'Around Austin'
+// dts[1] = 'Arts &amp; Entertainment'
+
+// The DirectoryDepth function below determines the number of / characters
+// in the passed file names to determine how much up the directory
+//  hierarchy to link to with cookie crumbs and side navigation
+// this function was needed to support second level side navigation
+// that might be one level deeper (i.e. /austin/dining/index.html
+// as opposed to /austin/dining.html
+
+function DirectoryDepth(x,ns) {
+
+// x is the name of the file being processed
+// for example index.html or dining/index.html
+// for each / in the file name an additional ../ gets added to ns variable
+
+// first handle case where file name is absolute (leading /)
+if (x.charAt(0) == "/") {
+   return ns;
+}
+
+// next handle case where the URL is off site on another server
+// i.e (contains http:)
+
+if (x.indexOf("http://") != -1) {
+   return ns;
+}
+
+// If if did not begin with / or if it's not off site
+// then we need to determine how far down it is relative to the starting path
+
+for (j=0; j<=x.length; j++) {
+    if (x.charAt(j) == "/") {
+       ns = ns + "../";
+    }
+  }
+return ns;
+}
+
+
+function BuildCookieCrumbs(fn,titles,path) {
+
+// The home variable is set to include a link back to the home page
+// and the words UT Home, this is static
+
+var home = "&nbsp;&nbsp;<a href='/'>UT Home</a> -&gt;&nbsp;";
+
+// fn is an array of filenames for the site
+// titles is an array of titles for the site
+// p is the directory path for the site
+// all three of these are passed from second level pages
+// and the arrays are specified in sitedata.html in the second
+// level site
+
+
+// the pathname of the current page
+var CurrentPage = window.location.pathname
+
+// go through all of the elements of the filenames array
+
+// the pathname of the current page
+var CurrentPage = window.location.pathname
+
+for (var j=0; j<fn.length; j++) {
+
+// if the path + filename is the same as the currentpage url  or the 
+// url ends in / then we know we are looking at the index of the second
+// level site and we can write the cookie crumb 
+
+     if (((path + fn[j]) == CurrentPage && j==0) || (j == 0 && CurrentPage.lastIndexOf("/")+1 == CurrentPage.length)) {
+          document.write(home + titles[j]);
+      }
+
+      // now we need to test to see if the path + filename equals the current
+// page url and we know we are no longer at the main page because we are
+// beyond the first level of the array j >=1
+     
+     if ((path + fn[j]) == CurrentPage && j>=1) {
+           
+// now we need to test to see if the page we are matching
+// is one directory deeper, if so we need to make some
+// adjustments with the URLs by calling the DirectoryDepth 
+// function and adding the appropriate number of .. in the url
+
+       if (CurrentPage.lastIndexOf("/") > path.lastIndexOf("/")) {
+             uol = DirectoryDepth(fn[j],"") + fn[0];
+             
+             // write cookie crumb, uol variable contains
+             // proper number of ..
+             document.write(home + "<a href='" + uol + "'>" + titles[0] + "</a> -&gt;&nbsp;" + titles[j]);
+         } else {
+             // we are not one directory deeper so we can write
+             // cookie crumb normally
+             document.write(home + "<a href='" + fn[0] + "'>" + titles[0] + "</a> -&gt;&nbsp;" + titles[j]);
+         }
+      }
+
+  
+  }
+
+}
+
+function BuildSideNav(fn,titles,path) {
+
+// this function basically builds the sidenav bar in
+// multiple pages within a second level site
+
+// Within the sidenav the current page will be bold, gray and not linked
+// All other pages in side nav will be linked
+
+// fn is an array of URLs for the site
+// titles is an array of titles for the site
+// path is the directory path for the site
+// all three of these are passed from second level pages
+// and the arrays are specified in sitedata.html in the second
+// level site
+
+// need line feed on side nav to create some space
+// this should probably be in second level html doc
+// rather than in Javascript function
+
+document.write("<br>"); 
+
+var CurrentPage = window.location.pathname;
+
+for (var j=0; j<fn.length; j++) {
+   if ((path + fn[j]) == CurrentPage) {
+     
+      // CurrenPage matches current filename in array 
+      // so just write document title with no links
+      document.write("<p class=\"currentmenu\">" + titles[j] + "</p>");
+        
+    } else {
+        // the filename does not match the CurrentPage so we 
+        // will want to write the filename in the sidenav and make it a link
+
+        if (CurrentPage.lastIndexOf("/")+1 == CurrentPage.length && fn[j] == 'index.html') {
+             
+          // Match directory index 
+       document.write("<p class=\"currentmenu\">" + titles[j] + "</p>");
+     } else {
+     
+      // No match so write document title and link to document
+      // But first we have to handle directory depth
+
+       if (CurrentPage.lastIndexOf("/") > path.lastIndexOf("/") ) {
+          uol = DirectoryDepth(fn[j],"") + fn[j];
+          document.write("<p><a href=" + uol + ">" + titles[j] + "</a></p>");
+      } else {
+
+     
+        document.write("<p><a href=" + fn[j] + ">" + titles[j] + "</a></p>");
+
+      }
+   }
+  }
+
+
+}   // end for loop
+
+
+   document.write("<img height=10 src=\"/graphics/transparent.gif\" width=1 alt=\"\">");
+   document.write("<img height=1  src=\"/graphics/small_black_line_horz.gif\" width=100 alt=\"\">");
+
+
+}  // end BuildSideNav Function
+
+function quickNav (form) {
+
+itemNo = form.navMenu.selectedIndex; // get the index number from the select array
+ url = form.navMenu.options[itemNo].value; // the value of the selected element
+
+ 
+ if ( url == "invalid") {  // check the value
+   return false;  // if its a bad url, cancel form submission
+  exit;
+ }
+
+ else {
+   form.submit();
+   return true;
+ }
+
+}
+
+
+
+// -->
+</script>
+
+<form action="http://www.utexas.edu/local/cgi-bin/dropmenu" enctype="x-www-form-encoded" method="post" onsubmit="quickNav(this); return false;"> 
+
+<table cellspacing="0" cellpadding="0" width="730" border="0">
+
+    <tbody><tr> 
+      <td valign="bottom" height="13"><a href="http://www.utexas.edu/"><img height="31" alt="The University of Texas at Austin" src="/graphics/wordmark_tower.gif" width="502" border="0"></a></td>
+
+      <td valign="bottom" nowrap="" align="left" height="13" colspan="2">
+      <label for="nav"><img height="1" alt="Quick Links:" src="/graphics/transparent.gif" width="1" border="0"></label> 
+            <select class="dropmenu" id="nav" name="navMenu">
+          <option value="invalid">Quick Links</option>
+          <option value="http://www.utexas.edu">UT Home</option>
+
+	  <option value="invalid">---------------</option>
+
+	  <option value="http://www.utexas.edu/friends">Alumni &amp; Friends</option>
+	  <option value="http://www.utexas.edu/student">Current Students</option>
+	  <option value="http://www.utexas.edu/faculty">Faculty</option>
+          <option value="http://www.utexas.edu/visitors">Parents &amp; Visitors</option>
+	  <option value="http://www.utexas.edu/prospective">Prospective Students</option>
+          <option value="http://www.utexas.edu/staff">Staff</option>
+
+	  <option value="invalid">---------------</option>
+         
+          <option value="http://www.utexas.edu/welcome">About UT</option>
+          <option value="http://www.utexas.edu/academic">Academics</option>
+          <option value="http://www.utexas.edu/austin">Around Austin</option>
+          <option value="http://www.utexas.edu/arts">Arts &amp; Entertainment</option>
+          <option value="http://www.utexas.edu/athletics">Athletics</option>
+	  <option value="http://www.utexas.edu/industry">Business &amp; Industry</option>
+          <option value="http://www.utexas.edu/outreach">Community Outreach</option>
+          <option value="http://www.utexas.edu/computer">Computing</option>
+          <option value="http://www.utexas.edu/conted">Continuing &amp; Distance Ed.</option>
+          <option value="http://www.utexas.edu/employment">Employment</option>
+	  <option value="http://www.utexas.edu/ogs">Graduate Studies</option>
+	  <option value="http://www.utexas.edu/international/ogs">International Programs</option>
+	  <option value="http://www.lib.utexas.edu">Libraries</option>
+          <option value="http://www.utexas.edu/research">Research</option>
+
+          <option value="http://www.utexas.edu/do">Support UT</option>
+
+	  <option value="invalid">---------------</option>
+
+	  <option value="http://www.utexas.edu/calendars">Calendars</option>
+	  <option value="http://www.utexas.edu/maps">Campus &amp; Parking Maps</option>
+	  <option value="https://utdirect.utexas.edu/utdirect">UT Direct</option>
+	  <option value="http://directory.utexas.edu">UT Directory</option>
+	  <option value="http://www.utexas.edu/directory/offices">UT Offices A-Z</option>
+	  <option value="http://www.utexas.edu/search">UT Search</option>
+	  <option value="http://www.utexas.edu/sitemap">UT Site Map</option>
+        </select>
+        <input type="image" height="18" alt="go" width="24" src="/graphics/go.gif" align="bottom" border="0" name="image">
+        <a href="#maincontent"><img height="1" alt="skip to main content" src="/graphics/transparent.gif" width="1" border="0"></a></td>
+    </tr>
+</tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="730" border="0">
+
+   <tbody><tr> 
+      <td nowrap="" height="10"><img height="25" alt="" src="graphics/header.gif" width="502" border="0"><img height="25" alt="" src="/graphics/grey_bar_space.gif" width="180"><img height="25" alt="" src="/graphics/grey_end.gif" width="47"></td>
+    </tr>
+
+</tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="730" border="0">
+    <tbody><tr> 
+      <td class="navbar" valign="center" nowrap="" bgcolor="#cc5500" height="18">&nbsp;| 
+        <a href="http://directory.utexas.edu/">UT
+      Directory</a> | <a href="http://www.utexas.edu/directory/offices/">UT
+      Offices A-Z</a> 
+        | <a href="http://www.utexas.edu/maps/">Campus &amp;
+	Parking 
+        Maps</a> | <a href="http://www.utexas.edu/sitemap/">UT Site Map</a>	
+        | <a href="/calendars/">Calendars</a>
+      | <a href="https://utdirect.utexas.edu/utdirect/">UT Direct</a> | <a href="http://www.utexas.edu/search/">UT Search</a>
+      |</td>
+      <td colspan="2"><img height="18" alt="" src="/graphics/orange_nav_end2.gif" width="92"></td>
+          </tr>
+  </tbody></table>
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<!-- The following include is used on second level sites to create
+cookie crumbs dynamically. Uncomment the include 
+if you want to implement this function.
+This template contains a function call 
+(BuildCookieCrumbs) which passes
+the data defined in this include to functions
+that are defined in the header include
+these function will build cookie crumbs
+dynamically from the data in this file
+
+Note that this file only defines data which in turn
+gets passed to BuildCookieCrumbs depending on whether 
+this function is uncommented in the second level template
+-->
+
+<!-- Begin Cookie Crumbs -->
+<div class="trail">
+
+<!-- if you want to have cookie crumbs built dynamically by Javascript
+functions in header and sitedata make sure the sitedata include 
+is uncommented above and uncomment the BuildCookieCrumbs function
+below by removing the // at the beginning.  Otherwise code cookie
+crumbs manually before the script tag.  Cookie crumb sample code looks
+like this:
+&nbsp;&nbsp;<a href="/">UT Home</a> -&gt; ThisPageTitle
+-->
+&nbsp;&nbsp;<a href="/">UT Home</a> -&gt; Privacy Policy
+<script language="javascript">
+<!--
+// Do not uncomment BuildCookieCrumbs function unless sitedata.html file
+// is included above
+
+// BuildCookieCrumbs(durls,dts,dp);
+// -->
+</script>
+
+<!-- if Javascript is turned off a link to UT Home will be created
+below
+ -->
+<noscript>
+&nbsp;&nbsp;<a href="/">UT Home</a>
+</noscript>
+
+</div>
+<!-- end cookie crumbs -->
+
+<!-- main table -->
+<table cellspacing="0" cellpadding="0" width="90%">
+  <tbody><tr> 
+    <td class="sidenavbar" align="right" valign="top" rowspan="2" width="30"> 
+
+      <!-- If you need to include the UTDirect logo and link on your page, 
+     uncomment the p tag lines below -->
+      <!--
+<p align="center">
+<a href="https://utdirect.utexas.edu/"><img
+src="/graphics/UTdirect.gif" alt="UT Direct" border="0"></a> 
+</p>
+-->
+      <a name="maincontent"></a> </td>
+    <td class="content" rowspan="2" valign="top"><br>
+<h1>Web Privacy Policy</h1>
 <p>The University of Texas at Austin is committed to ensuring the privacy and accuracy of your confidential information.  We do not actively share personal information gathered from our Web servers.  However, because The University of Texas at Austin is a public institution, some information collected from the UT Austin Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.</p>
 
 <p>As part of our commitment to maintain the privacy of our Web users, The University of Texas has developed this privacy statement. The statement has two purposes:
@@ -17,21 +438,25 @@
 <li>To educate users about privacy issues
 </li><li>To inform users about specific privacy policies and guidelines employed at The University of Texas at Austin.
 </li></ol>
-<p>The University of Texas at Austin also complies with the Family Educational   Rights and 
-Privacy Act (FERPA), which prohibits the release of education records without student 
-permission. For more details on FERPA, currently enrolled students  should see the <a href="http://www.utexas.edu/student/registrar/catalogs/gi01-02/app/appc09.html">University's 
-General Information Catalog</a>. Although FERPA regulations apply only to UT Austin students, The University of Texas is equally commited to protecting the privacy of all visitors to our Web site. </p>
+<p>The University of Texas at Austin also complies with the Family Educational   Rights and Privacy Act (FERPA), which prohibits the release of education records without student permission. For more details on FERPA, currently enrolled students  should see the <a href="http://www.utexas.edu/student/registrar/catalogs/gi01-02/app/appc09.html">University's General Information Catalog</a>. Although FERPA regulations apply only to UT Austin students, The University of Texas is equally commited to protecting the privacy of all visitors to our Web site. </p>
 
 <!--
 <h3>Background</h3>
 <p>As you browse the Web, information about who you are, where else you have been on the Web, and perhaps even what your preferences are follows you around.
 -->
 
-
-
 <hr>
 <p>The University of Texas at Austin Web consists of hundreds of Web servers. 
-  Some servers hosted by The University of Texas at Austin may  adopt different privacy statements as their specific needs require. If another UT Austin Web server has a privacy  statement that is different from this statement, that policy must be approved by the University Webmaster, and it must be posted  on their site. However, those sites cannot adopt a privacy statement that in any way supersedes federal or state regulations.</p>
+  Some servers hosted by The University of Texas at Austin may  adopt different privacy statements as their specific needs require. If another UT Austin Web server has a privacy  statement that is different from this statement, that policy must be approved by the ITS Information Security Office, and it must be posted  on their site. However, those sites cannot adopt a privacy statement that in any way supersedes federal or state regulations.</p>
+
+<p>Approved Departmental Privacy Policies at UT Austin:
+</p><ul>
+<li><a href="http://www.cs.utexas.edu/home/department/privacy.html">Computer Science Department</a></li>
+</ul>
+
+<p></p>
+
+
 <p>The University of Texas web site contains links to hundreds of external Web sites. The University is not responsible for the privacy practices or the content of the external Web sites we link to.</p>
 <h3>Information We Gather</h3>
 
@@ -56,8 +481,8 @@ General Information Catalog</a>. Although FERPA regulations apply only to UT Aus
 <p>The University does its best to ensure that the personal information we have about you is accurate. Users with a UT EID can check and update personal information such as their address and e-mail address at <a href="https://utdirect.utexas.edu/utdirect/">UT Direct</a>.</p>
 <p>Although no computer system is 100% secure, the University of Texas at Austin has deployed extensive security measures to protect against the loss, misuse, or alteration of the information under our control. These  security measures and our systems are audited by certified independent security specialists. </p>
 <h3>E-commerce </h3>
-<p>Several sites within The University of Texas at Austin enable you to pay for 
-  products or services online with a credit card. Unless otherwise noted, these 
+<p>Several sites within The University of Texas at Austin enable you to pay for
+  products or services online with a credit card. Unless otherwise noted, these
   transactions are encrypted. It is University policy that confidential information you enter in the transaction is used only for the purposes described in that transaction, unless an additional use is specifically stated on that site.</p>
 
 <h3>Sharing of Information </h3>
@@ -75,23 +500,25 @@ General Information Catalog</a>. Although FERPA regulations apply only to UT Aus
 <h3>Open Records Requests</h3>
 <p>Except for educational records governed by FERPA, all information collected from the UT Austin Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act.</p>
 
+<h3>Texas Public Information Act</h3>
+<p>The Texas Public Information Act, with a few exceptions, gives you the right to be informed about the information that The University of Texas at Austin collects about you. It also gives you the right to request a copy of that information, and to have The University correct any of that information that is wrong. You may request to receive and review any of that information, or request corrections to it, by contacting the University's Public Information Officer, Office of Financial Affairs, PO Box 8179, Austin, Texas, 78713 (email:cfo@www.utexas.edu).</p>
+
 <h3>Questions</h3>
-<p> If you have questions about this privacy statement or you believe that your personal information has been released without your consent send e-mail to www@www.utexas.edu. </p>
-<p>This policy has not received final approval by the Information Technology Coordinating Council (ITCC) and is subject to change.</p>
-<hr>
-<p>
-<font size="2">
-</font></p><address><font size="2">17 May 2001<br>
-<a href="/teamweb/">Teamweb</a> at <a href="/">UT Austin</a>
-</font></address>
-<p></p>
+<p> If you have questions about this privacy statement or you believe that your personal information has been released without your consent send e-mail to security@its.utexas.edu.</p>
+    </td>
+</tr></tbody></table>
 
+<!-- end main table -->
+<br><br>
+<!-- the "include" below inserts the footer at the bottom of the page, so please do not remove it -->
 
-
-
-
-
-
+<div class="signature">
+<img height="1" src="/graphics/black_line_horz.jpg" width="740" alt=""><br>
+&nbsp;&nbsp;Updated 
+2002 April  8<br>
+&nbsp;&nbsp;Comments to security@its.utexas.edu
+<br><br>
+</div>
 
 
 
