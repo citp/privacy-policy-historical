@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003193145id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp%3Flid%3Dindex.jsp%3Abnav%3Aloc%3A0%3Aprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409173115id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp%3Flid%3Dindex.v400.jsp%3Abnav%3Aloc%3A0%3Aprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 **At Hotwire, we are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and purchases on our site.**
 
-This privacy statement discloses the privacy practices for [www.hotwire.com](http://www.hotwire.com/index.jsp) (including www.hotwire.cruiseonly.com and www.hotwiresavingsclub.com), including:
+This privacy statement discloses the privacy practices for [www.hotwire.com](http://www.hotwire.com/index.jsp) (including www.cruises.hotwire.com and www.hotwiresavingsclub.com), including:
 
 |  •  | What information we collect from you  
 ---|---  
@@ -108,7 +108,7 @@ At Hotwire, we often receive testimonials and comments from customers who have h
 Children are not eligible to use our services and we ask that minors (under the age of 18) do not submit any personal information to us. Hotwire does not knowingly collect personal information from or sell to anyone under the age of 18.
 
   
-Hotwire collects, processes, stores, discloses and disposes of personal information that you submit to us in accordance with applicable United States law. If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information, as discussed in this privacy policy, outside your resident jurisdiction. In addition, we may store such personal information in the United States, outside your resident jurisdiction. Please be aware that United States law may offer different levels of protection for personal information that may be available in your country.
+Hotwire collects, processes, stores, discloses and disposes of personal information that you submit to us in accordance with applicable United States law. If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information, as discussed in this privacy policy, outside your resident jurisdiction. In addition, we may store such personal information in the United States, outside your resident jurisdiction. Please be aware that United States law may offer different levels of protection for personal information than may be available in your country.
 
   
 If we intend to use any personally identifiable information in a manner different than what is stated at the time of data collection, we will notify you via email and give you the opportunity to opt-out. In addition, if we make any material changes in our privacy practices, we will post a notice on our Web site advising users of the change.
