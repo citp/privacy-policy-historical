@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the statestreet.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603232425id_/http%3A//statestreet.com/utility/privacy_policy_entry.html) for the most accurate reproduction.*
+
+# Privacy and Legal
+
+This Privacy Policy informs you of our commitment to privacy and explains the ways that State Street collects, uses and discloses your personal and non-personal information when you visit this Web site. By visiting this site, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. 
+
+State Street reserves the right to modify the terms and conditions of this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy on this Web site. You agree to review this Privacy Policy periodically to be aware of such modifications and your continued use of the Web site following the posting of any modified terms shall be deemed your conclusive acceptance of the modified Privacy Policy. If you do not agree with any modifications posted by State Street, your sole and exclusive remedy is to discontinue use of this Web site.
+
+Collecting and Using Information
+
+When you visit and use this Web site, information is collected from you automatically through the use of "cookies." Cookies are small data files that contain a unique identification number stored on your computer. Our Web site sends cookies to your computer's browser to allow us to better understand who is coming to our site for the first time or is a returning visitor. When you visit this Web site, cookies are only used to record your preferences and choices as you navigate through the site. This information helps us to customize the delivery of our Web site content and make our Web site more useful to our visitors. The information collected through cookies typically is stored only for the length of time that you are connected to this Web site. Certain information, however, may in some instances be stored in an encrypted cookie that lasts longer than the duration of the visit to this Web site. 
+
+The use of cookies is common on the Internet and many Web browsers are initially configured to accept cookies automatically. If you would prefer not to accept cookies, you can set your Web browser to notify you when your computer is receiving a cookie or to refuse cookies automatically. To readjust your Web browser's cookie options, please refer to the instruction documentation of your particular browser, or seek online assistance.
+
+Other than the collection of information as described above, we will not collect personal information about you when you visit our Web site, unless you choose to directly provide such information to us when contacting us via email. We will use this personal information to process your request and, when applicable, respond to you. By contacting us in this manner, you consent to the collection and use of your personal information for purposes of responding to your request. If you provide personal information via email to apply for employment with State Street, you consent to the collection, use and retention for a reasonable period of time of your personal information for the purposes of considering you for the possibility of present or future employment at State Street. We will not sell, rent, give or otherwise disclose your personal information to anyone outside of State Street or its affiliated companies within the State Street group of companies, without your consent, unless required to do so in accordance with law, regulation or legal process. 
+
+Protecting Information
+
+We strive to protect all personal information we receive online with appropriate safeguards and security measures. However, the Internet is not a secure medium and neither the privacy of your communications, nor visits to this Web site, can be ensured. Accordingly, by visiting this Web site, you acknowledge and agree that State Street does not guarantee the security of any information you transmit to us, and that you do so at your own risk. 
+
+Providing Access and Maintaining Accuracy
+
+We will provide access to the personal information we collect and retain about you and use all reasonable efforts to maintain the accuracy of your personal information. If you have any questions or concerns about this Privacy Policy or wish information about how to access any of your personal information held at State Street, please email us at [information@statestreet.com](mailto:information@statestreet.com). You may also click the Contact Us button in the upper navigation bar.
