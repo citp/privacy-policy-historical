@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinerytrader.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010182934id_/http%3A//www.machinerytrader.com/info/privacy.asp%3Fguid%3Dp59i9w3o) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinerytrader.com privacy policy that was archived on 2003-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030509075615id_/http%3A//www.machinerytrader.com/info/privacy.asp%3Fguid%3Dfibxzwjk) for the most accurate reproduction.*
 
 # Machinery Trader Privacy Policy
 
@@ -10,4 +10,4 @@ MachineryTrader.com understands the concerns people have about privacy and safet
 3. | MachineryTrader.com uses a secure firewall to keep out unauthorized users and ensure the integrity of our systems. We are vigilant about protecting our site from unwanted intrusions.  
 4. | MachineryTrader.com does **not** sell, trade, or otherwise release any personal information on our site visitors or subscribers. We respect your desire for privacy and zealously protect any information you give us. Your information is safe with us!  
   
-If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](https://web.archive.org/info/customerservice.asp?guid=nxw5v3u0). Thank you for visiting our site.
+If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](https://web.archive.org/info/customerservice.asp?guid=9obiso40). Thank you for visiting our site.
