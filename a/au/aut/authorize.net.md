@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602011610id_/http%3A//authorizenet.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015431id_/http%3A//authorizenet.com/company/privacy.php) for the most accurate reproduction.*
 
 # Authorize.Net 2003 - About the Company
 
@@ -6,9 +6,11 @@
 
 **Privacy Statement for Authorize.Net**
 
-Authorize.Net takes privacy and data protection issues seriously. We have designed this Privacy Policy to explain how we handle personally identifiable information collected from merchants who register for services and submit information to Authorize.Net through the Internet.
+Authorize.Net takes privacy and data protection issues seriously. We have designed this Privacy Policy to explain how we handle personally identifiable information collected from merchants who register for services and submit information to Authorize.Net through the Internet. 
 
-As the Authorize.Net services evolve, we may revise this policy, so please check back frequently. If you have questions about Authorize.Net privacy practices please contact us at [support@authorize.net](mailto:support@authorize.net).
+As the Authorize.Net services evolve, we may revise this policy, so please check back frequently. If you have questions about Authorize.Net privacy practices please contact us at [support@authorize.net](mailto:support@authorize.net). 
+
+You will receive an autoresponse from us confirming that we have received your email. If you do not receive an autoreponse, please contact Authorize.Net Customer Support by phone or chat. 
 
   * Scope of this Privacy Policy
   * Information Collection and Use
@@ -72,4 +74,4 @@ Authorize.Net is located in the United States. Any information that you provide 
 
 Authorize.Net reserves the right to modify or amend this Privacy Policy at any time and for any reason. If there are material changes to this statement or in how Authorize.Net will use personally identifiable information, Authorize.Net will post notice on the Authorize.Net homepage at www.authorizenet.com prior to implementing the change. If you have additional questions about this Policy, please contact us at [support@authorize.net](mailto:support@authorize.net).
 
-[**Back to Policies & Statements**](https://web.archive.org/web/20030602011610id_/http%3A//authorizenet.com/company/policies.php)
+[**Back to Policies & Statements**](https://web.archive.org/web/20031202015431id_/http%3A//authorizenet.com/company/policies.php)
