@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukzn.ac.za privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607043904id_/http%3A//www.ukzn.ac.za/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukzn.ac.za privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207003445id_/http%3A//www.ukzn.ac.za/privacy/default.asp) for the most accurate reproduction.*
 
 # University of KwaZulu-Natal - Exam Information
 
