@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409192247id_/http%3A//www.kffl.com/company/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206183453id_/http%3A//www.kffl.com/static/privacy.php) for the most accurate reproduction.*
 
-# About KFFL - Privacy Policy
+# KFFL
 
-By using KFFL, you agree to KFFL's Privacy Policy. If you do not agree, we request that you do not visit the KFFL website found at <http://www.kffl.com/> and <http://www.kfflsports.com/>, the NFLnews.com website found at <http://www.nflnews.com/> and MrFootball.com website found at <http://www.mrfootball.com/>. 
+By using KFFL, you agree to KFFL's Privacy Policy. If you do not agree, we request that you do not visit the KFFL website found at http://www.kffl.com/ and http://www.kfflsports.com/, the NFLnews.com website found at http://www.nflnews.com/ and MrFootball.com website found at http://www.mrfootball.com/. 
 
 On the Internet, there is a wealth of information. Unfortunately, at times, it may also contain personal details about you that you don't want everyone to know. Your real name, street address, phone number or email address are at times available on the Internet. KFFL strives to help keep our viewers and customers personal information private while utilizing our services. 
 
@@ -16,12 +16,8 @@ As a user, you have the capability in most Internet browsers to allow or reject 
 
 Advertisers at KFFL and it's various domain names may occasionally supply a cookie to your hard drive. These cookies are not under the control of KFFL and the use of advertising cookies sent by third-party servers is standard in the Internet industry. 
 
-This site, KFFL, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy. 
-
-KFFL, at times, will link to other Internet sites. Sites not found at <http://www.kffl.com/> and <http://www.kfflsports.com/>, <http://www.nflnews.com/> and <http://www.mrfootball.com/> are beyond our control. These links include advertising banners, KFFL's links page, our writer's personal pages and other various internet sites we link to.
+KFFL, at times, will link to other Internet sites. Sites not found at http://www.kffl.com/ and http://www.kfflsports.com/, http://www.nflnews.com/ and http://www.mrfootball.com/ are beyond our control. These links include advertising banners, KFFL's links page, our writer's personal pages and other various internet sites we link to.
 
 Your Acceptance of these Terms. By using KFFL, NFLnews.com or MrFootball.com you signify your agreement to KFFL's Privacy Policy. If you do not agree with this policy, please do not utilize our sites. If you continue to utilize the sites following the posting of changes to KFFL's Privacy Policy terms it will mean you accept those changes. 
 
 KFFL reserves the right to modify its Privacy Policy at any time.
-
-Previous Page
