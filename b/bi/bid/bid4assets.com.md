@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207210553id_/http%3A//www.bid4assets.com/Help/index.cfm%3FfuseAction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402010315id_/http%3A//www.bid4assets.com/Help/index.cfm%3FfuseAction%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Bid4Assets, Government Property Auctions, seized property bidding, Government Assets, Kmart Bankruptcy claim
 
@@ -92,6 +92,6 @@ If you need to speak to a client services professional about this privacy statem
 
 
 Bid4Assets  
-1010 Wayne Ave, Suite 505  
+8757 Georgia Avenue, Suite 1330  
 Silver Spring, MD 20910  
 [Service@Bid4Assets.com](mailto:Service@Bid4Assets.com)
