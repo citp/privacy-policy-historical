@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202183055id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604135212id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
 
 # Commerce Bank - Privacy Policy
 
@@ -82,34 +82,3 @@ If you believe we have reported inaccurate information about your account to any
 
 **It's Your Choice**  
 Commerce offers a wide array of financial products and services designed to meet your financial goals. We periodically review information regarding our customers' accounts and transactions to select the names, addresses (including e-mail addresses) and telephone numbers of customers to receive special offers of products or services that we believe will be of interest to our customers. We recognize, however, that you might have preferences about how we contact you to let you know about them. Regarding your **non-public, personal** information, such as credit reports and application information, you may also prefer for us not to share it among our Commerce-affiliated companies. Additionally, you may prefer that we not share information with the **non-affiliated, third-party** companies we select to provide products and services that we do not. If you do not want us to share your information for any of these purposes or communicate offers to you, call us at 1-888-937-1050 or [click here](https://secure.commerceonline.com/forms/www/special_offers_status.cfm) to complete our online form. If you have previously informed us of your preference, you do not need to do so again. If there are multiple owners on an account, product or policy, any one of them may request on behalf of any or all of the fellow owners that their information is not to be shared or their names removed from our mailing lists. 
-
-* * *
-
-* * *
-
-[Home](http://www.commerceonline.com/) | [MyCommerceOnline](http://my.commerceonline.com/) | [Investor Relations](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=cbh&script=2100) | [Customer Service](http://bank.commerceonline.com/information/customer_service/index.cfm)  
-[Banking](http://bank.commerceonline.com/) | [Investments](http://invest.commerceonline.com/) | [Insurance](http://insure.commerceonline.com/) | [Calculators](http://www.commerceonline.com/financial_calculators.cfm) | [Join Our Team](http://www.commerceonline.com/apply_for_a_job/index.cfm)  
-[Locations & Hours](http://bank.commerceonline.com/information/branch_locations/index.cfm) | [Inside Commerce](http://www.commerceonline.com/inside_commerce/index.cfm) | [Site Map](http://www.commerceonline.com/general_site_map/index.cfm) | [A Better Idea](https://secure.commerceonline.com/forms/bank/feedback.cfm) | [E-mail Us](https://secure.commerceonline.com/forms/bank/general_cb.cfm)
-
-* * *
-
-1-888-751-9000   
-
-
-Investment & Insurance Products:  
----  
-| Not Insured by FDIC or  
-Any Federal Government  
-Agency | May Lose  
-Value | Not a Deposit of or  
-Guaranteed by the Bank or  
-Any Bank Affiliate  
----|---|---  
-In the state of New York, insurance services are offered through Commerce National Insurance Brokerage Services, and Commerce National Insurance Brokerage Services/New York, Inc.   
-Commerce Capital Markets, Inc., is a registered broker-dealer and a member  
-of the National Association of Securities Dealers (NASD) and the  
-Securities Investor Protection Corporation (SIPC).  
-  
-Links to the following sites will take you out of the Commerce Bancorp website: [Any calculator link](http://www.timevalue.com/), [Check Card Visa® Savings/Rewards](http://www.visa.com/), [Federal Deposit Insurance Corporation](http://www.fdic.gov/), [Federal Trade Commission](http://www.ftc.gov/), [Investor Relations](http://www.ccbn.com/), [InvestView Logon](http://www.seic.com/), [Kiplinger's](http://www.kiplinger.com/), [Microbanker](http://www.microbanker.com/), [Small Group Life Insurance](http://www.highmarklife.com/), [TimeValue Software](http://www.timevalue.com/), [Trading Logon](http://www.pershing.com/) and [U.S. Banker](http://www.us-banker.com/). These sites may have privacy policies that differ from Commerce's and may provide less security. Commerce is not responsible for and does not endorse or control any content or material on this list of sites. 
-
-###### Copyright © 2002, 2003 Commerce Bank
