@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the noggin.com privacy policy that was archived on 2004-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040815052133id_/http%3A//www.noggin.com/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noggin.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407011907id_/http%3A//www.noggin.com/parents/privacy.php) for the most accurate reproduction.*
 
 # N O G G I N: For Parents: Privacy Satement
 
   | 
 
   
+Your California Privacy Rights  
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Noggin and The N who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [viewer.services@noggin.com](mailto:viewer.services@noggin.com) or write us: 
+
+> Noggin / The N Privacy Rights  
+>  1633 Broadway, 7-204  
+>  New York, NY 10019 
+
+Privacy Policy  
 NOGGIN.COM is a site where preschoolers and their parents can play educational games, make stuff and find out more about the shows on Noggin. At Noggin.com, we strive to educate preschoolers and their parents about how to appropriately safeguard their privacy when traveling on the web. We are committed to complying fully with the Children's Online Privacy Protection Act of 1998. Our information collection practices are described below. We urge preschoolers to check with their parent or guardian before entering any information on any website and we urge parents and guardians to discuss with their preschoolers restrictions regarding the online release of personal information to anyone they don't know. 
 
 What Information Is Collected  
@@ -17,6 +25,10 @@ At Noggin.com, it is our policy to create website content that requires minimal 
 
 Use of Information  
 Noggin.com uses or may use personal information for contacting parents or guardians of preschoolers in connection with its website activities, such as conducting contests or sweepstakes and seeking permission from parents or guardians of preschooler's to display and use on-air and in other media the digital works made by the preschoolers and their parents or guardians on Noggin.com. Noggin.com currently does not disclose to third parties personally identifiable information that users provide except, from time to time however, we may transfer, disclose or share such information with third parties who may be engaged by us specifically to handle and deliver certain online activities (e.g. conducting contests and sweepstakes). Such third parties have access to personal information needed to perform their functions, but may not use it for other purposes. Additionally, in the event that all or substantially all of Noggin's stock and/or assets are transferred or sold to another entity, Noggin may transfer such information and information collected from parents or guardians to the acquiring entity. Finally, we may also disclose personally identifiable information to third parties when required by law or is pertinent to judicial or government investigations or proceedings, or otherwise necessary to protect our website or the safety of its users.
+
+Use of Information  
+Noggin.com uses or may use personal information for contacting parents or guardians of preschoolers in connection with its website activities, such as conducting contests or sweepstakes or distributing the Noggin.com newsletter via email Noggin.com currently does not disclose to third parties personally identifiable information that users provide except, from time to time however, we may transfer, disclose or share such information with third parties who may be engaged by us specifically to handle and deliver certain online activities (e.g. conducting contests and sweepstakes or distributing the Noggin.com newsletter by email). Such third parties have access to personal information needed to perform their functions, but may not use it for other purposes. Additionally, in the event that all or substantially all of Noggin's stock and/or assets are transferred or sold to another entity, Noggin may transfer such information and information collected from parents or guardians to the acquiring entity. Finally, we may also disclose personally identifiable information to third parties when required by law or is pertinent to judicial or government investigations or proceedings, or otherwise necessary to protect our website or the safety of its users.   
+
 
 Cookies and Log Data  
 "Cookies" are information files that your web browser places on the hard drive of your computer when you visit a site. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies are used to record whether a visitor has indicated that they have certain plug-in software applications installed on their browser. Cookies also allow websites to "remember" user activities on a website as well as user's visits to a site. At Noggin.com cookies are used to determine the number of unique visitors to our website over a given period and to remember non-personally identifiable user-names so that the need for multiple log-ins is eliminated. We do not store any personal information into cookies nor do we link or combine information collected through cookies to any personal information that parents of preschoolers submit online when participating in our activities. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. 
@@ -42,13 +54,13 @@ If you have any questions, comments or concerns regarding Noggin's privacy polic
 >  1633 Broadway   
 >  New York, NY 10019  
 >  (212) 846-2543  
->  [noggin.privacy@noggin.com](mailto:noggin.privacy@noggin.com)
+>  [viewer.services@noggin.com](mailto:viewer.services@noggin.com)
 
 This policy, like the online medium itself, is subject to change. 
 
 The Noggin.com website is intended for domestic visitors and is, consequently, specifically directed towards residents of the United States. 
 
-This page was last updated on April 7, 2003
+This page was last updated on January 5, 2005
 
   
 |  
