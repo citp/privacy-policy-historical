@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lillianvernon.com privacy policy that was archived on 2003-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603182112id_/http%3A//lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView%3Fpage%3Dprivacyandsecurity%26storeId%3D10001%26langId%3D-1%26catalogId%3D10001) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lillianvernon.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202160106id_/http%3A//www.lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView%3Fpage%3Dprivacyandsecurity%26storeId%3D10001%26langId%3D-1%26catalogId%3D10001) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
   <title>Lillian Vernon Online</title> 
@@ -53,7 +53,7 @@
   <tbody><tr>
     <td width="400"><a href="http://lillianvernon.com/index.html"><img src="/images/lvo_01_h0_fall_leaf-webstore.gif" width="400" height="50" alt="Lillian Vernon Online" border="0"></a></td>
     <td width="10" class="headerColor"><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"></td>
-    <td width="229" class="headerColor"><div class="normalText"><a href="https://lillianvernon.com/webapp/wcs/stores/servlet/UserRegistrationForm?new=Y&amp;langId=-1&amp;catalogId=10001&amp;storeId=10001" class="breadLinks">Register</a> for full <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=memberbenefits&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">member benefits</a>, or if you are already registered, <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;addOn=384" class="breadLinks">login</a>.</div></td>
+    <td width="229" class="headerColor"><div class="normalText"><a href="https://lillianvernon.com/webapp/wcs/stores/servlet/UserRegistrationForm?new=Y&amp;langId=-1&amp;catalogId=10001&amp;storeId=10001" class="breadLinks">Register</a> for full <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=memberbenefits&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">member benefits</a>, or if you are already registered, <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;addOn=385" class="breadLinks">login</a>.</div></td>
     <td width="10" class="headerColor"><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"></td>
     <td width="116" class="headerColor"><a href="https://lillianvernon.com/webapp/wcs/stores/servlet/MyAccount?view=WishListDisplayView&amp;langId=-1&amp;catalogId=10001&amp;storeId=10001"><img src="/images/lvo_01_n3.gif" width="116" height="25" alt="Wish List" border="0"></a><br><a href="https://lillianvernon.com/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;orderId=."><img src="/images/lvo_01_n4.gif" width="116" height="25" alt="Shopping Cart" border="0"></a></td>
   </tr>
@@ -69,10 +69,11 @@
 		  <input type="hidden" name="langId" value="-1">
 		  <input type="hidden" name="status" value="1">
 		  <input type="hidden" name="url" value="EmailListView">
-		  <td width="128"><img src="/images/lvo_01_e0.gif" width="128" height="53" alt="Enter your email address" border="0"></td>
+		  <!-- <td width="128"><img src="/images/lvo_01_e0.gif" width="128" height="53" alt="Enter your email address" border="0"></td>
           <td width="119" height="53" background="/images/lvo_01_e2.gif"><input type="text" name="emailAddress" size="11" style="width:112px;" class="normalText"></td>
-          <td width="20" background="/images/lvo_01_e3.gif"><a href="javascript:validate(document.email)"><img src="/images/lvo_01_e1.gif" alt="Enter" width="15" height="16" border="0" align="absmiddle"></a></td>
-        </tr>
+          <td width="20" background="/images/lvo_01_e3.gif"><a href="javascript:validate(document.email)"><img src="/images/lvo_01_e1.gif" alt="Enter" width="15" height="16" border="0" align="absmiddle"></a></td> -->
+          <td width="267"><img src="/images/lvo_01_e0_ea.gif" width="267" height="53" alt="New Search" border="0"></td>
+		</tr>
         
       </tbody></table>
     </td>
@@ -103,11 +104,17 @@
 
 
 <!-- Search Box Begin -->
-      <table width="161" border="0" cellspacing="0" cellpadding="0">
-      <form action="http://lillianvernon.com/cgi-bin/search.pl" method="get"></form>
-        <input type="hidden" name="name" value="">
+      <table width="161" border="0" cellspacing="0" cellpadding="0">	  
+    	  <form action="http://search.lillianvernon.com:9100/EasyAsk/lillianvernon/results.jsp" method="post"></form>
+					<input type="hidden" name="dct" value="lvernon">
+					<input type="hidden" name="indexed" value="1">
+					<input type="hidden" name="disp" value="html">
+					<input type="hidden" name="RequestAction" value="advisor">
+					<input type="hidden" name="RequestData" value="CA_Search">
+					<input type="hidden" name="lv_sn" value="lillianvernon.com"> 
+		  		<input type="hidden" name="name" value="">
         <tbody><tr>
-          <td width="161" colspan="3" class="searchColor"><img src="/images/lvo_01_s0.gif" width="161" height="18" alt="Product Search" border="0"></td>
+          <td width="161" colspan="3" class="searchColor"><img src="/images/lvo_01_s0_ea.gif" width="161" height="18" alt="Product Search" border="0"></td>
         </tr>
         <tr>
           <td width="6" rowspan="4" class="searchColor"><img src="/images/spacer.gif" width="6" height="1" alt="" border="0"></td>
@@ -117,11 +124,12 @@
           <td colspan="2" class="searchColor"><div class="normalText">Enter keyword(s) here</div></td>
         </tr>
         <tr align="center">
-          <td width="135" class="searchColor"><input type="text" name="keywords" size="13" style="width:128px;" class="normalText"></td>
+          <td width="135" class="searchColor"><input type="text" name="q" size="13" style="width:128px;" class="normalText"></td>
           <td width="20" class="searchColor"><input type="image" name="submit" src="/images/lvo_01_s1.gif" alt="Enter" width="15" height="16" border="0"></td>
         </tr>
         <tr>
-          <td width="155" colspan="2" class="searchColor"><div class="normalText"><a href="http://lillianvernon.com/cgi-bin/search.pl" class="breadLinks">Advanced Product Search</a></div></td>
+          <td width="155" colspan="2" class="searchColor">
+		  <div class="normalText"></div></td>
         </tr>
         <tr>
           <td width="161" colspan="3" class="searchColor"><img src="/images/lvo_01_s2.gif" width="161" height="8" alt="" border="0"></td>
@@ -165,22 +173,22 @@
 <!-- gift spot Begin -->
       <table width="161" border="0" cellspacing="0" cellpadding="0" class="navColor">
         <tbody><tr align="center"><td width="161"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"></td></tr>
-        <tr align="center"><td><a href="http://lillianvernon.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&amp;langId=-1&amp;catalogId=10001&amp;productId=16466"><img src="/images/giftcertificate_4.gif" width="154" height="69" alt="Gift Certificates" border="0"></a></td></tr>
+        <tr align="center"><td><a href="javascript:void(0);" onclick="window.open('http://www.lillianvernonsweeps.com/initialentry.php','Sweepstakes','width=665,height=538,toolbar=no,directories=no,location=no,status=no,menubar=no,resizable=no,scrollbars=no'); return fc_click('Sweeps Link','ad','http://www.lillianvernonsweeps.com/initialentry.php');"><img src="/images/giftcert-sweeps.jpg" width="154" height="69" alt="Gift Certificates" border="0"></a></td></tr>
         <tr align="center"><td width="161"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"></td></tr>
         
 	<!-- shipping deadline -->
-	<tr align="center">
+<!-- <tr align="center">
 	 <td width="161">
 	  <img src="/images/ship_deadlines1-anim.gif" width="154" height="42" usemap="#ShMap" border="0"><br>
-	  <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=shippingandsalestax&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001#holiday" target="_parent" alt="Shipping Holiday Deadlines" title="Shipping Holiday Deadlines"><img src="/images/shipdeadlines-holidays1.gif" width="154" height="26" border="0"></a>
+	  <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=shippingandsalestax&storeId=10001&langId=-1&catalogId=10001#holiday" target="_parent" alt="Shipping Holiday Deadlines" title="Shipping Holiday Deadlines"><img src="/images/shipdeadlines-holidays1.gif" width="154" height="26" border="0"></a>
            <map name="ShMap"> 
-            <area shape="rect" coords="8,23,146,37" href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=shippingandsalestax&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001" target="_parent" alt="Shipping Holiday Deadlines" title="Shipping Holiday Deadlines">
-            <area shape="rect" coords="7,8,147,19" href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=shippingandsalestax&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001#holiday" target="_parent" alt="Deadlines" title="Deadlines">
+            <area shape="rect" coords="8,23,146,37" href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=shippingandsalestax&storeId=10001&langId=-1&catalogId=10001" target="_parent" alt="Shipping Holiday Deadlines" title="Shipping Holiday Deadlines">
+            <area shape="rect" coords="7,8,147,19" href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=shippingandsalestax&storeId=10001&langId=-1&catalogId=10001#holiday" target="_parent" alt="Deadlines" title="Deadlines">
            </map>
 	 </td>
-        </tr>
-	<!-- shipping deadline -->
-	<!-- <tr align="center"><td><a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=shippingandsalestax&storeId=10001&langId=-1&catalogId=10001#holiday"><img src="/images/shippingdeadlines_left.gif" width="154" height="73" alt="Shipping Deadlines" border="0"></a></td></tr> -->
+        </tr> -->
+	<tr align="center"><td><a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=shippingandsalestax&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001#holiday"><img src="/images/shipdeadlines.gif" width="154" height="73" alt="Shipping Deadlines" border="0"></a></td></tr>
+      <!-- shipping deadline -->
       </tbody></table>
 <!-- gift spot End -->
 
@@ -189,11 +197,9 @@
 	    
 <!-- ad spot Begin -->
       <table width="161" border="0" cellspacing="0" cellpadding="0" class="navColor">
-        <tbody><tr align="center"><td width="161"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"></td></tr>
+        <!-- <tr align="center"><td width="161"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"></td></tr> -->
         <!-- <tr align="center"><td><a href="http://www.flowerclub.com/lillian_vernon/" target="_blank"><img src="/images/flowerclub_mday_bnr_1.gif" width="154" height="69" alt="FlowerClub" border="0"></a></td></tr> -->
-        <tr align="center"><td width="161"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"></td></tr>
-        <!-- <tr align="center"><td><a href="http://www.theantidrug.com/" target="_blank"><img src="/images/brit_value.gif" width="125" height="125" alt="www.theantidrug.com" border="0"></a></td></tr>
-        <tr align="center"><td width="161"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"></td></tr> -->
+        <tbody><tr align="center"><td width="161"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"></td></tr>
       </tbody></table>
       
       
@@ -240,7 +246,7 @@
               <tr>
                 <td colspan="3" class="normalText">
                   <div><img src="http://mirror.lillianvernon.com/images/spacer.gif" width="1" height="10" alt="" border="0"></div>
-				  <div>If you still have privacy concerns that you feel are not addressed in this information, please contact a Lillian Vernon Online Customer Service Representative at <a href="mailto:custserv@lillianvernon.com" class="breadLinks">custserv@lillianvernon.com</a> or 800-545-5426.</div>
+				  <div>If you still have privacy concerns that you feel are not addressed in this information, please contact a Lillian Vernon Online Customer Service Representative at <a href="mailto:custserv@lillianvernon.com" class="breadLinks">custserv@lillianvernon.com</a> or 800-901-9291.</div>
 				  <div><img src="http://mirror.lillianvernon.com/images/spacer.gif" width="1" height="20" alt="" border="0"></div>
 				  <div class="boldText">THE KIND OF INFORMATION WE COLLECT AND HOW WE USE IT</div>
 				  <div><img src="http://mirror.lillianvernon.com/images/spacer.gif" width="1" height="5" alt="" border="0"></div>
@@ -257,7 +263,7 @@
 				  <div class="italicText"><b>When You Make A Purchase...</b></div>
 				  <div>Your name is automatically added to our marketing email distribution list to receive information on hot products, specials and online promotions.  Each email you receive  provides a link  to unsubscribe to future mailings;  however, the next time you make a  purchase, you will again be added to the list.  If you NEVER want to receive marketing emails, when you visit the site simply login and go to the second page of  <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/MyAccount?view=WishListDisplayView&amp;langId=-1&amp;storeId=10001&amp;catalogId=10001" class="breadLinks">"Update My Profile/Edit Preferences"</a>.  There you can UNCHECK the box that gives us permission to continue emailing to you.  You can also unsubscribe from these promotional emails at any time by following the unsubscribe directions that appear at the bottom of each email.  Please note that you may still hear from us regarding your order status and any other service issues and order status updates that will allow us to provide you with the optimal shopping experience.</div>
 				  <div><img src="http://mirror.lillianvernon.com/images/spacer.gif" width="1" height="5" alt="" border="0"></div>
-				  <div>Your name will also become part of the Lillian Vernon direct mail/catalog list to receive future catalog mailings.  If you do not wish to receive such mailings, please send an email to <a href="mailto:custserv@lillianvernon.com" class="breadLinks">custserv@lillianvernon.com</a>, or call 800-545-5426 or write to us at: Customer Service Department, Lillian Vernon Corporation, 100 Lillian Vernon Drive, Virginia Beach, VA 23479-0002.  Although we never share email lists, from time to time we may share our catalog mailing lists with carefully screened companies. If you do not wish to have your name shared, go to <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/MyAccount?view=WishListDisplayView&amp;langId=-1&amp;storeId=10001&amp;catalogId=10001" class="breadLinks">"Update My Profile/Edit Preferences"</a> and UNCHECK the box that gives us permission to share your mailing address.</div>
+				  <div>Your name will also become part of the Lillian Vernon direct mail/catalog list to receive future catalog mailings.  If you do not wish to receive such mailings, please send an email to <a href="mailto:custserv@lillianvernon.com" class="breadLinks">custserv@lillianvernon.com</a>, or call 800-901-9291 or write to us at: Customer Service Department, Lillian Vernon Corporation, 100 Lillian Vernon Drive, Virginia Beach, VA 23479-0002.  Although we never share email lists, from time to time we may share our catalog mailing lists with carefully screened companies. If you do not wish to have your name shared, go to <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/MyAccount?view=WishListDisplayView&amp;langId=-1&amp;storeId=10001&amp;catalogId=10001" class="breadLinks">"Update My Profile/Edit Preferences"</a> and UNCHECK the box that gives us permission to share your mailing address.</div>
 				  <div><img src="http://mirror.lillianvernon.com/images/spacer.gif" width="1" height="15" alt="" border="0"></div>
 				  <div class="italicText"><b>When You Ship to Another Recipient...</b></div>
 				  <div>We only collect the name(s) and postal delivery information necessary fulfill your requests to ship to alternate addresses. We never share this information nor do we contact these individuals unless a service issue relating to the order makes it necessary.  If you are a "Registered User" you have the option to either maintain or delete contacts from your "Address Book" at any time.</div>
@@ -288,7 +294,7 @@
 				  <div><img src="http://mirror.lillianvernon.com/images/spacer.gif" width="1" height="20" alt="" border="0"></div>
 				  <div class="boldText">CHANGES TO THE LILLIAN VERNON ONLINE PRIVACY PLEDGE</div>
 				  <div><img src="http://mirror.lillianvernon.com/images/spacer.gif" width="1" height="5" alt="" border="0"></div>
-				  <div>Your use of our website constitutes your agreement to the policies and procedures set forth in this Privacy Policy. In the event Lillian Vernon Online amends its Privacy Policy in the future, these changes will be clearly posted on our site so you can be kept informed of how, where, when and why we collect information and how we use it. If you have any additional questions, please contact a Lillian Vernon Online Customer Service Representative at <a href="mailto:custserv@lillianvernon.com" class="breadLinks">custserv@lillianvernon.com</a> or 800-545-5426. To review the options you selected at the time of registration, <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10001&amp;catalogId=10001" class="breadLinks">click here</a>.</div>
+				  <div>Your use of our website constitutes your agreement to the policies and procedures set forth in this Privacy Policy. In the event Lillian Vernon Online amends its Privacy Policy in the future, these changes will be clearly posted on our site so you can be kept informed of how, where, when and why we collect information and how we use it. If you have any additional questions, please contact a Lillian Vernon Online Customer Service Representative at <a href="mailto:custserv@lillianvernon.com" class="breadLinks">custserv@lillianvernon.com</a> or 800-901-9291. To review the options you selected at the time of registration, <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10001&amp;catalogId=10001" class="breadLinks">click here</a>.</div>
 				  <div><img src="http://mirror.lillianvernon.com/images/spacer.gif" width="1" height="40" alt="" border="0"></div>
 				</td>
                 <td width="50"><img src="http://mirror.lillianvernon.com/images/spacer.gif" width="50" height="1" alt="" border="0"></td>
@@ -324,9 +330,9 @@
       <div>&nbsp;</div>
     </td>
     <td width="580" class="breadLinks" align="center">
-      <div><a href="http://lillianvernon.com/webapp/wcs/stores/servlet/ContactUs?storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">Contact Us</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=privacyandsecurity&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">Privacy &amp; Security</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/AboutStaticView?page=corporatesales&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Corporate Sales</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/AboutStaticView?page=investorrelations&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Investor Relations</a></div>
+      <div><a href="http://lillianvernon.com/webapp/wcs/stores/servlet/ContactUs?storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">Contact Us</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=privacyandsecurity&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">Privacy &amp; Security</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/AboutStaticView?page=corporatesales&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Corporate Sales</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=shippingandsalestax&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">Shipping and Sales Tax</a></div>
       <div><a href="http://lillianvernon.com/webapp/wcs/stores/servlet/OutletStaticView?page=outletstores&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Store Locator</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/AboutStaticView?page=inthenews&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">In the News &amp; Public Relations</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/AboutStaticView?page=careers&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Career Opportunities</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/AboutStaticView?page=affiliatenetwork&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Affiliate Network</a> </div>
-      <div><a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=faq&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">FAQs</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/HelpStaticView?page=help&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Help</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/SitemapView?storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Site Map</a> · <a href="http://www.lillianvernoncard.com" class="normalText" target="_blank">Lillian Vernon MasterCard</a> · <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/Logoff?state=forgetpassword&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001&amp;flag=0" class="breadLinks">Forgot Password</a> · <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/OrderHistory?storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">Order Status</a></div>
+      <div><a href="http://lillianvernon.com/webapp/wcs/stores/servlet/CustServStaticView?page=faq&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">FAQs</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/HelpStaticView?page=help&amp;storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Help</a> · <a href="http://lillianvernon.com/webapp/wcs/stores/servlet/SitemapView?storeId=10001&amp;catalogId=10001&amp;langId=-1" class="breadLinks">Site Map</a> · <!-- <a href="http://www.lillianvernoncard.com" class="normalText" target="_blank">Lillian Vernon MasterCard</a> &middot; --> <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/Logoff?state=forgetpassword&amp;storeId=10001&amp;langId=-1&amp;catalogId=10001&amp;flag=0" class="breadLinks">Forgot Password</a> · <a href="https://lillianvernon.com/webapp/wcs/stores/servlet/OrderHistory?storeId=10001&amp;langId=-1&amp;catalogId=10001" class="breadLinks">Order Status</a></div>
       <div>&nbsp;</div>
     </td>
   </tr>
