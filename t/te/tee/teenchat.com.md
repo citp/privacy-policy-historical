@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenchat.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604173108id_/http%3A//www.cyberchat.com/users/adduser.py%3Fquery%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenchat.com privacy policy that was archived on 2001-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010812224514id_/http%3A//www.cyberchat.com/users/adduser.py%3Fquery%3Dprivacy) for the most accurate reproduction.*
 
 # Create an Account
 
@@ -128,9 +128,9 @@ Wishbone does not sell or rent user information to anyone. We will notify you at
 
 You may edit your account information and your public profile at any time by using your username and password. 
 
-Your Wishbone account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the Wishbone network, including your Wishbone Mail account (if you have one). If you saved the confirmation email you received when you first created your Wishbone account, you can use the URL provided in that message to delete your account at any time. Please contact the [Privacy Manager](mailto:dennis@wishbonemedia.com) for further instructions about deleting or deactivating your Wishbone account. Residual information will remain within our archive records. 
+Your Wishbone account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the Wishbone network, including your Wishbone Mail account (if you have one). If you saved the confirmation email you received when you first created your Wishbone account, you can use the URL provided in that message to delete your account at any time. Please contact the [Privacy Manager](mailto:dan@wishbonemedia.com) for further instructions about deleting or deactivating your Wishbone account. Residual information will remain within our archive records. 
 
-If you are participating in a Wishbone promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact the [Promotions Manager](mailto:dennis@wishbonemedia.com). 
+If you are participating in a Wishbone promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact the [Promotions Manager](mailto:dan@wishbonemedia.com). 
 
 * * *
 
@@ -181,7 +181,7 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
   
 **Additional Information**
 
-Questions regarding this statement should be directed to the [Privacy Manager](mailto:dennis@wishbonemedia.com). 
+Questions regarding this statement should be directed to the [Privacy Manager](mailto:dan@wishbonemedia.com). 
 
 **Also see...**
 
