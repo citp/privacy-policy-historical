@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207094009id_/http%3A//www.metrodate.com/articles/privacypolicy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214803id_/http%3A//www.metrodate.com/articles/privacypolicy.asp) for the most accurate reproduction.*
 
 # Metrodate.com - aboutus
 
@@ -7,45 +7,65 @@ Privacy Statement for Metrodate.com
 
 ## Privacy Statement for Metrodate.com
 
-Last Modified 1/16/2002 
+Metrodate.com takes member privacy very seriously. We use all reasonable efforts to protect our members’ information. The purpose of this policy is to help our members recognize our firm commitment to their privacy, while having a complete understanding of how their information is used by our service. 
 
-Metrodate.com, owner of Metrodate.com created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Metrodate.com. 
+This policy was last revised on April 10, 2003. Our policy may change at any time. Members are encouraged to review it regularly, and contact us with any questions. We tried to address all major concerns regarding privacy in this document, written in a non-legalese format that is hopefully easy to understand. By using Metrodate.com, you are agreeing to these policies. 
 
-  * We use cookies to deliver content specific to your interests and geographic location. 
-  * Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor via email when necessary. 
-  * This site contains links to other sites. **Metrodate.com** is not responsible for the privacy practices or the content of such Web sites. 
-  * Our site uses an order form for customers to request information, products, and services. We collect visitor's financial information (credit card numbers) only when our services are requested. Financial information that is collected is used to bill the user for products and services. 
-  * Our online surveys ask visitors for demographic information (like their zip code, profession or age). Demographic and profile data is also collected at our site. We use this data build member profiles and to tailor our visitor's experience at the site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is not disseminated or sold to any other source.
+## Children
 
+You must be at least 18 years old to use Metrodate.com. 
 
+## Your E-Mail Address and Spam
 
-## Public Forums
+Metrodate.com never shares or sells our members’ e-mail addresses to anybody else. By providing your e-mail address to Metrodate.com, you will only receive correspondence from us, no one else. We send occasional newsletters and alerts, such as when you receive a message from another member. If you no longer wish to receive e-mail from us, simply freeze your account at any time from the Account Info page. You will not start receiving any spam by signing up for our service. 
 
-This site makes chat rooms and/or interest groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Many other singles sites will send your actual e-mail address to another person if you contact another member, or respond to a message they sent to you. This doesn’t give you a chance to correspond with each other first before deciding if you want to give them your e-mail address. 
 
-## Security
+## Your Identity to Other Members
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use SSL encryption technology provided by **Verisign, Inc.** , the leading Internet security company.
+Only you can give another member your true name or contact information. Even your e-mail address is kept completely private from other members. Our online messaging system allows you to correspond with other members without giving away your actual e-mail address. It is up to you when you are comfortable in giving someone your private information. Just like in conventional pickup settings such as bars, we encourage our members to take all precautions when meeting other members, or providing any private information. 
 
-## Advertising
+## Cookies
 
-Some advertising on Metrodate.com is provided by our sponsors. We are not responsible for this content. 
+In order for a web site to be truly interactive, sessions are usually required. For example, once you log on to the site, a user can go from page to page while the site “remembers” who you are until you log off. Cookies make this possible. 
 
-The public portion of your personal may be used in our print personals with our newspaper partners. Your print personal would only include the public portions of your online personal, which may include: Member ID, age, religion, race, age, etc. The print personal will NOT include confidential information, such as your real name, e-mail address, mailing address, or phone number. 
+Disabling cookies on your browser will mean you will not be able to utilize Metrodate.com, because you won’t be able to log on. 
 
-## Choice / Opt-Out
+We also save other information as cookies to speed up the web site and add other features for you. For example, there is a cookie to remember your user id so that the next time you visit the site you don’t have to retype it. We do not save any confidential information in cookies such as your password, payment information, etc. This is particularly important if you are using a shared computer. 
 
-This site gives users the option for removing their information from our database to not receive future communications or to no longer receive our service. This can be accomplished from [here](https://web.archive.org/asp/freeze.asp).
+## Information Provided by Our Members
 
-## Correct / Update
+Member profiles are the heart of our service, which of course is built on information provided by our members about themselves. Information provided by our members is either considered private or public. 
 
-This site allows users the ability to change and modify information previously provided through the [Member Services](https://web.archive.org/asp/memberservices.asp) pages.
+Private information is not shared with anybody for any reason. Private information is not available to other members. In addition, we do not sell private information to third parties. Private information includes the member’s real name, birth date, e-mail address, street address, and any payment information. 
 
-## Contacting the Web Site
+Public information may be posted on the web site and includes the user’s user id (nick name or alias), city, state, country, age, photo, voice message, questionnaire answers, any posted messages, and more. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: 
+It may be possible for members to post information in public areas that we would usually classify as private. For example, a user may put his/her real name in their message. We generally discourage this for the privacy of our members. 
+
+## Information Automatically Collected by Traffic and Event Logs
+
+Like most web sites, our traffic logs record your IP address, the web site you clicked over from, your web browser version, the date and time, and all pages you visited on the site. This information is used to help us with our marketing efforts and make improvements to the web site. 
+
+We also log various events such as each time a user logs in and performs certain actions on the web site, such as placing orders or participating in various promotions. This information is used to help us support our members. 
+
+## Disclosure of Private Information to Government Authorities
+
+Under various circumstances, it may be Metrodate.com may be necessary for Metrodate.com to disclose private information about our members to government agencies such as law enforcement. In addition, we may report Metrodate users to the authorities in the case of legal wrongdoing, such as attempting to use a stolen credit card. 
+
+## Security Measures
+
+All reasonable efforts are utilized to secure our members’ private information. All financial transactions are encrypted using SSL security, the industry standard for secure web site transactions. In addition, we have measures in place to detect scams common to singles sites. (If someone says you can get millions of dollars for helping them out, it’s not true!) 
+
+## Updating Your Information
+
+At any time our members can update their member information by visiting the various sections under “Member Services” such as “Personal Info” or “Public Profile”. We encourage our members to review their own profile (also available under “Member Services”) to see what information is being provided to other members. If users wish to cancel service, they can do so at any time by going to “Account Info” from the “Member Services” menu. 
+
+## Contacting Metrodate.com
+
+If you have any questions about this privacy statement or the practices of this site please contact us at: 
 
 Metrodate.com  
 2300 Computer Ave, Box J-52  
 Willow Grove, PA 19090-1742  
-[services@metrodate.com](mailto:services@metrodate.com)
+[Click here](https://web.archive.org/asp/help.asp) to contact us online
