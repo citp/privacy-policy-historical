@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603153955id_/http%3A//www.charitynavigator.org/index.cfm/bay/content.view/cpid/38.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010051120id_/http%3A//www.charitynavigator.org/index.cfm/bay/content.view/cpid/38.htm) for the most accurate reproduction.*
 
 # Charity Navigator - Guiding Intelligent Giving - Charitable Donations
 
