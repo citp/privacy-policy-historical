@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoweb.com.au privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209101846id_/http%3A//www2.autoweb.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoweb.com.au privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604080615id_/http%3A//www.autoweb.com.au/privacy.html) for the most accurate reproduction.*
 
 # AutoWeb - Your Online Guide to Buying and Selling New and Used Cars
 
@@ -16,9 +16,11 @@ You may at any time request details of the information we have stored about you 
 
 We try to ensure that all information we retain about you is correct and up to date. If you believe any information we have stored about you is incorrect, or if your details have changed, please notify us accordingly and our records will be updated.
 
-From time to time we may also collect non-personally identifiable information during your visit such as the pages you view on the web site. This information may be collated to provide us with a statistical analysis of our navigation tools and to determine the popularity of different pages or section of the web site.
+Web Publications Pty Ltd uses software provided by RedSheriff ([http://www.redsheriff.com.au](http://www.redsheriff.com.au/)) and its own internal software to measure and audit web site activity. The information provided to Web Publications Pty Ltd by RedSheriff is used to calculate the number of visitor's to the web site, the number of pages viewed by these visitors and how long they stay on the web site. Common entry and exit points may also be identified. 
 
-When you visit our web site our web server automatically logs certain non-personally identifiable data about your visit. This data consists of the time of your visit, your domain name or IP address, the browser and the operating system you use, the pages you visit and any links you follow to or within our web site.
+This aggregated, non-personal information is collated by RedSheriff and provided to Web Publications Pty Ltd to assist in analysing the usage of the website. The RedSheriff data is also accessible by media organizations and research companies, for the purpose of conducting industry comparisons with other internet portals.
+
+RedSheriff's Privacy Policy can be viewed on their [web site](http://www.redsheriff.com.au/).
 
 #### How we use the information collected
 
