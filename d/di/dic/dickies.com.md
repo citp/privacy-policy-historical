@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2003-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030809235221id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612031335id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
 
 # Dickies® ~ Privacy Policy
 
 | 
 
 PRIVACY STATEMENT OF WILLIAMSON-DICKIE MFG. CO.
+
+Effective June 1, 2004 
 
 INFORMATION ABOUT OUR ORGANIZATION AND WEBSITE  
 Modern information and communication technologies play a fundamental role in the activities of an organization like Williamson-Dickie Mfg. Co.
@@ -34,6 +36,7 @@ We automatically log data regarding your site visit through the use of cookies. 
 
   * Technical administration of the Web site 
   * Customer administration 
+  * Market Research 
   * We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals.
 
 
