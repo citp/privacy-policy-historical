@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the herbsmd.com privacy policy that was archived on 2003-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401211735id_/http%3A//herbsmd.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the herbsmd.com privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207123842id_/http%3A//herbsmd.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 	
@@ -27,24 +27,41 @@
 			document.rightbar.rpass.focus();
 			return false;
 		}
-
 	}	
-function fill(){
+	function fill(t)
+	{	
+		if(t.value == "")
+		{
+			alert("Enter product name or key word to search catalog");
+			t.focus();
+			return false;
+		}
+		return true;
+	}
+			function openwindow() {
+						refWindow = window.open("/11sep.html", "List", "resizable=1,scrollbars=1,directories=0,height=500,width=750,top=150,left=10")
+				}
 
-	if(document.SearchForm.sq.value == ""){
-		alert("Enter keywords for search.");
-		document.SearchForm.sq.focus();
-		return false;
-	}	
-}
 </script>
 <table width="758" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF" border="0" align="right">
   <tbody><tr> 
     <td height="63" width="168" rowspan="2"><a href="/"><img src="/img/hmd.gif" border="0"></a></td>
-    <td height="31" valign="bottom" width="601" align="right"><img src="/img/check.gif" usemap="#Map008" border="0"></td>
+    <td valign="bottom" width="601" align="right">
+      <table width="99%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="62%" align="center">&nbsp;</td>
+          <td width="38%" align="center"><img src="/img/check.gif" usemap="#Map008" border="0">
+            <map name="Map008"> 
+              <area shape="rect" coords="10,8,92,29" href="/shop/xq/asp/qx/cart.htm">
+              <area shape="rect" coords="124,6,204,29" href="https://www.herbsmd.com/ct/xq/asp/qx/login.htm">
+            </map>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
   </tr>
   <tr> 
-    <td height="32" valign="bottom" width="601"><img src="/img/topbar1.gif" usemap="#Map" border="0" width="607" height="20"></td>
+    <td height="22" valign="bottom" width="601"><img src="/img/topbar1.gif" usemap="#Map" border="0" width="607" height="20"></td>
   </tr>
   <tr> 
     <td colspan="2" valign="bottom" bgcolor="#D2EAFB"> 
@@ -57,13 +74,9 @@ function fill(){
           <area shape="rect" coords="18,5,56,18" href="/">
   <area shape="rect" coords="431,4,511,16" href="/prevent/xq/asp/qx/supplement.htm">
           <area shape="rect" coords="543,4,594,16" href="/prevent/xq/asp/qx/vitamin.htm">
-        </map><map name="Map008"> 
-          <area shape="rect" coords="10,8,92,29" href="/shop/xq/asp/qx/cart.htm">
-          <area shape="rect" coords="124,6,204,29" href="http://www.herbsmd.com/ct/xq/asp/qx/login.htm">
-</map><table width="758" cellspacing="0" cellpadding="0" border="0">
+        </map><table width="758" cellspacing="0" cellpadding="0" border="0">
         <tbody><tr> 
-          <td width="25%" class="hno" align="center" bgcolor="#D2EAFB">1-888-HERBSMD 
-            (437-2763)</td>
+          <td width="25%" class="hno" align="center" bgcolor="#D2EAFB"></td>
           <td width="50%" align="center" class="topfont" bgcolor="#D2EAFB"><a href="/xq/asp/qx/shipping.htm" class="top">Shipping</a>&nbsp;| 
             <a href="/xq/asp/qx/privacy.htm" class="top">Privacy Policy</a>&nbsp;| 
             <a href="/xq/asp/qx/help.htm" class="top">Help</a>&nbsp;| <a href="/xq/asp/qx/sitemap.htm" class="top">Site 
@@ -71,8 +84,7 @@ function fill(){
           <td width="25%" valign="bottom" align="left"><img src="/img/gfs.gif" border="0"></td>
         </tr>
         
-        
-	  </tbody></table>
+      </tbody></table>
     </td>
   </tr>
 </tbody></table>
@@ -209,294 +221,314 @@ function fill(){
     </td>
     <td valign="top" width="25%" align="right"> 
       
-<table cellspacing="0" cellpadding="0" border="0" width="192">
- <tbody><tr> 
-    <td bgcolor="#D2EAFB" rowspan="5" width="6"><img src="/img/spac.gif" height="1" width="6"></td>
-    <td align="center" valign="top" width="182"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-        <tbody><tr> 
-          <td> 
-            <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-              <tbody><tr><td><img src="/img/gfs1.gif"><br><img src="/img/spacer.gif" height="4" width="2"></td></tr><tr><td>
-			  </td></tr><tr> 
-                <td width="186"> 
-                  
-                </td>
-              </tr>
-              
-              <tr> 
-                <td align="center" width="186"><img src="/img/srch.gif"><img src="/img/spacer.gif" width="25" height="2"></td>
-              </tr>
-              <form name="SearchForm" action="/search/sq.asp" method="get" onsubmit="return fill();"></form>
-                <tr> 
-                  <td align="center" height="36"> 
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr> 
-                        <td align="right" width="65%" height="35"> 
-                          <input type="text" name="sq" size="12">
-                        </td>
-                        <td width="35%" height="35"> 
-                          <input alt="Search" border="0" name="btnGo" src="/img/go.gif" type="image">
-                        </td>
-                      </tr>
-                      <tr bgcolor="#D2EAFB"> 
-                        <td colspan="2"><img src="/img/spac.gif" width="1" height="3"></td>
-                      </tr>
-                    </tbody></table>
-                  </td>
-                </tr>
-              
-              
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td align="center"> <br>
-            <table width="86%" border="0" cellspacing="0" cellpadding="0" height="21">
-              
-              <tbody><tr> 
-                <td> 
-                  <!--------Top Brands------------>
-                  <table width="140" cellspacing="0" cellpadding="0" align="center">
-                    <tbody><tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td class="cathd" height="23" bgcolor="#F7F7F7" colspan="2"><img src="/img/spimg/obul.gif"> 
-                        <a href="#" class="catb">Top Brands</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" width="140" height="1"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" valign="middle" colspan="2"><img src="/img/arrow.gif"> 
-                        <a href="/vendor/xq/asp/qx/sn.htm" class="cat">Source 
-                        Naturals</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/qx/plan.htm" class="cat">Planetary 
-                        Formulas</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/qx/jarrow.htm" class="cat">Jarrow 
-                        Formulas</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/vid.10/qx/vendetail.htm" class="cat">Alvita 
-                        Teas</a> </td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/vid.103/qx/vendetail.htm" class="cat">Natrol</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" width="86"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/vid.150/qx/vendetail.htm" class="cat">Twinlab</a></td>
-                      <td height="20" width="62" align="right"><a href="/vendor/xq/asp/qx/default.htm" class="cat"><b>more..</b></a></td>
-                    </tr>
-                  </tbody></table>
-                  <!--------Top Brands------------>
-                </td>
-              </tr>
-              
-              <tr> 
-                <td> 
-                  <!--------Top Categories------------>
-                  <table width="140" cellspacing="0" cellpadding="0" align="center">
-                    <tbody><tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td class="cathd" height="23" bgcolor="#F7F7F7" colspan="2"><img src="/img/spimg/obul.gif"> 
-                        Top Categories</td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" valign="middle" colspan="2"><img src="/img/arrow.gif"> 
-                        <a href="/shop/xq/asp/catid.3/qx/spcat.htm" class="cat">Minerals</a> 
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.4/qx/spcat.htm" class="cat">Vitamins</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.5/qx/spcat.htm" class="cat">Supplements</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.6/qx/spcat.htm" class="cat">Quasi-Vitamins</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.8/qx/spcat.htm" class="cat">Amino 
-                        Acid</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" width="73"><img src="/img/arrow.gif"> <a href="/shop/spcat.asp?catid=7" class="cat">Wellness</a></td>
-                      <td height="20" width="70" align="right" valign="bottom"><a href="/prevent/xq/asp/qx/default.htm" class="cat"><b>more..</b></a></td>
-                    </tr>
-                  </tbody></table>
-                  <!--------Top Categories------------>
-                </td>
-              </tr>
-              
-              <tr> 
-                <td> 
-                  <!--------Top Ailments------------>
-                  <table width="140" cellspacing="0" cellpadding="0" align="center">
-                    <tbody><tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td class="cathd" height="23" bgcolor="#F7F7F7" colspan="2"><img src="/img/spimg/obul.gif"> 
-                        <a href="/cure/xq/asp/qx/default.htm" class="catb">Top 
-                        Ailments</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" valign="middle" colspan="2"><img src="/img/arrow.gif"> 
-                        <a href="/shop/xq/asp/catid.7/Char.All/qx/catlist.htm" class="cat">Allergies</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.10/qx/spcat.htm" class="cat">Anxiety</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.1/qx/spcat.htm" class="cat">Arthritis</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.63/qx/spcat.htm" class="cat">Depression 
-                        </a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.132/qx/spcat.htm" class="cat">Menopause</a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                    <tr> 
-                      <td height="20" width="99"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.52/qx/spcat.htm" class="cat"> 
-                        Cold</a></td>
-                      <td height="20" width="45" align="right"><a href="/cure/xq/asp/qx/default.htm" class="cat"><b>more..</b></a></td>
-                    </tr>
-                    <tr> 
-                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td align="left">
-            <table width="98%" border="0" cellspacing="0" cellpadding="0" align="right">
-              <tbody><tr>
-                <td align="center" class="verd"><img src="/img/spacer.gif" height="8" width="1"><br>
-                  <img src="/img/sven/seal.gif"><br>
-                  <font color="#0000FF"><b>Shop Online, Pay By Phone!</b></font></td>
-              </tr>
-              <tr> 
-                <td class="pdetail">Place your order online and give your credit 
-                  card number by phone. (<a href="#" onclick="window.open('/pop.htm','mail','width=430,height=220,left=150,top=20,resizable=yes');" class="send">more info</a>)</td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td class="right" bgcolor="#D2EAFB" rowspan="5" width="6"><img src="/img/spac.gif" height="1" width="6"></td>
-  </tr>
-  <tr> </tr>
-  <form name="form1" method="post" action=""></form>
-    <tr> </tr>
-    <tr> </tr>
-  
-  <tr> 
-    <td align="center" valign="top" width="186"></td>
-  </tr>
-  <tr> 
-    <td colspan="3" align="center" valign="top"><img src="/img/curv1.jpg" width="193"></td>
-  </tr>
-</tbody></table>
-
+	<table cellspacing="0" cellpadding="0" border="0" width="192">
+	 <tbody><tr> 
+	    <td bgcolor="#D2EAFB" rowspan="5" width="6"><img src="/img/spac.gif" height="1" width="6"></td>
+	    <td align="center" valign="top" width="182"> 
+	      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	        <tbody><tr> 
+	          <td> 
+	            <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	              <tbody><tr><td><img src="/img/gfs1.gif"><br><img src="/img/spacer.gif" height="4" width="2"></td></tr><tr><td>
+				  </td></tr><tr> 
+	                <td width="186"> 
+	                  
+	                </td>
+	              </tr>
+	              
+	              <tr> 
+	                <td align="center" width="186"><img src="/img/srch.gif"><img src="/img/spacer.gif" width="25" height="2"></td>
+	              </tr>
+	              <form name="SearchForm" action="/search/sq.asp" method="get" onsubmit="return fill(this.sq);"></form>
+	                <tr> 
+	                  <td align="center" height="36"> 
+	                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	                      <tbody><tr> 
+	                        <td align="right" width="65%" height="35"> 
+	                          <input type="text" name="sq" size="12">
+	                        </td>
+	                        <td width="35%" height="35"> 
+	                          <input alt="Search" border="0" name="btnGo" src="/img/go.gif" type="image">
+	                        </td>
+	                      </tr>
+	                      <tr bgcolor="#D2EAFB"> 
+	                        <td colspan="2"><img src="/img/spac.gif" width="1" height="3"></td>
+	                      </tr>
+	                    </tbody></table>
+	                  </td>
+	                </tr>
+	              
+	              
+	            </tbody></table>
+	          </td>
+	        </tr>
+	        <tr> 
+	          <td align="center"> <br>
+	            <table width="86%" border="0" cellspacing="0" cellpadding="0" height="21">
+	              
+	              <tbody><tr> 
+	                <td> 
+	                  <!--------Top Brands------------>
+	                  <table width="140" cellspacing="0" cellpadding="0" align="center">
+	                    <tbody><tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td class="cathd" height="23" bgcolor="#F7F7F7" colspan="2"><img src="/img/spimg/obul.gif"> 
+	                        <a href="#" class="catb">Top Brands</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" width="140" height="1"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" valign="middle" colspan="2"><img src="/img/arrow.gif"> 
+	                        <a href="/vendor/xq/asp/qx/sn.htm" class="cat">Source 
+	                        Naturals</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/qx/plan.htm" class="cat">Planetary 
+	                        Formulas</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/qx/jarrow.htm" class="cat">Jarrow 
+	                        Formulas</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/vid.10/qx/vendetail.htm" class="cat">Alvita 
+	                        Teas</a> </td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/vid.103/qx/vendetail.htm" class="cat">Natrol</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" width="86"><img src="/img/arrow.gif"> <a href="/vendor/xq/asp/vid.150/qx/vendetail.htm" class="cat">Twinlab</a></td>
+	                      <td height="20" width="62" align="right"><a href="/vendor/xq/asp/qx/default.htm" class="cat"><b>more..</b></a></td>
+	                    </tr>
+	                  </tbody></table>
+	                  <!--------Top Brands------------>
+	                </td>
+	              </tr>
+	              
+	              <tr> 
+	                <td> 
+	                  <!--------Top Categories------------>
+	                  <table width="140" cellspacing="0" cellpadding="0" align="center">
+	                    <tbody><tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td class="cathd" height="23" bgcolor="#F7F7F7" colspan="2"><img src="/img/spimg/obul.gif"> 
+	                        Top Categories</td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" valign="middle" colspan="2"><img src="/img/arrow.gif"> 
+	                        <a href="/shop/xq/asp/catid.3/qx/spcat.htm" class="cat">Minerals</a> 
+	                      </td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.4/qx/spcat.htm" class="cat">Vitamins</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.5/qx/spcat.htm" class="cat">Supplements</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.6/qx/spcat.htm" class="cat">Quasi-Vitamins</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.8/qx/spcat.htm" class="cat">Amino 
+	                        Acid</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" width="73"><img src="/img/arrow.gif"> <a href="/shop/spcat.asp?catid=7" class="cat">Wellness</a></td>
+	                      <td height="20" width="70" align="right" valign="bottom"><a href="/prevent/xq/asp/qx/default.htm" class="cat"><b>more..</b></a></td>
+	                    </tr>
+	                  </tbody></table>
+	                  <!--------Top Categories------------>
+	                </td>
+	              </tr>
+	              
+	              <tr> 
+	                <td> 
+	                  <!--------Top Ailments------------>
+	                  <table width="140" cellspacing="0" cellpadding="0" align="center">
+	                    <tbody><tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td class="cathd" height="23" bgcolor="#F7F7F7" colspan="2"><img src="/img/spimg/obul.gif"> 
+	                        <a href="/cure/xq/asp/qx/default.htm" class="catb">Top 
+	                        Ailments</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" valign="middle" colspan="2"><img src="/img/arrow.gif"> 
+	                        <a href="/shop/xq/asp/catid.7/Char.All/qx/catlist.htm" class="cat">Allergies</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.10/qx/spcat.htm" class="cat">Anxiety</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.1/qx/spcat.htm" class="cat">Arthritis</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.63/qx/spcat.htm" class="cat">Depression 
+	                        </a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" colspan="2"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.132/qx/spcat.htm" class="cat">Menopause</a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                    <tr> 
+	                      <td height="20" width="99"><img src="/img/arrow.gif"> <a href="/shop/xq/asp/catid.52/qx/spcat.htm" class="cat"> 
+	                        Cold</a></td>
+	                      <td height="20" width="45" align="right"><a href="/cure/xq/asp/qx/default.htm" class="cat"><b>more..</b></a></td>
+	                    </tr>
+	                    <tr> 
+	                      <td colspan="2"><img src="/img/line.gif" height="1" width="140"></td>
+	                    </tr>
+	                  </tbody></table>
+	                </td>
+	              </tr>
+	              
+	            </tbody></table>
+	          </td>
+	        </tr>	
+	        
+	        
+	        
+				<tr> 
+				  <td align="left"> 
+				    <table width="98%" border="0" cellspacing="0" cellpadding="0" align="right">
+				      <tbody><tr> 
+				        <td align="center" class="verd"> <img src="/img/spacer.gif" height="8" width="1"><br>
+				          <table width="99%" border="0" cellspacing="0" cellpadding="0">
+							
+								<tbody><tr>
+								  <td align="center"><a href="/sp/xq/asp/store.MYR/qx/default.htm" target="_blank"><img src="/img/tabs/262.gif" width="161" height="71" border="0"></a><br><img src="/img/spacer.gif" height="5" width="1"></td>
+								</tr>
+								
+								<tr>
+								  <td align="center"><a href="/sp/xq/asp/store.BROM/qx/default.htm" target="_blank"><img src="/img/tabs/250.gif" width="161" height="71" border="0"></a><br><img src="/img/spacer.gif" height="5" width="1"></td>
+								</tr>
+								
+								<tr>
+								  <td align="center"><a href="/sp/xq/asp/store.RMUSH/qx/default.htm" target="_blank"><img src="/img/tabs/239.gif" width="161" height="71" border="0"></a><br><img src="/img/spacer.gif" height="5" width="1"></td>
+								</tr>
+								
+								<tr>
+								  <td align="center"><a href="/sp/xq/asp/store.HERC/qx/default.htm" target="_blank"><img src="/img/tabs/125.gif" width="161" height="71" border="0"></a><br><img src="/img/spacer.gif" height="5" width="1"></td>
+								</tr>
+								
+								<tr>
+								  <td align="center"><a href="/sp/xq/asp/store.CHAP/qx/default.htm" target="_blank"><img src="/img/tabs/69.gif" width="161" height="71" border="0"></a><br><img src="/img/spacer.gif" height="5" width="1"></td>
+								</tr>
+								
+				          </tbody></table>
+				        </td>
+				      </tr>
+				      <tr>
+				
+	                <td align="center" class="verd"><img src="/img/sven/seal.gif"><br>
+	                  <font color="#0000FF"><b>Shop Online, Pay By Phone!</b></font></td>
+	              </tr>
+	              <tr> 
+	                <td class="pdetail">Place your order online and give your credit 
+	                  card number by phone. (<a href="#" onclick="window.open('/pop.htm','mail','width=430,height=220,left=150,top=20,resizable=yes');" class="send">more 
+	                  info</a>)</td>
+	              </tr>
+	            </tbody></table>
+	          </td>
+	        </tr>
+	      </tbody></table>
+	    </td>
+	    <td class="right" bgcolor="#D2EAFB" rowspan="5" width="6"><img src="/img/spac.gif" height="1" width="6"></td>
+	  </tr>
+	  <tr> </tr>
+	  <form name="form1" method="post" action=""></form>
+	    <tr> </tr>
+	    <tr> </tr>
+	  
+	  <tr> 
+	    <td align="center" valign="top" width="186"></td>
+	  </tr>
+	  <tr> 
+	    <td colspan="3" align="center" valign="top"><img src="/img/curv1.jpg" width="193"></td>
+	  </tr>
+	</tbody></table>
+	
     </td>
   </tr>
   <tr> 
     <td align="center" valign="top" colspan="2"> 
-       
-	<style type="text/css"><!--
-	.tabstyle{border-left:solid #4d99e5 1px;border-right:solid #4d99e5 1px;border-bottom:solid #4d99e5 1px;border-top:solid #4d99e5 1px}
-	//-->
-	</style>
+      
+<style type="text/css"><!--
+.tabstyle{border-left:solid #4d99e5 1px;border-right:solid #4d99e5 1px;border-bottom:solid #4d99e5 1px;border-top:solid #4d99e5 1px}
+//-->
+</style>
 <img src="/img/spacer.gif" width="1" height="8"><br>
-
-<script>
-	function act(id){
-		if(confirm("Are you sure to clear History?")){
-			document.location.href = id ;  
-			//alert(id);	
-		}
-	}
-</script>
 <table width="755" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr> 
     <td> 
-	  <!--------------------------  Main Code ------------------------->	
-		  
-      <!-------------------------- Main Code ------------------------> 	
-	</td>
+      <!--------------------------  Main Code ------------------------->
+      <!-------------------------- Main Code ------------------------>
+    </td>
   </tr>
-  <tr>
-  	<td> 
+  <tr> 
+    <td> 
       <!----------------- Footer --------------------->
       <hr width="80%" size="1">
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
-			  <tbody><tr> 
-				<td align="center" class="foot1" width="116" rowspan="3"> 
-				  <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="center" class="foot1" width="116" rowspan="3">  <table border="0" cellspacing="0" cellpadding="0">
 					
 					 
 					<tbody><tr> 
@@ -874,41 +906,41 @@ var l = "<a href='javascript:lhLoadChat(\""+c+"\",\""+g+"\",\""+p+"\")' target='
 lhWR('<table border="0" cellspacing="0" cellpadding="0"><tr><td align="middle" valign="top">'+l+'</td></tr></table>');
 lhCM(c,g,p);
 }
-</script> <script language="javascript">setIconBsyImg("1091703", escape("HMD"), escape("HerbsMd"),"http://www.herbsmd.com/img/help/live.gif","http://www.herbsmd.com/img/help/sorry.gif","image");</script><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="middle" valign="top"><a name="chatLink" href='javascript:lhLoadChat("1091703", "HMD", "HerbsMd");' target="_self"><img name="lh94999" id="lh94999" border="0" src="http://newchat.livehelper.com/servlet/lhChat?ACTION=GIVEIMAGE&amp;COMPANYID=1091703&amp;ONLINEURL=http%3A//www.herbsmd.com/img/help/live.gif&amp;OFFLINEURL=http%3A//www.herbsmd.com/img/help/sorry.gif&amp;rnd=0.3562486867241814"></a></td></tr></tbody></table>
+</script> <script language="javascript">setIconBsyImg("1093168", escape("HMD"), escape("HMD"),"http://www.herbsmd.com/img/help/live.gif","http://www.herbsmd.com/img/help/sorry.gif","image");</script><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="middle" valign="top"><a name="chatLink" href='javascript:lhLoadChat("1093168", "HMD", "HMD");' target="_self"><img name="lh41320" id="lh41320" border="0" src="http://newchat.livehelper.com/servlet/lhChat?ACTION=GIVEIMAGE&amp;COMPANYID=1093168&amp;ONLINEURL=http%3A//www.herbsmd.com/img/help/live.gif&amp;OFFLINEURL=http%3A//www.herbsmd.com/img/help/sorry.gif&amp;rnd=0.6448688251380783"></a></td></tr></tbody></table>
 					  </td>
 					</tr>
 					
-				  </tbody></table>
-				  <a href="http://www.horny-goat-weed.org" class="fh"><img src="/img/spacer.gif" width="1" height="1" border="0"></a><a href="http://www.4-melatonin.com" class="fh"><img src="/img/spacer.gif" width="1" height="1" border="0"></a><a href="http://www.liquid-creatine.net" class="fh"><img src="/img/spacer.gif" width="1" height="1" border="0"></a></td>
-				<td align="center" class="disc" width="546"><br>
-				  Copyright © 2002 HerbsMD.Com, All rights reserved.<img src="/img/spacer.gif" width="1" height="6"> 
-				</td>
-				<td align="center" class="foot1" width="117" rowspan="3"><a href="javascript:;" onclick="MM_openBrWindow('http://certs.ipsca.com/sslcheck/servidorseguro.asp?numeroserie=07:7B:51:03:E2:B0:1F:7C:43:C4:D5:7A:F3:83:B9:FF:F4:BD:78:0B','','status=yes,scrollbars=yes,resizable=yes,width=550,height=500')"><img src="/img/ipsCA.gif" border="0"></a></td>
-			  </tr>
-			  <tr> 
-				<td align="center" class="disc1" width="546">Statement contained within this 
-				  web site have not been evaluated by the Food and Drug Administration.<br>
-				  These products are not intended to diagnose, treat, cure or prevent any 
-				  disease. </td>
-			  </tr>
-			  <tr> 
-				<td align="center" class="foot1" width="546" valign="top"><a href="http://www.progesterone-cream.net" class="fh"><img src="/img/spacer.gif" width="2" height="2" border="0"></a> 
-				  <a href="http://www.gotu-kola.org" class="fh"><img src="/img/spacer.gif" width="2" height="2" border="0"></a><a href="/" class="foot"><br>
-				  Home</a> <a href="http://www.5-htp-supplement.com" class="fh">|</a> <a href="/xq/asp/qx/aboutus.htm" class="foot">About 
-				  Us</a> <a href="http://www.flaxseed-oil.com" class="fh">|</a> <a href="/shop/xq/asp/qx/default.htm" class="foot">Shop</a> 
-				  <a href="http://www.gymnema-sylvestre.com" class="fh">|</a> <a href="/xq/asp/qx/cus.htm" class="foot">Contact 
-				  Us</a> <a href="http://www.inositol.net" class="fh">|</a> <a href="/xq/asp/qx/privacy.htm" class="foot">Privacy 
-				  Policy</a> <a href="http://www.herbsmd.com" class="fh">|</a> <a href="/xq/asp/qx/shipping.htm" class="foot">Shipping</a> 
-				  <a href="http://www.l-arginine.net" class="fh">|</a> <a href="/shop/xq/asp/qx/cart.htm" class="foot">Shopping 
-				  Cart</a><br>
-				  <a href="/xq/asp/qx/term.htm" class="foot">Terms and Conditions</a> <a href="http://www.cordyceps-mushroom.com" class="fh">|</a> 
-				  <a href="/xq/asp/qx/sitemap.htm" class="foot">Site Map</a> <a href="http://www.damiana-leaf.com" class="fh">|</a> 
-				  <a href="/xq/asp/qx/disc.htm" class="foot">Disclaimer</a> <a href="http://www.liquid-creatine.net" class="fh"><img src="/img/spacer.gif" width="2" height="2" border="0"></a></td>
-			  </tr>
-			</tbody></table>
-		<!----------------- Footer --------------------->
-	</td>
-  </tr> 	
+				  </tbody></table></td>
+          <td align="center" class="disc" width="546"><br>
+            Copyright © 2002 HerbsMD.Com, All rights reserved.<img src="/img/spacer.gif" width="1" height="6"> 
+          </td>
+          <td align="center" class="foot1" width="117" rowspan="3"><img src="/img/thawtelog.gif"></td>
+        </tr>
+        <tr> 
+          <td align="center" class="disc1" width="546">Statement contained within 
+            this web site have not been evaluated by the Food and Drug Administration.<br>
+            These products are not intended to diagnose, treat, cure or prevent 
+            any disease. </td>
+        </tr>
+        <tr> 
+          <td align="center" class="foot1" width="546" valign="top"><a href="http://www.progesterone-cream.net" class="fh"><img src="/img/spacer.gif" width="2" height="2" border="0"></a> 
+            <a href="http://www.gotu-kola.org" class="fh"><img src="/img/spacer.gif" width="2" height="2" border="0"></a><a href="/" class="foot"><br>
+            Home</a> <a href="http://www.5-htp-supplement.com" class="fh">|</a> 
+            <a href="/xq/asp/qx/aboutus.htm" class="foot">About Us</a> <a href="http://www.flaxseed-oil.com" class="fh">|</a> 
+            <a href="/shop/xq/asp/qx/default.htm" class="foot">Shop</a> <a href="http://www.gymnema-sylvestre.com" class="fh">|</a> 
+            <a href="/xq/asp/qx/cus.htm" class="foot">Contact Us</a> <a href="http://www.inositol.net" class="fh">|</a> 
+            <a href="/xq/asp/qx/privacy.htm" class="foot">Privacy Policy</a> <a href="http://www.herbsmd.com" class="fh">|</a> 
+            <a href="/xq/asp/qx/shipping.htm" class="foot">Shipping</a> <a href="http://www.l-arginine.net" class="fh">|</a> 
+            <a href="/shop/xq/asp/qx/cart.htm" class="foot">Shopping Cart</a><br>
+            <a href="/xq/asp/qx/term.htm" class="foot">Terms and Conditions</a> 
+            <a href="http://www.cordyceps-mushroom.com" class="fh">|</a> <a href="/xq/asp/qx/sitemap.htm" class="foot">Site 
+            Map</a> <a href="http://www.damiana-leaf.com" class="fh">|</a> <a href="/xq/asp/qx/disc.htm" class="foot">Disclaimer</a> 
+            <a href="http://www.liquid-creatine.net" class="fh"><img src="/img/spacer.gif" width="2" height="2" border="0"></a></td>
+        </tr>
+      </tbody></table>
+      <!----------------- Footer --------------------->
+    </td>
+  </tr>
 </tbody></table>
 
     </td>
