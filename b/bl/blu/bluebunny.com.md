@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616151227id_/http%3A//bluebunny.com/_include/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206232200id_/http%3A//bluebunny.com/_include/privacy.cfm) for the most accurate reproduction.*
 
 # BlueBunny.Com Privacy Policy
 
