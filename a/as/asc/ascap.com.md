@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascap.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607182906id_/http%3A//www.ascap.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascap.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207035326id_/http%3A//ascap.com/privacy.html) for the most accurate reproduction.*
 
 # ASCAP Privacy Policy
 
@@ -14,11 +14,4 @@ ASCAP is not responsible for the content or privacy practices of third-party Web
 
 If you have any comments or questions regarding our privacy policy, please contact our webmaster at [ webmaster@ascap. com](https://web.archive.org/webmaster-form.html) .
 
-ASCAP will not use the personal information given on-line by applicants forASCAP membership for any purpose other than the processing of the applicants'applications. If an applicant is accepted for membership, we will handle his orher personal information as we do all ASCAP members' personal information, usingit only in furtherance of communications ordinarily exchanged with or engaged inwith our membership body.
-
-Please be aware that if you have entered ASCAP's on-line applicationthrough the MP3.com gateway, or acknowledge on your application that you are anMP3.com member, certain personal identifying information: 
-
-  1. will be given toMP3.com for the purposes of permitting MP3.com to determine whether you, as anapplicant, are also an MP3.com member eligible to have MP3.com pay your firstyear of ASCAP dues and 
-  2. may be used by MP3.com in accordance with itsmembership terms and conditions as well as its web site's privacy policy, found at [ http://www.mp3.com/privacy.html](http://www.mp3.com/privacy.html) .
-
-
+ASCAP will not use the personal information given on-line by applicants for ASCAP membership for any purpose other than the processing of the applicants'applications. If an applicant is accepted for membership, we will handle his or her personal information as we do all ASCAP members' personal information, using it only in furtherance of communications ordinarily exchanged with or engaged in with our membership body.
