@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paloalto.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622080044id_/http%3A//paloalto.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paloalto.com privacy policy that was archived on 2004-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040726082925id_/http%3A//paloalto.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Palo Alto Software, Inc.
 
