@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bipamerica.com privacy policy that was archived on 2004-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040414134511id_/http%3A//www.names.co.uk/index.php%3Flink%3Dprivacy.html%26%26source%3D45035) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bipamerica.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806153530id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement :: Namesco Limited Domain Names, Hosting and Dedicated Server Solutions
 
@@ -16,7 +16,7 @@ This web site agrees to notify you of:
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20040623011325id_/http://www.names.co.uk/contact.html)
+If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20040806153530id_/http%3A//www.names.co.uk/contact.html)
 
 Information Collection and Use 
 
