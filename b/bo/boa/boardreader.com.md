@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205221617id_/http%3A//www.boardreader.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626171417id_/http%3A//boardreader.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
