@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideas.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408063451id_/http%3A//www.ideas.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideas.com privacy policy that was archived on 2001-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010812233401id_/http%3A//www.ideas.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Ideas.com - Ideas.com Privacy Notice
 
