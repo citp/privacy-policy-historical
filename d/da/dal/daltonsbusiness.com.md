@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607183806id_/http%3A//daltonsbusiness.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206181638id_/http%3A//www.daltonsbusiness.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # DaltonsBusiness.com - Businesses for sale throughout the UK
 
