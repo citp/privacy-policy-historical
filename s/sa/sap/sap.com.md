@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033027id_/http%3A//sap.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205033025id_/http%3A//www9.sap.com/privacy.asp) for the most accurate reproduction.*
 
 # SAP - SAP Privacy Statement
 
@@ -80,5 +80,5 @@ Or e-mail: [webmaster@sap.com](mailto:webmaster@sap.com)
 
 By using this Web site, you consent to the collection and use of the information as described here. If we decide to make changes to this privacy policy, we will post the changes on this page so that you always know what information we collect, how we use it, and when and how we disclose it.
 
-**Want to learn more?** [Contact SAP](https://web.archive.org/contactsap/) for additional information.  
+**Want to learn more?** Contact the [SAP sales office](https://web.archive.org/contact/) nearest you.  
  
