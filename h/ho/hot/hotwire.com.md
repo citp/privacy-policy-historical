@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216022256id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp%3Fv%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413074619id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp%3Flid%3Dindex%3Anav%3Abotnav%3A0%3Aprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hotwire Is a TRUSTe Privacy Program Licensee
 
@@ -6,7 +6,7 @@
 
 The TRUSTe "trustmark" confirms that Hotwire is a licensee of the TRUSTe Privacy Program. To view Hotwire's TRUSTe validation, please click on the trustmark. 
 
-This privacy statement discloses the privacy practices for [www.hotwire.com](https://web.archive.org/index.jsp), including:
+This privacy statement discloses the privacy practices for [www.hotwire.com](http://www.hotwire.com/index.jsp), including:
 
 |  •  | What information we collect from you  
 ---|---  
@@ -51,7 +51,7 @@ With the exception of emails confirming registration, emails that include inform
 ---|---  
  •  | Send an email to [TheHotwire@hotwire.com](mailto:TheHotwire@hotwire.com) and type "Unsubscribe" in the subject line.  
  •  | Click on "My Account" at the top of any page on our site and update your "Account Settings" (the opt-in/out area is located under "Contact Details," below your email).  
- •  | Call us at **1- 877-HOTWIRE (468-9473).**  
+ •  | Call us at **1- 866-HOTWIRE (468-9473).**  
  •  | Send a written request to:  
  **The Hotwire Email Newsletter  
 333 Market Street, Suite 100  
@@ -82,10 +82,10 @@ If you have questions or concerns regarding your privacy or security on our site
 For other issues, we can be reached in the following ways:
 
 Email  
-Our customer care associates are available 24 hours a day, seven days a week. If you wish to [email](https://web.archive.org/customer-care/contact.jsp) us, we'll do our best to respond by the end of the next business day. 
+Our customer care associates are available 24 hours a day, seven days a week. If you wish to [email](http://www.hotwire.com/customer-care/contact.jsp) us, we'll do our best to respond by the end of the next business day. 
 
 Phone Toll-Free - within the U.S. and Canada  
-1-877-HOTWIRE (468-9473)
+1-866-HOTWIRE (468-9473)
 
 Phone - outside of the U.S. and Canada  
 1-920-330-9418 (regular toll charges apply)
