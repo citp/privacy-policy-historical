@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402140821id_/http%3A//www.heartmath.com/home/aboutheartmath/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001231706id_/http%3A//www.heartmath.com/home/aboutheartmath/privacy_policy.html) for the most accurate reproduction.*
 
 # HeartMath LLC Privacy Statement
 
@@ -22,7 +22,7 @@ We agree to notify you of:
 
 7\. How you can correct any inaccuracies in the information. 
 
-**If you feel that this company is not abiding by its posted privacy policy, you should first contact Denny Howe, VP of Marketing by phone at 800-450-9111 / 831-338-8700 or email at[dhowe@heartmath.com](mailto:dhowe@heartmath.com).**
+**If you feel that this company is not abiding by its posted privacy policy, you should first contact Tom Beckman by phone at 800-450-9111 / 831-338-8700 or email at[tom@heartmath.com](mailto:tom@heartmath.com).**
 
 **Information Collection and Use**
 
