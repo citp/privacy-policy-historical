@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedvacations.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005225735id_/http%3A//unitedvacations.com/rese/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedvacations.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232849id_/http%3A//unitedvacations.com/rese/help/privacy.asp) for the most accurate reproduction.*
 
 # United Vacations - Welcome! - Vacation Packages to Europe London Paris Las Vegas California Hawaii Walt Disney World Florida Canada ski vacation package
 
@@ -19,7 +19,8 @@ This policy applies to all personal information collected by or submitted to Uni
   
 **Third Party Web Sites Accessible via united.com**
 
-The unitedvacations.com web site contains links to web sites maintained by third parties. Please be aware that we are not responsible for the privacy practices of those sites. This Privacy Policy covers only the unitedvacations.com site, and does not cover any other site, including those related to this site such as united.com, ual.com or the non-U.S. united.com sites. We have no control over other sites' privacy policies or use of any personal information you or others may share with them. Please do not assume that our Privacy Policy covers those other sites. 
+The unitedvacations.com web site contains links to web sites maintained by third parties. Please be aware that we are not responsible for the privacy practices of those sites. This Privacy Policy covers only the unitedvacations.com site, and does not cover any other site, including those related to this site such as united.com, ual.com or the non-U.S. united.com sites. We have no control over other sites' privacy policies or use of any personal information you or others may share with them. Please do not assume that our Privacy Policy covers those other sites.   
+
 
   
 **Information United Vacations Collects**
@@ -64,7 +65,8 @@ United Vacations may also use non-identifying or aggregate information to improv
   
 **United Vacations use of IP Addresses and Cookies**
 
-United Vacations uses cookies to track visitors to our site. United Vacations gathers the number of unique visitors as well as the number of page views each visitor makes. The information is used for promotional and marketing purposes only and in the compilation of web usage reports. The reports generated do not recognize any information specific to your location, or anything specific to your individual machine. Cookies are tiny files that are placed on the hard drive of your computer. Cookies do not extract private or personal information from your computer.
+United Vacations uses cookies to track visitors to our site. United Vacations gathers the number of unique visitors as well as the number of page views each visitor makes. The information is used for promotional and marketing purposes only and in the compilation of web usage reports. The reports generated do not recognize any information specific to your location, or anything specific to your individual machine. Cookies are tiny files that are placed on the hard drive of your computer. Cookies do not extract private or personal information from your computer.  
+
 
   
 **United Vacations Commitment to Information Security**
@@ -74,7 +76,8 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
   
 **United Vacations Commitment to Child Privacy**
 
-Protecting the privacy of children is very important to United Vacations. United Vacations does not collect or maintain information from our website from those known to be under 13 years of age. No part of the United Vacations website is designed to attract anyone under the age of 13. When online bookings are made, the ages of children traveling with an adult are collected so that the appropriate hotel room and pricing can be chosen for the reservation. The lowest age range specified on the guestbook sign up form is "18 and under."
+Protecting the privacy of children is very important to United Vacations. United Vacations does not collect or maintain information from our website from those known to be under 13 years of age. No part of the United Vacations website is designed to attract anyone under the age of 13. When online bookings are made, the ages of children traveling with an adult are collected so that the appropriate hotel room and pricing can be chosen for the reservation. The lowest age range specified on the guestbook sign up form is "18 and under."  
+
 
   
 **How to Access or Correct Your Information**
@@ -98,9 +101,11 @@ If you are not interested in receiving either e-mail or other forms of direct ma
   
 **Notification of Changes to United Vacations Information-Use Policies**
 
-If at some future date, United Vacations determines that it will change the manner in which it uses the information it collects on the website, you will be notified prior to United Vacations making the change. You would have the option of choosing to continue or not continue to be a member of the United Vacations database receiving emails, and would have the option of unsubscribing. Information collected prior to any information-use changes would be managed according to the Privacy Policy in place at the time it was collected. Only new information collected online would be subject to any new information-use policies. 
+If at some future date, United Vacations determines that it will change the manner in which it uses the information it collects on the website, you will be notified prior to United Vacations making the change. You would have the option of choosing to continue or not continue to be a member of the United Vacations database receiving emails, and would have the option of unsubscribing. Information collected prior to any information-use changes would be managed according to the Privacy Policy in place at the time it was collected. Only new information collected online would be subject to any new information-use policies.   
+
 
   
 **How to Contact United Vacations**
 
-If you have any questions or comments regarding the United Vacations privacy policy, please contact United Vacations via online [Customer Service](http://www.unitedvacations.com/gues/customer.asp). 
+If you have any questions or comments regarding the United Vacations privacy policy, please contact United Vacations via online [Customer Service](http://www.unitedvacations.com/gues/customer.asp).  
+
