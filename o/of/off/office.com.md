@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218004043id_/http%3A//office.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014180213id_/http%3A//www.office.com/privacy.htm) for the most accurate reproduction.*
 
 # Office.com
 
-|  |  [Home](https://web.archive.org/web/20011218004043id_/http%3A//office.com/index.html) > Privacy Policy  
+|  |  [Home](https://web.archive.org/web/20021014180213id_/http%3A//www.office.com/index.html) > Privacy Policy  
 Privacy Policy  
 Last Updated: 2/9/2001
 
-Office.com Inc. ("OCI", "us", or "we") maintains high standards for the protection of the privacy of users of the Office.com site and various related services that we provide (together referred to as the "Site"). This Privacy Policy contains important information about how we may use and disclose personal information about you. Please read it carefully. You should also read our [Terms of Service](https://web.archive.org/web/20011218004043id_/http%3A//office.com/terms.htm), which governs your use of the Site. 
+Office.com Inc. ("OCI", "us", or "we") maintains high standards for the protection of the privacy of users of the Office.com site and various related services that we provide (together referred to as the "Site"). This Privacy Policy contains important information about how we may use and disclose personal information about you. Please read it carefully. You should also read our [Terms of Service](https://web.archive.org/web/20021014180213id_/http%3A//www.office.com/terms.htm), which governs your use of the Site. 
 
 We review our privacy practices from time to time. Please bookmark and periodically review this page for updates to our Privacy Policy. A link to this page also appears on most Site pages. To contact us about privacy issues, to report a violation of our Privacy Policy, or to raise any other privacy-related issue, please e-mail us at [privacy@office.com](mailto:privacy@office.com). 
 
