@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621184929id_/http%3A//www.travel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204024300id_/http%3A//www.travel.com/privacy.htm) for the most accurate reproduction.*
 
 # TRAVEL.com - Privacy Statement
 
-**Privacy Statement**  
 TRAVEL.com does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. Currently, the only places where individual information is collected are our messaging forums and when one submits their website URL to be listed at TRAVEL.com. This information is only used internally at TRAVEL.com, mainly for verification purposes and for statistical analysis to get a general idea of the background of our users. 
 
 Except as required by law, TRAVEL.com will not give out personal user data to third parties. However, TRAVEL.com reserves the right to contact members of our database for verification purposes. 
 
 TRAVEL.com reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. TRAVEL.com will provide only aggregated data from these analyses to third parties. 
+
+Travel.com works with a third party that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to http://www.engage.com/privacy. 
 
 Also, users should be aware that TRAVEL.com may sometimes permit third parties to offer subscription and/or registration-based services through a TRAVEL.com site. TRAVEL.com is not responsible for any actions or policies of such third parties and users should check the applicable privacy policy of such party when providing personally identifiable information. 
 
