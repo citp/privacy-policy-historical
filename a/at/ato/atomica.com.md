@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the atomica.com privacy policy that was archived on 2001-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011004100014id_/http%3A//atomica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomica.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603025519id_/http%3A//www.atomica.com/privacy.html) for the most accurate reproduction.*
 
-# Atomica Corporation
+# Atomica: One source for integrated answers on demand.
 
   
-[ ](https://web.archive.org/web/20011004100014id_/http%3A//atomica.com/index.html)  
-[ ](https://web.archive.org/web/20011004100014id_/http%3A//atomica.com/solutions_enterprise.html)  
-[ ](https://web.archive.org/web/20011004100014id_/http%3A//atomica.com/services_professional.html)  
-[ ](https://web.archive.org/web/20011004100014id_/http%3A//atomica.com/support_general.html)  
-[ ](https://web.archive.org/web/20011004100014id_/http%3A//atomica.com/new_news.html)  
-[ ](https://web.archive.org/web/20011004100014id_/http%3A//atomica.com/about_comp.html)  
+[ ](https://web.archive.org/web/20020603025519id_/http%3A//www.atomica.com/index.html)  
+[ ](https://web.archive.org/web/20020603025519id_/http%3A//www.atomica.com/solutions_enterprise.html)  
+[ ](https://web.archive.org/web/20020603025519id_/http%3A//www.atomica.com/services_professional.html)  
+[ ](https://web.archive.org/web/20020603025519id_/http%3A//www.atomica.com/support_general.html)  
+[ ](https://web.archive.org/web/20020603025519id_/http%3A//www.atomica.com/new_news.html)  
+[ ](https://web.archive.org/web/20020603025519id_/http%3A//www.atomica.com/about_comp.html)  
 |  | 
 
   * Privacy Policy Overview
