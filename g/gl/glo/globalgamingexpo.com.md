@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331135517id_/http%3A//www.globalgamingexpo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803223846id_/http%3A//globalgamingexpo.com/privacy.asp) for the most accurate reproduction.*
 
 # Global Gaming Expo (G2E)
 
@@ -24,9 +24,11 @@
 
 [](http://www.ego.nl/)
 
-[](http://www.gamma.org/)
-
 [](http://www.alaja.com/)
+
+[](http://www.gamingstandards.com/)
+
+[](http://www.auscasinos.com/)
 
 | |    
 | |   
@@ -45,6 +47,10 @@
   
 [](http://the-indigenous-times.sk.ca/)  
 [](http://www.casinoslatinoamerica.com/)  
+[](mailto:infom@rinet.ru)  
+  
+[](http://www.indiancountry.com/)  
+[](http://www.gbd-online.com/)  
 | |    
 | |   
   
@@ -97,6 +103,9 @@ Phone:  Within the US at 888-306-2344
 From Outside the US at 203-840-5810  
 Email:   [privacyadmin@recusprivacy.com ](mailto:privacyadmin@recusprivacy.com)
 
+  
+[](https://web.archive.org/privacy.asp?print=true) [Printable Version](https://web.archive.org/privacy.asp?print=true)  
+[Printing Instructions](https://web.archive.org/printhelp.asp)   
 [](https://web.archive.org/register/doreg.asp)
 
 [](https://web.archive.org/exhibits/exhibit.asp)      [](https://web.archive.org/contact/moreinfo.asp)      [](javascript:popWin\('/tellem/tellem.asp?RefPage=/privacy.asp', 'TellAFriend', 'scrollbars=yes,width=400,height=450'\))
