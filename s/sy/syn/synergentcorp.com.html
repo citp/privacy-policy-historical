@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the synergentcorp.com privacy policy that was archived on 2003-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030601085120id_/http%3A//synergentcorp.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the synergentcorp.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203024531id_/http%3A//synergentcorp.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head><title>Synergent Corporation - Privacy Statement</title>
 <link rel="stylesheet" href="style.css">
@@ -28,6 +28,19 @@ function CloseWindow() {
   if (spawn != null && spawn.open) spawn.close();
 }
 
+
+	var childWindows = new Array(); // array of childWindows
+	function openMovieWindow(fileName,windowName,windowAttr){
+		if(!windowName){windowName = "popoutWindow";}
+		if(!windowAttr){windowAttr = "screenX=50,screenY=50,top=50,left=50,height=350,width=320,channelmode=0,dependent=0,directories=0,fullscreen=0,location=0,resizable=0,scrollbars=0,status=0,toolbar=0";}
+		var x = childWindows.length;
+		childWindows[x] = window.open(fileName,windowName,windowAttr);
+		if(childWindows[x].opener == null){childWindows[x].opener = self;}
+		childWindows[x].focus();
+	}
+
+
+
 //-->
 </script>
 <a name="top">
@@ -35,8 +48,11 @@ function CloseWindow() {
 <table border="0" cellpadding="0" cellspacing="0" width="700">
 				<tbody><tr>
 					<td width="19" align="center" valign="top"></td>
-					<td width="153" align="left" valign="top"><img src="images/blank.gif" width="165" height="2" border="0"><br><a href="index.html"><img height="37" width="143" src="images/logo.gif" border="0"><br>
-					</a></td>
+					<td width="153" align="left" valign="top" rowspan="2">
+						<img src="images/blank.gif" width="165" height="2" border="0"><br>
+						
+						<a href="index.html"><img height="37" width="143" src="images/logo.gif" border="0"><br>
+						</a><div style="margin-top:120px;position:relative;left:-90px;"><a href="index.html"></a><a href="movies/" class="movielink" style="width:100%;"></a></div>					</td>
 					<td bgcolor="#009900" valign="top" rowspan="2"><img src="images/middleimage/aboutus.jpg" width="329" height="182" border="0"></td>
 					<td valign="top" bgcolor="#009900" rowspan="2"><img src="images/blank.gif" width="5" height="1" border="0"></td>
 					<td valign="top" bgcolor="#009900" rowspan="2"><img src="images/blank.gif" width="250" height="1" border="0"><br>
@@ -125,6 +141,9 @@ Synergent may use feedback information from emails sent to Synergent to respond 
 			</a><br><br>
 
 			
+
+			<a href="http://www.apple.com/quicktime/download/" target="_new"><img src="images/qtlogo.gif" border="0"></a>
+
 		</font></font></font></font></font></td>
 	</tr>
 </tbody></table>
