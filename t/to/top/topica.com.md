@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the topica.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618145513id_/http%3A//www.topica.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topica.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074354id_/http%3A//topica.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
-# Topica : Privacy
+# Topica: Privacy
 
-[](http://www.truste.org/watchdog.html) Topica’s Privacy Policy
+[](http://www.truste.org/ivalidate.php?url=www.topica.com) Topica’s Privacy Policy
 
 Topica is committed to protecting your privacy. We want you to feel free to express yourself on the Topica system, so we are committed to allowing you to feel secure in an environment that puts you in control of what you share with the rest of the community, and with Topica. 
 
 Topica will never willfully disclose personally identifiable information about its customers to any third party without first receiving that customer’s permission, unless necessary for legal reasons.
 
-Topica Inc. is a licensee of the [TRUSTe](http://www.truste.org/watchdog.html) Privacy Program. This statement discloses the privacy practices for Topica’s Web site. TRUSTe certifies the gathering and dissemination of information on the website, not any services or software. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; how the information is used; with whom the information may be shared; and how you can correct any inaccuracies in the information. 
+Topica Inc. is a licensee of the [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) Privacy Program. This statement discloses the privacy practices for Topica’s Web site. TRUSTe certifies the gathering and dissemination of information on the website, not any services or software. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; how the information is used; with whom the information may be shared; and how you can correct any inaccuracies in the information. 
 
-Questions regarding this statement should be directed to our [Privacy and Standards department](https://web.archive.org/about/contact.html?mode=privacy). If Topica has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you can contact [TRUSTe](http://www.truste.org/watchdog.html).
+Questions regarding this statement should be directed to our [Privacy and Standards department](https://web.archive.org/about/contact.html?mode=privacy). If Topica has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you can contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php).
+
+This policy effective as of July 7, 2004.
 
 What information does Topica collect?  
 You don't need to provide any information in order to browse the Topica directory, use the search functionality to find an email newsletter or discussion group, or view the archives of lists that the list publisher has chosen to make public. A public list is one whose archives are readable not only by subscribers, but by any visitor to the Topica site – whether registered or not. On all public lists viewable through the Topica Web site, the email addresses of participants are partially obscured so they are not obtainable by unauthorized visitors. A private list is one whose archives are only accessible to registered Topica users who are subscribed to that list. On both public and private lists, subscribers of any given list have access to one another's email addresses. It is the list owner's choice as to whether a list is public or private. 
