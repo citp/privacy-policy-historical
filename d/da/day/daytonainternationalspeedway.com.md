@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the daytonainternationalspeedway.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616143635id_/http%3A//www.daytonainternationalspeedway.com/track/005/437) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytonainternationalspeedway.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208182653id_/http%3A//www.daytonainternationalspeedway.com/track/005/437) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-**We are always conscious and respectful of your personal privacy.**
-
+**We are always conscious and respectful of your personal privacy.**  
 ISC provides this Online Privacy Statement to make you aware of our privacy policy and practices and the way information is collected and used. To make this notice easy to find, it is available on our homepage and from the home page of each subsidiary or division web site.
 
 This Privacy Policy will answer your questions about the kind of information we collect and how we use it. If we change or update our Privacy Policy, we will post those changes here.
@@ -47,9 +46,10 @@ You may elect to refuse cookies. Please refer to your browser Help instructions 
 
  **
 
-How does this site support the Children's Online Privacy Protection Rule?
+How does this site support the Children's Online Privacy Protection Rule?  
 
-** We do not knowingly collect personally identifiable information from children, but if a child has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should contact us to remove the information and unsubscribe them from any promotional contact opportunities. **
+
+**We do not knowingly collect personally identifiable information from children, but if a child has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should contact us to remove the information and unsubscribe them from any promotional contact opportunities. **
 
 How do I tell this site that I don't want to be contacted for promotional purposes?
 
