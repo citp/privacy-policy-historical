@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uefa.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207230239id_/http%3A//www.uefa.com/uefa/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uefa.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602030301id_/http%3A//www.uefa.com/uefa/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # uefa.com - UEFA - Privacy Policy
 
@@ -14,7 +14,7 @@ UEFA takes your privacy seriously. Please read the following Privacy Policy care
  **What this Privacy Policy covers  
 **
 
-| • | This Privacy Policy covers UEFA's treatment of personal identifying information that UEFA collects when you are on the Website and when you use services on the Website. This Privacy Policy also covers UEFA's treatment of any personal identifying information that UEFA's business partners share with UEFA unless otherwise stated.  
+• | This Privacy Policy covers UEFA's treatment of personal identifying information that UEFA collects when you are on the Website and when you use services on the Website. This Privacy Policy also covers UEFA's treatment of any personal identifying information that UEFA's business partners share with UEFA unless otherwise stated.  
 ---|---  
 • | This Privacy Policy does not apply to the practices of any companies or legal entities that UEFA does not own or control or to any persons that UEFA does not employ.  
   
