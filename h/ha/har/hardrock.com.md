@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017065230id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621130838id_/http%3A//hardrock.com/corporate/policy/privacy.asp) for the most accurate reproduction.*
 
 # Hard Rock Information
 
-  
-|  [Privacy Policy](https://web.archive.org/web/20021017065230id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp)   
-[Terms of Use](https://web.archive.org/web/20021017065230id_/http%3A//www.hardrock.com/corporate/policy/terms.asp)   
-  
-|  **Information Collection and Use**   
+**Information Collection and Use**   
 Hard Rock Cafe is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Hard Rock Cafe collects information from our users at several different points on our website. 
 
 **Registration**   
-In order to use portions of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site, or in our stores, for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers, but encouraged so we can provide a more personalized experience on our site. 
+In order to use portions of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site or in our stores for which they have expressed interest. It is optional, but encouraged for the user to provide demographic information (such as income level and gender) and unique identifiers so we can provide a more personalized experience on our site. 
 
 **Order**   
 We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
@@ -20,9 +16,7 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
 
 **Sharing**   
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.   
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.   
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+From time to time, we may share our user's contact information with our partner's, affiliates or advertisers. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with other parties to provide specific services. When the user signs up for these services, we will share names or other contact information that is necessary for the third parties to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
 **Tell-A-Friend**   
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Hard Rock Cafe will automatically send the friend a one-time email inviting them to visit the site. Hard Rock Cafe stores this information for the sole purpose of sending this one-time email. The friend may contact Hard Rock Cafe at webeditor@hardrock.com to request the removal of this information from their database. 
@@ -43,16 +37,19 @@ While we use SSL encryption to protect sensitive information online, we also do 
 If you have any questions about the security at our website, you can send an email to security@hardrock.com. 
 
 **Supplementation of Information**   
-In order for this website to enhance its ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our partners, CommTouch Software Incorporated & Alliance, to create a personalized user profile. When a user makes a purchase from either of these two companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences. 
+In order for this website to enhance its ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our partners, CIS Technology & Alliance, to create a personalized user profile. When a user makes a purchase from either of these two companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences. 
 
 **Special Offers**   
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter from Hard Rock Cafe or our partners, affiliates, or advertisers. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
 
 **Site and Service Updates**   
 We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
 
 **Correction/Updating Personal Information:**   
 If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. [Some sites may also provide telephone or postal mail options for updating or correcting personal information]. 
+
+**Protecting Children:**   
+Hard Rock Cafe takes special care to protect the safety and privacy of children. Our web sites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13. Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web. 
 
 **Choice/Opt-out**   
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.   
@@ -61,17 +58,3 @@ Users of our site are always notified when their information is being collected 
 
 **Notification of Changes**   
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-|   
-|  [](https://web.archive.org/corporate/)  
-  
-[](https://web.archive.org/corporate/mission/)  
-[](https://web.archive.org/corporate/management/)  
-[](https://web.archive.org/corporate/history/)  
-[](https://web.archive.org/corporate/press/)  
-[](http://careers.hodes.com/hardrock)  
-[](https://web.archive.org/corporate/faq/)  
-[](https://web.archive.org/corporate/community/)  
-[](https://web.archive.org/corporate/logos/)  
-[](https://web.archive.org/corporate/contactus/)  
-
