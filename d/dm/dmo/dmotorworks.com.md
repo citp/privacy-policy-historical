@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmotorworks.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605062138id_/http%3A//www.dmotorworks.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmotorworks.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203010748id_/http%3A//www.dmotorworks.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # Digital Motorworks - Turning Data Into Opportunity
 
@@ -18,9 +18,6 @@ DMi recognizes the sensitive nature of our clients' data. We have therefore impl
 **Summary Information**   
 DMi may track summary and statistical data regarding the usage of information and Internet sites within our network. Examples may include page hits, geographic and demographic information, search preferences, response rates, etc. reported in aggregated format, and not identifiable to any particular user or customer. 
 
-We also participate in the Council of Better Business Bureaus' BBBOnLine Privacy Program, and comply with all the BBBOnLine Privacy standards. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).  | [](http://www.bbbonline.org/)  
----|---  
-  
 Our InfoIQ Support team is trained and available to assist with any questions or problems you might have with our privacy policies. At any time, you may also request to review or correct your personal information that we maintain in our database. Feel free to contact us at [support@digitalmotorworks.com](mailto:support@digitalmotorworks.com) for further assistance.
 
 ****
