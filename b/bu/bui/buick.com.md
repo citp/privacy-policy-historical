@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204191044id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607010805id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
-# Privacy Page
+# GM - Privacy Policy
 
 You don't want your personal information to fall into the wrong hands. Neither does General Motors.
 
@@ -15,5 +15,5 @@ You should be aware that when you voluntarily disclose personal information in p
 You take online privacy seriously, and so does General Motors. It's our way of sustaining your trust in General Motors and our products and services.
 
 General Motors reserves the right to alter our privacy principles as business needs require. Any alterations to these principles will be posted on our web sites in a timely manner. Applicable to U.S.-based divisions.  
-Statement effective as of 15/02/2002  
+Statement effective as of 02/15/2002  
 
