@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211010500id_/http%3A//www.cmswatch.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308013833id_/http%3A//www.cmswatch.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- CMS Watch
 
@@ -12,43 +12,38 @@ CMSWatch requires you to provide various types of personally identifiable inform
 
 CMSWatch also collects a variety of anonymous data that is not associated with a specific individual. This information is captured and analyzed for statistical purposes and to improve the performance of the site. CMSWatch gathers data on the number of visitors to the site, users' IP addresses, referral data, and browser and platform type. 
 
-[ ](http://www.cmswatch.com/TheCMSReport/)
+[ ](http://www.gilbane.com/conferences/San_Francisco_05.html)
 
 |  |  |  |    
-[](http://www.cmswatch.com/TheCMSReport/) **June, 2004:**
-* Objective reviews of major CMS products
+[](http://www.cmswatch.com/TheCMSReport/) **January, 2005:**
+* Objective reviews of 31 major CMS products
 * How to avoid common pitfalls and negotiate a good price 
 * Optional Enterprise Edition for large, multisite CMS projects [](http://www.cmswatch.com/TheCMSReport/Try/)   
-
-
-[](http://www.cmswatch.com/RSS/cmswatch.xml)
 
   
 [](http://www.cmswatch.com/EntSearch) **October, 2004**
 * Objective reviews of 28 Enterprise Search products
 * Detailed analysis of costs, benefits, and technical choices 
-
-[Read More](http://www.cmswatch.com/EntSearch/)
-
+[](http://www.cmswatch.com/Features/ProductWatch/FeaturedProduct/?feature_id=115)   
   
   
 | 
 
-"The [Enterprise Search Report](http://www.cmswatch.com/EntSearch/) presents a definitive analysis of the requirements for enterprise search and detailed reviews of the available solutions. Indispendable!"  
+"[The CMS Report](http://www.cmswatch.com/TheCMSReport/) is worth every penny!"  
   
 ---  
   
-\-- Martin White, Managing Director,   
-[Intranet Focus Ltd](http://www.intranetfocus.co.uk/)  
+\-- Gil Côté, President and CTO,   
+iStudio Canada Inc.  
   
   
   
 
 
-[ **Investigating ECM building blocks**](http://www.cmswatch.com/AskTony)   
-Where do I start to learn about and build (or buy) taxonomies? [More](http://www.cmswatch.com/AskTony)
+[ **CMS Implementation Models**](http://www.cmswatch.com/AskTony)   
+What are some common milestones used for a typical large Web CMS implementation? [More](http://www.cmswatch.com/AskTony)
 
-CMS Watch™ publishes vendor-neutral reports that provide independent analysis and practical advice regarding Web and Enterprise Content Management solutions. As a "buy-side" analyst firm, CMS Watch receives no income from the vendors we cover. For a small fraction of your overall project investment, our reports can help you minimize the time and effort to identify and evaluate technologies suited to your requirements. Our products include:   
+CMS Watchtm publishes vendor-neutral reports that provide independent analysis and practical advice regarding Web and Enterprise Content Management solutions. As an independent analyst firm, CMS Watch takes no income from the vendors we cover. For a small fraction of your overall project investment, our reports can help you minimize the time and effort to identify and evaluate technologies suited to your requirements. Our products include:   
 [The CMS Report](http://www.cmswatch.com/TheCMSReport/)  
 [The Enterprise Search Report](http://www.cmswatch.com/EntSearch/)  
 [Custom consulting](http://www.cmswatch.com/ContentManagement/Product%20Selection/).
@@ -68,8 +63,8 @@ F: +1 214 242 3048
   
 
 
-"Make your CMS vendor sweat at the beginning of the process, not the end."
+"Would you sleep at night knowing that your site's content is at the mercy of another company's bottom line? What if they fail? Would you trust their security? Their availability?"
 
-\--Detlef Kamps, President, RedDot Solutions 
+\--Kurt Schlatzer, Strategic Resource 
 
 | 
