@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405192105id_/http%3A//www.neimanmarcus.com/store/service/nmShoppingOnline.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206081544id_/http%3A//www.neimanmarcus.com/store/service/nmSecurity.jhtml) for the most accurate reproduction.*
 
 # Neiman Marcus Online
 
@@ -29,7 +29,7 @@ As we continue to develop our Web site and take advantage of advances in technol
 
 If you have a Neiman Marcus credit card, a separate privacy policy describes collection, use, and protection of information about you and your account. To obtain a copy of our credit card privacy policy: 
 
-  * Click to [review NM Credit Card policy](https://web.archive.org/store/service/nmShoppingOnline.jhtml;jsessionid=K0Z5PR2SQXULYCQAAJSR5KIKAABGMIAQ#nmccuse) online
+  * Click to [review NM Credit Card policy](https://web.archive.org/store/service/nmShoppingOnline.jhtml;jsessionid=45M3DZEWMZ2QACQAAJUB5MYKAABGSIAQ#nmccuse) online
   * Call 1.800.685.6695
   * Write:  
 Neiman Marcus  
@@ -45,7 +45,7 @@ If you use one of our services, or participate in one of our promotions or sweep
 
 From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use. 
 
-To improve our Web site, we collect non-personal information about how users navigate through the site. This statistical information does not include individual names or personal data, so it does not identify you or any other customer. We may share this information with our affiliates or other outside companies. 
+To improve our Web site, we collect non-personal information about how users navigate through the site. We may share this information with our affiliates or other outside companies. 
 
 **How we use the information we collect**   
 We use the information we collect for various purposes, including: 
@@ -82,7 +82,7 @@ A "cookie" is a small data file stored by your Web browser on your computer's ha
 
 We use cookies to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to NeimanMarcus.com. We use this information to improve our site design, product assortments, customer service, and special promotions. 
 
-Accepting cookies through your Web browser is your personal choice. You can still shop and purchase from NeimanMarcus.com even if you set your browser to disable cookies. 
+We may contract with third parties who may use cookies and collect information on our behalf or provide services such as credit card processing, shipping, promotional services or data management. We call them our Customer Care Partners. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners. However, we respect your right to choose whether to be included in such services. If you would like to opt out of these services, please click here. 
 
 **Children's privacy**   
 The Children's Online Privacy Protection Act took effect on April 21, 2000. It imposes certain requirements on Web sites directed at children under 13 that collect information on those children, and on Web sites that knowingly collect information on children under 13. 
@@ -111,106 +111,20 @@ We'll be happy to provide additional information or answer any questions. Please
 
   * Call toll-free 1.888.888.4757 
   * Write:  
-Neiman Marcus  
 Customer Relations  
 P.O. Box 650589  
 Dallas, TX 75265-0589 
 
   
-Credit card use NeimanMarcus.com accepts the following credit cards for online purchases: 
-
-  * The Neiman Marcus credit card
-  * American Express
-  * VISA
-  * MasterCard
-  * Diners Club
-  * Discover
-
-Your card will not be charged until your order ships. A copy of your bill will be included with your shipment. 
-
-**Registering for the NM credit card**   
-When you complete an [online NM credit card application](https://www.neimanmarcus.com/store/service/creditapplication.jhtml) , you submit to us certain information that we consider personal and as such should be protected. We assure you that your information can be shared with us in complete confidence - we will not release information concerning your credit card to a third party except in accordance with our Neiman Marcus financial privacy policy, which will be mailed to you with your NM credit card if your application is approved. 
-
 Mac user advisory Macintosh users must have Internet Explorer version 5.0 or greater to place an order at NeimanMarcus.com. Earlier versions of Internet Explorer prevent Mac users from viewing secure pages in the checkout process. NeimanMarcus.com cannot remedy this situation without compromising the high level of security we provide for online transactions. 
 
 To download the latest version of Internet Explorer at no charge, click here.
 
-Sales tax Sales tax is automatically applied to your NeimanMarcus.com order in accordance with individual state regulations if your shipping address is in one of the following states: AZ, CA, CO, FL, GA, HI, IL, MA, MI, MN, MO, NC, NJ, NV, NY, OH, PA, TX, VA, WA, or the District of Columbia. 
-
-Sales tax is automatically applied to freight charges in accordance with individual state regulations if your shipping address is in one of the following states: CA, CO, FL, GA, HI, NC, NY, TX, or WA. 
-
-Shipping information We offer three shipping options within the 48 contiguous United States: standard, second-day, and next-day. 
-
-The shipping and handling rates shown with our merchandise descriptions are approximate; the precise charge cannot be determined until you choose a shipping option. 
-
-Delivery to the 48 contiguous United States* | STANDARD | 
-
-  * Delivery within 5-7 business days from when your package leaves our warehouse.
-  * Shipping costs detailed below.
-  * Add $6.00 for each additional shipping address.
-
-  
----|---  
-SECOND-DAY | 
-
-  * Expected delivery within 2 business days from when your package leaves our warehouse.
-  * Signature required.
-  * Weekend delivery not available.
-  * Add $8.00 to standard shipping costs (detailed below).
-  * Add $6.00 for each additional shipping address.
-
-  
-NEXT-DAY | 
-
-  * Expected delivery the next business day after your package leaves our warehouse.
-  * Signature required.
-  * Weekend delivery not available.
-  * Add $16.00 to standard shipping costs (detailed below).
-  * Add $6.00 for each additional shipping address.
-
-  
-* Shipping times above do not reflect holiday delivery schedule. Shipping times may vary due to availability of merchandise. Second-day and next-day shipping not available for Saturday deliveries.  
-Delivery to Alaska and Hawaii   
-All shipments to Alaska and Hawaii require 4-6 weeks.  Delivery to U.S. territories and international addresses   
-At this time, it is not possible to specify international destinations and some U.S. territories when placing an order online. However, you may have your NeimanMarcus.com purchase shipped to an international address by calling 1.888.888.4757. Delivery to post office boxes   
-Second-day and next-day shipping is not available to post office boxes. All standard deliveries to P.O. boxes will be shipped via parcel post. Please feel free to [contact us](https://web.archive.org/store/service/contactus.jhtml;jsessionid=K0Z5PR2SQXULYCQAAJSR5KIKAABGMIAQ) if you have any questions regarding when you will receive your order.  Delivery charges   
-The following shipping costs are for merchandise pictured and described on our web site; they do not apply to Catalog Quick Order purchases. For Catalog Quick Order purchases, refer to the shipping chart in the catalog. Costs are calculated according to the total cost of the merchandise in your order. All prices are expressed in U.S. currency.  Merchandise Total | Standard | Two-Day | Overnight  
----|---|---|---  
-  25.00 and under |   5.00 | 13.00 | 21.00  
-  25.01 -   50.00 |   7.50 | 15.50 | 23.50  
-  50.01 - 100.00 | 10.00 | 18.00 | 26.00  
-100.01 - 200.00 | 12.50 | 20.50 | 28.50  
-200.01 - 300.00 | 15.00 | 23.00 | 31.00  
-300.01 - 500.00 | 17.50 | 25.50 | 33.50  
-500.01 and over | 20.00 | 28.00 | 36.00  
-  
-Perishable goods   
-Certain gourmet foods are shipped via air within the contiguous USA only. These items cannot be delivered to PO boxes and cannot be gift wrapped. Delivery of perishables is available Tuesday through Friday only; no Saturday, Sunday, Monday or holiday deliveries.  Drop ship items   
-Drop ship items are shipped directly from the manufacturer to your door. Two-day and overnight shipping are not available on these items. Additional time should be allowed for processing the order, and heavy items may take up to four to six weeks for delivery. Please feel free to [contact us](https://web.archive.org/store/service/contactus.jhtml;jsessionid=K0Z5PR2SQXULYCQAAJSR5KIKAABGMIAQ) if you have any questions regarding when you will receive your order.  If you have any questions, please click one of these options to contact us: 
-
-  * [E-mail](https://web.archive.org/store/service/contactus.jhtml;jsessionid=K0Z5PR2SQXULYCQAAJSR5KIKAABGMIAQ)
-  * [Online chat](http://server.iad.liveperson.net/hc/LPneimanmarcus/?cmd=file&file=visitorWantsToChat&site=LPneimanmarcus&byhref=1&AEPARAMS)
-
-You also may call 1.888.888.4757.  Order status & history **Registered customers** , please click [Sign In](https://www.neimanmarcus.com/store/user/signin.jhtml) to access order status and history. 
-
-**Non-registered customers** do not have online access to order status and history. You may request information via e-mail or online chat, or by calling 1.888.888.4757. Please provide the home address you used in placing your order so we can respond more quickly and accurately. 
-
-To cancel an order Depending on the status of your order, you may be able to cancel it before it ships.
-
-If you are a registered user, just click [here](https://www.neimanmarcus.com/store/user/signin.jhtml) to sign in and check the status of your order. 
-
-If you are not a registered user, please [contact us](https://web.archive.org/store/service/contactus.jhtml;jsessionid=K0Z5PR2SQXULYCQAAJSR5KIKAABGMIAQ) to inquire about your cancellation options. 
-
-Returns & exchanges Every order shipped from NeimanMarcus.com or NM Catalog Quick Order includes detailed instructions for returning or exchanging merchandise. For full merchandise credit, please enclose your packing slip, noting on the front the reason for return, and ship the package pre-paid and insured to: 
+Warranty informationSome items on our Web site have a manufacturer's warranty; this is noted in the product description. To obtain a written warranty for any of these items, send a specific written request to: 
 
     Neiman Marcus
-    111 Customer Way
-    Irving, TX 75039
-To save on shipping costs, you also may return online orders to your nearest [Neiman Marcus store](https://web.archive.org/store/service/nmStoreLocator.jhtml;jsessionid=K0Z5PR2SQXULYCQAAJSR5KIKAABGMIAQ). The merchandise will be shipped from the store to our warehouse, and your account will be credited for full amount when it arrives.  Warranty informationSome items on our Web site have a manufacturer's warranty; this is noted in the product description. To obtain a written warranty for any of these items, send a specific written request to: 
-
-    Neiman Marcus
-    111 Customer Way
-    Irving, TX 75039
+    P.O. Box 650589
+    Dallas, TX 75265-0589
   
 Conditions of use, notices and disclaimers When you use this Web site, you are automatically agreeing that both your access to the site and your use of it are: 
 
@@ -248,3 +162,8 @@ By visiting this Web site, you agree that the laws of the state of Texas, withou
 
 **Disputes**   
 Any dispute relating in any way to your visit to our Web site or to products purchased here shall be submitted to confidential arbitration in Dallas, Texas. However, if you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in any state or federal court in the state of Texas. You consent to exclusive jurisdiction and venue in such courts. Any arbitration under this agreement shall be conducted under the prevailing rules of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration with respect to this Web site or to products purchased here shall be joined to an arbitration involving any other party, whether through class arbitration proceedings or otherwise. 
+
+**Protecting your information**   
+As part of our ongoing commitment to ensure that your shopping experience with NeimanMarcus.com is protected, NeimanMarcus.com will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law. 
+
+| 
