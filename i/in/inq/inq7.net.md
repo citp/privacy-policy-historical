@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inq7.net privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203023145id_/http%3A//www.inq7.net/inq7_policy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inq7.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200946id_/http%3A//www.inq7.net/inq7_policy/privacy_policy.htm) for the most accurate reproduction.*
 
 # INQ7.net An Inquirer GMA Network Company
 
