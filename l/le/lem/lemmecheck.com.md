@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemmecheck.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622103152id_/http%3A//www.lemmecheck.com/sh/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemmecheck.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605224024id_/http%3A//lemmecheck.com/sh/docs/privacy.php) for the most accurate reproduction.*
 
 # LemmeCheck Entertainment : Glamour Models, Supermodels and Entertainment
 
