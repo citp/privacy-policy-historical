@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the charitynavigator.org privacy policy that was archived on 2004-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041010040204id_/http%3A//www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/38.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charitynavigator.org privacy policy that was archived on 2005-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050406225558id_/http%3A//www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/38.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <base href="http://www.charitynavigator.org/">
@@ -9,7 +9,7 @@
 <meta name="keywords" content="best charity,best charities,charitable contribution,charitable donation,charitable donations,charitable giving,charities,charity,charity directory,charity rating,charity ratings,charity watchdog,donate money,donating funds,donations,donors,giving money,guide,non profit,nonprofit,non-profit,organization,philanthropic,philanthropy,ratings,tax deduction,tithing,wise giving Charity Navigator,guide intelligent giving,free,information,ratings,charity evaluation,watchdog,non-profit,philanthropy,research">
 <meta name="description" content="Charity Navigator, America's largest independent charity evaluator, provides free financial evaluations of America's charities. We are the individual donor's first source for unbiased news and information on philanthropy, nonprofit organizations, wise giving, donating money, charitable donations, and charity ratings. Charity Navigator works to guide intelligent giving. We help charitable givers make intelligent giving decisions by providing information on more than 1,100 charities and by evaluating the financial health of each of these charities.">
 
-<link rel="stylesheet" href="http://www.charitynavigator.org/_css_/sitewide_ns.css" type="text/css">
+<link rel="stylesheet" href="http://www.charitynavigator.org/_css_/sitewide.css" type="text/css">
 
 <script src="http://www.charitynavigator.org/_js_/popupwindow.js" type="text/javascript"></script>
 <script src="http://www.charitynavigator.org/_js_/formscripts.js" type="text/javascript"></script>
@@ -58,8 +58,9 @@ function mmLoadMenus() {
   mm_menu_0224092647_2.addMenuItem("Giving&nbsp;Statistics","location='http://www.charitynavigator.org/index.cfm/bay/content.view/catid/3/cpid/42.htm'");
   mm_menu_0224092647_2.addMenuItem("Top&nbsp;Ten&nbsp;Lists","location='http://www.charitynavigator.org/index.cfm/bay/topten.list.htm'");
   mm_menu_0224092647_2.addMenuItem("Online&nbsp;Giving&nbsp;Ethics","location='http://www.charitynavigator.org/index.cfm/bay/content.view/catid/3/cpid/95.htm'");
-  mm_menu_0224092647_2.addMenuItem("Donating&nbsp;Your&nbsp;Car","location='http://www.charitynavigator.org/index.cfm/bay/content.view/catid/38/cpid/158.htm'");
-  mm_menu_0224092647_2.addMenuItem("Handling&nbsp;Telephone&nbsp;Appeals","location='http://www.charitynavigator.org/index.cfm/bay/content.view/catid/38/cpid/224.htm'");  
+  mm_menu_0224092647_2.addMenuItem("Donating&nbsp;Your&nbsp;Car","location='http://www.charitynavigator.org/index.cfm/bay/content.view/catid/68/cpid/158.htm'");
+  mm_menu_0224092647_2.addMenuItem("Handling&nbsp;Telephone&nbsp;Appeals","location='http://www.charitynavigator.org/index.cfm/bay/content.view/catid/68/cpid/224.htm'");  
+  mm_menu_0224092647_2.addMenuItem("Stopping&nbsp;Charitable&nbsp;Appeals","location='http://www.charitynavigator.org/index.cfm/bay/content.view/catid/68/cpid/254.htm'");  
    mm_menu_0224092647_2.hideOnMouseOut=true;
    mm_menu_0224092647_2.menuBorder=0;
    mm_menu_0224092647_2.menuLiteBgColor='#ffffff';
@@ -69,9 +70,10 @@ function mmLoadMenus() {
   mm_menu_0224092930_3.addMenuItem("My&nbsp;Charities","location='http://www.charitynavigator.org/index.cfm/bay/my.tools.charities.list.htm'");
   mm_menu_0224092930_3.addMenuItem("Financials","location='http://www.charitynavigator.org/index.cfm/bay/my.tools.income.htm'");
   mm_menu_0224092930_3.addMenuItem("Performance","location='http://www.charitynavigator.org/index.cfm/bay/my.tools.performance.htm'");
-  mm_menu_0224092930_3.addMenuItem("Sector&nbsp;Analysis","location='http://www.charitynavigator.org/index.cfm/bay/my.tools.sector.htm'");
+  mm_menu_0224092930_3.addMenuItem("Sector Analysis","location='http://www.charitynavigator.org/index.cfm/bay/my.tools.sector.htm'");  
   mm_menu_0224092930_3.addMenuItem("Newsletter&nbsp;Archive","location='http://www.charitynavigator.org/index.cfm/bay/my.tools.newsletter.htm'");
   mm_menu_0224092930_3.addMenuItem("Notify&nbsp;Me","location='http://www.charitynavigator.org/index.cfm/bay/my.tools.notify.list.htm'");
+  mm_menu_0224092930_3.addMenuItem("Request&nbsp;a&nbsp;Charity","location='http://www.charitynavigator.org/index.cfm/bay/my.tools.request.htm'");
   mm_menu_0224092930_3.addMenuItem("Profile","location='http://www.charitynavigator.org/index.cfm/bay/my.tools.profile.htm'");
    mm_menu_0224092930_3.hideOnMouseOut=true;
    mm_menu_0224092930_3.menuBorder=0;
@@ -113,36 +115,35 @@ function DoubleCheck() {
   }
 }
 function CategorySubmit() {
-  if(document.forms["thisForm3525"].cgid.value != "") {
-    document.forms["thisForm3525"].bay.value = "search.cause";  	
+  if(document.forms["thisForm6304"].cgid.value != "") {
+    document.forms["thisForm6304"].bay.value = "search.cause";  	
 	return true;
 	}
   else 
   	return false;
 }
 function RegionSubmit() {
-  if(document.forms["thisForm7791"].rgid.value != "")
-    document.forms["thisForm7791"].bay.value = "search.state";
-  document.forms["thisForm7791"].submit();
+  if(document.forms["thisForm4191"].rgid.value != "")
+    document.forms["thisForm4191"].bay.value = "search.state";
+  document.forms["thisForm4191"].submit();
 }
 </script>
 </head>
 <body>
 <script language="JavaScript1.2">mmLoadMenus();</script>
+<div align="center">
 <table width="765" border="0" cellspacing="0" cellpadding="0">
 
   <tbody><tr> 
     
   <td bgcolor="#999999" valign="top" width="165"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      
-      <tbody><tr> 
-        <td bgcolor="#000066"><a href="http://www.charitynavigator.org/" name="top"><img src="http://www.charitynavigator.org/_gfx_/images/logo1new.gif" width="165" height="127" alt="Charity Navigator: Your Guide to Intelligent Giving" border="0"></a></td>
-      </tr>
-      
-
-      <tr> 
-        <td align="center">
-            
+          
+          <tbody><tr> 
+            <td bgcolor="#000066"><a href="http://www.charitynavigator.org/" name="top"><img src="http://www.charitynavigator.org/_gfx_/images/logo1new.gif" width="165" height="127" alt="Charity Navigator: Your Guide to Intelligent Giving" border="0"></a></td>
+          </tr>
+          
+          <tr> 
+            <td align="center"> 
   <table width="100%" border="0" cellspacing="0" cellpadding="3">
     <tbody><tr>
       <td bgcolor="#003366"><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" alt="" width="1" height="1"></td>
@@ -151,7 +152,7 @@ function RegionSubmit() {
       <td bgcolor="#FFFFA8">
        
           <div align="center" style="color:#999999;"><img src="http://www.charitynavigator.org/_gfx_/subhead/search_char_only.gif" alt="Charity Search: Search our database of charities" width="159" height="16" vspace="1" border="0"><br>
-          Search Our Database of over 3,100 Charity Ratings</div>
+          Search Our Database of over 3,900 Charity Ratings</div>
           
       </td>
     </tr>
@@ -175,7 +176,7 @@ function RegionSubmit() {
       </tbody></table></form></td>
     </tr>
     <tr>
-      <td bgcolor="#FFFFA8"><form style="margin-bottom:0;" action="http://www.charitynavigator.org/index.cfm" name="thisForm3525" id="thisForm3525" onsubmit="return CategorySubmit();">
+      <td bgcolor="#FFFFA8"><form style="margin-bottom:0;" action="http://www.charitynavigator.org/index.cfm" name="thisForm6304" id="thisForm6304" onsubmit="return CategorySubmit();">
 	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td bgcolor="#FFFFA8"><img src="http://www.charitynavigator.org/_gfx_/subhead/browse_category.gif" alt="search by category" width="90" height="10" border="0"></td>
@@ -206,7 +207,7 @@ function RegionSubmit() {
       </tbody></table></form></td>
     </tr>
     <tr>
-      <td bgcolor="#FFFFA8"><form style="margin-bottom:0;" action="http://www.charitynavigator.org/index.cfm" name="thisForm7791" id="thisForm7791" onsubmit="RegionSubmit()">
+      <td bgcolor="#FFFFA8"><form style="margin-bottom:0;" action="http://www.charitynavigator.org/index.cfm" name="thisForm4191" id="thisForm4191" onsubmit="RegionSubmit()">
 	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td bgcolor="#FFFFA8"><img src="http://www.charitynavigator.org/_gfx_/subhead/browse_region.gif" alt="search by region" width="78" height="10" border="0"></td>
@@ -249,13 +250,15 @@ function RegionSubmit() {
     </tr>
   </tbody></table>
 
-		</td>
-      </tr>
-      <tr> 
-        <td><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" height="15" width="3" alt=""></td>
-      </tr>
-	  <tr>   
-        <td align="center"> 
+        </td>
+          </tr>
+		  <tr>
+		  	<td><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" height="15" width="3" alt=""></td>
+		  </tr>
+
+          
+            <tr> 
+              <td align="center"> 
   <table width="150" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
       <td valign="bottom" style="FONT-SIZE:18px; COLOR:#FFFFFF; LINE-HEIGHT:14px">Did You Know?</td>
@@ -267,7 +270,7 @@ function RegionSubmit() {
             <td bgcolor="#FFFFFF">
               <table width="100%" border="0" cellspacing="0" cellpadding="5">
                 <tbody><tr>
-                  <td bgcolor="#6699CC" align="left" valign="top" class="factoid">In 2002 the median salary for chief executives at nonprofits with annual budgets of $25 million or more was $176,800.</td>
+                  <td bgcolor="#6699CC" align="left" valign="top" class="factoid">On average, 13,000 earthquakes are located each year.</td>
                 </tr>
               </tbody></table>
             </td>
@@ -277,13 +280,14 @@ function RegionSubmit() {
     </tr>
   </tbody></table>
 </td>
-      </tr>
-      <tr> 
-        <td><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" height="15" width="3" alt=""></td>
-      </tr> 
-		
-        <tr> 
-          <td align="center"> 
+            </tr>
+            <tr> 
+              <td><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" height="15" width="3" alt=""></td>
+            </tr>
+          
+            
+            <tr> 
+              <td align="center"> 
 <table width="150" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td valign="bottom" style="FONT-SIZE:18px; COLOR:#FFFFFF; LINE-HEIGHT:14px">Of Interest</td>
@@ -328,23 +332,24 @@ function RegionSubmit() {
   </tr>
 </tbody></table>
 </td>
-        </tr>
-		 <tr> 
-          <td><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" height="15" width="3" alt=""></td>
-        </tr>
+            </tr>
+            <tr> 
+              <td><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" height="15" width="3" alt=""></td>
+            </tr>
+            
+          
+            <tr> 
+              <td align="center"><a href="http://www.charitynavigator.org/index.cfm/bay/comm.support.htm"><img src="http://www.charitynavigator.org/_gfx_/buttons/support_ad3.gif" width="129" height="124" border="0" alt="Support Charity Navigator"></a></td>
+            </tr>
+            <tr> 
+              <td><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" height="15" width="3" alt=""></td>
+            </tr>
+          
+		  <tr> 
+            <td><div align="center"><a href="http://www.crystaltech.com" target="_blank"><img src="http://www.charitynavigator.org/_gfx_/home/CTVIP2.gif" width="150" height="58" border="0"></a></div></td>
+          </tr>
         
-      
-	  	<tr>
-			<td align="center"><a href="http://www.charitynavigator.org/index.cfm/bay/comm.support.htm"><img src="http://www.charitynavigator.org/_gfx_/buttons/support_ad3.gif" width="129" height="124" border="0" alt="Support Charity Navigator"></a></td>
-		</tr>
-		<tr> 
-        	<td><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" height="15" width="3" alt=""></td>
-      	</tr>
-
-      <tr> 
-        <td><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" height="15" width="3" alt=""></td>
-      </tr>
-    </tbody></table></td>
+		</tbody></table></td>
     <td bgcolor="#FFFFFF" valign="top" width="600"> 
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
@@ -474,7 +479,7 @@ function RegionSubmit() {
     <td bgcolor="#CC3300"><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" width="2" height="2" alt=""></td>
   </tr>
   <tr> 
-    <td bgcolor="#000066" nowrap="" align="center" valign="middle" class="footer"><a href="http://www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/36.htm" class="footer">©2004 Charity Navigator</a></td>
+    <td bgcolor="#000066" nowrap="" align="center" valign="middle" class="footer"><a href="http://www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/36.htm" class="footer">©2005 Charity Navigator</a></td>
     <td bgcolor="#00458A" nowrap="" class="footer" valign="middle" align="left"><img src="http://www.charitynavigator.org/_gfx_/images/shim.gif" width="15" height="20" align="absmiddle" alt=""><a href="http://www.charitynavigator.org" class="footer">home</a> 
       | <a href="http://www.charitynavigator.org/index.cfm/bay/comm.support.htm" class="footer">support 
       us</a> | <a href="http://www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/50.htm" class="footer">f.a.q.</a> 
@@ -522,11 +527,12 @@ function OneStat_Pageview()
 
 OneStat_Pageview();
 //-->
-</script><a href="http://www.onestat.com/aspx/login.aspx?sid=193755" target="_blank"><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=193755&amp;url=https%3A//web.archive.org/web/20041010040204id_/http%253A//www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/38.htm&amp;ti=Charity%20Navigator%20-%20Privacy&amp;section=&amp;custom=&amp;rf=&amp;tz=0&amp;ch=19&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No"></a>
+</script><a href="http://www.onestat.com/aspx/login.aspx?sid=193755" target="_blank"><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=193755&amp;url=https%3A//web.archive.org/web/20050406225558id_/http%253A//www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/38.htm&amp;ti=Charity%20Navigator%20-%20Privacy&amp;section=&amp;custom=&amp;rf=&amp;tz=0&amp;ch=19&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No"></a>
 <noscript>
 <A HREF="http://www.onestat.com/aspx/login.aspx?sid=193755" target=_blank><IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://stat.onestat.com/stat.aspx?tagver=2&sid=193755&js=No&"  ></A>
 </noscript>
 <!--ONESTAT SCRIPTCODE END-->
+</div>
 </div>
 
 
