@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatefuel.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207175727id_/http%3A//affiliatefuel.com/html/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefuel.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202032517id_/http%3A//www.affiliatefuel.com/html/privacy_policy.htm) for the most accurate reproduction.*
 
 # Banner ads - Affiliate Program Directory - Affiliate Marketing - Internet Advertising Agency
 
