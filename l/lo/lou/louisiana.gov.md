@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the louisiana.gov privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622065955id_/http%3A//www.louisiana.gov/privacynsecurity/privacysecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisiana.gov privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801165037id_/http%3A//louisiana.gov/privacynsecurity/privacysecurity.htm) for the most accurate reproduction.*
 
 # Privacy notice
 
 Thank you for visiting INFO Louisiana and reviewing our Privacy Notice. This notice addresses the collection, use, and security of and access to information that may be obtained through use of INFO Louisiana. The following topics are covered:
 
-[Information Collected and How it is Used](https://web.archive.org/web/20030622065955id_/http%3A//www.louisiana.gov/privacynsecurity/privacysecurity.htm#information)   
-[Personal Information](https://web.archive.org/web/20030622065955id_/http%3A//www.louisiana.gov/privacynsecurity/privacysecurity.htm#personal)   
-[Security](https://web.archive.org/web/20030622065955id_/http%3A//www.louisiana.gov/privacynsecurity/privacysecurity.htm#security)   
-[Cookies](https://web.archive.org/web/20030622065955id_/http%3A//www.louisiana.gov/privacynsecurity/privacysecurity.htm#cookie)   
-[Disclaimer](https://web.archive.org/web/20030622065955id_/http%3A//www.louisiana.gov/privacynsecurity/privacysecurity.htm#disclaimer)   
+[Information Collected and How it is Used](https://web.archive.org/web/20030801165037id_/http%3A//louisiana.gov/privacynsecurity/privacysecurity.htm#information)   
+[Personal Information](https://web.archive.org/web/20030801165037id_/http%3A//louisiana.gov/privacynsecurity/privacysecurity.htm#personal)   
+[Security](https://web.archive.org/web/20030801165037id_/http%3A//louisiana.gov/privacynsecurity/privacysecurity.htm#security)   
+[Cookies](https://web.archive.org/web/20030801165037id_/http%3A//louisiana.gov/privacynsecurity/privacysecurity.htm#cookie)   
+[Disclaimer](https://web.archive.org/web/20030801165037id_/http%3A//louisiana.gov/privacynsecurity/privacysecurity.htm#disclaimer)   
 
 
 **Information Collected and How It Is Used**
