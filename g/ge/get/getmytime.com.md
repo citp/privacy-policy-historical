@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605075510id_/http%3A//getmytime.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604022910id_/http%3A//www.getmytime.com/privacy.asp) for the most accurate reproduction.*
 
 # Web Based Time Management Quickbooks Timer, GetMyTime.com _ Privacy Statement
 
-As an Internet user, you no doubt recognize the usefulness of this amazing medium. A medium of such great promise in one-to-one and one-to-many communications does not come without its concerns. Many members of the on-line community are rightfully concerned about maintaining a comfortable level of privacy. As active members of the on-line community, **GetMyTime.com** and **netlogix** supports industry self-regulation. We believe all web sites should openly share their policies and practices of collecting and processing information. 
+As an Internet user, you no doubt recognize the usefulness of this amazing medium. A medium of such great promise in one-to-one and one-to-many communications does not come without its concerns. Many members of the on-line community are rightfully concerned about maintaining a comfortable level of privacy. As active members of the on-line community, **GetMyTime.com** supports industry self-regulation. We believe all web sites should openly share their policies and practices of collecting and processing information. 
 
 **Forms**
 
-We use web-based forms to collect vital information from parties interested in communicating with **netlogix**. We ask that users share as much information as deemed appropriate. This information is used for the sole purpose of serving our clients better. We will not sell, share or rent this information to any outside parties unless you have so requested. Your company information is encrypted while being uploaded to **GetMyTime.com** using a Thawte SSL Encryption License. 
+We use web-based forms to collect vital information from parties interested in communicating with **GetMyTime.com**. We ask that users share as much information as deemed appropriate. This information is used for the sole purpose of serving our clients better. We will not sell, share or rent this information to any outside parties unless you have so requested. Your company information is encrypted while being uploaded to **GetMyTime.com** using a Thawte SSL Encryption License. 
 
 **Billing Information**
 
@@ -37,7 +37,7 @@ This information is helpful in delivering the appropriate content to you, the en
 
 **Links**
 
-This web site may contain links to other sites. Please be aware that **GetMyTime.com** and **netlogix, inc.** is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site may contain links to other sites. Please be aware that **GetMyTime.com** is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **Security**
 
@@ -46,8 +46,6 @@ This web site takes every precaution to protect our users' information. When use
 When any of our web forms ask users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. 
 
 While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. As policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
-
-If you have any questions about the security at our web site, you can send an email to [info@netlogix.net](mailto:info@netlogix.net). 
 
 **Correction/Updating Personal Information**
 
