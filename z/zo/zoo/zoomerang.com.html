@@ -1,449 +1,302 @@
-<!--The following is the downloaded HTML source of the zoomerang.com privacy policy that was archived on 2003-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031010171841id_/http%3A//www.zoomerang.com/privacy/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zoomerang.com privacy policy that was archived on 2004-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040616023854id_/http%3A//info.zoomerang.com/about/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Zoomerang | Product Information</title>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="keywords" content="Zoomerang is an online survey tool that allows users to easily create, deploy and analyze survey results in real time.   Zoomerang--Easiest way to Ask.  Fastest way to Know."> 
-<meta name="description" content="Zoomerang,surveys,research,market,analyze,web,decisions,planning,strategy,business,solutions,revenue,customer,Analytical market research,Business decisions,Business services,Business solutions,Business surveys,Business tools,Client satisfaction surveys,Community issues,Community surveys,Conduct surveys,Create surveys,Customer satisfaction,Customer service,Demographic research tools,Ebusiness,Ebusiness solutions,Educational research,Educational surveys,Emarketing,Employee satisfaction surveys,Eresearch,Event planning,Family reunion planning,Feedback surveys,Free surveys,Global 2000,Global 2000 companies,Increase revenue,Internet research,Internet startups,Market research,Marketing services,Marketing strategies,Marketing surveys,Marketing tools,Microsoft,Online businesses,Online market studies,Online research,Party planning,Product marketing,Research surveys,Research tools,Respond to surveys,Survey ideas,Surveys,Take a survey,Take surveys,Training program evaluations,Web based business services,Web based market research,Web based surveys">
-
-<script language="JavaScript">
-	// global constants
-	function globalConstantsContainer() {
-		this.PANEL_POPUP = '../panelpurchase/Index_popup.htm';
-		this.RIGHTNOW = 'http://www.zoomerang.com/support/help.zgi?formMail=false';
-		this.MEMBER_LOGOUT = '../logout.zgi';
-	}
-	
-	var globalConstants = new globalConstantsContainer();
-
-	// function for active state
-	function imgOn(imgName, imgSrc) {
-		if (!imgSrc) imgSrc = imgName;
-		if (document.images) document[imgName].src = eval(imgSrc + "1.src");
-	}
-
-	// function for default state
-	function imgOff(imgName, imgSrc) {
-		if (!imgSrc) imgSrc = imgName;		
-		if (document.images) document[imgName].src = eval(imgSrc + "0.src");
-	}
-
-	// function for rolltext
-	function rolltextimage(imgsrc) {
-		if (document.images) document['rolltext'].src = eval(imgsrc + "2.src");
-	}
-
-	// popup zsample info
-	function zSample(type){
-		pophelp=window.open(globalConstants.PANEL_POPUP,'window3','menubar=no,toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=1,copyhistory=no,width=640,height=550,top=5,left=5');
-		if (type==1) {
-			imgOff('rollsample');
-			rolltextimage('rollsample');
-		}
-		
-		return false;
-	}
-	
-	// logout
-	function goLogout(){
-		if (confirm("Are you sure you would like to logout?")) top.location=globalConstants.MEMBER_LOGOUT;
-	}
-
-	// rightnow
-	function rightnow(){
-		helpwindow=window.open(globalConstants.RIGHTNOW,'helpwindow','menubar=yes,toolbar=yes,location=yes,directories=no,status=yes,scrollbars=yes,resizable=1,copyhistory=no,width=600,height=630');
-		return false;
-	}
-	
-	// return nicely formatted date
-	function niceDate(offset) {
-		var d = new Date();
-		with (d) setDate(getDate()+offset);
-		
-		var monthname = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
-		
-		var dateString = "";
-		dateString += monthname[d.getMonth()] + " ";
-		dateString += d.getDate() + ", ";
-		dateString += d.getFullYear();
-		
-		return dateString;
-	}
-</script>
-
-<script language="JavaScript">
-	function gargle(exp, siteUrl) {
-	  zp = window.open(siteUrl,'zoompanel','menubar=yes,toolbar=yes,location=yes,directories=yes,status=yes,scrollbars=yes,resizable=yes,copyhistory=yes');
-	  if (exp > 0) pop = window.open('../login/popup.zgi','popup','screenX=0,screenY=0,height=400,width=370,alwaysRaised=yes,status=yes');
-	
-	  return false;
-	}
-
-if (document.images) {
-	buttonjoin1 = new Image();
-	buttonjoin1.src = "../images/button-join-1.gif";
-	membersignin1 = new Image();
-	membersignin1.src = "../images/member-signin-1.gif";
-	panelist1 = new Image();
-	panelist1.src = "../images/panelist-1.gif";
-	quicktour1 = new Image();
-	quicktour1.src = "../images/quicktour-1.gif";
-	account1 = new Image();
-	account1.src = "../images/account-1.gif";
-    membership1 = new Image();
-	membership1.src = "../images/membership-1.gif";
-    home1 = new Image();
-	home1.src = "../images/top-nav/home-1b.gif";
-
-
-
-	buttonjoin0 = new Image();
-	buttonjoin0.src = "../images/button-join-0.gif";
-	membersignin0 = new Image();
-	membersignin0.src = "../images/member-signin-0.gif";
-	panelist0 = new Image();
-	panelist0.src = "../images/panelist-0.gif";
-	quicktour0 = new Image();
-	quicktour0.src = "../images/quicktour-0.gif";
-	account0 = new Image();
-	account0.src = "../images/account-0.gif";
-    membership0 = new Image();
-	membership0.src = "../images/membership-0.gif";
-    home0 = new Image();
-	home0.src = "../images/top-nav/home-p.gif";
-
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
-
-function MM_nbGroup(event, grpName) { //v3.0
-  var i,img,nbArr,args=MM_nbGroup.arguments;
-  if (event == "init" && args.length > 2) {
-    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
-      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
-      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
-      nbArr[nbArr.length] = img;
-      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-        if (!img.MM_up) img.MM_up = img.src;
-        img.src = img.MM_dn = args[i+1];
-        nbArr[nbArr.length] = img;
-    } }
-  } else if (event == "over") {
-    document.MM_nbOver = nbArr = new Array();
-    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
-      if (!img.MM_up) img.MM_up = img.src;
-      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
-      nbArr[nbArr.length] = img;
-    }
-  } else if (event == "out" ) {
-    for (i=0; i < document.MM_nbOver.length; i++) {
-      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
-  } else if (event == "down") {
-    if ((nbArr = document[grpName]) != null)
-      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
-    document[grpName] = nbArr = new Array();
-    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-      if (!img.MM_up) img.MM_up = img.src;
-      img.src = img.MM_dn = args[i+1];
-      nbArr[nbArr.length] = img;
-  } }
-}
-
-function MM_displayStatusMsg(msgStr) { //v1.0
-  status=msgStr;
-  document.MM_returnValue = true;
-}
-</script>
+<html><head>
+<title>Zoomerang Online Survey Privacy Policy</title>
+<meta name="ROBOTS" content="NOINDEX">
+<link href="../commonstyles.css" title="compact" rel="stylesheet" type="text/css">
 </head>
-<body text="#000000" vlink="#660666" alink="#0303cc" link="#0303cc" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../images/navbar/navbar_slice_r2_c2.gif','../IMAGES/NAVBAR/navbar_slice_r2_c2.gif','../IMAGES/NAVBAR/navbar_slice_r2_c2_f2.gif','../IMAGES/NAVBAR/navbar_slice_r2_c2_f4.gif','../IMAGES/NAVBAR/navbar_slice_r4_c4_f3.gif','../IMAGES/NAVBAR/navbar_slice_r4_c4_f2.gif','../IMAGES/NAVBAR/navbar_slice_r6_c5_f3.gif','../IMAGES/NAVBAR/navbar_slice_r6_c5_f2.gif','../IMAGES/NAVBAR/navbar_slice_r8_c3_f3.gif','../IMAGES/NAVBAR/navbar_slice_r8_c3_f2.gif','../IMAGES/NAVBAR/navbar_slice_r10_c4_f3.gif','../IMAGES/NAVBAR/navbar_slice_r10_c4_f2.gif','../IMAGES/NAVBAR/navbar_slice_r12_c6_f3.gif','../IMAGES/NAVBAR/navbar_slice_r12_c6_f2.gif','../IMAGES/NAVBAR/navbar_slice_r14_c5_f3.gif','../IMAGES/NAVBAR/navbar_slice_r14_c5_f2.gif','../IMAGES/NAVBAR/navbar_slice_r16_c3_f3.gif','../IMAGES/NAVBAR/navbar_slice_r16_c3_f2.gif','../IMAGES/leftnavimages/privacy_slice_r2_c3_f3.gif','../IMAGES/leftnavimages/privacy_slice_r2_c3_f2.gif','../IMAGES/leftnavimages/privacy_slice_r2_c3_f4.gif','../IMAGES/leftnavimages/privacy_slice_r4_c5_f3.gif','../IMAGES/leftnavimages/privacy_slice_r4_c5_f2.gif','../IMAGES/leftnavimages/privacy_slice_r6_c6_f3.gif','../IMAGES/leftnavimages/privacy_slice_r6_c6_f2.gif','../IMAGES/leftnavimages/privacy_slice_r8_c4_f3.gif','../IMAGES/leftnavimages/privacy_slice_r8_c4_f2.gif','../IMAGES/leftnavimages/privacy_slice_r10_c5_f3.gif','../IMAGES/leftnavimages/privacy_slice_r10_c5_f2.gif','../IMAGES/leftnavimages/privacy_slice_r12_c7_f3.gif','../IMAGES/leftnavimages/privacy_slice_r12_c7_f2.gif','../IMAGES/leftnavimages/privacy_slice_r14_c6_f3.gif','../IMAGES/leftnavimages/privacy_slice_r14_c6_f2.gif','../IMAGES/leftnavimages/privacy_slice_r16_c2.gif','../IMAGES/leftnavimages/privacy_slice_r16_c2_f2.gif','../IMAGES/leftnavimages/privacy_slice_r16_c2_f3.gif')">
-<!-- Header Table (nonmember-purple) -->
-<table cellspacing="0" cellpadding="0" width="640" border="0">
-  <tbody>
-  <tr>
-    <td><img height="3" hspace="0" src="../images/bar.gif" width="159" border="0"></td>
-    <td><img height="3" hspace="0" src="../images/bar.gif" width="393" border="0"></td>
-    <td><img height="3" hspace="0" src="../images/bar.gif" width="88" border="0"></td></tr>
-  <tr>
-    <td colspan="2"><img height="34" alt="Zoomerang" hspace="0" src="../images/logo.gif" width="552" border="0"></td>
-    <td><a onmouseover="imgOn('buttonjoin')" onfocus="blur()" onmouseout="imgOff('buttonjoin')" href="../join/member-subscriber.zgi"><img height="34" alt="Join Now" hspace="0" src="../images/button-join-0.gif" width="88" border="0" name="buttonjoin"></a></td></tr>
-  <tr> 
-    <td><img onmouseover="imgOn('home')" onfocus="blur()" onmouseout="imgOff('home')" src="../images/home-p.gif" width="159" height="27" usemap="#Map" border="0" name="home" alt="home"></td>
-    <td colspan="2"><a onmouseover="imgOn('membersignin')" onfocus="blur()" onmouseout="imgOff('membersignin')" href="../index.zgi"><img height="27" alt="member sign in" hspace="0" src="../images/member-signin-0.gif" width="130" border="0" name="membersignin"></a><a onmouseover="imgOn('panelist')" onfocus="blur()" onmouseout="imgOff('panelist')" href="#" onclick="gargle(0, 'http://newslink.zoomerang.com/ss?click&amp;zoom-clicks&amp;3e7232bd');"><img height="27" alt="be a panelist" hspace="0" src="../images/panelist-0.gif" width="116" border="0" name="panelist"></a><a onmouseover="imgOn('quicktour')" onfocus="blur()" onmouseout="imgOff('quicktour')" href="../quicktour/index.html"><img height="27" alt="quick tour" hspace="0" src="../images/quicktour-0.gif" border="0" name="quicktour"></a><a onmouseover="imgOn('membership')" onfocus="blur()" onmouseout="imgOff('membership')" href="../join/member-subscriber.zgi"><img height="27" alt="membership" hspace="0" src="../images/membership-0.gif" border="0" name="membership"></a></td>
-  </tr></tbody></table>
-<!-- Body Table -->
-<table cellspacing="0" cellpadding="0" width="640" border="0">
-  <tbody> 
-  <tr> 
-    <td valign="top" background="../IMAGES/sidebar-background.gif" bgcolor="#660066"> 
-      <table border="0" cellpadding="0" cellspacing="0" width="159">
-        <!-- fwtable fwsrc="navbar_slice2.png" fwbase="privacy_slice.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
-        <tbody><tr> 
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="7" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="8" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="19" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="3" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="21" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="6" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="15" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="4" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="19" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="12" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="41" height="1" border="0" name="undefined_2"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="1" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td colspan="15"><img name="privacy_slice_r1_c1" src="../IMAGES/leftnavimages/privacy_slice_r1_c1.gif" width="159" height="4" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="4" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td rowspan="14" colspan="2"></td>
-          <td colspan="8"><a href="../about/index.zgi" onmouseout="MM_nbGroup('out');" onmouseover="MM_displayStatusMsg('About Us');MM_nbGroup('over','privacy_slice_r2_c3','../IMAGES/leftnavimages/privacy_slice_r2_c3_f2.gif','../IMAGES/leftnavimages/privacy_slice_r2_c3_f4.gif',1);return document.MM_returnValue" onclick="MM_nbGroup('down','navbar1','privacy_slice_r2_c3','../IMAGES/leftnavimages/privacy_slice_r2_c3_f3.gif',1);"><img name="privacy_slice_r2_c3" src="../IMAGES/leftnavimages/privacy_slice_r2_c3.gif" width="60" height="10" border="0" alt="About Us"></a></td>
-          <td rowspan="2" colspan="5"><img name="privacy_slice_r2_c11" src="../IMAGES/leftnavimages/privacy_slice_r2_c11.gif" width="91" height="18" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="10" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td colspan="8"><img name="privacy_slice_r3_c3" src="../IMAGES/leftnavimages/privacy_slice_r3_c3.gif" width="60" height="8" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="8" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td rowspan="4" colspan="2"><img name="privacy_slice_r4_c3" src="../IMAGES/leftnavimages/privacy_slice_r4_c3.gif" width="9" height="33" border="0"></td>
-          <td colspan="8"><a href="../about/company-info.zgi" onmouseout="MM_nbGroup('out');" onmouseover="MM_displayStatusMsg('Company Info');MM_nbGroup('over','privacy_slice_r4_c5','../IMAGES/leftnavimages/privacy_slice_r4_c5_f2.gif','../IMAGES/leftnavimages/privacy_slice_r4_c5_f3.gif',1);return document.MM_returnValue" onclick="MM_nbGroup('down','navbar1','privacy_slice_r4_c5','../IMAGES/leftnavimages/privacy_slice_r4_c5_f3.gif',1);"><img name="privacy_slice_r4_c5" src="../IMAGES/leftnavimages/privacy_slice_r4_c5.gif" width="70" height="10" border="0" alt="Company Info"></a></td>
-          <td rowspan="6" colspan="3"><img name="privacy_slice_r4_c13" src="../IMAGES/leftnavimages/privacy_slice_r4_c13.gif" width="72" height="50" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="10" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td colspan="8"><img name="privacy_slice_r5_c5" src="../IMAGES/leftnavimages/privacy_slice_r5_c5.gif" width="70" height="6" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="6" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td rowspan="2"><img name="privacy_slice_r6_c5" src="../IMAGES/leftnavimages/privacy_slice_r6_c5.gif" width="1" height="17" border="0"></td>
-          <td colspan="6"><a href="../about/product-info.zgi" onmouseout="MM_nbGroup('out');" onmouseover="MM_displayStatusMsg('Product Info');MM_nbGroup('over','privacy_slice_r6_c6','../IMAGES/leftnavimages/privacy_slice_r6_c6_f2.gif','../IMAGES/leftnavimages/privacy_slice_r6_c6_f3.gif',1);return document.MM_returnValue" onclick="MM_nbGroup('down','navbar1','privacy_slice_r6_c6','../IMAGES/leftnavimages/privacy_slice_r6_c6_f3.gif',1);"><img name="privacy_slice_r6_c6" src="../IMAGES/leftnavimages/privacy_slice_r6_c6.gif" width="65" height="7" border="0" alt="Product Info"></a></td>
-          <td rowspan="4"><img name="privacy_slice_r6_c12" src="../IMAGES/leftnavimages/privacy_slice_r6_c12.gif" width="4" height="34" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="7" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td colspan="6"><img name="privacy_slice_r7_c6" src="../IMAGES/leftnavimages/privacy_slice_r7_c6.gif" width="65" height="10" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="10" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td rowspan="8"></td>
-          <td colspan="6"><a onclick="rightnow();" href="#"><img name="privacy_slice_r8_c4" src="../IMAGES/leftnavimages/privacy_slice_r8_c4.gif" width="53" height="13" border="0" alt="Support"></a></td>
-          <td rowspan="2" colspan="2"><img name="privacy_slice_r8_c10" src="../IMAGES/leftnavimages/privacy_slice_r8_c10.gif" width="21" height="17" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="13" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td colspan="6"><img name="privacy_slice_r9_c4" src="../IMAGES/leftnavimages/privacy_slice_r9_c4.gif" width="53" height="4" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="4" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td rowspan="6"></td>
-          <td colspan="9"></td>
-          <td rowspan="6" colspan="2"></td>
-          <td></td>
-        </tr>
-        <tr> 
-          <td colspan="9"></td>
-          <td></td>
-        </tr>
-        <tr> 
-          <td rowspan="2" colspan="2"></td>
-          <td></td>
-          <td rowspan="2" colspan="6"></td>
-          <td></td>
-        </tr>
-        <tr> 
-          <td></td>
-          <td></td>
-        </tr>
-        <tr> 
-          <td rowspan="2"></td>
-          <td colspan="3"></td>
-          <td rowspan="2" colspan="5"></td>
-          <td></td>
-        </tr>
-        <tr> 
-          <td colspan="3"></td>
-          <td></td>
-        </tr>
-        <tr> 
-          <td rowspan="2"><img name="privacy_slice_r16_c1" src="../IMAGES/leftnavimages/privacy_slice_r16_c1.gif" width="7" height="19" border="0"></td>
-          <td colspan="13"><a href="privacy.zgi" onmouseout="MM_nbGroup('out');" onmouseover="MM_displayStatusMsg('Privacy &amp; Security');MM_nbGroup('over','privacy_slice_r16_c2','../IMAGES/leftnavimages/privacy_slice_r16_c2_f2.gif','../IMAGES/leftnavimages/privacy_slice_r16_c2_f3.gif',1);return document.MM_returnValue" onclick="MM_nbGroup('down','navbar1','privacy_slice_r16_c2','../IMAGES/leftnavimages/privacy_slice_r16_c2_f3.gif',1);"><img name="privacy_slice_r16_c2" src="../IMAGES/leftnavimages/privacy_slice_r16_c2_f3.gif" width="111" height="13" border="0" alt="Privacy and Security" onload="MM_nbGroup('init','navbar1','privacy_slice_r16_c2','../IMAGES/leftnavimages/privacy_slice_r16_c2.gif',1)"></a></td>
-          <td rowspan="2"><img name="privacy_slice_r16_c15" src="../IMAGES/leftnavimages/privacy_slice_r16_c15.gif" width="41" height="19" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="13" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td colspan="13"><img name="privacy_slice_r17_c2" src="../IMAGES/leftnavimages/privacy_slice_r17_c2.gif" width="111" height="6" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="6" border="0" name="undefined_2"></td>
-        </tr>
-        <tr> 
-          <td colspan="15"><img name="privacy_slice_r18_c1" src="../IMAGES/leftnavimages/privacy_slice_r18_c1.gif" width="159" height="167" border="0"></td>
-          <td><img src="../IMAGES/leftnavimages/spacer.gif" width="1" height="167" border="0" name="undefined_2"></td>
-        </tr>
-      </tbody></table>
-    </td>
-    <!-- Body Middle Margin -->
-    <td valign="top"><img height="2" hspace="0" src="../about/Security_files/pixel-shim.gif" width="10" border="0"></td>
-    <!-- Body Right Body Cell -->
-    <td valign="top">
-      <!-- Body Title Table -->
-      <table cellspacing="0" cellpadding="0" width="471" border="0">
-        <tbody> 
-        <tr> 
-          <td><img height="2" hspace="0" src="../about/Security_files/pixel-shim.gif" width="358" border="0"></td>
-          <td><img height="2" hspace="0" src="../about/Security_files/pixel-shim.gif" width="10" border="0"></td>
-          <td><img height="2" hspace="0" src="../about/Security_files/pixel-shim.gif" width="103" border="0"></td>
-        </tr>
-        <tr> 
-          <td valign="top"><img height="28" alt="Privacy / Security" hspace="0" src="../images/title-privacy.gif" width="214" vspace="5" border="0"><br clear="all">
-            <font face="Arial, Helvetica, Sans-serif" size="-1"> 
-			Zoomerang is a survey clearinghouse. We do not censor the questions or messages in the surveys or the invitations to take surveys that third parties may propound, nor do we censor the responses you may provide. The sender of a survey is solely responsible for the subject matter and contents of the survey invitation and survey in which you participate, and you are solely responsible for the contents of your response.<p>
-			According to Zoomerang's <a href="#" onclick="window.open('../join/terms-of-agreement.html','termswindow','menubar=no,toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=1,copyhistory=no,width=400,height=400'); return false;">Terms of Agreement</a>,  survey senders promise that they have an ongoing business or personal relationship or they've obtained consent to send emails to survey recipients.   
-			Questions? Please click the support link at the top left hand side of the page.
-			</p><p>
-            </p><p>Zoomerang is committed to its policy of protecting the privacy 
-              and confidential information of Members, who register to build and 
-              deploy surveys and who from time to time might purchase services 
-              offered by Zoomerang, and Panelists, who register to respond to 
-              and answer surveys. 
-            </p><p><u>What personally identifiable information does Zoomerang collect 
-              and what does Zoomerang do with it?</u> 
-            </p><p>Upon registration, Members provide us with personal information 
-              such as their name, address and email address. We use this information 
-              to establish individual accounts and lockers, protected by a password 
-              the Member selects. We ask for some additional demographic information 
-              from our Panelists to determine their eligibility to participate 
-              in surveys requiring Panelists who meet a specific demographic profile. 
-            </p><p>With respect to both Members and Panelists, Zoomerang uses the 
-              email address supplied in the registration process to confirm registration, 
-              and to send notices and updates to you concerning the services and 
-              the site. We will also add you to Zoomerang's mailing list if you 
-              requested that during registration. 
-            </p><p>Zoomerang also uses "cookies," or small pieces of information that 
-              we store on users' computers, to recognize returning users and to 
-              monitor traffic through the site. This information helps us to make 
-              the site better and more user-friendly. We also collect with either 
-              cookies or weblogs users’ IP addresses and log in times that are 
-              identified by individual user. Finally, we collect the surveys and 
-              survey results that you have either deployed or participated in. 
-            </p><p>NOTE TO PARENTS AND MINORS: We do not want to collect any personal 
-              information whatsoever of minors-in fact, we ask that minors do 
-              not submit any information about themselves and that they not use 
-              this Site. Anyone using this Site or the Services warrants and promises 
-              that they are 18 years of age or older. 
-            </p><p><u>Does Zoomerang Disclose My Personally Identifiable Information 
-              to Other Members?</u> 
-            </p><p>No. All Zoomerang does is send surveys to Panelists on behalf of 
-              Members. Zoomerang sends these surveys without disclosing any personally 
-              identifiable information on its Panelists. Demographic information 
-              on Panelists that a Member may require is disclosed only in aggregate 
-              form. 
-            </p><p>Panelists should be aware, however, that in responding to surveys 
-              or survey invitations that they may be disclosing their own personally 
-              identifiable information to Members. The security and privacy protections 
-              in place on this Site and through the Service do not cover this 
-              type of transfer or disclosure of personal information. Panelists 
-              responding to surveys or survey invitations are solely responsible 
-              for the content of their responses. 
-            </p><p><u>To Whom Do We Disclose Personal Information?</u> 
-            </p><p>As a rule, we will not sell, distribute, publish or otherwise disclose 
-              your personally identifying information without your express permission 
-              through an email authorization. However, if we believe you have 
-              breached the Terms of Agreement, especially with regard to transmitting, 
-              publishing or distributing pornographic, obscene, offensive, threatening, 
-              harassing, libelous, hate-oriented, harmful, defamatory, racist, 
-              illegal or otherwise objectionable materials or content, we will 
-              report such conduct to the appropriate authorities and turn over 
-              any and all information, including personal identifying information, 
-              to appropriate persons or entities. We will also comply with any 
-              laws or legal process that may require disclosure of personal identifying 
-              information. 
-            </p><p><u>How does Zoomerang store my Personally Identifiable Information?</u> 
-            </p><p>Zoomerang stores personal information of Members and Panelists 
-              in secure databases protected by passwords as well as database and 
-              network firewalls to prevent the loss, misuse or alteration of personal 
-              information. While no security systems are infallible, MarketTools 
-              (Zoomerang's parent company) will prosecute any unauthorized access 
-              to secured information to the fullest extent of the law. Zoomerang 
-              periodically reviews and updates security measures to insure the 
-              best possible protections for the membership. 
-            </p><p><u>Can I Delete Personally Identifiable Information on the site?</u> 
-            </p><p>You can notify us at any time to remove your registration information 
-	    from our database by clicking on the support link at the top left hand side 
-	    of the page and requesting us to remove your registration. 
-              If you do that, we will not keep any personally identifiable records 
-              concerning you unless required to do so by law. However, if you 
-              make this request you will be unable to access or use the account 
-              you previously created and its associated content without going 
-              through the registration process again. In addition, Zoomerang cannot 
-              retrieve any personally identifiable information Panelists may have 
-              disclosed to Members in responding to surveys. 
-            </p><p><u>What Does Zoomerang Do With Survey Responses?</u> 
-            </p><p>Members access surveys they have built and their results/data through 
-              their individual accounts and lockers protected by a password they 
-              have selected. Zoomerang will not use any such information without 
-              a member's express permission through an email authorization. A 
-              member's surveys and their results/data will be stored in the member's 
-              individual account and password-protected locker for no more than 
-              10 days from the launch of the member's survey. Extended storage 
-              is available by subscribing to the zPro membership. 
-            </p><p><u>Does Zoomerang Collect or Disclose Information (email addresses, 
-              names) That I Supply in Order to Send Surveys?</u> 
-            </p><p>No. When you enter email information for your survey recipients 
-              or establish email lists in your personal Email List Manager, that 
-              information remains untouched and private in your personal locker. 
-              Your password protects that information. Zoomerang never discloses 
-              that information and if it ever wanted to, Zoomerang would get express 
-              approval from you first. However, if you have breached the Terms 
-              of Agreement, Zoomerang will report such conduct to the appropriate 
-              authorities and turn over any and all information, including personally 
-              identifying information, to appropriate persons or entities. 
-            </p><p><u>Changes to this Privacy Policy</u> 
-            </p><p>If Zoomerang wishes to change this policy, it will publish changes 
-              on this Web site before those changes will take effect. Zoomerang 
-              will also notify users of changes to this policy via electronic 
-              mail. As always, if you do not agree with Zoomerang's privacy policy, 
-              you have the option of requesting that we delete your personally 
-              identifiable information from the site. For more information policies, 
-              see our <a onfocus="blur()" onclick="window.open('../join/terms-of-agreement.html','termswindow','menubar=no,toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=1,copyhistory=no,width=400,height=400'); return false;" href="#">Terms of Agreement</a>. 
-            </p>
-            <p>&nbsp;</p>
-            <p> <img height="1" hspace="0" src="../about/Security_files/pixel-CC9900.gif" width="353" vspace="10" border="0"> </p>
-            </font></td>
-          <td valign="top"></td>
-          <td valign="top">&nbsp;</td>
-        </tr>
-        </tbody>
-      </table>
-      <br>
-      <br>
-      <font size="-2" face="Arial, Helvetica, Sans-serif">
-Copyright ©1999-2003&nbsp; <a href="#" onclick="window.open('http://www.markettools.com/','markettools'); return false;" onfocus="blur()">MarketTools, Inc.</a> All Rights Reserved.<br>
-No portion of this site may be copied without the express written consent of MarketTools, Inc.  <a href="#" onclick="window.open('../about/trademark.htm','trademark','height=400,width=400,resizeable=true');return false">Trademark Notice</a>
-</font>
-      <!-- Body Right Body Cell Closing Tags -->
-    </td>
-  </tr>
-  </tbody>
-</table>
-<map name="Map">
-  <area shape="rect" coords="4,9,55,22" href="../index.zgi">
-</map>
+<body bgcolor="#ffcb00" leftmargin="0" topmargin="20" marginwidth="0" marginheight="20"><div align="center">
+
+
+
+        <table cellspacing="0" cellpadding="0" bgcolor="#7b237a" border="0">
+                                        <tbody><tr>
+                                                <td width="1"><img src="../images/spacer.gif"></td>
+                        <td width="780" valign="top">
+                                <table cellspacing="0" cellpadding="0" border="0" width="780">
+                                        <tbody><tr>
+                                                <td colspan="5" width="780">
+                                                        <table bgcolor="#7b237a" cellspacing="0" cellpadding="0" border="0">
+                                                                <tbody><tr>
+                                                                        <td colspan="3" height="35"><img height="1" src="../images/spacer.gif" width="569"></td>
+                                                                        <td><a href="http://zoomerang.custhelp.com/cgi-bin/zoomerang.cfg/php/enduser/std_adp.php?p_faqid=132&amp;p_created=1053648335" target="_new"><img height="24" alt=" Support " src="../images/btn_support_top.gif" width="75" border="0"></a></td>
+                                                                        <td width="9"></td>
+                                                                        <td><a href="../signup.htm" target="_self"><img height="24" alt=" Sign Up " src="../images/btn_signup_top.gif" width="75" border="0"></a></td>
+                                                                </tr>
+                                                                <tr><td colspan="6" valign="bottom"><img src="../images/header.gif" width="780" border="0" usemap="#Map"></td>
+                                                                </tr>
+                                                                <tr><td colspan="6" height="14" valign="bottom"><img height="14" src="../images/header_downbk.gif" width="780"></td></tr>
+                                                        </tbody></table>
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                                <td valign="top" bgcolor="#f0f1f6">
+                                                        <table cellpadding="0" cellspacing="0" border="0" width="180">
+                                                                <tbody><tr>
+                                                                        <td width="180">
+                                                                                <table cellpadding="0" cellspacing="0" border="0" height="343" bgcolor="#fdffe7" width="180">
+                    <tbody>
+                                                                                        <tr>
+                                                                                                <td rowspan="14" width="5" valign="center"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="16"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="154" colspan="2"><a class="leftnav" href="http://www.zoomerang.com">Home</a></td>
+                                                                                                <td rowspan="14" width="5"><img src="../images/spacer.gif"></td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                                <td width="16" height="1" bgcolor="#f1ea75"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="154" colspan="2" height="1" bgcolor="#f1ea75"><img src="../images/spacer.gif"></td>
+                                                                                        </tr>
+                                                                                        <tr>
+
+                                                                                                <td width="18"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="154" colspan="2"><a class="leftnav" href="../products.htm" target="_self">Survey Products</a></td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                                <td width="16" height="1" bgcolor="#f1ea75"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="154" colspan="2" height="1" bgcolor="#f1ea75"><img src="../images/spacer.gif"></td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                                <td width="18"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="154" colspan="2"><a class="leftnav" href="../zsample.htm" target="_self">Survey Respondents</a></td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                                <td width="16" height="1" bgcolor="#f1ea75"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="154" colspan="2" height="1" bgcolor="#f1ea75"><img src="../images/spacer.gif"></td>
+                                                                                        </tr>
+
+                                                                                  
+                                                                                        <tr>
+                                                                                                                                                                                                                                                                                                                                                                                                <td width="16"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="154" colspan="2"><a class="leftnav" href="../company.htm" target="_self">Company</a></td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                                                                                                                                                                                                                                                                                                                                <td width="18"><img src="../images/spacer.gif"></td>
+                                                                                                                                                                                                                                                                                                                                                                                                <td width="8"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="140"><a class="leftnav" href="../customers.htm" target="_self">Customers</a></td>
+                                                                                        </tr>
+
+										<tr>
+										  <td width="18"><img src="../images/spacer.gif"></td>
+										  <td width="8"><img src="../images/spacer.gif"></td>
+										  <td width="140"><a class="leftnav" href="../casestudies.htm" target="_self">Case Studies</a></td>
+										</tr>
+										<tr>
+										  <td width="18"><img src="../images/spacer.gif"></td>
+										  <td width="8"><img src="../images/spacer.gif"></td>
+										  <td width="140"><a class="leftnav" href="../press/index.htm" target="_self">Press Room</a></td>
+										</tr>
+
+
+
+
+
+
+                                                                                        <tr>
+                                                                                                <td width="18" valign="center" align="middle"><img src="../images/navArrow.gif" border="0"></td>
+                                                                                                <td width="8"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="140" class="leftnavH">Privacy Policy </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                                <td width="18"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="8"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="140"><a class="leftnav" href="accept.htm" target="_self">Acceptable Use Policy</a></td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                                                                                                                                                                                                                                                                                                                                <td width="18"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="8"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="140"><a class="leftnav" href="toa.htm" target="_self">Terms of Agreement</a></td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                                <td width="18"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="8"><img src="../images/spacer.gif"></td>
+                                                                                                <td width="140"><a class="leftnav" href="../contact.htm" target="_self">Contact Us</a></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="5" bgcolor="#702872" height="2"><img src="../images/spacer.gif"></td></tr>
+                                                                                </tbody></table>
+                                                                        </td>
+                                                                </tr>
+                                                                <tr><td height="120" bgcolor="#f0f1f6" align="middle" width="180"><a href="../signup.htm" target="_self"><img src="../images/signUp.gif" alt="Sign Up" border="0"></a></td>
+                                                                </tr>
+                                                                <tr><td bgcolor="#f0f1f6"><img src="../images/spacer.gif"></td></tr>
+                                                        </tbody></table>
+                                                </td>
+                                                <td bgcolor="#ffffff"><img src="../images/spacer.gif" width="10"></td>
+                                                <td bgcolor="#ffffff" valign="top">
+                                                        <table cellpadding="0" cellspacing="0" border="0" width="580">
+                                                                <tbody><tr><td colspan="2" height="24"><span class="body"><a class="TopNav" href="http://www.zoomerang.com">Home</a>&nbsp;&gt;&nbsp;<span class="body"><a class="TopNav" href="../company.htm">Company</a>&nbsp;&gt;&nbsp;<span class="TopNavH">Privacy Policy</span></span></span></td>
+                                                                </tr>
+                                                                <tr><td colspan="2" height="72" align="middle"><img alt=" Privacy Policy " src="../images/privacy.jpg" border="0"></td></tr>
+                                                                <tr>
+                                                                        <td><img height="1" src="../images/spacer.gif" width="12"></td>
+                                                                        <td>
+                                                                                <map name="Map">
+                                                                                          <area shape="rect" coords="15,15,204,42" href="http://www.zoomerang.com" alt="Zoomerang">
+                                                                                          </map><table cellpadding="0" cellspacing="0" border="0" width="541">
+                                                                                <tbody><tr><td colspan="2" height="17"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2" height="11"><span class="body">Your privacy is important, so MarketTools, Inc., through our Zoomerang service, has created the following Privacy Policy to let you know what information we collect when you visit our site <a class="more" href="http://www.zoomerang.com" target="_new">www.zoomerang.com</a>, why we collect it and how it is used.  This Privacy Policy explains the data collection and use practices of <a class="more" href="http://www.zoomerang.com" target="_new">www.zoomerang.com</a>; it does not apply to other online or offline MarketTools, Inc. sites, products or services.  The terms "you," "your," and "yours" refer to the customer/purchaser utilizing our site <a class="more" href="http://www.zoomerang.com" target="_new">www.zoomerang.com</a>.  The terms "MarketTools," "Zoomerang," "we," "us," and "our" refer to MarketTools, Inc. and its subsidiaries and affiliates.  This Privacy Policy is governed by our <a href="toa.htm" class="more">Terms of Agreement</a>.  By using this web site, you consent to the data practices prescribed in this statement.  We may periodically make changes to this Privacy Policy that we will include on this page.  It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="17"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2" height="11"><span class="body">Please be aware that this Privacy Policy and the choices you make on this web site will not necessarily apply to personal information you may have provided to MarketTools in the context of other, separately operated, MarketTools products or services.</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="17"></td></tr>
+                                                                                        <tr>
+                                                                                                <td colspan="2" height="11">
+                                                                                                <span class="subhead"><b>What is Zoomerang?</b></span><br>
+                                                                                                <span class="body">
+                                                                                                Zoomerang is a survey clearinghouse.   Zoomerang is committed to its policy of protecting the privacy and confidential information of our Members, who register to build and deploy surveys and who from time to time might purchase services offered by Zoomerang, and our Panelists, who register to respond to and answer surveys.  For Panelists, please also refer to the ZoomPanel Privacy Policy at http://www.zoompanel.com.
+                                                                                          </span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                                <td colspan="2" height="11"><span class="body">
+                                                                                                Our site <a class="more" href="http://www.zoomerang.com" target="_new">www.zoomerang.com</a> allows our Members to create surveys and questionnaires for distribution to other Members or other third parties who may serve as Panelists for such surveys.  Our Terms of Agreement require that, prior to sending a survey, Members must have an ongoing business or personal relationship with a survey recipient, or the Member must have obtained the prior consent of a survey recipient to send emails to a recipient through our site.  Questions?  Please refer to our <a href="toa.htm" class="more">Terms of Agreement</a>
+                                                                                                </span></td>
+
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                                <td colspan="2" height="11"><span class="body">
+                                                                                                We do not censor the questions or messages in the surveys or the invitations to take surveys that our Members or other third parties may create, nor do we censor the responses you may provide. The sender of a survey is solely responsible for the subject matter and contents of the survey invitation and survey in which you participate, and you are solely responsible for the contents of your response.
+                                                                                                </span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr><td colspan="2"><span class="subhead"><b>What Personally Identifiable Information does Zoomerang collect and what does Zoomerang do with it?</b></span></td></tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr><td class="body">"Personally Identifiable Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home.</td></tr>
+                                                                                          
+                                                                                        
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2" height="11"><span class="body">Upon registration, we ask our Members to provide us with certain Personal Identifiable Information such as their name, country of residence and email address. We use this information to establish individual accounts and lockers, protected by a password that the Member selects.  In addition, we use the email address supplied by Members in the registration process to confirm registration, and to send notices and updates to you concerning the services and the site. We will also add you to Zoomerang's mailing list if you requested that during registration.</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2" height="11"><span class="body">We ask for some additional demographic information from our Panelists to determine their eligibility to participate in surveys requiring Panelists who meet a specific demographic profile. </span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2" height="11"><span class="body">Zoomerang also automatically receives and records information on our server logs from your browser, including your IP address, cookie information and the page you request.  Cookies are small pieces of information that we store on a user's computers, to recognize returning users and to monitor traffic through the site. This information helps us to make the site better and more user-friendly. We also collect, with either cookies or web logs, a user's IP address and log in times that are identified by individual user. Finally, we collect the surveys and survey results that you have either deployed or participated in.   You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features.</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2" height="11"><span class="body">NOTE TO PARENTS AND MINORS: We are committed to complying fully with the Children's Online Privacy Protection Act of 1998, as amended. We urge minors to check with their parents before entering information on any web site.</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="subhead">Does Zoomerang disclose my Personally Identifiable Information to other Members, Panelists or other third parties? </span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">No, we do not disclose your Personally Identifiable Information to other Members, Panelists or any other third parties, unless the individuals involved expressly agree to such disclosure or it is required by law, and except for such information that may be necessary for us to share with our trusted internal and third-party service providers for the operation of our business and the tracking and management of the information we collect from you and other Members and Panelists.</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">We may disclose Personal Identifiable Information or other information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on MarketTools or this site; (2) protect and defend the rights or property of MarketTools; or (3) act in urgent circumstances to protect the personal safety of users of MarketTools, its web sites or the public.  If MarketTools (or our Zoomerang service) should ever file for bankruptcy or merge with another company or entity, we may sell the information you provide to us on this site to a third party or share your Personally Identifiable Information with any company with whom we merge (and they in turn will be subject to this Privacy Policy).</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">Please note that if we believe that you have breached the Terms of Agreement for use of this site, especially with regard to our strict ban on transmitting, publishing or distributing pornographic, obscene, offensive, threatening, harassing, libelous, hate-oriented, harmful, defamatory, racist, illegal or otherwise objectionable materials or content, we will report such conduct to the appropriate authorities and turn over any and all information, including Personally Identifiable Information, to appropriate law enforcement persons or entities. We will comply with any laws or legal process that may require disclosure of Personally Identifiable Information.</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="subhead">Does Zoomerang collect or disclose information (email addresses, names) that I supply in order to send surveys?</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">No, subject to the terms and conditions noted above. When you enter email information for your survey recipients or establish email lists in your personal Address Book, that information remains private in your personal locker. Your password protects that information.  As a reminder, if you have breached or breach our Terms of Agreement, Zoomerang will report such conduct to the appropriate authorities and turn over any and all information, including Personally Identifying Information, to appropriate law enforcement persons or entities.</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="subhead">How does Zoomerang store my Personally Identifiable Information? What are the security measures?</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">Zoomerang stores Personal Identifiable Information and other personal information of Members in secure databases protected by passwords as well as database and network firewalls to prevent the loss, misuse or alteration of personal information.   We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  Unfortunately, no method of transmission over the Internet, or method of electronic storage, is 100% secure.  Therefore, while we strive to use commercially acceptable means to protect the personal information that you transmit to us, we cannot guarantee its absolute security, and you do so at your own risk.  While no security systems are infallible, MarketTools (Zoomerang's parent company) will prosecute any unauthorized access to secured information to the fullest extent permitted by law. Zoomerang periodically reviews and updates security measures to continually provide improved protections for the membership.</span></td>
+                                                                                        </tr>
+
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="subhead">Can I edit or delete my Personally Identifiable Information on this site?</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">You can notify us at any time to update or remove your registration information from our database by clicking on the following <a href="http://zoomerang.custhelp.com/cgi-bin/zoomerang.cfg/php/enduser/std_adp.php?p_faqid=132&amp;p_created=1053648335" class="more" target="_new">Support Link</a> and providing us with the updated information, or requesting us to remove your registration. If you do that, we will not keep any of your former Personally Identifiable Information records concerning you unless required to do so by law. However, if you request that Zoomerang remove your registration information from our database, you will be unable to access or use the account you previously created and its associated content without going through the registration process again. </span></td>
+                                                                                        </tr>
+
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="subhead">What does Zoomerang do with survey responses? </span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">Members may access surveys they have built and their results/data through their individual accounts and lockers protected by a password they have selected. Zoomerang will not use any such information without a Member's written permission through an email or other written authorization. A Member's surveys and their results/data will be stored in the Member's individual account and password-protected locker for no more than 10 days from the launch of the Member's survey. Extended storage is available by subscribing to the zPro Membership.</span></td>
+                                                                                        </tr>
+
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="subhead">International Transfers</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">Personal Information collected on this site may be stored and processed in the United States or any other country in which MarketTools or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country.</span></td>
+                                                                                        </tr>
+
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="subhead">Third Party Sites</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">Please be aware that some of the Web sites you may choose to link to from our site may collect Personally Identifiable Information and other information about you.  The practices of those Web sites linked to this site with respect to their use of your Personally Identifiable Information or other information that they may collect are not covered by this Privacy Policy.</span></td>
+                                                                                        </tr>
+
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="subhead">Changes to this Privacy Policy </span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">If Zoomerang wishes to change this policy, it will publish changes on this site before those changes will take effect, which is your responsibility to review. As always, if you do not agree with Zoomerang's Privacy Policy, you have the option of requesting that we delete your Personally Identifiable Information from this site. For more information on our policies, see our Terms of Agreement.</span></td>
+                                                                                        </tr>
+
+                                                                                        <tr><td colspan="2" height="11"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="subhead">Contacting Zoomerang</span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="3"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body">If you have questions regarding this Privacy Policy, please contact Zoomerang at <a href="mailto:info@zoomerang.com" class="more">info@zoomerang.com.</a></span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="20"></td></tr>
+                                                                                        <tr>
+                                                                                          <td colspan="2"><span class="body"><i>This Privacy Policy is effective as of April 20, 2004.</i></span></td>
+                                                                                        </tr>
+                                                                                        <tr><td colspan="2" height="25"></td></tr>
+
+
+                                                              </tbody></table>
+                                                            </td>
+                                                    </tr>
+                                            </tbody></table>
+                                                </td>
+                                                <td bgcolor="#ffffff" width="15"><img src="../images/spacer.gif"></td>
+                                                <td bgcolor="#742578"><img height="1" src="../images/spacer.gif" border="0"></td>
+                                        </tr>
+                                </tbody></table></td></tr>
+                <tr>
+                </tr><tr><td height="5" colspan="3" bgcolor="#742578"><img src="../images/spacer.gif" border="0"></td></tr>
+                </tbody></table>
+
+                                <table cellpadding="0" cellspacing="0" border="0" align="center" width="500">
+                                        <tbody><tr><td height="20"></td></tr>
+                                        <tr><td align="middle" class="leftnav"><a class="copynav" href="../sitemap.htm">Site Map</a>&nbsp;|&nbsp;<a href="http://zoomerang.custhelp.com/cgi-bin/zoomerang.cfg/php/enduser/std_adp.php?p_faqid=132&amp;p_created=1053648335" class="copynav" target="_new">Support</a>&nbsp;|&nbsp;<a class="copynav" href="#">Privacy Policy</a>&nbsp;|&nbsp;<a href="../contact.htm" class="copynav">Contact Us</a></td></tr>
+                                        <tr><td height="12"><img src="../images/spacer.gif"></td></tr>
+                                        <tr><td class="copy" align="middle">Copyright ©1999-2004&nbsp;<a href="http://www.markettools.com" target="_blank" class="copynav">MarketTools. Inc.</a> All Rights Reserved.<br> No portion of this site may be copied without the express<br>written consent of MarketTools, Inc. <a href="#" onclick="window.open('http://info.zoomerang.com/about/trademark.htm','trademark','height=400,width=400,resizeable=true');return false" class="copyNav">Trademark Notice</a></td></tr>
+                                </tbody></table>
+
+</div>
 
 </body></html>
