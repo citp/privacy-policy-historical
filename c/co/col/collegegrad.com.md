@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607032915id_/http%3A//www.collegegrad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214171821id_/http%3A//collegegrad.com/privacy) for the most accurate reproduction.*
 
 # Collegegrad Internet Privacy Statement
 
