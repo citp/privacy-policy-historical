@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211183536id_/http%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603160530id_/http%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -15,7 +15,7 @@ When you sign up for our free newsletter or other information services, we need 
 We monitor customer traffic patterns and site usage to help us develop the design and layout of the store. We may also use the aggregate data collected to inform any sponsors and/or advertisers as to the profile and number of people who have seen and clicked on their advertisement. Such information will never contain personally identifiable information. Any information collected from the survey advertised on the site is also anonymous and is used to help advertisers understand the high callibre of our visitors. 
 
 **Protection and Security of Customer Information**  
-When you place an order at 8notes.com, your personal information and credit card information is safe. That's because we've taken steps to ensure a secure and superior shopping environment. We use state-of-the-art secure socket layer (SSL) encryption technology that protects the transmission and storage of your credit card information. For more information read our [Safe Shopping Guarantee](https://web.archive.org/web/20011211183536id_/http%3A//www.8notes.com/help/safe_shopping.asp?p=p).
+When you place an order at 8notes.com, your personal information and credit card information is safe. That's because we've taken steps to ensure a secure and superior shopping environment. We use state-of-the-art secure socket layer (SSL) encryption technology that protects the transmission and storage of your credit card information. For more information read our [Safe Shopping Guarantee](https://web.archive.org/web/20020603160530id_/http%3A//www.8notes.com/help/safe_shopping.asp?p=p).
 
 **Your Consent**  
 By using our web site, you consent to the collection and use of this information by 8notes.com as outlined on this page. 
