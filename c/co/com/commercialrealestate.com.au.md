@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630011353id_/http%3A//www.commercialrealestate.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208192723id_/http%3A//www.commercialrealestate.com.au/privacy.asp) for the most accurate reproduction.*
 
-# Real Estate Australia - Privacy Statement
+# Privacy Statement - Real Estate Australia
 
 Thank you for taking the time to learn more about how CRE Internet Services (“CRE”) manages your personal information. 
 
