@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2000-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001110135600id_/http%3A//www.eudora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2001-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010611041729id_/http%3A//www.eudora.com/privacy) for the most accurate reproduction.*
 
 # Eudora Privacy Statement
 
@@ -64,3 +64,6 @@ WEB SITE: www.eudora.com
 
 **Contacting the Web Site  
 **If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this Web site, you can contact our [webmaster.](mailto:webmaster@qualcomm.com)
+
+  
+Last updated 10/10 2000 
