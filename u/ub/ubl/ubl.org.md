@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubl.org privacy policy that was archived on 2004-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040312033735id_/http%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubl.org privacy policy that was archived on 2004-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040718045421id_/http%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -6,9 +6,9 @@
 
 _**POLICY OVERVIEW**_
 
-Welcome to SearchPort’s privacy policy. We at NetVisibilty view the protection of individual privacy as critically important, and we are committed to maintaining the highest standards in the industry. It is our fundamental goal at NetVisibilty to remain a leader in internet-enabled marketing and advertising, while maintaining our commitment to these standards.
+Welcome to SearchPort’s privacy policy. We at NetVisibility view the protection of individual privacy as critically important, and we are committed to maintaining the highest standards in the industry. It is our fundamental goal at NetVisibility to remain a leader in internet-enabled marketing and advertising, while maintaining our commitment to these standards.
 
-The following is SearchPort’s overall company policy related to privacy, as well as a summary of your choice to Opt-Out of our information collection practices. This policy is open to comment and is meant to provide an evolving framework from which we at NetVisibilty can address any concerns of the Internet community.
+The following is SearchPort’s overall company policy related to privacy, as well as a summary of your choice to Opt-Out of our information collection practices. This policy is open to comment and is meant to provide an evolving framework from which we at NetVisibility can address any concerns of the Internet community.
 
 For more information, or if you have questions or concerns regarding SearchPort’s Privacy Statement, please send us an e-mail at info@netvisibility.com or you can send correspondence to the following address:
 
@@ -44,7 +44,7 @@ If a consumer elects to provide SearchPort with personally-identifiable data, we
 
 All personally-identifiable data provided by individuals is maintained in strict confidence by SearchPort and will be treated with the same level of respect and care that SearchPort treats its other proprietary information and trade secrets.
 
-In the event that NetVisibilty or part(s) of the company, may one day be purchased by, or merged with, another company. If that's the case, the acquiring (or merging) company will have access to your information.
+In the event that NetVisibility or part(s) of the company, may one day be purchased by, or merged with, another company. If that's the case, the acquiring (or merging) company will have access to your information.
 
 Finally, SearchPort may share information on individuals as it deems necessary to comply and cooperate with government and law enforcement officials.
 
@@ -52,11 +52,11 @@ Finally, SearchPort may share information on individuals as it deems necessary t
 
 **_Changes To Our Privacy Policy_**
 
-The issue of privacy is an evolving one. NetVisibilty is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its privacy policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes.
+The issue of privacy is an evolving one. NetVisibility is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its privacy policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes.
 
 **_Contacting Us_**
 
-For more information, or if you have questions or concerns regarding SearchPort’s privacy practices, please send us an e-mail at [info@netvisibilty.com](mailto:info@netvisibilty.com), or you can send correspondence to the following address:
+For more information, or if you have questions or concerns regarding SearchPort’s privacy practices, please send us an e-mail at [info@NetVisibility.com](mailto:info@NetVisibility.com), or you can send correspondence to the following address:
 
 Privacy  
 SearchPort.  
