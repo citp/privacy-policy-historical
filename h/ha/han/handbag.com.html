@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the handbag.com privacy policy that was archived on 2003-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205004255id_/http%3A//www.handbag.com/aboutus/yourprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the handbag.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204121023id_/http%3A//handbag.com/aboutus/yourprivacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>
@@ -10,7 +10,7 @@ handbag.com
 <meta name="description" content="">
 <meta name="keywords" content="">
 <script language="javascript"><!-- 
-	if (self != top) top.location = "/aboutus/yourprivacy//?";
+	if ((top.location != self.location) && (navigator.userAgent.indexOf("MSIE"))) top.location.replace( unescape(window.location.pathname) );
 //--></script>
 <script language="javascript" src="/script/handbag.js"><!-- include virtual="/script/handbag.js" //--></script>
 <script language="javascript" src="/script/nav.js"></script>
@@ -20,10 +20,6 @@ handbag.com
 		var channel_referer;
 		var new_url = new String(url);
 		if ( new_url.indexOf(document.location.hostname, 0) <= 0 ) {
-			if( document.cookie.indexOf('exit') < 0 ) {
-				setCookie( 3, 'siteexit', '' );
-				ShowPopup('/popup/exitpopup/series=ExitNewsLetter/', '', '511', '422')
-			}
 		} else {
 			var location = new_url.indexOf(document.location.hostname);
 			var urlchannel;
@@ -33,10 +29,6 @@ handbag.com
 			var channel_referer_location = document.location.pathname.substring(1).indexOf("/");
 			channel_referer = document.location.pathname.substring(1,channel_referer_location + 1);
 			if (channel_referer != urlchannel) {
-				if( document.cookie.indexOf('exit') < 0 ) {
-					setCookie( 3, 'channelexit', '' );
-					ShowPopup('/popup/exitpopup/series=ExitNewsLetter/', '', '511', '422')
-				}
 			}
 		}
 	}
@@ -54,64 +46,80 @@ handbag.com
 	<link rel="stylesheet" type="text/css" href="/css/static.css">
 </head>
 <body id="hbmainbody" bgcolor="#FFFFFF" onload="addNS6Events();" onclick="popupclick(); moreChannelToggle('close', event); " onunload="popupunload();"><center>
-
-<!-- hb3 redesign blank page -->
-<!-- Begin Sitestat4 code -->
+<!-- hb3 redesign blank page --><!-- Begin Sitestat4 code -->
 <script language="JavaScript1.1">
 	<!--
-	function sitestat(ns_l){
-   ns_l+="&ns__t="+new Date().getTime();ns_pixelUrl=ns_l;
+	function sitestat(ns_l, ns_l2){
+	  var cloc = window.location.host;
+   var clocs;
+   var prefix;
+   ns_l2+="&ns__t="+new Date().getTime();ns_pixelUrl=ns_l;
 	  ns_0=document.referrer;
 	  ns_0=(ns_0.lastIndexOf("/")==ns_0.length-1)?ns_0.substring(ns_0.lastIndexOf("/"),0):ns_0;
-	  if(ns_0.length>0)ns_l+="&ns_referrer="+escape(ns_0);
+	  if(ns_0.length>0)ns_l2+="&ns_referrer="+escape(ns_0);
+   clocs = cloc.split('.');
+   for(var iCount=0;iCount<clocs.length;iCount++)
+   {
+      switch (clocs[iCount])
+      {
+         case "aol":
+            prefix = "aol";
+            break;
+         case "msn":
+            prefix = "msn";
+            break;
+         default:
+            prefix = "";
+            break;
+      }
+   }
+   if (prefix.length > 0)
+   {
+      if (prefix != ns_l2.substring(prefix.length))
+      {
+         ns_l2 = prefix + ns_l2;
+      }
+   }
+	  ns_l += ns_l2;
 	  if(document.images){ns_1=new Image();ns_1.src=ns_l;}else document.write("<img src="+ns_l+" width=1 height=1>");}
-  sitestat("http://uk.sitestat.com/handbag/handbag/s?aboutus.yourprivacy.home.page&category=aboutus");
+  sitestat("http://uk.sitestat.com/handbag/","handbag/s?aboutus.yourprivacy.home.page&category=aboutus");
 	//-->
 </script>
 <noscript>
 	<img src="http://uk.sitestat.com/handbag/handbag/s?aboutus.yourprivacy.home.page&category=aboutus" width=1 height=1>
 </noscript>
 <!-- End Sitestat4 code -->
-
-<a name="handbag_top"></a>
-<link rel="stylesheet" type="text/css" href="/css/feature.css">
-<link rel="stylesheet" type="text/css" href="/css/archive.css">
-
-<table width="760" border="0" cellspacing="0" cellpadding="0">
+<a name="handbag_top"></a><link rel="stylesheet" type="text/css" href="/css/feature.css"><link rel="stylesheet" type="text/css" href="/css/archive.css"><table width="760" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td align="left"><span class="headsmall"><a href="/newsletter/" class="headsmall">Newsletter</a> 
 | <a href="/registration/" class="headsmall">Member centre</a> 
 | <a href="/email/" class="headsmall">Email</a> 
 | <a href="/freewebaccess/" class="headsmall">Web access</a></span>
 </td>
-		<td><img src="/graphics/blank.gif" width="20" height="20"></td>
-		<td align="right"><span class="headsmall"><b>5 December 2003</b></span>
+		<td><img alt="" src="/graphics/blank.gif" width="20" height="20"></td>
+		<td align="right"><span class="headsmall"><b>4 December 2004</b></span>
 </td>
 	</tr>
-</tbody></table>
-
-<table width="760" border="0" cellspacing="0" cellpadding="0">
+</tbody></table><table width="760" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td><a href="/"><img alt="handbag home" src="/graphics/headerbars/handbaglogo.gif" border="0" onmouseover="this.src='/graphics/headerbars/handbaglogo1.gif'" onmouseout="this.src='/graphics/headerbars/handbaglogo.gif'"></a></td>
 		<td align="right" width="468" height="60">
-		<table cellspacing="0" cellpadding="0" border="0" width="468" height="60"><tbody><tr><td valign="top" border="0" width="468" height="60">
+			<table cellspacing="0" cellpadding="0" border="0" width="468" height="60"><tbody><tr><td valign="top" border="0" width="468" height="60">
 <script language="JavaScript">
-document.write('<scr' + 'ipt language=JavaScript src="http://ad.uk.doubleclick.net/adj/handbag.com/nd/aboutus/;sz=468x60;zone=aboutus;dcopt=ist;ord=' + dart_randnum + '?"><\/scr' + 'ipt>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/handbag.com/nd/aboutus/;sz=468x60;zone=aboutus;dcopt=ist;ord=5028271270955604?"></script>
+document.write('<scr' + 'ipt language=JavaScript src="http://ad.uk.doubleclick.net/adj/handbag.com/nd/aboutus/;sz=468x60;tile=7;zone=aboutus;dcopt=ist;ord=' + dart_randnum + '?"><\/scr' + 'ipt>');
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/handbag.com/nd/aboutus/;sz=468x60;tile=7;zone=aboutus;dcopt=ist;ord=7484598736789891?"></script>
 <noscript>
-<a href="http://ad.uk.doubleclick.net/jump/handbag.com/nd/aboutus/;sz=468x60;zone=aboutus;dcopt=ist;ord=12574?" target="_new"><img src="http://ad.uk.doubleclick.net/ad/handbag.com/nd/aboutus/;sz=468x60;zone=aboutus;dcopt=ist;ord=12574?" border="0" width="468" height="60"></a>
+<a href="http://ad.uk.doubleclick.net/jump/handbag.com/nd/aboutus/;sz=468x60;tile=7;zone=aboutus;dcopt=ist;ord=443816?" target="_new">
+<img src="http://ad.uk.doubleclick.net/ad/handbag.com/nd/aboutus/;sz=468x60;tile=7;zone=aboutus;dcopt=ist;ord=443816?" border="0" width="468" height="60"></a>
 </noscript>
 </td></tr></tbody></table>
 		</td>
 	</tr>
-</tbody></table>
-
-<!-- header bar nav -->
-<table width="760" cellspacing="0" border="0" cellpadding="0">
-	<tbody><tr><td><img src="/graphics/blank.gif" width="1" height="10"></td></tr>
+</tbody></table><!-- header bar nav --><table width="760" cellspacing="0" border="0" cellpadding="0">
+	<tbody><tr><td><img alt="" src="/graphics/blank.gif" width="1" height="10"></td></tr>
 	<tr><td>
-		<!-- nav tabs go here -->
-		<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+			<!-- nav tabs go here -->
+			<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
 <td><a href="/"><img alt="Home" border="0" src="/graphics/channels/nav/misc_out.gif" onmouseover="this.src='/graphics/channels/nav/misc_over.gif'" onmouseout="this.src='/graphics/channels/nav/misc_out.gif'" width="54" height="24"></a></td>
 <td><img src="/graphics/blank.gif" width="4" height="24"></td>
@@ -125,16 +133,16 @@ document.write('<scr' + 'ipt language=JavaScript src="http://ad.uk.doubleclick.n
 <td><img src="/graphics/blank.gif" width="4" height="24"></td>
 <td><a href="/gossip/"><img alt="Celebrity Gossip channel" src="/graphics/channels/nav/gossip_out.gif" border="0" onmouseover="this.src='/graphics/channels/nav/gossip_over.gif'" onmouseout="this.src='/graphics/channels/nav/gossip_out.gif'" width="112" height="24"></a></td>
 <td><img src="/graphics/blank.gif" width="4" height="24"></td>
-<td><a href="/home/"><img alt="Home &amp; Property channel" border="0" src="/graphics/channels/nav/home_out.gif" onmouseover="this.src='/graphics/channels/nav/home_over.gif'" onmouseout="this.src='/graphics/channels/nav/home_out.gif'" width="118" height="24"></a></td>
+<td><a href="/family/"><img alt="Pregnancy &amp; Family channel" border="0" src="/graphics/channels/nav/family_out.gif" onmouseover="this.src='/graphics/channels/nav/family_over.gif'" onmouseout="this.src='/graphics/channels/nav/family_out.gif'" width="118" height="24"></a></td>
 <td><img src="/graphics/blank.gif" width="4" height="24"></td>
 <td><a href="/morechannels/"><img alt="More channels" border="0" src="/graphics/channels/nav/more_out.gif" onmouseover="this.src='/graphics/channels/nav/more_over.gif'" onmouseout="this.src='/graphics/channels/nav/more_out.gif'" width="118" height="24"></a></td>
 </tr>
 </tbody></table>
 
-	</td></tr>
+		</td></tr>
 	<tr><td>
-		<!-- search bar goes here -->
-		<table class="searchbar" cellspacing="0" border="0" cellpadding="0" width="100%">
+			<!-- search bar goes here -->
+			<table class="searchbar" cellspacing="0" border="0" cellpadding="0" width="100%">
 <tbody><tr><td valign="top" width="17" height="36">
 <img src="/graphics/channels/nav/mainbar_left.gif" width="17" height="36"></td>
 <td class="searchbar" width="100%">
@@ -179,7 +187,6 @@ function onSearchFormSubmit() {
 <option value="329204CC-11FA-4F8C-A705-D10BD4185367">Celebrity gossip</option>
 <option value="49F523AB-7F28-4626-A4D1-E073BD676CBC">Money</option>
 <option value="B0EF0FB6-5680-4B08-AE4F-7B357F4080AE">Home &amp; property</option>
-<option value="7E3A52BF-7E7A-4C80-98DE-A4C7BF9F48A5">Motoring</option>
 <option value="0DA788B9-7703-492B-9F55-29263B661688">Careers</option>
 <option value="C32E78F8-58A9-409C-A4BE-8C04A51DE2E1">Entertainment</option>
 <option value="www">World Wide Web</option>
@@ -191,12 +198,12 @@ function onSearchFormSubmit() {
 
 </tbody></table>
 </td>
-<td valign="top" align="right" width="150" height="36">
-<img src="/graphics/channels/nav/mainbar_right.gif" width="150" height="36"></td>
+<td valign="top" align="right" width="17" height="36">
+<img src="/graphics/channels/nav/mainbar_right.gif" width="17" height="36"></td>
 </tr>
 </tbody></table>
 
-	</td></tr>
+		</td></tr>
 	<tr><td><div class="crumbtrail"><span class="crumbtrail">You are here
 <img alt="arrow" src="/graphics/channels/nav/darkblue_crumbarrow.gif">
 <a href="/">handbag.com</a>
@@ -206,22 +213,19 @@ function onSearchFormSubmit() {
 <span class="crumbtrailbold">Your privacy</span>
 </span></div>
 </td></tr>
-	<tr><td><img src="/graphics/channels/nav/greyline.gif" height="1" width="100%"></td></tr>
-	<tr><td><img src="/graphics/blank.gif" height="10" width="1"></td></tr>
-</tbody></table>
-
-<table width="598" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img alt="grey divider" src="/graphics/channels/nav/greyline.gif" height="1" width="100%"></td></tr>
+	<tr><td><img alt="" src="/graphics/blank.gif" height="10" width="1"></td></tr>
+</tbody></table><table width="598" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="580" valign="top">
-
 			<table cellspacing="0" border="0" cellpadding="0" width="580">
 				<tbody><tr><td valign="top" align="left">
-					<img src="/graphics/headerbars/abo_home_h.gif" alt="About us Channel" border="0" vspace="0" hspace="0">
-				</td></tr>
-				<tr><td colspan="2"><img src="/graphics/blank.gif" width="1" height="10"></td></tr>
+						<img src="/graphics/headerbars/abo_home_h.gif" alt="About us Channel" border="0" vspace="0" hspace="0">
+					</td></tr>
+				<tr><td colspan="2"><img alt="" src="/graphics/blank.gif" width="1" height="10"></td></tr>
 				<tr><td colspan="2" valign="top">
-					<!-- draw the article -->
-					<div class="wholefeature"><div class="featurehead">Your privacy
+						<!-- draw the article -->
+						<div class="wholefeature"><div class="featurehead">Your privacy
 </div><div class="featurebody"><p style="clear:right" pullinsert="multinav"></p><div style="float:right; padding-left:15px; padding-bottom:15px"><table class="multinav" cellspacing="0" border="0" cellpadding="0">
 <tbody><tr><td class="head">More <b>About us</b></td></tr>
 <tr><td class="link"><span class="numbers">1</span><a class="directory" href="/aboutus/">General information</a></td></tr>
@@ -285,12 +289,12 @@ If you have any questions about our privacy policy or the practices of Handbag, 
 marketing@handbag.com
 </p></div></div>
 
-				</td></tr>
-				<tr><td colspan="2"><img src="/graphics/blank.gif" width="1" height="10"></td></tr>
+					</td></tr>
+				<tr><td colspan="2"><img alt="" src="/graphics/blank.gif" width="1" height="10"></td></tr>
 				<tr><td valign="top" align="left">
-					<!-- draw the print/sendTo links -->
-					<div class="featureindent">
-						<div class="printsendto"><table cellspacing="0" border="0" cellpadding="0">
+						<!-- draw the print/sendTo links -->
+						<div class="featureindent">
+							<div class="printsendto"><table cellspacing="0" border="0" cellpadding="0">
 <tbody><tr><td><img src="/graphics/channels/printicon.gif" border="0"></td><td>
 <a href="/print/?pageid={270FD9D0-DB72-454F-9996-9DE988D1685C}&amp;" target="_blank">Print</a>
 <script language="javascript">
@@ -315,21 +319,17 @@ function getFlipBookState(oSrc) {
 <a href="javascript:var a=ShowEmailPopup('/includes/EmailURL/EmailURL.asp?url=%2Faboutus%2Fyourprivacy%2F%3F','{D38D4EAB-F786-468D-8139-32EA0BF7A9ED}');">Email to a friend</a>
 </td></tr></tbody></table>
 </div>
-					</div>
-				</td></tr>
+						</div>
+					</td></tr>
 			</tbody></table>
-
 		</td>
-		<td width="18"><img src="/graphics/blank.gif" width="18"></td>
+		<td width="18"><img alt="" src="/graphics/blank.gif" width="18"></td>
 		<td width="162" valign="top">
 			<!-- draw Commercial Region -->
-			<iframe src="/commercial/?adtagoverride=nd/aboutus&amp;CommercialAdType=0" style="width:162; height:820px;" frameborder="0" border="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+			<iframe src="/commercial/?adtagoverride=nd/aboutus&amp;CommercialAdType=0" style="width:162px; height:850px;" frameborder="0" border="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 		</td>
 	</tr>
-</tbody></table>
-
-<!-- draw the footer links -->
-<table width="760" border="0" cellspacing="0" cellpadding="0">
+</tbody></table><!-- draw the footer links --><table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr><td colspan="2"><img src="/graphics/channels/nav/greyline.gif" width="760" height="1"></td></tr>
 <tr><td colspan="2"><img src="/graphics/blank.gif" width="1" height="3"></td></tr>
 <tr><td align="left">
@@ -337,7 +337,8 @@ function getFlipBookState(oSrc) {
 <a class="headsmall" href="/aboutus/">about us</a> |
 <a class="headsmall" href="/aboutus/copyright/">terms and conditions of use</a> |
 <a class="headsmall" href="/aboutus/contactus/">contact us</a> |
-<a class="headsmall" href="/aboutus/yourprivacy/">your privacy</a>
+<a class="headsmall" href="/aboutus/yourprivacy/">your privacy</a> |
+<a class="headsmall" href="/advertising/">advertising</a>
 </span>
 </td><td align="right">
 <a href="/sitemap/" class="headsmall">site map</a>
