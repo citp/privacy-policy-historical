@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webstudio.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204220206id_/http%3A//www.webstudio.com/site/about.asp%3FPage%255FId%3D140) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstudio.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605190808id_/http%3A//www.webstudio.com/site/about.asp%3FPage%255FId%3D140) for the most accurate reproduction.*
 
 # - About Back To The Beach Software
 
