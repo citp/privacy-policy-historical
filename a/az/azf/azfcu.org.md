@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azfcu.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204538id_/http%3A//www.azfcu.org/about_afcu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfcu.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610020024id_/http%3A//www.azfcu.org/about_afcu/privacy.html) for the most accurate reproduction.*
 
-# Arizona Federal Credit Union
+# Arizona Federal - Privacy Policy
 
 **Arizona Federal Credit Union  
 Privacy Policy and Agreement**
@@ -21,9 +21,7 @@ Use of our web site or linking to a site we sponsor requires the use of "cookies
 
 **2\. The Types of Information We Disclose.**
 
-We do not disclose any non-public personal information about our members or former members except as permitted by applicable law. To benefit our members, we share the information described in Paragraph 1., above within the credit union, and with certain trusted third parties described in this paragraph, who are obligated to maintain the confidentiality and security of your private information. We use the services of various third parties to assist us in offering financial services to our members. For example, we use the services of third parties for processing transactions using credit cards, checks, check cards, ATM cards and other access devices; for assistance in making loans, loan underwriting; processing loan applications; for appraising collateral and for processing our outgoing mail. We also work with companies that provide financial planning, investment services, extended automotive service contracts, personal and property insurance, credit counseling and retail automobile sales to members. 
-
-**We may also share information when permitted by applicable law.**
+We do not disclose any non-public personal information about our members or former members except as permitted by applicable law. To benefit our members, we share the information described in Paragraph 1., above within the credit union, and with certain trusted third parties described in this paragraph, who are obligated to maintain the confidentiality and security of your private information. We use the services of various third parties to assist us in offering financial services to our members. For example, we use the services of third parties for processing transactions using credit cards, checks, check cards, ATM cards and other access devices; for assistance in making loans, loan underwriting; processing loan applications; for appraising collateral and for processing our outgoing mail. We also work with companies that provide financial planning, investment services, extended automotive service contracts, personal and property insurance, credit counseling and retail automobile sales to members. We share information with our affiliate, Western States Financial Group, L.L.C. We may also share information when permitted by applicable law.
 
 **3\. Security.**
 
@@ -36,7 +34,3 @@ Except where expressly required by applicable law, we will provide all notices t
 **5\. Modification.**
 
 The Credit Union reserves the right to modify, change or amend this Privacy Policy and Agreement at any time without notice other than as expressly required by applicable law. 
-
-**6\. US Patriot Act.**
-
-[Click here to read the US Patriot Act](https://web.archive.org/web/20030602204538id_/http%3A//www.azfcu.org/about_afcu/patriotact.html)
