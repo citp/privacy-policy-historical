@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the themarketingmentors.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themarketingmentors.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/privacy.htm) for the most accurate reproduction.*
 
-# Marketing Plans and Tips for Service Professionals
+# Marketing Strategies for Service Professionals
 
-  
-** Privacy Policy**
+   **  
+Privacy Policy**
 
- **Privacy Statement:** We never give out, rent, sell or share any of your information under any circumstances.
+**Privacy Statement:** We never give out, rent, sell or share any of your information under any circumstances.
 
 **Cookies:** Some pages on our web sites use cookies in order to log you into private sections of the sites, know what page you enter my sites on, what pages you exit on, how long you stay here, what browser you used and also to track who referred you to our sites.
 
@@ -49,7 +49,7 @@ We take orders and requests for free offers that are then used to ship products 
 fax. +1 949-551-2814
 
 **Mail:  
-**Incite Development Group  
+**Marketing Mentors  
 102 Santa Maria  
 Irvine, CA 92606
 
@@ -66,10 +66,12 @@ Have a Billing Question? [Click Here ](mailto:info@themarketingmentors.com?subj
 
 Please contact Adam Urbanski ([adam@themarketingmentors.com](mailto:adam@themarketingmentors.com)) with any questions regarding this privacy policy
 
-Top  |  [Home](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/index.html)  |  [Free Mktg Resources](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/freemktgresources.htm)  |  [Marketing Toolbox](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/marketingtoolbox.htm)  |  [Teleclasses](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/teleclasses.htm)  
-[Marketing Mentoring](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/marketingmentoring.htm)  |  [Web Development](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/websitedevelopment.htm)  |  [Public Speaking](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/needaspeaker.htm)  |  [Affiliates](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/affiliates.htm)  
-[Marketing Bookstore ](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/marketingbookstore.htm) |  [Privacy](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/privacy.htm)  |  [About](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/about.htm)  |  [Contact](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/contact.htm)  |  Photography  
-[Copyright](https://web.archive.org/web/20040605151152id_/http%3A//themarketingmentors.com/copyright.htm) © 2000 - 2003, Adam Urbanski, All Rights Reserved
+ 
+
+Top  |  [Home](http://www.themarketingmentors.com/index.html)  |  [Free Mktg Resources](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/links.htm)  |  [Marketing Toolbox](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/mktgtools.htm)  |  [Teleclasses](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/teleclasses.htm)  | [ Workshops](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/seminars.htm)  
+[Marketing Mentoring](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/marketingmentoring.htm)  |  [Web Development](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/websitedevelopment.htm)  |  [Public Speaking](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/needaspeaker.htm)  |  [Affiliates](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/affiliates.htm)  
+[Marketing Bookstore](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/mktgbooks.htm)  |  [Privacy](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/privacy.htm)  |  [About](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/about.htm)  |  [Contact](https://web.archive.org/web/20041208233637id_/http%3A//www.themarketingmentors.com/contact.htm)  |  Photography  
+ 
 
 The Marketing Mentors  
 102 Santa Maria  
