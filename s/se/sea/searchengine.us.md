@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengine.us privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217165201id_/http%3A//www.searchengine.us/ppc/static.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengine.us privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416213606id_/http%3A//www.searchengine.us/ppc/static.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Pay Per Click Search Engine PPC Search Engine Cost Per Click
 
