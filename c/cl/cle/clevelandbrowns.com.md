@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandbrowns.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622035136id_/http%3A//clevelandbrowns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandbrowns.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203021937id_/http%3A//clevelandbrowns.com/privacy) for the most accurate reproduction.*
 
 # Cleveland Browns - Privacy Policy
 
@@ -15,7 +15,7 @@ In this privacy policy, the Cleveland Browns will inform you about the type of i
 
 **Contact our Website**
 
-This website is the responsibility of the Cleveland Browns. You can contact us by e-mail at [fan-feedback@browns.nfl.com](mailto:fan-feedback@browns.nfl.com) or by regular mail to 76 Lou Groza Blvd., Berea, OH 44017
+This website is the responsibility of the Cleveland Browns. You can contact us by e-mail at [fan-feedback@clevelandbrowns.com](mailto:fan-feedback@clevelandbrowns.com) or by regular mail to 76 Lou Groza Blvd., Berea, OH 44017
 
 **What Kind of Personal Information the Cleveland Browns Collect**
 
@@ -51,7 +51,7 @@ A "cookie" is a persistent client side hypertext transfer protocol file. Cookies
 > 
 > Most Web browsers are initially configured to accept and process cookies. You can configure your browser to refuse cookies.
 > 
-> More extensive information concerning cookies is available on the World Wide Web by searching for the word "cookies". If you have any questions concerning our use of cookies, please contact us at [fan-feedback@browns.nfl.com](mailto:fan-feedback@browns.nfl.com).
+> More extensive information concerning cookies is available on the World Wide Web by searching for the word "cookies". If you have any questions concerning our use of cookies, please contact us at [fan-feedback@clevelandbrowns.com](mailto:fan-feedback@clevelandbrowns.com).
 
 **Requesting to See Your Personal Information**
 
@@ -69,7 +69,7 @@ We reserve the right to change this policy at any time. We ask that you review t
 
 **Opting-Out**
 
-You may opt-out of having your personal information collected by contacting us by e-mail at [fan-feedback@browns.nfl.com](mailto:fan-feedback@browns.nfl.com) or by regular mail at 76 Lou Groza Blvd., Berea, OH 44017. Please note that in order to fulfill certain obligations, we may need to continue sending you notices or other important information concerning any orders or services you previously requested.
+You may opt-out of having your personal information collected by contacting us by e-mail at [fan-feedback@clevelandbrowns.com](mailto:fan-feedback@clevelandbrowns.com) or by regular mail at 76 Lou Groza Blvd., Berea, OH 44017. Please note that in order to fulfill certain obligations, we may need to continue sending you notices or other important information concerning any orders or services you previously requested.
 
 **Acceptance of this Privacy Policy**
 
