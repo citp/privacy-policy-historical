@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiia.org privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610195058id_/http%3A//www.theiia.org/ecm/iiaglance.cfm%3Fdoc_id%3D2507) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiia.org privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216005945id_/http%3A//www.theiia.org/ecm/iiaglance.cfm%3Fdoc_id%3D2507) for the most accurate reproduction.*
 
 # The Institute of Internal Auditors (IIA) at a Glance
 
