@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toplanguagejobs.co.uk privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616220636id_/http%3A//www.toplanguagejobs.co.uk/page-6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplanguagejobs.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207035302id_/http%3A//www.toplanguagejobs.co.uk/page-6.html) for the most accurate reproduction.*
 
 # Privacy Statement - Top Language Jobs
 
@@ -18,6 +18,4 @@ Upon registration you are given the choice of whether your details will be made 
 The security of your data is extremely important to us. Access to your personal data is only provided to our staff.  It is at your discretion whether information is made available third parties (ie prospective employers or customers).  To help us with your employment, when you apply for any vacancies on this site you are consenting for your details to be automatically passed on to the prospective agency or employer.
 
  **How do you remove your details from the database?**    
-If you have registered with Language Jobs Ltd and wish to remove your details from our database(s), you can do so online by logging on, or send an email to 
-
-_[**enquiries@toplanguagejobs.co.uk**](mailto:enquiries@toplanguagejobs.co.uk)_ stating your personal details (name and address) and that you want your details to be removed. Please include the email address you used to register on the site with. 
+If you have registered with Language Jobs Ltd and wish to remove your details from our database(s), you can do so online by logging on, or send an email to us via our [enquiry form](http://www.toplanguagejobs.co.uk/contact_us.php) stating your personal details (name and address) and that you want your details to be removed. Please include the email address you used to register on the site with. 
