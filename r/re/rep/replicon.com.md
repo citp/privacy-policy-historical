@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409071726id_/http%3A//replicon.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008082800id_/http%3A//www.replicon.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
 
 # Replicon - About Replicon
 
-Privacy Policy statement
+Privacy Policy Statement
 
 Replicon Inc. is committed to honoring the privacy of our customers and visitors. As a result we adhere to strict privacy protection guidelines ensuring your personal information is kept confidential. We do not share or solicit the information captured in any way. We respect your identity and keep it private. You will not be subject to intrusive marketing. 
 
