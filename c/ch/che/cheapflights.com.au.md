@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000414id_/http%3A//www.cheapflights.com.au/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606131734id_/http%3A//cheapflights.com.au/misc/privacy.html) for the most accurate reproduction.*
 
 # Cheap Flights Australia and New Zealand: Privacy policy
 
@@ -7,7 +7,7 @@
 
 Our website is located at [www.cheapflight.com.au](http://www.cheapflight.com/). 
 
-We invite you to [contact us](https://web.archive.org/web/20031203000414id_/http%3A//www.cheapflights.com.au/misc/feedback.html) if you have questions about this policy.
+We invite you to [contact us](https://web.archive.org/web/20040606131734id_/http%3A//cheapflights.com.au/misc/feedback.html) if you have questions about this policy.
 
 You may contact us by mail at the following address: 
 
