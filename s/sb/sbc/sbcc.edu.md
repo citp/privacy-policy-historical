@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604091332id_/http%3A//sbcc.edu/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203082716id_/http%3A//www.sbcc.edu/index.cfm%3Fsec%3D71) for the most accurate reproduction.*
 
-# Santa Barbara City College - Privacy Statement
+# Santa Barbara City College
+
+Privacy
 
 **PLEASE READ THE FOLLOWING CAREFULLY. THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE.**
 
 1\. The contents of this website are owned and operated by Santa Barbara City College (SBCC), whose address is 721 Cliff Drive, Santa Barbara, CA, 93109. You can contact us by telephone at 805-965-0581 or by email at webmaster@sbcc.net. SBCC is very concerned about the protection of online privacy for all our website visitors and especially children. SBCC's policy is to respect and protect the privacy of our users. This statement tells you if and how we collect personally-identifying information from you and how we use it. Using the Internet should be a fun and safe experience and we want to help you make it so.
 
-#####  WHAT INFORMATION IS COLLECTED 
+##### WHAT INFORMATION IS COLLECTED 
 
 2\. We consider the following to be personally-identifying information: your first and last name, email address, home address, phone number, social security number and if linked with your other personally-identifying information, your date of birth and other personal interests and hobbies. 
 
@@ -14,4 +16,4 @@
 
 ##### SPECIAL NOTICE TO PARENTS AND CHILDREN 
 
-All information submitted on this site must comply with the Children's Online Privacy Protection Act, effective April 21, 2000. Detailed information about this Act can be found at <http://www.ftc.gov/opa/1999/9910/childfinal.htm>
+All information submitted on this site must comply with the Children's Online Privacy Protection Act, effective April 21, 2000. Detailed information about this Act can be found at [http://www.ftc.gov/opa/1999/9910/childfinal.htm](http://www.ftc.gov/opa/1999/9910/childfinal.htm)
