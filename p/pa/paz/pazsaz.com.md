@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2000-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000606121158id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202081700id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pazsaz Entertainment Network
 
-  
-[](http://commonwealth.riddler.com/Commonwealth/bin/statthru?388786) **Pazsaz Entertainment Network Privacy Policy**
+**Pazsaz Entertainment Network Privacy Policy**
 
 * * *
 
@@ -35,4 +34,4 @@ Other companies which place advertising or sell products on our site may collect
 ---|---|---|---|---  
 [**Copyright and Disclaimer**](http://www.pazsaz.com/copyrght.html) | [**FAQ**](http://www.pazsaz.com/faq.html) | [**Privacy Policy**](http://www.pazsaz.com/privacy.html) | [**Credits**](http://www.pazsaz.com/thanks.html) | [**Site Reviews**](http://www.pazsaz.com/review.html) | [**Affiliations**](http://www.pazsaz.com/affliate.html) | [**Feedback**](mailto:webmaster@pazsaz.com)  
 ---|---|---|---|---|---|---  
-**
+[](http://member.bcentral.com/cgi-bin/fc/fastcounter-login?2128869) **
