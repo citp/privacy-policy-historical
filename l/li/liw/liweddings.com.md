@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206193224id_/http%3A//www.liweddings.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604083937id_/http%3A//liweddings.com/privacy.asp) for the most accurate reproduction.*
 
 # LONG ISLAND WEDDINGS ™ - Nassau, Suffolk, Queens, Manhattan, NYC, Brooklyn, Westchester
 
@@ -19,7 +19,7 @@ United States of America
 
 by phone at (631)331-5703 or
 
-by e-mail at [_weddings@liweddings.com_](mailto:weddings@liweddings.com).
+by e-mail [_here_](https://web.archive.org/web/20030604083937id_/http%3A//liweddings.com/contact/index.asp).
 
 1\. Collection of Personal Information from Site Visitors 
 
