@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareinsider.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615030103id_/http%3A//www.teplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareinsider.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204172403id_/http%3A//www.teplanet.com/privacy) for the most accurate reproduction.*
 
 # tePlanet: Privacy Statement
 
