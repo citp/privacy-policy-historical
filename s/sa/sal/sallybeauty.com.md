@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208163418id_/http%3A//www.sallybeauty.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604222312id_/http%3A//www.sallybeauty.com/privacy.asp) for the most accurate reproduction.*
 
 # SallyBeauty.com
 
