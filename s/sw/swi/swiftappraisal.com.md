@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftappraisal.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206061533id_/http%3A//www.swiftappraisal.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftappraisal.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606092507id_/http%3A//swiftappraisal.com/privacypolicy.php) for the most accurate reproduction.*
 
 # SwiftAppraisal.com | Privacy Policy
 
@@ -24,8 +24,7 @@ We use cookies for session tracking.
 Session cookies are stored in memory and are only available during an active session, in other words, while you are on the web site. Session cookies do not permanently record data and are not stored on your computer's hard drive. Session cookies do not give the web site access to anything else on your system, including any private information about you.    
 The use of cookies is an industry standard: you'll find them at most major sites.   
 **  
-**  
-**No Spam.**  
+****No Spam.**  
 SwiftAppraisal.com maintains a strict "no-spam" policy. 
 
 **A Special Note About Children.**  
