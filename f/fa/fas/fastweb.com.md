@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206164200id_/http%3A//www3.fastweb.com/fastweb/content/aboutus/privacy.ptml%3FID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2001-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010112024900id_/http%3A//www.fastweb.com/fastweb/content/aboutus/privacy.ptml%3FID%3D) for the most accurate reproduction.*
 
 # Privacy at FastWeb
 
