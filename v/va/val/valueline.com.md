@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueline.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008102234id_/http%3A//www.valueline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueline.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607023625id_/http%3A//www.valueline.com/privacy.html) for the most accurate reproduction.*
 
 # Value Line
 
