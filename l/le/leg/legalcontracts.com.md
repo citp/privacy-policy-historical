@@ -1,33 +1,32 @@
-> *The following text is extracted and transformed from the legalcontracts.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601095022id_/http%3A//www.legalcontracts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalcontracts.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165511id_/http%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# LawDepot Privacy Policy
 
-**Our Privacy Policy **
+### Our Commitment to your Privacy
 
-**Our Commitment to Privac** **y**
+LawDepot™ is committed to protecting your privacy and ensuring that your visit to our website is completely secure.
 
-LegalContracts™ believes in your right to privacy. As a result, LegalContracts™ has very strict privacy policies and we endeavor to keep secure any information you provide us (such as your personal and financial information).  
+If you have any questions or problems with any aspect of our privacy policy, please [contact us](https://web.archive.org/contact.php).
 
+### Collection of your Personal Information
 
-This Privacy Policy covers LegalContracts™ treatment of your personally identifiable information that it collects when you are on its site, and when you use its services. We will hold all information you provide to us in complete privacy.   
+LawDepot only saves such personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, physical address, email address, phone number, birth date, financial information, and vehicle information.
 
+### How we use your Personal Information
 
-We will not sell or rent your name or personal information to any third party. We DO NOT sell, rent or provide outside access to our mailing list.   
+Your personal information will be used in order to provide you with better service. This includes the use of information for completing transactions or communicating back to you. Credit card numbers are used only for payment processing and are not used for any other purpose.
 
+### Who we share your Personal Information with
 
-Only authorized employees of LegalContracts™ may access any of your information. We strictly enforce our privacy policies with our employees and breaches of this policy will result in termination and the pressing of criminal charges where there are grounds.
+We will NOT sell or rent your name or personal information to anyone else. We DO NOT sell, rent or provide outside access to our mailing list at all.
 
-LegalContracts™ only collects such personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, physical address, zip code, email address, phone number, social security number, birth date, credit card information, financial information, loan information, vehicle information, marital information, and other personal information necessary to generate proper legal documents. 
+If required by law, search warrant, subpoena or court order, LawDepot may be required to release such personal information.
 
-If LegalContracts™ is required by law, search warrant, subpoena or court order, LegalContracts™ may be required to release such personal information. 
+### Security of your Personal Information
 
-We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our site's users in general (such as we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed). 
+LawDepot maintains the security of your information at all times. We use the Secure Socket Layer (SSL) protocol with 128-bit encryption strength to transmit sensitive information. This is the same technology used in transmitting sensitive information by banks, governments, and online businesses such as Amazon.com and eBay.
 
-LegalContracts™ currently retains personally identifiable information for a period of seven years. The reason for this lies in the fact that often users will request their legal documents for revision and update purposes. If at anytime you wish to delete all of your personally identifiable information from our site, you may contact us at [contact@legalcontracts.com](mailto:contact@legalcontracts.com?subject=Deletion%20of%20Personal%20Information) or you may reach us at 1-866-608-1020 (toll-free). 
+Once the information is in our system, it is accessible to authorized LawDepot personnel only. We strictly enforce our privacy policies with our employees and any breach of this policy will result in termination and the pressing of criminal charges where there are grounds.
 
-**Data Encryption and Security**
-
-We attempt to ensure our servers and connections incorporate the latest encryption and security devices. We have also implemented various procedures that will help prevent unauthorized access. 
-
-IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE USE OF OUR SITE, YOU MAY CONTACT US IMMEDIATELY AT 1-866-608-1020 (toll-free) or [contact@legalcontracts.com](mailto:contact@legalcontracts.com?subject=Privacy%20concern).   
+  
 
