@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michigan.gov privacy policy that was archived on 2004-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041022052154id_/http%3A//www.michigan.gov/emi/0%2C1303%2C7-102----PP%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michigan.gov privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308114633id_/http%3A//michigan.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
-# State of Michigan
+# Michigan Privacy Policy
 
 **Scope**
 
