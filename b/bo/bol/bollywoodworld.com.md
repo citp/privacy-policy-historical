@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodworld.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815051323id_/http%3A//bollywoodworld.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodworld.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207215816id_/http%3A//www.bollywoodworld.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # Bollywood World - Privacy
 
