@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618070901id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009141910id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.asp) for the most accurate reproduction.*
 
 # ITtoolbox Privacy Policy
 
@@ -6,7 +6,7 @@
 We at ITtoolbox know you take your privacy seriously. Information about our users is an important part of our business and it is necessary that we collect certain information if users wish to utilize advanced ITtoolbox features. We are not in the business of selling user information to others. We share information only as described below.  
   
 **What this Privacy Policy Covers**  
-This privacy policy covers our treatment of personally identifiable information that ITtoolbox collects when you are on any ITtoolbox site (e.g. , Groups., Staffing.), and when you use ITtoolbox services. This policy also covers ITtoolbox's treatment of any personally identifiable information that ITtoolbox business partners share with ITtoolbox as well as what happens to personal information in the unlikely event that ITtoolbox sells or transfers its business assets. This policy does not apply to the practices of companies that ITtoolbox does not own or control, or to people that ITtoolbox does not employ or manage.  
+This privacy policy covers our treatment of personally identifiable information that ITtoolbox collects when you are on any ITtoolbox site (e.g. ittoolbox.com, Groups.ittoolbox.com, Staffing.ittoolbox.com), and when you use ITtoolbox services. This policy also covers ITtoolbox's treatment of any personally identifiable information that ITtoolbox business partners share with ITtoolbox as well as what happens to personal information in the unlikely event that ITtoolbox sells or transfers its business assets. This policy does not apply to the practices of companies that ITtoolbox does not own or control, or to people that ITtoolbox does not employ or manage.  
   
 **Information Collection and Use**  
 ITtoolbox is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this privacy statement.  
