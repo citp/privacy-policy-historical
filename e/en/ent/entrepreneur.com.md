@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the entrepreneur.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413073849id_/http%3A//entrepreneur.com/Home/HM_Static/1%2C1845%2CPrivacyPolicy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrepreneur.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218015151id_/http%3A//www.entrepreneur.com/Home/HM_Static/1%2C4472%2CPrivacyPolicy%2C00.html) for the most accurate reproduction.*
 
-# Entrepreneur.com - PrivacyPolicy
+# Entrepreneur.com: PrivacyPolicy
 
-**Entrepreneur.com Online Privacy Statement**  
+|      **About Us**  
+---  
+   
+• [**Who We Are**](https://web.archive.org/Home/HM_Static/1,4472,about_whoweare,00.html)  
+• [**Contact Us**](https://web.archive.org/Home/HM_Static/1,4472,ContactUs,00.html)  
+• [**Our Community**](https://web.archive.org/Home/HM_Static/1,4472,about_community,00.html)  
+• [**Press Info**](https://web.archive.org/Home/HM_Static/1,4472,PressInfo,00.html)  
+• [**Awards**](https://web.archive.org/Home/HM_Static/1,4472,about_awards,00.html)  
+  |  **Entrepreneur.com Online Privacy Statement**  
 (The policies stated within this document are applicable to Entrepreneur.com and other sites owned and operated by Entrepreneur.com Inc. on the World Wide Web.)
 
 **Your Privacy Is Serious Business To Us!**  
@@ -11,23 +19,18 @@ The privacy of our visitors and members is very important to us. Since we do gat
 **The Entrepreneur.com Privacy Pledge**  
 
 
-> 1\. Any information collected about you will NEVER be shared with any third party without your permission. 
+> 1\. The information we collect about your business will be used for purposes of site research and development in an effort to better serve your needs.
 > 
-> 2\. The information we collect about your business will be used for purposes of site research and development in an effort to better serve your needs.
-> 
-> 3\. We will never contact you without your permission, and we will immediately terminate any communications with you upon request.
+> 2\. We will never contact you without your permission, and we will immediately terminate any communications with you upon request.
+
+**Electronic Newsletters**  
+You can choose to subscribe to one of our FREE electronic newsletters. These newsletters are distributed through our partner, Netcreations. To subscribe, simply check the box for each newsletter you wish to receive, provide your e-mail address and submit. You will be sent a confirmation e-mail, to which you must reply in order to activate your subscription. As a subscriber to our newsletter, you will also receive, from time-to-time, special communications from Entrepreneur and its partners. You can remove yourself from our newsletter e-mail lists by simply following the "Unsubscribe" directions included in each newsletter you receive.
 
 **Voluntary Member Registration**  
-The registration process at Entrepreneur.com is completely voluntary. If you register as a member, we ask that you create a username and password, provide your e-mail address and answer a few basic questions about your business. We use this information to help us better understand your needs, and to more effectively create information, products and services that are of interest to you. This information is also used to help our advertisers better understand the demographics of our audience. Since our primary source of revenue is from advertising, the information collected through the registration process is absolutely necessary in order to keep Entrepreneur.com FREE to all users. Please be assured, Entrepreneur.com WILL NEVER SHARE INFORMATION ABOUT YOU WITH ANY THIRD PARTY WITHOUT YOUR PERMISSION (see "Special Offers"). 
+The registration process at Entrepreneur.com is completely voluntary. If you register as a member, we ask that you create a username and password, provide your e-mail address and answer a few basic questions about your business. We use this information to help us better understand your needs, and to more effectively create information, products and services that are of interest to you. This information is also used to help our advertisers better understand the demographics of our audience. Since our primary source of revenue is from advertising, the information collected through the registration process is absolutely necessary in order to keep Entrepreneur.com FREE to all users. 
 
 **SmallBizBooks.com Registration**  
 You will be required to register in order to make purchases at our online store, SmallBizBooks.com. To register, you are required to supply your name and shipping address, phone number, a username and password. Optional information includes the name of your company and a fax number. The information gathered from this process is stored in the SmallBizBooks.com database and is also saved to a cookie. This allows SmallBizBooks.com members to enter the site without having to login each time. When you make a purchase at SmallBizBooks.com, your credit card information is secured using 128-bit SSL encryption technology.
-
-**SmallBizMail.com Registration**  
-In order to obtain a FREE e-mail account at SmallBizMail.com, visitors are required to sign up for the account. During the registration process, users are required to provide their name, a username and a password. Upon establishing a SmallBizMail account, the username and password will be stored in a cookie on your hard drive. This will allow you to access your account without entering your username and password each time you want to check your mail.
-
-**Electronic Newsletters**  
-Once you register as a member of Entrepreneur.com, you will receive our FREE electronic newsletters. These newsletters are sent out to the e-mail address you supplied during the registration process. You can remove yourself from our newsletter e-mail lists by simply following the "Unsubscribe" directions included in each newsletter you receive.
 
 **Special Offers**  
 We have partnered with PostMaster Direct, one of the world's largest suppliers of opt-in e-mail lists, to provide our members with information and valuable offers by e-mail. Subscription to these lists is completely voluntary, and you may unsubscribe at any time. To subscribe, simply check the box in the [Special Offers](https://www.entrepreneur.com/Home/HM_Registration#special_offers) section of the member registration form, and when prompted, choose your categories of interest. You will be sent a confirmation e-mail, to which you must reply in order to activate your subscription. Offers you receive through this subscription will be identified in the message header as part your participation in the Entrepreneur.com list. To unsubscribe, simply follow the directions provided in the header of the e-mail. We want you to receive only those offers of interest to you.
@@ -41,15 +44,17 @@ In order to better understand traffic patterns on any site owned and operated by
 **Cookies**  
 All sites owned and operated by Entrepreneur.com use cookies. A cookie is a small data file written to your hard drive. We place a cookie on your hard drive in order to recognize you as a member when you enter our site, which avoids your having to login as a member each time you visit us. Cookies also allow us to understand user behavior so that we can more effectively develop information and programs to serve you better. Our third party ad serving company, Adforce, delivers a one-time cookie to your hard drive in order to better track ad impressions and click-through rates. Advertisers require information regarding ad impressions and click-through rates, and by providing them with this information, we are able to keep our sites FREE to our visitors. 
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+This site uses the services of DoubleClick for the serving and/or targeting of ads, promotions and other marketing messages. To do this, DoubleClick collects anonymous data through the use of cookies. To learn more about DoubleClick, including your ability to opt out of the DoubleClick system, go to [http://www.doubleclick.net/us/corporate/privacy/default.asp?asp_object_1=&](http://www.doubleclick.net/us/corporate/privacy/default.asp?asp_object_1=&). 
 
 If you are concerned about the use of cookies, you have the option to set your browser to warn you before accepting cookies, or to turn off cookies entirely. The options to warn or disable cookies can be found in the "Options" or "Preferences" feature of your browser. YOU DO NOT NEED TO ENABLE COOKIES IN ORDER TO USE ANY SITE OWNED AND OPERATED BY ENTREPRENEUR.COM INC. 
 
 **Correcting Information**  
-You can correct or update any information you have provided to Entrepreneur.com by following the instructions in any electronic newsletter or offering we send. Or you may correct your information by sending an email to [bizbrief@smallbizmail.com](mailto:bizbrief@smallbizmail.com).
+You can correct or update any information you have provided to Entrepreneur.com by following the instructions in any electronic newsletter or offering we send. Or you may correct your information by sending an email to [memberservices@entrepreneur.com](mailto:memberservices@entrepreneur.com).
 
 **Deactivating**  
 Any user receiving our electronic newsletter or who receives regular offers from our partners may opt out of our email list at any time by simply following the instructions to "Unsubscribe" within each newsletter or offering. 
 
 **Reporting Unsolicited E-mail**  
 Despite our concerted efforts to prevent unsolicited (spam) e-mail relayed through Entrepreneur.com servers, unsolicited e-mail may sometimes get through. Entrepreneur.com NEVER sends unsolicited or spam e-mail. We view spam as a serious violation of privacy and a misuse of the Internet in general. If you receive an unsolicited e-mail with a domain of Entrepreneur.com, please send it immediately to [abuse@entrepreneur.com](mailto:abuse@entrepreneur.com). Upon receipt of the email, we will do our utmost to track down the offender and take any actions necessary to stop spam messages. 
+
+|   | 
