@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2004-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040427002441id_/http%3A//spin.com/index.php%3Fmodule%3Dhtmlpages%26func%3Ddisplay%26pid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209183344id_/http%3A//www.spin.com/index.php%3Fmodule%3Dhtmlpages%26func%3Ddisplay%26pid%3D4) for the most accurate reproduction.*
 
 # SPIN MAGAZINE ONLINE :: ALL THE MUSIC THAT ROCKS
 
