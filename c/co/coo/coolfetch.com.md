@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolfetch.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203005815id_/http%3A//www.coolfetch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolfetch.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605100228id_/http%3A//www.coolfetch.com/privacy.html) for the most accurate reproduction.*
 
 # CoolFetch.com
 
