@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008203633id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604135320id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # LawCrossing - Privacy
 
