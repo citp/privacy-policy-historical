@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209032800id_/http%3A//www.arkansas.gov/access.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622074057id_/http%3A//www.arkansas.gov/access.html%23Privacy) for the most accurate reproduction.*
 
 # accessArkansas.org | Site Map, Accessibility, Security and Privacy Information
 
@@ -41,7 +41,7 @@ Act 1227 of 1999 required the Arkansas Department of Information Systems to deve
 
 In essence, this means that Arkansas Government or state funded entities must have websites that are equally accessible to blind or visually impaired visitors.  For instance, websites must provided text equivalents for all non-text elements such as images, animation, audio and video.  We will make every effort to comply with these new guidelines on the State of Arkansas website. If you have trouble accessing or navigating state government pages, please contact [info@ark.org](mailto:info@ark.org).
 
-For more information about accessibility policies and non-visual standards, link to [Shared Information Architecture](http://www.techarch.state.ar.us/domains/accessibility/accessmain.htm).  For information regarding web site development specific to the State of Arkansas, link to the [ Technology Investigation Center' Standards for Equivalent Access](http://www.tic.state.ar.us/SpecTopics/SEA/SEA_Home.htm).  For detailed information about web site development and accessibility issues, link to [ W3C Web Content Guidelines](http://www.w3c.org/) or the [ Center for Applied Special Technology](http://www.cast.org/) (CAST).    
+For more information about IT policies and standards in Arkansas, link to the State of Arkansas [Accessiblity Standards](http://www.techarch.state.ar.us/indexes/standards.htm). For information regarding web site development specific to the State of Arkansas, link to the [ Technology Investigation Center' Standards for Equivalent Access](http://www.tic.state.ar.us/SpecTopics/SEA/SEA_Home.htm).  For detailed information about web site development and accessibility issues, link to [ W3C Web Content Guidelines](http://www.w3c.org/) or the [ Center for Applied Special Technology](http://www.cast.org/) (CAST).    
   
 Information which can be identified or associated with a particular person or persons that is available from government web sites through the Information Network of Arkansas is subject to these principles and policies:  
   
