@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harpercollins.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603164551id_/http%3A//www.harpercollins.com/hc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpercollins.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002025807id_/http%3A//www.harpercollins.com/hc/privacy) for the most accurate reproduction.*
 
 # HarperCollins.com: Privacy
 
@@ -7,7 +7,7 @@
 > HarperCollins Publishers Inc. ("HarperCollins") is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. HarperCollins has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. both online and off-line. 
 
 **Children's Privacy Policy**  
-Some of our online activities are directed to children under 13. When those activities involve the collection of PII, we provide additional privacy protections. To read about our protections that relate to the online collection of PII from children under 13 [click here](https://web.archive.org/web/20030603164551id_/http://www.harpercollins.com/hc/privacy/coppa.asp).
+Some of our online activities are directed to children under 13. When those activities involve the collection of PII, we provide additional privacy protections. To read about our protections that relate to the online collection of PII from children under 13 [click here](https://web.archive.org/web/20031002025807id_/http://www.harpercollins.com/hc/privacy/coppa.asp).
 
 From time to time HarperCollins may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our web sites, or technology. Therefore, you should review it periodically so that you are up to date on our most current policies and practices.
 
@@ -16,7 +16,7 @@ General. HarperCollins collects personally identifiable information ("PII" -- th
 
 Cookies. Cookies are small bits of information that the operators of Internet sites place on the hard drive of your computer. Cookies remember information about your activities on the site and enable the operator of the site to make your visits to our Web sites more enjoyable.
 
-At this time, HarperCollins does not employ any cookies on its sites. In the future, we plan to use cookies in a variety of ways, including storing your password for easy logon and relating your use of our site to your PII, so that, if you ask us to send you information about our upcoming products or promotions, cookie and/or other information about your online activities may allow us to limit the material we send you to the types of items you had viewed on our site in the past. However, if we wish to coordinate your personal and web site activity information in this manner, we will obtain your express prior consent (i.e., "opt in"). Also, our cookies will not contain PII. 
+At this time, HarperCollins only employs cookies to identify each user as a unique visitor, so that we can determine if you are a new or returning user. These cookies are not associated with any PII. In the future, we may use cookies in a variety of ways, including storing your password for easy logon and relating your use of our site to your PII, so that, if you ask us to send you information about our upcoming products or promotions, cookie and/or other information about your online activities may allow us to limit the material we send you to the types of items you had viewed on our site in the past. However, if we wish to coordinate your personal and web site activity information in this manner, we will obtain your express prior consent (i.e., "opt in"). Also, our cookies will not contain PII. 
 
 You can always program your computer to warn you each time a cookie is being sent or to refuse cookies completely.
 
