@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the news.com.au privacy policy that was archived on 2002-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021202071943id_/http%3A//www.news.com.au/common/privacy/0%2C4841%2C%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news.com.au privacy policy that was archived on 2003-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030601152658id_/http%3A//www.news.com.au/common/privacy/0%2C4841%2C%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>News Interactive Privacy</title>
@@ -28,7 +28,19 @@ function mouseOut(m) {
     document[menuItem].src = normalImg.src;
   }
 }
+
+// new rollovers
+function arrowOver(theId) {
+document.all[theId].style.visibility='visible';
+}
+
+function arrowOut(theId) {
+document.all[theId].style.visibility='hidden';
+}
+
 //end roll overs
+
+
  
 function goThere(menu) {
    var url2go = menu.options[menu.selectedIndex].value;
@@ -50,6 +62,10 @@ function fnGo() {
 
 function windowOpener(theURL,winName,features) {
   window.open(theURL,winName,features);
+}
+
+function openWin(theURL,features) {
+  window.open(theURL,features);
 }
 
 function validBrowser() {
@@ -161,95 +177,44 @@ document.cookie = name + "=" + escape (value) +
 // end cookies
 //-->
 </script>
+
 <script language="Javascript">
 <!--
-// Ninnbar flash odds
-var randomN=Math.floor(Math.random()*2);
+// odds for Ninnbar flash
+var randomN=Math.floor(Math.random()*4); 
 
-// Flash Detect /3.2
-tVer = 4;			
-f2Ins = false;		
-f3Ins = false;		
-f4Ins = false;		
-f5Ins = false;
-f6Ins = false;		
-mVer = 6;					
-dVer = 0;				
-hasFlash = false;		
-jsVersion = 1.0;
-brName = navigator.appName;
-brVer = navigator.appVersion;
-brAgnt = navigator.userAgent;
-// -->
-</script>
-<script language="JavaScript1.1">
-<!--
-var isIE = ((brVer.indexOf("MSIE") != -1)&&(brAgnt.indexOf('Opera',0)<1)) ? true : false;
-var isWin = (brVer.indexOf("Windows") != -1) ? true : false;
-var isMac = (brVer.indexOf("Mac") != -1) ? true : false;
-var isOpera = (brAgnt.indexOf("Opera") !=-1) ? true : false;
-jsVersion = 1.1;
+// Flash Detect IE4+ Win32 only
 
-// dodge IE appVersion bug 
-function ieVer()    {
-  if ((isIE) && ((brAgnt.indexOf("5.") != -1)||(brAgnt.indexOf("6.") != -1))) { 
-    var ieVersion = "";
-    var str = brAgnt;
-    var pos = str.indexOf("IE ");
-    for (pos=pos+3; pos<str.length; pos++)
-      if (str.charAt(pos) == "." || 
-         (str.charAt(pos) <= "9" && str.charAt(pos) >= "0"))
-        ieVersion += str.charAt(pos);
-      else
-        break;
-    return ieVersion;
-    }
-  var verArray = brVer.split(" ");
-  return verArray[0];
+var flashVersion = 0;
+function getFlashVersion() {
+var agent = navigator.userAgent.toLowerCase();
+if (agent.indexOf("msie") != -1 && agent.indexOf("opera")==-1 && parseInt(navigator.appVersion) >= 4 && agent.indexOf("win")!=-1 && agent.indexOf("16bit")==-1) {
+document.write('<scr' + 'ipt language="VBScript"> \n');
+document.write('on error resume next \n');
+document.write('dim obFlash \n');
+document.write('set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.7") \n');
+document.write('if IsObject(obFlash) then \n');
+document.write('flashVersion = 7 \n');
+document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.6") end if \n');
+document.write('if flashVersion < 7 and IsObject(obFlash) then \n');
+document.write('flashVersion = 6 \n');
+document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.5") end if \n');
+document.write('if flashVersion < 6 and IsObject(obFlash) then \n');
+document.write('flashVersion = 5 \n');
+document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.4") end if \n');
+document.write('if flashVersion < 5 and IsObject(obFlash) then \n');
+document.write('flashVersion = 4 \n');
+document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.3") end if \n');
+document.write('if flashVersion < 4 and IsObject(obFlash) then \n');
+document.write('flashVersion = 3 \n');
+document.write('end if');
+document.write('</scr' + 'ipt> \n');
 }
-
-if(isIE && isWin){
-	document.write('<SCR' + 'IPT LANGUAGE=VBScript> \n');
-	document.write('on error resume next \n');
-	document.write('f2Ins = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
-	document.write('f3Ins = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
-	document.write('f4Ins = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-	document.write('f5Ins = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
-	document.write('f6Ins = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');
-	//document.write('if IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6")) then f6Ins = true \n');	
-	document.write('</SCR' + 'IPT> \n'); 
-}
-// -->
-</script>
-<script language="JavaScript">
-<!--
-function detectFlash()	{
-if (ieVer() >=6 ) {hasFlash=true;}
-if (!(isMac && ((brName == "Microsoft Internet Explorer") && (ieVer() < 5 ))))	{
-	if (navigator.plugins)	{						
-		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"])	{		
-			isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-			flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-			fVer = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
-			f2Ins = fVer == 2;		
-			f3Ins = fVer == 3;
-			f4Ins = fVer == 4;
-			f5Ins = fVer == 5;
-			f6Ins = fVer == 6;
-			}
-		}
-	for (i = 2; i <= mVer; i++) {
-		if (eval("f" + i + "Ins") == true) dVer = i;
-		}
-	if (dVer >= tVer) { 		
-		hasFlash = true;
-		} 
-	} else {// if <ie5 mac
-	hasFlash = true; 
+else { flashVersion = 1; // all other cases left alone
 	}
-}
+}	
 
-detectFlash();
+getFlashVersion();
 
 // end Flash detect
 //-->
@@ -258,8 +223,8 @@ detectFlash();
 <script language="JavaScript">
 <!--
 // Flash object(s)
-// 2. Flash Ninnbar:
-var flashNinnbar = '<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">'
+// 1.
+var flashNinnbar1 = '<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">'
 + '<tr><td align="LEFT" bgcolor="#FFFFFF">'
 + '<table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff">'
 + '<tr bgcolor="#FFFFFF">'
@@ -267,22 +232,16 @@ var flashNinnbar = '<table width="100%" border="0" cellspacing="0" cellpadding="
 + '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' 
 + 'width="760" height="27"'
 + 'codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" name=ninnbarf>'
-+ '<param name="movie" value="http://www.news.com.au/common/ninnbar_sold.swf">'
++ '<param name="movie" value="http://www.news.com.au/common/ninnbar_flash.swf">'
 + '<param name="quality" value="high">'
-+ '<PARAM NAME="wmode" VALUE="transparent">'
 + '<PARAM NAME=menu VALUE=false>'
 + '<param name="bgcolor" value="#FFFFFF">'
-+ '<embed src="http://www.news.com.au/common/ninnbar_sold.swf"'
++ '<embed src="http://www.news.com.au/common/ninnbar_flash.swf"'
 + 'width="760" height="27" autostart="false" quality="high" menu=false bgcolor="#FFFFFF"'
 + 'TYPE="application/x-shockwave-flash"'
 + 'PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"'
 + 'name=ninnbarf></EMBED></object>'
-+ '</td></tr></table></td></tr></table>';	
-
-// Alternative no-flash content
-// var noflashContent = '';
-
-
++ '</td></tr></table></td></tr></table>';
 
 // etrade stock price form code
 	function displayProductSearch() {
@@ -593,87 +552,119 @@ body {
         FONT-STYLE: normal; 
         FONT-VARIANT: normal; 
         FONT-WEIGHT: bold;
-     }
+     }		
+div.lnav {
+FONT-FAMILY: Arial; COLOR: #ffffff; FONT-SIZE: 12px; TEXT-DECORATION: none;
+background-image: url(http://www.news.com.au/images/leftnav_bg_cell.gif);
+background-repeat: no-repeat;
+background-position: 0px 0px;
+padding: 3px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+line-height: 14px;
+text-align: right;
+width: 123px;
+height: 20px;
+}
+
+div.lnav a:link {COLOR: #ffffff; font-weight:normal;}
+div.lnav a:visited {COLOR: #ffffff; font-weight:normal;}
+
+div.lnavhead {
+FONT-FAMILY: Arial; COLOR: #ffffff; FONT-SIZE: 12px;
+background: #000000;
+padding: 3px 0px 0px 0px;
+line-height: 14px;
+text-align: right;
+width: 123px;
+height: 20px;
+}
+
+td.lnav {
+background:#134F7B;
+}
+
+img.lnav {
+visibility : hidden;
+vertical-align: middle;
+margin: 0px 2px 0px 1px;
+}		
+
 	 
 	 </style>
 
 		</head>
 <body background="/images/home_back_50.gif" leftmargin="0" marginwidth="0" marginheight="0" topmargin="0">
 
-<script language="JavaScript" type="text/javascript">
+<style type="text/css">
+a.ninnbar{font-family:arial; font-weight:bold; font-size:11px; text-decoration:none; color:#000000;}
+a.ninnbar:visited{color:#000000;font-weight:bold}
+a.ninnbar:active{color:#000000;font-weight:bold}
+a.ninnbar:hover{color:#000000;font-weight:bold}
+</style>
+
+<script language="JavaScript">
 <!-- 
-if((hasFlash) && (randomN==0)) {
-document.write(flashNinnbar);
-} else {
+
 document.writeln('<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">\
 <tr><td align="LEFT" bgcolor="#FFFFFF">\
 <table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff">\
 <tr bgcolor="#FFFFFF">\
 <td width="120" bgcolor="#ffffff"><img src="http://central.news.com.au/ninnbar/images/ni_logo.gif" width="120" height="24" alt="News Interactive" border="0" vspace="1"></td>\
-<td align="center" width=542 bgcolor="#FFFFFF">\
+<td width="542">\
 <table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="542">\
-<tr><td colspan="21" width="541" height="2"><spacer type="block" width="541" height="2"></td><td width=1 rowspan=3><spacer type="block" width=1 height=1></td></tr>\
-<tr><td width=1 bgcolor="#FFFFFF"><spacer type="block" width=1 height=1></td><td bgcolor="#959595" width=42 height=1><spacer type="block" width=42 height=1></td>\
+<tr><td colspan="21" width="541" height="2"></td><td width=1 rowspan=3></td></tr>\
+<tr><td width=1 bgcolor="#FFFFFF"></td><td bgcolor="#959595" width=40 height=1></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=43><spacer type=block width=43 height=1></td>\
+<td bgcolor="#959595" width=46></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=25><spacer type=block width=25 height=1></td>\
+<td bgcolor="#959595" width=30></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=68><spacer type=block width=68 height=1></td>\
+<td bgcolor="#959595" width=68></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=69><spacer type=block width=69 height=1></td>\
+<td bgcolor="#959595" width=70></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=45><spacer type=block width=45 height=1></td>\
+<td bgcolor="#959595" width=44></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=68><spacer type=block width=68 height=1></td>\
+<td bgcolor="#959595" width=43></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=55><spacer type=block width=55 height=1></td>\
+<td bgcolor="#959595" width=69></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=33><spacer type=block width=33 height=1></td>\
+<td bgcolor="#959595" width=34></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=39><spacer type=block width=33 height=1></td>\
+<td bgcolor="#959595" width=36></td>\
 <td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td></tr>\
-<tr><td width=1 bgcolor="#353535"><spacer type="block" width=1 height=1></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news" target="_top"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news" target="_top" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">News</font></a></a></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_money" target="_top" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Money</font></a></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_it" target="_top" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">IT</font></a></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_fox" target="_top" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>Fox Sports</nobr></font></a></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_class" target="_top" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Classifieds</font></a></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_personals" target="_blank" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Dating</font></a></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_real" target="_top" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>Real Estate</nobr></font></a></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://ad.doubleclick.net/clk;4249477;7216651;q?http://www.sold.com.au" target="_blank" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Auctions</font></a></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_jobs" target="_top" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Jobs</font></a></td>\
-<td bgcolor="#EEEEEE" align=center onMouseover=this.style.backgroundColor="#C8D1D7" onMouseout=this.style.backgroundColor="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=NI_motoring" target="_top" STYLE="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Cars</font></a></td></tr></table></td>\
-<td align=right>\
+<tr align=center bgcolor="#EEEEEE"><td width=1 bgcolor="#353535"></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news" target="_top" class="ninnbar">News</a></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_money" target="_top" class="ninnbar">Money</a></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_it" target="_top" class="ninnbar">&nbsp;IT</a></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_fox" target="_top" class="ninnbar"><nobr>Fox Sports</nobr></a></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_class" target="_top" class="ninnbar">Classifieds</a></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_personals" target="_blank" class="ninnbar">Dating</a></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_travel2" target="_top" class="ninnbar">Travel</a></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_real" target="_top" class="ninnbar"><nobr>Real Estate</nobr></a></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_jobs" target="_top" class="ninnbar">Jobs</a></td>\
+<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=NI_motoring" target="_top" class="ninnbar">Cars</a></td></tr></table></td>\
+<td align=right width=98>\
 <table width=98 border="0" cellspacing="0" cellpadding="0">\
-<tr><td align=right><a href="http://svc003.bne104p.server-web.com/worldvision/news/redirect.asp" target=_blank><img src="http://central.news.com.au/ninnbar/images/my_world_vision.gif" border=0></td></tr></table></td></tr>\
-<tr bgcolor="#FFFFFF"><td height="1" width="120" bgcolor="#959595"><spacer type="block" width=120 height=1></td><td height="1" bgcolor="#959595" width=542><spacer type="block" width=542 height=1></td><td height="1" bgcolor="#959595" width=98><spacer type="block" width=98 height=1></td></tr></table></td></tr></table>');
-} 
-
+<tr><td align=right><a href="http://ad.au.doubleclick.net/clk;4356382;7296652;t?http://www.myworldvision.com.au/index.asp" target=_blank><img src="http://central.news.com.au/ninnbar/images/my_world_vision.gif" width=94 border=0></a></td></tr></table></td></tr>\
+<tr bgcolor="#FFFFFF"><td height="1" width="120" bgcolor="#959595"></td><td height="1" bgcolor="#959595" width=542></td><td height="1" bgcolor="#959595" width=98></td></tr></table></td></tr></table>');
 
 //-->
-</script><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tbody><tr><td align="LEFT" bgcolor="#FFFFFF"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff"><tbody><tr bgcolor="#FFFFFF"><td width="120" bgcolor="#ffffff"><img src="http://central.news.com.au/ninnbar/images/ni_logo.gif" width="120" height="24" alt="News Interactive" border="0" vspace="1"></td><td align="center" width="542" bgcolor="#FFFFFF"><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="542"><tbody><tr><td colspan="21" width="541" height="2"><spacer type="block" width="541" height="2"></spacer></td><td width="1" rowspan="3"><spacer type="block" width="1" height="1"></spacer></td></tr><tr><td width="1" bgcolor="#FFFFFF"><spacer type="block" width="1" height="1"></spacer></td><td bgcolor="#959595" width="42" height="1"><spacer type="block" width="42" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="43"><spacer type="block" width="43" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="25"><spacer type="block" width="25" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="68"><spacer type="block" width="68" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="69"><spacer type="block" width="69" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="45"><spacer type="block" width="45" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="68"><spacer type="block" width="68" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="55"><spacer type="block" width="55" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="33"><spacer type="block" width="33" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="39"><spacer type="block" width="33" height="1"></spacer></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td></tr><tr><td width="1" bgcolor="#353535"><spacer type="block" width="1" height="1"></spacer></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news" target="_top"></a><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">News</font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_money" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Money</font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_it" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">IT</font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_fox" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>Fox Sports</nobr></font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_class" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Classifieds</font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_personals" target="_blank" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Dating</font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_real" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>Real Estate</nobr></font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://ad.doubleclick.net/clk;4249477;7216651;q?http://www.sold.com.au" target="_blank" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Auctions</font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_jobs" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Jobs</font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor=&quot;#C8D1D7&quot;" onmouseout="this.style.backgroundColor=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=NI_motoring" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">Cars</font></a></td></tr></tbody></table></td><td align="right"><table width="98" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><a href="http://svc003.bne104p.server-web.com/worldvision/news/redirect.asp" target="_blank"><img src="http://central.news.com.au/ninnbar/images/my_world_vision.gif" border="0"></a></td></tr></tbody></table></td></tr><tr bgcolor="#FFFFFF"><td height="1" width="120" bgcolor="#959595"><spacer type="block" width="120" height="1"></spacer></td><td height="1" bgcolor="#959595" width="542"><spacer type="block" width="542" height="1"></spacer></td><td height="1" bgcolor="#959595" width="98"><spacer type="block" width="98" height="1"></spacer></td></tr></tbody></table></td></tr></tbody></table>
+</script><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tbody><tr><td align="LEFT" bgcolor="#FFFFFF"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff"><tbody><tr bgcolor="#FFFFFF"><td width="120" bgcolor="#ffffff"><img src="http://central.news.com.au/ninnbar/images/ni_logo.gif" width="120" height="24" alt="News Interactive" border="0" vspace="1"></td><td width="542"><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="542"><tbody><tr><td colspan="21" width="541" height="2"></td><td width="1" rowspan="3"></td></tr><tr><td width="1" bgcolor="#FFFFFF"></td><td bgcolor="#959595" width="40" height="1"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="46"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="30"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="68"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="70"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="44"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="43"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="69"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="34"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="36"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td></tr><tr align="center" bgcolor="#EEEEEE"><td width="1" bgcolor="#353535"></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news" target="_top" class="ninnbar">News</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_money" target="_top" class="ninnbar">Money</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_it" target="_top" class="ninnbar">&nbsp;IT</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_fox" target="_top" class="ninnbar"><nobr>Fox Sports</nobr></a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_class" target="_top" class="ninnbar">Classifieds</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_personals" target="_blank" class="ninnbar">Dating</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_travel2" target="_top" class="ninnbar">Travel</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_real" target="_top" class="ninnbar"><nobr>Real Estate</nobr></a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_jobs" target="_top" class="ninnbar">Jobs</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=NI_motoring" target="_top" class="ninnbar">Cars</a></td></tr></tbody></table></td><td align="right" width="98"><table width="98" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><a href="http://ad.au.doubleclick.net/clk;4356382;7296652;t?http://www.myworldvision.com.au/index.asp" target="_blank"><img src="http://central.news.com.au/ninnbar/images/my_world_vision.gif" width="94" border="0"></a></td></tr></tbody></table></td></tr><tr bgcolor="#FFFFFF"><td height="1" width="120" bgcolor="#959595"></td><td height="1" bgcolor="#959595" width="542"></td><td height="1" bgcolor="#959595" width="98"></td></tr></tbody></table></td></tr></tbody></table>
 
 	<script language="JavaScript">
 <!--
 function emptySearch(){
 document.webSearch.q.value = ""
 	}
+	
 //-->
 </script>
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td width="2" bgcolor="#FFFFFF" rowspan="3"><spacer type="block" width="2" height="1"></spacer></td>
-  	<td height="4" bgcolor="#FFFFFF" width="1"><spacer type="block" width="1" height="4"></spacer></td>
-  </tr>
-  <tr>
-    <td height="37" bgcolor="#000033" width="760">
-    <table width="760" cellpadding="0" cellspacing="0" border="0">
-	 <tbody><tr>
-	    <td height="37" bgcolor="#000033" width="395"><a href="http://www.news.com.au/"><img src="http://www.news.com.au/images/logo_news2001.gif" width="335" height="37" alt="news.com.au" border="0"></a></td>
-		 <td valign="middle" height="37" bgcolor="#000033" width="365" align="right">
-		<span class="whitemedtext">
-		  <!-- Vignette StoryServer 4 Mon Dec 02 16:17:47 2002 -->
+<table width="760" cellpadding="0" cellspacing="0" border="0" bgcolor="#000033" style="margin-top:4px;margin-bottom:4px;">
+<tbody><tr>
+    <td height="37" width="395"><a href="http://www.news.com.au/"><img src="http://www.news.com.au/images/logo_news2001.gif" width="335" height="37" alt="NEWS.com.au" border="0"></a></td>
+	<td height="37" width="365" align="right">
+	 <!-- Vignette StoryServer 4 Sun Jun 01 18:09:58 2003 -->
 
 	 
 	
@@ -685,21 +676,9 @@ document.webSearch.q.value = ""
 
    
 	
-			<span class="bodytext"><!--
-<b><a href="javascript:void(0)" onClick="window.open('http://live.foxsports.news.com.au/score/cricket/cric1129fox.asp','Scorecard','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=680')" style="color:#98DFEA">Third Test: LIVE on FOXSPORTS.com.au</b></a><br>
--->
-<a href="http://www.news.com.au/common/story_page/0,4057,5595798%255E2,00.html"><font color="#98DFEA"><b>X-rated shirt uproar |</b></font></a><font color="#98DFEA">&nbsp;<a href="http://www.news.com.au/common/story_page/0,4057,5598796%255E13762,00.html"><font color="#98DFEA"><b>No sex for drought-hit crocs</b></font></a>
-<br>
-
-
-<a href="http://www.xbox.com/au/segagt2002/default.htm" style="color:#98DFEA"><b>Sega GT, the most powerful racing game - only on Xbox</b> <font size="1">[AD]</font></a></font></span><font color="#98DFEA"><br>  </font></span><font color="#98DFEA">
-		 </font></td>
-     </tr>
-	  </tbody></table>
-	</td>
-  </tr>
-  <tr>
-  	<td height="4" bgcolor="#FFFFFF"><spacer type="block" width="1" height="4"></spacer></td>
+			<span class="bodytext"><a href="http://www.news.com.au/common/story_page/0,4057,6526573%255E1702,00.html"><font color="#98DFEA"><b>Olympic bomber arrested&nbsp;|&nbsp;</b></font></a><a href="http://foxsports.news.com.au/story/0,8659,6527262-23209,00.html"><font color="#98DFEA"><b>Perth Glory the NSL champs</b></font><b>&nbsp;</b></a><br>
+<a href="http://jobs.careerone.com.au/search/dsp_show_job.cfm?AD_ID=164786" target="_new">
+<font color="#98DFEA"><b><u>Jobs at NEWS.com.au</u>&nbsp;</b></font></a></span><br>  </td>
   </tr>
 </tbody></table><table width="20" height="3" cellpadding="0" cellspacing="0" border="0" align="left" bgcolor="#ffffff">
   <tbody><tr>
@@ -711,121 +690,104 @@ document.webSearch.q.value = ""
 <tbody><tr>
 <td valign="top" width="123" align="left" background="/images/lnav/bg_grid_blue.gif">	
 		
-			 <!-- start left nav table-->
+			  <script language="javascript">
+<!--
 
-<!-- Outer table so Netscape shows the black through the rows in the inner table -->
-<table cellpadding="0" cellspacing="0" border="0" width="123" bgcolor="#000000">
-  <tbody><tr>
-    <td bgcolor="#000000" background="">
-<table cellpadding="2" cellspacing="1" border="0" width="123" bgcolor="#000000" background="">
-  <tbody><tr><td bgcolor="#000000" align="right"><span class="whitesmltextbold">July 03, 2002</span><img src="/images/lnav/blank.gif" width="12" height="9" border="0" name="menu1"></td></tr>
-  
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://www.news.com.au" onmouseover="mouseOver('1')" onmouseout="mouseOut('1')" target="_top"><span class="whitemedtext">News Home</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu1"></td></tr>
+ieVer=5;
+if (navigator.appVersion.indexOf("MSIE")!=-1){
+temp=navigator.appVersion.split("MSIE")
+ieVer=parseFloat(temp[1])
+}
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/common/storylib/0,4810,BreakingNews%255EBREAKING%2520NEWS%255ETEXT%255Enews,00.html" onmouseover="mouseOver('3')" onmouseout="mouseOut('3')" target="_top"><span class="whitemedtext">Breaking News</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu3"></td></tr>
+function arrowOver(theId) {
+if (ieVer>=5) {
+document.getElementById(theId).style.visibility='visible';
+}
+}
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/stateindex" onmouseover="mouseOver('47')" onmouseout="mouseOut('47')" target="_top"><span class="whitemedtext">State News</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu47"></td></tr>    
+function arrowOut(theId) {
+if (ieVer>=5) {
+document.getElementById(theId).style.visibility='hidden';
+}
+}
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/common/indexlib/0,4823,National%255ENATIONAL%2520NEWS%255ETEXT%255Enews45,00.html" onmouseover="mouseOver('2')" onmouseout="mouseOut('2')" target="_top"><span class="whitemedtext">National News</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu2"></td></tr>
+//-->
+</script> 
+ 
+<!-- left nav -->
+<div class="lnavhead"><div style="margin-right:10px;font-family:verdana;font-size:10px"><nobr><b>April 09, 2003</b></nobr></div></div>
+<div class="lnav"><a href="http://www.news.com.au" onmouseover="arrowOver('nh')" onmouseout="arrowOut('nh')" target="_top">News Home</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="nh" class="lnav"></div>
+<div class="lnav"><a href="/common/storylib/0,4810,BreakingNews%255EBREAKING%2520NEWS%255ETEXT%255Enews,00.html" onmouseover="arrowOver('bn')" onmouseout="arrowOut('bn')">Breaking News</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="bn" class="lnav"></div>
+<div class="lnav"><a href="http://www.news.com.au/index/0,8915,25777,00.html" onmouseover="arrowOver('fw')" onmouseout="arrowOut('fw')" target="_top"><b>Focus on Iraq</b></a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="fw" class="lnav"></div>
+<div class="lnav"><a href="/stateindex" onmouseover="arrowOver('sn')" onmouseout="arrowOut('sn')" target="_top">State News</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="sn" class="lnav"></div>
+<div class="lnav"><a href="/common/indexlib/0,4823,National%255ENATIONAL%2520NEWS%255ETEXT%255Enews45,00.html" onmouseover="arrowOver('nn')" onmouseout="arrowOut('nn')" target="_top">The Nation</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="nn" class="lnav"></div>
+<div class="lnav"><a href="/common/indexlib/0,4823,World%255EWORLD%2520NEWS%255ETEXT%255Enews45,00.html" onmouseover="arrowOver('wn')" onmouseout="arrowOut('wn')" target="_top">The World</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="wn" class="lnav"></div>
+<div class="lnav"><a href="/common/indexlib/0,4823,hotspots%255ETHE%2520OTHER%2520SIDE%255ETEXT%255Enews45,00.html" onmouseover="arrowOver('tos')" onmouseout="arrowOut('tos')" target="_top">The Other Side</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="tos" class="lnav"></div>
+<div class="lnav"><a href="javascript:void(0)" onclick="window.open('http://news.com.au/newsaudio/popup/index/0,8218,news,00.html','audio','scrollbars=no,width=490,height=378,top=100,left=200')" onmouseover="arrowOver('an')" onmouseout="arrowOut('an')">Audio News</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="an" class="lnav"></div>
+<div class="lnav"><a href="/cartoonslib/0,4835,cartoon%255Enews45,00.html" onmouseover="arrowOver('cart')" onmouseout="arrowOut('cart')" target="_top">Cartoon</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="cart" class="lnav"></div>
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/common/indexlib/0,4823,World%255EWORLD%2520NEWS%255ETEXT%255Enews45,00.html" onmouseover="mouseOver('10')" onmouseout="mouseOut('10')" target="_top"><span class="whitemedtext">World News</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu10"></td></tr>
+<div class="lnav"></div>
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right">
-  <a href="#" onclick="javascript:windowOpener('http://news.com.au/newsaudio/popup/index/0,8218,news,00.html','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=490,height=358')" onmouseover="mouseOver('12')" onmouseout="mouseOut('12')"><span class="whitemedtext">Audio News</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu12"></td></tr>
-  
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/common/indexlib/0,4823,hotspots%255ETHE%2520OTHER%2520SIDE%255ETEXT%255Enews45,00.html" onmouseover="mouseOver('101')" onmouseout="mouseOut('101')" target="_top"><span class="whitemedtext">The Other Side</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu101"></td></tr>
-  
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/cartoonslib/0,4835,cartoon%255Enews45,00.html" onmouseover="mouseOver('13')" onmouseout="mouseOut('13')" target="_top"><span class="whitemedtext">Cartoon</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu13"></td></tr>
+<div class="lnavhead"><div style="margin-right:14px;">Other Sections</div></div>
+<div class="lnav"><a href="http://finance.news.com.au" onmouseover="arrowOver('fin')" onmouseout="arrowOut('fin')" target="_top">Business</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="fin" class="lnav"></div>
+<div class="lnav"><a href="/technology" onmouseover="arrowOver('tech')" onmouseout="arrowOut('tech')" target="_top">Technology</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="tech" class="lnav"></div>
+<div class="lnav"><a href="http://entertainment.news.com.au" onmouseover="arrowOver('enter')" onmouseout="arrowOut('enter')" target="_top">Entertainment</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="enter" class="lnav"></div>
+<div class="lnav"><a href="http://www.news.com.au/bodyandsoul/" onmouseover="arrowOver('body')" onmouseout="arrowOut('body')" target="_top">body+soul</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="body" class="lnav"></div>
+<div class="lnav"><a href="http://www.news.com.au/people" onmouseover="arrowOver('ppl')" onmouseout="arrowOut('ppl')" target="_top">People</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="ppl" class="lnav"></div>
+<div class="lnav"><a href="http://news.com.au/horoscopes/" onmouseover="arrowOver('horo')" onmouseout="arrowOut('horo')" target="_top">Horoscopes</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="horo" class="lnav"></div>
+<div class="lnav"><a href="http://foxsports.news.com.au" onmouseover="arrowOver('sport')" onmouseout="arrowOut('sport')" target="_top">Sport</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="sport" class="lnav"></div>
+<div class="lnav"><a href="http://weather.news.com.au" onmouseover="arrowOver('weath')" onmouseout="arrowOut('weath')" target="_top">Weather</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="weath" class="lnav"></div>
+<div class="lnav"></div>
+<div class="lnav"><a href="http://travel.news.com.au" onmouseover="arrowOver('travel')" onmouseout="arrowOut('travel')" target="_top">Travel</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="travel" class="lnav"></div>
+<div class="lnav"><a href="http://search.news.com.au" onmouseover="arrowOver('search')" onmouseout="arrowOut('search')" target="_top">Search</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="search" class="lnav"></div>
+<div class="lnav"><a href="http://classifieds.news.com.au" onmouseover="arrowOver('class')" onmouseout="arrowOut('class')" target="_top">Classifieds</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="class" class="lnav"></div>
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right" height="19"><spacer type="block" width="12" height="14"></spacer></td></tr>
-  
-<tr><td bgcolor="#000000" align="right"><span class="whitemedtext">Other Sections</span><img src="/images/lnav/blank.gif" width="12" height="9" border="0"></td></tr>
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://finance.news.com.au" onmouseover="mouseOver('21')" onmouseout="mouseOut('21')" target="_top"><span class="whitemedtext">Finance</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu21"></td></tr>
+<div class="lnav"><a href="http://www.realestate.com.au" onmouseover="arrowOver('real')" onmouseout="arrowOut('real')" target="_top">Real Estate</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="real" class="lnav"></div>
+<div class="lnav"><a href="http://www.careerone.com.au" onmouseover="arrowOver('career')" onmouseout="arrowOut('career')" target="_top">Careers</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="career" class="lnav"></div>
+<div class="lnav"><a href="http://newsmotoring.news.com.au/news" onmouseover="arrowOver('cars')" onmouseout="arrowOut('cars')" target="_top">Cars</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="cars" class="lnav"></div>
+<div class="lnav"></div>
 
-    <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/technology" onmouseover="mouseOver('11')" onmouseout="mouseOut('11')" target="_top"><span class="whitemedtext">Technology</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu11"></td></tr>
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://entertainment.news.com.au" onmouseover="mouseOver('23')" onmouseout="mouseOut('23')" target="_top"><span class="whitemedtext">Entertainment</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu23"></td></tr>  
+<div class="lnav"><a href="/newstrivia/" onmouseover="arrowOver('trivia')" onmouseout="arrowOut('trivia')" target="_top">Trivia Quiz</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="trivia" class="lnav"></div>
+<div class="lnav"></div>
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://sport.news.com.au" onmouseover="mouseOver('22')" onmouseout="mouseOut('22')" target="_top"><span class="whitemedtext">Sport</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu22"></td></tr>
 
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://www.news.com.au/people" onmouseover="mouseOver('62')" onmouseout="mouseOut('62')" target="_top"><span class="whitemedtext">People</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu62"></td></tr>
-  
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://weather.news.com.au" onmouseover="mouseOver('24')" onmouseout="mouseOut('24')" target="_top"><span class="whitemedtext">Weather</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu24"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://news.com.au/horoscopes/" onmouseover="mouseOver('26')" onmouseout="mouseOut('26')" target="_top"><span class="whitemedtext">Horoscopes</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu26"></td></tr>
-  
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://classifieds.news.com.au" onmouseover="mouseOver('25')" onmouseout="mouseOut('25')" target="_top"><span class="whitemedtext">Classifieds</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu25"></td></tr>
-  
-    <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://newsmotoring.news.com.au/news" onmouseover="mouseOver('71')" onmouseout="mouseOut('71')" target="_top"><span class="whitemedtext">Cars</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu71"></td></tr>
-
-    <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://www.careerone.com.au" onmouseover="mouseOver('61')" onmouseout="mouseOut('61')" target="_top"><span class="whitemedtext">Careers</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu61"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right" height="19"><spacer type="block" width="12" height="14"></spacer></td></tr>
-  
-<tr><td bgcolor="#000000" align="right"><span class="whitemedtext">Our Newspapers</span><img src="/images/lnav/blank.gif" width="12" height="9" border="0"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://theaustralian.news.com.au" onmouseover="mouseOver('36')" onmouseout="mouseOut('36')" target="_blank"><span class="whitemedtext">The Australian</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu36"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://heraldsun.news.com.au" onmouseover="mouseOver('37')" onmouseout="mouseOut('37')" target="_blank"><span class="whitemedtext">Herald Sun</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu37"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://www.dailytelegraph.news.com.au" onmouseover="mouseOver('38')" onmouseout="mouseOut('38')" target="_blank"><span class="whitemedtext">Daily Telegraph</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu38"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://www.couriermail.news.com.au" onmouseover="mouseOver('39')" onmouseout="mouseOut('39')" target="_blank"><span class="whitemedtext">Courier-Mail</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu39"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://www.theadvertiser.news.com.au" onmouseover="mouseOver('41')" onmouseout="mouseOut('41')" target="_blank"><span class="whitemedtext">The Advertiser</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu41"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://www.themercury.com.au" onmouseover="mouseOver('60')" onmouseout="mouseOut('60')" target="_blank"><span class="whitemedtext">The Mercury</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu60"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://www.sundaytimes.news.com.au" onmouseover="mouseOver('63')" onmouseout="mouseOut('63')" target="_blank"><span class="whitemedtext">Sunday Times</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu63"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://news.com.au/common/our_sites/" onmouseover="mouseOver('40')" onmouseout="mouseOut('40')" target="_top"><span class="whitemedtext">More. . .</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu40"></td></tr>
-  
- <tr><td background="/images/lnav/bg_grid_blue.gif" align="right" height="19"><spacer type="block" width="1" height="14"></spacer></td></tr>
-  
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/newspulse" onmouseover="mouseOver('31')" onmouseout="mouseOut('31')" target="_top"><span class="whitemedtext">News by Email</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu31"></td></tr>
-  
-  <!--tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://membership.news.com.au/Membership/SignIn?site=news" onMouseOver="mouseOver('32')" onmouseOut="mouseOut('32')"><span class="whitemedtext">Membership</span></a><img src="/images/lnav/mouse_out.gif" width=12 height=9 border="0" name="menu32"></td></tr-->
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://news.com.au/common/story_page/0,4057,3560732%5E17613,00.html" onmouseover="mouseOver('43')" onmouseout="mouseOut('43')" target="_top"><span class="whitemedtext">Trivia Quiz</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu43"></td></tr>
- <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/help" onmouseover="mouseOver('34')" onmouseout="mouseOut('34')"><span class="whitemedtext">Help</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu34"></td></tr>
-
-  <tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="/feedback" onmouseover="mouseOver('35')" onmouseout="mouseOut('35')"><span class="whitemedtext">Feedback</span></a><img src="/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu35"></td></tr>
-
-<tr><td background="/images/lnav/bg_grid_blue.gif" align="right" height="19"><spacer type="block" width="1" height="14"></spacer></td></tr>
-
-<tr><td background="/images/lnav/bg_grid_blue.gif" align="right"><a href="http://ad.au.doubleclick.net/clk;3118492;6156033;d?http://www.myworldvision.com.au/myworldvision.asp" onmouseover="mouseOver('42')" onmouseout="mouseOut('42')" target="_blank"><span class="whitemedtext">World Vision News</span></a><img src="http://news.com.au/images/lnav/mouse_out.gif" width="12" height="9" border="0" name="menu42"></td></tr>
-
-</tbody></table>
-
-    </td>
-  </tr>
- </tbody></table>
-
+<div class="lnavhead"><div style="margin-right:14px;">Our Newspapers</div></div>
+<div class="lnav"><a href="http://theaustralian.news.com.au" onmouseover="arrowOver('theaus')" onmouseout="arrowOut('theaus')" target="_blank">The Australian</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="theaus" class="lnav"></div>
+<div class="lnav"><a href="http://heraldsun.news.com.au" onmouseover="arrowOver('herald')" onmouseout="arrowOut('herald')" target="_blank">Herald Sun</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="herald" class="lnav"></div>
+<div class="lnav"><a href="http://www.dailytelegraph.news.com.au" onmouseover="arrowOver('tele')" onmouseout="arrowOut('tele')" target="_blank">Daily Telegraph</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="tele" class="lnav"></div>
+<div class="lnav"><a href="http://www.couriermail.news.com.au" onmouseover="arrowOver('courier')" onmouseout="arrowOut('courier')" target="_blank">The Courier-Mail</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="courier" class="lnav"></div>
+<div class="lnav"><a href="http://www.theadvertiser.news.com.au" onmouseover="arrowOver('thead')" onmouseout="arrowOut('thead')" target="_blank">The Advertiser</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="thead" class="lnav"></div>
+<div class="lnav"><a href="http://www.themercury.com.au" onmouseover="arrowOver('mercury')" onmouseout="arrowOut('mercury')" target="_blank">The Mercury</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="mercury" class="lnav"></div>
+<div class="lnav"><a href="http://www.sundaytimes.news.com.au" onmouseover="arrowOver('suntimes')" onmouseout="arrowOut('suntimes')" target="_blank">Sunday Times</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="suntimes" class="lnav"></div>
+<div class="lnav"><a href="http://news.com.au/common/our_sites/" onmouseover="arrowOver('more')" onmouseout="arrowOut('more')" target="_top">More. . .</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="more" class="lnav"></div>
+<div class="lnav"></div>
+<div class="lnav"><a href="/newspulse" onmouseover="arrowOver('newsby')" onmouseout="arrowOut('newsby')" target="_top">News by Email</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="newsby" class="lnav"></div>
+<div class="lnav"><a href="/feedback" onmouseover="arrowOver('feed')" onmouseout="arrowOut('feed')" target="_top">Feedback</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="feed" class="lnav"></div>
+<div class="lnav"><a href="/help" onmouseover="arrowOver('help')" onmouseout="arrowOut('help')" target="_top">Help</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="help" class="lnav"></div>
+<div class="lnav"></div>
+<div class="lnav"><a href="http://svc003.bne104p.server-web.com/worldvision/news/lhn_redirect.asp" onmouseover="arrowOver('wv')" onmouseout="arrowOut('wv')" target="_blank">World Vision News</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="wv" class="lnav"></div>
 <br>
-
-<table cellpadding="0" cellspacing="0" border="0" width="123" bgcolor="#000000" background="">
-  <tbody><tr>
-    <td>
-	  <table cellpadding="1" cellspacing="1" width="123" border="0" background="">
-	    
-        <tbody><tr>
-          <td align="right" bgcolor="#ff0000" background="">
-<a href="#" onclick="javascript:windowOpener('http://www.newstext.com.au','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=810,height=530')"><img src="http://www.news.com.au/images/newstext.gif" width="120" height="17" border="0" alt="newstext.com.au"></a></td>
-        </tr>
-		
-		<tr>
-		  <td bgcolor="#ffffff" background=""><p class="blacksmltext" align="right">Search our online library – more than 150 papers archived.
-<br>
-<a href="javascript:windowOpener('http://www.newstext.com.au','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=810,height=530')">
-<img src="http://www.news.com.au/images/button_go.gif" width="23" height="20" border="0"></a>
-          </p></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
+<!-- newstext -->
+<table cellpadding="0" cellspacing="0" width="123" border="0" bgcolor="#ffffff" style="border:1px solid black;">
+<tbody><tr>
+	<td bgcolor="#ff0000" style="border-bottom:1px solid black"><a href="javascript:void(0)" onclick="windowOpener('http://www.newstext.com.au','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=810,height=530')"><img src="http://www.news.com.au/images/newstext.gif" width="120" height="17" border="0" alt="newstext.com.au"></a></td>
+</tr>
+<tr>
+	<td align="right" style="padding:2px 4px 2px 2px"><p class="blacksmltext">Search our online library – more than 150 papers archived.
+	<br><a href="javascript:windowOpener('http://www.newstext.com.au','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=810,height=530')">
+	<img src="http://www.news.com.au/images/button_go.gif" width="23" height="20" border="0"></a></p></td>
+</tr>
 </tbody></table>
-<!--end lnavbar table --> <br>
+<table width="120" border="0" cellspacing="0" cellpadding="0" align="right" style="padding-right: 1px;">
+<tbody><tr>
+	<td align="right" height="80" valign="middle"><a href="http://ad.au.doubleclick.net/clk;5359481;7963546;a?http://www.myworldvision.com.au/appeals/iraq/" target="_blank"><img src="http://www.news.com.au/images/iraq_1_120x60.gif" width="120" height="60" alt="Click here to Help the war victims of the Iraq war" border="0"></a></td>
+</tr>
+</tbody></table>
+<!-- end news text -->
+
+<!--end left nav --> <br>
 <img src="/images/blank.gif" width="123" height="1">
 <br>
 </td>
