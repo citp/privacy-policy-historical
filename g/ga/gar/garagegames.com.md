@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garagegames.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008052830id_/http%3A//www.garagegames.com/main/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garagegames.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605085817id_/http%3A//www.garagegames.com/main/company/privacy.php) for the most accurate reproduction.*
 
 # GarageGames - Play Games - Privacy Policy
 
@@ -7,7 +7,7 @@
 
 
 View our [Privacy Policy](https://web.archive.org/main/company/privacy.php)  
-Copyright © 2000 - 2003   
+Copyright © 2000 - 2004   
 All Rights Reserved 
 
 | 
@@ -77,7 +77,7 @@ If you would like to have your personally identifiable information removed from 
 Questions regarding this Privacy Policy should be directed to GarageGames at [webmaster@Garagegames.com](mailto:webmaster@Garagegames.com).
 
   
-| [](https://web.archive.org/pg/product/view.php?id=1)
+| [](https://web.archive.org/pg/product/view.php?id=28)
 
 [](https://web.archive.org/torque/commercial.php)
 
