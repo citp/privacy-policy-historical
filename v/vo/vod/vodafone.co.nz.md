@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204202529id_/http%3A//vodafone.co.nz/aboutus/12.5_legal_notices.jsp%3Fitem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308014939id_/http%3A//www.vodafone.co.nz/aboutus/12.5_legal_notices.jsp%3Fitem%3Dprivacy) for the most accurate reproduction.*
 
 # Vodafone - About Us - Legal Notices
 
