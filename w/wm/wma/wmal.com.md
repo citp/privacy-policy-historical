@@ -1,24 +1,10 @@
-> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622093848id_/http%3A//www.wmal.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205043140id_/http%3A//www.wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.*
 
-# WMAL-AM 630 NewsTalk
-
-| [](https://web.archive.org/ad/click.asp?adID=6524&adRunID=12412)  
-  
-|   
-June 22, 2003  
----|---  
-  
-| 
-
-[](https://web.archive.org/goout.asp?u=http://www.go.com)  
-**Search For:**  
-  
-**On:**
+# 630 WMAL
 
 | 
 
-|  |  |  |  |   
----|---|---|---|---  
+  
   
 Any person accessing this site agrees to the following:  
   
@@ -88,17 +74,8 @@ By using this site, you signify your assent to the ABC Privacy Policy. If you do
   
 © ABC. All rights reserved.  
   
+
+
 [**Join our Loyal Listener Club Today!**](http://wmal.fimc.net/jointheclub.asp)  
 |   
-  
-[News & Info](https://web.archive.org/newsandinfo.asp) I [Traffic](https://web.archive.org/traffic.asp) I [Program Schedule](https://web.archive.org/complexprogramschedule.asp) I [63 Days of Summer](https://web.archive.org/daysofsummer.asp)   
-[Hosts & Shows](https://web.archive.org/hostsandshows.asp) I [WMAL Events](https://web.archive.org/wmalevents.asp) I [Contests](https://web.archive.org/contests.asp) I [WMAL Scrapbook](https://web.archive.org/wmalscrapbook.asp) I [Money](https://web.archive.org/goout.asp?u=http://www.abcnews.go.com/sections/business)   
-[Community](https://web.archive.org/community.asp) I  [Air Tran Travel](https://web.archive.org/airtrantravel.asp) I [WMAL Sports](https://web.archive.org/wmalsports.asp) I [Destination Disney](https://web.archive.org/destinationdisney.asp) I [Join The Club](https://web.archive.org/jointheclub.asp)  
-[Free E-Mail](http://www.wmalfreemail.com/) I [Contact Us](https://web.archive.org/contactus.asp) I [WMAL Advertisers](https://web.archive.org/wmaladvertisers.asp) I [Listen Live](https://web.archive.org/listenlive.asp) I [Closings and Delays](https://web.archive.org/closingsanddelays.asp)   
-[Womble Carlyle Business Report](https://web.archive.org/wmalbusinessreport.asp) I [FAQs](https://web.archive.org/faqs.asp) I [Advertise on WMAL](https://web.archive.org/advertiseonwmal.asp) I [About This Website](https://web.archive.org/aboutthiswebsite.asp)   
-[Legal Resource Center](http://wmal.lawinfo.com/) I [WMAL Advertisers/Online Coupons](https://web.archive.org/coupons.asp) I  [Home](https://web.archive.org/default.asp)   
-Copyright © 2003 WMAL-ABC Radio and [First MediaWorks](javascript:displayNotice\(\);)  
-[Powered by First MediaWorks](http://www.firstmediaworks.com/poweredby/default.asp?d=www.wmal.com)   
-[Terms of Use](https://web.archive.org/termsofuse.asp)   [Privacy Policy](https://web.archive.org/privacypolicy.asp)  
-  
-| 
+---|---|---
