@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freechatnow.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604053702id_/http%3A//www.wiredreality.com/docs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freechatnow.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082801id_/http%3A//www.wiredreality.com/docs/privacypolicy.html) for the most accurate reproduction.*
 
 # WiredReality Privacy Policy
 
@@ -12,7 +12,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 #### Advertisers 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we do not use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, [ValueClick](http://www.valueclick.com/), and we do not have access to this information.  [ValueClick's Privacy Policy](http://www.valueclick.com/privacy.html)
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we do not use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, [Adtegrity](http://www.adtegrity.com/), and we do not have access to this information.  [Adtegrity's Privacy Policy](http://www.adtegrity.com/privacy.asp)
 
 #### Personal Information 
 
@@ -26,7 +26,7 @@ This site makes chat rooms and message boards available to its users. Please rem
 
 #### Children's Guidelines 
 
-**Note:**   These Guidelines come into effect once the ages 7-12 chatroom on [http://www.preteenchat.com](http://www.preteenchat.com/) comes back online.   Currently members under 13 years of age barred from the chatrooms after identifying their age.  Once the chatroom comes back online, members will be taken to a link to the 7-12 chatroom after identifying that they are 12 years of age and under.  When taken to that room, before entry they will need a parent to fax a signed form stating they give their child permission to chat.  After WiredReality checks the form, the child will then be granted access.  Once they are granted access, the following guidelines come into effect:
+**Note:**   Currently members under 13 years of age barred from the chatrooms after identifying their age.  Once the chatroom comes back online, members will be taken to a link to the 7-12 chatroom after identifying that they are 12 years of age and under.  When taken to that room, before entry they will need a parent to fax a signed form stating they give their child permission to chat.  After WiredReality checks the form, the child will then be granted access.  Once they are granted access, the following guidelines come into effect:
 
 We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
 
