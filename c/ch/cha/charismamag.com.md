@@ -1,23 +1,32 @@
-> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004101626id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190132id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
 
 # Strang Communications Online
 
-| GET CONNECTED  
+| SEARCH PRODUCTS  
 ---  
+**Search for a book by author, title or your keyword(s)**  
+BEST VIEWS  
+[Bestsellers](http://cbw.strang.com/bestsellers.cgi)  
+[New Releases](http://cbw.strang.com/whatsnew.cgi)  
+[View by Author](http://cbw.strang.com/authors.pl)  
+[View by Category](http://cbw.strang.com/categorylist.pl)  
+[Church Resources](http://www.charismalife.com/)  
+[Magazines](http://www.strang.com/offer.htm)  
+  
+GET CONNECTED  
 [Free Newsletters](http://www.strang.com/newsletters.php)  
 [Subscribe Online](http://www.strang.com/offer.htm)  
 [Bulk Subscriptions](http://www.strang.com/bulksubs.html)  
 [Interactive Forums](http://forums.strang.com/)  
 [Read Online News](http://www.charismanews.com/)  
-[Today's Devotional](http://www.strang.com/devbgwin.htm)  
 [Women's Devotional](http://www.spiritledwoman.com/devotional/)  
 [Conference Listings](http://www.strang.com/conference/topics)  
   
 HELP DESK  
 [FAQ](http://www.strang.com/faq/)  
-[Contact Us](mailto:custsvc@strang.com)  
+[Contact Us](http://www.strang.com/custsvc.html)  
 [Advertising Info](http://www.charisma.net/gospel/cgi-sc/bannerad/clients/advertis/)  
-[Customer Service](mailto:custsvc@strang.com)  
+[Customer Service](http://www.strang.com/custsvc.html)  
   
 ABOUT US  
 [Who is Strang?](http://www.strang.com/wwa)  
@@ -31,20 +40,13 @@ SPECIAL EVENTS
 ---  
   
 Updated as of   
-October 4, 2002  
+June 2, 2003  
   
-**Charisma 2002 Conference**  
-October 31-November 2, 2002  
-New Marriott Convention Center  
-Lake Mary, FL  
-[More Information ](http://www.charismamag.com/frontlines/front.html)
-
-**Women's Conference 2003**  
-April 24-26, 2003  
-2003 Ocean Center Arena  
-Daytona Beach, Florida
-
-[More Information ](http://www.spiritledwoman.com/womensconference/)  
+CharismaLife 2003 Children's Conference  
+Lake Mary, Florida  
+September 25-26-27   
+[click here for more info](https://secure.strang.com/charismalife.com/confeform.html)  
+  
 |    
 
 
@@ -117,7 +119,7 @@ By using our Web site, you consent to the collection and use of this information
 
   
 |  |   
-[](http://banners.strang.com/adclick.cgi?gid=19&cid=91&mid=134&id=292)
+[](http://corp2.strang.com/banneradmin/adclick.cgi?gid=22&cid=107&mid=268&id=380)
 
 [](http://www.strang.com/offer.htm)
 
