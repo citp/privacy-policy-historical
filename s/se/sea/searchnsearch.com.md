@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchnsearch.com privacy policy that was archived on 2003-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031225085242id_/http%3A//www.searchnsearch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchnsearch.com privacy policy that was archived on 2004-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040229114539id_/http%3A//www.searchnsearch.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Document
 
