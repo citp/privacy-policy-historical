@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fictionwise.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331225059id_/http%3A//fictionwise.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fictionwise.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204220926id_/http%3A//fictionwise.com/privacy.htm) for the most accurate reproduction.*
 
-# Fictionwise: Excellence in eBooks
+# Fictionwise: Excellence in eBooks, free eBooks, ebooks for Palm, Pocket PC, eBookMan, WinCE, Rocket, and PCs.
 
 **Privacy Statement for Fictionwise** Fictionwise, Inc. has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website **http://www.fictionwise.com**. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information.
 
-Our site uses cookies to keep track of your shopping cart. 
+Our site uses cookies to keep track of your shopping cart, to make login more convenient (auto-login), and for other user benefits (e.g., turn popup ads off for frequent visitors). 
 
 Our site's registration form requires users to give us contact information (such as name and email address). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -36,7 +36,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. Web based option: [click here](https://web.archive.org/web/20010331225059id_/http%3A//fictionwise.com/servlet/mw?action=memberview&template=update.htm). 
+  1. Web based option: [click here](https://web.archive.org/web/20011204220926id_/http%3A//fictionwise.com/servlet/mw?action=memberview&template=update.htm). 
   2. You can send mail to the following postal address: 
 
 **Fictionwise  
