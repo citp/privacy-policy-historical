@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brooksbrothers.com privacy policy that was archived on 2004-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206223646id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brooksbrothers.com privacy policy that was archived on 2005-02-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050205193413id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Help</title>
@@ -28,6 +28,7 @@ function addQuot() {
 		return true;
 	} else {
 		alert("Please fill-in the search box");
+		document.SearchForm.tempquery.focus();
 		return false;
 	}
 }
@@ -50,19 +51,19 @@ function addQuot() {
           <tr>
             <td align="right">-->
 				<table id="navBasket" align="right" border="0" style="padding-top:5px;" cellspacing="0" cellpadding="0">
-				<form method="GET" action="http://www.brooksbrothers.com/IWProductSearchTop.process" enctype="x-www-form-encoded" target="_top" onsubmit="javascript:addQuot();" name="SearchForm"></form>
+				<form method="GET" action="http://www.brooksbrothers.com/IWProductSearchTop.process" enctype="x-www-form-encoded" target="_top" onsubmit="return addQuot()" name="SearchForm"></form>
                 <tbody><tr>
 				
 				<td nowrap=""><a href="https://www.brooksbrothers.com/Members.tem">SIGN-IN</a></td>
 				
-                <td nowrap=""><a href="https://www.brooksbrothers.com/members.tem">MY ACCOUNT</a></td>
+                <td nowrap=""><a href="https://www.brooksbrothers.com/members.tem">MEMBERS</a></td>
                 <td nowrap=""><a href="https://www.brooksbrothers.com/OMBasketManager.process?RestartFlow=t&amp;OMAction=list">ITEMS IN BAG: <span class="navAlt">
 					
 						0
 					
 				  </span></a></td>
                 <td><input name="tempquery" type="text" class="search" size="20" value="Enter item # or keyword" onfocus="this.value=''"></td>
-                <td><input type="Image" src="/content/nav/images/buttons/search_button.gif" width="55" height="17" border="0" alt="Search" name="Search">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td valign="middle" style="padding-right:5px;padding-left:4px"><input type="Image" src="/content/nav/images/buttons/search_button.gif" width="55" height="17" border="0" alt="Search" name="Search"></td>
                 </tr>
 				<input type="hidden" name="query" value="">
 				<input type="hidden" name="image" value="Go">
@@ -86,7 +87,7 @@ function addQuot() {
 				<a href="http://www.brooksbrothers.com/women/landing_women.tem" onmouseover="if (currentSection != SECTION_WOMEN){ MM_swapImage('navWomen','','/Content/Nav/Images/topnav/nav-women1.gif',1) }" onmouseout="if (currentSection != SECTION_WOMEN){ MM_swapImgRestore() }"><img src="/Content/Nav/Images/topnav/nav-women0.gif" alt="" name="navWomen" border="0" class="navSectionLink" id="navWomen"></a>
 				<a href="http://www.brooksbrothers.com/boys/landing_boys.tem" onmouseover="if (currentSection != SECTION_BOYS){ MM_swapImage('navBoys','','/Content/Nav/Images/topnav/nav-boys1.gif',1) }" onmouseout="if (currentSection != SECTION_BOYS){ MM_swapImgRestore() }"><img src="/Content/Nav/Images/topnav/nav-boys0.gif" alt="" name="navBoys" border="0" class="navSectionLink" id="navBoys"></a>
 				<a href="http://www.brooksbrothers.com/brooksbuys/landing_brooksbuys.tem" onmouseover="if (currentSection != SECTION_BROOKSBUYS){ MM_swapImage('navBuys','','/Content/Nav/Images/topnav/nav-brooks-buys1.gif',1) }" onmouseout="if (currentSection != SECTION_BROOKSBUYS){ MM_swapImgRestore() }"><img src="/Content/Nav/Images/topnav/nav-brooks-buys0.gif" alt="" name="navBuys" border="0" class="navSectionLink" id="navBuys"></a>
-        <a href="http://www.brooksbrothers.com/GiftCardPage.process?Merchant_Id=1" onmouseover="if (currentSection != SECTION_GIFTCARD){ MM_swapImage('navGift','','/Content/Nav/Images/topnav/nav-gift1.gif',1) }" onmouseout="if (currentSection != SECTION_GIFTCARD){ MM_swapImgRestore() }"><img src="/Content/Nav/Images/topnav/nav-gift0.gif" alt="" name="navGift" border="0" class="navSectionLink" id="navGift"></a></td>
+        <a href="http://www.brooksbrothers.com/giftcard/landing_giftcard.tem" onmouseover="if (currentSection != SECTION_GIFTCARD){ MM_swapImage('navGift','','/Content/Nav/Images/topnav/nav-gift1.gif',1) }" onmouseout="if (currentSection != SECTION_GIFTCARD){ MM_swapImgRestore() }"><img src="/Content/Nav/Images/topnav/nav-gift0.gif" alt="" name="navGift" border="0" class="navSectionLink" id="navGift"></a></td>
           </tr>
         </tbody></table></td>
     </tr>
