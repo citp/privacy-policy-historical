@@ -1,0 +1,735 @@
+<!--The following is the downloaded HTML source of the pscufs.com privacy policy that was archived on 2004-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040401124827id_/http%3A//www.pscufs.com/privacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><!-- #BeginTemplate "nulltemplate.dwt" --><head>
+<!-- #BeginEditable "Edit_Region" -->
+<title>Privacy</title>
+<meta name="description" content="PSCU Financial Services Privacy">
+<script language="JavaScript">
+//script for pop-up window
+    function popUpdemo(URL) {
+        day = new Date();
+        id = day.getTime();
+        eval("page" + id + " = window.open(URL, '" + id + "', 'left=10,top=10,toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=750,height=500');");
+    }
+
+//-->
+</script>
+
+<script language="JavaScript">
+
+
+<!-- Begin
+//   ##############  SIMPLE  BROWSER SNIFFER
+if (document.layers) {navigator.family = "nn4"}
+if (document.all) {navigator.family = "ie4"}
+
+//  #########  popup text 
+descarray = new Array(
+"<img src='images/cowboyinsert.jpg'>",
+"<img src='images/cowboyposter.jpg'>",
+"<img src='images/beach.jpg'>",
+"<img src='images/castle.jpg'>",
+"<img src='images/couple_poster.jpg'>",
+"You can put in a really long <br>description if it is nessary to <br>explain something in detail, <br>like a warning about content <br>or privacy.",
+"</center>Lastly, you can have links like these:<br><a href='http://javascript.internet.com/'>JavaScript Source</a><br><a href='http://javascript.internet.com/'>JavaScript Source</a><br><a href='http://javascript.internet.com/'>JavaScript Source</a><br>With a change in the onmouseout event handler."
+);
+
+overdiv="0";
+//  #########  CREATES POP UP BOXES 
+function popLayer(a){
+if(!descarray[a]){descarray[a]="<font color=red>This popup (#"+a+") isn't setup correctly - needs description</font>";}
+{pad="0"; bord="0";}
+desc = 	  "<table cellspacing=0 cellpadding="+pad+" border="+bord+"  bgcolor=000000><tr><td>\n"
+	+"<table cellspacing=0 cellpadding=0 border=0 width=100%><tr><td bgcolor=ffffff><center><font size=-1>\n"
+	+descarray[a]
+	+"\n</td></tr></table>\n"
+	+"</td></tr></table>";
+if(navigator.family =="nn4") {
+	document.object1.document.write(desc);
+	document.object1.document.close();
+	document.object1.left=450;
+	document.object1.top=700;
+	}
+else if(navigator.family =="ie4"){
+	object1.innerHTML=desc;
+	object1.style.pixelLeft=450;
+	object1.style.pixelTop=700;
+	}
+}
+function hideLayer(){
+if (overdiv == "0") {
+	if(navigator.family =="nn4") {eval(document.object1.top="-200");}
+	else if(navigator.family =="ie4"){object1.innerHTML="";}
+	}
+}
+
+//  ########  TRACKS MOUSE POSITION FOR POPUP PLACEMENT
+var isNav = (navigator.appName.indexOf("Netscape") !=-1);
+function handlerMM(e){
+x = (isNav) ? e.pageX : event.clientX + document.body.scrollLeft;
+y = (isNav) ? e.pageY : event.clientY + document.body.scrollTop;
+}
+if (isNav){document.captureEvents(Event.MOUSEMOVE);}
+document.onmousemove = handlerMM;
+//  End -->
+</script>
+<script language="JavaScript">
+<!--
+   numImages = 2;
+   rpiImages = new Array((numImages*2))
+   for(i = 1; i <= 2; i++)
+      {
+      rpiImages[i] = new Image();
+      rpiImages[i+numImages] = new Image();
+      rpiImages[i].src = "images/pic"+i+"rest.gif";
+      rpiImages[i+numImages].src = "images/pic"+i+"over.gif";
+      }
+ function on_image(loc, img)
+        {
+                img+=numImages;
+                document.images[loc].src=rpiImages[img].src;
+        }
+function off_image(loc, img) 
+        {
+                document.images[loc].src=rpiImages[img].src;
+        }
+//-->
+
+
+
+
+</script>
+
+<!-- #EndEditable -->
+<script language="JavaScript">
+
+<!--
+   numImages = 2;
+   rpiImages = new Array((numImages*2))
+   for(i = 1; i <= 2; i++)
+      {
+      rpiImages[i] = new Image();
+      rpiImages[i+numImages] = new Image();
+      rpiImages[i].src = "images/pic"+i+"rest.gif";
+      rpiImages[i+numImages].src = "images/pic"+i+"over.gif";
+      }
+ function on_image(loc, img)
+        {
+                img+=numImages;
+                document.images[loc].src=rpiImages[img].src;
+        }
+function off_image(loc, img) 
+        {
+                document.images[loc].src=rpiImages[img].src;
+        }
+
+<!--
+
+var peanut;
+var bV=parseInt(navigator.appVersion);
+NS4=((document.layers)&&(bV>=3)) ? true : false;
+IE4=((document.all)&&(bV>=4))?true:false;
+ver4 = (NS4 || IE4) ? true : false;
+
+
+function showit(val) {
+	if(IE4){document.all[val].style.visibility="visible";}
+	if(NS4){document[val].visibility="visible";}
+}
+function hideit(val) {
+	if(IE4){document.all[val].style.visibility="hidden";}
+	if(NS4){document[val].visibility="hidden";}
+}
+//-->
+
+</script>
+<script>
+function create() {
+        this.width = ''
+        this.height = ''
+        this.src = ''
+        this.href = ''
+        this.border = '000000'
+        this.mouseover = ''
+}
+ads = new Array()
+for(var i=1; i<=5; i++) { ads[i] = new create() }
+
+ads[1].width = "200"
+ads[1].height = "263"
+ads[1].src = "images/home_image1.jpg"
+ads[1].href = "http://www.pscufs.com/contact_center.htm"
+ads[1].border = "0"
+ads[1].mouseover = "Click here to find out about our contact center"
+
+ads[2].width = "200"
+ads[2].height = "263"
+ads[2].src = "images/home_image2.jpg"
+ads[2].href = "http://www.pscufs.com/creditability.htm"
+ads[2].border = "0"
+ads[2].mouseover = "Click here to find out about our credit solutions"
+
+ads[3].width = "200"
+ads[3].height = "263"
+ads[3].src = "images/home_image3.jpg"
+ads[3].href = "http://www.pscufs.com/e_services.htm"
+ads[3].border = "0"
+ads[3].mouseover = "Click here to find out about our online bill pay solutions"
+
+ads[4].width = "200"
+ads[4].height = "263"
+ads[4].src = "images/home_image4.jpg"
+ads[4].href = "http://www.pscufs.com/debitadvantage.htm"
+ads[4].border = "0"
+ads[4].mouseover = "Click here to find out about our debit solutions"
+
+ads[5].width = "200"
+ads[5].height = "235"
+ads[5].src = "images/home_image5.jpg"
+ads[5].href = "http://www.pscufs.com/"
+ads[5].border = "0"
+ads[5].mouseover = "Creditability"
+
+var n = Math.random() + ''
+n = parseInt(n.charAt(5))
+if(n >5) {
+        n = n - 5
+}
+else if(n==0) {
+        n = n + 5
+}
+n += ""
+
+var image = ads[n]
+var ad = ""
+ad += '<a href="' + image.href + '" \n'
+ad += 'onMouseOver="self.status=\'' + image.mouseover + '\'\;return true" \n'
+ad += 'onMouseOut="self.status=\'\'"> \n'
+ad += '<img src="' + image.src + '" width=' + image.width
+ad += '\n height=' + image.height + ' border=' + image.border + '\n' + '</a>'
+</script>
+<script language="javascript">
+<!--
+
+
+
+
+// This script may only be used with the copyright notice intact. JanB.
+var w=window; var d=document;
+var nav=navigator.appName.indexOf("Microsoft");
+var referrer=top.document.referrer
+var D=new Date(); 
+var Exp=new Date(); Ta=(D.getYear()<1900)?1903:3; Exp.setYear(D.getYear()+Ta);
+
+function STBinit() {
+STBs=new String(); STBs=cookie("");
+Ta=new Array(); if(STBs!==null){Ta=STBs.split("&");}
+STBa=new Array(); 
+for(x in Ta){ Tb=new Array();Tb=Ta[x].split(":");STBa[Tb[0]]=Tb[1];}
+}
+
+function SetC(n){ if(typeof(STBa)!="object") STBinit(); d.write((STBa[n]==1)?"<tr id=\""+n+"\" style=\"display:none\">":"<tr id=\""+n+"\">"); }
+function STB(n){STBs=new String();STBa[n]=(STBa[n]==1)?0:1;
+Exp=new Date(); Ta=1; Ta+=(D.getYear()<1900)?1900:0; Exp.setYear(D.getYear()+Ta);
+for(id in STBa){STBs+=(STBa[id]==1)?"&"+id+":1":"";}
+d.cookie=""+escape(STBs.substr(1))+"; expires="+Exp.toGMTString();
+if(nav>=0){Ta=eval(n).style.display;
+ switch(Ta) {
+  case "block": eval(n).style.display = "none"; break;
+  case "": eval(n).style.display = "none"; break;
+  default : eval(n).style.display = "block"; }}
+else{d.location.reload();}
+}
+
+function cookie(n){Ta=d.cookie.indexOf(n+"=");Tb=Ta+n.length+1;
+if((Ta==-1)||((!Ta)&& (n != d.cookie.substring(0,n.length)))) return null;
+Tc=d.cookie.indexOf(";",Tb);if(Tc==-1)Tc=d.cookie.length;
+return unescape(d.cookie.substring(Tb,Tc));}
+function cookie_s(n,v,e,r){ 
+d.cookie=escape(n)+"="+escape(v)+"; expires="+e.toGMTString(); if(r)d.location.reload(); }
+//-->
+</script>
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<style type="text/css">
+
+</style>
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" rightmargin="0" bottommargin="0">
+<div id="object1" style="position:absolute; background-color:ffffff;visibility:show; left:100px; top:-100px; z-index:+1" onmouseover="overdiv=1;" onmouseout="overdiv=0; setTimeout('hideLayer()',1000)">
+pop up description layer
+</div>
+<script language="JavaScript1.2" src="sample_data.js"></script>
+<script language="JavaScript1.2" src="dqm_script.js"></script><script language="JavaScript1.2" src="dqm_ns6.js"></script>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" height="57%">
+  <tbody><tr> 
+    <td valign="top" height="109"> 
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" align="top" bgcolor="#FFFFFF" height="106">
+        <tbody><tr> 
+          <td bgcolor="#0A0A3C" height="73" colspan="2"> 
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" height="78" bgcolor="#FFFFFF">
+              <tbody><tr bgcolor="#666666"> 
+                <td height="5" colspan="2"></td>
+              </tr>
+              <tr> 
+                <td height="67" width="779" valign="middle"> 
+                  <p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="355" height="69">
+                      <param name="movie" value="swfs/values.swf">
+                      <param name="quality" value="high"><param name="LOOP" value="false">
+                      <embed src="swfs/values.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="355" height="69" loop="false">
+                       
+                    </object></p>
+                </td>
+                <td width="209" valign="bottom" align="right" height="67"> 
+                  <div align="center"><a href="master.htm"><img src="images/logo.gif" width="141" height="72" hspace="4" align="bottom" border="0" alt="Home"></a></div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr> 
+          <td height="2" colspan="2"></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#FFFFFF" class="footer" height="23" width="79%"> 
+            <table cellpadding="0" cellspacing="0" border="0" width="332" bgcolor="#FFFFFF" height="23">
+              <tbody><tr> 
+                <td height="21" width="128"><img src="images/prod_serv_u.gif" width="128" height="22" name="menu0" id="menu0" onmouseover="showMenu(event)" onmouseout="hideMenu(event)" align="middle" alt="Products &amp; Services"></td>
+                <td height="21" width="67"><img src="images/new_company_u.gif" width="67" height="22" name="menu1" id="menu1" onmouseover="showMenu(event)" onmouseout="hideMenu(event)" alt="Company"></td>
+                <td height="21" width="99"><img src="images/news_events_u.gif" width="99" height="22" name="menu2" id="menu2" onmouseover="showMenu(event)" onmouseout="hideMenu(event)" alt="News &amp; Events"></td>
+                <td height="21" width="62"><img src="images/careers_u.gif" width="62" height="22" name="menu3" id="menu3" onmouseover="showMenu(event)" onmouseout="hideMenu(event)" alt="Careers"></td>
+              </tr>
+            </tbody></table>
+          </td>
+          <td bgcolor="#FFFFFF" class="footer" height="23" width="21%" valign="middle"> 
+            <div align="left"><img src="images/functionkeys.gif" width="206" height="15" usemap="#Map" border="0"></div>
+          </td>
+        </tr>
+        <tr> 
+          <td bgcolor="#FFFFFF" colspan="2"></td>
+        </tr>
+        <tr background="images/green_background.gif" bgcolor="28913E"> 
+          <td height="9" colspan="2"> </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr><tr> 
+    <td></td>
+  </tr><tr> 
+    <td width="75%" height="303" valign="top"> 
+      <table width="100%" valign="top" border="0" cellpadding="0" cellspacing="0" height="304">
+        <tbody><tr> 
+          <td height="304" valign="top"> 
+            <table width="100%" border="0" cellspacing="2" cellpadding="0">
+              <tbody><tr valign="top"> 
+                <td colspan="3" height="27" class="hdg1"><!-- #BeginEditable "Title" class="hdg1" -->Privacy<!-- #EndEditable --></td>
+              </tr>
+              <tr> 
+                <td valign="top" colspan="3" background="images/transpix.gif" width="1" height="1"></td>
+              </tr>
+              <tr> 
+                <td height="46" valign="top" width="131"> <!-- #BeginEditable "Navigation" --> 
+                  <table width="131" border="0" cellpadding="0" cellspacing="6">
+                    <tbody><tr> 
+                      <td class="smallText" title="Online Bill Payment" height="2"><span class="copy"><a href="#intro" class="smallText" title="Introduction">Introduction</a></span></td>
+                    </tr>
+                    <tr> 
+                      <td class="smallText" height="3" title="Online Account Information"><span class="copy"><a href="#privacy" class="smallText" title="Privacy">Privacy</a></span></td>
+                    </tr>
+                    <tr> 
+                      <td class="smallText" height="11" title="Free Online Bill Payment"><span class="copy"><a href="#collection" class="smallText" title="Collection, Use, and Disclosure">Collection, 
+                        Use, and Disclosure</a></span></td>
+                    </tr>
+                    <tr> 
+                      <td class="smallText" height="2" title="Free Online Bill Payment"><span class="copy"><a href="#security" class="smallText" title="Security">Security</a></span></td>
+                    </tr>
+                    <tr> 
+                      <td class="smallText" title="Internet Technical Support" height="9"><a href="#truesecure" class="smallText" title="TrueSecure Certification">TruSecure™ 
+                        Certification</a></td>
+                    </tr>
+                    <tr> 
+                      <td class="smallText" title="Internet Technical Support"><span class="copy"><a href="#account" class="smallText" title="Accountability &amp; Responsibility">Accountability 
+                        &amp; Responsibility</a></span></td>
+                    </tr>
+                    <tr> 
+                      <td class="smallText" title="Internet Technical Support"><span class="copy"><a href="#children" class="smallText" title="Children">Children</a></span></td>
+                    </tr>
+                    <tr>
+                      <td class="smallText" title="Internet Technical Support"><span class="copy"><a href="#FAQs" class="smallText" title="FAQs">FAQs</a></span></td>
+                    </tr>
+                  </tbody></table>
+                  <!-- #EndEditable --></td>
+                <td width="2"></td>
+                <td width="638" valign="top" rowspan="2"><!-- #BeginEditable "layout" --> 
+                  <p class="hdr2">Introduction</p>
+                  <p class="copy">PSCU Financial Services is one of the largest 
+                    24 x7 call centers and transaction card service providers 
+                    for credit unions in the U.S. In addition, we are the largest 
+                    credit union service organization (CUSO) in the nation. PSCU 
+                    Financial Services is a cooperative organization dedicated 
+                    to promoting the success of our members by delivering financial 
+                    services, technology, and operational support for credit unions.</p>
+                  <p class="copy">PSCU Financial Services intends for our web 
+                    site, www.pscufs.com, to complement the services the organization 
+                    provides. We also believe that online security and privacy 
+                    are important to the future success of the Internet and electronic 
+                    commerce, and that online security and privacy are important 
+                    to our member credit unions and to their members as well.</p>
+                  <p class="copy">PSCU Financial Services has a strong commitment 
+                    to the issues of trust and privacy on the World Wide Web as 
+                    demonstrated by our agreement with ICSA.net, the worldwide 
+                    leader in Internet security assurance services, to provide 
+                    TruSecure™ certification for our security policies and 
+                    technical internetworking infrastructure.</p>
+                  <p class="copy">We are committed to guarding your data, protecting 
+                    your members' privacy, and developing technology that gives 
+                    consumers the most powerful, safe, online experience available 
+                    anywhere.</p>
+                  <p class="copy">After all, isn't that what you expect from us?<br>
+                  </p>
+                  <p class="copy"><a href="#top"><img src="images/top.gif" width="56" height="23" border="0"></a><br>
+                  </p>
+                  <p></p>
+                  <hr>
+                  <p class="hdg3"><a name="privacy"></a><span class="hdr2">Privacy</span></p>
+                  <p class="copy">PSCU Financial Services defines Privacy as the 
+                    measures in place to ensure that any information provided 
+                    to us is maintained in strict confidence and not distributed, 
+                    shared, or otherwise used without the expressed permission 
+                    of the information provider.</p>
+                  <p class="copy">Should you merely visit our web site, www.pscufs.com, 
+                    we do not collect any personal information about you. Should 
+                    you decide you would like additional information about PSCU 
+                    Financial Services, we will ask you to register online. During 
+                    registration, the information disclosed, such as your name 
+                    and e-mail address, is retained.</p>
+                  <p class="copy">We also request and retain during registration 
+                    other demographic information such as address, credit union 
+                    affiliation, and purpose for your visit. We use demographic 
+                    information in the aggregate only, for statistical analysis 
+                    and internal research to help us understand who is using our 
+                    site and become better equipped to serve your needs. PSCU 
+                    Financial Services does not sell, distribute, or disclose 
+                    your personally identifiable information collected at registration 
+                    to any third parties.</p>
+                  <p class="copy">Our website may contain links to other websites. 
+                    Accordingly, PSCU Financial Services cannot be responsible 
+                    for the privacy practices or the content of any linked websites 
+                    and encourages you to read the privacy statements of linked 
+                    websites to become acquainted with their specific privacy 
+                    practices.</p>
+                  <p class="copy">PSCU Financial Services' InfoLink site for credit 
+                    card data currently accepts user ID, password, and other types 
+                    of information (credit card account number(s), and zip code(s), 
+                    SSN, mother's maiden name, birthdate, e-mail addresses, etc.) 
+                    that allow the site to verify the credit union members' access 
+                    privileges.</p>
+                  <p class="copy">Any information credit union members provide 
+                    to register or use any PSCU Financial Services web sites will 
+                    be used only as required to enable registration or use of 
+                    the sites. The information provided is stored in our data 
+                    center in a secure environment. Any email addresses that credit 
+                    union members provide or will provide on the site are for 
+                    supporting communication between the credit union member and 
+                    PSCU Financial Services' Contact Center representatives.</p>
+                  <p class="copy">PSCU Financial Services does not share any user-provided 
+                    information with outside parties.<br>
+                  </p>
+                  <p class="copy"><a href="#top"><img src="images/top.gif" width="56" height="23" border="0"></a></p>
+                  <p></p>
+                  <hr>
+                  <p class="hdg3"><a name="collection"></a><span class="hdr2">Collection, 
+                    Use, and Disclosure</span></p>
+                  <p class="hdg3">Cookies</p>
+                  <p class="copy">PSCU Financial Services avoids the use of cookies 
+                    whenever possible but cannot guarantee that we will not use 
+                    them. A cookie is a piece of data stored on the user's hard 
+                    drive containing information about the user. Usage of a cookie 
+                    is in no way linked to any personally identifiable information 
+                    while on the PSCU Financial Services web site. Once the user 
+                    closes the browser, the cookie simply terminates. For instance, 
+                    by setting a cookie on the PSCU Financial Services site, you 
+                    would not have to log in a password more than once, thereby 
+                    saving time while on either site. If you reject the cookie, 
+                    you may still use either site, but the site's general inability 
+                    to verify you as the user may result in your inability to 
+                    participate in any bulletin boards, sweepstakes, contests 
+                    or drawings either site might sponsor or promote. Cookies 
+                    also enable a site to track and target the interests of our 
+                    users to enhance the experience on each site. Also, please 
+                    understand that some business partners of PSCU Financial Services 
+                    may use cookies on their respective sites. However, we have 
+                    no access to or control over these cookies.</p>
+                  <p class="copy"><span class="hdg3">IP Addresses</span></p>
+                  <p class="copy">PSCU Financial Services uses Internet Protocol 
+                    (IP) addresses to analyze trends, administer the site, track 
+                    movement of users, and gather broad demographic information 
+                    for aggregate use. IP addresses are not linked to personally 
+                    identifiable information.</p>
+                  <p class="hdg3">Demographic Information</p>
+                  <p class="copy">PSCU Financial Services will share aggregated 
+                    demographic information with their partners. This is not linked 
+                    to any personal information that can identify any individual 
+                    person. These statistics help us evaluate the effectiveness 
+                    and appeal of various services and segments of our site.</p>
+                  <p class="copy"><a href="#top"><img src="images/top.gif" width="56" height="23" border="0"></a> 
+                  </p>
+                  <p></p>
+                  <hr>
+                  <p class="hdg3"><a name="security"></a><span class="hdr2">Security</span></p>
+                  <p class="copy">PSCU Financial Services defines Security as 
+                    the procedures and hardware and software infrastructure in 
+                    place to protect sensitive information from the unwanted acquisition, 
+                    tampering, or use by unauthorized parties.</p>
+                  <p class="copy">PSCU Financial Services has technological and 
+                    operational security functions in place to protect personally 
+                    identifiable information from loss, misuse, alteration, or 
+                    destruction. Only authorized employees have access to the 
+                    data you provide and that access is limited by need. Our employees 
+                    who have access to the data you provide have agreed to maintain 
+                    the confidentiality of such information.</p>
+                  <p class="copy">PSCU Financial Services' web sites are secure 
+                    sites, meaning that all exchanges between the end user's web 
+                    browser and the site are protected by Secure Sockets Layer 
+                    (SSL) 128-bit encryption.<br>
+                  </p>
+                  <p class="copy"><a href="#top"><img src="images/top.gif" width="56" height="23" border="0"></a></p>
+                  <hr>
+                  <p class="hdg3"><a href="http://www3.trusecure.com/cert_info/certified.shtml?CERTID=082101400" target="_blank"><img src="images/TS_Certified_Logo.jpg" width="75" height="78" border="0" align="right"></a><a name="truesecure"></a><span class="hdr2">TruSecure™ 
+                    Certification</span></p>
+                  <p class="copy">TruSecure® Corporation is the worldwide 
+                    leader in Internet security assurance services, including 
+                    TruSecure, a comprehensive, multi-disciplinary program that 
+                    helps hundreds of businesses reduce their information security 
+                    risks and safely implement new Internet technologies and initiatives. 
+                    TruSecure's ICSA Labs is the security industry's leading product 
+                    research and certification facility. Information Security 
+                    Magazine, published monthly by TruSecure, is the industry's 
+                    leading source for news, analysis, insight and commentary 
+                    on today's infosecurity marketplace. Through their certification 
+                    program, TruSecure reviews PSCU Financial Services' security 
+                    policies, practices, and physical and technical infrastructure 
+                    and works with PSCU Financial Services to implement a comprehensive 
+                    and continuous risk reduction program. To review the TruSecure 
+                    Perimeter Management &amp; Certification Report, <a href="pdfs/truesecure_report.pdf" target="_blank">click 
+                    here</a>.</p>
+                  <p class="copy">Please visit <a href="http://www.trusecure.com" target="_blank">www.trusecure.com</a> 
+                    for additional information.<br>
+                  </p>
+                  <p class="copy"><a href="#top"><img src="images/top.gif" width="56" height="23" border="0"></a> 
+                  </p>
+                  <p></p>
+                  <hr>
+                  <p class="hdg3"><a name="account"></a><span class="hdr2">Accountability 
+                    &amp; Responsibility</span></p>
+                  <p class="copy">PSCU Financial Services follows guidelines set 
+                    forth by the TruSecure Corporation that are designed to provide 
+                    baseline standards of privacy protection adherence. In addition, 
+                    we comply with applicable privacy regulations and support 
+                    consumer, government and industry efforts to identify and 
+                    resolve privacy issues.</p>
+                  <p class="copy">Should PSCU Financial Services decide to change 
+                    our privacy policies, we will post those changes on the home 
+                    page of our web site so users are always aware of the information 
+                    each site collects, how our site uses such information, and 
+                    under what circumstances, if any, our site discloses such 
+                    information. If at any point PSCU Financial Services decides 
+                    to use personally identifiable information in a manner different 
+                    from that stated at the time it was collected, we will notify 
+                    users by email. Users will have a choice as to whether or 
+                    not we use their information in this different manner. We 
+                    will use information in accordance with the privacy policy 
+                    under which the information was collected.</p>
+                  <p class="copy">We recognize that your trust in us is directly 
+                    proportional to the manner in which we protect the privacy 
+                    of your consumer information. We will always exceed your expectations.</p>
+                  <p class="copy"><a href="#top"><img src="images/top.gif" width="56" height="23" border="0"></a> 
+                  </p>
+                  <hr>
+                  <p class="hdg3"><a name="children"></a><span class="hdr2">Children</span></p>
+                  <p class="copy">PSCU Financial Services recognizes the importance 
+                    of protecting children's privacy in the interactive, online 
+                    world. We do not intentionally target or solicit children 
+                    under the age of 18. Some of our content may be designed to 
+                    educate young adults on financial and credit-related material.</p>
+                  <p class="copy"><a href="#top"><img src="images/top.gif" width="56" height="23" border="0"></a></p>
+                  <p></p>
+                  <hr>
+                  <p class="hdg3"><a name="FAQs"></a><span class="hdr2">FAQs</span></p>
+                  <blockquote> 
+                    <p class="hdg4">Q: Does PSCU Financial Services use cookies 
+                      in any of their web products?</p>
+                    <p class="copy">A: Whenever possible, PSCU Financial Services 
+                      avoids the use of cookies in its applications. This is to 
+                      ensure that our web applications run on as wide a variety 
+                      of web browsers and viewers as possible.</p>
+                    <hr>
+                    <p class="hdg4">Q: What kind of security does PSCU Financial 
+                      Services have in place to safeguard sensitive information, 
+                      such as account numbers, that users may enter?</p>
+                    <p class="copy">A: Any sites that PSCU Financial Services 
+                      hosts to support its web products, such as InfoLink and 
+                      PayLink, are secure sites. This means that all exchanges 
+                      between the end user's web browser and the sites are protected 
+                      by Secure Sockets Layer (SSL) 128-bit encryption. PSCU Financial 
+                      Services further uses Verisign Class-3 Security Certificates 
+                      to enable 128-bit encrypted SSL sessions in some browsers 
+                      that only have 56-bit cypher strength, such as Microsoft's 
+                      browser that is approved for export outside of the United 
+                      States. This is especially relevant to credit unions that 
+                      have an overseas membership base.</p>
+                    <hr>
+                    <p class="hdg4">Q: How does PSCU Financial Services protect 
+                      its data center from intrusion by hostile forces?</p>
+                    <p class="copy">A: PSCU Financial Services' internetworking 
+                      architecture includes several components that collectively 
+                      provide a high degree of protection from unwanted intrusions 
+                      or malicious hacking attempts. Our routers include packet-filtering 
+                      capabilities; our firewalls hide all of our internetworks 
+                      from the public Internet; and we use intrusion detection 
+                      and scanning hardware and software to detect any threats 
+                      to security in real-time.</p>
+                    <hr>
+                    <p class="hdg4">Q: How secure is my bill payment and personal 
+                      information?</p>
+                    <p class="copy">A: PSCU Financial Services and its electronic 
+                      billing and payment partner, CheckFree, use several methods 
+                      to ensure that your members' bill payment information is 
+                      secure.</p>
+                    <ul>
+                      <li class="copy">User Name and Password - The user name 
+                        and password that your members use to access Web Bill 
+                        Pay are unique identifiers that only your member knows. 
+                        As long as your members do not share their user name and 
+                        password with anyone, no one but the member can sign in 
+                        to use Web Bill Pay.</li>
+                      <li class="copy">SSL and Encryption - Web Bill Pay uses 
+                        SSL (secure sockets layer) and 128-bit encryption, which 
+                        ensures that your connection and information are secure 
+                        from outside inspection.</li>
+                      <li class="copy">Automatic Sign Out - Web Bill Pay automatically 
+                        signs a user out of a session if the user is inactive 
+                        longer than ten minutes.</li>
+                    </ul>
+                    <hr>
+                    <p class="hdg4">Q: What does PSCU Financial Services do with 
+                      information it captures during a member's use of any of 
+                      its Internet products?</p>
+                    <p class="copy">A: Currently, PSCU Financial Services does 
+                      not share any member-provided information with any outside 
+                      parties. The information is stored in databases in our secure 
+                      data center. However, it is possible that in the future 
+                      PSCU Financial Services may need to share aggregated demographic 
+                      information with select partners to facilitate the building 
+                      of programs and campaigns for cultivating lasting customer 
+                      relationships and loyalty.</p>
+                    <hr>
+                    <p class="hdg4">Q: Will we use any IP addresses to analyze 
+                      any of our user trends?</p>
+                    <p class="copy">A: Whether we specifically use IP addresses 
+                      or some other tracking or auditing data elements, we will 
+                      need to analyze user behavior within our sites. This is 
+                      to enable us to track consumer volume, determine requirements 
+                      for additional hardware and software, create usage reports 
+                      for subscribing institutions, and measure the success of 
+                      our products.</p>
+                    <hr>
+                    <p class="hdg4">Q: Will any of PSCU Financial Services' web 
+                      sites hyperlink to other web sites?</p>
+                    <p class="copy">A: Yes, but in most cases the link will be 
+                      transparent to the user. In other words, a PSCU Financial 
+                      Services site may transfer control to another partner's 
+                      site to manage a particular element of a session, such as 
+                      bill payment using the CheckFree bill payment engine.</p>
+                    <p class="copy"><a href="#top"><img src="images/top.gif" width="56" height="23" border="0"></a></p>
+                  </blockquote>
+                  <p class="copy">&nbsp;</p>
+                  <!-- #EndEditable --></td>
+              </tr>
+              <tr>
+                <td height="215"></td>
+                <td></td>
+              </tr>
+            </tbody></table>
+          </td>
+          <td width="207" valign="top" height="304"> 
+            <table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" width="100%" height="100%">
+              <tbody><tr> 
+                <td background="images/bg_vert.gif" width="1" height="300"><img src="images/transpix.gif" width="1" height="1"></td>
+                <td width="100%" valign="top" height="300"> 
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#E8E8E7" height="264">
+                    <tbody><tr> 
+                      <td width="207" valign="top" height="19" align="right"> 
+                        <div align="right"><img src="images/spotlight_new.gif" width="206" height="23" alt="spotlight"></div>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="middle" align="center" bgcolor="#E8E8E7" height="225"><applet code="ticker.class" width="182" height="206" alt="If your web browser could run this applet, you would see scrolling text that is linked to other web pages within the DIS's web site" align="right">
+                          <param name="filename" value="news.txt">
+                          <param name="font" value="Verdana">
+                          <param name="size" value="12">
+                          <param name="target" value="_self">
+                          <param name="xmargin" value="7">
+                          <param name="ymargin" value="3">
+                          <param name="irect" value="E8E8E7">
+                          <param name="orect" value="E8E8E7">
+                          <param name="ntext" value="000066">
+                          <param name="htext" value="FF0000">
+                          <param name="speed" value="18">
+                        </applet></td>
+                    </tr>
+                    <tr> 
+                      <td height="53" bgcolor="#FFFFFF" valign="top" align="center"> 
+                        <table width="90%" border="0" cellpadding="0" cellspacing="0">
+                          <tbody><tr> 
+                            <td width="207" height="53"><!-- #BeginEditable "Testimonial" --><br>
+                              <div align="center"> 
+                                <p class="testimonial"><br>
+                                </p>
+                              </div>
+                              <!-- #EndEditable --></td>
+                          </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+              <tr> 
+                <td height="2"></td>
+                <td height="2"></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<map name="Map"> 
+  <area shape="rect" coords="0,0,56,15" href="contact_us.htm" alt="Contact Us" title="Contact Us">
+  <area shape="rect" coords="63,-1,153,18" href="login.htm" alt="MemberConnect" title="MemberConnect">
+  <area shape="rect" coords="167,-2,208,17" href="search" alt="Search" title="Search">
+</map>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tbody><tr> 
+    <td align="left" bgcolor="#FFFFFF" height="25" valign="top"> 
+      <div align="center"><a href="terms_of_use.htm" class="smallText">Terms 
+        Of Use</a><img src="images/diamond_smallest.gif" width="21" height="21" align="absmiddle" hspace="10"><a href="privacy.htm" class="smallText">Privacy</a> 
+        <span class="exfile_hdr"><img src="images/diamond_smallest.gif" width="21" height="21" align="absmiddle" hspace="10"></span><span class="copy">1-800-443-7728</span><span class="exfile_hdr"> 
+        </span><img src="images/diamond_smallest.gif" width="21" height="21" align="absmiddle" hspace="10"><span class="copy">2004 
+        © PSCU Financial Services</span></div>
+    </td>
+  </tr>
+</tbody></table>
+
+<!-- #EndTemplate -->
+
+
+
+</body></html>
