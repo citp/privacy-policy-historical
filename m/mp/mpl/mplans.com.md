@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622213052id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203023741id_/http%3A//mplans.com/cm/ps.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Bplans.com
+# Privacy Policy - Mplans.com
 
  [Home](https://web.archive.org/index.cfm) > Privacy Policy   
 [](https://www.truste.org/validate/3759)  
