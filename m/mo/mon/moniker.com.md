@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206060609id_/http%3A//www.moniker.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616085709id_/http%3A//www.moniker.com/help/privacy.html) for the most accurate reproduction.*
 
-# Moniker.com - more than a name
+# Register a domain name and buy affordable web hosting with Moniker.com hosting provider and registrar
 
-**_MONIKER ONLINE SERVICES, LLC PRIVACY POLICY_** __
+**_MONIKER ONLINE SERVICES, LLC PRIVACY POLICY_**
 
 Moniker.com is owned and operated by Moniker Online Services, LLC.  Moniker Online Services, LLC is committed to safeguarding your privacy online. This statement is therefore set out to outline how we make use of the information you submit to us during registration. The terms contained on this page may be revised from time to time. To protect your interests, visit this page periodically to review the current terms of our policy.
 
@@ -22,7 +22,7 @@ Moniker.com may occasionally conduct customer surveys to better target our conte
 
 Moniker.com may conduct contests in which we request certain personal information. These contests and sweepstakes are conducted in full accordance with United States and Canadian federal and state laws. The full rules and all information about such contests are clearly posted during such events. Information gathered is used only to verify user identity and to contact winners and/or prize recipients, except when specifically noted otherwise. Again, we do not share information about specific individuals with any third party, except as noted previously. 
 
-3.         Usage Tracking
+3.         Usage tracking
 
 Moniker.com tracks user traffic patterns throughout Moniker.com and this information is correlated with data about individual users. 
 
