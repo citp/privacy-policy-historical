@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwin.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205072208id_/http%3A//www.iwin.com/iwin/user/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwin.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605112318id_/http%3A//www.iwin.com/iwin/user/privacy.jsp) for the most accurate reproduction.*
 
-# iwin Privacy Policy - online games and multiplayer games to play for free and to win money
+# iwin Privacy Policy - Play free online GAMES, win big PRIZES, and chat with FRIENDS.
 
 ### Privacy Policy
 
@@ -64,4 +64,4 @@ The foregoing policy is effective as of November 2001. iWin.com reserves the rig
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, iWin.com practices, or feel that your privacy has been compromised, please [e-mail](mailto:support@nextgame.com) us.
+If you have any questions about this Privacy Policy, iWin.com practices, or feel that your privacy has been compromised, please [e-mail](mailto:support@iwin.com) us.
