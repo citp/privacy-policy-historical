@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602134458id_/http%3A//matcotools.com/CustomerCare/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214130713id_/http%3A//matcotools.com/CustomerCare/privacy.jsp) for the most accurate reproduction.*
 
 # Matco Tools - A Division of Danaher
 
@@ -78,6 +78,6 @@ Stow Ohio, 44224
 
 customerservice@matcotools.com  
 866-BUY-TOOLS (866-289-8665)  
-Fax Number: 210-706-1949
+Fax Number: 330-926-5323
 
 Top of Page
