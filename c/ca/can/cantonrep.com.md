@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cantonrep.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209045426id_/http%3A//cantonrep.com/index.php%3Fexternal%3Dstatic/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cantonrep.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630155858id_/http%3A//www2.cantonrep.com/index.php%3Fexternal%3Dstatic/privacy.htm) for the most accurate reproduction.*
 
 # cantonrep.com
 
