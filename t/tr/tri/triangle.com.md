@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triangle.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621090707id_/http%3A//triangle.com/triangle.com/help/policies/story/1612714p-1345629c.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triangle.com privacy policy that was archived on 2003-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030808181857id_/http%3A//triangle.com/triangle.com/help/policies/story/1612714p-1345629c.html) for the most accurate reproduction.*
 
 # newsobserver.com /triangle.com/help/policies
 
