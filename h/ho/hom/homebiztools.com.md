@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebiztools.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208013512id_/http%3A//www.homebiztools.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebiztools.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404191310id_/http%3A//homebiztools.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Home Biz Tools
 
@@ -15,8 +15,8 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. For email communications, send email to [unsubscribe@homebiztools.com](mailto:unsubscribe@homebiztools.com)
-  2. For other services, specify the service and send email to [support@homebiztools.com](mailto:support@homebiztools.com)
+  1. Contact Form  
+<http://ww.homebiztools.com/contact.htm>
 
 
 
@@ -40,7 +40,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Email [contact@homebiztools.com](mailto:webmaster@homebiztools.com)
+  1. Contact Form <http://www.homebiztools.com/contact.htm>
 
 
 
@@ -49,10 +49,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can:
 
 Use the online form at:  
-[http://www.homebiztools.com/contact.htm](https://web.archive.org/web/20041208013512id_/http%3A//www.homebiztools.com/contact.htm)
-
-Email us at:   
-[webmaster@homebiztools.com](mailto:webmaster@homebiztools.com)
+[http://www.homebiztools.com/contact.htm](https://web.archive.org/web/20050404191310id_/http%3A//homebiztools.com/contact.htm)
 
 Write to us at:
 
