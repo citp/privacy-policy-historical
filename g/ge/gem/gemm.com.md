@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402130530id_/http%3A//www7.gemm.com/c/info.cgi%3Ffor_spider%3D1%26doc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204234914id_/http%3A//www.gemm.com/c/info.cgi/privacy) for the most accurate reproduction.*
 
 # Help, Info & FAQ
 
@@ -27,11 +27,11 @@ GEMM does not sell, trade, or rent your personal information to others. GEMM may
   
 **What are "cookies" and how do we use them?**
 
-Cookies are small bits of data that are sent to your browser and stored on your computer`s hard drive so that you can be distinguished from other visitors. 
+A "cookie" is a small piece of information that a website stores on your computer to allow it to distinguish it from others. It''s used in conjunction with data stored on the GEMM server. It''s needed by GEMM to preserve the continuity of your session so that you can for instance place & keep items in a shopping cart without having to log in for each item. Cookies are also used by GEMM to know which affiliate to reward for introducing you to us. Cookies also might be used to allow you or the GEMM system to customize the content to your personal preferences. 
 
-GEMM uses "cookies" in conjunction with data stored in its own server to track and record your preferences and activity on our Web site. 
+GEMM uses cookie information only for the above purposes. It does not share cookie information with other websites or businesses. In other words, the GEMM cookie can''t be used by any other company to build a larger scale profile of your browsing & buying habits. 
 
-Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features included in GEMM, including placing items in your shopping cart and purchasing them. 
+Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. You can still search for music in GEMM with cookies turned off, but features such as the shopping cart and 
 
   
 **Your consent**
