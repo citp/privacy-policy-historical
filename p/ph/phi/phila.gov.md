@@ -1,45 +1,28 @@
-> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202221433id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307060623id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.*
 
-# City of Philadelphia | Notice of Privacy Practices
+# PHILA.GOV | Welcome to the City of Philadelphia
 
-[**Notice of Privacy Practices**](https://web.archive.org/web/20031202221433id_/http%3A//www.phila.gov/pdfs/NPP_Final.pdf) **** Click to download or print this document in an Adobe Portable Document Format (PDF) file.
+[**Notice of Privacy Practices**](https://web.archive.org/web/20050307060623id_/http%3A//www.phila.gov/pdfs/Phila.gov_Privacy_Statement.pdf)Click to download or print this document in an Adobe Portable Document Format (PDF) file.
 
-**CITY OF PHILADELPHIA  
-MANAGING DIRECTOR'S OFFICE**
+[**HIPAA Privacy Statement**](https://web.archive.org/web/20050307060623id_/http%3A//www.phila.gov/pdfs/HIPAA_Privacy_Statement.pdf) Click to download or print this document in an Adobe Portable Document Format (PDF) file.
 
- ****
+**City of Philadelphia  
+eGovernment and Health Information Privacy Statement**
 
-****DEPARTMENT OF PUBLIC HEALTH  
-FIRE DEPARTMENT EMERGENCY MEDICAL SERVICES UNIT
+** Introduction  
+**The City of Philadelphia (the “City”) is committed to providing residents, visitors and business with access to government services on-line. We encourage the use of our official Website, www.phila.gov (“Website”), to interact with government. Phila.gov has various application and services to facilitate a positive on-line experience. The nature of eGovernment services requires capture, storage and management of user information. The City of Philadelphia feels strongly about its responsibility to the individual's right to privacy. Outlined is this document is our policies related to information gathered via the Internet. **
 
-**NOTICE OF PRIVACY PRACTICES**
+Personal Information
 
- ****
+** The City of Philadelphia does not collect personal information automatically from anyone visiting www.phila.gov. The user may provide personal information as a result of interacting with forms, applications, emails, or to complete an online transaction. The information offered voluntarily by the user will be protected against unauthorized use by anyone using the City's existing network security technology. 
 
-******THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.   PLEASE REVIEW IT CAREFULLY.**
+The City of Philadelphia does collect general Internet based information for statistical purposes. The user's browser type, Internet domain (www.yourcompany.com), time and date of visit, pages viewed and IP address (unique computer identifier) are examples of the type of statistical information collected. This information is collected automatically without user interaction. The data collected is used to better serve the users of www.phila.gov. The City reserves the right to forward user information to department(s) that can best serve the user and address their request.
 
- ****
+**Cookies  
+**Cookies are small data files that are transferred by a web application to the user's hard drive. These files are used to store information related to the user, such as, ID, passwords etcetera. This information is provided by the user via interaction with a web application or site. Cookies do not access information on the user's computer. Their primary purpose is to make the users experience more enjoyable on there next visit to the site. Cookie management is controlled at the browser level. The user can turn off cookie transfer via the configuration option of their browser. The applications on www.phila.gov may at times transfer cookies to the user's hard drive. The City is committed to using cookie technology responsibly and will make every effort to protect the user's computer environment from highly unlikely cookie related damage. 
 
-****The mission of the City of Philadelphia Departments of Public Health and Fire Emergency Medical Services is to protect the public by providing efficient and effective health and emergency medical services.   Your health information is private.  Keeping the privacy of your health information is important to us.  This notice describes how we may use your personal health information, what your rights are,and what our responsibilities are.
+**Third Party Data Sharing  
+**The City of Philadelphia does not share information provided by the user with third party organizations. It does however reserve the right to share information with organizations under contract to act on the City's behalf. Any information forwarded to the City from contractual third parties will be held in the strictest confidence and used only for the purposes identified in the capturing transaction. The relevant information maybe shared with other government related agencies as outline by the various federal, state and local government information laws, such as, the Freedom of Information Act. 
 
-**In this document City means the Department of Public Health and Fire Department Emergency Medical Services only.**
-
- ****
-
-******REASONS THAT YOUR PROTECTED HEALTH INFORMATION MAY USED AND DISCLOSED**
-
- ****
-  * **For Treatment**. The City is allowed to use and disclose your protected health information information in order to treat you. For example, doctors, nurses, medical technicians and other staff may discuss your case with other health care providers in order to treat you.
-  * **For Payment.** The City is allowed to use and disclose your protected health information in order to get payment for your treatment. For example, the City may disclose the type of treatment provided to you in order to get payment from an insurance company. Your information may also be shared with other government programs such as Medicaid and Medicare to coordinate benefits.
-  * **For Health Care Operations.** The City is allowed to use and disclose your protected health information in order to continue its health care operations. For example, your information may be used or disclosed by a nurse to social worker for case management purposes and care coordination with other providers of service who may be involved in your case. Your information may be used to review and evaluate our performance in providing services.
-  * **Appointment Reminders.** The City may use your protected health information to contact you to remind you about your appointments, to give you information on treatment alternatives and to provide you with information on other health related benefits and services.
-  * **Business Associates.** There are some services provided by the City through contracts with businesses. Examples include health care providers and consultants. When these services are agreed upon, we may share your health information with these businesses s so that they can perform the job we have asked them to do. To protect your health information we require the business associates to keep your information private.
-  * [**Continued...**](https://web.archive.org/web/20031202221433id_/http%3A//www.phila.gov/privacy/privacycont.html) ****
- ****
-****
-
-****[**More...**](https://web.archive.org/web/20031202221433id_/http%3A//www.phila.gov/privacy/privacymore.html) **  
-AUTHORIZATIONS  
-YOUR RIGHTS REGARDING PROTECTED HEALTH INFORMATION  
-THE CITY'S DUTIES  
-QUESTIONS & COMPLAINTS**
+**Security  
+**The City of Philadelphia is committed to data security and the data quality of personally identifiable information that is either available from or collected by our Website and has taken reasonable precautions to protect such information from loss, misuse, or alteration. When any online bill-pay application on the Website accepts credit cards or other particularly sensitive information for its online bill-pay services, it encrypts all ordering information, such as your name and credit card number, in order to protect its confidentiality, and will not retain your information longer than is necessary to complete the transaction. Unless a particular web page on the City's Website indicates that encryption technology is being used, the user should not assume that information uploaded through that web page to the City's web server will be treated as confidential. If a user submits information to the City's server through a web page containing visible indicators of active encryption technology, the City will take all reasonable precautions to safeguard the confidentiality of such information, but shall nevertheless not be held liable for any injury caused by the disclosure of that information, whether caused by security breach, accident, inadvertence, or any other act resulting in disclosure. 
