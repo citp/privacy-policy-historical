@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physionet.org privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815182408id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physionet.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013502id_/http%3A//physionet.org/privacy.shtml) for the most accurate reproduction.*
 
 # PhysioNet Privacy Policy
 
@@ -10,11 +10,11 @@ We do not use "cookies" on our web site. Our web servers collect information abo
 
 You may register as a member of PhysioNet if you use PhysioBank data or PhysioToolkit software, or if you wish to contribute data, software, or commentary to the PhysioNet web site. The information you submit with your registration is entered into the PhysioNet membership database. The PhysioNet membership database is never sold, rented, lent, exchanged, or used for anything other than official PhysioNet activity. We may elect to send members mailings with information from other groups, but the mailings will always originate with PhysioNet. 
 
-Members may post data, software, and commentary via PhysioNet (once these services are available), but all such postings are identified by the member's e-mail address (at a minimum; you may of course include other identifying information, such as a PGP signature, if you wish). 
+Members may post data, software, and commentary via PhysioNet, but all such postings are identified by the member's e-mail address (at a minimum; you may of course include other identifying information, such as a PGP signature, if you wish). 
 
-Our privacy policy is based on those adopted by [Computer Professionals for Social Responsibility](http://www.cpsr.org/) and by the [Privacy Rights Clearinghouse](http://www.privacyrights.org/). 
+Our privacy policy is based on those adopted by [Computer Professionals for Social Responsibility](http://www.cpsr.org/) and by the [Privacy Rights Clearinghouse](http://www.privacyrights.org/). This is a [P3P-enabled](http://www.w3.org/P3P/) web site. If you are using a P3P-enabled web browser, it should be able to fetch our P3P policy automatically. If not, here are our [P3P policy](https://web.archive.org/w3c/policy1.xml) and [P3P policy reference](https://web.archive.org/w3c/p3p.xml) files. 
 
-Please e-mail your comments and suggestions to [ `webmaster@physionet.org`](mailto:webmaster@physionet.org?subject=http://www.physionet.org/privacy.shtml), or post them to: 
+Please e-mail your comments and suggestions to [ `webmaster@physionet.org`](mailto:webmaster@physionet.org?subject=http://physionet.org/privacy.shtml), or post them to: 
 
 _PhysioNet  
 MIT Room E25-505A  
@@ -22,4 +22,4 @@ MIT Room E25-505A
 Cambridge, MA 02139 USA  
 _
 
-Updated Thursday, 08 February 2001 at 22:29 EST 
+Updated Saturday, 16 March 2002 at 21:22 EST 
