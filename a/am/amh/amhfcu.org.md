@@ -1,7 +1,23 @@
-> *The following text is extracted and transformed from the amhfcu.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622000840id_/http%3A//www.amhfcu.org/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amhfcu.org privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217041723id_/http%3A//www.amhfcu.org/ASP/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
+| [](https://web.archive.org/web/20031217041723id_/http%3A//www.amhfcu.org/default.htm)[](https://web.archive.org/web/20031217041723id_/http%3A//www.amhfcu.org/default.htm)  
+[](https://web.archive.org/web/20031217041723id_/http%3A//www.amhfcu.org/ASP/employment.asp)  
+[](https://web.archive.org/web/20031217041723id_/http%3A//www.amhfcu.org/ASP/cufees.asp)  
+[](https://web.archive.org/web/20031217041723id_/http%3A//www.amhfcu.org/calculat.htm)  
+[](https://web.archive.org/web/20031217041723id_/http%3A//www.amhfcu.org/ASP/privacy.asp)  
+|  | 
+
+| 
+
+American Heritage Federal Credit Union  
+On-Line Privacy Statement  
+  
+---  
+Because the privacy of our Members and other visitors to this website is of utmost importance, American Heritage Federal Credit Union has adopted the following privacy policy:  
+  
+_**A Private Note to our Members:**_  
 | American Heritage Federal Credit Union is committed to making available financial products and services that will enable you to meet your financial needs and reach your financial goals. Protecting personal information and using it in a manner consistent with your expectations is a high priority for everyone associated with your Credit Union.
 
 As a Member of American Heritage FCU, you also have a responsibility to safeguard your financial information. To ensure that you can rely upon the quality of products and services we make available, American Heritage FCU stands behind the following privacy policy:
@@ -28,4 +44,6 @@ As a Member of American Heritage FCU, you also have a responsibility to safeguar
 ****
   * **American Heritage FCU will offer you a choice in how your information is used.** Any Member of American Heritage FCU may elect to keep information from being shared with business partners. We will inform you on how to exercise your choice, and we will take reasonable steps to make sure your requests are followed. At least once a year, we will remind all Members of your right to choose.
 
-
+  
+  
+ 
