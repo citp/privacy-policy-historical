@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the abcdistributing.com privacy policy that was archived on 2001-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011014200624id_/http%3A//abcdistributing.com/service/privacy.cfm%3Flp%3Dshop/index%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcdistributing.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004173632id_/http%3A//www.abcdistributing.com/service/privacy.cfm%3Flp%3Dshop/index%26) for the most accurate reproduction.*
 
 # Welcome to Online Shopping with abc!
 
   
 
 
-Every time you visit [www.abcdistributing.com](http://www.abcdistributing.com/), our web server automatically recognizes only your domain name and only collects basic information to help us best serve your current and future shopping needs. This data includes the number of pages you visit as well as the Uniform Resource Locator (URL) of where you were on the Internet if you clicked a link to our site, any terms you may have used in a search which directed you to our site, and whether you came to our site from a bookmark. We cannot identify you individually from your screen name if you are using America Online or one of the other major online services. 
-
-Naturally, if you request a catalog, we will need your name, the name of the company you work for (since abc distributing, inc. only sells to businesses) and an address where we should send the catalog. We will also ask for a phone number we can use to contact you if any of the information provided is incorrect (for example, if there is a typographical error.) If you wish to set up an account and purchase merchandise from us, we may ask for additional information. 
+If you request a catalog, we will need your name, the name of the company you work for (since abc distributing, inc. only sells to businesses) and an address where we should send the catalog. We will also ask for a phone number we can use to contact you if any of the information provided is incorrect (for example, if there is a typographical error.) If you wish to set up an account and purchase merchandise from us, we may ask for additional information. 
 
 We also track the total number of visitors to our site in an aggregate form to allow us to update and improve our site; personally identifiable information is not extracted in this process.
 
 Return to top
 
-"Cookies" are small pieces of data that are stored in the memory of your browser, and on the hard drive of your computer. A cookie is used to identify you when you return to our site. This makes your visit more personalized and convenient. When you are ready to place an order, we use cookies to pre-fill out certain parts of the order form, such as your name, address and account number, making it easier for you. They also allow you to place items in your shopping cart, leave the website, and then return to check out at a later time. 
+"Cookies" are small pieces of data that are stored in the memory of your browser, and on the hard drive of your computer. A cookie is used to identify you when you return to our site. This makes your visit more personalized and convenient. When you are ready to place an order, we use cookies to pre-fill out certain parts of the order form, such as your name, address and account number, making it easier for you. They also allow you to place items in your shopping cart, leave the website, and then return to check out at a later time. In addition, once you log in to our Online Service Center, we use a cookie to check your identification each time you ask for a transaction, to ensure that we do not release information on your account to unauthorized individuals. If you do not have cookies enabled on your machine, you will not be able to use the Online Service Center.
 
 Cookies also help us monitor whether our website is functioning properly and to perform site traffic analysis. At any time, you have the option to set your browser to either refuse cookies, or alert you when a cookie is being sent. You should be aware, however, that if you have chosen not to accept cookies, your shopping cart will be emptied when you leave our site. In any case, the information provided by your browser or computer is used to maintain session contacts with you, and is not used for any other purpose, nor is it shared with others. 
 
@@ -41,6 +39,15 @@ Employees or contractors who have access to our personal information are require
 
 Return to top
 
-Our web site is not directed at children. However, children may access our web site and provide information. They may request information regarding our products and services and attempt to order certain products and services. Because abc distributing, inc. sells exclusively to businesses, there is less chance that a child will be able to place an order with us, but in any case, children should seek the consent of their parents before providing any information about themselves or their households on the Internet.
+abc distributing, inc. does not sell products for purchase by children. Children are not allowed to open accounts with us. If you are a child who may have accessed this website, please make sure that a parent knows that you are visiting us and ask for their help. Please have your parent read this information with you.
+
+If parents have any inquiries about the abc distributing, inc. Children's Privacy Policy, please contact our legal department by email: [custservice@abcdistributing.com](mailto:custservice@abcdistributing.com) or at the following address: 
+
+abc distributing, inc.  
+Legal Department  
+6301 East 10th Avenue  
+Hialeah, FL 33012
+
+**Parents:** abc distributing, inc. encourages you to ensure that your child's use of an access to [www.abcdistributing.com](http://www.abcdistributing.com/) is under your supervision and within the guidelines that only you have established for them. 
 
 Return to top
