@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602211201id_/http%3A//logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204190348id_/http%3A//www.logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions, Inc.
 
@@ -16,7 +16,7 @@ At Logical Expressions, Inc., we know that you value your privacy, so we want yo
 
 
 
-To send you an e-zine, we obviously need your e-mail address. However, our privacy policy is very simple: we will not ever not rent or sell your name, e-mail address or other information about you to anyone else. Ever.
+To send you an e-zine, we obviously need your e-mail address. However, our privacy policy is very simple: we will not ever rent or sell your name, e-mail address or other information about you to anyone else. Ever.
 
 Similarly, if you send us an e-mail, we use your return email addresses to answer the e-mail. However, we don't use your address for any other purpose and we absolutely do not share it with any outside parties.
 
