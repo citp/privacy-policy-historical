@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152854id_/http%3A//www.uscav.com/uscprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209121103id_/http%3A//www.uscav.com/uscprivacy.asp) for the most accurate reproduction.*
 
 # US CAVALRY - Boots, camping, military, camo, police, & survival gear
 
@@ -64,7 +64,7 @@ By **E-mail** : [service@uscav.com](mailto:service@uscav.com)
 
 **_Safe & Secure Shopping!_**
 
-We are aware that our customers have concerns regarding the use of credit cards over the Internet. We share your concern and have provided the ability to encrypt your transactions using our Secured Sockets Layer ([SSL](https://web.archive.org/web/20020603152854id_/http%3A//www.uscav.com/uscprivacy.asp#ssl)), ensuring that your ordering information remains private, protected, and secure. This means that your name, address, credit card numbers and any other information you provide through our SSL, cannot be read by anyone else. In order for you to take advantage of this technology, you must be using an [SSL-enabled browser](https://web.archive.org/web/20020603152854id_/http%3A//www.uscav.com/uscprivacy.asp#browsers). So you can rest assured that your credit card information is safe and protected ( **Much more safer than using your credit card at a store or restaurant!** ).
+We are aware that our customers have concerns regarding the use of credit cards over the Internet. We share your concern and have provided the ability to encrypt your transactions using our Secured Sockets Layer ([SSL](https://web.archive.org/web/20021209121103id_/http%3A//www.uscav.com/uscprivacy.asp#ssl)), ensuring that your ordering information remains private, protected, and secure. This means that your name, address, credit card numbers and any other information you provide through our SSL, cannot be read by anyone else. In order for you to take advantage of this technology, you must be using an [SSL-enabled browser](https://web.archive.org/web/20021209121103id_/http%3A//www.uscav.com/uscprivacy.asp#browsers). So you can rest assured that your credit card information is safe and protected ( **Much more safer than using your credit card at a store or restaurant!** ).
 
   
 
