@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the freelayouts.com privacy policy that was archived on 2001-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010812220143id_/http%3A//www.freelayouts.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelayouts.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605083104id_/http%3A//www.freelayouts.com/privacy.php) for the most accurate reproduction.*
 
-# Free Layouts : Free Website Templates, Flash Movies, and 25,000+ Graphics!
+# Free Layouts.com: Free Web Templates, Flash Movies, and 25,000+ Graphics!
 
 **Privacy Statement for FreeLayouts.com**  
 We created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: FreeLayouts.com 
 
 **Information Automatically Logged**  
-We use your IP address to help diagnose problems with our server and to administer our Web site. We do not use your IP address for any reason other than the ones hereby mentioned. 
+We use your IP address to help diagnose problems with our server and to administer our Web site. IP's are also monitored by our topsite ranking system to prevent any site from cheating. Submissions to our template system will log your ip automatically onto our server. We do this to prevent any attempts to hack our server or any malicious attacks. 
 
 **Cookies**  
-Our Site may use cookies. This information is collected by our server, and is use soley for site statistics information. 
+Our Site may use cookies. This information is collected by our server, and is used for statistical purposes as well as template community log-in verification. We may also utilize cookies for use with our topsite. These cookies are used to monitor how many unique visits you send our ranking system. 
 
 **Advertisers**  
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
@@ -23,5 +23,5 @@ This site contains links to other sites. FreeLayouts.com is not responsible for 
 **E-mail**  
 Free Layouts.com offers free e-mail powered by everyone.net. For more information regarding the privacy practices of this email program, read the end-user agreement before signing up. 
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@freelayouts.com](mailto:webmaster@freelayouts.com)
+**Contacting this Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [john@freelayouts.com](mailto:john@freelayouts.com)
