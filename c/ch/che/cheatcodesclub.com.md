@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the cheatcodesclub.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010052331id_/http%3A//www.cheatcodesclub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodesclub.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403093948id_/http%3A//www.cheatcodesclub.com/privacy.php) for the most accurate reproduction.*
 
 # Cheat Codes Club - Cheat Codes Search Engine - Privacy Policy Statement
 
-  
-Privacy Policy Statement
+**Privacy Policy Statement**
 
 This is the web site of Cheat Codes Club. 
 
