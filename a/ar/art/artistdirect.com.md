@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203044817id_/http%3A//network.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607062527id_/http%3A//network.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
 
 # Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTIST direct Network
 
@@ -83,7 +83,7 @@ Our Site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-> 1.send email to [customerservice@artistdirect.com](mailto:customerservice@artistdirect.com)  
+> 1.send email to [marketfirstin@artistdirect.com](mailto:marketfirstin@artistdirect.com)  
 >  2\. call the toll-free: 1-877-5-ARTIST (1-877-527-8478)
 
 ****
@@ -92,7 +92,7 @@ This site gives users the following options for removing their information from 
 
 ARTISTdirect.com gives users the following options for reviewing and modifying information previously provided. 
 
-> 1\. email _[customerservice@artistdirect.com](mailto:customerservice@artistdirect.com)   
+> 1\. email _[editor@artistdirect.com](mailto:editor@artistdirect.com)   
 >  _2\. call toll-free 1-877-5-ARTIST (1-877-527-8478)
 
 ****
