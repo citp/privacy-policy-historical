@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184027id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203003427id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # About Swirve.com
 
 | 
 
-**Swirve.com... The way the web ought to be.**
+NOTE: Read about [**Major Changes**](javascript:MailChange\(\);) for swirve.com email. 
+
+**Swirve.com... Tastes like chicken.**
 
 |   
 ---  
@@ -66,17 +68,14 @@ SWIRVE.COM!**
 * * *
 
   
-Angel, you were the best cat in the world. I'll miss you always and wish you could still be with us.   
-_Dad_
+Ulrika, I can't stop thinking about you. Since the first time I saw you, my thoughts have been filled with you. I believe I love you.   
+_\- Stefan_
 
-Carri -- I love you more than life. I just want you to know that.   
-_Love, Kevin_
+Heida - Ditto, sweety. You're the only one for me... I'm not perfect, but I'm trying to be the best man I can. Do not worry, I may fall down, but I get up and keep charging...   
+_Love you always, Rob_
 
-JoJo, I love the way you shake that booty when you dance. We should dance more often! I love your snuggles, so let's snuggle all the time! Kiss me you silly billy!   
-_Bubu_
-
-Wayne, The days are long, the nights, forever without you by my side.   
-_I miss you always, Margo_
+Gweedo ... I just wanted to say I love you more than ever. Hope we'll stay together forever!   
+_\- Butterfly_
 
 Want to say something? [Tell Us!](javascript:Users\(\);)  
   
