@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecall.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008161338id_/http%3A//www.onecall.com/Policies.mpt%3FPos%3D134) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecall.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193023id_/http%3A//www.onecall.com/Policies.mpt%3FPos%3D134) for the most accurate reproduction.*
 
 # OneCall: Privacy Policy
 
@@ -20,7 +20,7 @@ Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
 
-  1. You can manage your preferences by [editing your profile](https://web.archive.org/web/20031008161338id_/http%3A//www.onecall.com/EmailProfile.mpt?MIActive=1)
+  1. You can manage your preferences by [editing your profile](https://web.archive.org/web/20040602193023id_/http%3A//www.onecall.com/EmailProfile.mpt?MIActive=1)
   2. You can send us an e-mail 
   3. You can send United States Postal mail to the following postal address: OneCall, Attn: Webmaster, P.O. Box 13069, Spokane, WA 99213
   4. You can call the following telephone number: 1.800.340.4770
