@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601122409id_/http%3A//bankatlantic.com/qaprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211843id_/http%3A//www.bankatlantic.com/qaprivacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy Q and A
+# BankAtlantic Online Privacy Policy
 
 This online notice supplements BankAtlantic’s Privacy Policy and is intended to help you understand how we keep non public information about you secure and confidential.  If you have not already done so, we suggest that you review the full text of our Privacy Policy.  Please click here.  
   
@@ -19,11 +19,9 @@ More information about Online Banking, privacy, and information security:
 
 
  ** _What information does BankAtlantic ask for and how is it used?_**    
-When you register for Online Banking, BankAtlantic will ask you for basic registration information, such as your name, address, social security, existing BankAtlantic account number(s), your city of birth (or business industry), mother’s maiden name (or business license number), date of birth (or date founded), contact telephone numbers, a user ID and password which you choose, and an E-mail address for customer service. Additional information may be required to utilize value-added features of Online Banking, such as Funds Transfer, Telephone Banking, Bill Payment and BankAtlantic PowerView, or to access specific third party Internet services such as BankAtlantic ShareBuilder. If you decide to open an account online, or when completing one of our customer surveys we will also ask you for basic registration information, such as the type of information highlighted above.   We will use the above information for providing the services and/or accessing the sites you select on your behalf, monitoring and improving our existing products and services, or for purposes of offering new product and service information of interest to you. 
+When you register for Online Banking, BankAtlantic will ask you for basic registration information, such as your name, address, social security, existing BankAtlantic account number(s), your city of birth (or business industry), mother’s maiden name (or business license number), date of birth (or date founded), contact telephone numbers, a user ID and password which you choose, and an E-mail address for customer service. Additional information may be required to utilize value-added features of Online Banking, such as Funds Transfer, Telephone Banking, and Bill Pay, or to access specific third party Internet services such as BankAtlantic ShareBuilder. If you decide to open an account online, or when completing one of our customer surveys we will also ask you for basic registration information, such as the type of information highlighted above.   We will use the above information for providing the services and/or accessing the sites you select on your behalf, monitoring and improving our existing products and services, or for purposes of offering new product and service information of interest to you. 
 
 As with most online businesses, BankAtlantic logs information about access to its website, including the IP addresses from which a user came to the site in order to diagnose problems with the server, administer the BankAtlantic.com site, and to aggregate statistical data. BankAtlantic reserves the right to share aggregated information with third parties.  For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our Privacy Policy.    
-
- **Note:**  If you elect to enroll in BankAtlantic PowerView, you authorize BankAtlantic to act as your personal agent, communicating between you and the websites you use. BankAtlantic does not accept responsibility for the actions and policies of third party sites you access, either with regard to the personal information you have provided to them, or which you authorize BankAtlantic to give them for accessing their sites, or which they obtain through your use of their sites directly and/or through the BankAtlantic PowerView service. You should be careful to review any privacy policies posted on those sites before signing up with or using them.   You will be asked to acknowledge BankAtlantic’s Terms and Conditions of its Powerview service at the time you enroll and each time you decide to add a new account.
 
  **Back To Menu**
 
@@ -49,7 +47,7 @@ If you do not wish to receive cookies, you can set your browser to alert you of 
 
  Customer data is stored in encrypted format in our Internet Banking database, and is transmitted in that encrypted format within the network.  Should you forget your password you will need to call our customer care department toll-free at 1-800-741-1700 so that it may be reset for you.
 
-For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our Privacy Policy.   For more detailed information on our Security Policy, please _[click here](https://web.archive.org/web/20020601122409id_/http%3A//bankatlantic.com/security.asp)_.
+For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our Privacy Policy.   For more detailed information on our Security Policy, please _[click here](https://web.archive.org/web/20021204211843id_/http%3A//www.bankatlantic.com/security.asp)_.
 
  **Back To Menu**
 
