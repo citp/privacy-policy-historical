@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211200100id_/http%3A//brinkster.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205084117id_/http%3A//brinkster.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
-# Brinkster :: web development, to the extreme
+# Brinkster :: web hosting to the extreme
 
 * * *
 
@@ -32,4 +32,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [info@Brinkster.com](mailto:info@Brinkster.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [info@brinkster.com](mailto:info@brinkster.com).
