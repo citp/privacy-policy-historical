@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnb-online.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610041407id_/http%3A//fnb-online.com/disclosures.asp%3FintDisType%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnb-online.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207194156id_/http%3A//www.fnb-online.com/disclosures.asp%3FintDisType%3D1%26loc%3D10) for the most accurate reproduction.*
 
 # fnb-online Disclosures
 
@@ -28,12 +28,6 @@ We limit the personal information about you which we collect and use to that whi
 
  **Accuracy**  
 We continually strive to ensure that the information we maintain about you is complete and accurate. You have the right to notify us if you believe we have reported inaccurate information about you or your account to any consumer reporting agency. Notices should be sent in writing and include your complete name, current address, Social Security Number, telephone number, account number, type of account, specific item in dispute and the reason why you believe the information reported is in error. Send your notice to:
-
-Customer Service Center of F.N.B.  
-Attn: Privacy Department  
-4140 East State Street  
-Hermitage, Pennsylvania 16148-3487  
-
 
 We will investigate your concerns and correct any inaccuracies and confirm our actions to you. 
 
@@ -79,16 +73,8 @@ We will provide notice of our Privacy Policy annually, as long as you maintain a
  **Telephone Solicitation**  
 You may request to be excluded from telephone solicitations by us and third party providers working with us. If you do not wish to receive such telephone solicitations, inform the person calling you and you will be placed on a list of people that will not be solicited by phone, or you may call the Customer Service Center of F.N.B. at 1-800-555-5455 or write to us at:
 
-Customer Service Center of F.N.B.  
-Attn: Privacy Department  
-4140 East State Street  
-Hermitage, Pennsylvania 16148-3487
-
 **Your Opportunity to Choose How Your Information is Used**  
-By sharing information among our group of affiliates, it is our intention to provide you with a full array of financial services specifically tailored to meet your needs or to save you time if you decide to open an account with one of our other companies. If you do not want us to share nonpublic information about you with our affiliates, you may opt out of those disclosures by writing to us at: Customer Service Center of F.N.B.  
-Attn: Privacy Department  
-4140 East State Street   
-Hermitage, Pennsylvania 16148-3487
+By sharing information among our group of affiliates, it is our intention to provide you with a full array of financial services specifically tailored to meet your needs or to save you time if you decide to open an account with one of our other companies. If you do not want us to share nonpublic information about you with our affiliates, you may opt out of those disclosures by writing to us at: 
 
 You may contact us at any time to change your elections.   
 If your account is a joint account, your decision to opt out will affect all account holders and we will not share the information of any account holder (other than as permitted by law). 
@@ -100,13 +86,7 @@ You should also know that even if you opt out of information disclosure, various
  **Where to Find out More**  
 If you have questions, concerns, or comments about our privacy practices or the way your information is maintained and used, we'd like to hear from you. Please call or write us at:
 
-Customer Service Center of F.N.B.  
-Attn: Privacy Department  
-4140 East State Street  
-Hermitage, Pennsylvania 16148-3487  
-Phone: 1-800-555-5455
-
- **Our Family of Companies**  
+**Our Family of Companies**  
 If you desire to view a current list of affiliates to whom this Policy applies, visit our corporate web-site at [ http://www.fnbcorporation.com](http://www.fnbcorporation.com/)
 
 As a visitor to our web site, you need not be concerned about the privacy of your personal information. Our site is not designed to collect personally identifying data on visitors.
