@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codetoad.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012071801id_/http%3A//codetoad.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codetoad.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404063253id_/http%3A//www.codetoad.com/help/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -29,6 +29,6 @@ We monitor customer traffic patterns and site usage to help us develop the desig
 By using our web site, you consent to the collection and use of this information by codetoad.com as outlined on this page. 
 
 **Feedback**  
-CodeToad.com welcomes your questions and comments about privacy. Please send e-mail to [admin@codetoad.com](mailto:admin@codetoad.com).
+CodeToad.com welcomes your questions and comments about privacy. Please send e-mail to [admin@codetoad.com](mailto:admin@codetoad.com)
 
 Top of Page
