@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003213149id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402132348id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
 
 # Game Trading Zone - Privacy
 
