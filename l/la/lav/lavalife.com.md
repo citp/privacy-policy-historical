@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavalife.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409084324id_/http%3A//www.lavalife.com/secret/privacy.epl%3Fcontext%3Da) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalife.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216074039id_/http%3A//www.lavalife.com/secret/privacy.epl%3Fcontext%3Da) for the most accurate reproduction.*
 
 # Lavalife
 
@@ -49,6 +49,8 @@ Members may choose to participate in community polls. The results of these polls
 **Advertisers**
 
 When you inquire about advertising opportunities on our site, you will be asked for contact information and information related to your advertising objectives. This information will be used to provide you with the business information you are seeking. Your information is only shared with internal staff and the external ad representation agencies that sell media space on the site, on our behalf. Lavalife sites may contain links to other sites not affiliated with Lavalife. Please note that these other sites may have privacy policies that differ from those of Lavalife. We have no control over any personal information that you provide to these sites. 
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
 **Associates**
 
