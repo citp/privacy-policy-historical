@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the homestore.com privacy policy that was archived on 2001-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010609081706id_/http%3A//www.homestore.com/AboutUs/Privacypop.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestore.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217203432id_/http%3A//homestore.com/AboutUs/Privacypop.asp) for the most accurate reproduction.*
 
-# Homestore: All About - Privacy Policy
+# Homestore: Privacy Policy
 
-    |  **All About Privacy Policy**   
-Last updated 10-5-2001
+    |  **Privacy Policy**   
+Last updated 10-5-2000
 
 HOMESTORE.COM™ TAKES YOUR PRIVACY SERIOUSLY. Please read the following to learn more  about our privacy policy. This privacy policy may be updated from time to time, so please check back  frequently. 
 
