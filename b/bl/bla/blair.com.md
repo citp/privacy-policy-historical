@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blair.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606051408id_/http%3A//www.blair.com/webapp/wcs/stores/servlet/GeneralDisplayView%3Fpage%3Dprivacy%26catalogId%3D10001%26storeId%3D10001%26langId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blair.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011021800id_/http%3A//blair.com/webapp/wcs/stores/servlet/GeneralDisplayView%3Fpage%3Dprivacy%26catalogId%3D10001%26storeId%3D10001%26langId%3D-1) for the most accurate reproduction.*
 
 # Blair.com
 
