@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605142151id_/http%3A//trollandtoad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203134331id_/http%3A//trollandtoad.com/privacy.php) for the most accurate reproduction.*
 
-# Magic The Gathering Cards, Mage Knight and Other Games For Sale
+# TrollAndToad.com: Privacy & Security
 
 **Privacy & Security Notice**
 
@@ -51,3 +51,13 @@ If you then are under 13, and want to register on our site, we suggest that inst
 If you visit the Troll and Toad Web site, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Kentucky. If you have any concerns about the privacy at Troll and Toad, please send a thorough description to [sales@trollandtoad.com](mailto:sales@trollandtoad.com), and we will try to resolve it. If we ever decide to change the way we use your personal information on our site, we will first notify you by e-mail of our intent to change our policy. You will be able to choose whether you are willing to be included in out policy change. 
 
 If we ever change our Privacy Policy, we will post that change in the News section on the front page of our site, and will leave that notice posted for at least on month. We will also notify all users who have agreed to be on our e-mail mailing list of this change in our Privacy Policy.
+
+**Log Files**
+
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are never linked to personally identifiable information. Additionally, for systems administration, detecting usage patterns and troubleshooting purposes, Troll And Toad's server automatically logs standard access information including browser type, access times/open mail, URL requested, and referral URL. While information like this may be shared with third-parties in aggregate form, individually identifiable information related to this data will never be shared with third-parties without your explicit permission." 
+
+**Email Links**
+
+We use email links located on the Contact Us page, Buying Page, FAQ Page and other informational pages, to allow you to contact us directly with any questions or comments you may have. 
+
+We read every message sent in, and reply to all questions asked within 1 business day. This information is used to respond directly to your questions or comments. We may (and often have) filed your comments to improve the site and its operations, or to correct mistakes you have pointed out to us. Your personal information is not shared outside the company under any circumstances, unless we first ask and you give us specific permission. 
