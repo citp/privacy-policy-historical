@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myskillstutor.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202170545id_/http%3A//www.achievementtech.com/index.cfm%3Ffuseaction%3Dhome.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myskillstutor.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611023142id_/http%3A//www.achievementtech.com/index.cfm%3Ffuseaction%3Dhome.privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
