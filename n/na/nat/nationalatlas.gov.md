@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614203543id_/http%3A//www.nationalatlas.gov/disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202073900id_/http%3A//nationalatlas.gov/disclaimers.html) for the most accurate reproduction.*
 
 # Notices and Disclaimers - National Atlas of the United States
 
-[](http://www.nationalatlas.gov/) [Text Mode](http://www.nationalatlas.gov/disclaimerst.html)
+[](http://nationalatlas.gov/) [Text Mode](http://nationalatlas.gov/disclaimerst.html)
 
 * * *
 
@@ -12,7 +12,7 @@
 
 * * *
 
-Information, products, and services of The National Atlas of the United States of America delivered on the World Wide Web are provided by the National Mapping Division (NMD) of the U.S. Geological Survey (USGS). Contributions to this Web Site come from [National Atlas partners](http://www.nationalatlas.gov/partners.html) in government and industry. The following statements and disclaimers apply to all Web sites managed by the NMD.
+Information, products, and services of The National Atlas of the United States of America®  delivered on the World Wide Web are provided by the National Mapping Division (NMD) of the U.S. Geological Survey (USGS). Contributions to this Web Site come from [National Atlas partners](http://nationalatlas.gov/partners.html) in government and industry. The following statements and disclaimers apply to all Web sites managed by the NMD.
 
 ###   
 Privacy
@@ -46,7 +46,7 @@ We may collect information from you, with your permission, that will allow us to
 
   
 **Collection and release of gathered information**  
-We want to make it clear that we will not obtain personally-identifying information about you when you visit our Web sites, unless you choose to provide such information to us. Except for officially authorized law enforcement investigations, or in the event of a suspected attempt to deliberately circumvent our system's security with the intent to gain unauthorized access or to do physical damage (e.g., an attack by hackers), we do not attempt to identify individual users or share any information we receive with any parties outside of the USGS. In the latter case, collected information associated with a suspected intruder might be shared through the USGS's Bureau Information Resources Security Administrator with an incident response service such as the [CERT® Coordination Center](http://www.cert.org/).
+We want to make it clear that we will not obtain personally-identifying information about you when you visit our Web sites, unless you choose to provide such information to us. Except for officially authorized law enforcement investigations, or in the event of a suspected attempt to deliberately circumvent our system's security with the intent to gain unauthorized access or to do physical damage (e.g., an attack by hackers), we do not attempt to identify individual users or share any information we receive with any parties outside of the USGS. In the latter case, collected information associated with a suspected intruder might be shared through the USGS's Bureau Information Resources Security Administrator with an incident response service such as the [CERT](http://www.cert.org/)® [Coordination Center](http://www.cert.org/).
 
   
 **Retention of collected information  
@@ -86,7 +86,7 @@ We make every effort to provide and maintain accurate, complete, usable, and tim
 
 ### Copyright
 
-USGS-authored or produced data and information are in the public domain. **National Atlas of the United States** TM and **The National Atlas of the United States of America** TM are registered trademarks of the USGS. While the content of most USGS Web pages is in the public domain, some USGS pages contain material that is copyrighted by others and used by the USGS with permission. You may need to obtain permission from the copyright owner for other uses. Furthermore, some non-USGS data, products, and information linked, or referred to, from this site may be protected under U.S. and foreign copyright laws. You may need to obtain permission from the copyright owner to acquire, use, reproduce, or distribute these materials. It is the sole responsibility of you, the user of this site, to carefully examine the content of USGS and all linked pages for copyright restrictions and to secure all necessary permissions.
+USGS-authored or produced data and information are in the public domain. **National Atlas of the United States** ®  and **The National Atlas of the United States of America** ®  are registered trademarks of the USDOI. While the content of most USGS Web pages is in the public domain, some USGS pages contain material that is copyrighted by others and used by the USGS with permission. You may need to obtain permission from the copyright owner for other uses. Furthermore, some non-USGS data, products, and information linked, or referred to, from this site may be protected under U.S. and foreign copyright laws. You may need to obtain permission from the copyright owner to acquire, use, reproduce, or distribute these materials. It is the sole responsibility of you, the user of this site, to carefully examine the content of USGS and all linked pages for copyright restrictions and to secure all necessary permissions.
 
 * * *
 
@@ -121,8 +121,8 @@ Reston, Virginia 20192 USA
 
 * * *
 
-  
-**National Atlas of the United States** and **The National Atlas of the United States of America** are trademarks of the United States Geological Survey.  
-URL: http://www.nationalatlas.gov/notices.html  
+**National Atlas of the United States** and **The National Atlas of the United States of America** are trademarks of the United States Department of the Interior  
+URL: http://nationalatlas.gov/disclaimers.html  
 Comments and feedback: [atlasmail](mailto:atlasmail@usgs.gov)  
-Last modification: 18NOV99jay 
+Last modification: 17AUG00 jay  
+[Frequently Asked Questions](http://nationalatlas.gov/faq.html)
