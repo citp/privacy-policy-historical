@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625000412id_/http%3A//www.news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001213903id_/http%3A//news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
 
-# News-Miner - Privacy Policy<!--NAV:SPACER-->
+# News-Miner - Privacy Policy
 
-June 24, 2003   
+October 01, 2003   
 Fairbanks, AK
 
 | [Home Page](https://web.archive.org/Stories/0,1413,113%257E7250%257E,00.html)  
@@ -10,12 +10,12 @@ Fairbanks, AK
 [Past News](https://web.archive.org/Stories/0,1413,113%257E7244%257E,00.html)  
 [Sports](https://web.archive.org/Stories/0,1413,113%257E7248%257E,00.html)  
 [Opinion](https://web.archive.org/Stories/0,1413,113%257E7252%257E,00.html)  
-[Weekly Features](https://web.archive.org/Stories/0,1413,113%257E7205%257E,00.html)  
 [Obituaries](https://web.archive.org/Stories/0,1413,113%257E7251%257E,00.html)  
+[Health & Wellness](http://newsminer.healthology.com/)  
 [Special Sections](https://web.archive.org/Stories/0,1413,113%257E27660%257E,00.html)  
 [Photos](http://209.165.153.5/indexslideshow.htm)  
 [ArcticCam](https://web.archive.org/Stories/0,1413,113%257E7202%257E,00.html)  
-[Weekly Poll](http://209.165.153.5/FMPro?-db=reviews.fp3&-format=indexpoll.html&-lay=CGI&-op=eq&current=yes&-op=eq&pub=poll&-max=1&-find)  
+[Weekly Poll](https://web.archive.org/Stories/0,1413,113%257E7259%257E,00.html)  
 [Classifieds](https://web.archive.org/Stories/0,1413,113%257E7239%257E,00.html)  
 [Home Delivery](https://web.archive.org/Stories/0,1413,113%257E7281%257E,00.html)  
 [Contact Us](https://web.archive.org/Stories/0,1413,113%257E26933%257E,00.html)  
