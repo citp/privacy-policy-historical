@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610022907id_/http%3A//backup.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013075603id_/http%3A//www.backup.com/privacypolicy.html) for the most accurate reproduction.*
 
 # @Backup
 
