@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214172107id_/http%3A//boomerang.com/about_policies.html%23anc_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607144656id_/http%3A//boomerang.com/about_policies.html%23anc_privacy) for the most accurate reproduction.*
 
 # boomerang.com | about | policies
 
