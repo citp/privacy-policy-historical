@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2002-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021008120123id_/http%3A//novascotia.com/securitystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628172438id_/http%3A//www.novascotia.com/securitystatement.htm) for the most accurate reproduction.*
 
 # Explore Nova Scotia : Security Statement
 
