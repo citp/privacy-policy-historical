@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216070836id_/http%3A//watertowndailytimes.com/services/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603052617id_/http%3A//watertowndailytimes.com/services/privacy.asp) for the most accurate reproduction.*
 
 # Watertown Daily Times |
 
