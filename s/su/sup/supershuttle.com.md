@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209153329id_/http%3A//www.supershuttle.com/htm/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606140700id_/http%3A//supershuttle.com/htm/Privacy.htm) for the most accurate reproduction.*
 
 # SuperShuttle.com Privacy Policy
 
 **SuperShuttle   **  
 ---  
-**[SuperShuttle Home](https://web.archive.org/web/20021209153329id_/http%3A//www.supershuttle.com/Default.htm) ** |  **|** |  **[Online Reservations](https://www.supershuttle.com/WebRez/WebRez/ASP/Res_LogIn.asp) ** |  **|** |  [**Contact Us**](https://web.archive.org/web/20021209153329id_/http%3A//www.supershuttle.com/htm/ContactInfo.htm) |  **Your Privacy   **  
+**[SuperShuttle Home](https://web.archive.org/web/20030606140700id_/http%3A//supershuttle.com/Default.htm) ** |  **|** |  **[Online Reservations](https://www.supershuttle.com/WebRez/WebRez/ASP/Res_LogIn.asp) ** |  **|** |  [**Contact Us**](https://web.archive.org/web/20030606140700id_/http%3A//supershuttle.com/htm/ContactInfo.htm) |  **Your Privacy   **  
   
 ** Our Privacy Policy **
 
@@ -23,4 +23,4 @@
 
 **SuperShuttle   **  
 ---  
-**[SuperShuttle Home](https://web.archive.org/web/20021209153329id_/http%3A//www.supershuttle.com/Default.htm) ** |  **|** |  **[Online Reservations](https://www.supershuttle.com/WebRez/WebRez/ASP/Res_LogIn.asp) ** |  **|** |  [**Cities**](https://web.archive.org/web/20021209153329id_/http%3A//www.supershuttle.com/Default.htm#city) |  **|** |  [**Groups & Charters**](https://web.archive.org/web/20021209153329id_/http%3A//www.supershuttle.com/htm/grp.htm) |  **|** |  [**ExecuCar**](http://www.execucar.com/) |  **|** |  [**Employment**](https://web.archive.org/web/20021209153329id_/http%3A//www.supershuttle.com/htm/employment.htm) |  **|** |  [**About Us**](https://web.archive.org/web/20021209153329id_/http%3A//www.supershuttle.com/htm/story.htm) |  **Your Privacy   **
+**[SuperShuttle Home](https://web.archive.org/web/20030606140700id_/http%3A//supershuttle.com/Default.htm) ** |  **|** |  **[Online Reservations](https://www.supershuttle.com/WebRez/WebRez/ASP/Res_LogIn.asp) ** |  **|** |  [**Cities**](https://web.archive.org/web/20030606140700id_/http%3A//supershuttle.com/Default.htm#city) |  **|** |  [**Groups & Charters**](https://web.archive.org/web/20030606140700id_/http%3A//supershuttle.com/htm/grp.htm) |  **|** |  [**ExecuCar**](http://www.execucar.com/) |  **|** |  [**Employment**](https://web.archive.org/web/20030606140700id_/http%3A//supershuttle.com/htm/employment.htm) |  **|** |  [**About Us**](https://web.archive.org/web/20030606140700id_/http%3A//supershuttle.com/htm/story.htm) |  **Your Privacy   **
