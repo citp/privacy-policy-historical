@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfaw.org privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408111056id_/http%3A//www.pfaw.org/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaw.org privacy policy that was archived on 2002-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020923010001id_/http%3A//www.pfaw.org/about/privacypolicy.html) for the most accurate reproduction.*
 
 # PFAW | About | Online Privacy Policy
 
