@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frugalmom.net privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402042810id_/http%3A//www.frugalmom.net/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalmom.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074803id_/http%3A//www.frugalmom.net/privacy_policy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 **Privacy Statement**
 
@@ -14,4 +14,4 @@ If you elect to subscribe to our newsletter the only information we will collect
 
 All newsletter subscribers are given the option to opt out of the subscription to the newsletter at any time and will not receive any more email contact from frugalmom.net.  Once you opt out of our subscriber list we will not store your email address.
 
-If you have any questions about this privacy statement or the practices of this site you may contact Candace Anderson:  [webmaster@frugalmom.net](mailto:webmaster@frugalmom.net). 
+If you have any questions about this privacy statement or the practices of this site you may contact me using the [contact form.](https://web.archive.org/web/20041204074803id_/http%3A//www.frugalmom.net/contact.htm)
