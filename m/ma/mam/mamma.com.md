@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627004006id_/http%3A//www.mamma.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208120645id_/http%3A//www.mamma.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mamma.com - The Mother Of All Search Engines
 
@@ -40,7 +40,7 @@ Please note, that some contests or services advertised on or through Mamma.com m
 Unsolicited Contact  
 Mamma.com will not sell or disclose your contact information to any third-parties, unless otherwise stated (please see 2, under Contact Information). We may, however, occasionally send emails to subscribers of our services, or survey respondents regarding new services or offers from Mamma.com or selected partners that may be of interest.
 
-Mamma.com respects your right to unsubscribe from company mailings at any time. To do so, please contact our [Customer Service department](https://web.archive.org/web/20040627004006id_/http%3A//www.mamma.com/info/help/contact.html?department=3).
+Mamma.com respects your right to unsubscribe from company mailings at any time. To do so, please contact our [Customer Service department](https://web.archive.org/web/20041208120645id_/http%3A//www.mamma.com/info/help/contact.html?department=3).
 
 Information Sharing  
 Mamma.com shares the information we gather from cookies, clients, survey respondents, etc., with advertisers, business partners, sponsors, and other selected 3rd parties. This sharing of information is only done in an aggregate form for statistical purposes. We never distribute personally identifiable information without your consent, unless we are required to do so by law (due to a court order, subpoena, etc), or to protect Mamma.com, our users, or the general public.
@@ -48,5 +48,5 @@ Mamma.com shares the information we gather from cookies, clients, survey respond
 Security  
 Mamma.com has security measures in place to help protect against the loss, misuse and alteration of user and customer data under our control. While we cannot guarantee that loss, misuse or alteration of the data will not occur, we promise to do our utmost to prevent against any such occurrences.
 
-**For additional information** , or to express your concerns, please contact our [Search department](https://web.archive.org/web/20040627004006id_/http%3A//www.mamma.com/info/help/contact.html?department=2).  
+**For additional information** , or to express your concerns, please contact our [Search department](https://web.archive.org/web/20041208120645id_/http%3A//www.mamma.com/info/help/contact.html?department=2).  
 
