@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclickz.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202211623id_/http%3A//www.eclickz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclickz.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401135613id_/http%3A//www.eclickz.com/about/privacy.php) for the most accurate reproduction.*
 
 # eClickz - Privacy Policy
 
@@ -35,7 +35,7 @@ eClickz.com stores all data behind carefully selected security devices, such as 
 This site gives users the following options for changing and modifying information previously provided.
 
 Users can send mail to the following postal address:  
-eClickz.com, Inc. 20545 Bergamo Way Northridge, CA 91326
+eClickz.com, Inc. 1157 Los Angeles Ave, Simi Valley, CA 93065
 
 **Your Agreement to This Privacy Policy**  
 By using eClickz.com, you indicate that you agree to the collection and use of your personal information by eClickz.com as outlined in this Privacy Policy.
