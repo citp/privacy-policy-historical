@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uams.edu privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210035037id_/http%3A//www.uams.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uams.edu privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622133034id_/http%3A//www.uams.edu/privacy.htm) for the most accurate reproduction.*
 
 # Education College of Health Related Professions College of Medicine College of Nursing College of Pharmacy Graduate School Faculty
 
@@ -11,4 +11,4 @@ Information about gifts you make is not stored on an Internet database. In addit
 
 In order to make our online donation service more valuable for our supporters, we may use the personally identifiable information such as name and email address gathered during the donation process to provide additional information about UAMS or to determine what you like and do not like about our services. You may opt out of receiving such e-mail messages at any time.
 
-09/24/02
+06/17/03
