@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618115713id_/http%3A//www.tiaa.org/a_company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204230948id_/http%3A//www.tiaa.org/a_company/privacy_policy.html) for the most accurate reproduction.*
 
 # TIAA-CREF - The Company - Privacy Policy
 
 |  |  |  |   
 ---|---|---|---  
-**[About the Company](https://web.archive.org/web/20030618115713id_/http%3A//www.tiaa.org/a_company/index.html)**  
+**[About the Company](https://web.archive.org/web/20031204230948id_/http%3A//www.tiaa.org/a_company/index.html)**  
 **[Ticker Symbols/  
-Performance](https://web.archive.org/web/20030618115713id_/http%3A//www.tiaa.org/a_company/ticker.html)**  
-**[Solutions](https://web.archive.org/web/20030618115713id_/http%3A//www.tiaa.org/a_company/solutions.html)**  
-**[Annual Report](https://web.archive.org/web/20030618115713id_/http%3A//www.tiaa.org/pubs/html/AR/01/index.html)**  
-**[Organizational Structure](https://web.archive.org/web/20030618115713id_/http%3A//www.tiaa.org/a_company/org_structure.html)**  
-**[Privacy Policy](https://web.archive.org/web/20030618115713id_/http%3A//www.tiaa.org/a_company/privacy_policy.html)**  
+Performance](https://web.archive.org/web/20031204230948id_/http%3A//www.tiaa.org/a_company/ticker.html)**  
+**[Solutions](https://web.archive.org/web/20031204230948id_/http%3A//www.tiaa.org/a_company/solutions.html)**  
+**[Annual Report](https://web.archive.org/web/20031204230948id_/http%3A//www.tiaa.org/pubs/html/AR/01/index.html)**  
+**[Organizational Structure](https://web.archive.org/web/20031204230948id_/http%3A//www.tiaa.org/a_company/org_structure.html)**  
+**[Privacy Policy](https://web.archive.org/web/20031204230948id_/http%3A//www.tiaa.org/a_company/privacy_policy.html)**  
   
   
 **Safeguarding your personal information is something that we take very seriously at TIAA-CREF. We assure you that we will not sell or barter your personal information or our mailing lists to any person or organization.** You have entrusted us with an important role in your financial future and we are committed to keeping your personal information secure. We are also committed to the principles stated in this notice whether you are a current, prospective or former customer.
 
-Please read this notice carefully. It will provide you with information about the TIAA-CREF companies' policy and procedures with respect to your personal information in accordance with the Fair Credit Reporting Act (FCRA) and the Gramm-Leach-Bliley Financial Services Modernization Act (GLB). The "TIAA-CREF companies" are described in this notice. A [separate notice](https://web.archive.org/web/20030618115713id_/http%3A//www.tiaa.org/a_company/privacy_notice.html) describing additional privacy practices related to health information is provided to our Long Term Care Insurance customers, and should be read together with this notice by those customers. 
+Please read this notice carefully. It will provide you with information about the TIAA-CREF companies' policy and procedures with respect to your personal information in accordance with the Fair Credit Reporting Act (FCRA) and the Gramm-Leach-Bliley Financial Services Modernization Act (GLB). The "TIAA-CREF companies" are described in this notice. A [separate notice](https://web.archive.org/web/20031204230948id_/http%3A//www.tiaa.org/a_company/privacy_notice.html) describing additional privacy practices related to health information is provided to our Long Term Care Insurance customers, and should be read together with this notice by those customers. 
 
 **Information We May Collect  
 **We may collect nonpublic personal information about you from various sources. For example, a TIAA-CREF company may collect: 
