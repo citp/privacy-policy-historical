@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitetrader.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203155300id_/http%3A//www.elitetrader.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetrader.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606022423id_/http%3A//elitetrader.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 8-13-2001
 
-This online privacy policy tells you about the information Elite Trader collects through the services available on our web site, EliteTrader.com (the "Site"), how we use that information and how you can opt out of certain uses of information we may collect. By using our services and accessing our Site, you are consenting to the information collection and use practices described in this policy, as modified from time to time by us. If we decide to change our privacy policy, we will post a new policy on our Site and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. Please see our [Terms of Use](http://www2.elitetrader.com/legal.cfm) for a more detailed legal explanation of our general online policies.
+This online privacy policy tells you about the information Elite Trader collects through the services available on our web site, EliteTrader.com (the "Site"), how we use that information and how you can opt out of certain uses of information we may collect. By using our services and accessing our Site, you are consenting to the information collection and use practices described in this policy, as modified from time to time by us. If we decide to change our privacy policy, we will post a new policy on our Site and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. Please see our [Terms of Use](http://www.elitetrader.com/legal.cfm) for a more detailed legal explanation of our general online policies.
 
 If you have any questions about our privacy policy or our use of your information, or if you need help changing or deleting your EliteTrader.com account you can e-mail us at [support@elitetrader.com](mailto:support@elitetrader.com).
 
@@ -32,7 +32,7 @@ Use of Your Personal and Non-Personal Information Except as disclosed in this po
   * **Internal Analysis and Promotions.** We may use information about you for our own internal statistical, design, operational purposes such as to estimate our audience size; measure aggregate traffic patterns; and understand demographic, customer interest, purchasing and other trends among our guests and customers. We may also use your Personal Information for the marketing and/or promotion of our products or services. We may outsource all of these tasks to third parties on a confidential basis. If you do not want to receive our promotional materials, [click here](http://www.elitetrader.com/vb/member.php?action=editprofile) to change your preference settings.
   *  **Transaction Processing.** We may use your Personal Information to create a convenient and easy-to-use shopping process that includes an online "shopping cart" that allows you to track selected products and proceed through purchase.
   *  **Legal Requirement.** We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: 
-    1. conform with the law, respond to claims or comply with legal process served on Elite Trader Coffee Company or the Site;  
+    1. conform with the law, respond to claims or comply with legal inquiries about the content of your posts;  
 
     2. protect and defend our rights or property, the Site, our employees, guests or the public.
   * **Company Sale.** Information collected through our Site is considered a trade secret of Elite Trader. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets. 
@@ -40,7 +40,7 @@ Use of Your Personal and Non-Personal Information Except as disclosed in this po
 
 
 Aggregate Information   
-We collect Aggregate Information about you and your use of our Site whenever you visit us online. For instance, we may collect various forms of "click stream" information such as entry and exit points for our Site (i.e., referring URLs or domains), site traffic statistics, page views, impressions, and operating system and browser type. In addition, when users request pages on our Site, our servers automatically log their IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web.
+We collect Aggregate Information about you and your use of our Site whenever you visit us online. For instance, we may collect various forms of "click stream" information such as entry and exit points for our Site (i.e., referring URLs or domains), site traffic statistics, page views, impressions, and operating system and browser type. In addition, when users request pages on our Site, our servers may log their IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web.
 
 We also use third-party software that tracks traffic directed to EliteTrader.com from affiliate Web sites and the purchases that result from this traffic. This information is aggregated and is not tied to an individual purchase.
 
