@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202211216id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606182357id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
 
 # Der Keiler: Privacy Policy
 
@@ -24,12 +24,13 @@ IP Address: An Internet Protocol (IP) address is unique string of numbers that i
 
 ### Third Party Advertising
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages.
+To try and bring you offers that are of interest to you, we have relationships with other companies like MaxOnline, 24/7 Real Media, AdLink and Google that we allow to place ads on our Web pages.
 
-As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information (not including your name, address, email address or telephone number). For further information, please click here:
 
 <http://www.247realmedia.com/privacy.html>  
-<http://www.adlink.net/company/privacy.php>
+<http://www.adlink.net/company/privacy.php>  
+<http://www.networkadvertising.org/optout_nonppii.asp>
 
 ### Contact
 
