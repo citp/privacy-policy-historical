@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202210759id_/http%3A//spin.com/new/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206094554id_/http%3A//www.spin.com/new/about/privacy.html) for the most accurate reproduction.*
 
 # Spin | The Magazine | About
 
@@ -55,4 +55,4 @@ Most browsers are initially set to accept cookies. If you'd prefer, you can set 
 **Your Acceptance of These Terms**  
 By using this site, you signify your assent to our Privacy Policy. If you do not agree to this policy, please do not use our sites. 
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the our sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions at [info@spinmag.com](mailto:info@spinmag.com).
+We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the our sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions at [mail@spin.com](mailto:mail@spin.com).
