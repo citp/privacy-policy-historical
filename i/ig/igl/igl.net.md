@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igl.net privacy policy that was archived on 2001-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010801164001id_/http%3A//www.igl.net/moreinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igl.net privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605081126id_/http%3A//www.igl.net/moreinfo/privacy) for the most accurate reproduction.*
 
 # 
 
