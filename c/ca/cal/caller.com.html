@@ -1,294 +1,856 @@
-<!--The following is the downloaded HTML source of the caller.com privacy policy that was archived on 2001-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011110123556id_/http%3A//caller.com/policies/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caller.com privacy policy that was archived on 2002-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020405121500id_/http%3A//www.caller.com/ccct/home/article/1%2C1641%2CCCCT_800_872022%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
-
-  <title>Corpus Christi Caller-Times - Columns</title>
-<meta name="Publisher" content="Corpus Christi Caller Times">
-<meta name="Keywords" content="corpus christi, south texas, texas, newspaper, classified, nueces, san patricio, weather, business, sport, map, real estate, art, selena, golf, tennis, hotel, fish, fly, boat, sail, kayak, canoe, restaurant, shop, rent, car, resort, beach, water, nature, camping, rv, tour, historic, nightlife, attraction,  hector garcia, environment">
-<meta name="Description" content="Corpus Christi Caller-Times - Calendar of events for Corpus Christi, South Texas, Coastal Bend, Nueces County, San Patricio, Kingsville, Alice via Caller.com">
-<meta name="Author" content="Corpus Christi Caller Times">
-<meta name="Identifier-URL" content="http://www.caller.com">
-<meta name="Content-Language" content="en-US">
-<meta http-equiv="Refresh" content="3600">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>Caller.com</title>
+		
 <meta http-equiv="Pragma" content="no-cache">
-<style>
-<!--
-A:link { text-decoration: none; color:#003399 ; font-weight: bold}
-A:visited  { text-decoration: none;color:#003399 ; font-weight: bold}
-A:active { color:#FF3300 ; font-weight: bold}
-A:hover {text-decoration: underline; color:#cc0000 ; font-weight: bold}
--->
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Description" content="Corpus Christi Caller-Times and Caller.com, news and information for Corpus Christi, South Texas and the Coastal Bend">
+<meta name="Keywords" content="Corpus Christi, South Texas, news, newspaper, information, Padre Island, Coastal Bend, classifieds, autos, real estate, corpus christi jobs, kingsville">
 
-</style>
-</head>
-<body bgcolor="#ffffff" link="#003399" vlink="#aaaaaa" alink="#cc0000">
-<map name="indexmap">
-<area shape="poly" href="/" coords="60,91 0,91 0,80 60,80" alt="To home page">
-<area shape="poly" href="/class/GENERAL/" coords="153,91 60,91 60,80 153,80" alt="Classifieds">
-<area shape="poly" href="/cti/search.htm" coords="223,91 153,91 153,80 223,80" alt="Search the site">
-<area shape="poly" href="http://forums.caller.com/cgi-bin/WebX?caller" coords="295,91 223,91 223,80 295,80" alt="Have your say in forums">
-<area shape="poly" href="http://chat.caller.com/" coords="348,91 295,91 295,80 348,80" alt="Chat">
-<area shape="poly" href="/weather/" coords="416,91 348,91 348,80 416,80" alt="Weather information">
+		<link rel="stylesheet" href="/ccct/cda/styles/mainCSS">
+		<script language="JavaScript">
 
-</map> 
-<center>
+function popup(url,w,h,menu) {
+	x = Math.floor((screen.width - w) / 2);
+	y = Math.floor((screen.height - h) / 2);        
+	now = new Date();
+	features = "screenx="+x+",screeny="+y+",left="+x+",top="+y+",width="+w+",height="+h+",location=no,resizable=no"+",directories=no,status=no,scrollbars=yes";
 
-<a name="top"></a><table width="600" cellpadding="0" cellspacing="0" border="0">
+	if (menu != null) {
+		//features += ",menubar=yes,toolbar=yes,scrollbars=yes";
+		features += ",menubar=yes,toolbar=yes";
+	} else {
+		//features += ",menubar=no,toolbar=no,scrollbars=no"; 
+		features += ",menubar=no,toolbar=no"; 
+	}
+	window.open(url,"newwin",features);
+}
+
+
+function MM_reloadPage(init) {  
+  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {
+    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+     document.MM_pgW=innerWidth; 
+	 document.MM_pgH=innerHeight;
+	 onresize=MM_reloadPage; 
+    }
+  } else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
+    location.reload();
+}
+
+// for Netscape thisdomain = www.scripps.com
+// for other browser thisdomain = scripps.com
+
+thisdomain = document.location + "";
+thisdomain = thisdomain.substring(thisdomain.indexOf('//')+2,thisdomain.length);
+thisdomain = thisdomain.substring(0,thisdomain.indexOf('/'));
+thisdomain = (navigator.appName != "Netscape")? thisdomain.substring(thisdomain.indexOf('.')+1,thisdomain.length): thisdomain;
+
+
+
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf(';',offset);
+	if (endstr == -1) {
+		endstr = document.cookie.length;
+	}
+	return unescape(document.cookie.substring(offset,endstr))
+}
+
+
+function SetCookie (name, value, expires, path, domain, secure) {
+	document.cookie = name + "=" + escape (value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+} 
+
+
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i,j) == arg) {
+			return getCookieVal(j);
+		}
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i==0) break;
+	}
+	return null;  
+}
+
+
+function DeleteCookie (name, path, domain) {
+   if (GetCookie(name)) {
+    document.cookie = name + "=" + ((path) ? "; path=" + path : "") +  ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+   }
+}
+
+
+function FixCookieDate (date) { 
+	var base = new Date(0); 
+	var skew = base.getTime();
+	if(skew > 0)
+		date.setTime (date.getTime() - skew);     
+}
+
+
+function vod (url,streamtitle,customfeatures) {
+	windowFeatures = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=210,height=480';
+
+	//Browser Detection
+	var browser = "";
+	var browsername = navigator.appName;
+	var browserversion = parseInt(navigator.appVersion);
+	var browserplatform = navigator.userAgent;
+	if (browsername == "Netscape") {
+		browser = "ns" + browserversion;
+	} else {
+		if (browsername == "Microsoft Internet Explorer") {
+			if (browserversion >= 4) {
+				browser = "ie" + browserversion;
+			} else {
+				browser = "ie3";
+			}
+		}
+	}
+
+	if ((customfeatures) && customfeatures != '') {
+		windowFeatures = customfeatures;
+	}
+
+	if (url.indexOf(".rm",(url.length-10)) != -1) {
+		if (browser != 'ie3') {
+			hasplugin = 'false';
+			// Mac Browser (Not Netscape)
+			if ( (browserplatform.indexOf('Mac') !=-1) && ( browsername != "Netscape")) {
+				numPlugins = 0;
+				// Real Strange never goes into the followinf loop
+				// because numPlugins is 0
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.embeds[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			} else {
+				numPlugins = navigator.plugins.length;
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.plugins[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			}
+			if (browser.substring(0,2) == 'ie') {
+				hasplugin = 'true';
+			}
+			if (hasplugin == 'true') {
+				videoWin = window.open (url , 'video', windowFeatures);
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+				videoWin.document.close();              
+			} else {
+				stream = url.substring(0,(url.length-5));
+				location.href=stream + '.ram';
+			}
+		} else {
+			videoWin = window.open (url , 'video', windowFeatures);
+			if (document.images) {
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+			}
+			videoWin.document.close();                      
+		}               
+	} else {
+		videoWin = window.open (url , 'video', windowFeatures);
+		if (document.images) {
+			if (streamtitle != '') {
+				videoWin.streamtitle=streamtitle;
+			}
+		}
+		videoWin.document.close();
+	}
+}
+</script>
+
+
+		<script type="text/javascript">
+		<!--
+		// Prevent others from including this site
+		var preview = 'no'
+		if (preview != 'yes') {
+			if (top != self) {
+				top.location = location;
+			}
+		}
+
+		MM_reloadPage(true);
+
+		if (GetCookie('cookieChk') == null) { 
+			var expdate = new Date ();
+
+			// Correct for Mac date bug - call only once for given Date object!
+			FixCookieDate (expdate); 
+
+			// expires 30 days from now
+			expdate.setTime (expdate.getTime() + (30 * 24 * 60 * 60 * 1000)); 
+			SetCookie ('cookieChk', 'OK', expdate, '/', thisdomain, null);
+		}
+		// -->
+		</script>
+		</head><body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#333366">
+
+<!-- BEGIN BLACK SPACER TABLE -->
+<table width="760" border="0" cellspacing="0" cellpadding="0" height="5" bgcolor="#003366">
+<tbody><tr>
+	<td><img src="/ccct/images/spacers/spacer.gif" width="1" height="5"></td>
+</tr>
+</tbody></table>
+<!-- END BLACK SPACER TABLE -->
+
+	
+	<!-- Vignette V/5 Thu Feb 28 10:04:57 2002 -->
+
+	<table width="760" height="" cellpadding="0" cellspacing="0" border="0" align="" bgcolor=""><tbody><tr><td><table width="760" height="15" cellpadding="0" cellspacing="0" border="0" align="" bgcolor="#003366"><tbody><tr><td><table width="" height="" cellpadding="0" cellspacing="0" border="0" align="" bgcolor="#FFFFFF"><tbody><tr><td><table cellpadding="0" cellspacing="0" border="0" align="" background=""><tbody><tr><td height="15" width="19" valign="bottom"><img src="/ccct/images/nav/tab_divider_start.gif" width="19" height="15"></td></tr></tbody></table></td><td width="14"><img src="/ccct/images/nav/tab_divider_open.gif" width="14" height="15"></td><td align="center
+"><a href="http://www.caller2.com/class/GENERAL/" class="verticaltext">Classifieds</a></td><td width="15"><img src="/ccct/images/nav/tab_divider_close.gif" width="15" height="15"></td><td width="14"><img src="/ccct/images/nav/tab_divider_open.gif" width="14" height="15"></td><td align="center
+"><a href="http://www.coastalbendautos.com" class="verticaltext">Autos</a></td><td width="15"><img src="/ccct/images/nav/tab_divider_close.gif" width="15" height="15"></td><td width="14"><img src="/ccct/images/nav/tab_divider_open.gif" width="14" height="15"></td><td align="center
+"><a href="http://www.coastalbendcareers.com" class="verticaltext">Careers</a></td><td width="15"><img src="/ccct/images/nav/tab_divider_close.gif" width="15" height="15"></td><td width="14"><img src="/ccct/images/nav/tab_divider_open.gif" width="14" height="15"></td><td align="center
+"><a href="http://cfapps.caller.com/law/index.cfm" class="verticaltext">Law</a></td><td width="15"><img src="/ccct/images/nav/tab_divider_close.gif" width="15" height="15"></td><td width="14"><img src="/ccct/images/nav/tab_divider_open.gif" width="14" height="15"></td><td align="center
+"><a href="http://community.caller.com/" class="verticaltext">Communities</a></td><td width="15"><img src="/ccct/images/nav/tab_divider_close.gif" width="15" height="15"></td><td width="14"><img src="/ccct/images/nav/tab_divider_open.gif" width="14" height="15"></td><td align="center
+"><a href="http://www.coastalbendhealth.com" class="verticaltext">Health</a></td><td width="15"><img src="/ccct/images/nav/tab_divider_close.gif" width="15" height="15"></td><td width="14"><img src="/ccct/images/nav/tab_divider_open.gif" width="14" height="15"></td><td align="center
+"><a href="http://www.coastalbendhomes.com" class="verticaltext">Homes</a></td><td width="15"><img src="/ccct/images/nav/tab_divider_close.gif" width="15" height="15"></td><td width="14"><img src="/ccct/images/nav/tab_divider_open.gif" width="14" height="15"></td><td align="center
+"><a href="http://www.caller2.com/shopping" class="verticaltext">Shopping</a></td><td width="15"><img src="/ccct/images/nav/tab_divider_close.gif" width="15" height="15"></td><td width="14"><img src="/ccct/images/nav/tab_divider_open.gif" width="14" height="15"></td><td align="center
+"><a href="http://www.caller2.com/visitors" class="verticaltext">Visitors</a></td><td width="15"><img src="/ccct/images/nav/tab_divider_close.gif" width="15" height="15"></td><!-- Proc:getHorizCtntStack MaxSize (10) --></tr><!-- MaxSize (1) --></tbody></table></td></tr><!-- MaxSize (1) --></tbody></table></td></tr><tr><td><table width="760" height="95" cellpadding="0" cellspacing="0" border="0" align="" bgcolor="" background="/ccct/images/headers/header_main.jpg"><tbody><tr><td>
+		    <table width="760" cellpadding="0" cellspacing="0" border="0" align="" background=""><tbody><tr><td><table width="" height="" cellpadding="0" cellspacing="0" border="0" align=""><tbody><tr><td width="275" height="91">&nbsp;</td></tr></tbody></table></td><!-- Proc:getHorizCtntStack MaxSize (1) --></tr> <tr><td width="750" height="25" colspan="2" align="left" class="navbartext"><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/home/0,1641,CCCT_800,00.html" class="navbartext">Home</a><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/news/0,1641,CCCT_801,00.html" class="navbartext">News</a><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/sports/0,1641,CCCT_802,00.html" class="navbartext">Sports</a><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/business/0,1641,CCCT_873,00.html" class="navbartext">Business</a><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/opinions/0,1641,CCCT_890,00.html" class="navbartext">Opinions</a><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/around_town/0,1641,CCCT_949,00.html" class="navbartext">Around Town</a><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/people/0,1641,CCCT_803,00.html" class="navbartext">People</a><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/living/0,1641,CCCT_804,00.html" class="navbartext">Living</a><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/outdoors/0,1641,CCCT_828,00.html" class="navbartext">Outdoors</a><span class="navbartext">&nbsp;&nbsp;&nbsp;</span><img src="/ccct/images/bullets/header_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://www.caller2.com/weather/" class="navbartext">Weather</a><!-- MaxSize (10) --></td><!-- Proc:getHorizCtntStack MaxSize (1) --></tr><!-- MaxSize (2) --></tbody></table></td></tr></tbody></table></td></tr><!-- MaxSize (2) --></tbody></table><!-- BEGIN BLACK SPACER TABLE -->
+
+<table width="760" border="0" cellspacing="0" cellpadding="0" height="2" bgcolor="#003366">
+<tbody><tr>
+	<td><img src="/ccct/images/spacers/spacer.gif" width="1" height="1"></td>
+</tr>
+</tbody></table>
+<!-- END BLACK SPACER TABLE -->
+<!-- BEGIN TABLE FOR CONTENT AREA -->
+<table width="760" border="0" cellspacing="0" cellpadding="0" height="500">
 <tbody><tr>
 
-<td width="600" colspan="4" align="center" bgcolor="#000099">
-<font size="1" face="helvetica, arial" color="#ffffff">
-<a href="/siteindex.htm#mp">
-<font size="1" face="helvetica," arial="" color="#ffffff">Marketplace</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/siteindex.htm#services"><font size="1" face="helvetica," arial="" color="#ffffff">Services</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/commcentral/"><font size="1" face="helvetica," arial="" color="#ffffff">Contact Us</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/siteindex.htm#community/"><font size="1" face="helvetica," arial="" color="#ffffff">Community</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/Arts&amp;Ent/"><font size="1" face="helvetica," arial="" color="#ffffff">Arts &amp; Entertainment</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/attract/"><font size="1" face="helvetica," arial="" color="#ffffff">Local Guides</font></a></font></td>
+<td width="2" valign="top" bgcolor="#003366"><img src="/ccct/images/spacers/spacer.gif" width="2" height="1"></td>
+
+	<!-- BEGIN CELL FOR LEFT SIDE CONTENT -->
+				
+	<td width="145" valign="top" class="lnbbgcolor">
+		
+		<!-- Vignette V/5 Fri Apr 05 06:37:18 2002 -->
+
+	<table width="145" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><table width="145" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><link href="/web/ccct/css/main2.css" rel="stylesheet"> 
+<table width="145" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td><table width="145" border="0" cellpadding="0" cellspacing="0" height="22">
+<tbody><tr><td align="center" bgcolor="E8F3FF" class="smalltext"><a href="http://www.caller2.com/autoconv/archives.htm" class="lnbarchive">Archives</a>|<a href="http://www.caller2.com/forums/webx/" class="lnbarchive">Forums</a>|<a href="http://www.caller2.com/siteindex.htm" class="lnbarchive">Index</a></td></tr></tbody></table></td></tr></tbody></table><!-- MaxSize (1) --></td></tr></tbody></table><p>
+			<table width="130" border="0" cellspacing="0" cellpadding="2" align="center" bgcolor="#B0D7EB">
+			<tbody><tr>
+				<td class="sectionheader"><a href="/ccct/news/0,1641,CCCT_801,00.html" class="sectionheader">NEWS</a><br></td>
+			</tr>
+			</tbody></table>
+			<!--DelvFrmt (LNB_SUBSECTIONS)-->
+			
+			
+			<!-- #Use section color as background-->
+			<table width="130" border="0" cellspacing="0" cellpadding="2" align="center" bgcolor="#B0D7EB">
+		
+			<tbody><tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="/ccct/local_news/0,1641,CCCT_811,00.html" class="subnavtext">Local News</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="/ccct/state_texas_news/0,1641,CCCT_876,00.html" class="subnavtext">Texas/Mexico News</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="/ccct/national_world_news/0,1641,CCCT_812,00.html" class="subnavtext">National/World News</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="/ccct/politics/0,1641,CCCT_813,00.html" class="subnavtext">Politics</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="/ccct/news_columnists/0,1641,CCCT_814,00.html" class="subnavtext">Columnists</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="/ccct/blotter/0,1641,CCCT_877,00.html" class="subnavtext">Blotter</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="http://www.caller2.com/periodic/crimemap.html" class="subnavtext">Crime Map</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="http://www.caller2.com/obits/" class="subnavtext">Paid Obits</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="/ccct/news_obits/0,1641,CCCT_947,00.html" class="subnavtext">News Obits</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="http://www.caller2.com/multimedia/police/" class="subnavtext">Police Scanner</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="http://wire.ap.org" class="subnavtext">AP-Wire News</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="130"><a href="/ccct/news_specials/0,1641,CCCT_891,00.html" class="subnavtext">Specials</a></td>
+			</tr>
+			</tbody></table></p><p><table width="145" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><table width="130" border="0" cellspacing="0" cellpadding="1" align="center" class="sectionbgcolor">
+<tbody><tr> 
+<td colspan="2" class="sectionheader">in people:</td>
 </tr>
-
-<!-- ******************** Beginning of main header ********************  -->
-<tr valign="Top">
-<td width="600">
-<img src="/art/masthead0599.gif" width="600" height="90" border="0" ismap="ISMAP" usemap="#indexmap" alt="graphic header for Caller.com"><p></p></td>
+<tr><td width="5" valign="top"><img src="http://www.caller2.com/web/ccct/images/bullets/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+<td width="235"><a href="http://www.caller.com/ccct/jefferson_awards/" class="subnavtext">Jefferson 
+Awards</a></td>
 </tr>
-</tbody></table><center>
-<a name="top"></a>
-<!-----------------------   main table starts --------------------->
-</center><center>
-<!-------------------- MAIN CONTENT HEADER  -------------------------------->
-</center><center>
-
-</center><table width="600" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="462" valign="TOP"> 
-<div align="left">&nbsp; </div>
-          <p align="left"> <font size="6" face="verdana, arial, helvetica" color="#aaaaaa">Privacy 
-            Policy </font><br>
-<font face="verdana, helvetica, arial" size="1"> | <a href="/newsindex.shtml">News</a> 
-| <a href="/sportsindex.shtml">Sports</a> | <a href="/bizindex.shtml">Business</a> 
-| <a href="/opinions.shtml">Opinions</a> | <a href="/columns.html">Columns</a> 
-| <a href="/Arts&amp;Ent/">Entertainment</a> | <br>
-| <a href="/sctech.shtml">Science/Technology</a>| <a href="/weather/">Weather</a> 
-| <a href="/autoconv/archives.htm">Archives</a> | <a href="/commcentral">E-mail 
-Us</a> | </font><br>
-</p><hr size="1" align="left">
-          <p align="left"> <!-------------------- MAIN CONTENT BODY   ---------------------------------> 
-          </p><p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Caller 
-            Times New Media</b> is committed to protecting consumer privacy online. 
-            We believe that greater protection of personal privacy on the web 
-            will not only protect consumers, but also increase consumer confidence 
-            and ultimately their participation in online activities. At <b>Caller.com 
-            </b>we intend to give you as much control as possible over your personal 
-            information.</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	The 
-            purpose of our policy is to inform you about the types of information 
-            we gather about you when you visit our <b>site(s)</b>, how we may 
-            use that information, whether we disclose it to anyone, and the choices 
-            you have regarding our use of, and your ability to correct, the information.</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	Our 
-            <b>site(s)</b> may contain links to other web sites, including web 
-            sites directed to children. We have no control over the privacy practices 
-            or the content of any of our business partners, advertisers, sponsors 
-            or other sites to which we provide links from our sites. You should 
-            check the applicable privacy policy of the web site sponsor when linking 
-            to other web sites.</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>I.	Information 
-            Which We Collect</b></font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	We 
-            may request that you voluntarily supply us with personal information, 
-            including your e-mail address, postal address, home or work telephone 
-            number, credit card number (only if you choose to purchase a product 
-            online), for purposes such as correspondence, making a purchase, or 
-            participating in online contests, surveys or games. If you choose 
-            to give us personal information via the Internet that we or our business 
-            partners may need -- to correspond with you, process an order or provide 
-            you with a subscription, for example -- it is our intent to let you 
-            know how we will use such information.</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	Like 
-            many other commercial sites, our <b>site(s)</b> may utilize a standard 
-            technology called a "cookie" to collect information about how our 
-            site is used. Cookies were designed to help a web site recognize a 
-            user's browser as a previous visitor and thus save and remember any 
-            preferences that may have been set while the user was browsing the 
-            site. <b>A cookie cannot retrieve any other data from your hard drive, 
-            pass on a computer virus, or capture your e-mail address.</b> Our 
-            web <b>site(s)</b> may use cookies to enhance your visit. Cookies 
-            can securely store a user's password, personalize home pages, identify 
-            which parts of a site have been visited or keep track of selections, 
-            such as those selected in a "shopping cart." Our cookies may collect 
-            your domain name and track your selections through our web pages. 
-            We only use "cookies" to gather the information indicated in this 
-            policy and do not use cookies to gather personal identifying information 
-            about you without your consent.</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	We 
-            also use cookies in connection with our chat rooms in order to record 
-            your preferences. These cookies store automatically information pertaining 
-            to the last chat room you visited, as well as certain comments that 
-            can be issues in the chat room, in order to facilitate your experience 
-            with the chat rooms. No additional identifying information is stored 
-            on these cookies. You also have the option of choosing to allow us 
-            to use a cookie to store your username, or "handle" and password on 
-            your computer for use in that chat rooms, forums and other sites as 
-            indicated on the particular site.</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	We 
-            may require you to supply us with personal information (demographic 
-            information such as average age, income, education, population data, 
-            zip codes) during a "registration" process online prior to using certain 
-            features of our site. For example, you may be required to register 
-            to use chat rooms, forums, to access archival stories, to subscribe 
-            to newspapers, and to access other features. We use this general information 
-            to aggregate information according to demographics, such as gender, 
-            geographic location, age, income or a combination of these or other 
-            demographics. </font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	In 
-            addition, users may complete a subscription form online in order to 
-            subscribe to <b>Corpus Christi Caller Times.</b>. To subscribe, users 
-            must submit personal information in order for us to send the newspaper 
-            to you. </font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>II.	Use 
-            of User Information</b></font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	We 
-            may perform statistical analyses of aggregate user behavior. This 
-            allows us to measure relative consumer interest in the various areas 
-            of our web sites for product development purposes. Any information 
-            we collect is used for its own internal purposes to improve the content 
-            of the web sites, to enhance users' experiences when visiting our 
-            <b>site(s)</b>, to customize the content and/or layout of our pages, 
-            and to provide the services required by an individual user. We do 
-            not use personal identifying information for any reason that is not 
-            disclosed either in this Policy or at the time the information is 
-            requested. We never send e-mail to you unless you request a particular 
-            service, or consent to being contacted by e-mail. There are instances 
-            where you will have the opportunity to subscribe to an e-mail list 
-            that will send information about the site or our advertisers to your 
-            e-mail address, but this will be done only with your permission and 
-            consent</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>III.	Disclosure 
-            to Third Parties</b></font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	We 
-            do not share personal identifying information with any third party 
-            without your permission. We disclose <i>only in aggregate form</i> 
-            our statistical analyses or demographics of users to third parties, 
-            such as advertisers or other business partners. In some instances, 
-            we operate shared web sites with businesses affiliated with us. Our 
-            privacy policy will apply to these web sites, and our affiliates adhere 
-            to our privacy policy and will not share personal information with 
-            any third party without your permission. PLEASE BE AWARE that when 
-            you voluntarily disclose personal information (such as your name, 
-            e-mail address) in chat areas or bulletin boards to third parties, 
-            that information may be collected by others outside the control of 
-            us and may result in unsolicited messages from others.</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>IV.	Accuracy 
-            of User Information</b></font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	In 
-            order to ensure the accuracy of personal information provided for 
-            registration, you may return to the registration form online in order 
-            to change information you have provided at any time. Questions regarding 
-            our privacy policy, the accuracy of your personal information or the 
-            use of the information collected should be directed via e-mail to 
-            <b>ctinter@scripps.com</b>, or you can reach us by telephone at <b>361-886-4390</b>. 
-            You can also write us at:</font></p>
-          <div align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Caller 
-            Times New Media<br>
-            P. O. Box 9136<br>
-            Corpus Christi, TX 78401<br>
-            </b></font> </div>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	These 
-            privacy policies are effective as of <b>August 21, 1998</b>. We reserve 
-            the right to change this policy at any time, and will post any changes 
-            to this policy as soon as they go into effect.</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>V.	Security 
-            of Information</b></font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	We 
-            use our best efforts to ensure the security of personal information 
-            submitted by users. When collecting credit card information for online 
-            purchases, we offer secured-server transactions that encrypt your 
-            information in transit to thwart someone from intercepting it and 
-            misusing it. When we collect other information from our users, it 
-            is stored in an area where the general public does not have access 
-            to it.</font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>VI.	Opting-out</b></font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">	At 
-            any time while assessing our site(s), any user while online may "opt-out" 
-            of further e-mail contact from us (while still allowing access to 
-            our <b>site(s)</b>). For further information about opting-out, contact 
-            us at the e-mail address, postal address or telephone number stated 
-            above. </font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>VII.	Use 
-            of Materials</b></font></p>
-          <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The 
-            right to download and store or output the materials in our <b>site(s)</b> 
-            is granted for the user's personal use only, and materials may not 
-            be reproduced in any edited form. Any other reproduction, transmission, 
-            performance, display or editing of these materials by any means mechanical 
-            or electronic without the express written permission of us is strictly 
-            prohibited. Users wishing to obtain permission to reprint or reproduce 
-            any materials appearing on these sites may contact us at <b>ctinter@scripps.com]</b>. 
-            To link to the full Terms of Use Agreement pertaining to use of our 
-            <b>site(s)</b>, please <a href="user.htm"><b>click here</b></a>.</font></p>
-          <p>&nbsp; 
-          <font size="2" face="verdana, helvetica, arial, sans-serif"> 
-          </font></p><ul type="square"><font size="2" face="verdana, helvetica, arial, sans-serif">
-          </font></ul><font size="2" face="verdana, helvetica, arial, sans-serif">
-        <br>
-
-
-<!-- Begin footer -------->
-<hr size="1">
-<img src="/art/scripps.gif" height="30" width="30" vspace="6" border="0" alt="Scripps logo" align="left">
-<br>
-          <font size="1" face="Verdana, Arial, Helvetica"> &nbsp; © 2001 
-          Caller Times Publications, a <a href="http://www.scripps.com"> Scripps 
-          Howard</a> newspaper. All rights reserved.<br>
-          </font>
-</font></td>
-
-<!------- End footer ----->
-
-
-
-<!-- Gutter -->
-
-<td width="12" bgcolor="#ffffff"><img src="/art/1x1.gif" height="1" width="12"></td>
-<!-- Line separator -->
-<td width="1" bgcolor="#666666"><img src="/art/1x1grey.gif" height="1" width="1"></td>
-
-
-<!------------------------- Advertising -------------------------------->
-<td width="125" valign="TOP" bgcolor="#ffff66"> 
-<center>
-<center>
-            <center>
-              <!-- AdSpace site=CCCT size=120x90 --> <a target="_top" href="/event.ng/Type=click&amp;ProfileID=212&amp;RunID=1294&amp;AdID=1272&amp;TagValues=195.290&amp;FamilyID=1&amp;GroupID=1&amp;Redirect=http:%2F%2Fcommunity.caller.com"><img src="http://www.caller.com/ngads/cbcad120x90b.gif" border="0" height="90" width="120" alt="Free Web Sites!"></a> 
-              <!-- /AdSpace --> <br>
-              <hr size="1" align="center">
-              <!-- AdSpace site=CCCT size=120x90 --> <a target="_top" href="/event.ng/Type=click&amp;ProfileID=212&amp;RunID=2818&amp;AdID=2574&amp;TagValues=195.290&amp;FamilyID=1&amp;GroupID=1&amp;Redirect=http:%2F%2Fwww.caller.com%2Fquotetracker%2F"><img src="http://www.caller.com/ngads/quotetracker120x60.gif" border="0" height="60" width="120" alt="Download the FREE Caller QuoteTracker"></a> 
-              <!-- /AdSpace --> <br>
-              <hr size="1" align="center">
-              <!-- AdSpace site=CCCT size=120x90 --> <a target="_top" href="/event.ng/Type=click&amp;ProfileID=212&amp;RunID=1634&amp;AdID=1562&amp;TagValues=195.290&amp;FamilyID=1&amp;GroupID=1&amp;Redirect=http:%2F%2Fwww.coastalbendhomes.com"><img src="http://www.caller.com/ngads/cbhad120x60a.gif" border="0" height="60" width="120" alt="Find your dream house"></a> 
-              <!-- /AdSpace --><br>
-            </center>
-            <hr size="1" align="center">
-          </center>
-<form method="post" action="http://search.caller.com/cgi-bin/htsearch">
-<center>
-<input type="hidden" name="config" value="caller">
-<input type="hidden" name="restrict" value="">
-<input type="hidden" name="exclude" value="">
-<input type="hidden" name="method" value="and">
-<img src="/art/header/search2.gif" width="120" height="41" alt="Search our site:"><br>
-<input type="text" size="16" name="words" value="">
-<br>
-<input type="submit" value="Search" name="submit">
-</center>
-</form>
-<center>
-          </center>
-</center>
-</td></tr>
-<!--------------------------- End of advertising --------------------------  -->
+</tbody></table><table width="145" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><a href="http://cfapps.caller.com/law/index.cfm"><img src="http://www.caller2.com/web/ccct/images/promo/law/law_order_lnbmast.gif" width="145" height="27" border="0"></a></td>
+</tr>
 </tbody></table>
-</center>
+<table width="145" border="0" cellspacing="0" cellpadding="6" bgcolor="#E8F3FF" class="smalltext" height="0">
+<tbody><tr valign="top"> 
+<td class="smalltext" height="128"> 
+<p><a href="http://cfapps.caller.com/law/index.cfm"><img src="http://www.caller2.com/web/ccct/images/promo/law/callerlaw.jpg" width="128" height="164" border="0"></a><br><b>Comprehensive news on law, enforcement, and consumer information</b></p><hr size="1">
+&gt;&gt;  Product recalls &amp; consumer tips<br>
+&gt;&gt;  Crime statistics <br>
+&gt;&gt;  Legal Resources<br>
+&gt;&gt; Sex offenders<br>
+&gt;&gt; More<br>
+<div align="right"><a href="http://cfapps.caller.com/law/index.cfm" class="lnbarchive">GO!</a></div>
+</td>
+</tr>
+</tbody></table>
+<table width="145" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><img src="http://www.caller2.com/web/ccct/images/spacers/blueline.gif" width="145" height="2" vspace="0"></td>
+</tr>
+</tbody></table><script language="JavaScript">
+
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+
+</script>
+<table width="145" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td><img src="http://www.caller2.com/web/ccct/images/icons/homepage/news/newsresources.gif" width="145" height="27"></td>
+</tr>
+</tbody></table>
+<table width="145" border="0" cellspacing="0" cellpadding="7" bgcolor="#E8F3FF" class="smalltext">
+<tbody><tr valign="top"> 
+<td class="smalltext" height="1046"> 
+<p><a href="http://cfapps.caller.com/roads/view.cfm" class="sectionheader">Road 
+Conditions </a>Find the latest road closures for the Coastal Bend area. <br>
+<a href="http://cfapps.caller.com/roads/view.cfm" class="deeplinks2">Go Find Closures 
+»</a> 
+</p><hr size="1" noshade="">
+<a href="#" onclick="MM_openBrWindow('http://wire.ap.org/APpackages/photoweek/index.html','apweekinphoto','toolbar=yes,width=517,height=413'); return false" class="sectionheader">Week 
+in Photo </a><a href="http://www.caller2.com/pick_lotto.shtml" class="sectionheader"><br>
+</a><img src="http://www.caller2.com/web/ccct/images/icons/homepage/sports/news_week_in_photo.jpg" width="126" height="77"><br>
+Associated Press news week in photo.<br>
+<a href="#" onclick="MM_openBrWindow('http://wire.ap.org/APpackages/photoweek/index.html','apweekinphoto','toolbar=yes,width=517,height=413'); return false" class="deeplinks2">View 
+»</a> 
+<hr size="1" noshade="">
+<a href="http://www.caller2.com/pick_lotto.shtml" class="sectionheader">Texas 
+Lotto<br>
+</a>What were last night's lotto numbers? Check out our lottery page to find out.<br>
+<a href="http://www.caller2.com/pick_lotto.shtml" class="deeplinks2">Get Lotto 
+Results »</a> 
+<hr size="1" noshade="">
+<form action="http://www.caller.com/cgi-bin/listmail.pl" method="POST">
+<span class="sectionheader">Breaking News Alert</span><br>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1">Get major news when 
+it happens.<br>
+</font> 
+<input type="hidden" name="list_name22" value="CallerAlerts">
+<input type="hidden" name="list_server22" value="listserv@lists.scripps.com">
+<input type="hidden" name="redir_url22" value="http://www.caller.com/lists/thanks.html">
+<input type="hidden" name="full_name22" value="anonymous">
+<input type="hidden" name="action22" value="add">
+<input type="text" size="13" name="email22" value="your e-mail here">
+<font size="3"><font size="2"> 
+<input type="submit" name="Submit22" value="Sign Up">
+</font></font> <font size="3"><font size="2"></font></font> 
+</form>
+<hr size="1" noshade="">
+<a href="http://www.caller2.com/emailsubscribe.htm" class="sectionheader">E-mail 
+Digest </a><br>
+<font size="1"><b></b></font>Get the latest local news in our e-mail<br>
+<a href="http://www.caller2.com/emailsubscribe.htm" class="deeplinks2">Sign Up 
+Free»</a> 
+<hr size="1" noshade="">
+<a href="https://ami.avantgo.com/channels/configure.html?cha_id=2786" class="sectionheader">Mobile 
+Edition</a><br>
+<font size="1"><b></b></font>Access Caller.com from your PDA and get the latest 
+news and information anywhere!<br>
+<a href="https://ami.avantgo.com/channels/configure.html?cha_id=2786" class="deeplinks2">Sign 
+Up Free»</a> 
+<hr size="1" noshade="">
+<a href="http://www.caller2.com/weather/alerts.html" class="sectionheader">Weather 
+Alerts </a><br>
+<font size="1"><b></b></font>Receive all the latest weather warnings in your e-mail 
+<br>
+<a href="http://www.caller2.com/weather/alerts.html" class="deeplinks2">Sign Up 
+Free»</a> 
+<hr size="1" noshade="">
+<a href="http://www.caller2.com/forums/webx/" class="sectionheader">Forums 
+</a><br>
+Sign up today to participate in our growing forums sections.<br>
+<a href="http://www.caller2.com/forums/webx/" class="deeplinks2">Sign 
+up for Forums »</a> <br>
+<hr size="1" noshade="">
+<a href="http://wire.ap.org/?MAIN=todayinhistory" class="sectionheader">Today 
+in History</a><br>
+Find out what happened this day in history.<br>
+<a href="http://wire.ap.org/?MAIN=todayinhistory" class="deeplinks2">GO »</a><br>
+<hr size="1" noshade="">
+<span class="sectionheader">Multimedia</span><br>
+<a href="http://www.caller2.com/multimedia/police/" class="deeplinks2">POLICE 
+SCANNER</a><br>
+Tune into to learn about road blocks, traffic accidents, emergencies and fires 
+as they happen, <br>
+LIVE - 24 hours a day.<br>
+<a href="http://www.caller2.com/multimedia/police/" class="deeplinks2">Listen 
+»</a> 
+<p><a href="http://play.rbn.com/?url=ap/nynyt/g2demand/audioupdate.ra&amp;proto=rtsp" class="deeplinks2">AP 
+NETWORK NEWS:</a><br>
+A five-minute audio newscast updated twice hourly. <br>
+<a href="http://play.rbn.com/?url=ap/nynyt/g2demand/audioupdate.ra&amp;proto=rtsp" class="deeplinks2">Listen 
+»</a> 
+</p></td>
+</tr>
+</tbody></table><table width="145" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><img src="http://www.caller2.com/web/ccct/images/icons/homepage/callertimes_delivery.gif" width="145" height="27"></td>
+</tr>
+</tbody></table>
+<table width="145" border="0" cellspacing="0" cellpadding="7" bgcolor="#E8F3FF" class="smalltext">
+<tbody><tr valign="top"> 
+<td class="smalltext" height="2"><a href="http://www.caller2.com/subscribe.htm"><img src="http://www.caller2.com/web/ccct/images/icons/homepage/frontpage.jpg" width="55" height="61" align="right" border="0"></a>Subscribe for newspaper delivery. <a href="http://www.caller2.com/subscribe.htm" class="lnbarchive">Click 
+Here </a></td>
+</tr>
+</tbody></table>
+<table width="145" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><img src="http://www.caller2.com/web/ccct/images/spacers/blueline.gif" width="145" height="2" vspace="0"></td>
+</tr>
+</tbody></table><!-- MaxSize (4) --></td></tr></tbody></table></p><p>
+			<table width="145" border="0" cellspacing="0" cellpadding="3" align="center">
+			<tbody><tr>
+				<td valign="top">
+					<span class="bodytext"><b>Previous News</b></span><br>
+					<img src="/ccct/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="/ccct/archive/0,1641,CCCT_801_19255_04-04-2002,00.html" class="lnbarchive">Thursday, Apr 4</a><br>
+				</td>
+			</tr>
+			</tbody></table><!-- MaxSize (4) --></p></td></tr></tbody></table> </td>
+	 <!-- END OF CELL FOR LEFT SIDE CONTENT -->
+
+<td width="2" valign="top" bgcolor="#003366"><img src="/ccct/images/spacers/spacer.gif" width="2" height="1"></td>
+
+	<!-- BEGIN CELL FOR CONTENT AREA -->
+	
+	<td width="447" valign="top" bgcolor="#FFFFF9">
+		<table width="447" border="0" cellspacing="0" cellpadding="10">
+        	<tbody><tr valign="top">
+				<td class="bodytext">
+											    
+						<!-- Vignette V/5 Fri Nov 09 14:36:07 2001 -->
+
+	<table width="423" border="0" cellspacing="0" cellpadding="0" align="center">
+				         <tbody><tr valign="top"> 
+					      <td class="bodytext">
+			<table border="0" cellspacing="0" cellpadding="3">
+				<tbody><tr>
+					<td class="deeplinks"><a href='javascript:popup("/cr/cda/article_print/1,1250,CCCT_800_872022,00.html",700,500,1)' class="deeplinks" onmouseover="self.status=&quot;Print this story&quot;;return true" onmouseout="self.status=&quot;&quot;;return true">PRINT 
+						THIS STORY</a> | <a href='javascript:popup("/cr/cda/email/article/1,1249,CCCT_800_872022,00.html",400,350)' class="deeplinks" onmouseover="self.status=&quot;E-mail this story&quot;;return true" onmouseout="self.status=&quot;&quot;;return true">E-MAIL 
+						THIS STORY</a>
+					</td>
+				</tr>
+			</tbody></table><p class="headline1">Privacy Policy</p><span class="bodytext">Caller Times New Media is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Caller.com we intend to give you as much control as possible over your personal information.
+
+<p>The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
+
+</p><p>Our site(s) may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the web site sponsor when linking to other web sites.
+
+</p><p>I. Information Which We Collect
+
+</p><p>We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.
+
+</p><p>Like many other commercial sites, our site(s) may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. Our web site(s) may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.
+
+</p><p>We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site.
+
+</p><p>We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
+
+</p><p>In addition, users may complete a subscription form online in order to subscribe to Corpus Christi Caller Times.. To subscribe, users must submit personal information in order for us to send the newspaper to you. 
+
+</p><p>II. Use of User Information
+
+</p><p>We may perform statistical analyses of aggregate user behavior. This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our site(s), to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent
+
+</p><p>III. Disclosure to Third Parties
+
+</p><p>We do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
+
+</p><p>IV. Accuracy of User Information
+
+</p><p>In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to ctinter@scripps.com, or you can reach us by telephone at 361-886-4390. You can also write us at:
+
+</p><p>Caller Times New Media
+<br>P. O. Box 9136
+<br>Corpus Christi, TX 78401
+
+</p><p>These privacy policies are effective as of August 21, 1998. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
+
+</p><p>V. Security of Information
+
+</p><p>We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.
+
+</p><p>VI. Opting-out
+
+</p><p>At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our site(s). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above. 
+
+</p><p>VII. Use of Materials
+
+</p><p>The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at ctinter@scripps.com.</p><p><b>November 8, 2001</b></p></span></td></tr></tbody></table>   </td>
+			</tr>
+		</tbody></table>
+	</td>
+	 <!-- END OF CELL FOR CONTENT -->
+	
+	<td width="2" valign="top" bgcolor="#003366"><img src="/ccct/images/spacers/spacer.gif" width="2" height="1"></td>
+
+	<!-- BEGIN CELL THAT HOLDS RIGHT GUTTER INFO -->
+	
+	<td width="160" valign="top" class="gutterbgcolor">
+		<table width="160" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td class="gutterbgcolor">
+			<!-- Vignette V/5 Mon Apr 01 12:50:11 2002 -->
+
+   
+			<table width="160" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td>
+				<table width="160" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+<td height="37"><a href="http://www.caller2.com/hp.html"><img src="http://www.caller2.com/web/ccct/images/icons/homepage/makehomepage.gif" width="160" height="38" border="0"></a></td>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+<tr>
+<td><img src="http://www.caller2.com/web/ccct/images/sidebar/search_new.gif" width="160" height="30"></td>
+</tr>
+<tr>
+<td> 
+<table border="0" cellspacing="0" cellpadding="7" align="center" width="160">
+<tbody><tr> 
+<form action="http://www.caller2.com/search/index.cfm" method="post" class="lnbarchive"></form>
+<td class="guttersearchbg1"><span class="smalltext2"> 
+<input type="RADIO" name="action" value="keyword" checked="">
+<a href="http://www.caller2.com/hp_archive.html" class="lnbarchive">Keyword</a><br>
+<input type="RADIO" name="action" value="ads">
+Sales/<br>
+&nbsp; &nbsp; &nbsp; Advertisements<br>
+
+<input type="RADIO" name="action" value="site">
+Caller.com<br>
+<input type="RADIO" name="action" value="yp">
+Yellow pages<br>
+<input type="RADIO" name="action" value="web">
+The Web<br>
+<input type="text" name="searchterms2" size="10">
+<input type="image" alt="Go!" align="absmiddle" src="http://www.caller2.com/web/ccct/images/nav/go_search.gif" border="0" name="image22" width="19" height="19">
+<br>
+<a href="http://www.caller2.com/autoconv/archives.htm">Previous archives</a></span></td>
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#003366" height="2">
+<tbody><tr>
+<td height="2"><img src="/web/ccct/images/spacers/spacer.gif" width="1" height="1"></td>
+</tr></tbody></table><!-- MaxSize (2) -->
+				</td>
+			</tr>
+			</tbody></table><p>
+		<!-- CCCT,800,17393,GUTTER_FUNNEL_AD_3_120x90,no,HOME -->
+		<!-- --------------------BEGIN ADVERTISER INDEX--------------- --> 
+		<table width="160" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/ccct/images/sidebar/extras_header.gif" border="0" alt="Site Extras"></td>
+		</tr>
+		</tbody></table>
+		
+		<table width="160" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="5" class="gutteradbg1"><img src="/ccct/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
+			<td width="150" class="gutteradbg2" valign="top">
+				<!-- TABLE FOR ADS AND CATEGORIES -->
+				<table width="150" border="0" cellspacing="0" cellpadding="0" align="center">
+				<!-- Begin Dynamic ads -->
+
+				
+			<tbody><tr>
+			<td align="center">
+			<!-- AdSpace iwidth=140 iheight=335 vgncontent=HOME adsize=120x90  pagetype=ARTICLE_DETAIL -->
+			<iframe width="140" height="335" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/page.multiads=yes&amp;page.uniqueads=yes&amp;Params.styles=ccct3&amp;site=CCCT&amp;vgncontent=HOME&amp;pagetype=ARTICLE_DETAIL&amp;adsize=120x90">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&page.multiads=yes&Params.styles=ccct3&page.uniqueads=yes&site=CCCT&vgncontent=HOME&adsize=120x90&pagetype=ARTICLE_DETAIL'></script>
+			<noscript>
+				<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x90&slot=0'>
+				<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x90&slot=0' border=0></a>
+				<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x90&slot=1'>
+				<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x90&slot=1' border=0></a>
+				<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x90&slot=2'>
+				<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x90&slot=2' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace --></td>
+			</tr>
+		
+
+				<!-- End Dynamic ads -->
+				</tbody></table>
+				<!-- END TABLE FOR ADS AND CATEGORIES -->
+			</td>
+		    <td width="5" class="gutteradbg1"><img src="/ccct/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
+		</tr>
+		</tbody></table>
+		
+		<table width="160" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/ccct/images/sidebar/extras_footer.gif"></td>
+		</tr>
+		</tbody></table></p><p>
+			<table width="160" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td>
+				<img src="http://www.caller2.com/web/ccct/images/sidebar/livecams.gif" border="0" width="160" height="30"><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+<tbody><tr align="center">
+<td>
+<script>
+imagenum4=Math.round(Math.random()*2)+1
+if(imagenum4==1){var image2="<IMG SRC=http://www.caller2.com/multimedia/cams/camera3/Camera3t.jpg width=128 height=96 BORDER=0>"}
+else if (imagenum4==2){var image2="<IMG SRC=http://www.caller2.com/multimedia/cams/ghostcam/ghostcam1t.jpg width=128 height=96 BORDER=0>"}
+else if (imagenum4==3){var image2="<IMG SRC=http://www.caller2.com/multimedia/cams/spohncam/spohncam1t.jpg width=128 height=96 BORDER=0>"}
+document.write (image2.link("http://www.caller2.com/multimedia/cams/index.html"))
+</script><a href="http://www.caller2.com/multimedia/cams/index.html"><img src="http://www.caller2.com/multimedia/cams/ghostcam/ghostcam1t.jpg" width="128" height="96" border="0"></a>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1" class="lnbarchive"><br>
+<b><a href="http://www.caller2.com/multimedia/cams/" class="lnbarchive">Click to enter</a></b></font></td>
+</tr></tbody></table><!-- MaxSize (1) -->
+				</td>
+			</tr>
+			</tbody></table></p><p>
+			<table width="160" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td>
+				<link href="/web/ccct/css/main2.css" rel="stylesheet">
+<table width="145" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td><img src="http://www.caller2.com/web/ccct/images/icons/homepage/specials-sections.gif" width="160" height="27"></td>
+</tr>
+</tbody></table>
+<table width="160" border="0" cellspacing="0" cellpadding="6" bgcolor="#E8F3FF" class="smalltext" height="0">
+<tbody><tr valign="top"> 
+<td class="smalltext" height="9"> 
+<p><b>March '02</b>
+</p><hr noshade="" size="1">
+<li><font size="1"><a href="http://www.caller2.com/specials/kids_2002/index.html" class="lnbarchive">What's a Kid To Do</a></font></li>
+<li><font size="1"><a href="http://www.caller2.com/specials/2002carcare/index.html" class="lnbarchive">Spring 
+Car Care</a></font></li>
+<li><font size="1"><a href="http://www.caller2.com/specials/bbb/" class="lnbarchive">BBB 
+Anniversary</a></font></li>
+<li><font size="1"><a href="http://www.caller2.com/taxtalk/" class="lnbarchive">Tax 
+Talk Live</a></font><font size="1"> :Archive<br>
+</font></li>
+<p><b>February '02</b> 
+</p><hr noshade="" size="1">
+<li><a href="http://www.caller2.com/specials/2002/elections/" class="lnbarchive"><font size="1">Election 
+2002</font></a></li>
+<li><font size="1"><a href="http://www.caller2.com/specials/2002olympics/" class="lnbarchive">Salt 
+Lake 2002</a></font></li>
+<li><font size="1"><a href="http://www.caller2.com/specials/homebuyers/" class="lnbarchive">Home 
+Buyers Fair</a></font><font size="1"><br>
+</font></li>
+<p><b> January '02</b> 
+</p><hr noshade="" size="1">
+<li><font size="1"><a href="http://www.caller2.com/specials/weddingfair2002/" class="lnbarchive">Wedding 
+Fair</a></font></li>
+<li><font size="1"><a href="http://www.caller2.com/specials/livestock/index.html" class="lnbarchive">Junior 
+Livestock Show</a><br>
+</font></li>
+<p><b> December '01</b> 
+</p><hr noshade="" size="1">
+<li><font size="1"><a href="http://cfapps.caller.com/best/index.cfm" class="lnbarchive">Best 
+of the Best</a><br>
+</font></li>
+<p><b>October '01<br>
+</b> 
+</p><hr noshade="" size="1">
+<b> </b> 
+<li><font size="1"><a href="http://www.caller2.com/specials/survivor/" class="lnbarchive">Survivor 
+South Texas</a> </font> </li>
+</td>
+</tr>
+</tbody></table>
+<table width="160" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr bgcolor="#003366"> 
+<td height="2"></td>
+</tr>
+</tbody></table><table width="147" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td colspan="3"><a href="http://www.caller2.com/forums/webx/"><img src="http://www.caller2.com/web/ccct/images/topics/hot_topics_01.gif" width="147" height="46" border="0"></a></td>
+</tr>
+<tr>
+<td background="http://www.caller2.com/web/ccct/images/topics/hot_topics_02.gif"><a href="http://www.caller2.com/forums/webx/"><img src="http://www.caller2.com/web/ccct/images/topics/hot_topics_02.gif" width="25" height="156" border="0"></a></td>
+<td width="109" height="156" valign="top">
+
+
+<span class="smalltext2">
+
+<p><a class="deeplinks" href="http://cfapps.caller.com/interact/newcomments2.cfm?QuestionNumber=109">A mascot for Corpus Christi?</a><br>What animal best represents Corpus Christ?</p>
+
+
+<p><a class="deeplinks" href="http://forums.caller.com/cgi-bin/WebX?caller-13@@.ee6dc52/0">Pet peeves</a><br>What are some things that annoy you?</p>
+
+<p><a class="deeplinks" href="http://forums.caller.com/cgi-bin/WebX?caller-13@@.ee6dc5f">Gay adoption</a><br>Rosie comes out and shines the spotlight on a Florida law against gay adoption.</p>
+
+
+<p><a class="deeplinks" href="http://forums.caller.com/cgi-bin/WebX?caller-13@@.ee6c97b/2">Underpaid teachers?</a><br>Reader <i>Jena</i> asks: Does anyone care?</p>
+
+<p><a class="deeplinks" href="http://forums.caller.com/cgi-bin/WebX?caller-13@@.ee6dc63">Judicial integrity</a><br>Does judicial misconduct subvert justice?</p>
+
+
+<p><a class="deeplinks" href="http://forums.caller.com/cgi-bin/WebX?caller-13@@.ee6ce2a">Sex signs decision</a><br>Appeals court rules Banales went too far. Your thoughts?</p>
+
+<p><a class="deeplinks" href="http://forums.caller.com/cgi-bin/WebX?caller-13@@.ee6cf34">Andrea Yates</a><br>Did jurors come to the right decision?</p>
+
+<a href="http://www.caller2.com/forums/webx/" class="deeplinks">[All message boards]</a><p>
+
+
+</p></span></td>
+<td background="http://www.caller2.com/web/ccct/images/topics/hot_topics_04.gif"><img src="http://www.caller2.com/web/ccct/images/topics/hot_topics_04.gif" width="13" height="156"></td>
+</tr>
+<tr>
+<td colspan="3">
+<img src="http://www.caller2.com/web/ccct/images/topics/hot_topics_05.gif" width="147" height="37"></td>
+</tr>
+</tbody></table><!-- MaxSize (2) -->
+				</td>
+			</tr>
+			</tbody></table><!-- MaxSize (4) --> </p></td>
+		</tr>
+		</tbody></table>
+	</td>
+	 <!-- END CELL THAT HOLDS RIGHT GUTTER INFO -->
+	
+<td width="2" valign="top" bgcolor="#003366"><img src="/ccct/images/spacers/spacer.gif" width="2" height="1"></td>	
+	
+</tr>
+</tbody></table>
+<!-- END OF TABLE FOR CONTENT AREA -->
+
+
+	
+	<!-- ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- -->	 
+	<!-- Vignette V/5 Wed Mar 27 12:15:28 2002 -->
+
+  
+			
+			
+			<table width="760" border="0" cellspacing="0" cellpadding="5" bgcolor="#003366" height="60">
+			<tbody><tr><td valign="top" align="center">
+			<!-- AdSpace vgncontent=HOME adsize=120x60 pos.1  pagetype=ARTICLE_DETAIL -->
+			<iframe width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=CCCT&amp;vgncontent=HOME&amp;pagetype=ARTICLE_DETAIL&amp;adsize=120x60&amp;PagePos=1">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x60&PagePos=1'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x60&PagePos=1'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x60&PagePos=1' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace -->
+		</td><td valign="top" align="center">
+			<!-- AdSpace vgncontent=HOME adsize=468x60 pos.2  pagetype=ARTICLE_DETAIL -->
+			<iframe width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=CCCT&amp;vgncontent=HOME&amp;pagetype=ARTICLE_DETAIL&amp;adsize=468x60&amp;PagePos=2">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=468x60&PagePos=2'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=468x60&PagePos=2'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=468x60&PagePos=2' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace -->
+		</td><td valign="top" align="center">
+			<!-- AdSpace vgncontent=HOME adsize=120x60 pos.2  pagetype=ARTICLE_DETAIL -->
+			<iframe width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=CCCT&amp;vgncontent=HOME&amp;pagetype=ARTICLE_DETAIL&amp;adsize=120x60&amp;PagePos=2">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x60&PagePos=2'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x60&PagePos=2'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=CCCT&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=120x60&PagePos=2' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace -->
+		</td>
+			</tr>
+			</tbody></table><!-- ----------------------BEGIN SITE FOOTER COMPONENT----------------------- -->
+<table width="760" border="0" cellspacing="0" cellpadding="10" bgcolor="#003366">
+  <tbody><tr valign="top">
+    <td class="footertext" width="30"> 
+      <a href="http://www.scripps.com"><img src="/ccct/images/temp/scripp302.gif" width="27" height="26" hspace="0" vspace="2" border="1"></a>
+      </td>
+	  
+      
+<td class="footertext" width="620">
+© 2002 Texas Scripps Newspapers, L.P. A <a href="http://www.scripps.com" class="footertext"><b>Scripps 
+                Howard</b></a> newspaper. All Rights Reserved. Site users are subject 
+                to our <a href="http://www.caller.com/ccct/home/article/1,1641,CCCT_800_872018,00.html" class="footertext"><b>User Agreement</b></a>. Read our <a href="http://www.caller.com/ccct/home/article/1,1641,CCCT_800_872022,00.html" class="footertext"><b>privacy policy</b></a>.  Questions? Comments? <a href="http://www.caller2.com/commcentral/" class="footertext"><b>Contact
+us.</b></a></td>
+  </tr>
+</tbody></table>
+<!-- ---------------------- END SITE FOOTER COMPONENT----------------------- --><!-- MaxSize (2) --> <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
+<!-- Layer tag to support Netscape 4.x for HTML included job ads in gutter -->
+<iframe width="1" height="1" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=CCCT&amp;vgncontent=TOP_JOBS&amp;Section=top_jobs&amp;PagePos=2">
+<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=CCCT&vgncontent=TOP_JOBS&Section=top_jobs&PagePos=2">
+</script>
+</iframe>
+
+
+
 
 </body></html>
