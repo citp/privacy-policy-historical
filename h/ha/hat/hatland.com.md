@@ -1,58 +1,7 @@
-> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603191834id_/http%3A//www.hatland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004172652id_/http%3A//www.hatland.com/privacy.html) for the most accurate reproduction.*
 
 # hatland.com - privacy policy
 
-[](http://www.hatland.com/mlb.html)  
-[](http://www.hatland.com/nba.html)  
-[](http://www.hatland.com/nfl.html)  
-[](http://www.hatland.com/nhl.html)  
-[](http://www.hatland.com/visors.html)  
-[](http://www.hatland.com/lacrosse.html)  
-[](http://www.hatland.com/nike.html)  
-[](http://www.hatland.com/adidas.html)  
-[](http://www.hatland.com/nofear.html)  
-[](http://www.hatland.com/college.html)  
-[](http://www.hatland.com/nascar.html)  
-[](http://www.hatland.com/chinese.html)  
-[](http://www.hatland.com/accessories.html)
-
-  
-_   Stay on Top of your Game!_
-
-#### [return policies](http://www.hatland.com/returns2.html)
-
-**orders only:**  
-1-888-HAS-HATS  
-(1-888-427-4287)
-
-**questions:**  
-410-524-7399  
-[please email us](mailto:customer@hatland.com)
-
-**fax:**  
-410-524-4791
-
-Hatland.com  
-11429 Coastal Hwy  
-Ocean City MD 21842  
-USA
-
-| [](http://www.funforalltoys.com/)  
-Retro-classic games and toys from a bygone era. Pranks and gags too!  
----  
-[](http://www.scandinavianoccasion.com/)  
-Handcrafted crystal, lace woodtoys and papercuts from Sweden, Norway, and Denmark.  
-[](http://www.edgenow.com/)  
-The ultimate beach store with Oakley eyewear, Freestyle Shark watches, Reef sandals, Stussy t-shirts, and Roxy accessories.  
-[](http://www.hatland.com/details.html)  
-| 
-
-|  | **hatland.com Privacy Policy:**
-
-At hatland.com, your privacy is a top priority.  
-  
----|---  
-  
 At hatland.com, we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy Policy. This will give you a summary sketch about how information is collected from you and how it is used. 
 
 **Information Collected:**  
