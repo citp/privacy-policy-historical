@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2002-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021007044346id_/http%3A//www.yakimaherald.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621163726id_/http%3A//yakimaherald.com/pages/privacy.news) for the most accurate reproduction.*
 
-# The Yakima Herald-Republic online privacy statement:
+# Yakima Herald-Republic Local News, Sports, Real Estate, Obituaries, Shopping and Advertising
 
-**Yakima-Herald.com Online Privacy Statement:  
   
-**
-
 Yakima-Herald.com is firmly committed to protecting your privacy online. We respect your right to privacy and have taken steps to protect the information you share with us. Here is how we typically use the information you provide. ****
 
 **Your Personal Information**
@@ -37,13 +34,14 @@ We retain the right, at our discretion, to change any of these policies in the f
 
 **Contacting our Web sites**
 
-If you have any questions about this privacy statement, the practices of our Web sites, or your interactions with these sites, you can contact us at: **[webmaster@yakima-herald.com](mailto:webmaster@yakima-herald.com)**
+If you have any questions about this privacy statement, the practices of our Web sites, or your interactions with these sites, you can contact us at: **[webmaster@yakima-herald.com](mailto:webmaster@yakima-herald.com)  
+**
 
-**Or send your comments to:**
+|  |  |   
+---|---|---  
+**Or send your comments to:** |   | Yakima Herald-Republic  
+  |   | Attn: Webmaster  
+  |   | 114 North 4th St.  
+  |   | 
 
-Yakima Herald-Republic
-
-Attn: Webmaster
-
-114 North 4th St.   
 Yakima, WA 98901
