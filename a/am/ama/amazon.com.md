@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.com privacy policy that was archived on 2004-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040511232229id_/http%3A//amazon.com/exec/obidos/tg/browse/-/468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211005559id_/http%3A//www.amazon.com/exec/obidos/tg/browse/-/468496) for the most accurate reproduction.*
 
 # Amazon.com: Help / Privacy & Security / Privacy Notice
 
@@ -104,4 +104,4 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 
 **Co-branded and Joint Offerings**
 
-Examples of businesses with which we offer joint or co-branded products and other offerings include Toysrus.com, Babiesrus.com, Imaginarium.com, Target, Marshall Field's, Circuit City, Borders, Waldenbooks, AT&T Wireless, Sprint, T-Mobile, CarsDirect.com, Hotwire, drugstore.com, The Vacation Store, Ofoto.com, Office Depot, J&R, Virginmega.com, Nordstrom, Eddie Bauer, Gap, Old Navy, and other apparel stores.
+Examples of businesses with which we offer joint or co-branded products and other offerings include Toysrus.com, Babiesrus.com, Imaginarium.com, Target, Circuit City, Borders, Waldenbooks, AT&T Wireless, Sprint, T-Mobile, CarsDirect.com, Hotwire, drugstore.com, The Vacation Store, Ofoto.com, Office Depot, J&R, Virginmega.com, Nordstrom, Eddie Bauer, and other apparel stores.
