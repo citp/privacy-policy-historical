@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603184932id_/http%3A//www.us-immigration.com/new_geninfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204203115id_/http%3A//us-immigration.com/privacy.html) for the most accurate reproduction.*
 
-# IMMIGRATION: American Immigration Center - USA IMMIGRATION INFORMATION and Do-it-Yourself Kits
+# American Immigration Center: All the Information about Latest INS Updates on US Immigration Procedures
 
-##  Privacy Statement
+## Privacy Statement
 
 The American Immigration Center is committed to protecting your privacy. We use the information we collect on this web site mainly to process orders, make shopping at American Immigration Center possible and to enhance your overall shopping experience. We do not forward, sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties but before we do, we will amend our privacy policy. 
 
