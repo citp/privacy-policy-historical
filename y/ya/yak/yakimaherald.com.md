@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621163726id_/http%3A//yakimaherald.com/pages/privacy.news) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202161303id_/http%3A//www.yakimaherald.com/pages/privacy.news) for the most accurate reproduction.*
 
 # Yakima Herald-Republic Local News, Sports, Real Estate, Obituaries, Shopping and Advertising
 
