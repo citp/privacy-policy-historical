@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601105804id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210023739id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,7 +16,8 @@
 • [Meet Jesus](https://web.archive.org/information/general/salvation.asp)  
 • [Take Survey](https://web.archive.org/surveys/survey.asp)  
 • [E-Mail Us](https://web.archive.org/contacts.asp)  
-• [Keep Me Posted](https://web.archive.org/requests/NewsRequest.asp)
+• [Keep Me Posted](https://web.archive.org/requests/NewsRequest.asp)  
+• [Read "Who, Me?"](https://web.archive.org/reading/tracts/0900/0900_01.asp)
 
 **PRODUCTS**
 
