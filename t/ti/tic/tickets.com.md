@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607191947id_/http%3A//tickets.com/privacy_statement.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2002-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021027223407id_/http%3A//www.tickets.com/aboutus/privacy_statement.html) for the most accurate reproduction.*
 
-# Tickets.com - Privacy Statement
+# Tickets.com - Privacy Policy
 
-|  |  **ticket·privacy** SM
+Privacy Principles for Non USA Based Business:   
+**ticket·privacy** SM
 
-Tickets.com, Inc., a Delaware corporation with its principal place of business in California (the "Company"), created **ticket·privacy** SM in order to demonstrate the Company's firm commitment to your privacy and privacy-related concerns. The following sets forth the Company's information gathering, use, and dissemination practices. 
+Tickets.com, Inc., a Delaware corporation with its principal place of business in California (the "Company"), created **ticket·privacy** SM in order to demonstrate the Company's firm commitment to your privacy and privacy-related concerns. The following sets forth the Company's information gathering, use, and dissemination practices.
 
 It is the Companies policy to allow our customers to control what personal information you provide to us. As a customer of the Company you:
 
@@ -62,9 +63,9 @@ Privacy Principles for Non USA Based Business
 
 Privacy in the United Kingdom 
 
-Back to [United Kingdom's homepage](http://www.uk.tickets.com/)
+Back to [United Kingdom's homepage](http://www.tickets.com/gb)
 
-By submitting your information, you agree to the following: Tickets.com is a US company (Tickets.com) which sells tickets for venues across the world. In the UK our company is Dataculture Ltd - a Tickets.com company (address: Dataculture, 405 Midsummer Boulevard, Milton Keynes MK9 3BN). Your data will be kept on our database in the US and we will only supply it to a venue from which you choose to purchase tickets. The venue will only share your details with their promoter or visiting company or artist in order for them to contact with you with further information. From time to time we may contact you with details of special offers or other promotions which we think will be of interest to you. 
+By submitting your information, you agree to the following: Tickets.com is a US company (Tickets.com) which sells tickets for venues across the world. In the UK our company is Tickets.com Ltd - a Tickets.com company (address: Tickets.com, 405 Midsummer Boulevard, Milton Keynes MK9 3BN). Your data will be kept on our database in the US and we will only supply it to a venue from which you choose to purchase tickets. The venue will only share your details with their promoter or visiting company or artist in order for them to contact with you with further information. From time to time we may contact you with details of special offers or other promotions which we think will be of interest to you. 
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
@@ -83,7 +84,7 @@ e-mail: [mail@dataprotection.gov.uk](mailto:%20mail@dataprotection.gov.uk)
 
 Data Protection in Australia
 
-Back to [Australia's home page](https://web.archive.org/australia)
+Back to [Australia's home page](http://www.tickets.com/au)
 
 The Commonwealth Privacy Act 1998 implements strict privacy protection which Commonwealth and government agencies must observe when collecting, storing, using and disclosing personal information. Other Commonwealth laws contain privacy provisions relating to information about health insurance claims, data matching, information about old criminal convictions and personal information disclosed by telecommunications companies. The Privacy Act applies to the private sector only with respect to tax file numbers and consumer credit information. The Federal Privacy Commissioner has encouraged Australian businesses to develop voluntary industry codes of conduct to meet privacy standards. In February 1998, the Commissioner issued a document entitled "National Principles for the Fair Handling of Personal Information." The National Principles are based on the OECD Guidelines. These Principles address the collection, use, and disclosure of data; data quality and security; openness, access and correction; identifiers, anonymity, trans-border data flows and sensitive information. In December 1998, the Federal Government announced that it intends to enact legislation to strengthen self-regulatory privacy protection in the private sector. They also announced that the legislation that will be introduced would be based on the National Principles. The Company is committed to adherence to industry codes of conduct and/or legislation that will be required to process data in Australia and respects the privacy rights of the citizens of Australia.
 
@@ -114,9 +115,9 @@ URL: [www.privacy.gov.au](http://www.privacy.gov.au/)
 
 Privacy in the Netherlands
 
-Back to [Netherlands' homepage](http://www.nl.tickets.com/)
+Back to [Netherlands' homepage](http://www.tickets.com/nl)
 
-The Netherlands enacted the Data Protection Act (DPA or the Act) on July 1, 1989\. The DPA promotes self-regulation, and provides consumers with certain rights, including notice, access to information, disclosure and correction of inaccuracies. It requires those in control of personal data files to take measures to assure only authorized disclosures and ensure informational accuracy. Lastly, the DPA allows consumers to seek and obtain compensation for damages. The Act applies to personal data files relating to living individuals. Collection of data for personal or private use is excluded from its provisions. When certain requirements are met, a corporation may bring an action under the Act's provisions, however, the Act itself does not apply to data concerning corporations. 
+The Netherlands enacted the Data Protection Act (DPA or the Act) on July 1, 1989. The DPA promotes self-regulation, and provides consumers with certain rights, including notice, access to information, disclosure and correction of inaccuracies. It requires those in control of personal data files to take measures to assure only authorized disclosures and ensure informational accuracy. Lastly, the DPA allows consumers to seek and obtain compensation for damages. The Act applies to personal data files relating to living individuals. Collection of data for personal or private use is excluded from its provisions. When certain requirements are met, a corporation may bring an action under the Act's provisions, however, the Act itself does not apply to data concerning corporations. 
 
 The Act creates the Chamber of Registration which is responsible for:
 
@@ -139,7 +140,7 @@ A consumer must be informed of their right to question the existence, accuracy, 
 
 Information Bureaus 
 
-Information bureaus may gather information that affects the rights of consumer'ss. For example, a credit bureau may gather information relating to a consumer's's creditworthiness. Consent is required for the issuance and dissemination of such information and such consent must be in writing. Data may be issued to a third party if in conjunction with the purpose of the file, on request for research or statistical purposes, or "on the grounds of urgent and important considerations." The Act applies to all civilian collections of personal data, regardless of residency status in the Netherlands. It also applies to foreign files having a Dutch file controller and containing personal data about Netherlands residents. There are certain limited exemptions that may be granted in trans-border data dissemination, however, exemptions are only granted to those countries with adequate data protection laws. The Act limits access to foreign data files dictated by a foreign controller. A total ban on the transfer of data can be issued if it is established that the privacy of an individual in threatened.
+Information bureaus may gather information that affects the rights of consumers. For example, a credit bureau may gather information relating to a consumer's's creditworthiness. Consent is required for the issuance and dissemination of such information and such consent must be in writing. Data may be issued to a third party if in conjunction with the purpose of the file, on request for research or statistical purposes, or "on the grounds of urgent and important considerations." The Act applies to all civilian collections of personal data, regardless of residency status in the Netherlands. It also applies to foreign files having a Dutch file controller and containing personal data about Netherlands residents. There are certain limited exemptions that may be granted in trans-border data dissemination, however, exemptions are only granted to those countries with adequate data protection laws. The Act limits access to foreign data files dictated by a foreign controller. A total ban on the transfer of data can be issued if it is established that the privacy of an individual is threatened.
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
@@ -168,7 +169,7 @@ Fax: +(31) 70 381 1301
 
 Privacy in Canada
 
-Back to [Canada's homepage](https://web.archive.org/canada)
+Back to [Canada's homepage](http://www.tickets.com/ca)
 
 The Canadian government passed two acts, the Access to Information Act ("AIA") and the Privacy Act on July 1, 1983 to balance the need for data processing with the competing interests of Canadian citizens for protection of their privacy. Although the AIA received more media attention, it is the Privacy Act that guarantees citizens the right to privacy.
 
@@ -273,7 +274,7 @@ Fax: 852 2877 7026
 
 Privacy in Germany
 
-Back to [Germany's homepage](http://www.de.tickets.com/)
+Back to [Germany's homepage](http://www.tickets.com/de)
 
 Data protection in Germany has come in two phases. The Federal Data Protection Act (BDSG) was adopted January 27, 1977. The major provisions came into force January 1, 1978 and the technical and organizational measures became effective on January 1, 1979. The BDSG was then replaced in 1991 by a new data protection act which took advantage of the experiences and technical improvements of the previous years as well as judicial opinions of the Federal Constitutional court.. Data protection in Germany centers around important concepts of general privacy, human rights and the balance between access to information and privacy concerns. Basically, the German data protection law embodies "informationelles Selbstbestimmungsrecht" -- the basic right of the individual to decide on the use and communication of his or her personal data. This tenet is paramount, with the caveat of overriding social or public concerns. The main purpose of the Act is to "protect the individual against his right to privacy being impaired through the handling of his personal data." The Act states that the "processing and use of personal data shall be admissible only if this Act or any other legal provision permits or prescribes them or the consumer's has consented." But the Act may be superseded by the interests of the state. The Act states that insofar as "other legal provisions of the Federation are applicable to personal data, including their publication, such provisions shall take precedence over the provisions of this Act." 
 
@@ -306,7 +307,7 @@ Fax: +(49) 228 819 95 50
 
 Privacy in Belgium
 
-Back to [Belgium's homepage](http://www.be.tickets.com/)
+Back to [Belgium's homepage](http://www.tickets.com/be)
 
 Belgium enacted the Belgium Data Protection Act (BDPA) on December 8, 1992, to ensure that personal data may only be processed for clearly described and justified purposes and may not be used in a manner incompatible with these purposes. 
 
@@ -343,7 +344,7 @@ Fax: (32) 2 542 7212
 
 Privacy in Italy
 
-Italy enacted the Processing of Personal Data Act (the Act) in September, 1993\. The Act is designed to "ensure that the processing of personal data is carried out by respecting the rights, fundamental freedoms and dignity of natural persons, especially as related to privacy and personal identity..." Personal data is defined under the Act as "any information relating to natural or legal persons, bodies or associations that are or can be identified, even indirectly, by reference to any other information including by a personal identification number..." The law applies to the processing of personal data carried out by any person on Italian soil. It does not apply to data collected for purely personal use, provided that the data are not intended for systematic communication or dissemination. The Act applies to the processing, "on the State's territory, of personal data kept in a foreign country."
+Italy enacted the Processing of Personal Data Act (the Act) in September, 1993. The Act is designed to "ensure that the processing of personal data is carried out by respecting the rights, fundamental freedoms and dignity of natural persons, especially as related to privacy and personal identity..." Personal data is defined under the Act as "any information relating to natural or legal persons, bodies or associations that are or can be identified, even indirectly, by reference to any other information including by a personal identification number..." The law applies to the processing of personal data carried out by any person on Italian soil. It does not apply to data collected for purely personal use, provided that the data are not intended for systematic communication or dissemination. The Act applies to the processing, "on the State's territory, of personal data kept in a foreign country."
 
 All data collected must be:
 
