@@ -1,10 +1,50 @@
-> *The following text is extracted and transformed from the nasa.gov privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604115445id_/http%3A//www.nasa.gov/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasa.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217202958id_/http%3A//www.nasa.gov/hqpao/privacy.html) for the most accurate reproduction.*
 
-# NASA Website Privacy, Disclaimer and Accessibility Statement
+# <!--- Title --->
 
-This policy establishes how NASA will use information we gather about you from your visit to our website. The privacy of our customers is of utmost importance to NASA. 
+Search NASA's Web  
+[Search Options](https://web.archive.org/search/index.html)  
 
-If you visit a NASA site...
+
+* * *
+
+[Need help?](https://web.archive.org/hqpao/help.html)  
+
+
+* * *
+
+ **[Navigating NASA's Strategic Enterprises  
+](https://web.archive.org/enterprises.html)**
+
+* * *
+
+ **[NASA for Kids  
+](https://web.archive.org/kids.html)**
+
+* * *
+
+ **More About NASA:  
+**| [Doing Business with NASA](http://www.hq.nasa.gov/office/procurement/index.html)  
+---  
+[Educational Resources](http://education.nasa.gov/)  
+[Freedom of Information Act](http://www.hq.nasa.gov/office/pao/FOIA/)  
+[History](http://history.nasa.gov/)  
+[Jobs and Internships](http://www.nasajobs.nasa.gov/)  
+[NASA Technology Portal](http://nasatechnology.nasa.gov/)  
+[News and Information](https://web.archive.org/newsinfo/index.html)  
+[Organization and Subject Index](https://web.archive.org/nasaorgs/index.html)  
+[Project Home Pages](https://web.archive.org/projects.html)  
+[Research Opportunities](https://web.archive.org/research.html)  
+[Scientific and Technical Information](https://web.archive.org/techinfo.html)  
+[See a Launch](https://web.archive.org/see_a_launch.html)  
+[Launch Schedule](http://www-pao.ksc.nasa.gov/kscpao/schedule/mixfleet.htm)  
+[Speakers Bureau](https://web.archive.org/speakers/index.html)  
+[Spinoffs and Commercial Technology](http://nctn.hq.nasa.gov/)  
+[Visiting NASA](https://web.archive.org/visitors.html)  
+[Dreamtime](http://www.dreamtime.com/home.html)  
+|  This policy establishes how NASA will use information we gather about you from your visit to our website. The privacy of our customers is of utmost importance to NASA. 
+
+If you visit a NASA site... 
 
 ## 1\. To read or download information:
 
@@ -20,11 +60,32 @@ If you visit a NASA site...
 
 **We want to be very clear: regardless of the information being transmitted to NASA, we will protect all such information consistent with applicable law.**
 
-> Thank you for visiting this NASA web site. NASA may provide links to web pages which are not part of the NASA web family, or nasa.gov domain. These sites are not under NASA control, and NASA is not responsible for the information or links you may find there. NASA is providing these links only as a convenience. The presence of these links on any NASA website is not intended to imply NASA endorsement of that site, but to provide a convenient link to relevant sites which are managed by other organizations, companies, or individuals.
+> Thank you for visiting this NASA website. NASA may provide links to web pages that are not part of the NASA web family, or nasa.gov domain. These sites are managed by organizations, companies, or individuals not under NASA control, and NASA is not responsible for the information or links you may find there. NASA provides these links merely as a convenience and the presence of these links is not NASA endorsement of the site. 
 
-> The pages on this website have been reviewed and revised to be accessible to individuals with disabilities in accordance with provisions of Section 508 of the Workforce Investment Act and the Americans with Disabilities Act. If you are having a problem accessing a NASA website please let us know and we will work to ensure accessibility. [If you have any difficulty viewing any page with adaptive technology, click here to let us know.](mailto:credmond@hq.nasa.gov)
+> The majority of pages on this website are accessible to individuals with disabilities in accordance with Section 508 of the Rehabilitation Act. If you have accessibility problems, please let us know. 
+
+> Images on our website are accompanied by alternative text describing graphics if your browser supports the alt-text function. Documents on our website are presented in many formats. These formats are generally accessible to users using screen reading software. Some files are posted as Adobe Acrobat PDF (Portable Document Format) files. Users with visual disabilities click here for free access to software from Adobe which will make reading PDF files easier [`Adobe Acrobat Accessibility Link.`](http://www.adobe.com/products/acrobat/alternate.html "Adobe 
+download page containing all Adobe Acrobat products and versions including
+accessibility plug-ins")
+> 
+> [If you have any difficulty viewing any page with adaptive technology, click here to let us know.](mailto:credmond@hq.nasa.gov)
 
   
 _Use your browser's "BACK" button to return to previous page._
 
-July 17, 2000 
+* * *
+
+[[Frequently Asked Questions](https://web.archive.org/qanda/index.html)] [[Hot Topics](https://web.archive.org/hotopics/index.html)] [[Multimedia Gallery](https://web.archive.org/gallery/index.html)] [[NASA Television](https://web.archive.org/ntv/)] [[Text Only Version](https://web.archive.org/textonly.html)] [[NASA Privacy Statement, Disclaimer, and Accessibility Certification](http://www.nasa.gov/hqpao/privacy.html)] [[Site Maps](https://web.archive.org/siteindex.html)]
+
+* * *
+
+|  [](http://www.firstgov.gov/) | 
+
+**Author:** Elvia Thompson  
+**Responsible NASA Official:** Brian Dunbar  
+**Site Maintainer:** K F Chow  
+[Comments and Questions ](https://web.archive.org/hqpao/comments.html)  
+**Last Updated:** November 30, 2001   
+  
+  
+---|---
