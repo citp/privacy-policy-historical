@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622042107id_/http%3A//www.optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034824id_/http%3A//optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
 
 # Optionetics
 
