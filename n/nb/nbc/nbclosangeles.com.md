@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbclosangeles.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204030016id_/http%3A//www.nbc4.tv/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbclosangeles.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622074831id_/http%3A//www.nbc4.tv/news/1176131/detail.html) for the most accurate reproduction.*
 
 # NBC 4 - News - Online Privacy Statement
 
