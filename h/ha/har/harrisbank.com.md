@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrisbank.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210152333id_/http%3A//www.harrisbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrisbank.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602042607id_/http%3A//www.harrisbank.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Summary
 
@@ -6,9 +6,9 @@
 Privacy 
 
 At Harris, we recognize the importance of protecting the privacy of our customers and  
-those who visit our web site. Our Privacy Policy Summary outlines our guidelines for maintaining appropriate and discrete use of information about you. To view our complete Privacy Policy, [Click Here](https://web.archive.org/web/20021210152333id_/http%3A//www.harrisbank.com/privacy_full.html). If you use the Harris Total Look service, please Click Here.
+those who visit our web site. Our Privacy Policy Summary outlines our guidelines for maintaining appropriate and discrete use of information about you. To view our complete Privacy Policy, [Click Here](https://web.archive.org/web/20030602042607id_/http%3A//www.harrisbank.com/privacy_full.html). If you use the Harris Total Look service, please Click Here.
 
-The Harris Web site safeguards customer information by maintaining physical, electronic, and procedural safeguards that comply with federal standards to guard non-public personal information about you. If you'd like to know more about how Harris protects information about you, click on [legal](https://web.archive.org/web/20021210152333id_/http%3A//www.harrisbank.com/legal.html) for details about our web site security. 
+The Harris Web site safeguards customer information by maintaining physical, electronic, and procedural safeguards that comply with federal standards to guard non-public personal information about you. If you'd like to know more about how Harris protects information about you, click on [legal](https://web.archive.org/web/20030602042607id_/http%3A//www.harrisbank.com/legal.html) for details about our web site security. 
 
 We use your contact information (mailing address, e-mail address and phone numbers) you provide to us to inform you about important information relating to your account, including important administrative information. You have the opportunity to opt-out of receiving non-administrative information such as information about new products, services or offerings that we believe may be of interest to you. If you do not want to receive this information by mail, e-mail or telephone in the future, you can tell us not to contact you by contacting us at 1-888-340-2265 or writing to us at Harris Privacy Office, 111 West Monroe, 111/21W, Chicago, Illinois, 60610. Please note that it may take several weeks to fully process your request. Thereafter, the only information we will provide you regarding our services will be through regular communications with you. 
 
@@ -46,7 +46,7 @@ We limit access to the information we have about you to those employees who need
 **When do we share information about you?**
 
 We may share within the Harris family of companies the information we collect about you. However, you as an individual, have a right to instruct us not to share among our banks and affiliated financial service companies certain information (other than information about our  
-transactions or experiences with you) from your account applications or information we receive from third parties. Please see our Privacy Policy ([Click Here](https://web.archive.org/web/20021210152333id_/http%3A//www.harrisbank.com/privacy_full.html)) for more information. 
+transactions or experiences with you) from your account applications or information we receive from third parties. Please see our Privacy Policy ([Click Here](https://web.archive.org/web/20030602042607id_/http%3A//www.harrisbank.com/privacy_full.html)) for more information. 
 
 In addition, we may share information about you with companies outside Harris to complete a transaction you have requested, to help service your account, to provide us operational support, and with other financial institutions with which we have a joint marketing agreement. These companies are not permitted to use your information for anything beyond the intended service and agree to strict standards regarding security and confidentiality. 
 
@@ -80,7 +80,7 @@ If you use the Harris Total Look service, please review the following:
 
 Harris is committed to maintaining the privacy and security of the account information that you will aggregate through Harris Total Look. Harris' commitment to privacy is reflected in our Harris Privacy Policy, which is incorporated by reference and made a part of our Harris Total Look Terms and Conditions. Our additional commitments for the Harris Total Look service are that we will treat your account information as follows: 
 
-Harris will not share account information with non-affiliated third parties without your authorization, except to furnish you the Harris Total Look service or as required or permitted by law. We may share account information with Harris affiliates unless you instruct us not to share certain information. Refer to the [Harris Privacy Policy](https://web.archive.org/web/20021210152333id_/http%3A//www.harrisbank.com/privacy_full.html) for more information, including how you can limit the sharing of certain information with our Harris affiliates. 
+Harris will not share account information with non-affiliated third parties without your authorization, except to furnish you the Harris Total Look service or as required or permitted by law. We may share account information with Harris affiliates unless you instruct us not to share certain information. Refer to the [Harris Privacy Policy](https://web.archive.org/web/20030602042607id_/http%3A//www.harrisbank.com/privacy_full.html) for more information, including how you can limit the sharing of certain information with our Harris affiliates. 
 
 Harris will use the account information to furnish and support the Harris Total Look service, and may use such data to allow Harris to offer you relevant products and services, relationship management services, or other financial planning tools. 
 
