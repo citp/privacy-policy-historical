@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riteaid.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604011748id_/http%3A//www.riteaid.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riteaid.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014123624id_/http%3A//www.riteaid.com/home/privacy.php) for the most accurate reproduction.*
 
 # Rite Aid - Privacy Statement
 
