@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ntsb.gov privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204223500id_/http%3A//www.ntsb.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntsb.gov privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413073720id_/http%3A//www.ntsb.gov/privacy.htm) for the most accurate reproduction.*
 
 # NTSB - Privacy Statement
 
-_Privacy[](https://web.archive.org/web/20001204223500id_/http%3A//default.htm) Statement_
+_Privacy[](https://web.archive.org/web/20010413073720id_/http%3A//default.htm) Statement_
 
 * * *
 
@@ -11,10 +11,10 @@ _Privacy[](https://web.archive.org/web/20001204223500id_/http%3A//default.htm) S
   * The NTSB web server collects and saves the default information customarily logged by World Wide Web server software. Our logs contain the following information for each request: date and time, originating IP address and domain name, object requested, and completion status of the request. 
     * Server log files are reviewed regularly to determine the traffic to the NTSB Web site, including the number of unique visitors, level of demand, pages most frequently accessed, and types of errors.
     * Server logs may be preserved indefinitely, and used at any time and in any way necessary to prevent security breaches and to ensure the integrity of the data on our servers. 
-    * Cookies - files placed on your hard drive by a Web server - are used by the NTSB web server only for managing certain processes such as database transactions. If you have chosen to disable cookies, you may not receive optimal results. 
+    * Cookies - files placed on your hard drive by a Web server - are used by the NTSB web server only for managing certain processes such as database transactions, not for tracking personal information. If you have chosen to disable cookies, you may not receive optimal results. _Please note that if you follow links to other sites, cookies may be implemented at those sites; check the privacy policy of those sites to determine usage._
+    * We do not seek or collect any data related to specific users of this server without their permission. Information you provide to us when you subscribe to automated email notification is used only for the purpose of providing you with the requested information. Information that you provide freely in other, unsolicited electronic correspondence will be used only for contacting you; it may be preserved as a record of the correspondence.
 
 
-  * We do not seek or collect any data related to specific users of this server without their permission. Information you provide to us when you subscribe to automated email notification is used only for the purpose of providing you with the requested information. Information that you provide freely in other, unsolicited electronic correspondence will be used only for contacting you; it may be preserved as a record of the correspondence.
   * We do not give, share, sell or transfer any personal information to a third party. 
 
 
@@ -25,4 +25,4 @@ _Privacy[](https://web.archive.org/web/20001204223500id_/http%3A//default.htm) S
 
  
 
-[NTSB Home](https://web.archive.org/web/20001204223500id_/http%3A//www.ntsb.gov/default.htm)
+[NTSB Home](https://web.archive.org/web/20010413073720id_/http%3A//www.ntsb.gov/default.htm)
