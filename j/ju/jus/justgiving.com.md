@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justgiving.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207232516id_/http%3A//www.justgiving.com/statements/privacy_policy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justgiving.com privacy policy that was archived on 2003-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030711231208id_/http%3A//www.justgiving.com/statements/privacy_policy/default.asp) for the most accurate reproduction.*
 
 # Justgiving
 
-|  |  |  **Search now:** |   
+|  |  **Search now:** |   
 ---|---|---  
   
 | 
