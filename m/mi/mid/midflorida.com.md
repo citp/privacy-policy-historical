@@ -1,19 +1,75 @@
-> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207125715id_/http%3A//www.midflorida.com/go.asp%3Fgoto%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215050id_/http%3A//www.midflorida.com/go.asp%3Fgoto%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to MIDFLORIDA Federal Credit Union!
 
-Keeping your privacy is important to MIDFLORIDA. We recognize the trust you’ve given us by visiting our site and would like to ensure you that your privacy will be maintained.
+<%@LANGUAGE="VBSCRIPT" CODEPAGE="1252"%> Untitled Document
 
-This statement is written to help you gain a sense of comfort with what information is collected and how it will be used.
+**IMPORTANT INFORMATION ABOUT YOUR PRIVACY**
 
-**
+**YOUR PRIVACY IS IMPORTANT TO US**  
+As a member of MIDFLORIDA FEDERAL CREDIT UNION, you provide us with important information about yourself. We believe it is our responsibility to safeguard your personal and financial information. While some financial institutions share account owner information with other businesses, we are committed to keeping your financial information confidential. The following privacy policy explains how we use and protect the information about our members. We ask that you read it carefully.
 
-Information Collected and Who Is It Shared With
+**NOTICE OF YOUR FINANCIAL PRIVACY RIGHTS**  
+**_We_** , **_our_ **and **_us_** , when used in this notice, mean MIDFLORIDA FEDERAL CREDIT UNION.  
+This is our privacy notice for our members. When we use the words "you" and "your" we mean the following types of members:
 
-**
+Our consumer members who have a continuing relationship by purchasing or holding financial products or services such as a(n):
 
-There are two types of information you may be asked to provide during your visit to our website. As a browser, your email address may be captured. As an online banking customer, transactions processed are collected.
+  * Deposit account
+    * Loan account
+    * Credit card account
+    * Safe deposit box
+    * Automobile lease we service
+    * Mortgage brokerage services
+  * All IRA accounts for which we act as custodian
+  * Former members
 
-In both cases, your privacy maintains its importance. MIDFLORIDA employees may use this information in order to offer you a product or service that may be of interest to you or to perform their job more efficiently. However, strict policies mandate that any information received will remain with MIDFLORIDA and will not be shared with any other business for any purpose unless written permission has been given by the customer.
 
-We also would like to remind our members that even though your information is private in the hands of MIDFLORIDA, to please use caution when providing personal or financial information to other companies and web sites.
+
+We will tell you the sources of the information we collect about you. We will tell you what measures we take to secure that information. We first define some terms.
+
+**_Nonpublic personal information_** means information about you that we collect in connection with providing a financial product or service to you. nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. hereafter, we will use the term " _information_ " to mean nonpublic personal information as defined in this section.
+
+An **_affiliate_** is a company we own or control. A **_nonaffiliated third party_** is a person we do not employ or a company that is not an affiliate of ours. This is also known as nonaffiliated third party, or simply, an " _other party_ ".
+
+**THE INFORMATION WE COLLECT**  
+We collect information about you from the following sources:
+
+  * Information you give us on applications or other forms
+  * Information about your transactions with us
+  * Information about your transactions with our affiliates
+  * Information from a consumer reporting agency
+
+
+
+**THE CONFIDENTIALITY, SECURITY, AND INTEGRITY OF YOUR INFORMATION**  
+We restrict access to information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards to protect this information
+
+**YOUR INFORMATION AND OTHER PARTIES**  
+We will not disclose information about you to anyone except as disclosed in this policy or as permitted by law. Examples of this might include disclosures necessary to service your account or prevent unauthorized transactions.
+
+**INFORMATION ABOUT FORMER MEMBERS**  
+We have the same policy about disclosing information about former members as we do about current members.
+
+**AUTHORIZED SHARING - JOINT MARKETING**  
+We may disclose the following information to other financial institutions with whom we have joint marketing agreements:
+
+  * Information you give us on an application or other forms, such as:
+    * Name
+    * Address
+
+
+
+We disclose the information listed above with other financial institutions with whom we have joint marketing agreements. You do not have a right to opt out of the disclosure of this information.
+
+**Types of Businesses**  
+We may disclose information pursuant to joint marketing agreements to the following types of businesses:
+
+  * Financial service providers, such as:
+    * Securities broker-dealers
+    * Insurance companies
+
+
+
+**Reasons For Disclosing**  
+We may disclose information about you to other financial institutions with whom we have joint marketing agreements to provide you with information about additional products and services.
