@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changingshape.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202073259id_/http%3A//www.changingshape.com/information/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changingshape.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416135807id_/http%3A//www.changingshape.com/information/privacypolicy.asp) for the most accurate reproduction.*
 
 # Changing Shape: Privacy Policy
 
@@ -17,7 +17,7 @@ Changing Shape adheres to the Direct Marketing Association's guidelines for allo
 You may request to have your name removed from any future mailings, including catalogs, new product / services announcements, special discount limited time offers, by advising Changing Shape by phone or letter.
 
 **E-mail:** [marketing@changingshape.com](mailto:marketing@changingshape.com)  
-**Call:** 800.243.2202 Mon - Fri. 8 a.m. to 5 p.m. PST  
+**Call:** 360.258.2625 Mon - Fri. 8 a.m. to 5 p.m. PST  
 **Mail:** Changing Shape  
         11216 NE 64th Ave  
           Vancouver, WA 98686
