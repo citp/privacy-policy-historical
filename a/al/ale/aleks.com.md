@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408224649id_/http%3A//aleks.com/privacy-ENGLISH.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004053320id_/http%3A//www.aleks.com/privacy-ENGLISH.html) for the most accurate reproduction.*
 
 # ALEKS Privacy Statement
 
@@ -6,24 +6,26 @@
 
 ### PRIVACY STATEMENT
 
-> This privacy statement discloses the privacy practices of **ALEKS** Corporation (" **ALEKS** ") for our websites: [www.aleks.com](http://www.aleks.com/), [www.k12.aleks.com](http://www.k12.aleks.com/), and [www.highed.aleks.com](http://www.highed.aleks.com/).
-> 
-> **ALEKS** agrees to notify you of:
-> 
->   1. What personally identifiable information of yours or third party personally identification is collected from you through our web sites
->   2. The organization collecting the information
->   3. How the information is used
->   4. With whom the information may be shared
->   5. What choices are available to you regarding collection, use and distribution of the information
->   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under **ALEKS** ' control
->   7. How you can correct any inaccuracies in the information
->   8. The special policy we follow with respect to information regarding children under the age of 13.
-> 
+> This privacy statement discloses the privacy practices of **ALEKS** Corporation (" **ALEKS** ") for our websites: [www.aleks.com](http://www.aleks.com/), [www.highedmath.aleks.com](http://www.highedmath.aleks.com/), [www.business.aleks.com](http://www.business.aleks.com/), [www.sbsci.aleks.com](http://www.sbsci.aleks.com/), [www.highedstudent.aleks.com](http://www.highedstudent.aleks.com/), and [www.bussinessstudent.aleks.com](http://www.businessstudent.aleks.com/).
 
-> 
-> If you feel that we are not abiding by its posted privacy policy, you should contact our Director of Customer Support by e-mailing: [support@aleks.com](mailto:support@aleks.com?subject=privacy%20policy).
+**ALEKS** also operates a web site directed to K-12 students using **ALEKS** through their school. This website, [www.k12.aleks.com](http://www.k12.aleks.com/), has a separate privacy statements which is very different than this one. If you would like to see the privacy statement for our K-12 web site, please click [here](http://www.k12.aleks.com/privacy.html).
 
-**Information Collection and Use**
+**ALEKS** agrees to notify you of:
+
+  1. What personally identifiable information of yours or third party personally identification is collected from you through our web sites
+  2. The organization collecting the information
+  3. How the information is used
+  4. With whom the information may be shared
+  5. What choices are available to you regarding collection, use and distribution of the information
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under **ALEKS** ' control
+  7. How you can correct any inaccuracies in the information
+  8. The special policy we follow with respect to information regarding children under the age of 13.
+
+
+
+If you feel that we are not abiding by its posted privacy policy, you should contact our Director of Customer Support by e-mailing: [support@aleks.com](mailto:support@aleks.com?subject=privacy%20policy).
+
+> **Information Collection and Use**
 
 > **ALEKS** is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. **ALEKS** collects information from our users at several different points on our website, including information about your knowledge level as you use our services in order to provide you with the next level of tutoring services suitable to your needs.
 
@@ -75,7 +77,7 @@
 > 
 > While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 > 
-> If you have any questions about the security at our website, you can send an email to [security@aleks.com](mailto:security@aleks.com?security).
+> If you have any questions about the security at our website, you can send an email to [security@aleks.com](mailto:security@aleks.com?subject=ecurity).
 
 **Special Offers**
 
@@ -105,7 +107,7 @@
 
 > We will not knowingly collect online contact information from a child under 13 without prior verifiable parental consent or direct parental notification of the nature and intended use of this information, which shall include an opportunity for the parent to prevent use of the information and participation in the activity. Where prior verifiable parental consent is not obtained, online contact information shall only be used to directly respond to the child's request and shall not be used to re-contact the child for other purposes.
 > 
-> Children under 13 years old may use **ALEKS** at [www.aleks.com](http://www.aleks.com/) only if the child's parent or guardian has paid for such use with such parent or guardian's credit card; such payment is verifiable parental consent. Children under 13 years old may use **ALEKS** at [www.k12.aleks.com](http://www.k12.aleks.com/) only if the child's parent or guardian has provided written consent to the school or school district through which **ALEKS** is being provided to such child. Children under 13 years old are not permitted to use any **ALEKS** "guest" or "free trial" features, because we are unable to obtain verifiable parental consent for their use of such features.
+> Children under 13 years old may use **ALEKS** at [www.aleks.com](http://www.aleks.com/) only if the child's parent or guardian has paid for such use with such parent or guardian's credit card; such payment is verifiable parental consent. Children under 13 years old are not permitted to use any **ALEKS** "guest" or "free trial" features, because we are unable to obtain verifiable parental consent for their use of such features.
 > 
 > We will not collect personally identifiable offline contact information from children under 13 without prior verifiable parental consent. We will not distribute to third parties any personally identifiable information collected from a child under 13 without prior verifiable parental consent. We will not give the ability to children under 13 to publicly post or otherwise distribute personally identifiable contact information without prior verifiable parental consent, and will make best efforts to prohibit a child from posting any contact information. We will not entice a child under 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in such activity.
 
