@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the displays2go.com privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016210510id_/http%3A//www.displays2go.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the displays2go.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401224830id_/http%3A//www.displays2go.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -34,4 +34,4 @@ Upon request we provide site visitors with access to transaction information (e.
 **With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.  
 If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number.
 
-[Click here for Legal Statement](https://web.archive.org/web/20021016210510id_/http%3A//www.displays2go.com/Legal.html)
+[Click here for Legal Statement](https://web.archive.org/web/20030401224830id_/http%3A//www.displays2go.com/Legal.html)
