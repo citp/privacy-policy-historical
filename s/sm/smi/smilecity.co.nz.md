@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206072525id_/http%3A//smilecity.co.nz/page.asp%3Fgo%3Dprivacy%26u%3D%26c%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205759id_/http%3A//smilecity.co.nz/page.asp%3Fgo%3Dprivacy%26u%3D%26c%3D) for the most accurate reproduction.*
 
 # SmileCity New Zealand
 
@@ -43,7 +43,7 @@ We respect your time and attention. If you request to receive emails, we will ne
 Each email we send to you contains easy instructions on how to unsubscribe.
 
   1. Log in to the SmileCity Web site;
-  2. Click on to Earn Points > [Reward Mail](https://web.archive.org/web/20031206072525id_/http%3A//smilecity.co.nz/earn.asp?go=mail).
+  2. Click on to Earn Points > [Reward Mail](https://web.archive.org/web/20040602205759id_/http%3A//smilecity.co.nz/earn.asp?go=mail).
   3. Select Off in the My Settings section.
 
   
@@ -51,4 +51,4 @@ Each email we send to you contains easy instructions on how to unsubscribe.
 
 **If you have any questions** about the privacy and permission practices of the SmileCity Web site or your dealings with SmileCity Ltd, please direct them to the Web Master of SmileCity, by email to [webmaster@smilecity.co.nz](mailto:webmaster@smilecity.co.nz). We are committed to being of service to you and resolving any issues that may arise.
 
-This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20031206072525id_/http%3A//smilecity.co.nz/page.asp?go=terms).
+This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20040602205759id_/http%3A//smilecity.co.nz/page.asp?go=terms).
