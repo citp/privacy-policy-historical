@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401214215id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208043305id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # PayCycle Privacy Policy for Online Payroll Service
 
 PayCycle Privacy Policy
 
-[](https://www.truste.org/validate/8766)
+[](https://www.truste.org/ivalidate.php?url=www.paycycle.com&sealid=101)
+
+Effective date: November 20, 2004
 
 PayCycle is committed to protect the security and privacy of your personal information. We know that information regarding you and your payroll is extremely important and confidential. That is why, in cooperation with TRUSTe, we have adopted and enforce this Privacy Policy.
 
@@ -17,7 +19,7 @@ PayCycle, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an indepen
 
 
 
-If you have questions or concerns regarding this privacy policy, you should first contact [support@paycycle.com](mailto:support@paycycle.com.). You can also reach PayCycle Customer Support by telephone at (650) 852-9650 or at 210 Portage Avenue, Palo Alto, California 94306-2242. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>.  TRUSTe will then serve as a liaison with PayCycle to resolve your concerns. 
+If you have questions or concerns regarding this privacy policy, you should first contact [support@paycycle.com](mailto:support@paycycle.com.). You can also reach PayCycle Customer Support by telephone at (650) 852-9650 or at 210 Portage Avenue, Palo Alto, California 94306-2242. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will then serve as a liaison with PayCycle to resolve your concerns. 
 
 ## What Information PayCycle Collects, and How It Is Used
 
@@ -41,7 +43,7 @@ In addition to cookies, we collect the following information from all visitors t
 
 We may share personally identifiable information about you and your employees with third party vendors, such as credit card processing companies and banks, who help us perform our payroll service. We will require such third parties to use the information only as necessary to provide our payroll service to you. 
 
-We may use or provide third parties with aggregate information about our customers, such as the size of payroll processed or payment history, for statistical, marketing and other purposes. Such aggregate information will not reveal any of your personally identifiable information, such as your contact information. 
+We may use or provide third parties with anonymous or aggregate information about our customers, such as the size of payroll processed or payment history, for statistical, marketing and other purposes. Such aggregate or anonymous information will not reveal any of your personally identifiable information, such as your contact information, unless the third party agrees contractually to use the information exclusively on PayCycle?s behalf, in ways that PayCycle itself could use the information under this Privacy Policy. Additionally, we may provide your contact information to our business partners so that they can tell you about products, services, or offers that may benefit you. If you do not want to receive such offers, you may so indicate in the Preferences section of our web site. 
 
 We may disclose personally identifiable information to the Internal Revenue Service or other government entities for normal regulatory purposes or as required by law. 
 
