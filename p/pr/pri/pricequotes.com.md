@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricequotes.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602085526id_/http%3A//www.pricequotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricequotes.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207211204id_/http%3A//www.pricequotes.com/privacy.html) for the most accurate reproduction.*
 
 # PriceQuotes.com - Online Privacy Policy
 
