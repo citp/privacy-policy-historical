@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204172023id_/http%3A//optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033511id_/http%3A//optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
 
 # Optionetics
 
 Options involve risk. Prior to buying or selling an option, an investor must receive a copy of [Characteristics and Risks of Standardized Options](http://www.cboe.com/Resources/Intro.asp). Investors need a broker to trade options, and must meet suitability requirements. Past results are not necessarily indicative of future performance.
+
+This Web Site is not designed or intended for United Kingdom based investors. 
 
 The information and data contained in this website (Optionetics.com) was obtained from sources believed to be reliable, but accuracy is not guaranteed. Neither the information, nor any opinion expressed, constitutes a recommendation to purchase or sell a security, or to provide investment advice.
 
@@ -56,9 +58,15 @@ Please be aware that Optionetics.com sponsors, advertisers or Web sites that hav
 
 Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
 
+United Kingdom
+
+This website and its contents are not directed at residents or citizens of the United Kingdom. As such, the contents of this Website have not been issued or approved by any person authorized to undertake regulated activities in the United Kingdom under the Financial Services and Markets Act 2000. Notwithstanding the above, any views expressed in this website are not to be taken as advice or a recommendation to buy or sell any investment. 
+
 **How to Contact Us**
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacypolicy@optionetics.com](mailto:privacypolicy@optionetics.com). 
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at 
+
+[privacypolicy@optionetics.com](mailto:privacypolicy@optionetics.com). 
 
 This statement may change from time to time, so please check back periodically.
 
