@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchfeed.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601110458id_/http%3A//searchfeed.com/rd/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchfeed.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205063243id_/http%3A//searchfeed.com/rd/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# SearchFeed.com
+# Searchfeed.com;Pay Per Click:internet marketing, online marketing, pay per click program, online advertising, ppc, pay per click advertising, pay per click search engine
 
 |  |       At Search _feed_ , our mission is to meet the expectancies of our advertisers as well as the users of our search tools and other resources. In an effort to achieve our goal, we would like to clearly define our position with regard to the Internet, our Web site and your identity. The following outlines our information gathering and disbursement procedures for our site located at [Search _feed.com_](https://web.archive.org/rd/index.jsp).
 
