@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the usitc.gov privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206100513id_/http%3A//www.usitc.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usitc.gov privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607155533id_/http%3A//usitc.gov/privacy.htm) for the most accurate reproduction.*
 
 # USITC: PRIVACY STATEMENT
 
-Skip to content   
+Skip to content
+
+  
 
 
 A. This is a United States Government computer system, maintained pursuant to 19 U.S.C. 1331 et al. All data on this system may be monitored by, recorded by, and disclosed to authorized personnel, in any manner. Use of this system by any user, authorized or unauthorized, constitutes consent to this monitoring, recording, and disclosure. Improper use may be punishable under 18 U.S.C. 1030 et al.
