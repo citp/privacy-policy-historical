@@ -1,41 +1,33 @@
-> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204130558id_/http%3A//www.tigertech.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208084454id_/http%3A//www.tigertech.net/privacy.html) for the most accurate reproduction.*
 
 # Tiger Technologies Privacy Policy
 
 **Privacy Policy**  
   
-We're aware of the growing concern of Internet users regarding the widespread distribution of their personal information, and we take great measures to protect our customers' and visitors' privacy. 
+We're aware of the growing concern of Internet users regarding the widespread distribution of their personal information. This privacy policy describes how we collect and use such information. 
 
 **Personal Information**  
   
-We request personal information (such as your name, address, and e-mail address) if you choose to purchase one of our programs, or if you sign up for one of our domain name or Web hosting services. We do not request, collect or store personal information if you merely browse our Web site, download a trial version of one of our programs, or search for available domain names. 
+We request personal information (such as your name, address, and e-mail address) if you sign up for one of our domain name or Web hosting services. We do not request, collect or store personal information if you merely browse our Web site or search for available domain names. 
 
-If you choose to purchase one of our programs or services and you supply the requested information, we never sell, trade, or otherwise share any of this information with any other company or organization. 
+If you choose to sign up for a domain name, we (like all other domain name registration companies) are legally required to supply contact information to the domain registrar. That information is then governed by the registrar's [domain registration agreement](https://web.archive.org/domainagreement.shtml#DRA), which may allow them to make the information available by the public WHOIS service. If this is a concern, we recommend using a PO Box or work address when you sign up for a domain name with us. 
 
-The only exception is for customers who purchase a domain name. For those customers, we (like all other domain name registration companies) are legally required to supply contact information to the domain registrar. That information is then governed by the registrar's [domain registration agreement](http://www.tigertech.net/domainagreement.html#TOS), which may allow them to make the information available by the public WHOIS service. If this is a concern, we recommend using a PO Box or work address when you sign up for a domain name with us. 
+We will not share your contact information with any other organization unless legally required to do so, such as in response to a court order. 
 
-After your purchase, we will not send you e-mail or postal mail unrelated to the product or service you purchased. Instead, the information you supply is used by us for only these purposes: 
+After you sign up, we will not send you e-mail or postal mail unrelated to the service you purchased. Instead, the information you supply is used by us for only these purposes: 
 
-  1. After you order, we send a single e-mail message or postcard confirming the order, with instructions on how to get started. 
-  2. Unless you request otherwise, we may occasionally send update message notices that are primarily related to the program or service you purchased. For example, from time to time we send notices of free updates to our software programs, or of new features available to our Web hosting customers. These messages sometimes include other promotional announcements about our company, although such announcements will not be the focus of the message. You can send an e-mail message to [support@tigertech.com](mailto:support@tigertech.com) to be removed from this list if you prefer. 
+  1. After you order, we send one or more e-mail messages confirming the order, with instructions on how to get started. 
+  2. As long as you are a customer, we may occasionally send update notices that are primarily related to the service you purchased. For example, from time to time we send notices of new features available to our Web hosting customers. These messages sometimes include other promotional announcements about our company, although such announcements will not be the focus of the message. 
+  3. If you purchase a service that expires after a certain time period (such as a one-year "domain name only" service), we may send you renewal notices by either e-mail or postal mail. 
 
 
-
-   
-**Tell A Friend Feature**  
-  
-Our Web site includes a [Tell a Friend](https://web.archive.org/tellafriend.html) feature that allows you to send free trial versions of our software to your friends. It requires you to provide your name and e-mail address, as well as your friend's name and e-mail address. 
-
-This information, as well as your IP address, is stored on our servers for about a month to allow us to trace anybody using the system to harass others. We do not use this information for marketing or any other purposes. The information is permanently deleted after about a month. 
 
    
 **Cookies**  
   
-A few pages on our Web site use "cookies". A cookie is a unique number generated by our server that allows us to remember your progress from page to page as you move through our Web site. This allows us to offer features such as the ability to resume ordering where you left off if you are disconnected. 
+A few pages on our Web site use "cookies". A cookie is a unique number generated by our server that allows us to remember your progress from page to page as you move through our Web site. This allows us to offer features such as the ability to remember the password used to login to your account management pages. 
 
 Cookies cannot be used to reference any personal information unless you supply it yourself by typing it, and cookies cannot track you once you leave our Web site. 
-
-You can use our Web site with cookies disabled in your browser if you wish. 
 
    
 **Encryption**  
@@ -45,4 +37,4 @@ In order to further protect customer information, certain forms on our web site 
    
 **Summary**  
   
-These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential. If you have any questions or concerns, please contact us at [support@tigertech.com](mailto:support@tigertech.com). 
+These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that we will do our best to protect your privacy. If you have any questions or concerns, please contact us at [support@tigertech.net](mailto:support@tigertech.net). 
