@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the altium.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008104149id_/http%3A//www.altium.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altium.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602220852id_/http%3A//www.altium.com/corp/privacy.htm) for the most accurate reproduction.*
 
-# Altium - Privacy Policy
-
-#### Privacy Policy
+# Privacy Policy
 
 We are committed to ensuring that all the details you provide to us remain reasonably secure.
 
