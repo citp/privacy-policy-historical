@@ -1,38 +1,29 @@
-> *The following text is extracted and transformed from the cancer.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217183746id_/http%3A//www.hhs.gov/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancer.gov privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408225657id_/http%3A//www.cancer.gov/privacy) for the most accurate reproduction.*
 
-# HHS Privacy Notice
+# Cancer.gov - Privacy Policy
 
-[skip navigational links](http://www.hhs.gov/siteinfo/privacy.html#skipnav)  
----  
-[](http://www.hhs.gov/) | **U.S. Department of Health and Human Services**  
-[](http://search.hhs.gov/) | [](http://www.hhs.gov/news/) | [](http://www.hhs.gov/agencies/) | [](http://www.hhs.gov/opportune.html) | [](http://www.hhs.gov/about/) | [](http://www.hhs.gov/gateway/)  
-**HHS Privacy Policy Notice**  
-(as of July 30, 1999)
+Thank you for visiting the NCI Web site [Cancer.gov](https://web.archive.org/) and reviewing our privacy policy. 
 
-Thank you for visiting our HHS web site and for reviewing our Privacy Policy. Our policy is clear: 
+## Our Privacy Policy
 
-> **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
+The U.S. Department of Health and Human Services, of which NCI is a part, does not disclose, give, sell, or transfer any personal information about your visit unless required by law to do so. The NCI respects the privacy of visitors to the NCI's Cancer.gov Web site. We collect a limited amount of information on usage of the Web site for statistical purposes, in order to measure the number of visitors to the various sections of our site and to help us make our site more useful to visitors. 
 
-**Information Automatically Collected and Stored:**
-    When you browse through any web site, certain personal information about you can be collected. We automatically collect and temporarily store the following information about your visit: 
+## What Standard Information Is Automatically Collected?
 
-  * the name of the domain you use to access the Internet (for example, aol.com, if you are using an American Online account, or stanford.edu, if you are connecting from Stanford University's domain); 
-  * the date and time of your visit; 
-  * the pages you visited; and 
-  * the address of the web site you came from when you came to visit. 
+The standard information that is automatically collected and stored about your visit to our Web site includes: 
+
+  * The domain name from which you access the Internet. For example, if you connect to the Internet through America Online, the domain name is aol.com. 
+  * The name and version of your computer's operating system and browser. For example, Windows 95, Internet Explorer, or Netscape Navigator.
+  * The Internet protocol address of the computer you use to access the Internet. An Internet protocol address is a number that is automatically assigned to your computer whenever you log on to your Internet service provider.
+  * The Internet address of the Web site from which you come to our site if you do not directly type in [http://cancer.gov](https://web.archive.org/). For example, [http://www.nih.gov](http://www.nih.gov/) if you come to our site by clicking on an NCI link.
+  * The date, time, and duration of your visit to our site, and the pages you visit.
 
 
-    We use this information for statistical purposes and to help us make our site more useful to visitors. Unless it is specifically stated otherwise, no additional information will be collected about you. 
-**Personally Provided Information:**
-    You do not have to give us personal information to visit our web sites. 
-    If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication. 
-    However, all communications addressed to the HHS Secretary or the HHS Webmaster are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis, but are also protected by the Privacy Act which restricts our use of them, yet permits certain disclosures. 
-**Disclosure:**
-    HHS does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or statute. 
-**Intrusion Detection:**
-    This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. 
-    For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
-**Systems of Records:**
-    Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. 
-**HHS Data Council's[HHS Privacy Committee](http://aspe.hhs.gov/datacncl/privcmte.htm)** [HHS Home](http://www.hhs.gov/) | [Topics](http://www.hhs.gov/topics/) | [What's New](http://www.hhs.gov/whatsnew/) | [For Kids](http://www.hhs.gov/kids/) | [FAQs](http://www.hhs.gov/faq/)   
-[Disclaimers](http://www.hhs.gov/siteinfo/disclaim/) | [Privacy Notice](http://www.hhs.gov/siteinfo/privacy.html) | [FOIA](http://www.hhs.gov/foia/) | [Accessibility](http://www.hhs.gov/siteinfo/508web.html) |  [Site Info](http://www.hhs.gov/siteinfo/) | [Contact Us](http://www.hhs.gov/contacts/) Last revised: June 22, 2001
+
+## When You Send Us an Email Message
+
+If you choose to provide us with additional information about yourself through an email message, form, survey, etc., we will only maintain the identifying information as long as needed to respond to your question. 
+
+## Links to Other Web Sites from Cancer.gov
+
+Cancer.gov has links to many other sites. The NCI cannot ensure the privacy or security of information you provide to the linked site. 
