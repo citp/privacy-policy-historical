@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbwpersonalsplus.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002044805id_/http%3A//www.bbwpersonalsplus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbwpersonalsplus.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411163821id_/http%3A//www.bbwpersonalsplus.com/privacy.html) for the most accurate reproduction.*
 
-# BBW PERSONALS PLUS FOR BIG BEAUTIFUL WOMEN AND ADMIRERS - BBWPersonalsPlus.com - 2003-10-01 - 2003-10-01
+# BBW PERSONALS PLUS FOR BIG BEAUTIFUL WOMEN AND ADMIRERS - BBWPersonalsPlus.com - - 2004-04-11
 
 Privacy Policy
 
@@ -15,6 +15,8 @@ To process subscriptions, we may require information that includes, but is not l
 This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site. BBWPersonalsPlus.com also logs IP addresses for systems administration purposes. IP addresses are logged to track a user's session. This gives BBWPersonalsPlus.com an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a user's session will be tracked, but the user will be anonymous.
 
 Except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information except to the financial institution that processes your credit card or check transaction unless required by law or for the protection of your membership.
+
+We have contracted with Overture services, Inc. ("Overture") to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred to Overture. For more information about how the information collected by Overture is used, please see Overture's privacy policy at http://www.overture.com/d/USm/about/company/ccprivacypolicy.jhtml. 
 
 **Surveys and Contests**  
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, and age). Contact and other information collected for contests will be used to notify the winners and award prizes. Survey information collected will be used for purposes of monitoring or improving the use and satisfaction of this site. 
@@ -45,7 +47,7 @@ BBWPersonalsPlus.com provides users the following options for modifying informat
 
 BBW Personals Plus  
 P.O. Box 867  
-Orem, UT 84059-0867
+Orem, UT 84057-0867
 
 **Email Choice/Opt-out**  
 BBWPersonalsPlus.com users may use the following options if they do not wish to receive future communications.   
@@ -63,6 +65,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 BBW Personals Plus  
 P.O. Box 867  
-Orem, UT 84059-0867
+Orem, UT 84057-0867
 
 Or, send email via the [contact form](https://web.archive.org/contact.html) on the site. 
