@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220114115id_/http%3A//www.wedplan.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305221057id_/http%3A//www.wedplan.net/privacy.php) for the most accurate reproduction.*
 
 # WedPlan: Wedding Caterers, Wedding Disc Jockeys, Wedding Photographers, Wedding Videographers
 
