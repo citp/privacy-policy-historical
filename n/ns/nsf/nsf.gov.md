@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207173654id_/http%3A//www.nsf.gov/home/pubinfo/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305233332id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
 
-# NSF - Information - About NSF's Privacy Policy and Web Site
+# US NSF - Privacy Policy
+
+  
+Privacy Policy  
+
 
 Thank you for visiting the National Science Foundation web site. Please note that we collect no personal information about you when you visit our web site unless you choose to provide that information to us. 
 
@@ -18,10 +22,8 @@ We use this information to help us make our site more useful to visitors -- to l
 
 If you request information or services from NSF and submit personal information to facilitate response to your request, we use the information provided to respond to your message. We will not share the information you give us with another government agency unless your inquiry relates to that agency, or as otherwise provided by law. We do not create individual profiles with the information you provide or collect information for commercial marketing. 
 
-Users of NSF's [Custom News Service](https://web.archive.org/home/cns/) fill out a simple form when setting up their Custom News Service profile. A Custom News Service profile cannot be created without a valid e-mail address. However, NSF makes no attempt to identify individual users or their selections. 
+Users of [MyNSF](https://web.archive.org/mynsf/) fill out a simple form when setting up their MyNSF profile. A MyNSF profile cannot be created without a valid e-mail address. However, NSF makes no attempt to identify individual users or their selections. 
 
 If you conduct business with NSF electronically, such as through FastLane, any information voluntarily submitted as part of that process will be used and protected as explained for the specific function involved. 
 
 If you have questions or concerns about NSF's privacy policy, please contact Leslie Jensen, Office of the General Counsel, phone: 703-292-5065, email: [ljensen@nsf.gov](mailto:ljensen@nsf.gov). 
-
-Back to [Web and Other Policies](https://web.archive.org/web/20041207173654id_/http%3A//www.nsf.gov/home/pubinfo/webpolicy.htm)
