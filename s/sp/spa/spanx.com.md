@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203022851id_/http%3A//www.spanx.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610045026id_/http%3A//www.spanx.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Spanx by Sara Blakely
 
