@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2003-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030617024109id_/http%3A//propay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205052626id_/http%3A//www.propay.com/privacy.html) for the most accurate reproduction.*
 
-# ProPay: A Better Way To Get Paid!
+# ProPay: Accept Credit Cards - Simple, Safe, & Affordable
 
 [](https://www.truste.org/validate/7674)
 
@@ -31,7 +31,7 @@ ProPay may disclose personal information when required by law or in good-faith b
 **Security**  
 ProPay's website takes every precaution to protect your information. When you submit sensitive information via the website, your information is protected both online and off-line.
 
-When the registration form or transaction forms ask you to enter sensitive information (such as credit card number, checking account information, and/or social security number), that information is encrypted and is protected. While on a secure page, such as the registration form or transaction forms, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about ProPay's VeriSign certificate please [click here](https://digitalid.verisign.com/as2/457816c883e66e8befe76255407ad5d0).
+When the registration form or transaction forms ask you to enter sensitive information (such as credit card number, checking account information, and/or social security number), that information is encrypted and is protected. While on a secure page, such as the registration form or transaction forms, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about ProPay's VeriSign certificate please [click here](https://digitalid.verisign.com/as2/cc7fef9f520e94fe85e0d09ba734e7f1).
 
 While ProPay uses VeriSign encryption to protect sensitive information transferred online, they also do everything in their power to protect your information offline. All your information, not just the sensitive information mentioned above, is restricted in ProPay's offices. Only employees who need the information to perform a specific job (ProPay's database administrator and customer service representatives) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on ProPay's security and privacy practices. Every quarter, as well as any time new policies are added, ProPay's employees are notified and/or reminded about the importance of privacy, and what they can do to ensure ProPay's customers' information is protected. The servers that store personally identifiable information are kept in a secure environment. 
 
@@ -64,8 +64,8 @@ From time-to-time ProPay may request information from you via surveys. Participa
 **Notification of Changes**  
 If ProPay decides to change their privacy policy, they will post a notification of these changes on the Homepage so you are always aware of what information they collect, how they use it, and under circumstances, if any, they disclose it. If at any point ProPay decides to use personally identifiable information in a manner different from that stated at the time it was collected, they will notify you by way of an e-mail.
 
-**How to Update Your Personal Information**  
-You can help ProPay maintain the accuracy of your personal information by notifying them or updating your personal profile when you change your address, mailing address, phone numbers, or e-mail address. If at any time you wish to update your information contact ProPay by e-mail at [customerservice@propay.com](mailto:customerservice@propay.com) or by postal mail at: 
+**How to Access and Update Your Personal Information**  
+You may access your personal information by clicking the Edit My Profile link after you log on to your ProPay Account. You may also make any necessary changes there. You can help ProPay maintain the accuracy of your personal information by updating your personal profile when you change your e-mail address, mailing address, or phone numbers. You may also contact ProPay with any questions you may have by e-mail at [customerservice@propay.com](mailto:customerservice@propay.com) or by postal mail at: 
 
 ProPay USA Inc.  
 500 Timpanogos Parkway  
