@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622011755id_/http%3A//www.satmetrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209232711id_/http%3A//www.satmetrix.com/privacy.html) for the most accurate reproduction.*
 
 # Satmetrix Systems' Press Release
 
