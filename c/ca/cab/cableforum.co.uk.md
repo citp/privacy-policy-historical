@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cableforum.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602194747id_/http%3A//www.cableforum.co.uk/about/22/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableforum.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207000541id_/http%3A//cableforum.co.uk/about/22/privacy-policy) for the most accurate reproduction.*
 
 # Cable Forum: Privacy Policy
 
-This is a privacy policy for Cable Forum. Our homepage on the Web is located at <http://www.cableforum.co.uk/>. The full text of our privacy policy is available on the Web at [here](http://www.cableforum.co.uk/about/22/privacy-policy).
+This is a privacy policy for Cable Forum. Our homepage on the Web is located at <http://www.cableforum.co.uk/>.
 
 We invite you to [contact us](http://www.cableforum.co.uk/about/8/contact-cable-forum) if you have questions about this policy or require information on how to opt-in or opt-out of use of your information.
 
