@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626153503id_/http%3A//fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213233544id_/http%3A//www.fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Policy - Using this Site - Fairfax County, Virginia
 
