@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bok.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204155011id_/http%3A//www.bok.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bok.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305160005id_/http%3A//www.bok.com/privacy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
