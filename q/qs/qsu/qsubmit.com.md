@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsubmit.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606215538id_/http%3A//qsubmit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsubmit.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803010150id_/http%3A//qsubmit.com/privacy.html) for the most accurate reproduction.*
 
 # qSubmit.com Mega Promotion and Submission Service
 
@@ -13,5 +13,5 @@ Under no circumstances will we sell your personal information with any person or
 
 Our advertising packages will bring your site the much needed traffic, and great prices. Why wait? Get your site the needed visitors, and increase your sales today.
 
-[**View Our Advertising Campaigns**](https://web.archive.org/web/20040606215538id_/http%3A//qsubmit.com/ts.html)  
+[**View Our Advertising Campaigns**](https://web.archive.org/web/20040803010150id_/http%3A//qsubmit.com/ts.html)  
 
