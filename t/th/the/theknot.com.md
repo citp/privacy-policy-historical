@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622075104id_/http%3A//theknot.com/au_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204191912id_/http%3A//theknot.com/au_privacy.shtml) for the most accurate reproduction.*
 
 # The Knot: Privacy Policy
 
@@ -28,7 +28,7 @@ For more information on cookies, please see our Cookie FAQ.
 You can browse The Knot and read our editorial content without registering or providing any personal information. However, in order to take advantage of our personalized services, you are required to provide us with information such as your name, email address, real-world address, wedding date, and role in the wedding. We collect similar information from users who choose to participate in our contests and promotional events. We always let you know before we collect any personal information from you.  
   
 Information we collect from your membership helps us to improve our content, customize certain pages for you, and update you about The Knot. From time to time, The Knot does share names, postal addresses, and demographic information with other pre-screened organizations that have specific direct mail product and service offers we think may be of interest to you. You may choose at any time to remove your name and address from these mailing lists by editing your privacy preferences (see paragraph below) or by letting us know via email to [membersupport@theknot.com](mailto:membersupport@theknot.com) (please include your name, address, and email).  
-You can access or update your personal information, including subscriptions to our email newsletters, at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, edit your privacy preferences in your member profile at [http://www.theknot.com/profile](https://web.archive.org/web/20030622075104id_/http%3A//theknot.com/pl_profile1.html). If you would like to deactivate you membership with The Knot, you should contact The Knot Member Services by emailing [membersupport@theknot.com](mailto:membersupport@theknot.com) and writing "Deactivate Membership" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.  
+You can access or update your personal information, including subscriptions to our email newsletters, at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, edit your privacy preferences in your member profile at [http://www.theknot.com/profile](https://web.archive.org/web/20031204191912id_/http%3A//theknot.com/pl_profile1.html). If you would like to deactivate you membership with The Knot, you should contact The Knot Member Services by emailing [membersupport@theknot.com](mailto:membersupport@theknot.com) and writing "Deactivate Membership" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.  
 The Knot contains links to other websites. We cannot be responsible for their content or for private information that you may choose to share with them. Please note: Information you release directly to parties who provide services to The Knot, such as any vendors in The Knot Shop or other sites you encounter on the Internet (even sites that are co-branded with The Knot) may be subject to different rules of use or disclosure. We encourage you to investigate and ask questions before disclosing personal information to third parties.  
 Your privacy is very important to us, but due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. Under certain circumstances, the government or third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can disclose any information about you to private entities, law enforcement, or other government officials as we, in our sole discretion, believe necessary or appropriate. 
 
@@ -43,4 +43,29 @@ The Knot encourages you to learn as much as you can about your privacy on the In
 
 We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. 
 
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.  
+  
+|  |   
+---  
+**THE KNOT AT A GLANCE**  
+#1 wedding website with 2.1 million unique visitors a month
+
+3,600+ new members join TheKnot.com each day
+
+Exclusive wedding content provider to AOL, MSN, CompuServe, and Netscape
+
+The only wedding brand found on the Internet's top three portals: AOL, MSN, and Yahoo!
+
+Brand extensions in all media: Internet, magazines, books, and television
+
+Largest publisher of regional wedding magazines with 1.2 million circulation in 18 U.S. cities
+
+Leading retailer of wedding favors and supplies on the Internet
+
+Our five books have combined sales of over 100,000 copies
+
+Named "Best Wedding Hub" four years in a row by Yahoo! Internet Life
+
+Key investors include QVC, AOL, The May Company, and Hummer Winblad Venture Partners
+
+Voted "Forbes Favorite" Online Gift Registry
