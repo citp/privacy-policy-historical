@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203040802id_/http%3A//popdirt.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604015816id_/http%3A//popdirt.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Popdirt.com - FAQ
 
@@ -14,15 +14,14 @@ However, as described in at the sites linked below, non-personally identifiable 
 
 To find out more about how our advertisers manage the privacy of information in conjunction with serving ads on this site, please go to: 
 
-http://www.fastclick.com/help/privacy.html   
-http://www.befree.com/docs/includes/stopspam.htm   
-http://www.linkshare.com/privacy.html   
-http://www.musicvision.com/network_privacy_policy.html   
+http://www.fastclick.com/co_privacy.html   
+http://www.casalemedia.com/privacy.html   
+https://www.burstmedia.com/release/about.asp?gotopage=privacy   
 http://www.adtegrity.com/privacy.asp   
-http://www.valuead.com/privacy.html   
 http://valueclick.com/privacy.html   
 http://www.fineclicks.com/privacypolicy1.html   
-http://www.cj.com/privacy.asp   
-http://smni.com/ui/privacy.asp
+http://www.bluelithium.com/privacy.html   
+http://www.google.com/privacy.html   
+http://realmedia.com/privacy.html
 
 [ Back to Top ]
