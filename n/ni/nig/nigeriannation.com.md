@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2004-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040412214333id_/http%3A//nigeriannation.com/Resources/Legal/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209084232id_/http%3A//nigeriannation.com/Resources/Legal/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Nigerian Nation - Privacy Policy
 
 **Privacy Statement For Nigerian Nation**
 
