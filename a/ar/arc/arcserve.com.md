@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205023410id_/http%3A//ca.com/caprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605183555id_/http%3A//ca.com/caprivacy.htm) for the most accurate reproduction.*
 
-# Computer Associates Legal Notice
+# Computer Associates Privacy Statement
 
 **Computer Associates International, Inc. (CA)**  
 **Privacy Statement**
@@ -33,8 +33,8 @@ Portions of this website use cookies to keep track of your visit, or to deliver 
 Portions of this website make chat rooms, forums, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information.
 
 **Contacting Us**  
-If you have any questions or comments about our privacy statement or practices, please contact us via email at [webmaster@ca.com](mailto:webmaster@ca.com) with the words "PRIVACY POLICY" in the subject line. 
+If you have any questions or comments about our privacy statement or practices, please contact us via email at [PrivacyHelpLine@ca.com](mailto:privacyhelpline@ca.com) with the words "PRIVACY POLICY" in the subject line. For additional information relating to CA's Canadian Privacy Policy, please visit [http://ca.com/caprivacy/canadianprivacypolicy.htm](https://web.archive.org/caprivacy/canadianprivacypolicy.htm). 
 
-CA reserves the right to modify or update this privacy statement at any time without notice.
+CA reserves the right to modify or update this privacy statement at any time without prior notice.
 
-_Last updated 02/14/2002._
+_Last updated 12/31/2003._
