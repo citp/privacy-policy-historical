@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotster.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611164959id_/http%3A//dotster.com/policy/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotster.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215092407id_/http%3A//dotster.com/policy/privacy/index.php) for the most accurate reproduction.*
 
 # Web Hosting - Domain Registration - E-mail Services
 
@@ -6,101 +6,92 @@
 **  
 DOTSTER PRIVACY STATEMENT**
 
-This privacy statement discloses the privacy practices for Dotster, Inc. ("Dotster") and how it treats the information that Dotster collects and receives, including information related to your past use of Dotster products and services. This policy does not apply to the practices of companies that Dotster does not own or control, or to people that Dotster does not employ or manage.
+This Privacy Statement discloses the privacy practices for Dotster, Inc. ("Dotster", “We” or “Us”) and how it treats the information that Dotster collects and receives, including information related to your past use of Dotster products and services. This policy does not apply to the practices of companies that Dotster does not own or control, or to people that Dotster does not employ or manage.
 
-  
 1\. The information collected by Dotster.  
-2\. How information collected by Dotster is used.   
-3\. Communications from Dotster.  
-4\. Underage customers.  
-5\. Linking to third-party websites.  
-6\. Our internal practices.  
-7\. Changes to our privacy policy.  
-8\. Final Statement
+2\. Communications from Dotster  
+3\. How information collected by Dotster is used.  
+4\. Correction/Updating Personal Information  
+5\. Opting Out  
+6\. Terminated Dotster Accounts  
+7\. Use of the Dotster Website by Persons Under Age 13  
+8\. Linking to Third Party Websites  
+9\. Users Must Keep Their Passwords Private  
+10\. Changes to Our Privacy Statement  
+11\. Final Statement
 
-1\. The information collected by Dotster.   
-Dotster will not knowingly sell, share, or rent the information collected on this site to others in ways different from what is disclosed in this statement. Dotster collects information from our users at several different points on our website. 
+1 Information Collected by Dotster  
+We will not knowingly use information collected on this website to others in ways different from what is disclosed in this statement. Dotster collects information from our users at several different points on our website. 
 
-1.1 Information that is automatically collected.
+For purposes of this Privacy Statement, “Personally Identifiable Information” refers to information that can directly identify an individual; for example, such information may include an individual's name, mailing address, phone number or email address.
 
-We use IP addresses, with the help of a business partner, to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to Personally Identifiable Information ("PII"). Personally Identifiable Information refers to information such as an individual's name, mailing address, phone number or email address.
+1.1 Information that Is Automatically Collected  
+We use IP addresses, with the help of a business partner, to analyze trends, administer the website, track users’ movements, and gather broad demographic information for aggregate use. IP addresses are not linked to Personally Identifiable Information. 
 
-1.2 Information that is collected by cookies.
+1.2 Information that Is Collected by Cookies  
+A cookie is a piece of data stored on a user's hard drive containing information about that user. By setting a cookie on our website, the user would not have to log in with a password more than once, thereby saving time while on our website. If a user rejects the cookie, they may still use our website. The only drawback to this is that the user will be limited in some areas of our website. Cookies can also enable us to track and target the interests of our users to enhance the experience on our website. Some of our business partners use cookies on our website (for example, advertisers); however, we have no access to or control over these cookies. 
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is not directly linked to any personally identifiable information while on our site. By setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that may take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
+1.3 Information that Is Actively Submitted to Dotster  
+Registrations and Orders. In order to register a domain name or order services from this website, a user must create an account and complete a registration process. During the account creation process, a user must provide contact information (such as name and email address) so that we can stay in touch with our users. This information is also used to fulfill order and registration requests. To pay for a domain name registration or for other service ordered, a user must provide contact information (such as name and shipping address) and financial information (such as a credit card number and its expiration date). This information is used for billing purposes, with the help of our business partner, and to fill users’ orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+Tell-A-Friend. If a user elects to use our referral service for informing a friend about our website, we ask them for the friend's name and email address. We will automatically send the friend a one-time email inviting them to visit the website. We store this information for the purpose of sending this one-time email. The friend may contact us at [csupport@doster.com](mailto:csupport@doster.com) or go directly to <http://www.dotster.com/support/support.php> to request the removal of this information from this database. 
 
-1.3 Information that is actively submitted to Dotster.
+1.4 Third Party Advertisers on Dotster's Website  
+We use third-party advertising companies to serve ads (using methods that include Pixel Tags and Clear Gifs) when you visit our website. Third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements to this website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
-Registration. In order to register a domain name on this website, a user must complete the registration process. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user to fulfill requests for site and service updates and for products and services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site. 
+1.5 Information Dotster Obtains from Third Parties  
+Supplemental Information Collected. In certain circumstances, in order for our website to properly fulfill its obligation to our users, it is necessary for us to supplement the information we receive with information from third party sources. For example, to determine if our users qualify for a dotPartner account, we use their name and business information to request a credit report. 
 
-Order. We request information from the user on our order form. Here, a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes, with the help of our business partner, and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+Dotster Accounts Created by a Third Party on Your Behalf. If you received your domain name from someone else, without registering for it yourself, your domain name may belong to a "managed domain." In a managed domain, the administrator of a company with whom you have a business relationship (for example, your ISP) can create your domain name for you. You can then use the domain name like any other domain name. The administrator, however, has access to the domain name and can edit your Dotster profile, reset your password, and manage the Dotster account without your additional consent. In addition to the terms mentioned in this Privacy Statement, an account created by a third party allows any of your Personally Identifiable Information within that account to be available to that third party as if they were you. We have no access to or control over the third party to prevent their disclosure of your information. 
 
-Newsletter. If a user wishes to subscribe to our newsletter, we ask for contact information such as his or her name and email address.
+2 Communications from Dotster  
+Welcome Emails and General Correspondence. We send a welcoming email to the email address associated with the account a user has created to verify the users password and username. This process is designed to prevent e-mail addresses from being used without permission in the creation of a Dotster account. Established users will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive some of these types of communications. Please see our opt-out options below. 
 
-Surveys & Contests. From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+Site and Service Updates. We send the user website and service announcement updates. Users are not permitted to unsubscribe from service announcements, which contain important information about the website and/or service. We may communicate with users to provide services that users request or to discuss issues relating to their account. 
 
-Tell-A-Friend. If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Dotster will automatically send the friend a one-time email inviting them to visit the site. Dotster stores this information for the sole purpose of sending this one-time email. The friend may contact Dotster at [csupport@dotster.com ](mailto:csupport@dotster.com) to request the removal of this information from their database.
+Surveys & Contests. From time-to-time our website requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and, as such, the user has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). 
 
-1.4 Third party advertisers on Dotster's site.
+3 How Information Collected by Dotster Is Used  
+Demographic Information. We will share aggregated demographic information with our partners and advertisers. The aggregated demographic information is not linked to any Personally Identifiable Information that can identify any individual person. 
 
-We use third-party advertising companies to serve ads (using methods that include Pixel Tags and Clear Gifs) when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+Communicating with Our Users. We use Personally Identifiable Information (such as your name, telephone number or email address) to communicate with our users when they have questions, concerns or comments about their accounts or the services that we provide. If you contact us, we may or may not delete your emails or voicemails to us. 
 
-1.5 Information Dotster obtains from third parties.
+Information Shared With Third Parties. We share information with third parties as required by ICANN and in order to give our customers access to a great variety of services. Specifically, we may do the following:   
+· Submit the name, postal address, e-mail address, and phone numbers associated with the registrant, administrative, technical and billing contacts of a domain name to the appropriate Registry or registration database. This information is included in a publicly available 'Whois' database, in accordance with ICANN rules. This sharing of information is required by ICANN rules.  
+· Use a credit card processing company to bill users for goods and services. These companies do not use Personally Identifiable Information for any use other than credit card processing; however, we will not be responsible or liable for use of the information required by credit card companies in contravention of their policies, contractual obligations or general good business procedures.   
+· Partner with third parties who provide services to our users. When the user signs up for or agrees to receive a specific service provided by the third party (i.e. PostMasterDirect advertisements), we share the information that is needed for the third party to provide the services.   
+· Share the publicly available domain contact information submitted by our users for inclusion in the Whois database with third parties. We do not control the use of this Personally Identifiable Information by third parties.  
+· Share your Personally Identifiable Information with other entities that are owned by Dotster, that own Dotster, or have some sort of corporate ownership relationship with Dotster. 
 
-Supplemental information collected. In certain circumstances, in order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. For example, to determine if our customers qualify for a dotPartner open account, we use their name and business information to request a credit report. Once we determine a user's credit-worthiness, this document is destroyed. 
+Addressing Legal Issues. Further, we provide Personally Identifiable Information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. Further, we believe it is necessary to share Personally Identifiable Information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Dotster's terms of use, or as otherwise required by law.
 
-Dotster Accounts created by a Third Party on your Behalf. If you received your domain name from someone else, without registering for it yourself, your domain name may belong to a "managed domain." In a managed domain, the administrator of a company with whom you have a business relationship (for example, your ISP) can create your domain name for you. You can then use the domain name like any other domain name. The administrator, however, has access to the domain name and can edit your Dotster profile, reset your password, and manage the Dotster account without your additional consent. In addition to the terms mentioned in this policy, an account created by a Third party allows any of your personally identifiable information within that account to be available to that Third Party as if they were you. We have no access to or control over the third party to prevent their disclosure of your information. 
+Sale or Transfer of Dotster. If all or a portion of Dotster is transferred, sold, merged, ceases operations, goes bankrupt, or is otherwise involved in a transaction where the ownership or management of Dotster is changed (individually or collectively, a “Transaction”) then your Personally Identifiable Information or other user information may be transferred or assigned to a third party as part of the Transaction. 
 
-2\. How information collected by Dotster is used. 
+4 Correction/Updating Personal Information  
+Users must provide accurate and correct contact information (name, postal address, e-mail address, phone number) for their domain name(s) Registrant, Administrative, Technical and Billing contacts, which will be listed in a publicly accessible 'Whois' database, in compliance with ICANN rules. If a user's Personally Identifiable Information changes (such as a zip code), or if a user no longer desires Dotster's services, we will provide a way to correct, update or remove that user's personal data provided to us. This can usually be done under online account management (on your own) or by emailing our user Support Group for assistance.
 
-We will share aggregated demographic information with our partners and advertisers. The aggregated demographic information is not linked to any personally identifiable information that can identify any individual person. 
+5 Opting Out  
+Users are provided an opportunity to “opt-out” of having their information used for purposes not directly related to the services they request. Users who no longer wish to receive our newsletter or promotional materials from us may opt-out of receiving these communications by replying and typing ‘unsubscribe’ in the subject line in the email or email your request to [dotnews@doster.com](mailto:dotnews@doster.com) .
 
-We use a credit card processing company to bill users for goods and services. These companies do not use personally identifiable information for any use other than credit card processing; however, we will not be responsible or liable for use of the information required by credit card companies in contravention of their policies, contractual obligations or general good business procedures.
+6 Terminated Dotster Accounts  
+If your Dotster account is terminated or cancelled (regardless of whether it was voluntary), all of your Personally Identifiable Information will remain on our servers. We retain and use your Personally Identifiable Information as necessary to enforce our policies or to address contractual issues, and may contact you for future marketing or promotional purposes. 
 
-We submit the name, address, and phone number associated with the registrant/administrator/technical/billing contact of a domain name to the appropriate Registry/Central database for the domain name. This information is included in a publicly available 'Whois' database, in accordance with ICANN rules.
+7 Use of the Dotster Website by Persons Under Age 13  
+This website is not intended for use by anyone under the age of thirteen (13), and any individual under such age should not provide us with Personally Identifiable Information. We do not knowingly contact, market to, solicit, collect or use Personally Identifiable Information from or about any individual under the age of 13. It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of that we have personal information regarding a person under the age of 13, as soon as we reasonably verify the information, we will either obtain parental consent or otherwise delete the information from the account and/or service. However, the information may remain on a log in our servers. If you want to notify us of our receipt of information by children under 13, please do so by emailing us at: [abuse@doster.com](mailto:abuse@doster.com) .
 
-In certain circumstances, we partner with third parties to provide specific services. When the user signs up for a specific service provided by the third party, we will share names, and other information that is needed for the third party to provide the selected services. We cannot control the use of PII by third parties, but do make reasonable attempts to limit their use of the information to providing a user with the services requested. 
+8 Linking to Third Party Websites  
+This website contains links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our website and to read the Privacy Statements of each and every website that collects Personally Identifiable Information. This Privacy Statement applies solely to information collected by this website. 
 
-Further, we provide personally identifiable information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. Further, we believe it is necessary to share personally identifiable information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Dotster's terms of use, or as otherwise required by law.
+9 Users Must Keep Their Passwords Private  
+Users are required to keep their account passwords confidential and to not share this information with others. If you choose to reveal or share your password and Dotster account name, we are unable to guarantee the security of your account. 
 
-3\. Communications from Dotster.
+10 Changes to Our Privacy Statement  
+This Privacy Statement may change, and use of information that we gather now is subject to the Privacy Statement that is in effect as of the time of use. You are responsible for periodically checking our Privacy Statement. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [csupport@doster.com](mailto:csupport@doster.com) . If we make minor changes to this Privacy Statement, the changes will be immediately effective upon posting the revised Privacy Statement to the website. If we make material changes to this Privacy Statement or in how we will use or collect your Personally Identifiable Information, we will prominently post a notification on our website of the changed Privacy Statement ten (10) days prior to implementing the change. The date at the bottom of this Privacy Statement is the date that the Privacy Statement is effective.
 
-Welcome Emails. We send a welcoming email to the email address associated with the account a user has created to verify the users password and username. This process is designed to prevent e-mail addresses from being used without permission in the creation of a Dotster account. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive some of these types of communications. Please see our opt-out options below. 
+If you have any questions about the security at our website, you can send an email to [security@doster.com](mailto:security@doster.com).
 
-Site and Service Updates. We send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the site and/or service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
+11 Final Statement  
+Dotster will use your information in accordance with the Privacy Statement that is currently in effect. If you have any questions about the security at our website, you can send an email to [security@doster.com](mailto:security@doster.com).
 
-Correction/Updating Personal Information. Users must provide accurate and correct contact information (name, address, phone number) for their domain names Administrative/Technical/Billing contacts, which will be listed in a publicly accessible 'Whois' database, in compliance with ICANN rules. If a user's personally identifiable information changes (such as a zip code), or if a user no longer desires Dotster's services, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done under online account management (on your own) or by emailing our Customer Support for assistance.
+(Effective Date – November 18, 2004)  
 
-Opting out. Users are provided an opportunity to 'opt-out' of having their information used for purposes not directly related to the services they request for order at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. Users who no longer wish to receive our newsletter or promotional materials from Dotster and its partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [dotnews@dotster.com](mailto:dotnews@dotster.com).
-
-4\. Underage customers.
-
-The Dotster site is not intended for use by anyone under the age of thirteen (13), and any individual under such age should not provide Dotster with personally identifiable information. Dotster does not knowingly contact, market to, or solicit, collect or use personally identifiable information from or about any individual under the age of thirteen (13). It is possible that by fraud or deception we may receive information pertaining to children under thirteen (13). If we are notified of that Dotster has personal information regarding a person under the age of thirteen (13), as soon as we reasonably verify the information, we will either obtain parental consent or otherwise delete the information from our servers. If you want to notify Dotster of our receipt of information by children under 18, please do so by emailing us at: [abuse@dotster.com](mailto:abuse@dotster.com). 
-
-5\. Linking to third-party websites.
-
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
-
-6\. Our privacy practices.
-
-When users submit sensitive information via the website, the information is protected both online and off-line. 
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with encryption software. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing.'
-
-While we use encryption to protect sensitive information online, we also take efforts to protect user-information off-line. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. In addition, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
-
-It is your responsibility to ensure the security of your Dotster account password and not to share this information during chats, in postings in newsgroups, or in other public forums. If you choose to reveal or share your password and Dotster account name, Dotster is unable to guarantee the security of your Dotster account. 
-
-If you have any questions about the security at our website, you can send an email to [security@dotster.com](mailto:security@dotster.com). 
-
-7\. Changes to our privacy policy.
-
-If we decide to change our privacy policy, we will post a notice on our Home page so our users can review the changes and be aware of what information we collect, how we use it, and under certain circumstances, if any, we disclose it. 
-
-8\. Final Statement
-
-We at Dotster will use your information in accordance with the privacy policy that is currently in effect.
-
-(Effective Date - August 11, 2003)
