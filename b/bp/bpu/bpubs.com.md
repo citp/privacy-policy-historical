@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609222723id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206152400id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 BPubs.com has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.bpubs.com](http://www.bpub.com/). 
 
-_BPubs.com works with a third party that serves ads to this site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please go to<http://www.engage.com/privacy/privacy.htm>. _
+_BPubs.com works with a third party that serves ads to this site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please go to<http://www.engage.com/privacy>. _
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. Our site uses cookies to make sure you don't see the same ad repeatedly. 
 
