@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201154828id_/http%3A//celebrity-link.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125095745id_/http%3A//www.celebrity-link.com/privacy.html) for the most accurate reproduction.*
 
 # Celebrity Link: Privacy Policy
 
@@ -15,4 +15,4 @@ If you voluntarily provided personal information and want this information remov
 If you have any additional questions about Celebrity Link's dedication to consumer privacy, please contact us at [privacy@celebrity-link.com](mailto:privacy@celebrity-link.com). 
 
 [](http://kansas.valueclick.com/redirect?host=hs0000022&b=indexpage&v=0)   
-Copyright © 2001 [NetVision](http://www.net-v.com/). All Rights Reserved. [Privacy Statement](https://web.archive.org/privacy.html)
+Copyright © 2002 [NetVision](http://www.net-v.com/). All Rights Reserved. [Privacy Statement](https://web.archive.org/privacy.html)
