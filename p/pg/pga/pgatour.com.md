@@ -1,87 +1,177 @@
-> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603155156id_/http%3A//www.pgatour.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205020355id_/http%3A//pgatour.com/info/privacy) for the most accurate reproduction.*
 
-# PGATOUR.COM - Privacy Statement for SportsLine.com
+# PGATOUR.COM - Privacy Policy for PGATOUR.COM
 
-  |  |  Privacy Statement for SportsLine.com |   |   
+  |  |  Privacy Policy for PGATOUR.COM |   |   
 ---|---|---  
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of SportsLine.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for SportsLine.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites (including those to which the Website links and third party sites or services with which SportsLine.com) may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to [privacy@sportsline.com](mailto:privacy@sportsline.com). 
+  
+**Effective Date: Oct. 7, 2004**
 
-## 1\. Information SportsLine.com gathers and tracks:
+This privacy policy is applicable to the Website(s) located at the domains "PGATOUR.COM" and "GolfWeb.com", and other sites within the PGA TOUR network which may link to this privacy policy (collectively, the "Site") and are operated by SportsLine.com, Inc. pursuant to a strategic relationship with PGA TOUR LICENSED PROPERIES, INC. (SportsLine.com, Inc. and PGA TOUR LICENSED PROPERIES, INC. collectively "PGA TOUR Partners", "we", "our", or "us"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Please read the following to learn more about our data collection policies and practices.
 
-**Registration**   
-Anyone who participates in interactive activities (chat, message boards, contest entry, store and fantasy product purchase, membership program) on SportsLine.com's network of Web sites may be asked to register for a free guest ID and password or to complete subscription registration for a member ID and password. We use customer contact information from this registration form to send the user information about our company and promotional material from some of our partners. Financial information that is collected is used to bill the user for products and services. The customer's contact information is also used to contact the visitor when necessary for customer service reasons. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers, such as ID and passwords, are collected to verify the user's identity and for use as account numbers in our record system. 
-
-##  CHILDREN UNDER THE AGE OF 13
-
-**We do not currently collect any personally identifiable information from children under the age of thirteen. Under certain circumstances, visitors may be asked to submit a screen name as a means of identifying communications to SportsLine.com. Children of any age should always ask a parent for permission before sending personal information to anyone online. If, in the future, SportsLine.com collects personally identifiable information from children under the age of thirteen, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. § 6501 et seq.)**
-
-**IP Address**
-
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
-
-**Cookies**
-
-A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. A cookie can't read data off your hard disk or read cookie files created by other sites. This random number lets us keep track of "how many" times customers are doing specific things - like visiting our site each month - without really knowing who those customers are. We also use cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your member ID. Additionally, after you've entered your member ID and password during a session on our service, we save that information so you don't have to re-enter it repeatedly during that session. 
-
-Users should be aware that SportsLine.com cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for SportsLine.com. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies maybe necessary to provide the user with certain features (e.g., customized delivery of information) available on the SportsLine.com network of websites. 
-
-**Order Forms**
-
-SportsLine.com's network of sites use an order form for customers to purchase products and services. If you place an order at a store hosted by SportsLine.com we will collect information from you, including your credit card and contact information. This information will be used by the merchant to bill the user for products and services. Contact information from the order form will also be used to ship orders, to contact a user for customer service related issues, and to send the user information about our company, and on occasion, promotional material from some of our partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-**Surveys**
-
-Our online surveys ask visitors for their SportsLine email address and demographic information. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content and promotional offers that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers only on an aggregate basis. We may use contact data from our surveys to send the user information about our company and promotional material from SportsLine.com or some of our partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-**Contests**
-
-We run contests on our site in which we ask visitors for SportsLine.com ID and password. We use contact data from our contests to send users information about upcoming contests and promotional offers. On occasion we will email customers promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary for winner notification and prize delivery confirmation. The majority of the contests that we offer are hosted on the SportsLine site; however, there may be cases in which a third party sponsor will host the contest and collect user information. In those cases, we urge users to review the privacy statement of the third party site. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-**Newsletter**
-
-We offer a number of free newsletters to share content information about our site with interested users. Users may cancel their free email subscriptions by following the simple instructions at the bottom of each newsletter or e-mail. 
-
-## 2\. Use of Information
-
-All of the information SportsLine.com collects, both what you tell us and what we collect through the use of cookies, is "aggregated" -- meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. We may use this aggregated information to evaluate which products and services are successful and which ones are not, and in order to evaluate which new services we should make available on our Web sites. We may use only the anonymous click stream data to help our advertisers deliver better targeted advertisements. SportsLine.com will not disclose any information about any individual without the individual's consent, except to comply with applicable law or valid legal process. 
-
-There may be cases in which some of your personal information may be used by SportsLine.com to target e-commerce promotions and telemarketing activities. In addition, it may be shared with third parties who assist SportsLine.com in producing its Web sites or provide a service to SportsLine's users. 
-
-## 3\. General Privacy Information 
-
-SportsLine.com's network of sites contain links to partners, advertisers and third party Internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of SportsLine.com and **SportsLine.com has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such Web sites**. Please keep in mind that whenever you voluntarily and publicly disclose personal information on any online service or Web site - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Further, while we strive to protect your personal information, SportsLine.com cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online. 
-
-**Security**
-
-SportsLine.com utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in SportsLine's secure database, which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in SportsLine's databases as stated above. 
-
-If you choose to modify your personal information, you may do so by visiting the Member Services page located at http://cbs.sportsline.com/u/userservices/index.html. You will be required to submit a valid user ID and password for authentication before you will be able to modify your file. If you have forgotten your password or prefer to speak with a customer service representative to modify your personal information, you may contact customer service at (800) 771-4616. You will be asked to provide your name or user ID and then to verify certain non-sensitive information (i.e. mother's maiden name) in order to proceed. Because password and credit card information has been encrypted, it is completely invisible to any employee who accesses it, including our customer service team. If you desire to change your password, the customer service representative will reset to a new one after you have properly identified yourself. 
-
-SportsLine.com's technology department conducts frequent site security audits and employs a third party audit company to perform additional site security audits. 
-
-## 4\. Choice/Opt-Out
-
-You have the following options for removing you information from SportsLine.com's database, to not receive future communications or to no longer receive SportsLine.com's services. 
-
-1\. You can send email to [Member Services](mailto:memberservices@sportsline.com)
-
-2\. You can call the following telephone number: 1-800-771-4616 
+  * Types Of Information That May Be Collected
+  * How Information May Be Collected
+  * How We Use The Information Collected
+  * With Whom The Information May Be Shared
+  * Chat Rooms, Forums, And Message Boards
+  * Links To Other Web Sites
+  * Security
+  * A Special Note For Parents Concerning Privacy
+  * Notification Of Changes And Your Acceptance Of The Privacy Policy
+  * Correcting/Updating Personal Information
 
 
-**Change/Modify**
 
-You may also change or modify information you previously provided by calling the following telephone number: 1-800-771-4616 
+### TYPES OF INFORMATION THAT MAY BE COLLECTED
 
-**Contacting the Web Site**
+The following are the types of information we may collect:
 
-If you have any questions about this Statement, the practices of SportsLine.com with respect to personal information or your dealings with this Web site, you can contact [Member Services](mailto:memberservices@sportsline.com) or write to: 
+**Site Usage Information**  
+We may receive and store certain types of information whenever you visit the Site. For example, we may collect Automatic Information and your IP address. As used herein, "Automatic Information" is information collected by our computers when you request Web pages or ads from the Site. An IP address is a number that is automatically assigned to your computer whenever you access the Internet.
+
+**Information You Provide Us**  
+Personal information such as your user ID and password, name, email address, telephone number, physical address, birth date, gender, zip code or other information may be collected via online forms you submit to the Site.
+
+**Email Communications**  
+When you open emails from the Site, we may receive a confirmation noting that you opened the email and if you clicked on any of the links contained in such email. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what emails you have opted to and not to receive.
+
+**Information from Other Sources**  
+We may receive information about you from other sources and add it to your personal information.
+
+Return to Top
+
+### HOW INFORMATION MAY BE COLLECTED
+
+We may collect information from you in several different areas on the Site, including but not limited to those described below:
+
+**Cookies**  
+As with many Websites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your user ID, preferences and other convenient Site usage information. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Additionally, accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Site. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by turning the cookies off in your browser. However, some areas of the Site may not provide you with an acceptable user experience if you have disabled the use of cookies.
+
+**IP Addresses and Automatic Information**  
+We may collect IP addresses and/or Automatic Information for purposes of system administration and to report aggregate information to our advertisers and sponsors. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. Automatic Information we collect may include, without limitation, such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such information. When analyzed, this data helps us determine how visitors arrive at the Site, what type of content is most popular, and what type of visitors (in the aggregate) are interested in particular kinds of content and advertising. We may also use Automatic Information to provide you with a more personalized user experience.
+
+**Web Beacons**  
+Consistent with standard practice within the web publishing industry, web pages throughout the Site may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow PGA TOUR Partners to access certain cookies that were set in a domain different from that which is displayed in the current web page's address bar. PGA TOUR Partners's use of web beacons, includes, without limitation, the following:
+
+  * PGA TOUR Partners may use web beacons within the Site in order to count unique users (actually, unique web browsers), visits and page views. Unique browser recognition is possible through the use of web beacons and associated cookies that may be managed by a third party site analytics partner.
+  * PGA TOUR Partners may use web beacons to monitor Site traffic and conversion patterns through our various product and service offerings. For example, web beacons may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages. This allows us to determine the most appropriate methods to serve our transaction-oriented customers.
+  * PGA TOUR Partners may use web beacons to provide our web-serving applications with access to PGA TOUR Partners cookies. This allows us to personalize your experience when you visit the Site.
+  * PGA TOUR Partners includes web beacons in HTML-formatted email messages (messages in which we are able to include graphics). These beacons allow us to determine whether or not email messages were opened, links were clicked and notifications/offers were acted upon.
+
+
+
+**Registration**  
+In order to take advantage of certain features the Site may choose to offer (including, but not limited to, Site Customization, Newsletters, Contests, Forums, Fantasy Games or other subscription-based services), you may be asked to complete a registration form which will provide us with personally identifiable information. You may also be asked to choose a user ID and password in order to identify yourself during future visits to the Site.
+
+**Newsletters and Site Emails**  
+We may offer newsletters and other email communications to share information with you about sports news and information available on the Site, about certain features the Site may choose to offer or about our affiliates, subsidiaries, business partners, advertisers and sponsors. You may receive newsletters and other email communications by either registering for a particular newsletter or in conjunction with a special feature or membership offering for which you have registered on the Site. You may cancel your email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails.
+
+**Contests or Sweepstakes**  
+We may operate contests and sweepstakes through the Site which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. In the event you win a contest or sweepstakes, we may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes that is promoted on the Site and, as part of the contest or sweepstakes, may collect your information. In those cases (where we are not the operator or host of the contest or sweepstakes), we have no control over the information collected. Thus, before participating, we urge you to review the advertiser's or sponsor's privacy policy as applicable to the contest or sweepstakes.
+
+**Surveys or Voting**  
+From time to time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
+
+**Transaction Information**  
+If you purchase a product from us or subscribe to any of the services offered on our Site, we will ask you to complete an order form that will require certain information from you, including credit card number and expiration date, billing address and shipping information, if applicable. We will use this information to complete the transaction that you have requested, i.e., to deliver the products or other services that you ordered, and, if necessary, to invoice you.
+
+Return to Top
+
+### HOW WE USE THE INFORMATION COLLECTED
+
+TOUR Partners owns the information collected via the Site. As applicable, the information you provide to us may be used to:
+
+  * Contact you about the Site.
+  * Contact you relating to your membership status.
+  * Confirm or fulfill an order you have made.
+  * Monitor or improve the use of the Site.
+  * Customize the advertising and content you see.
+  * Monitor compliance with our Site Terms of Service.
+  * Provide special offers to you from us and/or our respective affiliates, subsidiaries and other third parties.
+  * Send you promotional material on behalf of our partners.
+  * Inform you of a prize you have won.
+
+
+
+Return to Top
+
+### WITH WHOM THE INFORMATION MAY BE SHARED
+
+At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others:
+
+**Agents**  
+We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Site analysis, data analysis, marketing assistance, credit card payment processing, and customer service. These agents may have access to personally identifiable information needed to perform their functions, but may not use it for other purposes.
+
+**Promotional Offers**  
+We may send offers to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in the email or change your preferences.
+
+**Aggregate Information**  
+We may share aggregate information such as demographics and Site usage statistics to advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
+
+**Co-Registration Programs**  
+Throughout the Site you may be presented with an opportunity to receive special offers from third parties. Opt-in or opt-out messages will ask you if you would like your information to be shared. If you do choose to have your information shared, your information will be subject to the privacy policy of such third parties. We are not responsible for the privacy practices of these other companies and, therefore, you should review the privacy practices of such companies prior to providing your personally identifiable information.
+
+**Third-Party Ad Serving & Audience and Traffic Measurement Services**  
+The Site may use third party network advertisers to serve the advertisements on the Site and may use a traffic measurement service to analyze the traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services you might be interested in. Although advertisers and other companies do not have access to your cookies as provided by the Site, the Site's third party network advertisers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set for purposes including but not limited to targeting advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding how useful certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies are governed by each third party's specific privacy policy, not this one. Please visit: <http://www.networkadvertising.org/optout_nonppii.asp> in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use.
+
+**Our Subsidiaries and Affiliates**  
+We may share your information (including, without limitation, personally identifiable information) with our subsidiaries and affiliates.
+
+**Business Transfers**  
+PGA TOUR Partners or any of it assets, including the Site, may be sold, or other transactions may occur in which your personally identifiable information is one of the key business assets. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets we transfer.
+
+**Legal Process**  
+In the event we are required to respond to subpoenas, court orders or other legal process, your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you.
+
+Return to Top
+
+### CHAT ROOMS, FORUMS, AND MESSAGE BOARDS
+
+The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
+
+Return to Top
+
+### LINKS TO OTHER WEB SITES
+
+You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked from our Site, you should consult that site's privacy policy before providing any personal information.
+
+Return to Top
+
+### SECURITY
+
+The Site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your credit card number is encrypted via Secure Sockets Layer (SSL) and is stored behind a firewall. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
+
+Return to Top
+
+### A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
+
+The Site is a general audience site. We do not currently collect any personal information from children under the age of thirteen (13) on the Site. If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.).
+
+Return to Top
+
+### NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY
+
+By using this Site, you signify your agreement to the terms of this privacy policy. PGA TOUR Partners may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address associated with your account or by placing a prominent notice on the Site. Your continued use of the Site shall constitute your acceptance of such revised privacy policy.
+
+Return to Top
+
+### CORRECTING/UPDATING PERSONAL INFORMATION
+
+If your personally identifiable information changes (such as your zip code), or if you no longer wish to access our Site, we provide various ways to correct, update and/or remove personal data you have provided to us.
+
+Update your account information: <http://www.sportsline.com/help>  
+Edit your newsletter or list subscription status: <http://www.pgatour.com/newsletter>  
+Email Customer Service: <http://www.sportsline.com/help/contactus>
+
+If you have any questions about this privacy policy or the privacy practices of this Site, you can email your question to Customer Service using the link above or you can contact us by mail at:
 
 **Customer Service  
 SportsLine.com, Inc.  
-Attn: Privacy Statement  
+Attn: Privacy Policy for PGATOUR.COM  
 2200 W. Cypress Creek Road  
-Fort Lauderdale, Florida 33309**
+Fort Lauderdale, Florida 33309 **
 
-  |  |   |  [](http://www.buick.com/)
+Return to Top
 
-[](http://www.pgatour.com/tournaments/info/r)
+   
+  |  |   |  [](http://www.michelob.com/) [](http://www.pgatour.com/tournaments/info/r)
