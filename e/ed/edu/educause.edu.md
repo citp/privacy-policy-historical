@@ -1,111 +1,149 @@
-> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811232113id_/http%3A//www.educause.edu/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403110442id_/http%3A//www.educause.edu/PrivacyPolicy/1440) for the most accurate reproduction.*
 
-# EDUCAUSE Privacy Policy
+# EDUCAUSE | About EDUCAUSE | Privacy Policy
 
-EDUCAUSE Privacy Policy
+## Use of Personal Information at EDUCAUSE
 
 EDUCAUSE ("we" in the following text) is committed to informing its membership and the general public about news, services, and professional development opportunities that pertain to the transformation of higher education through information technologies. We also strive to facilitate communication among colleagues in the higher education IT community. To these ends, we maintain a database of information about our constituents to enable us to communicate with them and to enable them to communicate with each other. 
 
-Protecting privacy in a technically secure environment and giving individuals a measure of control over their personally identifiable information are critical elements in the EDUCAUSE communication strategy. Consequently, we have instituted the following set of information practices and rights: 
+Protecting privacy in a technically secure environment and giving individuals a measure of control over their personally identifiable information are critical elements in the EDUCAUSE communication strategy. Consequently, we have instituted the set of information practices and rights described below. Please note that the EDUCAUSE Web site offers some links to external sites, to which these privacy practices and rights do not apply.
 
-## Personal Information We Hold
-
-  * name
-  * job title and organization name
-  * postal address
-  * e-mail address
-  * phone
-  * personal URL
-  * records of your involvement with EDUCAUSE and its affiliate organizations
-  * photo
-  * speaker/faculty biographical information
-  * unified login information (user name/password)
+  * What Personal Information Does EDUCAUSE Hold? How Do They Obtain It?
+  * How Does EDUCAUSE Secure Your Personal Information?
+  * How Does EDUCAUSE Use Your Personal Information?
+  * What Are the Ways to Change How EDUCAUSE Uses Your Information?
+  * How Can You Update Your Personal Information?
+  * How Does EDUCAUSE Handle Legally Issued Subpoenas and Law Enforcement Agency Requests?
+  * What Other Exceptions Are There?
 
 
 
-## How We Collect Personal Information 
+## What Personal Information Does EDUCAUSE Hold? How Is It Obtained?
 
-  * We retain demographic information that you volunteer through online and offline transactions and inquiries.
-  * We occasionally obtain contact information for individuals associated with organizations with which we are collaborating on special projects.
-  * When you visit the EDUCAUSE Web site, we collect information about site usage.
-  * We track aggregate information about click-through responses to HTML e-mail messages.
-  * We collect access and contribution information if you participate in a secured SharePoint Team Web site for a member committee, task force, or community of practice.
+### Basic personal information
 
-Note: We do not collect personal information submitted through subscribing to our online newsletters or becoming a member of an EDUCAUSE constituent or discussion group.
+We obtain and hold the following information volunteered through online and offline transactions and inquiries, and occasionally from other organizations with whom we are collaborating on special projects.  
 
-## How We Secure Personal Information
+  * Personal Name 
+  * Organization name
+  * Organization state
+  * Contact information
+    * Job title
+    * Postal address 
+    * E-mail address 
+    * Phone 
+    * Personal URL
+  * Photo
 
-The personal information we collect is stored in a SQL Server database that is protected by multiple passwords. In addition, our online forms are secured with SSL encryption technology to ensure the safety of sensitive information transmitted through them (e.g., credit card information). 
 
-Contact information for individuals in our database is available publicly through our [Membership Directory](https://web.archive.org/memdir/) to foster communication among colleagues. See the "Changing How We Use Your Information" section below if you would like to change your listing status. 
 
-## How We Use the Personal Information We Hold
+### Other information that may be held
 
-  * We use Web site usage and HTML message click-through data for anonymous, aggregate internal reporting to improve online services.
+The following information is volunteered in online and offline transactions, surveys, and inquiries, unless otherwise noted.  
+
+  * EDUCAUSE "unified login" user name and password
+  * Records of your official involvement with EDUCAUSE and its affiliate organizations (e.g., meeting attendance, proposal submissions, speaking engagements, and committee membership)
+  * Emergency contact information
+  * Special needs information
+  * If you have served as a speaker or faculty member at an EDUCAUSE event or that of one of its affiliates, we maintain biographical information used in the event's online program as well as evaluation results submitted by attendees after your session(s).
+  * If you have submitted a conference presentation proposal, we will retain program committee evaluations of your proposal.
+  * If you have completed an online transaction using a credit card, we may retain your credit card information (in encrypted form) to simplify future communications about that transaction.
+  * If you have completed an EDUCAUSE survey, we may maintain records obtained therein of your age and gender.
+  * If you participate in a secured SharePoint Team Web site for a member committee, task force, or community of practice, we collect site access and contribution information.
+  * We collect anonymous, aggregated information about Web site use and site visitors' technical capabilities using a variety of technologies to help us enhance the EDUCAUSE Web site visitor experience.
+  * We track anonymous, aggregated information about opening and click-through responses to HTML e-mail messages using a variety of tools to help us better tailor our communications to the needs and interests of our constituents. 
+
+
+
+Note: We do not collect personal information other than name and e-mail address that is submitted when subscribing to our online newsletters or constituent or discussion groups.
+
+### Cookies
+
+Weuse cookies to help manage the Web site to better serve visitors. A cookie is a piece of data that is either maintained only for the duration of a particular session visit or is stored on the user's computer to support future visits. EDUCAUSE uses both types of cookie.
+
+_Session cookie_ – This type of cookie is used to enhance and make more efficient the user's experience during a site visit. Once the user closes the browser, the cookie terminates. 
+
+_Persistent cookie_ – This type of cookie stores a small text file on the user's hard drive for an extended period of time to remember visit activity that will help make subsequent visits more efficient. Persistent cookies can be removed by following the user's Internet browser help directions. 
+
+## How Does EDUCAUSE Secure Your Personal Information?
+
+The personal information we collect is stored in databases and files that are protected by passwords and firewalls. In addition, online forms used for financial transactions are secured with SSL encryption technology to ensure the safety of sensitive information transmitted through them (e.g., credit card information). When credit card information is stored, it is done so only in an encrypted format.
+
+If your basic personal information is in our database, it may be publicly available in our online and print directories and event registration lists, with the aim of fostering communication among colleagues. See the How Can You Change How EDUCAUSE Uses Your Information section below if you would like to change your listing status. 
+
+## How Does EDUCAUSE Use Your Personal Information?
+
+In addition to facilitating basic communication with you, the information we hold helps us enhance your experiences on our Web site and the efficacy of our communications with you. For example, by holding your basic personal information, we can automatically fill out transactional forms with that data to save you time and effort.
+
   * We use personal information to reply to communications you send us.
-  * We use it to communicate essential information about transactions, such as an electronic receipt for a purchase or a confirmation of a conference registration.
-  * If you are a designated representative of an EDUCAUSE member institution, we use it to send you announcements about news within the association and the profession.
-  * We use it to inform you about EDUCAUSE events, programs, and services of potential interest, unless you have opted out of such communications.
-  * We include your contact information and photo in the EDUCAUSE [Membership Directory](http://www.educause.edu/memdir/) unless you opt to be excluded.
-  * We include your contact information in online and print registration lists for EDUCAUSE events for which you have registered, unless you opt to be excluded.
-  * We share your name and postal mail addresses with corporate participants at EDUCAUSE conferences you have registered to attend, unless you have opted out of corporate participant communications.
+  * We use it to communicate essential information about transactions, such as an electronic receipt for a purchase or a confirmation of a conference registration. 
+  * If you are a designated representative of an EDUCAUSE member organization, we use it to send you announcements about news within the association and the profession. 
+  * We use it to inform you about EDUCAUSE events, programs, and services of potential interest, unless you have opted out of such communications. 
+  * We include your name, your organization's name and state, your contact information, and photo in the EDUCAUSE [member directory](https://web.archive.org/MembershipDirectory/672) and event registration lists unless you opt to exclude your contact information. If you choose to exclude that information, only your name, your title, and your organization's name and state may appear.
+  * We share your name and postal mail address with corporate participants at EDUCAUSE conferences you have registered to attend, unless you have opted out of corporate participant communications.
   * For purposes approved by EDUCAUSE, we make available EDUCAUSE member representatives' names and postal mail addresses in printed or electronic form for one-time use only to other EDUCAUSE members.
-  * We may provide you with a lead retrieval card at certain EDUCAUSE and affiliate conferences that contains your name and contact information. This card allows you to pass on your contact information to exhibitors from whom you would like to receive more information. If you allow a conference exhibitor to swipe that card, you give the exhibitor your name and contact information, including e-mail address.
+  * We may provide you with a lead retrieval card at certain EDUCAUSE and affiliate conferences that contains your basic personal information. This card allows you to pass on this information to exhibitors from whom you would like to receive more information. By allowing a conference exhibitor to swipe that card, you give the exhibitor your name and contact information, including e-mail address. 
+  * We use anonymous, aggregated data about Web site visitors' site usage and technical capabilities as well as about HTML message opening and click-through rates to improve online services and communications.
 
 
 
-## Changing How EDUCAUSE Uses Your Information
+## How Can You Change How EDUCAUSE Uses Your Information?
 
-Balanced with our goal of sharing information with our constituents is our commitment to respecting preferences for how their personal information will be used. Here are various ways to control the use of your information. [Note: Primary representatives of member institutions, by virtue of the responsibilities they agree to in taking on this role, may not remove themselves from listing in the Membership Directory nor from promotional and certain non-transactional messages.] 
+Balanced with our goal of sharing information with our constituents is our commitment to respecting preferences for how their personal information will be used. Here are the various ways to control the use of your information. [Note: Primary representatives of member institutions, by virtue of the responsibilities they agree to in taking on this role, may not remove themselves from listing in the Membership Directory nor from certain promotional and other non-transactional messages.] 
 
-### Removal from a particular mailing list
+### Changing mailing and directory listing preferences
 
-If you are on a mailing list for a particular EDUCAUSE event, service, or publication and would like to be removed from subsequent mailings, follow the opt-out procedure stated at the bottom of the message you received, or contact EDUCAUSE Member Services at [remove@educause.edu](mailto:remove@educause.edu). 
+Log into your [EDUCAUSE profile](https://web.archive.org/Login/603) to change your
 
-### Removal from the registration list for a particular conference 
-
-If you would like your name and contact information withheld from the online and print attendee registration list for an EDUCAUSE conference you plan to attend, indicate this in the appropriate field when you register online for the conference. If you would like to remove your listing after you have already registered, contact EDUCAUSE Member Services at [remove@educause.edu](mailto:remove@educause.edu). 
-
-### Removal from exhibitor mailings for a particular conference
-
-To opt out of communications from corporate participants at an EDUCAUSE conference you plan to attend, indicate this in the appropriate field when you register online for the conference. If you would like to opt out of mailings after you have already registered, contact EDUCAUSE Member Services at [remove@educause.edu](mailto:remove@educause.edu). 
-
-Removal from all public listings and/or promotional mailings Go to our [membership audit](https://web.archive.org/membership/audit/member_lookup.asp) page to 
-
-  * Withhold your contact information from the EDUCAUSE Web site, e.g., the Membership Directory and all conference registration lists (online and paper);
-  * Exclude your photo from the EDUCAUSE Web site, e.g., the Membership Directory and all online conference registration lists; or
-  * Opt out of all promotional mailings from EDUCAUSE.
+  * promotional mailing preferences
+  * ECAR research notification preferences
+  * listing status in EDUCAUSE directories and registration lists
+  * peer directory information and preferences
+  * new-resource alert preferences
 
 
+
+If you do not have one, you can [create a personal EDUCAUSE profile](https://web.archive.org/Login/603).
+
+If you would like to change any preferences listed above but do not wish to create an EDUCAUSE profile, please e-mail your request to EDUCAUSE Member Services at [info@educause.edu](mailto:info@educause.edu) or call them at 303-449-4430. 
 
 ### Removal from all non-transactional EDUCAUSE mailings
 
-If you wish not to receive any information from EDUCAUSE (including newsletters, news announcements, magazine tables of contents, and information about resources, services, and professional development opportunities) except that which pertains directly to transactions you conduct with EDUCAUSE, please send a message to [remove@educause.edu](mailto:remove@educause.edu) with this subject line: **REMOVE FROM ALL MAILINGS**. 
+If you wish not to receive any communications from EDUCAUSE (including newsletters, news announcements, magazine tables of contents, and information about resources, services, and professional development opportunities) except those that pertain directly to transactions you conduct with EDUCAUSE, please send a message to [remove@educause.edu](mailto:remove@educause.edu) with this subject line: **REMOVE FROM ALL MAILINGS**. 
 
-### Removal from constituent and discussion groups or EDUPAGE
+### Unsubscribing from constituent and discussion group lists or electronic newsletters 
 
-To remove yourself from a constituent or discussion group, select the Join or Leave List link on the group's Web page (links to all groups are listed on the [Constituent and Discussion Groups](https://web.archive.org/cg/) Web page). To be removed from the EDUPAGE list, use the [Join or Leave EDUPAGE](http://listserv.educause.edu/cgi-bin/wa.exe?SUBED1=edupage&A=1) Web form. 
-
-## Updating Your Personal Information
-
-If the information in your [Membership Directory](https://web.archive.org/memdir/) listing is outdated, incomplete, or incorrect, please let us know. 
-
-  * Change your [contact information](https://web.archive.org/membership/audit/member_lookup.asp).
-  * If you are a primary representative at an EDUCAUSE member institution, request a change to your organization's [member representatives](https://web.archive.org/membership/audit/).
-  * Send a message to EDUCAUSE Member Services at [info@educause.edu](mailto:info@educause.edu).
+  * To remove yourself from a constituent or discussion group, select the Join or Leave List link on the group's Web page (links to all groups are listed on the [ Constituent and Discussion Groups](https://web.archive.org/ConstituentandDiscussionGroups/318) Web page). 
+  * Remove yourself from the [EDUPAGE mailing list](https://web.archive.org/Edupage/639). 
+  * Remove yourself from the [Washington Update mailing list](https://web.archive.org/WashingtonUpdate/1311).
+  * Remove yourself from the [EDUCAUSE Online mailing list](https://web.archive.org/EDUCAUSEOnline/641).
 
 
 
-## Compliance with Legally Issued Subpoenas and Law Enforcement Agencies
+## How Can You Update Your Personal Information?
+
+  * Log into your [EDUCAUSE profile](https://web.archive.org/Login/603) to change your:
+  * basic personal information
+  * biographic information
+  * emergency contact information
+  * special needs information
+  * personal event itineraries
+  * user name and password
+
+
+
+If you do not have one, you can [create a personal EDUCAUSE profile](https://web.archive.org/Login/603).
+
+If you would like to change any information listed above but do not wish to create an EDUCAUSE profile, please e-mail your request to EDUCAUSE Member Services at [info@educause.edu](mailto:info@educause.edu) or call them at 303-449-4430. 
+
+## How Does EDUCAUSE Handle Legally Issued Subpoenas and Law Enforcement Agency Requests?
 
 EDUCAUSE may disclose personal information if we are required to do so to comply with the law or with legal process. 
 
-## Administrative Oversight
+## What Other Exceptions Are There?
 
-EDUCAUSE reserves the right to use personal information in its database to identify the source of any inappropriate usage of information resources managed by the association, including but not limited to, offensive or illegal postings to listservs, collaboration sites, and other communication vehicles; denial of service actions; unauthorized uses of online services and network infrastructure; misuse or unauthorized use of the EDUCAUSE name, logo, or other representations of the association; and to protect the personal safety and privacy of our members, online users, and the public under the policies and practices described above. 
+EDUCAUSE reserves the right to use personal information in its database to identify the source of any inappropriate use of information resources managed by the association, including but not limited to offensive or illegal postings to online discussion lists, collaboration sites, and other communication vehicles; denial of service actions; unauthorized use of online services and network infrastructure; misuse or unauthorized use of the EDUCAUSE name, logo, or other representations of the association; and to protect the personal safety and privacy of our members, online users, and the public under the policies and practices described above. 
 
-## More on EDUCAUSE
+Effective date: 9/17/04
 
-Learn more [about EDUCAUSE](https://web.archive.org/about/). 
-
-* * *
+Page Last Updated: Thursday, March 17, 2005 
