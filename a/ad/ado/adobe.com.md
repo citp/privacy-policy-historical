@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adobe.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051603id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adobe.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206033137id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Adobe.com: Online Privacy Policy
 
-This document sets forth the Adobe Online Privacy Policy (the "Privacy Policy") for this Web site, www.adobe.com (the "Site"). If you have objections to the Privacy Policy, you should not access or use this Site.
+This document sets forth the Adobe Online Privacy Policy (the "Privacy Policy") for this Web site, www.adobe.com (the "Site"). If you have objections to the Privacy Policy, you should not access or use this Site. This Privacy Policy does not govern privacy practices associated with offline activities or other Adobe web sites.
 
 Adobe is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
 
@@ -45,7 +45,9 @@ Please note that any information you post to a public bulletin board or chat roo
 
 Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. (For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.)
 
-While Adobe uses cookies to track your visit to Adobe.com, and our Web servers automatically log the IP/Internet address of your computer, Adobe does not use this information to identify you personally.
+While Adobe uses cookies to track your visit to Adobe.com, and our Web servers automatically log the IP/Internet address of your computer, Adobe does not generally use this information to identify you personally. 
+
+However, if you expressly provide consent for Adobe.com to "remember" the unique identifier that you select when you register for various activities on the site, that unique identifier will be stored on a cookie on your computer, linked to your registration information, and your navigation path around the site will be tracked. We associate this data to understand how our site and services are being used so we can understand our customers and offer appropriate products and services.
 
 **Updating your personal information and privacy preferences  
 **You have the right to access and correct your personal information and privacy preferences at any time. With respect to Registration Information, this may be accomplished by linking to your account at [Edit Your Account](https://web.archive.org/personaladobe/), where you can view and make changes to your personal information. You may also access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Adobe or third parties) by writing or calling Adobe at:
