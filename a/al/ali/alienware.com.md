@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienware.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605152219id_/http%3A//www.alienware.com/sub_pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienware.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202153700id_/http%3A//www.alienware.com/sub_pages/privacy.aspx) for the most accurate reproduction.*
 
 # Alienware : The Best Custom Built Gaming PC for the Ultimate PC Gamer!
 
