@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the living-foods.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205142600id_/http%3A//www.living-foods.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the living-foods.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410002757id_/http%3A//living-foods.com/privacy.html) for the most accurate reproduction.*
 
 # Living and Raw Foods - Privacy Statement
 
