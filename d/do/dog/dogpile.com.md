@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011455id_/http%3A//www.dogpile.com/info.dogpl/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623204508id_/http%3A//www.dogpile.com/info.dogpl/search/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
