@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the genkienglish.net privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618120613id_/http%3A//www.genkienglish.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genkienglish.net privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
   
 We are always striving to make Genki English the best we can! We take the privacy of our viewers seriously and have hence added this privacy statement to the site.
 
-The information collected by Genki English falls into 5 basic categories:
+The information collected by Genki English falls into 6 basic categories:
 
 **1\. Email addresses used for distribution of the Genki English newsletters.**
 
@@ -21,16 +21,16 @@ This information is collected by our Credit Card handlers, CCnow (http://www.ccn
 
  **4\. Information for persons interested in working for Altia Central**
 
-This refers to the page we have on the website where people can apply for information about the Altia Central ALT programme. Please [click here](https://web.archive.org/web/20030618120613id_/http%3A//www.genkienglish.net/altiacentral.htm) to view the page. This information is held by Genki English and is also forwarded onto Altia Central. Only Information submitted via the form on this page only is pased onto Altia Central.
+This refers to the page we have on the website where people can apply for information about the Altia Central ALT programme. Please [click here](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/altiacentral.htm) to view the page. This information is held by Genki English and is also forwarded onto Altia Central. Only Information submitted via the form on this page is passed onto Altia Central.
 
  **5\. Information for persons interested in our "Kids English" series.**
 
-This refers to the Japanese page we have on the website where people can apply for information about our Kids English series. Please [click here](https://web.archive.org/web/20030618120613id_/http%3A//www.genkienglish.net/kidsenglishj.htm) to view the page. This information is held by Genki English and is also forwarded onto the publisher SSI Corporation. Only Information submitted via the form on this page is pased onto SSI corporation.
+This refers to the Japanese page we have on the website where people can apply for information about our Kids English series. Please [click here](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/kidsenglishj.htm) to view the page. This information is held by Genki English and is also forwarded onto the publisher SSI Corporation. Only Information submitted via the form on this page is pased onto SSI corporation.
 
 We carefully control the links to other sites, however we cannot accept responsibility for content that is not part of Genki English. Similarly, you may occasionally see advertisements on these pages and these are not always for companies  connected with Genki English. 
 
 As with anything else on this site, if you have any further questions or comments then please [contact me.  
-](https://web.archive.org/web/20030618120613id_/http%3A//www.genkienglish.net/contact.htm)  
+](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/contact.htm)  
 Be genki,
 
 Richard
@@ -40,13 +40,8 @@ Richard
 
 * * *
 
-Copyright (C) 1999/2003 by [ Richard Graham](https://web.archive.org/web/20030618120613id_/http%3A//www.genkienglish.net/selfintro.htm)  [Info@GenkiEnglish.net](mailto:info@genkienglish.net?Subject=homepage)   
-
+Copyright (C) 1999/2004 by [ Richard Graham](https://web.archive.org/web/20031206095120id_/http%3A//genkienglish.net/selfintro.htm)
 
 * * *
 
-www.genkienglish.com
-
-  
-[](http://leader.linkexchange.com/1/X1487396/clicklogo)  
-
+www.GenkiEnglish.com
