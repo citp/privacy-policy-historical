@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usanetwork.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216081600id_/http%3A//usanetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usanetwork.com privacy policy that was archived on 2001-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010626234423id_/http%3A//www.usanetwork.com/privacy) for the most accurate reproduction.*
 
 # USA Network Privacy Policy
 
