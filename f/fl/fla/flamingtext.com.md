@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604032414id_/http%3A//www.flamingtext.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008125811id_/http%3A//flamingtext.com/privacy.html) for the most accurate reproduction.*
 
 # FlamingText.com
 
@@ -12,7 +12,9 @@ We make use of PostMasterDirect ([Privacy Policy](https://web.archive.org/cgi-bi
 
 ### Third Party Advertisers
 
-This site uses the services of Burst, DoubleClick/Sonar and other third parties to serve ads, for promotions and other marketing messages when you visit this site. These companies may use information about your visits to this and other Web sites (not including your name, address, email address or telephone number) in order to target these ads to those about goods and services of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [www.sonar.com/naiprivacy](https://web.archive.org/cgi-bin/click.cgi?http://www.sonar.com/naiprivacy/) [http://www.burstmedia.com/release/privacy.asp](https://web.archive.org/cgi-bin/click.cgi?http://www.burstmedia.com/release/privacy.asp). 
+This site uses the services of Burst, MaxWorldwide (DoubleClick) and other third parties to serve ads, for promotions and other marketing messages when you visit this site. These companies may use information about your visits to this and other Web sites (not including your name, address, email address or telephone number) in order to target these ads to those about goods and services of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [http://www.maxworldwide.com/privacy_policy/index.php](https://web.archive.org/cgi-bin/click.cgi?http://www.maxworldwide.com/privacy_policy/index.php) [http://www.burstmedia.com/release/privacy.asp](https://web.archive.org/cgi-bin/click.cgi?http://www.burstmedia.com/release/privacy.asp). 
+
+You can opt-out of advertising at the [NAI Gateway](http://www.networkadvertising.org/optout_nonppii.asp), 
 
 ### Third Party Cookies
 
