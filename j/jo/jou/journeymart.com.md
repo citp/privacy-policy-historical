@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the journeymart.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003003954id_/http%3A//www.journeymart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeymart.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205155id_/http%3A//www.journeymart.com/legal/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 JourneyMart.com respects the privacy of its users and is committed to protecting it. The information collected is used to enable the portal and the JourneyMart Licensees to provide efficient service and to personalize your JourneyMart experience. We would like you to understand the ways in which we do and don’t use this information, and the details of our Privacy Policy are given below.
 
