@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the gophercentral.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628152633id_/http%3A//af3.gophercentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gophercentral.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207011703id_/http%3A//af3.gophercentral.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
-## Privacy Statement 
+## Privacy Statement   
+We are CAN-SPAM compliant, [CAN-SPAM Act of 2003](http://www.spamlaws.com/federal/108s877nov22.html)
 
 This privacy statement in order to disclose our policies regarding the gathering and use of subscriber information.
 
@@ -31,7 +32,7 @@ This site gives users the following options for removing their information from 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Anisa Ali   
-Pulse Direct, Inc.   
+PENN LLC.   
 19001 S. Old LaGrange Rd   
 Mokena, IL 60448   
 [Email Me](mailto:Anisa@gophercentral.com)
