@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your2cents.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207120417id_/http%3A//www.your2cents.com/privacy.asp%3Fname%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your2cents.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214015615id_/http%3A//your2cents.com/privacy.asp%3Fname%3D) for the most accurate reproduction.*
 
 # Your 2 Cents - Privacy\Security
 
@@ -30,7 +30,7 @@ We provide all panelists the option of opting-out of the panel quickly and easil
 We also provide an area designed to update and delete e-mail address when necessary.  Your2Cents.com will automatically remove and update this request  and the panelist will receive confirmation of the deletion or update.
 
 **Monthly sweepstakes cash drawing**  
-Our monthly sweepstakes takes place in the first week of every month. Panel members will be randomly selected to win cash even if they have not been invited to participate in a survey that month.  Winners are notified via e-mail of their winnings and they will be sent a check in the amount rewarded within 1-2 weeks after the names are selected. Our [ winners](https://web.archive.org/web/20020207120417id_/http%3A//www.your2cents.com/winnings.asp?name=) page displays the name and city, state were winners came from, but names are only displayed with the direct permission of panelist.
+Our monthly sweepstakes takes place in the first week of every month. Panel members will be randomly selected to win cash even if they have not been invited to participate in a survey that month.  Winners are notified via e-mail of their winnings and they will be sent a check in the amount rewarded within 1-2 weeks after the names are selected. Our [ winners](https://web.archive.org/web/20021214015615id_/http%3A//your2cents.com/winnings.asp?name=) page displays the name and city, state were winners came from, but names are only displayed with the direct permission of panelist.
 
 **Use of Data**  
 Our number one priority is maintaining the privacy of all information and not to release any one individual’s information separate from the panel. All information will be analyzed in aggregate and grouped in categories. We promise to follow our privacy commitment to our panelists. Reviewing changes in our privacy statement are the sole responsibility of our panel members. Notification of changes will be posted on Your2Cents.com (http://www.your2cents.com) website for review, but Your2Cents.com, a division of Common Knowledge Inc., its partners and clients affiliated, are not responsible if our panel members are not aware of the changes before participating in additional surveys.
