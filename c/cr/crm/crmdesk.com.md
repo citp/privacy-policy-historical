@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crmdesk.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607170948id_/http%3A//www.crmdesk.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crmdesk.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011172919id_/http%3A//www.crmdesk.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Web-based Help Desk, Customer Service and Online Support Software - CRMdesk - Privacy Statement
 
@@ -12,7 +12,7 @@ Our company use customer's information from Custom Demo sign up form. We collect
 
 SkyeyTech welcomes your comments regarding this Statement of Privacy, please contact us by [e-mail](mailto:info@skyeytech.com?subject=privacy%20statement), or postal mail.
 
-_SkyeyTech, Inc.  
+ _SkyeyTech, Inc.  
 302 Westmoreland Dr.  
 Vernon Hills, IL 60061  
 USA  
