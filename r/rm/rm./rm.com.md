@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2000-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000817193306id_/http%3A//www.rm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2001-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010627093936id_/http%3A//www1.rm.com/_RMVirtual/includes/privacy.asp) for the most accurate reproduction.*
 
-# RM: Privacy Statement for http://www.rm.com
+# RM Privacy Statement
 
-**Privacy Statement for http://www.rm.com/**
+**Privacy Statement for http://www.rm.com**
 
-RM plc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.rm.com/. 
+RM plc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.rm.com. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
@@ -12,7 +12,7 @@ In instances where we offer a shopping cart facility, our site uses cookies to k
 
 Our site's registration forms require users to give us contact information (like their name and email address). We sometimes use customer contact information from the registration forms to send users information about our company and our products and services. The customer's contact information is also used to contact the visitor when necessary. If at any time you receive unwanted information from RM please contact us and we will remove you from our records.
 
-This site contains links to other sites. **http://www.rm.com/** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **http://www.rm.com** is not responsible for the privacy practices or the content of such Web sites. 
 
 In some cases, we work with another company to provide products and services. In those cases we will never share our customer details directly with another company 
 
