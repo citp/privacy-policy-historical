@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluke.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203024700id_/http%3A//www.fluke.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluke.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604053611id_/http%3A//www.fluke.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for www
 
@@ -30,7 +30,7 @@ Registration Forms
 
 **
 
-This site's registration forms require users to give us contact information (like their name, email address, and some demographic data). We use this information to learn more about our visitors, and to keep visitors up to date on new products, services and developments. In some instances, Fluke may use the customer's contact information to contact the visitor directly. 
+This site's registration forms require users to give us contact information (like their name, email address, and some demographic data). We use this information to learn more about our visitors, and to keep visitors up to date on new products, services and developments. In some instances, Fluke or its distributors may use the customer's contact information to contact the visitor directly. 
 
 **
 
@@ -38,13 +38,13 @@ Order Forms
 
 **
 
-This site uses order forms for customers to request information, materials, products, and services. We collect visitor's contact information (like their email address), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and also to learn more about our customers. The customer's contact information may also be used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services. 
+This site uses order forms for customers to request information, materials, products, and services. We collect visitor's contact information (like their email address), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and also to learn more about our customers. The customer's contact information may also be used by Fluke or its distributors to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services. 
 
 ****
 
 **Online Surveys**
 
-Our online surveys may ask visitors for contact information (such as their email address), or other demographic or product usage data. We use data collected from these surveys to learn more about our customers, their likes and dislikes, and how we can improve our services and product offerings. Contact information collected is used to contact the visitor when necessary. We may also use the customer's contact information received in surveys to contact the visitor directly, if necessary. 
+Our online surveys may ask visitors for contact information (such as their email address), or other demographic or product usage data. We use data collected from these surveys to learn more about our customers, their likes and dislikes, and how we can improve our services and product offerings. Contact information collected is used to contact the visitor when necessary. Fluke or its distributors may also use the customer's contact information received in surveys to contact the visitor directly, if necessary. 
 
 **
 
@@ -94,7 +94,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This site provides users the choice to "opt out" of receiving communications from Fluke and its sales/service channel partners.
 
-If you **do not** wish to receive future informational or promotional messages and/or materials from Fluke or its sales/service channels, please send an e-mail to: fluke-info@tc.fluke.com
+If you **do not** wish to receive future informational or promotional messages and/or materials from Fluke or its sales/service channels, please send an e-mail to: fluke-info@fluke.com
 
 **
 
@@ -102,7 +102,7 @@ Changes/Modifications
 
 **
 
-This site also gives users the option for changing and modifying information previously provided. Please send an e-mail to: fluke-info@tc.fluke.com
+This site also gives users the option for changing and modifying information previously provided. Please send an e-mail to: fluke-info@fluke.com
 
 **
 
@@ -124,4 +124,4 @@ Webmaster
 Fluke Corporation  
 PO Box 9090, M/S 250E  
 Everett, WA 98203  
-fluke-info@tc.fluke.com
+fluke-info@fluke.com
