@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217041053id_/http%3A//www.carnegielearning.com//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2003-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030418122508id_/http%3A//www.carnegielearning.com//privacy) for the most accurate reproduction.*
 
 # Educational Software Solutions for Math
 
