@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606043737id_/http%3A//charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/38.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010040204id_/http%3A//www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/38.htm) for the most accurate reproduction.*
 
 # Charity Navigator - Privacy
 
