@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the renderotica.com privacy policy that was archived on 2001-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010303081333id_/http%3A//www.renderotica.com/rotica/private.mv) for the most accurate reproduction.*
+
+# Privacy Statement - Renderotica
+
+Renderotica is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you provide online. 
+
+**Basic Confidentiality Policy**
+
+It is Renderotica's policy that **personal information** , such as your name, postal and e-mail address or telephone number, is **private and confidential**. Accordingly, the personal information you provide is stored in a secure location, is accessible _only_ by designated staff, and is used _only_ for the purposes for which you provide the information.
+
+**No Release of Information to Third Parties**
+
+Personal information will not be released to third parties. There are no circumstances under which we will provide or sell personal information to third parties.
+
+**No Computer Tracking of Identifiable Information**
+
+Our server is not set up to track, collect or distribute personal information about its visitors. It does recognize the referring server of visitors, but not e-mail addresses or any personal information. For example, we can tell which Internet Service Provider our visitors use, or what site they clicked in from, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our site.
+
+**Marketing Demographics**
+
+Renderotica may collect marketing data about it's members for it's advertisers, but only in a summarized demographic method and none of your personal information is revealed. 
+
+Renderotica is not responsible for the privacy practices or policies of sites we may provide a link to. 
