@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stonybrook.edu privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193841id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stonybrook.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204191833id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
 
 # Stony Brook University Privacy Policy
 
