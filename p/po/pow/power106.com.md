@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207080243id_/http%3A//www.power106.com/station/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608104521id_/http%3A//www.power106.com/station/privacy.aspx) for the most accurate reproduction.*
 
 # .::: Power 106 FM BLAZIN' HIP HOP and R&B :::.
 
