@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dstv.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215053813id_/http%3A//www.dstv.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstv.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307162319id_/http%3A//www.dstv.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # DStv - Privacy Policy
 
