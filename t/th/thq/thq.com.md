@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thq.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605005933id_/http%3A//www.thq.com/Policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thq.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204205054id_/http%3A//www.thq.com/Policies/privacy.asp) for the most accurate reproduction.*
 
 # THQ | United States | Privacy Policy
 
