@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrw.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604075926id_/http%3A//www.hrw.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrw.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211000155id_/http%3A//www.hrw.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Holt, Rinehart and Winston
 
