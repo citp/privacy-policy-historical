@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theinsider.com privacy policy that was archived on 2003-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603164711id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theinsider.com privacy policy that was archived on 2003-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204094201id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN"><html><head>
 <meta http-equiv="expires" content="Thu, 30 Dec 2002 120000 GMT">
@@ -15,60 +15,73 @@ Empire State Building,Twin Towers,Radio City Music Hall,Rockefeller Center,Faneu
 
 <body bgcolor="#FFFFFF" link="#FF0000" vlink="#FF0000" alink="#0033CC">
 <script language="JavaScript"> 
-<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved.*/ 
-function ShowBurstAd(adcode, width, height, intrusive) {
+<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
+function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
 var bN = navigator.appName;
-var bV = parseInt(navigator.appVersion);   
-var base='http://www.burstnet.com/';   
+var bV = parseInt(navigator.appVersion);
+var base='http://www.burstnet.com/';
 var Tv=''; var Itr='';
-
+var sz=''; var bkgd='';
+var bgc=''; var rfr='';
+var vr='v=1.0J';
 var agt=navigator.userAgent.toLowerCase();
 
+if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
+if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
+if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
+rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
+                            
 if (bV>=4) {
   ts=window.location.pathname+window.location.search;
   i=0; Tv=0; while (i< ts.length)
     { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
 } else {Tv=escape(window.location.pathname);
-  if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
+  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
     else if (Tv.charAt(1)=="/")
- Tv="";     
- if( Tv.charAt(Tv.length-1) == "/")
+ Tv="";
+  if( Tv.charAt(Tv.length-1) == "/")
    Tv = Tv + "_";
-}   
+}
 
 var fCode='<ifr'+'ame id="BURST" src="'+base+
- 'cgi-bin/ads/'+adcode+'.cgi/NI'+Tv+
- '/RETURN-CODE" width="'+width+'" height="'+
+ 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
+ rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
  height+'"'+'marginwidth="0" marginheight="0"'+
  'hspace="0" vspace="0" frameborder="0" '+
- 'scrolling="no"></ifr'+'ame>';
-var gCode='<'+'a href="'+base+'ads/'+adcode+'-map.cgi'+
- Tv+'"target=_top><im'+'g src="'+base+
- 'cgi-bin/ads/'+adcode+'.cgi'+Tv+
- '" width="'+width+'" height="'+height+
- '"'+' border="0" alt="Click Here"></a>';
-var sCode='<s'+'cript src="'+base+'cgi-bin/ads/'+
- adcode+'.cgi/NI/RETURN-CODE/JS'+
- Tv+'"></scr'+'ipt>';
-
+ 'scrolling="no">';
+ var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
+ vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
+ '" border="0" alt="Click Here"></a>';
+var fCodeEnd = '</ifr'+'ame>';
 
 if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
-  Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
-  '.cgi/sz=0X0MN'+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
+ Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
+ '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
 }
 
-if (bN=='Netscape'){        
- if ((bV>=4)&&(agt.indexOf("mac")==-1)) { 
-  document.write(sCode+Itr);
- } else { document.write(gCode);}
-} else if (bN=='Microsoft Internet Explorer') {
-  document.write(fCode+Itr);
-} else { document.write(gCode);}
+if (agt.indexOf("mac")==-1) {
+  document.write(fCode+gCode+fCodeEnd+Itr);
+} else {
+  document.write(gCode);
+}
 }
 //-->
-</script><!-- END BURST CODE --><div align="left">
+</script><!-- END BURST CODE -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="940">
+<p><!-- BEGIN RICH-MEDIA BURST! CODE --> <script language="JavaScript">
+<!--
+ShowBurstAd('ad1591a','728','90','468x60A|728x90A','1', '', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ad1591a.cgi/NI/if/v=1.0J/sz=468x60A|728x90A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181/RETURN-CODE" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ad1591a-map.cgi/v=1.0J/sz=468x60A|728x90A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ad1591a.cgi/v=1.0J/sz=468x60A|728x90A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181" border="0" alt="Click Here"></a></iframe></p><div><script src="http://www.burstnet.com/cgi-bin/ads/ad1591a.cgi/sz=0X0MN/v=1.0J/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181/RETURN-CODE/JS/"></script></div> <noscript><a
+href="http://www.burstnet.com/ads/ad1591a-map.cgi/ns/v=1.0J/sz=468x60A|728x90A/"
+target="_top"> </a><a
+href="http://www.burstnet.com/ads/ad1591a-map.cgi/ns/v=1.0J/sz=468x60A|728x90A/"
+target="_top"><img
+src="http://www.burstnet.com/cgi-bin/ads/ad1591a.cgi/ns/v=1.0J/sz=468x60A|728x90A/"
+alt="Click Here" border="0"></a> </noscript> <!-- END BURST CODE --> <p></p>
+<div align="left">
+
+<table border="0" cellpadding="0" cellspacing="0" width="969">
     <tbody><tr>
         <td bgcolor="#000000"><img src="http://www.TheInsider.com/Networkbanner2.gif" width="313" height="43"></td>
     </tr>
@@ -100,56 +113,30 @@ if (bN=='Netscape'){
         </font><a href="http://www.TheInsider.com/hotelreservations.htm"><font color="#FF0000" size="2" face="Arial">Discount Hotels</font></a><font color="#FF0000" size="2" face="Arial"><br>
         </font><a href="http://www.TheInsider.com/airlinereservations.htm"><font color="#FF0000" size="2" face="Arial">Airfare Savings</font></a><font color="#FF0000" size="2" face="Arial"><br>
         </font><a href="http://www.TheInsider.com/carreservations.htm"><font color="#FF0000" size="2" face="Arial">Rental Cars</font></a><font color="#FF0000" size="2" face="Arial"><br>
-        </font><a href="http://www.theinsider.com/Condos.htm"><font color="#FF0000" size="2" face="Arial">Vacation Rentals</font></a><font color="#FF0000" size="2" face="Arial"><br>
-        </font></p>
-        <p><a href="http://www.hoteldiscounts.com/cgi-bin/pickcity?SID=INS&amp;LKF=INS" target="_new"><font color="#FF0000" size="2" face="Arial">More
-        Hotel Discounts</font></a></p>
-        <p><a href="http://www.TheInsider.com/about.htm"><font color="#FF0000" size="2" face="Arial">About The Insider</font></a></p>
-        <p><a href="http://www.travelnow.com/affiliate/?cid=395" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://www.TheInsider.com/graphics/travelnowairlines.gif" alt="discounted airfare!" border="0"></font></a></p>
-        <p><a href="http://www.travelnow.com/affiliate/?cid=395" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://www.TheInsider.com/graphics/travelnowcar.gif" alt="rental cars!" border="0"></font></a></p>
-        <p><a href="http://www.travelnow.com/affiliate/?cid=395" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://www.TheInsider.com/graphics/travelnowhotels.gif" alt="discounted hotels!" border="0"></font></a><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=28306.10000107&amp;type=4&amp;subid=0" width="1" height="1"></p>
-        <p align="left"><font color="#FFFFFF" size="2" face="Arial">Sponsored Links:</font><font color="#FF0000" size="2" face="Arial"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/stat?id=5PLUrp/ECKc&amp;offerid=6238.9&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">1-800-Flowers</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=6238.9&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=29496.10000011&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">American
-        Express</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=29496.10000011&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=46353.10000008&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">Cheap
-        Tickets</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=46353.10000008&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/stat?id=5PLUrp/ECKc&amp;offerid=35226.10000062&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">Delta
-        Air Lines</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=35226.10000062&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=14707.10000001&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">GigaGolf</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=14707.10000001&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=42897.10000069&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">Golfballs.com</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=42897.10000069&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=24474.10000017&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">Hotwire</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=24474.10000017&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=26714.10000015&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">Luggage
-        Online</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=26714.10000015&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=15823.10000005&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">Priceline.com</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=15823.10000005&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=43666.10000033&amp;type=3&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial">Trip.com</font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=43666.10000033&amp;type=3&amp;subid=0" width="1" height="1"><br>
-        </font></p>
-        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=42865.10000189&amp;type=4&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://affiliate.1800flowers.com/graphics/generic/LGk104nF1.gif" alt="Logo" border="0" width="120" height="60"></font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=42865.10000189&amp;type=4&amp;subid=0" width="1" height="1"></font></p>
-        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=14707.10000024&amp;type=4&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://www.gigagolf.com/images/LinkShare/event/button_120x60.gif" alt="Event 120x60" border="0" width="120" height="60"></font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=14707.10000024&amp;type=4&amp;subid=0" width="1" height="1"></font></p>
-        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=42897.10000045&amp;type=4&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://www.golfballs.com/images/banners/images/gbc_largest_120x60.gif" alt="GeneralPurpose_8" border="0" width="120" height="60"></font></a><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=42897.10000045&amp;type=4&amp;subid=0" width="1" height="1"></font></p>
+        </font><a href="http://www.theinsider.com/Condos.htm"><font color="#FF0000" size="2" face="Arial">Vacation Rentals</font></a></p>
+        <p align="left"><a href="http://www.TheInsider.com/about.htm"><font color="#FF0000" size="2" face="Arial">About The Insider</font></a><font color="#FF0000" size="2" face="Arial"><br>
+        </font><a href="http://www.TheInsider.com/advertising.htm"><font size="2" face="Arial">Advertising Info</font></a><font size="2" face="Arial"><br>
+        </font><a href="mailto:webmaster@theinsider.com"><font color="#FF0000" size="2" face="Arial">Contact Us</font></a></p>
+        <p><!-- BEGIN RICH-MEDIA BURST! CODE --> <script language="JavaScript">
+<!--
+ShowBurstAd('sk1591a','160','600','120x600A|160x600A','0', '000000', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/sk1591a.cgi/NI/if/v=1.0J/zg000000/sz=120x600A|160x600A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181/RETURN-CODE" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/sk1591a-map.cgi/v=1.0J/sz=120x600A|160x600A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/sk1591a.cgi/v=1.0J/sz=120x600A|160x600A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181" border="0" alt="Click Here"></a></iframe> <noscript><a
+        href="http://www.burstnet.com/ads/sk1591a-map.cgi/ns/v=1.0J/sz=120x600A|160x600A/"
+        target="_top"> </a><a
+        href="http://www.burstnet.com/ads/sk1591a-map.cgi/ns/v=1.0J/sz=120x600A|160x600A/"
+        target="_top"><img
+        src="http://www.burstnet.com/cgi-bin/ads/sk1591a.cgi/ns/v=1.0J/sz=120x600A|160x600A/"
+        alt="Click Here" border="0"></a> </noscript> <!-- END BURST CODE --> </p>
         </td>
         <td valign="top"><table border="0">
             <tbody><tr>
                 <td valign="top" width="640"><table border="0">
                     <tbody><tr>
-                        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                        <td><p align="center"><font color="#FF0000" size="2" face="Arial"><!-- BEGIN RICH-MEDIA BURST! CODE --> <script language="JavaScript">
-<!--
-ShowBurstAd('ad1591a','468','60','1');
-// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ad1591a.cgi/NI/RETURN-CODE/JS/5187"></script></font></p><div><script src="http://www.burstnet.com/cgi-bin/ads/ad1591a.cgi/sz=0X0MN/5187/RETURN-CODE/JS/"></script></div><font color="#FF0000" size="2" face="Arial"> <noscript></font><a
-                        href="http://www.burstnet.com/ads/ad1591a-map.cgi/ns"
-                        target="_top"><font color="#FF0000"
-                        size="2" face="Arial"><img
-                        src="http://www.burstnet.com/cgi-bin/ads/ad1591a.cgi/ns"
-                        alt="Click Here" border="0" width="468"
-                        height="60"></font></a><a
-                        href="http://www.burstnet.com/ads/ad1591a-map.cgi/ns"
-                        target="_top"><font color="#FF0000"
-                        size="2" face="Arial"></noscript></font><font color="#FF0000" size="2" face="Arial"> <!-- END BURST CODE --> </font><p></p>
-                        <p align="center"><font color="#000000" size="2" face="Arial"><strong>Privacy
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td><p align="center"><font color="#000000" size="2" face="Arial"><strong>Privacy
                         Statement for The Insider Travel Network </strong></font></p>
                         <p><font color="#000000" size="2" face="Arial"><b>The Insider Travel
                         Network </b>has created this privacy
@@ -278,21 +265,20 @@ ShowBurstAd('ad1591a','468','60','1');
                         arrangements on your behalf. </font></p>
                         <p><font color="#000000" size="2" face="Arial">We also have a content
                         relationship with Hotel Reservations
-                        Network and TravelPackets. As with
-                        TravelNow, you may be asked to provide
-                        information as you peruse these
-                        co-branded pages, but we do not have
-                        access to or control over any of the
-                        information you provide.</font></p>
+                        Network. As with TravelNow, you may be
+                        asked to provide information as you
+                        peruse these co-branded pages, but we do
+                        not have access to or control over any of
+                        the information you provide.</font></p>
                         <h4><font color="#000000" size="2" face="Arial">Public Forums </font></h4>
-                        <p><font color="#000000" size="2" face="Arial">This site makes chat rooms,
-                        forums, message boards, and/or news
-                        groups available to its users. Please
-                        remember that any information that is
-                        disclosed in these areas becomes public
-                        information and you should exercise
-                        caution when deciding to disclose your
-                        personal information. </font></p>
+                        <p><font color="#000000" size="2" face="Arial">This site may make chat
+                        rooms, forums, message boards, and/or
+                        news groups available to its users.
+                        Please remember that any information that
+                        is disclosed in these areas becomes
+                        public information and you should
+                        exercise caution when deciding to
+                        disclose your personal information. </font></p>
                         <h4><font color="#000000" size="2" face="Arial">Choice/Opt-Out </font></h4>
                         <p><font color="#000000" size="2" face="Arial">Our site provides users the
                         opportunity to opt-out of receiving
@@ -342,91 +328,26 @@ ShowBurstAd('ad1591a','468','60','1');
                             <a href="mailto:webmaster@TheInsider.com"><font color="#000000" size="2" face="Arial">webmaster@TheInsider.com
                             </font></a>
                         </address>
-                        <p align="center"><font color="#000000" size="3" face="Arial"><strong>Site
-                        Directory:</strong></font></p>
-                        <div align="center"><center><table border="0" cellpadding="0" cellspacing="0" width="100%">
-                            <tbody><tr>
-                                <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td width="25%"><a href="http://www.TheInsider.com/attractions.htm"><font color="#FF0000" size="2" face="Arial">Sights &amp;
-                                Attractions</font></a></td>
-                                <td width="25%"><a href="http://www.TheInsider.com/photos.htm"><font color="#FF0000" size="2" face="Arial">Photo Collection</font></a></td>
-                                <td width="25%"><a href="http://www.TheInsider.com/hotelreservations.htm"><font color="#FF0000" size="2" face="Arial">Hotel Guide</font></a></td>
-                                <td width="25%"><a href="http://www.TheInsider.com/about.htm"><font color="#FF0000" size="2" face="Arial">About The Insider</font></a></td>
-                            </tr>
-                            <tr>
-                                <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td width="25%"><a href="http://www.TheInsider.com/museums.htm"><font color="#FF0000" size="2" face="Arial">Museums</font></a></td>
-                                <td width="25%"><a href="http://www.TheInsider.com/save.htm"><font color="#FF0000" size="2" face="Arial">Shopping &amp;
-                                Saving</font></a></td>
-                                <td width="25%"><a href="http://www.TheInsider.com/carreservations.htm"><font color="#FF0000" size="2" face="Arial">Rental Cars</font></a></td>
-                                <td width="25%"><a href="http://www.TheInsider.com/advertising.htm"><font color="#FF0000" size="2" face="Arial">Advertising Info</font></a></td>
-                            </tr>
-                            <tr>
-                                <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td width="25%"><a href="http://www.TheInsider.com/fun.htm"><font color="#FF0000" size="2" face="Arial">Fun with Kids</font></a></td>
-                                <td width="25%"><a href="http://www.TheInsider.com/survive.htm"><font color="#FF0000" size="2" face="Arial">"Daily
-                                Survival"</font></a></td>
-                                <td width="25%"><a href="http://www.TheInsider.com/airlinereservations.htm"><font color="#FF0000" size="2" face="Arial">Airline Reservations</font></a></td>
-                                <td width="25%"><a href="mailto:webmaster@theinsider.com"><font color="#FF0000" size="2" face="Arial">Contact Us</font></a></td>
-                            </tr>
-                            <tr>
-                                <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td width="25%"><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td width="25%"><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td width="25%"><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td width="25%"><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                            </tr>
-                            <tr>
-                                <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td colspan="3" width="75%"><font color="#000000" size="2" face="Arial"><strong>Don't miss
-                                our travel guides:</strong></font></td>
-                                <td width="25%"><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                            </tr>
-                            <tr>
-                                <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td width="25%"><a href="http://www.TheInsider.com/Aloha/Index.html"><font color="#FF0000" size="2" face="Arial">The Aloha Insider</font></a></td>
-                                <td width="25%"><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td width="25%"><a href="http://www.TheInsider.com/nyc/index.html"><font color="#FF0000" size="2" face="Arial">The NYC Insider</font></a></td>
-                                <td width="25%"><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                            </tr>
-                            <tr>
-                                <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td><a href="http://www.TheInsider.com/Bermuda/index.html"><font color="#FF0000" size="2" face="Arial">The Bermuda Insider</font></a></td>
-                                <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td colspan="2"><a href="http://www.TheInsider.com/Philly/index.html"><font color="#FF0000" size="2" face="Arial">The Philadelphia
-                                Insider</font></a></td>
-                            </tr>
-                            <tr>
-                                <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-                                <td colspan="2"><a href="http://www.TheInsider.com/Boston/index.html"><font color="#FF0000" size="2" face="Arial">The Boston Insider</font></a></td>
-                                <td colspan="2"><a href="http://www.TheInsider.com/SF/index.html"><font color="#FF0000" size="2" face="Arial">The San Francisco
-                                Insider</font></a></td>
-                            </tr>
-                        </tbody></table>
-                        </center></div></td>
+                        </td>
                     </tr>
                 </tbody></table>
-                <p align="center"><font color="#FF0000" size="2" face="Arial"><!-- BEGIN RICH-MEDIA BURST! CODE --> <script language="JavaScript">
+                <p align="center"><!-- BEGIN RICH-MEDIA BURST! CODE --> <script language="JavaScript">
 <!--
-ShowBurstAd('ba1591a','468','60','0');
-// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ba1591a.cgi/NI/RETURN-CODE/JS/5187"></script>
-<noscript>                </font><a
-                href="http://www.burstnet.com/ads/ba1591a-map.cgi/ns/"
-                target="_top"><font color="#FF0000" size="2"
-                face="Arial"><img
-                src="http://www.burstnet.com/cgi-bin/ads/ba1591a.cgi/ns/"
-                alt="Click Here" border="0" width="468"
-                height="60"></font></a><font color="#FF0000"
-                size="2" face="Arial"> </noscript> <!-- END BURST CODE --> </font></p>
+ShowBurstAd('ba1591a','468','60','468x60B','0', '', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ba1591a.cgi/NI/if/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181/RETURN-CODE" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ba1591a-map.cgi/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ba1591a.cgi/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181" border="0" alt="Click Here"></a></iframe>
+<noscript>                <a
+                href="http://www.burstnet.com/ads/ba1591a-map.cgi/ns/v=1.0J/sz=468x60B/"
+                target="_top"><img
+                src="http://www.burstnet.com/cgi-bin/ads/ba1591a.cgi/ns/v=1.0J/sz=468x60B/"
+                alt="Click Here" border="0"></a> </noscript> <!-- END BURST CODE --></p>
                 <div align="center"><center><table border="0" cellpadding="0" cellspacing="0" width="100%">
                     <tbody><tr>
                         <td colspan="2" width="100%"><p align="center"><font color="#000000" size="1" face="Arial">Your privacy is
                         important to us. For information about
-                        how we <br>
-                        use information we collect, please see
-                        our </font><a href="http://www.TheInsider.com/privacy.htm"><font color="#FF0000" size="1" face="Arial">Privacy
-                        Policy</font></a><font color="#FF0000" size="1" face="Arial">.<br>
-                        </font><font color="#000000" size="1" face="Arial">Copyright 1995-2003 by </font><a href="http://www.TheInsider.com/Danvic.htm"><font color="#FF0000" size="1" face="Arial">Danvic
+                        how we use information we collect, please
+                        see our </font><a href="http://www.TheInsider.com/privacy.htm"><font color="#FF0000" size="1" face="Arial">Privacy
+                        Policy</font></a><font color="#FF0000" size="1" face="Arial">. </font><font color="#000000" size="1" face="Arial"><br>
+                        Copyright 1995-2003 by </font><a href="http://www.TheInsider.com/Danvic.htm"><font color="#FF0000" size="1" face="Arial">Danvic
                         Publications, Inc.</font></a></p>
                         </td>
                     </tr>
@@ -435,24 +356,21 @@ ShowBurstAd('ba1591a','468','60','0');
             </tr>
         </tbody></table>
         </td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-        <td valign="top"><p align="center"><font color="#FF0000" size="2" face="Arial"><!-- BEGIN RICH-MEDIA BURST! CODE --> <script language="JavaScript">
+        <td>&nbsp;</td>
+        <td valign="top" bgcolor="#000000"><p align="center"><!-- BEGIN RICH-MEDIA BURST! CODE --> <script language="JavaScript">
 <!--
-ShowBurstAd('cb1591a','125','125','0');
-// --></script><script src="http://www.burstnet.com/cgi-bin/ads/cb1591a.cgi/NI/RETURN-CODE/JS/5187"></script>
-<noscript>        </font><a
-        href="http://www.burstnet.com/ads/cb1591a-map.cgi/ns"
-        target="_top"><font color="#FF0000" size="2" face="Arial">
-        </font></a><a
-        href="http://www.burstnet.com/ads/cb1591a-map.cgi/ns"
-        target="_top"><font color="#FF0000" size="2" face="Arial"><img
-        src="http://www.burstnet.com/cgi-bin/ads/cb1591a.cgi/ns"
-        alt="Click Here" border="0" width="125" height="125"></font></a><font
-        color="#FF0000" size="2" face="Arial"> </noscript><!-- END BURST CODE --> </font></p>
+ShowBurstAd('cb1591a','125','125','125x125A','0', '', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/cb1591a.cgi/NI/if/v=1.0J/sz=125x125A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181/RETURN-CODE" width="125" height="125" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/cb1591a-map.cgi/v=1.0J/sz=125x125A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/cb1591a.cgi/v=1.0J/sz=125x125A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204094201id_%252Fhttp%25253A%252F%252Fwww.theinsider.com%252Fprivacy.htm/5181" border="0" alt="Click Here"></a></iframe> <noscript><a
+        href="http://www.burstnet.com/ads/cb1591a-map.cgi/ns/v=1.0J/sz=125x125A/"
+        target="_top"> </a><a
+        href="http://www.burstnet.com/ads/cb1591a-map.cgi/ns/v=1.0J/sz=125x125A/"
+        target="_top"><img
+        src="http://www.burstnet.com/cgi-bin/ads/cb1591a.cgi/ns/v=1.0J/sz=125x125A/"
+        alt="Click Here" border="0"></a> </noscript> <!-- END BURST CODE --> </p>
         <form action="http://www.hoteldiscounts.com/cgi-bin/pickinput" method="GET" target="_new">
             <input type="hidden" name="SID" value="INS"><input type="hidden" name="LKF" value="INS"><div align="center"><center><table border="0" cellpadding="0" cellspacing="0" width="120" bgcolor="#FFFFFF" height="60">
                 <tbody><tr>
-                    <td align="center" valign="top" width="120" bgcolor="#FFFFFF" height="30"><a href="http://www.180096hotel.com/cgi-bin/pickcity?SID=INS&amp;LKF=INS"><font color="#0000FF" size="2" face="Arial"><img src="http://www.TheInsider.com/graphics/HRN.gif" border="1" width="120" height="30"></font></a><font color="#0000FF" size="2" face="Arial"> </font></td>
+                    <td align="center" valign="top" width="120" bgcolor="#000000" height="30"><a href="http://www.180096hotel.com/cgi-bin/pickcity?SID=INS&amp;LKF=INS"><font color="#0000FF" size="2" face="Arial"><img src="http://www.TheInsider.com/graphics/HRN.gif" border="1" width="120" height="30"></font></a><font color="#0000FF" size="2" face="Arial"> </font></td>
                 </tr>
                 <tr>
                     <td align="right" valign="top" width="120" bgcolor="#FF0202" height="30"><font color="#0000FF" size="2" face="Arial"><select name="Dest" size="1" onchange="submit()">
@@ -500,24 +418,26 @@ ShowBurstAd('cb1591a','125','125','0');
             </tbody></table>
             </center></div>
         </form>
-        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=46353.10000013&amp;subid=0&amp;type=4" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=46353.10000013&amp;subid=0&amp;type=4" alt="Hotel" border="0" width="125" height="125"></font></a></p>
-        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=43666&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=43666&amp;gridnum=4&amp;catid=-1&amp;subid=0" border="0" width="125" height="125"></font></a></p>
-        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=48248&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=48248&amp;gridnum=4&amp;catid=-1&amp;subid=0" border="0" width="125" height="125"></font></a></p>
-        <p align="center"><a href="http://click.linksynergy.com/fs-bin/stat?id=5PLUrp/ECKc&amp;offerid=35226&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=35226&amp;gridnum=4&amp;catid=-1&amp;subid=0" border="0" width="125" height="125"></font></a></p>
-        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=24474&amp;subid=0" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=24474&amp;gridnum=4&amp;catid=-1&amp;subid=0" border="0" width="125" height="125"></font></a><font color="#FF0000" size="2" face="Arial"> </font></p>
-        <p align="center"><font color="#FF0000" size="2" face="Arial"><!-- BEGIN Be Free Tag  (c) Copyright 1997-2001 Be Free, Inc. All rights reserved.--> <script language="JavaScript" src="http://ads.bfast.com/ad/script?bfmid=2181&amp;siteid=17444&amp;size=120x90&amp;space=14189174">
+        <p align="center"><a href="http://www.travelnow.com/affiliate/?cid=395" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://www.TheInsider.com/graphics/travelnowairlines.gif" alt="discounted airfare!" border="0"></font></a></p>
+        <p align="center"><a href="http://www.travelnow.com/affiliate/?cid=395" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://www.TheInsider.com/graphics/travelnowcar.gif" alt="rental cars!" border="0"></font></a></p>
+        <p align="center"><a href="http://www.travelnow.com/affiliate/?cid=395" target="_new"><font color="#FF0000" size="2" face="Arial"><img src="http://www.TheInsider.com/graphics/travelnowhotels.gif" alt="discounted hotels!" border="0"></font></a></p>
+        <p align="center"><a href="http://click.linksynergy.com/fs-bin/stat?id=5PLUrp/ECKc&amp;offerid=35226&amp;subid=0" target="_new"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=35226&amp;gridnum=4&amp;catid=-1&amp;subid=0" border="0" width="125" height="125"></a></p>
+        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=24474&amp;subid=0" target="_new"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=24474&amp;gridnum=4&amp;catid=-1&amp;subid=0" border="0" width="125" height="125"></a> </p>
+        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=50159&amp;subid=0" target="_new"><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=50159&amp;gridnum=4&amp;catid=-1&amp;subid=0" border="0" width="125" height="125"></a> </p>
+        <p align="center"><!-- BEGIN Be Free Tag  (c) Copyright 1997-2001 Be Free, Inc. All rights reserved.--> <script language="JavaScript" src="http://ads.bfast.com/ad/script?bfmid=2181&amp;siteid=17444&amp;size=120x90&amp;space=14189174">
 </script>
-<!-- END Be Free Tag-->        </font></p>
+<!-- END Be Free Tag-->        </p>
+        <p align="center"><a href="http://click.linksynergy.com/fs-bin/click?id=5PLUrp/ECKc&amp;offerid=42865.10000189&amp;type=4&amp;subid=0" target="_new"><img src="http://affiliate.1800flowers.com/graphics/generic/LGk104nF1.gif" alt="Logo" border="0" width="120" height="60"></a><img src="http://ad.linksynergy.com/fs-bin/show?id=5PLUrp/ECKc&amp;bids=42865.10000189&amp;type=4&amp;subid=0" width="1" height="1"></p>
         </td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
-        <td><font color="#FF0000" size="2" face="Arial"></font>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
 </tbody></table>
 
