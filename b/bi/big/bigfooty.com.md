@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfooty.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202202142id_/http%3A//www.bigfooty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfooty.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606025849id_/http%3A//www.bigfooty.com/privacy.html) for the most accurate reproduction.*
 
 # BigFooty.com: Australian Rules Football League discussion boards, news, Internet guide, chat, and more! Aussie Rules
 
