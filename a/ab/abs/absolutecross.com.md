@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the absolutecross.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606215244id_/http%3A//www.absolutecross.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutecross.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206033038id_/http%3A//www.absolutecross.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy -- Absolute Cross
 
-**AbsoluteCross.com Privacy Policy**
+  | 
 
 **AbsoluteCross.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [AbsoluteCross.com](http://www.absolutecross.com/).
 
@@ -45,4 +45,8 @@ This site gives users the following options for changing and modifying informati
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact David Dunkerley Absolute Cross  3132 N. Ashwood St. Orange, CA 92865 [webmaster@absolutecross.com](mailto:webmaster@absolutecross.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+
+David Dunkerley Absolute Cross  3132 N. Ashwood St. Orange, CA 92865 [webmaster@absolutecross.com](mailto:webmaster@absolutecross.com)
+
+|  
