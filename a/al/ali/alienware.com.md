@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the alienware.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215153624id_/http%3A//www.alienware.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienware.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605152219id_/http%3A//www.alienware.com/sub_pages/privacy.aspx) for the most accurate reproduction.*
 
-# Alienware : Privacy Statement
+# Alienware : The Best Custom Built Gaming PC for the Ultimate PC Gamer!
 
-| 
-
+| Privacy Statement  
+---  
+  
+  
+  
 **Privacy and Data Security**
 
-At Alienware®, your right to privacy and data security is a primary concern. That's why, when you visit alienware.com, we help you maintain control over your personal data on the Internet.
+At Alienware®, your right to privacy and data security is a primary concern. That's why, when you visit alienware.com, Alienware helps you maintain control over your personal data on the Internet.
 
 Alienware® is a proud member of the Better Business Bureau serving Palm Beach, Martin, St. Lucie, Indian River, Okeechobee, Highlands, Broward, Hendry, and Glades Counties. This statement discloses the privacy guidelines for the entire Alienware® website.
 
-Additional Alienware® website information is available on the left. For more information about Alienware®'s privacy or information usage guidelines, contact us at info@alienware.com. and put "privacy" in the subject line. Information submitted solely in a business capacity is not covered by these guidelines.
+Additional Alienware® website information is available on the left. For more information about Alienware®'s privacy or information usage guidelines, contact Alienware at info@alienware.com. and put "privacy" in the subject line. Information submitted solely in a business capacity is not covered by these guidelines.
 
 **Alienware® only asks for specific types of personal information**
 
-In a few areas on our Web site, we ask you to provide information that will enable us to enhance your site visit. It is completely optional for you to participate.
+In a few areas on the Alienware web site, you will be asked to provide information that will enable Alienware to enhance your site visit. It is completely optional for you to participate.
 
-For example, we request information from you when you: 
+For example, Alienware requests information from you when you: 
 
   * Register on alienware.com 
   * Place an order 
@@ -25,7 +28,7 @@ For example, we request information from you when you:
 
 
 
-In each of the instances above, we may ask for your name, e-mail address, phone number, address, type of business, customer preference information, customer number, as well as other similar personal information that is needed to register or subscribe you to services or offers. If we ever ask for significantly different information we will inform you. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time.
+In each of the instances above, Alienware may ask for your name, e-mail address, phone number, address, type of business, customer preference information, customer number, as well as other similar personal information that is needed to register or subscribe you to services or offers. If Alienware ever asks for significantly different information you will be informed. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time.
 
 **Alienware® only uses your personal information for specific purposes**
 
@@ -38,5 +41,3 @@ Information regarding you (such as name, address and phone number) or your order
 **Alienware® wants to help you keep your personal information accurate**
 
 You can request the individual information that Alienware® has collected about you via the Internet at [info@alienware.com](mailto:info@alienware.com). You can have factual inaccuracies in this information corrected by contacting [info@alienware.com](mailto:info@alienware.com) or calling (800)494-3382.
-
-| 
