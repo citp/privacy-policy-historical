@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the maximumpc.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810050556id_/http%3A//maximumpc.com/others/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximumpc.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610115447id_/http%3A//maximumpc.com/others/privacy.html) for the most accurate reproduction.*
 
 # 
-
-| 
 
 Please read our Privacy Policy. By using Maximum PC's Website and its services, you agree to the Privacy Policy. We may update and modify our Privacy Policy from time to time, and by continuing to use the site after the posting of a modification, you accept the modification. If you object to any terms and conditions of the Privacy Policy at anytime, you should immediately discontinue use of the site.
 
@@ -45,6 +43,3 @@ If you supply us with your postal address online you may receive periodic mailin
 Also, you may receive mailings from other reputable companies. You may, however, have your name put on our do-not-share list by contacting us at the email address or telephone number listed below. Please make sure to provide us with your exact name and address. We will remove your name from the mailing list we share with other organizations. 
 
 Persons who supply us with their telephone numbers online may receive telephone contact from us regarding orders they have placed online. You also may receive telephone contact from other reputable companies. You may, however, have your name put on our do-not-share list by contacting us through the email address or telephone number listed below. When doing so, please provide us with your correct phone number. We will remove your name from the phone list we share with other organizations
-
-|   
-| 
