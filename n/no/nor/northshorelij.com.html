@@ -1,0 +1,645 @@
+<!--The following is the downloaded HTML source of the northshorelij.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603020008id_/http%3A//www.northshorelij.com/body.cfm%3Fid%3D102) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
+	<title>Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<style type="text/css">
+		@import url(default.css);
+	</style>
+	
+	</head>
+ 
+
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td rowspan="2" valign="top"><a href="default.cfm"><img src="images/logo_nslij.gif" border="0" alt="North Shore Jewish Long Island Health System - Click to Return Home"></a></td>
+          <td rowspan="2" valign="top"><img src="images/topspace01.gif"></td>
+          <td colspan="2" valign="top"><img src="images/topspace02.gif"></td>
+        </tr>
+        <tr> 
+          <td valign="top">
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+								
+
+				<script language="JavaScript" type="text/javascript">
+					
+				
+						var aryMoused = new Array();
+						var aryLayerMoused = new Array();
+						var aryMoImages = new Array();
+						var imageList = new Array();
+						var runMouseOvers = false;
+						var TimerID = null;
+						var iLimit = 25;
+						var itmp = 0;
+						
+						var BillzTime = 100;
+						var BillzTimes = 2;
+						var BillzmoveDistance = 1;
+						var BillzThisLoc = 325;
+						var aryLayerNames = new Array();
+						var aryNavBarLayerInfo = new Array();
+						var aryNavBarLayers = new Array();
+						
+						var registeredObjects = new Array();
+						var viz = "hide";
+
+						function MOImage() {
+							var a = MOImage.arguments;
+							this.ptrImage = BillzNavBarMM_findObj(a[0]);
+							this.imageMO = new Image();
+							this.imageMO.src = a[1];
+							this.HTMLname = a[0];
+							this.Moused = false;
+							this.OriginalSrc = '';
+							return true;
+						}
+						function BillzImagePreload() {
+						// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
+							var arg = BillzImagePreload.arguments;
+							var imageKey = (arg[2]) ? arg[2] : arg[0];
+							imageList[imageList.length] = imageKey;
+							if (!(aryMoImages[imageKey])) {
+								aryMoImages[imageKey] = new MOImage(arg[0], arg[1]);
+							}
+						}
+						function BillzMouseover() {
+							var a = null;
+							var imageKey = null;
+							var o = null;
+							if (runMouseOvers) {
+								//args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)					
+								a = BillzMouseover.arguments;
+								imageKey = (a[2]) ? a[2] : a[0];
+								if (!(aryMoImages[imageKey].ptrImage)) {
+									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(a[0]);
+								}
+								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) {
+									aryMoImages[imageKey].OriginalSrc = a[1];
+									aryMoImages[imageKey].Moused = true;
+									o.src = aryMoImages[imageKey].imageMO.src;
+								}
+							}
+							return true;
+						}
+						var NavBarTempOnload = null;
+						if (window.onload && window.onload != null){
+							NavBarTempOnload = window.onload;
+						}
+						function FullyLoaded() {
+							if (NavBarTempOnload != null){
+								NavBarTempOnload();
+							}
+							runMouseOvers = true;
+							return true;
+						}
+						function BillzMouseOutTimer() {
+							if (TimerID) {
+								clearTimeout(TimerID);
+							}
+							TimerID = setTimeout("BillzLayerRestore()",5000);
+							return true;
+						}
+						function RestoreAll() {
+							BillzMouseoverRestore();
+							BillzLayerRestore();
+							return true;
+						}
+						function BillzMouseoverRestore() {
+							var i = 0;
+							var o = null;
+							if (runMouseOvers) {
+								for (i = 0; i < imageList.length; i++) {
+									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) {
+										o.src = aryMoImages[imageList[i]].OriginalSrc;
+										aryMoImages[imageList[i]].Moused = false;
+									}
+								}
+							}
+							return true;
+						}
+						function BillzLayerRestore() {
+							var i = 0;
+							for (i = 0; i < aryLayerNames.length; i++) {
+								if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) {
+									BillzNavBarRestoreLayers(aryLayerNames[i]);
+								}
+							}
+							return true;
+						}
+						function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
+							var pushIt = true;
+							var i = 0;
+							for (i = 0; i < aryArray.length && pushIt; i++) {
+								pushIt = (varNewElement != aryArray[i]);
+							}
+							if (pushIt) {
+								BillzArrayPush(aryArray, varNewElement);
+							}
+							return pushIt;
+						}
+						function BillzArrayPush(aryArray, varNewElement) { //Implement Array Push 'cause IE cant handle it
+							aryArray[aryArray.length] = varNewElement;
+							return true;
+						}
+						function BillzArrayPop(aryArray) { //Implement Array Pop 'cause IE cant handle it before 5.5
+							var varItemToPop = null;
+							if (aryArray[aryArray.length - 1]) {
+								varItemToPop = aryArray[aryArray.length - 1];
+								aryArray[aryArray.length] = null;
+							}
+							return varItemToPop;
+						}
+						function BillzNavBarMM_findObj(n, d) { //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+						  	var p,i,x;
+						
+							if (registeredObjects[n]) {
+								return registeredObjects[n];
+							}
+							if (!(d)) {
+								d = document;
+							}
+							if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+								d = parent.frames[n.substring(p+1)].document;
+								n = n.substring(0,p);
+							}
+						  	if (!(x = d[n]) && d.all) {
+								x = d.all[n];
+							}
+							for (i = 0; !x && i < d.forms.length; i++) {
+								x = d.forms[i][n];
+							}
+						  	for (i=0; !x && d.layers && i < d.layers.length; i++) {
+								if (d.layers[i].id.indexOf("external_") == -1) {
+						  			x = BillzNavBarMM_findObj(n, d.layers[i].document);
+								}
+							}
+							registeredObjects[n] = x;
+						
+						 	return x;
+						}
+						function BillzArrayContains() {
+							var a = BillzArrayContains.arguments;
+							var foundit = false;
+							var i = 0;
+							for (i = 0; i < a[0].length && !foundit; i++) {
+								foundit = (a[1] == a[0][i]);
+							}
+							return foundit;
+						}
+						function NavBarRegisterLayer() {
+							var a = NavBarRegisterLayer.arguments;
+							var n = a[0];
+							var d = a[1];
+							var mo = false;
+							var o = null;
+							if (a[2] && a[2] == 'MOutLayer') {
+								mo = true;
+							} else {
+								mo = false;
+							}
+							if (!(BillzArrayContains(aryLayerNames, n))) {
+								if (o = BillzNavBarMM_findObj(n)) {
+									aryNavBarLayers[n] = o;
+									BillzArrayPushUnique(aryLayerNames, n);
+									aryNavBarLayerInfo[n] = new NavBarLayer(n, d, mo);
+								}
+							}
+							return true;
+						}
+						function BillzNavBarMM_showHideLayers() {
+						//v3.0 name changed, this function complements of MM Dreamweaver with customizations by Bill Heller
+							var i = 0;
+							var x = "";
+							var obj = null;
+							var v = null;
+							var p = null;
+							var args = BillzNavBarMM_showHideLayers.arguments;
+
+							if (args[args.length - 1] != "menu") {
+								BillzMouseOutTimer();
+							}
+						  	for (i = 0; i < (args.length - 2); i += 3) {
+								if (!aryNavBarLayers[args[i]]) {
+									x = (args[i + 2] == 'show') ? 'hide' : 'show';
+									NavBarRegisterLayer(args[i], x);
+								}
+						  		if ((obj = aryNavBarLayers[args[i]]) != null) {
+									v = args[i + 2];
+									aryNavBarLayerInfo[args[i]].isDefault = false;
+						  			if (args[args.length - 1] == "restore") {
+										v = (v == 'show') ? 'hide' : 'show';
+									}
+									if (obj.style) {
+										obj.style.visibility = (v == 'show') ? 'visible' : ((v == 'hide') ? 'hidden' : v);
+									} else {
+										obj.visibility = v;
+									}
+								}
+							}
+							return true;
+						}
+						function BillzNavBarRestoreLayers() {
+							var i = 0;
+							var x = "";
+							var obj = null;
+							var v = null;
+							var p = null;
+							var args = BillzNavBarRestoreLayers.arguments;
+						  	for (i = 0; i < (args.length); i++) {
+						  		if (obj = aryNavBarLayers[args[i]]) {
+									v = aryNavBarLayerInfo[args[i]].defaultVisibility;
+									if (obj.style) {
+										obj = obj.style;
+										v = (v == 'show' ) ? 'visible' : ((v == 'hide') ? 'hidden' : v);
+									}
+									obj.visibility = v;
+									if (!aryNavBarLayerInfo[args[i]].MOutLayer) {
+										aryNavBarLayerInfo[args[i]].isDefault = true;
+									}
+								}
+							}
+							return true;
+						}
+						function NavBarLayer() {
+							var a = NavBarLayer.arguments;
+							this.defaultVisibility = a[1];
+							this.isDefault = true;
+							this.MOutLayer = a[2];
+							return true;
+						}
+						function BillzNavMove() {
+							var thisl = null;
+							var otherl = null;
+							if (thisl = BillzNavBarMM_findObj("BillzScrollLayer")) {
+								if (thisl.style) {
+									thisl = thisl.style;
+									viz = "hidden";
+								} 
+								thisl.top = BillzThisLoc -= 3;
+								if (BillzThisLoc < -750) {
+									BillzThisLoc = 325;
+									BillzTimes--;
+								}
+							}
+							if (BillzTimes <= 0) {
+								otherl = BillzNavBarMM_findObj("BillzLayer");
+								otherl.visibility = viz;
+							} else {
+								setTimeout("BillzNavMove()", BillzTime);
+							}
+							
+							return true;
+						}
+						function NavBar_openadmin() {
+							window.open('admin/', 'SiteAdmin', 'height=screen.availheight,width=screen.availwidth,scrollbars=1,toolbar=0,directories=0,status=0,menubar=0,resizable=1');
+							return true;
+						}
+						window.onload = FullyLoaded;
+					//-->
+				</script>
+			
+		<!-- Begin NavBar Bar #1 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="" background="">
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=10" onmouseover="RestoreAll();BillzMouseover('employment_1_1','images/employment.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/employment.gif" border="0" alt="Employment" id="employment_1_1" name="employment_1_1" onload="BillzImagePreload('employment_1_1','images/employment_on.gif');"></a></td>
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=11" onmouseover="RestoreAll();BillzMouseover('aboutus_1_2','images/aboutus.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/aboutus.gif" border="0" alt="About Us" id="aboutus_1_2" name="aboutus_1_2" onload="BillzImagePreload('aboutus_1_2','images/aboutus_on.gif');"></a></td>
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=12" onmouseover="RestoreAll();BillzMouseover('contactus_1_3','images/contactus.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/contactus.gif" border="0" alt="Contact Us" id="contactus_1_3" name="contactus_1_3" onload="BillzImagePreload('contactus_1_3','images/contactus_on.gif');"></a></td>
+	</tr>
+
+</tbody></table>
+	
+		<!-- End NavBar Output -->
+	 
+</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+		  <td width="1%"><a href="homepage.cfm"><img src="images/welcome.gif" border="0"></a></td>
+          <td valign="top" width="98%">
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+			<!-- Begin NavBar #2 Local Javascript Output... -->
+
+			<script language="JavaScript" type="text/javascript">
+				NavBarRegisterLayer('lyrhospitalsfacilities','show');
+		NavBarRegisterLayer('lyrdiseasehealth','show');
+		NavBarRegisterLayer('lyrfindaphysician','show');
+		NavBarRegisterLayer('lyrnewsevents','show');
+		NavBarRegisterLayer('lyrwaystogive','show');
+		NavBarRegisterLayer('lyrforhealthcare','show');
+		
+				
+					BillzArrayPushUnique(aryLayerMoused, "lyrBottomMO','','show");
+				
+			
+				var aryEvents = new Array();
+				function BillzEventHandler() {
+				
+					var args = BillzEventHandler.arguments;
+					var event_object = new Array();
+					event_object["linkid"] = args[2];
+					event_object["image"] = args[3];
+					event_object["buttongraphic"] = args[4];
+					event_object["buttongraphicNoExt"] = args[5];
+					if(args[6]) {
+						event_object["form"]=args[6];
+					}
+					eval(eval('"'+aryEvents[args[0]][args[1]].replace(/this_navbar_(linkid|image|buttongraphicNoExt|buttongraphic|form)/gi, "\"+event_object[\"$1\"]+\"")+'"'));
+				}
+				
+			
+				aryEvents[2] = new Array("","","","","");
+
+			
+			</script>
+		
+		<!-- Begin NavBar Bar #2 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="" background="">
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=7" onmouseover="RestoreAll();BillzMouseover('hospitalsfacilities_2_1','images/hospitalsfacilities.gif');BillzNavBarMM_showHideLayers('lyrhospitalsfacilities','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/hospitalsfacilities.gif" border="0" alt="Hospitals &amp; Facilities" id="hospitalsfacilities_2_1" name="hospitalsfacilities_2_1" onload="BillzImagePreload('hospitalsfacilities_2_1','images/hospitalsfacilities_on.gif');"></a></td>
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=78" onmouseover="RestoreAll();BillzMouseover('diseasehealth_2_2','images/diseasehealth.gif');BillzNavBarMM_showHideLayers('lyrdiseasehealth','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/diseasehealth.gif" border="0" alt="Disease &amp; Health Information" id="diseasehealth_2_2" name="diseasehealth_2_2" onload="BillzImagePreload('diseasehealth_2_2','images/diseasehealth_on.gif');"></a></td>
+		<td class="" valign="top" align="left" background="" title=""><a href="bodyiframe.cfm?id=147" onmouseover="RestoreAll();BillzMouseover('findaphysician_2_3','images/findaphysician.gif');BillzNavBarMM_showHideLayers('lyrfindaphysician','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/findaphysician.gif" border="0" alt="Find a Physician" id="findaphysician_2_3" name="findaphysician_2_3" onload="BillzImagePreload('findaphysician_2_3','images/findaphysician_on.gif');"></a></td>
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=6" onmouseover="RestoreAll();BillzMouseover('newsevents_2_4','images/newsevents.gif');BillzNavBarMM_showHideLayers('lyrnewsevents','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/newsevents.gif" border="0" alt="News &amp; Events" id="newsevents_2_4" name="newsevents_2_4" onload="BillzImagePreload('newsevents_2_4','images/newsevents_on.gif');"></a></td>
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=9" onmouseover="RestoreAll();BillzMouseover('waystogive_2_5','images/waystogive.gif');BillzNavBarMM_showHideLayers('lyrwaystogive','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/waystogive.gif" border="0" alt="Ways to Give" id="waystogive_2_5" name="waystogive_2_5" onload="BillzImagePreload('waystogive_2_5','images/waystogive_on.gif');"></a></td>
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=8" onmouseover="RestoreAll();BillzMouseover('forhealthcare_2_6','images/forhealthcare.gif');BillzNavBarMM_showHideLayers('lyrforhealthcare','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/forhealthcare.gif" border="0" alt="For Health Professionals" id="forhealthcare_2_6" name="forhealthcare_2_6" onload="BillzImagePreload('forhealthcare_2_6','images/forhealthcare_on.gif');"></a></td>
+	</tr>
+
+</tbody></table>
+	
+		<!-- End NavBar Output -->
+	 
+</td>
+          <td valign="top">
+
+
+	<style name="text/css" class="search">		
+		td.search {background-color: FFFFFF; background-image: URL(images/clear.gif); font-family: verdana,arial; font-weight: 700; font-size: 12px; font-color: 000000;}
+				
+	</style>
+
+		<table border="0" cellpadding="0" cellspacing="0" background="" align="left" class="search">		
+		<form action="body.cfm?id=83" method="POST"></form>		
+		<input type="hidden" name="action" value="list">	
+		<input type="hidden" name="search_areas_id" value="">	
+		<input type="hidden" name="includewhat" value="">
+		<input type="hidden" name="keywords_required" value="You must enter a keyword to search.<br>To search for a specific phrase enclose that phrase in quotes.<br>To search for documents containing all of your keywords simply enter the words.<br><br><a href='javascript:history.back()'>Back</a>">	
+			<tbody><tr class="search">							
+				
+					<td class="search">&nbsp;&nbsp;</td>
+				
+				
+					<td class="search"><input type="text" name="keywords" size="15" value="Search Intranet"></td>
+							
+				
+					<td class="search"><input type="IMAGE" src="images/arrowsearch.gif" border="0" width="70" height="26" style="border:0px;"></td>
+				
+			</tr>
+		
+		</tbody></table>
+	 
+</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+ <tr> 
+    <td width="100%" height="1" valign="top" style="background-image:url(images/homeline.gif); background-repeat: repeat-x; background-position: top left;"></td>
+  </tr>
+ <tr> 
+      <td width="100%" valign="top" bgcolor="083474">
+	    <table border="0" cellpadding="0" cellspacing="0">
+	      <tbody><tr><td valign="bottom"><img src="images/leftcurve.gif" border="0"></td>
+	      <td valign="top"><br>
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+		<!-- Begin NavBar Bar #3 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+</table>
+	
+		<!-- End NavBar Output -->
+	 
+
+	      </td>
+	    </tr></tbody></table>
+	  </td>
+ </tr>
+ <tr> 
+      <td width="100%" valign="top" align="right" bgcolor="FFFDEE">
+	    <table width="100%">
+	  	<tbody><tr>
+             
+
+				
+		</tr>
+	  </tbody></table>	  
+	  </td>
+ </tr>
+   <tr> 
+      <td valign="top" width="99%" align="right">
+	  <table border="0" cellpadding="0" cellspacing="3">
+	  <tbody><tr><td></td></tr></tbody></table></td>
+ </tr>
+  <tr> 
+      <td width="100%" valign="top"><table border="0" cellpadding="0" cellspacing="0">
+	    <tbody><tr><td width="80%" valign="top" align="left"><br><div style="padding-left: 22px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px;"><h3>&nbsp;Privacy Policy</h3></div></td>
+		<td width="20%" valign="top" align="right"><img src="images/pageimage_default.jpg"></td>
+	  </tr></tbody></table>
+	  </td>
+ </tr>
+ <tr> 
+    <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="8">
+        
+		<tbody><tr><td valign="top"></td>
+			
+			   
+
+
+
+
+	
+	</tr></tbody></table><table border="0" width="100%" cellspacing="0" cellpadding="0" style="padding-left: 30px; padding-right: 30px;">
+	  <tbody><tr>
+	    <td valign="top" style="padding-left: 10px; padding-right: 10px; padding-top: 0px; padding-bottom: 0px;">
+		
+		<p><strong>1. General Information Collection<br>
+</strong>The only personal information we collect through the web site is the information you voluntarily provide. The only other type of information we collect is your current IP address. This IP address is a number that is assigned to your computer when you access the Internet. It is necessary to allow communication between the different computers, which comprise the Internet. This information is entered, in aggregate, into a log, which helps us track usage on our Web Site.</p>
+
+<p><b>2. Limitations on Disclosures</b><br>
+NS-LIJ will not release your name, address, telephone number, credit card number or e-mail address to any third party without your consent, except when required by law or court order. If you provide information through a co-branded section of the Web site (provided by NS-LIJ and a third party), you are consenting to sharing your information with that third party and may be subject to that party’s privacy policy.</p>
+
+		</td>
+	  </tr>
+	</tbody></table>
+	
+ 
+
+
+
+
+				
+		</td>     
+	</tr></tbody></table>
+  
+   <table border="0" width="100%" cellspacing="0" cellpadding="0">
+         <tbody><tr>
+		    <td valign="middle" align="right"><br>© North Shore Long Island Jewish Health System&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <td valign="middle" align="left"><br>
+			
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+		<!-- Begin NavBar Bar #4 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="" background="">
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=101" class="">Disclaimer</a></td>
+		<td class="" valign="top" align="left" background="" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=103" class="">Site Index</a></td>
+		<td class="" valign="top" align="left" background="" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=102" class="">Privacy Policy</a></td>
+	</tr>
+
+</tbody></table>
+	
+		<!-- End NavBar Output -->
+	 
+</td>
+         </tr>
+    </tbody></table> 
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+		
+		
+			
+	
+	
+		  
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+		
+		
+			
+	
+	
+		  
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+		
+		
+			
+	
+	
+		  
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+		
+		
+			
+	
+	
+		  
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+		
+		
+			
+	
+	
+		  
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+		
+		
+			
+	
+	
+	 
+
+
+
+
+
+ 
+
+
+
+</body></html>
