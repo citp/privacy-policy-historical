@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the askmecorp.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612044937id_/http%3A//www1.askmecorp.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmecorp.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208230759id_/http%3A//www.askmecorp.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
 Our postal address is:   
 AskMe Corporation   
-3290 146th Place SE, Suite D   
-Bellevue WA 98007   
+13920 SE Eastgate Way, Suite 200  
+Bellevue WA 98005   
 Phone: (425) 564-9000   
 Fax: (425) 564-9200 
 
