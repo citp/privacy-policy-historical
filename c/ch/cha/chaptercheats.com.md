@@ -1,31 +1,41 @@
-> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214143424id_/http%3A//www.chaptercheats.com/intro/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407161613id_/http%3A//www.adtegrity.com/privacy.asp) for the most accurate reproduction.*
 
-# Untitled Document
+# Adtegrity.com - Insightful - Internet - Advertising
 
-Privacy Statement for Chapter Cheats
+**Privacy Policy**  
+Adtegrity.com has created the following privacy policy in order to demonstrate our commitment to assuring privacy for publishers, advertisers, and website visitors.
 
-Chapter Cheats has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Chapter Cheats
+**Collected Information**  
+Adtegrity.com, through sign up processes, collects publisher information (name, address, phone, fax, email & URL), which is used solely for billing, payout, and marketing purposes.
 
-**Information Automatically Logged:**  
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP, domain, and country is also used to gather broad demographic information. We never gather information automatically that can identify you personally. 
+**Non-Disclosure**  
+Adtegrity.com is committed to protecting the privacy of our publishers, advertisers, and website visitors. Adtegrity.com does not disclose any of the gathered information to third parties. While Adtegrity.com cannot fully control the actions of their website publishers, Adtegrity.com does require full disclosure of each site's privacy guidelines for every site that serves Adtegrity.com ads.
 
-**Personal Information**  
-Any personal information that you submit, such as an email address for our newsletter, is only used for the purpose stated. We will never sell or make available your email address or any other personal information you submit to us. This does not cover public forums, please read below for our policy regarding public forums. 
+**Information Use**  
+If Adtegrity.com, Inc, for any reason uses the personal information that publishers/advertisers have provided, written permission will be obtained before doing so. The only exception to this will be the use of a publisher's company name and/or logo while finding advertising to be used on their site, or to promote the Adtegrity.com network.
 
-**Public Forums:**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+**Cookies**  
+If a visitor to a website views an ad served by Adtegrity.com, they are assigned a unique number, known as a cookie, that is recorded and stored on their computer in their web browser's cookie file. If the visitor then visits another web site that has ads served by Adtegrity.com, the cookie is recognized by the computer and may be used to target ads to that web surfer based on his or her past browsing experience. Cookies do not harm visitors' computers.
 
-**External Links:**  
-This site contains links to other sites. Chapter Cheats is not responsible for the privacy practices or the content of such Web sites. 
+**_Why Use Cookies?_**
 
-**Use of Cookies**  
-This site does not use cookies, however, we do work with a third party advertiser that does use cookies. Please read below for more information on how they use and collect information. 
+* They help to ensure that ads are not repeated to visitors  
 
-**This site**  
-uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy.
+* They help advertisers learn how their web site is used  
 
-**Advertisers:**  
-Chapter Cheats WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW FLYCAST MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO <http://www.flycast.com/about_us/about-privacy.html>
+* They help advertisers gain knowledge to improve the look and feel of their web sites  
 
-**Contacting the Web Site:**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@chaptercheats.com](mailto:webmaster@chaptercheats.com)
+* They help advertisers learn which ads are most effective and appealing to website visitors
+
+Overall, the cookie helps the ad network, Adtegrity.com; determine which advertisements best fit which visitors and which websites.
+
+A visitor may choose to opt-out on using cookies at any time by following a simple procedure to manually delete them. Visitors should refer to their respective browser's user manual for instructions.
+
+**Third Party Advertising**  
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here ](http://www.doubleclick.net/us/corporate/privacy)
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+**Contact Adtegrity.com, Inc**  
+If you have any questions or concerns regarding this privacy policy or the practices of this site, please Contact Us.
