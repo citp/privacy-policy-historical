@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207152020id_/http%3A//browncafe.net/statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2003-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030205124950id_/http%3A//browncafe.com/statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -38,7 +38,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 #### Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We have set up our Brown Cafe Address Book so that it is not accessible to email address harvesting robots or spiders. To protect our users privacy our virtual cards are linked to urls of randomly generated numbers which are stored in a directory that has a blank index file. This makes it virtually impossible for anyone other than the card creator and recipient to view the cards. The Brown Cafe Community Board requires no personal information to register and all information that the user chooses to add is password protected. All Board functions are enabled for public use and registration is not required.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
 #### Children's Guidelines
 
@@ -89,10 +89,14 @@ If you have any questions about this privacy statement, the practices of this si
 
 | 
 
-[Chat](http://www.browncafe.com/chat.html)  
+[Quotes](http://fast.quote.com/fq/instapage/pmv/view/rAqeqbqABuFCmrwjjBtogujz1a09)  
   
-[Our Privacy Policy](http://browncafe.com/statement.shtml) **~** [Information Integrity](http://browncafe.com/integrity.shtml)  
+[Our Privacy Policy](http://browncafe.com/statement.shtml) ~ [Information Integrity](http://browncafe.com/integrity.shtml) ~ [Terms of Service](http://browncafe.com/tos.shtml) ~ [Search](http://browncafe.com/cgi-bin/search/search.cgi) ****  
   
-The Fine Print
+the fine print...
 
-The information herein is obtained from sources that are considered reliable, but accuracy is not guaranteed. By providing links to other sites, BrownCafe does not guarantee, approve or endorse the information or products available at these sites, nor does a link indicate any association with or endorsement by the linked site to BrownCafe. Selected content on the BrownCafe is freely available. We do not claim this information as our own. If, for any reason, we provide information that is copyrighted, please let us know so that we can delete the content from our site.
+The information contained in this web site is believed to be reliable and while every effort is made to assure that the information is as accurate as possible, the owner of this site, and Brown Cafe disclaim any implied warranty or representation about it's accuracy, completeness or appropriateness for any particular purpose. This includes but is not limited to information provided by any third party which is accessed through this site via a hyperlink. By providing links to other sites, the owner of this site or Brown Cafe do not guarantee, approve or endorse the information or products available at these sites, nor does a link indicate any association with or endorsement by the linked site to the owner of this site or Brown Cafe. Any reference to specific products, companies or services does not necessarily constitute or imply recommendation or endorsement by the owner of this site or Brown Cafe.
+
+Those persons who access this information assume full responsibility for the use of said information and understand and agree that the the owner of this site or Brown Cafe are not responsible or liable for any claim, loss or damage arising from the use of any information contained in this site.
+
+Selected content on the Brown Cafe web site is freely available. We do not claim this information as our own. If, for any reason, we provide information that is copyrighted, please let us know so that we can delete the content from our site.
