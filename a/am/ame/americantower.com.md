@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americantower.com privacy policy that was archived on 2004-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040408024800id_/http%3A//www.americantower.com/mainweb/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americantower.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209215900id_/http%3A//www.americantower.com/mainweb/privacy.asp) for the most accurate reproduction.*
 
 # American Tower: Privacy Statement
 
