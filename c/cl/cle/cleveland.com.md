@@ -1,28 +1,76 @@
-> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603054039id_/http%3A//cleveland.com/forums/privacy.ssf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603151652id_/http%3A//cleveland.com/privacypolicy) for the most accurate reproduction.*
 
-# Cleveland.Com
+# cleveland.com: Privacy Policy
 
-**PRIVACY POLICY**  
   
-The **Cleveland Live** Web site is maintained by **Cleveland Live, 700 West St. Clair Avenue, Suite 414, Cleveland, OH 44113**. We can be reached by e-mail at **[webmaster@cleveland.com](mailto:webmaster@cleveland.com)**. 
+  
+  
+**Privacy Policy**
 
-_**HOW **Cleveland Live** USES INFORMATION PROVIDED BY YOU:**_ This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user’s personally identifiable information may be used by **Cleveland Live** and its affiliates for editorial purposes. **We** may also use such information for marketing and promotional purposes. **Cleveland Live** may share your personally identifiable information with other companies with which it conducts business. For example, if you enter our contests, make a purchase, or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While **Cleveland Live** will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, **Cleveland Live** does not bear any responsibility for any actions or policies of any third parties. 
+Last Revised **December 6, 2001**
 
-**Except for purposes outlined above, we do not provide, sell or lease your personally identifiable information to any third parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what is done with your information on any part of **Cleveland Live** , please e-mail us at **[webmaster@cleveland.com](mailto:webmaster@cleveland.com)** , _before_ submitting any information.**
+Kids and parents click here!
 
-We also collect anonymous, aggregated data and provide it to our advertisers and other companies that we do business with for market research and statistical purposes. For example, we might report to our advertisers that a certain percentage of users are between the ages of 30-35. 
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/useragreement/). Your use of cleveland.com constitutes agreement to its terms and conditions.
 
-Finally, you should be aware that when you voluntarily disclose personally identifiable information (e.g., first and last name, address, e-mail address, etc.) on the forums or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. 
+cleveland.com is produced by Cleveland Live. This policy does not cover information collected on sites linked to from cleveland.com.
 
-**_COOKIES:_** **Cleveland Live** may place a “cookie” in the browser files of **Cleveland Live** user’s computer. The cookie may contain personally identifiable information. Cookies enable **Cleveland Live** to serve information that you have requested, or to relate your use of **Cleveland Live** to information that you have specifically and knowingly provided to **Cleveland Live**. You also may occasionally get cookies from our advertisers. **Cleveland Live** does not control these cookies and these cookies are not subject to this policy. The use of advertising cookies sent by third-party servers is common in the Internet industry. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some portions of **Cleveland Live** will not function properly if you do so. For further information on cookies and their use, see the help instructions delivered with your browser or contact the browser’s manufacturer. **Cleveland Live** cannot provide help regarding your browser’s cookie settings. 
+This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of cleveland.com by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-**CHILDREN: Be sure to ask your parents for permission before you send any information about yourself (your name, address, e-mail address, etc.) to us or anyone else over the Internet, and before making any purchases online. If you are under the age of 13, you are not allowed to use this service.**
+It is the goal of cleveland.com to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
 
-**PARENTS:** We encourage you to get involved with your children’s online usage and to be aware of the activities in which they are participating. This service is not intended for users under the age of 13. This service does not knowingly collect personally identifiable information from users under the age of 13. Such users are expressly prohibited from submitting their personally identifiable information to us, and from using our forums and chat areas; any information submitted by such users will not knowingly be used, posted, or retained by us. Any personally identifiable information collected by Cleveland Live from children above 13 (that we are aware are children above the age 13) will be used only for **Cleveland Live** internal purposes such as market research, sweepstakes fulfillment, and for fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to other companies with which we do business, for statistical and market research purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various forums or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
+**THE TYPE OF INFORMATION cleveland.com COLLECTS**
 
-Again, if you have any concerns regarding your child’s or your use of **Cleveland Live** , please contact us at **[webmaster@cleveland.com](mailto:webmaster@cleveland.com)**. 
+cleveland.com generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our newspapers, or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
+
+**HOW cleveland.com USES INFORMATION PROVIDED BY YOU**
+
+cleveland.com uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
+
+cleveland.com does not sell any of our users' personal information. Unless otherwise specified, we may, however, share information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [feedback@cleveland.com](mailto:feedback@cleveland.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of cleveland.com, you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
+
+We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While cleveland.com will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, cleveland.com does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
+
+**COOKIES**
+
+You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of cleveland.com, you can opt to save your user name and password on your computer. We can provide this convenience by placing a cookie on your computer.
+
+Our cookies may contain personally identifiable information and such cookies may be shared with our affiliated companies. 
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
+
+If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of cleveland.com may not function properly.
+
+While your individual information is protected as outlined above, we reserve the right to use aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
+
+**IP ADDRESS**
+
+Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our website.
+
+**KIDS AND PARENTS**
+
+cleveland.com is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
+
+If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+
+If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at [feedback@cleveland.com](mailto:feedback@cleveland.com).
+
+If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address: 
+
+Privacy Policy Coordinator  
+cleveland.com  
+700 West Saint Clair Ave. Suite 414  
+Cleveland, OH 44113 
 
 |  |  INSIDE  
-[**Cleveland.Com**](https://web.archive.org/)  
+[**About Us**](https://web.archive.org/aboutus/)  
+» [Media Kit](https://web.archive.org/mediakit)  
+» [Our Affiliates](https://web.archive.org/affiliates/)  
+» [What's New](https://web.archive.org/whatsnew/)  
+  
+[](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
+  
+[](http://ads6.advance.net//RealMedia/ads/click_lx.ads/www.cleveland.com/privacypolicy/index.ssf/NQS/475764478/Tile1/CLEVELANDLIVE/ADELPHIA01CL04/tile_rev21.gif/34323163666161623363666238383630)   
+  
   
 
