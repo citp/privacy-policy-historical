@@ -1,44 +1,37 @@
-> *The following text is extracted and transformed from the contus.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622142602id_/http%3A//www.contus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contus.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215124000id_/http%3A//www.contus.com/privacy.htm) for the most accurate reproduction.*
 
 # Contus.com - Privacy and Security
 
-| 
-
-**CONTUS CORPORATION PRIVACY POLICY  
+**[](http://www.truste.org/validate/6305)****CONTUS CORPORATION PRIVACY POLICY  
 ****Contus Corporation (Contus), and its subsidiary companies, respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted a corporate- wide Online Privacy Policy that guides how we collect, store and use the information you provide.**
 
 **TRUSTe Certification  
 **_**This Overall Privacy Statement verifies that Contus is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. This statement discloses the privacy practices for the entire Web site. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because Contus wants to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of**_ : 
 
+  * **Exactly what personal information may be collected and by what means**
+**  
 **
-  * Exactly what personal information may be collected and by what means
-  
+  * **Who, if anyone, is collecting your personal information**
+**  
+**
+  * **How this information may be used, including who, if anyone, it might be shared with**
+**  
+**
+  * **The consequences, if any, resulting from your refusal to provide personal information**
+**  
+**
+  * **How you can access and, if necessary, change the personal information a company maintains**
+**  
+**
+  * **How a company ensures data security, quality, and integrity**
+  * **Where and how to ask questions or file complaints**
 
-  * Who, if anyone, is collecting your personal information
-  
-
-  * How this information may be used, including who, if anyone, it might be shared with 
-  
-
-  * The consequences, if any, resulting from your refusal to provide personal information 
-  
-
-  * How you can access and, if necessary, change the personal information a company maintains 
-  
-
-  * How a company ensures data security, quality, and integrity
-  
-
-  * Where and how to ask questions or file complaints 
-** 
 
 
 **If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact the Privacy Policy Administrator David Swank at (419) 868-6090. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe ](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.**
 
 **Contus currently operates the following web sites:  
 **
-
-| 
 
 **Contus.com **
 
@@ -56,7 +49,8 @@
   
 **Contus Golf** | **Contus Alaska**  
 **Contus Ski** | **Contus Jr. Olympics**  
-**Contus Europe** |    
+**Contus Europe** | **Contus**  
+**Contus Off Duty Travel** |    
   
 **In addition, Contus owns several other domain names that point to the web sites listed above, and we will, from time to time, add new sites that may, or may not be, listed above. Please note that this policy applies only to sites maintained by Contus or its subsidiaries, and not to web sites maintained by other companies or organizations to which we link. This web site contains links to other web sites. Please note that when you click on one of these links, you are "clicking" to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. Furthermore, from time to time, Contus may employ third parties who may collect personal information on behalf of Contus. In such cases, such third parties will be instructed by Contus to comply with the Contus Privacy Policy as set forth herein.**
 
