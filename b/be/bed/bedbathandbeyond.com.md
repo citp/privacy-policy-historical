@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bedbathandbeyond.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610031417id_/http%3A//www.bedbathandbeyond.com/rdprivPolicy.asp%3Forder_num%3D-1%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbathandbeyond.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010052518id_/http%3A//www.bedbathandbeyond.com/rdprivPolicy.asp%3Forder_num%3D) for the most accurate reproduction.*
 
 # Bed Bath & Beyond Privacy
 
 ---  
-|  | [](https://web.archive.org/web/20020610194535id_/http://www.bedbathandbeyond.com/default.asp?order_num=-1&) | [](https://web.archive.org/web/20020610194535id_/http://www.bedbathandbeyond.com/wedd.asp?order_num=-1&) | [](https://web.archive.org/web/20020610194535id_/http://www.bedbathandbeyond.com/services.asp?order_num=-1&) | [](https://web.archive.org/web/20020610194535id_/http://www.bedbathandbeyond.com/BTSHome.asp?order_num=-1&)  
+|  | [](https://web.archive.org/web/20021014225440id_/http://www.bedbathandbeyond.com/default.asp?order_num=-1&) | [](https://web.archive.org/web/20021014225440id_/http://www.bedbathandbeyond.com/wedd.asp?order_num=-1&) | [](https://web.archive.org/web/20021014225440id_/http://www.bedbathandbeyond.com/services.asp?order_num=-1&) | [](https://web.archive.org/web/20021014225440id_/http://www.bedbathandbeyond.com/BTSHome.asp?order_num=-1&)  
 ---|---|---|---|---  
 |  |   
 ---  
@@ -24,7 +24,7 @@ At Bed Bath & Beyond we are committed to protecting the privacy of our customers
 
 Additionally, access to your Personal Information is provided only to our employees and agents who have a need to know such information for the purpose of fulfilling your order and offering our high level of customer service. The computers that store your Personal Information are located in a separate facility which employs the latest in firewall and security technology. 
 
-If you prefer not to disclose your credit card information online, you can always place your order by calling 1-800-GO BEYOND® (1-800-462-3966) or visiting one of our many stores. Click [here](https://web.archive.org/web/20020610194535id_/http://www.bedbathandbeyond.com/store_loc.asp?order_num=-1&) to locate the store nearest you and receive driving directions. 
+If you prefer not to disclose your credit card information online, you can always place your order by calling 1-800-GO BEYOND® (1-800-462-3966) or visiting one of our many stores. Click [here](https://web.archive.org/web/20021014225440id_/http://www.bedbathandbeyond.com/store_loc.asp?order_num=-1&) to locate the store nearest you and receive driving directions. 
 
   
 **Use of Cookies** We use cookies to provide our customers with streamlined ordering and other useful features. Cookies are pieces of information that are stored by your browser on your computer's hard drive. Cookies make Web surfing easier for you by saving your customer identification information while you're at our site. The use of cookies has become an industry standard used by most major Web sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies.   
