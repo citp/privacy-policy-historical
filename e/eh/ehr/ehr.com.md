@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the ehr.com privacy policy that was archived on 2001-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011110211143id_/http%3A//www.ehr.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehr.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604025457id_/http%3A//www.ehr.com/privacy.asp) for the most accurate reproduction.*
 
-# eHR.com - eHR.com: Privacy
+# eHR.com - Privacy
 
-|  |  |    
-
+| 
 
 Watson Wyatt Worldwide believes strongly in protecting the privacy of its users. We collect personal information only when necessary.
 
@@ -37,9 +36,9 @@ On occasion, we may share responses with a co-sponsor who works with us to analy
 
 
 
-**Cookies**. For general users of the site, we do not use "cookies" to save personal information. Cookies are used only during a user session (to maintain a shopping cart, for instance). We do not use third-party cookies, nor do we 
+**Cookies**. For general users of the site, we do not use "cookies" to save personal information. Cookies are used only during a user session (to maintain a shopping cart, for instance). 
 
-We do use persistent cookies to identify users who take advantage of the customization features of the site and to save this identification between site visits.
+We do use persistent cookies to identify users who choose to save their identification between site visits. We do not save personally identifiable information in cookies. We do not use third-party cookies, with the exception of watsonwyatt.com, which hosts some of our images.
 
 **Third parties**. We do not share or sell the information you provide with parties outside of Watson Wyatt Worldwide, with the following exceptions: to fulfill user requests for publications, for event registrations and for co-sponsored surveys. Any data we collect, however, may be transferred internationally throughout Watson Wyatt Worldwide for internal purposes only.
 
@@ -52,4 +51,4 @@ Washington, DC 20006
 
 Telephone (202) 715-7000 | Fax: (202) 715-7700
 
-e-mail: [webmaster@watsonwyatt.com](mailto:webmaster@watsonwyatt.com)
+e-mail: [ehr.com@watsonwyatt.com](mailto:ehr.com@watsonwyatt.com)
