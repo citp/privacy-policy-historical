@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wdl.org privacy policy that was archived on 2002-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021113100002id_/http%3A//www.wdl.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdl.org privacy policy that was archived on 2003-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030428002041id_/http%3A//www.wdl.org/privacypolicy.html) for the most accurate reproduction.*
 
-# Wilmington Drama League -- Privacy Policy
+# Wilmington Drama League | Community Theater in Wilmington Delaware -- Privacy Policy
 
 |  | 
 
