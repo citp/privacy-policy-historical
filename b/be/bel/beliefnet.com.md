@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202052600id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603052821id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Beliefnet; The source for Spirituality, Religion and Morality
 
 | 
 
-Last Revised: August 29, 2000 
+Last Revised: May 30, 2001 
 
 **An Overview**   
 Beliefnet, Inc. ("Beliefnet," "we" or "us") provides a variety of online services and products to its users on the website currently located at www.beliefnet.com (the "Site"). Beliefnet is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users. 
@@ -58,10 +58,10 @@ If you elect to use the "Tell-A-Friend" referral service on the optional survey 
 * * *
 
   
-**Beliefnet Shopping**   
-When you make a purchase in either the Beliefnet Store or the Magazine Stand, we request information from you such as name and shipping address, as well as financial information including a credit card number and an expiration date. This information is used for billing purposes and to fill your order. If we have trouble processing your order, we will use this information to contact you. 
+**Beliefnet Shopping and Beliefnet Classifieds**   
+When you make a purchase in either Beliefnet Shopping or Beliefnet Classifieds, we request information from you such as name and shipping address, as well as financial information including a credit card number and an expiration date. This information is used for billing purposes and to fill your order. If we have trouble processing your order, we will use this information to contact you. 
 
-In regards to the Beliefnet Store, the sale and fulfillment of items is handled by a third party, VCommerce.com ("VCommerce"). In regards to the Magazine Stand, the sale and fulfillment of magazine subscriptions is provided for by another third party, Electronic Newsstand, Inc. ("enews.com" or "enews"). Please note that when you provide information to the Site in connection with the purchase of anything from the Site you are also providing such information to VCommerce or enews. Beliefnet is not responsible for the information collection or privacy practices of VCommerce or enews. If you have any questions regarding either third party's information gathering or collection practices, we strongly encourage you to visit their respective privacy policies. We recommend that you visit both [VCommerce's privacy policy](http://www.vstore.com/privacy.html) and [enews' privacy policy](http://www.enews.com/userId:www-329208746/7.0/privacy/0,3520,pageType=privacy%7CsiteID=43997,00.html).. 
+In regards to both Beliefnet Shopping and Beliefnet Classifieds, the sale and fulfillment of items is handled by various third party merchants. However, with regard to the Beliefnet CD entitled Belief: A Collection of World Sacred Music ("Belief CD"), the sale of the item will be handled by a third party, Yahoo! Store and the fulfillment of the item will be handled by Beliefnet. Please note that when you provide information to the Site in connection with the purchase of anything from the Site, you are also providing such information to the respective third party merchant. Beliefnet is not responsible for the information collection or privacy practices of each third party merchant. If you have any questions regarding any of the respective third party merchants’ information gathering or collection practices, we strongly encourage you to visit their respective privacy policies. If you have any questions regarding the fulfillment of the Belief CD, please e-mail [shopping@staff.belienet.com](mailto:shopping@staff.belienet.com). 
 
 * * *
 
@@ -142,7 +142,7 @@ If your personally identifiable information changes (such as your zip code), or 
 **Choice/Opt in or Opt out**   
 You are given the opportunity to opt in or opt out of having your information used for purposes not directly related to the Site at the point where we ask for the information. For example, our registration form has an opt in and an opt out mechanism so that users who want to become a Beliefnet Member, but don't want any of our free products and services, can keep their e-mail address off of our lists. 
 
-You may also opt out of receiving promotional information from Beliefnet and/or from third parties affiliated with Beliefnet at any time by contacting us at [feedback@beliefnet.com](mailto:feedback@beliefnet.com). You may also contact the third parties directly. 
+You may also opt out of receiving promotional information from Beliefnet and/or from third parties affiliated with Beliefnet at any time by contacting us at [feedback@staff.beliefnet.com](mailto:feedback@staff.beliefnet.com). You may also contact the third parties directly. 
 
 If you no longer wish to receive our newsletter, you may opt-out of receiving it by sending a blank e-mail to [unsubscribe@staff.beliefnet.com](mailto:unsubscribe@staff.beliefnet.com). 
 
@@ -150,4 +150,4 @@ If you no longer wish to receive our newsletter, you may opt-out of receiving it
 
   
 **How To Contact Us**   
-Should you have any questions or concerns about the Policy, please send an e-mail to [feedback@beliefnet.com ](mailto:feedback@beliefnet.com). 
+Should you have any questions or concerns about the Policy, please send an e-mail to [feedback@staff.beliefnet.com ](mailto:feedback@staff.beliefnet.com). 
