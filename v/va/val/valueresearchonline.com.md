@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the valueresearchonline.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618055208id_/http%3A//valueresearchonline.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueresearchonline.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209082431id_/http%3A//valueresearchonline.com/policy.asp) for the most accurate reproduction.*
 
 # Value Research Online - Privacy Policy
 
-Privacy Policy |   
+|  |  |  Privacy Policy |   
 ---|---  
-  
-Valueresearchonline.com helps you achieve your financial goals better. Not only do we provide you with accurate, trusted and insightful information, we're also committed to protecting your privacy. This Privacy Policy outlines the types of information we gather about you and how we use it.  
-  
 **What Information Do We Collect and How Do We Use It?**  
 When you register at valueresearchonline.com we ask you to complete a registration form. This registration form includes certain personal information, such as your name, address, e-mail address, as well as other demographic information like age, gender and annual income.  
 We use your name, address, and e-mail address to contact you about valueresearchonline.com, to send you information about other products /services we think might be of interest to you. **Value Research does not share your e-mail address with third parties.** The demographic and personal profile information that we collect during the registration/subscription process, such as income, age, and gender, are used only in aggregate. **Value Research does not sell or rent your personally identifiable information to anyone.** Instead, we use this information to create content and functionality that best serves the needs and interests of our users and to improve the quality of the service we provide you.  
