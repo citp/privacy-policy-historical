@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radicalplay.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207162008id_/http%3A//www.radicalplay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radicalplay.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060020id_/http%3A//www.radicalplay.com/privacy.html) for the most accurate reproduction.*
 
 # R A D I C A L - P L A Y - from gamers to gamers || Our privacy policy
 
@@ -19,4 +19,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 For More information about handling advertisment on this site, please visit:  
 <http://www.maxworldwide.com/>
 
-Copyright © RadicalPlay.com 2002 
+Copyright � RadicalPlay.com 2002 
