@@ -1,10 +1,33 @@
-<!--The following is the downloaded HTML source of the calbears.com privacy policy that was archived on 2002-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601144604id_/http%3A//www.fansonly.com/channels/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calbears.com privacy policy that was archived on 2002-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021202090312id_/http%3A//www.collegesports.com/ot/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>FANSonly - Your Ticket to College Sports</title>
-<meta name="description" content="FANSonly is your ticket to college sports news, stats, scores, recruiting information and more.">
-<meta name="keywords" content="sports, athletics, sports news, sports statistics, sports scores, NCAA, NCAA sports, NCAA athletics, college athletics, college sports, NCAA basketball, NCAA football, NCAA baseball, college baseball, college basketball, college football, football, NCAA Tournament, College World Series, Final Four, bowls, baseball, basketball, hoops, men's basketball, women's basketball, softball, recruiting, interactive, volleyball, audio, video, multimedia, games, live stats, scoreboard, scores, standings, schedules, sportsticker, stats, statistics, bulletin boards, chat, message boards, trivia, contests, college, university, college sports, intercollegiate athletics,"> 
+<title>CollegeSports.com</title>
+<meta name="description" content="CollegeSports.com - for in-depth coverage of college sports - scores, news, stats and more.">
+<meta name="keywords" content="college sports, athletics, sports news, sports statistics, sports scores, NCAA, NCAA sports, NCAA athletics, college athletics, NCAA basketball, NCAA football, NCAA baseball, college baseball, college basketball, college football, football, NCAA Tournament, College World Series, Final Four, bowls, baseball, basketball, hoops, men's basketball, women's basketball, softball, recruiting, interactive, volleyball, audio, video, multimedia, games, live stats, scoreboard, scores, standings, schedules, sportsticker, stats, statistics, bulletin boards, chat, message boards, trivia, contests, college, university, college sports, intercollegiate athletics, FANSonly, FANSonly.com, OCSN,">
+<link rel="icon" href="http://graphics.collegesports.com/favicon.ico" type="image/x-icon"> 
+<link rel="shortcut icon" href="http://graphics.collegesports.com/favicon.ico" type="image/x-icon"> 
+<link rel="STYLESHEET" type="text/css" href="http://graphics.collegesports.com/library/cs-style-global.css">
+<link rel="STYLESHEET" type="text/css" href="http://graphics.collegesports.com/library/cs-style-ads.css">
+<style type="text/css">
+<!--
+.ScoreboardHeader, .ScoreboardSchool, .ScoreboardScore, .ScoreboardLink, .ScoreboardLight, .ScoreboardNote, .ScoreboardSide, .confLink {font-family: Arial, Helvetica, Geneva, sans-serif;}
+.ScoreboardHeader {color:#ffffff; background-color:#666666; font-size:11px; line-height:16px; font-weight:600; text-align:left;}
+.ScoreboardSchool, .ScoreboardScore {background-color:#EEEEEE; font-size:11px; line-height:11px;}
+.ScoreboardSchool {color:#666666; text-decoration:underline;}
+.ScoreboardScore {color:#000000;}
+.ScoreboardLink, .ScoreboardLight {background-color:#666666; font-size:10px; line-height:12px; text-decoration:none;}
+.ScoreboardLink {color:#CCCCCC; font-weight:600;}
+.ScoreboardLight {color:#CCCCCC; text-align:right;}
+.ScoreboardNote {color:#666666; background-color:#EEEEEE; font-size:10px; line-height:11px;}
+.ScoreboardSide {color:#666666; font-size:10px; line-height:13px; font-weight:600; text-decoration:none;}
+.ScoreboardSchool:hover {color:#000000; text-decoration:none;}
+.ScoreboardLink:hover {color:#FFFFFF; text-decoration:underline;}
+.ScoreboardSide:hover {color:#000000; text-decoration:underline;}
+.confLink {color:#666666; font-size:12px; line-height:14px; text-decoration:none;}
+.confLink:hover {color:#000000; text-decoration:underline;}
+-->
+</style>
 <script language="JavaScript">
 <!--
 function WinOpen() {
@@ -28,321 +51,119 @@ function OpenMe(Channel,Source) {
 window.open('http://enroll.studentadvantage.com/default.asp?CHANNEL='+Channel+'&SOURCE='+Source,'enroll','toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=no,copyhistory=no,width=520,height=450');
 }
 
+   function fanslive_dropper(link) {
+     var fl_test = /\d{5,}/; 
+     var width = 755;
+     var height = 540;
+     var title = 'footbl_FANSlive';
 
+     var sport_test_baskbl = /baskbl/;
+
+     if( sport_test_baskbl.test(link) ){
+        width = 640;
+        height = 532;
+        title = 'baskbl_FANSlive';
+        }
+
+     if( fl_test.test(link) ){
+         window.open(link,title,'toolbar=no,resizeable=no,scrollbars=no,width=' + width + ',height=' + height);
+         return;
+         }
+     window.open(link,'livestats');
+   }   
+   function audio_dropper(link) {
+      var fo_yahoo = /playlist.yahoo.com/;
+      var reg_yahoo = /mediaframe.yahoo.com/;
+    
+      if( fo_yahoo.test(link) ){
+         window.open('http://www.fansonly.com/media_server/?' + link,'LiveAudio','toolbar=no,resizeable=no,scrollbars=no,width=468,height=170');
+         return;
+         }
+      if( reg_yahoo.test(link) ){
+         window.open(link,'AudioBroadcast','toolbar=no,resizeable=no,scrollbars=no,width=750,height=550');
+         return;
+         }
+      window.open(link,'media');
+   }
 //-->
 </script>
-<link rel="STYLESHEET" type="text/css" href="http://graphics.fansonly.com/style/fo-style2.css">  
+
 </head>
-<body bgcolor="#ffffff" link="#333333" vlink="#666666" alink="#FFCC00" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-<table width="760" border="0" cellpadding="0" cellspacing="0">  
+<body bgcolor="#FFFFFF" link="#000000" vlink="#333333" alink="#666666" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<img src="http://graphics.collegesports.com/graphics/spacer.gif" width="1" height="120" border="0"><br>
+<table width="760" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td width="760" colspan="3" bgcolor="CCCCCC"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="760" height="1" border="0"></td>
-</tr><tr>
-<td width="77" bgcolor="666666" valign="middle"><a href="http://www.ocsn.com"><img src="http://graphics.fansonly.com/graphics/bar-ocsn-logo.gif" width="77" height="27" border="0"></a></td>
-<td width="288" bgcolor="666666" valign="middle"><a href="http://www.ocsn.com"><img src="http://graphics.fansonly.com/graphics/bar-ocsn-title.gif" width="288" height="27" border="0"></a></td>
- <td width="395" align="right" bgcolor="666666">
-<form action="http://www.fansonly.com/cgi-bin/go-to-site.cgi" method="post">
-<select name="location" onchange="dropper(this,'new');" id="oas-drop">
-<option value="http://www.fansonly.com/oas/" selected="">Official Athletic Sites</option>
-<option value="http://www.fansonly.com/oas/">----------</option>
-<option value="http://www.theacc.com">ACC</option>
-<option value="http://airforcesports.fansonly.com/">Air Force</option>
-<option value="http://www.gozips.com">Akron</option>
-<option value="http://www.arizonaathletics.com">Arizona</option>
-<option value="http://www.thesundevils.com">Arizona State</option>
-<option value="http://www.goarmysports.com">Army</option>
-<option value="http://www.gobaylorbears.com">Baylor</option>
-<option value="http://www.bceagles.com">Boston College</option>
-<option value="http://www.bgsufalcons.com">Bowling Green</option>
-<option value="http://brownbears.fansonly.com/">Brown</option>
-<option value="http://bucknellbison.fansonly.com">Bucknell</option>
-<option value="http://butlersports.fansonly.com">Butler</option>
-<option value="http://www.calbears.com">Cal</option>
-<option value="http://www.cmuchippewas.com">Central Michigan</option>
-<option value="http://www.charlotte49ers.com">Charlotte</option>
-<option value="http://www.clemsontigers.com">Clemson</option>
-<option value="http://www.csuvikings.com">Cleveland State</option>
-<option value="http://www.cubuffs.com">Colorado</option>
-<option value="http://www.cornellbigred.com">Cornell</option>
-<option value="http://www.cosida.com">CoSIDA</option>
-<option value="http://www.gocreighton.com">Creighton</option>
-<option value="http://www.denverpioneers.com">Denver</option>
-<option value="http://goduke.fansonly.com/">Duke</option>
-<option value="http://www.gopurpleaces.com/">Evansville</option>
-<option value="http://www.fairfieldstags.com">Fairfield</option>
-<option value="http://www.footballfoundation.com">National Football Foundation</option>
-<option value="http://www.fausports.com">Florida Atlantic</option>
-<option value="http://www.seminoles.com">Florida State</option>
-<option value="http://www.gobulldogs.com">Fresno State</option>
-<option value="http://www.collegiategolf.com">Golf Coaches Association of America</option>
-<option value="http://georgiadogs.fansonly.com/">Georgia</option>
-<option value="http://ramblinwreck.fansonly.com/">Georgia Tech</option>
-<option value="http://www.gozags.com">Gonzaga</option>
-<option value="http://gwsports.fansonly.com/">George Washington</option>
-<option value="http://www.uhcougars.com">Houston</option>
-<option value="http://www.fightingillini.com">Illinois</option>
-<option value="http://www.uicflames.com">Illinois-Chicago</option>
-<option value="http://www.cyclones.com">Iowa State</option>
-<option value="http://www.judolphins.com">Jacksonville</option>
-<option value="http://hopkinssports.fansonly.com/">John Hopkins</option>
-<option value="http://kstatesports.fansonly.com/">Kansas State</option>
-<option value="http://www.ukathletics.com/">Kentucky</option>
-<option value="http://www.goleopards.com">Lafayette</option>
-<option value="http://lmulions.fansonly.com/">Loyola Marymount</option>
-<option value="http://www.uoflsports.com">Louisville</option>
-<option value="http://mac-sports.fansonly.com/">Mid-American Conference</option>
-<option value="http://www.goredfoxes.com">Marist</option>
-<option value="http://www.gomarquette.com">Marquette</option>
-<option value="http://www.umterps.com">Maryland</option>
-<option value="http://www.umassathletics.com">UMass</option>
-<option value="http://www.gotigersgo.com">Memphis</option>
-<option value="http://www.hurricanesports.com">Miami (Fla.)</option>
-<option value="http://www.muredhawks.com">Miami (Ohio)</option>
-<option value="http://www.msuspartans.com">Michigan State</option>
-<option value="http://www.olemisssports.com">Mississippi</option>
-<option value="http://www.mutigers.com">Missouri</option>
-<option value="http://www.themwc.com">Mountain West Conference</option>
-<option value="http://www.mountathletics.com">Mt. State Mary's</option>
-<option value="http://www.nabc.com">Nat'l Association of Basketball Coaches</option>
-<option value="http://www.nacda.com">NACDA</option>
-<option value="http://gopack.fansonly.com/">North Carolina State</option>
-<option value="http://www.nevadawolfpack.com">Nevada</option>
-<option value="http://www.nmstatesports.com">New Mexico State</option>
-<option value="http://www.unoprivateers.com/">New Orleans</option>
-<option value="http://www.tarheelblue.com/">North Carolina</option>
-<option value="http://www.uncbears.com">Northern Colorado</option>
-<option value="http://www.nusports.com">Northwestern</option>
-<option value="http://www.und.com">Notre Dame</option>
-<option value="http://www.ohiostatebuckeyes.com">Ohio State</option>
-<option value="http://www.soonersports.com">Oklahoma</option>
-<option value="http://www.okstate.com">Oklahoma State</option>
-<option value="http://www.odusports.com">Old Dominion</option>
-<option value="http://www.goducks.com">Oregon</option>
-<option value="http://www.osubeavers.com">Oregon State</option>
-<option value="http://pac10.fansonly.com">Pac-10</option>
-<option value="http://www.patriotleague.com">Patriot League</option>
-<option value="http://pennathletics.fansonly.com/">Penn</option>
-<option value="http://www.pittsburghpanthers.com">Pittsburgh</option>
-<option value="http://www.goviks.com">Portland State</option>
-<option value="http://www.goprincetontigers.com">Princeton</option>
-<option value="http://www.friars.com">Providence</option>
-<option value="http://www.purduesports.com">Purdue</option>
-<option value="http://www.quinnipiacathletics.com">Quinnipiac</option>
-<option value="http://richmondspiders.fansonly.com/">Richmond</option>
-<option value="http://www.gorhody.com">Rhode Island</option>
-<option value="http://www.slubillikens.com">Saint Louis</option>
-<option value="http://www.smcgaels.com">Saint Mary's</option>
-<option value="http://www.samfordsports.com">Samford</option>
-<option value="http://www.goaztecs.com">San Diego State</option>
-<option value="http://usfdons.fansonly.com/">San Francisco</option>
-<option value="http://www.santaclarabroncos.com">Santa Clara</option>
-<option value="http://www.sienasaints.com">Siena</option>
-<option value="http://www.uscsports.com">South Carolina</option>
-<option value="http://www.gosoutheast.com">Southeast Missouri State</option>
-<option value="http://www.siusalukis.com">Southern Illinois</option>
-<option value="http://www.gostanford.com">Stanford</option>
-<option value="http://www.sfajacks.com/">Stephen F. Austin</option>
-<option value="http://www.goseawolves.org">Stony Brook</option>
-<option value="http://www.utsports.com">Tennessee(Men)</option>
-<option value="http://www.utladyvols.com">Tennessee(Women)</option>
-<option value="http://gofrogs.fansonly.com/">TCU</option>
-<option value="http://www.texastech.com">Texas Tech</option>
-<option value="http://www.utrockets.com">Toledo</option>
-<option value="http://www.tulanegreenwave.com">Tulane</option>
-<option value="http://www.tulsahurricane.com">Tulsa</option>
-<option value="http://www.uabsports.com">Alabama-Birmingham</option>
-<option value="http://www.uclabruins.com">UCLA</option>
-<option value="http://www.ucsbgauchos.com">UC Santa Barbara</option>
-<option value="http://www.ulmathletics.com">Louisiana-Monroe</option>
-<option value="http://www.unlvrebels.com">UNLV</option>
-<option value="http://www.usctrojans.com">USC</option>
-<option value="http://www.utahutes.com">Utah</option>
-<option value="http://utahstateaggies.fansonly.com/">Utah State</option>
-<option value="http://www.villanova.com">Villanova</option>
-<option value="http://www.virginiasports.com">Virginia</option>
-<option value="http://www.wakeforestsports.com">Wake Forest</option>
-<option value="http://www.gohuskies.com">Washington</option>
-<option value="http://www.wsucougars.com">Washington State</option>
-<option value="http://www.wcha.com">WCHA</option>
-<option value="http://catamountsports.fansonly.com/">Western Carolina</option>
-<option value="http://www.wkusports.com">Western Kentucky</option>
-<option value="http://www.uwmpanthers.com">Wisconsin-Milwaukee</option>
-<option value="http://www.wyomingathletics.com">Wyoming</option>
-</select><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="3" height="1" border="0"></form></td>
-</tr><tr>
-<td width="760" colspan="3" bgcolor="CCCCCC"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="760" height="1" border="0"></td>
-</tr>
-</tbody></table>
-<table width="760" border="0" cellpadding="0" cellspacing="0">  
-<tbody><tr>
-    <td width="256"><a href="http://www.fansonly.com"><img src="http://graphics.fansonly.com/graphics/fansonly-title-top.gif" width="256" height="93" alt="" border="0"></a></td>
-<td width="244"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="244" height="1" border="0" alt=""></td>
-<td width="260" rowspan="4" bgcolor="000000">
-<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=fo/ADTYPE=260_top/META=fo/POS=260_top" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a></td>
-</tr><tr>
-<td bgcolor="CCCCCC" class="Date">&nbsp;&nbsp;June  1, 2002
+<td width="160" bgcolor="000066" valign="top">
+<img src="http://graphics.collegesports.com/graphics/spacer.gif" width="160" height="5" border="0"><br>
+<div align="center">
+<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=cs/ADTYPE=side-tv/CATEGORY=/DIR=FrontPage/MACRO=cs/POS=120x60/SECT=promo" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a></div>
+<img src="http://graphics.collegesports.com/graphics/navline.gif" width="160" height="11" border="0"><br>
+<a href="/media/real/today.html" class="NavMed">Game Audio</a><br>
+<a href="/media/today.html" class="NavMed">Live Stats</a><br>
+<a href="/newswire/" class="NavMed">NewsWire</a><br>
+<a href="http://bbs.collegesports.com/" class="NavMed">Message Boards</a><br>
+<img src="http://graphics.collegesports.com/graphics/navline.gif" width="160" height="11" border="0"><br>
+<a href="/store/cs-store.html" class="NavMed">College Sports Store</a><br>
+<a href="http://interact.ocsn.com/" class="NavMed">Games/Contests</a><br>
+<a href="http://interact.ocsn.com/" class="NavMed">Email Newsletter</a><br>
+<img src="http://graphics.collegesports.com/graphics/navline.gif" width="160" height="11" border="0"><br>
+<a href="/feedback/cs-feedback.html" class="NavMed">Feedback</a><br>
+<img src="http://graphics.collegesports.com/graphics/navline.gif" width="160" height="11" border="0"><br>
+
+<span class="NavMed">Other Sports<br>
+<a class="NavSm" href="/sports/c-xc/cs-c-xc-body.html">&nbsp;&nbsp;Cross Country</a><br>
+<a class="NavSm" href="/sports/w-equest/cs-w-equest-body.html">&nbsp;&nbsp;Equestrian</a><br>
+<a class="NavSm" href="/sports/c-fenc/cs-c-fenc-body.html">&nbsp;&nbsp;Fencing</a><br>
+<a class="NavSm" href="/sports/w-fieldh/cs-w-fieldh-body.html">&nbsp;&nbsp;Field Hockey</a><br>
+<a class="NavSm" href="/sports/m-golf/cs-m-golf-body.html">&nbsp;&nbsp;Golf-M</a><br>
+<a class="NavSm" href="/sports/w-golf/cs-w-golf-body.html">&nbsp;&nbsp;Golf-W</a><br>
+<a class="NavSm" href="/sports/m-gym/cs-m-gym-body.html">&nbsp;&nbsp;Gymnastics-M</a><br>
+<a class="NavSm" href="/sports/w-gym/cs-w-gym-body.html">&nbsp;&nbsp;Gymnastics-W</a><br>
+<a class="NavSm" href="/sports/m-hockey/cs-m-hockey-body.html">&nbsp;&nbsp;Ice Hockey-M</a><br>
+<a class="NavSm" href="/sports/w-hockey/cs-w-hockey-body.html">&nbsp;&nbsp;Ice Hockey-W</a><br>
+<a class="NavSm" href="/sports/m-lacros/cs-m-lacros-body.html">&nbsp;&nbsp;Lacrosse-M</a><br>
+<a class="NavSm" href="/sports/w-lacros/cs-w-lacros-body.html">&nbsp;&nbsp;Lacrosse-W</a><br>
+<a class="NavSm" href="/sports/c-rifle/cs-c-rifle-body.html">&nbsp;&nbsp;Rifle</a><br>
+<a class="NavSm" href="/sports/c-crew/cs-c-crew-body.html">&nbsp;&nbsp;Rowing</a><br>
+<a class="NavSm" href="/sports/c-ski/cs-c-ski-body.html">&nbsp;&nbsp;Skiing</a><br>
+<a class="NavSm" href="/sports/m-soccer/cs-m-soccer-body.html">&nbsp;&nbsp;Soccer-M</a><br>
+<a class="NavSm" href="/sports/w-soccer/cs-w-soccer-body.html">&nbsp;&nbsp;Soccer-W</a><br>
+<a class="NavSm" href="/sports/w-softbl/cs-w-softbl-body.html">&nbsp;&nbsp;Softball</a><br>
+<a class="NavSm" href="/sports/c-squash/cs-c-squash-body.html">&nbsp;&nbsp;Squash</a><br>
+<a class="NavSm" href="/sports/c-swim/cs-c-swim-body.html">&nbsp;&nbsp;Swim &amp; Diving</a><br>
+<a class="NavSm" href="/sports/w-syncs/cs-w-syncs-body.html">&nbsp;&nbsp;Synch. Swim</a><br>
+<a class="NavSm" href="/sports/m-tennis/cs-m-tennis-body.html">&nbsp;&nbsp;Tennis-M</a><br>
+<a class="NavSm" href="/sports/w-tennis/cs-w-tennis-body.html">&nbsp;&nbsp;Tennis-W</a><br>
+<a class="NavSm" href="/sports/c-track/cs-c-track-body.html">&nbsp;&nbsp;Track &amp; Field</a><br>
+<a class="NavSm" href="/sports/m-volley/cs-m-volley-body.html">&nbsp;&nbsp;Volleyball-M</a><br>
+<a class="NavSm" href="/sports/w-volley/cs-w-volley-body.html">&nbsp;&nbsp;Volleyball-W</a><br>
+<a class="NavSm" href="/sports/m-wpolo/cs-m-wpolo-body.html">&nbsp;&nbsp;Water Polo-M</a><br>
+<a class="NavSm" href="/sports/w-wpolo/cs-w-wpolo-body.html">&nbsp;&nbsp;Water Polo-W</a><br>
+<a class="NavSm" href="/sports/m-wrestl/cs-m-wrestl-body.html">&nbsp;&nbsp;Wrestling</a><br>
+</span>
+<img src="http://graphics.collegesports.com/graphics/spacer.gif" width="1" height="75" border="0"><br>
 </td>
-<td align="right" nowrap="" bgcolor="#CCCCCC"><a href="http://www.fansonly.com/channels/site/"><img src="http://graphics.fansonly.com/graphics/fansonly-sitemap.gif" width="49" height="12" alt="" border="0"></a><a href="http://www.fansonly.com/channels/site/whatsnew.html"><img src="http://graphics.fansonly.com/graphics/fansonly-whatsnew.gif" width="72" height="12" alt="" border="0"></a><a href="http://www.fansonly.com/channels/site/contactus.html"><img src="http://graphics.fansonly.com/graphics/fansonly-contact.gif" width="61" height="12" alt="" border="0"></a></td>
-</tr><tr>
-<td width="500" colspan="2">
-<img src="http://graphics.fansonly.com/graphics/fansonly-title-bar-shadow.gif" width="500" height="6" border="0" alt=""></td>
-</tr><tr>
-<td width="500" colspan="2" bgcolor="#333333">
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash/cabs/swflash.cab#version=4,0,0,0" width="500" height="29" name="sw" id="fo-board-ready">
-<param name="Movie" value="http://graphics.fansonly.com/flash/fo-score-ticker.swf">
-<param name="quality" value="high">
-<param name="Loop" value="false">
-<param name="play" value="true">
-<param name="scale" value="exactfit">
-<param name="salign" value="TL">
-<param name="menu" value="false">
-<param name="bgcolor" value="333333">
-<!-- begin the JavaScript -->
-<script language="JavaScript">
-<!--hiding contents of script from old browsers
-//...write out the following <EMBED> tag into the document.
-//If this browser understands the mimeTypes property and recognizes the MIME Type
-//"application/futuresplash"...
-//begin the OBJECT tag, which will be understood by ActiveX-capable browsers
-if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) {
-document.write('<EMBED SRC="http://graphics.fansonly.com/flash/fo-score-ticker.swf" WIDTH="500" HEIGHT="29" ');
-document.write('LOOP="false" QUALITY="high" SCALE="exactfit" SALIGN="TL" MENU="false" BGCOLOR="333333" ');
-document.write('TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"><BR>');
-}
-else {
-document.write('');
-}
-//Done hiding from old browsers. -->
-</script>
-<!-- Close the OBJECT tag. -->
-</object></td>
-</tr>
-</tbody></table>
-<div id="fansletter">
-<table width="230" border="0" cellpadding="0" cellspacing="0">  
-<tbody><tr>
-<td colspan="3"><form action="http://interact.fansonly.com/nl_sign_up/index.cfm" method="get"></form></td>
-</tr><tr>
-<td class="FansletterText" valign="middle">Sign up for your<br>free FANSletter!</td>
-<td valign="top" align="center">
-<input type="hidden" name="nl_code" value="fo">
-<input type="text" size="13" name="email" value="your email" valign="top"></td>
-<td width="30" valign="middle"><input type="Image" src="http://graphics.fansonly.com/graphics/go-button-black.gif" border="0" width="21" height="21" alt="Go"></td>
-</tr>
-</tbody></table>
-</div>
-
-<table width="760" border="0" cellpadding="0" cellspacing="0">  
-	<tbody><tr>
-		<td width="2" bgcolor="000000"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="2" height="1" alt="" border="0"></td>
-    	<td width="135" bgcolor="000000" valign="top">
-		<form action="http://www.fansonly.com/cgi-bin/go-to-site.cgi" method="post">
-		<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="135" height="8" alt="" border="0"><br>
-<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="135" height="6" alt="" border="0"><br>
-<span class="NavHeader">FEATURED SPORTS:</span><br>
-<a href="http://www.fansonly.com/channels/news/sports/m-footbl/index.html" class="NavSports">Football</a><br>
-<span class="NavSmall">
-<a href="http://www.fansonly.com/channels/stats/m-footbl-stats-index.html" class="NavSmall">Statistics</a> &nbsp;&nbsp;&nbsp;  
-<a href="http://www.fansonly.com/channels/news/sports/m-footbl/schedule.html" class="NavSmall">Schedules</a><br>
-<a href="http://www.fansonly.com/channels/news/sports/m-footbl/tvschedule/tvschedule.html" class="NavSmall">TV Listings</a>&nbsp;
-<a href="http://www.fansonly.com/channels/news/sports/m-footbl/polls.html" class="NavSmall">Polls</a></span><br>
-<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="8" alt="" border="0"><br>
-<a href="http://www.fansonly.com/channels/news/sports/m-baskbl/index.html" class="NavSports">Men's Hoops</a><br>
-<span class="NavSmall">   
-<a href="http://www.fansonly.com/channels/stats/m-baskbl-stats-index.html" class="NavSmall">Statistics</a> &nbsp;&nbsp;&nbsp;
-<a href="http://www.fansonly.com/channels/news/sports/m-baskbl/schedule.html" class="NavSmall">Schedules</a><br>
-<a href="http://www.fansonly.com/channels/news/sports/m-baskbl/tvschedule/tvschedule.html" class="NavSmall">TV Listings</a>&nbsp;
-<a href="http://www.fansonly.com/channels/news/sports/m-baskbl/polls.html" class="NavSmall">Polls</a></span><br>
-<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="8" alt="" border="0"><br>
-<a href="http://www.fansonly.com/channels/news/sports/w-baskbl/index.html" class="NavSports">Women's Hoops</a><br>
-<span class="NavSmall">   
-<a href="http://www.fansonly.com/channels/stats/w-baskbl-stats-index.html" class="NavSmall">Statistics</a> &nbsp;&nbsp;&nbsp; 
-<a href="http://www.fansonly.com/channels/news/sports/w-baskbl/schedule.html" class="NavSmall">Schedules</a><br>
-<a href="http://www.fansonly.com/channels/news/sports/w-baskbl/tvschedule/tvschedule.html" class="NavSmall">TV Listings</a>&nbsp;
-<a href="http://www.fansonly.com/channels/news/sports/w-baskbl/polls.html" class="NavSmall">Polls</a></span><br>
-<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="8" alt="" border="0"><br>
-        <a href="http://www.fansonly.com/channels/news/sports/m-basebl/index.html" class="NavSports">Baseball</a><br>
-<span class="NavSmall">   
-<a href="http://www.fansonly.com/channels/stats/m-basebl-stats-index.html" class="NavSmall">Statistics</a> &nbsp;&nbsp;&nbsp;  
-<a href="http://www.fansonly.com/channels/news/sports/m-basebl/schedule.html" class="NavSmall">Schedules</a><br>
-<a href="http://www.fansonly.com/channels/news/sports/m-basebl/tvschedule/tvschedule.html" class="NavSmall">TV Listings</a>&nbsp;
-<a href="http://www.fansonly.com/channels/news/sports/m-basebl/polls.html" class="NavSmall">Polls</a></span><br>
-<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="6" alt="" border="0"><br>
-
-<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=fo/ADTYPE=side-tv/POS=120x60/SECT=promo" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a>
-</form><form method="POST" action="http://www.fansonly.com/cgi-bin/go-to-site.cgi">
-<select name="location" id="sport-drop" onchange="dropper(this,'same');">
-<option value="http://www.fansonly.com/channels/news/sports/index.html" selected="">Other Sports</option>
-<option value="http://www.fansonly.com/channels/news/sports/index.html">------</option>
-<option value="http://www.fansonly.com/channels/news/sports/c-xc/index.html">X Country</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-equest/index.html">Equestrian</option>
-<option value="http://www.fansonly.com/channels/news/sports/c-fenc/index.html">Fencing</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-fieldh/index.html">Field Hcky</option>
-<option value="http://www.fansonly.com/channels/news/sports/m-golf/index.html">Golf-M</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-golf/index.html">Golf-W</option>
-<option value="http://www.fansonly.com/channels/news/sports/m-gym/index.html">Gymnas.-M</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-gym/index.html">Gymnas.-W</option>
-<option value="http://www.fansonly.com/channels/news/sports/m-hockey/index.html">Hockey-M</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-hockey/index.html">Hockey-W</option>
-<option value="http://www.fansonly.com/channels/news/sports/m-lacros/index.html">Lacrosse-M</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-lacros/index.html">Lacrosse-W</option>
-<option value="http://www.fansonly.com/channels/news/sports/c-rifle/index.html">Rifle</option>
-<option value="http://www.fansonly.com/channels/news/sports/c-crew/index.html">Rowing</option>
-<option value="http://www.fansonly.com/channels/news/sports/c-ski/index.html">Skiing</option>
-<option value="http://www.fansonly.com/channels/news/sports/m-soccer/index.html">Soccer-M</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-soccer/index.html">Soccer-W</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-softbl/index.html">Softball</option>
-<option value="http://www.fansonly.com/channels/news/sports/c-squash/index.html">Squash</option>
-<option value="http://www.fansonly.com/channels/news/sports/c-swim/index.html">Swim&amp;Diving</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-syncs/index.html">Synch. Swim</option>
-<option value="http://www.fansonly.com/channels/news/sports/m-tennis/index.html">Tennis-M</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-tennis/index.html">Tennis-W</option>
-<option value="http://www.fansonly.com/channels/news/sports/c-track/index.html">Track&amp;Field</option>
-<option value="http://www.fansonly.com/channels/news/sports/m-volley/index.html">Volleyb.-M</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-volley/index.html">Volleyb.-W</option>
-<option value="http://www.fansonly.com/channels/news/sports/m-wpolo/index.html">W Polo-M</option>
-<option value="http://www.fansonly.com/channels/news/sports/w-wpolo/index.html">W Polo-W</option>
-<option value="http://www.fansonly.com/channels/news/sports/m-wrestl/index.html">Wrestling</option>
-</select>
-</form>
-<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="4" alt="" border="0"><br>
-<span class="NavHeader">NEWS:</span><br>
-<span class="NavMed">
-&nbsp;&nbsp;<a href="http://www.fansonly.com/teams/" class="NavMed">Teams</a><br>
-&nbsp;&nbsp;<a href="http://fansonly.rivals.com" class="NavMed">Recruiting</a><br>
-&nbsp;&nbsp;<a href="http://www.fansonly.com/channels/multimedia/" class="NavMed">Audio/Video</a><br>
-&nbsp;&nbsp;<a href="http://www.fansonly.com/channels/gameday/livegames.html" class="NavMed">Live Stats</a></span><br>
-<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="3" alt="" border="0"><br>
-<span class="NavHeader">OCSN NETWORK:</span><br>
-<span class="NavMed">
-&nbsp;&nbsp;<a href="http://www.ocsn.com/ocsn-partners.html" class="NavMed">Official Sites</a><br>
-&nbsp;&nbsp;<a href="http://www.fansonly.com/store/" class="NavMed">FANSonly FANStore</a><br>
-&nbsp;&nbsp;<a href="http://www.fansonly.com/wireless/" class="NavMed">Wireless Updates</a><br>
-&nbsp;&nbsp;<a href="http://www.fansonly.com/wire/" class="NavMed">NewsWire</a><br>
-&nbsp;&nbsp;<a href="http://www.ocsn.com/" class="NavMed">About OCSN</a><br>
-&nbsp;&nbsp;<a href="http://www.ocsn.com/ocsn-contact.html" class="NavMed">Jobs at OCSN</a></span><br>
-<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="3" alt="" border="0"><br>
-<span class="NavHeader">INTERACTIVE:</span><br>
-<span class="NavMed">
-&nbsp;&nbsp;<a href="http://bbs.fansonly.com/" class="NavMed">Message Boards</a><br>
-&nbsp;&nbsp;<a href="http://interact.fansonly.com/" class="NavMed">Games/Contests</a><br></span>
-
-		<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="15" alt="" border="0"><br>
-		</td>
-		<td width="1" bgcolor="CCCCCC"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="1" alt="" border="0"></td>
-		<td width="14"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="14" height="1" alt="" border="0"></td>
-		<td width="608" valign="top"><a name="top"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="608" height="15" alt="" border="0"></a><br>
+<td width="6"><img src="http://graphics.collegesports.com/graphics/spacer.gif" width="6" height="1" border="0"></td>
+<td width="594" valign="top">
+<span class="Space10">&nbsp;</span><br>
 <div id="Content">
 
+<style type="text/css">
+<!--
+.BasicTextLinks, .TopLink {color:#000000; font-size:12px; line-height:14px; font-family: Arial, Helvetica, Geneva, sans-serif;}
+.TopLink {font-size:18px; line-height:26px; font-weight:bold; text-decoration:none;}
+.BasicTextLinks:hover, .TopLink:hover {text-decoration:none; color:#666666;}
+-->
+</style>
 
-<img src="http://graphics.fansonly.com/graphics/privacy.gif" width="336" height="38" border="0" alt="Privacy Statement"><br>
+<img src="http://graphics.collegesports.com/graphics/privacy.gif" width="336" height="38" border="0" alt="Privacy Statement"><br>
 <table cellpadding="2" cellspacing="0" border="0" width="608">
 	<tbody><tr>
 		<td>
-<a class="TopHeadline" href="http://www.fansonly.com">www.fansonly.com</a>
-<span class="BasicText">
+<a class="TopLink" href="http://www.collegesports.com">www.collegesports.com</a>
+<div id="Content">
 <p>
-FANSonly has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.fansonly.com and the network of websites making up the FANSonly network.</p><p>
+OCSN has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.CollegeSports.com and the network of websites making up the OCSN network.</p><p>
 <span class="Headline">Use of Your IP Address
 </span><br>We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. </p><p>
 <span class="Headline">Cookies
@@ -350,8 +171,8 @@ FANSonly has created this privacy statement in order to demonstrate our firm com
 We may sometimes use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies. </p><p>
 <span class="Headline">Site Registration
 </span><br>Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers, and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. </p><p>
-<span class="Headline">Links to Sites Outside the FANSonly Network
-</span><br>This site contains links to other sites outside of the FANSonly network. www.fansonly.com is not responsible for the privacy practices or the content of such Web sites. </p><p>
+<span class="Headline">Links to Sites Outside the OCSN Network
+</span><br>This site contains links to other sites outside of the OCSN network. www.CollegeSports.com is not responsible for the privacy practices or the content of such Web sites. </p><p>
 <span class="Headline">Customer Order Information
 </span><br>Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers, financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. </p><p>
 <span class="Headline">Surveys and Questionnaires
@@ -363,7 +184,7 @@ We may sometimes use an outside ad company to display ads on our site. These ads
 <span class="Headline">Supplementation Information</span><br>
 This site supplements the information that you provide with information that is received from third parties. </p><p>
 <span class="Headline">Children's Guidelines
-</span><br>FANSonly will:
+</span><br>OCSN will:
 </p><ol type="1">
 	<li>NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent 
 	</li><li>NOT collect personally identifiable offline contact information without prior parental consent
@@ -376,7 +197,7 @@ This site supplements the information that you provide with information that is 
 </span><br>Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. </p><p>
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 </p><ol>
-	<li>You can send email to <a class="BasicTextLinks" href="mailto:webmaster@fansonly.com">webmaster@fansonly.com</a> <br>
+	<li>You can send email to <a class="BasicTextLinks" href="mailto:webmaster@collegesports.com">webmaster@collegesports.com</a> <br>
 	</li><li>You can send mail to the following postal address:<br> 
 	2035 Corte del Nogal, Suite 105, Carlsbad, CA 92009
 </li></ol>
@@ -384,7 +205,7 @@ This site gives users the following options for removing their information from 
 <span class="Headline">Correct/Update</span><br>
 This site gives users the following options for changing and modifying information previously provided. </p><p>
 </p><ol>
-	<li>You can send email to <a class="BasicTextLinks" href="mailto:webmaster@fansonly.com">webmaster@fansonly.com</a> <br>
+	<li>You can send email to <a class="BasicTextLinks" href="mailto:webmaster@collegesports.com">webmaster@collegesports.com</a> <br>
 	</li><li>You can send mail to the following postal address:<br> 
 	2035 Corte del Nogal, Suite 105, Carlsbad, CA 92009
 </li></ol>
@@ -392,42 +213,226 @@ This site gives users the following options for changing and modifying informati
 <span class="Headline">Contacting the Web Site</span><br>
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:</p><p>
 Webmaster<br>
-FANSonly<br>
+CollegeSports.com<br>
 2035 Corte del Nogal<br>
 Suite 200<br>
 Carlsbad, CA 92009<br>
-<a class="BasicTextLinks" href="mailto:webmaster@fansonly.com">webmaster@fansonly.com</a>
-</p></span></td></tr></tbody></table>
+<a class="BasicTextLinks" href="mailto:webmaster@collegesports.com">webmaster@collegesports.com</a>
+</p></div>
+</td></tr></tbody></table>
 </div>
-		</td>
-	</tr>
+<img src="http://graphics.collegesports.com/graphics/spacer.gif" width="594" height="25" border="0"></td>
+</tr>
 </tbody></table>
 <table width="760" border="0" cellpadding="0" cellspacing="0">  
-	<tbody><tr>
-		<td width="2" bgcolor="000000"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="2" height="1" alt="" border="0"></td>
-    	<td width="135" bgcolor="000000"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="131" height="1" alt="" border="0"></td>
-		<td width="1" bgcolor="CCCCCC"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="1" alt="" border="0"></td>
-		<td width="622" align="center">
-		<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="10" border="0" alt=""><br><div align="right"><a href="#top" class="BasicTextLinks">Top of Page</a>&nbsp;&nbsp;&nbsp;<br></div>
-		<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="622" height="5" alt="" border="0"><br>
+<tbody><tr>
+<td width="160" bgcolor="000066"><img src="http://graphics.collegesports.com/graphics/spacer.gif" width="160" height="1" border="0"></td>
+<td width="6"><img src="http://graphics.collegesports.com/graphics/spacer.gif" width="6" height="1" border="0"></td>
+<td width="594">
+<span class="Space10">&nbsp;</span><br>
 
-<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=fo/ADTYPE=468_top/META=fo/POS=TOP" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a><br>
-<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="5" alt="" border="0"></td>
-	</tr>
+<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=cs/ADTYPE=468_bottom/CATEGORY=/DIR=FrontPage/MACRO=cs/POS=BOT" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a><br>
+<span class="Space10">&nbsp;</span><br>
+<span class="FooterText">Copyright © 2002 <a href="http://www.ocsn.com" class="FooterLinks">Official College Sports Network, Inc.</a> Click here to view our <a href="/ot/privacy.html" class="FooterLinks">Privacy Policy.</a></span>
+</td>
+</tr>
 </tbody></table>
+<div id="Masthead">
 <table width="760" border="0" cellpadding="0" cellspacing="0">  
-	<tbody><tr>
-		<td width="759" colspan="2"><img src="http://graphics.fansonly.com/graphics/fansonly-bottom-bar.gif" width="759" height="12" alt="" border="0"></td>
-		<td width="1"><img src="http://graphics.fansonly.com/graphics/fansonly-bottom-bar-r.gif" width="1" height="12" alt="" border="0"></td>
-	</tr><tr>
-		<td width="380" bgcolor="CCCCCC" class="FooterText">&nbsp;&nbsp;&nbsp;Copyright © 2002 <a href="http://www.studentadvantage.com" class="FooterLinks">Student Advantage, Inc.</a></td>
-		<td width="379" bgcolor="CCCCCC" align="right" class="FooterText">Click here to view our <a href="http://www.fansonly.com/channels/site/privacy.html" class="FooterLinks">Privacy Policy.</a>&nbsp;&nbsp;&nbsp;</td>
-		<td width="1" bgcolor="666666"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="1" alt="" border="0"></td>
-	</tr><tr>
-		<td width="759" colspan="2" bgcolor="666666"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="759" height="1" alt="" border="0"></td>
-		<td width="1" bgcolor="666666"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
+<tbody><tr>
+<td width="760"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash/cabs/swflash.cab#version=4,0,0,0" width="760" height="92" name="sw" id="cs-masthead">
+<param name="Movie" value="http://graphics.collegesports.com/graphics/cs-masthead-start.swf">
+<param name="quality" value="high">
+<param name="Loop" value="true">
+<param name="play" value="true">
+<param name="scale" value="exactfit">
+<param name="salign" value="TL">
+<param name="wmode" value="window">
+<param name="menu" value="false">
+<param name="bgcolor" value="000066">
+<script language="JavaScript">
+<!--
+if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) {
+document.write('<EMBED SRC="http://graphics.collegesports.com/graphics/cs-masthead-start.swf" WIDTH="760" HEIGHT="92" ');
+document.write('LOOP="true" QUALITY="high" SCALE="exactfit" SALIGN="TL" MENU="false" BGCOLOR="000066" ');
+document.write('TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"><BR>');
+}
+else {
+document.write('<img src="http://graphics.collegesports.com/graphics/cs-masthead.gif" width=760 height=92 border=0 alt="" usemap="#cs-masthead-map"> ');
+}
+//-->
+</script><img src="http://graphics.collegesports.com/graphics/cs-masthead.gif" width="760" height="92" border="0" alt="" usemap="#cs-masthead-map"> </object></td></tr></tbody></table>
+<map name="cs-masthead-map">
+<area shape="rect" coords="637,75,756,92" href="/wireless/index.html" alt="Wireless Updates">
+<area shape="rect" coords="550,75,629,92" href="http://rivals.ocsn.com" alt="Recruiting">
+<area shape="rect" coords="464,75,541,92" href="/teams/cs-teams.html" alt="Team Pages">
+<area shape="rect" coords="214,75,284,92" href="/sports/m-basebl/cs-m-basebl-body.html" alt="Baseball">
+<area shape="rect" coords="143,75,213,92" href="/sports/w-baskbl/cs-w-baskbl-body.html" alt="Women's Basketball">
+<area shape="rect" coords="72,75,142,92" href="/sports/m-baskbl/cs-m-baskbl-body.html" alt="Men's Basketball">
+<area shape="rect" coords="0,75,70,92" href="/sports/m-footbl/cs-m-footbl-body.html" alt="Football">
+<area shape="rect" coords="0,1,759,72" href="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" alt="You need Flash to view this masthead completely.  Click here to get it!">
+</map>
+</div>
+<div id="OCSNBar">
+<form action="http://www.ocsn.com/cgi-bin/go-to-site.cgi" method="post">
+<table width="760" border="0" cellpadding="0" cellspacing="0">  
+<tbody><tr>
+<td width="760" colspan="4" bgcolor="CCCCCC"><img src="http://graphics.collegesports.com/graphics/spacer.gif" width="760" height="1" border="0"></td>
+</tr><tr>
+<td width="77" bgcolor="666666" valign="middle"><a href="http://www.ocsn.com"><img src="http://graphics.collegesports.com/graphics/bar-ocsn-logo.gif" width="77" height="27" border="0" alt="OCSN"></a></td>
+<td width="234" bgcolor="666666" valign="middle"><a href="http://www.ocsn.com"><img src="http://graphics.collegesports.com/graphics/bar-ocsn-title.gif" width="234" height="27" border="0" alt="The Official College Sports Network"></a></td>
+<td align="right" bgcolor="666666" class="OCSNbar" nowrap="">
+<a href="http://www.ocsn.com/ocsn-about.html" class="OCSNbar">About Us</a>&nbsp;|&nbsp;<a href="http://www.ocsn.com/ocsn-services.html" class="OCSNbar">Services</a></td>
+<td align="right" bgcolor="666666">
+<select name="location" onchange="dropper(this,'new');" id="oas-drop">
+<option value="http://www.ocsn.com/ocsn-partners.html" selected="">Official Athletic Sites</option>
+<option value="http://www.ocsn.com/ocsn-partners.html">----------</option>
+<option value="http://www.theacc.com">ACC</option>
+<option value="http://www.aupanthers.com">Adelphi</option>
+<option value="http://airforcesports.ocsn.com/">Air Force</option>
+<option value="http://www.gozips.com">Akron</option>
+<option value="http://www.arizonaathletics.com">Arizona</option>
+<option value="http://www.thesundevils.com">Arizona State</option>
+<option value="http://www.goarmysports.com">Army</option>
+<option value="http://www.gobaylorbears.com">Baylor</option>
+<option value="http://big12sports.ocsn.com/">Big 12</option>
+<option value="http://www.bceagles.com">Boston College</option>
+<option value="http://www.bgsufalcons.com">Bowling Green</option>
+<option value="http://brownbears.ocsn.com/">Brown</option>
+<option value="http://bucknellbison.ocsn.com">Bucknell</option>
+<option value="http://butlersports.ocsn.com">Butler</option>
+<option value="http://www.calbears.com">Cal</option>
+<option value="http://www.cmuchippewas.com">Central Michigan</option>
+<option value="http://www.charlotte49ers.com">Charlotte</option>
+<option value="http://www.clemsontigers.com">Clemson</option>
+<option value="http://www.csuvikings.com">Cleveland State</option>
+<option value="http://www.cubuffs.com">Colorado</option>
+<option value="http://www.cornellbigred.com">Cornell</option>
+<option value="http://www.denverpioneers.com">Denver</option>
+<option value="http://goduke.ocsn.com/">Duke</option>
+<option value="http://goduquesne.ocsn.com/">Duquesne</option>
+<option value="http://www.gopurpleaces.com/">Evansville</option>
+<option value="http://www.fairfieldstags.com">Fairfield</option>
+<option value="http://www.fduknights.com">Fairleigh Dickinson</option>
+<option value="http://www.fausports.com">Florida Atlantic</option>
+<option value="http://www.seminoles.com">Florida State</option>
+<option value="http://www.gobulldogs.com">Fresno State</option>
+<option value="http://gwsports.ocsn.com/">George Washington</option>
+<option value="http://georgiadogs.ocsn.com/">Georgia</option>
+<option value="http://ramblinwreck.ocsn.com/">Georgia Tech</option>
+<option value="http://www.collegiategolf.com">Golf Coaches Association of America</option>
+<option value="http://www.gozags.com">Gonzaga</option>
+<option value="http://www.gvsulakers.com">Grand Valley State</option>
+<option value="http://www.hsuathletics.com">Hardin-Simmons</option>
+<option value="http://www.gocrimson.com">Harvard</option>
+<option value="http://www.uhcougars.com">Houston</option>
+<option value="http://www.isubengals.com">Idaho State</option>
+<option value="http://www.fightingillini.com">Illinois</option>
+<option value="http://www.uicflames.com">Illinois-Chicago</option>
+<option value="http://www.cyclones.com">Iowa State</option>
+<option value="http://www.judolphins.com">Jacksonville</option>
+<option value="http://hopkinssports.ocsn.com/">Johns Hopkins</option>
+<option value="http://kstatesports.ocsn.com/">Kansas State</option>
+<option value="http://www.ukathletics.com/">Kentucky</option>
+<option value="http://www.goleopards.com">Lafayette</option>
+<option value="http://www.uoflsports.com">Louisville</option>
+<option value="http://lmulions.ocsn.com/">Loyola Marymount</option>
+<option value="http://mac-sports.ocsn.com/">MAC - Mid-American Conference</option>
+<option value="http://www.goredfoxes.com">Marist</option>
+<option value="http://www.gomarquette.com">Marquette</option>
+<option value="http://www.umterps.com">Maryland</option>
+<option value="http://www.gotigersgo.com">Memphis</option>
+<option value="http://www.hurricanesports.com">Miami (Fla.)</option>
+<option value="http://www.muredhawks.com">Miami (Ohio)</option>
+<option value="http://www.msuspartans.com">Michigan State</option>
+<option value="http://www.olemisssports.com">Mississippi</option>
+<option value="http://www.mutigers.com">Missouri</option>
+<option value="http://www.themwc.com">MWC - Mountain West Conference</option>
+<option value="http://www.mountathletics.com">Mt. State Mary's</option>
+<option value="http://www.nacda.com">NACDA</option>
+<option value="http://www.nabc.com">Nat'l Association of Basketball Coaches</option>
+<option value="http://www.nevadawolfpack.com">Nevada</option>
+<option value="http://www.footballfoundation.com">NFF - National Football Foundation</option>
+<option value="http://www.nmstatesports.com">New Mexico State</option>
+<option value="http://www.tarheelblue.com/">North Carolina</option>
+<option value="http://gopack.ocsn.com/">North Carolina State</option>
+<option value="http://www.uncbears.com">Northern Colorado</option>
+<option value="http://www.nusports.com">Northwestern</option>
+<option value="http://www.und.com">Notre Dame</option>
+<option value="http://www.ohiostatebuckeyes.com">Ohio State</option>
+<option value="http://www.soonersports.com">Oklahoma</option>
+<option value="http://www.okstate.com">Oklahoma State</option>
+<option value="http://www.odusports.com">Old Dominion</option>
+<option value="http://www.goducks.com">Oregon</option>
+<option value="http://www.osubeavers.com">Oregon State</option>
+<option value="http://www.pac-10.org">Pac-10</option>
+<option value="http://www.patriotleague.com">Patriot League</option>
+<option value="http://pennathletics.ocsn.com/">Penn</option>
+<option value="http://www.goviks.com">Portland State</option>
+<option value="http://www.goprincetontigers.com">Princeton</option>
+<option value="http://www.friars.com">Providence</option>
+<option value="http://www.purduesports.com">Purdue</option>
+<option value="http://www.quinnipiacathletics.com">Quinnipiac</option>
+<option value="http://www.gorhody.com">Rhode Island</option>
+<option value="http://richmondspiders.ocsn.com/">Richmond</option>
+<option value="http://sacredheartpioneers.ocsn.com/">Sacred Heart</option>
+<option value="http://www.gobonnies.com">St. Bonaventure</option>
+<option value="http://www.slubillikens.com">Saint Louis</option>
+<option value="http://www.smcgaels.com">Saint Mary's</option>
+<option value="http://www.samfordsports.com">Samford</option>
+<option value="http://www.goaztecs.com">San Diego State</option>
+<option value="http://usfdons.ocsn.com/">San Francisco</option>
+<option value="http://www.santaclarabroncos.com">Santa Clara</option>
+<option value="http://www.sienasaints.com">Siena</option>
+<option value="http://www.uscsports.com">South Carolina</option>
+<option value="http://www.gosoutheast.com">Southeast Missouri St</option>
+<option value="http://www.siusalukis.com">Southern Illinois</option>
+<option value="http://www.gostanford.com">Stanford</option>
+<option value="http://www.sfajacks.com/">Stephen F. Austin</option>
+<option value="http://www.goseawolves.org">Stony Brook</option>
+<option value="http://www.utsports.com">Tennessee(Men)</option>
+<option value="http://www.utladyvols.com">Tennessee(Women)</option>
+<option value="http://gofrogs.ocsn.com/">TCU - Texas Christian</option>
+<option value="http://www.texastech.com">Texas Tech</option>
+<option value="http://www.utrockets.com">Toledo</option>
+<option value="http://www.tulanegreenwave.com">Tulane</option>
+<option value="http://www.tulsahurricane.com">Tulsa</option>
+<option value="http://www.uabsports.com">UAB - Alabama-Birmingham</option>
+<option value="http://www.ucdavisaggies.com">UC Davis</option>
+<option value="http://www.uclabruins.com">UCLA</option>
+<option value="http://www.ucsbgauchos.com">UC Santa Barbara</option>
+<option value="http://www.ulmathletics.com">ULM - Louisiana-Monroe</option>
+<option value="http://www.umassathletics.com">UMass - Massachusetts</option>
+<option value="http://www.unlvrebels.com">UNLV</option>
+<option value="http://www.usctrojans.com">USC</option>
+<option value="http://www.utahutes.com">Utah</option>
+<option value="http://utahstateaggies.ocsn.com/">Utah State</option>
+<option value="http://www.villanova.com">Villanova</option>
+<option value="http://www.virginiasports.com">Virginia</option>
+<option value="http://www.wakeforestsports.com">Wake Forest</option>
+<option value="http://www.gohuskies.com">Washington</option>
+<option value="http://www.wsucougars.com">Washington State</option>
+<option value="http://www.wcha.com">WCHA</option>
+<option value="http://catamountsports.ocsn.com/">Western Carolina</option>
+<option value="http://www.wkusports.com">Western Kentucky</option>
+<option value="http://www.wwuvikings.com">Western Washington</option>
+<option value="http://www.uwmpanthers.com">Wisconsin-Milwaukee</option>
+<option value="http://www.wyomingathletics.com">Wyoming</option>
+</select><img src="http://graphics.collegesports.com/graphics/spacer.gif" width="3" height="1" border="0"></td>
+</tr><tr>
+<td width="760" colspan="4" bgcolor="CCCCCC"><img src="http://graphics.collegesports.com/graphics/spacer.gif" width="760" height="1" border="0"></td>
+</tr>
 </tbody></table>
+</form>
+</div>
+
+
+<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=CS/POS=SKYSCRAPER" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a>
+
+
+<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=cs/ADTYPE=popup/CATEGORY=/DIR=FrontPage/MACRO=cs/POS=popup" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a>
+
+<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=cs/POS=RICHMEDIA" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a>
 
 
 </body></html>
