@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remington.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619042243id_/http%3A//www.remington.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remington.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019143112id_/http%3A//www.remington.com/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Remington Arms Company, Inc. On-Line Privacy Policy
 
@@ -88,4 +88,4 @@ If you have any questions or concerns regarding this policy, please notify us th
 
 ****
 
-**This policy was last updated on May 9, 2000.**
+**This policy was last updated on May 9, 2001.**
