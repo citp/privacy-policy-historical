@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockymountainnews.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010024927id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockymountainnews.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404120614id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.*
 
 # Rocky Mountain News
 
