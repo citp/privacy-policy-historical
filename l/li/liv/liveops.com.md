@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210023514id_/http%3A//www.liveops.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212828id_/http%3A//www.liveops.com/privacy.html) for the most accurate reproduction.*
 
-# LiveOps Teleservices | Privacy Policy
+# LiveOps Reinventing Teleservices | Privacy Policy
 
 Your privacy is important to LiveOps. This statement discloses the information practices for the LiveOps Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
