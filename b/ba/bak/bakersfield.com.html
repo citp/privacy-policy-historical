@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bakersfield.com privacy policy that was archived on 2002-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020202033748id_/http%3A//bakersfield.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bakersfield.com privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206161548id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>bakersfield.com - Privacy Policy</title>
@@ -28,13 +28,12 @@ a:hover {  text-decoration: none}
 .searchbox{font-size:10px}
 .searchbutton{font-size:10px}
 .searchinput{font-size:10px}
-
-
 -->
 </style>
-</head>
 
+</head>
 <body bgcolor="#FFFFFF" text="#000000" link="#2D62A2" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
     <td background="/static/images/news/header_bg_news.gif"><a href="http://www.bakersfield.com"><img src="/static/images/news/header_logo.gif" width="319" height="81" border="0"></a><img src="/static/images/news/header_lines_news.gif" width="286" height="81"></td>
@@ -76,7 +75,46 @@ a:hover {  text-decoration: none}
   <tbody><tr> 
     <td rowspan="2" width="10"><img src="/static/images/spacer.gif" width="10" height="10"></td>
     <td width="0"><!-- Component: Bakersfield:component/Right_Nav/components/:global_date -->
-<span style="color:#333333; font-family:verdana; font-size:11; font-weight:bold">February  1, 2002</span> <br>
+<span style="color:#333333; font-family:verdana; font-size:11; font-weight:bold">
+<script language="JavaScript">
+<!--
+
+function getDisplayMonth(iMonth) {
+
+    // pass in an month as an integer
+    // return the month string
+
+    var monthArray = new Array("January","Febuary","March","April","May","June","July","August","September","October","November","December");
+
+    return monthArray[iMonth];
+}
+
+function getDisplayDate(passedDate) {
+
+    // uses getDisplayMonth()
+    // returns passed Date formatted nicely
+    // Month day, Year  mmmm dd, yyyy
+
+    theDate = new Date(passedDate);
+
+    // split into day, month, year
+    iDay = theDate.getDate();
+    iMonth = theDate.getMonth();
+    iYear = theDate.getFullYear();
+
+    sDisplayDate = getDisplayMonth(iMonth) + " " + iDay + ", " + iYear;
+
+    return sDisplayDate;
+}
+
+// example use
+now = new Date();
+document.writeln(getDisplayDate(now));
+
+//-->
+</script>January 30, 2020
+
+</span><br>
       <!-- Component: Bakersfield:component/Right_Nav/components/:global_navcrumb -->
 <span class="small"><a href="http://www.bakersfield.com">Homepage</a> &gt; <a href="/news/">News Home</a> &gt; <a href="/privacy/"><b>Privacy Policy</b></a></span><br>   
       <br>
@@ -99,9 +137,9 @@ a:hover {  text-decoration: none}
     <td class="small"> 
       <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td><img src="/static/includes/weather/33s.gif" border="0" height="20" alt="Weather Icon">
+<td><img src="/static/includes/weather/11s.gif" border="0" height="20" alt="Weather Icon">
 </td>
-<td class="weather" nowrap=""><b class="weather">CLEAR 44°F</b></td>
+<td class="weather" nowrap=""><b class="weather">L/FOG 40°F</b></td>
 </tr>
 </tbody></table>
 
@@ -111,25 +149,25 @@ a:hover {  text-decoration: none}
       Maps</a><br>
       <img src="/static/images/crm-arrow-right-white.gif" align="absmiddle" width="10" height="7"><a href="/weather/">Today's 
       Forecast</a><br>
-      <img src="/static/images/crm-arrow-right-white.gif" align="absmiddle" width="10" height="7"><a href="http://ww2.bakersfield.com/frame/framset.asp?URL=http://alertline.kern.org/viewalert.cgi">School 
+      <img src="/static/images/crm-arrow-right-white.gif" align="absmiddle" width="10" height="7"><a href="http://ww2.bakersfield.com/frame/framset.asp?URL=http://alertline.kern.org/viewAlert.cgi">School 
           Fog Alerts</a></td>
   </tr>
 </tbody></table><br>
       <!-- Component: Bakersfield:component/Right_Nav/components/:global_search --> 
-<table width="100%" border="0" cellspacing="0" cellpadding="1" bgcolor="#7F7F7F">
+<table width="100%" border="0" cellspacing="0" cellpadding="1" bgcolor="#005995">
   <tbody><tr> 
     <td> 
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td width="10" bgcolor="#CCCCCC"><img src="/static/images/spacer.gif" width="10" height="10"></td>
-          <td bgcolor="#FFFFFF" class="subhead"><b>&nbsp;Search&nbsp; </b></td>
-          <td bgcolor="#E8EDF0" width="90%"><img src="/static/images/right_subheads.gif" width="12" height="13"></td>
+          <td width="10" bgcolor="#006BB6"><img src="/static/images/news/newsnav_blue_endcap.jpg" width="10" height="13"></td>
+          <td bgcolor="#FFFFFF" class="subhead" nowrap=""><b>&nbsp;Search&nbsp; 
+            </b></td>
+          <td bgcolor="#006BB6" width="90%" background="/static/images/news/newsnav_blue_bg.jpg"><img src="/static/images/news/newsnav_blue_angle.jpg" width="12" height="13"></td>
         </tr>
       </tbody></table>
     </td>
   </tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
+</tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody><tr> 
     <td class="small"> 
       <form method="GET" action="/dwb_search/index.html">
@@ -168,8 +206,12 @@ a:hover {  text-decoration: none}
         <br>
         Stay up-to-date on local news and entertainment by getting newsletters 
         sent to your email. 
-      </p><p><iframe src="http://www.bakersfield.net/minisurvey/vote.asp?ID=189" width="175" height="350" marginwidth="0" marginheight="0" scrolling="auto" frameborder="0"></iframe> 
-  </p></td></tr>
+	</p><p class="small"><b><a href="http://www.bakersfield.com/soundoff">Sound 
+        Off </a></b><br>
+        Share your criticisms, compliments or questions about news coverage. Questions are answered by Executive Editor Mike Jenner.<br>
+      </p><p><iframe src="http://www.bakersfield.net/minisurvey/vote.asp?ID=499" width="175" height="350" marginwidth="0" marginheight="0" scrolling="auto" frameborder="0">
+        </iframe> 
+    </p></td></tr>
 </tbody></table> 
     </td>
     <td rowspan="2" width="2"><img src="/static/images/spacer.gif" width="2" height="10"></td>
@@ -428,102 +470,132 @@ a:hover {  text-decoration: none}
       <span align="center" class="smallcontent"><!-- Component: Bakersfield:component/:copyright -->
 <a href="http://www.nandomedia.com"><img align="right" src="http://bakersfield-proxy.nandomedia.com/static/images/poweredbywhite.gif" width="90" height="32" border="0" alt="powered by Nando Media"></a>
 
-Copyright © 2002, <a href="http://www.bakersfield.com/help/whoweare.html">The Bakersfield Californian</a> | <a href="mailto:webmaster@bakersfield.com">Email the Webmaster</a><br> <a href="/privacy/">Privacy Policy Statement</a> | <a href="/terms/">Terms of Use</a>    </span><br>
+Copyright © 2002, <a href="http://www.bakersfield.com/help/whoweare.html">The Bakersfield Californian</a> | <a href="mailto:webmaster@bakersfield.com">Email the Webmaster</a><br> <a href="/privacy/">Privacy Policy Statement</a> | <a href="/terms/">Terms of Use</a><p style="font-size: 1px; color: white;"><a href="http://www.lightspeedsystems.com"><font color="#FFFFFF">Lightspeed Systems</font></a></p>     </span><br>
     </td>
     <td bgcolor="#E8EDF0" valign="top"><!-- Component: Bakersfield:component/Ads/:defaultnews -->
-<p>        <!--- 1st Section: Delivery Attempt via JX tag. --->
-        <script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1?PFteMsCoAtgAAIHSagw">
-        </script>
+<p>        
+
+        <!--- 1st Section: Delivery Attempt via JX tag. --->
+        <!--SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1"-->
+        <!--/script-->
 
         <!--- 2nd Section: Browser test; "version" will be set to 10 or 11 --->
         <script language="JavaScript">
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
             <!-- 
-            _version=10; 
-            //-->
+                var _version=10; 
+            // -->
         </script>
         <script language="JavaScript1.1">
-            <!-- 
-            _version=11; 
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
+            <!--
+                var _version=11; 
             // -->
         </script>
 
         <script language="JavaScript">
-        <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
-        <!--
-        if (navigator.appVersion.indexOf('MSIE 3') != -1)
-        {
-            document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1?PFteMsCoAtgAAIHSagw"></iframe>');
-        }
-        else if (_version < 11)
-        {
-            document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1?PFteMsCoAtgAAIHSagw"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1?PFteMsCoAtgAAIHSagw"></a>');
-        }
-        // -->
-        </script>
+            <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
+            <!--
+            if (navigator.appVersion.indexOf('MSIE 3') != -1)
+            {
+                document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1"></iframe>');
+            }
+            else if (_version < 11)
+            {
+                document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1"></a>');
+            }
+            else
+            {
+                document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1"></'+'SCRIPT>');
+            }
+            // -->
+        </script><script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button1"></script>
 
 
 
-</p><p>        <!--- 1st Section: Delivery Attempt via JX tag. --->
-        <script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2?PFteMsCoAtgAAIHSagw">
-        </script>
+</p><p>        
+
+        <!--- 1st Section: Delivery Attempt via JX tag. --->
+        <!--SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2"-->
+        <!--/script-->
 
         <!--- 2nd Section: Browser test; "version" will be set to 10 or 11 --->
         <script language="JavaScript">
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
             <!-- 
-            _version=10; 
-            //-->
+                var _version=10; 
+            // -->
         </script>
         <script language="JavaScript1.1">
-            <!-- 
-            _version=11; 
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
+            <!--
+                var _version=11; 
             // -->
         </script>
 
         <script language="JavaScript">
-        <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
-        <!--
-        if (navigator.appVersion.indexOf('MSIE 3') != -1)
-        {
-            document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2?PFteMsCoAtgAAIHSagw"></iframe>');
-        }
-        else if (_version < 11)
-        {
-            document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2?PFteMsCoAtgAAIHSagw"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2?PFteMsCoAtgAAIHSagw"></a>');
-        }
-        // -->
-        </script>
+            <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
+            <!--
+            if (navigator.appVersion.indexOf('MSIE 3') != -1)
+            {
+                document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2"></iframe>');
+            }
+            else if (_version < 11)
+            {
+                document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2"></a>');
+            }
+            else
+            {
+                document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2"></'+'SCRIPT>');
+            }
+            // -->
+        </script><script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button2"></script>
 
 
 
-</p><p>        <!--- 1st Section: Delivery Attempt via JX tag. --->
-        <script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3?PFteMsCoAtgAAIHSagw">
-        </script>
+</p><p>        
+
+        <!--- 1st Section: Delivery Attempt via JX tag. --->
+        <!--SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3"-->
+        <!--/script-->
 
         <!--- 2nd Section: Browser test; "version" will be set to 10 or 11 --->
         <script language="JavaScript">
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
             <!-- 
-            _version=10; 
-            //-->
+                var _version=10; 
+            // -->
         </script>
         <script language="JavaScript1.1">
-            <!-- 
-            _version=11; 
+            <!-- It is VERY important that the following line be commented like it is -->
+            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
+            <!--
+                var _version=11; 
             // -->
         </script>
 
         <script language="JavaScript">
-        <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
-        <!--
-        if (navigator.appVersion.indexOf('MSIE 3') != -1)
-        {
-            document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3?PFteMsCoAtgAAIHSagw"></iframe>');
-        }
-        else if (_version < 11)
-        {
-            document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3?PFteMsCoAtgAAIHSagw"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3?PFteMsCoAtgAAIHSagw"></a>');
-        }
-        // -->
-        </script>
+            <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
+            <!--
+            if (navigator.appVersion.indexOf('MSIE 3') != -1)
+            {
+                document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3"></iframe>');
+            }
+            else if (_version < 11)
+            {
+                document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3"></a>');
+            }
+            else
+            {
+                document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3"></'+'SCRIPT>');
+            }
+            // -->
+        </script><script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.bakersfield.com/privacy/front@Button1,Button2,Button3!Button3"></script>
 
      <br>
       <img src="/static/images/news/1by1.gif" width="120" height="10"> </p></td>
