@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flowcontrolnetwork.com privacy policy that was archived on 2003-10-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031001221500id_/http%3A//www.flowcontrolnetwork.com/policies/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flowcontrolnetwork.com privacy policy that was archived on 2004-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605151712id_/http%3A//www.flowcontrolnetwork.com/policies/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
 <title>Privacy Policy</title>
@@ -10,240 +10,29 @@ var gMenuControlID=0;
 var menus_included = 0;
 var jsPageAuthorMode = 0;
 var jsSessionPreviewON = 1;
-var jsDlgLoader = '/Policies/loader.cfm';
+var jsDlgLoader = '/Policies/loader.asp';
 var jsSiteID = 7;
 var jsSubSiteID = 11;
 var kurrentPageID = 943;
 // -->
-</script><script language="JavaScript" src="/commonspot/nw-lame.js"></script>
+</script><script language="JavaScript" src="/commonspot/nw-ie.js"></script>
+
+<script language="JavaScript"> <!--
+
+var gShowKeywords = 0;
+var gHaveKeywords = 0;
+
+var js_userID=0;
+
+// -->
+</script>
+<!-- -->
 </head>
-<body lang="en" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF"><a name="__topdoc__"></a><script language="JavaScript"><!--
-// always-include-ie.js  Copyright 1998-2003 PaperThin, Inc. All rights reserved.
-bName = navigator.appName;
-bVer = parseInt(navigator.appVersion);
-var bCanRollover=0
-if ((bName == "Netscape" && bVer >= 3) ||
-(bName == "Microsoft Internet Explorer" && bVer >= 4))
-bCanRollover=1;
-function ImageSet(imgID,newTarget)
-{
-if (bCanRollover)
-document[imgID].src=newTarget;
-}
-function clearStatus()
-{
-window.status = "";
-}
-function setStatbar(statbar)
-{
-var strStatbar=unescape(statbar);
-window.status=strStatbar;
-}
-function onLoadComplete()
-{
-if( menus_included == 1 )
-document.onmouseover = document_mouseover;	// defined in menu_ie.js
-}
-function HandleLink(parentID,link)
-{
-// links are in one of the following formats:
-// 		cpe_60_0,CP___PAGEID=100
-// 		CPNEWWIN:WindowName^params@CP___
-// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
-if( jsPageAuthorMode == 0 )
-{
-windowname = "";
-windowparams = "";
-// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
-pos = link.indexOf("CPNEWWIN:");
-if (pos != -1)
-{
-pos1 = link.indexOf ("^");
-windowname = link.substring (pos+9, pos1);
-pos2 = link.indexOf ("@");
-windowparams = link.substring (pos1 + 1, pos2);
-link = link.substring (pos2 + 1, link.length);
-}
-if (link.indexOf ("CP___") != -1)
-{
-if (windowname == "")
-window.location = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
-else
-{
-urltoopen = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
-windowparams = FormatWindowParams(windowparams);
-window.open (urltoopen, windowname, windowparams);
-}
-}
-else
-{
-if (windowname == "")
-window.location = link;
-else
-{
-windowparams = FormatWindowParams(windowparams);
-window.open (link, windowname, windowparams);
-}
-}
-}
-else if( jsSessionPreviewON == 1 )
-{
-previewLink(link);
-}
-else
-{
-if( document.all[parentID] )
-document.all[parentID].click();
-}
-}
-function doWindowOpen(href,name,params)
-{
-window.open (href, name, params);
-}
-// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
-function FormatWindowParams(windowparams)
-{
-if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
-windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
-{
-windowparams = substringReplace(windowparams,':left=',',left=');
-windowparams = substringReplace(windowparams,'left=','left=');
-windowparams = substringReplace(windowparams,':ww=',',width=');
-windowparams = substringReplace(windowparams,'ww=','width=');
-windowparams = substringReplace(windowparams,':hh=',',height=');
-windowparams = substringReplace(windowparams,'hh=','height=');
-windowparams = substringReplace(windowparams,':loc=',',location=');
-windowparams = substringReplace(windowparams,'loc=','location=');
-windowparams = substringReplace(windowparams,':dir=',',directories=');
-windowparams = substringReplace(windowparams,'dir=','directories=');
-windowparams = substringReplace(windowparams,':tb=',',toolbar=');
-windowparams = substringReplace(windowparams,'tb=','toolbar=');
-windowparams = substringReplace(windowparams,':stat=',',status=');
-windowparams = substringReplace(windowparams,':mb=',',menubar=');
-windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
-windowparams = substringReplace(windowparams,':rs=',',resizable=');
-}
-return windowparams;
-}
-function substringReplace(source,pattern,replacement)
-{
-var pos = 0;
-var target="";
-while ((pos = source.indexOf(pattern)) != (-1))
-{
-target = target + source.substring(0,pos) + replacement;
-source = source.substring(pos+pattern.length);
-pos = source.indexOf(pattern);
-}
-return (target + source);
-}
-// handle scheduled element links
-function show_sched_element(eid)
-{
-evalCol = String(self.element_collection);
-dispFlag = false;
-ua = navigator.userAgent.toLowerCase();
-if (bName == "Netscape" || ua.indexOf('aol') >= 0)
-{
-// cloned from always-include-ns.js
-tmp = "";
-if  (evalCol != 'undefined')
-{
-str = self.location.search;
-for(i=0;i<self.element_collection.length;i++)
-{
-sp = 'sched_elements_' + self.element_collection[i].id;
-if  (self.element_collection[i].id == eid)
-{
-dispFlag = true;
-if  (str == '')
-{
-tmp = "?forceElement=" + eid;
-self.location.search = tmp;
-}
-else
-{
-qArray = str.split("&");
-forceExists = false;
-for(i=0; i < qArray.length; i++)
-{
-el = qArray[i];
-qel = el.split('=');
-if  (qel.length == 1)
-qel[1] = '';
-if  (qel[0] == 'forceElement' || qel[0] == '?forceElement')
-{
-forceExists = true;
-qel[1] = eid;
-}
-qArray[i] = qel;
-}
-// reassemble
-searchStr = '';
-for (i=0; i < qArray.length; i++)
-{
-if  (i == 0)
-searchStr = qArray[i][0] + '=' + qArray[i][1];
-else
-searchStr = searchStr + '&' + qArray[i][0] + '=' + qArray[i][1];
-}
-if  (!forceExists)
-searchStr = searchStr + '&forceElement=' + eid;
-tmp = searchStr;
-self.location.search = searchStr;
-break;
-}
-}
-}
-}
-if  (!dispFlag)
-alert("You do not have access to the requested element.")
-}
-else
-{
-if ( evalCol != 'undefined' )
-{
-for(i=0;i<self.element_collection.length;i++)
-{
-sp = 'sched_elements_' + self.element_collection[i].id;
-obj = document.all.item(sp);
-//alert(sp);
-if ( self.element_collection[i].id == eid && obj != null)
-{
-dispFlag = true;
-if ( obj.length >= 0 )
-{
-for(z=0;z<obj.length;z++)
-{
-obj(z).style.display = 'block';
-}
-}
-else
-document.all(sp).style.display = 'block';
-}
-else if ( obj != null )
-{
-if ( obj.length >= 0 )
-{
-for(z=0;z<obj.length;z++)
-{
-obj(z).style.display = 'none';
-}
-}
-else
-document.all(sp).style.display = 'none';
-}
-}
-}
-if ( !dispFlag )
-alert("You do not have access to the requested element.")
-}
-}
-// --></script>
+<body onload="onLoadFinished();" lang="en" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF"><a name="__topdoc__"></a><script language="JavaScript" src="/commonspot/pagemode/always-include-ie.js"></script>
 <script language="JavaScript"> <!--
 function glblLinkHandler(lobj, attr, val)
 {
-return;
+lobj.style[attr] = val;
 }
 function onLoadFinished()
 {
@@ -259,7 +48,7 @@ var js_gvPageID = 943;
 <table height="61" cellspacing="0" cellpadding="0" width="100%" background="/images/stripe_bg.gif" border="0">
 <tbody>
 <tr>
-<td valign="center" align="left" width="244" height="62"> <a href="/index.cfm">
+<td valign="center" align="left" width="244" height="62"> <a href="/index.asp">
 <img height="89" src="/images/fc_new_logo.gif" width="160" border="0">
 </a></td>
 <td align="middle" width="100%" height="62">
@@ -297,7 +86,7 @@ var js_gvPageID = 943;
 						
 		
 			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=50&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=24"><img src="http://209.208.141.161/images/banners/FC_ISAEXPO2003_banner.gif" align="middle" border="0"></a><br></td></tr>
+			<tbody><tr><td><a href="/commonspot/banner/handlebanner.asp?BannerID=24&amp;bIndex=2"><img src="http://www.flowcontrolnetwork.com/images/Banners/flojet_1_banner.gif" align="middle" border="0"></a><br></td></tr>
 			
 			</tbody></table>				
 		</div><!-- -->
@@ -313,13 +102,13 @@ var js_gvPageID = 943;
 <tbody>
 <tr valign="center" align="middle">
 <td>
-<a href="/media_kit/contactus.htm"><img height="22" src="/images/cn_contact.gif" width="72" border="0"></a>
+<a href="/mediakit/contact_us.asp"><img height="22" src="/images/cn_contact.gif" width="72" border="0"></a>
 </td>
 <td>
-<a href="/aboutus/knowledgebase.cfm"><img height="22" src="/images/cn_siteguide.gif" width="72" border="0"></a>
+<a href="/aboutus/knowledgebase.asp"><img height="22" src="/images/cn_siteguide.gif" width="72" border="0"></a>
 </td>
 <td>
-<a href="/media_kit/index.htm"><img height="22" src="/images/cn_marketing.gif" width="72" border="0"></a>
+<a href="/mediakit/index.asp"><img height="22" src="/images/cn_marketing.gif" width="72" border="0"></a>
 </td>
 </tr>
 </tbody>
@@ -335,7 +124,7 @@ var js_gvPageID = 943;
 <img height="30" src="/images/welcome.gif" width="200">
 <!-- START OF WEBTRENDS LIVE TAG -->
 <!-- Copyright 2002 NetIQ Corporation -->
-<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm -->
+<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.asp -->
 <script language="JavaScript">
 <!--
 // Modification of this code is not allowed and will permanently disable your account!
@@ -385,7 +174,7 @@ document.write('<IMG ID="WTL_146972" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'"
 }
 wtl_Tag5_146972();
 //-->
-</script><img id="WTL_146972" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S146972/button5.asp?tagver=5&amp;si=146972&amp;fw=1&amp;server=&amp;Group=&amp;tz=0&amp;ch=9&amp;cl=K1U9CA7&amp;ti=Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20031001221500id_/http%253A//www.flowcontrolnetwork.com/policies/privacypolicy.cfm&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="WTL_146972" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S146972/button5.asp?tagver=5&amp;si=146972&amp;fw=1&amp;server=&amp;Group=&amp;tz=0&amp;ch=9&amp;cl=K1U9CA7&amp;ti=Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20040605151712id_/http%253A//www.flowcontrolnetwork.com/policies/privacypolicy.asp&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <noscript>
 <IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S146972/button5.asp?tagver=5&si=146972&fw=1&js=No&">
 </noscript>
@@ -420,12 +209,12 @@ wtl_Tag5_146972();
 <tbody>
 <tr>
 <td>
-<a href="/industrynews/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Industry Headlines</b></font></a>
+<a href="/industrynews/index.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Industry Headlines</b></font></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="/news-alerts/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>News Alerts</b></font></a><a>
+<a href="/news-alerts/index.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>News Alerts</b></font></a><a>
 </a></td>
 </tr>
 </tbody>
@@ -439,52 +228,52 @@ wtl_Tag5_146972();
 <tbody>
 <tr>
 <td>
-<a href="/register.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Free Subscription</b></font>
+<a href="/login.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Free Subscription</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/renew/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Renew Subscription</b></font>
+<a href="/login.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Renew Subscription</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/magazine/current-issue/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Current Issue</b></font>
+<a href="/magazine/current-issue/index.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Current Issue</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/magazine/next-issue/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Next Issue</b></font>
+<a href="/magazine/next-issue/index.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Next Issue</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/pastissues/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Past Issues</b></font>
+<a href="/pastissues/index.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Past Issues</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/magazine/submissions.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Submissions</b></font>
+<a href="/magazine/submissions.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Submissions</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/media_kit/contactus.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Contact Staff</b></font>
+<a href="/mediakit/contact_us.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Contact Staff</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/media_kit/editorial_calendar.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Editorial Calendar</b></font>
+<a href="/mediakit/editorial_calendar.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Editorial Calendar</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/community/product_review.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Review Products</b></font>
+<a href="http://www.mediabrains.com/Client/Witter/LM1/lm/default.asp?searchby=product" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Free Product Info</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/community/tech_spotlight.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Technology Spotlight</b></font>
+<a href="/community/tech_spotlight.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Technology Spotlight</b></font>
 </a></td>
 </tr>
 </tbody>
@@ -494,12 +283,12 @@ wtl_Tag5_146972();
 <tbody>
 <tr>
 <td>
-<a href="/community/event_calendar.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Event Calendar</b></font>
+<a href="/community/event_calendar.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Event Calendar</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/community/associations.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Associations</b></font>
+<a href="/community/associations.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Associations</b></font>
 </a></td>
 </tr>
 </tbody>
@@ -509,22 +298,27 @@ wtl_Tag5_146972();
 <tbody>
 <tr>
 <td>
-<a href="/resources/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Standards</b></font>
+<a href="http://witter.365media.com/flowcontrol/search.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Vendor Directory</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/resources/bookshelf.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Bookshelf</b></font>
+<a href="/resources/index.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Standards</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/resources/research.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Research</b></font>
+<a href="/resources/bookshelf.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Bookshelf</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/community/associations.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Links</b></font>
+<a href="/resources/research.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Research</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/community/associations.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Links</b></font>
 </a></td>
 </tr>
 </tbody>
@@ -534,22 +328,22 @@ wtl_Tag5_146972();
 <tbody>
 <tr>
 <td>
-<a href="/media_kit/index.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>About Flow</b></font>
+<a href="/mediakit/index.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>About Flow Control</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/media_kit/index.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Advertise</b></font>
+<a href="/mediakit/index.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Advertise</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/mediakit/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Media Kit</b></font>
+<a href="/mediakit/index.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Media Kit</b></font>
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="/media_kit/contactus.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Contact Us</b></font>
+<a href="/mediakit/contact_us.asp" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Contact Us</b></font>
 </a></td>
 </tr>
 </tbody>
@@ -594,10 +388,7 @@ wtl_Tag5_146972();
 				
 						
 		
-			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=41&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=30"><img src="http://209.208.141.161/images/Banners/att_button.gif" align="middle" border="0"></a><br></td></tr>
-			
-			</tbody></table>				
+			 				
 		</div><!-- -->
 </td>
 </tr>
@@ -639,10 +430,7 @@ wtl_Tag5_146972();
 				
 						
 		
-			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=41&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=30"><img src="http://209.208.141.161/images/Banners/att_button.gif" align="middle" border="0"></a><br></td></tr>
-			
-			</tbody></table>				
+			 				
 		</div><!-- -->
 </td>
 </tr>
@@ -684,10 +472,7 @@ wtl_Tag5_146972();
 				
 						
 		
-			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=41&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=30"><img src="http://209.208.141.161/images/Banners/att_button.gif" align="middle" border="0"></a><br></td></tr>
-			
-			</tbody></table>				
+			 				
 		</div><!-- -->
 </td>
 </tr>
@@ -701,7 +486,7 @@ wtl_Tag5_146972();
 </td>
 <td valign="top" align="middle" width="100%">
 <br>
-<div align="left"><span class="normal"><font face="Verdana,Arial" size="2"><a href="/" onmouseover=" setStatbar('/');  return true;" onmouseout=" setStatbar('');  return true;">Flow Control Network</a></font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&nbsp;&gt;&nbsp;</font></span><span class="normal"><font face="Verdana,Arial" size="2"><a href="/Policies/" onmouseover=" setStatbar('/Policies/');  return true;" onmouseout=" setStatbar('');  return true;">Policies</a></font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&nbsp;&gt;&nbsp;</font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">Privacy Policy</font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&nbsp;</font></span></div><script language="JavaScript"><!--
+<div align="left"><span class="normal"><font face="Verdana,Arial" size="2"><a href="/" onmouseover=" setStatbar('/');  return true;" onmouseout=" setStatbar('');  return true;">Flow Control Network</a></font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&gt;</font></span><span class="normal"><font face="Verdana,Arial" size="2"><a href="/Policies/" onmouseover=" setStatbar('/Policies/');  return true;" onmouseout=" setStatbar('');  return true;">Policies</a></font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&gt;</font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">Privacy Policy</font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&nbsp;</font></span></div><script language="JavaScript"><!--
 bName = navigator.appName;
 bVer = parseInt(navigator.appVersion);
 
@@ -778,9 +563,9 @@ E-Mail: flowcontrolonline@witterpublishing.com</font></font></font></p>
 <tbody>
 <tr>
 <td valign="center" align="middle">
-<font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">SEARCH THE SITE</font></b></font>
+<table><tbody><tr><td align="center" valign="middle" height="13"><a href="/login.asp"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF">Login/Register</font></a></td></tr><tr><td>&nbsp;</td></tr><tr><td><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">SEARCH THE SITE</font></b></font></td></tr></tbody></table>
 <table class="clsControlBorder" border="0" cellpadding="2" cellspacing="0" width="100%" summary="">
-<tbody><tr><td width="100%" valign="top" align="left"> </td></tr> <form action="/searchresults.cfm" method="post" name="dlgform493"></form>
+<tbody><tr><td width="100%" valign="top" align="left"> </td></tr> <form action="/searchresults.asp" method="post" name="dlgform493"></form>
 <tr><td width="100%" valign="top" align="left">
 <input type="hidden" name="searchType" value="text"> <div align="LEFT"><input type="hidden" name="incl_subsites" value="0"><script language="JavaScript"> <!--
 function doLink493()
@@ -805,7 +590,7 @@ document.dlgform493.curpage.value=1;
 return true;
 }
 // -->
-</script> <span class="cpHideForMenus"> <input type="text" name="srchString" value="search criteria" id="cs_search_form" size="12"></span><font size="1"><big><span class="cpHideForMenus"> <input type="button" name="searchbutton" value="GO " onclick="SubmitForm493();" id="" size="10"></span>&nbsp;</big></font> </div></td>
+</script> <span class="cpHideForMenus"> <input type="text" name="srchString" value="search criteria" style="font-size:xx-small" id="cs_search_form" size="12"></span><font size="1"><big><span class="cpHideForMenus"> <input type="button" name="searchbutton" value="GO " onclick="SubmitForm493();" style="font-size:xx-small" id="" size="10"></span>&nbsp;</big></font> </div></td>
 </tr>
 <tr>
 <td valign="baseline">
@@ -835,7 +620,7 @@ return true;
 <tr>
 <td bgcolor="#ffffff">
 <div align="center"><p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br></font></b>
-<a href="/magazine/current-issue/index.cfm"><img height="114" src="/images/fc_may_cov.jpg" width="84" border="0"></a> <br>
+<a href="/magazine/current-issue/index.asp"><img height="114" src="/images/fc_may_cov.jpg" width="84" border="0"></a> <br>
 <font color="#ffffff" face="Verdana, Arial, Helvetica, sans-serif">.</font></p></div>
 </td>
 </tr>
@@ -881,10 +666,7 @@ return true;
 				
 						
 		
-			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=41&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=30"><img src="http://209.208.141.161/images/Banners/att_button.gif" align="middle" border="0"></a><br></td></tr>
-			
-			</tbody></table>				
+			 				
 		</div><!-- -->
 </td>
 </tr>
@@ -935,7 +717,7 @@ return true;
 						
 		
 			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=20&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=20"><img src="http://209.208.141.160/images/120600_sample.gif" align="middle" border="0"></a><br></td></tr>
+			<tbody><tr><td><a href="/commonspot/banner/handlebanner.asp?BannerID=20&amp;PathInfo=/policies/privacypolicy.asp&amp;catid=20"><img src="/images/120600_sample.gif" align="middle" border="0"></a><br></td></tr>
 			
 			</tbody></table>				
 		</div><!-- -->
@@ -954,9 +736,9 @@ return true;
 <tbody>
 <tr valign="center" align="middle" bgcolor="#1f0d7e">
 <td bgcolor="#336699">
-<a href="/register.cfm" style="text-decoration:none;"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Subscribe</font></b></a> |
-<a href="/aboutus/knowledgebase.cfm" style="text-decoration:none;"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Site Map</font></b></a> |
-<a href="/media_kit/index.htm" style="text-decoration:none;"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Advertise</font></b></a>
+<a href="/login.asp" style="text-decoration:none;"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Subscribe</font></b></a> |
+<a href="/aboutus/knowledgebase.asp" style="text-decoration:none;"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Site Map</font></b></a> |
+<a href="/mediakit/index.asp" style="text-decoration:none;"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Advertise</font></b></a>
 </td>
 </tr>
 </tbody></table>
@@ -1009,7 +791,7 @@ return true;
 						
 		
 			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=33&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=24"><img src="http://209.208.141.161/images/banners/flowcat.gif" align="middle" border="0"></a><br></td></tr>
+			<tbody><tr><td><a href="/commonspot/banner/handlebanner.asp?BannerID=27&amp;bIndex=1"><img src="http://www.flowcontrolnetwork.com/images/Banners/VNEBanner.jpg" align="middle" border="0"></a><br></td></tr>
 			
 			</tbody></table>				
 		</div><!-- -->
@@ -1020,13 +802,13 @@ return true;
 </tr>
 <tr>
 <td valign="center" align="middle">
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1">©2003 Witter Publishing, Inc. All rights reserved. Unauthorized use prohibited</font>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1">2003 Witter Publishing, Inc. All rights reserved. Unauthorized use prohibited</font>
 </td>
 </tr>
 <tr>
 <td valign="center" align="middle">
-<a href="/policies/privacypolicy.cfm" style="text-decoration:none;"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Privacy Policy</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/policies/termsofuse.cfm" style="text-decoration:none;"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Terms of Use</font></a>
+<a href="/policies/privacypolicy.asp" style="text-decoration:none;"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Privacy Policy</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/policies/termsofuse.asp" style="text-decoration:none;"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Terms of Use</font></a>
 </td>
 </tr>
 <tr>
@@ -1043,4 +825,5 @@ return true;
 </tr>
 </tbody>
 </table>
+
 </body></html>
