@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209003606id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401123830id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
 
 # MadSci Privacy Policy
 
@@ -45,9 +45,9 @@ We store this information in our monthly log files and use it for the following:
   * In addition, we may opt to supply this information to a user's identified Internet Service Provider concerning any user who abuses our interfaces or who submits materials that are rude, obnoxious, that contain expletives, or threats of any sort. 
   * Beyond these points, MadSci does not disclose, give, sell, or transfer personal information concerning visitors to our website unless required for law enforcement or otherwise required by law. 
 
-More information about Internet Privacy can be found at the [ US Federal Trade Commission](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html). 
+More information about Internet Privacy can be found at the [ US Federal Trade Commission](http://www.ftc.gov/privacy/index.html). 
 
-If you have further questions concerning this policy, please contact us at [webadmin@www.madsci.org](https://web.archive.org/web/20021209003606id_/http%3A//www.madsci.org/info/webadmin@www.madsci.org). 
+If you have further questions concerning this policy, please contact us at [webadmin@www.madsci.org](https://web.archive.org/web/20030401123830id_/http%3A//www.madsci.org/info/webadmin@www.madsci.org). 
 
 * * *
 
