@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the bccresearch.com privacy policy that was archived on 2004-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041102194816id_/http%3A//www.buscom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bccresearch.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405110703id_/http%3A//www.bccresearch.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
+
+Our postal address is 25 Van Zant Street, Norwalk, CT 06855.  
+We can be reached via e-mail at info@bccresearch.com, by phone at 203-853-4266, and by fax at 203-853-0348.
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, and used by us to contact consumers for marketing purposes. 
 
