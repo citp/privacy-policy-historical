@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204194740id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606212057id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
 
 # TechTracker - desktop management solutions and software download tools for Windows, Macintosh, and Palm OS.
-
-[](https://www.truste.org/validate/13167)
-
-TechTracker, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If users have questions or concerns regarding this statement, they should first contact TechTracker Support by emailing support@techtracker.com. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <http://www.truste.org/users/users_watchdog_intro.html> TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
 **This statement discloses the privacy practices for the TechTracker family of web sites (www.techtracker.com, www.versiontracker.com, and www.macfixit.com) hereafter referenced as TechTracker, or "us" or "we."**
 
