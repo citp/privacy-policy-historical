@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614161452id_/http%3A//relevantmagazine.com/copyright.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207023302id_/http%3A//www.relevantmagazine.com/copyright.php) for the most accurate reproduction.*
 
 # RELEVANT magazine :: GOD.LIFE.PROGRESSIVE CULTURE.
 
