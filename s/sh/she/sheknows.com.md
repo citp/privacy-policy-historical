@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604061238id_/http%3A//myria.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202073901id_/http%3A//myria.com/privacy.htm) for the most accurate reproduction.*
 
 # Myria Media, Inc. Privacy Policy Statement
 
