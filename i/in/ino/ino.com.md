@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602161007id_/http%3A//www.ino.com/helpline/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605164405id_/http%3A//www.ino.com/helpline/%3Fprivacy) for the most accurate reproduction.*
 
 # INO Help
 
@@ -22,5 +22,7 @@ Personal information tendered to INO.com is used for a number of reasons, includ
 Where custom portfolio services are concerned, the use of cookies may also be used to facilitate the login process. Please note that nothing in a cookie allows anyone to identify you individually. 
 
 With e-mail, we will only add you to one of our e-mail lists if you have requested it. In addition, all of INO.com's e-mail services are accompanied by a simple-to-use facility for unsubscribing. Another feature underlining our approach to privacy is our policy of excluding e-mail addresses from messages posted in our discussion center, The INO Forum. 
+
+From time to time, we may use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [ click here](http://www.networkadvertising.org/optout_nonppii.asp). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 | 
