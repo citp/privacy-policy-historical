@@ -1,36 +1,80 @@
-> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208164056id_/http%3A//simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616063145id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
 
-# prom dresses, cocktail dresses, and formal wear dress shopping : info
+# Prom Dresses Handbags Gowns Shoes Shawls and Special Occasion Accessories by SimplyDresses.com
 
-**Return Policy**
+**Policies**
 
-Prom Girl is committed to customer satisfaction. Should any item fail to meet your expectations you may return within 7 days of receiving your merchandise. We will issue a refund (less shipping) immediately upon your return of the merchandise. 
+**Return Policy**  
+**Telephone Orders**  
+**Fax Orders**  
+**Delivery Times**  
+**Shipping**  
+**Payment Methods**  
+**Privacy**  
+**Security**  
+**Privacy policy**  
+**Cookies**  
 
-Note: merchandise must be in its original shipping condition with all original tags and labels intact in order for a return to be approved. No returns will be accepted without a return authorization number. 
 
-For questions, please contact our customer care department at 1-888-THE PROM (843 7766) between 10 AM 5 PM EST Mon-Fri or email us at [returns@promgirl.com.](mailto:returns@promgirl.com)
+**Return policy**
 
+Prom Girl is committed to customer satisfaction. Should any item fail to meet your expectations you may call or email us for a Return Authorization number. Merchandise must be shipped at the customer's expense within 5 days of receipt of the purchase. Please note merchandise must be in its original shipping condition with all original tags and labels intact in order for a return to be approved. "Original condition" implies that the garment has not been worn, except to try on for fit and appearance. **No returns will be accepted without a return authorization number which must be written on the front of the package.**
+
+**Dresses** :  We will issue a refund (less shipping) immediately upon your return of the merchandise.  Custom orders will not be accepted for return (this includes dying, adding length, and adding size). 
+
+**Shoes** : There is a 20% restocking fee for all shoe returns.  Orders that are custom dyed will not be accepted for return.
+
+**Handbags** :  There is a 20% restocking fee for all handbag returns.  Orders that are custom dyed will not be accepted for return. 
+
+**Bracelets, shawls, flowers, tee shirts, and beaded straps** :  We will issue a refund (less shipping) immediately upon return of the merchandise. 
+
+**Close out Items, Stay-up ribbon tape, Lingerie, Cosmetics, and visors will not be accepted for return.   **
+
+For questions, please contact our customer care department at 1-888-THE PROM (843 7766) between 10 AM and 12 NOON EST Mon-Fri or email us at [returns@promgirl.com.](mailto:returns@promgirl.com)
+
+\- top of page -
+
+  
 **Telephone Orders**
 
-For customers not wishing to place their order online you may email your phone number to [orders@promgirl.com.](mailto:orders@promgirl.com) Please include an appropriate time to contact you and your time zone or state where you are calling from. One of our service representatives will contact you to take your order information within 24 hours. Or you can call us at our toll free number 1-888-THE PROM (843 7766) 
+For customers not wishing to place their order online you may email your phone number to [orders@promgirl.com.](mailto:orders@promgirl.com) Please include an appropriate time to contact you and your time zone or state where you are calling from. One of our service representatives will contact you to take your order information within 24 hours. Or you can call us at our toll free number 1-888-THE PROM (843 7766) between 10 AM and 12 Noon EST
+
+\- top of page -
 
 **Fax orders**
 
-Customers may fax their order information by printing the [form linked here](https://web.archive.org/web/20031208164056id_/http%3A//simplydresses.com/pdfs/fax_form.pdf) and faxing to 212-656-1780. We will enter your information and you will receive an email confirmation of your order. 
+Customers may fax their order information by printing the [form linked here](http://promgirl.com/pdfs/fax_form.pdf) and faxing to 212-505-0446. We will enter your information and you will receive an email confirmation of your order. 
+
+\- top of page -
 
 **Delivery Times**
 
 We strive to get orders in transit within 72 hours of receipt on all stock merchandise (excluding weekends). You will receive email notification on all back ordered items. 
 
-Our UPS 3 day express service is three business days from the ship date. You receive a confirmation of shipping which will include your UPS tracking number when your order has shipped. 
+Our UPS 3 day shipping service is three business days from the ship date. Please allow 3-5 days for order processing. You will receive a confirmation of shipping which will include your UPS tracking number when your order has shipped. 
+
+Please allow 6 additional weeks for customized dresses, and 5 days for dying handbags and shoes.
+
+\- top of page -
 
 **Shipping**
 
-We have 3 day shipping anywhere in the US. Shipping is calculated by weight and starts at $5.00 for accessories and $10.00 for dresses. There is no additional charge for the e-book download. Since we have made arrangements with different dress vendors, your dress may be shipped directly from the vendor, and you may receive more than one package on multiple orders. 
+We have 3 day shipping anywhere in the US. Shipping is calculated by weight and starts at $5.00 for accessories and $10.00 for dresses. There is no additional charge for the e-book download. Since we have made arrangements with different dress vendors, your dress may be shipped directly from the vendor, and you may receive more than one package on multiple orders.  Shipping to Canada is $25.00 for dresses and $15.00 for accessories.  Please allow 6 additional weeks for customized orders, and 5 additional days for dying handbags and shoes. 
+
+\- top of page -
 
 **Payment Methods**
 
-Prom Girl accepts most major credit cards including, Visa, MasterCard, American Express, and Discover. Unfortunately at this time we are unable to accept debit cards or alternate forms of payment including cash, checks, or C.O.D.'s. 
+We accept Visa, Mastercard, Discover, American Express, Money Order and Paypal. You can pay via checking account using Paypal. To pay for your order with a money order do not place your order online. Mail your money order with your order information to…
+
+Promgirl   
+c/o Kimberly Broomall   
+808 Broadway PHC   
+New York, NY 10003
+
+Please include your name, phone number, email address, shipping address, style number, size and color.
+
+\- top of page -
 
 **Privacy**
 
@@ -39,6 +83,8 @@ Promgirl.com respects the privacy of its customers. Information that you supply 
 You may receive notifications from us about new products, features, or services that we think would interest you. If you would rather not be notified please send an email to [remove@promgirl.com](mailto:remove@promgirl.com) with "remove" in the subject line. If you have given us more than one e-mail address you will need to send us an e-mail from each address. 
 
 We will use non-identifiable information such as IP address and entry point information in the aggregate to help us design and optimize your shopping experience. 
+
+\- top of page -
 
 **Security**
 
@@ -49,6 +95,8 @@ Prom Girl guarantees that your shopping experience will be safe. Under the Fair 
 In the unlikely event of fraudulent use, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
 Tax Information Applicable state and local sales tax will be added to all orders shipped to New York addresses. Sales tax will not be charged on shipments to recipients outside New York. 
+
+\- top of page -
 
 **PRIVACY POLICY**
 
@@ -72,6 +120,8 @@ Some versions of firewalls don't permit communication through secure servers. In
 
 If you cannot access a secure server for any reason, please feel free to use our offline order form available upon check out, or place your order by phone. 
 
+\- top of page -
+
 **Cookies, what are they? How and why we use them.**
 
 Cookies are bits of electronic information that a website can transfer to your computer's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow web site operators to better customize site visits to the visitor's preferences. The use of cookies is standard on the Internet and many major websites use them. 
@@ -80,10 +130,8 @@ PromGirl.com uses cookies to identify returning registrants to the site so we ca
 
 Although most browsers automatically accept cookies, you can usually change your browser to prevent cookies or notify you whenever you are sent a cookie. This gives you the option to decide whether or not to accept it. 
 
-**How to change or modify your personal information**
-
-Changing your PromGirl.com account information is easy. Simply click on My Account to access and make changes to your PromGirl.com profile - you can update your e-mail address, password and user name. You will have the opportunity to change your shipping or billing information during the check out process. If you have any questions about your account, please do not hesitate to e-mail us at myaccount@Promgirl.com. 
+\- top of page -
 
 ******************
 
-Our Web site uses a reputable third party to serve the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.sonar.com/content/privacy.htm). 
+Our Web site uses a reputable third party to serve the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.sonar.com/content/privacy.htm).
