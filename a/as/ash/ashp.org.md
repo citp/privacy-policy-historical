@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206095800id_/http%3A//ashp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203200000id_/http%3A//ashp.org/privacy.html) for the most accurate reproduction.*
 
 # ASHP Privacy Statement
 
@@ -8,10 +8,7 @@ for
 
 www.ashp.org
 
-| 
-
-[](https://www.truste.org/validate/4847)  
-  
+|   
 ---|---  
   
 The American Society of Health-System Pharmacists (ASHP) has created this statement in order to demonstrate our firm commitment to privacy. ASHP is also a licensee of TRUSTe. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected and how that information may be shared. The following discloses our information gathering and dissemination practices for www.ashp.org. 
@@ -73,7 +70,7 @@ Bethesda, MD 20814
 Maintaining the integrity of data collected at www.ashp.org is of utmost important to ASHP. Credit card information is transmitted in encrypted form. Personally identifiable information is stored behind password protection. ASHP has a prudent password rotation policy that is clearly communicated to all staff. Routine backups are made and stored securely. 
 
 **QUESTIONS**   
-If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, please contact: 
+If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, please contact the ASHP Web division: 
 
-Erik Granered Director, World Wide Web Communications American Society of Health-System Pharmacists 7272 Wisconsin Avenue Bethesda, MD 20814 [egranered@ashp.org](mailto:egranered@ashp.org)   
+American Society of Health-System Pharmacists 7272 Wisconsin Avenue Bethesda, MD 20814 [www@ashp.org](mailto:www@ashp.org)   
 
