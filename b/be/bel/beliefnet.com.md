@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603052821id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125102207id_/http%3A//beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Beliefnet; The source for Spirituality, Religion and Morality
+# Beliefnet.com
 
 | 
 
