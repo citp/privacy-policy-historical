@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217035600id_/http%3A//www2.jdpower.com/global/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409012213id_/http%3A//www.jdpower.com/global/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
 
 # The J.D. Power Consumer Center - Privacy Policy
 
