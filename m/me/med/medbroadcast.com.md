@@ -1,82 +1,86 @@
-> *The following text is extracted and transformed from the medbroadcast.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203175100id_/http%3A//www.medbroadcast.com/about_this_site/index.shtml%3Fprivacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medbroadcast.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603021622id_/http%3A//www.medbroadcast.com/channel_section_details.asp%3Fchannel_id%3D1031%26relation_id%3D386%26text_id%3D2229) for the most accurate reproduction.*
 
-# medbroadcast.com | ABOUT THIS SITE
+# Privacy statement
 
-**TRUSTe PRIVACY PROGRAM**  
-This confirms that medbroadcast.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for medbroadcast.com. 
+|  Privacy statement
 
-TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
+ **Welcome**
 
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under medbroadcast.com’s control. 
-  7. How you can correct any inaccuracies in the information.
+This Privacy Policy is designed to inform you of Medbroadcast practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this Privacy Policy, in its entirety, before using or submitting information to this site. Please note: This site is intended for use by residents of Canada. 
+
+**Your Consent**
+
+By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information, personal or otherwise, in accordance with this Privacy Policy. 
+
+Please be advised that Medbroadcast makes every effort to protect your personal information and abides by the Personal Information Protection and Electronic Documents Act (also known as PIPEDA or Bill C6), which requires that consent be obtained in all instances where personal information is requested. 
+
+**What is "Personal Information"?**
+
+Simply stated, personal information is factual information that is not already available in a public directory, such as a telephone book; or on your business card. Examples of personal information include age, full name, weight, height, medical records, ID numbers (driver's license, health card), ethnic origin, or blood type. 
+
+**About Children**
+
+This site is not intended for children under the age of 13. We will not knowingly collect information from site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Websites. 
+
+**Active Information Collection**
+
+Like many websites, this site actively collects information from its visitors both by asking specific questions and by permitting them to communicate directly with us via e-mail, feedback forms, and/or discussion boards. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number, and so on). Some areas of this site may require you to submit information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, order processing) or to participate in a particular activity (such as sweepstakes or other promotions). You will be informed at each information collection point what information is required and what information is optional. Links or reference to this privacy policy will be made available at such collection points. 
+
+**Passive Information Collection**
+
+As you navigate through a Website, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies and means, such as Internet Protocol addresses, cookies, Internet tags, and navigational data collection. We use Internet Protocol (IP) addresses on this site. An IP Address is a number assigned to your computer by your Internet Service Provider so you can access the Internet; it is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). We use your IP address to diagnose problems with our server, report aggregate information, determine the fastest route for your computer to use in connecting to our site, and administer and improve the site. A "cookie" is information that a Web site sends to your Web browser that helps the site remember information about you and your preferences. "Session" cookies are temporary bits of information that are erased upon closing your Web browser window or otherwise turn your computer off. Session cookies are used to improve navigation on Web sites and to collect aggregate statistical information. This site uses session cookies. "Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (e.g., passwords), helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site based on your preferences. This site uses persistent cookies. "Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web site server information such as the IP address and browser type related to the visitor's computer. We use Internet tags at this site. Tags have been placed both on online advertisements that bring people to the site and on different pages of the site. These tags indicate how many times a page is opened and which information is consulted. We do not collect or seek personally identifiable information through these tags. "Navigational data" ("log files", "server logs", and "clickstream" data) are used for system management, to improve the content of the site for market research purposes, and to communicate information to visitors. This site uses navigational data. 
+
+**Use and Disclosure of Information**
+
+Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it through a newsletter signup or otherwise), for our marketing and research purposes, and for the purposes specified in this Privacy Policy. If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We will take reasonable measures to prevent personally identifiable information from being combined with passively collected information, unless you consent otherwise. We may disclose your personally identifiable information to our affiliates that agree to treat it in accordance with this Privacy Policy. In addition, we may disclose your personally identifiable information to third parties, but only: 
+
+  1. to contractors we use to support our business (e.g., fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy;
+  2. in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy; or 
+  3. where required by applicable laws, court orders, or government regulations. 
+
+In addition, we will make full use of all information acquired through this site that is not deemed personally identifiable. 
+
+**Access and Correction**
+
+To keep your personally identifiable information accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this site. 
+
+**Security**
+
+We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, e-mail sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, when using passwords, ID numbers, or other special access features, on this site, it is your responsibility to safeguard them. 
+
+**Links to Other Websites**
+
+This site may contain links or references to other Websites. Please be aware that we do not control other Websites and that, in any case, this Privacy Policy does not apply to those Websites. We encourage you to read the privacy policy of every Website you visit. 
+
+**Other Terms**
+
+Your use of this site is subject to our Terms and Conditions 
+
+**How to Contact Us**
+
+If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows: 
+
+[privacyofficer@medbroadcast.com](mailto:%20privacyofficer@medbroadcast.com?subject=Contact%20Privacy%20Officer%20at%20MediResource.com) or  
+[webmaster@medbroadcast.com](https://web.archive.org/web/20040603021622id_/http%3A//www.medbroadcast.com/contact_us.asp)
+
+Virtual Learning Inc.  
+18 Wynford Drive, Suite 507  
+Toronto, Ontario  
+M3C 3S2  
+416-383-0010 
+
+**Changes to This Privacy Policy**
+
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on 2003-11-27.
+
+  
+Was this article helpful to you? Rate this article on a scale of 1 to 5 (5 = Excellent)
+
+[5](https://web.archive.org/channel_section_details.asp?channel_id=1031&relation_id=386&text_id=2229&rating=5#ratings)[4](https://web.archive.org/channel_section_details.asp?channel_id=1031&relation_id=386&text_id=2229&rating=4#ratings)[3](https://web.archive.org/channel_section_details.asp?channel_id=1031&relation_id=386&text_id=2229&rating=3#ratings)[2](https://web.archive.org/channel_section_details.asp?channel_id=1031&relation_id=386&text_id=2229&rating=2#ratings)[1](https://web.archive.org/channel_section_details.asp?channel_id=1031&relation_id=386&text_id=2229&rating=1#ratings)  
+  
+What's your opinion on this topic? Have your say in our [Health eTalk Forums](https://web.archive.org/web/20040603021622id_/http%3A//www.medbroadcast.com/health_etalk_forums/default.asp).  
 
 
+[](https://web.archive.org/web/20040603021622id_/http%3A//www.medbroadcast.com/channel_section_details_pf.asp?channel_id=1031&relation_id=386&text_id=2229)
 
-If you have questions or concerns regarding this statement, you should first contact the Customer Service Department at medbroadcast.com by e-mail [customerservice@medbroadcast.com ](https://web.archive.org/about_us/contact_us/index.asp?status=contact_us_sel.asp&dept=1)or by regular mail at: 
-
-Medbroadcast Corporation  
-Customer Service Department  
-Suite 250, Marine Building  
-355 Burrard Street  
-Vancouver, British Columbia  
-Canada  
-V6C 2G8 
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org/users/watchdog.html](https://web.archive.org/health_topics/frame_page2.html?www.truste.org/users/watchdog.html) TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
-
-**OUR PRIVACY STATEMENT**  
-At medbroadcast.com we are committed to protecting your privacy. Our goal is to make your online experience with us, easy, safe and secure. Wherever possible we allow you to give us as much or as little personal information as you feel comfortable providing. 
-
-**Membership information**  
-To browse through our health information content, we do not require you to provide any information. To use our unique health management tools or to post messages on our message boards, you do need to become a member. This requires you to enter your e-mail address, that you select a user name and password, and provide basic demographic information. The latter is used by us to tailor the site to our users needs, and is not shared with anyone else. 
-
-The information you enter in "My Health Record" or "My Workbook" is password protected and can only be accessed by you, or by someone to whom you have given your user name and password. Medbroadcast.com cannot access this information through normal methods and does not use or maintain any information entered in these areas. This information is solely for your personal use. 
-
-If you wish to change, remove, or review your membership information, simply log in, select the "change registration information" link and follow the instructions provided. 
-
-**My Health Record**  
-We use Secure Socket Layer (SSL) to ensure that your personal information is not accessible to any unauthorized party. 
-
-Here is how it works:  
-When you type in your personal information, medbroadcast.com establishes a secure connection with your browser so your information is ‘encrypted’, or scrambled, on a special server. This means that any third party that may view the message will not be able to read the information contained within it. All these processes take place behind a “firewall” which protects your information from unauthorized users such as hackers. 
-
-**Cookies**  
-A cookie is a very small piece of text that is placed on your computer’s hard drive. The purpose of a cookie is to let us know when someone visits our website. This text, by itself, merely tells us that a previous visitor has returned; it doesn’t tell us anything about who you are, your e-mail address, or anything personal. 
-
-Cookies help us evaluate how people use our site, what areas they frequent and what areas they don’t. In addition, cookies allow a web site to ask membership questions only once. As a result, the next time you return to the web site you will not need to enter membership information again. Cookies are incapable of doing anything to your hard drive. 
-
-You can still access the information on our site if your browser is set to not accept cookies; however; if you wish to use My Health Record or other member services you will need to allow a cookie to be set, or access will not be granted. 
-
-**Advertising**  
-In order for us to provide health information at no charge, we display advertisements on our site. These are primarily in the form of rectangular banner or square button advertisements which are located on various pages of the site. We provide advertisers with general information about our audience which helps to provide advertisements that are relevant to the site. We do not, however, provide advertisers with any information about specific individuals. 
-
-**The information we collect**  
-We gather site usage information and traffic patterns to help us develop the design and layout of the site and to continuously improve your experience at medbroadcast.com. We may share aggregate, non-personal, statistical information regarding our customers and traffic patterns and site usage with our partners. Without your express permission, we will NEVER reveal your personal identity or preferences. 
-
-To improve the design and layout of the site, we collect non-personal information such as IP address, ISP and Browser information. This is for internal use only, and we do not share it with any third parties. 
-
-**e-mail**  
-You may also decide to receive regular newsletters from us including updates and announcements about our health information content. You will only receive such communication if you specifically request it. You can do so by going to the Newsletter section on the home page and entering your e-mail address or selecting the “subscribe” link. To cancel your subscription, either select the “un-subscribe” link at the end of the newsletter or use the “subscribe” link from the home page and follow the instructions. 
-
-If you elect to use our referral “send to a friend” service for informing a friend about our site, we ask for the friend’s name and e-mail address. medbroadcast.com will automatically send the friend a one-time e-mail inviting them to visit the site. medbroadcast.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact medbroadcast.com to request the removal of this information from the database. 
-
-**Changes to the privacy statement**  
-medbroadcast.com will notify its members by e-mail, of any changes to the privacy statement. Changes will also be posted on the “welcome back “ page, for returning members. 
-
-**Links to other sites**  
-We provide links to a number of other sites that we believe can offer you useful information and services. However, we are not responsible for the privacy policies of or any actions of any third parties that control the activities of such third-party sites. We suggest contacting the relevant parties controlling these sites or accessing their online policies for the relevant information about their data collection. 
-
-If you have comments or questions regarding our privacy policy, please direct them to our Customer Service Department. Our e-mail address is [customerservice@medbroadcast.com](https://web.archive.org/about_us/contact_us/index.asp?status=contact_us_sel.asp&dept=1) or write to us at: 
-
-Medbroadcast Corporation  
-Customer Service Department  
-Suite 250, Marine Building  
-355 Burrard Street  
-Vancouver, British Columbia  
-Canada  
-V6C 2G8 
+| 
