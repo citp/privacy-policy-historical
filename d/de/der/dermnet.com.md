@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dermnet.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202165159id_/http%3A//www.dermnet.com/aipages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dermnet.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404075216id_/http%3A//www.dermnet.com/aipages/privacy.html) for the most accurate reproduction.*
 
 # DermNet.com - The Dermatologist's Image Resource
 
