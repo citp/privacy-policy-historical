@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pantagraph.com privacy policy that was archived on 2002-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021211221016id_/http%3A//www.pantagraph.com/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pantagraph.com privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621161216id_/http%3A//www.pantagraph.com/info/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -16,48 +16,43 @@
 				<td width="287"><a href="http://www.pantagraph.com"><img src="/images/primary2001/flag2002.gif" alt="" height="74" width="287" border="0"></a></td>
 				<td valign="middle"><script language="JavaScript"><!--
 
+function bannerObj(src,url) {
+	if (src == null) src = "http://www.pantagraph.com/advertising/banners/house/blank.gif";
+	if (url == null) url = "";
+	this.src = src;
+	this.url = url;
+}
+
 function randomBanner() {
 
-	var imageSrc = new Array();   // Define all the image locations
-		imageSrc[0] = "http://www.pantagraph.com/advertising/banners/house/carrier1.gif";
-		imageSrc[1] = "http://www.pantagraph.com/advertising/banners/house/carrier2.gif";
-		imageSrc[2] = "http://www.pantagraph.com/advertising/banners/house/restaurantguide_ban.gif";
-		imageSrc[3] = "http://www.pantagraph.com/advertising/banners/house/savetimeban.gif";
-		imageSrc[4] = "http://www.pantagraph.com/advertising/banners/house/classban1.gif";
-		imageSrc[5] = "http://www.pantagraph.com/advertising/banners/house/classban2.gif";
-		imageSrc[6] = "http://www.pantagraph.com/advertising/banners/house/svcguide_ban.gif";
-		imageSrc[7] = "http://www.pantagraph.com/advertising/banners/house/archive_ban.gif";
-		imageSrc[8] = "http://www.pantagraph.com/advertising/banners/house/cityline_ban.gif";
-		imageSrc[9] = "http://www.pantagraph.com/advertising/banners/house/wedguide_ban.gif";
-		imageSrc[10] = "http://www.pantagraph.com/advertising/banners/house/savetimeban2.gif";
-		imageSrc[11] = "http://www.pantagraph.com/advertising/banners/house/blank.gif";
-		
-	var link = new Array();     // Define all the link-to URLs
-		link[0] = "http://www.pantagraph.com/info/carrierinfo.html";
-		link[1] = "http://www.pantagraph.com/info/carrierinfo.html";
-		link[2] = "http://www.pantagraph.com/special/restaurantguide/index.html";
-		link[3] = "http://www.pantagraph.com/info/delivery.html";
-		link[4] = "http://www.PantagraphClassifieds.com";
-		link[5] = "http://www.PantagraphClassifieds.com";
-		link[6] = "http://www.pantagraph.com/special/serviceguide";
-		link[7] = "http://www.pantagraph.com/info/archive_search.html";
-		link[8] = "http://www.pantagraph.com/misc/cityline.html";
-		link[9] = "http://www.pantagraph.com/special/weddingguide";
-		link[10] = "http://www.pantagraph.com/info/delivery.html";
-		link[11] = "#top";
+	var banner = new Array(); // First argument for bannerObj is image src location; second argument is the click-through URL
+	
+	banner[0] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/carrier1.gif","http://www.pantagraph.com/info/carrierinfo.html");
+	banner[1] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/carrier2.gif","http://www.pantagraph.com/info/carrierinfo.html");
+	banner[2] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/restaurantguide_ban.gif","http://www.pantagraph.com/special/restaurantguide/index.html");
+	banner[3] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/savetimeban.gif","http://www.pantagraph.com/info/delivery.html");
+	banner[4] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/savetimeban2.gif","http://www.pantagraph.com/info/delivery.html");
+	banner[5] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/classban1.gif","http://www.PantagraphClassifieds.com");
+	banner[6] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/classban2.gif","http://www.PantagraphClassifieds.com");
+	banner[7] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/svcguide_ban.gif","http://www.pantagraph.com/special/serviceguide");
+	banner[8] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/archive_ban.gif","http://www.pantagraph.com/info/archive_search.html");
+	banner[9] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/wedguide_ban.gif","http://www.pantagraph.com/special/weddingguide");
+	banner[10] = new bannerObj("http://www.pantagraph.com/advertising/banners/house/hmkt_ban.gif","http://www.PantagraphHomeMarket.com/");
+	banner[11] = new bannerObj();
 
-		var rand = Math.floor(Math.random() * imageSrc.length);
-		
-		document.write('<a href="' + link[rand] + '"><img src="' + imageSrc[rand] + '" width="468" height="60" border="0" alt="Advertisement"></a>');
-
+	var rand = Math.floor(Math.random() * banner.length);
+	
+	if (banner[rand].url != "") document.write('<a href="' + banner[rand].url + '">');
+	document.write('<img src="' + banner[rand].src + '" width="468" height="60" border="0" alt="">');
+	if (banner[rand].url != "") document.write('</a>');
 }
 
 randomBanner();
 
-// --></script><a href="http://www.pantagraph.com/info/archive_search.html"><img src="http://www.pantagraph.com/advertising/banners/house/archive_ban.gif" width="468" height="60" border="0" alt="Advertisement"></a>
+//--></script><a href="http://www.PantagraphHomeMarket.com/"><img src="http://www.pantagraph.com/advertising/banners/house/hmkt_ban.gif" width="468" height="60" border="0" alt=""></a>
 
 <noscript><a href="http://www.pantagraph.com/info/delivery.html">
-<img height="60" width="468" src="/advertising/banners/house/savetimeban.gif" border="0" alt="Advertisement"></a></noscript></td>
+<img height="60" width="468" src="/advertising/banners/house/savetimeban.gif" border="0" alt=""></a></noscript></td>
 			</tr>
 		</tbody></table>
 		<!-- BEGIN TAB NAVIGATION BAR -->
@@ -216,7 +211,12 @@ a.navlinkHead:active { font-family: Verdana, Arial, Helvetica, sans-serif; font-
 
 --></style>
 
-<table border="0" cellpadding="3" cellspacing="0" width="120" bgcolor="#0000cd">
+<noscript>
+	<tr>
+		<td><a class="navlink" href="http://www.pantagraph.com/search-pantagraph/">Search</a></td>
+	</tr>
+	<tr>
+</noscript><table border="0" cellpadding="3" cellspacing="0" width="120" bgcolor="#0000cd">
 	<tbody><tr>
 		<td bgcolor="navy">
 			<center>
@@ -253,6 +253,7 @@ a.navlinkHead:active { font-family: Verdana, Arial, Helvetica, sans-serif; font-
 	<tr>
 		<td><a class="navlink" href="/archive.html">Archive</a></td>
 	</tr>
+
 	<tr>
 		<td bgcolor="navy">
 			<center>
@@ -296,9 +297,6 @@ a.navlinkHead:active { font-family: Verdana, Arial, Helvetica, sans-serif; font-
 		<td><a class="navlink" href="http://www.newacquaintances.com">Personals</a></td>
 	</tr>
 	<tr>
-		<td><a class="navlink" href="/ent/games.html">Games</a></td>
-	</tr>
-	<tr>
 		<td><a class="navlink" href="/special/18below/">Teens</a></td>
 	</tr>
 	<tr>
@@ -327,16 +325,13 @@ a.navlinkHead:active { font-family: Verdana, Arial, Helvetica, sans-serif; font-
 			B-N Market</a></td>
 	</tr>
 	<tr>
-		<td><a class="navlink" href="/info/delivery.html">Pantagraph Circulation</a></td>
-	</tr>
-	<tr>
-		<td><a class="navlink" href="/misc/cityline.html">CITYLINE</a></td>
-	</tr>
-	<tr>
 		<td bgcolor="navy">
 			<center>
-				<a class="navlinkHead" href="/info/infoindex.html">Info, Contacts, Tools</a></center>
+				<a class="navlinkHead" href="/info/customerservice.html">Customer Service</a></center>
 		</td>
+	</tr>
+	<tr>
+		<td><a class="navlink" href="/info/delivery.html">Pantagraph Delivery</a></td>
 	</tr>
 	<tr>
 		<td><a class="navlink" href="/info/contacts.html">Contact Us</a></td>
@@ -351,7 +346,7 @@ a.navlinkHead:active { font-family: Verdana, Arial, Helvetica, sans-serif; font-
 		<td><a class="navlink" href="/info/privacy.html">Privacy Policy</a></td>
 	</tr>
 	<tr>
-		<td><a class="navlink" href="/info/copyright.html">Copyright/ Terms of Use</a></td>
+		<td><a class="navlink" href="/info/copyright.html">Copyright/<br>Terms of Use</a></td>
 	</tr>
 	<tr>
 		<td><a class="navlink" href="/info/help.html">Web Site Help</a></td>
@@ -416,8 +411,8 @@ height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
 								<p>E-mails or other electronic submissions that indicate they are intended as letters to the editor may be published in The Pantagraph's opinion section. Inclusion of personal identifiable information is required to be considered for publication. We do not use this information for any other purpose.</p>
 								<p><b>Opinion polls</b></p>
 								<p>Pantagraph.com opinion polls allow users to submit their opinions on various topics. No submitted opinion is linked with a user's personal identifiable information; poll submissions are completely anonymous.</p>
-								<p><b>"Recommend this page to a friend"</b></p>
-								<p>Users can forward a story or page to someone else by clicking the link at the bottom of some pages. The user must provide his/her email address to tell the recipient who sent the story. Users can also choose to include a message. None of this information is used or tracked for any other purpose.</p>
+								<p><b>"E-mail this page"</b></p>
+								<p>Users can forward a story or page to someone else by clicking the "E-mail this page" link at the bottom of most pages. The user must provide his/her email address to tell the recipient who sent the story. Users can also choose to include a message. None of this information is used or tracked for any other purpose.</p>
 								<p><b>Contests</b></p>
 								<p>Pantagraph.com occasionally administers contests in which participants must register. Required information always includes at least name and basic contact information. Sometimes more information is required. The rules and terms of each contest can vary. Contests may be run in cooperation with advertisers or businesses. In cases where registration information may be shared with those parties, notices will appear on the contest entry form.</p>
 								<p><b>Browser cookies</b></p>
@@ -438,133 +433,180 @@ height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
 						<tr>
 							<td class="infoBox">
 								<center>
-									<!-- *** BEGIN 120x90 BUTTON 1 *** -->
+									<center>
+
+<!--***** BEGIN OBJECT CREATOR SCRIPT *****-->
 
 <script language="JavaScript"><!--
 
-// Generate a random button
-
-function randomButton() {
-
-	var imageSrc = new Array();   // Define all the image locations
-		imageSrc[0] = "http://www.pantagraph.com/advertising/buttons/house/autos_btn.gif";
-		imageSrc[1] = "http://www.pantagraph.com/advertising/buttons/house/restaurantguide_btn.gif";
-		imageSrc[2] = "http://www.pantagraph.com/advertising/buttons/house/servicebtn.gif";
-		imageSrc[3] = "http://www.pantagraph.com/advertising/buttons/house/restaurantguide_btn.gif";
-		imageSrc[4] = "http://www.pantagraph.com/advertising/buttons/house/weddingbtn.gif";
-		imageSrc[5] = "http://www.pantagraph.com/advertising/buttons/house/archivebtn.gif";
-		imageSrc[6] = "http://www.pantagraph.com/advertising/buttons/house/citylinebtn.gif";
-		
-		
-	var link = new Array();     // Define all the link-to URLs
-		link[0] = "http://bloomington.autochooser.com/publisher_files/index.htm";
-		link[1] = "http://www.pantagraph.com/special/restaurantguide/index.html";
-		link[2] = "http://www.pantagraph.com/special/serviceguide/";
-		link[3] = "http://www.pantagraph.com/special/restaurantguide/";
-		link[4] = "http://www.pantagraph.com/special/weddingguide/";
-		link[5] = "http://www.pantagraph.com/info/archive_search.html";
-		link[6] = "http://www.pantagraph.com/misc/cityline.html";
-
-		var rand = Math.floor(Math.random() * imageSrc.length);
-		document.write('<a href="' + link[rand] + '"><img src="' + imageSrc[rand] + '" width="120" height="90" border="0" alt=""></a><br>');
+function btnObj(src,url,height) {
+	if (src == null) src = "http://www.pantagraph.com/advertising/buttons/house/savetimebtn.gif";
+	if (url == null) url = "http://www.pantagraph.com/info/delivery.html";
+	if (height == null) height = 90;
+	this.src = src;
+	this.url = url;
+	this.height = height;
 }
 
-randomButton();
+//--></script>
 
-// -->
-</script><a href="http://www.pantagraph.com/special/restaurantguide/index.html"><img src="http://www.pantagraph.com/advertising/buttons/house/restaurantguide_btn.gif" width="120" height="90" border="0" alt=""></a><br>
-
-
-<noscript><a href="http://www.pantagraphautos.com">
-<img height="90" width="120" src="/advertising/buttons/house/autos_btn.gif" border="0" alt=""></a><br></noscript>
-
-
-<hr noshade="" size="1">
+<!--***** END OBJECT CREATOR SCRIPT *****-->
 
 
 
 
-<!-- *** BEGIN 120x90 BUTTON 2 *** -->
+
+<!--***** BEGIN 120x600 SKYSCRAPER *****-->
 
 <script language="JavaScript"><!--
 
-// Generate a random button
+var skyscraper = (Math.random() < 0.7);  // GLOBAL TRUE/FALSE VARIABLE
 
-function randomButton() {
+function randomSky() {
 
-	var imageSrc = new Array();   // Define all the image locations
-		imageSrc[0] = "http://www.pantagraph.com/advertising/buttons/house/savetimebtn.gif";
-		imageSrc[1] = "http://www.pantagraph.com/advertising/buttons/house/savetimebtn.gif";
+	var sky = new Array(); // First argument for btnObj is image src location; second argument is the click-through URL
+	
+	sky[0] = new btnObj("http://www.pantagraph.com/advertising/banners/house/newacq_sky01.gif","http://www.newacquaintances.com",600);
+	sky[1] = new btnObj("http://www.pantagraph.com/advertising/banners/house/csdirectory_sky.gif","http://www.pantagraph.com/advertising/csdirectory.html",600);
+	sky[2] = new btnObj("http://www.pantagraph.com/advertising/banners/house/10for40_sky.gif","http://www.pantagraph.com/info/promo1040.html",600);
+	sky[3] = new btnObj("http://www.pantagraph.com/advertising/banners/house/archive_sky.gif","http://www.pantagraph.com/info/archive_search.html",600);
+	sky[4] = new btnObj("http://www.pantagraph.com/advertising/banners/house/moonlight_sky.gif","http://www.pantagraph.com/info/carrierinfo.html",600);
+	sky[5] = new btnObj("http://www.pantagraph.com/advertising/banners/house/svcguide_sky.gif","http://www.pantagraph.com/special/serviceguide/",600);
 
-	var link = new Array();     // Define all the link-to URLs
-		link[0] = "http://www.pantagraph.com/info/delivery.html";
-		link[1] = "http://www.pantagraph.com/info/delivery.html";
-
-	if (imageSrc.length	!= link.length) document.write("[Array parameters not equal]");  // Check to see if No. of images is same as No. of links
-
-	else {
-		var rand = Math.floor(Math.random() * imageSrc.length);
-		document.write('<a href="' + link[rand] + '"><img src="' + imageSrc[rand] + '" width="120" height="90" border="0" alt=""></a><br>');
-	}
+	var rand = Math.floor(Math.random() * sky.length);
+	
+	if (sky[rand].url != "") document.write('<a href="' + sky[rand].url + '">');
+	document.write('<img src="' + sky[rand].src + '" width="120" height="' + sky[rand].height + '" border="0" alt="">');
+	if (sky[rand].url != "") document.write('</a>');
+	document.write('<br>');
 }
 
-randomButton();
+if (skyscraper) randomSky();
 
-// -->
-</script><a href="http://www.pantagraph.com/info/delivery.html"><img src="http://www.pantagraph.com/advertising/buttons/house/savetimebtn.gif" width="120" height="90" border="0" alt=""></a><br>
+//--></script>
 
-
-<noscript><a href="http://www.pantagraph.com/special/restaurantguide/">
-<img height="90" width="120" src="/advertising/buttons/house/restaurantguide_btn.gif" border="0" alt=""></a><br></noscript>
-
-<hr noshade="" size="1">
+<!--***** END 120x600 SKYSCRAPER *****-->
 
 
 
-<!-- *** BEGIN 120x90 BUTTON 3 *** -->
+
+<!--***** BEGIN 120x240 VERTICAL *****-->
 
 <script language="JavaScript"><!--
 
-// Generate a random button
+function randomBtn() {
 
-function randomButton() {
+	var btn = new Array(); // First argument for btnObj is image src location; second argument is the click-through URL
+	
+	btn[0] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/newacq240v01.gif","http://www.newacquaintances.com",240);
+	btn[1] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/newacq240v02.gif","http://www.newacquaintances.com",240);
+	btn[2] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/newacq240v03.gif","http://www.newacquaintances.com",240);
+	btn[3] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/newacq240v04.gif","http://www.newacquaintances.com",240);
+	btn[4] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/newacq240v05.gif","http://www.newacquaintances.com",240);
+	btn[5] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/moonlight_240v.gif","http://www.pantagraph.com/info/carrierinfo.html",240);
+	btn[6] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/savetime_240v.gif","http://www.pantagraph.com/info/delivery.html",240);
 
-	var imageSrc = new Array();   // Define all the image locations
-		imageSrc[0] = "http://www.pantagraph.com/advertising/buttons/house/turnpage.gif";
-		imageSrc[1] = "http://www.pantagraph.com/advertising/buttons/house/adhere_btn.gif";
-		imageSrc[2] = "http://www.pantagraph.com/advertising/buttons/house/class1.gif";
-		imageSrc[3] = "http://www.pantagraph.com/advertising/buttons/house/class2.gif";
-		imageSrc[4] = "http://www.pantagraph.com/advertising/buttons/house/class3.gif";
-		imageSrc[5] = "http://www.pantagraph.com/advertising/buttons/house/class4.gif";
-		imageSrc[6] = "http://www.pantagraph.com/advertising/buttons/house/class5.gif";
-		imageSrc[7] = "http://www.pantagraph.com/advertising/buttons/house/class6.gif";
-		imageSrc[8] = "http://www.pantagraph.com/advertising/buttons/house/class7.gif";
-		imageSrc[9] = "http://www.pantagraph.com/advertising/buttons/house/class8.gif";
-
-	var link = new Array();     // Define all the link-to URLs
-		link[0] = "http://www.pantagraph.com/advertising/adinfo.html";
-		link[1] = "http://www.pantagraph.com/advertising/adinfo.html";
-		link[2] = "http://www.PantagraphClassifieds.com";
-		link[3] = "http://www.PantagraphClassifieds.com";
-		link[4] = "http://www.PantagraphClassifieds.com";
-		link[5] = "http://www.PantagraphClassifieds.com";
-		link[6] = "http://www.PantagraphClassifieds.com";
-		link[7] = "http://www.PantagraphClassifieds.com";
-		link[8] = "http://www.PantagraphClassifieds.com";
-		link[9] = "http://www.PantagraphClassifieds.com";
-
-		var rand = Math.floor(Math.random() * imageSrc.length);
-		document.write('<a href="' + link[rand] + '"><img src="' + imageSrc[rand] + '" width="120" height="90" border="0" alt=""></a><br>');
+	var rand = Math.floor(Math.random() * btn.length);
+	
+	if (btn[rand].url != "") document.write('<a href="' + btn[rand].url + '">');
+	document.write('<img src="' + btn[rand].src + '" width="120" height="' + btn[rand].height + '" border="0" alt="">');
+	if (btn[rand].url != "") document.write('</a>');
+	document.write('<br>');
 }
 
-randomButton();
+if (!skyscraper) randomBtn();
+if (!skyscraper) document.write('<hr noshade size="1">');
 
-// -->
-</script><a href="http://www.pantagraph.com/advertising/adinfo.html"><img src="http://www.pantagraph.com/advertising/buttons/house/adhere_btn.gif" width="120" height="90" border="0" alt=""></a><br>
+//--></script><a href="http://www.newacquaintances.com"><img src="http://www.pantagraph.com/advertising/buttons/house/newacq240v04.gif" width="120" height="240" border="0" alt=""></a><br><hr noshade="" size="1">
 
-<noscript><a href="http://www.pantagraph.com/info/delivery.html">
-<img height="90" width="120" src="/advertising/buttons/house/savetimebtn.gif" border="0" alt=""></a><br></noscript>
+<noscript><a href="http://www.newacquaintances.com">
+<img height="240" width="120" src="http://www.pantagraph.com/advertising/buttons/house/newacq240v01.gif" border="0" alt=""></a><br>
+<hr noshade size="1">
+</noscript>
 
+<!--***** END 120x240 VERTICAL *****-->
+
+
+
+
+
+
+
+<!--***** BEGIN 120x90 BUTTON *****-->
+
+<script language="JavaScript"><!--
+
+function randomBtn() {
+
+	var btn = new Array(); // First argument for btnObj is image src location; second argument is the click-through URL
+	
+	btn[0] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/class1.gif","http://www.PantagraphClassifieds.com");
+	btn[1] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/class2.gif","http://www.PantagraphClassifieds.com");
+	btn[2] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/class3.gif","http://www.PantagraphClassifieds.com");
+	btn[3] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/class4.gif","http://www.PantagraphClassifieds.com");
+	btn[4] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/class5.gif","http://www.PantagraphClassifieds.com");
+	btn[5] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/class6.gif","http://www.PantagraphClassifieds.com");
+
+	var rand = Math.floor(Math.random() * btn.length);
+	
+	if (btn[rand].url != "") document.write('<a href="' + btn[rand].url + '">');
+	document.write('<img src="' + btn[rand].src + '" width="120" height="' + btn[rand].height + '" border="0" alt="">');
+	if (btn[rand].url != "") document.write('</a>');
+	document.write('<br>');
+}
+
+if (!skyscraper) randomBtn();
+if (!skyscraper) document.write('<hr noshade size="1">');
+
+//--></script><a href="http://www.PantagraphClassifieds.com"><img src="http://www.pantagraph.com/advertising/buttons/house/class1.gif" width="120" height="90" border="0" alt=""></a><br><hr noshade="" size="1">
+
+<noscript><a href="http://www.PantagraphClassifieds.com">
+<img height="90" width="120" src="http://www.pantagraph.com/advertising/buttons/house/class1.gif" border="0" alt=""></a><br>
+<hr noshade size="1">
+</noscript>
+
+<!--***** END 120x90 BUTTON *****-->
+
+
+
+
+
+
+
+<!--***** BEGIN 120x90 BUTTON *****-->
+
+<script language="JavaScript"><!--
+
+function randomBtn() {
+
+	var btn = new Array(); // First argument for btnObj is image src location; second argument is the click-through URL
+	
+	btn[0] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/restaurantguide_btn.gif","http://www.pantagraph.com/special/restaurantguide/");
+	btn[1] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/servicebtn.gif","http://www.pantagraph.com/special/serviceguide/");
+	btn[2] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/weddingbtn.gif","http://www.pantagraph.com/special/weddingguide/");
+	btn[3] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/archivebtn.gif","http://www.pantagraph.com/info/archive_search.html");
+	btn[4] = new btnObj("http://www.pantagraph.com/advertising/buttons/house/adhere_btn.gif","http://www.pantagraph.com/advertising/adinfo.html");
+
+	var rand = Math.floor(Math.random() * btn.length);
+	
+	if (btn[rand].url != "") document.write('<a href="' + btn[rand].url + '">');
+	document.write('<img src="' + btn[rand].src + '" width="120" height="' + btn[rand].height + '" border="0" alt="">');
+	if (btn[rand].url != "") document.write('</a>');
+	document.write('<br>');
+}
+
+if (!skyscraper) randomBtn();
+
+//--></script><a href="http://www.pantagraph.com/special/serviceguide/"><img src="http://www.pantagraph.com/advertising/buttons/house/servicebtn.gif" width="120" height="90" border="0" alt=""></a><br>
+
+<noscript><a href="http://www.pantagraph.com/info/archive_search.html">
+<img height="90" width="120" src="http://www.pantagraph.com/advertising/buttons/house/archivebtn.gif" border="0" alt=""></a><br></noscript>
+
+<!--***** END 120x90 BUTTON *****-->
+
+
+
+</center>
 								</center>
 							</td>
 						</tr>
@@ -589,8 +631,8 @@ randomButton();
 				<td class="footer">
 					<center>
 						<hr noshade="" size="1">
-						<a href="#top">Top of page</a> - <a href="/">Home</a> - <a href="/news/">News</a> - <a href="/sports/">Sports</a> - <a href="/obits/">Obituaries</a> - <a href="/opinion/">Opinion</a><br>
-						<a href="/ent/">Entertainment</a> - <a href="/business/">Business/Finanace</a> - <a href="http://www.PantagraphClassifieds.com/">Classified</a> - <a href="/archive.html">Archive</a> - <a href="/info/sitemap.html">Sitemap</a><br>
+						<a href="#top">Top of page</a> - <a href="/">Home</a> - <a href="/news/">News</a> - <a href="/sports/">Sports</a> - <a href="/obits/">Obituaries</a> - <a href="/opinion/">Opinion</a> - <a href="/ent/">Entertainment</a><br>
+						<a href="/business/">Business/Finanace</a> - <a href="http://www.PantagraphClassifieds.com/">Classified</a> - <a href="/archive.html">Archive</a> - <a href="/info/sitemap.html">Sitemap</a> - <a href="http://cgi.pantagraph.com/cgi-bin/recommend.cgi">E-mail this page</a><br>
 						<br>
 					</center>
 				</td>
@@ -601,7 +643,7 @@ randomButton();
 				<td class="footer" style="color: white">
 					<center>
 						<br>
-						Copyright © 2002, Pantagraph Publishing Co. All rights reserved.<br>
+						Copyright © 2003, Pantagraph Publishing Co. All rights reserved.<br>
 							<br>
 							<br>
 						</center>
