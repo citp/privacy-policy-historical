@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2000-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001020160600id_/http%3A//www.fs.fed.us/links/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218021608id_/http%3A//www.fs.fed.us/links/privacyX.html) for the most accurate reproduction.*
 
 # USDA Forest Service
 
-  
-[USDA Privacy Policy ](http://www.usda.gov/news/privacy.htm)
+[**USDA Privacy Policy**](http://www.usda.gov/news/privacy.htm)
 
 1\. This World Wide Web (WWW) site is provided as a public service by the USDA Forest Service. 
 
@@ -20,14 +19,5 @@
 USDA Forest Service   
 [FOIA/PA Office](mailto:wo_foia@fs.fed.us)   
 Phone: 703-605-4913  
-Modified: 9/7/99  
+Modified: February 7, 2001  
 
-
-[ Return to Disclaimers Page ](https://web.archive.org/links/disclaim.shtml)   
-
-
-**   [SEARCH](https://web.archive.org/intro/search.shtml)      [LIBRARY](https://web.archive.org/links/products.shtml)      [PROGRAMS](https://web.archive.org/links/other.shtml)      [NEWS](https://web.archive.org/news/)      [CONTACTS](https://web.archive.org/intro/directory/)      [SITE MAP](https://web.archive.org/links/site.shtml)      [FEEDBACK](https://web.archive.org/links/feedback.shtml)      [HOME](https://web.archive.org/)**
-
-**USDA Forest Service, National Headquarters**
-
-_Modified Wednesday, 04-Oct-2000 11:16:28 EDT_
