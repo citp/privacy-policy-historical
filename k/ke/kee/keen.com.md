@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205061605id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401211926id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Keen: Privacy Policy
 
@@ -78,7 +78,7 @@ We may from time to time run promotions in which we ask visitors for demographic
 
 From time to time Keen may ask Members to participate in surveys. Such surveys may ask visitors for contact information (like their email address). We use contact data from our surveys to send information about our company. 
 
-In order to enhance your listings, you may [verify](https://web.archive.org/secure/credentials/credentials_agreement.asp) your professional and academic credentials through [AbsoluteBackgrounds.com](https://web.archive.org/web/20021205061605id_/http%3A//www.keen.com/documents/help/www.absolutebackgrounds.com), a leading provider of comprehensive background checks on individuals. You may submit information to be verified by AbsoluteBackgrounds.com (such as academic degrees and professional licenses) on the Keen website. All information submitted as part of the verification program is subject to the agreement between the Member and [AbsoluteBackgrounds.com](https://web.archive.org/web/20021205061605id_/http%3A//www.keen.com/documents/help/www.absolutebackgrounds.com) (or such other verification program as Keen may use), which may contain terms that differ from Keen's Privacy Policy.
+In order to enhance your listings, you may [verify](https://web.archive.org/secure/credentials/credentials_agreement.asp) your professional and academic credentials through [AbsoluteBackgrounds.com](http://www.absolutebackgrounds.com/), a leading provider of comprehensive background checks on individuals. You may submit information to be verified by AbsoluteBackgrounds.com (such as academic degrees and professional licenses) on the Keen website. All information submitted as part of the verification program is subject to the agreement between the Member and [AbsoluteBackgrounds.com](http://www.absolutebackgrounds.com/) (or such other verification program as Keen may use), which may contain terms that differ from Keen's Privacy Policy.
 
 Keen may contain links to other sites. Keen is not responsible for the privacy practices or the content of such websites. We encourage you to review the policies of these sites.
 
