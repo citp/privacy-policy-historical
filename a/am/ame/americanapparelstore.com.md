@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanapparelstore.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621122049id_/http%3A//www.americanapparelstore.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanapparelstore.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604044601id_/http%3A//www.americanapparelstore.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
