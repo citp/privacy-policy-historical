@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602085045id_/http%3A//birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207124906id_/http%3A//www.birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
 
 # Birthday Cards .com - Birthday cards, and more!
 
@@ -46,4 +46,4 @@
 (C) Copyright 2001 Birthday Cards .com, Inc.   
 100% FREE Birthday Cards, Holiday Cards, Greeting Cards, Virtual Cards, Romantic Cards, Holiday Greetings, Birthday Greetings, Virtual Greetings, eCards, e-cards, e-Greetings, Love Cards, Anniversary Cards at Birthday Cards.com. 
 
-[](http://www.cardmasters-top50.com/topsites/main.cgi?ID=256)   [](http://postycity.net/topsites/main.cgi?ID=258)
+[](http://www.cardmasters-top50.com/topsites/main.cgi?ID=256)
