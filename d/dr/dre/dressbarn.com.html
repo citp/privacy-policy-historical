@@ -1,0 +1,698 @@
+<!--The following is the downloaded HTML source of the dressbarn.com privacy policy that was archived on 1999-08-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19990824125614id_/http%3A//dressbarn.com/PRIVACY_STATEMENT.htm) for the most accurate reproduction.-->
+
+<html><head><title>Dress Barn - Privacy Statement</title>
+<script language="javascript">
+var credit_card_type="DressBarn";
+
+function check_phone() 
+{	
+	if ((isNaN(document.gift_certificate.areacode.value) == true) || (document.gift_certificate.areacode.value.length != 3)){
+		if ((isNaN(document.gift_certificate.phone.value) == true) || (document.gift_certificate.phone.value.length != 7)){
+			alert("Please enter a valid area code & phone number.");
+			valid = false;
+			}
+		else
+			{
+			alert("Please enter a valid area code");
+			valid = false;
+			}
+	}
+	else
+	{
+			if ((isNaN(document.gift_certificate.phone.value) == true) || (document.gift_certificate.phone.value.length != 9)){
+			alert("Please enter a valid phone number.");
+			valid = false;
+			}
+		else
+		{
+		valid=true;
+		}
+	}
+return valid;
+}
+</script>
+
+
+<script language="JavaScript1.1">
+
+<!--
+//////////////////////////////////////////////////////////////////////////////
+// Copyright for Credit Card Validation Routines
+//////////////////////////////////////////////////////////////////////////////
+// Copyright (c) 1998 Sudhakar Chandrasekharan (thaths@netscape.com)
+// All rights reserved
+// This program is free software; you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation; version 2 dated June, 1991.
+
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+
+// You should have received a copy of the GNU General Public License
+// along with this program; if not, write to the Free Software
+// Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
+// 02111-1307, USA.
+
+// Funtion to return the type of credit card
+function typeOfCard(number) {
+        /* 
+        //      Card Prefixes
+        //
+        //      Mastercard      51-55
+        //      Visa            4
+        //      AmEx            34,37
+        //      Discover        6011
+        */
+
+        var firstNumber = number.substring(0,1);
+        var firstThreeNumbers = number.substring(0,3);
+
+        if (firstNumber == 4) {
+                return "VISA";
+        } 
+
+        var firstTwoNumbers = number.substring(0,2);
+        if (firstTwoNumbers > 50 && firstTwoNumbers < 56) {
+                return "MASTERCARD";
+        }
+
+        if (firstTwoNumbers == 34 || firstTwoNumbers == 37) {
+                return "AMEX";
+        }
+
+        var firstFourNumbers = number.substring(0,4);
+        if (firstFourNumbers == 6011) {
+                return "DISCOVER";
+        }
+}
+
+// Function that determines whether a credit card number is valid
+// Please note that a valid credit card number is not essentially a
+// credit card in good standing.
+function isValidCreditCard(number) {
+        var total = 0;
+        var flag = 0;
+        for (i=(number.length - 1);i>=0; i--) {
+                if (flag == 1) {
+                        var digits = number.charAt(i) * 2;
+                        var reminder = digits % 10;
+                        var quotient = (digits - reminder) / 10;
+                        total = total + parseInt(reminder);
+                        total = total + parseInt(quotient);
+                        flag = 0;
+                } else {
+                        total = total + parseInt(number.charAt(i));
+                        flag = 1;
+                }
+        }
+        if ((total%10) == 0) {
+                return true;
+        } else {
+                return false;
+        }
+}
+
+  function is_alphanumeric(in_string, can_be_blank,cant_contain,
+    must_contain,emessage)
+  {
+     var i;
+     if (can_be_blank ==1 && in_string == "") { return true;}
+      if (can_be_blank ==0 && in_string == "") { alert(emessage); return false;}
+   
+     for (i=0; i< cant_contain.length; i++)
+     {
+        if (in_string.lastIndexOf(cant_contain[i]) > -1) 
+	{
+	   alert(emessage);
+	   return false;
+	}
+     }
+
+     for (i=0; i< must_contain.length; i++)
+     {
+        if (must_contain[i] && in_string.lastIndexOf(must_contain[i]) < 0) 
+	{
+	   alert(emessage);
+	   return false;
+	}
+     }
+
+     return true;
+   }
+
+  function is_number(in_string, can_be_blank,lower_bound, higher_bound,emessage)
+  {
+     var i;
+
+     if (can_be_blank ==1 && in_string == "") { return true;}
+     if (can_be_blank ==0 && in_string == "") { alert(emessage); return false;}
+     if (isNaN(in_string)) { alert (emessage); return false;}
+     if (Number(in_string) >= lower_bound && Number(in_string) <= higher_bound)
+     {
+         return true;
+     }
+
+     alert(emessage);
+     return false;
+  }
+
+  function is_zipcode(zip, can_be_blank, emessage)
+  {  
+       if (can_be_blank==1 && zip=="") { return true; }
+       if (can_be_blank ==0 && zip == "") { alert(emessage); return false;}
+
+       if (String(zip).length != 5) { alert (emessage); return false; }
+       return is_number(String(zip),0,0,99999,emessage);
+  }
+
+  function is_non_default(entered, def_val, error)
+  {
+     if (entered == def_val) { alert (error); return false;}
+     return true;
+  }
+
+  function validate_form(name, street_address, city, state, zip, cc_number, exp_month, exp_year, areacode, phone_num, email)
+  {
+  var rtn_val;
+   rtn_val =
+     is_alphanumeric(name,0,"","",       "Please Re-enter Your Name") && 
+     is_alphanumeric(street_address,0,"","","Please Re-enter Your Address") &&
+     is_alphanumeric(city,0,"1234567890","","Please Re-enter In Your City") &&
+     is_alphanumeric(state,0,"","","Please Re-enter In Your State") &&
+     is_zipcode(zip,0,"Please Re-enter Your Zip Code") &&
+     is_number(areacode,0,100,999,"Please Re-enter your areacode") &&
+     is_number(phone_num,0,1000000,9999999,"Please Re-enter your phone number")&&
+     is_alphanumeric(email,0," ","@.", "Please Re-enter Your E-mail Address");
+
+     if (!rtn_val){ return rtn_val;}
+
+     //////////////////////////////////////////////////////////////////////////
+     // Check CC# 
+     //////////////////////////////////////////////////////////////////////////
+     if ((exp_month == "Select Month" || exp_year == "Select Year" || cc_number == ""))
+     {
+       alert("Invalid Credit Card#.  Please re-enter it");
+       return false
+     }
+
+    if ((credit_card_type != "DressBarn" && !isValidCreditCard(cc_number)))
+    {
+       alert("Invalid Credit Card#.  Please re-enter it");
+       return false
+    }
+
+    return true;
+ }
+
+
+
+ function layer_show(layer_name, name, cache) 
+ {
+      if (document.layers && document.layers[layer_name].document.images && document.layers[layer_name].document.images[name]) { document.layers[layer_name].document.images[name].src = eval(cache + ".src"); }
+      else show(name,cache);
+  } 
+
+
+ function show(name, cache) 
+
+ {
+
+    if (eval(cache))
+
+    {
+
+      document.images[name].src = eval(cache + ".src");
+
+    }
+
+ }
+
+ function noshow(name, cache)
+
+        {
+
+        document.images[name].src = eval(cache + ".src");
+
+        }
+
+//-->
+
+
+</script>
+
+<script language="JavaScript1.1">
+
+<!--
+		b_routing2 = new Image();
+		b_routing2.src = "images/routing.gif";
+		b_routing = new Image();
+		b_routing.src = "images/over_routing.gif";
+
+		b_import2 = new Image();
+		b_import2.src = "images/import_packing.gif";
+		b_import = new Image();
+		b_import.src = "images/over_import_packing.gif";
+		
+		b_domestic2 = new Image();
+		b_domestic2.src = "images/domestic.gif";
+		b_domestic = new Image();
+		b_domestic.src = "images/over_domestic.gif";
+
+		b_headquarters0 = new Image();
+		b_headquarters0.src = "images/headquarters.gif";
+		b_headquarters1 = new Image();
+		b_headquarters1.src = "images/over_headquarters.gif";
+
+		b_corporate_office1 = new Image();
+		b_corporate_office1.src = "images/over_corporate_office.gif";
+		b_corporate_office0 = new Image();
+		b_corporate_office0.src = "images/corporate_office.gif";
+
+		b_annual_report1 = new Image();
+
+		b_annual_report1.src = "images/annual_report.gif";
+
+		b_annual_report0 = new Image();
+
+		b_annual_report0.src = "images/over_annual_report.gif";
+
+		b_press1 = new Image();
+
+		b_press1.src = "images/press.gif";
+
+		b_press0 = new Image();
+
+		b_press0.src = "images/over_press.gif";
+
+
+		b_sec1 = new Image();
+
+		b_sec1.src = "images/sec.gif";
+
+		b_sec0 = new Image();
+
+		b_sec0.src = "images/over_sec.gif";
+
+
+		b_charting1 = new Image();
+
+		b_charting1.src = "images/charting.gif";
+
+		b_charting0 = new Image();
+
+		b_charting0.src = "images/over_charting.gif";
+
+
+		b_stock1 = new Image();
+
+		b_stock1.src = "images/stock.gif";
+
+		b_stock0 = new Image();
+
+		b_stock0.src = "images/over_stock.gif";
+
+
+		b_corporate1 = new Image();
+
+		b_corporate1.src = "images/corporate.gif";
+
+		b_corporate0 = new Image();
+
+		b_corporate0.src = "images/over_corporate.gif";
+
+
+		b_stores1 = new Image();
+
+		b_stores1.src = "images/stores.gif";
+
+		b_stores0 = new Image();
+
+		b_stores0.src = "images/over_stores.gif";
+
+
+
+//-->
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+ function show(name, cache) 
+
+ {
+
+    if (eval(cache))
+
+    {
+
+      document.images[name].src = eval(cache + ".src");
+
+    }
+
+ }
+
+ function noshow(name, cache)
+
+        {
+
+        document.images[name].src = eval(cache + ".src");
+
+        }
+
+//-->
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript">
+<!--
+
+var loaded = 0;
+var gotlayers = 0;
+var lastbutton='top';
+
+
+NS4 = (document.layers) ? 1 : 0;
+IE4 = (document.all) ? 1 : 0;
+ver4 = (NS4 || IE4) ? 1 : 0;
+
+function moveLayers() {
+	if (gotlayers) {
+		if (NS4) {
+			screenWidth = window.innerWidth;
+			document.layers['mirrorsKick'].left = 100;
+			document.layers['mirrorsKick'].top = 190;
+			document.layers['qrefKick'].left = 100;
+			document.layers['qrefKick'].top = 100;
+			document.layers['searchKick'].left = 100;
+			document.layers['searchKick'].top = 120;
+			document.layers['vendorlayer'].left = 100;
+			document.layers['vendorlayer'].top = 330;
+
+
+		} else {
+			screenWidth = document.body.clientWidth + 18;
+			document.all['mirrorsKick'].style.pixelLeft = 100;
+			document.all['mirrorsKick'].style.pixelTop = 200;
+			document.all['qrefKick'].style.pixelLeft = 100;
+			document.all['qrefKick'].style.pixelTop = 110;
+			document.all['vendorlayer'].style.pixelLeft = 100;
+			document.all['vendorlayer'].style.pixelTop = 340;
+			document.all['searchKick'].style.pixelLeft = 100;
+			document.all['searchKick'].style.pixelTop = 130;
+ //230
+		}
+	}
+}
+
+function popUp(menuName,on) {
+ if (gotlayers) {
+  if (on) {
+ 	moveLayers();
+	if (document.layers && document.layers[menuName]){
+		document.layers[menuName].visibility = "show";
+	}
+
+	if (document.all && document.all[menuName])
+	{
+		document.all[menuName].style.visibility = "visible";
+	}
+   } else {
+	if (document.layers && document.layers[menuName]) {
+	document.layers[menuName].visibility = "hide";
+	}
+
+	if (document.all && document.all[menuName])
+	{
+ 	  document.all[menuName].style.visibility = "hidden";
+	}
+   }
+ }
+}
+
+
+
+function LoadImgs () {
+	if (document.images) {
+
+
+		b_home0 = new Image();
+		b_home0.src = "images/home.gif";
+		b_home1 = new Image();
+		b_home1.src = "images/over_home.gif";
+
+
+		b_company_profile0 = new Image();
+		b_company_profile0.src = "images/company_profile.gif";
+		b_company_profile1 = new Image();
+		b_company_profile1.src = "images/over_company_profile.gif";
+
+
+
+
+		b_store_location0 = new Image();
+		b_store_location0.src = "images/store_location.gif";
+		b_store_location1 = new Image();
+		b_store_location1.src = "images/over_store_location.gif";
+
+
+		b_gift_certificates0 = new Image();
+		b_gift_certificates0.src = "images/gift_certificates.gif";
+		b_gift_certificates1 = new Image();
+		b_gift_certificates1.src = "images/over_gift_certificates.gif";
+
+		b_customer_service0 = new Image();
+		b_customer_service0.src = "images/customer_service.gif";
+		b_customer_service1 = new Image();
+		b_customer_service1.src = "images/over_customer_service.gif";
+
+		b_employment_opportunities0 = new Image();
+		b_employment_opportunities0.src = "images/employment_opportunities.gif";
+		b_employment_opportunities1 = new Image();
+		b_employment_opportunities1.src = "images/over_employment_opportunities.gif";
+
+
+		b_current_promotions0 = new Image();
+		b_current_promotions0.src = "images/current_promotions.gif";
+		b_current_promotions1 = new Image();
+		b_current_promotions1.src = "images/over_current_promotions.gif";
+
+
+		b_join_our_mailing_list0 = new Image();
+		b_join_our_mailing_list0.src = "images/join_our_mailing_list.gif";
+		b_join_our_mailing_list1 = new Image();
+		b_join_our_mailing_list1.src = "images/over_join_our_mailing_list.gif";
+
+
+		b_credit_card0 = new Image();
+		b_credit_card0.src = "images/credit_card.gif";
+		b_credit_card1 = new Image();
+		b_credit_card1.src = "images/over_credit_card.gif";
+
+
+
+		b_vendor0 = new Image();
+		b_vendor0.src = "images/vendor.gif";
+		b_vendor1 = new Image();
+		b_vendor1.src = "images/over_vendor.gif";
+
+
+		loaded = 1;
+	}
+}
+
+function change(Name,No) {
+	if (document.images && (loaded == 1) && (document[Name])) {
+		document[Name].src = eval("b_" + Name + No + ".src");
+	}
+	if (No == 1) {
+		if (gotlayers) {
+			popUp('mirrorsKick',false);
+			popUp('qrefKick',false);
+			popUp('searchKick',false);
+			popUp('vendorlayer',false);
+		}
+		if (Name != 'mirr') {
+			change('mirr',0);
+		}
+		if (Name != 'vend') {
+			change('vend',0);
+		}
+		if (Name != 'qref') {
+			change('qref',0);
+		}
+		if (Name != 'sear') {
+			change('sear',0);
+		}
+		lastbutton = Name;
+	}
+}
+
+function changebullet(Name,No) {
+	if (document.images && (loaded == 1)) {
+		document[Name].src = eval("b_bullet" + No + ".src");
+	}
+}
+
+function hide() {
+	if (document.images && (loaded == 1)) {
+		change(lastbutton,0);
+	}
+}
+LoadImgs();
+
+//--->
+</script>
+
+
+
+<style type="text/css">
+
+   <!--
+
+   #layer1 {position:absolute;
+
+    top:20px; left:300px; z-index=10;
+
+    }
+
+   #layer2 {position:absolute;
+
+    top:60px; left:250px;
+
+    background-color:teal;
+
+    width:200px;
+
+    border-width:2px; border-color:white; }
+
+   }
+
+   -->
+
+   </style>
+
+
+</head><body bgcolor="#ffffff" text="#000000" link="#9c618f" vlink="#9c618f" alink="#9c618f" background="images/grayback.gif" leftmargin="0" marginwidth="0">
+
+
+
+
+<table width="100%" border="0" marginwidth="0" margin="0" cellspacing="0" cellpadding="0">
+ <tbody><tr><td colspan="5"><table width="100%" height="100%" border="0" leftmargin="0" marginwidth="0" margin="0" cellspacing="0" cellpadding="0"><tbody><tr><td background="images/top_bg.gif" vspace="0" align="right" valign="top" colspan="2"><img src="images/clear.gif" width="119" height="1"></td><td background="images/top_bg.gif" vspace="0" align="right" valign="top" colspan="2"><a href="http://www.dressbarn.com/index.php3"><img src="images/dressbarn_logo.gif" alt="Dress Barn" width="168" height="56" border="0"></a></td></tr></tbody></table></td></tr><tr>
+</tr><tr><td width="10" height="80%"><img src="images/clear.gif" width="10" height="1"></td>
+<td width="129" valign="top" rowspan="1">
+<br>
+ <a href="http://www.dressbarn.com/index.php3" onmouseover="change('home',1);" onmouseout="hide();">
+ <img src="images/home.gif" alt="Home" width="133" height="15" name="home" border="0"></a>
+ <a href="http://www.dressbarn.com/company_profile.html" onmouseover="change('company_profile',1); popUp('qrefKick',true);" onmouseout="hide();">
+ <img src="images/company_profile.gif" alt="Company Profile" width="133" height="15" border="0" name="company_profile"></a>
+<a href="http://www.dressbarn.com/store_location.html" onmouseover="change('store_location',1); popUp('searchKick',true);" onmouseout="hide();">
+<img src="images/store_location.gif" width="133" height="15" alt="Location" name="store_location" border="0"></a>
+ <a href="https://dressbarn.com/gift_certificates.html" onmouseover="change('gift_certificates',1);" onmouseout="hide();">
+ <img src="images/gift_certificates.gif" alt="Gift Certificates" width="133" height="15" name="gift_certificates" border="0"></a>
+ 
+ <a href="http://www.dressbarn.com/customer_service.html" onmouseover="change('customer_service',1);" onmouseout="hide();">
+ <img src="images/customer_service.gif" alt="Customer Service" width="133" height="30" name="customer_service" border="0"></a>
+
+ <a href="http://www.dressbarn.com/employment_opportunities.html" onmouseover="change('employment_opportunities',1); popUp('mirrorsKick',true);" onmouseout="hide();">
+ <img src="images/employment_opportunities.gif" alt="Career Opportunities" width="133" height="30" name="employment_opportunities" border="0"></a>
+
+ <a href="http://www.dressbarn.com/promotion/show_promotion.php3" onmouseover="change('current_promotions',1);" onmouseout="hide();">
+ <img src="images/current_promotions.gif" alt="Current In-Store Promotions" width="133" height="30" name="current_promotions" border="0"></a>
+
+ <a href="http://www.dressbarn.com/join_our_mailing_list.html" onmouseover="change('join_our_mailing_list',1);" onmouseout="hide();">
+ <img src="images/join_our_mailing_list.gif" alt="Join Our Mailing List" width="133" height="30" name="join_our_mailing_list" border="0"></a>
+
+ <a href="http://sdadwebcom.adsmarket.net/DressBarn/credit_card.asp" onmouseover="change('credit_card',1);" onmouseout="hide();">
+ <img src="images/credit_card.gif" alt="Dress Barn Credit Card" width="133" height="30" name="credit_card" border="0"></a>
+ <a href="http://www.dressbarn.com/vendor.html" onmouseover="change('vendor',1); popUp('vendorlayer',true);" onmouseout="hide();">
+ <img src="images/vendor.gif" alt="Vendor Routing Guide" width="133" height="30" name="vendor" border="0"></a>	
+  
+<img src="images/clear.gif" width="134" border="0">	
+
+</td><td valign="top" height="100%">
+</td><td width="10" height="100%"><img src="images/clear.gif" width="10" height="1"></td>
+<td valign="top" colspan="1" width="95%" height="100%">
+
+<!-- contents start here --->
+
+<b><font size="2"><p align="CENTER">PRIVACY STATEMENT</p>
+
+</font></b><p><font size="2">Dress Barn recognizes the importance of protecting the privacy of visitors to our web site.  We limit the information collected about you to what is needed to conduct our business, provide superior service and offer services and products that might be of interest to you.  We may use your information for marketing or promotional purposes.  We limit access to your information to those employees who need it to carry out their business functions.  </font></p><font size="2">
+
+<p>The Dress Barn web site collects personally identifiable information (such as name, address, telephone number, or email address) from you only when you voluntarily provide such information to Dress Barn. If you do not want your personally identifiable information collected online, we ask that you do not submit such information to Dress Barn.</p>
+
+<p>Dress Barn provides protection against unauthorized disclosure of the information you share with us.  Dress Barn will monitor and adopt, as appropriate, new technological developments that are designed to aid in ensuring the accuracy and security of your information. </p>
+</font>
+
+
+<!--- contents end here --->
+
+
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+<script language="JavaScript1.1">
+
+<!--
+if (NS4 || IE4)
+{
+  document.write("<DIV ID='mirrorsKick' STYLE=\"POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; TOP: 0px; LEFT: 0px;\"><table cellpadding=0 cellspacing=0 width=150 bgcolor=white border=0><tr><td colspan=4><img src=\"images/top.gif\" width=150></td></tr><tr><td background=\"images/left.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td><td><a href=\"employment/corporate_employment.php3\" onmouseover=\"layer_show('mirrorsKick','corporate', 'b_corporate1');\" onmouseout=\"layer_show('mirrorsKick','corporate', 'b_corporate0');\"><img src=\"images/over_corporate.gif\" name=corporate border=0></a><br><a href=\"stores.html\" onmouseover=\"layer_show('mirrorsKick','stores', 'b_stores1');\" onmouseout=\"layer_show('mirrorsKick','stores', 'b_stores0');\"><img src=\"images/over_stores.gif\" name=stores border=0></a></td><td rowspan=2 align=right valign=top><A HREF=\"javascript:popUp('mirrorsKick',false);change('mirr',0);\"><img src=\"images/close.gif\" border=0></a></td><td background=\"images/right.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td></tr><tr><td colspan=4><img src=\"images/bottom.gif\" width=150></td></tr></table></DIV>");
+
+  document.write("<DIV ID='qrefKick' STYLE=\"POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; TOP: 0px; LEFT: 0px;\"><table cellpadding=0 cellspacing=0 width=150 bgcolor=white border=0><tr><td colspan=4><img src=\"images/top.gif\" width=150></td></tr><tr><td background=\"images/left.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1 border=0></td><td><a href=\"AnnualReport\" onmouseover=\"layer_show('qrefKick','annual_report', 'b_annual_report1');\" onmouseout=\"layer_show('qrefKick','annual_report', 'b_annual_report0'); \"><img src=\"images/over_annual_report.gif\" name=annual_report border=0></a><br><a href=\"http://www.nasdaq.com/asp/quotes_news.asp?symbol=DBRN&selected=DBRN\" onmouseover=\"layer_show('qrefKick','press', 'b_press1'); \"onmouseout=\"layer_show('qrefKick','press', 'b_press0'); \"><img src=\"images/over_press.gif\" name=press border=0></a><br><a href=\"http://nasdaq.com/asp/quotes_sec.asp?symbol=DBRN&selected=DBRN\" onmouseover=\"layer_show('qrefKick','sec', 'b_sec1'); \"onmouseout=\"layer_show('qrefKick','sec', 'b_sec0'); \"><img src=\"images/over_sec.gif\" name=sec border=0></a><br><a href=\"http://www.nasdaq.com/asp/quotes_charting.asp?symbol=DBRN&selected=DBRN\" onmouseover=\"layer_show('qrefKick','charting', 'b_charting1'); \"onmouseout=\"layer_show('qrefKick','charting', 'b_charting0'); \"><img src=\"images/over_charting.gif\" name=charting border=0></a><br><a href=\"http://www.nasdaq.com/asp/quotes_multi.asp?mode=Stock&symbol=DBRN\" onmouseover=\"layer_show('qrefKick','stock', 'b_stock1'); \"onmouseout=\"layer_show('qrefKick','stock', 'b_stock0'); \"><img src=\"images/over_stock.gif\" name=stock border=0></a></td><td rowspan=2 align=right valign=top><A HREF=\"javascript:popUp('qrefKick',false);change('mirr',0);\"><img src=\"images/close.gif\" border=0></a></td><td background=\"images/right.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td></tr><tr><td colspan=4><img src=\"images/bottom.gif\"></td></tr></table></DIV>");
+
+  // store location window 
+  document.write("<DIV ID='searchKick' STYLE=\"POSITION: absolute; Z-INDEX: 50; VISIBILITY: hidden; TOP: 0px; LEFT: 0px;\"><table cellpadding=0 cellspacing=0 width=150 bgcolor=white border=0><tr><td colspan=4><img src=\"images/top.gif\" width=150></td></tr><tr><td background=\"images/left.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td><td><a href=\"store_location.html\" onmouseover=\"layer_show('searchKick','headquarters', 'b_headquarters1');\" onmouseout=\"layer_show('searchKick','headquarters', 'b_headquarters0'); \"><img src=\"images/headquarters.gif\" name=headquarters border=0></a><br><a href=\"headquarters.html\" onmouseover=\"layer_show('searchKick','corporate_office', 'b_corporate_office1');\" onmouseout=\"layer_show('searchKick','corporate_office', 'b_corporate_office0'); \"><img src=\"images/corporate_office.gif\" name=corporate_office border=0></a></td><td rowspan=2 align=right valign=top><A HREF=\"javascript:popUp('searchKick',false);change('mirr',0);\"><img src=\"images/close.gif\" border=0></a></td><td background=\"images/right.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td></tr><tr><td colspan=4><img src=\"images/bottom.gif\" width=150></td></tr></table></DIV>");
+
+  // vendor routing window -->
+  document.write("<DIV ID='vendorlayer' STYLE=\"POSITION: absolute; Z-INDEX: 50; VISIBILITY: hidden; TOP: 0px; LEFT: 0px;\"><table cellpadding=0 cellspacing=0 width=150 bgcolor=white border=0><tr><td colspan=4><img src=\"images/top.gif\" width=150></td></tr><tr><td background=\"images/left.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td><td><a href=\"vendor/routing_guide/show_toc.php3\" onmouseover=\"layer_show('vendorlayer','routing', 'b_routing');\" onmouseout=\"layer_show('vendorlayer','routing', 'b_routing2');\"><img src=\"images/routing.gif\" name=routing border=0></a><br><a href=\"vendor/packing/show_toc.php3\" onmouseover=\"layer_show('vendorlayer','domestic', 'b_domestic');\" onmouseout=\"layer_show('vendorlayer','domestic', 'b_domestic2');\"><img src=\"images/domestic.gif\" name=domestic border=0></a><br><a href=\"vendor/import_packing/show_toc.php3\" onmouseover=\"layer_show('vendorlayer','import', 'b_import');\" onmouseout=\"layer_show('vendorlayer','import', 'b_import2');\"><img src=\"images/import_packing.gif\" name=import border=0></a></td><td rowspan=2 align=right valign=top><A HREF=\"javascript:popUp('vendorlayer',false);change('vend',0);\"><img src=\"images/close.gif\" border=0></a></td><td background=\"images/right.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td></tr><tr><td colspan=4><img src=\"images/bottom.gif\" width=150></td></tr></table></DIV>");
+}
+
+if (NS4) {
+	gotlayers = (document.layers.length == 4) ? 1 : 0;
+}
+
+if (IE4) {
+	gotlayers = 1;
+}
+
+
+//--->
+
+</script>
+
+
+
+
+
+
+
+</body></html>
