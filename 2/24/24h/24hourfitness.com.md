@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602160237id_/http%3A//24hourfitness.com/html/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206062456id_/http%3A//www.24hourfitness.com/html/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
