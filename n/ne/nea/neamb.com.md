@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203021122id_/http%3A//neamb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603034507id_/http%3A//neamb.com/privacy.jsp) for the most accurate reproduction.*
 
 # NEA Member Benefits - Privacy Policy
-
-  
-
 
 **  
 NEA MEMBER BENEFITS: PRIVACY STATEMENT**
@@ -33,6 +30,8 @@ If you have any concerns that aren't addressed here, please feel free to E-mail 
 1-800-637-4636, Monday – Friday, 8 a.m. to 8 p.m. (or Saturday, 9 a.m. to 1 p.m.) ET. 
 
 Thank you! 
+
+| 
 
 |   
   
