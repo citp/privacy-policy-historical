@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403000110id_/http%3A//franchiseopportunities.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206040505id_/http%3A//www.franchiseopportunities.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy of franchise opportunities and franchiseopportunities.com
 
