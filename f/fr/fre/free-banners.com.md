@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-banners.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202034048id_/http%3A//home.free-banners.com/fb-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-banners.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201170508id_/http%3A//home.free-banners.com/fb-privacy.htm) for the most accurate reproduction.*
 
 # Free-Banners.com Privacy Statement
 
@@ -15,7 +15,7 @@ By registering as a member at Free-Banners.com, you agree to accept this privacy
 * * *
 
 [ [Homepage](http://home.free-banners.com/index.html) | [Site Map](http://home.free-banners.com/fb-sitemap.htm) | [Tour](http://home.free-banners.com/tour.htm) | [Join](http://home.free-banners.com/join.htm) | [Partners](http://home.free-banners.com/fb-partners.htm) | [Advertise](http://home.free-banners.com/fb-advertise.htm) | [Help](http://home.free-banners.com/fb-help.htm) ]  
-[ [Terms](http://home.free-banners.com/fb-terms.htm) | [Privacy Statement](http://home.free-banners.com/fb-privacy.htm) | [Invest](http://home.free-banners.com/fb-invest.htm) ]
+[ [Terms](http://home.free-banners.com/fb-terms.htm) | [Privacy Statement](http://home.free-banners.com/fb-privacy.htm) | [Invest](http://home.free-banners.com/fb-invest.htm) | [Personals & Dating Directory](http://www.free-banners.com/dating/) ]
 
 Free-Banners(TM) is another [](http://www.ezernet.com/) web property.  
 All Rights Reserved.
