@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olympus-europa.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119025955id_/http%3A//www.olympus-europa.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympus-europa.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602201748id_/http%3A//www.olympus-europa.com/privacy.stm) for the most accurate reproduction.*
 
 # Welcome to OLYMPUS EUROPE
 
