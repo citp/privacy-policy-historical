@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the aspalliance.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604050703id_/http%3A//aspalliance.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspalliance.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204204704id_/http%3A//aspalliance.com/privacy.aspx) for the most accurate reproduction.*
 
-# ASPAlliance.com: AspAlliance.com Privacy Statement
+# ASPAlliance.com: Privacy Policy
+
+[](http://www.aspalliance.com/) _**The #1 ASP Community**_ article topics   
+resources   
+other info |  |    
+books   
+
+
+[](http://aspnetpro.com/)
+
+[](http://www.developersdex.com/asp/)
+
+[](http://www.asprss.com/Refer.asp?Publisher=36)
+
+| 
 
 ## Privacy Statement for AspAlliance.com
 
