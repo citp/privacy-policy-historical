@@ -1,15 +1,24 @@
-> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203124747id_/http%3A//www.dccc.org/about/privacypolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626163454id_/http%3A//www.dccc.org/about/privacypolicy.html) for the most accurate reproduction.*
 
 # DCCC - Privacy Policy
 
   
   
+_Permanent,_  
+_Mailing Address:_
+
 430 South Capitol St. SE  
 Washington, DC 20003  
-phone: 202.863.1500  
+phone: 202.863.1500
 
+[CONTACT US](https://web.archive.org/about/contactus.html)
 
-[CONTACT US](https://web.archive.org/about/contactus.phtml)
+_Temporary Physical Address_  
+_(Packages, Deliveries)_
+
+499 South Capitol St. SW   
+Suites 100, 104   
+Washington, DC 20003
 
 |  | 
 
@@ -17,7 +26,7 @@ phone: 202.863.1500
 
 **PRIVACY POLICY**
 
-The Democratic Congressional Campaign Committee (DCCC) is committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for personal information collected through this website. If you have questions about this policy, [please let us know](https://web.archive.org/about/contactus.phtml). 
+The Democratic Congressional Campaign Committee (DCCC) is committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for personal information collected through this website. If you have questions about this policy, [please let us know](https://web.archive.org/about/contactus.html). 
 
 **Collection and disclosure of information:**  
 The DCCC collects some personal information (that is, information that can be directly associated with an individual) in order to its process credit card contributions. The DCCC also collects names, addresses and e-mail addresses from those who affirmatively request to be placed on DCCC e-mail lists, through which they may receive information about DCCC activities, breaking news or important events. 
@@ -29,7 +38,7 @@ Additionally, from time to time, the DCCC may share personal information with or
 **Correcting and Updating Your Information:**  
 In order to modify the information you have provided to us, you need to register on the website and be issued a password. With your password to verify your identity, you may access your account securely and add or change your personal information. The DCCC encourages all website users to register and take personal responsibility for the quality of the information they provide. Website registration also allows users to take advantage of the full range of online services we offer. 
 
-Finally, those who have previously requested to be placed on DCCC e-mail lists may unsubscribe by visiting <http://www.americashouse.org/unsub> or by clicking on the unsubscribe link at the bottom of the email you receive from us. 
+Finally, those who have previously requested to be placed on DCCC e-mail lists may unsubscribe by visiting <http://www.dccc.org/unsub> or by clicking on the unsubscribe link at the bottom of the email you receive from us. 
 
 **Browser information collected on the web site:**  
 The DCCC analyzes our website logs to constantly improve the value of our website. We use an external service to provide real-time reporting of browser accesses to our site to DCCC staff and our agents. This includes page views, unique views, unique visitors, repeat visitors, frequency of visits, and peak-volume traffic periods. We do not use this service to gather, request, record, require, collect or track any Internet users' personally identifiable information. 
@@ -55,14 +64,15 @@ The DCCC will revise or update this policy if our practices change, or as we dev
 
 Last modified: August 29, 2002
 
-If you have any questions or concerns, [please contact us](https://web.archive.org/about/contactus.phtml).
+If you have any questions or concerns, [please contact us](https://web.archive.org/about/contactus.html).
 
-|   |  | 
+|   | 
 
-Want the DCCC inside scoop? Enter your email address and click on the arrow to have The DCCC Update delivered to you each week.   
-  
----  
-[](https://web.archive.org/tellafriend/)  
+Want the DCCC inside scoop? Enter your email address and click on the arrow to have The DCCC Update delivered to you each week. 
+
+[](http://webtest.dccc.org/forms/emailupdate.html)
+
+[](https://web.archive.org/cards/tellafriend.html)  
 
 
 Help spread the word about Democrats' efforts to build a new House for America's families by sending an e-postcard to your friends, family, and co-workers. 
