@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401130638id_/http%3A//mbayaq.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234756id_/http%3A//mbayaq.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
 
 # Monterey Bay Aquarium: Web Site Info - Privacy Policy
 
-The Monterey Bay Aquarium is dedicated to protecting your privacy as you use our web site. Our policy is that no personal information will be collected about you unless you choose to provide it and that any personal information which you provide us will be safeguarded and not shared with others for any reason.
+Learn About our Privacy Policy The Monterey Bay Aquarium is dedicated to protecting your privacy as you use our web site. Our policy is that no personal information will be collected about you unless you choose to provide it and that any personal information which you provide us will be safeguarded and not shared with others for any reason.
 
 If during your visit to our site you only browse, read pages or download material, we can not collect any information that will identify you personally, or determine your e-mail address. Our Web server automatically recognizes the domain name and Internet Protocol (IP) address of each visitor to our site. An IP address is a code that identifies a particular computer on the Internet. Every computer or network that's connected to the Internet has an IP address. 
 
