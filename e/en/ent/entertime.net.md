@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertime.net privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803003441id_/http%3A//entertime.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertime.net privacy policy that was archived on 2002-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/privacy.html) for the most accurate reproduction.*
 
 # EnterTime.Net Privacy
 
@@ -6,12 +6,12 @@
 
 Effective 9 September 2000
 
-  * [Our Commitment To Privacy](https://web.archive.org/web/20010803003441id_/http%3A//entertime.net/%23Our_Commitment_To_Privacy:)
-  * [The Information We Collect](https://web.archive.org/web/20010803003441id_/http%3A//entertime.net/%23The_Information_We_Collect:)
-  * [How We Use Information](https://web.archive.org/web/20010803003441id_/http%3A//entertime.net/%23How_We_Use_the_Information:)
-  * [Our Commitment To Data Security](https://web.archive.org/web/20010803003441id_/http%3A//entertime.net/%23Our_Commitment_To_Data_Security:)
-  * [How To Access Or Correct Your Information](https://web.archive.org/web/20010803003441id_/http%3A//entertime.net/%23How_You_Can_Access_Or_Correct_Your_Information:)
-  * [How To Contact Us](https://web.archive.org/web/20010803003441id_/http%3A//entertime.net/%23How_To_Contact_Us:)
+  * [Our Commitment To Privacy](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23Our_Commitment_To_Privacy:)
+  * [The Information We Collect](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23The_Information_We_Collect:)
+  * [How We Use Information](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23How_We_Use_the_Information:)
+  * [Our Commitment To Data Security](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23Our_Commitment_To_Data_Security:)
+  * [How To Access Or Correct Your Information](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23How_You_Can_Access_Or_Correct_Your_Information:)
+  * [How To Contact Us](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23How_To_Contact_Us:)
 
 
 
