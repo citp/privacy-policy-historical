@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakehouse.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407203705id_/http%3A//lakehouse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakehouse.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212010724id_/http%3A//www.lakehouse.com/privacy.htm) for the most accurate reproduction.*
 
 # Lakehouse.com - Privacy Policy
 
