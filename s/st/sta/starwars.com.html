@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the starwars.com privacy policy that was archived on 2003-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604122733id_/http%3A//www.starwars.com/site/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starwars.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203223625id_/http%3A//starwars.com/site/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
  <title>Star Wars: Site Info | Privacy Policy </title>
@@ -96,7 +96,7 @@
 		<tr>
 			<td align="left" valign="top"><a href="/episode-i/"><img src="/meta/header/img/ep1.gif" border="0"></a></td>
 			<td align="left" valign="top"><a href="/episode-ii/"><img src="/meta/header/img/ep2.gif" border="0"></a></td>
-			<td align="left" valign="top"><img src="/meta/header/img/ep3.gif"></td>
+			<td align="left" valign="top"><a href="/episode-iii/"><img src="/meta/header/img/ep3.gif" border="0"></a></td>
 			<td align="left" valign="top"><a href="/episode-iv/"><img src="/meta/header/img/ep4.gif" border="0"></a></td>
 			<td align="left" valign="top"><a href="/episode-v/"><img src="/meta/header/img/ep5.gif" border="0"></a></td>
 			<td align="left" valign="top"><a href="/episode-vi/"><img src="/meta/header/img/ep6.gif" border="0"></a></td>
@@ -106,28 +106,40 @@
 	<td align="right" valign="top" width="95%" bgcolor="#000000">
 
 	
+		
 		<!-- AD BANNER START -->
 
 <!-- Site -->
 
-<script language="JavaScript">
-<!--
+  <!-- Javascript BEGIN -->
+	<script language="JavaScript">
+	<!--
 	var axel = Math.random() + "";
-	var ord = axel * 1000000000000000000;
-//-->
-</script>
-<script>
-document.write ('<SCR'+'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/max.starwars/ros;dcopt=ist;abr=!webtv;sz=468x60;ord=' + ord + '?">');
-document.write ('<\/SCR' + 'IPT>');
-if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0)
-{
-document.write('<a href="http://ad.doubleclick.net/jump/max.starwars/ros;sz=468x60;ord=' + ord + '?" target=_blank>');
-document.write('<img src="http://ad.doubleclick.net/ad/max.starwars/ros;sz=468x60;ord=' + ord + '?"></a>');
-}
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/max.starwars/ros;dcopt=ist;abr=!webtv;sz=468x60;ord=732035477539040100?"></script>
+	var PageId = axel * 1000000000000000000;
+	// This part of script alleviates a Netscape document.write bug
+	NS4 = document.layers;
+	if (NS4) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	}
+	function reDo() {
+	if (innerWidth != origWidth || innerHeight != origHeight)
+	location.reload();
+	}
+	if (NS4) onresize = reDo;
+	
+	 if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) { 
+	document.write('<A HREF="http://c4.maxserving.com/adclick/site=412/area=ros/aamft=normal/aamsz=banner/PageID=' + PageId + '" target="_blank">');
+	document.write('<IMG SRC="http://c4.maxserving.com/iserver/site=412/area=ros/aamft=normal/aamsz=banner/PageID=' + PageId + '" border="0"></A>');
+	}else{
+	document.write('<SCR'+'IPT src=http://c4.maxserving.com/gen.js?site=412&area=ros&group=topbar&PageID=' + PageId + '><\/SCR'+'IPT>');
+	}
+	//-->
+	</script><script src="http://c4.maxserving.com/gen.js?site=412&amp;area=ros&amp;group=topbar&amp;PageID=344062373788385200"></script>
+	<!-- Javascript END -->
 <noscript>
-<a href="http://ad.doubleclick.net/jump/max.starwars/ros;sz=468x60;num=898347846327" target=_blank>
-<img src="http://ad.doubleclick.net/ad/max.starwars/ros;sz=468x60;num=898347846327" border="0"></a>
+<a href="http://c4.maxserving.com/adclick/site=412/area=ros/aamsz=banner/PageID=0123456789001" target="_blank">
+<img src="http://c4.maxserving.com/iserver/site=412/area=ros/aamsz=banner/PageID=0123456789001" border="0"></A>
 </noscript>
   
 
@@ -138,6 +150,9 @@ document.write('<img src="http://ad.doubleclick.net/ad/max.starwars/ros;sz=468x6
 	
 
 </td>
+
+<td align="left" valign="top"><a href="/webapps/registration/subscribe"><img src="/meta/ads/img/disable.gif" border="0" alt="[ Disable Ad ]"></a></td>
+
 </tr>
 </tbody></table>
 
@@ -338,7 +353,7 @@ function changeDesc(desc)
 		
 
 		</p><div class="textBody">
-		<name="top"> <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="10%" valign="top"><div class="textBody">&nbsp; </div></td><td width="80%" colspan="2" valign="top"><div class="textBody"><p> WELCOME!
+		<name="top"> <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="10%" valign="top"><div class="textBody">&nbsp; </div></td><td width="80%" colspan="2" valign="top"><div class="textBody"><p><b>Lucas Online</b></p><p>WELCOME!
 
 </p><p></p><div class="textBody">We are committed to respecting the privacy rights of all visitors to our Web site.
 This Privacy Policy also explains the choices that you can make about the way your
@@ -818,19 +833,19 @@ function doMail()
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tbody><tr>
 				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/episode-ii/news/2003/06/news20030602.html" class="SILO">News: Wins an MTV Movie Award, Yoda Does</a></td>
+				<td align="left" valign="bottom" width="100%"><a href="/collecting/news/2003/12/news20031202.html" class="SILO">News: Code 3 Presents Luke's X-wing</a></td>
 			</tr><tr>
 				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/episode-ii/news/2003/06/news20030602b.html" class="SILO">News: Ep III: Pre-Production Phase Wrapping Up</a></td>
+				<td align="left" valign="bottom" width="100%"><a href="/community/captions/2003/12/captions20031202.html" class="SILO">Captions: Beeping Up with the Joneses</a></td>
 			</tr><tr>
 				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/episode-ii/imageattack/2003/06/imageattack20030602.html" class="SILO">Image Attack: Preparing Padmé</a></td>
+				<td align="left" valign="bottom" width="100%"><a href="/episode-ii/imageattack/2003/12/imageattack20031202.html" class="SILO">Image Attack: Forceful Advisors</a></td>
 			</tr><tr>
 				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/community/askjc/jocasta/askjc20030602.html" class="SILO">Jedi Council: Who are the gentlemen with the Emperor?</a></td>
+				<td align="left" valign="bottom" width="100%"><a href="/hyperspace/member/bth/2003/12/bth20031202.html" class="SILO">Before the Helmet: Down for the Count</a></td>
 			</tr><tr>
 				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/site/news/2003/05/news20030530.html" class="SILO">News: Introducing starwars.com Hyperspace</a></td>
+				<td align="left" valign="bottom" width="100%"><a href="/hyperspace/member/banthatracks/bt31/index.html" class="SILO">Feature: Bantha Tracks #31</a></td>
 			</tr>
 			</tbody></table>
 			<br></td>
@@ -953,6 +968,8 @@ function doMail()
 </p><p>
 </p><center>
 <b><font face="arial" size="1">© 2003 Lucasfilm Ltd. <a href="/site/copyright.html">Terms of Use</a> and <a href="/site/privacy_policy.html">Privacy Policy</a>. <a href="/site/privacy_policy_a.html">Business inquiries</a>.</font></b>
+<br>
+<img src="/meta/content/img/lol_footer.gif">
 </center>
 <br>
 <script language="javascript">pageLoadCheck=1;</script>
