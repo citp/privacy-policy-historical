@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801172027id_/http%3A//www.liveperson.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622075315id_/http%3A//liveperson.com/help/privacy.asp) for the most accurate reproduction.*
 
-# live help software for support, customer service, sales with chat
+# Live Chat, Live Support, Live Help, Customer Service Software
 
 At LivePerson, we have created this privacy policy because we are concerned about protecting the privacy of the users of our live online customer service. The success of our service depends on our ability to maintain the trust of these users. Please read on for more information about our privacy policy. 
 
@@ -66,7 +66,7 @@ We are committed to protecting the privacy of the users of our service. We use t
 
 **_Correcting and Updating Personal Information_**
 
-If any of the personal information that you provided to us changes or is incorrect, please email [records@liveperson.com](mailto:records@liveperson.com) with your new, correct information.
+If any of the personal information that you provided to us changes or is incorrect, please [email us](mailto:records@liveperson.com) with your new, correct information.
 
 **_Business Transfers_**
 
@@ -74,6 +74,6 @@ In the event that someone buys or acquires us or substantially all of our assets
 
 **_Tell us what you think_**
 
-LivePerson welcomes your feedback on our privacy policy. Send your comments to [questions@liveperson.com](mailto:questions@liveperson.com).
+LivePerson welcomes your feedback on our privacy policy. Send your comments to [privacy@liveperson.com](mailto:privacy@liveperson.com).
 
 We recommend that you review this policy periodically, as we may update it from time to time. 
