@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2004-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041113012235id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3D4fa5ee2db3766f3631ef367200f1bf99) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305105148id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3Df7ccfa6150757b39de55637ac97edeed) for the most accurate reproduction.*
 
 # CheatHouse.com - privacy
 
