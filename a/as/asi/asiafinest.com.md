@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiafinest.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612064124id_/http%3A//www.asiafinest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiafinest.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209093354id_/http%3A//www.asiafinest.com/privacy.htm) for the most accurate reproduction.*
 
 # AsiaFinest.com Privacy Policy Statement
 
