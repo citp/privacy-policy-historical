@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollyvista.com privacy policy that was archived on 2001-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011005105044id_/http%3A//www.bollyvista.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyvista.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162551id_/http%3A//bollyvista.com/privacy.html) for the most accurate reproduction.*
 
-# BOLLYVISTA.COM : Privacy Statement
+# Bollyvista.com : Privacy Statement
 
 **BOLLYVISTA.COM** is strongly committed to honoring the privacy of our visitors. This privacy statement discloses the information gathering and dissemination practices for this web site (http://www.bollyvista.com).
 
@@ -35,12 +35,5 @@ BOLLYVISTA.COM provides a Web Directory to visitors which contains links to othe
 **Children's Guidelines (Children under 13)**  
 This site allows children to post or distribute any personally identifiable information without first obtaining verifiable parental consent.
 
-**Analyzing Traffic**  
-Parts of BOLLYVISTA.COM uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm).
-
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can [contact us.](mailto:admin@bollyvista.com?subject=Privacy%20Statement)
-
-|  |    
-  
-| 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can [contact us.](mailto:privacy@bollyvista.com?subject=Privacy%20Statement)
