@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2001-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/privacypollicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/privacypollicy.asp) for the most accurate reproduction.*
 
 # LeaseTrader.com
 
   
 |   |    
 ---|---  
-[](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/home.asp) | [](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/home.asp)  
+[](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/home.asp) | [](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/home.asp)  
   |    
-[](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/powerSearch.asp) | [](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/powerSearch.asp)  
+[](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/powerSearch.asp) | [](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/powerSearch.asp)  
   |    
-[](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/posting.asp) | [](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/posting.asp)  
+[](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/posting.asp) | [](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/posting.asp)  
   |    
-[](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/myleasetrader.asp) | [](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/myleasetrader.asp)  
+[](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/myleasetrader.asp) | [](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/myleasetrader.asp)  
   |    
-[](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/custservice.asp) | [](https://web.archive.org/web/20011229060147id_/http%3A//www.leasetrader.com/e/custservice.asp)  
+[](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/custservice.asp) | [](https://web.archive.org/web/20020601170720id_/http%3A//www.leasetrader.com/e/custservice.asp)  
   |    
   
 
