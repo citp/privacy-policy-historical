@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618070121id_/http%3A//www.webex.com/webex_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204235712id_/http%3A//webex.com/webex_privacy.html) for the most accurate reproduction.*
 
 # Privacy statement - WebEx
 
@@ -9,7 +9,7 @@ Web Conferencing, Video Conferencing and Online Meeting Services
   
 WebEx respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other Web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Individual Identifying Information that you share with us. "Individual Identifying Information" is information that enables us to identify you, such as your email address, name, title and mailing address. 
 
-This policy governs Web-sites owned and operated by WebEx. Our policy does not govern Web-sites of other parties to which we may provide links, because WebEx is not responsible, and can not control the privacy practices or content of those sites. To demonstrate our commitment to fair information practices, we have adopted leading communication industry privacy guidelines. Additionally, we urge you at all times to use caution when providing Individual Identifying Information, and suggest that you read the Federal Trade Commission’s suggested safety precautions for internet surfing, which can be found by clicking [here](http://www.webex.com/support/documentation.php).
+This policy governs Web-sites owned and operated by WebEx. Our policy does not govern Web-sites of other parties to which we may provide links, because WebEx is not responsible, and can not control the privacy practices or content of those sites. To demonstrate our commitment to fair information practices, we have adopted leading communication industry privacy guidelines. 
 
 We want to give you the comfort and confidence you need to fully participate in our online offerings so that we can better serve your needs. Therefore, here are the principles governing our information practices and other privacy aspects of our Web sites:
 
