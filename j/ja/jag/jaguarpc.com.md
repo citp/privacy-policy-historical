@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguarpc.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004130618id_/http%3A//www.jaguarpc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguarpc.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200608id_/http%3A//www.jaguarpc.com/privacy.php) for the most accurate reproduction.*
 
 # Jaguar PC - Quality hosting! .:Home of HostGUI:.
 
@@ -11,6 +11,6 @@ With respect to cookies: We use cookies to record session information, such as i
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Consumers can have this information corrected by or using their control panel. 
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
+With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 If you feel that this site is not following its stated information policy, you may contact state or local chapters of the Better Business Bureau. 
