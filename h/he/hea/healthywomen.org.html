@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the healthywomen.org privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603235553id_/http%3A//healthywomen.org/content.cfm%3FL1%3D104) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthywomen.org privacy policy that was archived on 2002-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020208111441id_/http%3A//healthywomen.org/content.cfm%3FL1%3D104) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
 	function PopupGlossary(GlossaryTerm) {
+		//var myTerm = GlossaryTerm; //Jo 10/3/01
+		//var theTerm = myTerm.replace("'","&acute;");
 		GlossaryURL = "TermWindow.cfm?Turm=" + escape(GlossaryTerm);
 		FrameName = "GlossaryPopup";
 		Options = "scrollbars=yes,resizable=no,toolbar=no,status=no,width=440,height=260";
@@ -14,13 +16,29 @@
     function reLoaf2() {
 		document.loaf2.submit();
 	}
-	
 	function PopupMP(Num) {
 		theURL = "PopupMenapause.cfm?MPNum=" + escape(Num);
 		FrameName = "MPPopup";
 		Options = "scrollbars=yes,resizable=yes,toolbar=no,status=no,width=500,height=400";
 		window.open(theURL, FrameName, Options);
 	} 
+	function EmailToFriend() {//alert(document.URL);//alert(theL2);alert(aL2);
+		theURL = "EmailFriendINCL.cfm?theURL=" + escape(document.URL);
+		FrameName = "EmailToFriend";
+		Options = "scrollbars=yes,resizable=yes,toolbar=no,status=no,width=500,height=500";
+		window.open(theURL, FrameName, Options);
+	}
+	function EmailToFriend2(para,vari) {//alert(document.URL);alert(para);alert(vari);
+		var anURL = document.URL;//alert(aURL);
+		var myStr = new String(anURL);//alert(myStr);
+		var aStr = myStr.replace("#","");
+		var anStr = aStr.replace("&","|");
+		var newStr = anStr.replace("&","|");
+		aURL = "EmailFriendINCL.cfm?theURL=" + newStr + "|" + para + "=" + vari;
+		FrameName = "EmailToFriend";//alert(aURL);
+		Options = "scrollbars=yes,resizable=yes,toolbar=no,status=no,width=500,height=500";
+		window.open(aURL, FrameName, Options);
+	}
 </script>
 
 
@@ -32,11 +50,14 @@
 
 
 	
-<meta content="HealthyWomen.org, Hypoglycemia
+<meta content="HealthyWomen.org, Benzodiazepines, Tartar
+, Stoma
+, Endoscopy
+, Modeling treatment
+, Hysterosalpingogram (HSG)
+, Central nervous system
 
-, Binge eating, osteopathic medicine, hypnosis, Homocysteine, Pelvis
-, Mini-pill
-, Benign
+, Vaccine
 " name="keywords">
 <meta content="Healthywomen.org serves as the one-stop shop for women's health information.  It provides comprehensive, in-depth content on women's health issues.  Built by National Women's Health Resource Center." name="description">
 
@@ -141,7 +162,7 @@ function  _CF_checkform1(_CF_this)
 <table border="0" cellspacing="0" cellpadding="0" align="center" width="734">
 <tbody><tr>
 	<td><a href="index.cfm"><img src="images/topper-01-01.gif" width="444" height="23" border="0" alt="National Women's Health Resource Center"></a></td>
-	<td valign="bottom" nowrap=""><font face="Arial" size="1">&nbsp; Sunday June 3, 2001 &nbsp;</font></td>
+	<td valign="bottom" nowrap=""><font face="Arial" size="1">&nbsp; Monday December 17, 2001 &nbsp;</font></td>
 	<td rowspan="2" valign="bottom">
 <!-- Aftershock sponsorlogos.swf 3=105 4=90 6=1 24=3 -->
 <!-- URL's used in the movie-->
@@ -182,7 +203,7 @@ if ( ShockMode ) {
 
 <tbody><tr>
 
-	<td height="10" colspan="6" bgcolor="6699CC"><a href="content.cfm?L1=1"><img src="images/about.gif" border="0" alt="About NWHRC"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=2"><img src="images/library.gif" border="0" alt="Library"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=3"><img src="images/hcenter.gif" border="0" alt="Health Center"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=4"><img src="images/discuss.gif" border="0" alt="Discussions"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=5"><img src="images/news.gif" border="0" alt="News"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=6"><img src="images/hservices.gif" border="0" alt="Health Services"></a><a href="content.cfm?L1=8"><img src="images/profile.gif" border="0" alt="My Profile"></a></td>
+	<td height="10" colspan="6" bgcolor="6699CC"><a href="content.cfm?L1=1"><img src="images/about.gif" border="0" alt="About NWHRC"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=2"><img src="images/library.gif" border="0" alt="Library"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=3"><img src="images/hcenter.gif" border="0" alt="Health Center"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=4"><img src="images/discuss.gif" border="0" alt="Lifestyle Corner"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=5"><img src="images/news.gif" border="0" alt="News"></a><img src="images/navbullet.gif" width="10" height="18" border="0" alt="bullet"><a href="content.cfm?L1=6"><img src="images/hservices.gif" border="0" alt="Health Services"></a><a href="content.cfm?L1=8"><img src="images/profile.gif" border="0" alt="My Profile"></a></td>
 	
 </tr>
 <tr>
@@ -191,7 +212,7 @@ if ( ShockMode ) {
 	 &nbsp; 
 		<img src="./images/search.gif" width="80" height="12" border="0" vspace="1" alt="search for">
 		
-		<input type="Text" name="KWord" value="" size="15">
+		<input type="Text" name="KWord" size="15" value="">
 
 <input type="BUTTON" value="spell" onclick="var f=document.forms[0]; doSpell( 'en', f.KWord, document.location.protocol + '//' + document.location.host + '/cgi-bin/sproxy.cgi', true);">
 
@@ -205,8 +226,7 @@ if ( ShockMode ) {
 			
 			<option value="O">Organizations</option>
 			<option value="E">Conferences/Events</option>
-		</select>&nbsp;<input type="submit" value="start">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="content.cfm?L1=90"><img src="images/MCenterS.gif" width="85" height="13" border="0" alt="Media Center"></a>
-</form></font></td>
+		</select>&nbsp;<input type="submit" value="start">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="content.cfm?L1=90"><img src="images/MCenterS.gif" width="85" height="13" border="0" alt="Media Center"></a></form></font></td>
 </tr>
 <tr>
 	<td width="1" valign="BOTTOM" bgcolor="#6699CC">
@@ -215,45 +235,70 @@ if ( ShockMode ) {
 	
 	<td width="140" align="CENTER" valign="TOP" bgcolor="#FAFADE"><br>
 		
+		
 
-			
-
-
-
-
-<br>
-<a href="content.cfm?L1=9&amp;L2=0"><img src="images/sitemap_but.gif" width="170" height="24" border="0" alt="site map"></a>
-<br>
-
-<br><br><br>
-
-</td>
+		<br><a href="content.cfm?L1=9&amp;L2=0"><img src="images/sitemap_but.gif" width="170" height="24" border="0" alt="site map"></a><br>
+		<br><br><br>
+	</td>
 	<td width="1" valign="BOTTOM" bgcolor="#6699CC"><img src="images/tran.gif" width="1" height="1" border="0"></td>
 	<td width="10">&nbsp;</td>
 
 
 
-<td height="200" valign="TOP">
-
-<img src="images/whitespacer.gif" width="556" height="1" border="0">
-<font face="Arial,Helvetica" size="2">
-
-
-
-
-<div align="center">
+	<td height="200" valign="TOP"><font face="Arial,Helvetica" size="2">
+	<img src="images/whitespacer.gif" width="556" height="1" border="0">
 
 
 
 
 
-</div>
 
 
 
-<img src="images/privacyp_ban.gif" alt="Privacy Policy" border="0" vspace="10"><p>
 
-<font face="Arial" size="2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="right">
+	
+	<a href="#" onclick="EmailToFriend();"><img src="images/mail1.gif" alt="Send this page to friends" border="0" vspace="10"></a>
+	
+	</div> <div align="center">
+		
+	</div> 
+		<img src="images/privacyp_ban.gif" alt="Privacy Policy" border="0" vspace="10"><p>
+		<font face="Arial" size="2">
 </font></p><center><font face="Arial" size="2"><a name="TOP"></a></font></center><font face="Arial" size="2">
 <ul>
 <li> <a href="#INTRO">Introduction</a>
@@ -473,11 +518,17 @@ Due to the rapidly evolving technologies on the Internet, we reserve the right t
 </p><p align="right">Last updated January 25, 2001</p>
 </font>
 
-
-
-
-
-
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 
 <br><br>
