@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202155509id_/http%3A//www.onlinegolf.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402045815id_/http%3A//www.onlinegolf.co.uk/privacy) for the most accurate reproduction.*
 
 # Online Golf - Information Page
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best possible service. 
 
-If we send you an e-mail in the future, we will give you the chance to refuse any further marketing email from us or from another trader in the future. 
+If we send you an e-mail in the future, we will give you the chance to refuse any further marketing email from us in the future. We do not send random marketing e-mails to personal email addresses (spam). 
 
-The type of information we will collect about you includes: your name, address, phone number, e-mail address, your credit/debit card details (if you call us with it). 
+The type of information we will collect about you includes: your name, address, phone number, e-mail address, your credit/debit card details. 
 
 We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
 
