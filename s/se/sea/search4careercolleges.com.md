@@ -1,23 +1,9 @@
-> *The following text is extracted and transformed from the search4careercolleges.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208181612id_/http%3A//www.search4careercolleges.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search4careercolleges.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606220618id_/http%3A//www.search4careercolleges.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# www.search4careercolleges.com
+# search4careercolleges.com
 
-|  |   
----  
-|  |  |  |    
-|  | [Search 4 Colleges](https://web.archive.org/default.asp)  
----|---  
-| [Featured School](https://web.archive.org/feat_school.asp)  
-| [Featured Career](https://web.archive.org/features/feat_career_051001.asp)  
-| [Articles](https://web.archive.org/articles.asp)  
-| Tell a Friend  
 | 
 
-Subscribe to our Newsletter  
-  
-  
-  
-  
 **Privacy Policy**
 
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our visitors, members, and partners. It is designed not only to assist you in understanding how we collect, use, and safeguard the personal information you provide to us, but also to help you in making informed decisions when using our Site and our products and services. This Privacy Policy will be continuously assessed against new technologies, business practices, and our customers' needs.  
@@ -50,17 +36,12 @@ We may use third-party advertising companies to serve ads on our behalf. These c
 **Do We Comply With Legally Compelled Disclosure Of Information?  
 **We may release any private information about you that we possess when we believe release is appropriate to comply with the law, to enforce or apply our Terms and Conditions, Privacy Policy and/or other agreements, or to protect the rights, property or safety of PlattForm Advertising, Inc., our Site users, or others.  
 **What About Other Web Sites Linked to or from Our Web Site?  
-**The links in the Search4 family of web sites allow you to leave our Site. Please be aware that once you leave our Site and enter another web site, or use certain services provided through our Site, our Privacy Policy is no longer in effect. Your browsing and interaction on web sites that have a link to our Web site, or any links contained in a linked site, is subject to that web site's own rules and policies. PlattForm Advertising, Inc. is not responsible for the privacy practices employed by these sites, nor the information or content contained therein. We provide these links to you only as a convenience, and the inclusion of any link does not imply endorsement by PlattForm Advertising, Inc. of the site. Please read over the rules and policies of these sites before proceeding.  
-   
-   
-  
-[Home](https://web.archive.org/default.asp) | [Join Our Affiliate Program](http://www.search4clicks.com/) | [Advertising Opportunities](https://web.archive.org/advertising.asp) |  [E-mail Us](mailto:bradg@search4careercolleges.com) | [Other Search4 Sites](http://www.search4college.com/)   
-[Privacy Policy](https://web.archive.org/privacy_policy.asp) | [Terms and Conditions](https://web.archive.org/terms_and_conditions.asp)
-
-**OTHER SITES:**  
-[Art Schools](http://www.search4art-schools.com/) | [Automotive Training](http://www.search4automotive-training.com/) | [Business Schools](http://www.search4business-schools.com/) | [Canadian Colleges](http://www.search4canadian-colleges.com/)    
-[Community Colleges](http://www.search4communitycolleges.com/)   [Computer Schools](http://www.search4computer-schools.com/) | [Culinary Schools](http://www.search4culinary-schools.com/) | [Graphic Design Schools ](http://www.search4graphicdesign-schools.com/) |  
-[Healthcare Training ](http://www.search4healthcare-training.com/)   [IT Training](http://www.search4it-training.com/) | [Massage Schools ](http://www.search4massage-schools.com/) | [Personal Trainer Schools](http://www.search4personaltrainer-schools.com/) |  
-[Technical Colleges](http://www.search4technical-training.com/)   [Truckdriving Schools](http://www.search4truckdriving-schools.com/) | [Vocational Colleges](http://www.search4vocational-training.com/) |  
-[Welding Schools](http://www.search4welding-schools.com/)   [Career Explorer](http://www.careerexplorer.net/)   ©2003 Plattform Advertising, Inc. All rights reserved. Any copying, redistribution or retransmission of any of the contents of this service without the express written consent of Plattform Advertising, Inc. is expressly prohibited.     
-
+**The links in the Search4 family of web sites allow you to leave our Site. Please be aware that once you leave our Site and enter another web site, or use certain services provided through our Site, our Privacy Policy is no longer in effect. Your browsing and interaction on web sites that have a link to our Web site, or any links contained in a linked site, is subject to that web site's own rules and policies. PlattForm Advertising, Inc. is not responsible for the privacy practices employed by these sites, nor the information or content contained therein. We provide these links to you only as a convenience, and the inclusion of any link does not imply endorsement by PlattForm Advertising, Inc. of the site. Please read over the rules and policies of these sites before proceeding. |   
+|  |  [Search 4 Colleges](http://www.search4college.com/)  
+---|---  
+|  [Featured School](https://web.archive.org/feat_school.asp)  
+|  [Featured Career](https://web.archive.org/features/feat_career_051001.asp)  
+| [Articles](https://web.archive.org/articles.asp)  
+| Tell a Friend  
+| Subscribe to our Newsletter  
+ 
