@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212145740id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033909id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
 
 # AskMen.com : Media Kit
 
