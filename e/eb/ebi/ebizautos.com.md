@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206084212id_/http%3A//www.ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624135400id_/http%3A//www.ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22) for the most accurate reproduction.*
 
 # eBizAutos - Online Auction Management and Advanced Inventory Hosting Solutions
 
@@ -7,39 +7,61 @@
 
 Privacy Policy
 
+**EBIZAUTOS AND LOOKSLIKE, INC. ARE COMMITTED TO YOUR PRIVACY!**
+
+Your privacy is important, so we have created the following Privacy Policy to let you know what information we collect when you visit our web site, why we collect it, and how it is used. This Privacy Policy applies to all information that you provide to Lookslike, Inc. and that Lookslike, Inc. maintains electronically, whether you provide the information through www.ebizautos.com (the "Site"), or through other means. Additionally, this Privacy Policy applies to any personal information obtained from your (and, if applicable, your family's) use of the Site. This Privacy Policy does not apply to any information that you may provide to third parties; for example, other sites linked to this Site. You should contact such third parties directly to determine their respective privacy policies. This Privacy Policy is governed by our [Terms of Use](https://web.archive.org/web/20040624135400id_/http%3A//www.ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22?page=db&section=3&page_id=24). We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. We believe very strongly that private information should remain private. We would like to hear your feedback about this statement. If you have comments or questions, please e-mail us by clicking [here](mailto:support@ebizautos.com).
+
+**SPECIAL NOTE ABOUT CHILDREN**  
+This Site is not intended for or directed to persons under the age of 18. Lookslike, Inc. does not provide services for children. Lookslike, Inc. does not knowingly solicit data from children and does not knowingly market to children. By providing Lookslike, Inc. with any information, you represent to Lookslike, Inc. that you are 18 years of age or older.
+
+**WHAT INFORMATION DO WE COLLECT FROM YOU? WHY?**  
+We collect and maintain a variety of information about you to assist you in the management of your auction inventory. The information we maintain includes, among other things:
+
+* your name, your phone number and address (street and e-mail)
+* information about your dealership
+* information on motor vehicles you submit through this Site in accord with our Terms of Service
+
+Lookslike, Inc. is NOT in the business of selling, renting, or sharing your personally identifiable information to others and we disclose "personally identifiable" information only in the following ways.
+
+We will only export data and information you provide us on this Site in accord with our Terms of Service. We also use your information for other things that may include, but are not limited to, the following:
+
+**Contacting You  
+**Lookslike, Inc. uses your personally identifiable information to communicate with you in the event we have any questions with regard to your online information form. We may also contact you to tell you about products and services provided by our other affiliates and other third-party organizations.
+
+**Use of Cookies  
+**Cookies are a standard technology used by commercial web services to store small pieces of information on your hard drive by sending a small string of text to your browser. They make your use of this Site more pleasing and efficient by "personalizing" your user interface, for example, or identifying which parts of a site you have previously visited. They also enable us to pre-populate, or automatically fill out, forms and schedules, or to assist you in visiting multiple pages within the Site during the same session without having to re-enter your password multiple times. For your convenience, we also use longer-lasting cookies to display your email address on our sign-in form so that you do not have to retype your email address each time you log in to your eBizAutos account. They enable us to tailor the information you receive and to assist third party organizations with whom we have strategic alliances by identifying you as a Lookslike, Inc. client, employee or eBizAutos website user. Most web browsers automatically accept cookies, unless you have configured yours not to accept them. In order for us to provide you with services on eBizAutos, your browser must accept cookies, as they are essential for site administration and security. Lookslike, Inc. does not use cookies either to collect individually identifiable information or to collect non-individually identifiable information using a cookie that is combined with a personal identifier.
+
+**Use of IP Address  
+**IP addresses are numbers that are automatically assigned to your computer, and, if associated with other individually identifiable information, could be considered personal information. User IP address information is used only for our internal tracking purposes.
+
+****CERTAIN EXCEPTIONAL DISCLOSURES**  
+**We may disclose your information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or Lookslike, Inc. has good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders, or legal process served on eBizAutos or Lookslike, Inc., or (2) to protect and defend the property or rights of Lookslike, Inc., the users of this Site or the public. This includes exchanging information with other companies and organizations for fraud protection and credit risk protection. If Lookslike, Inc. should ever file for bankruptcy, be acquired by, or merge with another company, we may sell the information you provide to us on the this Site to a third party or share your personal information with the acquiring or merging company.
+
+**HOW DO WE PROTECT INFORMATION WE COLLECT?**  
+We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our web site reduce the likelihood of security problems to a level appropriate to the type of data involved. Your information is protected in accordance with our [Security Policy](https://web.archive.org/web/20040624135400id_/http%3A//www.ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22?page=db&section=3&page_id=23).
+
+**HOW LONG DO WE KEEP USER INFORMATION?**  
+We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely. Data management requests are administered in an orderly manner to the extent feasible and within our direct control. Please note that we have greater control over recently collected data than over archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, our general data retention policy applies.
+
+**YOUR CONSENT TO THIS POLICY**  
+By using this Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our [Terms of Use](https://web.archive.org/web/20040624135400id_/http%3A//www.ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22?page=db&section=3&page_id=24) take precedence over any conflicting Policy provision. We may change our Privacy Policy by posting a new version of the policy on this page, which it is your responsibility to review frequently.
+
+**IF YOU HAVE A PRIVACY QUESTION**  
+If you have a privacy question about this Site, please email:  
   
-eBizAutos, a division of Lookslike, Inc., ("eBizAutos") will not rent or sell your name, address, email address, credit card information, or personal information to any third party without your permission.
+Customer Service at **[support@ebizautos.com](mailto:support@ebizautos.com)**
 
-**Information collection and use**  
-eBizAutos is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. eBizAutos collects information from our users, such as name, email address, and contact information at several different points on our website.
+Or write to:
 
-**Credit card information**  
-eBizAutos requires customers to provide credit card information in order to process monthly payment for services. For your complete security credit card information is not collected online. Your credit card information is not stored in our online databases. Credit card transactions are handled by a third-party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions. In such a cases the third party's privacy and disclosure policies apply.
+**Customer Service Department  
+Lookslike, Inc.  
+5125 West Oquendo Road, Suite 16  
+Las Vegas, Nevada 89118**
 
-eBizAutos clients are welcome to send in their credit card information by phone or by FAX. Just call our customer service department at 702-255-4434.
+****
 
-**Cookies**  
-"Cookies" are small files of data that we send to your computer to allow us to recognize you as a eBizAutos customer if you return to the eBizAutos site using the same computer and browser. We send a “session cookie” to your computer if and when you log in to your eBizAutos account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don’t need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect. We also use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't have to retype the e-mail address each time when you log in to your eBizAutos account. Our cookie files are encoded so that your e-mail address and other information can only be interpreted by eBizAutos. 
+**DATE LAST MODIFIED: JANUARY 1, 2004**
 
-**Security**  
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. See our Security Statement for more detailed security information.
+ **** **© 2004 Lookslike, Inc.**
 
-**Links**  
-This web site contains links to other sites. Please be aware that eBizAutos is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-**Log Files**  
-Because of the way that World Wide Web communication standards work, when you arrive at or leave the eBizAutos Web site, we automatically receive the Web address of the site that you came from or are going to. We also collect information on which pages of our Web site you visit while you are on the eBizAutos site, the type of browser you use and the times you access our Web site. We use this information only to try to understand our customers’ preferences better and to manage the load on our servers, so as to improve our service and your experience with eBizAutos. We do not track the Web sites that you visit before or after you leave the eBizAutos site.
-
-**Site and Service Updates**  
-We also send the user site and service announcement updates. Customers are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
-
-**Correction/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we provide an easy way to correct, update or remove that user’s personal data via our "Your Account" section. Simply sign in to [your account](http://www.ebizautos.com/cp.cfm), click "Account Profile," and make the appropriate changes to your account information.
-
-**Changes to our Policy**  
-Our Policy is intended to provide you with the safest and most secure online experience possible. Since offerings and technologies change, we reserve the right to change, modify, add or remove portions of our Privacy Policy at any time without prior notice. If policy changes are substantial, we will notify our customers via email. We will post any changes in our policy on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-**Your Consent**  
-By using the eBizAutos web site, you signify your agreement to this Privacy Policy. If you do not agree to the terms of this policy, please do not provide us with any information. Your continued use of the eBizAutos web site in light of changes to this policy will mean that you accept the changes.
-
-If you have any questions, or would like further clarification, please contact our Customer Service department at [support@eBizAutos.com](mailto:support@eBizAutos.com).
+ ****
