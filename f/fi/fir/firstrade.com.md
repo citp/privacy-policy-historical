@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstrade.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211093220id_/http%3A//www.firstrade.com/public/home_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstrade.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623222906id_/http%3A//www.firstrade.com/public/home_privacypolicy.html) for the most accurate reproduction.*
 
-# Firstrade-- Privacy Policy
+# Privacy Policy
 
 **Your Privacy is our Priority**  
 FIRSTRADE is committed to protecting our customers' personal and financial information. In the course of providing you with FIRSTRADE's brokerage services, we need to collect and maintain certain nonpublic personal information about you. This Privacy Policy answers some questions about what nonpublic personal information we collect, what we do with it, and how we protect it.
