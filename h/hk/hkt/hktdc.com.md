@@ -1,118 +1,98 @@
-> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630055759id_/http%3A//www.tdctrade.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170626id_/http%3A//www.tdctrade.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement TDC (tdctrade.com)
 
-**1\. Our Policy**
+We take individual privacy seriously. This Statement explains our policies and practices. 
 
-We take seriously the protection of privacy of the users of the Website. This Privacy Policy Statement explains our privacy practices.
+We respect your privacy and we promise:
 
-We promise to respect your privacy when collecting, storing and transmitting personal data.
+  * to implement computer, physical and procedural safeguards to protect the security and confidentiality of the personal data we collect
+  * to limit the personal data collected to the minimum required to provide a better service
+  * to permit only properly trained, authorized employees to access personal data
+  * not to disclose your personal data to external parties unless you have agreed, we are required by law or we have previously informed you.
 
-**2\. Collection of Personal Data**
+| **1.** | 
 
-You may need to register, pay a fee and/or provide personal data in order to have access to certain Information or Services on the Website. Refusal to supply personal data may result in TDC being unable to process the request.
+**Information collection**
 
-Whenever you submit enquiries or feedback to us, it will require your personal data which will then be recorded and collated by us.
+In order to provide a better service to you, we may collect information when you register with us, use our services, attend our functions, or communicate with us. 
 
-Personal data may also be collected in the ordinary course of the other operations available on the Website, such as from users who post any information in the "Business Matching" Service. 
+As part of our mission to facilitate Hong Kong trade, we collect information and maintain a database about Hong Kong and overseas companies. In the process, we also collect personal information about individual contact persons of the companies or their employees.
 
-We shall make a record of your visit to the Website that shows the domain name server address part of your email address and of the pages visited. We only collect aggregate information about the number and types of visitors by reference to their domain name server address. This information is used by us for preparing general statistics on the usage of our Website.
+If specific information is requested but not supplied, we may be unable to provide the requested service. 
 
-**3\. Use of Personal Data**
+We only retain personal data for so long as it is necessary. However a copy may be archived indefinitely.  
+  
+---|---  
+**2.** | 
 
-The main purposes for which personal data may be used by us are:
+**Use of information**
 
-  * processing your application or registration for Services, order, enquiry or feedback 
-  * incorporation into TDC’s database   
+The purposes for which information may be used by us in and outside Hong Kong include:
 
-  * provision of contacts and business details in response to enquiries   
-
-  * TDC's operations   
-
-  * marketing services   
-
-  * meeting requirements to make disclosure under any law applicable in or outside Hong Kong   
-
-  * auditing   
-
-  * collection of amounts owing to TDC   
-
-  * other related purposes   
-
-
-
-
-The personal data may be used by us both in and outside Hong Kong.
-
-**4\. Disclosure to Third Parties**
-
-Personal data held by TDC will be kept confidential but TDC may provide such information to:
-
-  * any personnel, agent, adviser, auditor, contractor or service provider who provides services or advice to TDC in connection with TDC's operations 
-  * any person under a duty of confidentiality to TDC   
-
-  * any person to whom TDC is required to make disclosure under any law applicable in or outside Hong Kong   
-
-  * any actual or proposed transferee or participant of TDC's operations   
+  * processing applications
+  * providing services to facilitate trade between Hong Kong and overseas, and providing enquirers with contact and business information
+  * our operations, e.g., incorporation into our database, analysis, research and auditing
+  * notification of HKTDC trade fairs in Hong Kong and promotional events or trade fairs around the world
+  * distribution of HKTDC publications and research materials
+  * marketing HKTDC services or products
+  * complying with laws in or outside Hong Kong 
+  * legal proceedings, including collecting overdue amounts 
+  * other related purposes.
 
 
 
+We may conduct direct marketing via fax, email, direct mail, telephone and other means of communication, or send e-newsletters to you. You may choose not to receive promotional materials, by simply telling us, and we will cease to do so, without charge.  
+  
+**3.** | **Disclosure**
 
-Some Services may involve the disclosure of your personal data or other contact information and business details. For example, personal data provided to us in relation to the “Business Matching” Service is available to other users of the Service.
+We will keep the personal data we hold confidential but may provide information to:
 
-Payment information may be provided to banks and other financial institutions in connection with the collection of payments.
-
-You should also note that the privacy protection stated in this Privacy Policy Statement does not apply to Information which has been passed to third parties in the course of providing the Services (e.g. Information may be passed to vendors of products to be sold on-line), and we are not responsible for the privacy protection or lack thereof on the part of such third parties.
-
-**5\. Marketing**
-
-From time to time, we may conduct direct marketing of TDC's products or services via faxes, e-mails, direct mails, tele-marketing and/or other forms of communication to you. You may choose to opt-out of receiving such promotional material. 
-
-In order to fully enjoy the services of the Website, we encourage you to receive such promotional materials which have been specially prepared for you. 
-
-**6\. Hyperlinks**
-
-This Privacy Policy Statement only applies to the Website. If you click on any advertisement or hyperlink linking to another website, you will leave the Website for another location. The protection of your privacy, personal data and your exposure to cookies are not the responsibility of TDC and you should refer to the privacy policies of that other location (if any).
-
-**7\. Cookies**
-
-Cookies are used by some websites to track or modify a user's interaction with the site based on information sent by the user's internet browser to the server. These cookies may be saved permanently on the user's personal computer. 
-
-The Website does use cookies. Cookies are essential for the functioning of certain applications and services; if use of cookies is disabled on your browser, it will have an adverse effect on your enjoyment of the Website.
-
-We also collect statistics on pages viewed on the Website and usage patterns in order that we may measure traffic, gauge the popularity of various parts of the Website and gain some general statistics about our users and market the Website to advertisers, with whom we may share summarized traffic data. This information does not identify you as an individual.
-
-**8\. Security**
-
-Where personal data is stored electronically, it will be kept in a password-protected form. Personal data, whether stored in electronic form on computers or in hard-copy form will be accessible only by authorized employees of TDC. Employees designated to handle personal data will be made acquainted with this Privacy Policy Statement and told how to fulfil our obligations to you.
-
-**9\. Use of Personal Data in Legal Proceedings**
-
-If it becomes necessary that we have to take action against you for any reason whatsoever including unpaid fees, you expressly agree that the personal data provided by you can be relied upon in identifying and taking action against you.
-
-**10\. Data Retention**
-
-TDC retains personal data so long as the data is still required for the purposes mentioned above. 
-
-We reserve the right to retain copies for archival purposes indefinitely.
-
-**11\. Personal Data (Privacy) Ordinance**
-
-Under this Ordinance, you may have the right:
-
-  * to check whether TDC holds data about you and to access such data 
-  * to require TDC to correct any inaccurate data relating to you   
-
-  * to ascertain TDC's policies and practices in relation to personal data and the kind of personal data held by TDC   
+  * personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services
+  * our overseas offices, affiliates, business partners and counterparts
+  * the public, including persons enquiring about Hong Kong companies 
+  * persons under a duty of confidentiality to us
+  * persons to whom we are required to make disclosure under applicable laws in or outside Hong Kong 
+  * actual or proposed transferees or participants of our services 
 
 
 
+We cannot control how third parties use information.   
+  
+**4.** | **Cookies [applicable to online user]**
 
-TDC may charge a reasonable fee for processing any data access request.
+Cookies are commonly used to facilitate transmission and to provide more useful features. It is a piece of data stored in your computer. We use these devices to find out more about the use of our websites and user preferences, in order to improve our services. We may share summarized traffic data with advertisers. We note traffic, pages visited and time spent. You are not identified. However if you agree by registering with us, we may link the information to you, so that you may receive information more suited to your interests. 
 
-**12\. Data Requests, Questions and Complaints**
+You may set your browser to reject cookies, or tell you when a cookie is being sent.
 
-Data access or correction requests and questions or complaints should be addressed to:
+Cookies are necessary for some features of the website to work, e.g., to maintain continuity during a session. If they are not accepted, those features may not work properly.  
+  
+**5.** | **Security**
+
+Personal data stored electronically are password-protected. Encryption technology is used on our secured web areas. Our computer systems are placed in restricted areas. We only permit authorized employees to access personal data. These employees are trained on our privacy policies.  
+  
+**6.** | **Hyperlinks [applicable to online user]**
+
+Hyperlinks to other websites are provided for your convenience. You will leave our website for another location that is not controlled by us. Our privacy policies do not apply to other websites. Please refer to the privacy policies of the other websites.  
+  
+  
+**7.** | **Changes**
+
+We may update this Statement. When we do, the changes will be posted on [www.tdctrade.com/privacy/index.htm](http://www.tdctrade.com/privacy/index.htm).  
+  
+**8.** | **Your consent and rights**
+
+By using our service, making an application or visiting our website, you consent to the collection and use of your information as outlined in this Statement.
+
+Under the Hong Kong Personal Data (Privacy) Ordinance, individuals have the right:
+
+  * to check whether we hold personal data about you and to access such data
+  * to require us to correct inaccurate data
+  * to ascertain our policies and practices in relation to personal data and the kind of personal data held by us.
+
+  
+  
+Please send requests to access or correct data, questions or complaints to:
 
 Data Privacy Officer  
 Hong Kong Trade Development Council  
@@ -124,7 +104,6 @@ Tel: (852) 2240 5299
 Fax: (852) 2575 0300  
 E-mail: [tdc.databank@tdc.org.hk](mailto:tdc.databank@tdc.org.hk)
 
-**13\. Chinese Version**
+We may charge a reasonable fee for processing a data access request.
 
-If there is any conflict or difference between the Chinese version of this Privacy Policy Statement and its English version, the English version prevails. If any part of the Chinese version is unclear, reference should be made to the English version. The Chinese version may not be translated into English for the purpose of comparing with or interpreting the English version.   
-
+If there is any conflict between the Chinese and English versions of this Statement, the English version prevails. 
