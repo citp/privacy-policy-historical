@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204083418id_/http%3A//www.stats.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113208id_/http%3A//www.stats.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # STATS, Inc.
 
