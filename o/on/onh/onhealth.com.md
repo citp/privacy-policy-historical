@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onhealth.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217213745id_/http%3A//my.webmd.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onhealth.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205092823id_/http%3A//my.webmd.com/privacy_policy) for the most accurate reproduction.*
 
 # WebMD - Privacy
 
@@ -29,9 +29,11 @@ WebMD is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non
 
 
 
-WebMD is a founding Member of Hi-Ethics, an alliance of health websites committed to a set of ethical principles designed to ensure that consumers can confidently realize the full benefit of the Internet to improve their health and the health of their families. The [Hi-Ethics Principles](https://web.archive.org/privacy_content/article/1761.50193) are described in detail on our website.
+WebMD is a recipient of the URAC e-Health seal. URAC is the American HealthCare Accreditation Association, an independent accrediting body that has reviewed and approved the WebMD Health website for compliance with the quality and ethics standards set forth in the Hi-Ethics Principles. Hi-Ethics is an alliance of health websites committed to a set of ethical principles designed to ensure that consumers can confidently realize the full benefit of the Internet to improve their health and the health of their families. The [Hi-Ethics Principles](https://web.archive.org/privacy_content/article/1761.50193) are set out in detail on our website. To learn more about the URAC accreditation process please click the URAC logo.
 
-WebMD also complies with the standards set by [Health on the Net](https://web.archive.org/click?url=http://www.hon.ch/HONcode/Conduct.html?HONConduct298987) [HON], as is indicated by the presence of the seal below. 
+[ ](https://web.archive.org/click?url=http://webapps.urac.org/healthwebsiteaccreditation/default.asp?id=321554545)
+
+[WebMD also complies with the standards set by ](https://web.archive.org/click?url=http://webapps.urac.org/healthwebsiteaccreditation/default.asp?id=321554545)[Health on the Net](https://web.archive.org/click?url=http://www.hon.ch/HONcode/Conduct.html?HONConduct298987) [HON], as is indicated by the presence of the seal below. 
 
 **Please remember that any information (including personal and medical information) that you reveal in a WebMD public forum (such as a bulletin board, Ask Our Expert posting, chat room/event) is not protected by this Privacy Policy. Such postings will be seen by third parties not related to WebMD. What you've written could be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. Also, if you access a third party site from a link on WebMD, any information you reveal on that site is not subject to this Privacy Policy. You should consult the privacy policies of each site you visit.**
 
@@ -200,11 +202,11 @@ You should be aware that it is not technologically possible to remove each and e
 
 Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future, we may make significant changes to our privacy policy affecting the use of the Personal Information we collect. We will notify you by email of any significant changes concerning our use of your Personal Information and obtain your "opt-in" consent to any significant new uses of your Personal Information if it was collected from you prior to a significant change in this policy. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personal Information and we generally will not notify you of these non-significant changes. You should check this posted Privacy Policy for any non-significant changes. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately. 
 
-Revised November, 2001
+Revised January, 2002
 
   
 
 
-© 2001 WebMD Corporation. All rights reserved.
+© 2002 WebMD Corporation. All rights reserved.
 
 | 
