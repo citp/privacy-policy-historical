@@ -1,16 +1,35 @@
-> *The following text is extracted and transformed from the tdwaterhouse.ca privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165930id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdwaterhouse.ca privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607050953id_/http%3A//www.td.com/privacy/index_inc.jsp) for the most accurate reproduction.*
 
 # 
 
 TD Bank Financial Group's Privacy Code informs you of our commitment to and policy on privacy. It tells you the ways we ensure that your privacy and the confidentiality of your information are protected. To review the full text of our Privacy Code, click here. 
 
-Many of you have questions about how we are handling the information we obtain from you when you visit our Web sites. We developed an On-Line Privacy Policy to answer your questions about the information we collect when you visit a Web site of the TD Bank Financial Group and how we use it. To review the full text of our On-Line Privacy Policy, click here. 
+Many of you have questions about how we are handling the information we obtain from you when you visit our websites. We developed an On-Line Privacy Policy to answer your questions about the information we collect when you visit a website of the 
 
-Privacy Code Table of Contents
+TD Bank Financial Group
 
-* * *
+and how we use it. To review the full text of our On-Line Privacy Policy, click here. 
 
-Protecting your privacy and the confidentiality of your personal information has always been fundamental to the way we do business within TD Bank Financial Group*. 
+Privacy Code Table of Contents   
+
+
+The TD Bank Financial Group Commitment to Privacy  
+Our privacy policy  
+Why we ask for your information  
+Serving you better  
+Why we ask others for information about you  
+When we release your information  
+How we protect your information  
+Your right to access your information  
+Keeping your information accurate  
+Respecting your preference  
+Addressing your concerns   
+Our online privacy policy  
+Who can answer your questions about privacy
+
+The TD Bank Financial Group commitment to privacy
+
+Protecting your privacy and the confidentiality of your personal information has always been fundamental to the way we do business within TD Bank Financial Group. 
 
 We strive to provide you with the best customer service. To us, that includes treating you fairly and with respect. 
 
@@ -24,13 +43,19 @@ Our privacy policy applies to personal customers, including individuals carrying
 
 Either before or when we collect information about you, we will explain how we intend to use it. We will limit the information we collect to what we need for those purposes, and we will use it only for those purposes. We will obtain your consent if we wish to use your information for any other purpose and before collecting information from third parties such as credit bureaus. 
 
+Your personal financial information is used to help us manage operations and risk within TD Bank Financial Group. Your information is also used in order to satisfy valid information requests from regulators and other organizations or individuals who are legally entitled to make such requests. 
+
+Call Taping
+
+For our mutual protection and to confirm our discussions with you, we may monitor and/or record your telephone discussions with our representatives. 
+
 2\. Releasing information
 
 We may provide your information to other persons: 
 
   * where we have your consent 
   * where the other parties are our suppliers or agents who assist us in serving you 
-  * where we are required or permitted to do so by law 
+  * where we are required or permitted to do so by law or applicable regulators 
   * where transfers of a business are involved 
 
 
@@ -39,17 +64,21 @@ We may provide your information to other persons:
 
 We will protect your information with appropriate safeguards and security measures. We will retain your information only for the time it is required for the purposes we explain.
 
-4\. Providing information access and accuracy We will give you access to the information we retain about you. We will make every reasonable effort to keep your information accurate and up-to-date.
+4\. Providing information access and accuracy
+
+We will give you access to the information we retain about you. We will make every reasonable effort to keep your information accurate and up-to-date.
 
 5\. Respecting and responding to your privacy concerns
 
-In this Privacy Code, we will explain your options for refusing or withdrawing consent to the collection, use and release of your information, and we will record and respect your choices. We will investigate and respond to your concerns about any aspect of our handling of your information. In this Privacy Code, we will explain how we fulfill each of these important principles.
+In this Privacy Code, we will explain your options for refusing or withdrawing consent to the collection, use and release of your information, and we will record and respect your choices. We will investigate and respond to your concerns about any aspect of our handling of your information. 
+
+In this Privacy Code, we will explain how we fulfill each of these important principles.
 
 Why we ask for your information
 
 _We ask you for information to establish and serve you as our customer._
 
-We obtain most of our information about you directly from you. The information we ask for depends on which product or service you want. For every product or service, we need your name, address and some identification. Here is why we need some of the other information we ask you to provide. 
+We obtain most of our information about you directly from you. The information we ask for depends on which product or service you want. For every product or service, we need your name, address, birthdate, occupation and some identification. Here is why we need some of the other information we ask you to provide. 
 
 • Birth date
 
@@ -57,15 +86,19 @@ This helps us identify you and ensure that no one is trying to impersonate you. 
 
 • Social Insurance Number (SIN)
 
-Your SIN is required for products which earn investment income, in order to comply with the Canada Customs and Revenue Agency's income reporting requirements. Providing your SIN for credit products is optional. If you provide your SIN, we also use it to keep your information separate from that of other customers with a similar name, including information we obtain with your consent through the credit approval process.
+Your SIN is required for products which earn investment income, in order to comply with the Canada Revenue Agency's income reporting requirements. Providing your SIN for credit products is optional. If you provide your SIN, we also use it to keep your information separate from that of other customers with a similar name, including information we obtain with your consent through the credit approval process.
 
 • Financial information
 
-This is used to assess your eligibility for any credit product, for example, a TD Visa* card, line of credit or other loan. We also use it to ensure that the advice we give you or the investments you purchase (in the case of mutual funds or brokerage or investment accounts) are appropriate for you.
+This is used to assess your eligibility for any credit product, for example, a TD _Visa_ * card, line of credit or other loan. We also use it to ensure that the advice we give you or the investments you purchase (in the case of mutual funds or brokerage or investment accounts) are appropriate for you.
 
 • Health information
 
-This is required for some insurance products to ensure you are eligible for coverage. We only collect the information we need and only use it for the purposes explained to you. When you apply for a new product or service, we will indicate in the application or agreement how we intend to use your information. If we wish in the future to use it for another purpose, we will ask you for your consent at that time. We will only ask for the information we need for that particular product or service. We will indicate clearly which information would help us to serve you but is optional for you to provide.
+This is required for some insurance products to ensure you are eligible for coverage. 
+
+_We only collect the information we need and only use it for the purposes explained to you._
+
+When you apply for a new product or service, we will indicate in the application or agreement how we intend to use your information. If we wish in the future to use it for another purpose, we will ask you for your consent at that time. We will only ask for the information we need for that particular product or service. We will indicate clearly which information would help us to serve you but is optional for you to provide.
 
 Serving you better
 
@@ -73,11 +106,13 @@ _With your consent, we may share your information within TD Bank Financial Group
 
 We want to serve you better and meet your customer service expectations. Agreeing to let us share your information within TD Bank Financial Group helps us to meet this goal.
 
-It lets us instantly recognize your total relationship with TD Bank Financial Group, no matter when or where you contact us or which one of us you contact. It also means that changes to your information, such as updated addresses or telephone numbers, can be made once and be effective for all your products or services with TD Bank Financial Group. 
+Sharing Information lets us instantly recognize your total relationship with TD Bank Financial Group, no matter when or where you contact us or which one of us you contact. It also means that changes to your information, such as updated addresses or telephone numbers, can be made once and be effective for all your products or services with TD Bank Financial Group.
 
 Sharing your information also helps us determine your financial needs because it allows us to review what TD Bank Financial Group products you have and how you use them. We may then offer you other TD Bank Financial Group products and services - including special promotions - that we believe will be of interest to you. 
 
-Please note that health information that may have been provided in connection with an insurance product is never shared. This consent is optional and you can decide to withdraw it at any time. Please refer to the "Respecting your preference" section (Page 10).
+_Please note that health information that may have been provided in connection with an insurance product is never shared._
+
+This consent is optional and you can decide to withdraw it at any time. Please refer to the "Respecting your preference" section.
 
 Why we ask others for information about you
 
@@ -89,7 +124,7 @@ For credit products, for example, we need to know your creditworthiness. For thi
 
 When we release your information
 
-We are not in the business of selling customer lists or information to others. However, we may release your information to parties outside TD Bank Financial Group in certain circumstances, which include:
+_We are not in the business of selling customer lists or information to others. However, we may release your information to parties outside TD Bank Financial Group in certain circumstances, which include:_
 
 • With your consent
 
@@ -99,7 +134,7 @@ We will disclose your credit history with us to other lenders or credit bureaus 
 
 We give a limited amount of information, only as necessary, without your consent, to our suppliers and agents; for example, cheque printers and bank card manufacturers who provide goods and services to you through us.
 
-• When required or permitted by law
+• When required or permitted to do so by law or applicable regulators
 
 We must give information in response to a valid demand, search warrant or other legally valid enquiry or order. We may disclose information to help us collect a debt owed to us by you. We may also disclose information to an investigative body in the case of a breach of agreement or contravention of law - this helps prevent fraud, money laundering or other criminal activity.
 
@@ -123,17 +158,19 @@ All employees of TD Bank Financial Group are familiar with the procedures that m
 
 _We audit our procedures and security measures regularly to ensure that they are being properly administered and that they remain effective and appropriate._
 
-We retain your information only as long as it is required for the reasons it was collected. The length of time we retain information varies depending on the product or service and the nature of the information. This period may extend beyond the end of your relationship with us but only for so long as it is legally necessary for us to have sufficient information to respond to any issue that may arise at a later date. When your information is no longer needed for the purposes explained to you, we have procedures to destroy, delete, erase or convert it to an anonymous form.
+_We retain your information only as long as it is required for the reasons it was collected._
+
+The length of time we retain information varies depending on the product or service and the nature of the information. This period may extend beyond the end of your relationship with us but only for so long as it is legally necessary for us to have sufficient information to respond to any issue that may arise at a later date. When your information is no longer needed for the purposes explained to you, we have procedures to destroy, delete, erase or convert it to an anonymous form.
 
 Your right to access your information
 
 _We will give you access to the information we have about you._
 
-Most of this information is in the form of your transaction records. These are available to you through your account statements or passbook updates, by visiting the branch or office where your account is held, or by accessing your account through our EasyWeb Internet banking, EasyLine telephone banking,Wireless banking, Green Machine* automated banking machines, and brokerage services.
+Most of this information is in the form of your transaction records. These are available to you through your account statements or passbook updates, by visiting the branch or office where your account is held, or by accessing your account through our EasyWeb Internet banking, EasyLine telephone banking, Wireless banking, Green Machine¤ automated banking machines, and brokerage services.
 
 If you require other information, simply contact or forward a written request to the branch or office where your account is held. We will ask you for specific details such as branch and account number. We will advise you in advance if a minimal charge will be required for conducting the search, and we will respond to your request within 30 days.
 
-Please note that we may not be able to provide information about you from our records which contains references to other persons which is subject to legal privilege, contains confidential information proprietary to TD Bank Financial Group, relates to an investigation of a breach of agreement or contravention of laws, or cannot be disclosed for other legal reasons. Also, we do not maintain disclosure records for regular or routine actions such as T5 or other reports to Canada Customs and Revenue Agency, regular updating of credit information to credit bureaus, or account balance deficiencies through the return of NSF items.
+Please note that we may not be able to provide information about you from our records which contains references to other persons, is subject to legal privilege, contains confidential information proprietary to TD Bank Financial Group, relates to an investigation of a breach of agreement or contravention of laws, or cannot be disclosed for other legal reasons. Also, we do not maintain disclosure records for regular or routine actions such as T5 or other reports to Canada Revenue Agency, regular updating of credit information to credit bureaus, or account balance deficiencies through the return of NSF items.
 
 If you have any questions regarding decisions made about you, we will tell you the reasons for those decisions. Where relevant, we will provide you with the name and address of the credit bureau from which a report was obtained.
 
@@ -147,7 +184,11 @@ You can help by keeping us informed of any changes, such as if you move or chang
 
 Respecting your preference
 
+_
+
 We will explain your options of refusing or withdrawing consent to the collection, use or release of your information, and we will record and respect your choices.
+
+_
 
 In most cases you are free to refuse or withdraw your consent at any time. You may do so by contacting the branch or office where your account is held or by calling us at 1-800-430-6095. Our staff will be pleased to explain your options and any consequences of refusing or withdrawing your consent, and record your choices.
 
@@ -205,9 +246,12 @@ Toronto, Ontario M5B 2K3
   * **Email :** [ombudsman@obsi.ca](mailto:ombudsman@obsi.ca)
   * **Telephone:** 416-287-2877 or 1-888-451-4519
 
-_You may also contact The Office of the Privacy Commissioner of Canada at 112 Kent Street, Ottawa, Ontario K1A 1H3, or call toll-free at 1-800-282-1376._
 
-* * *
+
+_You may also contact The Office of the Privacy Commissioner of Canada at Place de Ville, 112 Kent Street, 3rd Floor, Ottawa, Ontario K1A 1H3, or call toll-free at 1-800-282-1376._
+
+  
+
 
 Our online privacy policy
 
@@ -234,9 +278,9 @@ Using our Internet transaction services
 
 When you register for one of our Internet transaction services, such as EasyWeb, we compile a profile of you for that service (e.g. name, address, account numbers, login ID, etc.). Each time you use our Internet services, we collect your login ID, information about the transactions that you complete and the informational pages of the web that you visit while using the service.
 
-We use your profile in responding to your enquires on the service. We use your login ID to identify you as a user of the service. We use the transaction information in the aggregate to assess and improve the service. We use specific transaction information for servicing purposes (e.g. billing).
+We use your profile in responding to your enquiries on the service. We use your login ID to identify you as a user of the service. We use the transaction information in the aggregate to assess and improve the service. We use specific transaction information for servicing purposes (e.g. billing).
 
-We use both your transaction information and the informational pages of the web that you have visited to determine your financial needs so that we can offer other TD Bank Financial Group products and services to you.
+We use both your transaction information and the informational pages of the website that you have visited to determine your financial needs so that we can offer other TD Bank Financial Group products and services to you.
 
 Cookies
 
@@ -248,7 +292,7 @@ TD Bank Financial Group uses session cookies as an additional security feature f
 
 We also use session cookies to track your visits within our site. We use that information to determine the type of information that you are looking for in our site and to improve our site. We use information about the site you visited immediately prior to our site to assess the viability of links to our site that we have created on third party sites.
 
-The information stored in "persistent cookies" is written onto your hard drive and remains there until the expiry date of the cookie. TD Bank Financial Group uses persistent cookies to store non-sensitive information that you are aware of and have agreed to. For example, if you choose the option on our login screen to remember your TD Canada Trust Access Card number or Connect ID for EasyWeb or WebBroker*, the system will remember and automatically input your Access Card number or Connect ID each time you use the service from that PC.
+The information stored in "persistent cookies" is written onto your hard drive and remains there until the expiry date of the cookie. TD Bank Financial Group uses persistent cookies to store non-sensitive information that you are aware of and have agreed to. For example, if you choose the option on our login screen to remember your TD Canada Trust Access Card number or Connect ID for EasyWeb or WebBroker¤, the system will remember and automatically input your Access Card number or Connect ID each time you use the service from that PC.
 
 Currently, most browsers do not distinguish between session cookies and persistent cookies. For web services to operate, your browser must be set to accept cookies. If you are concerned about having your browser enabled to accept cookies while you are surfing other websites, we recommend that you enable your browser to notify you when it is receiving a cookie. This gives you the ability of accepting or rejecting any cookie presented by the web server you are visiting.
 
@@ -256,7 +300,7 @@ Email comments, questions or responses
 
 When you send us an email or when you ask us to respond to you by email, we learn your exact email address and any information you have included in the email.
 
-We use your email address to acknowledge your comments and/or reply to your questions, and we will store your communication and our reply in case we correspond further. We will not sell your email address to anyone outside TD Bank Financial Group. We may use your email address to send you information about offers on products and services that we believe may be of interest to you. If you don't want us to contact you by email with offers on products and services, you maytell us so at any time.
+We use your email address to acknowledge your comments and/or reply to your questions, and we will store your communication and our reply in case we correspond further. We will not sell your email address to anyone outside TD Bank Financial Group. We may use your email address to send you information about offers on products and services that we believe may be of interest to you. If you don't want us to contact you by email with offers on products and services, you may tell us so at any time.
 
 If you have asked us to put you on an email mailing list to provide you with certain information on a regular basis, or if we send you information about our offers on products and services by email, you may ask us to remove you from the list at any time (using the unsubscribe instructions provided with each email and on the site where you signed up).
 
@@ -268,27 +312,29 @@ When you submit your answers to a game or contest or submit your response to a s
 
 We will use your submission for the purpose of awarding a prize in a contest. We use your submission to come up with the game or survey results, and we may publish those results in aggregate on our websites. We may use your response to improve our website or other products or services of TD Bank Financial Group. Based on your response, we may forward information about our offers on products and services that we believe may be of interest to you.
 
-* * *
+  
+
 
 Who can answer your  
-questions about privacy
+questions about privacy?
 
-To review your options under TD's Privacy Code, simply visit  
-any TD branch or office, or call toll-free:  
-1-800-430-6095 
+To review your options under the TD Privacy Code, simply visit  
+any branch or office, or call toll-free:  
+1-800-430-6095
 
 en français (in French)  
-1-888-572-8925 
+1-888-572-8925
 
   
 (in Cantonese/Mandarin)  
-1-800-328-3698 
+1-800-387-2828
 
-TDD (Telephone Device for the Deaf)  
-1-800-361-1180 
+TTY (Text telephone for customers who are deaf)  
+1-800-361-1180
 
 or visit our website at  
-www.td.com  
+[www.td.com](http://www.td.com/)  
 
 
-* * *
+  
+
