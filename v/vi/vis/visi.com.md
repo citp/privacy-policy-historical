@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visi.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203024925id_/http%3A//home.visi.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visi.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607171930id_/http%3A//home.visi.com/about/privacy.html) for the most accurate reproduction.*
 
 # VISI.com | About VISI.com | Privacy Statement
 
