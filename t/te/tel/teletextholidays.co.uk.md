@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210045412id_/http%3A//www.teletextholidays.co.uk/privacy.asp%3Farea%3Doverseas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622061729id_/http%3A//teletextholidays.co.uk/privacy.asp%3Farea%3Doverseas) for the most accurate reproduction.*
 
 # Teletext Holidays
 
@@ -15,6 +15,12 @@ Details we collect include your name, address, date of birth, e-mail address, ho
 The information you provide us with is held on Teletext computers based in the UK. It is collected to improve the service we offer to you by helping us to: customise any content and advertising you see, fulfil any requests you make on the website, and to allow us to notify you of any special offers or new products that we think may be of interest. This may involve transferring data outside the European Economic Area. 
 
 We may disclose the information we collect about you to Teletext associates and carefully selected third parties (both inside and outside the European Economic Area) to provide you with information on goods and services which may be of interest to you. If you do not wish your details to be used by Teletext or our associates and/or passed on to third parties, then please tick the appropriate box on the registration or contact us by [email](mailto:webmaster@teletext.co.uk). 
+
+**Online Advertising**
+
+Teletext uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. 
+
+For more information about DoubleClick, including information about how to opt out of these technologies, go to[http://www.doubleclick.net/us/corporate/privacy]. 
 
 **Use of Cookies**
 
@@ -34,4 +40,4 @@ Teletext reserves the right to make changes to this policy from time to time. An
 
 **Links to other sites**
 
-Links to other websites are provided for information only. Teletext accepts no responsibility in respect of your access to such websites or any material found on them. 
+Links to other websites are provided for information only. Teletext accepts no responsibility in respect of your access to such websites or any material found on them.
