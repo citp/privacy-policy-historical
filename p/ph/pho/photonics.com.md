@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604011154id_/http%3A//www.photonics.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204195445id_/http%3A//www.photonics.com/Privacy.html) for the most accurate reproduction.*
 
 # Photonics.com - Laurin Publishing Co. Inc.: Privacy Policy
 
@@ -7,7 +7,7 @@ Privacy Policy**
 
 Laurin Publishing Co., Inc. is firmly committed to protecting the privacy of those who visit our Web sites. Because we do gather certain types of information regarding our visitors, we want you to fully understand the terms and conditions surrounding the gathering and use of that information. This Privacy Policy explains what information we collect, how we use it, and how our visitors can correct or change it. 
 
-This Policy discloses the privacy practices for the entire Laurin Publishing network of Web sites, which includes Photonics.com, PhotonicsNet.com, PhotonicsSpectra.com, PhotonicsDirectory.com, Biophotonics.com, EuroPhotonics.com, Laurin.com, and other sites. It answers the following questions: 
+This Policy discloses the privacy practices for the entire Laurin Publishing network of Web sites, which includes Photonics.com, PhotonicsFiber.com, PhotonicsSpectra.com, PhotonicsDirectory.com, Biophotonics.com, EuroPhotonics.com, Laurin.com, and other sites. It answers the following questions: 
 
 1\. What information does Laurin Publishing gather/track?   
 2\. What does Laurin Publishing do with the information it gathers/tracks?   
@@ -20,7 +20,7 @@ Questions regarding this statement should be directed to [photonics@laurin.com](
 
 **1\. What information does Laurin Publishing gather/track?**
 
-Laurin Publishing collects two types of information about our site visitors: aggregated "traffic data" derived mainly by tallying page views throughout our sites; and personal data that some visitors provide through optional, voluntary subscription to one or more of our print publications, or through optional, voluntary participation in certain contests. Such information enables us to better tailor our content to our users' needs and to help our advertisers better understand the demographics of our audience. Because Laurin Publishing's Web sites lly Laurin Publishing conducts voluntary, optional user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party. 
+Laurin Publishing collects two types of information about our site visitors: aggregaBected "traffic data" derived mainly by tallying page views throughout our sites; and personal data that some visitors provide through optional, voluntary subscription to one or more of our print publications, or through optional, voluntary participation in certain contests. Such information enables us to better tailor our content to our users' needs and to help our advertisers better understand the demographics of our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party. 
 
 * **Contests**  
 Laurin Publishing may offer from time to time voluntary, optional contests in which we request certain personal information, including the user's name, e-mail address, company name, job title/function, and the service or product his or her company provides. The information gathered in the entry form is used to verify the entrant's identity, to send the entrant an e-mail notification that his or her entry has been received, and to contact winners and/or prize recipients. Under no circumstances will Laurin Publishing divulge this information to a third party. 
@@ -28,7 +28,7 @@ Laurin Publishing may offer from time to time voluntary, optional contests in wh
 Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event. All contests are conducted in full accordance with United States federal and state laws. 
 
 * **Electronic newsletters**  
-Laurin Publishing offers a free newsletter to users of its PhotonicsNet.com site. Laurin Publishing gathers the e-mail addresses of users who voluntarily subscribe to this newsletter. Users may remove themselves from this mailing list by sending an e-mail to [listserver@photonicsworld.com](mailto:listserver@photonicsworld.com) and including in the body of the message the following text: **unsubscribe newtoday {user's e-mail address}**. (This "unsubscribe" information is repeated in every newsletter.) 
+Laurin Publishing offers a free newsletter to users of its Photonics.com site. Laurin Publishing gathers the e-mail addresses of users who voluntarily subscribe to this newsletter. Users may remove themselves from this mailing list by sending an e-mail to [listserver@photonicsworld.com](mailto:listserver@photonicsworld.com) and including in the body of the message the following text: **unsubscribe newtoday {user's e-mail address}**. (This "unsubscribe" information is repeated in every newsletter.) 
 * **E-mail**  
 Users of the Laurin Publishing Web sites may voluntarily e-mail Laurin Publishing from time to time with requests for information on advertising rates or to order copies of our publications (such as the Photonics Directory, the Photonics Handbook, or the Photonics Spectra Job & Salary Survey). Such e-mails may include the user's name and other contact information in addition to his or her e-mail address. **Under no circumstances will Laurin Publishing divulge this information to a third party.**
 * **Resume postings**  
@@ -60,7 +60,7 @@ Laurin Publishing gives users options wherever necessary and practical. Such cho
 
 **5\. How can visitors correct and update personally identifiable information?**
 
-To correct or change the information collected during subscription to one of our publications, please visit our Web site's subscription areas for [Photonics Spectra](http://www.laurin.com/about/subscribe2.html), [Biophotonics International](http://www.laurin.com/about/subscribe3.html), or [EuroPhotonics](http://www.laurin.com/about/subscribe4.html). You may also e-mail any changes to [photonics@laurin.com](mailto:photonics@laurin.com), call us at 413-499-0514, fax us at 413-499-3180, or send ground mail to: 
+To correct or change the information collected during subscription to one of our publications, please visit our Web site's subscription areas for [Photonics Spectra](http://www.photonics.com/about/subscribe2.html), [Biophotonics International](http://www.photonics.com/about/subscribe3.html), or [EuroPhotonics](http://www.photonics.com/about/subscribe4.html). You may also e-mail any changes to [photonics@laurin.com](mailto:photonics@laurin.com), call us at 413-499-0514, fax us at 413-442-3180, or send ground mail to: 
 
 _Mailing List  
 Laurin Publishing Co., Inc.  
@@ -71,7 +71,7 @@ To correct or change the information our electronic newsletter, please e-mail an
 
 **6\. What is Laurin Publishing's policy on deleting or deactivating names from its database?**
 
-Users may unsubscribe to our print publications or ask to be deleted from all Laurin Publishing mailing lists by sending an e-mail to [photonics@laurin.com](mailto:photonics@laurin.com), by calling us at 413-499-0514, by faxing us at 413-499-3180, or by sending ground mail to: 
+Users may unsubscribe to our print publications or ask to be deleted from all Laurin Publishing mailing lists by sending an e-mail to [photonics@laurin.com](mailto:photonics@laurin.com), by calling us at 413-499-0514, by faxing us at 413-442-3180, or by sending ground mail to: 
 
 _Mailing List  
 Laurin Publishing Co., Inc.  
@@ -82,7 +82,7 @@ Users may unsubscribe to our electronic newsletter at any time by sending an e-m
 
 **For additional information:**
 
-Users who are experiencing problems or who have any questions about how our sites work can contact us via e-mail at [webmaster@laurin.com](mailto:webmaster@laurin.com). Users who have questions about this Privacy Policy, the practices of this site, or your dealings with this Web site can contact us via e-mail at [photonics@laurin.com](mailto:photonics@laurin.com), by phone at 413-499-0514, by fax at 413-499-3180, or by ground mail to: 
+Users who are experiencing problems or who have any questions about how our sites work can contact us via e-mail at [webmaster@laurin.com](mailto:webmaster@laurin.com). Users who have questions about this Privacy Policy, the practices of this site, or your dealings with this Web site can contact us via e-mail at [photonics@laurin.com](mailto:photonics@laurin.com), by phone at 413-499-0514, by fax at 413-442-3180, or by ground mail to: 
 
 _Thomas F. Laurin  
 Executive Vice President  
