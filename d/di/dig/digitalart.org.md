@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalart.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607004630id_/http%3A//digitalart.org/info.privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalart.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207212057id_/http%3A//digitalart.org/info.privacy.php) for the most accurate reproduction.*
 
 # digitalart.org - Privacy Statement
 
@@ -9,6 +9,8 @@ Information Automatically Logged
 The IP addresses of users are logged and used to help diagnose problems with our server and to administer our Web site. Our polls log IP addresses in order to prevent multiple voting. Our comment/rating systems, forums, and similar parts of our site in which a user uploads data to our server log IP addresses to track users so we can deal with instances of abuse that may occur. Our server logs IP addresses for internal statistical use.
 
 Information Volunteered
+
+You must be at least 13-years-old to create a digitalart.org account and to submit personal information to digitalart.org.
 
 We collect the e-mail addresses of those who communicate with us via e-mail. We collect information volunteered by users such as the Account Information they provide as a member, the Personal Profile they create, and information involved in purchasing Premium Membership.
 
