@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204165700id_/http%3A//netdespatch.com/wpages.php3%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2001-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011130010956id_/http%3A//www.netdespatch.com/wpages.php3%3Fprivacy) for the most accurate reproduction.*
 
-# NetDespatch - The Virtual Call Centre
+# NetDespatch - Supply Chain's Missing Link
 
 **United Kingdom Data Protection Act (1984)  
 Registration PX 4287299 August 1999**
