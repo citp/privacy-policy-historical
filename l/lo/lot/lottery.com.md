@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottery.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207110400id_/http%3A//www.lottery.com/privacy/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottery.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405142246id_/http%3A//lottery.com/privacy/policy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ Our sites' registration forms require users to give us contact information (such
 
 These sites contain links to other sites, and **lottery.com and gameland.com** are not responsible for the privacy practices or the content of such Web sites. 
 
-The Lottery Channel uses a third party that serves ads to this site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on our sites, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+The Lottery Channel uses a third party that serves ads to this site.
 
 ## Public Forums
 
