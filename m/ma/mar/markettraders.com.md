@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205185314id_/http%3A//www.markettraders.com/forexpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618084038id_/http%3A//www.markettraders.com/forexpolicy.htm) for the most accurate reproduction.*
 
 # forex training and education, about mti market traders institute currency money traders lessons tutorials and online trading
 
