@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618082150id_/http%3A//www.scottbrand.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204005242id_/http%3A//www.scottbrand.com/privacy.asp) for the most accurate reproduction.*
 
 # SCOTT® Brand Privacy Policy
 
@@ -31,7 +31,7 @@ Like many companies, we sometimes use "cookie" technology on our web site. These
 
 **Contact Us**
 
-If you have any questions about our Privacy Policy, you can contact us via [ e-mail](http://www.kimberly-clark.com/ask/scott/index.asp?site=www.scott.com) or phone us at 1-800-665-9773. For postal mail, please write to us at:
+If you have any questions about our Privacy Policy, you can contact us via [ e-mail](https://www.kimberly-clark.com/ask/scott/index.asp?site=www.scott.com) or phone us at 1-800-665-9773. For postal mail, please write to us at:
 
     Kimberly-Clark Corporation  
     P.O. Box 2020   
@@ -39,4 +39,4 @@ If you have any questions about our Privacy Policy, you can contact us via [ e-m
 
 [](https://web.archive.org/) • [](https://web.archive.org/products/) • [](https://web.archive.org/products/tissue/) • [](https://web.archive.org/products/towels/) • [](https://web.archive.org/products/napkins/)  
 ---  
-[](https://web.archive.org/faqs/) • [](http://www.kimberly-clark.com/ask/scott/index.asp?site=www.scott.com) • [](https://web.archive.org/history/) • [](https://web.archive.org/globallinks.asp) • [](https://web.archive.org/sitemap.asp)
+[](https://web.archive.org/faqs/) • [](https://www.kimberly-clark.com/ask/scott/index.asp?site=www.scott.com) • [](https://web.archive.org/history/) • [](https://web.archive.org/globallinks.asp) • [](https://web.archive.org/sitemap.asp)
