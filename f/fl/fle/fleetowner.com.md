@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleetowner.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622093209id_/http%3A//fleetowner.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleetowner.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202232300id_/http%3A//www.fleetowner.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # PRIMEDIA Business - Online Business Information and News for Industry Communities
 
