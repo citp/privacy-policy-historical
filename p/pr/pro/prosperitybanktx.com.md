@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203155538id_/http%3A//www.prosperitybanktx.com/Internet_Banking/Privacy_Notice/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401162231id_/http%3A//prosperitybanktx.com/Internet_Banking/Privacy_Notice/privacy_notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -77,7 +77,7 @@ SM website is not currently targeted or marketed to children. 
 SM reserves its right to disclose financial information to nonaffiliated third party service providers to the fullest extent permitted by law. 
 
 **QUESTIONS?  
-**[ **PLEASE CONTACT YOUR   LOCAL BANKING CENTER.**](https://web.archive.org/web/20031203155538id_/http%3A//www.prosperitybanktx.com/About_Us/Locations/locations.html)
+**[ **PLEASE CONTACT YOUR   LOCAL BANKING CENTER.**](https://web.archive.org/web/20040401162231id_/http%3A//prosperitybanktx.com/About_Us/Locations/locations.html)
 
 PROSPERITY BANKSM –  
 PROSPERITY BANCSHARESSM   
