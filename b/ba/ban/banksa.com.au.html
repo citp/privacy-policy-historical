@@ -1,23 +1,10 @@
-<!--The following is the downloaded HTML source of the banksa.com.au privacy policy that was archived on 2002-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603162520id_/http%3A//banksa.com.au/banksa/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the banksa.com.au privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206070940id_/http%3A//www.banksa.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.-->
 
 <html><head>
+ 
 
-
-<script language="javascript">
-<!-- 
-var agt = navigator.userAgent.toLowerCase();
-var is_major = parseInt(navigator.appVersion);
-var is_minor = parseFloat(navigator.appVersion);
-var is_nav = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
-            && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
-            && (agt.indexOf('webtv')==-1));
-var is_ie = (agt.indexOf("msie") != -1);
-var is_mac = (agt.indexOf("mac")!=-1);
-var is_mac68k = (is_mac && ((agt.indexOf("68k")!=-1) || (agt.indexOf("68000")!=-1)));
-var is_macppc = (is_mac && ((agt.indexOf("ppc")!=-1) || (agt.indexOf("powerpc")!=-1)));
-var is_macall = (is_mac68k || is_mac || is_macppc);
-var is_win = ( (agt.indexOf("win")!=-1) || (agt.indexOf("16bit")!=-1) );
+      <script language="javascript" type="text/javascript">
 
 function goPage()
 {
@@ -28,44 +15,26 @@ function goPage()
   }
 }
 
-//This turns layers on and off for left menu system
-function MA_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MA_findObj(n,d.layers[i].document); return x;
+function CalculatorWindow(filename)
+{       window.open(filename,'Calculators','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,top=5,width=540,height=570');
 }
-
-function MA_showHideLayers() { //v3.0
-  var i,p,v,obj,args=MA_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MA_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-function windowCreator(filename)
-{       window.open(filename,'userguide','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=505,height=570');
-}
-function newWindow(filename)
-{       window.open(filename,'NewWin','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=790,height=460');
-}
-function UserWindow(filename)
-{       window.open(filename,'userguide','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=505,height=570');
+function NewWindow(filename)
+{       window.open(filename,'Plain','menubar=no,toolbar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,top=5,width=630,height=580');
 }
 function privacy(filename)
-{       window.open(filename,'personaLoanWin','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=no,scrollbars=no,width=400,height=300');
-}
-function CalculatorWindow(filename)
-{       window.open(filename,'Calculators','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=540,height=500');
-}
-function CalculatorWindowlg(filename)
-{       window.open(filename,'Calculatorslg','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=640,height=580');
-}
-function LargeWindow(filename)
-{       window.open(filename,'Plain','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=770,height=580');
+{       window.open(filename,'priv','menubar=no,location=no,menus=no,resizable=1,status=no,top=5,width=400,height=300');
 }
 function securitisation(filename)
-{       window.open(filename,'priv','menubar=no,location=no,menus=no,scrollbars=yes,resizable=1,status=no,width=500,height=450');
+{       window.open(filename,'priv','menubar=no,location=no,menus=no,scrollbars=yes,resizable=1,status=no,top=5,width=500,height=450');
 }
+function DemoWindow(filename)
+{       window.open(filename,'Plain','menubar=no,toolbar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,top=5,width=730,height=520');
+}
+function MLWindow(filename)
+{
+  			window.open(filename,'MLWindow','menubar=yes,location=yes,menus=yes,scrollbars=yes,resizable=1,status=yes,width=770,height=480');
+}
+
 function Login(s) {
 	for (var i = 0; i < document.login_form.selectlog.length; i++) {
 		if (document.login_form.selectlog[i].checked) {
@@ -86,32 +55,11 @@ function Login(s) {
 	}
 }
 
-//Function to access rates db
-function doIt()
-{
-document.forms.rate_form.submit();
-}
-function doIt1()
-{
-document.forms.rate_form1.submit();
-}
-function doIt2()
-{
-document.forms.rate_form2.submit();
-}
-function doIt3()
-{
-document.forms.rate_form3.submit();
-}
-function doIt4()
-{
-document.forms.rate_form4.submit();
-}
-//-->
+
 </script>
 
-<script language="JavaScript">
-<!-- 
+<script language="JavaScript" type="text/javascript">
+
 //This script will fix the print screen problem on IE 4
 
 var da = (document.all) ? 1 : 0;
@@ -144,323 +92,240 @@ if (da && !pr && !mac) with (document) {
   writeln('End Sub');
   writeln('<' + '/SCRIPT>');
 }
-//-->
+
 </script>
 
-<script language="JavaScript" type="text/javascript" src="/resources/bsa/includes/js/write_cookie.js"></script>
 
-<script language="JavaScript">
-<!-- 
 
-        browserName = navigator.appName;
-        browserVer = parseInt(navigator.appVersion);
-        
-        // Determine Browser Information
-        if ((browserName == "Netscape") && (browserVer >= 3))
-                version = "n3";
-        else
-        if ((browserName == "Microsoft Internet Explorer") && (browserVer >= 3))
-         version = "ie3"
-        else
-         version = "2";
 
-        var mouseovers = false;   
-        if ((version == "n3") || (version == "ie3"))
-            mouseovers = true;
-        else
-            mouseovers = false;   
-                                             		
-        if (mouseovers)
-          {
-          m10 = new Image();
-          m20 = new Image();
-          m30 = new Image();
-          m40 = new Image();
-	      m50 = new Image();
-	      m60 = new Image();
-          m70 = new Image();
-		
-                                             			
-          m11 = new Image();
-          m21 = new Image();
-          m31 = new Image();
-          m41 = new Image();
-          m51 = new Image();
-          m61 = new Image();
-	      m71 = new Image();
-                                            
-          m10.src = '/resources/bsa/images/buttons/nav_int_banking.gif';
-          m20.src = '/resources/bsa/images/buttons/nav_ecom_solutions.gif';
-          m30.src = '/resources/bsa/images/buttons/nav_rural_banking.gif'; 
-	      m40.src = '/resources/bsa/images/buttons/nav_bus_banking.gif';
-          m50.src = '/resources/bsa/images/buttons/nav_personal_banking.gif';
-          m60.src = '/resources/bsa/images/buttons/nav_treasury.gif';
-	      m70.src = '/resources/bsa/images/buttons/nav_about_us.gif';                     
-                                             			
-          m11.src = '/resources/bsa/images/buttons/nav_int_banking_on.gif';
-          m21.src = '/resources/bsa/images/buttons/nav_ecom_solutions_on.gif';
-          m31.src = '/resources/bsa/images/buttons/nav_rural_banking_on.gif';
-	      m41.src = '/resources/bsa/images/buttons/nav_bus_banking_on.gif';
-          m51.src = '/resources/bsa/images/buttons/nav_personal_banking_on.gif';
-          m61.src = '/resources/bsa/images/buttons/nav_treasury_on.gif';
-	      m71.src = '/resources/bsa/images/buttons/nav_about_us_on.gif';
-           }
-        function js_on(num)
-          {
-     if (mouseovers)
-         {
-        if	(num==1)	document.images["m1"].src = m11.src;
-        if	(num==2)	document.images["m2"].src = m21.src;
-        if	(num==3)	document.images["m3"].src = m31.src;
-        if	(num==4)	document.images["m4"].src = m41.src;
-        if	(num==5)	document.images["m5"].src = m51.src;
-        if	(num==6)	document.images["m6"].src = m61.src;
-	if	(num==7)	document.images["m7"].src = m71.src; 
-    }
- }                                            	
-       function js_off(num)
-        {
-    if (mouseovers)
-        {
-        if	(num==1)	document.images["m1"].src = m10.src;
-        if	(num==2)	document.images["m2"].src = m20.src;
-        if	(num==3)	document.images["m3"].src = m30.src;
-        if	(num==4)	document.images["m4"].src = m40.src;
-        if	(num==5)	document.images["m5"].src = m50.src;
-        if	(num==6)	document.images["m6"].src = m60.src;
-        if	(num==7)	document.images["m7"].src = m70.src; 
-    }
- }
-                                             	
-      function reset_images()
-       {
-    if (mouseovers)
-       {
-      document.images["m1"].src = m10.src;
-      document.images["m2"].src = m20.src;
-      document.images["m3"].src = m30.src;
-      document.images["m4"].src = m40.src;
-      document.images["m5"].src = m50.src;
-      document.images["m6"].src = m60.src;
-      document.images["m7"].src = m70.src;
-                                             			
-  }
-}
+ 		<link rel="stylesheet" href="/resources/sgb/css/bsaother.css" type="text/css">
+    <link rel="stylesheet" href="/resources/sgb/css/bsageneric.css" type="text/css">
+ 	
 
-//-->
-</script>
 
-<script language="JavaScript">
+<script language="JavaScript" type="text/javascript" src="/resources/sgb/includes/js/write_cookie.js"></script>
 
-if (is_win && is_ie)
-{
-   document.write('<link rel=stylesheet href="/resources/bsa/css/other.css" type="text/css">');
-   document.write('<link rel=stylesheet href="/resources/bsa/css/generic.css" type="text/css">');
-}
-else if (is_win && is_nav)
-{
-   document.write('<link rel=stylesheet href="/resources/bsa/css/other_nav.css" type="text/css">');
-   document.write('<link rel=stylesheet href="/resources/bsa/css/generic_nav.css" type="text/css">');
-}
-else if (is_mac && is_ie)
-{
-   document.write('<link rel=stylesheet href="/resources/bsa/css/other_nav.css" type="text/css">');
-   document.write('<link rel=stylesheet href="/resources/bsa/css/generic_nav.css" type="text/css">');
-}
-else 
-{
-   document.write('<link rel=stylesheet href="/resources/bsa/css/other_mac.css" type="text/css">');
-   document.write('<link rel=stylesheet href="/resources/bsa/css/generic_mac.css" type="text/css">');
-}
 
-</script><link rel="stylesheet" href="/resources/bsa/css/other_mac.css" type="text/css"><link rel="stylesheet" href="/resources/bsa/css/generic_mac.css" type="text/css">
-
-  <meta name="resource-type" value="organization">
-  <meta name="author" value="Bank of South Australia">
-  <meta name="Organization-Handle" value="Bank of South Australia">
-  <meta name="Organization-Name" value="Bank of South Australia">
-  <meta name="Keywords" value="Bank SA, Bank of South Australia, South Australia, Adelaide, Banking, Bankers, Australia, Australians, Internet Banking, Banking on the internet, Treasury, International Services, Business Banking, Business Finance, Business Leases, Vehicle Lease, Property, Cars, Vehicle Finance, Commercial Finance, Small Business, Merchants, Merchant Services, Accounts, Banking Accounts, Finance, Credit, Finance, Financial Institution/s, Cash, Cash Management, Home Loan/s, Personal Loan/s, Credit Card/s, Portfolio, BPay, Ecommerce, Term Deposit/s, Introductory Rates, Insurance, Home insurance, Property Insurance, Contents Insurance, Morgage origination, Mortgage Originators, Wealth, Money, Interest Rates, Owner Occupier, Real Estate, transaction/s, Maestro Cirrus, Eftpos, VISA Network, ATM, Bill Pay, Statements, Phone Banking, Internet Banking, giorPost, Victoria, Melbourne, Western Australia, Perth, Northern Territory, Queensland, ACT, Canberra, Tasmania, Darwin, Interest Rates, Calculator, Calculators, Mortgage, Home Loan">
-  <meta name="Country" value="Australia"><title>BankSA Privacy Policy</title></head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><a name="begin"></a><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td> <map name="functions_nav">
-	<area shape="RECT" coords="0,0,116,16" href="javascript:newWindow('http://www.nowwhere.com.au/stgeorge.htm?Type=banksa')">
-	<area shape="RECT" coords="133,0,177,16" href="/banksa/rates/default.asp">
-	<area shape="RECT" coords="194,0,260,16" href="/banksa/contact_us/default.asp">
-	<area shape="RECT" coords="275,0,360,16" href="/banksa/calculators/default.asp">
-</map>
-<table bgcolor="#000060" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-  <tbody><tr> 
-   <td background="/resources/bsa/images/interface/navtop_bkgrnd.gif"><a href="/banksa/default.asp?startpage=false"><img src="/resources/bsa/images/interface/logo_ext.gif" width="381" height="38" border="0" alt="BankSA Home"></a></td> 
-   <td valign="top" align="right" background="/resources/bsa/images/interface/navtop_bkgrnd.gif"><img src="/resources/bsa/images/interface/functions_nav2.gif" usemap="#functions_nav" border="0" width="360" height="17"></td> </tr> <tr> <td colspan="2"> 
-<table name="table1" bgcolor="#000060" background="/resources/bsa/images/interface/navbottom_bkgrnd.gif" cellspacing="0" cellpadding="0" border="0" height="22" width="100%">
-  <tbody><tr> 
-    <td valign="top" align="left"><a href="/banksa/internet_banking/default.asp" onmouseover="js_on(1);" onmouseout="js_off(1);"><img src="/resources/bsa/images/buttons/nav_int_banking.gif" width="99" height="16" name="m1" border="0" alt=""></a></td>
-    <!--<td valign="top" align="center"><a href="/banksa/ecommerce/default.asp" onMouseOver="js_on(2);" onMouseOut="js_off(2);"><img src="/resources/bsa/images/buttons/nav_ecom_solutions.gif" width=127 height=16 name="m2" border=0 alt=""></a></td>-->
-    <td valign="top" align="center"><a href="/banksa/rural_banking/default.asp" onmouseover="js_on(3);" onmouseout="js_off(3);"><img src="/resources/bsa/images/buttons/nav_rural_banking.gif" width="85" height="16" name="m3" border="0" alt=""></a></td>
-    <td valign="top" align="center"><a href="/banksa/business_banking/default.asp" onmouseover="js_on(4);" onmouseout="js_off(4);"><img src="/resources/bsa/images/buttons/nav_bus_banking.gif" width="101" height="16" name="m4" border="0" alt=""></a></td>
-    <td valign="top" align="center"><a href="/banksa/personal_banking/default.asp" onmouseover="js_on(5);" onmouseout="js_off(5);"><img src="/resources/bsa/images/buttons/nav_personal_banking.gif" width="98" height="16" name="m5" border="0" alt=""></a></td>
-    <td valign="top" align="center"><a href="/banksa/treasury/default.asp" onmouseover="js_on(6);" onmouseout="js_off(6);"><img src="/resources/bsa/images/buttons/nav_treasury.gif" width="72" height="16" name="m6" border="0" alt=""></a></td>
-    <td valign="top" align="right"><a href="/banksa/about_us/default.asp" onmouseover="js_on(7);" onmouseout="js_off(7);"><img src="/resources/bsa/images/buttons/nav_about_us.gif" width="80" height="16" name="m7" border="0" alt=""></a></td>
+  <meta name="resource-type" content="organization">
+	<meta name="author" content="BankSA Limited">
+	<meta http-equiv="Description" content="Welcome to BankSA - Protecting your Privacy" name="Description">
+	<meta name="keywords" content="BankSA,Protecting your Privacy, online banking, internet banking, e-bank, on-line banking,home loans,housing loans,mortgages,investment loans,banks,banks australia,credit cards,money,personal loans,car loans,savings accounts,savings,saving,term deposit,interest rates,interest,finance,australian finance,financial services,financing,lending">
+	<meta name="Organization-Handle" content="BankSA Limited">
+	<meta name="Organization-Name" content="BankSA Limited">
+	<meta name="City" content="Sydney">
+	<meta name="Country" content="Australia">
+	<meta name="Organization-Email" content="bsafeedback@banksa.com.au">
+<title>BankSA - Protecting your Privacy</title></head>
+   <body bgcolor="#FFFFFF" leftmargin="2" topmargin="0" marginwidth="0" marginheight="0"><a name="top"></a><table width="100%" cellpadding="0" cellspacing="0" border="0" background="/resources/sgb/images/header/bsaback.gif">
+  <tbody><tr>
+    <td><a href="/default.asp?startpage=false"><img src="/resources/sgb/images/header/bsaheader_left1.jpg" width="179" height="46" border="0" alt="BankSA"></a></td>
+    <td align="right"><a href="/default.asp?startpage=false"><img src="/resources/sgb/images/header/bsa_right.jpg" width="543" height="46" border="0"></a></td>
   </tr>
 </tbody></table>
-  </td> 
- </tr> 
-</tbody></table> 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" colspan="2" bgcolor="#FFFFFF"><img src="/resources/common/images/misc/spacer.gif" height="1" width="100%"></td>
+  </tr>
+  <tr class="topmenu">
+    <td width="192" nowrap=""><a href="#content"><img src="/resources/common/images/misc/1x1.gif" height="1" width="1" border="0"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font class="topmenu">6<sup></sup>&nbsp;December&nbsp;2002</font></td>
+    <td align="right" valign="top" nowrap=""><font class="topmenu"><a href="/default.asp?startpage=false" class="topmenu">home</a> / <a href="/contact_us/default.asp?orc=home" class="topmenu">contact us</a> <!--/ <div id="navSearch" class="topmenu">search</div>--> / <a class="topmenu" href="javascript:NewWindow('http://www.nowwhere.com.au/stgeorge.htm?Type=banksa') ">locate us</a> / <a class="topmenu" href="javascript:NewWindow('/rates/default.asp')">rates</a> / <a href="/calculators/default.asp?orc=home" class="topmenu">calculators</a> / <a href="/media_centre/news/bsadefault.asp?orc=about" class="topmenu">news</a> / <a href="/privacy/default.asp?orc=home" class="topmenu">privacy policy</a> / <a href="/sitemap/default.asp?orc=home" class="topmenu">sitemap</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2" bgcolor="#FFFFFF"><img src="/resources/common/images/misc/spacer.gif" height="1" width="756"></td>
+  </tr>
+</tbody></table>
+<map name="Map"><area shape="rect" coords="1,1,3,2" href="#content"></map>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+ <td width="180" align="left" valign="top" class="navcolor2"> <table width="186" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td>
+      <table width="186" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr><td><a href="/personalsol/default.asp?orc=personal"><img src="/resources/sgb/images/leftmenu/bsapersonaloff.gif" align="absmiddle" border="0" alt="Personal Solutions"></a></td></tr>
+        <tr><td><img src="/resources/sgb/images/leftmenu/bsaline_red.gif" width="186" height="2" alt="menu line"></td></tr>
+       <tr>
+         <td><a href="/wealth/default.asp?orc=wealth"><img src="/resources/sgb/images/leftmenu/bsawealthoff.gif" align="absmiddle" border="0" alt="Wealth Management Solutions"></a></td>
+       </tr>
+       <tr><td><img src="/resources/sgb/images/leftmenu/bsaline_red.gif" width="186" height="2" alt="menu line"></td></tr>
+        <tr>
+          <td><a href="/corporate/default.asp?orc=business"><img src="/resources/sgb/images/leftmenu/bsabusinessoff.gif" align="absmiddle" border="0" alt="Business"></a></td>
+        </tr>
+		<tr><td><img src="/resources/sgb/images/leftmenu/bsaline_red.gif" width="186" height="2" alt="menu line"></td></tr>
+       <tr>
+         <td><a href="/rural/default.asp?orc=regional"><img src="/resources/sgb/images/leftmenu/bsaregionaloff.gif" align="absmiddle" border="0" alt="Regional"></a></td>
+       </tr>
+       <tr><td><img src="/resources/sgb/images/leftmenu/bsaline_red.gif" width="186" height="2" alt="menu line"></td></tr>
 
-</td></tr><tr><td><table border="0" width="100%" cellpadding="1" cellspacing="2" align="left"> <tbody><tr> <td valign="top" width="168"><img src="/resources/bsa/images/miscellaneous/pixel.gif" width="168" height="1" alt=""></td> <td valign="top" width="100%"><img src="/resources/bsa/images/miscellaneous/pixel.gif" width="300" height="1" alt=""></td> <td valign="top" width="118"><img src="/resources/bsa/images/miscellaneous/pixel.gif" width="118" height="1" alt=""></td> </tr> <tr><td valign="top" width="168"></td><td valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="4" width="99%"><tbody><tr><td valign="top"><p class="section" align="right">Privacy Policy&nbsp;&nbsp;&nbsp;</p><font class="pageheading">Protecting your Privacy</font><font class="dash"> &nbsp;-&nbsp; </font><p><b>Our privacy assurance to you</b>
+	  <tr>
+         <td><a href="/institution/default.asp?orc=institution"><img src="/resources/sgb/images/leftmenu/bsainstitutionoff.gif" align="absmiddle" border="0" alt="Capital Markets"></a></td>
+       </tr>
 
-</p><p>At BankSA your privacy has always been important to us.  We comply with the National Privacy Principles (new privacy laws which apply from 21 December 2001) as well as our existing obligations of confidentiality, the Code of Banking Practice and the credit provider provisions in the Privacy Act.
+       <tr><td><img src="/resources/sgb/images/leftmenu/bsaline_red.gif" width="186" height="2" alt="menu line"></td></tr>
+	   <tr>
+          <td><a href="/about/default.asp?orc=about"><img src="/resources/sgb/images/leftmenu/bsaaboutoff.gif" align="absmiddle" border="0" alt="About BankSA"></a></td>
+       </tr>
+       <tr><td><img src="/resources/sgb/images/leftmenu/bsaline_red.gif" width="186" height="2" alt="menu line"></td></tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table> </td>
+ <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td height="2"><img src="/resources/sgb/images/interface/bsatophead_underline.gif" alt="" border="0" height="2" width="100%"></td> </tr> <tr><td> <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody><tr>
+                    <td width="90%" class="lightcolor" align="right" valign="middle" height="22">
+                      <font class="splashtitle">Privacy Policy</font>
+                    </td>
+                    <td width="10%" align="right" valign="middle" height="22"><img src="/resources/sgb/images/header/bsaheader_arrow.gif" alt="" border="0" height="22" width="109"></td>
+                  </tr>
+                </tbody></table></td></tr><tr> <td height="2"><img src="/resources/sgb/images/interface/bsabottomhead_underline.gif" alt="" border="0" height="2" width="100%"></td> </tr><tr><td> <br> <table width="98%" border="0" cellpadding="0" cellspacing="0" align="center"><tbody><tr valign="top"><td><a name="content"></a>  <font class="title"> Protecting your Privacy&nbsp;&nbsp;&nbsp;&nbsp;</font><br><br>
+<p><b>Our privacy assurance to you</b></p>
+
+<p>At BankSA your privacy has always been important to us.  We comply with the National Privacy Principles (new privacy laws which apply from 21 December 2001) as well as our existing obligations of confidentiality, the Code of Banking Practice and the credit provider provisions in the Privacy Act.</p>
 
 
-</p><p><b>This policy and other privacy statements</b>
+<p><b>This policy and other privacy statements</b></p>
 
-</p><p>This privacy policy explains how we collect personal information and how we maintain, use and disclose that information.  It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record.
+<p>This privacy policy explains how we collect personal information and how we maintain, use and disclose that information.  It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record.</p>
 
-</p><p>When you apply for a new product or service, the application form includes notices about privacy and requests for consent.  Those privacy notices (called privacy statements) specify in more detail how any information about you may be used and disclosed in relation to the particular product or service.
+<p>When you apply for a new product or service, the application form includes notices about privacy and requests for consent.  Those privacy notices (called privacy statements) specify in more detail how any information about you may be used and disclosed in relation to the particular product or service.</p>
 
-</p><p>When you apply for or use one of our products or services, you consent to us collecting, maintaining, using and disclosing personal information about you and provided by you or by another person in accordance with the privacy statement in the application form and this policy.   
+<p>When you apply for or use one of our products or services, you consent to us collecting, maintaining, using and disclosing personal information about you and provided by you or by another person in accordance with the privacy statement in the application form and this policy.</p>
 
-</p><p>This privacy policy does not apply to parties that may be linked or associated with our website.  Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.
+<p>This privacy policy does not apply to parties that may be linked or associated with our website.  Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.</p>
 
-</p><p><b>What information does BankSA hold?</b> 
+<p><b>What information does BankSA hold?</b></p>
 
-</p><p>The types of information we keep on record will depend on the type of product or service requested by you.  
+<p>The types of information we keep on record will depend on the type of product or service requested by you.</p>
 
-</p><p>Generally, we keep a record of one or more of the following types of information about you:
+<p>Generally, we keep a record of one or more of the following types of information about you:
 </p><ul>
 <li>information that identifies you, such as your name and address and other information provided by you and people nominated by you;
 </li><li>if you apply for a loan or credit card or guarantee another persons loan, credit information about you and property reports about any property which secures your obligations to us;
 </li><li>if you apply for insurance, information about what is being insured (including health information about you, your income and occupation if you are requesting life, health or accident insurance), information about your beneficiaries and information about property owned by you if you are requesting some type of property insurance;
 </li><li>account transaction information including credits and debits or claims information for insurance products.
 </li></ul>
-<p>All information sought is required for our business purposes, which are detailed generally in this privacy policy and more specifically in our application forms or on the web pages which allow you to contact us.
+<p></p>
+<p>All information sought is required for our business purposes, which are detailed generally in this privacy policy and more specifically in our application forms or on the web pages which allow you to contact us.</p>
 
-</p><p>We do not actively seek to collect sensitive information (for example health information or information about your racial or ethnic origin or any criminal record), unless it is necessary for our business purposes.  If we do have to collect sensitive information, we will do so in accordance with the National Privacy Principles.
+<p>We do not actively seek to collect sensitive information (for example health information or information about your racial or ethnic origin or any criminal record), unless it is necessary for our business purposes.  If we do have to collect sensitive information, we will do so in accordance with the National Privacy Principles.</p>
 
-</p><p>Sometimes we act as an agent for others when collecting information about you, such as for our preferred insurance companies.  We will tell you when we do this.
+<p>Sometimes we act as an agent for others when collecting information about you, such as for our preferred insurance companies.  We will tell you when we do this.</p>
 
-,p&gt;During the course of our relationship with you, we may gather information about you relating to all products and services that we or other members of the BankSA Group or our preferred suppliers provide to you.  This information is used to help us form views about how we can improve our relationship with you.
+<p>During the course of our relationship with you, we may gather information about you relating to all products and services that we or other members of the St George Group or our preferred suppliers provide to you.  This information is used to help us form views about how we can improve our relationship with you.</p>
 
-</p><p><b>How BankSA collects information from its website</b>
+<p><b>How BankSA collects information from its website</b></p>
 
-</p><p>We collect and hold information about you when you:
+<p>We collect and hold information about you when you:
 </p><ul>
 <li>complete an online application or other type of form;
 </li><li>provide us with your email address; or
 </li><li>access and use our services through our website.
 </li></ul>
+<p></p>
+<p>We also collect some statistical information about visitors, from our website (for example, the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded).  Some of this statistical information is collected by using cookies, but none of the statistical information we collect allows us to identify a visitor.  We use this information to evaluate our website performance and continually improve our services.</p>
 
-<p>We also collect some statistical information about visitors, from our website (for example, the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded).  Some of this statistical information is collected by using cookies, but none of the statistical information we collect allows us to identify a visitor.  We use this information to evaluate our website performance and continually improve our services.
+<p>Other than statistical information, we do not collect any information about you through our website unless you provide the information to us.</p>
 
-</p><p>Other than statistical information, we do not collect any information about you through our website unless you provide the information to us.
+<p><b>How BankSA generally collects your information</b></p>
 
-</p><p><b>How BankSA generally collects your information</b>
+<p>Generally, we only collect personal information about you from you, unless it is not reasonable or practical for us to do so or you consent.  For example, you may authorise us to collect information from a third party, like your employer to confirm your income details, or we may engage an agent, such as a mortgage broker, to collect information on our behalf, or you may be named as a referee or beneficiary in another application for one of our products or services.  We may also collect information about you from other members of the St George Group or from  publicly available sources such as company registers or land title registries.</p>
 
-</p><p>Generally, we only collect personal information about you from you, unless it is not reasonable or practical for us to do so or you consent.  For example, you may authorise us to collect information from a third party, like your employer to confirm your income details, or we may engage an agent, such as a mortgage broker, to collect information on our behalf, or you may be named as a referee or beneficiary in another application for one of our products or services.  We may also collect information about you from other members of the BankSA Group or from  publicly available sources such as company registers or land title registries.
+<p><b>How may BankSA use your personal information?</b></p>
 
-</p><p><b>How may BankSA use your personal information?</b>
-
-</p><p>We use your personal information to: 
+<p>We use your personal information to:
 </p><ul>
 <li>respond to your request or help us process your application for our products or services (including performing the identity check required by the Financial Transaction Reports Act 1988, and a needs analysis in relation to insurance, where necessary);
 </li><li>effectively manage and administer all products and services we provide to you including banking, treasury, financial planning and insurance products and services (for example we may use your email address to communicate with you about the services we provide to you);
 </li><li>assess, process and investigate claims made under any insurance products we provide to you; and
 </li><li>ensure our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing.
 </li></ul>
-<p>When we request your information we may give more specific details about the way we use your information.
+<p></p>
+<p>When we request your information we may give more specific details about the way we use your information.</p>
 
-</p><p><b>What rights does BankSA have to disclose personal information?</b>
+<p><b>What rights does BankSA have to disclose personal information?</b></p>
 
-</p><p>Usually we must get your consent before we tell anyone about you, your accounts or your credit information.  You can give us your consent expressly or it may be implied by your conduct.
+<p>Usually we must get your consent before we tell anyone about you, your accounts or your credit information.  You can give us your consent expressly or it may be implied by your conduct.</p>
 
-</p><p>Sometimes the law requires us to give out information about you.  For example, we must tell the Australian Tax Office how much interest we pay you.  Another example is giving your account details to a court if we are ordered to do so under a subpoena.
+<p>Sometimes the law requires us to give out information about you.  For example, we must tell the Australian Tax Office how much interest we pay you.  Another example is giving your account details to a court if we are ordered to do so under a subpoena.</p>
 
-</p><p>Depending on the product or service that we provide to you, if it is necessary we may also disclose your personal information to:
+<p>Depending on the product or service that we provide to you, if it is necessary we may also disclose your personal information to:
 </p><ul>
-<li>our external service providers (which may be located overseas) that provide services to us.  This is on a confidential basis and may include for example organisations that provide card authorisation, clearing and settlement services (such as Visa or Mastercard), our lenders’ mortgage insurer, claims investigators, mailing houses, property valuers, surveyors, auctioneers and real estate agents.  These organisations are limited in their use of your information to the purposes of our business only.  
-</li><li>other persons who have an interest in any property offered to BankSA as security; 
+<li>our external service providers (which may be located overseas) for the purposes of our business, for example organisations that provide card authorisation, clearing and settlement services (such as Visa or Mastercard), our lenders’ mortgage insurer, claims investigators, mailing houses, property valuers, surveyors, auctioneers and real estate agents.  Information is only disclosed on a confidential basis.
+</li><li>other persons who have an interest in any property offered to BankSA as security;
 </li><li>any party acquiring an interest in any business or your credit or loan account and any related securities provided by you or any other person;
 </li><li>government agencies in connection with your loan, such as for stamping and registration of mortgages;
-</li><li>any organisation which you request us to or any persons acting on your behalf, including your financial advisor, broker, solicitor, or accountant - unless you tell us not to, referees, any person with whom you transact (for example merchants, to process your transactions) or any financial institution nominated by you (for example in a direct debit).
+</li><li>any organisation which you request us to or any persons acting on your behalf, including your financial adviser, broker, solicitor, or accountant - unless you tell us not to, referees, any person with whom you transact (for example merchants, to process your transactions) or any financial institution nominated by you (for example in a direct debit).
 </li><li>Any referees, any person with whom you transact (for example merchants, to process your transactions) or any financial institution nominated by you (for example in direct debit).
 </li></ul>
-<p>We will not disclose your health information or information about your medical history unless you tell us to.
+<p></p>
+<p>We will not disclose your health information or information about your medical history unless you tell us to.</p>
 
-</p><p>We may at other times give you more details about our disclosure practices in relation to specific products or services - for example on the forms we use to collect personal information about you.
+<p>We may at other times give you more details about our disclosure practices in relation to specific products or services - for example on the forms we use to collect personal information about you.</p>
 
-</p><p><b>How may the BankSA Group use your personal information?</b>
+<p><b>How may the St George Group use your personal information?</b></p>
 
-</p><p>Your personal information may also be used by us or other members of the St. George Group to help assess your total relationship and product holding within the BankSA Group, analyse products and services, evaluate the needs of our customers and develop new products.
+<p>Your personal information may also be used by BankSA or other members of the St George Group to help assess your total relationship and product holding within the St George Group, analyse products and services, evaluate the needs of our customers and develop new products.</p>
 
-</p><p>Unless you inform us or have previously told us not to, we may also provide access to your personal information to members of the BankSA Group to inform you of products and services offered by any member of the BankSA Group or preferred organisations which we think may be of interest or value to you.  Your health information or information about your medical history will not be disclosed to other members of the BankSA Group for this purpose.
+<p>We may also provide access to your personal information to members of the St George Group to inform you of products and services offered by any member of the St George Group or preferred organisations which we think may be of interest or value to you. If you tell us or have previously told us that you do not wish to receive such information, then it will not be sent to you.  Your health information or information about your medical history will not be disclosed to other members of the St George Group for this purpose.</p>
 
-</p><p><b>How BankSA protects the security of your information</b>
+<p><b>How BankSA protects the security of your information</b></p>
 
-</p><p>We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or disclosure.  
+<p>We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or disclosure.</p>
 
-</p><p>We provide the maximum level of security when you use our online products and services.  Please <a href="/banksa/internet_banking/security/default.asp?security=on">view more information</a> about our security.
+<p>We provide the maximum level of security when you use our online products and services.  Please <a href="/int_bank/security/default.asp?orc=home">view more information</a> about our security.</p>
 
-</p><p>We have physical, electronic and procedural safeguards to protect your information which is held by us.  For example, your personal information is stored in secured office premises, in electronic databases requiring logins and passwords for access and/or at one of our secured warehouses.  Access to information stored electronically is restricted to staff whose job purpose requires access.  We require all staff to maintain the confidentiality of customer information.
+<p>We have physical, electronic and procedural safeguards to protect your information which is held by us.  For example, your personal information is stored in secured office premises, in electronic databases requiring logins and passwords for access and/or at one of our secured warehouses.  Access to information stored electronically is restricted to staff whose job purpose requires access.  We require all staff to maintain the confidentiality of customer information.</p>
 
-</p><p>Any visitor, for any purpose, to any part of our premises in which customer personal information is kept is required to register with a security desk or be accompanied by a member of staff while in the premises.
+<p>Any visitor, for any purpose, to any part of our premises in which customer personal information is kept is required to register with a security desk or be accompanied by a member of staff while in the premises.</p>
 
-</p><p>We use secure methods to destroy or de-identify any personal information as soon as the law permits, provided the information is no longer needed by us for any purpose.  Ordinarily, for information about a particular account, we destroy the information seven years from the date you close the account.
+<p>We use secure methods to destroy or de-identify any personal information as soon as the law permits, provided the information is no longer needed by us for any purpose.  Ordinarily, for information about a particular account, we destroy the information seven years from the date you close the account.</p>
 
-</p><p><b>Changes to our Privacy Policy</b>
+<p><b>Changes to our Privacy Policy</b></p>
 
-</p><p>We may amend this policy from time to time.  Not all changes to our privacy policy will require your consent, for example where office security procedures are changed.  We will notify you of any change to our information handling policy that requires your consent before being implemented.
+<p>We may amend this policy from time to time.  Not all changes to our privacy policy will require your consent, for example where office security procedures are changed.  We will notify you of any change to our information handling policy that requires your consent before being implemented.
 
-</p><p><b>What are your rights?</b>
+</p><p><b>What are your rights?</b></p>
 
-</p><p>You need not give us any of the personal information about you or any other person which may be requested in our communications with you.  However, without that information, we may not be able to process an application, fulfil your request or provide you with an appropriate level of service.
+<p>You need not give us any of the personal information about you or any other person which may be requested in our communications with you.  However, without that information, we may not be able to process an application, fulfil your request or provide you with an appropriate level of service.</p>
 
-</p><p><b>Information about our Products and Services</b>
+<p><b>Information about our Products and Services</b></p>
 
-</p><p>If you do not want the benefit of receiving information, special offers or exclusive opportunities about products and services (which may be supplied by us or any member of the BankSA Group or preferred suppliers) which we think may be of interest or value to you, then please tell us.  You can do this at any time by writing to us or telephoning us at the contact details listed on our <a href="/banksa/contact_us/default.asp">contact us</a> page or, if you are an Internet banking customer, contacting us by email when you are using that service.
+<p>If you do not want the benefit of receiving information, special offers or exclusive opportunities about products and services (which may be supplied by us or any member of the St George Group or preferred suppliers) which we think may be of interest or value to you, then please tell us.  You can do this at any time by writing to us or telephoning us at the contact details listed on our <a href="/contact_us/default.asp?orc=home">contact us</a> page or, if you are an Internet banking customer, contacting us by email when you are using that service.</p>
 
-</p><p><b>Access to your information</b>
+<p><b>Access to your information</b></p>
 
-</p><p>You can request access at any time to personal information we hold about you.  We will process your request within a reasonable time, usually 14 days for a straightforward request.  More time may be needed, depending on the nature of the request.
+<p>You can request access at any time to personal information we hold about you.  We will process your request within a reasonable time, usually 14 days for a straightforward request.  More time may be needed, depending on the nature of the request.</p>
 
-</p><p>There is no fee for requesting access to your information, however we may charge you the reasonable cost of processing your request.
+<p>There is no fee for requesting access to your information, however we may charge you the reasonable cost of processing your request.</p>
 
-</p><p>Sometimes we are not required to provide you with access - for example, if the law says we can deny access.  If we refuse you access to your personal information, we will tell you the reason why.  If we are not required to provide you with access to the information requested, we will consider, if reasonable, whether the use of a mutually agreed intermediary would allow sufficient access to meet your needs and ours.
+<p>Sometimes we are not required to provide you with access - for example, if the law says we can deny access.  If we refuse you access to your personal information, we will tell you the reason why.  If we are not required to provide you with access to the information requested, we will consider, if reasonable, whether the use of a mutually agreed intermediary would allow sufficient access to meet your needs and ours.</p>
 
-</p><p><b>Correction of information</b>
+<p><b>Correction of information</b></p>
 
-</p><p>We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date.  You must promptly notify us if there are any changes to your personal information.  
+<p>We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date.  You must promptly notify us if there are any changes to your personal information.</p>
 
-</p><p>You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date.  We will deal with your request within a reasonable time.
+<p>You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date.  We will deal with your request within a reasonable time.</p>
 
-</p><p>If we disagree as to the accuracy of the information, you may request that we attach a statement to that information noting that you consider it is not accurate, complete or up to date.
+<p>If we disagree as to the accuracy of the information, you may request that we attach a statement to that information noting that you consider it is not accurate, complete or up to date.</p>
 
-</p><p>If there is anything you would like to discuss, please contact us
+<p>If there is anything you would like to discuss, please contact us</p>
 
-</p><p>In this policy, reference to "we/us" means each member of the BankSA Group.  Members of the BankSA Group include companies that are related or owned by Bank of South Australia Limited, for example  Advance Asset Management Limited and BankSA Life  Limited.  Members of the BankSA Group may change from time to time.  If you have any questions, concerns or complaints about our privacy policy or practices or would like more information about particular members’ privacy policies or practices, please contact us.
+<p>In this policy, reference to "we/us" means each member of the St George Group.  Members of the St.George Group include companies that are related or owned by St.George Bank Limited, for example  Advance Asset Management Limited and St.George Life  Limited.  Members of the St.George Group may change from time to time.  If you have any questions, concerns or complaints about our privacy policy or practices or would like more information about particular members’ privacy policies or practices, please contact us on <b>13 13 76</b>, from 8am - 8pm, 7 days a week.</p>
 
-</p><p><b>Bank of South Australia Limited</b><br>
-ABN 92 055 513 070<br>
-<b>Address</b>: 97 King William Street, Adelaide SA 5000 <br>
-GPO Box 399, Adelaide, SA 5001 <br>
-<b>Phone</b>:13 13 76<br>
-
-</p><p>We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices.  If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner or the Australian Banking Industry Ombudsman.  We will provide you with their contact details if required.<br><br></p><p></p><div align="center">
+<p>We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices.  If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner or the Australian Banking Industry Ombudsman.  We will provide you with their contact details if required.</p></td></tr></tbody></table><br><br><br><br><br><br></td></tr><tr><td>
+ <br> <div align="center">
  <hr noshade="" size="1" width="95%">
-  <font class="small">© BankSA. A Division of St.George Bank Limited, 97 
-  King William Street, Adelaide 5000<br>
-  ABN 92 055 513 070 </font><br>
- <font color="red">–&nbsp;<a href="/banksa/disclaimer.asp" class="small">Disclaimer</a>  &nbsp;|&nbsp;&nbsp;<a href="#begin" class="small">Back to Top</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/banksa/privacy_policy.asp" class="small">Privacy</a>&nbsp;–<br>
-  <a href="/banksa/default.asp?startpage=false" class="small">Home</a> | <a href="/banksa/internet_banking/default.asp" class="small">Internet 
-  Banking </a> | <!--<a href="/banksa/ecommerce/default.asp" class="small">eCommerce 
-  Solutions</a>|--> <a href="/banksa/rural_banking/default.asp" class="small">Rural 
-  Banking</a> | <a href="/banksa/business_banking/default.asp" class="small">Business 
-  Banking </a> | <a href="/banksa/personal_banking/default.asp" class="small">Personal 
-  Banking </a> | <a href="/banksa/treasury/default.asp" class="small">Treasury</a> 
-  | <a href="/banksa/about_us/default.asp" class="small">About BankSA</a> | <a href="/banksa/contact_us/default.asp" class="small">Contact 
-  Us </a> </font> 
-  <hr noshade="" size="1" width="95%">
+ <font class="small">© BankSA. A Division of St.George Bank Limited ABN 92 055 513 070</font><br>
+ <font color="red">–&nbsp;<a href="/disclaimer.asp?orc=home" class="small">Disclaimer</a>  &nbsp;|&nbsp;&nbsp;<a href="#top" class="small">Back to Top</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy/default.asp?orc=home" class="small">Privacy</a>&nbsp;–<br>
+ 	
+ 		<a href="/default.asp?startpage=false" class="small">Home</a> | <a href="/personalsol/default.asp?orc=personal" class="small">Personal</a> | <a href="/wealth/default.asp?orc=wealth" class="small">Wealth Management</a>| <a href="/corporate/bsadefault.asp?orc=business" class="small">Business</a> | <a href="/rural/bsadefault.asp?orc=regional" class="small">Regional</a> |  <a href="/institution/default.asp?orc=institution" class="small">Capital Markets</a>   
+ 		 | <a href="/about/default.asp?orc=about" class="small">About BankSA</a>
+ 	
+ 
+ </font>
 </div>
-</td></tr></tbody></table></td><td valign="top" width="118" align="center">  <br> 
-
+ <font class="textwhitesm">12:18AM-Aug/9/2002</font></td></tr></tbody></table></td>
+         <td width="130" valign="top" class="back_grid" align="center">
 <br><form method="post" name="login_form">
 <table width="108" border="0" cellspacing="0" cellpadding="1">
   <tbody><tr class="rightmenuback">
@@ -474,29 +339,39 @@ GPO Box 399, Adelaide, SA 5001 <br>
           <td class="small" width="81%" height="4"></td>
         </tr>
         <!-- ###Internet Banking Logon -->
+        
         <tr valign="middle">
           <td class="small" width="19%" valign="top">
-              <input type="radio" name="selectlog" value="https://ibank.banksa.com.au/html/redirect.asp,/banksa/internet_banking/default.asp" checked="">
+            <input type="radio" name="selectlog" value="https://ibank.banksa.com.au/html/redirect.asp,/int_bank/default.asp?orc=home" checked="">
           </td>
           <td width="81%" valign="top" class="rightmenusmall">internet banking</td>
         </tr>
+        
         <!-- ###Business Banking  Logon -->
         <tr valign="middle">
           <td width="19%" valign="top" class="rightmenusmall">
-            <input type="radio" name="selectlog" value="https://bbonline.banksa.com.au/html/cbank.asp,/banksa/business_banking/bbo/default.asp?bbo=on&amp;orc=business">
+            <input type="radio" name="selectlog" value="https://bbonline.banksa.com.au/html/cbank.asp,/ebank/default.asp?orc=business">
           </td>
           <td width="81%" valign="top" class="rightmenusmall">business banking online<br></td>
         </tr>
         
         <tr valign="middle">
           <td class="small" width="19%" valign="top" bgcolor="#FFFFFF">
-            <input type="radio" name="selectlog" value="javascript:LargeWindow('https://www.quicktrade.com.au/cgi-bin/secure?FNAME= clientshome'),/banksa/internet_banking/quicktrade/default.asp">
+            <input type="radio" name="selectlog" value="javascript:NewWindow('https://www.quicktrade.com.au/cgi-bin/secure?FNAME= clientshome'),/invest/trade/default.asp?orc=wealth">
           </td>
           <td width="81%" valign="top" class="rightmenusmall">quicktrade<br></td>
         </tr>
         
+        <tr valign="middle">
+          <td class="small" width="19%" valign="top" bgcolor="#FFFFFF">
+            <input type="radio" name="selectlog" value="javascript:MLWindow('https://marginlending.stgeorge.com.au/'),/invest/margin/learn/default.asp?orc=wealth">
+          </td>
+          <td width="81%" valign="top" class="rightmenusmall">margin lending<br></td>
+        </tr>
+        <!-- ###Connections MasterCard  Logon -->
+        
         <tr>
-          <td colspan="2" align="center"><a href="javascript:Login(1)"><img src="/resources/bsa/images/logon1.gif" alt="logon" border="0" vspace="2"></a><a href="javascript:Login(2)"><img src="/resources/bsa/images/learn_more1.gif" alt="learn more" border="0" vspace="2"></a></td>
+          <td colspan="2" align="center"><a href="javascript:Login(1)"><img src="/resources/sgb/images/logon1.gif" alt="logon" border="0" vspace="2"></a><a href="javascript:Login(2)"><img src="/resources/sgb/images/learn_more1.gif" alt="learn more" border="0" vspace="2"></a></td>
         </tr>
       </tbody></table>
     </td>
@@ -504,6 +379,7 @@ GPO Box 399, Adelaide, SA 5001 <br>
 </tbody></table>
 </form>
 
+<p>
 <table width="108" border="0" cellspacing="0" cellpadding="1">
   <tbody><tr class="rightmenuback">
     <td align="center"><font class="rightmenuheader">apply online</font></td>
@@ -512,16 +388,19 @@ GPO Box 399, Adelaide, SA 5001 <br>
     <td>
       <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
         <tbody><tr valign="top">
-          <td><img src="/resources/bsa/images/icons/grey_bullet.gif" width="7" height="7" hspace="2" alt=""><a class="small" href="javascript:windowCreator('https://homeloan.banksa.com.au/')">home
-            loan </a><br>
-            <img src="/resources/bsa/images/icons/grey_bullet.gif" width="7" height="7" hspace="2" alt=""><a class="small" href="javascript:windowCreator('https://www.banksa.com.au/personalloan/start.asp')">personal loan </a><br>
-            <img src="/resources/bsa/images/icons/grey_bullet.gif" width="7" height="7" hspace="2" alt=""><a class="small" href="javascript:windowCreator('https://www.banksa.com.au/creditcard/start.asp')">credit card </a><br>
-            <img src="/resources/bsa/images/icons/grey_bullet.gif" width="7" height="7" hspace="2" alt=""><a class="small" href="/bankSA/business_banking/lending/b_l_a/default.asp?lending=on">business loan</a><br>
+          <td>
+            <img src="/resources/sgb/images/icons/grey_bullet.gif" width="7" height="7" hspace="2" alt="BankSA home loan"><a class="small" href="javascript:NewWindow('https://homeloan.banksa.com.au/')">home loan</a><br>
+            <img src="/resources/sgb/images/icons/grey_bullet.gif" width="7" height="7" hspace="2" alt="BankSA personal loan"><a class="small" href="javascript:NewWindow('https://www.banksa.com.au/personalloan/start.asp')">personal loan</a><br>
+            <img src="/resources/sgb/images/icons/grey_bullet.gif" width="7" height="7" hspace="2" alt="BankSA credit card"><a class="small" href="javascript:NewWindow('https://olaex.stgeorge.com.au/CCWebStart.asp?origin=BIC&amp;Source=BSA')">credit card</a><br>
+            
+            <img src="/resources/sgb/images/icons/grey_bullet.gif" width="7" height="7" hspace="2" alt="BankSA business loan"><a class="small" href="javascript:NewWindow('https://olaex.stgeorge.com.au/bcwebstart.asp?origin=BSA')">business loan</a><br>
+            
           </td>
         </tr>
       </tbody></table>
     </td>
   </tr>
 </tbody></table>
- </td></tr></tbody></table></td></tr></tbody></table>
+</p>
+<img src="/resources/sgb/images/misc/1x1.gif" height="1" width="124"></td></tr></tbody></table>
 </body></html>
