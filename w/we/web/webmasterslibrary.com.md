@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmasterslibrary.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205120318id_/http%3A//www.webmasterslibrary.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterslibrary.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622125444id_/http%3A//www.webmasterslibrary.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement - Webmasters' Library
 
