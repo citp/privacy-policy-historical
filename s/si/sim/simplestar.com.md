@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208160126id_/http%3A//www.simplestar.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
----  
 |   
 ---  
   
 ### **Simple Star Privacy and Legal Information**
 
-[Terms of service](https://web.archive.org/web/20041208160126id_/http%3A//www.simplestar.com/legal/tos.php)  
-[Privacy policy](https://web.archive.org/web/20041208160126id_/http%3A//www.simplestar.com/legal/privacy.php)  
-[Copyright and trademark information](https://web.archive.org/web/20041208160126id_/http%3A//www.simplestar.com/legal/copyright.php)  
-[Software end user license agreement](https://web.archive.org/web/20041208160126id_/http%3A//www.simplestar.com/legal/eula.php)  
+[Terms of service](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/tos.php)  
+[Privacy policy](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/privacy.php)  
+[Copyright and trademark information](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/copyright.php)  
+[Software end user license agreement](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/eula.php)  
 [Online Store terms and conditions](https://store.simplestar.com/cgi-bin/pages/tac)  
 
 
@@ -85,7 +84,7 @@ If we ever include children under the age of 13 as part of our intended site aud
 
 **11\. Contacting Simple Star.** If you have any questions about our Privacy Policy or our privacy and security practices, you can contact us at: 
 
-> Simple Star â€“ Attn. Privacy Compliance  
+> Simple Star – Attn. Privacy Compliance  
 >  2325 Third Street, Suite 424  
 >  San Francisco, CA 94107   
 >  privacy@simplestar.com  
