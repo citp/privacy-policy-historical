@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223162034id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405202201id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
 
-# Edina
+# Edina Realty,Real Estate,Title,Mortgage,Twin Cities Real Estate,Minnesota Real Estate,Property Finder,Homes For Sale in Minnesota,Beyond The Sale,Minneapolis Area Homes, St Paul Area Homes
 
 **Our Privacy Policy**
 
