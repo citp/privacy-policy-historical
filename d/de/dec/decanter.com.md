@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decanter.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214061131id_/http%3A//www.decanter.com/legal/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decanter.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602080424id_/http%3A//decanter.com/legal/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # the route to all good wine - decanter.com - my decanter
 
