@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the videobusiness.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195515id_/http%3A//www.videobusiness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videobusiness.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185123id_/http%3A//www.videobusiness.com/privacy.asp) for the most accurate reproduction.*
 
 # Video Business Online
 
-[](http://www.dvd-premieres.com/)
+[](http://www.dvdexclusive.com/)
 
 | 
 
@@ -107,6 +107,10 @@ Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)
 
 | 
 
-[](https://web.archive.org/web/20021204195515id_/http%3A//www.videobusiness.com/myr2002.asp)
+[](https://web.archive.org/web/20030603185123id_/http%3A//www.videobusiness.com/yer2002.asp)
 
-[](https://web.archive.org/web/20021204195515id_/http%3A//www.videobusiness.com/yer2001.asp)
+[](https://web.archive.org/web/20030603185123id_/http%3A//www.videobusiness.com/myr2002.asp)
+
+[](https://web.archive.org/web/20030603185123id_/http%3A//www.videobusiness.com/yer2001.asp)
+
+[](https://web.archive.org/web/20030603185123id_/http%3A//www.videobusiness.com/yer2000.asp)
