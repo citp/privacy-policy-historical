@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the mobilecityonline.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601114641id_/http%3A//www.mobilecityonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilecityonline.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211052315id_/http%3A//www.mobilecityonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Mobile City online store.
 
    
 **Terms and Conditions of MOBILECITYONLINE.COM use:**  
    
+---  
    The use of this site is governed by the terms and conditions set forth below. Please read all of these terms and conditions carefully as the use of this site and ordering of products through this site indicate your acceptance of all of these terms. If you do not agree with these terms please discontinue your use of our site. MOBILECITYONLINE.COM reserves the right to modify, alter, or update all or any part of these site terms at any time. Please review these terms prior to each use of this site to verify that conditions and terms have not changed since your last visit to our site.   
    
    Please note that MOBILECITYONLINE.COM does link to other websites. Please be aware that our privacy policy is our own and does not apply to these linked sites. We strongly encourage you to read the terms and conditions posted on websites that you visit, as well as the policies of the vendors from whom you may choose to purchase products through this site.   
