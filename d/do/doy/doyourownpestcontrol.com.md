@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the doyourownpestcontrol.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802034841id_/http%3A//www.doyourownpestcontrol.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyourownpestcontrol.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411141630id_/http%3A//www.doyourownpestcontrol.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for www.doyourownpestcontrol.com
 
-## Privacy Statement for www.doyourownpestcontrol.com
-
-Do-It-Yourself Pest Control, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.doyourownpestcontrol.com.
+|   |  Do-It-Yourself Pest Control, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.doyourownpestcontrol.com.
 
 Your IP address is used to gather broad demographic information.
 
@@ -36,4 +34,5 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Cindy Cline Do-It-Yourself Pest Control, Inc. 2823 Chamblee-Tucker Rd. Atlanta,Ga. 30341 1-800-476-3368 1-770-454-0242-fax diyinc@mindspring.com **[Catalog of Remedies](https://web.archive.org/web/20020802034841id_/http%3A//www.doyourownpestcontrol.com/catalog.htm) / [Home](https://web.archive.org/web/20020802034841id_/http%3A//www.doyourownpestcontrol.com/index.htm) / [Frequently Asked Questions ](https://web.archive.org/web/20020802034841id_/http%3A//www.doyourownpestcontrol.com/ask.htm)** **[How To Find Us](https://web.archive.org/web/20020802034841id_/http%3A//www.doyourownpestcontrol.com/findus.htm) / [Tips ](https://web.archive.org/web/20020802034841id_/http%3A//www.doyourownpestcontrol.com/tips.htm)/ [Free Offer ](https://web.archive.org/web/20020802034841id_/http%3A//www.doyourownpestcontrol.com/freeoff.htm)**
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Cindy Cline Do-It-Yourself Pest Control, Inc. 2823 Chamblee-Tucker Rd. Atlanta,Ga. 30341 1-800-476-3368 1-770-454-0242-fax diyinc@mindspring.com  
+---|---|---
