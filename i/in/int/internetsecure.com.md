@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610074558id_/http%3A//www2.internetsecure.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209030111id_/http%3A//www2.internetsecure.com/privacy.html) for the most accurate reproduction.*
 
 # InternetSecure Privacy Policy
 
@@ -6,13 +6,13 @@
 
 This policy forms part of, and should be read in conjunction with, our 
 
-[_**Terms of Use**_](https://web.archive.org/web/20020610074558id_/http%3A//www2.internetsecure.com/termsofuse.html). 
+[_**Terms of Use**_](https://web.archive.org/web/20021209030111id_/http%3A//www2.internetsecure.com/termsofuse.html). 
 
 InternetSecure believes that privacy is crucial for the ongoing success of Internet commerce. Our status as an Internet merchant account provider and certified payment gateway requires us to have a stringent policy regarding all of the information that we collect. 
 
 Your use of this site or InternetSecure’s services constitutes acceptance of these terms and conditions. If you do not agree with these policies, please cease using this site immediately. 
 
-These terms were last revised on March 6, 2001. InternetSecure reserves the right to amend these policies from time to time. If such amendments affect how InternetSecure uses or discloses personal information already held by InternetSecure in a material and adverse way over and above previous express or implied consent, InternetSecure will contact you to obtain consent. Notwithstanding the terms of this policy, the collection, use, and disclosure of personal information may be made outside of the terms herein to the extent provided for in the Canadian Personal Information Protection and Electronic Documents Act, and other relevant Canadian and Ontario legislation in effect from time to time. These exemptions include, without limitation, publicly available information, or information disclosed for criminal or civil investigations or compliance with law or court orders. 
+These terms were last revised on September 26, 2002. InternetSecure reserves the right to amend these policies from time to time. If such amendments affect how InternetSecure uses or discloses personal information already held by InternetSecure in a material and adverse way over and above previous express or implied consent, InternetSecure will contact you to obtain consent. Notwithstanding the terms of this policy, the collection, use, and disclosure of personal information may be made outside of the terms herein to the extent provided for in the Canadian Personal Information Protection and Electronic Documents Act, and other relevant Canadian and Ontario legislation in effect from time to time. These exemptions include, without limitation, publicly available information, or information disclosed for criminal or civil investigations or compliance with law or court orders. 
 
 InternetSecure takes reasonable precautions to ensure your privacy on the terms contained in this policy. InternetSecure uses reasonable efforts to, but cannot totally prevent, unintended disclosures by such means as hackers and other unauthorized individuals, and inadvertent or illicit employee actions. 
 
@@ -46,11 +46,19 @@ No information sent to InternetSecure via email or the website inquiry form is u
 
 InternetSecure takes measures to protect and keep information secure. Our Merchants’ area, application form and electronic purchase service are secured with SSL encryption. Verisign has supplied us with digital certificates for our Web sites. All information collected by InternetSecure is held offline, secured via SSL encryption, and protected by a firewall. Whenever sensitive information is transmitted to InternetSecure through our Web site, such as a credit card number, our server provides 128-bit encryption of the information as it travels across the Internet. InternetSecure restricts internal access to personal information to selected members of InternetSecure’s staff. 
 
+**Third Party Dispute Resolution:**
+
+InternetSecure Inc. is committed to resolving disputes quickly and efficiently. In the event that a dispute cannot be settled through our normal internal processes, InternetSecure Inc. is committed to using an independent third party dispute resolution process. 
+
+This process can be initiated through [ ThirdPartyResolution@internetsecure.com](mailto:ThirdPartyResolution@internetsecure.com) only after our normal internal processes have been completed. 
+
+In the event the issue relates to private information, InternetSecure Inc. will not use or distribute any private information without express permission. All disputes in arbitration will be resolved under the laws of Ontario. 
+
 **Opt out / Correct / Update:**
 
 This site gives Merchants the following options for removing their information from our database to cancel future communications, to no longer receive our service, or to change their information on our database: 
 
-1\. send email to service@internetsecure.com.  
+1\. send email to [service@internetsecure.com](mailto:service@internetsecure.com)   
 2\. call the following telephone number inside North America: 1-800-297-9482.  
 3\. call the following telephone number outside North America: +001-905-469-6522.
 
