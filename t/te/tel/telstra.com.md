@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telstra.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionstatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telstra.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionstatement.asp) for the most accurate reproduction.*
 
 # Telstra Privacy Statement
 
@@ -6,18 +6,18 @@ Telstra is committed to providing you with the highest levels of customer servic
 
 This statement, called "Protecting Your Privacy Online", sets out important information about privacy protections which we extend to your personal information. It relates to personal information that you provide to us through our websites (eg when you subscribe to our services online).
 
-[How we collect personal information](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy1)  
-[How we use your personal information](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy2)  
-[Telstra Websites](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy3)  
-[Personal information collected from our websites](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy4)  
-[Other information](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy5)  
-[When we disclose your personal information](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy6)  
-[Help us to ensure we hold accurate information](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy7)  
-[You can access your personal information](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy8)  
-[Security of your information](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy9)  
-[Childrens’ privacy](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy10)  
-[What else you should know about privacy](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy11)  
-[How to contact us](https://web.archive.org/web/20020606100518id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy12)
+[How we collect personal information](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy1)  
+[How we use your personal information](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy2)  
+[Telstra Websites](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy3)  
+[Personal information collected from our websites](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy4)  
+[Other information](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy5)  
+[When we disclose your personal information](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy6)  
+[Help us to ensure we hold accurate information](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy7)  
+[You can access your personal information](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy8)  
+[Security of your information](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy9)  
+[Childrens’ privacy](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy10)  
+[What else you should know about privacy](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy11)  
+[How to contact us](https://web.archive.org/web/20021203062014id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy12)
 
 For more detail on Telstra's approach to privacy generally, please refer to [Telstra's PRIVACY POLICY](http://www.telstra.com.au/privacy/)
 
@@ -67,7 +67,7 @@ Our websites record other information as well. This information is used to impro
 
 Telstra uses “cookies”. Cookies are pieces of information that a web site can transfer to an individual's computer hard drive for record keeping. Cookies can make using our websites easier by storing information about your preferences on a particular website. This will enable you to take full advantage of the services we offer. The use of cookies is an industry standard and you'll find most major websites use them. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. 
 
-Telstra uses [Pacific Access Media Sales](http://corporate.pacificaccess.com.au/Internet/other_products/pa_media/ps_media.jhtml) to supply ad-serving services for our web sites. Pacific Access Media Sales uses cookies for anonymous profiling of users to tailor advertising to user preferences. No personally identifiable information is collected by Pacific Access Media Sales from our web sites. You may opt-out of anonymous profiling performed by Pacific Access Media Sales, if you are using an IE6 web browser, by adjusting your browser security setting to block cookies from ad2.pamedia.com.au 
+Telstra uses [Sensis MediaSmart Sales](http://corporate.pacificaccess.com.au/Internet/other_products/pa_media/ps_media.jhtml) to supply ad-serving services for our web sites. Sensis MediaSmart Sales uses cookies for anonymous profiling of users to tailor advertising to user preferences. No personally identifiable information is collected by Sensis MediaSmart Sales from our web sites. You may opt-out of anonymous profiling performed by Sensis MediaSmart Sales, if you are using an IE6 web browser, by adjusting your browser security setting to block cookies from ad2.pamedia.com.au 
 
 Telstra uses [DoubleClick](http://www.doubleclick.net/au) to supply ad-serving services for our websites. DoubleClick uses cookies for anonymous profiling of users to tailor advertising to user preferences. No personally identifiable information is collected by DoubleClick from our web sites. If you wish to opt-out of anonymous profiling performed by DoubleClick, please indicate this preference at the DoubleClick website by clicking [here](http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&)
 
