@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the automotiveworld.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602194600id_/http%3A//www.awknowledge.com/about/privacy.asp) for the most accurate reproduction.*
+
+# AWKnowledge: Privacy Policy
+
+AWKnowledge understands the importance of user privacy, and we are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of AWKnowledge, a trading name of Synesis Media Limited. 
+
+Personal information is collected by the AWKnowledge.com through the use of the enquiry and registration forms and every time you e-mail us your details. We also collect information automatically whenever you visit our site. The information obtained, which includes browsing patterns is only used in aggregate form. We process your personal information collected via the AWKnowledge site for the purposes of providing a personalised service, conducting market research surveys and providing you with information about products and services we offer. If you do not wish to receive information about our products or services, about the AWKnowledge group or information from other carefully selected organisations, please inform us at [information.officer@awknowledge.com](mailto:information.officer@awknowledge.com).
+
+We withhold the right to disclose your information to business partners and third party suppliers we engage to provide services which involve processing data on our behalf, successors in title to our business or in accordance with a properly executed court order. Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the AWKnowledge site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
+
+If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy.officer@AWKnowledge.com](mailto:privacy.officer@AWKnowledge.com).
