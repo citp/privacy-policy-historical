@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008045652id_/http%3A//essentialwholesale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606132948id_/http%3A//www.essentialwholesale.com/privacy.html) for the most accurate reproduction.*
 
 # Essential Wholesale | Privacy Policy
 
