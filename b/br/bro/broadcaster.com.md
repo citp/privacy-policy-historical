@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcaster.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201183921id_/http%3A//broadcaster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcaster.com privacy policy that was archived on 2002-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020212024602id_/http%3A//broadcaster.com/privacy.html) for the most accurate reproduction.*
 
 # Free Movies, Videos, Downloads, Animation, TV, and More
 
@@ -45,13 +45,13 @@ NetBroadcaster.com's Webmail is a separate service provided by BigMailBox.com. C
 [BigMailBox.com Email Service Privacy Policy](http://www.bigmailbox.com/privacy.html) and Email Service Terms and Conditions [BigMailBox Email Service Terms and Conditions](http://www.bigmailbox.com/termsofuse.html). 
 
 **CONTACTING THE WEBSITE**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may write to corporate headquarters using the address listed below or contact one of our customer service agents Monday-Friday 9am-5pm PST at 213/596-5030. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may write to corporate headquarters using the address listed below or contact one of our customer service agents Monday-Friday 9am-5pm PST at 818 206-0595 x4623. 
 
-Netbroadcaster.com 6300 Canoga Avenue Trillium West Tower,15th Floor Woodland Hills, CA 9136
+Netbroadcaster.com 6300 Canoga Avenue Trillium West Tower,15th Floor Woodland Hills, CA 91367
 
 **Please bookmark this page and check back often. We make frequent updates to this privacy policy.**
 
-Last Updated: 06/06/2001 
+Last Updated: 01/01/2002 
 
 Return
 
