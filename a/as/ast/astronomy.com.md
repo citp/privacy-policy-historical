@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603151131id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602144231id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.*
 
-# Astronomy.com
+# Astronomy.com -- Privacy Policy
 
 Astronomy.com is committed to providing service that exceeds the expectations of site visitors and those who register for our services or conduct e-commerce via our web site. This commitment extends to the expectations you may have about maintaining your privacy and that of the members of your family, when it comes to use of any "personally identifiable information" you may provide.
 
