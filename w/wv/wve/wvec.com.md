@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvec.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206092708id_/http%3A//www.wvec.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvec.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404063913id_/http%3A//www.wvec.com/registration/privacy.html) for the most accurate reproduction.*
 
 # WVEC.com | News for Hampton Roads, Virginia | Privacy Policy
 
@@ -107,8 +107,8 @@ This Privacy Policy is effective as of March 5, 2004. Belo Interactive reserves 
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/267752014/Position1/default/empty.gif/7a2f4868396c34304a4f6f4143745236?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/1857398105/Position1/default/empty.gif/7a2f486f654634304a5041414162456d?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/1960389918/Position4/default/empty.gif/7a2f4868396c34304a4f6f4143745236?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/919341211/Position4/default/empty.gif/7a2f486f654634304a5041414162456d?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/508816529/Position5/default/empty.gif/7a2f4868396c34304a4f6f4143745236?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/775039532/Position5/default/empty.gif/7a2f486f654634304a5041414162456d?x)
