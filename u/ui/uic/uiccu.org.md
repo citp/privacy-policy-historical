@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the uiccu.org privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uiccu.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/default.htm)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/aboutus.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/whatsnew.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/location.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/faq.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/newsletter.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/products/product_6.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/mission.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/employment.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/feedback.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/Sitemap.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/links.asp)  
-[](https://web.archive.org/web/20041224013748id_/http%3A//www.uiccu.org/asp/Privacy.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/home.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/aboutus.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/whatsnew.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/location.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/faq.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/newsletter.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/products/product_6.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/mission.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/employment.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/feedback.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/Sitemap.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/services/service_1.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/links.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/Privacy.asp)  
+[](https://web.archive.org/web/20050403095257id_/http%3A//www.uiccu.org/asp/Search.asp)  
   
 |  | 
 
