@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060237id_/http%3A//out-law.com/php/page.php%3Fpage_id%3Dprivacy6831%26area%3Dabout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032724id_/http%3A//www.out-law.com/php/page.php%3Fpage_id%3Dprivacy6831%26area%3Dabout) for the most accurate reproduction.*
 
 # out-law.com - legal news and business guides
 
@@ -6,7 +6,7 @@ Privacy Policy
   
 safeguarding your rights
 
-OUT-LAW.COM is part of international law firm [Masons](http://www.masons.com/). The privacy of our users is important to us and we take care to safeguard it. This policy explains how we use your personal information. 
+OUT-LAW.COM is part of international law firm [Pinsent Masons](http://www.pinsentmasons.com/). The privacy of our users is important to us and we take care to safeguard it. This policy explains how we use your personal information. 
 
 If you have any queries concerning your personal information or any questions on our use of the information, please contact our site editor, [Struan Robertson](mailto:Struan.Robertson@out-law.com)
 
@@ -34,7 +34,7 @@ We automatically collect information about your visit to our site. This informat
 
 **_Transferring information overseas_**
 
-Outside the UK, Masons has offices in Dublin, Brussels, Hong Kong, Singapore and Guangzhou, China. It is possible that your details or information collected may be passed to these offices - but only where we think this may be of benefit to you. Note, however, that although privacy safeguards will apply within Masons, countries outside the European Economic Area do not always provide the the same level of data protection as the UK. 
+Outside the UK, Pinsent Masons has offices in Dublin, Brussels, Hong Kong, and Shanghai. It is possible that your details or information collected may be passed to these offices - but only where we think this may be of benefit to you. Note, however, that although privacy safeguards will apply within Pinsent Masons, countries outside the European Economic Area do not always provide the the same level of data protection as the UK. 
 
 **_Cookies_**
 
@@ -44,4 +44,4 @@ Once you register with OUT-LAW.COM, we offer you a cookie to save your log in de
 
 More information about cookies, including how to block them and/or delete them, can be found at [AboutCookies.org](http://www.aboutcookies.org/).
 
-[© Masons 2000 - 2004](https://web.archive.org/php/page.php?page_id=disclaimer)
+[© Pinsent Masons 2000 - 2004](https://web.archive.org/php/page.php?page_id=disclaimer)
