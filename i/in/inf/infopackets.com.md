@@ -1,24 +1,23 @@
-> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410125404id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206065347id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**Infopackets.com Privacy Policy**
+Infopackets.com Privacy Policy
 
   
 This web site is made for new and intermediate computer users.
 
 A short version of the Privacy Policy is below, followed by a longer version for your convenience.
 
-In general --  
- 
+In general --
 
-**We respect your privacy. Your email address will never be sold, or rented to a third party.**
-
+   
+---  
+**We respect your privacy. Your email address will never be sold, or rented to a third party.**  
   
 The infopackets web site is based on a [free Windows newsletter](http://www.infopackets.com/windows+newsletter.htm).
 
-Your are encouraged to sign up for the newsletter and share in our knowledge.  Should you sign up for the newsletter, you can be assured that:  
- 
+Your are encouraged to sign up for the newsletter and share in our knowledge.  Should you sign up for the newsletter, you can be assured that:
 
   1. You can unsubscribe at any time.  Unsubscribing is done in the same manner as it is when you subscribe.  
  
@@ -30,7 +29,6 @@ Your are encouraged to sign up for the newsletter and share in our knowledge.  
 
 
 
-  
 Furthermore:
 
   * We don't use cookies on our web site to track visitors.  
@@ -39,8 +37,8 @@ Furthermore:
 
 
 
-**The long version of our Privacy Policy  
- **
+  
+**The long version of our Privacy Policy**
 
 Infopackets.com is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. 
 
