@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155428id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207165223id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
 
 # NASCAR.com : privacy policy
 
@@ -48,7 +48,7 @@ Our site may contain links to other sites whose information practices may be dif
 
 We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. NASCAR.com does not have ultimate control over these third parties' use of this information. NASCAR.com will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
-We may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please click here. 
+We may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers data collection, please click here. 
 
 Cookies
 
@@ -80,7 +80,7 @@ If you have signed up to receive our emails and prefer not to receive marketing 
 
 Third Party Ad Servers
 
-We currently partner with NetGravity to serve or present the ads that appear on our site. For more information about NetGravity, click [here](http://www.networkadvertising.org/). For more information about third party ad servers in general, click [here](http://www.networkadvertising.org/). 
+We do not currently partner with or have special relationships with any third-party ad server companies to serve or present the ads that appear on our site. Some of our advertisers, however, may use the services of third-party ad networks. For more about third-party ad servers, click [here](http://www.networkadvertising.org/). 
 
 Access to personal information
 
