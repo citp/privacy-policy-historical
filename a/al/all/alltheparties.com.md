@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltheparties.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413064220id_/http%3A//www.alltheparties.com/index.php%3Fmainact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltheparties.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024015635id_/http%3A//alltheparties.com/index.php%3Fmainact%3Dprivacy) for the most accurate reproduction.*
 
 # Allnightclubs.com's Privacy Policy
 
