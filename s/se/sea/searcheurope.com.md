@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004170006id_/http%3A//www.searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606204045id_/http%3A//www.searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Search Europe
 
