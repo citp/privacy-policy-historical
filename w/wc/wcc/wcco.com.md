@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2001-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010618042106id_/http%3A//www.channel4000.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217221756id_/http%3A//www.channel4000.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
 
 # Channel4000.com - Privacy Policy
 
@@ -6,12 +6,8 @@
 [](https://web.archive.org/news/)  
 [](http://www.channel4000.com/news/)  
   
-[](http://www.channel4000.com/travelgetaways/lasvegas.html) [](http://mycast.channel4000.com/c4k/index.jsp)
-
-  
-
-
-|  | 
+[](http://www.channel4000.com/travelgetaways/lasvegas.html)   
+[](https://web.archive.org/weather/mycast/login.html) |  | 
 
 ## Privacy Policy
 
