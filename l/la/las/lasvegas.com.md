@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasvegas.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206042113id_/http%3A//www.lasvegas.com/about_us/privacy_feature_content.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegas.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605132654id_/http%3A//lasvegas.com/about_us/privacy_feature_content.HTM) for the most accurate reproduction.*
 
 # LasVegas.com - LasVegas.com Privacy Policy
 
