@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605045828id_/http%3A//www.edvisors.com/cgi/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207224703id_/http%3A//www.edvisors.com/cgi/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Edvisors Network: Privacy
 
 #### Security
 
-As a member of the International Student Network, this site uses, and partners only with companies using, security technology to ensure the security and integrity of data received and transmitted via the internet to partner financial institutions. 
+As a member of the Edvisors Network, this site uses, and partners only with companies using, security technology to ensure the security and integrity of data received and transmitted via the internet to partner financial institutions. 
 
 #### Information Gathered on this Site
 
-When you browse our site and have not registered for any online service from the International Student Network, you browse anonymously. Personal information -- such as your name, address, phone number or E-mail address -- is not collected as you browse. The International Student Network does, however, use "cookies" to collect information about how our site is used. Information, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to a International Student Network banner ad or E-mail is collected and tracked in aggregate. This information is used for the purpose of measuring response rates to banner ads and E-mail offers. 
+When you browse our site and have not registered for any online service from the Edvisors Network, you browse anonymously. Personal information -- such as your name, address, phone number or E-mail address -- is not collected as you browse. The Edvisors Network does, however, use "cookies" to collect information about how our site is used. Information, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to a International Student Network banner ad or E-mail is collected and tracked in aggregate. This information is used for the purpose of measuring response rates to banner ads and E-mail offers. 
 
 #### Information provided to Partners
 
-The International Student Network is a free online resource accepting and linking to online service providers. Request for services may require that the user enter personal information including name, address, phone number, email address, income, and other financial information in accordance with the type of service desired. Providers require such information to fulfill your request. 
+The Edvisors Network is a free online resource accepting and linking to online service providers. Request for services may require that the user enter personal information including name, address, phone number, email address, income, and other financial information in accordance with the type of service desired. Providers require such information to fulfill your request. 
 
-When you complete one of our online loan service request forms, your information will be transmitted to a partner institution for fulfillment. We work very closely with our partners to insure your information is secure and your confidentiality is maintained. In many cases, you will be completing the application request form on the partner's website. In that case, they will have their security policy available for your review. 
+When you complete one of our online service request forms, your information will be transmitted to a partner institution for fulfillment. We work very closely with our partners to insure your information is secure and your confidentiality is maintained. In many cases, you will be completing the application request form on the partner's website. In that case, they will have their security policy available for your review. 
 
 #### Registration for Online Products and Services
 
@@ -29,3 +29,7 @@ Our goal is to deliver offers to people who we believe will find them of value. 
 #### Declining E-mail Offers
 
 The Network provides customers with an easy means to decline receiving E-mail offers. Although some customers tell us they appreciate receiving notice of these carefully designed opportunities, we recognize the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply replying to the E-mail and informing us of your preferences. All E-mail offers that you receive from the Network will inform you of how to decline receiving further E-mail offers. 
+
+#### Personal Reviews
+
+Please note that all reviews contained on this website are the express opinions of users who use the website. They are in no way the opinions of Edvisors.com.
