@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the cricket365.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802203055id_/http%3A//www.cricket365.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket365.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618083908id_/http%3A//www.cricket365.com/Home/privacy.shtml) for the most accurate reproduction.*
 
-# Cricket365: Cricket Tournaments
+# Cricket news, fun, scorecards, live coverage and features from Cricket365.com
 
+  
 **1.** **Cricket365** has a firm commitment to privacy. 
 
 **2.** We may use your IP address to help diagnose problems with our server and to administer our website. Your IP address may be used to help identify you and to gather broad demographic information. We will not provide or sell user-specific demographic information to any other person or business. We will only share this information on an aggregate basis. 
