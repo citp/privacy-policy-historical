@@ -1,231 +1,320 @@
-<!--The following is the downloaded HTML source of the blockbuster.ca privacy policy that was archived on 2001-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010614034348id_/http%3A//www.blockbuster.ca/corp/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blockbuster.ca privacy policy that was archived on 2002-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215231034id_/http%3A//www.blockbuster.ca/canada/English/PrivatePolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>BLOCKBUSTER VIDEO, Canada's Family Entertainment Store</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</head>
+<script language="JavaScript">
+<!--
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#333333" link="#000000" vlink="#990000" onload="MM_preloadImages('gfx/promo_button_f2.gif','gfx/pr_button_f2.gif')">
-<table width="650" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr align="center"> 
-    <td colspan="4" valign="top"><script language="JavaScript">
-<!--hide this script from non-javascript-enabled browsers
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
 
-function MM_findObj(n, d) { //v3.0
+function MM_findObj(n, d) { //v4.0
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
   if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-}
-/* Functions that swaps images. */
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
 }
 
-/* Functions that handle preload. */
-function MM_preloadImages() { //v3.0
- var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
 }
-
-// stop hiding -->
+//-->
 </script>
-
-<table border="0" cellpadding="0" cellspacing="0" width="700">
-<!-- fwtable fwsrc="top.png" fwbase="top.gif" -->
- 
-
-  <tbody><tr valign="top"><!-- row 1 -->
-   <td rowspan="5"><img name="top_r1_c01" src="gfx/top_r1_c01.gif" width="25" height="98" border="0"></td>
-    <td rowspan="4"><a href="../index.shtml" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('top_r1_c02','','gfx/top_r1_c02_f2.gif',1);"><img name="top_r1_c02" src="gfx/top_r1_c02.gif" width="128" height="84" border="0"></a></td>
-   <td rowspan="5"><img name="top_r1_c03" src="gfx/top_r1_c03.gif" width="30" height="98" border="0"></td>
-   <td colspan="8"><img name="top_r1_c04" src="gfx/top_r1_c04.gif" width="517" height="9" border="0"></td>
-   <td><img src="gfx/shim.gif" width="1" height="9" border="0"></td>
+</head>
+<body bgcolor="#FFFFFF" text="#3333333" onload="MM_preloadImages('topnav_images_redo/topnav_ca_eng_re_r1_c1_f3.gif','topnav_images_redo/topnav_ca_eng_re_r1_c1_f2.gif','topnav_images_redo/topnav_ca_eng_re_r1_c1_f4.gif','topnav_images_redo/topnav_ca_eng_re_r2_c4_f3.gif','topnav_images_redo/topnav_ca_eng_re_r2_c4_f2.gif','topnav_images_redo/topnav_ca_eng_re_r2_c4_f4.gif','topnav_images_redo/topnav_ca_eng_re_r2_c8_f3.gif','topnav_images_redo/topnav_ca_eng_re_r2_c8_f2.gif','topnav_images_redo/topnav_ca_eng_re_r2_c8_f4.gif','topnav_images_redo/topnav_ca_eng_re_r2_c11_f2.gif','topnav_images_redo/topnav_ca_eng_re_r2_c11_f4.gif','topnav_images_redo/topnav_ca_eng_re_r2_c14_f3.gif','topnav_images_redo/topnav_ca_eng_re_r2_c14_f2.gif','topnav_images_redo/topnav_ca_eng_re_r2_c14_f4.gif','topnav_images_redo/topnav_ca_eng_re_r6_c5_f3.gif','topnav_images_redo/topnav_ca_eng_re_r6_c5_f2.gif','topnav_images_redo/topnav_ca_eng_re_r6_c5_f4.gif','topnav_images_redo/topnav_ca_eng_re_r6_c9_f3.gif','topnav_images_redo/topnav_ca_eng_re_r6_c9_f2.gif','topnav_images_redo/topnav_ca_eng_re_r6_c9_f4.gif','../../Library/test/topnav_ca_eng_te_r1_c1_f3.gif','../../Library/test/topnav_ca_eng_te_r1_c1_f2.gif','../../Library/test/topnav_ca_eng_te_r1_c1_f4.gif','../../Library/test/topnav_ca_eng_te_r2_c4_f3.gif','../../Library/test/topnav_ca_eng_te_r2_c4_f2.gif','../../Library/test/topnav_ca_eng_te_r2_c4_f4.gif','../../Library/test/topnav_ca_eng_te_r6_c5_f3.gif','../../Library/test/topnav_ca_eng_te_r6_c5_f2.gif','../../Library/test/topnav_ca_eng_te_r6_c5_f4.gif','../../Library/test/topnav_ca_eng_te_r2_c8_f3.gif','../../Library/test/topnav_ca_eng_te_r2_c8_f2.gif','../../Library/test/topnav_ca_eng_te_r2_c8_f4.gif','../../Library/test/topnav_ca_eng_te_r2_c11_f3.gif','../../Library/test/topnav_ca_eng_te_r2_c11_f2.gif','../../Library/test/topnav_ca_eng_te_r2_c11_f4.gif','../../Library/test/topnav_ca_eng_te_r2_c14_f3.gif','../../Library/test/topnav_ca_eng_te_r2_c14_f2.gif','../../Library/test/topnav_ca_eng_te_r2_c14_f4.gif','../../Library/test/topnav_ca_eng_te_r6_c9_f3.gif','../../Library/test/topnav_ca_eng_te_r6_c9_f2.gif','../../Library/test/topnav_ca_eng_te_r6_c9_f4.gif')" link="#000000" vlink="#9900000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+<table cellspacing="0" cellpadding="0" border="0" height="481" width="638" align="center">
+  <tbody><tr align="center"> 
+    <td colspan="7" valign="top"><a name="top"></a><!-- #BeginLibraryItem "/Library/topnav_ca_eng_test.lbi" --><table border="0" cellpadding="0" cellspacing="0" width="687">
+<!-- fwtable fwsrc="topnav_ca_eng_redo.png" fwbase="topnav_ca_eng_test.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="1" -->
+  <tbody><tr>
+   <td><a href="index.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','topnav_ca_eng_te_r1_c1','../../Library/test/topnav_ca_eng_te_r1_c1_f2.gif','../../Library/test/topnav_ca_eng_te_r1_c1_f4.gif',1)" onclick="MM_nbGroup('down','navbar1','topnav_ca_eng_te_r1_c1','../../Library/test/topnav_ca_eng_te_r1_c1_f3.gif',1)"><img name="topnav_ca_eng_te_r1_c1" src="../../Library/test/topnav_ca_eng_te_r1_c1.gif" width="153" height="89" border="0"></a></td>
+   <td rowspan="2"><img name="topnav_ca_eng_te_r1_c3" src="../../Library/test/topnav_ca_eng_te_r1_c3.gif" width="16" height="97" border="0"></td>
+   <td><table border="0" cellpadding="0" cellspacing="0" width="105">
+	  <tbody><tr>
+	   <td><img name="topnav_ca_eng_te_r1_c4" src="../../Library/test/topnav_ca_eng_te_r1_c4.gif" width="105" height="13" border="0"></td>
+	  </tr>
+	  <tr>
+	   <td><table border="0" cellpadding="0" cellspacing="0" width="105">
+		  <tbody><tr>
+		   <td><table border="0" cellpadding="0" cellspacing="0" width="105">
+			  <tbody><tr>
+			   <td><a href="vhs_main.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','topnav_ca_eng_te_r2_c4','../../Library/test/topnav_ca_eng_te_r2_c4_f2.gif','../../Library/test/topnav_ca_eng_te_r2_c4_f4.gif',1)" onclick="MM_nbGroup('down','navbar1','topnav_ca_eng_te_r2_c4','../../Library/test/topnav_ca_eng_te_r2_c4_f3.gif',1)"><img name="topnav_ca_eng_te_r2_c4" src="../../Library/test/topnav_ca_eng_te_r2_c4.gif" width="70" height="26" border="0"></a></td>
+			   <td><img name="topnav_ca_eng_te_r2_c6" src="../../Library/test/topnav_ca_eng_te_r2_c6.gif" width="35" height="26" border="0"></td>
+			  </tr>
+			</tbody></table></td>
+		  </tr>
+		  <tr>
+		   <td><table border="0" cellpadding="0" cellspacing="0" width="105">
+			  <tbody><tr>
+			   <td><img name="topnav_ca_eng_te_r6_c4" src="../../Library/test/topnav_ca_eng_te_r6_c4.gif" width="16" height="19" border="0"></td>
+			   <td><a href="locator_main.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','topnav_ca_eng_te_r6_c5','../../Library/test/topnav_ca_eng_te_r6_c5_f2.gif','../../Library/test/topnav_ca_eng_te_r6_c5_f4.gif',1)" onclick="MM_nbGroup('down','navbar1','topnav_ca_eng_te_r6_c5','../../Library/test/topnav_ca_eng_te_r6_c5_f3.gif',1)"><img name="topnav_ca_eng_te_r6_c5" src="../../Library/test/topnav_ca_eng_te_r6_c5.gif" width="89" height="19" border="0"></a></td>
+			  </tr>
+			</tbody></table></td>
+		  </tr>
+		</tbody></table></td>
+	  </tr>
+	  <tr>
+	   <td><img name="topnav_ca_eng_te_r7_c4" src="../../Library/test/topnav_ca_eng_te_r7_c4.gif" width="105" height="31" border="0"></td>
+	  </tr>
+	</tbody></table></td>
+   <td rowspan="2"><img name="topnav_ca_eng_te_r1_c7" src="../../Library/test/topnav_ca_eng_te_r1_c7.gif" width="20" height="97" border="0"></td>
+   <td><table border="0" cellpadding="0" cellspacing="0" width="366">
+	  <tbody><tr>
+	   <td><img name="topnav_ca_eng_te_r1_c8" src="../../Library/test/topnav_ca_eng_te_r1_c8.gif" width="366" height="13" border="0"></td>
+	  </tr>
+	  <tr>
+	   <td><table border="0" cellpadding="0" cellspacing="0" width="366">
+		  <tbody><tr>
+		   <td><table border="0" cellpadding="0" cellspacing="0" width="232">
+			  <tbody><tr>
+			   <td><a href="dvd_main.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','topnav_ca_eng_te_r2_c8','../../Library/test/topnav_ca_eng_te_r2_c8_f2.gif','../../Library/test/topnav_ca_eng_te_r2_c8_f4.gif',1)" onclick="MM_nbGroup('down','navbar1','topnav_ca_eng_te_r2_c8','../../Library/test/topnav_ca_eng_te_r2_c8_f3.gif',1)"><img name="topnav_ca_eng_te_r2_c8" src="../../Library/test/topnav_ca_eng_te_r2_c8.gif" width="70" height="26" border="0"></a></td>
+			   <td><img name="topnav_ca_eng_te_r2_c10" src="../../Library/test/topnav_ca_eng_te_r2_c10.gif" width="12" height="26" border="0"></td>
+			   <td><table border="0" cellpadding="0" cellspacing="0" width="150">
+				  <tbody><tr>
+				   <td><a href="games_main.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','topnav_ca_eng_te_r2_c11','../../Library/test/topnav_ca_eng_te_r2_c11_f2.gif','../../Library/test/topnav_ca_eng_te_r2_c11_f4.gif',1)" onclick="MM_nbGroup('down','navbar1','topnav_ca_eng_te_r2_c11','../../Library/test/topnav_ca_eng_te_r2_c11_f3.gif',1)"><img name="topnav_ca_eng_te_r2_c11" src="../../Library/test/topnav_ca_eng_te_r2_c11.gif" width="150" height="25" border="0"></a></td>
+				  </tr>
+				  <tr>
+				   <td><img name="topnav_ca_eng_te_r5_c11" src="../../Library/test/topnav_ca_eng_te_r5_c11.gif" width="150" height="1" border="0"></td>
+				  </tr>
+				</tbody></table></td>
+			  </tr>
+			</tbody></table></td>
+		   <td><table border="0" cellpadding="0" cellspacing="0" width="134">
+			  <tbody><tr>
+			   <td><a href="corporate.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','topnav_ca_eng_te_r2_c14','../../Library/test/topnav_ca_eng_te_r2_c14_f2.gif','../../Library/test/topnav_ca_eng_te_r2_c14_f4.gif',1)" onclick="MM_nbGroup('down','navbar1','topnav_ca_eng_te_r2_c14','../../Library/test/topnav_ca_eng_te_r2_c14_f3.gif',1)"><img name="topnav_ca_eng_te_r2_c14" src="../../Library/test/topnav_ca_eng_te_r2_c14.gif" width="134" height="24" border="0"></a></td>
+			  </tr>
+			  <tr>
+			   <td><img name="topnav_ca_eng_te_r4_c14" src="../../Library/test/topnav_ca_eng_te_r4_c14.gif" width="134" height="2" border="0"></td>
+			  </tr>
+			</tbody></table></td>
+		  </tr>
+		  <tr>
+		   <td><table border="0" cellpadding="0" cellspacing="0" width="232">
+			  <tbody><tr>
+			   <td><img name="topnav_ca_eng_te_r6_c8" src="../../Library/test/topnav_ca_eng_te_r6_c8.gif" width="2" height="19" border="0"></td>
+			   <td><a href="whatshappening.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','topnav_ca_eng_te_r6_c9','../../Library/test/topnav_ca_eng_te_r6_c9_f2.gif','../../Library/test/topnav_ca_eng_te_r6_c9_f4.gif',1)" onclick="MM_nbGroup('down','navbar1','topnav_ca_eng_te_r6_c9','../../Library/test/topnav_ca_eng_te_r6_c9_f3.gif',1)"><img name="topnav_ca_eng_te_r6_c9" src="../../Library/test/topnav_ca_eng_te_r6_c9.gif" width="107" height="19" border="0"></a></td>
+			   <td><img name="topnav_ca_eng_te_r6_c12" src="../../Library/test/topnav_ca_eng_te_r6_c12.gif" width="123" height="19" border="0"></td>
+			  </tr>
+			</tbody></table></td>
+		   <td><img name="topnav_ca_eng_te_r6_c14" src="../../Library/test/topnav_ca_eng_te_r6_c14.gif" width="134" height="19" border="0"></td>
+		  </tr>
+		</tbody></table></td>
+	  </tr>
+	  <tr>
+	   <td><img name="topnav_ca_eng_te_r7_c8" src="../../Library/test/topnav_ca_eng_te_r7_c8.gif" width="366" height="31" border="0"></td>
+	  </tr>
+	</tbody></table></td>
+   <td rowspan="2"><img name="topnav_ca_eng_te_r1_c15" src="../../Library/test/topnav_ca_eng_te_r1_c15.gif" width="27" height="97" border="0"></td>
   </tr>
-  <tr valign="top"><!-- row 2 -->
-    <td><a href="../movies/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('top_r2_c04','','gfx/top_r2_c04_f2.gif',1);"><img name="top_r2_c04" src="gfx/top_r2_c04.gif" width="104" height="32" border="0"></a></td>
-   <td colspan="2"><img name="top_r2_c05" src="gfx/top_r2_c05.gif" width="37" height="32" border="0"></td>
-    <td colspan="2"><a href="../games/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('top_r2_c07','','gfx/top_r2_c07_f2.gif',1);"><img name="top_r2_c07" src="gfx/top_r2_c07.gif" width="156" height="32" border="0"></a></td>
-   <td><img name="top_r2_c09" src="gfx/top_r2_c09.gif" width="41" height="32" border="0"></td>
-    <td><a href="index.shtml"><img name="top_r2_c10" src="gfx/top_r2_c10_f2.gif" width="134" height="32" border="0"></a></td>
-   <td><img name="top_r2_c11" src="gfx/top_r2_c11.gif" width="45" height="32" border="0"></td>
-   <td><img src="gfx/shim.gif" width="1" height="32" border="0"></td>
+  <tr>
+   <td><img name="topnav_ca_eng_te_r8_c1" src="../../Library/test/topnav_ca_eng_te_r8_c1.gif" width="153" height="8" border="0"></td>
+   <td><img name="topnav_ca_eng_te_r8_c4" src="../../Library/test/topnav_ca_eng_te_r8_c4.gif" width="105" height="8" border="0"></td>
+   <td><img name="topnav_ca_eng_te_r8_c8" src="../../Library/test/topnav_ca_eng_te_r8_c8.gif" width="366" height="8" border="0"></td>
   </tr>
-  <tr valign="top"><!-- row 3 -->
-   <td><a href="../storeloc/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('top_r3_c04','','gfx/top_r3_c04_f2.gif',1);"><img name="top_r3_c04" src="gfx/top_r3_c04.gif" width="104" height="19" border="0"></a></td>
-   <td><img name="top_r3_c05" src="gfx/top_r3_c05.gif" width="17" height="19" border="0"></td>
-   <td colspan="2"><a href="../instore/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('top_r3_c06','','gfx/top_r3_c06_f2.gif',1);"><img name="top_r3_c06" src="gfx/top_r3_c06.gif" width="103" height="19" border="0"></a></td>
-   <td rowspan="3" colspan="4"><img name="top_r3_c08" src="gfx/top_r3_c08.gif" width="293" height="57" border="0"></td>
-   <td><img src="gfx/shim.gif" width="1" height="19" border="0"></td>
+</tbody></table><!-- #EndLibraryItem --></td>
   </tr>
-  <tr valign="top"><!-- row 4 -->
-   <td rowspan="2" colspan="4"><img name="top_r4_c04" src="gfx/top_r4_c04.gif" width="224" height="38" border="0"></td>
-   <td><img src="gfx/shim.gif" width="1" height="24" border="0"></td>
-  </tr>
-  <tr valign="top"><!-- row 5 -->
-   <td><img name="top_r5_c02" src="gfx/top_r5_c02.gif" width="128" height="14" border="0"></td>
-   <td><img src="gfx/shim.gif" width="1" height="14" border="0"></td>
-  </tr>
- <tr>
-<!-- Shim row, height 1. -->
-   <td><img src="gfx/shim.gif" width="25" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="128" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="30" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="104" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="17" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="20" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="83" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="73" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="41" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="134" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="45" height="1" border="0"></td>
-   <td><img src="gfx/shim.gif" width="1" height="1" border="0"></td>
-  </tr>
-
-</tbody></table>
-
-</td>
+  <tr align="right"> 
+    <td colspan="7" height="15" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="../French/PrivatePolicy_FR.html">Version 
+      française</a>&nbsp;&nbsp;&nbsp;</font></td>
   </tr>
   <tr> 
-    <td width="27" valign="middle" align="left"><img src="gfx/shim.gif" width="27" height="1"></td>
-    <td width="140" valign="top" align="left"><p>&nbsp;</p>
-<script language="JavaScript">
-<!--
-
-
-
-<!--hide this script from non-javascript-enabled browsers
-
-/* Functions that swaps images. */
-
-/* Functions that handle preload. */
-
-// stop hiding -->//-->
-</script>
-<table border="0" cellpadding="0" cellspacing="0" width="142">
-  <!-- fwtable fwsrc="sidebars.png" fwbase="side.gif" --> 
-  <tbody><tr> <!-- Shim row, height 1. --> 
-    <td><img src="gfx/shim.gif" width="142" height="1" border="0"></td>
-    <td><img src="gfx/shim.gif" width="1" height="1" border="0"></td>
+    <td height="479" colspan="2" rowspan="2" valign="top"><!-- #BeginLibraryItem "/Library/corporate_side.lbi" --><table border="0" cellpadding="0" cellspacing="0" width="156">
+<!-- fwtable fwsrc="corporate_side.png" fwbase="corporate_side.gif" -->
+  <tbody><tr>
+    <td><img src="SlicesforLibrary/corporate_images/spacer.gif" width="11" height="1" border="0"></td>
+    <td><img src="SlicesforLibrary/corporate_images/spacer.gif" width="142" height="1" border="0"></td>
+    <td><img src="SlicesforLibrary/corporate_images/spacer.gif" width="3" height="1" border="0"></td>
+    <td><img src="SlicesforLibrary/corporate_images/spacer.gif" width="1" height="1" border="0"></td>
   </tr>
-  <tr valign="top"><!-- row 7 --> 
-    <td bgcolor="#FFCC00">&nbsp;</td>
-    <td><img src="gfx/shim.gif" width="1" height="6" border="0"></td>
+  <tr>
+    <td colspan="3"><img name="corporate_side_r1_c1" src="SlicesforLibrary/corporate_images/corporate_side_r1_c1.gif" width="156" height="15" border="0"></td>
+    <td><img src="SlicesforLibrary/corporate_images/spacer.gif" width="1" height="15" border="0"></td>
   </tr>
-  <tr valign="top"><!-- row 8 --> 
-    <td background="gfx/side_r08_c1.gif" align="center">
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-    </td>
-    <td><img src="gfx/shim.gif" width="1" height="11" border="0"></td>
+  <tr>
+    <td rowspan="4"><img name="corporate_side_r2_c1" src="SlicesforLibrary/corporate_images/corporate_side_r2_c1.gif" width="11" height="153" border="0"></td>
+    <td rowspan="2"><img name="corporate_side_r2_c2" src="SlicesforLibrary/corporate_images/corporate_side_r2_c2.jpg" width="142" height="15" border="0"></td>
+    <td rowspan="4"><img name="corporate_side_r2_c3" src="SlicesforLibrary/corporate_images/corporate_side_r2_c3.gif" width="3" height="153" border="0"></td>
+    <td><img src="SlicesforLibrary/corporate_images/spacer.gif" width="1" height="14" border="0"></td>
   </tr>
-  <tr valign="top"><!-- row 9 --> 
-    <td><img name="side_r09_c1" src="gfx/side_r09_c1.gif" width="142" height="76" border="0"></td>
-    <td><img src="gfx/shim.gif" width="1" height="76" border="0"></td>
+  <tr>
+    <td><img src="SlicesforLibrary/corporate_images/spacer.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td><img name="corporate_side_r4_c2" src="SlicesforLibrary/corporate_images/corporate_side_r4_c2.jpg" width="142" height="111" border="0"></td>
+    <td><img src="SlicesforLibrary/corporate_images/spacer.gif" width="1" height="111" border="0"></td>
+  </tr>
+  <tr>
+    <td><img name="corporate_side_r5_c2" src="SlicesforLibrary/corporate_images/corporate_side_r5_c2.gif" width="142" height="27" border="0"></td>
+    <td><img src="SlicesforLibrary/corporate_images/spacer.gif" width="1" height="27" border="0"></td>
   </tr>
 </tbody></table>
-</td>
-    <td width="9"><img src="gfx/shim.gif" width="9" height="1"></td>
-    <td align="left" valign="top">
-<table border="0" cellpadding="5" width="520">
-  <tbody><tr align="left">
-    <td colspan="2">
-      <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="../francais/corp/privacy.shtml">Version 
-        française </a></font></div>
+<!-- #EndLibraryItem --></td>
+    <td width="1" height="424" valign="top"></td>
+    <td height="424" colspan="3" valign="top">
+      <div align="center">
+        <table border="0" cellpadding="5" width="520" height="53">
+          <tbody><tr align="left"> 
+            <td colspan="2" height="60"> 
+              <p><br>
+                <img src="gfx/privhd.gif" width="177" height="25"><br>
+              </p></td>
+          </tr>
+        </tbody></table>
+        <table border="0" width="520">
+          <tbody><tr align="left"> 
+            <td valign="top"> 
+              <div align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif"> 
+                </font></b> </div>
+              <p align="CENTER"> 
+              </p><p align="CENTER"> </p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
+                Canada Co. (Blockbuster Canada) is committed to protecting our 
+                users' on-line privacy. To that end, we offer this statement to 
+                inform our users of how we define, gather and utilize personally 
+                identifiable information. Blockbuster Canada will take reasonable 
+                steps to protect member privacy consistent with the guidelines 
+                set forth in this policy and applicable law. </font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
+                Canada defines personally identifiable information as information 
+                about an identifiable individual that includes any combination 
+                of the following: a person's full name, address, telephone number, 
+                date of birth and/or email address. </font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
+                Canada can gather information about our users in two different 
+                ways:</font></p>
+              <ol>
+                <li><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> 
+                  You supply it in response to a request from us, or</font></li>
+                <li><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Cookie 
+                  Technology. </font></li>
+              </ol>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
+                Canada collects personally identifiable information from users 
+                when voluntarily submitted by a user, such as participating in 
+                a sweepstakes or contest, or subscription offers. We request that 
+                a user be 18 years of age or older before submitting personally 
+                identifiable information and we ask minors to get permission from 
+                their parents or legal guardian before submitting personally identifiable 
+                information. </font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
+                Canada utilizes cookie technology to process and identify order 
+                data. A cookie is a piece of information that is transferred to 
+                a user's hard drive for record-keeping purposes. If users so choose, 
+                they have the option to set their browser to refuse cookies. </font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
+                Canada may use personally identifiable information collected online 
+                to develop and improve the products, benefits and services we 
+                or select business partners offer to our members or web site users. 
+                Blockbuster Canada may also use email addresses or other personally 
+                identifiable information to contact users who directly communicate 
+                with Blockbuster Canada. For example, Blockbuster Canada may contact 
+                users to notify them that they have won a contest or sweepstakes 
+                or to provide a requested email newsletter. </font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">If 
+                you wish to opt-out of opportunities to receive promotional materials, 
+                products, or other communications from Blockbuster Canada, its 
+                affiliates, or their business partners, please write to: Privacy 
+                Relationship Manager, Blockbuster Canada Co. 401 The West Mall, 
+                Suite 1100, Toronto, ON M9C 5J5. With the exception of users exercising 
+                the opt-out opportunity, Blockbuster Canada may, on occasion, 
+                disclose to their business partners certain personally identifiable 
+                information for use in marketing goods and services directly to 
+                blockbuster.ca users and BLOCKBUSTER members.</font></p>
+              <p> </p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
+                Canada may share and use user and member information in the ordinary 
+                course of its businesses, including account maintenance and debt 
+                collection.</font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
+                Canada supports the requirements and intent of the Model Code 
+                for the Protection of Personal Information, CAN/CSA-Q 830-96 and 
+                will require employee and business partner compliance with the 
+                Model Code. </font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
+                Canada reserves the right to modify, alter or otherwise update 
+                this policy from time to time.</font></p>
+              <p>&nbsp;</p>
+              <p align="center"><font size="1" face="Helvetica," verdanaarial=""><a href="corporate.html">Contact 
+                Us</a><br>
+                </font></p>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
     </td>
+    <td width="1" height="400" valign="top"></td>
   </tr>
-  <tr align="left"> 
-    <td colspan="2"> 
-      <p>&nbsp; 
-      </p><p><img src="gfx/privhd.gif" width="177" height="25"><br>
-    </p></td>
+  <tr> 
+    <td width="1" height="55" valign="top"></td>
+    <td width="1" height="55" valign="top"></td>
+    <td height="55" colspan="3" valign="top" align="center"><br>
+      <!-- #BeginLibraryItem "/Canada/English/Library/Back%20to%20Top.lbi" --><font face="Arial, Helvetica, sans-serif" size="-1"><a href="#top">Back 
+                To Top</a></font><!-- #EndLibraryItem --><br>
+      <br>
+      <!-- #BeginLibraryItem "/Canada/English/Library/copyright.lbi" --> 
+<p align="center"><font size="1" face="Helvetica," arial=""><b>Blockbuster Canada Co.<br>
+  401 The West Mall, Suite 1100, Toronto, Ontario M9C 5J5<br>
+  Phone: 416.621.7774</b>&nbsp;&nbsp;<b>Fax: 416.621.1976</b></font></p>
+<p align="center"><font size="1" face="Helvetica," arial=""> <br>
+  <font face="Arial, Helvetica, sans-serif" size="-3">BLOCKBUSTER name, design 
+  and related marks are trademarks of Blockbuster Inc.<br>
+  © 2001 Blockbuster Inc. All Rights Reserved.<br>
+  </font></font><font size="-3" face="Arial, Helvetica, sans-serif" arial="arial"><a href="corporate.html">Contact 
+  Us</a> | <a href="PrivatePolicy.html">Privacy Policy</a></font><font size="-3" face="Arial, Helvetica, sans-serif" arial="ARIAL"> 
+  </font></p>
+    <!-- #EndLibraryItem --></td>
   </tr>
-</tbody></table>
-<table border="0" width="520">
-  <tbody><tr align="left"> 
-    <td valign="top"> 
-      <div align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif"> 
-        </font></b> </div>
-      <p align="CENTER"> 
-      </p><p align="CENTER"> </p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
-        Canada Co. (Blockbuster Canada) is committed to protecting our users' 
-        on-lineprivacy. To that end, we offer this statement to inform our users 
-        of how we define, gather and utilize personally identifiable information. 
-        Blockbuster Canada will take reasonable steps to protect member privacy 
-        consistent with the guidelines set forth in this policy and applicable 
-        law. </font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
-        Canada defines personally identifiable information as information about 
-        an identifiable individual that includes any combination of the following: 
-        a person's full name, address, telephone number, date of birth and/or 
-        email address. </font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
-        Canada can gather information about our users in two different ways:</font></p>
-      <ol>
-        <li><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> You 
-          supply it in response to a request from us, or</font></li>
-        <li><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Cookie 
-          Technology. </font></li>
-      </ol>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
-        Canada collects personally identifiable information from users when voluntarily 
-        submitted by a user, such as participating in a sweepstakes or contest, 
-        or subscription offers. We request that a user be 18 years of age or older 
-        before submitting personally identifiable information and we ask minors 
-        to get permission from their parents or legal guardian before submitting 
-        personally identifiable information. </font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
-        Canada utilizes cookie technology to process and identify order data. 
-        A cookie is a piece of information that is transferred to a user's hard 
-        drive for record-keeping purposes. If users so choose, they have the option 
-        to set their browser to refuse cookies. </font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
-        Canada may use personally identifiable information collected online to 
-        develop and improve the products, benefits and services we or select business 
-        partners offer to our members or web site users. Blockbuster Canada may 
-        also use email addresses or other personally identifiable information 
-        to contact users who directly communicate with Blockbuster Canada. For 
-        example, Blockbuster Canada may contact users to notify them that they 
-        have won a contest or sweepstakes or to provide a requested email newsletter. 
-        </font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">If you wish 
-        to opt-out of opportunities to receive promotional materials, products, 
-        or other communications from Blockbuster Canada, its affiliates, or their 
-        business partners, please write to: Privacy Relationship Manager, Blockbuster 
-        Canada Co. 191 The West Mall, Suite 800, Toronto, ON M9C 5K8. With the 
-        exception of users exercising the opt-out opportunity, Blockbuster Canada 
-        may, on occasion, disclose to their business partners certain personally 
-        identifiable information for use in marketing goods and services directly 
-        to blockbuster.ca users and BLOCKBUSTER members.</font></p>
-      <p> </p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
-        Canada may share and use user and member information in the ordinary course 
-        of its businesses, including account maintenance and debt collection.</font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
-        Canada supports the requirements and intent of the Model Code for the 
-        Protection of Personal Information, CAN/CSA-Q 830-96 and will require 
-        employee and business partner compliance with the Model Code. </font></p>
-      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Blockbuster 
-        Canada reserves the right to modify, alter or otherwise update this policy 
-        from time to time.</font></p>
-      <p>&nbsp;</p>
-      <p align="center"><font size="1" face="Helvetica," verdanaarial=""><a href="index.shtml">Contact 
-        Us</a><br>
-        BLOCKBUSTER name, design and related marks are trademarks of Blockbuster 
-        Inc.<br>
-        © 2001 Blockbuster Inc. All Rights Reserved.</font> </p>
-    </td>
-  </tr>
-</tbody></table>
-</td>
+  <tr> 
+    <td width="1" height="1" valign="top"><img width="1" height="1" src="../transparent.gif"></td>
+    <td width="156" height="1" valign="top"><img width="137" height="1" src="../transparent.gif"></td>
+    <td width="1" height="1" valign="top"><img width="1" height="1" src="../transparent.gif"></td>
+    <td width="1" height="1" valign="top"><img width="1" height="1" src="../transparent.gif"></td>
+    <td width="553" height="1" valign="top"><img width="553" height="1" src="../transparent.gif"></td>
+    <td width="1" height="1" valign="top"><img width="1" height="1" src="../transparent.gif"></td>
+    <td width="1" height="1" valign="top"><img width="1" height="1" src="../transparent.gif"></td>
   </tr>
 </tbody></table>
 
