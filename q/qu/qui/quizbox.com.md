@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizbox.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211202902id_/http%3A//quizbox.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizbox.com privacy policy that was archived on 2002-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020212104028id_/http%3A//quizbox.com/privacy.htm) for the most accurate reproduction.*
 
 # QuizBox.com Statement of Privacy
 
@@ -46,3 +46,5 @@ From time to time, we may change our Privacy Policy. We will post those changes 
 ### Who to contact
 
 Questions regarding this statement should be directed to privacy@quizbox.com.
+
+[Children's safe use of this site](https://web.archive.org/contact/children.htm)
