@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpod.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206100815id_/http%3A//travelpod.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpod.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620000536id_/http%3A//www.travelpod.com/privacy.html) for the most accurate reproduction.*
 
 # TravelPod - Privacy Statement
 
@@ -8,7 +8,12 @@ A valid concern raised by TravelPod users is "What does TravelPod do with the em
 
 There are 2 sets of email addresses which TravelPod stores, member addresses and addresses on TravelPod member notification lists ( Address Books ). 
 
-The email address of the member ( if the member choses to provide it to TravelPod ) is used to send the member warnings, alerts, information about their travelogue and it's usage. Generally speaking, the emails sent to the user are for the user's benefit ( ie: TravelPod will send a member an email if a user unsubscribes from their travelogue ) and it's highly recommended that members provide their address to TravelPod to fully enjoy the features of the web site.
+The email address of the member is used to send the member warnings, alerts, information about their travelogue and it's usage. Examples of emails which TravelPod sends it's members are: 
+
+\- TravelPod will send a member an email when a guest unsubscribes or subscribes to their travelogue   
+\- TravelPod can send a member their password, if forgotten, to their email address. 
+
+Most features which involve a member's email address can be disabled. 
 
 Aside from internal usage, the email address is never provided to any external parties for any purpose and is considered strictly confidential.
 
