@@ -1,101 +1,74 @@
-> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001231706id_/http%3A//www.heartmath.com/home/aboutheartmath/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604165522id_/http%3A//www.heartmath.com/privacy.html) for the most accurate reproduction.*
 
-# HeartMath LLC Privacy Statement
+# Privacy Statement
 
-****
+Privacy Statement
 
-This privacy statement discloses the privacy practices for HeartMath LLC Web sites. 
+HeartMath LLC ("HMLLC") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our mailing lists, registrants for our events, participants in our surveys and contests and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by HMLLC.
 
-We agree to notify you of:
+**Information Collection and Use**  
+HMLLC collects information from our website users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers. 
 
-1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site
+**Registration and Ordering**  
+During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). We also may collect demographic information (such as job title and purchasing responsibilities, company information and professional certification). For internal purposes, we use this information to communicate with users and provide requested services, and, for our website visitors, to provide a more personalized experience on our sites. We use aggregate demographic information about our audience to improve our service, for marketing purposes and/or industry reporting purposes.
 
-2\. The organization collecting the information 
+For our services that require payment (such as certain events, products and subscriptions), we also collect credit card information (such as account name, number and expiration date), which is used for billing purposes only, and is not otherwise shared. 
 
-3\. How the information is used 
+**E-mail Newsletters**  
+If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and, occasionally, demographic information). We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter or by sending an e-mail to [optout@heartmath.com](mailto:optout@heartmath.com) with the e-mail address used to subscribe.
 
-4\. With whom the information may be shared 
+**Surveys and Contests**  
+From time to time we invite users to provide information via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). In addition to other uses set forth in this policy, contact information collected in connection with surveys and contests is used to notify the winners and award prizes, to monitor or improve the use and satisfaction of the site, and may be shared with sponsors of such surveys or contests. 
 
-5\. What choices are available to you regarding collection, use and distribution of the information 
+**Interactive Features**  
+At some of our sites, we offer interactive and community features such as discussion boards, webcasts and user profiles. Note that all personal information sent or posted via such features becomes public information for which we are not responsible. 
 
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under HeartMath LLC's control 
+**Tell-A-Friend**  
+If users elect to use our referral service for informing a friend about our sites and services, we may ask them for the friend's name, job title and e-mail address. HMLLC will store and use this information to send the friend an invitation. This information may also be used to provide information about our company and related products and services. The friend may contact us as specified in the tell-a-friend message to request that no further communications be sent. 
 
-7\. How you can correct any inaccuracies in the information. 
+**Communications with Us**  
+We have features where users can submit information to us (such as our feedback forms). Letters to the editor and similar submissions may be made public. Requests for service, support or information may be forwarded as needed to best respond to a specific request. We may retain e-mails and other information sent to us for our internal administrative purposes, and to help us to serve customers better. 
 
-**If you feel that this company is not abiding by its posted privacy policy, you should first contact Tom Beckman by phone at 800-450-9111 / 831-338-8700 or email at[tom@heartmath.com](mailto:tom@heartmath.com).**
+**Communications from Us: Service Updates, Special Offers**  
+In order to best serve our customers, we may send updates that contain important information about our sites and services. For example, we send new members a welcoming message, and verify password and username for our password-protected sections. We may also communicate with a user to provide requested services and for account-related issues via e-mail, phone or regular mail. 
 
-**Information Collection and Use**
+We offer our users the option to receive information about our company, related products, services and special deals. Users can choose not to receive these communications, as set forth in our Permission section below. 
 
-HeartMath LLC is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. HeartMath LLC collects information from our users at several different points on our website.
-
-**Registration**
-
-In order to access certain features of this website, a user may be required to complete a registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. 
-
-**Order**
-
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
-
-**Cookies**
+**Automatic Data Collection**  
+Our web sites have features that automatically collect information from users, to deliver content specific to users' interests and to honor their preferences. This information assists us in creating sites that will serve the needs of our users. 
 
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Our Web shopping cart utilizes cookies to facilitate the ordering process.
 
-**Log Files**
+We use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our site. If users reject the cookies, they may be limited in the use of some areas of our site. For example, the user may not be able to place an order in our online store. Additionally, we may note some of the pages the user visits on our site through the use of pixel tags (also called clear gifs). The use of cookies and pixels enable us to track and target the interests of our users to enhance the experience on our sites. 
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+Some of our business affiliates may use cookies on our sites in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information. 
 
-**Sharing**
+For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our site. This information does not contain anything that can identify users personally. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use. 
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services. 
 
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+**With Whom Your Information is Shared**  
+When we have co-branded, customized, private label, powered by or sponsored products and services, or when we join with other parties to provide specific services, we may share (provide and receive) personal information with them. We do not share credit card information with such third parties. 
 
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
+We may use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+Other than as set forth above, we do not share personally identifiable information with other companies, apart from those acting as our agents in providing our product(s)/service(s), and which agree to use it only for that purpose and to keep the information secure and confidential. Also, our parent, subsidiary and affiliate companies, entities into which our company may be merged, or entities to which any of our assets, products, sites or operations may be transferred, will be able to use personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission. 
 
-**Links**
+We may share aggregate information, which is not personally identifiable, with others. This information may include usage and demographic data, but it will not include personal information. 
 
-This web site contains links to other sites. Please be aware that we HeartMath LLC are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+**Correction/Updating Personal Information**  
+If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our product(s)/service(s), we provide a way to correct or update that user's personal data. The user should contact Customer Support for the applicable product or service.
 
-**Mailing Lists**
+**Security**  
+We use reasonable precautions to protect our users' personal information and to store it securely. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted using an industry-standard SSL (Secure Sockets Layer) encryption to protect the confidentiality of your personal information and credit card information.
 
-If a user wishes to subscribe to any of our mailing lists, we ask for contact information such as name and email address. 
+**Links**  
+Our web sites contain links to other sites. HMLLC is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information.
 
-**Surveys & Contests**
+**Notification and Changes**  
+If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+For questions about this privacy statement, the practices of this site or any dealings with HeartMath LLC, contact us at: 
 
-**Tell-A-Friend**
+  
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. HeartMath LLC will automatically send the friend a one-time email inviting them to visit the site. HeartMath LLC stores this information for the sole purpose of sending this one-time email. The friend may contact HeartMath LLC at [info@heartmath.com] to request the removal of this information from their database.
-
-**Security**
-
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
-
-When our registration/order form asks users to enter sensitive information (such as credit card number , that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. 
-
-If you have any questions about the security at our website, you can send an email to [security@heartmath.com](mailto:security@heartmath.com).
-
-**Special Offers**
-
-Customers and clients will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
-
-**Correction/Updating Personal Information:**
-
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page **** or by emailing our Customer Support **.**
-
-**Choice/Opt-out**
-
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. 
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at _optout@heartmath.com._
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
-
-**Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
