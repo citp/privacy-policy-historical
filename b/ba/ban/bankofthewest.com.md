@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofthewest.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604155035id_/http%3A//bankofthewest.com/in_pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofthewest.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204164325id_/http%3A//bankofthewest.com/in_pp.htm) for the most accurate reproduction.*
 
 # Bank of the West
 
