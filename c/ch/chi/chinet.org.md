@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chinet.org privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinet.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207122204id_/http%3A//www.chinet.org/privacy.html) for the most accurate reproduction.*
 
 # CHI: Privacy Statement
 
-[](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/index.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/overview.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/hostfam.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/outbound.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/inbound.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/regions.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/connect/connect.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/opportun.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/alumni/index.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/cgi-bin/dcforum/dcboard.cgi) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/infoform.html) [](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/sitemap/sitemap.html) |  **Privacy Statement for  
+**Privacy Statement for  
 Cultural Homestay International**
 
 > Cultural Homestay International has created this privacy statement in order to demonstrate our firm commitment to privacy. Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. The following discloses our information gathering and dissemination practices for this site. 
@@ -21,7 +21,7 @@ Cultural Homestay International**
 > 
 > **Use of Cookies**
 > 
-> We use cookies on some parts of our web site to transfer data between web pages. Cookies are pieces of information that a Web site transfers to an individual's hard drive for record keeping purposes. Cookies make Web surfing easier for you by saving your passwords, transactions, and preferences while you're at a web site. The use of cookies is an industry standard -- you'll find them at most major Web sites. Once you leave the Cultural Homestay International Web site, all cookies sent to you by our site are deleted from your computer. We also use WebTrends Live on parts of our site to conduct anonymous web traffic analysis for our site. While WebTrends Live makes use of cookies, no personal information is ever collected or analyzed by this service. For more information on WebTrends Live, please visit their site at <http://www.webtrendslive.com/privacy_policy.htm>. 
+> We use cookies on some parts of our web site to transfer data between web pages. Cookies are pieces of information that a Web site transfers to an individual's hard drive for record keeping purposes. Cookies make Web surfing easier for you by saving your passwords, transactions, and preferences while you're at a web site. The use of cookies is an industry standard -- you'll find them at most major Web sites. Once you leave the Cultural Homestay International Web site, all cookies sent to you by our site are deleted from your computer. 
 > 
 > **Privacy Policies for Individuals 16 and Under:**
 > 
@@ -62,11 +62,11 @@ Cultural Homestay International**
 >  104 Butterfield Road  
 >  San Anselmo, California 94960 
 > 
-> or email [stevegrn@syix.com](mailto:stevegrn@syix.com)
+> or email [webmaster@chinet.org](mailto:webmaster@chinet.org)
 
 * * *
 
-[Return to CHI home page](https://web.archive.org/web/20020207214046id_/http%3A//chinet.org/index.html). If you have any problem browsing our web site, please contact [stevegrn@syix.com](mailto:stevegrn@syix.com)
+[Return to CHI home page](https://web.archive.org/web/20021207122204id_/http%3A//www.chinet.org/index.html). If you have any problem browsing our web site, please contact [webmaster@chinet.org](mailto:webmaster@chinet.org)
 
-Copyright © 1998, Cultural Homestay International  
-This page was last modified 02/19/2020 21:24:55 
+Copyright © 1998-2002, Cultural Homestay International  
+This page was last modified 02/19/2020 21:25:00
