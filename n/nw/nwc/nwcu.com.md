@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2003-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031218193806id_/http%3A//www.nwcu.com/.docs/_sid/209237238iaarchiver/pg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604103456id_/http%3A//www.nwcu.com/.docs/_sid/209237238iaarchiver/pg/privacy.html) for the most accurate reproduction.*
 
 # Disclosures - Privacy Statement
 
-[Home](https://web.archive.org/) [About Us](https://web.archive.org/About_Us/Background_and_Mission/) Disclosures
+[Home](https://web.archive.org/)
 
 ### We respect our members' privacy at NWCU.
 
