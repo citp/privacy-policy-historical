@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206120426id_/http%3A//www.fxcm.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307111554id_/http%3A//www.fxcm.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Forex Trading Course, Forex Course, Trading Course, Online Currency Trading Course
 
