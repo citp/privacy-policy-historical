@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810225053id_/http%3A//smashbox.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604234947id_/http%3A//www.smashbox.com/privacy.asp%3Fsblid%3Dlink1) for the most accurate reproduction.*
 
-# Smashbox
+# privacy policy
 
 At Smashbox.com, we are committed to protecting your privacy. We firmly believe that electronic security and privacy are necessary for the continued success of the Internet. In support of this, we only use the personal information that you provide to create a more personalized and entertaining experience for you, in accordance with the terms outlined below. 
 
