@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtyjokesinc.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604032138id_/http%3A//www.dirtyjokesinc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtyjokesinc.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206063536id_/http%3A//www.dirtyjokesinc.com/privacy.htm) for the most accurate reproduction.*
 
 # WE LIKE OUR PRIVACY as much as you do
 
@@ -18,4 +18,4 @@ The main purpose for our company to use cookies is for a correct count of how ma
 
 If you have any other questions or concerns about your privacy on DirtyJokesInc.com, please feel free to contact the Webmaster below.
 
-[Contact us](https://web.archive.org/web/20030604032138id_/http%3A//www.dirtyjokesinc.com/contact_page.htm)
+[Contact us](https://web.archive.org/web/20031206063536id_/http%3A//www.dirtyjokesinc.com/contact_page.htm)
