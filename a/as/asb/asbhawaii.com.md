@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604190650id_/http%3A//asbhawaii.com/footer/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021014852id_/http%3A//asbhawaii.com/footer/privacy.htm) for the most accurate reproduction.*
 
 # ASB Hawaii - Privacy Policy
 
@@ -37,7 +37,7 @@ American Savings may share all five of the categories of your Personal Informati
 LIMITING OUR SHARING OF PERSONAL INFORMATION
 
 If you do not want us to share your Personal Information obtained from your applications, consumer reports or from other outside sources with our affiliates, please tell us of this request by calling 627-6900 (toll free  
-1-800-272-2566) or printing and dropping off the ["Opt-out" form](https://web.archive.org/web/20010604190650id_/http%3A//asbhawaii.com/footer/Privacy%20Opt-Out%20Form.pdf) at any American Savings branch. If you are a joint accountholder, we will treat your request for us not to share that Personal Information with our affiliates as applying only to you and not to other joint accountholders, unless you inform us that your instruction applies to all of the joint accountholders or all of the other joint accountholders, individually or jointly request us not to share that Personal Information with our affiliates. Please note that it may take two to four weeks to make your request fully effective and you will still by contacted as necessary to service your accounts or receive marketing information on existing or new American Savings products and services.
+1-800-272-2566) or printing and dropping off the ["Opt-out" form](https://web.archive.org/web/20011021014852id_/http%3A//asbhawaii.com/footer/Privacy%20Opt-Out%20Form.pdf) at any American Savings branch. If you are a joint accountholder, we will treat your request for us not to share that Personal Information with our affiliates as applying only to you and not to other joint accountholders, unless you inform us that your instruction applies to all of the joint accountholders or all of the other joint accountholders, individually or jointly request us not to share that Personal Information with our affiliates. Please note that it may take two to four weeks to make your request fully effective and you will still by contacted as necessary to service your accounts or receive marketing information on existing or new American Savings products and services.
 
 If you don't have the Adobe Acrobat Reader, you can get it here:[  
 ](http://www.adobe.com/products/acrobat/readstep.html)  
@@ -75,7 +75,7 @@ We protect and safeguard the privacy of users of our on-line services, just as w
 
 We will NOT sell personally-identifying information to an unaffiliated third party for the purpose of solicitation or sell personal information to an unaffiliated third party for its own use.
 
-Sometimes we send our customers information about our or our affiliates' products and services. If you do not wish to receive this information, or if you believe that your personal information is incorrect please [contact us](https://web.archive.org/web/20010604190650id_/http%3A//asbhawaii.com/info/contact/index.htm). We will investigate the situation and, if appropriate, update our records.   
+Sometimes we send our customers information about our or our affiliates' products and services. If you do not wish to receive this information, or if you believe that your personal information is incorrect please [contact us](https://web.archive.org/web/20011021014852id_/http%3A//asbhawaii.com/info/contact/index.htm). We will investigate the situation and, if appropriate, update our records.   
 We will disclose information to third parties about your account or the transfer you make:  
 
 
@@ -103,7 +103,7 @@ We will disclose information to third parties about your account or the transfer
 
 
 
-If you have any questions that are not answered in this section please [contact us](https://web.archive.org/web/20010604190650id_/http%3A//asbhawaii.com/info/contact/index.htm).   
+If you have any questions that are not answered in this section please [contact us](https://web.archive.org/web/20011021014852id_/http%3A//asbhawaii.com/info/contact/index.htm).   
 
 
   
