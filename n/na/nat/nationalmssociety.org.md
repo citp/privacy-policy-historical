@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209160717id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603052204id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
 
 # National Multiple Sclerosis Society - Privacy
 
