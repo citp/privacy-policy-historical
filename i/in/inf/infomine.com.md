@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the infomine.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207022700id_/http%3A//www.infomine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infomine.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413010916id_/http%3A//www.infomine.com/privacy.html) for the most accurate reproduction.*
 
 # InfoMine - The Internet's Premier Mining Information Site
 
   
-Effective November 5, 1999
+
+
+## Privacy
+
+  
+Effective November 9, 2000
 
 **Our Commitment To Privacy**
 
