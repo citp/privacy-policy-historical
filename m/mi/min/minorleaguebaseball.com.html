@@ -1,897 +1,704 @@
-<!--The following is the downloaded HTML source of the minorleaguebaseball.com privacy policy that was archived on 2002-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021010005916id_/http%3A//www.minorleaguebaseball.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the minorleaguebaseball.com privacy policy that was archived on 2003-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030624134818id_/http%3A//www.minorleaguebaseball.com/help/privacy) for the most accurate reproduction.-->
 
 <html><head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="stylesheet" type="text/css" href="/milb.css">
 <title>Minor League Baseball</title>
-
-<script language="JavaScript">
-<!--
-	var Browser=0;
-	var MenuLinks = new Array(11);
-
-	NS4 = (document.layers) ? true : false;
-	IE4plus = (document.all) ? true : false;
-	IE4 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 4.")!=-1)) ? true : false;
-	IE5 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 5.")!=-1)) ? true : false;
-	IE6 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 6.")!=-1)) ? true : false;
-	ver4 = (NS4 || IE4plus) ? true : false;
-	NS6 = (!document.layers) && (navigator.userAgent.indexOf('Netscape')!=-1)?true:false;
-	
-	if ( (IE4plus) || (IE4) || (IE5) || (IE6) ) {Browser = 1;}
-	else if ( (NS4) || (ver4) ) {Browser = 2;}
-	else if (NS6) {Browser = 3;}
-
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-
-	function ChangeValue(DivName)
-	{
-		if ( Browser == 1 )
-		{
-			AAA.innerHTML = MenuLinks[DivName];
-		}
-		else if ( Browser == 2 )
-		{		
-			document.AAA.document.open();
-			document.AAA.document.write(MenuLinks[DivName]);
-			document.AAA.document.close();
-			document.AAA.left = 0;
-			document.AAA.top = 0;
-		}
-		else if ( Browser == 3 )
-		{	
-			document.getElementById("AAA").innerHTML = MenuLinks[DivName];
+<script language="javascript">
+	function closeAll(){
+		for(var a=1;a<12;a++){
+			document.getElementById("menu"+a).className = "navhide";
 		}
 	}
-
-//-->
+		
+	function openMenu(whichone){
+		closeAll();
+		document.getElementById("menu"+whichone).className = "navshow";
+	}
+	
+	var imgpath = "http://www.minorleaguebaseball.com/images/";
+	function mo(img, imgname){
+		img.src = imgpath+imgname;
+	}
 </script>
-
-
-
-<script language="javascript">
-	
-		MenuLinks[0] = "<Table cellpadding=0 cellspacing=0 border=0>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(1);'><IMG  SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "<TR><TD Width='150'><A Href='JavaScript:ChangeValue(11);'><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[0] += "</Table>";
-		
-		MenuLinks[1] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0);'><IMG SRC='http://www.milb.com/images/menu_off_on.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[1] += "<TR><TD><A href='http://www.milb.com/off_field/latestscores/' class='nav'>Latest Scores</A></TD></TR>";
-				MenuLinks[1] += "<TR ><TD><A Href='http://www.milb.com/off_field/boxscores/' class='nav'>Box Scores</A></TD></TR>";
-				MenuLinks[1] += "<TR ><TD><A Href='http://www.milb.com/off_field/recaps/' class='nav'>Recaps</A></TD></TR>";
-				MenuLinks[1] += "<TR ><TD><A Href='http://www.milb.com/off_field/standings/' class='nav'>Standings</A></TD></TR>";
-				MenuLinks[1] += "<TR ><TD><A Href='http://www.milb.com/off_field/leaders/' class='nav'>League Leaders</A></TD></TR>";
-				MenuLinks[1] += "<TR ><TD><A Href='http://www.milb.com/off_field/statistics/' class='nav'>Statistics</A></TD></TR>";
-				MenuLinks[1] += "<TR ><TD><A Href='http://www.milb.com/off_field/transactions/' class='nav'>Transactions</A></TD></TR>";
-				MenuLinks[1] += "<TR ><TD><A Href='http://www.milb.com/info/attendance/' class='nav'>Attendance</A></TD></TR>";
-				MenuLinks[1] += "<TR ><TD><A Href='http://www.milb.com/off_field/player/' class='nav'>Player&nbsp;Of&nbsp;The&nbsp;Week</A></TD></TR>";
-				MenuLinks[1] += "<TR ><TD><A Href='http://www.milb.com/off_field/allstars/' class='nav'>All Stars</A></TD></TR></TABLE></TD>";
-			MenuLinks[1] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[1] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[1] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(11); '><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-	MenuLinks[1] +="</table></td></tr></Table>";
-
-		
-		MenuLinks[2] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0); '><IMG SRC='http://www.milb.com/images/menu_teams_on.gif' border=0 name=team  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[2] += "<TR ><TD><A href='http://www.milb.com/list/?action=alpha' class='nav'>Alphabetical</A></TD></TR>";
-				MenuLinks[2] += "<TR ><TD><A Href='http://www.milb.com/teams/geographical/' class='nav'>Geographical</A></TD></TR>";
-				MenuLinks[2] += "<TR ><TD><A Href='http://www.milb.com/list/?action=affil' class='nav'>Affiliations</A></TD></TR>";
-				MenuLinks[2] += "<TR ><TD><A Href='http://www.milb.com/list/?action=clas' class='nav'>Classifications</A></TD></TR></TABLE></td>";
-			MenuLinks[2] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[2] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[2] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(11); '><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-	MenuLinks[2] +="</table></td></tr></Table>";
-
-
-		MenuLinks[3] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0); '><IMG SRC='http://www.milb.com/images/menu_leagues_on.gif' border=0 name=league  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[3] += "<TR ><TD><A href='http://www.milb.com/off_field/latestscores/' class='nav'>Latest Scores</A></TD></TR>";
-				MenuLinks[3] += "<TR ><TD><A Href='http://www.milb.com/off_field/boxscores/' class='nav'>Box Scores</A></TD></TR>";
-				MenuLinks[3] += "<TR ><TD><A Href='http://www.milb.com/off_field/recaps/' class='nav'>Recaps</A></TD></TR>";
-				MenuLinks[3] += "<TR ><TD><A Href='http://www.milb.com/off_field/standings/' class='nav'>Standings</A></TD></TR>";
-				MenuLinks[3] += "<TR ><TD><A Href='http://www.milb.com/off_field/leaders/' class='nav'>League Leaders</A></TD></TR>";
-				MenuLinks[3] += "<TR ><TD><A Href='http://www.milb.com/off_field/statistics/' class='nav'>Statistics</A></TD></TR>";
-				MenuLinks[3] += "<TR ><TD><A Href='http://www.milb.com/off_field/transactions/' class='nav'>Transactions</A></TD></TR>";
-				MenuLinks[3] += "<TR ><TD><A Href='http://www.milb.com/off_field/attendance/' class='nav'>Attendance</A></TD></TR>";
-				MenuLinks[3] += "<TR ><TD><A Href='http://www.milb.com/off_field/player/' class='nav'>Player&nbsp;Of&nbsp;The&nbsp;Week</A></TD></TR>";
-				MenuLinks[3] += "<TR ><TD><A Href='http://www.milb.com/off_field/allstars/' class='nav'>All Stars</A></TD></TR></TABLE></td>";
-			MenuLinks[3] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[3] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(11); '><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[3] +="</table></td></tr></Table>";
-		
-			MenuLinks[4] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0); '><IMG SRC='http://www.milb.com/images/menu_general_on.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-			MenuLinks[4] += "<TR ><TD><A href='http://www.milb.com/info/schedule/' class='nav'>Schedules</A></TD></TR>";
-				MenuLinks[4] += "<TR ><TD><A Href='http://www.milb.com/info/attendance/' class='nav'>Attendance</A></TD></TR>";
-				MenuLinks[4] += "<TR ><TD><A Href='http://www.milb.com/off_field/recaps/' class='nav'>Recaps</A></TD></TR>";
-				MenuLinks[4] += "<TR ><TD><A Href='http://www.milb.com/news/' class='nav'>Press Releases</A></TD></TR>";
-				MenuLinks[4] += "<TR ><TD><A Href='http://www.milb.com/info/office/' class='nav'>Office</A></TD></TR>";
-				MenuLinks[4] += "<TR ><TD><A Href='http://www.milb.com/info/licensing/' class='nav'>Licensing</A></TD></TR>";
-				MenuLinks[4] += "<TR ><TD><A Href='http://www.milb.com/info/sponsorship/' class='nav'>Sponsorship</A></TD></TR>";
-				MenuLinks[4] += "<TR ><TD><A Href='http://www.milb.com/info/sitemap/' class='nav'>Site Map</A></TD></TR></TABLE></td>";
-			MenuLinks[4] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[4] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[4] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(11); '><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-	MenuLinks[4] +="</table></td></tr></Table>";
-	
-			MenuLinks[5] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0); '><IMG SRC='http://www.milb.com/images/menu_events_on.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[5] += "<TR ><TD><A Href='http://www.milb.com/events/allstar/' class='nav'>All Star Game</A></TD></TR>";
-				MenuLinks[5] += "<TR ><TD><A Href='http://www.milb.com/events/winter/' class='nav'>Winter Meetings</A></TD></TR>";
-				MenuLinks[5] += "<TR ><TD><A Href='http://www.milb.com/events/tradeshow/' class='nav'>Baseball Trade Show</A></TD></TR>";
-				MenuLinks[5] += "<TR ><TD><A Href='http://www.milb.com/events/business/' class='nav'>Business of Baseball</A></TD></TR>";
-				MenuLinks[5] += "<TR ><TD><A Href='http://www.milb.com/events/promotional/' class='nav'>Promotion Seminar</A></TD></TR>";
-				MenuLinks[5] += "<TR ><TD><A Href='http://www.milb.com/events/jobfair/' class='nav'>Job Fair</A></TD></TR></TABLE></td>";
-			MenuLinks[5] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[5] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[5] += "<TR><TD Width='150' colspan=3><A  Href='JavaScript:ChangeValue(11); '><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-	MenuLinks[5] +="</table></td></tr></Table>";
-		
-			MenuLinks[6] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0); '><IMG SRC='http://www.milb.com/images/menu_pub_on.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[6] += "<TR ><TD><A Href='http://www.milb.com/publications/info/' class='nav'>Information Guide</A></TD></TR>";
-				MenuLinks[6] += "<TR ><TD><A Href='http://www.milb.com/publications/newsletter/' class='nav'>Newsletter</A></TD></TR>";
-				MenuLinks[6] += "<TR ><TD><A Href='http://www.milb.com/publications/manuals/' class='nav'>Umpire Manuals</A></TD></TR></TABLE></td>";
-			MenuLinks[6] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[6] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[6] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(11); '><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-	MenuLinks[6] +="</table></td></tr></Table>";	
-		
-		
-			MenuLinks[7] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2);'><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3);'><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3);'><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0);'><IMG SRC='http://www.milb.com/images/menu_fanzone_on.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[7] += "<TR ><TD><A Href='http://www.milb.com/fanzone/' class='nav'>In the Zone</A></TD></TR>";
-				MenuLinks[7] += "<TR ><TD><A Href='http://www.milb.com/fanzone/listen/' class='nav'>Listen Live </A></TD></TR>";
-				MenuLinks[7] += "<TR ><TD><A Href='http://www.milb.com/fanzone/screensavers/' class='nav'>Screensavers</A></TD></TR>";
-				MenuLinks[7] += "<TR ><TD><A Href='http://www.milb.com/fanzone/wallpaper/' class='nav'>Wallpaper</A></TD></TR>";
-				MenuLinks[7] += "<TR ><TD><A Href='http://www.milb.com/fanzone/ecards/' class='nav'>E-Cards</A></TD></TR>";
-				MenuLinks[7] += "<TR ><TD><A Href='http://www.milb.com/fanzone/games/' class='nav'>Games</A></TD></TR>";
-				MenuLinks[7] += "<TR ><TD><A Href='http://www.milb.com/fanzone/registration/' class='nav'>Registration</A></TD></TR>";
-				MenuLinks[7] += "<TR ><TD><A Href='http://www.milb.com/fanzone/events/' class='nav'>Upcoming Events</A></TD></TR>";
-				MenuLinks[7] += "<TR ><TD><A Href='http://www.milb.com/fanzone/photos/' class='nav'>Photo Gallery</A></TD></TR>";
-				MenuLinks[7] += "</TABLE></td>";
-			MenuLinks[7] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[7] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8);'><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9);'><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10);'><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[7] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(11);'><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-	MenuLinks[7] +="</table></td></tr></Table>";	
-	
-	
-			MenuLinks[8] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0); '><IMG SRC='http://www.milb.com/images/menu_history_on.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[8] += "<TR ><TD><A Href='http://www.milb.com/history/past/' class='nav'>The Presidents</A></TD></TR>";
-				MenuLinks[8] += "<TR ><TD><A Href='http://www.milb.com/history/top100/' class='nav'>Top 100 Teams </A></TD></TR>";
-				MenuLinks[8] += "<TR ><TD><A Href='http://www.milb.com/history/100years/' class='nav'>100th Anniversary</A></TD></TR>";
-				MenuLinks[8] += "<TR ><TD><A Href='http://www.milb.com/history/general/' class='nav'>General History</A></TD></TR>";
-				MenuLinks[8] += "<TR ><TD><A Href='http://www.milb.com/history/photos/' class='nav'>Photo Gallery</A></TD></TR>";
-				MenuLinks[8] += "<TR ><TD><A Href='http://www.milb.com/history/timeline/' class='nav'>Timeline of Events</A></TD></TR></TABLE></td>";
-			MenuLinks[8] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[8] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[8] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(11); '><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[8] +="</table></td></tr></Table>";		
-
-
-		MenuLinks[9] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0); '><IMG SRC='http://www.milb.com/images/menu_links_on.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[9] += "<TR ><TD><A Href='http://www.milb.com/links/sponsors/' class='nav'>Sponsors</A></TD></TR>";
-				MenuLinks[9] += "<TR ><TD><A Href='http://www.milb.com/links/suppliers/' class='nav'>Uniform Suppliers</A></TD></TR></TABLE></td>";
-			MenuLinks[9] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[9] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com/images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[9] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(11); '><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-		MenuLinks[9] +="</table></td></tr></Table>";
-		
-		
-		MenuLinks[10] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com/images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com/images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com/images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com/images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com/images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com/images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com/images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com/images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com/images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0); '><IMG SRC='http://www.milb.com/images/menu_contact_on.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[10] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[10] += "<TR ><TD><A Href='http://www.milb.com/contact/info/' class='nav'>Contact Info</A></TD></TR>";
-				MenuLinks[10] += "<TR ><TD><A Href='http://www.milb.com/contact/staff/' class='nav'>Staff</A></TD></TR></TABLE></td>";
-			MenuLinks[10] += "<TD bgcolor='white'><img src='http://www.milb.com/images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[10] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com/images/blank.gif' width=18 height=3></TD></TR>";
-			MenuLinks[10] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(11); '><IMG SRC='http://www.milb.com/images/menu_help_off.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com/images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-	MenuLinks[10] +="</table></td></tr></Table>";
-
-		MenuLinks[11] = "<Table cellpadding=0 cellspacing=0 border=0 Width='150'>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(1); '><IMG SRC='http://www.milb.com//images/menu_off_off.gif' border=0 name=off  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(2); '><IMG SRC='http://www.milb.com//images/menu_teams_off.gif' border=0 name=teams  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(3); '><IMG SRC='http://www.milb.com//images/menu_leagues_off.gif' border=0 name=leagues  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(4); '><IMG SRC='http://www.milb.com//images/menu_general_off.gif' border=0 name=general  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(5); '><IMG SRC='http://www.milb.com//images/menu_events_off.gif' border=0 name=events  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(6); '><IMG SRC='http://www.milb.com//images/menu_pub_off.gif' border=0 name=pub  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(7); '><IMG SRC='http://www.milb.com//images/menu_fanzone_off.gif' border=0 name=fanzone  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(8); '><IMG SRC='http://www.milb.com//images/menu_history_off.gif' border=0 name=history  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(9); '><IMG SRC='http://www.milb.com//images/menu_links_off.gif' border=0 name=links  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(10); '><IMG SRC='http://www.milb.com//images/menu_contact_off.gif' border=0 name=contact  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_up.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD Width='150' colspan=3><A Href='JavaScript:ChangeValue(0); '><IMG SRC='http://www.milb.com//images/menu_help_on.gif' border=0 name=help  width=129 height=19></A><IMG SRC='http://www.milb.com//images/menu_down.gif' border=0 width=21 height=19></TD></TR>";
-			MenuLinks[11] += "<TR><TD><Table bgcolor='#D7DADE' cellpadding=0 cellspacing=0 border=0><TR><TD><Table cellpadding=1 cellspacing=1 border=0 bgcolor='#D7DADE' width=130>";
-				MenuLinks[11] += "<TR ><TD><A Href='http://www.minorleaguebaseball.com/help/faq/' class='nav'>FAQ'S</A></TD></TR>";
-				MenuLinks[11] += "<TR ><TD><A Href='http://www.minorleaguebaseball.com/help/feedback/' class='nav'>Feedback</A></TD></TR>";
-				MenuLinks[11] += "<TR ><TD><A Href='http://www.minorleaguebaseball.com/help/privacy/' class='nav'>Privacy Policy</A></TD></TR></TABLE>";
-			MenuLinks[11] += "<TD bgcolor='white'><img src='http://www.milb.com//images/blank.gif' width=2 height=3></TD>";
-			MenuLinks[11] += "<TD bgcolor='C1C4B5'><img src='http://www.milb.com//images/blank.gif' width=18 height=3></TD></TR>";
-	MenuLinks[11] +="</table></td></tr></Table>";
-</script>
-
-
-
-<script language="JavaScript">
-<!--
-
-  homeon = new Image();
-  homeon.src = "http://www.milb.com/images/menu_home_on.gif";
-  fanzoneon = new Image();
-  fanzoneon.src = "http://www.milb.com/images/menu_fanzone_on.gif";
-  storeon = new Image();
-  storeon.src = "http://www.milb.com/images/menu_store_on.gif";
-  jobson = new Image();
-  jobson.src = "http://www.milb.com/images/menu_jobs_on.gif";
-  umpireon = new Image();
-  umpireon.src = "http://www.milb.com/images/menu_umpire_on.gif";
-  alumnion = new Image();
-  alumnion.src = "http://www.milb.com/images/menu_alumni_on.gif";
-  kidson = new Image();
-  kidson.src = "http://www.milb.com/images/menu_kids_on.gif";
-  playoffson = new Image();
-  playoffson.src = "http://www.milb.com/images/menu_playoffs_on.gif";
-  offon = new Image();
-  offon.src = "http://www.milb.com/images/menu_off_on.gif";
-  leagueson = new Image();
-  leagueson.src = "http://www.milb.com/images/menu_leagues_on.gif";
-  teamson = new Image();
-  teamson.src = "http://www.milb.com/images/menu_teams_on.gif";
-  generalon = new Image();
-  generalon.src = "http://www.milb.com/images/menu_general_on.gif";
-  eventson = new Image();
-  eventson.src = "http://www.milb.com/images/menu_events_on.gif";
-  generalon = new Image();
-  generalon.src = "http://www.milb.com/images/menu_general_on.gif";
-  eventson = new Image();
-  eventson.src = "http://www.milb.com/images/menu_events_on.gif";
-  generalon = new Image();
-  generalon.src = "http://www.milb.com/images/menu_general_on.gif";
-  eventson = new Image();
-  eventson.src = "http://www.milb.com/images/menu_events_on.gif";
-  pubon = new Image();
-  pubon.src = "http://www.milb.com/images/menu_pub_on.gif";
-  historyon = new Image();
-  historyon.src = "http://www.milb.com/images/menu_history_on.gif";
-  linkson = new Image();
-  linkson.src = "http://www.milb.com/images/menu_links_on.gif";
-  contacton = new Image();
-  contacton.src = "http://www.milb.com/images/menu_contact_on.gif";
-  helpon = new Image();
-  helpon.src = "http://www.milb.com/images/menu_help_on.gif";
-
-        
-  homeoff = new Image();
-  homeoff.src = "http://www.milb.com/images/menu_home_off.gif";
-  fanzoneoff = new Image();
-  fanzoneoff.src = "http://www.milb.com/images/menu_fanzone_off.gif";
-  storeoff = new Image();
-  storeoff.src = "http://www.milb.com/images/menu_store_off.gif";
-  jobsoff = new Image();
-  jobsoff.src = "http://www.milb.com/images/menu_jobs_off.gif";
-  umpireoff = new Image();
-  umpireoff.src = "http://www.milb.com/images/menu_umpire_off.gif";
-  alumnioff = new Image();
-  alumnioff.src = "http://www.milb.com/images/menu_alumni_off.gif";
-  kidsoff = new Image();
-  kidsoff.src = "http://www.milb.com/images/menu_kids_off.gif";
-  playoffsoff = new Image();
-  playoffsoff.src = "http://www.milb.com/images/menu_playoffs_off.gif";
-  offoff = new Image();
-  offoff.src = "http://www.milb.com/images/menu_off_off.gif";
-  leaguesoff = new Image();
-  leaguesoff.src = "http://www.milb.com/images/menu_leagues_off.gif";
-  teamsoff = new Image();
-  teamsoff.src = "http://www.milb.com/images/menu_teams_off.gif";
-  generaloff = new Image();
-  generaloff.src = "http://www.milb.com/images/menu_general_off.gif";
-  eventsoff = new Image();
-  eventsoff.src = "http://www.milb.com/images/menu_events_off.gif";
-  puboff = new Image();
-  puboff.src = "http://www.milb.com/images/menu_pub_off.gif";
-  historyoff = new Image();
-  historyoff.src = "http://www.milb.com/images/menu_history_off.gif";
-  linksoff = new Image();
-  linksoff.src = "http://www.milb.com/images/menu_links_off.gif";
-  contactoff = new Image();
-  contactoff.src = "http://www.milb.com/images/menu_contact_off.gif";
-  helpoff = new Image();
-  helpoff.src = "http://www.milb.com/images/menu_help_off.gif";
-  
-function turnOn(imageName) {
-  if (document.images) {
-
-    document[imageName].src = eval(imageName + "on.src");
-  }
-}
-
-function turnOff(imageName) {
-  if (document.images) {
-    document[imageName].src = eval(imageName + "off.src");
-  }
-}
-// -->
-</script>
-
-<script language="JavaScript">
-
-function preload() {
-  if (!document.images) return;
-  var ar = new Array();
-  var arguments = preload.arguments;
-  for (var i = 0; i < arguments.length; i++) {
-    ar[i] = new Image();
-    ar[i].src = arguments[i];
-  }
-}
-
-</script>
-
-<script language="javascript">
-function LeagueTeamSelector() 
-{ 
-	var iIndex; 
-	var val2; 
-	
-	iIndex = document.frmTeamLeague.Teams.selectedIndex; 
-	if(iIndex > 0){ 
-		val2 = document.frmTeamLeague.Teams.options[iIndex].value; 
-		document.location="http://www.milb.com/teams/?id=" + val2; 
-	} 
-	
-	iIndex = document.frmTeamLeague.Leagues.selectedIndex; 
-	if(iIndex > 0){ 
-		val2 = document.frmTeamLeague.Leagues.options[iIndex].value; 
-		document.location="http://www.milb.com/league/?id=" + val2; 
-	} 
-} 
-</script>
-
-
-<style type="text/css">
-  <!--
-    A {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #00234B; font-weight: bold; text-decoration: none;}
-    A:hover {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #D22829; text-decoration: underline; font-weight: bold}
-
-	.navleft {font-family: Arial, Helvetica, sans-serif; font-size: 11px, color: #ffffff }	
-	.navleft:hover { text-decoration: underline; font-weight: bold }
-
-	
-	.dropdown{font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: 00234B;}
-	.dropdown2{font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: 00234B;}
-	.white{font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: white;}
-	.white:hover {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: white;}
-	.white3{font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: white; font-weight: bold }
-	.white2{font-family:  Arial, Helvetica, sans-serif; font-size: 11px; color: white;}
-	.red{font-family:  Arial, Helvetica, sans-serif; font-size: 12px; color: FF2121; font-weight: bold}
-   	 .nav {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #00234B; font-weight: bold; text-decoration: none;}
-  	 .nav:hover {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #D22829; text-decoration: none; font-weight: bold}
-	.link2{font-family: Verdana,  Arial, Helvetica, sans-serif; font-size: 10px; color: #022BC1; font-weight: bold}
-	.link2:hover{font-family: Verdana,  Arial, Helvetica, sans-serif; font-size: 10px; color: #D22829;; font-weight: bold; text-decoration: none; }
- 	.link4{font-family: Verdana,  Arial, Helvetica, sans-serif; font-size: 10px; color: #D22829;; font-weight: bold; text-decoration: underline;}
-    .link4:hover{font-family: Verdana,  Arial, Helvetica, sans-serif; font-size: 10px; color: FF0002; underline;; font-weight: bold}
-	.link5{font-family: Verdana, Arial, Arial, Helvetica, sans-serif; font-size: 10px; color: #D22829;; font-weight: bold}
-    .link5:hover{font-family: Verdana, Arial, Arial, Helvetica, sans-serif; font-size: 10px; color: 00234B; underline; font-weight: bold}
-	.link6{font-family: Arial, Arial, Helvetica, sans-serif; font-size: 11px; color: #D22829;; font-weight: bold}
-    .link6:hover{font-family: Arial,   Helvetica, sans-serif; font-size: 11px; color: 00234B; underline; font-weight: bold}
-	.link3{font-family: Verdana, Arial, Arial, Helvetica, sans-serif; font-size: 10px; color: #FF0000;; font-weight: bold}
-	.link3:hover{font-family: Verdana, Arial, Arial, Helvetica, sans-serif; font-size: 10px; color: white;; font-weight: bold}
-	.link{font-family:  Arial, Helvetica, sans-serif; font-size: 11px; color: #00234B;; font-weight: bold; text-decoration: underline;}
-   	.link:hover{font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: red; underline;; font-weight: bold}
-	.news{font-family:  Arial, Helvetica, sans-serif; font-size: 12px; color: #00234B;; font-weight: bold; text-decoration: none}
-   	.news:hover{font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: D22829; font-weight: bold}
-	
-	.blue{font-family:  Arial, Helvetica, sans-serif; font-size: 11px; color: blue;; font-weight: normal; text-decoration: underline;}
-   	.blue:hover{font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: red; underline;; font-weight: normal}
-  	
-	.date{font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: 00234B; font-weight: bold}
-	 p{font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: BLACK;}
-	 p.small{font-family:   Arial, Helvetica, sans-serif; font-size: 10px; color: BLACK;}
-	 td{font-family:  Arial, Helvetica, sans-serif; font-size: 11px; color: BLACK;}
-	.caption{font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: BLACK;}
-	.bluemed{font-family:  Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #00234B; font-weight: bold;}
- 	.bluesmall{font-family:  Arial, Helvetica, sans-serif; font-size: 11px; color: #00234B; }
-	.standings{font-family:  Arial, Helvetica, sans-serif; font-size: 11px; color: #00234B;  font-weight: normal; text-decoration: underline;}
-	.standings:hover{font-family:  Arial, Helvetica, sans-serif; font-size: 11px; color: RED;  font-weight: normal; text-decoration: underline;}
- 	.body{font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: BLACK;}
-	.title{font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: 00234B; font-weight: bold;}
-	.title2{font-family: Arial black, Helvetica, sans-serif; font-size: 15px; color: 00234B;  line-height: 16px}
-	.title3{font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: D22829; font-weight: bolder;}
-	.title4{font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: D22829;}
-	.reda{font-family: Arial black, Helvetica, sans-serif; font-size: 14px; color: RED; vheight: 10;; line-height: 16px}
-
-
-	.ps_textbox {font-family: Arial; font-size: 12px; color: #555555; font-weight: bold }
-	.ps_submit {font-family: Arial; font-size: 12px; color: #555555; font-weight: bold }
-	.ps_submit2 {font-family: Arial; font-size: 12px; color: #D22829; font-weight: bold }
-
-  -->
-  </style>
 </head>
-<body background="http://www.milb.com/images/backg.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="JavaScript:ChangeValue(0);"><table cellpadding="0" cellspacing="0" border="0" width="780">
-	<tbody><tr valign="center">		
-    <td background="http://www.milb.com/images/logo_left_bg.gif" width="442" height="87"></td>
-	
-	
-    <td align="center" background="http://www.milb.com/images/logo_right_bg.gif" width="338" height="87">			
-    
 
+<body background="/images/logo_right_bg.gif" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" marginheight="0" marginwidth="0">
 
+<table cellpadding="0" cellspacing="0" border="0" width="780">
+  <tbody><tr valign="center">		
+   	<td><img src="/images/logo_left_bg.gif" width="442" height="87"></td>
+    <td align="center" width="338" height="87"></td>
+  </tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="780">
+  <tbody><tr>
+	<td><img src="/images/menu_search_off.gif" border="0" width="84" height="22"></td>
+	<td><a href="/" onmouseover="mo(home,'menu_home_on.gif')" onmouseout="mo(home,'menu_home_off.gif')">
+		<img id="home" src="/images/menu_home_off.gif" border="0" width="71" height="22"></a></td>
+	<td><a href="http://milbstore.com/" onmouseover="mo(store,'menu_store_on.gif')" onmouseout="mo(store,'menu_store_off.gif')">
+		<img id="store" src="/images/menu_store_off.gif" border="0" width="73" height="22"></a></td>
+	<td><a href="/jobs" onmouseover="mo(jobs,'menu_jobs_on.gif')" onmouseout="mo(jobs,'menu_jobs_off.gif')">
+		<img id="jobs" src="/images/menu_jobs_off.gif" border="0" width="65" height="22"></a></td>
+	<td><a href="/umpirecorp" onmouseover="mo(ump,'menu_umpire_on.gif')" onmouseout="mo(ump,'menu_umpire_off.gif')">
+		<img id="ump" src="/images/menu_umpire_off.gif" border="0" name="umpire" width="113" height="22"></a></td>
+	<td><a href="/alumni" onmouseover="mo(alumni,'menu_alumni_on.gif')" onmouseout="mo(alumni,'menu_alumni_off.gif')">
+		<img id="alumni" src="/images/menu_alumni_off.gif" border="0" name="alumni" width="74" height="22"></a></td>
+	<td><a href="/playoffs" onmouseover="mo(playoffs,'menu_playoffs_on.gif')" onmouseout="mo(playoffs,'menu_playoffs_off.gif')">
+		<img id="playoffs" src="/images/menu_playoffs_off.gif" border="0" name="playoffs" width="72" height="22"></a></td>
+	<td><img src="/images/menu_right.gif" border="0" width="228" height="22"></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="780">
+  <tbody><tr>
+    <td background="/images/backg_left.gif" width="5">
+    <img border="0" src="/images/spacer.gif" width="5" height="5"></td>
+    <td valign="top" background="/images/back_2.gif" width="152">
+		<img src="/images/search_top.gif" width="152" height="9"><br>
+		<table border="0" cellpadding="0" cellspacing="0" width="152">
+  <form name="teamlist" action="/teams/view.asp" method="get"></form>
+  <tbody><tr>
+    <td align="center" valign="top" bgcolor="#cc0000" nowrap="">
+      <font color="white">Teams &amp; Leagues<br>
+	  <select name="id" size="1" class="input3" style="width:145" onchange="if(this.value != 'Teams' &amp;&amp; this.value != '-------'){document.teamlist.submit()}">
+        <option>Teams</option>
+        <option value="641">Aberdeen IronBirds</option>
+<option value="301">Akron Aeros</option>
+<option value="241">Albuquerque Isotopes</option>
+<option value="302">Altoona Curve</option>
+<option value="213">Angelopolis Tigers</option>
+<option value="743">Arizona Brewers</option>
+<option value="747">Arizona Rangers</option>
+<option value="748">Arizona Royals-I</option>
+<option value="749">Arizona Royals-II</option>
+<option value="341">Arkansas Travelers</option>
+<option value="521">Asheville Tourists</option>
+<option value="642">Auburn Doubledays</option>
+<option value="522">Augusta GreenJackets</option>
+<option value="401">Bakersfield Blaze</option>
+<option value="643">Batavia Muckdogs</option>
+<option value="501">Battle Creek Yankees</option>
+<option value="502">Beloit Snappers</option>
+<option value="721">Billings Mustangs</option>
+<option value="303">Binghamton Mets</option>
+<option value="321">Birmingham Barons</option>
+<option value="601">Bluefield Orioles</option>
+<option value="701">Boise Hawks</option>
+<option value="304">Bowie Baysox</option>
+<option value="441">Brevard County Manatees</option>
+<option value="602">Bristol White Sox</option>
+<option value="644">Brooklyn Cyclones</option>
+<option value="221">Buffalo Bisons</option>
+<option value="503">Burlington Bees</option>
+<option value="603">Burlington Indians</option>
+<option value="201">Campeche Pirates</option>
+<option value="202">Cancun Lobstermen</option>
+<option value="525">Capital City Bombers</option>
+<option value="322">Carolina Mudcats</option>
+<option value="722">Casper Rockies</option>
+<option value="504">Cedar Rapids Kernels</option>
+<option value="523">Charleston RiverDogs</option>
+<option value="524">Charleston Alley Cats</option>
+<option value="222">Charlotte Knights</option>
+<option value="323">Chattanooga Lookouts</option>
+<option value="442">Clearwater Phillies</option>
+<option value="505">Clinton LumberKings</option>
+<option value="242">Colorado Springs Sky Sox</option>
+<option value="223">Columbus Clippers</option>
+<option value="203">Cordoba Cafeteros</option>
+<option value="604">Danville Braves</option>
+<option value="506">Dayton Dragons</option>
+<option value="443">Daytona Cubs</option>
+<option value="526">Delmarva Shorebirds</option>
+<option value="444">Dunedin Blue Jays</option>
+<option value="224">Durham Bulls</option>
+<option value="243">Edmonton Trappers</option>
+<option value="342">El Paso Diablos</option>
+<option value="605">Elizabethton Twins</option>
+<option value="305">Erie SeaWolves</option>
+<option value="702">Eugene Emeralds</option>
+<option value="703">Everett AquaSox</option>
+<option value="445">Fort Myers Miracle</option>
+<option value="507">Fort Wayne Wizards</option>
+<option value="421">Frederick Keys</option>
+<option value="244">Fresno Grizzlies</option>
+<option value="343">Frisco RoughRiders</option>
+<option value="723">Great Falls White Sox</option>
+<option value="527">Greensboro Bats</option>
+<option value="324">Greenville Braves</option>
+<option value="528">Hagerstown Suns</option>
+<option value="306">Harrisburg Senators</option>
+<option value="724">Helena Brewers</option>
+<option value="529">Hickory Crawdads</option>
+<option value="402">High Desert Mavericks</option>
+<option value="645">Hudson Valley Renegades</option>
+<option value="325">Huntsville Stars</option>
+<option value="725">Idaho Falls Padres</option>
+<option value="225">Indianapolis Indians</option>
+<option value="407">Inland Empire 66ers</option>
+<option value="245">Iowa Cubs</option>
+<option value="326">Jacksonville Suns</option>
+<option value="646">Jamestown Jammers</option>
+<option value="606">Johnson City Cardinals</option>
+<option value="446">Jupiter Hammerheads</option>
+<option value="508">Kane County Cougars</option>
+<option value="530">Kannapolis Intimidators</option>
+<option value="607">Kingsport Mets</option>
+<option value="422">Kinston Indians</option>
+<option value="214">Laguna Cowboys</option>
+<option value="531">Lake County Captains</option>
+<option value="403">Lake Elsinore Storm</option>
+<option value="447">Lakeland Tigers</option>
+<option value="532">Lakewood BlueClaws</option>
+<option value="404">Lancaster JetHawks</option>
+<option value="509">Lansing Lugnuts</option>
+<option value="246">Las Vegas 51s</option>
+<option value="533">Lexington Legends</option>
+<option value="226">Louisville Bats</option>
+<option value="647">Lowell Spinners</option>
+<option value="423">Lynchburg Hillcats</option>
+<option value="648">Mahoning Valley Scrappers</option>
+<option value="608">Martinsville Astros</option>
+<option value="247">Memphis Redbirds</option>
+<option value="741">Mesa Angels</option>
+<option value="744">Mesa Cubs</option>
+<option value="205">Mexico Red Devils</option>
+<option value="344">Midland RockHounds</option>
+<option value="726">Missoula Osprey</option>
+<option value="327">Mobile BayBears</option>
+<option value="405">Modesto A's</option>
+<option value="207">Monclova Steelers</option>
+<option value="206">Monterrey Sultans</option>
+<option value="424">Myrtle Beach Pelicans</option>
+<option value="248">Nashville Sounds</option>
+<option value="307">New Britain Rock Cats</option>
+<option value="308">New Haven Ravens</option>
+<option value="649">New Jersey Cardinals</option>
+<option value="249">New Orleans Zephyrs</option>
+<option value="227">Norfolk Tides</option>
+<option value="309">Norwich Navigators</option>
+<option value="208">Oaxaca Warriors</option>
+<option value="727">Ogden Raptors</option>
+<option value="250">Oklahoma RedHawks</option>
+<option value="251">Omaha Royals</option>
+<option value="650">Oneonta Tigers</option>
+<option value="328">Orlando Rays</option>
+<option value="228">Ottawa Lynx</option>
+<option value="448">Palm Beach Cardinals</option>
+<option value="229">Pawtucket Red Sox</option>
+<option value="510">Peoria Chiefs</option>
+<option value="746">Peoria Mariners</option>
+<option value="742">Phoenix Athletics</option>
+<option value="310">Portland Sea Dogs</option>
+<option value="252">Portland Beavers</option>
+<option value="425">Potomac Cannons</option>
+<option value="609">Princeton Devil Rays</option>
+<option value="728">Provo Angels</option>
+<option value="209">Puebla Parrots</option>
+<option value="610">Pulaski Blue Jays</option>
+<option value="511">Quad City River Bandits</option>
+<option value="406">Rancho Cucamonga Quakes</option>
+<option value="311">Reading Phillies</option>
+<option value="210">Reynosa Broncos</option>
+<option value="230">Richmond Braves</option>
+<option value="231">Rochester Red Wings</option>
+<option value="534">Rome Braves</option>
+<option value="345">Round Rock Express</option>
+<option value="253">Sacramento River Cats</option>
+<option value="426">Salem Avalanche</option>
+<option value="704">Salem-Keizer Volcanoes</option>
+<option value="254">Salt Lake Stingers</option>
+<option value="211">Saltillo Sarape Makers</option>
+<option value="346">San Antonio Missions</option>
+<option value="408">San Jose Giants</option>
+<option value="450">Sarasota Red Sox</option>
+<option value="535">Savannah Sand Gnats</option>
+<option value="745">Scottsdale Giants</option>
+<option value="232">Scranton-WB Red Barons</option>
+<option value="512">South Bend Silver Hawks</option>
+<option value="536">South Georgia Waves</option>
+<option value="705">Spokane Indians</option>
+<option value="449">St. Lucie Mets</option>
+<option value="651">Staten Island Yankees</option>
+<option value="409">Stockton Ports</option>
+<option value="233">Syracuse SkyChiefs</option>
+<option value="212">Tabasco Cattlemen</option>
+<option value="255">Tacoma Rainiers</option>
+<option value="451">Tampa Yankees</option>
+<option value="329">Tennessee Smokies</option>
+<option value="234">Toledo Mud Hens</option>
+<option value="312">Trenton Thunder</option>
+<option value="652">Tri-City ValleyCats</option>
+<option value="706">Tri-City Dust Devils</option>
+<option value="256">Tucson Sidewinders</option>
+<option value="347">Tulsa Drillers</option>
+<option value="204">Two Laredos Owls</option>
+<option value="707">Vancouver Canadians</option>
+<option value="215">Veracruz Reds</option>
+<option value="653">Vermont Expos</option>
+<option value="452">Vero Beach Dodgers</option>
+<option value="410">Visalia Oaks</option>
+<option value="513">West Michigan Whitecaps</option>
+<option value="330">West Tenn Diamond Jaxx</option>
+<option value="348">Wichita Wranglers</option>
+<option value="654">Williamsport Crosscutters</option>
+<option value="427">Wilmington Blue Rocks</option>
+<option value="428">Winston-Salem Warthogs</option>
+<option value="514">Wisconsin Timber Rattlers</option>
+<option value="708">Yakima Bears</option>
+<option value="216">Yucatan Lions</option>
+<option>-------</option>
+<option value="161">DSL Angels</option>
+<option value="162">DSL Diamondbacks</option>
+<option value="163">DSL Braves1</option>
+<option value="164">DSL Braves2</option>
+<option value="165">DSL Orioles</option>
+<option value="166">DSL Red Sox</option>
+<option value="167">DSL Cubs</option>
+<option value="168">DSL White Sox</option>
+<option value="169">DSL Reds</option>
+<option value="170">DSL Cibao</option>
+<option value="171">DSL West</option>
+<option value="172">DSL Rockies</option>
+<option value="173">DSL Tigers</option>
+<option value="174">DSL Marlins</option>
+<option value="175">DSL Astros</option>
+<option value="176">DSL Royals</option>
+<option value="177">DSL East</option>
+<option value="178">DSL West</option>
+<option value="179">DSL Brewers</option>
+<option value="180">DSL Twins</option>
+<option value="181">DSL Expos</option>
+<option value="182">DSL Mets</option>
+<option value="183">DSL Yankees West</option>
+<option value="184">DSL Yankees East</option>
+<option value="185">DSL A's East</option>
+<option value="186">DSL A's West</option>
+<option value="187">DSL Phillies</option>
+<option value="188">DSL Pirates</option>
+<option value="189">DSL Padres</option>
+<option value="190">DSL Giants</option>
+<option value="191">DSL Mariners</option>
+<option value="192">DSL Cardinals</option>
+<option value="193">DSL Rangers</option>
+<option value="194">DSL Blue Jays</option>
+<option>-------</option>
+<option value="621">GCL Braves</option>
+<option value="622">GCL Dodgers</option>
+<option value="623">GCL Expos</option>
+<option value="624">GCL Marlins</option>
+<option value="625">GCL Orioles</option>
+<option value="626">GCL Phillies</option>
+<option value="627">GCL Pirates</option>
+<option value="628">GCL Red Sox</option>
+<option value="629">GCL Reds</option>
+<option value="630">GCL Tigers</option>
+<option value="631">GCL Twins</option>
+<option value="632">GCL Yankees</option>
+<option value="633">GCL Twins</option>
+<option value="634">GCL Yankees</option>
+<option>-------</option>
+<option value="461">VSL Aguirre</option>
+<option value="462">VSL Cabudare</option>
+<option value="463">VSL Cagua</option>
+<option value="464">VSL Carora</option>
+<option value="465">VSL Chivacoa</option>
+<option value="466">VSL Ciudad Alianza</option>
+<option value="467">VSL Mariara</option>
+<option value="468">VSL Puerto Cabello</option>
+<option value="469">VSL San Felipe</option>
+<option value="470">VSL San Joaquin</option>
+<option value="471">VSL Universidad</option>
+<option value="472">VSL Venoco</option>
+      </select>
+    </font></td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="top" bgcolor="#cc0000" nowrap="">
+      <form name="leaguelist" action="/league/view.asp" method="get">
+	  <img src="/images/spacer.gif" height="5" border="0"><br>
+	  <select name="id" size="1" class="input3" style="width:145" onchange="if(this.value != 'Leagues'){document.leaguelist.submit()}">
+        <option>Leagues</option>
+		<option value="60">Appalachian League</option>
+<option value="74">Arizona League</option>
+<option value="40">California League</option>
+<option value="42">Carolina League</option>
+<option value="16">Dominican Summer Lg</option>
+<option value="30">Eastern League</option>
+<option value="44">Florida State League</option>
+<option value="62">Gulf Coast League</option>
+<option value="22">International League</option>
+<option value="20">Mexican League</option>
+<option value="50">Midwest League</option>
+<option value="64">New York-Penn League</option>
+<option value="70">Northwest League</option>
+<option value="24">Pacific Coast League</option>
+<option value="72">Pioneer League</option>
+<option value="52">South Atlantic League</option>
+<option value="32">Southern League</option>
+<option value="34">Texas League</option>
+<option value="46">Venezuelan Summer Lg</option>
+      </select>
+    </form></td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="top" bgcolor="#cc0000" nowrap="">
+      <form name="playersearch" action="/players" method="get" onsubmit="return ">
+      <font color="white">Player Search:<br>
+	  <input name="search" type="text" class="input2" value="" style="width:120" size="20">
+	  <input name="action" type="image" src="http://www.milb.com/images/button_go.gif" border="0" align="absmiddle">
+    </font></form></td>
+  </tr>
+  
+  <tr>
+    <td align="right" bgcolor="#cc0000" nowrap=""><a href="/players/bookmark.asp" style="color:white">View Bookmarks</a>&nbsp;</td>
+  </tr>
+</tbody></table>
 
-	<a target="_blank" href="http://www.milb.com/adspace_hit.php?id=32">
+<!-- START LINKS NAV -->
+<table border="0" cellpadding="0" cellspacing="0" width="152">
+  <tbody><tr>
+    <td>
+		<a href="javascript: void(0);" onclick="openMenu(1);"><img id="img0" border="0" src="/images/menu_off_off.gif" width="152" height="19"></a><br>
+	<div id="menu1" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/league/latest_scores.asp">Latest Scores</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/box_scores.asp">Box Scores</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/recaps.asp">Recaps</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/standings.asp">Standings</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/leaders.asp">League Leaders</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/teams/transactions.asp">Transactions</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/attendance.asp">Attendance</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/pow/">Player Of The Week</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/info/allstar.asp">All Stars</a></td>
+      </tr>
+    </tbody></table>
+    </div>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="javascript: void(0);" onclick="openMenu(2)"><img id="img1" border="0" src="/images/menu_teams_off.gif" width="152" height="19"></a><br>
+    <div id="menu2" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/teams/">Alphabetical</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/teams/geographical">Geographical</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/teams/?loc=affil">Affiliations</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/teams/?loc=class">Classifications</a></td>
+      </tr>
+    </tbody></table>
+    </div> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="javascript: void(0);" onclick="openMenu(3)"><img id="img2" border="0" src="/images/menu_leagues_off.gif" width="152" height="19"></a><br>
+    <div id="menu3" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/league/latest_scores.asp">Latest Scores</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/box_scores.asp">Box Scores</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/recaps.asp">Recaps</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/standings.asp">Standings</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/leaders.asp">League Leaders</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/teams/transactions.asp">Transactions</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/attendance.asp">Attendance</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/pow/">Player Of The Week</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/info/allstar.asp">All Stars</a></td>
+      </tr>
+    </tbody></table>
+    </div>    
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="javascript: void(0);" onclick="openMenu(4)"><img id="img3" border="0" src="/images/menu_general_off.gif" width="152" height="19"></a><br>
+    <div id="menu4" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/info/schedules.asp">Schedules</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/attendance.asp">Attendance</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/league/recaps.asp">Recaps</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/news/">Press Releases</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/info/office">Office</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/info/licensing">Licensing</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/info/sponsorship">Sponsorship</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/info/sitemap">Site Map</a></td>
+      </tr>
+    </tbody></table>
+    </div>    
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="javascript: void(0);" onclick="openMenu(5)"><img id="img4" border="0" src="/images/menu_events_off.gif" width="152" height="19"></a><br>
+    <div id="menu5" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/events/allstar">All-Star Games</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/events/winter">Winter Meetings</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/events/tradeshow">Baseball Trade Show</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/events/business">Business of Baseball</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/events/promotional">Promotional Seminar</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/events/jobfair">Job Fair</a></td>
+      </tr>
+    </tbody></table>    
+    </div>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="javascript: void(0);" onclick="openMenu(6)"><img id="img5" border="0" src="/images/menu_pub_off.gif" width="152" height="19"></a><br>
+    <div id="menu6" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/publications/info">Information Guide</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/publications/newsletter">Newsletter</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/publications/manuals">Umpire Manuals</a></td>
+      </tr>
+    </tbody></table>
+    </div>    
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="javascript: void(0);" onclick="openMenu(7)"><img id="img6" border="0" src="/images/menu_fanzone_off.gif" width="152" height="19"></a><br>
+    <div id="menu7" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/fanzone/listen">Listen Live</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/fanzone/screensavers">Screensavers</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/fanzone/wallpaper">Wallpaper</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/fanzone/ecards">E-Cards</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/fanzone/games">Games</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/fanzone/registration">Registration</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/fanzone/photos/?id=2">Photo Gallery</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/Pages?id=415">Mascots</a></td>
+      </tr>
+    </tbody></table>
+    </div>    
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="javascript: void(0);" onclick="openMenu(8)"><img id="img7" border="0" src="/images/menu_history_off.gif" width="152" height="19"></a><br>
+    <div id="menu8" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/history/presidents">The Presidents</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/history/top100">Top 100 Teams</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/history/100years">100th Anniversary</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/history/general">General History</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/history/photos/?id=5">Photo Gallery</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/history/timeline">Timeline of Events</a></td>
+      </tr>
+    </tbody></table>    
+    </div>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="javascript: void(0);" onclick="openMenu(9)"><img id="img8" border="0" src="/images/menu_links_off.gif" width="152" height="19"></a><br>
+    <div id="menu9" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/links/sponsors">Sponsors</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/links/suppliers">Uniform Suppliers</a></td>
+      </tr>
+    </tbody></table>    
+    </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="javascript: void(0);" onclick="openMenu(10)"><img id="img9" border="0" src="/images/menu_contact_off.gif" width="152" height="19"></a><br>
+	<div id="menu10" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/contact/info">Contact Info</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/contact/staff">Staff</a></td>
+      </tr>
+    </tbody></table>
+    </div>    
+    </td>
+  </tr>
+  <tr>
+    <td><a href="javascript: void(0);" onclick="openMenu(11)"><img id="img10" border="0" src="/images/menu_help_off.gif" width="152" height="19"></a><br>
+    <div id="menu11" class="navhide">
+	<table border="0" cellpadding="0" cellspacing="0" width="152">
+      <tbody><tr>
+        <td class="nav1"><a class="drk" href="/help/faq">FAQ's</a></td>
+        <td rowspan="11" class="nav2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/help/feedback">Feedback</a></td>
+      </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/help/privacy">Privacy Policy</a></td>
+      </tr>
+    </tbody></table>
+    </div>    
+    </td>
+  </tr>
+</tbody></table>&nbsp;<br>
+<center>
 
-		<img border="0" src="http://www.milb.com/upload_images/adspace/02_jf_web_banner.gif" width="338" height="77">
-
-	</a>
-
-
-
-
-
-
-
-</td>
-
-	</tr>
-<!--	<TR valign=top>
-		
-    <TD colspan=2 background="http://www.milb.com/images/logo_bottom.gif" width="780" height="7"><IMG SRC="http://www.milb.com/images/logo_bottom.gif" width="780" height="7"><BR></TD>
-	</TR> -->
-	<tr>
-		<td colspan="2">
-			<table cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-					<td><img src="http://www.milb.com/images/menu_search_off.gif" border="0"></td>
-					<td><a href="http://www.milb.com/" onmouseover="turnOn('home')" onmouseout="turnOff('home')"><img src="http://www.milb.com/images/menu_home_off.gif" border="0" name="home"></a></td>
-					<td><a href="http://milbstore.com/" onmouseover="turnOn('store')" onmouseout="turnOff('store')"><img src="http://www.milb.com/images/menu_store_off.gif" border="0" name="store"></a></td>
-					<td><a href="http://www.milb.com/jobs/" onmouseover="turnOn('jobs')" onmouseout="turnOff('jobs')"><img src="http://www.milb.com/images/menu_jobs_off.gif" border="0" name="jobs"></a></td>
-					<td><a href="http://www.milb.com/umpirecorp/" onmouseover="turnOn('umpire')" onmouseout="turnOff('umpire')"><img src="http://www.milb.com/images/menu_umpire_off.gif" border="0" name="umpire"></a></td>
-					<td><a href="http://www.milb.com/alumni/" onmouseover="turnOn('alumni')" onmouseout="turnOff('alumni')"><img src="http://www.milb.com/images/menu_alumni_off.gif" border="0" name="alumni"></a></td>
-					<td><a href="http://www.milb.com/playoffs/"><img src="http://www.milb.com/images/menu_playoffs_on.gif" border="0" name="playoffs"></a></td>
-			          <td><img src="http://www.milb.com/images/menu_right.gif" border="0" width="228" height="22"></td>
-           				</tr>
-			</tbody></table>
-	    </td>
-	</tr>
-	
-<!-- End of Header -->
-	
-	<tr>
-		<td colspan="2">
-			<table cellpadding="0" cellspacing="0" border="0">
-
-				<form action="select" method="post" name="frmTeamLeague"></form><input type="hidden" name="PHPSESSID" value="acfc3b784608f4392da59615627565ea">
-				<tbody><tr valign="top">
-					<td background="http://www.milb.com/images/backg_left.gif" width="5"><img src="http://www.milb.com/images/blank.gif" width="5" height="100"></td>
-					<td>
-						<img src="http://www.milb.com/images/search_top.gif" width="152" height="9"><br>
-						<table cellpadding="0" cellspacing="1" border="0" bgcolor="#D22829" width="152">
-<tbody><tr>  	
-	<td class="white" colspan="2">TEAMS &amp; LEAGUES</td>
-</tr>
-							 <tr>
-							 	<td rowspan="8"><img src="http://www.milb.com/images/blank.gif" width="1"></td>  
-               				 	<td colspan="2">
-								
-<!-- DROP DOWN SELECTORS FOR TEAMS AND LEAGUES -->
-
-												<select mmtranslatedvaluehilitecolor="HILITECOLOR=%22No Color%22" name="Teams" class="dropdown" onchange="LeagueTeamSelector();">
-								<option value="0" selected="">Teams</option>
-    						<option value="206">Aberdeen IronBirds</option>
-												<option value="6">Akron Aeros</option>
-<option value="40">Albuquerque Isotopes</option>
-												<option value="7">Altoona Curve</option>
-												<option value="200">Arizona Brewers</option>
-												<option value="199">Arizona Giants</option>
-												<option value="8">Arkansas Travelers</option>
-												<option value="9">Asheville Tourists</option>
-												<option value="10">Auburn Doubledays</option>
-												<option value="11">Augusta GreenJackets</option>
-												<option value="13">Bakersfield Blaze</option>
-												<option value="15">Batavia Muckdogs</option>
-												<option value="16">Beloit Snappers</option>
-												<option value="21">Billings Mustangs</option>
-												<option value="23">Binghamton Mets</option>
-												<option value="24">Birmingham Barons</option>
-												<option value="150">Bluefield Orioles</option>
-												<option value="27">Boise Hawks</option>
-												<option value="31">Bowie Baysox</option>
-												<option value="33">Brevard County</option>
-												<option value="151">Bristol White Sox</option>
-												<option value="36">Brooklyn Cyclones</option>
-												<option value="37">Buffalo Bisons</option>
-												<option value="38">Burlington Bees</option>
-												<option value="154">Burlington Indians</option>
-																								<option value="42">Campeche Pirates</option>
-												<option value="43">Cancun Lobstermen</option>
-												<option value="44">Capital City Bombers</option>
-												<option value="46">Carolina Mudcats</option>
-												<option value="47">Casper Rockies</option>
-												<option value="49">Cedar Rapids Kernels</option>
-												<option value="50">Charleston Alley Cats</option>
-												<option value="52">Charleston RiverDogs</option>
-												<option value="59">Charlotte Knights (AAA)</option>
-												<option value="60">Charlotte Rangers (A)</option>
-												<option value="61">Chattanooga Lookouts</option>
-												<option value="74">Clearwater Phillies</option>
-												<option value="76">Clinton LumberKings</option>
-												<option value="78">Colorado Springs</option>
-												<option value="79">Columbus Clippers</option>
-																								<option value="81">Cordoba Cafeteros</option>
-												<option value="155">Danville Braves</option>
-												<option value="83">Dayton Dragons</option>
-												<option value="84">Daytona Cubs</option>
-												<option value="85">Delmarva Shorebirds</option>
-												<option value="196">Dos Laredos Owls</option>
-												<option value="86">Dunedin Blue Jays</option>
-												<option value="156">Durham Bulls</option>
-												<option value="158">Edmonton Trappers</option>
-												<option value="159">El Paso Diablos</option>
-												<option value="160">Elizabethton Twins</option>
-												<option value="161">Erie SeaWolves</option>
-												<option value="162">Eugene Emeralds</option>
-												<option value="163">Everett AquaSox</option>
-												<option value="164">Fort Myers Miracle</option>
-												<option value="165">Fort Wayne Wizards</option>
-												<option value="166">Frederick Keys</option>
-												<option value="167">Fresno Grizzlies</option>
-<option value="72">Frisco RoughRiders</option>
-												<option value="168">Great Falls Dodgers</option>
-												<option value="169">Greensboro Bats</option>
-												<option value="170">Greenville Braves</option>
-												<option value="171">Hagerstown Suns</option>
-												<option value="172">Harrisburg Senators</option>
-												<option value="173">Hickory Crawdads</option>
-												<option value="174">High Desert Mavericks</option>
-												<option value="175">Hudson Valley</option>
-												<option value="176">Huntsville Stars</option>
-												<option value="177">Idaho Falls Padres</option>
-												<option value="178">Indianapolis Indians</option>
-<option value="87">Inland Empire 66ers</option>
-												<option value="179">Iowa Cubs</option>
-												<option value="180">Jacksonville Suns</option>
-												<option value="181">Jamestown Jammers</option>
-												<option value="182">Johnson City Cardinals</option>
-												<option value="183">Jupiter Hammerheads</option>
-												<option value="184">Kane County Cougars</option>
-												<option value="185">Kannapolis Intimidators</option>
-												<option value="186">Kingsport Mets</option>
-												<option value="187">Kinston Indians</option>
-												<option value="80">Lake County Captains</option>
-<option value="188">Lake Elsinore Storm</option>
-												<option value="189">Lakeland Tigers</option>
-												<option value="190">Lakewood BlueClaws</option>
-												<option value="191">Lancaster JetHawks</option>
-												<option value="192">Lansing Lugnuts</option>
-												<option value="193">Las Vegas 51s</option>
-												<option value="149">Lexington Legends</option>
-												<option value="148">Louisville Bats</option>
-												<option value="147">Lowell Spinners</option>
-												<option value="146">Lynchburg Hillcats</option>
-												<option value="145">Macon Braves</option>
-												<option value="144">Mahoning Valley</option>
-												<option value="143">Martinsville Astros</option>
-												<option value="141">Medicine Hat Blue Jays</option>
-												<option value="140">Memphis Redbirds</option>
-												<option value="197">Mesa Angels</option>
-												<option value="202">Mesa Cubs</option>
-												<option value="137">MC Red Devils</option>
-												<option value="136">MC Tigers</option>
-												<option value="135">Michigan Battle Cats</option>
-												<option value="134">Midland RockHounds</option>
-												<option value="133">Missoula Osprey</option>
-												<option value="132">Mobile BayBears</option>
-												<option value="131">Modesto A's</option>
-												<option value="130">Monclova Steelers</option>
-												<option value="129">Monterrey Sultans</option>
-												<option value="128">Myrtle Beach Pelicans</option>
-												<option value="127">Nashville Sounds</option>
-												<option value="126">New Britain Rock Cats</option>
-												<option value="125">New Haven Ravens</option>
-												<option value="124">New Jersey Cardinals</option>
-												<option value="123">New Orleans Zephyrs</option>
-												<option value="122">Norfolk Tides</option>
-												<option value="121">Norwich Navigators</option>
-												<option value="120">Oaxaca Warriors</option>
-												<option value="119">Ogden Raptors</option>
-												<option value="118">Oklahoma RedHawks</option>
-												<option value="117">Omaha Royals</option>
-												<option value="116">Oneonta Tigers</option>
-												<option value="115">Orlando Rays</option>
-												<option value="114">Ottawa Lynx</option>
-												<option value="113">Pawtucket Red Sox</option>
-												<option value="112">Peoria Chiefs</option>
-												<option value="203">Peoria Mariners</option>
-												<option value="198">Phoenix Athletics</option>
-												<option value="201">Phoenix White Sox</option>
-												<option value="108">Portland Beavers</option>
-												<option value="107">Portland Sea Dogs</option>
-												<option value="106">Potomac Cannons</option>
-												<option value="152">Princeton Devil Rays</option>
-												<option value="104">Provo Angels</option>
-												<option value="103">Puebla Parrots</option>
-												<option value="153">Pulaski Rangers</option>
-												<option value="101">Quad City River Bandits</option>
-												<option value="100">Rancho Cucamonga</option>
-												<option value="99">Reading Phillies</option>
-												<option value="98">Reynosa Broncos</option>
-												<option value="97">Richmond Braves</option>
-												<option value="96">Rochester Red Wings</option>
-												<option value="95">Round Rock Express</option>
-												<option value="94">Sacramento River Cats</option>
-												<option value="93">Salem Avalanche</option>
-												<option value="92">Salem-Keizer Volcanoes</option>
-												<option value="91">Salt Lake Stingers</option>
-												<option value="90">Saltillo Sarape Makers</option>
-												<option value="89">San Antonio Missions</option>
-																								<option value="194">San Jose Giants</option>
-												<option value="77">Sarasota Red Sox</option>
-												<option value="75">Savannah Sand Gnats</option>
-												<option value="73">Scranton/W-B</option>
-																								<option value="71">South Bend</option>
-												<option value="20">South Georgia Waves</option>
-												<option value="70">Spokane Indians</option>
-												<option value="69">St. Lucie Mets</option>
-												<option value="68">Staten Island Yankees</option>
-												<option value="67">Stockton Ports</option>
-												<option value="66">Syracuse SkyChiefs</option>
-												<option value="65">Tabasco Cattlemen</option>
-												<option value="64">Tacoma Rainiers</option>
-												<option value="63">Tampa Yankees</option>
-												<option value="62">Tennessee Smokies</option>
-												<option value="58">Toledo Mud Hens</option>
-												<option value="57">Trenton Thunder</option>
-												<option value="56">Tri-City Dust Devils</option>
-												<option value="55">Tri-City ValleyCats</option>
-												<option value="54">Tucson Sidewinders</option>
-												<option value="53">Tulsa Drillers</option>
-												<option value="211">Union Laguna</option>
-												<option value="48">Vancouver Canadians</option>
-												<option value="45">Veracruz Eagles</option>
-												<option value="41">Vermont Expos</option>
-												<option value="204">Vero Beach Dodgers</option>
-												<option value="32">Visalia Oaks</option>
-												<option value="30">West Michigan</option>
-												<option value="29">West Tenn</option>
-												<option value="28">Wichita Wranglers</option>
-												<option value="25">Williamsport</option>
-												<option value="22">Wilmington Blue Rocks</option>
-												<option value="19">Winston-Salem</option>
-												<option value="17">Wisconsin</option>
-												<option value="14">Yakima Bears</option>
-												<option value="12">Yucatan Lions</option>						
-									</select>								</td>	
-             				 </tr>
-							  <tr>  
-               				 	<td colspan="2"><img src="http://www.milb.com/images/blank.gif" height="2"></td>
-             				 </tr>
-							 <tr>  
-               				 	<td colspan="2">
-							<select mmtranslatedvaluehilitecolor="HILITECOLOR=%22No Color%22" name="Leagues" class="dropdown" onchange="LeagueTeamSelector();">
-								          <option value="0" selected="">Leagues</option>    
-											<option value="21">Appalachian League</option>											 
-											<option value="5">Arizona League</option>											 
-											<option value="3">California League</option>											 
-											<option value="6">Carolina League</option>											 
-											<option value="7">Dominican League</option>											 
-											<option value="8">Eastern League</option>											 
-											<option value="9">Florida State League</option>											 
-											<option value="10">Gulf Coast League</option>											 
-											<option value="11">International League</option>											 
-											<option value="20">Mexican Academy</option>											 
-											<option value="2">Mexican League</option>											 
-											<option value="12">Midwest League</option>											 
-											<option value="13"> New York-Penn League</option>											 
-											<option value="14">Northwest League</option>											 
-											<option value="1">Pacific Coast League</option>											 
-											<option value="15">Pioneer League</option>											 
-											<option value="16">South Atlantic League</option>											 
-											<option value="17">Southern League</option>											 
-											<option value="18">Texas League</option>										 
-										<option value="19">Venezuelan League</option>
-										
-									</select>
- 								</td>
-             				 </tr>
-							 <tr>  	
-								 <td class="white" colspan="2"><img src="http://www.milb.com/images/blank.gif" height="1"></td>
-             				 </tr>
-
-
-
-
-<form method="post" action="http://www.milb.com/players/"></form><input type="hidden" name="PHPSESSID" value="acfc3b784608f4392da59615627565ea">
-<tr>  	
-	<td class="white" colspan="2">PLAYER SEARCH</td>
-</tr>
-<tr>  	
-	<td><input class="dropdown2" size="22" value="" name="search"></td>
-	<td><a href="http://www.milb.com/"><input type="image" border="0" src="http://www.milb.com/images/button_go.gif"></a></td>
-</tr>
-<tr>
-	<td colspan="2" align="right"><a class="white" href="http://www.milb.com/players/?favorites=1">View Bookmarks</a></td>
-</tr>
-
-<!--
-<TR>  	
-	<TD class=white colspan=2>KEYWORD SEARCH</TD>
-
-</TR>
-							  <TR>  	
-               					 <TD><input class="dropdown2" size="22" value="coming soon"></TD>
-								 <TD><A HREF="http://www.milb.com/"><IMG src="http://www.milb.com/images/button_go.gif" border=0></A></TD>
-             				 </TR>
-							  <TR>  	
-								 <TD class=white colspan=2><IMG SRC="http://www.milb.com/images/blank.gif" width=2></TD>
-             				 </TR>
-
-
-
-
--->
-
-
-						</tbody></table>
-						
-						<table cellpadding="0" cellspacing="0" border="0" width="152">
-							<tbody><tr>
-								<td> 
-<script language="javascript">
-	if (Browser == 2)
-	{
-		document.write('<Layer id=AAA> </layer>');
-	}
-	else
-	{	
-		document.write('<Div id=AAA> </div>');
-	}
-</script><div id="AAA"> </div>
-
-								</td>
-							</tr>
-							
-							<tr>
-								<td align="center">
-								<br><br>
-<!-- Ad space under left nav -->
-
-<p align="center"><a href="../../pagebank/?id=223&amp;PHPSESSID=acfc3b784608f4392da59615627565ea" target="_self"><img src="http://www.milb.com/upload_images/adspace/on_hh_mark_sm2.gif" border="0"></a></p><p align="center"><a href="http://www.mbna.com" target="_blank"><img src="http://www.milb.com/upload_images/adspace/ad1.gif" border="0"></a></p><p align="center"><a href="../../pagebank/?id=301&amp;PHPSESSID=acfc3b784608f4392da59615627565ea" target="_self"><img src="http://www.milb.com/upload_images/adspace/mkt_swift_batkid_button.gif" border="0"></a></p><p align="center"><a href="../../pagebank/?id=307&amp;PHPSESSID=acfc3b784608f4392da59615627565ea" target="_self"><img src="http://www.milb.com/upload_images/adspace/rol_relief_logo.gif" border="0"></a></p> 
-							<br>
-
-							</td></tr>	
-						</tbody></table>
-					</td>
-	                 <td>
-						<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr valign="top">
-								<td rowspan="2">
-                                                                    <img src="http://www.milb.com/images/mid_privacy.gif" width="268" height="24"></td>
-                                                                								<td><img src="http://www.milb.com/images/header_home_right.gif"></td>
-                                 							</tr>
-							
+				<a href="http://www.minorleaguebaseball.com/pages/?id=415">
+				<img src="http://www.minorleaguebaseball.com/Upload_images/ads/sm_mascot_button.gif" border="0" alt="Mascots"></a><br><br>
 				
-	                    
-
-						
-<tr><td>
-</td></tr></tbody></table>
-<table width="100%" border="0"><tbody><tr><td width="370" align="right">
-  <table border="0"><tbody><tr><td width="369">
-<p><b>Minor League Baseball™ Privacy Policy</b><br>
+				<div style="width:152;overflow:hidden" align="center">
+					<!--BEGIN SpecificClick.COM http://www.minorleaguebaseball.com/ (720x300 PopUnder)-->
+<script language="JavaScript">
+<!--
+var random = Math.floor(Math.random() * 1000000000), cdate = new Date();
+document.write('<iframe src="http://ads.specificclick.com/code?pid=985&gid=17&rid=' + random + '&dom=' + cdate.getDate() + '&dow=' + cdate.getDay() + '&hod=' + cdate.getHours() + '" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no">');
+document.write('</iframe>');
+// -->
+</script><iframe src="http://ads.specificclick.com/code?pid=985&amp;gid=17&amp;rid=773726682&amp;dom=30&amp;dow=4&amp;hod=3" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<noscript>
+<iframe src="http://ads.specificclick.com/code?pid=985&gid=17" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+</noscript>
+<!--END SpecificClick.COM -->
+				</div><br>
+				
+				<a href="http://www.minorleaguebaseball.com/pages/?id=395">
+				<img src="http://www.minorleaguebaseball.com/upload_images/sm_military_button.gif" border="0" alt="Military Celebrations"></a><br><br>
+				
+				<a href="http://www.minorleaguebaseball.com/pages/?id=223">
+				<img src="http://www.minorleaguebaseball.com/images/ads/HomeRunHero-Mark-web-button.gif" border="0" alt="Old Navy Home Run Hero"></a><br><br>
+				
+				<a href="http://www.bubbleyum.com/" target="_new_">
+				<img src="http://www.minorleaguebaseball.com/upload_images/by_web_button.gif" border="0" alt="BubbleYum"></a><br><br>
+				
+				<a href="http://home.attbi.com/~pennabaker/" target="_new_">
+				<img src="http://www.minorleaguebaseball.com/images/ads/ninth_man.gif" border="0" alt="The Ninth Man"></a><br><br>
+				
+				<a href="http://www.minorleaguebaseball.com/pages/?id=307">
+				<img src="http://www.minorleaguebaseball.com/images/ads/rol_relief_logo.gif" border="0" alt="Rolaids"></a><br><br>
+				
+</center>		
+	</td>
+    <td bgcolor="#FFFFFF" valign="top" width="394" align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="391">
+  <tbody><tr>
+    <td><img src="../../images/mid_privacy.gif" width="268" height="24"></td>
+    <td valign="top"><img src="../../images/header_home_right.gif" width="125" height="12"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img border="0" src="../../images/spacer.gif" width="5" height="5"></td>
+  </tr>
+  </tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td class="content">	
+<p></p><p><b>Minor League Baseball™ Privacy Policy</b><br>
 			<br>
 		</p>
 		<p>We at Minor League Baseball and the entities that make up Minor League Baseball recognize the importance of protecting the privacy of certain information (“information”) collected about our fans (referred to as “fans,” “you” or “your”). This privacy statement discloses what information we gather, how we use it, and how to correct or change it. At Minor League Baseball, it is our intention to give you an understanding about how we collect your information and the use we make of it.<br>
@@ -976,281 +783,164 @@ function LeagueTeamSelector()
 			<br>
 		</p>
 		<p>By using this site, you signify your agreement to Minor League Baseball’s Privacy Policy. <b>IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE.</b> Your continued use of Minor League Baseball’s site following the posting of changes to these terms will mean you accept those changes.<br>
-		</p>  </td></tr></tbody></table>
-</td></tr></tbody></table>
+		</p></td></tr></tbody></table><br>    </td>
+    <td valign="top" background="/images/back_3.gif" width="222" align="center">
+      
+      
+<center>
 
-	</td><td width="223" align="center">
-					
-					<img src="http://www.milb.com/images/blank.gif" width="223" height="3"><br>
-						
-						<table width="223" cellpadding="3" cellspacing="0">
-							<tbody><tr>
-              				  <td align="center">
-                             
-</td>
-							</tr>
-							<tr>
-								<td align="center">
-                             <p align="center"><a href="http://milbstore.com/" target="_self"><img src="http://www.milb.com/upload_images/adspace/SeptMerchAd.gif" border="0"></a></p>
-</td>
-							</tr>
-							<tr>
-								<td>
-										<table cellpadding="0" cellspacing="0" border="0" width="211" align="center">
-										<tbody><tr>						
-                     						 <td colspan="3"><img src="http://www.milb.com/images/header_auctions.gif" width="211" height="19"></td>
-										</tr>
-										<tr>
-											<td bgcolor="#CCCCCC"><img src="http://www.milb.com/images/blank.gif" width="1"></td>
-											<td bgcolor="#F5F5F5" width="209">
-												
-                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                         <!--                          		<TR valign=middle> 
-									<TD width=90 height=90 align=center align=center bgcolor=#F5F5F5><img src="http://www.milb.com/upload_images/" border=0 "></TD>
-	                               	
-									<TD width=1 height=1 align=center bgcolor="BLACK"><img src="http://www.milb.com/images/blank.gif" width="1" height="1"></TD>
-									<TD width="100%" bgcolor=#F5F5F5>
-									
-									<TABLE cellpadding=0 cellspacing=4>
-									  <TR> 
-										<TD> 
-										  										  <BR>
-										  <FONT class=reda>$
-										  										  </FONT> <BR><BR>
-										  <IMG SRC="http://www.milb.com/images/circle.gif"><A HREF="http://www.milb.com/auction/auction.php?a_id=" class="link">View 
-										  Item</A> </TD>
-									  </TR>
-									</TABLE>
-									</TD>
-							  	</TR>
-                          		<TR valign="top"> 
-									<TD width=95 height=2 align=center valign=middle bgcolor="#CCCCCC""><IMG SRC="http://www.milb.com/images/blank.gif" width=1 height="1"></TD>
-									<TD width=1 height=2 align=center bgcolor="#CCCCCC"><img src="http://www.milb.com/images/blank.gif" width="1" height="1"></TD>
-									<TD width="193" height=2 bgcolor="#CCCCCC"><IMG SRC="http://www.milb.com/images/blank.gif" width=1 height="1"></TD>
-							  	</TR>
-							-->
-							    <tbody><tr>
-								    
-                  <td colspan="3" align="center" bgcolor="#D7DADE"><a href="http://www.milb.com/auction/" class="link">View 
-                    All Auction Items</a></td>
-							    </tr>
-                        </tbody></table>
-											</td>
-											<td bgcolor="#CCCCCC"><img src="http://www.milb.com/images/blank.gif" width="1"></td>
-										</tr>
-										<tr>
-											<td colspan="3" bgcolor="#CCCCCC"><img src="http://www.milb.com/images/blank.gif"></td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-
-
-
-
-<!--  SPECIAL FEATURE SECTION -->
-
-
-
-
-
-							<tr>
-								<td>										<table cellpadding="0" cellspacing="0" border="0" width="211" align="center">
-										<tbody><tr>						
-											  <td colspan="3"><img src="http://www.milb.com/images/header_special.gif" width="211" height="22"></td>
-										</tr>
-										<tr>
-											<td bgcolor="#CCCCCC"><img src="http://www.milb.com/images/blank.gif" width="1"></td>
-											<td bgcolor="#F5F5F5" width="209">	
-													<table width="100%" cellpadding="0" cellspacing="2" border="0">
-																												  <tbody><tr valign="top"> 
-															<td width="10" height="10" align="center"><img src="http://www.milb.com/images/circle.gif" width="9" height="10"></td>
-																														<td><a href="http://www.milb.com/pagebank/?id=333" class="link" target="_blank">2002 League Champions</a></td>
-														  </tr>
-														  <tr valign="top"> 
-															<td width="10" height="4" align="center" colspan="2"><img src="http://www.milb.com/images/blank.gif" width="9" height="3"></td>
-														  </tr>
-																												  <tr valign="top"> 
-															<td width="10" height="10" align="center"><img src="http://www.milb.com/images/circle.gif" width="9" height="10"></td>
-																														<td><a href="http://milbstore.com/" class="link" target="_blank">Now available -- Official Rawlings' Minor League Baseball</a></td>
-														  </tr>
-														  <tr valign="top"> 
-															<td width="10" height="4" align="center" colspan="2"><img src="http://www.milb.com/images/blank.gif" width="9" height="3"></td>
-														  </tr>
-																												  <tr valign="top"> 
-															<td width="10" height="10" align="center"><img src="http://www.milb.com/images/circle.gif" width="9" height="10"></td>
-																														<td><a href="http://www.milb.com/info/attendance/" class="link" target="_blank">2002 Attendance Information</a></td>
-														  </tr>
-														  <tr valign="top"> 
-															<td width="10" height="4" align="center" colspan="2"><img src="http://www.milb.com/images/blank.gif" width="9" height="3"></td>
-														  </tr>
-																												  <tr valign="top"> 
-															<td width="10" height="10" align="center"><img src="http://www.milb.com/images/circle.gif" width="9" height="10"></td>
-																														<td><a href="http://www.milb.com/pagebank/?id=346" class="link" target="_blank">2003 New Player Development Contracts List</a></td>
-														  </tr>
-														  <tr valign="top"> 
-															<td width="10" height="4" align="center" colspan="2"><img src="http://www.milb.com/images/blank.gif" width="9" height="3"></td>
-														  </tr>
-																											</tbody></table>
-											</td>
-											<td bgcolor="#CCCCCC"><img src="http://www.milb.com/images/blank.gif" width="1"></td>
-										</tr>
-										<tr>
-											<td colspan="3" bgcolor="#CCCCCC"><img src="http://www.milb.com/images/blank.gif"></td>
-										</tr>
-									</tbody></table>
-</td>
-							</tr>
-
-
-
-
-<!--  FAN POLL SECTION -->
-
-
-
-														
-							<tr>
-								<td>
-							<table cellpadding="0" cellspacing="0" border="0" width="211" align="center">
-										<tbody><tr>						 
-                     						 <td colspan="3"><img src="http://www.milb.com/images/header_fan.gif" width="211" height="22"></td>
-										</tr>
-										<tr>
-											<td bgcolor="#D7DADE"><img src="http://www.milb.com/images/blank.gif" width="1"></td>
-											<td bgcolor="#D7DADE" align="center" width="209">
-											  	
-													<table width="180" cellpadding="0" cellspacing="0" border="0" bgcolor="#D7DADE">
-													  <tbody><tr valign="top"> 
-														<td height="43" align="center"><br>
-															
-			<table cellpadding="0" cellspacing="0" border="0" width="100%">
-
-			  <tbody><tr><td align="center" class="headlines" bgcolor="#D7DADE">
-
-
-
-			  <table width="100%" cellpadding="5" cellspacing="1" border="0" class="pagetext">
-
-			    <tbody><tr><td><p><font class="sm" color="black"><b>How many games did you attend this season?</b></font></p>
-
-			    <p>
-
-
-		 	   </p><form method="post" action="index.php?leagueid=&amp;action=&amp;id=&amp;poll=1"><input type="hidden" name="PHPSESSID" value="acfc3b784608f4392da59615627565ea">
-
-
-		 	     <input type="radio" name="answer" value="1"><font class="headlines" color="black"> 1-10</font><br>
-
-		 	     <input type="radio" name="answer" value="2"><font class="headlines" color="black">11-20</font><br>
-
-		 	     <input type="radio" name="answer" value="3"><font class="headlines" color="black">21-30</font><br>
-
-		 	     <input type="radio" name="answer" value="4"><font class="headlines" color="black">more than 30</font><br>
-
-		 	     
-		 	     
-		 	     
-		 	     
-		 	     
-		 	     
-		 	     
-		 	     
-				</form></td></tr>
-
-				<tr><td align="center">
-
-				<input type="hidden" name="league_id" value="999">
-				<br>
-		 	     <input type="image" border="0" src="http://www.milb.com/images/button_vote.gif">
-
-			    <p></p>
-
-			    </td></tr>
-
-			  </tbody></table>
-
-			
-
-			  </td></tr>
-
-			
-			</tbody></table>
-
-			
-                                                        </td>
-													  </tr>
-													</tbody></table>											</td>
-											<td bgcolor="#D7DADE"><img src="http://www.milb.com/images/blank.gif" width="6"></td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td>										<table cellpadding="0" cellspacing="0" border="0" width="211" align="center">
-										<tbody><tr>						
-											  <td colspan="3"><img src="http://www.milb.com/images/header_class.gif" width="211" height="22"></td>
-										</tr>
-										<tr><td width="1"><img src="http://www.milb.com/images/blank.gif" width="1" height="1"></td>
-											<td bgcolor="#F5F5F5" width="209">	
-													<table width="100%" cellpadding="0" cellspacing="2" border="0">
-																												  <tbody><tr valign="top"> 
-															<td width="10" height="10" align="center"><img src="http://www.milb.com/images/circle.gif" width="9" height="10"></td>
-															<td><a href="http://www.milb.com/classifieds/?id=11" class="link">Welcome to Classifieds: You will be able to click here to view classified ads</a></td>
-														  </tr>
-														  <tr valign="top"> 
-															<td width="10" height="4" align="center" colspan="2"><img src="http://www.milb.com/images/blank.gif" width="9" height="3"></td>
-														  </tr>
-																											</tbody></table>
-											</td>
-										<td><img src="http://www.milb.com/images/blank.gif" width="1" height="1"></td>
-										</tr>
-										<tr>
-											<td colspan="3" bgcolor="#CCCCCC"><img src="http://www.milb.com/images/blank.gif" height="1"></td>
-										</tr>
-									</tbody></table>
-</td>
-							</tr>
-						</tbody></table>
-
-					</td>
-					<td background="http://www.milb.com/images/backg_right.gif"><img src="http://www.milb.com/images/blank.gif" width="7"></td>			
-			</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="http://www.milb.com/images/botbar.gif"></td>
-	</tr><!--bottom table links and IPS logo -->
-	
-	<tr>
-		<td colspan="3">
-			<table border="0" width="780" cellspacing="0" cellpadding="0">
-		  <tbody><tr>
-					<td bgcolor="#03254A"><img border="0" src="http://www.milb.com/images/blank.gif" width="780" height="4"></td>
-				  </tr>
-				  <tr>
-					<td bgcolor="#03254A" align="center">
-<a href="http://www.minorleaguebaseball.com/help/privacy/"><font color="white">Privacy Policy</font></a><br>
-              <span class="white2">Copyright © 1996-2002 NAPBL, All Rights Reserved</span> 
-              <table align="Center" width="400" cellpadding="2">
-                <tbody><tr> 
-                  <td align="Center"><img border="0" src="http://www.milb.com/images/milb.gif" width="80" height="70"></td>
-                </tr>
-                <tr> 
-<!--                  <TD  align=Center class=white2><A HREF="http://www.infinityprosports.com" target="new"><IMG 
-SRC="http://www.milb.com/images/blank.gif" width=100 height=4  border=0><BR><img border="0" src="http://www.milb.com/images/weblogo.gif" 
-width="169" height="32"></A><br>               </TD>-->
-                </tr>
-              </tbody></table>
-            
-			<br>
-				<img border="0" src="http://www.milb.com/images/blank.gif" width="780" height="15"></td>
-		  </tr>
-		</tbody></table>
-		</td>
-		</tr>
+				<a href="http://milbstore.com/search_results.asp?keyword=RST" target="_new_"><img src="http://www.minorleaguebaseball.com/images/ads/RoadtoShowAd.gif" border="0" alt="MiLB Store - Road to the Show"></a><br><img src="/images/spacer.gif" height="4"><br>
+				
+				<a href="http://www.minorleaguebaseball.com/pages/?id=440"><img src="http://www.minorleaguebaseball.com/Upload_images/adspace/on_the_road_with_slim.gif" border="0" alt="Phil"></a><br><img src="/images/spacer.gif" height="4"><br>
+				
+</center>
+<table border="0" cellpadding="0" cellspacing="0" width="211">
+  <tbody><tr>
+    <td><img border="0" src="http://www.minorleaguebaseball.com//images/header_auctions.gif"></td>
+  </tr>
+  <tr>
+    <td align="center" class="GrayBox2">
+    <img border="0" src="http://www.minorleaguebaseball.com//images/spacer.gif" width="5" height="5"><br>
+    <b><a class="drk" href="http://www.minorleaguebaseball.com/auction">View All Auction Items</a></b><br>
+    <img border="0" src="http://www.minorleaguebaseball.com//images/spacer.gif" width="5" height="5"></td>
+  </tr>
+  <tr>
+    <td align="center">
+    <img border="0" src="http://www.minorleaguebaseball.com//images/spacer.gif" width="5" height="5"></td>
+  </tr>
 </tbody></table>
 
+
+<table border="0" cellpadding="0" cellspacing="0" width="211">
+  <tbody><tr>
+    <td><img border="0" src="http://www.minorleaguebaseball.com//images/header_special.gif"></td>
+  </tr>
+  <tr>
+    <td align="center" class="GrayBox2">
+    <table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" width="209">
+	
+      <tbody><tr>
+        <td valign="top"><img border="0" src="/images/circle.gif"></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=440">Elson's Essays</a></b></td>
+      </tr>
+		
+      <tr>
+        <td valign="top"><img border="0" src="/images/circle.gif"></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=438">LOOKING AT BASEBALL-June 19, 2003--Allure of History</a></b></td>
+      </tr>
+		
+      <tr>
+        <td valign="top"><img border="0" src="/images/circle.gif"></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=430">2001 &amp; 2002 Attendance Figures</a></b></td>
+      </tr>
+		
+      <tr>
+        <td valign="top"><img border="0" src="/images/circle.gif"></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=425">In the Press</a></b></td>
+      </tr>
+		
+      <tr>
+        <td valign="top"><img border="0" src="/images/circle.gif"></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=427">2003 First Half Champions</a></b></td>
+      </tr>
+		
+      <tr>
+        <td valign="top"><img border="0" src="/images/circle.gif"></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/fanzone/photos/?id=2">New Photo Gallery</a></b></td>
+      </tr>
+		
+      <tr>
+        <td valign="top"><img border="0" src="/images/circle.gif"></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/events/allstar/">2003 All-Star Games</a></b></td>
+      </tr>
+		
+      <tr>
+        <td valign="top" colspan="2">
+        <img border="0" src="http://www.minorleaguebaseball.com//images/spacer.gif" width="5" height="5"></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+    <img border="0" src="http://www.minorleaguebaseball.com//images/spacer.gif" width="5" height="5"></td>
+  </tr>
+</tbody></table>
+
+	<script language="javascript">
+		function vpoll(frm){
+			for(var a=0;a<=3;a++){
+				if(frm.Answer[a].checked == true){
+					return true
+				}
+			}
+			window.alert("Please select an answer before voting.");
+			return false
+		}
+	</script>
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="211" style="width:211;border:1px solid #333333">
+		<form name="frmPoll" action="/default.asp" method="post" onsubmit="return vpoll(this)"></form>
+		<input name="pollid" type="hidden" value="11">
+		<tbody><tr><td><img src="/images/header_fan.gif"></td></tr>
+		<tr><td align="justify" bgcolor="#D7DADE" style="padding:3px"><b>What new logo do you like best?</b></td></tr>
+		<tr><td style="padding:3px" bgcolor="#D7DADE" align="center">
+		<table border="0" cellpadding="0" cellspacing="2">
+		
+			<tbody><tr><td align="right">Auburn Doubledays</td>
+			<td align="right">
+			
+				<input name="Answer" type="radio" value="37">
+			
+			</td></tr>
+			<tr><td bgcolor="#555555" colspan="2" height="2"></td></tr>
+			
+			<tr><td align="right">Great Falls White Sox</td>
+			<td align="right">
+			
+				<input name="Answer" type="radio" value="38">
+			
+			</td></tr>
+			<tr><td bgcolor="#555555" colspan="2" height="2"></td></tr>
+			
+			<tr><td align="right">Helena Brewers</td>
+			<td align="right">
+			
+				<input name="Answer" type="radio" value="39">
+			
+			</td></tr>
+			<tr><td bgcolor="#555555" colspan="2" height="2"></td></tr>
+			
+			<tr><td align="right">Pulaski Blue Jays</td>
+			<td align="right">
+			
+				<input name="Answer" type="radio" value="41">
+			
+			</td></tr>
+			<tr><td bgcolor="#555555" colspan="2" height="2"></td></tr>
+			
+		</tbody></table>
+		</td></tr>
+		<tr><td align="center" bgcolor="#D7DADE" style="padding:3px"><input name="action" type="submit" value="Vote!" class="btn3"></td></tr>
+		
+		</tbody></table>
+		    
+    </td>
+    <td background="/images/backg_right.gif" width="7"><img border="0" src="/images/spacer.gif" width="7" height="7"></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="780">
+  <tbody><tr>
+    <td width="780"><img src="/images/botbar.gif" width="780" height="7"></td>
+  </tr>
+  <tr>
+    <td width="780" align="center" bgcolor="#03254A">
+    <a class="wht" href="/help/privacy/">Privacy Policy</a><br>
+    <span class="white">Copyright © 1996-2003 NAPBL, All Rights Reserved</span><br>
+    <img border="0" src="/images/milb.gif" width="80" height="70"><br>
+    <br>
+    </td>
+  </tr>
+</tbody></table>
 
 </body></html>
