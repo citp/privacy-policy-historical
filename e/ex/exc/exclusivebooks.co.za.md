@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivebooks.co.za privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001212720id_/http%3A//www.exclusivebooks.com/privacy/privacy.asp%3FTag%3D%26CID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivebooks.co.za privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208045258id_/http%3A//www.exclusivebooks.co.za/privacy/privacy.php) for the most accurate reproduction.*
 
 # Exclusive Books Privacy Statement
 
@@ -6,9 +6,9 @@
 
 This is a privacy policy for ExclusiveBooks.Com. Our homepage on the Web is located at http://www.exclusivebooks.com.
 
-The full text of our privacy policy is available on the Web at http://www.exclusivebooks.com/privacy/privacy.asp (this page).
+The full text of our privacy policy is available on the Web at http://www.exclusivebooks.com/privacy/privacy.php (this page).
 
-Users may go to [http://www.exclusivebooks.com/privacy/opt_out.asp](https://web.archive.org/web/20031001212720id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) for information on how to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. 
+Users may go to [http://www.exclusivebooks.com/privacy/opt_out.php](https://web.archive.org/web/20041208045258id_/http%3A//www.exclusivebooks.co.za/privacy/opt_out.php?Tag=&CID=) for information on how to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. 
 
 You may contact us by mail at the following address:
 
@@ -23,9 +23,9 @@ You may contact us by e-mail at [privacy@exclusivebooks.com](mailto:privacy@excl
 
 You may call us on +27 11 792-2777.
 
- **Additional Information**
+**Additional Information**
 
-This policy is valid until 1 Mar, 2004 at 12:00:00 CAT. 
+This policy is valid until 1 Mar, 2005 at 12:00:00 CAT. 
 
 **Data Collection**
 
@@ -42,11 +42,11 @@ We collect the following information:
   * Unique identifiers 
 
 This data will be used for the following purposes: 
-  * Web site and system administration. The user is allowed to [opt-out](https://web.archive.org/web/20031001212720id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
-  * Research and development. The user is allowed to [opt-out](https://web.archive.org/web/20031001212720id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
-  * One-time tailoring. The user is allowed to [opt-out](https://web.archive.org/web/20031001212720id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
-  * User analysis. The user is allowed to [opt-out](https://web.archive.org/web/20031001212720id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
-  * User profiling and decision-making. The user is allowed to [opt-out](https://web.archive.org/web/20031001212720id_/http%3A//www.exclusivebooks.com/privacy/opt_out.asp?Tag=&CID=) of this usage. 
+  * Web site and system administration. The user is allowed to [opt-out](https://web.archive.org/web/20041208045258id_/http%3A//www.exclusivebooks.co.za/privacy/opt_out.php?Tag=&CID=) of this usage. 
+  * Research and development. The user is allowed to [opt-out](https://web.archive.org/web/20041208045258id_/http%3A//www.exclusivebooks.co.za/privacy/opt_out.php?Tag=&CID=) of this usage. 
+  * One-time tailoring. The user is allowed to [opt-out](https://web.archive.org/web/20041208045258id_/http%3A//www.exclusivebooks.co.za/privacy/opt_out.php?Tag=&CID=) of this usage. 
+  * User analysis. The user is allowed to [opt-out](https://web.archive.org/web/20041208045258id_/http%3A//www.exclusivebooks.co.za/privacy/opt_out.php?Tag=&CID=) of this usage. 
+  * User profiling and decision-making. The user is allowed to [opt-out](https://web.archive.org/web/20041208045258id_/http%3A//www.exclusivebooks.co.za/privacy/opt_out.php?Tag=&CID=) of this usage. 
 
 This data will be used by ourselves and our agents.  
 The following explanation is provided for why this data is collected:  
@@ -82,11 +82,11 @@ The following explanation is provided for why this data is collected:
   * This information is used to contact you should there be a problem with processing your order or request. 
   * We will also use this information to inform you, via e-mail, about information about our products and services. 
   * If you do not want to receive any information about our products or services, or if you want us to remove you from our list of registered users, please e-mail us at info@exclusivebooks.com 
-  * The Promotion of Access to Information Act, Act 2 of 2000, gives you, the user, the right to request access to any information that we may have concerning you. For your convenience, you can view and update this information once you have logged into your account at [http://www.exclusivebooks.com/os/osdefault/cust_acct.asp](https://web.archive.org/os/osdefault/cust_acct.asp?Tag=&CID=)
+  * The Promotion of Access to Information Act, Act 2 of 2000, gives you, the user, the right to request access to any information that we may have concerning you. For your convenience, you can view and update this information once you have logged into your account at [http://www.exclusivebooks.com/secure/cust_acct.php](https://web.archive.org/secure/cust_acct.php?Tag=&CID=)
 
 **Newsletter**
 
-If you have received a newsletter which you no longer wish to receive or would just like to change you subscription details, follow [this link to manage you account.](https://www.exclusivebooks.com/os/osdefault/cust_account/cust_acct.asp?Tag=&CID=)
+If you have received a newsletter which you no longer wish to receive or would just like to change you subscription details, follow [this link to manage you account.](https://www.exclusivebooks.com/secure/cust_acct.php?Tag=&CID=)
 
 **Cookies**
 
