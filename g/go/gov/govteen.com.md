@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018130631id_/http%3A//www.govteen.com/admin/gov_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413073939id_/http%3A//www.govteen.com/info/privacy_policy.php) for the most accurate reproduction.*
 
-# Gov Privacy Policy
+# Welcome to Gov!
 
 **GOV's Privacy Policy**  
 ---  
