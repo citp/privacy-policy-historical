@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207034316id_/http%3A//www.regtransfers.co.uk/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207105505id_/http%3A//www.regtransfers.co.uk/main/privacy.asp) for the most accurate reproduction.*
 
 # Number plates, car registrations, personalised number plates, private plates and cherished registrations
 
