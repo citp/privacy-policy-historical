@@ -1,49 +1,113 @@
-> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408183730id_/http%3A//webtrends.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205083745id_/http%3A//www.netiq.com/About_NetIQ/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Your Privacy, WebTrends
+# NetIQ: Privacy Policy
 
-[](https://web.archive.org/default.htm) |  |   
----|---  
-|    
+|  |  |  |  |  |   
+---|---|---|---|---  
+  
+| 
+
+[Company Profile](https://web.archive.org/about_netiq/default.asp)
+
+|   
+  
+| 
+
+[Investor Relations](https://web.archive.org/about_netiq/investor_relations/default.asp)
+
+|   
+  
+| 
+
+[Press Room](https://web.archive.org/news/default.asp)
+
+|   
+  
+| 
+
+[Events](https://web.archive.org/events/default.asp)
+
+|   
+  
+| 
+
+[eBooks and Newsletters](https://web.archive.org/library/default.asp)
+
+|   
+  
+| 
+
+[Careers at NetIQ](https://web.archive.org/careers/default.asp)
+
+|   
+  
+| 
+
+[Customers](https://web.archive.org/about_netiq/customers.asp)
+
+|   
+  
+| 
+
+[Contact Us](https://web.archive.org/about_netiq/contactus.asp)
+
+|   
+  
+|  |   
+  
 
 
-NetIQ is committed to preserving your trust and confidence. That is why we want you to understand how we handle information we learn about you from your visit to this web site, what measures we take to safeguard that information and our commitment to data security. Because your privacy is important to us, NetIQ will not sell, rent or trade your personal information collected on this site except as outlined in this privacy policy. This privacy policy describes our privacy policies for [www.webtrends.com](http://www.webtrends.com/). Other NetIQ sites, including but not limited to [www.netiq.com](http://www.netiq.com/) and [www.webtrendslive.com](http://www.webtrendslive.com/), may have different policies. 
+NetIQ is committed to preserving your trust and confidence. That is why we want you to understand how we handle information we learn about you from your visit to this web site, what measures we take to safeguard that information and our commitment to data security. Because your privacy is important to us, NetIQ will not sell, rent or trade your personal information collected on this site except as outlined in this Privacy Policy. 
 
-We use our own product, WebTrends Live, to analyze traffic to this web site. Unlike some tracking services, WebTrends Live does not create individual profiles for visitors or maintain a database of individual profiles for each visitor. WebTrends Live collects only anonymous data like IP addresses, browser types, referring pages, pages visited and time spent on our site. This information is used in aggregate to analyze and improve our web sites. For more information about WebTrends Live's privacy policy, please [click here](http://www.webtrendslive.com/privacy_policy.htm). 
+Collection and Use of Data
 
-Names, phone numbers, e-mail, credit card numbers, mailing addresses, and other personal information are collected only as part of explicit registration processes such as purchasing or registering products, requesting additional information, trial downloads, or registering for one of our training courses or events. This information allows us to process and fulfill your order, to register your subscriptions and contact you if we need additional information. We also use this information in conjunction with cookies in order to help us better understand individual customer needs and behavior, as well as to tailor web site content and marketing messages to your interests. 
+We use our own products, WebTrends Live, WebTrends Reporting Center, Data Collection Server, and Webhouse Builder to analyze traffic to this web site. This information is used in aggregate to analyze and improve this web site. For more information about WebTrends Live's privacy policy, please [click here](http://www.webtrendslive.com/wtl_marcom/privacy_policy.htm). 
 
-We will not make your personal information available to anyone, with the exception of our resellers and other affiliates, without your express consent unless NetIQ has a good faith belief that such action is necessary to: (1) conform to legal requirements or comply with legal process; (2) protect and defend the rights or property of NetIQ; or (3) enforce the agreements with you. 
+We also may ask you for information that personally identifies you, such as your name, phone number, e-mail address, credit card number, and mailing address. Such personal information is collected only as part of an explicit registration process, such as that used in connection with purchasing or registering products, requesting additional information, participating in contests or surveys, receiving trial downloads, or registering for one of our training courses or events. This information allows us to process and fulfill your order, to register your subscriptions, to inform you of new products, services or offers, and to contact you if we need to obtain or provide additional information. We also use some personally identifiable information in conjunction with cookies and web behavioral data in order to help us better understand individual customer needs and behavior, as well as to tailor web site content and marketing messages to your interests.
 
-We may also use the information we collect to notify you about important new releases, new WebTrends or NetIQ services, and offers we think you'll find valuable. By registering you agree to allow us and our Distributors and Resellers to contact you for promotional purposes. 
+Disclosure of Data
 
-When you submit feedback on our products via the feedback command, we also ask for your e-mail address. This is to allow us or one of our resellers or partners to contact you if there are questions about your feedback. 
+You agree that we may provide your information to our affiliates, resellers and business partners so that they may contact you for promotional purposes relating to NetIQ products. As well, we may provide your information to third party service providers, such as fulfillment centers, mailing houses, event providers and customer support organizations. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. Your information also may be transferred in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of NetIQ and/or its subsidiaries.
 
-You may have your name removed from our e-mailing list at any time, by visiting <http://www.webtrends.com/remove.asp> and entering your e-mail address. 
+While NetIQ takes steps to protect the confidentiality, privacy and security of personal information communicated to these third parties, their activities are not subject to the exclusive control of NetIQ and they are not subject to this privacy statement.
 
-_How does NetIQ allow customers or prospective customers to update or change their information?_  
-To change account or contact information collected at webtrends.com, please call a WebTrends sales representative at 1-888-932-8736.
+With the above exceptions, NetIQ will not disclose your personal information without your express consent unless required to do so by law or unless NetIQ has a good faith belief that such action is necessary to: (1) conform to legal requirements or comply with legal process served on NetIQ or this web site; (2) protect and defend the rights or property of NetIQ and this web site; or (3) enforce its agreements with you. 
 
-_How does NetIQ protect customer information?_  
-When you place orders or register your account information at webtrends.com, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we have implemented industry standard security mechanisms to protect from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
+Updating and Removal of Data
 
-_What about Children's Information?_  
-WebTrends.com does not currently knowingly collect, use or disclose personally identifiable data on children under the age of 13. In the event that WebTrends.com were to collect, use or disclose personally identifiable data on children, we are committed to compliance with the Children's Online Privacy Protection Act of 1998 ("COPPA"), including but not limited to verifiable parental consent, choice regarding disclosures to third parties, and parental access to information. 
+You may have your name removed from our direct and e-mail marketing lists at any time, by visiting [http://netiq.com/account/lists.asp](https://web.archive.org/account/lists.asp), entering your e-mail address, and selecting the option, "Please remove me from all e-mail lists."
 
-_What are "cookies" and how do we use them?_  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. They allow us to better analyze our site traffic patterns and to provide improved content, advertisements, products and services. They also allow us to refine and enhance visitor registration and to add personalization. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. If you decide to not to accept cookies, you can still use most of the features of our web sites, including purchasing items. 
+If you prefer to receive e-mail in text-only format instead of HTML, visit [http://netiq.com/account/lists.asp](https://web.archive.org/account/lists.asp), and select the option, "Send text-only messages."
 
-_Will NetIQ disclose the information it collects to outside parties?_  
-NetIQ will not sell, trade, or rent your personal information collected at webtrends.com to others except as outlined in the privacy policy. We may provide aggregate and individual statistics about our customers, sales, traffic patterns and related site information to reputable resellers and other partners. We may also provide information to our resellers and other partners to use to contact you for the purpose of marketing WebTrends and NetIQ products. Distributors and resellers are independent third parties who are authorized to sell our products. NetIQ takes steps to protect the confidentiality, privacy and security of personal information communicated to these third parties. How distributors and resellers handle your information, however, is not subject to the exclusive control of NetIQ and these third parties are not subject to this privacy statement. 
+Security of Your Personal Information
 
-**In summary**  
-We are committed to preserving your trust and confidence. We use the information we collect to better understand your preferences and enhance your overall experience on our web site. We do not sell, trade or rent your personal information to others except as outlined in this privacy policy. 
+When you place orders at netiq.com, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we have implemented industry standard security mechanisms and procedures to protect data from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
 
-**Your consent**  
+Children's Information
+
+NetIQ.com is not a site that publishes content that is targeted to children, and we do not knowingly collect, use or disclose personally identifiable data on children under the age of 13. 
+
+Use of Cookies
+
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They allow us to better analyze our site traffic patterns and to provide improved content, advertisements, products and services. They also allow us to refine and enhance the visitor registration process and to add personalization. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. If you disable the operation of cookies, you will be unable to access certain functionality on this web site and will not be able to purchase products directly through the web site. 
+
+Questions 
+
+If you have any questions regarding this privacy policy or its application, you should email us at [privacy@netiq.com](mailto:privacy@netiq.com).
+
+Your consent
+
 By using our web site, you consent to the collection and use of this information as outlined in this privacy policy. We may change our privacy policy at any time and without notice. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-|  | 
+  
+|  |   
 
-   
 
-|  | 
+[](https://web.archive.org/netconnect/register.asp)  
+
+
+[](https://web.archive.org/invwebcast/)  
+
+
+[](https://web.archive.org/careers/default.asp)  
+
