@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetmarias.com privacy policy that was archived on 1999-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991008135907id_/http%3A//sweetmarias.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetmarias.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622070452id_/http%3A//www.sweetmarias.com/privacy.html) for the most accurate reproduction.*
 
 # Sweet Maria's Privacy Policy
 
@@ -12,8 +12,8 @@ WHEN USING OUR SECURE ORDER FORM, ONLY THE INFORMATION YOU ENTER IS RETURNED TO 
 
 WE DO NOT COLLECT TRAFFIC DATA EXCEPT THE NUMBER OF HITS TO OUR MAIN PAGE.
 
-Please email Tom at sweetmaria@ee.net if you have any questions or concerns.
+Please email Tom at sweetmarias@columbus.rr.com if you have any questions or concerns.
 
 * * *
 
-**[BACK](https://web.archive.org/web/19991008135907id_/http%3A//sweetmarias.com/index.htm)**
+**[BACK](https://web.archive.org/web/20000622070452id_/http%3A//www.sweetmarias.com/index.htm)**
