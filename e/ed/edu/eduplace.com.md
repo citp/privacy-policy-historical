@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604085257id_/http%3A//www.eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001183015id_/http%3A//www.eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions of Use
 
@@ -21,12 +21,12 @@ Boston, Massachusetts 02116-3764
 **Email Address:**[Chris_Hogg@hmco.com](mailto:Chris_Hogg@hmco.com)
 
 **Division:** School  
-**Name:** Pegeen Wright  
-**Title:** Vice President, Director of Internet Development  
+**Name:** Nancy Dasho  
+**Title:** Executive Producer for Internet Development  
 **Address:** 222 Berkeley Street, 3rd Floor  
 Boston, Massachusetts 02116-3764  
-**Telephone Number:** (617)-351-5021  
-**Email Address:** [Pegeen_Wright@hmco.com](mailto:Pegeen_Wright@hmco.com)
+**Telephone Number:** (617)-351-5415  
+**Email Address:** [Nancy_Dasho@hmco.com](mailto:Nancy_Dasho@hmco.com)
 
 **Division:** McDougal Littell  
 **Name:** Susan Shorey  
