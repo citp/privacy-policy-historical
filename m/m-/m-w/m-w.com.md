@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m-w.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622100938id_/http%3A//m-w.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m-w.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207080930id_/http%3A//www.m-w.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Merriam-Webster Online
 
