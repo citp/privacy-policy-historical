@@ -1,96 +1,68 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407115933id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205185552id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
 
 # Student travel deals and cheap airfares
 
-Buy tickets here! Real deals on student flights.
-
-Buy a rail pass and travel as the Europeans do.
-
-Study, intern or work abroad.
-
-Destination and travel information. 
-
-Phone cards, currency converter, and airport codes.
-
-Protect your health, belongings and travel plans.
-
-Customer service and company information.
-
-View your StudentUniverse shopping cart.
-
-Login to StudentUniverse.
-
-Join StudentUniverse.
-
-Logout of your StudentUniverse account.
-
-View your StudentUniverse account.
-
   
-  
-  
-| [](https://web.archive.org/aboutus/)  
+| [](http://www.studentuniverse.com/aboutus/index.jsp;JSESSIONID=14vgpno8b1g6t)  
 ---  
 |   
 
 
-> [TALK TO US](https://web.archive.org/aboutus/contactUs.jsp)
+> [TALK TO US](http://www.studentuniverse.com/aboutus/contactUs.jsp;JSESSIONID=14vgpno8b1g6t)
 
 |   
 |   
 
 
-> [COMPANY INFO](https://web.archive.org/aboutus/background.jsp)
-
-|   
-| 
-
-[company background](https://web.archive.org/aboutus/background.jsp)
+> [COMPANY INFO](http://www.studentuniverse.com/aboutus/background.jsp;JSESSIONID=14vgpno8b1g6t)
 
 |   
 | 
 
-[partners](https://web.archive.org/aboutus/partners.jsp)
+[company background](http://www.studentuniverse.com/aboutus/background.jsp;JSESSIONID=14vgpno8b1g6t)
 
 |   
 | 
 
-[careers](https://web.archive.org/aboutus/careers.jsp)
+[in the news](http://www.studentuniverse.com/aboutus/news/news.jsp;JSESSIONID=14vgpno8b1g6t)
 
 |   
 | 
 
-[privacy policy](https://web.archive.org/aboutus/privacy.jsp)
+[partners](http://www.studentuniverse.com/aboutus/partners.jsp;JSESSIONID=14vgpno8b1g6t)
 
 |   
 | 
 
-[terms of use](https://web.archive.org/aboutus/terms.jsp)
+[careers](http://www.studentuniverse.com/aboutus/careers.jsp;JSESSIONID=14vgpno8b1g6t)
 
 |   
 | 
 
-[website rules](https://web.archive.org/aboutus/websiteRules.jsp)
+[privacy policy](http://www.studentuniverse.com/aboutus/privacy.jsp;JSESSIONID=14vgpno8b1g6t)
 
 |   
 | 
 
-[registered seller of travel](https://web.archive.org/aboutus/registered.jsp)
+[terms of use](http://www.studentuniverse.com/aboutus/terms.jsp;JSESSIONID=14vgpno8b1g6t)
 
 |   
 | 
 
-> [SITE INDEX](https://web.archive.org/aboutus/siteIndex.jsp)
+[website rules](http://www.studentuniverse.com/aboutus/websiteRules.jsp;JSESSIONID=14vgpno8b1g6t)
+
+|   
+| 
+
+[registered seller of travel](http://www.studentuniverse.com/aboutus/registered.jsp;JSESSIONID=14vgpno8b1g6t)
+
+|   
+| 
+
+> [SITE INDEX](http://www.studentuniverse.com/aboutus/siteIndex.jsp;JSESSIONID=14vgpno8b1g6t)
 
 |   
   
-  
-  
-  
-  
-  
-
-
 ......................................
 
   
@@ -113,15 +85,9 @@ up to date & accurate
   
 ......................................
 
-  
+[](http://www.adobe.com/products/acrobat/readstep2.html)
 
-
-[](https://web.archive.org/includes/redir.jsp?go=http://www.adobe.com/products/acrobat/readstep2.html)
-
-  
-|   
-|   
-|    
+|  |  |    
 
 
 **Privacy Policy for StudentUniverse**   
@@ -168,7 +134,7 @@ If you want to remove your information from our database, to not receive future 
 **Correct/Update**   
 You can correct your profile information at any time by visiting: 
 
-> [https://www.StudentUniverse.com/membership/updateprofile.jsp](https://www.studentuniverse.com/membership/updateprofile.jsp). 
+> <https://www.studentuniverse.com/register;JSESSIONID=14vgpno8b1g6t?actionvar=ViewProfileAction>. 
 
 **Contacting the Web Site**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with StudentUniverse on this Web site, you can contact: 
