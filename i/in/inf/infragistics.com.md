@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2004-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040214025836id_/http%3A//www.infragistics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807004126id_/http%3A//infragistics.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
-
-[ ](https://web.archive.org/web/20040214025836id_/http%3A//www.infragistics.com/process/beta/beta.asp)
-
-[ ](http://devcenter.infragistics.com/Protected/RequestFeature.aspx)
 
 | | 
 
