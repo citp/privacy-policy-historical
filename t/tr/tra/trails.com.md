@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205011002id_/http%3A//www.trails.com/explore/privacy.asp%3Fmscssid%3DS7MFS1FWELB49NA27SF1S37NBXKB1JP6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405080526id_/http%3A//www.trails.com/privacy.asp%3Fmscssid%3DDGFD260AJU929LNVP69CTPSJLB500439) for the most accurate reproduction.*
 
 # Trails.com
 
 |  Privacy Policy
 
-This Privacy Statement describes how Trails.com collects and uses information about you when you use the Trails.com web site ("Site"). 
+Trails.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [store@trails.com](mailto:store@trails.com). This Privacy Statement describes how Trails.com collects and uses information about you when you use the Trails.com web site ("Site"). 
 
-**Collection and Use of Personal Information by Trails.com, its Service Providers and Affiliated Vendors**
+**Collection and Use of Personal Information by Trails.com**
 
  ****
 
-We request and collect information that personally identifies you or allows us to contact you when you register to use the Site and in other instances, (e.g., a Site user survey, order submission, and promotions). Such information may include your name, e-mail alias, user identification password and other information collected by our cookies (described below) (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. Trails.com, the service providers for this Site, and any vendor providing products or services through the Site, use your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves, and to enforce or investigate contracts formed at the Site and claims regarding them. You may correct or update your Personal Information by sending e-mail to [store@trails.com](mailto:store@trails.com).
+With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. Trails.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by logging into your account or by sending e-mail to [store@trails.com](mailto:store@trails.com).
 
 **
 
@@ -18,7 +18,7 @@ Cookies
 
 **
 
-Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences and transactional habits. Cookies recognize your password and help us personalize your experience at the Site by permitting our computer server to "remember" who you are. If you reject a cookie you may still use our Site; however, your use will be limited in some areas of our Site. For example, you will not be able to use certain features on the Site, such as the ability to save trails to a My Trails list. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers.
+Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences. Cookies recognize your password and help us personalize your experience at the Site by permitting our computer server to "remember" who you are. If you reject a cookie you may still use our Site; however, your use will be limited in some areas of our Site. For example, you will not be able to use certain features on the Site, such as the ability to save trails to a My Trails list. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers.
 
 **
 
@@ -26,7 +26,7 @@ Personal Information Used for Promotional Purposes
 
 **
 
-We may send you information from time to time about Trails.com promotional offerings and we may share your Personal Information with third parties who wish to send you promotional offerings. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from Trails.com by sending e-mail to [store@trails.com](mailto:store@trails.com) and, for third party promotional offerings, by contacting the source of that promotional offering.
+We may send you information from time to time about Trails.com promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from Trails.com by sending e-mail to [store@trails.com](mailto:store@trails.com) and, for third party promotional offerings, by contacting the source of that promotional offering.
 
 **
 
