@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207123902id_/http%3A//scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011545id_/http%3A//www.scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
 
-# Scholastic Canada: Privacy Policy
+# Scholastic Canada: Privacy Notice
 
 **PRIVACY NOTICE**
 
@@ -26,7 +26,7 @@ For those activities that require personally identifiable information, such as c
 
 Parents can request to review, amend, update or have deleted their child's personally identifiable information from Scholastic Canada Ltd.'s records, and refuse to permit further use of a child's information by printing, completing and returning 
 
-[_this letter_](https://web.archive.org/web/20030207123902id_/http%3A//scholastic.ca/privacy-terms/letter.html) by fax or regular mail to the specified address. 
+[_this letter_](https://web.archive.org/web/20031203011545id_/http%3A//www.scholastic.ca/privacy-terms/letter.html) by fax or regular mail to the specified address. 
 
 **FOR TEACHERS**
 
@@ -63,21 +63,3 @@ We hope that you enjoy exploring our site.
 Scholastic.ca is owned and operated by Scholastic Canada Ltd., 175 Hillmount Road, Markham, Ontario, Canada L6C 1Z7. We can be reached by phone at 905-887-7323, by fax at 905-887-1131 and by e-mail at 
 
 [_custserve@scholastic.ca_](mailto:custserve@scholastic.ca). If you have any questions about our privacy policy or practices, or you wish to amend, update or verify the information on file, or notify us that you want your information deleted from our files, please contact the Web Producer at this address. 
-
-**GetNetWise**
-
-GetNetWise is an online resource that provides information and tools that parents and teachers can use to guide children to a safe online experience. You can access this content by clicking on the GetNetWise logo below. This initiative is part of an industry effort to create an online environment where adults feel empowered with tools, information and resources to safeguard children online. 
-
-[](http://www.getnetwise.org/)
-
-  
-**ICRA**
-
-The Internet Content Rating Association is an international, independent organization that empowers the public, especially parents, to make informed decisions about electronic media by means of the open and objective labelling of content. ICRA's dual aims are to: 
-
-  * protect children from potentially harmful material; and, 
-  * to protect free speech on the internet. 
-
-
-
-[](http://www.icra.org/labelv02.html)
