@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211224413id_/http%3A//www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125100759id_/http%3A//www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # NexTag: Help [Privacy Policy]
 
@@ -58,7 +58,7 @@ Please note that opting out will prevent you from receiving the status updates d
 
 You can review your personal identifiable information by logging in with your email and password and then clicking on the "My Account" link located at the top right of each page. After accessing your My Account page, click the links under the Basic Account Information section to make changes as necessary.
 
-For more information, please refer to the My Account section in the [Help Contents Menu](https://web.archive.org/web/20011211224413id_/http%3A//www.nextag.com/serv/main/buyer/help/index.jsp).
+For more information, please refer to the My Account section in the [Help Contents Menu](https://web.archive.org/web/20020125100759id_/http%3A//www.nextag.com/serv/main/buyer/help/index.jsp).
 
 Please note: Though we store encrypted credit card information for transactional purposes, we do not display it for review as part of your online account information. If you would like to review this or any further information offline, please feel free to contact us.
 
