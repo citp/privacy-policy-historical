@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030953id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2004-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040725030518id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
 
-# Auto Europe Car Rental, Discounted Airfare and Hotel Reservations
+# Auto Europe Privacy Policy Description
 
 **About Cookies**  
 The Auto Europe web site does make limited use of cookies to better serve you. However, we do not store any personal or credit card information about you in these cookies. They do contain a session id number and some other basic information about your visit (for instance, which country you chose when you came to the site).
