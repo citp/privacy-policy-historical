@@ -1,16 +1,19 @@
-<!--The following is the downloaded HTML source of the in-cosmetics.com privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606122558id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the in-cosmetics.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204180912id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		
 
 
 
 
-	<style type="text/css">
-	<!-- 
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="expires" content="Sun, 28 Dec 1997 09:00:00 GMT">
+		<style type="text/css">
+		<!-- 
 	
-	.body {color: #555555;}
+		
+	body {color: #555555;}
 	.RightAlign td{text-align:right;}
 	.JustifyAlign td{text-align:justify;}
 	.CenterAlign td{text-align:center;}
@@ -48,34 +51,35 @@
 	
 	
 	
+		
 	
-	-->
-	</style>
+		-->
+		</style>
 	
 
-	<script language="JavaScript1.2">
+	<script type="text/javascript" language="JavaScript1.2">
 	<!--
-	if(document.all)
-	{nav = "ie4";
-	 doc = "document.all";
-	 brO = "[";
-	 brC = "]";
-	 wdth=".offsetWidth";
-	 sty = ".style";}
-	else if(document.layers)
-	{nav = "ns4";
-	 doc = "document";
-	 brO = "[";
-	 brC = "]";
-	 wdth=".clip.width";
-	 sty = "";}
-	else if(document.getElementById)
-	{nav = "ns6";
-	 doc = "document.getElementById";
-	 brO = "(";
-	 brC = ")";
-	 wdth=".offsetWidth";
-	 sty = ".style";}
+		if(document.all)
+		{nav = "ie4";
+		 doc = "document.all";
+		 brO = "[";
+		 brC = "]";
+		 wdth=".offsetWidth";
+		 sty = ".style";}
+		else if(document.layers)
+		{nav = "ns4";
+		 doc = "document";
+		 brO = "[";
+		 brC = "]";
+		 wdth=".clip.width";
+		 sty = "";}
+		else if(document.getElementById)
+		{nav = "ns6";
+		 doc = "document.getElementById";
+		 brO = "(";
+		 brC = ")";
+		 wdth=".offsetWidth";
+		 sty = ".style";}
 	
 	
 		if (window != top)
@@ -83,7 +87,55 @@
 		}
 	
 	
+		function updateRotator(rotID)
+		{	var count=eval('countRotator_'+rotID+'++;');
+			//var rotArrayLen=eval('divArray_'+rotID+'.length');
+			if (eval('countRotator_'+rotID)>=eval('divArray_'+rotID+'.length'))
+			{	eval('countRotator_'+rotID+'=0;');
+			}
+			//count=eval('countRotator_'+rotID);
+			/*if (document.all['ImgRotator_'+rotID] != null)
+			{	document.all['ImgRotator_'+rotID].innerHTML=eval('divArray_'+rotID+'[countRotator_'+rotID+'];');
+			}*/
+			/*
+			if (document.all['ImgRotator_'+rotID] != null)
+			{	obj=eval('objArray_'+rotID+'[countRotator_'+rotID+']');
+				document.all['ImgRotatorImg_'+rotID].src='http://www.in-cosmetics.com/g/logos/'+obj.imgName;
+				document.all['ImgRotatorImg_'+rotID].width=obj.imgWidth;
+				document.all['ImgRotatorImg_'+rotID].height=obj.imgHeight;
+				document.all['ImgRotatorImg_'+rotID].alt=obj.imgAlt;
+				document.all['ImgRotatorHref_'+rotID].href=obj.imgLink;
+				document.all['ImgRotatorHref_'+rotID].target=obj.imgTarget;
+			}
+			*/
+			if (document.all['ImgRotator_'+rotID] != null)
+			{	if (typeof(document.all['ImgRotatorDIV_'+rotID]) == "undefined")//eval('ImgRotatorDIV_'+rotID+'_'+count) != null)
+				{	document.all['ImgRotator_'+rotID].innerHTML='<div ID="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'">'+document.all['ImgRotator_'+rotID].innerHTML+'</div>';
+					for (i=0; i < eval('divArray_'+rotID+'.length'); i++)
+					{	document.all['ImgRotator_'+rotID].innerHTML=document.all['ImgRotator_'+rotID].innerHTML+eval('divArray_'+rotID+'['+i+'];');
+					}
+					document.all['ImgRotator_'+rotID].innerHTML='<div ID="ImgRotatorDIV_'+rotID+'">'+document.all['ImgRotator_'+rotID].innerHTML+'</div>';
+					//setTimeout('updateRotator('+rotID+');',500);
+				}
+				else
+				{	for (i=0; i <= eval('divArray_'+rotID+'.length'); i++)
+					{	if (typeof(document.all['ImgRotatorDIV_'+rotID+'_'+i]) != "undefined")
+						{	document.all['ImgRotatorDIV_'+rotID+'_'+i].style.display='none';
+						}
+					}
+					//window.status='document.all[ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID);
+					if (typeof(document.all['ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)]) != "undefined")
+					{	document.all['ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)].style.display='inline';
+					}
+				}
+			}
+		}
 	
+	
+		function rolloverImage(imgName,state)
+		{	newSrc=eval(imgName+'_'+state+'.src');
+			eval(doc+brO+'imgName'+brC+'.src=\''+newSrc+'\';');
+		}
 	//-->
 	</script>
 
@@ -91,6 +143,14 @@
 
 	
 	
+
+
+
+
+		
+			
+
+
 
 
 
@@ -111,12 +171,15 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 
 		</head><body topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" bgcolor="#ffffff" text="#555555" link="#D82B8F" alink="#D82B8F" vlink="#D82B8F"><a name="Head"></a>
 	
+<meta name="description" content="In-cosmetics 2005, the leading international business platform for suppliers and manufacturers of raw materials and ingredients for cosmetics, toiletries and personal care takes place from 12-14th April 2005 at Messe Berlin, Germany.">
+<meta name="keywords" content="in-cosmetics, cosmetics, toiletries, personal care,exhibition,international trade show,Reed Exhibitions,Messe Berlin,suppliers and manufacturers of raw materials and ingredients, fragrance, skin care, essential oils, perfume and perfumery materials">
 
 <title>in-cosmetics 2005 - Privacy Pledge</title>
 
 	<div id="PageBody_DIV">
 	
 
+<websiteannouncement>
 <div align="center">
 
 <table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
@@ -158,13 +221,13 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 													
 												
 												<tbody><tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left_on.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left_on.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
 														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=1/t=m/goSection=1" target="_self"><font color="#ffffff">Home</font></a><font color="#ffffff">&nbsp;&nbsp;</font></b></font></td>
 													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -173,13 +236,13 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 												
 												
 												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=97/nocache=truechecked/newSection=Yes" target="_self"><img src="http://www.in-cosmetics.com/g/logos/button_auf_deutsch.gif" <="" a="">&nbsp;&nbsp;</a></b></font></td>
 													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
-														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=46/t=m/goSection=13" target="_self">What's new?</a>&nbsp;&nbsp;</b></font></td>
-													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -188,13 +251,58 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 												
 												
 												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=88/nocache=true/newSection=Yes" target="_self"><img src="http://www.in-cosmetics.com/g/logos/button_en_francais.gif" <="" a="">&nbsp;&nbsp;</a></b></font></td>
 													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+													
+													
+												</tbody></table></td></tr>
+											
+										
+											
+											
+												
+												
+												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=46/t=m/goSection=30" target="_self">What's new?</a>&nbsp;&nbsp;</b></font></td>
+													</tr>
+													
+													
+												</tbody></table></td></tr>
+											
+										
+											
+											
+												
+												
+												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=93/t=m/goSection=24" target="_self">Pre-registration</a>&nbsp;&nbsp;</b></font></td>
+													</tr>
+													
+													
+												</tbody></table></td></tr>
+											
+										
+											
+											
+												
+												
+												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
 														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=9/t=m/goSection=3" target="_self">Exhibiting Information</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -203,13 +311,13 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 												
 												
 												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
 														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=15/t=m/goSection=4" target="_self">Visiting Information</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -218,13 +326,13 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 												
 												
 												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
 														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Action=EZone/t=m/goSection=18" target="_self">Exhibitor Zone</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -233,13 +341,13 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 												
 												
 												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=91/nocache=true/newSection=Yes" target="_self">Berlin</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
-														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=16/t=m/goSection=9" target="_self">Berlin</a>&nbsp;&nbsp;</b></font></td>
-													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -248,13 +356,28 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 												
 												
 												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=89/t=m/goSection=21" target="_self">Industry News</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+													
+													
+												</tbody></table></td></tr>
+											
+										
+											
+											
+												
+												
+												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
 														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=27/t=m/goSection=6" target="_self">Association Links</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -263,13 +386,13 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 												
 												
 												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
 														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=45/t=m/goSection=11" target="_self">Trends Presentations</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -278,13 +401,28 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 												
 												
 												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=87/t=m/goSection=20" target="_self">Innovations Seminars</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+													
+													
+												</tbody></table></td></tr>
+											
+										
+											
+											
+												
+												
+												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
 														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Link=65/t=m/goSection=15" target="_self">Press Office</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -293,13 +431,13 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 												
 												
 												<tr><td align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
-													<tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
-													<tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
+													
+													
+													<tbody><tr><td align="center">&nbsp;&nbsp;<img src="http://www.in-cosmetics.com/g/template/bull_left.gif" width="28" height="30" alt="" border="0">&nbsp;</td>
 														<td align="left" width="100%" nowrap=""><font face="Arial" size="2" style="font-family:Arial; font-size:12px; "><b><a class="MainMenu" href="http://www.in-cosmetics.com/page.cfm/Action=Team/t=m/goSection=16" target="_self">Contact us</a>&nbsp;&nbsp;</b></font></td>
 													</tr>
-													<tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td>
-													</tr>
+													
+													
 												</tbody></table></td></tr>
 											
 										
@@ -323,12 +461,12 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 
 
 
+
 	
 
 	
 	
 		<!-- ** start of organised by panel (panel 1 on Left) -->
-	
 	
 	
 	
@@ -348,6 +486,7 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	
 	
 	
+		
 		
 		
 
@@ -499,7 +638,6 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 
 
 
-
 	
 	
 	
@@ -507,7 +645,6 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 		
 			
 		
-	
 	
 	
 	
@@ -526,6 +663,11 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 						
 							
 							
+
+
+
+
+
 
 
 	
@@ -549,9 +691,8 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	
 
 
-	
+
 						
-					
 					
 						
 
@@ -576,6 +717,8 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 
 
 
+
+	
 	
 	
 	
@@ -603,7 +746,7 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	
 	
 	<!-- ** start of Privacy Pledge sheet -->
-	<formattedpage><font style="font-family:Arial; font-size:11px;"><img border="0" src="http://www.in-cosmetics.com/g/g_blank.gif" height="4" width="1"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%" colspan="3"><b><font face="Arial" size="2" style="font-family:Arial; font-size:13px; "><font color="#69026D"><b>Privacy Pledge</b></font></font></b></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" height="1" width="4"></td><td width="100%"><img src="http://www.in-cosmetics.com/g/g_blank.gif" height="4" width="1"><br><formattedpage><font style="font-family:Arial; font-size:11px;"><b>Reed Exhibitions Ltd – Privacy Statement</b><br><br>
+	<formattedpage><font style="font-family:Arial; font-size:11px;"><img border="0" src="http://www.in-cosmetics.com/g/g_blank.gif" height="4" width="1"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%" colspan="3"><b><font face="Arial" size="2" style="font-family:Arial; font-size:13px; "><font color="#69026D"><font face="Arial" size="2" style="font-family:Arial; font-size:13px; "><b>Privacy Pledge</b></font></font></font></b></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" height="1" width="4"></td><td width="100%"><img src="http://www.in-cosmetics.com/g/g_blank.gif" height="4" width="1"><br><formattedpage><font style="font-family:Arial; font-size:11px;"><b>Reed Exhibitions Ltd – Privacy Statement</b><br><br>
 
 <b>Introduction</b><br><br>
 
@@ -704,7 +847,11 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 
 
 
+	<form name="PrintFriendlyForm"></form>
 
+
+	
+		
 
 														
 													</font></font></formattedpage></td>
@@ -732,11 +879,7 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 
 
 
-
-
-
-
-<br clear="all"><table border="0" cellspacing="0" cellpadding="0" width="100%" height="20" bgcolor="#F4B8D2"><tbody><tr><td align="center" width="17"><img src="http://www.in-cosmetics.com/g/template/g_food_footerLeft.gif" height="20" width="17" border="0"></td><td align="center" nowrap=""><font class="footer" face="Arial" size="1" style="font-family:Arial; font-size:9px; "><nobr><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Link=2/t=m" target="_self">© 2004 Reed Exhibitions</a></nobr></font></td><td bgcolor="#FFFFFF" width="1"><img src="http://www.in-cosmetics.com/g/blank.gif" border="0" height="20" width="1"></td><td align="center" nowrap=""><font class="footer" face="Arial" size="1" style="font-family:Arial; font-size:9px; "><nobr><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Action=Team/t=m" target="_self">contact us</a></nobr></font></td><td bgcolor="#FFFFFF" width="1"><img src="http://www.in-cosmetics.com/g/blank.gif" border="0" height="20" width="1"></td><td align="center" nowrap=""><font class="footer" face="Arial" size="1" style="font-family:Arial; font-size:9px; "><nobr><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Link=3/t=m" target="_self">view the privacy policy</a></nobr></font></td><td align="center" width="17"><img src="http://www.in-cosmetics.com/g/template/g_food_footerRight.gif" height="20" width="17" border="0"></td></tr></tbody></table></td>
+<br clear="all"><table border="0" cellspacing="0" cellpadding="0" width="100%" height="20" bgcolor="#F4B8D2"><tbody><tr><td align="center" width="17"><img src="http://www.in-cosmetics.com/g/template/g_food_footerLeft.gif" height="20" width="17" border="0"></td><td align="center" nowrap=""><font class="footer" face="Arial" size="1" style="font-family:Arial; font-size:9px; "><nobr><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Link=2/t=m" target="_self">© 2004 Reed Exhibitions</a></nobr></font></td><td bgcolor="#FFFFFF" width="1"><img src="http://www.in-cosmetics.com/g/g_blank.gif" border="0" height="20" width="1"></td><td align="center" nowrap=""><font class="footer" face="Arial" size="1" style="font-family:Arial; font-size:9px; "><nobr><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Action=Team/t=m" target="_self">contact us</a></nobr></font></td><td bgcolor="#FFFFFF" width="1"><img src="http://www.in-cosmetics.com/g/g_blank.gif" border="0" height="20" width="1"></td><td align="center" nowrap=""><font class="footer" face="Arial" size="1" style="font-family:Arial; font-size:9px; "><nobr><a class="Footer" href="http://www.in-cosmetics.com/page.cfm/Link=3/t=m" target="_self">view the privacy policy</a></nobr></font></td><td align="center" width="17"><img src="http://www.in-cosmetics.com/g/template/g_food_footerRight.gif" height="20" width="17" border="0"></td></tr></tbody></table></td>
 													<td width="25"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="25" height="1"></td>
 												</tr>
 												<tr>
@@ -775,7 +918,7 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 							
 							<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="8" height="1" border="0"></td><td width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
 							
-								<table border="0" cellspacing="0" cellpadding="0" width="100%"><form action="page.cfm" method="post"></form><input type="hidden" name="action" value="Search"><tbody><tr><td><font class="PanelTitle" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><b>quick search</b></font></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td></tr><tr><td><input type="Text" name="SearchCriteria" value="" size="15"></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr></tbody></table>
+								<table border="0" cellspacing="0" cellpadding="0" width="100%"><form action="page.cfm" method="post"></form><input type="hidden" name="action" value="Search"><tbody><tr><td><font class="PanelTitle" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><b>quick search</b></font></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="5"></td></tr><tr><td><input type="Text" name="SearchCriteria" value="" size="15"></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr><tr><td><font class="PanelTitle" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><b>show in your diary</b></font></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr><tr><td><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a href="http://www.in-cosmetics.com/page.cfm/action=VCalendarIndex" class="QuickLink">add to your outlook...</a></font></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr><tr><td height="1"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table>
 								
 							
 							</font></td></tr>
@@ -831,7 +974,7 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 							
 							<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="8" height="1" border="0"></td><td width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
 							
-								<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><font class="PanelTitle" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><b>quick links</b></font></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr><tr><td><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=ExhibList/t=m" target="_self"><b>- Exhibitor List </b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=Product/t=m" target="_self"><b>- Product Categories</b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/files/floorplan_Incos_05_19_may_05.pdf" target="_blank"><b>- Floorplan</b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Link=12/t=m" target="_self"><b>- Book a Stand</b></a><br></font></font></font></font></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr><tr><td height="1"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table>
+								<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><font class="PanelTitle" face="Arial" size="1" style="font-family:Arial; font-size:11px; "><b>quick links</b></font></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr><tr><td><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=ExhibList/t=m" target="_self"><b>- Exhibitor List </b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=Product/t=m" target="_self"><b>- Product Categories</b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Link=12/t=m" target="_self"><b>- Book a Stand</b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/files/floorplan_Incos05_03_12_04.pdf" target="_blank"><b>- Floorplan</b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/files/brochure_and_nserts_incos_2005.pdf" target="_blank"><b>- Download Brochure</b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Link=83/t=m" target="_self"><b>- Book your hotel!</b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=VCalendarIndex/CalendarID=2/t=m" target="_self"><b>- Opening Times</b></a><br><font face="Arial" size="1" style="font-family:Arial; font-size:11px; "><a class="QuickLink" href="http://www.in-cosmetics.com/page.cfm/Action=Form/ID=13/t=m" target="_self"><b>- Free e-newsletter</b></a><b><br></b></font></font></font></font></font></font></font></font></td></tr><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="10"></td></tr><tr><td height="1"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table>
 								
 							
 							</font></td></tr>
@@ -866,12 +1009,12 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 
 
 
+
 	
 
 	
 	
 		<!-- ** start of  panel (panel 1 on Right) -->
-	
 	
 	
 	
@@ -891,6 +1034,7 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 	
 	
 	
+		
 		
 		
 
@@ -975,6 +1119,102 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 	
 	
 	
+			
+		
+	
+	
+	
+	
+		<tr><td valign="top">
+	
+	
+	
+	
+	
+		
+		
+		
+
+
+
+
+
+	
+
+
+
+	<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+		<tbody><tr><td width="100%" bgcolor="#ffffff" bordercolor="#ffffff">
+			
+				<table border="0" cellspacing="0" cellpadding="0" width="100%">
+					<tbody><tr><td valign="top" class="Panel" style="font-family:Arial; font-size:11px; " width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+								
+									<tbody><tr><td width="20"><img src="http://www.in-cosmetics.com/g/template/g_food_right_menu_end.gif" width="20" height="17" border="0"></td>
+										<td width="100%" bgcolor="#922784"><font face="Arial" size="1" style="font-family:Arial; font-size:11px; ">&nbsp;</font></td>
+										<td width="17" bgcolor="#922784"><img src="http://www.in-cosmetics.com/g/g_blank.gif" height="17"></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" align="right" width="100%" height="14"><img src="http://www.in-cosmetics.com/g/template/g_food_right_curve.gif" width="28" height="14" border="0"></td>
+								</tr>
+							</tbody></table>
+							
+							<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="8" height="1" border="0"></td><td width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							
+								<formattedpage><font style="font-family:Arial; font-size:11px; ">Book your hotel with:<br><a class="Panel" style="font-family:Arial; font-size:11px; " aclass="" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.expotel.com/default.asp?eventcode=ic2005" name=""><img border="0" height="68" alt="" src="http://www.in-cosmetics.com/g/logos/Expotel.gif" width="135"></a> 
+								
+							
+							</font></formattedpage></font></td></tr>
+							
+							</tbody></table>
+						</font></td>
+						<td bgcolor="#922784" width="17"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="17" height="1" border="0"></td>
+					</tr>
+				</tbody></table>
+			
+			</td>
+		</tr>
+	
+	</tbody></table>
+
+
+	
+	
+
+
+
+
+		
+		
+	
+	
+	
+	
+		
+		<!-- Spacer Break -->
+		
+		
+		
+			</td></tr>
+			<!-- ** end of  panel (panel 2 on Right) -->
+		
+		
+		
+		
+	
+
+	
+
+	
+	
+		<!-- ** start of  panel (panel 3 on Right) -->
+	
+	
+	
+	
+	
+	
 	
 			
 		
@@ -988,6 +1228,104 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 	
 	
 	
+		
+		
+		
+
+
+
+
+
+	
+
+
+
+	<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+		<tbody><tr><td width="100%" bgcolor="#ffffff" bordercolor="#ffffff">
+			
+				<table border="0" cellspacing="0" cellpadding="0" width="100%">
+					<tbody><tr><td valign="top" class="Panel" style="font-family:Arial; font-size:11px; " width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+								
+									<tbody><tr><td width="20"><img src="http://www.in-cosmetics.com/g/template/g_food_right_menu_end.gif" width="20" height="17" border="0"></td>
+										<td width="100%" bgcolor="#922784"><font face="Arial" size="1" style="font-family:Arial; font-size:11px; ">&nbsp;</font></td>
+										<td width="17" bgcolor="#922784"><img src="http://www.in-cosmetics.com/g/g_blank.gif" height="17"></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" align="right" width="100%" height="14"><img src="http://www.in-cosmetics.com/g/template/g_food_right_curve.gif" width="28" height="14" border="0"></td>
+								</tr>
+							</tbody></table>
+							
+							<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="8" height="1" border="0"></td><td width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							
+								<formattedpage><font style="font-family:Arial; font-size:11px; "><p align="center"><a class="Panel" style="font-family:Arial; font-size:11px; " aclass="" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/link=99" name=""><img border="0" height="125" alt="ATC" src="http://www.in-cosmetics.com/g/logos/logo_ATC05_125_125.gif" width="125"></a></p>
+								
+							
+							</font></formattedpage></font></td></tr>
+							
+							</tbody></table>
+						</font></td>
+						<td bgcolor="#922784" width="17"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="17" height="1" border="0"></td>
+					</tr>
+				</tbody></table>
+			
+			</td>
+		</tr>
+	
+	</tbody></table>
+
+
+	
+	
+
+
+
+
+		
+		
+	
+	
+	
+	
+		
+		<!-- Spacer Break -->
+		
+		
+		
+			</td></tr>
+			<!-- ** end of  panel (panel 3 on Right) -->
+		
+		
+		
+		
+	
+
+	
+
+	
+	
+		<!-- ** start of  panel (panel 4 on Right) -->
+	
+	
+	
+	
+	
+	
+	
+			
+		
+	
+	
+	
+	
+		<tr><td valign="top">
+	
+	
+	
+	
+	
+		
 		
 		
 
@@ -1053,7 +1391,7 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 		
 		
 			</td></tr>
-			<!-- ** end of  panel (panel 2 on Right) -->
+			<!-- ** end of  panel (panel 4 on Right) -->
 		
 		
 		
@@ -1064,8 +1402,7 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 
 	
 	
-		<!-- ** start of  panel (panel 3 on Right) -->
-	
+		<!-- ** start of  panel (panel 5 on Right) -->
 	
 	
 	
@@ -1085,6 +1422,7 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 	
 	
 	
+		
 		
 		
 
@@ -1115,8 +1453,7 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 							
 							<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="8" height="1" border="0"></td><td width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
 							
-								<formattedpage><font style="font-family:Arial; font-size:11px; "><p align="center">In support of<br></p>
-<p align="center"><a class="Panel" style="font-family:Arial; font-size:11px; " aclass="" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.lookgoodfeelbetter.co.uk" name=""><img border="0" height="65" alt="" src="http://www.in-cosmetics.com/2005/g/logos/LOGO_LGFBVersion2_100w.gif" width="100"></a></p>
+								<formattedpage><font style="font-family:Arial; font-size:11px; "><p align="center"><a class="Panel" style="font-family:Arial; font-size:11px; " aclass="" target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.ced-lyon.com/gb/index.php" name=""><img border="0" height="67" alt="CED" src="http://www.in-cosmetics.com/g/logos/logo_CED_125.gif" width="125"></a></p>
 								
 							
 							</font></formattedpage></font></td></tr>
@@ -1151,7 +1488,301 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 		
 		
 			</td></tr>
-			<!-- ** end of  panel (panel 3 on Right) -->
+			<!-- ** end of  panel (panel 5 on Right) -->
+		
+		
+		
+		
+	
+
+	
+
+	
+	
+		<!-- ** start of  panel (panel 6 on Right) -->
+	
+	
+	
+	
+	
+	
+	
+			
+		
+	
+	
+	
+	
+		<tr><td valign="top">
+	
+	
+	
+	
+	
+		
+		
+		
+
+
+
+
+
+	
+
+
+
+	<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+		<tbody><tr><td width="100%" bgcolor="#ffffff" bordercolor="#ffffff">
+			
+				<table border="0" cellspacing="0" cellpadding="0" width="100%">
+					<tbody><tr><td valign="top" class="Panel" style="font-family:Arial; font-size:11px; " width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+								
+									<tbody><tr><td width="20"><img src="http://www.in-cosmetics.com/g/template/g_food_right_menu_end.gif" width="20" height="17" border="0"></td>
+										<td width="100%" bgcolor="#922784"><font face="Arial" size="1" style="font-family:Arial; font-size:11px; ">&nbsp;</font></td>
+										<td width="17" bgcolor="#922784"><img src="http://www.in-cosmetics.com/g/g_blank.gif" height="17"></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" align="right" width="100%" height="14"><img src="http://www.in-cosmetics.com/g/template/g_food_right_curve.gif" width="28" height="14" border="0"></td>
+								</tr>
+							</tbody></table>
+							
+							<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="8" height="1" border="0"></td><td width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							
+								<formattedpage><font style="font-family:Arial; font-size:11px; "><p align="left"><a class="Panel" style="font-family:Arial; font-size:11px; " aclass="" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm?HyperLink=http://www.cosmeticsdesign.com/banner.asp?id=87" name=""></a></p>
+<p align="center"><a class="Panel" style="font-family:Arial; font-size:11px; " aclass="" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget= http://www.cosmeticsdesign.com/banner.asp?id=87" name=""><img border="0" height="125" alt="cosmeticdesign" src="http://www.in-cosmetics.com/g/logos/banner_InCosmetics.gif" width="125"></a></p>
+								
+							
+							</font></formattedpage></font></td></tr>
+							
+							</tbody></table>
+						</font></td>
+						<td bgcolor="#922784" width="17"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="17" height="1" border="0"></td>
+					</tr>
+				</tbody></table>
+			
+			</td>
+		</tr>
+	
+	</tbody></table>
+
+
+	
+	
+
+
+
+
+		
+		
+	
+	
+	
+	
+		
+		<!-- Spacer Break -->
+		
+		
+		
+			</td></tr>
+			<!-- ** end of  panel (panel 6 on Right) -->
+		
+		
+		
+		
+	
+
+	
+
+	
+	
+		<!-- ** start of  panel (panel 7 on Right) -->
+	
+	
+	
+	
+	
+	
+	
+			
+		
+	
+	
+	
+	
+		<tr><td valign="top">
+	
+	
+	
+	
+	
+		
+		
+		
+
+
+
+
+
+	
+
+
+
+	<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+		<tbody><tr><td width="100%" bgcolor="#ffffff" bordercolor="#ffffff">
+			
+				<table border="0" cellspacing="0" cellpadding="0" width="100%">
+					<tbody><tr><td valign="top" class="Panel" style="font-family:Arial; font-size:11px; " width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+								
+									<tbody><tr><td width="20"><img src="http://www.in-cosmetics.com/g/template/g_food_right_menu_end.gif" width="20" height="17" border="0"></td>
+										<td width="100%" bgcolor="#922784"><font face="Arial" size="1" style="font-family:Arial; font-size:11px; ">&nbsp;</font></td>
+										<td width="17" bgcolor="#922784"><img src="http://www.in-cosmetics.com/g/g_blank.gif" height="17"></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" align="right" width="100%" height="14"><img src="http://www.in-cosmetics.com/g/template/g_food_right_curve.gif" width="28" height="14" border="0"></td>
+								</tr>
+							</tbody></table>
+							
+							<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="8" height="1" border="0"></td><td width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							
+								<formattedpage><font style="font-family:Arial; font-size:11px; "><ae_formattedpage><p align="center"><a class="Panel" style="font-family:Arial; font-size:11px; " target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.uniqema.com/pc/runwalkberlin.htm"></a></p>
+<p align="center"><a class="Panel" style="font-family:Arial; font-size:11px; " target="_blank" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.uniqema.com/pc/runwalkberlin.htm"><img border="0" height="125" alt="Run/Walk" src="http://www.in-cosmetics.com/g/logos/logo_RunWalk-Berlin.gif" width="125"></a></p><br>
+								
+							
+							</ae_formattedpage></font></formattedpage></font></td></tr>
+							
+							</tbody></table>
+						</font></td>
+						<td bgcolor="#922784" width="17"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="17" height="1" border="0"></td>
+					</tr>
+				</tbody></table>
+			
+			</td>
+		</tr>
+	
+	</tbody></table>
+
+
+	
+	
+
+
+
+
+		
+		
+	
+	
+	
+	
+		
+		<!-- Spacer Break -->
+		
+		
+		
+			</td></tr>
+			<!-- ** end of  panel (panel 7 on Right) -->
+		
+		
+		
+		
+	
+
+	
+
+	
+	
+		<!-- ** start of  panel (panel 8 on Right) -->
+	
+	
+	
+	
+	
+	
+	
+			
+		
+	
+	
+	
+	
+		<tr><td valign="top">
+	
+	
+	
+	
+	
+		
+		
+		
+
+
+
+
+
+	
+
+
+
+	<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D82B8F">
+		<tbody><tr><td width="100%" bgcolor="#ffffff" bordercolor="#ffffff">
+			
+				<table border="0" cellspacing="0" cellpadding="0" width="100%">
+					<tbody><tr><td valign="top" class="Panel" style="font-family:Arial; font-size:11px; " width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							<table border="0" cellspacing="0" cellpadding="0" width="100%">
+								
+									<tbody><tr><td width="20"><img src="http://www.in-cosmetics.com/g/template/g_food_right_menu_end.gif" width="20" height="17" border="0"></td>
+										<td width="100%" bgcolor="#922784"><font face="Arial" size="1" style="font-family:Arial; font-size:11px; ">&nbsp;</font></td>
+										<td width="17" bgcolor="#922784"><img src="http://www.in-cosmetics.com/g/g_blank.gif" height="17"></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" align="right" width="100%" height="14"><img src="http://www.in-cosmetics.com/g/template/g_food_right_curve.gif" width="28" height="14" border="0"></td>
+								</tr>
+							</tbody></table>
+							
+							<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="8" height="1" border="0"></td><td width="100%"><font face="Arial" size="2" style="font-family:Arial; font-size:11px; ">
+							
+								<formattedpage><font style="font-family:Arial; font-size:11px; "><p align="center">In support of<br></p>
+<p align="center"><a class="Panel" style="font-family:Arial; font-size:11px; " aclass="" href="http://www.in-cosmetics.com/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.in-cosmetics.com/page.cfm/link=81" name=""><img border="0" height="65" alt="" src="http://www.in-cosmetics.com/2005/g/logos/LOGO_LGFBVersion2_100w.gif" width="100"></a></p>
+								
+							
+							</font></formattedpage></font></td></tr>
+							
+							</tbody></table>
+						</font></td>
+						<td bgcolor="#922784" width="17"><img src="http://www.in-cosmetics.com/g/g_blank.gif" width="17" height="1" border="0"></td>
+					</tr>
+				</tbody></table>
+			
+			</td>
+		</tr>
+	
+	</tbody></table>
+
+
+	
+	
+
+
+
+
+		
+		
+	
+	
+	
+	
+		
+		<!-- Spacer Break -->
+		
+		
+		
+			</td></tr>
+			<!-- ** end of  panel (panel 8 on Right) -->
 		
 		
 		
@@ -1178,7 +1809,7 @@ This site recognizes the home servers of visitors, but not their e-mail addresse
 </div>
 
 
-		</div>
+		</websiteannouncement></div>
 		
 		<a name="Foot"></a>
 		
@@ -1195,6 +1826,11 @@ looking for graphic http://www.in-cosmetics.com/g/template/g_food_left_curve.gif
 looking for graphic http://www.in-cosmetics.com/g/template/g_searchButton.gif in the template list - not found
 looking for graphic http://www.in-cosmetics.com/g/template/g_pageBullet.gif in the template list - not found
 looking for graphic http://www.in-cosmetics.com/g/template/g_arrowPageBody_Right.gif in the template list - not found
+looking for graphic http://www.in-cosmetics.com/g/template/g_searchButton.gif in the template list - not found
+looking for graphic http://www.in-cosmetics.com/g/template/g_searchButton.gif in the template list - not found
+looking for graphic http://www.in-cosmetics.com/g/template/g_searchButton.gif in the template list - not found
+looking for graphic http://www.in-cosmetics.com/g/template/g_searchButton.gif in the template list - not found
+looking for graphic http://www.in-cosmetics.com/g/template/g_searchButton.gif in the template list - not found
 looking for graphic http://www.in-cosmetics.com/g/template/g_searchButton.gif in the template list - not found
 looking for graphic http://www.in-cosmetics.com/g/template/g_searchButton.gif in the template list - not found
 looking for graphic http://www.in-cosmetics.com/g/template/g_searchButton.gif in the template list - not found
