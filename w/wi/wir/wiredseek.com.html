@@ -1,0 +1,161 @@
+<!--The following is the downloaded HTML source of the wiredseek.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603084240id_/http%3A//wiredseek.com%3Fprivacy) for the most accurate reproduction.-->
+
+<html><head><title>WiredSeek Store - Privacy Policy</title><meta name="robots" content="index,follow">
+<style>
+td {font-size:13px;font-family:verdana;}
+font { font-family:verdana;font-size:10px;}
+a:link {text-decoration:underline;font-weight:bold;font-family:verdana;font-size:13px;color:#000080}
+a:visited {text-decoration:underline;font-weight:bold;font-family:verdana;font-size:13px;color:#000080}
+a.pages:link {text-decoration:underline;font-weight:normal;font-family:Arial;font-size:11px;color:#000080}
+a.pages:visited {text-decoration:underline;font-weight:normal;font-family:Arial;font-size:11px;color:#000080}
+</style>
+<script type="text/javascript"><!--//
+var i=s=u=uu=doc=id='';doc=document;uu=escape(window.location.href);s='51715';id = '';
+for( i=0; i<30; i++ ) {id=id+Math.floor(Math.random()*10);}
+u='ht' + 'tp://as.casalemedia.com';
+doc.write('<scr'+'ipt language="javascript" src="'+u);
+doc.write('/showad?siteID='+s+'&url=http://www.wiredseek.com&id='+id+'"></scr'+'ipt>');
+//--></script><script language="javascript" src="http://as.casalemedia.com/showad?siteID=51715&amp;url=http://www.wiredseek.com&amp;id=139424264348644218638073434245"></script>
+</head>
+<body bgcolor="#ffffff">
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="/"><img src="/images/logo.gif" border="0"></a></td>
+ <td align="center"><a href="#" style="cursor:hand;" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.wiredseek.com')" target="_top">Make Us Your Start Page</a> | 
+<a href="/shop?contact=1">Contact WiredSeek</a> | <a href="/shop?contact=1">Advertise</a>
+<br><a href="#" onclick="javascript:window.external.AddFavorite('http://www.wiredseek.com','Shop Online @ WiredSeek')">Add Us to Your Favorites</a> | <a href="#" onclick="javascript:location.href='mailto:?subject=Online Store'+ ' ((www.wiredseek.com))'+' &amp;body= I thought that you might want to take a look at this beautiful web site...   '+' http://www.elyrics.net'">Tell About Us to a Friend</a>
+<br><a href="/?privacy">Privacy Policy</a>
+</td></tr></tbody></table>
+
+<table border="0" cellpadding="2" cellspacing="2" align="center">
+<form name="SearchForm" method="POST" action="/search.php"></form>
+<tbody><tr>
+<td><font color="" size="1" face="">Type:</font></td>
+<td><select name="SearchType" onchange="changemodes();">
+<option value="author">Author</option>
+<option value="artist">Artist</option>
+<option value="actor">Actor</option>
+<option value="director">Director</option>
+<option value="keyword" selected="">Keyword</option>
+<option value="manufacturer">Manufacturer</option>
+</select></td>
+<td><font color="" size="1" face="">Mode:</font></td>
+<td><select name="SearchMode">
+<option value="books">Books</option>
+<option value="classical">Classical Music</option><option value="dvd">DVD</option><option value="music">Popular Music</option><option value="vhs">Video</option><option value="books">---------</option><option value="baby">Baby</option><option value="photo">Camera &amp; Photo</option><option value="pc-hardware">Computers</option><option value="videogames">Computer &amp; Video Games</option><option value="electronics">Electronics</option><option value="kitchen">Kitchen &amp; Housewares</option><option value="magazines">Magazines</option><option value="garden">Outdoor Living</option><option value="software">Software</option><option value="universal">Tools &amp; Hardware</option><option value="toys">Toys &amp; Games</option><option value="wireless-phones">Cell Phones</option><option value="wireless-accessories">Wireless Accessories</option></select></td>
+<td><font color="" size="1" face="">Search for:</font></td>
+<td><input type="text" size="30" name="SearchKeyword"> <input type="submit" value="Search"></td>
+</tr>
+<input type="hidden" name="Search" value="1">
+
+</tbody></table>
+
+<script language="Javascript">
+changemodes();
+function setfield (Select,No,FieldText,FieldValue) {
+  Select[No].text=FieldText;
+  Select[No].value=FieldValue;
+ }
+function changemodes() {
+  var a=document.SearchForm.SearchType.options;
+  var b=document.SearchForm.SearchMode.options;
+  var i=a.selectedIndex;
+  if(a[i].value=="author") {
+    b.length = 1;
+    setfield(b,"0","Books","books")
+   }
+  if(a[i].value=="artist") {
+    b.length = 2;
+    setfield(b,"0","Popular music","music")
+    setfield(b,"1","Classical music","classical")
+   }
+  if(a[i].value=="actor" || a[i].value=="director") {
+    b.length = 2;
+    setfield(b,"0","DVD","dvd")
+    setfield(b,"1","VHS","vhs")
+   }
+  if(a[i].value=="keyword" || a[i].value=="manufacturer") {
+    b.length = 19;
+    setfield(b,"0","Books","books")
+    setfield(b,"1","Classical Music","classical")
+    setfield(b,"2","DVD","dvd")
+    setfield(b,"3","Popular Music","music")
+    setfield(b,"4","Video","vhs")
+    setfield(b,"5","---------","books")
+    setfield(b,"6","Baby","baby")
+    setfield(b,"7","Camera & Photo","photo")
+    setfield(b,"8","Computers","pc-hardware")
+    setfield(b,"9","Computer & Video Games","videogames")
+    setfield(b,"10","Electronics","electronics")
+    setfield(b,"11","Kitchen & Housewares","kitchen")
+    setfield(b,"12","Magazines","magazines")
+    setfield(b,"13","Outdoor Living","garden")
+    setfield(b,"14","Software","software")
+    setfield(b,"15","Tools & Hardware","universal")
+    setfield(b,"16","Toys & Games","toys")
+		setfield(b,"17","Cell Phones","wireless-phones")
+		setfield(b,"18","Wireless Accessories","wireless-accessories")
+		
+   }
+  b[0].selected = true
+ }
+</script><table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td height="1" bgcolor="#000000"><spacer height="1" type="block"></spacer></td></tr>
+<tr><td height="20" bgcolor="#EEEECC">&nbsp;
+<a href="/">Home</a> » <b>Privacy Policy</b></td></tr>
+<tr><td height="1" bgcolor="#000000"><spacer height="1" type="block"></spacer></td></tr>
+<tr><td height="5" bgcolor="#006699"><spacer height="1" type="block"></spacer></td></tr>
+<tr><td height="1" bgcolor="#000000"><spacer height="1" type="block"></spacer></td></tr>
+</tbody></table>
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+<tbody><tr><td bgcolor="#f7f7f2">
+<b style="color:#8b0000;<">Personal Information</b><br>
+<dd>WiredSeek.com is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our web site. 
+In order to enhance your experience at our sites we gather certain personal information about you that helps us customize our content to your tastes and preferences. 
+We may ask for your name, e-mail address, zip code, and country. The more information you share with us (and the more accurate it is), the better we are able to enhance 
+and customize your experience on our sites. 
+<br>
+</dd><dd>By using our web site, you consent to the collection and use of your personal information by WiredSeek.com as outlined in this privacy policy. 
+WiredSeek.com does not sell, rent, or trade your personal information with any third party unless specified.
+<br>
+<b style="color:#8b0000;">IP address and logging</b><br>
+</dd><dd>Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc). 
+<br>
+<b style="color:#8b0000;">Third Party Advertising</b><br>
+</dd><dd>We use BUDS INC., 24/7 Real Media and other third-party advertising companies to serve ads when you visit our Web site. 
+These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide 
+advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices 
+about not having this information used by these companies, please <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a> 
+<br>
+<b style="color:#8b0000;">Cookies</b><br>
+</dd><dd>Some ads displayed may come from our servers. 
+Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be 
+displayed for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers. 
+<br>
+<b style="color:#8b0000;">Third Party Cookies</b><br>
+</dd><dd>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+</dd></td></tr>
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td height="1" bgcolor="#000000"><spacer height="1" type="block"></spacer></td></tr></tbody></table>
+<p></p><center><a href="/shop/books/" style="font-size:10px;font-weight:normal;">Books</a> | <a href="/shop/magazines/" style="font-size:10px;font-weight:normal;">Magazines</a> | <a href="/shop/music/" style="font-size:10px;font-weight:normal;">Popular Music</a> | <a href="/shop/classical/" style="font-size:10px;font-weight:normal;">Classical Music</a> | <a href="/shop/vhs/" style="font-size:10px;font-weight:normal;">Video</a> | <a href="/shop/dvd/" style="font-size:10px;font-weight:normal;">DVD</a> | <a href="/shop/toys/" style="font-size:10px;font-weight:normal;">Toys &amp; Games</a> | <a href="/shop/baby/" style="font-size:10px;font-weight:normal;">Baby</a> | <a href="/shop/videogames/" style="font-size:10px;font-weight:normal;">Computer &amp; Video Games</a><br><a href="/shop/electronics/" style="font-size:10px;font-weight:normal;">Electronics</a> | <a href="/shop/software/" style="font-size:10px;font-weight:normal;">Software</a> | <a href="/shop/universal/" style="font-size:10px;font-weight:normal;">Tools &amp; Hardware</a> | <a href="/shop/garden/" style="font-size:10px;font-weight:normal;">Outdoor Living</a> | <a href="/shop/kitchen/" style="font-size:10px;font-weight:normal;">Kitchen &amp; Housewares</a> | <a href="/shop/photo/" style="font-size:10px;font-weight:normal;">Camera &amp; Photo</a> | <a href="/shop/pc-hardware/" style="font-size:10px;font-weight:normal;">Computers</a> | <a href="/shop/wireless-phones/" style="font-size:10px;font-weight:normal;">Cell Phones</a> | <a href="/shop/wireless-accessories/" style="font-size:10px;font-weight:normal;">Wireless Accessories</a><p>
+<font style="color:#a9a9a9;font-size:10px;font-weight:normal;">All products and store categories are brought to you in association with <a href="http://www.amazon.com/exec/obidos/redirect?tag=turkishprince&amp;path=subst/home/home.html" target="_blank" style="color:#2f4f4f;font-size:10px;font-weight:normal;">Amazon.com</a>.
+<br>Copyright © 2004 Wiredseek.com, All Rights Reserved. </font>
+<table><tbody><tr><td style="visibility:hidden;">
+<font size="1" color="white">
+<a target="_top" href="http://t.extreme-dm.com/?login=wiredsee">
+<img src="http://t1.extreme-dm.com/i.gif" height="1" border="0" width="1" alt=""></a><script language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script><script language="javascript"><!--
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=\"http://t0.extreme-dm.com",
+"/c.g?tag=wiredsee&j=y&srw="+EXw+"&srb="+EXb+"&",
+"l="+escape(EXd.referrer)+"\" height=1 width=1>");//-->
+</script><img src="http://t0.extreme-dm.com/c.g?tag=wiredsee&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><img height=1 width=1 alt=""
+src="http://t0.extreme-dm.com/c.g?tag=wiredsee&j=n"></noscript>
+</font>
+</td></tr></tbody></table>
+</p></center>
+
+
+</body></html>
