@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611133045id_/http%3A//ada.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217053707id_/http%3A//www.ada.org/privacy.asp) for the most accurate reproduction.*
 
 # ADA.org: Privacy Policy
 
