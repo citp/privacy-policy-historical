@@ -1,13 +1,48 @@
-> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205010531id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204726id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy.htmlstory) for the most accurate reproduction.*
 
 # mcall.com - Privacy Policy
 
-From The Morning Call
-
+| [](https://web.archive.org/services/newspaper/)  
+---  
+| [Lehigh Valley News](https://web.archive.org/news/local/)  
+| [US/World News](https://web.archive.org/news/nationworld/)  
+| [Milestones](https://web.archive.org/news/local/milestones/all-milestones.htmlstory)  
+| [Sports](https://web.archive.org/sports/)  
+| [Opinion](https://web.archive.org/news/opinion/)  
+| [Business](https://web.archive.org/business/)  
+| [Features](https://web.archive.org/features/)  
+| [Entertainment](http://www.mygoguide.com/)  
+| [PhotoJournal](https://web.archive.org/all-photojournalarchive.htmlstory)  
+| [Special Reports](https://web.archive.org/news/specials/)  
+| [Weather](https://web.archive.org/go/weather)  
+| [Shopping](https://web.archive.org/shopping/)  
+| [Customer Service](https://web.archive.org/services/newspaper/)  
+| [Morning Call Staff](https://web.archive.org/services/newspaper/all-custservstaff.htmlstory?coll=all%2Dservicesnewspaper%2Dhed)  
+[Morning Call Newsroom](https://web.archive.org/services/newspaper/all-custservnewsroom.htmlstory?coll=all%2Dservicesnewspaper%2Dhed)  
+[Advertise](https://web.archive.org/services/newspaper/all-custservadvertise.htmlstory?coll=all%2Dservicesnewspaper%2Dhed)  
+[Subscribe](https://web.archive.org/services/newspaper/all-custservsubscribe.customform?coll=all%2Dservicesnewspaper%2Dhed)  
+[Vacation Options](https://web.archive.org/services/newspaper/all-vacationstop.customform?coll=all%2Dservicesnewspaper%2Dhed)  
+[No Paper This Morning?](https://web.archive.org/services/newspaper/all-custservnopaper.htmlstory)  
+[Order Back Issues  
+](https://web.archive.org/services/newspaper/all-backissuecustserv.story?coll=all%2Dservicesnewspaper%2Dhed)  
   
-Privacy Policy
+| [Subscribe](https://web.archive.org/services/newspaper/all-custservsubscribe.customform)  
+| [Archives](http://pqasb.pqarchiver.com/mcall/)  
+| [Register With Us](https://web.archive.org/services/site/registration/view.reg?temp=rc-member-services)  
+| [Sitemap](https://web.archive.org/services/site/all-sitemap.htmlstory)  
+| [Feedback](https://web.archive.org/services/newspaper/all-feedbackform.customform)  
+  
+  
+101 North 6th St.  
+Allentown, PA 18101  
+(610) 820-6500   
+**Home Delivery Info**   
+Local: (610) 820-6601   
+Toll-free: (800) 666-5492 
 
-_Last Updated: January, 2002_
+ • [Subscription Form](https://web.archive.org/services/newspaper/all-custservsubscribe.customform?coll=all%2Dservices%2Dutl)   
+ • [No paper this morning?](https://web.archive.org/services/newspaper/all-custservnopaper.htmlstory)   
+ • [Vacation Options](https://web.archive.org/services/newspaper/all-vacationstop.customform?coll=all%2Dservicesnewspaper%2Dhed) |  _Last Updated: January, 2002_
 
 mcall.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by mcall.com online and does not impact information collected or used by mcall.com or its affiliates through other means. 
 
@@ -53,4 +88,29 @@ mcall.com reserves the right to change this policy at any time. Please check thi
 **Governing law.**  
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. Users of mcall.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. mcall.com is controlled, operated and administered entirely within the United States. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-Copyright © 2002, [The Morning Call](http://www.mcall.com/)
+Copyright © 2003, [The Morning Call](http://www.mcall.com/)
+
+|  |    
+
+
+[](http://mcall.p2ionline.com/shoppingchannel/enter.aspx?et=CAID&CAID=HomeNGardnShwplace)
+
+[](http://mcall.p2ionline.com/shoppingchannel/ss/index.aspx?adgroupid=12431&area=SS&type=list&menu=14)
+
+[ ](http://mcall.p2ionline.com/shoppingchannel/ss/index.aspx?adgroupid=12431&area=SS&type=list&menu=14)
+
+[](http://mcall.p2ionline.com/shoppingchannel/ss/index.aspx?adgroupid=12431&area=SS&type=list&menu=14)[](http://www.mcall.com/extras/infopages/whoshiring/)
+
+[](https://web.archive.org/extras/livinginlv)
+
+[ ](https://web.archive.org/extras/livinginlv)
+
+[](https://web.archive.org/extras/livinginlv)[](http://www.relationshipnetwork.com/lf1/index.asp?client_id=144)
+
+[ ](http://www.relationshipnetwork.com/lf1/index.asp?client_id=144)
+
+[](http://www.relationshipnetwork.com/lf1/index.asp?client_id=144)[](https://web.archive.org/features/all-winnerscircle2.story)  
+
+
+  
+
