@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204201302id_/http%3A//www.abcactionnews.com/aboutus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604210719id_/http%3A//www.abcactionnews.com/aboutus/privacy.shtml) for the most accurate reproduction.*
 
 # ABC Action News - About Us
 
@@ -44,4 +44,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 **VII. Use of Materials**  
 The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [editor@wfts.com](mailto:editor@wfts.com). 
 
- [Read user agreement](https://web.archive.org/web/20031204201302id_/http%3A//www.abcactionnews.com/aboutus/legal.shtml)
+ [Read user agreement](https://web.archive.org/web/20040604210719id_/http%3A//www.abcactionnews.com/aboutus/legal.shtml)
