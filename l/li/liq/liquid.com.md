@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquid.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401100406id_/http%3A//www.liquiddigitalmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquid.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806012058id_/http%3A//www.liquiddigitalmedia.com/privacy) for the most accurate reproduction.*
 
 # Liquid Digital Media: Privacy Policy
 
