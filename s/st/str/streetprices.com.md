@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streetprices.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001223858id_/http%3A//streetprices.com/Info/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetprices.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208225113id_/http%3A//www.streetprices.com/Info/Privacy.html) for the most accurate reproduction.*
 
-# Street Prices Privacy Policy
+# Privacy Policy - StreetPrices.com
 
 ## StreetPrices.com Privacy Policy
 
