@@ -1,121 +1,142 @@
-> *The following text is extracted and transformed from the elm-chan.org privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622020852id_/http%3A//www.yahoo.com/_ylh%3DX3oDMTB1c2ZmZzF2BF9TAzI3MTYxNDkEdGVzdAMwBHRtcGwDbnMtYmV0YQ--/r/pv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elm-chan.org privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011163722id_/http%3A//www.publicinterestregistry.org/about_pir/legal/privacy) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# Privacy Policy
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
-· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
-**Special Topics**  
-· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [more...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Yahoo! Category: Privacy](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
-· | [Yahoo! Search: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
-· | [Yahoo! Category: Security](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
-  
-* * *  
-  
+|  | [About PIR](https://web.archive.org/about_pir) |   
+---|---|---  
   | 
 
-[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
-
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
-
-**What This Privacy Policy Covers**  
-
-
-  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
-
-**Information Collection and Use**
-
-      **General**  
-
-
-  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
-  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-
-      **Children**  
+  
+[President's Welcome](https://web.archive.org/about_pir/pres_letter)  
+  
+[Board of Directors](https://web.archive.org/about_pir/board_list)  
+  
+[Advisory Council](https://web.archive.org/about_pir/a_c)  
+  
+[PIR Policy](https://web.archive.org/about_pir/pir_policy)  
+  
+[Staff](https://web.archive.org/about_pir/staff)  
+  
+[ICANN](https://web.archive.org/about_pir/icann)  
+  
+[Legal Information and Terms of Use](https://web.archive.org/about_pir/legal)  
+  
 
 
-  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
-  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
+[Privacy Policy](https://web.archive.org/about_pir/privacy)  
+  
+|    
+|  |   
+  |    
+|    
+---|---|---  
+| 
 
-**Information Sharing and Disclosure**  
-
-
-  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-
-**Cookies**  
+  
 
 
-  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/pixels/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
+Privacy Policy
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**
+Privacy Policy last revised: July 11, 2003
 
-      **General**  
+Public Interest Registry respects your privacy. That's why we've adopted this Privacy Policy, which embodies our commitment to the protection of your privacy through adherence to fair electronic information practices. This Privacy Policy protects your privacy byinforming you about…
 
-
-  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-      **Children**  
-
-
-  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-**Confidentiality and Security**  
-
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
-
-**Changes to this Privacy Policy**  
-
-
-  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
-
-**Questions and Suggestions**  
-
-
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
-
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070  
+  * the types of personal data Public Interest Registry collects; 
+  * how it collects this personal data; 
+  * the specified, explicit and legitimate purposes for which it collects such data. 
+  * the types of recipients to which it discloses personal data 
+  * the choices and means by which individuals may access their personal data, and limit its use and further processing, including sharing with third parties. 
 
 
 
+This policy also protects your privacy by assuring you that Public Interest Registry…
 
+  * implements reasonable policies and procedures to ensure that the personal data collected , including the personal data collected as required by the ICANN contracts between PIR and ICANN, as well as between PIR and accredited registrars, is adequate, relevant and not excessive in relation to the purposes for which they are collected and/or for which they are further processed; 
+  * does not further process personal data in a way incompatible with the purposes for which they were originally collected, except with the data subject's consent or by authority of law; 
+  * uses reasonable measures to ensure that we have accurately and completely recorded the personal data provided and that for the data provided to PIR by accredited registrars, that we provide the mechanisms for the registrars to keep it up-to-date; 
+  * implements reasonable policies and procedures to ensure that personal data is kept for no longer than is necessary for the purposes for which the data were collected or for which they are further processed; 
+  * takes appropriate technical and organizational precautions to protect personal data from loss, misuse, unauthorized access, alteration, destruction or disclosure, and against all other unlawful forms of processing. 
+
+
+
+Domain Name Registration Information
+
+Public Interest Registry is the registry operator for the .ORG top-level domain (TLD). As such, Public Interest Registry accepts domain name registrations only from ICANN accredited domain name registrars. Public Interest Registry does not accept domain name registrations directly from registrants. Please note that each registrar has its own policies and procedures.
+
+If you have any questions about a particular domain-name registration, you should begin by contacting the registrant and registrar of record. Except for certain extraordinary circumstances, Public Interest Registry alters a record in the registry only at the request of the relevant and authorized registrar.
+
+When you register a domain name through a registrar, the domain name, its associated nameservers, and other data are given to Public Interest Registry in order to make your chosen domain name a functional address on the Internet. Public Interest Registry discloses this data to TLD server administrators for the purpose of ensuring that the domain name operates as a functional address on the Internet. Public Interest Registry is bound by the .org Registry Agreement with ICANN.  
+See <http://www.icann.org/tlds/agreements/org/>
+
+Consistent with the .org Registry Agreement and the current rules and policies of ICANN, we may also disclose TLD zone files to other interested recipients, provided those recipients agree not to further process the TLD zone files for purposes incompatible with the purposes for which they were originally collected, including the transmission of unsolicited commercial e-mails. See [http://www.icann.org/tlds/agreements/org/registry-agmt-appn-22oct02.htm](http://www.icann.org/tlds/agreements/org/) (Appendix N to the .org Registry Agreement with ICANN)
+
+Also, as required by the .org Registry Agreement, we make information about domain name registrants available to the general public via domain name registration database look-up (WHOIS) services. Please note that consistent with the current rules and policies for the Domain Name System set by ICANN, this information about registrants must remain available in the publicly accessible registration database. These services give users access to such data on a query-by-query basis. Qualified processors may also access such personal data on a bulk basis from ICANN accredited registrars, provided that the data subject, after being conspicuously informed of the bulk processing of his/her personal data, has not refused such processing, and provided that those processors agree, among other things, not to (1) use the personal data to enable or otherwise support the transmission of mass unsolicited commercial communications via e-mail, telephone or facsimile, or (2) process (including sell or redistribute) the personal data to third parties. For further information on bulk data please contact each registrar directly. PIR does not provide bulk data.
+
+We are further required by the .org Registry Agreement to notify registrars of the purposes for which personal data submitted to us by the registrars is collected, the intended recipients (or categories of recipients) of such personal data, and the mechanism for access to and correction of such personal data. We are required to take reasonable steps to protect personal data from loss, misuse, unauthorized disclosure, alteration or destruction, and not to use or authorize the use of personal data in a way that is incompatible with the notice provided to registrars  
+See: <http://www.icann.org/tlds/agreements/org/registry-agmt-appf-24oct02.htm>
+
+Please note that every ICANN accredited registrar is bound by similar obligations to make personal data available to the general public via domain name registration database look-up (WHOIS) services operated by the registrars and to make such data available on a bulk basis to qualified processors. You may have the right to opt out of making your personal data available through bulk access. If you wish to opt out of bulk access to WHOIS data, please contact the registrar of your domain name.
+
+Information We Collect on Our Web Sites
+
+You are free to visit http://www.pir.org without identifying yourself. If you wish to subscribe to our newsletter, we ask for contact information such as your name and e-mail address. 
+
+If you are interested in our services (other than registering a domain name, which must be done through an accredited registrar), you may be required to register with Public Interest Registry. When you register, we might request certain personal data, including your name, address, e-mail address, and other personal data, and, in addition to Web site registration. Public Interest Registry may, from time to time, request personal data for purposes such as the provision of customer service, service offerings, network management, surveys, and other exchanges of information, as long as such personal data is adequate, relevant and not excessive in relation to the purposes for which they are collected and for which they are further processed, and provided that this personal data is not further processed in a way incompatible with those purposes.
+
+Log Files
+
+Public Interest Registry gathers information about all users collectively, such as what areas of its sites users visit most frequently and what services users access most often. Public Interest Registry automatically logs session sources, and other data which tracks users' access to this site and the other channels and Public Interest Registry sites. We analyze these logs in order to understand aggregate user behavior as well as for system performance monitoring. These logs are analyzed for the overall, aggregate trends they reveal about our customers, not for the behaviors of individual users. Public Interest Registry may disclose aggregated user statistics in order to describe the service to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+
+Cookies
+
+A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information that allows a Web site to track the pages you have visited. Public Interest Registry uses cookies to tell when a user is a repeat visitor and to let us know how the user found the Web site. They also allow us to automatically link users to their personalized accounts, enabling you to enter various services as a member and to visit member-restricted areas of the site without having to log in each time.
+
+If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Though some of the services require the use of cookies, visitors to our sites always have the option of disabling cookies via their browser preferences. You can refuse cookies by turning them off in your browser. However, some of the services will not work if you have cookies disabled.
+
+Children
+
+Please note that we do not knowingly solicit information from children, and we do not knowingly market our products or services to children.
+
+Sharing the Information We Collect on our Web Site
+
+The information that you supply to Public Interest Registry through this site will never be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of Public Interest Registry, except when we have your express permission, or under special circumstances, such as when it is necessary to comply with legal process or protect the rights, property, or personal safety of Public Interest Registry, its customers, or the public.
+
+We may share aggregated demographic information with our business partners and the press. This is not linked to any personal data that can identify any individual person.
+
+Sharing Information with Our Partners
+
+Our trusted processors (vendors, subcontractors, and other similar business partners) are responsible for processing some of the personal data that we receive on our behalf. These processors are not authorized to use such personal data for purposes beyond those specified by us.
+
+Links and Third Party Collection
+
+Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the processing (e.g., collection, use and disclosure) of personal data we collect from you. To the extent that you disclose your personal data to other parties, whether they are registrars or other Web sites throughout the Internet, different rules may apply to their processing of the personal data you disclose to them. Since we do not control the privacy policies of third parties or endorse their products or policies, you are subject to the privacy customs and policies of that third party. We encourage users to be aware when they leave our site and to read the privacy statements of every Web site that collects personal data. 
+
+Security 
+
+Public Interest Registry takes strong precautions to protect information. When you submit personal data via our Web sites, or when registrars submit specifics about the domain name registration, as required by the ICANN contracts, your personal data is protected both online and offline.
+
+Furthermore, all of our users' personal data is access-restricted, and the servers on which we store personal data are kept in a secure environment.
+
+Message Boards and Other Communications
+
+Public Interest Registry is not responsible for maintaining as confidential any personal or other data posted by you on message boards hosted by our Web sites or otherwise communicated to this Web site and domain. Disclosing such personal data in this way makes this publicly available information unless expressly stipulated by Public Interest Registry.
+
+Site and Service Updates
+
+We may also send users site and service announcement updates. Users are not able to unsubscribe from these service announcements, which contain important information about the service. 
+
+Updating Personal Data
+
+If you are a domain name registrant and wish to update your domain account information, you should do so through the sponsoring registrar.
+
+If you are another type of user, personal data changes (such as change of address), or if you no longer desire our service, you may contact us by sending a message to [privacy@pir.org](mailto:privacy@pir.org)
+
+Contact Us
+
+If you have any questions about this privacy policy, please contact us at: [privacy@pir.org](mailto:privacy@pir.org)
+
+|  |   
+  
+  
+  
+| 
