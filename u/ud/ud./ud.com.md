@@ -1,16 +1,66 @@
-> *The following text is extracted and transformed from the ud.com privacy policy that was archived on 2000-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000818004046id_/http%3A//www.ud.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ud.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330192114id_/http%3A//www.ud.com/mission/howitworks/privacy.htm) for the most accurate reproduction.*
 
-# United Devices, Inc. (TM) - Privacy and Data Security Policy
+# How It Works : Member Privacy and Security - United Devices, Inc.™
 
-Privacy and Data Security  
+Member Privacy and Security  
+  
 
 
-United Devices understands that privacy is a serious concern for its Participants, and wants to be very clear regarding its policy on privacy issues. We want Participants to understand what information we collect, and how it will be used. First, you should understand that you can assist UD in accelerating science without providing information any more personal than your E-Mail address and zip code. No name or street address is required. We do, however, need certain basic information regarding your machine in order to run our projects, which we will obtain automatically when you download our software. Under no circumstances will your E-Mail address be provided to advertisers or any other third parties. Information about your machine may be provided to UD's customers (whose data your machine is processing), but will be released in aggregate form only, with no information to identify the individual owners of the machines. 
+[](https://www.truste.org/validate/10269) If you have questions or concerns regarding this statement, you should first contact [member services](https://web.archive.org/contact/member_services.htm). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-If you elect to enter our sweepstakes or participate in other incentive programs, you will need to provide additional information (name, address, and contact phone) so that the contests or promotions can be administered (if you won a prize we'd need to know how to find you!) But again, this information is for UD internal use only and under no circumstances would it be revealed to any advertiser or third party, other than our contest administrator - and they have agreed to abide by our policy as well. 
+Our Members have placed great trust in us to allow our project applications to run on their systems, and this is a trust we return and foster. United Devices understands that privacy is a serious concern for its Members. We don't want to be invasive on either a personal or technical level. Our agent runs unobtrusively in the computing background and is not invasive. And we treat our members with the highest level of personal respect: we don't open members up to security risks, unwanted spam, or invasion of privacy.
 
-You can request the individual information UD has collected about you via the Internet by E-Mailing [webmaster@ud.com](mailto:webmaster@ud.com). Any factual inaccuracies in this information may be corrected by contacting [webmaster@ud.com](mailto:webmaster@ud.com). 
+What We Collect from Members  
+  
 
-On our Web site, we utilize standard technology, commonly known as "cookies", to help us deliver a customized experience to Participants. Our primary use for cookies is to help us determine which service and support information is appropriate to your machine. Our use of this technology does not mean that we automatically know any information about you. Our use of cookies is designed only to provide you with a better experience when using our Web site. 
 
-If you have any questions or concerns regarding our policy, please contact us at [webmaster@ud.com](mailto:webmaster@ud.com). 
+When Members first register with us, we give them the opportunity to decide what kind of news and information, if any, they wish to receive from us. We also let Members change those preferences at any later date. We will not sell, rent, or in ANY way distribute a Member's name or email address to any third parties other than our promotions administrators to notify winners-and they also must keep that information private. 
+
+In order to run our projects, United Devices needs certain basic information regarding a Member's machine; our software detects this information automatically upon download. This information about a Member's machine may be provided to United Devices' customers or to certain companies we partner with, but will be released in aggregate form only, with no information to identify the individuals. 
+
+Neither United Devices and our customers will ever access any information on a Member computer or identify anything else for which you use your computer. 
+
+Members must complete the promotion registration section of the member registration to be legally entered into our sweepstakes or promotions. This information includes: first name; last name; street address; city; state; zip code; country; birth date; telephone (optional) and gender (optional). This information is used to assess eligibility and contact you if you win. 
+
+The United Devices web site provides members with a feature to send an e-mail message to a friend, telling them about United Devices. The recipients e-mail address is only used for sending the e-mail and is not stored. 
+
+The United Devices web site provides visitors with e-mail forms to send inquiries to various departments (Sales, Business Development, Public Relations, Events, Suggestions, Member Services and Technical Support). The information provided is only used to answer the inquiry or respond to the request. 
+
+Members are asked to create a member name when they install the UD Agent. This member name is maintained in the member registration form and used to identify each member on the UD web site and on any scoreboards. 
+
+Tracking Technology  
+  
+
+
+We use standard tracking technology on our Web site, commonly known as "cookies," to help us deliver a customized experience to Members. Our Web site will save a small temporary file on your computer only while you are visiting our site; it will be removed when you exit the United Devices Web site. Our primary use for cookies is to help us determine which service and support information is appropriate to a Member's machine. Our use of this technology does not mean that we automatically know any information about individual members-we don't. If you have questions or concerns regarding our policy, or if you want to request the individual information UD has collected about you via the Internet, contact us at [member services](https://web.archive.org/contact/member_services.htm). 
+
+The United Devices Member Policy  
+  
+
+
+  * United Devices assures Members that applications will not damage their systems or invade their privacy in any way.
+  * Members will always be told which applications (including commercial ones) are running on their computers. They also will have access to Web pages outlining which organizations are providing the applications and explaining projects that Member computers are working on.
+  * Members will be able to control how much of their system resources are used by United Devices.
+  * Members will have access to the information about which of their system's properties (e.g., CPU speed, memory size, etc.) are measured by the UD Agent and for what purpose this information will be used.
+  * While United Devices will store the e-mail addresses of all Members in its database for prize and promotion distribution, Members will be told of every instance where their e-mail addresses might be used and will be given the option to allow or disallow specific e-mail uses.
+  * United Devices may provide aggregate member information such as average computing power and geographic dispersion to distribution or application partners. Member specific information is only shared with our promotions administrators to notify winners-and they also must keep that information private. 
+  * Members will be given user preference options on a wide range of factors, including: 
+    * whether the program runs as a screensaver or an application 
+    * when computation and communication can be done
+    * whether connections should be made automatically
+    * which proxies and firewall settings to use
+  * The United Devices web site contains links to other web sites, this privacy statement applies only to the United Devices web site. Please review the privacy statement of any site before submitting your personally identifiable information. 
+  * Any change in information usage practices will be posted on this Privacy Statement. If there is a change in our information usage practices that affects your Personally Identifiable Information, we will notify you by e-mail and provide an opportunity for you to opt-out by sending a message to [member services](https://web.archive.org/contact/member_services.htm). 
+
+
+
+  
+  
+  
+[Member Services](http://members.ud.com/services/)  |  [Download](http://members.ud.com/download/)  |  [Tell A Friend](https://web.archive.org/mission/tell_a_friend.htm)  |  [Contact Us](https://web.archive.org/contact/)  
+  
+[Terms of Use](https://web.archive.org/legal/terms_of_use.htm)  |  [Privacy](https://web.archive.org/mission/howitworks/privacy.htm)   
+
+©2001 United Devices, Inc. All Rights Reserved.
+
+[](http://www.icra.org/labelv02.html)    [](https://web.archive.org/mission/howitworks/privacy.htm)
