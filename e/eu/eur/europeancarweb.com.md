@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the europeancarweb.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211191839id_/http%3A//europeancarweb.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeancarweb.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611071209id_/http%3A//www.europeancarweb.com/privacy.shtml) for the most accurate reproduction.*
 
 # European Car Magazine
-
-**_Privacy Policy_**
 
 Welcome to Primedia Automotive Group! Because we care about your personal privacy, we describe here our information gathering and dissemination practices. Remember, this policy applies only to our site. When you leave our site through linking to one of our advertisers or vendors, you should always check their privacy policies as they may differ from our own 
 
