@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403003915id_/http%3A//gop.com/gopinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205102347id_/http%3A//www.rnc.org/gopinfo/privacy) for the most accurate reproduction.*
 
-# Republican National Committee - Privacy Policy
+# GOP.com - Republican National Committee - Privacy Policy
 
 **www.rnc.org Privacy Policy**
 
