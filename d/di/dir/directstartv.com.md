@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209092011id_/http%3A//www.directstartv.com%3FMode123%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207033801id_/http%3A//www.directstartv.com/directv_privacy.html) for the most accurate reproduction.*
 
-# DirectStarTV - Your Best Source for DIRECTV!
+# DIRECTV Privacy Policy
 
 _This site is controlled and operated by DirectStarTV. Our highest priority is to ensure that your privacy is respected, that your transaction is secure, and that any data you provide to us is protected._
 
