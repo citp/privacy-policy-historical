@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the royalenfield.com privacy policy that was archived on 2003-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603185303id_/http%3A//www.royalenfield.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royalenfield.com privacy policy that was archived on 2004-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040213034715id_/http%3A//royalenfield.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Royal Enfield - Privacy Policy</title>
@@ -22,67 +22,56 @@ if (document.getElementById)
 </style>
 <link rel="stylesheet" href="./common/royalenfield.css"></head>
 
-<body text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#313131" stats="1">
+<body text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#313131">
 
 <script language="JavaScript" type="text/javascript">
 <!--
-function showlayer(id)
- {
- 	if(document.all)
+	function showlayer(id)
 	{
-	 	document.all["RE_"+id].style.visibility = "visible";
-	}
-	else
-	{
-		document.layers["RE_"+id].visibility = "visible";
-	}
- }
- function hidelayer()
- {
- 	if(document.all)
-	{
-		for(i=1;i<=3;i++)
-	 		document.all["RE_"+i].style.visibility = "hidden";
-	}
-	else
-	{
-		for(i=1;i<=3;i++)
-			document.layers["RE_"+i].visibility = "hidden";
-	}
- }		
- 
-/* function showlayer()
- {
- 	if(document.all)
- 	document.all["company"].style.visibility = "visible";
-	else
-	document.layers["company"].visibility = "visible";
- }
- function hidelayer()
- {
- 	if(document.all)
- 	document.all["company"].style.visibility = "hidden";
-	else
-	document.layers["company"].visibility = "hidden";
- }*/		
- 
- function NewsDetails(newsid,strmode)
+ 		if(document.all)
+		{
+	 		document.all["RE_"+id].style.visibility = "visible";
+		}
+		else if(document.layers)
+		{
+			document.layers["RE"+id].visibility = "visible";
+		}
+		else if(document.getElementById && !document.all)
+		{
+			document.getElementById("RE_"+id).style.visibility = "visible";
+		}
+ 	}
+ 	function hidelayer()
+ 	{
+ 		if(document.all)
+		{
+			for(i=1;i<=3;i++)
+	 			document.all["RE_"+i].style.visibility = "hidden";
+		}
+		else if(document.layers)
+		{
+			for(i=1;i<=3;i++)
+				document.layers["RE"+i].visibility = "hidden";
+		}
+		else if(document.getElementById && !document.all)
+		{
+			for(i=1;i<=3;i++)
+	 			document.getElementById("RE_"+i).style.visibility = "hidden";
+		}
+	}		
+  	function NewsDetails(newsid,strmode)
 	{
 		document.location= "NewsDetails.asp?Newsid=" + newsid + "&Mode=" + strmode;
-		//window.open(page,'','toolbar=no,menubar=no,top=0,left=0,resizable=yes,scrollbars=yes,width=770')
 	}
-	
- 
-function NewsDetailsnew(newsid,strmode)
-{
-	//var page = "news/NewsDetails.asp?Newsid=" + newsid + "&Mode=" + strmode;
-	document.location = "./NewsDetails.asp?Newsid=" + newsid + "&Mode=" + strmode;
-//	window.open(page,'','toolbar=no,menubar=no,top=0,left=0,resizable=yes,scrollbars=yes,width=770')
-}
-function MM_openBrWindow(theURL,winName,features) 
-{ //v2.0
-  window.open(theURL,winName,features);
-}
+
+	function NewsDetailsnew(newsid,strmode)
+	{
+		document.location = "./NewsDetails.asp?Newsid=" + newsid + "&Mode=" + strmode;
+	}
+	function MM_openBrWindow(theURL,winName,features) 
+	{ //v2.0
+  		window.open(theURL,winName,features);
+	}
 //-->
 </script>
 <div id="Layer" style="LEFT:0px; POSITION:absolute; TOP:0px; VISIBILITY:Visible; Z-INDEX:1;">
@@ -134,205 +123,102 @@ return place;
 resolution =screen.width
 //Detect User Browser ends
 
-document.write('<img src="http://www.royalenfield.com/tracking/stream.asp?http_referer=&path_info=%2Fprivacy%2Easp&resolution='+resolution+'&BrowserInfo='+escape(browser)+'&BrowserVersion='+version+'&BrowserOS='+OS+'&actualPath='+escape(document.location)+'&link_id=" width=1 height=1>')
+
+if(document.location == "http://www.royalenfield.com/")
+	doc_location = "http://www.royalenfield.com/index.asp"
+else
+	doc_location = document.location
+
+document.write('<img src="http://www.royalenfield.com/tracking/stream.asp?http_referer=&path_info=%2Fprivacy%2Easp&resolution='+resolution+'&BrowserInfo='+escape(browser)+'&BrowserVersion='+version+'&BrowserOS='+OS+'&actualPath='+escape(doc_location)+'&link_id=" width=1 height=1>')
 //-->
-</script><img src="http://www.royalenfield.com/tracking/stream.asp?http_referer=&amp;path_info=%2Fprivacy%2Easp&amp;resolution=800&amp;BrowserInfo=Netscape%20Navigator&amp;BrowserVersion=5&amp;BrowserOS=Linux&amp;actualPath=https%3A//web.archive.org/web/20030603185303id_/http%253A//www.royalenfield.com/privacy.asp&amp;link_id=" width="1" height="1">
+</script><img src="http://www.royalenfield.com/tracking/stream.asp?http_referer=&amp;path_info=%2Fprivacy%2Easp&amp;resolution=800&amp;BrowserInfo=Netscape%20Navigator&amp;BrowserVersion=5&amp;BrowserOS=Linux&amp;actualPath=https%3A//web.archive.org/web/20040213034715id_/http%253A//royalenfield.com/privacy.asp&amp;link_id=" width="1" height="1">
 </div>
+
 <table cellpadding="0" cellspacing="0" border="0" width="779" bgcolor="#000000">
-<tbody><tr><td><img src="./images/b3b3b3.gif" border="0" width="126" height="1"></td>
-	<td><img src="./images/b3b3b3.gif" border="0" width="653" height="1"></td>
-	<td rowspan="6" bgcolor="#5A5757"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr><td width="126" rowspan="4"><a href="index.asp"><img src="./images/hlogo.gif" border="0"></a></td>
-	<td align="right" class="greytext"><img src="./images/b3b3b3.gif" border="0" width="1" height="5"></td>
-</tr>
-<tr>
-	<td align="right">
-	<img src="./images/toplink.gif" width="248" height="10" border="0" usemap="#toplink_Map">
-	<map name="toplink_Map">
-	<area shape="rect" alt="" coords="126,0,248,9" href="contact.asp">
-	<area shape="rect" alt="" coords="45,0,109,9" href="downloads.asp">
-	<area shape="rect" alt="" coords="0,0,28,10" href="links.asp">
-	</map>&nbsp;&nbsp;
-	</td>
-</tr>
-<tr><td><img src="./images/b3b3b3.gif" border="0" width="1" height="12"></td></tr>
-
-<tr>
-	<td align="right" valign="bottom"><a href="index.asp"><img src="./images/homelink.gif" border="0"></a><img src="images/logi.gif" border="0" usemap="#logi">	
-	<map name="logi">
-<area alt="" coords="2,0,54,9" href="products.asp" onmouseover="javascript:showlayer(3)" onmouseout="javascript:hidelayer()">
-<area alt="" coords="72,0,134,9" href="community.asp" onmouseover="javascript:showlayer(2)" onmouseout="javascript:hidelayer()">
-<area alt="" coords="152,0,199,9" href="corporate.asp" onmouseover="javascript:showlayer(1)" onmouseout="javascript:hidelayer()">
-<area alt="" coords="212,0,255,9" href="dealersearch.asp">
-<area alt="" coords="272,0,315,9" href="rentals.asp">
-<area alt="" coords="332,0,367,8" href="touroperator.asp">
-<area alt="" coords="385,0,412,8" href="searchnews.asp">
-<area alt="" coords="426,0,458,9" href="login.asp">
-</map>&nbsp;&nbsp;
-	</td>
-</tr>
-
-<tr>
-	<td colspan="2"><img src="./images/b3b3b3.gif" border="0" width="1" height="5"></td>
-</tr>
+	<tbody><tr><td><img src="./images/b3b3b3.gif" border="0" width="126" height="1"></td>
+		<td rowspan="2"><img src="./images/b3b3b3.gif" border="0" width="443" height="1"></td>
+		<td rowspan="6" bgcolor="#5A5757"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="126" rowspan="4"><a href="index.asp"><img src="./images/hlogo.gif" border="0"></a></td>
+	</tr>
+	<tr><td align="right" class="whitetxt"><a href="parking.asp" class="whitetxt" target="_parent">My Parking Space</a>&nbsp;|&nbsp;
+		<a href="links.asp" class="whitetxt" target="_parent">Links</a>&nbsp;|&nbsp;
+		<a href="downloads.asp" class="whitetxt" target="_parent">Downloads</a>&nbsp;|&nbsp;
+		<a href="contact.asp" class="whitetxt" target="_parent">Royal Enfield Support</a>&nbsp;&nbsp;
+		</td>
+	</tr>
+	<tr><td><img src="./images/b3b3b3.gif" border="0" width="1" height="8"></td></tr>
+	<tr><td align="right" class="whitetxt"><a href="index.asp" class="whitetxt">Home</a>&nbsp;|&nbsp;
+		<a href="india_products.asp" class="whitetxt" onmouseover="javascript:showlayer(2)" onmouseout="javascript:hidelayer()">Products</a>&nbsp;|&nbsp;
+		<a href="community.asp" class="whitetxt" onmouseover="javascript:showlayer(3)" onmouseout="javascript:hidelayer()">Community</a>&nbsp;|&nbsp;
+		<a href="corporate.asp" class="whitetxt" onmouseover="javascript:showlayer(1)" onmouseout="javascript:hidelayer()">Company</a>&nbsp;|&nbsp;
+		<a href="careers.asp" class="whitetxt" target="_parent">Careers</a>&nbsp;|&nbsp;
+		<a href="dealersearch.asp" class="whitetxt" target="_parent">Dealers</a>&nbsp;|&nbsp;
+		<a href="rentals.asp" class="whitetxt" target="_parent">Rentals</a>&nbsp;|&nbsp;
+		<a href="touroperator.asp" class="whitetxt" target="_parent">Tours</a>&nbsp;|&nbsp;
+		
+		<a href="searchnews.asp" class="whitetxt">News</a>&nbsp;&nbsp;
+			
+	</td></tr>
+	<tr><td colspan="2"><img src="./images/b3b3b3.gif" border="0" width="1" height="2"></td></tr>
 </tbody></table>
 
-<script language="JavaScript" type="text/javascript">
-<!--
-if(document.all)
-document.write("<div id='RE_1' style='position:absolute;top:50px;left:368px;visibility:hidden' onmouseover='javascript:showlayer(1)' onmouseout='javascript:hidelayer()'>")
-else
-document.write("<layer id='RE_1' top='51' left='368' visibility='hide' onmouseover='javascript:showlayer(1)' onmouseout='javascript:hidelayer()'>")
-//-->
-</script><layer id="RE_1" top="51" left="368" visibility="hide" onmouseover="javascript:showlayer(1)" onmouseout="javascript:hidelayer()">
+<div id="RE_1" style="position:absolute;top:47px;left:422px;visibility:hidden;z-index:321" onmouseover="javascript:showlayer(1)" onmouseout="javascript:hidelayer()">
+<layer id="RE1" top="47px" left="428" visibility="hide" z-index="321" onmouseover="javascript:showlayer(1)" onmouseout="javascript:hidelayer()">
 <table cellpadding="0" cellspacing="0" border="0" width="130">
-<tbody><tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="5"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="history.asp" class="tshirt">History</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="eicher.asp" class="tshirt">Eicher Group</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="searchnews.asp" class="tshirt">Royal Enfield News</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="media_relations.asp" class="tshirt">Media Relations</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="business_opp.asp" class="tshirt">Business Opportunity</a>&nbsp;</td>
-</tr>
+	<tbody><tr><td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="7"></td></tr>
+	<tr><td bgcolor="#808080" class="whitetxt" height="17" align="right"><a href="history.asp" class="whitetxt">History</a>&nbsp;</td></tr>
+	<tr><td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td></tr>
+	<tr><td bgcolor="#808080" class="whitetxt" height="17" align="right"><a href="eicher.asp" class="whitetxt">Eicher Group</a>&nbsp;</td></tr>
 </tbody></table>
-<script language="JavaScript" type="text/javascript">
-<!--
-if(document.all)
-document.write("</div>")
-else
-document.write("</layer>")
-//-->
-</script></layer>
+</layer>
+</div>
 
-
-<script language="JavaScript" type="text/javascript">
-<!--
-if(document.all)
-document.write("<div id='RE_2' style='position:absolute;top:50px;left:340px;visibility:hidden' onmouseover='javascript:showlayer(2)' onmouseout='javascript:hidelayer()'>")
-else
-document.write("<layer id='RE_2' top='51' left='340' visibility='hide' onmouseover='javascript:showlayer(2)' onmouseout='javascript:hidelayer()'>")
-//-->
-</script><layer id="RE_2" top="51" left="340" visibility="hide" onmouseover="javascript:showlayer(2)" onmouseout="javascript:hidelayer()">
-<table cellpadding="0" cellspacing="0" border="0" width="95">
-<tbody><tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="5"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="bullet_in_board.asp" class="tshirt">Bullet-in Board</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="theride.asp" class="tshirt">The Ride</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="sharetheride.asp" class="tshirt">Ride Contest</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="http://www.reds.royalenfield.com" class="tshirt" target="_blank">REDS</a>&nbsp;</td>
-</tr>
-</tbody></table>
-<script language="JavaScript" type="text/javascript">
-<!--
-if(document.all)
-document.write("</div>")
-else
-document.write("</layer>")
-//-->
-</script></layer>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-if(document.all)
-document.write("<div id='RE_3' style='position:absolute;top:50px;left:228px;visibility:hidden' onmouseover='javascript:showlayer(3)' onmouseout='javascript:hidelayer()'>")
-else
-document.write("<layer id='RE_3' top='51' left='228' visibility='hide' onmouseover='javascript:showlayer(3)' onmouseout='javascript:hidelayer()'>")
-//-->
-</script><layer id="RE_3" top="51" left="228" visibility="hide" onmouseover="javascript:showlayer(3)" onmouseout="javascript:hidelayer()">
+<div id="RE_2" style="position:absolute;top:47px;left:299px;visibility:hidden;z-index:1" onmouseover="javascript:showlayer(2)" onmouseout="javascript:hidelayer()">
+<layer id="RE2" top="47px" left="301" visibility="hide" onmouseover="javascript:showlayer(2)" onmouseout="javascript:hidelayer()">
 <table cellpadding="0" cellspacing="0" border="0" width="135">
-<tbody><tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="5"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="products.asp" class="tshirt">Indian Models</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="products.asp" class="tshirt">International Models</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="discbrake.asp" class="tshirt">Disk Brake Kit</a>&nbsp;</td>
-</tr>
-<tr>
-	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="bikecover.asp" class="tshirt">Motorcycle Cover</a>&nbsp;</td>
-</tr>
+	<tbody><tr><td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="7"></td></tr>
+	<tr><td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="india_products.asp" class="whitetxt">Indian Models</a>&nbsp;</td></tr>
+	<tr><td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td></tr>
+	<tr><td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="international.asp" class="whitetxt">International Models</a>&nbsp;</td></tr>
+	<tr><td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td></tr>
+	<tr><td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="home_track.asp?category=Add+on+Kit+Top&amp;page=addon.asp" class="whitetxt">Add on Kits</a>&nbsp;</td></tr>
 </tbody></table>
-<script language="JavaScript" type="text/javascript">
-<!--
-if(document.all)
-document.write("</div>")
-else
-document.write("</layer>")
-//-->
-</script></layer>
+</layer>
+</div>
 
+<div id="RE_3" style="position:absolute;top:47px;left:402px;visibility:hidden;z-index:1" onmouseover="javascript:showlayer(3)" onmouseout="javascript:hidelayer()">
+<layer id="RE3" top="47px" left="407" visibility="hide" onmouseover="javascript:showlayer(3)" onmouseout="javascript:hidelayer()">
 
+<table cellpadding="0" cellspacing="0" border="0" width="95">
+	<tbody><tr><td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="7"></td></tr>
+	<tr><td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="bullet_in_board.asp" class="whitetxt">Bullet-in Board</a>&nbsp;</td></tr>
+	<tr><td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td></tr>
+	<tr><td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="theride.asp" class="whitetxt">The Ride</a>&nbsp;</td></tr>
+	<tr><td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td></tr>
+	<tr><td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="http://www.reds.royalenfield.com" class="whitetxt" target="_blank">REDS</a>&nbsp;</td></tr>
+</tbody></table>
+ </layer>
+</div>
 
 <table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-	<tbody><tr><td bgcolor="#999999" colspan="3" height="22" class="bheader">&nbsp;&nbsp;Privacy Policy</td></tr>
+	<tbody><tr><td bgcolor="#999999" colspan="3" height="22" class="txtblack">&nbsp;&nbsp;<b>Privacy Policy</b></td></tr>
 	<tr><td bgcolor="#ffffff" colspan="3"><img src="./images/b3b3b3.gif" width="1" height="1"></td></tr>
 	<tr>
 		<td rowspan="2"><img src="./images/b3b3b3.gif" border="0" width="5" height="1"></td>
-        <td class="prodcopy"><br>
-			<font class="redhd"></font><p align="justify"><font class="redhd">What this Privacy Policy covers</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-			<font class="prodcopy">This Privacy Policy covers Royal Enfield's treatment of personally identifiable information that Royal Enfield collects when you are on the site.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-			This policy does not apply to the practices of companies that Royal Enfield does not own or control, or to people that Royal Enfield does not employ or manage.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br></font>
-			<font class="redhd">Information Collection and Usage</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-			<font class="prodcopy">Royal Enfield collects personally identifiable information when you register through the site and when you enter online promotions and contests. Royal Enfield may also receive personally identifiable information from business partners.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+        <td class="bodytxt"><br>
+			<p align="justify"><b>What this Privacy Policy covers</b><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+			This Privacy Policy covers Royal Enfield's treatment of personally identifiable information that Royal Enfield collects when you are on the site.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+			This policy does not apply to the practices of companies that Royal Enfield does not own or control, or to people that Royal Enfield does not employ or manage.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+			<b>Information Collection and Usage</b><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+			Royal Enfield collects personally identifiable information when you register through the site and when you enter online promotions and contests. Royal Enfield may also receive personally identifiable information from business partners.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
 			When you register with Royal Enfield, we ask for your Name, Email address, Address, Zip Code, Birth date, Gender, Occupation, and bike ownership details. Once you register with Royal Enfield and sign in to our services, you are not anonymous to us.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
 			Royal Enfield also automatically receives and records information on our server logs from your browser including your IP address, cookie information and the page you requested.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-			Royal Enfield uses information for two general purposes: to fulfill your requests for certain information, and to contact you about the latest info and new products.</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-			<font class="redhd">Information Sharing and Disclosure</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-			<font class="prodcopy">Royal Enfield will not sell or rent your personally identifiable information to anyone.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-			Royal Enfield will only send personally identifiable information about you to other companies or people when:<br><img src="./images/b3b3b3.gif" width="1" height="10"><br></font>
+			Royal Enfield uses information for two general purposes: to fulfill your requests for certain information, and to contact you about the latest info and new products.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+			<b>Information Sharing and Disclosure</b><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+			Royal Enfield will not sell or rent your personally identifiable information to anyone.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+			Royal Enfield will only send personally identifiable information about you to other companies or people when:<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
 		</p></td>
 		<td rowspan="2"><img src="./images/b3b3b3.gif" border="0" width="5" height="1"></td>				
     </tr>
@@ -340,43 +226,43 @@ document.write("</layer>")
         <td>
 			<table cellpadding="0" cellspacing="0" border="0" width="770">
             	<tbody><tr>
-					<td class="prodcopy" valign="top" align="center" height="15"><img src="./images/b1.gif"></td>
+					<td class="bodytxt" valign="top" align="center" height="15"><img src="./images/b1.gif"></td>
 					<td rowspan="5"><img src="./images/b3b3b3.gif" border="0" width="5" height="1"></td>				
-					<td class="prodcopy" valign="top">We have your consent to share the information;</td>
+					<td class="bodytxt" valign="top">We have your consent to share the information;</td>
 				</tr>
 				<tr>
-					<td class="prodcopy" valign="top" align="center" height="15"><img src="./images/b1.gif"></td>
-					<td class="prodcopy" valign="top"><p align="justify">We need to share the information with business partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues);</p></td>
+					<td class="bodytxt" valign="top" align="center" height="15"><img src="./images/b1.gif"></td>
+					<td class="bodytxt" valign="top"><p align="justify">We need to share the information with business partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues);</p></td>
 				</tr>
 				<tr>
-					<td class="prodcopy" valign="top" align="center" height="35"><img src="./images/b1.gif"></td>
-					<td class="prodcopy" valign="top">We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;</td>
+					<td class="bodytxt" valign="top" align="center" height="35"><img src="./images/b1.gif"></td>
+					<td class="bodytxt" valign="top">We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;</td>
 				</tr>
 				<tr>
-					<td class="prodcopy" valign="top" align="center" height="20"><img src="./images/b1.gif"></td>
-					<td class="prodcopy" valign="top">We respond to subpoenas, court orders or legal process; or</td>
+					<td class="bodytxt" valign="top" align="center" height="20"><img src="./images/b1.gif"></td>
+					<td class="bodytxt" valign="top">We respond to subpoenas, court orders or legal process; or</td>
 				</tr>
 				<tr>
-					<td class="prodcopy" valign="top" align="center" height="25"><img src="./images/b3b3b3.gif" width="1" height="4"><br><img src="./images/b1.gif"></td>
-					<td valign="top"><font class="prodcopy">We find that your actions on our web sites violate the</font> <font class="redlink"><a href="term.asp" class="redlink">Royal Enfield Terms of Service</a></font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br></td>
+					<td class="bodytxt" valign="top" align="center" height="25"><img src="./images/b3b3b3.gif" width="1" height="4"><br><img src="./images/b1.gif"></td>
+					<td valign="top" class="bodytxt">We find that your actions on our web sites violate the <a href="term.asp" class="lnkul">Royal Enfield Terms of Service</a><br><img src="./images/b3b3b3.gif" width="1" height="10"><br></td>
 				</tr>
-				<tr><td colspan="3" class="redhd">Our use of "cookies"<br><img src="./images/b3b3b3.gif" width="1" height="10"><br></td></tr>
+				<tr><td colspan="3" class="bodyhdr">Our use of "cookies"<br><img src="./images/b3b3b3.gif" width="1" height="10"><br></td></tr>
 				<tr>
-					<td colspan="3"><p align="justify">
-						<font class="prodcopy">As is the case with many sites, when you visit our site and complete a registration form, we will place a "cookie" on your computer, which helps us identify you more quickly when you return. We will not use "cookies" or other devices to follow your click stream on the Internet generally, but will use them, and other devices, to determine which pages or information you find most useful or interesting at our own Web sites.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						Most browsers permit you to refuse to accept a "cookie" offered by a Web site. You will not be denied access to any part of royalenfield.com on account of your refusal to accept a "cookie," but your transactions through this Web site may be delayed due to the time it takes you to re-enter basic information necessary to complete a transaction.</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="redhd">Collection of information by third parties</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="prodcopy">Our Web pages may offer promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain Customer Identifiable Information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information and we encourage you to consult their privacy policies for more information on their privacy practices.</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="redhd">Security</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="prodcopy">Your Royal Enfield Account Information is password-protected for your privacy and security.</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="redhd">Links</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="prodcopy">To improve your Web experience, and to offer you products in which you might be interested, we provide links to business alliance companies, Royal Enfield dealers, and other third-party sites. When you click on these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that you selected. Because Royal Enfield does not control these sites (even if an affiliation exists between our Web sites and a third party site), you are encouraged to review their individual privacy notices. If you visit a Web site that is linked to our sites, you should consult that site's privacy policy before providing any Customer Identifiable Information.</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="redhd">How to contact us</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="prodcopy">If you have questions about our Privacy Policy or its application, please feel free to <a href="contact.asp" class="redlink">contact us</a>.</font><br><font class="redlink"></font><br><img src="./images/b3b3b3.gif" border="0" width="1" height="3"><br>
-						<font class="redhd">Changes to this privacy policy</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="prodcopy">Royal Enfield may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="redhd">Questions or Suggestions</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
-						<font class="prodcopy">If you have questions or suggestions, please <a href="contact.asp" class="redlink">click here</a> to send us an email.</font><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+					<td class="bodytxt" colspan="3"><p align="justify">
+						As is the case with many sites, when you visit our site and complete a registration form, we will place a "cookie" on your computer, which helps us identify you more quickly when you return. We will not use "cookies" or other devices to follow your click stream on the Internet generally, but will use them, and other devices, to determine which pages or information you find most useful or interesting at our own Web sites.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+						Most browsers permit you to refuse to accept a "cookie" offered by a Web site. You will not be denied access to any part of royalenfield.com on account of your refusal to accept a "cookie," but your transactions through this Web site may be delayed due to the time it takes you to re-enter basic information necessary to complete a transaction.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+						<b>Collection of information by third parties</b><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+Our Web pages may offer promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain Customer Identifiable Information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information and we encourage you to consult their privacy policies for more information on their privacy practices.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+<b>Security</b><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+						Your Royal Enfield Account Information is password-protected for your privacy and security.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+						<b>Links</b><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+						To improve your Web experience, and to offer you products in which you might be interested, we provide links to business alliance companies, Royal Enfield dealers, and other third-party sites. When you click on these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that you selected. Because Royal Enfield does not control these sites (even if an affiliation exists between our Web sites and a third party site), you are encouraged to review their individual privacy notices. If you visit a Web site that is linked to our sites, you should consult that site's privacy policy before providing any Customer Identifiable Information.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+						<b>How to contact us</b><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+						If you have questions about our Privacy Policy or its application, please feel free to <a href="contact.asp" class="lnkul">contact us</a><br><img src="./images/b3b3b3.gif" border="0" width="1" height="3"><br>
+						<b>Changes to this privacy policy</b><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+						Royal Enfield may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+<b>Questions or Suggestions</b><br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
+						If you have questions or suggestions, please <a href="contact.asp" class="lnkul">click here</a> to send us an email.<br><img src="./images/b3b3b3.gif" width="1" height="10"><br>
 					</p></td>
 				</tr>
             </tbody></table>
@@ -385,16 +271,14 @@ document.write("</layer>")
 	
 	
 </tbody></table>
-
 <table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-	<tbody><tr><td bgcolor="#ACABAB" colspan="2"><img src="./images/b3b3b3.gif" width="775" height="1"></td></tr>
+	<tbody><tr><td bgcolor="#e6e6e6" colspan="2"><img src="./images/b3b3b3.gif" width="775" height="1"></td></tr>
 	<tr><td colspan="2"><img src="./images/b3b3b3.gif" width="775" height="3"></td></tr>
-  	<tr><td valign="top" class="tshirt">&nbsp;&nbsp;<a href="privacy.asp" class="tshirt"><font color="#999999">Privacy Policy</font></a>&nbsp;&nbsp;<font color="#999999">|</font>&nbsp;&nbsp;<a href="term.asp" class="tshirt"><font color="#999999">Terms and Conditions</font></a></td>
-    	<td valign="top" align="right" class="tshirt"><font color="#999999">© Royal Enfield. All rights reserved&nbsp;&nbsp;</font></td>
+  	<tr><td valign="top" class="bodytxt">&nbsp;&nbsp;<a href="privacy.asp" class="lnknormal"><font color="#999999">Privacy Policy</font></a>&nbsp;&nbsp;<font color="#999999">|&nbsp;&nbsp;<font color="#999999"></font><a href="term.asp" class="lnknormal"><font color="#999999">Terms and Conditions</font></a></font></td>
+    	<td valign="top" align="right" class="bodytxt"><font color="#999999">© Royal Enfield. All rights reserved&nbsp;&nbsp;</font></td>
   	</tr>
 	<tr><td colspan="2"><img src="./images/b3b3b3.gif" width="775" height="3"></td></tr>
 </tbody></table>
-
 
 
 
