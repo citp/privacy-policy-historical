@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2004-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040417135637id_/http%3A//www.sputnik.com/sitestuff/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233814id_/http%3A//www.sputnik.com/sitestuff/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,27 +8,29 @@ SITE SEARCH
   
 ---  
   
+WHAT THEY’RE SAYING
+
 WHAT'S NEW
 
-April 8, 2004 —  
-“Sputnik, which appears to have created one of the best value propositions for Community LANs, has upped the ante with a $250 outdoor AP, the Sputnik AP 200,” or so says [Daily Wireless](http://www.dailywireless.org/modules.php?name=News&file=article&sid=2343). (Thanks!) Nice mentions of our new long-range AP in [Wi-Fi Networking News](http://wifinetnews.com/archives/003189.html), [Wireless Warrior](http://www.wireless-warrior.org/board/viewtopic.php?p=1611) and [Wi-Fi Planet](http://products.wi-fiplanet.com/wifi/access_point/1081360487.html).
+December 1, 2004 —  
+Sputnik and Gemtek Systems announce the [Sputnik AP 220](https://web.archive.org/newsroom/releases/pr041201.html), a carrier-grade access point based on Gemtek hardware and Sputnik software.
 
-April 7, 2004 —  
-Wi-Fi that goes for miles: the new rugged, high-powered [Sputnik AP 200](https://web.archive.org/products/aps/ap200.html) works outside in all weather conditions. To go with it, we’re offering a [whole range](https://web.archive.org/products/aps/accessories.html) (pun intended) of directional and omni-directional antennas. Here’s the [press release](https://web.archive.org/newsroom/releases/pr040407.html).
+November 8, 2004 —  
+Sputnik is [exclusive Wi-Fi provider](https://web.archive.org/newsroom/releases/pr041108.html) at leading conference on higher education technology.
 
-March 11, 2004 —  
-The word is out! Our [new products](https://web.archive.org/products/index.html) get some pickup in the [Daily Wireless](http://dailywireless.org//modules.php?name=News&file=article&sid=2200&src=rss10), [Wi-Fi Networking News](http://wifinetnews.com/archives/003052.html), [Sifry’s Alerts](http://www.sifry.com/alerts/archives/000335.html), [Yahoo! Finance](http://biz.yahoo.com/bw/040310/105169_1.html), [Boing Boing](http://boingboing.net/2004_03_01_archive.html#107896669568647380) and the [Wireless Warrior](http://www.wireless-warrior.org/board/viewtopic.php?p=1436#1436).
+October 25, 2004 —  
+Sputnik hosts African King on [Wi-Fi fact finding](https://web.archive.org/newsroom/releases/pr041025.html) mission.
 
-March 10, 2004 —  
-Meet the [Sputnik AP 160](https://web.archive.org/products/aps/ap160.html), the newest, smartest member of our AP family. Also new, the [Sputnik Plug-In for Pre-Paid Cards](https://web.archive.org/products/scc/plug_prepay.html). Read our [press release](https://web.archive.org/newsroom/releases/pr040309.html).
+September 27, 2004 —  
+Bloggers [Doc](http://garage.docsearls.com/node/view/461) and [Dave](http://www.sifry.com/alerts/archives/000382.html) are not immune to the charms of Sputnik’s new products.
 
-February 5, 2004 —  
-[Wi-Fi Networking News](http://wifinetnews.com/archives/002900.html) details how 3rd Wave uses Sputnik Access Points to set up[ managed wireless hotspots](http://www.3rdwavehotspot.com/) in 30 minutes.
+September 22, 2004 —  
+The [Daily Wireless](http://dailywireless.org//modules.php?name=News&file=article&sid=3067),[ Wi-Fi Networking News](http://wifinetnews.com/archives/004147.html), and [Wi-Fi Planet](http://www.wi-fiplanet.com/news/article.php/3410781) pick up on Sputnik’s new offerings.
 
-February 3, 2004 —  
-[PC Magazine](http://www.pcmag.com/article2/0,4149,1503824,00.asp) and the [Atlanta Journal-Constitution](http://www.ajc.com/thursday/content/epaper/editions/thursday/city_life_04e02de436cd61c9006f.html) cover Sputnik customer [3rd Wave](https://web.archive.org/partners/customers.html#3rdwave) as they [unwire the city of Atlanta](http://www.3rdwavehotspot.com/) with Sputnik Access Points. Way to go, guys!
+September 21, 2004 —  
+Announcing Sputnik Control Center [version 3.0](https://web.archive.org/products/scc/cc.html), a major upgrade, and [SputnikNet](https://web.archive.org/products/sputniknet.html), our hosted version. To celebrate, we’ve slashed the price of the [Sputnik AP 160](https://web.archive.org/products/aps/ap160.html) to $99!
 
-[More news . . . ](https://web.archive.org/aboutus/pressclips.html)  
+[More news . . . ](https://web.archive.org/newsroom/clips.html)  
   
 Sputnik is strongly committed to the confidentiality of your personally identifiable information and has instituted certain protective measures to protect such information, including the adoption of the following Privacy Policy, which describes the personally identifiable information that Sputnik collects about you at this Site and how Sputnik uses and protects such information.
 
