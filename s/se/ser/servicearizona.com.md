@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224003431id_/http%3A//www.servicearizona.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405002954id_/http%3A//servicearizona.com/privacy.html) for the most accurate reproduction.*
 
 # ServiceArizona: Privacy Policy
 
@@ -85,6 +85,6 @@ Neither the State of Arizona, nor any State agency, officer, employee, or contra
 Contact Information  
 
 
-If you have any questions about the information presented in this Privacy Policy, please contact Webmaster at: servariz@stormy.clearlake.ibm.com 
+If you have any questions about the information presented in this Privacy Policy, please contact the Webmaster at [servicearizona@clearlake.ibm.com](mailto:servicearizona@clearlake.ibm.com?Subject=PrivacyPolicy)
 
 * * *
