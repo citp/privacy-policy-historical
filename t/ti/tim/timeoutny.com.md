@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193741id_/http%3A//www.timeoutny.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204221132id_/http%3A//www.timeoutny.com/privacy.html) for the most accurate reproduction.*
 
 # Time Out New York []
 
 **Our privacy policy**
 
-_Time Out New York ("TONY")_ has always promised to serve its audience with integrity and honesty. The same is true now that we publish online. _TONY_ has developed this privacy policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for www.timeoutny.com (the "site"). By visiting the site, you are accepting the practices described in this privacy policy. Our site will develop and evolve over time, and this policy may change to reflect that. 
+_Time Out New York ("TONY")_ has always promised to serve its audience with integrity and honesty. The same is true now that we publish online. _TONY_ has developed this privacy policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for www.timeoutny.com (the "site"). By visiting the site, you are accepting the practices described in this privacy policy. Our site will develop and evolve over time, and this policy may change to reflect that.
+
+In addition, _Time Out New York_ supports the Consumer WebWatch guidelines to promote credible information practices on the Web. For more information, [click here](http://www.consumerwebwatch.org/bestpractices/index.html).
 
 **The _TONY_ privacy promise**
 
@@ -40,8 +42,6 @@ The _TONY_ Personals section is operated by Spring Street Networks. Spring Stree
 
 The _TONY_ Hotel reservations listings section is operated by 1-800-USAhotels.com. 1-800-USAhotels.com's privacy policy governs the use of personal information you provide at the Hotel reservations listings site. You may review 1-800-USAhotels.com.com's privacy policy at [http://resserver5.vtstravel.com/cgi/ Hotel.exe/HotelList?New%20York_767741](http://resserver5.vtstravel.com/cgi/Hotel.exe/HotelList?New%20York_767741) and clicking on "Privacy Policy" in the footer of the page.
 
-The _TONY_ Real estate listings section is operated by MLX.com. MLX.com's terms of use governs the use of personal information you provide at the Real estate listings site. You may review MLX.com's terms of use at [http://www.mlx.com/index.cfm? page_frame=tony&action=home&subaction=termsofuse](http://www.mlx.com/index.cfm?page_frame=tony&action=home&subaction=termsofuse).
-
 The _TONY_ restaurant reservations section is operated by OpenTable. OpenTable's privacy policy governs the use of personal information you provide at the OpenTable site. You may review OpenTable's privacy policy at <http://www.opentable.com/info/helpindex.asp>.
 
 3\. On occasion, _TONY_ sponsors special promotions, sweepstakes and contests that are hosted by partner websites, which may require that your browser accept cookies. 
@@ -56,7 +56,7 @@ _TONY_ has invested, and will continue to invest, in the best-quality security a
 
 **Accessing your personal information**
 
-If you wish to review any personal information that _TONY_ maintains about you, please mail your request and a self-addressed, stamped envelope to: Privacy Request, _Time Out New York,_ 627 Broadway, seventh floor, New York, NY 10012. If you prefer, you may e-mail [privacy@timeoutny.com](mailto:privacy@timeoutny.com).
+If you wish to review any personal information that _TONY_ maintains about you, please mail your request and a self-addressed, stamped envelope to: Privacy Request, _Time Out New York,_ 475 Tenth Avenue, 12th floor, New York, NY 10018. If you prefer, you may e-mail [privacy@timeoutny.com](mailto:privacy@timeoutny.com).
 
 **Unsubscribing to** ** _TONY_** **e-mail**
 
@@ -72,4 +72,4 @@ This policy is effective as of October 14, 2002. _TONY_ may change this policy a
 
 **Contact us**
 
-You can contact _TONY_ regarding this policy either by mail, at _Time Out New York,_ 627 Broadway, seventh floor, New York, NY 10012, Attention: Webmaster, or by e-mail at [privacy@timeoutny.com](mailto:privacy@timeoutny.com). If you would like to review the material about you that we have collected via our site, please mail a self-addressed, stamped envelope to: _Time Out New York,_ 627 Broadway, seventh floor, New York, NY 10012, Attention: Webmaster.
+You can contact _TONY_ regarding this policy either by mail, at _Time Out New York,_ 475 Tenth Avenue, 12th Floor, New York, NY 10018, Attention: Webmaster, or by e-mail at [privacy@timeoutny.com](mailto:privacy@timeoutny.com). If you would like to review the material about you that we have collected via our site, please mail a self-addressed, stamped envelope to: _Time Out New York,_ 475 Tenth Avenue, 12th Floor, New York, NY 10018, Attention: Webmaster.
