@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategypage.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603065424id_/http%3A//strategypage.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategypage.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132832id_/http%3A//www.strategypage.com/privacy/default.asp) for the most accurate reproduction.*
 
 # StrategyPage.com - Privacy
 
