@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622091256id_/http%3A//www.scotts.com/index.cfm%3FpoeSiteId%3D10926%26partnerId%3D99999%26fuseaction%3Dglobal.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216210354id_/http%3A//scotts.com/index.cfm%3FpoeSiteId%3D10926%26partnerId%3D99999%26fuseaction%3Dglobal.privacyPolicy) for the most accurate reproduction.*
 
 # Scotts - Privacy Policy
 
@@ -10,7 +10,7 @@ The Scotts Company takes your privacy seriously and is committed to safeguarding
 
 The Scotts Company respects the privacy of individuals who visit our Web sites, send us e-mail, or participate in features/services we offer online. Accordingly, our policy regarding online privacy has been developed using the following guiding principles:
 
-  * Scotts maintains a strict "no-spam" policy. Subscribers to our e-mail services or any other feature/service found on a Scotts Company Web site (scotts.com, miracle-gro.com, ortho.com, roundup.com osmocote.com, etc.) will not receive unsolicited e-mail messages from Scotts.
+  * Scotts maintains a strict "no-spam" policy. Subscribers to our e-mail services or any other feature/service found on a Scotts Company Web site (scotts.com, miracle-gro.com, ortho.com, roundup.com, osmocote.com, etc.) will not receive unsolicited e-mail messages from Scotts.
   * Scotts collects information online primarily to provide our visitors with a more relevant experience on our sites. When doing so, we will make every reasonable effort to avoid excessive or irrelevant collection of data.
   * Scotts will take reasonable physical, electronic and managerial measures to safeguard and secure any information you provide to us (e.g., data will be stored in protected databases on secured servers with restricted access).
   * Scotts will not share any information you've provided to us with anyone without your consent other than to provide the service you've requested. At the time you register for any such service, you will be notified of, and asked to consent to, the sharing of your information with any particular third party necessary to the provision of the requested service.
@@ -22,8 +22,8 @@ The Scotts Company respects the privacy of individuals who visit our Web sites, 
   * Non-Personally Identifiable Data: Any time you visit a Scotts Web site, we may gather certain non-personally identifiable information regarding the means you use to access our site. This information may include the type and version of your browser, your service provider, your IP address, and any search engine you may have used to locate the site. We use this information to help diagnose problems with our server, administer the Web site, and compile broad statistical data. In addition, The Scotts Company gathers certain navigational information about where you go on our Web sites. This information enables us to determine which areas of the Web sites are most frequently visited and helps us to tailor the sites to the needs and interests of our online visitors. In addition, this tracking data may be used to tailor information presented to you on our sites based on your previous use of the sites and your interests in particular topics.
 
 
+  * Information Voluntarily Provided: Any information you provide to us (i.e., name, e-mail address, etc.) when you enroll in one of our E-Mail Reminder Services, request information, register on our site, enter one of our contests, or use any of the other interactive portions of our Web sites, is securely maintained on our Web server and internal systems. This information may be used to provide you with information you've requested about our company, our products and our services, or to provide you with special notices. When we request information on our sites, some requests are marked as “Required”; this information is necessary to allow you to participate in the program or service you’ve requested. You may opt out of receiving future communications at any time (see Opt-Out Procedures below). This data may also be used to tailor your experience on our sites by providing content that is relevant to your interests and geographic region. Finally, we may create aggregated information from information you provide us (such as demographic data) for use in updating and maintaining our sites. This aggregated information will not be shared with others except as noted below (see the “Disclosure of Personal Information” and “Use of Cookies” sections).
 
-Information Voluntarily Provided: Any information you provide to us (i.e., name, e-mail address, etc.) when you enroll in one of our E-Mail Reminder Services, request information, register on our site, enter one of our contests, or use any of the other interactive portions of our Web sites, is securely maintained on our Web server and internal systems. This information may be used to provide you with information you've requested about our company, our products and our services, or to provide you with special notices. When we request information on our sites, some requests are marked as “Required”; this information is necessary to allow you to participate in the program or service you’ve requested. You may opt out of receiving future communications at any time (see Opt-Out Procedures below). This data may also be used to tailor your experience on our sites by providing content that is relevant to your interests and geographic region. Finally, we may create aggregated information from information you provide us (such as demographic data) for use in updating and maintaining our sites. This aggregated information will not be shared with others except as noted below (see the “Disclosure of Personal Information” and “Use of Cookies” sections).
 
   * Information Collected from Other Sources: To help us better understand and respond to your needs and interests, Scotts may in the future receive information about you from other sources. Scotts will ask any provider of such information to represent and warrant that the information has been gathered and maintained in accordance with all state and federal laws. Any such information will be maintained by Scotts in accordance with the standards set forth in this privacy policy along with other personal information you've provided.
 
@@ -78,8 +78,8 @@ You may always optout of receiving future communications from The Scotts Company
 Scotts supports the individual's right to protect their privacy. Accordingly, personal information you provide us will be made available for your review. Additionally, you may update, modify or remove this information at any time by doing any of the following: 
 
   * accessing and modifying your personal information through the Scotts personal information manager application/tool
-  * sending your updated information by e-mail to [consumer.services@scottsco.com](mailto:consumer.services@scottsco.com)
-  * visiting the following URL: [www.scotts.com](http://www.scotts.com/) and using the "Contact Scotts" form
+  * sending your updated information by e-mail to [consumer.services@scotts.com](mailto:consumer.services@scotts.com)
+  * visiting the following URL: www.scotts.com and using the "Contact Scotts" form
   * Calling us toll-free at (800) 543-8873
 
 
@@ -92,7 +92,7 @@ This privacy policy may be revised over time as new features are added to the We
 
 If you have questions concerning this privacy policy or the practices of these sites, you may contact us at:
 
-E-mail: [webservices@scottsco.com](mailto:webservices@scottsco.com)
+E-mail: [webservices@scotts.com](mailto:webservices@scotts.com)
 
 The Scotts Company
 
