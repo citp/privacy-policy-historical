@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the ifilmpro.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603122609id_/http%3A//www.ifilm.com/db/static_text/0%2C1699%2C7000%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifilmpro.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204425id_/http%3A//www.ifilm.com/db/static_text/0%2C1699%2C7000%2C00.html) for the most accurate reproduction.*
 
-# IFILM The Internet Movie Guide
+# IFILM
 
-| 
-
-ONLINE PRIVACY STATEMENT
-
-  
+|   
 
 
 ONLINE PRIVACY STATEMENT  
@@ -28,7 +24,7 @@ When ordering products or services from us, or when registering on the IFILM Net
 
 Special Offers, Contests & Updates
 
-When you enter a contest or other promotional feature, IFILM may again ask for the visitor's name, address, email address, username, password, and other various marketing data, demographic information, and consumer preferences so that they are able to better administer the contest and notify winners. We may also use the information we collect to occasionally notify you about important functionality changes to the IFILM Network, new IFILM services, and special offers we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of any other information request or distribution, simply submit such a request to IFILM at [customerservice@IFILM.com](mailto:customerservice@ifilm.com). For more information about opting out, please see below. 
+When you enter a contest or other promotional feature, IFILM may again ask for the visitor's name, address, email address, username, password, and other various marketing data, demographic information, and consumer preferences so that they are able to better administer the contest and notify winners. We may also use the information we collect to occasionally notify you about important functionality changes to the IFILM Network, new IFILM services, and special offers we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of any other information request or distribution, simply submit such a request to IFILM at [feedback@ifilm.com](mailto:feedback@ifilm.com). For more information about opting out, please see below. 
 
 _How does IFILM protect visitor information?_
 
@@ -52,23 +48,23 @@ We may share aggregated demographic information with our partners and advertiser
 
 Sale or Transfer
 
-IFILM reserves the right at its sole discretion to sell, trade or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or contest submission. This information is used to better understand visitors' use of the IFILM Network, to support related transactions made on the site, and to better know our visitors and possibly tailor any specific features, promotions, or other notifications to them. Additionally, such data, both in an individual as well as in an aggregate form, may be provided to other parties for marketing, advertising, or other uses in the future. Each email newsletter always contains instructions on how to discontinue receipt of the newsletter. However, if a visitor at anytime chooses to no longer receive such information and opt-out from any future mailings, they should simply reply to IFILM's removal instructions and request to be removed from any such list and/or mailings, or they may also send such a request to [customerservice@IFILM.com](mailto:customerservice@ifilm.com). 
+IFILM reserves the right at its sole discretion to sell, trade or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or contest submission. This information is used to better understand visitors' use of the IFILM Network, to support related transactions made on the site, and to better know our visitors and possibly tailor any specific features, promotions, or other notifications to them. Additionally, such data, both in an individual as well as in an aggregate form, may be provided to other parties for marketing, advertising, or other uses in the future. Each email newsletter always contains instructions on how to discontinue receipt of the newsletter. However, if a visitor at anytime chooses to no longer receive such information and opt-out from any future mailings, they should simply reply to IFILM's removal instructions and request to be removed from any such list and/or mailings, or they may also send such a request to [feedback@ifilm.com](mailto:feedback@ifilm.com). 
 
 _How can I talk back to IFILM?_
 
 Opting Out; Removing and Modifying Information Provided to IFILM
 
-After gathering any user information, IFILM offers users the opportunity to remove their user-identifiable information from our database so as not to receive future communications or to no longer interact with the IFILM Network until they later chose to. IFILM additionally provides users the opportunity to update and modify any information they have previously provided by viewing their information sent directly to them following such a request from customerservice@IFILM.com, or by U.S. Mail to IFILM Corp., Attn: Privacy Administrator, 1024 N. Orange Dr., Hollywood, California 90038, and updating and/or modifying the information previously provided. 
+After gathering any user information, IFILM offers users the opportunity to remove their user-identifiable information from our database so as not to receive future communications or to no longer interact with the IFILM Network until they later chose to. IFILM additionally provides users the opportunity to update and modify any information they have previously provided by viewing their information sent directly to them following such a request from feedback@ifilm.com, or by U.S. Mail to IFILM Corp., Attn: Privacy Administrator, 1024 N. Orange Dr., Hollywood, California 90038, and updating and/or modifying the information previously provided. 
 
 Feedback
 
-IFILM welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at [customerservice@IFILM.com](mailto:customerservice@ifilm.com), or by U.S. Mail to IFILM Corp., Attn: Privacy Administrator, 1024 N. Orange Drive, Hollywood, California 90038. 
+IFILM welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at [feedback@ifilm.com](mailto:feedback@ifilm.com), or by U.S. Mail to IFILM Corp., Attn: Privacy Administrator, 1024 N. Orange Drive, Hollywood, California 90038. 
 
 _Some final notes_
 
 Third Party Links
 
-In an attempt to provide increased value to our visitors, IFILM may choose various third party web sites to link to from, and frame within, its own site. However, even if the third party is affiliated with IFILM, IFILM has no control over these linked sites and each site will have its own, independent privacy and data collection practices. IFILM has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, IFILM seeks to protect the integrity of the IFILM Network and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work) to [customerservice@IFILM.com](mailto:customerservice@ifilm.com). 
+In an attempt to provide increased value to our visitors, IFILM may choose various third party web sites to link to from, and frame within, its own site. However, even if the third party is affiliated with IFILM, IFILM has no control over these linked sites and each site will have its own, independent privacy and data collection practices. IFILM has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, IFILM seeks to protect the integrity of the IFILM Network and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work) to [feedback@ifilm.com](mailto:feedback@ifilm.com). 
 
 IFILM's special note to parents
 
@@ -80,7 +76,8 @@ Please also visit IFILM's terms of use establishing the use, disclaimers, and li
 
 _Your consent_
 
-By using the IFILM Network, you consent to the collection and use of this information by IFILM. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+By using the IFILM Network, you consent to the collection and use of this information by IFILM. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 |  |   
----|---|---
+|   
+---
