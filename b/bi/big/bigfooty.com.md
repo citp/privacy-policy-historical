@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigfooty.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409161045id_/http%3A//www.bigfooty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfooty.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202202142id_/http%3A//www.bigfooty.com/privacy.html) for the most accurate reproduction.*
 
-# BigFooty.com: Aussie Rules Football discussion boards, news, Internet guide, chat, and more!
+# BigFooty.com: Australian Rules Football League discussion boards, news, Internet guide, chat, and more! Aussie Rules
 
 ### BigFooty Partners Privacy Policy
 
