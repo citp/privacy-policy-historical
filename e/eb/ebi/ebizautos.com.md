@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601081935id_/http%3A//ebizautos.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206084212id_/http%3A//www.ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22) for the most accurate reproduction.*
 
 # eBizAutos - Online Auction Management and Advanced Inventory Hosting Solutions
 
-|  |   
-**Privacy Policy**  
   
-eBizAutos, a division of Lookslike, Inc., ("eBizAutos") will not rent or sell your name, address, email address, credit card information, or personal information to any third party without your permission. 
+|  | 
+
+Privacy Policy
+
+  
+eBizAutos, a division of Lookslike, Inc., ("eBizAutos") will not rent or sell your name, address, email address, credit card information, or personal information to any third party without your permission.
 
 **Information collection and use**  
 eBizAutos is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. eBizAutos collects information from our users, such as name, email address, and contact information at several different points on our website.
@@ -16,7 +19,7 @@ eBizAutos requires customers to provide credit card information in order to proc
 eBizAutos clients are welcome to send in their credit card information by phone or by FAX. Just call our customer service department at 702-255-4434.
 
 **Cookies**  
-"Cookies" are small files of data that we send to your computer to allow us to recognize you as a eBizAutos customer if you return to the eBizAutos site using the same computer and browser. We send a “session cookie” to your computer if and when you log in to your eBizAutos account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don’t need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect. We also use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't have to retype the e-mail address each time when you log in to your eBizAutos account. Our cookie files are encoded so that your e-mail address and other information can only be interpreted by eBizAutos.
+"Cookies" are small files of data that we send to your computer to allow us to recognize you as a eBizAutos customer if you return to the eBizAutos site using the same computer and browser. We send a “session cookie” to your computer if and when you log in to your eBizAutos account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don’t need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect. We also use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't have to retype the e-mail address each time when you log in to your eBizAutos account. Our cookie files are encoded so that your e-mail address and other information can only be interpreted by eBizAutos. 
 
 **Security**  
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. See our Security Statement for more detailed security information.
@@ -31,7 +34,7 @@ Because of the way that World Wide Web communication standards work, when you ar
 We also send the user site and service announcement updates. Customers are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
 
 **Correction/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we provide an easy way to correct, update or remove that user’s personal data via our "Your Account" section. Simply sign in to [your account](https://web.archive.org/web/20030601081935id_/http%3A//ebizautos.com/cp.cfm), click "Account Profile," and make the appropriate changes to your account information.
+If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we provide an easy way to correct, update or remove that user’s personal data via our "Your Account" section. Simply sign in to [your account](http://www.ebizautos.com/cp.cfm), click "Account Profile," and make the appropriate changes to your account information.
 
 **Changes to our Policy**  
 Our Policy is intended to provide you with the safest and most secure online experience possible. Since offerings and technologies change, we reserve the right to change, modify, add or remove portions of our Privacy Policy at any time without prior notice. If policy changes are substantial, we will notify our customers via email. We will post any changes in our policy on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
