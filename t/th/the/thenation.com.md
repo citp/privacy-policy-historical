@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125095428id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205095728id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
 
-# Privacy Statement
+# About The Nation
+
+Privacy Statement for thenation.com 
 
 October 3, 2000 
 
 The Nation Company, L.P. has created this statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.thenation.com: 
 
-###  Scope 
+Scope 
 
 This document addresses the privacy policy of thenation.com and does not necessarily reflect the privacy policy of _The Nation_ Magazine, The Nation Associates, The Nation Institute, or any other affiliated organization or individual. 
 
 This statement is subject to change or alteration at any time, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Notices of such changes will be posted on this web page. You should check our website frequently to see recent changes. 
 
-###  Information Gathering 
+Information Gathering 
 
 **General Information:** If you subscribe for, purchase or otherwise make use of our products and services, we may collect personal information from you, including your name, age, address, e-mail address, credit card number and facts about your computers, profession and similar information. We do not, however, knowingly collect personal information from children under the age of thirteen. 
 
@@ -20,7 +22,7 @@ This statement is subject to change or alteration at any time, and use of inform
 
 **Cookies:** Although we do not currently do so, we reserve the right to use "cookies" to authenticate registered users and subscribers, and to target advertising based on broad demographic categories. 
 
-###  Information Use and Sharing 
+Information Use and Sharing 
 
 We may use information in the following ways: 
 
@@ -34,7 +36,7 @@ We may use information in the following ways:
 > 
 > To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences. 
 
-###  Information Use and Sharing 
+Information Use and Sharing 
 
 **Email Addresses:** We will not share your e-mail address with third parties, although we reserve the right to present you with advertisements on their behalf. 
 
@@ -48,42 +50,40 @@ If you wish not to receive unsolicited offers by mail, we strongly encourage you
 
 **Major Business Transactions:** In the event of a major business transaction, our customer information may be one of the transferred business assets. 
 
-###  Links 
+Links 
 
 This site contains links to other websites, in the form of hyperlinks and banner advertisements. _The Nation_ is not responsible for the privacy practices or the content of such Web sites. 
 
 Our site uses an order form for customers to subscribe to our print publication, _The Nation_. We collect visitor's contact information (like their postal and e-mail addresses). Contact information from the order form is used to send orders to our customers, or to send e-mail newsletters that they have requested. Users may opt-out of receiving future mailings; see the Opt-Out section below. 
 
-###  Public Forums 
+Public Forums 
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-###  Security 
+Security 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-###  Children 
+Children 
 
 Thenation.com is directed to teenagers and adults and is not directed to children under the age of 13. Thenation.com does not knowingly permit purchases by and will not knowingly collect personally identifiable information from anyone under 13. 
 
-###  Opt-Out 
+Opt-Out 
 
 Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor.
 
 You can remove yourself from our e-mailNation newsletter at anytime by following the instructions at the bottom of each e-mailNation newsletter, or by [following this link](http://laser.sparklist.com/scripts/lyris.pl?enter=emailnation) and following the instructions provided. Note: You do not need to enter a password. 
 
-To opt-out of any promotional e-mail, based on information you provided to this website, send an e-mail to [privacy@thenation.com](mailto:privacy@thenation.com). 
+To opt-out of any promotional e-mail, based on information you provided to this website, fill out [this form](https://web.archive.org/contact/priv). 
 
-###  Correct/Update 
+Correct/Update 
 
-This site gives users the following options for changing and modifying information previously provided. To correct information you provided previously, e-mail webmanager@thenation.com. Note that changes, including renewals and address changes, to your subscription to our print publication, _The Nation_ , should be directed to [service@thenation.com](mailto:service@thenation.com) or to (800) 333-8536. 
+This site gives users the following options for changing and modifying information previously provided. To correct information you provided previously, [click here](https://web.archive.org/contact/priv). Changes, including renewals and address changes, to your subscription to our print publication, _The Nation_ , can be made by filling out [this form](https://web.archive.org/contact/serv) or by calling (800) 333-8536. 
 
-###  Contacting the Web Site 
+Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [scott@thenation.com](mailto:scott@thenation.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, [click here](https://web.archive.org/contact/priv). 
 
-###  History of Amendments to This Document 
-
-| _February 26, 2001_ | Added information on web-based opt-out of e-mailNation.  
+History of Amendments to This Document  | _February 26, 2001_ | Added information on web-based opt-out of e-mailNation.  
 ---|---  
 _October 13, 2000_ | Document language finalized and published.
