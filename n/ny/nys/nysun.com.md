@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205031327id_/http%3A//www.nysun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608090603id_/http%3A//www.nysun.com/privacy.html) for the most accurate reproduction.*
 
 # New York Sun - Privacy
 
 |  |   
 ---|---  
 | **    **[Home](http://daily.nysun.com/)  
-| **    **[Subscribe](https://web.archive.org/web/20031205031327id_/http%3A//www.nysun.com/sub_choose.html)  
+| **    **[Subscribe](https://web.archive.org/web/20040608090603id_/http%3A//www.nysun.com/sub_choose.html)  
 | **    Services:**  
-| **    **[Advertising ](https://web.archive.org/web/20031205031327id_/http%3A//www.nysun.com/mk_home.html)  
+| **    **[Advertising ](https://web.archive.org/web/20040608090603id_/http%3A//www.nysun.com/mk_home.html)  
 |   
-| **    **[Place a Classified Ad](https://web.archive.org/web/20031205031327id_/http%3A//www.nysun.com/classified1.html)  
+| **    **[Place a Classified Ad](https://web.archive.org/web/20040608090603id_/http%3A//www.nysun.com/classified1.html)  
 |   
-| **    **[Press Releases](https://web.archive.org/web/20031205031327id_/http%3A//www.nysun.com/press_releases.html)  
+| **    **[Press Releases](https://web.archive.org/web/20040608090603id_/http%3A//www.nysun.com/press_releases.html)  
 |   
-| **    **[Contact Us](https://web.archive.org/web/20031205031327id_/http%3A//www.nysun.com/contact.html)  
+| **    **[Contact Us](https://web.archive.org/web/20040608090603id_/http%3A//www.nysun.com/contact.html)  
 | **    **Featuring:  
 |  [](http://www.opinionjournal.com/best)  
-|  [](https://web.archive.org/web/20031205031327id_/http%3A//www.nysun.com/sub_choose.html)  
+|  [](https://web.archive.org/web/20040608090603id_/http%3A//www.nysun.com/sub_choose.html)  
 |   
 |   
 |    
