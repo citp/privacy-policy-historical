@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2004-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040207105509id_/http%3A//members.freewebs.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231001336id_/http%3A//members.freewebs.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# Free Hosting - Web hosting, business personal webhosting, No Banner Ads. No Popup Windows.
+# Free Web Hosting - Free Hosting, free webpages and free websites by FreeWebs
 
 **OUR COMMITMENT TO YOUR PRIVACY**
 
 * * *
 
-This site is owned and operated by UpIn60 Technologies, Inc., the parent company of FreeWebs.com. Your privacy on the Internet is of the utmost importance to us. At FreeWebs.com, we want to make your experience online satisfying and safe.
+This site is owned and operated by FreeWebs Corporation, the parent company of FreeWebs.com. Your privacy on the Internet is of the utmost importance to us. At FreeWebs.com, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
