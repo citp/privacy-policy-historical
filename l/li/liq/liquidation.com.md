@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202170527id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627083200id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
 
 # Surplus items auction, discount surplus inventories marketplace, wholesale closeouts
 
@@ -12,7 +12,7 @@
 
 
 
-If you have questions or concerns regarding this policy, you should first contact the Liquidation.com Customer Support Team by phone at (800) 310-4604 or by e-mail at [support@liquidation.com](mailto:support@liquidation.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with Liquidation.com to resolve your concerns. 
+If you have questions or concerns regarding this policy, you should first contact the Liquidation.com Buyer Relations Department by phone at (800) 310-4604 or by e-mail at [support@liquidation.com](mailto:support@liquidation.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with Liquidation.com to resolve your concerns. 
 
 Liquidation.com has created this privacy policy in order to demonstrate our firm commitment to privacy. 
 
@@ -49,7 +49,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 Our site provides users the opportunity to opt-out of receiving Buyer Alert emails from us at the point where we request information about the visitor, and at any time the user may contact us and request to have their information removed from the database. The following options are available: 
 
   1. There is a link to unsubscribe in all mailings 
-  2. By logging into their account manager at [www.liquidation.com/account/main](http://www.liquidation.com/account/main)
+  2. By logging into their account manager at <http://web.liquidation.com/account/main>
   3. Email [support@liquidation.com](mailto:support@liquidation.com) with your request 
 
 
@@ -59,7 +59,7 @@ Our site provides users the opportunity to opt-out of receiving Buyer Alert emai
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. Email [support@liquidation.com](mailto:support@liquidation.com)
-  2. By logging into their account manager at [www.liquidation.com/account/main](http://www.liquidation.com/account/main)
+  2. By logging into their account manager at <http://web.liquidation.com/account/main>
   3. Call our customer care staff at the following telephone number: (800) 310-4604 
 
 **Notification of Changes**
