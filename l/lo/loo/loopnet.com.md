@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205051800id_/http%3A//loopnet.com/customerservice/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413110412id_/http%3A//loopnet.com/customerservice/privacy.asp) for the most accurate reproduction.*
 
 # LoopNet - The Internet's Leading Commercial Real Estate Marketplace
 
