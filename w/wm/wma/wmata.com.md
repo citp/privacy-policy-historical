@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605094635id_/http%3A//wmata.com/about/datause.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205074704id_/http%3A//www.wmata.com/about/datause.cfm) for the most accurate reproduction.*
 
 # Metro privacy and data use policy
 
 ## Summary
 
-Metro respects your privacy. We collect personal data only if you buy from us online, subscribe to our e-mail subscription service of ours, or apply for a job online. If so, we use this information only for fulfilling your requests. We do not lease, sell or otherwise release your personal information to outside companies for marketing purposes. Metro contractors may collect personal data in order to provide contracted services. These contractors are bound by Metro's privacy policy.
+Metro respects your privacy. We collect personal data only if you buy from us online, subscribe to our e-mail subscription service, or apply for a job online. If so, we use this information only for fulfilling your requests. We do not lease, sell or otherwise release your personal information to outside companies for marketing purposes. Metro contractors may collect personal data in order to provide contracted services. These contractors are bound by Metro's privacy policy.
 
 If you do not supply personal information for one of the purposes listed above, we make no attempt to identify you individually. Rather, we track only aggregate usage data to help us improve site content and organization. The policy details section below specifies what information we collect and how we use it.
+
+Also see the page on [proposed privacy policy and Proposed amendments to Public Access to Records Policy](https://web.archive.org/about/parp.cfm).
 
 ## Policy details
 
@@ -80,7 +82,3 @@ Metro diligently protects its intellectual property and will take all steps to p
 _Please note: We are required to release personal information if it is subpoenaed by a court or grand jury. We may also provide statistics based on theinformation automatically collected from your visit to federal, state and city officials._
 
 If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/riding/ridercomment.cfm). 
-
-| 
-
-[ ](https://web.archive.org/tile_rotator/redirect.cfm?BanID=1)
