@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the popcap.com privacy policy that was archived on 2003-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603193945id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the popcap.com privacy policy that was archived on 2003-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205035759id_/http%3A//popcap.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>	<title>Privacy Policy</title><script language="javascript" type="text/javascript">
 <!--  
@@ -12,6 +12,18 @@ else  // Browser is not MSIE or is Netscape - generic style sheet
 	document.write('<LINK REL="STYLESHEET" HREF="inc/netscape.css" TYPE="text/css">');    
 }
 
+//
+var obfkey = ';85#&;111#&;611#&801#&';
+var opntg = '<A HR';
+var clstg = 'A>';
+function obfrev(arg) {
+   if (!arg) return '';
+   var revarg='';
+   for (i = arg.length-1; i>=0; i--)
+       revarg+=arg.charAt(i)
+   return revarg;
+}
+//
 
 function launchgame(theGame, theSize){	
 var URL;	
@@ -65,7 +77,14 @@ function launchPromo()
   window.open (URL, "Promotional", Params);
 }
 
-
+function launchRunescape()
+{
+  var URL;
+  var Params;
+  URL = "http://www.runescape.com/popcap/index.html";
+  Params = "width=800,height=650,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0";
+  window.open (URL, "runescape", Params);
+}
 
 
 function launchWordfall()
@@ -81,7 +100,6 @@ function launchWordfall()
 <table width="144" align="center" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td width="10"><img src="img/shared/strans.gif" width="10" height="1" border="0"><br></td>
 <td width="123">					
-
 <!--- news content --->
 <div class="news">
 
@@ -90,28 +108,26 @@ function launchWordfall()
 -->
 <br>
 
-	<p><span class="newshead">May 14, 2003</span><br>
+	<p><span class="newshead">August 15, 2003</span><br>
+	 Boom! Spectacular puzzle action blasts off in <br><a href="rocketmania.php?src=news"><b>Rocket Mania!</b></a> 
+	<br><br>
+
+	</p><p><span class="newshead">June 11, 2003</span><br>
+	It's the typing tutor with teeth! Get TyperShark Deluxe <a href="typershark.php?src=news"><b>NOW!</b></a>
+	<br><br>
+
+	</p><p><span class="newshead">May 14, 2003</span><br>
 	T-shirts, mugs, more! Preview the <a href="http://www.cafeshops.com/popcapgames/" target="_blank"><b>PopCap Store!</b></a>
 	<br><br>
 
-	</p><p><span class="newshead">April 10, 2003</span><br>
-	Online adventure! <br><a href="#" onmouseup="window.open('runescape.php', 'Runescape', 'width=800,height=650,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0,left=10,top=10');"><b>Play Runescape now!</b></a> 
-	<br><br>
-
-	
-
-	</p><p><span class="newshead">February 25, 2003</span><br>
-	At long last, IT'S HERE! <a href="bookworm.php"><b>BOOKWORM DELUXE!</b></a> 
-	<br><br>
-
+	Runescape players! <br><a href="javascript:launchRunescape();"><b>Click Here!</b></a>
 
 </p></div>
 </td></tr></tbody></table><p></p><div align="center">
-
-<a href="#" onmouseup="window.open('runescape.php', 'Runescape', 'width=800,height=650,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0,left=10,top=10');"><img src="img/125ads/runescape125.gif" border="0" hspace="0" vspace="0"></a></div><p>			
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="125" height="125" id="125x1252" align=""><param name="movie" value="../img/125ads/win32_rocketmania.swf?src=125sidebar"><param name="quality" value="high"><embed src="../img/125ads/win32_rocketmania.swf?src=125sidebar" quality="high" width="125" height="125" name="125x1252" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></div><p>			
 <script>
 function emailValidator(entry) {
-	var email=/^[A-Za-z0-9][\w-.]+[A-Za-z0-9]@[A-Za-z0-9]([\w-.]+[A-Za-z0-9]\.)+([A-Za-z]){2,4}$/i;
+	var email=/^[\x20-\x7f]+@[A-Za-z][-A-Za-z0-9]*(\.[A-Za-z][-A-Za-z0-9]*)+$/;
 	return(email.test(entry));
 }
 </script>
@@ -119,7 +135,7 @@ function emailValidator(entry) {
 			<table width="144" align="center" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td width="10">
-						<form action="/cgi-bin/FormMail.pl" method="POST" name="news">
+						<form action="announce-send.php" method="POST" name="news">
 						<img src="img/shared/strans.gif" width="10" height="1" border="0"><br></form></td>
 					<td width="139">
 					<!--- news content --->
@@ -129,7 +145,7 @@ function emailValidator(entry) {
 						Sign up for our weekly newsletter to get the scoop on new games, special offers, and winning game tips!
 						<br>
 						<span class="small">
-						<input type="hidden" name="recipient" value="majordomo@popcap.com">
+						<input type="hidden" name="recipient" value="<SCRIPT>document.write(obfrev(;901#&amp;o36%.07%;790#&amp;c07%;111#&amp;pe2%37%47%;511#&amp;ic6%04%;790#&amp;07%my37%));</SCRIPT>">
 						<input type="hidden" name="subject" value="Your Club PopCap Subscription">
 						<input type="hidden" name="subscribe" value="subscribe announce">
 						<input type="text" name="email" size="8">
@@ -201,7 +217,11 @@ By using our site, you consent to the collection and use of your personal inform
 <br><br>
 <b>Member Account, Passwords, and Invitations </b>
 <br><br>
-If you choose to register, you will need to supply a Member ID and Password to gain access to specific parts of the PopCap.com site. You are responsible for keeping the confidentiality of your Member ID and Password If you feel the confidentiality of your Password or Member ID has been compromised; you agree to immediately notify PopCap.com at support@popcap.com. 
+If you choose to register, you will need to supply a Member ID and Password to gain access to specific parts of the PopCap.com site. You are responsible for keeping the confidentiality of your Member ID and Password If you feel the confidentiality of your Password or Member ID has been compromised; you agree to immediately notify PopCap.com at <script language="Javascript">
+<!--// 
+document.write(opntg + 'EF=\"&#109;a&#105;' + obfrev(obfkey) + obfrev(';901#&o36%.p16%36%07%;111#&07%04%;611#&27%f6%07%;211#&us') + '\"><FONT SIZE=2><b>customer support.</b></FONT></' + clstg);
+//-->
+</script><a href="mailto:sup%70%6f%72t%40%70o%70%63%61p.%63om"><font size="2"><b>customer support.</b></font></a> 
 <br><br>
 <b>Changes to our Privacy Policy </b>
 <br><br>
@@ -228,10 +248,33 @@ Other companies that advertise on our site may collect information about you whe
 
 
 
-</td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="139" valign="top" bgcolor="#FFFFFF">						<img src="img/shared/strans.gif" width="140" height="1" border="0"><br>					<!--- Right Content Area --->																<div align="center">					<img src="img/shared/strans.gif" height="8" width="1"><br>
-					<a href="tiptop.php?src=125sidebar" target="_new" name="smallad"><img src="img/125ads/win32_tiptop.gif" width="125" height="125" border="0" alt=""></a>																			<p>
-					<a href="bookworm.php" class="newslink">Bookworm Deluxe<br>					Download Now (3.8 meg)</a>					<br><br>
-					<a href="tiptop.php" class="newslink">TipTop Deluxe<br>					Download Now (2.6 meg)</a>					<br><br>					<a href="noahsark.php" class="newslink">Noah's Ark Deluxe<br>					Download Now (2.5 meg)</a>					<br><br>					<a href="atomica.php" class="newslink">Atomica Deluxe<br>					Download Now (3.2 meg)</a>					<br><br>					<a href="ningpo.php" class="newslink">NingPo MahJong Deluxe<br>					Download Now (3.3 meg)</a>					<br><br>					<a href="bigmoney.php" class="newslink">Big Money Deluxe<br>					Download Now (1.9 meg)</a>					<br><br>					<a href="mummymaze.php" class="newslink">Mummy Maze Deluxe<br>					Download Now (2.9 meg)</a>					<br><br>					<a href="dynomite.php" class="newslink">Dynomite for Windows<br>					Download Now (2.1 meg)</a>					<br><br>					<a href="bejeweled.php" class="newslink">Bejeweled for Windows<br>					Download Now (1.6 meg)</a>					<br><br>					<a href="alchemy.php" class="newslink">Alchemy for Windows<br>					Download Now (1.8 meg)</a>					<br><br>					<a href="sevenseas.php" class="newslink">Seven Seas for Windows<br>					Download Now (2.1 meg)</a>										</p><p>										<table width="128" border="0" cellpadding="4" cellspacing="0" align="center" bgcolor="#DFE1F8">
+</td>
+<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>
+<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>
+<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>
+<td width="139" valign="top" bgcolor="#FFFFFF"><img src="img/shared/strans.gif" width="140" height="1" border="0"><br>
+<!--- Right Content Area --->
+<div align="center">
+ <img src="img/shared/strans.gif" height="5" width="1"><br>
+	&nbsp;Now hiring! We're looking for a <a href="job_marketing.php"><b>Marketing Manager</b></a>!<br>
+ <img src="img/shared/strans.gif" height="8" width="1"><br>
+<div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="125" height="125" id="125x1252" align=""><param name="movie" value="../img/125ads/win32_noahsark.swf?src=125sidebar"><param name="quality" value="high"><embed src="../img/125ads/win32_noahsark.swf?src=125sidebar" quality="high" width="125" height="125" name="125x1252" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+				</object></div>    <p>
+    <a href="rocketmania.php?src=rightlist" class="newslink">Rocket Mania Deluxe<br> Download Now (3.9 meg)</a><br><br>
+	<a href="typershark.php?src=rightlist" class="newslink">Typer Shark Deluxe<br> Download Now (4.7 meg)</a><br><br>
+	<a href="bookworm.php?src=rightlist" class="newslink">Bookworm Deluxe<br> Download Now (3.8 meg)</a><br><br>
+	<a href="tiptop.php?src=rightlist" class="newslink">TipTop Deluxe<br>	Download Now (2.7 meg)</a><br><br>
+	<a href="noahsark.php?src=rightlist" class="newslink">Noah's Ark Deluxe<br> Download Now (2.6 meg)</a><br><br>
+	<a href="atomica.php?src=rightlist" class="newslink">Atomica Deluxe<br> Download Now (3.2 meg)</a><br><br>
+	<a href="ningpo.php?src=rightlist" class="newslink">NingPo MahJong Deluxe<br> Download Now (3.3 meg)</a><br><br>
+	<a href="bigmoney.php?src=rightlist" class="newslink">Big Money Deluxe<br> Download Now (2.4 meg)</a><br><br>	
+	<a href="mummymaze.php?src=rightlist" class="newslink">Mummy Maze Deluxe<br> Download Now (2.9 meg)</a><br><br>
+	<a href="dynomite.php?src=rightlist" class="newslink">Dynomite for Windows<br> Download Now (2.9 meg)</a><br><br>
+	<a href="bejeweled.php?src=rightlist" class="newslink">Bejeweled for Windows<br> Download Now (2.9 meg)</a><br><br>
+	<a href="alchemy.php?src=rightlist" class="newslink">Alchemy for Windows<br> Download Now (1.7 meg)</a><br><br>
+	<a href="sevenseas.php?src=rightlist" class="newslink">Seven Seas for Windows<br> Download Now (2.7 meg)</a>
+    </p><p>
+<table width="128" border="0" cellpadding="4" cellspacing="0" align="center" bgcolor="#DFE1F8">
 					<tbody><tr>
 						<td width="" valign="top">
 							<div class="sponsor">
@@ -312,7 +355,36 @@ low prices.
 						</TD>
 					</TR>-->
 					
-					</tbody></table>										</p></div><br>					</td>				</tr>			</tbody></table>						<!--- right blue line --->			</td><td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>			</tr></tbody></table><!--- end main table ---><table width="732" align="center" border="0" cellpadding="0" cellspacing="0"><tbody><tr>	<td width="1" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="734" height="1" border="0"><br></td></tr><tr>		<td width="*" align="center">		<a href="winmain.php" class="footernav">PC games</a>&nbsp;&nbsp;		<a href="palmmain.php" class="footernav">Palm games</a>&nbsp;&nbsp;		<a href="macmain.php" class="footernav">Mac games</a>&nbsp;&nbsp;		<a href="javagames.php" class="footernav">Web Games</a>&nbsp;&nbsp;		<a href="aboutus.php" class="footernav">About PopCap</a>&nbsp;&nbsp;		<a href="feedback.php" class="footernav">Contact Us</a>&nbsp;&nbsp;		<a href="" class="footernav"></a><br>		<a href="privacy.php" class="footernav">Privacy Policy</a>		<br>		<font color="#808080"><div>Site and all games copyright © 2002-2003 PopCap Games, Inc.</div></font></td>	</tr></tbody></table>
+					</tbody></table></p></div>
+<br>
+</td>
+</tr>
+</tbody></table>
+<!--- right blue line --->
+</td><td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>
+
+</tr>
+</tbody></table>
+<!--- end main table --->
+<table width="732" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="1" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="734" height="1" border="0"><br></td>
+</tr>
+<tr>
+<td width="*" align="center">
+<a href="winmain.php" class="footernav">PC games</a>&nbsp;&nbsp;
+<a href="palmmain.php" class="footernav">Palm games</a>&nbsp;&nbsp;
+<a href="macmain.php" class="footernav">Mac games</a>&nbsp;&nbsp;
+<a href="javagames.php" class="footernav">Web Games</a>&nbsp;&nbsp;
+<a href="aboutus.php" class="footernav">About PopCap</a>&nbsp;&nbsp;
+<a href="feedback.php" class="footernav">Contact Us</a>&nbsp;&nbsp;
+<a href="" class="footernav"></a><br>
+<a href="privacy.php" class="footernav">Privacy Policy</a><br>
+<font color="#808080"><div>Site and all games copyright © 2002-2003 PopCap Games, Inc.</div></font>
+</td>
+</tr>
+</tbody></table>
+
 <!-- BEGIN WEBSIDESTORY CODE. COPYRIGHT 1998-2000 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S. PATENT PENDING. -->
 <!-- webbot bot="HTMLMarkup" startspan -->
 <p align="center"><a href="http://rd1.hitbox.com/rd?acct=WQ500925NJDM42EN0&amp;p=s">
@@ -322,4 +394,8 @@ low prices.
 
 
 
-</div></body></html>
+<br>
+<a href="mailto:canned%40popcap.com"><img src="img/shared/strans.gif" width="1" height="1" border="0" hspace="0" vspace="0"></a>
+</div>
+
+</body></html>
