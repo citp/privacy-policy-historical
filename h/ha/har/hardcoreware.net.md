@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622080714id_/http%3A//www.hardcoreware.net/about.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203013004id_/http%3A//www.hardcoreware.net/about.php%23Privacy) for the most accurate reproduction.*
 
 # hardCOREware.net - What makes us tick?
 
@@ -10,6 +10,7 @@
 
 |   
 |   
+  
 ---  
   
 **About hardCOREware.net - NO BS**
@@ -203,22 +204,20 @@ If we decide to change our privacy policy, we will post those changes on our Hom
   
 
 
-**No Fear**  
-[06.21.03] @ 10:57 AM   
-Thanks for voting on my case guys! **mfox**  
-[06.20.03] @ 10:49 AM   
-mmm golf + naked chicks.... **Leo**  
-[06.20.03] @ 10:32 AM   
-OMG,it's the best looking case ever **El Nutsio**  
-[06.20.03] @ 5:34 AM   
-my lasagna is burning **Mick**  
-[06.20.03] @ 3:44 AM   
-Some guys have all the luck and there there's me **borna**  
-[06.19.03] @ 1:00 PM   
-t dizzle, lets not forget canoli **rstarr**  
-[06.19.03] @ 3:16 AM   
-2 hardCORE mods on the main page! **mfox**  
-[06.18.03] @ 8:46 PM   
-wow, big shocker there
-
-[](http://www.hardcoreware.net/hcwads/adclick.php?bannerid=29&zoneid=1&source=&dest=http%3A%2F%2Fwww.endpcnoise.com%2F)
+**Desmond**  
+[12.01.03] @ 8:45 AM   
+To me and me alone **ECC**  
+[11.30.03] @ 4:00 AM   
+Wootwoot woot new mobo, cpu hdd, ram ect **jmke**  
+[11.28.03] @ 5:38 PM   
+[[link](http://hwfaq.be/)] **jenious**  
+[11.28.03] @ 4:16 PM   
+[[link](http://www.resellerrating.com/)] **inquery**  
+[11.27.03] @ 6:30 PM   
+hey, um... what was that site with the list of computer hardware sites (with ratings)? thanks **Velm**  
+[11.27.03] @ 1:58 PM   
+Please HELP !!! **Velm**  
+[11.27.03] @ 1:57 PM   
+Need ATI Radeon 9200 refreshfix to play CS 100 Hz !!! **Diablo**  
+[11.27.03] @ 10:39 AM   
+ei jus visi angli esat lohi un kropli
