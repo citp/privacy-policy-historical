@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215160733id_/http%3A//we.home.agilent.com/cgi-bin/bvpub/agilent/editorial/cp_MiscEditorial.jsp%3FpageMode%3DPrivacy%26COUNTRY_CODE%3DZZ%26LANGUAGE_CODE%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2003-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030424113153id_/http%3A//we.home.agilent.com/cgi-bin/bvpub/agilent/editorial/cp_MiscEditorial.jsp%3FpageMode%3DPrivacy%26COUNTRY_CODE%3DZZ%26LANGUAGE_CODE%3Deng) for the most accurate reproduction.*
 
 # Agilent | Privacy
 
@@ -6,7 +6,7 @@
 
 At Agilent Technologies, customers are our most valuable asset. We recognize that building a long-term business relationship with you depends a great deal on trust. This trust begins with our commitment to respecting as well as protecting your privacy. 
 
-An integral part of this commitment is our participation in the BBBOnLine Privacy Program. We proudly display the BBOnLine Privacy Seal. Agilent privacy practices are also self-certified to the U.S. Department of Commerce Safe Harbor Program. [More about BBBOnline](http://we.home.agilent.com/cgi-bin/bvpub/agilent/disclaimer/cp_Disclaimer.jsp?CALLING_PAGE_URL=CP_MISC_EDITORIAL_DETAIL&EXTERNAL_PAGE_LINK_URL=http%3a%2f%2fwww.bbbonline.org%2fcks.asp%3fid%3d4182000121031&EXTERNAL_PAGE_LINK_TEXT=More+about+BBBOnline&NAV_ID=-11144.0.00&LANGUAGE_CODE=eng&COUNTRY_CODE=ZZ)
+An integral part of this commitment is our participation in the BBBOnLine Privacy Program. We proudly display the BBBOnLine Privacy Seal. Agilent privacy practices are also self-certified to the U.S. Department of Commerce Safe Harbor Program. [More about BBBOnline](http://we.home.agilent.com/cgi-bin/bvpub/agilent/disclaimer/cp_Disclaimer.jsp?CALLING_PAGE_URL=CP_MISC_EDITORIAL_DETAIL&EXTERNAL_PAGE_LINK_URL=http%3a%2f%2fwww.bbbonline.org%2fcks.asp%3fid%3d4182000121031&EXTERNAL_PAGE_LINK_TEXT=More+about+BBBOnline&NAV_ID=-11144.0.00&LANGUAGE_CODE=eng&COUNTRY_CODE=ZZ)
 
 We've structured our web sites so that, in general, you can visit Agilent on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (name, address, e-mail address, phone number, etc.) you can be assured that it will only be used to support your customer relationship with Agilent. 
 
