@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the columbusdispatch.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000512id_/http%3A//www.dispatch.com/services-story.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbusdispatch.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605103208id_/http%3A//www.columbusdispatch.com/default.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.*
 
 # The Columbus Dispatch -
 
-  
-| 
-
-Privacy Policy
-
-Also: Special note on children's privacy
+### Also: Special note on children's privacy
 
 **Information we keep about you:** Dispatch.com respects the privacy of Web visitors. We do not sell the email addresses, names, street addresses, phone numbers or interests information about the users of our services.
 
@@ -33,7 +28,7 @@ In addition to any personal-interests information that you provide to us, and wh
 
 **Electronic mail to staff members and departments** : Staff members at _The Columbus Dispatch_ and Dispatch.com have broad discretion as to the handling of mail sent to their individual accounts. The company reserves the right to track or record such correspondence when circumstances warrant. Electronic mail sent to departments within The Dispatch Printing Co. is handled at the department's discretion. We do not have a policy of sharing contents of e-mail with any other entities. However, we reserve the right to disclose such correspondence as necessary to protect the company's legal interests. 
 
-Credit-card purchasing:
+### Credit-card purchasing:
 
 We are committed to making your credit-card purchase as secure as possible, and to ensuring your privacy. Please read the following before you make a purchase:
 
@@ -45,11 +40,13 @@ We are committed to making your credit-card purchase as secure as possible, and 
 
 
 
-Special note on children's privacy
+### Special note on children's privacy
 
 Dispatch.com is a general audience Web site. Under the Children's Online Privacy Protection Act, no Web site operator can require as a condition of participating in an activity that a child under the age of 13 disclose more information than is reasonably necessary. Dispatch.com abides by this requirement. 
 
-Dispatch.com requires users to register and give us personally identifiable information -- name, address, email address -- in order to gain access to the site. If a child under 13 would like to register, we request that registration be completed by a parent or guardian. In addition, the two areas of Dispatch.com that are of specific interest to children -- the Now! for kids section and the Newspaper in Education section -- are available to all users without registration. 
+Dispatch.com requires users to register and give us personally identifiable information -- name, address, email address -- in order to gain access to the site. If a child under 13 would like to register, we request that registration be completed by a parent or guardian. 
+
+In addition, the two areas of Dispatch.com that are of specific interest to children -- the Now! for kids section and the Newspaper in Education section -- are available to all users without registration. 
 
 If you register on behalf of a child, we suggest that the "Mailings" box on the registration page be left unchecked so that the child will receive no emailed promotional offers from us. We also offer users the option of completing a profile indicating their interests and giving us some demographic information including birthdate. If this information is completed on behalf of a child and indicates the child is under 13, that child will not receive any promotional email from us. We do not sell or share the personal information of any user, regardless of age, with third parties. 
 
