@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209083636id_/http%3A//www.nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307233934id_/http%3A//www.nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
 
 # Privacy policies at Nikonians
 
@@ -7,7 +7,7 @@ We believe it's very important that each user feels confident in our privacy pol
 1\. We gather the following information of visiting users:
 
 Access date & time. Type of browser. Country. Domain name. Pages viewed.  
-This information is automatically stored by the http server in its logfiles and is only used for improving the content and design of this site.
+This information is automatically stored by the http server in its log files and is only used for improving the content and design of this site.
 
 2\. If you register as a community member and store your user profile, the profile information is only used for being displayed to other members.
 
@@ -21,4 +21,4 @@ This information is automatically stored by the http server in its logfiles and 
 
 7\. If you request to be informed about answers on a message posted by you, you will automatically receive emails containing those answers.
 
-If you have any questions regarding our privacy policies, or any other questions, [get in touch with us](https://web.archive.org/web/20041209083636id_/http%3A//www.nikonians.org/contact.html).
+If you have any questions regarding our privacy policies, or any other questions, [get in touch with us](https://web.archive.org/web/20050307233934id_/http%3A//www.nikonians.org/contact.html).
