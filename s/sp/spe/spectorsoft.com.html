@@ -1,0 +1,235 @@
+<!--The following is the downloaded HTML source of the spectorsoft.com privacy policy that was archived on 2001-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010831023706id_/http%3A//spectorsoft.com/privacy.html) for the most accurate reproduction.-->
+
+<html><head>
+		<title>SpectorSoft.com - Online Privacy Policy</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<link rel="stylesheet" href="/sitestyle.css">
+		</head><body onload="CSScriptInit();" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" background="/images/background.gif" bgcolor="white"><csscriptdict>
+			<script><!--
+CSInit = new Array;
+function CSScriptInit() {
+if(typeof(skipPage) != "undefined") { if(skipPage) return; }
+idxArray = new Array;
+for(var i=0;i<CSInit.length;i++)
+	idxArray[i] = i;
+CSAction2(CSInit, idxArray);}
+CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+function CSNSStyl(s) { return CSFindElement(s,0); }
+function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
+	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
+	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
+		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+	return elem;
+}
+
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+
+function CSButtonReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return false; // follow link
+	else return true; // follow link
+}
+
+CSIm = new Object();
+function CSIShow(n,i) {
+	if (document.images) {
+		if (CSIm[n]) {
+			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
+			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
+			if(i != 0)
+				self.status = CSIm[n][3];
+			else
+				self.status = " ";
+			return true;
+		}
+	}
+	return false;
+}
+function CSILoad(action) {
+	im = action[1];
+	if (document.images) {
+		CSIm[im] = new Object();
+		for (var i=2;i<5;i++) {
+			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
+			else CSIm[im][i-2] = 0;
+		}
+		CSIm[im][3] = action[5];
+	}
+}
+CSStopExecution = false;
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if (actArray == null) return false;
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+
+
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_home',/*URL*/'/images/button-home.gif',/*URL*/'/images/button-home_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_email',/*URL*/'/images/button-email.gif',/*URL*/'/images/button-email_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_index',/*URL*/'/images/button-index.gif',/*URL*/'/images/button-index_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_products',/*URL*/'/images/button-products.gif',/*URL*/'/images/button-products_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_press',/*URL*/'/images/button-press.gif',/*URL*/'/images/button-press_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_purchase',/*URL*/'/images/button-purchase.gif',/*URL*/'/images/button-purchase_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_support',/*URL*/'/images/button-support.gif',/*URL*/'/images/button-support_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_corporate',/*URL*/'/images/button-corporate.gif',/*URL*/'/images/button-corporate_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_contactus',/*URL*/'/images/button-contactus.gif',/*URL*/'/images/button-contactus_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_resellers',/*URL*/'/images/button-resellers.gif',/*URL*/'/images/button-resellers_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button_affiliates',/*URL*/'/images/button-affiliates.gif',/*URL*/'/images/button-affiliates_over.gif',/*URL*/'','');
+
+// --></script>
+		</csactiondict>
+	
+
+		<table border="0" cellpadding="0" cellspacing="0" width="600">
+			<tbody><tr>
+				<td><img height="1" src="/images/spacer.gif" width="65"></td>
+				<td><img height="1" src="/images/spacer.gif" width="53"></td>
+				<td><img height="1" src="/images/spacer.gif" width="72"></td>
+				<td><img height="1" src="/images/spacer.gif" width="69"></td>
+				<td><img height="1" src="/images/spacer.gif" width="99"></td>
+				<td><img height="1" src="/images/spacer.gif" width="78"></td>
+				<td><img height="1" src="/images/spacer.gif" width="15"></td>
+				<td><img height="1" src="/images/spacer.gif" width="23"></td>
+				<td><img height="1" src="/images/spacer.gif" width="42"></td>
+				<td><img height="1" src="/images/spacer.gif" width="5"></td>
+
+				<td><img height="1" src="/images/spacer.gif" width="36"></td>
+				<td><img height="1" src="/images/spacer.gif" width="43"></td>
+			</tr>
+			<tr>
+		<td colspan="4"><a title="SpectorSoft" href="/"><img height="30" alt="SpectorSoft" src="/images/SpectorSoftLogo.gif" width="259" border="0"></a></td>
+		<td colspan="4">
+			<img height="30" src="/images/Message.gif" width="215"></td>
+		<td><csobj ht="/images/button-home_over.gif" t="Button" h="30" w="42"><a onmouseover="return CSIShow(/*CMP*/'button_home',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_home',0)" href="/"><img height="30" src="/images/button-home.gif" width="42" border="0" name="button_home"></a></csobj></td>
+		<td colspan="2"><csobj ht="/images/button-email_over.gif" t="Button" h="30" w="41"><a onmouseover="return CSIShow(/*CMP*/'button_email',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_email',0)" href="/contact/index.html"><img height="30" src="/images/button-email.gif" width="41" border="0" name="button_email"></a></csobj></td>
+		<td><csobj ht="/images/button-index_over.gif" t="Button" h="30" w="43"><a onmouseover="return CSIShow(/*CMP*/'button_index',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_index',0)" href="/siteindex.html"><img height="30" src="/images/button-index.gif" width="43" border="0" name="button_index"></a></csobj></td>
+	</tr>
+			<tr>
+				<td><csobj ht="/images/button-products_over.gif" t="Button" h="24" w="65"><a onmouseover="return CSIShow(/*CMP*/'button_products',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_products',0)" href="/products/"><img height="24" src="/images/button-products.gif" width="65" border="0" name="button_products"></a></csobj></td>
+				<td><csobj ht="/images/button-press_over.gif" t="Button" h="24" w="53"><a onmouseover="return CSIShow(/*CMP*/'button_press',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_press',0)" href="/press/"><img height="24" src="/images/button-press.gif" width="53" border="0" name="button_press"></a></csobj></td>
+				<td><csobj ht="/images/button-purchase_over.gif" t="Button" h="24" w="72"><a onmouseover="return CSIShow(/*CMP*/'button_purchase',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_purchase',0)" href="/purchase/"><img height="24" src="/images/button-purchase.gif" width="72" border="0" name="button_purchase"></a></csobj></td>
+				<td><csobj ht="/images/button-support_over.gif" t="Button" h="24" w="69"><a onmouseover="return CSIShow(/*CMP*/'button_support',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_support',0)" href="/support/"><img height="24" src="/images/button-support.gif" width="69" border="0" name="button_support"></a></csobj></td>
+				<td><csobj ht="/images/button-corporate_over.gif" t="Button" h="24" w="99"><a onmouseover="return CSIShow(/*CMP*/'button_corporate',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_corporate',0)" href="/corporate/"><img height="24" src="/images/button-corporate.gif" width="99" border="0" name="button_corporate"></a></csobj></td>
+				<td><csobj ht="/images/button-contactus_over.gif" t="Button" h="24" w="78"><a onmouseover="return CSIShow(/*CMP*/'button_contactus',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_contactus',0)" href="/contact/"><img height="24" src="/images/button-contactus.gif" width="78" border="0" name="button_contactus"></a></csobj></td>
+				<td><img height="24" src="/images/button-divide.gif" width="15"></td>
+				<td colspan="3"><csobj ht="/images/button-resellers_over.gif" t="Button" h="24" w="70"><a onmouseover="return CSIShow(/*CMP*/'button_resellers',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_resellers',0)" href="/resellers/"><img height="24" src="/images/button-resellers.gif" width="70" border="0" name="button_resellers"></a></csobj></td>
+				<td colspan="2"><csobj ht="/images/button-affiliates_over.gif" t="Button" h="24" w="79"><a onmouseover="return CSIShow(/*CMP*/'button_affiliates',1)" onclick="return CSButtonReturn()" onmouseout="return CSIShow(/*CMP*/'button_affiliates',0)" href="/affiliates/"><img height="24" src="/images/button-affiliates.gif" width="79" border="0" name="button_affiliates"></a></csobj></td>
+			</tr>
+		</tbody></table>
+		<table border="0" cellpadding="0" cellspacing="0" width="600">
+			<tbody><tr>
+				<td colspan="4"><img height="72" src="images/header-corporate.gif" width="600" border="0"></td>
+			</tr>
+			<tr>
+				<td valign="top" width="20"><img height="20" src="images/spacer.gif" width="20" border="0"></td>
+				<td valign="top" width="400">
+					<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1" color="gray"><a href="../">Home</a> </font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1" color="silver">&gt;&gt;&gt;</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1" color="gray"> Online Privacy Policy</font><br>
+						<img height="35" src="images/title-privacy.gif" width="400" border="0"></p>
+				</td>
+				<td width="20"><img height="20" src="images/spacer.gif" width="20" border="0"></td>
+				<td width="160" valign="top"><img height="40" src="images/sidebar-end.gif" width="160" border="0"></td>
+			</tr>
+			<tr>
+				<td valign="top" width="20"></td>
+				<td valign="top" colspan="3"><br>
+
+					<p class="bodyparagraph">This privacy statement discloses the privacy practices for SpectorSoft Corporation websites including: www.spectorsoft.com, www.eblaster.com, www.spectersoft.com, www.spectorpro.com, and www.spectorsoft.de.</p>
+					<p class="bodyparagraph">Because SpectorSoft wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of:</p>
+					<ol>
+						<li type="1" class="bodyparagraph">What personally identifiable information of yours is collected from you through the web site
+						</li><li type="1" class="bodyparagraph">How the information is used
+						</li><li type="1" class="bodyparagraph">With whom the information may be shared
+						</li><li type="1" class="bodyparagraph">What choices are available to you regarding collection, use and distribution of the information
+						</li><li type="1" class="bodyparagraph">The kind of security procedures that are in place to protect the loss, misuse or alteration of information under SpectorSoft's control
+						</li><li type="1" class="bodyparagraph">How you can correct any inaccuracies in the information.</li>        
+					</ol>
+					<p class="bodyparagraph">If you feel that this company is not abiding by its posted privacy policy, you should first contact SpectorSoft Customer Service by E-mail at <a href="mailto:info@spectorsoft.com">info@spectorsoft.com</a>.</p>
+					<p class="bodyparagraph">Information Collection and Use</p>
+					<p class="bodyparagraph">SpectorSoft Corporation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. SpectorSoft Corporation collects information from our users at several different points on our website.</p>
+					<p class="bodyparagraph">Purchase</p>
+					<p class="bodyparagraph">SpectorSoft requires that information be provided when purchasing SpectorSoft software products. This information is used by SpectorSoft in the following manner:</p>
+					<ol>  
+					  <li type="1" class="bodyparagraph">Financial information necessary to purchase SpectorSoft products includes the customer's name, credit card billing address, credit card number, and credit card expiration date. Credit card numbers are not stored or archived by SpectorSoft except the last 4 digits of the credit card which are kept as part of the purchase record. The last 4 digits of the credit card are kept in order to assist in future customer inquiries related to the purchase.
+					  </li><li type="1" class="bodyparagraph">Shipping information necessary to deliver physical software product includes the customer's name and shipping address. SpectorSoft will not use this information to mail any other solicitation nor will SpectorSoft sell this information to any third party.
+			          </li><li type="1" class="bodyparagraph">Contact information 
+        necessary to identify the customer includes the customer's name and email address. This information is required in order to email a purchase receipt to the customer containing information about the purchase that was made, including instructions for downloading and installing the software purchased and the serial number of the software purchased. The email address may also be used to contact the customer regarding problems processing the order. The name and email address are used for security purposes by our customer service personnel with regards to any customer inquiries about a software purchase. Information regarding a customer software purchase will only be provided at the email address used for that purchase. The name and email information may also be used to contact the customer about software products available on our web site. If a customer desires to not be contacted about our software products using their email address, they can prevent the email address from receiving SpectorSoft product solicitiations. Please see the below policy on 'opt-out' and discontinue.</li>                                                                                                                                                            
+					</ol>
+ 					<p class="bodyparagraph">Cookies</p>
+					<p class="bodyparagraph">Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies by themselves do not personally identify users, although they do identify a user's computer. Most browsers are configured to accept cookies. If you'd prefer, you can set your browser to refuse cookies. However, you will not be able to purchase software on our web site without session cookies enabled. The cookies allow SpectorSoft to manage the state of the order purchase process. Cookies may also be used to store a code that provides the customer with special price offers on SpectorSoft products and to determine from which web site a special price offer was made.</p>
+					<p class="bodyparagraph">Referers</p>
+					<p class="bodyparagraph">A Referer is the information passed along by a web browser that references the Web site that you came to the Spectorsoft web site from. This Referer is automatically collected by our web server. This information is used by SpectorSoft to identify broad demographic trends about use of our site. You will not be personally identified by this information.
+					</p><p class="bodyparagraph">IP Addresses</p>
+					<p class="bodyparagraph">IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. SpectorSoft web sites automatically collect IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information about web site use. SpectorSoft will not use your IP address to identify any personal information.</p>
+					<p class="bodyparagraph">Sharing of Information</p>
+					<p class="bodyparagraph">SpectorSoft will never sell, rent, license, exchange, or share any data about you without your permission except under the following limited circumstances: (i) if SpectorSoft is required to do so by law, or (ii) SpectorSoft has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on SpectorSoft, or to protect and defend the rights or property of SpectorSoft or to enforce the <a href="terms.html">Terms of Use</a></p>
+					<p class="bodyparagraph">Tell-A-Friend</p>
+					<p class="bodyparagraph">If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. SpectorSoft will automatically send the friend a one-time email inviting them to visit the site. This information is not stored by SpectorSoft and we will not contact them again using this information.</p>
+					<p class="bodyparagraph">Security</p>
+					<p class="bodyparagraph">Information collected by SpectorSoft is stored in secure operating environments that are not available to the public. All of our employees are dedicated to maintaining and upholding your privacy and security and are aware of our privacy and security policies. Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information, SpectorSoft cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best efforts to ensure its security on our systems.</p>
+					<p class="bodyparagraph">The SpectorSoft web site purchase forms ask users to enter sensitive personal information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our purchase order form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.</p>
+					<p class="bodyparagraph">Special Offers</p>
+					<p class="bodyparagraph">SpectorSoft customers will occasionally receive information on SpectorSoft products, services, and special offers. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our opt-out and discontinue policy below.</p>
+					<p class="bodyparagraph">Correction/Updating Personal Information:</p>
+					<p class="bodyparagraph">If a customer's personal information changes (such as your email), we will endeavor to provide a way to correct, update or remove that user’s personal information provided to us. This can be done emailing our <a href="mailto:support@spectorsoft.com">Customer Support</a>.</p>
+					<p class="bodyparagraph">Opt-out and Discontinue</p>
+					<p class="bodyparagraph">A SpectorSoft customer may elect to avoid future communications from SpectorSoft by sending us an email at <a href="mailto:remove@spectorsoft.com">remove@spectorsoft.com</a> or <a href="mailto:support@spectorsoft.com">support@spectorsoft.com</a> indicating your name and email address and requesting we discontinue future communications. Under urgent circumstances, SpectorSoft may be required to send you information about your software purchase, but we will not send you unsolicited communications regarding any commercial offers or advertisements if you have opted out or discontinued communications.
+					</p><p class="bodyparagraph">Notification of Changes</p>
+					<p class="bodyparagraph">If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="20"></td>
+				<td width="400"></td>
+				<td width="20"></td>
+				<td width="160" valign="bottom"><a href="#top"><img height="25" src="images/topofpage.gif" width="160" border="0"></a></td>
+			</tr>
+			<tr>
+				<td colspan="4" valign="center" align="middle">
+					<hr noshade="" size="1">
+					<img height="20" src="images/copyright.gif" width="400" border="0"><br>
+					<font size="1"><a href="terms.html">Terms of Use</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="privacy.html">Online Privacy Policy</a></font></td>
+			</tr>
+		</tbody></table>
+	
+</body></html>
