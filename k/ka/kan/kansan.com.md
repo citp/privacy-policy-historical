@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kansan.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204032100id_/http%3A//kansan.com/includes/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansan.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603113044id_/http%3A//www.kansan.com/includes/misc/privacy.html) for the most accurate reproduction.*
 
 # Kansan.com - Privacy Policy and Internet Safety Tips
 
