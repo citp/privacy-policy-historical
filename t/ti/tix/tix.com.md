@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tix.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204020933id_/http%3A//www.tix.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tix.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606040853id_/http%3A//www.tix.com/Privacy.asp) for the most accurate reproduction.*
 
-# www.TIX.com - It's the Ticket!
+# www.TIX.com - Ticket Software, Services, and Sales
 
 ### Privacy Policy
 
   
-**Scope** This Privacy Policy covers www.tix.com treatment of personally identifiable information that www.tix.com collects when you are on the www.tix.com web site ("Site"). This policy does not cover the treatment of personally identifiable information that may be collected by other web sites ("Third-Pary Sites") that www.tix.com links to or is otherwise affiliated with.
+**Scope** This Privacy Policy covers www.tix.com treatment of personally identifiable information that www.tix.com collects when you are on the www.tix.com web site ("Site"). This policy does not cover the treatment of personally identifiable information that may be collected by other web sites ("Third-Party Sites") that www.tix.com links to or is otherwise affiliated with.
 
 **Information Collection and Use** www.tix.com collects personally identifiable information when you register for an account or purchase products or services. www.tix.com also collects information from your browser including browser type, browser version, browser settings, operating system, pages visited, your IP Address, and Cookies. www.tix.com uses this information for general purposes such as allowing you to add products and services to your shopping cart, tailoring the content within the Site to match your interests, and ensuring that the site continues to operate properly with commonly used operating systems and browsers.
 
@@ -17,4 +17,4 @@ Children under the age of 13 are prohibited from submitting personal information
 
 **Changes** www.tix.com may change this policy from time to time. Any changes will be posted on this Site.
 
-**Terms of Use** [Click here](https://web.archive.org/web/20031204020933id_/http%3A//www.tix.com/TermsOfUse.asp) for our Terms of Use.
+**Terms of Use** [Click here](https://web.archive.org/web/20040606040853id_/http%3A//www.tix.com/TermsOfUse.asp) for our Terms of Use.
