@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207052700id_/http%3A//www.hollywood.com/abouthol/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406203724id_/http%3A//www.hollywood.com/abouthol/privacy.html) for the most accurate reproduction.*
 
-# Hollywood.com - Isn't It Time You Went Hollywood!
+# Hollywood.com - Your entertainment source for movies, movie showtimes, movie reviews, television and celebrity news.!
 
   
 
 
 ## Privacy Statement for Hollywood.com
 
-Hollywood.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Hollywood.com. 
+Hollywood.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Hollywood.com. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to gather broad demographic information, such as country of origin. 
 
@@ -25,7 +25,7 @@ This site contains links to other sites. **Hollywood.com** is not responsible fo
 
 We have a "Powered by" relationship with Gist. Their content is housed on their servers. We link to Gist for movies on television as a banner and promotional swap. We share general aggregate information about our users with advertisers and business development partners. 
 
-The ads appearing out this Web site are delivered to you by DoubleClick, our Web advertising partner. Please [click here](http://www.doubleclick.net/privacy_policy/) for more information on DoubleClick and its privacy policy, information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns. 
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/privacy_policy/). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 ### Public Forums
 
