@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsbounty.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214053441id_/http%3A//www.artsbounty.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsbounty.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204085039id_/http%3A//www.artsbounty.com/privacy.htm) for the most accurate reproduction.*
 
 # Art's Bounty, Inc. Privacy
 
