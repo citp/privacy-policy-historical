@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dance.net privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607040714id_/http%3A//www.dance.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dance.net privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402153647id_/http%3A//www.dance.net/privacy.html) for the most accurate reproduction.*
 
-# dance.net - Privacy
-
-[Ask Jeeves!](http://service.bfast.com/bfast/click/mid1836462?siteid=7050574&bfpage=askme)
+# dance.net - Privacy: Ballet, Jazz, Modern, Hip Hop News, Art, Photos, Chat, Events and More!
 
 | **Dance.net Privacy Policy**
 
