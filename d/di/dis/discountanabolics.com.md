@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountanabolics.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205033359id_/http%3A//www.discountanabolics.com/page/DA/CTGY/Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountanabolics.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606075913id_/http%3A//www.discountanabolics.com/page/DA/CTGY/Security) for the most accurate reproduction.*
 
 # Security & Privacy: Discount Anabolics
 
