@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610170451id_/http%3A//www.thompson-morgan.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207154127id_/http%3A//www.thompson-morgan.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Thompson & Morgan: Privacy Statement of Thompson & Morgan (Group) Ltd
+# Thompson & Morgan : Privacy Statement of Thompson & Morgan (Group) Ltd
 
 Thompson & Morgan truly believes in keeping your confidential information just that - confidential! We will only use your personal information for the purposes of enhancing your Thompson & Morgan experience. Registering with us allows you to take advantage of all our unique services as a Thompson & Morgan member, including: receiving sneak previews of special sales and promotions and receiving customized regional gardening information.
 
