@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806185728id_/http%3A//www.kipp.org/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405164141id_/http%3A//www.kipp.org/privacypolicy.cfm%3Fpageid%3Dhome) for the most accurate reproduction.*
 
-# KIPP > Privacy Policy
+# KIPP: Knowledge Is Power Program
 
 The KIPP Foundation greatly respects the privacy of users of this web site. The current privacy policy of this web site is as follows:
 
