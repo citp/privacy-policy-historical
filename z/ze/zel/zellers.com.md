@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the zellers.com privacy policy that was archived on 2001-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010502091635id_/http%3A//www.hbc.com/zellers/LegalPolicy/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zellers.com privacy policy that was archived on 2001-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011022023221id_/http%3A//www.hbc.com/zellers/LegalPolicy/security.asp) for the most accurate reproduction.*
 
 # Zellers Corporate Information
 
-Please make sure you have read [Terms and Conditions](https://web.archive.org/web/20010502091635id_/http%3A//www.hbc.com/zellers/LegalPolicy/terms_conditions.asp).
+Please make sure you have read [Terms and Conditions](https://web.archive.org/web/20011022023221id_/http%3A//www.hbc.com/zellers/LegalPolicy/terms_conditions.asp).
 
- **hbc.com** has been built to be of service to you. Hudson�s Bay Company has been a long-standing member of the [Canadian Marketing Association (CMA)](http://www.the-cma.org/) and we adhere to its Code of Ethics, which includes guidelines for permission marketers in this electronic environment.
+ **hbc.com** has been built to be of service to you. Hudson's Bay Company has been a long-standing member of the [Canadian Marketing Association (CMA)](http://www.the-cma.org/) and we adhere to its Code of Ethics, which includes guidelines for permission marketers in this electronic environment.
 
  **About Personal Information sent through eNewsletter Subscriptions and Shopping Transactions**
 
  **hbc.com** does not share personal information that you provide, including customer names, eMail addresses or other information required for shopping transactions or eMail subscriptions (eNewsletters), with any outside agencies or companies for their own marketing or promotional purposes. Your personal information is used in the completion of transactions which you have requested. Please review Fraud Prevention below and Terms and Conditions to understand how this personal information is used.
 
- **eNewsletters**
+**eNewsletters**
 
- **hbc.com** may work with outside agencies as technical resources for eMailing **hbc.com** �s marketing campaigns and our eNewsletter subscription service. We will provide them with the relevant subscriber information to successfully send out eNewsletters, such as eMail addresses. Any third party that does assist us with eNewsletters has agreed not to use or disclose such information for any other purpose.
+ **hbc.com** may work with outside agencies as technical resources for eMailing **hbc.com** 's marketing campaigns and our eNewsletter subscription service. We will provide them with the relevant subscriber information to successfully send out eNewsletters, such as eMail addresses. Any third party that does assist us with eNewsletters has agreed not to use or disclose such information for any other purpose.
 
-Customers who choose to voluntarily opt in to receive a **hbc.com** eNewsletter will receive occasional eMails that outline store and site specials, plus other information. Due to the regional nature of Bay and Zellers� promotions, **hbc.com** may also request a postal code from subscribers to match store specials within their regions. Aside from postal code and eMail address, the only other personal information requested from subscribers is a name.
+Customers who choose to voluntarily opt in to receive a **hbc.com** eNewsletter will receive occasional eMails that outline store and site specials, plus other information. Due to the regional nature of Bay and Zellers' promotions, **hbc.com** may also request a postal code from subscribers to match store specials within their regions. Aside from postal code and eMail address, the only other personal information requested from subscribers is a name.
 
  **Security**
 
@@ -26,7 +26,7 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
  **hbc.com** reserves the right to co-operate with local, provincial and national authorities in investigations of improper or unlawful activities and this may require the disclosure of personal information. We may also report to other organizations about improper or unlawful user activities on **hbc.com** and this reporting may include disclosure of personal information relation to those individuals conducting such improper or unlawful activities.
 
-In addition, in order to protect you and **hbc.com** from fraudulent transactions, **hbc.com** may provide your online shopping related information to a reputable third party organization to perform address verification. This address verification is intended to ensure that the �bill to� address that you provide matches your credit card address. The third party organization does not store any personal information that **hbc.com** provide from shopping transactions.
+In addition, in order to protect you and **hbc.com** from fraudulent transactions, **hbc.com** may provide your online shopping related information to a reputable third party organization to perform address verification. This address verification is intended to ensure that the "bill to" address that you provide matches your credit card address. The third party organization does not store any personal information that **hbc.com** provide from shopping transactions.
 
  **Membership**
 
@@ -38,7 +38,7 @@ We also offer the option, if you so desire, to cancel you membership. Upon such 
 
  **Cookies**
 
-We do not use [cookies](https://web.archive.org/web/20010502091635id_/http%3A//www.hbc.com/zellers/LegalPolicy/cookies.asp) on **hbc.com**. 
+We do not use [cookies](https://web.archive.org/web/20011022023221id_/http%3A//www.hbc.com/zellers/LegalPolicy/cookies.asp) on **hbc.com**. 
 
 **About Any Other Information you send hbc.com**
 
