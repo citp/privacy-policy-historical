@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607202639id_/http%3A//www.filext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204045752id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -59,11 +59,9 @@ This privacy statement covers the use of cookies by FILExt only and does not cov
 
 ### Third Party Advertising 
 
-The ads appearing on the FILExt Web site are delivered to users by ValueClick, Google Adsense, and focusIN our Web advertising partners. Information about users' visits to the FILExt site, such as the number of times users have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on the FILExt site. For more information about how these advertising partners collect and use this information please see their privacy statements:
+The ads appearing on the FILExt Web site are delivered to users by Google Adsense, our Web advertising partners. Information about users' visits to the FILExt site, such as the number of times users have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on the FILExt site. For more information about how advertising partners collect and use this information please see their privacy statements:
 
   * [Google Adsense Privacy Statement](http://www.google.com/privacy.html)
-  * [ValueClick Privacy Statement](http://www.valueclick.com/privacy_menu.html)
-  * [focusIN Privacy Statement](http://www.focusin.com/privacy.htm)
 
 
 
@@ -75,7 +73,7 @@ Clear GIFs can "work with" existing cookies on a computer if they are both from 
 
 Affiliates are companies the sell products FILExt feels might be useful to FILExt customers. FILExt trades advertising space to these companies in return for a negotiated percentage of the purchase price for any products you purchase from the affiliate. Links to affiliates from the FILExt site direct you to the company's site or to a retailer the company deals with to sell their products. It's important for you to realize that when you click on one of these affiliate links you are leaving the FILExt site and FILExt has no control over any privacy matters relating to those sites. Once you leave the FILExt site and arrive at an affiliate site you need to check their privacy policy to determine how they use personal information they might collect. At a minimum, affiliate sites will generally set a persistent cookie when you arrive at their site from the FILExt site.
 
-There is no complete listing of Affiliates as they frequently change. When you leave the FILExt site please check the privacy statement for the site you arrive at. You have left the FILExt site when you do not see the FILExt graphic logo in the upper left corner of the Web page. 
+There is no complete listing of Affiliates as they frequently change. When you leave the FILExt site please check the privacy statement for the site you arrive at. You have left the FILExt site when you do not see the FILExt graphic logo in the upper left corner of the Web page or the page is attempting to sell you something. FILExt has no materials (software or otherwise) for sale directly to consumers. 
 
 ### Log Files 
 
@@ -83,7 +81,7 @@ Like most standard Web site servers FILExt uses log files. This includes Interne
 
 ### Communications from FILExt 
 
-Communications from FILExt in response to submittals and/or feedback will carry a Computer Knowledge (cknow.com) return address. Automatic responses from the FILExt forum will carry a filext.com address from the user "bbsadmin". These are machine-generated responses for such things as sending you a password confirmation when signing on to the forum or reminders when someone has posted to a thread you have marked for watching. Except for the user "bbsadmin" you should never see an E-mail with a filext.com "From" address. Any mail received with a filext.com return address other than the above will be a forgery. Unfortunately, the structure of the Internet's E-mail system make such forgeries fairly easy to accomplish.
+Communications from FILExt in response to submittals and/or feedback will generally carry a Computer Knowledge (cknow.com) return address. Automatic responses from the FILExt forum will carry a filext.com address from the user "vb_boss". These are machine-generated responses for such things as sending you a password confirmation when signing on to the forum or reminders when someone has posted to a thread you have marked for watching. Except for the user "vb_boss" you should never see an E-mail with a filext.com "From" address. Any mail received with a filext.com return address other than the above will most likely be a forgery. Unfortunately, the structure of the Internet's E-mail system make such forgeries fairly easy to accomplish.
 
 ### Sharing Legal Disclaimer 
 
@@ -97,7 +95,7 @@ The FILExt Web site contains links to other sites. Please be aware that FILExt i
 
 ### Security 
 
-FILExt takes every precaution to protect users' information. When you submit sensitive information via the FILExt Web site, your information is protected both on-line and off-line. Passwords for the discussion forum are encrypted and even the FILExt administrator has no access to the raw data. Should you forget your password you will have to request the system to assign another and then, if you wish, change that yourself. 
+FILExt takes every precaution to protect users' information. When you submit sensitive information via the FILExt Web site, your information is protected both on-line and off-line. Passwords for the discussion forum are encrypted and even the FILExt administrator has no access to the raw data. Should you forget your password you can ask that it be sent to you by the system. To do that, send your user name to the Webmaster via the contact form. 
 
 If you have questions about the security at the FILExt site please use the contact information below. 
 
@@ -115,7 +113,7 @@ If, however, FILExt is going to use users' personally identifiable information i
 
 ### Contact Information 
 
-If you have any questions or suggestions regarding the FILExt privacy policy, please contact FILExt using the [contact form](https://web.archive.org/web/20040607202639id_/http%3A//www.filext.com/faq/contact.php) on the FILExt Web site.
+If you have any questions or suggestions regarding the FILExt privacy policy, please contact FILExt using the [contact form](https://web.archive.org/web/20041204045752id_/http%3A//filext.com/faq/contact.php) on the FILExt Web site.
 
 If you prefer contact via postal mail please use the address:
 
