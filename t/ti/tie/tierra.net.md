@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tierra.net privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207051633id_/http%3A//control.tierra.net/tierra.net/cgi-t/doc.cgi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tierra.net privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606042633id_/http%3A//control.tierra.net/tierra.net/cgi-t/doc.cgi/privacy) for the most accurate reproduction.*
 
 # TierraNet - Privacy Policy
 
