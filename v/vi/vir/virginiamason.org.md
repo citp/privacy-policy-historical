@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216224707id_/http%3A//www.virginiamason.org/dbCustomerService/service139540.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619155728id_/http%3A//www.virginiamason.org/dbCustomerService/service139540.asp) for the most accurate reproduction.*
 
 # VirginiaMason.org Privacy Policy
 
@@ -85,9 +85,9 @@ Questions regarding this statement should be emailed to [emailvm@vmmc.org](mailt
 To return to the Web site, please use the "Back" button on your browser. 
 
   
-Contents © 2002 Virginia Mason Medical Center,  
+Contents © 2003 Virginia Mason Medical Center,  
 1100 Ninth Ave., Seattle, WA, 98101  
 (206) 223-6600  
-All rights reserved. [Terms of Use](https://web.archive.org/dbCustomerService/service139539.asp) [Privacy Policy](https://web.archive.org/web/20021216224707id_/http%3A//www.virginiamason.org/dbCustomerService/service139540.asp)
+All rights reserved. [Terms of Use](https://web.archive.org/dbCustomerService/service139539.asp) [Privacy Policy](https://web.archive.org/web/20030619155728id_/http%3A//www.virginiamason.org/dbCustomerService/service139540.asp)
 
 This document last modified on 2/7/02 2:02:20 PM
