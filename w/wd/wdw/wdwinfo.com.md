@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023021358id_/http%3A//wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621133640id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
-# Disney World Information - Theme Park / Behind the Scenes Tours
+# Disney World Information - Privacy Policy
 
 **Privacy Policy:**
 
@@ -15,34 +15,56 @@ distribution of the information 
 6\. Important exceptions  
 7\. COPA compliance
 
-**1\. What Personally Identifiable Information of yours is collected:**
-
+**  
+1\. What Personally Identifiable Information of yours is collected:**   
 General information for the purpose of determining the number of visitors to our site is captured every time you visit.  This information includes the IP Address of your Internet Service Provider, the type of browser you are using, the date and time you access our site; and the Internet address of  
-the website from which you linked directly to our site.    The only time personal information about you is captured is when you provide that information to us in the form of a survey, contest, free email account, discussion forum registration, chat forum registration or free visitor web site registration.  
+the website from which you linked directly to our site.    The only time personal information about you is captured is when you provide that information to us in the form of a survey, contest, free email account, discussion forum registration, chat forum registration or free visitor web site registration.   **
 
-**2.   What organization is collecting the information:**
+2.   What organization is collecting the information:
+
+**
 
 The information that you provide to us is collected and maintained by Werner Technologies, Inc., 12179 S. Apopka Vineland Rd, Suite 523, Orlando, Florida 32836
 
-**3.   How is the information used:**
+**
+
+3.   How is the information used:
+
+**
 
 The information is used only for the purpose it is intended.  Under no circumstances will your email address, or personal information be sold to any third party, at any time for any reason.  We will use the email information ONLY for issues that pertain to the area in which you provided the information.  For example, if we have plans to make changes to our free email program, all those who registered for that program will receive an email outlining those changes.  If you have signed up for one of our mailing lists, only information pertaining to that mailing list is sent to you, along with clear and explicit instructions on how to unsubscribe from such a list.  At no time will you be solicited directly from the site unless you have acknowledged that you wish to receive such information.
 
-**4.   With whom is the information shared:**
+**
+
+4.   With whom is the information shared:
+
+**
 
 The information is not shared with any other entity under any circumstance unless ordered by a court of law to do so.
 
-**5.   What choices are available to you regarding collection, use, and distribution of the information:**
+**
+
+5.   What choices are available to you regarding collection, use, and distribution of the information:
+
+**
 
 The only areas that require entry of any personal data are listed above.  You have the right not to participate in these forums if you do not wish to include your personal information.  At any time, you can request that your name be removed from any of our mailing lists by submitting a request to [webmaster@wdwinfo.com](mailto:webmaster@wdwinfo.com)
 
- **6.   Important Exceptions:**
+ **
+
+6.   Important Exceptions:
+
+**
 
 When you register to post on our discussion forums, you are given the option to display your email address for other site visitors to see.  If you opt to do that, we have no control over what mail you may receive as a result.  At that point, the information is considered 'published' with your permission.  You can still use our discussion forums and NOT display your email address by selecting that option during the registration process.
 
 Also, when you sign up for a particular advertisers services (via the site), that advertiser may use your email address to provide you with information on their services. 
 
- **7\. COPA Compliance:**
+ **
+
+7\. COPA Compliance:
+
+**
 
 In compliance with the **Children's Online Privacy Act** , we affirm the following:
 
