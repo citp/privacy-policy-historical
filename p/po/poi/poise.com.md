@@ -1,26 +1,22 @@
-> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2000-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000416233122id_/http%3A//www.poise.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816061753id_/http%3A//www.poise.com/privacy.asp) for the most accurate reproduction.*
 
 # The Depend Poise Legal Statement
 
 **Privacy Policy**
 
-This website is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. So we've developed a Privacy Policy to address those concerns. We may update the Policy from time to time, so please check in occasionally. 
+This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below. 
 
 **Our Policy**
 
-At our site, we don't collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means you do not have to sign up in order to look at our site. However, if you specifically agree to provide us with identifiable information such as by asking to be put on our mailing list, we may contact you from time to time. 
+At our site, we don't collect personally identifiable information from you unless you provide it to us voluntarily and knowingly. You can visit our sites without telling us who you are or revealing information about yourself. However, if you specifically agree to provide us with identifiable information, such as by asking to be put on our mailing list, we may contact you from time to time. 
 
-There are some features of our site that require you to sign up to use. And, if you do sign up, we use the information you supply for the purpose of providing the information or services you request. Because of the volume of requests we receive however, we may have to give your name, e-mail and postal addresses to a fulfillment house or distributor of our products. On our behalf they will provide you with the information or products in which you expressed an interest. See the section below entitled If You Want to Buy Products for more details. 
+There are some features of our site that require you to sign up to use. And if you do sign up, we use the information you supply for the purpose of providing the products, product information or services you request. Because of the volume of requests we receive, however, we may have to give your name, e-mail and postal addresses to a fulfillment house or distributor of our products who partner with us. On our behalf our partners will provide you with the information or products in which you expressed an interest. Our partners have agreed to keep the personal information they receive from us confidential and secure unless you have given your consent to it being shared with other product manufacturers. 
 
-Our site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (e.g., to contact you if you're a winner). 
+Our site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner). 
 
-**Kids**
+**Children**
 
-If you are twelve (12) years old or under, before providing your name, address, or e-mail address to us, be sure to ask your parents if it's OK. 
-
-**If You Want to Buy Products**
-
-Some of our sites, such as, Adult Care (www.depend.com), Infant Care (www.huggies.com), Away From Home (www.k-caway.com) and Professional Health Care (www.kchealthcare.com), offer products that are sold through distributors rather than retail stores. If you write, phone or e-mail us that you are interested in products, such as, straps for DEPEND® undergarments, HUGGIES® diapers in preemie size, FLUIDSHIELD® disposable face masks or KAYDRY® EX-L wipers, we will ask you if we may pass your name and postal and e-mail addresses to a distributor of these products who can help you to get product information or products, or both. If you agree, we will pass on your name.
+Children's privacy is of primary concern to us, and our Policy and practices reflect applicable laws and regulations on children's privacy. We do not knowingly collect personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by Kimberly-Clark. 
 
 **Cookies**
 
@@ -28,7 +24,7 @@ Like many companies, we sometimes use "cookie" technology on our web site. These
 
 **Contact Us**
 
-If you have any questions about our Privacy Policy, you can contact us via [e-mail](http://www.kimberly-clark.com/ask/depend/index.asp?site=www.depend.com) or write to us at:
+If you have any questions about our Privacy Policy, you can contact us via [e-mail](http://www.kimberly-clark.com/ask/depend/index.asp?site=www.depend.com) or phone us at 1-800-665-9773. For postal mail, please write to us at:
 
     Kimberly-Clark Corporation  
     P.O. Box 2020   
