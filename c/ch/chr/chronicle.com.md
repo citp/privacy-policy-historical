@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205120700id_/http%3A//chronicle.com/about-help.dir/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607034119id_/http%3A//www.chronicle.com/about-help.dir/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle: Privacy Statement
 
@@ -52,7 +52,7 @@ This site makes forums (such as the Colloquy discussions and Letters to the Edit
 
 You can modify information in our database by visiting our subscriber-services page at [http://chronicle.com/services](https://web.archive.org/services/services.htm)
 
-You can also send an e-mail message to [help-today@chronicle.com](mailto:help-today@chronicle.com)
+You can also send an e-mail message to [help@chronicle.com](mailto:help@chronicle.com)
 
 **Contacting The Chronicle**
 
