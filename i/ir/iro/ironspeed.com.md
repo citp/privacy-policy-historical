@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ironspeed.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605094924id_/http%3A//www.ironspeed.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironspeed.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403152908id_/http%3A//www.ironspeed.com/privacy) for the most accurate reproduction.*
 
-# Iron Speed: Software Development Tools for Database, Forms, and Reporting Applications
+# Iron Speed
 
 _Information about privacy on Ironspeed.com, last updated on February 27, 2004_
 
-Iron Speed is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement applies to the Iron Speed Web site and our Iron Speed Designer software. Please read the complete Iron Speed privacy statement. 
+Iron Speed is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement applies to the Iron Speed Web site and our Iron Speed Designer software. Please read the complete Iron Speed privacy statement.
 
 Collection of your Personal Information  
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters, joining a limited-access premium site, signing up for an event or training, or when purchasing and/or registering Iron Speed products. Personal information collected by Iron Speed often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested.
@@ -20,13 +20,15 @@ Iron Speed also collects information about which pages our customers visit in th
 When you use certain Iron Speed Web sites or software, you will be asked to provide your e-mail address and a password to sign you in. 
 
 Use of your Personal Information  
-We use your personal information for the following purposes: 
+We use your personal information for the following purposes:
 
   * To ensure our site is relevant to your needs.
   * To deliver services, such as newsletters, events, training or software, that you request or purchase.
   * To help us create and publish content most relevant to you.
   * To alert you to product upgrades, special offers, updated information and other new services from Iron Speed.
   * To allow you access to limited-entry areas of our site as appropriate.
+
+
 
 We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. We may combine site-visitation data with your personal information in order to provide you with personalized content or support.
 
