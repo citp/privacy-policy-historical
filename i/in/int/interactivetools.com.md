@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603054045id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211115429id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
 
 # interactivetools.com - Privacy Policy
 
@@ -43,46 +43,5 @@ We take your privacy very seriously. In order for you to better understand our d
 
 > Our site uses "cookies" which are small pieces of information that your browser stores on your computer's hard drive. These cookies allow you to store items in your shopping cart while browsing our web site and store the name and address that you enter on our page. The cookies are also used to identify our customers who are referred to us by one of our partners in order to compensate our partner for the referral. Most browsers automatically accept cookies, but you can usually set your browser to refuse cookies. If you refuse or disable our cookie, you will still be able to order from our web site. We do not make any information collected by our cookies available to third parties. 
 
-|     | 
+|     |    
 
-  
-**"We had done research before buying [Realty Manager], and it is BY FAR the most cost effective and user friendly of any other product we reviewed!"**
-
-Valerie Gamble  
-CalhounCountyBusiness  
-
-
-  
-
-
-* * *
-
-  
-**"...the support was fast, professional and accurate."**
-
-Barbara Bulkin  
-virtualhosting.com  
-
-
-  
-
-
-* * *
-
-  
-**"[Page Publisher] is solidly built, extremely easy for the client to learn and our ability to offer it as an additional web site feature is a real eye opener."**
-
-Jeff Hoffman  
-gilmangroup.com  
-
-
-  
-
-
-* * *
-
-  
-
-
-  
-Perl/CGI Programmers, check out our current Job Opportunities! 
