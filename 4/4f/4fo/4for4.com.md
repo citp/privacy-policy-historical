@@ -1,19 +1,31 @@
-> *The following text is extracted and transformed from the 4for4.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212035426id_/http%3A//www.4for4.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4for4.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601203116id_/http%3A//www.4for4.com/privacy.htm) for the most accurate reproduction.*
 
-# 4for4.com
+# 4for4.com - Fantasy Football
 
-**©2000-2001 Pieracle Inc. All rights reserved. **
+**__Privacy Policy__**  
+  
+  
+  
+  
+**4 for4.com ** (Web Site) is copyrighted property of Pieracle Inc. All Rights Reserved. **4 for4**® is a registered mark of Pieracle Inc. All other trademarks appearing on the Web Site are the property of their respective owners. Pieracle Inc. is a North Carolina corporation.   
+  
+**_Overview_**  
+The 4for4.com web site respects your right to privacy. You deserve to be able to control your personal information and protect your privacy. The 4for4.com privacy policy and guiding principle is clear. No personally identifiable information (such as your name, email address, street address, phone number or the like) is automatically collected from visitors to 4for4.com.   
+  
+Personally identifiable information is only collected when visitors themselves knowingly and voluntarily submitted it. In those cases when visitors voluntarily submit personally identifiable information, 4for4.com will not distribute the information to a 3rd party. 4for4.com will attempt to maintain appropriate safeguards to ensure the privacy of any personally identifiable information submitted.   
+  
+**_Information You Provide to Us_**  
+In general, 4for4.com does not collect personally identifiable information (e.g. name, address, phone number, email address, etc.). Your personal information is only collected when you voluntarily provide it to 4for4.com. We may collect and store information, personal or otherwise, that you voluntarily supply to us via e-mail, or in any other way. Some examples of this type of information include the information you submit (such as your e-mail address) when you register for contests, newsletters, surveys and/or order a Premium Service Membership. If you decline to supply or provide us with certain information, we may not be able to provide you with some services that require this type information. 
 
-**4 for4**.com (Web Site) is copyrighted property of Pieracle Inc. All Rights Reserved. **4 for4**® is a registered mark of Pieracle Inc. All other trademarks appearing on the Web Site are the property of their respective owners. Pieracle Inc. is a North Carolina corporation. 
-
-The **4 for4**.com web site respects your right to privacy. You deserve to be able to control your personal information and protect your privacy. The **4 for4**.com privacy policy and guiding principle is clear. No personally identifiable information (such as your name, email address, street address, phone number or the like) is automatically collected from visitors to **4 for4**.com. In general, **4 for4**.com has no interest in obtaining personal information about its visitors.
-
-Personally identifiable information is only collected when visitors themselves knowingly and voluntarily submitted it.  In those cases when visitors voluntarily submit personally identifiable information (e.g. site visitor sends **4 for4**.com an email), **4 for4**.com will not distribute your information to a 3rd party. **4 for4**.com will attempt to maintain appropriate safeguards to ensure the privacy of any personally identifiable information submitted.
-
-Information You Provide to Us.  Our policy is to collect as little personal information as possible while providing you with a top-rate service. In general, **4 for4 **does not collect personally identifiable information (e.g. name, address, phone number, email address, etc.). Your personal information is only collected when you voluntarily provide it to  **4 for4**.com. We may collect and store information, personal or otherwise, that you voluntarily supply to us via e-mail, or in any other way. Some examples of this type of information include the information you submit (such as your name or e-mail address) when you register for contests, newsletters, surveys, information that you might post on message boards and information you submit to the site. If you decline to supply or provide us with certain information, we may not be able to provide you with some services that require this type information. Worthy of note, whenever you voluntarily disclose personal information online, that information may be able to be seen, collected and used by others besides Pieracle Inc. As such, we cannot be responsible for any unauthorized third party use of information that you disclose. Information you provide and we collect is used to send you e-mail updates and newsletters about our sites. We also use the information you provide to send you e-mail promotions and special offers.
-
-At various times, **4 for4**.com may collect certain non-personal information to optimize web pages for your viewing. Non-personal information includes, but is not limited to, things such as the type browser you use, the type operating system you use, and the domain name of your internet service provider. Collecting this type of non-personal data is a generally accepted standard industry practice. We may use such non-personal information for internal purposes and to ultimately improve **4 for4**.com site content for your viewing benefit. In addition, **4 for4**.com may use this type of non-personal data to generate aggregate statistical information for the purposes of system administration and to report aggregate information to our advertisers. 
-
-If you have any specific questions regarding our privacy policy, please contact us via letter. Our mailing address is **4 for4**.com, Pieracle Inc., Box 97142, Raleigh NC 27624.
-
-By using **4 for4**.com you hereby agree to be bound by the policy above. Thank you for your cooperation. We hope you enjoy **4 for4**.com!
+**_Premium Service Secure Order Form_**  
+The 4for4.com Premium Service Secure Order Form is certified by Thawte (a VeriSign company). When people visit a web site with the intent of making an online purchase, they want proof of the identity of the web site owner. They also want to know that their personal information cannot be read by hackers. Thawte Certificates provide this peace of mind. Thawte is a global provider of digital certificate solutions that provide Internet users with peace of mind when sending information to web sites over the Internet. Thawte acts as a trusted third party on the Internet. They issue digital certificates to companies, and individuals, that are used as proof of identity online, and provide for the protection of all information sent over the World Wide Web, using the most currently available encryption technology. For more information on this topic please visit:   
+  
+   
+  
+  
+**_Non-Personal Information_**  
+At various times, 4for4.com may collect certain non-personal information to optimize web pages for your viewing. Non-personal information includes, but is not limited to, things such as the type browser you use, the type operating system you use, and the domain name of your internet service provider. Collecting this type of non-personal data is a generally accepted standard industry practice. We may use such non-personal information for internal purposes and to ultimately improve 4for4.com site content for your viewing benefit. In addition, 4for4.com may use this type of non-personal data to generate aggregate statistical information for the purposes of system administration.  
+  
+If you have any specific questions regarding our privacy policy, please contact us via letter. Our mailing address is: 4for4.com, Pieracle Inc., Box 97142, Raleigh NC 27624.   
+  
+By using 4for4.com you hereby agree to be bound by the policy above. Thank you for your cooperation. We hope you enjoy 4for4.com! 
