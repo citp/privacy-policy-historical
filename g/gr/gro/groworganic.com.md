@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groworganic.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407081847id_/http%3A//www.groworganic.com/a/a3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groworganic.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812172507id_/http%3A//www.groworganic.com/a/a3.html) for the most accurate reproduction.*
 
 # Peaceful Valley Farm Supply - Privacy
 
