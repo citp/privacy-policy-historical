@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2001-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011206041120id_/http%3A//www.autobytel.com/content/home/help/index.cfm%3Fid%3D4%3B4%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2002-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020917110804id_/http%3A//www.autobytel.com/content/home/help/index.cfm%3Fid%3D4%3B4%26action%3Dprivacy) for the most accurate reproduction.*
 
 # Autobytel Privacy Policy
 
 AUTOBYTEL.COM CONSUMER PRIVACY AND SECURITY POLICY
 
-[](https://www.truste.org/validate/2435)Autobytel.com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our Web site, we assure you that we are committed to protecting your personal privacy. 
+[](https://web.archive.org/system/fnc_logjump.cfm?id=4;4&log=general&partner=truste&linkpage=privacy_validate)Autobytel.com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our Web site, we assure you that we are committed to protecting your personal privacy. 
 
-Autobytel.com inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.autobytel.com. If you have questions or concerns regarding this statement, you should first contact our Consumer Privacy Advocate by e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com) or directly at 888-422-8999, ext. 3062. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <<http://www.truste.org/watchdog.html>>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Autobytel.com inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.autobytel.com. If you have questions or concerns regarding this statement, you should first contact our Consumer Privacy Advocate by e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com) or directly at : 888-422-8999, Ext. 1387. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <[http://www.truste.org/watchdog.html](https://web.archive.org/system/fnc_logjump.cfm?id=4;4&log=general&partner=truste&linkpage=privacy_watchdog)>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Information Autobytel.com Collects 
 
@@ -34,11 +34,11 @@ If you prefer not to accept cookies, most browsers will explain how to disable c
 
 Shared information 
 
-Occasionally, when Autobytel.com does not have an accredited dealership available to assist our consumers we may forward your request information to an Autoweb.com member dealership or CarSmart.com dealer partner two other well-known online automotive referral services operated by Autobytel Inc. You will be notified that your information is forwarded at the time you submit your purchase request. At that time you will become subject to the security and privacy policies that are posted on those Web sites at [www.autoweb.com](http://www.autoweb.com/), or [www.CarSmart.com](http://www.carsmart.com/). If you have further questions about the Autoweb.com Privacy Policy you may contact Autoweb.com Customer Service at 877 381-7433. For CarSmart.com please contact CarSmart customer service at 800 489-4025. Other than as just described, Autobytel.com will not sell or rent your name, address or e-mail address to any third party without your permission. However, in situations where required by law, Autobytel.com may share this information in cooperation with law enforcement authorities. 
+Occasionally, when Autobytel.com does not have an accredited dealership available to assist our consumers we may forward your request information to a dealer at Autoweb.com or CarSmart.com, two other well-known online automotive referral services operated by Autobytel Inc. You will be notified that your information is forwarded at the time you submit your purchase request. At that time you will become subject to the security and privacy policies that are posted on those Web sites at [www.autoweb.com](http://www.autoweb.com/), or [www.CarSmart.com](http://www.carsmart.com/). If you have further questions about the Autoweb.com Privacy Policy you may contact Autoweb.com Customer Service at [ConsumerCare@autoweb.com](mailto:ConsumerCare@autoweb.com). For CarSmart.com please contact CarSmart customer service at [custserv@carsmart.com](mailto:custserv@carsmart.com). Other than as just described, Autobytel.com will not sell or rent your name, address or e-mail address to any third party without your permission. However, in situations where required by law, Autobytel.com may share this information in cooperation with law enforcement authorities. 
 
 Outside Providers of Service 
 
-Autobytel.com partners with outside service providers for some of the products and services offered. Certain of such partnerships are found on our Finance, Insurance and Warranty pages. The information these partners provide will be presented in a "framed" format, where the Autobytel.com border will surround the pages served by the partner. In the Car Ownership section of our Web site, visitors can select to leave the Autobytel.com Web site and enter other Web sites. These partners are Drivers Elite and Carparts.com. Our partners provide the content of these pages and the information collected is the property of the partner and is not shared with Autobytel.com. 
+Autobytel.com partners with outside service providers for some of the products and services offered. Certain of such partnerships are found on our Finance, Insurance and Warranty pages. The information these partners provide will be presented in a "framed" format, where the Autobytel.com border will surround the pages served by the partner. 
 
 Although Autobytel.com makes every attempt to work only with credible service provider partners, please be aware that you will be subject to these outside partners' security and privacy policies once you leave our Web site. We encourage you to read the privacy policies of these outside service providers, because their privacy practices may differ from ours. 
 
@@ -56,9 +56,9 @@ If you are only browsing, we collect the following information: IP address, the 
 
 Privacy 
 
-Any personal, identifiable information you submit to Autobytel.com will only be used with your permission. When submitting a purchase request on our Web site, you will be given the opportunity to choose which forms of communication you do or do not wish to receive from us by selecting check boxes. If you do not select a checkbox, consent is assumed to opt your e-mail address into the individual communication or service. (See E-mail Options) These options include service notifications and offers, newsletters, product offers from affiliate vendors that may be of interest to you and postal mail offers that may be of interest to you. Autobytel.com and its accredited dealers will use phone numbers to contact customers regarding a purchase request for a vehicle. Additionally, phone numbers may be used to conduct customer surveys regarding individual experiences with Autobytel.com-accredited dealers. Phone numbers are not sold to any third party. 
+Any personal, identifiable information you submit to Autobytel.com will only be used with your permission. When submitting a purchase request on our Web site, you will be given the opportunity to choose which forms of communication you do or do not wish to receive from us by selecting check boxes. If you do not uncheck a box, consent is assumed to opt your e-mail address into the individual communication or service. (See E-mail Options) These options include service notifications and offers, newsletters, product offers from affiliate vendors that may be of interest to you and postal mail offers that may be of interest to you. Autobytel.com and its accredited dealers will use phone numbers to contact customers regarding a purchase request for a vehicle. Additionally, phone numbers may be used to conduct customer surveys regarding individual experiences with Autobytel.com-accredited dealers. Phone numbers are not sold to any third party. 
 
-You always have the option of removing yourself from further e-mail contact. If at any time you choose to opt out of any offers, you can click on the remove link at the bottom of the e-mail offer. Or to opt yourself out of further contact call Customer Service at 888-422-8999, ext. 3050, or send us an e-mail at [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com) with the word "Remove" in the subject line and we will remove you from e-mail and postal mail offerings within 5 business days. 
+You always have the option of removing yourself from further e-mail contact. If at any time you choose to opt out of any offers, you can click on the remove link at the bottom of the e-mail offer. Or to opt yourself out of further contact email Customer Service at [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com) with the word "Remove" in the subject line and we will remove you from e-mail and postal mail offerings within 5 business days. 
 
 You may also make other corrections and updates to your personal information by contacting [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com), or by accessing your settings in the "My Garage" personalized portion of our Web site by clicking on Log In on our Home Page. If you are already a member of "My Garage", you will be offered "My Settings" where you can make any adjustments you wish in your personally identifiable information, and e-mail settings. If you are not already a member of "My Garage", you will be invited to become a member and create your personal information and e-mail settings. 
 
@@ -82,7 +82,7 @@ Credit Card Data
 
 Autobytel.com uses the latest SSL (Secure Socket Layer) technology to protect your credit card information during transfer. (See Security) We do not release this information to any outside source. SSL is the Internet standard for secure transactions and is supported by Netscape Navigator 4.6 or higher and Microsoft Explorer 4.01 and higher. 
 
-If you have any questions regarding your credit card data and how it is used, please contact our Consumer Privacy Advocate at 888-422-8999, ext. 3062 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). 
+If you have any questions regarding your credit card data and how it is used, please contact our Consumer Privacy Advocate at 888-422-8999, Ext. 1387 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). 
 
 E-Mail Options
 
@@ -93,16 +93,12 @@ Log in to edit email options.
 
 (Forgot your Zip? [Click here](https://web.archive.org/content/own/garage/index.cfm?id=4;4&action=UpdateEmail&LoginStep=getzip)) 
 
-If you experience any difficulties in accessing this link or have any other questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your e-mail address is being used, please contact our Consumer Privacy Advocate at 888-422-8999, ext. 3062 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). 
-
-Membership to Outside Privacy Organization 
-
-Autobytel.com is a member of The Direct Marketing Association, Inc., an industry leader in online privacy and security. The DMA ensures that its members adhere to established ethical guidelines, self-regulation and promotion of new and best privacy practices. Further information can be found at [http://www.the-dma.org](http://www.the-dma.org/). 
+If you experience any difficulties in accessing this link or have any other questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your e-mail address is being used, please contact our Consumer Privacy Advocate at 888-422-8999, Ext. 1387 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). 
 
 Contact Information 
 
-If you have any questions, concerns or suggestions regarding our privacy and security policies, please contact our Consumer Privacy Advocate directly at 888-422-8999, ext. 3062 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). All issues will be handled in a timely manner. 
+If you have any questions, concerns or suggestions regarding our privacy and security policies, please contact our Consumer Privacy Advocate directly at 888-422-8999, Ext. 1387 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). All issues will be handled in a timely manner. 
 
-For any other issues, please contact our customer service department at 888-422-8999, ext. 3050 or e-mail at [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com). Our customer service hours of operation are from 6:00 a.m. until 6:00 p.m. Monday through Friday and 8:00 a.m. until noon Saturdays, Pacific Time. Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400 
+For any other issues, please contact our customer service department at [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com). Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400 
 
 For the Autobytel.com Usage Terms and Conditions please [click here](https://web.archive.org/content/home/help/index.cfm?id4;4&action=terms). 
