@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantstore.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606025057id_/http%3A//www.brilliantstore.com/serprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantstore.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402083647id_/http%3A//www.brilliantstore.com/serprivacypolicy.htm) for the most accurate reproduction.*
 
 # Brilliantstore.com
 
