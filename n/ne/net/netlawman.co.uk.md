@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401222426id_/http%3A//www.netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204235120id_/http%3A//www.netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
 
 # Netlawman privacy
 
@@ -53,22 +53,28 @@ If you have any question regarding the confidentiality policy, please contact us
 
 **Now take me back where I was before reading this.**
 
-|   | Are your employment contracts up to date? It is "all change" again in April for the recent Employment Act. No exemptions for small businesses either. New contract document.   
+|   | **You like our service?  
+Please tell your friends.  
+You have a grumble?  
+Please tell us now.**  
 ---|---  
-  | Does your web site comply with the Electronic Commerce Regulations? There are draconian penalties if it does not. We can help.  
----|---  
-  | Do you need legal advice for IT or e-commerce? We are specialists. Fast response and low cost. Click here.   
----|---  
-  | Disclaimer 
-
-See our [terms of business](https://web.archive.org/web/20030401222426id_/http%3A//www.netlawman.co.uk/netlawman-terms.php). Note in particular that nothing on this site constitutes an offer. There is no contract until we have agreed to do the work you have requested.
-
-Advice given and documents produced by Net Lawman are drawn under UK law. Use outside the UK may not be appropriate.
-
-Advice given and documents drawn may not provide a full answer to your question or circumstances. They are provided without liability to Net Lawman.
-
-If we cannot help in your area of law:  
-advice will not be offered  
-money paid will be refunded immediately   
   
+* * * * *
+
+* * * * *
+
+* * * * *
+
+  | [Tribunal services.](http://www.netlawman.co.uk/htbt/employment-law.php)  
+Use our tough, no-nonsense approach. Let us take the strain while you run your business.
+
+Our expert advocates will take your case. We will deal with everything, including the tribunal.   
+  
+---|---  
+  
+* * * * *
+
+* * * * *
+
+  |  [Employment law documents](http://www.netlawman.co.uk/employment-documents.php) to download and use now: - contracts, director agreements, letters, compromise agreement, and so on.fast by e-mail or telephone!   
 ---|---
