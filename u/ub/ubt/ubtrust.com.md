@@ -1,188 +1,234 @@
-> *The following text is extracted and transformed from the ubtrust.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207054003id_/http%3A//www.ubtrust.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubtrust.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605160943id_/http%3A//www.ubtrust.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Union Bank & Trust
 
-**Union Bank & Trust Company Customer Privacy Policy**
-
-_**We, our**_ , and **_us_** , when used in this notice, mean Union Bank & Trust Co.  
+**_We, our,_** and **_us,_** __ when used in this notice, mean Union Bank & Trust Company.  
 This is our privacy notice for our customers. When we use the words "you" and "your" we mean the following types of customers:
 
-  * All of our consumer customers who have a continuing relationship with us, such as:
+  * Our consumer customers who have a continuing relationship by purchasing or holding financial products or services such as a(n):
     * Deposit accounts
     * Loan accounts
     * Credit cards
     * Safe deposit boxes
     * Retail installment contracts we hold and service
-    * Self-directed individual Retirement Accounts where we act as custodian or trustee
-    * Financial, investment, or economic advisory services (for a fee)
+    * Self-directed Individual Retirement Accounts
+    * Financial, investment, or economic advisory services
     * Trust and employee benefit services
-  * All former customers
+  * Former customers
 
 
 
-We will tell you the sources for nonpublic personal information we collect about our customers. We will tell you what measures we take to secure that information.  
-We will also tell you what information we share with other entities. We will explain what your rights are, and how you can exercise them. If you share your account relationship with someone else, for example where you are a co-borrower or joint holder of a checking account, we suggest that you share this information with each other to ensure that each of you are aware of our policy and your options.  
-We define some terms.
+We will tell you the sources of the information we collect about you. We will tell you what measures we take to secure that information.  
+We will tell you what information we share about you with other entities. We will explain what your rights are, and how you can exercise them. If you share an account relationship with someone else, such as a joint accountholder or co-borrower, we suggest that you share this information with such persons to ensure that each of you is aware of our policy and your options.
 
-> **_Nonpublic personal information_** means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.  
+We define some terms. 
+
+> _**Nonpublic personal information**_ means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter, we will use the term "information" to mean nonpublic personal information as defined in this section.  
 >  An _**affiliate**_ is a company we own or control, a company that owns or controls us, or a company that is owned or controlled by the same company that owns or controls us. Ownership does not mean complete ownership, but means owning enough to have control, as defined by federal law.  
->  A _**nonaffiliated third party**_ is a company that is not an affiliate of ours.  
->  _**Opt out**_ means a choice you can make to prevent certain sharing of information. We will explain how you can exercise this option.
+>  A _**nonaffiliated third party**_ is a person we do not employ or a company that is not an affiliate of ours. This is also known as nonaffiliated third party, or simply, an "other party."  
+>  _**Opt out**_ means a choice you can make to prevent certain sharing of information. We will explain how you can exercise this choice.  
+> 
 
-**THE INFORMATION THAT WE COLLECT**
+**THE INFORMATION WE COLLECT**
 
-We collect nonpublic personal information about you from the following sources:
+  
+We collect information about you from the following sources:
 
-  * Information we receive from you on applications or other forms
+  * Information you give us on applications or other forms
   * Information about your transactions with us
   * Information about your transactions with our affiliates
-  * Information about your transactions with nonaffiliated third parties
-  * Information from a consumer reporting agency
+  * Information about your transactions with other parties
+  * Information from a consumer-reporting agency  
 
 
 
-**THE CONFIDENTIALITY, SECURITY, AND INTEGRITY OF YOUR NONPUBLIC PERSONAL INFORMATION**
 
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal and all other applicable standards to guard your nonpublic personal information.
-
-**NONPUBLIC PERSONAL INFORMATION AND AFFILIATES**
-
-We may disclose nonpublic personal information about you. Here are the kinds of nonpublic personal information we may disclose to our affiliates:  
+**THE CONFIDENTIALITY, SECURITY, AND INTEGRITY OF YOUR INFORMATION**  
 
 
-> Transaction and experience information from our account records:
+We restrict access to information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards to protect this information.  
+
+
+**YOUR INFORMATION AND OUR AFFILIATES**  
+
+
+We may disclose information about you to our affiliates. Here are the kinds of information and the source of that information:   
+Transaction and experience information from our account records:   
+
 
   * Information about your transactions and experience with us, such as 
+
     * Name
     * Address
     * Account balances
     * Account activity
     * Types of accounts
+    * Parties to the transaction
     * Credit card usage
     * Payment history
-    * Deposit history
-    * Parties to the transaction
+    * Deposit history 
 
-> Federal law allows us to disclose the information listed above with our affiliates. You do not have a right to opt out of the disclosure of this information.
 
-Other information not taken from transactions and experience:
 
-  * Nonpublic personal information we receive from you on an application or other forms, such as 
-    * Social security number
+Federal law allows us to disclose the information listed above with our affiliates. You do not have a right to opt out of the disclosure of this information.
+
+Other information not taken from transactions and experience:   
+
+
+  * Information you give us on an application or other forms, such as: 
+    * Social Security Number
     * Assets
     * Income
     * Email address
     * Telephone number
-  * Nonpublic personal information we receive from a credit reporting agency, such as 
+  * Information we receive from a credit-reporting agency, such as: 
     * Credit worthiness
     * Credit history
 
-You may opt out of the disclosure of the information listed above.
 
 
+You may opt out of the disclosure of the information listed above.  
 
 
-**Types of Affiliates**
+**Types Of Affiliates**
 
-We may disclose nonpublic personal information about you to the following types of affiliates:
+We may disclose information about you to the following types of affiliates:
 
-  * Financial service providers, such as 
+  * Financial service providers, such as: 
+    * Mortgage bankers
     * Securities broker-dealers
     * Insurance agents
     * Registered investment advisors
     * Ag loan production offices
-    * Student loan service providers
+    * Student loan service providers  
 
 
 
-**Reasons for Disclosure**
 
-Here is why we may disclose nonpublic personal information about you to our affiliates:
+**Reasons For Disclosure**
 
-  * To provide our customers with information about additional products and services
-  * To evaluate our total relationship with you and our family of companies and give you the best price that relationship deserves
-  * To give you the benefit of the entire customer relationship when paying overdrafts and determining credit limits
+We may disclose information about you to our affiliates: 
+
+  * to provide you with information about additional products and services. 
+  * to evaluate our total relationship with you and our family of companies and give you the best price that relationship deserves.
+  * to give you the benefit of our entire relationship when paying overdrafts and determining credit limits.
 
 
 
-**NONPUBLIC PERSONAL INFORMATION AND NONAFFILIATED THIRD PARTIES**
+**YOUR INFORMATION AND OTHER PARTIES**
 
-In addition to our policy with respect to affiliates, we may disclose nonpublic personal information to nonaffiliated third parties. Here are the kinds of nonpublic personal information we disclose to nonaffiliated third parties:
+In addition to our policy with respect to affiliates, we may disclose information to other parties. Here are the kinds of information we disclose to these other parties:
 
-  * Nonpublic personal information we receive from you on an application or other forms, such as 
+  * Information you give us on an application or other forms, such as: 
     * Name
     * Address
-    * Social security number
+    * Social Security Number
     * Assets
     * Income
     * Telephone number
     * Email address
-  * Nonpublic personal information about your transactions with us, such as 
+  * Information about your transactions with us, such as: 
     * Account balances
     * Account activity
     * Types of accounts
+    * Parties to the transaction
     * Credit card usage
     * Payment history
     * Deposit history
-    * Parties to the transaction
-  * Nonpublic personal information about your transactions with our affiliates, such as 
-    * Account balances
-    * Account activity
-    * Types of accounts
-    * Credit card usage
-    * Payment history
-    * Deposit history
-    * Parties to the transaction
-  * Nonpublic personal information we receive from a credit reporting agency, such as 
+  * Information we receive from a credit-reporting agency, such as: 
     * Credit worthiness
-    * Credit history
+    * Credit history  
+
 
 
 
 You may opt out of the disclosure of the information listed above.
 
-**Types of Nonaffiliated Third Parties**
+**State Limitations**
 
-We may disclose nonpublic personal information about you to the following types of nonaffiliated third parties:
+AL, AK, ID, ND and VT-We will not share this information about customers who reside in Alabama, Alaska, Idaho, North Dakota or Vermont.
 
-  * Financial service providers, such as 
-    * Securities broker-dealers
-    * Insurance agents
-    * Student loan service providers
+MA, MS and NJ-We will not share any information derived from deposit relationships with us about customers who reside in Massachusetts, Mississippi or New Jersey. If you have a loan account or other customer relationship in addition to a deposit account relationship, and you do not want us to share this information about you, you should opt out using a method described below.
+
+IL - We will not share this information about our customers who reside in Illinois with other parties.
+
+**Types of Other Parties**
+
+We may disclose information about you to the following types of other parties: 
+
+  * Financial service providers, such as:
+  * Securities broker-dealers
+  * Insurance agents
+  * Student loan service providers  
 
 
 
-We may also disclose nonpublic personal information about you to nonaffiliated third parties as permitted by law.
 
-**NONPUBLIC PERSONAL INFORMATION AND FORMER CUSTOMERS**
+We may also disclose information about you to other parties as permitted by law.
 
-If you decide to close your account(s) or become an inactive customer, we will follow the privacy policies and practices as described in this notice.
+**INFORMATION ABOUT FORMER CUSTOMERS**
+
+We have the same policy about disclosing information about former customers as we do about current customers.
 
 **OUTSIDE SERVICE PROVIDERS/MARKETERS**
 
-We may disclose all of the information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
+We may disclose all of the information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. 
 
-**YOUR RIGHT TO BLOCK THE DISCLOSURE OF YOUR NONPUBLIC PERSONAL INFORMATION**
+**YOUR RIGHT TO BLOCK THE DISCLOSURE OF YOUR INFORMATION**
 
-**Affiliates**. We are permitted to disclose nonpublic personal information about our transactions or experiences with you to affiliates. We may also disclose _other_ nonpublic personal information to our affiliates (that is, nonpublic personal information beyond our transactions and experiences with you), unless you tell us to not disclose this _other_ nonpublic personal information.  
-**Nonaffiliated Third Parties**. If you do not want us to share your nonpublic personal information with nonaffiliated third parties, you can block the release of certain nonpublic personal information. This is known as your right to "opt out." Your decision to block the disclosure of your nonpublic personal information will apply to all products and services you receive from us.  
-If you have a joint account, an opt out instruction given by one participant of this account will affect all participants of the account.  
-If you have previously opted out under The Fair Credit Reporting Act, you must opt out again under this disclosure. By completing and signing the attached form, you can exercise your right to opt out of information sharing with nonaffiliated third parties and sharing of nonpublic personal information with affiliates other than that information permitted by law. Return the form to us at the following address:  
+**Affiliates.** We are permitted to disclose information about our transactions or experiences with you to affiliates. You do not have the right to opt out of the disclosure of this particular type of information. We may also disclose other information to our affiliates (that is, information beyond our transactions and experiences with you), unless you tell us to not disclose this other information.
+
+**Other Parties.** If you do not want us to share your information with other parties, you can block the release of certain information. This is known as your right to "opt out."
+
+Your decision to block the disclosure of your information will apply to information collected from all products and services you receive from us. Remember, though, that your opt out will not apply to information we share that is related to your actual transaction and experience with one of us, which we make available to our affiliates. 
+
+If you have obtained one or more products or services jointly, an opt out instruction by one party is effective for all information we have collected about all joint parties. If one of you chooses to opt out, no information about any of the joint parties will be shared. 
+
+If you have opted out of information sharing previously under the Gramm-Leach-Bliley Act, it is not necessary to do so again. Your previous instructions will remain in effect until you request a change.
+
+By completing and signing the attached form, you can exercise your right to opt out of information sharing with other parties and sharing of information with affiliates other than that information permitted by law. Return the form to us at the following address: 
+
 Union Bank & Trust Company  
 Attention: Marketing Call Center  
 P.O. Box 82535  
-Lincoln, NE 68501-2535
+Lincoln, Nebraska 68501-2535
 
 **YOU HAVE THE RIGHT TO CHOOSE**
 
-In this notice, we have explained our policy about the disclosure of certain information.  
-**Affiliates**. We have explained the kinds of nonpublic personal information we may disclose to our affiliates. We have also explained the kinds of affiliates with whom we may disclose the nonpublic personal information. If you prefer that we do not disclose nonpublic personal information to our affiliates you may opt out of those disclosures, that is, you may direct us not to make those disclosures (other than the disclosures permitted by law).  
-**Nonaffiliated Third Parties**. We have explained the kinds of nonpublic personal information we may disclose to nonaffiliated third parties. We have also explained the kinds of nonaffiliated third parties with whom we may disclose the nonpublic personal information. If you prefer that we do not disclose nonpublic personal information to nonaffiliated third parties, you may opt out of those disclosures, that is, you may direct us not to make those disclosures (other than the disclosures permitted by law).  
-Your decision to block the disclosure of your nonpublic personal information will apply to all products and services you receive from us.  
-If you have a joint account, an opt out instruction given by one participant of this account will affect all participants of the account.  
-If you have previously opted out under The Fair Credit Reporting Act, you must opt out again under this disclosure. By completing and signing this form you can exercise your right to opt out of information sharing with nonaffiliated third parties and sharing of nonpublic personal information with affiliates other than that information permitted by law. Return the form to us at the following address:
+In this notice, we have explained our policy about the disclosure of certain information.
 
-Union Bank & Trust Co.  
-Attention: Marketing Call Center  
-P.O. Box 82535  
-Lincoln, NE 68501-2535
+**Affiliates.** We have explained the kinds of information we may disclose to our affiliates. We have also explained the kinds of affiliates with whom we may disclose the information. If you prefer that we do not disclose information to our affiliates you may opt out of those disclosures, that is, you may direct us not to make those disclosures (other than the disclosures permitted by law).
+
+**Other Parties.** We have explained the kinds of information we may disclose to other parties. We have also explained the kinds of other parties with whom we may disclose the information. If you prefer that we do not disclose information to these other parties, you may opt out of those disclosures, that is, you may direct us not to make those disclosures (other than the disclosures permitted by law). 
+
+Your decision to block the disclosure of your information will apply to information collected from all products and services you receive from us. Remember, though, that your opt out will not apply to information we share that is related to your actual transaction and experience with one of us, which we make available to our affiliates. If you have obtained one or more products or services jointly, an opt out instruction by one party is effective for all information we have collected about all joint parties. If one of you chooses to opt out, no information about any of the joint parties will be shared.
+
+If you have opted out of information sharing previously under the Gramm-Leach-Bliley Act, it is not necessary to do so again. Your previous instructions will remain in effect until you request a change.
+
+By completing and signing the attached form, you can exercise your right to opt out of information sharing with other parties and sharing of information with affiliates other than that information permitted by law. Return the form to us at the following address:
+
+Union Bank & Trust Company   
+Attention: Marketing Call Center   
+P.O. Box 82535   
+Lincoln, Nebraska 68501-2535  
+
+
+Do not share my information, other than information relating to your transactions and experiences with me, with your affiliates.
+
+Do not share my information with non affiliated third parties.
+
+Signature_______________________________________________________
+
+Name(s)________________________________________________________
+
+Social Security Number(s)_________________________________________
+
+All Account Numbers_____________________________________________
+
+______________________________________________________________
+
+Street Address__________________________________________________
+
+Apartment Number_______________________________________________
+
+City, State, Zip__________________________________________________
