@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the borisfx.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604015839id_/http%3A//borisfx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borisfx.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015020id_/http%3A//borisfx.com/privacy) for the most accurate reproduction.*
 
-# 
+# BorisFX.com
 
 We at Boris FX and our affiliated companies worldwide ("Boris FX") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
