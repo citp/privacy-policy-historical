@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelonline.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604010745id_/http%3A//www.channelonline.com/us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelonline.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210124456id_/http%3A//www.channelonline.com/us/privacy.asp) for the most accurate reproduction.*
 
 # ChannelOnline - Privacy policy
 
