@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123greetings.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201092804id_/http%3A//123greetings.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123greetings.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004034013id_/http%3A//www34.123greetings.com/privacy_policy) for the most accurate reproduction.*
 
 # 123Greetings.com : Privacy Policy
 
@@ -20,6 +20,8 @@ Under normal circumstances, we will not monitor or edit the contents of the card
 
 If you have questions we can be reached by e-mail at [privacypolicy@123greetings.com](mailto:privacypolicy@123greetings.com) or direct them to the 123Greetings.com site coordinator at [coordinator@123greetings.com](mailto:coordinator@123greetings.com). To return to the Site, please use the "Back" button on your browser.
 
+We use third-party advertising companies to serve ads whenyou visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.sonar.com/content/privacy.htm>.
+
 **
 
- **We use third-party advertising companies to serve ads whenyou visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here<http://www.sonar.com/content/privacy.htm>.**
+ **We use third-party advertising companies to serve ads whenyou visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here<http://www.adtegrity.com/privacy.asp>**
