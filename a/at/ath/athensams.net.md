@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athensams.net privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616152008id_/http%3A//www.athensams.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athensams.net privacy policy that was archived on 2004-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041022052854id_/http%3A//www.athensams.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Eduserv Athens
 
@@ -20,9 +20,7 @@ Cookies can help a website to arrange content to match your preferred interests 
 
 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the features of Eduserv Athens if cookies are disabled.
 
-Find out more about cookies at 
-
-<http://www.allaboutcookies.org/cookies/>
+Find out more about cookies at <http://www.allaboutcookies.org/cookies/>
 
 There are a number of ways to **manage cookies**. If you use different computers in different locations you will need to ensure that each browser is adjusted to suit your cookie preferences. Some modern browsers have a feature that will analyse website privacy policies and allow a user to control their privacy needs. These are known as "P3P" features (Privacy Preferences Platform). 
 
