@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009061323id_/http%3A//www.worth1000.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603063320id_/http%3A//www.worth1000.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
 
 # Worth1000.com | Photoshop Contests | Are you Worthy™ | hidden
 
@@ -64,3 +64,9 @@ Third party advertisers may collect certain information that is available to the
 
 **Questions?  
 **If you have any questions regarding this Privacy Statement, the practices of Worth1000.com, or your dealings on our web site, please [contact us](https://web.archive.org/message.asp?uid=17).
+
+**Third Party Advertising  
+**We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+**Third Party Cookies  
+**In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique “cookie” on your browser, separate from the one placed by Worth1000. 
