@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogpatrol.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627062535id_/http%3A//www.blogpatrol.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogpatrol.com privacy policy that was archived on 2004-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041116034348id_/http%3A//www.blogpatrol.com/privacy.html) for the most accurate reproduction.*
 
-# BlogPatrol Privacy Statement
+# BlogPatrol Privacy Statement - The Counter for Blogs
 
 ******Privacy Policy**
 
