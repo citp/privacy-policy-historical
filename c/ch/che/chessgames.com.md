@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chessgames.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603200856id_/http%3A//www.chessgames.com/chessprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessgames.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204210001id_/http%3A//www.chessgames.com/chessprivacy.html) for the most accurate reproduction.*
 
 # ChessGames.com Privacy Notice
 
@@ -8,10 +8,12 @@ At **chessgames.com,** we respect your right to privacy. At the same time, we ga
 
 We will occasionally email all users on our email list, with notices and promotions regarding **chessgames.com**. To remove yourself from this list, either remove your address from the [preferences page](https://web.archive.org/perl/chessprofile.pl) or contact [chess@chessgames.com](mailto:chess@chessgames.com) with your request.
 
-Chessgames.com uses standard web logfiles, which automatically record all requests made of the chessgames.com servers. Such information includes i.p. addresses, the chessgames.com pages requested, the kind of browser used, etc. While we do not analyze these logfiles with regards to individual users, we study this data _in aggregate_ in order to improve the site. 
+Chessgames.com uses standard web logfiles, which automatically record all requests made of the chessgames.com servers. Such information includes i.p. addresses, the chessgames.com pages requested, the kind of browser used, etc. While we do not analyze these logfiles with regards to individual users, we study these data in aggregate in order to improve the site. 
 
 **Cookies:** If your browser accepts cookies, you will receive a chessgames.com cookie the first time you visit our site. This cookie allows us to customize the site's behavior and appearance to fit your tastes. We do not use the cookie for any other purpose, and you are free to erase your cookie at any time by visiting the [logout page.](https://web.archive.org/perl/chesslogout.pl)
 
 It is possible to disable cookies entirely, by changing the configuration of your web browser. We strongly advise against that, however, as it will deny you of some of the web's coolest features, including the features at chessgames.com. 
 
 **Children:** When a child under age 13 registers with chessgames.com, we suggest that a parent is present to prevent the child from inadvertantly volunteering private information. 
+
+**Credit Card Information:** All credit card information is transmitted through an SSL-encrypted secure channel. If you send us credit card information to register for premium membership, we destroy this information (including the credit card number) immediately after your credit card is processed. We will never automatically rebill you for services. We do, however, retain the last 4 digits of the credit card for identification purposes. 
