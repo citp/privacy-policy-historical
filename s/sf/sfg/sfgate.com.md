@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209115150id_/http%3A//www.sfgate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604235048id_/http%3A//sfgate.com/pages/privacy) for the most accurate reproduction.*
 
 # SF Gate: Privacy Policy
 
@@ -11,7 +11,7 @@ The following discloses our information gathering and dissemination practices fo
 
 As SF Gate continues to develop we may add new features, change the type of information we gather or the method by which it is gathered. We will adjust this privacy policy to reflect any future changes, and notify users of any personal information we are requesting. Please review this policy for changes from time to time, and contact us if you have any questions. 
 
-| **TRUSTe Licensee**| 
+**TRUSTe Licensee**| 
 
 [](https://www.truste.org/validate/3541)
 
@@ -23,10 +23,10 @@ When you visit a Web site displaying the TRUSTe trustmark, you can expect to be 
 
 Questions regarding this statement should be directed to SF Gate Support: 
 
-201 Potrero Ave  
+901 Mission St.  
 San Francisco CA 94103  
 Email: [](mailto:support@sfgate.com)[support@sfgate.com](mailto:support@sfgate.com)  
-Phone: 415-865-9444 
+Phone: 415-777-6333 
 
 If SF Gate has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/users_watchdog.html).  
   
@@ -105,8 +105,7 @@ If a user sends feedback to SF Gate and includes a valid email address, SF Gate 
 
 Information submitted to SF Gate via the user feedback form will be kept confidential by SF Gate. Information in the feedback may be used in aggregate to help guide policy decisions at SF Gate. For example, if a certain number of people write in requesting the same service, we may use that information in our decision to begin providing that service. 
 
-SF Gate cannot guarantee the confidentiality of feedback sent to outside sources:  
-Stockpoint Personal Portfolio 
+SF Gate cannot guarantee the confidentiality of feedback sent to outside sources. 
 
 **ADVERTISER SUBMISSION FORMS**:  
 On SF Gate pages related to advertising, we provide advertising inquiry forms. If a user submits information via these forms and requests information, SF Gate will provide the user information using one of the contact channels provided. If the user is contacting SF Gate regarding another form of advertising, such as Chronicle display advertising or Chronicle classified advertising, SF Gate will forward the user request to the appropriate party. 
@@ -140,96 +139,96 @@ WebAds are online-only classified ads. When you place a WebAd, we require your c
 > Credit Card Info: Credit Card transactions for SF Gate WebAds are processed by Verisign. Neither SF Gate nor Verisign retain your credit card information. Please see the [Verisign privacy policy](http://www.verisign.com/truste/index.html) for more information on how they handle privacy issues. 
 > 
 > Photos: When placing a WebAd, you will have the option of inserting photos into your ad. Photo hosting and processing is managed by Internet Pictures Corporation (iPix). These photos will only be displayed in your ad and will not be used for any other purpose. 
-> 
-> 2\. Clip Ads  
->  When you see a classified result you like, you can click the "clip ad" link. This will save the ad on a separate clipboard for your reference. The ads will remain clipped until they expire from our site. We will set a cookie to keep track of the ads you have clipped. 
-> 
-> 3\. Email Alerts  
->  You can save your searches as email alerts. Once saved, we will automatically run your search each day and email the results to you. In order to save an email alert, you must first [register with SF Gate](http://www.sfgate.com/registration/). Then, run a Classified search and click on the orange envelope in the upper right corner of the page. 
-> 
-> 4\. Getting more information about ads  
->  If you see an ad for which you are interested, you can use the contact information in the ad. Some ads, such as vehicle ads, offer a feedback form for you to use. This information does not get sent to SF Gate, but to the selling party. SF Gate has no control over the use if the information you submit via these methods. 
-> 
->    Back to Top
-> 
-> **THIRD PARTY ADVERTISING AND CONTENT:**  
->  SF Gate has partnerships with other companies and links to other web sites, including but not limited to those listed below. If you choose to use the services provided by those sites, you may be asked by those sites to provide certain personally indentifiable information. Some of this information may, on an individual or aggregated basis, be shared with us. However, we will keep any individually identifiable information private. Please be aware that SF Gate is not responsible for the privacy practices or the content of other Web sites, even if our name or logo may appear on those sites (aka co-branded). Third party web sites may appear in a new window, or they may appear in a frame. If frames are used, you may still see our site's URL in the address window, but you are actually on another web site. In most cases, any third party web page, even in a frame, is branded with their name. We encourage you to be aware when you leave our site and read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy policy applies solely to sfgate.com.
-> 
-> **Following are some of the third parties affiliated with SF Gate:**
-> 
->      **AdExpedia:**  
->  AdExpedia hosts the [PersonalShopper](http://personalshopper.sfgate.com/) service for SF Gate. If you save a PersonalShopper email alert, the information is stored on the SF Gate web site. If you set a location preference, there will be a cookie set on your computer to remember the preference. 
-> 
-> **Bank Rate Monitor:**  
->  Bank Rate Monitor provides financial information. Their privacy policy is located [here](http://www.bankrate.com/sfg/story_home.asp?story=about/privacy&web=sfg&prodtype=bank).
-> 
-> **Chronicle Books:**  
->  Chronicle Books, along with SF Gate, was previously owned by the Chronicle Publishing Company. Chronicle Books has their own Privacy Policy, located [here](http://www.chroniclebooks.com:8080/Chronicle/servlet/at/go\(info.faqs.privacy\)).
-> 
-> **DoubleClick:**  
->  DoubleClick is a service we use to display advertising on our site.
-> 
-> DoubleClick's Privacy Policy is located [here](http://www.doubleclick.com:8080/privacy_policy/). However, please note that their policy discusses issues which may not apply to SF Gate. SF Gate will always disclose our policies for collecting individual information and will allow our users to opt-out of having that information collected. DoubleClick does use cookies in order to serve ads. You can opt-out of having DoubleClick cookies set on your browser. Information on how to do this is located [here](http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&).
-> 
-> **Oracle Science International, Inc.:**  
->  Oracle Science International, Inc. provides Horoscope information to our users. If you would like a personalized horoscope, you will be required to provide an e-mail address and a birth date. This information is only used to calculate your horoscope and to send you the horoscope. The information is kept private.
-> 
-> If you wish, you can receive a subscription for astrology information. You can submit payment on-line through a secure server or via mail. Contact information and financial information will be kept private.
-> 
-> **People2People:**  
->  People to People is a relationship service. Their privacy policy is located [here](http://people2people.com/homepage/privacy.plex).
-> 
-> **Pictopia:**  
->  Pictopia is a service that will deliver prints of Chronicle photos to you. Please see [this page](https://web.archive.org/gallery/buyphotos/) for more information. Pictopia's privacy policy is [here.](http://www.pictopia.com/perl/service?id=93bc69c77361f01310522bc83ed00630#Policies)
-> 
-> **San Francisco Chronicle:**  
->  The San Francisco Chronicle maintains its own subscriber and advertiser information.
-> 
-> **Stockpoint:**  
->  Stockpoint provides financial information to SF Gate. In order to use the Stock Portfolio service, you will need to supply a user name and password. Stockpoint's privacy policy is located [here](http://investor.stockpoint.com/topnav/privacy.asp).
-> 
-> **Ticketmaster:**  
->  Ticketmaster is a Chronicle/SF Gate partner for the Chronicle Extra Access program. The Ticketmaster privacy policy is located [here](http://www.ticketmaster.com/h/privacy.html?pagefrom=hm_h_e1). 
-> 
->    Back to Top
-> 
-> **PUBLIC FORUMS:**  
->  This site makes chat rooms, forums, message boards, and/or news groups available to our users. Some of these forums require registration. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-> 
-> **Vent Boxes** :  
->  Vent Boxes are forums that do not require registration. When posting, you will be asked to provide your name, hometown and email. Only your name is a required field, and you may use only your first name or an alias if you wish. 
-> 
-> **SECURITY:**  
->  This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
-> 
-> Any financial information provided by users is sent via a secure server and encrypted for user protection.
-> 
-> **CHOICE/OPT OUT:**  
->  If there is a possibilty that we use non-aggregate information for marketing purposes or to sell to third parties, we will notify users at the point at which we collect the information and allow users to opt-out of having the information used for those purposes. In the unlikely event that we would make previously collected individually identifiable information available, we would notify our users via email and allow them the option of opting out of having this information disclosed.
-> 
-> This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-> 
-> 1\. You can send email to [](mailto:support@sfgate.com)[support@sfgate.com](mailto:support@sfgate.com)  
->  2\. You can call the following telephone number: 415-865-9444
-> 
-> **CORRECT/UPDATE:**  
->  This site gives users the following options for changing and modifying information previously provided. 
-> 
-> 1\. email [](mailto:support@sfgate.com)[support@sfgate.com](mailto:support@sfgate.com)  
->  2\. call the following telephone number: 415-865-9444
-> 
-> **CONTACTING THE WEB SITE:**  
->  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-> 
-> SF Gate Support  
->  SF Gate  
->  201 Potrero Ave  
->  San Francisco CA 94103
-> 
-> Email: [](mailto:support@sfgate.com)[support@sfgate.com](mailto:support@sfgate.com)  
->  Phone: 415-865-9444
-> 
->    Back to Top
 
-  |   
+2\. Clip Ads  
+When you see a classified result you like, you can click the "clip ad" link. This will save the ad on a separate clipboard for your reference. The ads will remain clipped until they expire from our site. We will set a cookie to keep track of the ads you have clipped. 
 
+3\. Email Alerts  
+You can save your searches as email alerts. Once saved, we will automatically run your search each day and email the results to you. In order to save an email alert, you must first [register with SF Gate](http://www.sfgate.com/registration/). Then, run a Classified search and click on the orange envelope in the upper right corner of the page. 
+
+4\. Getting more information about ads  
+If you see an ad for which you are interested, you can use the contact information in the ad. Some ads, such as vehicle ads, offer a feedback form for you to use. This information does not get sent to SF Gate, but to the selling party. SF Gate has no control over the use if the information you submit via these methods. 
+
+5\. Job Fair resume upload service  
+The San Francisco Chronicle has Job Fairs throughout the year and offers a service for candidates to upload their resumes for job fair employers to review. When you submit a resume, all information you provide may be shared with any employer who will be attending that job fair. Usage of your personal information by each employer is dictated by that employer's privacy policy. 
+
+   Back to Top
+
+**THIRD PARTY ADVERTISING AND CONTENT:**  
+SF Gate has partnerships with other companies and links to other web sites, including but not limited to those listed below. If you choose to use the services provided by those sites, you may be asked by those sites to provide certain personally indentifiable information. Some of this information may, on an individual or aggregated basis, be shared with us. However, we will keep any individually identifiable information private. Please be aware that SF Gate is not responsible for the privacy practices or the content of other Web sites, even if our name or logo may appear on those sites (aka co-branded). Third party web sites may appear in a new window, or they may appear in a frame. If frames are used, you may still see our site's URL in the address window, but you are actually on another web site. In most cases, any third party web page, even in a frame, is branded with their name. We encourage you to be aware when you leave our site and read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy policy applies solely to sfgate.com.
+
+**Following are some of the third parties affiliated with SF Gate:**
+
+     **Bank Rate Monitor:**  
+Bank Rate Monitor provides financial information. Their privacy policy is located [here](http://www.bankrate.com/sfg/story_home.asp?story=about/privacy&web=sfg&prodtype=bank).
+
+**Chronicle Books:**  
+Chronicle Books, along with SF Gate, was previously owned by the Chronicle Publishing Company. Chronicle Books has their own Privacy Policy, located [here](http://www.chroniclebooks.com:8080/Chronicle/servlet/at/go\(info.faqs.privacy\)).
+
+**DoubleClick:**  
+DoubleClick is a service we use to display advertising on our site.
+
+DoubleClick's Privacy Policy is located [here](http://www.doubleclick.com:8080/privacy_policy/). However, please note that their policy discusses issues which may not apply to SF Gate. SF Gate will always disclose our policies for collecting individual information and will allow our users to opt-out of having that information collected. DoubleClick does use cookies in order to serve ads. You can opt-out of having DoubleClick cookies set on your browser. Information on how to do this is located [here](http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&).
+
+**eNature:**  
+eNature provides a service where you can enter your zip code and email address to receive information about wildlife in your area. As a default, you will be subscribed to receive newsletters and offers from eNature. You can opt of of this selection when you submit your information. The information you submit will go directly to eNature and will not be stored by SFGate. It will be used in accordance with the [eNature privacy policy](http://www.enature.com/about/privacy.asp). 
+
+**Oracle Science International, Inc.:**  
+Oracle Science International, Inc. provides Horoscope information to our users. If you would like a personalized horoscope, you will be required to provide an e-mail address and a birth date. This information is only used to calculate your horoscope and to send you the horoscope. The information is kept private.
+
+If you wish, you can receive a subscription for astrology information. You can submit payment on-line through a secure server or via mail. Contact information and financial information will be kept private.
+
+**People2People:**  
+People to People is a relationship service. Their privacy policy is located [here](http://people2people.com/homepage/privacy.plex).
+
+**Pictopia:**  
+Pictopia is a service that will deliver prints of Chronicle photos to you. Please see [this page](https://web.archive.org/gallery/buyphotos/) for more information. Pictopia's privacy policy is [here.](http://www.pictopia.com/perl/service?id=93bc69c77361f01310522bc83ed00630#Policies)
+
+**San Francisco Chronicle:**  
+The San Francisco Chronicle maintains its own subscriber and advertiser information.
+
+**Ticketmaster:**  
+Ticketmaster is a Chronicle/SF Gate partner for the Chronicle Extra Access program. The Ticketmaster privacy policy is located [here](http://www.ticketmaster.com/h/privacy.html?pagefrom=hm_h_e1). 
+
+**Travidia:**  
+Travidia hosts the [PersonalShopper](http://personalshopper.sfgate.com/) service for SF Gate. If you save a PersonalShopper email alert, the information is stored on the SF Gate web site. If you set a location preference, there will be a cookie set on your computer to remember the preference. 
+
+   Back to Top
+
+**PUBLIC FORUMS:**  
+This site makes chat rooms, forums, message boards, and/or news groups available to our users. Some of these forums require registration. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+
+**Vent Boxes** :  
+Vent Boxes are forums that do not require registration. When posting, you will be asked to provide your name, hometown and email. Only your name is a required field, and you may use only your first name or an alias if you wish. 
+
+**SECURITY:**  
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+Any financial information provided by users is sent via a secure server and encrypted for user protection.
+
+**CHOICE/OPT OUT:**  
+If there is a possibilty that we use non-aggregate information for marketing purposes or to sell to third parties, we will notify users at the point at which we collect the information and allow users to opt-out of having the information used for those purposes. In the unlikely event that we would make previously collected individually identifiable information available, we would notify our users via email and allow them the option of opting out of having this information disclosed.
+
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+
+1\. You can send email to [](mailto:support@sfgate.com)[support@sfgate.com](mailto:support@sfgate.com)  
+2\. You can call the following telephone number: 415-777-6333
+
+**CORRECT/UPDATE:**  
+This site gives users the following options for changing and modifying information previously provided. 
+
+1\. email [](mailto:support@sfgate.com)[support@sfgate.com](mailto:support@sfgate.com)  
+2\. call the following telephone number: 415-777-6333
+
+**CONTACTING THE WEB SITE:**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+
+SF Gate Support  
+SF Gate  
+901 Mission St.  
+San Francisco CA 94103
+
+Email: [](mailto:support@sfgate.com)[support@sfgate.com](mailto:support@sfgate.com)  
+Phone: 415-777-6333
+
+   Back to Top
