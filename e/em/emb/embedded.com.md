@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embedded.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603161143id_/http%3A//www.cmpnet.com/delivery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedded.com privacy policy that was archived on 2002-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021127095508id_/http%3A//www.cmpnet.com/delivery/privacy.html) for the most accurate reproduction.*
 
 # CMP Media LLC Privacy Policy
 
@@ -38,7 +38,7 @@ We offer our users the option to receive information about our company, related 
 **Automatic Data Collection**  
 Our web sites have features that automatically collect information from users, to deliver content specific to users' interests and to honor their preferences. This information assists us in creating sites that will serve the needs of our users. 
 
-We use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our site. If users reject the cookies, they may be limited in the use of some areas of our site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Cookies also enable us to track and target the interests of our users to enhance the experience on our sites. 
+We use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our site. If users reject the cookies, they may be limited in the use of some areas of our site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Additionally, we may note some of the pages the user visits on our site through the use of pixel tags (also called clear gifs). The use of cookies and pixels enable us to track and target the interests of our users to enhance the experience on our sites. 
 
 Some of our business affiliates use cookies on our sites in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information. 
 
