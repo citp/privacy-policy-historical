@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206091504id_/http%3A//tsn.ca/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2005-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050322093108id_/http%3A//www.tsn.ca/help/privacy.asp) for the most accurate reproduction.*
 
 # TSN.ca - Help - Canada's Sports Leader
 
