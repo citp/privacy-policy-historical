@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204184537id_/http%3A//fox.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604190250id_/http%3A//www.fox.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # FOX Broadcasting Company: Privacy Policy
 
