@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212075407id_/http%3A//stata.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208134550id_/http%3A//www.stata.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,8 +18,8 @@
 
 * * *
 
-[Home](https://web.archive.org/)   |   [Site Index](https://web.archive.org/site.html)   |   [Info](https://web.archive.org/info/)   |   [Bookstore](https://web.archive.org/bookstore/)   |   [Order Stata](https://web.archive.org/info/order/)   |   [Support](https://web.archive.org/support/)   |   [FAQs](https://web.archive.org/support/faqs)   |   [News](https://web.archive.org/news/)   |   [Search](http://www.stata.com/search/)
+[](https://web.archive.org/info/about.html) [**Contact StataCorp**](https://web.archive.org/info/about.html) [Home](https://web.archive.org/)   |   [Site Index](https://web.archive.org/site.html)   |   [Info](https://web.archive.org/info/)   |   [Bookstore](https://web.archive.org/bookstore/)   |   [Order Stata](https://web.archive.org/info/order/)   |   [Support](https://web.archive.org/support/)   |   [FAQs](https://web.archive.org/support/faqs)   |   [News](https://web.archive.org/news/)   |   [Search](http://www.stata.com/search/)
 
 Contact [webmaster@stata.com](mailto:webmaster@stata.com) with comments or suggestions about this web site. 
 
-**© Copyright 2001 Stata Corporation.   [Terms o f Use.](https://web.archive.org/terms.html)   [Privacy Notice.](https://web.archive.org/privacy.html)**
+**© Copyright 2002 Stata Corporation.   [Terms of Use.](https://web.archive.org/terms.html)   [Privacy Notice.](https://web.archive.org/privacy.html)**
