@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kelloggs.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408233013id_/http%3A//kelloggs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelloggs.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203012825id_/http%3A//www.kelloggs.com/privacy) for the most accurate reproduction.*
 
 # Kelloggs.com Privacy Policy
 
