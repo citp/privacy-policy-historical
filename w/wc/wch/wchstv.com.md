@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208010146id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306034658id_/http%3A//wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
@@ -15,31 +15,6 @@
 | [**ONLINE ADVERTISING**](https://web.archive.org/ads/)  
 | [**COMMUNITY SURVEY**](https://web.archive.org/ca/communitysurvey.shtml)  
 | [**SCHOOL CLOSINGS**](https://web.archive.org/newsroom/schoolclosing.shtml)  
-  
-[](https://web.archive.org/newsroom/wvwildlife/)  
-  
-**Respond to Editorial**  
-[](http://www.newscentral.tv/thepoint/thepoint.shtml)  
-  
-**Powerball-Mega Millions  
-Hot Lotto-Lotto South  
-WV - KY - OH  
-[](https://web.archive.org/newsroom/lottery.shtml)  
-EYEWITNESS NEWS  
-WINNING NUMBERS**  
-  
-[](https://web.archive.org/newsroom/healthyforlife/)  
-  
-[](https://web.archive.org/aboutdtv.shtml)  
-  
-**W E B C A M S**  
-[](https://web.archive.org/newsroom/wx/tcamlive.shtml)  
-[**Charleston**](https://web.archive.org/newsroom/wx/tcamlive.shtml)  
-[**Hurricane**](https://web.archive.org/newsroom/wx/hurricanecamlive.shtml)  
-  
-[](https://web.archive.org/homelawn/)  
-
-
 |  |    
 **Privacy Statement for www.wchstv.com**
 
