@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605130758id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113724id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # DigiGuide: The Best TV Guide - Privacy Statement
 
@@ -71,8 +71,8 @@ If you have any questions regarding our privacy statement, we are only too happy
 
 * * *
 
-[Copyright ©1999-2004 GipsyMedia Ltd](http://www.gipsymedia.com/general/copyright.html). All rights reserved.  
-[Site Map](http://www.digiguide.com/general/sitemap.shtml) | [About Us](http://www.gipsymedia.com/) | [Privacy Statement](http://www.digiguide.com/general/privacy.shtml) | [Terms and Conditions](http://www.digiguide.com/general/termsoverview.shtml)
+[Copyright ©1999-2004 GipsyMedia Ltd](http://www.digiguide.com/general/copyright.shtml). All rights reserved.  
+[Site Map](http://www.digiguide.com/general/sitemap.shtml) | [About Us](http://www.digiguide.com/general/aboutus) | [Privacy Statement](http://www.digiguide.com/general/privacy.shtml) | [Terms and Conditions](http://www.digiguide.com/general/termsoverview.shtml)
 
 Reproduction of material from this web site without prior written permission is strictly prohibited. All contributions to this site are copyright GipsyMedia Limited.
 
