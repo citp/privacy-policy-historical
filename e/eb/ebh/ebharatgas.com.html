@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ebharatgas.com privacy policy that was archived on 2004-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040609104623id_/http%3A//www.ebharatgas.com/ebgas/pages/customer/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebharatgas.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204193527id_/http%3A//www.ebharatgas.com/ebgas/pages/customer/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head><title>ebharatgas.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -89,7 +89,7 @@ window.status="www.ebharatgas.com";
   <param name="pause" value="8000">
   <param name="style" value="orderloop">
 
-<param name="text" value="bannerimage/banner1.gif|http://www.ebharatgas.com/ebgas/pages/promotion_desc.jsp?coolid=2|_blank^bannerimage/banner2.gif|http://www.ebharatgas.com/ebgas/pages/promotion_desc.jsp?coolid=2|_blank^">
+<param name="text" value="bannerimage/banner1.gif|http://www.ebharatgas.com/ebgas/pages/promotion_desc.jsp?coolid=2|_blank^bannerimage/banners.gif|http://www.ebharatgas.com/ebgas/pages/promotion_desc.jsp?coolid=2|_blank^">
 </applet>
 		  
 		  </td>
@@ -116,8 +116,14 @@ function NewsletterWindow(mypage,myname,w,h,scroll){
 		LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
 		TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
 		settings ='height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
-		//mypage=mypage + "?emailid=" + document.frmSubcription.txtEmail.value + "&option=" + document.frmSubcription.subscriptionoption.value;
-		mypage=mypage + "?emailid=" + document.homenewsletter.txtemailid.value + "&option=3"  ;
+			var combotype=document.homenewsletter.selnews.options[document.homenewsletter.selnews.selectedIndex].value;
+		if (combotype=='N'){
+							mypage="../newssubscriptionv.jsp" + "?emailid=" + document.homenewsletter.txtemailid.value + "&option=2&todo=S"  
+	 
+		}
+		if (combotype=='Q'){
+			mypage="http://bharatpetroleum.com/subscriptionv.asp" + "?emailid=" + document.homenewsletter.txtemailid.value + "&option=3"  ;
+		}
 		win = window.open(mypage,myname,settings)
 		}
 	 
@@ -149,7 +155,7 @@ function NewPollWindow(mypage,myname,w,h,scroll)
 
 function getPollAnswer()
 {
-	if(document.frmPoll.optAns[0].checked==false && document.frmPoll.optAns[1].checked==false && document.frmPoll.optAns[2].checked==false){
+/*	if(document.frmPoll.optAns[0].checked==false && document.frmPoll.optAns[1].checked==false && document.frmPoll.optAns[2].checked==false){
 		alert("Please Select Poll Answer");
 		return 0;
 	}
@@ -159,6 +165,41 @@ function getPollAnswer()
 		if(document.frmPoll.optAns[1].checked==true) return 'N';
 		if(document.frmPoll.optAns[2].checked==true) return 'X';
  	}
+	*/
+
+		if(document.frmPoll.optAns[0].checked !=false){
+			varCheck=1;
+		 
+		}
+	
+		if(document.frmPoll.optAns[1].checked !=false){
+			varCheck=1;
+		 
+		}
+	
+		if(document.frmPoll.optAns[2].checked !=false){
+			varCheck=1;
+		 
+		}
+	
+		if(document.frmPoll.optAns[3].checked !=false){
+			varCheck=1;
+		 
+		}
+	
+	if(varCheck==0){
+		alert("Please Select Poll Answer");
+		return 0;
+	}
+	
+	
+	
+	
+		if(document.frmPoll.optAns[0].checked==true) return 'Y';
+		if(document.frmPoll.optAns[1].checked==true) return 'N';
+		if(document.frmPoll.optAns[2].checked==true) return 'X';
+		if(document.frmPoll.optAns[3].checked==true) return 'V';
+		
 	
 }
 function ValidateUser(){
@@ -315,21 +356,21 @@ return true;
           <td width="99%" align="left"> <table width="140" border="0" align="center" cellpadding="0" cellspacing="1">
               <form name="homenewsletter" method="post" action=""></form>
                 <tbody><tr> 
-                  <td colspan="2" align="left"> <select name="select2" class="textnormalCopy" style="WIDTH: 179px">
-                      
-                      <option value="">Quotations</option>
+                  <td colspan="2" align="left"> <select name="selnews" class="textnormalCopy" style="WIDTH: 179px">
+                    <option selected="" value="N">Newsletter</option>
+                    <option value="Q">Quotations</option>
                     </select> </td>
                 </tr>
                 <tr> 
-                  <td width="110"> <input name="txtemailid" type="text" class="textnormalCopy" value="Enter email Id" size="22" onfocus="javascript:document.homenewsletter.txtemailid.value=''"></td>
-                  <td width="30" align="right"><a href="http://bharatpetroleum.com/subscriptionv.asp" onclick="NewsletterWindow(this.href,'news','500','150','yes');return false"><img src="../jspimages/go.gif" width="30" height="20" border="0"></a></td>
+                  <td width="110"> <input name="txtemailid" type="text" class="textnormalCopy" value="Enter email Id" size="22" onfocus="javascript:document.homenewsletter.txtemailid.value=''" maxlength="200"></td>
+                  <td width="30" align="right"><a href="#" onclick="NewsletterWindow(this.href,'news','500','150','yes');return false"><img src="../jspimages/go.gif" width="30" height="20" border="0"></a></td>
                 </tr>
               
             </tbody></table></td>
         </tr>
       </tbody></table></td>
   </tr>
-  
+ 
   <tr> 
     <td background="../jspimages/menu_bg.gif"><img src="../jspimages/poll.gif" width="206" height="20" vspace="2"></td>
   </tr>
@@ -342,25 +383,48 @@ return true;
           <td width="33" background="../jspimages/poll_left.gif"><img src="../jspimages/poll_left.gif" width="33" height="95"></td>
           <td width="149"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <form name="frmPoll" method="post" action=""></form>
+			  <input type="hidden" value="2" name="questionid">
                 <tbody><tr> 
-                  <td colspan="3" class="textnormalCopy">Is the new site user friendly ?</td>
+                  <td colspan="3" class="textnormalCopy">How Is The Recipe Section?</td>
                 </tr>
                 <tr> 
                   <td colspan="3" align="center" valign="middle" class="textnormalCopy">&nbsp;</td>
                 </tr>
+                
                 <tr> 
                   <td width="17%" align="center" valign="middle"><input type="radio" name="optAns" value="Y"></td>
-                  <td colspan="2" class="textnormalCopy">Yes</td>
+                  <td colspan="2" class="textnormalCopy">Need Improvement.</td>
                 </tr>
+				
+				
                 <tr> 
-                  <td align="center" valign="middle"><input type="radio" name="optAns" value="N"></td>
-                  <td colspan="2" class="textnormalCopy">No</td>
+                  <td align="center" valign="middle"> <input type="radio" name="optAns" value="N"></td>
+                  <td colspan="2" class="textnormalCopy">Average.</td>
                 </tr>
+				
+				
                 <tr> 
-                  <td align="center" valign="middle"><input type="radio" name="optAns" value="X"></td>
-                  <td width="83%" class="textnormalCopy">Can't say</td>
-                  <input type="hidden" value="1" name="questionid">
-                  <td width="83%" class="textnormalCopy"><a href="../pollsubmit.jsp" onclick="NewPollWindow(this.href,'poll','600','250','yes');return false"><img src="../jspimages/submit1.gif" width="55" height="17" border="0"></a></td>
+                  <td align="center" valign="middle"> <input type="radio" name="optAns" value="X"></td>
+                  <td colspan="2" class="textnormalCopy">Good.</td>
+                </tr>
+				
+				
+                <tr> 
+                  <td align="center" valign="middle"> <input type="radio" name="optAns" value="V"></td>
+                  <td colspan="2" class="textnormalCopy">Excellent.</td>
+                </tr>
+				
+                <tr> 
+                  <td align="center" valign="middle">
+				  <!--<input type="radio" name="optAns"   value="X">-->
+				  </td>
+                  <td width="83%" class="textnormalCopy">
+				  <!--Can't say-->
+				  </td>
+                   
+                  <td width="83%" class="textnormalCopy"><a href="../pollsubmit.jsp" onclick="NewPollWindow(this.href,'poll',(screen.height),'350','yes');return false"> 
+                    <img src="../jspimages/submit1.gif" width="55" height="17" border="0"></a> 
+                  </td>
                 </tr>
               
             </tbody></table></td>
@@ -413,7 +477,7 @@ return true;
   <area shape="rect" coords="17,93,198,109" alt="Industrial / Auto / Piped Gas" onmouseover="popUp('elMenu4',event)" onmouseout="popDown('elMenu4')">
   <area shape="rect" coords="18,114,200,129" alt="Your Corner" onmouseover="popUp('elMenu3',event)" onmouseout="popDown('elMenu3')">
   <area shape="rect" coords="16,132,200,148" href="../cust_faq.jsp" alt="FAQ">
-  <area shape="rect" coords="17,153,201,169" href="../general/gen_applicationform.jsp" alt="Application Form">
+  <area shape="rect" coords="17,153,201,169" href="../general/gen_whatsnew.jsp" alt="What's New?">
 </map>
   
 <map name="Map4MapMap">
@@ -424,7 +488,20 @@ return true;
           <td> <table border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
                 <td width="574"> 
-                  <script language="JavaScript">
+                 <script language="JavaScript"> 
+ var msg= new Array()
+msg[0]='<b><p class=textnormalCopy><b><font color=#B50C0C>Call 1712 </font>for 24 hour cylinder booking frontpage</p></font></b>';
+msg[1]='<b><p class=textnormalCopy><b><font color=#B50C0C>ebharatgas.com</font> to e-book your gas cylinder </p></font></b>';
+msg[2]='<b><p class=textnormalCopy><b><font color=#B50C0C>Perfect weight</font> - weight the cylinder at your doorstep </p></font></b>';
+msg[3]='<b><p class=textnormalCopy><b>Delivery at your convenience - <font color=#B50C0C>Open 8 am to 8 pm</font></p></font></b>';
+msg[4]='<p class=textnormalCopy><b>Suraksha Gas Tube - with <font color=#B50C0C>5 year guarantee</font></p></font></b>';
+msg[5]='<b><p class=textnormalCopy><b><font color=#B50C0C>Call 1712 </font>for 24 hour cylinder booking frontpage</p></font></b>';
+msg[6]='<b><p class=textnormalCopy><b><font color=#B50C0C>ebharatgas.com</font> to e-book your gas cylinder </p></font></b>';
+msg[7]='<b><p class=textnormalCopy><b><font color=#B50C0C>Perfect weight</font> - weight the cylinder at your doorstep </p></font></b>';
+msg[8]='<b><p class=textnormalCopy><b>Delivery at your convenience - <font color=#B50C0C>Open 8 am to 8 pm</font></p></font></b>';
+msg[9]='<p class=textnormalCopy><b>Suraksha Gas Tube - with <font color=#B50C0C>5 year guarantee</font></p></font></b>';
+
+				
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
@@ -432,200 +509,254 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 }
 //-->
 </script>
-
+ 
 <table border="0" cellspacing="0" cellpadding="0">
   <form name="myform"></form><tbody><tr> 
     <td width="574"><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td width="67%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr align="left" valign="top"> 
-                <td width="2%"><img src="../jspimages/ticker_spacer.gif" width="12" height="31"></td>
-                <td width="94%" align="center" valign="top" background="../jspimages/tickerbar.gif"> 
-                  <script language="JavaScript1.2">
-							  //configure the below five variables to change the style of the scroller
-var scrollerwidth='350px'
-var scrollerheight='22px'
-var scrollerbgcolor=''
-//set below to '' if you don't wish to use a background image
-var scrollerbackground=''
-
-//configure the below variable to change the contents of the scroller
-var messages=new Array()
-
-messages[0]="<b><p class=textnormalCopy><b><font color=#B50C0C>Call 1712 </font>for 24 hour cylinder booking </p></font></b>"
-messages[1]="<b><p class=textnormalCopy><b><font color=#B50C0C>ebharatgas.com</font> to e-book your gas cylinder </p></font></b>"
-messages[2]="<b><p class=textnormalCopy><b><font color=#B50C0C>Perfect weigh</font> - weight the cylinder at your doorstep </p></font></b>"
-messages[3]="<b><p class=textnormalCopy><b>Delivery at your convenience - <font color=#B50C0C>Open 8 am to 8 pm</font></p></font></b>"
-messages[4]="<p class=textnormalCopy><b>Suraksha Gas Tube - with <font color=#B50C0C>5 year guarantee</font></p></font></b>"
-messages[5]="<b><p class=textnormalCopy><b><font color=#B50C0C>Call 1712 </font>for 24 hour cylinder booking </p></font></b>"
-messages[6]="<b><p class=textnormalCopy><b><font color=#B50C0C>ebharatgas.com</font> to e-book your gas cylinder </p></font></b>"
-messages[7]="<b><p class=textnormalCopy><b><font color=#B50C0C>Perfect weight</font> - weigh the cylinder at your doorstep </p></font></b>"
-messages[8]="<b><p class=textnormalCopy><b>Delivery at your convenience - <font color=#B50C0C>Open 8 am to 8 pm</font></p></font></b>"
-messages[9]="<p class=textnormalCopy><b>Suraksha Gas Tube - with <font color=#B50C0C>5 year guarantee</font></p></font></b>"
-
-
-var ie=document.all
-var dom=document.getElementById
-
-if (messages.length>2)
-i=2
-else
-i=0
-
-function move1(whichlayer){
-tlayer=eval(whichlayer)
-if (tlayer.top>0&&tlayer.top<=5){
-tlayer.top=0
-setTimeout("move1(tlayer)",5000)
-setTimeout("move2(document.main.document.second)",5000)
-return
-}
-if (tlayer.top>=tlayer.document.height*-1){
-tlayer.top-=5
-setTimeout("move1(tlayer)",50)
-}
-else{
-tlayer.top=parseInt(scrollerheight)
-tlayer.document.write(messages[i])
-tlayer.document.close()
-if (i==messages.length-1)
-i=0
-else
-i++
-}
-}
-
-function move2(whichlayer){
-tlayer2=eval(whichlayer)
-if (tlayer2.top>0&&tlayer2.top<=5){
-tlayer2.top=0
-setTimeout("move2(tlayer2)",5000)
-setTimeout("move1(document.main.document.first)",5000)
-return
-}
-if (tlayer2.top>=tlayer2.document.height*-1){
-tlayer2.top-=5
-setTimeout("move2(tlayer2)",50)
-}
-else{
-tlayer2.top=parseInt(scrollerheight)
-tlayer2.document.write(messages[i])
-tlayer2.document.close()
-if (i==messages.length-1)
-i=0
-else
-i++
-}
-}
-
-function move3(whichdiv){
-tdiv=eval(whichdiv)
-if (parseInt(tdiv.style.top)>0&&parseInt(tdiv.style.top)<=5){
-tdiv.style.top=0+"px"
-setTimeout("move3(tdiv)",5000)
-setTimeout("move4(second2_obj)",5000)
-return
-}
-if (parseInt(tdiv.style.top)>=tdiv.offsetHeight*-1){
-tdiv.style.top=parseInt(tdiv.style.top)-5+"px"
-setTimeout("move3(tdiv)",50)
-}
-else{
-tdiv.style.top=parseInt(scrollerheight)
-tdiv.innerHTML=messages[i]
-if (i==messages.length-1)
-i=0
-else
-i++
-}
-}
-
-function move4(whichdiv){
-tdiv2=eval(whichdiv)
-if (parseInt(tdiv2.style.top)>0&&parseInt(tdiv2.style.top)<=5){
-tdiv2.style.top=0+"px"
-setTimeout("move4(tdiv2)",5000)
-setTimeout("move3(first2_obj)",5000)
-return
-}
-if (parseInt(tdiv2.style.top)>=tdiv2.offsetHeight*-1){
-tdiv2.style.top=parseInt(tdiv2.style.top)-5+"px"
-setTimeout("move4(second2_obj)",50)
-}
-else{
-tdiv2.style.top=parseInt(scrollerheight)
-tdiv2.innerHTML=messages[i]
-if (i==messages.length-1)
-i=0
-else
-i++
-}
-}
-
-function startscroll(){
-if (ie||dom){
-first2_obj=ie? first2 : document.getElementById("first2")
-second2_obj=ie? second2 : document.getElementById("second2")
-move3(first2_obj)
-second2_obj.style.top=scrollerheight
-second2_obj.style.visibility='visible'
-}
-else if (document.layers){
-document.main.visibility='show'
-move1(document.main.document.first)
-document.main.document.second.top=parseInt(scrollerheight)+5
-document.main.document.second.visibility='show'
-}
-
-}
-
-window.onload=startscroll
-
-</script> <ilayer id="main" width="&amp;{scrollerwidth};" height="&amp;{scrollerheight};" bgcolor="&amp;{scrollerbgcolor};" background="&amp;{scrollerbackground};" visibility="hide"> 
-                  <layer id="first" left="0" top="1" width="&amp;{scrollerwidth};"> 
-                  <script language="JavaScript1.2">
-if (document.layers)
-document.write(messages[0])
+                <td width="2%"><img src="/ebgas/pages/jspimages/ticker_spacer.gif" width="12" height="31"></td>
+                <td width="94%" align="center" valign="top" background="/ebgas/pages/jspimages/tickerbar.gif"> 
+				<script language="javascript">
+/* ********************************************************************************** 
+    * This code was created by Jim Young of www.requestcode.com .                *
+    * You may use this code at no charge.  All I ask is that you give me             *
+    * credit.  Please visit my site for more scripts like this one.                          *
+    **********************************************************************************
+    Enter your links or text in the array below that you want to scroll.  Mak sure that you use single quotes within 
+    the double quotes 
+*/
+ 
+/* The variables below are the ones you want to change  */
+ 
+speed=150                      // Sets the speed in milliseconds at which the link or text scrolls.
+var divwidth=350             // Sets the width of the div or layer in pixels.  You will have to play with this to get it set correctly.
+var divheight=18             // Sets the height of the div or layer in pixels.  Same as above.
+ 
+/*
+   The variables divincbt, divinctb, divincrl and divinclr set the increment in pixels that the div that contains the text
+    or links is moved.  Which one is used is determined by the direction that you pick in the variable whichscroll.
+    The variable divinctb would be used if you set whichscroll to 1, divinctb if you set whichscroll to 2, divincrl if
+     you set whichscroll to 3 and divinclr if you set whichscroll to 4.  You can change these variables to speed up
+     or slow down the movement of the scroll.
+*/
+ 
+var divincbt=1                 
+var divinctb=-1
+var divincrl=10
+var divinclr=-10
+ 
+var divpause=3000        // Sets how long to pause in milliseconds before scrolling the next link or text. 
+ 
+var divtop="4"              // divtop and divleft set the top and left positions of the container div or layer in pixels. 
+var divleft="10"               
+ 
+var divcolor="#ece6b9"      // Sets the background color of the div or layer
+ 
+var divname1="scroll2"  // Sets the name of your div or layer for the first link or text that is displayed
+var divname2="scroll3"  // Sets the name of your div or layer for the next link or text to be displayed
+ 
+/*
+   The variable whichscroll is used to set the direction of the scrolling.  It is currently set to 1.
+    1 = Bottom to Top
+    2 = Top to Bottom
+    3 = Right to Left
+    4 = Left to Right
+*/
+var whichscroll="1"
+ 
+/* END OF CONFIGURATION VARIABLES */
+ 
+/* THERE IS NO NEED TO CHANGE THE VARIABLES OR SCRIPTS BELOW */
+ 
+var divinc
+var stopposa
+var stopposb
+var scrollmsga
+var scrollmsgb 
+var thediva
+var thedivb
+var posa
+var posb
+var i=msg.length
+var firsttime="y"
+var divprop
+var whichdiv=divname1
+if(whichscroll=="1")
+  {
+   stopposa=0
+   stopposb=divheight*-1
+   divprop="top"
+   divinc=divincbt
+  }
+if(whichscroll=="2")
+  {
+   stopposa=0
+   stopposb=divheight
+   divprop="top"
+   divinc=divinctb
+  }
+if(whichscroll=="3")
+  {
+   stopposa=0
+   stopposb=divwidth*-1
+   divprop="left"
+   divinc=divincrl
+  }
+if(whichscroll=="4")
+  {
+   stopposa=1
+   stopposb=divwidth+2
+   divprop="left"
+   divinc=divinclr
+  }
+ 
+function Scrollboxa(obja)
+     {
+         savobja=obja
+         posa=posa-divinc
+         if(((whichscroll=="1" || whichscroll=="3")&&(posa<=stopposa))||
+           ((whichscroll=="2" || whichscroll=="4")&&(posa>=stopposa)))
+           {
+            clearTimeout(scrollmsga)
+            setTimeout("scrollit()",divpause)
+           } 
+         else
+             {
+              if(document.getElementById) // IE5 and NS6
+                {
+                 eval("elma.style."+divprop+"=posa")
+                 elma.style.visibility="visible"
+                }
+              if(document.layers)    // NS4+
+                {
+                 eval("obja."+divprop+"=posa")
+                 document.tic_news_scroll.visibility="show"
+                }
+              scrollmsga=setTimeout("Scrollboxa(savobja)",speed)
+             }
+     }
+function Scrollboxb(objb)
+     {
+         savobjb=objb
+         posb=posb-divinc
+         if(((whichscroll=="1" || whichscroll=="3")&&(posb<=stopposb))||
+            ((whichscroll=="2" || whichscroll=="4")&&(posb>=stopposb)))
+           {
+            clearTimeout(scrollmsgb)
+           }
+         else
+              {
+               if(document.getElementById) // IE5 and NS6
+                 {
+                  eval("elmb.style."+divprop+"=posb")
+                 }
+               if(document.layers)  // NS4+
+                 {
+                  eval("objb."+divprop+"=posb")
+                  objb.visibility="show"
+                 }
+               scrollmsgb=setTimeout("Scrollboxb(savobjb)",speed)
+              }
+     }
+function scrollit()
+   {
+    i++
+    if(i>=msg.length)
+      {i=0}
+    posa=stopposb*-1
+    posb=0
+    if(firsttime=="y")
+      {
+       firsttime= "n"
+       if(document.getElementById)      // IE5 and NS6
+         {
+          elma=document.getElementById(divname1)
+          elma.innerHTML=msg[i]
+         }
+      if(document.layers)   // NS4+
+        {
+         thediva=eval("document.tic_news_scroll.document."+divname1)
+         thediva.document.write(msg[i])
+         thediva.document.close()
+        }
+       Scrollboxa(thediva)
+      }
+    else
+      {
+       if(whichdiv==divname1)
+         {
+          if(document.getElementById)  // IE5 and NS6
+            {
+             elmb=document.getElementById(divname1)
+             elma=document.getElementById(divname2)
+             elma.innerHTML=msg[i]
+            }
+          if(document.layers)  //  NS4+
+            {
+             thedivb=eval("document.tic_news_scroll.document."+divname1)
+             thediva=eval("document.tic_news_scroll.document."+divname2)  
+             thediva.document.write(msg[i])
+             thediva.document.close()
+            }
+          Scrollboxb(thedivb)
+          whichdiv=divname2
+          Scrollboxa(thediva)
+         }
+       else
+         {
+          if(document.getElementById)   // IE5 and NS6
+            {
+             elmb=document.getElementById(divname2)
+             elma=document.getElementById(divname1)
+             elma.innerHTML=msg[i]
+             }
+          if(document.layers)  // NS4+
+            {
+             thedivb=eval("document.tic_news_scroll.document."+divname2)
+             thediva=eval("document.tic_news_scroll.document."+divname1)
+             thediva.document.write(msg[i])
+             thediva.document.close()
+             }
+          Scrollboxb(thedivb)
+          whichdiv=divname1
+          Scrollboxa(thediva)
+         }
+      }
+  }
 </script>
-                  </layer>
-                  <layer id="second" left="0" top="0" width="&amp;{scrollerwidth};" visibility="hide"> 
-                  <script language="JavaScript1.2">
-if (document.layers)
-document.write(messages[dyndetermine=(messages.length==1)? 0 : 1])
-</script>
-                  </layer>
-                  </ilayer>
-                  <script language="JavaScript1.2">
-if (ie||dom){
-document.writeln('<div id="main2" style="position:relative;width:'+scrollerwidth+';height:'+scrollerheight+';overflow:hidden;background-color:'+scrollerbgcolor+' ;background-image:url('+scrollerbackground+')">')
-document.writeln('<div style="position:absolute;width:'+scrollerwidth+';height:'+scrollerheight+';clip:rect(0 '+scrollerwidth+' '+scrollerheight+' 0);left:0px;top:6px">')
-document.writeln('<div id="first2" style="position:absolute;width:'+scrollerwidth+';left:5px;top:5px;">')
-document.write(messages[0])
-document.writeln('</div>')
-document.writeln('<div id="second2" style="position:absolute;width:'+scrollerwidth+';left:5px;top:20px;visibility:hidden">')
-document.write(messages[dyndetermine=(messages.length==1)? 0 : 1])
-document.writeln('</div>')
-document.writeln('</div>')
-document.writeln('</div>')
-}
-</script><div id="main2" style="position:relative;width:350px;height:22px;overflow:hidden;background-color: ;background-image:url()">
-<div style="position:absolute;width:350px;height:22px;clip:rect(0 350px 22px 0);left:0px;top:6px">
-<div id="first2" style="position: absolute; width: 350px; left: 5px; top: 0px;">
-<b><p class="textnormalCopy"><b><font color="#B50C0C">Call 1712 </font>for 24 hour cylinder booking </b></p></b></div><b>
-<div id="second2" style="position: absolute; width: 350px; left: 5px; top: 22px; visibility: visible;">
-<b><p class="textnormalCopy"><b><font color="#B50C0C">ebharatgas.com</font> to e-book your gas cylinder </b></p></b></div><b>
-</b></b></div><b><b>
-</b></b></div><b><b>
- </b></b></td>
-                <td width="4%" align="right" background="../jspimages/tickerbar.gif"><img src="../jspimages/ticker_spacer1.gif" width="6" height="31"></td>
+ 
+ 
+ 
+<script language="JavaScript">
+ /* You should no have to change the scripts below */
+if(document.getElementById)  // IE5 and NS6
+  {
+   document.write('<DIV STYLE="position:relative;top:'+divtop+';left:'+divleft+';width:'+divwidth+';height:'+divheight+';visibility:visible;background-color:'+divcolor+';overflow:hidden;clip:rect(0,'+divwidth+','+divheight+',0)">')
+   document.write('<DIV STYLE="position:relative;top:0;left:0;width:'+divwidth+';height:'+divheight+'">')
+   document.write('<DIV ID='+divname1+' STYLE="position:absolute;top:0;left:0;width:'+divwidth+';height:'+divheight+'"></DIV>')
+   document.write('<DIV ID='+divname2+' STYLE="position:absolute;top:0;left:0;width:'+divwidth+';height:'+divheight+';visibility:hidden"></DIV>')
+   document.write('</DIV></DIV>')
+  }
+if(document.layers)  // NS4+
+  {
+   document.write('<ILAYER ID="tic_news_scroll" TOP='+divtop+' LEFT='+divleft+' WIDTH='+divwidth+' HEIGHT='+divheight+' BGCOLOR='+divcolor+' VISIBILITY=hide>')
+   document.write('<LAYER ID='+divname1+' LEFT=0 TOP=0 WIDTH='+divwidth+'></LAYER>')
+   document.write('<LAYER ID='+divname2+' LEFT=0 TOP='+divheight+' WIDTH='+divwidth+'>')
+   document.write('</LAYER></ILAYER>')
+  }
+</script><div style="position:relative;top:4;left:10;width:350;height:18;visibility:visible;background-color:#ece6b9;overflow:hidden;clip:rect(0,350,18,0)"><div style="position:relative;top:0;left:0;width:350;height:18"><div id="scroll2" style="position: absolute; top: 13px; left: 0px; width: 350px; height: 18px; visibility: visible;"><b><p class="textnormalCopy"><b><font color="#B50C0C">Call 1712 </font>for 24 hour cylinder booking frontpage</b></p></b></div><div id="scroll3" style="position:absolute;top:0;left:0;width:350;height:18;visibility:hidden"></div></div></div>
+                  </td>
+                <td width="4%" align="right" background="/ebgas/pages/jspimages/tickerbar.gif"><img src="/ebgas/pages/jspimages/ticker_spacer1.gif" width="6" height="31"></td>
               </tr>
             </tbody></table></td>
-          <td width="33%" align="left" valign="top" background="../jspimages/ddbg.gif"> 
+          <td width="33%" align="left" valign="top" background="jspimages/ddbg.gif"> 
             <table width="100%" border="0" cellspacing="0" cellpadding="3">
               <tbody><tr> 
                   <td valign="top">  <select name="month1" onchange="javascript:window.open(document.myform.month1[(document.myform.month1.selectedIndex)].value);" style="WIDTH: 179px" class="textnormalcopy">
                        <option selected="">Other BPCL Links</option>
-					  <option value="http://www.bharatpetroleum.com">www.bharatpetroleum.com</option>
+       <option value="http://www.bharatpetroleum.com">www.bharatpetroleum.com</option>
                       <option value="http://ebiz.bpc.co.in">ebiz.bpc.co.in</option>
                       <option value="http://www.kochirefineries.com">www.kochirefineries.com</option>
                       <option value="http://www.petroleum.nic.in/nrl.htm">www.petroleum.nic.in/nrl.htm</option>
@@ -641,7 +772,6 @@ document.writeln('</div>')
       </tbody></table></td>
   </tr>
 </tbody></table>
- 
 
                 </td>
               </tr>
@@ -747,8 +877,8 @@ win = window.open(mypage,myname,settings)
         <tr> 
           <td align="center" class="textnormalCopy">Site best viewed in 800 x 
             600 resolution<br>
-            Site designed &amp; maintained by <a href="http://www.evisiontechnologies.com" target="_blank">E 
-            Vision Technologies Pvt.Ltd.</a> </td>
+            <a href="../general_feedback.jsp">Feedback</a><br>
+            </td>
         </tr>
         <tr>
           <td align="center" class="textnormalCopy">&nbsp;</td>
@@ -756,7 +886,9 @@ win = window.open(mypage,myname,settings)
       </tbody></table></td>
   </tr>
    </tbody></table>
-
+<script language="JavaScript">
+scrollit();
+</script>
       </div></td>
   </tr>
 </tbody></table>
