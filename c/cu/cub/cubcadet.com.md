@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622170600id_/http%3A//www.cubcadet.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213205246id_/http%3A//www.cubcadet.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # . : CUB CADET: .
 
