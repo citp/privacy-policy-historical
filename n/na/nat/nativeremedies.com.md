@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120626id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604174826id_/http%3A//nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
 
 # Natural Herbal Remedies for Your Health - Anxiety, ADHD, Depression Insomnia Prostate Weight Loss and More
 
