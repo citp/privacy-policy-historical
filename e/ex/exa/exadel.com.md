@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exadel.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201231445id_/http%3A//www.exadel.com/legalinfo_privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exadel.com privacy policy that was archived on 2003-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030206000631id_/http%3A//www.exadel.com/legalinfo_privacystatement.htm) for the most accurate reproduction.*
 
-# Exadel
+# Java Tool. Exadel Privacy Statement
 
 Exadel respects your right to privacy and your right to limit information exchanges to only those you initiate. We do acquire certain personal information from private individuals in the course of business, but we do not share this personal information with third parties. We do use this information to better serve you and facilitate your use of our web site. 
 
