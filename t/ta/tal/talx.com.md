@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talx.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603011009id_/http%3A//www.talx.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talx.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209024244id_/http%3A//talx.com/Privacy.asp) for the most accurate reproduction.*
 
 # TALX Privacy Policy
 
