@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierra.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416015132id_/http%3A//www.sierra.com/sierra/corporate_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierra.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206182255id_/http%3A//www.sierra.com/corporate_policy.do) for the most accurate reproduction.*
 
 # Sierra Entertainment - Policy Statements
 
@@ -6,9 +6,7 @@
 
 **On-Line Privacy Policy**
 
-Sierra Entertainment, Inc. is part of Vivendi Universal Games, Inc., a global leader in multi-platform interactive entertainment. Vivendi Universal Games and its subsidiary companies (collectively "VUG") respect the privacy of our online visitors and recognize the importance of providing a secure environment for them. We have adopted a corporate-wide Online Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how VUG safeguards the privacy of its online visitors and does not apply to information that may be collected by VUG offline. Please note that when you link to other sites from a VUG Web site, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. Also, this Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. 
-
-This Privacy Policy and the certification seal located on this page confirms that Vivendi Universal Games is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
+Sierra Entertainment, Inc. is part of Vivendi Universal Games, Inc., a global leader in multi-platform interactive entertainment. Vivendi Universal Games and its subsidiary companies (collectively "VUG") respect the privacy of our online visitors and recognize the importance of providing a secure environment for them. We have adopted a corporate-wide Online Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how VUG safeguards the privacy of its online visitors and does not apply to information that may be collected by VUG offline. Please note that when you link to other sites from a VUG Web site, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. This Privacy Policy and the certification seal located on this page confirms that Vivendi Universal Games is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
 
 This Privacy Policy will tell you: [](https://www.esrb.com/confirm/vivendi-confirmation.htm)
 
@@ -29,9 +27,9 @@ This Privacy Policy will tell you: [](https://www.esrb.com/confirm/vivendi-confi
 If you have any questions, complaints, or comments regarding our privacy policy statement or policies, please contact our Privacy Policy Administrator at [privacy@vuinteractive.com](mailto:privacy@vuinteractive.com). 
 
 **What personal information is collected?**  
-VUG only collects personal information on a voluntary basis. If an online visitor submits information to VUG, it will usually take the form of (1) the purchase of goods or services though our online stores, (2) product registration or registration for online game participation, (3) player match-up services, (4) message boards, (5) warranty registrations, (6) contest registrations, (7) a consumer complaint, and/or (8) surveys. Personal information collected may include your name, home address, phone number, e-mail address, age, gender and/or birth date. We do not require this information to use our products or gain access to our sites; however, you will not be able to utilize certain features that require registration or receive materials such as newsletters unless such information is provided. 
+VUG only collects personal information on a voluntary basis. If an on-line visitor submits information to VUG, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product registration, e-Newsletter registration or registration for on-line game and/or ecard participation, (3) player match-up services, (4) message boards, (5) warranty registrations, (6) sweepstakes and contest registrations, (7) a consumer complaint, (8) surveys, and/or (9) newsletters. Personal information collected may include your name, home address, phone number, and/or e-mail address. We do not require this information to use our products or gain access to our sites, however, you will not be able to utilize certain features that require registration or receive materials such as newsletters unless such information is provided. 
 
-Visitors purchasing products or services through our online stores will be required to provide additional information such as a valid credit card and expiration date. 
+Visitors purchasing products or services through our online stores will be required to provide additional information such as a valid credit card, expiration date, and shipping and billing addresses. 
 
 Please note that, depending on the VUG site that you are visiting, many of the activities listed above may not be available and, as such, personal information may not be collected. 
 
@@ -91,10 +89,10 @@ VUG has taken steps to assure that all information collected will remain secure 
 **What if I have a question or complaint?**  
 If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@vuinteractive.com](mailto:privacy@vuinteractive.com), or send a letter addressed to Vivendi Universal Games Privacy Policy, Attention: Privacy Policy Administrator, at 6080 Center Drive, Los Angeles, California 90045. 
 
-For complaints, you may also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 845 Third Avenue, New York, NY 10022. 
+For complaints, you may also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017. 
 
-By using this Web site, you signify your assent to the Privacy Policy. If you do not agree with this policy, please do not use this site. 
+By using this Web site, you signify your assent to the Privacy Policy. If you do not agree with this policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the Sierra Entertainment website will signify your acceptance of these changes. 
 
-This Privacy Policy was last updated on December 2, 2002. 
+This Privacy Policy was last updated on May 27, 2004. 
 
 |   | 
