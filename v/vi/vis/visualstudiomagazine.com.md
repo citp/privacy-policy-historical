@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the visualstudiomagazine.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607213933id_/http%3A//www.fawcette.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualstudiomagazine.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013000709id_/http%3A//www.fawcette.com/privacy/default.asp) for the most accurate reproduction.*
 
 # Fawcette.com - Privacy Statement
 
-Privacy Statement for Fawcette Technical Publications
+Privacy Statement for Fawcette Technical Publications, Inc.
 
-Fawcette Technical Publications has created this privacy statement in order to demonstrate our firm commitment to privacy. This document contains our information gathering and dissemination practices for our websites.
+Fawcette Technical Publications has created this privacy statement in order to demonstrate our firm commitment to privacy. This document contains our information gathering and dissemination practices for our web sites.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information about site traffic.
 
@@ -38,7 +38,7 @@ Change/Modify
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. e-mail [support@fawcette.com](mailto:support@fawcette.com)
-  2. send mail to the following postal address:  
+  2. Send mail to the following postal address:  
 2600 South El Camino Real  
 Suite 300  
 San Mateo, CA 94403
@@ -46,8 +46,8 @@ San Mateo, CA 94403
 
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   
-Fawcette Technical Publications  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
+Fawcette Technical Publications, Inc.  
 2600 South El Camino Real  
 Suite 300  
 San Mateo, CA 94403  
