@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the travel-culture.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602144340id_/http%3A//www.travel-culture.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-culture.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610002931id_/http%3A//www.travel-culture.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy.
 
-, 
-
-In this oceon of networks We have unluckily been abused by certain elements. [Travel & Culture Services](https://web.archive.org/web/20020602144340id_/http%3A//www.travel-culture.com/company.shtml) condem such uses of the internet. We believe Internet should be purly a mean of information and good business communication.Some of our privacy policies are as under.
+In this oceon of networks We have unluckily been abused by certain elements. [Travel & Culture Services](http://www.travel-culture.com/company.shtml) condem such uses of the internet. We believe Internet should be purly a mean of information and good business communication.Some of our privacy policies are as under.
 
 #### 1) WHAT information is being collected
 
