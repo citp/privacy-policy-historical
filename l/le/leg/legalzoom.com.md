@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/universal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/privacy.html) for the most accurate reproduction.*
 
-# Legal Zoom - Privacy Statement
+# Privacy - We incorporate strict privacy policies to keep your personal and financial information secure.
 
 |  |  |  |  |   
 ---|---|---|---|---  
-[](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/index.html) |   
-[](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/index.html) |  [](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/advantage/advantage.html) |  [](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/legalwiz/lw_procedure_main.html) |  [](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/law_library/library_home.html) |  [](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/telelawyer/telelayer.html) |  [](https://www.legalzoom.com/signin/signin.html) |   
+[](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/index.html) |   
+[](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/index.html) |  [](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/advantage/advantage.html) |  [](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/legalzip/lw_procedure_main.html) |  [](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/law_library/library_home.html) |  [](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/telelawyer/telelayer.html) |  [](https://www.legalzoom.com/signin/signin.html) |   
 |  |   
 |   
 ---  
@@ -24,7 +24,7 @@ LegalZoom is deeply committed to your right to privacy and takes your privacy se
   * Only authorized employees may access your information. 
   * All employees are required to adhere to our strict privacy policies and any employee who violates the privacy policy is subject to termination and other disciplinary measures, up to being criminally prosecuted for their violation.
 
-LegalZoom only collects personally identifiable information you provide in order for you to access and use our customized services. This personal information is necessary to generate the legal documents created by our LegalWiz program. Personally identifiable information includes, but is not limited to, first and last name, physical address, zip code, email address, phone number, social security number, birth date, credit card information, financial information, mortgage information, automobile information, personal wedding information, and other sensitive information necessary to generate proper legal documents. 
+LegalZoom only collects personally identifiable information you provide in order for you to access and use our customized services. This personal information is necessary to generate the legal documents created by our LegalZip software program. Personally identifiable information includes, but is not limited to, first and last name, physical address, zip code, email address, phone number, social security number, birth date, credit card information, financial information, mortgage information, automobile information, personal wedding information, and other sensitive information necessary to generate proper legal documents. 
 
 If, however, LegalZoom is required by law to comply with a valid legal requirement such as law, federal regulation, search warrant, subpoena or court order, LegalZoom may be required to release personal information. We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed. 
 
@@ -39,6 +39,6 @@ IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE US
 |   
 ---|---  
 |  |   
-[Home](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/index.html) [About Us](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/universal/aboutus.html) [Contact](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/universal/contact.html) [Press](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/universal/press.html) [Privacy](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/universal/privacy.html) [Disclaimer](https://web.archive.org/web/20021209090640id_/http%3A//www.legalzoom.com/universal/disclaimer.html) [Bookstore](http://www.legal.com/shop/?affilid=1002)  
+[Home](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/index.html) [About Us](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/aboutus.html) [Contact](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/contact.html) [Press](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/press.html) [Privacy](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/privacy.html) [Disclaimer](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/disclaimer.html) [Bookstore](http://www.legal.com/shop/?affilid=1002)  
   
 
