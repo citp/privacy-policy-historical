@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dresses.com privacy policy that was archived on 2000-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000517151816id_/http%3A//www.dresses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresses.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206045800id_/http%3A//www.dresses.com/privacy.html) for the most accurate reproduction.*
 
 # Dresses.com - Privacy and Security Statement
 
@@ -10,6 +10,8 @@ Dresses.com collects customer information to make your online shopping experienc
 Information collected from our Web server is anonymous. It allows us to see which areas of Dresses.com are most popular. This helps us to improve the quality of your online shopping experience by recognizing and delivering more of the products and services your prefer. 
 
 Information that you provide to us when you order, enter our contest, or request a catalog are maintained in private files on our secure Web server and our internal systems. Furthermore, Dresses.com will never release this information to other parties. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm). 
 
 **SECURITY STATEMENT**  
 
