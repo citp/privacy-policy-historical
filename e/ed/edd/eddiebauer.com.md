@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216021526id_/http%3A//www.eddiebauer.com/siteinfo/eb_security.asp%3Flp%3DM1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621163953id_/http%3A//www.eddiebauer.com/siteinfo/eb_security.asp%3Flp%3DM1) for the most accurate reproduction.*
 
 # Eddie Bauer Since 1920
 
@@ -54,7 +54,7 @@ We periodically send you email about new products and services, discounts, speci
 
  __
 
-In some instances, we use third party companies to help us provide our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use cookies on our behalf. These companies are contractually-restricted from using your information in any manner other than in helping us to provide you with the products and services available from Eddie Bauer. For more information about these companies, [Click here.](https://web.archive.org/web/20021216021526id_/http%3A//www.eddiebauer.com/siteinfo/eb_3rdparties.asp)
+In some instances, we use third party companies to help us provide our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use cookies on our behalf. These companies are contractually-restricted from using your information in any manner other than in helping us to provide you with the products and services available from Eddie Bauer. For more information about these companies, [Click here.](https://web.archive.org/web/20030621163953id_/http%3A//www.eddiebauer.com/siteinfo/eb_3rdparties.asp)
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these agencies or companies for marketing purposes.
 
@@ -82,7 +82,7 @@ A "cookie" is a small data file stored on your computer. At Eddie Bauer, we plac
 
 We recognize that you have a choice to refuse cookies. However, by choosing to accept an Eddie Bauer cookie you allow us to maintain the preferences stored in your Eddie Bauer "My Account" and process your order. If you choose not to accept the cookie, purchasing is not possible on the Eddie Bauer site. 
 
-If you are shopping Eddie Bauer and are having difficulty adding product to your shopping cart or completing your order, please check your privacy settings in your browser. If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify, including _eddiebauer.com_ , _eddiebaueroutlet.com_ and _eddiebauerb2b.com_. Please [click here](https://web.archive.org/web/20021216021526id_/http%3A//www.eddiebauer.com/siteinfo/eb_cookies.asp) for instructions on how to override your normal cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your order by phone at 1-800-426-8020.
+If you are shopping Eddie Bauer and are having difficulty adding product to your shopping cart or completing your order, please check your privacy settings in your browser. If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify, including _eddiebauer.com_ and _eddiebaueroutlet.com_. Please [click here](https://web.archive.org/web/20030621163953id_/http%3A//www.eddiebauer.com/siteinfo/eb_cookies.asp) for instructions on how to override your normal cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your order by phone at 1-800-426-8020.
 
 **_
 
@@ -107,7 +107,7 @@ How do I know my information is secure?
 
 _**
 
-We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie BauerÒ Charge Card, we will direct you to the First Consumers National Bank (FCNB) website. See the FCNB website for information on its privacy statement. 
+We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020.  
 
 ** _
 
