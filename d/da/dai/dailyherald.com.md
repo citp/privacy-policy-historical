@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202140701id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401221959id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
-# Daily Herald: Privacy Policy
+# Daily Herald: Suburban Chicago's Information Source
 
    
-**PRIVACY POLICY** | Last Updated on February 27, 2002  
----|---  
-  
+**PRIVACY POLICY**  
+Last Updated on February 27, 2002 
+
 **GENERAL**
 
 Paddock Publications, Inc. ("Paddock"), the owner of The Daily Herald and dailyherald.com, respects the privacy of individuals who visit our site. This Privacy Policy outlines the information that we collect through dailyherald.com and how we use that information, so that you can decide whether and how you wish to provide information to us. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using information obtained through dailyherald.com with your reasonable expectations of privacy. 
