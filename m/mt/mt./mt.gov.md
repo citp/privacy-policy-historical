@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mt.gov privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120947id_/http%3A//www.mt.gov/itsd/policy/policies/ENTINT030.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mt.gov privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603201349id_/http%3A//www.mt.gov/itsd/policy/policies/ENTINT030.asp) for the most accurate reproduction.*
 
 # Enterprise Policy - Internet Privacy and Security
 
@@ -93,9 +93,9 @@ If you have any questions about this privacy statement, please contact us at:
 >  406-444-2701 (Fax)  
 >  Email: [webadmin@state.mt.us](mailto:webadmin@state.mt.us)
 
-Return to [Enterprise IT Policies](https://web.archive.org/web/20031207120947id_/http%3A//www.mt.gov/itsd/policy/enterprise.asp "Enterprise IT Policies")
+Return to [Enterprise IT Policies](https://web.archive.org/web/20040603201349id_/http%3A//www.mt.gov/itsd/policy/enterprise.asp "Enterprise IT Policies")
 
-Return to [ITSD Home](https://web.archive.org/web/20031207120947id_/http%3A//www.mt.gov/itsd/default.asp "ITSD Home")
+Return to [ITSD Home](https://web.archive.org/web/20040603201349id_/http%3A//www.mt.gov/itsd/default.asp "ITSD Home")
 
   
 
