@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbadraft.net privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212100800id_/http%3A//www.nbadraft.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbadraft.net privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602134319id_/http%3A//www.nbadraft.net/policy.htm) for the most accurate reproduction.*
 
 # NBADraft.net - Privacy Policy
 
