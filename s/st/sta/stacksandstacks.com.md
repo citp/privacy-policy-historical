@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142900id_/http%3A//www.stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208070322id_/http%3A//www.stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Stacks & Stacks Site
 
@@ -6,8 +6,6 @@
 >  Privacy Statement for www.stacksandstacks.com
 > 
 > Stacks & Stacks has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.stacksandstacks.com.**
-> 
-> As an AOL Certified Merchant, we have agreed to abide by the principles outlined in AOL's Privacy Policy at the following URL: <http://legal.web.aol.com/policy/aolpol/privpol.html>. If you have any questions regarding our privacy practices, please contact [mel@stacksandstacks.com](mailto:mel@stacksandstacks.com).
 > 
 > This site may contain links to other sites. **www.stacksandstacks.com** is not responsible for the privacy practices or the content of such Web sites.
 > 
