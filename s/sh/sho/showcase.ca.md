@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the showcase.ca privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402183333id_/http%3A//showcase.ca/footer/aa_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showcase.ca privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208070111id_/http%3A//www.showcase.ca/privacy.asp) for the most accurate reproduction.*
 
-# SHOWCASE.CA
+# Showcase.ca :: Privacy Policy
 
 Alliance Atlantis Communications Inc. and its related and affiliated companies ("Alliance Atlantis") welcomes you to its family of web site(s). Using this web site(s) indicates your consent and agreement to be bound by this User Agreement and any policies or practices contained herein.
 
@@ -123,5 +123,4 @@ Alliance Atlantis does not condone any lewd, defamatory, offensive or discrimina
 
 Alliance Atlantis reminds you to check this User Agreement from time to time as it may change without notice.
 
-BY CONTINUING TO USE THE ALLIANCE ATLANTIS WEB SITE(S), YOU ARE AGREEING TO ABIDE BY ALL THE TERMS AND CONDITIONS SET OUT IN THIS USER AGREEMENT.  
-
+BY CONTINUING TO USE THE ALLIANCE ATLANTIS WEB SITE(S), YOU ARE AGREEING TO ABIDE BY ALL THE TERMS AND CONDITIONS SET OUT IN THIS USER AGREEMENT.
