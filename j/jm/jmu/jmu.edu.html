@@ -1,0 +1,494 @@
+<!--The following is the downloaded HTML source of the jmu.edu privacy policy that was archived on 2001-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011214102647id_/http%3A//www.jmu.edu/jmuweb/privacy.shtml) for the most accurate reproduction.-->
+
+<html><head>
+<title>James Madison University - Privacy Statement</title>
+<meta name="Keywords" content=" James Madison University, JMU, Madison College, James Madison, Madison, Dukes, Virginia, Harrisonburg, Shenandoah, Rockingham, college, colleges, university, universities, school, schools, education, higher education ">
+<meta name="Description" content="James Madison University, founded in 1908 in the beautiful Shenandoah Valley of Virginia, is a public, four-year institution with 15,000 students. It is ranked at the top among regional, comprehensive universities in the South">
+<meta name="Author" content="James Madison University - University Relations - JMU Web Office">
+<meta name="robots" content="index follow">
+
+<!-- include file for browsers prior to version 3 -->
+
+</head>
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" text="#000000" link="#450084" vlink="#c2a14d" alink="#c2a14d" bgcolor="#FFFFFF">
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr bgcolor="#450084"> 
+    <td width="50%" align="left"><img src="http://www.jmu.edu/jmuweb/images/header_rule.gif" width="760" height="46" alt="Welcome to James Madison University"></td>
+    <td background="http://www.jmu.edu/jmuweb/images/jmuheader_rule.gif" align="left" width="50%">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#c2a14d"> 
+    <td width="50%" align="left">&nbsp;</td>
+    <td align="left" width="50%">&nbsp;</td>
+  </tr>
+  <tr valign="top" align="left"> 
+    <td height="20" width="50%">&nbsp;</td>
+    <td height="20" width="50%">&nbsp;</td>
+  </tr>
+</tbody></table> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr> 
+      <td width="230" valign="top"><script language="Javascript">
+<!-- START HIDE
+window.name = "jmusearch";
+
+var MAX_ENGINES = 35;
+var tp='';
+var tpp='';
+var find = 'hunt';
+var hold=0;
+var hold2=0;
+var gog=0;
+var ap='';
+
+function MakeArray(n) 
+{
+for (var i = 1; i <= n; i++) 
+{
+this[i] = 0;
+}
+this.maxlen = n;
+this.len = 0;
+return this;
+}
+
+var engs = new MakeArray(MAX_ENGINES);
+function find_substring(needle, haystack) 
+{
+var i, needlen = needle.length, haylen = haystack.length;
+for (i=0; i<=haylen-needlen; i++) 
+{
+if (needle == haystack.substring(i,i+needlen))
+return i;
+}
+return false;
+}
+
+function Engine(name, opts, home, search) 
+{
+var gotcha = find_substring(find, search);
+this.name = name;
+this.opts = opts;
+this.home = home;
+this.pre_gotcha = search.substring(0,gotcha);
+this.post_gotcha= search.substring(gotcha+find.length, search.length);
+}
+
+function Add(name, opts, home, search) 
+{
+engs.len++;
+if (engs.len <= engs.maxlen) 
+{
+	engs[engs.len] = new Engine(name, opts, home, search)
+}
+else 
+{
+	alert ('Better increase MAX_ENGINES: ' + engs.Len + '>' + engs.maxlen)
+}
+}
+
+function DisplayForm() 
+{
+document.writeln('<table border=0 cellspacing=0 cellpadding=0 width=150>');
+
+document.writeln('<tr><td width=20><img src="http://www.jmu.edu/jmuweb/images/blank.gif" width=20 border=0 alt=""></td>');
+document.writeln('<td colspan=2 align="center"><img src="http://www.jmu.edu/jmuweb/images/search.gif" border=0 alt="Search"></td></tr>');
+
+document.writeln('<tr><td width=20><img src="http://www.jmu.edu/jmuweb/images/blank.gif" width=20 border=0 alt=""></td>');
+document.writeln('<td colspan=2 align="left" valign="bottom">');
+
+document.writeln('<FORM Name="Gotchaform" OnSubmit="HandleForm(this); return false">');
+document.writeln('<INPUT size=12 name="query">'); 
+document.writeln('<input type="submit" value="GO">');
+
+//document.writeln('<input type=button value="Search2" OnClick="submit();"><br>');
+
+document.writeln('</td></tr>');
+
+document.writeln('<tr><td width=20><img src="http://www.jmu.edu/jmuweb/images/blank.gif" width=20 border=0 alt=""></td>');
+document.writeln('<td colspan=2 align="left" >');
+document.writeln('<SELECT name="service">');
+for (i=1; i <= engs.len; i++) 
+	{
+	document.writeln('<OPTION ' + engs[i].opts + '> ' + engs[i].name);
+	}
+document.writeln('</SELECT> <br>');
+
+document.writeln('</FORM>');
+
+document.writeln('</td></tr></table>');
+
+document.Gotchaform.query.focus()
+}
+
+function HandleForm(form)
+{
+var i, newq="", oldq=form.query.value;
+
+if (document.Gotchaform.query.value == "") 
+{
+alert("Please type a search value first");
+}
+else
+{
+for (i=0; i<oldq.length; i++) 
+
+{  // compress [ ]+ into \+
+var thischar = oldq.charAt(i);
+if (thischar =="+")newq += "%2B";
+else
+if (thischar != ' ')
+newq += thischar;
+else if (lastchar != ' ')
+newq += '+';
+lastchar = thischar;
+}
+
+var eng = engs[1+form.service.selectedIndex];
+// Window
+
+search=window.open(newq ? eng.pre_gotcha + newq + eng.post_gotcha : eng.home,"jmusearch","scrollbars=yes,toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,resizable=yes,width='100%',hight='100%'");
+
+}
+}
+
+Add("JMU Web","","http://www.jmu.edu/","http://www.jmu.edu/cgi-bin/htsearch?words=hunt;config=searchjmu");
+
+Add("JMU People","","http://www.jmu.edu/","http://www.jmu.edu/edir/people?pattern=hunt");
+
+
+if (parseInt(navigator.appVersion) >= 4)
+{
+DisplayForm();
+}
+/*else
+{
+
+document.write('<table border=1 cellspacing=0 cellpadding=0 width=150>');
+
+document.write('<tr><td width=20><img src="images/blank.gif" width=20 border=0></td>');
+document.write('<td colspan=2 align=center>
+<img src="http://www.jmu.edu/jmuweb/images/search.gif" border=0 alt=""></td></tr>');
+
+document.write('<tr><td width=20><img src="images/blank.gif" width=20 border=0 ></td>');
+document.write('<td colspan=2 align="left" valign="bottom">');
+
+document.write('<FORM Name="Gotchaform" Action="http://www.jmu.edu/cgi-bin/htsearch">');
+document.write('<INPUT size=12 name="query">'); 
+document.write('<input type="submit" value="GO">');
+document.write('</FORM>');
+
+document.write('</td></tr>');*/
+
+/*document.write('</table>');
+}*/
+
+
+// STOP HIDE -->
+</script><table border="0" cellspacing="0" cellpadding="0" width="150">
+<tbody><tr><td width="20"><img src="http://www.jmu.edu/jmuweb/images/blank.gif" width="20" border="0" alt=""></td>
+<td colspan="2" align="center"><img src="http://www.jmu.edu/jmuweb/images/search.gif" border="0" alt="Search"></td></tr>
+<tr><td width="20"><img src="http://www.jmu.edu/jmuweb/images/blank.gif" width="20" border="0" alt=""></td>
+<td colspan="2" align="left" valign="bottom">
+<form name="Gotchaform" onsubmit="HandleForm(this); return false">
+<input size="12" name="query">
+<input type="submit" value="GO">
+</form></td></tr>
+<tr><td width="20"><img src="http://www.jmu.edu/jmuweb/images/blank.gif" width="20" border="0" alt=""></td>
+<td colspan="2" align="left">
+<select name="service">
+<option> JMU Web
+</option><option> JMU People
+</option></select> <br>
+
+</td></tr></tbody></table>
+
+
+
+<!-- <table border=0 cellspacing=0 cellpadding=0 width=150>
+
+<tr><td width=20><img src="images/blank.gif" width=20 border=0></td>
+<td colspan=2 align="center"><img src="http://www.jmu.edu/jmuweb/images/search.gif" border=0 alt=""></td></tr>
+
+<tr><td width=20><img src="images/blank.gif" width=20 border=0 ></td>
+<td colspan=2 align="left" valign="bottom">
+
+<FORM Name="Gotchaform2" Action="http://www.jmu.edu/cgi-bin/htsearch">
+<INPUT size=12 name="words"> 
+<input type="submit" value="GO">
+</FORM>
+
+</td></tr>
+</table> -->
+
+<a href="http://www.jmu.edu/jmuweb/adv_search.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('adv_search','','http://www.jmu.edu/jmuweb/images/adv_search_over.gif',1)"> 
+<img name="adv_search" border="0" src="http://www.jmu.edu/jmuweb/images/adv_search.gif" width="230" height="20" alt="Go to Advanced Search"></a> 
+<a href="http://www.jmu.edu/jmuweb/sitemap/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('site_map','','http://www.jmu.edu/jmuweb/images/site_map_over.gif',1)"> 
+<img name="site_map" border="0" src="http://www.jmu.edu/jmuweb/images/site_map.gif" width="230" height="16" alt="Go to Site Index"></a> 
+
+      </td>
+    <td valign="top" align="left">
+	  <table border="0" cellpadding="9" cellspacing="0" width="530">
+        <tbody><tr>
+			
+          <td valign="top" align="left"> 
+            
+              <p class="mainhead1"> Web Privacy Statement 
+                        </p><p><b>James Madison University</b></p>
+            <p>&nbsp;</p>
+            <p><b>Commitment to Privacy </b></p>
+            <p>James Madison University values individuals' privacy and actively 
+              seeks to preserve the privacy rights of those who share information 
+              with us. Your trust is important to us and we believe you have the 
+              right to know how information submitted through a university Web 
+              site is handled. </p>
+            <p>As explanation of JMU's online information policy and practices 
+              and to assist you in better protecting your privacy, we provide 
+              the following privacy notice. </p>
+            <p><b>Privacy Notice</b></p>
+            <p>The following information explains the Internet privacy policy 
+              and practices the university has adopted for its official Web sites. 
+              However, in legal terms, it shall not be construed as a contractual 
+              promise, and the university reserves the right to amend it at any 
+              time without notice. Privacy and public records obligations of the 
+              university are governed by applicable Virginia statutes, including, 
+              but not limited to, the Virginia Privacy Protection Act of 1976, 
+              the Virginia Freedom Of Information Act, and by any applicable U.S. 
+              federal laws. </p>
+            <u> 
+            <p>Site Definitions</p>
+            </u> 
+            <p>University Web space includes hundreds of sites with varying levels 
+              of university involvement and commitment as outlined below.</p>
+            <ul>
+              <li>Official University Web Sites</li>
+            </ul>
+            <dir> 
+              <dir> 
+                <p>Except as noted, the information in this privacy notice applies 
+                  to all official James Madison University Web sites, which are 
+                  defined as – the Web pages of university colleges, schools, 
+                  departments, divisions or other units and any other sites specifically 
+                  designated as official by a vice president, dean, department 
+                  head or director. Official pages are generally recognizable 
+                  by a standard page footer carrying the university logo, contact 
+                  information and reference to this privacy statement. Click here 
+                  to see a sample of this footer on the JMU home page.</p>
+              </dir>
+            </dir>
+            <ul>
+              <li>Unofficial Web Sites</li>
+            </ul>
+            <dir> 
+              <dir> 
+                <p>Within the James Madison University domain – signified 
+                  by the address "jmu.edu" or within the range of Internet protocol 
+                  addresses assigned to James Madison University – you may 
+                  find Web sites over which the university has no editorial responsibility 
+                  or control. Such sites are considered unofficial and include, 
+                  but are not limited to, the Web pages of individual faculty 
+                  members or students and the Web pages of student organizations 
+                  and other entities not formally a part of the university. While 
+                  JMU encourages compliance with this Web Privacy Statement at 
+                  such sites, in order to better understand the policies and practices 
+                  under which they operate, please consult the privacy statements 
+                  of individual sites or seek information directly from the persons 
+                  responsible for those sites </p>
+              </dir>
+            </dir>
+            <u> 
+            <p>The Information We Collect</p>
+            </u> 
+            <p>The Web Privacy Statement speaks generally to the information collected 
+              by or submitted to official James Madison University Web sites (see 
+              the definition above). Still the amount and type of information 
+              collected may vary somewhat from site to site. Therefore, in addition 
+              to this general explanation of policy and practice, the university 
+              encourages colleges, schools, departments, divisions and other units 
+              contributing to its official Web pages to post, as necessary, more 
+              specific privacy notices pertaining to the collection and use of 
+              any personal information associated exclusively with those pages. 
+              Thus it is wise for you to read page-specific notices to ensure 
+              you understand the privacy policies and practices applicable to 
+              a particular site.</p>
+            <p>When you access official JMU Web pages, certain client information 
+              and essential and nonessential technical information (collectively 
+              referred to as access information) listed below is automatically 
+              collected. No other information is collected through our official 
+              Web sites except when you deliberately send it to us (for example, 
+              by clicking a link to send us an e-mail). Examples of the information 
+              you might choose to send us are listed below as "optional information." 
+            </p>
+            <ul>
+              <li>Access Information (automatically collected)</li>
+            </ul>
+            <dir> 
+              <dir> 
+                <p>Client information: the Internet domain and Internet address 
+                  of the computer you are using. </p>
+                <p>Essential technical information: identification of the page 
+                  or service you are requesting, type of browser and operating 
+                  system you are using; and the date and time of access. </p>
+                <p>Nonessential technical information: the Internet address of 
+                  the Web site from which you linked directly to our Web site, 
+                  and the "cookie information" used to direct and tailor information 
+                  based on your entry path to the site. </p>
+              </dir>
+            </dir>
+            <ul>
+              <li>Optional information (deliberately sent)</li>
+            </ul>
+            <dir> 
+              <dir> 
+                <p>when you send us an e-mail: your name, e-mail address, and 
+                  the content of your e-mail.<br>
+                  <br>
+                  <u>when you complete online forms</u>: all the data you choose 
+                  to fill in or confirm. This may include credit or debit card 
+                  information if you are ordering a product or making a payment, 
+                  as well as information about other people if you are providing 
+                  it for delivery purposes, etc. </p>
+              </dir>
+            </dir>
+            <u> 
+            <p>The Way We Use Information</p>
+            </u> 
+            <p>As a general rule, JMU does not track individual visitor profiles. 
+              We do, however, analyze aggregate traffic/access information for 
+              resource management and site planning purposes. JMU reserves the 
+              right to use log detail to investigate resource management or security 
+              concerns.</p>
+            <ul>
+              <li>Access Information:</li>
+            </ul>
+            <dir> 
+              <dir> 
+                <p>Client information is used to route the requested Web page 
+                  to your computer for viewing. In theory, the requested Web page 
+                  and the routing information could be discerned by other entities 
+                  involved in transmitting the requested page to you. We do not 
+                  control the privacy practices of those entities. </p>
+                <p>We may keep client information from our systems indefinitely 
+                  after the Web page is transmitted, but we do not cross-reference 
+                  it to the individuals who browse our Web site. However, on rare 
+                  occasions when a "hacker" attempts to breach computer security, 
+                  logs of access information are retained to permit a security 
+                  investigation. In such cases the logs may be further analyzed 
+                  or forwarded together with any other relevant information in 
+                  our possession to law enforcement agencies. </p>
+                <p>Under the Virginia Freedom of Information Act, records in our 
+                  possession at the time of a Freedom of Information Request might 
+                  be subject to inspection by or disclosure to members of the 
+                  public. As indicated above, client information may be retained 
+                  after transmission of the requested Web page and might be available 
+                  for inspection.</p>
+                <p>Essential and nonessential technical information lets us respond 
+                  to your request in an appropriate format [or in a personalized 
+                  manner] and helps us plan Web site improvements. To expedite 
+                  this process, some official James Madison University Web sites 
+                  use "cookies." Usually a cookie enables the university Web site 
+                  to tailor what you see according to the way you entered the 
+                  site (i.e., if you entered by pushing a button identifying yourself 
+                  as a student, your subsequent views of information might be 
+                  tailored for student audiences).</p>
+                <p>We also use non-identifying and aggregate information to better 
+                  design our Web site. For example, we may determine that X number 
+                  of individuals visited a certain area on our Web site, or that 
+                  Y number of men and Z number of women filled out a particular 
+                  registration form. But we do not disclose information that could 
+                  identify those specific individuals. </p>
+              </dir>
+            </dir>
+            <ul>
+              <li>Optional Information:</li>
+            </ul>
+            <dir> 
+              <dir> 
+                <p>Optional information enables us to provide services or information 
+                  tailored more specifically to your needs, to forward your message 
+                  or inquiry to another entity that is better able to do so, and 
+                  to plan Web site improvements.</p>
+                <p>We use the information you provide about yourself or about 
+                  someone else when placing a request for service only to complete 
+                  that order or request. We do not share this information with 
+                  outside parties, except to the extent necessary to complete 
+                  that order or request. </p>
+                <p>We generally use return e-mail addresses only to answer the 
+                  e-mail we receive. Such addresses are generally not used for 
+                  any other purpose and by university and state policy are not 
+                  shared with outside parties. </p>
+                <p>Finally, we never use or share the personally identifiable 
+                  information provided to us online in ways unrelated to the purpose 
+                  described without a clear notice on the particular site and 
+                  without also providing you an opportunity to opt-out or otherwise 
+                  prohibit such unrelated uses.</p>
+              </dir>
+            </dir>
+            <u> 
+            <p>Providing Information is Your Choice </p>
+            </u> 
+            <p>There is no legal requirement for you to provide any information 
+              at our Web site. However, our Web site will not work without routing 
+              information and the essential technical information. Failure of 
+              your browser to provide nonessential technical information will 
+              not prevent your use of our Web site but may prevent certain features 
+              from working. For any optional information that is requested at 
+              the Web site, failure to provide the requested information will 
+              mean that the particular feature or service associated with that 
+              part of the Web page may not be available to you. </p>
+            <u> 
+            <p>Our Commitment To Data Security</p>
+            </u> 
+            <p>James Madison University is dedicated to preventing unauthorized 
+              data access, maintaining data accuracy, and ensuring the appropriate 
+              use of information. We strive to put in place appropriate physical, 
+              electronic, and managerial safeguards to secure the information 
+              we collect online. These security practices are consistent with 
+              the policies of the university and with the laws and regulatory 
+              practices of the Commonwealth of Virginia. </p>
+            <u> 
+            <p>How To Contact Us</p>
+            </u> 
+            <p>Should you have other questions or concerns about these privacy 
+              policies and practices, please call us at (540) 568-3712 or send 
+              us an e-mail at webmaster@jmu.edu. If you wish to review or change 
+              information gathered about you via an official James Madison University 
+              web site but you do not know how, the university webmaster will 
+              assist in locating the persons responsible for that site so that 
+              you may make your request directly to them. </p>
+          </td>
+		</tr>
+	</tbody></table>
+    
+      </td>
+  </tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td valign="top" colspan="2"><a href="http://www.jmu.edu/aboutJMU.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('aboutJMU','','http://www.jmu.edu/jmuweb/images/aboutjmu_footer_over.gif',1)"><img name="aboutJMU" border="0" src="http://www.jmu.edu/jmuweb/images/aboutjmu_footer.gif" width="226" height="35" alt="JMU's mission, facts and figures, and other general information about James Madison University"></a><br>
+      <img src="http://www.jmu.edu/jmuweb/images/blank.gif" width="226" height="3"> 
+    </td>
+    <td rowspan="3" width="135" valign="top" colspan="2" height="75"><a href="http://www.jmu.edu/"><img src="http://www.jmu.edu/ur/identity/websig/footer_logo_trans_gray.gif" width="135" height="75" border="0" alt="James Madison University Logo"></a></td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2" height="3" bgcolor="#450084"><img src="http://www.jmu.edu/jmuweb/images/blank.gif" width="19" height="3" alt=""></td>
+  </tr>
+  <tr> 
+    <td width="20" height="33">&nbsp;</td>
+    <td valign="top" height="33"><p><img src="http://www.jmu.edu/jmuweb/images/blank.gif" width="226" height="3" alt=""><br><font size="2" face="Arial, Helvetica, sans-serif">Publisher: <a href="http://www.jmu.edu/jmuweb/aboutjmuweb.shtml">JMU Web 
+        office</a>&nbsp;&nbsp;&nbsp;&nbsp;For Information Contact: <a href="http://www.jmu.edu/jmuweb/jmuweb_comment_form.shtml">JMU 
+        Web Management </a><br>
+        James Madison University - 800 S. Main St. Harrisonburg, VA 22807 - (540) 
+        568-6211 - <a href="http://www.jmu.edu/jmuweb/privacy.shtml">Privacy Statement</a></font></p>
+    </td>
+  </tr>
+</tbody></table>
+ 
+
+
+
+</body></html>
