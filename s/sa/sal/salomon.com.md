@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salomon.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622080906id_/http%3A//www.smithbarney.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salomon.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207215435id_/http%3A//www.smithbarney.com/privacy.html) for the most accurate reproduction.*
 
-# Internet Privacy Statement
+# Online Privacy Statement
 
   
   
@@ -8,16 +8,85 @@
 
 Smith Barney clients may review the [Citigroup Privacy Promise For Consumers](https://web.archive.org/citi_privacy.html).
 
-Keeping your personal information secure and ensuring your understanding of how we use that information is important to us at Smith Barney Access. Our goal is to help you understand how the personal information you choose to share with us through this site is used and maintained.
+|  |   
+---|---  
+  
+Guests and Registered Users
 
-You can visit this site to read about our firm, its products and services, or award winning research, get up-to date market news, check for career opportunities, use our branch locator or other features, all without giving us any personal information about yourself. 
+| 
 
-Some of the features on our site require registration before you can use them. If you register as a Guest, you choose to provide us with certain personal information such as your name, address, and telephone number. After you have registered, you can choose to create and save, change or delete personalized data that you enter on the site's calculators, Watch Lists and other features. You may also change your password at any time.
+Online Advertising  
+  
+Categories of Information Collected
 
-The personal information you provide and the personalized data you create and save on the site is used to provide superior service to you and to inform you of products, services, or other opportunities that may be available through our firm or our affiliates. Such information and data will also be used to administer our business, the site, and our services in a manner consistent with the Terms and Conditions that govern your use of this site as well as all applicable laws, rules, regulations, or other legal obligations. We do not sell or market your personal information or personalized data to unaffiliated organizations. If you provide us with your e-mail address, or have done so in the past, we may upon occasion send you e-mail. E-mail sent to us through the site will be maintained in a manner consistent with our legal and regulatory requirements regarding client and public communications.
+| 
 
-Our Young Investors Network section of this site does not collect personally identifiable information. The information available on the Young Investors Network is solely for educational purposes. Those who register to use the calculators and information available on the Young Investors Network are not asked for an e-mail address or other information that could identify them in any way. Users are encouraged not to use passwords or other registration information that could be used to identify them.
+Other Sites and Services  
+  
+Use of Collected Information
 
-We maintain your personal information and data according to strict standards of security and confidentiality as described in the Terms and Conditions that govern your use of this site. Online access to your account portfolio is only possible through a secure (SSL capable) web browser. SSL capable web browsers support encryption technology, which helps prevent unauthorized users from viewing your account information as it travels over the Internet. You can learn more about security features in our [FAQs on Software & Technical](https://web.archive.org/help/faq/software_tech.html) section. 
+| 
 
-This privacy statement does not supersede the Terms and Conditions that govern your use of this site. Any conflict between the two shall be determined in favor of such Terms and Conditions. Smith Barney may change this statement at any time. Any changes or updates will be effective immediately upon posting to this site.
+Access  
+  
+Aggregate Information
+
+| 
+
+Security  
+  
+Cookies
+
+| 
+
+Changes  
+  
+Privacy Preferences
+
+| 
+
+Questions  
+  
+Keeping your personal information secure and ensuring your understanding of how we use that information is important to us at Smith Barney. Our goal is to help you understand how the personal information you choose to share with us through the Smith Barney Access web site is collected, used and maintained. You may review this Smith Barney Access Online Privacy Statement ("privacy statement") at any time by clicking on the Privacy link appearing on the bottom of one or more pages of the this web site. 
+
+Guests and Registered Users  
+You can visit this site to read about our firm, its products and services, get market quotes, check for career opportunities, use our branch locator or other features, all without giving us any personal information about yourself. We may collect anonymous, aggregate information about how our site is accessed by you, such as IP address, domain name, time spent at the site or web pages visited. 
+
+Categories of Information Collected   
+_Registration Information_ : Some of the features on the site require registration before you can use them. If you register to use the site, you choose to provide us with certain personal information such as your name, address, e-mail address and telephone number and agree to the Terms and Conditions governing this site. You can update registration information online. You may change your password at any time. 
+
+_Service & Transaction Information_: When you use a password or a similar identifier to access the site, we will recognize your identifier and may collect various categories of information about you such as information you give us, data related to your use of the site and its services (such as calculators, Watch Lists and other features), and information about your transactions, interactions, and communications with us. 
+
+_Cookies_ : In addition to the online information that you voluntarily provide to us, we may use cookies and retain cookie information separately or with the information you provide to us online. A cookie is a small piece of data assigned to the browser on your computer when you visit a website. We may use cookies for various purposes such as maintaining continuity during a session, gathering data about the use of our site, storing preferences or recognizing return users. We may use cookies or other tracking technology to monitor our online promotions. (See Online Advertising) Your web browser may alert you or permit you to refuse, disable or delete cookies. If you refuse cookies, you may not be able to use certain features or services on the site. For example cookies may be used to help complete or record a transaction or combined with your other data such as when you use tools or calculators so that we may retain online information for your use in subsequent sessions. For more information about cookies used on this site please see [FAQs About Cookies](https://web.archive.org/help/faq/software_tech.html). 
+
+Use of Collected Information  
+We do not sell or market your personal information or personalized data to unaffiliated organizations. The personal information you provide and the personalized data you create and save on the site is used to provide superior service to you and to inform you of products, services, or other opportunities that may be available through our firm or our affiliates. This may include disclosure of such information to employees, representatives, officers, agents, affiliates, government and regulatory entities, third parties, and service providers. Such information and data will also be used to administer our business, the site, and our services in a manner consistent with this privacy statement, the Terms and Conditions that govern your use of this site and all applicable laws, rules, regulations, or other legal obligations. If you provide us with your name, address, telephone number or e-mail address, or have done so in the past, Smith Barney or its affiliates may contact you by telephone, mail or e-mail. Our affiliates are the family of companies controlled by Citigroup. They are in several different lines of business, including banking, consumer finance, insurance, securities and credit cards and do business under names such as Citibank, Travelers Life and Annuity and Primerica. Nonaffiliated third parties are those not part of the Citigroup family of companies. Types of nonaffiliated third parties include financial services providers, such as companies engaged in banking, consumer finance, securities and insurance and non-financial organizations, such as companies engaged in offering new products or services. E-mail or other electronic communications sent to us through the site will be maintained in a manner consistent with our legal and regulatory requirements regarding client and public communications. 
+
+Aggregate Information   
+If you anonymously visit or browse the site without registering or logging on with a username, password or other registration code, we do not collect your personal information unless you disclose it to us (e.g., e-mail address). We may collect aggregate, technical information that tracks site use including browser type, IP address, domain name, number or type of pages visited and time spent on the site. We may use such information in a variety of ways including analyzing trends, visitor interests, or to improve the site. 
+
+Privacy Preferences   
+Your browser software may contain a feature intended to notify you of the cookie policies of the websites you visit. For example, the Microsoft® Internet Explorer 6 browser software contained in Microsoft® Windows® XP contains such a cookie- filtering device commonly known as P3P. General information about P3P can be found at www.w3.org/P3P. This site has attempted to be compatible with the P3P privacy-filtering tool. However, P3P is still an evolving standard and therefore, we are not responsible for any problems you may experience when using a P3P filter, or any discrepancies between the machine-coded privacy statements which are read by the P3P tool and our human readable policies that you see referenced here on this site including this privacy statement and the Citigroup Privacy Promise, which are the controlling documents to which you should refer if you have questions about privacy and this site. 
+
+Online Advertising   
+Smith Barney online advertisements may be posted by other companies on third party sites that carry our advertising. These companies may set cookies and use related technology, such as encoded URLs or other tracking mechanisms that may note how Internet users respond to an online advertisement. For example, browsers that click on an online advertisement may be redirected to our site with an encoded URL or other tracking technology that may collect and store information about site visits, time spent, or a specific advertisement. Generally reported as aggregate and anonymous data, such information can help us understand for example the performance of online advertising. Third party sites that show our online advertising are often independent businesses that provide their own privacy statements. We are not responsible for such statements or sites. You should always review the privacy representations of those third party sites that you visit before you use them and particularly before you share personal information. 
+
+Other Sites and Services  
+This site may contain links to other Internet sites not under our direction or control. This privacy statement does not apply to those sites. We are not responsible for such sites, cannot control how such sites use personal information, cookies or other data, and their representations do not apply to this site. You should always review the privacy representations of those sites that you link to before you use them and particularly before you share personal information. If you use other sections of this site that have additional privacy statements (e.g., My Accounts), those apply in addition to this statement to the use of that section or service as described. 
+
+Our _Young Investors Network_ section of this site does not collect personally identifiable information. The information available on the Young Investors Network is solely for educational purposes. Those who register to use the educational calculators and information available on the Young Investors Network sections of the site are not required to provide or asked for an e-mail address or other information that could identify them in any way. Users are encouraged not to use passwords or other registration information that could be used to identify them. 
+
+Access  
+Clients can review their accounts through statements, Smith Barney Access or Financial Consultants and as described in our client privacy notices. Contact information such as our Internet or mailing addresses and telephone numbers are found on statements or other correspondence. Non-clients registered to use the site who provide personal data online can often update it through the same online registration or other section of the site. There may be a charge for requested information. To protect your privacy, proof of identity or other authentication may be required. 
+
+Security  
+We maintain your personal information and data according to strict standards of security and confidentiality as described in the Terms and Conditions that govern your use of this site. Online access to your account portfolio is only possible through a secure (SSL capable) web browser. SSL capable web browsers support encryption technology, which helps prevent unauthorized users from viewing your account information as it travels over the Internet. To learn more about security [click here](https://web.archive.org/web/20041207215435id_/http%3A//www.smithbarney.com/security.html). 
+
+Changes  
+Smith Barney may change this privacy statement at any time. Any changes or updates will be effective immediately upon posting to this site. The effective date of this privacy statement, as stated below, indicates the last time this statement was materially changed. Checking the effective date below allows you to determine whether there have been such changes since the last time you reviewed the statement. This privacy statement does not supersede the Terms and Conditions that govern your use of this site. Any conflict between the two shall be determined in favor of such Terms and Conditions. 
+
+Questions  
+As a client, your Financial Consultant or other Smith Barney representative can assist you or direct your inquiries on these matters. Otherwise, for further direction regarding inquiries concerning this privacy statement, you may contact our Help Desk by [E-mail](https://web.archive.org/help/email/) or telephone as described on the site. 
+
+Effective Date  
+This online privacy statement was last modified: June 30, 2004. 
