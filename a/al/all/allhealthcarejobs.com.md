@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212093941id_/http%3A//www.allhealthcarejobs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207044256id_/http%3A//www.allhealthcarejobs.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,4 +10,4 @@ The information that RTJobs.com collects is protected and available only to RTJo
 
 Any traffic, demographic, or marketing information collected is done with the express purpose of further understanding the marketplace and enhancing our site.
 
- **[View Terms and Conditions](https://web.archive.org/web/20041212093941id_/http%3A//www.allhealthcarejobs.com/terms.asp)**
+ **[View Terms and Conditions](https://web.archive.org/web/20050207044256id_/http%3A//www.allhealthcarejobs.com/terms.asp)**
