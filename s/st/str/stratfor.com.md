@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201214031id_/http%3A//www.stratfor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216175123id_/http%3A//www.stratfor.com/privacy.php) for the most accurate reproduction.*
 
 # STRATFOR.com : Privacy Policy
 
@@ -45,7 +45,7 @@ STRATFOR provides its users the opportunity to opt-out of receiving communicatio
 
     1\. Use the following link: [unsubscribe](http://www.stratfor.com/home/giu/unsub.asp)
 
-    2\. Or you can send an e-mail to: [opt-out@stratfor.com](mailto:opt-out@stratfor.com)     
+    2\. Or you can send an e-mail to: [service@stratfor.com](mailto:service@stratfor.com)     
 
 **CORRECT/UPDATE**
 
