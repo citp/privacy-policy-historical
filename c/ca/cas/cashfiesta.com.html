@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cashfiesta.com privacy policy that was archived on 2004-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207114729id_/http%3A//cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cashfiesta.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403164406id_/http%3A//www.cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.-->
 
 <html><head>
 <title>Make money online: Cashfiesta Policies</title>
@@ -25,17 +25,14 @@ if(document.images)
 }
 //-->
 </script>
-<script language="JavaScript">  
+<script language="JavaScript"> 
 	var cf_img_popu_array=new Array();
 	var cf_img_popu_index=0;
-	function adTestCounter(stat,page){
-	var cntr_params = "s="+stat+"&p="+page+"&1102420191";	
-	document.write("\<script language=\"javascript\" src=\"" + "/php/sscript.php?" + cntr_params + "\"\>\</script\>");	
-	}	
 	function cf_popuCounter(stat,page){
-	if('lottery_join' == page && 'popu_fastclick_bnr' == stat) adTestCounter("popu_fastclk_test",page);
+	var tz = "";
+	if(arguments.length > 2) tz = arguments[2];	
 	cf_img_popu_array[cf_img_popu_index]=new Image();
-	cf_img_popu_array[cf_img_popu_index].src="/php/sgif.php?s="+stat+"&p="+page+"&1102420191";
+	cf_img_popu_array[cf_img_popu_index].src="/php/sgif.php?s="+stat+"&p="+page+"&tz="+tz+"&1112547273";
 	cf_img_popu_index++;
 	}
 	function cf_iframeUrlParams(p,l){
@@ -43,6 +40,35 @@ if(document.images)
 	var cnt2_time = cnt2_tm.getFullYear()+"_"+(cnt2_tm.getMonth()+1) +"_"+cnt2_tm.getDate()+"_"+cnt2_tm.getHours() +"_"+ cnt2_tm.getMinutes() +"_"+ cnt2_tm.getSeconds();
 	var cnt2_params = "p="+p+"&l="+l+"&tm="+cnt2_time;
 	return cnt2_params;
+	}
+	function istatForm1(n,g){
+	var a2='<iframe name="'+n+'" scrolling="no" frameBorder=0 marginheight=0 marginwidth=0 width=720 height=560 security="restricted"\></iframe\></div\>';
+	var a1='<div style="position:absolute; left:40; top:-600; z-index:-4; visibility:hidden;"\>';
+	var a3='<form style="position:absolute;" action="#" method="get" name="frm_'+n+'" target="'+n+'"\>'+g+'</form\>';
+	document.write(a1+a2+a3);
+	}
+	function istatRequest1(n,a){
+		if( ! document.all) return 0; f=eval("document.frm_"+n); f.action=a; f.submit();
+	}
+	function istatClose(n,s){
+		if( ! document.all) return 0; setTimeout(n+".location='/s2.gif'",s);
+	}
+	function istatForm2(id,s,p,z){
+	var a1='<form style="position:absolute;" action="#" target="_blank" method="post" name="frm_'+id+'"\>';
+	var a2='<input type="hidden" name="target_url_id" value="'+id+'">';
+	var a3='<input type="hidden" name="target_url_stat" value="'+s+'">';
+	var a4='<input type="hidden" name="target_url_page" value="'+p+'">';
+	var a5='<input type="hidden" name="target_url_zone" value="'+z+'">';
+	var a6='</form\>';
+	document.write(a1+a2+a3+a4+a5+a6);
+	}
+	function istatRequest2(n,a,t){
+		if( ! document.all) return 0; f=eval("document.frm_"+n); f.action=a; f.target=t; f.submit();
+	}
+	function cf_setCookie(Name,value,days){
+	var ExpDay = new Date();
+	ExpDay.setTime(ExpDay.getTime()+(days*24*3600*1000));
+	document.cookie = Name+"="+escape(value)+";expires=" + ExpDay.toGMTString()+";path=/;";
 	}
 	 </script></head>
 <body bgcolor="#6666FF" link="#FFCC00" vlink="#000099" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#FFFFFF">
@@ -58,7 +84,7 @@ if(document.images)
  <td><img src="http://images.cashfiesta.com/images/s.gif" width="510" height="1"></td>
  </tr>
  <tr align="center">
- <td><script language="JavaScript" src="/php/rotate_js.php?target=cf_site&amp;login=&amp;tags=1&amp;width=468&amp;height=60"></script><a name="p69435href" href="javascript:p69435_go()"><img name="p69435img" src="https://web.archive.org/web/20020610191126/http://www.clickxchange.com/fd.phtml?act=342012.3633" width="468" height="60" border="0"></a></td>
+ <td><script language="JavaScript" src="/php/rotate_js.php?target=cf_site&amp;login=&amp;tags=1&amp;width=468&amp;height=60"></script><a name="p69435href" href="javascript:p69435_go()"><img name="p69435img" src="https://web.archive.org/web/20020610191126/http://www.cashfiesta.com/images/s.gif" width="468" height="60" border="0"></a></td>
  </tr>
  </tbody></table>
 </td>
@@ -398,22 +424,12 @@ document.write('<a href="mailt'+'o:s'+cf_e1+'esta.com" class="lnk_v1">s'+cf_e1+'
 
 </td>
 <td width="26">&nbsp;</td>
-<td><!-- FASTCLICK.COM 120x600 v1.4 -->
-<script language="Javascript"><!--
-var i=j=p=t=u=x=z=dc='';var id=f=0;var f=Math.floor(Math.random()*7777);
-id=12795; dc=document;u='ht'+'tp://media.fastclick.net/w'; x='/get.media?t=s';
-z=' width=120 height=600 border=0 ';t=z+'marginheight=0 marginwidth=';
-i=u+x+'&sid='+id+'&m=3&f=b&v=1.4&c='+f+'&r='+escape(dc.referrer);
-u='<a  hr'+'ef="'+u+'/click.here?sid='+id+'&m=3&c='+f+'"  target="_top">';
-dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 frameborder=0 scrolling=no>');
-if(navigator.appName.indexOf('Mic')<=0){dc.writeln(u+'<img src="'+i+'&d=n"'+z+'></a>');}
-dc.writeln('</iframe>'); // --></script><iframe src="http://media.fastclick.net/w/get.media?t=s&amp;sid=12795&amp;m=3&amp;f=b&amp;v=1.4&amp;c=3935&amp;r=&amp;d=f" width="120" height="600" border="0" marginheight="0" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
-<a  href="http://media.fastclick.net/w/click.here?sid=12795&m=3&c=3935"  target="_top"><img src="http://media.fastclick.net/w/get.media?t=s&sid=12795&m=3&f=b&v=1.4&c=3935&r=&d=n" width=120 height=600 border=0 ></a>
-</iframe>
-<noscript>
-<a href='http://media.fastclick.net/w/click.here?sid=12795&m=3&c=1'  target='_top'>
-<img src='http://media.fastclick.net/w/get.media?sid=12795&m=3&d=s&c=1&f=b&v=1.4'
-width=120 height=600 border=1></a></noscript><script language="JavaScript">
+<td><!-- FASTCLICK.COM 120x600 and 160x600 SkyScraper CODE for cashfiesta.com -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=12795&amp;m=3&amp;tp=7&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=12795&m=3&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=12795&m=3&tp=7&d=s&c=1"
+width=160 height=600 border=1></a></noscript>
+<!-- FASTCLICK.COM 120x600 and 160x600 SkyScraper CODE for cashfiesta.com --><script language="JavaScript">
 cf_popuCounter("fastclick_sky2","OTHERS");
 </script>
 <script language="JavaScript">
@@ -463,9 +479,9 @@ for(i=0;i<cnt;i++){
 <td width="756" height="10">&nbsp;</td>
 </tr>
 <tr> 
-<td width="756" align="center" valign="middle"><span class="form_v1">©&nbsp;Copyright 2000-04 Cashfiesta.com All Rights Reserved</span></td>
+<td width="756" align="center" valign="middle"><span class="form_v1">©&nbsp;Copyright 2000-05 Cashfiesta.com All Rights Reserved</span></td>
 </tr>
 </tbody></table>
-<script language="javascript" src="/php/sscript.php?pg=site&amp;tm=2004_12_07_11_49_51&amp;rf="></script>
+<script language="javascript" src="/php/sscript.php?pg=site&amp;tm=2005_04_03_16_54_33&amp;rf="></script>
 
 </body></html>
