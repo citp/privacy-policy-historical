@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealcatcher.com privacy policy that was archived on 2002-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020415035841id_/http%3A//dealcatcher.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealcatcher.com privacy policy that was archived on 2002-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021217070210id_/http%3A//dealcatcher.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>DealCatcher.com - Free Coupons &amp; Deals for Books, DVD,
@@ -35,6 +35,11 @@ function local_search_onsubmit()
   if(local_coupons.zip.value.length<1)
   {
     alert("Please Enter a Zip Code");
+    return false;
+  }
+  else if(isNaN(local_coupons.zip.value))
+  {
+    alert("Please Enter a valid Zip Code");
     return false;
   }
   else
@@ -76,12 +81,15 @@ function local_search_onsubmit()
     <td valign="bottom" align="left" width="98">
       <p><a href="http://dealcatcher.pricegrabber.com"><img src="http://images.dealcatcher.com/b4.gif" border="0"></a></p>
     </td>
+	 <td valign="bottom" align="left" width="65">
+      <p><a href="http://smartprice.dealcatcher.com"><img src="http://images.dealcatcher.com/comparelong.gif" border="0"></a></p>
+	  </td>
     <td valign="bottom" align="left" width="65">
       <p><a href="http://forums.dealcatcher.com"><img src="http://images.dealcatcher.com/b5.gif" border="0"></a></p>
     </td>
     <td valign="bottom" align="right" width="100%">
 	<small>
-	Sunday&nbsp;April&nbsp;14,&nbsp;2002&nbsp; 
+	Tuesday&nbsp;December&nbsp;17,&nbsp;2002&nbsp; 
 	</small>
       <table border="0" width="100%" height="9" cellpadding="0" cellspacing="0" bgcolor="#00309C">
         <tbody><tr>
@@ -109,23 +117,19 @@ function local_search_onsubmit()
             <p class="catlist">
                  <img src="http://images.dealcatcher.com/browse2.gif" border="0">
                   <br>
+                  <a href="deals.asp?view_type=1&amp;category=6">Apparel &amp; Jewelry</a><br>
                   <a href="deals.asp?view_type=1&amp;category=26">Automotive</a><br>
                   <a href="deals.asp?view_type=1&amp;category=2">Baby &amp; Children</a><br>
                   <a href="deals.asp?view_type=1&amp;category=1">Books &amp; Magazines</a><br>
-                  <a href="deals.asp?view_type=1&amp;category=6">Clothing &amp; More</a><br>
-                  <a href="deals.asp?view_type=1&amp;category=7">Computers</a><br>
+                  <a href="deals.asp?view_type=1&amp;category=7">Computers &amp; Office</a><br>
                   <a href="deals.asp?view_type=1&amp;category=8">Electronics</a><br>
                   <a href="deals.asp?view_type=1&amp;category=9">Flowers &amp; Gifts</a><br>
                   <a href="deals.asp?view_type=1&amp;category=10">Food &amp; Grocery</a><br>
-                  <a href="deals.asp?view_type=1&amp;category=11">Free Stuff</a><br>
+                  <a href="deals.asp?view_type=1&amp;category=11">Freebies &amp; Offers</a><br>
                   <a href="deals.asp?view_type=1&amp;category=12">Health &amp; Beauty</a><br>
 <!--                  <a href="deals.asp?view_type=1&category=33">Holiday Deals</a><img src="http://images.dealcatcher.com/heart2.gif" align="absmiddle"><BR>-->
                   <a href="deals.asp?view_type=1&amp;category=27">Home &amp; Garden</a><br>
-                  <a href="deals.asp?view_type=1&amp;category=13">Internet Services</a><br>
-                  <a href="deals.asp?view_type=1&amp;category=28">Jewelry</a><br>
-                  <a href="deals.asp?view_type=1&amp;category=14">Money &amp; Banking</a><br>
                   <a href="deals.asp?view_type=1&amp;category=5">Movies &amp; Music</a><br>
-                  <a href="deals.asp?view_type=1&amp;category=15">Office Supplies</a><br>
                   <a href="deals.asp?view_type=1&amp;category=16">Pet Supplies</a><br>
                   <a href="deals.asp?view_type=1&amp;category=17">Sports &amp; Recreation</a><br>
                   <a href="deals.asp?view_type=1&amp;category=18">Toys &amp; Games</a><br>
@@ -135,13 +139,41 @@ function local_search_onsubmit()
          </tr>
        </tbody></table>
 
-       <p class="catlist" align="left">
-         <img src="http://images.dealcatcher.com/topstores.gif" border="0" alt="img1.gif"><br>&nbsp;-&nbsp;
-         <a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=4">Amazon.com</a><br>&nbsp;-&nbsp;
-         <a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=2">Buy.com</a><br>&nbsp;-&nbsp;
-         <a href="http://www.dealcatcher.com/deals.asp?search_word=dell&amp;view_type=4">Dell.com</a><br>&nbsp;-&nbsp;
-         <a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=50">Drugstore.com</a><br>&nbsp;-&nbsp;
-         <a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=319">Half.com<br></a>
+       <p class="storelist" align="left">
+         <img src="http://images.dealcatcher.com/topstores.gif" border="0" alt="img1.gif">
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=586&amp;top=1">123Inkjets.com</a> (17)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=4&amp;top=1">Amazon.com</a> (58)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=205&amp;top=1">Ashford.com</a> (2)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=13&amp;top=1">Barnes &amp; Noble</a> (13)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=681&amp;top=1">BestBuy.com</a> (9)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=2&amp;top=1">Buy.com</a> (16)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=611&amp;top=1">Dell Business</a> (5)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=610&amp;top=1">Dell Home</a> (9)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=50&amp;top=1">DrugStore.com</a> (26)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=103&amp;top=1">eBags.com</a> (9)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=440&amp;top=1">EddieBauer.com</a> (4)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=319&amp;top=1">Half.com</a> (14)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=766&amp;top=1">Harry and David</a> (4)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=45&amp;top=1">OverStock.com</a> (8)
+         
+         <br>-&nbsp;<a href="http://www.dealcatcher.com/deals.asp?view_type=8&amp;merchant_id=238&amp;top=1">Target.com</a> (4)
+         
+         <br><br>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="deals.asp?view_type=7">List All Stores</a></b><br>
          <img src="http://images.dealcatcher.com/topstores2.gif" border="0" alt="img2.gif">
        </p>
        
@@ -293,41 +325,41 @@ function local_search_onsubmit()
                          <input type="text" class="textinput" name="email" size="14" value="Enter E-mail" onfocus="this.value='';"><input type="submit" name="Join" value="Join">
                          </p></form>
 					<img src="http://images.dealcatcher.com/topdeals.gif" border="0" alt="img15.gif"><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=45&amp;c=9297"><b>OverStock.com</b><span class="sidedeal_coupon"> -  Save an extra 5% OFF DVDs, Books, &amp; Music (All Customers)</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=103&amp;c=6134"><b>eBags.com</b><span class="sidedeal_coupon"> -  20% off your entire purchase</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=266&amp;c=3561"><b>SportsAuthority</b><span class="sidedeal_coupon"> -  $10 off purchase of $50 or more</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=603&amp;c=6714"><b>bluefly.com</b><span class="sidedeal_coupon"> -  15% off your entire purchase</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=4&amp;c=9009"><b>Amazon.com</b><span class="sidedeal_coupon"> -  $5 off your purchase of $50 or more in the Target Store</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=266&amp;c=9322"><b>SportsAuthority</b><span class="sidedeal_coupon"> -  $5 off purchase of $40 or more</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=611&amp;c=8769"><b>Dell Small Business</b><span class="sidedeal_coupon"> -  Free printer or PDA with purchase of select dell systems + Save up to $300 + free shipping</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=363&amp;c=9419"><b>TowerRecords.com</b><span class="sidedeal_coupon"> -  $5 off your purchase of $50 or more</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=71&amp;c=141"><b>Staples.com</b><span class="sidedeal_coupon"> -  $30 off $150 purchase or more + Free shipping</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=319&amp;c=1129"><b>Half.com</b><span class="sidedeal_coupon"> -  $5 off your first purchase of $10 or more</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=474&amp;c=3297"><b>ColdwaterCreek.com</b><span class="sidedeal_coupon"> -  $15 off purchase of $75 or more</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=50&amp;c=8416"><b>DrugStore.com</b><span class="sidedeal_coupon"> -  $5 off your order of $25 or more (all customers)</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=71&amp;c=8286"><b>Staples.com</b><span class="sidedeal_coupon"> -  Free shipping on $50 or more + save on weekly specials</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=586&amp;c=4502"><b>123Inkjets.com</b><span class="sidedeal_coupon"> -  Save up to 50% off all inkjet and toner cartridges + 10% off your purchase</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=37&amp;c=4460"><b>SharperImage.com</b><span class="sidedeal_coupon"> -  15% off your purchase when you register</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=2&amp;c=7589"><b>Buy.com</b><span class="sidedeal_coupon"> -  FREE Shipping with purchase of $99 or more</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=768&amp;c=9409"><b>shop.microsoft.com</b><span class="sidedeal_coupon"> -  Save up to 40% on select products + $25 off your purchase of $75 or more</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=618&amp;c=4954"><b>ConsumerInfo.com</b><span class="sidedeal_coupon"> -  Free copy of your credit report online</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=204&amp;c=8502"><b>ProFlowers.com</b><span class="sidedeal_coupon"> -  One Dozen long-stemmed Roses for only $29.99 + free glass vase</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=13&amp;c=5861"><b>Barnes &amp; Noble</b><span class="sidedeal_coupon"> -  FREE shipping when you buy 2 or more items</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=4&amp;c=8176"><b>Amazon.com</b><span class="sidedeal_coupon"> -  Free shipping on orders over $99</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=751&amp;c=8877"><b>AJ Prindle &amp; Company</b><span class="sidedeal_coupon"> -  5% off your entire purchase</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=602&amp;c=4931"><b>Discover</b><span class="sidedeal_coupon"> -  Free $20 plus 0% intro APR from Discover Platinum Card</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=506&amp;c=6498"><b>blue nile</b><span class="sidedeal_coupon"> -  10% off your entire purchase (w/ Visa Card)</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=815&amp;c=8925"><b>ADT.com</b><span class="sidedeal_coupon"> -  Free Home Security System</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=672&amp;c=6308"><b>NetMagazines.com</b><span class="sidedeal_coupon"> -  Get 5 select magazine subscriptions for $30</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=533&amp;c=8937"><b>Music123.com</b><span class="sidedeal_coupon"> -  Free shipping with your purchase of $299 or more</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=150&amp;c=8973"><b>OfficeMax.com</b><span class="sidedeal_coupon"> -  Buy 1, Get 1 FREE - Belkin Surgemaster 6 Outlet 357 Joules Surge Protector</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=266&amp;c=8326"><b>SportsAuthority</b><span class="sidedeal_coupon"> -  15% off your entire purchase</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=613&amp;c=4893"><b>BestDealMagazines.com</b><span class="sidedeal_coupon"> -  Magazine subscriptions for $2.95 each</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=672&amp;c=6575"><b>NetMagazines.com</b><span class="sidedeal_coupon"> -  $5 off your purchase of $30 or more</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=771&amp;c=7950"><b>Diamond.com</b><span class="sidedeal_coupon"> -  Clearance Sale - Save up to 70% off</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=50&amp;c=8610"><b>DrugStore.com</b><span class="sidedeal_coupon"> -  Free shipping with your next purchase (All Customers)</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=382&amp;c=5745"><b>PetFoodDirect.com</b><span class="sidedeal_coupon"> -  30% off your entire purchase</span></a><br><br>
-                       <a class="sidedeal_merchant" href="frame.asp?m=677&amp;c=6233"><b>OneShare.com</b><span class="sidedeal_coupon"> -  $7 off your entire purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=738&amp;c=11297&amp;launch=1"><b>Entertainment</b><span class="sidedeal_coupon"> -  2003 Book is now available - $1000s in 50% off discounts for local stores</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=50&amp;c=12265&amp;launch=1"><b>DrugStore.com</b><span class="sidedeal_coupon"> -  $10 off your first purchase of $20 or more</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=766&amp;c=8022&amp;launch=1"><b>Harry and David</b><span class="sidedeal_coupon"> -  Save up to 63% off!</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=611&amp;c=13823&amp;launch=1"><b>Dell Business</b><span class="sidedeal_coupon"> -  Save up to $300 off select systems + free shipping</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=766&amp;c=8022&amp;launch=1"><b>Harry and David</b><span class="sidedeal_coupon"> -  Save up to 63% off!</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=4&amp;c=13874&amp;launch=1"><b>Amazon.com</b><span class="sidedeal_coupon"> -  $20 off your purchase of $99 or more (Toys &amp; Games Store)</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=205&amp;c=13876&amp;launch=1"><b>Ashford.com</b><span class="sidedeal_coupon"> -  Site-Wide Clearance - Save 25 - 50% + free standard shipping</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=610&amp;c=13911&amp;launch=1"><b>Dell Home</b><span class="sidedeal_coupon"> -  Dimension 2350 Special Edition Desktop for <strike>$399</strike> $369 after $100 mail-in rebate &amp; $50 off + free shipping</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=50&amp;c=13850&amp;launch=1"><b>DrugStore.com</b><span class="sidedeal_coupon"> -  $10 off your first purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=103&amp;c=8528&amp;launch=1"><b>eBags.com</b><span class="sidedeal_coupon"> -  15% off your entire purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=45&amp;c=13627&amp;launch=1"><b>OverStock.com</b><span class="sidedeal_coupon"> -  $10 off your first purchase of $100 or more</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=440&amp;c=5748&amp;launch=1"><b>EddieBauer.com</b><span class="sidedeal_coupon"> -  20% off your entire purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=738&amp;c=11297&amp;launch=1"><b>Entertainment</b><span class="sidedeal_coupon"> -  2003 Book is now available - $1000s in 50% off discounts for local stores</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=319&amp;c=6366&amp;launch=1"><b>Half.com</b><span class="sidedeal_coupon"> -  $15 off your first purchase of $50 or more</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=813&amp;c=13863&amp;launch=1"><b>BabyCenter.com</b><span class="sidedeal_coupon"> -  $5 off your purchase of $25 or more</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=71&amp;c=2134&amp;launch=1"><b>Staples.com</b><span class="sidedeal_coupon"> -  Save with manufacturer rebates at the rebate center</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=903&amp;c=12262&amp;launch=1"><b>TireRack.com</b><span class="sidedeal_coupon"> -  Online Performance Source for Competition Tires</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=60&amp;c=5395&amp;launch=1"><b>FragranceNet.com</b><span class="sidedeal_coupon"> -  10% off your entire purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=445&amp;c=12755&amp;launch=1"><b>Spiegel.com</b><span class="sidedeal_coupon"> -  15% off your entire purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=586&amp;c=4626&amp;launch=1"><b>123Inkjets.com</b><span class="sidedeal_coupon"> -  5% off your next purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=13&amp;c=11246&amp;launch=1"><b>Barnes &amp; Noble</b><span class="sidedeal_coupon"> -  $5 off your purchases of $50 or more + free shipping</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=536&amp;c=5911&amp;launch=1"><b>Discovery.com</b><span class="sidedeal_coupon"> -  15% off your entire purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=240&amp;c=1603&amp;launch=1"><b>ShoeBuy.com</b><span class="sidedeal_coupon"> -  15% off your entire purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=767&amp;c=13869&amp;launch=1"><b>TimeLife.com</b><span class="sidedeal_coupon"> -  15% off your purchase of $35 or more</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=556&amp;c=10186&amp;launch=1"><b>Etronics.com</b><span class="sidedeal_coupon"> -  Great Deals Section</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=37&amp;c=12354&amp;launch=1"><b>SharperImage</b><span class="sidedeal_coupon"> -  15% off your first purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=75&amp;c=6598&amp;launch=1"><b>KBToys.com</b><span class="sidedeal_coupon"> -  $5 off your first purchase of $40 or more</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=607&amp;c=13902&amp;launch=1"><b>PerfumeEmporium.com</b><span class="sidedeal_coupon"> -  20% off your entire purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=833&amp;c=13792&amp;launch=1"><b>1800Flowers.com</b><span class="sidedeal_coupon"> -  Save up to $20 off your purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=38&amp;c=10347&amp;launch=1"><b>Cooking.com</b><span class="sidedeal_coupon"> -  $10 off your first purchase of $75 or more</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=888&amp;c=13294&amp;launch=1"><b>Adidas.com</b><span class="sidedeal_coupon"> -  Free shipping &amp; Free gift wrapping with your purchase of $50 or more</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=238&amp;c=11613&amp;launch=1"><b>Target.com</b><span class="sidedeal_coupon"> -  10% off your entire purchase</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=2&amp;c=13898&amp;launch=1"><b>Buy.com</b><span class="sidedeal_coupon"> -  Price Mistake of the Day - The 2002 Must Have Toy: Mini RC Racers for $12.99</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=78&amp;c=13170&amp;launch=1"><b>DicksSportingGoods.com</b><span class="sidedeal_coupon"> -  $10 off purchase of $50 or more</span></a><br><br>
+                       <a class="sidedeal_merchant" href="deals.asp?view_type=8&amp;m=844&amp;c=13747&amp;launch=1"><b>LillianVernon.com</b><span class="sidedeal_coupon"> -  25% off your entire purchase</span></a><br><br>
                        
                        <img src="http://images.dealcatcher.com/rarrow.gif">&nbsp;<b><a href="deals.asp?view_type=5">More Top Deals</a></b>
           </td>
@@ -351,7 +383,7 @@ function local_search_onsubmit()
         <a href="press.asp">Press</a>&nbsp;&nbsp;-&nbsp;
         <a href="https://www.cj.com/sign-up/affiliate/setupaccountaffiliate.asp?air_refmerchantid=246355">Affiliates</a>&nbsp;&nbsp;-&nbsp;
         <a href="help.asp">Help</a>
-<br><br> <small>Copyright © 1999-2000 DealCatcher.com All Rights Reserved.<br>Read 
+<br><br> <small>Copyright © 1999-2002 DealCatcher.com All Rights Reserved.<br>Read 
             our <a href="copyright.asp" target="_top">Disclaimer</a> and <a href="privacy.asp" target="_top">Privacy Policy</a>.<br><br>
   </small>
    </center>
