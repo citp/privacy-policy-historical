@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604224152id_/http%3A//stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204041651id_/http%3A//stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
 
 # St.George Bank - Privacy & Security
 
