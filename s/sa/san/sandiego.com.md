@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sandiego.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Your Guide to San Diego Web Sites
+# SANDIEGO.COM: Privacy Policy
 
   
 | 
@@ -19,7 +19,7 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-[Back to top](https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/privacypolicy.asp#top)
+[Back to top](https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/privacypolicy.asp#top)
 
 **Sharing**   
 We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
@@ -32,7 +32,7 @@ This web site contains links to other sites. Please be aware that we, TopLevel C
 **Email Newsletter**   
 If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address for the purpose of sending the newsletter and no other secondary purpose.
 
-[Back to top](https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/privacypolicy.asp#top)
+[Back to top](https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/privacypolicy.asp#top)
 
 **Surveys & Contests**   
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
@@ -58,7 +58,7 @@ If you have any questions about the security at our website, you can send an ema
 **Special Offers**   
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
 
-[Back to top](https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/privacypolicy.asp#top)   
+[Back to top](https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/privacypolicy.asp#top)   
 
 
 **Site and Service Updates**   
@@ -77,7 +77,7 @@ Users of our site are always notified when their information is being collected 
 **Notification of Changes**   
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Back To the Top | [About Us](https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/aboutus.jsp) | [Privacy Policy](https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/privacypolicy.jsp) | [Help](https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/metatags.jsp) | [Contact Us](https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/feedback.jsp) | [Home](https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/index.jsp)
+Back To the Top | [About Us](https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/aboutus.jsp) | [Privacy Policy](https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/privacypolicy.jsp) | [Help](https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/metatags.jsp) | [Contact Us](https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/feedback.jsp) | [Home](https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/index.jsp)
 
 | 
 
