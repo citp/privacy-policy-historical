@@ -1,41 +1,14 @@
-> *The following text is extracted and transformed from the wiliam.com.au privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204141202id_/http%3A//www.wiliam.com.au/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiliam.com.au privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604041811id_/http%3A//www.wiliam.com.au/misc/policy.shtml) for the most accurate reproduction.*
 
-# wiliam - Digital Business Design
+# wiliam - digital business design
 
-Privacy Policy
+  | 
 
-**Wiliam Design Pty Limited**  
-ACN 080 615 872  
-ABN 97 080 615 872
-
-1\. Privacy Statement  
-
-
-Wiliam is committed to respecting and protecting your privacy. We have structured our Web site so that, in general, you can visit Wiliam on the Web without identifying yourself or revealing any personal information.
-
-Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your contact/client relationship with Wiliam.
-
-This statement regarding the privacy of the personally identifiable information you provide online covers the five foundation principles of fair information:
-
-  * Awareness  
-
-  * Choice  
-
-  * Accuracy & Access  
-
-  * Security  
-
-  * Oversight  
-
-
-
-
-2\. Awareness  
-
+**2\. Awareness**
 
 Wiliam provides this Online Privacy Statement to make you aware of our privacy policy, practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and from the bottom of every wiliam.com.au page, including pages found within our client system and subdomains.
 
-3\. What we collect
+**3\. What we collect**
 
 On some Wiliam web sites, you can subscribe to different events and seminars, make requests, and register to receive materials. The types of personal information collected at these pages are name, contact and some preference information.
 
@@ -43,23 +16,23 @@ In order to tailor our subsequent communications to you and continuously improve
 
 Our electronic newsletters record anonymous data about articles you have expressed interest in. Some wiliam.com.au web pages use cookies, a data analysis technique.
 
-4\. How we use it
+**4\. How we use it**
 
 Wiliam uses your information to better understand your needs and provide you with better service, whether as a visitor of the firm, contact or client.
 
 From time to time, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always give you the opportunity to opt out of receiving such direct marketing or market research contact. We will also follow local requirements, such as allowing you to opt in before receiving unsolicited contact, where applicable.
 
-5\. Who we share it with
+**5\. Who we share it with**
 
 Wiliam will not sell, rent, or lease your personally identifiable information to others. Unless we have your permission or are required by law, we will only share the personal data you provide online with other Wiliam entities and/or business partners who are acting on our behalf for the uses described in "how we use it". Such Wiliam entities and/or business partners are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements.
 
-6\. Choice
+**6\. Choice**
 
 Wiliam will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honour such requests.
 
 Your permission is always secured first, should we ever share your information with third parties that are not acting on our behalf and governed by our privacy policy.
 
-7\. Accuracy & Access
+**7\. Accuracy & Access**
 
 Wiliam strives to keep your personally identifiable information accurate.
 
@@ -73,11 +46,11 @@ Links to third party web sites on the site are provided solely as a convenience 
 
 Thus, Wiliam does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so at your own risk.
 
-8\. Security
+**8\. Security**
 
 Wiliam is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data.
 
-9. How Wiliam uses cookies
+**9\. How Wiliam uses cookies**
 
 A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, then your browser adds the text in a small file. The purpose of a cookie is to help us analyse Web traffic or let us know when you visit a particular site.
 
@@ -92,3 +65,5 @@ Examples are newlsetter registration sites. This cookie, by itself, only tells u
 Overall, cookies help us give you a better web site to use, by letting us monitor what's working and what isn't through site traffic analysis. Wiliam wants to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you chose to share with us. This practice is strictly enforced. We know that a lot of people have concerns about cookies, but in talking with many of our visitors, contacts and clients, we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our visitors, users and clients, so we respect these concerns. Wiliam works to continuously improve the wiliam.com.au Web experience and personal data privacy policy and practices.
 
 You may set your Web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contains cookies; those files are stored as part of your Internet browser.
+
+go back | [go home](https://web.archive.org/index.shtml)
