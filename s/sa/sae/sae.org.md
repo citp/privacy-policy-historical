@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205025100id_/http%3A//www.sae.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603063519id_/http%3A//www.sae.org/privacy.htm) for the most accurate reproduction.*
 
 # SAE Website Privacy Policy
 
