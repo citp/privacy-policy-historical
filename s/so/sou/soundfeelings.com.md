@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203191451id_/http%3A//soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605064315id_/http%3A//www.soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Sound Feelings - Privacy Policy
 
@@ -45,10 +45,9 @@ Sound Feelings
 Tarzana, CA 91356  
 U.S.A.   
 Tel: 818-757-0600   
-Fax: 818-757-0834   
 email: [comments@soundfeelings.com](mailto:comments@soundfeelings.com)
 
-Please also see our [Security Statement](https://web.archive.org/web/20031203191451id_/http%3A//soundfeelings.com/about/security.htm).
+Please also see our [Security Statement](https://web.archive.org/web/20040605064315id_/http%3A//www.soundfeelings.com/about/security.htm).
 
 
 | 
