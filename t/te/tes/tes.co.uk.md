@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203003700id_/http%3A//www.tes.co.uk/site_information/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602112057id_/http%3A//www.tes.co.uk/site_information/privacy_policy.asp) for the most accurate reproduction.*
 
 # Times Educational Supplement - TES
 
@@ -24,7 +24,7 @@ in the TES](https://web.archive.org/site_information/whos_who.asp)
 ---  
 |  |  |  |   
 ---|---|---|---  
-|  **For tes.co.uk and related sites (eg tescollegemanager.co.uk, tesfefocus.co.uk. tesprimary.com)  
+|  **For tes.co.uk and related sites (eg tesfefocus.co.uk, tesprimary.com)  
 **  
 We take your privacy seriously. This Privacy Policy explains what we do with data relating to you. If you have any questions about this or about personal information that we may hold about you please contact us by e-mail at [webmaster@tes.co.uk](mailto:webmaster@tes.co.uk) |  |   
 |  |  |   
@@ -32,7 +32,7 @@ We take your privacy seriously. This Privacy Policy explains what we do with dat
 ---|---|---|---  
 |  We automatically gather information about your visits to our sites. This includes demographic data and browsing patterns, but it is only collected in aggregate form - no individual user is identified. This is used to build up marketing profiles, to aid strategic development, to manage our relationship with advertisers and to audit usage of the site. 
 
-We may use "cookies" to identify you when you visit the tes.co.uk and associated sites (eg tescollegemanager.co.uk) and to build up a demographic profile. A cookie is a small collection of data sent by a web server to a web browser, which lets the server to collect information back from the browser. Our use of cookies also may allow registered users to be presented with a personalised version of the site. 
+We may use "cookies" to identify you when you visit the tes.co.uk and associated sites (eg tesfefocus.co.uk) and to build up a demographic profile. A cookie is a small collection of data sent by a web server to a web browser, which lets the server to collect information back from the browser. Our use of cookies also may allow registered users to be presented with a personalised version of the site. 
 
 |  |   
 |  |  |   
