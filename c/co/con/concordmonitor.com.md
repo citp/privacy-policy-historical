@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2002-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/privacy.html) for the most accurate reproduction.*
 
 # Concord Monitor Privacy Policy
 
-| [](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index.shtml)  
+| [](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index.shtml)  
 ---  
-[](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/news.shtml)  
-[](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/market.shtml)  
-[](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/sports.shtml)  
-[](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/commnews.shtml)  
-[](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/stories/service/index.shtml)  
+[](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/news.shtml)  
+[](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/market.shtml)  
+[](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/sports.shtml)  
+[](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/commnews.shtml)  
+[](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/stories/service/index.shtml)  
   
 * * *
 
-_Material posted to this site retains copyright. See the[User's Guide](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/stories/service/users.shtml) for details._
+_Material posted to this site retains copyright. See the[User's Guide](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/stories/service/users.shtml) for details._
 
 | 
 
@@ -45,11 +45,11 @@ If we decide to change our privacy policy, we will post these changes here so th
 
 * * *
 
-|  **TOP** |  [**HOME** ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index.shtml)[ ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index.shtml) |  [**NEWS** ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/news.shtml)[ ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/news.shtml) |  [**BUSINESS** ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/market.shtml)[ ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/market.shtml) |  [**SPORTS** ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/sports.shtml)[ ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/index/sports.shtml) |  [**ABOUT US** ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/stories/service/index.shtml)[ ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/stories/service/index.shtml) |  [**SEARCH** ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/wgindex.shtml)[ ](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/wgindex.shtml)  
+|  **TOP** |  [**HOME** ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index.shtml)[ ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index.shtml) |  [**NEWS** ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/news.shtml)[ ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/news.shtml) |  [**BUSINESS** ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/market.shtml)[ ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/market.shtml) |  [**SPORTS** ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/sports.shtml)[ ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/index/sports.shtml) |  [**ABOUT US** ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/stories/service/index.shtml)[ ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/stories/service/index.shtml) |  [**SEARCH** ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/wgindex.shtml)[ ](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/wgindex.shtml)  
 ---|---|---|---|---|---|---  
 | 
 
-### [NewsFastfind!](https://web.archive.org/web/20020213233455id_/http%3A//www.concordmonitor.com/fastfind/news/index.htm)
+### [NewsFastfind!](https://web.archive.org/web/20021208091231id_/http%3A//www.concordmonitor.com/fastfind/news/index.htm)
 
 #### Other Online News Resources
 
