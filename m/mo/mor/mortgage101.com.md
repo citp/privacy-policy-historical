@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the mortgage101.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000015.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgage101.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101025817id_/http%3A//www.mortgage101.com/partner-scripts/privacy.asp%3Fp%3Dmtg101) for the most accurate reproduction.*
 
 # Mortgage 101 Privacy Policy
 
-| [](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000001.htm)  
+[](http://www.mortgage101.com/partner-scripts/stateLoansLive.asp?p=mtg101)| [](http://nt.mortgage101.com/partner-scripts/default.asp?p=mtg101)  
 ---  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000002.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000003.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000004.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000005.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000113.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000114.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000006.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000007.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000115.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000008.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000009.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000010.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000011.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000012.htm)  
-[](https://web.archive.org/web/20010330130956id_/http%3A//mortgage101.com/pg000013.htm)  
+[](http://nt.mortgage101.com/partner-scripts/application.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/appraisals.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/bankruptcy.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/calculators.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/commercial.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/credit.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/downpayment.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/fhaloans.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/insurance.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/interestrates.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/loanprograms.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/refinance.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/relocation.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/secondmortgage.asp?p=mtg101)  
+[](http://nt.mortgage101.com/partner-scripts/valoans.asp?p=mtg101)  
 [](http://nt.mortgage101.com/partner-scripts/directory.asp?p=mtg101)  
 Newsletter  
   
