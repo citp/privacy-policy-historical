@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072211id_/http%3A//midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626175017id_/http%3A//www.midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,15 +24,15 @@ Fax|  | +1 541-344-1422
   
 ## General Information
 
-When you visit our website, our Web server automatically recognizes only the domain name of your Internet service provider, and not your e-mail address. However, we do collect your e-mail address if you communicate with us via e-mail.
+When you visit our Web site, our Web server automatically recognizes only the domain name of your Internet service provider, and not your e-mail address. However, we do collect your e-mail address if you communicate with us via e-mail.
 
 We also collect aggregate information on what pages people access or visit. This means we know how many people visited a specific page, but not who they are.
 
 We may also collect information that you voluntarily give us through online surveys, advertiser entries in the Birth Market, on-site registrations, or other forms.
 
-The information we collect is used to improve the content and organization of our website, and for internal review. We may also use this information to contact you for various purposes.
+The information we collect is used to improve the content and organization of our Web site, and for internal review. We may also use this information to contact you for various purposes.
 
-## Our Use of e-mail Addresses
+## Our Use of E-mail Addresses
 
 If you subscribe to Midwifery Today E-News or to other Midwifery Today e-mail publications and/or e-mail discussion lists, your e-mail address will be used only for that purpose, or to contact you personally in case a problem arises. Your e-mail address will not be sold, rented or otherwise given out to third parties.
 
