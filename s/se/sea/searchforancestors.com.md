@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409090126id_/http%3A//searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135432id_/http%3A//searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Ancestor Search - privacy statement
 
 ##  Privacy Statement for Ancestor Search 
 
-**Ancestor Search** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Ancestor Search ](https://web.archive.org/web/20010409090126id_/http%3A//index.html)
+**Ancestor Search** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Ancestor Search ](https://web.archive.org/web/20020602135432id_/http%3A//index.html)
 
 ####  Personal Information 
 
