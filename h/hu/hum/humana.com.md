@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602162046id_/http%3A//www.humana.com/misc/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211094134id_/http%3A//www.humana.com/misc/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
-
-|  | 
-
-  [ ](https://www.truste.org/validate/6847)
 
 This confirms that Humana Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.Humana.com.
 
@@ -51,7 +47,7 @@ Information we collect in these areas include:
 
 __
 
-_ | _Agents_ | _Providers_ | _Members_  
+_ _Agents_ | _Providers_ | _Members_  
 ---|---|---  
 User ID  | User ID  | User ID   
 PIN # | PIN # | PIN #  
@@ -118,3 +114,5 @@ For more information:
 _**
 
 The Humana Inc. Web site is maintained by Humana Inc., 500 W. Main Street, Louisville, KY 40202.
+
+Copyright © 2000 Humana Inc.
