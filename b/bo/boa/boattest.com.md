@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boattest.com privacy policy that was archived on 2003-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031012061056id_/http%3A//www.boattest.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boattest.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603102412id_/http%3A//www.boattest.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Terms Of Use
 
