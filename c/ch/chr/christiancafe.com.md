@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiancafe.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021173236id_/http%3A//www.christiancafe.com/public/help/privacy_statement.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiancafe.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205090203id_/http%3A//www.christiancafe.com/guests/help/privacy_statement.php3) for the most accurate reproduction.*
 
 # ChristianCafe.com: Privacy Statement
 
