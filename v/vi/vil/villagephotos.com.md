@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the villagephotos.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605194736id_/http%3A//www.villagephotos.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagephotos.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215060126id_/http%3A//www.villagephotos.com/privacy.asp) for the most accurate reproduction.*
 
 # VillagePhotos-Free photo hosting, free image hosting, picture upload, free picture hosting, eBay selling tools, listing management, picture hosting and image management.
 
-      |   
+| 
 
 Information obtained by VillagePhotos.com during the signup process, including usernames, passwords, and email addresses, will not be sold or otherwise used for any outside organizations for promotional or any other purposes. 
 
