@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ticketcity.com privacy policy that was archived on 2002-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203022954id_/http%3A//www.ticketcity.com/security.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketcity.com privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603224346id_/http%3A//www.ticketcity.com/security.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>TicketCity.com - Sports Tickets</title>
@@ -8,141 +8,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <link rel="stylesheet" type="text/css" href="css/AAmenu.css" title="master">
-<script language="javascript">
-//do browser detect stuff
-var isNS = (navigator.appName == "Netscape");
-var isMacIE = ( (navigator.userAgent.indexOf("IE 4")  > -1) && (navigator.userAgent.indexOf("Mac")  > -1) );
-var layerRef = (isNS) ? "document" : "document.all";
-var styleRef = (isNS) ? "" : ".style";
-var isDynamic = ( (document.layers || document.all) && !isMacIE );
-
-var activeMenu = 0;
-var finalClip;
-
-
-function activateMenu(menuLayerRef, offset) {
-	
-	if (isDynamic && activeMenu != menuLayerRef) {
-
-		if (activeMenu) hideMenu("menu" + activeMenu);
-			
-		menuID = "menu" + menuLayerRef;
-		activeMenu = menuLayerRef;
-	
-		if (isNS) {
-			document[menuID].top = 77;
-			document[menuID].left = offset-2;
-		} else {
-			document.all[menuID].style.pixelTop = 81;
-			document.all[menuID].style.pixelLeft = offset;
-		}
-
-		showMenu(menuID)
-		
-	}
-	if (isDynamic && !isNS) window.event.cancelBubble = true;
-}
-
-function showMenu(layerID) {
-	eval(layerRef + '["' + layerID + '"]' + styleRef + '.visibility = "visible"');
-}
-
-function hideMenu(layerID) {
-	eval(layerRef + '["' + layerID + '"]' + styleRef + '.visibility = "hidden"');
-}
-
-function killMenu(e) {
-	//check if theres a menu active
-	if (activeMenu) {
-		menuID = "menu" + activeMenu;
-		if (isNS) {
-			menuX1 = document[menuID].left;
-			menuX2 = menuX1 + document[menuID].clip.right;
-			menuY1 = document[menuID].top;
-			menuY2 = menuY1 + document[menuID].clip.bottom;
-			
-			if (e.pageX < menuX1 || e.pageX > menuX2 || e.pageY > menuY2) {
-				hideMenu(menuID);
-				activeMenu = 0;
-			}
-		} else {
-				hideMenu(menuID);
-				activeMenu = 0;
-
-		}
-	}  
-
-}
-
-
-function init() {
-	if (isDynamic) {
-		if (isNS) { 
-			document.captureEvents(Event.MOUSEMOVE); 
-			document.onmousemove = killMenu;
-		} else {
-			document.onmouseover = killMenu;
-		}
-		
-	}
-}
-
-function ChckSts()
-{
-	popupWin = window.open("http://www.ticketcity.com/chcksts.asp", 'checkstatus', 'width=150,height=220');
-	window.top.name = 'opener';
-}
-
-/*
-Disable right mouse click Script (By Crash @ http://walk.to/crash)
-Submitted to and permission granted to Dynamicdrive.com to feature script in it's archive
-For full source code to this script and 100's more, visit http://dynamicdrive.com
-*/
-
-var message="To Order Tickets for this event please click the LEFT mouse button.";
-function click(e) {
-if (document.all) {
-if (event.button == 2) {
-alert(message);
-return false;
-}
-}
-if (document.layers) {
-if (e.which == 3) {
-alert(message);
-return false;
-}
-}
-}
-if (document.layers) {
-document.captureEvents(Event.MOUSEDOWN);
-}
-document.onmousedown=click;
-//-->
-</script><script language="javascript">
-// this will open a new window, submit the poll form, and send the results to the popup window
-function pollSubPop (url, name, widgets, specialsURL) 
-{
-	popupWin = window.open(url, name, widgets);
-	popupWin.opener.top.name = "opener";
-	popupWin.focus();
-}
-</script><script language="javascript">
-window.name = "_thewindow";
-browser = navigator.appName;
-version = navigator.appVersion;
-os = navigator.platform;
-ie = "Microsoft Internet Explorer";
-netscape = "Netscape";
-mac = "MacPPC";
-
-if(browser == netscape && os != mac) {
-   document.write('<link rel=stylesheet type="text/css" href="/css/NSNAV.css" title=master>');
-}  else {
-
-   document.write('<link rel=stylesheet type="text/css" href="/css/ieNAV.css" title=master>'); 
-}
-</script><link rel="stylesheet" type="text/css" href="/css/NSNAV.css" title="master">
+<script language="javascript" src="js/AAmenu1.js"></script>
+<script language="javascript" src="js/AApoll1.js"></script>
+<script language="javascript" src="js/AAnav1.js"></script><link rel="stylesheet" type="text/css" href="/css/NSNAV.css" title="master">
 
 </head><body bgcolor="#FFFFFF" leftmargin="0" alink="orange" topmargin="2" marginwidth="0" marginheight="0" link="#000066" onload="init();">
 
@@ -233,16 +101,16 @@ if(browser == netscape && os != mac) {
 			  <td height="17" class="navCat"><b>&nbsp;FEATURED EVENTS</b></td>
               </tr>    
                          
-              
+              <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="http://www.ticketcity.com/worldcup.asp" title="rugby world cup tickets">Rugby World Cup Tickets</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			 			  		    
-			  <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="http://www.ticketcity.com/cfoot.asp#bowls">College Football Bowl Games</a></td></tr>
+			  <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="http://www.ticketcity.com/basketball.asp#playoffs" title="nba tickets">NBA Playoff Tickets</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			  
-			  <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="http://www.reservetravel.com/results.asp?CI=scottsdale&amp;ST=AZ&amp;CT=US&amp;siteid=6908">Fiesta Bowl Hotels</a></td></tr>
+			  <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="http://www.ticketcity.com/specials.asp" title="discount tickets">Discount Tickets</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			  
-			  <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="http://www.ticketcity.com/liveinventory/home.asp?ptoload=m_event.asp&amp;item=performer&amp;item_key=2829">Rugby World Cup</a></td></tr>
-			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
 			  
 			  
          </tbody></table> 
@@ -254,108 +122,104 @@ if(browser == netscape && os != mac) {
           <tr><td height="18" class="navCat">&nbsp;SHOPPING</td>
               </tr>
 			   <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/schedule.asp">Future Events</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/schedule.asp" title="Future Sporting Events">Future Events</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-                          <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/affiliate.asp">Affiliate Program</a></td></tr>
+                          <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/affiliate.asp" title="Affiliate Program">Affiliate Program</a></td></tr>
                           <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticketcity/sell2.shtml">Selling Tickets</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticketcity/sell2.shtml" title="Sell Tickets">Selling Tickets</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticketcity/giftcert.shtml">Gift Certificates</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticketcity/giftcert.shtml" title="Gift Certificate">Gift Certificates</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticketcity/boxoffice.shtml">Event Request</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticketcity/boxoffice.shtml" title="Request Tickets">Event Request</a></td></tr>
 			  
 			   			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			    <tr><td height="17" class="navCat"><a href="http://www.ticketcity.com/sports.asp">&nbsp;SPORTS</a></td>
+			    <tr><td height="17" class="navCat"><a href="http://www.ticketcity.com/sports.asp" title="Sports Tickets">&nbsp;SPORTS</a></td>
               </tr>
               
               <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
               
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/events.asp">Major Events..</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/events.asp" title="Superbowl Tickets">Major Events..</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/football.asp">Pro Football</a></td></tr>
-			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/cfoot.asp">College Football</a></td></tr>
-			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  
-			  
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/cbasket.asp">College Basketball</a></td></tr>
-			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  
-			  
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/basketball.asp">Pro Basketball</a></td></tr>
-			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  
-			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/hockey.asp">Hockey</a></td></tr>
-			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  
 
-			  
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/baseball.asp">Baseball</a></td></tr>
+                          <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/football.asp" title="NFL Tickets">NFL</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  			  			  
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/basketball.asp" title="NBA Tickets">Pro Basketball</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			  
-			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/golf.asp">Golf</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/hockey.asp" title="Hockey Tickets">Hockey</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/soccer.asp">Soccer</a></td></tr>
-			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/liveinventory/home.asp?ptoload=m_event.asp&amp;item=performer&amp;item_key=2187">Boxing</a></td></tr>
-			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  			   
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/nascar.asp">Auto Racing</a></td></tr>
+			                            			  
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/baseball.asp" title="Baseball Tickets">Baseball</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			  
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/horseracing.asp">Horse Racing</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/golf.asp" title="Golf Tickets">Golf</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+                          
+                           <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/worldcup.asp" title="rugby Tickets">Rugby World Cup</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/soccer.asp" title="Soccer Tickets">Soccer</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+					  			   
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/nascar.asp" title="NASCAR Tickets">NASCAR</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+                          <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/formula1.asp" title="Formula One Tickets">Formula 1</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/horseracing.asp" title="Kentucky Derby Tickets">Horse Racing</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			 
-			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/tennis.asp">Tennis</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/tennis.asp" title="Tennis Tickets">Tennis</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			 
-
+                          <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/cfoot.asp" title="College Football Tickets">College Football</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+                          		  
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/cbasket.asp" title="College Basketball Tickets">College Basketball</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			  
-			  
-			 		  
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/other.asp">More..</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/other.asp" title="Tickets, Tickets, Tickets">More..</a></td></tr>
 			  
 			  
 			    			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			    <tr><td height="17" class="navCat"><a href="http://www.ticketcity.com/entertainment.asp">&nbsp;ENTERTAINMENT</a></td>
+			    <tr><td height="17" class="navCat"><a href="http://www.ticketcity.com/entertainment.asp" title="Entertainment Tickets">&nbsp;ENTERTAINMENT</a></td>
               </tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/concerts.asp">Concerts</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/concerts.asp" title="Concert Tickets">Concerts</a></td></tr>
 			   <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/theatre.asp">Broadway Theatre</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/theatre.asp" title="Ny Broadway Tickets">Broadway Theatre</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/liveinventory/home.asp?ptoload=m_performer.asp&amp;item=sEvType&amp;item_key=4">Las Vegas Shows</a></td></tr>
+			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/lvtheatre.asp" title="Las Vegas Tickets">Las Vegas Shows</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/awards.asp">Awards Shows</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/awards.asp" title="Award Show Tickets">Awards Shows</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/othertheatre.asp">Other Theatre..</a></td></tr>
-			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-	
+			  	
 			  <tr><td height="17" class="navCat"><b>&nbsp;HELP DESK</b></td>
               </tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/faq.asp">FAQs</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/faq.asp" title="Frequently Asked Questions">FAQs</a></td></tr>
 			   <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/info.asp">Company Info</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/info.asp" title="About TicketCity">Company Info</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/companyBios.asp">Company Bios</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/companyBios.asp" title="Employees">Company Bios</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/policy.asp">Sales Policies</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/policy.asp" title="Policies">Sales Policies</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/email_form.asp">Contact Us</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/email_form.asp" title="Email TicketCity">Contact Us</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+                          <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/spiderfood.htm" title="Site Map">Page List</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			  
 			  <tr><td height="17" class="navCat"><b>OTHER SERVICES</b></td>
               </tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/travel.asp">Travel Quotes</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/travel.asp" title="Travel Tickets">Travel Quotes</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://ticketcity.store.fanbuzz.com">Apparel</a></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://ticketcity.store.fanbuzz.com" title="Team Apparel">Apparel</a></td></tr>
 			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-	                  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/affiliate.asp">Affiliate Program</a></td></tr>
+	                  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/affiliate.asp" title="Affiliate Program">Affiliate Program</a></td></tr>
    			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
 			  
 			  
@@ -442,7 +306,7 @@ if(browser == netscape && os != mac) {
               with TicketCity.com, you can contact:</font> 
             </p><p> <font face="Arial" size="2"><i>Customer Service Department<br>
               TicketCity.com<br>
-              2025 Guadalupe, Suite #256<br>
+              2025 Guadalupe, Suite #142<br>
               Austin, Texas 78705<br>
               </i> <a href="mailto:customer_service@ticketcity.com"><i>Customer_service@ticketcity.com</i></a> 
               </font> 
@@ -475,7 +339,7 @@ if(browser == netscape && os != mac) {
     <td align="left" height="18"> 
       <div align="center"><img src="/images/blkarc.gif" width="13" height="18"></div>
     </td>
-    <td width="236" height="18" align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="https://secure.ticketcity.com/ticketcity/guestbook.shtml"><b><font size="1" color="#ffffff">MAILING 
+    <td width="236" height="18" align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="../signup_page.asp"><b><font size="1" color="#ffffff">MAILING 
       LIST </font></b></a></font></td>
     <td width="2" height="18" align="center" bgcolor="#FFFFFF"><img src="/images/white_dot.gif" width="2" height="1"></td>
     <td width="237" align="center" valign="middle"> 
@@ -485,7 +349,7 @@ if(browser == netscape && os != mac) {
     <td width="2" align="center" valign="middle" bgcolor="#FFFFFF"><img src="/images/white_dot.gif" width="2" height="1"></td>
     <td width="237"> 
       <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><font size="1"><b>© 
-        1998-2001 TICKETCITY.COM</b></font></font></div>
+        1998-2003 TICKETCITY.COM</b></font></font></div>
     </td>
   </tr>
 </tbody></table>
