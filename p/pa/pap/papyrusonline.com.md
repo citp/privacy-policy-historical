@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013034618id_/http%3A//www.papyrusonline.com/copyright/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411094302id_/http%3A//papyrusonline.com/copyright/security.cfm) for the most accurate reproduction.*
 
 # Security and Privacy
-
-|   | 
 
 **Security and Privacy**
 
@@ -41,6 +39,4 @@ If you have any questions at any time regarding our privacy policy, you may cont
 Papyrus Franchise Corporation  
 Marketing Department  
 2500 North Watney Way  
-Fairfield, CA 94533   
-  
----|---
+Fairfield, CA 94533 
