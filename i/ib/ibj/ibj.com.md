@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605162800id_/http%3A//www.ibj.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203003902id_/http%3A//www.ibj.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # IBJ Story
 
