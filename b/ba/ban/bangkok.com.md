@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangkok.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602174434id_/http%3A//bangkok.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangkok.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205110933id_/http%3A//bangkok.com/privacy.shtml) for the most accurate reproduction.*
 
 # Bangkok.com
 
@@ -16,8 +16,13 @@ Voluntary promotion and opt-in service information may be used for our own marke
 
 Bangkok.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
 
-If you have any questions about Bangkok.com's privacy, please feel free to contact us at [feedback@bangkok.com](https://web.archive.org/web/20010602174434id_/http%3A//bangkok.com/feedback@bangkok.com).
+If you have any questions about Bangkok.com's privacy, please feel free to contact us at [feedback@bangkok.com](https://web.archive.org/web/20011205110933id_/http%3A//bangkok.com/feedback@bangkok.com).
 
-**[Home](http://bangkok.com/) [Baht](http://bangkok.com/cgi-bin/anacondaodp.pl?search=baht) [Mall](http://bangkok.com/mall) [Postcards](http://www.bangkok.com/postcards) [Thailand Hotels](http://bangkok.com/cgi-bin/anacondaodp.pl?search=thailand+hotels) [Thai Travel](http://bangkok.com/cgi-bin/anacondaodp.pl?search=thai+travel) [Chat](http://bangkokchat.com/) [Privacy](http://bangkok.com/privacy.shtml) [SiteTinker Web Design](http://www.sitetinker.com/) [Chiang Mai](http://www.chiangmai-online.com/) **
+** [Great Fares to Bangkok!](http://www.searchaddict.com/cgi-bin/ads/adclick.cgi?manager=adcycle.com&gid=16&cid=16&mid=64&id=545)
 
-**Copyright © Bangkok.com**
+[Home](http://bangkok.com/) [Baht](http://bangkok.com/cgi-bin/anacondaodp.pl?search=baht) [Mall](http://bangkok.com/mall) [Postcards](http://www.bangkok.com/postcards) [Thailand Hotels](http://bangkok.com/hotels) [Thai Travel](http://bangkok.com/cgi-bin/anacondaodp.pl?search=thai+travel) [Chat](http://bangkokchat.com/) [Privacy](http://bangkok.com/privacy.shtml)   
+[SiteTinker Web Design](http://www.sitetinker.com/) [Chiang Mai](http://www.chiangmai-online.com/)
+
+**
+
+ **Copyright © Bangkok.com**
