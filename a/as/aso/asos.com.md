@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211060621id_/http%3A//www.asseenonscreen.com/Privacy.asp%3FShopperID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210100145id_/http%3A//www.asseenonscreen.com/Privacy.asp%3FShopperID%3D) for the most accurate reproduction.*
 
 # As Seen on Screen - Celebrity Fashion from AsSeenonScreen.com
 
@@ -32,9 +32,7 @@ A cookie is a small information file that is sent to your computer and is stored
 We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement please do not hesitate to contact a customer service member of the asSeenonScreen.com team, who will be delighted to answer any questions you may have. 
 
 You can either send an email to:  
-[customerservices@asseenonscreen.com](mailto:customerservices@asseenonscreen.com)
-
-Or telephone us on +44(0) 1494 790 800 
+[customercare@asos.com](mailto:customercare@asos.com)
 
 Or, write to us at :   
 Customer Services,  
