@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208184804id_/http%3A//www.birth.com.au/about.asp%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603063246id_/http%3A//birth.com.au/about.asp%3Fprivacy) for the most accurate reproduction.*
 
 # Pregnancy week by week - pregnancy calendar - pregnancy stages trimesters - pregnancy websites - motherhood maternity - BirthNet Australia
 
