@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickthru.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208024404id_/http%3A//www.clickthru.com/faq%3Ffaq%3D6%26refresh%3D%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickthru.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404123540id_/http%3A//www.clickthru.com/faq%3Ffaq%3D6%26refresh%3D%252F) for the most accurate reproduction.*
 
 # ClickThru.com
 
