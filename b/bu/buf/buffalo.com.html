@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buffalo.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204115707id_/http%3A//buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buffalo.com privacy policy that was archived on 2005-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305221905id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head><meta name="description" content="Buffalo.com Privacy Policy">
 
@@ -63,7 +63,7 @@ function dmim(msgStr) {
 				var zflag_nid="311"; var zflag_cid="271/270"; var zflag_sid="0"; var zflag_width="468"; var zflag_height="60"; var zflag_sz="0"; 
 				</script>
 				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=271/270;w=468;h=60" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="468" height="60"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
-				<a href="http://xads.zedo.com/ads2/r?n=311;c=271/270;u=j;z=124200453535" target="_blank"><img border="0" width="468" height="60" src="http://xads.zedo.com/ads2/x?n=311;c=271/270;u=j;z=124200453535" alt="Click here"></a>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=271/270;u=j;z=342005114721" target="_blank"><img border="0" width="468" height="60" src="http://xads.zedo.com/ads2/x?n=311;c=271/270;u=j;z=342005114721" alt="Click here"></a>
 				</noscript>
 				</iframe>
 				<!-- end ZEDO -->
@@ -147,7 +147,11 @@ a.searchbox
 			document.searchLN.submit();
 		}
 	}
-						
+		
+	function checkbus() {
+		window.location= "http://www.buffalo.com/TPBSearch.asp";
+	}
+				
 	function runSearchLN() {
 		index = document.searchLN.searchType.selectedIndex;
 
@@ -186,10 +190,12 @@ a.searchbox
 
 		//National Business Search - open in new window...
 		if(index == 4) {
-			document.searchLN.keywords.name = 'L';
-			document.searchLN.action = "http://search.worldpages.com/bin/cgidir.dll";
+			window.location="http://www.buffalo.com/TPBSearch.asp";
+			//document.searchLN.keywords.name = 'L';
+			//document.searchLN.action = "http://www.daplus.us/BusinessResults.aspx";
+			//document.searchLN.action = "http://search.worldpages.com/bin/cgidir.dll";
 			//document.searchLN.searchurl.value = "http://search.worldpages.com/bin/cgidir.dll";
-			document.searchLN.target = "new";
+			//document.searchLN.target = "new";
 			//document.searchLN.action = "http://www.buffalo.com/TPBSearchResults.asp";
 			
 		}
@@ -251,12 +257,12 @@ a.searchbox
 								<table width="100%" border="0" cellpadding="2" cellspacing="0">
 									<tbody><tr>
 										<td class="searchbox" align="center">
-											<select name="searchType" style="width: 130px; font-size: 10px" onchange="checkPeople();">
+											<select name="searchType" style="width: 130px; font-size: 10px" onchange="if (this.options[this.selectedIndex].value == 'nbusinessName') checkbus(); else checkPeople();">
 												<option value="businessName">Local Business Name</option>
 												<option value="people">WNY Web Directory</option>
 												<option value="keyword" selected="">Keyword Search</option>
 												<option value="news">Buffalo News Articles</option>
-												<option value="businessName">National Business Search</option>
+												<option value="nbusinessName">National Business Search</option>
 												<option value="events">Local Events</option>
 											</select>
 										</td>
@@ -534,11 +540,9 @@ a.searchbox
 			<!--br-->
 			<a class="nav" href="http://www.buffalo.com/link.asp?link=cars" onmouseover="window.status='BuffaloCars.com(SM)'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">BuffaloCars.com<font size="-1"><sup>SM</sup></font></a>
 			<br>			
-			<a class="nav" href="http://www.buffalo.com/link.asp?link=cancellations" onmouseover="window.status='Cancellations'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Cancellations</a>
-			<br>
 			<a class="nav" href="http://www.buffalo.com/link.asp?link=careers" onmouseover="window.status='Career Fair'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Career Fair</a>
 			<br>
-			<a class="nav" href="http://www.buffalo.com/link.asp?link=classroom" onmouseover="window.status='Classified'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Classroom Connection</a>
+			<a class="nav" href="http://www.buffalonews.com/services/community/education/classconn/" onmouseover="window.status='Classified'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Classroom Connection</a>
 			<br>
 			<a class="nav" href="http://www.buffalo.com/link.asp?link=classified" onmouseover="window.status='Classified'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Classified</a>
 			<br>
@@ -571,14 +575,12 @@ a.searchbox
 		<td align="left" valign="top" width="100%">
 		<font face="arial,helvetica" size="2">
 <p align="left"> <font size="3"><strong>
-			Buffalo.com<font size="-1"><sup>SM</sup></font> Privacy Policy 
-			</strong></font><font size="1"> (updated 4/3/00)</font>
+			Buffalo.com<font size="-1"><sup>SM</sup></font> and BuffaloNews.com Privacy Policy 
+			</strong></font><font size="1"> (updated 12/04)</font>
             </p>
-            <p><font size="2">Your privacy is very important to us. To make use of certain features of our website; ie, <a href="http://mail.buffalo.com/">Free email,</a>, stock portfolio, <a href="http://www.buffalo.com/calendar/">E-vents@Buffalo.com<font size="-1"><sup>SM</sup></font></a>, <a href="http://www.buffalo.com/calendar/my_calendar/accounts/">MyCalendar@Buffalo.com<font size="-1"><sup>SM</sup></font></a>, etc., visitors need to register and provide certain information as part of the registration process. The information you provide will help us to provide the services you request from us. One of the things we will do with this information is offer more personalized features and make our features and our site more useful to you. </font></p>
+            <p><font size="2">Your privacy is very important to us. To make use of certain features of our website; ie, <a href="http://mail.buffalo.com/">Free email</a>, <a href="http://www.buffalo.com/calendar/">E-vents@Buffalo.com<font size="-1"><sup>SM</sup></font></a>, <a href="http://www.buffalo.com/calendar/my_calendar/accounts/">MyCalendar@Buffalo.com<font size="-1"><sup>SM</sup></font></a>, etc., visitors need to register and provide certain information as part of the registration process. The information you provide will help us to provide the services you request from us. One of the things we will do with this information is offer more personalized features and make our features and our site more useful to you. </font></p>
             <p><font size="2">Supplying such information is voluntary, but it 
-            makes it possible to supply personalized services to you. For 
-            example, if you supply the stocks you want to monitor, then we can 
-            offer the personalized portfolio service to you; if you supply your 
+            makes it possible to supply personalized services to you. If you supply your 
             email address and areas of interest, we can send you email 
             notifications of new features or newsworthy items that may interest 
             you; if you supply information on how to contact you, we can notify 
@@ -596,12 +598,11 @@ a.searchbox
             their own cookies to your browser when you access their sites, a 
             process we do not monitor or control. </font></p>
             <p><font size="2">Cookies enable us to deliver personalized services 
-            to you. A cookie delivers your personalized stock portfolio to you. 
-            We can improve and enhance our site if we know the path visitors are 
+            to you. We can improve and enhance our site if we know the path visitors are 
             taking through our site, which pages of our site are being visited 
             and how often. Of course, you can set your browser not to accept 
             cookies but, if you do, it is possible that some features of 
-            Buffalo.com<font size="-1"><sup>SM</sup></font> may not function properly or you may not be able to 
+            Buffalo.com<font size="-1"><sup>SM</sup></font> and BuffaloNews.com may not function properly or you may not be able to 
             utilize the personalized services enjoyed by other visitors to our 
             site. For further information on setting your browser's cookies, 
             please refer to the Help instructions furnished with your browser or 
@@ -674,7 +675,7 @@ a.searchbox
 			<a class="nav" onmouseover=" window.status='Visitor Agreement'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=visitor">Visitor Agreement</a> |
 			<a class="nav" onmouseover=" window.status='Privacy Policy'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=privacy">Privacy Policy</a> | 
 			<a class="nav" onmouseover=" window.status='Advertise on Buffalo.com(SM)'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=advertise">Advertise On Buffalo.com<font size="-1"><sup>SM</sup></font></a><br>
-			<a class="nav" onmouseover=" window.status='Copyright - Buffalo.com(SM)'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=copyright">Copyright 2003 - 2004 - Buffalo.com<font size="-1"><sup>SM</sup></font></a>
+			<a class="nav" onmouseover=" window.status='Copyright - Buffalo.com(SM)'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=copyright">Copyright 2004 - 2005 - Buffalo.com<font size="-1"><sup>SM</sup></font></a>
 			<br>
 			<a class="nav" href="http://www.buffalo.com/link.asp?link=homepage" onmouseover="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">	 Buffalo.com<font size="-1"><sup>SM</sup></font> - Everything Buffalo<font size="-1"><sup>SM</sup></font></a><br>
 			<font color="#012c8b">Buffalo, NY</font></font>
@@ -691,7 +692,7 @@ a.searchbox
 				var zflag_nid="311"; var zflag_cid="252/250"; var zflag_sid="0"; var zflag_width="120"; var zflag_height="90"; var zflag_sz="3"; 
 				</script>
 				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=252/250;d=3;w=120;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="90"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
-				<a href="http://xads.zedo.com/ads2/r?n=311;c=252/250;x=768;u=j;z=124200453535" target="_blank"><img border="0" width="120" height="90" src="http://xads.zedo.com/ads2/x?n=311;c=252/250;x=768;u=j;z=124200453535" alt="Click here"></a>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=252/250;x=768;u=j;z=342005114721" target="_blank"><img border="0" width="120" height="90" src="http://xads.zedo.com/ads2/x?n=311;c=252/250;x=768;u=j;z=342005114721" alt="Click here"></a>
 				</noscript>
 				</iframe>
 				<!-- end ZEDO --><p>
@@ -701,7 +702,7 @@ a.searchbox
 				var zflag_nid="311"; var zflag_cid="253/250"; var zflag_sid="0"; var zflag_width="120"; var zflag_height="90"; var zflag_sz="3"; 
 				</script>
 				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=253/250;d=3;w=120;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="90"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
-				<a href="http://xads.zedo.com/ads2/r?n=311;c=253/250;x=768;u=j;z=124200453535" target="_blank"><img border="0" width="120" height="90" src="http://xads.zedo.com/ads2/x?n=311;c=253/250;x=768;u=j;z=124200453535" alt="Click here"></a>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=253/250;x=768;u=j;z=342005114721" target="_blank"><img border="0" width="120" height="90" src="http://xads.zedo.com/ads2/x?n=311;c=253/250;x=768;u=j;z=342005114721" alt="Click here"></a>
 				</noscript>
 				</iframe>
 				<!-- end ZEDO --></p><p>
@@ -711,7 +712,7 @@ a.searchbox
 				var zflag_nid="311"; var zflag_cid="254/250"; var zflag_sid="0"; var zflag_width="120"; var zflag_height="90"; var zflag_sz="3"; 
 				</script>
 				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=254/250;d=3;w=120;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="90"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
-				<a href="http://xads.zedo.com/ads2/r?n=311;c=254/250;x=768;u=j;z=124200453535" target="_blank"><img border="0" width="120" height="90" src="http://xads.zedo.com/ads2/x?n=311;c=254/250;x=768;u=j;z=124200453535" alt="Click here"></a>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=254/250;x=768;u=j;z=342005114721" target="_blank"><img border="0" width="120" height="90" src="http://xads.zedo.com/ads2/x?n=311;c=254/250;x=768;u=j;z=342005114721" alt="Click here"></a>
 				</noscript>
 				</iframe>
 				<!-- end ZEDO --></p><p>
@@ -721,7 +722,7 @@ a.searchbox
 				var zflag_nid="311"; var zflag_cid="255/250"; var zflag_sid="0"; var zflag_width="120"; var zflag_height="240"; var zflag_sz="5"; 
 				</script>
 				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=255/250;d=5;w=120;h=240" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="240"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
-				<a href="http://xads.zedo.com/ads2/r?n=311;c=255/250;x=1280;u=j;z=124200453535" target="_blank"><img border="0" width="120" height="240" src="http://xads.zedo.com/ads2/x?n=311;c=255/250;x=1280;u=j;z=124200453535" alt="Click here"></a>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=255/250;x=1280;u=j;z=342005114721" target="_blank"><img border="0" width="120" height="240" src="http://xads.zedo.com/ads2/x?n=311;c=255/250;x=1280;u=j;z=342005114721" alt="Click here"></a>
 				</noscript>
 				</iframe>
 				<!-- end ZEDO --></p>
