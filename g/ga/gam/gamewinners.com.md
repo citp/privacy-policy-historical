@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamewinners.com privacy policy that was archived on 2000-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000502173454id_/http%3A//www.gamewinners.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewinners.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202211100id_/http%3A//gamewinners.com/privacy.html) for the most accurate reproduction.*
 
 # Game Winners - Privacy Policy
 
@@ -10,7 +10,10 @@ The individual web pages from Game Winners that are requested by your browser is
 
 Your browser has the ability to use so-called "cookies" which, unless you disable their use, store small amounts of data on your computer about your visit to various web sites. Game Winners does not use cookies on our content. However, banner ads displayed through our advertising broker may elect to use cookies to prevent the same ad being displayed too many times to the same user, or to identify Game Winners as the site responsible for a "click-through" for an advertiser. However, cookies can not reveal any personal information about you. None of this information is available to Game Winners, and therefore is not sold or disseminated to outside parties. 
 
-Game Winners works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+Game Winners works with a third party that serves ads to this site. To find out more about how these companies manage the privacy of information with serving ads on this site, please go to the following links. 
+
+> [eUniverse](http://www.euniverse.com/privacy.cfm)  
+>  [Engage Media](http://www.flycast.com/about_us/about-privacy.html)
 
 Some services, such as our Newsletter, Bulletin Board, and Chat features, are provided through our relationship with the Video Game Strategies site at About.com. Privacy information specific to those features may be found [here](http://home.about.com/gi/pages/privacy.htm). 
 
