@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tycoelectronics.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603044518id_/http%3A//www.tycoelectronics.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tycoelectronics.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019142114id_/http%3A//www.tycoelectronics.com/privacy.stm) for the most accurate reproduction.*
 
 # Welcome to Tyco Electronics - Privacy Statement
 
