@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210092715id_/http%3A//www.sprint.com/privacypolicy/%3Frefurl%3Duhp_footer_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403214255id_/http%3A//www.sprint.com/privacypolicy/%3Frefurl%3Duhp_footer_privacypolicy) for the most accurate reproduction.*
 
 # Sprint - Sprint Online Privacy Policy
 
@@ -18,7 +18,7 @@ The policies below are applicable to Sprint.com and other sites on the World Wid
 
 
 
-Sprint Privacy Policy for its Internet services (including services such as Sprint Vision, wireless connection, prepaid Internet access and high speed Internet services) can be accessed at: [www.sprint.com/privacypolicy/broadbandservices](http://www.sprint.com/privacypolicy/broadbandservices).
+Sprint Privacy Policy for its Internet services (including services such as Sprint Vision, wireless connection, prepaid Internet access and high speed Internet services) can be accessed at: [www.sprint.com/privacypolicy/broadbandservices](http://www.sprint.com/privacypolicy/broadbandservices?refurl=privacypolicy_broadbandservices).
 
 ### General
 
