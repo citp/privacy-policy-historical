@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031190932id_/http%3A//www.thedenverchannel.com/sh/includes/phaedra/misc-privacystory.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601110215id_/http%3A//www.thedenverchannel.com/sh/includes/phaedra/misc-privacystory.html) for the most accurate reproduction.*
 
 # TheDenverChannel Privacy Statement
 
@@ -42,5 +42,38 @@ Mendota Heights, MN 55120
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We may also decide to notify our users by e-mail of significant changes.
 
-|    |    
+|    |  | 
 
+  
+  
+  
+---  
+   
+  
+| | 
+
+E-MAIL NEWS  
+  
+---|---  
+  
+Get E-News Headlines When YOU Want Them
+
+| Breaking News  
+---|---  
+| 7 am Headlines  
+| 9 am Headlines  
+| 12 pm Headlines  
+| 4 pm Headlines  
+| 8 pm Headlines  
+  
+  
+[More E-Mail Choices...](http://www.thedenverchannel.com/news/email-newsletters.html)  
+  
+   
+  
+   
+  
+  
+  
+  
+Stock Box [Copyright ©2002](https://web.archive.org/sh/miscellaneous/stories/miscellaneous-75094720010502-100516.html) , Standard & Poor’s, a division of The McGraw-Hill Companies, Inc. All rights reserved. 
