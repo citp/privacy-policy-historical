@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610063250id_/http%3A//britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209181310id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express online travel magazine privacy policy
 
-###### **[](https://web.archive.org/web/20020610063250id_/http%3A//britainexpress.com/search2.htm)**
+###### **[](https://web.archive.org/web/20021209181310id_/http%3A//www.britainexpress.com/search2.htm)**
 
 ###### **[Home](https://web.archive.org/index.htm)**
 
