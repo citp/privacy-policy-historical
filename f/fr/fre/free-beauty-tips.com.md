@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017102404id_/http%3A//www.free-beauty-tips.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,10 @@
 
 Free-Beauty-Tips.com, its advertising partners and network affiliates, are committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. 
 
-**PLEASE NOTE:** This Web site uses a reputable third party to serve the advertisements that you see on the pages of our Web site. This company may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.sonar.com/naiprivacy). 
+**PLEASE NOTE:** We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
 
-Third Party Cookies: In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+**Third Party Cookies**   
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **Internet User Information**
 
@@ -20,24 +21,24 @@ Furthermore, Free-Beauty-Tips does not divulge any information regarding the use
 
 |  |  **Health Tips**  
 ---  
-[**Healthy You**](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/health.html)  
+[**Healthy You**](https://web.archive.org/web/20021017102404id_/http%3A//www.free-beauty-tips.com/health.html)  
   
 **Special Care**  
-**[ Acne Problems](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/acne.html)**  
+**[ Acne Problems](https://web.archive.org/web/20021017102404id_/http%3A//www.free-beauty-tips.com/acne.html)**  
   
 **Cosmetics**  
-[**Cosmetics**](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/cosmetics.html)  
+[**Cosmetics**](https://web.archive.org/web/20021017102404id_/http%3A//www.free-beauty-tips.com/cosmetics.html)  
   
 **Free Samples**  
-[**Samples of Free Beauty Products**](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/samples.html)  
+[**Samples of Free Beauty Products**](https://web.archive.org/web/20021017102404id_/http%3A//www.free-beauty-tips.com/samples.html)  
   
 **Fun Stuff**  
 [**Free Greeting Cards**](http://www.1lovecards.com/)  
 [**Lyrics**](http://www.romantic-lyrics.com/)  
 [**Fitness**](http://www.wholefitness.com/)  
-  
+[**Love Poems**](http://www.1lovepoems.com/)  
 **Resources**  
-[**Related Websites**](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/resources.html)  
+[**Related Websites**](https://web.archive.org/web/20021017102404id_/http%3A//www.free-beauty-tips.com/resources.html)  
   
   
 Be good to yourself. Enjoy every day.
