@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the armorama.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208145342id_/http%3A//armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorama.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604092057id_/http%3A//www.armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.*
 
-# Armorama.com - Military Scale Model & Diorama Community
+# Armorama.com :: Military Scale Model & Diorama Community
 
   
-|  |   
----  
+  
+| 
+
   
   
-  
-What is Your Privacy Statement?Category: [Main](https://web.archive.org/web/20031208145342id_/http%3A//armorama.com/modules.php?op=modload&name=FAQ&file=index) >> What is Your Privacy Statement?   
+What is Your Privacy Statement?Category: [Main](https://web.archive.org/web/20040604092057id_/http%3A//www.armorama.com/modules.php?op=modload&name=FAQ&file=index) >> What is Your Privacy Statement?   
 | Answer  
 ---  
  **·**   What about my privacy?
@@ -54,6 +54,4 @@ Top
 * * *
 
   
-  
-  
- 
+
