@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613162145id_/http%3A//www.globest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211131537id_/http%3A//globest.com/privacy.html) for the most accurate reproduction.*
 
 # GlobeSt.com - Real Estate is our domain
 
+| **Aug  29, 2001  
+5:22PM EST**|  |  |  [](http://www.globest.com/newsblast.html)  
+---  
+  
+Enter your Email and get the latest industry news  
+  
 | |   
 ---  
    
@@ -27,4 +33,4 @@ _Data Security:_ To prevent unauthorized access, maintain data accuracy, and ens
 |   
 ---  
    
-[ ](http://www.globest.com/cgi-bin/redirect.cgi?link=http://www.globest.com/RMIQQV1BIKC.html)
+[ ](http://www.globest.com/cgi-bin/redirect.cgi?link=http://www.globest.com/RMIS3H0ESQC.html)
