@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gactv.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606041203id_/http%3A//gactv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gactv.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803001629id_/http%3A//www.gactv.com/privacy.html) for the most accurate reproduction.*
 
 # GACTV.com - Privacy
 
