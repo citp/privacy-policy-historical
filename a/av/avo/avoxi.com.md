@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the avoxi.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082244id_/http%3A//avoxi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avoxi.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205185830id_/http%3A//www.avoxi.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Avoxi discount international telephony service provider and low cost toll free for businesses anywhere in the world
 
-**1Force Communications, LLC Online Privacy Policy** ** **
+  
+1Force Communications, LLC Online Privacy Policy
 
 Protecting privacy is not a new endeavor for 1FORCE COMMUNICATIONS, LLC. 1FORCE COMMUNICATIONS, LLC has a long-standing tradition of recognizing and protecting the privacy of customers who use its telecommunications networks. The company maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions.
 
@@ -14,15 +15,17 @@ Some Internet users may also wish to know who can learn about what they do on th
 
 It is common practice and often a necessity for companies, governments, or other organizations to collect customer identifiable information in order to conduct business and offer services. For example, a telecommunications provider may collect customer identifiable information, such as name, address, telephone number, and a variety of other information in the course of billing and providing telephone service to a customer.
 
-Some activities on the Internet follow very familiar patterns. Consumers signing up for an Telecommunications Services, for example, are usually asked to provide name, address, telephone number and credit card and other information that is typical when the consumer orders a product or service. Similarly, business Web sites may ask visitors to supply information about themselves, particularly when information, services or merchandise are requested, but often simply to be able to better target the company's services to the customer's interests and requirements.  
+Some activities on the Internet follow very familiar patterns. Consumers signing up for an Telecommunications Services, for example, are usually asked to provide name, address, telephone number and credit card and other information that is typical when the consumer orders a product or service. Similarly, business Web sites may ask visitors to supply information about themselves, particularly when information, services or merchandise are requested, but often simply to be able to better target the company's services to the customer's interests and requirements.
 
+* * *
 
-**1FORCE COMMUNICATIONS, LLC's Online Privacy Policy: Informed Choice** ** **
+1Force Communications, LLC Online Privacy Policy: Informed Choice
 
-1FORCE COMMUNICATIONS, LLC has put in place the following Online Privacy Policy. This policy covers 1FORCE COMMUNICATIONS, LLC and its subsidiaries.  1FORCE COMMUNICATIONS, LLC will continue to protect customer information derived from its local and long distance services consistent with federal laws and with federal regulations issued by the Federal Communications Commission.  
+1FORCE COMMUNICATIONS, LLC has put in place the following Online Privacy Policy. This policy covers 1FORCE COMMUNICATIONS, LLC and its subsidiaries.  1FORCE COMMUNICATIONS, LLC will continue to protect customer information derived from its local and long distance services consistent with federal laws and with federal regulations issued by the Federal Communications Commission.
 
+* * *
 
-**How 1FORCE COMMUNICATIONS, LLC Protects Your Privacy Online** ** **
+** How 1Force Communications, LLC Protects Your Privacy Online**
 
 **Collection and Use:** 1FORCE COMMUNICATIONS, LLC will collect and use customer identifiable information for billing purposes, to provide and change service, to anticipate and resolve problems with your service, or to create and inform you of products and services that better meet your needs. This means that 1FORCE COMMUNICATIONS, LLC may use your customer identifiable information, in conjunction with information available from other sources, to market new services to you that we think will be of interest to you, but we will not disclose your customer identifiable information to third parties who want to market products to you.
 
@@ -38,8 +41,8 @@ Customer-identifiable information which a visitor volunteers at one of the 1FORC
 
 **Account Information:** 1FORCE COMMUNICATIONS, LLC honors requests from customers to review all customer identifiable information maintained in reasonably retrievable form, which currently consists of your name, address, e-mail address, telephone number and/or billing information, and will correct any such information which may be inaccurate. Customers may verify that appropriate corrections have been made.
 
-**Customer Concerns:** If you are a consumer with concerns about the 1FORCE COMMUNICATIONS, LLC online privacy policy or its implementation you may contact us at [privacy@avoxi.com](mailto:privacy@1force.net)
+**Customer Concerns:** If you are a consumer with concerns about the 1FORCE COMMUNICATIONS, LLC online privacy policy or its implementation you may contact us at  [ privacy@avoxi.com](mailto:privacy@1force.net)
 
 **Changes in Practices:** 1FORCE COMMUNICATIONS, LLC will keep this Policy current. The company will inform you of any changes that we make. 
 
-Avoxi Communications is a specialized product of 1Force Communications, LLC. 
+Avoxi Communications is a specialized product of 1Force Communications, LLC.
