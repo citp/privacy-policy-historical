@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hammacher.com privacy policy that was archived on 2003-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401222357id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hammacher.com privacy policy that was archived on 2003-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031206102108id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Hammacher Schlemmer</title>
@@ -64,28 +64,36 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 
 }
+
+
+
 function validate() {
 
-if (document.product.color) {
-	if (document.product.color.value == "none") {
-		alert("Please select color");
-		return false;
-	
-	}
+var undefined;
+if (document.product.color != undefined) {
+
+	if (document.product.color.selectedIndex == 0) {
+			alert("Please select color");
+			return false;
+		}
+		
 }
 
-if (document.product.size) {
-	if (document.product.size.value =="none") {
+if (document.product.size != undefined) {
+	if (document.product.size.selectedIndex == 0) {
 		alert("Please select size");
 		return false;
 	}
+		
 }
 
-if (document.product.style) {
-	if (document.product.style.value =="none") {
+if (document.product.style != undefined) {
+
+	if (document.product.style.selectedIndex == 0) {
 		alert("Please select style");
 		return false;
 	}
+
 }
 return true;
 
@@ -99,175 +107,231 @@ return true;
 
 <body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
 
+
 <!-- BEGIN HEADER TABLE -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<form action="http://www.hammacher.com/search.asp" method="post" id="form1" name="form1"></form>
-  <tbody><tr bgcolor="eaddbb"> 
-    <td width="497" bgcolor="eaddbb">
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	<td rowspan="4"><img src="/images/gfx/shim.gif" width="10" height="1" border="0"></td><td colspan="4"><img src="/images/gfx/shim.gif" width="4" height="10" border="0"></td>
+  </tr>
+  <tr> 
+    <td width="360">
 	<!-- Brand Graphic -->
-	<a href="http://www.hammacher.com"><img src="../images/gfx/tnav_brand.gif" width="497" height="60" border="0" alt="Hammacher Schlemmer"></a></td>
-    <td width="263" bgcolor="eaddbb" background="../images/gfx/tnav_brand_bkgd.gif"><nobr>
-      <div align="right">
-			<!-- Search --><img src="../images/gfx/productsearch_43x21.gif" border="0" width="43" height="21" align="absmiddle">
-			<input type="text" name="txtKeyword" value="" size="10">
-			<input type="image" name="submit" value="Submit" src="../images/gfx/cta_go_24x21.gif" width="24" height="21" align="absmiddle" border="0" alt="go">
-			<!-- BEGIN COREMETRICS -->
+	<a href="http://www.hammacher.com"><img src="/images/navigation/top_header.gif" border="0" alt="Hammacher Schlemmer" width="350" height="28"></a></td>
+	<td align="right" valign="bottom" width="360"><a href="http://www.hammacher.com/order/unc_guar.asp"><img src="/images/navigation/guarantee_for_life.gif" border="0" width="120" height="28"></a></td>
+    <td width="30"><nobr>
+      <div align="right">			<!-- BEGIN COREMETRICS -->
 			<script language="javascript1.1" src="/coremetrics/v31/eluminate.js"></script>
 			<script language="javascript1.1" src="/coremetrics/pageview.js"></script>
 			<!-- END COREMETRICS -->
-		<br>
-        <a href="/gsindex.asp"><img src="../images/gfx/cta_giftfinder_102x15.gif" alt="gift finder" border="0" width="102" height="15"></a>
-      </div>
+		 </div>
         </nobr>
     </td>
-    <td width="100%">&nbsp;</td>
   </tr>
-  <tr bgcolor="47856c"> 
-    <td width="760" bgcolor="47856c" height="3" colspan="2"><img src="../images/gfx/shim.gif" width="1" height="3"></td>
-    <td height="3" width="100%"><img src="../images/gfx/shim.gif" width="1" height="3"></td>
-  </tr>
-  <tr bgcolor="8ea28e">
-  	  <!-- BEGIN PRIMARY NAV BUTTONS -->
-      <td width="760" colspan="2">
-	  <table width="760" border="0" cellpadding="0" cellspacing="0">
-	  	<tbody><tr>
-		  <td>
-           <a href="http://www.hammacher.com/main.asp" onmouseover="changeImages('menu_1', '../images/gfx/topnav_home_on.gif'); return true;" onmouseout="changeImages('menu_1', '../images/gfx/topnav_home.gif'); return true;"> 
-            <img name="menu_1" src="../images/gfx/topnav_home.gif" border="0" alt="Home" width="67" height="18"></a></td>
-		   
-		   <td><a href="http://www.hammacher.com/toppicks/tp_top_picks_1.asp?catID=12" onmouseover="changeImages('menu_2', '../images/gfx/topnav_toppicks_on.gif'); return true;" onmouseout="changeImages('menu_2', '../images/gfx/topnav_toppicks.gif'); return true;"> 
-            <img name="menu_2" src="../images/gfx/topnav_toppicks.gif" border="0" alt="Top Picks" width="89" height="18"></a></td>
-		   
-		   <td><a href="http://www.hammacher.com/testedbest/testedbest.asp?catID=7" onmouseover="changeImages('menu_3', '../images/gfx/topnav_tested_on.gif'); return true;" onmouseout="changeImages('menu_3', '../images/gfx/topnav_tested.gif'); return true;"> 
-            <img name="menu_3" src="../images/gfx/topnav_tested.gif" border="0" alt="Tested Best" width="102" height="18"></a></td>
-		  
-		  <td><a href="http://www.hammacher.com/uniquely/uh_uniquely_1.asp?catID=8" onmouseover="changeImages('menu_4', '../images/gfx/topnav_uniquely_on.gif'); return true;" onmouseout="changeImages('menu_4', '../images/gfx/topnav_uniquely.gif'); return true;"> 
-            <img name="menu_4" src="../images/gfx/topnav_uniquely.gif" border="0" alt="Uniquely Hammacher" width="175" height="18"></a></td>
-		  
-          <td><a href="http://www.hammacher.com/gifts/gifts.asp?catID=3" onmouseover="changeImages('menu_5', '../images/gfx/topnav_gifts_on.gif'); return true;" onmouseout="changeImages('menu_5', '../images/gfx/topnav_gifts.gif'); return true;"> 
-            <img name="menu_5" src="../images/gfx/topnav_gifts.gif" border="0" alt="Gifts" width="56" height="18"></a></td>
-            
-		  <td><a href="http://www.hammacher.com/specialvalues/specialvalues.asp?catID=13" onmouseover="changeImages('menu_6', '../images/gfx/topnav_special_on.gif'); return true;" onmouseout="changeImages('menu_6', '../images/gfx/topnav_special.gif'); return true;"> 
-            <img name="menu_6" src="../images/gfx/topnav_special.gif" border="0" alt="Special Values" width="128" height="18"></a></td>
-		  
-          <td><a href="http://www.hammacher.com/shop/shopping_basket.asp" onmouseover="changeImages('menu_7', '../images/gfx/topnav_shopbag_on.gif'); return true;" onmouseout="changeImages('menu_7', '../images/gfx/topnav_shopbag.gif'); return true;"> 
-			  <img name="menu_7" src="../images/gfx/topnav_shopbag.gif" border="0" alt="Shopping Bag" width="146" height="18"></a></td>
-	  </tr>
+  <tr>
+	<td colspan="5"><img src="/images/gfx/shim.gif" width="10" height="3" border="0"></td>
+  </tr> 
+   <tr>
+	   <!-- BEGIN PRIMARY NAV BUTTONS -->
+  	  <td width="745" colspan="3">
+	  <table width="745" border="0" bordercolor="red" cellpadding="0" cellspacing="0" bgcolor="#F9EFDB">
+		<tbody><tr>
+			 <td height="1" width="142" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+        </tr>
+	  	<tr>
+		 <td align="center"><img src="/images/gfx/shim.gif" height="1" width="3"><a href="http://www.hammacher.com/ofc/ofcindex.asp" class="nav">CATALOG QUICK ORDER</a> <img src="/images/gfx/shim.gif" height="1" width="2"> • <img src="/images/gfx/shim.gif" height="1" width="2"> <a href="http://www.hammacher.com/online_catalog/catalog_landing_page.asp" class="nav">ONLINE CATALOG</a> <img src="/images/gfx/shim.gif" height="1" width="2"> • <img src="/images/gfx/shim.gif" height="1" width="2"> <a href="http://www.hammacher.com/request_catalog/catindex_qa_both.asp" class="nav">REQUEST CATALOG</a> <img src="/images/gfx/shim.gif" height="1" width="2"> • <img src="/images/gfx/shim.gif" height="1" width="2"> <a href="http://www.hammacher.com/service.asp" class="nav">CUSTOMER SERVICE</a> <img src="/images/gfx/shim.gif" height="1" width="2"> • <img src="/images/gfx/shim.gif" height="1" width="2"> <a href="http://www.hammacher.com/orderstatus.asp" class="nav">ORDER STATUS</a> <img src="/images/gfx/shim.gif" height="1" width="2"> • <img src="/images/gfx/shim.gif" height="1" width="2"> <a href="http://www.hammacher.com/shop/shopping_basket.asp" class="nav">VIEW CART</a></td>
+        </tr>
+        <tr>
+			 <td height="1" width="142"><img src="/images/gfx/shim.gif" height="2" width="1"></td>
+        </tr>
 	</tbody></table>
     </td>
     <!-- END PRIMARY NAV BUTTONS -->
 
-    <td width="100%">&nbsp;</td>
+
   </tr>
+ 
 
 </tbody></table>
+<table width="760" border="0" bordercolor="green" cellspacing="0" cellpadding="0">
+
+
 <!-- END HEADER TABLE -->
 
 <!-- BEGIN MAIN SECTION TABLE -->
-  <table width="760" border="0" cellspacing="0" cellpadding="0">
+  </table><table width="760" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr valign="top"> 
 
 	      <!-- BEGIN LEFT NAV -->
       <!-- BEGIN LEFT NAV -->
-</tr><tr><td colspan="9"><img src="../images/gfx/shim.gif" width="10" height="5" border="0"></td></tr>
-	 <tr valign="top">  
-    
-      <td width="160" valign="top" align="right">
-        <div align="right">
-        <table width="140" border="0" cellspacing="0" cellpadding="0">
-	    <tbody><tr><td width="1" bgcolor="#dcc174"><img src="../images/gfx/shim.gif" height="1" width="1"></td>
-          
-        <td width="140"><a href="http://www.hammacher.com"><img src="../images/gfx/lnav_shop_140x28.gif" width="140" height="28" alt="shop" border="0"></a><br>
-
- 
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/homeliving/homeliving.asp?catId=4&amp;promo=homeliving" class="leftnav">Home Living</a><br>
-
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/outdoorliving/outdoorliving.asp?catId=9&amp;promo=outdoorliving" class="leftnav">Outdoor Living</a><br>
-
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/homecare/homecare.asp?catId=10&amp;promo=homecare" class="leftnav">Home Care</a><br>
-
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/electronics/electronics.asp?catId=11&amp;promo=electronics" class="leftnav">Electronics</a><br>
-
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/sportleisure/sportleisure.asp?catId=6&amp;promo=sportleisure" class="leftnav">Sports &amp; Leisure</a><br>
-
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/personalcare/personalcare.asp?catId=5&amp;promo=personalcare" class="leftnav">Personal Care</a><br>
-
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/apparel/apparel.asp?catId=1&amp;promo=apparel" class="leftnav">Apparel</a><br>
-
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/travel/travel.asp?catId=14&amp;promo=travel" class="leftnav">Travel</a><br>
-
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/children/children.asp?catId=2&amp;promo=children" class="leftnav">Children</a><br>
-
-
-
-<img src="http://www.hammacher.com/images/gfx/shim.gif" border="0" width="1" height="10">        
-    
-          <!--<div align="center"> <A HREF="/toppicks/toppicks.asp"			ONMOUSEOVER="changeImages('seasonal', '/images/gfx/bug_toppicks_roll_98x53.gif'); return true;"			ONMOUSEOUT="changeImages('seasonal', '/images/gfx/bug_toppicks_98x53.gif'); return true;">             <img name="seasonal" src="../images/gfx/bug_toppicks_98x53.gif" width="98" height="53" border="0"></a><br />            &nbsp;</div>--></td>
-          <td width="1" bgcolor="#dcc174"><img src="http://www.hammacher.com/images/gfx/shim.gif" height="1" width="1"></td>
+     </tr><tr>
+		<td colspan="3"><img src="/images/gfx/shim.gif" width="4" height="8" border="0"></td>
+	</tr>
+	 <tr valign="top" rowspan="2">  
+         <td width="160" valign="top" align="right" rowspan="2">
+      	<table width="142" cellspacing="0" cellpadding="0" bgcolor="#F9EFDB" class="goldBorder" border="0">
+		<tbody><tr bgcolor="#F9EFDB">
+			<td colspan="3"><img src="/images/gfx/shim.gif" width="4" height="1" border="0"></td>
+		</tr>
+		<form action="../qsearch/default.asp" method="post"></form>
+		<tr bgcolor="#F9EFDB">
+			<td><img src="/images/gfx/shim.gif" width="4" height="1" border="0"></td>
+			<td colspan="2"><img src="/images/navigation/search.gif" border="0" width="135" height="15"></td>
+		</tr>
+		<tr bgcolor="#F9EFDB">
+			<td colspan="3"><img src="/images/gfx/shim.gif" width="4" height="1" border="0"></td>
+		</tr>
+		<tr bgcolor="#F9EFDB">
+			<td><img src="/images/gfx/shim.gif" width="4" height="1" border="0"></td>
+			<td valign="top" width="100"><input type="text" name="keyword" size="12"></td><td width="50"><input type="image" src="../images/navigation/go.gif" border="0" id="image1" name="image1" width="23" height="24"></td>
+		</tr>
+		<tr bgcolor="#F9EFDB">
+			<td colspan="3"><img src="/images/gfx/shim.gif" width="4" height="2" border="0"></td>
+		</tr>
+		<tr bgcolor="#F9EFDB">
+			<td><img src="/images/gfx/shim.gif" width="4" height="1" border="0"></td>
+			<td colspan="2"><span class="navytextsmall3">KEYWORD OR ITEM #</span></td>
+		</tr>
+		
+		</tbody></table>
+		 <div align="right">
+        <table width="142" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+			<td colspan="3"><img src="/images/gfx/shim.gif" border="0" width="1" height="5"></td>
+		</tr>
+        <tr>
+			 <td colspan="3" height="1" width="142" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+        </tr>
+	    <tr><td width="1" bgcolor="#E8BD74"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+             <td bgcolor="#F9EFDB"><img src="/images/gfx/shim.gif" width="4" height="1" border="0"></td><td width="140" bgcolor="#F9EFDB"><img src="/images/navigation/shop.gif" alt="shop" border="0" width="133" height="17"></td>
+			 <td width="1" bgcolor="#E8BD74"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
         </tr>
         <tr>
-          <td colspan="3" height="1" width="142" bgcolor="#dcc174"><img src="http://www.hammacher.com/images/gfx/shim.gif" height="1" width="1"></td>
+			 <td colspan="3" height="1" width="142" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
         </tr>
+         <tr>
+			<td width="1" bgcolor="#E8BD74"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+			<td width="140" colspan="2">
+
+				 
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/apparel/apparel.asp?catId=1&amp;promo=apparel" class="homepage">Apparel</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/electronics/electronics.asp?catId=11&amp;promo=electronics" class="homepage">Electronics</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/gifts/gifts.asp?catID=3" class="homepage">Gifts</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/homecare/homecare.asp?catId=10&amp;promo=homecare" class="homepage">Home Care</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/homeliving/homeliving.asp?catId=4&amp;promo=homeliving" class="homepage">Home Living</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/homeoffice/homeoffice.asp?catId=17&amp;promo=homeoffice" class="homepage">Home Office</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/holidaydecorating/holidaydecorating.asp?catId=15&amp;promo=holidaydecorating" class="homepage">Holiday Decorating</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/outdoorliving/outdoorliving.asp?catId=9&amp;promo=outdoorliving" class="homepage">Outdoor Living</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/personalcare/personalcare.asp?catId=5&amp;promo=personalcare" class="homepage">Personal Care</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/sportleisure/sportleisure.asp?catId=6&amp;promo=sportleisure" class="homepage">Sport &amp; Leisure</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/children/children.asp?catId=2&amp;promo=toys" class="homepage">Toys</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/specialvalues/specialvalues.asp?catID=13&amp;promo=sale" class="nav_red">SALE</a><br>
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="2">        
+		</td>
+          <!--<div align="center"> <A HREF="/toppicks/toppicks.asp"			ONMOUSEOVER="changeImages('seasonal', '/images/gfx/bug_toppicks_roll_98x53.gif'); return true;"			ONMOUSEOUT="changeImages('seasonal', '/images/gfx/bug_toppicks_98x53.gif'); return true;">             <img name="seasonal" src="/images/gfx/bug_toppicks_98x53.gif" width="98" height="53" border="0"></a><br />            &nbsp;</div>-->
+          <td width="1" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+        </tr>
+        
+        <!--hammacher exclusive -->
+         <tr>
+			 <td colspan="4" height="1" width="142" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+        </tr>
+	    <tr><td width="1" bgcolor="#E8BD74"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+            <td bgcolor="#F9EFDB"><img src="/images/gfx/shim.gif" width="4" height="1" border="0"></td> <td width="140" bgcolor="#F9EFDB"><img src="/images/navigation/selectively_133x15.gif" alt="" border="0" width="133" height="15"></td>
+			 <td width="1" bgcolor="#E8BD74"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+        </tr>
+        <tr>
+			 <td colspan="4" height="1" width="142" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+        </tr>
+         <tr>
+			<td width="1" bgcolor="#E8BD74"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+			<td width="140" colspan="2">
+
+				 
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/toppicks/tp_top_picks_1.asp?catID=12&amp;promo=bestsellers" class="homepage">Best Sellers</a><br>
+				
+
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/uniquely/uh_uniquely_1.asp?catID=8&amp;promo=exclusive" class="homepage">Exclusively Ours</a><br>
+				
+
+
+
+				<!--<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="#" class="homepage">Gift Finder</a><br> -->
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/publish/GC00.asp?&amp;promo=giftcert" class="homepage">Gift Certificates</a><br>
+				
+				
+				
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="18">&nbsp;<a href="http://www.hammacher.com/testedbest/testedbest.asp?catID=7&amp;promo=testedbest" class="homepage">Tested Best</a><br>
+				
+
+				<img src="../images/gfx/shim.gif" border="0" width="1" height="2">        
+		</td>
+           <td width="1" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+        </tr>
+        <tr>
+			 <td colspan="4" height="1" width="142" bgcolor="#dcc174"><img src="/images/gfx/shim.gif" height="1" width="1"></td>
+        </tr>
+         <tr>
+			<td colspan="3"><img src="/images/gfx/shim.gif" border="0" width="1" height="5"></td>
+		</tr>
       </tbody></table>
+      
+      <!-- join email list -->
+      
+      <table cellspacing="0" cellpadding="0" border="0" bgcolor="#FCF5E5" width="140">
+			<tbody><tr><td><img src="../images/gfx/shim.gif" width="5" height="5" border="0"></td></tr>
+			<tr>
+			<td width="5"><img src="../images/gfx/shim.gif" width="5" height="1" border="0"></td>
+			<td colspan="2"><span class="navytextsmall3"><a href="http://www.hammacher.com/request_catalog/catindex_qa_email.asp" class="homepagesmaller">JOIN OUR EMAIL LIST</a></span></td>
+			</tr>
+			<tr>
+				<td colspan="3"><img src="../images/gfx/shim.gif" width="5" height="2" border="0"></td>
+			</tr>
+			<form name="email_capture" action="email_capture.asp" method="post"></form>
+			<tr>
+			<td width="5"><img src="../images/gfx/shim.gif" width="5" height="3" border="0"></td>
+			<td valign="top" align="left" width="50"><input type="text" name="email" size="15"></td>
+			<td valign="top" align="left"><input type="image" src="../images/navigation/go.gif" border="0" id="image1" name="image1" width="23" height="24"></td>
+			
+			</tr>
+			<tr>
+				<td width="5"><img src="../images/gfx/shim.gif" width="5" height="3" border="0"></td>
+				<td colspan="2"><span class="navytextsmall3">enter your email address</span></td>
+			</tr>
+			<tr>
+				<td colspan="3"><img src="../images/gfx/shim.gif" width="5" height="5" border="0"></td>
+			</tr>
+			
+			
+			
+	</tbody></table>
+	<!-- end join email list -->
           
       
       <table width="140" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-			<td><img src="http://www.hammacher.com/images/gfx/shim.gif" height="8" width="1"></td>
+			<td><img src="/images/gfx/shim.gif" height="4" width="1"></td>
 		</tr>
-        <tr>
-			<td><!-- Quickorder Module -->
-<form action="../cgi-bin/hamm_cat_search.pl" method="POST" id="form2" name="form2">
-<table width="142" border="0" cellspacing="0" cellpadding="0">
-<!--
-<tr bgcolor="e0bc74"> 
-		<td colspan="3" height="1"><img src="http://www.hammacher.com/images/gfx/shim.gif" width="1" height="1"></td>
-</tr>
-	<tr bgcolor="e0bc74">
-		<td bgcolor="e0bc74" width="1"><img src="http://www.hammacher.com/images/gfx/shim.gif" width="1" height="1"></td>
-            
-		<td width="142"><a href="/ofc/ofcindex.asp"><img src="http://www.hammacher.com/images/gfx/hd_cat_order.gif" alt="catalog quick order" border="0"  HEIGHT="21"></a></td>
-		<td bgcolor="e0bc74" width="1"><img src="http://www.hammacher.com/images/gfx/shim.gif" width="1" height="1"></td>
-	</tr>
-	<tr> 
-		<td bgcolor="e0bc74" width="1"><img src="http://www.hammacher.com/images/gfx/shim.gif" width="1" height="1"></td>
-		<td bgcolor="fbf5e6" align="center" class="modtext"> -->
-		<!--<div align="center"><a href="/ofc/ofcindex.asp"><img src="../images/gfx/bug_magfan_79x61.jpg" width="79" height="61" vspace="6" alt="catalogs" border="0"></a><br />-->
-        <!--&nbsp;Enter Item #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /> 
-        <input type="text" name="TXTcatno" size="7">
-		<input type="image" name="View Item" value="Submit" src="http://www.hammacher.com/images/gfx/cta_go_24x21.gif" width="24" height="21" align="absmiddle" border="0" alt="View Item">
-        <img src="http://www.hammacher.com/images/gfx/shim.gif" width="1" height="1">
-        </div></td>
-        <td bgcolor="e0bc74" width="1"><img src="http://www.hammacher.com/images/gfx/shim.gif" width="1" height="1"></td>
-	</tr>
-	<tr bgcolor="e0bc74"> 
-		<td colspan="3" height="1"><img src="http://www.hammacher.com/images/gfx/shim.gif" width="1" height="1"></td>
-	</tr> -->
-<tbody><tr><td align="center">
-		<a href="http://www.hammacher.com/ofc/ofcindex.asp"><img src="/images/gfx/catalogquickorder_138x14.gif" width="138" height="14" border="0" vspace="1" alt="Catalog Quick Order"></a><br>
-		<font color="#1B1464">Enter item number:</font><br> 
-        <input type="text" name="TXTcatno" size="7">
-		<input type="image" name="View Item" value="Submit" src="http://www.hammacher.com/images/gfx/cta_go_24x21.gif" width="24" height="21" align="absmiddle" border="0" alt="View Item">
-        <img src="http://www.hammacher.com/images/gfx/shim.gif" width="1" height="1"></td></tr>
-</tbody></table> 
-</form></td>
-		</tr>
-		  <tr>
-			<td><img src="http://www.hammacher.com/images/gfx/shim.gif" height="8" width="1"></td>
-		</tr>
-		<!--<tr>
-			<td align="center"><a href="http://www.hammacher.com/gifts/gifts.asp?catID=3" class="product"><img src="../images/holiday/bug_greatgifts_121x68.gif" border="0" WIDTH="121" HEIGHT="68" vspace="2" alt="great gifts"></a></td>
-		</tr>-->
-		
-		<tr><td align="center"><a href="http://www.hammacher.com/mbnaJump.asp" target="_new"><img src="http://www.hammacher.com/images/creditcard_011503.gif" border="0" alt="Hammacher Schlemmer Platinum Plus MasterCard" vspace="8" width="142" height="43"></a></td></tr>
-	
-         <!--<tr>			<td><a href="https://www.hammacher.com/orderstatus.asp" ONMOUSEOVER="changeImages('order_status', '/images/gfx/hd_orderstatus_roll_142x27.gif'); return true;" ONMOUSEOUT="changeImages('order_status', '/images/gfx/hd_orderstatus_142x27.gif'); return true;">			<img name="order_status" src="../images/gfx/hd_orderstatus_142x27.gif" width="142" height="27" border="0" vspace="12"></a></td>        </tr>-->
-      </tbody></table>
-      
-     		<!--<tr>           <td><a href="../about_us/butlertorch_recall.asp" class="product">Safety Information <img src="../images/gfx/next.gif" border="0" WIDTH="8" HEIGHT="11"></a></td>		</tr>-->
-		
+		<tr><td align="left"><a href="/mbnaJump.asp" target="_new"><img src="/images/navigation/mc_reward.gif" border="0" alt="Hammacher Schlemmer Platinum Plus MasterCard" vspace="8"></a></td></tr>
+		 <tr>
+		<td><img src="/images/navigation/questions.gif" border="0"></td><td>
+        </td></tr>	
+	 </tbody></table>
    </div></td>
-	<!-- END LEFT NAV -->
+   
+  		<!-- END LEFT NAV -->
 
 	
 	<!-- BEGIN LEFT SPACER COLUMN -->
@@ -369,46 +433,48 @@ Hammacher Schlemmer occasionally makes our customer's postal addresses, excludin
 
 <!-- END MAIN SECTION TABLE -->
 <!-- BEGIN FOOTER TABLE -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"><td colspan="3"><img src="../images/gfx/shim.gif" width="100%" height="5"></td></tr>
-<tr valign="top"><td colspan="3"><img src="../images/gfx/shim_gold.gif" width="100%" height="1"></td></tr>
- <tr bgcolor="#FBF5E5"><td>
-	<table border="0" cellspacing="0" cellpadding="0" width="750" bgcolor="#FBF5E5">
-	<tbody><tr valign="top" bgcolor="#FBF5E5">
-	<td width="165">&nbsp;</td>
-	 <td width="100"><img src="../images/gfx/shim.gif" border="0" width="100" height="1"></td>
+
+
+<!--table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"><td colspan="3"><img src="/images/gfx/shim.gif" width="100%" height="5"></td></tr>
+<tr valign="top"><td colspan="3"><img src="/images/gfx/shim_gold.gif" width="100%" height="1"></td></tr>
+ <tr bgColor="#FBF5E5"><td>
+	<table border="0" cellspacing="0" cellpadding="0" width="750" bgColor="#FBF5E5">
+	<tr valign="top" bgColor="#FBF5E5">
+	<td width="80">&nbsp;</td>
+	 <td width="70"><img src="/images/gfx/shim.gif" border="0" width="70" height="1"></td>
     <td colspan="3" align="center">
-    <a href="http://www.hammacher.com/request_catalog/catindex_qa.asp"><img src="../images/gfx/foot_req_cat.gif" border="0" width="127" height="18"></a> 
-    <a href="http://www.hammacher.com/request_catalog/catindex_qa_email.asp"><img src="../images/gfx/join_footer.gif" border="0"></a> 
-     <a href="http://www.hammacher.com/service.asp"><img src="../images/gfx/foot_cust_serv.gif" border="0" width="125" height="18"></a>
-    <a href="http://www.hammacher.com/orderstatus.asp"><img src="../images/gfx/foot_order_stat.gif" border="0" width="88" height="18"></a></td>
+    <a href="http://www.hammacher.com/online_catalog/catalog_landing_page.asp"><img src="/images/gfx/foot_online_catalog.gif" border="0" WIDTH="106" HEIGHT="17"></a> 
+     <a href="http://www.hammacher.com/request_catalog/catindex_qa_both.asp"><img src="/images/gfx/foot_req_cat.gif" border="0" WIDTH="127" HEIGHT="18"></a> 
+    <a href="http://www.hammacher.com/request_catalog/catindex_qa_email.asp"><img src="/images/gfx/join_footer.gif" border="0" WIDTH="123" HEIGHT="18"></a> 
+     <a href="http://www.hammacher.com/service.asp"><img src="/images/gfx/foot_cust_serv.gif" border="0" WIDTH="125" HEIGHT="18"></a>
+    <a href="http://www.hammacher.com/orderstatus.asp"><img src="/images/gfx/foot_order_stat.gif" border="0" WIDTH="88" HEIGHT="18"></a></td>
  </tr>
-	</tbody></table>
+</table>
 </td></tr>
- <tr valign="top"><td colspan="3"><img src="../images/gfx/shim_gold.gif" width="100%" height="1"></td></tr>
- <tr valign="top"><td colspan="3"><img src="../images/gfx/shim.gif" width="100%" height="15"></td></tr>
- </tbody></table>
-  <table width="760" border="0" cellspacing="0" cellpadding="0" align="left">
+ <tr valign="top"><td colspan="3"><img src="/images/gfx/shim_gold.gif" width="100%" height="1"></td></tr>
+ <tr valign="top"><td colspan="3"><img src="/images/gfx/shim.gif" width="100%" height="15"></td></tr>
+ </table>-->
+  <table width="760" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr valign="top">
-    <td><img src="../images/gfx/shim.gif" width="50" height="1">&nbsp;</td>
+    <td colspan="3"><img src="/images/gfx/shim.gif" width="6" height="15"></td>
+  </tr>
+  <tr valign="top">
+    
  	<td align="center" valign="top">
-      <a href="http://www.hammacher.com/toppicks/tp_top_picks_1.asp?catID=12" class="botnav1">Top Picks</a> | 
-      <a href="http://www.hammacher.com/testedbest/testedbest.asp?catID=7" class="botnav1">Tested Best</a> | 
-      <a href="http://www.hammacher.com/uniquely/uh_uniquely_1.asp?catID=8" class="botnav1">Uniquely Hammacher</a> | 
-     <a href="http://www.hammacher.com/gifts/gifts.asp?catID=3" class="botnav1">Gifts</a> | 
-      <a href="http://www.hammacher.com/specialvalues/specialvalues.asp?catID=13" class="botnav1">Special Values</a> |
-      <a href="../publish/GC00.asp" class="botnav1">Gift Certificates</a><br>
-      <a href="http://www.hammacher.com/corp_gift/Corporate_Sales.asp" class="botnav1">Corporate Gifts &amp; Incentives</a> |
-      <a href="http://www.hammacher.com/affiliate/index.asp" class="botnav1">Affiliate Program</a> | 
-      <a href="http://www.hammacher.com/order/unc_guar.asp" class="botnav1">Lifetime Guarantee</a> | 
-      <a href="http://www.hammacher.com/about_us/stores.asp" class="botnav1">Store Locations</a> |
-      <a href="http://www.hammacher.com/sitemap.asp" class="botnav1">Site Map</a>
+       <a href="http://www.hammacher.com/corp_gift/Corporate_Sales.asp" class="footer">Corporate Gifts &amp; Incentives</a> •
+      <a href="http://www.hammacher.com/affiliate/index.asp" class="footer">Affiliate Program</a> • 
+      <a href="http://www.hammacher.com/order/unc_guar.asp" class="footer">Lifetime Guarantee</a> <br>
+      <a href="http://www.hammacher.com/sfi/rules.asp" class="footer">Search For Invention</a> • 
+      <a href="http://www.hammacher.com/about_us/stores.asp" class="footer">Store Locations</a> •
+      <a href="http://www.hammacher.com/sitemap.asp" class="footer">Site Map</a> •
+      <a href="http://www.hammacher.com/order/privacy.asp" class="footer">Privacy Policy</a>
+      
        <br><br>
        
-      <span class="alttext3">Copyright © 2002 Hammacher Schlemmer &amp; Company, Inc. All rights reserved. </span>  <a href="http://www.hammacher.com/order/privacy.asp" class="botnav1">Privacy Policy</a>
+      <span class="alttext7">COPYRIGHT © 2003 HAMMACHER SCHLEMMER &amp; COMPANY, INC. ALL RIGHTS RESERVED. </span>
       <br>&nbsp;<br>
 	 </td>
-	  <td><img src="../images/gfx/shim.gif" width="100" height="1"></td>
   </tr>
 </tbody></table>
 <!--END FOOTER TABLE -->
