@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210153736id_/http%3A//www.fishbowlinventory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407062923id_/http%3A//www.fishbowlinventory.com/privacy.html) for the most accurate reproduction.*
 
 # Fishbowl Inventory - Inventory Control for QuickBooks Users
 
