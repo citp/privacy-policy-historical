@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimereports.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603025411id_/http%3A//crimereports.com/eprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimereports.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201051225id_/http%3A//crimereports.com/eprivacy.html) for the most accurate reproduction.*
 
 # Crimereports.com Privacy Policy
 
