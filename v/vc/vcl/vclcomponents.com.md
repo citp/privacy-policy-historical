@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vclcomponents.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203010339id_/http%3A//www.vclcomponents.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vclcomponents.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621143728id_/http%3A//www.vclcomponents.com/privacy.asp) for the most accurate reproduction.*
 
 # VCL Components - Delphi and C++ Builder Components
 
@@ -26,7 +26,7 @@ Please contact us at admin@vclcomponents.com for more information about our priv
 
 All trademarks are the sole property of their respective owners.
 
-[Usage Policy](https://web.archive.org/web/20021203010339id_/http%3A//www.vclcomponents.com/disclaimer.asp) | [Privacy Policy](https://web.archive.org/web/20021203010339id_/http%3A//www.vclcomponents.com/privacy.asp)
+[Usage Policy](https://web.archive.org/web/20030621143728id_/http%3A//www.vclcomponents.com/disclaimer.asp) | [Privacy Policy](https://web.archive.org/web/20030621143728id_/http%3A//www.vclcomponents.com/privacy.asp)
 
 Contact: [admin@vclcomponents.com](mailto:admin@vclcomponents.com)
 
