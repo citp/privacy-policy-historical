@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602003400id_/http%3A//aboutus.looksmart.com/corp.jhtml%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812011836id_/http%3A//aboutus.looksmart.com/about.jhtml%3Fdir%3Dcorp%26page%3Dprivacy) for the most accurate reproduction.*
 
-# LookSmart About Us
+# None
+
+October 2, 2002
 
 LookSmart has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the following LookSmart sites: [www.looksmart.com](http://www.looksmart.com/) and [listings.looksmart.com](http://listings.looksmart.com/). 
 
@@ -112,4 +114,5 @@ This policy may be revised over time as new features are added to the Web site. 
 
 **Contact Information**
 
-If you have any questions about this privacy policy or about LookSmart's information collection practices, please contact us at [privacy@looksmart.net](mailto:privacy@looksmart.net). 
+If you have any questions about this privacy policy or about LookSmart's information collection practices, please contact us at [privacy@looksmart.net](mailto:privacy@looksmart.net).   
+
