@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204180526id_/http%3A//tutor2u.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152019id_/http%3A//www.tutor2u.net/privacy.asp) for the most accurate reproduction.*
 
 # Tutor2u - Economics, Business Studies, Politics and Philosophy
 
@@ -14,18 +14,14 @@ Your use of this web site signifies your consent to us collecting and using pers
   
 You may provide personal information when communicating with us. if we provide opportunities to purchase goods or services from Tutor2u, uou may order a product or a service and give your name, e-mail address, delivery address, credit or debit card number and expiry date so that the order can be processed and your products (or services where appropriate) delivered to you. Sometimes you may be asked for your telephone number. If you enter a competition or promotion we will ask for your name, address and e-mail address. 
 
-We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic, including by using cookies (see below). 
+We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic, including by using cookies (see below).
 
-  
 It may be that some of the personal information you give us (for instance about your lifestyle or health) is sensitive personal data within the meaning of the Data Protection Act 1998\. Any such information ("sensitive information") will only be disclosed with your express consent. 
 
-  
 It may be that you provide to us details of credit or debit cards or bank accounts in order to make payments to us. Any such information ("confidential financial information") will be dealt with as described below. 
 
-  
 We may use personal information collected about you to personalise your visits to our web site and recommend goods or services to you. We also use the information to help us develop the design and layout of our web site to ensure that our sites are as useful and enjoyable as possible. 
 
-  
 We may use personal information collected about you to let you know about functionality changes to our web site or changes to our terms and conditions of use. 
 
   
@@ -40,7 +36,7 @@ When you review your account information or order products, Tutor2u.net will off
   
 A cookie is a piece of information that is stored on your computer's hard drive by your web browser. On revisiting this site our computer server will recognise the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our web site
 
-The pages of this web site are subject to copyright © Tutor2u.net 2001 
+The pages of this web site are subject to copyright © Tutor2u.net 2002
 
   
-Updated - August 2001 
+Updated - May 2002 
