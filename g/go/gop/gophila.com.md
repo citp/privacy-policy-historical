@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gophila.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601230604id_/http%3A//gophila.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gophila.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207165641id_/http%3A//gophila.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Greater Philadelphia Tourism Marketing Corporation
 
-The www.gophila.com Web site is owned and operated by the Greater Philadelphia Tourism Marketing Corporation (collectively referred to herein as “GPTMC,” "us" or "we").  GPTMC is dedicated to serving your needs. We know you care about your personal privacy and about the terms and conditions that govern your use of this website. Because we care about you, we have adopted the policies and practices described in this Privacy Policy and Conditions of Use.
+The www.gophila.com Web site is owned and operated by the Greater Philadelphia Tourism Marketing Corporation (collectively referred to herein as “GPTMC,” "us" or "we").  GPTMC is dedicated to serving your needs. We know you care about your personal privacy and about the terms and conditions that govern your use of this Web site. Because we care about you, we have adopted the policies and practices described in this Privacy Policy and Conditions of Use.
 
 **
 
@@ -46,6 +46,24 @@ Examples of the information we automatically collect and analyze include the Int
 
 GPTMC does not employ cookies on this Web site.  A cookie is a text file placed on your hard drive by some Web pages that you visit. When you visit the site again, the Web server retrieves the cookie and reconfigures itself based on your profile and preferences, such as previous pages you visited and any information you provide via a form. Cookies are used in some cases to target advertising and content towards your stated preferences.
 
+__
+
+> __
+>
+>> _
+>> 
+>> We use a third party to serve ads on our behalf across the Internet. The third party may also collect anonymous information about your visits to our Web site. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon or an Action Tag, which we place on various Web pages within our Web site that allows the third party to collect anonymous information. The third party may use information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, "[click here](http://www.atlasdmt.com/privacy/)."
+>> 
+>> The third party reports the anonymous data that they collect on our behalf back to us, which we link to our customer's personally identifiable information for the purposes of better serving you. When we merge this data, it is treated under this policy as personally identifiable information as described above."
+>> 
+>> _
+>> 
+>> __You can opt-out of these "Action Tags", once you opt-out your Web activity will no longer be tracked.   To read more about Atlas DMT's privacy policy and to opt-out visit _www.atlasdmt.com/privacy/_. ** **
+>> 
+>>  ****
+> 
+> ****
+
 **
 
 Restrictions on Disclosing Information To Third Parties
@@ -62,12 +80,12 @@ Links to Third Party Web Sites
 
 There are a few sections on the GPTMC Web site that are hosted by various partners of GPTMC. These sites maintain the look and feel of our Web site, and sometimes it may not be evident when a user is on one of these sections. These pages are governed by the partner's privacy policy and terms and conditions of use. Below is a list of our partners and links to their Web site privacy policies:
 
-  * ** WorldRes**
+  * **TravelHero**
 
- ****
-****
 
-When you click on on-line reservations or any of the “book it” icons, you will be transferred to WorldRes, our online hotel reservation system partner.  It will appear as if you are still on our Web site.  However, this section is controlled and operated by WorldRes.  Please review their privacy policy (<http://www.worldres.com/privacy.html>) for any and all transactions via the online reservation system.  Since WorldRes conducts e-commerce there is important information regarding credit card usage and other information contained in their privacy policy.
+
+
+When you click on on-line reservations or any of the “book it” icons, you will be transferred to TravelHero, our online hotel reservation system partner.  It will appear as if you are still on our Web site.  However, this section is controlled and operated by TravelHero.  Please review their privacy policy (http://www.travelhero.com/privacy.cfm) for any and all transactions via the online reservation system.  Since TravelHero conducts e-commerce there is important information regarding credit card usage and other information contained in their privacy policy.
 
 **
 
@@ -76,7 +94,7 @@ When you click on on-line reservations or any of the “book it” icons, you wi
 
 **
 
-When you enter the our events calendar, again it will appear as if you are still on our Web site, however this section is controlled and operated by the Greater Philadelphia Cultural Alliance ([http://www.philaculture.org](http://www.philaculture.org/)), which owns and operates phillyfunguide.com.  Their privacy policy is available at:  [ http://www.phillyfunguide.com/calendar/privacyPolicy.do;jsessionid=s4axbfy7a1](http://www.phillyfunguide.com/calendar/privacyPolicy.do;jsessionid=s4axbfy7a1).
+When you view the events calendar, again it will appear as if you are still on our Web site, however this section is controlled and operated by the Greater Philadelphia Cultural Alliance ([http://www.philaculture.org](http://www.philaculture.org/)), which owns and operates phillyfunguide.com.  Their privacy policy is available at:  [ http://www.phillyfunguide.com/calendar/privacyPolicy.do;jsessionid=s4axbfy7a1](http://www.phillyfunguide.com/calendar/privacyPolicy.do;jsessionid=s4axbfy7a1).
 
 GPTMC is also not responsible for the content or privacy policies of other Web sites to which it provides links.  Please review the privacy policies and/or the terms and conditions of each of these additional linked Web sites before providing any personal information.
 
