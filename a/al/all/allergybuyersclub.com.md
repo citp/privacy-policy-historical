@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allergybuyersclub.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207063705id_/http%3A//www.allergybuyersclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allergybuyersclub.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607072535id_/http%3A//www.allergybuyersclub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information from Allergy Buyers Club Home
 
@@ -46,4 +46,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Mercia Tapping, President AllergyBuyersClub.com 161 North Street Newtonville, MA 02460 Mercia@allergybuyersclub.com
+Mercia Tapping, President AllergyBuyersClub.com 161 North Street Newtonville, MA 02460 merciamail@[this.domain.name]
