@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402182559id_/http%3A//www.travelgrove.com/html/bottom_bar/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204040329id_/http%3A//www.travelgrove.com/html/bottom_bar/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Advertising Information
 
 **Currently, we do not store any of your personal information at Travelgrove.**  
 
@@ -32,7 +32,7 @@ _Online Surveys_
 Travelgrove Inc values opinions and comments from members, so we will frequently conduct online surveys. These surveys are entirely optional for all members. Typically, the information is aggregated and used to make improvements to Travelgrove.com and to develop appealing content, features and promotions for members. Survey participants are anonymous unless otherwise stated in the survey.
 
 _Cookies_  
-We currently do not use cookies. We will be using cookies for our member section as well as our advertiser section.
+In order to track whether you are a first time user or not we cookie everybody coming to the site. We do not store any personal information on this cookie. However, we will be using cookies for our member section as well as our advertiser section where we will nee to store limited personal information for your login, if you choose so.
 
 _Who will the information be shared with, if anyone?_  
 No data will be passed on to third parties whom you will be booking from.  
