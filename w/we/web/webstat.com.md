@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the webstat.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201033147id_/http%3A//www.webstat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstat.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611223725id_/http%3A//www.webstat.com/privacy.php) for the most accurate reproduction.*
 
 # WebSTAT
 
-|  |   
----|---  
 |  **Member Login:**  
 ---  
+Click [HERE](http://www.webstat.com/password.php) if you forgot your username and/or password.  
 **Webstat Options:**  
   
   
@@ -31,6 +30,4 @@ WebSTAT works with reputable third parties such as Sonar Network (Doubleclick), 
 If you have any questions/concerns about our privacy statement, feel free to contact us with [THIS FORM](http://www.webstat.com/email.php). Thank You!   
   
    
-  
-  
-Copyright 1998-2001 WebSTAT.COM, LLC   All rights Reserved.
+
