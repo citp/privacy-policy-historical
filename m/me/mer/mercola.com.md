@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607035932id_/http%3A//mercola.com/forms/security_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208081044id_/http%3A//www.mercola.com/forms/security_privacy.htm) for the most accurate reproduction.*
 
 # Security/Privacy Policy
 
@@ -36,7 +36,7 @@
 
 **Contact Information**
 
-> If users have any questions or suggestions regarding our privacy policy, please contact us at: [support](mailto:support@mercola.com)[@mercola.com](mailto:support@mercola.com)
+> If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/forms/contact.htm).
 
 * * *
 
