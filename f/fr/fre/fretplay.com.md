@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601145341id_/http%3A//www.fretplay.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203035926id_/http%3A//www.fretplay.com/privacy.shtml) for the most accurate reproduction.*
 
-# FretPlay - Faster tablature search
+# FRETPLAY : Privacy statement
 
-  
-[Fretplay.com](http://www.fretplay.com/) : Privacy statement
-
-  
 **Information Collection**  
 Sem Hadland AS is the sole owner of the information collected on Fretplay.com. Fretplay.com collects information from our users at several different points on our Web site. 
 
@@ -55,7 +51,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 **Security**  
 This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
 
-If users have any questions about the security at our Web site, users can send an email to hadland@encycmet.com. 
+If users have any questions about the security at our Web site, please use the contact info below. 
 
 **Supplementation of Information**   
 In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. 
