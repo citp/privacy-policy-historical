@@ -1,18 +1,7 @@
-> *The following text is extracted and transformed from the userfriendly.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205062410id_/http%3A//www.userfriendly.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userfriendly.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603194439id_/http%3A//www.userfriendly.org/privacypolicy) for the most accurate reproduction.*
 
 # UF - Privacy Policy
 
-[The Daily Static](http://www.userfriendly.org/static/)  
- [Archives](http://www.userfriendly.org/archives.html)  
-[Postcards](http://postcard.userfriendly.org/)  
-[Community](http://www.userfriendly.org/community/)  
- [Iambe](http://www.userfriendly.org/community/iambe/)  
-[Geekfinder](http://www.geekfinder.com/)  
-[UF Store](http://link.userfriendly.org/linkto/http://www.computergear.com/userfriendly.html)  
-[Comments Sign-up](http://ars.userfriendly.org/users/login.cgi)  
-[Become a Member](http://ars.userfriendly.org/users/choosesponsorlevel.cgi)  
-[Members Ad Free site!](http://members.userfriendly.org/)  
-[Advertise with UF](http://www.userfriendly.org/mediakit/index.html#rates)  
 | 
 
 **Privacy Policy of userfriendly.org**
