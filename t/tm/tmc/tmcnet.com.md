@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmcnet.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613230618id_/http%3A//www.tmcnet.com/tmcnet/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcnet.com privacy policy that was archived on 2000-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001016141814id_/http%3A//www.tmcnet.com/tmcnet/privacy.htm) for the most accurate reproduction.*
 
 # TMCnet.com Privacy Policy
 
