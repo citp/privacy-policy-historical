@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 1999-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991110111057id_/http%3A//www.commercebank.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206120300id_/http%3A//www.commercebank.com/info/Privacy.html) for the most accurate reproduction.*
 
 # Commerce Bank - Privacy Principles
 
-[](https://web.archive.org/web/19991110111057id_/http%3A//www.commercebank.com/index.html)  
+[](https://web.archive.org/web/20001206120300id_/http%3A//www.commercebank.com/index.html)  
   
   
   
@@ -13,7 +13,7 @@
 
 Your need for confidentiality and privacy is important to Commerce Bank. We respect your privacy and are committed to protecting information with the same care we utilize for all Commerce Bank transactions. 
 
-As a general policy, Commerce Bank does not automatically collect customer information from visitors to our web site. Any information that may be collected from consumer-initiated inquiries is used to assist us in returning information 
+As a general policy, Commerce Bank does not automatically collect personal information from visitors to our web site. We may use a "cookie" to better understand and serve our visitors. We do not collect personal information, nor is it used to identify you or your e-mail address. Any information that may be collected from consumer-initiated inquiries is used to assist us in returning information. In Internet Banking, we use a cookie to place a small text file on your hard drive. This cookie expedites the interactive process, and does not collect personal information, nor is it used to identify you or your e-mail address. 
 
 _Commerce Bank endorses the Privacy Principles adopted by the Bankers roundtable, the American Bankers Association, and the Consumer Bankers Association._
 
