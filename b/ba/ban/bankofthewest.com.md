@@ -1,200 +1,131 @@
-> *The following text is extracted and transformed from the bankofthewest.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205112100id_/http%3A//bankofthewest.com/in_pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofthewest.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604155035id_/http%3A//bankofthewest.com/in_pp.htm) for the most accurate reproduction.*
 
 # Bank of the West
 
-**How Bank of the West Protects your Privacy**  
-Bank of the West takes seriously our responsibility to protect the privacy of customers' financial information. Confidentiality has been a hallmark of banking for centuries. At Bank of the West, our employees treat information concerning your accounts in the same responsible, confidential way we want our own financial affairs treated. 
+Bank of the West uses this nonpublic personal information only for business purposes consistent with ethical banking practices and in compliance with applicable laws and regulations. We may share all of the information that we collect. 
 
-This privacy policy explains: 
+**Information Use by the Bank**
 
-  * How we protect your privacy when you visit this Bank of the West Bank Website.
-  * Our Privacy Policy to safeguard information we have about you and your accounts.
-  * Bank of the West's prohibition on sale of customer information to outside telemarketers.
-  * How you can make sure credit reports about you are accurate.
-  * How to avoid unwanted mail solicitations.
-  * How you can prevent confidential financial information about you from being used fraudulently by others.
+The Bank may use your nonpublic personal information as follows:
 
+_Within Bank of the West and Affiliated Companies:_
 
-
-* * *
-
-**Internet Privacy**
-
-**Q. Is my privacy protected if I visit Bank of the West's Website (www.bankofthewest.com) on the Internet?**  
-A. Yes. If you apply online for Bank of the West Bank products, the personal information you provide to us is encrypted using Secure Socket Layer (SSL) technology. 
-
-Also, for each visitor to our Web page, our Web server automatically recognizes only: 
-
-  * The consumer's Internet Service Provider (for example, America Online), but not your specific e-mail address. For instance, if your e-mail address is _"johndoe@hawaii.net,_ only the _hawaii.net_ part of the address is recognized. 
-  * Aggregate information on which pages consumers visit, but no information on pages visited by any individual consumer. The aggregate information we collect (for instance, how many "hits" on a particular Web page) is used for internal review to improve the content of our Web page, and is then discarded. 
+  * As a security measure, to prevent unauthorized persons from accessing your accounts. 
+  * To conduct business safely and soundly. We use customer information, for example, taken from loan applications to manage risk and ensure that we are prudent underwriters. 
+  * We may share information about our experience and transactions with you among the Bank's family of companies (BancWest Corporation and its affiliates including First Hawaiian Bank) as permitted by law. We may also share the other types of personal information we collect within the BancWest family of companies. 
+  * In satisfying legal requirements, such as for tax reporting as required by state and federal government. 
+  * In determining which products and services may best serve your needs. Some of these services, such as mortgage loan servicing, or products, such as credit cards, may be offered through our affiliate, First Hawaiian Bank. 
+  * We do not share medical or health information among our family of companies or with other third parties except to process transactions or to provide services you have requested. 
 
 
 
-Here's what we do with information volunteered by the consumer, such as survey information or information requests: 
+_With Unaffiliated Third Parties:_
 
-**E-Mail Address.** If you supply us with your e-mail address online when requesting information about a specific product or service, you will only receive the information that you requested when you provided us your e-mail address. 
+Bank of the West does not reveal specific account information or provide other personally identifiable information to unaffiliated companies for their independent use. We may disclose all of the information we collect, as described in "Types of Personal Information Collected" to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
 
-**eTime Banker/Personal Information:** If you enroll in our eTime Banker service and supply us with personal data (such as e-mail address, birthdate, income range or home ownership information), we may use this data to provide you with personalized information on products, services or special promotions we feel will be of interest to you. However, if you wish to be excluded from receiving such information by e-mail, we'll give you an opportunity to tell us this online. We will respect your wishes not to receive such e-mail. 
+_As Permitted by Law:_
 
-**Postal Mail Address.** If you supply us with your postal address on-line, you will only receive the information for which you provided us your address. 
+Banks may legally share customer account information or other personally identifiable information with unaffiliated companies when: 
 
-**Telephone Number.** If you supply us with your telephone number on-line, you may receive telephone contact from us with information regarding inquiries you have placed on-line. 
-
-* * *
-
-**Bank of the West Privacy Policy**
-
-We recognize the importance you place on your privacy and the confidentiality of your financial information. We want you to be informed of our policies to safeguard your privacy: 
-
-(1) We do all that we can to make sure that information we have about customers is accurate, and is accessible only by those employees actively engaged in dealing with you or your accounts. 
-
-(2) Other than the limited exceptions explained in this privacy policy, we do not share confidential customer information outside the Bank of the West family of companies. You don't need to request this confidentiality – it's our standard practice. 
-
-(3) We don't employ outside telemarketing companies to sell Bank of the West products and services, nor do we sell or give customer information to outside telemarketing companies to use to solicit business from you. 
-
-(4) We educate our employees about their responsibility to protect your privacy. 
-
-Here are answers to common questions you may have:  
+  * They assist by contract in providing Bank products and services, e.g., check printer and credit insurance. 
+  * Information sharing is in the normal course of business, e.g., with credit reporting agencies. 
+  * The law requires Bank cooperation, e.g., fraud investigation, subpoena, or a request by an authorized government regulator. 
+  * "Due diligence" is performed during a merger, acquisition or sale of a loan/lease portfolio. 
+  * A customer has earlier been informed of the possible disclosure of information for marketing or similar purposes and given an opportunity to decline ("opt-out"). 
 
 
-  
-**Our Information About You**
 
-**Q. Inside Bank of the West Bank, how do you control information about my accounts?**  
-A. Bank of the West's employees are informed of their responsibility to protect the confidentiality of customer information and are subject to discipline for violating this policy. Only employees actively engaged in the discharge of assigned duties involving customer information are authorized to access that information. 
+**Customer Privacy in Third Party Relationships**
 
-**Q. Why do you have information about me?**  
-A. We collect and use information about individual customers only: 
+When we provide customer information to a third party, as permitted by law, we insist - through a written agreement - that the third party maintain the confidentiality of your personally identifiable customer information.
 
-(1) To open and administer your accounts and provide superior service. 
+**Marketing of Bank of the West's Products and Services**
 
-(2) To help us provide you with additional products or services you might want to know about. Many people have told us they like getting information related to their interests or alerting them to unique products and services. 
+From time to time, the Bank may promote its products and services directly to customers. If you do not want to receive these offers, you may ask the Bank not to include you by following the "opt-out" procedures below.
 
-(3) To help us protect you and Bank of the West from financial loss. 
+**Ways to Limit the Bank's Use or Disclosure of Your Personal Information**
 
-In some cases, laws governing financial institutions require us to gather information. For example, federal regulations require that we obtain a Social Security number or Tax Identification Number for many types of accounts. 
+We at Bank of the West have developed this policy brochure because we want you to understand and trust our commitment to confidentiality and to further understand how we use personally identifiable information. If you have questions about the privacy of your information, please call 1 (800) 488-BANK (2265). If you are calling from the Santa Clara Valley of California, please call (408) 947-5030.
 
-We use information about you only in accordance with the principles set out in this Privacy Policy. 
+We will provide one privacy policy disclosure and opt-out form in the event of joint account relationships. One party may opt-out on behalf of all joint account holders. Once your request for an "opt-out" has been processed, it will remain in effect for the life of the account.
+
+**Opt-Out Procedures**
+
+To instruct the Bank not to: 
+
+  * Provide nonpublic information about you to unaffiliated companies offering products and/or services, 
+  * Share information from your applications or outside sources among our family of companies, or 
+  * Provide information to you about the Bank's products and services, 
+
+
+
+Complete the opt-out form and mail it to us as indicated. If you do not have the opt-out form, you may pick one up at your nearest branch or call 1 (800) 488-BANK (2265). If you are calling from the Santa Clara Valley of California, please call (408) 947-5030.
+
+Please allow us up to 30 days to process your request.
+
+ **Frequently Asked Questions**
+
+**How Bank of the West Protects your Privacy**
+
+At Bank of the West, trust is the basis of each customer relationship. We recognize your right to privacy. Our employees treat information concerning your accounts in the same responsible, confidential way we want our own financial affairs treated.
+
+ **Q. Is my privacy protected if I visit Bank of the West's Website (www.bankofthewest.com) on the Internet?**  
+A. Yes. If you apply online for Bank of the West products, the personal information you provide to us is encrypted using Secure Socket Layer (SSL) technology.
+
+Also, if you visit our Web page, our Web server automatically recognizes only: 
+
+  * Your Internet Service Provider, but not your specific e-mail address. For instance, if your e-mail address is "johndoe@aol.com," only the aol.com part of the address is recognized. 
+  * Aggregate information on which pages consumers visit, but no specific information on the individual consumer. The aggregate information we collect (for instance, how many "hits" on a particular Web page) is used for internal review to improve the content of our Web page, and is then destroyed. 
+
+**Q. What do you do with information that I volunteer, such as survey information or information requests?**  
+A. When you request information about a specific product or service, we will use the e-mail address, the postal address or the telephone number only to deliver the requested information.
+
+If you enroll in our eTimeBanker service and supply us with personal data (such as e-mail address, birth date, income range or home ownership information), we may use this data to provide you with personalized information on products, services or special promotions we feel will be of interest to you. However, if you wish to be excluded from receiving such information by e-mail, we'll give you an opportunity to tell us this online. We will respect your wishes not to receive such e-mail. 
+
+**Q. How can I insure that you will not share information about me in the future?**  
+A. If you do not want us to share your nonpublic personal information, if we choose to participate in any programs in the future, simply complete the "opt-out" form portion of your disclosure, tear it off, place a stamp on it, and place it in the mail.
+
+**Q. If I've already signed an "opt-out" form, do I have to sign another one?**  
+A. No. Your opt-out direction remains in place as long as your account is open.
+
+**Q. I have opened a new account with Bank of the West since I signed the "opt-out" form. Do I need to complete a new form to cover my new product or service?**  
+A. We attempt to apply your opt-out direction to all of your accounts at Bank of the West, to all joint account holders on those accounts, and to any new accounts you open, whenever possible. However, if the account on which you originally opted out has been closed, or if your name or address or other parties on your new account have changed, it may not be possible to match your old account and opt-out direction to your new account. We recommend that you complete a new opt-out form.
+
+**Q. Does this mean you will stop sending me junk mail?**  
+A. If you have chosen to opt-out, we will attempt to exclude you and other account holders in your household from our internal mailing and phone solicitation lists, whenever possible. However, it is not possible to exclude any account holders from receiving "statement stuffers" and similar types of materials. You should also be aware that Bank of the West is required to send you certain important types of information, such as change in terms notices, which might appear to be "junk mail" but actually isn't.
+
+**Q. I received several copies of your privacy policy disclosure. Why?**  
+A. If all of your accounts at Bank of the West are "linked" (i.e., all your accounts appear on one statement), you should receive only one copy of our privacy policy. However, if you have multiple accounts or receive multiple statements, you may receive a copy of our privacy policy in connection with each account.
+
+In some cases, laws governing financial institutions require us to gather information. For example, federal regulations require that we obtain a Social Security number or Tax Identification Number for many types of accounts.
 
 **Q. What can I do if I discover that information Bank of the West has is inaccurate?**  
 A. It's in your interest and ours to have accurate, current and complete information concerning you and your accounts. If you believe that we have erroneous information, please contact your Bank of the West Branch or call (800) 488-2265 or if in the San Jose Area call (408) 947-5030. We want to correct any inaccuracies right away. 
 
-* * *
-
-**Credit Report Information About You**
-
-**Q.Do you use information from consumer credit reports provided from outside the bank?**  
-A. Yes. It's standard banking industry practice to obtain information from reputable credit information reporting agencies. When we do, you are protected both by our own Privacy Policy and by the Fair Credit Reporting Act, a federal law. 
-
-We will notify you if we decline any application made by you and if we used a consumer credit report during the processing of your application. 
-
-We may also use information from credit reports to prescreen prospects for banking products and services. Federal law requires us to notify you whenever such reports have been used to solicit your business. You may request that credit reporting agencies remove your name from lists supplied to us for transactions you do not initiate. 
-
-**Q. What exactly is on these credit reports?**  
-A. Your credit report includes personal and financial information such as your account balances and your payment history for credit cards, mortgages or other consumer loans. If you don't make payments on time or miss a payment, your credit report may show that, even if you catch up on your payments later. Late payments and other "negative" information can remain on your credit report for up to 7 years; bankruptcies, for up to 10 years. 
-
-By law, an individual's credit report can be given to insurance companies, banks and others when needed to transact business with you. There are many uses for credit reports. For instance, those who make loans -- such as Bank of the West -- may refer to the reports to verify the credit-worthiness of borrowers. 
-
-To examine the status of your credit report: 
-
-  * Call or write each of the major credit bureaus and get a copy of your report. 
-  * If you spot a problem, promptly inform the credit bureau in writing. 
-
-
-
-The bureau must investigate the disputed entry and correct any errors. It's a good idea to let each of the major bureaus know if you find a problem in one report. 
-
-For a fee, each of the three national credit bureaus will supply you with a copy of your report. However, if you have been denied credit within the past 60 days because of information in your credit report, you are entitled to a free copy of that report. 
-
-Here is how to contact three of the larger national credit bureaus: 
-
-  * Equifax, Inc.  
-P.O. Box 740241   
-Atlanta, GA 30374-0241   
-(800) 997-2493   
-www.equifax.com 
-
-
-  * Trans Union Corporation  
-2 Baldwin Place  
-P.O. Box 1000  
-Chester, PA 19022  
-(800) 888-4213  
-www.tuc.com 
-
-
-  * Experian National Consumer Assistance Center  
-P.O. Box 2104  
-Allen, TX 75013-2104   
-(888) 397-3742  
-www.experian.com 
-
-
-
-**Q. Does Bank of the West provide credit information to credit reporting agencies?**  
-A. Yes. In accordance with standard banking industry practice, we share certain information about our customers with reputable credit reporting agencies, so creditors can verify the existence and condition of customers' accounts. 
-
-On occasion, an entity other than a credit-reporting agency – such as another financial institution or a business -- may ask us for credit information about an individual or business customer. For example, you may be applying for a loan at another bank or establishing a credit relationship with a business. In such instances, we will not provide information about you unless you have given your prior written authorization. 
-
-* * *
-
-**Use of Information About You Outside Bank of the West**
-
-**Q. Do you give information about customers to the government?**  
-A. We _only_ disclose customer information to the government:  
-(1) when we are required to do so by laws and regulations,  
-(2) when we are served with a subpoena or court or administrative order, or  
-(3) when a customer authorizes us to do so. 
-
 **Q. What happens if I'm involved in a lawsuit and bank records are subpoenaed?**  
-A. If you are involved in a lawsuit, we will only disclose information about you or your accounts to third-party litigants when we are required to do so during a court proceeding. 
+A. If you are involved in a lawsuit, we will only disclose information about you or your accounts to third party litigants when we are required to do so during a court proceeding.
 
 **Q. Do you give information about me to anyone else outside Bank of the West's family of companies?**  
-A. Our policy is not to share specific customer information with independent companies for any purpose not connected with financial products and services. 
+A. Like most banks, Bank of the West contracts with outside companies to provide support services such as data processing, check printing, insurance products and statement mailings. These vendors are required to treat such customer information confidentially and use the information only for the specific bank purpose stated. Vendors are prohibited from reusing or selling customer information.
 
-Like most banks, Bank of the West contracts with outside companies to provide support services such as data processing, check printing, insurance products and statement mailings. These vendors are required to treat such customer information confidentially and use the information only for the specific bank purpose stated. Vendors are prohibited from reusing or selling customer information. 
+We also may share certain account and customer information among the legal entities that comprise the Bank of the West family of companies. These entities may use the information to help identify additional products or services that you might want to know about. 
 
-We also may share account and customer information among the legal entities that comprise the Bank of the West family of companies. These entities may use the information to help identify additional products or services that you might want to know about. 
+To collect a customer's unpaid debts, we may also exchange information with financial institutions and other companies, in accordance with standard banking industry practice, to verify the existence and condition of customers' accounts. 
 
-To collect a customer's unpaid debts, we may also exchange information with financial institutions and other companies, in accordance with standard banking industry practice, to verify the existence and condition of customers' accounts. We do not share specific personal customer information with independent companies for any other purpose without the customer's consent. 
+We do not share nonpublic personal customer information with independent companies for any other purpose without the customer's consent.
+
+**Q. Do you sell my information to telemarketing companies?**  
+A. We do not employ telemarketing companies to sell Bank of the West products and services, nor do we sell or give customer information to telemarketing companies to use to solicit business from you.
 
 **Q. May I request that you not send product information to me or share information about me with companies within the Bank of the West family?**  
-A. The law permits us to share within the Bank of the West family of companies and with credit reporting agencies information concerning a customer's account history and experiences with Bank of the West. However, if you wish to be excluded from:   
-(1) Offers of products or services by mail, and/or  
-(2) Sharing of **other** information about you within the Bank of the West family of companies, please write: 
+A. This law permits us to share within the Bank of the West family of companies and with credit reporting agencies information concerning a customer's account history and experiences with Bank of the West. However, if you wish to be excluded from:
 
-Bank of the West Bank  
-Marketing Department  
-1450 Treat Blvd.  
-Walnut Creek, CA 94596 
+  1. Offers of products or services by mail, and/or  
 
-While this may mean you might not receive product information of interest to you, we will respect anyone's request not to receive such information by mail. (Of course, we will continue to send you routine statements and information concerning your existing accounts.) 
-
-* * *
-
-**Protect Yourself From Fraud**
-
-**Q. How can I prevent financial information about me from being used fraudulently?**  
-A. Here are some suggestions: 
-
-  * Never give your credit card or bank account number to any unsolicited caller who is unknown to you and seeks to sell you something or offers you a prize. 
-  * Memorize your personal identification number (PIN) for ATM transactions and other banking business. Keep it separate from your card. Never use your Social Security number as a password. 
-  * Do not put your address, phone number, or other personal information that does not appear on the front of your credit card on a credit card receipt. 
+  2. Sharing of other information about you within the Bank of the West family of companies; 
 
 
 
-* * *
+You should complete and return the opt-out form. 
 
-**Unwanted Mail Solicitations**
-
-**Q. I get too many mail solicitations from all over the country. Is there anything I can do about it?**  
-A. While it's impossible to entirely control who directs mail offers to you, you can take steps to reduce unwanted offers, safeguard your privacy and sit in the information driver's seat. 
-
-The information above explains how to contact Bank of the West to request to be excluded from our mail lists. If you wish to have your name removed from other mailing lists, send a written "do not mail" request with your name, address and Social Security number to: 
-
-Mail Preference Service  
-c/o Direct Marketing Association  
-P.O. Box 9008  
-Farmingdale, NY 11735-9008
-
-The Direct Marketing Association will alert its member companies of your wishes. But bear in mind, the DMA informs only its members. Non-members won't be aware of your request. 
+While this may mean you might not receive product information of interest to you, we will respect your request not to receive such information by mail. (Of course, we will continue to send you routine statements and information concerning your existing accounts.) 
