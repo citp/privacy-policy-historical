@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statebankoftravancore.com privacy policy that was archived on 2002-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020417032322id_/http%3A//statebankoftravancore.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statebankoftravancore.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208031135id_/http%3A//statebankoftravancore.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -25,4 +25,4 @@ You can correct factual errors in your personally identifiable information by se
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please email us at [dgmcomp@sbt.co.in](mailto:CEA@ce.org)
+Should you have other questions or concerns about these privacy policies, please email us at [dgmcomp@sbt.co.in](mailto:dgmcomp@sbt.co.in)
