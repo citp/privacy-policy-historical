@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602142142id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203010543id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KTVB.COM | Idaho News & Weather | Idaho's #1 website
 
 KTVB.COM Privacy Policy   
   
-**Updated as of June 19, 2002**
+**Updated as of October 14, 2003**
 
 This Privacy Policy discloses the general privacy practices for the Belo Interactive web sites, including **KTVB.com**. Belo Interactive, Inc. (“Belo Interactive”) is a subsidiary of Belo Corp. 
 
@@ -52,6 +52,14 @@ The Site may offer forums, message boards, or chat rooms as one of the services 
 
 Our Sites may operate as part of a larger group of sites, and may carry co-branded pages.  In addition, other sites may use the Site’s or Belo Interactive’s name.  Since Belo Interactive does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of such third parties, and Belo Interactive shall not be responsible for the use or dissemination of your private information by such parties.  Therefore, we encourage you to ask questions and review those parties’ privacy policies before you disclose your Personal Information to others. 
 
+### Third Party Advertising
+
+We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+### Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
   
 
 
@@ -81,7 +89,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure.  You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1.                  Enter (or click) [http://signin. **KTVB**.com](https://web.archive.org/web/20030602142142id_/http%3A//www.ktvb.com/registration/signin.ktvb.com) in your browser.
+1.                  Enter (or click) [http://signin. **KTVB**.com](https://web.archive.org/web/20031203010543id_/http%3A//www.ktvb.com/registration/signin.ktvb.com) in your browser.
 
 2.                  Sign in by entering your e-mail address and password.  Your account information will then be displayed.
 
@@ -99,4 +107,4 @@ If you have any questions or comments about our Privacy Policy, please e-mail us
 
 ### Effective Date and Changes
 
-This Privacy Policy is effective as of June 19 **,** 2002.  Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page.  Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
+This Privacy Policy is effective as of October 14, 2003.  Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page.  Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
