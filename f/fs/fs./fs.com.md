@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206064648id_/http%3A//fs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610183041id_/http%3A//fs.com/privacy.cfm) for the most accurate reproduction.*
 
 # Fourth Shift - Fourth Shift Privacy Statement
 
@@ -71,10 +71,10 @@ We'd like our Privacy Policy to serve as a model for the industry. For informati
 ---  
 | 
 
-"Fourth Shift helps us identify issues before they can escalate to problems, and allows our users to pull the reports they need without the help of IT. Our employees have become very comfortable with Fourth Shift." 
+“Thanks for the VisiBar class. Since I have been back, I have written a couple of new functions and made changes to others. You did an excellent job teaching the class and I would recommend it to anyone using VisiBar. 
 
-VisiBar acts as a data conduit between Fourth Shift and Apothecary's Oracle-based White Carousel software, and ensures that up to 500 orders a day are picked and filled accurately and efficiently. View the Apothecary case study to find out how.   
-_\- David Kramer Vice President of Operations, Apothecary Products, Inc_
+I would also like to mention that everyone at SoftBrands made me feel comfortable. I was a little worried about the class and I wasn't sure if I would understand it. Now looking back on that, my worries were for nothing.”   
+_\- Gaylord Jones , Selee Corporation_
 
 |   
 [](https://web.archive.org/successes/caseStudies.cfm)
