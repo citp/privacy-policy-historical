@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.va.us privacy policy that was archived on 2000-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000408223740id_/http%3A//www.vipnet.org/vipnet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.va.us privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203195900id_/http%3A//www.vipnet.org/vipnet/privacy.html) for the most accurate reproduction.*
 
 # Virginia Information Providers Network Authority
 
@@ -27,6 +27,10 @@ _**
 For each visitor, we do collect information about the Internet Protocol (IP) address, type browser used, the date and time of the visit, and the IP addresses of the locations to which the visitor linked during his or her visit to our Web site. This information is strictly used for statistical reporting purposes. 
 
 We collect, retain and use personal information about our customers only when they volunteer to subscribe to a VIPNet premium service. We only collect, retain and use personal information where we believe it is essential (and allowed by law) to administer our business and to provide products, services and other opportunities requested by our customers.
+
+**_Use of "Cookies"_**
+
+In certain applications user information is stored as "cookies", which are then sent back and stored on the user's computer. Any application or web page that uses cookies will identify itself as such. This information is handled in the same way as other user information obtained by VIPNet. No user information is gathered through cookies except for that needed to run the specific application.
 
 **_
 
@@ -75,4 +79,4 @@ Richmond, VA 23219
 or  
 [CDoss@VipnetBoard.state.va.us](mailto:%20CDoss@VipnetBoard.state.va.us)
 
-[](https://web.archive.org/web/20000408223740id_/http%3A//www.vipnet.org/vipnet/index.html)[](https://web.archive.org/cgi-bin/feedback)
+[](https://web.archive.org/web/20001203195900id_/http%3A//www.vipnet.org/vipnet/index.html)[](https://web.archive.org/cgi-bin/feedback)
