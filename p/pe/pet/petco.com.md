@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602194512id_/http%3A//www.petco.com/privacy.asp%3Fwebt%3D0%26cmLink_ID%3Dswft0011) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203122146id_/http%3A//www.petco.com/privacy.asp%3Fwebt%3D0%26cmLink_ID%3Dswft0011) for the most accurate reproduction.*
 
 # PETCO.com - Privacy Concerns and Issues
 
@@ -88,7 +88,7 @@ PETCO.com sends registered users regular newsletters and occasional promotional 
 
   
 **Updating or Correcting Your Information**  
-If you need to change or correct some of the information you provided PETCO.com, you can send an email specifying the modifications to [cs@orders.petco.com](mailto:cs@orders.petco.com). Or you can edit the information yourself by visiting "My PETCO." 
+If you need to change or correct some of the information you provided PETCO.com, you can [send an email](https://web.archive.org/web/20031203122146id_/http%3A//www.petco.com/corpinfo_contact.asp) specifying the modifications. Or you can edit the information yourself by visiting "[My Account.](https://web.archive.org/web/20031203122146id_/http%3A//www.petco.com/mypetopia.asp)" 
 
   
 **Changes to Our Privacy Policy**  
@@ -96,6 +96,6 @@ PETCO.com's privacy policy may be modified from time to time. Notices of changes
 
   
 **Contacting Us**  
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, email us at [cs@orders.petco.com](mailto:cs@orders.petco.com). 
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, [send us an email](https://web.archive.org/web/20031203122146id_/http%3A//www.petco.com/corpinfo_contact.asp). 
 
 **»**back to top
