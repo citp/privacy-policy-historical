@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402033522id_/http%3A//www.tamhsc.edu/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212092049id_/http%3A//www.tamhsc.edu/web/privacy.php) for the most accurate reproduction.*
 
 # HSC Privacy Statement
 
@@ -41,6 +41,10 @@ SERVER LOG INFORMATION: The following information may be collected from server l
   * Protocol - The transport protocol and version used
 
 
+
+## Security Policy
+
+See the [HSC Policy on the Security of Information Resources](https://web.archive.org/facultystaff/rules/001033.php) for more information. 
 
 ## Open Records Policy
 
