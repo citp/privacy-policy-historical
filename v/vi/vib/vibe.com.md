@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602213045id_/http%3A//www.vibe.com/new/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203185742id_/http%3A//vibe.com/new/about/privacy.html) for the most accurate reproduction.*
 
 # vibe.com: Vibe Magazine Online
 
