@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005033id_/http%3A//www.compusa.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629081352id_/http%3A//www.compusa.com/privacy.asp) for the most accurate reproduction.*
 
 # CompUSA.com - Privacy and Security
 
