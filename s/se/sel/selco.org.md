@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selco.org privacy policy that was archived on 1999-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991201195653id_/http%3A//selco.org/selco/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selco.org privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605185648id_/http%3A//selco.org/selco/privacypolicy.asp) for the most accurate reproduction.*
 
 # SELCO Credit Union: Privacy Policy
 
@@ -38,7 +38,7 @@ We do not control the privacy policies of our business partners, advertisers, sp
 **Your Consent**  
 By using SELCO Credit Union's web site, you consent to the collection and use of nonpersonal information by SELCO Credit Union. If we decide to change our privacy policy, we will post those changes on this page, so you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
 
-If you have any questions that are not answered in this section, please fill out our [feedback form](https://web.archive.org/web/19991201195653id_/http%3A//selco.org/selco/feedback.asp).
+If you have any questions that are not answered in this section, please fill out our [feedback form](https://web.archive.org/web/20000605185648id_/http%3A//selco.org/selco/feedback.asp).
 
 **Tell Us What You Think**  
 SELCO Credit Union welcomes your questions and comments about privacy. Please send email to [Information Services](mailto:info@selco.org?Subject=Privacy%20Policy%20Feedback).
