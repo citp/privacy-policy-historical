@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2002-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021128192737id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614144714id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
 
 # U.S. Coast Guard Disclaimer
 
-**UNITED STATES DEPARTMENT OF TRANSPORTATION  
-U.S. COAST GUARD**
+**UNITED STATES COAST GUARD**
 
 **DISCLAIMER AND LIMITATION OF LIABILITY**
 
@@ -13,15 +12,15 @@ U.S. COAST GUARD**
 
 **DISCLAIMER AND LIMITATION OF LIABILITY**
 
-This web site and the information it contains is provided as a public service by the U.S. Department of Transportation (DOT) and the U.S. Coast Guard. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for other like purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution.
+This web site and the information it contains is provided as a public service by the U.S. Coast Guard. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for other like purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution.
 
 **RESTRICTION OF LIABILITY**
 
-The DOT and U.S. Coast Guard make no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this web site and expressly disclaims liability for errors and omissions in the contents of this web site. No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this web site or its hyperlinks to other Internet resources. Reference in this web site to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by DOT or the U.S. Coast Guard.
+The U.S. Coast Guard make no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this web site and expressly disclaims liability for errors and omissions in the contents of this web site. No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this web site or its hyperlinks to other Internet resources. Reference in this web site to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the U.S. Coast Guard.
 
 **OWNERSHIP**
 
-Information presented on this web site is considered public information and may be distributed or copied. However, all information submitted to DOT and the U.S. Coast Guard via this site shall be deemed and remain the property of DOT and the U.S. Coast Guard, except those submissions made under separate legal contract. DOT and the U.S. Coast Guard shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to DOT and the U.S. Coast Guard through this site.
+Information presented on this web site is considered public information and may be distributed or copied. However, all information submitted to the U.S. Coast Guard via this site shall be deemed and remain the property of the U.S. Coast Guard, except those submissions made under separate legal contract. The U.S. Coast Guard shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to the U.S. Coast Guard through this site.
 
 * * *
 
@@ -47,16 +46,14 @@ _**If You Send Us E-mail**_
 
 You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other government employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
 
-_**Links to Other Sites**_
+_**Link Policy**_
 
 Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
 
-[U.S. Coast Guard Internet Link Policy](https://web.archive.org/web/20021128192737id_/http%3A//www.uscg.mil/link.html)
-
   
-[USCG Home Page](http://www.uscg.mil/welcome.html)  
+[USCG Home Page](http://www.uscg.mil/)  
 [Customer Accessibility](http://www.uscg.mil/access/access.html)  
 Maintained by Coast Guard Media  
 [Questions/comments about US Coast Guard](http://www.uscg.mil/mailform/dist-mail.html)
 
-Page Updated 12 June 2002
+Page Updated 30 March 2004
