@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natinst.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618001652id_/http%3A//ni.com/legal/privacy/unitedstates/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natinst.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207000844id_/http%3A//www.ni.com/legal/privacy/unitedstates/us) for the most accurate reproduction.*
 
 # National Instruments Privacy Statement - Legal Information - National Instruments
 
