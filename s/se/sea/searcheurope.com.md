@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207122102id_/http%3A//searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004013942id_/http%3A//www.searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
 
-# Search Europe > Privacy Policy
+# Search Europe
 
 **Privacy Statement for Search Europe** SearchEurope.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Search Europe.
 
@@ -33,12 +33,15 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [info@searcheurope.com](mailto:info@searcheurope.com)
+  1. You can send email to [info@searcheurope.com](mailto:info@searcheurope.com?subject=Re%20Search%20Europe)  
+
 
  **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [info@searcheurope.com](mailto:info@searcheurope.com)
+  1. email: [info@searcheurope.com](mailto:info@searcheurope.com?subject=Re%20Search%20Europe)  
+
 
  **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Antoine Zammit SearchEurope.com, Inc. 5756 Descartes Circle Boynton Beach,  FL 33437, USA info@searcheurope.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact SearchEurope.com, Inc. 5756 Descartes Circle Boynton Beach,  FL 33437, USA [info@searcheurope.com](mailto:info@searcheurope.com?subject=Re%20Search%20Europe)  
+
