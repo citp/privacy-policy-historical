@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607053855id_/http%3A//fusemail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204081634id_/http%3A//www.fusemail.com/privacy.html) for the most accurate reproduction.*
 
 # FuseMail
 
