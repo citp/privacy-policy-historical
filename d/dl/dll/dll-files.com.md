@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416004054id_/http%3A//dll-files.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603120305id_/http%3A//www.dll-files.com/privacy.shtml) for the most accurate reproduction.*
 
 # www.dll-files.com - Privacy Policy
 
@@ -10,11 +10,11 @@
 * * *
 
   
-
+We have a special Privacy Policy at our 24/7 Livesupport. [Privacy Policy for 24/7 Live Computer Support](http://www.liverepair.com/customization/LSC-1-55/tekdesk/privacy.asp). 
 
 This is the web site of **www.dll-files.com**.
 
-To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20030416004054id_/http%3A//dll-files.com/contact.shtml)
+To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20040603120305id_/http%3A//www.dll-files.com/contact.php)
 
 For each visitor to our Web page, our Web server automatically recognizes the following:
 
@@ -26,7 +26,7 @@ With respect to cookies: We do not set any cookies.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20030416004054id_/http%3A//dll-files.com/contact.shtml).
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20040603120305id_/http%3A//www.dll-files.com/contact.php).
 
 From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
@@ -43,5 +43,34 @@ If you feel that this site is not following its stated information policy, you m
 * * *
 
   
-Some words from our sponsors  
-[](http://dbbsrv.com/refer/11607/10001821)
+  
+
+
+* * *
+
+**recommended software** | 
+
+## WinTasks 4 Professional
+
+**Lists DLLs used by any application with user friendly names and built-in descriptions**  
+WinTasks lists all running processes including spywares and invisible background processes. With WinTasks you can easily find out which DLLs are used by a particular process and you also get detailed descriptions for all DLLs. 
+
+Most computer users are willing to spend hundreds of dollars on expensive hardware to get a system capable of running the latest game, as well as playing DVD movies or MP3 music. However, with the right tools, you can make your system run both faster and more smoothly within minutes. Efficient resource and task management is absolutely critical if you want to get the most out of your hardware. WinTasks 4 Professional will not only help you boost overall system performance, but also will give you complete control over resources and processes, allowing you to improve everything from security to start up times with only a few clicks. 
+
+[Click here to get more information...](http://www.lidownloads.com/partners/sites/dll-files/wintasks/)  
+  
+---|---  
+  
+**recommended add-on software** | 
+
+## SpeedUpMyPC \- Increase System Speed and Performance Today
+
+Are you tired of crashes, slow Internet connections and applications that run out of resources every 5 minutes? **SpeedUpMyPC is a new powerful system utility from LIUtilities Inc that helps you get the most out of your computer without being a Windows expert.** SpeedUpMyPC can free up memory and other resources. It can optimize your internet connection, reassign CPU resources to improve performance, prevent crashes and reduce startup times considerably. Get SpeedUpMyPC today and **improve your system performance in minutes.** [Read More About SpeedUpMyPC Now...](http://www.lidownloads.com/partners/sites/dll-files/speedup/)  
+---|---  
+  
+
+
+* * *
+
+[  
+](http://ads.vesperexchange.com/clickme?869427:80095:825096612)[](http://www.vesperexchange.com/signup.php3?referrer=869427)
