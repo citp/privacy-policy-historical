@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2001-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010201160300id_/http%3A//nyhabitat.com/us/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101044950id_/http%3A//nyhabitat.com/us/privacy/privacy.htm) for the most accurate reproduction.*
 
 # New York Habitat - Privacy statement
 
 |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---  
-|   
+[](https://web.archive.org/) |   
   
 * * *
 
@@ -13,7 +13,7 @@
 
 **_Privacy Statement_**  
   
-**OUR COMMITMENT TO PRIVACY:**  
+**OUR COMMITMENT TO PRIVACY & RELIABILITY :**  
   
 | 
 
@@ -27,12 +27,19 @@ Email address
 Phone and Fax number
 
 
-|   
+| 
+
+**The BBBOnLine Reliability seal program** is the Better Business Bureau's system's reliability assurance program for the World Wide Web. Its mission is to help Web users find reliable, trustworthy businesses on-line and to help reliable businesses identify themselves as such, all via voluntary self-regulatory programs that help avoid government regulation of the Internet. 
+
+New York Habitat is a member of the Better Business Bureau in good standing. Displaying the BBBOnLine Reliability seal on our site gives New York Habitat customers the assurance that will stand behind its service. 
+
+| [](http://www.bbbonline.org/cks.asp?id=10010131129112469)  
+---|---  
 | 
 
 We use the information you provide about yourself when placing a request only to complete that request. **We do not share this information with outside parties except to the extent necessary to complete that order**.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+We use return email addresses to answer the emails we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
 You can register with our website if you would like to receive specific information as well as general updates on company news and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
 
@@ -56,18 +63,16 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 |   
 | 
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information on our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If and when it is discovered that a registration form or any other information has been submitted by an individual under the age of 13, New York Habitat deletes said information immediately.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information on our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If and when it is discovered that a registration form or any other information has been submitted by an individual under the age of 13, New York Habitat deletes it immediately.
 
 |   
 |   
 | 
 
-Should you have other questions or concerns about these privacy policies, please call us at **212.255.8018** or send us an email at [**privacy@nyhabitat.com**](mailto:privacy@nyhabitat.com). 
+Should you have other questions or concerns about these privacy policies, please call us at **212.255.8018** or send us an email to [**privacy@nyhabitat.com**](mailto:privacy@nyhabitat.com). 
 
 |   
   
 * * *  
   
-Copyright ©2000 New York Habitat VLF Inc.  
-307 Seventh Avenue Suite 306, New York, NY 10001   
-Phone **212.255.8018**   Fax 212.627.1416  [rent@nyhabitat.com](mailto:rent@nyhabitat.com)
+[info@nyhabitat.com](mailto:info@nyhabitat.com) | [Feedback](http://www.nyhabitat.com/feedback.php3) | [webmaster@nyhabitat.com](mailto:webmaster@nyhabitat.com) | Phone: **(212) 255-8018** Fax: (212) 627-1416  Copyright ©2001 New York Habitat, 307 Seventh Avenue, Suite 306, New York, NY 10001. USA.
