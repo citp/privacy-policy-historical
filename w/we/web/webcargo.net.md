@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208223230id_/http%3A//www.webcargo.net/webcargo/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406072221id_/http%3A//www.webcargo.net/webcargo/privacy.php) for the most accurate reproduction.*
 
 # WEBCARGO | Privacy Policy
 
@@ -113,4 +113,4 @@ Know the risks.
 
 When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name or email address on a web page or any other medium, such information may be collected, used, and further disclosed by others outside WEBCARGO.net . Accordingly, if you do not want your personal information to be available to others arising from such activities you should not participate in such activities or you should limit the personal information you make available.   
   
-Copyright © 2004 WEBCARGO, Inc. All rights reserved. All other trademarks are the property of their respective owners.
+Copyright © 2005 WEBCARGO, Inc. All rights reserved. All other trademarks are the property of their respective owners.
