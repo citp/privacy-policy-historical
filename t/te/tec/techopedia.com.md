@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2002-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021101163320id_/http%3A//www.techopedia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2003-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030115074223id_/http%3A//www.techopedia.com/privacy.asp) for the most accurate reproduction.*
 
 # FreeTechMail – IT Newsletters – Providing Free Technology News to Your Mailbox
 
