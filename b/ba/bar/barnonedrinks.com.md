@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619184518id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206231200id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
 
 # Learn more about Bar-None!
 
   
-Slow connection? [Netsetter](http://www.commission-junction.com/track/track.dll?AID=168571&PID=287834&URL=http%3A%2F%2Fwww%2Enetsetter%2Ecom%2Freg%2Faffutilitycj%2Easp) will help you surf up to 78% faster... and it's Free!  
+Learn cool bar tricks, buy [Cheryl Charming's new book](http://www.amazon.com/exec/obidos/ASIN/0609805088/barnonedrinkreci) today!  
   
 **_Bar-None Info_**  
   
@@ -41,7 +41,7 @@ Our site generally provides users the opportunity to opt-out of receiving commun
 
 This site also gives users the option of changing and modifying information previously provided.
 
-You can change your existing information in our database or choose to be removed from any or all further contact by sending email to [userconfig@barnonedrinks.com](mailto:userconfig@barnonedrinks.com). In the near future, this will also be available from our user config page. 
+You can change your existing information in our database or choose to be removed from any or all further contact by sending us email at the address at the bottom of this page. In the near future, this will also be available from our user config page. 
 
 ### Disclaimer
 
@@ -53,7 +53,7 @@ This site contains links to other sites. **Bar-None Drink Recipes** is not respo
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-> Bar-None Drink Recipes 2598A Rosstown Road Nanaimo, B.C. Canada V9T 3S1 privacy@barnonedrinks.com
+> Bar-None Drink Recipes 2598A Rosstown Road Nanaimo, B.C. Canada V9T 3S1
     
     
     
