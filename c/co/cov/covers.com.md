@@ -1,11 +1,25 @@
-> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607150533id_/http%3A//www.covers.com/csi/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211150716id_/http%3A//covers.com/about/privacy.asp) for the most accurate reproduction.*
 
-# sports gambling strategy - online sport betting picks
+# online sports betting odds, lines, gambling free picks
 
+[](http://www.covers.com/progs/banman/banman.asp?Task=Click&ZoneID=2&CampaignID=210&AdvertiserID=26&BannerID=378&SiteID=0&RandomNumber=62553)  
+
+
+|  |  | Covers.com's Privacy Statement  
+We understand and respect the importance of your privacy.  
+---  
   
-Your privacy is important to us. At covers.com, we are committed to undertaking reasonable measures to protect the privacy, accuracy and reliability of your personal information and to protect such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Please read the following description of our policies and practices regarding your personal information.
+
+
+[](http://www.covers.com/progs/banman/banman.asp?Task=Click&ZoneID=3&CampaignID=213&AdvertiserID=22&BannerID=383&SiteID=0&RandomNumber=84469)  
+
+
+Your privacy is important to us. At covers.com, we are committed to undertaking reasonable measures to protect the privacy, accuracy and reliability of your personal information and to protect such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Please read the following description of our policies and practices regarding your personal information. 
 
   * We may request personal information from visitors such as name, home address, e-mail address, age, income, interests and gender for purposes such as newsletters, contests, opinion polls, and registration, and for participation in other interactive online activities. We do not request sensitive personal information, such as racial or ethnic origin or health or medical data. We will NOT share mailing list information with other businesses.
+
+
+  * In some sections of our site, particularly the posting forum, you will have a choice as to whether your name, location, and/or e-mail address are published alongside submissions or posts you have made to the site. If you choose to publish this information you should be aware that other people or companies _not affiliated with covers.com_ could use it to contact you or place you on their own mailing lists. Covers.com cannot be held responsible for any such use of your personal information if you have chosen to make it public.
 
 
   * From time to time, we may place a "cookie" on your computer. A cookie is a file written to your computer's hard drive that records certain technical information about your Internet usage, such as your IP address, browser type, or domain name. Also, if you submit personal information to our web site (such as your name, interests or preferences), we may use cookies to keep track of such information so that you will not need to reenter this information during subsequent visits. We use cookies to customize delivery of our web site content and advertisements. You may set your Internet browser preferences to notify you when you receive a cookie or decline acceptance of cookies. If you decline acceptance of cookies, however, you may experience less than optimal performance of our web site.
@@ -18,4 +32,6 @@ Your privacy is important to us. At covers.com, we are committed to undertaking 
 
 
 
-Please contact us at [feedback@covers.com](mailto:feedback@covers.com) if you have any questions or comments about our use of personal information.
+Please contact us at [feedback@covers.com](mailto:feedback@covers.com) if you have any questions or comments about our use of personal information.  
+  
+[Send this page to a friend](https://web.archive.org/about/send.asp)
