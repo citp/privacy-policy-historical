@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803015956id_/http%3A//80stees.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607192446id_/http%3A//www.80stees.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
