@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nis-store.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203194807id_/http%3A//www.nis-store.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nis-store.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609110622id_/http%3A//www.nis-store.com/privacy.html) for the most accurate reproduction.*
 
 # NIS Web Shop - Privacy Policy
 
@@ -21,11 +21,11 @@ Alcone cooperates with law enforcement agencies in identifying those who engage 
 You can view and update your information on this Extranet by going to:   
 http://nis-store.com. 
 
-Please refer to our [Terms and Conditions](https://web.archive.org/web/20031203194807id_/http%3A//www.nis-store.com/terms.html), and other terms and conditions governing the use of this Extranet.
+Please refer to our [Terms and Conditions](https://web.archive.org/web/20040609110622id_/http%3A//www.nis-store.com/terms.html), and other terms and conditions governing the use of this Extranet.
 
-Please keep in mind that business and web extranets evolve over time. This means that this Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20031203194807id_/http%3A//www.nis-store.com/terms.html)
+Please keep in mind that business and web extranets evolve over time. This means that this Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20040609110622id_/http%3A//www.nis-store.com/terms.html)
 
-are subject to change without prior notice. Information that we gather is subject to this Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20031203194807id_/http%3A//www.nis-store.com/terms.html) that is in effect at the time. Your visit to this Extranet after changes are made to our Privacy Policy and our [ Terms and Conditions](https://web.archive.org/web/20031203194807id_/http%3A//www.nis-store.com/terms.html) constitutes your acceptance of each revision to the Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20031203194807id_/http%3A//www.nis-store.com/terms.html). If you are a frequent user of this Extranet, we suggest you review our Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20031203194807id_/http%3A//www.nis-store.com/terms.html) on a regular basis to inform yourself of any changes.
+are subject to change without prior notice. Information that we gather is subject to this Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20040609110622id_/http%3A//www.nis-store.com/terms.html) that is in effect at the time. Your visit to this Extranet after changes are made to our Privacy Policy and our [ Terms and Conditions](https://web.archive.org/web/20040609110622id_/http%3A//www.nis-store.com/terms.html) constitutes your acceptance of each revision to the Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20040609110622id_/http%3A//www.nis-store.com/terms.html). If you are a frequent user of this Extranet, we suggest you review our Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20040609110622id_/http%3A//www.nis-store.com/terms.html) on a regular basis to inform yourself of any changes.
 
 Lastly, we will only contact you to process your transactions and make sure you received and are satisfied with your order. We will not market to you separately, unless you specifically opt-in to receive additional promotions or to respond to customer service surveys.
 
