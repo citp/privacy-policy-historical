@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castlelearning.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410135125id_/http%3A//www.castlelearning.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castlelearning.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204193322id_/http%3A//www.castlelearning.com/about/privacy.html) for the most accurate reproduction.*
 
 # CASTLE - Privacy Policy
 
