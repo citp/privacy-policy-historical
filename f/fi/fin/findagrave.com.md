@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findagrave.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101070743id_/http%3A//findagrave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findagrave.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603131509id_/http%3A//findagrave.com/privacy.html) for the most accurate reproduction.*
 
 # Find-A-Grave Privacy Statement
 
