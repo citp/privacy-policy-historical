@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604071823id_/http%3A//www.mckesson.com/wt/tert.php%3Fpage_name%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202072716id_/http%3A//www.mckesson.com/wt/tert.php%3Fpage_name%3Dprivacy) for the most accurate reproduction.*
 
 # McKesson Corporation: Privacy
 
-As of January 3, 2002
+As of October 3, 2002
 
-We at McKesson Corporation are committed to maintaining the privacy and security of our customers’ personal information on www.mckesson.com. Through this privacy statement, McKesson wants to assure you of our commitment to privacy and security.
+We at McKesson Corporation are committed to maintaining the privacy and security of our customers' personal information. Through this privacy statement, McKesson wants to assure you of our commitment to privacy and security. 
 
-Our privacy philosophy is based on the concept of fair information practices. This means we provide our associates with notice of how we manage information so that they can have a more informed understanding of how we operate.
+Our privacy philosophy is based on the concept of fair information practices. This means we provide our associates with notice of how we manage information so that they can have a more informed understanding of how we operate. 
 
-This privacy statement is intended to inform our customers about how we collect, use, share and protect their information on www.mckesson.com. We have established the following principles that govern our information practices:  
+This privacy statement is intended to inform our customers about how we collect, use, share and protect their information on McKesson branded websites. We have established the following principles that govern our information practices:  
 
 
   * If we collect information from or about you, we will tell you what information is being collected, how, by whom, and for what purposes.
@@ -25,13 +25,13 @@ Through this statement and our Web pages, we let you know what types of informat
 
 When you visit our site, we may collect information about your use of our site through “cookies”. Cookies are small bits of information transferred to your computer’s hard drive that allow us to know how often someone visits our site and the activities they conduct while on the site. The information collected by cookies allows us to monitor how our customers are using our Web site. If you simply want to browse, you do not have to accept cookies from us. However, if you wish to take advantage of specific services offered online, we may require you to accept cookies placed by a third party supporting this activity on our behalf. 
 
-McKesson may also release personal information in the event that we are legally compelled to do so (i.e., through a court order, subpoena, etc.).
+McKesson may release personal information in the event that we are legally compelled to do so (i.e., through a court order, subpoena, etc.).
 
-**We will give you options about how the personal information that you provide us may be used.**
+ **We will give you options about how the personal information that you provide us may be used.**
 
 Before we use your personal information for any purpose, we will give you choices about whether or not to allow us to engage in that use. We will give you the opportunity to keep us from using or sharing the personal information that you have provided to us for purposes other than to fulfill your request. To exercise this choice, we will allow you to notify us of your preferences during the information collection process.
 
-Information from or to McKesson, including those companies that provide support services to us, will be required to adopt and comply with the principles and objectives of this policy. In other words, if there are third parties that process McKesson data, we will require them to comply with McKesson privacy policies and not use our customer information for any purpose other than to fulfill their business obligation.
+Information from or to McKesson, including those companies that provide support services to us, will be required to adopt and comply with the principles and objectives of this policy. In other words, if there are third parties that process McKesson data, we will require them to comply with McKesson privacy policies and not use our customer information for any purpose other than to fulfill their business obligation. McKesson does not sell personally identifiable information to third party marketers. 
 
 **We use recognized industry safeguards to protect personally identifiable information from unauthorized access or use.**
 
@@ -41,7 +41,7 @@ We will protect personally identifiable information stored on the site’s serve
 
 **We will let you update your personal information that you have provided to us. We will also take steps to make sure that any updates that you provide are processed in a timely and complete manner.**
 
-If we collect personal information through this site, we will maintain the information and allow you to update it at any time. We will continue to work on better methods of accessing your information to increase your access to it for update purposes.
+If we collect personal information through our sites, we will maintain the information and allow you to update it at any time. We will continue to work on better methods of accessing your information to increase your access to it for update purposes. Note that some McKesson sites may contain links to other sites that are beyond our control, and that you may want to read that sites' privacy policy before entering information. 
 
 **We will tell you how you can contact us regarding our privacy statement and practices.**
 
@@ -53,4 +53,4 @@ McKesson may periodically update this policy to describe how new Web features ma
 
 **HIPAA at McKesson**
 
-As a key provider of services and technology to the healthcare industry, McKesson Corporation and its affiliated companies collectively, ("McKesson") are implementing programs to address the transaction standards, and the privacy and security implications of the rules promulgated pursuant to the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). [Learn more](https://web.archive.org/web/20020604071823id_/http%3A//www.mckesson.com/wt/tert.php?page_name=hipaa) about HIPAA at McKesson.
+As a key provider of services and technology to the healthcare industry, McKesson Corporation and its affiliated companies collectively, ("McKesson") are implementing programs to address the transaction standards, and the privacy and security implications of the rules promulgated pursuant to the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). [Learn more](https://web.archive.org/web/20021202072716id_/http%3A//www.mckesson.com/wt/tert.php?page_name=hipaa) about HIPAA at McKesson.
