@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingsloans.com.au privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206095131id_/http%3A//www.savingsloans.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingsloans.com.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621152131id_/http%3A//savingsloans.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Savings & Loans Credit Union - Privacy
 
@@ -74,7 +74,7 @@ Adelaide S.A. 5000
 Telephone: 13 11 82 or (08) 8305 8305  
 Facsimile: (08) 8305 8318
 
-Savings & Loans Credit Union has also made it convenient for you to be removed from Savings & Loans Credit Union's e-mail bulletins. Just go to [Contact Us](https://web.archive.org/web/20021206095131id_/http%3A//www.savingsloans.com.au/talk_to_us.asp). 
+Savings & Loans Credit Union has also made it convenient for you to be removed from Savings & Loans Credit Union's e-mail bulletins. Just go to [Contact Us](https://web.archive.org/web/20030621152131id_/http%3A//savingsloans.com.au/talk_to_us.asp). 
 
 
 
@@ -83,11 +83,11 @@ Your Privacy
 
 The protection of your privacy is very important to us. Download the 'Your Privacy' brochure for further information.
 
-**[Your Privacy brochure](https://web.archive.org/web/20021206095131id_/http%3A//www.savingsloans.com.au/pdf/privacyDL.pdf)** (File size = 91 kb)   
+**[Your Privacy brochure](https://web.archive.org/web/20030621152131id_/http%3A//savingsloans.com.au/pdf/privacyDL.pdf)** (File size = 91 kb)   
 
 
 Frequently Asked Questions
 
 We have developed a Frequently Asked Questions (FAQ) brochure to provide you with an understanding of our privacy policy in relation to the management of personal information.
 
-**[FAQ brochure](https://web.archive.org/web/20021206095131id_/http%3A//www.savingsloans.com.au/pdf/PrivacyFAQs.pdf)** (File size = 57kb) 
+**[FAQ brochure](https://web.archive.org/web/20030621152131id_/http%3A//savingsloans.com.au/pdf/PrivacyFAQs.pdf)** (File size = 57kb) 
