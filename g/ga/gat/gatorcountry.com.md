@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorcountry.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812141618id_/http%3A//www.gatorcountry.com/privacy.php%3Fmenu%3D15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorcountry.com privacy policy that was archived on 2004-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040214212626id_/http%3A//www.gatorcountry.com/privacy.php%3Fmenu%3D15) for the most accurate reproduction.*
 
 # Florida Gator Country - FLORIDA GATORS - GATORCOUNTRY.COM -- The #1 Florida Gator fan site since 1996!
 
@@ -54,6 +54,6 @@ If you have any questions about this privacy statement, the practices of this si
 * * *
 
 Support our sponsors - click below!  
-[](http://www.gatorcountry.com/phpAdsNew/adclick.php?bannerID=103)
+[](http://www.gatorcountry.com/phpAdsNew/adclick.php?bannerID=104&ismap=)
 
 | 
