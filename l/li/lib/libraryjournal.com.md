@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013100423id_/http%3A//www.libraryjournal.com/index.asp%3Flayout%3Ddocument%26doc_id%3D111259%26crumb%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308024414id_/http%3A//www.libraryjournal.com/index.asp%3Flayout%3Ddocument%26doc_id%3D111259%26crumb%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Library Journal | Reed Business Information
 
@@ -60,7 +60,7 @@ Newsletters and Offers
 **  
 We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI or other Reed Elsevier divisions. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services. All of these communications will include instructions explaining how you can request that we not send you (' **opt out** ' of) future communications of the same type.
 
-We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](http://libraryjournal.com/privacymanager@cahners.com) with the subject line **'opt out - third party.'  
+We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](http://www.libraryjournal.com/privacymanager@cahners.com) with the subject line **'opt out - third party.'  
 **  
  **Our Disclosure of Your Information  
 **  
