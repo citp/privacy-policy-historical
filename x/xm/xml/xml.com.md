@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622035517id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203124017id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com: O'Reilly & Associates, Inc. Privacy Policy [Feb. 06, 2001]
 
@@ -36,28 +36,14 @@
 [Manage Your Account](http://www.xml.com/cs/user/login)  
 [Forgot Your Password?](http://www.xml.com/cs/user/lostpw)
 
-[ ](https://web.archive.org/pub/a/2001/03/21/xml_com_feed.html)
+[ ](https://web.archive.org/pub/a/2001/03/21/xml_com_feed.html)    
+  
+[Syntax Checker](https://web.archive.org/pub/a/tools/ruwf/check.html)
 
-   
-[XML-Deviant](https://web.archive.org/pub/q/xmldeviant)  
-[Style Matters](https://web.archive.org/pub/q/stylematters)  
-[XML Q&A](https://web.archive.org/pub/q/xmlqanda)  
-[Transforming XML](https://web.archive.org/pub/q/transformingxml)  
-[Perl and XML](https://web.archive.org/pub/q/perlxml)  
-[Rich Salz](http://webservices.xml.com/pub/q/salz)   
-[Jon Udell](http://webservices.xml.com/pub/q/udell)   
-[</taglines>](https://web.archive.org/pub/q/taglines)   
-[Sacré SVG](https://web.archive.org/pub/q/sacresvg)   
-[Python and XML](https://web.archive.org/pub/q/pyxml)  
-[Dive Into XML](https://web.archive.org/pub/q/divexml)    
-[XML Resources](https://web.archive.org/resourceguide/)  
-[Buyer's Guide](https://web.archive.org/buyersguide/)  
-[Events Calendar](https://web.archive.org/events)  
-[Standards List](https://web.archive.org/pub/q/stdlist)  
-[Submissions List](https://web.archive.org/pub/q/submlist)
+[](http://www.oreillynet.com/)  
 
-Traveling to a Tech Show?  
 
+Traveling to a Tech Show?
 
   
 |  February 06, 2001  
@@ -119,7 +105,12 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 **Snailmail** : To change your address or delete your name from our mailing list for paper catalogs, brochures, or advertisements, send email to catalog@oreilly.com or call 800-998-9938 or 707-829-0515.
 
   
-|  |  Sponsored By:   
+|  |  Sponsored By:
+
+|   
+---  
+  
+  
   
   
 
