@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402124242id_/http%3A//www.mtvindia.com/mtv/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209115023id_/http%3A//www.mtvindia.com/mtv/aboutus/privacypolicy.php) for the most accurate reproduction.*
 
-# mtvindia.com
-
-**Privacy Policy**
+# About MTV
 
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -29,7 +27,6 @@ MTVindia.com offers contests and sweepstakes in which we request certain persona
 **Usage tracking  
 **MTVindia.com tracks user traffic patterns throughout the site. **** Cookies A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. MTVindia.com uses cookies to track user traffic patterns (as described above), when you register as a member, and when you click on an ad: Registration: when you register, MTVindia.com uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to visit member-restricted areas of the sites. Ads: MTVindia.com's advertising system delivers a one-time cookie to better track ad impressions and click rates. (Note: All online advertising on MTVindia.com is served through DoubleClick's DART software. For more information about DoubleClick's privacy practice, please visit www.doubleclick.net/privacy_policy.) If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use MTVindia.com. However, you do need cookies to participate actively in the MTVindia.com online message board.
 
-  
 **2\. Use of the information  
 **MTVindia.com uses any information voluntarily given by our users to enhance their experience in our site, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. As stated above, MTVindia.com uses information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in services like polls, contests, and message boards. We send out newsletters to subscribers on a regular schedule and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. MTVindia.com never shares newsletter mailing lists with any third parties, including advertisers or partners. We use tracking information to determine which areas of MTVindia.com users like and don't like, based on traffic to those areas. MTVindia.com does not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. MTVindia.com creates aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Data may be transferred from Singapore to other jurisdictions, but at all times is kept within Asiacontent.com and its family of sites.
 
@@ -43,6 +40,6 @@ MTVindia.com gives users options wherever necessary and practical. Such choices 
 Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter.
 
 MTVindia.com  
-MTV INDIA Pvt Ltd   
-11 A, Filmcenter Bldg   
-68, Tardeo Road Mumbai - 400034
+MTV Networks India Pvt Ltd.   
+36 B, Dr. R. K. Shirodkar Marg,   
+Parel (East) Mumbai - 400012
