@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405050626id_/http%3A//www.bidorbuy.co.za/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211235727id_/http%3A//www2.bidorbuy.co.za/static/Privacy.html) for the most accurate reproduction.*
 
-# bidorbuy
+# bidorbuy Privacy Statement
 
-| 
+[Terms & Conditions](http://www2.bidorbuy.co.za/static/User-agreement.html) | [Billing Statement](http://www2.bidorbuy.co.za/static/BillingStatement.html) | [Rating System Rules](http://www2.bidorbuy.co.za/static/RatingRules.html) | [Prohibited Goods & Services](http://www2.bidorbuy.co.za/static/Prohibited.html) | Privacy Statement 
 
-**bidorbuy.co.za PRIVACY STATEMENT  
-This Privacy Statement was last revised on 25 January 2001.**
+|  | 
 
-| 
+bidorbuy.co.za PRIVACY STATEMENT  
+This Privacy Statement was last revised on 20 July 2001. 
 
-[](https://www.truste.org/validate/8536)  
-  
+|   
 ---|---|---  
   
-This confirms that bidorbuy.com is a licensee of the TRUSTe Privacy Program.  
-This privacy statement discloses the privacy practices for the **bidorbuy.co.za site, for our parent, bidorbuy.com Inc,** and for the sites of our **subsidiaries, related entities and joint venture partners.**
+This privacy statement discloses the privacy practices for the **bidorbuy.co.za site**.
 
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
-
-By displaying the TRUSTe trustmark, we have agreed to notify you of:
+We have agreed to notify you of:
 
 1.   What personally identifiable information of yours or third party personally identification is collected from you  
        via this site 
@@ -36,28 +32,21 @@ By displaying the TRUSTe trustmark, we have agreed to notify you of:
 
 7.    How you can correct any inaccuracies in the Information
 
-****
-
-**If you have questions or concerns regarding this statement, you should first please contact Customer Support by email on[hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za).   If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe _<http://www.truste.org/users/users_watchdog.html>_.  
-TRUSTe will then serve as a liaison with us to resolve your concerns.**
+**If you have questions or concerns regarding this statement, you should please contact Customer Support by email on[hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za).   **
 
 **Information Collection and Use**
 
-When we collect personal information about you we will collect this information from you lawfully and fairly and not in any unreasonably intrusive way.  You acknowledge and agree that we may collect this information from you in connection with or as a consequence of your use of our site, including, without limitation, the supply of the online auction services to you. 
+When we collect personal information about you we will collect this information from you lawfully and fairly and not in any unreasonably intrusive way.  You acknowledge and agree that we may collect this information from you in connection with or as a consequence of your use of our site, including, without limitation, the supply of the online trading services to you. 
 
 We are the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in any way other than as disclosed in this privacy statement. 
 
 We collect information from our users at several different points on our site.  We collect information about your bidding, buying and selling activities if you choose to participate on our site as a result of you engaging in these activities, and also from ratings and comments received from other users regarding you engaging in those activities.  We also collect information from any form of correspondence, such as emails and telephone conversations, from you or from a third party about you.  We may also collect information from you if you choose to partake in special promotions with third parties on our site. This information will be shared with that third party, but only with your consent and for the purpose of that promotion. 
 
-We will also collect financial information about you if you choose to bid for certain goods and services on our site, and also as set out in the _[Terms and Conditions of Use of this Site](http://new.bidorbuy.co.za/legal/user-agreement.shtml)_.  If we do charge a commission of any fees to you, then your payment information will be used to charge you accordingly.  We may pass your payment information onto recognised partners in certain cases, such as in those auctions where the services of shipping and delivery or fulfillment companies are offered to our users, but only in cases where our users have requested those services from us. **** Other information that we collect is outlined below.
-
-****
+We will also collect financial information about you if you choose to bid for certain goods and services on our site, if you sell on our site, and also as set out in the _[Terms and Conditions of Use of this Site](http://www2.bidorbuy.co.za/static/User-agreement.html)_.  We do charge fees for selling, and your payment information will be used to charge you accordingly.  We may pass your payment information onto recognised partners in certain cases, such as for charging you for selling and in those auctions where the services of shipping and delivery or fulfilment companies are offered to our users, but only in cases where our users have requested those services from us. Other information that we collect is outlined below.
 
 **Registration  **
 
 In order to use our site, you must first complete the registration form.  When you register we collect personal information such as your name, address, email address, telephone and fax numbers.  This information is used to contact you about the services on our site for which you have expressed interest.  We also collect additional information (such as “How did you hear about us?”, your interests), and unique identifiers (such as your company name and VAT number, if applicable).  All information that is mandatory is made known on the registration form and is necessary to complete the registration process. You are encouraged to provide the additional, optional information specified on the registration form so we can provide you with a more personalized experience on our site. 
-
-****
 
 **Cookies  **
 
@@ -65,43 +54,35 @@ A Cookie is a small data file that your browser writes to your own computer’s 
 
 There are two sorts of cookies used on our site: session cookies and persistent cookies.   Once you close your browser, the session cookie simply terminates, whereas the persistent cookie remains to enable us to track and target your interests to enhance your experience on our site. 
 
-**Log Files**  
+**Log Files  **
 
 We collect statistical information about you from page hits.  Every page, image or cgi program requested by your browser from our servers is logged in a log file, which also collects the following information: your remote IP address, the referring HTML page and the type of browser and computer that you are using.   We use IP addresses to analyze trends, administer our site, track your movements, and gather broad demographic information for aggregate use.  The statistical information we gather is used internally for marketing analysis.  This information and IP addresses are not linked to personally identifiable information. 
 
-****
+**Sharing**  
 
-**Sharing  **
-
-If you successfully sell a product or successfully win an auction then your name, email address, phone number and fax number, payment details including credit card information and mailing address may be passed onto the other party involved in that auction in accordance with the _[Terms and Conditions of Use of this Site](http://new.bidorbuy.co.za/legal/user-agreement.shtml)_.  For example, if you bid on an auction and win the auction, your details will be passed onto the seller of that item for auction. Similarly, if you are selling an item on auction, your details will be passed onto the winning bidder of your auction. 
+If you successfully sell a product or successfully win an auction, or are the runner up in an auction where the winning bidder defaults, then your name, email address, phone number and fax number, payment details including credit card information and mailing address may be passed onto the other party involved in that auction in accordance with the _[Terms and Conditions of Use of this Site](http://www2.bidorbuy.co.za/static/User-agreement.html)_.  For example, if you bid on an auction and win the auction, your details will be passed onto the seller of that item for auction. Similarly, if you are selling an item on auction, your details will be passed onto the winning bidder of your auction. 
 
 We will share aggregated demographic information with our business partners and advertisers.   When we do, you will not be personally identifiable, and your personal information will only be used as part of an aggregated compilation of information. 
 
 We will release information about you when required by law to do so.   Otherwise, we may release information about you, at our sole discretion, when we believe, that such release of information is reasonably necessary or appropriate to:
 
-(a) enforce or apply the _[Terms and Conditions of Use of this Site](http://new.bidorbuy.co.za/legal/user-agreement.shtml)_ ; or
+(a) enforce or apply the _[Terms and Conditions of Use of this Site](http://www2.bidorbuy.co.za/static/User-agreement.html)_ ; or
 
 (b) to protect the rights, property or safety of bidorbuy.com, our users or others.
 
 We will also share information, including personally identifiable information about you, with our parent, subsidiaries and related entities in order to provide you with an international trading service.  All these entities will treat your information according to this privacy policy and in the same manner they would treat their own users’ information.
 
-****
-
-**External Links  **
+**External Links**  
 
 This web site contains links to other sites.  Please be aware that we are not responsible for the privacy practices or content of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this site. 
 
-****
+**Newsletter**  
 
-**Newsletter  **
+If you wish to subscribe to our newsletter, we ask for contact information such as email addresses.  However, it is completely at your discretion to be removed from such a list as set out in our choice and opt-out section below. 
 
-If you wish to subscribe to our newsletter, we ask for contact information such as email addresses.  However, it is completely at your discretion to be removed from such a list as set out in our choice and opt-out section below. ** **
-
-Site and Services Updates 
+**Site and Services Updates**  
 
 We also send you site and services announcement updates.  You are not able to un-subscribe from these because they contain important information about our site and our services. 
-
-****
 
 **Surveys & Contests **
 
@@ -109,19 +90,13 @@ From time-to-time we request information from you via surveys or contests.  Par
 
 Contact information will be used by us to notify the winners and award prizes in relation to our competitions, and also for promotional mailings.  Survey information will be used for the purposes of monitoring or improving the use and satisfaction of this site.  Established users of our site will be automatically entered into some of our contests, thereby providing them with more opportunities to win. 
 
-****
-
 **Public Forums  **
 
 If we make chat rooms and message boards available to our users, please remember that any information that is disclosed in these areas becomes public information.   You should therefore exercise caution when deciding to disclose your personal information.
 
-****
-
 **Tell-A-Friend  **
 
 If you elect to use our referral service for informing a friend about our site, we ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting them to visit our site  We store this information for the sole purpose of sending this one-time email.  Your friend may at any time contact us at [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za) to request the removal of this information from our database. 
-
-****
 
 **Security  **
 
@@ -131,33 +106,27 @@ When our registration form asks you to enter sensitive information (such as cred
 
 While we use encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  The servers that we store personally identifiable information on are kept in a secure environment.
 
-If you have any questions about the security at our site, you can send an email to [hello@bidorbuy.co.za](mailto:hello@bidorbuy.com). 
-
-****
+If you have any questions about the security at our site, you can send an email to [hello@bidorbuy.com](mailto:hello@bidorbuy.com). 
 
 **Supplementation of Information  **
 
 In order for this site to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources. 
 
-Special Offers 
+**Special Offers  **
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter.  Out of respect for the privacy of our users, our users have the option not receive these types of communications (refer to our choice and opt-out section below). ** **
+We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter.  Out of respect for the privacy of our users, our users have the option not receive these types of communications (refer to our choice and opt-out section below). 
 
-Correction/Updating Personal Information: 
+**Correction/Updating Personal Information:  **
 
-If your personally identifiable information changes (such as your email address), or if you no longer desire to use our services, you may correct, update or remove your personal data provided to us.  This can be done at the member information page **** or by emailing our Customer Support at [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
-
-****
+If your personally identifiable information changes (such as your email address), or if you no longer desire to use our services, you may correct, update or remove your personal data provided to us.  This can be done at the member information page or by emailing our Customer Support at [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
 
 **Choice/Opt-out  **
 
 If you no longer wish to receive our newsletter, information about products and services and special deals, surveys, or promotional materials from us or our partners you may opt-out of receiving these communications by following the unsubscribe instructions in the relevant email or by emailing us at [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
 
-To update your registration information log onto our Members Area, here: <http://www.bidorbuy.co.za/bos/update_registration.shtml>. 
+To update your registration information log onto our Members Area, or [click here](https://www.bidorbuy.co.za/jsp/UserRegistration.jsp?action=Modify). 
 
-To subscribe to our newsletter, click here: <http://www.bidorbuy.co.za/bos/mailing_list.shtml>. 
-
-****
+To subscribe to our newsletter, [click here](http://www2.bidorbuy.co.za/static/JoinMailing.html). 
 
 **Notification of Changes  **
 
@@ -165,8 +134,8 @@ If we decide to change our privacy statement, we will post those changes on our 
 
 If we change the way we use your Personally Identifiable Information we will notify you by email in our newsletter.  If you would like to opt out of having your information used in this new manner, we will ask you to contact us within a month and your information will not be used. If you do not contact us within that month, we will assume that you consent to have your information used in this new manner. 
 
-****
-
 **Contacting us  **
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with us, you can contact us on [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
+
+[Terms & Conditions](http://www2.bidorbuy.co.za/static/User-agreement.html) | [Billing Statement](http://www2.bidorbuy.co.za/static/BillingStatement.html) | [Rating System Rules](http://www2.bidorbuy.co.za/static/RatingRules.html) | [Prohibited Goods & Services](http://www2.bidorbuy.co.za/static/Prohibited.html) | Privacy Statement 
