@@ -1,86 +1,219 @@
-<!--The following is the downloaded HTML source of the nahb.org privacy policy that was archived on 2002-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203065052id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nahb.org privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602043933id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 // declare array
 menuData = new Array()
-for (i=0; i < 7; i++) {
-menuData[i] = new Array(40)
-for (j=0; j < 20; j++) {
-menuData[i][j] = new Array(2)}}
-menuData[0][0][0]="Mission and Vision";
-menuData[0][0][1]="/generic.aspx?sectionID=88";
-menuData[0][1][0]="Our Organization";
-menuData[0][1][1]="/generic.aspx?sectionID=89";
-menuData[0][2][0]="NAHB Leadership";
-menuData[0][2][1]="/generic.aspx?sectionID=90";
-menuData[0][3][0]="Find Your Local Builders' Association";
-menuData[0][3][1]="http://nahb.know-where.com/nahb/";
-menuData[0][4][0]="Home Builders Care";
-menuData[0][4][1]="/generic.aspx?sectionID=93";
-menuData[0][5][0]="National Housing Endowment";
-menuData[0][5][1]="/generic.aspx?sectionID=94";
-menuData[0][6][0]="Home Builders Institute";
-menuData[0][6][1]="/generic.aspx?sectionID=95";
-menuData[0][7][0]="NAHB Research Center";
-menuData[0][7][1]="/generic.aspx?sectionID=96";
-menuData[0][8][0]="Careers at NAHB";
-menuData[0][8][1]="/generic.aspx?sectionID=91";
-menuData[0][9][0]="Contact Us";
-menuData[0][9][1]="http://www.nahb.org/landing.aspx?sectionID=156";
-menuData[1][0][0]="How to Join";
-menuData[1][0][1]="/generic.aspx?sectionID=99";
-menuData[1][1][0]="Types of Membership";
-menuData[1][1][1]="/generic.aspx?sectionID=100";
-menuData[1][2][0]="Membership Benefits";
-menuData[1][2][1]="/generic.aspx?sectionID=101";
-menuData[1][3][0]="Members on Membership";
-menuData[1][3][1]="/generic.aspx?sectionID=102";
-menuData[1][4][0]="Specialized Services";
-menuData[1][4][1]="/generic.aspx?sectionID=103";
-menuData[2][0][0]="For Consumers";
-menuData[2][0][1]="/category.aspx?sectionID=112";
-menuData[2][1][0]="Economic and Housing Data";
-menuData[2][1][1]="/category.aspx?sectionID=113";
-menuData[2][2][0]="International Resources";
-menuData[2][2][1]="/category.aspx?sectionID=114";
-menuData[2][3][0]="Find Your Local Builders' Association";
-menuData[2][3][1]="http://nahb.know-where.com/nahb/";
-menuData[2][4][0]="Housing In Congress";
-menuData[2][4][1]="/category.aspx?sectionID=180";
-menuData[3][0][0]="View All Courses";
-menuData[3][0][1]="/education.aspx?viewAll=1&sectionID=141";
-menuData[3][1][0]="Search Courses";
-menuData[3][1][1]="/education.aspx?search=1&sectionID=116";
-menuData[3][3][0]="Workforce Training";
-menuData[3][3][1]="/generic.aspx?sectionID=118";
-menuData[3][4][0]="Children & Young Adult";
-menuData[3][4][1]="/category.aspx?sectionID=184";
-menuData[3][5][0]="Designations & Certifications";
-menuData[3][5][1]="/generic.aspx?sectionID=119";
-menuData[4][0][0]="View All Meetings & Events";
-menuData[4][0][1]="/meetings_and_events.aspx?viewAll=1&sectionID=121";
-menuData[4][1][0]="Search Meetings & Events";
-menuData[4][1][1]="/meetings_and_events.aspx?search=1&sectionID=120";
-menuData[5][0][0]="News Releases";
-menuData[5][0][1]="/news.aspx?viewAll=1&sectionID=148";
-menuData[5][1][0]="Search News Releases";
-menuData[5][1][1]="/news.aspx?search=1&sectionID=122";
-menuData[5][2][0]="Subscribe to E-Releases";
-menuData[5][2][1]="/ereleases.aspx?subscribe=1&sectionID=149";
-menuData[5][3][0]="Economic and Housing Data";
-menuData[5][3][1]="/generic.aspx?sectionID=150";
-menuData[5][4][0]="Facts and Photos";
-menuData[5][4][1]="/generic.aspx?sectionID=151";
-menuData[5][5][0]="Reports";
-menuData[5][5][1]="/generic.aspx?sectionID=152";
-menuData[5][6][0]="Contact Public Affairs";
-menuData[5][6][1]="/contact_newsroom_form.aspx?sectionID=153";
-menuData[6][0][0]="View All Publications";
-menuData[6][0][1]="/publication_search.aspx?viewAll=1&sectionID=154";
-menuData[6][1][0]="Search Publications";
-menuData[6][1][1]="/publication_search.aspx?search=1&sectionID=155";
+menuTimeout = new Array()
+menuTimeout["menu5"] = null;
+menuData[5] = new Array();
+menuData[5][0] = new Array(2);
+menuData[5][0][0]="Mission and Vision";
+menuData[5][0][1]="/generic.aspx?sectionID=88";
+menuData[5][1] = new Array(2);
+menuData[5][1][0]="Our Organization";
+menuData[5][1][1]="/generic.aspx?sectionID=89";
+menuData[5][2] = new Array(2);
+menuData[5][2][0]="NAHB Leadership";
+menuData[5][2][1]="/generic.aspx?sectionID=90";
+menuData[5][3] = new Array(2);
+menuData[5][3][0]="Find Your Local Builders' Association";
+menuData[5][3][1]="/local_association_search_form.aspx";
+menuData[5][4] = new Array(2);
+menuData[5][4][0]="Home Builders Care";
+menuData[5][4][1]="/generic.aspx?sectionID=93";
+menuData[5][5] = new Array(2);
+menuData[5][5][0]="National Housing Endowment";
+menuData[5][5][1]="/generic.aspx?sectionID=94";
+menuData[5][6] = new Array(2);
+menuData[5][6][0]="Home Builders Institute";
+menuData[5][6][1]="/generic.aspx?sectionID=95";
+menuData[5][7] = new Array(2);
+menuData[5][7][0]="NAHB Research Center";
+menuData[5][7][1]="/generic.aspx?sectionID=96";
+menuData[5][8] = new Array(2);
+menuData[5][8][0]="Careers at NAHB";
+menuData[5][8][1]="/generic.aspx?sectionID=91";
+menuData[5][9] = new Array(2);
+menuData[5][9][0]="Contact Us";
+menuData[5][9][1]="http://www.nahb.org/landing.aspx?sectionID=156";
+menuTimeout["menu85"] = null;
+menuData[85] = new Array();
+menuData[85][0] = new Array(2);
+menuData[85][0][0]="How to Join";
+menuData[85][0][1]="/generic.aspx?sectionID=99";
+menuData[85][1] = new Array(2);
+menuData[85][1][0]="Types of Membership";
+menuData[85][1][1]="/generic.aspx?sectionID=100";
+menuData[85][2] = new Array(2);
+menuData[85][2][0]="Membership Benefits";
+menuData[85][2][1]="/generic.aspx?sectionID=101";
+menuData[85][3] = new Array(2);
+menuData[85][3][0]="Members on Membership";
+menuData[85][3][1]="/generic.aspx?sectionID=102";
+menuData[85][4] = new Array(2);
+menuData[85][4][0]="Specialized Services";
+menuData[85][4][1]="/generic.aspx?sectionID=103";
+menuData[85][5] = new Array(2);
+menuData[85][5][0]="Find Your Local Builders' Association";
+menuData[85][5][1]="/local_association_search_form.aspx";
+menuTimeout["menu4"] = null;
+menuData[4] = new Array();
+menuData[4][0] = new Array(2);
+menuData[4][0][0]="View All Publications";
+menuData[4][0][1]="/publication_search.aspx?viewAll=1&sectionID=154";
+menuData[4][1] = new Array(2);
+menuData[4][1][0]="Search Publications";
+menuData[4][1][1]="/publication_search.aspx?search=1&sectionID=155";
+menuData[4][2] = new Array(2);
+menuData[4][2][0]="Online Publications";
+menuData[4][2][1]="/category.aspx?sectionID=189";
+menuTimeout["menu400"] = null;
+menuData[400] = new Array();
+menuData[400][0] = new Array(2);
+menuData[400][0][0]="View All \"For Sale\" Items";
+menuData[400][0][1]="/merchandise_search.aspx?viewAll=1&sectionID=401";
+menuData[400][1] = new Array(2);
+menuData[400][1][0]="Search \"For Sale\" Items";
+menuData[400][1][1]="/merchandise_search.aspx?search=1&sectionID=402";
+menuTimeout["menu3"] = null;
+menuData[3] = new Array();
+menuData[3][0] = new Array(2);
+menuData[3][0][0]="News Releases";
+menuData[3][0][1]="/news.aspx?viewAll=1&sectionID=148";
+menuData[3][1] = new Array(2);
+menuData[3][1][0]="Search News Releases";
+menuData[3][1][1]="/news.aspx?search=1&sectionID=122";
+menuData[3][2] = new Array(2);
+menuData[3][2][0]="Contact Public Affairs";
+menuData[3][2][1]="/contact_newsroom_form.aspx?sectionID=153";
+menuData[3][3] = new Array(2);
+menuData[3][3][0]="Economic and Housing Data";
+menuData[3][3][1]="/generic.aspx?sectionID=150";
+menuData[3][4] = new Array(2);
+menuData[3][4][0]="Facts and Photos";
+menuData[3][4][1]="/generic.aspx?sectionID=151";
+menuData[3][5] = new Array(2);
+menuData[3][6] = new Array(2);
+menuData[3][6][0]="Reports";
+menuData[3][6][1]="/generic.aspx?sectionID=152";
+menuData[3][7] = new Array(2);
+menuData[3][7][0]="Subscribe to E-Releases";
+menuData[3][7][1]="/ereleases.aspx?subscribe=1&sectionID=149";
+menuTimeout["menu156"] = null;
+menuData[156] = new Array();
+menuData[156][0] = new Array(2);
+menuData[156][0][0]="Contact Us Form";
+menuData[156][0][1]="/contact_us_form.aspx?sectionID=178";
+menuData[156][1] = new Array(2);
+menuData[156][1][0]="Find Your Local Builders' Association";
+menuData[156][1][1]="/local_association_search_form.aspx";
+menuData[156][2] = new Array(2);
+menuData[156][2][0]="Frequently Asked Questions about www.nahb.org";
+menuData[156][2][1]="/generic.aspx?sectionID=157";
+menuData[156][3] = new Array(2);
+menuData[156][3][0]="Mailing List Service (MLS)";
+menuData[156][3][1]="/generic.aspx?sectionID=181";
+menuData[156][4] = new Array(2);
+menuData[156][4][0]="Sponsorship & Advertising Opportunities with NAHB";
+menuData[156][4][1]="/generic.aspx?sectionID=158";
+menuTimeout["menu87"] = null;
+menuData[87] = new Array();
+menuData[87][0] = new Array(2);
+menuData[87][0][0]="Business Management Tools";
+menuData[87][0][1]="/category.aspx?sectionID=218";
+menuData[87][1] = new Array(2);
+menuData[87][1][0]="Construction, Codes & Standards";
+menuData[87][1][1]="/category.aspx?sectionID=223";
+menuData[87][2] = new Array(2);
+menuData[87][2][0]="Economic and Housing Data";
+menuData[87][2][1]="/category.aspx?sectionID=113";
+menuData[87][3] = new Array(2);
+menuData[87][3][0]="Environment";
+menuData[87][3][1]="/category.aspx?sectionID=211";
+menuData[87][4] = new Array(2);
+menuData[87][4][0]="Find Your Local Builders' Association";
+menuData[87][4][1]="/local_association_search_form.aspx";
+menuData[87][5] = new Array(2);
+menuData[87][5][0]="For Consumers";
+menuData[87][5][1]="/category.aspx?sectionID=112";
+menuData[87][6] = new Array(2);
+menuData[87][6][0]="Housing In Congress";
+menuData[87][6][1]="/category.aspx?sectionID=180";
+menuData[87][7] = new Array(2);
+menuData[87][7][0]="Housing Issues";
+menuData[87][7][1]="/category.aspx?sectionID=204";
+menuData[87][8] = new Array(2);
+menuData[87][8][0]="Industry Jobs";
+menuData[87][8][1]="/category.aspx?sectionID=236";
+menuData[87][9] = new Array(2);
+menuData[87][9][0]="Land Development";
+menuData[87][9][1]="/category.aspx?sectionID=219";
+menuData[87][10] = new Array(2);
+menuData[87][10][0]="NAHB Policy";
+menuData[87][10][1]="/category.aspx?sectionID=188";
+menuData[87][11] = new Array(2);
+menuTimeout["menu250"] = null;
+menuData[250] = new Array();
+menuData[250][0] = new Array(2);
+menuData[250][0][0]="Multifamily";
+menuData[250][0][1]="/category.aspx?sectionID=260";
+menuData[250][1] = new Array(2);
+menuData[250][1][0]="National Sales and Marketing Council";
+menuData[250][1][1]="/category.aspx?sectionID=251";
+menuData[250][2] = new Array(2);
+menuData[250][2][0]="Seniors Housing Council";
+menuData[250][2][1]="/category.aspx?sectionID=261";
+menuData[250][3] = new Array(2);
+menuData[250][3][0]="Public Affairs Committee";
+menuData[250][3][1]="/category.aspx?sectionID=420";
+menuTimeout["menu1"] = null;
+menuData[1] = new Array();
+menuData[1][0] = new Array(2);
+menuData[1][0][0]="View All Courses";
+menuData[1][0][1]="/education.aspx?viewAll=1&sectionID=141";
+menuData[1][1] = new Array(2);
+menuData[1][1][0]="Search Courses";
+menuData[1][1][1]="/education.aspx?search=1&sectionID=116";
+menuData[1][2] = new Array(2);
+menuData[1][3] = new Array(2);
+menuData[1][3][0]="Children & Young Adult";
+menuData[1][3][1]="/category.aspx?sectionID=184";
+menuData[1][4] = new Array(2);
+menuData[1][4][0]="Designations";
+menuData[1][4][1]="/generic.aspx?sectionID=119";
+menuData[1][5] = new Array(2);
+menuData[1][5][0]="New Product Proposals";
+menuData[1][5][1]="/category.aspx?sectionID=285";
+menuData[1][6] = new Array(2);
+menuData[1][6][0]="Speaker Information";
+menuData[1][6][1]="/category.aspx?sectionID=239";
+menuData[1][7] = new Array(2);
+menuData[1][7][0]="Workforce Training";
+menuData[1][7][1]="/generic.aspx?sectionID=118";
+menuTimeout["menu2"] = null;
+menuData[2] = new Array();
+menuData[2][0] = new Array(2);
+menuData[2][0][0]="View All Meetings & Events";
+menuData[2][0][1]="/meetings_and_events.aspx?viewAll=1&sectionID=121";
+menuData[2][1] = new Array(2);
+menuData[2][1][0]="Search Meetings & Events";
+menuData[2][1][1]="/meetings_and_events.aspx?search=1&sectionID=120";
+menuTimeout["menu409"] = null;
+menuData[409] = new Array();
+menuData[409][0] = new Array(2);
+menuData[409][0][0]="Log In Now";
+menuData[409][0][1]="/login.aspx";
+menuData[409][1] = new Array(2);
+menuData[409][1][0]="First Time User";
+menuData[409][1][1]="/account_creation.aspx";
+menuData[409][2] = new Array(2);
+menuData[409][2][0]="Password Reminder";
+menuData[409][2][1]="/password_reminder.aspx";
+menuTimeout["menu414"] = null;
+menuData[414] = new Array();
 </script>
+
 
 
 
@@ -92,6 +225,7 @@ menuData[6][1][1]="/publication_search.aspx?search=1&sectionID=155";
 </head>
 
 <body bgcolor="#ffffff" marginheight="0" marginwidth="5">
+
 
 
 <!-- start body table -->
@@ -113,13 +247,15 @@ menuData[6][1][1]="/publication_search.aspx?search=1&sectionID=155";
 	}
 </script>
 
-<table cellpadding="0" cellspacing="0" border="0" width="762"> 
-<tbody><tr>
-<td align="right" colspan="3" valign="bottom"><img src="/assets/images/spacer.gif" width="1" height="15" border="0" alt=""><a href="http://www.nahb.net" target="_new"><img src="/assets/images/nav/member.gif" width="83" height="7" alt="Member Sign In" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="/landing.aspx?sectionID=156"><img src="/assets/images/nav/contact.gif" width="68" height="7" alt="Contact Us" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="/default.aspx"><img src="/assets/images/nav/home.gif" width="28" height="7" alt="Home" border="0"></a></td>
-</tr>
 
-<tr>
-<td><a href="default.aspx"><img src="/assets/images/head_image.jpg" width="574" height="90" alt="National Association of Home Builders" border="0"></a></td>
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="762"> 
+
+
+
+<tbody><tr>
+<td background="/assets/images/head_image.gif"><a href="/default.aspx"><img height="46" alt="National Association of Home Builders" src="/assets/images/spacer.gif" width="574" border="0"><br><img height="44" alt="National Association of Home Builders" src="/assets/images/spacer.gif" width="92" align="top" border="0"></a><span id="header_lblWelcome" class="white"></span></td>
 <td><img src="/assets/images/spacer.gif" width="2" height="1" alt="" border="0"></td>
 <td bgcolor="#6e9acc" width="184" valign="top">
 	<!-- start search table -->
@@ -138,12 +274,12 @@ menuData[6][1][1]="/publication_search.aspx?search=1&sectionID=155";
 	
 	<tr>
 	<td colspan="3" valign="top" align="left" class="small"><a href="search.aspx?advanced=1"><img src="/assets/images/nav/advancedsearch.gif" width="101" height="7" alt="Advanced Search" border="0" vspace="3"></a><br><img src="/assets/images/spacer.gif" width="1" height="3" alt="" border="0"><br>
-<select id="shortcuts" onchange="javascript:redirectToShortcut(this);" class="small">
-<option value="">Site Shortcuts</option>
+		<select id="shortcuts" onchange="javascript:redirectToShortcut(this);" class="small">
+		<option value="">Site Shortcuts</option>
 
-<option value="/landing.aspx?sectionID=5">About NAHB</option><option value="/landing.aspx?sectionID=156">Contact Us</option><option value="http://nahb.know-where.com/nahb/">Find a Builder</option><option value="/generic.aspx?genericContentID=2362&amp;sectionID=123">Find A New Home</option><option value="/category.aspx?sectionID=112">For Consumers</option><option value="/generic.aspx?sectionID=93">Home Builders Care</option><option value="/generic.aspx?sectionID=95">Home Builders Institute</option><option value="/category.aspx?sectionID=113">Housing and Economic Data</option><option value="/job_search.aspx">Job Opportunities</option><option value="/landing.aspx?sectionID=85">Join NAHB</option><option value="/generic.aspx?sectionID=96">NAHB Research Center</option><option value="/generic.aspx?sectionID=94">National Housing Endowment</option><option value="/landing.aspx?sectionID=3">Newsroom</option></select>
+		<option value="/landing.aspx?sectionID=5">About NAHB</option><option value="/landing.aspx?sectionID=156">Contact Us</option><option value="/local_association_search_form.aspx">Find a Builder</option><option value="/generic.aspx?genericContentID=2362&amp;sectionID=123">Find a New Home</option><option value="/category.aspx?sectionID=112">For Consumers</option><option value="/generic.aspx?sectionID=93">Home Builders Care</option><option value="/generic.aspx?sectionID=95">Home Builders Institute</option><option value="/category.aspx?sectionID=113">Housing and Economic Data</option><option value="/job_search.aspx">Job Opportunities</option><option value="/landing.aspx?sectionID=85">Join NAHB</option><option value="/generic.aspx?sectionID=96">NAHB Research Center</option><option value="/generic.aspx?sectionID=94">National Housing Endowment</option><option value="/landing.aspx?sectionID=3">Newsroom</option></select>
 
-</td>
+		</td>
 	</tr>
 	</tbody></table>
 	<!-- end search table -->
@@ -159,25 +295,21 @@ menuData[6][1][1]="/publication_search.aspx?search=1&sectionID=155";
 
 <tr>
 <td colspan="3">
+<script language="Javascript"><!--
+var siteVersion = "2"
+//--></script>
 <!-- main navigation table -->
 <table cellpadding="0" cellspacing="0" border="0" width="762"> 
 <tbody><tr>
-<td><a href="/landing.aspx?sectionID=5" onmouseover="showDDNav('menu0')" onmouseout="hideDDNav('menu0')"><img id="nav_imgAbout" alt="About NAHB" src="/assets/images/nav/nsection5.gif" border="0"></a></td>
-<td><img src="/assets/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
-<td><a href="/landing.aspx?sectionID=85" onmouseover="showDDNav('menu1')" onmouseout="hideDDNav('menu1')"><img id="nav_imgJoin" alt="Join NAHB" src="/assets/images/nav/nsection85.gif" border="0"></a></td>
-<td><img src="/assets/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
-<td><a href="/landing.aspx?sectionID=87" onmouseover="showDDNav('menu2')" onmouseout="hideDDNav('menu2')"><img id="nav_imgResources" alt="Resources" src="/assets/images/nav/nsection87.gif" border="0"></a></td>
-<td><img src="/assets/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
-<td><a href="/landing.aspx?sectionID=1" onmouseover="showDDNav('menu3')" onmouseout="hideDDNav('menu3')"><img id="nav_imgEducation" alt="Education" src="/assets/images/nav/nsection1.gif" border="0"></a></td>
-<td><img src="/assets/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
-<td><a href="/landing.aspx?sectionID=2" onmouseover="showDDNav('menu4')" onmouseout="hideDDNav('menu4')"><img id="nav_imgMeetings" alt="Meetings and Events" src="/assets/images/nav/nsection2.gif" border="0"></a></td>
-<td><img src="/assets/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
-<td><a href="/landing.aspx?sectionID=3" onmouseover="showDDNav('menu5')" onmouseout="hideDDNav('menu5')"><img id="nav_imgNews" alt="Newsroom" src="/assets/images/nav/nsection3.gif" border="0"></a></td>
-<td><img src="/assets/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
-<td><a href="/landing.aspx?sectionID=4" onmouseover="showDDNav('menu6')" onmouseout="hideDDNav('menu6')"><img id="nav_imgPublications" alt="Publications" src="/assets/images/nav/nsection4.gif" border="0"></a></td>
+
+	<td nowrap="">
+	<a href="default.aspx"><img id="nav_imghome" alt="Home" src="/assets/images/nav/nhomePage_2.gif" border="0"></a><a href="/landing.aspx?sectionID=5" onmouseover="showDDNav('menu1')" onmouseout="hideDDNav('menu1')"><img id="nav_imgAbout" alt="" src="/assets/images/nav/nabout.gif" border="0"></a><a href="/landing.aspx?sectionID=85" onmouseover="showDDNav('menu2')" onmouseout="hideDDNav('menu2')"><img id="nav_imgJoin" alt="" src="/assets/images/nav/njoin.gif" border="0"></a><a href="/landing.aspx?sectionID=4" onmouseover="showDDNav('menu3')" onmouseout="hideDDNav('menu3')"><img id="nav_imgPublications" alt="" src="/assets/images/nav/npub.gif" border="0"></a><a href="/landing.aspx?sectionID=400" onmouseover="showDDNav('menu4')" onmouseout="hideDDNav('menu4')"><img id="nav_imgshop" alt="" src="/assets/images/nav/nshop.gif" border="0"></a><a href="/landing.aspx?sectionID=3" onmouseover="showDDNav('menu5')" onmouseout="hideDDNav('menu5')"><img id="nav_imgNews" alt="" src="/assets/images/nav/nnews.gif" border="0"></a><a href="/landing.aspx?sectionID=156" onmouseover="showDDNav('menu6')" onmouseout="hideDDNav('menu6')"><img id="nav_imgcontact" alt="" src="/assets/images/nav/ncontact.gif" border="0"></a><br><a href="/landing.aspx?sectionID=87" onmouseover="showDDNav('menu7')" onmouseout="hideDDNav('menu7')"><img id="nav_imgResources" alt="" src="/assets/images/nav/nresources.gif" border="0"></a><a href="/landing.aspx?sectionID=250" onmouseover="showDDNav('menu8')" onmouseout="hideDDNav('menu8')"><img id="nav_imgcommunity" alt="" src="/assets/images/nav/ncommunity.gif" border="0"></a><a href="/landing.aspx?sectionID=1" onmouseover="showDDNav('menu9')" onmouseout="hideDDNav('menu9')"><img id="nav_imgEducation" alt="" src="/assets/images/nav/nedu.gif" border="0"></a><a href="/landing.aspx?sectionID=2" onmouseover="showDDNav('menu10')" onmouseout="hideDDNav('menu10')"><img id="nav_imgMeetings" alt="" src="/assets/images/nav/nmeet.gif" border="0"></a><a href="/landing.aspx?sectionID=409" onmouseover="showDDNav('menu11')" onmouseout="hideDDNav('menu11')"><img id="nav_imglogin" alt="" src="/assets/images/nav/nlogin.gif" border="0"></a>
+	</td>
+
 </tr>
 </tbody></table>
 <!-- end main navigation table -->
+
 
 </td>
 </tr>
@@ -191,17 +323,15 @@ menuData[6][1][1]="/publication_search.aspx?search=1&sectionID=155";
 <!-- display the left nav-->
 <td valign="top" bgcolor="#6e9acc"><img src="/assets/images/spacer.gif" width="127" height="1" alt="" border="0"><br>
 
-<br>
+<!-- banner code -->
+<div align="center">
+<span id="left_nav_lblBanner"><a href="banner_redirect.aspx?bannerID=49" target="_new"><img src="/../assets/images/banner/builderbooks-120x60_430200394744AM.gif" border="0" width="120" height="60" vspace="4"></a></span>
+</div>
 <font size="-1"><table id="left_nav_leftNavPanel" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
 	<span id="left_nav_LinkLabel"></span>
 </td></tr></tbody></table></font>
 <br>
 <br>
-<!-- banner code -->
-<div align="center">
-<span id="left_nav_lblBanner"><a href="banner_redirect.aspx?bannerID=24" target="_new"><img src="/../assets/images/banner/trane_logo_992002124538PM.gif" border="0" width="108" height="40"></a></span>
-</div>
-<br><br>
 
 <!-- end main navigation table -->
 
@@ -239,13 +369,15 @@ menuData[6][1][1]="/publication_search.aspx?search=1&sectionID=155";
 Our web server will automatically recognize a visitor's domain name, but not the visitor's e-mail address.</p>
 
 <p><strong>E-mail Addresses</strong><br>
-We collect the e-mail addresses of those who communicate with us via e-mail, those who answer our online surveys, and those who register for our online services.</p>
+We collect the e-mail addresses of those who communicate with us via e-mail, those who answer our online surveys, register for a member login, and those who register for our online services.</p>
 
-<p><strong>Other Collected Information</strong><br>
-We collect aggregate information on what pages our visitors access or visit. We also collect information volunteered by visitors, such as information provided in registration of services, online surveys, job service postings, etc.&nbsp; Information we collect may be used to notify visitors about updates to our Web site and may be used by us to contact visitors for marketing purposes.</p>
+<p><strong>Use of Collected Information</strong><br>
+We collect aggregate information on what pages our visitors access or visit. We also collect information volunteered by visitors, such as information provided in registration of services, member login, online surveys, job service postings, etc.&nbsp;Information we collect may be used to notify visitors about updates to our Web site and may be used by&nbsp;NAHB to contact visitors for marketing purposes.&nbsp;However, NAHB does not sell to or trade e-mail lists with&nbsp;third parties.</p>
+
+<p>Users who provide their e-mail address will receive Nation's Building News Online, the official electronic newspaper of NAHB.&nbsp; This electronic newsletter has an <a href="http://www.magnetmail.net/actions/nahb_subscription_manage.cfm?user_id=nbnonline" target="_blank">opt out</a> feature if you would like to unsubscribe at any time.</p>
 
 <p><strong>Other Web Sites and Links</strong><br>
-Our Web site contains links to other Web sites. If you choose to use any of these links, you will be leaving NAHB's site and going to a new one. Protection of your privacy at these linked sites will be governed by the privacy policy at that site. NAHB is not responsible for the privacy practices such sites or the use of any information that you provide.</p>
+Our Web site contains links to other Web sites. If you choose to use any of these links, you will be leaving NAHB's site and going to a new one. Protection of your privacy at these linked sites will be governed by the privacy policy at that site. NAHB is not responsible for the privacy practices such sites or the use of any information that you provide.&nbsp;</p>
 
 <p><strong>Privacy with Respect to Minors</strong><br>
 We do not knowingly collect or use information from children under the age of 13 without the consent of a parent or guardian.</p>
@@ -260,7 +392,7 @@ If you send credit card information, we will redirect visitors to a secure serve
 This policy may change over time. Your continued use of the site after these changes are posted constitutes your agreement to the changes with regard to information collected.</p>
 
 <p><strong>Contact us</strong><br>
-If you have any questions, please&nbsp;<a href="/contact_us_form.aspx?sectionID=178" target="_self">contact us</a>.</p>
+If you have any questions, please <a href="/contact_us_form.aspx?sectionID=178" target="_self">contact us</a>.</p>
 </td>
     </tr>
     </tbody></table>
@@ -281,7 +413,7 @@ document.write('Make NAHB My Homepage</a>&nbsp;&nbsp;');
 //  End -->
 </script><a href="/footer_content.aspx?footerContentID=69" class="footer">Link to Us</a>&nbsp;&nbsp;<a class="footer" href="/search.aspx?advanced=1">Search</a>&nbsp;&nbsp;</span>
 <br>
-<span class="blueSm">Copyright © 2002 All Rights Reserved</span>
+<span class="blueSm">Copyright © 2003 All Rights Reserved</span>
 
 </div>
     </td>
@@ -289,6 +421,6 @@ document.write('Make NAHB My Homepage</a>&nbsp;&nbsp;');
 </tbody></table>
 
 <!-- end body table -->
-<script language="JavaScript" src="/js/menu_position.js" type="text/javascript"></script><div id="menu0" style="position:absolute; width:218px; z-index:20; top:134px; left: 5; background-color: #f7fae5; border-style: solid; border-width: 1px; border-color: #70a612; visibility: hidden;" onmouseover="showDDNav('menu0')" onmouseout="hideDiv('menu0')"><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x0" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x0', '#d9e1a9' )" onmouseout="divOut('x0', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=88')">&nbsp;Mission and Vision</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x1" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x1', '#d9e1a9' )" onmouseout="divOut('x1', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=89')">&nbsp;Our Organization</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x2" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x2', '#d9e1a9' )" onmouseout="divOut('x2', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=90')">&nbsp;NAHB Leadership</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x3" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x3', '#d9e1a9' )" onmouseout="divOut('x3', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('http://nahb.know-where.com/nahb/')">&nbsp;Find Your Local Builders' Association</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x4" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x4', '#d9e1a9' )" onmouseout="divOut('x4', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=93')">&nbsp;Home Builders Care</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x5" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x5', '#d9e1a9' )" onmouseout="divOut('x5', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=94')">&nbsp;National Housing Endowment</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x6" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x6', '#d9e1a9' )" onmouseout="divOut('x6', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=95')">&nbsp;Home Builders Institute</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x7" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x7', '#d9e1a9' )" onmouseout="divOut('x7', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=96')">&nbsp;NAHB Research Center</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x8" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x8', '#d9e1a9' )" onmouseout="divOut('x8', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=91')">&nbsp;Careers at NAHB</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x9" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x9', '#d9e1a9' )" onmouseout="divOut('x9', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('http://www.nahb.org/landing.aspx?sectionID=156')">&nbsp;Contact Us</div></div><div id="menu1" style="position:absolute; width:158px; z-index:20; top:134px; left: 110; background-color: #f7fae5; border-style: solid; border-width: 1px; border-color: #70a612; visibility: hidden;" onmouseover="showDDNav('menu1')" onmouseout="hideDiv('menu1')"><div id="bar" style="position:relative; height:2; width:158px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x10" style="position:relative; background-color:#f7fae5; width:151px; z-index:23;" onmouseover="divOver('x10', '#d9e1a9' )" onmouseout="divOut('x10', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=99')">&nbsp;How to Join</div><div id="bar" style="position:relative; height:2; width:158px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x11" style="position:relative; background-color:#f7fae5; width:151px; z-index:23;" onmouseover="divOver('x11', '#d9e1a9' )" onmouseout="divOut('x11', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=100')">&nbsp;Types of Membership</div><div id="bar" style="position:relative; height:2; width:158px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x12" style="position:relative; background-color:#f7fae5; width:151px; z-index:23;" onmouseover="divOver('x12', '#d9e1a9' )" onmouseout="divOut('x12', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=101')">&nbsp;Membership Benefits</div><div id="bar" style="position:relative; height:2; width:158px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x13" style="position:relative; background-color:#f7fae5; width:151px; z-index:23;" onmouseover="divOver('x13', '#d9e1a9' )" onmouseout="divOut('x13', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=102')">&nbsp;Members on Membership</div><div id="bar" style="position:relative; height:2; width:158px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x14" style="position:relative; background-color:#f7fae5; width:151px; z-index:23;" onmouseover="divOver('x14', '#d9e1a9' )" onmouseout="divOut('x14', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=103')">&nbsp;Specialized Services</div></div><div id="menu3" style="position:absolute; width:180px; z-index:20; top:134px; left: 301; background-color: #f7fae5; border-style: solid; border-width: 1px; border-color: #70a612; visibility: hidden;" onmouseover="showDDNav('menu3')" onmouseout="hideDiv('menu3')"><div id="bar" style="position:relative; height:2; width:180px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x15" style="position:relative; background-color:#f7fae5; width:173px; z-index:23;" onmouseover="divOver('x15', '#d9e1a9' )" onmouseout="divOut('x15', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/education.aspx?viewAll=1&amp;sectionID=141')">&nbsp;View All Courses</div><div id="bar" style="position:relative; height:2; width:180px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x16" style="position:relative; background-color:#f7fae5; width:173px; z-index:23;" onmouseover="divOver('x16', '#d9e1a9' )" onmouseout="divOut('x16', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/education.aspx?search=1&amp;sectionID=116')">&nbsp;Search Courses</div><div id="bar" style="position:relative; height:2; width:180px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x17" style="position:relative; background-color:#f7fae5; width:173px; z-index:23;" onmouseover="divOver('x17', '#d9e1a9' )" onmouseout="divOut('x17', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=118')">&nbsp;Workforce Training</div><div id="bar" style="position:relative; height:2; width:180px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x18" style="position:relative; background-color:#f7fae5; width:173px; z-index:23;" onmouseover="divOver('x18', '#d9e1a9' )" onmouseout="divOut('x18', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/category.aspx?sectionID=184')">&nbsp;Children &amp; Young Adult</div><div id="bar" style="position:relative; height:2; width:180px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x19" style="position:relative; background-color:#f7fae5; width:173px; z-index:23;" onmouseover="divOver('x19', '#d9e1a9' )" onmouseout="divOut('x19', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=119')">&nbsp;Designations &amp; Certifications</div></div><div id="menu2" style="position:absolute; width:218px; z-index:20; top:134px; left: 201; background-color: #f7fae5; border-style: solid; border-width: 1px; border-color: #70a612; visibility: hidden;" onmouseover="showDDNav('menu2')" onmouseout="hideDiv('menu2')"><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x20" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x20', '#d9e1a9' )" onmouseout="divOut('x20', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/category.aspx?sectionID=112')">&nbsp;For Consumers</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x21" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x21', '#d9e1a9' )" onmouseout="divOut('x21', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/category.aspx?sectionID=113')">&nbsp;Economic and Housing Data</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x22" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x22', '#d9e1a9' )" onmouseout="divOut('x22', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/category.aspx?sectionID=114')">&nbsp;International Resources</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x23" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x23', '#d9e1a9' )" onmouseout="divOut('x23', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('http://nahb.know-where.com/nahb/')">&nbsp;Find Your Local Builders' Association</div><div id="bar" style="position:relative; height:2; width:218px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x24" style="position:relative; background-color:#f7fae5; width:211px; z-index:23;" onmouseover="divOver('x24', '#d9e1a9' )" onmouseout="divOut('x24', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/category.aspx?sectionID=180')">&nbsp;Housing In Congress</div></div><div id="menu4" style="position:absolute; width:180px; z-index:20; top:134px; left: 402; background-color: #f7fae5; border-style: solid; border-width: 1px; border-color: #70a612; visibility: hidden;" onmouseover="showDDNav('menu4')" onmouseout="hideDiv('menu4')"><div id="bar" style="position:relative; height:2; width:180px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x25" style="position:relative; background-color:#f7fae5; width:173px; z-index:23;" onmouseover="divOver('x25', '#d9e1a9' )" onmouseout="divOut('x25', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/meetings_and_events.aspx?viewAll=1&amp;sectionID=121')">&nbsp;View All Meetings &amp; Events</div><div id="bar" style="position:relative; height:2; width:180px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x26" style="position:relative; background-color:#f7fae5; width:173px; z-index:23;" onmouseover="divOver('x26', '#d9e1a9' )" onmouseout="divOut('x26', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/meetings_and_events.aspx?search=1&amp;sectionID=120')">&nbsp;Search Meetings &amp; Events</div></div><div id="menu5" style="position:absolute; width:174px; z-index:20; top:134px; left: 552; background-color: #f7fae5; border-style: solid; border-width: 1px; border-color: #70a612; visibility: hidden;" onmouseover="showDDNav('menu5')" onmouseout="hideDiv('menu5')"><div id="bar" style="position:relative; height:2; width:174px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x27" style="position:relative; background-color:#f7fae5; width:167px; z-index:23;" onmouseover="divOver('x27', '#d9e1a9' )" onmouseout="divOut('x27', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/news.aspx?viewAll=1&amp;sectionID=148')">&nbsp;News Releases</div><div id="bar" style="position:relative; height:2; width:174px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x28" style="position:relative; background-color:#f7fae5; width:167px; z-index:23;" onmouseover="divOver('x28', '#d9e1a9' )" onmouseout="divOut('x28', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/news.aspx?search=1&amp;sectionID=122')">&nbsp;Search News Releases</div><div id="bar" style="position:relative; height:2; width:174px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x29" style="position:relative; background-color:#f7fae5; width:167px; z-index:23;" onmouseover="divOver('x29', '#d9e1a9' )" onmouseout="divOut('x29', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/ereleases.aspx?subscribe=1&amp;sectionID=149')">&nbsp;Subscribe to E-Releases</div><div id="bar" style="position:relative; height:2; width:174px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x30" style="position:relative; background-color:#f7fae5; width:167px; z-index:23;" onmouseover="divOver('x30', '#d9e1a9' )" onmouseout="divOut('x30', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=150')">&nbsp;Economic and Housing Data</div><div id="bar" style="position:relative; height:2; width:174px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x31" style="position:relative; background-color:#f7fae5; width:167px; z-index:23;" onmouseover="divOver('x31', '#d9e1a9' )" onmouseout="divOut('x31', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=151')">&nbsp;Facts and Photos</div><div id="bar" style="position:relative; height:2; width:174px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x32" style="position:relative; background-color:#f7fae5; width:167px; z-index:23;" onmouseover="divOver('x32', '#d9e1a9' )" onmouseout="divOut('x32', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/generic.aspx?sectionID=152')">&nbsp;Reports</div><div id="bar" style="position:relative; height:2; width:174px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x33" style="position:relative; background-color:#f7fae5; width:167px; z-index:23;" onmouseover="divOver('x33', '#d9e1a9' )" onmouseout="divOut('x33', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/contact_newsroom_form.aspx?sectionID=153')">&nbsp;Contact Public Affairs</div></div><div id="menu6" style="position:absolute; width:130px; z-index:20; top:134px; left: 635; background-color: #f7fae5; border-style: solid; border-width: 1px; border-color: #70a612; visibility: hidden;" onmouseover="showDDNav('menu6')" onmouseout="hideDiv('menu6')"><div id="bar" style="position:relative; height:2; width:130px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x34" style="position:relative; background-color:#f7fae5; width:123px; z-index:23;" onmouseover="divOver('x34', '#d9e1a9' )" onmouseout="divOut('x34', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/publication_search.aspx?viewAll=1&amp;sectionID=154')">&nbsp;View All Publications</div><div id="bar" style="position:relative; height:2; width:130px; z-index:3; left: 0; background-color:#ffffff;"><img src="/assets/images/spacer.gif" width="1" height="1"></div><div id="x35" style="position:relative; background-color:#f7fae5; width:123px; z-index:23;" onmouseover="divOver('x35', '#d9e1a9' )" onmouseout="divOut('x35', '#f7fae5')" class="gIEMenuItemStyle" onclick="gotoUrl('/publication_search.aspx?search=1&amp;sectionID=155')">&nbsp;Search Publications</div></div>
+<script language="JavaScript" src="/js/menu_position.js" type="text/javascript"></script>
 
 </body></html>
