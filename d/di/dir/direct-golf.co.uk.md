@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602225312id_/http%3A//www.direct-golf.co.uk/static/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207044300id_/http%3A//www.direct-golf.co.uk/static/privacy/privacy.asp) for the most accurate reproduction.*
 
-# Golf equipment at discount prices - Direct Golf UK. Discount golf equipment by Callaway, Ping, Titleist, TaylorMade, Nike, Mizuno, King Cobra, Founders Golf all in stock within our online golf shop
+# Golf equipment. Discount golf equipment by Direct Golf UK Ltd. Golf equipment by Callaway, Ping, Titleist, TaylorMade, Nike, Mizuno, King Cobra, Founders Golf all in stock within our online golf shop
 
 [](https://web.archive.org/index.asp)   
+[](https://web.archive.org/misc/staticBannerRedirect.asp?url=/static/stores/stores_1.asp&media_id=23)   
+[](https://web.archive.org/misc/staticBannerRedirect.asp?url=/comp/nike/index.asp)   
   
-[](https://web.archive.org/static/advice/advice.asp)   
   
-[](http://www.direct-golf.co.uk/static/tips/tips.asp)   
+[](https://web.archive.org/misc/staticBannerRedirect.asp?url=/static/advice/advice.asp&media_id=24)   
   
-[](https://web.archive.org/misc/bannerRedirect.asp?url=/product/product.asp?product_ID=487&image=/images/banners/r360.gif)   
-[](https://web.archive.org/static/stores/stores_1.asp)   
-[ ](https://web.archive.org/static/about/authorised.asp)   
-[](https://web.archive.org/static/returns/guarantee.asp) | 
+[](https://web.archive.org/misc/staticBannerRedirect.asp?url=/static/tips/tips4.asp&media_id=22)   
+  
+[](https://web.archive.org/misc/bannerRedirect.asp?url=/product/product.asp?product_ID=1666&media_id=2&image=/images/p_shot_1/toursoft_150.gif)   
+[ ](https://web.archive.org/misc/staticBannerRedirect.asp?url=/static/about/authorised.asp&media_id=25)   
+[](https://web.archive.org/misc/staticBannerRedirect.asp?url=/static/returns/guarantee.asp&media_id=26) | 
 
 | Privacy policy  
 ---  
@@ -56,9 +58,10 @@ If you are concerned about security, you can usually modify your browser to prev
 If you have any questions about your privacy on this site, you should e-mail us at [info@direct-golf.co.uk](mailto:info@direct-golf.co.uk).   
   
 [](https://web.archive.org/members/signup.asp)   
-[](https://web.archive.org/misc/bannerRedirect.asp?url=/product/product.asp?product_ID=190&image=/images/banners/titleist.gif)   
   
-[](https://web.archive.org/static/brochure/brochure_req.asp)   
+[](https://web.archive.org/misc/bannerRedirect.asp?url=/foundersclub/&image=/images/p_shot_1/fc_site.gif)   
   
   
-[](https://web.archive.org/static/demodays/demodays.asp)
+  
+[](https://web.archive.org/misc/staticBannerRedirect.asp?url=/static/demodays/demodays.asp&media_id=7)   
+
