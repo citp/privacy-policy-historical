@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207094651id_/http%3A//www.bandwidthplace.com/about/index.html%3Fv%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622121319id_/http%3A//bandwidthplace.com/about/index.html%3Fv%3Dprivacy) for the most accurate reproduction.*
 
 # Bandwidth Place, About Us
 
 **About us**  
 
 
-[Careers at RPM Software](http://rpmsoftware.com/company/jobs.html)| |   
+| |   
 
 
  **Privacy policy**  
