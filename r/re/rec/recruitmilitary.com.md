@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621160337id_/http%3A//recruitmilitary.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207045642id_/http%3A//recruitmilitary.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
 
 # RecruitMilitary.com - Privacy Policy
 
@@ -47,7 +47,7 @@ This Privacy Policy may be modified from time to time. Any notices that reflect 
 
 RecruitMilitary LLC  
 Attn: Privacy Issues  
-4520 Cooper Road, Suite 304  
-Cincinnati, OH 45242
+422 West Loveland Avenue  
+Loveland, OH 45140 (greater Cincinnati)
 
 Thank you for using RecruitMilitary.com.
