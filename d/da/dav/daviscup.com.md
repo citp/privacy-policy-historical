@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2003-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030206103232id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205031927id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
 
-# Legal Information
+# Davis Cup - Legal Information
 
 The following provides detail about our Privacy Policy.   
 We treat your privacy seriously.
@@ -31,7 +31,7 @@ We may use personal information collected about you to personalise your visits t
 
 We may use personal information collected about you to let you know about functionality changes to our web site or changes to our terms and conditions of use.
 
-Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us at [dataprotection@itftennis.com](mailto:dataprotection@itftennis.com).
+Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our [feedback form](http://www.daviscup.com/feedback.asp?id=7).
 
 **Traffic Data**
 
@@ -47,4 +47,6 @@ We have strict security procedures covering the storage and disclosure of your i
 
 **Cookies**
 
-A cookie is a piece of information that is stored on your computer's hard drive by your web browser. We may use cookies to identify returning visitors to our websites and obtain information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our web site, including purchasing items. Back to Top
+A cookie is a piece of information that is stored on your computer's hard drive by your web browser. We may use cookies to identify returning visitors to our websites and obtain information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our web site, including purchasing items. 
+
+^ [Back to Top](http://www.daviscup.com/about/legal.asp#top)
