@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623083618id_/http%3A//www.baltimoresun.com/about/bal-sunspot-privacy.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208221907id_/http%3A//www.baltimoresun.com/about/bal-sunspot-privacy.htmlstory) for the most accurate reproduction.*
 
 # baltimoresun.com - Privacy Policy
 
-[](http://adserver.trb.com/event.ng/Type=click&FlightID=66979&AdID=119515&Custom=iab_bigbanner&TargetID=10743&Segments=214,405,1708,2433,4709,5041,6140,6481,6540,6602,6631,6648,6699,6887,6917,6921,7689,7714,7732,7733,7734&Targets=6576,9897,9971,10743,11072,11128,10132,11854,10845,10296,10519,11929,11928&Values=34,46,51,63,77,83,93,100,110,150,287,289,301,328,331,356,398,591,998,1016,1093,1105,1136,1171,1606,1617,1648,1816,1838,1887,1888,1917,1978,1981,1984,1986,2066,2091,2281,2283&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www.nissanusa.com)
-
-[ ](http://adserver.trb.com/event.ng/Type=click&FlightID=66979&AdID=119515&TargetID=10743&Segments=214,405,1708,2433,4709,5041,6140,6481,6540,6602,6631,6648,6699,6887,6917,6921,7689,7714,7732,7733,7734&Targets=6576,9897,9971,10743,11072,11128,10132,11854,10845,10296,10519,11929,11928&Values=34,46,51,63,77,83,93,100,110,150,287,289,301,328,331,356,398,591,998,1016,1093,1105,1136,1171,1606,1617,1648,1816,1838,1887,1888,1917,1978,1981,1984,1986,2066,2091,2281,2283&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www.nissanusa.com)  
-  
 Privacy Policy
 
 Last Updated: February, 2004 
@@ -72,4 +68,4 @@ In the event case of any conflict between the terms of this policy and the terms
   
 
 
-Enter to win tickets to movies, concerts, festivals, sporting events and more. This month's featured contest: Take Me Out to the Ballgame. Learn more about events sponsored by The Baltimore Sun and baltimoresun.com, including Baltimore's Best Darn Yard Sale. This month's featured section: E. Baltimore County Hometown Guide. Purchase press plates of _Sun_ front pages and logo merchandise. 
+Enter to win tickets to movies, concerts, festivals, sporting events and more. This month's featured contest: Baltimore Blast tickets. Learn more about events sponsored by The Baltimore Sun and baltimoresun.com, including the Health & Fitness Expo. This month's featured section: Holiday Gift Guide. Purchase press plates of _Sun_ front pages and logo merchandise. 
