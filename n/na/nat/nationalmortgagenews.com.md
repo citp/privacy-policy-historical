@@ -1,27 +1,38 @@
-> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609210207id_/http%3A//www.nationalmortgagenews.com/nmn/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603034939id_/http%3A//www.nationalmortgagenews.com/privacy) for the most accurate reproduction.*
 
-# Thomson Financial Media Privacy Policy
+# National Mortgage News
 
-|   | 
+National Mortgage News (NMN) is committed to protecting your privacy. Our intent throughout our online presence is to collect only the information we need to deliver excellent service, use that information responsibly, and to keep you fully informed how that information is being used.
 
-Thomson Financial Media Privacy Policy
+This policy applies to all pages within the Thomson Media National Mortgage News Web sites, including www.nationalmortgagenews.com, www.mortgagestats.com, www.originationnews.com, www.mortgageservicingnews.com, www.mortgage-technology.com, www.brokeruniverse.com, www.weirdloans.com and www.mortgagegrapevine.com, as well as our e-mail newsletters: the Daily Briefing and the BrokerUniverse Newsletter. 
 
-The policies below are applicable to the following sites owned or operated by Thomson Financial Media: www.nationalmortgagenews.com, www.mortgagestats.com, www.originationnews.com, www.mortgageservicingnews.com, www.mortgage-technology.com, www.brokermagazine.com, www.cujournal.com, www.nmnews.faulknergray.com, and www.nmnews.faulknergray.com. The Thomson Financial Media sites are maintained by Thomson Financial Media, 11 Penn Plaza, New York City, NY, 10001\. We can be reached via e-mail at [andras.malatinszky@tfn.com](mailto:andras.malatinszky@tfn.com).
+If you have any questions regarding the information we are gathering, why we ask certain questions, or how we plan to use the information we have requested, and if your answer isn't on this page, please contact Andras Malatinszky, manager of electronic products, by phone at (202) 434-0321 or via e-mail at andras.malatinszky@thomsonmedia.com for a full explanation.
 
-Thomson Financial Media respects each individual user's right to privacy. Thomson Financial Media may place a "cookie" on the visitor's hard drive in order to facilitate a user friendly experience. Cookies are small pieces of information that a Web site places on your computer's hard drive for tracking purposes. Thomson Financial Media uses cookie information it receives by placing the cookie on user's hard drive to improve the efficiency of customer service on our online subscription based sites, allowing subscribers to easily change addresses, and add or cancel subscriptions by automatically verifying that you are a subscriber. Thomson Financial Media also uses cookies to enhance our site content by compiling aggregate information about what specific sections users visit and which pages. Cookies may also be placed by our advertisers or independent third parties who actually operate the servers on which the ads reside. Although Thomson Financial Media requests such parties to adhere to appropriate privacy standards and policies, Thomson Financial Media is not responsible for the actions or policies of such parties.
+This Privacy Policy covers NMN's treatment of personally identifiable information we collect when you are on the NMN site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies NMN does not own or control, or to individuals NMN does not employ or manage, including operators of sites to which you may link from the NMN Web sites. 
 
-Thomson Financial Media collects personal identifying information, when such information is specifically and knowingly provided, from users during (i)contest, survey, sweepstakes or site registration promotions, and (ii) subscription registration for sites or services requiring such registration information. Thomson Financial Media may use this information for marketing and promotional purposes. Thomson Financial Media occasionally informs our users of special deals, new products, and other third party product and service offers that we believe our users will find interesting. Users are given the option to choose whether they would like to receive such mailings upon registration. Individual users can request, at any time, that their information not be used for such purposes by sending an e-mail request to Thomson Financial Media at the address given above.
+**What information do we gather?**  
+The only personally identifiable information we collect about you is that which you choose to share with us in registration or when responding to offers from NMN or from our business partners. By providing us with your name, address, telephone number, fax and e-mail address, you are agreeing to receive communications sent by NMN or on behalf of Thomson Media and its affiliate companies. We also collect information about aggregate site usage. The statistics we gather about unique visits, repeat visits and page views are all based on IP addresses, and are not associated with your personal information. 
 
-Although it does not currently rent lists of users, Thomson Financial Media may decide in the future to offer companies and organizations that have a product or service believed to be of interest to the user the opportunity to rent our list. Thomson Financial Media may share a user's personally-identifiable information with these companies in an effort to help locate these resources. Thomson Financial Media will, however, offer the user the opportunity to "opt out" of having their personally-identifiable information shared with third parties that are not affiliated with Thomson Financial Media.
+**How this information is used?  
+**· Information gathered at registration is used to identify users who may be interested in hearing from Thomson Media about our products, to collect subscriptions to our free e-newsletters.   
+· Information requested for subscription services will be used to provide those services. 
 
-If a Thomson Financial Media user knowingly provides personal information such as a user name or e-mail address in a chat or bulletin board area, that user should be aware that the information provided can be collected and used by others in that area.
+· If you send us email, be aware that your return address will be displayed in the header we receive. We will use this information to answer your inquiry and we may keep your message as a record of our contacts. At no time will we share that information with outside companies or agencies, unless we are required to do so by law or court order. 
 
-No information should be submitted to Thomson Financial Media by children 16 years of age or under without their parent's or guardian's consent. Thomson Financial Media does not monitor the age of its user audience.
+· Any identifying information you post to our Web-based bulletin board (Mortgage Grapevine Discussion Group) is public information. Although we make no effort to collect personal information from the boards, other visitors may record your email address, for example, to add to a bulk mail list. You may wish not to post your email address or other contact information in a message, and also not to use your email address as your username. 
 
-* * *
+**Who has access to this information?**  
+· Only NMN staff or related groups or companies of Thomson Media will use information requested, unless you give us your explicit permission to share your information with others. 
 
-__© Copyright 2002 by The Thomson Corporation and National Mortgage News.  
-All rights reserved. __  
-  
-  
----|---|---
+· NMN will not share or sell your contact information or any information collected on a company or person visiting our Web site to any outside company, unless you give us explicit permission to do so.
+
+**Changes to the NMN Privacy Policy:**  
+NMN reserves the right to introduce new services or practices that may require a change in this policy. We are committed to make the necessary changes promptly to keep you informed on how we use information you give us.
+
+You may request to be removed from our contact lists by emailing custserv@thomsonmedia.com or by mailing: 
+
+Customer Service  
+National Mortgage News  
+One State Street Plaza, 27th Floor New York, NY 10004 
+
+Please indicate if you are not willing to be contacted by phone, fax, or e-mail, or if you do not wish to have your information shared with NMN's partners or advertisers.
