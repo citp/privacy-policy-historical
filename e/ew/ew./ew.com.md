@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ew.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207110449id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/ew%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ew.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325091317id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/ew%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Entertainment Weekly Privacy Policy
 
