@@ -1,35 +1,18 @@
-> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009201314id_/http%3A//www.play-asia.com/paOS-00-3-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184040id_/http%3A//www.play-asia.com/paOS-00-3-privacy.html) for the most accurate reproduction.*
 
 # Play-Asia.com - Japanese & Asian Import Video Games for Consoles and PC
 
-|  |  |   
----  
-   
----  
-|  |   
-
-
+|   
+---|---  
   
-[](https://web.archive.org/paOS-13-71-43-70-8ea.html)
-
-[Berserk](https://web.archive.org/paOS-13-71-43-70-8ea.html)
-
-  
-Hack and Slash action adventure game based on the famous Japanese anime series.
-
-US$ 64.90
-
-|  |   
+|  |    
   
   
-  
-  
----  
-  
-| 
+|  | 
 
 Location: [Start](http://www.play-asia.com/)  > [Play-Asia.com Privacy Statement](https://web.archive.org/paOS-00-3-privacy.html)  
   
+---|---|---  
   
 |   
 ---  
@@ -102,271 +85,22 @@ Conditions of Use, Notices, and Revisions
   |    
 |   |    
    
-|   
----  
- [](https://web.archive.org/paOS-13-71-41-70-cyk.html)  | [Burnout 3: Takedown](https://web.archive.org/paOS-13-71-41-70-cyk.html) |  US$ 49.90  
   
- [](https://web.archive.org/paOS-15-72-1-73-1-70-cyk-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-cyk-45-1-40-copy_saved.html)  
-Electronic Arts  
-Compatible with PlayStation2™  
-Korean, NTSC J / Racing  
-Usually ships within 1 week  
+sale out   
   
   
+| Display language:  | [English](https://web.archive.org/paOS-16-46-1.html) -  | [Français](https://web.archive.org/paOS-16-46-e.html) -  | [Deutsch](https://web.archive.org/paOS-16-46-2.html) -  | [](https://web.archive.org/paOS-16-46-d.html)   
+---|---|---|---|---  
+Reference currency:  |   
   
-  
- [](https://web.archive.org/paOS-13-71-43-70-9gb.html)  | [Tsuki wa Higashi ni Ha wa Nishi na: Operation Sanctuary](https://web.archive.org/paOS-13-71-43-70-9gb.html) |  US$ 64.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-9gb-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-9gb-45-1-40-copy_saved.html)  
-Alchemist  
-Compatible with PlayStation2™  
-Japanese, NTSC J / Adventure  
-Usually ships within 1 week  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-46-70-9rt.html)  | [CR Pachinko Dokaben: Pachitte Chonmage Tatsujin 7](https://web.archive.org/paOS-13-71-46-70-9rt.html) |  US$ 59.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-9rt-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-9rt-45-1-40-copy_saved.html)  
-Hackberry  
-Compatible with PlayStation2™  
-Japanese, NTSC J / Gambling  
-Usually ships within 1 week  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-43-70-9x6.html)  | [Final Approach [Limited Edition]](https://web.archive.org/paOS-13-71-43-70-9x6.html) |  US$ 79.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-9x6-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-9x6-45-1-40-copy_saved.html)  
-Princess Soft  
-Compatible with PlayStation2™  
-Japanese, NTSC J / Adventure  
-Usually ships within 1 week  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-43-70-9x7.html)  | [Final Approach](https://web.archive.org/paOS-13-71-43-70-9x7.html) |  US$ 64.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-9x7-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-9x7-45-1-40-copy_saved.html)  
-Princess Soft  
-Compatible with PlayStation2™  
-Japanese, NTSC J / Adventure  
-Usually ships within 1 week  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-r-70-a80.html)  | [Star Wars: Battlefront](https://web.archive.org/paOS-13-71-r-70-a80.html) |  US$ 64.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-a80-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-a80-45-1-40-copy_saved.html)  
-LucasArts  
-Compatible with PlayStation2™  
-Japanese, NTSC J / Action  
-Usually ships within 1 week  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-3l-70-b5a.html)  | [Star Wars: Battlefront](https://web.archive.org/paOS-13-71-3l-70-b5a.html) |  US$ 64.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-b5a-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-b5a-45-1-40-copy_saved.html)  
-LucasArts  
-Compatible with Xbox™  
-Japanese, NTSC J / Action  
-Usually ships within 1 week  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-43-70-d7g.html)  | [Berserk](https://web.archive.org/paOS-13-71-43-70-d7g.html) |  US$ 59.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-d7g-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-d7g-45-1-40-copy_saved.html)  
-Sammy  
-Compatible with PlayStation2™  
-Korean, NTSC J / Action Adventure  
-Usually ships within 1 week  
-  
+Trademarks listed on our pages belong to their designated owner(s). If you have any matter you want to bring up to us regarding copyright or trademarks, please feel free to [contact us](https://web.archive.org/paOS-21.html).  
   
 ---  
- [](https://web.archive.org/paOS-13-71-99-70-18o.html)  | [Gunman Light Gun](https://web.archive.org/paOS-13-71-99-70-18o.html) |  US$ 8.90  
   
- [](https://web.archive.org/paOS-15-72-1-73-1-70-18o.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-18o-40-copy_saved.html)  
-Hais  
-Compatible with PSOne™, PlayStation2™  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-3op.html)  | [Onimusha 3 (incl. Making of DVD)](https://web.archive.org/paOS-13-71-99-70-3op.html) |  US$ 19.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-3op.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-3op-40-copy_saved.html)  
-Capcom  
-Compatible with PlayStation2™  
-Korean, NTSC J / Action Adventure  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-jw.html)  | [Dream Connection 2in1](https://web.archive.org/paOS-13-71-99-70-jw.html) |  US$ 4.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-jw.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-jw-40-copy_saved.html)  
-Skillz  
-Compatible with Dreamcast™  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-18l.html)  | [Multi Mini Stick 10in1](https://web.archive.org/paOS-13-71-99-70-18l.html) |  US$ 0.99  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-18l.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-18l-40-copy_saved.html)  
-3rd Party  
-Compatible with Game Boy Advance™  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-w2.html)  | [Protective Slipcover (Shock Protector)](https://web.archive.org/paOS-13-71-99-70-w2.html) |  US$ 0.99  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-w2.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-w2-40-copy_saved.html)  
-3rd Party  
-Compatible with Game Boy Advance™  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-18f.html)  | [RGB Cable](https://web.archive.org/paOS-13-71-99-70-18f.html) |  US$ 2.99  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-18f.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-18f-40-copy_saved.html)  
-3rd Party  
-Compatible with Xbox™  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-1ld.html)  | [Tomb Raider IV: The last Revelation](https://web.archive.org/paOS-13-71-99-70-1ld.html) |  US$ 9.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-1ld.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-1ld-40-copy_saved.html)  
-Eidos Interactive  
-Compatible with Dreamcast™  
-European, PAL / Adventure  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-26k.html)  | [Grip - Black](https://web.archive.org/paOS-13-71-99-70-26k.html) |  US$ 1.99  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-26k.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-26k-40-copy_saved.html)  
-3rd Party  
-Compatible with GBA SP™  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-2m.html)  | [Skillz Extreme Pad](https://web.archive.org/paOS-13-71-99-70-2m.html) |  US$ 4.99  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-2m.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-2m-40-copy_saved.html)  
-Skillz  
-Compatible with PlayStation2™  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-24r.html)  | [Vertical Stand with CD Box](https://web.archive.org/paOS-13-71-99-70-24r.html) |  US$ 4.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-24r.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-24r-40-copy_saved.html)  
-Panther  
-Compatible with PlayStation2™  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-1ql.html)  | [Afterburner Case - Milky Pink](https://web.archive.org/paOS-13-71-99-70-1ql.html) |  US$ 0.25  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-1ql.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-1ql-40-copy_saved.html)  
-3rd Party  
-Compatible with Game Boy Advance™  
-Usually ships within 24hrs  
-  
-  
-  
-  
- [](https://web.archive.org/paOS-13-71-99-70-1vd.html)  | [Tomb Raider III: Adventures of Lara Croft (Greatest Hits Edition)](https://web.archive.org/paOS-13-71-99-70-1vd.html) |  US$ 9.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-1vd.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-1vd-40-copy_saved.html)  
-Eidos Interactive  
-Compatible with PSOne™  
-US, NTSC U/C / Adventure  
-Usually ships within 24hrs  
-  
-  
+Website & content copyright 2002-2005 Play-Asia.com.   
    
-|   |   
----|---  
-|   
+[Add one of our banners to your site](https://web.archive.org/paOS-37.html)  
   
-**Display language:[English](https://web.archive.org/paOS-16-46-1.html) \- [Français](https://web.archive.org/paOS-16-46-e.html) ** |   
-  
-> Trademarks listed on our pages belong to their designated owner(s). If you have any matter you want to bring up to us regarding copyright or trademarks, please feel free to [contact us](https://web.archive.org/paOS-21.html).
->
->> |   
-Website & content copyright 2002-2004 Play-Asia.com.  |   
-  |   
-[Add one of our banners to your site](http://banner.play-asia.com/paOS-1e.html) |   
-   
-   
-  
+[](https://web.archive.org/paOS-26-29-aHR0cDovL3d3dy5rdWFsby5jb20vcGEv.html)  
   
 
