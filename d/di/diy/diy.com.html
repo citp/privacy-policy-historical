@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the diy.com privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602181826id_/http%3A//www.diy.com/miscellaneous/privacy/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diy.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203012116id_/http%3A//www.diy.com/miscellaneous/privacy/privacy.jhtml) for the most accurate reproduction.-->
 
 <html><head><link rel="P3Pv1" href="/p3p.xml">
 
@@ -27,6 +27,15 @@
 // use this function to replace status bar text when using nedstat links
 
 function statusbar(ref){if (!ref){status = "";}else{if(ref.alt){status = ref.alt}else{status = ref.innerText;}}}
+
+//Command to set the window name to BQ for use within pop ups and linking between browser windows etc
+window.name="BQ";
+
+//Function to open pop up windows
+function GlobalPopUp(theURL,winName,features)
+	{
+	return window.open(theURL,winName,features);
+	}
 
 // -->
 
