@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203224557id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608141203id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for PageResource.Com
 
 The Web Design Resource has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: PageResource.Com. 
 
-Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20031203224557id_/http%3A//www.pageresource.com/privacych.html)**
+Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20040608141203id_/http%3A//www.pageresource.com/privacych.html)**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
@@ -56,4 +56,4 @@ If you have any questions about this privacy statement, the practices of this si
 This statement was generated with help from the Privacy Statement Wizard at: <http://www.truste.org/>. We made the proper adjustments to it to reflect our site's information. The rest was written by the wizard. 
 
 \--------------------  
-Copyright © 1997-2003 [The Web Design Resource](http://www.pageresource.com/). All rights reserved. 
+Copyright © 1997-2004 [The Web Design Resource](http://www.pageresource.com/). All rights reserved. 
