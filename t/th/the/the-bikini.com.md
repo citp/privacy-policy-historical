@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209091903id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315090132id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # the- bikini.com: sexy, micro, mini, tiny, sheer, thongs, crochet bikinis and lingerie for sale, photos, online shop.
 
-  
   
   
   
@@ -30,8 +29,8 @@ It does not bite, cause bumps, discomfort or ingrown hairs. This is the BEST WOM
 Affiliates
 
 If you have a website, you can sell our bikinis. Sign up on our affiliate sales program!  
-[Sign Up!](http://www.1shoppingcart.com/app/afsignup.asp?merchantID=49484)  
-[Log In!](http://www.1shoppingcart.com/app/aflogin.asp?merchantID=49484)
+[Sign Up!](http://www.the-bikini.com/cmd.php?cmd=signup)  
+[Log In!](http://www.the-bikini.com/cmd.php?cmd=login)
 
   
   
@@ -93,4 +92,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20041209091903id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20050315090132id_/http%3A//www.the-bikini.com/contact/). 
