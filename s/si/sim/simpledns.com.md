@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204044754id_/http%3A//www.simpledns.com/pol-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307151422id_/http%3A//www.simpledns.com/policy.asp%3Fprivacy) for the most accurate reproduction.*
 
 # Simple DNS Plus - Windows DNS Server
 
@@ -43,4 +43,7 @@ This site contains links to other sites. JH Software is not responsible for the 
 **CONTACT US**  
 If you have any additional questions or concerns about our privacy policy, please contact us at [support@jhsoft.com](mailto:support@jhsoft.com)
 
-For more information, please see [Terms of Use](https://web.archive.org/web/20041204044754id_/http%3A//www.simpledns.com/pol-terms.asp)
+For more information, please see [Terms of Use](https://web.archive.org/web/20050307151422id_/http%3A//www.simpledns.com/pol-terms.asp)
+
+  
+
