@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinefinder.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603192647id_/http%3A//ezinefinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinefinder.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217071553id_/http%3A//ezinefinder.com/privacy.html) for the most accurate reproduction.*
 
 # DayTips.com
 
@@ -35,5 +35,4 @@ DayTips.com, Inc.
 824 S. Milton Ave.  
 Baltimore, MD 21224
 
-[mkennedy@daytips.com](mailto:mkennedy@daytips.com)  
-Tel: 410-732-0871 
+[mkennedy@daytips.com](mailto:mkennedy@daytips.com)
