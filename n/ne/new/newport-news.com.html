@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the newport-news.com privacy policy that was archived on 2001-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011204165220id_/http%3A//www.newport-news.com/info/frame_internetsecurity.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newport-news.com privacy policy that was archived on 2002-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203031650id_/http%3A//www.newport-news.com/info/privacy_policy.asp%3Fcat_id%3D12) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <link rel="stylesheet" type="text/css" href="/include/styles.css">
-<title>Newport News</title>
+<title>Newport News: Privacy Policy</title>
 
 <script language="javascript">
 <!-- Hiding
@@ -13,223 +13,482 @@ function changeEmailOpen(filex, targ) {
 
 //END HIDING -->
 </script>
+<script>
+	<!--
+         function newwindow (url){
+                 popwindow=window.open(url,'openwindow','scrollbars=yes,toolbar=no,resizable=yes,status=yes,width=510,height=300')
+         }
+ 
+	// -->
+</script>
 </head>
 
-<body>
+<body marginheight="0" marginwidth="0">
 
 
 
-<script language="JavaScript">
+<script type="text/javascript" language="JavaScript">
 <!--
-function linkTo(form) {
+function linkTo_shopbyitem(form) {
     var myindex=form.Shopbyitem.selectedIndex
-	top.location=(form.Shopbyitem.options[myindex].value);
+	
+	location.href=(form.Shopbyitem.options[myindex].value);
 	
 }
 //-->
 </script>
 
 
-<table border="0" cellpadding="0" cellspacing="0">
-<form target="_top" action="http://www.newport-news.com/shop/execute/xt_store_nav.asp" method="POST"></form>
-<tbody><tr><!-- spacer row -->
-<td width="1"><img src="/assets/images/shim.gif" width="1" height="1" border="0" alt=""></td>
-<td width="26"><img src="/assets/images/shim.gif" width="26" height="1" border="0" alt=""></td>
-<td width="192"><img src="/assets/images/shim.gif" width="192" height="1" border="0" alt=""></td>
-<td width="52"><img src="/assets/images/shim.gif" width="52" height="1" border="0" alt=""></td>
-<td width="208"><img src="/assets/images/shim.gif" width="208" height="1" border="0" alt=""></td>
-<td width="149"><img src="/assets/images/shim.gif" width="149" height="1" border="0" alt=""></td>
-<td width="13"><img src="/assets/images/shim.gif" width="13" height="1" border="0" alt=""></td>
-</tr>
-
-<tr><!-- row 1 -->
-<td width="1"><img src="/assets/images/shim.gif" width="1" height="1" border="0" alt=""></td>
-<td width="26" rowspan="3" valign="top"><img src="/assets/images/tn/tn_cap1.gif" width="26" height="44" border="0" alt=""></td>
-<td colspan="4" bgcolor="#6699CC"><img src="/assets/images/shim.gif" width="601" height="8" border="0" alt=""></td>
-<td width="13" rowspan="3" valign="top"><img src="/assets/images/tn/tn_cap2.gif" width="13" height="86" border="0" alt=""></td>
-</tr>
-
-<tr><!-- row 2 -->
-<td width="1"><img src="/assets/images/shim.gif" width="1" height="1" border="0" alt=""></td>
-<td width="192" bgcolor="#003366" valign="middle"><font face="Arial" size="-1">
+<script language="JavaScript1.2" src="/include/layers.js"></script>
+<script language="JavaScript1.2" src="/include/loadImages.js"></script>
+<script language="JavaScript1.2">
+<!--
 
 
-<select name="Shopbyitem" title="Shop by item" onchange="linkTo(this.form)">
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;pacatid=130&amp;catid=142">Shop by Item</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;pacatid=130&amp;catid=142">Jackets</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;pacatid=131&amp;catid=146">Tops</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;pacatid=132&amp;catid=152">Dresses</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;pacatid=133&amp;catid=158">Sweaters</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;catid=134">Leggings</option>
-<option value="http://www.newport-news.com//shop/footwear.asp?gpcatid=3">Shoes </option>
-<option value="http://www.newport-news.com//shop/accessories.asp?gpcatid=4">Accessories</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;pacatid=137&amp;catid=163">Pants &amp; Shorts</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;pacatid=138&amp;catid=165">Skirts</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;pacatid=139&amp;catid=168">Two-Piece Sets</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;catid=140">Outerwear</option>
-<option value="http://www.newport-news.com//shop/subcat_8.asp?gpcatid=8&amp;pacatid=141&amp;catid=254">Intimates</option>
-<option value="http://www.newport-news.com//shop/swim_finder.asp">Swimwear</option>
-</select> 
+var defImg = '';
+var currentImg = defImg;
+var currentLyr = '';
+var j12 = false;
+var gTO = null;
+var kWaitTime = 500;
+
+function rollOverMain(imageID, imagename) {
+   
+	if (currentImg && (currentImg != imageID)) {
+		rollOut(currentImg,currentImg);
+	}
+	rollOver(imageID, imagename);
+	currentImg = imageID;
+}
+
+function rollOutMain(imageID, imagename) {
+	rollOut(imageID, imagename);
+	if (currentImg == imageID) {
+		currentImg = defImg;
+		if (defImg) {
+			rollOver(defImg,defImg);
+		}
+	}
+
+	if('' != ''){
+		rollOverMain('','');
+	}
+}
+
+function rollLayerMain(layerID) {
+	if (navigator.appName.indexOf("WebTV") == -1) {
+		if (currentLyr) {
+			hideLayer(currentLyr);
+		}
+		if (layerExists(layerID)) {
+			showLayer(layerID);
+			currentLyr = layerID;
+		}
+	}
+}
+
+function rollOverSub(aSection,aNum) {
+	stopTimer();
+	if (NN) {
+		eval('document.i_' + aSection + '.document.images["' + aSection + '_sub' + aNum + '"].src = eval("g" + aSection + "_sub" + aNum + "_hi" + ".src");');
+		} else {
+		rollOver(aSection + '_sub' + aNum,aSection + '_sub' + aNum);
+	}
+}
 
 
+function rollOutSub(aSection,aNum) {
+	startTimer(aSection);
+	if (NN) {
+		eval('document.i_' + aSection + '.document.images["' + aSection + '_sub' + aNum + '"].src = eval("g" + aSection + "_sub" + aNum + ".src");');
+	} else {
+		rollOut(aSection + '_sub' + aNum,aSection + '_sub' + aNum);
+	}
+}
 
- 
- </font> &nbsp;<input type="Image" name="go" src="/assets/images/tn/go.gif" width="25" height="15" border="0" alt="Go" align="absmiddle"></td> 
- <td width="52"><a target="_top" href="http://www.newport-news.com/shop/fashion.asp?gpcatid=2"><img src="/assets/images/tn/tn_fashion.gif" width="52" height="26" border="0" alt="fashion"></a></td><td colspan="2"><a target="_top" href="http://www.newport-news.com/shop/footwear.asp?gpcatid=3"><img src="/assets/images/tn/tn_foot.gif" width="60" height="26" border="0" ="footwear"=""></a><a target="_top" href="http://www.newport-news.com/shop/accessories.asp?gpcatid=4"><img src="/assets/images/tn/tn_access.gif" width="71" height="26" border="0" alt="accessories"></a><a target="_top" href="http://www.newport-news.com/shop/forthehome.asp?gpcatid=5"><img src="/assets/images/tn/tn_forhome.gif" width="83" height="26" border="0" alt="for the home"></a><a target="_top" href="http://www.newport-news.com/shop/realdeals.asp?gpcatid=6"><img src="/assets/images/tn/tn_real.gif" width="65" height="26" border="0" alt="real deals"></a><a target="_top" href="http://www.newport-news.com/shop/fashiontips.asp?gpcatid=7"><img src="/assets/images/tn/tn_tips.gif" width="79" height="26" border="0" alt="fashion tips"></a></td> 
+function clearLayers() {
+	if (currentLyr) {
+		hideLayer(currentLyr);
+	}
+	currentLyr = '';
+		if('' != ''){
+			rollLayerMain('i_hide');
+			rollOverMain('','');
+		}
+	}
+
+function rollOver(imageID, imagename) {
+	if(eval("g" + imagename + "_hi")){
+		document.images[imageID].src = eval("g" + imagename + "_hi" + ".src");
+       }
+}
+
+function rollOut(imageID, imagename) {
+	if(eval("g" + imagename )){
+		document.images[imageID].src = eval("g" + imagename + ".src");
+       }
+}
+
+function initDefaults() {
+	if (defImg) {
+		rollOverMain(defImg,defImg);
+	}
+}
+
+function startTimer(imageID) {
+	gTO = setTimeout('rollOutMain(\'' + imageID + '\',\'' + imageID + '\'); clearLayers();',kWaitTime);
+}
+
+function stopTimer() {
+	if (gTO) {
+		clearTimeout(gTO);
+		gTO = null;
+	}
+	return true;
+}
+
+function frameLink(bodyURL) {
+	window.parent.location.href = bodyURL;
+	//window.location.href = topURL;
+}
+window.onload = initDefaults;
+onerror = nothing;
+function nothing() {
+	;
+}
+
+//-->
+</script>
+
+<script type="text/javascript" language="JavaScript1.2">
+if (navigator.appName.indexOf("WebTV") == -1) {
+	init();
+	makeLayer('i_fash',150,116,614,18,hideName,'<a href="/shop/shopbyitem.asp?gpcatID=2&pacatID=1649" onmouseover="rollOverSub(\'fash\',\'1\');" onmouseout="rollOutSub(\'fash\',\'1\');" ><img src="/assets/images/topnav/subcat_topnav_fash1_off.gif" name="fash_sub1" width="89" height="12" border="0">\</a>' +
+	'<a href="/shop/trends.asp?gpcatID=2&pacatID=9" onmouseover="rollOverSub(\'fash\',\'2\');" onMouseOut="rollOutSub(\'fash\',\'2\');" ><img src="/assets/images/topnav/subcat_topnav_fash2_off.gif" name="fash_sub2" width="53" height="12" alt="" border="0">\</a>' +
+	'<a href="/shop/lifestyle.asp?gpcatID=2&pacatID=19" onMouseOver="rollOverSub(\'fash\',\'3\');" onMouseOut="rollOutSub(\'fash\',\'3\');" ><img src="/assets/images/topnav/subcat_topnav_fash3_off.gif" name="fash_sub3" width="63" height="12" border="0">\</a>' +
+	'<a href="/shop/fashion_promo.asp?gpcatID=2&pacatID=1650" onMouseOver="rollOverSub(\'fash\',\'4\');" onMouseOut="rollOutSub(\'fash\',\'4\');" ><img src="/assets/images/topnav/subcat_topnav_fash4_off.gif" name="fash_sub4" width="93" height="12" border="0">\</a>');
+	makeLayer('i_sizes',220,116,614,18,hideName,'<a href="/shop/petite.asp?gpcatID=1875&pacatID=1876" onMouseOver="rollOverSub(\'sizes\',\'1\');" onMouseOut="rollOutSub(\'sizes\',\'1\');" ><img src="/assets/images/topnav/subcat_topnav_sizes1_off.gif" name="sizes_sub1" width="49" height="12" border="0">\</a>' +
+	'<img src=assets/images/spacer.gif width=15 height=1 border=0>' +
+	'<a href="/shop/tall.asp?gpcatID=1875&pacatID=1877" onMouseOver="rollOverSub(\'sizes\',\'2\');" onMouseOut="rollOutSub(\'sizes\',\'2\');" ><img src="/assets/images/topnav/subcat_topnav_sizes2_off.gif" name="sizes_sub2" width="41" height="12" border="0">\</a>' +
+	'<img src=assets/images/spacer.gif width=15 height=1 border=0>' +
+	'<a href="/shop/women.asp?gpcatID=1875&pacatID=1878" onMouseOver="rollOverSub(\'sizes\',\'3\');" onMouseOut="rollOutSub(\'sizes\',\'3\');" ><img src="/assets/images/topnav/subcat_topnav_sizes3_off.gif" name="sizes_sub3" width="74" height="12" border="0">\</a>' +
+	'<a href="/shop/fashion_promo.asp?gpcatID=1875&pacatID=1903" onMouseOver="rollOverSub(\'sizes\',\'4\');" onMouseOut="rollOutSub(\'sizes\',\'4\');" ><img src="/assets/images/topnav/subcat_topnav_sizes4_off.gif" name="sizes_sub4" width="90" height="12" border="0">\</a>');
+	makeLayer('i_ec',304,116,614,18,hideName,'<a href="/shop/jeanology.asp?gpcatID=1714&pacatID=1828" onMouseOver="rollOverSub(\'ec\',\'1\');" onMouseOut="rollOutSub(\'ec\',\'1\');" ><img src="/assets/images/topnav/subcat_topnav_ec1_off.gif" name="ec_sub1" width="78" height="12" border="0">\</a>' +
+	'<a href="/shop/shapefx.asp?gpcatID=1714&pacatID=1853" onMouseOver="rollOverSub(\'ec\',\'2\');" onMouseOut="rollOutSub(\'ec\',\'2\');" ><img src="/assets/images/topnav/subcat_topnav_ec2_off.gif" name="ec_sub2" width="74" height="12" border="0">\</a>' +
+	'<a href="/shop/boutique_europa.asp?gpcatID=1714&pacatID=1842" onMouseOver="rollOverSub(\'ec\',\'4\');" onMouseOut="rollOutSub(\'ec\',\'4\');" ><img src="/assets/images/topnav/subcat_topnav_ec4_off.gif" name="ec_sub4" width="120" height="12" border="0">\</a>' +
+	'<a href="/camicatalog/default.asp?gpcatID=1714&pacatID=1714" onMouseOver="rollOverSub(\'ec\',\'3\');" onMouseOut="rollOutSub(\'ec\',\'3\');" ><img src="/assets/images/topnav/subcat_topnav_ec3_off.gif" name="ec_sub3" width="57" height="12" border="0">\</a>');
+	makeLayer('i_shoes',220,116,614,18,hideName,'<a href="/shop/shoe_promo.asp?gpcatID=1914&pacatID=1917" onMouseOver="rollOverSub(\'shoes\',\'3\');" onMouseOut="rollOutSub(\'shoes\',\'3\');" ><img src="/assets/images/topnav/subcat_topnav_shoes3_off.gif" name="shoes_sub3"  width="90" height="12" border="0">\</a>' +
+	'<a href="/shop/accessories.asp?gpcatID=1914&pacatID=1916" onMouseOver="rollOverSub(\'shoes\',\'2\');" onMouseOut="rollOutSub(\'shoes\',\'2\');" ><img src="/assets/images/topnav/subcat_topnav_shoes2_off.gif" name="shoes_sub2" width="88" height="12" border="0">\</a>' +
+	'<a href="/shop/shoes.asp?gpcatID=1914&pacatID=1915" onMouseOver="rollOverSub(\'shoes\',\'1\');" onMouseOut="rollOutSub(\'shoes\',\'1\');" ><img src="/assets/images/topnav/subcat_topnav_shoes1_off.gif" name="shoes_sub1" width="61" height="12" border="0">\</a>');
+	makeLayer('i_swim',240,116,614,18,hideName,'<a href="/shop/shopbycollection.asp?gpcatID=2012&pacatID=2014" onMouseOver="rollOverSub(\'swim\',\'3\');" onMouseOut="rollOutSub(\'swim\',\'3\');"  ><img src="/assets/images/topnav/subcat_topnav_swim3_off.gif" name="swim_sub3" width="120" height="12" border="0">\</a>' +
+	'<a href="/shop/swimfinder.asp?gpcatID=2012&pacatID=2015" onMouseOver="rollOverSub(\'swim\',\'2\');" onMouseOut="rollOutSub(\'swim\',\'2\');" ><img src="/assets/images/topnav/subcat_topnav_swim2_off.gif" name="swim_sub2" width="79" height="12" border="0">\</a>' +
+	'<a href="/shop/shopbystyle.asp?gpcatID=2012&pacatID=2013" onMouseOver="rollOverSub(\'swim\',\'1\');" onMouseOut="rollOutSub(\'swim\',\'1\');" ><img src="/assets/images/topnav/subcat_topnav_swim1_off.gif" name="swim_sub1" width="93" height="12" border="0">\</a>');
+	makeLayer('i_lb',340,116,614,18,hideName,'<a href="/shop/lingerie_promo.asp?gpcatID=1863&pacatID=1866" onMouseOver="rollOverSub(\'lb\',\'3\');" onMouseOut="rollOutSub(\'lb\',\'3\');" ><img src="/assets/images/topnav/subcat_topnav_sizes4_off.gif" name="lb_sub3" width="90" height="12" border="0">\</a>' +
+	'<a href="/shop/beauty.asp?gpcatID=1863&pacatID=1865" onMouseOver="rollOverSub(\'lb\',\'2\');" onMouseOut="rollOutSub(\'lb\',\'2\');" ><img src="/assets/images/topnav/subcat_topnav_ling2_off.gif" name="lb_sub2" width="60" height="12" border="0">\</a>' +
+	'<a href="/shop/intimate_apparel.asp?gpcatid=1863&pacatid=1864" onMouseOver="rollOverSub(\'lb\',\'1\');" onMouseOut="rollOutSub(\'lb\',\'1\');" ><img src="/assets/images/topnav/subcat_topnav_ling1_off.gif" name="lb_sub1" width="110" height="12" border="0">\</a>');
+	makeLayer('i_forhome',395,116,614,18,hideName,'<a href="/shop/forthehome_promo.asp?gpcatID=5&pacatID=1958" onMouseOver="rollOverSub(\'forhome\',\'3\');" onMouseOut="rollOutSub(\'forhome\',\'3\');" ><img src="/assets/images/topnav/subcat_topnav_sizes4_off.gif" name="forhome_sub3" width="90" height="12" border="0">\</a>' +
+	'<a href="/shop/shopbyroom.asp?gpcatID=5&pacatID=1957" onMouseOver="rollOverSub(\'forhome\',\'2\');" onMouseOut="rollOutSub(\'forhome\',\'2\');" ><img src="/assets/images/topnav/subcat_topnav_forhome2_off.gif" name="forhome_sub2" width="93" height="12" border="0">\</a>' +
+	'<a href="/shop/shopbycategory.asp?gpcatID=5&pacatID=1956" onMouseOver="rollOverSub(\'forhome\',\'1\');" onMouseOut="rollOutSub(\'forhome\',\'1\');" ><img src="/assets/images/topnav/subcat_topnav_forhome1_off.gif" name="forhome_sub1" width="114" height="12" border="0">\</a>');
+	makeLayer('i_clearance',0,109,800,18,hideName,'<img src="/assets/images/spacer.gif" width="322" height="18" border="0">' +
+	'<a href="/shop/deal_finder.asp?gpcatid=6&catid=185" onMouseOver="rollOverSub(\'clearance\',\'5\');" onMouseOut="rollOutSub(\'clearance\',\'5\');" ><img src="/assets/images/topnav/subcat_topnav_clearance5_of.gif" name="clearance_sub5" width="79" height="12" border="0">\</a>' +
+	'<a href="/shop/clearance_category.asp?gpcatid=6&pacatid=2005" onMouseOver="rollOverSub(\'clearance\',\'4\');" onMouseOut="rollOutSub(\'clearance\',\'4\');" ><img src="/assets/images/topnav/subcat_topnav_clearance4_of.gif" name="clearance_sub4" width="127" height="12" border="0">\</a>' +
+	'<a href="/shop/clearance_category.asp?gpcatid=6&pacatid=1996" onMouseOver="rollOverSub(\'clearance\',\'3\');" onMouseOut="rollOutSub(\'clearance\',\'3\');" ><img src="/assets/images/topnav/subcat_topnav_clearance3_of.gif" name="clearance_sub3" width="88" height="12" border="0">\</a>' +
+	'<a href="/shop/clearance_category.asp?gpcatid=6&pacatid=1995" onMouseOver="rollOverSub(\'clearance\',\'2\');" onMouseOut="rollOutSub(\'clearance\',\'2\');" ><img src="/assets/images/topnav/subcat_topnav_clearance2_of.gif" name="clearance_sub2" width="63" height="12" border="0">\</a>' +
+	'<a href="/shop/subcat_10_sm2.asp?gpcatid=6&catid=1994" onMouseOver="rollOverSub(\'clearance\',\'1\');" onMouseOut="rollOutSub(\'clearance\',\'1\');" ><img src="/assets/images/topnav/subcat_topnav_clearance1_of.gif" name="clearance_sub1" width="84" height="12" border="0">\</a>');
+		makeLayer('i_hide',0,108,614,18,hideName,'<img src="/assets/images/spacer.gif" width="100" height="12" border="0">');
+	j12 = true;
+}
+rollLayerMain ('i_hide')
+</script><div id="i_fash" style="position: absolute; overflow:none; left:150px; top:116px; width:614px; height:18px; visibility:hidden; z-index:100;"><a href="/shop/shopbyitem.asp?gpcatID=2&amp;pacatID=1649" onmouseover="rollOverSub('fash','1');" onmouseout="rollOutSub('fash','1');"><img src="/assets/images/topnav/subcat_topnav_fash1_off.gif" name="fash_sub1" width="89" height="12" border="0"></a><a href="/shop/trends.asp?gpcatID=2&amp;pacatID=9" onmouseover="rollOverSub('fash','2');" onmouseout="rollOutSub('fash','2');"><img src="/assets/images/topnav/subcat_topnav_fash2_off.gif" name="fash_sub2" width="53" height="12" alt="" border="0"></a><a href="/shop/lifestyle.asp?gpcatID=2&amp;pacatID=19" onmouseover="rollOverSub('fash','3');" onmouseout="rollOutSub('fash','3');"><img src="/assets/images/topnav/subcat_topnav_fash3_off.gif" name="fash_sub3" width="63" height="12" border="0"></a><a href="/shop/fashion_promo.asp?gpcatID=2&amp;pacatID=1650" onmouseover="rollOverSub('fash','4');" onmouseout="rollOutSub('fash','4');"><img src="/assets/images/topnav/subcat_topnav_fash4_off.gif" name="fash_sub4" width="93" height="12" border="0"></a></div>
+<div id="i_sizes" style="position: absolute; overflow:none; left:220px; top:116px; width:614px; height:18px; visibility:hidden; z-index:100;"><a href="/shop/petite.asp?gpcatID=1875&amp;pacatID=1876" onmouseover="rollOverSub('sizes','1');" onmouseout="rollOutSub('sizes','1');"><img src="/assets/images/topnav/subcat_topnav_sizes1_off.gif" name="sizes_sub1" width="49" height="12" border="0"></a><img src="assets/images/spacer.gif" width="15" height="1" border="0"><a href="/shop/tall.asp?gpcatID=1875&amp;pacatID=1877" onmouseover="rollOverSub('sizes','2');" onmouseout="rollOutSub('sizes','2');"><img src="/assets/images/topnav/subcat_topnav_sizes2_off.gif" name="sizes_sub2" width="41" height="12" border="0"></a><img src="assets/images/spacer.gif" width="15" height="1" border="0"><a href="/shop/women.asp?gpcatID=1875&amp;pacatID=1878" onmouseover="rollOverSub('sizes','3');" onmouseout="rollOutSub('sizes','3');"><img src="/assets/images/topnav/subcat_topnav_sizes3_off.gif" name="sizes_sub3" width="74" height="12" border="0"></a><a href="/shop/fashion_promo.asp?gpcatID=1875&amp;pacatID=1903" onmouseover="rollOverSub('sizes','4');" onmouseout="rollOutSub('sizes','4');"><img src="/assets/images/topnav/subcat_topnav_sizes4_off.gif" name="sizes_sub4" width="90" height="12" border="0"></a></div>
+<div id="i_ec" style="position: absolute; overflow:none; left:304px; top:116px; width:614px; height:18px; visibility:hidden; z-index:100;"><a href="/shop/jeanology.asp?gpcatID=1714&amp;pacatID=1828" onmouseover="rollOverSub('ec','1');" onmouseout="rollOutSub('ec','1');"><img src="/assets/images/topnav/subcat_topnav_ec1_off.gif" name="ec_sub1" width="78" height="12" border="0"></a><a href="/shop/shapefx.asp?gpcatID=1714&amp;pacatID=1853" onmouseover="rollOverSub('ec','2');" onmouseout="rollOutSub('ec','2');"><img src="/assets/images/topnav/subcat_topnav_ec2_off.gif" name="ec_sub2" width="74" height="12" border="0"></a><a href="/shop/boutique_europa.asp?gpcatID=1714&amp;pacatID=1842" onmouseover="rollOverSub('ec','4');" onmouseout="rollOutSub('ec','4');"><img src="/assets/images/topnav/subcat_topnav_ec4_off.gif" name="ec_sub4" width="120" height="12" border="0"></a><a href="/camicatalog/default.asp?gpcatID=1714&amp;pacatID=1714" onmouseover="rollOverSub('ec','3');" onmouseout="rollOutSub('ec','3');"><img src="/assets/images/topnav/subcat_topnav_ec3_off.gif" name="ec_sub3" width="57" height="12" border="0"></a></div>
+<div id="i_shoes" style="position: absolute; overflow:none; left:220px; top:116px; width:614px; height:18px; visibility:hidden; z-index:100;"><a href="/shop/shoe_promo.asp?gpcatID=1914&amp;pacatID=1917" onmouseover="rollOverSub('shoes','3');" onmouseout="rollOutSub('shoes','3');"><img src="/assets/images/topnav/subcat_topnav_shoes3_off.gif" name="shoes_sub3" width="90" height="12" border="0"></a><a href="/shop/accessories.asp?gpcatID=1914&amp;pacatID=1916" onmouseover="rollOverSub('shoes','2');" onmouseout="rollOutSub('shoes','2');"><img src="/assets/images/topnav/subcat_topnav_shoes2_off.gif" name="shoes_sub2" width="88" height="12" border="0"></a><a href="/shop/shoes.asp?gpcatID=1914&amp;pacatID=1915" onmouseover="rollOverSub('shoes','1');" onmouseout="rollOutSub('shoes','1');"><img src="/assets/images/topnav/subcat_topnav_shoes1_off.gif" name="shoes_sub1" width="61" height="12" border="0"></a></div>
+<div id="i_swim" style="position: absolute; overflow:none; left:240px; top:116px; width:614px; height:18px; visibility:hidden; z-index:100;"><a href="/shop/shopbycollection.asp?gpcatID=2012&amp;pacatID=2014" onmouseover="rollOverSub('swim','3');" onmouseout="rollOutSub('swim','3');"><img src="/assets/images/topnav/subcat_topnav_swim3_off.gif" name="swim_sub3" width="120" height="12" border="0"></a><a href="/shop/swimfinder.asp?gpcatID=2012&amp;pacatID=2015" onmouseover="rollOverSub('swim','2');" onmouseout="rollOutSub('swim','2');"><img src="/assets/images/topnav/subcat_topnav_swim2_off.gif" name="swim_sub2" width="79" height="12" border="0"></a><a href="/shop/shopbystyle.asp?gpcatID=2012&amp;pacatID=2013" onmouseover="rollOverSub('swim','1');" onmouseout="rollOutSub('swim','1');"><img src="/assets/images/topnav/subcat_topnav_swim1_off.gif" name="swim_sub1" width="93" height="12" border="0"></a></div>
+<div id="i_lb" style="position: absolute; overflow:none; left:340px; top:116px; width:614px; height:18px; visibility:hidden; z-index:100;"><a href="/shop/lingerie_promo.asp?gpcatID=1863&amp;pacatID=1866" onmouseover="rollOverSub('lb','3');" onmouseout="rollOutSub('lb','3');"><img src="/assets/images/topnav/subcat_topnav_sizes4_off.gif" name="lb_sub3" width="90" height="12" border="0"></a><a href="/shop/beauty.asp?gpcatID=1863&amp;pacatID=1865" onmouseover="rollOverSub('lb','2');" onmouseout="rollOutSub('lb','2');"><img src="/assets/images/topnav/subcat_topnav_ling2_off.gif" name="lb_sub2" width="60" height="12" border="0"></a><a href="/shop/intimate_apparel.asp?gpcatid=1863&amp;pacatid=1864" onmouseover="rollOverSub('lb','1');" onmouseout="rollOutSub('lb','1');"><img src="/assets/images/topnav/subcat_topnav_ling1_off.gif" name="lb_sub1" width="110" height="12" border="0"></a></div>
+<div id="i_forhome" style="position: absolute; overflow:none; left:395px; top:116px; width:614px; height:18px; visibility:hidden; z-index:100;"><a href="/shop/forthehome_promo.asp?gpcatID=5&amp;pacatID=1958" onmouseover="rollOverSub('forhome','3');" onmouseout="rollOutSub('forhome','3');"><img src="/assets/images/topnav/subcat_topnav_sizes4_off.gif" name="forhome_sub3" width="90" height="12" border="0"></a><a href="/shop/shopbyroom.asp?gpcatID=5&amp;pacatID=1957" onmouseover="rollOverSub('forhome','2');" onmouseout="rollOutSub('forhome','2');"><img src="/assets/images/topnav/subcat_topnav_forhome2_off.gif" name="forhome_sub2" width="93" height="12" border="0"></a><a href="/shop/shopbycategory.asp?gpcatID=5&amp;pacatID=1956" onmouseover="rollOverSub('forhome','1');" onmouseout="rollOutSub('forhome','1');"><img src="/assets/images/topnav/subcat_topnav_forhome1_off.gif" name="forhome_sub1" width="114" height="12" border="0"></a></div>
+<div id="i_clearance" style="position: absolute; overflow:none; left:0px; top:109px; width:800px; height:18px; visibility:hidden; z-index:100;"><img src="/assets/images/spacer.gif" width="322" height="18" border="0"><a href="/shop/deal_finder.asp?gpcatid=6&amp;catid=185" onmouseover="rollOverSub('clearance','5');" onmouseout="rollOutSub('clearance','5');"><img src="/assets/images/topnav/subcat_topnav_clearance5_of.gif" name="clearance_sub5" width="79" height="12" border="0"></a><a href="/shop/clearance_category.asp?gpcatid=6&amp;pacatid=2005" onmouseover="rollOverSub('clearance','4');" onmouseout="rollOutSub('clearance','4');"><img src="/assets/images/topnav/subcat_topnav_clearance4_of.gif" name="clearance_sub4" width="127" height="12" border="0"></a><a href="/shop/clearance_category.asp?gpcatid=6&amp;pacatid=1996" onmouseover="rollOverSub('clearance','3');" onmouseout="rollOutSub('clearance','3');"><img src="/assets/images/topnav/subcat_topnav_clearance3_of.gif" name="clearance_sub3" width="88" height="12" border="0"></a><a href="/shop/clearance_category.asp?gpcatid=6&amp;pacatid=1995" onmouseover="rollOverSub('clearance','2');" onmouseout="rollOutSub('clearance','2');"><img src="/assets/images/topnav/subcat_topnav_clearance2_of.gif" name="clearance_sub2" width="63" height="12" border="0"></a><a href="/shop/subcat_10_sm2.asp?gpcatid=6&amp;catid=1994" onmouseover="rollOverSub('clearance','1');" onmouseout="rollOutSub('clearance','1');"><img src="/assets/images/topnav/subcat_topnav_clearance1_of.gif" name="clearance_sub1" width="84" height="12" border="0"></a></div>
+<div id="i_hide" style="position: absolute; left: 0px; top: 108px; width: 614px; height: 18px; visibility: visible; z-index: 100;"><img src="/assets/images/spacer.gif" width="100" height="12" border="0"></div>
 
 
-</tr>
-
-
-<tr><!-- row 3 -->
-<form target="_top" action="http://www.newport-news.com/shop/deal_results.asp" method="GET"></form>
-<input type="hidden" name="gpcatid" value="8">
-<input type="hidden" name="generalsearch" value="yes">
-<td width="1"><img src="/assets/images/shim.gif" width="1" height="1" border="0" alt=""></td>
-<td width="244" colspan="2"><a target="_top" href="http://www.newport-news.com/default.asp"><img src="/assets/images/tn/tn_logo.gif" width="244" height="52" border="0" alt="Newport News Easy Style"></a></td>
-<!-- this image changes depending on the section which the user is in -->
-<td width="208" bgcolor="#6699CC"><img src="/assets/images/tn/tn_pod.gif" width="208" height="52" border="0" alt="" usemap="#pod"></td>
-<td width="149" bgcolor="#6699CC" align="right"><input type="text" name="search" size="10" maxlength="30">&nbsp; <input type="image" src="/assets/images/tn/search.gif" width="45" height="17" border="0" alt="search"></td>
-
-</tr>
-
-
-</tbody></table>
-<map name="pod">
-<area shape="rect" coords="0,10,65,23" target="_top" href="http://www.newport-news.com/checkout/yourbag.asp">
-<area shape="rect" coords="71,10,171,23" target="_top" href="http://www.newport-news.com/info/service.asp"> 
-<area shape="rect" coords="177,10,208,23" target="_top" href="http://www.newport-news.com/help/default.asp?Return_URL=http%3A%2F%2Fwww%2Enewport%2Dnews%2Ecom%2Finfo%2Fframe%5Finternetsecurity%2Easp%3F">
-<area shape="rect" coords="0,27,81,41" target="_top" href="http://www.newport-news.com/info/info.asp">
-<area shape="rect" coords="87,27,199,41" target="_top" href="http://www.newport-news.com/shop/ordercat1.asp">
-</map>
-
-
-<!-- BODY OF PAGE -->
-<br>
-<table border="0" width="640" cellpadding="0" cellspacing="0">
+<table cellpadding="0" cellspacing="0" border="0" width="762">
 <tbody><tr>
-<td colspan="3"><br><font face="Helvetica,Arial"><a name="privacy">
-<b>Security and Privacy</b></a></font><a name="privacy"><br><br>
-<font face="Helvetica,Arial" size="-1">
-<b>We realize that making purchases at newport-news.com, or any other website, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we  are committed to ensuring the privacy of your personal information and will use any information you give us in a responsible manner. You are very important to us and we  are dedicated to providing you with a safe and secure online experience. </b>
+
+<td rowspan="2" valign="top"><a href="/default.asp"><img src="/assets/images/topnav/1_nn_logo_new.gif" width="297" height="69" alt="" border="0"></a></td>
+<td bgcolor="#cccccc" colspan="2"><img src="/assets/images/spacer.gif" width="1" height="1"></td>
+</tr>
+
+<tr>
+<td valign="top">
+	<table width="464" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	<td><img src="/assets/images/spacer.gif" width="24" height="1" border="0" alt=""></td>
+	<td><a href="http://www.newport-news.com/checkout/yourbag.asp"><img src="/assets/images/topnav/1_topnav_shopping.gif" width="139" height="13" alt="shopping cart" border="0"></a><br><a href="http://www.newport-news.com/info/service.asp"><img src="/assets/images/topnav/1_topnav_customer.gif" width="139" height="13" alt="customer service" border="0"></a><br>
+<a href="https://www.newport-news.com/customer/newsletter.asp"><img src="/assets/images/topnav/1_topnav_newsletter.gif" width="139" height="13" alt="newsletter signup" border="0"></a><br>
+<a href="/my/execute/xt_myaccount_login.asp"><img src="/assets/images/topnav/1_topnav_myaccount_new.gif" width="139" height="13" alt="my account" border="0"></a></td>
+	<td><img src="/assets/images/topnav/1_topnav_divider.gif" width="31" height="68" alt="" border="0"></td>
+	<td>
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+		<form action="http://www.newport-news.com/shop/deal_results.asp" method="GET" id="form1" name="form1"></form>
+        <input type="hidden" name="gpcatid" value="8">
+        <input type="hidden" name="generalsearch" value="yes">
+		<td><img src="/assets/images/topnav/1_topnav_search.gif" width="144" height="22" alt="" border="0"></td>
+		<td><input type="text" name="search" size="8" class="monospace"></td>
+		<td><input type="image" src="/assets/images/topnav/1_topnav_go.gif" width="31" height="22" alt="search" border="0" name="search"></td>
+		
+		</tr>
+
+		<tr>
+		<td colspan="3"><img src="/assets/images/spacer.gif" width="1" height="5" alt=""></td>
+		</tr>
+
+		<tr>
+		<form method="POST" action="/shop/ordercat1.asp" id="form2" name="form2"></form>
+		<td><img src="/assets/images/topnav/1_topnav_quickorder.gif" width="144" height="22" alt="" border="0"></td>
+		<td><input type="text" name="prod_number" size="8" maxlength="7" class="monospace"></td>
+		<td><input type="image" src="/assets/images/topnav/1_topnav_go.gif" width="31" height="22" alt="search" border="0" name="go"></td>
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+	</tbody></table>
+</td>
+<td bgcolor="#cccccc"><img src="/assets/images/spacer.gif" width="1" height="1"></td>
+</tr>
+
+<tr>
+<td colspan="3">
+	<table cellspacing="0" cellpadding="0" border="0" width="762">
+	<tbody><tr>
+	<form action="http://www.newport-news.com/shop/execute/xt_store_nav.asp" method="POST" id="form3" name="form3"></form>
+	<td width="141" height="35" align="center" bgcolor="#9a9a9a"><img src="/assets/images/spacer.gif" width="147" height="1" alt="" border="0"><br>
+
+<select name="Shopbyitem" title="Shop by item" onchange="linkTo_shopbyitem(this.form)" class="form">
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=130&amp;catid=142">Shop by Item</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=130&amp;catid=142">Jackets</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=131&amp;catid=2454">Tops</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=132&amp;catid=2461">Dresses</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=133&amp;catid=413">Sweaters</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatID=8&amp;catID=134">Leggings</option>
+<option value="http://www.newport-news.com/shop/subcat_12.asp?gpcatid=8&amp;pacatid=135&amp;catid=2169">Shoes</option>
+<option value="http://www.newport-news.com/shop/subcat_12.asp?gpcatid=8&amp;pacatid=136&amp;catid=2181">Accessories</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=137&amp;catid=163">Pants &amp; Shorts</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=138&amp;catid=165">Skirts</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=139&amp;catid=2459">Two-Piece Sets</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatID=8&amp;catID=140">Outerwear</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=141&amp;catid=254">Intimates</option>
+<option value="http://www.newport-news.com/shop/subcat_8.asp?gpcatid=8&amp;pacatid=414&amp;catid=2253">Swimwear</option>
+</select> 
+</td>
+	
+	<td rowspan="2" bgcolor="#ffffff" width="621"><a href="/shop/parent_category.asp?gpcatid=2" onmouseover="rollOverMain('fash','fash'); rollLayerMain('i_fash'); stopTimer();" onmouseout="startTimer('fash');"><img src="/assets/images/topnav/cat_topnav_fashion_off.gif" name="fash" width="66" height="38" border="0" alt=""></a><a href="/shop/parent_category.asp?gpcatid=1875" onmouseover="rollOverMain('sizes','sizes'); rollLayerMain('i_sizes'); stopTimer();" onmouseout="startTimer('sizes');"><img src="/assets/images/topnav/cat_topnav_specialsize_off.gif" name="sizes" width="85" height="38" border="0" alt=""></a><a href="/shop/parent_category.asp?gpcatid=1714" onmouseover="rollOverMain('ec','ec'); rollLayerMain('i_ec'); stopTimer();" onmouseout="startTimer('ec');"><img src="/assets/images/topnav/cat_topnav_exclusive_off.gif" name="ec" width="76" height="38" border="0" alt=""></a><a href="/shop/parent_category.asp?gpcatid=1914" onmouseover="rollOverMain('shoes','shoes'); rollLayerMain('i_shoes'); stopTimer();" onmouseout="startTimer('shoes');"><img src="/assets/images/topnav/cat_topnav_shoes_accessories_off.gif" name="shoes" width="78" height="38" border="0" alt=""></a><a href="/shop/parent_category.asp?gpcatid=2012" onmouseover="rollOverMain('swim','swim'); rollLayerMain('i_swim'); stopTimer();" onmouseout="startTimer('swim');"><img src="/assets/images/topnav/cat_topnav_swimshop_off.gif" name="swim" width="76" height="38" border="0" alt=""></a><a href="/shop/parent_category.asp?gpcatid=1863" onmouseover="rollOverMain('lb','lb'); rollLayerMain('i_lb'); stopTimer();" onmouseout="startTimer('lb');"><img src="/assets/images/topnav/cat_topnav_lingerie_beauty_off.gif" name="lb" width="73" height="38" border="0" alt=""></a><a href="/shop/parent_category.asp?gpcatid=5" onmouseover="rollOverMain('forhome','forhome'); rollLayerMain('i_forhome'); stopTimer();" onmouseout="startTimer('forhome');"><img src="/assets/images/topnav/cat_topnav_forthehome_off.gif" name="forhome" width="92" height="38" border="0" alt=""></a><a href="/shop/clearance.asp?gpcatid=6" onmouseover="rollOverMain('clearance','clearance'); rollLayerMain('i_clearance'); stopTimer();" onmouseout="startTimer('clearance');"><img src="/assets/images/topnav/cat_topnav_clearance_off.gif" name="clearance" width="69" height="38" border="0" alt=""></a></td>
+	</tr>
+	<tr>
+	<td bgcolor="#ffffff"><img src="/assets/images/spacer.gif" width="1" height="3" alt="" border="0"></td>
+	</tr>
+
+	<tr>
+	<td bgcolor="#cccccc"><a href="/default.asp"><img src="/assets/images/spacer.gif" width="141" height="20" border="0" alt="go to home page"></a></td>
+	<td bgcolor="#cccccc"><img src="/assets/images/spacer.gif" width="1" height="20"></td>
+	</tr>
+	</tbody></table></td>
+</tr>
+
+<tr>
+<td colspan="3"><img src="/assets/images/spacer.gif" width="1" height="3" border="0"></td>
+</tr>
+</tbody></table>
+
+
+<table width="762" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td colspan="4"><img src="/assets/images/shim.gif" width="1" height="10" border="0" alt=""></td></tr>
+
+<tr>
+<!-- left navigation column -->
+<td width="148" valign="top">
+
+
+<table width="148" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="148" colspan="2"><img src="/assets/images/leftnav/leftnav_how.gif" width="140" height="51" border="0" alt="how do you want to shop?"></td>
+</tr>
+<tr>
+<td width="148" colspan="2"><img src="/assets/images/shim.gif" width="148" height="10" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="12" valign="top"><img src="/assets/images/product/arrow1.gif" width="9" height="9" border="0" alt="" align="left" vspace="2"></td>
+<td width="136"><a href="/info/credo.asp?cat_id=1" class="lnav">our credo</a></td>
+</tr>
+
+<tr>
+<td width="12" valign="top"><img src="/assets/images/product/arrow1.gif" width="9" height="9" border="0" alt="" align="left" vspace="2"></td>
+<td width="136"><a href="/my/myorders/order_status.asp?cat_id=9" class="lnav">order status</a></td>
+</tr>
+
+<tr>
+<td width="12" valign="top"><img src="/assets/images/product/arrow1.gif" width="9" height="9" border="0" alt="" align="left" vspace="2"></td>
+<td width="136"> <a href="/info/service.asp?cat_id=2" class="lnav">our policies</a><br>
+</td>
+</tr>
+
+<tr>
+<td width="12" valign="top"><img src="/assets/images/product/arrow1.gif" width="9" height="9" border="0" alt="" align="left" vspace="2"></td>
+<td width="136"><a href="/info/how_you_shop.asp?cat_id=3" class="lnav">how do you want to shop?</a></td>
+</tr>
+
+<tr>
+<td width="12" valign="top"><img src="/assets/images/product/arrow1.gif" width="9" height="9" border="0" alt="" align="left" vspace="2"></td>
+<td width="136"> <a href="/info/service.asp?cat_id=4" class="lnav">ordering info</a><br>
+</td>
+</tr>
+
+
+<tr>
+<td width="12" valign="top"><img src="/assets/images/product/arrow1.gif" width="9" height="9" border="0" alt="" align="left" vspace="2"></td>
+<td width="136"> <a href="/info/ca_faqs.asp?cat_id=5" class="lnav">canadian FAQs</a><br></td>
+</tr>
+
+<tr>
+<td width="12" valign="top"><img src="/assets/images/product/arrow1.gif" width="9" height="9" border="0" alt="" align="left" vspace="2"></td>
+<td width="136"> <a href="/info/ourcatalogs.asp?cat_id=6" class="lnav">our catalogs</a><br>
+</td>
+</tr>
+
+<tr>
+<td width="12" valign="top"><img src="/assets/images/product/arrow1.gif" width="9" height="9" border="0" alt="" align="left" vspace="2"></td>
+<td width="136"><a href="/info/sizing_apparel1.asp?cat_id=7" class="lnav">find your size</a>
+</td>
+</tr>
+
+<tr>
+<td width="12" valign="top"><img src="/assets/images/product/arrow1.gif" width="9" height="9" border="0" alt="" align="left" vspace="2"></td>
+<td width="136"><a href="/info/contactus.asp?cat_id=8" class="lnav">contact us</a>
+</td>
+</tr>
+</tbody></table>
+<!-- 
+<table width="119" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="136" colspan="2"><br><a href="/help/default.asp?Return_URL=http%3A%2F%2Fwww%2Enewport%2Dnews%2Ecom%2Finfo%2Fprivacy%5Fpolicy%2Easp%3Fcat%5Fid%3D12" class="lnav"><img src="/assets/images/cust/cust_needhelp.gif" width="136" height="170" border="0" alt="" align="left" vspace="4"></a>
+</td>
+</tr>
+</table> -->
+</td>
+
+<!-- blue spacer  -->
+<td width="1" bgcolor="#cccccc" valign="top"><img src="/assets/images/shim.gif" width="1" height="1" border="0" alt=""></td>
+
+<!-- spacer column between blue line of left nav and main content area-->
+<td width="10" valign="top"><img src="/assets/images/shim.gif" width="10" height="1" border="0" alt=""></td>
+
+<!-- main body of the page -->
+<td valign="top">
+	<table width="613" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td rowspan="4"><img src="/assets/images/shim.gif" width="8" height="1" border="0" alt=""></td>
+	</tr>
+	
+	<tr>
+	<td colspan="3"><img src="/assets/images/cust/cs_policies_hd.gif" width="590" height="43" border="0" alt="Our Policies"></td>
+	</tr>
+	
+	<tr>
+	<td colspan="3"><br><a name="privacy">
+<b>Security and Privacy</b><br><br>
+<b>We realize that making purchases at newport-news.com, or any other website, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we are committed to ensuring the privacy of your personal information and will use any information you give us in a responsible manner. You are very important to us and we are dedicated to providing you with a safe and secure online experience.</b>
 
 <br><br>
 
-<b>This privacy Statement describes how we collect and use your information and gives you choices as to how we use it. We suggest that you review this Privacy Statement periodically as we may update it from time to time.<br> 
-This policy was last reviewed on 06/13/01.</b>
+<b>This privacy Statement describes how we collect and use your information and gives you choices as to how we use it. We suggest that you review this Privacy Statement periodically as we may update it from time to time.<br>
+This policy was last revised on 05/03/02.</b>
 
 <br><br>
 
-</font></a><font face="Helvetica,Arial" size="-1"><a href="#collect">What do we collect and How do we use it?</a><br>
-<a href="#cookies">What are cookies and how does Newport News use them?</a><br>
-<a href="#update">How can I update my information?</a><br>
-<a href="#secure">How do I know my information is secure?</a><br>
+</a><a href="#collect">What information do we collect?</a><br>
+<a href="#collect2">How do we use your information?</a><br>
+<a href="#cookies">What are cookies?</a><br>
+<a href="#thirdparty">Third Party Merchants "Presented By Newport News"</a><br>
+<a href="#update">How can you update your information?</a><br>
+<a href="#secure">How do you know your information is secure?</a><br>
 <a href="#children">Children's policy</a><br>
+<a href="#changes">Changes to this privacy policy statement</a><br>
+<a href="#conflict">Conflict in terms</a><br>
 <a href="#contact">Contact us</a>
 
 <br><br>
 
 <a name="collect">
-<b>What do we collect and how do we use it?</b>
-</a><ul><a name="collect">
-<li><b>We do not rent</b>, sell, barter or trade e-mail addresses.
+<hr><br>
+<b>What do we collect?</b><br><br>
 
+Every time you visit our Web site, our Web server automatically collects the following non-personally identifiable information: your Internet service provider's address, the referring URL and, information on the pages you access on our site.<br><br>
+We also collect personally identifiable information that you provide, such as survey information and information you provide when you make a purchase, register your e-mail address or sign-up for sweepstakes or contests.  If you have visited our site before and provided us with your e-mail address, we collect information on what pages you access or visit while on our site.
 <br><br>
 
-</li><li><b>When you place an order</b> with newport-news.com we collect your name, address, telephone number, credit card information, your e-mail address and the products and services you select.  We use this information to fulfill your order and to communicate with you about your order.  
-
-<br><br>
-
-</li></a><li><a name="collect"><b>When you subscribe to our email updates</b>, we collect your name, e-mail address and preferences so that we can send you the advance notice on sales, events, new offerings and services that you've requested.  If, for any reason, you would like to be taken off our email list, you may unsubscribe at any time by clicking the Unsubscribe link at the bottom of every e-mail newsletter. You may also use our Unsubscribe form at:
-</a><a href="javascript: changeEmailOpen('/customer/email_change.asp');">http://www.newport-news.com/customer/email_change.asp</a>
-
-<br><br>
-
-We contract with an email management partner to deliver these e-mails. For further information, consult the privacy policy of Clickaction at: <a href="http://www.clickaction.com/pages/ca_privacy_policy.htm" target="_blank">http://www.clickaction.com/pages/ca_privacy_policy.htm</a>
-
-<br><br>
-
-</li><li><b>When you enter a sweepstakes</b> or redeem certain promotions at newport-news.com, we may ask for your name, address and e-mail address so that we can administer the sweepstakes or promotion and notify the winners.  If you so choose, you may also subscribe to our e-mail updates at the time of sweepstakes entry.
-
-<br><br>
-
-</li><li><b>We may share information</b> with governmental agencies or other companies assisting us in fraud prevention or investigation.  We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place.  The information is not provided to these companies for marketing purposes.
-
-<br><br>
-
-</li><li><b>When you visit our site</b>, our web servers automatically recognize your Internet Service Provider's address, the web page from which you came, and a record of your activity on our site.  We monitor general site use and traffic patterns to improve the quality of our website and the products and services we offer.  The information we receive allows us to tailor our website and improve your shopping experience, making it easier and more enjoyable.  We contract with Coremetics, a Data Warehousing and Data Operations company,  to warehouse and analyze our data.  The information we collect is used for internal purposes only. Other than to help us provide you the best possible shopping experience on our site, Coremetrics is contractually prohibited from using, in any manner, information obtained in the course of providing these services to newport-news.com. For further information, consult the privacy policy of Coremetrics at:
-<a href="http://www.coremetrics.com/info_eluminate2.html" target="_blank">www.coremetrics.com/info_eluminate2.html</a>
-
-<br><br>
-
-</li><li><b>When you contact us</b> via Ask our Easy Style consultant or email, we may collect the information you provide to assist us in our correspondence with you.
-
-<br><br>
-
-</li><li><b>When you request a catalog</b>, we collect your name, email address, postal address, and phone number in order to send you the catalog. 
-
-<br><br>
-
-</li><li><b>After ordering</b> from newport-news.com, we add your information to our customer database. You may receive periodic mailings or telephone calls from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings or telephone calls from us, please <a href="#contact">Click here</a>.
-
-<br><br>
-
-</li><li>	<b>If you are a print catalog customer</b>, we may at times share certain information with carefully selected partners whose products may be of interest to you. If you do not want us to share this information with these companies, we  will add your name to our "do-not-share" list. Please mail your request with your name and address to:<br><br>
-
-Newport News<br>
-Mail Preference Service<br>
-5000 City Line Road<br>
-Hampton, VA 23661
-
-<br><br>
-
-</li><li><b>We contract with Ad Server</b> partners to advertise newport-news.com on various websites.  As a result of accessing our site through one of these advertisements, an ad server may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of Performics at: <a href="http://www.performics.com/privacy.html" target="_blank">www.performics.com/privacy.html</a>
+</a><a name="collect2">
+<b>How Do We Use Your Information?</b><br><br>
+The information we collect is used: 
+<ul>
+<li>to generally improve the content and layout of our Web site 
+</li><li>to improve the content and layout of our Web site for individual visitors
+</li><li>to notify you about updates to our Web site 
+</li><li>to contact you for marketing purposes 
+</li><li>in some instances, shared with other organizations for marketing purposes 
+</li><li>for internal review
 </li></ul>
+When you supply us with personal information to request a catalog or order a product, the information you provide will be added to our customer file. You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer.  If you do not want to receive such mailings or telephone contact from us, then please </a><a href="#contact">Click Here</a> for information on where to contact us to remove yourself from our contact list.<br><br>
 
-<br>
+We may send you e-mail with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not wish to receive such e-mail in the future, please <a href="#contact">Click Here</a> for information on where to contact us to remove yourself from our e-mail list or, click on the "opt-out" link on any e-mail you receive from us.  Please note that when you provide us with your E-mail address in order to make a purchase, we will send you confirmation of your order via E-mail even if you have chosen not to receive future e-mail from us about our products and services.<br><br>
 
-<b>For customers using AOL Quick Checkout:</b>
+We may also contact you by mail or telephone if we have questions about your order.<br><br>
 
+We may provide your name, address and phone number (but not your e-mail address) to a select group of companies whose products you may find of interest.  If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please <a href="#contact">Click Here</a> for information on where to contact us if you do not want us to share this information with third parties.<br><br>
+
+In some instances, we use third party vendors to help us in providing our products and services to you to assist us in managing customer information, to fulfill promotions and to communicate with you.  Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use <a href="#cookies">cookies</a> on our behalf. These vendors are contractually restricted from using your information other than in helping us to provide you with the products and services available on our site.  For more information about these companies, <a href="thirdparties.asp">Click Here</a>.<br><br>
+
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 <br><br>
-
-Your Privacy using Quick Checkout is protected according to the <a href="http://www.aol.com/info/privacy.html" target="_blank">AOL Privacy Policy</a>. AOL uses state-of-the-art security to protect your credit card information. In order to provide the information necessary to create your AOL transaction record, newport-news.com may share certain transaction information with AOL. It is securely protected, and not used for any other purpose other than to provide Quick Checkout Service. Consult the privacy policies of the AOL Anywhere site and all of the other Internet-accessible AOL-branded services, like AOL Instant Messenger, at: <a href="http://www.aol.com/info/privacy.html" target="_blank">www.aol.com/info/privacy.html</a>.
-
-<br><br>
-
-The AOL Internet online service has a separate privacy policy for its members. If you are an AOL member, you can find that policy within the AOL Terms of Service.
-
-<br><br>
+<a href="#privacy">Return to top</a>.<br>
 
 <a name="cookies">
-<b>What are 'cookies' and how does Newport News use them?</b>
+<hr><br>
+<b>What are "cookies"?</b>
 
 <br><br>
+Most Internet sites, including ours, collect data about visitors through the use of "cookies".  Cookies are small software programs that help sites recognize repeat visitors by assigning a random number to each desktop for tracking content preferences and traffic patterns.  Cookies may be used to "connect" your computer to information stored in a separate location. At Newport News, we use cookies to connect your computer with the information we store for you in our database. Some examples of this information include items added to your shopping cart and user specific information on pages accessed and previous visits to our site. Your information is stored in a safe and secure database.  Through cookies we may also: alert you to new areas that we think might be of interest to you when you return to our site; record past activity at our site in order to provide you better service when you return to our site; or, customize Web page content based on your browser type or other information that you send us.<br><br>
 
-A "cookie" is a small data file that contains a unique identifier. Cookies can be used to store personal information about you, directly on your computer. Newport News does not believe that storing your personal information on a cookie is a responsible use of this information and therefore, we do not use cookies to store any of your personal or financial information on your computer.  
-
+We do not use cookies to store any of your personal or financial information on your computer. 
 <br><br>
 
-Cookies are also used to "connect" your computer to information stored in a separate location. At Newport News, we use cookies to connect your computer with the information we store for you in our database. Some examples of this data include items added to your shopping cart and user specific information on pages accessed and previous visits to our site. Your information is stored in a safe and secure database. 
+Newport News recognizes that you have a choice to refuse cookies. However, if you wish to purchase from our site, you must accept the cookie so that we can securely process your order.  Cookies keep track of the items that you order during your shopping session so that when you're ready to check out, all of the items you've placed in your shopping cart will be there and ready for purchase. <br><br>
 
+To learn more about how to set your browser to accept cookies, </a><a href="JavaScript:newwindow('cookie_popup.asp')">Click here</a>. <br><br>
+
+<b>For our customers using Internet Explorer 6.0</b><br><br>
+
+If you are shopping on newport-news.com using Internet Explorer 6.0 and are having difficulty accessing the site, please check your privacy settings in your browser and set them to "Medium".  If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify, including newport-news.com. Please <a href="JavaScript:newwindow('cookie_popup.asp')">click here</a> for instructions on how to override your normal cookie handling practices.  As always, you can place your order by phone at 1-800-688-2830.
 <br><br>
+<a href="#privacy">Return to top</a>.<br>
 
-In some instances, we use third party companies to help us to provide you with our products and services. Some of these companies are given access to some, or all, of the information you provide to us and may use cookies on our behalf.  Other than in helping us to provide you with the products and services available on our site, these companies are contractually restricted from using your information in any manner.
+<a name="thirdparty"></a>
+<hr><br>
+<b>Third Party Merchants "Presented By Newport News"</b><br><br>
 
+If you make a purchase from a Merchant Site with a link originating from the Newport News site or a Merchant catalog or website "presented by" Newport News, the information you provide to that Merchant, and any other information you give such as your credit card number and contact information, is provided to the Merchant and not to Newport News. Providing this information to the Merchant enables the transaction to take place. However, you should know that the Merchant may, if you do not advise them to the contrary, share your name and postal and e-mail addresses with third parties, including Newport News.<br><br>
+
+Merchants on the Newport News site and those Merchants, who send catalogs or host websites "presented by" Newport News, have separate privacy and data collection practices. We have no control over and therefore no responsibility or liability for these independent policies. For more information regarding Merchants appearing on Newport News or other Merchants who send catalogs or host websites "presented by" Newport News and their privacy policies, please see the Merchant's home page and click on their Information link or review the customer service section of any catalog you may receive from the Merchant. <br><br>
+
+The Merchants that have links on the Newport News site may collect personally identifiable information about you. The information practices of these Merchants are not covered by the Newport News privacy statement.
 <br><br>
-
-Our current technology platform requires that your browser be set to accept cookies to place orders on our site. Cookies keep track of the items that you order during your shopping session so that  when you're ready to check out, all of the items you've placed in your shopping cart will be there and ready for purchase.
-
-<br><br>
-
-To learn more about how to set your browser to accept cookies, </a><a href="#browsercookie">Click here</a>.
-
-<br><br>
+<a href="#privacy">Return to top</a>.<br>
 
 <a name="update">
-<b>How can I update my information?</b>
+<hr><br>
+<b>How can you update your information?</b>
 
 <br><br>
-Simply call or write to us to request access to the following information and we will make it available to you. 
+We will provide you access to the following information if you send us an e-mail, call us or write to us: 
 <blockquote>
 <li>financial information (such as credit card account information) 
 </li><li>unique identifier information (customer number or password) 
@@ -237,144 +496,188 @@ Simply call or write to us to request access to the following information and we
 </li><li>contact information (name, address, phone number)
 </li></blockquote>
 
+We will evaluate each request and reply in an appropriate manner and form of communication that ensures the security of the information you have requested.  </a><a href="#contact">Click here</a> for contact information.
 <br><br>
-
-We evaluate each request and will reply in an appropriate manner and in a form of communication that ensures the security of the information you have requested. </a><a href="#contact">Click here</a> for contact information.
-
-<br><br>
+<a href="#privacy">Return to top</a>.<br>
 
 <a name="secure">
-<b>How do I know my information is secure?</b>
-
+<hr><br>
+<b>How do you know your information is secure?</b>
 <br><br>
 
-We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you at our site so you can feel comfortable and secure when shopping. When you see either a solid key icon or a locked padlock icon at the lower portion of your browser window then the site is secured through Secure Sockets Layer (SSL). With SSL implemented on both the client and server, information sent via the Internet can be trusted to arrive privately and unaltered to our server only. We always use industry-standard encryption technologies when transferring and receiving your personal information on our site. Pages requesting personal information should always have one of these icons. If you do not see one of these icons, or still have concerns about ordering electronically, please call 1-800-688-2830 to simply place your order over the phone. Have the item number, size and color ready for each item you wish to order.
+When you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, then your site is secured through Secure Sockets Layer. We use industry-standard encryption technologies when transferring and receiving your information on our site. If you do not see one of these icons, please contact your Internet service provider.  When we transfer and receive certain types of sensitive information such as financial information, we will redirect you to a secure server and notify you through a pop-up screen on our site.   <br><br>
 
+We have appropriate security measures in place in our facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site so you can feel comfortable and secure. <br><br>
+
+<b>Please note that e-mail is not encrypted and is not considered a secure means of transmitting credit card numbers. </b>
 <br><br>
+</a><a href="#privacy">Return to top</a>.<br>
 
-<b>Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers.</b>
-
-<br><br>
-
-</a><a name="children">
+<a name="children">
+<hr><br>
 <b>Children's Policy </b>
 <br><br>
 
 Newport News does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us through any part of our Website, and we know that the person submitting the information is a Child, we will not use it for any purpose. We will delete the information as soon as we discover it and we will not disclose it to third parties.
-
 <br><br>
+</a><a href="#privacy">Return to top</a>.
+<br><br><hr><br>
 
-</a><a name="contact">
-
-<b>Contact Us</b>
-
+<a name="changes"><b>Changes To This Privacy Policy Statement</b><br><br>
+From time to time, we may use the information you provide us for new, unanticipated uses not previously addressed in our Privacy Statement.  If our information practices change at some time in the future we will post the policy changes on the privacy page of our Web site to notify you of these changes.  You should check our Web site periodically for more information on how we use the data we collect.<br><br>
+If there is a material change in the manner we use data we collect, we will update this Privacy Statement to reflect these changes.
 <br><br>
+</a><a href="#privacy">Return to top</a>.
+<br><br><hr><br>
 
-<b>Phone Orders:</b><br>
-1-800-688-2830 24-hours a day, 7-days a week.
-
+<a name="conflict"><b>Conflict In Terms</b><br><br>
+It is our goal to make our privacy practices easy to understand. We have created this easy-to-read Privacy Statement with that goal in mind.  Some browsers utilize privacy enhancing technology to translate our Privacy Statement into a computer readable format and then translate it back into human readable format for you to read.  This translation back into human readable format is often referred to as a "Policy Summary".  To the extent that this Policy Summary is inconsistent with, fails to address or addresses an issue not raised in, our Privacy Statement, you should rely on our Privacy Statement as it is the controlling authority.
 <br><br>
-
-<b>Fax Orders:</b><br>
-1-800-765-2866
-
-<br><br>
-
-<b>Order Inquiry</b><br>
-E-mail us at </a><a href="mailto:service@csc.newport-news.com">service@csc.newport-news.com</a> or call us at 1-800-759-3950. Monday through Friday, from 8 a.m. to midnight, EST.
-
-<br><br>
-
-<b>Mailing address:</b><br>
-Newport News<br>
-Easy Style Drive<br>
-Hampton, VA 23630-1291
-
-<br><br>
-
-<b>FCNB Credit Card Customer Service</b><br>
-Just call 1.800.296.7095 and use your touch-tone phone for a time saving automated
-update on your account, including your current account balance, credit line, account
-payment and return credits. Have your account number handy when you call. Billing
-disputes must be submitted in writing to:<br>
-FIRST CONSUMERS NATIONAL BANK®<br>
-P.O. Box 2210<br> 
-Portland, OR 97208-2210
-
-<br><br>
-
-Please note: When you contact us, provide your name and address exactly as it appears on correspondences you have received from us.
-
-<br><br>
-
-
-<a name="browsercookie">
-<b>Setting your browser to accept cookies</b>
-
-<br><br>
-
-<b>Internet Explorer v.5</b><br>
-On the Tools dropdown menu, select Internet Options.<br>
-In the Internet Options dialog box, click the Security tab.<br>
-Make sure the Internet icon is selected.<br>
-Move the Security slider to the Medium level or lower, and then click OK.<br>
-
-<br><br>
-
-Note: with Explorer v.5, there are two additional options:
-<ol>
-<li>You may create a customized setting that allows cookies.  Once you've selected the Security tab in the Internet Options dialog box, click the Custom Level button.  Then, in the Securities Settings dialog box, scroll down to "Allow cookies that are stored on your computer," select the Enable radio button, and click OK.
-<br><br>
-Or
-<br><br>
-</li><li>You may also set up newport-news.com as a trusted site and enable cookies for newport-news.com, but not for other websites.  For more information, click on the Internet Explorer Help menu and select Contents and Index.  Then, in the Index tab, scroll down to the "Assigning Websites to security zones" section.
-</li></ol>
-
+</a><a href="#privacy">Return to top</a>.<br>
 <br>
 
-<b>Internet Explorer 4.x</b><br>
-On the View menu, select Internet Options.<br>
-In the Internet Options dialog box, click the Advanced tab.<br>
-Scroll down to the Security section, and then click to select the checkbox next to "Always accept cookies."  Click OK.
-
+<a name="contact"><hr><br>
+<b>Contact Us</b>
 <br><br>
 
-<b>Netscape 4.x</b><br>
-On the Edit menu, select Preferences.<br>
-On the Category menu, select Advanced.<br>
-Click the box next to "Accept all cookies."<br>
-Click OK.
+To contact us for any reason, including a request to be added or taken off a list, or if you have any concerns or questions, please contact us:
 
+</a><ul><a name="contact">
+<li>By Postal Mail:<br><br>
+
+Newport News<br>
+Easy Style Drive<br>
+Hampton, VA 23630-1291<br><br>
+
+</li><li>By Phone - U.S. Customer service:<br><br>
+
+1.800.759.3950; Monday through Friday, from 8:00 a.m. to midnight, EST.<br><br>
+
+</li><li>By Phone - Canadian Customer service:<br><br>
+
+1.800.890.6739; Monday through Friday, from 8:00 a.m. to midnight, EST.<br><br>
+
+</li></a><li><a name="contact">By E-mail:<br><br>
+
+</a><a href="mailto:service@csc.newport-news.com">service@csc.newport-news.com</a>
+</li></ul>
+
+Please note: When you contact us, provide your name and address exactly as it appears on correspondences you have received from us. <br><br>
+
+<a href="javascript: changeEmailOpen('/customer/email_change.asp');">Click here</a> to change your e-mail address or to unsubscribe from Newport News e-mail.<br><br>
+
+We are an active member of the Direct Marketing Association. <a href="http://www.the-dma.org/consumers/index.html">Click here</a> for additional privacy information from the DMA. <br><br>
+
+If you feel that this site is not following its stated information privacy policy, you may contact us at the above address(es) or phone number or at <a href="mailto:service@csc.newport-news.com">service@csc.newport-news.com</a> or you may contact the DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org</a>.
 <br><br>
-
-<b>AOL 5.x</b><br>
-Select My AOL.<br>
-Choose WWW, and click the Security tab.<br>
-Go to Custom Level, find "Cookie" and click "Enable."<br>
-Click OK.
-
-<br><br>
-
-For additional help with AOL browsers, please visit the </a><a href="http://webmaster.info.aol.com/index.cfm?article=500000000000029">AOL Help page on enabling cookies</a>.
-
-<br><br>
-
-<b>Other browsers</b><br>
-Consult the online Help for your browser to find out whether it accepts cookies and how to change the cookie setting.
-
-
-</font>
+<a href="#privacy">Return to top</a>.<br><br>
+	</td>
+	</tr>
+	
+	<tr>
+	<td colspan="4"><img src="/assets/images/shim.gif" width="1" height="10" border="0" alt=""></td>
+	</tr>
+	</tbody></table>
 </td>
 </tr>
 
-
-
+<tr><td colspan="4"><img src="/assets/images/shim.gif" width="1" height="10" border="0" alt=""></td></tr>
 </tbody></table>
 
-<br><br><img width="1" height="1" src="https://data.coremetrics.com/eluminate?pt%3DC%26vn1%3De2.4.5%26vn2%3De2.4.5%26ci%3D90000009%26rf%3D%26ul%3Dhttps%253A//web.archive.org/web/20011204165220id_/http%25253A//www.newport-news.com/info/frame_internetsecurity.asp%26se%3D%26pn%3Dinfo/frameinternetsecurity%26pi%3Dinfo/frameinternetsecurity%26cn%3D%26sc%3D%26ps1%3D%26ps2%3D%26pn1%3D%26pn2%3D%26a1%3D%26a2%3D%26a3%3D%26pa%3D%26pc%3DYes%26ts%3DYes%26tp%3DYes%26rnd%3D9126132"><noscript>
-<IMG width="1" height="1" src="http://data.coremetrics.com/eluminate?pt=C&vn1=e2.4&vn2=e2.4&ci=90000009&rf=&ul=&pn=&pi=&cn=&sc=&vi=&fn=&ln=&ag=&gd=&ad1=&ad2=&ct=&sa=&zp=&cy=&th=&be=&nl=&sd=&hf=&s1=&s2=&s3=&s4=&s5=&s6=&n1=&n2=&n3=&n4=&n5=&n6=&ps1=&ps2=&pn1=&pn2=&a1=&a2=&a3=&pa=&pc=&ts=&tp=&rnd=">
-</noscript><table border="0" width="640" cellpadding="0" cellspacing="0">
 
+<table cellpadding="0" cellspacing="0" border="0" width="762">
+<tbody><tr>
+<td colspan="9"><img src="/assets/images/shim.gif" width="1" height="3" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td colspan="2"><img src="/assets/images/footer/btm_nav_company.gif" width="176" height="24" alt="company info" border="0"></td>
+<td></td>
+<td><img src="/assets/images/footer/btm_nav_quick.gif" width="174" height="24" alt="quick links" border="0"></td>
+<td></td>
+<td><img src="/assets/images/footer/btm_nav_special.gif" width="175" height="24" alt="special features" border="0"></td>
+<td></td>
+<td colspan="2"><img src="/assets/images/footer/btm_nav_catalogs.gif" width="234" height="24" alt="our catalogs" border="0"></td>
+</tr>
+
+<tr>
+<td bgcolor="#cccccc"><img src="/assets/images/spacer.gif" width="1" height="1" alt=""></td>
+<td valign="top"><br>
+	<table cellpadding="0" cellspacing="0" border="0" width="175">
+	<tbody><tr>
+	<td><img src="/assets/images/spacer.gif" width="20" height="1" alt=""></td>
+	<td><a href="http://www.newport-news.com/info/info.asp">about us</a><br>
+	<!-- <a href="">career opportunities</a><br> -->
+	<a href="http://www.newport-news.com/info/credo.asp">our guarantee</a><br>
+	<a href="http://www.newport-news.com/info/privacy_policy.asp?cat_id=12">privacy policy</a><br>
+	<a href="http://www.newport-news.com/info/contactus.asp">contact us</a></td>
+	<td><img src="/assets/images/spacer.gif" width="15" height="1" alt=""></td>
+	</tr>
+	</tbody></table>
+	<br>
+</td>
+<td bgcolor="#cccccc"><img src="/assets/images/spacer.gif" width="1" height="1" alt=""></td>
+<td valign="top"><br>
+	<table cellpadding="0" cellspacing="0" border="0" width="174">
+	<tbody><tr>
+	<td><img src="/assets/images/spacer.gif" width="20" height="1" alt=""></td>
+	<td><a href="/info/service.asp">customer service</a><br>
+	<a href="/my/myorders/order_status.asp?cat_id=9">order status</a><br>
+	<a href="/help/default.asp?Return_URL=http%3A%2F%2Fwww%2Enewport%2Dnews%2Ecom%2Finfo%2Fprivacy%5Fpolicy%2Easp%3Fcat%5Fid%3D12">site help</a><br>
+	<a href="/info/ret_exch.asp?cat_id=2">easy returns</a><br>
+	<a href="/info/shippingmethods.asp?cat_id=4">shipping charges</a><br>
+	<a href="http://www.newport-news.com/info/sizing_apparel1.asp?cat_id=6">size charts</a><br>
+	<a href="http://www.newport-news.com/info/directory.asp">site map</a></td>
+	<td><img src="/assets/images/spacer.gif" width="15" height="1" alt=""></td>
+	</tr>
+	</tbody></table>
+	<br></td>
+<td bgcolor="#cccccc"><img src="/assets/images/spacer.gif" width="1" height="1" alt=""></td>
+<td valign="top"><br>
+	<table cellpadding="0" cellspacing="0" border="0" width="175">
+	<tbody><tr>
+	<td><img src="/assets/images/spacer.gif" width="20" height="1" alt=""></td>
+	<td><a href="/shop/online_special.asp">special offers</a><br>
+	<a href="/shop/swimfinder.asp?gpcatID=2012&amp;pacatID=2015">swim finder</a><br>
+	<a href="/shop/ss_main.asp?gpcatid=7">style source</a><br>
+	<a href="/shop/ss_news_3.asp?gpcatID=7&amp;catID=2541">newport (in the) news</a><br>
+	<a href="/shop/giftcert.asp">gift certificate</a><br>
+	</td>
+	<td><img src="/assets/images/spacer.gif" width="15" height="1" alt=""></td>
+	</tr>
+	</tbody></table>
+	<br></td>
+<td bgcolor="#cccccc"><img src="/assets/images/spacer.gif" width="1" height="1" alt=""></td>
+<td><br>
+	<table cellpadding="0" cellspacing="0" border="0" width="233">
+	<tbody><tr>
+	<td><img src="/assets/images/spacer.gif" width="20" height="1" alt=""></td>
+	<td valign="top"><a href="http://www.newport-news.com/catalog/select_catalogs.asp">view our latest<br> catalogs</a><br>
+	<a href="http://www.newport-news.com/Shop/ordercat1.asp">order from catalog</a><br>
+	<a href="https://www.newport-news.com/customer/requestcat.asp">request a catalog</a>
+	</td>
+	<td valign="top"><img src="/assets/images/footer/btm_nav_catimage.jpg" width="65" height="85" border="0" alt=""></td>
+	<td><img src="/assets/images/spacer.gif" width="15" height="1" alt=""></td>
+	</tr>
+	</tbody></table>
+	<br></td>
+<td bgcolor="#cccccc"><img src="/assets/images/spacer.gif" width="1" height="1" alt=""></td>
+</tr>
+
+<tr>
+<td colspan="9" bgcolor="#cccccc"><img src="/assets/images/spacer.gif" width="1" height="1" alt=""></td>
+</tr>
+</tbody></table>
+
+<table width="762" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td align="center"><br> 
+<div align="center" class="foot">
+<a href="http://www.newport-news.com/info/frame_internetsecurity.asp">privacy &amp; security policy</a> | <a href="http://www.thespiegelgroup.com">investor relations</a> &nbsp; Copyright © 2002 Newport News.
+</div>
+</td>
+</tr>
+</tbody></table>
 
 
 <script language="javascript">
@@ -384,7 +687,7 @@ Consult the online Help for your browser to find out whether it accepts cookies 
 cm_ReferralURL = "";
 cm_URL = "";
 cm_Search = "";
-cm_PageName = "info/frameinternetsecurity";
+cm_PageName = "info/privacypolicy";
 cm_ClientPageID = cm_PageName;
 cm_ContentName = "";
 cm_ParentContentName = "";
@@ -408,29 +711,11 @@ cm_Version2 = "e2.4.5";
 <!--
 document.write(cm_Display);
 //-->
-</script>
-
+</script><img width="1" height="1" src="https://data.coremetrics.com/eluminate?pt%3DC%26vn1%3De2.4.5%26vn2%3De2.4.5%26ci%3D90000009%26rf%3D%26ul%3Dhttps%253A//web.archive.org/web/20021203031650id_/http%25253A//www.newport-news.com/info/privacy_policy.asp%25253Fcat_id%25253D12%26se%3D%26pn%3Dinfo/privacypolicy%26pi%3Dinfo/privacypolicy%26cn%3D%26sc%3D%26ps1%3D%26ps2%3D%26pn1%3D%26pn2%3D%26a1%3D%26a2%3D%26a3%3D%26pa%3D%26pc%3DYes%26ts%3DYes%26tp%3DYes%26rnd%3D9128401">
+<noscript>
+<IMG width="1" height="1" src="http://data.coremetrics.com/eluminate?pt=C&vn1=e2.4&vn2=e2.4&ci=90000009&rf=&ul=&pn=&pi=&cn=&sc=&vi=&fn=&ln=&ag=&gd=&ad1=&ad2=&ct=&sa=&zp=&cy=&th=&be=&nl=&sd=&hf=&s1=&s2=&s3=&s4=&s5=&s6=&n1=&n2=&n3=&n4=&n5=&n6=&ps1=&ps2=&pn1=&pn2=&a1=&a2=&a3=&pa=&pc=&ts=&tp=&rnd=">
+</noscript>
 		
-
-</table><table width="640" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td align="center" colspan="5"><br> 
-<div align="center" class="foot">
-<a href="http://www.newport-news.com/info/credo.asp">Our Guarantee</a> | 
-<a href="https://www.newport-news.com/customer/requestcat.asp">Request a Catalog</a> | 
-<a href="http://www.newport-news.com/customer/newsletter.asp">Email Updates</a> | 
-<a href="http://www.newport-news.com/info/directory.asp">Site Map</a> | 
-<a href="http://www.newport-news.com/help/default.asp">Help</a> <br> 
-<a href="http://www.newport-news.com/info/info.asp">About Us</a> |
-<a href="http://www.newport-news.com/info/frame_internetsecurity.asp">Security &amp; Privacy</a> | 
-<a href="http://www.newport-news.com/info/contactus.asp">Contact Us</a> | 
-<a href="http://www.thespiegelgroup.com">Investor Relations</a>
-<br><br>
-Copyright © 2001 Newport News.
-</div>
-</td>
-</tr>
-</tbody></table>
 
 
 </body></html>
