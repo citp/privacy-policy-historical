@@ -1,200 +1,87 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625033620id_/http%3A//www.aclu.org/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217194735id_/http%3A//www.aclu.org/Privacy.cfm) for the most accurate reproduction.*
 
 # American Civil Liberties Union : Privacy Statement
 
-## Privacy Statement for ACLU Freedom Network
+   
+|     
 
-The American Civil Liberties Union has created this privacy statement to demonstrate its firm commitment to privacy by informing site visitors of the ACLU's data collection and storage practices, and guidelines for use of visitor data.
 
-For more details about our advocacy work on electronic privacy, see <http://www.aclu.org/Privacy/PrivacyMain.cfm>
+Online Privacy Policy  
+EFFECTIVE AS OF: NOVEMBER 8, 2004
 
-The ACLU has filed comments on the National Telecommunications and Information Administration's notice and request for comments regarding electronic commerce, which may be found at <http://archive.aclu.org/congress/l070698a.html>
+The American Civil Liberties Union and the ACLU Foundation (collectively, "ACLU") are committed to protecting the personal information that you provide to us when using the ACLU Site. This Online Privacy Policy describes how we treat all user data collected during your visit to the ACLU Site, both anonymous data and personally-identifying data.
 
-The following statements detail information gathering and dissemination practices for the ACLU's Freedom Network, located at http://archive.aclu.org and any other associated sites using the aclu.org domain. 
+The ACLU may occasionally update this policy. We will post any changes on this Web page, so be sure to check back periodically. If we do make material changes, we will post a notice on our home page that the Online Privacy Policy has been modified and provide a link to the revised Online Privacy Policy. Any information that you submit after a change has been posted will be subject to the new provisions. 
 
-### User Tracking and Data Capture Practices
+User Data We Collect  
+We collect two types of user data: (1) anonymous data that is automatically collected from all visitors to the ACLU Site; and (2) personally-identifiable data that you voluntarily submit to us (described below under "Personal Data").
 
-Our servers collect and aggregate user information site-wide, including anonymous site statistics, such as the number of views of each page. We log domain names and/or IP addresses of visitors (such as umich.edu, aol.com, 209.168.1.1, etc.), which permits us to know "where" visitors are from, or what access service they use, without knowing their individual identities. Because we do not require users to register with us, this "host level" tracking is our primary basis for assessing traffic patterns.
+Anonymous Data. We automatically collect Internet Protocol addresses and domain names through our server and through cookies. (See the section on Cookies below for more information.) We also track the number and frequency of hits per page on an aggregate basis. 
 
-On certain pages such as the ACLU Membership Form, we give users the option of providing us with names, addresses, phone numbers, fax numbers, email addresses, and other personal information, and various other kinds of details. This more personal information is gathered only with users` knowing and active permission and participation. 
+Personal Data. We may collect Personal Data that you voluntarily provide, such as your name and postal address, phone number, e-mail address, and similar information, when you participate in certain activities on the ACLU Site, including (but not limited to) when you:
 
-The ACLU website does not use any cookies that are automatically written to your computer's hard drive or retained by the ACLU or our vendors. 
+* join or renew your membership to the ACLU; 
+* make an additional contribution to support the ACLU; 
+* sign up for our ACLU e-mail network 
+* send correspondence to your government representative through the ACLU Site; 
+* order items from the ACLU store; 
+* register for our message board; 
+* participate in one of our online surveys; or 
+* participate in any activity that requires your Personal Data. 
+* If you join the ACLU or make a donation to the ACLU from a Web site link, we may also identify the source of that link, so that we can evaluate what content is persuading Web users to contribute to the ACLU. (The ACLU is comprised of the American Civil Liberties Union and the ACLU Foundation. Learn more about the differences between the two organizations.) 
 
-If you wish to have your login stored as a “cookie” on your computer’s memory, select the “remember my login” option when you login to our website.  If you do not select “remember my login”, your information will not be stored on your computer or on our ACLU servers.  If you choose to be remembered, the cookie will be stored on your computer solely for the purpose of automatically logging you into our website.  The use of “remember my login” is totally optional.  It is your choice whether or not to use it.  If you choose to use it, it will not use the cookie for any purpose other than to log you in.  If you choose not to use it, then you will need to reenter your information every time you login.  If you are using a shared or public computer to access our website, we recommend that you do not use “remember my login”, because the cookie would be stored in the shared computer’s memory.  (Our activist tools  also allow users to have a cookie written to their hard drives to enable them to more easily take action. For more information about this feature, see the section on "Activist Letters" below.)
+Cookies **  
+**We collect some data through the use of cookies. Cookies are alphanumeric identifiers that are transferred either to your computer's hard drive ("Long-term Cookies") or temporarily to your computer's Random Access Memory ("Session Cookies").
 
-The ACLU website does set "session specific cookies" to help run its interactive online applications, such as the shopping cart. The session specific cookies only exist in your computer's short term memory (RAM) and only exist as long as the session lasts. They expire (disappear from your computer's memory) when the session ends. These cookies will NOT be written to a user's hard drive. Under no circumstance will any information associated with these cookies be retained or used by the ACLU or its vendors after the session is completed.
+We use Long-term Cookies only when you select a "remember" option on the ACLU Site, for example the "remember my login" option offered when you log on to the ACLU Site, or the "remember me" option offered on the Write Your Elected Representative page. If you select these options, a Long-term Cookie will be stored on your computer's hard drive solely for the purpose of automatically filling in the remembered information, for example, automatically filling in your password when you log in to the ACLU Site or your postal address when you write a letter to your representative. These "remember" options are offered only for your convenience and are completely voluntary. If you do not select a "remember" option, no Long-Term Cookie will be stored on your computer's hard drive. 
 
-In addition, the third party email management provider that oversees the ACLU's newsletter distribution and data handling (see section below) will use cookies for the sole purpose of ensuring that an individual user can only access his/her personal profile and subscription information. This prevents a user from accessing or viewing another subscriber's personal or subscription information. By contract with the ACLU, the vendor will not transfer or sell any information that it collects from users of the ACLU website to a third party.
+We use Session Cookies whenever you visit the ACLU Site to run the Site's interactive applications, such as the shopping cart. Session Cookies last only as long as your session on the ACLU Site. They expire when the session ends and are not written onto your computer's hard drive. We also use Session Cookies in e-mails containing the HTML-format ACLU online newsletter. If you select "text-only" format for the online newsletter, it will not contain any Session Cookies.
 
-We review and discard the information in some cases (e.g. IP address logs for file transfers), while in others we may use the information to tailor our users` Web experience in the form of custom content or results drawn from databases. On some pages, users can sign up to receive additional information by e-mail through an e-mail subscription service (as discussed below), or by other means, including postal mail. Personal information that has been volunteered to us may also be combined with data from third parties, such as Congressional district maps, to improve our services to members. No such combining will be done for marketing purposes.
+How We Use The Data We Collect **** **  
+**We use anonymous data to identify the source of user traffic (for example, umich.edu, or aol.com), but we are not able to use this data to identify individual users. We use data on which sections of the ACLU site are most visited, so that we can evaluate the popularity of our different Web pages and continue to improve the ACLU Site. We do not link any anonymous data with the Personal Data you provide to us.
 
-We may at some point share user information, including e-mail addresses, with our local offices for the above named purposes. Website visitor information is not shared or exchanged with other parties, with the exception of those visitors who also become ACLU members (see below regarding ACLU Member Address Exchange) and as provided for in the section on email list subscriptions below. 
+We use your Personal Data for various purposes: 
+* To fulfill the request for which you specifically provided the data; 
+* To send you our e-mail newsletter, ACLU Online, or action alerts, if you have not opted out of receiving that information; 
+* To personalize the content that you see based on the activities and products that you have selected on the ACLU Site; 
+* To allow you to set and change user preferences; 
+* To allow you to renew your membership in the ACLU; 
+* To offer you other ways to support the ACLU; 
+* To confirm your contribution to the ACLU. 
+* The ACLU Site is hosted by servers in the United States. Accordingly, if you are located outside of the United States, the Personal Data you provide to us will be transferred to the United States. By submitting your Personal Data, you consent to its transfer and storage in the United States and its use in accordance with the purposes for which it was originally collected (see below regarding third-party sharing of Personal Data from non-U.S. residents).
 
-E-mail addresses of visitors and members are **never** exchanged with other organizations except as provided for in the section on email list subscriptions below.
+If you are a U.S. resident, we may also combine your Personal Data with data collected from third parties, such as congressional district maps, to improve our services to you.
 
-### Activism
+Third-Party Sharing  
+We share your Personal Data with third-party service providers who fulfill your orders, contact you on our behalf, or facilitate some other aspect of the ACLU Site activities, services or products. These service providers have access to your Personal Data solely for the purpose of providing these services to us on our behalf, and they are contractually prohibited from sharing your Personal Data with any other third parties. Please note that we do not share data from non-U.S. residents with any other third parties (except where required by law, see below), even if a non-U.S. resident has subsequently authorized such use, for example, by not checking an opt-in request. 
 
-Our activist letters and activist list are administered on acluaction.org, a website that the ACLU runs on CapWiz, an electronic communication service of Capital Advantage Inc. The contract between ACLU and Capitol Advantage allows CapWiz to collect and store the personal information that you provide on our behalf, but Capitol Advantage is prohibited from sharing this information to any except the ACLU. The contract forbids Capitol Advantage from renting, selling or trading any of this information.
+If you are a U.S. resident and member/donor to the ACLU, we also share your Personal Data with our local offices in order to permit them to contact you regarding any local activities we think may interest you, if you have not opted out of receiving this information. 
 
- **Activist Letters**
+We may also share the Personal Data of members and donors who are U.S. residents with other non-profit organizations and publications ("Sharing Organizations"), but never to any partisan political groups or to groups whose programs are incompatible with ACLU policies. We never give your Personal Data directly to the Sharing Organizations; instead we send the list to a third-party service provider that prepares the mailing for the Sharing Organization (and that is contractually bound to use your Personal Data only for this purpose and not to share it with any other third parties). The Sharing Organizations never see our list and never know what names are on it unless you respond to the Sharing Organizations' mailing. Exchanging lists enables the ACLU to expand our membership base. However, if you have signed up as a member or donor on the ACLU Site, you can choose to opt out of having your data shared. To learn more, read the section on "Your Ability to Choose" below. 
 
-Our write your elected representatives feature counts your letter and its recipient, but does not record its content. Counting permits us to track how many letters are delivered to which officeholders. Your elected representative is selected according to the address you enter when sending a letter. If you wish to have your address stored as a "cookie" for future use on your computer, select the "remember me" option when sending letter. If you do not select "remember me," your information will not be stored on your computer or our server. If you choose to be remembered, the cookie will be stored on your computer solely for the purpose of retrieving your personal address when you send letters. It will not be stored on Capitol Advantage or ACLU servers. 
+Finally, we may disclose and use Personal Data regardless of where you reside in special circumstances when it is necessary to enforce our User Agreement or this Online Privacy Policy, or when we, in good faith, believe that the law requires us to disclose your Personal Data to third parties.
 
-**Activist List**
+Except as described in this Online Privacy Policy, we will not share your Personal Data with any third party unless we first notify you and offer you an appropriate choice to consent to such further use, for example, through an opt-out or opt-in request. 
 
-By joining our activist list, you will receive periodic email informing you of action that you can take in the defense of civil liberties. You can join our action list by selecting "subscribe me to the ACLU's action alert listserv" when sending an activist letter or you can subscribe through our "Join Our Alert List" page. We will use the mail address that you provide to assign your email address to the proper legislative districts. Both your email and your mail address will be used exclusively for the purpose of sending you email from the ACLU. You will not be contacted in any other way, nor will your information be offered to a third-party. 
+Your Ability to Choose  
+When you provide us with your Personal Data on the ACLU Site, you can let us know that you do not wish to receive our online newsletter, ACLU Online, or any e-mailed action alerts by un-checking the subscription request boxes on the form you are completing, by un-checking the subscription request boxes on our [User Preference Page](https://www.aclu.org/team/Subscribe.cfm) or by contacting us via postal mail sent to Webmaster, 125 Broad Street, 18th Floor, New York, New York, 10004. 
 
-### ACLU Publications Merchandise Customer Records
+If you are signing up as a donor/member on the ACLU Site, you can opt out of having your Personal Data shared with Sharing Organizations on the online form you are filling out or thereafter by filling out the [ACLU Feedback Page](https://www.aclu.org/feedback/feedback.cfm) or by contacting the Membership Department via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, New York, 10004. 
 
-The ACLU Freedom Network website store features a "shopping cart" tool that relies on .perl script using a "session ID," and therefore does not collect any customer data prior to the completion of the order. E-mail addresses provided by customers are used only to communicate about the customer's order. Customer postal addresses will never be exchanged with other not-for-profit or advocacy organizations.
+Again, please remember that if you are a non-U.S. resident, we will not use your Personal Data beyond the purpose for which it was originally collected regardless of whether you check or un-check a box.
 
-### Tracking and the ACLU Membership Form
+Children  
+We do not knowingly collect information from children under the age of 13. 
 
-When website users click a button or link to "Join the ACLU" anywhere on the ACLU Freedom Network website and possibly also on other websites, data indicating that location is passed onto the membership form as a hidden field and sent to our servers only when the form is completed and sent by the user. Such tracking helps to assess which content is persuading web visitors to join the ACLU. If a user wishes to evade this tracking, they may join from the "join" link in the toolbar used throughout our site. See more about sharing and the ACLU Membership Form below.
+Security  
+The Personal Data we collect about you is stored on a secure, password protected server. We use industry-standard encryption technologies with respect to the receipt and transfer of Personal Data you submit to us on the ACLU Site and only authorized personnel have access to your information. Nevertheless, despite our best efforts, no transmission over the Internet can be guaranteed to be 100% secure. 
 
-### Exchange of ACLU Member Addresses
+Updating Your Data  
+To update your Personal Data or to make corrections, you can do so by using our [User Preference Page](https://www.aclu.org/team/Subscribe.cfm), or by sending us the update via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, NY 10004.
 
-Individual information about website visitors, including e-mail addresses, is never shared with third parties (except as provided for in the section on email list subscriptions below).
+Comments and Questions  
+If you have any questions, comments or concerns about this Online Privacy Policy or our data collection practices or to request that we delete your Personal Data, you can fill out the [ACLU Feedback Page](https://www.aclu.org/feedback/feedback.cfm), or send us your questions or comments via postal mail sent to Webmaster, American Civil Liberties Union, 125 Broad Street, 18th Floor, New York, New York 10004.
 
-However, the names and postal addresses of ACLU members, including those who join through the ACLU Freedom Network website, may be exchanged or rented to other organizations or publications under the procedures outlined below.
-
-Members who join through the ACLU Freedom Network website are provided with an opportunity to opt out of this exchange.
-
-Like most other non-profit membership organizations, the ACLU obtains the names of potential new members by renting the membership lists or subscriber lists of like-minded organizations and publications. Sometimes, instead of paying the rental fee, ACLU exchanges its list with that of another organization.  
-
-
-Whether by exchange or rental, the lists are governed by very strict privacy procedures, as recommended by the U.S. Privacy Study Commission. All exchanges are made on a "blind" basis, as follows: Lists are never given into the physical possession of the organization which has rented or exchanged them. This safeguard is necessary to prevent one organization from knowing who the members of any other organization are. Instead, usually through a list broker, the list, either in the form of labels or tape, is sent to a mail house which prepares the mailing without our ever seeing who is addressed. The only time we get possession of a name from one of these lists is when the person receiving our invitation to join responds by sending our return envelope back to us.  
-
-
-If the receipt of duplicate mailings is too burdensome, you may wish to consider writing to each of the organizations to which you belong and publications to which you subscribe, requesting that your name be eliminated from lists made available for exchange or rental. The ACLU always honors such requests, and we believe that the organizations with which we exchange or rent lists honor them also, although of course we can't guarantee the actions of outside organizations.
-
-### Financial Data Security
-
-Membership and merchandise sale forms that collect financial information (such as a credit card number) are offered over a Netscape Commerce Server that encrypts the data for delivery to our contractor's server, and all financial data is stored or transmitted using appropriate security measures.
-
-### Email List Subscriptions
-
-The ACLU uses your email address to update you on news that you have requested. To deliver this information to you, we use ClickAction Email Relationship Management (ERM), an email marketing service that helps us to conduct targeted permission-based email campaigns. When registering for our email newsletter(s), ClickAction may collect and store the personal information that you provide on our behalf, but the contract between the ACLU and ClickAction prohibits it from sharing, renting, selling or trading any of this information to parties other than ACLU. In addition to its own strict privacy policy, ClickAction is a member of several industry privacy associations including: the Coalition Against Unsolicited Commercial Email and TRUSTe. ClickAction also adheres to all Federal and State privacy laws such as the FTC's privacy guidelines and other industry standards. To learn more about ClickAction's privacy policy, go to <http://www.clickaction.com/site/privac.html>.
-
-### Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. We offer the options below to view, modify, or delete your records with us.   
-
-
-### Change/Modify
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-**Membership Information  
-** Please provide your ACLU member ID, if known, your old address, and your new address. 
-
-  * [address change form](https://web.archive.org/forms/change.html)      
-  * send mail to the following postal address: 
-
-Membership Department   
-125 Broad Street, 18th Floor  
-New York, NY 10004 
-
-**Merchandise and Publications Purchase Information**
-
-  * email [orders@aclu.org](mailto:orders@aclu.org)      
-  * send mail to the following postal address: 
-
-ACLU Publications  
-P.O. Box 4713  
-Trenton, NJ 08650-4713
-
- **Action Letters**
-
-  * email [field@aclu.org](mailto:field@aclu.org)
-
-
-
-**E-mail services (including Action List, NewsFeed, and Cyber-Liberties Newsletter)**
-
-  * visit [/action/mailist.html](https://web.archive.org/action/mailist.html)
-
-
-
-**All other ACLU Freedom Network features**
-
-  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)      
-  * send mail to the following postal address: 
-
-ACLU Online Programs (Name of Service)  
-125 Broad Street, 18th Floor  
-New York, NY 10004 
-
-### Viewing your Information
-
- **Membership Information** Please provide your ACLU member ID, if known, and your current address 
-
-  * send mail to the following postal address: 
-
-Membership Department  
-125 Broad Street, 18th Floor  
-New York, NY 10004 
-
-**Action Letters**
-
-  * email [field@aclu.org](mailto:field@aclu.org)
-
-
-
-**E-mail services** (including Action List, NewsFeed, and Cyber-Liberties Newsletter) 
-
-  * visit <http://www.aclu.org/team/member.cfm>
-
-
-
-**All other ACLU Freedom Network features**
-
-  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)
-
-
-
-### Delete/Deactivate
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-**Membership Information** Please provide your ACLU member ID, if known, and your current address. 
-
-  * send mail to the following postal address: 
-
-Membership Department  
-125 Broad Street, 18th Floor  
-New York, NY 10004 
-
-**Merchandise and Publications Purchase Information  
-** We do not delete this information, but will correct an address.   
-
-
-**Action Letters**
-
-  * e-mail [field@aclu.org](mailto:field@aclu.org)
-
-
-
-**E-mail services** (including Action List, NewsFeed, and Cyber-Liberties Newsletter)
-
-  * visit <http://www.aclu.org/team/member.cfm>
-
-
-
-**All other ACLU Freedom Network features**
-
-  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)      
-  * send mail to the following postal address: 
-
-ACLU Online Programs  
-125 Broad Street, 18th Floor  
-New York, NY 10004 
-
-### Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-
-
-American Civil Liberties Union125 Broad Street, 18th FloorNew York, NY 10004[ACLU Feedback](http://www.aclu.org/feedback/feedback.cfm)
-
-Last Updated: August 20, 2003
+|    
+  
+---|---|---
