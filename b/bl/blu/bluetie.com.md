@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604011720id_/http%3A//www.bluetie.com/about/privacy.asp%3Fid%3D%26res%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207123549id_/http%3A//www.bluetie.com/about/privacy.asp%3Fid%3D%26res%3D) for the most accurate reproduction.*
 
 # BlueTie, Inc. - Contact Us
 
 **Privacy Statement**  
 
 
-LAST UPDATED: 9/1/01  
+LAST UPDATED: 9/1/02  
 [](https://www.truste.org/validate/7004) **PRIVACY POLICY**  
 BlueTie, Inc. ("BlueTie")  
 [**www.bluetie.com**](http://www.bluetie.com/)
@@ -13,30 +13,28 @@ BlueTie, Inc. ("BlueTie")
   1. **General**
   2. **Your Acceptance Of These Terms**
   3. **Personally-Identifiable Information**
-  4. **Financial Information**
-  5. **Non-Personally-Identifiable Information**
-  6. **Other Special Circumstances**
-  7. **Modification of Information and Opt-Out**
-  8. **Service Announcement**
-  9. **Information Collected Automatically**
-  10. **Information Placed Automatically On your Computer's Hard Drive**
-  11. **Uploaded Information**
-  12. **Changing or Deleting Your Personal Information**
-  13. **Children**
-  14. **Links to Other Web Sites**
-  15. **Security**
-  16. **Privacy Policy Changes**
-  17. **Whom to Contact**
+  4. **Non-Personally-Identifiable Information**
+  5. **Other Special Circumstances**
+  6. **Service Announcement**
+  7. **Information Collected Automatically**
+  8. **Information Placed Automatically On your Computer's Hard Drive**
+  9. **Uploaded Information**
+  10. **Changing or Deleting Your Personal Information**
+  11. **Children**
+  12. **Links to Other Web Sites**
+  13. **Security**
+  14. **Privacy Policy Changes**
+  15. **Whom to Contact**
 
 
 
 **General**
 
-BlueTie, Inc. is a licensee of the TRUSTe Privacy Program. BlueTie respects the privacy of every individual who visits www.bluetie.com (the "Web Site" or “Site”). Your privacy is very important to us. This Privacy Policy outlines the information we will collect and how we will use and share that information. This Policy will also tell you what to do if you do not want your personal information collected or shared. If you have any questions about our policy, please email us at [privacy@bluetie.com](mailto:privacy@bluetie.com).
+BlueTie, Inc. is a licensee of the TRUSTe Privacy Program. BlueTie respects the privacy of every individual who visits www.bluetie.com (the "Web Site" or "Site"). Your privacy is very important to us. This Privacy Policy outlines the information we will collect and how we will use and share that information. This Policy will also tell you what to do if you do not want your personal information collected or shared. If you have any questions about our policy, please email us at [privacy@bluetie.com](mailto:privacy@bluetie.com).
 
 **Your Acceptance Of These Terms**
 
-By using the Web Site, you signify your assent to our [Privacy Policy](https://web.archive.org/web/20020604011720id_/http%3A//www.bluetie.com/about/privacy.asp?id=&res=). If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
+By using the Web Site, you signify your assent to our [Privacy Policy](https://web.archive.org/web/20021207123549id_/http%3A//www.bluetie.com/about/privacy.asp?id=&res=). If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
 
 **Personally-Identifiable Information**
 
@@ -46,18 +44,14 @@ When you provide us with personally-identifiable information, BlueTie may:
 
 
   * store and process that information to better understand your needs, customize your experience, and to improve our products and services;
-  * use that information to contact you periodically via email and postal mail for informational, marketing and promotional purposes (i.e. site updates, blueCards, etc.);
+  * use that information to contact you periodically via email and postal mail for informational purposes (i.e. site updates, system outages, etc.);
   * disclose that information to third parties who need such information to provide products and services that you have requested;
   * disclose that information to third parties when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) BlueTie's rights or property, other members or users of the Web Site, or anyone else who could be harmed by such activities; and
-  * disclose that information to third parties when we believe in good faith that the law requires it.
+  * disclose that information to third parties when we believe in good faith that the law requires it. 
 
 
 
 Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, we will not provide personally-identifiable information to third parties.
-
-**Financial Information**
-
-BlueTie may ask you for your credit card number and expiration date when you register as a member of the Web Site or order goods or services from the Web Site. We may use this information for processing your registration and order and may share this information with credit card processing companies, the merchants from whom you have ordered, and any other third party that may need the information to process your order. These organizations have their own privacy and data collection practices, and we have no responsibility for these independent policies.
 
 **Non-Personally-Identifiable Information**
 
@@ -66,18 +60,6 @@ BlueTie may also collect information about you that is not personally-identifiab
 **Other Special Circumstances**
 
 Contests, sweepstakes, or other promotions on the Site will have separate privacy practices with regard to the information collected in connection with entering or participating in any such event. You will have a choice of whether or not you would like to allow certain information shared with third parties who may have a product or service of interest to you. You will also have the choice of whether a company that is co-sponsoring a promotion or contest may contact or send information to you.
-
-**Modification of Information and Opt-Out**
-
-If you indicated on registration that you are interested in receiving offers or information from BlueTie and our partners, we may occasionally send you e-mail about products and services we believe may be of interest to you. If you do not want to receive such mailings, simply write us at the Opt Out address below. Or, if you have been receiving the mailings and if you would like to remove or change that option or some other information you have submitted, you may do so by sending us a letter at the Opt Out address below. (Remember, however, that removing some or all of your information may limit your ability to access some or all of the features and services of the Web Site.)".
-
-In addition, to keep you in control of your personally-identifiable information and the communications directed to you, we allow you to opt-out of receiving marketing and promotional communications from BlueTie. You may opt-out of this service by following the instructions included in the communications or by writing to BlueTie, Inc. at: 
-
-> > Opt Out  
->  BlueTie, Inc.  
->  29 Goodway Drive  
->  Rochester, NY 14623  
-> 
 
 **Service Announcements**
 
@@ -89,7 +71,7 @@ BlueTie may also automatically collect non-personally-identifiable information a
 
 **Information Placed Automatically On your Computer's Hard Drive**
 
-Not all cookies are edible. A “cookie” is information stored on your computer when you view a website. Our cookies help us in many ways. For example, cookies allow us to track your shopping cart and to make sure you don't see the same ad repeatedly. Cookies also allow us to tailor the Web Site to better match your interests and preferences. If you visit another website from our Site, you may also receive a cookie or similar file from that site. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. Remember, however, that blocking or deleting cookies may limit your ability to access some or all of the features and services of the Web Site.
+Not all cookies are edible. A "cookie" is information stored on your computer when you view a website. Our cookies help us in many ways. For example, a cookie is used to remember your username (if desired). This means that the next time you log in to BlueTie, you will only have to enter your password. If you visit another website from our Site, you may also receive a cookie or similar file from that site. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. Remember, however, that blocking or deleting cookies may limit your ability to access some or all of the features and services of the Web Site.
 
 **Uploaded Information**
 
@@ -119,7 +101,7 @@ Your account on the Web Site is password protected so that only you can access i
 
 **Privacy Policy Changes**
 
-If we decide to change our privacy policy for BlueTie, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+If we decide to materially change our privacy policy for BlueTie, we will prominently post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
 
 **Whom to Contact**
 
