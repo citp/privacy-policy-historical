@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211220343id_/http%3A//www.upack.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315093400id_/http%3A//www.upack.com/privacy.asp) for the most accurate reproduction.*
 
 # ABF U-Pack® Moving Privacy Policy
 
