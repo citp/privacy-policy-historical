@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the clarkconnect.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402080105id_/http%3A//www.clarkconnect.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarkconnect.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/privacy.html) for the most accurate reproduction.*
 
-# About Us - Company - Privacy Policy
+# About Us - Legal - Privacy Policy
 
-  
-  
-  
-|   |  |  | 
+About Us [Company History ](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/index.html) [Our Network](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/network.html) [Suva Technology](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/suva.html)
+
+Legal [Overview](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/legal.html) [Privacy Policy](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/privacy.html) [UDRP](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/tos_udrp.html) [gTLD Registration](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/tos_gtld.html) [Terms of Service](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/tos_pcn.html) [Gateway Antivirus](https://web.archive.org/web/20041207001936id_/http%3A//www.clarkconnect.com/about/tos_sophos.html)
+
+|   |   
+|  | 
 
 **We don't sell or give away your name, mail address, e-mail address, phone number, or any other personal information to anyone!**  
   
