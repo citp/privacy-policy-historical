@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402002252id_/http%3A//www.oakwood.com/fortune/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204013907id_/http%3A//www.oakwood.com/fortune/privacy.htm) for the most accurate reproduction.*
 
 # Oakwood Corporate Housing - Privacy
 
