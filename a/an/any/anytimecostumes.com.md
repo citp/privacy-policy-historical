@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208190602id_/http%3A//www.anytimecostumes.com/Merchant2/merchant.mvc%3FScreen%3DCTGY%26Store_Code%3DPL%26Category_Code%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611063723id_/http%3A//anytimecostumes.com/Merchant2/merchant.mvc%3FScreen%3DCTGY%26Store_Code%3DPL%26Category_Code%3DPRIVACY) for the most accurate reproduction.*
 
-# PRIVACY POLICY</B: Party Lounge
+# PRIVACY POLICY: Costume Party Lounge
 
 Untitled Document
 
