@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2000-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001025005044id_/http%3A//www.jsonline.com/general/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606210228id_/http%3A//www.jsonline.com/general/privacy.asp) for the most accurate reproduction.*
 
 # JS Online Privacy Policy
 
-Journal Interactive, Journal Sentinel Inc. and JSOnline.com are committed to bringing you information tailored to your individual needs, and we recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. In adopting this customer privacy policy, our intent is to balance our legitimate business interests in collecting and using information and your reasonable expectations of privacy. 
+**Wednesday, June 6, 2001** Journal Interactive, Journal Sentinel Inc. and JSOnline.com are committed to bringing you information tailored to your individual needs, and we recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. In adopting this customer privacy policy, our intent is to balance our legitimate business interests in collecting and using information and your reasonable expectations of privacy. 
 
 **What personally identifiable information does JSOnline.com collect from me?**
 
@@ -66,6 +66,6 @@ We do not control the privacy policies of our business partners, advertisers, sp
 
 **Note for Kids under 13:** Do not send any information about yourself to us – including information like your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible. 
 
-**[STANDARDS OF CONTENT AND TERMS OF SERVICE](http://www.onwisconsin.com/scripts/staticpage.dll?spage=yp/standards.htm&ck=&ver=hb1.3)**   
+**[ONWISCONSIN STANDARDS OF CONTENT AND TERMS OF SERVICE](http://www2.onwisconsin.com/scripts/staticpage.dll?spage=yp/standards.htm&ck=&ver=hb1.3)**   
   
 
