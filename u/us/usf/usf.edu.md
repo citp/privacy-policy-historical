@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usf.edu privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206003744id_/http%3A//www.usf.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usf.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202143601id_/http%3A//www.usf.edu/privacy.html) for the most accurate reproduction.*
 
-# USF INTERNET PRIVACY POLICY
+# USF Privacy Policy -
 
-**UNIVERSITY OF SOUTH FLORIDA INTERNET PRIVACY POLICY **
+UNIVERSITY OF SOUTH FLORIDA INTERNET PRIVACY POLICY 
 
 Thank you for visiting the University of South Florida home page. Your privacy is very important to us. Simply stated, our policy for official USF websites is to collect no personal information about you when you visit an official USF website unless you affirmatively choose to make such information available to us.
 
@@ -14,4 +14,4 @@ If you choose to share information with us - by sending us a message or filling 
 
 Please be aware that as a large University with over 45,000 students, faculty and staff, there are many websites within the USF.edu domain. This policy relates to those websites on which the University conducts its official business. Because we encourage the development and deployment of technology in an environment of academic freedom, we cannot ensure that all websites within the USF.edu domain are in strict compliance with this policy at all times.
 
-If you have other questions about our privacy policy, or have ideas about improving our policies, please feel free to e-mail us at [www@usf.edu](mailto:www@usf.edu) or by telephone at (813)974-9624.
+If you have other questions about our privacy policy, or have ideas about improving our policies, please feel free to e-mail the University Relations office at [www@admin.usf.edu](mailto:www@admin.usf.edu?subject=privacy%20policy) or by telephone at (813) 974-4014.
