@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the softwaremedia.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608081816id_/http%3A//www.softwaremedia.com/privacypolicy.html) for the most accurate reproduction.*
+
+# 
+
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._ [Home](https://web.archive.org/web/20040608081816id_/http%3A//www.softwaremedia.com/index.html) | [Info](https://web.archive.org/web/20040608081816id_/http%3A//www.softwaremedia.com/info.html) | [Guarantee of Software Authenticity](https://web.archive.org/web/20040608081816id_/http%3A//www.softwaremedia.com/piracy.html) | [Privacy](https://web.archive.org/web/20040608081816id_/http%3A//www.softwaremedia.com/privacypolicy.html) | [Returns](https://web.archive.org/web/20040608081816id_/http%3A//www.softwaremedia.com/returns.html) | [OEM Products](https://web.archive.org/web/20040608081816id_/http%3A//www.softwaremedia.com/oem.html) | [Customer Feedback](https://web.archive.org/web/20040608081816id_/http%3A//www.softwaremedia.com/feedback.html)| [Jobs](https://web.archive.org/web/20040608081816id_/http%3A//www.softwaremedia.com/jobs.html)
+
+SoftwareMedia.com Privacy Policy
+
+We are committed to protecting your right to privacy. We collect information about our customers to enable us to process orders, improve our site, and provide better services. For your protection, we do not sell your information.
+
+To process and ship your order, we need your name, phone number, billing address, shipping address, and email address. This information is stored on a secure server to allow us to process subsequent orders more quickly. On occasion, we may notify our customers about Softwaremedia.com specials.
