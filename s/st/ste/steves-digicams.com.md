@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steves-digicams.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618095020id_/http%3A//steves-digicams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steves-digicams.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207204518id_/http%3A//www.steves-digicams.com/privacy.html) for the most accurate reproduction.*
 
 # Steve's Digicams - Privacy Notice
 
@@ -54,16 +54,16 @@ This site may contain links or references to other Web sites. Please be aware th
 
 **Other Terms**
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20030618095020id_/http%3A//steves-digicams.com/legal.html)
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20041207204518id_/http%3A//www.steves-digicams.com/legal.html)
 
 **How to Contact Us**
 
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows: 
 
 Steve's Digicam Online, Inc.  
-P.O. Box 14435  
-Clearwater, FL 33766-4435 
+2643 Cedarview Court  
+Clearwater, FL 33761 
 
 **Changes to This Privacy Policy**
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on July 1, 2001. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on April 4, 2004. 
