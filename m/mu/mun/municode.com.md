@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the municode.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602191520id_/http%3A//municode.com/community/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the municode.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113915id_/http%3A//www.municode.com/community/privacy.asp) for the most accurate reproduction.*
 
 # Municode.com | Privacy Policy
 
