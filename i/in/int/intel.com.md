@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613141118id_/http%3A//intel.com/sites/corporate/privacy.htm%3Fiid%3Dintelhome%2Bprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2001-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011107072022id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dww41intelhome%2Bprivacy%26) for the most accurate reproduction.*
 
 # Intel Privacy Policy
 
@@ -46,7 +46,7 @@ Check out the [FTC's site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/ind
 **Cookies.**  
 Most Intel Web sites use _cookies_. Cookies help us provide a better user experience by measuring which Web site areas are of greatest interest. Intel also uses cookies when you register for one of our Web programs. In this situation, a cookie will store useful information that enables our Web site to remember you when you return. Intel can only read cookies from Intel Web sites. 
 
-If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If people you do not accept cookies, the associated shopping bag will not work and you would not be able to order. 
+If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If you do not accept cookies, the associated shopping bag will not work and you would not be able to order. 
 
 We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. 
 
@@ -87,7 +87,7 @@ Contact the Support Team at: [support@mailbox.intel.com](mailto:support@mailbox.
 Note: This policy also covers the personal information you provide to Intel Customer Support. 
 
 **Have additional questions or comments?**  
-Check out the privacy policy frequently asked questions (FAQ) listed below. Should you have any additional privacy questions or comments related to this privacy policy, please contact us at [privacy.feedback@intel.com](mailto:privacy.feedback@intel.com). If you are not satisfied with our response, please contact [BBBOnLine](http://www.bbbonline.com/)(1) or [TRUSTe](http://www.truste.org/users/users_watchdog.html)(1). 
+Check out the privacy policy frequently asked questions (FAQ) listed below. Should you have any additional privacy questions or comments related to this privacy policy, please use [this form](https://web.archive.org/intel/writeusp.htm) to contact us. If you are not satisfied with our response, please contact [BBBOnLine](http://www.bbbonline.com/)(1) or [TRUSTe](http://www.truste.org/users/users_watchdog.html)(1). 
 
 **Privacy Policy Frequently Asked Questions (FAQ)**
 
@@ -95,7 +95,7 @@ Check out the privacy policy frequently asked questions (FAQ) listed below. Shou
 **A:** Based on customer feedback, we made changes to improve the usability and completeness of this policy. For example, we added this FAQ section, added details on our data retention policy, and gave more information on how to get help from Customer Support. No privacy protections were removed. 
 
 **Q: What should I do if I have a privacy question after reading the policy and FAQ?**   
-**A:** Like always, you can send your privacy questions and comments to [privacy.feedback@intel.com](mailto:privacy.feedback@intel.com). We will use these items as input to future FAQ. Please do not send technical support questions to the privacy email address. Refer to [support.intel.com](http://support.intel.com/) for help with your non-privacy-related questions. 
+**A:** Like always, you can send your privacy questions and comments to us by using [this form](https://web.archive.org/intel/writeusp.htm). We will use these items as input to future FAQ. Please do not send technical support questions to the privacy feedback form. Refer to [support.intel.com](http://support.intel.com/) for help with your non-privacy-related questions. 
 
 **Q: Does this policy also cover personal information collected offline?**   
 **A:** Yes. We strive to have consistent privacy practices for your personal information, regardless of the medium used to collect the information. 
