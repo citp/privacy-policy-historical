@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206071600id_/http%3A//www.editorandpublisher.com/ephome/index/unihtm/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606211846id_/http%3A//editorandpublisher.com/ephome/index/unihtm/policy.htm) for the most accurate reproduction.*
 
 # E&P ONLINE PRIVACY POLICY
 
@@ -31,6 +31,6 @@ By using our Web site, you consent to the collection and use of this information
 **QUESTIONS?**  
 We welcome your questions and/or comments. Please send all queries to [webmaster@mediainfo.com](mailto:webmaster@mediainfo.com). 
 
-**[HOME](https://web.archive.org/) | [RECENT NEWS](https://web.archive.org/ephome/news/newshtm/news.htm) | [MEDIA LINKS](https://web.archive.org/emedia/) | [CLASSIFIED](http://epclassifieds.com/) | [BUYER'S GUIDE](http://www.mediainfo.com/buyersguide) | [ARCHIVES](http://archives.mediainfo.com/) | [STORE](https://web.archive.org/store/njs-store.htm) | [CONFERENCE](https://web.archive.org/ephome/events/eventshtm/confer.htm) | [MEDIA KIT](https://web.archive.org/ephome/promos/promoshtm/mediakit.htm) | [FEEDBACK](https://web.archive.org/ephome/index/uniform/feedback_gen.htm) | [SITE INDEX](https://web.archive.org/ephome/index/unihtm/siteindex.htm) | [SUBSCRIBE](https://web.archive.org/store/magazine.htm) | [CONTACT E&P](https://web.archive.org/ephome/index/unihtm/aboutep.htm#email) | [PRIVACY POLICY](https://web.archive.org/ephome/index/unihtm/policy.htm) **
+**[HOME](https://web.archive.org/) | [RECENT NEWS](https://web.archive.org/ephome/news/newshtm/news.htm) | [MEDIA LINKS](https://web.archive.org/emedia/) | [CLASSIFIED](http://www.editorandpublisher.com/ephome/class/classhtm/)| [ARCHIVES](http://archives.mediainfo.com/) | [STORE](https://web.archive.org/store/njs-store.htm) | [CONFERENCE](https://web.archive.org/ephome/events/eventshtm/confer.htm) | [MEDIA KIT](https://web.archive.org/ephome/promos/promoshtm/mediakit.htm) | [FEEDBACK](https://web.archive.org/ephome/index/uniform/feedback_gen.htm) | [SITE INDEX](https://web.archive.org/ephome/index/unihtm/siteindex.htm) | [SUBSCRIBE](https://web.archive.org/store/magazine.htm) | [CONTACT E&P](https://web.archive.org/ephome/index/unihtm/aboutep.htm#email) | [PRIVACY POLICY](https://web.archive.org/ephome/index/unihtm/policy.htm) **
 
-_© 2000[Editor & Publisher](http://www.mediainfo.com/) and [BPI Communications](http://www.bpicomm.com/) Inc. All rights reserved._
+_© 2001[Editor & Publisher](http://www.mediainfo.com/) and [BPI Communications](http://www.bpicomm.com/) Inc. All rights reserved._
