@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616143131id_/http%3A//www.hotelclub.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215105137id_/http%3A//hotelclub.net/privacy.asp) for the most accurate reproduction.*
 
 # HotelClub.net - Privacy
 
