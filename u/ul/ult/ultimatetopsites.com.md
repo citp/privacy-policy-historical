@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatetopsites.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406103149id_/http%3A//www.ultimatetopsites.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatetopsites.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609144853id_/http%3A//www.ultimatetopsites.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@
 
 ####  Information Automatically Logged 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. We will use I.P. addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's [terms of use](http://www.ultimatetopsites.com/terms.html) or to protect our service, site, or other users. 
+We use your IP address to help diagnose problems with our server and to administer our Web site. We will use I.P. addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's [terms of use](http://www.ultimatetopsites.com/bin/create/terms.html) or to protect our service, site, or other users. 
 
 ####  Advertisers 
 
