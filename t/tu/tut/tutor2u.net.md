@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/privacy.asp) for the most accurate reproduction.*
 
 # Tutor2u - Terms and Conditions
 
@@ -57,11 +57,11 @@ LS23 6DX
 * * *  
   
 ---  
-**[Home](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/default.asp)** | [Privacy Policy ](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/privacy.asp)| [Terms of Use](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/terms.asp) | [Contact Us](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/feedback.asp) |   
+**[Home](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/default.asp)** | [Privacy Policy ](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/privacy.asp)| [Terms of Use](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/terms.asp) | [Contact Us](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/feedback.asp) | [Meet the Team ](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/team.asp) | [What Our Customers Say](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/testimonials.asp)  |   
 Add your email to receive our free, regular email newsletter  
 Online Learning Resource of the Year - 2003 BETT Awards  
-Highly Commended in the UK Online for Business Awards 2003  
-Many tutor2u resources can be purchased using e-learning credits - [please visit our online store for details](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/acatalog/shop.html)   
+Highly Commended: UK Online for Business Awards 2003  
+Many tutor2u resources can be purchased using e-learning credits - [please visit our online store for details](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/acatalog/shop.html)   
 |   
 Copyright © 2004 Tutor2u Limited. All Rights Reserved  
 tutor2u™ is a registered trademark (Number: 2332331)  
