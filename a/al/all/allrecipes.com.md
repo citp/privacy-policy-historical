@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201215041id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603234934id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.*
 
 # All Recipes | Privacy Policy
 
@@ -63,7 +63,7 @@ The Allrecipes Savings Club provides access to coupons and other offers availabl
 
 When you register for the Savings Club we ask for your name, user name, password, email address and zip code. Some or all of this information is required to access the coupons offered by our couponing partners. By registering for the Savings Club and providing the information requested in connection with registration, you authorize Allrecipes.com to give that information to our couponing partners. Because the use of your information by our couponing partners will be governed by their privacy policies and not ours, links to the privacy policies of each of our current couponing partners are below. 
 
-[ValuPage Privacy Policy](http://myrecipe.com/coupons/valupage_privacy.asp)
+[ValuPage Privacy Policy](http://www.myrecipe.com/coupons/valupage_privacy.asp)
 
 We may also use the information you provide to help you to find recipes, coupons, and other information we believe is useful to you. Because you will automatically be registered for My Recipe Box, your information will additionally be used as discussed in the preceding paragraph. 
 
