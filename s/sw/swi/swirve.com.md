@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024023833id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184027id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # About Swirve.com
 
@@ -6,10 +6,9 @@
 
 **Swirve.com... The way the web ought to be.**
 
-[](http://www.myaffiliateprogram.com/u/emgames/b.asp?id=1359)
-
-| 
-
+|   
+---  
+  
 **Our Privacy Policy**  
 
 
@@ -22,7 +21,7 @@ Internet user privacy and confidentiality is of the utmost importance to Swirve.
 **User Information**  
 
 
-Personal information submitted by users to Swirve.com is used for the purposes of maintaining the integrity of the website and its contents, contacting our users when necessary, and improving the quality of service provided by Swirve.com. This information is not provided to 3rd parties for any reason, except when legally required. Swirve.com may also offer opt-in opportunities with 3rd party partners - this information cannot be protected by Swirve.com, but we do attempt to direct users to the 3rd Party's Privacy Policy for more information.
+Personal information submitted by users to Swirve.com is used for the purposes of maintaining the integrity of the website and its contents, contacting our users when necessary, and improving the quality of service provided by Swirve.com. This information is not provided to 3rd parties, except when requested by the user or legally required. Swirve.com may offer opt-in opportunities with 3rd party partners - this information cannot be protected by Swirve.com after being released (with your permission) to the 3rd party.
 
 Swirve.com servers also collect information which is specific to how you use the Internet. Swirve servers note details such as the server you are logged onto, the geographic location of the ISP and type of browser you use, and your IP address. This information is obtained solely for the purpose of maintaining the site's integrity and improving our service.
 
@@ -60,17 +59,24 @@ To find out more about how some of our partners use your information, please vis
   
   
 ---  
-| 
+|  **WELCOME TO  
+SWIRVE.COM!**   
 
-Jocelyn, you're the one I love the most. I can't live without you -- you are the soul of my life. Let our love become forever and ever!   
-_Love, Jeffrey_
 
-To the sailors deployed -- we are behind you 100%. We will remember you in our hearts and our prayers. Remember, we are with you in spirit. Stand tall and proud!   
-_Love,  
-Nick, PA_
+* * *
 
-To all my friends - I want to bring you all the stars, salve all your wounds, create happy magical moments for all - because I am a Protector. Forgive me when I am irritating or bossy!   
-_Lucia_
+  
+Angel, you were the best cat in the world. I'll miss you always and wish you could still be with us.   
+_Dad_
+
+Carri -- I love you more than life. I just want you to know that.   
+_Love, Kevin_
+
+JoJo, I love the way you shake that booty when you dance. We should dance more often! I love your snuggles, so let's snuggle all the time! Kiss me you silly billy!   
+_Bubu_
+
+Wayne, The days are long, the nights, forever without you by my side.   
+_I miss you always, Margo_
 
 Want to say something? [Tell Us!](javascript:Users\(\);)  
   
