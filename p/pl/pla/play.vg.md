@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.vg privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205014743id_/http%3A//www.play.vg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.vg privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307115641id_/http%3A//www.play.vg/privacy.php) for the most accurate reproduction.*
 
 # play.vg Privacy Policy
 
@@ -8,7 +8,7 @@
 
 play.vg Privacy Policy
 
-Special note to game authors: If your game is being used on this site and you want it removed please [contact me](https://web.archive.org/web/20041205014743id_/http%3A//www.play.vg/contact.php) and it will be removed immediately! I apologise for any inconvenience this may have caused you.
+Special note to game authors: If your game is being used on this site and you want it removed please [contact me](https://web.archive.org/web/20050307115641id_/http%3A//www.play.vg/contact.php) and it will be removed immediately! I apologise for any inconvenience this may have caused you.
 
 Visitors: Your privacy is important to us. That is why no personal information is collected about you by vgstores.com. No information about specific visitors is ever tracked or stored. However, general, non-personal data (such as the type of web browser you are using for example) may be logged for aggregate statistics data. This information is used to ensure that the site is compatible with the majority of visitors.
 
@@ -23,10 +23,10 @@ Any questions regarding this privacy policy should be directed to the webmaster 
 
 _Don't miss checking out[Gaming Top 200](http://www.gamesites200.com/gaming/vote.php?id=1603) and [TopListCity Games](http://www.toplistcity.com/games/in.php?id=2513)!_ Play.vg Partner Sites - Check 'em out!  
 ---  
-[Arcade Town](http://www.arcadetown.com/index.asp?aid=697136) | [MoFunZone](http://www.mofunzone.com/)  
-| [Look for Games](http://www.lookgames.net/) | [Game Sloth](http://www.gamesloth.com/)  
-[Freebie List](http://www.freebielist.com/) | [Halftime Games](http://www.halftimegames.com/) | [Noodan Games](http://www.noodan.com/) | [Tornado Games](http://www.tornadogames.com/)  
-[Addictive Gamez](http://www.addictivegamez.com/) | [Insane Games](http://www.insane-games.com/) | [Arcade Nut](http://www.arcadenut.com/) | [...Your site?...](http://www.play.vg/link_to_us.php)  
-_[... More links ...](http://www.play.vg/links.php)_
+[Arcade Town](http://www.arcadetown.com/index.asp?aid=697136) | [The Free Site](http://www.thefreesite.com/) | [MoFunZone](http://www.mofunzone.com/)  
+| [Game Sloth](http://www.gamesloth.com/)  
+[Freebie List](http://www.freebielist.com/) | [Halftime Games](http://www.halftimegames.com/) | [Noodan Games](http://www.noodan.com/autolinks/?i=playvg) | [Online Games](http://www.yogames.net/)  
+[Insane Games](http://www.insane-games.com/) | [Tornado Games](http://www.tornadogames.com/) | [Arcade Nut](http://www.arcadenut.com/) | [Free Stuff Archive](http://www.free-stuff-archive.com/)  
+_!!![More links](http://www.play.vg/links.php) !!!_
 
 [Home](http://www.play.vg/)  |  [About](http://www.play.vg/about.php)  |  [Links](http://www.play.vg/links.php)  |  [Link to us](http://www.play.vg/link_to_us.php)  |  [Shop](http://www.play.vg/classic_games.php)  |  [Help!](http://www.play.vg/help.php)  |  [Contact](http://www.play.vg/contact.php)  |  [](http://www.play.vg/rss.xml)
