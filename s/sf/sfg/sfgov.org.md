@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sfgov.org privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811083941id_/http%3A//sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgov.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606020056id_/http%3A//sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.*
 
 # San Francisco SFGov: Privacy Policy
 
   
 | 
 
-City and County of San Francisco  
+  
 
 
   
@@ -20,8 +20,10 @@ We sometimes track the keywords that are entered into our search engine to measu
 Information Provided by You  
 Information volunteered by you through your filling out of our optional online feedback form is used to help us enhance our web sites, and may be shared with City and County of San Francisco employees and contractors for that purpose.
 
-We do not use "cookies". (A "cookie" is a file placed on your hard drive by a Web site, usually without your knowledge).
+We do not use "cookies" except when providing personalization services such as "MySFGov". The use of cookies is a standard practice among Internet websites and most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies.
 
 Links to Other Sites  
-The City and County of San Francisco uses link and search capabilities to navigate publicly available information from dozens of agencies that are not part of the City and County of San Francisco web site. The privacy policies and procedures described here do not necessarily apply to those sites. We suggest contacting these sites directly for information on their data collection and distribution policies.Site Security  
-We monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage to the site. Anyone using this Web site expressly consents to such monitoring. 
+The City and County of San Francisco uses link and search capabilities to navigate publicly available information from dozens of agencies that are not part of the City and County of San Francisco web site. The privacy policies and procedures described here do not necessarily apply to those sites. We suggest contacting these sites directly for information on their data collection and distribution policies.
+
+Site Security  
+We monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage to the site. Anyone using this Web site expressly consents to such monitoring.
