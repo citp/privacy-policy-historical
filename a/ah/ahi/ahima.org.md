@@ -1,65 +1,75 @@
-> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602134850id_/http%3A//www.ahima.org/infocenter/positions/PrivOffState2k1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209185716id_/http%3A//www.ahima.org/privacy.statement.html) for the most accurate reproduction.*
 
-# AHIMA -- Position Statement -- Privacy Officer
+# American Health Information Management Association -- Quality Healthcare through Quality Information
 
-## **AHIMA** **Position Statement  
-**_Privacy Official_** _  
-_ **
+### Privacy Statement for AHIMA Web Sites
 
-* * *
+The American Health Information Management Association (AHIMA) has created this privacy statement in order to demonstrate our firm commitment to privacy. AHIMA is committed to honoring the privacy of our members and general users who access this site. The following discloses our information gathering and dissemination practices for AHIMA's main Web site at [www.ahima.org](http://www.ahima.org/) and AHIMA's Communities of Practice Web site at [www.cop.ahima.org](http://www.cop.ahima.org/).
 
-**Position**
+On both sites, we use your IP address to help diagnose problems with our server, derive usage statistics, and to administer our Web site. All usage statistics are only used as aggregated data to derive statistics and not to identify individuals accessing the Web sites. 
 
-The American Health Information Management Association (AHIMA) recognizes the increased complexity of protecting patients' privacy while managing access to, and release of, information about patients and other healthcare consumers. Credentialed health information management (HIM) professionals—because of their academic preparation, work experience, commitment to patient advocacy, and professional code of ethics—are uniquely qualified to assume positions as designated privacy officials as required by the Health Insurance Portability and Accountability Act (HIPAA).
+AHIMA has contracted with other vendors to provide services and information to our Web site users. We use our best efforts to ensure the contract with such vendors only permits the vendor to use the data collected to diagnose problems and to administer our Web site.
 
-**Background**
+###  Member Profile Data and Unique Identifiers
 
-Healthcare is a service industry that relies on information for every facet of its delivery. Health information has value to the patient it describes, the provider it serves, and the organization it supports, in addition to society as it directs the health of the population. It must be protected as a valuable asset, and in its primary form as the medical record of a unique individual, it must be safeguarded. 
+In AHIMA's Communities of Practice Web site, general profile data on members are accessible to other members in aggregate form. Information provided to other members includes a member's name, city, state, job title, and workplace as part of an online member directory. Other identifying information is not available.
 
-Privacy concerns grow as technology increases access to health information. Mental health, substance abuse, sexually transmitted disease, and now genetic information create a heightened awareness of the need for privacy. Documented cases of the use of health information to make decisions about hiring, firing, loan approval, and to develop consumer marketing have sensitized the public to the risks of sharing information with their healthcare provider. 
-
-For years, states have written laws and regulations to protect their citizens' privacy by limiting release of information based on the requestor, the type of information, and the use of that information. Due to the complexity of the issue, the number of concerned parties, and the variety of health information, no two states have the same laws. 
-
-Over the last 10 years, the federal government has tried to address the patchwork nature of state laws by developing comprehensive federal legislation, but has failed to complete that task. In an effort to ensure all citizens have a standard minimum protection, the Department of Health and Human Services has promulgated regulation under the authority of HIPAA to provide a universal floor of protection. However, the industry is already concerned with meeting this new minimal level. 
-
-To ensure the necessary leadership for compliance, the Standards for Privacy of Individually Identifiable Health Information released in December 2000, require that each health plan, healthcare clearinghouse, and certain healthcare providers must designate a privacy official who is responsible for the development and implementation of their policies and procedures relative to privacy. 
-
-HIM professionals have effectively managed the release of information in healthcare organizations for decades. Establishing policy, training staff, developing consents, releasing information, and documenting information use are key elements of the HIM role. Coursework that prepares HIM professionals to fulfill this role has long been included in the curriculum of all accredited HIM academic programs, and is included in the certification examination for both registered health information administrators and technicians. Since its formation in 1928, AHIMA has supported its members in their efforts to protect patient privacy. 
-
-**Support for the position**
-
-To maintain the privacy, confidentiality, and security of health information, AHIMA members assume a leadership role in compliance with state and federal laws, develop appropriate organizational initiatives, and exercise ethical decision making. HIM professionals are uniquely qualified to assume the role of privacy officials, because we: 
-
-  * Interpret state and federal laws that apply to the use of health information, into policy
+Unique identifiers (such as membership identification numbers) are collected from Web site visitors to verify the user's identity, provide customized Web pages, and customized information, and for use as account numbers in our record system. Such unique and individually identified information is never sold nor provided to third parties.  
 
 
-  * Understand the decision-making processes throughout healthcare that rely on information 
+###  Cookies
+
+Our sites use cookies to identify specific users and user options for our continuing education quiz system, surveys, advertising banner ad tracking, the rotation of ad displays on Web pages, online e-commerce system, and online Community platform. Cookies are also used in surveys, voting, and polling to prevent users from duplicating responses in any of these Web site events. 
+
+### Financial and Customer Information
+
+Our site uses order forms that allow customers to request information, products, and services. We collect a visitor's contact information (e-mail address), unique identifiers (their membership identification number), and financial information (account or credit card numbers). Contact information collected from the order form is used to send orders to customers. Financial information is used to collect payment from the user for billable products and services.
+
+###  Links
+
+These sites contains links to other sites. AHIMA is not responsible for the privacy practices or the content of Web sites linked from AHIMA's Web sites, nor does linking to other Web sites indicate any endorsement of the site or the products or information provided on such sites.
+
+###  Data Collection
+
+Online surveys, polls, and all demographic information collected through the sites are used for internal benchmarking and research. Identifying information is not disclosed to outside parties, other than subcontractors of AHIMA, or used to contact users unless they have indicated that they wished to be contacted for follow up.
+
+###  Public Forums
+
+The sites make chat rooms and discussion forums available to its users. Although chat rooms and discussion forums are only viewable by AHIMA members, please remember that any information disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information. Forums and chat rooms may be monitored for content by AHIMA.
+
+###  Security
+
+Both www.ahima.org and www.ahimanet.org have security measures in place that endeavor to protect the loss, misuse, and alteration of the information under our control. These sites are a part of private networks, that do not provide direct access by outside parties to the servers. Firewalls are also in place to prevent unauthorized access to equipment and servers. All systems are monitored for suspicious activity to prevent any breaches in security. 
+
+AHIMA also employs a secure socket layers (SSL) security protocol, which is a standard industry tool used to provide data encryption on pages and areas where personal data are collected. SSL protects the personal information transmitted from a user's computer to AHIMA, allowing for safe transmission of personal and financial information over the Internet. AHIMA also uses digital certificate authentication to ensure secure transactions.
+
+###  Choice to Opt-Out
+
+At the point where we request information about the visitor, our site provides users with the opportunity to opt-out of receiving communications from AHIMA. 
+
+This site gives users the following options for removing their information from our database in order to not receive future communications or receive our service. 
+
+> You can send e-mail to [info@ahima.org](mailto:info@ahima.org), or you can call the following telephone number: (312) 233-1100.
+
+###  Corrections and/or Updates 
+
+The sites give users the following options for changing and modifying previously provided information. 
+
+Access www.ahimanet.org  
+Send e-mail to [info@ahima.org](mailto:info@ahima.org)  
 
 
-  * Direct the flow of information within healthcare organizations and throughout healthcare 
+Send mail to:  
+AHIMA  
+233 N. Michigan Ave., Suite 2150,   
+Chicago, IL 60601-5800   
+Telephone: (312) 233-1100 
 
+### Contacting the Web Site
 
-  * Apply HIM principles to information in all its forms 
+If you have any questions about this privacy statement, AHIMA's Web site practices, or your dealings with these Web sites, you can contact:
 
-
-  * Understand the content of health information in its clinical, research, and business contexts
-
-
-  * Apply the technologies used to collect, access, store, and transmit information in all its forms 
-
-
-  * Establish and recognize best practices in the management of privacy of health information 
-
-
-  * Collaborate with other healthcare professionals to ensure appropriate security measures are in place 
-
-
-  * Historically managed the release of information function
-
-
-  * Advocate for the patient, relative to health information confidentiality 
-
-
-  * Live by a Professional Code of Ethics specific to maintenance of patient privacy 
-
-
+American Health Information Management Association  
+233 N. Michigan Ave., Suite 2150  
+Chicago, IL 60601-5800  
+E-mail: [info@ahima.org](mailto:info@ahima.org)
