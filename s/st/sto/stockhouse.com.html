@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2004-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205011601id_/http%3A//stockhouse.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403155706id_/http%3A//www.stockhouse.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -36,6 +36,25 @@
 		return valid;	
 	}
 </script> 
+<script language="JavaScript">
+function FlashInstalled()
+{	result = false;
+	if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"])
+	{	result = navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin;	}
+	else if (document.all && (navigator.appVersion.indexOf("Mac")==-1))
+	{	// IE Windows only -- check for ActiveX control, have to hide code in eval from Netscape (doesn't like try)
+		eval ('try {var xObj = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");if (xObj)	result = true; xObj = null;	} catch (e)	{}');	}
+	return result;	}
+function FlashWrite(swf,width,height)
+{	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" ');
+	document.write('  WIDTH=' + width + ' HEIGHT=' + height + '>');
+	document.write(' <PARAM NAME=movie VALUE="' + swf + '"> <PARAM NAME=quality VALUE=high> <param name="wmode" value="transparent">  '); 
+	document.write(' <EMBED src="' + swf + '" quality=high bgcolor=#ffffff  ');
+	document.write(' swLiveConnect=FALSE WIDTH=' + width + ' HEIGHT=' + height);
+	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+	document.write(' </EMBED></OBJECT>');	}
+</script>
 <table width="100%" height="22" border="0" cellpadding="0" cellspacing="0" background="/gfx/row_1_back.jpg" bgcolor="#3E3E3E" style="background-repeat:repeat-x">
 <tbody><tr>
 	
@@ -81,17 +100,33 @@
   	
 </tr>
 </tbody></table>
+	 <!-- Banner -->
+			<table width="100%" height="70" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFDC00">
+				<tbody><tr>
+					<td background="/gfx/row_2_back_left.jpg" class="backlock">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td>
+									<a href="/index.asp" target="_top"><img src="/gfx/sh_logo_olympics.gif" width="194" height="64" border="0"></a>
+								</td>
+							</tr>
+							<tr>
+								<td align="right">
+									<a class="textSmallBlack" href="/index.asp" target="_top">Home</a>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td align="center" width="100%">
+					
+<iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.stockgroup.com/RealMedia/ads/adstream_sx.ads/www.stockhouse.com/@Middle"></iframe><noframes><ILAYER WIDTH=468 HEIGHT=60><script language=Javascript src=http://adserver.stockgroup.com/RealMedia/ads/adstream_jx.ads/www.stockhouse.com/@Middle></SCRIPT></ILAYER></noframes>
 
-<table width="100%" height="70" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFDC00">
-  		<tbody><tr>
-		 
-		  <td background="/gfx/row_2_back_left.jpg" class="backlock" align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="gfx/shim.gif" width="1" height="4"><br><a href="/index.asp" target="_top"><img src="/gfx/sh_logo_sm.gif" width="122" height="30" border="0"></a></td></tr><tr><td align="right"><a class="textSmallBlack" href="/index.asp" target="_top">Home</a></td></tr></tbody></table></td>
-		  <td background="/gfx/row_2_back_right.jpg" width="100%" align="center" class="backlock" style="background-position: right;"><img src="gfx/shim.gif" width="1" height="4"><br>
-<iframe width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.stockgroup.com/RealMedia/ads/adstream_sx.ads/www.stockhouse.com/@Middle2"></iframe><noframes><ILAYER WIDTH=728 HEIGHT=90 bgcolor=#FFDC00><script language=Javascript src=http://adserver.stockgroup.com/RealMedia/ads/adstream_jx.ads/www.stockhouse.com/@Middle2></SCRIPT></ILAYER></noframes>
-<br><img src="gfx/shim.gif" width="1" height="4"></td>			
-		 
-		</tr>
-	  </tbody></table>
+					</td>
+					<td background="/gfx/row_2_back_right.jpg" width="172" align="right" class="backlock" style="background-position: right;"><img src="/gfx/sh_10thann.gif" width="172" height="70" border="0"></td>
+		
+	</tr>
+</tbody></table>
+
 	  <table width="100%" height="32" border="0" cellpadding="0" cellspacing="0" background="/gfx/row_tools_back.jpg">
   		<tbody><tr>
 		  <td width="100" class="backlock">
@@ -137,7 +172,7 @@
 	<tbody><tr>
 	  <td nowrap="">
 	  	<a href="/comp_database/lookup.asp?noSearch=1" target="_top" class="navmajor">Quotes</a>
-		<a href="/portfolio/" class="navmajor" target="_top">Portfolio</a>
+		<a href="/pfolio.asp" class="navmajor" target="_top">Portfolio</a>
 		<a href="/bullboards/" class="navmajor" target="_top">BullBoards</a>
 		<a href="/news/" class="navmajor" target="_top">News</a>
 		<a href="/quote/index.asp" class="navmajor" target="_top">Markets</a>
@@ -173,7 +208,7 @@
 			<!-- END RedSheriff Measurement V5.01 -->
 		</td>
 		<td align="right" valign="top">
-<iframe width="220" height="20" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.stockgroup.com/RealMedia/ads/adstream_sx.ads/www.stockhouse.com/@TopRight"></iframe><noframes><ILAYER WIDTH=220 HEIGHT=20><script language=Javascript src=http://adserver.stockgroup.com/RealMedia/ads/adstream_jx.ads/www.stockhouse.com/@TopRight></SCRIPT></ILAYER></noframes>
+<iframe width="88" height="31" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.stockgroup.com/RealMedia/ads/adstream_sx.ads/www.stockhouse.com/@Top"></iframe><noframes><ILAYER WIDTH=88 HEIGHT=31><script language=Javascript src=http://adserver.stockgroup.com/RealMedia/ads/adstream_jx.ads/www.stockhouse.com/@Top></SCRIPT></ILAYER></noframes>
 </td>
 
 	</tr>
@@ -225,14 +260,11 @@
 
 
 
-
-	&nbsp;&nbsp;
-<iframe width="468" height="270" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://stockgroup.stockgroup.com/baimg/img/overtureAds.asp?site=shcom&amp;page=ros&amp;size=468&amp;tag=stockhouse_ros_468_ctxt&amp;maxcount=4&amp;showhost=1&amp;shownext=1&amp;strnd=910"></iframe><noframes><ILAYER WIDTH=468 HEIGHT=270><script language=Javascript  src=http://stockgroup.stockgroup.com/baimg/img/overtureAds.asp?site=shcom&page=ros&size=468&tag=stockhouse_ros_468_ctxt&maxcount=4&showhost=1&js=1&strnd=910></SCRIPT></ILAYER></noframes>
 <table width="100%" height="32" border="0" cellpadding="0" cellspacing="0" background="/gfx/footer_nave_back.jpg">
 <tbody><tr>
 	<td nowrap="">
 		<a href="/comp_database/lookup.asp?noSearch=1" target="_top" class="navmajor">Quotes</a>
-		<a href="/portfolio/" class="navmajor" target="_top">Portfolio</a>
+		<a href="/pfolio.asp" class="navmajor" target="_top">Portfolio</a>
 		<a href="/bullboards/" class="navmajor" target="_top">BullBoards</a>
 		<a href="/news/" class="navmajor" target="_top">News</a>
 		<a href="/quote/index.asp" class="navmajor" target="_top">Markets</a>
@@ -246,7 +278,7 @@
 </tbody></table>
 <table width="100%" height="21" border="0" cellpadding="0" cellspacing="0" background="/gfx/footer_bottom_back.jpg">
 <tbody><tr>
-	<td width="33%" class="textSmallBlack">Copyright 2004 Stockgroup Media Inc. All Rights Reserved.<br><a href="/disclaimer.asp" target="_top">Disclaimer / Terms of Use</a>  -  <a href="/privacy.asp" target="_top">Privacy Policy</a> </td>
+	<td width="33%" class="textSmallBlack">Copyright 2005 Stockgroup Media Inc. All Rights Reserved.<br><a href="/disclaimer.asp" target="_top">Disclaimer / Terms of Use</a>  -  <a href="/privacy.asp" target="_top">Privacy Policy</a> </td>
 	<td width="33%"><div align="center"><img src="/gfx/logos/footer.jpg" width="397" height="23" border="0" usemap="#Map" href="#"></div></td>
 	<td width="33%" align="right" class="textSmallBlack">Charts provided by <a href="http://www.stockgroup.com/products.asp?p=financialcontent" target="_top">Stockgroup</a>.<br>Intraday data provided by <a href="http://www.comstock-interactivedata.com" target="_blank">ComStock Inc.</a>, a division of <br>Interactive Data Corp. and subject to <a href="/comstockTerms.html" target="comstockTerms" onclick="window.open('comstockTerms.html','comstockTerms','scrollbars=yes,toolbar=no,resizable=no,width=500,height=400');">terms of use</a>. </td>
 </tr>
