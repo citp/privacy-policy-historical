@@ -1,8 +1,29 @@
-> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204204525id_/http%3A//www.miamidolphins.com/legal/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305071808id_/http%3A//www.miamidolphins.com/legal/privacystatement.asp) for the most accurate reproduction.*
 
 # MiamiDolphins.com
 
   
+
+
+|   
+  
+---  
+  
+**2005 Home Opponents**  
+**Atlanta, Buffalo, Carolina, Denver, Kansas City, New England, N.Y. Jets, Tennessee**  
+  
+  
+  
+**2005 Road Opponents**  
+**Buffalo, Cleveland, New England, New Orleans, N.Y. Jets, Oakland, San Diego, Tampa Bay**  
+  
+  
+  
+[](https://web.archive.org/contacts/advertising/advertising.asp)
+
+[](https://web.archive.org/interactive/sharesite/sharesite.asp)
+
+|    
 
 
 Your right to privacy is a concern to us. At Miami Dolphins Ltd. on the Internet we are helping you maintain control over your personal data while fostering the growth of a more interactive environment. Below are the guidelines we use for protecting the information you provide during a visit to our Internet site (www.miamidolphins.com). For a summary of our corporate-wide privacy statement, [click here](https://web.archive.org/legal/summary.asp).
@@ -124,3 +145,5 @@ Davie, FL 33314
 (954) 452-7000
 
 Go to top of page.
+
+| 
