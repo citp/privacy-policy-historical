@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605043921id_/http%3A//ford.com/en/support/privacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207125943id_/http%3A//www.ford.com/en/support/privacyStatement.htm) for the most accurate reproduction.*
 
 # Ford Motor Company - Privacy
 
