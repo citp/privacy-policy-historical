@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gliq.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208210844id_/http%3A//www.gliq.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gliq.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622090309id_/http%3A//www.gliq.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Global IntelliSystems
 
@@ -20,7 +20,7 @@ The information we collect is used to process and open accounts that we service.
 
 **HOW WE PROTECT INFORMATION**
 
-We restrict access to your information to our employees and service providers who need to have it in order to perform the daily operations and maintenance of your account. We have in place electronic and procedural safeguarts to ensure the privacy of your information, especially to ensure your mailing lists or any other data you may have stored on this service are tightly controlled and never released to the public. 
+We restrict access to your information to our employees and service providers who need to have it in order to perform the daily operations and maintenance of your account. We have in place electronic and procedural safeguards to ensure the privacy of your information, especially to ensure your mailing lists or any other data you may have stored on this service are tightly controlled and never released to the public. 
 
 **IF YOU HAVE QUESTIONS**
 
