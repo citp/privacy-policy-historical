@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623074911id_/http%3A//my3cents.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075019id_/http%3A//my3cents.com/privacy.cgi) for the most accurate reproduction.*
 
-# My3cents.com - Let your voice be heard!
+# My3cents.com - Let your voice be heard! Consumer Reviews, Complaints and more...
 
 The policy explains how we will gather and use the information at this Web site: http://www.my3cents.com
 
