@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthychoice.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021153925id_/http%3A//healthychoice.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthychoice.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402175500id_/http%3A//healthychoice.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
