@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193627id_/http%3A//democrats.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2003-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031226074134id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
 
 # DNC: Privacy Policy
-
-: 
-
-| 
 
 **At the Democratic National Committee (DNC), we are committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide.**
 
@@ -29,7 +25,7 @@ This privacy policy may be amended by the DNC at any time without notice other t
 
 Our website has security measures in place to protect against the loss, misuse or alteration of the information under our control. Our servers are located in a locked, secure environment.
 
-When you contribute online, the DNC uses state-of-the-art security protocols to protect sensitive data, such as personal information and credit card numbers. The integrity of this data is protected with an HMAC keyed hash. The privacy of this data is ensured with a keyed symmetric encryption algorithm. While this data is being transferred, it is protected by the Secure Sockets Layer (SSL) using a 128-bit signed certificate. Encryption keys are secured by Verisign. For more information on SSL and web security, see [http://www.verisign.com](http://www.verisign.com/).
+When you contribute online, the DNC uses state-of-the-art security protocols to protect sensitive data, such as personal information and credit card numbers. The privacy of this data is ensured with a keyed symmetric encryption algorithm. While this data is being transferred, it is protected by the Secure Sockets Layer (SSL) using a 128-bit signed certificate. Encryption keys are secured by Verisign. For more information on SSL and web security, see [http://www.verisign.com](http://www.verisign.com/).
 
 ### How do we use the information you provide the DNC? 
 
@@ -72,6 +68,8 @@ Because we care about the safety and privacy of children online, we comply with 
 ### Correcting Your Information:
 
 In order to modify the information you have provided to us, you need to register on the website and be issued a password. With your password to verify your identity, you may access your account securely and add or change your personal information. The DNC encourages all website users to register and take personal responsibility for the quality of the information they provide. Website registration also allows users to take advantage of the full range of online services we offer.
+
+[Click here](https://web.archive.org/login/login.html?redirect=/privacy.html) to log in. If you do not have a password, or have forgotten it, we can email it to you.
 
 ### Contacting us about privacy:
 
