@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the kirkwood.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204220052id_/http%3A//www.kirkwood.com/privacypolicy.html) for the most accurate reproduction.*
+
+# Kirkwood Privacy Policy
+
+**Privacy Policy -** updated July 1, 2004 **  
+**  
+Kirkwood Mountain Resort, located at 1501 Kirkwood Meadows Drive. Kirkwood, CA 95646, collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. Kirkwood will not sell, rent, give away, or share your private email address or other personal information to/with any third party. The information we collect is used for marketing purposes and to send "opt-in" NeighborWood email updates and Powder Alerts which are sent to subscribers only. If you receive any such correspondence in error or you no longer wish to receive Kirkwood updates, please opt out at the bottom of any email, or via the NeighborWood link on the Kirkwood homepage, [www.kirkwood.com](http://www.kirkwood.com/). If you wish to update your information, you can do so by sending an email to [info@kirkwood.com](mailto:info@kirkwood.,com) Updates to this Policy will be posted to this page of our web site at [www.kirkwood.com](http://www.kirkwood.com/privacypolicy.html).
