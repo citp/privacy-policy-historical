@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204162430id_/http%3A//www.tes.co.uk/site_information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307090845id_/http%3A//www.tes.co.uk/site_information/privacy_policy) for the most accurate reproduction.*
 
 # UK Secondary Education & Further Education - TES - The Times Educational Supplement 2
 
