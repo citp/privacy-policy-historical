@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueswitch.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207101028id_/http%3A//trueswitch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueswitch.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404070813id_/http%3A//www.trueswitch.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to TrueSwitch. Support Center
 
