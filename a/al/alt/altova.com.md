@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the altova.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610112424id_/http%3A//www2.altova.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altova.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208232602id_/http%3A//www.altova.com/privacy.html) for the most accurate reproduction.*
 
-# privacy: ALTOVA’S PRIVACY POLICY
-
-| | 
+# Altova : ALTOVA’S PRIVACY POLICY
 
   
 
+
+A. INTRODUCTION
 
 Welcome to Altova.   
 
@@ -16,11 +16,15 @@ Altova is committed to protecting your privacy in connection with Personal Infor
 If you do not consent to the Privacy Policy and the practices outlined below, do not use the Site(s), access our services, download materials or use Altova software. Subject to applicable law, Altova revises the Privacy Policy from time to time and we encourage you to visit this page to review our current Privacy Policy because it is binding on you. All updates will be published and we will revise the “last updated” date at the bottom of the Privacy Policy. A notice will be posted on our Site whenever this Privacy Policy is changed in a material way. Subject to applicable law, your continued use of the Site(s) and/or your use of Altova software constitute your consent to the Privacy Policy as revised from time to time. We encourage you to read the complete Privacy Policy and to contact us via email or post as set forth below with any questions or comments that you have.   
 
 
+B. HOW WE COLLECT YOUR PERSONAL INFORMATION
+
 In some instances you are able to browse through our Site(s) without telling us who you are or revealing information that would permit use to personally or directly identify you (“Personal Information”). Altova may collect information in a number of ways. The most common are when you are asked to register before downloading Altova software; when you request an evaluation key-code directly from within Altova software; when you request an evaluation extension; when you subscribe to e-mail newsletters; when you join a limited access part of the Site(s); when you participate in a contest, survey, or promotion; when you report a problem with our Site(s), our services or our software products; or when you purchase, activate and register Altova software products and services as applicable. Altova may also receive Personal Information about you from other business channels such as telephone calls, trade shows, conferences, product demonstrations, service engagements, or from our partners.   
 
 
 Altova typically collects Personal Information such as e-mail address, name, company, organization or location but may include other information when needed to provide a product or service or as part of the purchase, activation and registration thereof. For example our order forms in the Altova Online Shop collect customers’ contact information and financial information such as credit card number and other billing information, which is used to process, fulfill and deliver your order. All of the data you enter into the order form is transmitted to the Altova Online Shop over an encrypted channel to guard your data against abuse using 128-bit SSL (Secure Sockets Layer) encryption. In order to prevent unlicensed or illegal use of Altova software, the software contains a software activation system that allows for an exchange of license related data such as operating system, IP address, date/time, software version, and computer name, along with other information between your computer and an Altova license server at the time of installation, registration or update. Altova collects the information submitted via the Altova Online Support Center and technical incident support form to better serve our customers. In addition, Altova collects information about its Site(s) visitors which does not necessarily identify the visitor using our server log files, cookies and web beacons as described below.   
 
+
+C. HOW WE USE YOUR PERSONAL INFORMATION
 
 Altova generally uses your Personal Information for purposes such as to help us create and deliver content, products, and services relevant to you; to help us personalize or enhance your experience on our Site(s); to help you find or purchase software, services or information on our Site(s); to provide you with assistance or respond to your inquires; to fulfill orders, process payments or perform credit check, as necessary; for interactive communications with you about our products or services; to relieve you from having to provide your Personal Information more than once; in order to prevent unlicensed or illegal use of Altova software; to notify you by email, telephone or other medium about product upgrades, updated information, special offers and other new services or software offerings (you will be able to unsubscribe from emails by following the instructions at the bottom of our message); to help us manage and administer our Site(s) or as otherwise described herein.   
 
@@ -34,6 +38,8 @@ In limited instances, Altova may hire other companies to provide limited service
 Altova does use other information that we collected from our server log files, cookies and web beacons to get a better understanding of our visitors and customer base in order for us to enhance our Site(s), software and services. This information collected is compiled and analyzed on an aggregate basis and does not identify you personally. **This information helps us to determine the content that provides value to our customers and visitors**.  
 
 
+D. HOW WE PROTECT AND STORE YOUR PERSONAL INFORMATION
+
 Altova has security measures in place to protect the loss, misuse and alteration of your Personal Information under our control. These include a firewall to prevent unauthorized access to our systems. Inside Altova, Personal Information and customer data is stored in password-controlled servers with limited and controlled access on a need-to-know basis. While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions to prevent such unfortunate occurrences. However, Altova accepts no liability for any unintentional disclosure. **Except under conditions explained in the Privacy Policy, your Personal Information is never shared outside Altova**.   
 
 
@@ -43,20 +49,25 @@ As Altova is a global company, we provide company information to our internation
 When you register with the Site(s), you may be provided a password that will allow you to access the Site(s). You are ultimately responsible for maintaining the confidentiality and security of your Personal Information and use of your password whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your password. **We recommend that you do not divulge your password to anyone. Please take care when using and storing it**.  
 
 
+E. HOW WE USE “COOKIES,” “WEB BEACONS” AND WEB LOGS
+
 In addition to the Personal Information that we collect when you register, we also may collect information passively using “cookies” or “Web beacons.” This helps to ensure we are publishing content customers need and want as well as enabling us to customize your experience on our Site(s). A cookie is a small text file containing a unique identification number that is transferred from a Web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the site. Cookies allow us to automatically remember your Web browser, which in turn helps us deliver products and Services more efficiently, prevent others from using your account, measure statistics such as audience size and traffic patterns, and display advertisements. When someone visits the Site(s), a cookie may be placed on the user’s machine (if the user accepts cookies) or is read if the user has visited the Site(s) previously. Web beacons, also known as clear GIF technology or action tags, are small images that we may place on Web pages and within Web-based e-mail newsletters that assist in delivering the cookie. This technology tells us how many visitors clicked on key elements (such as links or graphics) on a web page on the Site(s). **We do not share tracking information outside of Altova and do not allow other companies to place Web beacons on our Site(s)**. By modifying your browser preferences you can choose to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to not have your browser accept cookies from the Site, you still will be able to view the text on the screens. However you will not experience a personalized visit nor will you be able to subscribe to or use certain offerings on the site. Web logs automatically record anything a web server sees, which may include email addresses you enter into a form or pages viewed by a user at a particular IP address.   
 
+
+F. LINKS, DISCUSSION FORUM AND PUBLIC AREAS
 
 Our site may contain links to other sites, including ones that display our trademarks and name amongst other organizations. Altova assumes no responsibility for the content or the privacy policies and practices of such Web sites. Altova encourages you to read the privacy statements of these linked sites; their privacy practices may differ from ours. Please remember that any information you submit in a discussion forum, message board or other such area will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. **Please be careful and responsible when you are online**.  
 
 
+G. PROTECTION OF CHILDREN’S PERSONAL INFORMATION
+
 The Site(s) are not directed to children under the age of 13 and Altova assumes products purchased through credit card means are purchased by adults. Altova respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act (COPPA). Altova believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other Personal Information without parental permission.   
 
+
+H. CONTACT INFORMATION
 
 Altova welcomes your comments regarding our information handling practice and this Privacy Policy and you may contact us at the address indicated below. In addition, certain jurisdictions may permit you to contact Altova, at the address below, to request information on the processing of your Personal Information, corrections or to oppose processing of Personal Information if you have a legitimate reason to do so. Altova can be contacted by e-mail at [privacy@altova.com](mailto:privacy@altova.com) or via postal mail at Altova Ges. m. b. H., DVR 0692450, Rudolfsplatz 13a/9, A-1010 Wien, Austria / EU, Attention: Altova Privacy.   
 
 
 Last updated: 2004-05-17  
 
-
-|   
----|---|---
