@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ntsb.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217165158id_/http%3A//www.ntsb.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntsb.gov privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402170300id_/http%3A//www.ntsb.gov/privacy.htm) for the most accurate reproduction.*
 
 # NTSB - Privacy Statement
 
-_Privacy[](https://web.archive.org/web/20011217165158id_/http%3A//default.htm) Statement_
+_Privacy[](https://web.archive.org/web/20020402170300id_/http%3A//default.htm) Statement_
 
 * * *
 
@@ -25,4 +25,4 @@ _Privacy[](https://web.archive.org/web/20011217165158id_/http%3A//default.htm) S
 
  
 
-[NTSB Home](https://web.archive.org/web/20011217165158id_/http%3A//www.ntsb.gov/default.htm)
+[NTSB Home](https://web.archive.org/web/20020402170300id_/http%3A//www.ntsb.gov/default.htm)
