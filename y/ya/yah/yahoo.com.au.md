@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yahoo.com.au privacy policy that was archived on 2000-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000501234505id_/http%3A//au.yahoo.com/homeb/%3Fhttp%3A//au.yahoo.com/docs/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoo.com.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610112106id_/http%3A//au.docs.yahoo.com/info/privacy) for the most accurate reproduction.*
 
 # Yahoo!'s Privacy Policy
 
@@ -10,17 +10,29 @@ Yahoo! is TRUSTe-certified. This certification applies to all English-language s
 
 This policy will let you know: 
 
-1\. What personally identifiable information is collected from you;  
-2\. What cookies are and how they are used;   
-3\. How your information is used;   
-4\. Who is collecting your information;   
-5\. With whom your information may be shared;   
-6\. What choices are available to you regarding collection, use, and distribution of your information;  
-7\. How you can access, update or delete your information;  
-8\. How Yahoo! treats your personal financial and health-related information;  
-9\. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information;  
-10\. How Yahoo! protects children's privacy; and  
-11\. What else you should know about your online privacy.  
+  1. What personally identifiable information is collected from you;  
+
+  2. What cookies are and how they are used;   
+
+  3. How your information is used;   
+
+  4. Who is collecting your information;   
+
+  5. With whom your information may be shared;   
+
+  6. What choices are available to you regarding collection, use, and distribution of your information;  
+
+  7. How you can access, update or delete your information;  
+
+  8. How Yahoo! treats your personal financial and health-related information;  
+
+  9. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information;  
+
+  10. How Yahoo! protects children's privacy; and  
+
+  11. What else you should know about your online privacy.  
+
+
 
 
 * * *
