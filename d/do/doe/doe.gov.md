@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the doe.gov privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003042227id_/http%3A//www.doe.gov/engine/content.do%3FBT_CODE%3DF_P) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doe.gov privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015084438id_/http%3A//www.doe.gov/engine/content.do%3FBT_CODE%3DF_P) for the most accurate reproduction.*
 
 # > energy.gov : Privacy
 
-  
 | 
 
 ## SECURITY NOTICE
@@ -35,8 +34,6 @@ This information is NOT shared with anyone beyond the support staff to this home
 
 You may choose to provide us with personal information, as in an e-mail message containing your comments or questions. We use this information to improve our service to you or to respond to your request. There are times when your message is forwarded, as e-mail, to other Department of Energy employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
 
-   
 |  |     
    
-   
-
+ 
