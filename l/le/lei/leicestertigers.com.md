@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leicestertigers.com privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219142933id_/http%3A//www.leicestertigers.com/sub_autopage.ink%3Fpageno%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leicestertigers.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604042623id_/http%3A//www.leicestertigers.com/sub_autopage.ink%3Fpageno%3D100) for the most accurate reproduction.*
 
 # Leicester Tigers Official Site
 
