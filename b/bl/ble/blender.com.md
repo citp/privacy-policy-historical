@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blender.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209182053id_/http%3A//www.blender.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blender.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416192225id_/http%3A//blender.com/legal) for the most accurate reproduction.*
 
 # [BLENDER]
 
