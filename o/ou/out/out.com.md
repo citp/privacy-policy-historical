@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608145518id_/http%3A//www.out.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205113822id_/http%3A//www.out.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
