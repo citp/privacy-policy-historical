@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610143851id_/http%3A//www.jobscience.com/corporate/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2000-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001013122243id_/http%3A//jobscience.com/corporate/Privacy.cfm) for the most accurate reproduction.*
 
 # Jobscience | Privacy Policy
 
