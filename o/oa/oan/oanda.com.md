@@ -1,37 +1,37 @@
-> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206194000id_/http%3A//oanda.com/site/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603133602id_/http%3A//www.oanda.com/site/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Information
 
-| **Products**  
+| **Quick Links**  
 ---  
 **Currency Tools**  
-[FXConverter](https://web.archive.org/convert/classic)  
-[FXCheatSheet](https://web.archive.org/convert/cheatsheet)  
-[FXPense](https://web.archive.org/products/fxpense/)  
-[FXDaily](https://web.archive.org/convert/fxdaily)  
-[FXHistory](https://web.archive.org/convert/fxhistory)[](https://web.archive.org/products/fxwap/fxwap.shtml)  
-[FXCrossrate](https://web.archive.org/cgi-bin/crossrate/crossrate.shtml)  
-[FXMail](https://web.archive.org/products/fxmail/main.shtml)  
-**Currency Delivery**  
-[FXDelivery](https://www.oanda.com/fxdelivery/)  
-**Currency Localization**  
+[FXConverter](https://web.archive.org/convert/classic "Currency converter")  
+[FXBrowser](https://web.archive.org/products/fxcommerce/quickconvert.shtml "Quick currency converter for Web browser")   
+[FXHistory](https://web.archive.org/convert/fxhistory "Historical currency rates")  
+[FXDaily](https://web.archive.org/convert/fxdaily "One to Many Currency Exchange Rates")  
+[More...](https://web.archive.org/channels/products/products.shtml "Currency Tools and Services")  
+**Forex Investors**  
+[FXTrade: Currency Trading](http://fxtrade.oanda.com/ "Currency trading game")  
+[FXTrading Game](http://fxgame.oanda.com/ "Currency trading game")  
+[FXNews](https://web.archive.org/products/fxnews/html/fxnews.shtml "Forex market news and analysis")  
+[FXAnalysis](https://web.archive.org/products/fxp/playground.shtml "Technical analysis tools")  
+[More... ](https://web.archive.org/channels/investor/investors.shtml "Forex Investor Channel")  
+**Businesses**  
 [Customizable Tools  
-](https://web.archive.org/site/customize.shtml) [FXP](https://web.archive.org/channels/business/FXP.shtml)  
-[FXCommerce](https://web.archive.org/channels/business/FXCommerce.shtml)  
-[FXBrowser](https://web.archive.org/products/fxcommerce/quickconvert.shtml)  
-**Currency for Investors**  
-[OANDA Currency Exchange](https://web.archive.org/products/fxchange/fxchange.shtml)  
-[FXAnalysis](https://web.archive.org/products/fxp/playground.shtml)  
-[FXTrends](https://web.archive.org/channels/investor/fxtrends.shtml)  
-[FXMap](https://web.archive.org/products/fxmap/fxmap.shtml)  
-[FXGraph](https://web.archive.org/products/fxgraph/fxgraph.shtml)  
-[FXStocks](https://web.archive.org/products/sip/sip.shtml)  
-**Currency Community**  
-[FXNews](https://web.archive.org/products/fxnews/html/fxnews.shtml)  
-[FXMessage](https://web.archive.org/products/msgboard/msgboard.htm)  
+](https://web.archive.org/site/customize.shtml "Currency information for your site") [Currency Rates ](https://web.archive.org/channels/business/FXP.shtml "Foreign Exchange Protocol")  
+[FXCommerce](https://web.archive.org/channels/business/FXCommerce.shtml "Currency rates for online stores")   
+[More... ](https://web.archive.org/channels/business/business.shtml "Business Channel")  
+**Travelers**  
+[FXDelivery  
+](https://www.oanda.com/fxdelivery/ "Order currencies online") [FXCheatSheet](https://web.archive.org/convert/cheatsheet "Travelers currency cheatsheet")  
+[FXPense](https://web.archive.org/products/fxpense/ "Travel expense manager")  
+[More... ](https://web.archive.org/channels/traveler/travelers.shtml "Travelers Channel")  
+**Community**  
+[FXMessage](https://web.archive.org/products/msgboard/msgboard.htm "Message board on currency exchange and world currencies")  
+[FXGallery](https://web.archive.org/products/fxgallery/ "View and upload World Currencies")  
 **PDA & Wireless**  
-[FXPilot](https://web.archive.org/products/fxpilot/fxpilotintro.shtml)  
-[FXWAP](https://web.archive.org/products/fxwap/fxwap.shtml)  
+[FXPilot](https://web.archive.org/products/fxpilot/fxpilotintro.shtml "Currency converter for Palm Pilot")  
+[FXWAP](https://web.archive.org/products/fxwap/fxwap.shtml "Currency conversion services for mobile phones")  
   
 [](https://web.archive.org/products/fxchange/fxchange.shtml)  
   
@@ -45,39 +45,4 @@
 
 **Banner Advertisements** : OANDA Web site uses a reputable third party to serve the advertisements that you see on the pages of the Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.sonar.com/content/privacy.htm).
 
-|  |  |   
----|---  
-What's on this week  
-**Holiday Travel?** Visit our [Travelers channel](https://web.archive.org/channels/traveler/travelers.shtml) to get the essentials.  
-  
-* * *
-
- [FXPense: Travel Expense Report Manager](http://www.oanda.com/products/fxpense): Create your international expense reports online, get the exchange rates of the day you made the purchase and save the results in MS® Excel! 
-
-* * *
-
-**FXDelivery** : Get your[ Foreign Currency and Travelers Cheques](https://www.oanda.com/fxdelivery/) delivered to your home for your next trip. 
-
-* * *
-
-**FXBrowser** : Add a [Quick Currency Converter to your browser](http://www.oanda.com/products/fxcommerce/quickconvert.shtml) and see prices in your home currency when you shop online! 
-
-* * *
-
-**FXCommerce** : Do you have an online store? [Show prices in each of your users' currency](http://www.oanda.com/channels/business/FXCommerce.shtml) with FXCommerce. 
-
-* * *
-
-**Historical Coins and Bills** Test your knowledge with [MoneyMuseum](http://www.moneymuseum.com/)'s [Currency Quiz](http://www.moneymuseum.com/standard_english/raeume/geld_bewegen/forum/quiz/quiz.html). 
-
-* * *
-
-[10 Secrets to Wealth](http://www.moneymuseum.com/standard_english/raeume/geld_bewegen/forum/geheimnisse/index.html): ideas and philosophies about money, the power of money and its significance to society and the individual. (by [MoneyMuseum](http://www.moneymuseum.com/))
-
-* * *
-
-**FXWap** : Get [currency exchange rates for your Wireless phone](http://www.oanda.com/products/fxwap/fxwap.shtml). 
-
-* * *
-
-Make OANDA.com [your browser's home page](https://web.archive.org/site/browser-homepage.shtml).
+| 
