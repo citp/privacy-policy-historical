@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604153529id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224040238id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
 
 # PE.com | Inland Southern California | Registration | Privacy
 
@@ -93,7 +93,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1\. Enter (or click) [http://signin.PE.com](http://signin.pe.com/) in your browser.
+1\. Enter (or click) <http://www.pe.com/sharedcontent/registration/membercenter.jsp> in your browser.
 
 2\. Sign in by entering your e-mail address and password. Your account information will then be displayed.
 
@@ -119,12 +119,12 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/465657766/Position1/default/empty.gif/7a2f48683431355465726341416b4369?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/460354212/Position1/default/empty.gif/7a2f486a615635546571494144454738?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/23925046/Position4/default/empty.gif/7a2f48683431355465726341416b4369?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/343069697/Position4/default/empty.gif/7a2f486a615635546571494144454738?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/1968736943/Position5/default/empty.gif/7a2f48683431355465726341416b4369?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.pe.com/home/561251300/Position5/default/empty.gif/7a2f486a615635546571494144454738?x)
 
-[](http://www.pe.com/classifieds/)
+##### adcenter
 
-Search local ads from the paper and much more!
+##### shop & subscribe
