@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motime.com privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214000008id_/http%3A//www.motime.com/node/view/139394) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motime.com privacy policy that was archived on 2004-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040528223727id_/http%3A//www.motime.com/node/view/139394) for the most accurate reproduction.*
 
-# :: motime.com :: publish your blog here ::
+# :: motime.com :: instant publishing and communication
 
 **What personal information does mo’time collect?**
 
@@ -12,7 +12,7 @@ At some future time, we may offer you the possibility to create a personal profi
 
 Every time you visit a page on the Internet, your web browser sends specific information to the web site you are visiting. mo’time's web server logs automatically collect and store this information from your browser, including your IP address, specific type and version of browse, mo’time-related cookies (see below), and the pages you visit at mo'time. 
 
-We use this information primarily to help diagnose and fix any technical problems that you may encounter. But we also use IP information to help us limit access to mo’time by users who have violated our [Terms of Use](https://web.archive.org/node/view/139395) (or to help users block access to their mo’time sites by other users). 
+We use this information primarily to help diagnose and fix any technical problems that you may encounter. But we also use IP information to help us limit access to mo’time by users who have violated our [Terms of Use](http://www.motime.com/node/view/139395) (or to help users block access to their mo’time sites by other users). 
 
 _Cookies_
 
@@ -46,7 +46,7 @@ To minimize the risk of other people accessing your private mo’time account, w
 
 motime.com has built a secure infrastructure to safeguard your private information. We will continue to do everything we can to maintain and improve the security of our network. After all, every mo’time employee is also an active mo’time member. We all understand the importance of maintaining a secure system for our private and personal information. 
 
-No data transmission over the Internet, however, can be guaranteed to be 100% secure. Although mo’time pledges to put forth its best efforts to protect your private information, mo’time cannot ensure or warrant the security of any information you transmit to or from our online products or services, and you do so at your own risk. For further information on this subject, please see our [Terms of Use](https://web.archive.org/node/view/139395) .
+No data transmission over the Internet, however, can be guaranteed to be 100% secure. Although mo’time pledges to put forth its best efforts to protect your private information, mo’time cannot ensure or warrant the security of any information you transmit to or from our online products or services, and you do so at your own risk. For further information on this subject, please see our [Terms of Use](http://www.motime.com/node/view/139395) .
 
 **Children's Privacy**
 
@@ -58,10 +58,10 @@ _Special Note to Parents_
 
 If you are the Parent or Legal Guardian of a child under 13 who has become a mo’time member and you would like his or her account deleted, please email us at: [info@motime.com](mailto:info@motime.com). As soon as we are able to verify your identity (and status as parent or legal guardian) we will immediately delete your child's account. You may also request to see a copy of any information that has been submitted by your child, prior to the account being deleted from our systems. 
 
-For more information about the kinds of personally identifiable information collected by mo’time, how it is collected, and how it is used by mo’time, please review this Privacy Policy as well as the mo’time [Terms of Use](https://web.archive.org/node/view/139395).
+For more information about the kinds of personally identifiable information collected by mo’time, how it is collected, and how it is used by mo’time, please review this Privacy Policy as well as the mo’time [Terms of Use](http://www.motime.com/node/view/139395).
 
 **Is there anything else I should know about privacy issues?**
 
 We will do everything in our power to maintain your privacy and online security. Strong privacy and security, however, requires effort from both motime.com and its members. Please be sure to follow the advice listed above for protecting your mo’time account. The best way to protect your privacy is to protect your password; change your password often, and keep it secret, even from motime.com employees. Remember that motime.com employees will never ask you for your password! 
 
-go back to top
+[go back to top](http://www.motime.com/#top)
