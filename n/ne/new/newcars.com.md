@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609232024id_/http%3A//newcars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008133122id_/http%3A//www.newcars.com/privacy.php) for the most accurate reproduction.*
 
 # NewCars.com Privacy Policy
 
-Last Updated: 02/10/2003
+Last Updated: 07/30/2003
 
 * * *
 
@@ -34,7 +34,7 @@ On our site, we make available requests for:
 
 As part of providing this feature, 4Insurance, eLoan and 1SourceWarranty will collect personally identifiable information from you. 4Insurance, eLoan and 1SourceWarranty use this information according to their own privacy and security policies, which can be further evaluated at [ 4Insurance](http://4insurance.com/privacy.asp), [eLoan](http://eloan.com/s/show/privacy), and [1SourceWarranty ](http://1sourcewarranty.com/ShowContent.asp?content=privacy).
 
-The NewCars.com car referral service uses a national network of high-quality dealers. They are dedicated to deliver competitive, haggle-free pricing, fast turnaround, and excellent service. Appr. 90% of quote requests will be collected by NewCars.com. In areas where NewCars.com does not have any dealer coverage, you will be redirected to our affiliate's site, Dealix (InvoiceDealers). In this case, Dealix (InvoiceDealers) will collect personally identifiable information from you and use this information according to their own privacy and security policies, which can be further evaluated at [ Dealix](http://invoicedealers.com/PrivacyPolicy.asp). 
+The NewCars.com car referral service uses a national network of high-quality dealers. They are dedicated to deliver competitive, haggle-free pricing, fast turnaround, and excellent service. Appr. 90% of quote requests will be collected by NewCars.com. In areas where NewCars.com does not have any dealer coverage, you will be redirected to our affiliates' sites, StoneAge, Car.com, Dealix (InvoiceDealers), JumpStart, AutoBuyingUSA, AutoByTel, or AutoNation. In this case, the previously listed affiliates will collect personally identifiable information from you and use this information according to their own privacy and security policies, which can be further evaluated at [StoneAge](http://www.stoneage.com/about/privacy.cfm), [Car.com](http://www.car.com/about/privacy.cfm), [Dealix](http://invoicedealers.com/PrivacyPolicy.asp), [JumpStart](http://www.jumpstartdm.com/), [AutoBuyingUSA](http://www.autobuyingusa.com/privacypolicy.html), [AutoByTel](http://autobytel.com/content/home/help/index.cfm?id=4;ABTL&action=privacy), and [AutoNation](http://autonation.com/Corporate/Default.asp?Page=Privacy). 
 
 The Way We Use Information
 
