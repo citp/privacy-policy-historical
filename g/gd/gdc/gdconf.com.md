@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605035911id_/http%3A//www.gdconf.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202092744id_/http%3A//www.gdconf.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Game Developers Conference 2002
+# Game Developers Conference 2003 - Privacy Policy
 
-[About Us](https://web.archive.org/aboutus/index.htm)>Privacy Policy
+[](https://web.archive.org/aboutus/contactus.htm)[](https://web.archive.org/aboutus/advisoryboard.htm)  
+[](https://web.archive.org/aboutus/requestinfo.htm)  
+  
+[](https://web.archive.org/aboutus/feedback.htm)  
+[](https://web.archive.org/aboutus/subscribe.htm)  
 
-**Privacy Policy   
-**
+
+| 
 
 The Gama Network, producers of the Game Developers Conference and this site, gdconf.com, believe in protecting your privacy in all aspects of our business. We hope you will take the time to read the following policy, which explains what information we collect from you at the sites we own and operate -- gamasutra.com, gdmag.com, gdconf.com and others -- and how we use that information. By using one of our sites, products or services you agree to be bound by this policy. This policy may change from time to time, so please check back periodically.
 
@@ -15,7 +19,7 @@ When you visit one of our web sites, we collect your computer's IP address. We a
 
 **How Your Information is Used**
 
-When you submit personal identifying information through any of our sites, that information is shared throughout the Gama Network -- currently Gamasutra.com, _Game Developer_ magazine, the Game Developers Conference, and The Independent Games Festival. We use the information you submit to improve and to market our products and services, but we allow you to unsubscribe from our mailings or to indicate the format (E-mail, fax, or snailmail) in which you prefer to receive such mailings. 
+When you submit personal identifying information through any of our sites, that information is shared throughout the Gama Network \-- currently Gamasutra.com, _Game Developer_ magazine, the Game Developers Conference, and The Independent Games Festival. We use the information you submit to improve and to market our products and services, but we allow you to unsubscribe from our mailings or to indicate the format (E-mail, fax, or snailmail) in which you prefer to receive such mailings. 
 
 **  
 When Your Information May Be Disclosed**
@@ -49,4 +53,4 @@ At the Gama Network, we understand that children's privacy is important. We do n
 
 **Questions? Here's How To Reach Us**
 
-This website is maintained by the Gama Network, a division of CMP Media, Inc., 600 Harrison Street, San Francisco, California 94107. You can reach us via E-mail at [feedback@gamasutra.com](mailto:feedback@gamasutra.com).
+This website is maintained by the Gama Network, a division of CMP Media, Inc., 600 Harrison Street, San Francisco, California 94107. You can reach us via E-mail at [adunne@cmp.com](mailto:adunne@cmp.com).
