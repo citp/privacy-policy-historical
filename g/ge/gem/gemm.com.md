@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204234914id_/http%3A//www.gemm.com/c/info.cgi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233657id_/http%3A//www.gemm.com/c/info.cgi/privacy) for the most accurate reproduction.*
 
 # Help, Info & FAQ
 
@@ -31,7 +31,7 @@ A "cookie" is a small piece of information that a website stores on your compute
 
 GEMM uses cookie information only for the above purposes. It does not share cookie information with other websites or businesses. In other words, the GEMM cookie can''t be used by any other company to build a larger scale profile of your browsing & buying habits. 
 
-Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. You can still search for music in GEMM with cookies turned off, but features such as the shopping cart and 
+Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. You can still search for music in GEMM with cookies turned off, but features such as the [Shopping Cart](https://www.gemm.com/cart.pl?&) and [My Account](https://www.gemm.com/c/ordertrack/o2_main_menu.pl?type=customer&) may not save your session data if cookies are disabled.
 
   
 **Your consent**
