@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the motorcycle-superstore.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603222648id_/http%3A//www.motorcycle-superstore.com/helpdesk.asp%3Fid%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcycle-superstore.com privacy policy that was archived on 2003-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031124042626id_/http%3A//www.motorcycle-superstore.com/storehelp.aspx%3FID%3D7) for the most accurate reproduction.*
 
-# Motorcycle USA Superstore - Motorcycle Helmet Motorcycle Apparel Motorcycle Accessories Motorcycle Parts Secure Shopping
+# Motorcycle-Superstore - Help & Information
 
+|   
+---  
    
 **Security Statement**  
    
