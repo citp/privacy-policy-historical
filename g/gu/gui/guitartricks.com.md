@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2000-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001030004319id_/http%3A//guitartricks.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605033504id_/http%3A//www.guitartricks.com/privacy.php) for the most accurate reproduction.*
 
-# Guitar Tricks Privacy Policy
+# Guitar Tab at Guitar Tricks
 
 Guitar Tricks has created this privacy statement in order to demonstrate our community's firm commitment to the privacy of our visitors. (Visitors are also referred to as "users" interchangeably in this policy.) The following discloses our information gathering and dissemination practices for guitartricks.com (referred to as "our site" in this policy). 
 
