@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ci.org privacy policy that was archived on 2002-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020811060234id_/http%3A//www.compassion.com/PRIVACY.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ci.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621143635id_/http%3A//www.compassion.com/PRIVACY.asp) for the most accurate reproduction.*
 
 # Compassion International: Privacy / Copyright
 
@@ -45,4 +45,4 @@ Yes, cookies can be removed from your hard drive. Also, depending on what type o
 [](http://www.ecfa.org/)
 
 **Contact Us  
-**If you have comments or questions about our privacy policy, please [contact us](https://web.archive.org/web/20020811060234id_/http%3A//www.compassion.com/ContactUs/Index.asp). 
+**If you have comments or questions about our privacy policy, please [contact us](https://web.archive.org/web/20030621143635id_/http%3A//www.compassion.com/ContactUs/Index.asp). 
