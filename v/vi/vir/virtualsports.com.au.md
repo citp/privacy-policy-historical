@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406183213id_/http%3A//www.virtualsports.com.au/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216023933id_/http%3A//virtualsports.com.au/corporate/privacy.html) for the most accurate reproduction.*
 
 # VirtualSPORTS - The Aussie Rules Fantasy Footy Challenge!
 
