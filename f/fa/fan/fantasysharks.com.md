@@ -1,31 +1,8 @@
-> *The following text is extracted and transformed from the fantasysharks.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207193708id_/http%3A//www.fantasysharks.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasysharks.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203051500id_/http%3A//www.fantasysharks.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# FantasySharks.com Privacy Policy
+# Fantasy Football Sharks - FantasySharks.com Privacy Policy
 
-|   
----  
-[Message Boards](https://web.archive.org/forum/)  
-[What's This?](https://web.archive.org/Signin.htm)  
-[Team Links](https://web.archive.org/teamlinks.htm)  
-[Depth Charts](https://web.archive.org/apps/depthcharts.php)  
-[Injury Report](http://www.nfl.com/injuries)  
-[Schedule Grid](https://web.archive.org/NFLCompiledData/SchedTeamGrid.htm)  
-[Weekly Schedules](https://web.archive.org/NFLCompiledData/SchedWeek.htm)  
-[Team Schedules](https://web.archive.org/NFLCompiledData/SchedTeams.htm)  
-[CBS Sportsline](http://cbs.sportsline.com/u/football/nfl/index.html)  
-[CNN/SI](http://sportsillustrated.cnn.com/football/)  
-[ESPN](http://football.espn.go.com/nfl/index)  
-[KFFL](http://nfl.kffl.com/news/hotwire/)  
-[NFL](http://www.nfl.com/)  
-[Pro Football Weekly](http://profootballweekly.com/)  
-[Sporting News](http://www.sportingnews.com/nfl/)  
-[USA Today](http://www.usatoday.com/sports/football/front.htm)  
-  
-* * *  
-  
-[Fantasy Links](https://web.archive.org/fantasylinks.htm)  
-[Email](mailto:contact@fantasysharks.com)  
-|  **FantasySharks.com Privacy Policy**  
+| |  **FantasySharks.com Privacy Policy**  
 **Last revised: July 27, 2002**
 
 * * *
@@ -81,4 +58,4 @@ FantasySharks.com, Inc. uses reasonable security methods to protect the data tha
 
 Questions regarding this policy should be directed to at [privacy@FantasySharks.com](mailto:privacy@fantasysharks.com). FantasySharks.com reserves the right to modify this policy effective seven (7) days after the posting of the revised policy.
 
-| |   
+| | 
