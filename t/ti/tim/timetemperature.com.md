@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205011826id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618061016id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,6 +32,6 @@ To try and bring you offers that are of interest to you, we have relationships w
    2.Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes.   
    3.Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 
-**Comments or Questions** If you have any comments or questions about the information presented here please forward them to [webmaster@timetemperature.com](mailto:webmaster@timetemperature.com)
+**Comments or Questions** If you have any comments or questions about the information presented here please [contact](https://web.archive.org/web/20030618061016id_/http%3A//www.timetemperature.com/contact.html) us.
 
-[Return to Home Page](https://web.archive.org/web/20021205011826id_/http%3A//www.timetemperature.com/index.html)
+[Return to Home Page](https://web.archive.org/web/20030618061016id_/http%3A//www.timetemperature.com/index.html)
