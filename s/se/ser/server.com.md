@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the server.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606052029id_/http%3A//server.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the server.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132333id_/http%3A//server.com/about/privacy.html) for the most accurate reproduction.*
 
 # Server.com Privacy Policy
 
@@ -20,18 +20,18 @@ Server.com honors the confidentiality of its customers' private information plac
 
 We have three exceptions to this policy. We will release specific information about your account to law enforcement authorities if compelled to by legal process. We will provide identification information in response to a request for identification in connection with a claim of Copyright or Trademark infringement by a Customer. We may from time to time share aggregate registration information (such as total number of users who are free trial, active, trial over, etc.) with our partners (whom are under confidentiality obligations). However, since we make no commitments on behalf of our partners, we do encourage you to acquaint yourself with their individual privacy policies as well.
 
-3\. We use secure technology, privacy protection controls, and restrictions on employee access in order to safeguard your personal information.
+**3\. We use secure technology, privacy protection controls, and restrictions on employee access in order to safeguard your personal information.**
 
 We use industry-standard technology to keep your personal informationing your billing and account informationsecure as possible. We also have put in place privacy protection control systems designed to ensure that your personal data remain safe and private.
 
-Every Server Corporation employee servicing Server.com is obligated to abide by the Server.com privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination.
+Every Server Corporation employee is obligated to abide by the Server.com privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination.
 
 Only authorized Server Corporation employees servicing Server.com, and employees of our Service Provider, are permitted to have access to your personal information and such access is limited by need.
 
 We encourage our partners to clearly post their own privacy policies. Be sure to review their privacy policies and contact them directly if you have any questions.
 
-4\. We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements for this Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.adtegrity.com/privacy.asp).
+We use third-party advertising companies to serve ads when you visit our website. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements for this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.adtegrity.com/privacy.asp).
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-If you'd like to comment on or have questions about our privacy policy, have a concern or policy violation you wish to report, or wish to change or delete the customer information you submitted to Server.com, please contact Customer Support at support@Server.com or by calling (617) 249-0756.
+If you'd like to comment on or have questions about our privacy policy, have a concern or policy violation you wish to report, or wish to change or delete the customer information you submitted to Server.com, please contact Customer Support at support@server.com or by calling (617) 249-0756.
