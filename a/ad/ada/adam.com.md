@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209155620id_/http%3A//www.adam.com/b2b/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401202853id_/http%3A//www.adam.com/b2b/privacy.htm) for the most accurate reproduction.*
 
 # A.D.A.M. - disclaimer
 
@@ -9,4 +9,4 @@ Business customers: A.D.A.M., Inc. will not without your permission, provide you
 A.D.A.M., Inc. will notify you of changes to these privacy statement or privacy practices. If we make material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on your web site notifying users of the change. If we are going to use your personally identifiable information in a manner materially different from that stated at the time of collection we will notify you via email, and you will have a choice as to whether or not we use your information in this different manner. However, if you have deleted/deactivated your account, then you will not be contacted, nor will your personal information be used in this new manner.  
 
 
-[see our disclaimer](https://web.archive.org/web/20021209155620id_/http%3A//www.adam.com/b2b/disclaimer.htm)
+[see our disclaimer](https://web.archive.org/web/20030401202853id_/http%3A//www.adam.com/b2b/disclaimer.htm)
