@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207231427id_/http%3A//www.animewallpapers.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605103144id_/http%3A//animewallpapers.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy (Anime Wallpapers.com)
 
-|  |  [ ](http://anime100.com/cgi-bin/rank/rankem.cgi?id=pmak0)  
+|  |  [ ](http://www.clickxchange.com/fr.phtml?act=167136.130)  
 ---|---|---  
   
+[ ](http://store.yahoo.com/cgi-bin/clink?animecorner+jfgmts+index.html)
+
 Privacy Policy  
 ---  
   
