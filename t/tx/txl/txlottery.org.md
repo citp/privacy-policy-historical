@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603223725id_/http%3A//www.txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206055749id_/http%3A//txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Lottery Commission Information
+# TxLottery: Privacy Policy
 
-| [](https://web.archive.org/index.cfm)  
+| [](https://web.archive.org/)  
 ---  
 |  |   
 | [Results & More](https://web.archive.org/online/online.cfm) |   
@@ -16,15 +16,10 @@ Offs](https://web.archive.org/scratchoffs/scratchoffs.cfm) |
    
 | [License & Retailer Forms](https://web.archive.org/applications/appforms.cfm) |   
    
-|  | [](https://web.archive.org/online/lotto.cfm) |  | [](https://web.archive.org/online/txtwostep.cfm)  
----|---|---  
-**$33 Million**   
-ESTIMATED JACKPOT  
-for **06/04/03** |  **$ 900,000**   
-ESTIMATED JACKPOT  
-for **06/03/03**  
- |   
- **Texas Lottery Commission Privacy Policy**
+|    
+---  
+  
+**Texas Lottery Commission Privacy Policy**
 
 Thank you for visiting our site. Our privacy policy is set forth below. This policy is subject to change at our discretion. So you will know to review any revised policy we may periodically issue, we will generally post a notice for a reasonable period of time alerting you to the issuance of a revised policy on the home page of this site. Please always reread our privacy policy if you see such a notice. 
 
@@ -48,7 +43,7 @@ Generally, we use the information we collect to provide you with a personalized 
 
 ##### **Unless Required by Law, No Sharing of the Information We Collect With Third Parties**
 
-Except to process transactions you request as explained above, and except as required by law as is explained further below, we will not share any personally identifiable information we gather about you with anyone else. The information that we collect will be retained and maintained as required by Texas records retention laws (Government Code, Section 441.180 et. seq.) and rules. Different types of information are required to be kept for different periods of time. The Texas Public Information Act, Texas Government Code, Chapter 552, provides public access to certain government records. The Texas Lottery Commission is subject to the Texas Public Information Act. More information regarding open government laws, can be found at: <http://www.oag.state.tx.us/opinopen/opengovt.htm>
+Except to process transactions you request as explained above, and except as required by law as is explained further below, we will not share any personally identifiable information we gather about you with anyone else. The information that we collect will be retained and maintained as required by Texas records retention laws (Government Code, Section 441.180 et. seq.) and rules. Different types of information are required to be kept for different periods of time. The Texas Public Information Act, Texas Government Code, Chapter 552, provides public access to certain government records. The Texas Lottery Commission is subject to the Texas Public Information Act. More information regarding open government laws, can be found at: <http://www.oag.state.tx.us/opinopen/opengovt.shtml>
 
 ##### **Disclosures Required Under Applicable Laws**
 
