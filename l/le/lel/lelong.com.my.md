@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lelong.com.my privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604134023id_/http%3A//auc.buysell.com.my/Auc/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lelong.com.my privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219192032id_/http%3A//auc.buysell.com.my/Auc/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
 
 # Malaysia Auction & Online Shopping
 
