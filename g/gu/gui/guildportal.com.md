@@ -1,26 +1,16 @@
-> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407095159id_/http%3A//www.guildportal.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/privacy.aspx) for the most accurate reproduction.*
 
 # GuildPortal Guild Hosting
 
-  |  | 
+[Testimonials](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/Testimonials.aspx)  
+[Features](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/Features.aspx)  
+[Support/Knowledgebase](https://web.archive.org/Support)  
+[Privacy Policy](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/Privacy.aspx)  
+[Terms of Use](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/Terms.aspx)  
 
-**[Testimonials](https://web.archive.org/web/20030407095159id_/http%3A//www.guildportal.com/testimonials.asp)** (new!)  
-**[Features](https://web.archive.org/web/20030407095159id_/http%3A//www.guildportal.com/guildportalFeatures.asp)** (new!)  
-[Frequently Asked Questions](https://web.archive.org/web/20030407095159id_/http%3A//www.guildportal.com/FAQ.asp)  
-[Privacy Policy](https://web.archive.org/web/20030407095159id_/http%3A//www.guildportal.com/privacy.asp)  
-[Terms of Use](https://web.archive.org/web/20030407095159id_/http%3A//www.guildportal.com/terms.asp)  
-[Web Services](https://web.archive.org/web/20030407095159id_/http%3A//www.guildportal.com/webservices.asp)
 
-[Admin Community](https://web.archive.org/web/20030407095159id_/http%3A//www.guildportal.com/guild.asp?GuildID=3780)  
-[Support/Knowledgebase](http://www.guildportal.com/Support)
-
-You are not currently logged in and so cannot see a listing of guilds that you are a member of. 
-
-Trofastur just logged in. 
-
-  * 4900 Guilds
-  * 62939 Members
-  * 553 Days Online
+9624 Guilds  
+124687 Members
 
 | 
 
@@ -68,14 +58,6 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 303 680 5428 support@guildportal.com www.guildportal.com 
 
-| 
-
-There are [191 registered members](https://web.archive.org/web/20030407095159id_/http%3A//www.guildportal.com/onList.asp) and 268 guests online. 
-
-[Norrathian Alliance](https://web.archive.org/guild.asp?GuildID=922)  
-[Knights of Consuming Fury](https://web.archive.org/guild.asp?GuildID=1694)  
-[Divine Retribution](https://web.archive.org/guild.asp?GuildID=3186)  
-[GuildPortal Admin Community](https://web.archive.org/guild.asp?GuildID=3780)  
-[Knighthood of the Red Dragon](https://web.archive.org/guild.asp?GuildID=1851)  
+|   
   
 ---|---|---
