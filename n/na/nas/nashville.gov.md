@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashville.gov privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628000057id_/http%3A//www.nashville.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashville.gov privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212091624id_/http%3A//www.nashville.gov/privacy.htm) for the most accurate reproduction.*
 
 # Metropolitan Government of Nashville and Davidson County
 
@@ -11,11 +11,53 @@
 
 **What information is collected from you and why**
 
-If all you do during your visit to nashville.gov is browse through our website, download information or read pages, we will gather and store certain information about your visit automatically. This information will not identify you personally. The only information we automatically collect and store is the following information about your visit: the Internet domain (for example, "isp.com" if you use a private Internet service provider) and the IP address (the number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website; the type of browser and operating system you used to access our site; the date and time you accessed our site; the pages you visited; if you linked to our website from another website and the address of that website. We use this information to help us make our site more useful to visitors; learning about the number of visitors to our site and the types of technology our visitors use helps us improve the website and the services we offer. No other information about you is gathered or stored.
+If all you do during your visit to nashville.gov is browse through our website, download information or read pages, we will gather and store certain information about your visit automatically. This information will not identify you personally. 
+
+We 
+
+_do not_ use this data for marketing or commercial purposes, nor do we distribue, in any way, any of the information we gather.
+
+The only information we automatically collect and store is the following information about your visit: 
+
+1\. Your 
+
+_Fully Qualified Domain Name_ (Domain Name), of your Internet Service Provider (ISP) and/or your computer, if your computer has a domain name specifically assigned to it.
+
+2\. Your
+
+_IP Address_ (the number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website
+
+3\. Your 
+
+_Browser Type_ (for example: Internet Explorer, Netscape Navigator, Opera, etc.)
+
+4\. Your 
+
+_Operating System_ you use to access our site (Windows XP, 2000, Macintosh OS, Linux, etc.)
+
+5\. The 
+
+_Date and Time_ you accessed our site
+
+6\. The Pages you visited
+
+7\. The 
+
+_Uniform Resource Locater_ (URL) of the page you started from (for example: google.com), that linked you to our website, if you did not access our page by typing in [http://www.nashville.gov](http://www.nashville.gov/)
+
+We use this information to help us make our site more useful to visitors. Learning about the number of visitors to our site and the types of technologies they use, helps us improve the website and the services we offer. In order to accomplish these goals, we are constantly conducting statistical analyses of the data we collect and are aggressively improving our hardware and software to meet your needs.
 
 **How voluntarily provided information is used**
 
-If you voluntarily send us information, i.e. you fill out a form requesting information, it will be used for governmental purposes only. These purposes could include, without limitation, helping us respond to your request for information; to look into a problem you are bringing to our attention; or to keep lists of interested people (e.g. prospective vendors or employees). We will not rent or sell information identifying you as a particular person (name, address, phone number, etc.) to third parties, without your express permission. We will also not disclose credit card information, except for purposes related to your credit card transaction, or with your permission, or as required by law under the State of Tennessee's Open Records Act.
+If you voluntarily send us information, i.e. you fill out a form requesting information, it will be used for governmental purposes only. These purposes could include, without limitation:
+
+1\. Helping us respond to your request for information
+
+2\. To look into a problem you are bringing to our attention
+
+3\. To keep lists of interested people (e.g. prospective vendors or employees)
+
+We will not rent or sell information identifying you as a particular person (name, address, phone number, etc.) to third parties, without your express permission. We will also not disclose credit card information, except for purposes related to your credit card transaction, or with your permission, or as required by law under the State of Tennessee's Open Records Act.
 
 **Our policy on "cookies"**
 
@@ -36,7 +78,6 @@ Some content on portions of this website resides on servers run by non-nashville
 
   * Airport Authority
   * Arts Commission
-  * Convention Center
   * Credit Union
   * Cumberland Science Museum
   * Fire Department
@@ -46,6 +87,7 @@ Some content on portions of this website resides on servers run by non-nashville
   * Metropolitan Transit Authority
   * Nashville Arena (Gaylord Entertainment Center)
   * Nashville Career Advancement Center
+  * Nashville Convention Center
   * Nashville Electric Service
   * Parks and Recreation
   * Police
@@ -56,10 +98,15 @@ Some content on portions of this website resides on servers run by non-nashville
 
 **Use of nashville.gov by Children**
 
-nashville.gov would like to ask parents to assist their children when children are asked to provide personal information on line. We will also ask that children get their parents' permission before providing any information on line.
+We do not specifically solicit information from minors or information that will enable us to determine if the user is a minor. Since we do not restrict users based on their ages, we would like to ask parents to assist their children when children are asked to provide personal information on line. We will also ask that children get their parents' permission before providing any information on line. Any information submitted by a minor, will be treated as information submitted by an adult, since we are not able to determine the user's actual age.
 
-**nashville.gov reserves the right to change this policy without notice**  
+**Intellectual Property**
 
+The content of nashville.gov's webpages is copyrighted and contains some third party graphics/images that are used with the copyright holder's concent. If you wish to use any of this content, you must obtain permission from the copyright holder before reproducing or otherwise using those graphics/images **.
+
+nashville.gov reserves the right to change this policy without notice
+
+**
 
 |   
 ---|---|---
