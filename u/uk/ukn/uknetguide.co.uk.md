@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211140218id_/http%3A//uknetguide.co.uk/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603150542id_/http%3A//www.uknetguide.co.uk/Privacy.asp) for the most accurate reproduction.*
 
-# UK Net Guide - specialised Internet directory, offering a wide selection of the best UK sites covering 15 main channels, including: homes, shopping, motoring, finance, jobs, sports, travel, entertainment, lifestyle, news, business, education, government, health and computers.
+# UK Net Guide
 
 **INTRODUCTION**  
 UK Net Guide ([www.uknetguide.co.uk](http://www.uknetguide.co.uk/)) is owned and operated by Crystal Guides, a limited company registered in England. 
