@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the thecatsite.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610201609id_/http%3A//www.thecatsite.com/cat_contact/contact.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecatsite.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206224429id_/http%3A//www.thecatsite.com/content/view/119/34) for the most accurate reproduction.*
 
-# TheCatSite.com - privacy
+# TheCatSite.com - Privacy Statement
 
+|   
+  
 At The Cat Site (TCS) we care about your privacy concerns. Please read the following statement to learn about our privacy policy.
 
 ## Links
@@ -23,7 +25,7 @@ Our site uses a feedback form for visitors to send us their impressions, ideas a
 
 ## Newsletter
 
-Our site also allows you to sign up for a free newsletter. Your e-mail address is not shared with or sold to any third parties. Only this site's administrator has access to the e-mail addresses. You can unsubscribe from the newsletter [follow this link](http://thecatsite.com/cgi-bin/mojo/mojo.cgi?f=u&l=tcs&e=). 
+Our site also allows you to sign up for a free newsletter. Your e-mail address is not shared with or sold to any third parties. Only this site's administrator has access to the e-mail addresses. You can unsubscribe from the newsletter [follow this link](http://www.kittybytes.com/). 
 
 ## Polls
 
@@ -41,5 +43,3 @@ Except under the following circumstances, TCS will not share your personally ide
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact  
 [Webmaster@TheCatsite.com](mailto:Webmaster@TheCatsite.com)
-
-This statement was generated with help from [PageResource.com](http://www.pageresource.com/).
