@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607052224id_/http%3A//www.lowes.com/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy%26rn%3DRightNavFiles/rightNavGoShopping) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208011557id_/http%3A//www.lowes.com/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy%26rn%3DRightNavFiles/rightNavGoShopping) for the most accurate reproduction.*
 
 # Privacy Policy Statement
+
+| 
+
+| [](https://web.archive.org/lkn?action=topicSelect&topic=featuredBrands) |  | [](https://web.archive.org/lkn?action=topicSelect&topic=buyGuide) | [](https://web.archive.org/lkn?action=frameSet&url=stores.lowes.com/lowes) | [](https://web.archive.org/lkn?action=topicSelect&topic=creditCenter) | [](https://web.archive.org/lkn?action=topicSelect&topic=weInstall) | [](http://ads.lowes.com/Tiles.aspx)  
+---|---|---|---|---|---|---  
+   **Welcome!** | 
+
+[](https://web.archive.org/lkn?action=weatherDotCom&rn=none)  
+  
+---|---  
+** **
 
 **Privacy and Security Statement**
 
@@ -226,3 +237,5 @@ Security Questions or Comments
 We are committed to providing a secure, friendly site where customers can shop without undue concern over security. When we receive your information, we use commercially reasonable efforts, including the measures described above, to protect the security of your information on our systems. However, no data transmission over the Internet or any wireless network can be guaranteed to be absolutely secure. Therefore, we do not warrant or ensure the security of any information sent to us online. If you have any questions, comments or concerns, please contact us via e-mail at _manager_[ @lowes.com](mailto:manager@lowes.com) or toll free at 1-800-44-LOWES (5-6937). 
 
 Effective 6/11/02
+
+| 
