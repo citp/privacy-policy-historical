@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the galatta.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604055247id_/http%3A//www.galatta.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the galatta.com privacy policy that was archived on 2001-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011205054310id_/http%3A//galatta.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Statements</title>
@@ -7,124 +7,175 @@
 </head>
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<div align="center">
-<center>
-    </center></div><table width="635">
+<table width="635">
 
-<script lanuage="javascript">
-function signin()
+
+</table><table width="600" border="0" align="center" cellspacing="0" cellpadding="0">
+  <tbody><tr align="center"> 
+    <td width="187" valign="top"><font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF">
+      <script src="http://www.galatta.com/entertainment/banneradmin/show.asp?type=topleft">
+</script>
+      </font></td>
+    <td width="213" valign="top"><a href="http://www.galatta.com"><img src="http://www.galatta.com/newlogo.gif" width="164" height="65" border="0"></a></td>
+    <td width="200" valign="top"><font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF">
+            <script src="http://www.galatta.com/entertainment/banneradmin/show.asp?type=topright">
+</script>
+      </font></td>
+  </tr>
+  <tr bgcolor="#CC3300" align="center"> 
+    <td colspan="3">  <a href="http://www.galatta.com/signup.asp"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>signup</b></font></a> 
+      &nbsp;&nbsp;&nbsp;<a href="http://www.galatta.com/chat.asp"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>chat</b></font></a> 
+      &nbsp; <a href="http://www.galatta.com/entertainment/contest/default.asp"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>contest</b></font></a>&nbsp;&nbsp; 
+      <a href="http://www.galatta.com/entertainment/discussions/default.asp"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>discussions</b></font></a> 
+      &nbsp;&nbsp;&nbsp; <a href="http://www.galatta.com/entertainment/greetings/display.asp?cat=AIDS%20Awareness&amp;page=1"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>greetings</b></font></a> </td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3" height="2"> 
+      <table border="0" width="600" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="167" align="center" height="2"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0066CC"><b><font size="1">Bringing 
+            Reel Life to Real Life</font></b></font></td>
+   <form name="ln_frm" method="post"></form>
+            <td colspan="2" align="left" bgcolor="#FFCC00" valign="top" height="2" width="433"> 
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1"> 
+          <script language="javascript" src="/channel_js.js">
+</script>
+
+<script language="javascript">
+function username_check()
 {
-   nwindow=window.open("http://www.galatta.com/user_login.asp","new_window","top=40,left=50,width=175,height=250");
+id = document.user_name.id.value ; 
+pwd = document.user_name.pwd.value ; 
+if(id=="" || pwd=="") 
+	{
+		alert("Invalid Username/Password.") ; 
+		document.user_name.focus();
+		return false ;  
+	}
+return true; 
+}
+function channel_go()
+{
+/*document.ln_frm.action = document.ln_frm.g_sections.value ; 
+return true ; */
+document.location.href = document.ln_frm.g_sections.value ; 
+}
+
+
+function change()
+{
+lang = document.ln_frm.g_lang.value ; 
+section = document.ln_frm.g_sections.value ; 
+
+switch(lang) 
+{
+	case "tamil" :  
+					document.ln_frm.g_sections.length = tamil_sec.length ; 
+					for(i=0;i<tamil_sec.length;i++)
+					{
+						document.ln_frm.g_sections[i].text = tamil_sec[i][0];
+						document.ln_frm.g_sections[i].value = tamil_sec[i][1];
+					}
+					break ;
+	case "telugu" : 
+					document.ln_frm.g_sections.length = telugu_sec.length ; 
+					for(i=0;i<telugu_sec.length;i++)
+					{
+						document.ln_frm.g_sections[i].text = telugu_sec[i][0];
+						document.ln_frm.g_sections[i].value = telugu_sec[i][1];
+					}
+					break ;
+	case "malayalam" : 
+					document.ln_frm.g_sections.length = malayalam_sec.length ; 
+					for(i=0;i<malayalam_sec.length;i++)
+					{
+						document.ln_frm.g_sections[i].text = malayalam_sec[i][0];
+						document.ln_frm.g_sections[i].value = malayalam_sec[i][1];
+					}
+					break ;
+	case "hindi" : 
+					document.ln_frm.g_sections.length = hindi_sec.length ; 
+					for(i=0;i<hindi_sec.length;i++)
+					{
+						document.ln_frm.g_sections[i].text = hindi_sec[i][0];
+						document.ln_frm.g_sections[i].value = hindi_sec[i][1];
+					}
+					break ;
+	case "english" : 
+					document.ln_frm.g_sections.length = english_sec.length ; 
+					for(i=0;i<english_sec.length;i++)
+					{
+						document.ln_frm.g_sections[i].text = english_sec[i][0];
+						document.ln_frm.g_sections[i].value = english_sec[i][1];
+					}
+					break ;
+					
+}
+
 }
 </script>
-</table><table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
-      <tbody><tr valign="middle" align="center"> 
-        <td height="46"><font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF">
-          <script language="JavaScript">
-<!--
-  var date = new Date();
-  d = date.getDate();
-  m = date.getMonth()+1;
-  y = date.getFullYear() ;
-  //dt = m + "/" + d + "/" + y ;
- dt = '6/3/2001';
-  var eran = Math.random() + "";
-  var ra   = (eran * 1000000000000000000 % 1000000000);
-
-
-document.write(" <a href='http://www.galatta.com/entertainment/banneradmin/target.asp?random=" + ra + "&type=topleft&dt=" + dt + "' target='_blank'> ");
-
-    document.write(" <img width=200 height=60 border=0 src='http://www.galatta.com/entertainment/banneradmin/show.asp?random=" + ra + "&type=topleft&dt=" + dt + "'></a>");
-
-
-//-->
-</script> <a href="http://www.galatta.com/entertainment/banneradmin/target.asp?random=233664768&amp;type=topleft&amp;dt=6/3/2001" target="_blank">  <img width="200" height="60" border="0" src="http://www.galatta.com/entertainment/banneradmin/show.asp?random=233664768&amp;type=topleft&amp;dt=6/3/2001"></a>
-          </font></td>
-        <td height="46"><a href="http://www.galatta.com"><img src="http://www.galatta.com/newlogo.gif" width="164" height="65" border="0"></a></td>
-        <td> 
-          <center>
-            <font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF">
-            <script language="JavaScript">
-<!--
-  var date = new Date();
-  d = date.getDate();
-  m = date.getMonth()+1;
-  y = date.getFullYear() ;
-  //dt = m + "/" + d + "/" + y ;
- dt = '6/3/2001';
-  var eran = Math.random() + "";
-  var ra   = (eran * 1000000000000000000 % 1000000000);
-
-
-document.write(" <a href='http://www.galatta.com/entertainment/banneradmin/target.asp?random=" + ra + "&type=topright&dt=" + dt + "' target='_blank'> ");
-
-    document.write(" <img width=200 height=60 border=0 src='http://www.galatta.com/entertainment/banneradmin/show.asp?random=" + ra + "&type=topright&dt=" + dt + "'></a>");
-
-
-//-->
-</script> <a href="http://www.galatta.com/entertainment/banneradmin/target.asp?random=550119296&amp;type=topright&amp;dt=6/3/2001" target="_blank">  <img width="200" height="60" border="0" src="http://www.galatta.com/entertainment/banneradmin/show.asp?random=550119296&amp;type=topright&amp;dt=6/3/2001"></a>
-            </font> 
-          </center>
-           
+                Movie Channels:</font> 
+                <select name="g_lang" onchange="change()">
+                  <option value="tamil" selected="">Tamil</option>
+            <option value="hindi">Hindi</option>
+            <option value="telugu">Telugu</option>
+            <option value="malayalam">Malayalam</option>
+            <option value="english">English</option>
+          </select>
+                <font size="1">Section</font> 
+                <select name="g_sections">
+                  <script language="javascript">
+           					for(i=0;i<tamil_sec.length;i++)
+							{	document.write ("<option value='" + tamil_sec[i][1] + "'");
+								if(tamil_sec[i][0]=="Movie Zone") document.write (" selected"); 
+								document.write (">" +  tamil_sec[i][0] + "</option>") ;
+							}
+		</script>
+          </select>
+                <a href="Javascript:channel_go()"><img src="http://www.galatta.com/images/og.jpg" border="0"></a> 
+                </b></font></p>
+        
       </td>
-    </tr>
-  </tbody></table>
-    <table width="605" border="0" cellspacing="0" cellpadding="1" bgcolor="#FFFFFF" align="center">
-      <tbody><tr bgcolor="#FFFFFF"> 
-        <td colspan="3"> 
-          <div align="center"> 
-            
-            <img src="http://www.galatta.com/tamilsignin.gif" width="601" height="40" usemap="#Map5" border="0"> 
-            <map name="Map5"> 
-              <area shape="rect" coords="72,6,104,21" href="http://telugu.galatta.com/default.asp"><area shape="rect" coords="124,6,178,20" href="http://malayalam.galatta.com/default.asp">
-              <area shape="rect" coords="17,23,68,38" href="http://www.galatta.com/signup.asp">
-              <area shape="rect" coords="90,24,139,38" href="javascript:signin();">
-              <area shape="rect" coords="164,24,219,45" href="http://www.galatta.com/entertainment.asp">
-              <area shape="rect" coords="245,24,278,42" href="/chat.asp">
-              <area shape="rect" coords="307,23,367,49" href="/entertainment/contest/default.asp">
-              <area shape="rect" coords="393,24,462,41" href="http://www.cutegreetings.com">
-              <area shape="rect" coords="496,24,583,35" href="/entertainment/discussions/default.asp">
-              <area shape="rect" coords="195,6,226,21" href="http://hindi.galatta.com"><area shape="rect" coords="237,6,275,19" href="http://english.galatta.com"></map>
-            </div></td>
-      </tr>
-      <tr valign="top" align="left"> 
-        <td colspan="3" height="54"> 
-          <table width="564" border="0" cellspacing="0" cellpadding="0" align="center">
-            <tbody><tr> 
-              <td width="129" valign="top" align="left" height="10"><a href="http://www.galatta.com/hub/hub.asp" target="_blank"> 
-                <img src="http://www.galatta.com/images/peep.jpg" width="60" height="60" alt="" border="0"></a></td>
-              <td valign="top" align="center" width="469" height="10"><font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF"> 
-                <script language="JavaScript">
-<!--
-  var date = new Date();
-  d = date.getDate();
-  m = date.getMonth()+1;
-  y = date.getFullYear() ;
-  //dt = m + "/" + d + "/" + y ;
-  dt = '6/3/2001';
-  var eran = Math.random() + "";
-  var ra   = (eran * 1000000000000000000 % 1000000000);
-
-
-document.write(" <a href='http://www.galatta.com/entertainment/banneradmin/target.asp?random=" + ra + "&type=top&dt=" + dt + "' target='_blank'> ");
-
-    document.write(" <img width=468 height=60 border=0 src='http://www.galatta.com/entertainment/banneradmin/show.asp?random=" + ra + "&type=top&dt=" + dt + "'></a>");
-
-
-//-->
-</script> <a href="http://www.galatta.com/entertainment/banneradmin/target.asp?random=928754304&amp;type=top&amp;dt=6/3/2001" target="_blank">  <img width="468" height="60" border="0" src="http://www.galatta.com/entertainment/banneradmin/show.asp?random=928754304&amp;type=top&amp;dt=6/3/2001"></a>
-                </font></td>
-              <td width="10" valign="top" align="right" height="10"><a href="http://music.galatta.com" target="_blank"> 
-                <img src="http://www.galatta.com/images/lovesongs.jpg" width="60" height="60" alt="" border="0"></a></td>
-            </tr>
-          </tbody></table>
-        </td>
-      </tr>
-    </tbody></table>
+    
+</tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr align="center"> 
+    <td height="51" width="60"><a href="http://www.galatta.com/entertainment/movies/tamil/released/Nanda/"><img src="http://www.galatta.com/entertainment/images/nandhaareview.jpg" width="60" height="60" alt="Post Your Review!" border="0"></a></td>
+    <td height="51" width="474"><font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF">
+          <script src="http://www.galatta.com/entertainment/banneradmin/show.asp?type=top"></script>
+</font></td>
+    <td height="51" width="66"><a href="http://www.galatta.com/entertainment/movies/tamil/released/Alavanthan/"><img src="http://www.galatta.com/entertainment/images/alavandhanreview.jpg" width="60" height="60" alt="Post Your Review!" border="0"></a></td>
+  </tr>
+  <tr bgcolor="#000000" align="center"> 
+    <td colspan="3"><font color="#FFFFFF">
       
-    <br>
-  
-
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Guest</b></font>, 
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="1">You 
+      are here @</font></b></font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
+      <font color="#FFCC00">tamil.Galatta.com</font> </b></font></td>
+  </tr>
+  <tr bgcolor="#868686" align="center"> 
+    <form name="user_name" action="/logincheck/check.asp" method="post" onsubmit="return username_check()"></form>
+      <td colspan="3"> <font color="#FFFFFF"> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
+        
+        <font color="#FFCC00">Login :</font><font color="#FFFFFF"> username 
+        <input type="text" name="id" size="7">
+        password 
+        <input type="password" name="pwd" size="7">
+        <input type="checkbox" name="remember" value="y">
+        remember my password&nbsp;&nbsp; <a href="http://www.galatta.com/forgotpassword.asp"><font color="#FFFFFF">Forgot 
+        password?</font></a></font></b></font> 
+        <input type="image" src="http://www.galatta.com/images/og.jpg" name="image">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
+        
+        </b></font></td>
+    
+  </tr>
+</tbody></table>
 
 
 <table width="630" border="0" cellspacing="0" cellpadding="0" align="center" height="469">
@@ -286,49 +337,42 @@ function openwin1()
 // -->
 //-->
 </script>
-</table><table width="608" border="0" cellspacing="0" cellpadding="0" align="center">
+</table><table width="608" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#CCCC66">
   <tbody><tr> 
-    <td colspan="3" align="left" valign="top"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" background="../23-09/images/dot.gif">
-        <tbody><tr> 
-          <td width="66"> 
-            <div align="left"><a href="javascript:openwin()"><img src="http://www.galatta.com/images/suggest.gif" width="60" height="60" border="0"></a></div>
-          </td>
-          <td width="468" align="center" valign="middle"> 
-            <div align="center"><!--OptiClik(TM) Code Begins Here-->
-<script language="JavaScript" src="http://ads.opticlik.net/js/ART_GAL_002/468x60/GIF/opticlik.js"></script>
-<!--OptiClik(TM) Code Ends Here-->
-
-</div>
-          </td>
-          <td width="82"> 
-            <div align="right"><a href="javascript:openwin1()"><img src="http://www.galatta.com/images/comments.gif" width="60" height="60" border="0"></a></div>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr> 
-    <td colspan="3" background="../23-09/images/dot.gif" height="46"> 
-      <table width="620" border="0" cellspacing="0" cellpadding="4" bordercolor="#000000" bordercolorlight="#000000" bordercolordark="#000000" align="center">
-        <tbody><tr bgcolor="#CCCC00" background="../23-09/images/dot.gif" valign="top" align="center"> 
+  <td colspan="3" align="left" valign="top"> 
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+      <tbody><tr valign="MIDDLE" align="CENTER"> 
+      <td width="66"> 
+        <div align="left"><a href="http://www.galatta.com/entertainment/english/America%27sSweethearts/Default.asp"><img src="http://www.galatta.com/images/americasweetheart.gif" width="60" height="60" border="0" alt="Post your review"></a></div>
+      </td>
+      <td width="468"> 
+            <div align="center"><font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF"> 
+              <script language="JavaScript" src="http://ads.opticlik.net/js/ART_GAL_002/468x60/GIF/opticlik.js"></script>
+              </font> </div>
+      </td>
+      <td width="82"> 
+        <div align="right"><a href="http://www.galatta.com/entertainment/movies/telugu/daddy/default.asp"><img src="http://www.galatta.com/images/daddyreview.gif" width="60" height="60" border="0" alt="Post your review"></a></div>
+      </td>
+      </tr> 
+    </tbody></table>
+  </td>
+  </tr> <tr> 
+  <td colspan="3" height="25"> 
+    <table width="620" border="0" cellspacing="0" cellpadding="4" bordercolor="#000000" bordercolorlight="#000000" bordercolordark="#000000" align="center">
+      <tbody><tr valign="top" align="center"> 
           <td> 
-            <p><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0" face="Arial, Helvetica, sans-serif" size="1"><font color="#CC3333"> 
-              </font><font color="#FF6600"> <font size="1" face="Arial, Helvetica, sans-serif" color="#CC3333"><font size="2"><b><font size="1">ENTERTAINMENT</font></b></font></font><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#000066"> 
-              </font><font color="#FF6600">•</font><font color="#000066"><a href="http://www.galatta.com/entertainment/pop.asp"> 
-              popcorn time</a> </font><font color="#FF6600">•</font><font color="#000066"> 
-              <a href="http://www.galatta.com/entertainment/wait.asp">worth the 
-              wait</a><font color="#FF6600"> </font></font><font color="#FF6600">• 
-              </font><a href="http://www.galatta.com/entertainment/votestar.asp"><font color="#000066">starvote</font></a><font color="#000066"> 
-              <font color="#FF6600">• </font><a href="http://www.galatta.com/entertainment/ispy/ispy.asp">i 
-              spy</a> </font><font color="#FF6600">•</font><font color="#000066"> 
-              <a href="http://www.galatta.com/entertainment/livewire.asp"> livewire</a> 
-              </font><font color="#FF6600">•</font><font color="#000066"> <a href="http://www.galatta.com/entertainment/music/music.asp">symphony</a></font><font color="#FF6600">•</font><font color="#000066"> 
-              <a href="http://www.galatta.com/entertainment/showdown.asp">showdown</a> 
-              </font><font color="#FF6600">•</font><font color="#000066"> <a href="http://www.galatta.com/entertainment/hall.asp">hall 
-              of fame</a> </font><font color="#FF6600">•</font><font color="#000066"> 
-             <a href="http://www.galatta.com/entertainment/photogallery/tamil/gallery.asp">strike 
-             a pose<br>
+            <p><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0" face="Arial, Helvetica, sans-serif" size="1"><font color="#FF6600"> 
+              <font size="1" face="Arial, Helvetica, sans-serif" color="#CC3333"><font size="2"><b><font size="1">ENTERTAINMENT</font></b></font></font><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#000066"> 
+</font><font color="#FF6600">•</font><font color="#000066"><a href="http://www.galatta.com/entertainment/pop.asp"> 
+popcorn time</a> </font><font color="#FF6600">•</font><font color="#000066"> <a href="http://www.galatta.com/entertainment/wait.asp">worth 
+the wait</a><font color="#FF6600"> </font></font><font color="#FF6600">• </font><a href="http://www.galatta.com/entertainment/votestar.asp"><font color="#000066">starvote</font></a><font color="#000066"> 
+<font color="#FF6600">• </font><a href="http://www.galatta.com/entertainment/ispy/ispy.asp">i 
+spy</a> </font><font color="#FF6600">•</font><font color="#000066"> <a href="http://www.galatta.com/entertainment/livewire.asp"> 
+livewire</a> </font><font color="#FF6600">•</font><font color="#000066"> </font><font color="#000066"> 
+<a href="http://www.galatta.com/entertainment/showdown.asp">showdown</a> </font><font color="#FF6600">•</font><font color="#000066"> 
+<a href="http://www.galatta.com/entertainment/hall.asp">hall of fame</a> </font><font color="#FF6600">•</font><font color="#000066"> 
+<a href="http://www.galatta.com/entertainment/photogallery/tamil/gallery.asp">strike 
+a pose<br>
              </a></font><font color="#A018C0"><font color="#FF6600">•</font><font color="#CC3333"> 
              <a href="http://www.galatta.com/entertainment/tvserials.asp">couch 
               potato</a> </font><font color="#FF6600">•</font> <a href="http://www.galatta.com/entertainment/trailer.asp"><font color="#CC3333">rushes</font></a><font color="#FF6600">•</font><font color="#CC3333"> 
@@ -341,39 +385,73 @@ function openwin1()
               <font size="1" face="Arial, Helvetica, sans-serif"><font color="#FF6600">•</font></font><font color="#CC3333"> 
               <a href="http://www.galatta.com/entertainment/firsttake.asp">firsttake</a> 
               </font><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#FF6600">•</font></font></font></font> 
-              <font color="#CC3333"><a href="http://www.galatta.com/entertainment/archives.asp">rewind</a></font></font></font></b><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font color="#CC3333"><br>
-              SERVICES</font> <font color="#000066"><font color="#FF6600">•</font><a href="/chat.asp"> 
-              chat</a> <font color="#FF6600">•</font> <a href="/entertainment/contest/default.asp">contests 
-              </a><font color="#FF6600">•</font> <a href="http://www.cutegreetings.com">greetings</a> 
-              <font color="#FF6600">•</font> <font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><a href="/entertainment/discussions/default.asp">discussions</a></font></font> 
-              <font color="#CC0000">OTHERS</font><font color="#FF0000"> </font><font color="#A018C0"><font color="#000066"><font color="#FF6600">• 
-              </font></font></font><font color="#000099"><font color="#000000"><a href="http://www.astrologyindia.com">astrology</a></font><font color="#A018C0"><font color="#000066"> 
-              </font><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font color="#000066"><font color="#000099"><font color="#A018C0"><font color="#A018C0"><font color="#000066"><font color="#000099"><font color="#A018C0"><font color="#A018C0"><font color="#000066"><font color="#000099"><font color="#A018C0"><font color="#000066"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#FF6600">•</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></b></font></font></font><b><font color="#000066"> 
-              </font><a href="/reales.asp"><font color="#000099"><font color="#A018C0"><font color="#000066">real 
-              estate</font></font></font></a><font color="#000099"><font color="#000000"> 
-              </font><font color="#A018C0"><font color="#A018C0"><font color="#000066"><font color="#000099"><font color="#A018C0"><font color="#A018C0"><font color="#000066"><font color="#000099"><font color="#A018C0"><font color="#000066"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#FF6600">•</font></font></font></font> 
-              </font></font></font></font></font></font></font></font></font></font></font> <a href="/franchise.asp">become 
-              a franchisee</a><font color="#000066"> </font></b></b></p><b>
-          </b></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr bgcolor="#CCCC00"> 
-    <td colspan="3" height="2"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><b><font size="1"><font color="#000000">Contact<a href="mailto:webmaster@galatta.com"> 
-        webmaster@galatta.com</a> | <a href="http://www.galatta.com">www.galatta.com</a> 
-        is a part of <a href="http://www.dotcom.co.in">Dot Com Infoway</a>. All 
-        names mentioned on this website are trademarks of their respective owners. 
-        All material on this page is Copyright (C) 2000 by <a href="http://www.dotcom.co.in">Dot 
-        Com Infoway</a> <br>
-        <a href="/disclaimer.asp">Copyright and Disclaimer</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-        | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy.asp">Privacy Statement</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/advertise.asp">Advertise with 
-        Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; <a href="/hub/team.asp">Behind 
-        the Scenes</a> </font></font></b></font><font size="1"></font></b></font></div>
-    </td>
-  </tr>
+              <font color="#CC3333"><a href="http://www.galatta.com/entertainment/archives.asp">rewind</a></font></font></font></b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font color="#CC3333"> <br>
+          </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#A018C0"><font color="#CC3333">SERVICES</font></font><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font color="#000066"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font color="#000066"><font color="#FF6600"> 
+          •</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></b></font></font></font></font></font></font></b><font size="1" face="Arial, Helvetica, sans-serif" color="#FF6600"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+          <a href="http://www.galatta.com/hub/hub.asp">members zone</a></font></font><font color="#FF6600"><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
+          •</b></font></font></b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="/chat.asp"> 
+          chat</a> • <a href="/entertainment/contest/default.asp">contests </a>• 
+          <a href="http://www.galatta.com/entertainment/greetings/display.asp?cat=AIDS%20Awareness&amp;page=1">greetings</a> 
+          • <a href="/entertainment/discussions/default.asp">discussions</a></font></font><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
+          </b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+          • </font></font></font></font></font></font></b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.galatta.com/entertainment/celebmail/default.asp">mail 
+          a celeb</a></font></font></font></font></font></font><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+          • </font></font></font></font></font></font></b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.galatta.com/celeb_birthday/bdays.asp">celeb 
+          birthdays</a></font></font></font></font></font></font><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+          •</font></font> </font></font></font></font></b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.galatta.com/dbirthday.asp">g!birthday 
+          babies</a></font></font></font></font></font><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#A018C0"><font color="#000066"><font color="#CC0000"> 
+          Zones</font><font color="#FF0000"> </font></font></font></b></font></font></font></b><font color="#FF6600"><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
+          <font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">•</font></font> 
+          </b></font></font></b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.galatta.com/entertainment/lottery/new/lottery_form.asp">TN 
+          lottery results</a></font></font><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
+          </b></font></font></b><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font color="#000066"><font color="#A018C0"><font color="#000066"><font color="#FF6600"><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#A018C0"><font color="#000066"><font color="#FF6600"><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">•</font></font></b></font></font></b></font> 
+          </font></font></b></font></font></font></b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font color="#000066"><a href="http://www.galatta.com/hub/hub.asp">Good 
+          Knight refer &amp; win</a></font></font></font></font></font><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#A018C0"><font color="#000066"> 
+          </font><font color="#FF6600"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font color="#000066"><font color="#A018C0"><font color="#000066"><font color="#FF6600"><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#A018C0"><font color="#000066"><font color="#FF6600"><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">• 
+          </font></font></b></font></font></b></font></font></font></b></font></font></font></b></font></font></font></font></font></font></font></font></font></font></font></b></font></font></font></b></font></font></font></font></font><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font color="#FF6600"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font color="#000066"><font color="#A018C0"><font color="#000066"><font color="#FF6600"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font color="#000066"><font color="#FF6600"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="http://www.galatta.com/hub/hub.asp">Sri 
+          Krishna Sweets</a></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#A018C0"><font color="#FF6600"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#A018C0"><font color="#000066"><font color="#A018C0"><font color="#000066"><font color="#FF6600"><b><font size="1" face="Arial, Helvetica, sans-serif"><font color="#A018C0"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#A018C0"><font color="#000066"><font color="#FF6600"><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="1" face="Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+          </font></font></b></font></font></b></font></font></font></b></font></font></font></b></font></font></font></font></font></font></font></font></font></font></font></b></font></font></font></b></font> 
+          <font color="#000066"><font color="#CC0000"> <br>
+              OTHERS</font></font> • <font color="#FF6600"><a href="http://www.astrologyindia.com">astrology</a> 
+              • <a href="/reales.asp">real estate</a> • <a href="/franchise.asp">become 
+              a franchisee</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+              </font></p>
+      </td>
+      </tr> 
+    </tbody></table>
+  </td>
+  </tr><tr>
+  <td colspan="3" height="32"> 
+    <table width="100%" border="0" cellspacing="2" cellpadding="0">
+      <tbody><tr valign="TOP" align="CENTER"> 
+      <td width="21%" align="LEFT" bgcolor="#D7D786"> 
+        <div align="LEFT"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="javascript:openwin()"> 
+          <img src="http://www.galatta.com/images/suggestsite.gif" width="44" height="30" border="0" alt="Suggest this site to someone" align="LEFT">Suggest 
+          this site to someone</a></font></div>
+      </td>
+      <td width="60%" align="CENTER" valign="MIDDLE"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><b><font size="1"><font color="#000000">Mail:<a href="mailto:webmaster@galatta.com"> 
+        webmaster@galatta.com</a> | <a href="http://www.galatta.com">galatta.com</a> 
+        is a part of <a href="http://www.dotcom.co.in">Dot Com Infoway</a>.</font></font></b></font></b></font><font color="#A018C0"></font><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><b><font size="1"><font color="#000000"><br>
+        © Copyright </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><b><font size="1"><font color="#000000"><a href="http://www.dotcom.co.in">Dot 
+        Com Infoway</a></font></font></b></font></b></font></b></font> <font color="#000000">1999 
+        - 2001. All rights reserved.</font></font></b></font></b></font></b></font></td>
+      <td width="19%" bgcolor="#D7D786"> 
+        <div align="RIGHT"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="javascript:openwin1()"><img src="http://www.galatta.com/images/sendcomments.gif" width="44" height="30" border="0" alt="Send your comments" align="RIGHT"> 
+          Send your comments</a></font></div>
+      </td>
+      </tr> 
+    </tbody></table>
+  </td>
+  </tr> <tr> 
+  <td colspan="3" height="2"> 
+    <div align="center"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><b><font size="1"><font color="#000000"> 
+      <a href="/disclaimer.asp">Copyright and Disclaimer</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+      | &nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy.asp">Privacy Statement</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/advertise.asp">Advertise with 
+      Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; <a href="/hub/team.asp">Behind 
+      the Scenes</a> </font></font></b></font><font size="1"></font></b></font></div>
+  </td>
+  </tr> 
 </tbody></table>
 
 
@@ -391,7 +469,7 @@ document.write("<IMG SRC='http://www.websight-india.com/cgi-bin/websight.cgi?ws_
 
 //-->
 
-</script><img src="http://www.websight-india.com/cgi-bin/websight.cgi?ws_delimiter=|!|https://web.archive.org/web/20010604055247id_/http%3A//www.galatta.com/privacy.asp!!NoFrame!Netscape-5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36!Fri Jan 31 2020 15:41:41 GMT+0000 (Coordinated Universal Time)" height="1" width="1">
+</script><img src="http://www.websight-india.com/cgi-bin/websight.cgi?ws_delimiter=|!|https://web.archive.org/web/20011205054310id_/http%3A//galatta.com/privacy.asp!!NoFrame!Netscape-5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36!Fri Jan 31 2020 15:41:46 GMT+0000 (Coordinated Universal Time)" height="1" width="1">
 
 <!-- Websight (TM) code ends.-->
 
