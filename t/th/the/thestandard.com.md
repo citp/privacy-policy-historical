@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 1999-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990826230919id_/http%3A//thestandard.com/privacy_policy/%3Ffoot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622000214id_/http%3A//www.thestandard.com/privacy_policy) for the most accurate reproduction.*
 
-# The Industry Standard: PRIVACY POLICY
+# TheStandard.com
 
-|  **Privacy Policy**
+**Privacy Policy**
 
 **Principles**
 
@@ -10,11 +10,9 @@
   * _The Industry Standard_ does not monitor individual traffic patterns on our site — only aggregate reader behavior is collected.
   * You may change the status of whether you wish to receive Industry Standard offers and communications at anytime. 
 
-**
 
-Gathering of Information
 
-**
+**Gathering of Information**
 
   * Optional Registration 
 
@@ -22,7 +20,7 @@ TheStandard.com offers free, voluntary registration to users. By registering, us
 
   * Electronic Newsletters 
 
-_The Industry Standard_ offers several electronic newsletters to users. _The Industry Standard_ gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page or by unsubscribing in the [newsletter subscription](https://web.archive.org/newsletters) area of our website. Users can also subscribe to the newsletters at the time of registration. 
+_The Industry Standard_ offers several electronic newsletters to users. _The Industry Standard_ gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page or by unsubscribing in the [newsletter subscription](http://www.standardservices.com/newsletters/UnsubNews.asp) area of our website. Users can also subscribe to the newsletters at the time of registration. 
 
 
 
@@ -47,11 +45,9 @@ If you've set your browser to warn you before accepting cookies, you will receiv
 You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use TheStandard.com 
 
 
-**
 
-Use of the Information
 
-**
+**Use of the Information**
 
 _The Industry Standard_ uses any information voluntarily given by our users to enhance their experience, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
 
@@ -63,11 +59,7 @@ _The Industry Standard_ creates aggregate reports on user demographics and traff
 
 _The Industry Standard_ does allow select advertisers to mail promotions to registrants and newsletter recipients who have given us their permission to do so. All promotions are pre-approved by _The Industry Standard_ and all mailings are conducted by a reputable third party mail house to ensure the names are not mis-used or used more than once. Our users are asked at the time when their information is collected if they would prefer to not receive promotions from our partners. You may change this designation at anytime. 
 
-**
-
-Maintenance Policy
-
-**
+**Maintenance Policy**
 
 _The Industry Standard_ gives users options wherever necessary and practical. Such choices include: 
 
@@ -78,17 +70,8 @@ _The Industry Standard_ gives users options wherever necessary and practical. Su
 
 
 
-_The Industry Standard_ offers users the ability to correct or change the information collected during registration for any site (see above).  Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at richm@thestandard.com. 
+_The Industry Standard_ offers users the ability to correct or change the information collected during registration for any site (see above).  Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at [richm@thestandard.com](mailto:richm@thestandard.com).
 
 Users may unsubscribe to any of our electronic newsletters at anytime by following the instructions contained at the end of every newsletter. 
 
 Currently, _The Industry Standard_ does not offer users a means by which to completely delete personal information established at the time of registration for any site. 
-
-| |   
-**[Get the Magazine](http://www.standardservices.com/scripts/TIS/magazine.asp?Acct=&FORM=Trial&SK=7TCA&A=49.97&ELSE&T=40) \--  
-4 FREE Issues of  
-The Industry Standard** ADVERTISEMENT  
-[**Net Returns 2000 Conference**](https://web.archive.org/netreturns/?promo)  
-_The Industry Standard's_ forum for a select group of senior executives to address the Internet business challenges they face with some of business's brightest and most innovative minds. **[Request an invitation today.](https://web.archive.org/netreturns/?promo)** [**Add Your Company to the Directory**](https://web.archive.org/directory/add/?promo)  
-The first-ever Internet Economy yellow pages is here! Is your company listed in The Industry Standard's **[Directory](https://web.archive.org/directory/add/?promo)**? [**Download PowerPoint Slides**](https://web.archive.org/metrics/downloads/?promo)  
-Now you can **[download Metrics](https://web.archive.org/metrics/downloads/?promo)** for your own presentations. Get the research, analysis, statistics and raw data that define the Internet Economy.
