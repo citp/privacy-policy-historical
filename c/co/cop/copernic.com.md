@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204201517id_/http%3A//copernic.com/support/privacy-web.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601150738id_/http%3A//www.copernic.com/company/privacy/privacy-web.html) for the most accurate reproduction.*
 
-# Copernic.com - Support - Web Site Privacy Policy for Copernic.com
-
-**[Click here to go to our Software Privacy Policy.](https://web.archive.org/web/20011204201517id_/http%3A//copernic.com/support/privacy-software.html)**
+# Copernic :: Company :: Web Site Privacy Policy for www.copernic.com
 
 Copernic Technologies Inc. has created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.copernic.com. 
 
@@ -18,7 +16,7 @@ Our online surveys ask visitors for demographic information (like their zip code
 
 We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code or age). We use contact data from our contests to send users information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We do not sell this information to other companies. 
 
-Copernic Technologies Inc. works with a third party that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy/>.
+Copernic Technologies Inc. works with a third party that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy/site_privacy.cfm>.
 
 **Security**
 
