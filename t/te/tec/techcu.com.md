@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217075208id_/http%3A//techcu.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601104744id_/http%3A//techcu.com/privacy/index.html) for the most accurate reproduction.*
 
 # Technology Credit Union
 
@@ -20,6 +20,9 @@ Privacy of Member and Former Member Information
 What this policy covers:
 
 This policy covers "non-public personal information." This means personally identifiable information that Technology Credit Union and our affiliate, TechCU Financial and Insurance Services, Inc. (including the Car Store), obtain about you in the course of providing services to you, our members and former members. It does not cover information that we or other entities obtain from public sources such as telephone directories or county real property records. It does not cover information that is not identified with any individual member or former member, such as a statement that a specified number of our members have auto loans with us, or a statement that the average combined account balance of our membership is a specified dollar amount. In this policy, the term "member" refers to both current and former members.
+
+  
+
 
 Topics 
 
@@ -46,6 +49,9 @@ Sources from which we collect information about you include:
   * Third parties with whom we have arrangements to provide services to you, such as financial institutions whose ATM's you use, merchants who accept your Credit Union credit and/or debit card, mortgage lenders, or vehicle dealers.
   * Our affiliates where we collect information such as account balances, payment history, parties to transactions, and credit card usage.
 
+
+
+  
 
 
 Selling Information 
@@ -105,12 +111,12 @@ Opting Out:
 If you do not want us to give information about you to third parties who are selling their own products or services, and do not want us to exchange information other than transactions and experiences between the Credit Union and TechCU Financial and Insurance Services, Inc. (including the Car Store), you can opt out at any time by:
 
   * Calling (408) 451-9111 or (800) 553-0880 (outside the 408 area code) 
-  * Completing the following form and returning it in person to any [Technology Credit Union branch](https://web.archive.org/web/20011217075208id_/http%3A//techcu.com/branches/index.html), or mailing it to us at the address given on the [form](https://web.archive.org/privacy/form.pdf). 
+  * Completing the following form and returning it in person to any [Technology Credit Union branch](https://web.archive.org/web/20020601104744id_/http%3A//techcu.com/branches/index.html), or mailing it to us at the address given on the [form](https://web.archive.org/privacy/form.pdf). 
   * Completing the following [secure online form](https://www.technologycu.org/onlineapps/optout.asp)
 
 
 
-It generally takes 2 weeks to implement an opt-out request on our computer system. If you later decide you no longer want to opt out, you can let us know by calling, writing, or by sending an email to us.
+It generally takes 1 week to implement an opt-out request on our computer system. If you later decide you no longer want to opt out, you can let us know by calling, writing, or by sending an email to us.
 
 Can I opt out from receiving disclosures?
 
@@ -124,79 +130,3 @@ We make every effort to ensure the accuracy of your personal information you pro
   * Sending us a secure e-mail (link to next section about secure e-mails) through WebBranch
 
 
-
-Online Privacy and Security
-
-Transaction Security
-
-Online Surveys & Drawings
-
-"Cookies"
-
-E-Mail
-
-Transaction Security
-
-When using WebBranch, applying for a loan, or submitting an online form, your information is encrypted using Secure Socket Layer Technology (SSL). With SSL encryption your information is protected while traveling from your computer to us. 
-
-Online Surveys and Drawings
-
-From time to time we conduct online surveys. We collect your responses to improve our understanding about your needs so that we can improve our products and services we provide you. All information is used for internal marketing and classification purposes only. We often conduct drawings in association with a survey or a promotion. In these cases we will ask for your name and contact information (such as your phone number and e-mail address) so that we can notify you if you are a winner. Participation to surveys or drawings is always voluntary. 
-
-"Cookies"
-
-In order to enhance your navigation experience, we use "cookies". Cookies are small pieces of information stored in your computer when you visit our site. We do not use cookies to collect information about you. You can easily set up your browser to warn you every time a cookie is sent or disable cookies from your browser's preferences menu.
-
-E-Mail
-
-If you want to send us an e-mail containing important personal information such as your account number, please log-on to WebBranch and use our Secure Email feature. For your safety we will only reply to you through the WebBranch Secure Email feature. Regular Internet e-mail is not secure. Please do not send vital information about yourself through regular e-mail.
-
-Maximize Your Safety and Privacy - Tips and Links
-
-At Tech CU we work hard to protect your privacy. By following the provided tips and links you can maximize your safety online and safeguard your right to privacy. 
-
-Web Browsers   
-Use Your Own PC   
-Are you Safe from Hackers   
-Anti-Virus Software   
-Protect You Password and Login Information   
-Shredding Documents   
-About Cookies   
-Learn More About Privacy   
-Restrict Marketing Contacts from Other Sources
-
-Web Browsers  
-To take full advantage of SSL technology we recommend that you use a browser with strong encryption technology such as Netscape's Navigator version 4.5 and above or Microsoft's Internet Explorer version 4.0 or higher. You can download these browsers directly from [Netscape](http://home.netscape.com/download/index.html?cp=djuc1) or [Microsoft](http://www.microsoft.com/windows/ie/). 
-
-Use Your Own PC 
-
-Try to use you own PC to access WebBranch, eVision or any other service where you are required to enter your username and password, or use your credit card. Other PCs may have programs installed in them that can capture your information. 
-
-Are You Safe from Hackers?  
-How secure is your computer from hackers? You can go to [ShieldsUp](https://grc.com/x/ne.dll?bh0bkyd2) to find out and test your system.
-
-Anti-Virus Software
-
-Make sure you install an anti-virus program on your computer. Viruses known as Trojan Horses can by sent to you via e-mail and capture important information stored in your computer such as passwords or documents and send them to someone else. New viruses appear almost daily so it is important to update your virus software frequently. Another way to protect yourself is not to open e-mails from unknown sources.
-
-Protect You Password and Login Information
-
-Never share your password and member number with anyone. Remember, Tech CU will never send you an unsolicited e-mail requesting your password and member number information. 
-
-Shredding Documents
-
-It is not unusual for criminals to go through your trash cans seeking information about you such as credit card numbers, loan pre-approvals, or convenience checks. For your safety, always shred documents such as cash advance checks, statements, and credit card bills before you recycle.. 
-
-About Cookies
-
-You can learn more about cookies and how they are used by various web sites at [Cookie Central](http://www.cookiecentral.com/)
-
-Learn More About Privacy
-
-At [Privacy Headquarters](http://www.privacyheadquarters.com/) you can find more detailed information about privacy issues and legislation.
-
-Restrict Marketing Contacts from Other Sources
-
-If you are interested in limiting the amount of marketing calls or mail you receive from sources other than Tech CU, visit the [Direct Marketing Association (DMA)](http://www.the-dma.org/consumers/consumerassistance.html) website.
-
-You can take steps to reduce the amount of "Spam" (unsolicited e-mails) you receive at DMA's [e-Mail Preference Service.](http://www.e-mps.org/en/)
