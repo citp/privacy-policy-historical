@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yahoo.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411002427id_/http%3A//www.yahoo.com/r/pv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoo.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217160036id_/http%3A//www.yahoo.com/r/pv) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -14,24 +14,24 @@
 **Special Topics**  
 · | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
 · | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [Childrens' Privacy Policy](https://web.archive.org/privacy/us/kids/details.html)  
-[All special topics...](https://web.archive.org/privacy/us/all.html)  
+· | [more...](https://web.archive.org/privacy/us/all.html)  
 **Privacy Links**  
 · | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
 · | [Yahoo! Category](http://dir.yahoo.com/Computers_and_Internet/Internet/Policy/Privacy/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
+· | [Privacy Commissioner of Canada](http://www.privcom.gc.ca/)  
+· | [Federal Trade Commission](http://www.ftc.com/)  
   
 * * *  
   
-  |  [](https://www.truste.org/validate/361) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy. Also, please read our [Children's Privacy Policy](http://privacy.yahoo.com/privacy/us/kids/details.html) to learn more about how we treat personally identifiable information collected from children. 
+  |  [](https://www.truste.org/validate/361) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy. Also, please read our [Children's Privacy Policy](http://privacy.yahoo.com/privacy/us/kids/details.html) to learn more about how we treat personally identifiable information collected from children and [Privacy Information](http://privacy.yahoo.com/privacy/us/fininfo/details.html) to learn how we treat such information collected in connection with Yahoo! financial products and services.
 
 **NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for important information about safe surfing from the Federal Trade Commission.**
 
 **What this Privacy Policy Covers**  
 
 
-  * This Privacy Policy covers Yahoo!'s treatment of personally identifiable information that Yahoo! collects when you are on the Yahoo! site, and when you use Yahoo!'s services. This policy also covers Yahoo!'s treatment of any personally identifiable information that Yahoo!'s business partners share with Yahoo!. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, this policy does not apply to [Yahoo! NetRoadshow](http://www.netroadshow.com/), which has its own privacy policy. 
+  * This Privacy Policy covers Yahoo!'s treatment of personally identifiable information that Yahoo! collects when you are on the Yahoo! site, and when you use Yahoo!'s services. This policy also covers Yahoo!'s treatment of any personally identifiable information that Yahoo!'s business partners share with Yahoo! or that Yahoo! may collect on a partner's site. 
+  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, this policy does not apply to [Yahoo! NetRoadshow](http://www.netroadshow.com/), which has its own privacy policy, or to Yahoo! financial products and services, which are covered by [Privacy Information](http://privacy.yahoo.com/privacy/us/fininfo/details.html).
 
 **Information Collection and Use**  
 
@@ -57,13 +57,13 @@
 
   * Yahoo! may set and access Yahoo! [cookies](http://privacy.yahoo.com/privacy/us/cookies/details.html) on your computer. 
   * Yahoo! allows [other companies](http://privacy.yahoo.com/privacy/us/adservers/details.html) that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [web beacons](http://privacy.yahoo.com/privacy/us/pixels/details.html) to access our cookies within our network of web sites and in connection with Yahoo! products and services.
+  * Yahoo! uses [web beacons](http://privacy.yahoo.com/privacy/us/pixels/details.html) to access our cookies within and outside our network of web sites and in connection with Yahoo! products and services.
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**  
 
 
   * Yahoo! gives you the ability to edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile) and preferences at any time, including whether you want Yahoo! to contact you about specials and new products. 
-  * You may request deletion of your Yahoo! account by sending an email to [ account-remove@yahoo-inc.com](mailto:account-remove@yahoo-inc.com). Please [click here](http://privacy.yahoo.com/privacy/us/archives/details.html) to read about what information may possibly remain in our archived records after your account has been deleted.
+  * You may request deletion of your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page, verifying your password once more and confirming your choice to terminate the account. Please [click here](http://privacy.yahoo.com/privacy/us/archives/details.html) to read about what information may possibly remain in our archived records after your account has been deleted.
 
 **Security**  
 
@@ -79,7 +79,7 @@
 **Questions or Suggestions**  
 
 
-  * If you have questions or suggestions complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback). 
+  * If you have questions or suggestions complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305). 
   * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/watchdog.html), an independent privacy organization. 
 
 
