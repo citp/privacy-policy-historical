@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twu.edu privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013438id_/http%3A//www.twu.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twu.edu privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214123id_/http%3A//www.twu.edu/privacy.htm) for the most accurate reproduction.*
 
 # Texas Woman's University - Privacy Policy
 
@@ -33,5 +33,4 @@ This site contains links to other sites outside of Texas Woman's University. Tex
   * **Security**  
 This site has security measures in place to protect from loss, misuse and alteration of the information under the control of Texas Woman's University. 
 
-Contacting Texas Woman's University If there are any questions about this privacy statement, the practices of this site, or dealings with this web site, contact [webmaster@twu.edu](mailto:webmaster@twu.edu).  This page was last modified 2/8/2002  
-
+Contacting Texas Woman's University If there are any questions about this privacy statement, the practices of this site, or dealings with this web site, contact [webmaster@twu.edu](mailto:webmaster@twu.edu). 
