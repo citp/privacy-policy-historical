@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215170718id_/http%3A//www.trains.com/content/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623075551id_/http%3A//www.trains.com/content/static/privacy.asp) for the most accurate reproduction.*
 
 # Trains.com: Privacy Policy
 
@@ -37,7 +37,7 @@ All personally identifiable information, which you provide, is password-protecte
 
 At the time you volunteer personally identifiable information—and at anytime thereafter—you can direct us not to use this information for marketing or informational mailings or to otherwise share this information with business partners, participating merchants, advertisers or other reputable third parties. If you do so, your personally identifiable information will be flagged in our system as "do not promote" to correspond with your request. The easiest way to do this is to go to our home page, select the "update profile" option, and answer "no" to the question that pertains to the use of your personally identifiable information for promotional purposes.
 
-You can also "opt out" by sending such directions to **trains.com** , c/o Kalmbach Publishing Co., P.O. Box 1612, Waukesha WI 53187-1612, or simply e-mail us at [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com). You can also reach us by calling toll-free, 800-446-5489, 8:30am—5:00pm Central Time, Monday—Friday. Outside the US and Canada, call 262-796-8776. The fax number is 262-796-1615.
+You can also "opt out" by sending such directions to **trains.com** , c/o Kalmbach Publishing Co., P.O. Box 1612, Waukesha WI 53187-1612, or simply e-mail us at [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com). You can also reach us by calling toll-free, 888-350-2413, 8:30am—5:00pm Central Time, Monday—Friday. Outside the US and Canada, call 262-796-8776, ext. 826. The fax number is 262-796-1615.
 
 In addition, there are also national clearinghouse organizations where you can register to suppress unwanted postal, electronic mail and telephone solicitations by third parties that have obtained your personally identifiable information. The most prominent of these is the Direct Marketing Association (DMA), of which **trains.com** is a member. The DMA provides mail, e-mail and telephone database "preference services" free of charge to consumers who wish to block unsolicited direct mail, e-mail and telemarketing contacts, respectively. For more information, visit DMA's web site at www.the-dma.org, or contact them at (202) 955-5030.
 
