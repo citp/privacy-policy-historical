@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206062106id_/http%3A//www.2dayfm.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610163622id_/http%3A//www.2dayfm.com.au/privacy.php) for the most accurate reproduction.*
 
-# 2DayFM - 2Day's Best Music
+# 2DayFM's New Breakfast Show - Judith Lucy, Kaz Cooke and Peter Helliar
 
   
 This Privacy Policy applies to the collection of Personal Information by or on behalf of Austereo Pty Ltd, Consolidated Broadcasting System (WA) Pty Ltd, Perth FM Radio Pty Ltd and all other members of the Austereo Pty Ltd group of companies (“Austereo”). 
