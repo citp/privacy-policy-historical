@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203020227id_/http%3A//www.oanda.com/site/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608210512id_/http%3A//oanda.com/site/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -35,9 +35,7 @@
   
 [](https://web.archive.org/products/fxchange/fxchange.shtml)  
   
-[](http://america.oanda.com/cgi-bin/fxmap.shtml)  
-  
-[](https://web.archive.org/products/sip/sip.shtml)
+
 
 **Disclosure** : OANDA will not sell, trade, or disclose to third parties any customer identifiable information derived from the registration for or use of an OANDA online service -- including customer names and addresses -- without the consent of the customer (except as required by subpoena, search warrant, or other legal process). When OANDA uses other agents, contractors or companies to perform services on its behalf, OANDA will ensure that the company protects your customer identifiable information consistent with this Policy. If OANDA includes your name and any other customer identifiable information in a directory that OANDA creates from information we receive as an online service provider, the company will give you the opportunity to have your information excluded from that directory. Business directories that OANDA creates may, however, contain information obtained from other sources. 
 
@@ -45,4 +43,22 @@
 
 **Banner Advertisements** : OANDA Web site uses a reputable third party to serve the advertisements that you see on the pages of the Web site. 
 
+|  |  |  |   
+---|---|---  
 | 
+
+**OANDA Jazz  
+**
+
+** OANDA FXTrade**: open a [currency trading account](http://fxtrade.oanda.com/) and start trading currencies today.    
+**  
+OANDA FXGame**: see what real currency trading is like. Play [Currency Trading Game](http://fxgame.oanda.com/).  **Drive traffic to your site** , [advertise on The Currency Site](https://web.archive.org/site/ads/ad_rate-card.shtml).   
+  
+  
+**Rate OANDA.com** : [rate our site](https://web.archive.org/site/rate/) and tell us how we're doing.   
+
+
+Make OANDA.com [your browser's home page](http://www.oanda.com/site/browser-homepage.shtml).
+
+|   
+|  | 
