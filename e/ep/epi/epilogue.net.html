@@ -1,96 +1,150 @@
-<!--The following is the downloaded HTML source of the epilogue.net privacy policy that was archived on 2001-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010411112744id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epilogue.net privacy policy that was archived on 2002-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021219203921id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 
-<meta name="keywords" content="Fantasy, Sci-fi, science fiction, art, music, stories, epilogue, Epilogue.net, amateur, professional, Raven, newsletter, discussion, community, radio, internet radio, listen with your imagination, dragons, wizards, warrior, princess, king, queen, gryphon, sprite, fairy tale, gholam, anthology, myth, valhalla, lore. legends, magic, games, video game, reviews, interview, chat, comics, anime, manga, knight, palladin, orc, ogre, celtic, space, new age, bard, elf, elves, dwarf, dwarves, RPG, role playing, board games, castle, lair, dungeons">
-<meta name="description" content="Epilogue is Fantasy and Sci-fi at their best. Epilogue is a high-quality Fantasy / Sci-fi community of Artists, Musicians and Writers. Download the finest Fantasy and Sci-fi Art, Music, and Stories."> 
-<title>Privacy Policy - Fantasy and Sci-fi at their best</title>
+<meta name="keywords" content="fantasy art, fantasy illustration, illustration, Fantasy, Sci-fi, science fiction, sci fi, art, artwork, music, print, prints, art prints, stories, fiction, speculative fiction, epilogue, Epilogue.net, amateur art, professional artist, The Raven, fantasy newsletter, art discussion, community, reviews, interviews, chat, comics, anime, manga">
+<meta name="description" content="Epilogue is a community of fantasy artists that offers only the highest quality Fantasy Art, Sci-fi Art, and Anime. Fantasy art prints are available through our store, The Peddler's Wagon"> 
+<title>Privacy Policy - Epilogue.net - Fantasy and Sci-fi at their best© [Fantasy art, sci-fi art, anime and more!]</title>
 <link rel="stylesheet" href="/stylesheets/epilogue.css">
+
+<!-- POP-UP WINDOW CODE -->
+<script language="javascript" src="http://www.epilogue.net/popupwin.js"></script>
+<!-- USAGE 
+<a href="javascript:openAnyWindow('URL','NAME', 400, 500, 'scrollbars', 'status');">Click Here</a>
+-->
+
+<!-- IMAGE ROLLOVERS -->
+<script language="JavaScript" src="http://www.epilogue.net/rollovers.js"></script>
+<!-- END IMAGE ROLLOVERS -->
 
 <script language="JavaScript">
 <!--
-function MM_swapImgRestore() { //v2.0
-  if (document.MM_swapImgData != null)
-    for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
-      document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+function readCookie(name)
+{          
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++)
+        {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
 }
+      
+function Decrypt( theText )
+{
 
-function MM_preloadImages() { //v2.0
-  if (document.images) {
-    var imgFiles = MM_preloadImages.arguments;
-    if (document.preloadArray==null) document.preloadArray = new Array();
-    var i = document.preloadArray.length;
-    with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#"){
-      preloadArray[i] = new Image;
-      preloadArray[i++].src = imgFiles[j];
-  } }
-}
+var output = new String ;
+    output = theText ;
 
-function MM_swapImage() { //v2.0
-  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
-  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
-    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
-    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
-        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
-      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
-    obj = eval(objStr);
-    if (obj != null) {
-      swapArray[j++] = obj;
-      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
-      obj.src = MM_swapImage.arguments[i+2];
-  } }
-  document.MM_swapImgData = swapArray; //used for restore
+if ( theText == null ) { output = " " ; }
+
+
+out1 = new String ;
+out2 = new String ;
+    
+out1 = output.substring( 0, ( output.length / 2 ) ) ;
+out2 = output.substring( ( output.length / 2 ) + 1 , output.length ) ;
+      
+result = new String ;
+ 
+        for ( i = 0 ; i < out1.length ; i = i + 2 )
+        {
+                result += String.fromCharCode( out1.substring( i, i + 2 ) - out2.substring( i, i + 2 ) ) ;
+        }
+    
+return ( result ) ;
+        
 }
+    
+var dateString = Decrypt( readCookie('subscription') ) ;
+var date = new Date(dateString.substring(0,4),
+                            dateString.substring(4,6)-1,
+                            dateString.substring(6,8));
+       
+var now = new Date();
+    var today = new Date(now.getYear(),now.getMonth(),now.getDate());
+
+var difference = date.getTime() -  today.getTime() ;
+var daysDifference = Math.floor(difference/1000/60/60/24);
+    difference = daysDifference ;
+if ( date.getYear() == -1 ) { difference = -1 ; } 
+
 //-->
 </script>
 
-<script language="JavaScript" type="text/javascript">
-	<!--
-		window.name = "Epilogue";
-	//-->
+<script language="JavaScript">
+<!--
+var temp = Math.random() + "";
+var random = temp * 1000000000000000;
+// This part of script alleviates a Netscape document.write bug
+// document.write ('Diff: ' + date.getYear() ) ;
+
+NS4 = document.layers;
+if (NS4) {
+origWidth = innerWidth;
+origHeight = innerHeight;
+}
+function reDo() {
+if (innerWidth != origWidth || innerHeight != origHeight)
+location.reload();
+}
+if (NS4) onresize = reDo;
+//-->
 </script>
-
-<script language="javascript">
-function openAnyWindow(url, name) {
-  var l = openAnyWindow.arguments.length;
-
-  var w = "";  
-  var h = "";  
-  var features = "";  
-  
-  for (i=2; i<l; i++) {
-
-    var param = openAnyWindow.arguments[i];
-        if ( (parseInt(param) == 0) ||
-      (isNaN(parseInt(param))) ) {     
-       features += param + ',';
-           } else {
-      (w == "") ? w = "width=" + param + "," : 
-       h = "height=" + param;
-    } 
-    
-     } 
-     
-      features += w + h;
-      
-        var code = "popupWin = window.open(url, name";
-  if (l > 2) code += ", '" + features;
-    code += "')";
-      eval(code);
-      
-      }
-</script>
-<!-- THIS POP-UP WINDOW CODE IS REUSABLE - JUST CHANGE THE PROPERTIES - 
-<a href="javascript:openAnyWindow('URL','NAME', 400, 500, 'scrollbars', 'status');">Click Here</a>
--->
 
 </head>
 
 
-<body bgcolor="#1E1E1E" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" text="#000000" link="blue" vlink="blue" alink="#996600" onload="MM_preloadImages('/images/navbar/art_ro.gif','#954119770546');MM_preloadImages('/images/navbar/stories_ro.gif','#954119833781');MM_preloadImages('/images/navbar/home_ro.gif','#954119862703');MM_preloadImages('/images/navbar/store_ro.gif','#954119913484');MM_preloadImages('/images/navbar/music_ro.gif','#954120055796')"> 
+<body bgcolor="#1e1e1e" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0"> 
 <a name="top"></a>
-<!-- Tan color = EFE1CD -->
+
+<!-- BEGIN RICH-MEDIA BURST! CODE --> 
+<script language="JavaScript"> 
+<!-- /* © 1997-2001 BURST! Media, LLC. All Rights Reserved.*/ 
+function ShowBurstAd(adcode, width, height) {
+ var bN = navigator.appName;
+ var bV = parseInt(navigator.appVersion);   
+ var base='http://www.burstnet.com/';   
+ var Tv='';   
+ var agt=navigator.userAgent.toLowerCase();   
+ if (bV>=4)  
+ {ts=window.location.pathname+window.location.search;
+  i=0; Tv=0; while (i< ts.length)
+    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;}
+  else   {Tv=escape(window.location.pathname);
+  if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
+    else if (Tv.charAt(1)=="/")
+ Tv="";     
+ if( Tv.charAt(Tv.length-1) == "/")
+   Tv = Tv + "_";}   
+ if (bN=='Netscape'){        
+  if ((bV>=4)&&(agt.indexOf("mac")==-1))  
+ { document.write('<s'+'cript src="'+ 
+  base+'cgi-bin/ads/'+adcode+'.cgi/RETURN-CODE/JS' 
+  +Tv+'">'); 
+  document.write('</'+'script>');
+ }
+   else if (bV>=3) {document.write('<'+'a href="'+base+'ads/' + 
+  adcode + '-map.cgi'+Tv+'"target=_top>');
+  document.write('<img src="' + base + 'cgi-bin/ads/' +
+  adcode + '.cgi' + Tv + '" width="' + width + '" height="' + height + '"' +
+  ' border="0" alt="Click Here"></a>');}   
+}
+if (bN=='Microsoft Internet Explorer')    
+document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'  
++     
+adcode + '.cgi' + Tv + '/RETURN-CODE" width="' + width + '" height="' + height + '"' +     
+'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' +     
+'frameborder="0" scrolling="no"></ifr'+'ame>');  
+}
+//-->
+</script>
+<!-- END BURST CODE -->
+
+
 
 <!--/////////////// HEADER \\\\\\\\\\\\\\\\\ -->
 <!--/////////////// HEADER \\\\\\\\\\\\\\\\\ -->
@@ -98,91 +152,105 @@ function openAnyWindow(url, name) {
 
 <table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
-<td width="100%" valign="top" bgcolor="#1E1E1E">
+<td width="100%" valign="top" bgcolor="#000000">
 
-<!-- ============== LOGO AND AD BANNER ============== -->     
-     <table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
-      <tbody><tr>
-      <!-- logo -->      
-        <td rowspan="2" width="210" align="left" valign="top"><a href="/index.html"><img src="/images/e_logo.jpg" width="210" height="100" border="0" alt="Epilogue"></a></td>
-        <!-- end logo -->
-        <!-- ad banner -->
-        <td width="100%" align="center" valign="middle">
-         <script src="/cgi/banner/ads.cgi"></script>
-        <!-- <script src="/banner.js"></script> -->
-        </td>
-      </tr>
-        <!-- end ad banner -->
-        <!-- slogan -->               
-      <tr>
-       <td height="15" align="left" valign="bottom"><img src="/images/slogan.gif" width="350" height="15" border="0" alt="slogan"></td>
-       <!-- end slogan -->
-      </tr>
-      <!--/////////////// 1 pix bars \\\\\\\\\\\\\\\\\ -->
-      <tr>
-      <td align="center" width="100%" height="1" bgcolor="#666666" colspan="2"><img src="/images/1pix.gif" width="1" height="1"></td>
-      </tr><tr>
-      <td align="center" width="100%" height="1" bgcolor="#333333" colspan="2"><img src="/images/1pix.gif" width="1" height="1"></td>
-      </tr><tr>
-      <td align="center" width="100%" height="1" bgcolor="#000000" colspan="2"><img src="/images/1pix.gif" width="1" height="1"></td>
-      </tr>
-      <!--/////////////// End 1 pix bars \\\\\\\\\\\\\\\\\ -->
-     
-     </tbody></table> 
-<!-- ============== END LOGO AND AD BANNER ============== -->
+	<!-- ============== LOGO AND AD BANNER ============== -->     
+	<table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+	<!-- LOGO -->      
+	<td width="250" align="left" valign="top"><a href="/index.html"><img src="/images/new_logo2.jpg" width="250" height="100" border="0" alt="Epilogue"></a></td>
+	<!-- END LOGO -->
+	<!-- AD BANNER -->
+	<td width="100%" align="center" valign="middle">
+	                <!-- FASTCLICK.COM v1.2 for epilogue.net -->
+                <script language="Javascript"><!--
+                if (!( difference > 0 ))
+                {
+                var a=b=c=d=e=h=i=j=l=n=p=s=t=u=v=w=x=y=z=dc='';
+                var id=o=k=f=0;  var jar=new Date(); var f=jar.getSeconds() * jar.getMinutes();
+                dc=document;  n=navigator;  v=parseFloat(n.appVersion);  e=escape(dc.referrer);
+                dc.cookie='mc=y'; j=(n.javaEnabled()? 'Y':'N'); c=(dc.cookie.length>0?'Y':'N');
+                if(v>=4){x=screen; } if(n.appName.indexOf('Mic')>=0) {o=1; } if(v>=4){ id=3922;
+                if(o==1){s=x.colorDepth}w=x.width;h=x.height;}x='|';p=w+x+h+x+s+'||||'+j+x+c+x;
+                u='ht'+'tp://media.fastclick.net/w'; c=' alt="Click"></a>'; x='/get.media?t=n';
+                l=' width=468 height=60 border=0 ';t=l+'marginheight=0 marginwidth=';b='&sid=';
+                i=u+x+b+id+'&m=1&f=a&v=1.2&c='+f+'&j='+p+'&r='+e;d='ameborder=0 scrolling=no>';
+                u = '<a  hr'+'ef="'+u+'/cli'+'ck.here?sid='+id+'&m=1&c='+f+'"  target="_blank">';
+                dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 fr'+d);if(o!=1){
+                dc.writeln(u+'<i'+'mg sr'+'c="'+i+'&d=n"'+l+c);}dc.writeln('</iframe>');
+                }
+                else
+                {
+                        document.write( '<img width=468 height=60 src=/images/1pix.gif>' ) ;
+                } 
+                // -->
+                </script><iframe src="http://media.fastclick.net/w/get.media?t=n&amp;sid=3922&amp;m=1&amp;f=a&amp;v=1.2&amp;c=1271&amp;j=800|600|||||N|Y|&amp;r=&amp;d=f" width="468" height="60" border="0" marginheight="0" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
+<a  href="http://media.fastclick.net/w/click.here?sid=3922&m=1&c=1271"  target="_blank"><img src="http://media.fastclick.net/w/get.media?t=n&sid=3922&m=1&f=a&v=1.2&c=1271&j=800|600|||||N|Y|&r=&d=n" width=468 height=60 border=0  alt="Click"></a>
+</iframe>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=3922&m=1&c=1"  target="_blank">  
+                <img src="http://media.fastclick.net/w/get.media?sid=3922&m=1&d=s&c=1&f=a&v=1.2  
+                " width=468 height=60 border=1></a>
+                </noscript>
+                <!-- FASTCLICK.COM v1.2 for epilogue.net -->
+	</td>
+	</tr>
+	<!-- END AD BANNER -->
+	</tbody></table> 
+	<!-- ============== END LOGO AND AD BANNER ============== -->
 
 </td>
 </tr>
 
 <tr>
-<td bgcolor="#1E1E1E">
+<td width="100%">
 
 <!-- ============== NAV BUTTONS  ============== -->
      <table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
-      <!-- large nav buttons -->
+<!-- DESIGN THING -->
       <tbody><tr>
-      <!--<td width="150" align="right" valign="top" bgcolor="#000000"><img src="/images/1pix.gif" width="150" height="40"></td>-->
-       <td colspan="4" width="100%" bgcolor="#000000" height="40">
-    	<table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-        <td align="center" valign="middle" width="7%"><img src="/images/design/diamond.gif" width="10" height="20" align="absmiddle"></td>        
-        <!-- HOME -->
-        <td align="center" valign="middle" width="7%"><a href="/index.html"><img name="Image30" border="0" src="/images/navbar/home_ro.gif" width="75" height="25"></a></td>
-        <td align="center" valign="middle" width="7%"><img src="/images/design/diamond.gif" width="10" height="20" align="absmiddle"></td>
-        <!-- ART -->
-        <td align="center" valign="middle" width="7%"><a href="/art/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image27','document.Image27','/images/navbar/art_ro.gif','#954119770546')"><img name="Image27" border="0" src="/images/navbar/art.gif" width="75" height="25"></a></td>
-        <td align="center" valign="middle" width="7%"><img src="/images/design/diamond.gif" width="10" height="20" align="absmiddle"></td>
-        <!-- MUSIC -->
-        <td align="center" valign="middle" width="7%"><a href="/music/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image28','document.Image28','/images/navbar/music_ro.gif','#954120055796')"><img name="Image28" border="0" src="/images/navbar/music.gif" width="75" height="25"></a></td>
-        <td align="center" valign="middle" width="7%"><img src="/images/design/diamond.gif" width="10" height="20" align="absmiddle"></td>
-        <!-- STORIES --> 
-        <td align="center" valign="middle" width="7%"><a href="/stories/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image29','document.Image29','/images/navbar/stories_ro.gif','#954119833781')"><img name="Image29" border="0" src="/images/navbar/stories.gif" width="75" height="25"></a></td>
-        <td align="center" valign="middle" width="7%"><img src="/images/design/diamond.gif" width="10" height="20" align="absmiddle"></td>
-        <!-- STORE -->
-        <td align="center" valign="middle" width="7%"><a href="/shop/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image31','document.Image31','/images/navbar/store_ro.gif','#954119913484')"><img name="Image31" border="0" src="/images/navbar/store.gif" width="75" height="25"></a></td>
-        <td align="center" valign="middle" width="7%"><img src="/images/design/diamond.gif" width="10" height="20" align="absmiddle"></td>
-      </tr>
-      </tbody></table>
+       <td background="/images/design/header_bg_line.gif" height="22">
+		<table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+		<td align="center" width="250"><img src="/images/design/header_tab_lg.gif" width="250" height="22" alt="large tab"></td>
+		<td align="center" width="100%">&nbsp;</td>
+		<td align="center" width="150"><a class="navbar" href="/cgi/common_room/Ultimate.cgi" onmouseover="changeImages('forum', 'forumOn')" onmouseout="changeImages('forum', 'forumDefault')"><img name="forum" src="/images/navbar/forum.gif" width="150" height="22" alt="Forums" border="0"></a></td>
+		<td align="center" width="150"><a class="navbar" href="/cgi/chat/" onmouseover="changeImages('chat', 'chatOn')" onmouseout="changeImages('chat', 'chatDefault')"><img name="chat" src="/images/navbar/chat.gif" width="150" height="22" alt="Chat Room" border="0"></a></td>
+		<td align="center" width="150"><a class="navbar" href="/support/faqs/" onmouseover="changeImages('faq', 'faqOn')" onmouseout="changeImages('faq', 'faqDefault')"><img name="faq" src="/images/navbar/faqs.gif" width="150" height="22" alt="Faqs" border="0"></a></td>
+		</tr>
+		</tbody></table>
+	</td>
+      </tr>              
+<!-- END DESIGN THING -->
+<!-- LARGE NAV BUTTONS -->
+      <tr>
+       <td width="100%" height="40">
+		<table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+		
+		<td align="center" width="20%"><a class="navbar" href="/"><img name="home" src="/images/navbar/home_new_ro.gif" width="80" height="28" align="absmiddle" border="0"></a></td>
+		<td align="center" valign="middle" width="15"><img name="cross" src="/images/bullets/cross.gif" width="15" height="15" align="absmiddle"></td>
+		<td align="center" width="20%"><a class="navbar" href="/art/" onmouseover="changeImages('art', 'artOn')" onmouseout="changeImages('art', 'artDefault')"><img name="art" src="/images/navbar/art_new.gif" width="80" height="28" align="absmiddle" border="0"></a></td>
+		<td align="center" valign="middle" width="15"><img src="/images/bullets/cross.gif" width="15" height="15" align="absmiddle"></td>
+		<td align="center" width="20%"><a class="navbar" href="/peddler/" onmouseover="changeImages('peddler', 'peddlerOn')" onmouseout="changeImages('peddler', 'peddlerDefault')"><img name="peddler" src="/images/navbar/peddler_new.gif" width="80" height="28" align="absmiddle" border="0"></a></td>
+		<td align="center" valign="middle" width="15"><img src="/images/bullets/cross.gif" width="15" height="15" align="absmiddle"></td>
+		<td align="center" width="20%"><a class="navbar" href="/magazine/" onmouseover="changeImages('mag', 'magOn')" onmouseout="changeImages('mag', 'magDefault')"><img name="mag" src="/images/navbar/mag_new.gif" width="80" height="28" align="absmiddle" border="0"></a></td>
+		<td align="center" valign="middle" width="15"><img src="/images/bullets/cross.gif" width="15" height="15" align="absmiddle"></td>
+		<td align="center" width="20%"><a class="navbar" href="/showcase.html" onmouseover="changeImages('showcase', 'showcaseOn')" onmouseout="changeImages('showcase', 'showcaseDefault')"><img name="showcase" src="/images/navbar/showcase_new.gif" width="80" height="28" align="absmiddle" border="0"></a></td>
+		</tr>
+		</tbody></table>  	
       </td>
       </tr>              
-      <!-- large nav buttons -->
-      <!-- small nav buttons -->
+<!-- LARGE NAV BUTTONS -->
+<!-- PAGE TITLE -->
       <tr>
-      	<td width="150" align="right" valign="top" bgcolor="#000000"><img src="/images/1pix.gif" width="150" height="15"></td>
-      	<td width="20" align="left" valign="top" bgcolor="#333333"><img src="/images/corner1.gif" width="20" height="15"></td>
-      	<td width="100%" align="left" valign="middle" bgcolor="#333333"><font class="smallgray">&nbsp;&nbsp;<b></b></font></td>
-      	<td height="15" align="right" valign="middle" bgcolor="#333333">
-      		<table border="0" width="100" cellpadding="0" cellspacing="0">
-      		<tbody><tr>
-      		<td><a href="/cgi/common_room/Ultimate.cgi"><img src="/images/navbar/common_room.gif" width="137" height="13" alt="Common Room" border="0"></a>&nbsp;</td>
- 	     	<td><a href="/radio/"><img src="/images/navbar/radio_sm.gif" width="137" height="13" alt="radio" border="0"></a>&nbsp;</td>
- 	     	<td><a href="/community/newsletter/newsletter.html"><img src="/images/navbar/raven.gif" width="137" height="13" alt="The Raven" border="0"></a>&nbsp;</td>
- 	     	<td><a href="/support/contact/contact.html"><img src="/images/navbar/contact.gif" width="137" height="13" alt="Contact" border="0"></a>&nbsp;</td>
- 	     	</tr>
- 	     	</tbody></table>
-      	</td>
+      	<td>
+      		<table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr><td width="150" align="right" valign="top"><img src="/images/1pix.gif" width="150" height="15"></td>
+		<td width="100%" align="left" valign="middle">&nbsp;&nbsp;&nbsp;<span class="heading"><b>Privacy Policy</b></span>&nbsp;</td>
+		</tr>
+		</tbody></table>
+	</td>
       </tr>
-      <!-- end small nav buttons -->
     </tbody></table>
 <!-- ============== END NAV BUTTONS AND AD BANNER ============== -->
 
@@ -197,92 +265,125 @@ function openAnyWindow(url, name) {
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" height="65%" align="center">
   <tbody><tr>
-   <td width="150" height="100%" valign="top" bgcolor="#000000">
+   <td width="150" height="100%" valign="top">
 <!-- ////////// NAV BAR  \\\\\\\\\\ -->
 <!-- ////////// NAV BAR  \\\\\\\\\\ -->
 <!-- ////////// NAV BAR  \\\\\\\\\\ -->
 
-	<table border="0" cellpadding="0" cellspacing="0" width="150" align="center">
-        <tbody><tr>
-          <td align="center" valign="top" bgcolor="#000000" width="150" height="15">
-          <a href="http://home.epilogue.net/"><img src="/images/navbar/login.gif" width="137" height="30" alt="member login" border="0"></a>
-          <br>
-          <a href="/support/sign_up/"><img src="/images/navbar/sign_up.gif" width="137" height="13" alt="member sign-up" border="0"></a>
-          <br>
-          <img src="/images/1pix.gif" width="150" height="1">          
-          </td>
-  	</tr>
-	</tbody></table>
+	<!-- WIDTH SPACER - do not remove! -->
+	<img src="/images/1pix.gif" width="150" height="2"><br>
+	
+	<!-- MEMBER LOGIN AREA -->
+	<div align="center">
+	<table border="0" cellpadding="1" cellspacing="0" width="136" align="center">
+	<tbody><tr>
+	<td bgcolor="#999999">
+		<table border="0" cellpadding="2" cellspacing="0" width="136" align="center">
+		<tbody><tr>
+		<td bgcolor="#000000" align="left" valign="top" width="100%">
+		&nbsp;<a href="http://home.epilogue.net" class="navbar">Member Login</a>
 		<br>
-<!-- MAIN SECTION LINKS -->
-<!-- MAIN SECTION LINKS -->
-	<table border="0" cellpadding="0" cellspacing="0" width="145" align="right">
-        <tbody><tr>
-          <td align="left" valign="top" bgcolor="#333333" width="145"><img src="/images/corner1.gif" width="20" height="15"></td>
-        </tr>  
-        <tr>
-	<!-- MAIN SECTION LINKS -->
-          <td align="left" valign="top" bgcolor="#333333" width="145">
-            <table border="0" cellpadding="2" cellspacing="0" width="100%" align="right">
-            <tbody><tr>
-            <td align="left" valign="top" bgcolor="#333333" width="100%">
-            &nbsp;&nbsp;<a href="/cgi/common_room/Ultimate.cgi" class="navbar">Forums</a>
-            <br>                        
-            &nbsp;&nbsp;<a href="/community/newsletter/newsletter.html" class="navbar"><i>"The Raven"</i></a>
-            <br>
-            &nbsp;&nbsp;<a href="/editors.html" class="navbar">Epilogue Editors</a>
-            <br>
-	    &nbsp;&nbsp;<a href="/community/recommend/recommend.html" class="navbar">Send to a friend</a>
-            <br>                          
-            <br>                        
-            &nbsp;&nbsp;<a href="/cgi/downloads/" class="navbar">Downloads</a>
-            <br>
-            &nbsp;&nbsp;<a href="/" class="navbar">Epilogue Home</a>
-            </td>
-            </tr>
-            </tbody></table>
-          </td>
-	<!-- END MAIN SECTION LINKS -->
-  	</tr>
-  
-  	 <tr>
-	<!-- FEATURED STORE ITEM -->
-          <td align="center" valign="top" bgcolor="#000000" width="145">
-          <!-- posted 10/13/00 -->
-<p>
-<a class="navbar" href="http://www.amazon.com/exec/obidos/ASIN/B00003CXE7/epilogue"><img src="http://images.amazon.com/images/P/B00003CXE7.01.THUMBZZZ.jpg" border="0" alt="Gladiator" width="47" height="60" vspace="7">
-<br>
-<i><b>Gladiator</b></i> on DVD</a>
-
-          </p></td>
-         </tr> 
+		&nbsp;<a href="/support/sign_up/" class="navbar">Become a Member</a>
+		<br>
+		&nbsp;<a href="/about.html" class="navbar">About Epilogue</a>
+		</td>
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
 	</tbody></table>
-<!-- END MAIN SECTION LINKS -->
-<!-- END MAIN SECTION LINKS -->
+	</div>
+	<!-- END MEMBER LOGIN AREA -->
 
+	<p>
+	<!-- SECTION LINKS -->
+	<table width="150" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td colspan="2" width="150"><img src="/images/design/boxes/section_top.gif" width="150" height="17"></td>
+	</tr>
+	<tr>
+	<td width="7" background="/images/design/boxes/comm_left.gif"><img src="/images/design/boxes/comm_left.gif" width="7" height="84"></td>
+	<td width="143" bgcolor="#333333"><p align="left" class="small">
+		<table border="0" cellpadding="0" cellspacing="0" width="143">
+		<tbody><tr>
+		<td align="left" valign="top" width="100%">
+		&nbsp;<a href="/art/" class="navbar">Art Galleries</a>
+		<br>
+		&nbsp;<a href="/peddler/" class="navbar">Peddler's Wagon</a>
+		<br>
+		&nbsp;<a href="/magazine/" class="navbar">Epilogue Magazine</a>
+		<br>
+		&nbsp;<a href="/showcase.html" class="navbar">Epilogue Showcase</a>
+		<br>
+		<br>
+		&nbsp;<a href="/" class="navbar">Epilogue Home</a>
+		<br>
+		</td>
+		</tr>
+		</tbody></table></p></td>
+	</tr>
+	<tr>
+	<td colspan="2" width="150"><img src="/images/design/boxes/section_bot.gif" width="150" height="19"></td>
+	</tr>
+	</tbody></table>
+	<!-- END SECTION LINKS -->
+	
+	<br>
+	
+	<!-- MISC LINKS -->
+	</p><div align="center">
+	<table border="0" cellpadding="1" cellspacing="0" width="136">
+	<tbody><tr>
+	<td bgcolor="#999999"><p align="left" class="small">
+		<table border="0" cellpadding="2" cellspacing="0" width="136" align="center">
+		<tbody><tr>
+		<td bgcolor="#000000" align="left" valign="top" width="100%">
+		&nbsp;<a href="/cgi/downloads/" class="navbar">Downloads</a>
+		<br>
+		&nbsp;<a href="/community/patrons/" class="navbar">Patrons</a>
+		<br>
+		&nbsp;<a href="/editors.html" class="navbar">Editors and Staff</a>
+		<br>
+		<img src="/images/design/boxes/comm_sep.gif" width="136" height="10" align="center">
+		&nbsp;<a href="/community/recommend/recommend.html" class="navbar">Send to a Friend</a>
+		<br>
+		&nbsp;<a href="/community/link.html" class="navbar">Link to Epilogue</a>
+		<br>
+		&nbsp;<a href="/support/advertise/advertise.html" class="navbar">Advertise</a>
+		<br>
+		&nbsp;<a href="/support/contact/contact.html" class="navbar">Contact</a>
+		</td>
+		</tr>
+		</tbody></table>
+	</p></td>
+	</tr>
+	</tbody></table>
+	</div>
+	<!-- END MISC LINKS -->
+	
+	<!-- Donate -->
+         <p align="center">
+         <a href="/community/patrons/"><img src="/images/donate.gif" width="110" height="23" alt="donate" border="0"></a>
+
+
+	
 <!-- ////////// END NAV BAR  \\\\\\\\\\ -->
 <!-- ////////// END NAV BAR  \\\\\\\\\\ -->
 <!-- ////////// END NAV BAR  \\\\\\\\\\ -->
-  </td>
+  </p></td>
 <!--/////////////// END NAV BAR \\\\\\\\\\\\\\\\\ -->
 
 <!--/////////////// CONTENT SECTION \\\\\\\\\\\\\\\\\ -->
 <!--/////////////// CONTENT SECTION \\\\\\\\\\\\\\\\\ -->
 <!--/////////////// CONTENT SECTION \\\\\\\\\\\\\\\\\ -->
   <td width="100%" valign="top" height="65%">
-  
+<!-- COLOR OUTLINE -->  
 	<table border="0" cellpadding="4" cellspacing="0" width="100%" height="100%">
 	  <tbody><tr>
 	  <td bgcolor="#333333" width="100%" height="100%" valign="top">
-	  
-	<table border="0" cellpadding="8" cellspacing="0" width="100%" height="100%">
-	  <tbody><tr>
-	  <td valign="top" width="100%" bgcolor="#EFE1CD">
-	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	      <img border="0" src="/images/bullets/star.gif" width="10" height="10">&nbsp; <font><b>Privacy Policy</b></font>&nbsp; <img border="0" src="/images/bullets/star.gif" width="10" height="10">
-	  </td></tr>
-	  <tr><td valign="top" width="100%" height="100%" bgcolor="#EFE1CD">   
-	  
+<!-- TAN BG -->	  
+		<table border="0" cellpadding="8" cellspacing="0" width="100%" height="100%">
+		  <tbody><tr><td valign="top" width="100%" height="100%" bgcolor="#cccccc">
 
 
 
@@ -333,7 +434,7 @@ seen and clicked on their advertisements.</font></p>
 For security reasons, and to automate login and member profile management, we use a "cookie" to
 store your Epilogue login information. Certain parts of this cookie will automatically expire 24 hours after login. All this means is that you will have re-enter your login information on the Member Login page if it has been more than a day since your last login.<br> 
 <br>
-A cookie is a small piece of information which a Web site stores in your Web
+A cookie is a small piece of information that a Web site stores in your Web
 browser and on your PC. We leave the cookie on your PC so that you will not have
 to re-enter your username and password on every page of your Member Home Page and Message Center.<br>
 <br>
@@ -385,14 +486,22 @@ information regarding special events, announcements, contests, etc.</font></p>
 receive mailings from Epilogue, simply click on the 'Unsubscribe' link at the
 bottom of the email. If this is not successful, please contact us at <a href="mailto:webmaster@epilogue.net">webmaster@epilogue.net</a>.</font></p>
 <p><font>We save your personal information until you are
-no longer a member of Epilogue. If you would like to remove yourself as a Epilogue
+no longer a member of Epilogue. If you would like to remove yourself as an Epilogue
 member, please email <a href="mailto:support@epilogue.net">support@epilogue.net</a>.
 Once you've left, we will delete your information from our active database.
 However, residual information will remain on our archived database and records,
 but it will not be used for commercial purposes.</font></p>
 
 
-	</td></tr>
+<a name="ads"></a>
+<p><b>3rd Party Served Advertising</b><br>
+</p><p>Epilogue.net uses 3rd Party advertising agencies to handle selling and filling of advertising space on the web site.
+Each 3rd party company has its own privacy practices and policies. Follow these links for more information:<br>
+<a href="http://www.adtegrity.com/privacy.asp">Adtegrity</a><br>
+<a href="https://www.burstmedia.com/release/privacy.asp">Burst!</a><br>
+<a href="http://www.fastclick.com/about/privacy.html">Fastclick</a><br>
+
+	</p></td></tr>
 	</tbody></table>
    </td>
    </tr>
@@ -414,37 +523,39 @@ but it will not be used for commercial purposes.</font></p>
 <table border="0" width="100%" align="center" cellpadding="0" cellspacing="0">
   
   <tbody><tr>
-    <td width="150" align="center" valign="top" bgcolor="#000000">
-    <a href="/support/legal/copyright.html"><font class="smallgray">Copyright ©2001</font></a>
-    <br>
-    <img src="/images/1pix.gif" width="150" height="1"></td>
-    <td width="100%" bgcolor="#000000">
-      <table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
-      <tbody><tr>
-        <td width="33%" height="20" align="center" valign="middle"><a href="/community/recommend/recommend.html" class="header"><b>Recommend this page!</b></a></td>
-        <td height="20" align="center" valign="middle"><img src="/images/design/diamond.gif" width="10" height="20"></td>
-	<td width="33%" height="20" align="center" valign="middle"><a href="/support/legal/privacy.html" class="header"><b>Privacy Policy</b></a></td>
-        <td height="20" align="center" valign="middle"><img src="/images/design/diamond.gif" width="10" height="20"></td>
-	<td width="33%" height="20" align="center" valign="middle"><a href="/support/advertise/advertise.html" class="header"><b>Advertise</b></a></td>
-      </tr>
-      </tbody></table>
-    </td>
+    <td align="center" valign="top"><img src="/images/1pix.gif" width="150" height="15"></td>
   </tr>
   
-  <!--/////////////// 1 pix bars \\\\\\\\\\\\\\\\\ -->
+<!--/////////////// 1 pix bars \\\\\\\\\\\\\\\\\ -->
 <tr>
-<td align="center" width="100%" height="1" bgcolor="#666666" colspan="2"><img src="/images/1pix.gif" width="1" height="1"></td>
+<td align="center" width="100%" height="1" bgcolor="#666666"><img src="/images/1pix.gif" width="1" height="1"></td>
 </tr><tr>
-<td align="center" width="100%" height="1" bgcolor="#333333" colspan="2"><img src="/images/1pix.gif" width="1" height="1"></td>
+<td align="center" width="100%" height="1" bgcolor="#333333"><img src="/images/1pix.gif" width="1" height="1"></td>
 </tr><tr>
-<td align="center" width="100%" height="1" bgcolor="#000000" colspan="2"><img src="/images/1pix.gif" width="1" height="1"></td>
+<td align="center" width="100%" height="1" bgcolor="#000000"><img src="/images/1pix.gif" width="1" height="1"></td>
 </tr>
 <!--/////////////// End 1 pix bars \\\\\\\\\\\\\\\\\ -->
 
 
+<!--/////////////// COPYRIGHT \\\\\\\\\\\\\\\\\ -->
+<tr>
+<td align="center" width="100%" bgcolor="#000000" colspan="2">
+<br><br>
+<img src="/images/slogan.jpg" width="125" height="70" alt="Fantasy and Sci-fi at their best©">
+<br>
+<a href="/support/legal/copyright.html"><font class="copyright">All content, including artwork, is protected by Copyright.
+<br>
+Epilogue, Epilogue Magazine, Epilogue Showcase, and The Peddler's Wagon are Copyright ©2002.
+</font></a>
+<br><br>
+</td>
+</tr>
+<!--/////////////// END COPYRIGHT \\\\\\\\\\\\\\\\\ -->
+
 </tbody></table>
 
-     
 
       
-      </body></html>
+      
+
+</body></html>
