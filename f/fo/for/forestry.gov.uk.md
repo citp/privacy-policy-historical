@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208164904id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603101711id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
 
 # Forestry Commission - Privacy Policy
 
@@ -56,7 +56,7 @@ Although most of our site does not require you to register there are a few areas
 
 **Cookies and Log Files**
 
-Cookies are pieces of data that can be automatically created on your computer when you visit a website. We do not use cookies on our website. 
+Cookies are pieces of data that can be automatically created on your computer when you visit a website. We do use cookies in some parts of this site but only to help you to use the site (for example, in the picture library to keep your lightbox for your next visit). We do not collect any information about you using cookies. 
 
 Log files allow us to record visitors' use of the site which we use to make changes to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you or information about which other sites you have visited. 
 
@@ -86,4 +86,4 @@ Post:
 
 September 2001
 
-[print friendly version](https://web.archive.org/website/oldsite.nsf/LUPrintDocsByKey/INFD-52YBS4) | [privacy policy](https://web.archive.org/forestry/infd-52ybs4) | [© Crown Copyright 2003](https://web.archive.org/forestry/HCOU-4UBEJZ)
+[print friendly version](https://web.archive.org/website/oldsite.nsf/LUPrintDocsByKey/INFD-52YBS4) | [privacy policy](https://web.archive.org/forestry/infd-52ybs4) | [© Crown Copyright 2004](https://web.archive.org/forestry/HCOU-4UBEJZ)
