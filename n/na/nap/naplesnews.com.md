@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628222307id_/http%3A//www.naplesnews.com/cgi-bin/sendto.pl%3Flocation%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605110333id_/http%3A//web.naplesnews.com/sections/help/privacy.html) for the most accurate reproduction.*
 
 # naplesnews.com | Privacy Policy
 
@@ -60,14 +60,14 @@ At any time while assessing our sites, any user while online may "opt-out" of fu
 **  
 VII. Use of Materials**
 
-The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [info@naplesnews.com](mailto:info@naplesnews.com). To read the full Terms of Use Agreement pertaining to use of our sites, please [click here](http://www.naplesnews.com/cgi-bin/sendto.pl?location=copyright).
+The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [info@naplesnews.com](mailto:info@naplesnews.com). To read the full Terms of Use Agreement pertaining to use of our sites, please [click here](https://web.archive.org/cgi-bin/sendto.pl?location=copyright).
 
 **Navigation:**  
 [Go to today's front page](http://www.naplesnews.com/)  
 
 
 **Feedback:**  
-[AP link: The latest news from Iraq](http://www.naplesnews.com/sections/iraq/front.html)  
+[AP link: The latest news from Iraq](https://web.archive.org/sections/iraq/front.html)  
 [E-mail the naplesnews.com staff](mailto:info@naplesnews.com)  
 [Write a letter to the editor](https://web.archive.org/cgi-bin/sendto.pl?location=letters)  
 [View our directory of Daily News staff](https://web.archive.org/cgi-bin/sendto.pl?location=directory)  
