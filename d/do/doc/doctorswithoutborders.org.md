@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203010641id_/http%3A//www.doctorswithoutborders.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626080926id_/http%3A//www.doctorswithoutborders.org/privacy.shtml) for the most accurate reproduction.*
 
 # MSF-USA: Privacy Policy
 
@@ -30,4 +30,4 @@ Doctors Without Borders may amend this privacy policy from time to time. If we m
 
 QUESTIONS OR SUGGESTIONS
 
-It is important to us at Doctors Without Borders to hear what visitors have to say about our services or our policies. If site visitors have any questions, concerns, or complaints about this privacy policy, or want to let us know what they think about our products and services, please send an email to [webmaster-nyc@msf.org](mailto:webmaster-nyc@msf.org).
+It is important to us at Doctors Without Borders to hear what visitors have to say about our services or our policies. If site visitors have any questions, concerns, or complaints about this privacy policy, or want to let us know what they think about our products and services, please send an email to the webmaster by clicking here.
