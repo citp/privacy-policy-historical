@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesstraveller.com privacy policy that was archived on 2002-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020428180800id_/http%3A//businesstraveller.com/about/privacy.epml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesstraveller.com privacy policy that was archived on 2002-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020821082646id_/http%3A//www.businesstraveller.com/about/privacy.epml) for the most accurate reproduction.*
 
 # Business Traveller | Privacy Policy
 
