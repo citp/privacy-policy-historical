@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiamike.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202212313id_/http%3A//indiamike.com/india/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamike.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610103543id_/http%3A//www.indiamike.com/india/privacy.php) for the most accurate reproduction.*
 
 # India Travel Forum Privacy Policy
 
