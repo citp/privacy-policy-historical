@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204220716id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630085117id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
 
 # Monster - Privacy Commitment
 
@@ -23,9 +23,9 @@ We also gather or may gather certain information about your use of our site, suc
 
 Monster may sometimes afford you the opportunity to provide descriptive, cultural, behavioral, preferential and/or life style information about yourself, but it is solely up to you whether you furnish such information. If you do provide such information, you are thereby consenting to the use of that information in accordance with the policies and practices described in this Statement. For example, such information may be used for the purpose of determining your potential interest in receiving email or other communications about particular products or services. 
 
-Please remember that if you post any of your personal information in public areas of Monster, such as in online forums or chat rooms, such information may be collected and used by others over whom Monster has no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of Monster. 
+Please remember that if you post any of your personal information in public areas of Monster, such as in online forums or chat rooms, in Monster Networking, or in the searchable resume database, such information may be collected and used by others over whom Monster has no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of Monster. 
 
-Since we believe that managing your career is a life-long process, we retain indefinitely all the information we gather about you in an effort to make your repeat use with us more efficient, practical, and relevant. Of course, you can correct or update your MyMonster account profile and resume at any time. Moreover, you can delete your resume from our online database or close your MyMonster account at any time, in which event we will remove all our copies of your resume and MyMonster account profile information except for an archival copy which is not accessible on the Internet. 
+Since we believe that managing your career is a life-long process, we retain indefinitely all the information we gather about you in an effort to make your repeat use with us more efficient, practical, and relevant. Of course, you can correct or update your MyMonster account profile, resume and your Monster Networking profile at any time. Moreover, you can delete your resume from Monster's online database, remove your Monster Networking profile or close your MyMonster and/or Monster Networking account(s) at any time, in which event we will remove all our copies of your resume, MyMonster or Monster Networking account profile information and Monster Networking profile information except for an archival copy which is not accessible on the Internet. 
 
 **Use of Information by Monster**
 
@@ -35,11 +35,11 @@ We may also use the information we gather to inform you of other products or ser
 
 We may use your contact information in order to send you e-mail or other communications regarding updates at the Monster site, such as new Monster opportunities and additional listings which may be of interest to you. The nature and frequency of these messages will vary depending upon the information we have about you. In addition, at the time of registration for MyMonster, you have the option to elect to receive additional communications, information and promotions including without limitation free informational newsletters from Monster relating to topics that may be of special interest to you, such as career management advice. 
 
-We have an area where you can submit feedback. Any feedback you submit in this area becomes our property, and we can use such feedback (such as success stories) for marketing purposes or contact you for further information. 
+We have an area where you can submit feedback. Any feedback you submit in this area becomes our property, and we can use such feedback (such as success stories) for marketing purposes or to contact you for further information. 
 
 **Disclosure of Information to Others**
 
-We do not disclose to third parties your personal information, combined personal and demographic information or information about your use of a Monster Web site (such as the areas you visit or the services you access), except as set forth in the following four subparagraphs. 
+We do not disclose to third parties your personal information, combined personal and demographic information or information about your use of a Monster Web site (such as the areas you visit or the services you access), except as set forth below. 
 
   1.    We may disclose such information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the products or services of third parties at the time you register for a MyMonster account, we may supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We may use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the products or services of a particular third-party 
   2.    We may disclose such information to companies and individuals we employ to perform functions on our behalf. Examples may include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party. 
@@ -47,6 +47,8 @@ We do not disclose to third parties your personal information, combined personal
   4.    We may disclose and transfer such information to a third party who acquires all or a substantial portion of Monster's business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event Monster becomes the subject of a bankruptcy proceeding, whether voluntary or involuntary, Monster or its trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court. 
 
 
+
+If you have a Monster Networking profile, other users of Monster Networking may access your profile, however, they will not have access to contact information which is not displayed in any Monster Networking profile. 
 
 Monster may also share aggregated anonymous information about visitors to each of its Web sites (for example, the number of visitors to Monster's Diversity area) with its clients, partners and other third parties so that they may understand the kinds of visitors to Monster's site and how those visitors use the site. 
 
@@ -60,12 +62,12 @@ If you apply for a position through a co-branded site, you may be asked to provi
 
 Since Monster is a career site, we give you the option of putting your resume in our database. There are two ways of doing this: 
 
-  1. can store your resume in our database, but not allow it to be searchable by potential employers. Not allowing your resume to be searchable means that you can use it to apply for a job online, but employers and recruiters will not have access to search it through our resume database product. 
-  2. If you allow your resume to be searchable, then all parties with access to our searchable resume database (or copies thereof) will have access to your resume. 
+  1. You can store your resume in our database, but not allow it to be searchable by potential employers. Not allowing your resume to be searchable means that you can use it to apply for a job online, but employers and recruiters will not have access to search it through our resume database product. 
+  2. If you allow your resume to be searchable, then all parties with access to our searchable resume database (or copies thereof) will have access to your resume. Additionally, portions of your searchable resume (but not your contact information) may be made public in your Networking profile on Monster Networking.
 
 
 
-We attempt to limit access to our searchable resume database (or copies thereof) only to paying employers, recruiters, hiring managers, headhunters, and human resource professionals, as well as law enforcement and national security agencies, but cannot guarantee that other parties will not gain access to this database. We are not responsible for the use made of resumes by third parties who access such resumes while they are in our searchable database. You may remove your resume from our searchable database at any time. However, employers, recruiters and others who have paid for access to that database or to obtain a copy of that database, as well as parties who have otherwise gained access to the database, may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use or privacy of resumes in these instances. 
+We attempt to limit access to our searchable resume database (or copies thereof) only to paying employers, recruiters, hiring managers, headhunters, and human resource professionals, as well as law enforcement and national security agencies, but cannot guarantee that other parties will not gain access to this database. We are not responsible for the use made of resumes by third parties who access such resumes while they are in our searchable database. However, the portions of your searchable resume (not your contact information) that are automatically made public in your Networking profile on Monster Networking are accessible to anyone who uses the Monster Networking product. You may remove your resume from our searchable database, or delete your profile from Monster Networking, at any time. However, employers, recruiters and others who have paid for access to that database or to obtain a copy of that database, as well as parties who have otherwise gained access to the database, and those who have accessed Monster Networking, may have retained a copy of your resume or Networking profile in their own files or databases. We are not responsible for the retention, use or privacy of resumes or profiles in these instances. 
 
 **Use of Cookies**
 
@@ -108,3 +110,5 @@ Monster is a name under which Monster, Inc., a Delaware corporation with its pri
 We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [notification@Monster.com](mailto:notification@Monster.com) or by calling us at 1-800-MONSTER. We will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 Thank you for using Monster.com. 
+
+Update effective February 26, 2004.
