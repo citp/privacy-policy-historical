@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020957id_/http%3A//www.baja.com/pany/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401232943id_/http%3A//www.baja.com/pany/privacy.htm) for the most accurate reproduction.*
 
 # baja.com / privacy statement
+
+  
+
 
 |   **Acknowledgment and Acceptance of the ** **baja.com**** Privacy Statement**  
 ---  
@@ -14,23 +17,23 @@ There are several independent organizations whose mission is to build users' tru
 
 4\. With whom the information may be shared 
 
-5\. W hat choices are available to you regarding collection, use and distribution       of the information 
+5\. What choices are available to you regarding collection, use and distribution       of the information 
 
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under (Name of the Company) control.
+6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under **baja.com's** control.
 
 7\. How you can correct any inaccuracies in the information. 
 
 If you have questions or concerns regarding this statement, you should first contact William Abong, Esq. by email at privacy @ baja.com or write: 
 
-**baja.com** /pany, 244 Madison Avenue #424, New York, NY, 10016. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact your mom. Please understand this program only covers the English language parts of the site. 
+**baja.com** /pany, 244 Madison Avenue, New York, NY, 10016. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact your mom. Please understand this program only covers the English language parts of the site, while our Castellano still sucks.
 
-**Information Collection, Use and Sharing**
+ **Information Collection, Use and Sharing**
 
-**baja.com** collects personally identifiable information about individuals like you, when such individuals specifically provide such information on avoluntary basis. 
+**baja.com** collects personally identifiable information about individuals like you, when such individuals specifically provide such information on a voluntary basis. 
 
-**baja.com** collects such personal information as email, name, city, state, country, website, interests, and ICQ number. Whenever you submit your personally identifiable information, such as your email, we share this information with tecnosocios.com who provides targeted offers usually based on your preferences that you checked off at registration. We do this so **our content remains free of charge, unbiased, not advertiser driven; *meaning: _you won't_ be bombarded with annoying ad banners or misled by editorial hyperbole.** Such personally identifiable information is typically gathered from a contest or sweepstakes registration. The registration process for subscription sites or services and in connection with content submissions, community postings e.g., chat and bulletin boards, suggestions, classifieds, counters, postcards, add-a-link, voting/polling activities and promotional and transactional areas. At such points of collection, the user will be notified of the sharing of personal information for receiving promotional material from third parties. If you do not want to have your information shared or used by tecnosocios.com, see our "Choice/Opt-Out" section below.
+**baja.com** collects such personal information as email, name, city, state, country, website, interests, and ICQ number. Whenever you submit your personally identifiable information, such as your email, we share this information with doggydog.com who provides targeted offers usually based on your preferences that you checked off at registration. We do this so **our content remains free of charge, unbiased, not advertiser driven; *meaning: _you won't_ be bombarded with annoying ad banners or misled by editorial hyperbole.** Such personally identifiable information is typically gathered from a contest or sweepstakes registration. The registration process for subscription sites or services and in connection with content submissions, community postings e.g., chat and bulletin boards, suggestions, classifieds, counters, postcards, add-a-link, voting/polling activities and promotional and transactional areas. At such points of collection, the user will be notified of the sharing of personal information for receiving promotional material from third parties. If you do not want to have your information shared or used by doggydog.com, try to find our "Choice/Opt-Out" section. LOL
 
- **baja.com** offers unique, sometimes co-branded services such as secure web-based, encrypted email as a partner of hush.com at no cost to its users, in exchange for each individual user's qualified permission to receive targeted commercial offers from time to time from Commission Junction, who collects such data on behalf of hush.com and/or tecnosocios.com who manages **baja.com** 's subscriber information. Further, notwithstanding any opt out of promotional information by the user, **baja.com** reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected. However, these service contacts will not be promotional in nature. **baja.com** reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas ofthe site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their silly advertising banners. **baja.com** will provide only aggregated data from these analyses to third parties.Also, users should be aware that **baja.com** sometimes permits third parties to offer subscription and/or registration-based services through a **baja.com** site, including sites that are co-branded with the **baja.com** look and feel. In these cases frame sets are often used to provide content from third parties. Users may always check the "properties" function to determine what site they are on by right clicking on the pages they visit. Consult your browser's help function to learn more. **baja.com** is not responsible for any actions or policies of such third parties andusers should check the applicable privacy policy of such parties when providing personally identifiable information. 
+ **baja.com** offers unique, sometimes co-branded services such as secure web-based, encrypted email as a partner of hush.com at no cost to its users, in exchange for each individual user's qualified permission to receive targeted commercial offers from time to time from certain affiliate programs, who collects such data on behalf of hush.com and/or doggydog.com who manages **baja.com** 's subscriber information. Further, notwithstanding any opt out of promotional information by the user, **baja.com** reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected. However, these service contacts will not be promotional in nature. **baja.com** reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas ofthe site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their silly advertising banners. **baja.com** will provide only aggregated data from these analyses to third parties.Also, users should be aware that **baja.com** sometimes permits third parties to offer subscription and/or registration-based services through a **baja.com** site, including sites that are co-branded with the **baja.com** look and feel. In these cases frame sets are often used to provide content from third parties. Users may always check the "properties" function to determine what site they are on by right clicking on the pages they visit. Consult your browser's help function to learn more. **baja.com** is not responsible for any actions or policies of such third parties andusers should check the applicable privacy policy of such parties when providing personally identifiable information. 
 
 **Sub Sites**
 
@@ -66,4 +69,6 @@ Although we make every effort to preserve your privacy as described above we may
 
 Last updated July 11 -2002  
   
- 
+   
+  
+[ ](http://publicidad.baja.com/progs/redirect.cgi?AD=baja_group)
