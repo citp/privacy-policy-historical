@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603002434id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204104449id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
 
 # ILRG.com: Privacy Policy
 
@@ -6,21 +6,21 @@
 
 **NOTICE:[ Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
 
-The ILRG.com website promotes trust, privacy and security as core attributes of our service to our user. ILRG.com has adopted this Policy to communicate clearly our firm commitment to your privacy. It is this respect for user privacy that is a fundamental component to the ILRG.com mission. This Policy is applicable to the ILRG.com website and any other website or online communications facilities owned or operated by ILRG.com or [Maximilian Ventures LLC](http://www.maximilian.net/), a Delaware Corporation authorized to conduct business in the State of Texas. ILRG.com reserves the right to change this Policy at any time. Using our website demonstrates your consent to ILRG.com's collection and use of information pursuant to this Policy, and continued use of this site following the posting of changes to this Policy will signify your acceptance of such changes. This Policy governs the use of your name, e-mail address, payment information, and similar personal information that you may provide ILRG.com in the course of using our website, products or services. 
+The ILRG.com website promotes trust, privacy and security as core attributes of our service to our user. ILRG.com has adopted this Policy to communicate clearly our firm commitment to your privacy. It is this respect for user privacy that is a fundamental component to the ILRG.com mission. This Policy is applicable to the ILRG.com website and any other website or online communications facilities owned or operated by ILRG.com or [Maximilian Ventures LLC](http://www.maximilian.net/), a Delaware limited liability company. ILRG.com reserves the right to change this Policy at any time. Using our website demonstrates your consent to ILRG.com's collection and use of information pursuant to this Policy, and continued use of this site following the posting of changes to this Policy will signify your acceptance of such changes. This Policy governs the use of your name, e-mail address, payment information, and similar personal information that you may provide ILRG.com in the course of using our website, products or services. 
 
 **ILRG.com Collects Personal Information.** We collect personal information in order to provide certain products and services to its customers. For example, if you: 
 
   * Place a product order, ILRG.com will collect and use your name, address, phone number, e-mail address, and credit card information; 
   * Request promotional items, ILRG.com will collect and use your name and address, or e-mail address; 
-  * Post information on any of our interactive areas, ILRG.com will collect information from you in order to e-mail you major updates about Internet Legal Resource Guide, the products and services; 
-  * Sign-up for the Internet Legal Resource Guide mailing list, ILRG.com will collect information from you to facilitate the publishing of that mailing list; and 
+  * Post information on any of our interactive areas, ILRG.com will collect information from you in order to e-mail you major updates about Internet Legal Research Group, the products and services; 
+  * Sign-up for the Internet Legal Research Group mailing list, ILRG.com will collect information from you to facilitate the publishing of that mailing list; and 
   * Send our link to others through our website, ILRG.com will collect the information from you only for the purpose of facilitating the transmission of the e-mail. 
 
 
 
 Information that you submit about yourself may be used by ILRG.com to provide you requested services, communicate with you about ILRG.com products, improve your online experience, or support our continuing efforts to offer you the information and services you want most. Currently, we do not share your specific information with non-affiliated companies or organizations outside of ILRG.com without your permission. ILRG.com does, however, provide aggregate statistics and information about our sales, traffic patterns and related site information to third parties. You are responsible for checking this Policy periodically to monitor any changes to our data sharing practices. 
 
-In addition, ILRG.com may, and you hereby authorize us to, disclose your personal information when required to do so by law, when ILRG.com, in its sole discretion believes that you are in violation of our  [Terms of Service Agreement](http://www.ilrg.com/terms/), or when you violate any state, federal law, or international laws, or ILRG.com in its sole discretion deems it necessary or appropriate to protect the personal safety of other users of ILRG.com services or to protect the rights or property of ILRG.com or Internet Legal Resource Guide. 
+In addition, ILRG.com may, and you hereby authorize us to, disclose your personal information when required to do so by law, when ILRG.com, in its sole discretion believes that you are in violation of our  [Terms of Service Agreement](http://www.ilrg.com/terms/), or when you violate any state, federal law, or international laws, or ILRG.com in its sole discretion deems it necessary or appropriate to protect the personal safety of other users of ILRG.com services or to protect the rights or property of ILRG.com or Internet Legal Research Group. 
 
 **ILRG.com's E-mail Announcements and Newsletters.** ILRG.com occasionally uses e-mail to send announcements regarding new products, services, and/or promotions, and informational newsletters that would be of interest to our customers. Announcements via email are on an opt-in basis only. By posting material on any of our interactive areas, you are opting in to receiving these e-mail announcements. You can choose to unsubscribe to ILRG.com e-mail at any time by visiting [ http://www.ilrg.com/updates](http://www.ilrg.com/updates). ILRG.com will also send replies to customer e-mail via e-mail. Finally, if you have sent a request to ILRG.com about which we need to communicate with you, we may do so by e-mail. 
 
@@ -34,7 +34,7 @@ In addition, ILRG.com may, and you hereby authorize us to, disclose your persona
 
 **A Special Note about Children.** Children are not eligible to use our services, and ILRG.com asks that minors (under the age of 18) do not submit any personal information to ILRG.com. If you are a minor, you can use this service only in conjunction with your parents or guardians.
 
-The Site is owned and operated by [Maximilian Ventures LLC](http://www.maximilian.net/), 3811 Rawlins Street, Dallas, Texas 75219, United States of America; 1+815-301-3766 (voicemail only) or 1+860-540-8159 (fax).
+The Site is owned and operated by [Maximilian Ventures LLC](http://www.maximilian.net/), 2711 Centerville Road, Suite 120-5800, Wilmington, Delaware 19808, United States of America; 1+815-301-3766 (voicemail only) or 1+860-540-8159 (fax).
 
   
 |    |    
