@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408212339id_/http%3A//teenhollywood.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004094653id_/http%3A//www.teenhollywood.com/privacy.asp) for the most accurate reproduction.*
 
 # TEENHOLLYWOOD.COM - Privacy Policy
 
 |    
-  
-A member of the [](http://www.totalwoman.com/)  
-Network  
 |    
 |   
 ---  
