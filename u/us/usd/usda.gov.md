@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601120556id_/http%3A//www.usda.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203020013id_/http%3A//www.usda.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # USDA Privacy Policy
 
@@ -46,7 +46,7 @@ Information presented on the USDA website is considered public information and m
 
 **Comments or Questions**
 
-If you have any comments or questions about the information presented here please forward them to [howard.baker@usda.gov](mailto:howard.baker@usda.gov)
+If you have any comments or questions about the information presented here please forward them to [Lesia.Banks@usda.gov](mailto:howard.baker@usda.gov)
 
 [Children's Online Privacy Protection Act of 1998](http://cio.gov/Documents/COPPA_Act_1998.html)
 
