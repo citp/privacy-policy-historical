@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603113237id_/http%3A//www.365corp.com/Legal_and_Privacy_Policy/page_9.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201164944id_/http%3A//www.365corp.com/Legal_and_Privacy_Policy/page_9.shtml) for the most accurate reproduction.*
 
 # 365 Corporation plc
 
@@ -8,7 +8,7 @@
 
 From time to time, we add or change functions, features or products to our Web Sites or add or change Services.  This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy.  As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
 
- Any questions regarding our Privacy Policy should be directed to 365’s Privacy Policy Manager at [Privacy@365.co.uk](mailto:Privacy@365.co.uk), or alternatively see the section "[Comments](http://www.365corp.com/Legal_and_Privacy_Policy/page_9.shtml#com)" below. 
+ Any questions regarding our Privacy Policy should be directed to 365’s Privacy Policy Manager at [Privacy@365corp.com](mailto:Privacy@365corp.co), or alternatively see the section "[Comments](http://www.365corp.com/Legal_and_Privacy_Policy/page_9.shtml#com)" below. 
 
 **Your acceptance of these Privacy Statement terms**
 
@@ -52,7 +52,7 @@ Cookies are pieces of information that a Web Site transfers to your hard drive t
 
 **With whom is the information shared?**
 
-365 will not sell or rent your personal information to third parties.  However, we may disclose your personal information to third party suppliers who provide services on our behalf. 
+We may disclose your personal information to third party suppliers who provide services on our behalf and/or to other companies within 365's group, some of which are located outside of the EEA. 
 
 365 may disclose aggregate statistics about our sales, our Web Site visitors and customers of our telephone services in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will not include personally identifying information. 
 
@@ -67,7 +67,7 @@ Our Web Site contains links to the sites of third parties.  When you visit thes
 
 It is very important to us that we provide you with the highest level of service.  In order to help us do this, from time to time 365 companies may send you details of our products and services which we think may be of interest to you.  If at any time you do not wish to receive these details, [please click here.](mailto:Privacy@365.co.uk)
 
-**Security**
+ **Security**
 
 365 places a great importance on the security of all information associated with our customers. We have security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control.  For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to user information. With regard to our Web Sites, we use secure server software (SSL) to encrypt financial information you input before it is sent to us.  While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use our best efforts to prevent this. 
 
@@ -75,34 +75,16 @@ It is very important to us that we provide you with the highest level of service
 
 Information which you submit via our Web Sites or our telephone services is stored on a computer located in the European Economic Area.  This is necessary in order to process the information and to send you any information you have requested.  Information submitted by you may be transferred by us to our other offices and to reputable third party suppliers, which may be situated outside the European Economic Area.  Not all countries outside the EEA have data protection or privacy laws.  In addition, if you use our Services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those Services.
 
-**Specific Services**
+ **Specific Services**
 
-**Sensitive personal information**
-
-Certain of our Web Sites ask you for sensitive personal information. For example, Personals365 and Gay365 ask you questions about your preferences about a prospective partner and so on.  By completing and submitting that particular information, you are consenting to 365 processing it in accordance with this Privacy Policy.
-
-**Public forums on 365's web-sites**
+ **Public forums on 365's web-sites**
 
 Some of our Web Sites make chat rooms, forums, message boards, and/or news groups available to their users.  Any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Audiotext Service**
+ **Audiotext Service**
 
 As these services necessarily entail chat rooms, they are public forums. You should not disclose your address or telephone number when recording your initial message. Any information you do disclose while using this service (apart from information given to us for the purpose of opening an account) becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Opening an Account**
-
-If you wish to open an account with 365, you will be asked to submit information such as your name, address and credit card details. This information will be held by us in accordance with our Privacy Policy.
-
-**Tarot Service on Future365**
-
-365 does not automatically process any personal information relating to the customers of its Tarot service. Customers will however be asked if they wish to receive information from us about existing and new products and services. If customers do wish to receive such information, they will be asked to submit their name, postal address and/or email address and maybe their interests and hobbies also. This information will be held by us in accordance with our Privacy Policy. It will not be disclosed to third parties.
-
-**Comments**
+ **Comments**
 
 Please e-mail any questions, concerns or comments you have about our Privacy Policy to [Privacy@365.co.uk](mailto:Privacy@365.co.uk) or write to us at: 
-
-Privacy  
-365 Corporation plc  
-52 Gloucester Place  
-London  
-W1H 3HJ 
