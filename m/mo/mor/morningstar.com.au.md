@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningstar.com.au privacy policy that was archived on 2002-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021108030936id_/http%3A//www.morningstar.com.au/templateslocal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.com.au privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609205031id_/http%3A//www.morningstar.com.au/templateslocal/privacypolicy.asp) for the most accurate reproduction.*
 
 # Morningstar Australia: Privacy Policy
 
