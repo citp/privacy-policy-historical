@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomsforafrica.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210113222id_/http%3A//www.roomsforafrica.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomsforafrica.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401101614id_/http%3A//www.roomsforafrica.com/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Accommodation Directory for South Africa - Rooms For Africa
 
