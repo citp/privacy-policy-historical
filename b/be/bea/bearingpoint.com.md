@@ -1,17 +1,9 @@
-> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607175028id_/http%3A//www.bearingpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023615id_/http%3A//bearingpoint.com/privacy.html) for the most accurate reproduction.*
 
 # BearingPoint - Privacy Policy
 
-|   
----  
-  
-©2003 BearingPoint, Inc.  
-All rights reserved.  
-BearingPoint, Inc. was formerly known as KPMG Consulting, Inc. The local KPMG Consulting affiliate in each country is undergoing a name change and will continue doing business under its current name until its name change has been completed and confirmed.   
-+1 (866) BRNGPNT  
-+1 (703) 747-6748 from outside the U.S. and Canada  
-[**Legal Disclaimer** |](https://web.archive.org/legal.html) [**Privacy Policy**](https://web.archive.org/privacy.html)  
-  
+| 
+
 BearingPoint Inc. and its affiliates (“BearingPoint”) are committed to protecting your privacy. This Privacy Policy applies to activities directly related to your visit of the BearingPoint websites. It does not apply to third parties’ websites linked through BearingPoint website. We strongly recommend that you read these third parties’ privacy policies prior to providing any information to such sites. BearingPoint has no responsibility or liability in connection with any third parties’ websites.
 
 **Collection, Use and Transfer of Your Information**  
