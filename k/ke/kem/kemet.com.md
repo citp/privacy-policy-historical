@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621074556id_/http%3A//www.kemet.com/kemet/web/homepage/kechome.nsf/vabypagename/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203233100id_/http%3A//www.kemet.com/kemet/web/homepage/kechome.nsf/vabypagename/privacy) for the most accurate reproduction.*
 
 # KEMET Electronics - KEMET Privacy Statement
 
@@ -9,8 +9,8 @@
   | [Employment](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/employ)  
   | [How to Contact Us](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/contact)  
   | [Directions](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/direct)  
-  | [QS/ISO Certificates and Quality Manual](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/qs_iso)  
   | [Terms and Conditions of Sale](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/terms)  
+  | [QS/ISO Certificates and Quality Manual](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/qs_iso)  
   | [Webmaster's Favorites](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/links)  
   
 **Site Tools**   |  [Site Map](https://web.archive.org/kemet/web/homepage/kechome.nsf/vasitemap?openview&Start=1&Count=50&ExpandView)  
@@ -57,10 +57,10 @@ This site contains links to other sites; www.kemet.com is not responsible for th
 
 
 [Back to Top]   
-[Give Us Your Feedback on Our Site!](https://web.archive.org/kemet/web/homepage/kfbk.nsf/DisplayFeedbackForm?OpenForm) [Home](https://web.archive.org/kemet/web/homepage/kechome.nsf/) | [News](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/news) | [Products](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/products) | [myKEMET](https://web.archive.org/kemet/web/extranet/mykemet.nsf) | [Customer Service](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/cservice) |   
+[Need More Help?](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/contact) [Home](https://web.archive.org/kemet/web/homepage/kechome.nsf/) | [News](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/news) | [Products](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/products) | [myKEMET](https://web.archive.org/kemet/web/extranet/mykemet.nsf) | [Customer Service](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/cservice) |   
 [Corporate Information](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/corpinfo) | [Site Help](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/help) |   
 [Site Map](https://web.archive.org/kemet/web/homepage/kechome.nsf/vasitemap?OpenView&Start=1&Count=50&ExpandView)   
-[©Copyright 1999-2000](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/copyright)  
+[Legal Notice](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/legal)  
 [Privacy Statement](https://web.archive.org/kemet/web/homepage/kechome.nsf/vabypagename/privacy)  
 KEMET Electronics Corporation  
 Greenville, SC  
