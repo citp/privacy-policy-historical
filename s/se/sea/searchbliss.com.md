@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207213927id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406021538id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
 
 # SearchBliss Privacy Policies
 
 SearchBliss Privacy Policy
 
-This privacy statement was last updated on 02/01/04. SearchBliss has created this privacy statement in order to disclose our information gathering practices for this Web site, [www.searchbliss.com](http://www.searchbliss.com/).
+This privacy statement was last updated on **01/22/05**. SearchBliss has created this privacy statement in order to disclose our information gathering practices for this Web site, [www.searchbliss.com](http://www.searchbliss.com/).
 
-We respect and are committed to protecting your privacy. That is why we have created this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. These policies are only in effect for the Web pages, and opt-in email lists owned and operated by SearchBliss. 
+We respect and are committed to protecting your privacy. That is why we have created this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. These policies are only in effect for the Web pages operated by SearchBliss, and opt-in email lists owned by Microsoft bCentral, and operated by SearchBliss. 
 
 **Information Collected by SearchBliss**
 
@@ -14,14 +14,16 @@ SearchBliss may collect information submitted to us through forms and emails ass
 
 **Use of "cookies** " 
 
-A cookie is a small piece of data that is sent to your browser and stored on your computer's hard drive. A cookie can NOT read data off your hard disk or read other cookie files created by other web sites. Cookies are harmless to your computer. SearchBliss uses only TWO "cookies" at this time. One cookie is used in relation to our [affiliate program](http://www.searchbliss.com/affiliates.asp) in order to keep track of affiliate sales and stats only. The second cookie is used to prevent the "Please rate SearchBliss" pop-up from being displayed more than one time per visitor, per year. We use NO other "cookies" because we feel it is not proper practice to load information into your computer that you may not be aware of. 
+A cookie is a small piece of data that is sent to your browser and stored on your computer's hard drive. A cookie can NOT read data off your hard disk or read other cookie files created by other web sites. Cookies are harmless to your computer. SearchBliss uses only TWO "cookies" at this time. One cookie is used in relation to our [affiliate program](http://www.searchbliss.com/affiliates.asp) in order to keep track of affiliate sales and stats only. The second cookie is used as a "place holder" or "display memory" for our Site Map. We use NO other "cookies" because we feel it is not proper practice to load information into your computer that you may not be aware of. 
 
 **Opt-in email list**
 
-SearchBliss utilizes Microsoft's bCentral Network for it's opt-in emailing list. News letters are virus free for your protection and subscribers can remove themselves at any time from an email sent by SearchBliss. We strongly appose spamming and are in complete compliance with the terms and conditions of the bCentral Network. 
+SearchBliss utilizes Microsoft's bCentral Network for it's opt-in emailing list. News letters are virus free for your protection and subscribers can remove themselves at any time from an email sent by SearchBliss through the bCentral Network. We strongly appose spamming and are in complete compliance with the terms and conditions of the bCentral Network. 
 
 **Links to other web sites**
 
-SearchBliss contains many hyperlinks and advertisements linked to other Web sites. SearchBliss is NOT responsible for the privacy practices or the content of such web sites or advertisers. We encourage you to check with those sites to determine their privacy policy. Please read our [linking agreement](http://www.searchbliss.com/advertising_agreement.htm) agreement for additional information. 
+SearchBliss contains many hyperlinks and advertisements linking to other Web sites. SearchBliss is NOT responsible for the privacy practices and the content of such web sites or advertisers. We encourage you to check with those sites to determine their privacy policy. Please read our [linking agreement](http://www.searchbliss.com/advertising_agreement.htm) for any additional information. 
 
 * * *
+
+Copyright © 2001- 2020 SearchBliss, All Rights Reserve
