@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203141723id_/http%3A//racingjunk.com/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604170238id_/http%3A//racingjunk.com/policy.jsp) for the most accurate reproduction.*
 
 # RacingJunk.com
 
