@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the publicschoolreview.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209080302id_/http%3A//www.publicschoolreview.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicschoolreview.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204042346id_/http%3A//www.publicschoolreview.com/privacy.php) for the most accurate reproduction.*
 
 # Public School Review - Privacy Policy
 
 1\. WHAT THIS PRIVACY POLICY COVERS
 
-This policy covers how Public School Review treats personal information that we collect and receive, including information related to your past use of Public School Review products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.This policy does not apply to the practices of companies that Public School Review does not own or control, or to people that Public School Review does not employ or manage.
+This policy covers how Public School Review treats personal information that we collect and receive, including information related to your past use of Public School Review products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Public School Review does not own or control, or to people that Public School Review does not employ or manage.
 
 2\. THE INFORMATION COLLECTED
 
