@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmovie.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212150500id_/http%3A//www.allmovie.com/com/amg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmovie.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405071730id_/http%3A//allmovie.com/com/amg/privacy.html) for the most accurate reproduction.*
 
 # All Media Guide Privacy Policy
 
