@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014447id_/http%3A//www.traditionalhome.com/html/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/privacypolicy.htm) for the most accurate reproduction.*
 
 # Traditional Home Magazine®
 
   
-|  [ ](https://web.archive.org/web/20031203014447id_/http%3A//www.traditionalhome.com/html/inthisissue.htm)  
+|  [ ](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/inthisissue.htm)  
 ---  
-[ ](https://web.archive.org/web/20031203014447id_/http%3A//www.traditionalhome.com/html/ppp.htm)  
+[ ](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/ppp.htm)  
 [ ](https://secure.bhg.com/bhg/store/checkout/partner/?promoCode=I201PDF11&site=bhg)  
 [ ](http://www.traditionalhome.com/mediakit/)  
 [ ](http://www.interiors.org/designerservice/)  
-[ ](https://web.archive.org/web/20031203014447id_/http%3A//www.traditionalhome.com/html/montecito.htm)  
-[ ](https://web.archive.org/web/20031203014447id_/http%3A//www.traditionalhome.com/html/seabiscuit.htm)  
+[ ](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/montecito.htm)  
+[ ](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/recipes.htm)  
 |  |  |     
 
 
