@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622085645id_/http%3A//www.vacationidea.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203054556id_/http%3A//www.vacationidea.com/about/privacypolicy.html) for the most accurate reproduction.*
 
-# Vacation Idea.com - Privacy Policy
+# 
 
 **Privacy Policy**
 
@@ -23,7 +23,7 @@ The non-personally identifiable information that we collect may be used to impro
 **Collection of Information by Third-Party Sites**  
 This site contains links to other Internet sites that have their own privacy policies. VacationIdea LLC has no control over information that is submitted to, or collected by these third parties. 
 
-VacationIdea LLC may use a reputable third party to present or serve the advertisements that you may see on our web site. Third party advertisers may place cookies on the browsers of our visitors. Our Privacy Policy does not cover any use of information that a third-party ad server may have collected from you. 
+VacationIdea LLC may use a reputable third party to present or serve the advertisements that you may see on our web site. Our Privacy Policy does not cover any use of information that a third-party ad server may have collected from you. 
 
 **Cookies**  
 Cookies are text files place in your computer's browser to store your preferences. To enhance your experience, some of our web pages use "cookies." Cookies do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering. Once you register, cookies may be used to personalize your experience at our web pages, for example, to recognize you by name when you return to our site and enable you to access the member only areas of our site.
