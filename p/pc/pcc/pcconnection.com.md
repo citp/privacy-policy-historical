@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcconnection.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601103509id_/http%3A//www.pcconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcconnection.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212013725id_/http%3A//www.pcconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.*
 
 # PC Connection : Privacy Policy
 
