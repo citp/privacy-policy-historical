@@ -1,19 +1,28 @@
-> *The following text is extracted and transformed from the javascriptsource.com privacy policy that was archived on 1999-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990427115521id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javascriptsource.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619023441id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy for Mecklermedia Corp.'s Internet.com
+# internet.com's Privacy Policy
 
-[](http://www.internet.com/)   
-| 
+[](http://www.internet.com/) |    
+internet.com Corporation Privacy Policy
 
-##  Privacy Policy 
+internet.com respects the privacy of users who visit each of the sites within the internet.com network. No effort is made to identify individuals without their knowledge. The following policies are in effect for all of the Web pages owned and operated by internet.com Corporation. (The internet.com Network includes all Web sites and other Internet media properties listed on the pages linked from the internet.com navigation bar at the left.) 
 
-Internet.com respects the privacy of users who visit each of the sites within the Internet.com network. No effort is made to identify individuals without their knowledge. The following policies are in effect for all of the Web pages owned and operated by Mecklermedia Corp. within the Internet.com network. (The Internet.com network includes all of the sites listed at left.) 
+  * When a visitor requests pages at any internet.com site, our Web servers automatically recognize the browser's domain name, and IP address. Our servers do not record e-mail addresses. We collect the domain names and IP addresses in order to aggregate information on what pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. 
+  * From time to time, we ask users to provide their e-mail address or mailing address for the purpose of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters or information about seminars). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request before the information is requested. If you choose to supply your postal address in an online form, you may receive mailings from other reputable companies. 
+  * From time to time, internet.com or its advertisers may send a cookie to your computer. This information is collected solely for statistical purposes and is not used to identify individuals. 
+  * When you signup for participation in [internet.com forums](http://forums.internet.com/), your name or alias is recorded solely for the purpose of maintaining your own account within the forums. No effort is made to identify individuals who participate in forums or to monitor their acitivity in any way. 
 
-  * When a visitor requests pages at any Internet.com site, our Web server automatically recognizes only the browser's domain name, and IP address but not the e-mail address. We collect only the domain name and IP address in order to aggregate information on what pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. 
-  * From time to time, we ask users to provide their e-mail address or mailing address for the purposes of a survey or to provide additional services (for example, subscriptions to print publications, information about a trade show or an e-mail newsletter). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request, before the information is requested. 
-  * If you choose to supply us with your postal address on-line, you may receive mailings from other reputable companies. 
-  * If you sign up for an e-mail newsletter, you will receive only the e-mail newsletter you have requested. You will not receive any mailings that you have not specifically requested. Your e-mail address will not be sold to a third party. 
-  * From time to time, Internet.com or its advertisers may send a cookie to your computer. This information is collected solely for statistical purposes and is not used to identify individuals. 
 
-Copyright 1998 Mecklermedia Corporation.   
+
+E-newsletter/Discussion List Privacy Policy
+
+internet.com maintains a strict "no-spam" policy. Your e-mail address will not be sold to a third party if you sign up for one of our e-newsletters or discussion lists. 
+
+  * If you sign up for an e-mail newsletter or discussion list at an internet.com site, you will receive only the e-mail newsletter or discussion list you have requested. You may receive on occasion an offer to sign up for a new newsletter or discussion list, but you will not receive additional newsletters or discussion list mailings unless your specifically request them. 
+
+Opt-in Announcement List Privacy Policy
+
+internet.com has a contractual relationship with PostMaster Direct, an independent company, which creates targeted e-mailings. When you sign up for an internet.com newsletter you are given the option of joining announcement lists administered by PostMaster Direct. If you choose to sign up for one of these lists, you will receive mailings only on the topics you selected from third parties who have entered into agreements with PostMaster Direct. You may have your e-mail address removed from opt-in announcement lists at any time by following the instructions in the e-mails you receive. 
+
+Copyright 1999-2000 internet.com Corporation   
 All Rights Reserved. [Legal Notices.](http://www.internet.com/corporate/legal.html)
