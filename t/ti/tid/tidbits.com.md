@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208052700id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403223550id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
 
 # TidBITS Privacy Statement
 
@@ -60,6 +60,6 @@ Some TidBITS translations are available via both email and the Web. In the cases
 
 Special thanks to [digital.forest](http://www.forest.net/), our Web and mailing list host.
 
-Copyright 2004 TidBITS.   
+Copyright 2005 TidBITS.   
 Send comments to [our webmaster](http://www.tidbits.com/about/webmaster.html).   
 Last updated on Friday, November 19, 2004
