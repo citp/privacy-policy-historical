@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609190249id_/http%3A//www.accenture.com/xd/xd.asp%3Fit%3Denweb%26xd%3Dprivacy%5Cprivacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208092407id_/http%3A//www.accenture.com/xd/xd.asp%3Fit%3Denweb%26xd%3Dprivacy%5Cprivacy.xml) for the most accurate reproduction.*
 
 # Accenture Privacy Statement
 
@@ -12,7 +12,7 @@ Information on accenture.com is gathered in two ways: (1) indirectly (for exampl
 
 One example of information we collect indirectly is through our Internet access logs. When you access accenture.com, your Internet address is automatically collected and is placed in our Internet access logs. 
 
-We collect information directly from you in a number of ways, some of which we describe in this Privacy Statement. One way is through the use of cookies. Cookies are small files of information which save and retrieve information about your visit to accenture.com - for example, how you entered our site, how you navigated through the site, and what information was of interest to you. The cookies we use identify you merely as a number. (If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.) 
+We collect information directly from you in a number of ways, some of which we describe in this Privacy Statement. One way is through the use of cookies. Cookies are small files of information which save and retrieve information about your visit to accenture.com—for example, how you entered our site, how you navigated through the site, and what information was of interest to you. The cookies we use identify you merely as a number. (If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.) 
 
 We also collect information when you voluntarily submit it to us. Throughout our site, we provide the opportunity to register for an event or conference, order a white paper, or participate in an online survey. When we collect this type of information, we will notify you as to why we are asking for information and how this information will be used. It is completely up to you whether or not you want to provide it. 
 
@@ -32,3 +32,5 @@ You are entitled to know whether we hold information about you and, if we do, to
 We take appropriate steps to maintain the security of your data on accenture.com. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. 
 
 That's it in a nutshell. The short of it is—we are interested in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please contact us via our webmaster at webmaster@accenture.com. 
+
+To Top
