@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kentuckyderby.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602191142id_/http%3A//www.churchilldowns.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentuckyderby.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204194109id_/http%3A//www.churchilldownsincorporated.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Churchill Downs | About | Privacy Policy |
+# Churchill Downs Incorporated | About CDI | Privacy Policy |
+
+About CDI
 
 Churchill Downs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Churchill Downs Online and its affiliated websites and properties.
 
@@ -26,11 +28,10 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Website Manager  
-Churchill Downs  
+Webmaster  
+Churchill Downs Incorporated  
 700 Central Avenue  
-Louisville, KY   
-40208  
+Louisville, KY 40208  
 
 
 [webmaster@kyderby.com](mailto:webmaster@kyderby.com)
