@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meredith.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603194716id_/http%3A//www.meredith.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meredith.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053143id_/http%3A//www.meredith.com/privacy.html) for the most accurate reproduction.*
 
 # Meredith Corporation Online Privacy Statement
 
