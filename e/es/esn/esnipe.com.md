@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the esnipe.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210164236id_/http%3A//www.esnipe.com/eSnipePrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esnipe.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621061528id_/http%3A//www.esnipe.com/eSnipePrivacy) for the most accurate reproduction.*
 
 # eSnipe Privacy Statement
 
 |  | 
 
-   [Log In](https://web.archive.org/web/20021210164236id_/http://www.esnipe.com/)
+   [Log In](https://web.archive.org/web/20030621061528id_/http://www.esnipe.com/)
 
-   [Join eSnipe](https://web.archive.org/web/20021210164236id_/http://www.esnipe.com/NewMember/)
+   [Join eSnipe](https://web.archive.org/web/20030621061528id_/http://www.esnipe.com/NewMember/)
 
-**BidPoint Sale!**   
-**November 29 - December 9** BidPoint sale in progress! The discounted rates will appear when you make your BidPoint purchase on the new eSnipe 3.0 site. Discount starts on BidPoint purchases as low as $18.00 and the discounts go **as high as 25%**!    
-  
 **What are Bid Groups?**   
-Bid Groups allow you to combine multiple bids into one group and **automatically cancel the remaining bids after the first one wins**. [Click here for how to use Bid Groups](https://web.archive.org/TutorialBidGroups/).    
+Bid Groups allow you to combine multiple bids into one group and **automatically cancel the remaining bids after the first one wins**. [Click here for how to use Bid Groups](https://web.archive.org/eSnipeHelp/bg/index.html).    
   
 **eSnipe 3.0 information page**   
 **Questions or problems?** Remember to click the [eSnipe 3.0 New Site Information](https://web.archive.org/MigrationNews/) banner at the top of the page for information and directions to contact support.  
@@ -31,5 +28,5 @@ eSnipe **never** supplies your personal information to any third party for adver
 The information we collect about bids is summarized, and we provide basic information to our advertisers on the general product categories our members are interested in. **Is my information secure?**  
 Your personal information is protected by your password. Never share this password with anyone. esnipe will never contact you unsolicited to ask for your password. We have taken steps to ensure our databases are secure, and are confident in our ability to keep your information safe. However, please note that the bid pages on eBay are not encrypted, and therefore when esnipe, or yourself for that matter, places a bid - your username and password are sent over the Internet without encryption. Because of this, esnipe can not guarantee 100% protection of your password when a bid is being placed. **What about cookies?**  
 eSnipe stores a cookie on your computer to track you while you are on the site. The information in this cookie is a string of characters that is meaningless to everyone and everything except our server. No personal information or bid information is stored in the cookie. The information in the cookie can not be used by third parties to gain access to your account information. **Still have questions?**  
-We realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20021210164236id_/http://www.esnipe.com/ContactUS/), and we will be happy to discuss the matter with you.   
+We realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20030621061528id_/http://www.esnipe.com/ContactUS/), and we will be happy to discuss the matter with you.   
 ---|---|---|---|---
