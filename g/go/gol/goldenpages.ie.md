@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenpages.ie privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206025623id_/http%3A//www.goldenpages.ie/extra/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenpages.ie privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204070512id_/http%3A//www.goldenpages.ie/extra/privacy.html) for the most accurate reproduction.*
 
 # Golden Pages: Privacy Policy
 
