@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50megs.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620103050id_/http%3A//www.50megs.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50megs.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018061817id_/http%3A//www.50megs.com/html/privacy.html) for the most accurate reproduction.*
 
 # 50MEGS.COM
 
@@ -49,4 +49,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site,you can contactMatt Heaton50megs.com252 North Orem Blvd.Orem, UT 84058admin@sitetracker.com |  | 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site,you can contactMatt Heaton50megs.com252 North Orem Blvd.Orem, UT 84058tech@50megs.com |  | 
