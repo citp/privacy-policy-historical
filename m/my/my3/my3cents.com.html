@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the my3cents.com privacy policy that was archived on 2000-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206203600id_/http%3A//my3cents.com/cgi-bin/privacy.tps) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the my3cents.com privacy policy that was archived on 2001-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010616152428id_/http%3A//www.my3cents.com/cgi-bin/privacy.tps) for the most accurate reproduction.-->
 
 <html><head><style>
 
@@ -7,7 +7,7 @@
 
                         font-size: 9pt;
 
-                        font-family: Arial;
+                        font-family: VERDANA,ARIAL,HELVETICA;
 
 			}
 
@@ -15,11 +15,11 @@
 
         A               {
 
-                        color: BLUE;
+                        color: #3366cc;
 
                         Font-Size: 10pt;
 
-                        font-family: Arial;
+                        font-family: VERDANA,ARIAL,HELVETICA;
 
                         }
 
@@ -29,7 +29,7 @@
 
                         font-size: 12pt;
 
-                        font-family: Arial;
+                        font-family: VERDANA,ARIAL,HELVETICA;
 
                         font-weight: light;
 
@@ -43,18 +43,74 @@
 
                         font-size: 9pt;
 
-                        font-family: Arial;
+                        font-family: VERDANA,ARIAL,HELVETICA;
 
                         }
 
+	A:hover	 	{color:#Ef6700;} 
+	
+	A:visited:hover	{color:#Ef6700;} 
+
+
+	.whtlink	{ font-size: 8pt; font-family: VERDANA,ARIAL,HELVETICA; color: #FFFFFF; font-weight: bold; }
+
+	.history	{ font-size: 8pt; font-family: VERDANA,ARIAL,HELVETICA; color: #FFFFFF; }
+
+	.small 		{ font-size: 8pt; font-family: verdana,sans-serif; }
+
+	.smallcats	{ font-size: 8pt; font-family: ARIAL,HELVETICA; }
+
+	.greybigbld 	{ font-size: 12pt; font-family: VERDANA,ARIAL,HELVETICA; color: #676767; font-weight: bold; }
+
+	.blackbigbld 	{ font-size: 12pt; font-family: VERDANA,ARIAL,HELVETICA; color: #000000; font-weight: bold; }
+
+	.greymedbld 	{ font-size: 10pt; font-family: VERDANA,ARIAL,HELVETICA; color: #676767; font-weight: bold;}
+	
+	.medbld 	{ font-size: 10pt; font-family: VERDANA,ARIAL,HELVETICA; font-weight: bold;}
+
+	.bluemedbld 	{ font-size: 10pt; font-family: VERDANA,ARIAL,HELVETICA; font-weight: bold; color: #04359b;}
+
+	.redsmallbld 	{ font-size: 8pt; font-family: VERDANA,ARIAL,HELVETICA; color: red; font-weight: bold; text-decoration: none;}
+
+	.greysmallbld 	{ font-size: 8pt; font-family: VERDANA,ARIAL,HELVETICA; color: #676767; font-weight: bold; text-decoration: none;}
+
+	.bluesmallbld 	{ font-size: 8pt; font-family: VERDANA,ARIAL,HELVETICA; color: #04359b; font-weight: bold; text-decoration: none;}
+
+	.big 		{ font-size: 13pt; font-family: ARIAL,HELVETICA; font-weight: bold;}
+
+	.tblheader	{ font-size: 12pt; font-family: VERDANA,ARIAL,HELVETICA; color: #FFFFFF;}
+
+	.headlinebig	{ font-size: 14pt; font-family: ARIAL,HELVETICA; font-weight: bold; color: #04359b;}
+
+	.headlinemed	{ font-size: 12pt; font-family: ARIAL,HELVETICA; font-weight: bold; color: #04359b;}
+
+	.blueclick	{ color: blue; font-family: VERDANA,ARIAL,HELVETICA; cursor: hand; }
+
+
 </style>
+
+<script>
+if(navigator.appName == "Netscape"){
+	document.write('<STYLE>.small { font-size: 8pt; font-family: Verdana,Arial,Helvetica,sans-serif; }</STYLE>');
+	document.write('<STYLE>.smallcats { font-size: 8pt; font-family: Verdana,Arial,Helvetica,sans-serif;}</STYLE>');
+}
+</script><style>.small { font-size: 8pt; font-family: Verdana,Arial,Helvetica,sans-serif; }</style><style>.smallcats { font-size: 8pt; font-family: Verdana,Arial,Helvetica,sans-serif;}</style>
 
 
 <script>
 
+//Files
+var fileLetter='/cgi-bin/letterSearch.tps';
+var fileReview='/cgi-bin/postOpinionStep1.tps';
+var fileAG='/cgi-bin/agSearch.tps';
+var fileEmployer='/cgi-bin/employerSearch.tps';
+var fileCompany='/cgi-bin/companySearch.tps';
 
+var now=new Date();
+var month=now.getMonth() + 1; 
 
 //Some globals...
+var clr = "";
 
 var li=0;
 
@@ -84,35 +140,120 @@ l_hist[0].url = "loginForm.tps";
 l_hist[0].label = "LOGIN";
 
 var arrow = "<FONT SIZE=2 COLOR=#FFFFFF>&nbsp;&nbsp;>&nbsp;&nbsp;</FONT>";
-var back_path = '<A HREF="javascript:history.back();" style=text-decoration:none; ><FONT SIZE=1 COLOR=#FFFFFF><B>PUBLISH OPINION</B></A>';
+var back_path = '<A HREF="javascript:history.back();" style=text-decoration:none; ><FONT CLASS=history>PUBLISH REVIEW</A>';
 
-var readOpinions_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>BROWSE OPINIONS</B>';
-var login_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>LOGIN</B></FONT>';
+var readOpinions_path = '<FONT CLASS=history>BROWSE OPINIONS</FONT>';
+var login_path = '<FONT CLASS=history>LOGIN</FONT>';
 
-var compreg_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>COMPANY REGISTRATION</B></FONT>';
-var profile_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>PROFILE</B></FONT>';
-var newuser_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>USER REGISTRATION</B></FONT>';
-var complaint_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>SUBMIT COMPLAINT</B></FONT>';
-var opinion_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>PUBLISH OPINION: STEP 2</B></FONT>';
-var lsearch_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>LETTER SEARCH</B></FONT>';
-var lcompose_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>COMPOSE LETTER</B></FONT>';
-var lsent_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>LETTER REQUEST CONFIRMATION</B></FONT>';
-var movie_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>MOVIE REVIEWS</B></FONT>';
+var compreg_path = '<FONT CLASS=history>COMPANY REGISTRATION</FONT>';
+var profile_path = '<FONT CLASS=history>PROFILE</FONT>';
+var newuser_path = '<FONT CLASS=history>USER REGISTRATION</FONT>';
+var complaint_path = '<FONT CLASS=history>SUBMIT COMPLAINT</FONT>';
+var opinion_path = '<FONT CLASS=history>PUBLISH REVIEW: STEP 2</FONT>';
+var lsearch_path = '<FONT CLASS=history>LETTER SEARCH</FONT>';
+var lcompose_path = '<FONT CLASS=history>COMPOSE LETTER</FONT>';
+var lsent_path = '<FONT CLASS=history>LETTER REQUEST CONFIRMATION</FONT>';
+var movie_path = '<FONT CLASS=history>MOVIE REVIEWS</FONT>';
 
-var csearch_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>COMPANY SEARCH</B></FONT>';
-var ads_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>ADVERTISING</B></FONT>';
-var agreement_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>USER AGREEMENT</B></FONT>';
-var privacy_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>PRIVACY POLICY</B></FONT>';
-var help_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>ABOUT US</B></FONT>';
-var search_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>SEARCH RESULTS</B></FONT>';
-var laddbutton_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>ADD OUR BUTTON TO YOUR SITE</B></FONT>';
-var home_path='<A HREF="/cgi-bin/start.tps" style=text-decoration:none; ><FONT SIZE=1 COLOR=#FFFFFF><B>HOME</B></FONT></A>' + arrow  ;
+var csearch_path = '<FONT CLASS=history>COMPANY SEARCH</FONT>';
+var ads_path = '<FONT CLASS=history>ADVERTISING</FONT>';
+var agreement_path = '<FONT CLASS=history>USER AGREEMENT</FONT>';
+var privacy_path = '<FONT CLASS=history>PRIVACY POLICY</FONT>';
+var help_path = '<FONT CLASS=history>ABOUT US</FONT>';
+var search_path = '<FONT CLASS=history>SEARCH RESULTS</FONT>';
+var laddbutton_path = '<FONT CLASS=history>ADD OUR BUTTON TO YOUR SITE</FONT>';
+var home_path='<A HREF="/cgi-bin/start.tps" style=text-decoration:none; ><FONT CLASS=history>HOME</FONT></A>' + arrow  ;
 
-var opinStep1_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>PUBLISH OPINION: STEP 1</B></FONT>';
+var opinStep1_path = '<FONT CLASS=history>PUBLISH REVIEW: STEP 1</FONT>';
+var opinion_path3 = '<FONT CLASS=history>PUBLISH REVIEW: STEP 3</FONT>';
+
 
 var navbar="<FONT COLOR=#04359b>-</FONT>";
 var x43;
 var x;
+var choice="";
+
+
+function submitReferral(){
+var url;
+url = '/cgi-bin/submitReferral.tps?id=' + document.referralSubmit.id.value;
+url = url + '&email=' + document.referralSubmit.referemail.value;
+
+var w=250;
+var h=120;
+
+var code;
+code = "window.open(url,'castReferral', 'scrollbars=auto,resizable=yes,";
+code = code + "width=" + w + ", height=" + h + "');";
+
+eval(code);
+
+}
+
+
+function castVote(type, id, display){
+
+if(display==undef){
+	display = "";
+}
+if(id==undef){
+	id = "";
+}
+
+var now=new Date();
+var month=now.getMonth() + 1; 
+var theHour = now.getHours();
+var theMinutes = now.getMinutes();
+var theDate = month + "/" + now.getDate() + "/" + now.getFullYear() + ":" + theHour;
+
+var url;       
+
+if(display=="X"){
+	url = '/cgi-bin/castVote.tps?id=' + id;
+	url = url + '&type=' + type;
+	url = url + '&display=' + display;
+}else{
+	url = '/cgi-bin/castVote.tps?id=' + document.Vote.id.value;
+	url = url + '&vote=' + choice;
+	url = url + '&date=' + theDate;
+	url = url + '&type=' + type;
+	url = url + '&display=' + display;
+	url = url + '&userid=' + document.Vote.userid.value;
+}
+
+var w=300;
+var h=300;
+
+var code;
+code = "window.open(url,'castVote', 'scrollbars=auto,resizable=yes,";
+code = code + "width=" + w + ", height=" + h + "');";
+
+eval(code);
+}
+
+function showVote(url){
+window.open(url,"showVote",'scrollbars=auto,resizable=yes,width=300,height=300');
+}
+
+function showComments(url){
+code = "window.open(url,'showComment','scrollbars=1,resizable=yes,width=295,height=400');";
+eval(code);
+}
+
+function openWindow(url,w,h){
+if(!w){
+	w = 500;
+	h = 450;
+}
+
+var code;
+code = "window.open(url,'showWin', 'scrollbars=1,resizable=yes,";
+code = code + "width=" + w + ", height=" + h + "');";
+
+eval(code);
+
+}
+
 
 
 function writeHistory(){
@@ -121,142 +262,92 @@ function writeHistory(){
 
 
 
-function writeBar(width,color,text,mode){
+function writeBar(width,color,text,mode,subtext){
+	var showUser = "User: <b>" + uid + "</b>";
 
-	var showUser = "User: <b>" + uid;
+	width="20%";
 
+//Temp solution for color change
+	if(color=="#7eda47"){
+		color = "#58D010";
+	}
+	if(color=="#eca61d"){
+		color = "#FBA035";
+        }
 
 	if (mode==0){
-
-		showUser="";
-
+		showUser="<font color=#FFFFFF>-</font>";
+	}
+	if (mode==2){
+		showUser="Powered by <a href='http://www.my3cents.com'>My3cents.com</a>&nbsp;";
+		subtext = "<font color=#FFFFFF>-</font>";
+	}
+	if (subtext == undef){
+		subtext = "<font color=#FFFFFF>-</font> ";
 	}
 if (isNetscape){
-	document.write("<TABLE CELLPADDING=2 WIDTH=95% CELLSPACING=0 >");
+	document.write("<TABLE WIDTH=100% BGCOLOR=" + color + " BORDER=0 ALIGN=center CELLSPACING=0 CELLPADDING=0>");
 }else{
-	document.write("<TABLE CELLPADDING=2 WIDTH=95% CELLSPACING=0 style=margin:5px;>");
+	document.write("<TABLE WIDTH=100% BGCOLOR=" + color + " BORDER=0 ALIGN=center CELLSPACING=0 CELLPADDING=0 style=margin:5px;>");
 }
+
+	document.write("<TR>");
+        document.write("<TD VALIGN=top>");
+      	document.write("<TABLE WIDTH=100% BGCOLOR=#ffffff BORDER=0 ALIGN=center CELLSPACING=0 CELLPADDING=4>");
         document.write("<TR>");
-
-        document.write("<TD BGCOLOR=" + color + " WIDTH=" + width + " NOWRAP>");
-
-        document.write("<FONT COLOR=WHITE SIZE=3><B>" + text + "</B></FONT>");
-
-        document.write("</TD>");
-
-        document.write("<TD BGCOLOR=#FFFFFF ALIGN=RIGHT>" + showUser + "</b></TD>");
-
+        document.write("<TD CLASS=tblheader NOWRAP WIDTH=" + width + " BGCOLOR=" + color + "><b>" + text + "</b></TD>");
+        document.write("<TD BGCOLOR=#FFFFFF ALIGN=CENTER>" + subtext + "</TD>");
+        document.write("<TD BGCOLOR=#FFFFFF ALIGN=RIGHT>" + showUser + "</TD>");
         document.write("</TR>");
-
-	document.write("<TR BGCOLOR=" + color + "><TD><TD></TR>");
-
+        document.write("<TR BGCOLOR=" + color + ">");
+		
+	if(!isNetscape){
+		document.write('<TD><TD><TD>');
+	}
+		
+        document.write("</TR>");
+        document.write("</TABLE>");
+        document.write("</TD>");
+       	document.write("</TR>");
 	document.write("</TABLE>");
 
 }
 
 
 
-
-
-
-
 //Set a cookie for login...
-
 function setCookie(tag,name)
-
-
 {
-
-
-
 	var the_cookie = tag + name;
-
-
-
 	var the_date = new Date("December 31, 2099");
-
-
-
 	var the_cookie_date = the_date.toGMTString();
-
-
-
 	//the_cookie = the_cookie + ";expires=" + the_cookie_date;
-
-
-
-	document.cookie = the_cookie;
-
-
-
-	
-
-
-
+	document.cookie = the_cookie + ";" + document.cookie;
 }
-
-
-
-
-
 
 
 //Get the cookie value
-
 function getCookie(tag)
-
 {
-
 	var name = tag;
-
-
-
         if (document.cookie.length > 0) {
-
-
-
 		offset = document.cookie.indexOf(name);
-
-
-
 		if (offset != -1) {
-
-
-
 			offset += name.length;
-
-
-
 			end = document.cookie.indexOf(";", offset);
-
-
-
 			if (end == -1) 
-
 				end = document.cookie.length;
-
-
-
 			return document.cookie.substring(offset, end);
-
 		}
-
 	}
-
 }
 
 
-
 function checkCookie(){
-
   document.forms[0].elements[0].value = getCookie('my3centsID');
-
   if (document.forms[0].elements[0].value == "undefined"){
-
 	document.forms[0].elements[0].value = "";
-
   }
-
 }
 
 
@@ -457,6 +548,20 @@ if(overide=='X'){
 
 }
 
+function printLetter(override){
+	document.letterSubmit.action="/cgi-bin/displayLetter.tps";
+	document.letterSubmit.target="top";
+	document.letterSubmit.submit();
+	return true;
+}
+
+function sendLetter(override){
+	document.letterSubmit.action="/cgi-bin/sendLetter.tps";
+	document.letterSubmit.target="_top";
+	document.letterSubmit.submit();
+	return true;
+}
+
 function validateNewUser(){
 
 	if(document.frmLoginCreate.userid.value==''){
@@ -529,14 +634,21 @@ function validateNewUser(){
 }
 
 
-function vli(url){
+function vli(url,wrapper){
 var tmp_url;
+
+	if(wrapper==undef){
+		wrapper = "";
+	}
 	if(li==1){
 		top.location=url;
 	}else{
 		tmp_url = "<SPLIT>" + url;
-	
+		if(wrapper != ""){
+		document.location="/cgi-bin/loginForm.tps?wrapper=" + wrapper + "&url=" + tmp_url;
+		}else{
 		top.location="/cgi-bin/loginForm.tps?url=" + tmp_url;
+		}
 	}
 	return;
 }
@@ -550,44 +662,70 @@ function go_Services(index){
 	var my_url;
 
 	if (index==2){
-		vli('/cgi-bin/postOpinionStep1.tps');
-		//my_url = '/cgi-bin/postOpinionStep1.tps';
 
-		//top.location=my_url;
+		my_url = '/cgi-bin/postOpinionStep1.tps';
+		top.location=my_url;
+		self.document.navSelect.services.selectedIndex=0;
 
 	}
 
 	if (index=='NOTUSED'){
 		vli('/cgi-bin/opinionForm.tps');
-	 	//top.location='/cgi-bin/opinionForm.tps';
+		self.document.navSelect.services.selectedIndex=0;
 
 	}
 
 	if (index=='NOTUSED'){
 
 	 	top.location='/cgi-bin/categories.tps';
-
+		self.document.navSelect.services.selectedIndex=0;
 	}
 
 	if (index==3){
-		vli('/cgi-bin/letterSearch.tps');
-		//my_url = '/cgi-bin/letterSearch.tps';
-
-		//top.location=my_url;
-
+	
+		my_url = '/cgi-bin/letterSearch.tps';
+		top.location=my_url;
+		self.document.navSelect.services.selectedIndex=0;
 	}
 
 	if (index==5){
 
 		top.location='/cgi-bin/companySearch.tps';
-
+		self.document.navSelect.services.selectedIndex=0;
 	}
 
 	if (index==4){
-
 		top.location='/cgi-bin/browse.tps';
+		self.document.navSelect.services.selectedIndex=0;
+	}
+	if (index==6){
+		my_url = '/cgi-bin/agSearch.tps';
+		top.location=my_url;
+		self.document.navSelect.services.selectedIndex=0;
 
 	}
+
+	if (index==7){
+		my_url = '/cgi-bin/employerSearch.tps';
+		top.location=my_url;
+		self.document.navSelect.services.selectedIndex=0;
+
+	}
+	if (index==8){
+		my_url = '/cgi-bin/legalLinks.tps';
+		top.location=my_url;
+		self.document.navSelect.services.selectedIndex=0;
+	
+
+	}
+	if (index==9){
+		my_url = '/cgi-bin/govLinks.tps';
+		top.location=my_url;
+		self.document.navSelect.services.selectedIndex=0;
+	
+
+	}
+
 
 
 }
@@ -660,15 +798,18 @@ function go_Company(index){
 	}
 
 	if (index==3){
-
 		top.location='/cgi-bin/compLogin.tps';
-
 	}
 
 	if (index==4){
-
-		top.location='/cgi-bin/compLogin.tps';
-
+		if(id=='Anonymous'){
+			alert('Please login first!');
+		}
+		else{
+			document.companyProfile.userid.value=id;
+			document.companyProfile.li.value=li;
+			document.companyProfile.submit();
+		}
 	}
 
 	if (index==5){
@@ -695,13 +836,13 @@ function go_Company(index){
 <meta name="description" content="My3cents.com - Your advocate for consumer empowerment.  We are dedicated to helping consumers with complaints or compliments regarding any company, product or service.  Our services include a FREE letter service for sending letters to any company, online opinion forum to education consumers, and an extensive company database for helping you connect to the company of your choice.">
 </head>
 
-<body bgcolor="white" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:5;">
+<body bgcolor="#7C869C" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:5;">
 
 
 
 <center>
 
-<table width="600" style="margin:0;" cellpadding="0" cellspacing="0" border="0">
+<table width="600" style="margin:0;" cellpadding="8" cellspacing="0" bgcolor="#FFFFFF" border="1">
 
 <tbody><tr><td>
 
@@ -712,78 +853,43 @@ function go_Company(index){
 <tbody><tr valign="TOP">
 
 <td align="LEFT" valign="TOP" nowrap="">
-
-<a href="/cgi-bin/start.tps" border="0">
-<img src="/my3cents/images/prod_logo_xmas.gif" border="0">
-</a>
+<a href="/cgi-bin/start.tps"><img src="/my3cents/images/logo_with_subtitle.gif" border="0"></a>
 </td>
-<td align="LEFT" valign="CENTER">
-<br>
-<font size="3" color="#04359b">
-<b>the consumer </b></font><font size="4" color="#04359b"><b>Revolution</b></font>
-<font size="3" color="#04359b"> <b>starts here... </b></font>
 
-<!--IMG SRC="/my3cents/images/revolution.gif"-->
-</td>
 
 <td align="RIGHT" valign="CENTER">
 
-	<table cellpadding="0" cellspacing="0" style="margin:none;">
+<!-- VC active -->
+<script language="JavaScript">
+<!--
+// ValueParameters
+ValueHost = "hs0206464";
+ValueLoaded = false;
+ValueID = "valueid";
+ValueVersion = "1.1";
+ValueWidth = 468;
+ValueHeight = 60;
+//-->
+</script>
+<script language="Javascript" src="http://oz.valueclick.com/jsmaster"></script>
+<script language="JavaScript">
+<!--
+if (ValueLoaded) ValueShowAd();
+//-->
+</script>
 
-	<tbody><tr>
-
-	<td align="RIGHT" valign="TOP">
-
-	<script>
-
-	if(isNetscape){
-		//do nothing
-	}else{
-		document.write("<font size=3 color=#04359b><b>");
-	}
-		
-	var now=new Date();
-	var month=now.getMonth() + 1; 
-	document.write(month + "/" + now.getDate() + "/" + now.getFullYear());
-
-	if(isNetscape){
-		//do nothing
-	}else{
-		document.write("</b></font>");
-	}
-
-	</script>1/31/2020
-
-	</td>
-
-	</tr>
-
-	<tr>
-
-	<td align="right">
-	<font face="verdana, arial, helvetica" size="-2">
-
-    	First time user? </font>Click <a href="/cgi-bin/newuser.tps"><font face="verdana, arial, helvetica" size="-2">
-here!</font></a>&nbsp;&nbsp;
-
-    
-    	</td>
-
-    	</tr>
-
-	</tbody></table>
+<!-- vc active -->
+                        
 
 
-
-	
-
+<!--
+<A HREF="http://click.linksynergy.com/fs-bin/stat?id=jhCHoN89uTc&offerid=14902.10000007&subid=0&type=4"><IMG SRC="http://ad.linksynergy.com/fs-bin/show?id=jhCHoN89uTc&bids=14902.10000007&subid=0&type=4" BORDER=0>
+-->
 </td>
 
 </tr>
 
 </tbody></table>
-
-
 
 
 <table width="100%" bgcolor="#04359b" cellpadding="0" cellspacing="0" style="margin:0;" border="0">
@@ -799,7 +905,7 @@ here!</font></a>&nbsp;&nbsp;
 	<td>
 	<font color="WHITE">
 
-	<small>&nbsp;&nbsp;Quick Opinion Search...</small>
+	<font class="small">&nbsp;&nbsp;Quick Review Search...</font>
 
 	</font>
 	</td>
@@ -828,7 +934,7 @@ document.write("</TD>");
 
 	<td align="RIGHT">
 
-	<a href="/cgi-bin/help.tps" style="color:white;text-decoration:none;"><small><b>HELP&nbsp;&nbsp;</b></small></a>
+	<a href="/cgi-bin/help.tps" style="text-decoration:none;"><font class="small" color="#FFFFFF"><b>HELP</b></font></a>&nbsp;&nbsp;
 
 	</td>
 
@@ -851,28 +957,35 @@ document.write("</TD>");
 
 	<form name="search" action="/cgi-bin/search.tps" method="POST" style="margin:0;">
 
-
-
-	&nbsp;<input type="text" name="criteria" size="20" value="<Enter Company Name>" onfocus="this.value='';">
-
+	<script language="Javascript">
+	<!--
+	if (navigator.appName != "Netscape") {
+		document.write('&nbsp;<input type="text" name="criteria" size="20" value="<Enter Company Name>" onFocus="this.value=clr;">');
+	}else{
+		document.write('&nbsp;<input type="text" name="criteria" size="10" value="">');
+	}
+	//-->
+	</script>&nbsp;<input type="text" name="criteria" size="10" value="">
 	<script>
 	if (isNetscape){
-		document.write('&nbsp;<input type="submit" value="Go">');
+		document.write('<A HREF="javascript:document.search.submit();"><img src="/my3cents/images/go2.gif" border=0></A>');
+		//document.write('&nbsp;<input type="submit" value="Go">');
 	}else{
 		document.write('<A HREF="javascript:document.search.submit();"><img src="/my3cents/images/go2.gif" border=0></A>');
 	}
-	</script>&nbsp;<input type="submit" value="Go">
+	</script><a href="javascript:document.search.submit();"><img src="/my3cents/images/go2.gif" border="0"></a>
 	</form>
 
 	</td>
 
-	<td height="22" valign="bottom" nowrap="" bgcolor="#FFFFFF">
+	<td height="22" valign="top" nowrap="" bgcolor="#FFFFFF">
 
 	<script>
 
 	if (isNetscape){
 
-		document.write("");
+		document.write('<img src="/my3cents/images/l3_corner_net.gif" border=0>');
+		//document.write("");
 
 	}else{
 		//document.write('<img src="/my3cents/images/new_corner.gif" border=0>');
@@ -881,7 +994,7 @@ document.write("</TD>");
 
 	}
 
-	</script>
+	</script><img src="/my3cents/images/l3_corner_net.gif" border="0">
 
 	</td>
 
@@ -901,13 +1014,21 @@ document.write("</TD>");
 
 			<option>- - - - - - - - - - - - - </option>
 
-			<option>Publish my Opinion</option>	
+			<option>Post a Review</option>	
 
-			<option>Write letter to a Company</option>
+			<option>Send feedback to a Company</option>
 
-			<option>Browse Opinions</option>
+			<option>Search Reviews</option>
 
 			<option>Find Company Info</option>
+
+			<option>Write your Attorney General</option>
+
+			<option>Write your Boss!</option>
+
+			<option>Get Legal Help</option>
+
+			<option>Get Government Help</option>
 
 		</select>
 
@@ -941,9 +1062,7 @@ document.write("</TD>");
 
 			<option>Login</option>
 
-			<option>Respond to a Consumer</option>
-
-
+			<option>Company Profile</option>
 
 		</select>
 
@@ -964,11 +1083,10 @@ document.write("</TD>");
 	
 
 	</tbody></table>
-
 <br>
 
 
-<script>writeBar('200','#eca61d','Privacy Policy', 0);</script><table cellpadding="2" width="95%" cellspacing="0"><tbody><tr><td bgcolor="#eca61d" width="200" nowrap=""><font color="WHITE" size="3"><b>Privacy Policy</b></font></td><td bgcolor="#FFFFFF" align="RIGHT"></td></tr><tr bgcolor="#eca61d"><td></td><td></td></tr></tbody></table>
+<script>writeBar('200','#eca61d','Privacy Policy', 0);</script><table width="100%" bgcolor="#FBA035" border="0" align="center" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"><table width="100%" bgcolor="#ffffff" border="0" align="center" cellspacing="0" cellpadding="4"><tbody><tr><td class="tblheader" nowrap="" width="20%" bgcolor="#FBA035"><b>Privacy Policy</b></td><td bgcolor="#FFFFFF" align="CENTER"><font color="#FFFFFF">-</font> </td><td bgcolor="#FFFFFF" align="RIGHT"><font color="#FFFFFF">-</font></td></tr><tr bgcolor="#FBA035"></tr></tbody></table></td></tr></tbody></table>
 
 <br>
 
@@ -1035,33 +1153,66 @@ My3cents.com<br>
 </tr>
 </tbody></table>
 
-
+<br><br>
 <form name="myProfile" method="post" action="/cgi-bin/myProfile.tps" enctype="application/html-form-urlencoded" target="_top">
 <script>
 document.write('<INPUT TYPE="hidden" NAME="userid" VALUE="' + id + '">');
 document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
 </script><input type="hidden" name="userid" value="Anonymous"><input type="hidden" name="li" value="0">
 </form>
-<br><br><br><br>
+<form name="companyProfile" method="post" action="/cgi-bin/companyProfile.tps" enctype="application/html-form-urlencoded" target="_top">
+<script>
+document.write('<INPUT TYPE="hidden" NAME="userid" VALUE="' + id + '">');
+document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
+</script><input type="hidden" name="userid" value="Anonymous"><input type="hidden" name="li" value="0">
+</form>
+
+<form name="companyRsp" method="post" action="/cgi-bin/addResponseForm.tps" enctype="application/html-form-urlencoded" target="_top">
+<input type="hidden" name="id" value="">
+<script>
+document.write('<INPUT TYPE="hidden" NAME="userid" VALUE="' + id + '">');
+document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
+</script><input type="hidden" name="userid" value="Anonymous"><input type="hidden" name="li" value="0">
+</form>
+
+
+<br><br>
 <center>
-<table width="100%">
+
+<table width="78%" cellpadding="4"><tbody><tr><td align="CENTER" class="greysmallbld">
+<!-- VC active -->
+<script language="JavaScript">
+<!--
+// ValueParameters
+ValueHost = "hs0206464";
+ValueLoaded = false;
+ValueID = "valueid2";
+ValueVersion = "1.1";
+ValueWidth = 468;
+ValueHeight = 60;
+//-->
+</script>
+<script language="Javascript" src="http://oz.valueclick.com/jsmaster"></script>
+<script language="JavaScript">
+<!--
+if (ValueLoaded) ValueShowAd();
+//-->
+</script>
+
+<!-- vc active -->
+                        
+
+
+</td></tr></tbody></table><table width="100%">
 <tbody><tr>
 <td align="CENTER">
-	<a href="/cgi-bin/addButton.tps">
-	<small>Add our button to your site!</small>
-	</a>
+	<a href="/cgi-bin/addButton.tps"><font class="small">Add our button to your site!</font></a>
 	&nbsp;|&nbsp;
-	<a href="javascript:vli('/cgi-bin/letterSearch.tps');">
-	<small>Send a Letter to Any Company</small>
-	</a>
+	<a href="/cgi-bin/letterSearch.tps"><font class="small">Send a Letter to Any Company</font></a>
 	&nbsp;|&nbsp;
-	<a href="javascript:vli('/cgi-bin/postOpinionStep1.tps');">
-	<small>Write an Opinion</small>
-	</a>
+	<a href="/cgi-bin/postOpinionStep1.tps"><font class="small">Write an Review</font></a>
 	&nbsp;|&nbsp;
-	<a href="/cgi-bin/browse.tps">
-	<small>Browse Opinions</small>
-	</a>
+	<a href="/cgi-bin/browse.tps"><font class="small">Browse Reviews</font></a>
 </td>
 
 </tr>
@@ -1072,7 +1223,7 @@ document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
 
 <table width="100%" cellpadding="5" cellspacing="0" border="0" bgcolor="#ffffff"><tbody><tr><td align="center">
 
-<a href="/cgi-bin/start.tps"><small>HOME</small></a> | <a href="/cgi-bin/help.tps"><small>About Us</small></a> | <a href="/cgi-bin/ads.tps"><small>Advertising</small></a> | <a href="/cgi-bin/agreement.tps"><small>Terms and Conditions</small></a>  |  <a href="/cgi-bin/privacy.tps"><small>Privacy Policy</small></a> | <a href="/cgi-bin/press.tps"><small>Press</small></a> | <a href="/cgi-bin/investors.tps"><small>Investors</small></a> | <a href="/cgi-bin/mailUs.tps"><small>Contact Us</small></a> 
+<a href="/cgi-bin/start.tps"><font class="small">HOME</font></a> | <a href="/cgi-bin/aboutUs.tps"><font class="small">About Us</font></a> | <a href="/cgi-bin/agreement.tps"><font class="small">Terms and Conditions</font></a>  |  <a href="/cgi-bin/privacy.tps"><font class="small">Privacy Policy</font></a> | <a href="/cgi-bin/adInfo.tps"><font class="small">Advertising</font></a> | <a href="/cgi-bin/press.tps"><font class="small">Press</font></a> | <a href="/cgi-bin/mailUs.tps"><font class="small">Contact Us</font></a>  | <a href="/cgi-bin/partnerInfo.tps"><font class="small">Become a Partner!</font></a> 
 
 </td></tr></tbody></table>
 
@@ -1081,7 +1232,7 @@ document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
 <hr width="95%">
 
 <font size="-2" face="verdana, arial, helvetica">
-© Copyright 2000 MY3CENTS.COM, Inc.
+© Copyright 2000-2001 MY3CENTS.COM, Inc.
 </font>
 
 </center>
