@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the cargill.com privacy policy that was archived on 2004-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206175728id_/http%3A//www.cargill.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cargill.com privacy policy that was archived on 2005-03-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050306225112id_/http%3A//www.cargill.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Privacy Home</title>
-<meta name="GENERATOR" content="Transit Central 6.0 by Stellent (tm), Inc. www.stellent.com">
-<meta name="TransitPubID" content="2805"><meta id="breadcrumbTitle" name="breadcrumbTitle" content="Privacy Home">
+<meta name="GENERATOR" content="Stellent Content Publisher 6.2">
+<meta name="TransitPubID" content="3443"><meta id="breadcrumbTitle" name="breadcrumbTitle" content="Privacy Home">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 	<link rel="stylesheet" href="http://www.cargill.com/_css/dotcom_css_format.css" media="screen">
@@ -123,96 +123,9 @@
 			<!--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 	file:	dotcom_ssi_footer.ssi
 	cid:	DOTCOM_SSI_FOOTER
-	
+
 	This is the footer code that is used by every page on the cargill.com website.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-->
-  <script>  
-window.onload = function() { behindPopup(); } 
-
-var windowHandle;
-var cookieName = "cargillsurveycount";
-var expDays = 30; // number of days the cookie should last
-  
-function behindPopup() {
-  var count = GetCookie(cookieName);  
-  if (count == null) { 
-    count=1;
-    var nth = 5;
-    var rnd = Math.floor(Math.random() * nth) + 1;
-	 
-    if (rnd == nth) {
-      browserVer=parseInt(navigator.appVersion); 
-      windowHandle = window.open("http://websurveyor.net/wsb.dll/9399/wwwCargillcom.htm","survey","height=680,width=720, scrollbars=yes");
-      SetCookie(cookieName, count, exp);
-      if(browserVer>=4){ 
-        window.focus(); 
-      }
-    }	 
-
-  } else {
-    count++;
-    SetCookie(cookieName, count, exp);
-  }
-}
-
-function GetCookie (name) {  
-  var arg = name + "=";  
-  var alen = arg.length;  
-  var clen = document.cookie.length;var i = 0;  
-  while (i < clen) {    
-    var j = i + alen;    
-    if (document.cookie.substring(i, j) == arg)      
-      return getCookieVal (j);    
-    i = document.cookie.indexOf(" ", i) + 1;    
-    if(i == 0) break;   
-  }  
-  return null;
-}
-
-function SetCookie (name, value) {  
-  var argv = SetCookie.arguments;  
-  var argc = SetCookie.arguments.length;  
-  var expires = (argc > 2) ? argv[2]: null;  
-  var path = (argc > 3) ? argv[3] : null;  
-  var domain = (argc > 4) ? argv[4] : null;  
-  var secure=(argc > 5) ? argv[5] : false;  
-  document.cookie = name + "=" + escape (value) + 
-    ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
-    ((path == null) ? "" : ("; path=" + path)) +  
-    ((domain == null) ? "" : ("; domain=" + domain)) +    
-    ((secure == true) ? "; secure" : "");
-}
-
-function DeleteCookie (name) {  
-  var exp = new Date();  
-  exp.setTime (exp.getTime() - 1);  
-  var cval = GetCookie (name);  
-  document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
-}
-
-var exp = new Date(); 
-exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
-
-function amt(){
-  var count = GetCookie(cookieName)
-  if(count == null) {
-    SetCookie(cookieName,'1')
-    return 1
-  } else {
-    var newcount = parseInt(count) + 1;
-    DeleteCookie(cookieName)
-    SetCookie(cookieName,newcount,exp)
-    return count
-  }
-}
-
-function getCookieVal(offset) {
-  var endstr = document.cookie.indexOf (";", offset);
-  if (endstr == -1)
-    endstr = document.cookie.length;
-  return unescape(document.cookie.substring(offset, endstr));
-}
-</script>  
 
 <div id="spacer"></div>
 
@@ -221,7 +134,7 @@ function getCookieVal(offset) {
 </div>
 
 <div id="footerContainerContentRight">
-	<span class="footerText">© 2004, Cargill, Incorporated. All Rights Reserved.</span>
+	<span class="footerText">© 2005, Cargill, Incorporated. All Rights Reserved.</span>
 </div>
 
 <div id="spacer"></div>
