@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greencine.com privacy policy that was archived on 2003-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031122220120id_/http%3A//www.greencine.com/static/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greencine.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603234748id_/http%3A//www.greencine.com/static/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
     <title>GreenCine | privacy</title>
@@ -9,14 +9,20 @@ TD {FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana}
 .header1 {FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Verdana}
 .header2 {FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ff9900; FONT-FAMILY: Verdana}
 .footer1 {FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Verdana}
+.footer1 A {FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #003300; FONT-FAMILY: Verdana; TEXT-DECORATION: none}
+.footer1 A:hover {FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: underline}
 .error {FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #990000; FONT-FAMILY: Verdana}
 .sm {FONT-SIZE: 6pt; FONT-FAMILY: Verdana}
+.sm A {FONT-WEIGHT: bold; FONT-SIZE: 6pt; COLOR: #003300; FONT-FAMILY: Verdana; TEXT-DECORATION: none}
+.sm A:hover {FONT-WEIGHT: bold; FONT-SIZE: 6pt; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: underline}		
 A {FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #006600; FONT-FAMILY: Verdana; TEXT-DECORATION: none}
 A:hover {FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: underline}
 A.small {FONT-WEIGHT: bold; FONT-SIZE: 7pt; COLOR: #003300; FONT-FAMILY: Verdana; TEXT-DECORATION: none}
 A.small:hover {FONT-WEIGHT: bold; FONT-SIZE: 7pt; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: underline}
 A.error {FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #990000; FONT-FAMILY: Verdana; TEXT-DECORATION: none}
 A.error:hover {FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #990000; FONT-FAMILY: Verdana; TEXT-DECORATION: underline}
+A.adult {FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #1968C5; FONT-FAMILY: Verdana; TEXT-DECORATION: none}
+A.adult:hover {FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #19107A; FONT-FAMILY: Verdana; TEXT-DECORATION: underline}
 </style>
     <script language="JavaScript">
 <!--
@@ -117,13 +123,24 @@ function expandIt( id ) {
 	<tbody><tr>  
   		<td colspan="3">
 			<table width="100%" cellspacing="0" cellpadding="0" border="0" background="http://images.greencine.com/images/Greencine_background_lower.jpg" bgcolor="#99CC00">
-				<tbody><tr><form action="http://www.greencine.com/search" method="get"></form><input type="hidden" name="00000" value="All">
+				<tbody><tr><form action="http://www.greencine.com/catalogQuickSearch" method="post"></form>
 				  	<td rowspan="2"><img src="http://images.greencine.com/images/spacer.gif" width="11" height="8" border="0" alt=""></td>
 				  	<td width="128" align="left">
-						<input type="text" name="w0RdZ" size="18" value="">
+						<input type="text" name="SEARCH_STRING" size="18" value="">
 				  	</td>
 				  	<td align="left"><input type="image" name="GO" value="GO" src="http://images.greencine.com/images/search.gif" border="0"></td>
 				</tr>
+<!--
+				<tr><form action="http://www.greencine.com/search" method="get"><input type="hidden" name="00000" value="All"><input type="hidden" name="adult" value="0">
+				  	<td rowspan="2"><img src="http://images.greencine.com/images/spacer.gif" width="11" height="8" border="0" alt=""></td>
+				  	<td width="128" align="left">
+						<input 	type="text" name="w0RdZ" 
+								size="18" 
+								value="">
+				  	</td>
+				  	<td align="left"><input type="image" name="GO" value="GO" src="http://images.greencine.com/images/search.gif" border="0"></td></form>
+				</tr>				
+-->
 				<tr>
 					<td colspan="2"><a href="http://www.greencine.com/advancedSearch">Advanced Search</a></td>
 				</tr>
@@ -174,10 +191,10 @@ function expandIt( id ) {
     	                	<option value="/static/indieSpiritAwards.jsp">Indie Spirit Awards</option>    	                
     	      
     	                
-    	                	<option value="/cannesPalme.jsp">Cannes Palme d'Or</option>    	                
+    	                	<option value="/static/cannesPalme.jsp">Cannes Palme d'Or</option>    	                
     	      
     	                
-    	                	<option value="/sundanceWinners.jsp">Sundance Winners</option>    	                
+    	                	<option value="/static/sundanceWinners.jsp">Sundance Winners</option>    	                
     	      
     	                
     	                	<option value="/static/oscars.jsp">Oscars</option>    	                
@@ -189,10 +206,13 @@ function expandIt( id ) {
     	                	<option value="/static/rosenbaumTop100.jsp">Rosenbaums' Top 100</option>    	                
     	      
     	                
-    	                	<option value="/LAFilmCritics.jsp">LA Film Critics</option>    	                
+    	                	<option value="/static/LAFilmCritics.jsp">LA Film Critics</option>    	                
     	      
     	                
-    	                	<option value="/NYFilmCritics.jsp">NY Film Critics</option>    	                
+    	                	<option value="/static/NYFilmCritics.jsp">NY Film Critics</option>    	                
+    	      
+    	                
+    	                	<option value="/static/bfi.jsp">BFI Top 100 British Films</option>    	                
     	      
     	                
     	            </select>
@@ -214,6 +234,9 @@ function expandIt( id ) {
     	      
     	                
     	                	<option value="/comingSoon">Coming Soon</option>    	                
+    	      
+    	                
+    	                	<option value="/static/nrindex.jsp">New Releases Archive</option>    	                
     	      
     	                
     	                	<option value="/mvi/">100 Best Indies</option>    	                
@@ -243,10 +266,16 @@ function expandIt( id ) {
     	                	<option value="/static/people.jsp">People</option>    	                
     	      
     	                
-    	                	<option value="/static/eclection.jsp">GreenCine's Eclection</option>    	                
+    	                	<option value="/static/eclection.jsp">Eclection &amp; Staff Picks</option>    	                
     	      
     	                
     	                	<option value="/topList">Top Lists</option>    	                
+    	      
+    	                
+    	                	<option value="/article">Articles</option>    	                
+    	      
+    	                
+    	                	<option value="http://daily.greencine.com">GreenCine Daily Blog</option>    	                
     	      
     	                
     	            </select>
@@ -361,15 +390,15 @@ If you have questions about Privacy and GreenCine membership, please send them t
             <a href="http://www.greencine.com/static/donations.jsp">donations</a> ·
             <font color="gray">refer a friend</font>  · 
             <a href="http://www.greencine.com/static/support.jsp">support</a>· 
-            <a href="http://www.greencine.com/static/faq.jsp">faqs</a><br>
+            <a href="http://www.greencine.com/static/faq.jsp">faq</a><br>
             <a href="http://www.greencine.com/static/contact.jsp">contact us</a> · 
             <a href="http://www.greencine.com/press">press room</a> · 
             <a href="http://www.greencine.com/static/privacy.jsp">privacy policy</a> · 
             <a href="http://www.greencine.com/static/terms.jsp">terms</a> · 
             <a href="http://www.greencine.com/sitemap">sitemap</a><!-- &middot; <font color=gray>gift certificates</font> --><br>
 			<br>
-				<font size="-8">Copyright © 2003 GreenCine, Inc.  All rights reserved.<br>
-				Portions of this page copyright © 1981-2003 Muze Inc. 
+				<font size="-8">Copyright © 2004 GreenCine, Inc.  All rights reserved.<br>
+				Portions of this page copyright © 1981-2004 Muze Inc. 
 				For personal non-commercial use only. All rights reserved.</font>
         </td>
     </tr>     
