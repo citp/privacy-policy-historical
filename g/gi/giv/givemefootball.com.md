@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemefootball.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204083519id_/http%3A//www.givemefootball.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemefootball.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203444id_/http%3A//www.givemefootball.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,8 +13,7 @@ In some cases, as per the PFA Fans Player Awards, you may voluntarily provide pe
 
 1\. The Professional Footballers Association is registered under, and will process your personal data in accordance with, data protection legislation.
 
-2\. You hereby agree that the Registration Information (and all updates of the Registration Information) and any other information sent to The Professional Footballers Association by you or otherwise obtained by The Professional Footballers Association about you ("the Personal Data") may be processed by The Professional Footballers Association for the purposes of:
-
+2\. You hereby agree that the Registration Information (and all updates of the Registration Information) and any other information sent to The Professional Footballers Association by you or otherwise obtained by The Professional Footballers Association about you ("the Personal Data") may be processed by The Professional Footballers Association for the purposes of:  
 \- (a) processing your requests;  
 \- (b) providing you with information by email or other means;  
 \- (c) providing you with information about products and services of The Professional Footballers Association and other parties;  
@@ -28,11 +27,12 @@ In some cases, as per the PFA Fans Player Awards, you may voluntarily provide pe
 3\. THE PROCESSING OF THE PERSONAL DATA MAY INVOLVE THE PROFESSIONAL FOOTBALLERS ASSOCIATION DISCLOSING YOUR DETAILS TO REGULATORY BODIES AND/OR OTHER THIRD PARTIES.
 
 If you do not wish your Personal Data to be disclosed in this manner, please make this clear by sending an appropriately worded message to privacy@givemefootball.com.   
-From time to time we may also use your personal data to notify you of other goods and/or services offered by The Professional Footballers Association and/or third party marketing partners. We will share with them your e-mail address and the information described above, so they can send you offers for products and services that may be of interest to you. 
+From time to time we may also use your personal data to notify you of other goods and/or services offered by The Professional Footballers Association and/or third party marketing partners.
 
-We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each e-mail we send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.
+You will only receive these emails from us if you have opted in by checking the box on the registration page. Additionally, each e-mail we send you will include a description of the simple opt out process to enable you to stop receiving future e-mail. 
 
-If you have questions regarding this privacy statement please send an e-mail to: [privacy@givemefootball.com](mailto:privacy@givemefootball.com)
+If you have questions regarding this privacy statement please send an e-mail to:  
+[privacy@givemefootball.com ](mailto:privacy@givemefootball.com%20)
 
 GIVEMEFOOTBALL LIMITED   
 20 OXFORD COURT  
