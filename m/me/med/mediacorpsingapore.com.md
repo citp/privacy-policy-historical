@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacorpsingapore.com privacy policy that was archived on 2001-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010615012722id_/http%3A//www.mediacorpsingapore.com/ect_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacorpsingapore.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803120136id_/http%3A//www.mediacorpsingapore.com/ect_privacy.htm) for the most accurate reproduction.*
 
 # MediaCorp Singapore
 
@@ -17,7 +17,7 @@ For each visitor to the Sites, our web servers automatically recognize only info
 
 
 
-It is MediaCorp Interactive’s policy to keep Personal Information only for so long as needed for such purposes. MediaCorp Interactive does not sell, rent or otherwise distribute to third parties Personal Information about its customers or visitors to the Sites. At any time, you may obtain a summary of the Personal Information on record with MediaCorp Interactive which has been collected about you via this Site. Except for Personal Information we need to complete your purchase of products, you may request at any time that MediaCorp Interactive dispose of any or all Personal Information about you. In addition, at any time you may request: 
+It is MediaCorp Interactive’s policy to keep Personal Information only for so long as needed for such purposes. At any time, you may obtain a summary of the Personal Information on record with MediaCorp Interactive which has been collected about you via this Site. Except for Personal Information we need to complete your purchase of products, you may request at any time that MediaCorp Interactive dispose of any or all Personal Information about you. In addition, at any time you may request: 
 
   1. that MediaCorp Interactive correct any such Personal Information; or 
   2. that such Personal Information be removed from MediaCorp Interactive's marketing databases. 
