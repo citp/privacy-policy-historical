@@ -1,14 +1,50 @@
-<!--The following is the downloaded HTML source of the thomson.com privacy policy that was archived on 2004-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610174501id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thomson.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208062550id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>Thomson - Privacy Statement</title>
+<title>Thomson - Privacy Statement</title>
     <link rel="stylesheet" type="text/css" href="/css/thomson_main.css">
     <link rel="stylesheet" type="text/css" href="/css/thomson_corp.css">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <script language="javascript" src="/js/layerdisplay.js"></script>
     <script language="javascript">
-	function openwin(url, w, h, s) {
+    //Method that sets the value of hiddden variables before submission of the form
+    function searchSubmit(formObj){
+    	//alert('searchSubmit called');
+    	var selectedOption = formObj.search_area[formObj.search_area.selectedIndex].value;
+	
+	//if thomson.com is selected search the entire site
+	if(selectedOption == "thomson"){
+		formObj.aboutUs.value="on";
+		formObj.pressRoom.value="on";
+		formObj.pressReleases.value="on";
+		formObj.investorRelations.value="on";
+		formObj.financial.value="on";
+		formObj.healthcare.value="on";
+		formObj.learning.value="on";
+		formObj.legal.value="on";
+		formObj.bizInfoAndNews.value="on";
+		formObj.scientific.value="on";
+		formObj.taxAndAccounting.value="on";
+	}
+	else if (selectedOption == "financial"){
+		formObj.financial.value="on";
+	}else if (selectedOption == "healthcare"){
+		formObj.healthcare.value="on";
+	}else if (selectedOption == "learning"){
+		formObj.learning.value="on";
+	}else if (selectedOption == "legal"){
+		formObj.legal.value="on";
+	}else if (selectedOption == "bizinfo"){
+		formObj.bizInfoAndNews.value="on";
+	}else if (selectedOption == "scientific"){
+		formObj.scientific.value="on";
+	}else if (selectedOption == "taxacct"){
+		formObj.taxAndAccounting.value="on";
+	}
+	
+    }
+    function openwin(url, w, h, s) {
 			winstyle = 'top=50,left=50,width='+w+',height='+h;
 			if (s == 'scroll') {
 				winstyle = winstyle + ',scrollbars=yes';
@@ -105,7 +141,7 @@
     basePath = "/images/topnav/topnav_explore_thomson_";
     explore_thomson_on = new Image(); explore_thomson_on.src = basePath + "on.gif";
     explore_thomson_off = new Image(); explore_thomson_off.src = basePath + "off.gif";
-	
+    	
     </script> 
 </head>
 
@@ -144,23 +180,47 @@
     </tr>
 </tbody></table>
 <table width="760" border="0" cellpadding="0" cellspacing="0">
-    <form action="/search/executeSearchQuery.do" method="GET"></form>
+    <form action="/search/executeSearchQuery.do" method="GET" onsubmit="searchSubmit(this);"></form>
     <tbody><tr>
         <td width="174"><a href="/index.jsp"><img src="/images/misc/logo_thomson.gif" width="174" height="45" alt="The Thomson Corporation" border="0"></a></td>
-        <td width="466" align="right" valign="middle"><input type="text" name="queryText" value="Search" onfocus="if(this.value=='Search')this.value='';"><img src="/images/s.gif" width="10" height="1" alt="" border="0"><input type="image" src="/images/buttons/bu_go.gif" width="16" height="14" alt="Go" align="absmiddle" border="0">
+        <td width="466" align="right" valign="middle">
+	
+	<input type="text" name="queryText" value="Search" onfocus="if(this.value=='Search')this.value='';">
+	 in 
+	<select name="search_area">
+		<option value="thomson" selected="">Thomson.com</option>
+		<option value="financial">Financial</option>
+		<option value="healthcare">Healthcare</option>
+		<option value="learning">Learning</option>
+		<option value="legal">Legal</option>
+		<option value="bizinfo">News &amp; Business Info</option>
+		<option value="scientific">Scientific</option>
+		<option value="taxacct">Tax &amp; Accounting</option>
+	</select>
+	<img src="/images/s.gif" width="10" height="1" alt="" border="0">
+	<input type="image" src="/images/buttons/bu_go.gif" width="16" height="14" alt="Go" align="absmiddle" border="0">
            	<input type="hidden" name="section" value="corp">
-			<input type="hidden" name="subsection" value="null">
-            <input type="hidden" name="aboutUs" value="on">
-            <input type="hidden" name="legal" value="on">
-            <input type="hidden" name="pressRoom" value="on">
-            <input type="hidden" name="taxAndAccounting" value="on">
-            <input type="hidden" name="pressReleases" value="on">
-            <input type="hidden" name="bizInfoAndNews" value="on">
-            <input type="hidden" name="investorRelations" value="on">
-            <input type="hidden" name="learning" value="on">
-            <input type="hidden" name="financial" value="on">
-            <input type="hidden" name="healthcare" value="on">
-            <input type="hidden" name="scientific" value="on"></td>
+			
+			<!-- For Omniture correlated variables -->
+			
+			
+			<input type="hidden" name="subsection" value="">
+			<input type="hidden" name="ternary" value="">
+			
+	    
+	    <input type="hidden" name="aboutUs" value="off">
+            <input type="hidden" name="legal" value="off">
+            <input type="hidden" name="pressRoom" value="off">
+            <input type="hidden" name="taxAndAccounting" value="off">
+            <input type="hidden" name="pressReleases" value="off">
+            <input type="hidden" name="bizInfoAndNews" value="off">
+            <input type="hidden" name="investorRelations" value="off">
+            <input type="hidden" name="learning" value="off">
+            <input type="hidden" name="financial" value="off">
+            <input type="hidden" name="healthcare" value="off">
+            <input type="hidden" name="scientific" value="off">
+	   
+	    </td>
         <td width="120" valign="middle">
             <img src="/images/s.gif" width="10" height="1" alt="" border="0"><a href="/search/advanced_search_corp.jsp">Advanced Search</a>
         </td>
@@ -289,7 +349,7 @@
     
 	
     <tr>
-        <td><a href="/corp/investor_relations/getLatestArticlesForInvestorRelationsHome.do?query=irhome&amp;code=earnings_fin&amp;maxArticles=3&amp;beginArticleNumber=0" onmouseover="changeNavImage('investor_relations', 'off_over');" onmouseout="changeNavImage('investor_relations', 'off');"><img src="/images/sections/corp/leftnav_cp_investor_relations_off.gif" name="investor_relations" width="163" height="15" alt="Investor Relations" border="0"></a></td>
+        <td><a href="/corp/investor_relations/ir_home.jsp" onmouseover="changeNavImage('investor_relations', 'off_over');" onmouseout="changeNavImage('investor_relations', 'off');"><img src="/images/sections/corp/leftnav_cp_investor_relations_off.gif" name="investor_relations" width="163" height="15" alt="Investor Relations" border="0"></a></td>
     </tr>
     <tr>
         <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
@@ -474,11 +534,11 @@ var s_prop1=""
 var s_prop2=""
 var s_prop3=""
 var s_prop4=""
-var s_prop5=""
-var s_prop6=""
-var s_prop7=""
-var s_prop8=""
-var s_prop9=""
+//var s_prop5=""
+//var s_prop6=""
+//var s_prop7=""
+//var s_prop8=""
+//var s_prop9=""
 var s_prop10=""
 /* E-commerce Variables */
 var s_campaign=""
@@ -495,7 +555,7 @@ var s_eVar5=""
 /********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
 //-->
 </script>
-<script language="JavaScript" src="/js/s_code_remote.js"></script><img name="s_i_thcorp" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/thcorp/1/G.5-PD-R/s74714139775088?[AQB]&amp;ndh=1&amp;t=31/0/2020%205%3A44%3A41%205%200&amp;ch=corp&amp;c1=null&amp;g=https%3A//web.archive.org/web/20040610174501id_/http%253A//www.thomson.com/corp/privacy.jsp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" src="/js/s_code_remote.js"></script><img name="s_i_thcorp" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/thcorp/1/G.5-PD-R/s71606205094018?[AQB]&amp;ndh=1&amp;t=31/0/2020%205%3A44%3A44%205%200&amp;ch=corp&amp;g=https%3A//web.archive.org/web/20041208062550id_/http%253A//www.thomson.com/corp/privacy.jsp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <!-- End SiteCatalyst code version: G.4. -->
 
 
