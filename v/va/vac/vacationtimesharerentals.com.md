@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vacationtimesharerentals.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409160722id_/http%3A//www.vacationtimesharerentals.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationtimesharerentals.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207045839id_/http%3A//vacationtimesharerentals.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Vacation Timeshare Rentals : Privacy Policy : Timeshares : Rental
+# Vacation Timeshare Rentals Sales Resales
 
 The VacationTimeshareRentals.com website is maintained by Vacation Timeshare Rentals, LLC, located and under the jurisdiction of laws in the State of Oklahoma, USA.
 
