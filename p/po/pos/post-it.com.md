@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the post-it.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602143109id_/http%3A//www.3m.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the post-it.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204222525id_/http%3A//www.3m.com/privacy.html) for the most accurate reproduction.*
 
 # 3M Worldwide: Privacy Policy
 
