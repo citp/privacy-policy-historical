@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studymalaysia.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/corporate/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studymalaysia.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/corporate/privacy.shtml) for the most accurate reproduction.*
 
 # Study Malaysia Privacy Statement
 
@@ -6,22 +6,22 @@
 ---  
    
  Site  |  Articles   
-[](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/my/index.shtml)  
-[](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/uni/index.shtml)  
-[](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/finance/index.shtml)  
-[](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/who/index.shtml)  
-[](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/student/index.shtml)  
-[](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/is/index.shtml)  
-[](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/info/index.shtml)  
+[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/my/index.shtml)  
+[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/uni/index.shtml)  
+[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/finance/index.shtml)  
+[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/who/index.shtml)  
+[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/student/index.shtml)  
+[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/is/index.shtml)  
+[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/info/index.shtml)  
   
   
-[](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/helpdesk/helpdesk2.shtml?TYPE=PROMOTE)   
-[](http://www.trainingmalaysia.com/)   
+[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/helpdesk/helpdesk2.shtml?TYPE=PROMOTE)   
+[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/study.htm)   
+[](http://mlvk.trainingmalaysia.com/)  
   
-  
-|  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/uni/cprofile.shtml) | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/info/onfocus.shtml) | [](http://www.studymalaysia.com/cgi-bin/studyforum/studyforum.cgi) | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/helpdesk/helpdesk.shtml) | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/student/eventc.shtml) | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/info/hotlinks.shtml)  
+|  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/uni/cprofile.shtml) | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/info/onfocus.shtml) | [](http://www.studymalaysia.com/cgi-bin/studyforum/studyforum.cgi) | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/helpdesk/helpdesk.shtml) | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/student/eventc.shtml) | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/info/hotlinks.shtml)  
 ---|---|---|---|---|---|---  
-|  |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=ONE) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=KBU) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=INFORMATICS) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=SYSTEMATIC) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=ICOM) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=APIIT) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=INTI) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=SUNWAY) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=NILAI) |   
+|  |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=ONE) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=KBU) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=INFORMATICS) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=SYSTEMATIC) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=ICOM) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=APIIT) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=INTI) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=SUNWAY) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=NILAI) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 | 
@@ -58,9 +58,4 @@ We use IP addresses to analyze trends, administer the site, track user’s movem
 
 * * *
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.  
-  
-|  |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=ELS) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=PTPL) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=KDU) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=SEDAYA) |  | [](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=IEDUWEB) |  |  |  | [](http://www.studymalaysia.com/mapco) |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
- [About Us](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/corporate/about.shtml?) | [Contact Us](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/corporate/contact.shtml?) | [Promote With Us](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/helpdesk/helpdesk2.shtml?TYPE=PROMOTE&) | [Press Room](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/corporate/press.shtml?) | [Privacy](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/corporate/privacy.shtml?) | [Terms of Use](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/corporate/term.shtml?) | [Disclaimer ](https://web.archive.org/web/20011201140321id_/http%3A//www.studymalaysia.com/corporate/disclaimer.shtml?)  
- Copyright © 1998-2001 Webway E Services Sdn Bhd.
+We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
