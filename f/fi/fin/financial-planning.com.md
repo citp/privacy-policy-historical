@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financial-planning.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203030231id_/http%3A//www.financial-planning.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financial-planning.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622063057id_/http%3A//financial-planning.com/privacy.html) for the most accurate reproduction.*
 
 # Financial-Planning Interactive: Helping Financial Advisers Plan Better Futures
 
