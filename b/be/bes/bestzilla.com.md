@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the bestzilla.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624042015id_/http%3A//www.bestzilla.com/privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy Bestzilla is deeply committed to protecting the privacy of Internet users
+
+**Privacy Policy**  
+Bestzilla is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+
+**Consumer Information**  
+Bestzilla does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Bestzilla does obtain some types of non-personally identifiable information such as your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by Bestzilla is used for the purpose of improving our website for all our visitors.
+
+In some cases, you may voluntarily provide personal information for example when adding a site or subscribing to our newsletter. If this occurs, Bestzilla will not give this information to a third party.
+
+**Opt Out Procedure**  
+If you voluntarily provided personal information and want this information removed, you can do so by sending e-mail to [webmaster@bestzilla.com](mailto:webmaster@bestzilla.com) stating what information you want removed.
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+If you have any additional questions about Bestzilla's dedication to consumer privacy, please contact us at [ webmaster@bestzilla.com](mailto:webmaster@bestzilla.com). 
+
+All Rights Reserved. Privacy Statement 
