@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sco.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520013424id_/http%3A//www.sco.com/copyright/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sco.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202021700id_/http%3A//www.scoinc.com/copyright/privacy.html) for the most accurate reproduction.*
 
-# SCO - Copyrights and Trademarks
+# Privacy Statement
 
-## Online Privacy Policy
+## The Santa Cruz Operation, Inc. ("SCO")
 
-SCO is committed to the security of data collected online. Your privacy is important to us and we recognize your need for reasonable control of personally identifiable information that you provide to SCO. Personally identifiable information is any information that is associated with your name. The information you provide helps SCO to better understand your needs and provide you with better service. To further improve your experience, SCO may also track your use while visiting our web site. 
+The use of SCO in this document refers to SCO and its subsidiaries. SCO is committed to the security of data collected online. Your privacy is important to us and we recognize your need for reasonable control of personally identifiable information that you provide to SCO. Personally identifiable information is any information that is associated with your name. The information you provide helps SCO to better understand your needs and provide you with better service. To further improve your experience, SCO may also track your use while visiting our web site. 
 
 SCO's privacy policy strives to be in line with evolving industry standards and at present covers these main areas regarding the privacy of your information:
 
@@ -26,6 +26,6 @@ SCO is committed to ensuring the security of your information. Credit card numbe
 
 ## Oversight
 
-SCO supports industry self-regulation efforts on privacy. We also closely monitor and track what government bodies in the U.S. and in other countries, as well as consumer groups who are working to protect consumer privacy, are doing. We strive to be in line with their evolving policies and guidelines related to the collection and use of personal data. If you have comments or questions about our privacy policy, please send them to this email address: [privacy@sco.com](mailto:privacy@sco.com).
+SCO supports industry self-regulation efforts on privacy. We also closely monitor and track what government bodies in the U.S. and in other countries, as well as consumer groups who are working to protect consumer privacy, are doing. We strive to be in line with their evolving policies and guidelines related to the collection and use of personal data. If you have comments or questions about our privacy policy, please send them to this email address: [legal@sco.com](mailto:legal@sco.com).
 
 Current as of March 5 1999
