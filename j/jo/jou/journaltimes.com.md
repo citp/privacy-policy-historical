@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the journaltimes.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603182858id_/http%3A//www.journaltimes.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journaltimes.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205000825id_/http%3A//www.journaltimes.com/about/privacy.html) for the most accurate reproduction.*
 
 # JournalTimes.com - Racine County, Wisconsin
 
-PRIVACY POLICY STATEMENT FOR **The Journal Times On-line**
+|  PRIVACY POLICY STATEMENT FOR The Journal Times On-line
 
 Welcome to the Web sites of The Journal Times, a media company located in Racine, Wisconsin. We believe in your right to know what information is collected during your visit to our Web sites and how the information is used and safeguarded. 
 
@@ -21,13 +21,12 @@ Our Web servers automatically collect limited information about your computer's 
 To help make our sites more responsive to the needs of our visitors, we may utilize a standard feature of browser software, called a "cookie". The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. A cookie can't read data off your hard drive. Our advertisers or content partners may also assign their own cookies to your browser, a process that we cannot control. We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. It is a cookie, for example, that allows us to deliver your personalized stock quotes each time you visit a site. 
 
 INFORMATION SHARED WITH OTHER ORGANIZATIONS  
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our Web sites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe may be of interest to you. This list can include your e-mail address and, other specific information (such as your phone number or street address) you may have provided us while online. 
-
-SPECIAL ATTENTION TO CHILDREN  
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our Web sites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe may be of interest to you. This list can include your e-mail address and, other specific information (such as your phone number or street address) you may have provided us while online. SPECIAL ATTENTION TO CHILDREN  
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We do not specifically collect information about children. We encourage parents to review and share safety tips with their children participating in the online experience. 
 
 A final note: JournalTimes.com is affiliated with other online companies, some of which feature our branding. This policy statement does not apply to those companies' Web sites; please refer to these affiliated sites to obtain information on their privacy policies. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
 
 The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. 
 
-All local content copyright 1999-2000, The Racine Journal Times, Racine, Wisconsin. 
+All local content copyright 1999-2003, The Racine Journal Times, Racine, Wisconsin.  |   
+---|---|---
