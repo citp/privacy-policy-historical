@@ -1,12 +1,16 @@
-<!--The following is the downloaded HTML source of the milb.com privacy policy that was archived on 2003-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030624134818id_/http%3A//www.minorleaguebaseball.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the milb.com privacy policy that was archived on 2003-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031002040924id_/http%3A//milb.com/help/privacy) for the most accurate reproduction.-->
 
 <html><head>
+<meta name="title" content="Minor League Baseball - The Official Website of Minor League Baseball">
+<meta name="description" content="The Official Website of Minor League Baseball">
+<meta name="author" content="www.newtweb.com">
 <meta http-equiv="Content-Language" content="en-us">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <link rel="stylesheet" type="text/css" href="/milb.css">
 <title>Minor League Baseball</title>
 <script language="javascript">
+
 	function closeAll(){
 		for(var a=1;a<12;a++){
 			document.getElementById("menu"+a).className = "navhide";
@@ -18,11 +22,35 @@
 		document.getElementById("menu"+whichone).className = "navshow";
 	}
 	
-	var imgpath = "http://www.minorleaguebaseball.com/images/";
-	function mo(img, imgname){
-		img.src = imgpath+imgname;
-	}
+	var homeon = new Image();
+	homeon.src = "/images/menu_home_on.gif";
+	var storeon = new Image();
+	storeon.src = "/images/menu_store_on.gif";
+	var jobson = new Image();
+	jobson.src = "/images/menu_jobs_on.gif";
+	var umpireon = new Image();
+	umpireon.src = "/images/menu_umpire_on.gif";
+	var alumnion = new Image();
+	alumnion.src = "/images/menu_alumni_on.gif";
+	var playoffson = new Image();
+	playoffson.src = "/images/menu_playoffs_on.gif";
+	
+	var homeoff = new Image();
+	homeoff.src = "/images/menu_home_off.gif";
+	var storeoff = new Image();
+	storeoff.src = "/images/menu_store_off.gif";
+	var jobsoff = new Image();
+	jobsoff.src = "/images/menu_jobs_off.gif";
+	var umpireoff = new Image();
+	umpireoff.src = "/images/menu_umpire_off.gif";
+	var alumnioff = new Image();
+	alumnioff.src = "/images/menu_alumni_off.gif";
+	var playoffsoff = new Image();
+	playoffsoff.src = "/images/menu_playoffs_off.gif";
+	
+	function mo(img, setto){img.src = setto.src}
 </script>
+
 </head>
 
 <body background="/images/logo_right_bg.gif" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" marginheight="0" marginwidth="0">
@@ -36,18 +64,18 @@
 <table cellpadding="0" cellspacing="0" border="0" width="780">
   <tbody><tr>
 	<td><img src="/images/menu_search_off.gif" border="0" width="84" height="22"></td>
-	<td><a href="/" onmouseover="mo(home,'menu_home_on.gif')" onmouseout="mo(home,'menu_home_off.gif')">
+	<td><a href="/" onmouseover="mo(home,homeon)" onmouseout="mo(home,homeoff)">
 		<img id="home" src="/images/menu_home_off.gif" border="0" width="71" height="22"></a></td>
-	<td><a href="http://milbstore.com/" onmouseover="mo(store,'menu_store_on.gif')" onmouseout="mo(store,'menu_store_off.gif')">
-		<img id="store" src="/images/menu_store_off.gif" border="0" width="73" height="22"></a></td>
-	<td><a href="/jobs" onmouseover="mo(jobs,'menu_jobs_on.gif')" onmouseout="mo(jobs,'menu_jobs_off.gif')">
-		<img id="jobs" src="/images/menu_jobs_off.gif" border="0" width="65" height="22"></a></td>
-	<td><a href="/umpirecorp" onmouseover="mo(ump,'menu_umpire_on.gif')" onmouseout="mo(ump,'menu_umpire_off.gif')">
-		<img id="ump" src="/images/menu_umpire_off.gif" border="0" name="umpire" width="113" height="22"></a></td>
-	<td><a href="/alumni" onmouseover="mo(alumni,'menu_alumni_on.gif')" onmouseout="mo(alumni,'menu_alumni_off.gif')">
-		<img id="alumni" src="/images/menu_alumni_off.gif" border="0" name="alumni" width="74" height="22"></a></td>
-	<td><a href="/playoffs" onmouseover="mo(playoffs,'menu_playoffs_on.gif')" onmouseout="mo(playoffs,'menu_playoffs_off.gif')">
-		<img id="playoffs" src="/images/menu_playoffs_off.gif" border="0" name="playoffs" width="72" height="22"></a></td>
+	<td><a href="http://milbstore.com/" onmouseover="mo(store,storeon)" onmouseout="mo(store,storeoff)">
+		<img id="store" src="/images/menu_store_off.gif" border="0" width="71" height="22"></a></td>
+	<td><a href="/jobs" onmouseover="mo(jobs,jobson)" onmouseout="mo(jobs,jobsoff)">
+		<img id="jobs" src="/images/menu_jobs_off.gif" border="0" width="61" height="22"></a></td>
+	<td><a href="/umpirecorp" onmouseover="mo(ump,umpireon)" onmouseout="mo(ump,umpireoff)">
+		<img id="ump" src="/images/menu_umpire_off.gif" border="0" name="umpire" width="86" height="22"></a></td>
+	<td><a href="/alumni" onmouseover="mo(alumni,alumnion)" onmouseout="mo(alumni,alumnioff)">
+		<img id="alumni" src="/images/menu_alumni_off.gif" border="0" name="alumni" width="82" height="22"></a></td>
+	<td><a href="/playoffs" onmouseover="mo(playoffs,playoffson)" onmouseout="mo(playoffs,playoffsoff)">
+		<img id="playoffs" src="/images/menu_playoffs_off.gif" border="0" name="playoffs" width="97" height="22"></a></td>
 	<td><img src="/images/menu_right.gif" border="0" width="228" height="22"></td>
   </tr>
 </tbody></table>
@@ -466,7 +494,7 @@
         <td rowspan="11" class="nav2">&nbsp;</td>
       </tr>
       <tr>
-        <td class="nav1"><a class="drk" href="/league/attendance.asp">Attendance</a></td>
+        <td class="nav1"><a class="drk" href="/Pages?id=430">Attendance</a></td>
       </tr>
       <tr>
         <td class="nav1"><a class="drk" href="/league/recaps.asp">Recaps</a></td>
@@ -608,6 +636,9 @@
       <tr>
         <td class="nav1"><a class="drk" href="/links/suppliers">Uniform Suppliers</a></td>
       </tr>
+      <tr>
+        <td class="nav1"><a class="drk" href="/Pages?id=468">Charities</a></td>
+      </tr>	
     </tbody></table>    
     </div>
     </td>
@@ -660,7 +691,7 @@ var random = Math.floor(Math.random() * 1000000000), cdate = new Date();
 document.write('<iframe src="http://ads.specificclick.com/code?pid=985&gid=17&rid=' + random + '&dom=' + cdate.getDate() + '&dow=' + cdate.getDay() + '&hod=' + cdate.getHours() + '" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no">');
 document.write('</iframe>');
 // -->
-</script><iframe src="http://ads.specificclick.com/code?pid=985&amp;gid=17&amp;rid=994784594&amp;dom=31&amp;dow=5&amp;hod=11" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</script><iframe src="http://ads.specificclick.com/code?pid=985&amp;gid=17&amp;rid=94202639&amp;dom=31&amp;dow=5&amp;hod=11" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <noscript>
 <iframe src="http://ads.specificclick.com/code?pid=985&gid=17" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no">
 </iframe>
@@ -674,11 +705,9 @@ document.write('</iframe>');
 				<a href="http://www.minorleaguebaseball.com/pages/?id=223">
 				<img src="http://www.minorleaguebaseball.com/images/ads/HomeRunHero-Mark-web-button.gif" border="0" alt="Old Navy Home Run Hero"></a><br><br>
 				
-				<a href="http://www.bubbleyum.com/" target="_new_">
-				<img src="http://www.minorleaguebaseball.com/upload_images/by_web_button.gif" border="0" alt="BubbleYum"></a><br><br>
-				
-				<a href="http://home.attbi.com/~pennabaker/" target="_new_">
-				<img src="http://www.minorleaguebaseball.com/images/ads/ninth_man.gif" border="0" alt="The Ninth Man"></a><br><br>
+				<div style="width:152;overflow:hidden" align="center">
+					<a href="http://www.minorleaguebaseball.com/redir.asp?id=15"><img src="http://www.minorleaguebaseball.com/upload_images/by_web_ad.gif" border="0"></a>
+				</div><br>
 				
 				<a href="http://www.minorleaguebaseball.com/pages/?id=307">
 				<img src="http://www.minorleaguebaseball.com/images/ads/rol_relief_logo.gif" border="0" alt="Rolaids"></a><br><br>
@@ -789,28 +818,25 @@ document.write('</iframe>');
       
 <center>
 
-				<a href="http://milbstore.com/search_results.asp?keyword=RST" target="_new_"><img src="http://www.minorleaguebaseball.com/images/ads/RoadtoShowAd.gif" border="0" alt="MiLB Store - Road to the Show"></a><br><img src="/images/spacer.gif" height="4"><br>
-				
-				<a href="http://www.minorleaguebaseball.com/pages/?id=440"><img src="http://www.minorleaguebaseball.com/Upload_images/adspace/on_the_road_with_slim.gif" border="0" alt="Phil"></a><br><img src="/images/spacer.gif" height="4"><br>
+				<a href="http://www.minorleaguebaseball.com/pages/?id=446" target="_new_"><img src="http://www.minorleaguebaseball.com/upload_images/ads/RTSAd.gif" border="0" alt="MiLB Store - Road to the Show"></a><br><img src="/images/spacer.gif" height="4"><br>
 				
 </center>
 <table border="0" cellpadding="0" cellspacing="0" width="211">
-  <tbody><tr>
-    <td><img border="0" src="http://www.minorleaguebaseball.com//images/header_auctions.gif"></td>
-  </tr>
-  <tr>
-    <td align="center" class="GrayBox2">
-    <img border="0" src="http://www.minorleaguebaseball.com//images/spacer.gif" width="5" height="5"><br>
-    <b><a class="drk" href="http://www.minorleaguebaseball.com/auction">View All Auction Items</a></b><br>
-    <img border="0" src="http://www.minorleaguebaseball.com//images/spacer.gif" width="5" height="5"></td>
-  </tr>
-  <tr>
-    <td align="center">
-    <img border="0" src="http://www.minorleaguebaseball.com//images/spacer.gif" width="5" height="5"></td>
-  </tr>
+	<tbody><tr><td colspan="2"><img border="0" src="/images/header_auctions.gif"></td></tr>
+		
+			<tr>
+				<td class="GrayBox2" width="211" align="center" valign="top" style="padding:3px" nowrap="">
+					<b><a class="drk" href="http://www.milbstore.com/auction" target="new">2003 Futures Game Helmet Autographed by World Team Manager, and 1964 American League Batting Champion and Rookie of the Year, Tony Oliva.</a></b><a class="drk" href="http://www.milbstore.com/auction" target="new"><br>
+					<img border="0" src="http://www.minorleaguebaseball.com/upload_images/Auction10.gif" alt="2003 Futures Game Helmet Autographed by World Team Manager, and 1964 American League Batting Champion and Rookie of the Year, Tony Oliva."></a>
+				</td>
+			</tr>
+			
+		<tr><td align="center" colspan="2" class="GrayBox2" style="padding:3px" nowrap="">
+			<b><a class="drk" href="http://www.milbstore.com/auction/" target="_new_">View All Auctions</a></b>
+		</td>
+	</tr>
+	<tr><td align="center" colspan="2"><img border="0" src="/images/spacer.gif" width="5" height="5"></td></tr>
 </tbody></table>
-
-
 <table border="0" cellpadding="0" cellspacing="0" width="211">
   <tbody><tr>
     <td><img border="0" src="http://www.minorleaguebaseball.com//images/header_special.gif"></td>
@@ -821,37 +847,32 @@ document.write('</iframe>');
 	
       <tbody><tr>
         <td valign="top"><img border="0" src="/images/circle.gif"></td>
-        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=440">Elson's Essays</a></b></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=528">Elson's Essays, "The Art of Goofiness in the Furry Suit"</a></b></td>
       </tr>
 		
       <tr>
         <td valign="top"><img border="0" src="/images/circle.gif"></td>
-        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=438">LOOKING AT BASEBALL-June 19, 2003--Allure of History</a></b></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=515">2003 Attendance Rankings Links </a></b></td>
       </tr>
 		
       <tr>
         <td valign="top"><img border="0" src="/images/circle.gif"></td>
-        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=430">2001 &amp; 2002 Attendance Figures</a></b></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=513">Baseball In Our Culture- the Gladstone Collection</a></b></td>
+      </tr>
+		
+      <tr>
+        <td valign="top"><img border="0" src="/images/circle.gif"></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=492">2003 League Champions</a></b></td>
+      </tr>
+		
+      <tr>
+        <td valign="top"><img border="0" src="/images/circle.gif"></td>
+        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=504">Looking at Baseball--All-Star Games Trigger Trips for Mary Geary</a></b></td>
       </tr>
 		
       <tr>
         <td valign="top"><img border="0" src="/images/circle.gif"></td>
         <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=425">In the Press</a></b></td>
-      </tr>
-		
-      <tr>
-        <td valign="top"><img border="0" src="/images/circle.gif"></td>
-        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/pages/?id=427">2003 First Half Champions</a></b></td>
-      </tr>
-		
-      <tr>
-        <td valign="top"><img border="0" src="/images/circle.gif"></td>
-        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/fanzone/photos/?id=2">New Photo Gallery</a></b></td>
-      </tr>
-		
-      <tr>
-        <td valign="top"><img border="0" src="/images/circle.gif"></td>
-        <td><b><a class="drk" href="http://www.minorleaguebaseball.com/events/allstar/">2003 All-Star Games</a></b></td>
       </tr>
 		
       <tr>
@@ -881,40 +902,40 @@ document.write('</iframe>');
 	
 		<table border="0" cellpadding="0" cellspacing="0" width="211" style="width:211;border:1px solid #333333">
 		<form name="frmPoll" action="/default.asp" method="post" onsubmit="return vpoll(this)"></form>
-		<input name="pollid" type="hidden" value="11">
+		<input name="pollid" type="hidden" value="26">
 		<tbody><tr><td><img src="/images/header_fan.gif"></td></tr>
-		<tr><td align="justify" bgcolor="#D7DADE" style="padding:3px"><b>What new logo do you like best?</b></td></tr>
+		<tr><td align="justify" bgcolor="#D7DADE" style="padding:3px"><b>What was your favorite promotional item at the ball park this season?</b></td></tr>
 		<tr><td style="padding:3px" bgcolor="#D7DADE" align="center">
 		<table border="0" cellpadding="0" cellspacing="2">
 		
-			<tbody><tr><td align="right">Auburn Doubledays</td>
+			<tbody><tr><td align="right">baseball</td>
 			<td align="right">
 			
-				<input name="Answer" type="radio" value="37">
+				<input name="Answer" type="radio" value="94">
 			
 			</td></tr>
 			<tr><td bgcolor="#555555" colspan="2" height="2"></td></tr>
 			
-			<tr><td align="right">Great Falls White Sox</td>
+			<tr><td align="right">hat</td>
 			<td align="right">
 			
-				<input name="Answer" type="radio" value="38">
+				<input name="Answer" type="radio" value="93">
 			
 			</td></tr>
 			<tr><td bgcolor="#555555" colspan="2" height="2"></td></tr>
 			
-			<tr><td align="right">Helena Brewers</td>
+			<tr><td align="right">pennant</td>
 			<td align="right">
 			
-				<input name="Answer" type="radio" value="39">
+				<input name="Answer" type="radio" value="91">
 			
 			</td></tr>
 			<tr><td bgcolor="#555555" colspan="2" height="2"></td></tr>
 			
-			<tr><td align="right">Pulaski Blue Jays</td>
+			<tr><td align="right">t-shirt</td>
 			<td align="right">
 			
-				<input name="Answer" type="radio" value="41">
+				<input name="Answer" type="radio" value="92">
 			
 			</td></tr>
 			<tr><td bgcolor="#555555" colspan="2" height="2"></td></tr>
