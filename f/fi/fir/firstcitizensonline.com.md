@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402161806id_/http%3A//www.firstcitizensonline.com/disclaimers.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211163822id_/http%3A//www.firstcitizensonline.com/disclaimers.htm%23privacy) for the most accurate reproduction.*
 
 # Disclaimers
 
@@ -18,6 +18,7 @@
   
      This publication could contain inaccuracies and / or dated information. Changes will be made to this information on an ongoing basis.  
      The First Citizens Bank web site provides links to other web sites for convenience and informational purposes only. Users should be aware that when they select a link on the First Citizens' web site to an external web site, they are leaving the First Citizens Bank site. Linked sites are not under the control of First Citizens Bank and First Citizens Bank is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites. First Citizens Bank is not responsible for any transmission received from a linked site. The inclusion of a link does not imply endorsement by First Citizens Bank of the site, its content, advertisers or sponsors. External sites may contain information that is copyrighted with restrictions on reuse. Permission to use copyrighted material must be obtained from the original source and cannot be obtained from First Citizens Bank.   
+     As a condition of use of this Web site, you agree to indemnify First Citizens Bank from and against any and all liabilities, expenses (including attorneys' fees) and damages arising out of claims resulting from your use of this Web site.  
 
 
 **Privacy Statement**  
