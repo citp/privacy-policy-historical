@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607025910id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204231142id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
 
 # Flower Shop Network Privacy Policy
 
-|  [ ](http://www.fgmarket.com/)   
+|    
   
   
 | [Win Free Flowers](https://web.archive.org/pages/freeflowers/ "Win Free Flowers")  
