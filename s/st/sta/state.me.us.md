@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203081800id_/http%3A//www.state.me.us/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603091345id_/http%3A//www.state.me.us/disclaimer.html) for the most accurate reproduction.*
 
 # Maine Online Services: Online Transactions
 
@@ -64,11 +64,18 @@ The Information Resource of Maine collects, retains and utilizes personal inform
 
 Cookies**
 
-In order to better serve you, the user, we may now or in the future use "cookies" to customize your browsing experience. Cookies are simple text files stored by your web browser. They provide a method of distinguishing among visitors to the Maine State Government web site.
+In order to better serve you, the user, we use cookies for certain types of online transactions. 
 
-Cookies do not compromise your privacy or security. We use the cookie feature only to store a randomly generated identifying tag on your computer. If you have further questions about cookies, the Computer Incident Advisory Capacity unit that monitors computer problems for the U.S. Department of Energy issued a study on March 12, 1998 of the risks of cookies to users, titled "[Information Bulletin I-034: Internet Cookies.](http://ciac.llnl.gov/ciac/bulletins/i-034.shtml)"
+Cookies are small text files which a web server may ask your web browser to store, and to send back to the web server when needed. Cookies may be used to store a transaction identifier or other information a user may provide. We use cookies in the following ways: 
 
-You can refuse the cookies or delete the cookie file from your computer by using any of the widely available methods.
+  * **Complex transactions:** Cookies are used to store and retrieve unique transaction identifiers or other server-generated or user-provided information in complex, multi-page web applications. This allows us to distinguish between different users, and to use information provided at one stage of an application at a later time (for instance, items placed in a 'shopping cart' might need to be displayed on a later 'check-out' screen). When we use cookies in this way, the cookie is stored on your web browser only temporarily; the cookie is destroyed at the end of the transaction or at the end of the browser session. 
+  * **Customized Services:** Cookies may also be used to automatically identify a particular user to the system, in order to provide a customized service, such as a personalized web page. In this case, a cookie containing a unique user identifier will be permanently stored on your web browser. We do not store sensitive information in such cookies; only a unique user identifier or generic preference values are stored. Personal information you give us for processing a transaction or using one of our personalization features, may be stored on our secure web server. 
+
+We do not use cookies in order to track your visit to our website. 
+
+The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies or how to disable cookies altogether. However, cookies allow you to take full advantage of many of the Information Resource of Maine's eGovernment services, and we recommend that you leave them turned on. 
+
+If you have further questions about cookies, the Computer Incident Advisory Capacity unit that monitors computer problems for the U.S. Department of Energy issued a study on March 12, 1998 of the risks of cookies to users, titled _[Information Bulletin I-034: Internet Cookies.](http://ciac.llnl.gov/ciac/bulletins/i-034.shtml)_
 
 ### **
 
