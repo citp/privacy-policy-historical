@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213082403id_/http%3A//bestquotes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310200324id_/http%3A//bestquotes.com/privacy.htm) for the most accurate reproduction.*
 
 # Best Quotes Mortgage Refinance Cash Out - Privacy Statement Mortgage
 
-**[](https://web.archive.org/web/20041213082403id_/http%3A//bestquotes.com/contact.htm)Privacy Policy **
+**[](https://web.archive.org/web/20050310200324id_/http%3A//bestquotes.com/contact.htm)Privacy Policy **
 
 Best Quotes Corporation ("Best Quotes") is committed to protecting the privacy of personal information collected from visitors to our web site.
 
@@ -28,15 +28,7 @@ Best Quotes does not utilize cookies, although our online mortgage application s
 **Contact Us**  
 If you want to communicate with us about our Privacy Policy please write to us at:
 
-Best Quotes Corporation  
-26 Omni Court, New City, NY 10956
-
-Call Us:  
-1-888-412-BEST Toll Free Phone  
-1-845-639-5000 Local Phone  
-1-845-639-4000 Fax
-
-Or e-mail us at:  
-[info@bestquotes.com](mailto:info@bestquotes.com)
+E-mail us at:  
+[info@bestquotes.com](mailto:info@bestquotes.com) 
 
 Best Quotes reserves the right to change this Privacy Policy at any time.
