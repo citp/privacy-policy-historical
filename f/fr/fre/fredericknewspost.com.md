@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredericknewspost.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211211424id_/http%3A//www.fredericknewspost.com/docs/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericknewspost.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206224956id_/http%3A//www.fredericknewspost.com/docs/privacy.cfm) for the most accurate reproduction.*
 
 # Frederick News-Post Online Privacy
 
@@ -18,10 +18,4 @@
 >> 
 >> While fredericknewspost.com encourages children to consult with their parents before furnishing data, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufactures that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission. 
 >> 
->> Any specific questions or comments should be directed to our Director of Internet Services, [Matt Barrick](mailto:info@gsnetworks.net). 
->> 
->> [Home](http://www.fredericknewspost.com/index.cfm)  |   [Contact us](http://www.fredericknewspost.com/contact/)  |   [Privacy](http://www.fredericknewspost.com/docs/privacy.cfm)
->> 
->> a [GS Net.Works](http://www.gsnetworks.net/) production 
->> 
->> Copyright © 1998 Great Southern Printing & Manufacturing Company 
+>> Any specific questions or comments should be directed to our Asst. Director of Internet Services , [Audrey T. Covington](mailto:info@gsnetworks.net). 
