@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
 
 # Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
 
@@ -9,91 +9,93 @@
   
 ---  
   
+[ ](http://www.scanalert.com/RatingVerify?ref=www.coffeeforless.com)  
+  
 **  browse the store:**  
   
 | 
 
-[ Ground Coffee](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=113)  
+[ Ground Coffee](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=113)  
   
 | 
 
-[ Coffee Beans](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=159)  
+[ Coffee Beans](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=159)  
   
 | 
 
-[ Tea](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=98)  
+[ Tea](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=98)  
   
 | 
 
-[ Hot Chocolate](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=125)  
+[ Hot Chocolate](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=125)  
   
 | 
 
-[ Keurig](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=84)  
+[ Keurig](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=84)  
   
 | 
 
-[ Coffee Machines](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=145)  
+[ Coffee Machines](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=145)  
   
 | 
 
-[ Espresso Machines](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=138)  
+[ Espresso Machines](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=138)  
   
 | 
 
-[ Coffee Grinders](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=143)  
+[ Coffee Grinders](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=143)  
   
 | 
 
-[ Coffee Creamer](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=131)  
+[ Coffee Creamer](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=131)  
   
 | 
 
-[ Paper Products](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=165)  
+[ Paper Products](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=165)  
   
 | 
 
-[ Sugar & Sweeteners](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=74)  
+[ Sugar & Sweeteners](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=74)  
   
 | 
 
-[ Coffee Syrup](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=251)  
+[ Coffee Syrup](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=251)  
   
 | 
 
-[ Bottled Water](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=209)  
+[ Bottled Water](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=209)  
   
 | 
 
-[ Water Coolers](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=234)  
+[ Water Coolers](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=234)  
   
 | 
 
-[ Gifts](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=296)  
+[ Gifts](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=296)  
   
 | 
 
-[ Coffee Drinks](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=351)  
+[ Coffee Drinks](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=351)  
   
 | 
 
-[ Energy Drinks](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=482)  
+[ Energy Drinks](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=482)  
   
 | 
 
-[ CoffeeForLess.com Store](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=483)  
+[ CoffeeForLess.com Store](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=483)  
   
 | 
 
-[ Coffee Of The Month Club](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=504)  
+[ Coffee Of The Month Club](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=504)  
   
 | 
 
-[ Clearance Section](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/category.asp?id=516)  
+[ Clearance Section](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/category.asp?id=516)  
   
    
   
-|  |     
+|  |    
 ---|---  
 | 
 
@@ -101,7 +103,7 @@
   
 ---  
   
-**[ ](https://www.truste.org/validate.php?invnum=12023&fromcgi=1)CoffeeForLess.com** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site CoffeeForLess.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+**CoffeeForLess.com Privacy Statement-** This privacy statement covers the site CoffeeForLess.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.
 
   1. **What personally identifiable information CoffeeForLess collects.**
 
@@ -122,7 +124,7 @@
 
 
 
-**** If users have questions or concerns regarding this statement, they should first contact Ben Kirshner by e-mail (ben@coffeeserv.com) If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/users/users_watchdog_intro.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+**** If users have questions or concerns regarding this statement, they should first contact Ben Kirshner by e-mail (ben@coffeeserv.com)
 
 Information Collection and Use Information Collection CoffeeForLessis the sole owner of the information collected on www.CoffeeForLess.com. CoffeeForLess collects information from our users at several different points on our Web site. 
 
@@ -178,11 +180,12 @@ The Fair Credit Billing Act states that you cannot be held liable by your bank f
   
   
   
-[Contact Us](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/customerservice.asp) |  [ Office Coffee Service](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/fortheoffice.asp) |[ Privacy and Security ](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/privacy_and_security.asp)|[ Terms and Conditions](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/terms_and_conditions.asp)   
-[Affiliate Program](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/affiliate.asp) | [Press Room](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/pressroom.asp) | [Coffee Glossary](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/coffeeglossary.asp) | [ Recommended Coffee Sites](https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/links.asp)  
+**[ Contact Us](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/customerservice.asp) |  [ Office Coffee Service](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/fortheoffice.asp) |[ Privacy and Security ](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/privacy_and_security.asp)|[ Terms and Conditions](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/terms_and_conditions.asp)   
+[Affiliate Program](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/affiliate.asp) | [Press Room](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/pressroom.asp) | [Coffee Glossary](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/coffeeglossary.asp) | [ Recommended Coffee Sites](https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/links.asp)  
 ** 1-888-893-7593  
-**© 2002 CoffeeServ Inc. All rights reserved.  
-  
+**© 2002 CoffeeServ Inc. All rights reserved.**
+
+ ** **  
   
 [ ](http://www.advanceware.net/)
 
