@@ -1,7 +1,15 @@
-<!--The following is the downloaded HTML source of the my3cents.com privacy policy that was archived on 2002-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021010110841id_/http%3A//www.my3cents.com/cgi-bin/privacy.tps) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the my3cents.com privacy policy that was archived on 2003-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030623074911id_/http%3A//my3cents.com/privacy.cgi) for the most accurate reproduction.-->
 
-<html><head><style>
+<html><head><title>My3cents.com - Let your voice be heard!</title>
+
+
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<meta name="keywords" content="complaints, opinions, complaint, complain, buyers, consumer, letters, reviews, consumer rights, consumer help, companies, ratings, news, resources, travel complaints, airline complaints, hotel complaints, rental cars, Internet Service Providers, personal computers, delivery services, e-commerce sites, corporate contacts, complaints, suggestions, questions, compliments, complaint letter, complaint letters, empowerment, aggregation, complaints, consumer advocates">
+
+
+<meta name="description" content="My3cents.com - Your advocate for consumer empowerment.  We are dedicated to helping consumers with complaints or compliments regarding any company, product or service.  Our services include a FREE letter service for sending letters to any company, online opinion forum to education consumers, and an extensive company database for helping you connect to the company of your choice.">
+<style>
 	BODY		{
                         font-size: 9pt;
                         font-family: VERDANA,ARIAL,HELVETICA;
@@ -56,7 +64,7 @@
 			cursor: hand;
 			}
 	.smallcats	{ 
-			font-size: 8pt; 
+			font-size: 9pt; 
 			font-family: ARIAL,HELVETICA; 
 			}
 	.greybigbld 	{ 
@@ -130,21 +138,25 @@
 			font-weight: bold; 
 			color: #04359b; 
 			}
+	.medLink	{ 
+			font-size: 11pt; 
+			font-family: VERDANA,ARIAL,HELVETICA; 
+			font-weight: bold; 
+			}
+	.medLink:hover	{
+			color:#E56701;
+
+			} 
+	.medLink:visited:hover	{
+			color:#E56701;
+			}
 	.blueclick	{ 
 			color: blue; 
 			font-family: VERDANA,ARIAL,HELVETICA; 
 			cursor: hand; 
 			}
 	
-</style>
-
-
-
-
-
-
-
-<script>
+</style><script>
 
 
 //Modify some style to accommodate Netscape
@@ -185,7 +197,7 @@ var affiliateMode = "";
 // Used for Refer-a-friend form 
 function submitReferral(){
 	var url;
-	url = '/cgi-bin/submitReferral.tps?id=' + document.referralSubmit.id.value;
+	url = '/submitReferral.cgi?id=' + document.referralSubmit.id.value;
 	url = url + '&email=' + document.referralSubmit.referemail.value;
 	var w=250;
 	var h=120;
@@ -200,7 +212,7 @@ function newsletterSignup(){
 	var code;
 	var url;
 	
-	url = '/cgi-bin/newsRegister.tps?email=' + document.frmNewsReg.email.value;
+	url = '/newsRegister.cgi?email=' + document.frmNewsReg.email.value;
 
 
 	code = "window.open(url,'castVote', 'scrollbars=1,resizable=yes,width=300,height=150');";
@@ -227,16 +239,16 @@ function castVote(type, id, display){
 		id = "";
 	}
 	if(display=="X"){
-		url = '/cgi-bin/castVote.tps?id=' + id;
+		url = '/castVote.cgi?id=' + id;
 		url = url + '&type=' + type;
 		url = url + '&display=' + display;
 	}else{
 
 
 		if(id){
-			url = '/cgi-bin/castVote.tps?id=' + id;
+			url = '/castVote.cgi?id=' + id;
 		}else{
-			url = '/cgi-bin/castVote.tps?id=' + document.Vote.id.value;
+			url = '/castVote.cgi?id=' + document.Vote.id.value;
 			url = url + '&userid=' + document.Vote.userid.value;
 		}
 		url = url + '&vote=' + choice;
@@ -361,7 +373,10 @@ function writeBar(width,color,text,mode,subtext){
 
 
 
-
+function logout(){
+	document.cookie = '';
+	document.location = '/logout.cgi';
+}
 
 
 
@@ -373,7 +388,7 @@ function setCookie(tag,name)
 	var the_cookie = tag + name;
 	var the_date = new Date("December 31, 2099");
 	var the_cookie_date = the_date.toGMTString();
-	//the_cookie = the_cookie + ";expires=" + the_cookie_date;
+	the_cookie = the_cookie + ";expires=" + the_cookie_date;
 	document.cookie = the_cookie + ";" + document.cookie;
 }
 
@@ -561,7 +576,7 @@ function validateLetter(send,overide){
 
 
 function printLetter(override){
-	document.letterSubmit.action="/cgi-bin/displayLetter.tps";
+	document.letterSubmit.action="/displayLetter.cgi";
 	document.letterSubmit.target="top";
 	document.letterSubmit.submit();
 	return true;
@@ -569,7 +584,7 @@ function printLetter(override){
 
 
 function sendLetter(override){
-	document.letterSubmit.action="/cgi-bin/sendLetter.tps";
+	document.letterSubmit.action="/sendLetter.cgi";
 	//document.letterSubmit.target="_top";
 	document.letterSubmit.submit();
 	return true;
@@ -637,9 +652,9 @@ var tmp_url;
 	}else{
 		tmp_url = "<SPLIT>" + url;
 		if(wrapper != ""){
-		document.location="/cgi-bin/loginForm.tps?wrapper=" + wrapper + "&url=" + tmp_url;
+		document.location="/loginForm.cgi?wrapper=" + wrapper + "&url=" + tmp_url;
 		}else{
-		top.location="/cgi-bin/loginForm.tps?url=" + tmp_url;
+		top.location="/loginForm.cgi?url=" + tmp_url;
 		}
 	}
 	return;
@@ -661,13 +676,13 @@ function go_Services(index){
 
 
 	if (index==2){
-		my_url = '/cgi-bin/postOpinionStep1.tps';
+		my_url = '/postOpinionStep1.cgi';
 		top.location=my_url;
 		self.document.navSelect.services.selectedIndex=0;
 	}
 
 	if (index==3){
-		top.location='/cgi-bin/companySearch.tps';
+		top.location='/companySearch.cgi';
 		self.document.navSelect.services.selectedIndex=0;
 	}
 
@@ -675,19 +690,30 @@ function go_Services(index){
 
 
 	//if (index==4){
-	//	my_url = '/cgi-bin/agSearch.tps';
+	//	my_url = '/agSearch.cgi';
 	//	top.location=my_url;
 	//	self.document.navSelect.services.selectedIndex=0;
 	//}
 
 
 	if (index==4){
-		my_url = '/cgi-bin/legalLinks.tps';
+		my_url = '/legalLinks.cgi';
 		top.location=my_url;
 		self.document.navSelect.services.selectedIndex=0;
 	}
 	if (index==5){
-		my_url = '/cgi-bin/govLinks.tps';
+		my_url = '/govLinks.cgi';
+		top.location=my_url;
+		self.document.navSelect.services.selectedIndex=0;
+	}
+
+	if (index==6){
+		my_url = 'http://www.bbb.org/bbbcomplaints/welcome.asp';
+		top.location=my_url;
+		self.document.navSelect.services.selectedIndex=0;
+	}
+	if (index==7){
+		my_url = 'http://www.fraud.org/welcome.htm';
 		top.location=my_url;
 		self.document.navSelect.services.selectedIndex=0;
 	}
@@ -705,12 +731,12 @@ function go_Services(index){
 function go_Login(index){
 
 	if (index==2){
-		top.location='/cgi-bin/newuser.tps';
+		top.location='/newuser.cgi';
 	}
 
 
 	if (index==3){
-		top.location='/cgi-bin/loginForm.tps';
+		top.location='/loginForm.cgi';
 	}
 
 
@@ -741,35 +767,35 @@ function go_Login(index){
 
 function go_Search(index){
 	if (index==2){
-		top.location='/cgi-bin/search.tps?wrapper=&category=SERVICES';
+		top.location='/search.cgi?wrapper=&category=SERVICES';
 	}
 	if (index==3){
-		top.location='/cgi-bin/search.tps?wrapper=&category=CONSUMER';
+		top.location='/search.cgi?wrapper=&category=CONSUMER';
 	}
 	if (index==4){
-		top.location='/cgi-bin/search.tps?wrapper=&category=AUTO';
+		top.location='/search.cgi?wrapper=&category=AUTO';
 	}
 	if (index==5){
-		top.location='/cgi-bin/search.tps?wrapper=&category=TRAVEL';
+		top.location='/search.cgi?wrapper=&category=TRAVEL';
 	}
 	if (index==6){
-		top.location='/cgi-bin/search.tps?wrapper=&category=COMPUTER';
+		top.location='/search.cgi?wrapper=&category=COMPUTER';
 	}
 	if (index==7){
-		top.location='/cgi-bin/search.tps?wrapper=&category=FOOD';
+		top.location='/search.cgi?wrapper=&category=FOOD';
 	}
 
 	if (index==8){
-		top.location='/cgi-bin/search.tps?wrapper=&category=HEALTH';
+		top.location='/search.cgi?wrapper=&category=HEALTH';
 	}
 	if (index==9){
-		top.location='/cgi-bin/search.tps?wrapper=&category=DELIVERY';
+		top.location='/search.cgi?wrapper=&category=DELIVERY';
 	}
 	if (index==10){
-		top.location='/cgi-bin/search.tps?wrapper=&category=FINANCE';
+		top.location='/search.cgi?wrapper=&category=FINANCE';
 	}
 	if (index==11){
-		top.location='/cgi-bin/search.tps?wrapper=&category=MISC';
+		top.location='/search.cgi?wrapper=&category=MISC';
 	}
 
 
@@ -779,10 +805,10 @@ function go_Search(index){
 
 function go_Company(index){
 	if (index==2){
-		top.location='/cgi-bin/companyRegister.tps';
+		top.location='/companyRegister.cgi';
 	}
 	if (index==3){
-		top.location='/cgi-bin/compLogin.tps';
+		top.location='/compLogin.cgi';
 	}
 	if (index==4){
 		if(id=='Anonymous'){
@@ -795,7 +821,7 @@ function go_Company(index){
 		}
 	}
 	if (index==5){
-		top.location='/cgi-bin/corporateServices.tps';
+		top.location='/corporateServices.cgi';
 	}
 
 
@@ -996,7 +1022,7 @@ function orderServices(){
 	if(orderID==""){
 		alert('Please select one of your reviews/letters below first');
 	}else{
-		url = '/cgi-bin/orderServices.tps?id=' + orderID;
+		url = '/orderServices.cgi?id=' + orderID;
 		top.location = url;
 		return;
 	}
@@ -1005,42 +1031,103 @@ function orderServices(){
 	}
 
 
-</script><style>.small { font-size: 8pt; font-family: Verdana,Arial,Helvetica,sans-serif; }</style><style>.smallcats { font-size: 8pt; font-family: Verdana,Arial,Helvetica,sans-serif;}</style>
+</script><style>.small { font-size: 8pt; font-family: Verdana,Arial,Helvetica,sans-serif; }</style><style>.smallcats { font-size: 8pt; font-family: Verdana,Arial,Helvetica,sans-serif;}</style></head>
 
 
-<title>My3cents.com - Let your voice be heard!</title>
 
 
-<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-<meta name="keywords" content="complaints, opinions, complaints, complain, buyers, consumer, letters, reviews, consumer rights, consumer help, companies, ratings, news, resources, travel complaints, airline complaints, hotel complaints, rental cars, Internet Service Providers, personal computers, delivery services, e-commerce sites, corporate contacts, complaints, suggestions, questions, compliments, complaints, complaints, empowerment, aggregation, complaints, consumer advocates">
 
 
-<meta name="description" content="My3cents.com - Your advocate for consumer empowerment.  We are dedicated to helping consumers with complaints or compliments regarding any company, product or service.  Our services include a FREE letter service for sending letters to any company, online opinion forum to education consumers, and an extensive company database for helping you connect to the company of your choice.">
-</head>
+
+
+
+
+
 <!-- #7C869C -->
-<body bgcolor="#003366" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:5;"> 
+
+<!-- MDS 20030323 - change background -->
+<!--BODY BGCOLOR=#003366 LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" style="margin:5;" --> 
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:5;"> 
+
 <center>
-<table width="700" style="margin:0;" cellpadding="8" cellspacing="0" bgcolor="#FFFFFF" border="5">
+<table width="750" style="margin:0;" cellpadding="8" cellspacing="0" bgcolor="#FFFFFF">
 <tbody><tr><td>
 	<table width="100%" style="margin:0;" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr valign="TOP">
 	<td align="LEFT" valign="TOP" nowrap="">
-	<a href="/cgi-bin/start.tps"><img src="/my3cents/images/logo.gif" border="0"></a>
+	<a href="/index.cgi"><img src="/my3cents/images/logo.gif" border="0"></a>
 	</td>
 
+<!-- OUT
+	<TD valign=bottom>
 
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR><FORM ACTION="http://partners.search123.com/main/search.php3" METHOD="post" target="_s123">
+<TD><FONT SIZE="2" FACE="verdana,arial,helvetica"><B>Search The Web For:</B>&nbsp;</FONT></TD>
+<TD><INPUT TYPE="text" NAME="query" SIZE="16"><INPUT TYPE="hidden" NAME="AID" VALUE="3311"></TD>
+<TD><INPUT TYPE="submit" NAME="SUBMIT" VALUE="GO!"></TD>
+</TR></FORM>
+</TABLE>
+<br>
+	</TD>
+
+-->
 	<td align="RIGHT" valign="center">
-	<table cellpadding="4">
-	<tbody><tr><td>
-<font color="#C1C1C1" class="small"><b>Existing User? </b></font>
-	<a href="/cgi-bin/loginForm.tps" class="small"><b>Login</b></a><br>
-<font color="#C1C1C1" class="small"><b>New User? </b></font>
-	<a href="/cgi-bin/newuser.tps" class="small"><b>Register Now!</b></a><br>
-<font color="#C1C1C1" class="small"><b>Company?</b></font>
-	<a href="/cgi-bin/compLogin.tps" class="small"><b>Login</b></a>
+
+
+<table border="0" width="460" cellspacing="0" cellpadding="2">
+
+<form action="http://partners.search123.com/main/search.php3" method="post" target="Search123Top5"></form>
+
+<tbody><tr><td colspan="2" bgcolor="#04359b"><center><font size="1" face="verdana,arial,helvetica" color="#ffffff"><b>POPULAR INTERNET SEARCHES</b></font></center></td></tr>
+
+
+<tr>
+
+<!--
+<TD BGCOLOR="#04359b">
+<center><FONT SIZE="1" FACE="verdana,arial,helvetica" color="#ffffff"><b>SEARCH WEB FOR:</b><br></FONT><INPUT TYPE="text" NAME="query" SIZE="13" MAXLENGTH="256"><INPUT TYPE="hidden" NAME="AID" VALUE=3311><br><input type=submit value="Search!">
+</center></TD>
+-->
+
+<td>
+
+
+<center>
+
+<table width="100%" cellpadding="0">
+
+<tbody><tr><td><a href="/websearch.cgi?criteria=entertainment"><font size="1" face="verdana,arial,helvetica"><b>entertainment</b></font></a></td><td><a href="/websearch.cgi?criteria=online+casino"><font size="1" face="verdana,arial,helvetica"><b>online casino</b></font></a></td><td><a href="/websearch.cgi?criteria=travel"><font size="1" face="verdana,arial,helvetica"><b>travel</b></font></a></td><td><a href="/websearch.cgi?criteria=games"><font size="1" face="verdana,arial,helvetica"><b>games</b></font></a></td></tr>
+
+<tr><td><font size="1" face="verdana,arial,helvetica"><b><a href="/websearch.cgi?criteria=cars"><font size="1" face="verdana,arial,helvetica"><b>cars</b></font></a></b></font></td><td><font size="1" face="verdana,arial,helvetica"><b><a href="/websearch.cgi?criteria=health"><font size="1" face="verdana,arial,helvetica"><b>health</b></font></a></b></font></td><td><font size="1" face="verdana,arial,helvetica"><b><a href="/websearch.cgi?criteria=insurance"><font size="1" face="verdana,arial,helvetica"><b>insurance</b></font></a></b></font></td><td><font size="1" face="verdana,arial,helvetica"><b><a href="/websearch.cgi?criteria=electronics"><font size="1" face="verdana,arial,helvetica"><b>electronics</b></font></a></b></font></td></tr>
+
+<tr><td><font size="1" face="verdana,arial,helvetica"><b><a href="/websearch.cgi?criteria=finance"><font size="1" face="verdana,arial,helvetica"><b>finance</b></font></a></b></font></td><td><font size="1" face="verdana,arial,helvetica"><b><a href="/websearch.cgi?criteria=credit+cards"><font size="1" face="verdana,arial,helvetica"><b>credit cards</b></font></a></b></font></td><td><font size="1" face="verdana,arial,helvetica"><b><a href="/websearch.cgi?criteria=hobbies"><font size="1" face="verdana,arial,helvetica"><b>hobbies</b></font></a></b></font></td><td><font size="1" face="verdana,arial,helvetica"><b><a href="/websearch.cgi?criteria=personals"><font size="1" face="verdana,arial,helvetica"><b>personals</b></font></a></b></font></td></tr>
+
+</tbody></table>
+
+</center></td></tr>
+
+
+
+</tbody></table>
+
+
+
+<!-- OUT
+	<table cellpadding=4>
+	<tr><td>
+<font color=#C1C1C1 class=small><b>Existing User? </b></font>
+	<a href="/loginForm.cgi" class=small><b>Login</b></a><br>
+<font color=#C1C1C1 class=small><b>New User? </b></font>
+	<a href="/newuser.cgi" class=small><b>Register Now!</b></a><br>
+<font color=#C1C1C1 class=small><b>Company?</b></font>
+	<a href="/compLogin.cgi" class=small><b>Login</b></a>
 
 	</td></tr>
-	</tbody></table>                 
+	</table>      
+
+-->           
 	</td>
 	</tr>
 	</tbody></table>
@@ -1055,7 +1142,7 @@ function orderServices(){
 	<tbody><tr>
 	<td>
 	<font color="WHITE">
-	<font class="small">&nbsp;<b>Quick Review Search...</b></font>
+	<font class="small">&nbsp;<b>Search for...</b></font>
 	</font>
 	</td>
 	</tr>
@@ -1079,8 +1166,8 @@ document.write("</TD>");
 	<tbody><tr>
 	<td align="right">
 <script>
-if((!isNetscape) && (homepage == 1)){
-document.write('<font class=small color=#FFFFFF><a href="http://babel.altavista.com/tr?lin=en&lout=fr&translate_me=yes" style="text-decoration:none;"><FONT CLASS="small" COLOR=#FFFFFF>French</font></a>&nbsp;|&nbsp;<a href="http://babel.altavista.com/tr?lin=en&lout=es&translate_me=yes" style="text-decoration:none;"><FONT CLASS="small" COLOR=#FFFFFF>Spanish</font></a>&nbsp;|&nbsp;<a href="http://babel.altavista.com/tr?lin=en&lout=de&translate_me=yes" style="text-decoration:none;"><FONT CLASS="small" COLOR=#FFFFFF>German</font></a>&nbsp;|&nbsp;<a href="http://babel.altavista.com/tr?lin=en&lout=pt&translate_me=yes" style="text-decoration:none;"><FONT CLASS="small" COLOR=#FFFFFF>Portuguese</font></a>&nbsp;|&nbsp;<a href="http://babel.altavista.com/tr?lin=en&lout=it&translate_me=yes" style="text-decoration:none;"><FONT CLASS="small" COLOR=#FFFFFF>Italian</font></a>&nbsp;&nbsp;</font>');
+if(li==1){
+document.write('<font class=small color=#FFFFFF><a href="javascript:logout();" style="text-decoration:none;"><FONT CLASS="small" COLOR=#FFFFFF>Logout</font></a>&nbsp;');
 }
 </script>
 	&nbsp;
@@ -1102,12 +1189,12 @@ document.write('<font class=small color=#FFFFFF><a href="http://babel.altavista.
 	<script language="Javascript">
 	<!--
 	if (navigator.appName != "Netscape") {
-		document.write('<td nowrap height="22" valign="top" width=180><form name="search" action="/cgi-bin/search.tps" METHOD="POST" style="margin:0;">&nbsp;<div style=position:absolute><input type=text name=criteria size=12 style=width:160px;><input id=searchbtn type=image alt="Begin your Web search" src=/images/searchglass2.gif border=0 style=position:absolute;left:130;top:-2 vspace=0 hspace=0></div></form></td>');
+		document.write('<td nowrap height="22" valign="top" width=180><form name="search" action="/search.cgi" METHOD="POST" style="margin:0;">&nbsp;<div style=position:absolute><input type=text name=criteria size=12 style=width:160px;><input id=searchbtn type=image alt="Begin your Web search" src=/my3cents/images/searchglass2.gif border=0 style=position:absolute;left:130;top:-2 vspace=0 hspace=0></div></form></td>');
 	}else{
-		document.write('<td nowrap height="22" valign="top"><form name="search" action="/cgi-bin/search.tps" METHOD="POST" style="margin:0;">&nbsp;<input type="text" name="criteria" size="10" value=""><A HREF="javascript:document.search.submit();"><img src="/my3cents/images/go2.gif" border=0></A></form></td>');
+		document.write('<td nowrap height="22" valign="top"><form name="search" action="/search.cgi" METHOD="POST" style="margin:0;">&nbsp;<input type="text" name="criteria" size="10" value=""><A HREF="javascript:document.search.submit();"><img src="/my3cents/images/go2.gif" border=0></A></form></td>');
 	}
 	//-->
-	</script><td nowrap="" height="22" valign="top"><form name="search" action="/cgi-bin/search.tps" method="POST" style="margin:0;">&nbsp;<input type="text" name="criteria" size="10" value=""><a href="javascript:document.search.submit();"><img src="/my3cents/images/go2.gif" border="0"></a></form></td>
+	</script><td nowrap="" height="22" valign="top"><form name="search" action="/search.cgi" method="POST" style="margin:0;">&nbsp;<input type="text" name="criteria" size="10" value=""><a href="javascript:document.search.submit();"><img src="/my3cents/images/go2.gif" border="0"></a></form></td>
 
 	<td height="22" valign="top" nowrap="" bgcolor="#FFFFFF">
 
@@ -1150,10 +1237,12 @@ document.write('<font class=small color=#FFFFFF><a href="http://babel.altavista.
 			<option selected="">Consumer Services</option>
 			<option>- - - - - - - - - - - - - </option>
 			<option>Write a Review</option>	
-			<option>Find Company Info</option>
+			<option>Lookup Company Info/Rating</option>
 			<!-- <OPTION>Write your Attorney General</OPTION> -->
 			<option>Get Legal Help</option>
 			<option>Get Government Help</option>
+			<option>File a Complaint with BBB</option>
+			<option>File a Complaint with NFIC</option>
 		</select>
 		</td>
 
@@ -1261,7 +1350,7 @@ My3cents.com<br>
 <br><br>
 
 
-<form name="myProfile" method="post" action="/cgi-bin/myProfile.tps" enctype="application/html-form-urlencoded" target="_top">
+<form name="myProfile" method="post" action="/myProfile.cgi" enctype="application/html-form-urlencoded" target="_top">
 <script>
 document.write('<INPUT TYPE="hidden" NAME="userid" VALUE="' + id + '">');
 document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
@@ -1270,7 +1359,7 @@ document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
 </form>
 
 
-<form name="companyProfile" method="post" action="/cgi-bin/companyProfile.tps" enctype="application/html-form-urlencoded" target="_top">
+<form name="companyProfile" method="post" action="/companyProfile.cgi" enctype="application/html-form-urlencoded" target="_top">
 <script>
 document.write('<INPUT TYPE="hidden" NAME="userid" VALUE="' + id + '">');
 document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
@@ -1279,7 +1368,7 @@ document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
 </form>
 
 
-<form name="companyRsp" method="post" action="/cgi-bin/addResponseForm.tps" enctype="application/html-form-urlencoded" target="_top">
+<form name="companyRsp" method="post" action="/addResponseForm.cgi" enctype="application/html-form-urlencoded" target="_top">
 <input type="hidden" name="id" value="">
 <input type="hidden" name="email" value="">
 <script>
@@ -1298,14 +1387,14 @@ document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
 <table width="100%" cellpadding="5" cellspacing="0" border="0" bgcolor="#ffffff"><tbody><tr><td align="center">
 
 
-<a href="/cgi-bin/start.tps"><font class="small">HOME</font></a> | <a href="/cgi-bin/aboutUs.tps"><font class="small">About Us</font></a> | <a href="/cgi-bin/agreement.tps"><font class="small">Terms and Conditions</font></a>  |  <a href="/cgi-bin/privacy.tps"><font class="small">Privacy Policy</font></a> | <a href="/cgi-bin/press.tps"><font class="small">Press</font></a> | <a href="/cgi-bin/mailUs.tps"><font class="small">Contact Us</font></a> 
+<a href="/index.cgi"><font class="small">HOME</font></a> | <a href="/aboutUs.cgi"><font class="small">About Us</font></a> | <a href="/agreement.cgi"><font class="small">Terms and Conditions</font></a>  |  <a href="/privacy.cgi"><font class="small">Privacy Policy</font></a> | <a href="/press.cgi"><font class="small">Press</font></a> | <a href="/mailUs.cgi"><font class="small">Contact Us</font></a> 
 
 
 </td></tr></tbody></table>
 
 <!--
 <table width=100% cellpadding=5 cellspacing=0 border=0 bgcolor=#ffffff><tr><td align=center>
-<a href="/cgi-bin/compLogin.tps"><font class=small>Company Login</font></a> | <a href="/cgi-bin/companyRegister.tps"><font class=small>Company Register</font></a> | <a href="javascript:go_Company(4);"><font class=small>Company Account</font></a> | <A HREF="/cgi-bin/corporateServices.tps"><FONT CLASS="small">Corporate B2B Services</FONT></A>
+<a href="/compLogin.cgi"><font class=small>Company Login</font></a> | <a href="/companyRegister.cgi"><font class=small>Company Register</font></a> | <a href="javascript:go_Company(4);"><font class=small>Company Account</font></a> | <A HREF="/corporateServices.cgi"><FONT CLASS="small">Corporate B2B Services</FONT></A>
 </td></tr></table>
 -->
 
@@ -1313,7 +1402,7 @@ document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
 
 
 <font size="-2" face="verdana, arial, helvetica">
-© Copyright 2000-2002 My3cents.com
+© Copyright 2000-2003 My3cents.com
 </font>
 <font class="small">&nbsp;&nbsp;&nbsp;Browse in 
 <a href="http://babel.altavista.com/tr?lin=en&amp;lout=fr&amp;translate_me=yes" class="small">French</a>
