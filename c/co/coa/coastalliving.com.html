@@ -1,13 +1,186 @@
-<!--The following is the downloaded HTML source of the coastalliving.com privacy policy that was archived on 2000-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001219015600id_/http%3A//www.coastalliving.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coastalliving.com privacy policy that was archived on 2001-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010405104848id_/http%3A//coastalliving.com/about/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><!-- The following seven lines are the error catching routine and should only be necessary on flat pages.  When used, the body tag
+ should address P_checkUnload rather than P_closeDown -->
+<script language="JavaScript">
+
+
+<!--
+var P_isLoaded = false;
+function P_checkUnload() {
+        if(P_isLoaded && (document.layers||document.all))P_closeDown();
+}
+// -->
+
+</script>
+<!-- the following is the main script, to be placed in the includes.  If it is divided into three segments as listed below, it will be more flexible in the future, but it is not necessary-->
+<!-- section 1: initialize -->
+<script language="JavaScript1.2">
+
+<!--
+if(!document.cookie) { 
+        document.cookie = "PopUpCalls=0;path=/;";
+}
+if ((document.layers || document.all) && document.cookie) { 
+        var P_showPop=true;
+} else {
+        var P_showPop=false; 
+}
+
+if (P_showPop) {
+        P_Rules = new Array();
+// section 2: magazine rules
+        P_Mag="CoastalLiving";
+        P_Rules[0] = "~coastalliving.com/"; // rules array contains definitions of internal links (links that will not get a popup).  "~" means contains and "!" means does not contain.  Rules can be combined with logical "and" using "&&": ~time.com/&&!/digital/ is one way of combining these tools.     
+        P_Rules[1] = "~southernprogress/clv";
+        //P_Hours = 0; // number of hours till next popup
+        P_Hours = 48; // number of hours till next popup
+        P_Source = "http://www.coastalliving.com/OnExit.asp";// URL of popup
+        P_Height = 280; // height of popup window
+        P_Width = 430; // width of popup window
+        P_cookieDomain = false;//".coastalliving.com"; // if you want to specify a domain for this cookie, add it here, e.g. ".pathfinder.com";
+// section 3: program. minimal comments follow
+        P_today = new Date();
+        P_todayNum = P_today.valueOf();
+        var P_LeftChip="";
+        var P_RightChip="";
+        var P_Chip="";
+        var P_DocCookie = unescape(document.cookie);
+        if(P_DocCookie.length>0) {
+                P_begin=P_DocCookie.indexOf("PopUpCalls=");
+                if(P_begin != -1) {
+                        P_begin += 11; // 11 is length of string "PopUpCalls="
+                        P_end=P_DocCookie.indexOf(";", P_begin);
+                        if (P_end==-1) P_end=P_DocCookie.length;
+                        P_Cookie=P_DocCookie.substring(P_begin, P_end);
+                        P_ChipStart=P_Cookie.indexOf(P_Mag+"=");
+                        if(P_ChipStart>-1) {
+                                P_LeftChip=P_Cookie.substring(0,P_ChipStart);
+                                P_ChipStart+=1+P_Mag.length
+                                P_ChipEnd=P_Cookie.indexOf("|",P_ChipStart);
+                                if(P_ChipEnd==-1) P_ChipEnd = P_Cookie.length;
+                                P_Chip=P_Cookie.substring(P_ChipStart,P_ChipEnd);
+                                P_RightChip=P_Cookie.substring(P_ChipEnd);
+                                if(P_todayNum < parseInt(P_Chip)) P_showPop = false;
+                        } else {
+                                P_LeftChip=P_Cookie;
+                                P_RightChip="";
+                        }
+                }
+        }
+}
+function P_checkClick(ev) { // onClick function
+        if(P_showPop) {
+                P_Link="";
+                if(document.layers) {
+                        P_Test=ev.target.toString().toLowerCase();
+
+                        if(P_Test.substring(0,6)=="<input") {
+                                P_showPop = false;
+                        } else {
+                                P_Link=P_Test;
+                        }
+                } else if (document.all) {
+                                                P_myElement = window.event.srcElement;
+                                                while(P_myElement.tagName.toLowerCase()!="a" &&
+                                                  P_myElement.tagName.toLowerCase()!="body" &&
+                                                  P_myElement.tagName.toLowerCase()!="input" &&
+                                                  P_myElement.tagName.toLowerCase()!="area" ) {
+                                                        P_myElement = P_myElement.parentElement;
+                                                }
+                        P_tag = P_myElement.tagName.toLowerCase();
+                        if (P_tag=="a" || P_tag=="area") {
+                                P_Link=P_myElement.href;
+                        } else if(P_tag=="input") {
+                                P_showPop=false;
+                        }
+
+                }
+                P_Link=P_Link.toLowerCase();
+
+        var P_ToReplace = /\x2F/g;
+        P_URL = self.location.pathname;
+        P_URL = P_URL.replace(P_ToReplace, "\[\/\]"); 
+        var P_ToMatch = new RegExp(P_URL + "[/]{0,1}(index.|default.){0,1}[^.]*#", "i");
+                var P_RV = P_Link.search(P_ToMatch);
+
+                if(P_Link!="" && (P_RV==-1) && (P_Link.substring(0,4)=="http")) {
+                        if(P_isInternal(P_Link)) {
+                                P_showPop=false;
+                        }
+                }
+                if(document.layers) {
+                        routeEvent(ev);
+                        return true;
+                }
+        }
+}
+function P_isInternal(P_URL) { // function to evaluate whether a URL is internal (should not get a popup)
+        for (i=0;i < P_Rules.length;i++) {
+                P_Parts = P_Rules[i].split("&&");
+                P_Result = true;
+                for (j=0;j < P_Parts.length;j++) {
+                        P_Search = P_URL.indexOf(P_Parts[j].substring(1));
+                        P_Call = P_Parts[j].charAt(0);
+                        if ((P_Search==-1 && P_Call=="~") || (P_Search>-1 && P_Call=="!")) {
+                                P_Result = false;
+                                break;
+                        }
+                }
+                if(P_Result) return true; 
+        }
+        return false; 
+}
+function P_closeDown() { // onunload function
+        if(P_showPop) { 
+                popupWin = window.open(P_Source, "POPUP", "height=" + P_Height + ",width=" + P_Width + ","); 
+                P_Chip = P_todayNum + (P_Hours * 60 * 60 * 1000);
+                P_today.setTime(P_today.getTime() + (31 * 24 * 60 * 60 * 1000));
+                document.cookie = "PopUpCalls=" + escape(P_LeftChip + P_Mag + "=" + P_Chip + (P_RightChip.charAt(0)=="|"?"":"|") + P_RightChip) + ";path=/; expires=" + P_today.toGMTString()+(P_cookieDomain?";domain="+P_cookieDomain:"")+";";  //
+        }
+} 
+
+function P_popupoff() { // added by JQ 3/27/00 to disable popup
+    P_showPop = false;
+}
+
+function P_NSform (ev) { // Netscape 4.x form submit capture
+ P_showPop = false;
+    routeEvent(ev);
+    return true;
+}
+ 
+if (P_showPop) { // setting up click capture
+  if(document.layers) { 
+    window.captureEvents(Event.CLICK | Event.SUBMIT);
+    window.onClick=P_checkClick;
+    window.onSubmit=P_NSform;
+  }
+  if(document.all) {
+    document.onclick=P_checkClick;
+  }
+}
+
+// code (vanity plate): Gary Poster, with essential assists from Galyn Norwood, Phiroon Phihakendr, Jose Quijada, Pavandeep Kalra. Copyright 2000 Time Inc.
+// note: we tried to eliminate the need for all body tag event handlers but onunload proved to be necessary because otherwise Netscape produces security errors when the cookie is set (even when the unload event is captured).
+// -->
+P_isLoaded=true;
+
+</script>
 <title>Coastal Living: Privacy Policies</title>
+<meta name="description" content="Coastal Living / Time Warner Online Privacy Policy">
+<meta name="keywords" content="privacy, policy, time, coastal, living, magazine, information,
+COPPA, site, protection, collect, privacie, privecy, privasy">
+<meta name="revisit-after" content="7 days">
+<meta name="distribution" content="global">
 <meta http-equiv="Window-target" content="_top">
 </head>  
 <body text="#000000" vlink="#330066" bgcolor="#FFFFFF">
 
 
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/circulationpix.dart/circpop;sz=1x1;ord=149251228">
+</script>
 <table border="0" width="588" valign="top" cellpadding="1" cellspacing="1">
 <tbody><tr><!-- Start Left Column -->
 <td width="120" valign="top">
@@ -15,9 +188,9 @@
 
 
 <nolayer>
-<iframe src="http://ad.doubleclick.net/adi/coastallivingmag.com/clvrunofsite;sz=120x60;ord=223836565" width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-<A HREF="http://ad.doubleclick.net/jump/coastallivingmag.com/clvrunofsite;sz=120x60;ord=223836565">
-<IMG SRC="http://ad.doubleclick.net/ad/coastallivingmag.com/clvrunofsite;sz=120x60;ord=223836565">
+<iframe src="http://ad.doubleclick.net/adi/coastallivingmag.com/clvrunofsite;sz=120x60;ord=149251228" width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+<A HREF="http://ad.doubleclick.net/jump/coastallivingmag.com/clvrunofsite;sz=120x60;ord=149251228">
+<IMG SRC="http://ad.doubleclick.net/ad/coastallivingmag.com/clvrunofsite;sz=120x60;ord=149251228">
 </A>
 </iframe>
 
@@ -30,9 +203,9 @@
 </nobr><!--End Ad tag--><!-- Start Right Column --></td>
 <td width="468" align="middle" valign="top"><!--Ad tag follows--><nobr>
 <nolayer>
-<iframe src="http://ad.doubleclick.net/adi/coastallivingmag.com/clvrunofsite;sz=468x60;ord=223836565" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-<A HREF="http://ad.doubleclick.net/jump/coastallivingmag.com/clvrunofsite;sz=468x60;ord=223836565">
-<IMG SRC="http://ad.doubleclick.net/ad/coastallivingmag.com/clvrunofsite;sz=468x60;ord=223836565">
+<iframe src="http://ad.doubleclick.net/adi/coastallivingmag.com/clvrunofsite;sz=468x60;ord=149251228" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+<A HREF="http://ad.doubleclick.net/jump/coastallivingmag.com/clvrunofsite;sz=468x60;ord=149251228">
+<IMG SRC="http://ad.doubleclick.net/ad/coastallivingmag.com/clvrunofsite;sz=468x60;ord=149251228">
 </A>
 </iframe></nolayer>
 
@@ -45,7 +218,7 @@
 
 <table width="609" border="0" cellspacing="0" cellpadding="0" height="80">
   <tbody><tr> 
-    <td width="609" valign="top"><img src="/graphics/headers/travel.jpg" width="135" height="60" border="0"><a href="/default.asp"><img src="/graphics/headers/clvheader.gif" width="358" height="60" border="0" alt="Coastal Living"></a><img src="/graphics/headers/travelright.gif" width="107" height="60" alt="coolstuff"></td>
+    <td width="609" valign="top"><img src="/graphics/headers/palmleftheader.jpg" width="135" height="60" border="0"><a href="/default.asp"><img src="/graphics/headers/clvheader.gif" width="358" height="60" border="0" alt="Coastal Living"></a><img src="/graphics/headers/loveright.gif" width="107" height="60" alt="coolstuff"></td>
   </tr>
   <tr> 
     <td valign="top" width="609"><img src="/graphics/navbar.gif" width="600" height="20" usemap="#topnavmap" border="0"></td>
@@ -57,44 +230,37 @@
     <td width="122" valign="top" bgcolor="#FFF4E6" rowspan="2"> 
     
     <!-- START LEFT NAVIGATION AREA --> 
-      <br> 
-  <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> 
-  <b><a href="http://www.mediaservicesinc.com/readerresponse/coastalliving/category.asp?app=trav&amp;mag=ct"> 
-Advertiser links</a><br> Special feature<br>
-<img src="/graphics/right_arrow.gif" width="8" height="9" alt="o" border="0"> 
-<font face="Arial, Helvetica, sans-serif"> 
-<a href="http://coastalliving.com/links/outer_banks_nd/default.asp"> 
-North Carolina's Outer Banks</a></font> <br>
-<a href="http://coastalliving.com/travel/travelservice/">Travel service</a> <br>
-<a href="http://coastalliving.com/advertising/default.asp">Advertise with us </a><br>
-</b></font><b> 
-<hr width="40" size="1">
-
-<img src="/images/jan_cover.jpg" width="110" height="140" alt="Coastal Living"> 
-<font size="-2" face="Verdana, Arial, Helvetica, sans-serif"> <br>
-<b>Jan/Feb issue</b></font> <br>
-<font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> 
-<b><a href="http://www.southernprogress.com/clv/default.asp"> 
-Subscribe to the magazine</a></b> 
-<br>
-<br>
-<a href="http://www.southernprogress.com/clv/default.asp"> 
-<img src="/graphics/trial_issue.gif" width="102" height="46" border="0" alt="Free trial issue"></a> 
-<br>
-<br>
-<b>Customer Service</b> </font> 
-<br>
-<font face="Arial, Helvetica, sans-serif" size="-2"> &nbsp; 
-<a href="http://coastalliving.com/contactus/">Contact us</a> 
-<br>
-&nbsp; <a href="http://coastalliving.com/about/chad.asp">Address change</a> <br>
-&nbsp; <a href="http://www.coastalliving.com/about/gift_sub.asp">Give a gift subscription</a> 
-<br>
-&nbsp; <a href="http://coastalliving.com/about/faq.asp">FAQ</a><br>
-&nbsp; <a href="http://coastalliving.com/contactus/sitemap.asp">Site map</a> </font> 
-<br>
-<br>
-</b> 
+     <a href="/advertising/"><img src="/graphics/service_station.gif" width="112" height="110" alt="Service Station" border="0"></a> 
+<br> <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b> </b></font><font face="Arial, Helvetica, sans-serif" size="-2">• 
+<a href="http://www.mediaservicesinc.com/readerresponse/coastalliving/category.asp?app=trav&amp;mag=ct">Trip 
+Planner</a><br>
+• <a href="http://www.mediaservicesinc.com/readerresponse/coastalliving/category.asp?app=trav&amp;mag=ct&amp;type=estate">Real 
+Estate Planner</a><br>
+• <a href="http://www.mediaservicesinc.com/readerresponse/coastalliving/advertiser.asp?mag=CT&amp;app=TRAV&amp;category=0015">Home 
+Planner </a><br>
+• <a href="/advertising/">Sweepstakes</a><br>
+• <a href="/advertising/travel_service/ma_travserv/travserv_ma.asp">Travel 
+Service</a><br>
+• <a href="/advertising/"> And More</a><a href="/advertising/travel_service/default.asp"></a></font><br>
+  <br>
+  <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> <b><a href="http://www.southernprogress.com/clv/ct01180101.asp"> 
+  <img src="/images/cover.jpg" width="100" height="131" alt="Coastal Living" border="0"></a> 
+  </b></font>
+<p>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Customer Service</b></font> 
+  <br>
+  <font face="Arial, Helvetica, sans-serif" size="-2"> 
+  &nbsp; <a href="http://www.southernprogress.com/clv/ct01180101.asp"><b>Subscribe</b></a><br>
+  &nbsp; <a href="http://www.coastalliving.com/about/ct01180102.asp">Give a gift 
+  subscription<br>
+  </a>&nbsp; <a href="http://coastalliving.com/contactus/">Contact us</a> <br>
+  &nbsp; <a href="http://coastalliving.com/about/chad.asp">Address change</a><br>
+  &nbsp; <a href="http://coastalliving.com/contactus/faq.asp">FAQ</a><br>
+  &nbsp; <a href="http://coastalliving.com/search/">Site search</a><br>
+  &nbsp; <a href="http://coastalliving.com/contactus/sitemap.asp">Site map</a> <br>
+  &nbsp; <a href="/advertising/onlinemediakit.asp">Media kit</a> 
+  </font>
+  </p>
 
        
      </td>
@@ -284,8 +450,12 @@ privacy practices for children's sites, consult the privacy notice at the childr
     
     <!-- SIGNUP FOR COASTAL NEWSLETTER START--> 
        
-<div align="center"> <font face="Arial, Helvetica, sans-serif" size="-2" color="#FFFFFF"> 
-  <b>Get Coastal Living's free E-mail newsletter. </b> </font> &nbsp; <a href="http://southernliving.m0.net/m/p/stl/login.asp"><img src="/graphics/signup.gif" width="48" height="16" align="absmiddle" border="0" alt="get newsletter"></a></div>
+<div align="center"> 
+<font face="Arial, Helvetica, sans-serif" size="-2" color="#FFFFFF"> 
+  <b>Get <i>Coastal Living's</i> free E-mail newsletter. </b></font> 
+  &nbsp; <a href="http://southernliving.m0.net/m/p/stl/login.asp">
+  <img src="/graphics/signup.gif" width="48" height="16" align="absmiddle" border="0" alt="get newsletter"></a>
+</div>
  
       </td>
   </tr>
@@ -301,22 +471,27 @@ privacy practices for children's sites, consult the privacy notice at the childr
   <a href="/decorating/">Decorating</a> | 
   <a href="/seafood/">Food &amp; Entertaining</a> | 
   <a href="/coolstuff/">Cool Stuff </a> | 
-  <a href="/people/">People</a></font>
+  <a href="/people/">People</a> | 
+  <a href="/search/">Search</a>
+  </font>
   <br>
-  <font size="-1">Copyright © 2000 <i>Coastal Living.</i> 
-  No reproduction or republication without written permission. Not responsible for third-party material. 
-  <a href="http://coastalliving.com/about/privacy.asp">Privacy Policies</a>
+  <font size="-2">Copyright © 2001 <i>Coastal Living.</i> No reproduction 
+  or republication without written permission. <br>
+  Not responsible for third-party material. <a href="/about/terms.asp">Terms 
+  of Use</a><br>
+  <a href="/about/privacy.asp">Privacy Policies</a> 
   </font>
 </div>
 
 <map name="topnavmap"> 
-<area shape="rect" coords="8,2,81,18" href="/default.asp" alt="Home page" title="Home page">
-<area shape="rect" coords="91,3,169,18" href="/houseplans/" alt="House plans" title="House plans">
-<area shape="rect" coords="178,2,228,18" href="/travel/" alt="Travel" title="Travel">
-<area shape="rect" coords="237,3,313,18" href="/decorating/" alt="Decorating" title="Decorating">
-<area shape="rect" coords="324,2,448,18" href="/seafood/" alt="Food and entertaining" title="Food and entertaining">
-<area shape="rect" coords="458,3,531,18" href="/coolstuff/" alt="Cool stuff" title="Cool stuff">
-<area shape="rect" coords="539,3,592,18" href="/people/" alt="People" title="People">
+<area shape="rect" coords="2,2,48,18" href="/default.asp" alt="Home page" title="Home page">
+<area shape="rect" coords="52,2,132,18" href="/houseplans/" alt="House plans" title="House plans">
+<area shape="rect" coords="137,2,186,18" href="/travel/" alt="Travel" title="Travel">
+<area shape="rect" coords="193,2,266,18" href="/decorating/" alt="Decorating" title="Decorating">
+<area shape="rect" coords="275,2,396,18" href="/seafood/" alt="Seafood" title="Seafood">
+<area shape="rect" coords="405,2,475,18" href="/coolstuff/" alt="Coastal stuff" title="Coastal stuff">
+<area shape="rect" coords="483,2,533,18" href="/people/" alt="People" title="People">
+<area shape="rect" coords="539,2,598,18" href="/search/" alt="Site search" title="Site search">
 </map> 
 <!-- END FOOTER -->
 
