@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsa.org privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001221658id_/http%3A//www.dsa.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsa.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606181739id_/http%3A//www.dsa.org/privacy.htm) for the most accurate reproduction.*
 
 # Direct Selling Association
 
