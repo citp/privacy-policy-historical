@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207085000id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602145509id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
@@ -24,7 +24,7 @@ The USGS web site which referred you to this document conforms to the general U.
 
 Like most web servers on the Internet, our servers collect and store all of the information that your web browser sends when it requests a web page, including:
 
-  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name is ai-209-247-40-205.alexa.com and its numerical address is 209.247.40.205; 
+  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name is crawl2-public.alexa.com and its numerical address is 209.247.40.105; 
   * the date and time you accessed our site; 
   * the Internet address of the web page that you came from (for this visit that address is (none)); 
   * the page you requested from our site and the number of characters sent to your computer; and 
@@ -112,10 +112,10 @@ Use of the USGS visual identifier (logo) is restricted to official publications.
 
 We will identify material we use from sources outside of USGS, and request others do the same when using information published by USGS. Credit can be provided by including on the page (or via a link to a credits page) a citation such as:
 
-> Credit: U. S. Geological Survey   
->  U. S. Geological Survey/photo by Jane Doe (if the artist is known)  
->  USGS/Ft. Collins, CO (if originating office but not the artist is known)  
-> 
+Credit: U. S. Geological Survey   
+U. S. Geological Survey/photo by Jane Doe (if the artist is known)  
+USGS/Ft. Collins, CO (if originating office but not the artist is known)  
+
 
 * * *
 
@@ -143,13 +143,4 @@ National Center
 Reston, VA 20192  
 
 
-
-
-
 * * *
-
-U.S. Department of the Interior, U.S. Geological Survey, Reston, VA, USA  
-URL http://www.usgs.gov/privacy.html  
-Contact: [USGS Web Team](http://www.usgs.gov/mail.html)  
-Last modification: 24-Jul-2000@10:41 (jaf)  
-
