@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202812id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211225902id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for BRINT Institute, LLC
 
@@ -6,7 +6,7 @@
 **The Knowledge Creating Company** tm
 
 Privacy Statement for BRINT Institute, LLC   
-[About Us](http://www.brint.com/press/): Additional Data
+[About BRINT Institute](http://www.brint.com/press/)
 
 BRINT Institute, LLC (herafter referred as BRINT Institute) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web portals of BRINT Institute (herafter referred as BRINT web portals).
 
@@ -28,4 +28,4 @@ BRINT Institute has been actively contributing to the definition and implementat
 
  **Security** This site has security measures in place to protect the loss, misuse and alteration of the information under our control. For instance, users of our public discussion forums have the choice of hiding their individual e-mail addresses so that their addresses aren't easily available to programs that collect web based e-mail addresses for mass mailings. Similarly, the registration information for the global community members is not shared with anyone else unless explicitly chosen by the specific member. 
 
-**Choice/Opt-Out** Only registered members of the Network are eligible to receive our monthly research and learning issues related newsletter. All registration related issues are handled through the [BRINT Network Global Community](https://www.brint.net/forums/). Registered members can also change various preferences and options from within their user control panel in this interface. Registered members may contact the [Forums Administrator](https://www.brint.net/forums/cpadmin/index.php?) about any issue related to the Network forums. Or, they may contact through the [online form contact mechanism](http://www.brint.com/contact.html) provided for this purpose. Any postal mail related to Network member services must be addressed to the Director of Member Services. 
+**Choice/Opt-Out** Only registered members of the Network are eligible to receive our periodic research and learning newsletter with insights about the unnoticed trends affecting business technology managers and professionals, and great leads for top executive positions and top-of-line conference opportunities and ['Giveaway for Success' Sweepstakes](http://www.brint.com/win.html). All user registration related issues are handled through the [BRINT Network Global Community](https://www.brint.net/forums/). Registered members can also change various preferences and options from within their user control panel in the Network. Registered members may also contact BRINT Institute through the [online contact form](http://www.brint.com/contact.html). Any postal mail related to Network member services must be addressed to the Director of Member Services at the address provided on the above contact page. 
