@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203091215id_/http%3A//fototime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607044347id_/http%3A//www.fototime.com/privacy) for the most accurate reproduction.*
 
 # FotoTime - Creating web photo albums for sharing your digital pictures
 
