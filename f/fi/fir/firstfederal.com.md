@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstfederal.com privacy policy that was archived on 1999-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990427124638id_/http%3A//www.firstfederal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstfederal.com privacy policy that was archived on 2000-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000415112452id_/http%3A//www.firstfederal.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,6 @@ You may be asked for personally-identifying information in order to process your
 
 **We will NOT sell personally-identifying information** to a third party for the purpose of solicitation or provide personal information to a third party for its own use.
 
-Sometimes we send our customers information about our products and services. If you do not wish to receive this information, or if you believe that your personal information is incorrect please [contact us.](https://web.archive.org/web/19990427124638id_/http%3A//www.firstfederal.com/contactus.html) We will investigate the situation and if appropriate update our records. 
+Sometimes we send our customers information about our products and services. If you do not wish to receive this information, or if you believe that your personal information is incorrect please [contact us.](https://web.archive.org/web/20000415112452id_/http%3A//www.firstfederal.com/contactus.html) We will investigate the situation and if appropriate update our records. 
 
-If you have any questions that are not answered in this section please [contact us.](https://web.archive.org/web/19990427124638id_/http%3A//www.firstfederal.com/contactus.html)
+If you have any questions that are not answered in this section please [contact us.](https://web.archive.org/web/20000415112452id_/http%3A//www.firstfederal.com/contactus.html)
