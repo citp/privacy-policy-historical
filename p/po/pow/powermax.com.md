@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123509id_/http%3A//www.powermax.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214032734id_/http%3A//www.powermax.com/home/privacy.html) for the most accurate reproduction.*
 
 # PowerMax Computers, Privacy Policy
 
