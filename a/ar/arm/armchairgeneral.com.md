@@ -1,0 +1,69 @@
+> *The following text is extracted and transformed from the armchairgeneral.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604051807id_/http%3A//www.armchairgeneral.com/page_left_column.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+
+# Armchair General Magazine: Interactive Military History
+
+|  |   
+---  
+|  Untitled Page
+
+**Armchair General Privacy Policy**
+
+Thank you for visiting ArmchairGeneral.com. ACG is committed to providing our visitors and members with content and services characterized by outstanding quality and customer service. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. **The short version of our policy is that we will not rent or sell your email address.**
+
+BY USING OUR WEBSITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. Accordingly, please review the following carefully so that you understand our privacy practices in regards to: 
+
+  * Children under 13
+  * Information we collect
+  * How your information will be used
+  * How you can correct your information
+  * Opt-out information
+  * Security and passwords
+  * Miscellaneous
+
+
+
+If you have questions about this Privacy Policy, please contact us at [OnlinePrivacy@armchairgeneral.com](mailto:OnlinePrivacy@armchairgeneral.com)
+
+**Children Under 13:**  
+ACG cares about the safety of children. Since our content and services are not directed towards kids, children under 13 are not allowed to register with our website or to participate in public posting areas on our site. As a reminder, children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. 
+
+**Information We Collect:**  
+Generally, the information we gather on our website falls into two categories: (1) information you supply when you register, sign up for our product offerings, participate in sweepstakes, contests, surveys and promotions, or send us correspondence, and (2) tracking information collected as you navigate through our site. Third-party providers featured on or linked to our website, such as vendors of products and services offered through our site, may gather the same kinds of information about you. 
+
+> _Personally Identifiable Information_  
+>  To use certain features on our sites, we ask you to register. When you register, we collect personally identifiable information about you including your name, e-mail address, user name and password. We may also ask for some additional information, such as birth date, content interests, and the like, but you're free to register without providing this information if you prefer. In addition, we may ask you for personal information when you sign up for products and/or services, complete a survey, or report a problem with our site. Generally, we use this information to communicate with you, process your orders and to help improve our site.
+> 
+> From time to time, we also may offer contests or other promotions involving marketing or advertising partners. If you choose to participate in one of these contests or promotions, you'll have to provide some information about yourself (such as name, address, and e-mail address). Generally, we use this information to verify eligibility and to notify winners. We may share this information with co-sponsors of the contest or other promotional partners, but we will always identify that another party is involved. We don't control these third parties' privacy practices, and our Privacy Policy does not apply to their collection and use of personal information. We urge you to review their privacy policies and learn how they will use the information before participating. If you don't want us to collect the information requested in the promotion, or to provide it to our co-sponsors or partners, please do not participate in the contest or promotion. 
+> 
+> _Aggregate Information_  
+>  To help us serve your needs better, we use "cookies" to store and sometimes track user information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. The help function on most browsers contains information on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our site that are available to other visitors. Occasionally, in the course of serving advertisements to our site, advertisers or our third-party advertiser may place or recognize cookies on your browser. ACG does not control and is not responsible for these cookies. Information about your visits to our site, such as the number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you.
+> 
+> When you use our site, we may also collect your browser type, access time, and/or Internet Protocol ("IP") address, and keep records of this information. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. Your IP address does not tell us who you are. Like the IP address, none of this other information identifies you personally either; we collect it for aggregate reporting on site activity that we, and our advertisers, may use. For example, we may want to know how long the average user spends on our site, which pages or features get the most attention, and the like. The aggregate information helps to understand our audience and confirm the value of the advertising on our website. 
+
+**How Your Information Will Be Used:**  
+Among our primary goals in collecting information is to provide you with a customized experience when visiting our site and to make our site more valuable to you. We try to ensure that the banner advertisements we deliver to you are consistent with your interests. We may also e-mail you with messages and advertising that we think may be of interest to you. 
+
+To make your online experience more useful and enjoyable, our site includes links to other websites, and provides access to products and services offered by third parties. We share with these third parties such information as is necessary to provide the products or services. We will not provide your e-mail address to such third parties unless it's necessary to provide services you have requested, or to allow you to participate in a co-sponsored promotion. We also may provide links to other websites, and provide access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services or conduct other transactions through our website, use of any information you provide is governed by the privacy policy and practices of the operator of the site you're visiting or the provider of such products or services. When you provide information in the course of obtaining products or services through our site, use of any information you provide may be governed by the privacy policy and practices of the provider of those products or services, even if it appears that you're on our site throughout the transaction. The provider's privacy policy and practices may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from the site's homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information. 
+
+We may disclose your personal information when we believe disclosure is (i) required by law or necessary for compliance with legal process, or necessary, in our good faith belief, in order to conform with the edicts of the law or comply with legal process; (ii) necessary to enforce our other agreements between you and us; (iii) necessary to protect the rights, safety or interests of other visitors and members of our site or other members of the public; and/or (iv) necessary to protect the rights or interests of ACG or its partners, sponsors or affiliates. As our business grows, we may buy or sell various assets. In the event that ACG or our assets or our site (or a significant portion thereof) is acquired by another company, information on our visitors and members would be among the transferred assets. We may also disclose aggregate information to companies that provide us with financing, technology, and corporate, financial and legal advice, as well as to our partners and visitors. You acknowledge and agree to disclosure in each of the foregoing circumstances. 
+
+**How to correct or update your information:**  
+ACG believes strongly in providing you with the ability to access and edit the personal information that you have provided to us.
+
+**Opt-Out Information:**  
+You may opt-out of receiving information from us at any time simply by updating your preferences. 
+
+> _Newsletters:_  
+>  ACG currently has no newsletter preferences.
+> 
+> _Promotional Emails:_  
+>  ACG currently has no promotional email preferences.
+
+**Security and Passwords:**  
+The personally identifiable information we collect is securely stored within our database, and we use standard, industry-wide procedures such as encryption, firewalls and SSL (Secure Socket Layers) for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or e-mail address, for example, make sure not to include it in any message you post publicly. 
+
+**Unauthorized Use/Hacking:**  
+ACG's website and system are made available for lawful activities by authorized users only. Any person using the site without authority or for any unlawful activity are subject to having his or her activities monitored, recorded, investigated, examined and/or disclosed by or to ACG and its agents, and law enforcement. ACG may also monitor and record the activities of authorized users. Any information so recorded may be disclosed in accordance with the provisions of this Privacy Policy. 
+
+**Miscellaneous:**  
+The Internet is an evolving medium. Accordingly, ACG reserves the right to change this Privacy Policy. If we need to change our Privacy Policy at some point in the future, we'll post the changes or an amended Privacy Policy. Your continued use of the site or any of the services offered therein following any such posting will constitute your acceptance of all changes. In addition, by visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy. Please read both carefully before using or registering with any of our sites. 
