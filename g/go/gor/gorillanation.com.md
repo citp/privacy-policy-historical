@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorillanation.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214112655id_/http%3A//gorillanation.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorillanation.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013750id_/http%3A//gorillanation.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # GORILLA NATION -- PRIVACY POLICY
 
@@ -47,6 +47,10 @@ If any of your personally identifiable information changes or if you no longer w
 
 THIRD PARTY AD SERVERS   
 Gorilla Nation and some of our advertisers use third-party advertising companies to serve their ads on our sites. These third-party advertising companies employ cookie technology to measure ad effectiveness. To do so, these companies may use information about your visits to our sites and other Web sites. Unless you are otherwise notified, these advertising companies do not use names, addresses, email addresses, or telephone numbers, and they do not link any online actions or cookies to an identifiable person. Use of their cookies is subject to their own privacy policies.
+
+In serving ads to its network of sites, Gorilla Nation uses Double Click, Avenue A and other third-party advertising companies to serve ads on our Web sites. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. Also, these companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies.[Click here ](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies’ privacy policies.
 
 ACCESS TO OTHER SITES THROUGH GORILLA NATION.COM   
 You should be aware that when you are on Gorillanation.com, you will have the opportunity to visit, or link to, other sites not operated by Gorilla Nation. These sites, some of whom are Gorilla Nation advertisers, may collect personally identifiable information about you. Gorilla Nation does not control sites that are operated by others and is not responsible for the information practices of these sites and this privacy statement does not address the information practices of those web sites or advertisers. 
