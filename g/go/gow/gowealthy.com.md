@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203094045id_/http%3A//www.gowealthy.com/html/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610081225id_/http%3A//www.gowealthy.com/html/policy.htm) for the most accurate reproduction.*
 
 # Gowealthy.com - your gateway to the offshore
 
