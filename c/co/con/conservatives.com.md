@@ -1,26 +1,12 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017070824id_/http%3A//www.conservatives.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2003-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030612000717id_/http%3A//www.conservatives.com/privacy.cfm) for the most accurate reproduction.*
 
-# Conservatives.com - Privacy Policy
+# Conservative Party - Conservatives.com Privacy Policy
 
-Your views matter to Conservatives. We have tried to make it as easy as possible for you to get in touch and let us know about the issues that really matter to you. We also want you to do this with confidence. We take privacy very seriously and want you to know exactly what happens to any information you send us.  
-  
-On this page, we set out:  
-  
-   
-  
-  1. _what information is collected about you when visiting our website_
-  2. _how we use the information_
-  3. _with whom the information may be shared_
-  4. _what choices you have regarding its collection, use and distribution_
-  5. _how we use cookies on our site_
-  6. _the security procedures in place to protect its loss, misuse or alteration_
-  7. _how you can correct any inaccuracies in the information._
+Your views matter to Conservatives. We have tried to make it as easy as possible for you to get in touch and let us know about the issues that really matter to you. We also want you to do this with confidence. We take privacy very seriously and want you to know exactly what happens to any information you send us.
 
-  
-   
 About Us  
   
-This is a privacy policy for Conservative Party. Our homepage on the Web is located at [_http://www.conservatives.com_](http://www.conservatives.com/).
+This is a privacy policy for the Conservative Party website. Our homepage on the Web is located at [_http://www.conservatives.com_](http://www.conservatives.com/).
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
@@ -47,7 +33,7 @@ We ask for your name, postcode and email address if you subscribe to our email n
   
 In addition to the information from site registration we need additional information if you wish to donate money or join. This includes payment information (such as your credit card number and expiry date) and personal information that we must collect to abide by legal and voluntary codes of conduct (such as the constituency in which you are registered to vote). This information may be used for user analysis, user-profiling and contacting visitors.
 
-If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [_http://www.electoralcommission.gov.uk/_](https://web.archive.org/web/20021017070824id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)  
+If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [_http://www.electoralcommission.gov.uk/_](https://web.archive.org/web/20030612000717id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)  
   
    
 **Volunteer**  
