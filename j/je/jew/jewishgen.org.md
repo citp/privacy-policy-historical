@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishgen.org privacy policy that was archived on 2000-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001120180900id_/http%3A//www.jewishgen.org/JewishGen/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishgen.org privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607030217id_/http%3A//www.jewishgen.org/JewishGen/disclaimer.html) for the most accurate reproduction.*
 
 # Disclaimer, Site Use, and Privacy Policy
 
@@ -14,15 +14,20 @@ For purposes of analyzing the traffic we receive at our Web site, we log your do
 
 ### Use of Your Personal Information
 
-If you submit messages to the JewishGen Discussion group, it will include your name and e-mail address. We retain this information in the Discussion Group archives. We do not use this information, but we cannot prevent other persons from using it. In fact, the purpose of the archives is to allow other genealogists to contact you if you have provided information of interest to them. 
+  * **JewishGen Discussion Group** : If you submit messages to the [JewishGen Discussion group](https://web.archive.org/web/20010607030217id_/http%3A//www.jewishgen.org/JewishGen/DiscussionGroup.htm), it will include your name and e-mail address. This information is retained in the [Discussion Group archives](https://web.archive.org/wconnect/wc.isa?jg~jgsys~archpop). JewishGen does not use this information, but we cannot prevent other persons from using it. In fact, the purpose of the archives is to allow other genealogists to contact you if you have provided information of interest to them. The JewishGen Discussion Group is also mirrored to the Usenet newsgroup [soc.genealogy.jewish](news:soc.genealogy.jewish), thus all posted messages (which include the name and e-mail address of the poster) are available to those who reads newsgroups. We have no way of preventing anyone from using this information to contact you. 
 
-If you participate in the JewishGen Family Finder (JGFF) project, you will provide your name, e-mail address, postal address and telephone number. When you enter your data, you determine which address information will be displayed to any user of the JGFF. The information you decide to have displayed can be captured for uses beyond our control by anyone searching the JGFF. JewishGen may provide this information, on a very limited basis, to other genealogy groups, but only if you have given us permission to do so. For example if a group requests a list of all persons with interests in Lithuania, and in our judgement the planned use is to further the interests of Jewish genealogy, we provide such a list. If we turn down the request, the group is still capable of gathering the names and addresses by capturing your name and address information from the computer screen as described above. 
+  * **JewishGen Family Finder (JGFF)** : If you participate in the [JewishGen Family Finder (JGFF)](https://web.archive.org/jgff) project, you will provide your name, e-mail address, postal address and telephone number. When you enter your data, you determine which address information will be displayed to other users of the JGFF. The information you decide to have displayed can be captured for uses beyond our control by anyone searching the JGFF. To maximize your privacy, without lessening your chances of being contacted by someone with the same research interest, you can opt to display only your Researcher Code. When you use this method, the contact is processed through our third party blind contact system, which can be effective in protecting you from spam. 
 
-If you participate in the Family Tree of the Jewish People (FTJP) by submitting a GEDCOM file, the personal information you have already provided to the JewishGen Family Finder (JGFF) is automatically linked. This information consists of your researcher code, your e-mail address and postal address as well as a telephone number if supplied. None of this private information is provided to anyone. If an FTJP user wishes to communicate with you, we forward the initial message without giving your name or address. It is your decision to reply or not. 
+JewishGen may provide JGFF information, on a very limited basis, to other genealogy groups, but only if you have given us permission to do so. For example, if a group requests a list of all persons with interests in Lithuania, and in our judgement their planned use is to further the interests of Jewish genealogy, we provide such a list. If we turn down the request, the group is still capable of gathering the names and addresses by capturing your name and address information from the computer screen as described above. 
+
+  * **Family Tree of the Jewish People (FTJP)** : If you participate in the [Family Tree of the Jewish People (FTJP)](https://web.archive.org/gedcom) by submitting a GEDCOM file, the personal information you have already provided to the JewishGen Family Finder (JGFF) is automatically linked. This information consists of your researcher code, your e-mail address and postal address as well as a telephone number if supplied. None of this private information is provided to anyone. If an FTJP user wishes to communicate with you, we forward their initial message to you without giving them your name or address. It is your decision to reply or not. 
 
 If at any future date JewishGen determines that the FTJP will be used for anything other than personal genealogical pursuits, you will be notified and can then determine if you wish to participate or not. 
 
-If you contribute money to JewishGen through our JewishGen-erosity program, we do not share your name or other information provided to us with any other person or organization. 
+  * **Contributions** : If you contribute money to JewishGen through our [JewishGen-erosity program](https://web.archive.org/JewishGen-erosity), we ask if JewishGen may place your name in the list of contributors displayed on our web site. You have the option of chosing Yes or No. If you select Yes, your name will be added to the list of contributors; If you select No, you are listed as 'Anonymous'. In either case, we do not share any other information you provide to us with any other person or organization. 
+
+
+
 
 ### External Links
 
@@ -34,4 +39,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 **JewishGen ® is a registered trademark of [JewishGen, Inc](https://web.archive.org/).**
 
-Last updated 7 Nov 1999 by WSB. 
+Last updated 17 Jan 2001 by WSB. 
