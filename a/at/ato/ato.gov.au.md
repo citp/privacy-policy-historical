@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018001619id_/http%3A//www.ato.gov.au/content/corporate/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607110331id_/http%3A//ato.gov.au/content/corporate/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -92,6 +92,6 @@ On this page go to:
 For other important information, go to: 
 
   * [ATO main page](https://web.archive.org/)
-  * [Feedback about this site](https://web.archive.org/feedback.asp)
+  * [Feedback about this site](https://web.archive.org/feedback/feedback.asp)
 
 
