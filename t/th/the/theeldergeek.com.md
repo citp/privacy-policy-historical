@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeldergeek.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203023130id_/http%3A//www.theeldergeek.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeldergeek.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610192939id_/http%3A//www.theeldergeek.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of The Elder Geek
 
