@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606010146id_/http%3A//boo.com/fmprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204174827id_/http%3A//www.boo.com/fmprivacypolicy.asp) for the most accurate reproduction.*
 
 # fashionmall.com
 
