@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arofanatics.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010072847id_/http%3A//www.arofanatics.com/index.php%3Fcontent%3Dprivacy%26right%3Dno) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arofanatics.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602200455id_/http%3A//www.arofanatics.com/index.php%3Fcontent%3Dprivacy%26right%3Dno) for the most accurate reproduction.*
 
 # Arofanatics.com - Arowana Community for Aro collectors around the World!
 
