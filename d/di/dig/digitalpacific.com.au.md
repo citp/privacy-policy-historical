@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
 
 # Digital Pacific Web Hosting
 
@@ -6,35 +6,30 @@
 ---  
 **»**   | 
 
-[Compare Plans](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/hosting.php)  
+[Our clients](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/sites.php)  
   
 **»**   | 
 
-[Video Tutorials](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/tutorials.php) NEW !  
+[Video tutorials](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/tutorials.php)  
   
 **»**   | 
 
-[E-Commerce](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/ecomm.php)  
+[Plan features](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/hosting.php)  
   
 **»**   | 
 
-[Support](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/support.php)  
+[Support](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/support.php)  
   
 **»**   | 
 
-[Order Now](http://www.digitalpacific.com.au/secure/order)  
+[Order now](http://www.digitalpacific.com.au/secure/order)  
   
 **»**   | 
 
-[Contact Us](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/contact.php)  
+[Contact](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/contact.php)  
   
   
-| 
-
-Make $$$ through our affiliate program   
   
----|---  
-[](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/affiliates.php)   
 
 
 Digital Pacific Privacy Statement
