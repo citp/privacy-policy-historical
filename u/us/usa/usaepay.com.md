@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the usaepay.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602195246id_/http%3A//www.usaepay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaepay.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202204255id_/http%3A//usaepay.com/privacy.htm) for the most accurate reproduction.*
 
 # USA ePay - Company Information
 
 **_Scope of this Privacy Policy_  
 **This Privacy Policy covers USA ePay's treatment of personally identifiable information collected from merchants (hereafter "merchant" or "you") who use the USA ePay payment gateway services, as well as consumer information that we acquire in the course of our business. This Policy also covers the treatment of personally identifiable information that USA ePay's business partners may share with it.
 
-This Policy does not apply to the practices of companies that USA ePay does not own or control, or to people that USA ePay does not employ or manage. USA ePay is a wholly owned subsidiary of GorCorp, Inc. This Policy is specific to USA ePay and does not apply to other Web sites or Internet services that are part of the GorCorp Inc.  utmost 
+This Policy does not apply to the practices of companies that USA ePay does not own or control, or to people that USA ePay does not employ or manage. USA ePay is a wholly owned subsidiary of GorCorp, Inc. This Policy is specific to USA ePay and does not apply to other Web sites or Internet services that are part of the GorCorp Inc.  utmost
 
 **_Information Collection and Use_  
 **USA ePay collects personally identifiable information when you register for an USA ePay account, and when you use certain USA ePay products and services. USA ePay may also receive personally identifiable information from its resellers and other business partners.
@@ -39,7 +39,7 @@ We also require that any personally identifiable consumer information sent to us
 It is important for you to protect against unauthorized access to your Login ID/password and to your computer. Be sure to sign off when finished using a shared computer and otherwise protect the password used to access the USA ePay services.
 
 **_Account Information and Preferences_  
-**USA ePay gives you the ability to edit your USA ePay Account Information and preferences at any time by using the Settings option in your Merchant Console, or by emailing us at [support@usaepay.com](mailto:support@usaepay.com) . 
+**USA ePay gives you the ability to edit your USA ePay Account Information and preferences at any time by using the Settings option in your Merchant Console, or by emailing us at [support@usaepay.com](mailto:support@usaepay.com) .
 
 **_Notice for European Users_  
 **USA ePay is located in the United States. Any information that you provide to USA ePay will be transferred out of the EU to the United States. By providing personal information to us, you are consenting to its storage and use as described herein.
