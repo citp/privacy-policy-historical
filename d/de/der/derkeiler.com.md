@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402130248id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202211216id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
 
 # Der Keiler: Privacy Policy
 
@@ -28,9 +28,8 @@ To try and bring you offers that are of interest to you, we have relationships w
 
 As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-<http://www.adlink.net/company/privacy.php>  
-<http://www.focusin.com/privacy.htm>  
-<http://www.adtegrity.com/privacy.asp>
+<http://www.247realmedia.com/privacy.html>  
+<http://www.adlink.net/company/privacy.php>
 
 ### Contact
 
