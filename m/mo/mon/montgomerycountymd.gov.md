@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2002-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021130013047id_/http%3A//www.montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2003-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030419115813id_/http%3A//montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the Montgomery County Maryland Website
 
@@ -11,8 +11,9 @@ It is our statement concerning how your information will be protected. If you ha
 
 
 Montgomery County, Maryland Government   
-ATTN: Ivan Galic  
-10 1 Monroe Street  
+ATTN: Renee Yue  
+51 Monroe Street  
+Suite 100  
 Rockville, Maryland 20850 
 
 [Customer.Service@co.mo.md.us](mailto:Customer.Service@co.mo.md.us)
@@ -116,14 +117,15 @@ Our network manager is instructed to limit employee access to personally identif
 We welcome your comments and invite you to contact us if you have any questions or concerns regarding this Privacy Policy. Contact us at: 
 
 Montgomery County, Maryland   
-ATTN: Ivan Galic  
-10 1 Monroe Street  
+ATTN: Renee Yue  
+51 Monroe Street  
+Suite 100  
 Rockville, Maryland 20850   
 or  
 [Customer.Service@co.mo.md.us](mailto:Customer.Service@co.mo.md.us)
 
 CUSTOMER SATISFACTION:   
-Questions regarding this statement should be directed to the County by sending an e-mail [Customer.Service@co.mo.md.us](mailto:Customer.Service@co.mo.md.us). If you do not receive a response to your inquiry within five business days, please contact the County at [ivan.galic@co.mo.md.us](mailto:ivan.galic@co.mo.md.us). If your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/users/users_watchdog.html. 
+Questions regarding this statement should be directed to the County by sending an e-mail [Customer.Service@co.mo.md.us](mailto:Customer.Service@co.mo.md.us). If you do not receive a response to your inquiry within five business days, please contact the County at [renee.yue@co.mo.md.us](mailto:ivan.galic@co.mo.md.us). If your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/users/users_watchdog.html. 
 
 * * *
 
