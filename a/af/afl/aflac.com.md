@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207034932id_/http%3A//www.aflac.com/action_item/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2003-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030405013304id_/http%3A//www.aflac.com/action_item/privacy_notices.asp) for the most accurate reproduction.*
 
-# AFLAC Worldwide Headquarters
+# AFLAC - Privacy
 
-  |  |  |    
+[](https://web.archive.org/action_item/privacy_notices.asp)  
+|  |  |    
+  
 
 
-AFLAC.com Privacy Notice  
+AFLAC.com Web Site Privacy Notice  
   
 
 
@@ -13,14 +15,14 @@ At AFLAC*, we are sensitive to individuals’ concerns about their privacy and a
 
 The following is an outline of the aflac.com Privacy Notice; just click on any of the following topics to access that portion of the aflac.com Privacy Notice.
 
-  * [Scope of the aflac.com Privacy Notice](https://web.archive.org/web/20021207034932id_/http%3A//www.aflac.com/action_item/privacy.asp#scope)
-  * [Information that may be collected from you at aflac.com](https://web.archive.org/web/20021207034932id_/http%3A//www.aflac.com/action_item/privacy.asp#info)
-  * [Cookies and how AFLAC uses them](https://web.archive.org/web/20021207034932id_/http%3A//www.aflac.com/action_item/privacy.asp#cookies)
-  * [Disclosure of your information](https://web.archive.org/web/20021207034932id_/http%3A//www.aflac.com/action_item/privacy.asp#disclosure)
-  * [Security and protection of your information](https://web.archive.org/web/20021207034932id_/http%3A//www.aflac.com/action_item/privacy.asp#security)
-  * [Children](https://web.archive.org/web/20021207034932id_/http%3A//www.aflac.com/action_item/privacy.asp#children)
-  * [Changes to the AFLAC.com Privacy Notice](https://web.archive.org/web/20021207034932id_/http%3A//www.aflac.com/action_item/privacy.asp#changes)
-  * [How to contact AFLAC with questions or comments](https://web.archive.org/web/20021207034932id_/http%3A//www.aflac.com/action_item/privacy.asp#contact)
+  * [Scope of the aflac.com Privacy Notice](https://web.archive.org/web/20030405013304id_/http%3A//www.aflac.com/action_item/privacy.asp#scope)
+  * [Information that may be collected from you at aflac.com](https://web.archive.org/web/20030405013304id_/http%3A//www.aflac.com/action_item/privacy.asp#info)
+  * [Cookies and how AFLAC uses them](https://web.archive.org/web/20030405013304id_/http%3A//www.aflac.com/action_item/privacy.asp#cookies)
+  * [Disclosure of your information](https://web.archive.org/web/20030405013304id_/http%3A//www.aflac.com/action_item/privacy.asp#disclosure)
+  * [Security and protection of your information](https://web.archive.org/web/20030405013304id_/http%3A//www.aflac.com/action_item/privacy.asp#security)
+  * [Children](https://web.archive.org/web/20030405013304id_/http%3A//www.aflac.com/action_item/privacy.asp#children)
+  * [Changes to the AFLAC.com Privacy Notice](https://web.archive.org/web/20030405013304id_/http%3A//www.aflac.com/action_item/privacy.asp#changes)
+  * [How to contact AFLAC with questions or comments](https://web.archive.org/web/20030405013304id_/http%3A//www.aflac.com/action_item/privacy.asp#contact)
 
 
 
@@ -104,6 +106,6 @@ If you have questions or comments about our privacy practices or the aflac.com P
 
   
   
-[](https://www.aflac.com/scripts/email_this.asp?pageurl=www%2Eaflac%2Ecom%2Faction%5Fitem%2Fprivacy%2Easp)[](https://web.archive.org/scripts/print_this.asp?PageReference=%2Faction%5Fitem%2Fprivacy%2Easp&PageQuery=)   
+[](https://www.aflac.com/scripts/email_this.asp?pageurl=www%2Eaflac%2Ecom%2Faction%5Fitem%2Fprivacy%5Fnotices%2Easp)[](https://web.archive.org/scripts/print_this.asp?PageReference=%2Faction%5Fitem%2Fprivacy%5Fnotices%2Easp&PageQuery=)   
   
 
