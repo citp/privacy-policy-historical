@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607202202id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208135144id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
 
 # National Grid - Privacy Policy
 
