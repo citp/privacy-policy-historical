@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dealslist.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601132842id_/http%3A//www.dealslist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealslist.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203191349id_/http%3A//www.dealslist.com/privacy.php) for the most accurate reproduction.*
 
-# Deals List
+# Dealslist - Cheapest computer and best digital cameras deals
 
 This site is owned and operated by L&L Consulting, LLC. The material included herein, including site design, text, graphics, and the selection and arrangement thereof are copyrighted © by L&L Consulting, LLC. All Rights Reserved.  
 
 
-Dealslist.com (http://www.dealslist.com and http://www.dealofweek.com) is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from our users. Please read the following to understand our views and practices regarding personal information, and how they pertain to you as you use our various features and services. This statement discloses the current privacy practices for our Web sites. If we make any substantive changes to this policy, we'll announce it on our site. 
+Dealslist.com ([http://www.dealslist.com](http://www.dealslist.com/) and [http://www.dealofweek.com](http://www.dealofweek.com/)) is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from our users. Please read the following to understand our views and practices regarding personal information, and how they pertain to you as you use our various features and services. This statement discloses the current privacy practices for our Web sites. If we make any substantive changes to this policy, we'll announce it on our site. 
 
 We can be reached at [master@dealslist.com](mailto:master@dealslist.com)
 
