@@ -517,4 +517,768 @@ if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:6
 if (isIE4PC) {document.write('</DIV>');}
 </script></div>
 
+</body></html><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>ZDNet: Privacy</title>
+<meta http-equiv="expires" content="Tue, 20 Aug 1996 01:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<!-- DD2: 07/11/2001 15:10:49 -->
+<script language="JavaScript">
+<!--
+
+function checkOS() {
+  if(navigator.userAgent.indexOf('Linux') != -1)
+    { var OpSys = "Linux"; }
+  else if((navigator.userAgent.indexOf('Win') != -1) &&
+  (navigator.userAgent.indexOf('95') != -1))
+    { var OpSys = "Windows95"; }
+  else if(navigator.userAgent.indexOf('Win') != -1)
+    { var OpSys = "Windows3.1 or NT"; }
+  else if(navigator.userAgent.indexOf('Mac') != -1)
+    { var OpSys = "Macintosh"; }
+  else { var OpSys = "other"; }
+  return OpSys;
+}
+
+var OpSys = checkOS();
+
+beginRollover = false;// This handles a bug in Nav4.0x that executes the code too quickly.
+
+// convert all characters to lowercase to simplify testing 
+var agt=navigator.userAgent.toLowerCase(); 
+// *** BROWSER VERSION *** 
+// Note: On IE5, these return 4, so use is_ie5up to detect IE5. 
+var is_major = parseInt(navigator.appVersion); 
+var is_minor = parseFloat(navigator.appVersion); 
+
+var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) 
+            && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1) 
+            && (agt.indexOf('webtv')==-1)); 
+var is_nav2 = (is_nav && (is_major == 2)); 
+var is_nav3 = (is_nav && (is_major == 3)); 
+var is_nav4 = (is_nav && (is_major == 4)); 
+var is_nav4up = (is_nav && (is_major >= 4)); 
+var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) || 
+                      (agt.indexOf("; nav") != -1)) ); 
+var is_nav5 = (is_nav && (is_major == 5)); 
+var is_nav5up = (is_nav && (is_major >= 5)); 
+
+var is_ie   = (agt.indexOf("msie") != -1); 
+var is_ie3  = (is_ie && (is_major < 4)); 
+var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) ); 
+var is_ie4up  = (is_ie  && (is_major >= 4)); 
+var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) ); 
+var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4); 
+var isIE4, isIE4PC, isNav4PC, isNav4, isNav3;
+
+if (is_ie4 || is_ie4up || is_nav5 || is_nav5up) {
+	isIE4 = true;
+	if (OpSys != "Macintosh") {
+		isIE4PC = true;
+	} 
+} else if (is_nav4) {
+	isNav4 = true;
+	if (OpSys != "Macintosh") {
+		isNav4PC = true;
+	} 
+} else if  (is_nav) {
+	isNav3 = true;	
+}
+
+self.name = "parentWin";
+function openDec(url, name, w, h) {
+        popupWin = window.open(url, name, 'resizable=1,scrollbars=1,width=' + w + ',height=' + h + '');
+    // focus window (only for Navigator >= 3.0)
+    if ( (navigator.appName != "Microsoft Internet Explorer") && (navigator.appVersion.substring(0,1) == "3") )
+    popupWin.focus();
+}
+if (OpSys == "Linux") {
+	document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet-linux.css" TITLE="ZDNet Planet Styles - Linux">');
+} else {
+	document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet.css" TITLE="ZDNet Planet Styles">');
+	if (isNav4PC) {
+		document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet-ns.css" TITLE="ZDNet Planet Styles - Netscape">');
+	}
+}
+//-->
+</script><link rel="STYLESHEET" type="text/css" href="http://www.zdnet.com/graphics/styles/planet-linux.css" title="ZDNet Planet Styles - Linux"></head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#333399" vlink="#0033CC" alink="#6666FF" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
+ <script language="JavaScript1.2">
+if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:610">');}
+</script><div style="position:relative;top:0;left:0;width:610">
+ <!-- START TOPTABLE -->
+<!--START TOPNAV-->
+ 
+
+<!-- TOP NAV TABLE -->
+<table width="610" border="0" cellpadding="0" cellspacing="0" bgcolor="#0066CC">
+<tbody><tr><td align="center" valign="middle" height="20"> 
+<a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn14/www.zdnet.com/special/filters/sc/camera/" target="_top">Cameras</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn02/www.zdnet.com/reviews" target="_top">Reviews</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn03/http://www.zdnet.com/computershopper" target="_top">Prices</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn04/techupdate.zdnet.com" target="_top">Tech Update</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn06/www.zdnet.com/news" target="_top">News</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn13/http://www.zdnet.com/special/filters/sc/pda/" target="_top">Handhelds</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn08/http://www.zdnet.com/special/filters/sc/desktops/" target="_top">Desktops</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn09/http://www.zdnet.com/special/filters/sc/notebooks/" target="_top">Notebooks</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn10/www.zdnet.com/downloads" target="_top">Downloads</a><span class="tsep"> | </span><a class="tlink" href="http://chkpt.zdnet.com/chkpt/zdtn11/www.zdnet.com/developer" target="_top">Developer</a></td></tr>
+</tbody></table>
+<!-- END TOP NAV TABLE -->
+<!--END TOPNAV-->
+<table border="0" width="610" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="LEFT" valign="BOTTOM" width="610" bgcolor="#000066">
+	<map name="zdnetlogo">
+	<area shape="RECT" coords="4,29,72,77" href="http://www.zdnet.com" target="_top">
+	</map>
+	<img src="http://www.zdnet.com/graphics/heads/908.gif" width="472" height="80" alt="Privacy" usemap="#zdnetlogo" border="0"><br>
+	</td>
+	<td align="CENTER" valign="MIDDLE" bgcolor="#000066">
+	<!--START PPLS-->
+	
+	
+	<table border="0" cellpadding="0" cellspacing="0" width="134" background="http://www.zdnet.com/graphics/clear.gif">
+	<tbody><tr><td align="LEFT">
+
+<font color="#FFFFFF" size="-2">
+• <a href="http://chkpt.zdnet.com/chkpt/zdpp01/www.zdnet.com/techupdate/stories/main/0,14179,2806411,00.html" target="_top"><span class="tsquirt">Windows Vs. Linux</span></a><br>
+<span class="spacer4">&nbsp;</span><br>
+• <a href="http://chkpt.zdnet.com/chkpt/zdpp02/www.zdnet.com/techupdate/filters/mrc/0,14175,6020441,00.html" target="_top"><span class="tsquirt">eBusiness Update</span></a><br>
+<span class="spacer4">&nbsp;</span><br>
+• <a href="http://chkpt.zdnet.com/chkpt/zdpp03/http://computershopper.zdnet.com/texis/cs/price_drop.html" target="_top"><span class="tsquirt">Latest Price Drops</span></a><br>
+</font>
+</td></tr></tbody></table><!--END PPLS-->
+<img src="http://www.zdnet.com/graphics/clear.gif" width="138" height="1" alt=""><br>
+</td></tr></tbody></table>
+
+
+	
+		  <table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tbody><tr>
+		<td align="LEFT" width="8">&nbsp;</td><td align="LEFT" valign="TOP" width="602">
+		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
+		<a class="bread" href="http://www.zdnet.com">ZDNet</a>&nbsp;<span class="bread">&gt;</span> <span class="breadb">Privacy</span><br>  <span class="spacer4">&nbsp;</span><br>
+		</td>
+		 </tr></tbody></table>
+		<table border="0" width="610" cellpadding="0" cellspacing="0">
+		<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#999999">
+		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
+		</td></tr></tbody></table>
+	 
+		<!--START AD TABLE-->
+		<table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tbody><tr>
+		 <td align="CENTER" valign="TOP">
+		<span class="spacer6">&nbsp;</span><br>
+		<!-- START BANNER AD -->
+		<!-- Rebecca e48-backup:25218 -->
+
+<!--ba--><font size="4"><a href="http://ads3.zdnet.com/c/g=r024&amp;c=a61822&amp;idx=2001.09.16.22.08.35/www.joincbd.com/mybookclub/computer/bookclubs/cbd/JoinFast/t5/t5_tioli.htm/?src=237_02_eq_01_001_1637" target="_top"><img src="http://ads3.zdnet.com/i/g=r024&amp;c=a61822&amp;idx=2001.09.16.22.08.35/http://images.zdnet.com/adverts/imp/c19874/cbd_VB6Toolkit2.gif" height="60" width="468" border="1" alt="Click Here!"></a></font><!--bcg--><img src="http://gserv.zdnet.com/clear/SSEL=&amp;SSCH=&amp;SSNS=&amp;SSPR=&amp;SSTP=/ns.gif?a61822+1000692515+r024+rh=" height="1" width="1"><img src="http://bcs.zdnet.com/prism/7/SSEL=&amp;SSCH=&amp;SSNS=&amp;SSPR=&amp;SSTP=&amp;SSTO=&amp;SSCN=&amp;SSCAT=&amp;SSSRC=" height="1" width="1"><!--ecg--><br><!--ea-->
+
+ <!-- END BANNER AD -->  
+		<span class="spacer6">&nbsp;</span><br></td>
+		</tr></tbody></table>
+		<!--END AD TABLE-->
+	 	<table border="0" width="610" cellpadding="0" cellspacing="0">
+		<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#999999">
+		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
+		</td></tr></tbody></table>
+	 
+	
+		<table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tbody><tr><td align="CENTER" valign="MIDDLE">
+		<span class="spacer4">&nbsp;</span><br>
+		<!--SEARCH-->
+		<script language="Javascript">
+<!--
+function submit_it () {
+	if (document.zdform.db[1].selected) {
+  		document.directform.Utext.value = document.zdform.Utext.value; 
+    	document.directform.submit();
+  	} else {
+  		if (document.zdform.db[0].selected) {
+			document.zdform.Uch.value = '';
+		}
+  		document.zdform.submit();
+  	}
+}
+//-->
+</script>
+
+
+
+
+
+	 <!-- START SEARCH -->
+
+	
+
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr><td>
+		<table border="0" cellpadding="0" cellspacing="0" align="CENTER">
+		<tbody><tr><form name="zdform" method="get" action="http://xlink.zdnet.com/cgi-bin/texis/xlink/xlink/search.html" onsubmit="submit_it();return(false);"></form><td align="RIGHT" valign="MIDDLE" rowspan="2">
+		<span class="search">Search For:</span></td>
+		<td align="CENTER" valign="MIDDLE" rowspan="2">
+		&nbsp;</td>
+		<td align="LEFT" valign="MIDDLE" rowspan="2">
+		<input type="hidden" name="Uch" value="">
+		<!--INPUT TYPE="hidden" NAME="Utype" VALUE="SHOW SEARCH_Utype"-->	
+		<input type="TEXT" name="Utext" size="18">&nbsp;&nbsp;<span class="tdrop">
+		<select name="db" class="tdrop">
+		 <option value="zd">&nbsp;All ZDNet&nbsp;</option>
+		<option value="web">&nbsp;The Web&nbsp;</option>
+		</select></span>&nbsp;&nbsp;<input type="submit" value="  GO  " onclick="submit_it();"></td>
+		<td align="LEFT" rowspan="2">
+		&nbsp;&nbsp;</td>
+		<td align="LEFT" valign="MIDDLE">
+		<span class="v10">•&nbsp;<a href="http://www.zdnet.com/filters/searchtips">Search Tips</a></span></td></tr>
+		<tr><td align="LEFT" valign="MIDDLE">
+		<span class="v10">•&nbsp;<a href="http://xlink.zdnet.com/cgi-bin/texis/xlink/psearch/search.html">Power Search</a></span></td><form name="directform" method="get" action="http://xlink.zdnet.com/cgi-bin/texis/xlink/websearch/search.html"></form>
+		<input type="hidden" name="cmd" value="zd_qry">
+		<input type="hidden" name="Utext" value="dvd"></tr></tbody></table>
+		</td></tr></tbody></table>
+	 <!--END SEARCH-->
+		<span class="spacer4">&nbsp;</span><br></td>
+		</tr>
+		<tr><td align="left" valign="top" bgcolor="#999999">
+		<img src="http://www.zdnet.com/graphics/clear.gif" height="2" width="1" alt=""></td></tr>
+		</tbody></table>
+	
+	  <!-- END TOPTABLE --><script language="JavaScript1.2">
+if (isIE4PC) {document.write('</DIV>');}
+</script></div>
+
+
+
+
+	
+		 <script language="JavaScript">
+if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:630">');}
+if ((isNav3) || (isNav4)) {document.write('<TABLE WIDTH="610" CELLPADDING="0" CELLSPACING="0" BORDER="0"><TR><TD VALIGN="TOP" WIDTH="142">');}
+</script><div style="position:relative;top:0;left:0;width:630">
+<table width="142" cellpadding="0" cellspacing="0" border="0" align="LEFT">
+
+	<tbody><tr>
+	<td align="LEFT" valign="MIDDLE" rowspan="2">
+	<img src="/graphics/clear.gif" width="4" height="1" alt=""></td>
+	<td align="LEFT" valign="TOP" width="130">
+	<span class="spacer8">&nbsp;</span><br>
+	 </td>
+	<td align="LEFT" valign="MIDDLE">
+	<img src="/graphics/clear.gif" width="8" height="1" alt=""></td>
+	</tr>
+<tr>
+<td valign="TOP">
+
+	<!--BEGIN LEFT COLUMN TABLE-->
+<!--BEGIN LEFT COLUMN TABLE-->
+
+
+<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#EEEEEE">
+<tbody><tr><td align="LEFT" valign="TOP">
+<span class="lhead2">Pick a Topic:</span><br>
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/reviews/"><span class="lhead">Reviews</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/products/hardwareuser/"><span class="ldeck">Hardware</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/products/softwareuser/"><span class="ldeck">Software</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="/products/filter/guide/0,7267,1500113,00.html"><span class="ldeck">Desktops</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/reviews/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/shopping/"><span class="lhead">Shopping</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://computershopper.zdnet.com/texis/cs/baseframe.html"><span class="ldeck">Special Deals</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://zdnet.e-centives.com/"><span class="ldeck">Digital Coupons</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://auctions.zdnet.com"><span class="ldeck">Tech Auctions</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/shopping/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/business/"><span class="lhead">Business &amp; Tech</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/icom/e-business/"><span class="ldeck">E-Commerce</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/enterprise"><span class="ldeck">Enterprise</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/enterprise/linux"><span class="ldeck">Linux</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/business/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/help/"><span class="lhead">Help &amp; Learning</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="/zdhelp/filters/subfilter/0,7212,6002585,00.html"><span class="ldeck">Tips</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="/zdhelp/filters/subfilter/0,7212,6002354,00.html"><span class="ldeck">How To's</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="/zdhelp/filters/helpfinder/0,7562,6006063,00.html"><span class="ldeck">Software Help</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/help/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/news/"><span class="lhead">Tech News</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/anchordesk/"><span class="ldeck">AnchorDesk</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdnn/computing"><span class="ldeck">Computing</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/zdnn/internet"><span class="ldeck">Internet</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/news/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/investing/"><span class="lhead">Investing</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdii.com/headline_scan.asp"><span class="ldeck">News</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdii.com/thedayahead.asp"><span class="ldeck">Analysis</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdii.com/market_summary.asp"><span class="ldeck">Markets</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/investing/"><span class="ldeck">More...</span></a><br>
+ 
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/games/"><span class="lhead">Games</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/games/"><span class="ldeck">PC</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.videogames.com/psx/index.html"><span class="ldeck">PlayStation</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.videogames.com/n64/index.html"><span class="ldeck">N64</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.videogames.com/dream/"><span class="ldeck">Dreamcast</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/games/"><span class="ldeck">More...</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/techlife/"><span class="lhead">Tech Life</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/familypc/"><span class="ldeck">Family</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/equip/"><span class="ldeck">Electronics</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/yil/"><span class="ldeck">The Web</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/techlife/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/downloads/"><span class="lhead">Downloads</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://hotfiles.zdnet.com/cgi-bin/texis/swlib/hotfiles/search.html?link=1&amp;Usrt=download&amp;Udownloads=20000"><span class="ldeck">Most Popular</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www5.zdnet.com/mac/download.html"><span class="ldeck">Macintosh</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.palmpilotsoftware.com"><span class="ldeck">Palm</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/downloads/"><span class="ldeck">More...</span></a><br>
+
+<span class="spacer6">&nbsp;</span><br>
+
+<a href="http://www.zdnet.com/developer/"><span class="lhead">Developer</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/devhead/filters/html/"><span class="ldeck">HTML</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/devhead/filters/java/"><span class="ldeck">Java</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/devhead/resources/scriptlibrary/"><span class="ldeck">ScriptLibrary</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+<a href="http://www.zdnet.com/developer/"><span class="ldeck">More...</span></a><br>
+<span class="spacer8">&nbsp;</span><br>
+<a href="http://www.zdnet.com/special/graphics/copyright.html"><span class="lhead">Copyrights</span></a><br>
+<span class="spacer2">&nbsp;</span><br>
+</td></tr></tbody></table>
+<!-- END LEFT COLUMN TABLE--></td>
+<td align="LEFT" valign="MIDDLE">
+<img src="/graphics/clear.gif" width="8" height="1" alt=""></td>
+</tr>
+</tbody></table>
+<script language="JavaScript">
+<!--
+if ((isNav3) || (isNav4)) {document.write('<BR></TD><TD VALIGN="TOP" WIDTH="468">');}
+//-->
+</script> 
+
+
+	
+		<table border="0" cellspacing="0" cellpadding="0" align="LEFT" width="468">
+	 <tbody><tr>
+	<td align="LEFT" valign="TOP" width="468">
+	
+		<span class="spacer8">&nbsp;</span><br>  
+		<font face="arial, helvetica" size="3"><b>What is CNET Networks?</b><br></font>
+<font face="arial, helvetica" size="2">
+CNET Networks, Inc. is the global source of information and commerce services for the 
+
+technology industry. We connect buyers, sellers, and suppliers throughout the IT supply 
+
+chain with award-winning content via the Web, wireless devices, television, radio, and 
+
+print. Our respected brand portfolio includes CNET, ZDNet, mySimon, TechRepublic, GameSpot, 
+
+Download.com, News.com, CNET Radio and Computer Shopper magazine as well as CNET 
+
+ChannelServices, which include CNET DataServices and ChannelOnline. For more information 
+
+about the company, go here: <a href="http://www.cnet.com/aboutcnet/0-13612-7-309130.html">http://www.cnet.com/aboutcnet/0-13612-7-309130.html</a>.<p>
+This privacy policy applies to the U.S. operations of all brands and services within the 
+
+CNET Networks family.</p></font><p><font face="arial, helvetica" size="2"></font>
+
+<font face="arial, helvetica" size="3"><b>Overall Privacy Statement</b></font><br>
+<font face="arial, helvetica" size="2">
+CNET Networks takes your privacy seriously. Because we gather certain types of information 
+
+about our users we want to help you understand the terms and conditions surrounding the 
+
+collection and use of that information. This  privacy statement discloses the types of 
+
+information we gather, how we use it, and how to correct or change it. These privacy 
+
+practices apply to the Web site that you were viewing when you clicked through to this 
+
+policy, which is operated by CNET, its partner or affiliate.</font></p><p><font face="arial, helvetica" size="2">
+
+<b>1. What Personally Identifiable Information Does CNET Networks Collect?</b><br>
+CNET's primary goal in collecting personal information is to provide you with the best and 
+
+most useful content and services.  Because CNET derives its revenue mainly from advertising, 
+
+collecting information is essential to keeping our services free to users.</font></p><p><font face="arial, helvetica" size="2">
+CNET collects personally identifiable information when you provide it to us, such as when 
+
+you register on one of our sites, when you subscribe for a print magazine or an e-mail 
+
+newsletter, when you use certain products or services, such as our CatchUp software, and 
+
+when you visit CNET pages and read newsletters. Several of the services that we offer on our 
+
+sites, such as auctions and message boards, may require registration as a condition of use. 
+
+Once you register with one of our CNET sites you are no longer anonymous to us. CNET may 
+
+also receive information about you from other sources and add it to the information you have 
+
+provided to us.</font></p><p><font face="arial, helvetica" size="2">
+
+<b>2. What Anonymous Information Does CNET Networks Collect?</b><br>
+<i>Cookies</i><br>
+Your Internet browser has a feature called "cookies" which store small amounts of data on 
+
+your computer about your visit to any of our sites. However, cookies tell us nothing about 
+
+who you are unless you specifically give us personally identifiable information. You do not 
+
+need to have cookies turned on to visit most CNET sites, although active participation in 
+
+certain areas of our sites may require cookies.  In addition, you may elect not to allow 
+
+cookies to be collected by selecting certain options on your browser.</font></p><p><font face="arial, helvetica" size="2">
+<i>Web Bugs &amp; Servers</i><br>
+We use electronic images known as Web bugs - sometimes called single-pixel GIFs, transparent 
+
+GIFs, or clear gifs- that allow us to track general user traffic patterns. CNET also 
+
+automatically receives and records information from our servers and from your browser 
+
+including your IP address, the time, and information about the page you requested.</font></p><p><font face="arial, helvetica" size="2">
+We use tracking technologies in a variety of ways, including:
+</font></p><ul><font face="arial, helvetica" size="2">
+<li>keeping count of return visits to our site or our advertiser' or partners' sites
+</li><li>accumulating and report anonymous, aggregate (data collected in mass), statistical 
+
+information on Web site and advertisement usage
+</li><li>determining which features users like best 
+</li><li>saving your password so you don't have to re-enter it each time you visit our sites
+</li></font></ul><font face="arial, helvetica" size="2">
+<i>Third-Party Advertisement Servers</i><br>
+Some of our advertisers use third-party companies to serve their advertisements on our sites 
+
+and, in some cases, in our HTML-formatted newsletters. Often, these third-party advertising 
+
+companies employ cookie and Web bug technologies to measure advertisement effectiveness. We 
+
+do not give any personally identifiable information to them as part of this relationship. 
+
+Use of their tracking technology is subject to their own privacy policies. If you would like 
+
+more information about the privacy policies of the third-party advertising providers 
+
+including information on how to opt out of their tracking methods, check: 
+
+http://www.networkadvertising.org/optout_nonppii.asp.<p>
+
+<b>3. How Does CNET Networks Use The Information?</b><br>
+CNET uses the information we gather for four general purposes:
+</p><ul>
+<li>to customize the advertising and content you see, which helps keep our services free to 
+
+users
+</li><li>to enhance the user experience in our network of sites. We use tracking information to 
+
+determine how well each page performs overall based on aggregate user demographics and 
+
+traffic patterns to those pages. This helps us continue to build a better service for you 
+</li><li>to fulfill your requests for certain products and services, such as sending out 
+
+electronic newsletters and enabling users to participate in polls, contests, message boards, 
+
+and auctions 
+</li><li>to send you information you agreed to receive about topics we think will be of interest 
+
+to you
+</li></ul>
+
+<b>4. How Does CNET Networks Share The Information?</b><br>
+<i>Personally Identifiable Information</i><br>
+CNET will make your personally identifiable information available to other companies or 
+
+people when: 
+<ul>
+<li>we have your consent to share the information
+</li><li>we have engaged companies to work with or on behalf of CNET to provide a product or 
+
+service that you have requested, such as opt-in e-mail announcements
+</li><li>you use co-branded services. When you use a co-branded service within our network of 
+
+sites you grant us permission to pass your registration information back to that service 
+
+partner. Their use of your information is subject to their applicable privacy policies.
+</li><li>we respond to subpoenas, court orders or legal process; or we believe that your actions 
+
+violate applicable laws, CNET's Terms of Use or any usage guidelines for specific products 
+
+or services, or threaten the rights, property or safety of CNET, our users, or others
+</li></ul>
+<i>Aggregate Information</i><br>
+CNET aggregates personally identifiable information and discloses such information in a 
+
+non-personally identifiable manner to advertisers and other third parties for marketing, 
+
+promotional and other purposes. We do not disclose to these entities any information that 
+
+could be used to identify you personally.<p>
+<i>ChannelOnline Data</i><br>
+Companies that use our ChannelOnline services may enter account data for third-party 
+
+services. This information is necessarily passed on to those third parties when their 
+
+ordering system is accessed. ChannelOnline users may also enter data about their customer 
+
+orders. This information is shared only in aggregate form with third parties.</p><p>
+<i>Business Transfers</i><br>
+We are always seeking to improve our network of Web sites and our business. In accomplishing 
+
+these objectives, we may buy or sell a company, or one or more of the companies in our 
+
+corporate family may merge with or be acquired by another company. If we sell a business, we 
+
+may transfer some or all of your information as a part of the sale in order that the service 
+
+being provided to you may continue or for other business purposes.</p><p>
+
+<b>5. What Are My Options?</b><br>
+Users who would rather not provide any of the user data requested by our registration 
+
+process do not need to register with us. You can still view much of the content and use many 
+
+of the services offered by our sites without registering.</p><p>
+We also give users the following options: 
+</p><ul>
+<li>opting not to receive our electronic newsletters or those of third parties when 
+
+registering. Users who opt-in may remove themselves from mailing lists at any time through 
+
+the subscription management pages or by following the instructions at the end of the e-mail 
+
+they received from us; 
+</li><li>opting not to provide certain personal information when registering for a site.
+</li></ul>
+<i>E-mail subscription-management tools</i>
+<ul>
+<li><a href="http://www.cnet.com/subscription/0-16335.html">CNET</a>
+</li><li><a href="http://gamespot.com/">GameSpot</a>
+</li><li><a href="http://www.mysimon.com/members/index.jhtml?pgid=subscriptions&amp;direct=subscriptions">My
+
+Simon</a>
+</li><li><a href="http://www.techrepublic.com/techmails.jhtml">TechRepublic</a>
+</li><li><a href="http://www.zdnet.com/filters/email/welcome/">ZDNet</a>
+</li></ul>
+
+<b>6. How Can I Update My Personally Identifiable Information?</b><br>
+You can correct or change the information collected during registration for any site (see 
+
+above for a description of the registration process). The instructions for doing this can be 
+
+found in our member services areas. Users may change this information at any time and as 
+
+often as necessary. Users who are experiencing problems or who have questions about how our 
+
+services work can contact us using e-mail addresses at the bottom of this page. Currently, 
+
+we do not offer users a means by which to completely delete personal information established 
+
+at the time of registration.<p>
+<i>Registration-management tools</i>
+</p><ul>
+<li><a href="mailto:support@cnet.com">CNET</a> (email) 
+</li><li><a href="http://members.zdnet.com/gamespot/edituser">GameSpot</a> 
+</li><li><a href="http://www.mysimon.com/members/">mySimon</a> 
+</li><li><a href="http://www.techrepublic.com/myaccount/">TechRepublic</a> 
+</li><li><a href="http://www.zdnet.com/members/">ZDNet</a> 
+</li></ul>
+
+<b>7. How Will I Know If The Privacy Policy Is Changed?</b><br>
+Any modifications to our privacy practices will be reflected first within this area of our 
+
+network of Web sites. If there is a material change in our privacy practices, we will 
+
+indicate on our sites that our privacy practices have changed and provide a link to the new 
+
+privacy statement. If we are going to be using the information collected from users in a 
+
+manner materially different from that stated at the time of collection we will send affected 
+
+users written notice of the change.<p>
+
+<b>8. Privacy of Children</b><br>
+Our network of sites is not directed to children under the age of 13. We operate our network 
+
+of sites in compliance with the Children's Online Privacy Protection Act, and do not permit 
+
+registration by, and will not knowingly collect or use personally identifiable information 
+
+from, anyone under 13 years of age. This requirement is clearly posted during the 
+
+registration process.</p><p>
+
+<b>Questions, Comments</b><br>
+Questions regarding this privacy statement, or regarding any other aspects of our network of 
+
+Web sites, should be sent via e-mail to or to our corporate offices at 150 Chestnut St., San 
+
+Francisco, CA 94111. We read every message submitted and try to reply promptly to every one. 
+
+We may also file your comments to improve the site and program, or review and discard the 
+
+information.</p><p>
+
+<i>E-mail contacts for questions</i>
+</p><ul>
+<li>CNET: <a href="mailto:support@cnet.com">support@cnet.com</a>
+</li><li>ChannelOnline: <a href="mailto:channelsupport@cnet.com">channelsupport@cnet.com</a>
+</li><li>GameSpot: <a href="mailto:feedback@gamespot.com">feedback@gamespot.com</a>
+</li><li>MySimon: <a href="mailto:customerservice@mysimon.com">customerservice@mysimon.com</a>
+</li><li>TechRepublic: <a href="mailto:tech@techrepublic.com">tech@techrepublic.com</a>
+</li><li>ZDNet: <a href="mailto:privacy@zdcommunity.com">privacy@zdcommunity.com</a>
+</li></ul>
+
+<i>Updated July 2001</i></font><p><font face="arial, helvetica" size="2">
+</font>
+   </p></td>
+	</tr>
+ </tbody></table>
+<script language="JavaScript">
+if ((isNav3) || (isNav4)) {document.write('</TD></TR></TABLE>');}
+if (isIE4PC) {document.write('</DIV>');}
+</script></div>
+<br clear="ALL">
+<br clear="ALL"> <script language="JavaScript1.2">
+if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:610;vertical-align:top">');}
+</script><div style="position:relative;top:0;left:0;width:610;vertical-align:top">
+<table width="610" border="0" cellpadding="0" cellspacing="0">
+ 
+	<tbody><tr>
+	
+		<td width="4" rowspan="2" bgcolor="#FFFFFF"><img src="http://www.zdnet.com/graphics/clear.gif" width="4" height="1" alt=""></td>
+		<td valign="TOP" width="606" bgcolor="#FFFFFF">
+	   </td>
+		</tr>
+		<tr>
+		<td valign="TOP" bgcolor="#FFFFFF">
+	
+		<!-- BOTTOM NAV TABLE -->
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#333399" width="125">
+<a href="http://www.zdnet.com"><img src="http://www.zdnet.com/graphics/botnavlogo-top.gif" width="125" height="42" border="0" alt=""></a></td>
+<td align="CENTER" valign="MIDDLE" bgcolor="#333399" height="42" width="100%">
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn01/zdnet.com/dice">Tech Jobs</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn02/http://cma.zdnet.com/texis/advantage/zdn2.html">Buyer's Protection</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn03/www.zdnetonebox.com">E-mail</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn04/www.zdnet.com/techupdate/filters/newsletters/sub/0,14214,6020393,00.html">Free Newsletters</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn05/http://www.zdnet.com/special/filters/sitebuilder/">SiteBuilder</a></nobr>
+
+	<br>
+ 
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn06/www.zdnet.com/techupdate/filters/gateway/0,14192,6021056,00.html">IT Solutions</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn07/http://cma.zdnet.com/texis/TIB/ban3.html ">Alerts</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn08/http://www.smartplanet.com">Classes</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn09/http://www.zdnet.com/techupdate/filters/downloads/">Downloads</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn10/www.zdnet.com/members">Members</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+
+ <nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/zdbn11/http://researchcenter.zdnet.com/">Research</a></nobr>
+</td></tr>
+<tr><td align="LEFT" valign="TOP" bgcolor="#000066" width="125">
+<a href="http://www.zdnet.com"><img src="http://www.zdnet.com/graphics/botnavlogo-bot.gif" width="125" height="26" border="0" alt=""></a></td>
+<td align="CENTER" valign="MIDDLE" bgcolor="#000066" height="26" width="100%">
+<nobr><span class="tlink">CNET Networks:</span>  
+
+<a href="http://chkpt.zdnet.com/chkpt/zdbn12/www.cnet.com" class="tlink">CNET</a><span class="bnavsep"> | </span>
+<a href="http://chkpt.zdnet.com/chkpt/zdbn13/www.gamespot.com" class="tlink">GameSpot</a><span class="bnavsep"> | </span>
+<a href="http://chkpt.zdnet.com/chkpt/zdbn14/www.mysimon.com/track/zdnet_footer/Redirect?url=%2Findex.jhtml" class="tlink">mySimon</a><span class="bnavsep"> | </span>
+<a href="http://chkpt.zdnet.com/chkpt/zdbn23/http://www.techrepublic.com/promotion.jhtml?pc=CNET02&amp;s=false" class="tlink">TechRepublic</a><span class="bnavsep"> | </span>
+<a href="http://chkpt.zdnet.com/chkpt/zdbn15/www.zdnet.com" class="tlink">ZDNet</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://chkpt.zdnet.com/chkpt/zdbn16/www.zdnet.com/coinfo/filters/welcome/" class="tlink">About ZDNet</a>&nbsp;
+</nobr>
+</td></tr>
+</tbody></table>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td align="left" valign="middle" bgcolor="#ffffff">
+
+&nbsp;
+ <a href="http://chkpt.zdnet.com/chkpt/zdbn17/www.zdnet.com/filters/feedback" class="a12">Feedback</a><span class="a12"> | </span>
+ <a href="http://chkpt.zdnet.com/chkpt/zdbn18/www.zdnet.com/filters/privacy/" class="a12">Your Privacy</a><span class="a12"> | </span>
+ <a href="http://chkpt.zdnet.com/chkpt/zdbn19/www.zdnet.com/filters/terms" class="a12">Service Terms</a><span class="a12"> | </span>
+ <a href="http://chkpt.zdnet.com/chkpt/zdbn20/www.zdnet.com/adverts/adinfo" class="a12">Advertise</a><span class="a12"> | </span>
+ <a href="http://chkpt.zdnet.com/chkpt/zdbn22/http://www.cnet.com/aboutcnet/0-13616.html?tag=nav" class="a12">ZDNet Jobs</a></td>
+
+ </tr>
+</tbody></table>
+<!-- /BOTTOM NAV TABLE -->    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+	
+		
+	
+
+		<tbody><tr><td colspan="2">
+		 
+			<span class="v10">
+		 <a href="http://chkpt.zdnet.com/chkpt/zdbn21/www.zdnet.com/special/graphics/copyright.html">Copyright</a> © 2001 ZD Inc.  ZDNet is a registered service mark of ZD Inc.  ZDNet Logo is a service mark of ZD Inc. 
+			</span>
+		</td></tr>
+	
+  </tbody></table>
+ 
+	</td>
+	</tr>
+</tbody></table>
+<script language="JavaScript1.2">
+if (isIE4PC) {document.write('</DIV>');}
+</script></div>
+
+
 </body></html>
