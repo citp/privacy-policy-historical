@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206040900id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205040631id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
 
-# StumpsProm: Customer Service: Site Security & Privacy
+# StumpsProm
 
 ### Site Security
 
 At StumpsProm.com, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security. 
 
-We have followed and surpassed all industry standards necessary for a secure site. We are a [VeriSign™](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=d98a955b1a1605f205c665609c4e8ee9) secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties. 
+We have followed and surpassed all industry standards necessary for a secure site. We are a GeoTrust™ secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties. 
 
 Our servers use SSL (Secure Sockets Layer). This is an advanced technology that **encrypts all of the information you send us** (this includes all of your personal information such as your name, address, credit card number, etc.) so that it cannot be read as the information as it travels over the Internet. 
 
