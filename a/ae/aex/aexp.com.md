@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aexp.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601205026id_/http%3A//home3.americanexpress.com/corp/consumerinfo/main.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aexp.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207171741id_/http%3A//www10.americanexpress.com/sif/cda/page/0%2C1641%2C14271%2C00.asp) for the most accurate reproduction.*
 
 # American Express Internet Privacy
 
