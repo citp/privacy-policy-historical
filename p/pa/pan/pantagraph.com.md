@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413091743id_/http%3A//www.pantagraph.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217002930id_/http%3A//pantagraph.com/info/privacy.html) for the most accurate reproduction.*
 
 # Pantagraph.com - Privacy Policy
-
-_
 
 **Privacy Policy**
 
@@ -41,5 +39,3 @@ Pantagraph.com occasionally administers contests in which participants must regi
 **Subscribing to the paper or placing a classified ad**
 
 Personal information is required to complete such transactions. The information is maintained in offline systems by the individual departments at The Pantagraph. The information is processed according to the procedures appropriate for the transaction.
-
-_
