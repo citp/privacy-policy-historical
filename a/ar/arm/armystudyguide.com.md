@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209101707id_/http%3A//www.armystudyguide.com/admin/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618061751id_/http%3A//www.armystudyguide.com/admin/privacy.htm) for the most accurate reproduction.*
 
 # ArmyStudyGuide.com's Privacy Policy
 
