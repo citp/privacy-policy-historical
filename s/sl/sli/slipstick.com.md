@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slipstick.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604053023id_/http%3A//www.slipstick.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slipstick.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210150751id_/http%3A//www.slipstick.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Slipstick Systems Outlook and Exchange Solutions Center
 
@@ -13,9 +13,13 @@ Our privacy policy at the Slipstick Systems Outlook & Exchange Solutions Center 
 
 ### Information We Collect Directly from You
 
-On the [Slipstick Systems Outlook and Exchange Solutions Center Feedback](https://web.archive.org/web/20020604053023id_/http%3A//www.slipstick.com/feedback.htm) page and other pages that ask you to fill out a form, you may give as much or as little information as you choose. The more information you provide, the better we can serve you. For example, we cannot respond directly to your feedback form comments unless you provide an email address.
+On the [Slipstick Systems Outlook and Exchange Solutions Center Feedback](https://web.archive.org/web/20021210150751id_/http%3A//www.slipstick.com/feedback.htm) page and other pages that ask you to fill out a form, you may give as much or as little information as you choose. The more information you provide, the better we can serve you. For example, we cannot respond directly to your feedback form comments unless you provide an email address.
 
 Any such personally identifying information is kept in strictest confidence by Turtleflock, LLC, the parent company of Slipstick Systems Outlook & Exchange Solutions Center. We do not provide it to any other party without asking you first and will use it only for the specific purpose explained on the page where you submit your information. 
+
+### Exchange Messaging Outlook Mailing List
+
+The mailing list for our [Exchange Messaging Outlook newsletter](https://web.archive.org/web/20021210150751id_/http%3A//www.slipstick.com/emo/index.htm) is maintained at [Yahoo! Groups](http://groups.yahoo.com/group/emo-newsletter). However, you do not have to join Yahoo! to [ subscribe](mailto:emo-newsletter-subscribe@yahoogroups.com?subject=Subscribe%20to%20EMO), and we will do rent that mailing list to third parties. 
 
 ### Information Collected by Third Parties on Our Behalf
 
