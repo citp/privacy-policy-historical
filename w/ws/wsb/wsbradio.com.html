@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wsbradio.com privacy policy that was archived on 2003-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030402013930id_/http%3A//wsbradio.com/common/about_us/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wsbradio.com privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207075740id_/http%3A//wsbradio.com/common/inside/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <!--/htdig_noindex-->
@@ -11,16 +11,81 @@ Privacy Policy
 <!--htdig_noindex-->
 <meta name="description" content="This web site, for AM750 WSB WSB AM , features internet audio, online radio, movie showtimes, music news, entertainment  news, concert tour information, and a local event calendar all geared for the Atlanta, Georgia area. A Cox Radio site programming News Talk, the site also offers singles personals, news, weather, traffic, and the ability to buy CDs and DVDs. Also featuring Clark Howard, Neal Boortz, Sean Hannity, Scott Slade, and Royal Marshall.">     
 
+
 <script language="JavaScript">
 <!--//
+window.name="main";
 var ss = "global.css";
 if (navigator.appName.substring(0,8) == "Netscape")
 ss = "global_nn.css";
 if (navigator.appName.substring(0,9) == "Microsoft")
 ss = "global_ie.css";
 document.write ('<link rel=stylesheet type="text/css" href="/common/templates/' + ss + '">');
+
+
+function echeck(str) {
+ 
+  var at="@"
+  var dot="."
+  var lat=str.indexOf(at)
+  var lstr=str.length
+  var ldot=str.indexOf(dot)
+  if (str.indexOf(at)==-1){
+     alert("Please enter your primary email address.")
+     return false
+  }
+ 
+  if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+     alert("Please enter your primary email address.")
+     return false
+  }
+ 
+  if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+      alert("Please enter your primary email address.")
+      return false
+  }
+ 
+   if (str.indexOf(at,(lat+1))!=-1){
+      alert("Please enter your primary email address.")
+      return false
+   }
+ 
+   if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+      alert("Please enter your primary email address.")
+      return false
+   }
+ 
+   if (str.indexOf(dot,(lat+2))==-1){
+      alert("Please enter your primary email address.")
+      return false
+   }
+  
+   if (str.indexOf(" ")!=-1){
+      alert("Please enter your primary email address.")
+      return false
+   }
+ 
+    return true     
+ }
+ 
+function ValidateForm(){
+ var emailID=document.emailform.user_email_address
+ 
+ if ((emailID.value==null)||(emailID.value=="")){
+  alert("Please enter your primary email address.")
+  emailID.focus()
+  return false
+ }
+ if (echeck(emailID.value)==false){
+  emailID.value=""
+  emailID.focus()
+  return false
+ }
+ return true
+ }
 //-->
 </script><link rel="stylesheet" type="text/css" href="/common/templates/global_nn.css">
+
 
 <link rel="stylesheet" type="text/css" href="/templates/local.css">
 </head>
@@ -46,8 +111,10 @@ Atlanta's News, Weather, and Traffic Online<br>&nbsp;
 <select name="value" onchange="getValues()" class="search">
 <option value="all" selected="" class="search">entire site
 </option><option value="calendar" class="search">event calendar
-</option><option value="music" class="search">music catalog
-</option><option value="movies" class="search">movie listings</option></select>
+</option><option value="music" class="search">music store
+</option><option value="movies" class="search">movie listings
+</option><option value="dvd" class="search">dvd store
+</option></select>
 </td></tr>
 <tr><td align="right" valign="middle" class="srchtxt"><b>for?&nbsp;</b></td>
 <td align="left" valign="middle"><input type="hidden" name="query" value="keyword"><input type="text" name="string" value="" size="12" maxlength="25" class="search"></td>
@@ -63,7 +130,8 @@ Atlanta's News, Weather, and Traffic Online<br>&nbsp;
 <tbody><tr><td align="left" valign="top" class="nav">
 <a class="topnav" href="/">Home</a><br>
 <a class="topnav" href="/listen/">Listen</a><br>
-&nbsp;&nbsp;&nbsp;<a class="subnav" href="http://www.streamaudio.com/listen/cox.asp?station=WSB_AM">on air broadcast</a><br>
+&nbsp;&nbsp;&nbsp;<a class="subnav" href="http://www.streamaudio.com/listen/cox.asp?station=WSB_AM&amp;headertext=News-Talk%20750%20WSB">on air broadcast</a><br>
+&nbsp;&nbsp;&nbsp;<a class="subnav" href="/listen/archives.html">audio archives</a><br>
 <a class="topnav" href="/news/">News</a><br>
 &nbsp;&nbsp;&nbsp;<a class="subnav" href="/news/local.html">local news</a><br>
 &nbsp;&nbsp;&nbsp;<a class="subnav" href="/news/natl.html">national news</a><br>
@@ -77,17 +145,21 @@ Atlanta's News, Weather, and Traffic Online<br>&nbsp;
 <a class="topnav" href="/contests/">Contests</a><br>
 <a class="topnav" href="/inside/">Inside wsbradio.com</a><br>
 &nbsp;&nbsp;&nbsp;<a class="subnav" href="/inside/personalities.html">personalities</a><br>
+&nbsp;&nbsp;&nbsp;<a class="subnav" href="/inside/photos.html">photo gallery</a><br>
 &nbsp;&nbsp;&nbsp;<a class="subnav" href="/inside/shows.html">shows and schedules</a><br>
 &nbsp;&nbsp;&nbsp;<a class="subnav" href="/inside/newsletter.html">get our newsletter</a><br>
 &nbsp;&nbsp;&nbsp;<a class="subnav" href="/inside/contact.html">contact us</a><br>
 &nbsp;&nbsp;&nbsp;<a class="subnav" href="/inside/offers.html">special offers</a><br>
 &nbsp;&nbsp;&nbsp;<a class="subnav" href="/inside/sponsors.html">about our advertisers</a><br>
 <a class="topnav" href="/ajcjobs/">ajcjobs Job Source</a><br>
+<a class="topnav" href="/kaiser/">Health News by Kaiser Permanente</a><br>
+<a class="topnav" href="/financial/">Financial Resource Center</a><br>
 <a class="topnav" href="/asktheexpert/">Ask The Experts</a><br>
-<a class="topnav" href="/kaiser/">Kaiser Permanente Health Check</a><br>
-<a class="topnav" href="/personals/">Atlanta Personals</a><br>
+<a class="topnav" href="http://www.lavalife.com/welcome.act?context=ancc&amp;a=3899&amp;zip=30303">Atlanta Personals</a><br>
 
+                
 </td></tr>
+
 <tr><td align="left" valign="top" class="nav"><br><br><br>
 <div align="center" class="affiliate"><b>More about Atlanta</b><br>
 <a href="http://AccessAtlanta.com/" class="subnav">AccessAtlanta.com</a></div>
@@ -100,7 +172,7 @@ Atlanta's News, Weather, and Traffic Online<br>&nbsp;
 <table width="488" cellspacing="0" cellpadding="10" border="0">
 <tbody><tr><td align="center" valign="middle">
 <div align="left" style="float: none; left: 0px; top: 0px; position: relative; width: 468px;">
-<nolayer><iframe src="http://ad.doubleclick.net/adi/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl;sz=468x60;tile=7;ord=Poo-TAoAAHEAADKXv-w?" width="468" height="60" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl;sz=468x60;tile=7;ord=Poo-TAoAAHEAADKXv-w?"><img src="http://ad.doubleclick.net/ad/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl; sz=468x60;tile=7;ord=Poo-TAoAAHEAADKXv-w?" height=60 width=468 border="0"></A></iframe></nolayer><ilayer id="ph468601" visibility="hidden" width="468" height="60"></ilayer>
+<nolayer><iframe src="http://ad.doubleclick.net/adi/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=468x60;tile=7;ord=P9LdcwoAAHEAAGWfmy0?" width="468" height="60" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=468x60;tile=7;ord=P9LdcwoAAHEAAGWfmy0?"><img src="http://ad.doubleclick.net/ad/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl; sz=468x60;tile=7;ord=P9LdcwoAAHEAAGWfmy0?" height=60 width=468 border="0"></A></iframe></nolayer><ilayer id="ph468601" visibility="hidden" width="468" height="60"></ilayer>
 
 
 </div>
@@ -153,6 +225,10 @@ Atlanta's News, Weather, and Traffic Online<br>&nbsp;
 </b><p>A final note:  The Web is an evolving medium.  If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.  If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use.</p>
 </td></tr></tbody></table>
 <!-- BEGIN FOOTER -->
+<table width="100%" cellspacing="0" cellpadding="10" border="0">
+<tbody><tr><td align="right" valign="top" nowrap=""><img src="/common/templates/images/email_ico15.gif" width="15" height="15" alt="" border="0" align="middle">&nbsp;<a href="/cgi-bin/email_page/e2f.cgi" class="small">email this page to a friend</a></td>
+<td align="left" valign="top" nowrap=""><img src="/common/templates/images/print_ico15.gif" width="15" height="15" alt="" border="0" align="middle">&nbsp;<a href="/cgi-bin/printer.cgi" target="new" class="small">get a printer-friendly version</a></td>
+</tr></tbody></table>
 </td></tr></tbody></table>
 </td>
 <td bgcolor="#FFFFFF" width="120" align="left" valign="top">
@@ -165,7 +241,7 @@ Atlanta's News, Weather, and Traffic Online<br>&nbsp;
 
 </td></tr>
 <tr><td align="left" valign="top">
-<span class="storyhed">April events</span>
+<span class="storyhed">December events</span>
 <table width="120" border="0">
 <tbody><tr align="right" class="wday">
 <td>S</td>
@@ -177,56 +253,87 @@ Atlanta's News, Weather, and Traffic Online<br>&nbsp;
 <td>S</td>
 </tr>
 <tr align="right">
-<td colspan="2">&nbsp;</td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-01" target="_top">1</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-02" target="_top">2</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-03" target="_top">3</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-04" target="_top">4</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-05" target="_top">5</a></td>
+<td colspan="1">&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr><tr align="right">
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-06" target="_top">6</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-07" target="_top">7</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-08" target="_top">8</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-09" target="_top">9</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-10" target="_top">10</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-11" target="_top">11</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-12" target="_top">12</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-07" target="_top">7</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-08" target="_top">8</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-09" target="_top">9</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-10" target="_top">10</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-11" target="_top">11</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-12" target="_top">12</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-13" target="_top">13</a></td>
 </tr><tr align="right">
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-13" target="_top">13</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-14" target="_top">14</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-15" target="_top">15</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-16" target="_top">16</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-17" target="_top">17</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-18" target="_top">18</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-19" target="_top">19</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-14" target="_top">14</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-15" target="_top">15</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-16" target="_top">16</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-17" target="_top">17</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-18" target="_top">18</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-19" target="_top">19</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-20" target="_top">20</a></td>
 </tr><tr align="right">
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-20" target="_top">20</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-21" target="_top">21</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-22" target="_top">22</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-23" target="_top">23</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-24" target="_top">24</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-25" target="_top">25</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-26" target="_top">26</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-21" target="_top">21</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-22" target="_top">22</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-23" target="_top">23</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-24" target="_top">24</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-25" target="_top">25</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-26" target="_top">26</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-27" target="_top">27</a></td>
 </tr><tr align="right">
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-27" target="_top">27</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-28" target="_top">28</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-29" target="_top">29</a></td>
-<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-04-30" target="_top">30</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-28" target="_top">28</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-29" target="_top">29</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-30" target="_top">30</a></td>
+<td><a href="/cgi-bin/events.cgi?type=date&amp;string=2003-12-31" target="_top">31</a></td>
 <td colspan="3">&nbsp;</td>
 </tr>
 
 </tbody></table>
-<div align="right"><a href="/cgi-bin/events.cgi?type=date&amp;string=5%2F1%2F2003-5%2F31%2F2003" target="_top">next month's events</a></div>
+<div align="right"></div>
+
+    <br><form name="emailform" method="POST" action="http://bigwinner.cxri.net/UM/CMF.ASP?ID=A160.670&amp;UMA=JoinPartition" onsubmit="return ValidateForm()">      
+    <table width="120" cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr><td align="left" valign="top">
+    <b class="storyhed">Join our email list</b><br>
+    <input type="hidden" name="PartitionID" value="160">
+    <input type="hidden" name="ListID" value="670">
+    <input type="hidden" name="OnNext" value="http://wsbradio.com/inside/railthanks.html">
+    <input type="hidden" name="OnCancel" value="SettingsLogin.htm">
+    <input type="hidden" name="OnFailure" value="http://wsbradio.com/common/newsletter/join_failure.html">
+    <input type="hidden" name="JoinErrorType" value="List">
+    <input type="hidden" name="ExplicitJoin" value="True">    
+    <input type="text" name="user_email_address" value="your email" onfocus="this.value='';" size="12" maxlength="100" class="search"><input type="submit" name="submit" value="Go!" class="small">
+    </td></tr></tbody></table>
+    </form>
 
 </td></tr>
 <tr><td align="center" valign="top" class="txtspons">
 our advertisers:
 <div align="center" style="float: none; left: 0px; top: 0px; position: relative; width: 120px;">
-<nolayer> <iframe src="http://ad.doubleclick.net/adi/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl;sz=120x90;tile=7;ord=Poo-TAoAAHEAADKXv-w?" width="120" height="90" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl;sz=120x90;tile=7;ord=Poo-TAoAAHEAADKXv-w?"><img src="http://ad.doubleclick.net/ad/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl; sz=120x90;tile=7;ord=Poo-TAoAAHEAADKXv-w?" height=90 width=120 border=0></A></iframe></nolayer><ilayer id="ph120901" visibility="hidden" width="120" height="90"></ilayer>
+<nolayer> <iframe src="http://ad.doubleclick.net/adi/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=120x90;tile=7;ord=P9LdcwoAAHEAAGWfmy0?" width="120" height="90" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=120x90;tile=7;ord=P9LdcwoAAHEAAGWfmy0?"><img src="http://ad.doubleclick.net/ad/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl; sz=120x90;tile=7;ord=P9LdcwoAAHEAAGWfmy0?" height=90 width=120 border=0></A></iframe></nolayer><ilayer id="ph120901" visibility="hidden" width="120" height="90"></ilayer>
 
 <br><br>
 
-<nolayer><iframe src="http://ad.doubleclick.net/adi/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl;sz=120x400;tile=7;ord=Poo-TAoAAHEAADKXv-w?" width="120" height="400" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl;sz=120x400;tile=7;ord=Poo-TAoAAHEAADKXv-w?"><img src="http://ad.doubleclick.net/ad/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl; sz=120x400;tile=7;ord=Poo-TAoAAHEAADKXv-w?" height=400 width=120 border="0"></A></iframe></nolayer><ilayer id="ph1204001" visibility="hidden" width="120" height="400"></ilayer>
+
+<nolayer>
+ 
+<iframe src="http://ad.doubleclick.net/adi/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=120x90;tile=8;ord=P9LdcwoAAHEAAGWfmy0?" width="120" height="90" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no">
+ 
+<a href="http://ad.doubleclick.net/jump/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=120x90;tile=8;ord=P9LdcwoAAHEAAGWfmy0?"><img src="http://ad.doubleclick.net/ad/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl; sz=120x90;tile=8;ord=P9LdcwoAAHEAAGWfmy0?" height=90 width=120 border=0></A>
+ 
+</iframe>
+
+</nolayer>
+ 
+<ilayer id="ph120902" visibility="hidden" width="120" height="90"></ilayer>
+
+
+<br><br>
+<nolayer><iframe src="http://ad.doubleclick.net/adi/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=120x400;tile=7;ord=P9LdcwoAAHEAAGWfmy0?" width="120" height="400" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=120x400;tile=7;ord=P9LdcwoAAHEAAGWfmy0?"><img src="http://ad.doubleclick.net/ad/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl; sz=120x400;tile=7;ord=P9LdcwoAAHEAAGWfmy0?" height=400 width=120 border="0"></A></iframe></nolayer><ilayer id="ph1204001" visibility="hidden" width="120" height="400"></ilayer>
 
 
 
@@ -237,21 +344,24 @@ our advertisers:
 </td></tr>
 <tr><td colspan="2" bgcolor="#FFFFFF" align="center" valign="middle" class="footer">
 <br>
-<a href="/common/about_us/nthelp.html">help</a> | <a href="/common/about_us/advanced_search.html">advanced search</a> | <a href="/common/about_us/nat_faq.html">frequently asked questions</a> | <a href="/ads/index.html">how to advertise</a>
+<a href="/common/about_us/nthelp.html">help</a> | <a href="/common/inside/advanced_search.html">advanced search</a> | <a href="/common/inside/nat_faq.html">frequently asked questions</a> | <a href="/ads/index.html">how to advertise</a>  | <a href="/inside/eeoc.html">EEOC statement</a>
 <br><br>
 Copyright © 2003 Cox Radio Interactive &amp; <a href="http://www.coxradio.com" target="_blank">Cox Radio, Inc.</a> All rights reserved.
-<a href="/common/about_us/privacy.html">Privacy Policy</a> <br>By using this website, you accept the terms of our <a href="/about_us/visitor_agreement.html">Visitor Agreement</a>. Please read it.<br>&nbsp;
-        <br>
-   <a href="/cgi-bin/email_page/e2f.cgi">email this page to a friend</a>
+<a href="/common/inside/privacy.html">Privacy Policy</a> <br>By using this website, you accept the terms of our <a href="/inside/visitor_agreement.html">Visitor Agreement</a>. Please read it.  <br><a href="/p/store/storefront.cgi">Shopping</a> is provided in association with amazon.com.
         <br>&nbsp;
          
         <br>&nbsp;
 </td></tr></tbody></table>
 </td></tr></tbody></table>
-<layer src="http://ad.doubleclick.net/adl/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl;sz=468x60;tile=7;ord=Poo-TAoAAHEAADKXv-w?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(ph468601.pageX,ph468601.pageY); visibility='show';"></layer> 
-<layer src="http://ad.doubleclick.net/adl/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl;sz=120x400;tile=7;ord=Poo-TAoAAHEAADKXv-w?" width="120" height="400" visibility="hidden" onload="moveToAbsolute(ph1204001.pageX,ph1204001.pageY); visibility='show';"></layer>
-<layer src="http://ad.doubleclick.net/adl/cxri.atlwsbam/inside;pg=/common/about_us/privacy.html;mkt=atl;sz=120x90;tile=7;ord=Poo-TAoAAHEAADKXv-w?" width="120" height="90" visibility="hidden" onload="moveToAbsolute(ph120901.pageX,ph120901.pageY); visibility='show';"></layer>
-
+<layer src="http://ad.doubleclick.net/adl/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=468x60;tile=7;ord=P9LdcwoAAHEAAGWfmy0?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(ph468601.pageX,ph468601.pageY); visibility='show';"></layer> 
+ 
+<layer src="http://ad.doubleclick.net/adl/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=120x400;tile=7;ord=P9LdcwoAAHEAAGWfmy0?" width="120" height="400" visibility="hidden" onload="moveToAbsolute(ph1204001.pageX,ph1204001.pageY); visibility='show';"></layer>
+ 
+<layer src="http://ad.doubleclick.net/adl/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=120x90;tile=7;ord=P9LdcwoAAHEAAGWfmy0?" width="120" height="90" visibility="hidden" onload="moveToAbsolute(ph120901.pageX,ph120901.pageY); visibility='show';"></layer>
+ 
+<layer src="http://ad.doubleclick.net/adl/cxri.atlwsbam/inside;pg=/common/inside/privacy.html;mkt=atl;sz=120x90;tile=8;ord=P9LdcwoAAHEAAGWfmy0?" width="120" height="90" visibility="hidden" onload="moveToAbsolute(ph120902.pageX,ph120902.pageY); visibility='show';"></layer>
+ 
+<br>
 
 
 
