@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207171219id_/http%3A//www.ringsidenews.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607122930id_/http%3A//www.ringsidenews.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy
+# Indy Wrestling News - Privacy Policy
 
-|  |   | 
-
+   
+---  
+   
+   
+  
 **Privacy Policy**
 
 To view our legal information, click [here](https://web.archive.org/legal.shtml). 
@@ -28,5 +31,4 @@ You can send email to steven@ringsidenews.com
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Steven David](mailto:steven@stevendavid.com)
 
 
-  
----|---|---
+
