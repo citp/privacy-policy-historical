@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the allaboutjazz.com privacy policy that was archived on 2002-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020402071304id_/http%3A//www.allaboutjazz.com/privacy2000.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allaboutjazz.com privacy policy that was archived on 2002-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205223647id_/http%3A//www.allaboutjazz.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
-<title>Jazz Magazine and Resource | ALL ABOUT JAZZ | The Web's Ultimate Guide to Jazz</title>
+ <title>Jazz Magazine and Resource | ALL ABOUT JAZZ | The Web's Ultimate Guide to Jazz</title> 
 
 <meta name="HOME" content="Jazz: All About Jazz">
 <meta name="AUTHOR" content="Jazz: All About Jazz">
@@ -33,11 +33,60 @@ location.reload();
 if (NS4) onresize = reDo;
 
 // -->
+
 </script>
 
+<!-- JE POP-UP code goes here -->
+
+<script language="Javascript">
+function SubmitLogin()
+{
+  var temp;
+  document.loginform.JavaScript.value="JScript1.0";
+
+  if (navigator.userAgent.indexOf("Mozilla/4.0") != -1)
+  {
+   document.loginform.JavaScript.value="JavaScript1.2";
+  }
+  else if (navigator.userAgent.indexOf("Mozilla/3.0") != -1)
+  {
+   document.loginform.JavaScript.value="JavaScript1.1";
+  }
+  else if (navigator.userAgent.indexOf("MSIE") != -1)
+  {
+   document.loginform.JavaScript.value="JScript1.0";
+  }
+  else if (navigator.userAgent.indexOf("Mozilla/2.0") != -1)
+  {
+   document.loginform.JavaScript.value="JavaScript1.0";
+  }
+}
+</script>
+
+<script language="JavaScript">
+
+<!--    
+// -->
+<!-- Begin
+
+function popup(url) {
+    mywin = window.open(url,'popupWin','width=500,height=373,scrollbars=no,resizable=no');
+    mywin.focus();
+}
+
+function checkAll(field)
+{
+  for (i = 0; i < field.length; i++)
+    field[i].checked = true;
+}
+
+//  End -->
+
+</script>
 </head>
 
-<body bgcolor="#FFFFFF" text="#333333" link="#50707D" vlink="#50707D">
+<!-- <script>jazzPlayer();</script> -->
+<body bgcolor="#FFFFFF" text="#333333" link="#50707D" vlink="#50707D" body="" onload="swapPic()">
 
 <!-- TOP -->
 
@@ -55,9 +104,31 @@ if (NS4) onresize = reDo;
 <tbody><tr>
 <td width="171" valign="BOTTOM" align="LEFT"><a href="/index.html"><img src="/aaj_banner.gif" border="0" width="169" height="55"></a></td>
 <td align="RIGHT" valign="CENTER">
-<a target="_TOP" href="/adsystem/redir.html?c_id=7&amp;ad_id=10">
-<img border="0" src="http://www.wine.com/creative/images/banners/468x60-gifts-by-price.gif" alt_text="468x60 gifts ideas"></a>
-<img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=YcD9QGKvLrg&amp;bids=28928.10000260&amp;type=4&amp;subid=0">
+
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td valign="TOP" width="30">
+	<img src="/mail.gif" width="28" height="20" border="0">
+	</td>
+	<td valign="TOP" height="20">
+	<font face="VERDANA,HELVETICA,ARIAL" size="1">
+	<form name="loginform" onsubmit="SubmitLogin(); return true;" action="http://webmail.jazzlives.org/tpl/Door/LoginPost" method="POST">
+  <input type="hidden" name="Domain" value="jazzlives.org">
+  <input type="hidden" name="NewServerName" value="jazzlives.org">
+  <input type="hidden" name="LoginState" value="2">
+  <input type="hidden" name="SuccessfulLogin" value="/tpl">
+  <input type="hidden" name="JavaScript" value="None">
+  <input type="hidden" name="RedirectOnFail" value="http://www.veloxonline.com/aaj/loginfailed.htm">
+  Username: <input type="text" name="UserID" size="10"> &nbsp;  Password: <input type="PASSWORD" name="passwd" size="7">
+	<input type="submit" name="Submit" value="Login"> &nbsp;
+</form>
+</font></td>
+</tr>
+</tbody></table>
+
+
+<a target="_TOP" href="/adsystem/redir.html?c_id=8&amp;ad_id=15">
+<img border="1" src="/adsystem/images/aaj_promo_airplay.gif" alt_text="AAJ Promotional Services"></a>
 
 </td>
 </tr>
@@ -83,7 +154,7 @@ if (NS4) onresize = reDo;
 <table>
 <tbody><tr>
 <td valign="MIDDLE" align="RIGHT"><b><font color="#364D55" face="VERDANA,HELVETICA,ARIAL" size="1">FREE NEWSLETTER</font></b></td>
-<td valign="MIDDLE"><input type="TEXT" name="email" size="15" maxlength="127" value="Your Email Here"></td>
+<td valign="MIDDLE"><input type="TEXT" name="email" size="15" maxlength="127" value="Your Email Here" onfocus="if (this.value == 'Your Email Here') {this.value='';};"></td>
 <td valign="MIDDLE"><input type="image" value="Subscribe" align="absmiddle" src="/subscribe.gif" border="0"></td>
 </tr>
 </tbody></table>
@@ -108,9 +179,9 @@ if (NS4) onresize = reDo;
 <tbody><tr>
 <td>
 
-     <table width="100%" border="0" cellspacing="0" cellpadding="0" height="40" bgcolor="#1E475D">
+     <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#1E475D">
         <tbody><tr align="center"> 
-          <td width="11%"> <img src="/navbar_news.gif" name="menu0" id="menu0" onmouseover="showMenu(event)" onmouseout="hideMenu(event)" width="43" height="40"> 
+          <td width="11%"> <img src="/navbar_forum.gif" name="menu0" id="menu0" onmouseover="showMenu(event)" onmouseout="hideMenu(event)" width="56" height="40"> 
           </td>
           <td bgcolor="#1E475D" width="1"><img src="/blue_bar.gif" width="1" height="16"></td>
           <td width="11%"> <img src="/navbar_reviews.gif" name="menu1" id="menu1" onmouseover="showMenu(event)" onmouseout="hideMenu(event)" width="63" height="40"> 
@@ -141,17 +212,18 @@ if (NS4) onresize = reDo;
 
 <table width="100%" cellpadding="3" cellspacing="0" border="0" bgcolor="#E3F1F4">
 <tbody><tr>
-<td><font color="#E3F1F4">...</font></td>
-<td><font color="#E3F1F4">...</font></td>
-<td align="RIGHT"><font size="1" face="VERDANA,ARIAL" color="#1E475D"><b>
+<td align="CENTER"><font color="#E3F1F4"> &nbsp; <font size="1" face="VERDANA,ARIAL" color="#1E475D"><b><a href="javascript:window.external.AddFavorite('http://www.allaboutjazz.com', 'All About Jazz - Home')">Bookmark Us!</a> - 
 <a href="/contact.htm">Contact Us</a> - 
-<a href="/sbmt-suggestion.htm">Suggestion Box</a> - 
+<a href="/cgi/submit_suggestion.pl">Suggestion Box</a> - 
 <a href="/contribute.htm">Help Wanted</a> -  
 <a href="/mediakit/index.html">Advertise</a> - 
 <a href="/awards.htm">Media Awards</a> -  
-<a href="/submit.htm">For Contributors</a> </b> &nbsp; </font></td>
+<a href="/support.htm">Support AAJ</a> - 
+<a href="/submit.htm">For Contributors</a> </b>  &nbsp; 
+</font></font></td>
 </tr>
 </tbody></table>
+
 <!-- MAIN TABLE -->
 <table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
 <tbody><tr>
@@ -163,74 +235,120 @@ if (NS4) onresize = reDo;
 
 	<font face="VERDANA,HELVETICA,ARIAL" size="1">
 
-	<font face="VERDANA,HELVETICA,ARIAL" size="1">
+	<a href="javascript:popup('http://www.jazzexcursion.com/player/jazzPlayer.asp')"><img src="/jazzexcursion.gif" width="165" height="137" border="0"></a>
 
-	<br><b><font color="#1E475D">GETTING STARTED</font></b>
-	<br><a href="/welcome.htm">Welcome to AAJ!</a>
-	<br><a href="/newbie.htm">New to Jazz?</a>
-	<br><a href="/new_bios/index.html">Biographies</a>
-	<br><a href="/library/index.html">Building a Jazz Library</a>
-	<br><a href="http://www.xcent.com/aaj/quiz/">Jazz Quiz</a>
-	<br><a href="/timeline.htm">Jazz Time Line</a>
-	<br><a href="/funstuff.htm">Just For Fun</a>
+
+	<br><br>
+	
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	<td><a href="/showcase/index.html"><img src="/showcase/images/top.gif" width="160" height="30" border="0"></a></td>
+	</tr>
+
+	<tr>
+	<td bgcolor="#1E475D" align="CENTER" width="160">
+	<font size="1" face="VERDANA,ARIAL" color="#FFFFFF">
+	<br><strong><a style="color: #EEEEEE" href="/showcase/index.html">All Showcase Titles...</a></strong>
 	<br>
 	<br>
+	<br><a href="/showcase/holiday.htm"><img src="/showcase/images/rgallagher2002.jpg" width="70" height="70" border="1"></a>
+	<br><a style="color: #E3F1F4" href="/showcase/holiday.htm">A Sleigh, A Song...</a> 
+	<br>Rick Gallagher
+	<br>	
+	<br><a href="/showcase/mainstream.htm"><img src="/release/khatfield2002.jpg" width="70" height="70" border="1"></a>
+	<br><a style="color: #E3F1F4" href="/showcase/mainstream.htm">Phoenix Rising</a>
+	<br>Ken Hatfield 
 	<br>
-	<br><a href="http://www.jazzexcursion.com" target="_TOP"><img src="/warpradio.gif" width="120" height="19" border="0"></a>
-	<br><a href="http://www.jazzexcursion.com" target="_TOP">The Jazz Excursion</a>
-	<br>With John Sutton
-	<br>Tune In Every
-	<br>Monday -&gt; Friday
-	<br>10am-1pm EST
-	<br><a href="http://www.jazzexcursion.com/playlist/index.html" target="_TOP">Weekly Playlist</a>
-	<!-- <BR><A HREF="/news/ft/20020219/1169/AllAboutJazzcom_and_WarpRadiocom_Join_Forces.html">AAJ & Warp</A> -->
+	<br><a href="/showcase/holiday.htm"><img src="/showcase/images/jstanley2002.jpg" width="70" height="70" border="1"></a>
+	<br><a style="color: #E3F1F4" href="/showcase/holiday.htm">Christmas</a>	
+	<br>Jennifer Stanley	
 	<br>
+	<br><a href="/showcase/modern.htm"><img src="/showcase/images/ilevin2002.jpg" width="70" height="70" border="1"></a>
+	<br><a style="color: #E3F1F4" href="/showcase/modern.htm">LifeLine</a> 
+	<br>Ike Levin
 	<br>
-	<br>
-	<br><b><font color="#1E475D">TALKIN' JAZZ</font></b>
-	<br><a href="/dryden/index.html">Ask Ken</a>
-	<!-- <BR><A HREF="/classifieds.htm">Classifieds</A> -->
-    	<br><a href="/coolvic/index.html">Cool Vic Files</a>
-	<br><a href="/editors.htm">Desert Island Picks</a>
-	<br><a href="/talkin.htm">Discussion Topics</a>
-	<br><a href="/threads/gigsfromhell.htm">Gigs From Hell</a>
-	<br><a href="/letters/index.html">Letters to AAJ</a>
-	<br><a href="/ontheroad.htm">On the Road</a>
-	<br><a href="/opinions.htm">Opinions</a>
-	<br><a href="/polls.htm">Reader Polls</a>
-	<br>
-	<br>
-	<br>
-	<br><b><font color="#1E475D">@ ALL ABOUT JAZZ</font></b>
-	<br><a href="/larmstrong.htm">Louis Armstrong</a>
-	<br><a href="/kenburnsjazz.htm">Ken Burns JAZZ</a>
-	<br><a href="/coltrane/index.html">John Coltrane</a>
-
-	<br><br><br>
-
-	<img src="/blue_bar.gif" width="100" height="1"> 
-
-	<br><br><br>
-
-	<a href="/articles/wine1101_01.htm"><img src="/iconwine.gif" width="75" height="75" border="0"></a>
-	<br><b><font color="#1E475D">JAZZ UNCORKED</font></b>
-	<br>Pairing Wine with Jazz
-	<br><a href="/articles/wine0302.htm">Sobon Estate Barbera</a>
-
-	<br><br><br>
-
-	<img src="/blue_bar.gif" width="100" height="1">
-
-	<br><br><br>
-
-	<img src="/bughouse.gif">
-	<br><b><font color="#1E475D">BUGHOUSE COMICS</font></b>
-	<br><a href="/bughouse/page89.htm">Pages 89-90</a>
+	<br><a href="/showcase/vocal.htm"><img src="/showcase/images/lskinner2002.jpg" width="70" height="70" border="1"></a>
+	<br><a style="color: #E3F1F4" href="/showcase/vocal.htm">Gems In The Rough</a> 
+	<br>Lynn Skinner
+	
+	<!-- 
+	<BR>
+	<BR><A HREF=/showcase/reissues.htm><IMG SRC="/showcase/images/jcoltranelegacy2002.jpg" WIDTH=70 HEIGHT=70 BORDER=1></A>
+	<BR><A STYLE="color: #E3F1F4" HREF=/showcase/reissues.htm>Legacy (4-CD)</A> 
+	<BR>John Coltrane 
+	<BR>
+	-->
 
 	<br>
-	<img src="/2002/line.gif" width="160" border="0">
+	<br>
+	</font></td>
+	</tr>
+	<tr>
+	<td><img src="/showcase/images/bottom.gif" width="160" height="24" border="0"></td>
+	</tr>
+	</tbody></table>
 
-</font></font></td>
+	<p>
+	
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	<td><a href="/welcome.htm"><img src="/gettingstarted.gif" width="160" height="32" border="0"></a></td>
+	</tr>
+
+	<tr>
+	<td bgcolor="#1E475D" align="CENTER" width="160">
+	<font size="1" face="VERDANA,ARIAL" color="#FFFFFF">
+	<br><a style="color: #E3F1F4" href="/welcome.htm">Welcome to AAJ!</a>
+	<br><a style="color: #E3F1F4" href="/newbie.htm">New to Jazz?</a>
+	<br><a style="color: #E3F1F4" href="/library/index.html">Building a Jazz Library</a>
+	<br><a style="color: #E3F1F4" href="/timeline.htm">History of Jazz</a>
+	<br><a style="color: #E3F1F4" href="/funstuff.htm">Jazz Humor</a>
+	<br>
+	</font></td>
+	</tr>
+	<tr>
+	<td><img src="/showcase/images/bottom.gif" width="160" height="24" border="0"></td>
+	</tr>
+	</tbody></table>	
+	
+	<!-- <BR><A HREF="http://www.xcent.com/aaj/quiz/">Jazz Quiz</A> -->
+
+	</p><p>
+	
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	<td><a href="/video/index.html"><img src="/video/top.gif" width="160" height="31" border="0"></a></td>
+	</tr>
+
+	<tr>
+	<td bgcolor="#1E475D" align="CENTER" width="160">
+	<font size="1" face="VERDANA,ARIAL" color="#FFFFFF">
+	<a href="/video/index.html"><img src="/video/current_video.gif" width="160" height="86" border="0"></a>
+	<br>Virginia Mayhew<br>Ingrid Jensen<br><a style="color: #E3F1F4" href="/video/index.html">Parts 1-2</a>
+	</font></td>
+	</tr>
+	<tr>
+	<td><img src="/showcase/images/bottom.gif" width="160" height="24" border="0"></td>
+	</tr>
+	</tbody></table>
+
+	<!--
+	
+	<BR><BR><BR>
+	<IMG SRC="/blue_bar.gif" WIDTH=100 HEIGHT=1>
+	<BR><BR><BR>
+
+	<IMG SRC="/newspapers_left.jpg" WIDTH=85 HEIGHT=84 BORDER=0>
+	<BR><B><FONT COLOR="#1E475D">AAJ NEWSPAPERS</FONT></B>
+	<BR><A HREF="/newyork/index.html">New York</A>
+	<BR><A HREF="/philadelphia/index.html">Philadelphia</A>
+	
+	-->
+	
+	<br>
+	<img src="/2002/line.gif" width="170" height="1" border="0">
+
+</p></font></td>
 
 <!-- SEPARATOR -->
 <td valign="TOP" width="8" bgcolor="#FFFFFF">
@@ -238,74 +356,96 @@ if (NS4) onresize = reDo;
 </td>
 
 
-
-
-<!--#include virtual="/title.tmp"-->
-<!--#include virtual="/meta.tmp"-->
-
-
-<!--#include virtual="/body.tmp"-->
-<!--#include virtual="/top.tmp"-->
-<!--#include virtual="/main_table.tmp"-->
-<!--#include virtual="/left.tmp"-->
-
 <!-- MAIN CONTENT -->
 <td valign="TOP" align="CENTER">
-  <table width="90%" border="0" cellpadding="8">
+  <table width="100%" border="0" cellpadding="8">
   <tbody><tr><td>
     <font face="VERDANA,ARIAL" size="2">
-      <br><font size="4" color="#1E475D" face="VERDANA,ARIAL"><b>Vision X Privacy Statement</b></font>
+      <br><font size="4" color="#1E475D" face="VERDANA,ARIAL"><b>Secure Shopping Guarantee and Privacy Information</b></font>
       <p><br>
 
-Vision X has created this privacy statement in order to
-demonstrate our firm commitment to privacy. The following discloses the
-information gathering and dissemination practices for these Web sites:
+</p><p align="left"><img height="32" src="/safeandsecure.jpg" width="380" border="0"></p>
+<p><b><u>Making a purchase at All About Jazz is 100% safe - We Guarantee It.</u></b> 
+</p><p>When we request personal information from you (such as name, address, phone 
+number and credit card number) it is done on our secure servers. We use industry 
+standard technology to protect confidential information - SSL (Secured Socket 
+Layer) - an advanced encryption technology that makes personal information 
+unreadable as it travels over the Internet.</p>
+<p>We are so confident in our security, that we guarantee you'll pay nothing if 
+unauthorized charges are made to your credit card as a result of shopping at 
+All About Jazz.</p>
+<p>Federal law limits your liability for unauthorized charges to your account. 
+The Fair Credit Billing Act states that your credit card company (creditor) 
+cannot hold you liable for more than $50 in the unlikely event a fraudulent 
+charge occurs on your account. If you encounter a fraudulent credit card charge 
+at All About Jazz, don't worry, we'll pay the first $50. No credit card risk - 
+Guaranteed. </p><font size="4">
+<p><b>Guarantee Details</b></p></font>
+<p>In the unlikely event of a fraudulent use of your credit card at 
+All About Jazz, you must notify your credit card company in accordance with 
+their rules and procedures.</p>
+<p>If your creditor holds you responsible for any of the $50, let us know. 
+All About Jazz will cover the full liability for you up to $50.</p>
+<p>Please note that All About Jazz will only cover this liability if the 
+unauthorized use of your card resulted through no fault of your own from 
+purchases made at All About Jazz while using our secure servers.</p>
+<p>We realize that customers are concerned about how the information they 
+provide online will be used. We are committed to protecting your privacy and 
+will use the information we collect about you to process your order and provide 
+a more personalized shopping experience. Please read on for more details 
+regarding our Privacy Policy.</p><font size="4">
+<p><b>Privacy Information </b></p></font><b>
+<p><u>What Information Do We Collect and How Do We Use It?</u></p></b>
+<p>When you place an order, we ask you to provide information to complete your 
+order by filling out and submitting an online form. This information includes 
+your name, telephone numbers, mailing address, e-mail address and credit card 
+information. All information regarding our online customers is stored on a 
+highly secured server that is not accessible through the Internet.</p>
+<p>When you participate in an online contest or survey, we may ask you for 
+personal information such as name or e-mail address to complete this process. 
+Your participation in these events is voluntary and information collected will 
+be used to enhance your future shopping/visiting experiences at All About Jazz and 
+provide you with special offers that we believe will benefit you. To 
+continuously assess the value of our online shopping/visiting experience, we may track 
+the way customers use our site; however, this information is analyzed only in 
+the aggregate and not at the individual level. All About Jazz and Vision X Software (AAJ's parent company) has a strong history 
+of providing excellent customer service and our goal is to continue this 
+tradition. 
 
-</p><p>
+</p><p>All About Jazz  is committed to the preservation of online privacy for all of its 
+Web site visitors. We do not share any personal information with any third parties nor do we use any personal information for any purposes other than to enrich your experience at AAJ.
 
-</p><blockquote>
-<a href="">http://www.allaboutjazz.com</a>
-<br><a href="http://www.digiday.com">http://www.digiday.com</a>
-<br><a href="http://www.screenthemes.com">http://www.screenthemes.com</a>
-<br><a href="http://www.visionx.com">http://www.visionx.com</a>
-</blockquote>
+</p><p>Any e-mail we send you will also include information on how to unsubscribe.</p>
+<p><b><u>Cookies and How We Use Them</u></b><br>A cookie is a small file stored on 
+your computer by a Web site to give you a unique ID. Cookies help make it easier 
+for you to use our site, and they help us provide you with the information you 
+need - when and where you need it. Cookies provided by our Web site do not 
+contain any credit card or personal information. We do not know who you are 
+unless you provided that information voluntarily. All About Jazz uses cookies 
+to track new visitors to our site and recognize past customers so that we may 
+present more personalized content. We do not use cookies to personally identify 
+anonymous site visitors. </p>
+
 
 <p>
 
-<b><u>Information Automatically Logged</u></b>
-<br>We use your IP address to help diagnose problems with our server and to
-administer our Web site.
-</p><p>
-<b><u>Advertisers</u></b>
-<br>We use several outside ad companies to display ads on our site. These ads may
-contain cookies. While we use cookies in other parts of our Web site,
-cookies received with banner ads are collected by our ad company, and we do
-not have access to this information.
-</p><p>
-<b><u>Personal Information</u></b>
-<br>Though we do collect email addresses for both the ScreenThemes and All About Jazz newsletters and giveaway contests, we do not
-share any personal information with any third parties nor do we use any
-personal information for any purposes other than to enrich your experience at AAJ.
-</p><p>
 <b><u>External Links</u></b>
-<br>This site contains links to other sites. Vision X is not
-responsible for the privacy practices or the content of such Web sites.
+<br>This site contains links to other sites. All About Jazz is not responsible for the privacy practices or the content of such Web sites.
+
 </p></font><p><font face="VERDANA,ARIAL" size="2">
 
-<b><u>Contacting Vision X</u></b>
-<br>If you have any questions about this privacy
-statement, the practices of this site, or your dealings with these Web sites,
-you can contact: <a href="mailto:privacy@visionx.com">privacy@visionx.com</a>.
+
+
+<b><u>Contacting All About Jazz</u></b>
+<br>If you have any questions about this privacy statement, the practices of this site, or your dealings with these Web sites, you can contact: <a href="mailto:privacy@visionx.com">privacy@visionx.com</a>.
+
+<br>
+<br>
 
     </font>
   </p></td></tr>
   </tbody></table>
 </td>
-
-<!--#include virtual="/main_table_end.tmp"-->
-<!--#include virtual="/bottom.tmp"-->
-
-
 
 
 
@@ -322,8 +462,8 @@ you can contact: <a href="mailto:privacy@visionx.com">privacy@visionx.com</a>.
 <table border="0" cellpadding="4" cellspacing="0" width="100%" align="CENTER">
 <tbody><tr><td align="CENTER" bgcolor="#E3F1F4" height="4">
 
-<a target="_TOP" href="/adsystem/redir.html?c_id=9&amp;ad_id=16">
-<img border="0" src="/adsystem/images/js-031-trumpet-1.gif" alt_text="The Jazz Store"></a>
+<a target="_top" href="/adsystem/redir.html?c_id=11&amp;ad_id=17">
+<img border="1" src="http://www.allaboutjazz.com/adsystem/images/wine_case.gif" alt_text="Case"></a>
 
 </td>
 </tr>
@@ -353,9 +493,10 @@ you can contact: <a href="mailto:privacy@visionx.com">privacy@visionx.com</a>.
 <table border="0" cellpadding="2" cellspacing="0" width="100%" bgcolor="#FFFFFF">
 <tbody><tr>
   <td><font size="1" face="VERDANA,HELVETICA,ARIAL">All material copyright © 1996-2002 All About Jazz and contributing writers. All rights reserved.</font></td>
-  <td align="RIGHT"><font size="1" face="VERDANA,HELVETICA,ARIAL"><b><a href="/privacy2000.htm">Privacy Policy</a></b></font></td>
+  <td align="RIGHT"><font size="1" face="VERDANA,HELVETICA,ARIAL"><b><a href="/privacy.htm">Privacy Policy</a></b></font></td>
 </tr>
 </tbody></table>
+
 
 
 
