@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the ni.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201180157id_/http%3A//ni.com/legal/privacy/unitedstates/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ni.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206064641id_/http%3A//ni.com/legal/privacy/unitedstates/us) for the most accurate reproduction.*
 
 # National Instruments Privacy Statement - Legal Information - National Instruments
-
-|  |  |  |   
----|---|---|---  
-| [NI Home](http://www.ni.com/)  
-   | [Legal Information](http://www.ni.com/legal/)  
-   | [Terms of Use](http://www.ni.com/legal/termsofuse/unitedstates/us/)  
-   | [Privacy Statement](http://www.ni.com/legal/privacy/unitedstates/us/)  
-   | [Logos and Linking Information](http://www.ni.com/legal/link.htm)  
-   | [Patent Information](http://www.ni.com/legal/patents/)  
-   | [Terms and Conditions of Sale](http://www.ni.com/legal/termsofsale/)  
-| 
 
 National Instruments Privacy Statement
 
