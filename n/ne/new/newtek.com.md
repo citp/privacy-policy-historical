@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtek.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607004640id_/http%3A//newtek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtek.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207172505id_/http%3A//www.newtek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - NewTek
 
@@ -16,10 +16,10 @@ NewTek does keep track of server logs in order to perform internal statistical a
 Cookies are pieces of information that a Web site sends to your browser, which may then be saved on your PC. Some of our Web pages use cookies in order to understand what areas of our Web site are of interest to you, in an effort to better serve you when you return to our Web site. If you do not want your browser to accept cookies, you can set it to decline them. You must enable cookies purchasing products or our software download areas. NewTek does not use cookies to track your activities for advertising purposes. NewTek does not sell advertising to third parties using pop-up advertising.
 
 **Product Registration**   
-Information submitted via our product registration forms is maintained in our registration database and is used for statistical analysis and internal operations as well as to update our subscriber lists. When registering your product, only the information that appears with an asterisk beside it is required from you. By providing your email address to us, you are acknowledging that we may send you product announcements and other information related to NewTek. Registration forms are clearly marked to indicate this. These are not regular mailings, and a maximum of eight calendar mailings per year may be sent to our registered user's database. You may contact us at 1-800-TOASTER to remove your email information from our database.
+Information submitted via our product registration forms is maintained in our registration database and is used for statistical analysis and internal operations as well as to update our subscriber lists. When registering your product, only the information that appears with an asterisk beside it is required from you. By providing your email address to us, you are acknowledging that we may send you periodic product announcements and other information related to NewTek. You may contact us at 1-800-843-8934 to remove your email information from our database.
 
 **Information Requests**  
-NewTek uses the web to better educate our customers about our products. For this reason, we have forms in various places on our site that can be used to request specific information. If you request information, you will receive it in the manner described on the form (postal mail, email, telephone contact, etc.). We will use information you provide to contact you in the method you prefer, and only use it for that purpose.
+NewTek uses the web to better educate our customers about our products. For this reason, we have forms in various places on our site that can be used to request specific information. If you request information, you will receive it in the manner described on the form (postal mail, email, telephone contact, etc.). We will use the information you provide to contact you in the method you prefer, and only use it for that purpose. By providing your email address to us, you are acknowledging that we may send you periodic product announcements and other information related to NewTek.
 
 **Event Registration**  
 When you register for an event, such as an open day or seminar, your contact information may be added to our database for future communication or for statistical purposes.
@@ -30,8 +30,12 @@ Information is collected at the time of a sale in order to complete the sale and
 **Mailing Lists**  
 NewTek maintains subscription mailing lists. These lists are "opt-in" lists. This means that you must subscribe to these lists using your preferred email account, and you must confirm your subscription via return e-mail. Users are never subscribed to these mailing lists based on requesting information, making a purchase, or forgetting to uncheck some box during ordering. Every email sent out using our mailing list clearly identifies NewTek as the sender of the mail and explains how to unsubscribe from the list at the bottom of the email. You will use the same preferred email address that you initially entered to "opt-in"
 
-**User Forums**  
-In an effort to better serve our user forums visitors, our forums use cookies to store your preferences in your browser for a period of one (1) year, should you choose to customize the bulletin board to reflect your preferences, by clicking on "preferences" in the user forums. Please note that all information you may post on the user forums is considered public information, and is subject to all the terms and conditions outlined in the NewTek user forums statement. Information stored in the Forums databases is not used for unsolicited email.
+**Discussion Forums**  
+By joining our Discussion Forums, you agree to receive infrequent email announcements regarding special offers from NewTek.
+
+In an effort to better serve our user forum visitors, our forums use cookies to store your preferences in your browser for a period of one (1) year, should you choose to customize the bulletin board to reflect your preferences by clicking on "preferences" in the user forums. 
+
+Please note that all information you may post on the user forums is considered public information, and is subject to all the terms and conditions outlined in the NewTek user forums statement. Information stored in the Forums databases is not used for unsolicited email.
 
 **Contact**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
