@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201236id_/http%3A//afbank.com/site_help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002151618id_/http%3A//www.afbank.com/site_help/privacy.html) for the most accurate reproduction.*
 
 # Armed Forces Bank || Privacy
 
