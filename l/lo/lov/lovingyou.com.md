@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603194629id_/http%3A//www.lovingyou.com/info/content.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201043857id_/http%3A//www.lovingyou.com/info/content.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
 
 # Lovingyou.com: Love, Romance and Relationship Resources
 
