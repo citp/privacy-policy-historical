@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrao.edu privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123118id_/http%3A//www.nrao.edu/policy/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrao.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202162904id_/http%3A//www.nrao.edu/policy/privacy.shtml) for the most accurate reproduction.*
 
 # NRAO Privacy Policy
 
@@ -47,3 +47,7 @@ This information is kept purely to help us diagnose system problems, or activiti
 * * *
 
 The NRAO is a facility of the [_National Science Foundation_](http://www.nsf.gov/), operated under Cooperative Agreement by [_Associated Universities, Inc._](http://www.aui.edu/) Most of the NRAO's computers, including those used as web servers and ftp hosts, are the property of the United States government, which has the right to access all files on computing facilities that it owns. 
+
+* * *
+
+[ Home](http://www.nrao.edu/) | [ Contact Us](http://www.nrao.edu/cgi-bin/contact) | [ Directories](http://www.nrao.edu/navbar/directories.shtml) | [ Site Map](http://www.nrao.edu/navbar/sitemap.shtml) | [ Help](http://www.nrao.edu/navbar/help.shtml) | [ Privacy Policy NRAO](http://www.nrao.edu/policy/privacy.shtml) | [ Search](http://search.nrao.edu/)
