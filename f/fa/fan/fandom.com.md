@@ -1,73 +1,66 @@
-> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217065100id_/http%3A//www.fandom.com/master_site/Editorial.asp%3Faction%3Dpage%26obj_id%3D71251) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413084116id_/http%3A//www.fandom.com/master_site/Editorial.asp%3Faction%3Dpage%26obj_id%3D71251) for the most accurate reproduction.*
 
 # FANDOM - Main Site - Editorial 71251
 
 **Privacy Statement**  
-_Date: 9/11/00_
+_Date: 1/29/01_
 
-Fandom.com ("Fandom") is committed to respecting the privacy rights of all visitors to our Web site. The following policy describes how Fandom seeks to assure its visitors, and the parents of children visiting the site, how it protects information it receives from visitors to the Web site:
+**What information Does Fandom Collect?**  
+We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, improving our site, and communicating with you. 
 
- **What information does Fandom collect and how does Fandom use it?**
+When ordering products and/or registering on the site, we need you to provide certain information in order for us to create a user profile so that we may customize preferences for each specific user, as well as provide a faster method for users to submit information to Fandom, Inc., and receive back either the information or products desired. 
 
-When ordering products and/or registering on the site, we need you to create a user identification and password, provide your name, e-mail address, mailing address, and credit card information for purchases. This allows us to keep a user profile so that we may customize preferences for each specific user, as well as provide a faster method for users to submit information to Fandom, and receive back either the information or products desired.
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Fandom.com or any of the other Fandom, Inc. sites. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Fandom.com if we cannot recognize you, we want you to be aware that these tools exist. 
 
-When ordering products and/or registering, we also allow you the discretion whether or not to submit your gender, date of birth, income, and various marketing data and consumer preferences. This allows us to better know our visitors and possibly tailor any specific features, promotions, or other notifications to you.
+**Cookies**  
+Cookies are bits of electronic information that a Web site can transfer to a visitor’s hard drive to help tailor and keep records of his or her visit to the site. Cookies allow Web site operators to better customize visits to the site to the visitor’s individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept it. Even without accepting a cookie, you can still access most of the features on the site. Fandom uses cookies so that they can help provide its visitors with a better experience on our site. 
 
-Visitors will also be given a choice when registering whether they would like to be receive Fandom`s newsletter, or whether they would prefer to opt-out and not receive such mailings from Fandom. Visitors will additionally be given the option whether or not to opt-out from receiving offers from our sponsors and other affiliated third parties. 
+**Security of Personal Information**   
+We work to protect the security of your information during transmission of sensitive/credit data by using Secure Sockets Layer (SSL) software, which encrypts information you input. User personal data is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems.
 
-We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new Fandom services, and special offers we think you`ll find valuable. If you would rather not receive this information, or would like to opt-out of any other information request or distribution, simply submit such a request to Fandom at [info@fandom.com](mailto:info@fandom.com). 
+ **What Information can I access?**  
+Fandom.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
 
-**How does Fandom protect visitor information?**
+  * Account Information
+  * Public Profile 
+  * Newsletter 
 
-Fandom implements a variety of security measures to maintain the safety of your personal information. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted into Fandom`s databases to be only accessed as stated above.
 
- **Does Fandom use "cookies"?**
 
-Cookies are bits of electronic information that a Web site can transfer to a visitor`s hard drive to help tailor and keep records of his or her visit to the site. Cookies allow Web site operators to better customize visits to the site to the visitor`s individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept it. Even without accepting a cookie, you can still access most of the features on the site. Fandom uses cookies so that they can help provide its visitors with a better experience on our site. 
+**Subscriptions Kids under 13 ( _Special Note to Parents_ )**  
+Pursuant to the provisions of the Federal Children’s Online Privacy Protection Act (COPPA), we do not collect information from children under thirteen years of age without the consent of a parent legal guardian. Parent (or legal guardians) may provide us with consent to collect such information by e-mail, by facsimile or by posted mail. Parents may request to review information collected from their child, may ask to have that information deleted, and may refuse to allow further collection or use of the child’s information. To request such review or to give instructions regarding the information we have collected about a child, parents/legal guardians should contact us. We encourage parents and guardians to spend time online with their children, to participate in the interactive activities offered online, and for children to consult with their parents before submitting any information to this or any other web site. Although guest under eighteen years of age may be allowed, with their parent’s permission and supervision, to participate in noted contests, if such a guest wins, notification and prizes will be sent to such guest’s parents or guardian. Parents should consider using parental control tools available from online services and software manufacturers to help supervise their children’s online activities. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page. 
 
-**Does Fandom disclose the information it collects from its visitors to outside parties?**
+**Does Fandom Share the Information It receives?**  
+The Websites owned and operated by Fandom, Inc. include www.fandom.com, www.fandomshop.com, www.cinescape.com, www.creationent.comare. All of these sites are maintained by Fandom, Inc. and follow the company’s Privacy Policy (as detailed below).
 
-Fandom does not currently sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration, purchase, or contest submission. This information is used to better understand visitors` use of Fandom`s site, to support related transactions made on the site, and to better know our visitors and possibly tailor any specific features, promotions, or other notifications to them. 
+The Fandom Websites do not collect personal information about individuals except when knowingly provided by such individuals (or as otherwise detailed below). Any personal information (e.g., name, e-mail address, etc.) provided by such individuals may be used in connection with Fandom. Inc. and the Fandom Websites and for such other purposes as may be indicated at the point of collection (or otherwise detailed in the Fandom, Inc. Privacy Policy). From time to time, such information may be provided to reputable third parties for marketing or information gathering purposes. If you do not want us to share your personal information with third parties, please let us know by e-mail at [info@fandom.com](mailto:info@fandom.com) include your name, address, and e-mail. While Fandom, Inc. will use reasonable good faith efforts to require third parties to adhere to its privacy policies, it does not bear any responsibility for any actions or policies of such parties. 
 
-However, such data, both in an individual as well as in an aggregate form, may be provided to other parties for marketing, advertising, or other uses in the future. Each e-mail newsletter always contains instructions on how to discontinue receipt of the newsletter. However, if a visitor at anytime chooses to no longer receive such information and opt-out from any future mailings, they should simply reply to any Fandom mailing and request to be removed from any such list and/or mailings, or they may also send such a request to [info@fandom.com](mailto:info@fandom.com). 
+You should be aware that when you voluntarily disclose personal information (e.g. name, e-mail address, etc.) on the Fandom Websites, such information can be collected and used by others and may result in unsolicited messages.
 
-**Fandom`s special note to parents**
+ **What Choices do I have?**
 
-Pursuant to the provisions of the Federal Children`s Online Privacy Protection Act (COPPA), we do not collect information from children under thirteen years of age without the consent of a parent legal guardian. Parent (or legal guardians) may provide us with consent to collect such information by e-mail, by facsimile or by posted mail. Parents may request to review information collected from their child, may ask to have that information deleted, and may refuse to allow further collection or use of the child`s information. To request such review or to give instructions regarding the information we have collected about a child, parents/legal guardians should contact us as specified below under "Contact Us". 
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain site features.
+  * You can add or update certain information on pages such as those listed in the "What Information Can I Access?" section above.
+  * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-We encourage parents and guardians to spend time online with their children, to participate in the interactive activities offerd online, and for children to consult with their parents before submitting any information to this or any other web site. Although guest under eighteen years of age may be allowed, with their parent`s permission and supervision, to participate in noted contests, if such a guest wins, notification and prizes will be sent to such guest`s parents or guardian. Parents should consider using parental control tools available from online services and software manufacturers to help supervise their children`s online activities. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the [Direct Marketing Association](http://www.the-dma.org/) home page. 
 
-**How does a visitor opt-out, remove, or modify information they have provided to Fandom?**
 
-After gathering any user information, Fandom offers users the opportunity to remove their information from our database so as not to receive future communications or to no longer interact with the Web site until they later chose to. Fandom additionally provides users the opportunity to update and modify any information they have previously provided by viewing their information sent directly to them following such a request from info@fandom.com, and updating and/or modifying the information previously provided. 
-
-**Third party links**
-
+ **Third Party Links**  
 In an attempt to provide increased value to our visitors, Fandom may choose various third party Web sites to link to from its own site. However, even if the third party is affiliated with Fandom, Fandom has no control over these linked sites who each have separate privacy and data collection practices, independent of Fandom. Fandom has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such Web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, Fandom seeks to protect the integrity of its Web site and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work). 
 
-**Your consent**
-
+**Consent**  
 By using our Web site, you consent to the collection and use of this information by Fandom as set forth in this privacy statement. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-**Contact Us**
+**Contact Us**  
+Fandom welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at info@fandom.com. Or you can reach us by posted mail at: Fandom, Corporate Office 2644 30th Street Santa Monica, CA 90405 Or by telephone: 310-581-2488 
 
-Fandom welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at [info@fandom.com](mailto:info@fandom.com). Or you can reach us by posted mail at:
+**Terms and Conditions**  
+Please also visit Fandom’s terms and conditions establishing the use, disclaimers, and limitations of liability governing the use of the entire Fandom Web site. 
 
-Fandom, Corporate Office  
-2644 30th Street  
-Santa Monica, CA 90405
-
-Or by telephone:  
-310-581-2488
-
- **Terms and Conditions**
-
-Please also visit Fandom`s terms and conditions establishing the use, disclaimers, and limitations of liability governing the use of the entire Fandom Web site.
+"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](mailto:info@fandom.com).
 
   
   
-
-
   
 |    
   
