@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the scoutsongs.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211120735id_/http%3A//scoutsongs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutsongs.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607194534id_/http%3A//scoutsongs.com/privacy.html) for the most accurate reproduction.*
 
 # Scout Songs Privacy Statement
 
 **ScoutSongs.com Privacy Statement**
 
 This is a web site owned and operated by Jonathan Glassman.  
-Jonathan can be reached via e-mail at [webmaster@scoutsongs.com](mailto:webmaster@scoutsongs.com).
+Jonathan can be reached via e-mail at [webhead@scoutsongs.com](mailto:webhead@scoutsongs.com) .
 
 For each visitor to our Web page, our Web server does not recognize a user's domain or e-mail address. We do collect aggregate information on what pages visitors access or visit. We may collect information volunteered by the visitor, such as survey information, contests and/or site registrations.
 
