@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2004-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041026075012id_/http%3A//www.phpmydirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/privacy.html) for the most accurate reproduction.*
 
 # phpMyDirectory.com - PHP/mySQL Business Directory Script - PHP/mySQL Yellow Pages Script - PHP Directory Project
 
@@ -17,6 +17,8 @@
 
   Under NO circumstances will phpMyDirectory.com website or any of its subsidiaries release your personal information to any third party without order from the court or law enforcement agency.
 
-[**Demo**](http://www.phpmydirectory.com/demo/index.php) | [Features](https://web.archive.org/web/20041026075012id_/http%3A//www.phpmydirectory.com/features.html) | [Requirements](https://web.archive.org/web/20041026075012id_/http%3A//www.phpmydirectory.com/requirements.html) | [Purchase](https://web.archive.org/web/20041026075012id_/http%3A//www.phpmydirectory.com/purchase.html) | [Support](https://web.archive.org/web/20041026075012id_/http%3A//www.phpmydirectory.com/support.html)
+[**Demo**](http://www.phpmydirectory.com/demo/index.php) | [Features](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/features.html) | [Requirements](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/requirements.html) | [Purchase](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/purchase.html) | [Support](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/support.html) | [Forums](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/community/)
 
-[News](https://web.archive.org/web/20041026075012id_/http%3A//www.phpmydirectory.com/announcements.html) | [Contacts](https://web.archive.org/web/20041026075012id_/http%3A//www.phpmydirectory.com/contacts.html) | [Affiliate Program](https://web.archive.org/web/20041026075012id_/http%3A//www.phpmydirectory.com/affiliate.html)
+[News](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/announcements.html) | [Contacts](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/contacts.html) | [Affiliate Program](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/affiliate.html)
+
+[End User License Agreement](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/license.html) | [Terms & Conditions](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/terms.html) | [Privacy](https://web.archive.org/web/20050406011608id_/http%3A//phpmydirectory.com/privacy.html)
