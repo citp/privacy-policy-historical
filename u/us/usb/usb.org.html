@@ -1,401 +1,157 @@
-<!--The following is the downloaded HTML source of the usb.org privacy policy that was archived on 2002-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209040126id_/http%3A//www.usb.org/statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usb.org privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603205114id_/http%3A//www.usb.org/statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<!-- /includes/nav.txt -->
-<script language="JavaScript" type="text/javascript">
-var ie4 = (document.all) ? true : false;
-var nn4 = (document.layers) ? true : false;
-var ns6 = (document.getElementById) ? true : false;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<base href="http://www.usb.org/statement/">
 
-function showLayer (id) {
-    if (ie4) {
-      	eval (id + ".style.visibility = \"visible\"");
-    } else if (nn4) {
-      	eval ("document." + id + ".visibility = \"show\"");
-    } else if (ns6) {        
-      	document.getElementById(id).style.visibility="visible";
-    }
-}
-
-function hideLayer (id) {
-    if (ie4) {
-      	eval (id + ".style.visibility = \"hidden\"");
-    } else if (nn4) {
-	eval ("document." + id + ".visibility = \"hide\"");
-    } else if (ns6) { 
-      	document.getElementById(id).style.visibility="hidden";
-    }
-}
-
-
-// function that displays status bar message
-function dm(msgStr) {
-  document.returnValue = false;
-  if (document.images) { 
-     window.status = msgStr;
-     document.returnValue = true;
-  }
-}
-
-// functions that swap images
-function di(id,name){
-  if (document.images) document.images[id].src=eval(name+".src");
-}
-
-// Workaround for bug that Causes problems on resizing of window in Netscape 4.0+ browsers 
-if(nn4)
-{
-        origWidth = innerWidth;
-        origHeight = innerHeight;
-}
-function reDo()
-{
-	if(innerWidth != origWidth || innerHeight != origHeight)
-	location.reload();
-}
-if(nn4)
-{
-	onresize = reDo;
-}
-
-// Top Nav rollovers
-
-var home_on = new Image();
-home_on.src ="/images_past/nav/home_on.gif";
-var home_off = new Image();
-home_off.src ="/images_past/nav/home_off.gif";	
-
-var channel_on = new Image();
-channel_on.src ="/images_past/nav/channel_on.gif";
-var channel_off = new Image();
-channel_off.src ="/images_past/nav/channel_off.gif";	
-
-var press_on = new Image();
-press_on.src ="/images_past/nav/press_on.gif";
-var press_off = new Image();
-press_off.src ="/images_past/nav/press_off.gif";	
-
-var developers_on = new Image();
-developers_on.src ="/images_past/nav/developers_on.gif";
-var developers_off = new Image();
-developers_off.src ="/images_past/nav/developers_off.gif";	
-
-var members_on = new Image();
-members_on.src ="/images_past/nav/members_on.gif";
-var members_off = new Image();
-members_off.src ="/images_past/nav/members_off.gif";
-
-var products_on = new Image();
-products_on.src ="/images_past/nav/products_on.gif";
-var products_off = new Image();
-products_off.src ="/images_past/nav/products_off.gif";
-
-//-->
-</script>
-
-
-<!-- /includes/retail_nav.txt -->
-<script language="JavaScript" type="text/javascript">
-<!--
-var shopping_on = new Image();
-shopping_on.src = "/images/navleft/shopping_on.gif";
-var shopping_off = new Image();
-shopping_off.src = "/images/navleft/shopping_off.gif";	
-
-var features_on = new Image();
-features_on.src = "/images/navleft/features_on.gif";
-var features_off = new Image();
-features_off.src = "/images/navleft/features_off.gif";
-
-var faq_on = new Image();
-faq_on.src = "/images/navleft/faq_on.gif";
-var faq_off = new Image();
-faq_off.src = "/images/navleft/faq_off.gif";
-
-var about_on = new Image();
-about_on.src = "/images/navleft/about_on.gif";
-var about_off = new Image();
-about_off.src = "/images/navleft/about_off.gif";
-
-//-->
-</script>
-<style type="text/css">
-/* /includes/css.txt */
-P, BODY, UL, OL, LI, TD, .pagetext
-{
-   font-family:               "ARIAL","HELVETICA",sans serif;
-   font-size:                 10pt;
-   color:                     #000000;
-}
-
-.header
-{
-   font-family:               "ARIAL","HELVETICA"; 
-   font-size:                 15pt; 
-   color:                     #000000;  
-   font-weight:               600;
-}
-
-.subhead
-{
-   font-family:               "ARIAL","HELVETICA"; 
-   font-size:                 12pt; 
-   color:                     #333399;  
-   font-weight:               700;
-}
-
-.footer, .small
-{
-   font-family:               "ARIAL","HELVETICA",sans serif; 
-   font-size:                 8pt;
-}
-
-/* Specialty Fonts Below */	
-
-/* used on FAQ pages */
-.subnumbers
-{
-   font-family:            "ARIAL","HELVETICA",sans serif;
-   font-size:              10pt; 
-   color:                  #006666; 
-   font-weight:            700;
-}
-	
-/* used on some product list pages with black background */
-.white
-{
-   font-family:            "ARIAL","HELVETICA";
-   font-size:              10pt;
-   color:                  #ffffff;
-   font-weight:            500;	
-}	
-.inset
-{
-    font-family:            "ARIAL", "HELVETICA";
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link rel="stylesheet" href="/styles/base.css" type="text/css">
+<link rel="stylesheet" href="/styles/site.css" type="text/css">
+<link rel="stylesheet" href="/styles/korg.css" type="text/css">
  
-    margin:					1in;
+    <script language="javascript" type="text/javascript">
+<!-- script for navigation rollovers-->
+<!-- /script for rollovers-->
+</script>
+<!--call site specific javascript-->
+<script language="javascript" type="text/javascript">
+	function openWin(URL) {awindow=window.open(URL,'contact','toolbar=yes,width=500,height=600,status=no,scrollbars=yes,resizable=yes,menubar=no'); }
+</script>
 
-}
-/* used on: calendar, complian_testing */
-.red
-{
-   font-family:            "ARIAL","HELVETICA";
-   font-size:              10pt;
-   color:                  #ff3333;
-   font-weight:            700;	
-}
-
-/* used on: members logo area */
-.green
-{
-   font-family:            "ARIAL","HELVETICA";
-   font-size:              10pt;
-   color:                  #009900;
-   font-weight:            700;	
-}
-	
-/* used on channel sales page */
-.grey {
-	font-family:"ARIAL","HELVETICA";
-	font-size:10pt;
-	background-color:CCCCCC;
-	}
-/* used for poll boxes */
-td.leftpolledge
-{
-	background-image:		url(/images/survey/survey_left.gif);
-	background-repeat: 		repeat-y;
-}
-td.rightpolledge
-{
-	background-image:		url(/images/survey/survey_right.gif);
-	background-repeat: 		repeat-y;
-}
-
-/* used for awards box on home page */
-td.awardRight
-{
-	background-image: 		url(/images/new_award/right.gif);
-	background-color:		#e5e5e5;
-	background-repeat:	    repeat-y;
-}
-td.awardLeft
-{
-	background-image: 		url(/images/new_award/left.gif);
-	background-color:		#e5e5e5;
-	background-repeat:	    repeat-y;
-}
-
-/* standard kavi styles */
-.actionerror, .entryerror, .fielderror
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    color:                  #FF0000;
-    font-size:              10pt;
-    font-weight:            bold;
-}
-
-
-.results
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    font-size:              10pt; 
-    background-color:       #FFFFCC;
-    layer-background-color: #FFFFCC;
-}
-
-.fieldlabel
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    font-size:              10pt;
-    font-weight:            normal;
-}
-
-sup
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    font-size:              x-small;
-    font-weight:            500;
-    color:       			#000000;
-    vertical-align: 		super;
-}
-
-
-.entry, .value
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    font-size:              10pt;
-    font-weight:            500;
-    background-color:       #ccccff;
-    color:                  #000000;
-}
-.heading2 {
-	font-family:"ARIAL","HELVETICA";
-	font-size:11pt; 
-	color:#333399;  
-	font-weight:600;
-	text-align: left;}	
-
-.heading3 {
-	font-family:"ARIAL","HELVETICA";
-	font-size:10pt; 
-	color:#333399;  
-	font-weight:400;
-	text-align: left;
-	background-color: #ffffcc;}
-
-.label
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    font-size:              10pt;
-   
-    color:                  #000000;
-    text-align:             left;
-}
-
-.khint
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    font-size:              10pt;
-    background-color:       #FCDD2F;
-    layer-background-color: #FCDD2F;
-    font-weight:            500;
-    text-align:             center;
-}
-
-.buttonbar
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    font-size:              10pt;
-    background-color:       #ffffff;
-   
-    color:                  #000000;
-}
-
-.even
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    font-size:              10pt;
-    background-color:       #FFFFFF;
-    layer-background-color: #FFFFFF;
-}
-
-
-.odd
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    font-size:              10pt;
-    background-color:       #DFEBE0;
-    layer-background-color: #DFEBE0;
-}
-
-
-.action
-{
-    font-family:            "ARIAL", "HELVETICA", "CLEAN", "sans-serif";
-    background-color:       #FFFFCC;
-    layer-background-color: #FFFFCC;
-    font-size:              10pt;
-    font-weight:            600;
-    color:                  #000000;
-}	
-
-.required
-{
-    font-family:            "ARIAL","HELVETICA";
-    color:                  #FF0000;
-    font-size:              10pt;
-	font-style:				bold;
-}
-</style>
-<title>USB.org - Privacy Statement</title>
-</head>
-
-<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" background="/images/background.gif" text="#000000">
-<map name="rollovertext">
-<area shape="rect" coords="181,2,487,55" href="/info.html" onmouseover="showLayer('d1')" onmouseout="hideLayer('d1')" alt="">
-<area shape="default" nohref="" alt="">
-</map>
-<div id="d1" style="position:absolute; left:170; top:90; width:270; height:70; background-color:FFFFFF; padding:2; border:1px solid olive; vertical-align:text-top; visibility:hidden; z-index:2;"><p>This site sponsored by USB Implementers Forum, Inc., creators of USB technology. Click for more information.</p>
-</div>
-
-<table width="788" border="0" cellspacing="0" cellpadding="0" summary="Main Page Table">
+ 
+ <!-- script for khints-->
+<script language="javascript" src="/khint.js"></script> 
+    <title>USB.org - Privacy Statement</title>
+</head> 
+<body>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="main table formatting">
+    <tbody><tr>
+        <td valign="top" width="100%" class="formborder">
+<table width="100%" cellpadding="0" cellspacing="1" border="0" summary="main table formatting">
+    <tbody><tr>
+        <td valign="top" align="left" width="100%" class="leftnav"><table cellpadding="0" cellspacing="0" border="0" width="100%" summary="formatting">
 <tbody><tr>
-<td valign="top" width="176"><a href="/info.html" onmouseover="javascript:showLayer('d1')" onmouseout="javascript:hideLayer('d1')"><img src="/images/topleft.gif" width="176" height="134" border="0" alt="USB"></a></td>
-<td valign="top" align="left" width="612"><!-- /includes/top_links/top_main.inc -->
-<img src="/images/spacer.gif" width="50" height="21" border="0" alt="*"><a href="/" onmouseover="di('home', 'home_on')" onmouseout="di('home', 'home_off')"><img src="/images/nav/home_off.gif" width="93" border="0" alt="USB Home" name="home"></a><a href="/channel/" onmouseover="di('channel', 'channel_on')" onmouseout="di('channel', 'channel_off')"><img src="/images/nav/channel_off.gif" width="93" height="28" border="0" alt="USB Channel" name="channel"></a><a href="/press/" onmouseover="di('press', 'press_on')" onmouseout="di('press', 'press_off')"><img src="/images/nav/press_off.gif" width="93" height="28" border="0" alt="USB Press" name="press"></a><a href="/developers/" onmouseover="di('developers', 'developers_on')" onmouseout="di('developers', 'developers_off')"><img src="/images/nav/developers_off.gif" width="93" height="28" border="0" alt="USB Developers" name="developers"></a><a href="/members_landing.html" onmouseover="di('members', 'members_on')" onmouseout="di('members', 'members_off')"><img src="/images/nav/members_off.gif" width="93" height="28" border="0" alt="USB Members" name="members"></a><a href="/app/search/products/" onmouseover="di('products', 'products_on')" onmouseout="di('products', 'products_off')"><img src="/images/nav/products_off.gif" width="93" height="28" border="0" alt="USB Products" name="products"></a><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""><br><img src="/images/tab-bar.jpg" width="612" height="19" border="0" alt="">
-<br>
+<td valign="top" align="left" class="navleft">
+<a href="/info/"><img src="/images/headermain/2logos.gif" width="329" height="96" border="0" alt="Hi-Speed USB and Original USB"></a></td>
+<td valign="top" align="right" class="navleft"><img src="/images/headermain/usb.jpg" width="433" height="96" border="0" alt="Universal Serial Bus"></td>
+</tr></tbody></table></td>
+	</tr>	
+	 <tr>
+        <td valign="top" align="left" width="100%" class="leftnav"><table cellpadding="0" cellspacing="1" border="0" summary="top navigation" width="100%">
+	<tbody><tr>
+		<td valign="top" align="right" width="10" class="navTopOff"><form method="post" action="/share-cgi-bin/search"><input type="hidden" name="exclude" value="/forums"><input type="text" name="words" size="20"></form></td>
+		<td valign="top" align="left" width="10" class="navTopOff"><input type="submit" name="submit" value="Search"></td>
+		<td align="center" class="navTopOff" onmouseover="this.className='navTopOver'; style.cursor='hand';" onmouseout="this.className='navTopOff'; style.cursor='default';" onclick="window.location.href='/home'">
+		<div style="border: none; border-width: 0em; padding-left:0px"><a class="navTop" href="/home">Home</a></div></td>
+		<td align="center" class="navTopOff" onmouseover="this.className='navTopOver'; style.cursor='hand';" onmouseout="this.className='navTopOff'; style.cursor='default';" onclick="window.location.href='/channel'">
+		<div style="border: none; border-width: 0em; padding-left:0px"><a class="navTop" href="/channel">Channel</a></div></td>
+		<td align="center" class="navTopOff" onmouseover="this.className='navTopOver'; style.cursor='hand';" onmouseout="this.className='navTopOff'; style.cursor='default';" onclick="window.location.href='/press'">
+		<div style="border: none; border-width: 0em; padding-left:0px"><a class="navTop" href="/press">Press</a></div></td>
+		<td align="center" class="navTopOff" onmouseover="this.className='navTopOver'; style.cursor='hand';" onmouseout="this.className='navTopOff'; style.cursor='default';" onclick="window.location.href='/developers'">
+		<div style="border: none; border-width: 0em; padding-left:0px"><a class="navTop" href="/developers">Developers</a></div></td>
+		<td align="center" class="navTopOff" onmouseover="this.className='navTopOver'; style.cursor='hand';" onmouseout="this.className='navTopOff'; style.cursor='default';" onclick="window.location.href='/members_landing'">
+		<div style="border: none; border-width: 0em; padding-left:0px"><a class="navTop" href="/members_landing">Members</a></div></td>
+		<td align="center" class="navTopOff" onmouseover="this.className='navTopOver'; style.cursor='hand';" onmouseout="this.className='navTopOff'; style.cursor='default';" onclick="window.location.href='/app/search/products'">
+		<div style="border: none; border-width: 0em; padding-left:0px"><a class="navTop" href="/app/search/products">Products</a></div></td>
+	</tr>
+</tbody></table></td>
+	</tr>	
+ 	<tr>
+        <td valign="top" align="left" width="100%" class="content"><img src="/images/spacer.gif" width="1" height="10" border="0" alt=" "><br>
+<table width="100%" cellpadding="1" cellspacing="0" border="0" summary="navigation and content">
+    <tbody><tr>	
+		<td align="left" width="5" valign="top" class="content" rowspan="2"><img src="/images/spacer.gif" width="5" height="1" border="0" alt=" "></td>	
+        <td valign="top" align="left" width="170" class="leftnav">
 
-<!-- Header and search table/form -->
-   <table width="612" border="0" cellspacing="0" cellpadding="0" align="left" summary="header/search table">
-   <tbody><tr>
-   <td valign="top" align="left"><form method="post" action="/share-cgi-bin/search"><input type="hidden" name="exclude" value="/forums">
-<input type="text" name="words" size="7"><img src="/images/spacer.gif" width="5" height="1" border="0" alt=" "></form></td>
-<td valign="top" align="left"><input type="image" name="SearchButton" src="/images/search/search_small.gif" width="55" height="21" border="0" alt="Search"></td>
-
-   <td valign="top" align="left"><img src="/images/retail/welcome_ani.gif" width="489" height="57" border="0" alt="Welcome" usemap="#follovertext" ismap=""></td>
-   </tr>
-   </tbody></table>
-   <!-- /End Header and search table/form -->
-
-</td>
-</tr>
-
+<table width="100%" cellpadding="3" cellspacing="0" border="0" summary="Site Navigation">
+<tbody><tr>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/home'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/home">Welcome</a></div></td>
+            </tr>
 <tr>
-<td valign="top" align="left" width="176">
-	
-<!-- /includes/sidebar_links/links_main.inc -->
-<a href="/shopping_bag.html" onmouseover="di('shopping', 'shopping_on')" onmouseout="di('shopping', 'shopping_off')"><img src="/images/navleft/shopping_off.gif" width="111" height="21" border="0" alt="Shopping for USB" name="shopping"></a><br>
-<a href="/features.html" onmouseover="di('features', 'features_on')" onmouseout="di('features', 'features_off')"><img src="/images/navleft/features_off.gif" width="111" height="21" border="0" alt="USB Features" name="features"></a><br>
-<a href="/faq.html" onmouseover="di('faq', 'faq_on')" onmouseout="di('faq', 'faq_off')"><img src="/images/navleft/faq_off.gif" width="111" height="21" border="0" alt="USB FAQ" name="faq"></a><br>
-<a href="/info.html" onmouseover="di('about', 'about_on')" onmouseout="di('about', 'about_off')"><img src="/images/navleft/about_off.gif" width="111" height="21" border="0" alt="About USB-IF, Inc." name="about"></a><br>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/channel'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/channel">Channel</a></div></td>
+            </tr>
+<tr>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/press'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/press">Press</a></div></td>
+            </tr>
+<tr>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/developers'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/developers">Developers</a></div></td>
+            </tr>
+<tr>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/members_landing'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/members_landing">Members</a></div></td>
+            </tr>
+<tr>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/products'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/products">Products</a></div></td>
+            </tr>
+<tr>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/map'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/map">Site Map</a></div></td>
+            </tr>
+<tr>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/faq'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/faq">Frequently Asked Questions</a></div></td>
+            </tr>
+<tr>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/info'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/info">About USB-IF Inc.</a></div></td>
+            </tr>
+<tr>
+            <td class="navOff" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOff'; 
+            style.cursor='default';" onclick="window.location.href='/shopping_bag'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/shopping_bag">Shopping for USB</a></div></td>
+            </tr>
+<tr>
+            <td class="navOn" onmouseover="this.className='navOver';
+            style.cursor='hand';" onmouseout="this.className='navOn'; 
+            style.cursor='default';" onclick="window.location.href='/statement'">
+            <div style="border: none; border-width: 0em; padding-left:0px">
+            <a class="nav" href="/statement">Privacy Statement</a></div></td>
+            </tr>
+</tbody></table>
 
-</td>
-<td valign="top" align="left" width="612">
-
-<p class="header">Privacy Statement for USB Implementers Forum, Inc.<br>
-<span class="pagetext"><b>(www.usb.org)</b></span></p>
+<br><br></td>
+<!--/leftNav--> 
+		<td align="left" width="10" valign="top" class="content" rowspan="2"><img src="/images/spacer.gif" width="15" height="1" border="0" alt=" "></td>
+       	<td align="left" width="100%" valign="top" class="content" rowspan="2"><span class="breadcrumb"><a class="breadcrumb" href="/">Home</a>
+    <a class="breadcrumb" href="/"></a> &gt;     <b class="breadcrumb">Privacy Statement</b>
+</span>
+<br>
+<p><span class="h1">Privacy Statement for USB Implementers Forum, Inc.</span><br>
+<b>(www.usb.org)</b></p>
 
 <p>USB Implementers Forum, Inc. (USB-IF) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: www.usb.org. This privacy statement applies solely to information collected by this web site.</p>
 
@@ -460,45 +216,31 @@ USB Implementers Forum, Inc.<br>
 Kavi Corporation<br>
 225 SE Main Street, Second Floor<br>
 Portland OR 97214<br>
-<a href="mailto:privacy@usb.org">privacy@usb.org</a></i></p>
+<a href="mailto:privacy@usb.org">privacy@usb.org</a></i></p></td>
+		<td align="left" width="10" valign="top" class="content" rowspan="2"><img src="/images/spacer.gif" width="15" height="1" border="0" alt=" "></td>
+<!-- /content -->
+    </tr>  
+	
+	<tr>
+		<td valign="bottom" align="left" width="170" class="leftnav"><img src="/images/navleft/blueswoosh.gif" width="170" height="86" border="0" alt=" "></td>
+	</tr>
+</tbody></table><br>&nbsp;</td>
+	</tr>	
+<!-- footer -->	
 
-</td>
-</tr>
+    <tr>
+        <td align="center" width="100%" valign="top" class="content"><table cellpadding="3" cellspacing="2" border="0" summary="footer" width="100%">
+	<tbody><tr>
+		<td valign="top" align="left"><span class="footer">Site sponsored by USB Implementers Forum, Inc., creators of USB technology.&nbsp;<a href="/info/">About Us</a>&nbsp;|&nbsp;<a href="/statement/">Privacy Statement</a></span></td>
+		<td valign="top" align="right"><span class="footer">
+<a href="http://www.kavi.com" target="new">KAVI</a><sup>®</sup> <i>where .orgs work</i></span></td>
+	</tr>
 </tbody></table>
-
-<!-- START FOOTER -->
-
-
-
-
-<img src="/images/spacer.gif" width="164" height="1" border="0" alt="">
-
-
-   <!-- Footer Table -->
-   <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="Footer Table">
-   <tbody><tr>
-   <td valign="top" align="center"><img src="/images/spacer.gif" width="500" height="25" border="0" alt=""><br>
-
-   <span class="footer">Site sponsored by USB Implementers Forum, Inc., creators of USB technology.</span><br>
-
-   <a href="/info.html">Learn more about USB-IF</a>&nbsp;&nbsp;
-   <a href="/statement.html">Read the Privacy Statement</a>
-
-   <br>&nbsp;
-
-   </td>	
-   <td valign="top" align="right"><br>
-   <a href="http://www.kavi.com" target="blank"><img src="/images_past/kavi_white.gif" width="100" height="34" border="0" alt="Kavi Web Management" align="right"></a>
-   </td>
-   </tr>
-   </tbody></table>
-	<!-- /End Footer Table -->
-
-
-
-
-<!-- /End main page table -->
-<!-- /END FOOTER -->
-
+</td>
+<!-- /footer -->
+    </tr>
+</tbody></table></td></tr></tbody></table>
+                                
+<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
 
 </body></html>
