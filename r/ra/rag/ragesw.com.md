@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragesw.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608003924id_/http%3A//ragesw.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragesw.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207101734id_/http%3A//www.ragesw.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome To Rage Software / Press Room
 
@@ -18,7 +18,7 @@ We do not collect personal information such as email, name, address, etc... unle
 
 **Surveys and Other Online Forms**
 
-To help use make both our services and software better, we ask that you fill out our [Online Survey](https://web.archive.org/web/20020608003924id_/http%3A//ragesw.com/survey.php) so that we know what you want and can serve you better. 
+To help use make both our services and software better, we ask that you fill out our [Online Survey](https://web.archive.org/web/20021207101734id_/http%3A//www.ragesw.com/survey.php) so that we know what you want and can serve you better. 
 
 By filling out our survey you allow us to use any information that is submitted along with your name on our web site. We will not however use your email or any other personal information on our web site or in our products.
 
