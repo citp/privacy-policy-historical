@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the colonialfirststate.com.au privacy policy that was archived on 2002-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021010053120id_/http%3A//www.colonialfirststate.com.au/misc/privacy.asp%3FsPageHeading%3DPri) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the colonialfirststate.com.au privacy policy that was archived on 2003-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030618094837id_/http%3A//colonialfirststate.com.au/misc/privacy.asp%3FsPageHeading%3DPri) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/TMP001.dwt" --><head>
 
@@ -73,6 +73,30 @@ onresize=resize;
 
 
 </script>
+
+
+	<script language="javascript">
+	<!--
+	function popupFirstNet() {
+
+		var pixH, pixW;
+		pixH=600 ;
+		pixW=800 ;
+		if (screen.availHeight <= pixH){
+			//minus 50 for start bar...
+			pixH = screen.availHeight-50;
+		}
+		if (screen.availWidth <= pixW){
+			//minu 10 cos it never exactly fits the screen...
+			pixW = screen.availWidth-10;
+		}
+		var strUrl = "/firstnet/loginFramesHome.asp";
+		var w = window.open(strUrl,"FirstNet","width=" + pixW + ",height=" + pixH + ",resizable=yes,scrollbars=yes,status=yes,left=0,top=0,screenX=0,screenY=0");
+		w.focus();	
+
+	//-->
+	}
+	</script>
 
 </head>
 
@@ -165,9 +189,9 @@ onresize=resize;
 		  
           	<td><a href="/funds/unit-prices.asp?sPageHeading=UnitPrices" onmouseover="over('mn07');setimg('mn06','mn1_08.gif')" onmouseout="out('mn07');out('mn06')"><img src="/images/mn0_07.gif" width="94" height="35" border="0" name="mn07" alt="Unit Prices"></a></td>
 		  
-		  <td><a href="/content/firstnet/default.asp?sPageHeading=FirstNet" onmouseover="over('mn05');over('mn06')" onmouseout="out('mn05');out('mn06')"><img src="/images/mn0_06.gif" width="11" height="35" border="0" name="mn06" alt="FirstNet Login"></a></td>
+		  <td><a href="JavaScript:popupFirstNet();" onmouseover="over('mn05');over('mn06')" onmouseout="out('mn05');out('mn06')"><img src="/images/mn0_06.gif" width="11" height="35" border="0" name="mn06" alt="FirstNet Login"></a></td>
           
-			<td><a href="/content/firstnet/default.asp?sPageHeading=FirstNet" onmouseover="over('mn05');over('mn06')" onmouseout="out('mn05');out('mn06')"><img src="/images/mn0_05.gif" width="89" height="35" border="0" name="mn05" alt="FirstNet Login"></a></td>
+			<td><a href="JavaScript:popupFirstNet();" onmouseover="over('mn05');over('mn06')" onmouseout="out('mn05');out('mn06')"><img src="/images/mn0_05.gif" width="89" height="35" border="0" name="mn05" alt="FirstNet Login"></a></td>
 		  
 		  <td><a href="/content/firstnet/i_demo_frames.asp" onmouseover="over('mn05D')" onmouseout="out('mn05D')"><img src="/images/mn0_05D.gif" width="72" height="35" border="0" name="mn05D" alt="Investor Demo"></a></td>
         </tr>
