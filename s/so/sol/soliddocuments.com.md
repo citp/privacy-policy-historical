@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the soliddocuments.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604202539id_/http%3A//www.soliddocuments.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soliddocuments.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207211637id_/http%3A//www.soliddocuments.com/privacy.htm) for the most accurate reproduction.*
 
 # SolidDocuments - Screen capture and document conversion software
 
   
 Our Commitment To Privacy   
+Third Party Advertising Companies   
 The Information We Collect   
 How We Use Information   
 Our Commitment To Data Security   
@@ -13,6 +14,10 @@ How To Contact Us
 **Our Commitment To Privacy  
 **  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+**Third Party Advertising Companies**
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **The Information We Collect**
 
