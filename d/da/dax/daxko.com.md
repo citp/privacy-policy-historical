@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daxko.com privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016164121id_/http%3A//www.daxko.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daxko.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402135920id_/http%3A//www.daxko.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # DAXKO Shared Technology - Web-based Online Registration and Member Management Solutions
 
