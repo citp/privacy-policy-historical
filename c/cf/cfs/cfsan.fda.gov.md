@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604001348id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202072039id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
 
 # REQUIRED NOTICES
 
