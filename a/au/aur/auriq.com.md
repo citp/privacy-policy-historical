@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the auriq.com privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015004743id_/http%3A//www.auriq.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auriq.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308030541id_/http%3A//www.auriq.com/privacy.htm) for the most accurate reproduction.*
 
-# AuriQ Systems, Inc. - Privacy Statement
+# Privacy Statement - AuriQ Systems, Inc.
 
-  | 
+ | 
 
 **  
 Your privacy matters to us.**  
@@ -24,12 +24,12 @@ AuriQ reserves the right to change the Privacy Policy from time to time at its s
 
 **AuriQ Partners**
 
-This AuriQ Site may contain links to other company sites. We have no control nor are we responsible for the terms and privacy of these sites. **Feedback**   
-For any questions and concerns: [ http://www.ftc.gov/privacy/index.html](http://www.ftc.gov/privacy/index.html)
+This AuriQ Site may contain links to other company sites. We have no control nor are we responsible for the terms and privacy of these sites. **Feedback**  
+For any questions and concerns: <http://www.ftc.gov/privacy/index.html>
 
 **Contact us:**  
 US Toll Free Phone: 800.474.7188  
-Questions regarding privacy:  [ privacy@auriq.com](mailto:privacy@auriq.com)   
+Questions regarding privacy:  [privacy@auriq.com](mailto:privacy@auriq.com)   
 General inquiries: [info@auriq.com](mailto:info@auriq.com)   
    
   
