@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055009id_/http%3A//www.advocatehealth.com/system/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622131751id_/http%3A//www.advocatehealth.com/system/privacy.html) for the most accurate reproduction.*
 
 # Advocate Health Care: Privacy Policy
 
   
 
 
+Notice of Privacy Practices
+
+[](https://web.archive.org/system/hipaa.html)  
+Advocate Health Care has always supported and recognized our patients’ right to expect that their medical records and other information about their care will be kept confidential. For the past two years Advocate Health Care has been preparing to implement policies and procedures to comply with the Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy Regulations. The HIPAA privacy regulations give patients more control over their health information and also set boundaries on the use and release of patient information.
+
 Web Site Privacy Policy
 
 Advocate Health Care is committed to protecting the privacy of visitors to our website (www.advocatehealth.com). Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, in answering questions, and in improving our website. As a not-for-profit, faith-based health care delivery system, Advocate is committed to making certain that our website is used as a resource to fulfill our mission of serving the health care needs of individuals, families and the communities in which they live.
 
-Our website, www.advocatehealth.com, is developed by Advocate Health Care. Our postal address is: Advocate Health Care, 2025 Windsor Drive, Oakbrook, IL, 60523-1586. Our website manager can be contacted by e-mail at [webmaster@advocatehealth.com](mailto:webmaster@advocatehealth.com), or by telephone at 630.990.5445, between the hours of 8am - 5pm Central time, Monday through Friday, except on holidays.
+Our website, www.advocatehealth.com, is developed by Advocate Health Care. Our postal address is: Advocate Health Care, 2025 Windsor Drive, Oakbrook, IL, 60523-1586. Our website manager can be contacted at [webmaster@advocatehealth.com](mailto:webmaster@advocatehealth.com).
 
 What information do we collect?  
 This site recognizes and collects, when possible, the domain name of a visitor's server (for example, advocatehealth.com or aol.com). We do not automatically collect the full e-mail address of visitors to our website. The only way we obtain your name or e-mail address is when you choose to provide that information to us. Examples of how you might provide us with such personal information include:
