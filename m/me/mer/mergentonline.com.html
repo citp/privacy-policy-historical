@@ -1,0 +1,402 @@
+<!--The following is the downloaded HTML source of the mergentonline.com privacy policy that was archived on 2003-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030412154300id_/http%3A//www.mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>Mergent Online</title>
+	<link rel="stylesheet" href="Styles.css" type="text/css">
+	<link rel="stylesheet" href="Header.css" type="text/css">
+
+<script language="JavaScript" type="text/javascript" src="/scripts/dropbox.js"></script><style type="text/css">
+#dropbox_0_main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox_1_main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox_2_main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox_3_main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox_4_main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox_5_main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox_6_main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox_7_main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox_8_main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox_9_main { z-index:0; position:absolute; left:10; top:10;}
+</style>
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+
+window.name= "mainmergentwindow";
+
+function onsizebody()
+{
+	dropbox_resize();
+}
+
+function onload_page()
+{
+}
+
+function onloadbody()
+{
+	//Position the Company Analysis List dropbox relative to the bottom of the header to avoid differences between positioning in IE & NS
+	if(typeof(varDropBox) != "undefined")
+	{
+ 		var elementdivHeader = BrseGetElement("tableHeader");
+		var nTop = elementdivHeader.offsetTop + elementdivHeader.offsetHeight;
+		nTop += 5;//Add the margin between the header and the dropbox.
+
+		if(typeof(nTop) != "number" || nTop <= 0)
+			nTop = 90; //Default;
+			
+		var nLeft = elementdivHeader.offsetLeft + elementdivHeader.offsetWidth - 260;
+		varDropBox.Move( nLeft, nTop );
+	}
+	dropbox_resize();
+
+	window.focus();
+	onload_page();
+	
+	if(typeof(window_onload) != 'undefined')
+	{
+		window_onload();
+	}
+}
+
+function opencountrypopup( szCountryCode )
+{
+	//var szRef= "http://www.cia.gov/cia/publications/factbook/geos/" + szCountryCode + ".html";
+	var szRef= "CountryProfiles/" + szCountryCode+ ".htm";
+	window.open(szRef,'Country','location=no,resizable=yes,toolbar=no,scrollbars=yes,status=yes,directories=no,menubar=no,width=800,height=520');
+}
+	
+function refreshpage()
+{
+	window.location= "noticesCM.asp?contentscode=Privacy";
+}
+
+var bNavigator= navigator.appName.indexOf( "Netscape" ) != -1;
+
+
+function addtolist( szList, szCompany )
+{
+	if ( bNavigator == true )
+		window.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompany;
+	else
+		document.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompany;	
+}
+
+
+function addtolist_epic( szList, szEpic )
+{
+	if ( bNavigator == true )
+		window.addtolistframe.location= "addtolist.asp?list=" + szList + "&epic=" + szEpic;
+	else
+		document.addtolistframe.location= "addtolist.asp?list=" + szList + "&epic=" + szEpic;	
+}
+
+function addtocustomreportlist( szPage )
+{
+	if ( bNavigator == true )
+		window.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompanyNo;
+	else
+		document.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompanyNo;
+}
+
+function addtocustomlist( szPage, varParams, varSourcePath )
+{
+	//varSourcePath= "http://217.10.133.25/compsearch.asp?type=basic";
+	varSourcePath= escape( varSourcePath );
+		
+	if ( bNavigator == true )
+	{
+		
+		window.addtolistframe.location= "addtocustomlist.asp?list=" + szPage + "&params=" + varParams + "&source=" + varSourcePath;
+	}
+	else
+	{
+		document.addtolistframe.location= "addtocustomlist.asp?list=" + szPage + "&params=" + varParams + "&source=" + varSourcePath;
+		//refreshpage();
+	}
+}
+
+function addcurrentresults(nValue)
+{
+	if ( bNavigator == true )
+	{
+		
+		window.addtolistframe.location= "addresultstolist.asp?list=comparison&val="+nValue;
+	}
+	else
+	{
+		document.addtolistframe.location= "addresultstolist.asp?list=comparison&val="+nValue;
+		//refreshpage();
+	}
+	
+}
+
+function removecommas( szText )
+{
+	// Remove the ' from the text
+	var nStart= szText.search(",");
+	while (nStart!= -1)
+	{
+		var re = new RegExp('\,', '') ;
+		szText= szText.replace(re, '') ;
+		nStart= szText.search(",");
+	}
+	
+	return szText;
+}
+
+function EndUserAdminLink(bValidated, nRole)
+{
+	//Three cases:
+	//They are not logged in. - Bring up the logon box.
+	//They are logged in but not as an account administrator. - Warn the User and then jump to the loggon box.
+	//They are logged in as an account administrator. - go to the page.
+
+	if(bValidated)
+	{
+		if (nRole == 2)
+		{
+			window.location = "/AdminProjectTracking.asp";
+		}
+		else
+		{
+			var bConfirm = confirm("You must be logged on as an End-User Administrator to access the administration area. Do you want to re-logon?");
+			if(bConfirm == true)
+			{
+				window.location = "/Home.asp?Login=Yes";
+			}
+		}
+	}
+	else
+	{
+		window.location = "/Home.asp?Login=Yes";
+	}
+}
+
+</script>
+</head>
+
+<body onresize="onsizebody()" onload="onloadbody();">
+
+<table width="100%" id="tableHeader" border="0" cellpadding="0" cellspacing="0" bgcolor="#BDC3BD">
+  <tbody><tr> 
+    <td valign="top">
+	<img src="/images/header_3b_2_2_2.jpg" alt="header" border="0" vspace="0" hspace="0" align="left">
+	
+	<div class="TextPos2">
+		<table width="220">
+			<tbody><tr><td align="center">
+				<div class="TextPos3">
+					<font color="#ffffff">
+						<script language="JavaScript" type="text/javascript">var nDate= new Date(); document.write( nDate.toLocaleString() );</script>2/19/2020, 5:10:52 PM
+					</font>
+				</div>
+			</td></tr>
+		</tbody></table>
+	</div>
+	
+	<div class="TextPos4">
+		<table width="320">
+			<tbody><tr><td align="right">
+				
+		<a class="TextPos3" href="JavaScript: EndUserAdminLink(false, undefined );" title=""><font size="1" color="#FFFFFF">ADMINISTRATION</font></a><font color="#ffffff">&nbsp;&nbsp;|&nbsp;&nbsp;</font>
+		
+		<a class="TextPos3" href="noticesCM.asp?contentscode=contact"><font size="1" color="#ffffff">CONTACT US</font></a><font color="#ffffff"> &nbsp;&nbsp;|&nbsp;&nbsp; </font>
+		<a class="TextPos3" href="javascript:void window.open('Help/HelpIndex.htm','','resizable=yes,toolbar=no,top=100,left=100,scrollbars=yes,status=no,menubar=no,width=600,height=400');"><font size="1" color="#ffffff">HELP</font></a> 		
+				
+			</td></tr>
+			<tr><td align="right">
+			<a href="http://www.mergent.com" target="_blank"><img src="/images/Small_Logo.gif" border="0"></a>
+			</td></tr>
+		</tbody></table>
+	</div>
+	
+	</td>
+  </tr>
+</tbody></table>
+
+<iframe name="addtolistframe" id="AddToListFrame" width="0" height="0" frameborder="0"></iframe>
+
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+<a href="home.asp"><b>Home</b>:</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<b>Notices</b></td>
+</tr>
+</tbody></table>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="File-List" href="./Privacy_files/filelist.xml">
+<title>Privacy Policy</title>
+
+
+
+
+<p><font color="#006633" size="2"><b><font size="3">Privacy Policy</font></b></font></p>
+
+<p>Mergent, Inc. and its affiliated sites respect and understand your
+privacy and your personal data. Mergent is committed to protecting your privacy
+so we hope that the following information will show we gather, use and protect
+your person data.</p>
+
+<p><b>Information Collected and Use</b></p>
+
+<p>Mergent collects information about our visitors, users and any
+other individual connecting to Mergent’s sites in its day-to-day business. The
+information gathered and stored includes contact names, telephone numbers, fax
+numbers, addresses, email address, payment details and any other related data
+We collect personal data only through inquiries, registration or other voluntary
+means.</p>
+
+<p>Personal information that we collect about you stays within
+Mergent, Inc., and any information distributed to third parties is reported in
+aggregate only. We do not give or sell your information to people who want to
+send you unwanted e-mail. We may however reserve the right to use your personal
+information to contact you about our products and services, which may interest
+you by mail, fax, email and (in certain limited circumstances) by telephone
+from time to time. If you do not want to participate, you have the right to ask
+us at any time not to contact you by ways of mail, fax and email.</p>
+
+<p><b>Cookies</b></p>
+
+<p>A "cookie" is a piece of software transferred to your
+Web browser. A cookie allows us to collect data about how our websites and
+services are being used and will not identify individual users. Mergent may use
+cookies to store some personal preferences for those visiting Mergent’s site
+frequently. Mergent may place cookies on visitors' systems to
+deliver our service more efficiently.</p>
+
+<p><b>Credit Card Information</b></p>
+
+<p>Mergent offers some products and services via its website and
+visitors may purchase some of these products with the use of a credit card. The
+information contained in the credit card will be used only for transactional
+purchases and can be used only with the authorization of its owner. Mergent
+within fair and reasonable means will ensure that the credit card will be
+retained in our database and you will have the chance to change or delete the
+information at any time. You have the option of conducting your credit card
+transactions through an encrypted secured server.</p>
+
+<p><b>Changes to Mergent’s Privacy Policy</b></p>
+
+<p>Mergent reserves the right to change, modify, add, or remove
+portions of this policy at any time. We will notify you about significant
+changes in the way we treat personal data by sending a notice either in an email
+or by placing any changes on Mergent’s sites.</p>
+
+
+<p><b>Questions and Suggestions</b></p>
+
+<p>If you have any questions or suggestions about Mergent’s privacy
+and personal data protection policy, please feel free to contact us at <a href="mailto:customerservice@mergent.com">customerservice@mergent.com</a>.</p>
+
+<p>&nbsp;</p>
+
+
+
+
+
+
+<br>
+   
+
+
+<table cellpadding="0" cellspacing="1" border="0" width="100%" height="20">
+	<tbody><tr>
+		<td bgcolor="#6B696B" color="#FFFFFF">
+			<font size="1" color="#FFFFFF">&nbsp;&nbsp;
+			<a href="noticesCM.asp?contentscode=copyright"><font size="1" color="#FFFFFF">COPYRIGHT © 2003 MERGENT</font></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="noticesCM.asp?contentscode=Privacy"><font size="1" color="#FFFFFF">PRIVACY POLICY</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="Feedback.asp"><font size="1" color="#FFFFFF">FEEDBACK</font></a><!--&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/noticesCM.asp?contentscode=Privacy&showcharts=true"><font size='1' color='#FFFFFF'>Show Charts</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/noticesCM.asp?contentscode=Privacy&showcharts=false"><font size='1' color='#FFFFFF'>Hide Charts</font></a>
+			-->
+			</font>
+		</td>
+	</tr>
+</tbody></table>
+
+<script language="javascript" type="text/javascript">
+
+	function removeSelectedComparisonItems()
+	{
+		var arrCheckBoxes= BrseGetElementsByName("comparisoncheck");
+		var arrDelCompanies= new Array();
+		
+		if ( arrCheckBoxes == null )
+		{
+			alert( "No Companies in list." );
+			return;
+		}
+		
+		if ( arrCheckBoxes.length == null )
+		{
+			if ( arrCheckBoxes.checked == true )
+				arrDelCompanies[ arrDelCompanies.length ]= arrCheckBoxes.company;
+		}
+		else
+		{		
+			for ( var nIndex= 0; nIndex< arrCheckBoxes.length; nIndex++ )
+			{
+				if ( arrCheckBoxes[ nIndex ].checked == true )
+					arrDelCompanies[ arrDelCompanies.length ]= arrCheckBoxes[ nIndex ].getAttribute("company");
+			}
+		}
+		
+		if ( arrDelCompanies.length == 0 )
+		{
+			alert( "No Companies Selected." );
+			return;
+		}
+		
+		// Generate URL
+		var szURL= new String( "removefromlist.asp?list=comparison&companies=" );
+		szURL+= arrDelCompanies.join( "|" );
+
+		if ( bNavigator == true )
+			window.addtolistframe.location= szURL;
+		else
+			document.addtolistframe.location= szURL;	
+	}
+	
+	function opencomparisonpopup()
+	{
+		
+		var arrCheckBoxes= BrseGetElementsByName("comparisoncheck");
+				
+		if ( arrCheckBoxes == null )
+		{
+			alert( "No Companies in list." );
+			return;
+		}
+		
+		var szRef= "comparisonreportpopup.asp";
+		
+		window.open(szRef,'Country','location=no,resizable=yes,toolbar=no,scrollbars=yes,status=yes,directories=no,menubar=no,width=639,height=520');
+	}
+	
+</script>
+<div id="comparisonlist_hidden" style="overflow:auto; position:absolute; left:0px; top:0px; width:0px; height:0px; ">
+	<div style="overflow:auto; height:110px;"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+
+	<tbody><tr><td></td></tr>
+	</tbody></table></div>
+	<hr size="1">
+	<a href="javascript:opencomparisonpopup();">Create Comparison Report</a><br>
+
+	<a href="javascript:alert( 'No Companies in your list.' );">Create Multiple Company Report</a><br>
+	<a href="javascript:removeSelectedComparisonItems();">Delete Selected</a>&nbsp;|&nbsp;
+	<a href="javascript:addtolist('comparison', 'reset');">Clear All</a>
+</div>
+
+
+<table style="visibility:hidden" width="100%" id="tableSpaceDropBox" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table>
+
+
+
+
+</body></html>
