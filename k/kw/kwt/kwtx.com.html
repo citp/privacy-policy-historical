@@ -1,0 +1,452 @@
+<!--The following is the downloaded HTML source of the kwtx.com privacy policy that was archived on 2003-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622221657id_/http%3A//kwtx.com/kwtx/privacy_statement.htm) for the most accurate reproduction.-->
+
+<html><!-- #BeginTemplate "/Templates/FullpageContent.dwt" --><head>
+<!-- #BeginEditable "doctitle" --> <title>KWTX-TV News 10 KWTX-DT Channel 53</title> 
+<!-- #EndEditable --> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script> <script language="javascript" type="text/javascript">
+<!--
+//Swipe Menu : 1.0
+is = {};
+is.agent = navigator.userAgent.toLowerCase();
+is.ie4 = (is.agent.indexOf("msie 4") != -1);
+is.ie5 = (is.agent.indexOf("msie 5") != -1);
+is.ie55 = (is.agent.indexOf("msie 5.5") != -1);
+is.ie6 = (is.agent.indexOf("msie 6") != -1);
+is.ns4 = (is.agent.indexOf("4") != -1 && document.layers);
+is.ns6 = (is.agent.indexOf("netscape6") != -1 && is.agent.indexOf("6.1") == -1);
+is.ns6x = (is.agent.indexOf("netscape6") != -1);
+is.ie = (is.ie4 || is.ie5 || is.ie55 || is.ie6);
+is.moz = (is.agent.indexOf("gecko")!= -1);
+is.mac = (is.agent.indexOf("mac") != -1);
+is.win = (is.agent.indexOf("win") != -1);
+is.iestrict = (is.win && is.ie6 && document.compatMode == "CSS1Compat");
+is.macstrict = (is.ie5 && is.mac && document.doctype && document.doctype.name.indexOf(".dtd") != -1);
+is.strict = (is.iestrict || is.macstrict);
+is.iemac =(is.mac && is.ie5);
+is.dom = (is.ie5 || is.ie55 || is.ie6 || is.ns6x || is.moz);
+var css_px = (is.ns4) ?"" : "px";
+
+function menuObj(obj, par, nst, p) {
+    page = new Object();
+    page.width = (is.ns6 || is.ns6x || is.ns4 || is.moz) ? innerWidth : document.body.clientWidth;
+    page.height = (is.ns6 || is.ns6x || is.ns4 || is.moz) ? innerHeight : document.body.clientHeight;
+    if (!is.ns4) {
+        this.lyr = (is.dom) ? document.getElementById(obj) : document.all[obj];
+    } else {
+        this.lyr = (!nst) ? document.layers[obj] : document.layers[nst].document.layers[obj];
+    }
+    this.sty = (!is.ns4) ? this.lyr.style : this.lyr;
+    this.parent = par;
+    this.obj = obj + "SwipeLayer";
+    eval(this.obj + "= this");
+}
+menuObj.prototype.timer = null;
+menuObj.prototype.wipe = 0;
+if (is.iemac){
+menuObj.prototype.offX = Function('oX = this.lyr.offsetLeft -6+-(mAtt.border)+0; return oX');
+menuObj.prototype.offY = Function('oY = this.lyr.offsetTop-2+-(mAtt.border)+0+(0);return oY;');
+} else {
+menuObj.prototype.offX = Function('oX = (is.dom) ? this.lyr.offsetLeft  : parseInt(this.sty.left);return oX');
+menuObj.prototype.offY = Function('oY = (is.dom) ? this.lyr.offsetTop  : parseInt(this.sty.top);return oY;');
+}
+menuObj.prototype.offW = Function('oW = (!is.ns4) ? this.lyr.offsetWidth : this.lyr.clip.width; return oW;')
+menuObj.prototype.offH = Function('oH = (!is.ns4) ? this.lyr.offsetHeight : this.lyr.clip.height; return oH;')
+menuObj.prototype.maxWipe = function() {
+   	if(is.dom) return this.offH()+10;
+	if(is.ns4) return (sAtt.height*this.lyr.document.layers.length)+10;
+}
+var pd = "padding:0px 6px 0px 6px;"
+wipeMenu.prototype.addMain = function(name, hasSub, txt, url) {
+	menuName = this.name, wipePos = this.pos, mAtt = this.mAtt, sAtt = this.sAtt;
+	var pf = Math.ceil(((mAtt.height-mAtt.font_size)/2)-2);
+	var styStr2 = "position:absolute; visibility:hidden; clip:rect(0px "+(sAtt.width+20)+"px 0px 0px); border:solid 1px "+sAtt.border_color+"; border-width:"+sAtt.border+"px 0px 0px 0px; cursor:default;"
+	if(this.main[name]) return;
+	if(is.ns4) {
+		var mainMenu = new Layer(mAtt.width);
+		var styStr = "text-decoration:none; font-weight:"+mAtt.font_weight+"; z-index:1; color:"+mAtt.fg_off+"; padding:"+((mAtt.height/2)-(mAtt.font_size/2)-1)+"px 0px 0px 0px; font-size:"+mAtt.font_size+"px; font-family:"+mAtt.font+";"
+		mainMenu.document.write('<div align="'+mAtt.align+'" style="'+pd+'"><a href="'+url+'" style="'+styStr+'">'+txt+'</a></div>');
+		mainMenu.document.close();
+		var mainMenu1 = new Layer(mAtt.width);
+		mainMenu.captureEvents(Event.MOUSEUP);
+		mainMenu.resizeTo(mAtt.width,mAtt.height);
+		if(mAtt.bg_off.indexOf("url") != -1) {
+			mainMenu.background.src = mAtt.bg_off.substring(4,mAtt.bg_off.length-1);
+			mainMenu.background.src = mAtt.bg_off.substring(4,mAtt.bg_off.length-1);
+		} else mainMenu.bgColor = mAtt.bg_off;
+		mainMenu.visibility = "visible";
+		}
+	if(is.dom) {
+		var mainMenu = document.createElement("DIV");
+		var wf = (is.ns6x || is.moz || is.strict) ? 12 : 0;
+		var pf2 = (mAtt.height%2 == 0) ? 1 : 0;
+		var styStr = "position:absolute; font-weight:"+mAtt.font_weight+"; z-index:1; width:"+(mAtt.width-wf)+"px; border:solid "+mAtt.border+"px "+mAtt.border_color+"; color:"+mAtt.fg_off+";  text-align:"+mAtt.align+"; font-size:"+mAtt.font_size+"px; font-family:"+mAtt.font+"; padding:"+pf+"px 6px "+(pf+pf2)+"px 6px; background:"+mAtt.bg_off+"; cursor:pointer; cursor:hand;"
+		mainMenu.innerHTML = txt;
+		mainMenu.id = name+menuName;
+		mainMenu.style.cssText = styStr;
+		mainMenu.setAttribute("style", styStr);
+		document.body.appendChild(mainMenu);
+	}
+	if(is.ie4) {
+		var mM = '<div id="'+name+menuName+'" style="'+styStr+'">'+txt+'</div>';
+		var wf = 12; 
+		var styStr = "position:absolute; font-weight:"+mAtt.font_weight+"; z-index:1; width:"+(mAtt.width-wf)+"px; border:solid "+mAtt.border+"px "+mAtt.border_color+"; color:"+mAtt.fg_off+";  text-align:"+mAtt.align+"; font-size:"+mAtt.font_size+"px; font-family:"+mAtt.font+"; padding:"+pf+"px 6px "+(pf+pf2)+"px 6px; background:"+mAtt.bg_off+"; cursor:pointer; cursor:hand;"
+		document.body.insertAdjacentHTML("beforeEnd", mM);
+		var mainMenu = document.all[name+menuName];
+	}
+	mainMenu.onmouseover = Function('if('+hasSub+')'+menuName+'.subs["'+name+'"].show("'+wipePos+'"); over_out(this, "'+mAtt.bg_on+'", "'+mAtt.fg_on+'")');
+	mainMenu.onmouseout = Function('if('+hasSub+')'+menuName+'.subs["'+name+'"].hide();over_out(this, "'+mAtt.bg_off+'", "'+mAtt.fg_off+'")');
+	mainMenu.onmouseup = Function('location.href = "'+url+'"');
+	this.main[name] = new menuObj(mainMenu.id);
+	this.mainNum[this.mainNum.length] = this.main[name];
+	if(!hasSub) return;
+	if(is.ns4) {
+		var subC = new Layer(sAtt.width);
+		subC.resizeTo(sAtt.width,0);
+		subC.visibility = "hidden";
+	}
+	if(is.dom) {
+		var subC = document.createElement("DIV");
+		subC.id = name+menuName+"Sub";
+		var wf = (is.ns6x || is.moz) ? 4 : 0;
+		subC.style.cssText = styStr2;
+		subC.setAttribute("style", styStr2);
+		document.body.appendChild(subC);
+	}
+	if(is.ie4) {
+		var sC = '<div id="'+name+menuName+'Sub" style="'+styStr2+'"></div>';
+		document.body.insertAdjacentHTML("beforeEnd", sC);
+		var subC = document.all[name+menuName+"Sub"];
+	}
+	this.subs[name] = new menuObj(subC.id, this.main[name]);
+	subC.onmouseover = Function(menuName+'.subs["'+name+'"].show("'+wipePos+'");');
+	subC.onmouseout = Function(menuName+'.subs["'+name+'"].hide();');
+}
+wipeMenu.prototype.addSub = function(name, parent, txt, url) {
+	var pf2 = (mAtt.height%2 == 0) ? 1 : 0;
+	var pf = Math.ceil(((sAtt.height-sAtt.font_size)/2)-2);
+	if(is.ns4) {
+		var tempsub = new Layer(sAtt.width, this.subs[parent].lyr);
+		var styStr = "text-decoration:none; font-weight:"+mAtt.font_weight+"; color:"+sAtt.fg_off+"; padding:"+((sAtt.height/2)-(sAtt.font_size/2)-2)+"px 0px 0px 0px; font-size:"+sAtt.font_size+"px; font-family:"+sAtt.font+";"
+		tempsub.document.write('<div align="'+sAtt.align+'" style="'+pd+'"><a href="'+url+'" style="'+styStr+'">'+txt+'</a></div>');
+		tempsub.document.close();
+		tempsub.captureEvents(Event.MOUSEUP);
+		tempsub.resizeTo(sAtt.width,sAtt.height);
+		tempsub.moveTo(0,(sAtt.height*(this.subs[parent].lyr.document.layers.length-1)));
+		if(sAtt.bg_off.indexOf("url") != -1) {
+			tempsub.background.src = sAtt.bg_off.substring(4,sAtt.bg_off.length-1);
+			tempsub.background.src = sAtt.bg_off.substring(4,sAtt.bg_off.length-1);
+		} 
+		else tempsub.bgColor = sAtt.bg_off;
+		tempsub.visibility = "inherit";
+	}
+	if(is.dom) {
+		var tempsub = document.createElement("DIV");
+		var wf = (is.ns6x || is.moz || is.strict) ? 12 : 0;
+		var styStr = "width:"+(sAtt.width-wf)+"px; font-weight:"+mAtt.font_weight+"; border:solid "+sAtt.border+"px "+sAtt.border_color+"; border-top-width:0px; color:"+sAtt.fg_off+";  text-align:"+sAtt.align+"; font-size:"+sAtt.font_size+"px; font-family:"+sAtt.font+"; padding:"+pf+"px 6px "+(pf+pf2)+"px 6px; background:"+sAtt.bg_off+"; cursor:pointer; cursor:hand;"
+		tempsub.id = name+menuName+"SubItem";
+		tempsub.innerHTML = txt;
+		tempsub.style.cssText = styStr;
+		tempsub.setAttribute("style", styStr);
+		this.subs[parent].lyr.appendChild(tempsub);
+	}
+	if(is.ie4) {
+		var wf =  12; 
+		var styStr = "width:"+(sAtt.width-wf)+"px; font-weight:"+mAtt.font_weight+"; border:solid "+sAtt.border+"px "+sAtt.border_color+"; border-top-width:0px; color:"+sAtt.fg_off+";  text-align:"+sAtt.align+"; font-size:"+sAtt.font_size+"px; font-family:"+sAtt.font+"; padding:"+pf+"px 6px "+(pf+pf2)+"px 6px; background:"+sAtt.bg_off+"; cursor:pointer; cursor:hand;"
+		var ts = '<div id="'+name+menuName+'SubItem" style="'+styStr+'" onmouseover="over_out(this, \''+sAtt.bg_on+'\',\''+sAtt.fg_on+'\')" onmouseout="over_out(this, \''+sAtt.bg_off+'\', \''+sAtt.fg_off+'\')" onmouseup="location.href=\''+url+'\'">'+txt+'</div>';
+		this.subs[parent].lyr.insertAdjacentHTML("beforeEnd", ts);
+	}
+	if(!is.ie4) {
+		tempsub.onmouseover = Function('over_out(this, "'+sAtt.bg_on+'", "'+sAtt.fg_on+'")');
+		tempsub.onmouseout = Function('over_out(this, "'+sAtt.bg_off+'", "'+sAtt.fg_off+'")');
+		tempsub.onmouseup = Function('location.href = "'+url+'"');
+	}
+}
+menuObj.prototype.show = function(p) {
+ if( is.iemac && p == "v") {
+  this.sty.left = this.parent.offX()+mAtt.width+css_px;
+  this.sty.top = this.parent.offY()+(+mAtt.height%2);
+ } else if (p=="h") {
+  this.sty.left = this.parent.offX()+ css_px;
+  this.sty.top = this.parent.offY()+ this.parent.offH()+css_px;
+ } else {
+  this.sty.left = this.parent.offX()+this.parent.offW()+css_px;
+  this.sty.top = this.parent.offY()+css_px;
+ }
+ this.sty.visibility = "visible";
+ this.sty.zIndex = "1";
+ this.doShow();
+}
+menuObj.prototype.doShow = function() {
+	clearTimeout(this.timer);
+	this.clipIt(0, this.offW(), this.wipe, 0);
+	this.wipe += 10;
+	if(this.wipe <= this.maxWipe()) this.timer = setTimeout(this.obj + ".doShow()",10);
+}
+menuObj.prototype.hide = function() {
+	clearTimeout(this.timer)
+	this.clipIt(0, this.offW(), this.wipe-10, 0);
+	this.wipe -= 10;
+	if(this.wipe >= 0) this.timer = setTimeout(this.obj + ".hide()",10);
+	else this.sty.visibility = "hidden";
+}
+function over_out(obj, bg, fg) {
+	if(is.ns4) {
+		if(bg.indexOf("url") != -1) obj.background.src = bg.substring(4,bg.length-1)
+		else obj.background.src = "", obj.bgColor = bg;
+	}
+	else {
+		if(bg.indexOf("url") != -1) obj.style.backgroundImage = bg;
+		else obj.style.backgroundImage = "url(#000000)", obj.style.backgroundColor = bg;
+		obj.style.color = fg;
+	}
+}
+menuObj.prototype.clipIt = function(t,r,b,l) {
+	if(!is.ns4) this.sty.clip = "rect("+t+"px, "+r+"px, "+b+"px, "+l+"px)"
+	else {
+		this.sty.clip.top = t;
+		this.sty.clip.right = r;
+		this.sty.clip.bottom = b;
+		this.sty.clip.left = l;
+	}
+}
+wipeMenu.prototype.buildMenu = function(x,y,spacing) {
+	this.mainNum[0].sty.left = x+css_px;
+	this.mainNum[0].sty.top = y+css_px;
+	if(!is.ns4 && spacing == 0) var spacing = -this.mAtt.border;
+	for(i = 1; i < this.mainNum.length; i++) {
+		if(this.pos == "h") {
+			this.mainNum[i].sty.left = this.mainNum[i-1].offX()+this.mainNum[i-1].offW()+spacing+css_px;
+			this.mainNum[i].sty.top = this.mainNum[i-1].offY()+css_px;
+		} else {
+			this.mainNum[i].sty.left = this.mainNum[i-1].offX()+css_px;
+			this.mainNum[i].sty.top = this.mainNum[i-1].offY()+this.mainNum[i-1].offH()+spacing+css_px;
+	}
+	}
+}
+
+function wipeMenu(menu, p, ma, sa) {
+    this.name = menu;
+    this.pos = p;
+    this.mAtt = ma;
+    this.sAtt = (!sa) ? ma : sa;
+    this.main = [];
+    this.mainNum = [];
+    this.subs = [];
+}
+function macGo(){
+if (is.iemac) {
+history.go(0);
+}
+}
+if(document.layers) { 
+var pX = innerWidth;
+var pY = innerHeight; 
+	onresize= function(){ 
+		if(pX!= innerWidth || pY!= innerHeight) history.go(0); 
+	}
+}
+image1 = new Image()
+image1.src = ""
+image2 = new Image()
+image2.src = ""
+image3 = new Image()
+image3.src = ""
+image4 = new Image()
+image4.src = ""
+//M2Preload
+//FinishM2
+
+function initSwipeMenu() {
+	hMenu1Att = new Array();
+	hMenu1Att["width"] = 80,
+	hMenu1Att["height"] = 20,
+	hMenu1Att["align"] = "left";
+	hMenu1Att["font"] = "Arial";
+	hMenu1Att["font_size"] = 12;
+	hMenu1Att["font_weight"] = "bold";
+	hMenu1Att["bg_off"] = "#000000";
+	hMenu1Att["bg_on"] = "#FFCC33";
+	hMenu1Att["fg_off"] = "#FFFFFF";
+	hMenu1Att["fg_on"] = "#FFFFFF";
+	hMenu1Att["border"] = 1;
+	hMenu1Att["border_color"] = "#000000";
+
+	hMenu1SubAtt = new Array();
+	hMenu1SubAtt["width"] = 120,
+	hMenu1SubAtt["height"] = 20,
+	hMenu1SubAtt["align"] = "left";
+	hMenu1SubAtt["font"] = "Arial";
+	hMenu1SubAtt["font_size"] = 12;
+	hMenu1SubAtt["font_weight"] = "bold";
+	hMenu1SubAtt["bg_off"] = "#333399";
+	hMenu1SubAtt["bg_on"] = "#FFCC00";
+	hMenu1SubAtt["fg_off"] = "#FFFFFF";
+	hMenu1SubAtt["fg_on"] = "#FFFFFF";
+	hMenu1SubAtt["border"] = 1;
+	hMenu1SubAtt["border_color"] = "#000000";
+
+hMenu1 = new wipeMenu("hMenu1", "h", hMenu1Att, hMenu1SubAtt);
+//MenuTypeEnd
+//xMenu1
+hMenu1.addMain("Menu1", true, "Home", "http://www.kwtx.com");
+//xMenu1End
+//xMenu2
+hMenu1.addMain("Menu2", true, "News", "http://www.kwtx.com");
+hMenu1.addSub("Menu2Sub1", "Menu2", "Headlines", "http://www.kwtx.com");
+hMenu1.addSub("Menu2Sub2", "Menu2", "CBS", "http://www.cbsnews.com");
+hMenu1.addSub("Menu2Sub3", "Menu2", "CNN", "http://www.cnn.com");
+hMenu1.addSub("Menu2Sub4", "Menu2", "Connecting With Kids", "http://www.connectingwithkids.com/KWTX/kwtx.html");
+hMenu1.addSub("Menu2Sub5", "Menu2", "Golden Apple", "http://www.kwtx.com/news/golden_apple/golden_apple.html");
+hMenu1.addSub("Menu2Sub6", "Menu2", "Out & About", "http://www.kwtx.com/news/outabout/outabout.html");
+hMenu1.addSub("Menu2Sub7", "Menu2", "Backroads", "http://www.kwtx.com/news/backroads/backroads.html");
+hMenu1.addSub("Menu2Sub8", "Menu2", "Mentioned Links", "http://www.kwtx.com/news/mentionedlinks/mentioned_links.html");
+hMenu1.addSub("Menu2Sub9", "Menu2", "News 10 At Noon", "http://www.kwtx.com/news/noon_news/noon_news.htm");
+hMenu1.addSub("Menu2Sub10", "Menu2", "E-News Notifier", "http://enn4.enewsnotifier.com/wwwroot/kwtx/");
+hMenu1.addSub("Menu2Sub11", "Menu2", "Anchors/Reporters", "http://www.kwtx.com/kwtx/anchors.html");
+hMenu1.addSub("Menu2Sub12", "Menu2", "Contact News 10", "http://www.kwtx.com/kwtx/kwtxcontact.html");
+//xMenu2End
+//xMenu3
+
+
+
+
+hMenu1.addMain("Menu3", true, "Weather", "/weather/weather.html");
+hMenu1.addSub("Menu3Sub1", "Menu3", "Doppler 10 Live", "/weather/radar/radarfull.html");
+hMenu1.addSub("Menu3Sub2", "Menu3", "5 Day Forecast", "/weather/outlook/outlookfull.html");
+hMenu1.addSub("Menu3Sub3", "Menu3", "School Watch", "http://www.instaweather.com/kwtx2/default.asp");
+hMenu1.addSub("Menu3Sub4", "Menu3", "Weather Bug", "/weather/weatherbug/weatherbug.html");
+hMenu1.addSub("Menu3Sub5", "Menu3", "Skycam", "/weather/skycam/skycam.html");
+hMenu1.addSub("Menu3Sub6", "Menu3", "Project Tornado", "/weather/projecttornado/projecttornado.html");
+hMenu1.addSub("Menu3Sub7", "Menu3", "AccuWeather", "/weather/weather.html");
+hMenu1.addSub("Menu3Sub8", "Menu3", "Satellite Image", "http://www.accuweather.com/adcbin/sat_index?partner=kwtx&zipcode=76712");
+hMenu1.addSub("Menu3Sub9", "Menu3", "Precipitation Map", "http://www.accuweather.com/adcbin/precip_maps?partner=kwtx&zipcode=76712");
+hMenu1.addSub("Menu3Sub10", "Menu3", "Lon's Weather Page", "http://www.vvm.com/~curtis/Convective.html");
+hMenu1.addSub("Menu3Sub11", "Menu3", "Official Records", "http://www.srh.noaa.gov/FWD/CLIMO/act/actclimo.html");
+hMenu1.addSub("Menu3Sub12", "Menu3", "Contact The Forecast Team", "/weather/weathercontact.html");
+//xMenu3End
+//xMenu4
+
+
+
+hMenu1.addMain("Menu4", true, "Sports", "/sports/sports.html");
+//xMenu4End
+//xMenu5
+hMenu1.addMain("Menu5", true, "10 Cares", "/cares/caresprojects.html");
+hMenu1.addSub("Menu5Sub1", "Menu5", "Community Calendar", "/cares/cc/cc.html");
+hMenu1.addSub("Menu5Sub2", "Menu5", "10 Cares Projects", "/cares/caresprojects.html");
+//xMenu5End
+//xMenu6
+hMenu1.addMain("Menu6", true, "KWTX", "http://www.kwtx.com");
+hMenu1.addSub("Menu6Sub1", "Menu6", "What's on", "http://kwtx.titantv.com/apg/apg_grid.asp");
+hMenu1.addSub("Menu6Sub2", "Menu6", "Sales", "/kwtx/sales.html");
+hMenu1.addSub("Menu6Sub3", "Menu6", "Career Opportunities", "/kwtx/eeo/EEO.html");
+hMenu1.addSub("Menu6Sub4", "Menu6", "Anchors/Reporters", "/kwtx/anchors.html");
+hMenu1.addSub("Menu6Sub5", "Menu6", "Contact News 10", "/kwtx/kwtxcontact.html");
+//xMenu6End
+//xMenu7
+hMenu1.addMain("Menu7", true, "KWTX-DT", "/kwtxdt/history.html");
+hMenu1.addSub("Menu7Sub1", "Menu7", "History", "/kwtxdt/history.html");
+hMenu1.addSub("Menu7Sub2", "Menu7", "Programs", "http://kwtx.titantv.com/apg/apg_grid.asp");
+//xMenu7End
+//xMenu8
+
+
+
+
+//xMenu8End
+//XtraMenusEnd
+hMenu1.buildMenu(120,97,0);
+//Additional
+}
+//SwipeMenuEnd
+//-->
+</script> <link rel="stylesheet" href="/Templates/HeadlinesStyle.css" type="text/css"> 
+<link rel="stylesheet" href="/Templates/HeadlinesStyle.css" type="text/css"> <link rel="stylesheet" href="/Templates/HeadlinesStyle.css" type="text/css"> 
+<link rel="stylesheet" href="../Templates/HeadlinesStyle.css" type="text/css"> 
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0.0" topmargin="0.0" onload="initSwipeMenu()" onunload="macGo()">
+<table cellspacing="0" cellpadding="0" border="0" width="862" height="670"> <tbody><tr> 
+<td width="34" height="20" valign="top"></td><td colspan="3" valign="top" background="../sitegfx/ticker.gif">&nbsp;</td><td width="50" valign="top"></td><td width="6" valign="top"></td><td width="1"></td></tr> 
+<tr> <td height="74" colspan="2" valign="top" bgcolor="#000000"> <div align="center"><img src="../sitegfx/Navlogo.jpg" width="73" height="72"></div></td><td colspan="4" rowspan="2" valign="top"><img src="../sitegfx/navleft.jpg" width="210" height="75"><img src="../sitegfx/navcenter.jpg" width="284" height="75"><img src="../sitegfx/navright.jpg" width="241" height="75" usemap="#Map" border="0"></td><td></td></tr> 
+<tr> <td colspan="2" rowspan="4" valign="top" background="../sitegfx/darkblueline.gif"> 
+<table width="116" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td height="485" align="left" valign="top"> 
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>}</p></td></tr> 
+</tbody></table></td><td height="1"></td></tr> <tr> <td height="30" colspan="3" valign="top" bgcolor="#000000">&nbsp;</td><td valign="top"></td><td></td></tr> 
+<tr> <td width="9" height="420"></td><td valign="top" colspan="2" align="left"><!-- #BeginEditable "news%20content" --><font size="4"><b>Privacy 
+Statement for KWTX-TV</b></font><p></p><p><b>Information Collection, Disclosure 
+and Use:<br></b>This privacy statement demonstrates KWTX-TV’s commitment 
+to your right to privacy and explains the privacy policies governing kwtx.com 
+(the “Web Site”). It is our general policy to collect and store only 
+personal information that our members and visitors knowingly provide.</p><p> </p><p>Our 
+site may require you to provide contact or other information, such as your name 
+or e-mail address, which would only be used as described below. You may opt out 
+of receiving any communications as provided in the choice/opt-out section below. 
+None of this information will be provided to third parties to market their products 
+or services.</p><p> </p><p>Unless otherwise provided, we may use the personal 
+information we collect from you to ensure that our community is protected against 
+unauthorized access, to use e-mail to diagnose problems with the server or to 
+administer the Web Site, and to contact you when necessary.</p><p> </p><p>If our 
+privacy policies change, we will notify all users by a special announcement on 
+the Web Site.</p><p> </p><p><b>Minors:<br></b>Minors may participate in our interactive 
+community; however, a minor may not appreciate the consequences of providing personal 
+information to third parties and must obtain a parent’s or legal guardian’s 
+formal consent before registering to participate in our interactive community 
+or downloading files from our Web Site. The applicable consent form is provided 
+during the registration process.</p><p> </p><p><b>Choice/Opt-Out:<br></b>If you 
+do not want information provided by you during the Web Site’s registration 
+process to be disclosed to third parties or used by us to communicate with you, 
+you may opt out and elect not to have the information shared. AN OPT-OUT BOX WILL 
+APPEAR WHEN YOU PROVIDE ANY REQUESTED INFORMATION. </p><p> </p><p><b>Cookies:<br></b>Cookies 
+are files that contain information created by a web server that can be stored 
+on your hard disk for future use. Cookies are not used to disseminate significant 
+information about you over the Internet or to analyze any information that you 
+have knowingly or unknowingly provided. This Web Site uses cookies only to facilitate 
+automated activity and to enable the server to recognize your computer. Your web 
+browser will allow you to disable cookies, but you will be required to consent 
+to our terms of service agreement each time you access the Web Site if you do 
+so. </p><p> </p><p><b>Links:<br></b>This Web Site contains links to other web 
+sites. We have no control over and are not responsible for the privacy policies 
+of such sites. </p><p> </p><p><b>Public Forums:<br></b>We may make various public 
+forums available to you. Any information you choose to share when using any of 
+these forums becomes public information. It is incumbent upon you to exercise 
+caution in deciding whether to disclose personal information. </p><p></p><p><b>Integrity/Security:<br></b>We 
+use encryption and other technology to store personal information gathered online 
+in an attempt to provide a secure environment that is protected from unauthorized 
+third party access, alteration, theft, or misuse. </p><p> </p><p><b>Corrections/Updates:<br></b>You 
+may change or modify information that you have already provided via e-mail at 
+<a href="mailto:webmaster@kwtx.com">webmaster@kwtx.com</a>.</p><p> </p><p><b>Redress/Contact:<br></b>If 
+you have any questions about this privacy statement, the practices of this Web 
+Site, your dealings with the Web Site, you can contact:</p><p> </p><p><b>Webmaster<br>KWTX-TV<br>P.O. 
+Box 2636<br>Waco, TX 76702-2636</b></p><p><a href="mailto:webmaster@kwtx.com">webmaster@kwtx.com</a><br></p><!-- #EndEditable --></td><td valign="top"></td><td></td></tr> <tr> 
+<td height="66"></td><td width="676"></td><td></td><td valign="top"></td><td></td></tr> 
+<tr> <td height="67" colspan="5" valign="top" bgcolor="#000000"> <table width="100%" border="0"> 
+<tbody><tr> <td height="58" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" size="3" color="#FFFFFF">Copyright 
+2003 KWTX-TV, a subsidiary of Gray Communications of Texas Inc.<br> <font size="2">This 
+webpage is best viewed with Internet Explorer 5.0 or higher.<br><br><a href="eeo/EEO.html">Career 
+Opportunities</a> / <a href="terms_of_service.htm">Terms of Service</a> 
+/ <a href="privacy_statement.htm">Privacy Statement</a> <br><br><font size="1">All 
+rights reserved. This material may not be published, broadcast, rewritten, or 
+redistributed. AP contributed to this report. Associated Press text, photo, graphic, 
+audio and/or video material shall not be published, broadcast, rewritten for broadcast 
+or publication or redistribution directly or indirectly in any medium. Neither 
+these AP materials nor any portion thereof may be stored in a computer except 
+for personal and non-commercial use. AP will not be held liable for any delays, 
+inaccuracies, errors or omissions there from or in the transmission or delivery 
+of all or any part thereof or for any damages arising from any of the foregoing.</font></font></font></td></tr> 
+</tbody></table></td><td valign="top"></td><td></td></tr> <tr> <td height="1" valign="top"><img width="34" height="1" src="../transparent.gif"></td><td width="86" valign="top"><img width="86" height="1" src="../transparent.gif"></td><td valign="top"><img width="9" height="1" src="../transparent.gif"></td><td valign="top"></td><td valign="top"><img width="50" height="1" src="../transparent.gif"></td><td valign="top"><img width="6" height="1" src="../transparent.gif"></td><td></td></tr> 
+</tbody></table><p>&nbsp;</p><p>&nbsp;</p><map name="Map"> <area shape="rect" coords="25,3,208,77" href="../weather/radar/radarfull.html"> 
+</map> 
+
+<!-- #EndTemplate -->
+<div id="Menu1hMenu1" style="position: absolute; font-weight: bold; z-index: 1; width: 68px; border: 1px solid rgb(0, 0, 0); color: rgb(255, 255, 255); text-align: left; font-size: 12px; font-family: Arial; padding: 2px 6px 3px; background: rgb(0, 0, 0); cursor: pointer; left: 120px; top: 97px;">Home</div><div id="Menu1hMenu1Sub" style="position:absolute; visibility:hidden; clip:rect(0px 140px 0px 0px); border:solid 1px #000000; border-width:1px 0px 0px 0px; cursor:default;"></div><div id="Menu2hMenu1" style="position: absolute; font-weight: bold; z-index: 1; width: 68px; border: 1px solid rgb(0, 0, 0); color: rgb(255, 255, 255); text-align: left; font-size: 12px; font-family: Arial; padding: 2px 6px 3px; background: rgb(0, 0, 0); cursor: pointer; left: 201px; top: 97px;">News</div><div id="Menu2hMenu1Sub" style="position:absolute; visibility:hidden; clip:rect(0px 140px 0px 0px); border:solid 1px #000000; border-width:1px 0px 0px 0px; cursor:default;"><div id="Menu2Sub1hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Headlines</div><div id="Menu2Sub2hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">CBS</div><div id="Menu2Sub3hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">CNN</div><div id="Menu2Sub4hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Connecting With Kids</div><div id="Menu2Sub5hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Golden Apple</div><div id="Menu2Sub6hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Out &amp; About</div><div id="Menu2Sub7hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Backroads</div><div id="Menu2Sub8hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Mentioned Links</div><div id="Menu2Sub9hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">News 10 At Noon</div><div id="Menu2Sub10hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">E-News Notifier</div><div id="Menu2Sub11hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Anchors/Reporters</div><div id="Menu2Sub12hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Contact News 10</div></div><div id="Menu3hMenu1" style="position: absolute; font-weight: bold; z-index: 1; width: 68px; border: 1px solid rgb(0, 0, 0); color: rgb(255, 255, 255); text-align: left; font-size: 12px; font-family: Arial; padding: 2px 6px 3px; background: rgb(0, 0, 0); cursor: pointer; left: 282px; top: 97px;">Weather</div><div id="Menu3hMenu1Sub" style="position:absolute; visibility:hidden; clip:rect(0px 140px 0px 0px); border:solid 1px #000000; border-width:1px 0px 0px 0px; cursor:default;"><div id="Menu3Sub1hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Doppler 10 Live</div><div id="Menu3Sub2hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">5 Day Forecast</div><div id="Menu3Sub3hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">School Watch</div><div id="Menu3Sub4hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Weather Bug</div><div id="Menu3Sub5hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Skycam</div><div id="Menu3Sub6hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Project Tornado</div><div id="Menu3Sub7hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">AccuWeather</div><div id="Menu3Sub8hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Satellite Image</div><div id="Menu3Sub9hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Precipitation Map</div><div id="Menu3Sub10hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Lon's Weather Page</div><div id="Menu3Sub11hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Official Records</div><div id="Menu3Sub12hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Contact The Forecast Team</div></div><div id="Menu4hMenu1" style="position: absolute; font-weight: bold; z-index: 1; width: 68px; border: 1px solid rgb(0, 0, 0); color: rgb(255, 255, 255); text-align: left; font-size: 12px; font-family: Arial; padding: 2px 6px 3px; background: rgb(0, 0, 0); cursor: pointer; left: 363px; top: 97px;">Sports</div><div id="Menu4hMenu1Sub" style="position:absolute; visibility:hidden; clip:rect(0px 140px 0px 0px); border:solid 1px #000000; border-width:1px 0px 0px 0px; cursor:default;"></div><div id="Menu5hMenu1" style="position: absolute; font-weight: bold; z-index: 1; width: 68px; border: 1px solid rgb(0, 0, 0); color: rgb(255, 255, 255); text-align: left; font-size: 12px; font-family: Arial; padding: 2px 6px 3px; background: rgb(0, 0, 0); cursor: pointer; left: 444px; top: 97px;">10 Cares</div><div id="Menu5hMenu1Sub" style="position:absolute; visibility:hidden; clip:rect(0px 140px 0px 0px); border:solid 1px #000000; border-width:1px 0px 0px 0px; cursor:default;"><div id="Menu5Sub1hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Community Calendar</div><div id="Menu5Sub2hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">10 Cares Projects</div></div><div id="Menu6hMenu1" style="position: absolute; font-weight: bold; z-index: 1; width: 68px; border: 1px solid rgb(0, 0, 0); color: rgb(255, 255, 255); text-align: left; font-size: 12px; font-family: Arial; padding: 2px 6px 3px; background: rgb(0, 0, 0); cursor: pointer; left: 525px; top: 97px;">KWTX</div><div id="Menu6hMenu1Sub" style="position:absolute; visibility:hidden; clip:rect(0px 140px 0px 0px); border:solid 1px #000000; border-width:1px 0px 0px 0px; cursor:default;"><div id="Menu6Sub1hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">What's on</div><div id="Menu6Sub2hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Sales</div><div id="Menu6Sub3hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Career Opportunities</div><div id="Menu6Sub4hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Anchors/Reporters</div><div id="Menu6Sub5hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Contact News 10</div></div><div id="Menu7hMenu1" style="position: absolute; font-weight: bold; z-index: 1; width: 68px; border: 1px solid rgb(0, 0, 0); color: rgb(255, 255, 255); text-align: left; font-size: 12px; font-family: Arial; padding: 2px 6px 3px; background: rgb(0, 0, 0); cursor: pointer; left: 606px; top: 97px;">KWTX-DT</div><div id="Menu7hMenu1Sub" style="position:absolute; visibility:hidden; clip:rect(0px 140px 0px 0px); border:solid 1px #000000; border-width:1px 0px 0px 0px; cursor:default;"><div id="Menu7Sub1hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">History</div><div id="Menu7Sub2hMenu1SubItem" style="width:108px; font-weight:bold; border:solid 1px #000000; border-top-width:0px; color:#FFFFFF;  text-align:left; font-size:12px; font-family:Arial; padding:2px 6px 3px 6px; background:#333399; cursor:pointer; cursor:hand;">Programs</div></div></body></html>
