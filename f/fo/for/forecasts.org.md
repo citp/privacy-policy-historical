@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forecasts.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603064406id_/http%3A//www.forecasts.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forecasts.org privacy policy that was archived on 2001-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011030014709id_/http%3A//forecasts.org/privacy.htm) for the most accurate reproduction.*
 
 # The Financial Forecast Center
 
