@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csaa.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214070332id_/http%3A//www.csaa.com/global/privacypolicy/0%2C7421%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csaa.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610092444id_/http%3A//www.csaa.com/global/privacypolicy/0%2C8060%2C%2C00.html) for the most accurate reproduction.*
 
 # AAA : Privacy Policy
 
