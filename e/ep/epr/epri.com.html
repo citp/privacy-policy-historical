@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the epri.com privacy policy that was archived on 2002-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020408102530id_/http%3A//www.epri.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epri.com privacy policy that was archived on 2002-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204095559id_/http%3A//www.epri.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -232,19 +232,29 @@ function launch(url) {
   remote = open(url, "", "resizable,scrollbars,width=600,height=400,left=10,top=10");
 }
 
+function logonFocus()
+{
+	if(null != document.logon)
+	{
+		if (null != document.logon.name)
+		{
+			self.focus();this.document.logon.name.focus();
+		}
+	}
+}
 // -->
 </script>
 	
 
 </head>
 
-<body bgcolor="#ffffff" text="#000000" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-
+		<body bgcolor="#ffffff" text="#000000" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+	
 
 
 <!-- EPRI Wordmark and navigational buttons -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="568" height="70" bgcolor="#CECBFF"><a href="http://www.epri.com"><img src="http://www.epri.com/images/head_1.jpg" width="187" border="0" vspace="0" height="70" alt="EPRI Home Page"></a><img src="http://www.epri.com/images/head_2.jpg" width="106" border="0" vspace="0" height="70" alt="EPRI Home Page"><img src="http://www.epri.com/images/head_3.jpg" width="98" border="0" vspace="0" height="70" alt="EPRI Home Page"><img src="http://www.epri.com/images/head_4.jpg" width="90" border="0" vspace="0" height="70" alt="EPRI Home Page"><img src="http://www.epri.com/images/head_5.jpg" width="87" border="0" vspace="0" height="70" alt="EPRI Home Page"></td><td width="174" height="70" align="right" valign="top" bgcolor="#CECBFF"><table width="118" border="0" cellspacing="0" cellpadding="0" align="right">
+<tbody><tr><td width="568" height="70" bgcolor="#CECBFF"><a href="http://www.epri.com"><img src="http://www.epri.com/images/head_1.jpg" width="187" border="0" vspace="0" height="70" alt="EPRI Home Page"></a><img src="http://www.epri.com/images/head_2.jpg" width="106" border="0" vspace="0" height="70" alt="EPRI Home Page"><img src="http://www.epri.com/images/head_3.jpg" width="98" border="0" vspace="0" height="70" alt="EPRI Home Page"><img src="http://www.epri.com/images/head_4.jpg" width="90" border="0" vspace="0" height="70" alt="EPRI Home Page"><img src="http://www.epri.com/images/head_5.jpg" width="87" border="0" vspace="0" height="70" alt="EPRI Home Page"></td><td width="190" height="70" align="right" valign="top" bgcolor="#CECBFF"><table width="118" border="0" cellspacing="0" cellpadding="0" align="right">
 
 <!-- Public Home Page Logic -->
 
@@ -307,70 +317,71 @@ function launch(url) {
 		
 
 	
-
-	</td></tr><tr>
-		<td width="161" bgcolor="#CECCFE" valign="top">
-<form name="logon" method="post" action="/authenticate.asp">
 <img src="/images/cust_login.gif" width="161" height="25" border="0" alt="Customer Login">
-<table width="160" border="0">
-<tbody><tr>
-	<td>&nbsp;User name:</td>
-</tr>
-<tr>
-	
-		<td><input type="text" name="name" size="15"></td>
-	
-</tr>
-<tr>
-	<td>&nbsp;Password:</td>
-</tr>
-<tr>
-	
-		<td><input type="password" name="pass" size="15"><input type="hidden" name="program" value=""><input type="hidden" name="root" value="http://www.epri.com"></td>
-	
-</tr>
-<tr>
-	<td align="right"><input type="Image" name="submit" src="/images/login.gif" border="0" width="61" height="21" tabindex="3" alt="Login"></td>
-</tr>
+<table width="160" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="161" bgcolor="#CECCFE" valign="top">
+			<form name="logon" method="post" action="/authenticate.asp">
+			<table width="160" border="0">
+				<tbody><tr>
+					<td>&nbsp;User name:</td>
+				</tr>
+				<tr>
+					
+						<td><input type="text" name="name" size="15"></td>
+					
+				</tr>
+				<tr>
+					<td>&nbsp;Password:</td>
+				</tr>
+				<tr>
+					
+						<td><input type="password" name="pass" size="15"><input type="hidden" name="program" value=""><input type="hidden" name="root" value="http://www.epri.com"></td>
+					
+				</tr>
+				<tr>
+					<td align="right"><input type="Image" name="submit" src="/images/login.gif" border="0" width="61" height="21" tabindex="3" alt="Login"></td>
+				</tr>
+			</tbody></table>
+	</form></td></tr>
 </tbody></table>
-
 <img src="/images/about_epri_leftpanel.gif" width="161" height="25" border="0" alt="About EPRI">
 <table width="160" border="0">
-<tbody><tr>
-	<td valign="top">·</td>
-	<td><a href="/corporate/membership/benepol.html">EPRI Membership</a></td>
-</tr>
-<tr>
-	<td valign="top">·</td>
-	<td><a href="/corporate/discover_epri/epri_facts/index.html">Company Info</a></td>
-</tr>
-<tr>
-	<td valign="top">·</td>
-	<td><a href="/corporate/discover_epri/epri_facts/contractor_index.html">Contractor Info</a></td>
-</tr>
-<tr>
-	<td valign="top">·</td>
-	<td><a href="/corporate/discover_epri/global/index.html">EPRI Worldwide</a></td>
-</tr>
-<tr>
-	<td valign="top">·</td>
-	<td><a href="http://www.hotjobs.com/cgi-bin/company-job-list?G__GID=4230" target="_blank">Employment</a></td>
-</tr>
+	<tbody><tr>
+		<td valign="top">·</td>
+		<td><a href="/corporate/membership/benepol.html">EPRI Membership</a></td>
+	</tr>
+	<tr>
+		<td valign="top">·</td>
+		<td><a href="/corporate/discover_epri/epri_facts/index.html">Company Info</a></td>
+	</tr>
+	<tr>
+		<td valign="top">·</td>
+		<td><a href="/corporate/discover_epri/epri_facts/contractor_index.html">Contractor Info</a></td>
+	</tr>
+	<tr>
+		<td valign="top">·</td>
+		<td><a href="/corporate/discover_epri/global/index.html">EPRI Worldwide</a></td>
+	</tr>
+	<tr>
+		<td valign="top">·</td>
+		<td><a href="/corporate/employment/index.html">Employment</a></td>
+	</tr>
 </tbody></table>
 <br>
 <img src="/images/news.gif" width="161" height="25" border="0" alt="News">
 <table width="160" border="0">
-<tbody><tr>
-	<td valign="top">·</td>
-	<td><a href="/corporate/discover_epri/news/index.html">Press Room</a></td>
-</tr>
-<tr>
-	<td valign="top">·</td>
-	<td><a href="/journal/default.asp">EPRI Journal online</a></td>
-</tr>
+	<tbody><tr>
+		<td valign="top">·</td>
+		<td><a href="/corporate/discover_epri/news/index.html">Press Room</a></td>
+	</tr>
+	<tr>
+		<td valign="top">·</td>
+		<td><a href="/journal/default.asp">EPRI Journal online</a></td>
+	</tr>
 </tbody></table>
 
-	</form></td><td width="11"></td>
+	</td><td width="11"></td>
 	<td valign="top" align="left">
 	
               
