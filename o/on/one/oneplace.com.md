@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216071307id_/http%3A//oneplace.com/About_Us/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123418id_/http%3A//oneplace.com/About_Us/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # OnePlace.com - Privacy Policy
 
@@ -13,6 +13,18 @@ Required Information
 When you sign up for our OnePlace.com email newsletter, we require your email address. This allows us to send the newsletter and notify you about changes and/or upgrades to our site. We may also use this information for basic research and development related to our site. Occasionally OnePlace.com will pass this list to select vendors who we trust to provide products or services that may be of interest to our audience. 
 
 Voluntary Information
+
+**Special Offers**   
+From time-to-time, OnePlace.com, its affiliated ministries and/or its affiliated radio stations are able to provide to you special offers of products and services. In the course of providing these offerings it is necessary to gather personally identifiable information such as your name, age, email address and telephone number. Your acceptance of these offers is completely voluntary, but if you do not correctly enter any information required, you may not receive the product or service offered. We may use this information: 
+
+  * To ensure proper delivery of the product or service 
+  * To view statistics and conduct basic research 
+  * To send you information about OnePlace.com 
+  * To give to select ministries on our site, who may send you promotional material 
+  * To give to select radio stations, who may send you promotional material 
+  * To give to our advertisers, who may send you information about their products and services 
+
+
 
 **Surveys**   
 OnePlace.com features an optional [Listener Survey](https://web.archive.org/About_Us/Listener_Survey/), in which we ask for personally identifiable information. We may also post additional surveys to help us gather facts and information about our audience. These surveys are completely optional and if you choose to fill them out, please understand that the information you provide will be used by OnePlace.com and may be provided to third parties. Ways in which we may use information gathered in the surveys include: 
