@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonstockexchange.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201182831id_/http%3A//www.londonstockexchange.com/disclaimer/dispol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonstockexchange.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202065622id_/http%3A//www.londonstockexchange.com/disclaimer/dispol.asp) for the most accurate reproduction.*
 
 # London Stock Exchange > Disclaimer
 
@@ -44,7 +44,7 @@ If you are connected to the internet you will have an IP Address. This may take 
 
 **6\. Advertisements and Promotions**
 
-We use the services of Engage (UK) Limited for the selling and tracking of advertisements, promotions and other marketing messages on our site. To do this, Engage collects and stores anonymous data usually through the use of cookies. Also, in relation to WAP services, Engage uses an ID associated with your wireless device (this ID may be your phone number for your mobile phone). No personally identifiable information about you is disclosed to Engage, nor does Engage use the device ID to derive any personally identifiable information. To learn more about Engage or if you do not wish your anonymous data to be collected and stored by Engage, go to [http://www.engage.com/privacy](https://web.archive.org/web/20011201182831id_/http%3A//www.londonstockexchange.com/disclaimer/disclaimer.asp?url=www.engage.com/privacy/).
+We use the services of Engage (UK) Limited for the selling and tracking of advertisements, promotions and other marketing messages on our site. To do this, Engage collects and stores anonymous data usually through the use of cookies. Also, in relation to WAP services, Engage uses an ID associated with your wireless device (this ID may be your phone number for your mobile phone). No personally identifiable information about you is disclosed to Engage, nor does Engage use the device ID to derive any personally identifiable information. To learn more about Engage or if you do not wish your anonymous data to be collected and stored by Engage, go to [http://www.engage.com/privacy](https://web.archive.org/web/20020202065622id_/http%3A//www.londonstockexchange.com/disclaimer/disclaimer.asp?url=www.engage.com/privacy/).
 
 **7\. Scope of this policy**
 
