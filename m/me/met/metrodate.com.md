@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630040725id_/http%3A//www.metrodate.com/articles/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103842id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# aboutus - Metrodate.com
+# Privacy Statement for Metrodate.com
 
-Privacy Statement for Metrodate.com
-
-## Privacy Statement for Metrodate.com
+## Privacy Statement for [Metrodate.com](http://www.metrodate.com/)
 
 Metrodate.com takes member privacy very seriously. We use all reasonable efforts to protect our members' information. The purpose of this policy is to help our members recognize our firm commitment to their privacy, while having a complete understanding of how their information is used by our service. 
 
@@ -58,6 +56,10 @@ Under various circumstances, it may be necessary for Metrodate.com to disclose p
 
 All reasonable efforts are utilized to secure our members' private information. All financial transactions are encrypted using SSL security, the industry standard for secure web site transactions. In addition, we have measures in place to detect scams common to singles sites. (If someone says you can get millions of dollars for helping them out, it's not true!) 
 
+## Background Checks?
+
+Metrodate does **not** do background checks on our members. When you meet people in the real world, like in a bar, club, or at the gym, no one is doing a background check there either. Also, members are fully responsible for the information contained in their profiles and messages. We can not attest for the accuracy of what hundreds of thousands of members write about themselves. So when you are meeting someone, whether from Metrodate.com, or anywhere else, please take all necessary precautions. 
+
 ## Updating Your Information
 
 At any time our members can update their member information by visiting the various sections under "Member Services" such as "Personal Info" or "Public Profile". We encourage our members to review their own profile (also available under "Member Services") to see what information is being provided to other members. If users wish to cancel service, they can do so at any time by going to "Account Info" from the "Member Services" menu. 
@@ -70,4 +72,8 @@ Metrodate.com
 2300 Computer Ave, Box J-52  
 Willow Grove, PA 19090-1742  
 [Click here](https://web.archive.org/asp/help.asp) to contact us online  
+
+
+Copyright 1998 - 2004   
+Metrodate.com  
 
