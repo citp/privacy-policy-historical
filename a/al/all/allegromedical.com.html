@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2002-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021216220825id_/http%3A//www.allegromedical.com/Home/Privacy_Policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2003-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030610003021id_/http%3A//allegromedical.com/Home/Privacy_Policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>Allegro Medical- wheelchairs, power scooters, and discount medical supplies.</title>
+	<title>Allegro Medical Supplies Inc. - wheelchairs, power scooters, and discount medical supplies. - - </title>
 	<basefont face="VERDANA, ARIAL, HELVETICA" size="-2">
 	<!-- ********** Start Meta Tags ************************************************************************************************************************************* -->
 	<meta name="description" content="Shop online for wheelchairs, power scooters, and medical supplies from the first online medical supplies superstore offering discounted name-brand wheelchairs, power scooters and medical supplies.">
@@ -25,336 +25,14 @@
 		document.AllegroAdvantage.ecat.value='';
 		}
 	}
+	
+	function Certify(URL) {
+  popupWin = window.open(URL, 'Participant', 'location,scrollbars,width=450,height=300,left=200')
+  window.top.name = 'opener';
+	}
+	
 </script>
 
-
-
-
-<script language="JavaScript">
-
-// Browser Detection
-isMac = (navigator.appVersion.indexOf("Mac")!=-1) ? true : false;
-NS4 = (document.layers) ? true : false;
-IEmac = ((document.all)&&(isMac)) ? true : false;
-IE4plus = (document.all) ? true : false;
-IE4 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 4.")!=-1)) ? true : false;
-IE5 = ((document.all)&&(navigator.appVersion.indexOf("MSIE 5.")!=-1)) ? true : false;
-ver4 = (NS4 || IE4plus) ? true : false;
-NS6 = (!document.layers) && (navigator.userAgent.indexOf('Netscape')!=-1)?true:false;
-
-// Body onload utility (supports multiple onload functions)
-var gSafeOnload = new Array();
-function SafeAddOnload(f)
-{
-	if (IEmac && IE4)  // IE 4.5 blows out on testing window.onload
-	{
-		window.onload = SafeOnload;
-		gSafeOnload[gSafeOnload.length] = f;
-	}
-	else if (window.onload)
-	{
-		if (window.onload != SafeOnload)
-		{
-			gSafeOnload[0] = window.onload;
-			window.onload = SafeOnload;
-		}		
-		gSafeOnload[gSafeOnload.length] = f;
-	}
-	else
-		window.onload = f;
-}
-function SafeOnload()
-{
-	for (var i=0;i<gSafeOnload.length;i++)
-		gSafeOnload[i]();
-}
-
-function isInt(numIn)
-{
-	var checknum = parseInt(numIn);
-	return !isNaN(checknum);
-}
-
-// Make an object visible
-function showObject(obj) 
-{
-        if (NS4) obj.visibility = "show";
-        else if (IE4plus||NS6) obj.visibility = "visible";
-}
-
-// Hides an object
-function hideObject(obj) 
-{
-        if (NS4) obj.visibility = "hide";
-        else if (IE4plus||NS6) obj.visibility = "hidden";
-}
-
-// Move a layer
-function moveTo(obj,xL,yL) 
-{
-        obj.left = xL;
-        obj.top = yL;
-}
-
-// Browser window width
-function getWindowWidth()
-{
-	if (NS4 || NS6)
-		return window.innerWidth;
-	else if (IE4plus)
-		return document.body.clientWidth;
-}
-
-function getObjLoc(oIn)
-{
-	var oOut = new Object();
-	oOut.top = 0;
-	oOut.left = 0;
-
-	if ((IE4plus && !isMac) || (IEmac && IE5) )
-	{
-		oOut.left = oIn.offsetLeft;
-		oOut.top = oIn.offsetTop;
-		var newp = oIn.offsetParent;
-		while(newp != null)
-		{
-			oOut.left += newp.offsetLeft;
-			oOut.top += newp.offsetTop;
-			newp = newp.offsetParent;
-		}
-		if (IEmac)
-		{	
-			oOut.left += parseInt(document.body.leftMargin);
-			oOut.top +=  parseInt(document.body.topMargin);
-		}
-	}
-	else if (NS4)
-	{
-		oOut.left = oIn.x;
-		oOut.top = oIn.y;
-	}
-	else if (isMac && IE4)
-	{
-		var el = oIn;
-		do
-		{	
-			if (isInt(el.offsetTop))
-				oOut.top += el.offsetTop;
-			if (isInt(el.offsetLeft))
-				oOut.left += el.offsetLeft;
-			el = el.parentElement;
-		} while (el.tagName != "BODY");
-		if (navigator.appVersion.indexOf("4.5")>=0)
-			oOut.top = oOut.top - 15;
-	}
-	else if (NS6)
-	{
-		var b=document.getElementsByTagName('body')[0];
-		oOut.left = oIn.offsetLeft+b.offsetLeft;
-		oOut.top = oIn.offsetTop+b.offsetTop;
-	}
-	return oOut;
-} 
-
-
-function createLayer(name,left,top,width,height,html)
-{
-	var nL;
-	
-	if (IE4plus)
-	{
-		var divhtml = '<div id=' + name + ' style="visibility:hidden;left:' + left + 
-			'px;top:' + top + 'px;width:' + width + 
-			'px;height:' + height + 'px;position:absolute">' + 
-			html + '</div>';
-		document.body.insertAdjacentHTML('beforeEnd', divhtml);
-		nL = document.all[name].style
-	}
-	else if (NS4)
-	{
-		nL=new Layer(width);
-		nL.name = name;
-		nL.left=left;
-		nL.top=top;
-		nL.clip.width=width;
-		nL.clip.height=height;
-		nL.document.open();
-		nL.document.write(html);
-		nL.document.close();
-	}
-	else if (NS6)
-	{
-		var nL = document.createElement("DIV");
-		nL.innerHTML = html;
-		var mybody=document.body;
-		mybody.appendChild(nL);
-		nL.style.position = "absolute";
-		nL.style.visibility = "hidden";
-		nL.style.left = left;
-		nL.style.top = top;
-		nL.style.width = width;
-		nL.style.height = height;
-		nL.id = name;
-		nL = nL.style;
-	}
-	return nL;
-}
-
-function PI_Reveal()
-{
-	this.index++;
-	
-	if (this.index <= this.steps)
-	{
-		var w = (parseInt(this.width)*this.index)/this.steps;
-		var h = (parseInt(this.height)*this.index)/this.steps;
-		this.SetClip(w,h);
-		setTimeout("gPopInside.Reveal()",50);
-	}
-	else
-	{
-		this.dvc.visibility = "visible";
-		if (this.autoClose > 0)
-			setTimeout("gPopInside.Show(false)",this.autoClose);
-	}
-}
-
-function PI_GetContentHTML()
-{
-	var html = '<a href="../home/freeshipping.asp"><IMG src="../images/Misc/25d.gif"></a>';
-	return html;
-}
-
-function PI_GetWindowHTML()
-{
-	var html = '<MAP NAME="map1">';
-	html += '<area href="javascript:gPopInside.Show(false)" shape="rect" coords="' + (this.width - 24) + ', 0, ' + this.width + ', 18"></map>';
-	html += '<img src="' + this.imgURL + '" width="' + this.width + '" height="' + this.height + '" border="0" usemap="#map1" >';
-
-	return html;
-}
-
-function PI_Init()
-{
-	if (IE4plus || NS4 || NS6)
-	{
-		this.dv = createLayer("popinside",0,0,this.width,this.height,this.GetWindowHTML());
-		this.SetClip(0,0);
-
-		this.dvc = createLayer("popinsidecontent",0,0,this.width-4,this.height-18,this.GetContentHTML());
-
-		var loc = getObjLoc(document.images["popinsideloc"]);
-		this.dv.left = loc.left;
-		this.dv.top = loc.top;
-
-		this.dvc.left = loc.left + 0;
-		this.dvc.top = loc.top + 0;
-		if (this.CheckFrequency())
-		{
-			setTimeout("gPopInside.StartReveal()",this.showDelay);
-		}
-	}
-}
-
-function PI_StartReveal()
-{
-	showObject(this.dv);
-	this.Reveal();
-}
-
-function PI_SetClip(width,height)
-{
-	if ((IE4plus || NS6) && !(IEmac && IE4))
-		this.dv.clip = "rect(" + 0 + "px " + width + "px " + height + "px 0px)";
-	else if (NS4)
-	{
-		this.dv.clip.left = 0;
-    	this.dv.clip.right = width;
-    	this.dv.clip.top = 0;
-    	this.dv.clip.bottom = height;
-	}
-}
-
-function PI_Show(show)
-{
-	if (show)
-	{
-		showObject(this.dv);
-		showObject(this.dvc);
-	}
-	else
-	{
-		hideObject(this.dv);
-		hideObject(this.dvc);	
-	}
-}
-
-function PI_CheckFrequency()
-{
-	var shouldShow = this.frequency != 0;
-	if (this.frequency > 0)
-	{
-		var allCookies = document.cookie;
-		var start = allCookies.indexOf("PICount=");
-		if (start >= 0)
-		{
-			var end = allCookies.indexOf("/;",start);
-			if (end < 0)
-				end = allCookies.length;
-			var freqStr = allCookies.substring(start+8,end);
-			if (isInt(freqStr))
-				this.frequency = parseInt(freqStr);
-		}
-
-		if (this.frequency>0)
-			this.frequency--;
-		else
-			shouldShow = false;
-			
-		var exp = new Date();
-		exp.setTime(exp.getTime()+this.renew*60*60000);
-		document.cookie = "PICount="+this.frequency+ "; expires=" + exp.toGMTString();
-	}
-	
-	return shouldShow;
-}
-
-
-function PopInside(imageURL,width,height)
-{
-	this.steps = 20;
-	this.index = 0;
-	this.width = width;
-	this.height = height;
-	this.imgURL = imageURL;
-	this.showDelay = 2000;
-	this.autoClose = 5000;
-	this.frequency = 1; // how many times show per renewal time period
-	this.renew = 1; // renew showing every x hours
-	
-	this.dv = null;
-	this.dvc = null;
-	
-	this.SetClip = PI_SetClip;
-	this.Init = PI_Init;
-	this.Reveal = PI_Reveal;
-	this.StartReveal = PI_StartReveal;
-	this.GetWindowHTML = PI_GetWindowHTML;
-	this.GetContentHTML = PI_GetContentHTML;
-	this.Show = PI_Show;
-	this.CheckFrequency = PI_CheckFrequency;
-}
-
-function PIStart()
-{
-	gPopInside.Init();
-}
-
-SafeAddOnload(PIStart);
-
-var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
-
-</script>
 
 
 
@@ -363,7 +41,7 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 <body onmouseover="hide_Mnu()" onmouseout="hide_Mnu()" vlink="#2c237e" alink="#2c237e" link="#2c237e" topmargin="0" leftmargin="2" bgcolor="White">
 <!-- ********** Begin Main Table **************************************************************************************************************************************** -->
 
-<form method="post" action="../home/search.asp" id="form1" name="form1">
+<form method="post" action="../Home/search.asp" id="form1" name="form1">
 
 <a name="TopOfPage_BookMark"></a>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -374,17 +52,17 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 
 		<!-- ********** start of left side td *********************************************************************************************************************** -->
 		<td width="275" valign="top" nowrap="">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" background="../images/misc/snow1.gif">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td>
-						<a href="../default.asp"><img src="../images/logos/pines_logo.gif" border="0"></a>
+						<a href="http://www.allegromedical.com/default.asp"><img src="../images/webgraphics/AllegroMedical_Logo.gif" width="200" height="38" border="0"></a>
 					</td>
 
 				</tr>
 			</tbody></table>
 		</td>
 		
-<td width="100%" nowrap="" valign="Bottom" align="Center" background="../images/misc/snow1.gif"><img src="../images/webgraphics/Tab_WelcomeSet_1.gif" width="92" height="25" border="0" alt="Welcome"><a href="../resources/medsupplylinksa.asp"><img src="../images/webgraphics/Tab_WelcomeSet_2.gif" width="87" height="25" border="0" alt="Resourses"></a><a href="../Home/LiveHelp.asp"><img src="../images/webgraphics/Tab_WelcomeSet_3.gif" width="123" height="25" border="0" alt="Live Help"></a></td>
+<td width="100%" nowrap="" valign="Bottom" align="Center"><img src="../images/webgraphics/Tab_WelcomeSet_1.gif" width="92" height="25" border="0" alt="Welcome"><a href="http://www.allegromedical.com/Home/category.asp?C=540"><img src="../images/webgraphics/Tab_WheelchairSet_1.gif" width="87" height="25" border="0" alt="Wheelchairs"></a><a href="../Home/LiveHelp.asp"><img src="../images/webgraphics/Tab_WelcomeSet_3.gif" width="123" height="25" border="0" alt="Live Help"></a></td>
 
 
 		<td nowrap="" valign="Center">
@@ -408,7 +86,7 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 					<td align="right" width="100%">
 						<table width="100%">
 						<tbody><tr>
-							<td align="center"><b><font color="#DCDCE0" size="-1">FREE shipping on <u>most</u> web orders over $25 (Limited Time!) </font><a href="../home/freeshipping.asp"><font color="#ffce63" size="-1">See Details</font></a></b></td>
+							<td align="center"><b><font color="#DCDCE0" size="-1">FREE shipping on <u>most</u> web orders over $100 </font><a href="../Home/freeshipping.asp"><font color="#ffce63" size="-1">See Details</font></a></b></td>
 							<td align="left" width="105"><font color="#DCDCE0" size="-1"><b>800-861-3211</b></font><img src="../images/webgraphics/1x1trans.gif" height="1" width="2"></td>
 						</tr>
 						</tbody></table>
@@ -436,18 +114,6 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 <!--- End of what zzzzz -->
 
 
-<!---------------------------------Start Ad--------------------------------->
-<table width="100%" align="center" border="0">
-	<tbody><tr>
-		<td width="50%"></td>
-		<td width="25%"><img name="popinsideloc" src="images/spacer.gif" width="1" height="12" border="0"></td>
-		<td width="25%"></td>
-	</tr>
-</tbody></table> 
-<!---------------------------------End Ad--------------------------------->
-
-
-
 <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
 	<tbody><tr>
 
@@ -456,6 +122,396 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 			<table width="100%" border="0" cellpadding="0" cellspacing="0"> 
 			<tbody><tr>
 				<td width="170" valign="top">
+
+
+
+
+
+			<!-- ********** Shop By Brand / Manufacturer **************************************************************************************************************************** -->
+					<table width="170" border="0" cellpadding="0" cellspacing="0">			
+						<tbody><tr>
+							<td colspan="3">
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody><tr>
+										<td><form name="Manufacturer" action="ShopByManufacturer.asp"></form></td>
+									</tr>
+								
+									<tr>
+										<td><img border="0" src="../images/webgraphics/corner_left2.gif" width="5" height="22"></td>
+										<td bgcolor="#2C237E" width="100%" align="center" nowrap="">
+											<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63">Shop </font>
+											<font size="-1" color="#FFFFFF"><b><i>by</i></b></font>
+											<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63"> Brand</font>
+										</td>
+									    <td bgcolor="#2C237E" nowrap=""><img border="0" src="../images/webgraphics/1x1trans.gif" width="5"></td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+
+						<tr>
+							<td colspan="3">
+								<table border="0" cellpadding="0" cellspacing="0" class="SideMenuBox" width="100%">
+									<tbody><tr class="SideMenuBox">
+										<td nowrap="" class="SideMenuText">
+											<select name="M" onchange="document.Manufacturer.submit()">
+												<option value="0">Pick a Brand
+						          </option><option value="14887">3M™
+          </option><option value="14889">A+ Medical
+          </option><option value="15579">Access Able
+          </option><option value="15629">Accessible Environ.
+          </option><option value="15641">AccuTech
+          </option><option value="15502">Active Ankle
+          </option><option value="14894">ActiveAid
+          </option><option value="15593">ADC
+          </option><option value="15617">Advent
+          </option><option value="15322">Aftermarket Group
+          </option><option value="15503">Aircast
+          </option><option value="14897">Alba Health
+          </option><option value="15590">AliMed
+          </option><option value="14901">Allegiance (Baxter)
+          </option><option value="15717">Amigo
+          </option><option value="14908">Apex (Enablers)
+          </option><option value="15645">AquaJogger
+          </option><option value="15211">Attends (Paper Pak)
+          </option><option value="15609">Audiovox
+          </option><option value="14917">Avery Publishing
+          </option><option value="14918">B. Braun (Askina)
+          </option><option value="15506">Baby Jogger
+          </option><option value="15507">Back Huggar
+          </option><option value="14919">Ballard
+          </option><option value="14921">Bard
+          </option><option value="14924">Bardia
+          </option><option value="14925">Battle Creek®
+          </option><option value="14926">Battlecreek /Hunter
+          </option><option value="15630">Bauerfeind 
+          </option><option value="14927">Baxter
+          </option><option value="14929">Bayer  Diagnostics
+          </option><option value="14934">Becton-Dickinson
+          </option><option value="14936">Beiersdorf-Jobst
+          </option><option value="15618">Beltronics
+          </option><option value="14937">Bertek 
+          </option><option value="14939">BioCore (Kollagen)
+          </option><option value="15628">BioMedical Life
+          </option><option value="14940">Birchwood Labs
+          </option><option value="15509">BISSELL
+          </option><option value="15510">Black &amp; Decker
+          </option><option value="14942">Blairex Labs
+          </option><option value="15649">Bodyline
+          </option><option value="15712">Boost
+          </option><option value="15511">Boppy
+          </option><option value="14947">Braun
+          </option><option value="14949">Calmoseptine
+          </option><option value="14951">Can-Am Care Corp.
+          </option><option value="15713">Carnation
+          </option><option value="15512">Carpal Lock
+          </option><option value="15513">Carrie
+          </option><option value="14956">Carrington Labs
+          </option><option value="15615">Casio
+          </option><option value="14957">Chattanooga Group
+          </option><option value="15515">Cho-Pat
+          </option><option value="14959">Chronimed
+          </option><option value="15599">Citizen
+          </option><option value="15650">CMO
+          </option><option value="15604">Cobra Electronics
+          </option><option value="15600">Coby
+          </option><option value="14963">Coloplast/Sween
+          </option><option value="14965">Colours
+          </option><option value="15689">ColPaC
+          </option><option value="15594">Conair®
+          </option><option value="14967">ConMed 
+          </option><option value="14968">Consolidated
+          </option><option value="14969">Consumers Choice
+          </option><option value="14973">ConvaTec®
+          </option><option value="15551">Crocker Holdings
+          </option><option value="14976">Cymed
+          </option><option value="14978">Dale® Medical
+          </option><option value="15722">Dana Douglas
+          </option><option value="15067">Dansac
+          </option><option value="14981">DermaSciences
+          </option><option value="14982">DeRoyal
+          </option><option value="15657">Detecto
+          </option><option value="14985">Dewitt
+          </option><option value="15612">Digital Innovations
+          </option><option value="14986">Disetronics-USA
+          </option><option value="15659">DJ Orthopedics
+          </option><option value="15694">DURA-STICK
+          </option><option value="14990">Duro-Med
+          </option><option value="14993">Dynarex
+          </option><option value="15654">Dynatronics
+          </option><option value="14913">E-Z Reacher
+          </option><option value="15518">Earthlite
+          </option><option value="15263">Easy Pivot/Stature
+          </option><option value="14902">Easy Stand
+          </option><option value="15520">Eggcrate
+          </option><option value="14998">Electro-Dyn Elect.
+          </option><option value="15000">ELUDE Gear
+          </option><option value="15325">Emergency Caller
+          </option><option value="14979">Empi
+          </option><option value="15002">Encore
+          </option><option value="15707">Enfamil
+          </option><option value="15708">Ensure
+          </option><option value="15522">EpiPoint
+          </option><option value="15627">Ergonomic Aids Inc.
+          </option><option value="15004">Everest &amp; Jennings
+          </option><option value="15006">Ferndale Labs
+          </option><option value="15007">Ferris
+          </option><option value="15705">Fitball
+          </option><option value="15011">FNC Medical
+          </option><option value="15013">Fougera
+          </option><option value="15602">Fujifilm
+          </option><option value="15584">Garmin
+          </option><option value="15022">Gaymar Industries
+          </option><option value="15619">General Electric
+          </option><option value="15023">General Medical
+          </option><option value="15592">Gentell
+          </option><option value="15711">Glucerna
+          </option><option value="15026">Golden
+          </option><option value="15029">Graham Field
+          </option><option value="15030">Grant
+          </option><option value="15562">Grasshopper
+          </option><option value="15033">Greenwald Surgical
+          </option><option value="15036">Hardwood Products
+          </option><option value="15037">Harvy
+          </option><option value="15038">Hatch
+          </option><option value="15591">Health Enterprises
+          </option><option value="15039">Health O Meter
+          </option><option value="15576">Healthline
+          </option><option value="15042">Healthpoint
+          </option><option value="15528">Heelbo
+          </option><option value="15529">Heelift
+          </option><option value="15043">Hermell Products
+          </option><option value="15044">Hermitage
+          </option><option value="15046">Hollister
+          </option><option value="15048">Home Diagnostics
+          </option><option value="15049">Homecare
+          </option><option value="15051">HoMedics®
+          </option><option value="15053">Honeywell
+          </option><option value="15054">Hosposable
+          </option><option value="15690">HotPac
+          </option><option value="15057">Hudson Medical
+          </option><option value="15058">Hudson RCI
+          </option><option value="15666">Huggies
+          </option><option value="15060">Humanicare
+          </option><option value="15063">Huntleigh
+          </option><option value="15660">Injex
+          </option><option value="15693">Intelect
+          </option><option value="15069">Invacare
+          </option><option value="15607">Jazz
+          </option><option value="15077">Johnson &amp; Johnson
+          </option><option value="15080">Jordan Enterprises
+          </option><option value="15083">Kendall
+          </option><option value="15533">Kettrike
+          </option><option value="15086">Kimberly Clark
+          </option><option value="15088">Knoll
+          </option><option value="15611">Konica
+          </option><option value="15089">Labtron
+          </option><option value="15090">Lehman Confections
+          </option><option value="15633">Life-Tech
+          </option><option value="15092">LifeScan
+          </option><option value="15671">LMA
+          </option><option value="15098">Lumiscope
+          </option><option value="15099">M. C. Johnson
+          </option><option value="15101">Maddak
+          </option><option value="15623">Magnavox
+          </option><option value="15535">Malleoloc
+          </option><option value="15102">Mallinckrodt
+          </option><option value="15104">Maril Products
+          </option><option value="15105">Mark Clark
+          </option><option value="15106">Marlen
+          </option><option value="15107">Marpac Inc.
+          </option><option value="15109">Mason Labs
+          </option><option value="15110">Mason Medical
+          </option><option value="15625">Maxell
+          </option><option value="15536">McKenzie
+          </option><option value="15667">Mead Johnson
+          </option><option value="15716">Med-Lift
+          </option><option value="15122">Med. Disposables
+          </option><option value="15114">Medela
+          </option><option value="15117">Medical Action
+          </option><option value="15119">Medical Devices
+          </option><option value="15123">Medical Marketing
+          </option><option value="15124">Medical Solutions
+          </option><option value="15125">Medical World
+          </option><option value="15127">Medicool
+          </option><option value="15128">Mediflow
+          </option><option value="15129">Mediject Derata
+          </option><option value="15131">MediSense®
+          </option><option value="15132">Medisource
+          </option><option value="15324">Medline
+          </option><option value="15134">Medmart
+          </option><option value="15136">Medport Inc.
+          </option><option value="15137">Mentor
+          </option><option value="15538">Midland
+          </option><option value="15673">MiniMed
+          </option><option value="15143">MK Battery
+          </option><option value="15145">Mobility Transfer
+          </option><option value="15146">Molnlycke
+          </option><option value="15614">Motorla
+          </option><option value="15150">MPM Medical
+          </option><option value="15151">N/R Laboratories
+          </option><option value="15154">Natural Access
+          </option><option value="15696">Nautilus
+          </option><option value="15155">NCM
+          </option><option value="15156">NDL Products
+          </option><option value="15714">Neocate
+          </option><option value="15668">Nestle
+          </option><option value="15317">New Life Tech.
+          </option><option value="15610">Night Owl Optics
+          </option><option value="15580">Nite Train"R
+          </option><option value="15166">Novartis (Sandoz)
+          </option><option value="15167">NuHope
+          </option><option value="15169">Nytone Medical
+          </option><option value="15539">ObusForme
+          </option><option value="15170">Omron (Marshall)
+          </option><option value="15695">OptiFlex
+          </option><option value="15173">Oral B
+          </option><option value="15310">Ortho Kinetics
+          </option><option value="15177">Owen-Mumford
+          </option><option value="15601">Panasonic
+          </option><option value="15179">Parker Labs
+          </option><option value="15180">Parthenon
+          </option><option value="15181">PatientGuard
+          </option><option value="15182">PCP
+          </option><option value="15183">PDI
+          </option><option value="15540">Pedalo
+          </option><option value="15710">Pediasure
+          </option><option value="15185">Pedifix®
+          </option><option value="15606">Performance 
+          </option><option value="15186">Perma-Type
+          </option><option value="15188">PET
+          </option><option value="15191">Pillow Place
+          </option><option value="15541">Plastazote
+          </option><option value="15313">Polar
+          </option><option value="15194">Pollenex
+          </option><option value="15198">Posey®
+          </option><option value="15639">Prairie View
+          </option><option value="15199">Precision Dynamics
+          </option><option value="15200">Premium Plastics
+          </option><option value="15646">Prevail (First Quality)
+          </option><option value="15206">Priorities
+          </option><option value="15208">Priva
+          </option><option value="15543">Proflex
+          </option><option value="15597">PSC
+          </option><option value="15585">Push Ease
+          </option><option value="15214">Quickie
+          </option><option value="15586">Rand-Scot, Inc.
+          </option><option value="15315">RD Equipment
+          </option><option value="15217">Rehab Plus
+          </option><option value="15577">Remington
+          </option><option value="15219">Respironics 
+          </option><option value="15220">Rinz-L-O Pillow
+          </option><option value="15573">Roche Diagnostics
+          </option><option value="15222">Rochester Medical
+          </option><option value="15225">ROHO
+          </option><option value="15687">Roll-A-Ramp
+          </option><option value="15226">Roloke
+          </option><option value="15227">Ross
+          </option><option value="15546">Rover
+          </option><option value="15229">Rubbermaid®
+          </option><option value="15231">Rusch
+          </option><option value="15234">Sage
+          </option><option value="15236">Salk
+          </option><option value="15631">Salter Labs
+          </option><option value="15237">Samhall
+          </option><option value="15603">Samsung
+          </option><option value="15651">Saunders
+          </option><option value="15588">Schuerch Corp.
+          </option><option value="15678">Schwinn
+          </option><option value="15715">Scientific Hospital
+          </option><option value="15242">Scott Health Care
+          </option><option value="15243">Scott Specialties
+          </option><option value="15248">Sheepskin Ranch
+          </option><option value="15249">Shelton Medical
+          </option><option value="15581">Siemens
+          </option><option value="15253">Sierra Laboratories
+          </option><option value="15254">Sigvaris
+          </option><option value="15552">Silipos
+          </option><option value="15635">Silver Star
+          </option><option value="15709">Similac
+          </option><option value="15257">Smith &amp; Nephew®
+          </option><option value="15661">Sonic Alert
+          </option><option value="15608">Sony
+          </option><option value="15259">Southwest Tech.
+          </option><option value="15688">Spectrum
+          </option><option value="15260">Spenco Products
+          </option><option value="15574">Spinergy
+          </option><option value="15683">SportsArt
+          </option><option value="15556">Spring Balls
+          </option><option value="15686">StairMaster
+          </option><option value="15268">Suburban Ostomy
+          </option><option value="15270">Sunbeam®-Oster®
+          </option><option value="15272">Sunrise Medical
+          </option><option value="15273">Superior Surgical
+          </option><option value="15274">Swiss-American
+          </option><option value="15275">Sydsons
+          </option><option value="14997">T.G. Eakin
+          </option><option value="15587">Tadpole
+          </option><option value="15276">TAGG Industries
+          </option><option value="15316">Tanita
+          </option><option value="15277">TEMCO
+          </option><option value="15583">Tena (SCA)
+          </option><option value="15652">Thera-Band
+          </option><option value="15281">Theradyne®
+          </option><option value="15632">TheraSense
+          </option><option value="15692">Theratherm
+          </option><option value="15282">Thermoscan
+          </option><option value="15285">Tillotson Healthcare
+          </option><option value="15286">Timm (Osbon)
+          </option><option value="15311">TiSport
+          </option><option value="15287">Top End Invacare
+          </option><option value="15289">Torbot Company
+          </option><option value="15613">Toshiba
+          </option><option value="15290">Trademark Medical
+          </option><option value="15205">Tranquility
+          </option><option value="15558">TriStander
+          </option><option value="15294">Tubular Fabricators
+          </option><option value="15295">TuffCare
+          </option><option value="15560">Tumble Forms
+          </option><option value="15640">Uneek Concepts
+          </option><option value="15297">Uni-Patch
+          </option><option value="15605">Uniden
+          </option><option value="15589">Universal Caddy
+          </option><option value="15637">Uplift Technologies
+          </option><option value="15563">Urias
+          </option><option value="15298">Urocare
+          </option><option value="15312">USA Totes
+          </option><option value="15644">Varilite
+          </option><option value="15300">Varta Batteries Inc.
+          </option><option value="15595">Veridien
+          </option><option value="15697">Versa Bath
+          </option><option value="15566">Versa Form
+          </option><option value="15301">Victor Medical
+          </option><option value="15302">Vital Signs
+          </option><option value="15304">VPI
+          </option><option value="15306">Waterbury
+          </option><option value="15582">WCs of Kansas
+          </option><option value="15596">Western Medical
+          </option><option value="15571">Whirlpool
+          </option><option value="15616">Wilson
+          </option><option value="15309">WR Medical
+          </option><option value="15572">Zim
+
+											</option></select>
+										</td>
+									
+									</tr>
+								</tbody></table>
+
+							</td>
+						</tr>
+					</tbody></table>
+
+						
+
+<table width="1" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img src="../images/webgraphics/1x1trans.gif" height="6" width="1"></td>
+	</tr>							
+</tbody></table>
+
+
+
 
 <!-- **********  Shop by Category  ************************************************************************************************************************** -->
 
@@ -507,7 +563,7 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 
 									<tr class="SideMenuBox">
 										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Diabetes Care" href="../Home/category.asp?C=520">Diabetes Care</a></td>
+										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Diabetes Care/Sharps" href="../Home/category.asp?C=520">Diabetes Care/Sharps</a></td>
 										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
 									</tr>
 
@@ -525,13 +581,13 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 
 									<tr class="SideMenuBox">
 										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Electrotherapy" href="../Home/category.asp?C=561">Electrotherapy</a></td>
+										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Electrotherapy/Ultrasound" href="../Home/category.asp?C=561">Electrotherapy/Ultrasound</a></td>
 										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
 									</tr>
 
 									<tr class="SideMenuBox">
 										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Exercise Therapy" href="../Home/category.asp?C=523">Exercise Therapy</a></td>
+										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Exercise/Fitness" href="../Home/category.asp?C=523">Exercise/Fitness</a></td>
 										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
 									</tr>
 
@@ -684,381 +740,18 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 
 
 
-			<!-- ********** Shop By Manufacturer **************************************************************************************************************************** -->
-					<table width="170" border="0" cellpadding="0" cellspacing="0">			
-						<tbody><tr>
-							<td colspan="3">
-								<table border="0" cellpadding="0" cellspacing="0" width="100%">
-									<tbody><tr>
-										<td><form name="Manufacturer" action="ShopByManufacturer.asp"></form></td>
-									</tr>
-								
-									<tr>
-										<td><img border="0" src="../images/webgraphics/corner_left2.gif" width="5" height="22"></td>
-										<td bgcolor="#2C237E" width="100%" align="center" nowrap="">
-											<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63">Shop </font>
-											<font size="-1" color="#FFFFFF"><b><i>by</i></b></font>
-											<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63"> Brand</font>
-										</td>
-									    <td bgcolor="#2C237E" nowrap=""><img border="0" src="../images/webgraphics/1x1trans.gif" width="5"></td>
-									</tr>
-								</tbody></table>
-							</td>
-						</tr>
-
-						<tr>
-							<td colspan="3">
-								<table border="0" cellpadding="0" cellspacing="0" class="SideMenuBox" width="100%">
-									<tbody><tr class="SideMenuBox">
-										<td nowrap="" class="SideMenuText">
-											<select name="M" onchange="document.Manufacturer.submit()">
-												<option value="0">Pick a Brand
-						          </option><option value="14887">3M™
-          </option><option value="14889">A+ Medical
-          </option><option value="15579">Access Able
-          </option><option value="15629">Accessible Environ.
-          </option><option value="15641">AccuTech
-          </option><option value="15502">Active Ankle
-          </option><option value="14894">ActiveAid
-          </option><option value="15593">ADC
-          </option><option value="15617">Advent
-          </option><option value="15322">Aftermarket Group
-          </option><option value="15503">Aircast
-          </option><option value="14897">Alba Health
-          </option><option value="15590">AliMed
-          </option><option value="14901">Allegiance (Baxter)
-          </option><option value="14908">Apex (Enablers)
-          </option><option value="15645">AquaJogger
-          </option><option value="15211">Attends (Paper Pak)
-          </option><option value="15609">Audiovox
-          </option><option value="14917">Avery Publishing
-          </option><option value="14918">B. Braun (Askina)
-          </option><option value="15506">Baby Jogger
-          </option><option value="15507">Back Huggar
-          </option><option value="14919">Ballard
-          </option><option value="14921">Bard
-          </option><option value="14924">Bardia
-          </option><option value="14925">Battle Creek®
-          </option><option value="14926">Battlecreek /Hunter
-          </option><option value="15630">Bauerfeind 
-          </option><option value="14927">Baxter
-          </option><option value="14929">Bayer  Diagnostics
-          </option><option value="14934">Becton-Dickinson
-          </option><option value="14936">Beiersdorf-Jobst
-          </option><option value="15618">Beltronics
-          </option><option value="14937">Bertek 
-          </option><option value="14939">BioCore (Kollagen)
-          </option><option value="15628">BioMedical Life
-          </option><option value="14940">Birchwood Labs
-          </option><option value="15509">BISSELL
-          </option><option value="15510">Black &amp; Decker
-          </option><option value="14942">Blairex Labs
-          </option><option value="15649">Bodyline
-          </option><option value="15511">Boppy
-          </option><option value="14947">Braun
-          </option><option value="14949">Calmoseptine
-          </option><option value="14951">Can-Am Care Corp.
-          </option><option value="15512">Carpal Lock
-          </option><option value="15513">Carrie
-          </option><option value="14956">Carrington Labs
-          </option><option value="15615">Casio
-          </option><option value="14957">Chattanooga Group
-          </option><option value="15515">Cho-Pat
-          </option><option value="14959">Chronimed
-          </option><option value="15599">Citizen
-          </option><option value="15650">CMO
-          </option><option value="15604">Cobra Electronics
-          </option><option value="15600">Coby
-          </option><option value="14963">Coloplast/Sween
-          </option><option value="14965">Colours
-          </option><option value="15594">Conair®
-          </option><option value="14967">ConMed 
-          </option><option value="14968">Consolidated
-          </option><option value="14969">Consumers Choice
-          </option><option value="14973">ConvaTec®
-          </option><option value="15551">Crocker Holdings
-          </option><option value="14976">Cymed
-          </option><option value="14978">Dale® Medical
-          </option><option value="15067">Dansac
-          </option><option value="14981">DermaSciences
-          </option><option value="14982">DeRoyal
-          </option><option value="15657">Detecto
-          </option><option value="14985">Dewitt
-          </option><option value="15612">Digital Innovations
-          </option><option value="14986">Disetronics-USA
-          </option><option value="15659">DJ Orthopedics
-          </option><option value="14990">Duro-Med
-          </option><option value="14993">Dynarex
-          </option><option value="15654">Dynatronics
-          </option><option value="14913">E-Z Reacher
-          </option><option value="15518">Earthlite
-          </option><option value="15263">Easy Pivot/Stature
-          </option><option value="14902">Easy Stand
-          </option><option value="15520">Eggcrate
-          </option><option value="14998">Electro-Dyn Elect.
-          </option><option value="15000">ELUDE Gear
-          </option><option value="15325">Emergency Caller
-          </option><option value="14979">Empi
-          </option><option value="15002">Encore
-          </option><option value="15522">EpiPoint
-          </option><option value="15660">Equidyne
-          </option><option value="15627">Ergonomic Aids Inc.
-          </option><option value="15004">Everest &amp; Jennings
-          </option><option value="15006">Ferndale Labs
-          </option><option value="15007">Ferris
-          </option><option value="15011">FNC Medical
-          </option><option value="15013">Fougera
-          </option><option value="15602">Fujifilm
-          </option><option value="15584">Garmin
-          </option><option value="15022">Gaymar Industries
-          </option><option value="15619">General Electric
-          </option><option value="15023">General Medical
-          </option><option value="15592">Gentell
-          </option><option value="15026">Golden Tech.
-          </option><option value="15029">Graham Field
-          </option><option value="15030">Grant
-          </option><option value="15562">Grasshopper
-          </option><option value="15033">Greenwald Surgical
-          </option><option value="15034">Gricks
-          </option><option value="15036">Hardwood Products
-          </option><option value="15037">Harvy
-          </option><option value="15038">Hatch
-          </option><option value="15591">Health Enterprises
-          </option><option value="15039">Health O Meter
-          </option><option value="15576">Healthline
-          </option><option value="15042">Healthpoint
-          </option><option value="15528">Heelbo
-          </option><option value="15529">Heelift
-          </option><option value="15043">Hermell Products
-          </option><option value="15044">Hermitage
-          </option><option value="15046">Hollister
-          </option><option value="15048">Home Diagnostics
-          </option><option value="15049">Homecare
-          </option><option value="15051">HoMedics®
-          </option><option value="15053">Honeywell
-          </option><option value="15054">Hosposable
-          </option><option value="15057">Hudson Medical
-          </option><option value="15058">Hudson RCI
-          </option><option value="15666">Huggies
-          </option><option value="15060">Humanicare
-          </option><option value="15063">Huntleigh
-          </option><option value="15069">Invacare
-          </option><option value="15607">Jazz
-          </option><option value="15077">Johnson &amp; Johnson
-          </option><option value="15080">Jordan Enterprises
-          </option><option value="15083">Kendall
-          </option><option value="15533">Kettrike
-          </option><option value="15086">Kimberly Clark
-          </option><option value="15088">Knoll
-          </option><option value="15611">Konica
-          </option><option value="15089">Labtron
-          </option><option value="15090">Lehman Confections
-          </option><option value="15633">Life-Tech
-          </option><option value="15092">LifeScan
-          </option><option value="15098">Lumiscope
-          </option><option value="15099">M. C. Johnson
-          </option><option value="15101">Maddak
-          </option><option value="15623">Magnavox
-          </option><option value="15535">Malleoloc
-          </option><option value="15102">Mallinckrodt
-          </option><option value="15104">Maril Products
-          </option><option value="15105">Mark Clark
-          </option><option value="15106">Marlen
-          </option><option value="15107">Marpac Inc.
-          </option><option value="15109">Mason Labs
-          </option><option value="15110">Mason Medical
-          </option><option value="15625">Maxell
-          </option><option value="15536">McKenzie
-          </option><option value="15667">Mead Johnson
-          </option><option value="15122">Med. Disposables
-          </option><option value="15114">Medela
-          </option><option value="15117">Medical Action
-          </option><option value="15119">Medical Devices
-          </option><option value="15123">Medical Marketing
-          </option><option value="15124">Medical Solutions
-          </option><option value="15125">Medical World
-          </option><option value="15127">Medicool
-          </option><option value="15128">Mediflow
-          </option><option value="15129">Mediject Derata
-          </option><option value="15131">MediSense®
-          </option><option value="15132">Medisource
-          </option><option value="15324">Medline
-          </option><option value="15134">Medmart
-          </option><option value="15136">Medport Inc.
-          </option><option value="15137">Mentor
-          </option><option value="15538">Midland
-          </option><option value="15143">MK Battery
-          </option><option value="15145">Mobility Transfer
-          </option><option value="15146">Molnlycke
-          </option><option value="15614">Motorla
-          </option><option value="15150">MPM Medical
-          </option><option value="15151">N/R Laboratories
-          </option><option value="15154">Natural Access
-          </option><option value="15155">NCM
-          </option><option value="15156">NDL Products
-          </option><option value="15668">Nestle
-          </option><option value="15317">New Life Tech.
-          </option><option value="15610">Night Owl Optics
-          </option><option value="15580">Nite Train'R
-          </option><option value="15638">No Boundaries
-          </option><option value="15166">Novartis (Sandoz)
-          </option><option value="15167">NuHope
-          </option><option value="15169">Nytone Medical
-          </option><option value="15539">ObusForme
-          </option><option value="15170">Omron (Marshall)
-          </option><option value="15173">Oral B
-          </option><option value="15310">Ortho Kinetics
-          </option><option value="15177">Owen-Mumford
-          </option><option value="15601">Panasonic
-          </option><option value="15179">Parker Labs
-          </option><option value="15180">Parthenon
-          </option><option value="15181">PatientGuard
-          </option><option value="15182">PCP
-          </option><option value="15183">PDI
-          </option><option value="15540">Pedalo
-          </option><option value="15185">Pedifix®
-          </option><option value="15606">Performance 
-          </option><option value="15186">Perma-Type
-          </option><option value="15188">PET
-          </option><option value="15189">Physio Control
-          </option><option value="15191">Pillow Place
-          </option><option value="15541">Plastazote
-          </option><option value="15313">Polar
-          </option><option value="15194">Pollenex
-          </option><option value="15198">Posey®
-          </option><option value="15639">Prairie View
-          </option><option value="15199">Precision Dynamics
-          </option><option value="15200">Premium Plastics
-          </option><option value="15646">Prevail (First Quality)
-          </option><option value="15201">Pride
-          </option><option value="15206">Priorities
-          </option><option value="15208">Priva
-          </option><option value="15543">Proflex
-          </option><option value="15597">PSC
-          </option><option value="15585">Push Ease
-          </option><option value="15214">Quickie
-          </option><option value="15586">Rand-Scot, Inc.
-          </option><option value="15315">RD Equipment
-          </option><option value="15217">Rehab Plus
-          </option><option value="15577">Remington
-          </option><option value="15219">Respironics 
-          </option><option value="15220">Rinz-L-O Pillow
-          </option><option value="15573">Roche Diagnostics
-          </option><option value="15222">Rochester Medical
-          </option><option value="15225">ROHO
-          </option><option value="15226">Roloke
-          </option><option value="15227">Ross
-          </option><option value="15546">Rover
-          </option><option value="15229">Rubbermaid®
-          </option><option value="15231">Rusch
-          </option><option value="15234">Sage
-          </option><option value="15236">Salk
-          </option><option value="15631">Salter Labs
-          </option><option value="15237">Samhall
-          </option><option value="15238">Sammons Preston
-          </option><option value="15603">Samsung
-          </option><option value="15651">Saunders
-          </option><option value="15588">Schuerch Corp.
-          </option><option value="15242">Scott Health Care
-          </option><option value="15243">Scott Specialties
-          </option><option value="15248">Sheepskin Ranch
-          </option><option value="15249">Shelton Medical
-          </option><option value="15581">Siemens
-          </option><option value="15253">Sierra Laboratories
-          </option><option value="15254">Sigvaris
-          </option><option value="15552">Silipos
-          </option><option value="15635">Silver Star
-          </option><option value="15257">Smith &amp; Nephew®
-          </option><option value="15661">Sonic Alert
-          </option><option value="15608">Sony
-          </option><option value="15259">Southwest Tech.
-          </option><option value="15260">Spenco Products
-          </option><option value="15574">Spinergy
-          </option><option value="15556">Spring Balls
-          </option><option value="15268">Suburban Ostomy
-          </option><option value="15270">Sunbeam®-Oster®
-          </option><option value="15272">Sunrise Medical
-          </option><option value="15273">Superior Surgical
-          </option><option value="15274">Swiss-American
-          </option><option value="15275">Sydsons
-          </option><option value="14997">T.G. Eakin
-          </option><option value="15587">Tadpole
-          </option><option value="15276">TAGG Industries
-          </option><option value="15316">Tanita
-          </option><option value="15277">TEMCO
-          </option><option value="15583">Tena (SCA)
-          </option><option value="15652">Thera-Band
-          </option><option value="15281">Theradyne®
-          </option><option value="15632">TheraSense
-          </option><option value="15282">Thermoscan
-          </option><option value="15285">Tillotson Healthcare
-          </option><option value="15286">Timm (Osbon)
-          </option><option value="15311">TiSport
-          </option><option value="15287">Top End Invacare
-          </option><option value="15289">Torbot Company
-          </option><option value="15613">Toshiba
-          </option><option value="15290">Trademark Medical
-          </option><option value="15205">Tranquility
-          </option><option value="15558">TriStander
-          </option><option value="15294">Tubular Fabricators
-          </option><option value="15295">TuffCare
-          </option><option value="15560">Tumble Forms
-          </option><option value="15640">Uneek Concepts
-          </option><option value="15297">Uni-Patch
-          </option><option value="15605">Uniden
-          </option><option value="15589">Universal Caddy
-          </option><option value="15637">Uplift Technologies
-          </option><option value="15563">Urias
-          </option><option value="15298">Urocare
-          </option><option value="15312">USA Totes
-          </option><option value="15644">Varilite
-          </option><option value="15300">Varta Batteries Inc.
-          </option><option value="15595">Veridien
-          </option><option value="15566">Versa Form
-          </option><option value="15301">Victor Medical
-          </option><option value="15302">Vital Signs
-          </option><option value="15304">VPI
-          </option><option value="15306">Waterbury
-          </option><option value="15582">WCs of Kansas
-          </option><option value="15596">Western Medical
-          </option><option value="15571">Whirlpool
-          </option><option value="15616">Wilson
-          </option><option value="15309">WR Medical
-          </option><option value="15572">Zim
-
-											</option></select>
-											<input type="Submit" name="" value="»">
-										</td>
-									
-									</tr>
-								</tbody></table>
-
-							</td>
-						</tr>
-					</tbody></table>
-
-						
-
-<table width="1" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="../images/webgraphics/1x1trans.gif" height="6" width="1"></td>
-	</tr>							
-</tbody></table>
-
-
-
-	  <table width="150" border="0" cellpadding="0" cellspacing="0">
+	  <table width="170" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-		
-		    <td bgcolor="#2C237E" nowrap=""><img src="../images/webgraphics/1x1trans.gif" width="5" border="0" height="22"></td>
+			<td><img border="0" src="../images/webgraphics/corner_left2.gif" width="5"></td>
+		    
 		    <td bgcolor="#2C237E" width="100%" align="center" nowrap="">
 				<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63">FREE eCatalog</font>
-		    </td><td><img border="0" src="../images/webgraphics/corner_right2.gif" width="5"></td>
+		    </td><td bgcolor="#2C237E" nowrap=""><img src="../images/webgraphics/1x1trans.gif" width="5" border="0" height="22"></td>
 		</tr> 
 		</tbody></table>
 		
 		
-		<table width="150" border="0" cellpadding="0" cellspacing="0" class="SideMenuBox">				  
+		<table width="170" border="0" cellpadding="0" cellspacing="0" class="SideMenuBox">				  
 		<tbody><tr class="SideMenuBox">
 			<td><img src="../images/webgraphics/1x1trans.gif" width="5" border="0"></td>
 			<td width="100%" align="center" nowrap="">
@@ -1169,7 +862,40 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
                                 or phone number.
 								</font></td>
 							</tr>
-						</tbody></table>
+							<tr>
+								<td>
+		<p>&nbsp;
+		</p><h4><center>Important Message to All Our Customers effective April 14, 2003</center></h4>
+
+<center><h6><font color="Gray">PRIVACY NOTICE Version 1.0 - April 14, 2003</font></h6></center>
+<hr style="color: #000080">
+<font size="-1">Keeping your personal information confidential is a top priority for all Allegro Medical employees.  This Notice, which is required by state and federal law, explains our Privacy Policy.
+
+<ol><li>We will safeguard, according to strict standards of security and confidentiality, nonpublic, personal information our customers or representatives of our customers share with us.  "Nonpublic, personal information," for example, would include such information as your name, address, telephone number, social security number, date of birth, Website usage either online or on applications and other forms, and medical information.  We will maintain safeguards, physical and electronic, to protect that information.  We will conduct our business in a manner that keeps personal customer information secure.
+<p>
+</p></li><li>We will limit the collection and use of customer information to the minimum we require to deliver superior service and to administer our business.  We collect personal information about customers from the following sources:
+<p>
+</p><ul><li>From your inquiries to Allegro via phone, facsimile, Email, mail courier, or our Website;
+</li><li>From your transactions with us, our web-affiliates or others; and
+</li><li>From your transactions with non-affiliated third parties.</li></ul>
+<p>
+</p></li><li>It is our policy that only authorized Allegro Medical employees who need to know your personal information will access and use it.  Allegro Medical may contact you regarding fund solicitation, sales, or product deliveries.  Allegro Medical workers who violate our Privacy Policies are subject to the disciplinary process.
+<p>
+</p></li><li>It is our policy that we will not share personal customer information (either current or former customers), outside Allegro Medical for any purpose other than to facilitate payment for services rendered either to the customers' insurance companies or to collection agencies, unless the disclosure has been authorized by the customer or is permitted or required by law.
+<p>
+</p></li><li>Whenever we retain other organizations to provide support services on behalf of Allegro Medical, we will require them to protect customers' personal information.
+<p>
+</p></li><li>To help us keep your customer information up-to-date and accurate, please contact Allegro Medical if there is any change in your personal information.
+<p>
+</p></li><li>When necessary, we will review and revise our Privacy Policies to protect customer information.
+<p>
+</p></li><li>You can decide if you want to limit how we share personal information about you with unaffiliated third parties.  If you do not want us to share your personal information or you would like to amend your personal information, telephone us at 1-800-861-3211, or 480-990-8881 if you are located in the Phoenix Metro Area.  If you prefer, please write to:  Allegro Medical, ATTN: Privacy Policy Administrator, 1733 E. McKellips Rd., #110, Tempe, AZ  85281.
+<p>
+</p></li><li>If you feel your privacy rights have been violated, call 1-866-282-0659.
+</li></ol></font>
+		</td>
+	</tr>
+</tbody></table>
 
 <hr size="1" color="#2C237E">
 
@@ -1196,12 +922,11 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 				<a href="../Home/Privacy_Policy.asp">Privacy Policy</a> &nbsp;|&nbsp;
 				<a href="../Home/Legal.asp">Terms of Use</a>
 			</font><br>
-			<font color="#996633" size="-2">Copyright© 1996-2002 Allegro Medical</font>
+			<font color="#996633" size="-2">Copyright© 1996-2003 Allegro Medical</font>
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td align="center">
-		<a href="javascript:Certify('http://www.bbbonline.org/r.cfm?ID=1126000914');">
-		<img src="../images/webgraphics/reli6.gif" alt="BBBOnLine Reliability Seal" width="90" height="31" border="0"></a>
+		
 		</td>
 		<td align="center">
 		<a href="http://www.medexplorer.com">
@@ -1231,8 +956,7 @@ var gPopInside = new PopInside("../images/Misc/25d.gif",255,255);
 	</tr>
 </tbody></table>
 
-<br>
-<font color="White">Came from: " &amp; </font>
+
 
 
 
