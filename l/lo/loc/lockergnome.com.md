@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627015616id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208160805id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Policy - Your Top Technology Resource
 
@@ -67,3 +67,5 @@ Lockergnome
 18034 Ventura Blvd, #415   
 Encino, CA 91316-3516   
 1.888.472.0483 
+
+**Convert Vinyl LPs and Cassettes to CD or MP3!** Records and cassettes deteriorate over time. Many recordings have never been re-released on CD. [Learn how to convert records and cassettes to CD, MP3, or WMA](http://go.lockergnome.com/501) using this definitive guide. Your PC and home stereo are the only hardware required! Walk through each step, first connecting your PC and stereo using only one cable and following [step-by-step instructions](http://go.lockergnome.com/501) to get perfect recordings of your favorite songs. [Start preserving your music](http://go.lockergnome.com/501) investment today! 
