@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216023232id_/http%3A//www.photoworks.com/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622053441id_/http%3A//www.photoworks.com/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
