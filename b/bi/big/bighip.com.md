@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighip.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023242id_/http%3A//bighip.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighip.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605115519id_/http%3A//bighip.com/privacy.htm) for the most accurate reproduction.*
 
 # Big Hip: E-Business Marketing that Pushes the Envelope
 
