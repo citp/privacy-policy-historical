@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obtampons.ca privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619113848id_/http%3A//www.obtampons.ca/en/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obtampons.ca privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204174005id_/http%3A//www.obtampons.ca/en/privacy.asp) for the most accurate reproduction.*
 
 # o.b.® - know yourself (TM)
 
@@ -65,11 +65,11 @@ This site may contain links or references to other Web sites. Please be aware th
 
  **Other Terms**
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20040619113848id_/http%3A//www.obtampons.ca/en/legal.asp).
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20041204174005id_/http%3A//www.obtampons.ca/en/legal.asp).
 
  **How to Contact Us**
 
-If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please [contact us ](https://web.archive.org/web/20040619113848id_/http%3A//www.obtampons.ca/en/questions-contact.asp)
+If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please [contact us ](https://web.archive.org/web/20041204174005id_/http%3A//www.obtampons.ca/en/questions-contact.asp)
 
 **Changes to This Privacy Policy** ****
 
