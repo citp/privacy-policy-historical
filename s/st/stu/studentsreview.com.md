@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604014625id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208053331id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
 
-# College Reviews : StudentsReview : Over 4000 Student Reviews!!!
+# College Reviews : StudentsReview : Over 5900 Student Reviews!!!
 
   |   |  |  [](http://www.studentsreview.com/)  
 ---  
 \- Resources -   
 [ ](http://www.studentsreview.com/surveys.shtml)
 * [**Critique  your College** ](http://www.studentsreview.com/surveys.shtml)  
+[ ](http://www.studentsreview.com/rank_em.php3)
+* [SR Rankings](http://www.studentsreview.com/rank_em.php3)  
 [ ](http://www.studentsreview.com/usnews.shtml)
 * [USNews 2001 & SR](http://www.studentsreview.com/usnews.shtml)  
 [ ](http://www.studentsreview.com/docs/major.shtml)
@@ -14,7 +16,7 @@
 [ ](http://www.studentsreview.com/summer_prog.shtml)
 * [HS Summer Programs ](http://www.studentsreview.com/summer_prog.shtml)  
 [ ](http://srd.yahoo.com/drst/38279200/*http://www.studentsreview.com/salary.shtml)
-* [Job Salaries/Descrip. __](http://srd.yahoo.com/drst/38279200/*http://www.studentsreview.com/salary.shtml)  
+* [Job Types and Salaries __](http://srd.yahoo.com/drst/38279200/*http://www.studentsreview.com/salary.shtml)  
 [ ](http://www.studentsreview.com/contact_center.php3)
 * [Ask Alumni _!_ ](http://www.studentsreview.com/contact_center.php3)  
 [ ](http://www.studentsreview.com/msg_board.php3)
@@ -23,7 +25,8 @@
 * [Articles + Links ](http://www.studentsreview.com/resources.shtml)  
 [ ](http://www.studentsreview.com/EssayHelp/)
 * [Sample Essays & Help ](http://www.studentsreview.com/EssayHelp/)  
-    |    **Over 4000 Student Reviews**
+    |    **Over 5900 Student Reviews! Wow!** **We got mentioned!** Special thanks to the **Washington Post** for mentioning us to everyone! [[Washington Post Article]](http://www.washingtonpost.com/wp-dyn/articles/A41245-2002Nov26.html)  
+
 
 Students Review, Inc. Privacy Policy
 
