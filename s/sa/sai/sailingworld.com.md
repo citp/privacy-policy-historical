@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailingworld.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208082744id_/http%3A//www.sailingworld.com/sw_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailingworld.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621110735id_/http%3A//www.sailingworld.com/sw_privacy.php) for the most accurate reproduction.*
 
 # Sailing World - Privacy Statement
 
