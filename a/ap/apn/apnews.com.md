@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnews.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602115841id_/http%3A//apnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnews.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208092751id_/http%3A//www.apnews.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,9 +23,9 @@ Cookies, or bits of software that track site usage, may be sent to your computer
 **Questions**  
 If you have any questions about our privacy policy, feel free to send them to **[apis@ap.org](mailto:apis@ap.org)**
 
-For more information about AP Information Services, and to find out how your site or service can utilize the AP's award-winning coverage, please call 1-866-895-0788, or **[click here](https://web.archive.org/web/20020602115841id_/http%3A//apnews.com/request_form.asp)**.  
+For more information about AP Information Services, and to find out how your site or service can utilize the AP's award-winning coverage, please call 1-866-895-0788, or **[click here](https://web.archive.org/web/20021208092751id_/http%3A//www.apnews.com/request_form.asp)**.  
 
 
 ©2002 AP Information Services.  
-All rights reserved. [Terms](https://web.archive.org/web/20020602115841id_/http%3A//apnews.com/terms.html) under which this site is provided.  
-Learn more about our [privacy policy](https://web.archive.org/web/20020602115841id_/http%3A//apnews.com/privacy.html)
+All rights reserved. [Terms](https://web.archive.org/web/20021208092751id_/http%3A//www.apnews.com/terms.html) under which this site is provided.  
+Learn more about our [privacy policy](https://web.archive.org/web/20021208092751id_/http%3A//www.apnews.com/privacy.html)
