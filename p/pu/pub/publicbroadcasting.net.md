@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicbroadcasting.net privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802210324id_/http%3A//www.publicinteractive.com/company/user-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicbroadcasting.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185749id_/http%3A//publicinteractive.com/company/user-privacy-policy.html) for the most accurate reproduction.*
 
 # Public Interactive—Privacy Policy
 
