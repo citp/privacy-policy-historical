@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonessoda.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208162007id_/http%3A//www.jonessoda.com/files/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonessoda.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306002842id_/http%3A//www.jonessoda.com/files_new/privacy.html) for the most accurate reproduction.*
 
 # Jones Soda Privacy Statement
 
@@ -71,3 +71,5 @@ By using our Web site, you consent to the collection and use of personal informa
 FEEDBACK
 
 Jones welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue to [info@jonessoda.com](mailto:info@jonessoda.com). 
+
+>  
