@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204235104id_/http%3A//www.grandecom.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173130id_/http%3A//www.grandecom.com/privacy.jsp) for the most accurate reproduction.*
 
 # Grande Communications®
 
@@ -29,6 +29,7 @@ Section 1. Violations and Descriptions of Appropriate Use
 
 
   * General Violations of the Acceptable Use Policy
+  * Customer responsibility for activity on the IP(s)
   * Inappropriate Content
   * E-mail
   * Web Space
@@ -48,6 +49,9 @@ Network unfriendly activity: Any activities which adversely affect the ability o
 Privacy violations: Attempts, whether successful or unsuccessful, to gain access to any computer system or customer's data, without consent, are prohibited.
 
 Threats: Threats of bodily harm or destruction of property are always prohibited. 
+
+Customer responsibility for activity on the IP(s)  
+Activity on IP(s) -Internet Protocol- supplied to a customer by Grande is the responsibility of that customer, ethically and legally, regardless of whether the activity was performed with the knowledge and/or permission of said customer. Thus, customers should make every effort to both physically and logically secure networks and physical premises from unauthorized usage, especially in the case of wireless access points. Customers should also be aware that sharing access either by divulging dialup authentication information to third parties, or by allowing wireless or Ethernet devices to become part of their networks, they are responsible for any and all abusive activities performed by said external parties. 
 
 Inappropriate Content  
 There is content on the Internet, or otherwise available through the Services, which some may find offensive or disturbing. It is possible to obtain access to content which is pornographic or offensive. Neither Grande Communications nor any of its content distributors can assume any responsibility for the content contained on the Internet or otherwise available through the Service. You must assume the risk of accessing content through the Services and neither Grande Communications nor any of its distribution affiliates shall have any liability for any claims, losses, damages, suits or proceedings arising out of, or otherwise related to, access to such content. You are solely responsible for any information which you publish on the Web or other Internet Services. You must ensure that the receipt of the content is appropriate. You must take appropriate precautions to prevent minors from viewing inappropriate content. Grande Communications reserves the right to refuse to post or to remove any information or materials, in whole or in part, that it, in its sole discretion, deems to be offensive, indecent or otherwise inappropriate, regardless of whether such material is unlawful. Grande Communications has no obligation to monitor transmissions made on the Services. Grande Communications does however, have the right to monitor transmissions at any time.
