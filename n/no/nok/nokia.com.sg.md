@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokia.com.sg privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205081902id_/http%3A//www.nokia.com.sg/nokia/0%2C8764%2C36105%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com.sg privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603080104id_/http%3A//www.nokia.com.sg/nokia/0%2C8764%2C36105%2C00.html) for the most accurate reproduction.*
 
 # Nokia - Privacy Policy
 
