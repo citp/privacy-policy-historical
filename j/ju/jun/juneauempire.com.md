@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218072958id_/http%3A//juneauempire.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622031614id_/http%3A//juneauempire.com/privacy.shtml) for the most accurate reproduction.*
 
 # JuneauEmpire.com: Privacy Policy
 
@@ -30,17 +30,7 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [Rob Curley](mailto:rcurley@morris.com) or [Yvonne Beasley](mailto:whybe@alaska.net) , or you can reach us by telephone at 706-828-2970 or 907-586-3740. You can also write us at: 
-
-Division of Online Services,  
-Corporate Content Development  
-Morris Communications Corporation  
-PO Box 936  
-Augusta, GA  
-30903  
-
-
-\---or--- 
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [the Webmaster](mailto:webmaster@juneauempire.com), or you can reach us by telephone at 1.907.586.3740. You can also write us at: 
 
 JuneauEmpire.com c/o  
 The Juneau Empire  
@@ -61,4 +51,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [rcurley@morris.com](mailto:rcurley@morris.com) or at [whybe@alaska.net](mailto:whybe@alaska.net). 
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact [the Webmaster](mailto:webmaster@juneauempire.com). 
