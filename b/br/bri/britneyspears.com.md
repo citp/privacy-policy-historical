@@ -1,39 +1,51 @@
-> *The following text is extracted and transformed from the britneyspears.com privacy policy that was archived on 2000-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000304060347id_/http%3A//britneyspears.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britneyspears.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610040236id_/http%3A//www.britneyspears.com/shared/priv_term.php) for the most accurate reproduction.*
 
-# Britney Spears: The Official Britney Spears Website
+# Privacy Policy / Terms of Use
 
-[**BACK**](https://web.archive.org/web/20000304060347id_/http%3A//britneyspears.com/index.html)
+| 
 
-**The following privacy policy applies to all Entertainment Drive ("eDrive") online websites, whether Starclubs or other products:**
+Britneyspears.com and Britney Online, Inc. care about your privacy. We're providing this policy to let you know what information we collect from you and how we use it. We may update this policy from time to time, so we'll always keep you informed about our privacy practices. 
 
-**eDrive's Privacy Policy:**  
-Privacy on the World Wide Web is important, and we would like to make clear what types of information we gather, how we use it, and how you can correct, change, or delete information that you submit to us (or decline to submit it, if you prefer). 
+**CHILDREN UNDER 13**
 
-**Information Collected by eDrive Websites:**  
-eDrive collects two different types of personally identifying information from users of its products: a) Personal data, such as names and email addresses: this type of data is collected when you provide it to eDrive, by means of registration for newsletters, or entering contests, answering surveys, purchasing products online, posting messages to chat boards, etc. b) Collective data, such as which pages you may access, site registrations, IP addresses (what IP address you are coming from) and so on. 
+We strive to comply with the Children's Online Privacy Protection Act for our users who are 12 and younger (Achildren@). We do not knowingly collect personally identifiable information from children online without proper parental notice and consent. We do not condition children's participation in an activity at the site on the child's disclosing more personal information than is reasonably necessary to participate in that activity. 
 
-**Use of Information Collected by eDrive:**  
-eDrive uses both the personal and collective data for purposes such as improvement and customization of site content or layout for each customer and to notify users with respect to updates to the site, or promotional opportunities, contests or other offers that may interest them. eDrive may also share data with third parties for advertising, marketing and promotional purposes. By submitting personal data by means of registration for newsletters or entering contests, answering surveys, purchasing products, posting messages, etc., you agree to such use of this data, and understand and agree that advertising and/or promotional language may be included in transmissions to your submitted email address. 
+We do not share personal information of children with third parties. 
 
-If you would prefer that personal information provided by you not be used for these purposes, you may prevent that use by responding to the "remove" language included in promotional emails, or by sending an email to webmaster@edrive.com . 
+Parents have the right to review and have deleted any personally identifiable information we have collected from their children, and refuse to permit further collection of that information. In order to start that process, send us an e-mail at WebmasterB@BritneySpears.com. 
 
-**Young People and Privacy**  
-eDrive encourages the participation of parents and guardians in their children's use of online services. eDrive may request age information from users of its sites in various locations in its online products, and may ask whether a user is under the age of 18, or 13, when requesting the submission of personal information. It may also ask for parental consent to the submission of such information, and relies on users to provide truthful responses to these questions. 
+**SUBMISSIONS FOR CHILDREN UNDER 13**
 
-**Users Under 13 Years of Age**  
-Individuals under 13 years of age should not submit or post information on eDrive sites without the consent of their parent or guardian. With the parent or guardian's consent, eDrive may use this information for marketing and promotional purposes relating to the website. However, eDrive does not provide any personal information provided by such users to any third party. 
+We sometimes solicit or accept submissions from children, some of which may be posted at our sites. Such submissions may be made online or offline. If a child or parent wants us to post a photograph or any other personally identifiable information, we require a signed parental permission form. When children make submissions to us online, we let them know we received their submission and then we delete their email address and any other personal information they may have chosen to give us. Unless we received a signed parental permission form, we screen all online submissions before they are posted, and strip out and delete from our records any personal information they may contain. When children make submissions to us offline, such as by regular mail, we may choose to retain all the information they submit to us (except their email address). Unless we received a signed parental permission form, we screen all offline submissions before they are posted, and strip out any personal information they may contain. 
 
-**Users between 13 and 18 Years of Age**  
-eDrive requests that individuals under the age of 18 do not submit or post information to an eDrive site without the consent of a parent or guardian. eDrive may collect information, including personal information, from users between 13 and 18, and with the permission of their parent or guardian this information may be used for marketing and promotional purposes by eDrive, and may be shared with third parties. If a user or said user's parent or guardian should change their mind with regard to such use, the user, parent or guardian may stop that use by email request to webmaster@edrive.com. Users under the age of 18 are usually asked not to participate in contests or sweepstakes. 
+**GENERAL PRIVACY**
 
-**Message Boards and Chat**  
-Please remember that information posted to message boards and chat areas becomes public, and use appropriate caution when posting. Users under the age of 18 should be careful not to provide any personal information while using message boards and chat rooms, and must follow the standards of behavior set forth in each site's Terms of Use when posting messages online. 
+**WHAT INFORMATION WE COLLECT ONLINE**
 
-**Links to Other Sites**  
-Please note that eDrive products contain links to sites other than those it owns, operates and manages, and that those sites may not follow the same privacy policies as eDrive. These sites may include those linked to eDrive sites by ad banners, and content providers and partners who may use logos or styles adapted from eDrive or its Starclubs products as a result of a co-branding agreement. These sites may collect data and make use of it in ways that eDrive would not. 
+Registration, E-Mail Newsletters, Britney Spears Fan Club, and Britney SmartFlash Collectible Cards: We may collect e-mail addresses, other contact information (such as name, e-mail address, etc.) and demographic information (such as age, music preferences, etc.) for site registration, to receive e-mail newsletters, to join the Britney Spears Fan Club or to complete orders for SmartFlash Cards. 
 
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND THIS PRIVACY POLICY. 
+**HOW WE USE YOUR INFORMATION**
 
-eDrive reserves the right to change this policy at any time by notifying users of the existence of a revised privacy policy. If you submitted personal information to this website prior to this policy's posting, that information will be used for promotional and marketing purposes and shared with third parties unless you request its withdrawal from our database. You can send email to us with any further questions or requests for the withdrawal of your personal information from our database at any time to webmaster@edrive.com. 
+We use your information to communicate with you, to provide the services you have requested, and to provide a more personalized experience on our site. In addition to other uses set forth in this policy, contact information collected in connection with surveys and contests is used to notify the winners and award prizes, to monitor or improve the use and satisfaction of the site and may be shared with sponsors of such surveys or contests. We use aggregate demographic information about our audience in order to improve our service, for marketing purposes and/or industry reporting purposes. 
 
-[**BACK**](https://web.archive.org/web/20000304060347id_/http%3A//britneyspears.com/index.html)
+**WITH WHOM YOUR INFORMATION IS SHARED**
+
+When we have sponsored products and services, or when we join with other parties to provide specific services, we may share (provide and receive) your personal information with them. Other than as set forth above, we do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, and which agree to use it only for that purpose and to keep the information secure and confidential. Also, entities into which our company is merged, or to which our assets, site or operations have been transferred, will be able to use your personal information under the terms of this privacy policy. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. We may share aggregate information, which is not personally identifiable, with others. This information may include usage and demographic data, but it will not include personal information. 
+
+**AUTOMATIC DATA COLLECTION**  
+We do not place cookies on your hard drive. Our advertisers may use cookies, however. We advise you to check their privacy policies as well. For our internal purposes, we may gather date, time, browser type, navigation history, and IP address of all visitors to our site. This information does not contain anything that can identify users personally. We use this information for our internal security audit log, trend analysis, and system administration, and to gather broad demographic information about our user base for aggregate use. 
+
+**SECURITY**  
+We protect the confidentiality, security and integrity of the personal information we collect. This information is maintained securely and only those people who require access may see this information. 
+
+**LINKS**  
+Our site provides links to other sites. We are not responsible for those other sites, their privacy policies or how they treat information about their users. We advise you to check their privacy policies as well. If you have any questions about our privacy practices, please feel free to contact us at: 
+
+britneyspears.com  
+c/o nvu Productions, Inc.  
+1 North Dearborn Suite 1300 Chicago, IL 60602  
+(312) 606-2570  
+[WebmasterB@BritneySpears.com](mailto:webmasterb@britneyspears.com)  
+
+
+|  |  | 
