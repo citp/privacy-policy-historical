@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bedbathandbeyond.com privacy policy that was archived on 2001-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011203183845id_/http%3A//www.bedbathandbeyond.com/rdprivPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bedbathandbeyond.com privacy policy that was archived on 2002-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020610031417id_/http%3A//www.bedbathandbeyond.com/rdprivPolicy.asp%3Forder_num%3D-1%26) for the most accurate reproduction.-->
 
 <html><head><script language="Javascript">
 <!--
@@ -32,13 +32,47 @@ function go()
 			i = len;
 		}
 	}
-		window.location = "searchSKU.asp?SSTR="+strOut+"&ret=";
+		window.location = "searchSKU.asp?order_num=-1&SSTR="+strOut+"&ret=";
 }
 
 
 var windowpic = null;
 var windowpic2 = null ;
 
+function GetCookie ( name )
+{
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+	
+	while (i < clen)
+	{
+		var j = i + alen;
+		if (document.cookie.substring( i, j ) == arg )
+			return getCookieVal ( j );
+		i = document.cookie.indexOf(" ", i ) + 1;
+		if ( i == 0 )
+			break;
+	}
+
+	return null;
+}
+
+function getCookieVal( offset )
+{
+	var endstr = document.cookie.indexOf ( ";", offset );
+	
+	if ( endstr == -1 )
+		endstr = document.cookie.length;
+	
+	return unescape( document.cookie.substring( offset, endstr ) );
+}
+
+var cookieFirstName = null;
+if ( !( cookieFirstName = GetCookie("firstName") ) ) 
+	cookieFirstName = "";
+		
 function init(){
 }
 
@@ -58,6 +92,19 @@ function OpenViewWindow( go_there, width, height,scbar,tbar )
 	{
 		strwindow = "toolbar=no,width=" + (width-10) + ",height=" + (height-5) + ",directories=no,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
 	} 
+	if (window.screen)
+	{
+		var aw = screen.availWidth - 30;
+		var ah = screen.availHeight - 50;
+		var nwidth = width;
+		var nheight = height;
+		strwindow = "width=" + nwidth + ",height=" +nheight + strwindow;
+		strwindow += ",left=" + ( ( aw - nwidth) / 2);
+		var nTop = (ah - nheight) / 2;
+		if (nTop < 0 )
+			nTop = 0;
+		strwindow += ",top=" + nTop;
+	}
 	windowpic = window.open(go_there, "wwchild", strwindow);
 }
 
@@ -77,6 +124,19 @@ function OpenAboutWindow( go_there, width, height,scbar,tbar )
 	if (navigator.appName == "Microsoft Internet Explorer")
 	{
 		strwindow = "toolbar=no,width=" + (width-10) + ",height=" + (height-5) + ",directories=no,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
+	}
+	if (window.screen)
+	{
+		var aw = screen.availWidth - 30;
+		var ah = screen.availHeight - 50;
+		var nwidth = width;
+		var nheight = height;
+		strwindow = "width=" + nwidth + ",height=" +nheight + strwindow;
+		strwindow += ",left=" + ( ( aw - nwidth) / 2);
+		var nTop = (ah - nheight) / 2;
+		if (nTop < 0 )
+			nTop = 0;
+	        strwindow += ",top=" + nTop;
 	}
 	windowpic2 = window.open(go_there, "wwchild", strwindow);
 }
@@ -103,7 +163,6 @@ function OpenAboutWindow( go_there, width, height,scbar,tbar )
 
 <script language="Javascript">
 <!--
-// JavaScript Written  at R/GA Interactive in fall 1999
 
 	var	tNavOn = new Array(9);
 	var	tNavOff = new Array(9);
@@ -159,7 +218,7 @@ function cancelClearTime() {
 </script>
 
 </head>
-<body bgcolor="#336666" onload="init();fcnf();" link="#CC3300" vlink="#CC3300" alink="#CC3300" topmargin="10" leftmargin="3" marginwidth="3">
+<body bgcolor="#330099" onload="init();fcnf();" link="#CC3300" vlink="#CC3300" alink="#CC3300" topmargin="10" leftmargin="3" marginwidth="3">
 
 <script>
 function handle()
@@ -168,6 +227,7 @@ function handle()
 }
 window.onerror=handle;
 </script>
+
 <script defer="" src="http://a644.g.akamai.net/f/644/67/3h/hints.netflame.cc/service/script/www.bedbathandbeyond.com"></script>
 
 <div id="allel">
@@ -180,7 +240,7 @@ window.onerror=handle;
   <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr valign="top">
 		<td width="35"><img src="/img/i.gif" width="35" height="56"></td>
-		<td width="154"><a href="default.asp?">
+		<td width="154"><a href="default.asp?order_num=-1&amp;">
 			<img src="/img/bbblogo.gif" width="154" height="48" border="0" alt="Bed Bath &amp; Beyond" title="Bed Bath &amp; Beyond"></a></td>
 		
 		
@@ -215,16 +275,16 @@ window.onerror=handle;
      <td valign="top" align="right"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
 		<td width="10"><img src="/img/i.gif" width="10" height="1"></td>		<td width="1"><img src="/img/vBarWhite.gif" width="1" height="48" border="0"></td>
 		<td width="10"><img src="/img/i.gif" width="9" height="1"></td>			
-		<td width="36"><a href="shopguide.asp?retloc=privPolicy%2Easp&amp;args="><img src="/img/prguide_icon.gif" width="36" height="48" alt="product guides" title="product guides" border="0"></a></td>
+		<td width="36"><a href="shopguide.asp?order_num=-1&amp;retloc=privPolicy%2Easp&amp;args="><img src="/img/prguide_icon.gif" width="36" height="48" alt="product guides" title="product guides" border="0"></a></td>
         <td width="10"><img src="/img/i.gif" width="9" height="1"></td>
-        <td width="43"><a href="showCart.asp?retloc=privPolicy%2Easp&amp;retarg="><img src="/img/iconCart.gif" width="43" height="48" alt="shopping cart" title="shopping cart" border="0"></a></td>
+        <td width="43"><a href="showCart.asp?order_num=-1&amp;retloc=privPolicy%2Easp&amp;retarg="><img src="/img/iconCart.gif" width="43" height="48" alt="shopping cart" title="shopping cart" border="0"></a></td>
 <!--				<td width=1><img src="/img/vBarWhite.gif" width=1 height=48 border=0></td> -->
 		<td width="10"><img src="/img/i.gif" width="9" height="1"></td>
-        <td width="34"><a href="exitWedMode.asp?DST=store_loc&amp;ret=privPolicy.asp"><img src="/img/iconLocator.gif" width="34" height="48" alt="store locator" title="store locator" border="0"></a></td>
+        <td width="34"><a href="exitWedMode.asp?order_num=-1&amp;DST=store_loc&amp;ret=privPolicy.asp"><img src="/img/iconLocator.gif" width="34" height="48" alt="store locator" title="store locator" border="0"></a></td>
 <!--				<td width=1><img src="/img/vBarWhite.gif" width=1 height=48 border=0></td> -->
 		<td width="10"><img src="/img/i.gif" width="9" height="1"></td>
 
-		<td width="39"><a href="exitWedMode.asp?DST=login&amp;ret=privPolicy%2Easp&amp;args="><img src="/Img/iconAccount.gif" width="39" height="48" alt="your account" title="your account" border="0"></a></td>
+		<td width="39"><a href="exitWedMode.asp?order_num=-1&amp;DST=login&amp;ret=privPolicy%2Easp&amp;args="><img src="/Img/iconAccount.gif" width="39" height="48" alt="your account" title="your account" border="0"></a></td>
 	
 	</tr>
 </tbody></table></td></tr>
@@ -237,43 +297,44 @@ window.onerror=handle;
   <table border="0" cellspacing="0" cellpadding="0">
     <tbody><tr valign="bottom">
       <td width="95"><img src="/img/btn_submenuNone.gif" width="95" height="25" border="0"></td>
-      <td width="167"><a href="default.asp?"><img src="/img/topTab0.gif" width="167" height="25" alt="shop online" title="shop online" border="0"></a></td>
+      <td width="167"><a href="default.asp?order_num=-1&amp;"><img src="/img/topTab0.gif" width="167" height="25" alt="shop online" title="shop online" border="0"></a></td>
 
-      <td width="169"><a href="wedd.asp?"><img src="/img/topTab1.gif" width="169" height="25" alt="bridal &amp; gift registry" title="bridal &amp; gift registry" border="0"></a></td>
-      <td width="169"><a href="services.asp?"><img src="/img/topTab2selected.gif" width="169" height="25" alt="service &amp; beyond" title="service &amp; beyond" border="0"></a></td>
-      <td width="167"><a href="entagreat_gifts.asp?"><img src="/img/topTab3.gif" width="167" height="25" alt="shop for the holidays" title="shop for the holidays" border="0"></a></td>
-
+      <td width="188"><a href="wedd.asp?order_num=-1&amp;"><img src="/img/topTab1.gif" width="188" height="25" alt="bridal &amp; gift registry" title="bridal &amp; gift registry" border="0"></a></td>
+      <td width="169"><a href="services.asp?order_num=-1&amp;"><img src="/img/topTab2selected.gif" width="169" height="25" alt="service &amp; beyond" title="service &amp; beyond" border="0"></a></td>
+	  
+	      <td width="148"><a href="BTSHome.asp?order_num=-1&amp;"><img src="/img/topTab3.gif" width="148" height="25" alt="shop for college" title="shop for college" border="0"></a></td>
+	  
       <!--<td><img src="/img/i.gif" width=1 height=1 alt="" border=0></td>-->
     </tr>	 
  
 	<tr>    <td width="95" valign="top" align="right">
         <table width="95" border="0" cellspacing="0" cellpadding="0">				
         <tbody><tr><td>
-			<a href="login.asp?" onmouseover="doIMouseOver(13,0,-1);img_act('n0',0)" onmouseout="img_inact('n0',0); setClearTime()"><img name="n0" src="/img/leftTab0_3.gif" width="95" border="0" alt="your account" title="your account"></a></td></tr>
+			<a href="login.asp?order_num=-1&amp;" onmouseover="doIMouseOver(13,0,-1);img_act('n0',0)" onmouseout="img_inact('n0',0); setClearTime()"><img name="n0" src="/img/leftTab0_3.gif" width="95" border="0" alt="your account" title="your account"></a></td></tr>
 					
         <tr><td>
-			<a href="contact_us.asp?" onmouseover="doIMouseOver(-1,0,-1);img_act('n1',1)" onmouseout="img_inact('n1',1); setClearTime()"><img name="n1" src="/img/leftTab1_3.gif" width="95" border="0" alt="contact us" title="contact us"></a></td></tr>
+			<a href="contact_us.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n1',1)" onmouseout="img_inact('n1',1); setClearTime()"><img name="n1" src="/img/leftTab1_3.gif" width="95" border="0" alt="contact us" title="contact us"></a></td></tr>
 					
         <tr><td>
-			<a href="store_loc.asp?" onmouseover="doIMouseOver(-1,0,-1);img_act('n2',2)" onmouseout="img_inact('n2',2); setClearTime()"><img name="n2" src="/img/leftTab2_3.gif" width="95" border="0" alt="store locator" title="store locator"></a></td></tr>
+			<a href="store_loc.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n2',2)" onmouseout="img_inact('n2',2); setClearTime()"><img name="n2" src="/img/leftTab2_3.gif" width="95" border="0" alt="store locator" title="store locator"></a></td></tr>
 					
         <tr><td>
-			<a href="shopguide.asp?" onmouseover="doIMouseOver(14,0,-1);img_act('n3',3)" onmouseout="img_inact('n3',3); setClearTime()"><img name="n3" src="/img/leftTab3_3.gif" width="95" border="0" alt="shopping guides" title="shopping guides"></a></td></tr>
+			<a href="shopguide.asp?order_num=-1&amp;" onmouseover="doIMouseOver(14,0,-1);img_act('n3',3)" onmouseout="img_inact('n3',3); setClearTime()"><img name="n3" src="/img/leftTab3_3.gif" width="95" border="0" alt="shopping guides" title="shopping guides"></a></td></tr>
 					
         <tr><td>
-			<a href="privPolicy.asp?" onmouseover="doIMouseOver(-1,0,-1);clearLit(4)" onmouseout="setClearTime()"><img name="n4" src="/img/leftTab4_3_on.gif" width="95" border="0" alt="privacy" title="privacy"></a></td></tr>
+			<a href="privPolicy.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);clearLit(4)" onmouseout="setClearTime()"><img name="n4" src="/img/leftTab4_3_on.gif" width="95" border="0" alt="privacy" title="privacy"></a></td></tr>
 					
         <tr><td>
-			<a href="returns.asp?" onmouseover="doIMouseOver(21,0,-1);img_act('n5',5)" onmouseout="img_inact('n5',5); setClearTime()"><img name="n5" src="/img/leftTab5_3.gif" width="95" border="0" alt="shipping &amp; policies" title="shipping &amp; policies"></a></td></tr>
+			<a href="returns.asp?order_num=-1&amp;" onmouseover="doIMouseOver(21,0,-1);img_act('n5',5)" onmouseout="img_inact('n5',5); setClearTime()"><img name="n5" src="/img/leftTab5_3.gif" width="95" border="0" alt="shipping &amp; policies" title="shipping &amp; policies"></a></td></tr>
 					
         <tr><td>
-			<a href="giftCert.asp?" onmouseover="doIMouseOver(-1,0,-1);img_act('n6',6)" onmouseout="img_inact('n6',6); setClearTime()"><img name="n6" src="/img/leftTab6_3.gif" width="95" border="0" alt="gift cards" title="gift cards"></a></td></tr>
+			<a href="giftCert.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n6',6)" onmouseout="img_inact('n6',6); setClearTime()"><img name="n6" src="/img/leftTab6_3.gif" width="95" border="0" alt="gift cards" title="gift cards"></a></td></tr>
 					
         <tr><td>
-			<a href="javascript:OpenAboutWindow('about_us.asp',490,427,'yes','yes');" onmouseover="doIMouseOver(-1,0,-1);img_act('n7',7)" onmouseout="img_inact('n7',7); setClearTime()"><img name="n7" src="/img/leftTab7_3.gif" width="95" border="0" alt="about us" title="about us"></a></td></tr>
+			<a href="javascript:OpenAboutWindow('about_us.asp',498,427,'yes','yes');" onmouseover="doIMouseOver(-1,0,-1);img_act('n7',7)" onmouseout="img_inact('n7',7); setClearTime()"><img name="n7" src="/img/leftTab7_3.gif" width="95" border="0" alt="about us" title="about us"></a></td></tr>
 					
         <tr><td>
-			<a href="careers.asp?" onmouseover="doIMouseOver(-1,0,-1);img_act('n8',8)" onmouseout="img_inact('n8',8); setClearTime()"><img name="n8" src="/img/leftTab8_3.gif" width="95" border="0" alt="careers" title="careers"></a></td></tr>
+			<a href="careers.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n8',8)" onmouseout="img_inact('n8',8); setClearTime()"><img name="n8" src="/img/leftTab8_3.gif" width="95" border="0" alt="careers" title="careers"></a></td></tr>
 	
 		</tbody></table>
       </td>
@@ -363,7 +424,7 @@ firewall and security technology.
 <br><br>
 If you prefer not to disclose your credit card information online, you can always place 
 your order by calling 1-800-GO&nbsp;BEYOND®&nbsp;(1-800-462-3966) or visiting one of our many stores.  
-Click <a href="store_loc.asp?">here</a> to locate the store nearest you and receive 
+Click <a href="store_loc.asp?order_num=-1&amp;">here</a> to locate the store nearest you and receive 
 driving directions.
 <br>
 <font size="3" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><br><b>Use of Cookies</b><br><br><font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="black">
@@ -443,25 +504,25 @@ function OpenVisaWindow()
 	<tr>
 		<td width="93"><img src="/img/i.gif" width="1" height="10"></td>
 		<td width="669" align="center">
-			<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><a href="rdDefault.asp?"><span style="color: white">Home</span></a> |
-			<a href="rdLogin.asp?"><span style="color: white">Your Account</span></a> |
-			<a href="rdAPolicyShipping.asp?"><span style="color: white">Shipping</span></a> |
-			<a href="rdAPolicyReturns.asp?"><span style="color: white">Returns</span></a> |
-			<a href="rdShopGuide.asp?"><span style="color: white">How to Shop</span></a> |
-			<a href="rdGlossary.asp?"><span style="color: white">Glossary</span></a> |
-			<a href="rdGiftCert.asp?"><span style="color: white">Gift Cards</span></a></font>
+			<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><a href="rdDefault.asp?order_num=-1&amp;"><span style="color: white">Home</span></a> |
+			<a href="rdLogin.asp?order_num=-1&amp;"><span style="color: white">Your Account</span></a> |
+			<a href="rdAPolicyShipping.asp?order_num=-1&amp;"><span style="color: white">Shipping</span></a> |
+			<a href="rdAPolicyReturns.asp?order_num=-1&amp;"><span style="color: white">Returns</span></a> |
+			<a href="rdShopGuide.asp?order_num=-1&amp;"><span style="color: white">How to Shop</span></a> |
+			<a href="rdGlossary.asp?order_num=-1&amp;"><span style="color: white">Glossary</span></a> |
+			<a href="rdGiftCert.asp?order_num=-1&amp;"><span style="color: white">Gift Cards</span></a></font>
 
 		</td>
 	</tr>
 	<tr>
 		<td width="93"><img src="/img/i.gif" width="1" height="10"></td>
 		<td width="669" align="center">
-			<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><a href="rdContactUs.asp?"><span style="color: white">Contact us</span></a> |
-			<a href="rdprivPolicy.asp?"><span style="color: white">Security &amp; Privacy</span></a> |
-			<a href="rdAPolicyLegal.asp?"><span style="color: white">Legal Notices</span></a> |
+			<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><a href="rdContactUs.asp?order_num=-1&amp;"><span style="color: white">Contact us</span></a> |
+			<a href="rdprivPolicy.asp?order_num=-1&amp;"><span style="color: white">Security &amp; Privacy</span></a> |
+			<a href="rdAPolicyLegal.asp?order_num=-1&amp;"><span style="color: white">Legal Notices</span></a> |
 			<a href="javascript:OpenViewWindow('about_us.asp',498,427,'yes','yes');"> <span style="color: white">About us</span></a> |
 			<a href="javascript:OpenViewWindow('about_us.asp',498,427,'yes','yes');"> <span style="color: white">Investor Relations</span></a> |
-			<a href="rdCareers.asp?"><span style="color: white">Careers</span></a></font>
+			<a href="rdCareers.asp?order_num=-1&amp;"><span style="color: white">Careers</span></a></font>
 	
 		</td>
 	</tr>
@@ -478,7 +539,7 @@ function OpenVisaWindow()
 						<img src="/img/guarIcon.gif" width="85" height="24" alt="Bed Bath and Beyond Guarantee" title="Bed Bath and Beyond Guarantee" border="0"></a>&nbsp;&nbsp;
 					</td>
 					<td valign="top">
-						<font size="-2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">©1999-2001 Bed Bath &amp; Beyond Inc. and its subsidiaries. All rights reserved.</font>
+						<font size="-2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">©1999-2002 Bed Bath &amp; Beyond Inc. and its subsidiaries. All rights reserved.</font>
 					</td>
 				</tr>
 			</tbody></table>
