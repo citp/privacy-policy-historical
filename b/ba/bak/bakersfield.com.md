@@ -1,22 +1,28 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604064321id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015737id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
 
-# bakersfield.com - Privacy Policy
+# bakersfield.com | Privacy Policy
 
-|  January 30, 2020   
-[Homepage](http://www.bakersfield.com/) > [News Home](https://web.archive.org/news/) > [**Privacy Policy**](https://web.archive.org/privacy/)   
+SEARCH
+
+NEWS
+
+29 EYEWITNESS NEWS
+
+ENTERTAINMENT
+
+COMMUNITY
+
+CLASSIFIEDS
+
+SUBSCRIBER SERVICES
+
+THE CALIFORNIAN
+
+| 
+
   
 
 
-**[Newsletters](http://www.bakersfield.net/maillist/)**   
-Stay up-to-date on local news and entertainment by getting newsletters sent to your email. 
-
-**[Sound Off](http://www.bakersfield.com/soundoff)**  
-Share your criticisms, compliments or questions about news coverage. Questions are answered by Executive Editor Mike Jenner.  
-
-
-|   
----|---|---  
-  
 This Privacy Policy explains how bakersfield.com may collect, use and aggregate personal information about you on [www.bakersfield.com](http://www.bakersfield.com/), and its affiliated web sites. Bakersfield.com respects your personal privacy and is committed to protecting it.  
 
 
@@ -50,7 +56,7 @@ Bakersfield.com may use information collected from visitors in the following way
 
   * To improve existing features or develop new features, products and services by analyzing how site features are being used.   
 
-  * To award prizes in contests or promotions. Participation in some contests or promotions may require visitors to agree to be contacted by bakersfield.com or The Bakersfield Californian for commercial purposes, such as to subscribe to The Bakersfield Californian.   
+  * To award prizes in contests or promotions. Participation in some contests or promotions may require visitors to agree to be contacted by bakersfield.com or _The Bakersfield Californian_ for commercial purposes, such as to subscribe to _The Bakersfield Californian._  
 
   * To provide advertisers or other third parties with aggregate information about our user base and usage patterns. Personally identifiable information is kept private and not distributed to third parties.   
 
@@ -64,7 +70,7 @@ Bakersfield.com may use information collected from visitors in the following way
 Bakersfield.com will not knowingly collect any personal information from individuals under 13 years of age without parental consent. Where appropriate, bakersfield.com will specifically instruct children not to submit such information on our site and/or will take reasonable steps to ensure parental consent to such submission.  
 
 
-Parental consent will be required in the event bakersfield.com provides a feature or event such as a contest or promotion that requires submission of information by children. Notice may be provided in a number of ways, including sending an e-mail message or notice by postal mail. At any time, you may write to us at webmaster@bakersfield.com to request a summary of any information we have retained as part of such activities or to ask that it be deleted.  
+Parental consent will be required in the event bakersfield.com provides a feature or event such as a contest or promotion that requires submission of information by children. Notice may be provided in a number of ways, including sending an e-mail message or notice by postal mail. At any time, you may write to us at [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com) to request a summary of any information we have retained as part of such activities or to ask that it be deleted.  
 
 
 Parents should be aware that bakersfield.com’s Privacy Policy will govern our use of personal data, but that information which is voluntarily given by children (or others) in chat sessions, e-mail exchanges, bulletin boards or the like may be used by other parties to generate unsolicited mail. Bakersfield.com encourages all parents to instruct their children in the safe and responsible use of their personal data while using the Internet.
@@ -102,16 +108,10 @@ This site contains links to other sites. Bakersfield.com is not responsible for 
 We display advertisements on our Web Site. These ads may contain cookies. We do not have access to this information, nor do we control its use. Bakersfield.com does not provide any personally identifiable data regarding bakersfield.com users to our advertisers.  
 
 
-Our advertising is delivered by a company called DoubleClick. In the course of delivering an ad to you on bakersfield.com, DoubleClick does not collect any personally identifiable information about you, such as your name, address, phone number or email address. DoubleClick does, however, collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to the ad delivered.   
+Our advertising is delivered by a company called RealMedia Open Ad Stream. In the course of delivering an ad to you on bakersfield.com, RealMedia does not collect any personally identifiable information about you, such as your name, address, phone number or email address. RealMedia does, however, collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to the ad delivered.   
 
 
-The non-personally identifiable information collected by DoubleClick is used for the purpose of targeting ads and measuring ad effectiveness on behalf of DoubleClick's advertisers and Web publishers who specifically request it. For additional information on the information that is collected by DoubleClick in the process of delivering an ad to you, please [click here](http://www.doubleclick.net/us/corporate/privacy/non-identify.asp?asp_object_1=&).   
-
-
-**Public forums**  
-
-
-Bakersfield.com provides chat rooms, forums, message boards and other interactive features available to you. Please remember that, unless otherwise stated, any information that is disclosed in these areas becomes public information, and may be republished, without fee, elsewhere on bakersfield.com or in The Bakersfield Californian. Therefore, you should exercise caution when deciding to disclose your personal information. You should also be aware that dialogue in bakersfield.com's chat rooms, forums, message boards and other interactive features is archived by bakersfield.com and may be made available to bakersfield.com users for an extended period after the date of the communication.   
+The non-personally identifiable information collected by RealMedia is used for the purpose of targeting ads and measuring ad effectiveness on behalf of RealMedia's advertisers and Web publishers who specifically request it.   
 
 
 **Security**   
@@ -123,7 +123,7 @@ This site has security measures in place to protect against the loss, misuse and
 **Newsletters**  
 
 
-Bakersfield.com offers a variety of opt-in e-mail newsletters. When subscribing, visitors are asked to submit information such as name, e-mail address and demographic information. You always may opt-out of receiving future mailings from bakersfield.com. To unsubscribe from our newsletters, go to [www.bakersfield.net/maillist/](http://www.bakersfield.net/maillist/) To remove your personally identifiable information from our databases, send e-mail to webmaster@bakersfield.com explaining your request.  
+Bakersfield.com offers a variety of opt-in e-mail newsletters. When subscribing, visitors are asked to submit information such as name, e-mail address and demographic information. You always may opt-out of receiving future mailings from bakersfield.com. To unsubscribe from our newsletters, go to [http://newsletters.bakersfield.com](http://newsletters.bakersfield.com/) To remove your personally identifiable information from our databases, send e-mail to [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com) explaining your request.  
 
 
 **Your role in protecting your privacy**  
@@ -161,13 +161,3 @@ Bakersfield.com
 Bakersfield CA 93302  
 661-395-7500  
 e-mail: [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com)
-
-* * *
-
-[](http://www.nandomedia.com/) Copyright © 2003, [The Bakersfield Californian](http://www.bakersfield.com/help/whoweare.html) | [Email the Webmaster](mailto:webmaster@bakersfield.com)  
-[Privacy Policy Statement](https://web.archive.org/privacy/) | [Terms of Use](https://web.archive.org/terms/)
-
-[Lightspeed Systems](http://www.lightspeedsystems.com/)
-
-  
-
