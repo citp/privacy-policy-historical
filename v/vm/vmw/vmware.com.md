@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610025449id_/http%3A//www.vmware.com/vmwarestore/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207212805id_/http%3A//www.vmware.com/vmwarestore/privacy.html) for the most accurate reproduction.*
 
 # VMware's Privacy Policy
 
