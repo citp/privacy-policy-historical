@@ -1,114 +1,164 @@
-> *The following text is extracted and transformed from the befree.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602205017id_/http%3A//www.befree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befree.com privacy policy that was archived on 2004-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040902023901id_/http%3A//www.befree.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - Be Free, Inc.
+# Online marketing solutions: performance-based affiliate programs & search marketing
 
-[Home](https://web.archive.org/index.htm)    >    [ _Privacy Policy_](https://web.archive.org/privacy.htm)
+This page sets forth the privacy policies and practices of Commission Junction, Inc. and its affiliated companies within the ValueClick Marketing Network ("ValueClick Network" "ValueClick" "we" or "us") and includes the following principal Internet sites: 
 
-[](https://www.truste.org/validate/4693)[](http://spam.abuse.net/)Privacy Policy
+AdWare.com  
+ClickAgents.com  
+CJ.com  
+HiSpeedMedia.com  
+Mediaplex.com  
+Search123.com  
+ValueClick.com  
 
-STATEMENT OF RESPONSIBLE ONLINE MARKETING
 
-Be Free's information usage practices are based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. In accordance with these beliefs, Be Free has created partner marketing programs that bring businesses (Be Free's " **Customers** ") and **Partners** (people or entities that promote goods and services for our Customers) together in revolutionary ways without compromising individual privacy. We believe that our method of anonymous online profiling is the right way to provide a personalized web experience, and we have put in place a number of strict policies to ensure that user privacy is protected. This statement describes those policies. 
+_Please read this privacy policy carefully since by visiting a ValueClick Network site and sharing information with one our companies you agree to be bound by the terms and conditions of this Privacy Policy unless you offer different terms which are accepted by ValueClick, Inc. in writing._ For more information about the ValueClick Network and other ValueClick companies please visit [www.ValueClick.com](http://www.valueclick.com/). 
 
-Be Free Is a Licensee of TRUSTe
+**STATEMENT OF RESPONSIBLE ONLINE MARKETING** The ValueClick Network's information usage practices are based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. In accordance with these beliefs, the ValueClick Network creates results for advertisers and publishers in revolutionary ways without compromising individual privacy. 
 
-Be Free is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe Trustmark, this web site has agreed to notify you of: 
+Consumer Privacy | Client Privacy
 
-> What personally identifiable information of yours or third party personally identification is collected from you through the web site 
-> 
-> The organization collecting the information 
-> 
-> How the information is used 
-> 
-> With whom the information may be shared 
-> 
-> What choices are available to you regarding collection, use and distribution of the information 
-> 
-> The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Be Free's control 
-> 
-> How you can correct any inaccuracies in the information 
+**CONSUMER PRIVACY**
 
-If you have questions or concerns regarding this statement, you should first contact [privacy@befree.com](mailto:privacy@befree.com). If your inquiry is not satisfactorily resolved, you should then contact TRUSTe at <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with Be Free to resolve your concerns. TRUSTe can only cover the activities on [www.befree.com](https://web.archive.org/), and is not able to cover activities outside of this Be Free web site. 
+**I. INFORMATION WE COLLECT: INDIVIDUAL INTERNET CONSUMERS**
 
-Collection of Data About Internet End-Users
+**A. Personally Identifiable Information (PII).**  
+The ValueClick Network sites are designed to promote and facilitate the business of the ValueClick companies with advertisers and marketers. These sites are not directed towards individual Internet consumers nor do they seek any PII from such consumers. PII may be collected should a consumer contact a ValueClick company on his/her own initiative or respond to a ValueClick advertisement and provide any PII. Under no circumstances does the ValueClick Network request or collect sensitive PII such as an Internet user's medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life. 
 
-Be Free does not track the identity or contact information of end users. Be Free's partner marketing and site marketing technologies collect and analyze anonymous Internet browsing and online purchase data to predict which promotions may be most interesting to Internet end users. When an Internet end user visits a web site employing Be Free's technology, Be Free sends a cookie to assign an anonymous, unique identifier to the end user's Internet browser. Cookies are small data files commonly used on the Internet to help identify repeat visitors to web sites. Only Be Free has access to the anonymous identifier assigned to an end users browser. Be Free then uses Internet browsing and online purchase data associated with the anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests. Be Free does not collect end users' names, physical addresses, e-mail addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person, nor does it match such information with the anonymous profiles. Be Free's technology records IP addresses, but does not associate any IP address with an organization name. 
+**B. Non-Personally Identifiable Information (Non-PII).**  
+When a consumer responds to or views an Internet advertisement served by a ValueClick company (such as through third-party websites or email solicitation) or visits a ValueClick Network site, we send a cookie and/or gif file ("Cookies") to assign an anonymous, unique identifier to the end user's Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to websites. 
 
-For improved audience targeting, Be Free's web site marketing technology allows Customers to add non-personally-identifying demographic information, such as age, gender, area code, or ZIP code, to the non-identifiable profile data. Thus, there is no direct connection between an end user's online choices and his or her personal identity. 
+The function of these Cookies is to provide ValueClick with information for the purpose of paying third-parties commissions when an Internet user clicks on a link, creates a lead, or makes a purchase on an advertiser's Web site; and also to optimize and personalize the Internet user's experience. If the Internet user re-visits the advertiser's site directly, ValueClick is able to continue to track the user's activities on the advertiser's site and reward the third-party website that referred the user. We reserve the right to retain all ad delivery and reporting data as long as may be reasonably necessary for accounting and audit purposes. 
 
-Uses and Disclosures of Data
+Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. This information, however, is not linked to any personally identifiable information. 
 
-Be Free does not sell or rent individually-identifiable end user or Partner data, and discloses such information only as provided in this policy. Be Free uses end user profile data to present targeted offers or content to visitors of Customer sites that use the Be Free site marketing technology. Be Free provides this information only in the form of specific recommendations based on aggregate profile data. At no point in this process does Be Free give profile data to the Customer, nor does it provide the recommendation to the Customer in any form , which could be combined with existing personal information that the Customer possesses. Be Free may also use anonymous end user data to create and disclose aggregate reports which reflect the collective browsing and purchasing activities of groups of anonymous end users, and if applicable to detect suspect activity.
+We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests. ValueClick does not use Cookies or log files to collect end users' names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. We may match the IP address and user profile with email address data obtained separately in order to better target campaigns to meet user's interests, but will not share this information with third parties. 
 
-Customers may receive reports showing the aggregate number of times a particular promotion is displayed on end users' browsers and the volume of purchases resulting from such promotions, or the browsing activity of certain demographic segments selected by a particular Customer. 
+For improved audience targeting, some ValueClick Network sites use marketing technology that allows advertisers to add non-personally-identifying demographic information, such as age, gender, area code, or ZIP code, to the non-identifiable profile data. Thus, there is no direct connection between an end user's online choices and his or her personal identity. 
 
-At present, all information processing occurs in the United States.
+In some cases, ValueClick receives and records partial email addresses of Internet users, only in circumstances where the user voluntarily provided its identity and contact information through the Advertiser's site or third-party marketer's site. This partial email address does not enable ValueClick to personally identify an Internet User. 
 
-Access and Opt Out
+**II. INFORMATION SHARING**
 
-Be Free empowers end users to access and modify their anonymous profile data through a Profile Control Panel. This control panel can be found at <http://www.yourcontrolpanel.com/mypage/pcp.html>. The panel displays the web site and web page information incorporated into an end user's targeted recommendations. The Profile Control Panel allows users to remove individual records that they do not wish to have associated with their profile, remove all of the records in the profile, or opt out of personalization entirely. Be Free provides access to this panel on its own web site, and requires that its site marketing Customers also provide clear access to the Profile Control Panel.
+The ValueClick Network may make any PII provided in responding to an advertisement available to the company sponsoring the advertisement, as well as to other trusted third parties in accordance with the terms of this privacy policy. As a result, you may receive information on additional products, services and offers that may be of interest to you. 
 
-Partner Privacy
+The ValueClick Network and/or our marketing partners may enhance and/or merge PII about consumers who have opted-in to receive marketing communications with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. In the event we enhance and/or merge such personally identifiable information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information. 
 
-Because Be Free serves as the data interchange between Partners and Customers, it necessarily has access to a great deal of information about Partners, including contact information such as name, mailing address, email address and phone number and the performance data for their marketing and promotional programs. To ensure the privacy of Partners, Be Free maintains the following policies: 
+The ValueClick Network may share PII (including information that has been enhanced with information from other sources) with advertisers, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any of the ValueClick Network companies. While ValueClick strongly encourages clients and partners to adopt responsible approaches to online marketing, ValueClick is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from ValueClick's policy. 
 
-Be Free shares neither personally identifiable information about a Partner nor information about a Partner's performance with any parties except to the Partner to whom the information pertains, to the Customer with whom that Partner is affiliated, or to others as directed by the Partner or the Customer with whom the Partner is affiliated. While Be Free does record such information in the application process and retains it in order to serve its Customers through processes such as reporting and payments to Partners, Customers' use of Partner data is governed by the Customers' affiliation agreements with their Partners. For some Customers, Be Free works with third party service providers to analyze Partner information on the Customer's behalf and for the Customer's use and benefit. Such service providers may have access to certain Partner information maintained by Be Free in the course of providing its services. The use of this data is governed by the affiliation agreement between the Customer and the Partner. Partners are always free to verify, alter, or delete the information recorded about them by updating their profiles through reporting.net, Be Free's Partner interface, or by contacting the administrators of the Customers' marketing programs. Partners are encouraged to review all terms of the affiliation agreement before initiating the relationship.
+The ValueClick Network may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Terms and Conditions](https://web.archive.org/terms.jsp) and other agreements; or protect the rights, property, or safety of ValueClick or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
-In instances in which an individual has become affiliated with a Be Free Customer and has also visited sites employing the Be Free site marketing service, Be Free may possess personal information about an individual for whom it also has an anonymous user profile. Be Free stores these data sets separately, and at no point will Be Free incorporate personal information about a Partner into a user profile without the explicit consent of the Partner.
+**III. CONSUMER CHOICE AND ACCESS**
 
-Security Measures
+**A. Opting Out.**   
+Some ValueClick Cookies have an "opt-out" option. This process does not remove the ValueClick Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below. 
 
-Be Free employs industry standard security measures to ensure the security of all data. Be Free data processing occurs in facilities that employ multiple safeguards to protect system data. All Customer and Partner data is protected through case-sensitive, alphanumeric passwords. These passwords are stored on an encrypted database. Access to these passwords is limited to the Customers and Partners that created the accounts, and to designated Be Free employees who require system level access in order to perform their jobs. Access to anonymous user profile data is limited to designated Be Free employees who require such access in order to perform their jobs. Be Free routinely evaluates its data security practices to identify security threats or opportunities for improvement.
+Some of ValueClick's Cookies do not have an "opt-out" option, yet you still have the option of blocking the use of Cookies by changing a setting in your Internet browser. Please see your browser supplier's website for details on how to do this. 
 
-Customer and Partner Web Sites
+This site does not maintain a process for an individual consumer to opt-out of a ValueClick ad serving Cookie. 
 
-While Be Free encourages Customers and Partners to adopt responsible approaches to online marketing, Be Free is not responsible for the information practices of Customers or their Partners or for the manner in which they use Be Free's services. Customers and Partners may collect information from or about Internet users, including personal information. The collection, use, and disclosure of information by Customers and Partners are subject to their respective privacy policies. Customers' and Partners' privacy policies may differ from Be Free's policy. Customers employing Be Free's site marketing services are required to provide access on their site to the Be Free hosted Profile Control Panel.
+**B. Accessing Consumer Information.**   
+Because they are not directed towards individual Internet users, most ValueClick Network sites do not maintain a process for an individual consumer to review and/or request changes to any PII collected. If this site provides such a process it is detailed below. 
 
-Be Free's Web Site
+Except as provided below, this site does not maintain a process for an individual consumer to access his/her PII. 
 
-Personal information gathered through Be Free's web site [www.befree.com](https://web.archive.org/) is used only for the purposes stated on the web site and is not normally shared with third parties. Be Free may request personal information from interested parties, such as name, email address, and mailing address. All personally identifying information gathered through the Be Free web site is provided entirely on a voluntary basis, and resulting communications continue only so long as the outside party so desires. The "Customers" contact information form and the "Stay in Touch" form allow interested parties to request more information about Be Free, and we use the contact information from those forms to reach these interested parties. The site provides a number of e-mail addresses on the and on the "Products and Services" page and the "Contact Us" page (Sales, Careers, etc.). These e-mail addresses are provided so that visitors can send their inquiries directly to the people at Be Free best equipped to handle their questions. Be Free endeavors to respond to such inquiries as quickly as possible.
+Commission Junction empowers end users of its BSELECT product to access and modify their anonymous profile data through a Profile Control Panel. This control panel can be found at <http://www.yourcontrolpanel.com/mypage/pcp.html>. The panel displays the website and web page information incorporated into an end user's targeted recommendations. The Profile Control Panel allows users to remove individual records that they do not wish to have associated with their profile, remove all of the records in the profile, or opt-out of personalization entirely. Commission Junction requires that its marketing Customers also provide clear access to the Profile Control Panel. 
 
-Be Free employs cookies to observe the online behavior of anonymous visitors to [www.befree.com](https://web.archive.org/). Cookies are small data files that are stored on the browser of a web site visitor. Be Free uses these observations to help optimize and personalize the Internet end user experience and help Customers manage and measure their promotions. Information derived from these cookies is not tied to personal information submitted on the site, nor is it shared with any third parties. You may access the information tied to your cookie at www.yourcontrolpanel.com. At this site you may also alter the information in your anonymous profile or opt out of personalization altogether, which will prevent Be Free from maintaining a profile for you. 
+**IV. SECURITY**
 
-We also employ a software technology called Clear GIFs (or "web beacons" or "web bugs") that help us better manage content on our site by informing us what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web visitors. Clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. The Clear GIFs used by Be Free are not tied to any personally identifiable information about web site visitors. 
+The ValueClick Network employs industry standard security measures to ensure the security of all data. Any data that is stored on ValueClick's servers is treated as proprietary and confidential and is not available to the public. ValueClick has an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering ValueClick products and services by means of user login and password requirements. The ValueClick Network routinely evaluates its data security practices to identify security threats or opportunities for improvement. 
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, and date/time stamp We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. IP addresses, etc. are not linked to personally identifiable information.
+No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of ValueClick to intercept or access transmissions or private communications unlawfully. While we strive to protect your PII, ValueClick cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with a ValueClick Network company. 
 
-E-mail 
+**V. CONSENT AND CHANGES**
 
-Be Free will never intentionally send unsolicited e-mail messages often referred to as "spam". Be Free educates and encourages its Customers to uphold the same standards. Be Free believes that successful online marketing is created by understanding buyers and their interests, not by using mass e-mail programs that bother large numbers of uninterested parties. Consequently, Be Free has developed the following policies against the practice of spam:
+The ValueClick Network may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by ValueClick prior to the effective date of the policy change. 
 
-> All e-mail sent by Be Free on behalf of our Customers must have an enclosed opt-out.
-> 
-> Partner and Customer recruiting activities using e-mail messaging rely upon opt-in methods.
-> 
-> Be Free advises its Customers that spam is both inappropriate and ineffective.
-> 
-> Be Free recommends to all of its Customers that Partners found to be sending spam be removed immediately from their marketing programs.
-> 
-> Recipients of any Be Free newsletter may opt-out of that newsletter at any time by responding to the mailing. 
+**VI. CHILDREN'S PRIVACY AND SPAM**
 
-Questions or concerns regarding Be Free's policies on spam and e-mail should be sent to [Abuse@befree.com](mailto:Abuse@befree.com).
+The ValueClick Network is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. ValueClick's web site, products, and services are not developed for or directed at children. Children (persons under the age of 18) are not eligible to do business with us and we do not collect personal information from any person we actually know is under the age of 13. If you believe your child has provided the ValueClick Network with any personally identifiable data by registering at a ValueClick web site, please email  to have them removed. 
 
-Third Party Disclosures
+The ValueClick Network is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to prohibit the sending of unsolicited or "Spam" e-mail by ValueClick or any of its marketing partners. 
 
-Be Free relies on various third parties in the operation of its business. Accordingly, Be Free shares information with its contractors and service providers (such as providers of technical services, attorneys, and auditors) as needed for them to provide services to Be Free. Information may be transferred as part of a corporate transaction (such as a merger, acquisition, or insolvency proceeding) involving Be Free's assets or businesses. In the event of a change of site ownership as a result of a merger or acquisition, Partners and Customers will be notified through the Partner Gateway section of the Be Free website. Information may also be disclosed as Be Free determines it to be necessary to comply with any applicable law, regulation, or court order, as required in connection with a third party dispute resolution proceeding, to protect the legal rights of Be Free or others, or to prevent injury or harm to persons or property.
+Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use for commercial emails. 
 
-Changes to this Statement
-
-Changing business needs, technologies, and governmental requirements may make it necessary for Be Free to update this Privacy Policy from time to time. Any material changes will be posted prominently on this site. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by Be Free prior to the effective date of the policy change. 
-
-Contact Us
-
-If you have questions or concerns regarding this policy, please contact us by email at [privacy@befree.com](mailto:privacy@befree.com), or by postal mail to:
-
-> Privacy Director   
->  Be Free, Inc.   
->  154 Crane Meadow Road   
->  Suite 100   
->  Marlborough, MA 01752
-
-**Updated** : 03/11/03
-
+To receive no further emails . . . | Opt-Out Mechanism to Use  
+---|---  
+about the advertiser | Advertiser's  
+from the email marketing company | Opt-Out Mechanism to Use  
+from the advertiser or email marketing company | Both  
   
+**VII. DATA PROCESSING/SAFE HARBOR**
 
+The European Union ("EU") maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. ValueClick, Inc. adheres to the Safe Harbor principals. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor). 
+
+By providing information to ValueClick Network sites, you acknowledge that they operate in the United States and agree to (i) permit ValueClick to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by ValueClick shall be subject to the terms and conditions stated in this Privacy Statement and our [Terms and Conditions](https://web.archive.org/terms.jsp). 
+
+**VIII. NETWORK ADVERTISING INITIATIVE**
+
+ValueClick, Inc. is a member of the Network Advertising Initiative ("NAI"). The NAI is a group of third party network advertisers committed to increasing consumer confidence and contributing to the growth of electronic commerce. We, along with other members of the NAI, are committed to providing consumers with a clear explanation of what data we collect, how we use them, and why the use of data can benefit consumer's experience online. For more information about the Network Advertising Alliance please go to [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
+
+**IX. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE**
+
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR [TERMS AND CONDITIONS](https://web.archive.org/terms.jsp) (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT COMMISSION JUNCTION'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE GREATER OF THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY COMMISSION JUNCTION OR $250 TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to Commission Junction with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais. 
+
+**CONTACT US** For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please email  or you can send correspondence to the following address: Privacy, Commission Junction, Inc., 1501 Chapala Street, Santa Barbara, CA 93021, USA. 
+
+**CLIENT PRIVACY**
+
+**I. INFORMATION WE COLLECT: ADVERTISERS AND PUBLISHERS**
+
+**A. Personally Identifiable Information (PII).**  
+The ValueClick Network collects personally identifiable information from all Advertisers and Publishers (collectively "Clients") wishing to work with any ValueClick company. The collection of this information is a part of our normal business practices. Advertisers or their representatives will be asked to provide personally identifiable data through the host sign up and registration process. Examples of personally identifiable data that may be requested include name, address, phone number, email address, and social security number, tax ID number, etc. The ValueClick Network will never request or collect data from a Client on subject areas including medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life. 
+
+**B. Non-Personally Identifiable Information (Non-PII).**   
+The ValueClick Network may use cookies and log files to optimize and personalize the Clients' experience and allow ValueClick to monitor site traffic patterns. 
+
+**II. INFORMATION SHARING**
+
+The ValueClick Network does not use any personally identifiable data about a Client for profiling purposes. All PII that ValueClick collects from Clients is principally intended for administrative needs (e.g., accounting and pay-out and performance reporting), for which purpose such data are required. 
+
+The ValueClick Network may provide email address and basic account data to an Advertiser or Publisher to facilitate a potential or continued working relationship between the Advertiser and Publisher. Once an affiliation is established, Advertiser and Publisher (or their agents or other third parties as designated by a Client) are privy to their respective campaign information and PII, including anonymous Internet user transaction data for Internet users referred by Publisher and any other information that a Client may instruct ValueClick to disclose. While ValueClick strongly encourages Clients to adopt responsible approaches to online marketing, ValueClick is not responsible for the information practices of Clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from ValueClick's policy. 
+
+Periodically ValueClick Network sites may use Clients' PII in order to communicate with our network of hosts via email newsletters or other avenues to offer strategic marketing information and other communications to assist in business related activities. In the event that a Client of the ValueClick Network wishes not to have their PII used for these purposes, they may elect to opt-out from future communications. For more information on opting-out please see the "Client Choice Concerning Data Collection" section below. 
+
+Except as may be agreed between a ValueClick company and a Client, all PII data provided by individual Clients will be kept in strict confidence by ValueClick Network companies and will be treated with the same level of respect and care that they treat other proprietary information and trade secrets. ValueClick will never sell, rent, exchange or barter any personally identifiable Client information to or with any third party for financial gain or marketing purposes. The ValueClick Network may, from time to time, provide such information to certain third-party administrative vendors for efficiency purposes in providing administrative or program management services such as billing, delivery and payouts. Any third-party vendor so used has agreed to protect the confidentiality of information provided by ValueClick. 
+
+The ValueClick Network may share PII in connection with our affiliated entities or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, or reorganization or liquidation of any of the ValueClick Network companies. The ValueClick Network may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Advertiser Terms of Use](https://web.archive.org/asa_usd.jsp), [Publisher Terms of Use](https://web.archive.org/pub_agreement.jsp) and other agreements; or protect the rights, property, or safety of ValueClick or others. This includes exchanging information with other companies and organizations for fraud protection. 
+
+**III. CLIENT CHOICE AND ACCESS**
+
+When a Client registers for services with a ValueClick Network company, PII is required as a part of doing business. ValueClick's primary intent in collecting personally identifiable information is for administrative purposes including accounting and payouts. However, the ValueClick Network may periodically use personally identifiable information for marketing and communication purposes targeted to our Clients. Clients wishing not to receive such communications from a ValueClick Network company may do so by "opting-out" during the registration and application procedure process. A Client may change their "opt" status at anytime during their tenure with ValueClick by accessing their online account. 
+
+When a Client logs on any browser-based ValueClick Network reporting system, a "Cookie" is placed within their computer. The purpose of the Cookie is to allow ValueClick to validate the identity of the Client and maintain the security and privacy of the Client's account data. This Cookie is required to log into ValueClick's reporting systems and there is no method to opt-out of this Cookie. 
+
+**IV. SECURITY**
+
+The ValueClick Network employs industry standard security measures to ensure the security of all data. Any data that is stored on ValueClick's servers is treated as proprietary and confidential and is not available to the public. ValueClick has an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering ValueClick products and services by means of user login and password requirements. The ValueClick Network routinely evaluates its data security practices to identify security threats or opportunities for improvement. 
+
+No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of ValueClick to intercept or access transmissions or private communications unlawfully. While we strive to protect your PII, ValueClick cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with a ValueClick Network company. 
+
+**V. CONSENT AND CHANGES**
+
+The ValueClick Network may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by Commission Junction prior to the effective date of the policy change. 
+
+**VI. DATA PROCESSING/SAFE HARBOR** The European Union ("EU") maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. ValueClick, Inc. adheres to the Safe Harbor principals. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor). 
+
+By providing information to ValueClick Network sites, you acknowledge that they operate in the United States and agree to (i) permit ValueClick to transmit and use your User information anywhere necessary, including across international boundaries, to effect the services and transactions provided by this Site; and (ii) that such use by ValueClick shall be subject to the terms and conditions stated in this Privacy Statement and our [Advertiser Terms of Use](https://web.archive.org/asa_usd.jsp) and [Publisher Terms of Use](https://web.archive.org/pub_agreement.jsp). 
+
+**VII. NETWORK ADVERTISING INITIATIVE**
+
+ValueClick, Inc. is a member of the Network Advertising Initiative ("NAI"). The NAI is a group of third party network advertisers committed to increasing consumer confidence and contributing to the growth of electronic commerce. We, along with other members of the NAI, are committed to providing consumers with a clear explanation of what data we collect, how we use them, and why the use of data can benefit consumer's experience online. For more information about the Network Advertising Alliance please go to [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
+
+**VIII. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE**
+
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR [ADVERTISER TERMS OF USE](https://web.archive.org/asa_usd.jsp) and [PUBLISHER TERMS OF USE](https://web.archive.org/pub_agreement.jsp) (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT COMMISSION JUNCTION'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY COMMISSION JUNCTION TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to Commission Junction with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais. 
+
+**IX. CONTACT US** For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please send an email to  or you can send correspondence to the following address: Privacy, Commission Junction, Inc., 1501 Chapala Street, Santa Barbara, CA 93021, USA. 
+
+_Posted July 1, 2004
+
+Copyright © 2004, Commission Junction Inc. All rights reserved. 
+
+_
