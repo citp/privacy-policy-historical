@@ -1,74 +1,73 @@
-> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815090101id_/http%3A//www.shine.com/shine_legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/shine411_events.cfm%3Fcontent_id%3Dprivacypolicy) for the most accurate reproduction.*
 
-# shine!
+# SHiNE :: SHiNE 411 :: Events
 
-shine! is committed to protecting your privacy.
+|    
+|  [](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/shine411.cfm) SHiNE's Privacy Policy 
 
-shine! is a strong advocate for increased privacy standards and is active in the fight against unsolicited email (spam).
+**Users under the age of 13-years-old:**
 
-To help personalize your experience with shine!, or to meet legal requirements for charitable donations, some information must be obtained. You have our assurance that:
+We welcome users under the age of 13-years-old and hope that you enjoy the many parts of our site that do not require registration. We do not allow users under the age of 13 to register, in compliance with the Children's Online Privacy Protection Act and we do not knowingly collect personally identifiable information from children under 13. 
 
-We are committed to safeguarding your privacy online.
+**Users over the age of 13-years-old:**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+**I. When information is and is not collected**
 
-shine! does not collect personally identifying information about you except when you specifically and knowingly provide it. Types of information we collect include your name and e-mail address, so we can identify you as a unique individual and grant you access to your personal page. We also ask for your zip code, so that we can personalize news, volunteer opportunities and other information based on your geographic location. We collect, but do not require, demographic information such as addresses and income levels so that we can offer future products and services that meet our users' needs. And we ask for, but also do not require, a phone number so that we can personally respond to any technical support and/or customer service issues.
+  * When you register with SHiNE, you will be asked for personal information: Full Name, Gender, Date of Birth, Email Address, School and Zip/Postal Code. You will also be asked to provide a Username, which will be used to identify you on the SHiNE message boards and journals, and a Password, so that only you can use your Username. 
+  * You may choose to "Get Involved" with SHiNE without registering for the site. You will be asked to provide personal information so that we can contact you. 
+  * SHiNE only utilizes information that is voluntarily submitted. SHiNE does not use cookies to track user habits or to gain access to personally identifiable information that you haven't already provided. 
+  * SHiNE also provides a "Send to a Friend" feature, which allows you to forward a message to a friend. The email addresses you enter for your friends are used for this one-time only email, and are not stored. Your friends will not be put on any sort of mailing list. 
 
-When you join shine!, you will receive an e-mail confirming your membership. You will also receive e-mail messages to confirm charitable donations (and for your tax records), sponsorships and support requests (answers to technical or customer service issues will be done via e-mail or telephone). If you are a nonprofit representative and have joined shine!, you will receive an e-mail confirmation of your membership and ability for your organization to post information on your charity's shine! page.
+**II. The type of information we use**
 
-Users have the option to remain anonymous when making donations to nonprofit organizations, so that the organizations will not receive your name or contact information when they get your donation. When you make a donation, simply click in the box marked "anonymous" to protect your identity.
+  * We collect date of birth information to ensure that all of our registered users are at least 13 years old, in compliance with the Children's Online Privacy Protection Act. 
+  * SHiNE collects Zip/Postal Code to identify what locale you are from in order to understand the geographical distribution of the SHiNE community. 
+  * Since SHiNE is a youth-based non-profit organization, we collect School information to identify possible areas for SHiNE activities and clubs. 
+  * We collect E-Mail Addresses to contact SHiNE users (e.g. contest winners). 
+  * On the registration form, you have the opportunity to opt into SHiNE's email mailing list. SHiNE sends out a weekly newsletter, which you may unsubscribe from at any time by sending an email to [_Maxine@shinemail.org_](mailto:Maxine@shinemail.org) with "Unsubscribe" as the header. 
 
-Upon joining shine!, users are automatically added to the weekly "rise & shine!" e-mail newsletter, which includes information about news stories on shine!, and special events and promotions. Users can "opt-out" of the newsletter program by clicking the "no" button in the newsletter box on the registration form.
+**III. How we use information**  
+When you post a message on the SHiNE Message Boards or Online Journals, only your Username is made available to those who read the posted message. Please consider this when you post. You may reveal your Name, E-mail Address, or other personally identifiable information at your own risk; however, SHiNE does not recommend it. SHiNE does not accept any liability for difficulties that arise from self-disclosure of any personal information. 
 
-We only collect information from you when you knowingly and willingly submit information to us. In addition to the kinds of information and uses referenced above, we also make it possible for members to submit:
+We do not sell or market lists of our users or any of our users' personally identifiable information. However, SHiNE may provide aggregate information about our audience to other organizations (e.g. our audience is x% female and x% male.) 
 
-•  Resumes  
-•  Passwords to access secure, private pages  
-•  Date of birth  
-•  Social security number  
-•  Employee identification number (if participating in an employee giving program)  
-•  Nonprofit EIN number  
-•  Technical support requests  
-•  Home and business addresses and e-mails addresses  
-•  Sponsorship and donation amounts
+All of the user's database information is processed on the back-end of our site requiring multiple authentication processes to gain access. Employee access to this data is limited to personnel that are responsible for maintaining the database. 
 
-Users can donate to their favorite charities with a credit card (see encryption information below). For the purpose of donations and personal sponsorships (e.g., challenge or matching grants), shine! collects credit card numbers and expiration dates, as well as a billing address. As an added service, shine! can save multiple credit cards on a secure server, so that users can, for example, have a card for making personal donations and a card for making corporate donations. This also streamlines the process so that users don't have to re-enter credit card information each time they make a donation.
+Lastly, SHiNE may choose to disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use or may be causing injury or interference, intentionally or unintentionally, to SHiNE's rights or property, other SHiNE users, or anyone else that could be harmed by such activities. 
 
-Using the secure technology described below, this encrypted information is transferred to the National Philanthropic Trust (NPT). NPT is an independent 501(c)(3) public charity that administers the shine! Charities Trust, a donor-advised fund established by shine! to receive all online charitable donations. When you make a donation through shine!, NPT issues you an electronic receipt, documenting your charitable contribution and ensuring the integrity of the donation process through an independent board of directors.
+**IV. Partners and Sponsors**  
+SHiNE works with partners and sponsors in order to provide you with a Web site that continually meets your needs. We may develop custom features for some of our partners and sponsors (e.g. contests). In some instances, when you register to use these custom features, your registration information will be shared with partner organizations. However, in every such case, you will be told about the intended sharing of your information prior to registering and you will have the option of not using the service. These relationships fall under two privacy policies, the SHiNE policy and the group or organization policy. It is important to note that the group or organization may abide by standards that differ from those of SHiNE. 
 
-shine! may provide aggregate statistics about its members, traffic patterns, and related site information to reputable third-parties, but these statistics will not include personally identifying information. By aggregating the information in a non-identifiable fashion and providing it to reputable third-parties, we can increase our ability to provide 100%-to-charity™ donations.
-shine! is committed to protecting your privacy.
+**V. Contests**  
+When we run contests on our site, you may be asked to provide additional information in order to participate. The specific rules for any contest will state how that information may be used to the extent that it is different from this policy. If the contest is produced in partnership with a partner or sponsor, the information may be shared as SHiNE's policy in regard to partners and sponsor allows (above). 
 
-shine! is a strong advocate for increased privacy standards and is active in the fight against unsolicited email (spam).
+**VI. Links**  
+Users should be aware that when you are on SHiNE, you may be directed other sites as resources or relevant links. SHiNE does its best to refer sites that provide information or services that are helpful to the SHiNE audience. However, we do not control the privacy policies of these external sites, and do not accept any liability from difficulties arising from the use of one of these external links. 
 
-To help personalize your experience with shine!, or to meet legal requirements for charitable donations, some information must be obtained. You have our assurance that:
+|  |  [](http://www.shine.com/mingle.cfm)  
+  
+---  
+  
+| 
 
-We are committed to safeguarding your privacy online.
+[](http://www.shine.com/cfboards/index.cfm?CFB=1)
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-shine! does not collect personally identifying information about you except when you specifically and knowingly provide it. Types of information we collect include your name and e-mail address, so we can identify you as a unique individual and grant you access to your personal page. We also ask for your zip code, so that we can personalize news, volunteer opportunities and other information based on your geographic location. We collect, but do not require, demographic information such as addresses and income levels so that we can offer future products and services that meet our users' needs. And we ask for, but also do not require, a phone number so that we can personally respond to any technical support and/or customer service issues.
-
-When you join shine!, you will receive an e-mail confirming your membership. You will also receive e-mail messages to confirm charitable donations (and for your tax records), sponsorships and support requests (answers to technical or customer service issues will be done via e-mail or telephone). If you are a nonprofit representative and have joined shine!, you will receive an e-mail confirmation of your membership and ability for your organization to post information on your charity's shine! page.
-
-Users have the option to remain anonymous when making donations to nonprofit organizations, so that the organizations will not receive your name or contact information when they get your donation. When you make a donation, simply click in the box marked "anonymous" to protect your identity.
-
-Upon joining shine!, users are automatically added to the weekly "rise & shine!" e-mail newsletter, which includes information about news stories on shine!, and special events and promotions. Users can "opt-out" of the newsletter program by clicking the "no" button in the newsletter box on the registration form.
-
-We only collect information from you when you knowingly and willingly submit information to us. In addition to the kinds of information and uses referenced above, we also make it possible for members to submit:
-
-•  Resumes  
-•  Passwords to access secure, private pages  
-•  Date of birth  
-•  Social security number  
-•  Employee identification number (if participating in an employee giving program)  
-•  Nonprofit EIN number  
-•  Technical support requests  
-•  Home and business addresses and e-mails addresses  
-•  Sponsorship and donation amounts
-
-Users can donate to their favorite charities with a credit card (see encryption information below). For the purpose of donations and personal sponsorships (e.g., challenge or matching grants), shine! collects credit card numbers and expiration dates, as well as a billing address. As an added service, shine! can save multiple credit cards on a secure server, so that users can, for example, have a card for making personal donations and a card for making corporate donations. This also streamlines the process so that users don't have to re-enter credit card information each time they make a donation.
-
-Using the secure technology described below, this encrypted information is transferred to the National Philanthropic Trust (NPT). NPT is an independent 501(c)(3) public charity that administers the shine! Charities Trust, a donor-advised fund established by shine! to receive all online charitable donations. When you make a donation through shine!, NPT issues you an electronic receipt, documenting your charitable contribution and ensuring the integrity of the donation process through an independent board of directors.
-
-shine! may provide aggregate statistics about its members, traffic patterns, and related site information to reputable third-parties, but these statistics will not include personally identifying information. By aggregating the information in a non-identifiable fashion and providing it to reputable third-parties, we can increase our ability to provide 100%-to-charity™ donations.
+[_"Why can't I have a conversation with a guy without him looking at my chest?"  
+**\- kt03**_](http://www.shine.com/cfboards/thread.cfm?CFB=1&Tid=16035) |    
+  
+[](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/shine_benefit.cfm)  
+  
+  
+|    
+[Find out how you can get involved with the **2nd Annual SHiNE Benefit**.](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/shine_benefit.cfm) |    
+  
+[](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/challenge_grant.cfm)  
+  
+|  [**Take the Challenge!**  
+Got a bright idea to better your community? Take the **SHiNE/Youth Venture Challenge!**](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/challenge_grant.cfm) |    
+  
+  
+  
+  
+  
+[](http://www.upoc.com/shine)
