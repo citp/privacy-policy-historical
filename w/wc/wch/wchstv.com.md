@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405000252id_/http%3A//wchstv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212133508id_/http%3A//wchstv.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
@@ -13,15 +13,13 @@
   
 [**Now Hiring**](https://web.archive.org/jobs.html)  
   
-[**ABC Contacts**](https://web.archive.org/abccontact.html)  
+[**Program and Contact FAQ**](https://web.archive.org/programfaq.html)  
   
 [**Great Buys**](https://web.archive.org/ad/)  
   
 [**Register**](https://web.archive.org/register.html)  
   
 [**Search**](https://web.archive.org/8search.phtml)  
-  
-[](http://www.abc.com/)  
   
 |  |    
 Privacy Statement for www.wchstv.com
