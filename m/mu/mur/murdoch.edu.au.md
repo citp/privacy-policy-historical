@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622091758id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2004-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041227044703id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
 
 # Murdoch University University Web Sites Privacy Notice
 
@@ -45,7 +45,7 @@ If you are not a Murdoch student or a University staff member and you send us a 
 
 University Web sites have security measures in place against the loss, misuse and alteration of information as defined in the [University's IT Security Policy](http://wwwits2.murdoch.edu.au/security/policy.html).
 
-Secure sites require users to identify themselves, either with a login or username and password, or ID Number (eg. staff or student number) and [MAIS PIN](https://web.archive.org/cwisad/access/access.html#mupin). The University also uses Secure Servers with digital IDs when providing users with access to information that is personal, sensitive or confidential (eg. assessment results). 
+Secure sites require users to identify themselves. For example a user may be prompted at a login screen to enter a [Murdoch Username](https://web.archive.org/help/login/username.html) and [Murdoch Password](https://web.archive.org/help/login/password.html). The University also uses Secure Servers with digital IDs when providing users with access to information that is personal, sensitive or confidential (eg. assessment results). 
 
 ### Cookies
 
@@ -55,7 +55,7 @@ Some University Web sites are access restricted. These sites may use cookies to 
 
 Cookies may store the following information: session (numbered key) and duration. A numbered key is a unique Server generated number used to track your current session. The session key can be linked back to a user's login identification.
 
-Unique identifiers (such as login name and password, or ID Number and MAIS PIN) are collected from visitors to our Web sites to verify a user's identity.
+Unique identifiers (such as login username and password) are collected from visitors to our Web sites to verify a user's identity.
 
 Unique identifiers may also be used to access stored information about a visitor's preferences to enable the dynamic display of the site according to your preferences when you return.
 
@@ -124,3 +124,7 @@ Any user with a query or complaint relating to online privacy issues with respec
 ## 6\. University Privacy Policy
 
 This notice should be read in conjunction with the University's [Privacy Policy](https://web.archive.org/admin/policies/privacy.html). 
+
+* * *
+
+This notice has been adapted from the [Monash University's Web Site Privacy Statement](http://www.monash.edu.au/legals/privacy.html). 
