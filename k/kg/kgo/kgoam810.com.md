@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622045304id_/http%3A//www.kgoam810.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206062524id_/http%3A//www.kgoam810.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # KGO-AM 810 NewsTalk
 
