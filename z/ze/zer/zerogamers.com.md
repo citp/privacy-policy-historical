@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the zerogamers.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206193355id_/http%3A//www.zerogamers.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerogamers.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207023943id_/http%3A//www.zerogamers.com/privacy.php) for the most accurate reproduction.*
 
-# Zerogamers - All your gaming needs!
+# Zerogamers - Privacy Policy
 
 **What other types of information do we collect?**  
-For some activities, we may ask you to create a username and password and/or to provide other, non-personal information such as your Ip Adress, age, date of birth, gender, a nd, combine such information with your personal information such as your Name, email adress, etc. 
+For some activities, we may ask you to create a username and password and/or to provide other, non-personal information such as your Ip Adress, age, date of birth, gender, and, combine such information with your personal information such as your Name, email adress, etc. 
 
 **Who is collecting your information?**  
 Personal information that you submit to us when signing up for our community is used by Zerogamers for the purpose of serving you better. It is collected by the site administration, and is viewed by only them. 
