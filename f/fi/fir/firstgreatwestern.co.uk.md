@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616134600id_/http%3A//www.firstgreatwestern.co.uk/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205042843id_/http%3A//www.firstgreatwestern.co.uk/legal/privacy.php) for the most accurate reproduction.*
 
 # First Great Western: trains, tickets, timetables for London, Bristol, Cardiff, West of England
 
-Privacy refers to information we obtain about you and the use we make of it in the course of our business. We also have a [Security Statement](https://web.archive.org/web/20040616134600id_/http%3A//www.firstgreatwestern.co.uk/legal/legal.php) that describes how sensitive information is kept safe and secure.
+Privacy refers to information we obtain about you and the use we make of it in the course of our business. We also have a [Security Statement](https://web.archive.org/web/20041205042843id_/http%3A//www.firstgreatwestern.co.uk/legal/legal.php) that describes how sensitive information is kept safe and secure.
 
 If you don't find your concern addressed here, feel free to contact us by e-mail us using the feedback form on this site.
 
