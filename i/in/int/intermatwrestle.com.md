@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002065709id_/http%3A//www.intermatwrestle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602200506id_/http%3A//www.intermatwrestle.com/privacy.htm) for the most accurate reproduction.*
 
 # InterMat Wrestling: A Click Above The Rest
 
@@ -24,18 +24,19 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our Security Certificate is provided by [Thawte.](http://www.thawte.com/)
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
 ## Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Please send an email to [iminfo@intermatwrestle.com](mailto:iminfo@intermatwrestle.com) regarding the information you received from InterMat.
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Please send an email to [intermat@intermatwrestle.com](mailto:intermat@intermatwrestle.com) regarding the information you received from InterMat.
 
 ## Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. Please send an email to [iminfo@intermatwrestle.com](mailto:iminfo@intermatwrestle.com) regarding which information you would like updated.
+This site gives users the following options for changing and modifying information previously provided. Please send an email to [intermat@intermatwrestle.com](mailto:intermat@intermatwrestle.com) regarding which information you would like updated.
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Tom Owens InterMat Inc. [tomo@intermatwrestle.com](mailto:tomo@intermatwrestle.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   
+ Tom Owens [tomo@intermatwrestle.com](mailto:tomo@intermatwrestle.com)
