@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budget.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605115101id_/http%3A//www.budget.com.au/about_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budget.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208163215id_/http%3A//www.budget.com.au/about_privacy.php) for the most accurate reproduction.*
 
 # Budget Australia >> Privacy Policy
 
@@ -44,7 +44,21 @@ Persistent cookies identify pages accessed and provide personalised features, fo
 
 Session cookies are used for security purposes as part of our customer identification process. These cookies allow you to be recognised once you have logged in and provide you with confidential access to your rental records. 
 
-We may also allow third parties to collect statistical data from our site using their persistent cookies. However these cookies do not capture information that can personally identify you. They are simply used to measure the effectiveness of our site. 
+Like many web site operators, Budget Rent A Car also uses the independent company Red Sheriff to measure and analyse the internet usage across the Network. RedSheriff is a leader in the internet industry in interactive measurement technologies and market research. Budget Rent A Car uses Red Sheriff's Red Measure tracking code to collect the following core information on the usage of the Budget Rent A Car network: 
+
+  * The number of page views (or page impressions) that occur on the Network; 
+  * The number of unique visitors to the Network; 
+  * How long these unique visitors (on average) spend on the Network when they do visit; and 
+  * Common entry and exit points into the Network.
+
+
+
+  
+This aggregate, non-personal information is collated by [Red Sheriff ](http://www.redsheriff.com.au/)and provided to Budget Rent A Car to assist in analysing the usage of the Network. The Red Sheriff data is also accessible by media organizations and research companies, for the purpose of conducting industry comparisons with other internet portals. 
+
+All pages on the Network are coded with the Red Sheriff Measure software. This is transparent to the user as the software makes use of an invisible image (via Javascript), at the bottom of the web page. This software stores a "cookie" in the browser, which contains a unique identifier. This enables Red Sheriff to track the number of unique visitors to the Network. This information is collected and aggregated by Red Sheriff, and in no way does this unique identifier identify a user personally. Budget Rent A Car does not and will not marry any data collected by Red Sheriff with any personal information collected on the Network. 
+
+Red Sheriff software code cannot be disabled entirely on the Budget Rent A Car pages, as the Red Measure code takes into account all web-browser configurations, including the disabling of Java and Javascript. However, if cookies are disabled in your browser, then Red Sheriff cannot track you as a unique visitor, and will consider you as a new visitor each time you browse a new page on the Network. To learn how to disable your cookies, please refer Section 5 above. To learn more about Red Sheriff's privacy policy, [click here](http://www.redsheriff.com/au/content/privacy_1.html). 
 
 * * *
 
