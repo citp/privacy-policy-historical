@@ -1,14 +1,45 @@
-> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205134042id_/http%3A//www.nfl.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095916id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
-# NFL.com: Privacy Policy
+# NFL.com - Privacy Policy
 
-  
-  |  |  |  [](https://web.archive.org/help/)
-
-**PRIVACY POLICY**  
+|   
+---  
+* [FANTASY](http://www.nfl.com/fantasy/index.html)  
+* [NEWS](https://web.archive.org/news)  
+* [TV & RADIO](https://web.archive.org/tvradio/)  
+* [ROSTERS](https://web.archive.org/rosters)  
+* [DEPTH CHARTS](https://web.archive.org/depthcharts)  
+* [NFL FILMS](http://www.nfl.com/nflfilmstv)  
+* [NFL INSIDER](https://web.archive.org/insider)  
+* [TICKETS](https://web.archive.org/tickets)  
+* [AUCTIONS](https://web.archive.org/auctions)  
+* [YOUTH FOOTBALL](http://www.nflhs.com/nflprograms)  
+* [UNDER THE HELMET](http://www.nfl.com/reebok/index.html)  
+* [NFL SHOP](http://www.nflshop.com/home/default.cfm?SID=7193)  
+---  
+* [KIDS](http://www.playfootball.com/)  
+* [GAMES](http://nfl.ea.com/sports_nfl/games/home.jsp)  
+* [NFLPLAYERS.COM](http://www.nflplayers.com/)  
+* [SUPER BOWL](http://www.superbowl.com/)  
+* [PRO BOWL](http://www.probowl.com/)  
+* [NFL EUROPE](http://www.nfleurope.com/)  
+* [HALL OF FAME](http://www.profootballhof.com/)  
+* [NFL ALUMNI](http://www.nflalumni.org/)  
+---  
+* [ESPAÑOL](https://web.archive.org/espanol)  
+* [IN THE COMMUNITY](https://web.archive.org/fans)  
+* [NFL SUNDAY TICKET](https://web.archive.org/ticket)  
+* [BASICS](https://web.archive.org/basics)  
+* [HISTORY](https://web.archive.org/history)  
+* [INTERNATIONAL](https://web.archive.org/international)  
+* [WIRELESS](https://web.archive.org/wireless)  
+* [COACHES CLUB](https://web.archive.org/coachesclub)  
+|   |  | |   
+---|---  
+[Play football Privacy Policy](http://www.playfootball.com/site/privacy.html) **·** [NFL Shop Privacy Policy](http://www.nflshop.com/Templates/Cm/cssecurity.tem#privacystatements) **PRIVACY POLICY**  
 Effective Date: Aug. 16, 2001 
 
-This privacy policy is applicable to the Website[s] accessible at universal resource locators NFL.com and Superbowl.com (collectively the "Site"), which is operated pursuant to a strategic relationship among National Football League Enterprises, L.P. on behalf of the National Football League, SportsLine.com, Inc., America Online, Inc., and CBS Broadcasting, Inc. (collectively, the "NFL PARTNERS", "we", "our", or "us"). **Note:[Click here](https://web.archive.org/help/prior_note.html) if you disclosed personally identifiable information via the the NFL.com and/or Superbowl.com Web sites (individually or collectively, as applicable, the "NFL Sites") prior to Aug. 16, 2001.** This privacy policy shall be prominently published on the Site. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+This privacy policy is applicable to the Website[s] accessible at universal resource locators NFL.com and Superbowl.com (collectively the "Site"), which is operated pursuant to a strategic relationship among National Football League Enterprises, L.P. on behalf of the National Football League, SportsLine.com, Inc., America Online, Inc., and CBS Broadcasting, Inc. (collectively, the "NFL PARTNERS", "we", "our", or "us"). **Note:[Click here](https://web.archive.org/help/prior) if you disclosed personally identifiable information via the the NFL.com and/or Superbowl.com Web sites (individually or collectively, as applicable, the "NFL Sites") prior to Aug. 16, 2001.** This privacy policy shall be prominently published on the Site. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 Please read the following to learn more about our data collection policies and practices. 
 
@@ -121,10 +152,6 @@ Questions regarding this statement should be directed to:
 SportsLine.com, Inc.  
 Attn: Customer Service - Privacy  
 2200 W. Cypress Creek Road  
-Ft. Lauderdale, Florida 33309    
- 
+Ft. Lauderdale, Florida 33309 
 
-|  |  |  |   
----  
-  
- 
+  | 
