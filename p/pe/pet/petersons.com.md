@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044422id_/http%3A//www.petersons.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602220726id_/http%3A//petersons.com/terms.html) for the most accurate reproduction.*
 
-# Peterson's Terms and Conditions
+# Thomson Peterson's Privacy Statement
 
 This privacy statement is designed to help you understand how we use and safeguard the personal information you provide to us. This privacy statement describes the practices of petersons.com, cyberedit.com, essayedge.com, resumeedge.com, termpaperedge.com, and webresume.com, members of the Thomson Learning family of companies.
 
@@ -34,7 +34,7 @@ If you purchase a product or service on our site, you may provide us with a cred
 
 In general, it is our policy to share information with other companies in the Thomson family (such as other Thomson Learning companies) unless you tell us not to by opting out. Unless you agree (by opting in), we will not share personal information about you with unrelated companies except as needed to complete your transaction. However, we may disclose any information when legally compelled to do so or when needed for the protection of our legal rights. For example, we may disclose information about you in response to a subpoena or government investigation. We may also disclose information about you in connection with the transfer of assets of our business.
 
-At registration, you will be given the opportunity to opt-out of Peterson's internal promotions, offers and marketing messages. You will also be given the opportunity to opt-in to receive offers from partners and third parties.
+At registration, you will be given the opportunity to opt-out of Thomson Peterson's internal promotions, offers and marketing messages. You will also be given the opportunity to opt-in to receive offers from partners and third parties.
 
 Your Choices
 
@@ -44,17 +44,17 @@ We only want to send you information if you want to receive it. You may opt out 
 
 Opting In for Offers from Our Marketing Partners
 
-If you want to receive information from our marketing partners, you may opt in during the registration process by checking the appropriate boxes on the registration page. If you do opt in, you can always change your mind and inform us that you no longer want to disclose your information to new marketing partners. Simply contact our customer services department by email at [custsvc@petersons.com](mailto:custsvc@petersons.com) and request removal from our external email list or call Peterson's at 1-800-225-0261.
+If you want to receive information from our marketing partners, you may opt in during the registration process by checking the appropriate boxes on the registration page. If you do opt in, you can always change your mind and inform us that you no longer want to disclose your information to new marketing partners. Simply contact our customer services department by email at [custsvc@petersons.com](mailto:custsvc@petersons.com) and request removal from our external email list or call Thomson Peterson's at 1-800-225-0261.
 
 Newsletter
 
-If a user wishes to subscribe to any of our newsletters, we ask them to register by providing their contact information (email address), geographic information (zip code), and segmentation information (high school student, parent, etc.). Newsletter recipients will also receive Peterson's offers from time-to-time and may opt-out of these offers by using the method described above.
+If a user wishes to subscribe to any of our newsletters, we ask them to register by providing their contact information (email address), geographic information (zip code), and segmentation information (high school student, parent, etc.). Newsletter recipients will also receive Thomson Peterson's offers from time-to-time and may opt-out of these offers by using the method described above.
 
 Promotions, Surveys and Contests
 
 From time-to-time our site requests information from users via promotions, surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), segmentation information (such as high school student, parent, etc.) and demographic information (such as zip code). Contact information will be used to process entries, send promotional material, notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving use of and satisfaction with this Web site.
 
-Please be sure to consult the official rules of any contest or sweepstakes you enter on Petersons.com as specific data collection and usage practices may vary by contest or sweepstakes. Unless the official rules or entry instructions provide otherwise, contest or sweepstakes participants may opt-out of receiving future Peterson's mailings or having their information shared with other companies by the method described above. 
+Please be sure to consult the official rules of any contest or sweepstakes you enter on Petersons.com as specific data collection and usage practices may vary by contest or sweepstakes. Unless the official rules or entry instructions provide otherwise, contest or sweepstakes participants may opt-out of receiving future Thomson Peterson's mailings or having their information shared with other companies by the method described above. 
 
 Email A Friend/Tell A Friend
 
@@ -85,7 +85,7 @@ Contact Us With Any Questions
 If you have any questions about this privacy statement, the practices of our websites, or your dealings with this web site, please contact the proper address below: 
 
 Support Services  
-Peterson's  
+Thomson Peterson's  
 2000 Lenox Drive  
 Lawrenceville, NJ 08648  
 [custsvc@petersons.com](mailto:custsvc@petersons.com)
