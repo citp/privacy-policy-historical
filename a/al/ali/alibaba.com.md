@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204192559id_/http%3A//www.alibaba.com/bin/servlet/page/static/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206222559id_/http%3A//www.alibaba.com/bin/servlet/page/static/privacy_statement) for the most accurate reproduction.*
 
-# Alibaba: The World's Largest Global Trade Marketplace
+# Alibaba: The World's Largest Base of Suppliers
 
 **PRIVACY POLICY**   
 (Updated on 16/10/01)
