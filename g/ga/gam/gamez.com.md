@@ -1,16 +1,59 @@
-> *The following text is extracted and transformed from the gamez.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610184015id_/http%3A//gamez.com/sage/help_privacy.x) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamez.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204134357id_/http%3A//gamez.com/sage/help_privacy.x) for the most accurate reproduction.*
 
 # Gamez.com - Privacy Policy Information
 
+| Main Options  
+[Home](http://gamez.com/)  
+[Site Help](http://gamez.com/sage/help.x)  
+[Search](http://search.gamez.com/)  
+[Forums](http://forums.gamez.com/)  
+  
+User Options  
+[Login](http://members.gamez.com/sage/login.x?program=http%3A%2F%2Fgamez.com%2Fsage%2Fhelp_privacy.x)  
+[Register](http://members.gamez.com/sage/userprofile.x?new=1)  
+  
+Submit Content  
   
   
+Cheats/Guides  
+[Cheats](http://cheats.gamez.com/)  
+[FAQ's](http://faqs.gamez.com/)  
+[Guides](http://guides.gamez.com/)  
+[Solutions](http://solutions.gamez.com/)  
   
+Content  
+[News](http://news.gamez.com/)  
+[Interviews](http://interviews.gamez.com/)  
+[Previews](http://previews.gamez.com/)  
+[Reviews](http://reviews.gamez.com/)  
+[Editorials](http://editorials.gamez.com/)  
+[Opinions](http://opinions.gamez.com/)  
+[Sites](https://web.archive.org/)  
+  
+Downloads  
+[Demos](http://demos.gamez.com/)  
+[Movies](http://movies.gamez.com/)  
+[Patches](http://patches.gamez.com/)  
+[Mods](http://mods.gamez.com/)  
+[Shareware](http://shareware.gamez.com/)  
+[Drivers](http://drivers.gamez.com/)  
+[Tools](http://tools.gamez.com/)  
+  
+Images  
+[Screenshots](http://screenshots.gamez.com/)  
+[Wallpapers](http://wallpapers.gamez.com/)  
+  
+About Us  
+[Contact Us](http://gamez.com/sage/feedback.x)  
+[Privacy Policy](http://gamez.com/sage/help_privacy.x)  
+[Submit Content](http://gamez.com/sage/submit_content.x?s=news)  
   
   
 |   
-| 
-
-| Privacy Policy Information  
+|   
+  
+  
+| | Privacy Policy Information  
   
 ---  
 Privacy Policy  
@@ -31,7 +74,7 @@ Personal Information
   
 We recognize the importance of protecting the privacy of you as a user of this Website. This Website does not collect Personal Information about you except for information that you voluntarily provide (for example, when you submit an email to us with comments about our web site or products reviewed on the web site and you do not specifically indicate that the information contained within is to be considered confidential or provide answers to a voluntary readership survey.)  
   
-We consider the following to be Personal Information: your name, address, phone number, date of birth, job, personal interests, credit card information, your e-mail address and data about the pages you visited on this Website...  
+We consider the following to be Personal Information: your name, address, phone number, date of birth, job, personal interests, credit card information, your e-mail address and data about the pages you visited on this Website.  
   
 Links to Other Sites  
   
@@ -72,14 +115,9 @@ If you have any questions about this privacy statement, the practices of this si
   
   
   
-  
 | | Login  
   
 ---  
-  
-  
-  
-  
   
   
   
