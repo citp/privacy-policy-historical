@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankatlantic.com privacy policy that was archived on 2001-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011212140307id_/http%3A//bankatlantic.com/qaprivacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankatlantic.com privacy policy that was archived on 2002-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601122409id_/http%3A//bankatlantic.com/qaprivacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -84,7 +84,7 @@ window.name = 'opener';
 
 function formCities(){
 var URL = document.Cities.JumpCities.options[document.Cities.JumpCities.selectedIndex].value;
-	window.location.href = URL;
+    window.location.href = URL;
 }
 
 function popup3(destination) {
@@ -121,11 +121,40 @@ function hpcApply()
 	document.frmHpcApplyNow.submit()
 }
 
+function calculatorPopUp(strUrl, intHeight, intWidth)
+{
+	var strFeatures
+	strFeatures = "height=" + intHeight + ",width=" + intWidth + ",menubar=no,location=no,directories=no,toolbar=no,status=no,scrollbars=yes,resizable=yes"
+	
+	window.open(strUrl, 'calcPopUp', strFeatures)
+}
+
+function demoPopUp()
+{
+	window.open("/ebsDemo/flashdemo/bankatlanticintro.html","Demo","status=yes,scrollbars=yes,resizable=yes,width=680,height=485")
+}
 //-->
 </script>
 
 <title>Privacy Policy Q and A </title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="keywords" content="Bank, atlantic, bankatlantic, bankatlantic.com, bank of atlantic, florida, south florida, banking, 
+online, bank online, online banking, PC banking, bill payment, online bill payment, banks, 
+atlantic.com, Bancorp, sharebuilder, totally free checking, checking, checking accounts, savings, cd, 
+CDs, certificate of deposit, loan, loans, lines, HELOC, home equity, home equity line, 
+home equity line of credit, home equity loan, lending, auto, auto loan, personal loan, mortgage, 
+mortgages, credit card, credit, credit report, rate, rates, PowerView, power view, view all, 
+view accounts, account aggregation, investing, invest, investment, invest online, stock purchase, 
+financial services, finances, cashlink, cash link, cash management, interest, interest rates, ATM, 
+check card, BankAtlantic Bancorp">
+
+<meta name="description" content="Home of Totally Free Checking* and six other accounts that pay 
+you interest; BankAtlantic offers a wide variety of checking, savings, and CD accounts; home equity 
+lines and loans; investments and other products, as well as free Online Banking. BankAtlantic is one 
+of the largest banks based in Florida, offering the personal service of a community bank.">
+
+
 <link rel="stylesheet" href="/styles.css">
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -157,7 +186,7 @@ function hpcApply()
 		<a href="/"><img border="0" src="/art/main/logo_main.gif"></a>
 		<img src="/art/main/spacer.gif" width="133" height="1">
 	</td>
-    <td align="Right" height="80"><p><a href="http://www.bankatlantic.com/banmanpro/banman.asp?Task=Click&amp;ZoneID=1&amp;CampaignID=1&amp;AdvertiserID=1&amp;BannerID=34&amp;SiteID=0&amp;RandomNumber=25203" target="_top"><img src="/art/banners/SB-$4%20trades_468%28w%292-04-24.gif" width="468" height="60" alt="" align="Center" border="0"></a><br></p><p></p></td>
+    <td align="Right" height="80"><p><a href="http://www.bankatlantic.com/banmanpro/banman.asp?Task=Click&amp;ZoneID=1&amp;CampaignID=1&amp;AdvertiserID=1&amp;BannerID=111&amp;SiteID=0&amp;RandomNumber=75752" target="_top"><img src="/art/banners/FreeCkg-gifts-chair-tools-water2.gif" width="468" height="60" alt="click here" align=" " border="0"></a></p><p></p></td>
   </tr>
   <tr> 
     <td> 
@@ -169,7 +198,7 @@ function hpcApply()
     <option value="/free">&nbsp;&nbsp;&nbsp;About Online Banking</option>
     <option value="LogIn">&nbsp;&nbsp;&nbsp;Log In</option>n&gt;
     <option value="/billPayment.asp">&nbsp;&nbsp;&nbsp;Online Bill Payments</option>
-    <option value="/ebsDemo/account.html">&nbsp;&nbsp;&nbsp;Online Banking Demo</option>
+    <option value="javascript:demoPopUp()">&nbsp;&nbsp;&nbsp;Online Banking Demo</option>
     <option value="https://secure.bankatlantic.com/pers_acct_app/addmaster.asp">&nbsp;&nbsp;&nbsp;Open an Account</option>
     <option value="#">Products and Services</option>
     <option value="/productline.asp?PID=311&amp;subPID=337&amp;ProductID=1636">&nbsp;&nbsp;&nbsp;Credit Reports</option>
@@ -187,7 +216,7 @@ function hpcApply()
     <option value="/productline.asp?PID=311&amp;subPID=337&amp;ProductID=584">&nbsp;&nbsp;&nbsp;Passport Plus</option>
     <option value="#">BankAtlantic Info</option>
     <option value="javascript:void(TopNav(1))">&nbsp;&nbsp;&nbsp;About BankAtlantic</option>
-    <option value="/employment/CareerOpp.asp">&nbsp;&nbsp;&nbsp;Career Opportunities</option>
+    <option value="/employment/careers.asp">&nbsp;&nbsp;&nbsp;Career Opportunities</option>
     <option value="/investorrelations/investorrelations.asp">&nbsp;&nbsp;&nbsp;Investor Relations</option>
     <option value="/aboutus/press_releases.asp">&nbsp;&nbsp;&nbsp;Press Room</option>
     <option value="#">Tools</option>
@@ -207,6 +236,7 @@ function hpcApply()
     <option value="/enspot/default.asp">Entertainment Guide</option>
     <option value="https://secure.ftb.com/cgi-bin/128_check_login_ab_ba.cgi">Credit Card</option>
     <option value="https://www.bankatlantic.web-access.com/bnkatl/cgi-bin/welcome.cgi">CashLinkWeb</option>	
+    <option value="http://www.turbotax.intuit.com/welcome/perm/bankat/welcome.htm">TurboTax</option>
 </select>
 <!-- LoginToDropDown End --></td>
 		  </tr>
@@ -215,7 +245,9 @@ function hpcApply()
   </tr>
 </tbody></table>
 <!-- TopNav End -->
-<!-- Header End --><!-- BodyHeader Start -->
+<!-- Header End -->
+
+<!-- BodyHeader Start -->
 <table width="776" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td width="160" valign="TOP"><!-- SideNav Start -->
@@ -242,7 +274,7 @@ function hpcApply()
   <tr>
 	<td>
 		<table width="160" border="0" cellspacing="0" cellpadding="2">
-		<!--rsMainNot.eof --><tbody><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=311" title="Personal Banking"><img height="17" width="131" src="/art/buttons/personal_banking.gif" border="0"></a></td></tr><!--rsMainNot.eof --><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=313" title="Small Business Banking"><img height="17" width="131" src="/art/buttons/sbusiness_banking.gif" border="0"></a></td></tr><!--rsMainNot.eof --><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=310" title="Commercial Banking"><img height="17" width="131" src="/art/buttons/commercial_banking.gif" border="0"></a></td></tr><!--rsMainNot.eof --><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=345" title="Investment Center"><img height="17" width="131" src="/art/buttons/investment_center.gif" border="0"></a></td></tr><!--rsMainNot.eof --><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=356" title="Whats New"><img height="17" width="131" src="/art/buttons/whatsnew.gif" border="0"></a></td></tr>
+		<!--rsMainNot.eof --><tbody><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=311" title="Personal Banking"><img height="17" width="131" src="/art/buttons/personal_banking.gif" border="0"></a></td></tr><!--rsMainNot.eof --><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=313" title="Small Business Banking"><img height="17" width="131" src="/art/buttons/sbusiness_banking.gif" border="0"></a></td></tr><!--rsMainNot.eof --><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=310" title="Commercial Banking"><img height="17" width="131" src="/art/buttons/commercial_banking.gif" border="0"></a></td></tr><!--rsMainNot.eof --><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=345" title="Investing"><img height="17" width="131" src="/art/buttons/investment_center.gif" border="0"></a></td></tr><!--rsMainNot.eof --><tr bgcolor="#6699CC"><td width="17" height="17"><img height="17" width="11" src="/art/Menuplc_blue.gif"></td><td width="131"><a href="/productline.asp?PID=356" title="What" s="" new'=""><img height="17" width="131" src="/art/buttons/whatsnew.gif" border="0"></a></td></tr>
   <tr bgcolor="#CCCCCC"><td><img height="17" src="/art/Menuplc_grey.gif"></td><td><a href="/specialoffers.asp"><img src="/art/buttons/specialoffers.gif" height="17" border="0"></a></td></tr>
   <tr bgcolor="#CCCCCC"><td><img height="17" src="/art/Menuplc_grey.gif"></td><td><a href="/partnersRewards.asp"><img src="/art/buttons/partners_rewards.gif" height="17" border="0"></a></td></tr>
 		</tbody></table>     
@@ -265,7 +297,7 @@ function hpcApply()
       <table width="600" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr bgcolor="#CCCCCC" height="28"> 
             
-			    <td height="28" class="HeaderText">Online Privacy Policy</td>
+				<td height="28" class="HeaderText">Online Privacy Policy</td>
 			
         </tr>
         <tr>
@@ -292,16 +324,17 @@ function hpcApply()
           </td>
           <td width="225" valign="top"> 
            
-            <table width="225" border="0" cellspacing="3" cellpadding="0">
+            <table width="225" border="0" cellspacing="2" cellpadding="1">
               <tbody><tr> 
                 <td align="right"><!--- Right top banner ad --->
-					<a href="http://www.bankatlantic.com/banmanpro/banman.asp?Task=Click&amp;ZoneID=5&amp;CampaignID=3&amp;AdvertiserID=1&amp;BannerID=69&amp;SiteID=0&amp;RandomNumber=93" target="_top"><img src="/art/banners/learnabout.jpg" width="171" height="63" alt="click here" align=" " border="0"></a><br>
-				</td>
+					<a href="http://www.bankatlantic.com/banmanpro/banman.asp?Task=Click&amp;ZoneID=5&amp;CampaignID=3&amp;AdvertiserID=1&amp;BannerID=70&amp;SiteID=0&amp;RandomNumber=75752" target="_top"><img src="/art/banners/lickthestamp.jpg" width="171" height="63" alt="" align=" " border="0"></a>
+	  </td>
               </tr>
               <tr> 
                 <td align="right"><!--- Right bottom banner ad --->
-					<a href="http://www.bankatlantic.com/banmanpro/banman.asp?Task=Click&amp;ZoneID=7&amp;CampaignID=4&amp;AdvertiserID=1&amp;BannerID=67&amp;SiteID=0&amp;RandomNumber=74983" target="_top"><img src="/art/banners/creditwise.jpg" width="171" height="63" alt="click here" align="Center" border="0"></a><br>
+					<a href="http://www.bankatlantic.com/banmanpro/banman.asp?Task=Click&amp;ZoneID=7&amp;CampaignID=4&amp;AdvertiserID=1&amp;BannerID=99&amp;SiteID=0&amp;RandomNumber=50642" target="_top"><img src="/art/banners/Calc-assess-woman-171.jpg" width="171" height="63" alt="click here" align=" " border="0"></a>
               </td></tr>
+	
             </tbody></table>
             
           </td>
@@ -333,22 +366,22 @@ function hpcApply()
           <a class="botmenu" href="/security.asp">Security Policy</a><br>
           <a class="botmenu" href="/importantDisclosures.pdf" target="_new">Important Disclosures</a> <font color="#990033">|</font> 
           <a class="botmenu" href="/contactus.asp">Contact Us</a> <font color="#990033">|</font> 
-          <a class="botmenu" href="/employment/CareerOpp.asp">Careers at
+          <a class="botmenu" href="/employment/careers.asp">Careers at
           BankAtlantic</a><br>
-          <font face="Arial" size="1">© 2001 BankAtlantic, All Rights Reserved.<br> BankAtlantic.com 
-          is the Internet Banking division of BankAtlantic, a Federal Savings 
-          Bank.</font>
+          <font face="Arial" size="1">© 2002 BankAtlantic, All Rights Reserved.<br> BankAtlantic.com 
+          is the Internet Banking division of BankAtlantic.</font>
       </div>
     </td>
     <td>
     <table border="0" cellpadding="0" cellspacing="0">
       <tbody><tr>
         <td>
-          <a href="javascript:popUp('https://digitalid.verisign.com/as2/423464b0e7e096de9b5eba3961c6810e')">
+          <a href="javascript:popUp('https://digitalid.verisign.com/as2/be3223fddfbdf0099cb1ec56888000c3')">
           <img border="0" src="/graphics/verisignsmall.jpg" width="65" height="31"></a>&nbsp;
         </td>
         <td valign="bottom">
           <a href="javascript:Pcertify();"> <img alt="BBBOnLine Privacy Seal" border="0" src="/graphics/privacySeal.jpg" width="80" height="28"></a>
+          
         </td>
       </tr>
     </tbody></table>
