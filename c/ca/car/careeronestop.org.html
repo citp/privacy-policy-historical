@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the careeronestop.org privacy policy that was archived on 2003-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604173442id_/http%3A//www.careeronestop.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careeronestop.org privacy policy that was archived on 2003-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031216185426id_/http%3A//careeronestop.org/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -20,6 +20,8 @@
 		<tbody><tr>
 		    <td colspan="6"><script language="JavaScript" src="/js/doPopUp.js" type="text/javascript"></script>
 <script language="Javascript" src="/js/trim.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/OpenTranslation.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/openWin.js" type="text/javascript"></script>
 <!-- BEGIN HEADER -->
 <table width="762" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -30,7 +32,7 @@
 		<td class="Main" valign="bottom" width="574">&nbsp;</td>
 	</tr>
 	<tr>
-		<td height="15"><img src="/images/blank.gif" height="1" width="188" border="0"></td><td align="right"><img src="../images/bg_mid_flag2.gif" width="370" height="15" border="0" alt=""></td>
+		<td height="15"><img src="/images/blank.gif" height="1" width="188" border="0"></td><td align="right"><img src="../images/bg_mid_flag2.gif" width="370" height="15" border="0" alt="Flag"></td>
 	</tr>
 </tbody></table>
 <table width="762" border="0" cellspacing="0" cellpadding="0">
@@ -46,7 +48,7 @@
 		</tr>
 		<tr bgcolor="#2D8BD5">
 			<td colspan="6" height="22" class="path"><!-- BEGIN PATHINFO -->
-			  &nbsp;&nbsp;<b><a href="/" style="color:white;">CareerOneStop</a> --&gt; Privacy and Security Statement</b>
+			  &nbsp;&nbsp;<b><a href="/" style="color:white;">CareerOneStop</a> <!--SIT2-->--&gt;<!--/SIT2--> Privacy and Security Statement</b>
 <!-- END PATHINFO --></td>
 		</tr>
 		<tr valign="top">
@@ -217,7 +219,7 @@ function _repaint(sText,sTextMessage)
 
 function funcOnBlurKey(){
 				if(this.document.frmKeyword.Keyword.value==''){
-					this.document.frmKeyword.Keyword.value='Enter a Keyword';
+					this.document.frmKeyword.Keyword.value='Enter Keyword';
 				}
 				else{
 				    this.document.frmKeyword.Keyword.value=this.document.frmKeyword.Keyword.value;
@@ -232,7 +234,7 @@ function funcOnFocusKey(){
 
 function funcOnBlurZip(){
 				if(this.document.frmZip.zip.value==''){
-					this.document.frmZip.zip.value='Enter a Zip Code';
+					this.document.frmZip.zip.value='Enter Zip Code';
 				}
 				else{
 				    this.document.frmZip.zip.value=this.document.frmZip.zip.value;
@@ -245,7 +247,11 @@ function funcOnFocusZip(){
 
 
 function funcZipValidation(frmform){
-intx = this.document.frmZip.zip.value
+
+
+				var zipText = String(this.document.frmZip.zip.value);
+				
+				intx = this.document.frmZip.zip.value
                if(isNaN(this.document.frmZip.zip.value)){
 			    alert ("Please enter a valid Zip Code. '"+ this.document.frmZip.zip.value +"' is not a valid numeric data.");
 				return false;
@@ -258,6 +264,16 @@ intx = this.document.frmZip.zip.value
 			    alert ("Please enter a 5 digit Zip Code");
 				return false;
     		   }
+	
+				if((isNaN(intx)==true) || zipText.substring(0,1) == '-' || zipText.substring(0,1) == '+' || zipText.substring(0,1) == '.' || zipText.substring(0,1) == '0' ){
+			    alert ("Please enter a valid Zip Code");
+				return false;
+    		   }
+    		   
+			if (this.document.frmZip.zipSearchRadioBtn[0].checked == false  && this.document.frmZip.zipSearchRadioBtn[1].checked == false) {
+				alert ("Please select One-Stop Centers or Community Colleges");
+			return false;
+}
 
 }
 
@@ -268,7 +284,7 @@ intx = this.document.frmKeyword.Keyword.value
 			    alert ("Please enter a valid Keyword.");
 				return false;
     		   }
-               if(intx=='Enter a Keyword'){
+               if(intx=='Enter Keyword'){
 			    //alert ("Please enter a Keyword.");
 				url="http://www.acinet.org/acinet/library.asp"
 				window.location=url;
@@ -286,18 +302,25 @@ intx = this.document.frmKeyword.Keyword.value
 			<span style="color:white;font-size:11pt;font-family:Arial;font-weight:bold;">&nbsp;Site Search</span>
 		</td>
 	 </tr>
-	 
+	 <!--SIT4--<TR>
+	 	<TD COLSPAN="3" height="5"><img src="/images/blank.gif" height="5" width="2" border="0" alt="spacer"></TD>
+	 </TR>--/SIT4-->
 	 <tr>
-			<form action="http://careeronestop.org/Search.asp" name="frmSearch" method="post"></form>
-			<td width="171" height="35" bgcolor="#F6FBFF">
+	 	<td width="171" height="35" bgcolor="#F6FBFF">
+				<form action="http://www.careeronestop.org/Search.asp" name="frmSearch" method="post">
 				<table width="171" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						<td width="10">&nbsp;</td>
-						<td width="120"><input type="text" size="9" id="SearchID" style="width:120px;" name="strKeywords" value="Enter a Keyword" onblur="_repaint(this,'Enter a Keyword')" onfocus="_clear(this);"></td>
+						<td width="120"><input type="text" size="9" id="SearchID" style="width:120px;" name="strKeywords" value="Enter Keyword" onblur="_repaint(this,'Enter Keyword')" onfocus="_clear(this);"></td>
 						<td width="41" align="center"><input type="image" src="/images/3_go_buttonNoShade.gif" alt="Submit Button" border="0"></td>
 					</tr>
+					<!--SIT4--<TR>
+						<TD width="10">&nbsp;</TD>
+						<TD width="120"><span style="font-size:8pt;font-family:Arial;font-weight:bold;">Please enter keywords in English</span></TD>
+						<TD width="41">&nbsp;</TD>
+					</TR>--/SIT4-->
 				</tbody></table>
-			</td>
+		</form></td>
 	</tr>
 	
 	 <tr bgcolor="#F6FBFF">
@@ -430,11 +453,15 @@ intx = this.document.frmKeyword.Keyword.value
 					</tr>
 					<tr valign="top">
 						<td bgcolor="#BDDBEF"><img src="/images/blank.gif" width="5" height="2" alt="Submit Button"></td>
-						<td bgcolor="#BDDBEF"><label for="KeywordID"><input type="text" name="Keyword" size="9" style="width:120px;" id="KeywordID" maxlength="50" value="Enter a Keyword" onblur="funcOnBlurKey();" onfocus="funcOnFocusKey();"></label></td>
+						<td bgcolor="#BDDBEF"><label for="KeywordID"><input type="text" name="Keyword" size="9" style="width:120px;" id="KeywordID" maxlength="50" value="Enter Keyword" onblur="funcOnBlurKey();" onfocus="funcOnFocusKey();"></label></td>
 						<td bgcolor="#BDDBEF" align="center" valign="middle"><input type="image" src="/images/3_go_button.gif" alt="Submit Button" align="top" border="0"></td>
 					</tr>
+					<!--SIT4--<TR bgcolor="#BDDBEF">
+						<TD><img src="/images/blank.gif" width="5" height="2" ALT="Spacer"></TD>
+						<TD colspan="2"><span style="font-size:8pt;font-family:Arial;font-weight:bold;">Please enter keywords in English</span></TD>
+					</TR>--/SIT4-->
 					<tr>
-						<td bgcolor="#BDDBEF"><img src="/images/blank.gif" width="5" height="2" alt="Submit Button"></td>
+						<td bgcolor="#BDDBEF"><img src="/images/blank.gif" width="5" height="2" alt="Spacer"></td>
 						<td bgcolor="#BDDBEF" colspan="2" height="20"><a href="http://www.acinet.org/acinet/library.asp" class="BrowseBySubject">Browse By Subject</a></td>
 					</tr>
 					<tr>
@@ -469,6 +496,7 @@ intx = this.document.frmKeyword.Keyword.value
 					    <td bgcolor="#BDDBEF"><img src="/images/blank.gif" width="5" alt="spacer" height="2"></td>
 					    <td bgcolor="#BDDBEF"><label for="State">									<select id="State" name="state" onchange="submit()">
 									<option value="0">Select a State</option>
+									<!--SIT1-->
 									<option value="01">Alabama</option>
 									<option value="02">Alaska</option>
 									<option value="04">Arizona</option>            
@@ -523,6 +551,7 @@ intx = this.document.frmKeyword.Keyword.value
 									<option value="54">West Virginia</option>
 									<option value="55">Wisconsin</option>
 									<option value="56">Wyoming</option>
+									<!--/SIT1-->
 								  </select>
 </label></td>
 					    <td bgcolor="#BDDBEF" valign="middle" align="center"><input type="image" src="/images/3_go_button.gif" alt="Submit Button" border="0"></td>
@@ -543,27 +572,39 @@ intx = this.document.frmKeyword.Keyword.value
 	</tr>
 	
 	<!-- Begin ServiceLocator -->
-	<form action="http://www.servicelocator.org/search/etasearchoffice.asp" method="get" name="frmZip" onsubmit="return funcZipValidation(this.form);"></form>
+	<form action="/Portal_home.asp" method="post" name="frmZip" onsubmit="return funcZipValidation(this.form);"></form>
 	<tr>
 		<td align="center" bgcolor="#F6FBFF">
 				<table width="156" cellspacing="0" cellpadding="0" border="0" summary="This table contains the form for searching for local One-Stop centers">
 					<tbody><tr>
-						<td><img src="/images/blank.gif" height="5" width="5" border="0" alt="spacer"></td>
+						<td colspan="3"><img src="/images/blank.gif" height="5" width="5" border="0" alt="spacer"></td>
 					</tr>
-
+					
+					
 					<tr valign="top">
 					    <td width="5" bgcolor="#BDDBEF"><img src="/images/3_left_top.gif" width="5" height="2" border="0" alt="Spacer"></td>
 					    <td width="121" bgcolor="#BDDBEF" height="2" valign="TOP"><img src="/images/blank.gif" width="1" height="1" border="0" alt="Spacer"></td>
 					    <td width="30" align="right" bgcolor="#BDDBEF"><img src="/images/3_right_top.gif" width="4" height="2" border="0" alt="Spacer"></td>
 					</tr>
+					
 					<tr valign="top">
-					    <td width="151" bgcolor="#BDDBEF" height="30" valign="TOP" colspan="3"><span style="font-size:9pt;font-weight:bold;color:#004771;font-family:Verdana,sans-serif;">&nbsp;Find a Local One-Stop<br>&nbsp;Career Center</span></td>
+					    <td width="151" bgcolor="#BDDBEF" height="10" valign="TOP" colspan="3"><span style="font-size:9pt;font-weight:bold;color:#004771;font-family:Verdana,sans-serif;">&nbsp;Find (Select one)</span></td>
 					</tr>
+					
+					
+					<tr>
+						<td width="151" bgcolor="#BDDBEF" colspan="3"><input type="radio" value="oneStop" name="zipSearchRadioBtn" checked=""><span style="font-size:8pt;">One-Stop Centers</span></td>
+					</tr>
+					<tr>
+						<td width="151" bgcolor="#BDDBEF" colspan="3"><input type="radio" value="communityCollege" name="zipSearchRadioBtn"><span style="font-size:8pt;">Community Colleges</span></td>
+					</tr>
+					
+					
 					<tr valign="top">
 					    <td bgcolor="#BDDBEF"><img src="/images/blank.gif" width="5" height="2" alt="spacer"></td>
 					    <td bgcolor="#BDDBEF">
 						<label for="ZipID">
-							<input type="text" name="zip" size="9" style="width:120px;" maxlength="50" id="ZipID" value="Enter a Zip Code" onblur="funcOnBlurZip();" onfocus="funcOnFocusZip();">
+							<input type="text" name="zip" size="9" style="width:120px;" maxlength="50" id="ZipID" value="Enter Zip Code" onblur="funcOnBlurZip();" onfocus="funcOnFocusZip();">
 							<input type="hidden" name="city" size="10" maxlength="50" id="cityID" value="">
 							<input type="hidden" name="state" size="10" maxlength="50" id="stateID" value="">
 							<input type="hidden" name="proximity" size="10" maxlength="50" id="proximityID" value="25">
@@ -606,7 +647,7 @@ intx = this.document.frmKeyword.Keyword.value
 					<td bgcolor="#2D8BD5"><img src="/images/blank.gif" width="489" height="6" alt="spacer" border="0"></td>
 				</tr>
 				<tr>
-					<td class="footer">&nbsp;&nbsp;&nbsp;<a href="/aboutus.asp" class="footer"><font color="#004771">ABOUT US</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/linktous.asp" class="footer"><font color="#004771">LINK TO US</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/PortalPartners.asp" class="footer"><font color="#004771">PARTNERS</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/privacy.asp" class="footer"><font color="#004771">PRIVACY</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="javascript:doPopUp('/checkTranslation.asp?sURL=http://www.careeronestop.org/privacy.asp','width=350,height=350,scrollbars=no,top=150,left=300')" class="footer"><font color="#004771" class="footer">TRANSLATION</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/usersupport/UserSupport.asp" class="footer"><font color="#004771">HELP</font></a></td>
+					<td class="footer">&nbsp;&nbsp;&nbsp;<a href="/aboutus.asp" class="footer"><font color="#004771">ABOUT <!--SIT3-->US<!--/SIT3--><!--SIT4--WE--/SIT4--></font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/linktous.asp" class="footer"><font color="#004771">LINK TO <!--SIT3-->US<!--/SIT3--><!--SIT4--OUR SITE--/SIT4--></font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/PortalPartners.asp" class="footer"><font color="#004771">PARTNERS</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/privacy.asp" class="footer"><font color="#004771">PRIVACY</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/usersupport/UserSupport.asp" class="footer"><font color="#004771">HELP</font></a></td>
 				</tr>
 			</tbody></table>
 		</td>
