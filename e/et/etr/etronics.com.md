@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205061144id_/http%3A//www.etronics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605035008id_/http%3A//www.etronics.com/privacy.asp) for the most accurate reproduction.*
 
 # Etronics.com - Discount camcorders, DVD players, home audio, digital and 35mm cameras, VCR's, televisions plus small appliances.
 
@@ -20,7 +20,7 @@ Etronics is a licensee of the TRUSTe Privacy Program. This statement discloses t
 
 7-How you can correct any inaccuracies in your personally identifiable information 
 
-If you have questions or concerns regarding this statement, you should first contact Supreme Video through email at [webmaster@Etronics.com](mailto:webmaster@Etronics.com) or by snail mail to: 
+If you have questions or concerns regarding this statement, you should first contact Etronics.com through email at [webmaster@Etronics.com](mailto:webmaster@Etronics.com) or by snail mail to: 
 
 Webmaster  
 Etronics  
@@ -33,7 +33,7 @@ Information we gather from you.
 
 When you visit Etronics.com, we collect information about your visit. We collect your IP address, browser type, domain name, and we log the length of time of your visit and the number of times you visit and purchase from us. We use this information to gather aggregate demographic information about our visitors, and we use it to personalize the information you see on our website. Even more so, the IP Address is used to help identify you, your wish list and you’re past purchases.  The IP address is not at all linked to any personal identifiable information. We keep this information for our internal use; in order to personalize the site. For example, in the future, we may recommend products or features you may like based on what you have liked in the past
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). We use a third party to authorize and verify all credit card transaction made through on etronics.com. The billing address and phone number is used for verification purposes only your email address is used for multiple purposes; verification, log in and email order confirmations. The Contact information from the order form may be used to send information about order status to our customers. All users have the option of opting out of any communication to etronics.com by sending an email to [Webmaster@etronics](mailto:Webmaster@etronics) or by calling our customer service department at 800-541-1490. Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). We use a third party to authorize and verify all credit card transaction made through on etronics.com. The billing address and phone number is used for verification purposes only your email address is used for multiple purposes; verification, log in and email order confirmations. The Contact information from the order form may be used to send information about order status to our customers. All users have the option of opting out of any communication to etronics.com by sending an email to [Webmaster@etronics](mailto:Webmaster@etronics) or by calling our customer service department at 800-541-1490. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). We use a third party to authorize and verify all credit card transaction made through on etronics.com. The billing address and phone number is used for verification purposes only your email address is used for multiple purposes; verification, log in and email order confirmations. The Contact information from the order form may be used to send information about order status to our customers. All users have the option of opting out of any communication to etronics.com by sending an email to [Webmaster@etronics.com](mailto:Webmaster@etronics.com) or by calling our customer service department at 800-541-1490. Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). We use a third party to authorize and verify all credit card transaction made through on etronics.com. The billing address and phone number is used for verification purposes only your email address is used for multiple purposes; verification, log in and email order confirmations. The Contact information from the order form may be used to send information about order status to our customers. All users have the option of opting out of any communication to etronics.com by sending an email to [Webmaster@etronics.com](mailto:Webmaster@etronics.com) or by calling our customer service department at 800-541-1490. 
 
 We also personalize your shopping experience by using your purchases to shape our recommendations For Electronics, Music, Games and other merchandise that might be of interest to you. 
 
@@ -89,7 +89,7 @@ Customer Service
 37 Essex Street,  
 New York, NY 10002 
 
-We welcome your questions and comments. Please send e-mails to [webmaster@Etronics.com](mailto:webmaster@supremevideo.com).
+We welcome your questions and comments. Please send e-mails to [webmaster@Etronics.com](mailto:webmaster@etronics.com).
 
 Privacy Changes  
 Whenever we change our privacy policy, we will post a notice on our homepage indicating that a new version is available. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
@@ -100,4 +100,4 @@ If you have any questions about this privacy statement, the practices of this si
 Webmaster Etronics  
 37 Essex Street  
 New York, NY 10002  
-[webmaster@Etronics.](mailto:webmaster@Etronics.)Com
+[webmaster@Etronics.](mailto:webmaster@Etronics.com)Com
