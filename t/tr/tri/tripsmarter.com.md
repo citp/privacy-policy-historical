@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206104614id_/http%3A//www.tripsmarter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602201849id_/http%3A//tripsmarter.com/privacy.htm) for the most accurate reproduction.*
 
 # TripSmarter.Com - About Us - Privacy Policy
 
@@ -61,4 +61,13 @@ The Tourist Network
 Ste 23  
 Panama City Beach, Florida 32407  
 850-234-2773  
-administrator@tripsmarter.com
+administrator@tripsmarter.com  
+  
+  
+|  |   
+---  
+Destination City:  
+Arrival Date:  
+Departure Date:  
+Rooms:  | Guests:   
+ 
