@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618201001id_/http%3A//vermontcountrystore.com/vcs/html/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2000-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000817024808id_/http%3A//www.vermontcountrystore.com/html/privacystatement.htm) for the most accurate reproduction.*
 
 # Vermont Country Store
 
