@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velti.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417113703id_/http%3A//www.velti.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velti.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216095149id_/http%3A//www.velti.com/privacy.html) for the most accurate reproduction.*
 
 # Velti: Privacy Statement
 
