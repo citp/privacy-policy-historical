@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rssc.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603171824id_/http%3A//www.rssc.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssc.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403212335id_/http%3A//www.rssc.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Radisson Seven Seas Cruises : Privacy Policy
 
