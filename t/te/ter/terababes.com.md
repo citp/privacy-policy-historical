@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terababes.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209051812id_/http%3A//www.terababes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terababes.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622084638id_/http%3A//www.terababes.com/privacy.htm) for the most accurate reproduction.*
 
 # TeraBabes - Privacy Policy
 
@@ -16,15 +16,15 @@ TeraBabes.com uses outside ad companies to display ads on our site.  These ads 
 
 **Mailing Lists**
 
-TeraBabes.com maintains a subscription [Email List](https://web.archive.org/web/20021209051812id_/http%3A//www.terababes.com/email.htm).  All users must confirm their subscriptions via return email.  Users are never added based on requesting information, making a purchase, or forgetting to uncheck some box during ordering.  Users may opt-out of receiving future mailings at any time by simply unsubscribing.
+TeraBabes.com maintains a subscription [Email List](https://web.archive.org/web/20030622084638id_/http%3A//www.terababes.com/email.htm).  All users must confirm their subscriptions via return email.  Users are never added based on requesting information, making a purchase, or forgetting to uncheck some box during ordering.  Users may opt-out of receiving future mailings at any time by simply unsubscribing.
 
 **Contests**
 
-TeraBabes.com runs contests where we ask visitors for contact information (specifically, email address).  Contact information from the contests is used to get in touch with the visitor when necessary (if they win).  Specific contest rules and regulations can be found on the [Contests](https://web.archive.org/web/20021209051812id_/http%3A//www.terababes.com/contests.htm) page, and rules may vary from contest to contest depending on Sponsor and respective guidelines.
+TeraBabes.com runs contests where we ask visitors for contact information (specifically, email address).  Contact information from the contests is used to get in touch with the visitor when necessary (if they win).  Specific contest rules and regulations can be found on the [Contests](https://web.archive.org/web/20030622084638id_/http%3A//www.terababes.com/contests.htm) page, and rules may vary from contest to contest depending on Sponsor and respective guidelines.
 
 **Information Collection and Use**
 
-With the exception of recording your email address if you sign up for our [Email List](https://web.archive.org/web/20021209051812id_/http%3A//www.terababes.com/email.htm), as described above, this Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted.
+With the exception of recording your email address if you sign up for our [Email List](https://web.archive.org/web/20030622084638id_/http%3A//www.terababes.com/email.htm), as described above, this Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted.
 
 **Information Sharing and Disclosure**
 
