@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013120449id_/http%3A//www.chinatravel.com/about-china-travel/china-travel-policy/china-travel-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2005-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050319092203id_/http%3A//www.chinatravel.com/about-china-travel/china-travel-policy/china-travel-privacy-policy.htm) for the most accurate reproduction.*
 
-# China Travel
+# Privacy Policy :: Our Policies :: About Us :: ChinaTravel.com
 
 #### Privacy Policy 
 
@@ -24,6 +24,8 @@ Third-party vendors: Some of ChinaTravel.com's online booking engines are powere
 
 **Security** ChinaTravel.com is committed to protecting the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. 
 
-**Oversight** If you have comments or questions about our privacy policy, e-mail: [privacy@chinatravel.com](mailto:privacy@chinatravel.com)
+**Oversight** If you have comments or questions about our privacy policy, e-mail: privacy(at)chinatravel.com 
 
-**Right to Change** ChinaTravel.com reserve the right to change this policy at any time by notifying users of the existence and location of the new or revised Privacy Policy. The foregoing Privacy Policy was last updated on 7/16/2003. 
+**Right to Change** ChinaTravel.com reserve the right to change this policy at any time by notifying users of the existence and location of the new or revised Privacy Policy. 
+
+This policy last updated on 7/16/2003. 
