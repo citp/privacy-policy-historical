@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 1999-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991012210429id_/http%3A//www.webcrawler.com/Help/TRUSTe.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619154012id_/http%3A//www.webcrawler.com/Help/TRUSTe.html) for the most accurate reproduction.*
 
 # WebCrawler's Customer Information Privacy Policy
 
@@ -8,7 +8,7 @@
 
 |  |  |  |   
 ---  
-[](https://www.truste.org/validate/43) The At Home Corporation is a licensee of the TRUSTe Privacy Program. The At Home Corporation owns and operates the Excite@Home Network (and the following [Internet domains](https://web.archive.org/web/19991012210429id_/http%3A//www.webcrawler.com/Help/domain.html)). This statement discloses the privacy practices for the WebCrawler Web Site, and, in fact, also applies to each of the Web Sites of the Excite@Home Network. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: 
+[](https://www.truste.org/validate/43) The At Home Corporation is a licensee of the TRUSTe Privacy Program. The At Home Corporation owns and operates the Excite@Home Network (and the following [Internet domains](https://web.archive.org/web/20000619154012id_/http%3A//www.webcrawler.com/Help/domain.html)). This statement discloses the privacy practices for the WebCrawler Web Site, and, in fact, also applies to each of the Web Sites of the Excite@Home Network. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: 
 
   1. What personally identifiable information of yours is collected
   2. What organization is collecting the information
@@ -35,7 +35,7 @@ Information collected online is often defined as being either anonymous or perso
   1. **Anonymous Information:** Refers to information that cannot be tied back to a specific individual. For instance, we may know that ten thousand people visit this Privacy Policy today, but we do not necessarily know their names, where they live or their date of birth – they are "anonymous" to us, much like how your hometown's bus service knows how many people take a given route – but don't necessarily know who those people are. Many of the individuals who access our services use none of the personalization features which are available to them and are therefore anonymous to us.
   2.  **Personally Identifiable Information:** Refers to information that lets us know the specifics of who you are such as your name, email address, or postal address. With this information, WebCrawler can provide a variety of personalized and enhanced services that are not available to anonymous users. Examples would be the award-winning "My WebCrawler Start Page," which uses your mailing address to customize TV schedules, weather reports and sports scores; our commerce-enabled services which use this same address information to allow our partners to ship to you the products that you buy; or our free Excite Mail email service which uses your name as part of a security mechanism to protect you from having others read messages addressed to you. We hope that, like many of our customers, you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you. 
 
-The choice of how much of your personally identifiable information that you choose to disclose to WebCrawler is left completely up to you. The only way we know something about you personally is if you register for a personalized service or enter one of our sweepstakes at one of the [Excite@Home Network Internet sites](https://web.archive.org/web/19991012210429id_/http%3A//www.webcrawler.com/Help/domain.html).   
+The choice of how much of your personally identifiable information that you choose to disclose to WebCrawler is left completely up to you. The only way we know something about you personally is if you register for a personalized service or enter one of our sweepstakes at one of the [Excite@Home Network Internet sites](https://web.archive.org/web/20000619154012id_/http%3A//www.webcrawler.com/Help/domain.html).   
 ---  
 **Our Commitments to Your Family**
 
@@ -85,6 +85,6 @@ Other companies which place advertising on our site may collect information abou
 
 Information that you provide while using products such as Excite Message Boards and Excite Chat is available for all to see – discretion should be used in entering personally identifiable information within such forums as it may be collected by third-parties – this is a leading source of unwanted email, for instance. The Excite@Home Network does not associate with customer records any information entered by its customers in our Excite Mail, Excite Message Boards, or Excite Chat products.
 
-And finally, the Excite@Home Network does not control the information collection and distribution policies on Internet domains other than those [Internet domains](https://web.archive.org/web/19991012210429id_/http%3A//www.webcrawler.com/Help/domain.html) that are part of the Excite@Home Network itself. We do, however, encourage our co-branding partners to adopt privacy policies similar to this one and to become licensees of TRUSTe, something which we have been relatively successful to date achieving: Look for the TRUSTe logo wherever you go on the Internet!   
+And finally, the Excite@Home Network does not control the information collection and distribution policies on Internet domains other than those [Internet domains](https://web.archive.org/web/20000619154012id_/http%3A//www.webcrawler.com/Help/domain.html) that are part of the Excite@Home Network itself. We do, however, encourage our co-branding partners to adopt privacy policies similar to this one and to become licensees of TRUSTe, something which we have been relatively successful to date achieving: Look for the TRUSTe logo wherever you go on the Internet!   
   
 ---
