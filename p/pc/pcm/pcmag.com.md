@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcmag.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205094729id_/http%3A//www.ziffdavis.com/terms/index.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmag.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407084536id_/http%3A//www.ziffdavis.com/terms/index.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Ziff Davis Media | Privacy Policy and Terms
 
