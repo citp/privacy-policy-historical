@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenselink.mil privacy policy that was archived on 2002-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021127122753id_/http%3A//www.defenselink.mil/warning/warn-dl.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenselink.mil privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602180743id_/http%3A//www.defenselink.mil/warning/warn-dl.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
