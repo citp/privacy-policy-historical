@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogainternational.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211073210id_/http%3A//www.yimag.org/yiprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogainternational.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204065424id_/http%3A//www.yimag.org/yiprivacypolicy.asp) for the most accurate reproduction.*
 
 # Yoga International Magazine: Privacy Policy
 
