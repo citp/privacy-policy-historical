@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applelinks.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601151258id_/http%3A//www.applelinks.com/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applelinks.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801210407id_/http%3A//www.applelinks.com/pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
