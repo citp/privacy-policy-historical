@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exposuremanager.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012022611id_/http%3A//www.exposuremanager.com/scripts/website.pl%3Frm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposuremanager.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308121434id_/http%3A//www.exposuremanager.com/scripts/website.pl%3Frm%3Dprivacy) for the most accurate reproduction.*
 
 # Exposure Manager
 
