@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focusonthefamily.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411150657id_/http%3A//focusonthefamily.com/welcome/aboutfof/a0013445.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusonthefamily.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202071445id_/http%3A//focusonthefamily.com/welcome/aboutfof/a0013445.html) for the most accurate reproduction.*
 
 # Focus on the Family - Privacy Policy
 
@@ -70,9 +70,3 @@ When you request a resource we require that you provide us certain information t
 **Shopping Cart Identification**
 
 The Shopping Cart Identification "cookie" allows the Online Resource Center to connect you to your active shopping cart. This cookie is set to expire whenever you exit your current browser session. 
-
-  
-Copyright © 2001 Focus on the Family  
-All rights reserved. International copyright secured.  
-(800) A-FAMILY (232-6459)  
-[_Privacy Policy_](https://web.archive.org/welcome/aboutfof/a0013445.html)
