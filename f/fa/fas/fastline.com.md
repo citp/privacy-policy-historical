@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastline.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208160041id_/http%3A//www.fastline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastline.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603040202id_/http%3A//www.fastline.com/privacy.asp) for the most accurate reproduction.*
 
 # Fastline Publications Privacy Policy
 
@@ -48,7 +48,7 @@ You can decline to provide personal information to us. Please note that in some 
 
 **Information Posted to Our Site**
 
-When you post information in our equipment database listings, classified listings, on message boards or discussion groups, you grant Fastline unrestricted use of that material. Please see our [Terms of Use Agreement](https://web.archive.org/web/20031208160041id_/http%3A//www.fastline.com/license.asp) for more information. Users should be aware that personal information voluntarily disclosed on message boards and discussion groups can be collected and used by others and may result in unsolicited messages to you from other parties.
+When you post information in our equipment database listings, classified listings, on message boards or discussion groups, you grant Fastline unrestricted use of that material. Please see our [Terms of Use Agreement](https://web.archive.org/web/20040603040202id_/http%3A//www.fastline.com/license.asp) for more information. Users should be aware that personal information voluntarily disclosed on message boards and discussion groups can be collected and used by others and may result in unsolicited messages to you from other parties.
 
 **Our Commitment To Data Security**
 
