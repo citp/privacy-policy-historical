@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoprofessor.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410044749id_/http%3A//www.videoprofessor.com/index.cfm%3Ffuseaction%3DHOME.privacyPolicy%26CFID%3D113414%26CFTOKEN%3Da3aeb72be0bb53e2-68553683-4763-137C-F2755CFE40E904FC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoprofessor.com privacy policy that was archived on 2003-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031015095624id_/http%3A//www1.videoprofessor.com/index.cfm%3Ffuseaction%3DHOME.privacyPolicy%26CFID%3D75984%26CFTOKEN%3Dd900f2ee0d97e160-E5A26F13-BCD6-A209-D723450353C9C45C) for the most accurate reproduction.*
 
 # Video Professor - Privacy Policy
 
@@ -17,7 +17,7 @@ This privacy statement tells you:
 
 
 
-**If users have questions or concerns regarding this statement, they should first contact our webmaster by: email[webmaster@videoprofessor.com](mailto:webmaster@videoprofessor.com), phone (303) 232-1244, or postal mail 1310 Wadsworth Blvd, Suite 100, Lakewood, CO 80214**
+**If users have questions or concerns regarding this statement, they should first contact our webmaster by: email[webmaster@videoprofessor.com](mailto:webmaster@videoprofessor.com), phone (303) 232-1244, or postal mail 12055 West 2nd Place, Lakewood, CO 80228-1526**
 
 ### Information Collection and Use
 
@@ -34,7 +34,7 @@ We request information from the user on our order form. A user must provide cont
 When filling an order, Video Professor uses your personal information to process and review order(s) for our software products. Once you have submitted an order for one of our products, we use your information internally to process your order(s), and to personalize Video Professor mailings based on your interests. Video Professor usually does this by the periodic mailings sent to your postal address (typically along with your product order) or to your email address alerting you to special offers, newsletters, and commercial offerings that may be of interest. In order to provide services that better meet your needs, we also may supplement the information that you provide to us with other information that we receive from third parties.
 
 **Profile**  
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We share your profile with other third parties, mostly in aggregate, but occasionally, with your permission, your profile is shared together with your personally identifiable information.
+We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We share your profile with other third parties, mostly in aggregate, but occasionally, your profile is shared together with your personally identifiable information.
 
 **Cookies**  
 A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions at ([http://support.microsoft.com/default.aspx?scid=KB;EN-US;q278835](http://support.microsoft.com/default.aspx?scid=KB;EN-US;q278835&) for Internet Explorer and <http://help.netscape.com/kb/consumer/19971020-3.html>) for Netscape. 
@@ -78,7 +78,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 We share aggregated demographic information with our partners. This is not linked to any personally identifiable information.
 
 **These are the instances in which we will share users' personal information:**  
-With your permission, we Share Personal Information with third parties, including our business partners. For example, with your permission, we may pass your email, name, and other information to a third party that we feel may have products or services which may be of interest to you.
+With your permission, we Share Personal Information with third parties, including our business partners. For example, we may pass your email, name, and other information to a third party that we feel may have products or services which may be of interest to you.
 
 **Third Party Intermediaries**  
 We may use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
@@ -92,9 +92,7 @@ In the event Video Professor goes through a business transition, such as a merge
 **Choice/Opt-out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [remove@videoprofessor.com](mailto:remove@videoprofessor.com) or the user may contact us at 303-232-1244 or 1310 Wadsworth Blvd, Suite 100, Lakewood, CO 80214 to opt-out.
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by [clicking here](http://www.videoprofessor.com/index.cfm?fuseaction=HOME.optOut&CFID=1285024&CFTOKEN=90095138) for instructions on how to get your name removed from our mailing lists.
 
 **Links**  
 This site contains links to other sites and we will, on occasion, create partnerships with reputable third-party companies, where we host their content, or vice versa. Please be aware that we, Video Professor, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every site that collects personally identifiable information. This privacy statement applies solely to information collected by this site. 
@@ -125,8 +123,8 @@ If a user's personally identifiable information changes (such as zip code, phone
 
 Webmaster  
 Video Professor  
-1310 Wadsworth, Suite 100  
-Lakewood, CO 80214  
+12055 West 2nd Place  
+Lakewood, CO 80228-1526  
 (303) 232-1244  
 
 
@@ -140,7 +138,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 Webmaster  
 Video Professor  
-1310 Wadsworth, Suite 100  
-Lakewood, CO 80214  
+12055 West 2nd Place  
+Lakewood, CO 80228-1526  
 (303) 232-1244  
 [http://www.videoprofessor.com](http://www.videoprofessor.com/)
