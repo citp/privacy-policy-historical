@@ -1,255 +1,114 @@
-<!--The following is the downloaded HTML source of the vcu.edu privacy policy that was archived on 2003-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030409204856id_/http%3A//www.vcu.edu/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vcu.edu privacy policy that was archived on 2003-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205022219id_/http%3A//www.vcu.edu/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>VCU Web Privacy Statement</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="Author" content="Jim Yucha">
-<meta name="Keywords" content="VCU, Virginia Commonwealth University, Students,
-      Admissions, Tour, Apply, Schools, Programs">
-<style type="text/css">
-<!--
-  a:link {  color: #996600; text-decoration: none}
-  a:active {  color: #996600; text-decoration: none}
-  a:visited {  text-decoration: none; color: #996600}
-  a:hover {  color: #ffcc00; text-decoration: none}
-  DIV.indent5 {margin-left:5}
-  DIV.indent10 {margin-left:10}
-  DIV.indent15 {margin-left:15}
-  DIV.indent20 {margin-left:20}
-  DIV.indent25 {margin-left:25}
-  DIV.indent30 {margin-left:30}
--->
-</style>
-
-<script language="JavaScript">
-
-function checkQuery() {
-  var queryFld = document.keyword.query
-  if (queryFld.value == "") {
-    alert ("Please enter a query")
-    queryFld.focus()
-  return(false)
-  }
-  return(true)
-}
-
-function checkName() {
-  var nameFld = document.ccso.NAME
-  if (nameFld.value == "") {
-    alert ("Please enter a name")
-    nameFld.focus()
-    return(false)
-  }
-  return(true)
-}
-
-function convertString( temp ) {
-  var newString = "";
-  var i=0;
-  for( i=0; i < temp.length; i++ ) {
-    if( temp.charAt(i) != " " ) {
-      newString += temp.charAt(i);
-    }
-    else {
-      newString += "+";
-    }
-  }
-  return newString;
-}
-
-function startSearch() {
-
-//vcu via Google
-if( document.keyword.searchnav.selectedIndex == 0 ) {
- if( checkQuery() ) {
-  var header = "http://www.google.com/u/vcu?";
-  var options = "&sitesearch=vcu.edu&domains=vcu.edu";
-  var searchVal = "q=" + convertString(document.keyword.query.value);
-  eval( "location = " + "\"" + header + searchVal + options + "\"");
-  }
- }
-
-//vcu via HtDig
-if( document.keyword.searchnav.selectedIndex == 2 ) {
- if( checkQuery() ) {
-  var header = "http://search.vcu.edu/cgi-bin/htsearch?";
-  var options = "config=htdig&restrict=";
-  var restrict = "";
-  var exclude = "&exclude=http://www.gartner.vcu.edu/"
-  var restrictsas = "";
-  var excludesas = "&exclude=http://www.at.vcu.edu/manuals/"
-  var options2 = "&method=and&format=long&sort=score&matchesperpage=20";
-  var searchVal = "&words=" + convertString(document.keyword.query.value);
-  eval( "location = " + "\"" + header + options + restrict + exclude + restrictsas + excludesas + options2 + searchVal + "\"");
-  }
- }
-
-//people
-if( document.keyword.searchnav.selectedIndex == 1 ) {
-  if( checkQuery() ) {
-    var header = "http://search.vcu.edu/cgi-bin/directall?";
-    options = "TYPE=All";
-    searchVal = "&NAME=" + convertString(document.keyword.query.value);
-    eval( "location = " + "\"" + header + options + searchVal + "\"" );
-  }
-}
-
-//searchSearch
-
-}
-
-</script>
-
+<link href="vcu3/vcuhome.css" rel="stylesheet" type="text/css">
+<script language="Javascript" type="text/javascript" src="scripts/search.js"></script>
 </head>
-<body leftmargin="0" topmargin="0" marginwidth="0" bgcolor="ffffff" marginheight="0">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
 
-<!-- VCU and Search Area -->
+<body leftmargin="0" topmargin="6" marginwidth="0" marginheight="0" bgcolor="#FFFFFF">
 
-<tbody><tr><td colspan="4">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<form></form>
-<tbody><tr align="right" valign="middle">
-<td height="58"><a href="index.html">
-<img border="0" src="images/21/vcu_title2.gif" alt="Virginia Commonwealth University" align="left" width="116" height="58"></a><img border="0" alt="Web Policies" src="images/21/webpolicy.gif" align="left" width="270" height="58">
-<br>
-  <font face="arial" size="2"><select name="sitenav" onchange="window.location =
-   this.form.sitenav.options[this.form.sitenav.selectedIndex].value" size="1">
-    <option value="#" selected="">Site Navigation</option>
-    <option value="#">------------------</option>
-    <option value="/index.html">Home</option>
-    <option value="/vcu/pro/">Prospective Students</option>
-    <option value="/vcu/current.html">Current Students</option>
-    <option value="/vcu/faculty/">Faculty</option>
-    <option value="/vcu/staff/">Staff</option>
-    <option value="/vcu/alumni.html">Alumni &amp; Friends</option>
-    <option value="#">--------------------</option>
-    <option value="/vcu/academics.html">Academics</option>
-    <option value="/vcu/admin.html">Administration</option>
-    <option value="http://vcurams.vcu.edu/">Athletics</option>
-    <option value="http://www.library.vcu.edu/">Libraries</option>
-    <option value="http://www.research.vcu.edu/">Research</option>
-    <option value="/it/">Technology</option>
-    <option value="/vcu/employment.html">Employment</option>
-    <option value="/vcu/giving.html">Giving</option>
-  </select></font>
-</td>
-</tr>
-
-</tbody></table>
-</td></tr>
-
-<!-- VCU Line -->
-
-<tr>
- <td colspan="5" bgcolor="#000000" height="18">
- <img alt="" border="0" src="images/21/vcu_long.gif" width="590" height="18"></td>
-</tr>
- 
-<!-- Navigation Row -->
-
-<tr>
- <td colspan="5" bgcolor="#CCCCCC" height="20" align="left"><a href="http://www.vcu.edu/cgi-bin/events/">
- <img alt="Calendar" src="images/nbar/calendar.gif" border="0" width="62" height="20"></a><a href="courses/courses.html"><img alt="Courses" src="images/nbar/courses.gif" border="0" width="55" height="20"></a><a href="maps/index.html"><img alt="Maps" src="images/nbar/maps.gif" border="0" width="40" height="20"></a><a href="http://www.vcu.edu/uns/"><img alt="News" src="images/nbar/news.gif" border="0" width="41" height="20"></a><a href="http://www.pubinfo.vcu.edu/web/search/a2z.asp"><img alt="VCU A-Z" src="images/nbar/vcua-z.gif" border="0" width="59" height="20"></a><a href="vcu/webmail.html"><img alt="Web Mail" src="images/nbar/webmail.gif" border="0" width="61" height="20"></a></td>
-</tr>
-
-<!-- Content of Web Page -->
-
-<tr>
-
-<!-- Column #1: More Info -->
-
-<td valign="top" width="156">
-<img src="images/21/shim_transparent.gif" width="156" height="1" alt=""><br>
-<br>
-<table width="156" border="0" cellspacing="0" cellpadding="0">
+<!-- Outside Table -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
 <tbody><tr>
-<td width="3">&nbsp;</td>
-<td width="150">
-<table width="150" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFCC00">
-<tbody><tr valign="top" width="148"> 
-<td width="148"> <img src="images/21/more1a.gif" alt="More Information" width="146" height="22">  
- <table width="146" border="0" cellspacing="0" cellpadding="4" bgcolor="#FFFFCC">
- <tbody><tr valign="top" width="148"> 
-  <td width="148">
-   <font size="2" face="Arial, Helvetica, sans-serif">
+<td align="center" valign="top">
 
-<!-- Begin More Info -->
-
-  <br>
-<a href="it/policies.html">Technology Policies &amp; Guidelines</a>
-  <br><br>
-  <a href="guidelines/index.html">Web Publishing Guidelines</a>
-  <br><br>
-   <a href="vcu/siteinfo.html">VCU Site Information</a>
-  <br><br>
-  </font>
-  
-<!-- End More Info -->
-
-  </td>
- </tr>
- </tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-<td width="3">&nbsp;</td>
-</tr>
-</tbody></table>
-
-<br><br>
-
-<table width="156" border="0" cellspacing="0" cellpadding="0">
+<!-- Information Table -->
+<table border="0" cellspacing="0" cellpadding="0" width="90%">
 <tbody><tr>
-<td width="3">&nbsp;</td>
-
-<!-- Search Engine -->
-<td width="150">
- <table width="150" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFCC00">
- <tbody><tr><td> 
- <form name="keyword" action="" onsubmit="startSearch();return false">
- <font face="Arial, Helvetica, sans-serif" size="1">
- &nbsp;<img border="0" src="images/21/search2.gif" alt="Search" width="49" height="17"><br>
- </font>&nbsp;<input type="text" name="query" size="15"><br>
-  &nbsp;<select name="searchnav" size="1">
-  <option value="vcu" selected="">VCU Web</option>
-  <option value="people">People</option>
-  </select>&nbsp;<input type="submit" name="Submit" value="Go">
- <br>
- &nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://search.vcu.edu/"><font color="#996600">Options</font></a>
- </font>
- </form></td></tr>
- </tbody></table>
+ <td align="left" class="date"><a href="http://www.vcu.edu/">VCU Home</a></td>
+ <td valign="top" align="right" class="date">
+  <!--webbot bot="Include" U-Include="/includes/subheader.html" TAG="BODY" startspan -->
+<table>
+<tbody><tr><td nowrap="" class="date">
+<a href="http://www.pubinfo.vcu.edu/calendar/">Calendar</a> | 
+<a href="http://www.courses.vcu.edu/courses.html">Courses</a> | 
+<a href="/maps/">Maps</a> | 
+<a href="http://www.pubinfo.vcu.edu/web/search/a2z.asp">VCU A-Z</a> |
+<a href="/vcu/webmail.html">Web Mail</a>
+</td></tr></tbody></table>
+<!--webbot bot="Include" endspan i-checksum="42872" --></td>
+</tr>
+<tr><td><img src="images/img03/white.gif" alt="line" height="4" colspan="3"></td></tr>
+<tr>
+ <td bgcolor="#000000" valign="top" colspan="2"><a href="/">
+ <img align="left" src="images/img03/vcubar.gif" alt="Virginia Commonwealth University" border="0" width="707" height="18"></a></td>
+</tr>
+<tr>
+ <td bgcolor="#3B5074" nowrap=""><a href="./">
+ <img border="0" src="images/img03/headers/vcu.gif" alt="VCU Home" width="126" height="59"></a><img border="0" src="images/img03/headers/h_privacy.gif" alt="Web Privacy" width="237" height="59"></td>
+ <td bgcolor="#3B5074" align="right">
  
-</td><td width="3">&nbsp;</td>
-</tr></tbody></table>
-<br><br>
+  <!-- Search Table -->
 
+ <table border="0" cellspacing="0" cellpadding="0" class="radiobutton">
+ <tbody><tr>
+  <form name="keyword" action="" onsubmit="startSearch();return false"></form>
+<td width="20"><img src="/images/img03/spacer.gif" alt="" width="20" height="1"></td><td valign="bottom"></td><td valign="bottom"></td><td valign="bottom"></td><td></td>
+<td valign="middle" nowrap=""><input name="query" type="text" size="20" id="Search" onclick="this.value=''" value="Search VCU">
+  <input type="image" value="submit" img="" src="/images/img03/go.gif" border="0" alt="Search" width="26" height="18"><br>
+   <img src="/images/img03/spacer.gif" width="20" height="2" alt=""><br>
+   <label for="Search"></label><label for="web"><a href="http://search.vcu.edu/"><span class="search">Web</span></a></label>
+<input name="searchnav" type="radio" value="vcu" id="web">
+<label for="people"><a href="http://search.vcu.edu/"><span class="search"> People</span></a></label>
+<input name="searchnav" type="radio" value="people" id="people">
 </td>
 
-<!-- Column #2: Filler -->
+  <script language="javascript">
+   var ip = '209.237.238.161';
+   setVCURadio(ip);
+  </script>
+  </tr>
+  </tbody></table>
 
-<td valign="top" width="15">
-<img src="images/21/shim_transparent.gif" width="15" height="1" alt=""><br>
-&nbsp;</td>
+ <!-- End of Search Table -->
 
-<!-- Column #3: Content  -->
 
-<td valign="top">
-<img src="images/21/shim_transparent.gif" width="344" height="1" alt="">
-<font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+ </td>
+</tr>
 
-<!-- Begin Content -->
+<tr><td colspan="2">
+ <!-- Content Table -->
+ <table border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+  <td bgcolor="#B6C9EA" width="1"><img src="images/img03/spacer.gif" alt="" width="1" height="1"></td>
+  <td width="5"><img src="images/img03/spacer.gif" alt="" width="5"></td>
+  <td valign="top" width="146"><img src="images/img03/spacer.gif" alt="" height="7"> 
 
+<!-- More Info Table -->
+<table border="1" cellspacing="0" cellpadding="3" width="146" bgcolor="#ECEFF4" bordercolor="#B6C9EA">
+<tbody><tr>
+<td>
+<div>
+<br>
+
+<a href="http://www.at.vcu.edu/ovp/policies.html">Technology Policies &amp; Guidelines</a><br><br>
+<a href="guidelines/index.html">Web Publishing Guidelines</a><br><br>
+<a href="vcu/siteinfo.html">VCU Site Information</a><br><br>
+</div>   
+</td>
+</tr>
+</tbody></table>
+<!-- End of More Info Table -->
+
+</td>
+<td width="100%" valign="top">
+
+<!-- Real Content Table -->
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tbody><tr>
+<td>
+
+<!-- Content -->
+<div>
+<br>
 <h2 align="center"> Web Privacy Statement</h2>
-<font face="verdana,arial,helvetica,sans-serif" size="2">
-<p align="center">
-Effective Date: January 1, 2001</p>
+<p align="center">Effective Date: January 1, 2001</p>
 
-<p>
-The following
+<p>The following
 discloses the information gathering and dissemination practices of official Virginia
 Commonwealth University (VCU) web pages (defined as
 Institutional Web Pages in the <a href="guidelines/index.html"><b>VCU Web
@@ -263,19 +122,19 @@ statement.</p>
   the citizen shall understand the reason the information is collected and be
   able to examine their personal record which is maintained by a public body.</i></p>
 </blockquote>
-<p>
-The VCU Website does
+
+<p>The VCU Website does
 not require that any personal information be supplied in order to download
 publicly available files or reports.&nbsp;</p>
-<p>
-In addition to the VCU Web Privacy Statement, the University encourages its
+
+<p>In addition to the VCU Web Privacy Statement, the University encourages its
 College, Schools, Departments, Centers, Institutes and other units contributing
 to its official web pages to provide specific notices about the collection and
 use of any personal information associated with those pages.</p>
-<p><b>What is collected
-and how is it used</b></p>
-<p>
-When you visit the VCU web site we collect the following non-personal information</p>
+
+<p><b>What is collected and how is it used</b></p>
+
+<p>When you visit the VCU web site we collect the following non-personal information</p>
 <ul>
   <li>Your IP address</li>
   <li>Date and Time</li>
@@ -283,13 +142,13 @@ When you visit the VCU web site we collect the following non-personal informatio
   <li>Type of browser used</li>
   <li>Referring web page, if present</li>
 </ul>
-<p>
-None of this
+
+<p>None of this
 information is associated with you as an individual and is used strictly for
 statistical reporting purposes in order to assess demands and usage for planning
 purposes.</p>
-<p>
-Some VCU web sites
+
+<p>Some VCU web sites
 require you to provide personal information in order to provide services
 requested by you.&nbsp; If you choose to share personal information with us by
 sending us an Email message or by filling out an electronic form with personal
@@ -299,16 +158,17 @@ provide this personal information, we will be unable to provide you some of the
 services which we offer online.&nbsp; Each VCU web site that collects personal
 information will include a statement as to the purpose for collecting such
 personal information and how that information will be used.</p>
-<p>
-<b>Cookies</b></p>
+
+<p><b>Cookies</b></p>
 <blockquote>
-<p>
-<i>A cookie is is a small amount of data that is sent to your browser from a
-World Wide Web Server and stored on your desktop computer.&nbsp; The cookie is then sent back to the server each time the
+<p><i>A cookie is is a small amount of data that is sent to your browser from a
+World Wide Web Server and stored on your desktop computer.&nbsp; The cookie is 
+then sent back to the server each time the
 browser requests a page from the server. The primary purpose of cookies is to identify users
 in order to prepare customized Web
 pages for them.</i></p>
 </blockquote>
+
 <p>The VCU web site uses two kinds of cookies: non-persistent and
 persistent.&nbsp;&nbsp;&nbsp; Some VCU web pages
 use non-persistent cookies for the purposes of fulfilling form requests.&nbsp;
@@ -317,61 +177,89 @@ small number of VCU web pages use persistent cookies in order to provide
 improved service.&nbsp; Any VCU web page that uses persistent cookies will include a statement as to the purpose for
 using persistent cookies, exactly what is being retained and how that information
 is being used.</p>
+
 <p><b>Security</b></p>
-<p>To prevent
-unauthorized access, maintain data accuracy, and ensure the correct use of
+
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of
 information, we have put in place appropriate physical, electronic, and managerial
 procedures to safeguard and secure the information we collect online, consistent
 with VCU policies and the laws and regulations of the Commonwealth of Virginia.</p>
-<p><b>Information
-Disclosure</b></p>
-        <p>Any personal
-information that one chooses to supply will be maintained exclusively within VCU
+
+<p><b>Information Disclosure</b></p>
+
+<p>Any personal information that one chooses to supply will be maintained exclusively within VCU
 and will not be supplied to any other non-VCU entity or organization except as provided by law.&nbsp;
 Information you provide is only used to provide requested services and for
 internal statistics.</p>
+
 <p><b>Disclaimer</b></p>
-        <p>This site
-        contains links to external (non-VCU) web sites.&nbsp; VCU is not
-        responsible for the privacy practices or content of such web sites.</p>
+
+<p>This site contains links to external (non-VCU) web sites.&nbsp; VCU is not
+responsible for the privacy practices or content of such web sites.</p>
+
 <p><b>Contacting Us</b></p>
-<p>If you have
-additional questions or concerns about our privacy policies, please send Email
-to the VCU Webmaster at <a href="mailto:webmaster@www.vcu.edu"><b>webmaster@www.vcu.edu</b></a>. If you wish to review or change
+
+<p>If you have additional questions or concerns about our privacy policies, please send Email
+to the VCU Webmaster at <a href="mailto:webmaster@www.vcu.edu"><b>webmaster@www.vcu.edu</b></a>. 
+If you wish to review or change
 information gathered about you via an official VCU web site, you may contact the
 VCU Webmaster who will assist you in locating the person responsible for that
 site so that you may make your request for that review or change directly with
-them.</p><!-- End Content -->
-</font></font><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font face="verdana,arial,helvetica,sans-serif" size="2">
-<br>
+them.</p>
+</div>
+<!--webbot bot="Include" U-Include="includes/filler.html" TAG="BODY" startspan -->
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-</font>
-</font>
-</p></td>
+<!--webbot bot="Include" endspan i-checksum="38419" -->
 
-<!-- Column #4: Filler -->
+<!-- End of Content -->
+  </td>
+  </tr>
+  </tbody></table>
+  <!-- End of Real Content Table -->
+  </td>
 
-<td valign="top" width="10">
-<img src="images/21/shim_transparent.gif" width="10" height="1" alt=""><br>
-&nbsp;</td>
-
-</tr>
-
-<!-- Bottom of Page -- Last Update -->
-
-<tr>
- <td colspan="4" bgcolor="#000000" height="21">
-  <font size="2" face="Verdana">&nbsp;
-  <font color="#ffffff">Last Updated: 1-7-2002 &nbsp; | </font>
-  <a href="mailto:webmaster@www.vcu.edu">
-  <font color="#ffcc00">Comments</font></a>
-  </font>
- </td>
+<td bgcolor="#B6C9EA" width="1"><img src="images/img03/spacer.gif" alt="" width="1" height="1"></td>
 </tr>
 </tbody></table>
-<img src="http://www.vcu.edu/cgi-bin/nph-count?show=no&amp;link=http://www.vcu.edu/privacy.html"> 
+
+<!-- End of Content Table -->
+
+</td>
+</tr>
+<tr><td valign="top" colspan="2">
+ <!-- Footer Table -->
+ <!--webbot bot="Include" U-Include="/includes/footer.html" TAG="BODY" startspan -->
+ <table border="0" cellspacing="0" cellpadding="0" width="100%">
+ <tbody><tr align="left">
+  <td bgcolor="#B6C9EA" width="1"><img src="includes/spacer.gif" alt="bob" width="1" height="1"></td>
+  <td width="100%" bgcolor="#3B5074" height="31" class="footer">&nbsp;&nbsp;Last 
+   Updated: 08/18/2003 | <a href="mailto:rmdowns@vcu.edu,jyucha@vcu.edu" class="footer"><font color="#fcbc00">Comments</font></a></td>
+  <td bgcolor="#B6C9EA" width="1"><img src="includes/spacer.gif" alt="" width="1" height="1"></td>
+ </tr>
+ </tbody></table>
+<!--webbot bot="Include" endspan i-checksum="62089" -->
+ <!-- End of Footer Table -->
+</td>
+</tr>
+<tr>
+ <td bgcolor="#B6C9EA" colspan="2"><img src="images/img03/spacer.gif" alt="" width="1" height="1"></td>
+</tr>
+
+</tbody></table>
+ <!-- End of Information Table -->
+
+</td>
+</tr>
+</tbody></table>
+ 
+ 
+ 
+ 
+ 
+ <!-- End of Outside Table -->
+
 
 
 </body></html>
