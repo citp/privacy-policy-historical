@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017130442id_/http%3A//www.globalscape.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2003-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030117072459id_/http%3A//globalscape.com/company/privacy.asp) for the most accurate reproduction.*
 
-# GlobalSCAPE, Inc
-
-  
-
+# GlobalSCAPE - Content Management
 
 We want you to know that we take your privacy seriously. We collect industry standard information to help us provide you with better software and services as described below. 
 
