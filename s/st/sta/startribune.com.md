@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214031400id_/http%3A//www2.startribune.com/viewers/qview/cgi/qview.cgi%3Ftemplate%3Dhelp%26story%3D70743883) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604034730id_/http%3A//startribune.com/st/qview.cgi%3Ftemplate%3Dhelp%26story%3D70743883) for the most accurate reproduction.*
 
 # 
 
@@ -51,8 +51,8 @@ Startribune.com does not rent, sell, barter or give away its user lists or its u
 
 When a user specifically authorizes e-mail solicitations (for example, in the user license for our Work Avenue service) we make available the users' names and other identifying information in accordance with the applicable license. Please refer to the legal notices and license terms of our Work Avenue service for further details.
 
-* [Legal notice and license terms for Job Seekers](http://www.workavenue.com/startribune/seeker/pub/cgi-bin/jlegal.pl?site=startribune)
-* [Legal notice and license terms for Employers](http://www.workavenue.com/startribune/employer/pub/cgi-bin/elegal.pl?site=startribune)
+* [Legal notice and license terms for Job Seekers](http://workavenue.startribune.com/cgi-bin/gx.cgi/AppLogic+FTContentServer?pagename=wa%2fjobseeker%2flegal_notice)
+* [Legal notice and license terms for Employers](http://workavenue.startribune.com/cgi-bin/gx.cgi/AppLogic+FTContentServer?pagename=wa%2femployer%2flegal_notice)
 
 Electronic commerce with the Star Tribune
 
@@ -92,7 +92,7 @@ From time to time we may send you information about various products and service
 
 Changing your personal information
 
-Information you provide to startribune.com may be stored by us for an indefinite time. This information includes registration data for various contests or services offered on startribune.com. To prevent minors from improperly entering contests for which they are not eligible, we may require additional proof from people asking to change their birth date information. With that exception, please feel free to have us change, update or delete this information at any time by sending an e-mail to [feedback@startribune.com](https://web.archive.org/web/20001214031400id_/http%3A//www2.startribune.com/viewers/qview/cgi/feedback@startribune.com?subject=update%20my%20information).
+Information you provide to startribune.com may be stored by us for an indefinite time. This information includes registration data for various contests or services offered on startribune.com. To prevent minors from improperly entering contests for which they are not eligible, we may require additional proof from people asking to change their birth date information. With that exception, please feel free to have us change, update or delete this information at any time by sending an e-mail to [feedback@startribune.com](https://web.archive.org/web/20010604034730id_/http%3A//startribune.com/st/feedback@startribune.com?subject=update%20my%20information).
 
 Remember the risks when you use the Internet
 
