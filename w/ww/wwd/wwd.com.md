@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwd.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408180453id_/http%3A//www.wwd.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwd.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204183512id_/http%3A//www.wwd.com/privacy.cfm) for the most accurate reproduction.*
 
 # WWD Home
 
@@ -6,7 +6,7 @@ Last Revised June 17, 2002
 
 Kids and parents click here!
 
-In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20030408180453id_/http%3A//www.wwd.com/terms.cfm). Your use of WWD.com constitutes agreement to its terms and conditions. 
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20031204183512id_/http%3A//www.wwd.com/terms.cfm). Your use of WWD.com constitutes agreement to its terms and conditions. 
 
 WWD.com is produced by Fairchild Internet, Inc. This policy does not cover information collected on sites linked to from WWD.com. 
 
