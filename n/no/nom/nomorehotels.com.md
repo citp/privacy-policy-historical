@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomorehotels.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409103750id_/http%3A//nomorehotels.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorehotels.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602084626id_/http%3A//nomorehotels.com/privacy.htm) for the most accurate reproduction.*
 
 # NoMoreHotels Homestays vacation rentals short term rentals timeshares condos apartments villas bungalows homes
 
