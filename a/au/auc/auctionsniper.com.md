@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212073630id_/http%3A//www.auctionsniper.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsniper.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021454id_/http%3A//www.auctionsniper.com%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# AuctionSniper.com - Automatically Snipe and Win eBay Auctions. Bid at the last second automatically.
+# AuctionSniper eBay Sniper - Snipe eBay Auctions and Win
 
 AuctionSniper.com has created this statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.AuctionSniper.com](http://www.moneymover.com/).
 
