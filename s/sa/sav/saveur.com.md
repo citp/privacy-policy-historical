@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the saveur.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207084909id_/http%3A//saveur.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveur.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401121116id_/http%3A//saveur.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
 
 # Saveur
 
-[](https://web.archive.org/web/20031207084909id_/http%3A//saveur.com/article_print_8x11.jsp;jsessionid=81F4B3E0B7C8CF5F2E8FD2EA1ED5DA77?print=yes&ID=8222&typeID=336)
-
-  
-
+[](https://web.archive.org/web/20040401121116id_/http%3A//saveur.com/article_print_8x11.jsp;jsessionid=78FD32A058179275618E9B9FF396CC02?print=yes&ID=8222&typeID=336)
 
 This web site is owned and controlled by World Publications, LLC, 460 N. Orlando Ave, Suite 200 Winter Park FL 32789, USA.
 
@@ -56,3 +53,6 @@ We work hard to maintain data security. We have in place physical, electronic, a
 World Publications, LLC reserves the right to disclose information contained in our access logs concerning any user as we reasonably feel is necessary to protect our systems or business. In particular, we reserve the right to disclose specific user information when a specific user is in violation of this stated policy and/or other published guidelines, or participates (or is reasonably believed so) in any illegal activity, even without a subpoena, warrant, or other court order, and to disclose such information in response to court and governmental orders, civil subpoenas, discovery requests, and as otherwise required by law.
 
 In reviewing the information above, please keep in mind that World Publications, LLC cannot and does not assume any responsibility for any actions or omissions of third parties, including site users and the manner in which they might use information received from World Publications, LLC or independently.
+
+  
+
