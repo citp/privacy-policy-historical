@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212215530id_/http%3A//lazydays.com/default.asp%3Fipage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605155619id_/http%3A//www.lazydays.com/default.asp%3Fipage%3Dpolicy) for the most accurate reproduction.*
 
 # Lazydays - Website and Privacy Policy
 
