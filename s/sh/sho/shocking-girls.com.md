@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shocking-girls.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207055624id_/http%3A//www.shocking-girls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shocking-girls.com privacy policy that was archived on 2004-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040415011512id_/http%3A//www.shocking-girls.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
