@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2000-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000606101103id_/http%3A//www.avn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018203108id_/http%3A//www.avn.com/privacy.shtml) for the most accurate reproduction.*
 
 # AVN.com Privacy Statement Pictures Sex Porn Stars Free Webmasters AVN Adult Video News Sex Pictures Sexy Videos Searches Gay Sex Women Sex Videos AVNonline
 
