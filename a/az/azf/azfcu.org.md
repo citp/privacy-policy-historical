@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azfcu.org privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014145015id_/http%3A//www.azfcu.org/about_afcu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfcu.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204538id_/http%3A//www.azfcu.org/about_afcu/privacy.html) for the most accurate reproduction.*
 
 # Arizona Federal Credit Union
 
@@ -33,6 +33,10 @@ We are committed to taking every reasonable precaution to protect individual ide
 
 Except where expressly required by applicable law, we will provide all notices to the person (member) listed first on any application, agreement or other relevant document with us. The notice will be mailed to the address noted for said person on the application, agreement or other document. If this person (member) has agreed to receive notices and disclosures electronically, then we can send all such notices and notifications to the e-mail or Internet address provided by said person. All joint owners, borrowers and guarantors agree to the receipt and sufficiency of any notice or notification sent according to this paragraph. 
 
-**5\. Modification**. 
+**5\. Modification.**
 
 The Credit Union reserves the right to modify, change or amend this Privacy Policy and Agreement at any time without notice other than as expressly required by applicable law. 
+
+**6\. US Patriot Act.**
+
+[Click here to read the US Patriot Act](https://web.archive.org/web/20030602204538id_/http%3A//www.azfcu.org/about_afcu/patriotact.html)
