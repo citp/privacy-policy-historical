@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ark.org privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208171900id_/http%3A//ark.org/access.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ark.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405024106id_/http%3A//www.ark.org/access.html%23Privacy) for the most accurate reproduction.*
 
 # Access Information
 
