@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217221440id_/http%3A//www.femail.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604193130id_/http%3A//www.femail.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ By using our Web site, you consent to the collection and use of this information
 
 **Tell us what you think**
 
-Femail.com.au encourages feedback and any questions you may have about privacy. Please send email to the Editor [michelle.palmer@trellian.com](mailto:michelle.palmer@trellian.com).
+Femail.com.au encourages feedback and any questions you may have about privacy. Please send email to the Editor [michelle@femail.com.au](mailto:michelle@femail.com.au).
