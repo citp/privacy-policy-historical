@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204121108id_/http%3A//www.rotary.org/resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173702id_/http%3A//www.rotary.org/resources/privacy.html) for the most accurate reproduction.*
 
 # Rotary International: Privacy
 
-|  |    
+  |  |    
 
 
 ## ****RI Collection and Use of Personal Membership Data
@@ -30,7 +30,7 @@ return to top
 
 In order to protect online privacy, Rotary International keeps e-mail addresses, telephone numbers, mail addresses and other information secure. RI protects the security of personal data by using password-protected areas and restricting access. 
 
-The security of your payment information during transmission is protected by Secure Sockets Layer (SSL) software, which encrypts all of your personal information, including name, address, and credit card number, so that it can travel safely over the Internet. The entire credit card number is submitted to the appropriate credit card company during order processing, but we reveal only the last five digits of your credit card numbers when confirming an order. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.   
+The security of your payment information during transmission is protected by Secure Sockets Layer (SSL) software, which encrypts all of your personal information, including name, address, and credit card number, so that it can travel safely over the Internet. The entire credit card number is submitted to the appropriate credit card company during order processing, but only the first and last four digits of your credit card numbers are accessible to designated staff via a password-protected interface. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.   
 
 
 _The Official Directory_ is not available on the Internet and must be ordered by Rotarians. The _Official Directory_ cannot be used as a commercial mailing list and Rotary club members should take care to make sure it is not possible for anyone else to use it for this purpose.
