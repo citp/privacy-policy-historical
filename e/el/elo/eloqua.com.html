@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eloqua.com privacy policy that was archived on 2002-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605094442id_/http%3A//www.eloqua.com/privacy/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eloqua.com privacy policy that was archived on 2002-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021225105154id_/http%3A//www.eloqua.com/privacy/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -22,8 +22,8 @@
 
 </head>
 
-<body onload="MM_preloadImages('../images/company_2.gif','../images/pro_services_2.gif','../images/solutions_2.gif','../images/partners_2.gif','../images/eloqua101_2.gif','../images/contact_2.gif','../images/sitemap_2.gif','../images/privacy_2.gif','../images/legal_2.gif')">
-<font color="#9b9b9b" size="1" face="arial">Eloqua has revolutionary <b>lead generation</b> and <b>email marketing</b> solutions that let you eliminate <b>cold calling</b> in your sales process.  Our <b>permission based</b> sales and marketing solutions let you: <b>Build brand</b>, <b>Reduce cost of sales</b>, <b>Shorten your sales cycle</b>, Contact prospects efficiently, Instantly <b>qualify</b> prospects, and <b>Optimize marketing</b>!</font><br><table width="800" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff"><tbody><tr valign="top"><td rowspan="3" width="1" bgcolor="#000000"><img src="../images/blackspacer.gif" height="1" width="1"></td><td colspan="5" bgcolor="#000000"><img src="../images/blackspacer.gif" height="1" width="1"></td><td rowspan="3" width="1" bgcolor="#000000"><img src="../images/blackspacer.gif" height="1" width="1"></td></tr><tr height="90"><td width="176" height="90"><img src="../images/redspacer.gif" height="90" width="176"></td><td width="1" bgcolor="#000000" height="90"><img src="../images/blackspacer.gif" width="1"></td><td width="420" height="90"><img src="../images/accolades_company.gif" alt="Eloqua Lead Generation and Digital Marketing Accolades"></td><td width="1" bgcolor="#000000" height="90"><img src="../images/blackspacer.gif" width="1"></td><td width="200" height="90" valign="middle"><a name="topofpage" href="../main.asp"><img src="../images/eloqua_logo.gif" width="200" border="0" alt="Eloqua Revolutionary Lead Generation and Digital Marketing Solutions"></a></td></tr><tr><td colspan="5" height="1" width="1" bgcolor="#000000"><img src="../images/blackspacer.gif" width="1" height="1"></td></tr>
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff"><tbody><tr valign="top"><td rowspan="3" width="1" bgcolor="#000000"><img src="../images/blackspacer.gif" height="1" width="1"></td><td colspan="5" bgcolor="#000000"><img src="../images/blackspacer.gif" height="1" width="1"></td><td rowspan="3" width="1" bgcolor="#000000"><img src="../images/blackspacer.gif" height="1" width="1"></td></tr><tr height="110"><td width="176" height="110"><img src="../images/redspacer.gif" height="110" width="176"></td><td width="1" bgcolor="#000000" height="110"><img src="../images/blackspacer.gif" width="1"></td><td height="110" style="padding:5px;"><div id="TopAccolades" class="AccoladesText" style="display:inline;cursor:hand;" onclick="javascript:location.href='../customers/partiallist.asp'"><center><p><i>"We have used the Eloqua Solution and are <span class="AccoladesHighlight">very impressed with the results</span>."<br></i><span class="AccoladesAttrib">-Andy Welch<br>Vice President<br>Daedalian Solutions</span></p></center></div><br><img src="../images/tinydot.gif" width="300" height="1" align="absbottom"></td><td width="1" bgcolor="#000000" height="110"><img src="../images/blackspacer.gif" width="1"></td><td width="200" height="90" valign="middle"><a name="topofpage" href="../main.asp"><img src="../images/eloqua_logo.gif" width="200" border="0" alt="Eloqua Revolutionary Lead Generation and Digital Marketing Solutions"></a></td></tr><tr><td colspan="5" height="1" width="1" bgcolor="#000000"><img src="../images/blackspacer.gif" width="1" height="1"></td></tr>
 
 	<tr>
 	<td width="1" bgcolor="#000000"><img src="" "="" &="" strreltopurl="" "images="" blackspacer.gif""="" height="1" width="1"></td>
@@ -39,30 +39,54 @@ function openCCIWindow( theURL, winName, features )
 window.onload = initPage;
 function initPage(){
 
+	window.setTimeout("ChangeAccolades();", 100);
 }
 
+var intCurrentAccolade = 0;
+
+var aAccolades = new Array;
+
+	aAccolades[0] = "<p><i>&quotWe have used the Eloqua Solution and are <span class=AccoladesHighlight>very impressed with the results</span>.&quot<br></i><span class=AccoladesAttrib>-Andy Welch<br>Vice President<br>Daedalian Solutions</span>";
+	aAccolades[1] = "<p><i>&quotI am <span class=AccoladesHighlight>so impressed</span> that I would like to have your service as an integral part of all our marketing campaigns.&quot<br></i><span class=AccoladesAttrib>-Vice President of Marketing<br>Global Real Estate Company</span>";
+	aAccolades[2] = "<p><i>&quotI really appreciate your hard work on making our <span class=AccoladesHighlight>marketing campaign successful</span>.&quot<br></i><span class=AccoladesAttrib>-CEO<br>Leading Marketing Company</span>";
+	aAccolades[3] = "<p><i>&quotI am very pleased with the overall performance we've experienced with Eloqua to date, and am equally impressed with your handling of our account and <span class=AccoladesHighlight>give your team much of the credit for our recent successes</span>.&quot<br></i><span class=AccoladesAttrib>-Doug Pearson<br>SVP, Planalytics</span>";
+	aAccolades[4] = "<p><i>&quotAnother excellent example of using Eloqua to generate more business - <span class=AccoladesHighlight>2 of my 5 appointments tomorrow</span> are a result from following up on the Eloqua report.&quot<br></i><span class=AccoladesAttrib>-Claudine Verrier<br>Account Executive, Oakwood Corporate Housing</span>";
+
+
+
+
+function ChangeAccolades(){
+	if(intCurrentAccolade >= aAccolades.length){
+		intCurrentAccolade = 0;
+	}
+	if(document.all("TopAccolades")){
+		TopAccolades.innerHTML = "<center>" + aAccolades[intCurrentAccolade] + "</center>";
+	}
+	intCurrentAccolade++;
+	window.setTimeout("ChangeAccolades();", 4500);
+}
 
 
 // -->
 </script>
 
 
-<br><br><a href="../main.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';" style="border-top:solid 1px black;">Home</div></a><a href="../Company/company.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Company</div></a><a href="../News/releases.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">News</div></a><a href="../Products/Products.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Products</div></a><a href="../Solutions/Solutions.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Solutions</div></a><a href="../Services/Services.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Services</div></a><a href="../Customers/Customers.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Customers</div></a><a href="../Knowledge/Knowledge.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Knowledge</div></a><a href="../Alliances/Alliances.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Alliances</div></a>
-<img src="../images/side_images/building1.jpg">
+<br><br><a href="../main.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';" style="border-top:solid 1px black;">Home</div></a><a href="../Company/company.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Company</div></a><a href="../News/releases.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">News</div></a><a href="../Products/Products.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Products &amp; Solutions</div></a><a href="../Services/Services.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Services</div></a><a href="../Customers/Customers.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Customers</div></a><a href="../Knowledge/thought.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Knowledge</div></a><a href="../Alliances/Alliances.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">Alliances</div></a><a href="../Salesforce/Salesforce.asp"><div class="MenuHeader" onmouseover="this.className='MenuHeaderHighlight';" onmouseout="this.className='MenuHeader';">salesforce.com</div></a>
+<img src="../images/side_images/building2.jpg">
 		
 		</td>
 		
 		<td width="1" bgcolor="#000000"><img src="" "="" &="" strreltopurl="" "images="" blackspacer.gif""="" height="1" width="1"></td>
 		
-		<td width="420" valign="top">
+		<td valign="top">
 
       
 <!-- START BODY TABLE -->
 
-         <table border="0" cellpadding="0" cellspacing="0" width="420">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
 
                     <tbody><tr>
-                      <td width="100%" bgcolor="#cccccc"><font face="Arial" color="#000000" size="3"><b>
+                      <td width="100%" class="PageHeader"><b>
                       
    <!-- START PAGE TITLE -->
                       <br>
@@ -71,7 +95,7 @@ function initPage(){
                       
    <!-- END PAGE TITLE -->                      
                       
-                      </b></font></td>
+                      </b></td>
                     </tr>
                     <tr>
                       <td width="100%" bgcolor="#FFFFFF" valign="bottom">
@@ -81,9 +105,9 @@ function initPage(){
 
 <!-- START CONTENT  -->
                     <tr><td align="center">
-                    <table border="0" cellpadding="0" cellspacing="0" width="380">      
+                    <table border="0" cellpadding="0" cellspacing="0" width="94%">      
                     <tbody><tr>
-                      <td><font face="arial,helvetica" size="2">
+                      <td>
 
                       
                       
@@ -96,17 +120,17 @@ function initPage(){
 </p><p>Eloqua feels that if a visitor would like a private online experience then they are entitled to one. Eloqua's products have optional decline features, which allow a visitor to state upfront if they would like to be alone, or opt-out of any contact when requested by an agent. Privacy is very important to Eloqua. This privacy statement describes the conduct and practices of Eloqua Corporation as it applies to our clients and visitors.
    </p><ul>
     <li> 
-<font face="arial,helvetica" size="2">
+
 <a href="#cookies"> 
 
-Cookies</a>&nbsp; </font></li>
-    <li><font face="arial,helvetica" size="2">
+Cookies</a>&nbsp; </li>
+    <li>
 <a href="#info">
 Information Gathered  
     </a>
-      </font>                
+                      
    </li>
-   <li><font face="arial,helvetica" size="2">
+   <li>
                       
                       
    <a href="#usage">
@@ -114,10 +138,10 @@ Information Gathered
                       
    Usages of Info</a>
                       
-                        </font>
+                        
                       
    </li>
-   <li><font face="arial,helvetica" size="2">
+   <li>
                       
                       
    <a href="#privacy">
@@ -125,10 +149,10 @@ Information Gathered
                       
    Privacy</a>
                       
-                        </font>
+                        
                       
    </li>
-   <li><font face="arial,helvetica" size="2">
+   <li>
                       
     <a href="#optout">
                       
@@ -136,17 +160,17 @@ Information Gathered
    Web Monitoring Opt-Out</a>                  
    
                       
-                        </font>
+                        
                       
    </li>
-   <li><font face="arial,helvetica" size="2">
+   <li>
                       
                       
    <a href="#clients">
                       
                       
-   Clients</a></font></li><font face="arial,helvetica" size="2">
-   <li><font face="arial,helvetica" size="2">
+   Clients</a></li>
+   <li>
                       
    <a href="#reservation">
                       
@@ -154,10 +178,10 @@ Information Gathered
    Reservation of Rights</a>                   
    
                       
-                        </font>
+                        
                       
    </li>
-   </font></ul><font face="arial,helvetica" size="2">
+   </ul>
 
 <p><a name="cookies"></a><b>Cookies</b><br>
 Eloqua employs cookies in order for its server to recognize a return visitor as a unique user. Cookies are small text files placed in the 'Cookies' folder on a visitor's hard disk and allow for Eloqua to remember the visitor. The cookies placed by the Eloqua server are readable only by Eloqua, and cookies cannot access, read or modify any other data on a computer. All web-browsers offer the option to refuse any cookie, and if a visitor refuses the Eloqua cookie then Eloqua does not gather any information on that visitor. 
@@ -186,7 +210,7 @@ Eloqua allows each of its client sites to give visitors that require complete an
 <img border="0" src="../images/top.gif" name="top04" align="right" width="31" height="15"></a><br>
 
 </p><p><a name="optout"></a><b>Web Monitoring Opt-Out</b><br>
-Eloqua believes in permission-based marketing.  If you don't want to be invited into a chat session, or if you don't want to be included in our website metrics, you can simply opt-out.  <a href="optstatus.asp">Click here</a> to view your current opt-out status for the www.eloqua.com website.
+Eloqua believes in permission-based marketing.  If you don't want to be invited into a chat session, or if you don't want to be included in our website metrics, you can simply opt-out.  <a href="optstatus.asp">Click here</a> to view your current opt-out status.
 
      </p><p><a href="#top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top05','','../images/top_on.gif',1)">
 <img border="0" src="../images/top.gif" name="top05" align="right" width="31" height="15"></a><br>
@@ -200,15 +224,15 @@ Eloqua's products are developed for the use of, and distributed to, third party 
 </p><p><a name="reservation"></a><b>Reservation of Rights</b><br>
 Eloqua Corporation reserves the right to change this privacy statement at any time with 15 days notice being posted to the Eloqua web site. 
 
-</p></font><p><font face="arial,helvetica" size="2"><a href="#top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top07','','../images/top_on.gif',1)">
+</p><p><a href="#top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('top07','','../images/top_on.gif',1)">
 <img border="0" src="../images/top.gif" name="top07" align="right" width="31" height="15"></a><br>
 
                      
    <!-- STOP PLACING CONTENT HERE -->
                       <br><br>
-                        </font>
+                        
                       
-                      </p></font></td>
+                      </p></td>
                     </tr>
                   </tbody></table>
                   
@@ -226,11 +250,13 @@ Eloqua Corporation reserves the right to change this privacy statement at any ti
 
 <!-- need to add # prior to pushing to production!!! -->
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqInt.js"></script><iframe name="elqIntFra" style="visibility:hidden" src="/elqNow/elqIFJS.htm?pps=30&amp;siteID=33&amp;wstat=0&amp;ref=https://web.archive.org/web/20020605094442id_/http%3A//www.eloqua.com/privacy/privacy.asp" width="1" height="1" frameborder="0" border="0" noresize="" scrolling="no"></iframe><script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=33&amp;ref2=elqNone&amp;tzo=0&amp;ms=406" border="0" width="1" height="1"></layer><script type="text/javascript" language="JavaScript" src="/elqNow/elqIBnc.js"></script>
-<form name="campaignsubsform" action="http://now.eloqua.com/CampaignSubscriptions.asp" method="post" style="display:inline;">
-<input type="hidden" name="elqAct" value="subscribe">
-<input type="hidden" name="elqC" value="19">
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqInt.js"></script><iframe name="elqIntFra" style="visibility:hidden" src="/elqNow/elqIFJS.htm?pps=30&amp;siteID=33&amp;wstat=0&amp;ref=https://web.archive.org/web/20021225105154id_/http%3A//www.eloqua.com/privacy/privacy.asp" width="1" height="1" frameborder="0" border="0" noresize="" scrolling="no"></iframe><script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=33&amp;ref2=elqNone&amp;tzo=0&amp;ms=644" border="0" width="1" height="1"></layer><script type="text/javascript" language="JavaScript" src="/elqNow/elqIBnc.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://now.eloqua.com/visitor/v200/svrGP.asp?elqFormName=frmNewsletterSignup&amp;pps=17&amp;siteid=33"> </script>
+<form name="frmNewsletterSignup" action="http://now.eloqua.com/FormTrackingInput.asp" method="post" style="display:inline;">
+<input type="hidden" name="elqFormName" value="frmNewsletterSignup">
 <input type="hidden" name="elqSiteID" value="33">
+<input type="hidden" name="elqDefaultTargetURL" value="">
+<input type="hidden" name="elqPost" value="">
 <table style=" background-color:#990000" width="100%">
 <tbody><tr><th colspan="2"><font face="arial,helvetica" size="-1" color="white" style="font-size:10px;color:white">Monthly Web Sales Strategy Tips!</font></th></tr>
 <tr><td><font face="arial,helvetica" size="-1" color="white" style="font-size:10px;color:white;">Name</font></td>
@@ -240,10 +266,8 @@ Eloqua Corporation reserves the right to change this privacy statement at any ti
 </tr><tr><td colspan="2"><center><input type="submit" value="Sign Up!" style="font-size:10px"></center></td></tr>
 <tr><td colspan="2"><center><a href="../newsletter/newsletter.asp"><font size="-1" color="#cccccc" style="font-size:12px;">Why sign up?</font></a></center></td>
 </tr></tbody></table>
-<input type="hidden" name="TargetEmail" value="steven.woods@eloqua.com">
-<input type="hidden" name="Purpose" value="Newsletter signup">
-<input type="hidden" name="ReturnURL" value="http://www.eloqua.com/privacy/Privacy.asp?NewsletterThanks=True">
-</form><a href="http://now.eloqua.com/helprequest.asp?SiteID=33&amp;elqAlternateSequence=1" target="elqCtrlFra"><img border="0" src="http://now.eloqua.com/eloquaimage.asp?SiteID=33&amp;elqAlternateSequence=1"></a><br><br><br><img src="../images/side_images/laptop.jpg">
+<input type="hidden" name="ReturnURL" value="http://eloqua.com/privacy/Privacy.asp?NewsletterThanks=True">
+</form><a href="http://now.eloqua.com/helprequest.asp?SiteID=33&amp;elqAlternateSequence=1" target="elqCtrlFra"><img border="0" src="http://now.eloqua.com/eloquaimage.asp?SiteID=33&amp;elqAlternateSequence=1"></a><br><br><br><img src="../images/side_images/andrea_rim.jpg">
 
 
 </td>
@@ -254,10 +278,9 @@ Eloqua Corporation reserves the right to change this privacy statement at any ti
 <td width="1" bgcolor="#000000"><img src="" "="" &="" strreltopurl="" "images="" blackspacer.gif""="" height="1" width="1"></td>
 </tr>
 
-<tr><td colspan="7" bgcolor="#000000" width="800"><img src="" "="" &="" strreltopurl="" "images="" blackspacer.gif""="" height="1" width="1"></td></tr>
+<tr><td colspan="7" bgcolor="#000000"><img src="" "="" &="" strreltopurl="" "images="" blackspacer.gif""="" height="1" width="1"></td></tr>
 </tbody></table>
-<table cellpadding="0" cellspacing="0" width="800"><tbody><tr><td align="right"><font size="-1" color="#ffffff">| <a href="../contact/contact.asp">Contact</a> | <a href="../sitemap/sitemap.asp">Site Map</a> | <a href="../privacy/privacy.asp">Privacy</a> | <a href="../legal/legal.asp">Legal</a> |</font></td></tr></tbody></table>
-
+<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="right"><font size="-1" color="#ffffff">| <font size="-1" color="#990000">1-866-FAST-ROI</font> | <a href="../contact/contact.asp">Contact</a> | <a href="../sitemap/sitemap.asp">Site Map</a> | <a href="../privacy/privacy.asp">Privacy</a> | <a href="../legal/legal.asp">Legal</a> |</font></td></tr></tbody></table>
 
 
 
