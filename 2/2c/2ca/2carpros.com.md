@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204131606id_/http%3A//www.2carpros.com/kpages/2carpros-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603080625id_/http%3A//2carpros.com/kpages/2carpros-privacy.htm) for the most accurate reproduction.*
 
 # 2Carpros.com privacy policy
 
