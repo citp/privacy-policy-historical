@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203213512id_/http%3A//www.mediaplex.com/mplx_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630170154id_/http%3A//mediaplex.com/mplx_privacy.shtml) for the most accurate reproduction.*
 
 # Mediaplex - Privacy Policy
 
 Mediaplex Privacy Policy
 
-Last updated May 21, 2003
+Last updated January 15, 2004
 
 Contents
 
@@ -148,11 +148,11 @@ Mediaplex uses transaction log files to generate aggregated reporting data for C
 
 ## P3P Privacy Policy
 
-Mediaplex is in full compliance with the World Wide Web Consortium (W3C) Platform for Privacy Preferences (P3P) policies. For more information see [www.w3c.org/p3p](http://www.w3c.org/P3P).
+Mediaplex has implemented the Platform for Privacy Preferences (P3P) Project based on the specifications defined by the World Wide Web Consortium (W3C). The full XML Policy Reference file for Mediaplex website and Mediaplex products may be found at [www.mediaplex.com/w3c/p3p.xml](http://www.mediaplex.com/w3c/p3p.xml). For more information see  [www.w3c.org/p3p](http://www.w3c.org/P3P). 
 
 ## Mediaplex.com
 
-Separate from the functions of Mediaplex products, Mediaplex.com does not use cookies, and does not collect personally identifiable information.
+Mediaplex does not track visitors to mediaplex.com. Cookies are only written or modified if a visitor clicks the opt-in or opt-out buttons, or if an authorized user clicks the login links to Mediaplex products.
 
 As part of Mediaplex’s consumer privacy, we are involved with the following privacy groups: 
 
@@ -178,10 +178,12 @@ The European Union (EU) maintains strict privacy laws. These rules differ signif
 
 Internet Users with complaints not resolved by Mediaplex may file a complaint through the Better Business Bureau at [www.bbbonline.com](http://www.bbbonline.com/).
 
-Mediaplex reserves the right to modify this policy statement at any time without notice. Changes will be posted to this site.
+Mediaplex will address concerns related to this Privacy Policy and will work to correct problems. Mediaplex reserves the right to modify this policy statement at any time without notice. Changes will be posted to this site.
 
-For more information or concerns regarding this privacy statement, contact Mediaplex:
+Questions, concerns, comments, and complaints regarding this privacy statement can be addressed to:
 
 §         Email: [info@mediaplex.com](mailto:info@mediaplex.com)
 
 §         Mail: ValueClick, Attn: General Counsel, 4360 Park Terrace Drive, Suite 100 Westlake Village, CA 91361.
+
+Questions and complaints may also be addressed to the Network Advertising Initiative at [www.networkadvertising.org](http://www.networkadvertising.org/). For concerns about personal information recorded by cookies used by Mediaplex products contact TRUSTe at [www.truste.org](http://www.truste.org/).
