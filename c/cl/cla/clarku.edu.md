@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602091912id_/http%3A//www2.clarku.edu/newsite/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604052744id_/http%3A//www.clarku.edu/newsite/home/privacy.htm) for the most accurate reproduction.*
 
 # Clark University
 
