@@ -1,6 +1,26 @@
-> *The following text is extracted and transformed from the mio.co.za privacy policy that was archived on 2003-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031013075223id_/http%3A//www.mio.co.za/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mio.co.za privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607044724id_/http%3A//www.mio.co.za/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Privacy Policy**
+
+Thank you for viewing the information on these sites and for providing us with information about yourself. 
+
+To make sure that there are no misunderstandings which could lead to possible disputes about your online dealings with us, it is important that you read and understand the following disclaimer which covers all interactions and transactions on these sites. 
+
+**DISCLAIMER**
+
+  * The information appearing on these pages is made available without any representation or warranty whatsoever, whether express or implied, and no liability will attach to   MIO or Prefix Technologies  in this regard. 
+  * All information regarding the products and services, including information about their terms and conditions, and prices is subject to change without notice. You should check, by enquiry at  [pinfo@prefix.co.za](mailto:pinfo@prefix.co.za) or [info@mio.co.za](mailto:info@mio.co.za) that the prices quoted and information presented  on these pages are correct 
+  *  Neither MIO nor Prefix Technologies accepts liability for any loss, whether direct, indirect , consequential or any loss arising from information made available on these pages and actions or transactions resulting therefrom. 
+  *  MIO and Prefix Technologies’ Products and Services are only available in the Republic of South Africa unless specifically stated otherwise. 
+  * The laws of the Republic of South Africa will govern all terms and conditions, of any products and services, contained in these pages. If you apply for any products or services through our Internet sites, you also consent to the terms and conditions of such products and services and submit to the jurisdiction of the South African courts in regard to all proceedings, actions, applications or the like instituted by either party against the other, and in any way arising from any stated terms and conditions. 
+
+
+
+By registering your information with us and/or applying for any products and services offered on these Internet sites, you agree to this disclaimer. 
+
+**PRIVACY POLICY**
 
 MIO Entertainment, the owners of Music Industry Online ([www.mio.co.za](http://www.mio.co.za/)), is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from our users. Please read the following to understand our views and practices regarding personal information, and how they pertain to you as you use our various features and services. This statement discloses the current privacy practices for our Web site. If we make any substantive changes to this policy, we'll announce it on our sites. If you have any questions or concerns regarding this statement, you should contact us on [info@mio.co.za](mailto:info@mio.co.za)
 
@@ -59,9 +79,9 @@ If you register with MIO Entertainment or sign up for any our personalized servi
 
 **How Can You Edit the Information We Have About You?**  
 If you want to correct or change the information in your Forum Profile, or any other information we have about you, please go to  
-<http://www.mio.co.za/forums/profile.php?mode=editprofile>  
+<http://www.mio.co.za/forums/>  
 If you want to change your email address for our mailing lists, please click the link below. You will need to unsubscribe to all email with your old address, and then re-subscribe with your new one.  
-<http://www.pcmusic.co.za/subscribe>
+<http://www.mio.co.za/subscribe>
 
 **Changes to this Privacy Statement**
 
