@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126171017id_/http%3A//www.certainteed.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203011032id_/http%3A//www.certainteed.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # CertainTeed Corp.: Corporate Info: Privacy Statement
 
@@ -29,7 +29,7 @@ We believe parents should supervise their children's online activities and consi
 
 **CHANGES TO OUR POLICY**  
 The Company will notify you of changes to its user privacy and information usage practices by posting the changes on this page. Please check the revision date at the bottom of this Privacy Policy to determine if the policy has been modified since you last reviewed it. **CONDITIONS OF USE**  
-Your use of the Site, including any dispute concerning privacy, is subject to this Privacy Statement and the Company’s [Terms and Conditions of Use](https://web.archive.org/web/20020126171017id_/http%3A//www.certainteed.com/corporate/termsofuse.html) . By using this Site, you are accepting the practices set out in this Statement and those Terms.
+Your use of the Site, including any dispute concerning privacy, is subject to this Privacy Statement and the Company’s [Terms and Conditions of Use](https://web.archive.org/web/20021203011032id_/http%3A//www.certainteed.com/corporate/termsofuse.html) . By using this Site, you are accepting the practices set out in this Statement and those Terms.
 
 **REVISION DATE**  
 02/11/01
