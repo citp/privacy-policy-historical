@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindef.gov.sg privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205012920id_/http%3A//mindef.gov.sg/index.asp%3Fcat%3Dprivacypol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindef.gov.sg privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609172403id_/http%3A//mindef.gov.sg/index.asp%3Fcat%3Dprivacypol) for the most accurate reproduction.*
 
 # iMINDEF
 
