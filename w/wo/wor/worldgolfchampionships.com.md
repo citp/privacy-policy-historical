@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the worldgolfchampionships.com privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802110619id_/http%3A//www.pgatour.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgolfchampionships.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603155156id_/http%3A//www.pgatour.com/info/privacy) for the most accurate reproduction.*
 
-# GolfWeb@PGATOUR.COM Privacy Statement
+# PGATOUR.COM - Privacy Statement for SportsLine.com
 
+  |  |  Privacy Statement for SportsLine.com |   |   
+---|---|---  
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of SportsLine.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for SportsLine.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites (including those to which the Website links and third party sites or services with which SportsLine.com) may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to [privacy@sportsline.com](mailto:privacy@sportsline.com). 
 
 ## 1\. Information SportsLine.com gathers and tracks:
@@ -80,20 +82,4 @@ Attn: Privacy Statement
 2200 W. Cypress Creek Road  
 Fort Lauderdale, Florida 33309**
 
-|   |  [Play the Charity Challenge](http://golf.fantasy.pgatour.com/splash/golf/pgatour/challenge) [DiMarco heads pack in rain-delayed Buick Open](http://www.pgatour.com/u/ce/multi/0,1977,6513268,00.html) [Fleisher ties tournament record at FleetBoston Classic](http://www.pgatour.com/u/ce/multi/0,1977,6513132,00.html) [Biershenk takes sole possession of the lead in Chattanooga](http://www.pgatour.com/u/ce/multi/0,1977,6513300,00.html) [More news](https://web.archive.org/news/index.html) [Get shot-by-shot info on your favorite players with TOURCast](http://www.pgatour.com/tourcast/totourcast.html)
-
-[Play TOUR Fantasy today](http://www.pgatour.com/fantasy/index.html)
-
-[Play the Charity Challenge](http://golf.fantasy.pgatour.com/splash/golf/pgatour/challenge)
-
-[Giving back is at the heart of the PGA TOUR](http://www.pgatour.com/charity/index.html)
-
-[Read The Daily Dozen](https://web.archive.org/partner/wtw/index.html)
-
-[TOUR Academy](https://web.archive.org/practicetee/touracademy/)
-
-[Pro Tips](https://web.archive.org/practicetee/protips/index.html)
-
-[Equipment news](https://web.archive.org/practicetee/equipment/index.html)
-
-[Travel](https://web.archive.org/travel/index.html)
+  |  |   |  [](http://www.ibm.com/) [](http://www.pgatour.com/tournaments/info/r)
