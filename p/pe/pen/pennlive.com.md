@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614142924id_/http%3A//pennlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230090213id_/http%3A//pennlive.com/privacypolicy) for the most accurate reproduction.*
 
 # PennLive.com: Privacy Policy
 
@@ -63,7 +63,7 @@ Privacy Policy Coordinator
 Harrisburg, PA 17110 
 
 |  |    
-[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1338368108/SponsorRight/default/empty.gif/64316564656562353430636462363430)   
+[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1176171859/SponsorRight/default/empty.gif/64316564656562353431643363343030)   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
 » [Media Kit](https://web.archive.org/mediakit/)  
@@ -72,8 +72,8 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1576356395/Sponsor1/default/empty.gif/64316564656562353430636462363430)   
-[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/159304328/Tile1/PENNLIVE/AV_INTERCO_PN04/neworleans_ad_supertile31.gif/64316564656562353430636462363430)   
+[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1498351966/Sponsor1/default/empty.gif/64316564656562353431643363343030)   
+[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1790901849/Tile1/PENNLIVE/GAUGHEN05PN01/jgr_october03_SMTI.gif/64316564656562353431643363343030)   
   
   
 
