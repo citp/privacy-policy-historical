@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscrawl.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206065400id_/http%3A//gocrawl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscrawl.com privacy policy that was archived on 2001-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010401031020id_/http%3A//gocrawl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for GoCrawl Directory
 
