@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the lelong.com.my privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211045800id_/http%3A//lelong.com.my/Auc/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lelong.com.my privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101172523id_/http%3A//lelong.com.my/Auc/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
 
-# 
+# Lelong Internet Auction and Trading Community
 
 **_Interbase Resources Privacy Policy Statement_**
 
 This is the website of lelong.com.my, a personal auction service provided by Interbase Resources Sdn.Bhd. (IRSB). Our postal and office address is 
 
-> > 2nd Floor, Bangunan Teo Chew Seng, Jalan SS 22/21,   
->  47400 Petaling Jaya  
->  Selangor Darul Ehsan, Malaysia
+> > 1-2, 1st Floor, Jalan SS23/15, Taman SEA   
+> 47400 Petaling Jaya  
+> Selangor Darul Ehsan, Malaysia
 >> 
->> Tel : 603-777222820 Fax : 603-460 8287
+>> Tel : 603-7880 2823 Fax : 603-7880 1823
 >> 
 >> E-mail : [support@lelong.com.my](mailto:support@lelong.com.my)
 
