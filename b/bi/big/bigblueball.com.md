@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204429id_/http%3A//www.bigblueball.com/forums/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605183829id_/http%3A//www.bigblueball.com/forums/policy.asp) for the most accurate reproduction.*
 
 # Instant Messaging & Chat - BigBlueBall.com
 
@@ -16,10 +16,6 @@ These forums give users two options for changing and modifying information that 
 
 
 Cookies must be turned on in your browser to participate as a user in these forums. Cookies are used here to hold your username and password and viewing options, allowing you to login.
-
-**Third-Party Privacy**
-
-This web site receives advertising from the ValueClick network. For more information on what data is collected from Internet consumers through ValueClick ads please see their privacy policy statement at [http://www.valueclick.com](http://www.valueclick.com/).
 
 By pressing the "Agree" button that you, the user, are 13 years of age or over. You are fully responsible for any information or file supplied by this user. You also agree that you will not post any copyrighted material that is not owned by yourself or the owners of these forums. In your use of these forums, you agree that you will not post any information which is vulgar, harassing, hateful, threatening, invading of others privacy, sexually oriented, or violates any laws.
 
