@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiche.org privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014140513id_/http%3A//www.aiche.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiche.org privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607013730id_/http%3A//aiche.org/about/privacy.htm) for the most accurate reproduction.*
 
 # AIChEWeb Privacy Statement - AIChE
 
@@ -98,7 +98,7 @@ If you post messages in our Meeting Development Area or other online discussion 
 ####   
 Secure server
 
-When you are performing transactions on the AIChEWeb, you are utilizing our secure storefront server, which encrypts all of your personal information, including name, address, and credit card number. Encryption ensures that no one can access or use your personal information. Our 128 bit encryption is implemented on SSL 3.0 with a certificate from Verisign, Inc., the same used by banks and brokerage houses. Click on the icon below for verification.
+When you are performing transactions on the AIChEWeb, you are utilizing our secure storefront server, which encrypts all of your personal information, including name, address, and credit card number. Encryption ensures that no one can access or use your personal information while in transit. Our 128 bit encryption is implemented on SSL 3.0 with a certificate from VeriSign, Inc., the same used by banks and brokerage houses. Click on the icon below for verification. No credit card numbers are stored within AIChE's Web servers.
 
 **Please note:** the Macintosh version of Internet Explorer does not support this functionality. 
 
