@@ -1,70 +1,84 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2002-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020219151739id_/http%3A//lockergnome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206035901id_/http%3A//www.lockergnome.com/privacy.html) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Statement
 
+[](http://www.lockergnome.com/)
+
   
+ [Get Our Help Files](http://www.gnometomes.com/)  
+ [New PC Tips Book](http://www.booklocker.com/books/918.html)  
+
+
  [Latest Windows Daily](http://windowsdaily.lockergnome.com/)  
+ [Latest Digital Media](http://digitalmedia.lockergnome.com/)  
  [Latest Tech Specialist](http://techspecialist.lockergnome.com/)  
  [Latest Penguin Shell](http://penguinshell.lockergnome.com/)  
- [Latest Digital Media](http://digitalmedia.lockergnome.com/)  
+ [Latest Apple Core](http://applecore.lockergnome.com/)  
+ [Latest Web Weekly](http://webmasterweekly.lockergnome.com/)  
  [Latest Bits & Bytes](http://updates.lockergnome.com/)  
- [Latest Audio Show](http://www.gnomeradio.com/)
+ [Latest Downloads](http://www.gnomedownloads.com/)  
+ [Latest Forum Posts](http://help.lockergnome.com/)  
 
- [Recommend Us!](https://web.archive.org/recommend.html)  
- [IT Job Search](https://web.archive.org/jobs.html)  
- [Chat With Gnomies](https://web.archive.org/chat.html)  
- [Get Chris's Book](http://lockergnome.pricegrabber.com/search_getprod.php/isbn=0966103254/)  
- [Our Privacy Policy](https://web.archive.org/privacy.html)  
- [Watch The Webcams](https://web.archive.org/webcam.html)  
- Icon Extravaganza  
- [GnomeSHOPPER](http://lockergnome.pricegrabber.com/)
 
- [Advertising Info](https://web.archive.org/advertise/)  
- [Visit Our Forums](news://news.lockergnome.com/)  
- [View More Options](https://web.archive.org/options.html)  
- [Read Past Issues](https://web.archive.org/issues/)  
- [Submit a Link](https://web.archive.org/submit.html)  
- [Lockergnome MP3s](http://artists.mp3s.com/artists/188/lockergnome.html)  
- [About Lockergnome](https://web.archive.org/about.html)  
+ [Suggest a Feature](http://www.lockergnome.com/submit.php)  
+ [Advertise With Us](http://www.lockergnome.com/advertise.html)  
+ [High-Tech Job Search](http://seeker.dice.com/seeker.epl?rel_code=14)  
+ [Chat With Gnomies](http://www.lockergnome.com/chat.html)  
+ [Watch The Webcams](http://www.lockergnome.com/webcam.html)  
+ [Recommend Us!](http://www.lockergnome.com/recommend.html)  
+ [Read Past Issues](http://www.lockergnome.com/issues/)  
+ [About Lockergnome](http://www.lockergnome.com/about.html)  
+ [View More Options](http://www.lockergnome.com/options.html)  
+
+
+ [Link To Lockergnome](http://www.lockergnome.com/code.zip)  
+ [Our Privacy Policy](http://www.lockergnome.com/privacy.html)  
+ [Download X-Setup](http://www.xteq.com/)  
+ [Our XML / RSS Feed](http://www.lockergnome.com/lockergnome.xml)  
+ [Syndicate Our Tips](http://www.lockergnome.com/options.html#syndicate)  
+
+
+ [Ask a Question](http://help.lockergnome.com/)  
+ [Low Price Finder](http://lockergnome.pricegrabber.com/)  
+ [CPU Magazine](https://www.sandhills.com/secure/smartcomputing/cpufreetrial3.asp?source=cp491bonus)  
+ [Gnomies.com ISP](http://www.gnomies.com/)  
+ [The GnomeSTORE](http://store.lockergnome.com/)  
+ [Get Our Help Files](http://www.gnometomes.com/)  
+ [New PC Tips Book](http://www.booklocker.com/books/918.html)  
+
+
+ [General Feedback](mailto:feedback@lockergnome.com?subject=Lockergnome%20Web%20Site%20Feedback)  
  
 
- [Questions / Help](mailto:help@lockergnome.com?subject=Lockergnome%20Site%20Help)  
- [Submit Suggestions](mailto:suggest@lockergnome.com?subject=Lockergnome%20Site%20Suggestion)  
- [Rants & Raves](mailto:rantrave@lockergnome.com?subject=Lockergnome%20Site%20Rant%20/%20Rave)  
- [General Feedback](mailto:feedback@lockergnome.com?subject=Lockergnome%20Site%20Feedback)  
+  
 
 
   
+ [Protect Your Passwords](http://shop.usahero.com/ "Password Manager: Store. Encrypt. Protect.")  
+ [Easy Slide Show Maker](http://www.programmingart.com/products/slideshow/?lockergnome "Easy Slide Show Creator - Create digital slide shows with music, sounds, captions, and more! Send through email or on CD-ROM.")  
+ [zip.XL](http://www.whirlingdervishes.com/zipxl/gnomies.php "Zip files finally made easy. Click to get 20% off.")  
+ [Outpost Firewall Pro](http://www.e-macone.com/Outpost.asp "Outpost Personal Firewall - an incredibly powerful, yet easy to use, software tool to protect you, your family, or your business from internet threats.")  
+ [Pretty Good MahJongg](http://www.goodmj.com/lockergnome.html "Play the classic MahJongg tile matching game and original solitaire games with MahJongg tiles!")  
+ [Book Collector](http://www.collectorz.com/book?from=lockergnome "Software for organizing your personal book collection.
+Add books quickly - no typing required! Group, filter, sort and print your book list. Click for free trial version.")  
+ [Manage Your Workgroup](http://outlook.4team.biz/?fr=gnome "Share your team/project contacts, calendars, tasks, etc. in MS Oulook 2002, without a server!")  
+ [Form Pilot](http://www.colorpilot.com/typewriter.html "Software for filling in paper forms on your computer instead of a typewriter")  
  [FirstStop WebSearch](http://www.firststopwebsearch.com/lockergnomeoffer.html "FirstStop WebSearch\(TM\) Deluxe Edition, a FREE trial version of this incredibly fast, award winning, customizable multi-search engine that has been described as the FASTEST no-nonsense meta search for the net. Now, Gnomies can save 50% when they register a copy of FirstStop WebSearch!")  
- [Ecobuilder](http://www.ecobuilder.com/lockergnome.cfm "Ecobuilder is the ultimate web application that allows you to get your portal, online community, intranet, extranet or any web site project online by saving time, money and manpower. Gnomies receive $400 off the cost of the software.")  
- [Visualize Color Combos](http://www.colorcombo.com/ "Choosing color combinations for the web is a careful balance between a
-scheme designed to draw attention; while being respectful of established color-harmony principles.  ColorCombo's four panels scroll, allowing side-by-side color comparisons.  Also text on background checker, 4096 color array, + more. FREE.")  
- [Tag&Rename](http://www.softpointer.com/tr_2.htm " Organize all your mp3 collection in seconds! You can rename mp3s quickly and easily, write tag information in batch, from file names or import it from cddb. Get your free trial now!")  
- [Financial Advisor](http://www.othersoft.co.za/fa-gnomies.htm "Take control of your personal finances with this easy to use program. Features include: mortgages, retirement, home budgeting, investments, annuities and many more financial tools and calculators. 25% Discount for Gnomies")  
- [Back-Office Solutions](http://www.adams-blake.com/item.asp?recordid=sohomain&default=soho "SOHO Order Entry - QuickBooks is a pain. SOHO-123 is a breeze. Finally
-an easy-to-use order-entry, invoice, and customer management program for ")  
- [MP3 Collector](http://www.collectorz.com/mp3?from=lockergnome "Software for organizing your personal MP3 collection. Group, filter, sort and print your database. Edit ID3 tags, rename files and manage playlists. Click for free trial version.")  
- [500+ PC Tips](http://www.nerdybooks.com/books/lockergnome/lockergnome.html "40% Lockergnome discounts on Nerdy Books Just the Tips, Man series for Office and Windows software! Over 500 time-saving tips, tricks and shortcuts in each book! And, one of the coolest newsletters around. \(Even Chris likes it!\) Impress your friends, your boss, even your kids. Get fast...Fast!")  
- [EbooksWriter LITE](http://www.ebookswriter.com/lg.html "Get the EBooksWriter LITE personalized for Lockergnome! The best ebook
-software available, for free! Not just a compiler, a nice all-in-one tool.")  
- [Pretty Good Solitaire](http://www.goodsol.com/lockergnome.html "You will enjoy countless hours of fun with Pretty Good Solitaire!  Play 370 solitaire card games, from classic games like Klondike, FreeCell, and Spider, to original games found nowhere else.  Enjoy lush graphics, large easy-to-read cards, statistics, and quests, a unique new way to play for points.")  
- [Web Tools You Need](http://www.sausagetools.com/lockergnome/index.html "Gnomies get a special rate on the HotDog Web Editing Family.")  
- More Specials...  
+ [Tag&Rename](http://www.softpointer.com/tr_2.htm "Organize all your mp3 collection in seconds! You can rename mp3s quickly and easily, write tag information in batch, from file names or import it from cddb. Get your free trial now!")  
+ [Boomer - Stream Now](http://www.gfx2swf.com/gnome-special/ "Convert MP3, WAV, AVI, JPG, GIF, and PNG to the SWF format for no buffer streaming")  
 
 
 [**Get Listed Here**](http://www.lockergnome.com/special.html)
 
 Question: which group is 250,000+ strong and always looking for stuff to make their personal and professional lives run smoother? 
 
-Search Past Issues:  
-  
+**CAREER SERVICES FROM LOCKERGNOME AND DICE.COM**  
+We teamed up with [Dice.com](http://seeker.dice.com/jobsearch/jobsearch.epl?rel_code=14) to bring you a full service I.T. career enhancement solution. Whether you are looking for your [dream job](http://seeker.dice.com/jobsearch/jobsearch.epl?rel_code=14) or trying to [hire talented people](http://seeker.dice.com/jobsearch/jobsearch.epl?rel_code=14), the full-featured career resource center is the place to start. Find your [IT talent solution](http://seeker.dice.com/jobsearch/jobsearch.epl?rel_code=14) today! 
 
-
-**MAKE A CAREER CHANGE THAT COUNTS**  
-Are you ready to [be paid](http://www.lockergnome.com/jobs.html) what you are worth? Change your career - or get a better one! Your [dream job](http://www.lockergnome.com/jobs.html) could be a mouse click away. Visit our [job search](http://www.lockergnome.com/jobs.html) page for a position with a future. Find a [new career](http://www.lockergnome.com/jobs.html) today! 
+[](http://store.lockergnome.com/)
 
   
-©2002, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our [Terms of Service](http://www.lockergnome.com/terms.html). Our Web site is hosted by [DigitalDaze](http://www.digitaldaze.com/?lg). Our domains are registered through [DNS Central](http://www.dnscentral.com/). 
+©2002, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our [Terms of Service](http://www.lockergnome.com/terms.html). Our Web site is hosted by [DigitalDaze](http://www.digitaldaze.com/?lg). Domain registered at [DNS Central](http://www.dnscentral.com/?lg). Powered by [Lyris ListManager](http://www.lyris.com/). Chris's Internet service provided by [Sonic](https://sonic.sonic.net/web_signup/submit.cgi?referrer=pirillo). 
 
 | 
 
@@ -122,7 +136,7 @@ You will notice that you can 'Tell a friend about Lockergnome' on our site. Rest
   
 Family Room
 
-We make newsgroups available to our users at [news.lockergnome.com](news://news.lockergnome.com/). Please remember that any information disclosed in this area becomes public information; one should exercise caution when deciding to disclose personal information therein. Same goes for the [Lockergnome chat room](https://web.archive.org/chat.html) \-- and any other Lockergnome hosted forum. Be responsible for your own actions and words. Nobody else will. 
+We will soon make newsgroups available to our users. Please remember that any information disclosed in this area becomes public information; one should exercise caution when deciding to disclose personal information therein. Same goes for the [Lockergnome chat room](https://web.archive.org/chat.html) \-- and any other Lockergnome hosted forum. Be responsible for your own actions and words. Nobody else will. 
 
   
 E-mailing Us
@@ -145,3 +159,12 @@ If you have any questions about this privacy statement or the professional pract
 108 3rd Street, Suite 305A  
 Des Moines, IA 50309  
 1.888.472.0483 
+
+  
+
+
+ Get Our Computer Tips Book!
+
+This [compendium of Lockergnome tips](http://www.booklocker.com/books/918.html) represents just a small fraction of the information available from Lockergnome.com. Covering a range of topics, including Internet Explorer, the Windows User Interface, E-mail, Networking, Troubleshooting, and a variety of other subjects all geared toward making your computing experience both easier and more enjoyable, you'll find the [1000+ tips](http://www.booklocker.com/books/918.html) contained within these pages an invaluable resource in your personal learning process. 
+
+Some of the tips are more technical than others, but Chris Pirillo has a gift for making even the geekiest subject accessible to virtually [any user](http://www.booklocker.com/books/918.html). Pirillo already did the work to solve your computing problems, you just have to implement his solutions. This book is available in printed or electronic format, but if you'd rather browse our collection of e-books: 
