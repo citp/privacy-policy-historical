@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydq.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605074506id_/http%3A//www.paydq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydq.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213151353id_/http%3A//paydq.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
