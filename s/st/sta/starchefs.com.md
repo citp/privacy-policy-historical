@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214062800id_/http%3A//www.starchefs.com/SC_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starchefs.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603205759id_/http%3A//starchefs.com/SC_privacy.html) for the most accurate reproduction.*
 
 # Star Chefs : Jobs at StarChefs
 
-**PRIVACY STATEMENT for STARCHEFS.COM**   
+**  
+PRIVACY STATEMENT for STARCHEFS.COM**   
 
 
 * * *
+
+  
+
 
 StarChefs.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following is a StarChefs disclosure of our information gathering and dissemination practices. 
 
