@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801211057id_/http%3A//www.benefitnews.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603101412id_/http%3A//www.benefitnews.com/privacy.cfm) for the most accurate reproduction.*
 
-# - Benefitnews.com
+# Benefitnews.com - Information for HR and Benefit Directors and other Employee Benefit Plan Sponsors and Advisers
 
 **
 
@@ -72,7 +72,7 @@ Spam
 
 We don’t like it, we don’t support it, and we don’t engage in it. If you do not want to receive e-mail from us in the future, please let us know by contacting 
 
-[**Customer Service:**](mailto:imghelpdesk@tfn.com)
+[**Customer Service:**](mailto:imghelpdesk@thomsonmedia.com)
 
 **888/280-4820**
 
