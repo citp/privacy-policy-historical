@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612221117id_/http%3A//www.guitartricks.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2000-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001030004319id_/http%3A//guitartricks.com/privacy.shtml) for the most accurate reproduction.*
 
 # Guitar Tricks Privacy Policy
 
