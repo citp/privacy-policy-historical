@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selco.org privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605185648id_/http%3A//selco.org/selco/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selco.org privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205105400id_/http%3A//selco.org/selco/privacypolicy.asp) for the most accurate reproduction.*
 
 # SELCO Credit Union: Privacy Policy
 
@@ -21,10 +21,10 @@ SELCO Credit Union may place a "cookie" on the browser of a SELCO Credit Union v
 
 With most Internet browsers you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Refer to your browser instructions or help screen to learn more about these functions.
 
-We do not require you to have your cookies turned on when visiting our main web site area, however, you must have cookies turned on to enter Web Personal Branch, our online banking service. Cookies are a requirement for Web Personal Branch to function properly. 
+We do not require you to have your cookies turned on when visiting our main web site area, however, you must have cookies turned on to enter Online Banking, our online banking service. Cookies are a requirement for Online Banking to function properly. 
 
 **Information You Provide**  
-Personal information includes all of the personally-identifying information that you provide us voluntarily online. You may give us personal information when you apply for membership or for a loan, request an account or service, use online banking (Web Personal Branch or Bill Payer), or when you send us email.
+Personal information includes all of the personally-identifying information that you provide us voluntarily online. You may give us personal information when you apply for membership or for a loan, request an account or service, use online banking (Online Banking or Bill Payer), or when you send us email.
 
 Depending on the type of information received, the information is sent through the SELCO Credit Union system and is presented either to an authorized Financial Service Associate (FSA) or to authorized members of our Information Services Department. For example, any loan application information you supply goes directly to an FSA for processing into our database. Approvals are usually returned online. In this case only, our FSAs may contact you via phone or email to verify information for accuracy. 
 
@@ -38,7 +38,7 @@ We do not control the privacy policies of our business partners, advertisers, sp
 **Your Consent**  
 By using SELCO Credit Union's web site, you consent to the collection and use of nonpersonal information by SELCO Credit Union. If we decide to change our privacy policy, we will post those changes on this page, so you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
 
-If you have any questions that are not answered in this section, please fill out our [feedback form](https://web.archive.org/web/20000605185648id_/http%3A//selco.org/selco/feedback.asp).
+If you have any questions that are not answered in this section, please fill out our [feedback form](https://web.archive.org/web/20001205105400id_/http%3A//selco.org/selco/feedback.asp).
 
 **Tell Us What You Think**  
 SELCO Credit Union welcomes your questions and comments about privacy. Please send email to [Information Services](mailto:info@selco.org?Subject=Privacy%20Policy%20Feedback).
