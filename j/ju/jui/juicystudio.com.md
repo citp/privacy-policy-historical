@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the juicystudio.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404074613id_/http%3A//juicystudio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicystudio.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203225905id_/http%3A//juicystudio.com/privacy.asp) for the most accurate reproduction.*
 
 # Juicy Studio: Privacy Policy
 
-Juicy Studio has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site. 
+You are here: [Home](https://web.archive.org/index.asp) > **Privacy Policy**
 
-## Registration
-
-No information is collected to pass on to third-parties. Juicy Studio is in no way interested in the real identity of any of the members, and allows its members to use aliases rather than their real names. The only data we do require is an email address. 
+Juicy Studio has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site. No information whatsoever is passed on to third parties. 
 
 ## Email Address
 
-Email addresses are required so we can initially send you a password. You will also have an opportunity to receive Techmails, which will be sent to your email account. For this option, you must opt-in by selecting the "Receive Techmails" option in your profile. Once your account is set up, you may remove your email address from your profile if you wish. The email addresses are not published on any part of the site, and under no circumstances are the email addresses passed on to a third-party. Juicy Studio does not attempt to collect email addresses from visitors. 
+Email addresses are not required for any part of the site. The comment section provides a space for to provide an email address. This is optional, and will never be displayed on a page. If you enter your email address with a comment, visitors of this site may contact you through a form. The form has been provided to protect your email address from Spam harvesters. 
 
 ## IP Addresses
 
@@ -18,26 +16,21 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 ## Cookies
 
-Cookies are used to identify the last time a member of the board logged in. This enables us to display messages that have been added since you last logged on in bold. If you are not a member, we do not track times. Cookies are also used to allow you to change the background colours used throughout the site. 
-
-## Responsibility
-
-Ultimately, you are responsible for maintaining the secrecy of your personal details. Information disclosed on the message boards is public information. As such, members are requested not to divulge their personal information on any of the message boards. 
-
-The message boards are regularly checked by Moderators, but Juicy Studio is unable to vouch for the usefulness and validity of information posted on the board. The messages express the views of the author, and are not necessarily those of Juicy Studio. 
+The Internet is a stateless medium. It doesn't retain information, and so cookies are sometimes required to help retain information between the client and the server. Cookies are small, harmless text files, and only used on this site if you choose to be remembered on the comment section of articles, or customise the [news feeds](https://web.archive.org/news.asp). For the comment system, we only collect the information required to fill out the fields of the form for you if you wish to be remembered. If you don't wish to be remembered, no cookies will be set. For the news section, we use cookies to store your preferences of feeds. If you do not customise the feeds, no cookies will be set. 
 
 ## Links
 
 There are several links to other sites relative to the content of Juicy Studio. Juicy Studio is in no way responsible for the privacy practices of these external links. 
 
-By using this Web site, you are agreeing that you will not post offensive messages, or violate any law. 
+By using this Web site, you are agreeing that you will not post offensive comments, or violate any law. 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [gez@juicystudio.com](mailto:gez@juicystudio.com?subject=Juicy%20Studio%20Privacy). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact me](https://web.archive.org/web/20031203225905id_/http%3A//juicystudio.com/contact.asp?subject=Privacy%20Policy "Send feedback to Juicy Studio"). 
 
 Best regards, Gez 
 
-[](http://validator.w3.org/check/referer) . [](http://jigsaw.w3.org/css-validator/validator?uri=http://www.juicystudio.com/tutorial/studio.css) . [](http://www.w3.org/WAI/WCAG1AAA-Conformance "Explanation of Level Triple-A Conformance") . [ ](http://www.cast.org/bobby/ "Bobby's Home Page")
+[](http://validator.w3.org/check/referer) . [](http://jigsaw.w3.org/css-validator/validator?uri=http://www.juicystudio.com/extras/main.css) . [](http://www.w3.org/WAI/WCAG1AAA-Conformance "Explanation of Level Triple-A Conformance") . [](http://bobby.watchfire.com/bobby/html/en/index.jsp "Bobby's Home Page")
 
 Copyright © 2000-2003 Juicy Studio. All rights reserved. 
+  *[IP]: Internet Protocol
