@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2002-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020220105500id_/http%3A//www.trails.com/explore/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606034543id_/http%3A//www.trails.com/explore/privacy.asp%3Fmscssid%3DLGLHS7237BEF9PNSA5DXSE7PS1AAFP7A) for the most accurate reproduction.*
 
 # Trails.com
+
+|  Privacy Policy
 
 This Privacy Statement describes how Trails.com collects and uses information about you when you use the Trails.com web site ("Site"). 
 
