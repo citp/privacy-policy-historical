@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208093135id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605140337id_/http%3A//www0.bbc.co.uk/privacy) for the most accurate reproduction.*
 
 # BBC - Privacy Policy
 
@@ -17,9 +17,9 @@ The following statement explains our policy regarding the personal information w
 9\. How to see your cookie code
 
 **1. Statement of intent**   
-From time to time, you will be asked to submit personal information about yourself (eg name and email address etc) in order to receive or use services on our website. Such services include newsletters and competitions, live chats and message boards and personalised services such as "my BBC" and "Alert Email". 
+From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website. Such services include newsletters, competitions, "Alert Email",live chats, message boards and BBCi membership. 
 
-By entering your details in the fields requested, you enable BBCi and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. The BBC will act in accordance with current legislation and aim to meet current Internet best practice. 
+By entering your details in the fields requested, you enable the BBC and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. The BBC will act in accordance with current legislation and aim to meet current Internet best practice. 
 
 **2. Information on visitors**   
 During the course of any visit to BBCi, the pages you see, along with something called a cookie, are downloaded to your computer (see point 3 for more on this). Most, if not all, websites do this, because cookies allow the website publisher to do useful things like find out whether the computer (and probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit. 
@@ -37,13 +37,15 @@ Cookies themselves only record those areas of the site that have been visited by
 
 NB: Even if you haven't set your computer to reject cookies you can still browse our site anonymously until such time as you register for BBCi services. 
 
-**4. Submitting personal information**   
-When you supply any personal information to BBCi (eg for competitions, chats or the BBC's personalised services) we have legal obligations towards you in the way we deal with that data. We must collect the information fairly, that is, we must explain how we will use it (see the notices on particular webpages that let you know why we are requesting the information) and tell you if we want to pass the information on to anyone else. In general, any information you provide to the BBC will only be used within the BBC. It will never be supplied to anyone outside the BBC without first obtaining your consent, unless we are obliged by law to disclose it. We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or, in the case of a personalised service, such as "my BBC", you no longer wish to continue your registration as a personalised user. Where personal information is held for people who are not yet registered but have taken part in other BBCi services (eg competitions), that information will be held only as long as necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998. 
+**4. Use and storage of your personal information**   
+When you supply any personal information to BBCi (e.g. for competitions, BBCi Community services or BBCi membership) we have legal obligations towards you in the way we deal with that data. We must collect the information fairly, that is, we must explain how we will use it (see the notices on particular webpages that let you know why we are requesting the information) and tell you if we want to pass the information on to anyone else. In general, any information you provide to the BBC will only be used within the BBC and by its service providers. It will never be supplied to anyone outside the BBC without first obtaining your consent, unless we are obliged or permitted by law to disclose it. Also, if you post or send offensive or inappropriate content anywhere on or to BBCi and the BBC considers such behaviour to be serious and/or repeated, the BBC can use whatever information that is available to it about you to stop such behaviour. This may include informing relevant third parties such as your employer, school or e-mail provider about the content and your behaviour. 
+
+We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or, in the case of BBCi membership you no longer wish to continue your registration as a BBCi member. For safety reasons, however, the BBC may store messaging transcript data (including message content, member names, times and dates) arising from the use of BBCi Community services such as Connector for a period of six months. Where personal information is held for people who are not yet registered but have taken part in other BBCi services (eg competitions), that information will be held only as long as necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998. 
 
 If you are notified on a BBCi site that your information may be used to allow the BBC to contact you for "service administration purposes", this means that the BBC may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that the particular service has been suspended for maintenance. We will not contact you for promotional purposes, such as notifying you of improvements to the service or new services on BBCi unless you specifically agree to be contacted for such purposes at the time you submit your information on the site, or at a later time if you sign up specifically to receive such promotional information. 
 
 **5. Access to your personal information**   
-You have the right to request a copy of the personal information the BBC holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) Please address requests to the Data Protection Officer (email: dpa.officer@bbc.co.uk). 
+You have the right to request a copy of the personal information the BBC holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) Please address requests to the Data Protection Officer, BBC Regulatory Legal Department, Room 3637, White City, London W12 7TS (Email: dpa.officer@bbc.co.uk). 
 
 **6. Users 16 and under**   
 If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the BBC's website. Users without this consent are not allowed to provide us with personal information. 
@@ -56,6 +58,14 @@ On your Task Bar, click:
 2\. Preferences  
 3\. Click on Advanced  
 4\. Click on Cookies
+
+If you're using **Internet Explorer 6.0** :  
+1\. Choose Tools, then   
+2\. Internet Options  
+3\. Click the Privacy Tab  
+4\. Click on Custom Level  
+5\. Click on the 'Advanced' button   
+6\. Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate.
 
 If you're using **Internet Explorer 5.0 or 5.5** :  
 1\. Choose Tools, then  
@@ -81,7 +91,7 @@ On your Task Bar, click:
 4\. Set your options in the box that says Cookies.   
 [Top]
 
-**9. How do you know which of the sites you've visited use cookies?**
+**8. How do you know which of the sites you've visited use cookies?**
 
 If you're using **Netscape 6.0** :  
 On your Task Bar, click:  
@@ -91,7 +101,7 @@ On your Task Bar, click:
 4\. Click on Cookies   
 5\. Click the View Cookies button 
 
-If you're using **Internet Explorer 5.0** :  
+If you're using **Internet Explorer 5.0 or 6.0** :  
 1\. Choose Tools, then  
 2\. Internet Options  
 3\. Click the General tab   
@@ -116,7 +126,7 @@ On your Task Bar, click:
 **Netscape Communicator 4.0** :  
 Netscape bundles all cookies into one file on your hard drive. You'll need to find the file, which it calls Cookie.txt on Windows machines. [Top]
 
-**10. How to see your cookie code**  
+**9. How to see your cookie code**  
 Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. [Top]
 
 British Broadcasting Corporation © 2001-2002  
