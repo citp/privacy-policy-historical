@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201191600id_/http%3A//www.skiutah.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603154423id_/http%3A//www.skiutah.com/privacy.html) for the most accurate reproduction.*
 
 # Ski Utah - Your information source for skiing, snowboarding, lodging, and planning your vacation to ski Utah.
 
@@ -57,7 +57,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us . 
 
   1. You can send email to [ info@skiutah.com ](mailto:info@skiutah.com)
-  2. You can visit the following URL: [ www.skiutah.com/mlist.cgi ](https://web.archive.org/web/20001201191600id_/http%3A//www.skiutah.com/www.skiutah.com/mlist.cgi)
+  2. You can visit the following URL: [ www.skiutah.com/mlist.cgi ](https://web.archive.org/web/20010603154423id_/http%3A//www.skiutah.com/www.skiutah.com/mlist.cgi)
   3. You can send mail to the following postal address:  Ski Utah 150West 500South SLC, UT 84101 
   4. You can call the following telephone number: 1-801-534-1779 
 
@@ -68,7 +68,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 This site gives users the following options for changing and modifying information previously provided: 
 
   1. You can send email to [ info@skiutah.com ](mailto:info@skiutah.com)
-  2. You can visit the following URL: [ www.skiutah.com/mlist.cgi ](https://web.archive.org/web/20001201191600id_/http%3A//www.skiutah.com/www.skiutah.com/mlist.cgi)
+  2. You can visit the following URL: [ www.skiutah.com/mlist.cgi ](https://web.archive.org/web/20010603154423id_/http%3A//www.skiutah.com/www.skiutah.com/mlist.cgi)
   3. You can send mail to the following postal address:  Ski Utah 150West 500South SLC, UT 84101 
   4. You can call the following telephone number: 1-801-534-1779 
 
