@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the talksurgery.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603045106id_/http%3A//www.talksurgery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksurgery.com privacy policy that was archived on 2001-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010804030014id_/http%3A//www.talksurgery.com/privacy.html) for the most accurate reproduction.*
 
-# Plastic Surgery / Cosmetic Surgery - Privacy Policy
+# Plastic Surgery / Cosmetic Surgery - Welcome to talksurgery.com!
 
+|  |    
   
-  
-**Related documents:**  
+|   
+|  **Related documents:**  
 
 
-  * [**Terms of Use**](https://web.archive.org/web/20010603045106id_/http%3A//www.talksurgery.com/terms.html)
-  * [**Disclaimer**](https://web.archive.org/web/20010603045106id_/http%3A//www.talksurgery.com/disclaimer.html)
+  * [**Terms of Use**](https://web.archive.org/web/20010804030014id_/http%3A//www.talksurgery.com/terms.html)
+  * [**Disclaimer**](https://web.archive.org/web/20010804030014id_/http%3A//www.talksurgery.com/disclaimer.html)
 
 talksurgery pledges that will not sell or use your materials to anyone.
 
@@ -28,10 +29,8 @@ We use cookies to store and track your preferences to provide you with a more pe
 We may log IP addresses for the purposes of systems administration, or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Web site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular Web page in the Talksurgery.com Web site, our servers log your IP address.   
 
 
-  
-** [Home](https://web.archive.org/index.html)  |  [About Us](https://web.archive.org/about.html)  |  [FAQs](https://web.archive.org/help.html)  |  [Privacy Policy](https://web.archive.org/privacy.html)  |  [Feedback](mailto:info@talksurgery.com)**  
-|   
 |   
   
+---|---|---  
   
 
