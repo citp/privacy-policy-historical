@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410185847id_/http%3A//www.kellysearch.co.uk/infozone/resources/privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014009id_/http%3A//www.kellysearch.com/infozone/resources/privpolicy.asp) for the most accurate reproduction.*
 
-# Privacy policy
+# Kellysearch - Privacy policy
 
 Reed Business Information Limited ("RBI") collects and uses information from users of its websites and subscription services in the following ways. By using this website or service you consent to this collection and use of information.
 
@@ -8,7 +8,7 @@ Reed Business Information Limited ("RBI") collects and uses information from use
 We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve our website or online service.
 
 **Contact details**  
-Contact details provided by you (such as your name, job title, telephone and fax number and your e-mail and postal addresses) may be used occasionally to tell you about important changes to the service or website and its functionality. They may also be used by us and other businesses within RBI to provide you with information about their services and products. If you do not wish us to use this information in this way, please send an e-mail to: [kellys.mktg@reedinfo.co.uk](mailto:kellys.mktg@reedinfo.co.uk)
+Contact details provided by you (such as your name, job title, telephone and fax number and your e-mail and postal addresses) may be used occasionally to tell you about important changes to the service or website and its functionality. They may also be used by us and other businesses within RBI to provide you with information about their services and products. If you do not wish us to use this information in this way, please refer to the data protection page of our website at [www.reedbusiness.com/dataprotection](http://www.reedbusiness.com/dataprotection)
 
 **'Cookies'**  
 Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access our services or websites. We may use cookies to provide you with a convenient means of access, without needing your password. Also to protect the integrity of registered user names and passwords and to limit access to 'paid for' services. We will not disclose information obtained by the use of cookies to third parties.
@@ -22,11 +22,14 @@ Details of personnel provided to us in company entries will be published in our 
 **Statistical information**  
 Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
 
+**Banner advertisement serving**  
+Please refer to <http://www.adtech.info/privacy_en.php>
+
 **Changes to Privacy Policy**  
 Changes to this policy will be posted here.
 
 **To alter your details**  
-If your personal information changes you can alter the details we hold by sending an e-mail to: [kellys.mktg@reedinfo.co.uk](mailto:kellys.mktg@reedinfo.co.uk)
+If your personal information changes you can alter the details we hold by accessing the [My Kellysearch](http://my.kellysearch.com/mykellysearch/login.aspx) service
 
 **Your comments**  
 Please send any comments about this website or privacy policy to: [kellys.mktg@reedinfo.co.uk](mailto:kellys.mktg@reedinfo.co.uk)
