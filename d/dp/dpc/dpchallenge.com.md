@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpchallenge.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606160817id_/http%3A//www.dpchallenge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpchallenge.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204190612id_/http%3A//www.dpchallenge.com/privacy.php) for the most accurate reproduction.*
 
 # DPChallenge - A Digital Photography Contest
 
@@ -39,4 +39,4 @@ If you have any questions regarding this Privacy Statement, the practices of DPC
 Top ^   
 DPChallenge, and website content and design, Copyright © 2001-2004 Challenging Technologies, LLC.   
 All digital photo copyrights belong to the photographers and may not be used without permission.   
-Proudly hosted by [Sargasso Networks](http://www.sargasso.net/). Current Server Time: 06/06/2004 12:08 PM EDT. 
+Proudly hosted by [Sargasso Networks](http://www.sargasso.net/). Current Server Time: 12/04/2004 02:06 PM EST. 
