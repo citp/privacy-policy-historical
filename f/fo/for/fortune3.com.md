@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortune3.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212083059id_/http%3A//www.fortune3.com/en/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortune3.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403210354id_/http%3A//www.fortune3.com/en/privacy.shtml) for the most accurate reproduction.*
 
 # Fortune3: Ecommerce Solutions, Shopping Cart software & E-Commerce software - Privacy
 
@@ -29,7 +29,7 @@ Information on general usage and any optional personal details you provide to us
 
 ·         We may collect information from customers and visitors to our User's Web sites. This information allows us to process orders from customers by collecting their First Name, Last Name, eMail, Password, Credit Card Number, Expiration Date, Billing Address and Shipping Address. Other information such as Date, Time and IP address is also collected to provide our Users with statistics about their Web sites. Other information that we collect is: 
 
-·         Your browser offers so-called "cookies" which \-- if you allow their use -- store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. Cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us the requested additional information. Cookies are required for Users for authentication purposes when using the FORTUNE3 Wizard and Genie. 
+·         Your browser offers so-called "cookies" which -- if you allow their use -- store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. Cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us the requested additional information. Cookies are required for Users for authentication purposes when using the FORTUNE3 Wizard and Genie. 
 
 ·         Users participating in FORTUNE3”s Banner Exchange program display banner ads on their Web sites from other FORTUNE3 Users and from outside companies. These ads may contain cookies. You may have a cookie placed on your browser by Double Click, which is the media company that serves our ads. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers and we do not have access to this information. Cookies in and of themselves do not contain any personally identifiable information about you.   
 
