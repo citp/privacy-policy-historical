@@ -1,536 +1,637 @@
-<!--The following is the downloaded HTML source of the fanball.com privacy policy that was archived on 2003-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030402142635id_/http%3A//www.fanball.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fanball.com privacy policy that was archived on 2003-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204201107id_/http%3A//www.fanball.com/support.cfm%3FdomTab%3D4) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>The Ultimate Fantasy Sports Site - Hotline</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	
+	<title>Fantasy Sports News, Games &amp; Leagues at Fanball.com</title>
+	<meta name="description" content="Fantasy sports news, games and leagues from Fanball.com">
+	<meta name="keywords" content="fantasy sports games leagues, fantasy contests, fantasy baseball, baseball, fantasy contests, contests, baseball news, scoreboard, scoreboards, boxscore,boxscores, stats, standings, statistics, mlb, player ranking, player profiles,  baseball chat, live chat, fantasy baseball chat, sports chat, fantasy sports chat, baseball guide">
 
-<meta http-equiv="Content-Style-Type" content="text/css">
-<meta name="Description" content="Fanball.com - The Ultimate Fantasy Sports Site"><meta name="KEYWORDS" content="fantasy sports, sports, fantasy baseball, baseball, fantasy contests, contests, baseball news, scoreboard, scoreboards, boxscore,boxscores, stats, standings, statistics, mlb, player ranking, player profiles, sports radio, baseball chat, live chat, fantasy baseball chat, sports chat, fantasy sports chat, baseball guide">
-
-<script language="javaScript">
-<!--//
-//pre loader
-newimage0 = new Image();
-newimage0.src = "http://images60.fanball.com/images/partners/sportsNetwork/bbMenuBG.gif";
-newimage1 = new Image();
-newimage1.src = "http://images60.fanball.com/images/partners/sportsNetwork/bbMenuBGBottom.gif";
-//-->
-</script>
+	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+	<meta name="fanball_design_version" content="fanball.3.0">
+	<meta name="author" content="fanball.com">
+	<meta name="copyright" content="Copyright ©2003 - Fanball Interactive LLC.">
+	<meta name="searchtitle" content="Welcome to Fanball.com | The Ultimate Fantasy Sports Site">
+	<meta http-equiv="content-language" content="en-us">
+	<meta http-equiv="imagestoolbar" content="false">
+	<meta name="robots" content="index, follow">
 
 <script language="JavaScript">
 if (document.images)
     self.name = 'mainwindow';
 </script>
 
-
 <script language="JavaScript"> 
-//function no_error()
-//{ return true; }
-//window.onerror=no_error;
+function no_error()
+{ return true; }
+window.onerror=no_error;
 </script>
 
 
 
-<script src="http://www.fanball.com/browserSniffer.js"></script>
+  
+  
+  
+  
 
 
-<script language="javascript">
-if (mac&& (ns6||ns7)){
-	document.write("<link rel='stylesheet' type='text/css' href='http://www.fanball.com/styles/mac.css'>");
-	document.write("");
-}
-else if (ns6||ns7){
-	document.write("<link rel='stylesheet' type='text/css' href='http://www.fanball.com/styles/ns.css'>");
-}
-else  {
-	document.write("<link rel='stylesheet' type='text/css' href='http://www.fanball.com/styles/win.css'>");
-}
-</script>
+  
 
 
-
-
-
-
-
-
- 
   <script language="javascript">
   <!--
-  	
-    var popURL='http://www.fanball.com/popUnder.html';
-    var popSize= 'width=336,height=280';
-    var freqCapHours=24;
-    var theDomain = '';
+    var popURL='http://www.fanball.com/popUnder.cfm';
+    var popSize= 'width=544,height=222';
+    var freqCapHours=8;
+    var theDomain = 'fanball.com';
     var d=document;
     var cookiesOn = 0;
-    supressPop = 0;
-    var dp=(theDomain.length>0 && d.domain.indexOf(theDomain)>0)?('domain=.'+theDomain+';'):'';
+    var supressPop = 0;
+    var dp=(theDomain.length>0 && d.domain.indexOf(theDomain)>0)?('domain=.'+theDomain+';'):'';  // sets the domain of the cookies
+    // set a cookie, then read it to make sure that cookies are enabled
     d.cookie='c1=cookiesOn;path=/;'+dp;
     if(d.cookie.indexOf('cookiesOn')>0) cookiesOn=1;
-    if(d.cookie.indexOf('supressPop')>0 && freqCapHours!=0) supressPop = 1;
+    
+  
+ 
+    if(d.cookie.indexOf('supressParlayPop')>0) supressPop = 1;
     if(cookiesOn && !supressPop) {
-    var expireTime=new Date();
-    expireTime.setTime(expireTime.getTime()+(freqCapHours*3600000));
-    d.cookie='c2=supressPop;path=/; expires='+expireTime.toGMTString()+';'+dp ;
-    var parts=',directories=0,location=0,menubar=0,scrollbars=0,status=0,top=50';
-    pop=window.open(popURL,'ADWINDOW', popSize + parts); window.focus();
+      // set the parlay cookie
+      var expireTime=new Date();
+      expireTime.setTime(expireTime.getTime()+(24*3600000)); // expires in 24 hours
+      d.cookie='PARLAYPOPUP=supressParlayPop;path=/; expires='+expireTime.toGMTString()+';'+dp ;
+      
+      // set the c2 cookie, so the other pop up doesn't happen until later
+      expireTime=new Date();
+      expireTime.setTime(expireTime.getTime()+(5*60000)); // in 5 mins
+      d.cookie='c2=supressPop;path=/; expires='+expireTime.toGMTString()+';'+dp ; 
+
+      // pop up the window
+      parlayWindow = window.open('/games/parlay/popup.cfm', 'ParlayWindow', 'toolbar=no,scrollbars=no,location=0,menubar=no,resizable=yes,status=no,width=340,height=575');
+      if (parlayWindow.focus) { parlayWindow.focus(); }
     }
-//-->
+    
+  
+  //-->
   </script>
 
-</head>
-
-
-<body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" link="#0066cc" vlink="#DD9900" background="/images/menu/fanball.gif">
+  
 
 
 
-	 <div style="position:absolute;left:290px;top:7px;z-index:2;width:468px;height:60px;border:1px solid white;padding:0px;">
-		<script language="JAVASCRIPT">
-		var browName = navigator.appName;
-		var browDateTime = (new Date()).getTime();
-		var browVersion = parseInt(navigator.appVersion);
-		var ua=navigator.userAgent.toLowerCase();
-		var adcode='';
-		if (browName=='Netscape'){
-     	if (browVersion>=5)
-          { document.write('<ifr'+'ame src="http://216.87.56.56/banman/banman.asp?ZoneID=8&Task=Get&Browser=NETSCAPE6&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
-     	else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
-          { document.write('<S'+'CRIPT src="http://216.87.56.56/banman/banman.asp?ZoneID=8&Task=Get&Browser=NETSCAPE4">');
-          document.write('</'+'scr'+'ipt>');
-          document.write(adcode); }
-     	else if (browVersion>=3)
-          { document.write('<A HREF="http://216.87.56.56/banman/banman.asp?ZoneID=8&Task=Click&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" target="_top"><IMG SRC="http://216.87.56.56/banman/banman.asp?ZoneID=8&Task=Get&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" width="468" height="60" border="0"></A>'); } }
-		if (browName=='Microsoft Internet Explorer')
-     	{ document.write('<ifr'+'ame src="http://216.87.56.56/banman/banman.asp?ZoneID=8&Task=Get&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
-		</script><iframe src="http://216.87.56.56/banman/banman.asp?ZoneID=8&amp;Task=Get&amp;Browser=NETSCAPE6&amp;X=1580430221641" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
-		<noscript>
-    			<a href="http://216.87.56.56/banman/banman.asp?ZoneID=8&Task=Click&Mode=HTML&PageID=44392" target="_top"><img src="http://216.87.56.56/banman/banman.asp?ZoneID=8&Task=Get&Mode=HTML&PageID=44392" width="468" height="60" border="0"></a>
-		</noscript>
+
+	<script language="JavaScript1.2">
+	<!--
+		var ns6=document.getElementById&&!document.all?1:0
+			
+		var story="display:''"
+		var folder=''
+			
+		function expandit(curobj){
+		folder=ns6?curobj.nextSibling.nextSibling.style:document.all[curobj.sourceIndex+1].style
+		if (folder.display=="none")
+		folder.display="block"
+		else
+		folder.display="none"
+		}
 		
-		</div>
-	
-
-		
-
-<div style="position:absolute;left:0px;top:px;z-index:1;width:765px;height:76px;"><img src="http://images60.fanball.com/images/masthead/fanball.gif" width="765" height="76" border="0" usemap="#m_home"></div>
+		//-->
+	</script>
 
 
-<map name="m_home">	<area shape="rect" coords="0,0,167,57" href="/index.cfm"></map>
-
-
-<div style="position:absolute;left:0px;top:76px;z-index:2;">
-<table width="765" cellspacing="0" cellpadding="0" style="border:2px ridge #778899;">
-	<tbody><tr>
-		<td align="center" bgcolor="#333333">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0" height="15">
-		
-				<tbody><tr align="center">
-					<td height="15" width="116" class="eyebrow" style="background-image: url('http://images60.fanball.com/images/masthead/nav/headbg-brown.gif');color:white;text-align:left;padding-right:2px;padding-left:2px;">Unregistered</td>
-					<td height="15" width="3" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><img src="http://images60.fanball.com/images/masthead/nav/divider-brown.gif" width="3" height="15"></td>
-					<td height="15" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><a href="/bb/index.cfm" class="eyebrow">Baseball</a></td>
-					<td height="15" width="3" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><img src="http://images60.fanball.com/images/masthead/nav/divider-silver.gif" width="3" height="15"></td>
-					<td height="15" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><a href="/fb/index.cfm" class="eyebrow">Football</a></td>
-					
-					<td height="15" width="3" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><img src="http://images60.fanball.com/images/masthead/nav/divider-silver.gif" width="3" height="15"></td>
-					<td height="15" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><a href="/gaming/index.cfm" class="eyebrow">Gaming</a></td>
-					<td height="15" width="3" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><img src="http://images60.fanball.com/images/masthead/nav/divider-silver.gif" width="3" height="15"></td>
-					<td height="15" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><a href="/ph/index.cfm" class="eyebrow">Pro Hoops</a></td>
-					<td height="15" width="3" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><img src="http://images60.fanball.com/images/masthead/nav/divider-silver.gif" width="3" height="15"></td>
-					<td height="15" background="http://images60.fanball.com/images/masthead/nav/headbg-silver.gif" class="grey10"><a href="/rac/index.cfm" class="eyebrow">Racing</a></td>
-					<td height="15" width="1"><img src="http://images60.fanball.com/images/spacer.gif" width="1" height="15"></td>
-				</tr>
-			</tbody></table></td>
-	</tr>
-</tbody></table>
- 
-
-
-<table width="765" cellspacing="0" cellpadding="0" border="0">
-  <tbody><tr>
-
-
-    <td width="124" valign="top">
-
-	<table width="124" border="0" cellspacing="0" cellpadding="0">
-         		<tbody><tr>
-     			<td width="124" style="background-image: url('/images/user/background-blank.gif');">
-     			
-					<table width="124" cellspacing="0" cellpadding="0" style="border-top:1px solid black;border-right:0px;border-bottom:1px solid black;border-left:0px;">
-						<tbody><tr>
-							<td style="padding-left:1px; padding-right:1px; padding-bottom: 2px;">
-						
-							<table style="margin-top:3px; margin-bottom:3px;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
-                            
-        						
-								<tbody><tr align="center">
-										<td><a href="/register.cfm"><img src="/images/user/register.gif" width="52" height="12" border="0"></a></td>
-										 <td><a href="/login.cfm"><img src="/images/user/logIn.gif" width="52" height="12" border="0"></a></td>
-								</tr>
-				    		
-			    		
-						</tbody></table>
-												
-					</td>
-				</tr>
-			</tbody></table>
- 		</td>
-     </tr>      
-    
- 
-          <tr>
-            <td align="center" bgcolor="black" valign="bottom" style="border-bottom:1px solid black;">
-				<script language="JAVASCRIPT">
-				var browName = navigator.appName;
-				var browDateTime = (new Date()).getTime();
-				var browVersion = parseInt(navigator.appVersion);
-				var ua=navigator.userAgent.toLowerCase();
-				var adcode='';
-				if (browName=='Netscape'){
-    			 if (browVersion>=5)
-          		{ document.write('<div style="width:120px;height:60px;border:1px solid white;z-index:5;"><ifr'+'ame src="http://216.87.56.56/banman/banman.asp?ZoneID=9&Task=Get&Browser=NETSCAPE6&X=' + browDateTime + '" width=120 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame></div>'); }
-     			else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
-          		{ document.write('<div style="width:120px;height:60px;border:1px solid white;z-index:5;"><S'+'CRIPT src="http://216.87.56.56/banman/banman.asp?ZoneID=9&Task=Get&Browser=NETSCAPE4">');
-          		document.write('</'+'scr'+'ipt></div>');
-          		document.write(adcode); }
-     			else if (browVersion>=3)
-          		{ document.write('<div style="width:120px;height:60px;border:1px solid white;z-index:5;"><A HREF="http://216.87.56.56/banman/banman.asp?ZoneID=9&Task=Click&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" target="_top"><IMG SRC="http://216.87.56.56/banman/banman.asp?ZoneID=9&Task=Get&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" width="120" height="60" border="0"></A></div>'); } }
-				if (browName=='Microsoft Internet Explorer')
-     			{ document.write('<div style="width:120px;height:60px;border:1px solid white;z-index:5;"><ifr'+'ame src="http://216.87.56.56/banman/banman.asp?ZoneID=9&Task=Get&X=' + browDateTime + '" width=120 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame></div>'); }
-				</script><div style="width:120px;height:60px;border:1px solid white;z-index:5;"><iframe src="http://216.87.56.56/banman/banman.asp?ZoneID=9&amp;Task=Get&amp;Browser=NETSCAPE6&amp;X=1580430221695" width="120" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe></div>
-				<noscript><div style="width:120px;height:60px;border:1px solid white;z-index:5;">
-    				<a href="http://216.87.56.56/banman/banman.asp?ZoneID=9&Task=Click&Mode=HTML&PageID=96001" target="_top">
-    				<img src="http://216.87.56.56/banman/banman.asp?ZoneID=9&Task=Get&Mode=HTML&PageID=96001" width="120" height="60" border="0"></a></div>
-					</noscript></td>
-          </tr>
 	
 
 
-      
-        </tbody></table>
 
+<script src="/js/ypSlideOutMenusC.js" type="text/javascript"></script>
 
-  <table width="124" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr valign="middle">
-      <td height="19" width="124" background="/images/menu/longDiv.gif" class="menu" alt="Divider">&nbsp;<a name=" " style="color:ffd700;">FANBALL</a></td>
-    </tr>
-    
-    
-    <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-      <td height="15" width="124" class="menu" style="border-top:2px ridge #999999;border-bottom:2px ridge #999999;padding-left:2px;"><a href="/index.cfm/SCT.1" onmouseover="status='Fanball Front Page';return true" onmouseout="status='';return true">Front Page</a></td>
-    </tr>
-       <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-     <td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:2px;"><a href="/features.cfm" onmouseover="status='Feature Articles';return true" onmouseout="status='';return true">Features</a></td>
+<script src="/js/menu/FANBALL.js" type="text/javascript"></script><style type="text/css">#menu1Container { visibility:hidden; left:0px; top:0px; overflow:hidden; }#menu1Container, #menu1Content { position:absolute; width:0px; height:0px; clip:rect(0 0 0 0); }</style><style type="text/css">#menu2Container { visibility:hidden; left:0px; top:0px; overflow:hidden; }#menu2Container, #menu2Content { position:absolute; width:0px; height:0px; clip:rect(0 0 0 0); }</style><style type="text/css">#menu3Container { visibility:hidden; left:0px; top:0px; overflow:hidden; }#menu3Container, #menu3Content { position:absolute; width:0px; height:0px; clip:rect(0 0 0 0); }</style><style type="text/css">#menu4Container { visibility:hidden; left:274px; top:120px; overflow:hidden; }#menu4Container, #menu4Content { position:absolute; width:180px; height:210px; clip:rect(0 180 210 0); }</style><style type="text/css">#menu5Container { visibility:hidden; left:364px; top:120px; overflow:hidden; }#menu5Container, #menu5Content { position:absolute; width:200px; height:310px; clip:rect(0 200 310 0); }</style><style type="text/css">#menu6Container { visibility:hidden; left:0px; top:0px; overflow:hidden; }#menu6Container, #menu6Content { position:absolute; width:0px; height:0px; clip:rect(0 0 0 0); }</style><style type="text/css">#menu7Container { visibility:hidden; left:0px; top:0px; overflow:hidden; }#menu7Container, #menu7Content { position:absolute; width:0px; height:0px; clip:rect(0 0 0 0); }</style><style type="text/css">#menu8Container { visibility:hidden; left:0px; top:0px; overflow:hidden; }#menu8Container, #menu8Content { position:absolute; width:0px; height:0px; clip:rect(0 0 0 0); }</style><style type="text/css">#menu9Container { visibility:hidden; left:0px; top:0px; overflow:hidden; }#menu9Container, #menu9Content { position:absolute; width:0px; height:0px; clip:rect(0 0 0 0); }</style><style type="text/css">#menu10Container { visibility:hidden; left:0px; top:0px; overflow:hidden; }#menu10Container, #menu10Content { position:absolute; width:0px; height:0px; clip:rect(0 0 0 0); }</style>
+
  
-  </tr></tbody></table>
 
+<link rel="stylesheet" type="text/css" href="/styles/fanball.css">
+<link rel="stylesheet" type="text/css" href="/styles/menus.css">
+ 		
+	
+<script language="javascript" type="text/javascript">
+	function domTab(i){
+	// Variables for customisation:
+	var numberOfTabs = 5;
+	var colourOfInactiveTab = "#DCDCDC";
+	var colourOfActiveTab = "#999999";
+	var colourOfInactiveLink = "#333333";
+	var colourOfActiveLink = "#ffffff";
+	// end variables
+	if (document.getElementById){
+		for (f=1;f<numberOfTabs+1;f++){
+			document.getElementById('contentblock'+f).style.display='none';
+			document.getElementById('link'+f).style.background=colourOfInactiveTab;
+			document.getElementById('link'+f).style.color=colourOfInactiveLink;
+		}
+		document.getElementById('contentblock'+i).style.display='block';
+		document.getElementById('link'+i).style.background=colourOfActiveTab;
+		document.getElementById('link'+i).style.color=colourOfActiveLink;
+	}
+}
+</script>
 
-<table width="124" border="0" cellspacing="0" cellpadding="0">
-
-
-	<tbody><tr valign="middle">
-		<td height="19" width="124" style="border-bottom:2px ridge #999999;padding-left:2px;" background="/images/menu/longDiv.gif" class="menu"><a name=" " style="color:ffd700;">Free Content</a></td>
-	</tr>
 	
 
 
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#800000'" onmouseout="this.style.backgroundColor=''">
-	<td width="124" height="15" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/bb/index.cfm" onmouseover="status='Professional Baseball Section';return true" onmouseout="status='';return true">Baseball</a></td>
-	</tr>
-
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#191970'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/fb/index.cfm" onmouseover="status='Professional Football Section';return true" onmouseout="status='';return true">Football</a></td>
-	</tr>
-
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#B8860B'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/gaming/index.cfm" onmouseover="status='Gaming';return true" onmouseout="status='';return true">Gaming</a></td>
-	</tr>
-
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#8B4513'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/ph/index.cfm" onmouseover="status='Professional Basketball Section';return true" onmouseout="status='';return true">Pro Hoops</a></td>
-	</tr>
-
-	<tr valign="MIDDLE" onmouseover="this.style.backgroundColor='#556B2F'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/rac/index.cfm" onmouseover="status='Nascar Racing Section';return true" onmouseout="status='';return true">Racing</a></td>
-	</tr>
 
 
 
 
 
-	<tr valign="middle">
-		<td height="19" width="124" style="border-bottom:2px ridge #999999;padding-left:2px;" background="/images/menu/longDiv.gif" class="menu"><a name=" " style="color:ffd700;">Premium Content</a></td>
-	</tr>
-	
 
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#800000'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/store.cfm/prod.bbdraftkit" onmouseover="status='Baseball Draft Kit';return true" onmouseout="status='';return true">Baseball Draft Kit</a></td>
-  </tr>
-	
+<script language="JAVASCRIPT" type="text/javascript">
 
-  
- 
+<!--
 
- 
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#B8860B'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/store.cfm/prod.insideEdge" onmouseover="status='Inside Edge 2003 Projection';return true" onmouseout="status='';return true">Inside Edge</a></td>
-  </tr>
 
-  
- 
-  
-   
-
-    
-
- 
- 
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#8B4513'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/ph/hotline.cfm" onmouseover="status='Pro Hoops Hotline';return true" onmouseout="status='';return true">Pro Hoops Hotline</a></td>
-  </tr>
-
-</tbody></table>
+function _CF_onError(form_object, input_object, object_value, error_message)
+    {
+	alert(error_message);
+       	return false;	
+    }
 
 
 
-<table width="124" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="middle">
-		<td height="19" width="124" valign="middle" background="/images/menu/longDiv.gif" class="menu" style="border-bottom:2px ridge #999999;padding-left:2px;"><a name=" " style="color:ffd700;">Games &amp; Leagues</a></td>
-	</tr>
+function _CF_hasValue(obj, obj_type)
+    {
+    if (obj_type == "TEXT" || obj_type == "PASSWORD")
+	{
+    	if (obj.value.length == 0) 
+      		return false;
+    	else 
+      		return true;
+    	}
+    else if (obj_type == "SELECT")
+	{
+        for (i=0; i < obj.length; i++)
+	    	{
+		if (obj.options[i].selected)
+			return true;
+		}
+
+       	return false;	
+	}
+    else if (obj_type == "SINGLE_VALUE_RADIO" || obj_type == "SINGLE_VALUE_CHECKBOX")
+	{
+
+		if (obj.checked)
+			return true;
+		else
+       		return false;	
+	}
+    else if (obj_type == "RADIO" || obj_type == "CHECKBOX")
+	{
+
+        for (i=0; i < obj.length; i++)
+	    	{
+		if (obj[i].checked)
+			return true;
+		}
+
+       	return false;	
+	}
+	}
 
 
+function  _CF_checkTheForm(_CF_this)
 
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/games/aots/">Ace Of The Staff</a></td>
-	</tr>	
+    {
 
- 
- 
+    if  (!_CF_hasValue(_CF_this.login, "TEXT" )) 
 
- 	
+        {
 
+        if  (!_CF_onError(_CF_this, _CF_this.login, _CF_this.login.value, "Please enter your email or user name."))
 
+            {
 
- 
- 
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="http://exit42.fanball.com/ff.x42" onmouseover="status='Exit 42';return true" onmouseout="status='';return true">Exit 42</a></td>
-	</tr>
-	
+            return false; 
 
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-		<td width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="http://fbc.fanball.com/commissioner.fbc" onmouseover="status='Football Commissioner';return true" onmouseout="status='';return true">Football<br> Commissioner</a></td>
-	</tr>
+            }
+
+        }
 
 
+    return true;
 
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/games/hrc/">Home Run Challenge</a></td>
-	</tr>	
-
+    }
 
 
+//-->
 
- 
+</script>
 
-	
+<script language="JavaScript1.2">
+<!--
+var ns6=document.getElementById&&!document.all?1:0
 
-	<tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-		<td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/gamegrid.cfm" onmouseover="status='View All Games';return true" onmouseout="status='';return true">+ View All Games + </a></td>
-	</tr>
-</tbody></table>
+var story="display:''"
+var folder=''
 
+function expandit(curobj){
+folder=ns6?curobj.nextSibling.nextSibling.style:document.all[curobj.sourceIndex+1].style
+if (folder.display=="none")
+folder.display="block"
+else
+folder.display="none"
+}
 
-
-<table width="124" border="0" cellspacing="0" cellpadding="0">
-
-
-<tbody><tr valign="middle">
-		<td height="19" width="124" valign="middle" background="/images/menu/longDiv.gif" class="menu" style="padding-left:2px;"><a name=" " style="color:ffd700;">General</a></td>
-	</tr>
-   <tr bgcolor="black">
-   <td width="124" height="1"> </td>
-  </tr>
-
-
-<tr valign="middle"><form></form>
-	<td align="center" width="124" style="border-top:2px ridge #999999;border-bottom:3px ridge #999999;">
-	
-	
-<div style="position:static;margin-top:0px;margin-right:0px;margin-bottom:1px;margin-left:0px;z-index:2;">
-		<select style="width:120px;" name="linkMenu" id="LinkMenu" onchange="window.location = this.options[this.selectedIndex].value">
-			<option selected="">Chat Rooms</option>
-			<option value="http://www.fanball.com/chat.cfm/sct.1">Lobby</option>
-			<option value="http://www.fanball.com/chat.cfm/sct.2">Baseball</option>
-			<option value="http://www.fanball.com/chat.cfm/sct.3">Football</option>
-			<option value="http://www.fanball.com/chat.cfm/sct.5">Pro Hoops</option>
-		</select>
-   </div></td>
-	</tr>
-
-  
-
-
-
-  <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-    <td height="12" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/rewards.cfm" onmouseover="status='Fanball  Auction Arena';return true" onmouseout="status='';return true">Auction Arena</a></td>
-  </tr>
-  
-  
-  <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-   <td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="http://forums.fanball.com/forum.bb" onmouseover="status='Forums';return true" onmouseout="status='';return true">Forums</a></td>
-  </tr>
-  
-  
-  <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-    <td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/store.cfm/prod.gc" onmouseover="status='Puchase or Redeem Gift Certificates';return true" onmouseout="status='';return true">Gift Certificates</a></td>
-  </tr>
-
-  
-
-  <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-    <td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/store.cfm" onmouseover="status='Fanball Store';return true" onmouseout="status='';return true">Store</a></td>
-  </tr>
-	
-
-
-   
-  
-	<tr valign="middle">
-		<td height="19" width="124" valign="middle" style="border-bottom:2px ridge #999999;padding-left:2px;" background="/images/menu/longDiv.gif" class="menu"><a name=" " style="color:ffd700;">Information</a></td>
-	</tr>
-
-
-  <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-     <td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/contact.cfm" onmouseover="status='How To Contact Us';return true" onmouseout="status='';return true">Contact Us</a></td>
-  </tr>
-   
-
-    <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-   <td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/faq.cfm" onmouseover="status='Help / Frequently Asked Questions';return true" onmouseout="status='';return true">Help / FAQ</a></td>
-  </tr>
- 
- 
- 	
-
-    <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-    <td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/privacy.cfm" onmouseover="status='Privacy Policy';return true" onmouseout="status='';return true">Privacy Policy</a></td>
-  </tr>
-
-
-  <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-     <td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/support.cfm" onmouseover="status='Contact Support For Additional Assistance';return true" onmouseout="status='';return true">Support</a></td>
-  </tr>
-  
-  
-    <tr valign="middle" onmouseover="this.style.backgroundColor='#000000'" onmouseout="this.style.backgroundColor=''">
-    <td height="15" width="124" class="menu" style="border-bottom:2px ridge #999999;padding-left:4px;"><a href="/agreement.cfm" onmouseover="status='User Agreement';return true" onmouseout="status='';return true">User Agreement</a></td>
-  </tr>
- 
-</tbody></table>
-
-
-<table width="124" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td height="4" align="right"><img src="http://images60.fanball.com/images/menu/menuDiv.gif" width="124" height="4"></td>
-	</tr>
-	<tr>
-		<td height="5"> </td>
-	</tr>
- 
-         
-    
-	<tr>
-		<td height="120" align="center" valign="top">
-				<script language="JAVASCRIPT">
-					var browName = navigator.appName;
-					var browDateTime = (new Date()).getTime();
-					var browVersion = parseInt(navigator.appVersion);
-					var ua=navigator.userAgent.toLowerCase();
-					var adcode='';
-					if (browName=='Netscape'){
-					 if (browVersion>=5)
-					 { document.write('<div style="width:120px;height:120px;border:1px solid white;z-index:5;"><ifr'+'ame src="http://216.87.56.56/banman/banman.asp?ZoneID=10&Task=Get&Browser=NETSCAPE6&X=' + browDateTime + '" width=120 height=120 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame></div>'); }
-					 else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
-					{ document.write('<div style="width:120px;height:120px;border:1px solid white;z-index:5;"><S'+'CRIPT src="http://216.87.56.56/banman/banman.asp?ZoneID=10&Task=Get&Browser=NETSCAPE4">');
-					document.write('</'+'scr'+'ipt></div>');
-					document.write(adcode); }
-					else if (browVersion>=3)
-					{ document.write('<div style="width:120px;height:120px;border:1px solid white;z-index:5;"><A HREF="http://216.87.56.56/banman/banman.asp?ZoneID=10&Task=Click&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" target="_top"><IMG SRC="http://216.87.56.56/banman/banman.asp?ZoneID=10&Task=Get&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" width="120" height="120" border="0"></A></div>'); } }
-					if (browName=='Microsoft Internet Explorer')
-					{ document.write('<div style="width:120px;height:120px;border:1px solid white;z-index:5;"><ifr'+'ame src="http://216.87.56.56/banman/banman.asp?ZoneID=10&Task=Get&X=' + browDateTime + '" width=120 height=120 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame></div>'); }
-					</script><div style="width:120px;height:120px;border:1px solid white;z-index:5;"><iframe src="http://216.87.56.56/banman/banman.asp?ZoneID=10&amp;Task=Get&amp;Browser=NETSCAPE6&amp;X=1580430221722" width="120" height="120" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe></div>
-					<noscript><div style="width:120px;height:120px;border:1px solid white;z-index:5;">
-					<a href="http://216.87.56.56/banman/banman.asp?ZoneID=10&Task=Click&Mode=HTML&PageID=96114" target="_top">
-					<img src="http://216.87.56.56/banman/banman.asp?ZoneID=10&Task=Get&Mode=HTML&PageID=96114" width="120" height="120" border="0"></a></div>
-					</noscript></td>
-	</tr>
- 	
-
-   
-  
-	<tr>
-		<td align="center"><hr width="90%"></td>
-	</tr>
-
-           
-	<tr>
-		<td valign="middle" align="center">
-            <span class="normal" style="color:white;"><b>We Recommend<br>
-            <a href="http://www.microsoft.com/windows/ie/downloads/ie6/download.asp"><img src="http://images60.fanball.com/images/IEwinButton.gif" border="0" width="120" height="29" style="margin-bottom:3px;"></a><br>
-            <a href="http://www.microsoft.com/mac/products/ie/ie_main.asp?embFName=get.asp&amp;contonly=1"><img src="http://images60.fanball.com/images/IEmacButton.gif" border="0" width="120" height="29" style="margin-bottom:3px;"></a><br>
-            or<br><a href="http://channels.netscape.com/ns/browsers/default.jsp"><img src="http://images60.fanball.com/images/nsButton.gif" border="0" width="120" height="40" style="margin-bottom:3px;"></a><br><br>
-            Some areas may also require:<br>
-            <a href="http://www.macromedia.com/shockwave/download/alternates/"><img src="http://images60.fanball.com/images/getFlashButton.gif" border="0" width="98" height="31" style="margin-top:3px;margin-bottom:3px;"></a><br>
-            <a href="http://www.adobe.com/products/acrobat/readstep2.html"><img src="http://images60.fanball.com/images/getAcrobat.gif" border="0" width="88" height="31" style="margin-bottom:6px;" ;=""></a></b></span></td>
- 	</tr>
-	<tr>
- 		<td align="center"><hr width="40%"></td>
-	</tr>
-
+//-->
+</script><script language="JavaScript">
+      function checkForm() {
+        var isOK = true;
         
-	<tr align="center">
-		<td width="124"><span class="notice"><b>© 2003<br>Fanball Interactive, LLC</b></span></td>
-	</tr>
-	<tr>
-				<td align="center"><hr width="90%"></td>
-				</tr>
-				<tr>
-					<td height="20">&nbsp;</td>
-				</tr>
-			</tbody></table>
-		</td>
+        isOK = checkPersonalInfo();
+        
+        
+        if (isOK)
+          isOK = checkQuestion();
+
+        return isOK;
+      }
+
+      function checkQuestion() {
+        if (document.supportForm.text.value == '') {
+          window.alert('Please enter your message.');
+          return false;
+        }
+        else
+          return true;
+      }
+
+      function checkSubcat() {
+        if (document.supportForm.subcategory.options(document.supportForm.subcategory.selectedIndex).value == 0) {
+          window.alert('Please select a subcategory.');
+          return false;
+        }
+        else
+          return true;
+      }
+
+      function checkPersonalInfo() {
+        if (document.supportForm.firstName.value == '') {
+          window.alert('Please enter a first name.');
+          return false;
+        }
+        else if (document.supportForm.lastName.value == '') {
+          window.alert('Please enter a last name.');
+          return false;
+        }
+        else if (document.supportForm.email.value == '') {
+          window.alert('Please enter an email address.');
+          return false;
+        }
+        else
+          return true;
+      }
+    </script></head>
+
+
+
+<body onload="init();window.defaultStatus='FANBALL » Support';">
+ 
+
       
 
-		<td valign="top" width="10" bgcolor="white"><img src="http://images60.fanball.com/images/spacer.gif" width="10" height="10"></td>
-		<td width="630" valign="top" style="padding-top:10px;"> 
+ 
+<!-- header //-->
+   <div id="contenthead">
+      <div class="logo">
+         <a href="http://www.fanball.com/index.cfm"><img src="http://cs1.fanball.com/images/utility/masthead/fanball_logo.gif" width="182" height="64" alt="" border="0" title="fanball | fantasy sports"></a>
+      </div>
+      <div class="topnav">
+ 	
+        
+	      <form name="TheForm" action="/support.cfm" method="POST" onsubmit="return _CF_checkTheForm(this)" enctype="multipart/form-data" style="margin:0px;">
+     <table align="right" cellpadding="0" cellspacing="0" border="0">
+      	<tbody><tr>
+  			<td style="color: #fff; vertical-align: middle;">
+  			&nbsp;</td>
+  			<td style="vertical-align: middle; text-align: right; width: 90px;"><input type="Text" name="login" onblur="if(this.value=='')this.value='Username';" onfocus="if(this.value=='Username')this.value='';" class="normal5" size="13" maxlength="128" value="Username"></td>
+  			<td style="vertical-align: middle; padding-left: 3px; padding-right: 3px;">
+  			
+  			
+  				<input type="password" name="pwd" onblur="if(this.value=='')this.value='Password';" onfocus="if(this.value=='Password')this.value='';" class="normal5" size="13" maxlength="20" value="Password">
+  			
+  			</td>
+  			<td style="vertical-align: middle;"><input type="image" src="http://cs1.fanball.com/images/utility/buttons/login.gif"></td></tr>
+		<tr>
+			<td colspan="4" class="login" align="right">Not Registered » <a href="http://www.fanball.com/register.cfm" class="login">Register Now</a>&nbsp;&nbsp;</td>
+		</tr>
+	</tbody></table>
+	   <input type="hidden" name="RefPage" value="/support.cfm">
+	</form>
+	   
+	   
+	 
+      </div>
+   </div>
+   
+   
+   
+<!-- content wrapper //-->
+<div class="wrapper" id="navigate">
+
+
+	<!-- nav //--> 
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td>
+			<table style="margin-top:4px;" cellpadding="0" cellspacing="0" id="topnav">
+				<tbody><tr bgcolor="#dddddd">
+					<td bgcolor="#ffffff" class="menu"><a href="/index.cfm" id="homeTrigger"><img src="http://cs1.fanball.com/images/utility/menu/home.gif" width="52" height="21" border="0"></a></td>
+					<td class="menu"><img src="http://cs1.fanball.com/images/utility/menu/3.gif" width="10" height="21"></td>
+					<td class="menu"><a href="/fb/index.cfm" id="nflTrigger"><img src="http://cs1.fanball.com/images/utility/menu/nfl.gif" width="35" height="21" border="0"></a></td>
+					<td class="menu"><img src="http://cs1.fanball.com/images/utility/menu/0.gif" width="10" height="21"></td>
+					<td class="menu"><a href="/bb/index.cfm" id="mlbTrigger"><img src="http://cs1.fanball.com/images/utility/menu/mlb.gif" width="37" height="21" border="0"></a></td>
+					<td class="menu"><img src="http://cs1.fanball.com/images/utility/menu/0.gif" width="10" height="21"></td>
+					<td class="menu"><a href="/ph/index.cfm" id="nbaTrigger"><img src="http://cs1.fanball.com/images/utility/menu/nba.gif" width="42" height="21" border="0"></a></td>
+					<td class="menu"><img src="http://cs1.fanball.com/images/utility/menu/0.gif" width="10" height="21"></td>
+					<td class="menu"><a href="/rac/index.cfm" id="nascarTrigger"><img src="http://cs1.fanball.com/images/utility/menu/nascar.gif" width="56" height="21" border="0"></a></td>
+					<td class="menu"><img src="http://cs1.fanball.com/images/utility/menu/0.gif" width="10" height="21"></td>
+					<td class="menu"><a href="/gaming/index.cfm" id="gamingTrigger"><img src="http://cs1.fanball.com/images/utility/menu/gaming.gif" width="56" height="21" border="0"></a></td>
+					<td class="menu"><img src="http://cs1.fanball.com/images/utility/menu/0.gif" width="10" height="21"></td>
+					<td><a href="http://www.allpro.com/join_f.html" target="_blank"><img src="http://cs1.fanball.com/images/utility/menu/allpro_ad.gif" width="165" height="21" border="0"></a></td>
+					<td><img src="http://cs1.fanball.com/images/utility/menu/topShorter.gif" width="237" height="21"></td>
+					<td><img src="http://cs1.fanball.com/images/utility/menu/topright.gif" width="10" height="21"></td>
+				</tr>
+			</tbody></table>
+		
+			</td>
+			<td rowspan="3" style="vertical-align: bottom"><img src="http://cs1.fanball.com/images/utility/menu/nav_shad.gif" width="3" height="41" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffffff"><img src="http://cs1.fanball.com/images/utility/spacer.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffffff" style="vertical-align:middle;padding:0px;">
+		<table cellpadding="0" cellspacing="0" border="0" id="menubar" class="horizontalNav">
+			<tbody><tr valign="bottom">
+				<td class="mttd" style="padding:0 2px 0 2px;" id="act0" onmouseover="ypSlideOutMenu.showMenu('menu1')" onmouseout="ypSlideOutMenu.hideMenu('menu1')"><a href="/features.cfm">Features</a></td>
+				<td class="mttd" style="padding:0 2px 0 2px;"><img src="http://cs1.fanball.com/images/utility/menu/dots.gif" width="1" height="21" style="border:0px;padding:0px;margin:0px;vertical-align:middle;"></td>
+				<td class="mttd" style="padding:0 2px 0 2px;" id="act1" onmouseover="ypSlideOutMenu.showMenu('menu2')" onmouseout="ypSlideOutMenu.hideMenu('menu2')"><a href="/fb/playerRank.cfm">Elite Weekly Player Rankings</a></td>
+				<td class="mttd" style="padding:0 2px 0 2px;"><img src="http://cs1.fanball.com/images/utility/menu/dots.gif" width="1" height="21" style="border:0px;padding:0px;margin:0px;vertical-align:middle;"></td>
+				<td class="mttd" style="padding:0 2px 0 2px;" id="act2" onmouseover="ypSlideOutMenu.showMenu('menu3')" onmouseout="ypSlideOutMenu.hideMenu('menu3')"><a href="/ffw/index.cfm">FFW Online</a></td>
+				<td class="mttd" style="padding:0 2px 0 2px;"><img src="http://cs1.fanball.com/images/utility/menu/dots.gif" width="1" height="21" style="border:0px;padding:0px;margin:0px;vertical-align:middle;"></td>
+				<td class="mttd" style="padding:0 2px 0 2px;" id="act3" onmouseover="ypSlideOutMenu.showMenu('menu4')" onmouseout="ypSlideOutMenu.hideMenu('menu4')"><a href="javascript://">Owners Edge</a> <img src="http://cs1.fanball.com/images/utility/menu/dingbat3.gif" style="border:0px;padding:0px;margin:0px;vertical-align:middle;"></td>
+				<td class="mttd" style="padding:0 2px 0 2px;"><img src="http://cs1.fanball.com/images/utility/menu/dots.gif" width="1" height="21" style="border:0px;padding:0px;margin:0px;vertical-align:middle;align:left;"></td>
+				<td class="mttd" style="padding:0 2px 0 2px;" id="act4" onmouseover="ypSlideOutMenu.showMenu('menu5')" onmouseout="ypSlideOutMenu.hideMenu('menu5')"><a href="/games/list.cfm">Fantasy Games &amp; Leagues</a> <img src="http://cs1.fanball.com/images/utility/menu/dingbat3.gif" style="border:0px;padding:0px;margin:0px;vertical-align:middle;"></td>
+				<td class="mttd" style="padding:0 2px 0 2px;"><img src="http://cs1.fanball.com/images/utility/menu/dots.gif" width="1" height="21" style="border:0px;padding:0px;margin:0px;vertical-align:middle;"></td>
+				<td class="mttd" style="padding:0 2px 0 2px;" id="act6" onmouseover="ypSlideOutMenu.showMenu('menu7')" onmouseout="ypSlideOutMenu.hideMenu('menu7')"><a href="/store/index.cfm">Store</a></td>
+				<td class="mttd" style="padding:0 2px 0 2px;"><img src="http://cs1.fanball.com/images/utility/menu/dots.gif" width="1" height="21" style="border:0px;padding:0px;margin:0px;vertical-align:middle;"></td>
+				<td class="mttd" style="padding:0 2px 0 2px;" id="act7" onmouseover="ypSlideOutMenu.showMenu('menu8')" onmouseout="ypSlideOutMenu.hideMenu('menu8')"><a href="http://forums.fanball.com/forum.bb">Forums</a></td>
+				<td class="mttd" style="padding:0 2px 0 2px;"><img src="http://cs1.fanball.com/images/utility/menu/dots.gif" width="1" height="21" style="border:0px;padding:0px;margin:0px;vertical-align:middle;"></td>
+				<td class="mttd" style="padding:0 2px 0 2px;" id="act8" onmouseover="ypSlideOutMenu.showMenu('menu9')" onmouseout="ypSlideOutMenu.hideMenu('menu9')"><a href="/marketplace.cfm">Marketplace</a></td>
+			</tr>
+		</tbody></table>
+	
+		</td>
+	</tr>
+</tbody></table>
 
 
 
 
-    
+	<!-- content //-->
+	<div class="contentmain">
+	
+	<img src="http://cs1.fanball.com/images/utility/masthead/FANBALL_masthead.gif" hspace="3" width="744" height="52" alt="" border="0"><br>
+	
+	
+		
+	
+
+<br class="clear">
 
 
-<table width="627" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="627"><p><b>Privacy Statement  for www.fanball.com</b></p>
-  		<p>Fanball has created this privacy statement in order to demonstrate our firm commitment to privacy.
-      	The following discloses our information gathering and dissemination practices for this website: www.fanball.com.</p>
-  		<p>We use your IP address  to help diagnose problems with our server, and to administer our Web site.
-      	We use cookies to save your password so you don't have to re-enter it each  time you visit our site and for other purposes.</p>
+ <table width="744" cellspacing="3" cellpadding="0" border="0">
+         <tbody><tr>
+            <td width="164"><img src="/images/utility/headers/blank.gif" width="164" height="21" alt=""></td>
+            <td width="577"><img src="/images/utility/headers/support.gif" width="577" height="21" alt="" border="0"></td>
+         </tr>
+         <tr>
+            <td>
+            <!-- left column //-->
+            <center>
+					
+ 
+
+
+
+	<script language="JAVASCRIPT" src="http://216.87.56.56/banman/banman.asp?ZoneID=95&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=1245&amp;Keywords=112"></script>
+
+
+
+
+
+
+
+				</center>
+				<br class="clear">
+            </td>
+            <td class="center">
+            <div class="centercolumn">
+            
+			<br><br>
+			<a name="top"></a>
+			<a href="javascript:void()" style="text-decoration: none; padding-left: 4px; padding-right: 20px; background: rgb(220, 220, 220); color: rgb(51, 51, 51);" onclick="domTab(1)" id="link1" class="tablink">FAQs</a>
+			<a href="javascript:void()" style="text-decoration: none; padding-left: 4px; padding-right: 20px; background: rgb(220, 220, 220); color: rgb(51, 51, 51);" onclick="domTab(2)" id="link2" class="tablink">Support Form</a>
+			<a href="javascript:void()" style="text-decoration: none; padding-left: 4px; padding-right: 20px; background: rgb(220, 220, 220); color: rgb(51, 51, 51);" onclick="domTab(3)" id="link3" class="tablink">Ordering/Refunds</a>
+			<a href="javascript:void()" style="text-decoration: none; padding-left: 4px; padding-right: 20px; background: rgb(153, 153, 153); color: rgb(255, 255, 255);" onclick="domTab(4)" id="link4" class="tablink">Privacy Policy</a>
+			<a href="javascript:void()" style="text-decoration: none; padding-left: 4px; padding-right: 20px; background: rgb(220, 220, 220); color: rgb(51, 51, 51);" onclick="domTab(5)" id="link5" class="tablink">Terms of Service</a><br>
+			<!-- end tabs -->
+			
+<div id="contentblock2" class="tab" style="display: none;"> 
+            	<h1 class="headline">Customer Support Form</h1>
+				<br>
+				Please check our FAQ  before sending a request to support.
+				<br><br>
+			Customer support cannot accept requests for advice, player information,<br>or programming information.<br><br>
+		
+			
+
+			
+		
+			<form action="/forgotPW.cfm" method="post">
+				<div class="support">
+					<b>Forgot Your Fanball ID?</b><br>
+					Enter your email address and we’ll send your Fanball ID to your registered email address immediately.<br>
+					<br>
+					<input type="text" class="normal2" size="30" name="eml" value="" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address';">&nbsp;
+					<input type="submit" class="go" value="Send">
+			 	</div>
+			 	<br>
+			</form>
+		
+		
+			 
+			<form action="/forgotPW.cfm" method="post">
+				<div class="support">
+					<b>Forgot Your Password?</b><br>
+					Enter your Fanball User ID and we’ll send your password to your registered email address immediately.<br>
+					<br>
+					<input type="text" class="normal2" size="30" name="eml" value="" onfocus="if(this.value=='User ID')this.value='';" onblur="if(this.value=='')this.value='User ID';">&nbsp;
+					<input type="submit" class="go" value="Send">
+			 	</div>
+			 	<br>
+			 </form>
+			 
+		
+		
+			
+			<div class="support"><!-- SUPPORT REQUEST -->
+			 	<form name="supportForm" method="post" action="/actSupport.cfm" onsubmit="return checkForm();">
+  				<input type="hidden" name="action" value="postnew">
+  				<input type="hidden" name="refURL" value="/index.cfm">
+  				
+  				
+				<b>New Support Request</b><br><br>
+				<b>Please fill in all fields below to have your support request processed.</b>
+					<br>
+                         <input type="hidden" name="memberID" value="0">
+					<input type="text" class="normal2" size="30" name="firstName" value="First Name" onfocus="if(this.value=='First Name')this.value='';" onblur="if(this.value=='')this.value='First Name';"> <span style="color:red;">[Required]</span><br>
+					<input type="text" class="normal2" size="30" name="lastName" value="Last Name" onfocus="if(this.value=='Last Name')this.value='';" onblur="if(this.value=='')this.value='Last Name';"> <span style="color:red;">[Required]</span><br>
+					<input type="text" class="normal2" size="30" name="email" value="Email Address" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address';"> <span style="color:red;">[Required]</span><br><br>
+			
+			
+  			
+			
+  				
+        				
+						<select name="category" class="normal2">
+							<option value="9" selected="">GENERAL</option><option value="22">LIVE DRAFT ROOM</option><option value="24">TSN</option><option value="1">COMMISSIONER</option><option value="2">EXIT 42</option><option value="3">BID2PLAY - FOOTBALL</option><option value="4">BEAT THE EXPERTS</option><option value="23">SUPERSTAR CAP CHALLENGE</option><option value="5">TRIPLE STREAK</option><option value="6">THE CONFIDENCE GAME</option><option value="7">HOME RUN CHALLENGE</option><option value="13">ACE OF THE STAFF</option><option value="10">STORE</option><option value="8">SUBSCRIPTIONS</option><option value="12">FFW ONLINE</option>
+              			</select>
+              	
+      		
+              	<br><br>
+              	Please include a detailed description of the assistance you require, along with any error messages you may have received.<br>
+			  <textarea class="normal2" name="text" cols="60" rows="6"></textarea>	<br><br>		
+			  
+			<input type="submit" class="go" value="Send" name="submit_request">
+			</form>
+			</div>
+			  
+			 
+			 <br class="clear">
+<div style="padding: 6px; border: 1px solid #9F9F9F; background-color: #ffffe0;">
+<b>NOTE:</b> Due to an increasing number of questions involving logging in, page display, site navigation, etc.  We have added a testing feature so you can see if your browser is setup correctly to access this site.
+	<br class="clear">
+	<br><a href="browserCheck.cfm">Click here</a> to begin the test.
+</div>
+</div>
+
+
+
+<div id="contentblock1" class="tab" style="display: none;"> 
+
+	
+		 
+	
+	
+<div style="text-align:left;padding-bottom:10px;">Topics: 
+<a href="/support.cfm" onclick="domTab(1)">General</a>
+&nbsp;|&nbsp; <a href="/support.cfm?faq=user" onclick="domTab(1)">Account Info</a>
+ &nbsp;|&nbsp; <a href="/support.cfm?faq=brow " onclick="domTab(1)">Browsers</a>
+  &nbsp;|&nbsp; <a href="/support.cfm?faq=email" onclick="domTab(1)">Email</a>
+   &nbsp;|&nbsp; <a href="/support.cfm?faq=ffw" onclick="domTab(1)">FFW Online</a>
+    &nbsp;|&nbsp; <a href="/support.cfm?faq=games" onclick="domTab(1)">Games</a>
+     &nbsp;|&nbsp; <a href="/support.cfm?faq=purch" onclick="domTab(1)">Purchases</a>
+      &nbsp;|&nbsp;  <a href="/support.cfm?faq=rew" onclick="domTab(1)">Rewards</a>
+       </div>	
+	<div id="faq">
+		
+			<p>We work hard to make sure that you have a positive experience at Fanball.com.<br>The information contained in this section will  provide you with immediate answers to frequently asked questions and site policies.</p>
+		
+	
+	</div>
+	<br class="clear">
+<div style="padding: 6px; border: 1px solid #9F9F9F; background-color: #ffffe0;">
+<b>NOTE:</b> Due to an increasing number of questions involving logging in, page display, site navigation, etc.  We have added a testing feature so you can see if your browser is setup correctly to access this site.
+	<br class="clear">
+	<br><a href="browserCheck.cfm">Click here</a> to begin the test.
+</div>
+	
+</div>
+
+<div id="contentblock3" class="tab" style="display: none;">
+	
+	
+	
+<p><b>Placing an Order</b><br>
+	You may place your order via the Web or by phoning 1-888-READ-FFW  (orders only) —whichever method is most convenient for you. (see our Privacy Policy .)<br>
+	<b style="color:white;background-color:black;padding-right:3px;padding-left:3px; font-weight: bold;">NOTE:</b> This phone number is for an order taking service and does not connect to a support department.<br>
+	<br>
+	After an order is placed, you will receive an e-mail (if ordered online), to confirm that we received the order. Your confirmation will contain the order number and  order detail.
+	<br><b style="background-color: #cc0000; color: white; font-weight: bold;">&nbsp; NOTE: </b>&nbsp;  If you have trouble ordering or think that your order did not go through, 
+	contact <a href="/support.cfm?category=STR">Fanball Support</a> immediately. DO NOT attempt to re-order.</p>
+	
+	
+<p><b>Disclaimers</b><br>
+		Although Fanball.com strives to provide the most accurate and up-to-date materials available, the information, materials, products and services available on this site may include inaccuracies, typographical errors or outdated information. Moreover, Fanball.com may make modifications or changes to the site or the information, materials, products and services described in this site at any time, for any reason. Fanball.com is not responsible for and need not honor typographical or pricing errors on the site; Fanball.com reserves the right to refuse or cancel orders at any time, including but not limited to orders that contain incorrect prices or product descriptions, orders in which Fanball.com believes the customer has violated applicable law and orders that Fanball.com believes are harmful to Fanball or its affiliates. Fanball.com also reserves the right to limit the number of items purchased or orders placed through this site.</p>
+ 		
+ <p><b>Other Sellers</b><br>
+ 	Fanball can not accept returns or refund orders purchased through other sellers.</p>
+
+<p><b>Payment Methods</b><br>Payment may be made via PayPal, Visa, MasterCard, Discover/Novus, American Express, checks and money orders.</p>
+	
+	
+<p><b>Domestic Shipping/Delivery</b><br>
+		US &amp; Canadian Orders<br>
+				Most orders will be shipped within one business day of order confirmation. Online access will begin within a few hours of receipt of payment when made by check or PayPal, credit card purchases will allow instant access.
+Delivery times will vary based on your geographic location
+<br>
+				NOTE: Fanball is not responsible for deliveries that are delayed due to incorrect/incomplete  mailing addresses, postal holidays or transportation interruptions.
+				</p>
+
+<p><b>APO/FPO Addresses</b><br>
+			We ship to APO/FPOs only by United States Postal Service, standard shipping is the only available service level at this time. Expect delivery to take 1-2 weeks.</p>
+ 	
+<p><b>International Shipping/Delivery</b><br>
+			International Delivery is not available.</p>
+ 	
+<p><b>Merchandise Availability</b><br>
+				In the unlikely event that an item you ordered is not immediately available for shipment, you will be notified via e-mail within two business days. You will be charged only for the items shipped to you by Fanball.com. We will send the remainder of your order with appropriate adjustments for the out of stock item(s). All orders are subject to acceptance by Fanball.com. We reserve the right to refuse delivery or limit quantities of any product ordered. Please note that we cannot guarantee the availability of any item until you place an order.</p>
+ 		
+<p><b>Refunds/Cancellations</b><br>
+				You may cancel your subscription at any time.  Your refund will be pro-rated as follows:<br>
+				<b>1.</b> Print subscription - Your refund will be less the number of issues sent, as of the date your cancellation request is received.<br>
+				<b>2.</b> Online subscription - Your refund will be less the number of weeks that your subscription was available for access, as of the date your cancellation request is received.<br>
+				</p><ul>
+					<li><b>Online subscriptions include, but are not limited to:</b></li>
+					<ul>
+						<li><b>Fantasy Football Weekly Online</b></li>
+						<li><b>Owners Edge (Preseason &amp; Regular Season Editions)</b></li>
+						<li><b>Real Time Scoring</b></li>	</ul>
+						</ul><p></p>
+
+			<p><b>3.</b> Exit 42 - You may cancel your access to a game at anytime.  No refunds will be given after you have begun your draft. Refunds are not available for unused teams.</p>
+			<p><b>4.</b> Fanball Commissioner - You may cancel your access to the Commissioner at any time. No refunds will be given after the first paid week, following the two week trial period.</p>
+			<p><b>5.</b> Refunds will <u>not</u> be issued for downloadable items (i.e. Draft Kits), or Personalized Services  which have been delivered or accessed.  These items are sold "AS-IS".</p>
+			<p><b>6.</b> Gift cetificates are non-refundable.</p>
+
+</div>
+
+<div id="contentblock4" class="tab" style="display: block;">
+	<a name="privacy"></a>
+	<p><b>Privacy Statement  for www.fanball.com</b></p>
+  		<p>Fanball has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.fanball.com.</p>
+  		
+  		<p>We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes.</p>
+  		
  		<p>User information is collected at Fanball for basic site registration; game, contest or league participation; and the purchase of premium content or services.</p>
-		<p>Our site's registration forms (used to obtain a user ID for the Fanball site, or to sign up for premium services) require users to give us contact information (like their
-		name, email address and zip code), and optional demographic information (like their age, etc.). We also keep track of which products and/or
-      services (like subscriptions to Fantasy Football Weekly, Real-time scoring, etc.) that users may purchase. We use customer contact information from
-      the registration form(s) to send the user information about our company  and promotional material from some of our partners. The customer's contact
-      information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings, either from Fanball or its partners;
-      see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an
-      aggregate basis.</p>
+ 		
+		<p>Our site's registration forms (used to obtain a user ID for the Fanball site, or to sign up for premium services) require users to give us contact information (like their name, email address and zip code), and optional demographic information (like their age, etc.). We also keep track of which products and/or services (like subscriptions to Fantasy Football Weekly, Real-Time Scoring, etc.) that users may purchase. We use customer contact information from the registration form(s) to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the User when necessary. Users may opt-out of receiving future mailings, either from Fanball or its partners; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis.</p>
+		
 
 		<p><b>Public Forums</b><br>
 		This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in
       these areas becomes public information and you should exercise caution when  deciding to disclose your personal information.</p>
+      
   <p><b>Security</b><br>
       This site has security measures in place to protect the loss, misuse and
       alteration of the information under our control. Specially-hardened operating
@@ -538,25 +639,28 @@ else  {
       are provided. Internal security staff for protection against emerging threats
       continually monitors these operating systems. All hardware systems are further
       protected by state-of-the-art firewall technology.No technology is 100% foolproof or secure, but Fanball will make reasonable efforts to maintain the security of its user database.</p>
-  			<p><b>Choice/Opt-Out</b><br>
-      Our site provides users the opportunity to opt-out of receiving communications from us, and from our partners, at the point of registration.</p>
-  <p>This site also gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.</p>
+      
+  		<p><b>Choice/Opt-Out</b><br>
+      	Our site provides users the opportunity to opt-out of receiving promotional communications from us, and from our partners, at the point of registration.</p>
+      
+  <p>This site also gives users the following options for removing their information from our database to not receive future communications and  to no longer receive our service.</p>
+  
    <p>You can send email
       to: privacy@fanball.com<br>
       You can send mail to the following postal address: <br>
       PO Box 583282<br>
 	Minneapolis, MN 55458-3282</p>
-  <p><b>Correct/Update</b><br>
+	
+  <p><b>Correct/Update Account</b><br>
       This site gives users the following options for changing or modifying information previously provided. <br><br>
-      <b>1.</b> Email: update@fanball.com<br>
-      <b>2.</b> Send mail to the following postal address: <br>
+      <b>1.</b> Click on the "My Profile" link found at the top of most  pages.<br>
+      <b>2.</b> Email: update@fanball.com<br>
+      <b>3.</b> Send mail to the following postal address: <br>
       &nbsp;&nbsp; &nbsp; Fanball.com<br>
       &nbsp;&nbsp; &nbsp; PO Box 583282<br>
 	&nbsp;&nbsp; &nbsp; Minneapolis, MN 55458-3282<br>
-	<b>3.</b> Click on the User Info button  found at the top of the  left menu.<br>
-     <b>4.</b> Click on the Support link found in the left menu.</p>
-  <p><b>Contacting the Web
-      Site</b><br>
+	<b>4.</b> Click on the Help link found at the bottom of pages.</p>
+  <p><b>Contacting the Web Site</b><br>
       If you have any questions about this privacy statement, the practices of
       this site, or your dealings with this Web site, you can contact </p>
   <p>webmaster@fanball.com<br>
@@ -564,20 +668,204 @@ else  {
       PO Box 583282<br>
 	Minneapolis, MN 55458-3282<br>
 	612.332.0865</p>
- 	<p><a href="javascript:history.go(-1)">Back</a></p></td>
-  </tr>
-  <tr>
-    <td height="8"><spacer type="block" width="627" height="8"></spacer></td>
-  </tr>
-</tbody></table>
+</div>
+
+<div id="contentblock5" class="tab" style="display: none;">
+	<a name="terms"></a>
+	
+<p>Fanball Interactive, LLC. operates the Fanball.com online service.  As with any online service, we must establish some basic rules designed to ensure enjoyment by all our Users.<br><br>
+
+The Fanball.com User Agreement sets forth the terms and conditions of your Fanball.com registration.  As a condition of registration, you must accept the agreement in its entirety; therefore, we encourage you to carefully review and familiarize yourself with it. In addition, you should review the agreement from time to time for any important changes. The current version of the Fanball.com Terms of Service will always be available online via the "Terms of Service" link at the bottom of every Fanball.com page.</p>
+
+<h2>Fanball.com Terms of Service</h2>
+
+<p><b>General:</b><br>
+"Fanball.com" is an interactive online service (the "Service") on the World Wide Web of the Internet (address: http://www.fanball.com) operated by Fanball Interactive, LLC. ("Fanball.com"). The Service offers users (as hereinafter defined) access to (i) information, software and other content owned or licensed by Fanball.com and third-parties ("Content Providers"), and (ii) merchandise and services offered by Fanball.com and independent merchants ("Merchants"). "User" means any person who establishes an authorized account ("Account") for access to and use of the Service. The right to use the Service is personal to the user and a User's Account is not transferable. Unless authorized by Fanball.com, a User must be an individual who is at least thirteen (13) years of age and may not be a firm, business entity or institution. A User may permit usage of the Service by other individuals in User's household, but the User remains solely responsible for all charges incurred by such individuals. By registering as a User and using the Service, you accept and agree to comply with the this Agreement, as modified from time to time ("Agreement"), and all rules or policies posted on the Service ("Operating Rules"), for as long as you remain a User. Except as expressly permitted in this Agreement or the Operating Rules, no portion of the Service (including any information, content or software other than software to be used solely in connection with User's Account) may be downloaded, reproduced, redistributed, retransmitted, published, resold or otherwise commercially exploited by any User.</p>
+
+<p><b>Price and Payment:</b><br>
+Fanball.com offers Premium Content, Subscriptions and Pay Games. Users must provide Fanball.com with valid credit card information at the time of purchase. All fees will be charged at the standard fees in effect for that Premium Content, Subscription, or Pay Game at the time the fee becomes payable. Fanball.com <b>will not</b> automatically renew Premium Content, Subscription, or Pay Game purchases.</p>
+
+<p><b>Changes:</b><br>
+Fanball.com reserves the right, at any time, to (i) change the terms of this Agreement or any Operating Rules, (ii) change the Service, including eliminating or discontinuing any content or feature of the Service, restricting the hours of availability or limiting the amount of use permitted by the User, or (iii) change any fees or charges for use of the Service, including instituting new or increased fees or charges for the use of the Service or any feature thereof. Users will be given a minimum of thirty (30) days notice prior to any increase in existing fees or charges becoming effective. All other changes shall be effective immediately upon notice. Any use of the Service under a User's Account after such notice shall be deemed to constitute acceptance by the User of the changes.</p>
+
+<p><b>User Account Responsibility and Fees:</b><br>
+The User is responsible for ensuring that all use of the Service under the User's Account (i.e., use of the Service by any person using the User's ID and password) complies with the provisions of this Agreement and all Operating Rules. The User is responsible for maintaining the confidentiality of his or her password. If the User believes that his or her account is no longer secure (e.g., in the event of a loss, theft or unauthorized disclosure or use of User's password), User must promptly change his or her password and notify Fanball.com as set forth below to avoid liability for any unauthorized charges to User's Account. The User is responsible for paying all fees and charges (plus applicable taxes) associated with the use of the Service under the User's Account, including fees or charges incurred for premium features or options and payment for purchases made through the Service. Unless otherwise stated, (i) payment of all fees and charges must be made by a valid, approved credit, debit or charge card; and (ii) all fees and charges (including subscription fees) are non-refundable. The User may, upon request (by electronic message or conventional mail), receive supporting information relating to charges to the User's Account. Orders for purchases of merchandise or Services advertised on the Service by Fanball.com or Merchants are subject to availability and acceptance. Fanball.com is not responsible for delivery, warranties, guarantees or other matters concerning purchases from Merchants that are not owned or operated by Fanball.com. Access to and use of premium features or options of the Service is subject to posted terms and conditions (including payment of applicable fees and charges). Unauthorized access to the Service or any premium feature or option is a breach of this Agreement and a violation of law. The User is responsible for protecting the confidentiality of the User's password. The User is responsible for and must provide all telephone and other equipment and services (including Internet access provider fees) required for access to and use of the Service.</p>
+
+<p><b>User Conduct:</b><br>
+The User shall be responsible for, and assumes all liability associated with, any material made available though the Service under the User's Account, including liability for claims of infringement, libel and slander. The User shall not post, transmit through or otherwise make available on the Service (i) any material which violates or infringes in any way upon the rights of others, which is unlawful, defamatory, obscene, abusive, profane, vulgar, sexually explicit, racist, threatening, hateful or otherwise objectionable or which encourages conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any law, (ii) without the express written consent of the owner thereof, any copyrighted material, or (iii) without the express prior written consent of Fanball.com, any advertising or any solicitation with respect to products or services (unless posted in an area specifically designated for that purpose). Although Fanball.com does not and cannot review every message posted by User on the Service, Fanball.com shall be under no obligation to permit any material posted or transmitted by the User to remain on the Service, and may refuse to display or remove from the Service any material which Fanball.com, in the exercise of its sole discretion, believes violates this Agreement or any Operating Rules. Material authored by User or a user authorized by User under this Agreement ("User Material") that is posted, transmitted through or otherwise made available on the Service by the User in public posting areas (such as feedback, chat rooms or forums) shall be considered to be in the public domain, and may be copied, published, distributed or otherwise used by Fanball.com (or another User) for any purpose without the permission of the User. User acknowledges that any User Material posted, transmitted through or otherwise made available on the Service may be edited, removed, modified, published, transmitted and displayed by Fanball.com, and User waives all moral rights in such User Material.</p>
+
+<p><b>Service Content:</b><br>
+Fanball.com contains copyrighted material, and the entire contents of the Service are copyrighted as a collective work under the United States copyright laws. Except as expressly permitted by this Agreement or the Operating Rules, the User may not copy, reproduce, publish, retransmit or redistribute copyrighted materials, in whole or in part, in any manner, without the express written permission of the copyright owner. The User may download or make a single copy of copyrighted materials solely for the User's own personal use, provided the User preserves any copyright or other notices contained in or associated with them. Fanball.com shall not be responsible for any opinions, views, advice or statements posted on the Service (including, without limitation, in any public posting areas of the Service) by any person or entity other than an authorized Fanball.com or Fanball Interactive spokesperson. Service advertisers, Content Providers, User, guests, independent writers and experts are not authorized Fanball.com nor Fanball Interactive spokespersons. At no time should the opinions, views, advice or statements provided by Service advertisers, Content Providers, User, guests, independent writers or experts be relied upon for important personal decisions without independent verification. Except as stated in the license agreement accompanying any software provided through or in connection with the Service, the User is granted only a personal, nonexclusive and nontransferable license to use such software, and unauthorized copying of software is prohibited.</p>
+
+<p><b>Disclaimers and Limitation of Liability:</b><br>
+THE USER AGREES THAT THE USE OF THE SERVICE, AND ANY SOFTWARE OBTAINED THROUGH OR IN CONNECTION WITH THE SERVICE ("SOFTWARE"), IS AT THE USER'S SOLE RISK. NEITHER FANBALL.COM, ITS CONTENT PROVIDERS NOR ANY OF THEIR RESPECTIVE EMPLOYEES, AGENTS OR LICENSORS WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR FREE OR THAT SOFTWARE WILL BE ERROR-FREE; NOR DO FANBALL.COM OR ANY OF THE FOREGOING PERSONS MAKE ANY WARRANTY AS TO THE ACCURACY, RELIABILITY OR CONTENT OF ANY INFORMATION, SOFTWARE, PRODUCTS OR SERVICES PROVIDED THROUGH THE SERVICE OR THE RESULTS TO BE OBTAINED FROM USE OF THE SERVICE. THE SERVICE AND ANY SOFTWARE ARE PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE; AND FANBALL.COM HEREBY EXPRESSLY DISCLAIMS, ON ITS OWN BEHALF AND ON BEHALF OF ITS CONTENT PROVIDERS SUCH OTHER PERSONS, ALL WARRANTIES OF ANY KIND, OTHER THAN THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSIONS, RESTRICTION OR MODIFICATION UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. 
+THE USER'S SOLE REMEDY FOR ANY DAMAGES CAUSED OR ALLEGEDLY CAUSED BY ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, OR OTHER CAUSE, SHALL BE TO TERMINATE THE USER'S ACCOUNT. IN NO EVENT WILL FANBALL.COM OR ANY PERSON OR ENTITY INVOLVED IN CREATING, PRODUCING OR DISTRIBUTING THE SERVICE OR ANY SOFTWARE BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THE SERVICE OR ANY SOFTWARE OR OUT OF THE BREACH OF ANY WARRANTY OR ANY OTHER CAUSE.
+SOME STATES DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR THE EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO ALL USERS.
+</p>
+
+<p><b>Indemnification:</b><br>
+The User agrees to defend, indemnify and hold harmless Fanball.com, its affiliates and Content Providers and their respective directors, officers, employees and agents from and against all claims and expenses, including reasonable attorneys' fees, arising out of the User's use of the Service or the User's Account.</p>
+
+<p><b>Notices:</b><br>
+Fanball.com may give notices to User, at Fanball.com's option, by posting a message on the Service, by electronic or conventional mail or by any other means by which User obtain actual knowledge thereof. Notices by Users to Fanball.com must be given by electronic or conventional mail. Notices to Fanball.com by electronic mail must be sent to support@Fanball.com. Notices to Fanball.com by conventional mail must be sent to: Fanball.com, 212 3rd Ave North, Suite 586, Minneapolis, MN 55401, Attention: Support. Notices by a User to Fanball.com will not change the terms of this Agreement or any Fanball.com operating rule, unless an authorized officer of Fanball.com expressly accepts the change in writing. <em>Content Provider Notices:</em> Certain Content Providers require Fanball.com to provide to Users specific notices regarding the use of information supplied by them and the limitation of their liability to Users. These notices are included in Appendix A to this Agreement. <em>Special Notice to California Users:</em> A special notice to California Users, containing the information specified by California Civil Code Section 1789.3, is included in Appendix A to this Agreement.</p>
+
+<p><b>Termination:</b><br>
+Either Fanball.com or the User may terminate this Agreement and the User's Account at any time, with or without cause. In the event the User is dissatisfied with the Service for any reason whatsoever, the only right available to the User is to terminate the User's Account by contacting Fanball.com pursuant to this Agreement. Fanball.com may suspend or terminate User's Account, without notice, in the event of any breach by the User of this Agreement or any Operating Rules or for other conduct by the User which Fanball.com, in its sole discretion, considers to be unacceptable. Suspension or termination of a User's Account means that the Service will no longer be accessible to the User. Fanball.com shall not be responsible for any consequences of such lack of access. Suspension or termination of a User's Account by Fanball.com also terminates the User's license to use any software provided by Fanball.com. The provisions of this Agreement will survive the termination of the Agreement or the User's Account, whether by Fanball.com or the User. </p>
+
+<p><b>Use of User Information:</b><br>
+Fanball.com shall have the right to use for any purpose any information provided by the User or regarding the User's access to or use of the Service. The User may, by giving written notice to Fanball.com, request that Fanball.com not specifically disclose personally identifiable information to third parties except as permitted by this Agreement.</p>
+
+<p><b>Miscellaneous:</b><br>
+This Agreement (including Appendix A - Special Notices) and the Operating Rules constitute the entire and only agreement between Fanball.com and the User with respect to the Service, and supersede all other communications and agreements with respect to the subject matter hereof. Fanball.com may modify this Agreement from time to time upon notice, as described above. The provisions of this Agreement are for the benefit of Fanball.com its Content Providers and their respective employees, agents and licensors and, as such, each shall have the right to assert and enforce such provisions directly on its own behalf. This Agreement shall be construed in accordance with the laws of the State of Minnesota, without regard to its conflict of laws rules. If any provision of this Agreement is determined to be invalid, all other provisions shall remain in full force and effect. No waiver of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. The section headings used herein are for convenience only and shall not be given any legal import.</p>
+
+<p><b>Appendix A - Special Notices</b></p>
+
+<p><b>Notice to California User:</b><br>
+As required by California Code Section 1789.3, this notice is to advise you of the following: a. The Fanball.com is a service provided by Fanball Interactive, LLC., 212 3rd Ave North, Suite 586, Minneapolis, MN 55401, telephone number 1-612-332-0865. b. The fees and charges for the Service vary depending on the premium features and games selected by the User. Fanball.com reserves the right to change the amount of any fee or charge and to institute new fees or charges, effective on thirty days' notice to the Users of the Service. c. If you have a complaint regarding the Service or desire further information on use of the Service, contact Fanball.com by telephone at 1-612-332-0865. For complaints, you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs in writing at 400 "R" Street, Sacramento, California 95814 or by telephone at 1-916-445-1254. </p><br><br>
+</div>	 
+
+ 
+</div>
+	 
+            </td>
+         
+         </tr>
+         <tr>
+           	<td>&nbsp;</td>
+            <td align="center">
+               
+
+ 
+	<script language="JAVASCRIPT" src="http://216.87.56.56/banman/banman.asp?ZoneID=96&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=5873&amp;Keywords=112"></script>
+
+
+<br>
+					<br>
+            </td>
+         </tr>
+      </tbody></table>
+  
+</div>
+</div>
+ 
+	
+		
+<div class="footer">
+	<a href="http://www.fanball.com/contact.cfm" class="ftr">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.fanball.com/support.cfm" class="ftr">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.fanball.com/support.cfm?domTab=4" class="ftr">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.fanball.com/support.cfm?domTab=5" class="ftr">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="mailto:?subject=Fanball.com - Fantasy Sports, Games and Leagues&amp;body=Hey,%0D%0A %0D%0AI know you're into fantasy sports, I found this great fantasy site www.fanball.com.%0D%0AThey have great fantasy sports coverage, especially for fantasy football.  I know this site has everything you're looking for.  They have a customizable commissioner service to run your fantasy football league online, a wide variety of fantasy games, and irreverent, insightful coverage of all the major sports with a fantasy spin.%0D%0A %0D%0ACheck out www.fanball.com, you won't be sorry. " onmouseover="status='Tell a friend about Fanball';return true" onmouseout="status='';return true" class="ftr">Tell A Friend</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.fanball.com/browsercheck.cfm" class="ftr">Browser Check</a>	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.fanball.com/login.cfm" class="ftr">Log In</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fanball.com/register.cfm" class="ftr">Register</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forgotPW.cfm" class="ftr">Forgot Password Or ID?</a><br>
+	© 2003 Fanball Interactive LLC. All rights reserved<br>
+	Your use of this website constitutes acceptance of our  <a href="http://www.fanball.com/support.cfm?domTab=4" class="ftr">Privacy Policy</a> and <a href="http://www.fanball.com/support.cfm?domTab=5" class="ftr">Terms of Service</a>
+</div>
 
 
 
-    </td>
 
-    <td width="4" valign="top"><img height="1" src="http://images60.fanball.com/images/spacer.gif" width="4"></td>
 
-  </tr>
-</tbody></table>
 
-</div></body></html>
+ 
+	
+
+
+<div id="menu1Container" style="visibility: hidden;">
+<div class="menu3" id="menu1Content" style="top: 0px;">
+</div>
+</div>
+
+
+
+<div id="menu2Container" style="visibility: hidden;">
+<div class="menu3" id="menu2Content" style="top: 0px;">
+</div>
+</div>
+	
+
+<div id="menu3Container" style="visibility: hidden;">
+<div class="menu3" id="menu3Content" style="top: 0px;">
+</div>
+</div>
+
+
+
+<div id="menu4Container" style="visibility: hidden;">
+<div class="menu3" id="menu4Content" style="top: -210px;">
+<div class="options">
+	<a href="/fboe/index.cfm">Home</a>
+	<a href="/fboe/features.cfm">Features</a>
+	<a href="/fboe/email_alerts.cfm">Email Alerts</a>
+	<a href="/fboe/goalLine.cfm">Goal To Go</a>
+	<a href="/fboe/injuryTracker.cfm">Injury Tracker</a>
+	<a href="/fboe/playerRank.cfm">Elite Weekly Player Rankings</a>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="menu5Container" style="visibility: hidden;">
+<div class="menu3" id="menu5Content" style="top: -310px;">
+<div class="options">
+	<!-- a href="/games/aots/index.cfm">Ace of the Staff (MLB)</a -->
+	<a href="/bte/index.cfm">Beat the Experts (NFL)</a>
+	<a href="/b2p/index.cfm">Bid2Play 2.0 (NFL)</a>
+	<a href="/confidence/index.cfm">Confidence Game (NFL)</a>
+	<a href="/exit42/index.cfm">Exit42 Leagues (NFL)</a>
+	<a href="/commissioner/index.cfm">Fanball Commissioner (NFL)</a>
+	<!-- a href="/games/hrc/index.cfm">Home Run Challenge  (MLB)</a -->
+	<a href="/gaming/index.cfm">Pro Football Parlay Challenge (NFL)</a>
+	<a href="/superstar/index.cfm">Superstar Cap Challenge (NFL)</a>
+	<a href="/triplestreak/index.cfm">Triple Streak (NFL)</a>
+	<a href="/games/list.cfm">+ View All Games &amp; Leagues +</a>
+	<a href="/rewards.cfm">Fanball Rewards</a>
+	</div>	
+</div>
+</div>
+
+
+<div id="menu6Container" style="visibility: hidden;">
+<div class="menu3" id="menu6Content" style="top: 0px;">
+<div class="options">
+	<a href="/b2p/index.cfm">Bid2Play</a>
+	<a href="/exit42/index.cfm">Exit42</a>
+	<a href="/commissioner/index.cfm">Fanball Commissioner</a>
+	<a href="/superstar/index.cfm">Superstar Cap Challenge</a>
+	<a href="/draft/index.cfm">Live Draft Room</a>
+	</div>
+</div>
+</div>
+
+
+<div id="menu7Container" style="visibility: hidden;">
+<div class="menu3" id="menu7Content" style="top: 0px;">
+</div>
+</div>
+
+ 
+<div id="menu8Container" style="visibility: hidden;">
+<div class="menu3" id="menu8Content" style="top: 0px;">
+</div>
+</div>
+
+
+<div id="menu9Container" style="visibility: hidden;">
+<div class="menu3" id="menu9Content" style="top: 0px;">
+</div>
+</div>
+
+
+<div id="menu10Container" style="visibility: hidden;">
+<div class="menu3" id="menu10Content" style="top: 0px;">
+</div>
+</div>
+
+
+
+
+<script language="javascript">
+domTab(4);
+</script></body></html>
