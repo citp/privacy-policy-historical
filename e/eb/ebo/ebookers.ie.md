@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214072539id_/http%3A//www.ebookers.com/helpandinfo/privacy.html%3FVERSION%3DIE%26LANG%3DAA%26CURRENCY%3DIEP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402213531id_/http%3A//www.ebookers.com/helpandinfo/privacy.html%3FVERSION%3DIE%26LANG%3DAA%26CURRENCY%3DEUR) for the most accurate reproduction.*
 
 # ebookers.com - Privacy Statement
 
@@ -35,7 +35,7 @@ As a member of ebookers.com, we ask you to provide us with some personal informa
   * We ask you where you heard about ebookers.com and we use this information to analyse the effectiveness of the various publicity campaigns.
   * In order to use the Flight Watch service you need to provide us with your mobile telephone number.
   * We log domain names and/or IP addresses for our internal site traffic statistics.
-  * We request details of [affiliate's](https://web.archive.org/aboutus/affiliates.html) websites to ensure the suitability of such websites. 
+  * We request details of [affiliate's](https://web.archive.org/aboutus/company_affiliates.html) websites to ensure the suitability of such websites. 
   * We use cookies to monitor which parts of the Site are more interesting to you.
 
 
@@ -49,7 +49,7 @@ This site contains links to other sites, however, ebookers.com is not responsibl
 There is a section of the website where you can [apply for a job](https://web.archive.org/aboutus/recruitment.html) with ebookers.com. We collect personal information such as name and address to contact applicants in relation to their job application. We also ask for optional demographic information, which we use for recruitment purposes only. We do not share any of the above mentioned information with anyone else.
 
 **Our Opt Out Policy**  
-You can un-subscribe from our newsletter at any time by following the instructions at the bottom of the newsletter. You can also cancel a Flight Watch item by following the instructions on the [Flight Watch web page. ](https://web.archive.org/services/flightwatch/)
+You can un-subscribe from our newsletter at any time by following the instructions at the bottom of the newsletter, or by sending an blank e-mail to [irish_users-off@lists.ebookers.com](mailto:irish_users-off@lists.ebookers.com)
 
 **Sharing the information our Site gathers/tracks**  
 When you reserve or purchase travel services through ebookers.com, we provide information about you to our ticketing agent, Flightbookers plc. To process your order we will share some of your details with the airline, car rental agency, hotel, or other involved third party. We will provide only the information necessary to ensure the successful fulfilment of your travel arrangements. If you choose to pay with a credit or debit card, we pass your card details to our bank for authorisation of the transaction and for payment.  
