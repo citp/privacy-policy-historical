@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendmx.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211133146id_/http%3A//www.trendmx.com/seo-tools-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendmx.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602030306id_/http%3A//trendmx.com/seo-tools-privacy.html) for the most accurate reproduction.*
 
 # SEO Tools: Software for Submission, Ranking, and Keyword Density Analysis
 
