@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331182604id_/http%3A//www.pheaa.org/about/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2001-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010805014337id_/http%3A//pheaa.org/Pages/Privacy_Policy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# PHEAA - Privacy Policy
 
   * PHEAA's Commitment To Privacy Protection For Users Of Its Website
   * Notice And Disclosure
@@ -15,11 +12,15 @@
 
 
 
+* * *
+
 **PHEAA's Commitment To Privacy Protection For Users Of Its Website**
 
 The Pennsylvania Higher Education Assistance Agency (PHEAA)1, is committed to preserving the individual privacy rights of all of the users of its websites. PHEAA strongly believes that it has a responsibility to protect from disclosure to unauthorized parties the personally identifying information (name, address, date of birth, social security number, etc.) of its website users. Therefore, PHEAA has adopted and implemented a privacy policy to protect the individually identifying account and personal information of its website users.
 
-Back to Privacy Policy Menu
+top
+
+* * *
 
 **Notice and Disclosure**
 
@@ -46,15 +47,19 @@ Users should be aware that other websites to which a user links from PHEAA's web
 
 PHEAA will closely monitor and restrict its employees' access to user account and personal information to only instances of business necessity.
 
-Back to Privacy Policy Menu
+top
+
+* * *
 
 **Choice And Consent**
 
-PHEAA provides users access on its websites to users' individual account, eligibility for financial aid status, and much more personal user level information. PHEAA fully understands and wishes to fully serve its website users that do not desire to have personally identifying account and status information available on PHEAA's websites. Users may request the deletion of their PHEAA account information available to them on PHEAA's websites by sending an email to [slsccs@pheaa.org](https://web.archive.org/web/20010331182604id_/http%3A//www.pheaa.org/about/mail%20to:%20slsccs@pheaa.org) or call 1-800-233-0557 extension 4500. Upon receipt of an email from a user, PHEAA will remove the user's account information from its websites but will continue to retain all of the information on its computer systems as required by state and federal laws and regulations governing financial aid. 
+PHEAA provides users access on its websites to users' individual account, eligibility for financial aid status, and much more personal user level information. PHEAA fully understands and wishes to fully serve its website users that do not desire to have personally identifying account and status information available on PHEAA's websites. Users may request the deletion of their PHEAA account information available to them on PHEAA's websites by sending an email to [slsccs@pheaa.org](mailto:slsccs@pheaa.org) or call 1-800-233-0557 extension 4500. Upon receipt of an email from a user, PHEAA will remove the user's account information from its websites but will continue to retain all of the information on its computer systems as required by state and federal laws and regulations governing financial aid. 
 
 Unless specifically notified by the user, PHEAA will operate as though the user consents to the user's account information being available on its websites. Please review the sections on data security and PHEAA's privacy commitment for explanations of the security utilized by PHEAA in protecting personal account information from unauthorized disclosure. 
 
-Back to Privacy Policy Menu
+top
+
+* * *
 
 **Data Quality And Access**
 
@@ -62,7 +67,9 @@ PHEAA will take all reasonable steps to assure that information about users is a
 
 When users browse PHEAA's websites and have not registered as a user for any of PHEAA's online services, the browsing is anonymous. Anonymous browsing includes reading pages and downloading certain information. Personal information such as name, address, phone number, and email address are not collected from anonymous browsers.
 
-Back to Privacy Policy Menu
+top
+
+* * *
 
 **Data Security**
 
@@ -76,7 +83,9 @@ For security purposes, PHEAA uses special software programs to monitor traffic o
 
 Please note that when a user sends electronic mail messages (e-mail) to PHEAA, AES, SLSC, or GLC, the user's message will usually contain the user's return email address. Thus, PHEAA may utilize a user's e-mail address in responding to a user's inquiry and the content of the user's e-mail in formulating a response. PHEAA will permanently record and store any substantive e-mail received from users. E-mail is not a secure means of transmitting information. 
 
-Back to Privacy Policy Menu
+top
+
+* * *
 
 **Changes To PHEAA's Privacy Policy**
 
@@ -88,32 +97,26 @@ Date last Modified:
 Section Modified:  
 Description of Modification:
 
-Back to Privacy Policy Menu
+top
+
+* * *
 
 **Contact Information**
 
 Should you have any questions, concerns or desire additional information concerning PHEAA's Website Privacy Policy please contact PHEAA by one of the following means:
-
-E-mail: nettech@pheaa.org
-
-Phone: 1-800-233-0557 ext. 4500
-
-Mail your inquiry to: 
 
 > PHEAA Electronic Commerce Division  
 >  1200 North Seventh Street  
 >  Harrisburg, PA 17102-1444  
 >  Attn: Privacy Officer
 
-Back to Privacy Policy Menu
+top
 
 * * *
 
-1For the purposes of PHEAA's Website Privacy Policy, any reference to PHEAA includes PHEAA and all of its divisions including but not limited to: American Education Services (AES), Student Loan Servicing Center (SLSC) and the GraduateLoan CenterSM(GLC). 
+1 \- For the purposes of PHEAA's Website Privacy Policy, any reference to PHEAA includes PHEAA and all of its divisions including but not limited to: American Education Services (AES), Student Loan Servicing Center (SLSC) and the GraduateLoan CenterSM(GLC). 
 
-2PHEAA is a guarantor, servicer, lender, and secondary market of student loans as well as the state agency responsible for administering the Pennsylvania State Higher Educational Assistance Grant Program and various other state and federal higher education financial aid programs. As such, PHEAA has very different relationships with the users of its websites. It is important to note that PHEAA may be required, dependent upon its relationship with website users, to share information about the users with authorized third parties. 
+2 \- PHEAA is a guarantor, servicer, lender, and secondary market of student loans as well as the state agency responsible for administering the Pennsylvania State Higher Educational Assistance Grant Program and various other state and federal higher education financial aid programs. As such, PHEAA has very different relationships with the users of its websites. It is important to note that PHEAA may be required, dependent upon its relationship with website users, to share information about the users with authorized third parties. 
 
-* * *
-
-Copyright © 2001 PHEAA  
+  
 
