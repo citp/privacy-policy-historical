@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2001-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010822072929id_/http%3A//learning.com/Privacy_Policy/0%2C1502%2C28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403020210id_/http%3A//learning.com/Privacy_Policy/0%2C1791%2C28%2C00.html) for the most accurate reproduction.*
 
 # Learning.com :: Privacy Policy
 
   
-[Return to Home Page](https://web.archive.org/Home/1,1486,0,00.html) |  | **Privacy Policy**
+[Return to Home Page](https://web.archive.org/Home/1,1786,0,FF.html) |  | **Privacy Policy**
 
 PLEASE REVIEW CAREFULLY LEARNING.COM'S USER AGREEMENT AND THIS PRIVACY POLICY, AND THE CHILD PRIVACY POLICY BELOW (IF APPLICABLE), BEFORE USING THIS WEBSITE. 
 
