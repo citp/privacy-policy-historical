@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2002-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021103153847id_/http%3A//www.refdesk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621162842id_/http%3A//www.refdesk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy refdesk.com
 
 _Refdesk's Privacy Policy_
 
-Refdesk is committed to protecting the privacy of site visitors and will NEVER share your E-mail address with any other person or company.
+Refdesk is committed to protecting the privacy of site visitors and will _never_ share your E-mail address with any other person or company.
 
-Refdesk does NOT gather any personal information about our visitors. Refdesk does NOT collect ['cookies'](http://www.howstuffworks.com/cookie.htm)
+Refdesk does _not_ gather any personal information about site visitors. Refdesk does _not_ collect ['cookies'](http://www.howstuffworks.com/cookie.htm). 
 
-Refdesk has one ad atop each page. This ad is served by refdesk's advertising broker, ValueClick. When you respond to an Internet advertisement served by ValueClick, ValueClick collects certain technical data (Type of Browser, Operating System, IP address, domain type, page(s) visited, date and time of when an Internet consumer has responded to an advertisement, etc.). This type of information is defined by the [Network Advertising Initiative](http://www.networkadvertising.org/) as Non-Personally Identifiable Information "ad delivery and reporting data". This means that none of the data can be linked to any individual Internet consumer, and therefore it cannot be used for profiling purposes. 
+Refdesk has one banner-ad atop each page. The text link ads are served by Intermarkets, and the banner ads are served by Fastclick; other advertisers, including ValueClick, may deliver ads in the banner ad space. When you respond to an advertisement, Fastclick or the advertiser may collect certain technical data (type of browser, operating system, IP address, domain type, page(s) visited, date and time of when a user has responded to an advertisement, etc.). This type of information is defined by the [Network Advertising Initiative](http://www.networkadvertising.org/) as Non-Personally Identifiable Information "ad delivery and reporting data". _This means that none of the data can be linked to any individual Internet consumer, and therefore it cannot be used for profiling purposes_. 
 
-For further details on ValueClick, see their [Privacy Statement](http://www.valueclick.com/privacy.html).
+**Privacy Policy Statement:** [Fastclick](http://www.fastclick.com/about/privacy2.html) | [ValueClick](http://www.valueclick.com/privacy.html).
 
-Please note: Refdesk contains links to over 20,000 external Internet sites. Refdesk is not responsible for the privacy practices or the content of these sites.
+**Cookies Opt-Out Procedure:** [Fastclick](http://www.fastclick.com/about/opt-out.html) | [ValueClick](http://www.valueclick.com/perl/optout/do/settarget=_blank).
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Refdesk, please feel free to [ CONTACT REFDESK . ](https://web.archive.org/cgi-bin/feedback.cgi)
+Refdesk contains links to over 20,000 external Internet sites. Refdesk is not responsible for the privacy practices or the content on these sites. For further information, see the [Disclaimer on External Links](https://web.archive.org/web/20030621162842id_/http%3A//www.refdesk.com/disclaim.html).
 
-Thank you for using Refdesk. 
+Refdesk provides [links](https://web.archive.org/web/20030621162842id_/http%3A//www.refdesk.com/anti.html) to ad blocking, E-mail SPAM blocking, and Privacy Monitoring tools. 
+
+If you have any questions, comments, or suggestions about this privacy statement, site practices, or your Refdesk experiences, please [ Contact Refdesk](https://web.archive.org/cgi-bin/feedback.cgi). Your feedback is welcomed and appreciated.
