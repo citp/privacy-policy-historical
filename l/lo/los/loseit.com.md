@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Herbalife customer privacy policy.
 
 |   |  [ ](http://loseit.safeshopper.com/)  
 ---|---  
   |   
-|  [**Product Index**](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/catalog/catalog2.htm)  
+|  [**Product Index**](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/catalog/catalog2.htm)  
 |  [**Shopping Cart**](http://loseit.safeshopper.com/)  
   |   
-| [**Weight Loss Products**](http://www.loseit.com/green.or.gold.html)  
-| [**Health Supplements** ](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/catalog/catalog.htm)  
-| [**Color Cosmetics** ](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/colour-cosmetics.html)  
-| [**Skin Care Products**](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/skin-care-products.html)  
-| [**Healthy Kids Products** ](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/kids-products.html)  
+| [**Weight Loss Products**](https://web.archive.org/web/20021209003705id_/http%3A//green.or.gold.html)  
+| [**Health Supplements** ](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/catalog/catalog.htm)  
+| [**Color Cosmetics** ](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/colour-cosmetics.html)  
+| [**Skin Care Products**](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/skin-care-products.html)  
+| [**Healthy Kids Products** ](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/kids-products.html)  
   |   
-|  [**Success Stories** ](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/success_stories.html)  
-| [**Weight Loss Support** ](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/weight.loss.support/index.html)  
-| [**Weight Loss Articles**](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/weight_loss_free_articles.html)  
-| [ **Customer Guarantee** ](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/customer_guarantee.html)  
-| [**Privacy Statement**](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/privacy_policy.html)  
+|  [**Success Stories** ](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/success_stories.html)  
+| [**Weight Loss Support** ](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/weight.loss.support/index.htm)  
+| [**Weight Loss Articles**](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/weight_loss_free_articles.html)  
+| [ **Customer Guarantee** ](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/customer_guarantee.html)  
+| [**Privacy Statement**](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/privacy_policy.html)  
 | Subscribe to our E-Zine   
-| [**Grade My Service** ](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/customer.service.html)  
+| [**Grade My Service** ](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/customer.service.html)  
 | [**Ask Our Experts**](http://www.herbalife.com/us/LoseWeight/GoodQuestion/Index.asp)  
 | [**Recipes & Food**](http://www.herbalife.com/us/LoseWeight/RecipesFood/Index.asp)  
 | [**Body Mass Calculator**](http://www.herbalife.com/us/LoseWeight/BodyMasCalc/Index.asp)  
 | [**Featured Articles**](http://www.herbalife.com/us/LoseWeight/FeaturedArticles/Index.asp)  
 | [**Buy At Wholesale  
-Prices**](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/c.wholesale.html)  
-| [**Business Opportunity**](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/company/info-p1.html)  
-| [**Business Support**](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/business-support.html)  
-| [**Work At Home Book**](https://web.archive.org/web/20020610063651id_/http%3A//www.loseit.com/freebook.html)  
+Prices**](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/c.wholesale.html)  
+| [**Business Opportunity**](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/company/info-p1.html)  
+| [**Business Support**](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/training/business-support.html)  
+| [**Work At Home Book**](https://web.archive.org/web/20021209003705id_/http%3A//www.loseit.com/freebook.html)  
   
 >   
 >  Herbalife Independent Distributor Privacy Policy
