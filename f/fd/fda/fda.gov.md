@@ -1,48 +1,159 @@
-> *The following text is extracted and transformed from the fda.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602013500id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fda.gov privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008171651id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for the FDA Website
 
-Thank you for visiting the FDA Website. The information we collect about you during your visit depends on what you do while you are on the site.
+## Privacy Statement  
+Links to Other Sites  
+Web Site Content  
+Information Quality  
+Pop-Up Advertisements  
+Intrusion Detection  
+Contact Information
 
-### Information Automatically Collected and Stored
+##   
+Privacy Statement
 
-When you visit any Website, certain personal information about you can be collected automatically. For every visitor, we automatically collect and temporarily store the following information about your computer and your visit:
+**Introduction**
 
-  * Your computer's Internet Protocol (IP) address. (An IP address is a number that is automatically assigned to your computer whenever you go on the Web.) 
-  * The domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain). 
-  * The Internet address of the Website, if any, from which you came to our site (for example, www.hhs.gov if you come to the FDA Website by clicking on an FDA link on the U.S. Department of Health and Human Services' site). 
-  * The date and time you arrived at our site and how long you spent on the site. 
-  * The name and version of your computer's operating system and browser: for example, Windows 95/Netscape Navigator 4.5. (This information is supplied automatically by your computer.) 
-  * Which pages you visited. 
+Thanks for visiting FDA’s website. Our privacy policy outlines the information we learn when you visit our site and how we use this information. 
 
+We receive two types of information when you visit our site:
 
-
-If you just browse through our site, read pages, or download information, that is the only information we collect. We use this information to measure the number of visitors to the different sections of our site and to help us make our site more useful to visitors. For example, we use the browser information to help us design our Website so that as many people as possible will be able to view the pages correctly.
-
-### Personal Information You Choose to Provide
-
-We collect and store no other information about you when you visit our site unless you choose to provide it--for example, if you send us an e-mail or fill out a form on our Website and submit it to us.
-
-  * If you send us an e-mail (for example, through the Contact Us button on the FDA Home Page), we do not automatically receive your e-mail address. Of course, you'll need to provide it to us if you would like an e-mail response. And there is no other personally identifying information that we receive with your e-mail unless you choose to provide it. 
-  * Likewise, if you fill out one of the forms on our Website (for example, the Adverse Reaction Reporting form) and submit it to us, we will receive only the personal information that you include in the form. 
+  * information automatically collected
+  * information you choose to provide
 
 
 
-### Disclosure
+back to top
 
-FDA does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or by statute. We will only use personally identifying information to respond to you or to help us perform our public health duties. In those cases, various people may see the personal information you provide in order to look into the matter you inquired about.
+**Information Automatically Collected**
 
-If enough questions or comments come in that are the same, your question (but not your name) may be added to our Questions and Answers section. We use your suggestions to help us improve the design and content of our Website.
+When you visit a website, certain personal information about you can be collected automatically. When you browse through our site, read pages, or download information, we collect certain information to measure how many visitors come to the different parts of the site so we can make the site more useful. 
 
-We may enter the information you send into an electronic database, to share with our attorneys and investigators involved in law enforcement or policy-making. We may also share it with other government agencies that have public health or consumer protection duties. FDA or any of those agencies may contact you. In other limited circumstances, including requests from Congress or private individuals, we may be required by law to disclose information you submit.
+**Example:** We use browser information to help us design our site so the greatest number of people can view the pages correctly.
 
-Also, e-mail is not necessarily secure against interception. If you are worried because your communication is very sensitive, or includes personal information such as your social security number, you can send it by postal mail instead.
+For every visitor, we collect and temporarily store the following information:
 
-### Intrusion Detection
+  * your computer's Internet Protocol (IP) address, a number automatically assigned to your computer when you go on the Web.
+  * the domain from which you access the Internet   
+**Example:** aol.com, for an America Online account
+  * the website address from which you came to our site  
+**Example:** www.hhs.gov if you came by clicking an FDA link on the U.S. Department of Health and Human Services' site
+  * the date and time you arrived at our site and how long you spent there
+  * the name and version of your computer's operating system and browser   
+**Example:** Windows 2000/Netscape 7.0
+  * the pages you visited. 
 
-Finally, this site is maintained by the U.S. Government and is thus protected by various provisions of Title 18 of the U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
-If you have any questions or comments about privacy and the FDA Website, please let us know by calling us at 1-888-INFO-FDA (1-888-463-6332), sending us a fax at 301-827-1682, writing to us at: FDA (HFI-50), Rockville, MD 20857, or using our [on-line comment form](https://web.archive.org/web/20030602013500id_/http%3A//www.fda.gov/comments/webform.html).
 
-Thank you.  
+**"Session Cookies"**
+
+Some services on our website use "session cookies." These are:
+
+  * small bits of text temporarily stored in your computer
+  * used to aid searching and navigating the site 
+  * deleted when you close your browser.
+
+
+
+**Note:** If you disable cookies in your browser, it may cause problems with searching and displaying information.
+
+back to top
+
+**Information You Choose to Provide**
+
+We collect and store no other information about you when you visit our site unless you choose to provide it. For example:
+
+  * If you send us an e-mail or submit an online form, we do not automatically receive your e-mail address. However, you will need to provide it to us if you would like an e-mail response. We will receive no other personally identifying information from your e-mail unless you provide it.
+  * If you submit a form on our website, we will receive only the personal information you include in the form.
+  * Children's Privacy: We collect no information from children under 13. If a child sends us an e-mail inquiry or comment, we will answer it, then delete the e-mail from our files.
+
+
+
+back to top
+
+**FDA Information Disclosure Policy**
+
+FDA will not disclose, give, sell, or transfer any personal information about our visitors unless it is required:
+
+  * by law
+  * for law enforcement reasons. 
+
+
+
+Other possible uses of your information:
+
+  * We will only use personal identifying information to respond to you, in which case various people may need to see the information you provide in order to provide a response to you.
+  * If enough questions or comments come in that are the same, your question (but not your name) may be added to our Questions and Answers section. We use this information to help us improve our site.
+  * We may enter information you send into an electronic database to share with attorneys or investigators involved in law enforcement or policy-making. 
+  * We may share information with other government agencies that have public health or consumer protection duties, in which case FDA or any of those agencies may contact you.
+  * In other limited circumstances, including requests from Congress or private individuals, we may be required by law to disclose information you submit.
+
+
+
+**Note:** E-mail is not necessarily secure against interception. If your communication is sensitive, or if it includes personal information such as your social security number, you can send it by postal mail instead.
+
+back to top
+
+## Links to Other Sites
+
+Our website has links to many other federal agencies, and, in a few cases, to private organizations, foreign governments and international organizations. You should be aware that:
+
+  * If you access another site through a link we provide, you are subject to the privacy policy of that site.
+  * Reference in this referred website to commercial products, services, manufacturers, or companies does not constitute an endorsement by the U.S. government, the Department of Health and Human Services, or FDA.
+  * FDA is not responsible for the contents of any pages referred from its website.
+
+
+
+back to top
+
+## **Web Site Content**
+
+The health and medical information on our website is not intended to take the place of advice or treatment from healthcare professionals. It is also not intended to substitute for the users' relationships with their own health care/pharmaceutical providers. 
+
+The _[Code of Federal Regulations](http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm)_ is the authoritative source for FDA regulations. 
+
+back to top
+
+## **Information Quality**
+
+FDA is dedicated to:
+
+  * ensuring that all information it publishes reflects a level of quality corresponding to the nature and timeliness of the information
+  * disseminating all its data as broadly and promptly as possible so that the public can benefit from FDA's mission to promote and protect the public health. 
+
+
+
+**Note:** In keeping with this commitment and in accordance with Public Law 106-554 and Office of Management and Budget requirements, HHS and FDA have developed information quality guidelines establishing quality assurance policies, standards, and processes. 
+
+The HHS guidelines are available at <http://www.hhs.gov/infoquality/>. The FDA guidelines are at <http://www.hhs.gov/infoquality/fda.html>.
+
+back to top
+
+## **Pop-Up Advertisements**
+
+When visiting our website, your Web browser may produce pop-up advertisements. These advertisements were most likely produced by other websites you visited or by third-party software installed on your computer. FDA doesn’t produce pop-up ads and doesn’t endorse or recommend products or services for which you may view a pop-up ad on your computer screen while visiting our site.
+
+back to top
+
+## **Intrusion Detection**
+
+This site is maintained by the U.S. government and protected by various provisions of Title 18 of the U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. 
+
+For site security purposes and to ensure that the site remains available to all users, we employ software programs that monitor traffic and identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
+
+back to top
+
+## **Contact Information**
+
+If you have any questions or comments about the FDA website, you can contact us by:
+
+  * calling 1-888-INFO-FDA (1-888-463-6332)
+  * sending a fax to 301-827-1682
+  * writing to: FDA (HFI-50), Rockville, MD 20857
+  * using our [on-line comment form](https://web.archive.org/comments/webform.html).
+
+
+
+back to top  
 
