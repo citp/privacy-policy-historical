@@ -1,38 +1,73 @@
-> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 1999-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990508054941id_/http%3A//www.forbes.com/tool/html/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620162438id_/http%3A//www.forbes.com/tool/html/privacy_state.htm) for the most accurate reproduction.*
 
-# FORBES ONLINE PRIVACY POLICY<
+# FORBES ONLINE PRIVACY POLICY
 
-  
+|  FORBES.COM PRIVACY STATEMENT
+
+_Revised and posted as of: June 5, 2000_
+
+Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com Web site. The Forbes.com Web site is owned and operated by Forbes.com Inc. 
+
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.com](mailto:privacy@forbes.com). 
+
+**Gathering of Information**
+
+_Voluntary Submission_
+
+Forbes.com does not collect personally identifying information about any individual Forbes.com Web site user except when knowingly provided by such individual. For example, we may ask you for information when you register for a contest or survey or to receive a newsletter. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of the Forbes.com Web site, but you may be unable to access certain options and services. 
+
+_Cookies_
+
+A cookie is a data file that certain Web sites write to your computer's hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited. Forbes.com uses cookies solely to track user traffic patterns throughout the Forbes.com Web site. We use this data on an anonymous basis and we do not correlate this information with personal data of any user. 
+
+Most Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our Web site, you may not be able to use certain features of the site. 
+
+_Browser Level Information_
+
+Forbes.com Web servers automatically collect information about a site user's **IP address**, **browser type** and **referrer** by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used--in an aggregated, anonymous manner--in our internal analysis of traffic patterns within our Web site. This information is automatically logged by most Web sites. 
+
+**Use of Information**
+
+Our primary goal in collecting user information is to enhance your experience on our Web site. We achieve this goal by, among other things, providing interactive communications such as our electronic newsletters to the e-mail address that you provide to us, and developing future editorial content based on your interests. To develop content targeted to your interests, we use aggregated user information to determine which areas of our Web site users prefer based upon traffic to those areas. We do not track what individual users read, but instead how well each page or content area performs overall. 
+
+Forbes.com is a free Web site and we derive revenues from advertising. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. This is essential to keeping our service free of charge to our users. We do not disclose personally identifying information about our users to these parties. 
+
+Forbes.com may also disclose information about our users when we believe, in good faith, that the disclosure is required by law. 
+
+When you are on an area of Forbes.com and are asked for personal information, you are sharing that information with Forbes.com as well as business partners and vendors providing hosting and other services for Forbes.com. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service. These parties, as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies. 
+
+In addition, any personally identifiable information provided by our users as part of an advertiser promotion online may be provided directly to advertisers. 
+
+Please be aware that Forbes.com sponsors, advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those parties and Web sites linked to Forbes.com are not covered by this privacy statement. Forbes.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. 
+
+**Kids under 13:** Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible. 
+
+**How to Contact Us**
+
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.com](mailto:%20privacy@forbes.com). 
+
+This statement may change from time to time, so please check back periodically. 
+
+© 2000 Forbes.com Inc. All Rights Reserved. 
+
+**DEFINITIONS:**  
 
 
-**FORBES ONLINE PRIVACY POLICY**
+**IP address:**  
+Every computer connected to the Internet has a numeric address called an ìIP address." This may or may not correspond uniquely to a particular computer. In some cases, IP addresses can be resolved to domain names, which may indicate a site visitor's Internet service provider, employer, university, etc. As part of its database analysis Forbes.com resolves IP addresses to domain names. 
 
-The policies below are applicable to Forbes.com, which is owned and operated by Forbes.com Inc. 
+**Browser type:**  
+A userís browser is a software program running on a computer that allows users to access documents on the World Wide Web. Browsers can be either text or graphic. They read HTML coded pages that reside on a server and interpret the coding into what the user sees as Web pages. Netscape Navigator and Microsoft Internet Explorer are examples of Web browsers. Browser type typically discloses hardware platform, operating system, and browser software and version. 
 
-As a general policy, no personal information is automatically collected from visitors to the Forbes site, nor is so-called cookie technology used to collect personally identifying information by the sites created by Forbes.com Inc. 
+**Referrer:**  
+The referrer is the URI of the Internet resource or page that causes a browser to request a page or image from Forbes.com servers. 
 
-However, certain non-personal information of visitors is recorded by the standard operation of Forbes Online's Internet servers. This information is primarily used to provide an enhanced online experience for the visitor. Information tracked includes the type of browser being used by the visitor (e.g., Netscape, Internet Explorer), the type of operating system (e.g., Macintosh, Windows) in use by the visitor and the domain name of the visitor's Internet service provider (e.g., America Online, Earthlink). By having this information, web pages optimized for a particular visitor's computer are automatically available to that visitor. Other uses of this information include internal review of the number of visitors to the sites but only in an aggregate and non-personally identifiable form. E-mail addresses and other personally identifiable data about visitors to this site are known to Forbes Digital Media only when voluntarily submitted. 
+* * *
 
-Forbes Online will only collect personally identifying information with prior notification of its users. Cases may include but are not limited to the following: (i) contest or sweepstakes registration and (ii) subscription. In addition, information is collected in certain portions of sites in which guests specifically and knowingly provide such information along with content submissions, community postings (i.e., forums), suggestions, or reader service responses. Forbes Online may use such information for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event Forbes Online plans to post any such information on a site, guests are provided prior notification of such posting. 
+[Home](https://web.archive.org/)  ·  [Sitemap](https://web.archive.org/tool/html/sitemap.htm)  ·  [Search](http://www.forbesfinder.com/)  ·  [Contact Us](https://web.archive.org/contact/)  ·  [Reprints / Permissions](http://www.forbes.com/reprints)
 
-**Use of Cookies**
+[Advertisers' Directory](https://web.archive.org/webdir/)  ·  [Ad Information](http://www.forbes.com/adbanners/mediajump)
 
-What are cookies? Cookies are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your passwords, purchases, and preferences while you're at our site. The use of cookies is an industry standard--you'll find them at most major web sites. 
+™ © 2000 Forbes.com  [Terms, Conditions and Notices](https://web.archive.org/tool/html/legal_disclaimer.htm)
 
-By showing how and when guests use the site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. If you accept the first tracking cookie from Forbes.com, you won't be offered as many afterwards. 
-
-Examples of How Forbes.com Uses Cookies: 
-
-• A cookie lets the computers remember that you've registered, which allows us to speed up your future activities at our sites. 
-
-How Forbes.com Does Not Use Cookies: 
-
-• Forbes.com never uses cookies to retrieve information from your computer that was not originally sent in a cookie.   
-• Except as described below, Forbes.com does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever.   
-• Forbes.com does not use cookies to identify specific individuals, except in such cases as contest registration (where a cookie allows to you to enter a contest every day without registering again each time) and personalization features where a guest requests certain information. 
-
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site will not function properly if you do so. 
-
-By using this site, you signify your assent to the Forbes Online Privacy Policy. FORBES reserves the right to make changes to privacy statement at its sole discretion without notice to the User. 
-
-© Forbes Inc. All rights reserved. 
+[Privacy Statement](https://web.archive.org/tool/html/privacy_state.htm)
