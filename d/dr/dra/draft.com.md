@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2001-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011206001127id_/http%3A//draft.com/privstmt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004161729id_/http%3A//draft.com/privstmt.html) for the most accurate reproduction.*
 
 # Your.com - Your license to find anything on the web
 
@@ -32,4 +32,4 @@ P.O. Box 750237
 Duncan, OK 73575   
 help@Your.com 
 
-[PLEASE REVIEW OUR USER AGREEMENT.](https://web.archive.org/web/20011206001127id_/http%3A//draft.com/useragmt.html)
+[PLEASE REVIEW OUR USER AGREEMENT.](https://web.archive.org/web/20021004161729id_/http%3A//draft.com/useragmt.html)
