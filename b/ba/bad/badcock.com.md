@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the badcock.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401225313id_/http%3A//www.badcock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badcock.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206172702id_/http%3A//www.badcock.com/general/privacy.jsp) for the most accurate reproduction.*
 
-# Badcock Furniture
+# 
 
 **W.S. Badcock Corporation Privacy Policy**
 
@@ -14,9 +14,9 @@ Badcock is committed to the security of customer information. All Badcock employ
 
 **We collect only information that is needed to serve you and administer our business.**
 
-In the process of serving you, we become aware of certain "nonpublic personal information"  information about you that is not available publicly. This information comes to us from a variety of sources including:   
-· Information you provide directly to us on applications or otherwise (such as Social Security number, assets and income).   
-· Information related to your transactions with us, or others (such as your account balance, payment history, parties to transactions and account usage).   
+In the process of serving you, we become aware of certain "nonpublic personal information" information about you that is not available publicly. This information comes to us from a variety of sources including:   
+Information you provide directly to us on applications or otherwise (such as Social Security number, assets and income).   
+Information related to your transactions with us, or others (such as your account balance, payment history, parties to transactions and account usage).   
 · Information we receive about your transactions with nonaffiliated third parties.   
 · Information that we receive from a consumer reporting agency. 
 
@@ -45,12 +45,12 @@ Badcock is equally committed to protecting the privacy of customer information o
 
 **We encourage you to partner with us in safeguarding your information.**
 
-Badcock's commitment to protecting your customer information is a company-wide priority that shapes our daily actions. We encourage you to be just as diligent as you follow steps to protect against unauthorized access to information. This Privacy Policy and our practices are subject to change. As significant changes occur, we will update this policy, and we will let you know about them.
+Badcock's commitment to protecting your customer information is a company-wide priority that shapes our daily actions. We encourage you to be just as diligent as you follow steps to protect against unauthorized access to information. This Privacy Policy and our practices are subject to change. As significant changes occur, we will update this policy, and we will let you know about them. 
 
-**Badcock's use of Cookies**   
+**Badcock's use of Cookies**
 
 Cookies are pieces of information that some web sites transfer to the computer that is browsing that web site ("Cookies"), and are used for record-keeping purposes at many web sites. Use of Cookies makes web-surfing easier by performing certain functions such as saving your site passwords, lists of potential purchases, and your personal preferences regarding your use of the particular web site. Many consider the use of Cookies to be an industry standard. Badcock uses Cookies on its web site. Your browser is probably set to accept Cookies. However, if you would prefer not to receive Cookies, you can alter the configuration of your browser to refuse Cookies. If you choose to have your browser refuse Cookies, it is possible that some areas of our site will not function properly when you view them.
 
 Badcock reserves the right to change this policy at any time by posting a new privacy policy at this location. You can send e-mail to us with any further questions at customer.service@badcock.com.
 
-Copyright © 2001, W.S. Badcock Corporation. All rights reserved.
+**Copyright © 2001, W.S. Badcock Corporation. All rights reserved**
