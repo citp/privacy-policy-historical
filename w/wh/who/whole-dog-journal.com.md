@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whole-dog-journal.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208030247id_/http%3A//www.belvoir.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whole-dog-journal.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405205421id_/http%3A//www.belvoir.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
