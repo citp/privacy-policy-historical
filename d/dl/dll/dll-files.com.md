@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205221424id_/http%3A//www.dll-files.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416004054id_/http%3A//dll-files.com/privacy.shtml) for the most accurate reproduction.*
 
 # www.dll-files.com - Privacy Policy
 
@@ -14,7 +14,7 @@
 
 This is the web site of **www.dll-files.com**.
 
-To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20021205221424id_/http%3A//www.dll-files.com/contact.shtml)
+To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20030416004054id_/http%3A//dll-files.com/contact.shtml)
 
 For each visitor to our Web page, our Web server automatically recognizes the following:
 
@@ -26,7 +26,7 @@ With respect to cookies: We do not set any cookies.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20021205221424id_/http%3A//www.dll-files.com/contact.shtml).
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20030416004054id_/http%3A//dll-files.com/contact.shtml).
 
 From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
@@ -43,4 +43,5 @@ If you feel that this site is not following its stated information policy, you m
 * * *
 
   
-Några ord från våra sponsorer/Some words from our sponsors 
+Some words from our sponsors  
+[](http://dbbsrv.com/refer/11607/10001821)
