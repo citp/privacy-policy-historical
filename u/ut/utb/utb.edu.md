@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utb.edu privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611221751id_/http%3A//www.utbtsc.edu/web/web-privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utb.edu privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205103013id_/http%3A//www.utbtsc.edu/web/web-privacy-statement.htm) for the most accurate reproduction.*
 
 # UTB Web Privacy Act
 
