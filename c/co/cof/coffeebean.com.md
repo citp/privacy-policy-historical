@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209025716id_/http%3A//coffeebean.com/00_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621110920id_/http%3A//www.coffeebean.com/00_privacy.asp) for the most accurate reproduction.*
 
 # Coffee Bean: Privacy Statement
 
+Privacy Statement   
   
 We respect your privacy.
 
@@ -11,7 +12,7 @@ The Coffee Bean does not sell, rent or give away our customer's personal informa
 
 We gather customers' personal information only so that we may better develop our relationships with customers and for internal processing purposes only. Our customer database will be used to determine customer tastes and preferences so that we may issue updates of our product lists, inform our customers of special services or bargains and generally maintain a positive relationship with our customers. Accordingly, a customer may be asked to provide such personal information, which includes occupation, hobbies and other such information. Should you choose to provide us with this information, it will simply help us offer products and services that we think you may be interested in.
 
-  
+Security  
   
 At The Coffee Bean, we recognize that security and privacy are of the utmost importance in an online shopping experience. We have devoted a great deal of effort to ensure that your personal information is safeguarded while you shop at coffeebean.com. 
 
@@ -22,3 +23,6 @@ Critically sensitive information - such as your credit card number.
 Positive Identification - coffeebean.com is registered with site identification authorities to enable your internet browser to confirm the identity of coffeebean.com before any online transmissions are sent.
 
 With this technology, the identity of our site is automatically confirmed behind the scenes prior to the transmission of any customer information required to complete and online order. 
+
+  
+
