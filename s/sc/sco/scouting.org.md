@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203175137id_/http%3A//www.scouting.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618033153id_/http%3A//www.scouting.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.scouting.org
 
@@ -40,7 +40,9 @@ In most cases, personally identifiable information is not maintained. Once it ha
 
 ## How does the BSA comply with the Children's Online Privacy Protection Act (COPPA) of 1998?
 
-The Boy Scouts of America does not use its Web site to collect any personally identifiable information from children under 13 years of age. Any interface that requests personally identifiable information that appears on an interface that can be expected to be viewed by children under 13 years of age is accompanied by a notice that submissions cannot be accepted from users under 13 years of age. Where "age" or "date of birth" is requested, no information will be stored or transmitted unless the response indicates that the user is 13 years of age or older.
+This legislation applies only to Web sites of a commercial nature. However, the Boy Scouts of America considers it to provide sound advice for any Web site that is intended for use by children.
+
+Therefore, the Boy Scouts of America does not use its Web site to collect any personally identifiable information from children under 13 years of age. Any input form that requests personally identifiable information that appears on an interface that is expected to be viewed by children under 13 years of age is accompanied by a notice that submissions cannot be accepted from users under 13 years of age. Where "age" or "date of birth" is requested, no information will be stored or transmitted unless the response indicates that the user is 13 years of age or older.
 
 Providing personal information is _never_ a prerequisite for accessing any of the content or resources on this Web site. Specifically, refusal to provide personal information via a Web interface will never result in a user being denied access to any on-line content or resource he would be able to access were the information submitted.
 
