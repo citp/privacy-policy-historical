@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601145141id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009225927id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.*
 
 # Wegmans: Privacy Policy
 
@@ -75,6 +75,6 @@ We may release customer information when we believe it is necessary to comply wi
 
 * * *
 
-> Everyone! All of the content contained on wegmans.com is suitable for people of all ages. We even have a [section](http://www.wegmans.com/family/kids/index.asp) for the kids to play in. 
+> Everyone! All of the content contained on wegmans.com is suitable for people of all ages. 
 
 _Privacy Policy last updated January 5, 2001_
