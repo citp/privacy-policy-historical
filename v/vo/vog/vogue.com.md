@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vogue.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603031955id_/http%3A//www.style.com/services/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vogue.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217222454id_/http%3A//www.style.com/services/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # STYLE.COM: PRIVACY POLICY
 
-In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20010603031955id_/http%3A//www.style.com/services/legal/user_agreement.html). Your use of STYLE.com (including Vogue.com and Wmagazine.com) constitutes agreement to its terms and conditions.
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20011217222454id_/http%3A//www.style.com/services/legal/user_agreement.html). Your use of STYLE.com (including Vogue.com and Wmagazine.com) constitutes agreement to its terms and conditions.
 
 STYLE.com is produced by CondéNet. This policy does not cover information collected on sites linked to from STYLE.com.
 
