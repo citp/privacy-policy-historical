@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gnld.com privacy policy that was archived on 2003-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030809211003id_/http%3A//www.gnld.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnld.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619155135id_/http%3A//www.gnld.com/privacy.aspx) for the most accurate reproduction.*
 
-# GNLD: A better way of life
+# GNLD Privacy Policy
 
 **Privacy Policy**
 
@@ -42,8 +42,9 @@ In the event that GNLD conducts online surveys, we may ask you to voluntarily pr
 GNLD may provide links to other websites that we believe are useful. Though we believe these sites meet our high standards, GNLD is not responsible for the content, actions or policies of third party websites. Additionally, GNLD is not responsible for the privacy notices or practices of such websites. 
 
 **Cookies**  
-Cookies are small pieces of information that are stored on computer hard drives. We may use cookies to recognize you when you return to the GNLD website in order to provide you with a better user experience. Our cookies do not contain any personal information such as social security or credit card numbers. GNLD’s use of Cookies allows you to use password-protected services in a single session without having to re-enter your password and to track your shopping cart status. GNLD’s use of Cookies also includes determination of which areas of our site are popular and to determine which region, content and language are appropriate.  
-Security  
+Cookies are small pieces of information that are stored on computer hard drives. We may use cookies to recognize you when you return to the GNLD website in order to provide you with a better user experience. Our cookies do not contain any personal information such as social security or credit card numbers. GNLD’s use of Cookies allows you to use password-protected services in a single session without having to re-enter your password and to track your shopping cart status. GNLD’s use of Cookies also includes determination of which areas of our site are popular and to determine which region, content and language are appropriate.
+
+**Security**  
 GNLD has security measures in place to protect against the loss, misuse and alteration of the information you provide. When you place an order or give GNLD personal information you are automatically on our secure server. 
 
 **Access to Personal Information**  
@@ -51,4 +52,4 @@ You have the right to request and obtain the personal information GNLD has on fi
 
 GNLD Headquarters  
 P.O. Box 5012  
-Fremont, Ca 94537 
+Fremont, CA 94537-5012
