@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021050131id_/http%3A//kfoxtv.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604055949id_/http%3A//kfoxtv.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
 
 # KFOXTV.com - Privacy Policy
 
   
 **Privacy Policy**
 
-Privacy Policy KFOX-TV respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by KTVU Partnership, d/b/a KFOX-TV ("KFOX-TV"), and its subsidiaries ("we" or "us"). Please read this Privacy Policy carefully so that you understand our privacy practices. By visiting any of our sites, you agree that your visit, and any dispute over our privacy practices, is governed by this Privacy Policy and our Visitor Agreement. 
+Privacy Policy KFOX-TV respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by KTVU Partnership, d/b/a KFOX-TV ("KFOX-TV"), and its subsidiaries ("we" or "us"). Please read this Privacy Policy carefully so that you understand our privacy practices. By visiting any of our sites, you agree that your visit, and any dispute over our privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Note that this policy applies solely to information collected through this website. KFOX-TV activities which may involve collection and use of information other than through this website (including, without limitation, direct mail, telephone and live events) are not subject to this policy. 
 
 Questions regarding privacy issues should be directed to: 
 
