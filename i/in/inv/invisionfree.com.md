@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the invisionfree.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603173724id_/http%3A//invisionfree.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionfree.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208184226id_/http%3A//invisionfree.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# InvisionFree - Choose Freedom
-
- [Home](http://invisionfree.com/index.php) | [Register](http://invisionfree.com/register.php) | [Features](http://invisionfree.com/index.php?p=features) | [FAQ](http://invisionfree.com/index.php?p=faq) | [Support](http://invisionfree.com/forum/index.php) | [Board Directory](http://invisionfree.com/directory.php)  
-|  | 
+# InvisionFree
 
 **InvisionFree Privacy Policy:**  
 Your privacy is of the utmost importance to InvisionFree. We have limited the ammount and type of personal information that we need from you. We wish for you to be fully informed of how your information is gathered and used. 
@@ -23,13 +20,10 @@ InvisionFree uses third-party advertising companies to serve ads when you visit 
 
   * [FocusIn](http://joetec.net/pri.html)
   * [JoeTec](http://focusin.com/privacy.htm)
+  * [Google](http://www.google.com/privacy.html)
 
 
 
 Note: By signing up with InvisionFree, you agree to the terms of the following advertisers listed above in addition to the terms of InvisionFree's policy.   
 **7\. Modifications to our Policy:**  
-InvisionFree may update and revise this privacy policy. We will inform users of any changes.
-
-|   
----|---  
-© 2003 InvisionFree
+InvisionFree may update and revise this privacy policy. We will inform users of any changes. 
