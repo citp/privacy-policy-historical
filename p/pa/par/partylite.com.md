@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209111702id_/http%3A//www.partylite.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185549id_/http%3A//www.partylite.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,6 +59,6 @@ ww_left_banner_include |  |  |
 > 
 > **Contacting Us**
 > 
-> If you have any questions about this privacy statement, the practices of our web sites, or your dealings with us, please email [contactus@partylite.com](mailto:contactus@partylite.com). 
+> If you have any questions about this privacy statement, the practices of our web sites, or your dealings with us, please email [contactus@partylite.com](mailto:customerserviceus@partylite.com). 
 > 
-> [Back](https://web.archive.org/Ww_home.asp)
+> [Back](https://web.archive.org/newpartylite_com/Ww_home.asp)
