@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeforums.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401142237id_/http%3A//freeforums.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeforums.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604055956id_/http%3A//www2.freeforums.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Web Host Directory: The best free source of web hosting services in a searchable web host directory. Powerful web host search engines, reviewed web hosts, awards, news and much more!
 
@@ -45,5 +45,3 @@ Web Host Directory reserves the right to update this privacy policy from time to
 **How to contact us?**
 
 If you have any questions about this privacy policy or the practices of this website, you may request more information by submitting the [contact us](https://web.archive.org/contact/general.asp) form. 
-
-WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm). 
