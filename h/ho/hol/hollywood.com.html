@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the hollywood.com privacy policy that was archived on 2000-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001207052700id_/http%3A//www.hollywood.com/abouthol/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hollywood.com privacy policy that was archived on 2001-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010406203724id_/http%3A//www.hollywood.com/abouthol/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 
 
-<title>Hollywood.com - Isn't It Time You Went Hollywood!</title>
+<title>Hollywood.com - Your entertainment source for movies, movie showtimes, movie reviews, television and celebrity news.!</title>
 
 <meta name="description" content="Hollywood.com - Isn't it time you went Hollywood!">
 
@@ -36,150 +36,7 @@
 </script><link rel="stylesheet" type="text/css" href="/css/hollywood.css" title="master">
 
 
-<!--test for browser part 2-->
-<script language="JavaScript" src="/scripts/browsercheck.js"></script>
 
-<script language="JavaScript" type="text/javascript">
-    // convert all characters to lowercase to simplify testing
-    var agt=navigator.userAgent.toLowerCase();
-
-    // *** BROWSER VERSION ***
-    // Note: On IE5, these return 4, so use is.ie5up to detect IE5.
-    var is_major = parseInt(navigator.appVersion);
-    var is_minor = parseFloat(navigator.appVersion);
-
-    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
-                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
-                && (agt.indexOf('webtv')==-1));
-    var is_nav2 = (is_nav && (is_major == 2));
-    var is_nav3 = (is_nav && (is_major == 3));
-    var is_nav4 = (is_nav && (is_major == 4));
-    var is_nav4up = (is_nav && (is_major >= 4));
-    var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) ||
-                          (agt.indexOf("; nav") != -1)) );
-    var is_nav5 = (is_nav && (is_major == 5));
-    var is_nav5up = (is_nav && (is_major >= 5));
-
-    var is_ie   = (agt.indexOf("msie") != -1);
-    var is_ie3  = (is_ie && (is_major < 4));
-    var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) );
-    var is_ie4up  = (is_ie  && (is_major >= 4));
-    var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
-    var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4);
-
-    var is_aol   = (agt.indexOf("aol") != -1);
-    var is_aol3  = (is_aol && is_ie3);
-    var is_aol4  = (is_aol && is_ie4);
-
-    var is_opera = (agt.indexOf("opera") != -1);
-    var is_webtv = (agt.indexOf("webtv") != -1);
-
-    // *** PLATFORM ***
-    var is_win   = ( (agt.indexOf("win")!=-1) || (agt.indexOf("16bit")!=-1) );
-    // NOTE: On Opera 3.0, the userAgent string includes "Windows 95/NT4" on all
-    //        Win32, so you can't distinguish between Win95 and WinNT.
-    var is_win95 = ((agt.indexOf("win95")!=-1) || (agt.indexOf("windows 95")!=-1));
-
-    // is this a 16 bit compiled version?
-    var is_win16 = ((agt.indexOf("win16")!=-1) || 
-               (agt.indexOf("16bit")!=-1) || (agt.indexOf("windows 3.1")!=-1) || 
-               (agt.indexOf("windows 16-bit")!=-1) );  
-
-    var is_win31 = ((agt.indexOf("windows 3.1")!=-1) || (agt.indexOf("win16")!=-1) ||
-                    (agt.indexOf("windows 16-bit")!=-1));
-
-    // NOTE: Reliable detection of Win98 may not be possible. It appears that:
-    //       - On Nav 4.x and before you'll get plain "Windows" in userAgent.
-    //       - On Mercury client, the 32-bit version will return "Win98", but
-    //         the 16-bit version running on Win98 will still return "Win95".
-    var is_win98 = ((agt.indexOf("win98")!=-1) || (agt.indexOf("windows 98")!=-1));
-    var is_winnt = ((agt.indexOf("winnt")!=-1) || (agt.indexOf("windows nt")!=-1));
-    var is_win32 = (is_win95 || is_winnt || is_win98 || 
-                    ((is_major >= 4) && (navigator.platform == "Win32")) ||
-                    (agt.indexOf("win32")!=-1) || (agt.indexOf("32bit")!=-1));
-
-    var is_os2   = ((agt.indexOf("os/2")!=-1) || 
-                    (navigator.appVersion.indexOf("OS/2")!=-1) ||   
-                    (agt.indexOf("ibm-webexplorer")!=-1));
-
-    var is_mac    = (agt.indexOf("mac")!=-1);
-    var is_mac68k = (is_mac && ((agt.indexOf("68k")!=-1) || 
-                               (agt.indexOf("68000")!=-1)));
-    var is_macppc = (is_mac && ((agt.indexOf("ppc")!=-1) || 
-                                (agt.indexOf("powerpc")!=-1)));
-
-	var isMenu = ((is_ie4up && !is_mac) || (is_nav4up && is_minor>4.05));
-   NS4 = (document.layers);
-   IE4 = (document.all);
-  ver4 = (NS4 || IE4);   
- isMac = (navigator.appVersion.indexOf("Mac") != -1);
-    
-    function popUp(){return};
-    function popDown(){return};
-    function startIt(){return}
-    if (!ver4) event = null;
-</script>
-
-<!-- start scripts for dropdown menus -->
-
-<script language="JavaScript">
-<!--
-//     NS4 = (document.layers);
-//     IE4 = (document.all);
-//   ver4 = (NS4 || IE4);
-//   isMac = (navigator.appVersion.indexOf("Mac") != -1);
- // isMenu = (NS4 || (IE4 && !isMac));
- // function popUp(){return};
- // function popDown(){return};
- // function startIt(){return};
-//  if (!ver4) event = null;
-
-  if (isMenu) {
-menuVersion = 3;
-menuWidth = 120;
-borWid = 1;
-borSty = "solid";
-borCol = "#003366";
-separator = 1;
-separatorCol = "#000066";
-fntFam = "verdana";
-fntBold = true;
-fntItal = false;
-fntSiz = 7;
-fntCol = "#003366";
-overFnt = "#FFFFCC";
-itemPad = 2;
-backCol = "#6699CC";
-overCol = "#003366";
-imgSrc = "/images/template/tri.gif";
-imgSiz = 10;
-
-childOffset = null;
-childOverlap = -3;
-perCentOver = null;
-
-clickStart = false;
-clickKill = false;
-secondsVisible = 0.1;
-
-keepHilite = true;
-NSfontOver = true;
-
-isFrames = false;
-navFrLoc = "top";
-mainFrName = "main";
-showVisited = "";
-  }
-//-->
-</script>
-
-
-
-
-<script language="JavaScript1.2" src="/scripts/hierArrays.js"></script>
-
-
-<script language="JavaScript1.2" src="/scripts/hierMenus.js"></script>
 
 
 <script language="JavaScript">
@@ -205,25 +62,28 @@ if (NS4) onresize = reDo;
 
 
 
-<body bgcolor="#FFFFFF" background="/images/template/bg_grey.gif" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" text="#000000" link="#990000" vlink="#990000" alink="#999999">
+<body bgcolor="#FFFFFF" background="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/bg_grey.gif" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" text="#000000" link="#990000" vlink="#990000" alink="#999999">
+
+
+
 
 <!-- Begin logo and ad table -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 
 <tbody><tr>
-<td width="233" valign="MIDDLE" bgcolor="#306898" background="/images/template/stripe_bg.gif"><a href="/" target="_top"><img src="/images/template/hollywoodlogo_sm.jpg" border="0" alt="Hollywood.com" title="Hollywood.com" target="_top" width="233" height="78" vspace="0" hspace="0"></a></td>
+<td width="233" valign="MIDDLE" bgcolor="#306898" background="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/stripe_bg.gif"><a href="/" target="_top"><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/hollywoodlogo_sm.jpg" border="0" alt="Hollywood.com" title="Hollywood.com" target="_top" width="233" height="78" vspace="0" hspace="0"></a></td>
 
-<td width="21" valign="BOTTOM" bgcolor="#306898" background="/images/template/stripe_bg.gif"><img src="/images/spacer.gif" width="21" height="8" border="0" vspace="0" hspace="0"></td>
+<td width="21" valign="BOTTOM" bgcolor="#306898" background="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/stripe_bg.gif"><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/spacer.gif" width="21" height="8" border="0" vspace="0" hspace="0"></td>
 
 <!-- top ad cell -->
-<td bgcolor="#306898" background="/images/template/stripe_bg.gif"><script language="javascript">
+<td bgcolor="#306898" background="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/stripe_bg.gif"><script language="javascript">
 	document.write ('<NOLAYER>');
 
-	document.write ('<IFRAME SRC="http://ad.doubleclick.net/adi/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200012702629?" width="468" height="60" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"><A HREF="http://ad.doubleclick.net/jump/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200012702629?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200012702629?" border=0 height="60" width="468"></A></IFRAME>');
+	document.write ('<IFRAME SRC="http://ad.doubleclick.net/adi/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200146163518?" width="468" height="60" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"><A HREF="http://ad.doubleclick.net/jump/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200146163518?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200146163518?" border=0 height="60" width="468"></A></IFRAME>');
 
 	document.write ('</NOLAYER>');
 	document.write ('<ILAYER id="layer1" visibility="hidden" width=468 height=60></ILAYER>');
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200012702629?" width="468" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200012702629?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200012702629?" border=0 height="60" width="468"></A></iframe></nolayer><ilayer id="layer1" visibility="hidden" width="468" height="60"></ilayer>
+</script><nolayer><iframe src="http://ad.doubleclick.net/adi/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200146163518?" width="468" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200146163518?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200146163518?" border=0 height="60" width="468"></A></iframe></nolayer><ilayer id="layer1" visibility="hidden" width="468" height="60"></ilayer>
 
 
 </td>
@@ -236,9 +96,14 @@ if (NS4) onresize = reDo;
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#6699CC">
 <tbody><tr><td colspan="2" height="1" bgcolor="#003366"><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/spacer.gif" width="1" height="1"></td></tr>
 
-<tr><td width="14" height="14"><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/spacer.gif" width="14" height="14"></td>
+<tr>
+<td width="14" height="14"><img src="/images/spacer.gif" width="14" height="14"></td>
 
-<td height="14" valign="middle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>HOLLYWOOD.COM NETWORK:</b>&nbsp;<a href="http://www.broadway.com" class="networknav" target="blank">Broadway.com</a>&nbsp;|&nbsp;<a href="http://www.movietickets.com" class="networknav" target="blank">Movietickets.com</a>&nbsp;|&nbsp;<a href="http://www.musicsite.com" class="networknav" target="blank">Musicsite.com</a>&nbsp;|&nbsp;<a href="/abouthol/" class="networknav">About Us</a>&nbsp;|&nbsp;<a href="/abouthol/finance.html" class="networknav">Investor Relations</a></font></td></tr></tbody></table>
+<td height="14" valign="middle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>HOLLYWOOD 
+MEDIA NETWORK:</b>&nbsp;<a href="http://www.broadway.com" class="networknav" target="blank">Broadway.com</a>&nbsp;|&nbsp;<a href="http://www.baseline.hollywood.com/jumppage.html" class="networknav" target="blank">Baseline.hollywood.com</a>&nbsp;|&nbsp;<a href="http://www.movietickets.com" class="networknav" target="blank">MovieTickets.com</a>&nbsp;|&nbsp;<a href="/abouthol/" class="networknav">About 
+Us</a>&nbsp;|&nbsp;<a href="/abouthol/finance.html" class="networknav">Investor 
+Relations</a></font></td>
+</tr></tbody></table>
 
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -251,19 +116,19 @@ if (NS4) onresize = reDo;
 
 <td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/spacerbar.gif" width="9" height="13" vspace="0" hspace="0" border="0"></td>
 
-<td><a href="/stories/news/" onmouseover="popUp('elMenu7',event)" onmouseout="popDown('elMenu7')" class="topnav">NEWS</a></td>
+<td><a href="/stories/news/" class="topnav">NEWS</a></td>
 
 <td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/spacerbar.gif" width="9" height="13" vspace="0" hspace="0" border="0"></td>
 
-<td><a href="/stories/movies/" onmouseover="popUp('elMenu1',event)" onmouseout="popDown('elMenu1')" class="topnav">MOVIES</a></td>
+<td><a href="/stories/movies/" class="topnav">MOVIES</a></td>
 
 <td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/spacerbar.gif" width="9" height="13" border="0" vspace="0" hspace="0"></td>
 
-<td><a href="/stories/celebs/" onmouseover="popUp('elMenu2',event)" onmouseout="popDown('elMenu2')" class="topnav">CELEBS</a></td>
+<td><a href="/stories/celebs/" class="topnav">CELEBS</a></td>
 
 <td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/spacerbar.gif" width="9" height="13" border="0" vspace="0" hspace="0"></td>
 
-<td><a href="/stories/tv/" onmouseover="popUp('elMenu3',event)" onmouseout="popDown('elMenu3')" class="topnav">TV</a></td>
+<td><a href="/stories/tv/" class="topnav">TV</a></td>
 
 <td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/spacerbar.gif" width="9" height="13" border="0" vspace="0"></td>
 
@@ -271,19 +136,19 @@ if (NS4) onresize = reDo;
 
 <td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/spacerbar.gif" width="9" height="13" border="0" vspace="0" hspace="0"></td>
 
-<td><a href="http://shopping.hollywood.com/" onmouseover="popUp('elMenu5',event)" onmouseout="popDown('elMenu5')" class="topnav">SHOPPING</a></td>
+<td><a href="http://www.musicsite.com" class="topnav">CD STORE</a></td>
 
 <td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/spacerbar.gif" width="9" height="13" border="0" vspace="0" hspace="0"></td>
 
-<td><a href="/movietunes/index.asp" onmouseover="popUp('elMenu6',event)" onmouseout="popDown('elMenu6')" class="topnav">MUSIC</a></td>
+<td><a href="/movietunes/index.asp" class="topnav">MOVIETUNES</a></td>
 
 <td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/spacerbar.gif" width="9" height="13" border="0" vspace="0" hspace="0"></td>
 
-<td><a href="/stories/multimedia/" onmouseover="popUp('elMenu8',event)" onmouseout="popDown('elMenu8')" class="topnav">MULTIMEDIA</a></td>
+<td><a href="/stories/multimedia/" class="topnav">MULTIMEDIA</a></td>
 
 <td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/template/spacerbar.gif" width="9" height="13" border="0" vspace="0" hspace="0"></td>
 
-<td><a href="/abouthol/international.html" onmouseover="popUp('elMenu9',event)" onmouseout="popDown('elMenu9')" class="topnav">INTERNATIONAL</a></td>
+<td><a href="/abouthol/international.html" class="topnav">INT'L</a></td>
 </tr>
 </tbody></table><!-- End Channel Nav--></td>
 </tr>
@@ -352,16 +217,33 @@ if (NS4) onresize = reDo;
 <td height="11" width="11" valign="BOTTOM"><img src="/images/search/frame_crnr_rt.gif" width="11" height="11" border="0" vspace="0" hspace="0"></td>
 </tr>
 </tbody></table>
+<table width="137" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><img src="/images/template/white.gif" width="1" height="5" border="0" vspace="0" hspace="0"></td>
+</tr>
+<!-- <tr>
+<td>
+<div align="center"><a href="/abouthol/press/PR_aol.html"><img src="/images/ads/aol_movietickets.gif" width=120 height=90 border=0></a></div>
+</td>
+</tr> -->
+
+</tbody></table>
 <!-- End Showtime Search -->
 
+<!-- IF in Showtimes Display Visa Image -->
 
-<!-- Start Sponser -->
+<!-- END IF in Showtimes Display Visa Image -->
+
+<!-- Start Sponsor -->
 <table border="0" cellspacing="0" cellpadding="0" width="137">
 <tbody><tr><td><img src="/images/template/white.gif" width="1" height="5" border="0" vspace="0" hspace="0"></td></tr>
 
 <tr><td align="center"><script language="javascript">
-	document.write('<A HREF="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/90/badge;sz=120x90;ord=200012702629?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/90/badge;sz=120x90;ord=200012702629?" border=0 height="90" width="120"></A>');
-</script><a href="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/90/badge;sz=120x90;ord=200012702629?" target="_top"><img src="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/90/badge;sz=120x90;ord=200012702629?" border="0" height="90" width="120"></a>
+	document.write ('<NOLAYER>');
+	document.write ('<IFRAME SRC="http://ads.hollywood.com/ads/admeister.asp?section=other&site=hollywood%2Ecom&adtag=hw120x90&ord=200146163518" width="120" height="90" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"></IFRAME>');
+	document.write ('</NOLAYER>');
+	document.write ('<ILAYER id="hw90" width="120" height="90" visibility="hidden"></ILAYER>');
+</script><nolayer><iframe src="http://ads.hollywood.com/ads/admeister.asp?section=other&amp;site=hollywood%2Ecom&amp;adtag=hw120x90&amp;ord=200146163518" width="120" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer><ilayer id="hw90" width="120" height="90" visibility="hidden"></ilayer>
 </td></tr>
 
 <tr><td><img src="/images/template/white.gif" width="1" height="5" border="0" vspace="0" hspace="0"></td></tr>
@@ -416,15 +298,22 @@ if (NS4) onresize = reDo;
 <!-- Start Sponser -->
 <table border="0" cellspacing="0" cellpadding="0" width="137">
 <tbody><tr><td><img src="/images/template/white.gif" width="1" height="5" border="0" vspace="0" hspace="0"></td></tr>
-<tr><td align="center">
-<script language="javascript">
-	document.write('<A HREF="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/240/badge;sz=120x240;ord=200012702629?" target="_top">');
-	document.write('<IMG SRC="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/240/badge;sz=120x240;ord=200012702629?" border=0 height="240" width="120"></A>');
-</script><a href="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/240/badge;sz=120x240;ord=200012702629?" target="_top"><img src="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/240/badge;sz=120x240;ord=200012702629?" border="0" height="240" width="120"></a>
+<tr><td align="center"><script language="javascript">
+	document.write ('<NOLAYER>');
+	document.write ('<IFRAME SRC="http://ads.hollywood.com/ads/admeister.asp?section=other&site=hollywood%2Ecom&adtag=hw120x240&ord=200146163518" width="120" height="240" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"></IFRAME>');
+	document.write ('</NOLAYER>');
+	document.write ('<ILAYER id="hw240" width="120" height="240" visibility="hidden"></ILAYER>');
+</script><nolayer><iframe src="http://ads.hollywood.com/ads/admeister.asp?section=other&amp;site=hollywood%2Ecom&amp;adtag=hw120x240&amp;ord=200146163518" width="120" height="240" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer><ilayer id="hw240" width="120" height="240" visibility="hidden"></ilayer>
 </td></tr>
 <tr><td><img src="/images/template/white.gif" width="1" height="5" border="0" vspace="0" hspace="0"></td></tr></tbody></table>
 <!-- End Sponser -->
 
+<p align="left"><a href="/features/survivor2/game/index.html"><img src="/images/ads/outback_game_120x60.jpg" width="120" height="60" border="0"></a></p>
+
+
+<!-- IF in Homepage Display Visa Image -->
+
+<!-- END IF in Homepage Display Visa Image -->
 
 
 
@@ -466,8 +355,8 @@ function theSelect()
 	}
 }
 </script>
-<tr>
 <form action="/search/searcherror.asp" method="GET" name="Gogetit"></form>
+<tr>
 <td background="/images/search/left_frame.gif">&nbsp;</td>
 
 <td align="CENTER"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Select 
@@ -480,7 +369,7 @@ Channel:</font><br>
 <option value="Celebs">Celebs</option>
 <option value="moviepeople">Bios</option>
 <option value="Shopping">Shopping</option>
-</select>
+</select><br>
 
 <input type="text" name="CiRestriction" size="8" style="color: #000000; font-family: Verdana; font-weight: bold; font-size: 10px; background-color: #FFFFEE;"></td>
 
@@ -498,7 +387,6 @@ Channel:</font><br>
 <input type="button" onclick="theSelect();" value=" find " width="41" height="21" border="0" vspace="0" hspace="0" alt="find">
 <!--<input type="image" src="/images/search/find.gif" width="41" height="21" border="0" vspace="0" hspace="0" alt="find">--></td>
 <td background="/images/search/rt_frame.gif">&nbsp;</td>
-
 </tr>
 
 <tr> 
@@ -538,14 +426,15 @@ Channel:</font><br>
 <!-- Start Sponsers -->
 
 <table border="0" cellspacing="0" cellpadding="0" width="137">
+
 <tbody><tr><td><img src="/images/template/white.gif" width="1" height="5" border="0" vspace="0" hspace="0"></td></tr>
-
-
 <tr><td align="center"><script language="javascript">
-	document.write('<A HREF="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/60/badge;sz=120x60;ord=200012702629?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/60/badge;sz=120x60;ord=200012702629?" border=0 height="60" width="120"></A>');
-</script><a href="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/60/badge;sz=120x60;ord=200012702629?" target="_top"><img src="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/60/badge;sz=120x60;ord=200012702629?" border="0" height="60" width="120"></a>
+	document.write ('<NOLAYER>');
+	document.write ('<IFRAME SRC="http://ads.hollywood.com/ads/admeister.asp?section=other&site=hollywood%2Ecom&adtag=hw120x60_1&ord=200146163518" width="120" height="60" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"></IFRAME>');
+	document.write ('</NOLAYER>');
+	document.write ('<ILAYER id="hw601" visibility="hidden" width="120" height="60"></ILAYER>');
+</script><nolayer><iframe src="http://ads.hollywood.com/ads/admeister.asp?section=other&amp;site=hollywood%2Ecom&amp;adtag=hw120x60_1&amp;ord=200146163518" width="120" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer><ilayer id="hw601" visibility="hidden" width="120" height="60"></ilayer>
 </td></tr>
-<tr><td><img src="/images/template/white.gif" width="1" height="5" border="0" vspace="0" hspace="0"></td></tr>
 </tbody></table>
 
 <!-- End Sponsers-->
@@ -572,7 +461,7 @@ Channel:</font><br>
 
 
 
-&nbsp;<span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span><span class="newslinks"> <b>Company Websites</b></span><br>
+      &nbsp;<span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span><span class="newslinks"> <b>Company Websites</b></span><br>
 
 <span class="newssublinks">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span> <a href="/abouthol/aboutholl.html" class="newssublinks">Hollywood.com</a><br>
 
@@ -584,10 +473,10 @@ Channel:</font><br>
 <span class="newssublinks">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span> <a href="/abouthol/aboutmusic.html" class="newssublinks">Musicsite.com</a><br>
 
 
-&nbsp;<span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span><span class="newslinks"> <b>Company B2B Units</b></span><br>
+      &nbsp;<span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span><span class="newslinks"> <b>Company B2B Units</b></span><br>
 
 
-<span class="newssublinks">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span> <a href="/abouthol/hollypro.html" class="newssublinks">Hollywoodpro</a><br>
+<span class="newssublinks">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span> <a href="/abouthol/hollypro.html" class="newssublinks">Baseline</a><br>
 
 <span class="newssublinks">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span> <a href="/abouthol/aboutcinema.html#cinema" class="newssublinks">CinemaSource</a><br>
 <span class="newssublinks">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="bullets"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FF9900">•</font></span> <a href="/abouthol/aboutcinema.html#concert" class="newssublinks">ConcertSource</a><br>
@@ -632,59 +521,6 @@ Channel:</font><br>
 <td align="LEFT" width="35"><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/leftnav/column_lessercurve01.gif" width="35" height="25" vspace="0" hspace="0" border="0"><br><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/leftnav/column_lessercurve02.gif" width="25" height="20" border="0" vspace="0" hspace="0"></td>
 </tr>
 
-
-<tr valign="TOP"> 
-<td colspan="2"><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/leftnav/column_divider.gif" width="227" height="26" border="0" vspace="0"><br>
-
-<img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/homepage_headers/subhead_marketplace_short.gif" width="215" height="28" border="0" alt="Marketplace"><br>
-
-<img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/homepage_headers/small_subhead_hollywoodnetwork_short.gif" width="215" height="20" border="0" vspace="1" hspace="0" alt="hollywood.com network"></td>
-</tr>
-
-
-<tr valign="TOP"> 
-<td><table width="215" border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr><td colspan="2" height="5"><img src="/template/images/spacer.gif" width="1" height="5" border="0"></td></tr>
-
-<tr valign="top"> 
-
-<td width="10"><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/spacer.gif" width="10" height="1" border="0" vspace="0" hspace="0"></td>
-
-<td><p><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><b><a href="http://secure2.hollywood.com/shopping/Application/ProductManager/item.cfm?function=Detail&amp;ItemSKU=100491&amp;CallerID=0&amp;store=main/English" target="_blank" class="mediahilite">Survivor Board Game</a></b><br>
-Strive to survive as a vote-casting castaway.
-</font><br clear="all">
-
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><b><a href="http://secure2.hollywood.com/shopping/Application/ProductManager/item.cfm?function=Detail&amp;ItemSKU=81375&amp;store=main/English" class="mediahilite">
-Floppy Grinch &amp; Max Plush Doll</a></b><br>
-Get the Grinch before he steals Christmas.</font><br>
-
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><b><a href="http://secure2.hollywood.com/shopping/Application/ProductManager/item.cfm?function=Detail&amp;ItemSKU=81374&amp;callerid=0&amp;store=main/English" target="_blank" class="mediahilite">Harry Potter 3-Piece Poster Set</a></b><br>
-Discover the mesmerizing, surprising world of wizards.</font><br>
-
-
-
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><b><a href="http://secure2.hollywood.com/shopping/Application/ProductManager/item.cfm?function=Detail&amp;ItemSKU=81377&amp;callerid=0&amp;store=main/English" target="_blank" class="mediahilite">Dino Bug Scooter</a></b><br>
-Take a wild ride to quench your need for speed. </font><br>
-
-
-
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><a href="http://musicsite.hollywood.com/search.cfm?event=viewcd&amp;muzenbr=386766" target="_blank" class="mediahilite"><b>The Beatles 1</b></a><br>
-Hear the hits that made the Fab Four famous. </font><br>
-
-
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><a href="http://musicsite.hollywood.com/search.cfm?event=viewcd&amp;muzenbr=393385" target="_blank" class="mediahilite"><b>Black &amp; Blue </b></a><br>
-The Backstreet Boys are back with tunes to make you swoon.
-</font></p></td>
-</tr>
-
-</tbody></table>
-<p>
-</p></td>
-
-<td>&nbsp;</td>
-
-</tr>
 </tbody></table>
 </td><!-- End Left Bar -->
 
@@ -702,7 +538,7 @@ The Backstreet Boys are back with tunes to make you swoon.
 
 
 
-        Hollywood.com, Inc. has created this privacy statement in order to demonstrate 
+        Hollywood.com has created this privacy statement in order to demonstrate 
         our firm commitment to privacy. The following discloses our information 
         gathering and dissemination practices for this website: Hollywood.com. 
         </p><p>
@@ -723,7 +559,7 @@ This site contains links to other sites.  <b>Hollywood.com</b> is not responsibl
 </p><p>
 We have a "Powered by" relationship with Gist.  Their content is housed on their servers. We link to Gist for movies on television as a banner and promotional swap.  We share general aggregate information about our users with advertisers and business development partners.
 </p><p>
-The ads appearing out this Web site are delivered to you by DoubleClick, our Web advertising partner. Please <a href="http://www.doubleclick.net/privacy_policy/">click here</a> for more information on DoubleClick and its privacy policy, information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns.
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner.  Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click <a href="http://www.doubleclick.net/privacy_policy/">here</a>. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 </p><p>
 </p><h3>Public Forums</h3>
         This site contains message boards, and/or news groups available to its users.  We request users to give us contact information, such as name, email, address, occupation, and interests to be a registered bulletin board user.  This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings; see the choice/opt-out section below.  Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information.
@@ -795,7 +631,18 @@ or email us at feedback@la.hollywood.com
 
 
 
-<table><tbody><tr><td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/spacer.gif" width="1" height="10" border="0" vspace="0" hspace="0"></td></tr></tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/spacer.gif" width="1" height="10" border="0" vspace="0" hspace="0"></td></tr></tbody></table>
+
+<table width="780" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="240">&nbsp;</td><td width="520" align="center"><script language="javascript">
+	document.write ('<NOLAYER>');
+	document.write ('<IFRAME SRC="http://ads.hollywood.com/ads/admeister.asp?section=other&site=hollywood%2Ecom&adtag=hw468x60_2&ord=200146163518" width="468" height="60" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"></IFRAME>');
+	document.write ('</NOLAYER>');
+	document.write ('<ILAYER id="hw468b" width="468" height="60" visibility="hidden"></ILAYER>');
+</script><nolayer><iframe src="http://ads.hollywood.com/ads/admeister.asp?section=other&amp;site=hollywood%2Ecom&amp;adtag=hw468x60_2&amp;ord=200146163518" width="468" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer><ilayer id="hw468b" width="468" height="60" visibility="hidden"></ilayer>
+</td></tr></tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://a744.g.akamai.net/7/744/582/20001003221530/www.hollywood.com/images/spacer.gif" width="1" height="10" border="0" vspace="0" hspace="0"></td></tr></tbody></table>
 
 
 
@@ -814,7 +661,7 @@ or email us at feedback@la.hollywood.com
 
 <a href="/stories/tv/index.html" class="footer">TV</a>&nbsp;|&nbsp;
 <a href="/showtimes/" class="footer">SHOWTIMES</a>&nbsp;|&nbsp;
-<a href="http://shopping.hollywood.com/" class="footer">SHOPPING</a>&nbsp;|&nbsp;
+<!--A href="http://shopping.hollywood.com/" class="footer">SHOPPING</A-->
 <a href="/stories/movietunes/index.html" class="footer">MUSIC</a></font></td>
 </tr></tbody></table>
 
@@ -855,8 +702,8 @@ or email us at feedback@la.hollywood.com
 
 <table width="780" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr><td width="240"></td>
-<td width="520" align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-<a href="/abouthol/legal.html" class="footer">©2000 Hollywood.com, Inc.</a><br>
+<td width="520" align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+<a href="/abouthol/legal.html" class="footer">©2001 Hollywood Media Corp.</a><br>
 
 <!-- START SIXTH TEXT ROW HERE -->
 
@@ -864,8 +711,8 @@ or email us at feedback@la.hollywood.com
 
 
 <p><script language="javascript">
-	document.write('<A HREF="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/31/badge;sz=88x31;ord=200012702629?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/31/badge;sz=88x31;ord=200012702629?" border="0" height="31" width="88" hspace="0" alt=""></A>');
-</script><a href="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/31/badge;sz=88x31;ord=200012702629?" target="_top"><img src="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/31/badge;sz=88x31;ord=200012702629?" border="0" height="31" width="88" hspace="0" alt=""></a>
+	document.write('<A HREF="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/31/badge;sz=88x31;ord=200146163518?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/31/badge;sz=88x31;ord=200146163518?" border="0" height="31" width="88" hspace="0" alt=""></A>');
+</script><a href="http://ad.doubleclick.net/jump/hollywood.com/sponsor-button/ros/31/badge;sz=88x31;ord=200146163518?" target="_top"><img src="http://ad.doubleclick.net/ad/hollywood.com/sponsor-button/ros/31/badge;sz=88x31;ord=200146163518?" border="0" height="31" width="88" hspace="0" alt=""></a>
 </p></td>
 </tr></tbody></table>
 
@@ -878,16 +725,22 @@ or email us at feedback@la.hollywood.com
 
 
 <script language="javascript">
-	document.write ('<LAYER SRC="http://ad.doubleclick.net/adl/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200012702629?" width=468 height=60 visibility="hidden" onLoad="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility=\'show\';"></LAYER>');
-</script><layer src="http://ad.doubleclick.net/adl/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200012702629?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility='show';"></layer>
+	document.write ('<LAYER SRC="http://ad.doubleclick.net/adl/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200146163518?" width=468 height=60 visibility="hidden" onLoad="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility=\'show\';"></LAYER>');
+</script><layer src="http://ad.doubleclick.net/adl/hollywood.com/other;cat=entertainment;cat=movie_video;tile=1;ord=200146163518?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility='show';"></layer>
+&nbsp;<script language="javascript">
+	document.write ('<LAYER SRC="http://ads.hollywood.com/ads/admeister.asp?section=other&site=hollywood%2Ecom&adtag=hw120x240&ord=200146163518" width="120" height="240" visibility="hidden" onLoad="moveToAbsolute(hw240.pageX,hw240.pageY);clip.height=240;clip.width=120;visibility=\'show\';"></LAYER>');
+	document.write ('<LAYER SRC="http://ads.hollywood.com/ads/admeister.asp?section=other&site=hollywood%2Ecom&adtag=hw120x90&ord=200146163518" width="120" height="90" visibility="hidden" onLoad="moveToAbsolute(hw90.pageX,hw90.pageY);clip.height=90;clip.width=120;visibility=\'show\';"></LAYER>');
+	document.write ('<LAYER SRC="http://ads.hollywood.com/ads/admeister.asp?section=other&site=hollywood%2Ecom&adtag=hw120x60_1&ord=200146163518" width="120" height="60" visibility="hidden" onLoad="moveToAbsolute(hw601.pageX,hw601.pageY);clip.height=60;clip.width=120;visibility=\'show\';"></LAYER>');
+	document.write ('<LAYER SRC="http://ads.hollywood.com/ads/admeister.asp?section=other&site=hollywood%2Ecom&adtag=hw468x60_2&ord=200146163518" width="468" height="60" visibility="hidden" onLoad="moveToAbsolute(hw468b.pageX,hw468b.pageY);clip.height=60;clip.width=468;visibility=\'show\';"></LAYER>');
+	document.write ('<LAYER SRC="http://ads.hollywood.com/ads/admeister.asp?section=other&site=hollywood%2Ecom&adtag=hw_120x60_2&ord=200146163518" width="120" height="60" visibility="hidden" onLoad="moveToAbsolute(hw120b.pageX,hw120b.pageY);clip.height=60;clip.width=120;visibility=\'show\';"></LAYER>');
+</script><layer src="http://ads.hollywood.com/ads/admeister.asp?section=other&amp;site=hollywood%2Ecom&amp;adtag=hw120x240&amp;ord=200146163518" width="120" height="240" visibility="hidden" onload="moveToAbsolute(hw240.pageX,hw240.pageY);clip.height=240;clip.width=120;visibility='show';"></layer><layer src="http://ads.hollywood.com/ads/admeister.asp?section=other&amp;site=hollywood%2Ecom&amp;adtag=hw120x90&amp;ord=200146163518" width="120" height="90" visibility="hidden" onload="moveToAbsolute(hw90.pageX,hw90.pageY);clip.height=90;clip.width=120;visibility='show';"></layer><layer src="http://ads.hollywood.com/ads/admeister.asp?section=other&amp;site=hollywood%2Ecom&amp;adtag=hw120x60_1&amp;ord=200146163518" width="120" height="60" visibility="hidden" onload="moveToAbsolute(hw601.pageX,hw601.pageY);clip.height=60;clip.width=120;visibility='show';"></layer><layer src="http://ads.hollywood.com/ads/admeister.asp?section=other&amp;site=hollywood%2Ecom&amp;adtag=hw468x60_2&amp;ord=200146163518" width="468" height="60" visibility="hidden" onload="moveToAbsolute(hw468b.pageX,hw468b.pageY);clip.height=60;clip.width=468;visibility='show';"></layer><layer src="http://ads.hollywood.com/ads/admeister.asp?section=other&amp;site=hollywood%2Ecom&amp;adtag=hw_120x60_2&amp;ord=200146163518" width="120" height="60" visibility="hidden" onload="moveToAbsolute(hw120b.pageX,hw120b.pageY);clip.height=60;clip.width=120;visibility='show';"></layer>
 
 <script language="javascript">
 	document.write ('<NOLAYER>');
-	document.write ('<IFRAME SRC="http://ad.doubleclick.net/adi/hollywoodss.com/other;sz=1x1;ord=200012702629?" width="1" height="1" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"><A HREF="http://ad.doubleclick.net/jump/hollywoodss.com/other;sz=1x1;ord=200012702629?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywoodss.com/other;sz=1x1;ord=200012702629?" border=0 height="1" width="1"></A></IFRAME>');
+	document.write ('<IFRAME SRC="http://sms.hollywood.com/sms/sms.asp?section=other&site=hollywood%2Ecom&ord=200146163518" width="1" height="1" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"></IFRAME>');
 	document.write ('</NOLAYER>');
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/hollywoodss.com/other;sz=1x1;ord=200012702629?" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/hollywoodss.com/other;sz=1x1;ord=200012702629?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/hollywoodss.com/other;sz=1x1;ord=200012702629?" border=0 height="1" width="1"></A></iframe></nolayer>
-
-
+	document.write ('<LAYER SRC="http://sms.hollywood.com/sms/sms.asp?section=other&site=hollywood%2Ecom&ord=200146163518" id="traffic1" width="1" height="1" visibility="hidden"></LAYER>');
+</script><nolayer><iframe src="http://sms.hollywood.com/sms/sms.asp?section=other&amp;site=hollywood%2Ecom&amp;ord=200146163518" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer><layer src="http://sms.hollywood.com/sms/sms.asp?section=other&amp;site=hollywood%2Ecom&amp;ord=200146163518" id="traffic1" width="1" height="1" visibility="hidden"></layer>
 <!-- End Footer -->
 
 
