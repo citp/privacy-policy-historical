@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalesolar.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201165258id_/http%3A//myhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalesolar.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604072404id_/http%3A//myhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # myhosting.com: About us: Privacy Policy
 
