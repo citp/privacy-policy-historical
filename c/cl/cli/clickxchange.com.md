@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222104215id_/http%3A//www.clickxchange.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604025237id_/http%3A//www.clickxchange.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement for clickXchange.com
 
@@ -10,12 +10,12 @@
   3. How the information is used 
   4. With whom the information may be shared 
   5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under CA Web Designs control 
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under clickXchange control 
   7. How you can correct any inaccuracies in the information. 
 
 If you have questions or concerns regarding this statement, you should first contact our staff by calling 949.673.7451. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/users/watchdog.html. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-|  CA Web Designs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: clickXchange.com.
+|  clickXchange has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: clickXchange.com.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
 
