@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207130043id_/http%3A//www.gortons.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606202708id_/http%3A//www.gortons.com/privacy.php) for the most accurate reproduction.*
 
 # Gorton's Privacy Policy
 
-[Home:](https://web.archive.org/)
-
 The web site you have entered is operated by Gorton's, Inc. Gorton's is committed to protecting your personal privacy. This Privacy Policy outlines the type of information that is collected by Gorton's on this web site and information collected by Gorton's offline, such as when you enter a Gorton's sweepstakes, contest or promotion, and how we use and protect that information. This Policy also tells you what to do if you do not want your Personal Information collected when you visit our web site, and how you can change information you have already provided to us. This Policy applies only to the Gorton's web site and to information Gorton's collects offline. For example, it does not apply to banners, sweepstakes and other advertisements or promotions we may sponsor or participate in on web sites owned by third parties. 
+
+  * Your Consent
+  * Collection of Personal Information
+  * How We Use Your Information
+  * Other Information We May Collect On Our Site
+  * Children
+  * Security of Information
+  * Changes in Our Policy
+  * Who to Contact
+
+
 
 **Your Consent to this Privacy Policy**  
 By using our web site or entering into a Gorton's sweepstakes, contest or promotion, you signify that you agree with the terms of our current Privacy Policy as posted in this area of the site. If you do not agree with any term in this Policy, please do not provide any Personal Information (defined below) on this site or in any Gorton's sweepstakes, contest or promotion. 
@@ -61,7 +70,6 @@ Gorton's reserves the right to change or remove this Privacy Policy at our discr
 Please write to us at gortons.info@gortons.com or call us at 1-800-222-6846 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases. For other requests, please choose among the following options: 
 
 If you don't want to be contacted in the future or would like us to correct or update your Personal Information in our records, please click the appropriate link below:  
-**Email us:** [info@gortons.com](mailto:info@gortons.com) or  
-[Update personal information](https://web.archive.org/servlet/Login/changeDetails)
+**Email us:** [info@gortons.com](mailto:info@gortons.com)
 
 (back to top)
