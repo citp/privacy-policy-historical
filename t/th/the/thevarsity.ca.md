@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevarsity.ca privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606131425id_/http%3A//www.thevarsity.ca/global_user_elements/privacyPolicy/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevarsity.ca privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080509id_/http%3A//www.thevarsity.ca/global_user_elements/privacyPolicy/privacyPolicy.html) for the most accurate reproduction.*
 
 # Untitled
 
