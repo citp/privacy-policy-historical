@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valucardnigeria.com privacy policy that was archived on 2004-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040413005457id_/http%3A//www.valucardnigeria.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valucardnigeria.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206210030id_/http%3A//valucardnigeria.com/privacy.html) for the most accurate reproduction.*
 
 # ValuCard Nigeria PLC | Privacy Policy
 
