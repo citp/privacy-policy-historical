@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624010712id_/http%3A//ndp.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022436id_/http%3A//ndp.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ When visiting NDP.ca, your privacy is respected. Our policy is in strict complia
 
 Our Web site is hosted on servers that are owned and managed by Bento Box Media, a third party service provider. Any personal information collected on our behalf by Bento Box Media, such as server log data (see below), is managed in accordance with this privacy policy, and is protected by applicable law.
 
-If you have questions about your privacy that are not answered below, please don’t hesitate to e-mail us at [contact us](https://web.archive.org/web/20040624010712id_/http%3A//ndp.ca/url) or call 613.236.3613.
+If you have questions about your privacy that are not answered below, please don’t hesitate to e-mail us at [contact us](https://web.archive.org/web/20041204022436id_/http%3A//ndp.ca/url) or call 613.236.3613.
 
  **Online Donations**  
 Our online donation site made through a secure server, owned and managed by Bento Box Media. The information you provide to the NDP is used solely for processing your online donation according to the conditions set out in the Elections Act. More information about the Elections Act is available at www.elections.ca.
