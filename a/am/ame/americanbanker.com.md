@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610104813id_/http%3A//www.americanbanker.com/pagedisplay.html%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210084139id_/http%3A//www.americanbanker.com/pagedisplay.html%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # American Banker Online - Privacy Policy
 
@@ -10,7 +10,7 @@ At **American Banker Online** , we have gone to great lengths to implement fair 
 
 **HOW WE USE WHAT WE LEARN:** We compile and use this information so that we may keep you apprised of upcoming events, and to design, customize, and offer new features that may be of interest to you.
 
-**WHAT WE TELL OTHERS ABOUT YOU:** From time to time, we may be approached by third parties with an interest in identifying or identifying our customers. Perhaps they are in a similar business and have a product to offer that would interest our readers, or they are collecting information for research or for some other legitimate purpose. We must share information if legally required to do so. It is our policy to furnish information only to those third parties that have a bona fide contractual arrangement with us, holding them to the same privacy standards that we adhere to in order to prevent privacy abuses. For a more specific description of the different ways our information may be used contact Customer Service via email
+**WHAT WE TELL OTHERS ABOUT YOU:** From time to time, we may be approached by third parties with an interest in identifying or contacting our customers. Perhaps they are in a similar business and have a product to offer that would interest our readers, or they are collecting information for research or for some other legitimate purpose. We must share information if legally required to do so. It is our policy to furnish information only to those third parties that have a bona fide contractual arrangement with us, holding them to the same privacy standards that we adhere to in order to prevent privacy abuses. For a more specific description of the different ways our information may be used contact Customer Service via email
 
 **CHOICES YOU HAVE:** Some choices are available to you with respect to the information that you have provided to us. For example, if you are receiving unwanted e-mails from us or if you do not want your information shared with third parties, simply send an e-mail to our customer service department. We may still maintain a record of your visit, but we will not solicit your business if you do not wish to hear from us. 
 
