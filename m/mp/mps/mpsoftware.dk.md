@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the mpsoftware.dk privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606042307id_/http%3A//www.mpsoftware.dk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpsoftware.dk privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211113759id_/http%3A//www.mpsoftware.dk/privacy.htm) for the most accurate reproduction.*
 
 # MPSOFTWARE - Designed for you!
 
 **  
 privacy statement  
-** ****  
+** ****
+
+**This page is no longer valid. Please update your bookmarks.**  
+Please go to: [ www.mpsoftware.dk](http://www.mpsoftware.dk/)   
 **This policy is about personal information that MPSOFTWARE collects and receives**
 
 Personal information is information about you that may be personally identifiable like your name, organization, address, zip code, email address, or phone number, and that may or may not be otherwise publicly available.
