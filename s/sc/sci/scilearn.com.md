@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scilearn.com privacy policy that was archived on 2000-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001027063410id_/http%3A//www.scilearn.com/pol/index.php3%3Fmain%3DPrivPol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scilearn.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606183954id_/http%3A//www.scilearn.com/pol/index.php3%3Fmain%3DPrivPol) for the most accurate reproduction.*
 
 # Scientific Learning: Announcements
 
@@ -36,7 +36,7 @@ According to information provided by Scientific Learning, the ScientificLearning
 
 2\. NOT collect personally identifiable offline contact information about children without prior parental consent.
 
-3\. NOT distribute to third parties any personally identifiable information with out prior parental consent.
+3\. NOT distribute to third parties any personally identifiable information without prior parental consent.
 
 4\. NOT give children the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
 
@@ -62,11 +62,15 @@ Webmaster
 
 Scientific Learning Corporation
 
-1995 University Ave.
+300 Frank H. Ogawa Plaza 
 
-Suite 400
+Suite 500
 
-Berkeley, CA 94704
+Oakland, CA 94612-2040
+
+  
+16th Street/Telegraph Avenue   
+[[Click here for map]](http://www.mapquest.com/cgi-bin/ia_find?link=btwn/twn-map_results&zoom_level=9&uid=up6805m4&SNVData=3mad3-96,hr%3bba56zx%3d%3d2l10tl0.hqu%3b%28xu6%2b%19%14%17LZ%2bM%2bIS%17N%13%2bH%13%17%2b%15MM%2b472%3dBVZN%17LE%3dLV_hwzn1%3da2uu%28%11E%3aba56zx%3d%3d2l10tl0%3aa%3bwh%7c2%24hgv%28l3iedgv%245l1t%3b8&pcat=)
 
 [webmaster@scilearn.com](mailto:webmaster@scilearn.com)
 
