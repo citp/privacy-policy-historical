@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605163900id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205014018id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
 
 # Lead411: Privacy Policy
 
@@ -43,7 +43,7 @@ All submitted information is treated as confidential by Lead411 staff, affiliate
 
 **User Access to Information Collected** In order for a Member to change or modify its password, eMail and/or user name, send an email to the following address: 
 
-[admin@lead411.com](mailto:admin@lead411.com). We will contact you to change your information. 
+[help@lead411.com](mailto:help@lead411.com). We will contact you to change your information. 
 
 **Lost or Stolen Information** If you lose your password, you may re-acquire it from the 
 
