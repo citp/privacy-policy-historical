@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cesar.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesar.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607074818id_/http%3A//www.mars.com/privacy/kpp_english.html) for the most accurate reproduction.*
 
 # Privacy Policy English
 
- [](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_arabic.html) [](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_chinese.html) [](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_TradChinese.html)     [](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_english.html)   [](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_french.html)  [](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_german.html)  [](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_japanese.html)   [](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_polish.html)  [](https://web.archive.org/web/20001215234300id_/http%3A//www.mars.com/privacy/pp_portugese.html)     
+**[_private/flags.html]**
 
 We care about your privacy.  We want to tell you in detail about the Internet policies and practices which we have adopted to protect your privacy so that you can feel confident about how we handle the personal information you entrust to us online.
 
@@ -51,9 +51,9 @@ If you would like us to update, change, or delete information we have about you 
 You may also write, fax or call us at:
 
 > Privacy Coordinator   
->  M&M/Mars  
->  800 High St.   
->  Hackettstown, NJ  07840   USA
+>  Kal Kan Foods Inc.  
+>  3250 E. 44th Street, PO Box 58853   
+>  Vernon, CA  90058   USA
 > 
-> Phone:  1-908-852-1000  
->  Fax:      1-908-850-2624
+> Phone:  1-323-587-2727  
+>  Fax:      1-323-586-8347
