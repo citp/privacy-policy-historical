@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diynetwork.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024045934id_/http%3A//diynetwork.com/DIY/privacyPolicy/0%2C1034%2C%2CFF.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynetwork.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605162910id_/http%3A//diynetwork.com/DIY/privacyPolicy/0%2C1034%2C%2CFF.html) for the most accurate reproduction.*
 
 # About DIY - Privacy Policy
 
@@ -17,6 +17,7 @@ Categories
   
   
 [Project Index](https://web.archive.org/DIY/projectIndex/0,2039,,FF.html)  
+[Newsletter](https://web.archive.org/DIY/newsletter/subscribeForm/0,2456,,00.html)  
 [DIY Kits](https://web.archive.org/DIY/kitsMain/0,1800,,FF.html)  
 [Ask DIY](https://web.archive.org/DIY/askDiy/0,1317,,FF.html)  
 [Cool Tools](https://web.archive.org/DIY/toolsMain/0,2324,,FF.html)  
@@ -24,11 +25,11 @@ Categories
 [Workshops](https://web.archive.org/DIY/workshopList/0,1026,,FF.html)  
 [Program Guide](https://web.archive.org/DIY/dailyPg/0,2004,,FF.html)  
 [Get DIY](https://web.archive.org/DIY/aboutNetworkProviders/0,1420,,FF.html)  
-[About DIY](https://web.archive.org/DIY/about/0,1022,,FF.html)  
+[About DIY](https://web.archive.org/DIY/about/1,1022,,FF.html)  
 [My DIY](https://web.archive.org/DIY/myDiyHome/1,1055,,FF.html)  
   
   
-|  [DIY](https://web.archive.org/DIY/0,1014,,FF.html) > [About DIY](https://web.archive.org/DIY/about/0,1022,,FF.html) > Legal Information
+|  [DIY](https://web.archive.org/DIY/0,1014,,FF.html) > [About DIY](https://web.archive.org/DIY/about/1,1022,,FF.html) > Legal Information
 
   
 DIYNET.com is committed to protecting the online privacy of visitors to its Web site. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At diynet.com, we intend to give you as much control as possible over your personal information. 
