@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntlworld.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204033242id_/http%3A//www.home.ntl.com/page/privacy%26source%3Dntlworld) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntlworld.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305052155id_/http%3A//www.home.ntl.com/page/privacy%26source%3Dntlworld) for the most accurate reproduction.*
 
 # ntl.com | Privacy Policy
 
