@@ -1,7 +1,16 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142854id_/http%3A//www.faucet.com/fc_ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205211726id_/http%3A//www.faucet.com/fc_ppolicy.htm) for the most accurate reproduction.*
 
 # Faucet.com - Privacy Policy
 
+|   
+---  
+|  | 
+
+| 
+
+Privacy Policy  
+  
+---  
   
 Faucet.com has created this privacy policy in order to demonstrate our firm commitment to consumer privacy on our web site.  Because Faucet.com wants to demonstrate its commitment to your privacy, we have agreed to disclose our information handling practices. 
 
@@ -31,4 +40,7 @@ Dan Auer
 President
 
 [ _dan@faucet.com_](mailto:dan@faucet.com)  
+  
+  
+  
 
