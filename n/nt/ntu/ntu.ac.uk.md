@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/generic.cfm%3Fshow%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603130231id_/http%3A//www.ntu.ac.uk/generic.cfm%3Fshow%3DPrivacyStatement) for the most accurate reproduction.*
 
 # The Nottingham Trent University
 
-|  | [](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/prospsplash.cfm) | [](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/international_students/) | [](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/cursplash.cfm) | [](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/schoolsandfac.cfm?M=1) | [](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/research.cfm?M=1) | [](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/static/pressoffice/index.cfm) | [](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/alumni/) | [](http://www.bdu.ntu.ac.uk/?M=1) | [](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/staff.cfm?M=1) |  |  [](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/index.cfm)  
----|---|---|---|---|---|---|---|---|---|---  
-  
-  |   |  |   |   
+| 
+
+|   |   |  |   |   
 ---|---|---|---|---  
   |  |  |    
 | **PRIVACY POLICY RELATING TO THE NTU WEBSITE (WWW. NTU.AC.UK) (THE "WEBSITE")**
@@ -30,7 +29,7 @@ We use the information that you provide for such purposes as responding to your 
 
   * Cookies are pieces of information that we transfer to your computer's hard drive through your web browser when you are viewing the Website. These pieces of information allow the Website to act on information that will make your use of the Website more rewarding. We use cookies to enable our system to recognise your browser and to provide features such as easier login and greater security and for storing information about you between visits. None of these cookies contain your password, phone number or address details in text format.
   * The "help" portion of a toolbar on most browsers will tell you how to protect your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However if you turn cookies off you won't have access to some of the features that make the Website more efficient and services may not function properly. 
-  * Webbugs are minute images (commonly 1 pixel x 1 pixel to be exact) that transmit data on use of the internet back to a computer specified by the webbug. Information fed back by web bugs is often similar to the sort of information you will find in a cookie, such as the sites that you have recently visited and potentially the characteristics of the machine that you were using. You can find out more about webbugs by visiting [http://www.bugnosis.org/faq.html](http://www.bugnosis.org/faq.html#web%20bug%20basics). Before you access that site you should remind yourself of our policy on links which is contained in our [Access Agreement](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/generic.cfm?show=Disclaimer). The bugnosis.org site also tells you what you can do to find out what a webbug is doing or how to stop it coming to your computer altogether. You should remember that we cannot guarantee that any anti-webbug software you install will not cause harm to your computer. 
+  * Webbugs are minute images (commonly 1 pixel x 1 pixel to be exact) that transmit data on use of the internet back to a computer specified by the webbug. Information fed back by web bugs is often similar to the sort of information you will find in a cookie, such as the sites that you have recently visited and potentially the characteristics of the machine that you were using. You can find out more about webbugs by visiting [http://www.bugnosis.org/faq.html](http://www.bugnosis.org/faq.html#web%20bug%20basics). Before you access that site you should remind yourself of our policy on links which is contained in our [Access Agreement](https://web.archive.org/web/20040603130231id_/http%3A//www.ntu.ac.uk/generic.cfm?show=Disclaimer). The bugnosis.org site also tells you what you can do to find out what a webbug is doing or how to stop it coming to your computer altogether. You should remember that we cannot guarantee that any anti-webbug software you install will not cause harm to your computer. 
 
   
   |    
@@ -65,9 +64,6 @@ NTU may disclose personal information in the following circumstances:
   |    
 **Conditions of use**  
   |  This agreement is governed by the laws of England, where NTU originates and is designed to be accessed and is deemed to be made in England. You consent to the exclusive jurisdiction of the English courts in all disputes arising out of or relating to the use of the Website. Use of the Website is unauthorised in any jurisdiction that does not give effect to all provisions of these terms and conditions, including without limitation this paragraph.   
-By continuing to use the Website you agree that you have read the [Access Agreement](https://web.archive.org/web/20031220041732id_/http%3A//www.ntu.ac.uk/generic.cfm?show=Disclaimer) and that you agree with all of its contents. This agreement and the Access Agreement may be altered and for this reason you should regularly visit the Privacy Policy on the Website as the current version will be binding upon you.   
+By continuing to use the Website you agree that you have read the [Access Agreement](https://web.archive.org/web/20040603130231id_/http%3A//www.ntu.ac.uk/generic.cfm?show=Disclaimer) and that you agree with all of its contents. This agreement and the Access Agreement may be altered and for this reason you should regularly visit the Privacy Policy on the Website as the current version will be binding upon you.   
   |    
-   
-  
-  |  |    
-  |   |  
+ 
