@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theage.com.au privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206080500id_/http%3A//www.members.f2.com.au/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theage.com.au privacy policy that was archived on 2001-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010611121012id_/http%3A//www.members.f2.com.au/help/privacy_policy.html) for the most accurate reproduction.*
 
 # The f2 Network Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Our Commitment to your Privacy 
 
-The f2 Network will not sell, trade or rent any personally identifiable information obtained from you to a third party unless you consent. 
+The f2 Network will not sell, trade, give or rent any personally identifiable information obtained from you to a third party unless you consent. 
 
 It is f2's policy to allow our users to provide as much - or as little - personal information to us as they feel comfortable doing. As a user or customer of the f2 Network we pledge to provide you with some important rights: 
 
@@ -34,7 +34,7 @@ The choice of how much personally identifiable information about yourself you di
   * In some instances where we are selling products and services to you we require financial information as well as personal information. All the information we gather is stored by f2 on a secure site protected by state of the art 'firewalls' and never shared with anyone. 
   * We track traffic patterns throughout sites. 
   * We may use a feature of your browser called a "cookie" to assign a "User ID." Cookies, by themselves, cannot be used to find out your identity or the identities' of any of our users, it only identifies your computer to our servers when you visit our site.
-  * Companies placing advertising on our sites and the sites of other web publishers may have the ability to assign a different cookie to you by a process that the f2 Network does not control. However as cookies don't identify individuals (you'll just be a number to them), companies will not know who you are - and The f2 Network will not tell them. 
+  * Companies placing advertising on our sites and the sites of other web publishers may have the ability to assign a different cookie to you by a process that the f2 Network does not control. 
 
   
 **You are in control of all information gathered about you**
