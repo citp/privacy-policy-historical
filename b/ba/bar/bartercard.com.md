@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bartercard.com privacy policy that was archived on 2002-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020612073847id_/http%3A//www.bartercard.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bartercard.com privacy policy that was archived on 2002-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020819121250id_/http%3A//www.bartercard.com/privacy.htm) for the most accurate reproduction.*
 
 # Bartercard International - World News
 
