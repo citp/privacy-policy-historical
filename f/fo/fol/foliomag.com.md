@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foliomag.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217191212id_/http%3A//www.inside.com/front/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliomag.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610192133id_/http%3A//www.inside.com/front/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -47,5 +47,5 @@ Remember to sign out of your INSIDE account and close your browser window when y
 **Privacy Policy for Minors  
 ** INSIDE does not knowingly collect information from minors. If you are under 18, please do not provide any personal information to us. **Your Acceptance of These Terms  
 ** By using this site, you signify your assent to the INSIDE Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes. **Questions  
-** [E-mail us](mailto:customercare@inside.com) with any questions that you may have regarding this Privacy Policy, or call 1-800-420-4223. |  |    
+** [E-mail us](mailto:customercare@inside.com) with any questions that you may have regarding this Privacy Policy. |  |    
 |  | 
