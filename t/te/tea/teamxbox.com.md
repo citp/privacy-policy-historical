@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the teamxbox.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208104945id_/http%3A//www.teamxbox.com/article.php%3Fid%3D70%26t%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamxbox.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810030156id_/http%3A//teamxbox.com/article.php%3Fid%3D70%26t%3Dprivacy) for the most accurate reproduction.*
 
-# Team Xbox | Privacy Policy
-
-Privacy Policy
-
-By [Shockwave](mailto:shockwave@teamxbox.com)  
-July 21, 2001
+# TeamXbox.com | Insider's Choice for Xbox Information | Privacy Policy
 
 **Privacy Policy**  
 TeamXbox is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you provide online. 
@@ -25,6 +20,4 @@ In addition, our website tracks information about the visits to our website. For
 
 TeamXbox is not responsible for the privacy practices or policies of any affiliates or 3rd party organizations displayed within our website.
 
-   [](https://web.archive.org/web/20021208104945id_/http%3A//www.teamxbox.com/article.php?id=70&t=privacy)
-
-[  discuss in the forums](http://forums.teamxbox.com/)  |  [  printable version](https://web.archive.org/web/20021208104945id_/http%3A//www.teamxbox.com/printable.php?id=70&article=70)  |    send to a friend
+   [](https://web.archive.org/web/20030810030156id_/http%3A//teamxbox.com/article.php?id=70&t=privacy)
