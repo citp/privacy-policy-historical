@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentscup.com privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802110619id_/http%3A//www.pgatour.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentscup.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603164043id_/http%3A//www.pgatour.com/information/privacy.html) for the most accurate reproduction.*
 
 # GolfWeb@PGATOUR.COM Privacy Statement
 
@@ -80,15 +80,15 @@ Attn: Privacy Statement
 2200 W. Cypress Creek Road  
 Fort Lauderdale, Florida 33309**
 
-|   |  [Play the Charity Challenge](http://golf.fantasy.pgatour.com/splash/golf/pgatour/challenge) [DiMarco heads pack in rain-delayed Buick Open](http://www.pgatour.com/u/ce/multi/0,1977,6513268,00.html) [Fleisher ties tournament record at FleetBoston Classic](http://www.pgatour.com/u/ce/multi/0,1977,6513132,00.html) [Biershenk takes sole possession of the lead in Chattanooga](http://www.pgatour.com/u/ce/multi/0,1977,6513300,00.html) [More news](https://web.archive.org/news/index.html) [Get shot-by-shot info on your favorite players with TOURCast](http://www.pgatour.com/tourcast/totourcast.html)
+|   | 
 
-[Play TOUR Fantasy today](http://www.pgatour.com/fantasy/index.html)
+[More great video](http://www.pgatour.com/multimedia/video/vault)
 
-[Play the Charity Challenge](http://golf.fantasy.pgatour.com/splash/golf/pgatour/challenge)
+[Get the latest from the TOUR Insider](http://www.pgatour.com/info/authors/insider)
 
-[Giving back is at the heart of the PGA TOUR](http://www.pgatour.com/charity/index.html)
+[More news](https://web.archive.org/news)
 
-[Read The Daily Dozen](https://web.archive.org/partner/wtw/index.html)
+[Get shot-by-shot info on your favorite players with TOURCast](http://www.pgatour.com/tourcast/totourcast.html) [Giving back is at the heart of the PGA TOUR](http://www.pgatour.com/charity/index.html)
 
 [TOUR Academy](https://web.archive.org/practicetee/touracademy/)
 
