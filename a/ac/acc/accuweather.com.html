@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the accuweather.com privacy policy that was archived on 2002-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020408233955id_/http%3A//www.accuweather.com/adcbin/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accuweather.com privacy policy that was archived on 2002-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215154401id_/http%3A//www.accuweather.com/adcbin/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Statement</title>
@@ -9,28 +9,28 @@ function accuhelpWin(){
 window.open("","accuHelp","toolbar=no,location=no,directories=no,status=yes,menubar=yes," +
 	"scrollbars=yes,copyhistory=no,resizable=no,width=467,height=420");
 }
-// -->
-</script>
-</head>
-<!-- code formatted for fixed width font -->
-<body text="#000000" link="#003366" vlink="#666666" alink="#990000" bgcolor="#ffffff">
-<script language="Javascript">
-<!--
-var clck=0;
-var noad=0;
-var kv_in="";
-var adc_partner="accuweather";
-var adc_pageopt="";
+noad=0;
+adc_partner = "accuweather";
+kv_in = "";
  function setSessCookie(){
     var sesstime = new Date();
     var ckeVal = sesstime.getTime();
-    document.cookie = escape("sesstime=") +  ckeVal + escape(';path="/";domain=".accuweather.com"');
+    document.cookie = 'sesstime=' +ckeVal+ ';path=/;domain=.accuweather.com';
   }
+
+function setCookie (name, value, expires, path, domain, secure) {
+// removed the escape off the value
+      document.cookie = name + "=" + value +
+        ((expires) ? "; expires=" + expires : "") +
+        ((path) ? "; path=" + path : "") +
+        ((domain) ? "; domain=" + domain : "") +
+        ((secure) ? "; secure" : "");
+}
 
  function getSesCookie(ckename) {
      var begIdx;
      var endIdx;
-     var cookVal = unescape(document.cookie);
+     var cookVal = document.cookie;
      var rtnVal;
      if (document.cookie.length > 0)
          {
@@ -64,7 +64,7 @@ var ord = curtime;
     popup = 1;
   }
   else
-    if ((curtime - session) > 1800000)
+    if ((curtime - session) > 900000)
      {
        setSessCookie();
        popup = 1;
@@ -79,74 +79,108 @@ partArr[0] = "espn";
 for (partCtr=0;partCtr<maxPart;partCtr++)
   if (partArr[partCtr] == adc_partner)
      popup = 0;
-var goframe=0;
-if(navigator.appName.indexOf("WebTV Plus")!=-1) goframe=1;
-if(navigator.userAgent.indexOf("Netscape6")!=-1) goframe=1;
-if(navigator.userAgent.indexOf("AOL")!=-1) goframe=1;
-if(navigator.userAgent.indexOf("Voyager")!=-1) goframe=1;
+
+// cke_adc6 currently has unique user mth|
+var cke_adc6 = new String(getSesCookie("adc6"));
+var splitcookie = 0;
+var setcke = 1;
+var cnt = 1;
+var numParts;
+var current_mth = beg.getMonth() + 1;
+var mth = current_mth;
+
+if (cke_adc6 != "\0")
+  splitcookie = 1;
+
+if (splitcookie == 1)
+  {
+    var adc6Array = cke_adc6.split("|");
+    if ( parseInt(adc6Array[0]) != current_mth )
+      {
+        document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa199/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
+	//document.write("New user for this month.");
+	//document.write("The value of cke_adc6 is " + cke_adc6 );
+	createCookie();
+      }
+    //document.write("Not a new user for this month.");
+  }
+else
+  {
+    createCookie(); 
+    document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa199/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
+    //document.write("New user first time visit our page.");
+  }
+
+function createCookie()
+{
+   beg.setFullYear(beg.getFullYear()+1);
+   var adc6Val = mth + '|';
+   if (cke_adc6 != 0)
+     {
+       numParts = adc6Array.length;
+       while (cnt < numParts - 1)
+         adc6Val = adc6Val + adc6Array[cnt++] + '|';
+     }
+   setCookie ("adc6", adc6Val,beg.toGMTString(), "/", ".accuweather.com");
+   //document.write("cke 'adc6' set to " + adc6Val);
+}
+
+// -->
+</script> </head><body text="#000000" link="#003366" vlink="#666666" alink="#990000" bgcolor="#ffffff"><img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa199/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">
+
+<script language="JavaScript">
+<!--
+//configuration
+OAS_url = 'http://coriolis.accuweather.com/RealMedia/ads/';
+OAS_sitepage = 'accuweather.com/';
+if (popup == 0)
+   OAS_listpos = "x01";
+else
+   OAS_listpos = "x01,x07,x08";
+OAS_query ="zc=&adc_partner=accuweather&state=&metrocode=";
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2,11);
+function OAS_NORMAL(pos) {
+        document.write('<A HREF="'+OAS_url+'click_nx.ads/'+OAS_sitepage+'/1' +OAS_rns+ '@' + OAS_listpos+ '!' +pos+'?' +OAS_query+'"TARGET=' +OAS_target+'>');
+        document.write('<IMG SRC="'+OAS_url+ 'adstream_nx.ads/' +OAS_sitepage+'/1' +OAS_rns+ '@' +OAS_listpos+ '!'+pos+ '?' +OAS_query+ '" BORDER=0></A>');
+  }
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+OAS_version=11;
+if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+   OAS_version=10;
+if (OAS_version >= 11)
+   document.write ('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="' +OAS_url+ 'adstream_mjx.ads/' +OAS_sitepage+ '/1' +OAS_rns+ '@' +OAS_listpos+ '?' +OAS_query+ '"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://coriolis.accuweather.com/RealMedia/ads/adstream_mjx.ads/accuweather.com//1188233636@x01,x07,x08?zc=&amp;adc_partner=accuweather&amp;state=&amp;metrocode="></script>
+<script language="JavaScript">
+<!--
+function OAS_AD(pos) {
+  if (OAS_version >= 11)
+    OAS_RICH(pos);
+  else
+    OAS_NORMAL(pos);
+ }
+//-->
+</script>
+
+<!-- code formatted for fixed width font -->
+
+<script language="Javascript">
+<!--
+var clck=0;
 // --->
 </script>
 <!------ ------->
 <!-- Table 1  -->
 <!-- Ad Table -->
 <!-------------->
-<!-- (AX28) accuweather 8-APR-2002 23:39:56.21 -->
-<table border="0" cellspacing="0" cellpadding="0" width="760" height="25">
-  <tbody><tr>
-    <td>
-<!-- saved from url=(0022)http://internet.e-mail -->
-<script language="Javascript">
-<!--
-
-var pick1;
-var begin = new Date();
-var startYear = new Date("January 1, 1970");
-startYear.setYear(begin.getYear());
-var rand1 = (begin.getTime() - startYear.getTime());
-
-var maxLinks;           // used for normal accuweather rotation
-var gUrl = new Array();
-var lUrl = new Array();
-var spotL = new Array();
-
-maxLinks=3;
-
-gUrl[0]="http://vortex.accuweather.com/iwxpage/adc/ads/premupgr_still1_760x25.gif"
-gUrl[1]="http://vortex.accuweather.com/iwxpage/adc/ads/premupgr_still2_760x25.gif"
-gUrl[2]="http://vortex.accuweather.com/iwxpage/adc/ads/premupgr_amim_760x25.gif"
-
-lUrl[0] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA238/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/premium/";
-lUrl[1] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA239/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/premium/";
-lUrl[2] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA240/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/premium/";
-
-spotL[0] =' <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa235/adc/index.asp/flasher.gif?partner=accuweather" height=1 width=1>';
-spotL[1] =' <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa236/adc/index.asp/flasher.gif?partner=accuweather" height=1 width=1>';
-spotL[2] =' <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa237/adc/index.asp/flasher.gif?partner=accuweather" height=1 width=1>';
-
-pick1 = rand1 % maxLinks;
-
-function premiumUpgr()
-  {
-    window.open("","premupgr","toolbar=no,location=no,directories=no,status=yes,menubar=no," + "scrollbars=yes,copyhistory=no,resizable=yes,width=615,height=420");
-  }
-
-
- document.write('<a href="' +lUrl[pick1]+'" onclick="premiumUpgr()" target=premupgr>\n');
- document.write('<img src="' +gUrl[pick1]+'" \n');
- document.write('height="25" width="760" alt="AccuWeather.com" border="0" ></a>\n');
- document.write(spotL[pick1]);
-// -->
-</script><a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA240/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/premium/" onclick="premiumUpgr()" target="premupgr">
-<img src="http://vortex.accuweather.com/iwxpage/adc/ads/premupgr_amim_760x25.gif" height="25" width="760" alt="AccuWeather.com" border="0"></a>
- <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa237/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">
-<noscript>
-<a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA238/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/premium/">
-<img src="http://vortex.accuweather.com/iwxpage/adc/ads/premupgr_still1_760x25.gif"
-height="25" width="760" alt="Premium Upgrade" border="0" ></a>
-</noscript>
-    </td>
-  </tr>
-</tbody></table>
+<!-- (AX27) accuweather 15-DEC-2002 15:43:59.63 -->
 <table border="0" cellspacing="0" cellpadding="0" width="760" height="60">
 	<tbody><tr>
 		<td width="270" height="60">
@@ -155,6 +189,8 @@ height="25" width="760" alt="Premium Upgrade" border="0" ></a>
 <!--
 
 var pick1;
+var pick2;
+var pickedimage = 0; //flag to determined if displayed
 var begin = new Date();
 var startYear = new Date("January 1, 1970");
 startYear.setYear(begin.getYear());
@@ -163,136 +199,246 @@ var rand1 = (begin.getTime() - startYear.getTime());
 var maxLinks;           // used for normal accuweather rotation
 var gUrl = new Array();
 var lUrl = new Array();
-maxLinks=15;
-
-gUrl[0]="http://vortex.accuweather.com/iwxpage/adc/ads/ski_258x60_1.gif"
-gUrl[1]="http://vortex.accuweather.com/iwxpage/adc/ads/ski_258x60_2.gif"
-gUrl[2]="http://vortex.accuweather.com/iwxpage/adc/ads/ski_258x60_3.gif"
-gUrl[3]="http://vortex.accuweather.com/iwxpage/adc/ads/mobile_258X60.GIF"
-gUrl[4]="http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60.gif"
-gUrl[5]="http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_buffalo.gif"
-gUrl[6]="http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_chicago.gif"
-gUrl[7]="http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_newyork.gif"
-gUrl[8]="http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_palm.gif"
-gUrl[9]="http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_sedona.gif"
-gUrl[10]="http://vortex.accuweather.com/iwxpage/adc/ads/prem_258.gif"
-gUrl[11]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_1.gif"
-gUrl[12]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_2.gif"
-gUrl[13]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_3.gif"
-gUrl[14]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_4.gif"
-
-lUrl[0] = "http://www.accuweather.com/adcbin/ski_index?nav=ski";
-lUrl[1] = "http://www.accuweather.com/adcbin/ski_index?nav=ski";
-lUrl[2] = "http://www.accuweather.com/adcbin/ski_index?nav=ski";
-lUrl[3] = "http://wwwa.accuweather.com/iwxpage/adc/mobile/index.htm";
-lUrl[4] = "http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-lUrl[5] = "http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-lUrl[6] = "http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-lUrl[7] = "http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-lUrl[8] = "http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-lUrl[9] = "http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-lUrl[10] = "http://www1.accuweather.com/iwxpage/adc/popup/premium/premium.htm";
-lUrl[11] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA229/BLUE.GIF|http://www1.accuweather.com/iwxpage/adc/popup/promo/";
-lUrl[12] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA230/BLUE.GIF|http://www1.accuweather.com/iwxpage/adc/popup/promo/";
-lUrl[13] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA231/BLUE.GIF|http://www1.accuweather.com/iwxpage/adc/popup/promo/";
-lUrl[14] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA232/BLUE.GIF|http://www1.accuweather.com/iwxpage/adc/popup/promo/";
+var spotlight = new Array();
+var altimage = new Array();
 
 
-pick1 = rand1 % maxLinks;
+maxLinks=27;
 
-var begin2 = new Date();
-var rand2 = (begin2.getTime() - startYear.getTime());
-var pick2 = rand2 % 2;
+gUrl[0] = "http://vortex.accuweather.com/iwxpage/adc/ads/ACCUMALL_258X60.GIF"
+lUrl[0] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA326/BLUE.GIF|http://www.accumall.com";
+spotlight[0] = 325;
+altimage[0] = "Local Weather Forecast Items";
 
-//  special garden area ad
-if ((noad == 0) && (kv_in == 'garden') && (adc_partner == 'accuweather'))
+gUrl[1] = "http://vortex.accuweather.com/iwxpage/adc/ads/STORE_COMFORTMINDER_258X60.GIF"
+lUrl[1] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA330/BLUE.GIF|http://www.accumall.com"; 
+spotlight[1] = 329;
+altimage[1] = "Local Weather Forecast Items";
+
+gUrl[2] = "http://vortex.accuweather.com/iwxpage/adc/ads/STORE_SAILBOAT_258X60.GIF"
+lUrl[2] ="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA334/BLUE.GIF|http://www.accumall.com";
+spotlight[2] = 333;
+altimage[2] = "Local Weather Forecast Items";
+
+gUrl[3] = "http://vortex.accuweather.com/iwxpage/adc/ads/STORE_SUNFACE_258X60.GIF"
+lUrl[3] ="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA338/BLUE.GIF|http://www.accumall.com"; 
+spotlight[3] = 337;
+altimage[3] = "Local Weather Forecast Items";
+
+gUrl[4] = "http://vortex.accuweather.com/iwxpage/adc/ads/STORE_WINDMETER_258X60.GIF"
+lUrl[4] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA342/BLUE.GIF|http://www.accumall.com";
+spotlight[4] = 341;
+altimage[4] = "Local Weather Forecast Items";
+
+gUrl[5] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD1_258X60.GIF"
+lUrl[5] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA346/BLUE.GIF|http://www.accumall.com";
+spotlight[5] = 345;
+altimage[5] = "Local Weather Forecast Items";
+
+gUrl[6] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD2_258X60.GIF"
+lUrl[6] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA348/BLUE.GIF|http://www.accumall.com";
+spotlight[6] = 347;
+altimage[6] = "Local Weather Forecast Items";
+
+gUrl[7] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD3_258X60.GIF"
+lUrl[7] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA350/BLUE.GIF|http://www.accumall.com";
+spotlight[7] = 349;
+altimage[7] = "Local Weather Forecast Items";
+
+gUrl[8] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD4_258X60.GIF"
+lUrl[8] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA352/BLUE.GIF|http://www.accumall.com";
+spotlight[8] = 351;
+altimage[8] = "Local Weather Forecast Items";
+
+gUrl[9] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD5_258X60.GIF"
+lUrl[9] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA354/BLUE.GIF|http://www.accumall.com";
+spotlight[9] = 353;
+altimage[9] = "Local Weather Forecast Items";
+
+gUrl[10] = "http://vortex.accuweather.com/iwxpage/adc/ads/DESKTOP_258X60.GIF"
+lUrl[10] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA273/BLUE.GIF|http://desktop.accuweather.com";
+spotlight[10] = 272;
+altimage[10] = "Local Weather Forecast Doppler Radar Desktop";
+
+gUrl[11] = "http://vortex.accuweather.com/iwxpage/adc/ads/mobile_258X60.GIF"
+lUrl[11] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA275/BLUE.GIF|http://wwwa.accuweather.com/iwxpage/adc/mobile/index.htm";
+spotlight[11] = 274;
+altimage[11] = "Local Weather Forecast to PDA";
+
+gUrl[12] = "http://vortex.accuweather.com/iwxpage/adc/ads/SEVEREWX_258X60.GIF"
+lUrl[12] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA277/BLUE.GIF|http://www.accuweather.com/adcbin/severe_storms%3fnav=home";
+spotlight[12] = 276;
+altimage[12] = "Severe Weather Doppler Radar Satellites"
+
+gUrl[13] = "http://vortex.accuweather.com/iwxpage/adc/ads/ALERT1_258X60.GIF"
+lUrl[13] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA279/BLUE.GIF|http://alert.accuweather.com";
+spotlight[13] = 278;
+altimage[13] = "Forecast Emailed Severe Weather Bullitins";
+
+gUrl[14] = "http://vortex.accuweather.com/iwxpage/adc/ads/ALERT2_258X60.GIF"
+lUrl[14] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA281/BLUE.GIF|http://alert.accuweather.com";
+spotlight[14] = 280;
+altimage[14] = "Forecast Emailed Severe Weather Bullitins";
+
+gUrl[15] = "http://vortex.accuweather.com/iwxpage/adc/ads/prem_258.gif"
+lUrl[15] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA283/BLUE.GIF|http://www.accuweather.com/adcbin/premium";
+spotlight[15] = 282;
+altimage[15] = "Local Weather Forecasts Doppler Radar";
+
+gUrl[16] = "http://vortex.accuweather.com/iwxpage/adc/ads/PREMIUM_258X60V2.GIF"
+lUrl[16] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA285/BLUE.GIF|http://www.accuweather.com/adcbin/premium";
+spotlight[16] = 284;
+altimage[16] = "Local Weather Forecasts Doppler Radar";
+
+gUrl[17] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60.gif"
+lUrl[17] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA287/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
+spotlight[17] = 286;
+altimage[17] = "Local Weather Video Cameras";
+
+gUrl[18] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_buffalo.gif"
+lUrl[18] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA289/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
+spotlight[18] = 288;
+altimage[18] = "Local Buffalo NY Weather Video";
+
+gUrl[19] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_chicago.gif"
+lUrl[19] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA291/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
+spotlight[19] = 290;
+altimage[19] = "Local Chicago IL Weather Video";
+
+gUrl[20] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_newyork.gif"
+lUrl[20] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA293/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
+spotlight[20] = 292;
+altimage[20] = "Local New York NY Weather Video";
+
+gUrl[21] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_palm.gif"
+lUrl[21] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA295/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
+spotlight[21] = 294;
+altimage[21] = "Local Miami Orlando Islamorada Florida Weather Videos";
+
+gUrl[22] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_sedona.gif"
+lUrl[22] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA297/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
+spotlight[22] = 296;
+altimage[22] = "Local Sedona AZ Weather Video";
+
+gUrl[23]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_1.gif"
+lUrl[23] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA229/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/promo/";
+spotlight[23] = 225;
+altimage[23] = "Local Weather Forecast Doppler Radar";
+
+gUrl[24]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_2.gif"
+lUrl[24] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA230/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/promo/";
+spotlight[24] = 226;
+altimage[24] = "Local Weather Forecast Doppler Radar";
+
+gUrl[25]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_3.gif"
+lUrl[25] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA231/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/promo/";
+spotlight[25] = 227;
+altimage[25] = "Local Weather Forecast Doppler Radar";
+
+gUrl[26]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_4.gif"
+lUrl[26] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA232/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/promo/";
+spotlight[26] = 228;
+altimage[26] = "Local Weather Forecast Doppler Radar";
+
+
+// sets up the area to be displayed
+pick1 = rand1 % 1000;
+
+//if (pick1 > 899) pick2 = rand1 % 4 + 14;
+//if ((pick1 > 799) && (pick1 < 900)) pick2 = rand1 % 6 + 8;
+//if ((pick1 > 649) && (pick1 < 800)) pick2 = rand1 % 2 + 6;
+//if ((pick1 > 549) && (pick1 < 650)) pick2 = rand1 % 2 + 4;
+//if ((pick1 > 499) && (pick1 < 550)) pick2 = 3;
+//if ((pick1 > 399) && (pick1 < 500)) pick2 = 2;
+//if ((pick1 > 199) && (pick1 < 400)) pick2 = 1;
+//if (pick1 < 200) pick2 = 0;
+
+if (pick1 >= 500) 
+    pick2 = rand1 % 10;
+else
 {
-  gUrl[0]="http://vortex.accuweather.com/iwxpage/adc/ads/ALLEGRA_2_258X60.GIF"
-
-  lUrl[0] = "http://altfarm.mediaplex.com/ad/ck/982-5786-2516-5";
-  pick1 = 0;
-  document.write('<a href="' +lUrl[pick1]+'?mpt='+ord+'" >\n');
-  document.write('<img src="' +gUrl[pick1]+'?mpt='+ord+'" height="60" width="258" alt="Allegra.com" border="0" ></a>\n')
-  document.write(' <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa25/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n')
-
+    if ( pick1 >= 450 )
+	pick2 = rand1 % 4 + 23;
+    if ( ( pick1 < 450 ) && ( pick1 >= 400 ) )
+	pick2 = rand1 % 6 + 17;
+    if ( ( pick1 < 400 ) && ( pick1 >= 325 ) )
+	pick2 = rand1 % 2 + 15;
+    if ( ( pick1 < 325 ) && ( pick1 >= 275 ) )
+	pick2 = rand1 % 2 + 13;
+    if ( ( pick1 < 275 ) && ( pick1 >= 225 ) )
+	pick2 = 12;
+    if ( ( pick1 < 225 ) && ( pick1 >= 150 ) )
+	pick2 = 11;
+    if ( pick1 < 150 )
+	pick2 = 10; 
 }
-else
-{  
+//  special garden area ad
+//if ((noad == 0) && (kv_in == 'garden') && (adc_partner == 'accuweather'))
+// {
+//    gUrl[0]="http://vortex.accuweather.com/iwxpage/adc/ads/allegra_Sunburned_258x60.gif";
+//    lUrl[0] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA26/BLUE.GIF|http://www.allegra.com/seasonal-allergy-site.jsp?bi=982-5786-2516-5";
+   
+//    gUrl[1]="http://vortex.accuweather.com/iwxpage/adc/ads/allegra_Bee_258x60.gif";
+//    lUrl[1] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA26/BLUE.GIF|http://www.allegra.com/pollen_map.jsp?bi=982-5786-2516-5";
 
-// special sports area ad
-if (((kv_in == 'sports') || (kv_in == 'golf')) && (adc_partner == 'accuweather'))
+//    if (pick1 < 500)
+//       pick2 = 0;
+//    else
+//       pick2 = 1;
+    
+//    document.write('<a href="' +lUrl[pick2]+'&mpt='+ord+'" >\n');
+//    document.write('<img src="' +gUrl[pick2]+'?mpt='+ord+'" height="60" width="258" alt="Allegra.com" border="0" ></a>\n')
+//    document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa25/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n')
+//    pickedimage = 1;
+// }
+
+if (pickedimage == 0)
  {
-   document.write('<a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA33/BLUE.GIF|http://www.acc.flausa.com?ord='+rand1+'" >\n');
-   document.write('<img src="http://vortex.accuweather.com/iwxpage/adc/ads/flausa_258x60.gif?ord=' +rand1+'" ');
-   document.write('height="60" width="258" alt="acc.flausa.com" border="0" ></a>\n')
-   document.write(' <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa32/adc/index.asp/flasher.gif?partner=accuweather" height="0" width="0">\n')
+      // go to normal ad rotation
+   if ((pick2 == 15) || (pick2 == 16))
+     {
+       if (noad == 1)
+         pick2 = 14;
+       else
+        {
+          function premiumWin258()
+           {
+             window.open("","premium258","toolbar=no,location=no,directories=no,status=yes,menubar=no," + "scrollbars=yes,copyhistory=no,resizable=yes,width=615,height=420");
+           }
+          document.write('<a href="' +lUrl[pick2]+'" onclick="premiumWin258()" target=premium258 >\n');
+          document.write('<img src="' +gUrl[pick2]+'" \n');
+          document.write('height="60" width="258" alt="'+altimage[pick2]+'" border="0"></a>\n')
+          document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa' +spotlight[pick2]+'/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
+          pickedimage = 1;
+        }
+     }
+   if ((pick2 > 22) && (pick2 < 27))
+     {
+       function BookmarkWin()
+        {
+          window.open("","Bookmark","toolbar=no,location=no,directories=no,status=yes,menubar=no," + "scrollbars=yes,copyhistory=no,resizable=yes,width=615,height=420");
+        }
+       document.write('<a href="' +lUrl[pick2]+'" onclick="BookmarkWin()" target=Bookmark>\n');
+       document.write('<img src="' +gUrl[pick2]+'" \n');
+       document.write('height="60" width="258" alt="'+altimage[pick2]+'" border="0"></a>\n')
+       document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa' +spotlight[pick2]+'/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
+       pickedimage = 1;
+     }
+
+   if (pickedimage == 0)
+     {
+       document.write('<a href="' +lUrl[pick2]+'"  >\n');
+       document.write('<img src="' +gUrl[pick2]+'" \n');
+       document.write('height="60" width="258" alt="'+altimage[pick2]+'" border="0" ></a>\n');
+       document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa' +spotlight[pick2]+'/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
+
+     }
  }
-else
-{     // check to show contest approx half the time
-  if (pick2 == 1)
-    {
-      var spotL = new Array();  //used for the spotlighting impressions
-      pick1 = (pick1 / 3) % 2;  //done so that can have odd or even
-      if (pick1 < 1)
-         pick1 = 1;
-      else
-         pick1 =0;
-
-      gUrl[0]="http://vortex.accuweather.com/iwxpage/adc/ads/BILLION_258X60_1.GIF"; 
-      gUrl[1]="http://vortex.accuweather.com/iwxpage/adc/ads/BILLION_258X60_2.GIF"; 
-
-      lUrl[0] ="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA28/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/billion_cont/index.htm";
-      lUrl[1] ="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA29/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/billion_cont/index.htm";
-
-      spotL[0] =' <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa30/adc/index.asp/flasher.gif?partner=accuweather" height=1 width=1>';
-      spotL[1] =' <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa31/adc/index.asp/flasher.gif?partner=accuweather" height=1 width=1>';
-
-
-      document.write('<a href="' +lUrl[pick1]+'"  >\n');
-      document.write('<img src="' +gUrl[pick1]+'" \n');
-      document.write('height="60" width="258" alt="AccuWeather.com" border="0" ></a>\n');
-      document.write(spotL[pick1]);
-    }
-  else
-    {    // go to normal ad rotation
-      if (pick1 > 9)
-        {
-         if (pick1 == 10)
-           {
-             function premiumWin258()
-              {
-                window.open("","premium258","toolbar=no,location=no,directories=no,status=yes,menubar=no," + "scrollbars=yes,copyhistory=no,resizable=yes,width=615,height=420");
-              }
-             document.write('<a href="' +lUrl[pick1]+'" onclick="premiumWin258()" target=premium258 >\n');
-             document.write('<img src="' +gUrl[pick1]+'" \n');
-             document.write('height="60" width="258" alt="Premium" border="0"></a>\n')
-           }
-         else
-           {
-             function BookmarkWin()
-               {
-                 window.open("","Bookmark","toolbar=no,location=no,directories=no,status=yes,menubar=no," + "scrollbars=yes,copyhistory=no,resizable=yes,width=615,height=420");
-               }
-             adcnt = pick1 + 214;
-             document.write('<a href="' +lUrl[pick1]+'" onclick="BookmarkWin()" target=Bookmark>\n');
-             document.write('<img src="' +gUrl[pick1]+'" \n');
-             document.write('height="60" width="258" alt="Bookmark" border="0"></a>\n')
-             document.write(' <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa'+adcnt+'/adc/index.asp/flasher.gif?partner=accuweather" height=1 width=1>\n');
-           }
-        }
-      else
-        {
-           document.write('<a href="' +lUrl[pick1]+'"  >\n');
-           document.write('<img src="' +gUrl[pick1]+'" \n');
-           document.write('height="60" width="258" alt="AccuWeather.com" border="0" ></a>\n');
-        }
-    }
-  }
-}
 // -->
-</script><a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA28/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/billion_cont/index.htm">
-<img src="http://vortex.accuweather.com/iwxpage/adc/ads/BILLION_258X60_1.GIF" height="60" width="258" alt="AccuWeather.com" border="0"></a>
- <img alt=" " src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qxa30/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">
+</script><a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA346/BLUE.GIF|http://www.accumall.com">
+<img src="http://vortex.accuweather.com/iwxpage/adc/ads/AD1_258X60.GIF" height="60" width="258" alt="Local Weather Forecast Items" border="0"></a>
+ <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa345/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">
+
 <noscript>
 <a href="http://www.accuweather.com/adcbin/local_index.asp?nav=home">
 <img src="http://vortex.accuweather.com/iwxpage/adc/ads/in_house/258x60_see_it_now/15_day_thanks.gif"
@@ -300,21 +446,13 @@ height="60" width="258" alt="AccuWeather.com" border="0" ></a>
 </noscript>
 </td>
 		<td width="22" height="60">
-		   <img src="http://wwwa.accuweather.com/dyndoc/spotlight/adc_qx06/adc/privacy.asp/flasher.gif?partner=accuweather&amp;x=AX28" height="22" width="10">
+		   <img src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qx06/adc/privacy.asp/flasher.gif?partner=accuweather&amp;x=AX27" height="22" width="10">
 		</td><td width="468" height="60">
 <script language="JavaScript">
 <!--
-  if (goframe == 0){
-     document.write("<IFRAME SRC='http://ad.doubleclick.net/adi/accuweather.com/accuweather;in=;;sz=468x60;tile=2;ord="+ ord +"?' ");
-     document.write("WIDTH=468 HEIGHT=60 ALIGN=CENTER BORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=NO></IFRAME>");}
-  document.write("<SCRIPT language='JavaScript1.1' SRC='http://ad.doubleclick.net/adj/accuweather.com/accuweather;in=;;abr=!ie;sz=468x60;tile=2;ord=" + ord +"?'><\/SCRIPT>");
-// --->
-</script><iframe src="http://ad.doubleclick.net/adi/accuweather.com/accuweather;in=;;sz=468x60;tile=2;ord=1580365979775?" width="468" height="60" align="CENTER" border="0" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="NO"></iframe><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/accuweather.com/accuweather;in=;;abr=!ie;sz=468x60;tile=2;ord=1580365979775?"></script>
-  <noscript>
-    <A HREF="http://ad.doubleclick.net/jump/accuweather.com/accuweather;in=;;sz=468x60;tile=2;ord=56672" target="_top">
-    <IMG SRC="http://ad.doubleclick.net/ad/accuweather.com/accuweather;in=;;sz=468x60;tile=2;ord=56672" 
-	border=0 width="468" height="60"></A>
-  </noscript>
+  OAS_AD('x01');
+//-->
+</script>
  </td></tr>
 	<tr>
 		<td width="760" colspan="3">
