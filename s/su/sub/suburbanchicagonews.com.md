@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602213938id_/http%3A//www.suburbanchicagonews.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206065650id_/http%3A//www.suburbanchicagonews.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # SuburbanChicagoNews.com
 
@@ -48,7 +48,6 @@
 [  Local Opinions](https://web.archive.org/opinions/)  
 [  Columnists](https://web.archive.org/opinions/columnists/)  
 [  E-The People](http://www.e-thepeople.com/affiliates/copleynet/)  
-[  Making the Rounds](https://web.archive.org/opinions/makingtherounds/)  
 [  OpenLine / SpeakOut](https://web.archive.org/opinions/)  
 [Sports](https://web.archive.org/sports/)  
 ---  
@@ -68,13 +67,13 @@
   
 **Privacy Policy**
 
-This "Web Site" is sponsored and hosted by Digital Chicago, Inc. [Click here](https://web.archive.org/web/20030602213938id_/http%3A//www.suburbanchicagonews.com/aboutus/sites.html) for a list of the Web Sites governed by Digital Chicago's Privacy Policy and [Terms of Use](https://web.archive.org/web/20030602213938id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html) (collectively, "Digital Chicago" or "we" or "us"). Digital Chicago respects the privacy of its users. This Privacy Policy explains what information we collect, how we use your information, and your choices. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20030602213938id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html), which governs your use of Digital Chicago's Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
+This "Web Site" is sponsored and hosted by Digital Chicago, Inc. [Click here](https://web.archive.org/web/20031206065650id_/http%3A//www.suburbanchicagonews.com/aboutus/sites.html) for a list of the Web Sites governed by Digital Chicago's Privacy Policy and [Terms of Use](https://web.archive.org/web/20031206065650id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html) (collectively, "Digital Chicago" or "we" or "us"). Digital Chicago respects the privacy of its users. This Privacy Policy explains what information we collect, how we use your information, and your choices. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20031206065650id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html), which governs your use of Digital Chicago's Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
 
 **General**
 
 While on our Web Site, you may encounter links to other Web sites or online materials. For example, you may encounter links from sponsors or partners, which may include Digital Chicago's logo as part of a co-branding agreement. If you "click" on a link to such a third party, the "click" takes you off our Web Site and to a third party's Web site, which is beyond Digital Chicago's control. These other Web sites may set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected by Digital Chicago, and we encourage you to review the privacy policy of any other Web site you visit.
 
-In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in user forums (such as chat rooms, bulletin boards, or similar Web pages). You should keep in mind that whenever you publicly disclose information about yourself online - for example, via message boards or chat rooms - that information could be collected and used by people that you do not know. In addition, certain message boards (and similar user forums) may display [IP addresses](https://web.archive.org/web/20030602213938id_/http%3A//www.suburbanchicagonews.com/aboutus/sites.html) along with the message poster's name and message. Digital Chicago bears no responsibility for any action or policies of any third parties who collect any information users may disclose in user forums or other public areas, if any, of this Web Site. 
+In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in user forums (such as chat rooms, bulletin boards, or similar Web pages). You should keep in mind that whenever you publicly disclose information about yourself online - for example, via message boards or chat rooms - that information could be collected and used by people that you do not know. In addition, certain message boards (and similar user forums) may display [IP addresses](https://web.archive.org/web/20031206065650id_/http%3A//www.suburbanchicagonews.com/aboutus/sites.html) along with the message poster's name and message. Digital Chicago bears no responsibility for any action or policies of any third parties who collect any information users may disclose in user forums or other public areas, if any, of this Web Site. 
 
 **Information Digital Chicago Collects**
 
@@ -86,7 +85,7 @@ Digital Chicago does not knowingly collect information from children under thirt
 
 Anonymous Information: When you visit this Web Site, our Web servers automatically collect certain Web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each Web page and the length of their stays. We also collect the anonymous information automatically sent to us by your Web browser, such as browser type, referrer data that identifies the Web page visited prior and subsequent to visiting our Web Site, and IP address. 
 
-Cookies: Like most Web sites, this Web Site sometimes makes use of browser ["cookies."](https://web.archive.org/web/20030602213938id_/http%3A//www.suburbanchicagonews.com/aboutus/cookies.html) Digital Chicago does not save PII in cookies, but we may link the cookie to any PII or other information we collect. In addition, we or our third party advertising networks may use cookies in connection with the serving of advertisements. For example, cookies may be used to control the number of times a user sees a particular advertisement or to target an advertisement to those users that will likely be the most interested in it. We do not have access to cookies set by third parties or the information that they may contain. 
+Cookies: Like most Web sites, this Web Site sometimes makes use of browser ["cookies."](https://web.archive.org/web/20031206065650id_/http%3A//www.suburbanchicagonews.com/aboutus/cookies.html) Digital Chicago does not save PII in cookies, but we may link the cookie to any PII or other information we collect. In addition, we or our third party advertising networks may use cookies in connection with the serving of advertisements. For example, cookies may be used to control the number of times a user sees a particular advertisement or to target an advertisement to those users that will likely be the most interested in it. We do not have access to cookies set by third parties or the information that they may contain. 
 
 Web Beacons. A Web beacon, which is sometimes also called a Web bug or "clear gif", is a small graphic image in a Web page, a Web-based document or an e-mail message, which generally allows the party that set the Web beacon to monitor certain information about the viewer of the Web page, Web-based document or e-mail message, and it may allow access to certain cookies. Web beacons are usually invisible to the user, because they are very small (generally 1-by-1 pixel). However, in general, any electronic image viewed as part of a Web page, including an advertisement, can act as a Web beacon. Web beacons typically collect the URL of the page the Web beacon comes from, the type of browser requesting the Web beacon, the IP address of the computer that the Web beacon is sent to and the time the Web beacon was viewed. Web beacons can also be linked to PII. Digital Chicago may use Web beacons for a number of purposes, such as to count visitors to our Web pages or to monitor how our users navigate our site, and we may include Web beacons in HTML-formatted e-mail newsletters in order to count how many newsletters (or particular articles, links, etc.) we sent were actually opened. In addition, third parties that serve ads or content onto this Web Site may use Web beacons. Digital Chicago does not have control over Web beacons used by such third parties and does not have access to whatever information they may collect. 
 
@@ -149,8 +148,7 @@ This Digital Chicago Privacy Policy was last updated on Nov. 8, 2001.
 
 |   | 
 
-|  **THURSDAY  
-JANUARY 30, 2001**  
+|   
 ---  
 [](javascript:vote\('/vote/poll.asp?data_file=TOPpoll.js'\);)  
 •[ **VOTE:** One year later, have the events of last Sept. 11 changed your life? ](javascript:vote\('/vote/poll.asp?data_file=TOPpoll.js'\);)  
@@ -159,16 +157,14 @@ JANUARY 30, 2001**
   
 | 
 
-[](https://web.archive.org/features/techtalk/)  
-[COMPUTER ADVICE:  
-Tech Talk](https://web.archive.org/features/techtalk/)
+[](https://web.archive.org/stories/terrorism/)  
+• [SEPT. 11: The war on terror](https://web.archive.org/stories/terrorism/)
 
 | 
 
-[](https://web.archive.org/stories/iraq/heroes/)  
-• [Our  
-American  
-Heroes](https://web.archive.org/stories/iraq/heroes/)  
+[](https://web.archive.org/sports/prepbasketball/)  
+[BASKETBALL:  
+Area school previews](https://web.archive.org/sports/prepbasketball/)  
   
 ---|---  
   
