@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the upstate.edu privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609192641id_/http%3A//www.upstate.edu/homepage/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upstate.edu privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209103537id_/http%3A//www.upstate.edu/homepage/privacy.php) for the most accurate reproduction.*
 
-# SUNY Upstate Medical University: About Syracuse and Central New York
-
-  
-
-
-#### Upstate Medical University Privacy Policy
+# SUNY Upstate Medical University::Web Privacy Policy
 
 **Commitment to Privacy**
 
@@ -19,11 +14,11 @@ Consistent with the provisions of New York State's [Internet Privacy and Securit
 
 Upstate is able to collect the following information:
 
-  * The Internet Protocol address of the computer that accessed Upstate's Web sites; 
+  * The Internet Protocol address of the computer that accessed Upstate's Web sites;
   * The type of browser, its version and the operating system on which that browser is running; 
-  * The Web page from which the __user__ accessed the current Web page; 
-  * The date and time of the __user_ 's_ request; and 
-  * The pages that were visited and the amount of time spent at each page 
+  * The Web page from which the __user__ accessed the current Web page;
+  * The date and time of the __user_ 's_ request; and
+  * The pages that were visited and the amount of time spent at each page
 
 None of the above-mentioned information is deemed to constitute __personal information__ by the New York State [Internet Privacy and Security Act](http://assembly.state.ny.us/leg/?cl=114&a=3). The information that is collected automatically is used to improve Upstate's Web site content and to understand how __user_ s_ are interacting with Upstate's Web sites. This information is collected for statistical analysis and to determine what information is of most and least interest to Upstate's __user_ s_. The information is not collected for commercial marketing purposes and Upstate is not authorized to sell or otherwise disclose information collected from Web sites for commercial marketing purposes. 
 
@@ -51,7 +46,7 @@ Upstate may disclose _personal information_ to federal or state law enforcement 
 
 ##### Retention of Information Collected Through this Web Site
 
-The information collected through Upstate's Web sites is retained by Upstate in accordance with the records retention and disposition requirements of the New York State [Arts & Cultural Affairs Law](http://www.archives.nysed.gov/services/recmgmt.htm). In general, the Internet services logs of Upstate, comprising electronic files or automated logs created to monitor access and use of services provided through Upstate's Web sites, are retained for 21 business days and then destroyed. Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy.
+The information collected through Upstate's Web sites is retained by Upstate in accordance with the records retention and disposition requirements of the New York State [Arts & Cultural Affairs Law](http://www.archives.nysed.gov/a/nysaservices/ns_mgr_laws_acal5705.shtml). In general, the Internet services logs of Upstate, comprising electronic files or automated logs created to monitor access and use of services provided through Upstate's Web sites, are retained for 21 business days and then destroyed. Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy.
 
 ##### Access to and Correction of P _ersonal Information_ Maintained by Upstate
 
@@ -64,7 +59,7 @@ Any _user_ may submit a request to Upstate's Privacy Administrator to determine 
 
 The Privacy Administrator shall, within five (5) business days of the receipt of a proper request, provide access to the _personal information_ ; deny access in writing, explaining the reasons therefore; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment.
 
-In the event that Upstate has collected and maintained _personal information_ pertaining to a _user_ through Upstate's Web sites, the information is to be provided to the _user_ pursuant to the _user_ 's request. The Privacy Administrator shall inform the _user_ of his or her right to request that the _personal information_ be amended or corrected under the procedures set forth in [section 95 of the Public Officers Law](http://www.tenant.net/Other_Laws/Pubofc/pubofc08.txt).
+In the event that Upstate has collected and maintained _personal information_ pertaining to a _user_ through Upstate's Web sites, the information is to be provided to the _user_ pursuant to the _user_ 's request. The Privacy Administrator shall inform the _user_ of his or her right to request that the _personal information_ be amended or corrected under the procedures set forth in [section 95 of the Public Officers Law](http://www.tenant.net/Other_Laws/Pubofc/pubofc08.html).
 
 ##### Confidentiality and Integrity of _Personal Information_ Collected Through upstate.edu
 
