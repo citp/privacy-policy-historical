@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolquiz.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615083747id_/http%3A//www.coolquiz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolquiz.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205032300id_/http%3A//www.coolquiz.com/privacy.asp) for the most accurate reproduction.*
 
 # Cool Quiz trivia network offers quizes,quotes,surveys & fun family entertainment.
 
