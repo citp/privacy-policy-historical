@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtools.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207160925id_/http%3A//www.virtools.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtools.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609191145id_/http%3A//www.virtools.com/privacy.asp) for the most accurate reproduction.*
 
 # Virtools Privacy Statement
 
