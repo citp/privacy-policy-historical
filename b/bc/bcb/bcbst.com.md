@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bcbst.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120127id_/http%3A//bcbst.com/legal/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbst.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604010714id_/http%3A//www.bcbst.com/legal/privacy.shtm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Web Site Privacy Policy
-
-* * *
 
 [Notice of Privacy Practices](https://web.archive.org/hipaa/general/privacy_notice.pdf)
 
@@ -12,7 +8,7 @@ Web Site Privacy Policy
 
 As part of the day to day business operations of BlueCross BlueShield of Tennessee (BCBST), including operation of the BCBST web site, we receive and maintain certain information regarding our subscribers and members. Information received from the BCBST web site depends in part on what you do when you visit or transact business on the BCBST web site. BCBST respects the privacy of every individual who visits our web site. Therefore, we would like to define the types of information we receive and describe how it is maintained in this privacy policy ("Privacy Policy"). This policy refers only to the information collected and maintained from this Web site. 
 
-USING THIS WEB SITE CONFIRMS YOUR CONSENT AND AGREEMENT TO OUR PRIVACY POLICY, INCLUDING COLLECTION, USE AND DISCLOSURE OF INFORMATION BY BCBST AS DESCRIBED HEREIN. YOUR USAGE ALSO SIGNIFIES YOUR COMPLIANCE WITH OUR [**USER AGREEMENT**](https://web.archive.org/web/20031207120127id_/http%3A//bcbst.com/legal/user_agrmt.shtm).
+USING THIS WEB SITE CONFIRMS YOUR CONSENT AND AGREEMENT TO OUR PRIVACY POLICY, INCLUDING COLLECTION, USE AND DISCLOSURE OF INFORMATION BY BCBST AS DESCRIBED HEREIN. YOUR USAGE ALSO SIGNIFIES YOUR COMPLIANCE WITH OUR [**USER AGREEMENT**](https://web.archive.org/web/20040604010714id_/http%3A//www.bcbst.com/legal/user_agrmt.shtm).
 
   * **Guests** \- Browsers of our web site often visit solely to obtain general information about BCBST’s operations and services. If you visit our web site to read or download information, you enter our secured site as a guest. As a guest, we collect and store only the following information: the name of the domain from which you access the Internet (for example: aol.com, if you connect from an America Online account), the date and time you accessed our site and the Internet address of the web site from which you linked directly to our site. We use this information to measure the number of visitors to the different sections of our site and to help us make our site more useful to visitors.
   * **Members** \- Browsers who currently have health insurance coverage with BCBST can access our web site to conduct transactions such as submit an application for coverage; check claim status, referrals and pre-authorizations; verify benefit information; and pay premiums. Prior to utilization of these services, BCBST may ask for personal information (such as date of birth, social security number, name, address with zip code, telephone number and e-mail address) to verify appropriate usage. This information is collected during registration, and a letter which will have a PIN number will be generated and mailed to your address on file. After you receive your PIN number, you will be able to sign on and create a user name and password. BCBST, its employees or affiliates will not have access to your user name and password that you create. If you receive this notification by mail and did not register to access the services available on our web site, please contact BCBST immediately via our [Member Contact Page](https://www.bcbst.com/contact/contactmem.asp). 
