@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 1999-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991115181206id_/http%3A//spin.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210151600id_/http%3A//www.spin.com/about/privacy.html) for the most accurate reproduction.*
 
 # Spin | About
 
