@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215092539id_/http%3A//hovelaudio.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2005-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050328092813id_/http%3A//hovelaudio.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Hovel Audio: Privacy Notice
 
