@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810021854id_/http%3A//www.indextools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060758id_/http%3A//www.indextools.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: IndexTools Web Site Tracking and Analysis
 
@@ -66,8 +66,15 @@ You hereby agree to disclose to your users that you use IndexTools.com Statistic
 For More Information  
 If you have any questions or comments about this policy, our services, or your experience with IndexTools.com Statistics, you can use the [Feedback](https://web.archive.org/company/contactus.html) page on our site, or write to us at: 
 
-IndexTools.com c/o TENSA Technologies Limited  
-Reitter F. u. 132  
-Reitter Building  
-Budapest  
-Hungary, Europe
+**TENSA Technology Ltd. - IndexTools.com**
+
+|   |  **USA Head Office** | 225 Broadway, 18th Floor  
+San Diego, CA 92101  
+USA  
+  
+---|---|---  
+  | **Headquarters & Development Center** | Reitter F. u. 132.  
+H-1131 Budapest  
+Hungary, Europe  
+  
+
