@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npros.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606225311id_/http%3A//npros.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npros.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602201056id_/http%3A//npros.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
