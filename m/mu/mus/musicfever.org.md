@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicfever.org privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607003102id_/http%3A//www.musicfever.org/privacy%2520statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicfever.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205041805id_/http%3A//musicfever.org/privacy%2520statement.htm) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
@@ -84,8 +84,6 @@ If, however, we are going to use visitors’ personally identifiable information
 
 ## Contact Information
 
-If visitor have any questions or suggestions regarding our privacy policy, please contact us at:
-
-[request@musicfever.org](mailto:request@musicfever.org)
+If visitor have any questions or suggestions regarding our privacy policy, please contact us at: [MessageBox](http://www.musicfever.org/messagebox/)
 
 <http://www.musicfever.org/>
