@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610031501id_/http%3A//www.agl.com.au/AGL/Global/Privacy%2BStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004111718id_/http%3A//www.agl.com.au/AGL/Global/Privacy%2BStatement.htm) for the most accurate reproduction.*
 
 # AGL - Privacy Statement
 
