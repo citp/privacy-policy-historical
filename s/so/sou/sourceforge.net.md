@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204105300id_/http%3A//sourceforge.net/tos/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603203710id_/http%3A//sourceforge.net/tos/privacy.php) for the most accurate reproduction.*
 
-# SourceForge: Terms of Service Agreement
-
-  
-
-
-## SourceForge Privacy Policy
+# SourceForge: SourceForge Privacy Policy
 
 At SourceForge, we intend to give you as much control as possible over your personal information, including the Registration Data. We will let each user know how we will use the personal information derived from each user's access to and use of SourceForge and/or the Services. 
 
