@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214185408id_/http%3A//www.cybergrants.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605063837id_/http%3A//www.cybergrants.com/privacy.shtml) for the most accurate reproduction.*
 
 # CyberGrants, Inc - The Home For Online Grantmaking
 
@@ -20,8 +20,7 @@ We collect certain information about our users. This information assists us in m
 |    
 [](http://www.cybergrants.com:9990/)
 
-[](https://web.archive.org/security.shtml)
-
 [](https://web.archive.org/quote.shtml)
 
-[](https://web.archive.org/seminars.shtml)
+[](https://web.archive.org/seminars.shtml)   
+[](https://web.archive.org/security.shtml)
