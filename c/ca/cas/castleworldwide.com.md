@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castleworldwide.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602174022id_/http%3A//www.castleworldwide.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castleworldwide.com privacy policy that was archived on 2003-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030808180613id_/http%3A//www.castleworldwide.com/about/privacy.html) for the most accurate reproduction.*
 
 # CASTLE - Privacy Policy
 
