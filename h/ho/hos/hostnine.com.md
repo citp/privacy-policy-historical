@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostnine.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607200936id_/http%3A//hostnine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostnine.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203103234id_/http%3A//hostnine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
