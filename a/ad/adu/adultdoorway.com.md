@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the adultdoorway.com privacy policy that was archived on 2005-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050312034143id_/http%3A//www.adultdoorway.com/privacy.htm) for the most accurate reproduction.*
+
+# Adult Doorway
+
+Our Commitment To Privacy
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+
+We do not collect any customer information. Please see our payment processor's Privacy Policy concerning collected information. 
