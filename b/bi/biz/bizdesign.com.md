@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bizdesign.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209192216id_/http%3A//www.bizdesign.com/pages/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizdesign.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403175123id_/http%3A//www.bizdesign.com/pages/policy.shtml) for the most accurate reproduction.*
 
 # BizDesign's Privacy Statement
-
-**Privacy Statement for BizDesign.com**
 
 Maintaining our site visitors' Internet privacy is of great importance BizDesign, Inc. To demonstrate our firm commitment to your privacy, we have created this overall privacy statement. This document outlines the types of information gathered from site visitors, explains how each type of information is used, and offers ways for you to change or update your information.
 
