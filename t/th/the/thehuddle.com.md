@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208083329id_/http%3A//www.thehuddle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602130352id_/http%3A//thehuddle.com/privacy.htm) for the most accurate reproduction.*
 
 # Fantasy Football in The Huddle
 
@@ -47,4 +47,4 @@ The Huddle contains links to other sites on the Web. We cannot control and are n
 
 If you have any further questions or concerns about The Huddle's privacy policy and use of personal information, please send them to [custserv@thehuddle.com](mailto:custserv@thehuddle.com).
 
-[Back to home page](https://web.archive.org/web/20021208083329id_/http%3A//www.thehuddle.com/index.html)
+[Back to home page](https://web.archive.org/web/20030602130352id_/http%3A//thehuddle.com/index.html)
