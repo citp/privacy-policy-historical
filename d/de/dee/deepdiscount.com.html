@@ -1,26 +1,70 @@
-<!--The following is the downloaded HTML source of the deepdiscount.com privacy policy that was archived on 2003-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031026023722id_/http%3A//www.deepdiscounts.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deepdiscount.com privacy policy that was archived on 2004-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607045538id_/http%3A//deepdiscounts.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 
-<title>Shop@deepdiscounts.com</title>
+<title>Shop@discounts.com</title>
 <meta name="robots" content="index,follow">
 
 
 
 
-<base href="http://www.deepdiscounts.com">
+<base href="http://deepdiscounts.com">
 <script language="JavaScript" src="popup.js">
 </script>
+ <script>
+ var imageurl
+ var productname
+ 
+  function popup(menuName,that) {
+    
+    var completeurl = that.href;
+    var titlestart = completeurl.indexOf("searchvalue=") + 12;
+    var titleend = completeurl.indexOf("searchtype") - 1 ;
+    var myRegExp = /\+/g; 
+    productname = completeurl.slice(titlestart,titleend);
+    productname = productname.replace(myRegExp," ");
+    var picturestart = completeurl.indexOf("pictureurl=") + 11;
+    var pictureend = completeurl.length;
+    imageurl = completeurl.slice(picturestart,pictureend);
+    document.all['changepicture'].src=imageurl; 
+    myH1=document.getElementById('productlabel');
+    myH1.innerHTML="<b>" + productname + "</b>";
+    
+    mylist=document.getElementById('divlistprice');
+    mylist.innerHTML = document.getElementById('thelistprice').outerHTML
+    
+    myourprice=document.getElementById('divourprice');
+    myourprice.innerHTML = document.getElementById('theourprice').outerHTML
+    
+
+    
+    
+
+    var browser = navigator.appName
+	 var ver = navigator.appVersion.charAt(1)
+	 if (browser=="Netscape") {
+		top.document.layers[menuName].visibility = "show";
+	 }
+	 else  {
+		top.document.all[menuName].style.visibility = "visible";
+	 }
+   }
+  </script>
+
 <link rel="STYLESHEET" type="text/css" href="/styles/az_blue_deep.css">
 </head>
 <body>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody><tr class="item1">
-<td valign="middle" colspan="2" align="left" class="TopLabel">
-&nbsp;Shop@DeepDiscounts.Com</td>
-<td valign="top" colspan="1" align="right">
-In Association With&nbsp;<br>amazon.com&nbsp;</td>
+<br><center><table border="0" width="90%" cellspacing="0" cellpadding="0">
+<tbody><tr><td width="100%" colspan="3" align="right"><table bgcolor="#ffffff" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="left">
+<span class="TopLabel">Shop@DeepDiscounts.Com</span>
+</td><td valign="middle" colspan="1" align="right" width="30%">
+<span style="font-size:7pt">In Association With&nbsp;<br>amazon.com&nbsp;</span>
+</td>
+</tr>
+</tbody></table>
+</td></tr><tr><td width="100%" class="lineheight8" colspan="3">&nbsp;
+</td>
 </tr>
 <tr>
 <td class="item1" valign="top" colspan="3" align="center">
@@ -28,98 +72,127 @@ In Association With&nbsp;<br>amazon.com&nbsp;</td>
 <table cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="navcell1">
-<a style="text-decoration:none;" href="index.asp">Home</a>&nbsp;
+<a style="text-decoration:none;color:#000" href="index.asp">Home</a>&nbsp;
 </td>
 <td width="2">
 &nbsp;
 </td>
 <td class="navcell1">
-<a style="text-decoration:none;" href="/books">Books</a>
+<a style="text-decoration:none;color:#000" href="/books">Books</a>
 </td>
 <td width="2">
 &nbsp;
 </td>
 <td class="navcell1">
-<a style="text-decoration:none;" href="/music">Music</a>
+<a style="text-decoration:none;color:#000" href="/music">Music</a>
 </td>
 <td width="2">
 &nbsp;
 </td>
 <td class="navcell1">
-<a style="text-decoration:none;" href="/dvd">DVDS</a>
+<a style="text-decoration:none;color:#000" href="/dvd">DVDS</a>
 </td>
 <td width="2">
 &nbsp;
 </td>
 <td class="navcell1">
-<a style="text-decoration:none;" href="/vhs">Videos</a>
+<a style="text-decoration:none;color:#000" href="/vhs">Videos</a>
+</td>
+<td width="2">
+&nbsp;
+</td>
+<!--
+<td  class="navcell1" >
+<a    style="text-decoration:none;color:#000"    href=/pc-hardware>Computers</a>
+</td>
+-->
+<td class="navcell1">
+<a style="text-decoration:none;color:#000" href="/videogames">Video Games</a>
+</td>
+<!--
+<td width="2">
+&nbsp;
+</td>
+<td  class="navcell1" >
+<a    style="text-decoration:none;color:#000"    href=/gifts.asp>Gifts</a>
+</td>
+-->
+<td width="2">
+&nbsp;
+</td>
+<td class="navcell1">
+<a style="text-decoration:none;color:#000" href="/toys">Toys</a>
 </td>
 <td width="2">
 &nbsp;
 </td>
 <td class="navcell1">
-<a style="text-decoration:none;" href="/photo">Cameras</a>
+<a style="text-decoration:none;color:#000" href="/baby">Baby</a>
+</td><td width="2">
+&nbsp;
+</td>
+<td class="navcell1">
+<a style="text-decoration:none;color:#000" href="/software">Software</a>
 </td>
 <td width="2">
 &nbsp;
 </td>
 <td class="navcell1">
-<a style="text-decoration:none;" href="/pc-hardware">Computers</a>
+<a style="text-decoration:none;color:#000" href="/electronics">Electronics</a>
 </td>
 <td width="2">
 &nbsp;
 </td>
 <td class="navcell1">
-<a style="text-decoration:none;" href="/software">Software</a>
+<a style="text-decoration:none;color:#000" href="/photo">Cameras</a>
 </td>
 <td width="2">
 &nbsp;
 </td>
-<td class="navcell1">
-<a style="text-decoration:none;" href="/electronics">Electronics</a>
+<!--
+<td  class="navcell1" >
+<a    style="text-decoration:none;color:#000"    href=/wireless-phones>Wireless</a>
 </td>
 <td width="2">
 &nbsp;
 </td>
+-->
 <td class="navcell1">
-<a style="text-decoration:none;" href="/toys">Toys</a>
-</td>
-<td width="2">
-&nbsp;
-</td>
-<td class="navcell1">
-<a style="text-decoration:none;" href="/more.asp">More</a>
+<a style="text-decoration:none;color:#000" href="/more.asp">More</a>
 </td>
 </tr>
 </tbody></table>
 
 </td>
 </tr>
-<tr>
-<td class="item0" valign="middle" colspan="2">
-<h1 style="font-size:12pt;line-height:14pt;margin-bottom:0px">&nbsp;&nbsp;<a href=""></a>&nbsp;<br></h1>
+<tr class="item0">
+<td valign="middle" colspan="2">
+<h1 style="font-size:12pt;line-height:12pt;margin-bottom:0px">&nbsp;&nbsp;<a style="text-decoration:none;color:#000;" href=""></a>&nbsp;<br></h1>
 </td>
-<td class="item0" valign="middle" colspan="1" align="right" width="30%">
+<td valign="middle" colspan="1" align="left" width="30%">
 </td>
 </tr>
-<tr><td width="100%" colspan="3" class="item1" align="center"><span class="TopLabel">DeepDiscounts.Com  For The Best Prices</span>
-<br><b>Free Super Saver Shipping On Orders Over $25</b>&nbsp;on selected items </td></tr><tr><td width="100%" colspan="3" class="item0" align="center">&nbsp;</td></tr></tbody></table>
-<table border="0" width="100%" cellspacing="3">
+<tr><td width="100%" class="lineheight8" colspan="3">&nbsp;
+</td>
+</tr>
+<tr><td width="100%" colspan="3" class="item1" align="center"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center">
+<span class="TopLabel">DeepDiscounts.Com  For The Best Prices</span>
+<br><b>Free Super Saver Shipping On Orders Over $25</b>&nbsp;on selected items </td>
+</tr></tbody></table>
+</td></tr><tr><td width="100%" class="lineheight8" colspan="3">&nbsp;
+</td>
+</tr>
+</tbody></table>
+<table border="0" width="90%" cellpadding="0" cellspacing="0">
 <tbody><tr style="margin-bottom:3pt;">
 <td valign="top" align="right" width="20%" class="item0" rowspan="2" style="border: 1px solid black">
 <center>
-<form name="search" method="get"><span class="SearchLabel">Search</span><br><input type="hidden" name="typeSearch" value="KeywordSearch"><input type="text" class="subcolor1" name="search_string" size="15" maxlength="50"> in <br><select name="mode" class="subcolor1"><option value="all">All</option><option value="books">books</option><option value="dvd">dvd</option><option value="music">music</option><option value="vhs">video</option><option value="photo">Camera</option><option value="pc-hardware">Computers</option><option value="software">Software</option><option value="electronics">Electronics</option><option value="toys">Toys</option><option value="videogames">Video Games</option><option value="magazines">Magazines</option><option value="baby">Baby</option><option value="wireless-phones">Cell Phones</option></select><input type="submit" class="subcolor1" name="search_submitted" value="Go"></form></center>
+<form name="search" method="get"><span class="SearchLabel">Search</span><br><input type="hidden" name="typeSearch" value="KeywordSearch"><input type="text" class="subcolor1" name="search_string" size="15" maxlength="50"> in <br><select name="mode" class="subcolor1"><option value="all">All</option><option value="bookstitle">books:title</option><option value="booksauthor">books:author</option><option value="bookssubject">books:subject</option><option value="booksisbn">books:isbn</option><option value="dvd">dvd</option><option value="music">music</option><option value="vhs">video</option><option value="photo">Camera</option><option value="pc-hardware">Computers</option><option value="software">Software</option><option value="electronics">Electronics</option><option value="toys">Toys</option><option value="videogames">Video Games</option><option value="magazines">Magazines</option><option value="baby">Baby</option><option value="wireless-phones">Cell Phones</option></select><input type="submit" class="subcolor1" name="search_submitted" value="Go"></form></center>
 <p style="margin-right:6pt;text-align:right">
 <a href="http://www.qksrv.net/click-1140107-1555791" target="_blank">
 <img src="http://www.qksrv.net/image-1140107-1555791" width="120" height="60" alt="Save 50-75% off retail prices!" border="0"></a>
-
-<br>
-<br>
-<a href="http://www.qksrv.net/click-1140107-8236219" target="_blank">
-1-800 CONTACTS offers you- FREE SHIPPING and FREE CONTACT LENS CASE with every online order! Visit us at 1800contacts.com</a>
-<img src="http://www.qksrv.net/image-1140107-8236219" width="1" height="1" border="0">
-
 </p></td>
+<td width="3px" rowspan="3"></td>
 <td valign="top" align="Left" colspan="2">
 
 <center>
@@ -138,217 +211,70 @@ us and we take that task very seriously.
 </ul></td>
 </tr>
 <tr style="font-size:10pt;line-height:14pt;margin-bottom:0px">
-<td class="item0" valign="middle" align="center" colspan="3" style="border: 1px solid black">
-<form name="search" method="get" style="margin: 0px;"><span class="SearchLabel">Search</span> &nbsp;<input type="hidden" name="typeSearch" value="KeywordSearch"><input type="text" class="subcolor1" name="search_string" size="15" maxlength="50"><b> in  </b><select name="mode" class="subcolor1"><option selected="" value="all">All</option><option value="books">books</option><option value="dvd">dvd</option><option value="music">music</option><option value="vhs">video</option><option value="photo">Camera</option><option value="pc-hardware">Computers</option><option value="software">Software</option><option value="electronics">Electronics</option><option value="toys">Toys</option><option value="videogames">Video Games</option><option value="magazines">Magazines</option><option value="baby">Baby</option></select><input type="submit" class="subcolor1" name="search_submitted" value="Go"></form></td>
+<td class="item0" valign="middle" align="center" colspan="1" style="border: 1px solid black">
+<table width="100%" cellpadding="3" cellspacing="0" border="0"><tbody><tr><td align="center"><b>Search for</b>&nbsp;&nbsp;<form style="display: inline;" name="search" method="get"><input type="hidden" name="typeSearch" value="KeywordSearch"><input type="text" class="subcolor1" name="search_string" size="15" maxlength="50"><b> in  </b><select name="mode" class="subcolor1"><option selected="" value="all">All</option><option value="bookstitle">books:title</option><option value="booksauthor">books:author</option><option value="bookssubject">books:subject</option><option value="booksisbn">books:isbn</option><option value="dvd">dvd</option><option value="music">music</option><option value="vhs">video</option><option value="photo">Camera</option><option value="pc-hardware">Computers</option><option value="software">Software</option><option value="electronics">Electronics</option><option value="toys">Toys</option><option value="videogames">Video Games</option><option value="magazines">Magazines</option><option value="baby">Baby</option></select>&nbsp;&nbsp;<input type="submit" class="subcolor1" name="search_submitted" value="Go"></form></td></tr></tbody></table></td>
 </tr></tbody></table>
 <table border="0" width="100%" cellspacing="3">
 <tbody><tr><td colspan="1" align="center"><center></center></td></tr><tr><td colspan="1" align="center"><a href="contact.asp">Contact Us</a>&nbsp;
 <a href="privacy">Privacy Statement</a>&nbsp;
 <a href="disclaimer">Disclaimer</a>&nbsp;
-</td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</td></tr></tbody></table></center>
+
+  <div id="waitmessage" style="position:absolute;">
+  <center>
+  <table border="0" bgcolor="##b0efff" width="420" style="border-style: solid; border-color: #000000; border-width: 1px;">
+  <tbody><tr>
+  <td align="center" valign="middle" id="productlabel" colspan="2">
+  </td>
+  </tr>
+  <tr>
+  <td align="center" valign="right" width="100"> 
+  <img src="x.gif" id="changepicture">
+  </td>
+  <td align="right" valign="top" width="320">
+  <br>
+  <b><span id="divlistprice">  </span></b><br><br>
+  <span id="divourprice">  </span><br><br>
+  <br>
+  <span style="text-align:left;">
+  
+  <b>
+  http://Books.DeepDiscounts.Com is 
+  comparing prices at the finest online bookstores.  This may take up to 12 seconds.  Please standby . . .</b>
+  </span>
+  </td>
+  </tr>
+  </tbody></table>
+  </center>
+  </div>
+  <script language="javascript">
+  var crossobj=document.all? document.all.waitmessage: document.getElementById? document.getElementById("waitmessage") : document.waitmessage
+  var browser = navigator.appName
+  var ver = navigator.appVersion.charAt(1)
+  if (browser=="Netscape") {
+  top.document.layers.waitmessage.visibility = "hide";
+  }
+  else  {
+  top.document.all.waitmessage.style.visibility = "hidden";
+  }
+  function positionit(){
+  var dsocleft=document.all? document.body.scrollLeft : pageXOffset
+  var dsoctop=document.all? document.body.scrollTop : pageYOffset
+  var window_width=document.all? document.body.clientWidth : window.innerWidth
+  //if the user is using IE 4+ or NS6+
+  if (document.all||document.getElementById){
+  //crossobj.style.left= (parseInt(dsocleft)+parseInt(window_width))/2
+  crossobj.style.left= (parseInt(window_width)/2)-200
+  crossobj.style.top=dsoctop+175
+  }
+  //else if the user is using NS 4
+  else if (document.layers){
+  crossobj.left=dsocleft+window_width-0
+  crossobj.top=dsoctop+15
+  }
+  }
+  setInterval("positionit()",200)
+  </script>
 
 
 
