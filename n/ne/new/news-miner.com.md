@@ -1,44 +1,27 @@
-> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214124527id_/http%3A//www.news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625000412id_/http%3A//www.news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
 
-# News-Miner
+# News-Miner - Privacy Policy<!--NAV:SPACER-->
 
-December 14, 2002   
-Fairbanks, AK | [Today's Headlines](https://web.archive.org/Stories/0,1413,113%257E7250%257E,00.html)  
+June 24, 2003   
+Fairbanks, AK
+
+| [Home Page](https://web.archive.org/Stories/0,1413,113%257E7250%257E,00.html)  
 ---  
-[Home Page](https://web.archive.org/Stories/0,1413,113%257E7250%257E,00.html)  
-[Top Story](https://web.archive.org/Stories/0,1413,113%257E7246%257E,00.html)  
-[Local News](https://web.archive.org/Stories/0,1413,113%257E7247%257E,00.html)  
-[Statewide News](https://web.archive.org/Stories/0,1413,113%257E7249%257E,00.html)  
-[Sports Headlines](https://web.archive.org/Stories/0,1413,113%257E7248%257E,00.html)  
+[Past News](https://web.archive.org/Stories/0,1413,113%257E7244%257E,00.html)  
+[Sports](https://web.archive.org/Stories/0,1413,113%257E7248%257E,00.html)  
 [Opinion](https://web.archive.org/Stories/0,1413,113%257E7252%257E,00.html)  
+[Weekly Features](https://web.archive.org/Stories/0,1413,113%257E7205%257E,00.html)  
 [Obituaries](https://web.archive.org/Stories/0,1413,113%257E7251%257E,00.html)  
-[Archived Features](http://209.165.153.5/indexyukon.htm)  
-[On Their Own](https://web.archive.org/Stories/0,1413,113%257E24058%257E,00.html)  
-[Yukon Quest 2002](http://209.165.153.5/indexyukon.htm)  
-[Photo Slide Shows](http://209.165.153.5/indexslideshow.htm)  
-[ArcticCam Slide-Show](http://209.165.153.5/FMPro?-db=reviews.fp3&-sortfield=featured&-sortorder=descending&-format=indexslideshow.html&-lay=CGI&-op=eq&volume=cam1&-find)  
-[Yukon Quest 2002](http://209.165.153.5/indexslideshowquest.htm)  
-[ArcticCam](http://www.newsminer.com/cam.html)  
-[ArcticCam Comments](http://209.165.153.5/indexarcticcam.htm)  
-[Sourdough Jack Poll](http://209.165.153.5/FMPro?-db=reviews.fp3&-format=indexpoll.html&-lay=CGI&-op=eq&current=yes&-op=eq&pub=poll&-max=1&-find)  
-[Classifieds](http://localnet.abracat.com/fairbanks/index.html)  
-[FastAds!](http://209.165.153.5/FMPro?-db=facts.fp3&-format=indexfastad.html&-lop=and&-op=eq&current=yes&-op=eq&pub=fastad&-SORTFIELD=SUB&-sortorder=descending&-sortfield=startdate&-sortorder=ascending&-lay=cgi&-max=25&-find)  
-[Place a Classified](http://209.165.153.5/adclassified.html)  
-[Home Delivery](http://209.165.153.5/FMPro?-db=facts.fp3&-format=subscribe.html&-lay=CGI&-findany)  
-[Purchase Single Issue](http://209.165.153.5/subscribesingle.html)  
-[Subscription Form](http://209.165.153.5/FMPro?-db=facts.fp3&-format=subscribe.html&-lay=CGI&-findany)  
-[Change of Address](https://web.archive.org/Stories/0,1413,113%257E7283%257E,00.html)  
-[Delivery Problems](https://web.archive.org/Stories/0,1413,113%257E7284%257E,00.html)  
-[Vacation Stop](https://web.archive.org/Stories/0,1413,113%257E7285%257E,00.html)  
-[Search Recent Stories](https://web.archive.org/Stories/0,1413,113%257E23952%257E,00.html)  
-[Search News Archives](http://search.newschoice.com/ArchiveSearch.asp?puid=1346)  
-[Online Submissions](https://web.archive.org/Stories/0,1413,113%257E7284%257E,00.html)  
-[Calendar Item Form](http://209.165.153.5/indexcalendar.htm)  
-[Send a Letter to Editor](http://209.165.153.5/letters.html)  
-[Suggestion Box](http://209.165.153.5/indexsuggestion.htm)  
+[Special Sections](https://web.archive.org/Stories/0,1413,113%257E27660%257E,00.html)  
+[Photos](http://209.165.153.5/indexslideshow.htm)  
+[ArcticCam](https://web.archive.org/Stories/0,1413,113%257E7202%257E,00.html)  
+[Weekly Poll](http://209.165.153.5/FMPro?-db=reviews.fp3&-format=indexpoll.html&-lay=CGI&-op=eq&current=yes&-op=eq&pub=poll&-max=1&-find)  
+[Classifieds](https://web.archive.org/Stories/0,1413,113%257E7239%257E,00.html)  
+[Home Delivery](https://web.archive.org/Stories/0,1413,113%257E7281%257E,00.html)  
+[Contact Us](https://web.archive.org/Stories/0,1413,113%257E26933%257E,00.html)  
 [Privacy Policy](https://web.archive.org/Stories/0,1413,113%257E7496%257E,00.html)  
     
-[Submit a News Tip!](mailto:newstips@newsminer.com)  
+  
   | 
 
 |    
