@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofireland.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208173800id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofireland.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308102457id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/privacy.html) for the most accurate reproduction.*
 
 # Bank of Ireland Privacy Policy
 
@@ -8,7 +8,7 @@ At Bank of Ireland Group we are committed to ensuring the privacy of your inform
 
 We understand that as a customer or visitor using the Bank of Ireland Group Website, the privacy and the security of your information is very important to you. The purpose of our Privacy Policy is to outline Bank of Ireland Group’s practices in this area.
 
- **PLEASE NOTE** that this Privacy Policy is subject to the Terms and Conditions of Use of the Bank of Ireland Group Website. You can read a copy of the Terms and Conditions of Use by [clicking here](https://web.archive.org/web/20041208173800id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/index.html). We recommend that you read the Terms and Conditions of Use. If there is a conflict between the Terms and Conditions of Use and this Privacy Policy, the Terms and Conditions of Use shall prevail. Except as otherwise provided, terms used herein and defined in the Terms and Conditions of Use shall have the same meaning that is given to them in the Terms and Conditions of Use.
+ **PLEASE NOTE** that this Privacy Policy is subject to the Terms and Conditions of Use of the Bank of Ireland Group Website. You can read a copy of the Terms and Conditions of Use by [clicking here](https://web.archive.org/web/20050308102457id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/index.html). We recommend that you read the Terms and Conditions of Use. If there is a conflict between the Terms and Conditions of Use and this Privacy Policy, the Terms and Conditions of Use shall prevail. Except as otherwise provided, terms used herein and defined in the Terms and Conditions of Use shall have the same meaning that is given to them in the Terms and Conditions of Use.
 
 The contents of this Privacy Policy are subject to change and to being updated without notice from time to time.
 
@@ -57,6 +57,6 @@ No liability
 No member of the Bank of Ireland Group or any of its agents or employees accepts any liability for any loss or damage of any nature, including but not limited to loss of profits, goodwill, or any other type of financial or other pecuniary or direct or special indirect or consequential loss howsoever arising whether in negligence or for breach of contract or other duty, arising out of or in relation to the use and/or dissemination of personal information relating to you where such use and/or dissemination of information is done in accordance with this Privacy Policy and the Terms and Conditions of Use (in the event of conflict the Terms and Conditions of Use shall prevail).  
 
 
-[Legal Statement ](https://web.archive.org/web/20041208173800id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/index.html) 
+[Legal Statement ](https://web.archive.org/web/20050308102457id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/index.html) 
 
 Back to Top
