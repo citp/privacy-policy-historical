@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mesomorphosis.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mesomorphosis.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,35 +6,36 @@
 
 
   
-**[Steroid Books](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/store/books/)**
+**[Steroid Books](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/books/)**
 
-[ Anabolics 2004](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/books/anabolics-2004.htm)
+[ Anabolics 2004](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/books/anabolics-2004.htm)
 
 [Building the Perfect  
-Beast](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/books/building-the-perfect-beast.htm)
+Beast](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/books/building-the-perfect-beast.htm)
 
-[Chemical Muscle Enhancement](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/books/chemical-muscle-enhancement.htm)
+[Chemical Muscle Enhancement](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/books/chemical-muscle-enhancement.html)
 
-[ Legal Muscle](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/books/legal-muscle.htm)
+[Anabolic Steroids in  
+Sports & Exercise](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/books/anabolic-steroids-in-sport-and-exercise.html)
 
-[ Built to Survive](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/books/built-to-survive.htm)
+[Anabolic Therapy in Modern Medicine](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/books/anabolic-therapy-in-modern-medicine.html)
 
-**[Videos and DVDs](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/store/videos/)**
+ **[Videos and DVDs](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/videos/)**
 
 [ Ronnie Coleman - Cost  
-of Redemption (DVD)](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/store/videos/ronnie-coleman-cost-of-redemption.html)
+of Redemption (DVD)](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/videos/ronnie-coleman-cost-of-redemption.html)
 
-[ Ronnie Coleman - Unbelievable (VHS)](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/store/videos/ronnie-coleman-the-unbelievable.html)
+[Dorian Yates - Blood & Guts (DVD)](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/videos/dorian-yates-blood-and-guts.html)
 
-[ Jay Cutler - New, Improved and Beyond (DVD)](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/store/videos/jay-culter-new-improved-beyond.html)
+[Jay Cutler - New, Improved and Beyond (DVD)](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/videos/jay-culter-new-improved-beyond.html)
 
-[ Markus Ruhl - Made in Germany (DVD)](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/store/videos/markus-ruhl-made-in-germany.html)
+[Markus Ruhl - Made in Germany (DVD)](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/videos/markus-ruhl-made-in-germany.html)
 
-[ Battle for the Olympia 2002 (VHS)](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/store/videos/battle-for-the-olympia-2002.html)
+[Arnold Schwarzenegger - The Comeback (DVD)](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/store/videos/arnold-schwarzenegger-the-comeback.html)
 
 | 
 
-> [Home](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/index.htm) > Privacy Policy
+> [Home](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/index.htm) > Privacy Policy
 > 
 > Meso-Rx takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 > 
@@ -47,7 +48,7 @@ of Redemption (DVD)](https://web.archive.org/web/20040611132240id_/http%3A//meso
 > 
 > ### Information Collection and Use
 > 
->   * Meso-Rx collects personally identifiable information when you register for the [Meso-Rx Message Board](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/forums/Index.cfm?CFApp=1), when you use certain Meso-Rx products or services, and when you visit Meso-Rx pages,.
+>   * Meso-Rx collects personally identifiable information when you register for the [Meso-Rx Message Board](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/forums/Index.cfm?CFApp=1), when you use certain Meso-Rx products or services, and when you visit Meso-Rx pages,.
 >   * When you register with Meso-Rx Message Board, we ask for your name, email address and personal interests. Once you register with Meso-Rx and sign in to our services, you are not anonymous to us. 
 >   * Meso-Rx also automatically receives and records information on our server logs from your browser including your IP address, Meso-Rx cookie information and the page you requested. 
 >   * Meso-Rx uses information to customize the advertising and content you see. 
@@ -62,7 +63,7 @@ of Redemption (DVD)](https://web.archive.org/web/20040611132240id_/http%3A//meso
 
 >
 >>   * We need to send the information to companies who work on behalf of Meso-Rx to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); or 
->>   * We find that your actions on our web sites violate the [Meso-Rx Terms of Service](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/disclaimer.htm), or any of our usage guidelines for specific products or services. 
+>>   * We find that your actions on our web sites violate the [Meso-Rx Terms of Service](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/disclaimer.htm), or any of our usage guidelines for specific products or services. 
 >> 
 
 > 
@@ -81,6 +82,6 @@ of Redemption (DVD)](https://web.archive.org/web/20040611132240id_/http%3A//meso
 > 
 > ### Questions or Suggestions
 > 
->   * If you have questions or suggestions, [contact us](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/contact.htm). To further protect your online privacy and security, click [here](https://web.archive.org/web/20040611132240id_/http%3A//mesomorphosis.com/links/privacy.htm).
+>   * If you have questions or suggestions, [contact us](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/contact.htm). To further protect your online privacy and security, click [here](https://web.archive.org/web/20041209031404id_/http%3A//www.mesomorphosis.com/links/privacy.htm).
 > 
 
