@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schiffvitamins.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603213354id_/http%3A//www.schiffvitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiffvitamins.com privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214003622id_/http%3A//www.schiffvitamins.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
