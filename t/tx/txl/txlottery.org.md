@@ -1,30 +1,29 @@
-> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204194854id_/http%3A//www.txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Lottery Commission Information
 
-| [](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/index.cfm)  
+| [](https://web.archive.org/index.cfm)  
 ---  
-[](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/newsalert.cfm)  
-[](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/info/askdir.cfm)  
-[](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/claimloc.cfm)  
-[](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/jobs.cfm)  
-[](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/faq.cfm)  
-[](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/applications/appforms.cfm)  
-[](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/contact.cfm)  
+[](https://web.archive.org/newsalert.cfm)  
+[](https://web.archive.org/info/askdir.cfm)  
+[](https://web.archive.org/claimloc.cfm)  
+[](https://web.archive.org/jobs.cfm)  
+[](https://web.archive.org/faq.cfm)  
+[](https://web.archive.org/applications/appforms.cfm)  
+[](https://web.archive.org/contact.cfm)  
 [](https://web.archive.org/news/news.cfm)  
-[](https://web.archive.org/rfi/rfi.cfm)  
 [](https://web.archive.org/playerconnect/pcintro.cfm)  
-[](https://web.archive.org/web/20010602041725id_/http%3A//txlottery.org/sitemap.cfm)  
+[](https://web.archive.org/sitemap.cfm)  
     
     
 [ ](http://www.cast.org/bobby "Bobby's Home Page")  
-|  |  |  |   
+|  | [](https://web.archive.org/online/lotto.cfm) |  | [](https://web.archive.org/online/txtwostep.cfm)  
 ---|---|---  
-**$13 Million**   
+**$10 Million**   
 ESTIMATED JACKPOT  
-for **06/02/01** |  **$200,000**   
+for **12/05/01** |  **$ 200,000**   
 ESTIMATED JACKPOT  
-for **06/05/01**  
+for **12/04/01**  
  |   
  **Texas Lottery Commission Privacy Policy**
 
@@ -32,7 +31,7 @@ Thank you for visiting our site. Our privacy policy is set forth below. This pol
 
 ##### **General Philosophy and Questions**
 
-We respect your privacy. We provide you the following information to help you understand more about the information we collect on this site and how we use that information. Please direct any questions you may have concerning our privacy policy to: [info@txlottery.org](mailto:info@txlottery.org). 
+We respect your privacy. We provide you the following information to help you understand more about the information we collect on this site and how we use that information. Please direct any questions you may have concerning our privacy policy to: [customer.service@lottery.state.tx.us](mailto:customer.service@lottery.state.tx.us). 
 
 ##### **Use of Email**
 
