@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successories.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603170406id_/http%3A//www.successories.com/customer/cs_privacysecurity.asp%3Fnav_id_store%3D1%26nav_id_top%3D9%26nav_id_left%3D%26group_id%3D%26theme_id%3D%26nav_id_browse%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successories.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202160119id_/http%3A//www.successories.com/customer/cs_privacysecurity.asp%3Fnav_id_store%3D1%26nav_id_top%3D9%26nav_id_left%3D%26group_id%3D%26theme_id%3D%26nav_id_browse%3D) for the most accurate reproduction.*
 
 # Successories: Privacy & Security
 
@@ -10,6 +10,7 @@
 **Online Privacy**  
 **Cookie Technology**  
 **Catalog Mailing List**  
+**Email Addresses**  
 
 
 **Our Policy**  
@@ -32,3 +33,6 @@ Like most companies, we use "cookie" technology on our web site. The cookie tell
 
 **Catalog Mailing List**  
 If you choose to be removed from the Successories' catalog mailing list, or if you prefer to withhold your name from other mailing lists to which we may supply your name and address, please complete the [Catalog Mailing List](http://www.successories.com/customer/cs_mailremoval.asp?nav_id_store=1&nav_id_top=9&nav_id_left=&group_id=&theme_id=&nav_id_browse=) form.
+
+**Email Addresses**  
+We require that all online customers provide an email address at checkout for purposes of order and shipment confirmation. If a customer gives permission, we will send promotions and information to them via email. At any time, permission status can be changed by customers to no longer receive these messages. The email addresses we collect are used exclusively by Successories and will not be sold to or shared with any other organization.
