@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thebostonchannel.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405195155id_/http%3A//www.thebostonchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebostonchannel.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031758id_/http%3A//www.thebostonchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheBostonChannel.com - News
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheBostonChannel.com](http://www.thebostonchannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
-
-[](https://www.truste.org/validate/7287)
 
 **Information Collection and Use**  
 This website makes use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a website if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with ads are not being collected by us and we do not have access to this information. Cookies can be rejected by you and if so none of the functions listed above will be performed. 
@@ -46,10 +44,5 @@ Mendota Heights, MN 55120
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-**TRUSTe Confirmation**  
-This confirms that Internet Broadcasting Systems, Inc. and TheBostonChannel.com are licensees of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact [security@ibsys.com](mailto:security@ibsys.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
-
-Last Revised 03/11/02   
+Last Revised 09/02   
 
