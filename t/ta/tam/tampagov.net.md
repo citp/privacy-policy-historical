@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tampagov.net privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409205046id_/http%3A//www.tampagov.net/www_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampagov.net privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607183524id_/http%3A//www.tampagov.net/www_privacy.asp) for the most accurate reproduction.*
 
 # TAMPA FLORIDA municipal government - privacy policy
 
-Thank you for visiting the City of Tampa web site and reviewing our privacy policy.  Our privacy policy is clear: We will collect **no** personal information about you when you visit our web site unless you choose to provide that information to us.  Here is how we handle information about your visit to our web site: 
+Thank you for visiting the City of Tampa web site and reviewing our privacy policy.  Our privacy policy is clear: We will collect no personal information about you when you visit our web site unless you choose to provide that information to us.  (Please also review [our security policy](https://web.archive.org/web/20020607183524id_/http%3A//www.tampagov.net/www_security.asp).) 
 
 ## Information Collected and Stored Automatically
 
-If you do nothing during your visit but browse through the web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does **not** identify you personally. We automatically collect and store **only** the following information about your visit: 
+If you do nothing during your visit but browse through the web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit: 
 
   1. The Internet domain (for example, "xcompany.com") and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our web site; 
 
@@ -21,16 +21,20 @@ If you do nothing during your visit but browse through the web site, read pages,
 
 
 
-We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do **not** track or record information about individuals and their visits. 
+We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
 
 ## If You Send Us Personal Information
 
-If you choose to provide us with personal information -- as in an e-mail to City staff, or by filling out a form with your personal information and submitting it to us through our web site -- we use that information to respond to your message and to help us get you the information you have requested. We treat emails the same way we treat letters sent to the City offices. We are required to maintain many documents for historical purposes, but we do not collect personal information for any purpose other than to respond to you, however; information we receive may be considered public information which is subject to disclosure under Florida law.  Except for information disclosure required by Florida law, we only share the information you give us with another government agency if your inquiry relates to that agency. Moreover, we do not create individual profiles with the information you provide, or provide such information to any private organizations. The City of Tampa does not collect information for commercial marketing. 
-
-## Links to Other Sites 
-
-Our Web site has links to many other agencies. In some cases we link to private organizations. We try to use a different link color to indicate you will be leaving the City of Tampa web site. Once you link to another site, you are subject to the privacy policy of the new site. 
+If you choose to provide us with personal information -- as in an e-mail to City staff, or by filling out a form with your personal information and submitting it to us through our web site -- we use that information to respond to your message and to help us get you the information you have requested. We treat emails the same way we treat letters sent to the City offices. We are required to maintain many documents for historical purposes, but we do not collect personal information for any purpose other than to respond to you.  However, information we receive may be considered public information which is subject to disclosure under Florida law.  Except for information disclosure required by Florida law, we only share the information you give us with another government agency, if your inquiry relates to that agency. Moreover, we do not create individual profiles with the information you provide, or provide such information to any private organizations. The City of Tampa does not collect information for commercial marketing. 
 
 ## Protection of Minors
 
 We are especially concerned about protecting children's privacy. We hope parents are involved in children's Internet explorations. It is particularly important for parents to guide their children when children are providing personal information on line. We specifically ask children to get their parents' permission before providing any information on line -- at our site or any other site -- and recommend parents always be involved in those decisions. Most importantly, when children do provide information through the City of Tampa web site, it is only used to enable us to respond to the writer, and not to create profiles of children.
+
+## Cookie Use
+
+A cookie is a tiny piece of text that, with your permission, is placed on your computer's hard drive. If your browser is set to notify you before accepting a cookie, you will receive a request for a cookie to be stored on your computer. This cookie, by itself, only tells us that a previous visitor has returned. It doesn't tell us private information about you, unless you want to give us the information; it's your choice.
+
+A key reason why the City of Tampa uses cookie technology is in support of the [MyTampaGov](https://web.archive.org/appl_MyTampaGov/index.asp) service.  A cookie is used to retain your personal preferences on how you want to access the City of Tampa web site. We do not use a cookie to store your personal information; instead [MyTampaGov](https://web.archive.org/appl_MyTampaGov/index.asp) will always authenticate who you are (using a password assigned by you) before preloading personal information in web forms for your convenience.
+
+We want to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you. We know that some citizens have concerns about cookies, but the benefit we both gain from their proper use is worthwhile.
