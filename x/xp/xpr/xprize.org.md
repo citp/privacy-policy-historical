@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xprize.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203002100id_/http%3A//www.xprize.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xprize.org privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623121745id_/http%3A//www.xprize.org/privacy.html) for the most accurate reproduction.*
 
 # X P R I Z E
 
@@ -58,6 +58,6 @@ Users may change this information at any time and as often as necessary. Users w
 _Delete/deactivate policy_  
 Users may unsubscribe to our electronic newsletter at any time.
 
-[](https://web.archive.org/web/20031203002100id_/http%3A//www.xprize.org/creditcardoffer.html)
+[](https://web.archive.org/web/20040623121745id_/http%3A//www.xprize.org/creditcardoffer.html)
 
-**Think the X PRIZE is cool?[Click here](https://web.archive.org/web/20031203002100id_/http%3A//www.xprize.org/getinvolved/tell_a_friend.html) to tell a friend about it!!**
+**Think the X PRIZE is cool?[Click here](https://web.archive.org/web/20040623121745id_/http%3A//www.xprize.org/getinvolved/tell_a_friend.html) to tell a friend about it!!**
