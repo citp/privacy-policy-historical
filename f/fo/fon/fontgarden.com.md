@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontgarden.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029133142id_/http%3A//fontgarden.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontgarden.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605164433id_/http%3A//www.fontgarden.com/privacy/privacy.htm) for the most accurate reproduction.*
 
 # Font Gardens privacy policy
 
@@ -59,7 +59,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from  us  . 
 
   1. You can send email to [ fontgarden@telia.com ](mailto:fontgarden@telia.com)
-  2. You can visit the following URL:  [http://www.fontgarden.com/contact/contact.htm](https://web.archive.org/web/20011029133142id_/http%3A//fontgarden.com/contact/contact.htm) 
+  2. You can visit the following URL:  [http://www.fontgarden.com/contact/contact.htm](https://web.archive.org/web/20020605164433id_/http%3A//www.fontgarden.com/contact/contact.htm) 
 
 
 
@@ -68,7 +68,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 This site gives users the following options for changing and modifying information previously provided: 
 
   1. You can send email to [ fontgarden@telia.com ](mailto:fontgarden@telia.com)
-  2. You can visit the following URL:  [http://www.fontgarden.com/contact/contact.htm](https://web.archive.org/web/20011029133142id_/http%3A//fontgarden.com/contact/contact.htm)
+  2. You can visit the following URL:  [http://www.fontgarden.com/contact/contact.htm](https://web.archive.org/web/20020605164433id_/http%3A//www.fontgarden.com/contact/contact.htm)
 
 
 
