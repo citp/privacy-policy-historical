@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603014436id_/http%3A//www.motivators.com/support.asp%3Ftopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206152137id_/http%3A//www.motivators.com/support.asp%3Ftopic%3DPrivacy) for the most accurate reproduction.*
 
-# Motivators.com: Promotional Products, Advertising Specialties, promotional items, tradeshow giveaways, promos.
+# Motivators.com: Promotional Products, Promotional Items, Promo Items, Promotional Pen, Promotional Giveaway, Advertising Specialties,
 
 Motivators.com takes great precautions to protect the credit card information you submit on the Motivators.com web system. At the ordering point you will be sent to a secure location that will protect the integrity of you information. Our server will encrypt the credit card data so that it cannot be read in transit. Encryption is a means of scrambling information so that it cannot be reassembled from our customers. Therefore, Motivators.com never shares customer e-mail addresses or information with any other third party. All information provided to us by you will remain confidential and will not be sold or shared with any other third party. 
 
