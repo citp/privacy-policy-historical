@@ -1,90 +1,114 @@
-> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606165221id_/http%3A//www.salesheads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216081203id_/http%3A//www.salesheads.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# SalesHeads.com | Privacy Policy
+# salesheads.com | Sales Careers, Sales Managers, Sales Reps, IT Sales, Sales Jobs, Sales Resumes
 
-|   
+If you have questions or concerns regarding this statement, please contact us. 
+
+Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms.
+
+ Collection and Use of Information  
 ---  
-‶[ join our newsletter](http://salesheadsmail.com/)  
-‶[ career tools](http://www.salesheads.com/resources.html)  
-‶[ find a recruiter](http://www.salesheads.com/recruiters.html)  
-‶[ been laid off?](http://www.salesheads.com/outplacement.html)  
-‶[ pre-hire testing](http://www.salestestonline.com/salesheads.html)  
-‶[ sales e-books](http://www.1shoppingcart.com/app/aftrack.asp?AFID=49149)  
-‶[ blast your resume](http://www.runresumerun.com/)  
-‶[ IT sales training](https://secure12.websitecomplete.com/brigiese/shop/showProd.asp?prod=11)  
-‶[ 57 cover letter  
-    tuneups](http://www.virtual-coach.com/click.php?p=10&a=salesheads)  
-‶[ make them _beg_  
-    to hire you](http://www.virtual-coach.com/click.php?p=10&a=salesheads)  
-‶[ get a pharmaceutical  
-    sales job--here's how!](http://www.hurricaneconcepts.com/salesheads/)  
-‶[ brian tracy  
-    official career  
-    coach of  
-     _salesheads_!](http://www.salesheads.com/training.html)  
-‶[ market your firm](http://www.salesheads.com/email_marketing.html)  
-‶[ join our newsletter](http://salesheadsmail.com/)  
-‶[ get pricing](http://www.salesheads.com/pricing.html)  
-‶[ laying off?](http://www.salesheads.com/outplacement.html)  
-‶[ get a website](http://www.salesheads.com/websites.html)  
-‶[ find free resumes](http://www.virtual-coach.com/click.php?p=7&a=salesheads)  
-‶[ get free resumes](http://www.runresumerun.com/)  
-‶[ distribute resumes](http://www.runresumerun.com/resumedistribution/runresumerun.home4)  
-    [ to make money](http://www.runresumerun.com/resumedistribution/runresumerun.home4)  
-‶[ brian tracy  
-    official career  
-    coach of  
-     _salesheads_!](http://www.salesheads.com/training.html)  
-| **Privacy**  
----  
-Your privacy on the Internet is important to us. Because we gather or attempt to gather certain information from our users, we believe you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy policy discloses what information we gather, how we may use it, who we may share it with and how we may share it. Your use of SalesHeads indicates that you have read, understand and agree with our privacy policy. 
+Viewing and Updating Your Information  
+Cookies  
+Log Files  
+Links  
+Recommend A Friend or Colleague  
+Security and Access  
+Children  
+Notification of Changes  
+Contact  
+  
+* * *
 
-**Information Collection and Use by SalesHeads**   
-SalesHeads owns the personal information collected on our web sites or on our newsletters. We will not sell, share, or rent this information to others in any way or form except as posted in this Privacy Policy. SalesHeads collects, or attempts to collect information from our users at several different points on our web sites, our partners websites or through our newsletters. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+**Collection and Use of Information**  
 
-**SalesHeads Partners**  
-SalesHeads provides career management services for various career related sites and services on the Internet. When you REGISTER with any of these services affiliated with SalesHeads your registration information may or may not be shared with the owner of the specific career portal or service. The owner of the career portal shall maintain your registration information in accordance with its privacy policy. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
 
-**Web Sites and Newsletters**  
-When you REGISTER with our site or partner sites or subscribe to receive our newsletter, we may ask for your contact information (such as your email address) and your demographic information (such as your zip code, industry, and job function). We use demographic information to report marketing information to our partners and to help determine what services may be of interest to our core user group. When you REGISTER at SalesHeads, you grant permission for SalesHeads to share your registration information with its partners in any way it deems appropriate. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
 
-**Resumes (If you are a Job Seeker)**  
-Since SalesHeads is a career site, we give you the option of putting your resume in our database. If you register your resume in our database we may extract information from it such as your email address, your zip code or your area code. On occasion we may engage in the sale or rental of certain information contained in your resume to businesses interested in collecting such information. SalesHeads may scan this database from time to time (for both searchable and confidential information) to collect email addresses for inclusion in its newsletter or for other marketing purposes for itself or its partners, affiliates or customers. There are several ways of putting your resume into our database(s). If you allow your resume to be searchable, then all recruiters who pay for access to our resume database product will have access to your resume. We use our best efforts to grant access to this database only to paying recruiters, hiring managers, headhunters, and human resource professionals. However, we are not responsible if a third party, such as someone posing as the aforementioned and paying for the service, evades security measures and gains access to the database and, subsequently, your resume. You may remove your resume from our searchable database at any time. However, recruiters who have paid for access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances. 
+We are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
 
-Except as otherwise set forth in this Privacy Policy, SalesHeads will not disclose to any third party your name, address, e-mail address or telephone number without your prior consent, except to the extent necessary or appropriate to comply with applicable laws or in legal proceedings where such information is relevant. SalesHeads reserves the right to offer third party services and products to you at any time; such offers may be made by SalesHeads or by third parties including but are not limited to SalesHeads current partners, affiliates or customers.
+We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes. 
 
-SalesHeads may send new registrants or subscribers a welcoming email. New members and/or anyone who posts a resume on SalesHeads will be automatically subscribed to our email newsletter. If new members do not wish to receive our newsletters, they may use the unsubscribe link located at the bottom of each newsletter to prevent further mailings.
+In some cases our software and web site are utilized by our partners in a joint venture via their web community. In these cases, the information collected on our site is available to both companies. 
 
-Our web site provides you with the choice to receive promotional emails from SalesHeads and/or its partners, affiliates or customers. If you choose to receive promotional emails from any of these, you will be giving SalesHeads permission to access your information on behalf of them for marketing or promotional purposes. SalesHeads may also ask for your information at other times, such as when you request information or when you decide to purchase products or services from or through SalesHeads and/or our customers and suppliers. SalesHeads will not disclose any of your personal information, except as described in this Privacy Statement, or when we believe in good faith that the law requires it, or to protect the rights or property of SalesHeads.
+ 
 
-The information collected by SalesHeads may be used in a number of ways. SalesHeads will share broad aggregated demographic information with our partners and advertisers. An example would be where SalesHeads provides partners and advertisers with information about the percentage of male or female visitors who visit our sites, or about the types of industries that users come from. SalesHeads' goal in collecting personal information is to provide you with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+Back to top
 
-**Third Party Advertising**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+* * *
 
-**Orders**  
-If you make a purchase through our site, the information obtained during your visit to the site, and the information that you give, such as your credit card number and contact information, is used for billing purposes and to fill orders. If we have trouble processing an order, this contact information is used to contact the user. In addition, this contact information is provided to third party suppliers and/or fulfillment agents that service your orders and requests. This contact information may also be provided to the suppliers of content for free downloads of white papers, software or other resources in support of your purchase. These third party suppliers, fulfillment agents and merchants have separate privacy and data collection practices, and SalesHeads has no responsibility or liability for these independent policies. **We never share information contained on credit cards or other financial data**. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+**Viewing and Updating Your Information on the Network**
 
-**Cookies**  
-Cookies are used on SalesHeads to help us track visits to and business at our stores and process the items in your shopping basket. Cookies are also used to estimate our audience size. Each browser accessing SalesHeads is given a unique cookie, which is then used to determine repeat usage versus initial usage, and to help in targeting ads based on user interests. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+You always have complete access to the information you have provided to the network. You can make changes to this information to update your account anytime.
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser that does not contain any information about the user. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+Back to top
 
-**IP Addresses**  
-We use IP addresses for purposes of system administration, and to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+* * *
 
-**Links**  
-This web site may contain links to other sites. Be advised that SalesHeads is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+**Cookies**
 
-**Tell an Associate**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's email address. This email address then becomes a part of our database and, as such, is subject to the policies stated in the privacy policy. SalesHeads reserves the right and you agree to allow SalesHeads to rent, lease, sell or otherwise profit in any legal way it deems apppropriate or necessary from the information you, its user, provide to SaleseHeads, up to and including the sharing and/or selling and/or renting and/or leasing of data about you and regarding you including your email address, phone number(s), physical and/or mailing address, etc. 
+In general, we have limited use of cookies.  As you browse areas of this site, cookies may be placed on your computer’s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don’t need to retype the information each time you visit our site. 
 
-**Security**  
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with SSL (secure socket layer) Encryption. We use secure servers to protect all of your personal information, including your name, address, email and credit card information. It is generally considered safer than giving your information over the phone. We process your credit card number over secure servers with vendors such as Career Cast and Wells Fargo Bank. Whenever we transmit any credit card information, we use a secure transmission method. In order to further protect your personal information, we store your credit card number in a separate location from your registration information. 
+Our advertisers may also serve cookies when users click on the ad banners on this site. We do not have access to any personal information gathered by advertisers.
 
-**Notification of Changes**  
-If we decide to change our privacy policy(s), we will post those changes on our web site. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. 
+Back to top
 
-**Contact**  
-If you feel that this company is not abiding by its posted privacy policy, you should contact Todd Miller by email at [headhead@salesheads.com](mailto:headhead@salesheads.com) or by mail at 5909 NW Expressway, Suite 480, Oklahoma City, Oklahoma, 73132.
+* * *
+
+**Log Files**  
+
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+
+Back to top
+
+* * *
+
+**Links**
+
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+
+Back to top
+
+* * *
+
+**Recommend a Friend or Colleague**
+
+If a user elects to use our referral service for informing a friend or colleague about our site, we ask them for the friend's name and email address. We will automatically send the friend an email inviting them to visit the site or review the content selected by a user. We then store this information in our databases. The friend may contact us to request that we remove this information at any time. 
+
+Back to top
+
+* * *
+
+**Security and Access**
+
+We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
+
+When you place an order online at Artemis HR, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Artemis HR uses a service company to process its credit card transactions.
+
+Users should not post personal information to any site if they are uncomfortable with the security of the site.  If you have any questions, please contact us.  Back to top
+
+* * *
+
+**Children**
+
+This site is not intended for children under 13 years of age and we do not knowingly or specifically collect information about children. This site does not and will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. We believe that children should get their parents' consent before giving out personal information. If you are concerned about your child's use of this site, we encourage you to use web-filtering technology to supervise your child's access to the site. For children 14 and up (high-school age), we also encourage you to participate in your child's experience with our site. With a little guidance, this site can prove very useful in finding a part-time or summer job for your child, as well as providing them with excellent career counseling information. 
+
+Back to top
+
+* * *
+
+**Notification of Changes**  
+
+If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point you have questions or concerns about Artemis HR's privacy policy, please feel free to contact us. 
+
+Back to top
+
+* * *
+
+**Contact**
+
+If you have questions concerning your account or this privacy policy, please contact us. 
+
+Back to top
+
+* * *
