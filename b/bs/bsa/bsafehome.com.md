@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603182652id_/http%3A//www.bsafehome.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023524id_/http%3A//www.bsafehome.com/privacy.asp) for the most accurate reproduction.*
 
-# BsafeHome
+# Bsafe Online™ Internet Filters
 
 This notice applies to all information collected or submitted on the Bsafe Online websites. On some pages, you may order products, make requests, or register to receive materials. The types of personal information collected at these pages are: 
 
