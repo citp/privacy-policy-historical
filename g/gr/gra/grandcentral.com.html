@@ -1,530 +1,891 @@
-<!--The following is the downloaded HTML source of the grandcentral.com privacy policy that was archived on 2002-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206055349id_/http%3A//www.grandcentral.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grandcentral.com privacy policy that was archived on 2003-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030402205133id_/http%3A//www.grandcentral.com/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Grand Central Communications - Privacy Statement</title>
-
-<script language="JavaScript">
-//<!--
-
-if (navigator.appName =="Netscape"){
-document.write ("<link href='./us/ns_corpstyle.css' rel=stylesheet type='text/css'>")
-}
-else {
-document.write ("<link href='./us/ie_corpstyle.css' rel=stylesheet type='text/css'>")
-}
-
-function jumper(n) {
-        f = eval("document.quicklinks.go" + n);
-        i = f.selectedIndex;
-        x = f.options[i].value;
-        if (x != "") {
-                location.href = x;
-        }
-}
-//-->
-</script><link href="./us/ns_corpstyle.css" rel="stylesheet" type="text/css">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>Grand Central Communications - Privacy Policy</title>
+		<link rel="stylesheet" type="text/css" href="/assets/styles/styles.css">
+	<script language="JavaScript" src="/assets/scripts/browser.js" type="text/javascript"></script>
+	<script language="JavaScript" src="/assets/scripts/styles.js" type="text/javascript"></script>
+	<script language="JavaScript" type="text/javascript">
+		function init(){
+			setStyleVars();
+			setDivStyle();
+		}
+	</script>
 </head>
 
-<body marginwidth="0" leftmargin="0" marginheight="0" topmargin="0" rightmargin="0" bgcolor="#FFFFFF" onload="loaded=true;">  
-
-<!--// BEGIN SSI NAV CONTENT -->
-
-<!--// BEGIN LOGO TABLE-->
-<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#FFFFFF">
-<tbody><tr>
-	<td><a href="http://www.grandcentral.com"><img src="./nav_images/top_bar_logo.gif" border="0" height="66" width="237" align="left"></a></td>
-	<td width="100%" background="./nav_images/top_bar_bg.gif"><img src="./nav_images/top_bar_mid.gif" border="0" width="118" height="66"></td>
-	<td width="410%"><img src="./nav_images/top_bar_rght.gif" border="0" height="66" width="410"></td>
+<body onload="init();" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
+	<script language="JavaScript" type="text/javascript">
+		var boolDivSet = false;
+		function setDivStyle(){
+			divNames = new Array ('Solutions','Customers','Developers','Partners','Company','News');
+			if(document.images){
+				//for(i=0;i<1;i++){
+				for(i=0;i<divNames.length;i++){					
+					div = "mn" + divNames[i];
+					img = document.images[divNames[i]];
+					setMnRef(div);
+					//if(ns&&img.x){
+					if(ns){
+						xPos = img.x;
+						yPos = img.y;
+					} else {
+						xPos = img.offsetLeft;
+						yPos = img.offsetTop;
+					}
+					if(xPos==0 || yPos==0){
+						tempX = img.offsetParent;
+						tempY = img.offsetParent;
+						tempW = div.offsetParent;
+						while(tempX != null){
+							xPos += tempX.offsetLeft;
+							tempX = tempX.offsetParent;
+						}
+						while(tempY != null){
+							yPos += tempY.offsetTop;
+							tempY = tempY.offsetParent;
+						}
+					}
+					xPos += 15;
+					yPos += 20;
+					if(ns6){
+						cmdX = "menu" + styleref +".left = " + xPos +";";
+						cmdY = "menu" + styleref +".top = " + yPos + ";" ;
+					} else {
+						cmdX = "" + menu + styleref + ".left = " + xPos + ";" ;
+						cmdY = "" + menu + styleref + ".top = " + yPos + ";" ;
+					}
+					eval(cmdX);
+					eval(cmdY);
+					boolDivSet = true;
+				}
+			}
+		}
+		//set general menu vars
+		//mnOver == int 0|1 value flag mnOver state
+		var mnOver = null;
+		//mnOpen = string mnID -- div which is open.
+		var mnOpenCk = null;
+		//Value to compare against mnOver to
+		var mnOverCk = null;
+		//var menu = "";
+		
+		function setMnRef(mnId){
+			if(ns6){
+				menu = document.getElementById(mnId+'');
+			} else {
+				menu = "document" + domref + mnId ; 
+			}
+		}
+		
+		function toggleVis(mnId,state){
+			if(boolDivSet){
+				if(state == "show"){
+					if((mnOver != null) && (mnOver != mnId)){
+						hideVis(mnOver);
+					}
+					showVis(mnId)
+				} else {
+					if(state == "hideout"){
+						mnTimeout(mnOver);
+						//setTimeout("mnActivity('"+mnOver+"')",250);
+					} else {
+						mnActivity(mnId);
+					}
+				}
+			}
+		}
+		
+		function mnTimeout(mnId){
+			if(ns4){
+				time = 400;
+			} else {
+				time = 250;
+			}
+			setTimeout("mnActivity('"+mnId+"')",time);
+		}
+		
+		function showVis(mnId){
+			setMnRef(mnId);
+			if(ns6){
+				cmd = "menu" + styleref +".visibility = \"" + show + "\";";
+			} else {
+				cmd = " "+ menu + styleref +".visibility = '" + show + "';"; 
+			}
+			eval(cmd);
+			mnOverCk = 1;
+			mnOver = mnId;
+		}
+		
+		function hideVis(mnId){
+			setMnRef(mnId);
+			if(ns6){
+				cmd = "menu" + styleref +".visibility = \"" + hide + "\";";
+			} else{
+				cmd = " " + menu + styleref +".visibility = '" + hide + "';"; 
+			}
+			eval(cmd);
+		}
+		
+		function toggleView(mi,state){
+			if(!ns4){
+				setMnRef(mi);
+				if(ns6){
+					cmd = "menu" + ".className = \"" + state + "\";";
+				} else {
+					cmd = " " + menu + ".className = \"" + state + "\";";
+				}
+				eval(cmd);
+			}
+		}
+		
+		function mnActivity(mnId){ 
+			if((mnOverCk == 0)&&(mnOver !=null)){
+				hideVis(mnId);
+			}
+		}
+	</script>
+<!-- start drop down navigation includes -->
+<div id="mnSolutions" style="position: absolute; z-index: 10; top: 69px; left: 332px; visibility: hidden;" onmouseover="toggleVis('mnSolutions','show');" onmouseout="mnOverCk=0;toggleVis('mnSolutions','hide');">
+<table cellpadding="0" cellspacing="0" border="0" width="140" class="bgMn">
+<tbody><tr valign="top">
+	<td width="1"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td width="137" class="bgHilite"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+	<td width="2"><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miSolutions" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a class="mn" onmouseover="mnOverCk=1;toggleView('miSolutions','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miSolutions','bgMnOff');mnTimeout('mnSolutions');" href="/solutions/index.html">Our Solutions</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miIndustrysoln" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a class="mn" onmouseover="mnOverCk=1;toggleView('miIndustrysoln','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miIndustrysoln','bgMnOff');mnTimeout('mnSolutions');" href="/solutions/industrysoln.html">Industry Solutions</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miBenefits" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miBenefits','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miBenefits','bgMnOff');mnTimeout('mnSolutions');" class="mn" href="/solutions/benefits.html">Features &amp; Benefits</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miOurtech" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miOurtech','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miOurtech','bgMnOff');mnTimeout('mnSolutions');" class="mn" href="/solutions/ourtech.html">Our Technology</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miWhitepapers" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miWhitepapers','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miWhitepapers','bgMnOff');mnTimeout('mnSolutions');" class="mn" href="/solutions/whitepapers.html">Whitepapers</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miFaqs" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miFaqs','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miFaqs','bgMnOff');mnTimeout('mnSolutions');" class="mn" href="/solutions/faqs.html">FAQs</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miDemo" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miDemo','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miDemo','bgMnOff');mnTimeout('mnSolutions');" class="mn" href="/solutions/demo.html">View Our Demo</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
 </tr>
 </tbody></table>
-<!--// END LOGO TABLE -->	
-
-<!--// BEGIN NAV BAR TABLE-->
-<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#FFFFFF"><tbody><tr><td nowrap=""><a href="./services/index.html" onmouseover="hideMenu(); popup('services'); menuimg_act('services',null,1); overmenu=1;" onmouseout="overmenu=0; menutimeout('services')"><img src="nav_images/services_off.gif" width="118" height="21" alt="Services" border="0" name="services"></a><a href="./customers/index.html" onmouseover="hideMenu(); popup('customers'); menuimg_act('customers',null,1); overmenu=1;" onmouseout="overmenu=0; menutimeout('customers')"><img src="./nav_images/customers_off.gif" width="103" height="21" alt="Customers" border="0" name="customers"></a><a href="./partners/index.html" onmouseover="hideMenu(); popup('partners'); menuimg_act('partners',null,1); overmenu=1;" onmouseout="overmenu=0; menutimeout('partners')"><img src="./nav_images/partners_off.gif" width="92" height="21" alt="Partners" border="0" name="partners"></a><a href="./about/index.html" onmouseover="hideMenu(); popup('about'); menuimg_act('about',null,1); overmenu=1;" onmouseout="overmenu=0; menutimeout('about')"><img src="./nav_images/about_off.gif" width="71" height="21" alt="About Us" border="0" name="about"></a><a href="./news/index.html" onmouseover="hideMenu(); popup('news'); img_act('news'); overmenu=1;" onmouseout="overmenu=0; menutimeout('news')"><img src="./nav_images/news_off.gif" width="64" height="21" alt="In the News" border="0" name="news"></a><a href="./developers/index.html" onmouseover="hideMenu(); popup('developers'); img_act('developers'); overmenu=1;" onmouseout="overmenu=0; menutimeout('developers')"><img src="./nav_images/developers_off.gif" width="109" height="21" alt="Developers" border="0" name="developers"></a></td><td width="100%" background="nav_images/news_bar_bg.gif"><img src="nav_images/spacer.gif" width="195" height="1" border="0"></td></tr></tbody></table>
-<!--// END NAV BAR TABLE-->
-
-<div id="serviceslayer" style="position: absolute; z-index: 10; top: 0px; left: 0px; width: 110px; height: 106px; visibility: hidden" onmouseover="overmenu=1;" onmouseout="overmenu=0; menutimeout('services')">
-<a href="./services/enterprise.html" onmouseover="menuimg_act('s1_enterprises','services')" onmouseout="menuimg_inact('s1_enterprises','services')"><img src="nav_images/s1_enterprises_off.gif" width="156" height="17" alt="Enterprise Solutions" border="0" name="s1_enterprises"></a><br>
-<a href="./services/whitepapers.html" onmouseover="menuimg_act('s3_whitepapers','services')" onmouseout="menuimg_inact('s3_whitepapers','services')"><img src="nav_images/s3_whitepapers_off.gif" width="156" height="16" alt="Whitepapers" border="0" name="s3_whitepapers"></a><br>
-<a href="./services/case_studies.html" onmouseover="menuimg_act('s4_case_studies','services')" onmouseout="menuimg_inact('s4_case_studies','services')"><img src="nav_images/s4_case_studies_off.gif" width="156" height="16" alt="Case Studies" border="0" name="s4_case_studies"></a><br>
-<a href="./services/how_it_works.html" onmouseover="menuimg_act('s5_how_it_works','services')" onmouseout="menuimg_inact('s5_how_it_works','services')"><img src="nav_images/s5_how_it_works_off.gif" width="156" height="16" alt="How It Works" border="0" name="s5_how_it_works"></a><br>
-<a href="./services/faq.html" onmouseover="menuimg_act('s6_faq','services')" onmouseout="menuimg_inact('s6_faq','services')"><img src="nav_images/s6_faq_off.gif" width="156" height="18" alt="FAQ" border="0" name="s6_faq"></a></div>
-
-<div id="customerslayer" style="position: absolute; z-index: 10; top: 0px; left: 0px; width: 110px; height: 106px; visibility: hidden" onmouseover="overmenu=1;" onmouseout="overmenu=0; menutimeout('customers')">
-<a href="./customers/index.html" onmouseover="menuimg_act('c1_featured','customers')" onmouseout="menuimg_inact('c1_featured','customers')"><img src="./nav_images/c1_featured_off.gif" width="143" height="16" alt="Featured Customers" border="0" name="c1_featured"></a><br>
-<a href="./customers/become_a_customer.html" onmouseover="menuimg_act('c3_become','customers')" onmouseout="menuimg_inact('c3_become','customers')"><img src="./nav_images/c3_become_off.gif" width="143" height="18" alt="Become a Customer" border="0" name="c3_become"></a></div>
-
-<div id="partnerslayer" style="position: absolute; z-index: 10; top: 0px; left: 0px; width: 110px; height: 106px; visibility: hidden" onmouseover="overmenu=1;" onmouseout="overmenu=0; menutimeout('partners')">
-<a href="./partners/index.html" onmouseover="menuimg_act('p1_our_partners','partners')" onmouseout="menuimg_inact('p1_our_partners','partners')"><img src="nav_images/p1_our_partners_off.gif" width="139" height="17" alt="Our Partners" border="0" name="p1_our_partners"></a><br>
-<a href="./partners/partnership_value.html" onmouseover="menuimg_act('p2_partnership','partners')" onmouseout="menuimg_inact('p2_partnership','partners')"><img src="nav_images/p2_partnership_off.gif" width="139" height="16" alt="Partnership Value" border="0" name="p2_partnership"></a><br>
-<a href="./partners/partner_program.html" onmouseover="menuimg_act('p3_partner_program','partners')" onmouseout="menuimg_inact('p3_partner_program','partners')"><img src="nav_images/p3_partner_program_off.gif" width="139" height="18" alt="Partner Program" border="0" name="p3_partner_program"></a></div>
-
-<div id="aboutlayer" style="position: absolute; z-index: 10; top: 0px; left: 0px; width: 110px; height: 106px; visibility: hidden" onmouseover="overmenu=1;" onmouseout="overmenu=0; menutimeout('about')">
-<a href="./about/team.html" onmouseover="menuimg_act('a1_team','about')" onmouseout="menuimg_inact('a1_team','about')"><img src="nav_images/a1_team_off.gif" width="96" height="17" alt="Team" border="0" name="a1_team"></a><br>
-<a href="./about/careers.html" onmouseover="menuimg_act('a2_careers','about')" onmouseout="menuimg_inact('a2_careers','about')"><img src="nav_images/a2_careers_off.gif" width="96" height="16" alt="Careers" border="0" name="a2_careers"></a><!-- monkey monkey monkey!! --><br>
-<a href="./about/directions.html" onmouseover="menuimg_act('a3_directions','about')" onmouseout="menuimg_inact('a3_directions','about')"><img src="nav_images/a3_directions_off.gif" width="96" height="16" alt="Directions" border="0" name="a3_directions"></a><br>
-<a href="./about/contact_us.html" onmouseover="menuimg_act('a4_contact_us','about')" onmouseout="menuimg_inact('a4_contact_us','about')"><img src="nav_images/a4_contact_us_off.gif" width="96" height="16" alt="Contact Us" border="0" name="a4_contact_us"></a><br>
-<a href="./about/fact_sheet.html" onmouseover="menuimg_act('a5_fact_sheet','about')" onmouseout="menuimg_inact('a5_fact_sheet','about')"><img src="nav_images/a5_fact_sheet_off.gif" width="96" height="18" alt="Fact Sheet" border="0" name="a5_fact_sheet"></a></div>
-
-<div id="newslayer" style="position: absolute; z-index: 10; top: 0px; left: 0px; width: 110px; height: 106px; visibility: hidden" onmouseover="overmenu=1;" onmouseout="overmenu=0; menutimeout('news')">
-<a href="./news/index.html" onmouseover="menuimg_act('n1_in_news','news')" onmouseout="menuimg_inact('n1_in_news','news')"><img src="nav_images/n1_in_news_off.gif" width="117" height="17" alt="In the News" border="0" name="n1_in_news"></a><br>
-<a href="./news/events.html" onmouseover="menuimg_act('n2_events','news')" onmouseout="menuimg_inact('n2_events','news')"><img src="nav_images/n2_events_off.gif" width="117" height="16" alt="Events" border="0" name="n2_events"></a><br>
-<a href="./news/press_releases.html" onmouseover="menuimg_act('n3_press_releases','news')" onmouseout="menuimg_inact('n3_press_releases','news')"><img src="nav_images/n3_press_releases_off.gif" width="117" height="16" alt="Press Releases" border="0" name="n3_press_releases"></a><br>
-<a href="./news/press_kit.html " onmouseover="menuimg_act('n4_press_kit','news')" onmouseout="menuimg_inact('n4_press_kit','news')"><img src="nav_images/n4_press_kit_off.gif" width="117" height="16" alt="Press Kit" border="0" name="n4_press_kit"></a><br>
-<a href="./news/awards.html " onmouseover="menuimg_act('n5_awards','news')" onmouseout="menuimg_inact('n5_awards','news')"><img src="../nav_images/n5_awards_off.gif" width="117" height="18" alt="Awards" border="0" name="n5_awards"></a><br></div>
-
-<div id="developerslayer" style="position: absolute; z-index: 10; top: 0px; left: 0px; width: 110px; height: 106px; visibility: hidden" onmouseover="overmenu=1;" onmouseout="overmenu=0; menutimeout('developers')">
+</div>
+<div id="mnCustomers" style="position: absolute; top: 69px; left: 420px; visibility: hidden;" onmouseover="toggleVis('mnCustomers','show');" onmouseout="mnOverCk=0;toggleVis('mnCustomers','hide');">
+<table cellpadding="0" cellspacing="0" border="0" width="130" class="bgMn">
+<tbody><tr valign="top">
+	<td width="1"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td width="127" class="bgHilite"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+	<td width="2"><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miCustomers" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miCustomers','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miCustomers','bgMnOff');mnTimeout('mnCustomers');" class="mn" href="/customers/index.html">Our Customers</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miEastman" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miEastman','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miEastman','bgMnOff');mnTimeout('mnCustomers');" class="mn" href="/customers/eastman.html">Eastman Chemical</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miPutnam" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miPutnam','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miPutnam','bgMnOff');mnTimeout('mnCustomers');" class="mn" href="/customers/putnam.html">Putnam Lovell</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miWachovia" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miWachovia','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miWachovia','bgMnOff');mnTimeout('mnCustomers');" class="mn" href="/customers/wachovia.html">Wachovia</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miXilinx" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miXilinx','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miXilinx','bgMnOff');mnTimeout('mnCustomers');" class="mn" href="/customers/xilinx.html">Xilinx</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+</tr>
+</tbody></table>
+</div>
+<div id="mnDevelopers" style="position: absolute; z-index: 10; top: 69px; left: 517px; visibility: hidden;" onmouseover="toggleVis('mnDevelopers','show');" onmouseout="mnOverCk=0;toggleVis('mnDevelopers','hide');">
+<table cellpadding="0" cellspacing="0" border="0" width="160" class="bgMn">
+<tbody><tr valign="top">
+	<td width="1"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td width="157" class="bgHilite"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+	<td width="2"><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miDevHome" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miDevHome','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miDevHome','bgMnOff');mnTimeout('mnDevelopers');" class="mn" href="http://developer.grandcentral.com/">Developer Central Home</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miHowtos" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miHowtos','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miHowtos','bgMnOff');mnTimeout('mnDevelopers');" class="mn" href="http://developer.grandcentral.com/howtos.html">HOWTOs &amp; Articles</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miDocs" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miDocs','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miDocs','bgMnOff');mnTimeout('mnDevelopers');" class="mn" href="http://developer.grandcentral.com/docs.html">Documentation</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miDevresources" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miDevresources','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miDevresources','bgMnOff');mnTimeout('mnDevelopers');" class="mn" href="http://developer.grandcentral.com/devresources.html">Industry Resources</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miDevtraining" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miDevtraining','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miDevtraining','bgMnOff');mnTimeout('mnDevelopers');" class="mn" href="http://developer.grandcentral.com/devtraining.html">Training &amp; Education</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miWsdir" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miWsdir','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miWsdir','bgMnOff');mnTimeout('mnDevelopers');" class="mn" href="http://developer.grandcentral.com/ws_directory.html">Web Services Directory</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miProfiles" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miProfiles','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miProfiles','bgMnOff');mnTimeout('mnDevelopers');" class="mn" href="http://developer.grandcentral.com/profiles.html">Solutions Profiles</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miAboutDev" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miAboutDev','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miAboutDev','bgMnOff');mnTimeout('mnDevelopers');" class="mn" href="http://developer.grandcentral.com/about.html">About Developer Central</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+</tr>
+</tbody></table>
+</div>
+<div id="mnPartners" style="position: absolute; z-index: 10; top: 69px; left: 613px; visibility: hidden;" onmouseover="toggleVis('mnPartners','show');" onmouseout="mnOverCk=0;toggleVis('mnPartners','hide');">
+<table cellpadding="0" cellspacing="0" border="0" width="150" class="bgMn">
+<tbody><tr valign="top">
+	<td width="1"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td width="147" class="bgHilite"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+	<td width="2"><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miPartners" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miPartners','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miPartners','bgMnOff');mnTimeout('mnPartners');" class="mn" href="/partners/index.html">Our Partners</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miPlatform" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miPlatform','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miPlatform','bgMnOff');mnTimeout('mnPartners');" class="mn" href="/partners/platform.html">Platform</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miTech" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miTech','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miTech','bgMnOff');mnTimeout('mnPartners');" class="mn" href="/partners/technology.html">Technology</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miSvcProvider" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miSvcProvider','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miSvcProvider','bgMnOff');mnTimeout('mnPartners');" class="mn" href="/partners/svcprovider.html">Service Providers</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miProfSvcs" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miProfSvcs','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miProfSvcs','bgMnOff');mnTimeout('mnPartners');" class="mn" href="/partners/profsvcs.html">Professional Services</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+</tr>
+</tbody></table>
+</div>
+<div id="mnCompany" style="position: absolute; z-index: 10; top: 69px; left: 691px; visibility: hidden;" onmouseover="toggleVis('mnCompany','show');" onmouseout="mnOverCk=0;toggleVis('mnCompany','hide');">
+<table cellpadding="0" cellspacing="0" border="0" width="130" class="bgMn">
+<tbody><tr valign="top">
+	<td width="1"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td width="127" class="bgHilite"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+	<td width="2"><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miCompany" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miCompany','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miCompany','bgMnOff');mnTimeout('mnCompany');" class="mn" href="/company/index.html">Our Company</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miMgmt" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miMgmt','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miMgmt','bgMnOff');mnTimeout('mnCompany');" class="mn" href="/company/management.html">Management Team</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miOverview" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miOverview','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miOverview','bgMnOff');mnTimeout('mnCompany');" class="mn" href="/company/overview.html">Company Overview</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miCareers" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miCareers','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miCareers','bgMnOff');mnTimeout('mnCompany');" class="mn" href="/company/careers.html">Careers</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miDirections" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miDirections','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miDirections','bgMnOff');mnTimeout('mnCompany');" class="mn" href="/company/directions.html">Directions</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+</tr>
+</tbody></table>
+</div>
+<div id="mnNews" style="position: absolute; z-index: 10; top: 69px; left: 781px; visibility: hidden;" onmouseover="toggleVis('mnNews','show');" onmouseout="mnOverCk=0;toggleVis('mnNews','hide');">
+<table cellpadding="0" cellspacing="0" border="0" width="120" class="bgMn">
+<tbody><tr valign="top">
+	<td width="1"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td width="117" class="bgHilite"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+	<td width="2"><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miNews" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miNews','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miNews','bgMnOff');mnTimeout('mnNews');" class="mn" href="/news/index.html">Featured News</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miEvents" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miEvents','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miEvents','bgMnOff');mnTimeout('mnNews');" class="mn" href="/news/events.html">Events</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miAwards" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miAwards','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miAwards','bgMnOff');mnTimeout('mnNews');" class="mn" href="/news/awards.html">Awards</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miPr" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miPr','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miPr','bgMnOff');mnTimeout('mnNews');" class="mn" href="/news/pressrel.html">Press Releases</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" height="1" width="1" alt="" border="0"></td>
+	<td><table id="miPrKit" cellpadding="5" cellspacing="0" border="0" width="100%" class="bgMnOff">
+	<tbody><tr valign="top">
+		<td><a onmouseover="mnOverCk=1;toggleView('miPrKit','bgMnOn');" onmouseout="mnOverCk=0;toggleView('miPrKit','bgMnOff');mnTimeout('mnNews');" class="mn" href="/news/presskit.html">Press Kit</a></td>
+	</tr>
+	</tbody></table></td>
+	<td><img src="/assets/images/clear.gif" height="1" width="2" alt="" border="0"></td>
+</tr>
+<tr valign="top">
+	<td colspan="3"><img src="/assets/images/clear.gif" height="2" width="1" alt="" border="0"></td>
+</tr>
+</tbody></table>
 </div>
 
-
-
-<script>
-// <!--
-   NS4 = (document.layers);
-   NS6 =  ((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) == 5))
-   IE4 = (document.all);
-  ver4 = (NS4 || IE4);
- MAC45 = (navigator.appVersion.indexOf("MSIE 4.5") != -1)
- isMac = (navigator.appVersion.indexOf("Mac") != -1);
- menuHeight=66;
- menuOffset=61;
- menuBarHeight=18;
-var overmenu = false;
-var openmenu = null;
-var overcheck = null;
-var loaded = false;
-
-
-function stripCharsNotInBag (s, bag)
-
-{   var i;
-    var returnString = "";
-
-    // Search through string's characters one by one.
-    // If character is in bag, append to returnString.
-
-    for (i = 0; i < s.length; i++)
-    {   
-        // Check that current character isn't whitespace.
-        var c = s.charAt(i);
-        if (bag.indexOf(c) != -1) returnString += c;
-    }
-
-    return returnString;
-}
- 
- 
-function getRealLeft(img) {
-// Find Position of Image File
-	xPos = img.offsetLeft;
-	tempEl = img.offsetParent;
-  	while (tempEl != null) {
-  		xPos += tempEl.offsetLeft;
-  		tempEl = tempEl.offsetParent;
-  	}
-	return xPos;
-}
-
-function getRealTop(img) {
-// Find Position of Image File
-	yPos = img.offsetTop;
-	tempEl = img.offsetParent;
-	while (tempEl != null) {
-  		yPos += tempEl.offsetTop;
-  		tempEl = tempEl.offsetParent;
-  	}
-	if (MAC45) yPos=menuOffset;
-	return yPos;
-	}
-
-function findloc (imgname)
-// Find Position of Image File
-{
-var holdingImage = document.images[imgname];
-var canvasLeft = (NS4) ? holdingImage.x : getRealLeft(holdingImage);
-var canvasTop = (NS4) ? holdingImage.y : getRealTop(holdingImage);
-var canvasWidth = holdingImage.width;
-var canvasHeight = holdingImage.height;
-return ([canvasLeft,canvasTop,canvasHeight]);
-}
-
-function showMenu(imgname) 
-// Show Menu Layer
-{	if (NS4 || loaded)
-	{
-		if (NS6) 
-			menu=document.getElementById(imgname+"layer")
-		else if (NS4)
-			menu=eval("document.layers."+imgname+"layer")
-		else
-			menu=eval(imgname+"layer");
-	}
-	if (NS4) menu.visibility = "show"
-	else menu.style.visibility = "visible"
-	openmenu=imgname;
-}
-
-function hideMenu() 
-// Hide Menu Layer
-{
-if (openmenu != null)
-	{
-		if (NS6) 
-			menu=document.getElementById(openmenu+"layer")
-		else if (NS4)
-			menu=eval("document.layers."+openmenu+"layer")
-		else
-			menu=eval(openmenu+"layer");
-	    if (NS4) menu.visibility = "hide"
-	    else menu.style.visibility = "hidden"
-		img_inact(openmenu)
-	}
-}
-
-function popup (imgname)
-// Pop Up Menu
-{
-	if (NS6) 
-		menu=document.getElementById(imgname+"layer")
-	else if (NS4)
-		menu=eval("document.layers."+imgname+"layer")
-	else
-		menu=eval(imgname+"layer");
-if (NS4)
-{
-	menu.top = findloc(imgname)[1] + 1 + menuBarHeight;
-	menu.left = findloc(imgname)[0];
-}
-else if (NS6)
-{
-	menu.style.top = findloc(imgname)[1] + 1 + menuBarHeight;
-	menu.style.left = findloc(imgname)[0];
-}
-else
-{
-	menu.style.pixelTop = findloc(imgname)[1] + 1 + menuBarHeight;
-	menu.style.pixelLeft = findloc(imgname)[0];
-}
-showMenu(imgname);
-}
-
-function checkmenu (openmenu,check)
-//monkey
-{
-if ((overmenu == 0) && (check == overcheck))
-{
-		if (NS6) 
-			menu=document.getElementById(openmenu+"layer")
-		else if (NS4)
-			menu=eval("document.layers."+openmenu+"layer")
-		else
-			menu=eval(openmenu+"layer");
-	    if (NS4) menu.visibility = "hide"
-	    else menu.style.visibility = "hidden"
-		img_inact(openmenu)
-}
-}
-
-function menutimeout (openmenu)
-// Set a .25 second timeout when the menu is not being used to close
-{
-overcheck=overcheck+1;
-setTimeout("checkmenu(openmenu,"+overcheck+")",250);
-}
-
-
-function tocItem (name) {
-this.on = new Image();
-this.on.src = "nav_images/" + name + "_on.gif"
-this.off = new Image();
-this.off.src = "nav_images/" + name + "_off.gif"
-}
-
-function toc_new (name) {
-tocItem[name] = new tocItem(name);
-}
-
-
-function img_act (imgName)
-// Show Image
-{
-if (document.images) 
-	document[imgName].src = tocItem[imgName].on.src
-}
-
-
-function img_inact (imgName, openmenu)
-// Hide Image
-{
-if (document.images) 
-    document[imgName].src = tocItem[imgName].off.src;
-}
-
-
-function menuimg_act(imgName, openmenu) {
-if (document.images) {
-if ((openmenu == null) || (IE4) || (NS6))
-	img_act(imgName)
-else
-	{
-	image= eval("document.layers."+openmenu+"layer.document.images['"+imgName+"']");
-	image.src = tocItem[imgName].on.src;
-	}
-}
-overmenu=1;
-}
-
-
-function menuimg_inact(imgName, openmenu, main) {
-if (document.images) {
-if ((openmenu == null) || (IE4) || (main != null) || (NS6))
-	img_inact(imgName)
-else
-	{
-	image= eval("document.layers."+openmenu+"layer.document.images['"+imgName+"']");
-	image.src = tocItem[imgName].off.src;
-	}
-}
-menutimeout(openmenu);
-overmenu=0;
-}
-
-
-if (document.images != null) {
-toc_new('developers');
-toc_new('customers');
-toc_new('services');
-toc_new('partners');
-toc_new('about');
-toc_new('news');
-toc_new('c1_featured');
-toc_new('c3_become');
-toc_new('s1_enterprises');
-toc_new('s3_whitepapers');
-toc_new('s4_case_studies');
-toc_new('s5_how_it_works');
-toc_new('s6_faq');
-toc_new('p1_our_partners');
-toc_new('p2_partnership');
-toc_new('p3_partner_program');
-toc_new('n1_in_news');
-toc_new('n2_events');
-toc_new('n3_press_releases');
-toc_new('n4_press_kit');
-toc_new('n5_awards');
-toc_new('a1_team');
-toc_new('a2_careers');
-toc_new('a3_directions');
-toc_new('a4_contact_us');
-toc_new('a5_fact_sheet');
-}
-
-// -->
-</script>
-
-<!--// END SSI NAV CONTENT -->
-
-<!--/ BEGIN BODY TABLE /-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td width="10"><img src="images/spacer.gif" width="10" height="15" border="0"></td>
-	<td width="150"><img src="images/spacer.gif" width="150" height="15" border="0"></td>
-	<td width="8%"><img src="images/spacer.gif" width="20" height="15" border="0"></td>
-	<td width="73%"><img src="images/spacer.gif" width="400" height="15" border="0"></td>
-	<td width="11%"><img src="images/spacer.gif" width="30" height="15" border="0"></td>
-	<td width="140"><img src="images/spacer.gif" width="140" height="15" border="0"></td>
-	<td width="8%"><img src="images/spacer.gif" width="10" height="15" border="0"></td>
+<!-- end drop down navigation includes -->
+<!-- start top navigation -->
+<table cellpadding="0" cellspacing="0" border="0" width="1010" class="bgNavBar">
+<!-- start top color row -->
+<tbody><tr valign="top">
+	<td width="237"><img src="/assets/images/clear.gif" width="1" height="8" alt="" border="0"></td>
+	<td width="763"><img src="/assets/images/clear.gif" width="1" height="1" alt="" border="0"></td>
+	<td width="10" class="bgForeground"><img src="/assets/images/clear.gif" width="1" height="1" alt="" border="0"></td>
 </tr>
-<tr>
-	<td width="10"><img src="images/spacer.gif" width="10" height="15" border="0"></td>
-	<td width="150" valign="top">
-<!--/ LEFT NAV COLUMN /-->
-	<a href="https://network.grandcentral.com"><img src="images/network_login_btn.gif" width="98" height="19" alt="Grand Central Network Login" border="0"></a><br>
-	
-	
-	<br><br>
-<!-- Begin PicoSearch Code -->
-	
-	<form method="POST" action="http://search.grandcentral.com">
-	<input type="HIDDEN" name="index" value="125010">
-	<span class="gcTextVsm">Search:</span><br>
-	<input type="TEXT" name="query" value="" size="13">&nbsp;&nbsp;<input type="image" src="http://www.grandcentral.com/images/go_btn.gif" border="0" hspace="0" vspace="0" value="Submit" name="add">
-	</form>
-	
-<!-- End PicoSearch Code --> 
-
-	<form name="quicklinks">
-<span class="gcTextVsm">Quick Links:</span>
-<select name="go1" onchange="jumper(1);" class="gcTextSm">
-  <option value="" selected="">Grand Central can help...</option>
-  <option value="./services/enterprise.html#data">Manage data relationships</option>
-  <option value="./services/enterprise.html#asp">Connect &amp; integrate ASPs</option>
-  <option value="./services/enterprise.html#business">Link with business partners</option>
-  </select></form>
-	</td>
-	
-	<td width="8%"><img src="images/spacer.gif" width="20" height="15" border="0"></td>
-	
-	<td width="73%" valign="top">
-	
-<!--/ START BODY CONTENT /-->
-
-	<span class="pageTitle">Privacy Policy</span><br>
-	
-	<span class="gcText">Respecting the privacy and confidentiality of your personal information is important to Grand Central Communications. During your use of the public web site (www.grandcentral.com), you may be asked to voluntarily provide certain personally identifiable information, such as your name, job title, company name, phone number, email address or postal address. We collect this information in order to enhance your use of the web site or for purposes such as facilitating correspondence with you or registering your entitlement to access certain special features of the web site. Grand Central will share this information with third parties who are directly related to Grand Central's business or who are specific to supporting its customers or partners only if this is indicated in your profile. If you would like to be removed from our mailing list or database, please send an email at any time to <a href="mailto:unsubscribe@grandcentral.com">unsubscribe@grandcentral.com</a>.<br><br>
-
-<span class="subTitle">Information about all web site users</span><br>
-If you browse the public portions of the Web Site, you do so anonymously. Grand Central does not collect your personally identifiable information unless you voluntarily provide it to us. Grand Central may automatically collect certain non-personally identifiable information regarding your use of the web site, such as the Internet Protocol address of your computer, your Internet Service Provider, the type of computer and operating system you are using, the pages read and any content downloaded. This information is not linked to you as an individual user. Rather, it is recorded as general statistical information, which may be used and disclosed to others by Grand Central to monitor use of the web site, to help diagnose technical problems, to improve the web site and generally to enable us to provide you with the best possible web experience. That information may be retained for future statistical analysis and other purposes.<br><br>
-
-<span class="subTitle">Voluntary Provision of Personal Information</span><br>
-We require customers who register to use the services ("Services") offered on our web site to give us certain contact information, such as their name, company name, address, phone number, and e-mail address.<br><br>
-
-Grand Central uses the information that we collect to set up services for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. Customers may be invited to receive an email newsletter by providing an email address. Customer email addresses will not be distributed or shared. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to support@grandcentral.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the service or company. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing support@grandcentral.com at the time it is distributed, or at the time any user registers for the service.<br><br>
-
-Except as we explicitly state at the time we request information, or as provided for in the Grand Central Terms of Use, we do not disclose to any third party the information provided.<br><br>
-
-<span class="subTitle">Securing Your Information</span><br>
-To help protect the confidentiality of your personally identifiable information, Grand Central employs security safeguards appropriate to the sensitivity of the information. Nevertheless, all security and privacy risks cannot be eliminated.<br><br> 
-
-Additionally, no data transmission over the Internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.<br><br>
-
-<span class="subTitle">Other Web Sites</span><br>
-The Grand Central web site may contain links to other web sites. When you click on one of those links, you will connect with another web site. Grand Central has no responsibility for, or control over, any linked web sites or their privacy policies or the manner in which they collect, use or disclose your personally identifiable information.<br><br>
-
-<span class="subTitle">Terms of Use Agreement</span><br>
-The Terms of Use Agreement for the service contains important provisions, including provisions disclaiming, limiting or excluding Grand Central's liability for your use of the service and the software development kit(s), and provisions relating to the law and jurisdiction for the resolution of any disputes regarding those matters. Each of those provisions apply to any issues that may arise in relation to this Privacy Policy, and are of the same force and effect as if they had been reproduced directly in this Privacy Policy.<br><br> 
-
-<span class="subTitle">Privacy Policy Changes</span><br>
-This Privacy Policy may be changed from time to time. Revised Privacy Policies will be posted here.<br><br>
-
-<span class="subTitle">Your Consent</span><br>
-By using the Web Site and/or the Grand Central Service, you consent to the collection and use of any information in the manner we describe.<br><br>
-
-<span class="subTitle">Your Comments</span><br>
-If you have any comments or questions about this Privacy Policy or your personal information, please contact us at <a href="mailto:support@grandcentral.com">support@grandcentral.com</a>.</span>
-	
-<!--/ END BODY CONTENT /-->
-	
-	</td>
-	<td width="11%"><img src="images/spacer.gif" width="30" height="15" border="0"></td>
-	<td width="140" valign="top">
-	<br>
-	
-<!--/ RIGHT SIDE PROMO TABLE /-->
-<img src="images/spacer.gif" width="121" height="25" border="0">
-<!--/ END RIGHT SIDE PROMO TABLE /-->
-	
-	</td>
-	<td width="8%"><img src="images/spacer.gif" width="10" height="15" border="0"></td>
+<!-- end top color row -->
+<!-- start navigation contents row -->
+<tr valign="top">
+	<!-- start logo column -->
+	<td><table cellpadding="0" cellspacing="0" border="0" width="237" class="bgForeground">
+	<tbody><tr valign="top">
+		<td><a href="/index.html"><img src="/assets/images/logo.gif" width="237" height="99" alt="" border="0"></a></td>
+	</tr>
+	</tbody></table></td>
+	<!-- end logo column -->
+	<!-- start navigation contents column -->
+	<td><table cellpadding="0" cellspacing="0" border="0" width="763">
+		<!-- start search row -->
+	<tbody><tr valign="top">
+		<td align="right" class="bgForeground"><img src="/assets/images/clear.gif" width="1" height="12" alt="" border="0"><br>
+		<table cellpadding="0" cellspacing="0" border="0" width="290">
+		<form method="post" action="http://search.grandcentral.com"></form>
+		<input type="hidden" name="index" value="125010">
+		<tbody><tr valign="middle">
+			<td><img src="/assets/images/lblSearch.gif" width="60" height="21" alt="" border="0"></td>
+			<td><input type="text" name="query" value="" size="13"></td>
+			<td><img src="/assets/images/clear.gif" width="5" height="1" alt="" border="0"></td>
+			<td><input type="image" src="/assets/images/btnGo.gif" width="32" height="22" alt="Go" border="0" value="Submit" name="add"></td>
+		</tr>
+		
+		</tbody></table>
+		<img src="/assets/images/clear.gif" width="1" height="6" alt="" border="0"><br></td>
+	</tr>
+	<!-- end search row -->
+	<!-- start dotted rule row -->
+	<tr valign="top">
+		<td class="bgForeground"><img src="/assets/images/hrDots.gif" width="763" height="1" alt="" border="0"></td>
+	</tr>
+	<!-- end dotted rule row -->
+		<!-- started navigation items row -->
+	<tr valign="top">
+		<td class="bgForeground"><table cellpadding="0" cellspacing="0" border="0" width="763">
+		<tbody><tr valign="top">
+			<td><img src="/assets/images/clear.gif" height="1" width="13" alt=""></td>
+			<td><a href="/index.html"><img name="Home" src="/assets/images/tnav/home_on.gif" alt="Home" width="66" height="20" border="0"></a></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><a onmouseover="toggleVis('mnSolutions','show');" onmouseout="mnOverCk=0;toggleVis('mnSolutions','hideout');" href="/solutions/index.html"><img name="Solutions" src="/assets/images/tnav/solutions_off.gif" alt="Solutions" width="87" height="20" border="0"></a></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><a onmouseover="toggleVis('mnCustomers','show');" onmouseout="mnOverCk=0;toggleVis('mnCustomers','hideout');" href="/customers/index.html"><img name="Customers" src="/assets/images/tnav/customers_off.gif" alt="Customers" width="96" height="20" border="0"></a></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><a onmouseover="toggleVis('mnDevelopers','show');" onmouseout="mnOverCk=0;toggleVis('mnDevelopers','hideout');" href="http://developer.grandcentral.com/"><img name="Developers" src="/assets/images/tnav/developers_off.gif" alt="Developers" width="95" height="20" border="0"></a></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><a onmouseover="toggleVis('mnPartners','show');" onmouseout="mnOverCk=0;toggleVis('mnPartners','hideout');" href="/partners/index.html"><img name="Partners" src="/assets/images/tnav/partners_off.gif" alt="Partners" width="77" height="20" border="0"></a></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><a onmouseover="toggleVis('mnCompany','show');" onmouseout="mnOverCk=0;toggleVis('mnCompany','hideout');" href="/company/index.html"><img name="Company" src="/assets/images/tnav/company_off.gif" alt="Company" width="89" height="20" border="0"></a></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><a onmouseover="toggleVis('mnNews','show');" onmouseout="mnOverCk=0;toggleVis('mnNews','hideout');" href="/news/index.html"><img name="News" src="/assets/images/tnav/news_off.gif" alt="News &amp; Events" width="123" height="20" border="0"></a></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><a href="/contact/index.html"><img name="Contact" src="/assets/images/tnav/contactus_off.gif" alt="Contact Us" width="98" height="20" border="0"></a></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="12" alt=""></td>
+		</tr>
+		<tr valign="top" class="bgNavBar">
+			<td colspan="17"><img src="/assets/images/clear.gif" height="2" width="1" alt=""></td>
+		</tr>
+		<tr valign="top" class="bgNavTitle">
+			<td colspan="17"><img src="/assets/images/clear.gif" height="2" width="1" alt=""></td>
+		</tr>
+		<tr valign="top" class="bgNavTitle">
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td align="center"><img src="/assets/images/yellow.gif" width="36" height="2" border="0"></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td align="center"><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td align="center"><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td align="center"><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td align="center"><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td align="center"><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td align="center"><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td align="center"><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+			<td><img src="/assets/images/clear.gif" height="1" width="1" alt=""></td>
+		</tr>
+		</tbody></table></td>
+	</tr>
+	<!-- end navigation items row -->
+	<!-- start title bar top padding row -->
+	<tr valign="top" class="bgNavTitle">
+		<td><img src="/assets/images/clear.gif" height="19" width="1" alt=""></td>
+	</tr>
+	<!-- end title bar top padding row-->
+	<!-- start title bar row -->
+	<tr valign="top" class="bgNavTitle">
+		<td><table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr valign="top">
+			<td><img src="/assets/images/clear.gif" height="1" width="11" alt=""></td>
+			<td><img src="/assets/images/icoTtl.gif" width="19" height="28" alt="" border="0"></td>
+			<td><img src="/assets/images/ttlPrivacy.gif" width="184" height="27" alt="Privacy Statement" border="0"></td>
+			<td>&nbsp;<!--<img src="/assets/images/lblTagline.gif" width="206" height="24" alt="" border="0">--></td>
+		</tr>
+		</tbody></table></td>
+	</tr>
+	<!-- end title bar row -->
+	</tbody></table></td>
+	<!-- end navigation contents column -->
+	<td class="bgForeground"><img src="/assets/images/clear.gif" width="1" height="1" alt="" border="0"></td>
+</tr>
+<!-- end navigation contents row -->
+<!-- start bottom color row -->
+<tr valign="top">
+	<td><img src="/assets/images/clear.gif" width="1" height="2" alt="" border="0"></td>
+	<td><img src="/assets/images/clear.gif" width="1" height="1" alt="" border="0"></td>
+	<td class="bgForeground"><img src="/assets/images/clear.gif" width="1" height="1" alt="" border="0"></td>
+</tr>
+<!-- end bottom color row -->
+</tbody></table>
+<!-- end top navigation-->
+<!-- start side navigation & page contents -->
+<table cellpadding="0" cellspacing="0" border="0" width="1000">
+<!-- start spacer row -->
+<tbody><tr valign="top">
+	<td width="237"><img src="/assets/images/clear.gif" width="1" height="5" alt="" border="0"></td>
+	<td width="29"><img src="/assets/images/clear.gif" width="1" height="1" alt="" border="0"></td>
+	<td width="734"><img src="/assets/images/clear.gif" width="1" height="1" alt="" border="0"></td>
+</tr>
+<!-- end spacer row -->
+<!-- start contents row -->
+<tr valign="top">
+	<!-- start side navigation column -->
+	<td>&nbsp;</td>
+	<!-- end side navigation column -->
+	<td><img src="/assets/images/clear.gif" width="1" height="1" alt="" border="0"></td>
+	<!-- start page contents and side-bar column -->
+	<td><img src="/assets/images/clear.gif" width="1" height="40" alt="" border="0"><br>
+	<table cellpadding="0" cellspacing="0" border="0" width="734">
+	<tbody><tr valign="top">
+		<!-- start page contents column -->
+		<td width="510" class="body"><span class="subhead">Privacy Policy</span><br>
+		<img src="/assets/images/clear.gif" width="1" height="9" alt="" border="0"><br>
+		<img src="/assets/images/hrBody.gif" width="508" height="1" alt="" border="0"><br>
+		<img src="/assets/images/clear.gif" width="1" height="9" alt="" border="0"><br>
+		Respecting the privacy and confidentiality of your personal information is important to Grand Central Communications. During your use of the public web site (<a href="http://www.grandcentral.com">www.grandcentral.com</a>), you may be asked to voluntarily provide certain personally identifiable information, such as your name, job title, company name, phone number, email address or postal address. We collect this information in order to enhance your use of the web site or for purposes such as facilitating correspondence with you or registering your entitlement to access certain special features of the web site. Grand Central will share this information with third parties who are directly related to Grand Central's business or who are specific to supporting its customers or partners only if this is indicated in your profile. If you would like to be removed from our mailing list or database, please send an email at any time to <a href="mailto:unsubscribe@grandcentral.com">unsubscribe@grandcentral.com</a>.<br>
+		<br>
+		<span class="subhead">Information about all web site users</span><br>
+		If you browse the public portions of the Web Site, you do so anonymously. Grand Central does not collect your personally identifiable information unless you voluntarily provide it to us. Grand Central may automatically collect certain non-personally identifiable information regarding your use of the web site, such as the Internet Protocol address of your computer, your Internet Service Provider, the type of computer and operating system you are using, the pages read and any content downloaded. This information is not linked to you as an individual user. Rather, it is recorded as general statistical information, which may be used and disclosed to others by Grand Central to monitor use of the web site, to help diagnose technical problems, to improve the web site and generally to enable us to provide you with the best possible web experience. That information may be retained for future statistical analysis and other purposes.<br>
+		<br>
+		<span class="subhead">Voluntary Provision of Personal Information</span><br>
+		We require customers who register to use the services ("Services") offered on our web site to give us certain contact information, such as their name, company name, address, phone number, and e-mail address.<br>
+		<br>
+		Grand Central uses the information that we collect to set up services for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. Customers may be invited to receive an email newsletter by providing an email address. Customer email addresses will not be distributed or shared. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to <a href="mailto:support@grandcentral.com">support@grandcentral.com</a>. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the service or company. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing support@grandcentral.com at the time it is distributed, or at the time any user registers for the service.<br>
+		<br>
+		Except as we explicitly state at the time we request information, or as provided for in the Grand Central Terms of Use, we do not disclose to any third party the information provided.<br>
+		<br>
+		<span class="subhead">Securing Your Information</span><br>
+		To help protect the confidentiality of your personally identifiable information, Grand Central employs security safeguards appropriate to the sensitivity of the information. Nevertheless, all security and privacy risks cannot be eliminated.<br>
+		<br>
+		Additionally, no data transmission over the Internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.<br>
+		<br>
+		<span class="subhead">Other Web Sites</span><br>
+		The Grand Central web site may contain links to other web sites. When you click on one of those links, you will connect with another web site. Grand Central has no responsibility for, or control over, any linked web sites or their privacy policies or the manner in which they collect, use or disclose your personally identifiable information.<br>
+		<br>
+		<span class="subhead">Terms of Use Agreement</span><br>
+		The Terms of Use Agreement for the service contains important provisions, including provisions disclaiming, limiting or excluding Grand Central's liability for your use of the service and the software development kit(s), and provisions relating to the law and jurisdiction for the resolution of any disputes regarding those matters. Each of those provisions apply to any issues that may arise in relation to this Privacy Policy, and are of the same force and effect as if they had been reproduced directly in this Privacy Policy.<br>
+		<br>
+		<span class="subhead">Privacy Policy Changes</span><br>
+		This Privacy Policy may be changed from time to time. Revised Privacy Policies will be posted here.<br>
+		<br>
+		<span class="subhead">Your Consent</span><br>
+		By using the Web Site and/or the Grand Central Service, you consent to the collection and use of any information in the manner we describe.<br>
+		<br>
+		<span class="subhead">Your Comments</span><br>
+		If you have any comments or questions about this Privacy Policy or your personal information, please contact us at <a href="mailto:support@grandcentral.com">support@grandcentral.com</a>.<br>
+		<br>
+		<br>
+		<!-- end ness blurb one -->
+		</td>
+		<!-- end page contents column -->
+		<td width="8"><img src="/assets/images/clear.gif" width="1" height="1" alt="" border="0"></td>
+		<!-- start side-bar column -->
+		<td width="216">&nbsp;</td>
+		<!-- end side-bar column -->
+	</tr>
+	</tbody></table></td>
+	<!-- end page contents & side-bar column -->
+</tr>
+<!-- end contents row -->
+</tbody></table>
+<!-- end side navigation & page contents -->
+<!-- start footer -->
+<table cellpadding="5" cellspacing="0" border="0" width="1000">
+<tbody><tr valign="top">
+	<td align="center" class="ftr"><a class="ftr" href="/privacy.html">Privacy Statement</a> &nbsp; | &nbsp; © 2001 - 2003 Grand Central Communications </td>
 </tr>
 </tbody></table>
-<!--/ END BODY TABLE /-->
-
-<br>
-
-<!--/ START FOOTER TABLE /-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td width="10"><img src="http://www.grandcentral.com/images/spacer.gif" width="10" height="1" border="0"></td>
-	<td width="40%"><span class="gcTextSm"><a class="tertiary" href="http://www.grandcentral.com">Home</a> &nbsp;|&nbsp; <a class="tertiary" href="http://www.grandcentral.com/about/">About</a> &nbsp;|&nbsp; <a class="tertiary" href="http://www.grandcentral.com/about/contact_us.html">Contact Us</a> &nbsp;|&nbsp; <a class="tertiary" href="http://www.grandcentral.com/privacy.html">Privacy Statement</a></span></td>
-	<td width="60%"><span class="gcTextSm">©2002 Grand Central Communications, Inc.</span></td>
-	<td width="20"><img src="http://www.grandcentral.com/images/spacer.gif" width="20" height="1" border="0"></td>
-</tr>
-<tr>
-	<td width="100%" colspan="4"><img src="http://www.grandcentral.com/images/spacer.gif" width="740" height="1" border="0"></td>
-</tr> 
-</tbody></table><br>
-<!--/ END FOOTER TABLE /-->
-
+<!-- end footer -->
+<!-- START OF WEBTRENDS LIVE TAG -->
+<!-- Copyright 2003 NetIQ Corporation -->
+<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm -->
 <script language="JavaScript">
-
 <!--
-function nsSizingFix() {
+// Modification of this code is not allowed and will permanently disable your account!
+// SiteName:  Grand Central Communications
+function wtl_Tag5_148502()
+{
+	var SERVER= "";
+	var CONTENTGROUP= "";
+	
+	var wtl_URL= document.URL;
+	var wtl_Title= document.title;
 
-  if (document.ns.nsSizingFix.initWindowWidth != window.innerWidth || document.ns.nsSizingFix.initWindowHeight != window.innerHeight) {
-    document.location = document.location;
-  }
+	function D8( d)
+	{
+		var fwd=0, seed= new Date('01/01/2000'), key= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+		var s= key.charAt( d.getFullYear()-2000)+key.charAt( d.getMonth()+1)+key.charAt( d.getDate());
+		s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
+		while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
+		var w= Math.floor( (d.getTime()-(seed.getTime()+86400000)) / 604800000 );
+		s+= key.charAt( (w-(w%16))/16 );
+		s+= key.charAt( w%16);
+		return s;
+	}
+	
+	function A( B, C)
+	{
+		W+="&"+B+"="+escape(C);
+	}
+
+	var t = new Date();
+	var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S148502/button5.asp?tagver=5&si=148502&fw=0";
+	A( "server", typeof(SERVER)== "string" ? SERVER : "");
+	A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
+	A( "tz", t.getTimezoneOffset());
+	A( "ch", t.getHours());
+	A( "cl", D8(t));
+	A( "ti", typeof(wtl_Title)== "string" ? wtl_Title : document.title);
+	A( "url", typeof(wtl_URL)== "string" ? wtl_URL : document.URL);
+	A( "rf", window.document.referrer);
+	A( "js", "Yes");
+	A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
+	if(typeof(screen)=="object")
+	{
+	A( "sr", screen.width+"x"+screen.height);
+	A( "cd", screen.colorDepth);
+	A( "jo", navigator.javaEnabled()?"Yes":"No");
+	}
+	if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
+		W= W.substring( 0, 2043)+"&tu=1";
+
+	document.write('<IMG ID="WTL_148502" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">');
 }
 
-function nsSizingFixReload() {
-  if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
-    if (typeof document.ns == 'undefined'){
-      document.ns = new Object;
-    }
-    if (typeof document.ns.ns_scaleFont == 'undefined') {
-      document.ns.nsSizingFix = new Object;
-      document.ns.nsSizingFix.initWindowWidth = window.innerWidth;
-      document.ns.nsSizingFix.initWindowHeight = window.innerHeight;
-    }
-    window.onresize = nsSizingFix;
-  }
-}
-
-nsSizingFixReload()
-
-// -->
-</script>
-
-<!-- START OF WEBTRENDS LIVE TAG --> 
-<!-- Copyright 1999-2000 WebTrends Corporation --> 
-
-
-<script language="JavaScript"> 
-<!-- 
-// You may customize the values of the variables below to suit your website. 
-// Simply insert your own values between the double-quotes. 
-// Here are some examples: 
-//   var ORDER= "D2,Business to Consumer,Pocket FM Radio,Audio Products,10,499.99;"; 
-//   var SERVER= "MyServerName"; 
-//   var CONTENTGROUP= "ContentGroupOfThisPage"; 
-
-var ORDER= ""; 
-var SERVER= ""; 
-var CONTENTGROUP= ""; 
-//--> 
-</script> 
-
-<script language="JavaScript"> 
-<!-- 
-// Modification of this code is not allowed and will permanently disable your account! 
-// SiteName: GrandCentral 
-var W="tagver=3&SiteId=40089&Sid=009-00-12-5-210717-40089&Tz=-800&firstwkday=sunday&Edition=enterprise&Button="; 
-W+="&server="+escape(SERVER); 
-W+="&order="+escape(ORDER); 
-W+="&Group="+escape(CONTENTGROUP); 
-W+="&browserDate="+escape(new Date()); 
-W+="&title="+escape(document.title); 
-W+="&url="+escape(window.document.URL); 
-W+="&referrer="+escape(window.document.referrer); 
-W+="&appname="+escape(navigator.appName); 
-W+="&appversion="+escape(navigator.appVersion); 
-W+="&cookieOK="+(navigator.cookieEnabled?"Yes":"No"); 
-W+="&userLanguage="+(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage); 
-W+="&platform="+navigator.platform; 
-W+="&bgColor="+escape(document.bgColor); 
-W+="&javaOK=Yes"; 
-if(typeof(screen)=="object") 
-{ 
-W+="&screenResolution="+screen.width+"x"+screen.height; 
-W+="&colorDepth="+screen.colorDepth; 
-W+="&NSpluginList="; 
-for( var i=0; i< navigator.plugins.length; i++) 
-W+=escape(navigator.plugins[i].name)+";"; 
-} 
-var userAgent = navigator.appCodeName + "/" + navigator.appVersion; 
-if(userAgent != "Mozilla/4.0 (compatible; Keynote-Perspective 4.0)") 
-{ 
-   document.write('<A TARGET="_blank" HREF="http://www.webtrendslive.com/redirect.asp?siteID=40089">'); 
-   document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S009-00-12-5-210717-40089/button3.asp?'+W+'">');
-
-   document.write('</A>'); 
-} 
-//--> 
-</script><a target="_blank" href="http://www.webtrendslive.com/redirect.asp?siteID=40089"><img border="0" width="1" height="1" src="http://statse.webtrendslive.com/S009-00-12-5-210717-40089/button3.asp?tagver=3&amp;SiteId=40089&amp;Sid=009-00-12-5-210717-40089&amp;Tz=-800&amp;firstwkday=sunday&amp;Edition=enterprise&amp;Button=&amp;server=&amp;order=&amp;Group=&amp;browserDate=Fri%20Jan%2031%202020%2012%3A33%3A35%20GMT+0000%20%28Coordinated%20Universal%20Time%29&amp;title=Grand%20Central%20Communications%20-%20Privacy%20Statement&amp;url=https%3A//web.archive.org/web/20021206055349id_/http%253A//www.grandcentral.com/privacy.html&amp;referrer=&amp;appname=Netscape&amp;appversion=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;cookieOK=Yes&amp;userLanguage=en-US&amp;platform=Linux x86_64&amp;bgColor=%23FFFFFF&amp;javaOK=Yes&amp;screenResolution=800x600&amp;colorDepth=24&amp;NSpluginList="></a> 
-
-
+wtl_Tag5_148502();
+//-->
+</script><img id="WTL_148502" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S148502/button5.asp?tagver=5&amp;si=148502&amp;fw=0&amp;server=&amp;Group=&amp;tz=0&amp;ch=12&amp;cl=K1VCXZ7&amp;ti=Grand%20Central%20Communications%20-%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20030402205133id_/http%253A//www.grandcentral.com/privacy.html&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+<noscript>
+<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S148502/button5.asp?tagver=5&si=148502&fw=0&js=No&">
+</noscript>
+<!-- END OF WEBTRENDS LIVE TAG -->
 
 
 </body></html>
