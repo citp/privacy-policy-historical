@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204184849id_/http%3A//www.pressrepublican.com/Aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072143id_/http%3A//www.pressrepublican.com/Aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ _ **
 
 **_
 
-How We Use Information Collected 
+How We Use Information Collected
 
 _**
 
@@ -122,7 +122,7 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 
 **
 
-All rights reserved. Ottaway Newspapers, Inc. Copyright © 2001.
+All rights reserved. Ottaway Newspapers, Inc. Copyright © 2002.
 
 **
 
