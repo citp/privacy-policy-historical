@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobopenings.net privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014163540id_/http%3A//www.jobopenings.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobopenings.net privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207043209id_/http%3A//www.jobopenings.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement for JobOpenings.net
 
@@ -10,7 +10,7 @@ This Overall Privacy Statement verifies that The **Job Openings.net** (JO) is in
 >  2\. What The **Job Openings.net** does with the information it gathers/tracks   
 >  3\. With whom The **Job Openings.net** shares the information it gathers/tracks 
 
-Questions regarding this statement should be directed to The JO Customer Service at [support@jobopenings.net](mailto:support@jobopenings.net). Read Frequently Asked Questions About [Cookies](http://www.centralvirginia.net/ace-lynchburg/Orders/FAQ.htm).
+Questions regarding this statement should be directed to The JO Customer Service at [support](http://www.123call.us/). Read Frequently Asked Questions About [Cookies](http://www.ace-lynchburg.com/faq.htm).
 
 * * *
 
@@ -32,6 +32,6 @@ Using the e-mail addresses provided at registration, **JO** periodically sends p
 
 **JO** shares the information it tracks, in aggregate form, with advertisers and other partners. We do not sell or share email addresses with third parties or advertisers except for partners or site sponsors.  **JO** will provide a subscriber a summary of his or her personal information provided at registration upon request. This information will only be sent to the e-mail address on file for the subscriber name associated with it. 
 
-Upon request, **JO** will remove any subscriber or job applicant (and his or her personal information) from our database, or allow any subscriber to "opt out" of further contact (while still allowing access to the site) or change/correct personal information that the subscriber states is erroneous. To obtain an information summary or request a change of information, send e-mail to [Customer Service](mailto:support@jobopenings.net). 
+Upon request, **JO** will remove any subscriber or job applicant (and his or her personal information) from our database, or allow any subscriber to "opt out" of further contact (while still allowing access to the site) or change/correct personal information that the subscriber states is erroneous. To obtain an information summary or request a change of information, send e-mail to [Customer Service](http://www.123call.us/). 
 
 **JO** is not responsible for the content or the privacy policies of Web sites to which it may link. 
