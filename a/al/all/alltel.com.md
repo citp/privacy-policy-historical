@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602102718id_/http%3A//www.alltel.com/legal/privacy_stmt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008131321id_/http%3A//www.alltel.com/legal/privacy_stmt.html) for the most accurate reproduction.*
 
 # Welcome to ALLTEL
 
