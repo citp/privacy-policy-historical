@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dotster.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611064414id_/http%3A//www.dotster.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotster.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207204729id_/http%3A//web.dotster.com/policy/privacy/index.php) for the most accurate reproduction.*
 
-# Domain Registration Agreement (Dotster)
-
-## Dotster Privacy Policy
+# Domain Name Registration and Web Hosting Services
 
 DOTSTER PRIVACY STATEMENT   
 This privacy statement discloses the privacy practices for Dotster, Inc. Dotster respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Dotster does not collect individually identifiable information from any end-user. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices available for review. 
