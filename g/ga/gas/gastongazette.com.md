@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the gastongazette.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210224123id_/http%3A//www.gastongazette.com/portal/Miscfiles/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gastongazette.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407061855id_/http%3A//www.gastongazette.com/Portal/privacystatement.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Gaston Gazette Online
 
-The **GASTON GAZETTE** Web site is maintained by **GASTON GAZETTE, 2500 East Franklin Blvd., Gastonia, NC 28056**. We can be reached by e-mail at [newmedia@gastongazette.com](mailto:newmedia@gastongazette.com).
+The **GASTON GAZETTE** Web site is maintained by **GASTON GAZETTE, 1893 Remount Road, Gastonia, NC 28054**. We can be reached by e-mail at [ gastongazette@link.freedom.com](mailto:gastongazette@link.freedom.com)
 
 ****
 
 **HOW GASTON GAZETTE USES INFORMATION PROVIDED BY YOU** : This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information may be used by **GASTON GAZETTE** and its affiliates for editorial purposes. **GASTON GAZETTE** may also use such information for marketing and promotional purposes. We may share your personally identifiable information with other companies with which we conduct business. For example, if you enter our contests, make a purchase or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. Or if you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While **GASTON GAZETTE** will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, **GASTON GAZETTE** does not bear any responsibility for any actions or policies of any third parties.
 
-****
-
-**Except for purposes outlined above, we do not provide, sell or lease your personally identifiable information to any third parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what is done with your information on any part of GASTON GAZETTE, please e-mail us at[newmedia@gastongazette.com](mailto:newmedia@gastongazette.com), _before_ submitting any information.**
+Except for purposes outlined above, we do not provide, sell or lease your personally identifiable information to any third parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what is done with your information on any part of GASTON GAZETTE, please e-mail us at [ gastongazette@link.freedom.com](mailto:gastongazette@link.freedom.com), _before_ submitting any information.
 
 We also collect anonymous, aggregated data and provide it to our advertisers and other companies that we do business with for market research and statistical purposes. For example, we might report to our advertisers that a certain percentage of users are between the ages of 30-35.
 
@@ -28,4 +26,4 @@ Finally, you should be aware that when you voluntarily disclose personally ident
 
 **PARENTS** : We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifiable information collected by **GASTON GAZETTE** from children (that we are aware are children) will be used only for **GASTON GAZETTE** internal purposes such as market research, sweepstakes fulfillment and for fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to other companies which we do business with, for statistical and market research purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various forums, or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so.
 
-Again, if you have any concerns regarding your child's or your use of **GASTON GAZETTE** , please contact us via email at [newmedia@gastongazette.com](mailto:newmedia@gastongazette.com)
+Again, if you have any concerns regarding your child's or your use of **GASTON GAZETTE** , please contact us via email at [ gastongazette@link.freedom.com](mailto:gastongazette@link.freedom.com)
