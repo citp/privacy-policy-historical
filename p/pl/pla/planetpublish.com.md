@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetpublish.com privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214140709id_/http%3A//planetpublish.com/mainpage.asp%3Fwebpageid%3D50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetpublish.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192205id_/http%3A//planetpublish.com/mainpage.asp%3Fwebpageid%3D50) for the most accurate reproduction.*
 
 # Planet Publish - Privacy Policy for the BinaryThing.com Web sites
 
