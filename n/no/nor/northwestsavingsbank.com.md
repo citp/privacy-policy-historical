@@ -1,45 +1,45 @@
-> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2000-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwbpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2001-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwbpriv.htm) for the most accurate reproduction.*
 
 # Northwest Bancorp Privacy Statement
 
-[**Welcome**](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/welcome.htm)
+[**Welcome**](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/welcome.htm)
 
- **[Northwest Bancorp, Inc.](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwb.htm)  
-  [Stock Information](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwbstoc.htm)  
-  [Financials](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwbfin.htm)  
-       [Current Financials](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/fincurr.htm)  
-       [Annual Report](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/finann.htm)  
-  [Management](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwbmgmt.htm)  
-  [Corporate Structure](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwbstru.htm)  
+ **[Northwest Bancorp, Inc.](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwb.htm)  
+  [Stock Information](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwbstoc.htm)  
+  [Financials](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwbfin.htm)  
+       [Current Financials](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/fincurr.htm)  
+       [Annual Report](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/finann.htm)  
+  [Management](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwbmgmt.htm)  
+  [Corporate Structure](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwbstru.htm)  
   [Copyright Information  
-](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwbcopy.htm)  Privacy Statement**
+](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwbcopy.htm)  Privacy Statement**
 
-**[Northwest Savings Bank](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nws.htm)  
-  [O](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[f](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[f](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[i](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[ce ](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[M](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[a](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[p](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)  
-  [Office Listing](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwslist.htm)  
+**[Northwest Savings Bank](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nws.htm)  
+  [O](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[f](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[f](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[i](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[ce ](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[M](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[a](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)[p](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsmap.htm)  
+  [Office Listing](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwslist.htm)  
   [ATM Locations  
-](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsatm.htm)  [Employment](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsemp.htm)  
-  [Products](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsprod.htm)  
-    [Deposits](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsdep.htm)  
-    [Checking](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwschec.htm)  
-    [Loans](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwsloan.htm)  
-    [Jamestown Savings Bank](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/jsb.htm)  
-  [Office Map](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/jsbmap.htm)  
-  [Office Listing](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/jsblist.htm)  
-  [ATM Locations](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/jsbatm.htm)  
-  [Products](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/jsbprod.htm)  
-    [Deposits](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/jsbdep.htm)  
-    [Checking](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/jsbchec.htm)  
-    [Loans](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/jsbloan.htm)[Northwest Consumer](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwc.htm)  
-  [Office Map](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwcmap.htm)  
-  [Office Listing](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwclist.htm)  
-   [Loans](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/nwcloan.htm)**
+](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsatm.htm)  [Employment](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsemp.htm)  
+  [Products](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsprod.htm)  
+    [Deposits](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsdep.htm)  
+    [Checking](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwschec.htm)  
+    [Loans](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwsloan.htm)  
+    [Jamestown Savings Bank](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/jsb.htm)  
+  [Office Map](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/jsbmap.htm)  
+  [Office Listing](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/jsblist.htm)  
+  [ATM Locations](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/jsbatm.htm)  
+  [Products](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/jsbprod.htm)  
+    [Deposits](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/jsbdep.htm)  
+    [Checking](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/jsbchec.htm)  
+    [Loans](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/jsbloan.htm)[Northwest Consumer](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwc.htm)  
+  [Office Map](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwcmap.htm)  
+  [Office Listing](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwclist.htm)  
+   [Loans](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/nwcloan.htm)**
 
-[**News Releases**](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/news.htm)
+[**News Releases**](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/news.htm)
 
-[**Links**](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/links.htm)
+[**Links**](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/links.htm)
 
-**[Back to Home Page](https://web.archive.org/web/20001019140948id_/http%3A//www.northwestsavingsbank.com/index.html)  
+**[Back to Home Page](https://web.archive.org/web/20010622113050id_/http%3A//www.northwestsavingsbank.com/index.html)  
 **
 
 | 
