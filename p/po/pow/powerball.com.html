@@ -1,275 +1,7 @@
-<!--The following is the downloaded HTML source of the powerball.com privacy policy that was archived on 2004-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041223124535id_/http%3A//powerball.com/pb_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerball.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403152127id_/http%3A//www.powerball.com/pb_privacy.asp) for the most accurate reproduction.-->
 
-<html><head><script>
-function validateDate(obj,alertFlag)
-{
-var thisDate;
-	
-	disabledStatus = obj.disabled;
-	obj.disabled= false;
-	if(obj.value != "")
-	{
-		for(i=0;i<obj.value.length;i++)
-		{
-			if(isNaN(obj.value.charAt(i)) && obj.value.charAt(i) != "/")
-			{
-				obj.value = "";
-				if(alertFlag){alert("Please enter a valid date (MM/DD/YYYY)");}
-				obj.focus();
-				obj.disabled = disabledStatus;
-				return 1;
-			}
-		}
-		thisDate = new Date(obj.value);
-		year = thisDate.getYear();
-		if(year < 2000)
-			{year += 2000;}
-		if(isNaN(thisDate.getMonth()) || isNaN(thisDate.getMonth()) || isNaN(year))
-		{
-			obj.value = "";
-			if(alertFlag){alert("Please enter a valid date (MM/DD/YYYY)");}
-			obj.focus();
-			obj.disabled = disabledStatus;
-			return 1;
-		}
-		else
-			{obj.value=thisDate.getMonth()+1+'/'+thisDate.getDate()+'/'+year;}
-	}
-	obj.disabled = disabledStatus;
-	return;
-}
-function validateNum(obj,minNum,maxNum,alertFlag)
-{
-var i,blankFlag=1;
-	
-	disabledStatus = obj.disabled;
-	obj.disabled= false;
-	if(obj.value != "")
-	{
-		obj.value=obj.value.replace(/\,/g,"");
-		obj.value=obj.value*1;
-		for(i=0;i<obj.value.length;i++)
-		{
-			if(isNaN(obj.value.charAt(i)))
-			{
-				obj.focus();
-				obj.value = "";
-				if(alertFlag){alert("Please enter a valid number");}
-				obj.focus();
-				obj.disabled = disabledStatus;
-				return 1;
-			}
-		}
-		while(String(obj.value).length < String(maxNum).length)
-			{obj.value = "0" + obj.value;}
-		if(obj.value > maxNum || obj.value < minNum)
-		{
-			obj.focus();
-			obj.value = "";
-			if(alertFlag){alert("Please enter a valid number");}
-			obj.focus();
-			obj.disabled = disabledStatus;
-			return 1;
-		}
-		threeCnt=0;
-		newString="";
-		for(i=obj.length-1;i>=0;i--)
-		{
-			if(threeCnt++ == 3)
-			{
-				threeCnt=1;
-				newString+=",";
-			}
-			newString+=obj.charAt(i);
-		}
-		obj="";
-		for(i=newString.length-1;i>=0;i--)
-		{
-			obj+=newString.charAt(i);
-		}
-	}
-	obj.disabled = disabledStatus;
-	return;
-	
-}
-function validateDec(obj,minNum,maxNum,alertFlag)
-{
-var i,blankFlag=1;
-	
-	disabledStatus = obj.disabled;
-	obj.disabled= false;
-	if(obj.value != "")
-	{
-		obj.value = obj.value.replace(/\,/g,"");
-		obj.value=obj.value*1;
-		for(i=0;i<obj.value.length;i++)
-		{
-			if((isNaN(obj.value.charAt(i))) && obj.value.charAt(i) != ".")
-			{
-				obj.focus();
-				obj.value = "";
-				if(alertFlag){alert("Please enter a valid number");}
-				obj.focus();
-				obj.disabled = disabledStatus;
-				return 1;
-			}
-		}
-		if(String(obj.value).length < 2 && maxNum > 9)
-			{obj.value = "0" + obj.value;}
-		if(obj.value > maxNum || obj.value < minNum)
-		{
-			obj.focus();
-			obj.value = "";
-			if(alertFlag){alert("Please enter a valid number");}
-			obj.focus();
-			obj.disabled = disabledStatus;
-			return 1;
-		}
-		threeCnt=0;
-		newString="";
-		for(i=obj.length-1;i>=0;i--)
-		{
-			if(threeCnt++ == 3)
-			{
-				threeCnt=1;
-				newString+=",";
-			}
-			newString+=obj.charAt(i);
-		}
-		obj="";
-		for(i=newString.length-1;i>=0;i--)
-		{
-			obj+=newString.charAt(i);
-		}
-		obj.disabled = disabledStatus;
-		return;
-	}
-	obj.disabled = disabledStatus;
-	return;
-	
-}
-function validateMoney(obj,alertFlag)
-{
-	newString="";
-	disabledStatus = obj.disabled;
-	obj.disabled= false;
-	if(obj.value != "")
-	{		
-		obj.value = obj.value.replace(/\,/g,"");
-		obj.value = obj.value.replace(/\$/g,"");
-		obj.value=obj.value*1;
-		for(i=0;i<obj.value.length;i++)
-		{
-			if( isNaN(obj.value.charAt(i)) )
-			{
-				obj.value="";
-				if(alertFlag){alert("Please enter a valid whole dollar amount");}
-				obj.value="";
-				obj.focus();
-			}
-		}
-		threeCnt=0;
-		newString="";
-		for(i=obj.value.length-1;i>=0;i--)
-		{
-			if(threeCnt++ == 3)
-			{
-				threeCnt=1;
-				newString+=",";
-			}
-			newString+=obj.value.charAt(i);
-		}
-		obj.value="";
-		for(i=newString.length-1;i>=0;i--)
-		{
-			obj.value+=newString.charAt(i);
-		}
-	}
-	obj.disabled = disabledStatus;
-	return;
-}
-function validateEmail(obj,alertFlag)
-{
-	var disabledStatus = obj.disabled;
-	emailReg = /^[\w|\-|\.]+\@[\w|\-]+(\.[\w|\-]+)+$/;
-	
-	obj.disabled= false;
-	if(obj.value != "")
-	{		
-		if(!emailReg.test(obj.value))
-		{
-			obj.value="";
-			if(alertFlag){alert("Please enter a valid email address");}
-			obj.value="";
-			obj.focus();
-		}
-	}
-	obj.disabled = disabledStatus;
-	return;
-}
-function validateText(obj,alertFlag)
-{
-	var disabledStatus = obj.disabled;
-	textReg = /^[\w|\-|\s|\.|\:|\/]+$/;
-	
-	obj.disabled= false;
-	if(obj.value != "")
-	{		
-		if(!textReg.test(obj.value))
-		{
-			obj.value="";
-			if(alertFlag){alert("An invalid character was detected please try again");}
-			obj.value="";
-			obj.focus();
-		}
-	}
-	obj.disabled = disabledStatus;
-	return;
-}
-
-// Checks for phone number characters
-// Returns true for valid false for not
-function validatePhone(obj,alertFlag)
-{
-var textReg   = /^[\d|\-|\(|\)|\+]*$/g;
-var disabledStatus = obj.disabled;
-
-	obj.disabled= false;
-	if(!textReg.test(obj.value))
-	{
-		obj.value="";
-		if(alertFlag){alert("An invalid character was detected please try again");}
-		obj.value="";
-		obj.focus();
-	}
-
-	obj.disabled = disabledStatus;
-	return;
-}
-
-// Checks for zip code characters
-// Returns true for valid false for not
-function validateZip(obj,alertFlag)
-{
-var textReg   = /^[\d|\-|]*$/g;
-var disabledStatus = obj.disabled;
-
-	obj.disabled= false;
-	if(!textReg.test(obj.value))
-	{
-		obj.value="";
-		if(alertFlag){alert("An invalid character was detected please try again");}
-		obj.value="";
-		obj.focus();
-	}
-
-	obj.disabled = disabledStatus;
-	return;
-}
-</script>
-
-
+<html><head>
 <title>Welcome to Powerball</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
@@ -288,8 +20,7 @@ var disabledStatus = obj.disabled;
           		<tr>
             		<td height="20" bgcolor="#003399"><img name="pb_menu" src="/menu/menu-1.gif" width="350" height="20" border="0" usemap="#m_menu2" alt="">
 <map name="m_menu2">
-<area shape="poly" coords="267,4,305,4,305,16,267,16,267,4" href="/2by2/2by2_main.asp" target="_top" alt="">
-<area shape="poly" coords="148,4,255,4,255,16,148,16,148,4" href="/gameshow/gs_main.asp" target="_top" alt="">
+<area shape="poly" coords="150,4,188,4,188,16,150,16,150,4" href="/2by2/2by2_main.asp" target="_top" alt="">
 <area shape="poly" coords="72,4,138,4,138,16,72,16,72,4" href="/wildcard/wc_main.asp" target="_top" alt="">
 <area shape="poly" coords="5,4,61,4,61,16,5,16,5,4" href="/hotlotto/hl_main.asp" target="_top" alt="">
 </map>
@@ -307,8 +38,8 @@ var disabledStatus = obj.disabled;
 				
             	<td height="75" align="center" valign="middle" bgcolor="#003399">
 			   
-			   		<font color="#FFFFFF" size="+3" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;$ 10 Million</strong></font><br>
-					<font color="#FFFFFF" size="-1" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;&nbsp;&nbsp;$ 5.5 Million Cash Value</strong></font>
+			   		<font color="#FFFFFF" size="+3" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;$ 12 Million</strong></font><br>
+					<font color="#FFFFFF" size="-1" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;&nbsp;&nbsp;$ 6.6 Million Cash Value</strong></font>
 				
 				</td>
           		</tr>
@@ -331,7 +62,7 @@ var disabledStatus = obj.disabled;
 var bnum=new Number(Math.floor(99999999 * Math.random())+1); 
 document.write('<SCR'+'IPT LANGUAGE="JavaScript" '); 
 document.write('SRC="http://servedby.advertising.com/site=259800/size=120600/bnum='+bnum+'/optn=1"></SCR'+'IPT>'); 
-</script><script language="JavaScript" src="http://servedby.advertising.com/site=259800/size=120600/bnum=90624030/optn=1"></script> 
+</script><script language="JavaScript" src="http://servedby.advertising.com/site=259800/size=120600/bnum=13548775/optn=1"></script> 
 <!-- ---------- Copyright 2000, Advertising.com ---------- -->
 
 </td>
@@ -358,7 +89,7 @@ var marqueebgcolor="#6699CC"
 //Specify the marquee's content (don't delete <nobr> tag)
 //Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
 //var marqueecontent='<nobr>Thank you for visiting Powerball.com  </nobr>'
-var marqueecontent='<nobr>There were three jackpot winners (one in Arizona, one in Nebraska and one in Pennsylvania) </nobr>'
+var marqueecontent='<nobr>There were no jackpot winners for Saturday\'s drawing... The next drawing will be Wednesday, April 6th, 2005</nobr>'
 
 
 ////NO NEED TO EDIT BELOW THIS LINE////////////
@@ -422,7 +153,7 @@ write('</ilayer>')
 document.write('</td></table>')
 }
 }
-</script><span id="temp" style="visibility:hidden;position:absolute;top:0;left:0"><nobr>There were three jackpot winners (one in Arizona, one in Nebraska and one in Pennsylvania) </nobr></span><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><div style="position:relative;width:600px;height:20px;overflow:hidden"><div style="position:absolute;width:600px;height:20px;background-color:#6699CC" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed"><div id="iemarquee" style="position: absolute; left: 581px; top: 0px;"><nobr>There were three jackpot winners (one in Arizona, one in Nebraska and one in Pennsylvania) </nobr></div></div></div></td></tr></tbody></table></td>
+</script><span id="temp" style="visibility:hidden;position:absolute;top:0;left:0"><nobr>There were no jackpot winners for Saturday's drawing... The next drawing will be Wednesday, April 6th, 2005</nobr></span><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><div style="position:relative;width:600px;height:20px;overflow:hidden"><div style="position:absolute;width:600px;height:20px;background-color:#6699CC" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed"><div id="iemarquee" style="position: absolute; left: 578px; top: 0px;"><nobr>There were no jackpot winners for Saturday's drawing... The next drawing will be Wednesday, April 6th, 2005</nobr></div></div></div></td></tr></tbody></table></td>
   </tr>
   <tr>
     <td width="160" height="510" rowspan="3" align="center" valign="top">
