@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollstar.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205145800id_/http%3A//www.pollstar.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollstar.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211214159id_/http%3A//pollstar.com/policy.htm) for the most accurate reproduction.*
 
 # POLLSTAR - The Concert Hotwire: [Privacy Policy]
 
