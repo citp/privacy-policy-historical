@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208210920id_/http%3A//www.ucertify.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413054956id_/http%3A//ucertify.com/privacy.htm) for the most accurate reproduction.*
 
 # Security Statement
 
-| **Information For**  
+| **Questions? Call...**  
 ---  
+  
+**1 (408) 850 4916  
+**8:00 AM to 5:00 PM Monday-Friday PST  
+  
+**Information For**  
 **Save Big!**  
 **Savings in Email!**  
 **Fact Sheet**  
@@ -39,9 +44,9 @@ Any material changes in the way uCertify uses personal information will be descr
    
 **You might find these useful:**  
   
-[Refund Policy](https://web.archive.org/web/20021208210920id_/http%3A//www.ucertify.com/refund.htm)  
-[Legal Policy](https://web.archive.org/web/20021208210920id_/http%3A//www.ucertify.com/legal.htm)  
-[License](https://web.archive.org/web/20021208210920id_/http%3A//www.ucertify.com/license.htm) **  
+[Refund Policy](https://web.archive.org/web/20030413054956id_/http%3A//ucertify.com/refund.htm)  
+[Legal Policy](https://web.archive.org/web/20030413054956id_/http%3A//ucertify.com/legal.htm)  
+[License](https://web.archive.org/web/20030413054956id_/http%3A//ucertify.com/license.htm) **  
 **  
    
  
