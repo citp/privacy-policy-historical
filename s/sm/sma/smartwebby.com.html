@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartwebby.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604164032id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartwebby.com privacy policy that was archived on 2001-08-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010803085838id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/template.dwt" --><head>
 <!-- #BeginEditable "doctitle" --> 
@@ -10,24 +10,20 @@
 <meta content="Smart Webby privacy policy" name="Keywords">
 <!-- #EndEditable -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<style type="text/css">
-<!--
---> </style> 
 <link rel="stylesheet" href="/styles.css">
 <link rel="stylesheet" href="/promotionstyles.css"></head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" link="#003399" vlink="#003399" alink="#003399">
-<!-- #BeginEditable "header" --><style>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" link="#003399" vlink="#003399" alink="#003399"><style>
 #Services {
-	LEFT: 111px; POSITION: absolute; TOP: 252px; VISIBILITY: hidden; Z-INDEX: 1
+	POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 1
 }
 #Products {
-	LEFT: 196px; POSITION: absolute; TOP: 252px; VISIBILITY: hidden; Z-INDEX: 1
+	POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 1
 }
 #Resources {
-	LEFT: 280px; POSITION: absolute; TOP: 252px; VISIBILITY: hidden; Z-INDEX: 1
+	POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 1
 }
 #Rates {
-	LEFT: 196px; POSITION: absolute; TOP: 252px; VISIBILITY: hidden; Z-INDEX: 1
+	POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 1
 }
 .menus {
 	COLOR: #990000; FONT-FAMILY: arial, helvetica, 'sans serif'; FONT-SIZE: 8pt; TEXT-DECORATION: none
@@ -36,8 +32,15 @@
 	COLOR: #FFD784; FONT-FAMILY: arial, helvetica, 'sans serif'; FONT-SIZE: 8pt; TEXT-DECORATION: none
 }
 </style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="247"><img src="/images/smartwebby_top.gif" width="247" height="42" alt="smart web solutions"></td>
+    <td valign="bottom" background="/images/top_fill.gif" width="90%"><img src="/images/tabs.gif" width="503" height="22" usemap="#tabs" border="0" align="bottom" name="iTabs"></td>
+  </tr>
+</tbody></table>
 <script language="javascript">
 <!--
+
 window.onerror = null;
  var bName = navigator.appName;
  var bVer = parseInt(navigator.appVersion);
@@ -48,7 +51,7 @@ window.onerror = null;
  var menuActive = 0
  var menuOn = 0
  var onLayer
- var timeOn = null// LAYER SWITCHING CODE
+ var timeOn = null // LAYER SWITCHING CODE
 if (NS4 || IE4) {
  if (navigator.appName == "Netscape"){
  layerStyleRef="layer.";
@@ -68,6 +71,15 @@ layerHid="hidden";
  
 // SHOW MENU
 function showLayer(layerName){
+var img,x,y,menuTop,SerL,ProL,ResL,RatL
+ img = getImage("iTabs");
+ x = getImagePageLeft(img);
+ y = getImagePageTop(img);
+ menuTop = y + 20 ; // LAYER TOP POSITION
+ ServicesL = x + 55 ; // 'Ser' LAYER LEFT POSITION
+ ProductsL = x + 120 ;  // 'Pro' LAYER LEFT POSITION
+ ResourcesL = x + 187 ; // 'Res' LAYER LEFT POSITION
+ RatesL = x + 260 ;  // 'Rat' LAYER LEFT POSITION
 if (NS4 || IE4) {
  if (timeOn != null) {
  clearTimeout(timeOn)
@@ -75,6 +87,8 @@ if (NS4 || IE4) {
  }
  if (NS4 || IE4) {
  eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="'+layerVis+'"');
+ eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.top="'+menuTop+'"');
+ eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.left="'+eval(layerName+'L')+'"');
  } 
  onLayer = layerName
  }
@@ -104,115 +118,203 @@ function menuOut(itemName) {
 
  }// SET BACKGROUND COLOR 
 function setBgColor(layer, color) {
-  if (NS4)
-    eval('document.all.'+layer+'.bgColor="'+color+'"');
-  if (IE4)
+//for (var n=0; n<body.document.layers.length-1; n++) {
+//				var l = body.document.layers[n];
+	//			l.Menu = container.menus[i];
+		//		l.menuHiliteBgColor = proto.menuHiliteBgColor;
+			//	l.document.bgColor = proto.menuItemBgColor;
+			//  l.saveColor = proto.menuItemBgColor;
+//	a = window.ActiveMenuItem;
+//	if (document.layers) {
+//		if (a) {
+//			a.document.bgColor = a.saveColor;
+  if (NS4){
+    eval('window.document.layers["'+layer+'"].document.bgColor="'+color+'"');
+	eval('window.document.layers["'+layer+'"].saveColor="'+color+'"');
+  }
+  if (IE4){
     eval('document.all.'+layer+'.style.backgroundColor="'+color+'"');
+  }
 }
+
+function getImage(name) {
+  if (NS4) {
+    return findImage(name, document);
+  }
+  if (IE4)
+    return eval('document.all.' + name);
+  return null;
+}
+
+function findImage(name, doc) {
+  var i, img;
+  for (i = 0; i < doc.images.length; i++)
+    if (doc.images[i].name == name)
+      return doc.images[i];
+  for (i = 0; i < doc.layers.length; i++)
+    if ((img = findImage(name, doc.layers[i].document)) != null) {
+      img.container = doc.layers[i];
+      return img;
+    }
+  return null;
+}
+
+function getImagePageLeft(img) {
+  var x, obj;
+  if (NS4) {
+    if (img.container != null)
+      return img.container.pageX + img.x;
+    else
+      return img.x;
+  }
+  if (IE4) {
+    x = 0;
+    obj = img;
+    while (obj.offsetParent != null) {
+      x += obj.offsetLeft;
+      obj = obj.offsetParent;
+    }
+    x += obj.offsetLeft;
+    return x;
+  }
+  return -1;
+}
+
+function getImagePageTop(img) {
+  var y, obj;
+  if (NS4) {
+    if (img.container != null)
+      return img.container.pageY + img.y;
+    else
+      return img.y;
+  }
+  if (IE4) {
+    y = 0;
+    obj = img;
+    while (obj.offsetParent != null) {
+      y += obj.offsetTop;
+      obj = obj.offsetParent;
+    }
+    y += obj.offsetTop;
+    return y;
+  }
+  return -1;
+}
+
 // -->
 </script>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td width="247" bgcolor="#990000"><img src="/images/smartwebby_top.gif" width="247" height="42" alt="smart web solutions"></td>
-    <td valign="bottom" background="/images/top_fill.gif" width="80%" bgcolor="#990000"><img src="/images/tabs.gif" width="363" height="22" border="0" usemap="#tabs" alt="interactive web products"></td>
-    <td background="/images/top_fill.gif" width="30" bgcolor="#990000"><img src="/images/30pixels.gif" width="30" height="5" alt="Smart Web Solutions"></td>
-    <td background="/images/top_fill.gif" width="114" bgcolor="#990000"><img src="/images/114pixels.gif" width="114" height="1" alt="web design and development"></td>
-  </tr>
-  <tr> 
-    <td width="247" height="22"><img src="/images/smartwebby_btm.gif" width="247" height="25" alt="web design guide"></td>
-    <td width="90%" height="22">&nbsp;</td>
-    <td width="30" background="/images/line_vertical_fill.gif" height="22">&nbsp;</td>
-    <td width="114" height="22" valign="bottom"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%" bgcolor="#FFFAF0">
-        <tbody><tr> 
-          <td height="21"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" border="0" alt="web site development questionnaire"><a href="/web_start.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Smart 
-            Start</a> </td>
-        </tr>
-        <tr> 
-          <td height="1" bgcolor="#990000"><img src="/images/114pixels.gif" width="116" height="1" alt="news"></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<map name="tabs">
-  <area shape="rect" coords="172,0,243,16" alt="web design and development resources" href="/resources.asp" onmouseout="btnTimer()" onmouseover="showLayer('Resources')">
-  <area shape="rect" coords="108,0,172,16" alt="interactive web products" href="/products.asp" onmouseout="btnTimer()" onmouseover="showLayer('Products')">
-  <area shape="rect" coords="243,0,295,17" alt="cost effective web solutions" href="/rates.asp" onmouseout="btnTimer()" onmouseover="showLayer('Rates')">
-  <area shape="rect" coords="46,0,108,16" alt="web site development services" href="/services.asp" onmouseout="btnTimer()" onmouseover="showLayer('Services')">
-  <area shape="rect" coords="296,0,363,17" href="/contactus.asp" target="_blank" alt="contact us">
-  <area shape="rect" coords="-1,0,46,16" href="/default.asp" alt="innovative web site designers and developers. Great Resources!">
-</map> 
-<div id="Services" style="position:absolute; left:298px; top:41px; width:138px; height:52px; z-index:1; visibility:hidden"> 
-  <table border="0" cellpadding="1" cellspacing="1" bgcolor="#FFB928">
-    <tbody><tr class="menu" id="s1" bgcolor="#FFD784"> 
+<map name="tabs"> 
+  <area shape="rect" coords="252,-2,304,17" alt="cost effective web solutions" href="/rates.asp" onmouseout="btnTimer()" onmouseover="showLayer('Rates')">
+  <area shape="rect" coords="181,-4,253,17" alt="web design and development resources" href="/resources.asp" onmouseout="btnTimer()" onmouseover="showLayer('Resources')">
+  <area shape="rect" coords="113,-4,182,17" alt="interactive web products" href="/products.asp" onmouseout="btnTimer()" onmouseover="showLayer('Products')">
+  <area shape="rect" coords="253,0,305,17" alt="cost effective web solutions" href="/rates.asp" onmouseout="btnTimer()" onmouseover="showLayer('Rates')">
+  <area shape="rect" coords="46,-2,114,17" alt="web site development services" href="/services.asp" onmouseout="btnTimer()" onmouseover="showLayer('Services')">
+  <area shape="rect" coords="432,-1,503,17" href="/contactus.asp" target="_blank" alt="contact us">
+  <area shape="rect" coords="1,-1,47,17" href="/default.asp" alt="innovative web site designers and developers. Great Resources!">
+  <area shape="rect" coords="304,-5,369,17" href="/portfolio.asp" alt="view our portfolio" title="view our portfolio">
+  <area shape="rect" coords="368,-3,432,17" href="/about_us.asp" alt="about us" title="about us">
+</map>
+<div id="Services" style="position:absolute; width:138px; height:52px; z-index:1; visibility:hidden"> 
+  <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td bgcolor="#FFB928"> 
+        <table border="0" cellpadding="1" cellspacing="1">
+    <tbody><tr id="s1" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/web_services/design.asp" onmouseout="menuOut('rollimg2'),setBgColor('s1','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('s1','#990000')" target="_top">Web site Design </a></td>
     </tr>
-    <tr class="menu" id="s2" bgcolor="#FFD784"> 
+    <tr id="s2" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/services.asp#aspdev" onmouseout="menuOut('rollimg2'),setBgColor('s2','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('s2','#990000')" target="_top">ASP Programming</a></td>
     </tr>
-    <tr class="menu" id="s3" bgcolor="#FFD784"> 
+    <tr id="s3" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/services.asp#flashdev" onmouseout="menuOut('rollimg2'),setBgColor('s3','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('s3','#990000')" target="_top">Flash Development</a></td>
     </tr>
-    <tr class="menu" id="s4" bgcolor="#FFD784"> 
+    <tr id="s4" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/web_services/promotion.asp" onmouseout="menuOut('rollimg2'),setBgColor('s4','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('s4','#990000')" target="_top">Web site Promotion</a></td>
     </tr>
-    <tr class="menu" id="s5" bgcolor="#FFD784"> 
+    <tr id="s5" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/services.asp#dhtmldev" onmouseout="menuOut('rollimg2'),setBgColor('s5','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('s5','#990000')" target="_top">DHTML &amp; Javascript</a></td>
     </tr>
-    <tr class="menu" id="s6" bgcolor="#FFD784"> 
+    <tr id="s6" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/services.asp#contentdev" onmouseout="menuOut('rollimg2'),setBgColor('s6','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('s6','#990000')" target="_top">Content Development </a></td>
     </tr>
+  </tbody></table></td>
+    </tr>
   </tbody></table>
 </div>
-<div id="Products" style="left: 363px; top: 41px; width: 118px; height: 52px; z-index: 1; visibility: hidden"> 
-  <table border="0" cellpadding="1" cellspacing="1" bgcolor="#FFB928">
-    <tbody><tr class="menu" id="p1" bgcolor="#FFD784"> 
+<div id="Products" style="position:absolute; width: 118px; height: 52px; z-index: 1; visibility: hidden"> 
+  <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td bgcolor="#FFB928"> 
+        <table border="0" cellpadding="1" cellspacing="1">
+    <tbody><tr id="p1" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/web_products/flash_survey/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('p1','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('p1','#990000')" target="_top">Smart Survey </a></td>
     </tr>
-    <tr class="menu" id="p2" bgcolor="#FFD784"> 
+    <tr id="p2" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/web_products/flash_poll/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('p2','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('p2','#990000')" target="_top">Smart Poll </a></td>
     </tr>
-    <tr class="menu" id="p3" bgcolor="#FFD784"> 
+    <tr id="p3" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/web_products/flash_guestbook/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('p3','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('p3','#990000')" target="_top">Smart Guestbook </a></td>
     </tr>
-    <tr class="menu" id="p4" bgcolor="#FFD784"> 
+    <tr id="p4" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/web_products/instant_quote/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('p4','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('p4','#990000')" target="_top">Instant Quote </a></td>
     </tr>
+  </tbody></table></td>
+    </tr>
   </tbody></table>
 </div>
-<div id="Resources" style="left: 430px; top: 41px; width: 145px; height: 52px; z-index: 1; visibility: hidden"> 
-  <table border="0" cellpadding="1" cellspacing="1" bgcolor="#FFB928">
-    <tbody><tr class="menu" id="re1" bgcolor="#FFD784"> 
+<div id="Resources" style="position:absolute; width: 144px; height: 52px; z-index: 1; visibility: hidden"> 
+  <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td bgcolor="#FFB928"> 
+        <table border="0" cellpadding="1" cellspacing="1">
+    <tbody><tr id="re1" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/web_site_design/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('re1','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('re1','#990000')" target="_top">Design Guide </a></td>
     </tr>
-    <tr class="menu" id="re2" bgcolor="#FFD784"> 
+    <tr id="re2" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/website_promotion/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('re2','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('re2','#990000')" target="_top">Promotion Guide </a></td>
     </tr>
-<tr class="menu" id="re3" bgcolor="#FFD784"> 
+    <tr id="re3" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/Flash_and_ASP/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('re3','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('re3','#990000')" target="_top">Flash 'n' ASP Unleashed</a></td>
     </tr>
-    <tr class="menu" id="re4" bgcolor="#FFD784"> 
-      <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/web_products/smart_referrer/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('re4','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('re4','#990000')" target="_top">Free Traffic Analysis Tool </a></td>
+    <tr id="re4" bgcolor="#FFD784"> 
+      <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/DHTML/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('re4','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('re4','#990000')" target="_top">Guide to Simple DHTML</a></td>
+    </tr>
+	<tr id="re5" bgcolor="#FFD784"> 
+      <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/web_products/smart_referrer/default.asp" onmouseout="menuOut('rollimg2'),setBgColor('re5','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('re5','#990000')" target="_top">Free Traffic Analysis Tool </a></td>
+    </tr>
+  </tbody></table></td>
     </tr>
   </tbody></table>
 </div>
-<div id="Rates" style="left: 503px; top: 41px; width: 116px; height: 52px; z-index: 1; visibility: hidden"> 
-  <table border="0" cellpadding="1" cellspacing="1" bgcolor="#FFB928">
-    <tbody><tr class="menu" id="ra1" bgcolor="#FFD784"> 
+<div id="Rates" style="position:absolute; width: 116px; height: 52px; z-index: 1; visibility: hidden"> 
+  <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td bgcolor="#FFB928"> 
+        <table border="0" cellpadding="1" cellspacing="1">
+    <tbody><tr id="ra1" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/rates.asp" onmouseout="menuOut('rollimg2'),setBgColor('ra1','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('ra1','#990000')" target="_top">Hourly Rates </a></td>
     </tr>
-    <tr class="menu" id="ra2" bgcolor="#FFD784"> 
+    <tr id="ra2" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/rates.asp#packages" onmouseout="menuOut('rollimg2'),setBgColor('ra2','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('ra2','#990000')" target="_top">Package Deals </a></td>
     </tr>
-    <tr class="menu" id="ra3" bgcolor="#FFD784"> 
+    <tr id="ra3" bgcolor="#FFD784"> 
       <td><img src="/images/shim.gif" width="5" height="2" border="0"><a class="menus" href="/rates.asp#instant_quote" onmouseout="menuOut('rollimg2'),setBgColor('ra3','#FFD784')" onmouseover="menuOver('rollimg2'),setBgColor('ra3','#990000')" target="_top">Instant Quote </a></td>
+    </tr>
+  </tbody></table></td>
     </tr>
   </tbody></table>
 </div>
 
+<!-- #BeginEditable "header" --><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="247" height="22"><img src="/images/smartwebby_btm.gif" width="247" height="25" alt="web design guide"></td>
+    <td width="90%" height="22">&nbsp;</td>
+    <td width="30" background="/images/line_vertical_fill.gif" height="22"><img src="/images/transparent.gif" width="30" height="8"></td>
+    <td width="114" height="22" bgcolor="#FFFAF0"><img src="/images/114pixels.gif" width="116" height="1" alt="news"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" border="0" alt="web site development questionnaire"><a href="/rates.asp#instant_quote" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Instant 
+      Quote</a></td>
+  </tr>
+</tbody></table>
 <!-- #EndEditable --> 
- 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" background="">
   <tbody><tr> 
     <td width="135" valign="top" bgcolor="#990000"> <img src="/images/135pixels.gif" width="135" height="10" alt="Smart Web Solutions"><table width="90%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#990000">
@@ -247,7 +349,7 @@ function setBgColor(layer, color) {
   </tr>
 </tbody></table>
   
-<form name="frmNewsletter" method="post" action="/privacy_policy.asp&#10;">
+<form name="frmNewsletter" method="post" action="/privacy_policy.asp&#10;" onsubmit="return ValidateNewsLetterForm()">
  <table width="90%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#990000">
           
     <tbody><tr> 
@@ -275,7 +377,7 @@ function setBgColor(layer, color) {
           </tr>
         </tbody></table>
         <div align="center">
-          <input type="image" name="imageField" src="/images/news_done.gif" width="46" height="16" border="0" onclick=" return ValidateNewsLetterForm()" alt="smart webby newsletter">
+          <input type="image" name="imageField" src="/images/news_done.gif" width="46" height="16" border="0" alt="smart webby newsletter">
         </div>
         </td>
           </tr>
@@ -295,7 +397,7 @@ function echeck(str) {
 		   return false
 		}
 
-		if (str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
 		   alert("Invalid E-mail ID")
 		   return false
 		}
@@ -309,7 +411,17 @@ function echeck(str) {
 		    alert("Invalid E-mail ID")
 		    return false
 		 }
-			
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+		
 		 if (str.indexOf(" ")!=-1){
 		    alert("Invalid E-mail ID")
 		    return false
@@ -382,57 +494,59 @@ function ValidateNewsLetterForm(){
     <td width="30" background="/images/line_vertical_fill.gif"><img src="/images/30pixels.gif" width="30" height="5" alt="Smart Web Solutions"></td>
     <td width="114" valign="top" bgcolor="#FFFAF0">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td height="21" class="menuredlink"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Get an instant quote for your requirements now!"><a href="/rates.asp#instant_quote" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Instant 
-      Quote</a></td>
+   <tbody><tr bgcolor="#990000"> 
+    <td height="1"><img src="/images/114pixels.gif" width="116" height="1" alt="Instant Quote"></td>
   </tr>
   <tr> 
-    <td height="1" bgcolor="#990000"><img src="/images/114pixels.gif" width="116" height="1" alt="Top useful links for you"></td>
-  </tr>
-  <tr> 
-    <td height="21"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Useful Tips and Tricks for you"><a href="/tipsntricks.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Tips 
+    <td height="22"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Useful Tips and Tricks for you"><a href="/tipsntricks.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Tips 
       'n' Tricks</a></td>
   </tr>
-  <tr> 
-    <td height="1" bgcolor="#990000"><img src="/images/114pixels.gif" width="116" height="1" alt="Useful Tips and Tricks for you"></td>
+  <tr bgcolor="#990000"> 
+    <td height="1"><img src="/images/114pixels.gif" width="116" height="1" alt="Useful Tips and Tricks for you"></td>
   </tr>
   <tr> 
-    <td height="21"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="web design guide"><a href="/web_site_design/default.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Design 
+    <td height="22"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="web design guide"><a href="/web_site_design/default.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Design 
       Guide </a></td>
-  </tr>
-  <tr> 
-    <td height="1" bgcolor="#990000"><img src="/images/114pixels.gif" width="116" height="1" alt="Get an instant quote for your requirements now!"></td>
-  </tr>
-  <tr> 
-    <td height="21"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="web site promotion guide"><a href="/website_promotion/default.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Promotion 
-      Guide </a></td>
-  </tr>
-  <tr> 
-    <td height="1" bgcolor="#990000"><img src="/images/114pixels.gif" width="116" height="1" alt="freebie-s"></td>
-  </tr>
-  <tr> 
-    <td height="21"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Flash and ASP"><a href="/flashnasp.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Flash 
-      'n' ASP</a></td>
-  </tr>
-  <tr> 
-    <td height="1" bgcolor="#990000"><img src="/images/114pixels.gif" width="116" height="1" alt="How to get started on the web"></td>
-  </tr>
-  <tr> 
-    <td height="21"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Top useful links for you"><a href="/hit_list.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Hit 
-      List</a></td>
   </tr>
   <tr bgcolor="#990000"> 
-    <td height="1"><img src="/images/114pixels.gif" width="116" height="1" alt="How to get started on the web"></td>
+    <td height="1"><img src="/images/114pixels.gif" width="116" height="1" alt="web design guide"></td>
   </tr>
   <tr> 
-    <td height="21"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Link To Us"><a href="/link_to_us.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Link 
-      To Us</a></td>
+    <td height="22"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="web site promotion guide"><a href="/website_promotion/default.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Promotion 
+      Guide </a></td>
+  </tr>
+  <tr bgcolor="#990000"> 
+    <td height="1"><img src="/images/114pixels.gif" width="116" height="1" alt="web site promotion guide"></td>
+  </tr>
+  <tr> 
+    <td height="22"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Flash and ASP"><a href="/flashnasp.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Flash 
+      'n' ASP</a></td>
   </tr>
   <tr bgcolor="#990000"> 
     <td height="1"><img src="/images/114pixels.gif" width="116" height="1" alt="Flash and ASP"></td>
+  </tr><tr> 
+    <td height="22"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Simple Dynamic HTML Guide"><a href="/DHTML/default.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">DHTML 
+      Guide</a></td>
+  </tr>
+  <tr bgcolor="#990000"> 
+    <td height="1"><img src="/images/114pixels.gif" width="116" height="1" alt="Simple Dynamic HTML Guide"></td>
   </tr>
   <tr> 
-    <td height="21"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Review our site"><a href="/reviews.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Review 
+    <td height="22"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Top useful links for you"><a href="/hit_list.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Hit 
+      List</a></td>
+  </tr>
+  <tr bgcolor="#990000"> 
+    <td height="1"><img src="/images/114pixels.gif" width="116" height="1" alt="Top useful links for you"></td>
+  </tr>
+  <tr> 
+    <td height="22"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Link To Us"><a href="/link_to_us.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Link 
+      To Us</a></td>
+  </tr>
+  <tr bgcolor="#990000"> 
+    <td height="1"><img src="/images/114pixels.gif" width="116" height="1" alt="Link To Us"></td>
+  </tr>
+  <tr> 
+    <td height="22"><img src="/images/icons/squares_lft_menu.gif" width="18" height="10" alt="Review our site"><a href="/reviews.asp" target="_parent" class="off" onmouseover="this.className='menuredlink';" onmouseout="this.className='off';">Review 
       Our Site</a></td>
   </tr>
   <tr bgcolor="#990000"> 
@@ -522,11 +636,14 @@ function ValidateNewsLetterForm(){
       </tbody></table>
     </td>
   </tr>
-</tbody></table><br>
+</tbody></table>
+<br>
+<p>&nbsp;</p>
+<br>
     </td>
   </tr>
 </tbody></table>
-
+<!-- #BeginEditable "footer" -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="51">
   <tbody><tr> 
     <td width="247"><img src="/images/btm_curve.gif" width="247" height="51" alt="Smart Web Solutions"></td>
@@ -586,7 +703,7 @@ function ValidateNewsLetterForm(){
         Policy</font></a>.</font> </div>
       </td>
   </tr>
-</tbody></table>
+</tbody></table><!-- #EndEditable --> 
 
 <!-- #EndTemplate -->
 </body></html>
