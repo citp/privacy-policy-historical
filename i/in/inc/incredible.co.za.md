@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incredible.co.za privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217061736id_/http%3A//www.incredible.co.za/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredible.co.za privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405180323id_/http%3A//www.incredible.co.za/privacy_statement.asp) for the most accurate reproduction.*
 
 # Incredible Connection : Privacy Statement
 
