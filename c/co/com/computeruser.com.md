@@ -1,27 +1,33 @@
-> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622140240id_/http%3A//computeruser.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207122630id_/http%3A//www.computeruser.com/about/privacy.html) for the most accurate reproduction.*
 
 # ComputerUser.com Privacy Statement
 
 |  |    
 ---|---  
   |   
-  |    
-  
   
 * * *
 
   
   
-  |  [Click here](https://web.archive.org/clickthru/click.php?ct=20) to view our  
-Computer Training Directory  
-  |  [Click here](http://www.cpu-net.com/) For Your Local[ Internet Service Provider ](http://www.cpu-net.com/)  
-  |  [Click here](https://web.archive.org/clickthru/click.php?ct=12)  
-for regional  
-magazine advertising information  
-| C U R R E N T   P O L L  
----|---  
-  |   
+  |  Search these directories for your best solution:  
+[ComputerTraining.](https://web.archive.org/clickthru/click.php?ct=20/)  
+[Internet Service Providers.](https://web.archive.org/clickthru/click.php?ct=25/)   
+[Web Hosting Companies.](https://web.archive.org/clickthru/click.php?ct=28/)   
+[Internet Broadband Providers.](https://web.archive.org/clickthru/click.php?ct=29/)  
+  |  [Click here for self-paced ](http://www.careeracademy.com/)[Computer Training programs](http://www.careeracademy.com/)  
+  |  Click here for your local [Internet Service Provider](http://www.cpu-net.com/)  
+  |  [Click for A+ Certification, Cisco Training, MCSE Certification, and MOUS exam info](http://www.trainingplanet.com/)  
+  |  [Click here for Online Computer and Technology Degrees](http://www.worldwidelearn.com/)  
+  |  [Click here for our Print Advertiser Directory](https://web.archive.org/clickthru/click.php?ct=19)  
+  |  [Computer Training & Certification A+, MCSE, Microsoft Office](http://www.netwind.com/)  
+  |  [Click here for internet access](http://www.monster-isp.com/)  
+  |  [ Security training & ethical hacking courses. Hands-on instruction](http://www.infosecinstitute.com/courses/ethical_hacking_training.html)  
+  |  [Click here for  
+magazine advertising information](https://web.archive.org/clickthru/click.php?ct=12)  
   
+Please reload this page to view the headlines
+
 |  |  ComputerUser.com  
 Privacy Policy Statement
 
@@ -116,4 +122,4 @@ Please keep in mind that whenever you voluntarily disclose personal information 
   * [The EPIC Cookies Page](http://www.epic.org/privacy/internet/cookies/) \- definitions, links, and news. 
   * [How to Protect Your Privacy](http://www.ftc.gov/privacy/index.html) \- information from the Federal Trade Commission. 
 
-
+| 
