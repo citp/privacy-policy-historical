@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207224923id_/http%3A//www.scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207123902id_/http%3A//scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
 
 # Scholastic Canada: Privacy Policy
 
@@ -26,7 +26,7 @@ For those activities that require personally identifiable information, such as c
 
 Parents can request to review, amend, update or have deleted their child's personally identifiable information from Scholastic Canada Ltd.'s records, and refuse to permit further use of a child's information by printing, completing and returning 
 
-[_this letter_](https://web.archive.org/web/20021207224923id_/http%3A//www.scholastic.ca/privacy-terms/letter.html) by fax or regular mail to the specified address. 
+[_this letter_](https://web.archive.org/web/20030207123902id_/http%3A//scholastic.ca/privacy-terms/letter.html) by fax or regular mail to the specified address. 
 
 **FOR TEACHERS**
 
