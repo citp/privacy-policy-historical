@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the streetauthority.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022700id_/http%3A//www.streetauthority.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetauthority.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207171902id_/http%3A//www.streetauthority.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # StreetAuthority.com -- Privacy Policy
-
-|  Login  
----  
-Username:  
-Password:  
-Remember Me  
-[Login securely](https://www.streetauthority.com/login.asp)  
-  
-
 
 **_StreetAuthority.com Privacy Policy_**  
 Last revised: February 2002
@@ -18,13 +9,13 @@ This Privacy Statement describes our privacy policy and explains what we do with
 
 Your privacy is very important to us. StreetAuthority, LLC is committed to protecting and respecting your privacy. Accordingly, we have adopted the privacy policy, based on the principles of notice, choice, access and security in the collection and use of all information regarding our subscribers and their activities at the StreetAuthority.com's web site. You can be assured of the following:
 
-· We will not send you anything unless you opted-in to receive it. If you are receiving emails from us and you would like them stopped, login to our [User Control Panel](https://web.archive.org/web/20031205022700id_/http%3A//www.streetauthority.com/controlpanel.asp) to manage your current subscriptions.
+· We will not send you anything unless you opted-in to receive it. If you are receiving emails from us and you would like them stopped, login to our [User Control Panel](https://web.archive.org/web/20041207171902id_/http%3A//www.streetauthority.com/controlpanel.asp) to manage your current subscriptions.
 
 **What information does StreetAuthority.com gather?  
-** StreetAuthority.com collects a limited amount of information about our newsletter subscribers to enable StreetAuthority to fulfill subscriptions. StreetAuthority may obtain the following information from its Registered Users and Subscribers:
+**StreetAuthority.com collects a limited amount of information about our newsletter subscribers to enable StreetAuthority to fulfill subscriptions. StreetAuthority may obtain the following information from its Registered Users and Subscribers:
 
 1\. Registration and Subscription data,  
-2\. Site usage data 
+2\. Site usage data
 
 **1\. Registration or Subscription data.** The only individually identifiable information that StreetAuthority seeks about you is that which you are asked to provide when you register (for site access or you opt-in to our FREE newsletter) or subscribe to any "paid" subscription product the StreetAuthority may publish. This information may includes your name, mailing address, e-mail address, and, in the case of a purchase, billing information. StreetAuthority uses registration and subscription information to maintain records about your use of our services, for billing purposes, and for us to occasionally send you information on products and services that we offer. THIS INFORMATION IS NOT SHARED WITH ANY THIRD-PARTY FIRMS, unless specifically stated or in other special situations described below.
 
@@ -49,13 +40,11 @@ StreetAuthority.com works to ensure the integrity and security of our network an
 In the event of a merger or acquisition, the sales of the company or any change of ownership, all of StreetAuthority.com's customer information (including email addresses) may be transferred to a separate entity or entities. All StreetAuthority.com subscribers and registered users will be notified of any change in ownership, merger or acquisition of StreetAuthority.com's assets by a third party. Subscribers and users may choose to access and revise any of their registration and/or subscription information at that time.
 
 **Where to Direct Questions About StreetAuthority.com's Privacy Policy**  
-If you have any questions about this Privacy Policy or the practices described herein, you may contact: Customer Service StreetAuthority.com PO Box 83217 Gaithersburg, MD 20883-3217 
+If you have any questions about this Privacy Policy or the practices described herein, you may contact: Customer Service StreetAuthority.com PO Box 83217 Gaithersburg, MD 20883-3217
 
 **Revisions to This Policy**  
 StreetAuthority.com reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Internet Service Agreement.
 
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY AND APPLICABLE USAGE AGREEMENT. 
+USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY AND APPLICABLE USAGE AGREEMENT.
 
-StreetAuthority.com reserves the right to change this policy at any time by posting a revised privacy policy on this web page. You can send e-mail to us with any further questions at [Support@StreetAuthority.com](mailto:Support@StreetAuthority.com). THANK YOU! 
-
-| 
+StreetAuthority.com reserves the right to change this policy at any time by posting a revised privacy policy on this web page. You can send e-mail to us with any further questions by visiting our [Contact Us](https://web.archive.org/web/20041207171902id_/http%3A//www.streetauthority.com/contactus.asp) page. THANK YOU!
