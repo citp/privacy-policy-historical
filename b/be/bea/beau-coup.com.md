@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624190755id_/http%3A//beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030606id_/http%3A//www.beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Wedding Favors | Bridal Shower Favors | Wedding Decorations
 
@@ -16,7 +16,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 **how we collect information**
 
-This site uses a secure server (SSL) certified by GeoTrust to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
+This site uses a secure server (SSL) certified by Thawte to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
 
 **your agreement**
 
@@ -24,4 +24,4 @@ By using our web site or purchasing a product from us, you agree to the collecti
 
 **commitment to customer service**
 
-Beaucoup is committed to quality customer experience. We are constantly reviewing your feedback to improve and enhance your shopping experience. You can tell us what you think by sending us an e-mail or contacting our customer care department at 1-408-739-3900, 24 hours a day, seven days a week.
+Beaucoup is committed to quality customer experience. We are constantly reviewing your feedback to improve and enhance your shopping experience. You can tell us what you think by sending us an e-mail or contacting our customer care department at 1-877-988-2328.
