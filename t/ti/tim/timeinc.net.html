@@ -1,201 +1,56 @@
-<!--The following is the downloaded HTML source of the timeinc.net privacy policy that was archived on 2001-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010606033033id_/http%3A//www.time.com/time/documents/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timeinc.net privacy policy that was archived on 2001-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011216064344id_/http%3A//www.time.com/time/documents/privacy) for the most accurate reproduction.-->
 
 <html><head>
-<!-- Vignette StoryServer 5.0 Wed Feb 28 12:40:23 2001 -->
+<!-- Vignette StoryServer 5.0 Sat Sep 29 03:09:52 2001 -->
 
-<!-- the following is the main script, to be placed in the includes.  If it is divided into three segments as listed below, it will be more flexible in the future, but it is not necessary-->
-<!-- section 1: initialize -->
-<script language="JavaScript1.2">
-<!--
-if(!document.cookie) { 
-	document.cookie = "PopUpCalls=0;path=/;";
-}
-if ((document.layers || document.all) && document.cookie) { 
-	var P_showPop=true;
-} else {
-	var P_showPop=false; 
-}
-
-if (P_showPop) {
-	P_Rules = new Array();
-// section 2: magazine rules
-	P_Mag="Time";
-	P_Rules[0] = "~time.com/"; // rules array contains definitions of internal links (links that will not get a popup).  "~" means contains and "!" means does not contain.  Rules can be combined with logical "and" using "&&": ~time.com/&&!/digital/ is one way of combining these tools.
-	P_Rules[1] = "~pathfinder.com/time/"; // each rule in the rule array is a logical "or"
-	P_Rules[2] = "~pathfinder.com:8080/time/";
-	P_Rules[3] = "~magsubs/cc/sub";
-	P_Rules[4] = "~secure.customersvc.com";
-	P_Rules[5] = "~doubleclick.net";
-    P_Rules[6] = "~pathfinder.com/cgi-bin/time/";
-  		
-	P_Hours = 24; // number of hours till next popup
-	P_Source = "http://www.pathfinder.com/time/interstitials/inter.html"; // URL of popup
-	P_Height = 240; // height of popup window
-	P_Width = 350; // width of popup window
-	P_cookieDomain = false; // if you want to specify a domain for this cookie, add it here, e.g. ".pathfinder.com";
-// section 3: program. minimal comments follow
-	P_today = new Date();
-	P_todayNum = P_today.valueOf();
-	var P_LeftChip="";
-	var P_RightChip="";
-	var P_Chip="";
-	var P_DocCookie = unescape(document.cookie);
-	if(P_DocCookie.length>0) {
-		P_begin=P_DocCookie.indexOf("PopUpCalls=");
-		if(P_begin != -1) {
-			P_begin += 11; // 11 is length of string "PopUpCalls="
-			P_end=P_DocCookie.indexOf(";", P_begin);
-			if (P_end==-1) P_end=P_DocCookie.length;
-			P_Cookie=P_DocCookie.substring(P_begin, P_end);
-			P_ChipStart=P_Cookie.indexOf(P_Mag+"=");
-			if(P_ChipStart>-1) {
-				P_LeftChip=P_Cookie.substring(0,P_ChipStart);
-				P_ChipStart+=1+P_Mag.length
-				P_ChipEnd=P_Cookie.indexOf("|",P_ChipStart);
-				if(P_ChipEnd==-1) P_ChipEnd = P_Cookie.length;
-				P_Chip=P_Cookie.substring(P_ChipStart,P_ChipEnd);
-				P_RightChip=P_Cookie.substring(P_ChipEnd);
-				if(P_todayNum < parseInt(P_Chip)) P_showPop = false;
-			} else {
-				P_LeftChip=P_Cookie;
-				P_RightChip="";
-			}
-		}
-	}
-}
-function P_checkClick(ev) { // onClick function
-	if(P_showPop) {
-		P_Link="";
-		if(document.layers) {
-                        P_Test=ev.target.toString().toLowerCase();
-
-                        if(P_Test.substring(0,6)=="<input") {
-                                P_showPop = false;
-                        } else {
-                                P_Link=P_Test;
-                        }
-                } else if (document.all) {
-						P_myElement = window.event.srcElement;
-						while(P_myElement.tagName.toLowerCase()!="a" &&
-						  P_myElement.tagName.toLowerCase()!="body" &&
-						  P_myElement.tagName.toLowerCase()!="input" &&
-						  P_myElement.tagName.toLowerCase()!="area" ) {
-							P_myElement = P_myElement.parentElement;
-	  					}
-                        P_tag = P_myElement.tagName.toLowerCase();
-                        if (P_tag=="a" || P_tag=="area") {
-                                P_Link=P_myElement.href;
-                        } else if(P_tag=="input") {
-                                P_showPop=false;
-                        }
-
-                }
-		P_Link=P_Link.toLowerCase();
-
-        var P_ToReplace = /\x2F/g;
-        P_URL = self.location.pathname;
-        P_URL = P_URL.replace(P_ToReplace, "\[\/\]"); 
-        var P_ToMatch = new RegExp(P_URL + "[/]{0,1}(index.|default.){0,1}[^.]*#", "i");
-		var P_RV = P_Link.search(P_ToMatch);
-
-		if(P_Link!="" && (P_RV==-1) && (P_Link.substring(0,4)=="http")) {
-			if(P_isInternal(P_Link)) {
-				P_showPop=false;
-			}
-		}
-		if(document.layers) {
-			routeEvent(ev);
-			return true;
-		}
-	}
-}
-function P_isInternal(P_URL) { // function to evaluate whether a URL is internal (should not get a popup)
-	for (i=0;i < P_Rules.length;i++) {
-		P_Parts = P_Rules[i].split("&&");
-		P_Result = true;
-		for (j=0;j < P_Parts.length;j++) {
-			P_Search = P_URL.indexOf(P_Parts[j].substring(1));
-			P_Call = P_Parts[j].charAt(0);
-			if ((P_Search==-1 && P_Call=="~") || (P_Search>-1 && P_Call=="!")) {
-				P_Result = false;
-				break;
-			}
-		}
-		if(P_Result) return true; 
-	}
-	return false; 
-}
-function P_closeDown() { // onunload function
-	if(P_showPop) { 
-		popupWin = window.open(P_Source, "POPUP", "height=" + P_Height + ",width=" + P_Width + ","); 
-		P_Chip = P_todayNum + (P_Hours * 60 * 60 * 1000);
-		P_today.setTime(P_today.getTime() + (31 * 24 * 60 * 60 * 1000));
-		document.cookie = "PopUpCalls=" + escape(P_LeftChip + P_Mag + "=" + P_Chip + (P_RightChip.charAt(0)=="|"?"":"|") + P_RightChip) + ";path=/; expires=" + P_today.toGMTString()+(P_cookieDomain?";domain="+P_cookieDomain:"")+";";  //
-	}
-} 
-
-function P_popupoff() { // added by JQ 3/27/00 to disable popup
-    P_showPop = false;
-}
-
-function P_NSform (ev) { // Netscape 4.x form submit capture
- P_showPop = false;
-    routeEvent(ev);
-    return true;
-}
- 
-if (P_showPop) { // setting up click capture
-  if(document.layers) { 
-    window.captureEvents(Event.CLICK | Event.SUBMIT);
-    window.onClick=P_checkClick;
-    window.onSubmit=P_NSform;
-  }
-  if(document.all) {
-    document.onclick=P_checkClick;
-  }
- }
-
-// code (vanity plate): Gary Poster, with essential assists from Galyn Norwood, Phiroon Phihakendr, Jose Quijada, Pavandeep Kalra. Copyright 2000 Time Inc.
-// note: we tried to eliminate the need for all body tag event handlers but onunload proved to be necessary because otherwise Netscape produces security errors when the cookie is set (even when the unload event is captured).
-// -->
-P_isLoaded=true;
+<script language="JavaScript1.3" type="text/javascript" src="http://www.timeinc.net/subs/popup2/time/popup2.js">
 </script>
-<!-- Vignette StoryServer 5.0 Sun Feb 18 15:21:46 2001 -->
+<!-- Vignette StoryServer 5.0 Sat Sep 29 03:09:52 2001 -->
 <!-- The following seven lines are the error catching routine and should only be necessary on flat pages.  When used, the body tag
  should address P_checkUnload rather than P_closeDown -->
 <script language="JavaScript">
-
 <!--
-var P_isLoaded = false;
+var P_isLoaded=false;
 function P_checkUnload() {
-        if(P_isLoaded && (document.layers||document.all))P_closeDown();
+  if(P_isLoaded)P_closeDown();
 }
+function P_checkLoad() {
+  if(P_isLoaded)P_startUp();
+}
+function P_popupoff() {
+  P_execute=false;
+}
+var toggel=P_popupoff;
 // -->
-</script><title>TIME.com</title>
+</script>
+<title>TIME.com</title>
 <meta name="keywords" content="TIME.com,time.com">
 <meta name="DESCRIPTION" content="TIME.com Homepage">
 <meta name="SRCE" content="TIME.com">
 
 <!--BEGIN STYLESHEET-->
 <style type="text/css">
-<!--
+
 
 	 /*red style for page links */
-	a { color: #990000 }
+	    a { color: #990000 }
 
-	/*red style for rollover page links only in IE*/
-	a:hover { color: #003399 }
+	    /*red style for rollover page links only in IE*/
+	    a:hover { color: #003399 }
 	
-	/*style for Middle Red Photo Captions */
-	.midcap { color: #CCCCCC; font-size: 11px; font-family: Georgia, Times }
+	    a.globalnav:link { font-size: 11px; font-family: Arial, Helvetica; color: #ffffff; text-decoration: none}
+	    a.globalnav:hover { font-size: 11px; font-family: Arial, Helvetica; color: #cccccc; text-decoration: none}
+
+	    /*style for Middle Red Photo Captions */
+	    .midcap { color: #CCCCCC; font-size: 11px; font-family: Georgia, Times }
 
 	
 /*style for paragraph text */
 p { font-family: Georgia, Times }
 
-/*style for lists */
-li { font-family: Georgia, Times }
+/*style for stories */
+.story { font-family: Georgia, Times }
 
 /*style for text in black bar */
 .blackbar { color: #FFFFFF; font-size: 10px; font-family: Arial, Helvetica; }
@@ -209,6 +64,8 @@ li { font-family: Georgia, Times }
 /*style for headline on News Story Page top */
 .headline  { color: #000000; font-weight: bold; font-size: 160%; font-family: Georgia, Times }
 
+.headline_b { color: #000000; font-weight: bold; font-size: 220%; font-family: Georgia, Times }
+
 .dropdown { font-size: 10px; font-family: Arial, Helvetica }
 
 /*style for main story links at top */
@@ -219,6 +76,9 @@ li { font-family: Georgia, Times }
 
 /*style for Photo Credits */
 .photocredit { color: #999999; font-size: 10px; font-family: Arial, Helvetica; text-align: right }
+
+/*style for Pull Quotes */
+.pullquote { color: #000000; font-size: 20px; font-family: Arial, Helvetica; font-weight: bold; font-style: italic }
 
 /*style for middle section related Stories head */
 .sectionheads { color: #333333; font-weight: bold; font-size: 10px; font-family: Verdana, Arial; text-decoration: none }
@@ -235,7 +95,11 @@ li { font-family: Georgia, Times }
 /*style for rightside text in right column */
 .rightsidetext { font-size: 11px; line-height: 12px; font-family: Arial, Helvetica }
 
+/*style for rightside text in right column */
+.boxtext { font-size: 11px; line-height: 9px; font-family: Arial, Helvetica }
 
+/*style for global nav */
+.globalnav { font-size: 11px; font-family: Arial, Helvetica; color: #ffffff; text-decoration: none }
 
 
 
@@ -251,21 +115,20 @@ li { font-family: Georgia, Times }
 /*style for smaller secondary stories at top of page below main */
 .secondarystories { font-size: 75%; font-family: Georgia, Times }
 
+.secondarystories_b { font-size: 100%; font-family: Georgia, Times }
+
 /*style for middle section related story paragraphs */
 .sectionblurbs { font-family: Georgia, Times }
 
+/*style for section and homepage belts */
+.middlesection { font-size: 11px; font-family: Georgia, Times }
 
-
-	
-		
-			
-				  /*style for gadget area text and links for Poll, Digital, Column, Meter */
-					.middlesection { font-size: 11px; font-family: Georgia, Times }
-
-
-
-				   -->
-</style>
+	/*style for search results headlines and links */
+	.searchhead {font-weight: bold; font-size: 100%}
+	.bluelink {color:#336699; font-weight: bold; font-style: italic; text-decoration: none}
+	.redlink {color:#990000; font-weight: bold; font-style: italic; text-decoration: none}
+	.greenlink {color:#006600; font-weight: bold; font-style: italic; text-decoration: none}
+ </style>
 <!--END STYLESHEET-->
 
  <script language="JavaScript">
@@ -284,10 +147,13 @@ function newWindow(name, width, height)
     open(name, 'comments', '');
     
 }
-</script><script language="JavaScript1.1" src="http://ads.web.aol.com/file/adsWrapper.js"></script> </head>
+</script>
+
+
+<script language="JavaScript1.1" src="http://ads.web.aol.com/file/adsWrapper.js"></script> </head>
 
 <body bgcolor="#ffffff" text="#000000" onunload="P_checkUnload()">
-
+ 
 <!--AOL PF TARGET--><div style="position: absolute; height:0px; width:0px; top:0px; left:0px; z-index:1"><img src="/pftarget/setcookie.jpg?0" height="0" width="0"></div><table width="763" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr><td>
 
@@ -319,7 +185,7 @@ document.write(oldhatvalue);
 </td></tr></tbody></table>
 <!--AOL PF TARGET-->
 
-<!-- Vignette StoryServer 5.0 Tue Jun 05 09:50:20 2001 -->
+<!-- Vignette StoryServer 5.0 Sat Sep 29 03:12:26 2001 -->
  <!--Begin AOL Ad Table Top-->
 <table width="763" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
@@ -337,7 +203,8 @@ htmlAdWH('93062858', '468', '60');
 </noscript>
 </td>
 
-<td width="61" height="60" valign="top"><a href="http://www.time-planner.com/planner2001/timecom/index.html"><img src="/time/images/ads/adinfo_0515.gif" width="61" height="60" border="0"></a></td>
+<td width="61" height="60" valign="top"><a href="http://www.time-planner.com/planner/timecom/"><img src="/time/images/ads/adinfo_0515.gif" width="61" height="60" border="0"></a></td>
+
 
 
 <td width="234" height="60" valign="top">
@@ -357,54 +224,60 @@ htmlAdWH('93062859', '234', '60');
 <!--End AOL Ad Table Top--><!--BEGIN MAIN TABLE-->
 <table border="0" cellpadding="0" cellspacing="0" width="763">
 <tbody><tr valign="top">
-<td colspan="3" bgcolor="#990000">
+<td colspan="5" bgcolor="#990000">
 
-  
-	          <table border="0" cellpadding="10" cellspacing="0">
+ <table border="0" cellpadding="0" cellspacing="0" width="763">
 <tbody><tr>
-<td valign="top"><a href="/time"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/topnav/time_logo.gif" width="307" height="50" border="0"></a></td>
+<td width="312"><a href="/time"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/topnav/time_new_logo.gif" width="312" height="60" border="0"></a></td>
 
-<td valign="top">
+<td width="10"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/transparent.gif" width="10" height="5" border="0"></td>
+<td width="150">
+<center>
 
- 
+
 <!--BEGIN SEARCH BOX-->
 <table border="0" cellpadding="0" cellspacing="0">
 <form onsubmit="P_popupoff()" action="/time/searchresults" method="GET"></form>
-<tbody><tr>
-<td colspan="2"><font color="#CCCCCC"><span class="searcharea">SEARCH TIME:</span></font></td>
+<tbody><tr><td colspan="2">
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/transparent.gif" width="190" height="1" border="0"></td>
+</tr><tr><td colspan="2">
+<font color="#CCCCCC"><span class="searcharea">SEARCH THE TIME ARCHIVE:</span></font></td>
 </tr>
 <tr>
-<td><input type="HIDDEN" name="venue" value="time"> 
-<input type="hidden" name="summaries" value="yes"> 
+<td><input type="hidden" name="summaries" value="yes"> 
 <input type="hidden" name="search_type" value="simple"> 
 <span class="input"><input type="Text" name="query" size="15"></span>
-</td>
-<td>
-<input type="Image" name="x2" src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/dingbats/arrow_search.gif" border="0" width="22" height="22"></td>
+</td><td>
+<input type="Image" name="x2" src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/dingbats/arrow_search.gif" border="0" width="22" height="22"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/transparent.gif" width="40" height="10" border="0"></td>
 </tr>
-<tr>
-<td colspan="2"><a href="/time/advanced/search/"><font color="#CCCCCC"><span class="searcharea">ADVANCED SEARCH</span></font></a></td>
-</tr>
+
+<tr><td colspan="2">
+<input type="RADIO" name="venue" value="timemags|magazine" checked="" style="background-color:#980000;"><font color="#CCCCCC"><span class="searcharea">Magazine</span></font>
+<input type="RADIO" name="venue" value="time" style="background-color:#980000;"><font color="#CCCCCC"><span class="searcharea">All of TIME.com</span></font>
+</td></tr>
 
 </tbody></table>
 <!--END SEARCH BOX-->
-
+</center>
 </td>
+<td width="2"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/transparent.gif" width="2" height="5" border="0"></td>
 
- <td valign="top">
+<td width="264">
 				<script language="JavaScript1.1">
 				<!--
 				htmlAdWH('93062865', '234', '60');
 				//-->
 				</script>
 				<noscript>
-				<A HREF="http://ads.web.aol.com/link93062865/aol">
+				<A HREF="http://ads.web.aol.com/link/93062865/aol">
 				<IMG SRC="http://ads.web.aol.com/image/93062865/aol" ALT="Click here to visit our advertiser." WIDTH=234 HEIGHT=60 BORDER=0></A>
 				</noscript>
 		</td>
 
- </tr>
+</tr>
 </tbody></table>
+
+
 
 </td>
 </tr>
@@ -412,24 +285,24 @@ htmlAdWH('93062859', '234', '60');
 <tr valign="top">
 
 <!--BEGIN DATE STAMP-->
-<td bgcolor="#000000" valign="top" colspan="3">
-<!-- Vignette StoryServer 5.0 Fri May 04 15:10:11 2001 -->
+<td bgcolor="#000000" valign="top" colspan="5">
+<!-- Vignette StoryServer 5.0 Wed Nov 21 10:49:10 2001 -->
 <table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="100%" height="18">
 <tbody><tr>
 <td class="blackbar" align="left">
-	&nbsp; <!-- Vignette StoryServer 5.0 Tue Jun 05 18:31:10 2001 -->
-Tuesday, June 5, 2001</td>
+	&nbsp; <!-- Vignette StoryServer 5.0 Sun Dec 16 00:01:05 2001 -->
+Sunday, December 16, 2001</td>
 <td align="right" class="blackbar">
 	Top Searches &nbsp; 
 	
 	
-	<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/dingbats/arrow_right.gif" width="16" height="12" border="0"><a href="/time/magazine/archive/"><span class="blackbar">Covers</span></a>&nbsp;	
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/dingbats/arrow_right.gif" width="16" height="12" border="0"><a href="/time/searchresults?venue=time&amp;summaries=yes&amp;search_type=simple&amp;query=airport+security"><span class="blackbar">Airport Security</span></a>&nbsp;
 
-	<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/dingbats/arrow_right.gif" width="16" height="12" border="0"><a href="http://www.time.com/time/photoessays/yoga/"><span class="blackbar">Yoga</span></a>&nbsp;
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/dingbats/arrow_right.gif" width="16" height="12" border="0"><a href="/time/searchresults?venue=time&amp;summaries=yes&amp;search_type=simple&amp;query=osama+bin+laden"><span class="blackbar">Osama bin Laden</span></a>&nbsp;
+				
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/dingbats/arrow_right.gif" width="16" height="12" border="0"><a href="/time/magazine/archive/"><span class="blackbar">Covers</span></a>&nbsp;	
 	
-			<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/dingbats/arrow_right.gif" width="16" height="12" border="0"><a href="http://www.time.com/time/searchresults?venue=time&amp;summaries=yes&amp;search_type=simple&amp;query=mideast"><span class="blackbar">Mideast</span></a>&nbsp;
-	
-		<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/dingbats/arrow_right.gif" width="16" height="12" border="0"><a href="http://www.time.com/time/survivor2/"><span class="blackbar">Survivor</span></a>
+
 		
 		<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/clear.gif" height="1" width="170">
 		
@@ -444,12 +317,85 @@ Tuesday, June 5, 2001</td>
 <!--BEGIN LEFT HAND GLOBAL NAVIGATION AREA-->
 <td bgcolor="#990000" width="91" valign="top">
 
-	<!-- Vignette StoryServer 5.0 Wed May 30 11:30:58 2001 -->
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="89" height="565">
-	<param name="movie" value="/time/include/globalnav_flash/nav_rev1.swf?x=0">
-	<param name="quality" value="high">
-	<embed src="/time/include/globalnav_flash/nav_rev1.swf?x=0" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="89" height="565"> 
-</object>
+	<!-- NoPfinclude -->
+<!--BEGIN LEFT GLOBAL NAV-->
+<table border="0" cellpadding="0" cellspacing="0" width="91" bgcolor="#990000">
+<tbody><tr>
+<td>&nbsp;&nbsp;&nbsp;<a href="../../../time" class="globalnav"><b>HOME</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+
+<tr>
+<td><a href="../../../time/poy2001/" class="globalnav"><b>&nbsp;&gt; PERSON OF<br>&nbsp;&nbsp;&nbsp;&nbsp; THE YEAR</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr><tr>
+<td><a href="../../../time/nation/" class="globalnav"><b>&nbsp;&gt; NATION</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/world/" class="globalnav"><b>&nbsp;&gt; WORLD</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/business/" class="globalnav"><b>&nbsp;&gt; BUSINESS</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/sampler/" class="globalnav"><b>&nbsp;&gt; ARTS</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/health/" class="globalnav"><b>&nbsp;&gt; HEALTH</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/education/" class="globalnav"><b>&nbsp;&gt; EDUCATION</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/photoessays/" class="globalnav"><b>&nbsp;&gt; PHOTOS</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/magazine/current/" class="globalnav"><b>&nbsp;&gt; MAGAZINE</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="http://time.qpass.com/QRefer?Qurl=http://www.time.com/time/archives/contest/&amp;QRef=0.0.0.1%20/account%2073790274&amp;QAff=T_navbar" class="globalnav"><b>&nbsp;&gt; ARCHIVE</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/columnist/" class="globalnav"><b>&nbsp;&gt; COLUMNISTS</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+
+<tr>
+<td><a href="../../../time/special/" class="globalnav"><b>&nbsp;&gt; SPECIALS</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/faq/" class="globalnav"><b>&nbsp;&gt; HELP DESK</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+
+<tr>
+<td><a href="http://cgi.timeinc.net/cgi-bin/magsubs/cc/subscribe/timeab3?EFFORTKEY=15" class="globalnav"><b>&nbsp;&gt; SUBSCRIBE</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/musicgoesglobal/" class="globalnav"><b>&nbsp;&gt; MUSIC ISSUE</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="../../../time/911/" class="globalnav"><b>&nbsp;&gt; U.S. ON ALERT</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr>
+<tr>
+<td><a href="http://www.lifemag.com/Life/" class="globalnav"><b>&nbsp;&gt; LIFE Magazine</b></a><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/nav_line_990000.gif" width="91" height="5" border="0"></td>
+</tr></tbody></table>
+<!--END LEFT GLOBAL NAV-->
+
 
 </td>
 <!--END LEFT HAND GLOBAL NAVIGATION AREA-->
@@ -464,10 +410,10 @@ Tuesday, June 5, 2001</td>
 
 <td valign="top" width="487">
 
+
 <!-- GOES HERE-->
 
-
-
+ 
 <br><br>
 <table width="450" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td>
@@ -710,127 +656,146 @@ If you have any questions or concerns about the Time Warner online policy for th
 
 <br>
 <!--BEGIN PARTNERS AND COPYRIGHT AREA-->
-<!-- Vignette StoryServer 5.0 Sun Feb 18 15:21:47 2001 -->
+<!-- Vignette StoryServer 5.0 Mon Nov 19 17:15:14 2001 -->
 <table border="0" cellpadding="0" cellspacing="0" width="502" bgcolor="#e8e6e6">
 <tbody><tr>
-<td colspan="2"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/black.gif" width="502" height="1" border="0"></td>
+<td colspan="2"><img src="/time/images/black.gif" width="502" height="1" border="0"></td>
 </tr>
 <tr>
-<td colspan="2"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/clear.gif" width="502" height="10" border="0"></td>
+<td colspan="2"><img src="/time/images/clear.gif" width="502" height="10" border="0"></td>
 </tr>
 <tr>
-<td valign="top"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/clear.gif" width="15" height="50" border="0"></td>
+<td valign="top"><img src="/time/images/clear.gif" width="15" height="50" border="0"></td>
 <td valign="top" width="487" align="center">
+
 <!--BEGIN MILESTONES, OPPORTUNITIES, BOOK SELECTION TABLE -->
-<!-- Vignette StoryServer 5.0 Fri Apr 20 11:02:32 2001 -->
 <table border="0" cellpadding="0" cellspacing="0" width="478">
 <tbody><tr>
-<td width="125" valign="top">
 
-<div class="partnerarea"><font color="#990000"><b>Milestones</b></font><br>
-Time's roundup of defining moments in the lives of the world's newsmakers<br>
-<a href="/time/milestones/"><font color="#003399">GO TO PAGE&nbsp;&gt;&gt;</font></a>
+<!--BEGIN ARCHIVE BOILERPLATE-->
+<td valign="top" width="267">
+
+<div class="partnerarea"><font color="#990000"><b>SEARCH THE ARCHIVE</b></font><br>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/transparent.gif" width="1" height="5" border="0"><br>
+
+<!--BEGIN SEARCH BOX-->
+<table border="0" cellpadding="0" cellspacing="0">
+<form action="/time/searchresults" method="GET"></form>
+<tbody><tr>
+<td>
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/transparent.gif" width="190" height="1" border="0"></td>
+</tr>
+<tr>
+<td>
+<input type="hidden" name="summaries" value="yes"> 
+<input type="hidden" name="search_type" value="simple"> 
+<span class="input"><input type="Text" name="query" size="20"></span>&nbsp;&nbsp;
+<input type="submit" value="Search">
+
+<br><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/transparent.gif" width="1" height="3" border="0"><br>
+
+<input type="RADIO" name="venue" value="timemags|magazine" checked="" style="background-color:e8e6e6;"><font color="#e8e6e6"><span class="searcharea">Magazine</span></font>
+<input type="RADIO" name="venue" value="time" style="background-color:e8e6e6;"><font color="#e8e6e6"><span class="searcharea">All of TIME.com</span></font>
+<br><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/transparent.gif" width="1" height="5" border="0"><br>
+</td>
+</tr>
+
+</tbody></table>
+<!--END SEARCH BOX-->
+
+<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/transparent.gif" width="1" height="4" border="0"><br>
+
+<img src="/time/images/cov_binladen_40.gif" width="40" height="52" border="0">
+<img src="/time/images/clear.gif" width="1" height="1" border="0">
+<img src="/time/images/cov_einstein_40.gif" width="40" height="52" border="0">
+<img src="/time/images/clear.gif" width="1" height="1" border="0">
+<img src="/time/images/cov_earnhardt_40.gif" width="40" height="52" border="0">
+<img src="/time/images/clear.gif" width="1" height="1" border="0">
+<img src="/time/images/cov_roberts_40.gif" width="40" height="52" border="0">
+<img src="/time/images/clear.gif" width="1" height="1" border="0">
+<img src="/time/images/cov_powell_40.gif" width="40" height="52" border="0">
 <br><br>
+
+<b>Search all back-issues of TIME
+since 1985</b> for TIME's unique perspective
+on history, people, and the most important
+events of the day.<br>
+<a href="/time/magazine/archives/"><font color="#003399">GO TO THE ARCHIVE</font></a><br><br>
+
+<a href="/time/magazine/archives/bestsellers"><font color="#003399">See our most-popular articles</font></a>
 </div>
 
 </td>
-<td valign="top" width="1"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/black.gif" width="1" height="125" border="0" hspace="5"></td>
-<td valign="top" width="125">
+<!--END ARCHIVE BOILERPLATE-->
 
-<div class="partnerarea"><font color="#990000"><b>Opportunities</b></font><br>
-<a href="http://affiliate.timeincmags.com/affiliate/time/homepage/index.html"><font color="#003399">Join TIME's Affiliate Program</font></a><br>
-<br>
-<a href="http://www.time.com/time/freeinfo"><font color="#003399">Free Product Info</font></a><br>
-<br>
-<a href="http://www.time-planner.com/planner2001/timecom/index.html"><font color="#003399">Media Kit</font></a><br>
-<br>
-</div>
 
-</td>
-<td valign="top" width="1"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/black.gif" width="1" height="125" border="0" hspace="5"></td>
-<td valign="top" width="155">
+<td valign="top" width="11"><img src="/time/images/black.gif" width="1" height="250" border="0" hspace="5"></td>
+
+
+<td valign="top" width="200">
 
 <div class="partnerarea">
-<font color="#990000"><b>TIME book selections</b></font>
+<font color="#990000"><b>TIME Book Selections</b></font>
 <br>
+<a href="https://cgi.timeinc.net/cgi-bin/magsubs/cc/tihesubs/pearl_harbor07"><img src="/time/images/bottom/pearl_harbor_book_button.gif" width="86" height="40" border="0" align="right"></a>
 <a href="http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=37763144&amp;bfpid=192904920X&amp;bfmtype=book" target="new"><font color="#003399">TIME Year in Review</font></a><br>
 <a href="http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=37763144&amp;bfpid=1929049110&amp;bfmtype=book" target="new"><font color="#003399">TIME Almanac 2001</font></a><br>
 <a href="http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=37763144&amp;bfpid=0821224980&amp;bfmtype=book" target="new"><font color="#003399">Faces of TIME</font></a><br>
 <a href="http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=37763144&amp;bfpid=1883013496&amp;bfmtype=book" target="new"><font color="#003399">TIME 100: Leaders and Revolutionaries</font></a><br>
 <a href="http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=37763144&amp;bfpid=1883013623&amp;bfmtype=book" target="new"><font color="#003399">TIME 100:  Builders and Titans, Scientist and Thinkers</font></a><br>
 </div>
+<br>
+<div class="partnerarea"><font color="#990000"><b>Opportunities</b></font><br>
+<a href="http://affiliate.timeincmags.com/affiliate/time/homepage/index.html"><font color="#003399">Join TIME's Affiliate Program</font></a><br>
+<a href="http://www.mediabrains.com/client/Time/LM1/lm/default.asp?searchby=product"><font color="#003399">Free Product Info</font></a><br>
+<a href="http://www.time-planner.com/planner/timecom/"><font color="#003399">Media Kit</font></a><br>
+</div>
+
+<br>
+<div class="partnerarea"><font color="#990000"><b>Free Internet</b></font><br>
+<a href="http://www.time.com/r0/Time/AOL_BOILERPLATE/out?http://free.aol.com/tryaolfree/index.adp?231567"><font color="#003399">Try AOL for 1000 Hours FREE!</font></a><br>
+</div>
 
 </td>
 </tr>
 </tbody></table>
+
 <!--END MILESTONES, OPPORTUNITIES, BOOK SELECTION TABLE -->
 
-<br>
-<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/black.gif" width="478" height="1" border="0"><br><br>
-<!-- BEGIN TIME PARTNERS TABLE -->
-<!-- Vignette StoryServer 5.0 Sun Feb 18 15:21:47 2001 -->
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr valign="top">
-<td>
-<span class="partnerarea"><font color="#990000"><b>TIME partners</b></font></span>&nbsp;
-</td>
 
-<!-- FIRST PARTNERS CELL -->
-<td>
-	<a href="http://www.mtv.com/nav/intro_chooseorlose.html"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/bottom/photo_mtv.gif" width="114" height="28" border="0" hspace="3"></a>
-</td>
-<td valign="top" width="1" bgcolor="#000000"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/blank.gif" width="1" height="1" border="0"></td>
-<!-- END FIRST PARTNERS CELL -->
 
-<!-- THRID PARTNERS CELL -->
-<td>&nbsp;
-<iframe src="http://adremote.pathfinder.com/html.ng/spacedesc=cmaolmrktplcebut&amp;pagepos=12" width="88" height="31" marginheight="0" marginwidth="0" hspace="0" vspace="0" frameborder="0" noresize="" scrolling="no">
-<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://adremote.pathfinder.com/js.ng/spacedesc=cmaolmrktplcebut&pagepos=12"></SCRIPT>
-<NOSCRIPT><A HREF="http://adremote.pathfinder.com/click.ng/spacedesc=cmaolmrktplcebut&pagepos=12" TARGET="new"><IMG
-SRC="http://adremote.pathfinder.com/image.ng/spacedesc=cmaolmrktplcebut&pagepos=12" WIDTH=88 HEIGHT=31 BORDER=0></A>
-</NOSCRIPT>
-</iframe>
-&nbsp;</td>
-<!-- END THRID PARTNERS CELL -->
 
-</tr>
-</tbody></table>
+
+
+
+
+
+
+
+
 <!-- END TIME PARTNERS TABLE -->
 <br>
-<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/black.gif" width="478" height="1" border="0"><br><br>
+<img src="/time/images/black.gif" width="478" height="1" border="0"><br><br>
 <table border="0" cellpadding="0" cellspacing="0" width="481">
 <tbody><tr>
 <td valign="top" align="center">
 
 <!--BEGIN BOILER PLATE-->
-<!-- Vignette StoryServer 5.0 Thu Mar 22 11:40:23 2001 -->
+
 <div class="partnerarea">Copyright&nbsp;©&nbsp;2001 Time Inc. All rights reserved.<br>
 Reproduction in whole or in part without permission is prohibited.<br>
 <br>
-
-
 <a href="/time/faq/"><font color="#003399">FAQ</font></a> | 
-
 <a href="/time/sitemap/"><font color="#003399">Site Map</font></a> | 
-
 <a href="/time/advanced/search/"><font color="#003399">Search</font></a> | 
-
 <a href="/time/contactus/"><font color="#003399">Contact Us</font></a>
-
 <br>
-
 <a href="/time/documents/privacy/"><font color="#003399">Privacy Policy</font></a> | 
-
 <a href="http://www.pathfinder.com/help/hmember/agreement.html"><font color="#003399">Terms of Use</font></a> | 
-
-<a href="https://secure.customersvc.com/servlet/Show;$sessionid$NEQ2XRYAAACRPLAQZ2BQAUADAAB50?WESPAGE=td/Services/Permissions/permissions.html&amp;MSRSMAG=TD"><font color="#003399">Reprints &amp; Permissions</font></a> | 
-
+<a href="https://secure.customersvc.com/servlet/Show?WESPAGE=td/Services/Permissions/permissions.html&amp;MSRSMAG=TD"><font color="#003399">Reprints &amp; Permissions</font></a> | 
 <a href="/time/pr"><font color="#003399">Press Releases</font></a>
-
-
-
-
-</div><!--END BOILER PLATE-->
+</div>
+<!--END BOILER PLATE-->
 
 <br>
 <br>
@@ -846,11 +811,11 @@ Reproduction in whole or in part without permission is prohibited.<br>
 </td>
 
 <!-- BEGIN RIGHT HAND NAV -->
-<td bgcolor="#CCCCCC">
-<img src="/time/images/rightnav/head_promotion.gif">
-<p>
-</p><center>
-	<!-- Vignette StoryServer 5.0 Tue Jun 05 13:39:55 2001 -->
+<td width="1" valign="top" bgcolor="#000000" rowspan="2"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/blank.gif" width="1" height="1"></td>
+<td width="168" valign="top" bgcolor="#FFFFFF">
+
+	<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rightside_promotion.gif" width="168" height="18"><br><br>
+	<center><!-- Vignette StoryServer 5.0 Sat Sep 29 03:12:26 2001 -->
     
 	
 	<script language="JavaScript1.1">
@@ -872,189 +837,102 @@ Reproduction in whole or in part without permission is prohibited.<br>
 		<A HREF="http://ads.web.aol.com/link/93062860/aol"><IMG SRC="http://ads.web.aol.com/image/93062860/aol" ALT="Click here to visit our advertiser." WIDTH=120 HEIGHT=60 BORDER=0></A>
 	</noscript>
 	</p></center>
-<p>
+	<br>
+	<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rightside_current_issue.gif" width="168" height="18"><br>
+	<!-- NoPfinclude -->
 
 
 
 
-<!--BEGIN FROM TIME MAGAZINE-->
-<!-- Vignette StoryServer 5.0 Tue Jun 05 18:31:11 2001 -->
-
-
-         
-	       <!--START PREVIEW-->
-
-
-  	<!--END PREVIEW CODE-->
-
-
-	
-		
-			     
-				  
-				  
-				       
-		   <map name="mag_cover">
-		<area shape="rect" coords="0,0,158,150" href="/time/covers/1101010611/index.html">
-		<area shape="rect" coords="0,151,158,175" href="/time/covers/1101010611/photo_index.html">
-		<area shape="rect" coords="0,176,158,205" href="/time/covers/1101010611/fnortec.html">
-	</map>
-	<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rightnav/head_magazine.gif" width="170" height="15" border="0"><br>
-	<table border="0" cellpadding="6" cellspacing="0" width="158">
-	<tbody><tr>
-	<td>
-	<center><span class="rightsidelinks"><a href="http://www.pathfinder.com/r0/timesubs/nav_right/out?https://cgi.pathfinder.com/cgi-bin/magsubs/cc/subs/td_half?EFFORTKEY=TDDJU58">Subscribe to TIME</a></span></center>
-	<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/covers/cover0611.gif" width="158" height="205" border="0" usemap="#mag_cover"><br>
-	
-	
-		
-			<span class="rightsideheads">W&nbsp;a&nbsp;s&nbsp;h&nbsp;i&nbsp;n&nbsp;g&nbsp;t&nbsp;o&nbsp;n</span><br>
-		 <span class="rightsidelinks"><a href="/time/magazine/article/0,9171,1101010611-128937,00.html" target="_self">Stupid Tax Tricks</a></span><p>
-	
-		
-			<span class="rightsideheads">M&nbsp;a&nbsp;r&nbsp;g&nbsp;a&nbsp;r&nbsp;e&nbsp;t&nbsp; C&nbsp;a&nbsp;r&nbsp;l&nbsp;s&nbsp;o&nbsp;n</span><br>
-		 <span class="rightsidelinks"><a href="/time/magazine/article/0,9171,1101010611-128946,00.html" target="_self">Oh, Jenna! Oh, George!</a></span></p><p>
-	
-		
-			<span class="rightsideheads">I&nbsp;d&nbsp;a&nbsp;h&nbsp;o</span><br>
-		 <span class="rightsidelinks"><a href="/time/magazine/article/0,9171,1101010611-128972,00.html" target="_self">The Children's War</a></span></p><p>
-	
-		
-			<span class="rightsideheads">R&nbsp;o&nbsp;c&nbsp;k&nbsp;-&nbsp;a&nbsp;n&nbsp;d&nbsp;-&nbsp;R&nbsp;o&nbsp;l&nbsp;l</span><br>
-		 <span class="rightsidelinks"><a href="/time/magazine/article/0,9171,1101010611-128970,00.html" target="_self">It Rises from the Dead, Again</a></span></p><p>
-	
-		
-			<span class="rightsideheads">L&nbsp;e&nbsp;t&nbsp;t&nbsp;e&nbsp;r&nbsp;s</span><br>
-		 <span class="rightsidelinks"><a href="/time/magazine/article/0,9171,1101010611-128928,00.html" target="_self">Readers React to Our Timothy McVeigh Cover Story</a></span></p><p>
-	</p><center><a href="/time/magazine/current/"><span style="color:#000000; font-weight: bold;font-size: 12px; font-family: Arial, Helvetica">More From the Magazine</span></a></center>
- </td>
-	</tr>
-	</tbody></table>
-<!--END FROM TIME MAGAZINE-->
-
-<!-- BEGIN Web Features -->
-<!-- Vignette StoryServer 5.0 Tue Jun 05 16:20:33 2001 -->
-<!--BEGIN RIGHT HAND COLUMN-->
-<br>
-
-<!--BEGIN WEB FEATURES-->
-<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rightnav/head_webfeatures.gif" width="170" height="15" border="0"><br>
-
-
-<!--BEGIN PERSON OF THE WEEK TABLE-->
-<table border="0" cellpadding="0" cellspacing="7" width="170">
+<!--BEGIN CURRENT ISSUE-->
+<table border="0" cellpadding="5" cellspacing="0" width="163">
 <tbody><tr>
-<td> 
-<a href="/time/pow/"><img src="/time/include/redesign/right_navs/pow_tout_small.gif" height="37" width="155" hspace="0" border="0"></a><br>
-<div align="left" class="rightsidetext">
-<b>This Week:</b> <a href="/time/pow/">Casey Martin</a> </div>
+<td width="163" class="partnerarea">
+<center>
+<a href="http://cgi.timeinc.net/cgi-bin/magsubs/cc/subscribe/timeab2?EFFORTKEY=6" target="_top">Subscribe to TIME</a>
+<br><br>
+<a href="../../time/nation/article/0,8599,187544,00.html"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rtcover_1217.gif" width="120" height="158" border="0"></a>
+</center>
+
+<b>Cover Story: </b> <a href="../../time/nation/article/0,8599,187544,00.html">Into the Caves</a><br>
+
+<b>Map: </b><a href="../../time/nation/article/0,8599,187544,00.html" onclick="javascript:window.open('/time/2001/underthreat/torabora/','torabora','width=600,height=420,status=no,scrollbars=yes')">Zeroing In On Tora Bora</a><br>
+
+<b>This Issue:</b> <a href="../../time/magazine/tocfull">Table of Contents</a>
+
+
+
+
+
 </td>
 </tr>
 </tbody></table>
-<!--END PERSON OF THE WEEK TABLE-->
+<!--END CURRENT ISSUE-->
 
-<!--BEGIN GB-->
-<table border="0" cellpadding="0" cellspacing="7" width="170">
+
+ <br>
+	<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rightside_photoessay.gif" width="168" height="18"><br>
+	<!-- Vignette StoryServer 5.0 Sat Dec 15 10:41:11 2001 -->
+   
+	          
+	       
+
+        
+	 
+	
+		
+			
+				                
+	 
+	
+		
+			
+				                          
+	
+		
+			
+				                              <table border="0" cellpadding="6" cellspacing="0" width="164">
+
 <tbody><tr>
-<td> 
-<a href="/time/global/"><img src="/time/images/rightnav/gb_tout_sm.gif" height="37" width="155" hspace="0" border="0" alt=""></a><br>
-<div class="rightsidetext">
-<b>Cover Story:</b> <a href="/time/global/june/cover.html">Executive Education</a><br>
-<b>Departments:</b> <br>
-<a href="/time/global/june/briefing.html">Global Briefing</a> |
-<a href="/time/global/june/beaters.html">World Beaters</a> |
-<a href="/time/global/june/strategy.html">Global Strategy</a> |
-<a href="/time/global/june/ecommerce.html">E-Commerce</a> 
-</div>
-</td></tr>
-</tbody></table>
-<!--END GB-->
-
-
-<!--BEGIN TIME INTERACTIVE-->
-<table border="0" cellpadding="0" cellspacing="7" width="170">
-<tbody><tr>
-<td> 
-<a href="/time/interactive/"><img src="/time/images/rightnav/tout_interactive.gif" width="158" height="36" hspace="0" border="0" alt=""></a><br>
-<div class="rightsidetext">
-<a href="/time/interactive/issue/index_np.html">Intro</a> | 
-<a href="/time/interactive/technology/">Tech</a> | 
-<a href="/time/interactive/society/">Society</a> | 
-<a href="/time/interactive/living/">Living</a>
-</div>
-</td></tr>
-</tbody></table>
-<!--END TIME INTERACTIVE-->
-
-<!--BEGIN INNOVATORS TABLE-->
-<table border="0" cellpadding="0" cellspacing="7" width="170">
-<tbody><tr>
-<td> 
-
-<a href="/time/innovators_v2/"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rightnav/inno_nav_toutsansHP.gif" width="155" height="55" border="0"></a><br>
-<div class="rightsidetext">
-<b>This Month:</b> <a href="/time/innovators_v2/music/index.html">Music</a><br>
-<b>Previous:</b>
-<a href="/time/innovators/design/index.html">Design</a> | 
-<a href="/time/innovators/science/index.html">Science</a>
-<a href="/time/innovators/web/index.html">Web</a> | 
-<a href="/time/innovators/business/index.html">Finance</a> | 
-<a href="/time/innovators/culinary/index.html">Culinary Arts</a> | 
-<a href="/time/innovators/spirituality/index.html">Spirituality</a> | 
-<a href="/time/innovators_v2/travel/index.html">Travel</a> |
-<a href="/time/innovators_v2/storytellers/index.html">Storytellers</a> |
-<a href="/time/innovators_v2/crime/index.html">Justice</a> |
-<a href="/time/innovators_v2/alt_medicine/index.html">Alt. Medicine</a>
-</div>
-</td>
-</tr>
-</tbody></table>
-<!--END INNOVATORS TABLE-->
-
-<!--END WEB FEATURES-->
+<td valign="top"><a href="/time/photoessays/israelattack/"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/photoessays/israelattack/thumbnail/t2_thumb.jpg" height="75" width="150" border="0" vspace="5"></a><br>
+<div class="rightsidetext"><a href="/time/photoessays/israelattack/">Violence Begets Violence</a>
 <br>
-
-
-
-<!--END RIGHT HAND COLUMN--><!--END Web Features -->
-
-
-<!--BEGIN PHOTO ESSAY-->
-<!-- Vignette StoryServer 5.0 Tue Jun 05 18:31:11 2001 -->
-<a href="/time/photoessays/"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rightnav/head_photo_essay.gif" width="170" height="15" border="0"></a><br>
-<table border="0" cellpadding="6" cellspacing="0" width="164">
-
-<tbody><tr>
-<td valign="top"><a href="/time/potw/20010601/"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/potw/20010601/thumbnail/thumb.jpg" height="65" width="75" border="0" hspace="5" vspace="5" align="LEFT"></a>
-<div class="rightsidetext"><a href="/time/potw/20010601/">Pictures of the Week</a>
-<br>
-Our picks of the week's best pictures for the week of May 26-June 1</div>
+Hamas suicide bombers take the lives of 26 Israelis, prompting retaliatory airstrikes from Israel</div>
 </td>
 </tr>
 
 <tr>
-<td valign="top"><a href="/time/covers/1101010611/webb/"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/covers/1101010611/webb/thumbnail/thumb.jpg" height="65" width="75" border="0" hspace="5" vspace="5" align="LEFT"></a>
-<div class="rightsidetext"><a href="/time/covers/1101010611/webb/">Life on the Border</a>
+<td valign="top"><a href="/time/photoessays/harrison/"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/photoessays/harrison/thumbnail/t2_thumb.jpg" height="75" width="150" border="0" vspace="5"></a><br>
+<div class="rightsidetext"><a href="/time/photoessays/harrison/">And Then There Were Two
+
+</a>
 <br>
-Neither Mexican nor America, the land is its own country with a uniques culture and customs all its own. Photographs for TIME by Alex Webb/Magnum. 06/01</div>
+Beatle George Harrison succumbs to cancer in Los Angeles</div>
 </td>
 </tr>
-</tbody></table><!--END PHOTO ESSAY-->
-</p><center>
-	<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rightnav/head_subservices.gif" width="170" height="15"><br><br>
-	
+<tr>
+<td valign="top" class="rightsidetext">
+<a href="/time/photoessays/">More photo essays &gt;&gt;&gt;</a>
+</td>
+</tr>
+</tbody></table>
+
+ <br>
+	<img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/rightside_inprint.gif" width="168" height="18"><br><br>
+	<center>
 				<script language="JavaScript1.1">
 				<!--
 				htmlAdWH('93062866', '120', '240');
 				//-->
 				</script>
 				<noscript>
-				<A HREF="http://ads.web.aol.com/link93062866/aol">
+				<A HREF="http://ads.web.aol.com/link/93062866/aol">
 				<IMG SRC="http://ads.web.aol.com/image/93062866/aol" ALT="Click here to visit our advertiser." WIDTH=120 HEIGHT=240 BORDER=0></A>
 				</noscript>
-		<br><br>
-</center>
+		</center>
+
 </td>
+<td width="1" valign="top" bgcolor="#000000" rowspan="2"><img src="http://a740.g.akamai.net/f/740/606/1d/image.pathfinder.com/time/images/blank.gif" width="1" height="1"></td>
 <!-- END RIGHT HAND NAV -->
 
 </tr>
