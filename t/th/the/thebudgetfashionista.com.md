@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206191922id_/http%3A//www.thebudgetfashionista.com/bf/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402054141id_/http%3A//www.thebudgetfashionista.com/bf/policy.php) for the most accurate reproduction.*
 
 # The Budget Fashionista :: PRIVACY POLICY and DISCLAIMER
-
-[](http://ccprod.roving.com/roving/sa/fp.jsp?plat=i&p=f&m=9tywm8n6)
 
 ##  The Budget Fashionista PRIVACY POLICY and DISCLAIMER 
 
