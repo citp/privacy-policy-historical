@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218011927id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602084340id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
 
 # ibm.com - Privacy
 
@@ -48,7 +48,7 @@ Some IBM Web sites also use Web beacon technologies to better tailor those sites
 
 If you turn off cookies, web beacon technologies will still detect anonymous visits to these pages, but the notices they generate cannot be associated with other anonymous cookie information and are disregarded.
 
-For more information, please see "[How to work with Cookies](https://web.archive.org/web/20011218011927id_/http://www.ibm.com/privacy/us/cookies.shtml)".  
+For more information, please see "[How to work with Cookies](https://web.archive.org/web/20020602084340id_/http://www.ibm.com/privacy/us/cookies.shtml)".  
   
   | **Online advertising** |   | 
 
@@ -85,4 +85,4 @@ IBM Corporation
 44 S. Broadway   
 White Plains, NY USA 10601
 
-If you still have questions after contacting IBM, you may contact TRUSTe at "[http://www.truste.org](http://www.truste.org/)." TRUSTe can serve as a liaison with IBM to help you get answers to your questions.
+If you still have questions after contacting IBM, you may contact TRUSTe at "[http://www.truste.org](http://www.truste.org/validate/331)." TRUSTe can serve as a liaison with IBM to help you get answers to your questions.
