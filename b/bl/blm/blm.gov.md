@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204093405id_/http%3A//www.blm.gov/blm_info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307092337id_/http%3A//www.blm.gov/blm_info/privacy.htm) for the most accurate reproduction.*
 
 # BLM Information: Privacy Notice
 
