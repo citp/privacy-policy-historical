@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the ananova.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216040222id_/http%3A//www.ananova.com/about/story/sm_256147.html%3Fmenu%3Dabout.aboutthecompany.privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ananova.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601145121id_/http%3A//www.ananova.com/about/story/sm_256147.html%3Fmenu%3Dabout.aboutthecompany.privacystatement) for the most accurate reproduction.*
 
 # Ananova - Ananova and your personal data
 
----  
-  
-**  Ananova : ** |  |    
-  
-   
-  
 **Ananova and your personal data**
 
 This is Ananova's Privacy Statement. It sets out how we deal with your personal data.
@@ -48,19 +42,14 @@ The ads appearing on this web site are delivered to you, on our behalf, by Doubl
 
 In the course of serving advertisements to this site, our third party advertiser may place or recognise a unique cookie on your browser but it will not collect any personally identifiable information about you. For more information about DoubleClick cookies and how to "opt out", please [click here](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp).
 
-These cookies are deleted when you leave.
-
 12\. Spotlight tags
 
 Information about web site usage and visitors to our website is shared with a reputable third party for the purpose of targeting our internet advertisements on other sites. To do this, we use clear GIFs, or pixel tags, on this site, which allow us to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable. For more information about our third-party advertiser or for your choices about not having this anonymous information used, please [click here](http://www.doubleclick.net/us/corporate/privacy).
 
 Story filed: 09:36 Tuesday 27th March 2001
 
-****
-
-  * [About Ananova](https://web.archive.org/about/index.html?keywords=About+Ananova&nav_src=more_on)
-  * [About the Company](https://web.archive.org/about/index.html?keywords=About+the+Company&nav_src=more_on)
-  * [Ananova](https://web.archive.org/about/index.html?keywords=Ananova&nav_src=more_on)
-  * [Privacy Statement](https://web.archive.org/about/index.html?keywords=Privacy+Statement&nav_src=more_on)
-
-
+**CHECK FOR MORE ON:**   
+[Privacy Statement](https://web.archive.org/about/index.html?keywords=Privacy+Statement&nav_src=more_on)   
+[Ananova](https://web.archive.org/about/index.html?keywords=Ananova&nav_src=more_on)   
+[About the Company](https://web.archive.org/about/index.html?keywords=About+the+Company&nav_src=more_on)   
+[About Ananova](https://web.archive.org/about/index.html?keywords=About+Ananova&nav_src=more_on)
