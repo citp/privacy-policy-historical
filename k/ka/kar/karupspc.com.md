@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karupspc.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205051801id_/http%3A//www.eentinc.com/privacyk.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karupspc.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605043230id_/http%3A//www.eentinc.com/privacyk.htm) for the most accurate reproduction.*
 
 # EENT, Inc. Privacy Policy
 
