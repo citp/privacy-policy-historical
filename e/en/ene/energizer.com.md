@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energizer.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402204250id_/http%3A//energizer.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energizer.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205185253id_/http%3A//www.energizer.com/privacy/default.asp) for the most accurate reproduction.*
 
 # Energizer.com - - Privacy Policy
 
