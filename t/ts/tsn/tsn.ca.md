@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206070832id_/http%3A//tsn.ca/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605194229id_/http%3A//tsn.ca/help/privacy.asp) for the most accurate reproduction.*
 
 # TSN.ca - Help - Canada's Sports Leader
 
@@ -54,7 +54,7 @@ e. In connection with a BGM corporate re-organization, merger or amalgamation wi
 
 A BGM Service may contain links to other websites and services. While we try to link only to sites and services that share our high standards and respect for privacy, please understand that we are not responsible for the content of, or the privacy practices employed by, other companies or websites. This Privacy Policy applies only to the BGM Services referencing this Privacy Policy. 
 
-The majority of the advertisements which are displayed in connection with the BGM Services are served through reputable third party advertisement serving partner(s). If you would like to know more about what Non-Personal Information is collected and how information is used by our partner or about its "opt-out" procedures, please click here. 
+The majority of the advertisements which are displayed in connection with the BGM Services are served through reputable third party advertisement serving partner(s). If you would like to know more about what Non-Personal Information is collected and how information is used by our partner or about its "opt-out" procedures, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
 
 **SECURITY**
 
