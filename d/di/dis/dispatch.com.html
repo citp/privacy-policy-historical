@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dispatch.com privacy policy that was archived on 2004-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607022037id_/http%3A//dispatch.com/default.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dispatch.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205005610id_/http%3A//www.dispatch.com/default.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>The Columbus Dispatch - </title>
@@ -52,15 +52,34 @@ function random() {
 </script>	<script type="text/javascript">
 
 function launchwindow(url, name, parameters) {
-	newWin = window.open(url, name, parameters)
+	newWin = window.open(url, name, parameters);
+	newWin.location.reload(true);
 		// to bring back the focus to the window, if its already opened
 	if (!(newWin.closed)) {newWin.focus();}
 
 }
 
-</script>	<script type="text/javascript" src="/thirdparty/vplayer/videofunc_pre.js"></script>
-
-	<script type="text/javascript" src="/includes/ew2.js"></script>
+//-----------------------------------
+// checkPopup	-	checks existence of popup blocker
+//		xwind		:	window name (object)
+//		msgno		:	message no. to show
+//-----------------------------------
+function checkPopup(xwind, msgno) {
+ 		if((xwind==null)||(xwind==0)|| (typeof(xwind)=="undefined"))
+		{	switch (msgno){
+				case "1":
+					strmsg="You are using a pop-up blocker.\n\nThis video/audio will not work unless you turn off\n the pop-up blocker and restart your browser.";
+					break;
+				default:
+					strmsg="You are using a pop-up blocker.\n\nThis link will not work unless you turn off\n the pop-up blocker and restart your browser."
+			}
+		alert(strmsg);
+		 }
+		// else { if (!(xwind.closed)){xwind.focus();}
+		// }
+}
+</script>
+		<script type="text/javascript" src="/includes/ew2.js"></script>
 	<script type="text/javascript" src="/thirdparty/cookie.js"></script>
 </head>
 
@@ -72,6 +91,7 @@ function launchwindow(url, name, parameters) {
 	<p>Javascript is disabled in your browser.  To use all the features of this site, please enable it.</p>
 	<p>For information, please <a href="/services-story.php?story=dispatch/services/Faq/javascript.html
 ">click here</a>.</p>
+	<p>For a text-only version of Dispatch.com <a href="/text">click here.</a></p>
 	<p>&nbsp;</p>
 </noscript>
 
@@ -84,28 +104,30 @@ function launchwindow(url, name, parameters) {
 <div id="topline">
   <div id="topleft">&nbsp;</div>
   <ul>
-    <li><span class="welcome">Welcome</span></li>
     <li><a href="https://shop.dispatch.com/signin.asp?fl=si&amp;page=www.dispatch.com" title="Sign-in to your Dispatch.com account">Sign-in</a></li>
     <li><a href="https://shop.dispatch.com/signin.asp?fl=acc&amp;page=www.dispatch.com" title="Register for a Dispatch.com subscription">Register</a></li>
     <li><a href="http://ee.dispatch.com" title="Go to The Dispatch Electronic Edition">Electronic Edition</a></li>
-    <li><a href="https://shop.dispatch.com/shop.asp?prod=photo-shop&amp;regtype=1" title="Go to the Dispatch photo gallery">Photo Gallery</a></li>
+    <li><a href="http://shop.dispatch.com/shop.asp?prod=photo-shop&amp;regtype=1" title="Go to the Dispatch photo gallery">Photo Gallery</a></li>
     <li><a href="/contests/" title="Go to the Dispatch contests">Contests</a></li>
     <li><a href="/default.php?story=dispatch/contactus/contact_start.html" title="Go to information to contact us">Customer Service</a></li>
+    <li><a href="http://dispatch.careercast.com/texis/jobsearch?qComp=The%20Columbus%20Dispatch" title="Find a job at The Dispatch">Dispatch Jobs</a></li>
     <li><a href="/default.php?story=dispatch/services/sitemap_content.php" title="Go to our site map">Site Map</a></li>
     <li class="last"><a href="/default.php?story=dispatch/services/Faq/basicfaqs.html" title="Go to frequently asked questions">Help!</a></li>
   </ul>
 </div>
 <table width="100%" cellspacing="0" id="hedr">
   <tbody><tr>
-        <td id="displogo-sm"><a href="/default.php" title="Go to Dispatch.com home page"><img src="/images/2003/sm-cd-logo.gif" alt="Go to Dispatch.com home page" width="282" height="52"></a></td>
+        <td id="displogo-sm"><a href="/default.php" title="Go to Dispatch.com home page">
+    <img src="/images/2003/sm-cd-logo.gif" alt="Go to Dispatch.com home page" width="282" height="52" border="0"></a></td>
     <td width="100%" class="hedr-ad">
       <div align="right">
-<!-- Begin ad code for Top position -->
-<script language="JavaScript1.1" src="http://adsrv.dispatch.com/RealMedia/ads/adstream_jx.ads/www.dispatch.com/services@Top"></script>
-
+	<script language="JavaScript1.1" type="text/javascript" src="http://adsrv.dispatch.com/RealMedia/ads/adstream_jx.ads/www.dispatch.com/services@Top">
+</script>
 <noscript>
-<a href="http://adsrv.dispatch.com/RealMedia/ads/click_nx.ads/www.dispatch.com/services@Top"><img  src="http://adsrv.dispatch.com/RealMedia/ads/adstream_nx.ads/www.dispatch.com/services@Top" width=468 height=60 border=0></a></noscript></div>
-<!-- end ad code for Top position -->    </td>
+	<a href="http://adsrv.dispatch.com/RealMedia/ads/click_nx.ads/www.dispatch.com/services@Top">
+	<img  src="http://adsrv.dispatch.com/RealMedia/ads/adstream_nx.ads/www.dispatch.com/services@Top" width="468" height="60" border="0" alt="" /></a>
+</noscript>
+</div>    </td>
       </tr>
 </tbody></table>
 <div id="topnav">
@@ -124,85 +146,90 @@ function launchwindow(url, name, parameters) {
     <li><a href="http://www.columbusjobs.com/" title="Go to the ColumbusJobs.com">Jobs</a></li>
     <li><a href="http://www.carcast.com/cc/automarketplace/partners/188" title="Go to the DispatchWheels.com">Cars</a></li>
     <li><a href="http://www.newspaperads.com/dispatch/category.asp?interfaceid=146&amp;parent=Real+Estate" title="Go to Real Estate classified ads">Homes</a></li>
-    <li><a href="http://www.match.com/landing/MediaPartners.aspx?lp=ms2&amp;trackingid=516463" title="Go to the Dispatch personal ads">Personals</a></li>
+    <li><a href="http://www.dispatchdateline.com" title="Go to the Dispatch Personals">Personals</a></li>
     <li class="last"><a href="http://www.switchboard.com/bin/cgidir.dll?LNK=3:30&amp;MEM=1309" title="Find a business">Yellow Pages</a></li>
   </ul>
 </div>
 
-<table cellspacing="0" id="main">
+<table id="main">
 	<tbody><tr>
 <!-- Left Nav -->
-
 		<td id="menu">
 			<div id="leftnav-default">
   <ul>
-    <li><a href="/indexes/newsindex.php" class="hed" title="Go to today’s local and state headlines">News</a></li>
-    <li><a href="/indexes/newsindex.php" title="Go to today’s local and state headlines">Metro &amp; State</a></li>
-    <li><a href="/indexes/nationalindex.php" title="Go to today’s national and international headlines">National / International</a></li>
-    <li><a href="/indexes/editorialsindex.php" title="Go to this week’s editorials, letters and Forum headlines">Editorials / Letters / Forum</a></li>
-    <li class="half"><a href="/default.php?story=dispatch/columnists/columnists-main.php" title="Go to headlines from Dispatch columnists">Columnists</a></li>
-    <li class="half"><a href="/weather/weather.php" title="Go to today’s weather forcast">Weather</a></li>
-    <li class="half"><a href="/weather/lottery.php" title="Go to today’s Ohio  lottery results">Lottery</a></li>
-    <li class="half"><a href="/obituaries/index.php" title="Go to today’s obituary listings">Obituaries</a></li>
-    <li class="half"><a href="/health/health.php" title="Go to this week’s health headlines">Health</a></li>
-    <li class="half"><a href="/science/science.php" title="Go to this week’s science headlines">Science</a></li>
-    <li><a href="/default.php?story=dispatch/news/religion/religion-main.php" title="Go to this week’s Faith &amp; Values headlines">Faith &amp; Values</a></li>
-    <li><a href="/default.php?story=dispatch/news/special/specialreports.php" title="Go to special reports headlines">Special Reports</a></li>
-    <li><a href="/election/election-president.php" title="Go to 2004 election coverage">2004 Elections</a></li>
-<!--<li><a href="/reports-story.php?story=dispatch/indexes/schoolclosings.php" title="Go to Central Ohio school closings">School closings</a></li>-->
-    <li><a href="http://shop.dispatch.com/newsarchive/ArchiveForm.asp" title="Search the Dispatch archive">Search the archive</a></li>
-    <li><a href="/default.php?story=dispatch/indexes/sportsindex-main.php" class="hed" title="Go to today’s sports headlines">Sports</a></li>
-		<li><a href="/memorial/memorial.php" title="Go to 2004 Memorial Tournament coverage">Memorial Tournament</a></li>
-    <li><a href="/football/football.php" title="Go to OSU football headlines">OSU Football</a></li>
-    <li><a href="/bball/bball.php" title="Go to OSU men's basketball headlines">OSU Men’s Basketball</a></li>
-    <li><a href="/bball/women/womensbball.php" title="Go to OSU women's basketball headlines">OSU Women’s Basketball</a></li>
-    <li><a href="/osusports/osusports.php" title="Go to other OSU sports headlines">Other OSU Sports</a></li>
-    <li class="half"><a href="/crew/crew.php" title="Go to Crew headlines">Crew</a></li>
-    <li class="half"><a href="/bluejacket/bluejackets.php" title="Go to Blue Jackets headlines">Blue Jackets</a></li>
-    <li class="half"><a href="/reds/reds.php" title="Go to Cincinnati Reds headlines">Reds</a></li>
-    <li class="half"><a href="/indians/indians.php" title="Go to Cleveland Indians headlines">Indians</a></li>
-    <li class="half"><a href="/bengals/bengals.php" title="Go to Cincinnati Bengals headlines">Bengals</a></li>
-    <li class="half"><a href="/browns/browns.php" title="Go to Cleveland Browns headlines">Browns</a></li>
-    <li class="half"><a href="/cavs/cavs.php" title="Go to Cleveland Cavaliers headlines">Cavaliers</a></li>
-    <li class="half"><a href="/destroyers/destroyers.php" title="Go to Columbus Destroyers headlines">Destroyers</a></li>
-    <li class="half"><a href="/prep/preps.php" title="Go to high school sports headlines">Preps</a></li>
-    <li class="half"><a href="/golf/golf.php" title="Go to golf headlines">Golf</a></li>
-    <li class="half"><a href="/clippers/clippers.php" title="Go to Columbus Clippers headlines">Clippers</a></li>
-    <li class="half"><a href="/outdoors/outdoors.php" title="Go to outdoors headlines">Outdoors</a></li>
-    <li class="half"><a href="/ticket/ticket.php" title="Go to this week’s The Ticket headlines">The Ticket</a></li>
-    <li class="half"><a href="/autos/autos.php" title="Go to auto racing headlines">Auto Racing</a></li>
-    <li><a href="/indexes/businessindex.php" class="hed" title="Go to today’s business headlines">Business</a></li>
-    <li><a href="/redir.php?pg=1" title="Go to today’s stocks listings from the Associated Press">Stocks</a></li>
-    <li><a href="/redir2.php?pg=bankrate" title="Go to financial news from Bankrate.com">Personal Finance</a></li>
-    <li><a href="/default.php?sec=business&amp;subsec=connect" title="Go to this week’s technology headlines">Connect: Technology</a></li>
-    <li><a href="/indexes/featuresindex.php" class="hed" title="Go to today’s Life &amp; Arts headlines">Life / Arts</a></li>
-    <li><a href="/flipside/flipside.php" title="Go to today’s Flip Side">The Flip Side</a></li>
-    <li><a href="/weekender/weekender.php" title="Go to this week’s Weekender headlines">WeekEnder: Movies, more</a></li>
-    <li class="half"><a href="/default.php?sec=features&amp;subsec=travel" title="Go to this week’s travel headlines">Travel</a></li>
-    <li class="half"><a href="/default.php?sec=features&amp;subsec=food" title="Go to this week’s food headlines">Food</a></li>
-    <li><a href="/default.php?sec=features&amp;subsec=homegarden" title="Go to this week’s home &amp; garden headlines">Home &amp; Garden</a></li>
-    <li><a href="/default.php?sec=features&amp;subsec=now" title="Go to this week’s NOW! for kids headlines">NOW! for kids</a></li>
-    <li><a href="/redir.php?pg=3" title="Go to this week’s USA Weekend website">USA Weekend</a></li>
-    <li class="half"><a href="/redir.php?pg=4" title="Go to today’s horoscope listings">Horoscopes</a></li>
-    <li class="half"><a href="/promotions.php?story=dispatch/crossword/crosswordindex.html" title="Go to today’s online crossword puzzle">Crosswords</a></li>
-    <li><a href="/default.php?story=dispatch/services/services.html" class="hed" title="Go to information about Dispatch.com and The Columbus Dispatch">Services</a></li>
-    <li class="half"><a href="https://shop.dispatch.com/signin.asp?fl=acc&amp;page=www.dispatch.com/default.php%3Cq%3E" title="Register for a Dispatch.com subscription">Register</a></li>
-    <li class="half"><a href="https://shop.dispatch.com/signin.asp?fl=si&amp;page=www.dispatch.com/default.php%3Cq%3E" title="Sign in to your Dispatch.com account">Sign In</a></li>
-    <li class="half"><a href="https://shop.dispatch.com/signin.asp?fl=my&amp;page=www.dispatch.com/default.php%3Cq%3E" title="Edit your Dispatch.com account information">My Account</a></li>
-    <li class="half"><a href="/default.php?story=dispatch/services/Faq/basicfaqs.html" title="Go to a list of frequently asked questions">Web FAQs</a></li>
-    <li><a href="/services-story.php?story=dispatch/services/makeushome.php" title="Make Dispatch.com yoiur default home page">Make us your homepage</a></li>
-    <li><a href="http://www.dispatch.com/promotions.php?story=dispatchinteractive/newsletters/newsletters.html" title="Sign up for our e-mail newsletters">Sign up for newsletters</a></li>
-    <li class="half"><a href="/default.php?story=dispatch/services/other_sites_main.php" title="Go to links to other information websites">Other sites</a></li>
-    <li class="half"><a href="/contests/" title="Go to the Dispatch contests">Contests</a></li>
-    <li><a href="http://www.dispatchnie.com/" title="Go to our Newspaper in Education website">Newspaper in Education</a></li>
-    <li><a href="/default.php?story=dispatch/community/sponsoredevents.html" title="Go to a directory of Dispatch sponsored events">Sponsored Events</a></li>
-    <li><a href="http://dispatch.careercast.com/texis/company?compid=3ee7495e5d" title="Find a job at The Dispatch">Dispatch Jobs</a></li>
-    <li><a href="/mediakit/index.html" title="Go to our online media kit">Dispatch Media Kit</a></li>
-    <li><a href="/text" title="Go to today’s text only news">Text version</a></li>
-    <li><a href="/default.php?story=dispatch/services/services.html" class="hed" title="Information about Dispatch.com and The Columbus Dispatch">Your newspaper</a></li>
-    <li><a href="/promotions.php?story=dispatchinteractive/circ_3offers/circ_3offers_form.html" title="Go to information on how to subscribe to The Columbus Dispatch">Subscribe to the paper</a></li>
-    <li><a href="/default.php?story=dispatch/services/stop-start.html" title="Go to information about starting or stoping delivery">Stop / Start delivery</a></li>
-    <li><a href="/default.php?story=dispatch/services/newspaper-faq.php" title="Go to frequently asked questions">FAQs about your newspaper</a></li>
+		<li class="sectionhed"><a href="/indexes/newsindex.php" class="hed" title="Go to today’s local and state headlines">News</a></li>
+		<li><a href="/indexes/newsindex.php" title="Go to today’s local and state headlines">Metro &amp; State</a></li>
+		<li><a href="/indexes/nationalindex.php" title="Go to today’s national and international headlines">National / International</a></li>
+		<li><a href="/indexes/editorialsindex.php" title="Go to this week’s editorials, letters and Forum headlines">Editorials / Letters / Forum</a></li>
+		<li><a href="/editorials-story.php?story=dispatch/indexes/stahler.php" title="Go an archive of editorial cartoons by Jeff Stahler">Stahler cartoon archive</a></li>
+		<li class="half"><a href="/default.php?story=dispatch/columnists/columnists-main.php" title="Go to headlines from Dispatch columnists">Columnists</a></li>
+		<li class="half"><a href="/weather/weather.php" title="Go to today’s weather forcast">Weather</a></li>
+		<li class="half"><a href="/lottery.php" title="Go to today’s Ohio  lottery results">Lottery</a></li>
+		<li class="half"><a href="/obituaries/index.php" title="Go to today’s obituary listings">Obituaries</a></li>
+		<li class="half"><a href="/health/health.php" title="Go to this week’s health headlines">Health</a></li>
+		<li class="half"><a href="/science/science.php" title="Go to this week’s science headlines">Science</a></li>
+		<li><a href="/default.php?story=dispatch/news/religion/religion-main.php" title="Go to this week’s Faith &amp; Values headlines">Faith &amp; Values</a></li>
+		<li><a href="/default.php?story=dispatch/news/special/specialreports.php" title="Go to special reports headlines">Special Reports</a></li>
+		<li><a href="/default.php?story=wbns10tv/weather/updated/closings.html" title="Go to Central Ohio school closings">School closings</a></li>
+		<li><a href="http://shop.dispatch.com/newsarchive/ArchiveForm.asp" title="Search the Dispatch archive">Search the archive</a></li>
+		
+		<li class="sectionhed"><a href="/default.php?story=dispatch/indexes/sportsindex-main.php" class="hed" title="Go to today’s sports headlines">Sports</a></li>
+		<li><a href="/football/football.php" title="Go to OSU football headlines">OSU Football</a></li>
+		<li><a href="/bball/bball.php" title="Go to OSU men's basketball headlines">OSU Men’s Basketball</a></li>
+		<li><a href="/bball/women/womensbball.php" title="Go to OSU women's basketball headlines">OSU Women’s Basketball</a></li>
+		<li><a href="/osusports/osusports.php" title="Go to other OSU sports headlines">Other OSU Sports</a></li>
+		<li class="half"><a href="/crew/crew.php" title="Go to Crew headlines">Crew</a></li>
+		<li class="half"><a href="/bluejacket/bluejackets.php" title="Go to Blue Jackets headlines">Blue Jackets</a></li>
+		<li class="half"><a href="/reds/reds.php" title="Go to Cincinnati Reds headlines">Reds</a></li>
+		<li class="half"><a href="/indians/indians.php" title="Go to Cleveland Indians headlines">Indians</a></li>
+		<li class="half"><a href="/bengals/bengals.php" title="Go to Cincinnati Bengals headlines">Bengals</a></li>
+		<li class="half"><a href="/browns/browns.php" title="Go to Cleveland Browns headlines">Browns</a></li>
+		<li class="half"><a href="/cavs/cavs.php" title="Go to Cleveland Cavaliers headlines">Cavaliers</a></li>
+		<li class="half"><a href="/destroyers/destroyers.php" title="Go to Columbus Destroyers headlines">Destroyers</a></li>
+		<li class="half"><a href="/prep/preps.php" title="Go to high school sports headlines">Preps</a></li>
+		<li class="half"><a href="/golf/golf.php" title="Go to golf headlines">Golf</a></li>
+		<li class="half"><a href="/clippers/clippers.php" title="Go to Columbus Clippers headlines">Clippers</a></li>
+		<li class="half"><a href="/outdoors/outdoors.php" title="Go to outdoors headlines">Outdoors</a></li>
+		<li class="half"><a href="/ticket/ticket.php" title="Go to this week’s The Ticket headlines">The Ticket</a></li>
+		<li class="half"><a href="/autos/autos.php" title="Go to auto racing headlines">Auto Racing</a></li>
+		
+		<li class="sectionhed"><a href="/indexes/businessindex.php" class="hed" title="Go to today’s business headlines">Business</a></li>
+		<li><a href="/redir.php?pg=1" title="Go to today’s stocks listings from the Associated Press">Stocks</a></li>
+		<li><a href="/redir2.php?pg=bankrate" title="Go to financial news from Bankrate.com">Personal Finance</a></li>
+		<li><a href="/default.php?sec=business&amp;subsec=connect" title="Go to this week’s technology headlines">Connect: Technology</a></li>
+		
+		<li class="sectionhed"><a href="/indexes/featuresindex.php" class="hed" title="Go to today’s Life &amp; Arts headlines">Life / Arts</a></li>
+		<li><a href="/flipside/flipside.php" title="Go to today’s Flip Side">The Flip Side</a></li>
+		<li><a href="/holidays/holidays.php" title="Go to today’s Holiday Guide">Holiday Guide</a></li>
+		<li><a href="/weekender/weekender.php" title="Go to this week’s Weekender headlines">WeekEnder: Movies, more</a></li>
+		<li class="half"><a href="/default.php?sec=features&amp;subsec=travel" title="Go to this week’s travel headlines">Travel</a></li>
+		<li class="half"><a href="/default.php?sec=features&amp;subsec=food" title="Go to this week’s food headlines">Food</a></li>
+		<li><a href="/default.php?sec=features&amp;subsec=homegarden" title="Go to this week’s home &amp; garden headlines">Home &amp; Garden</a></li>
+		<li><a href="/default.php?sec=features&amp;subsec=now" title="Go to this week’s NOW! for kids headlines">NOW! for kids</a></li>
+		<li><a href="/redir.php?pg=3" title="Go to this week’s USA Weekend website">USA Weekend</a></li>
+		<li class="half"><a href="/horoscopes.php" title="Go to today’s horoscope listings">Horoscopes</a></li>
+		<li class="half"><a href="/promotions.php?story=dispatch/crossword/crosswordindex.html" title="Go to today’s online crossword puzzle">Crosswords</a></li>
+		
+		<li class="sectionhed"><a href="/default.php?story=dispatch/services/services.html" class="hed" title="Go to information about Dispatch.com and The Columbus Dispatch">Services</a></li>
+		<li class="half"><a href="https://shop.dispatch.com/signin.asp?fl=acc&amp;page=www.dispatch.com/default.php%3Cq%3E" title="Register for a Dispatch.com subscription">Register</a></li>
+		<li class="half"><a href="https://shop.dispatch.com/signin.asp?fl=si&amp;page=www.dispatch.com/default.php%3Cq%3E" title="Sign in to your Dispatch.com account">Sign In</a></li>
+		<li class="half"><a href="https://shop.dispatch.com/signin.asp?fl=my&amp;page=www.dispatch.com/default.php%3Cq%3E" title="Edit your Dispatch.com account information">My Account</a></li>
+		<li class="half"><a href="/default.php?story=dispatch/services/Faq/basicfaqs.html" title="Go to a list of frequently asked questions">Web FAQs</a></li>
+		<li><a href="/services-story.php?story=dispatch/services/makeushome.php" title="Make Dispatch.com yoiur default home page">Make us your homepage</a></li>
+		<li><a href="/promotions.php?story=dispatchinteractive/newsletters/newsletters.html" title="Sign up for our e-mail newsletters">Sign up for newsletters</a></li>
+		<li class="half"><a href="/default.php?story=dispatch/services/other_sites_main.php" title="Go to links to other information websites">Other sites</a></li>
+		<li class="half"><a href="/contests/" title="Go to the Dispatch contests">Contests</a></li>
+		<li><a href="http://www.dispatchnie.com/" title="Go to our Newspaper in Education website">Newspaper in Education</a></li>
+		<li><a href="/default.php?story=dispatch/community/sponsoredevents.html" title="Go to a directory of Dispatch sponsored events">Sponsored Events</a></li>
+		<li><a href="http://dispatch.careercast.com/texis/company?compid=3ee7495e5d" title="Find a job at The Dispatch">Jobs at The Dispatch</a></li>
+		<li><a href="/mediakit/index.html" title="Go to our online media kit">Dispatch Media Kit</a></li>
+		<li class="half"><a href="/text" title="Go to today’s text only news">Text version</a></li>
+		<li class="half"><a href="/default.php?story=dispatch/contactus/contact_start.html" title="How to contact us at Dispatch.com">Contact Us</a></li>
+		
+		<li class="sectionhed"><a href="/default.php?story=dispatch/services/services.html" class="hed" title="Information about Dispatch.com and The Columbus Dispatch">Your newspaper</a></li>
+		<li><a href="/promotions.php?story=dispatchinteractive/circ_3offers/circ_3offers_form.html" title="How to subscribe to The Columbus Dispatch">Subscribe to the paper</a></li>
+		<li><a href="/default.php?story=dispatch/services/stop-start.html" title="Go to information about starting or stoping home delivery">Stop / Start delivery</a></li>
+		<li><a href="/default.php?story=dispatch/services/newspaper-faq.php" title="Go to frequently asked questions">FAQs about your newspaper</a></li>
   </ul>
 <br clear="all">
 </div>
@@ -276,18 +303,27 @@ function launchwindow(url, name, parameters) {
 	<!-- Special Sections -->
 	<p>News Special Sections</p>
 	<ul>
-		<li><a href="/features-story.php?story=dispatch/2004/04/09/20040409homegarden2004.html">Spring Home &amp; Garden 2004</a></li>
+
+		<li><a href="http://ee.dispatch.com/Daily/skins/Columbus/navigator.asp?Action+view/issue&amp;BaseHref=Special/2004/10/01">Fall Home &amp; Garden 2004</a></li>
+		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/09/24&amp;GZ=T">Dining Guide 2004</a></li>
 		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/03/25&amp;GZ=T">Spring Fashion 2004</a></li>
 		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/03/12&amp;GZ=T">2004 Auto Show</a></li>
 		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/02/17&amp;GZ=T">2004 Wedding Guide</a></li>
 	</ul>
 	<p>Advertising Special Sections</p>
 	<ul>
-		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/05/28&amp;GZ=T">Travel Ohio</a></li>
-		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/05/19&amp;GZ=T">From House to Home</a></li>
-		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/04/28&amp;GZ=T">Spring Employment</a></li>
-		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/03/24&amp;GZ=T">Parade of Homes Preview Book</a></li>
-		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/03/15&amp;GZ=T">2004 Vacation &amp; Travel Planner</a></li>
+	<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/12/03">Last-Minute Gift Guide</a></li>
+
+		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/11/25">One-Stop Holiday Shopping</a></li>
+
+<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/10/29">Consumer How-To Guide</a></li>
+		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/10/06">Business Integrity Awards 2004</a></li>
+		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/09/26&amp;GZ=T">Fall Travel</a></li>
+		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/08/17&amp;GZ=T">2004 Parade of Homes</a></li>
+		<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/08/02&amp;GZ=T">From House to Home</a></li>
+			<li><a href="http://ee.dispatch.com/Default/Client.asp?skin=Columbus&amp;Daily=Special&amp;BaseHref=Special/2004/07/30&amp;GZ=T">Travel Ohio</a></li>
+		
+		<li><a href="/promotions.php?story=dispatchinteractive/experts/experts.html">Eye on the Experts</a></li>
 		<li><a href="/promotions.php?story=dispatchinteractive/Education/education.php">Education Marketplace</a></li>
 	</ul>
 	<!-- Ad for Left2 position -->
@@ -301,9 +337,7 @@ function launchwindow(url, name, parameters) {
 	</div>
 </div>		</td>
 <!-- BEGIN main content area -->
-
-		<td class="maincontent">
-
+		<td id="maincontent">
 <div id="services-main">
 	<div id="indexhedr">Privacy policy<p>&nbsp;</p></div> 
 	<h3><a href="#children">Also: Special note on children's privacy</a></h3>
@@ -358,7 +392,14 @@ function launchwindow(url, name, parameters) {
 	<p>Children are invited to share information on Dispatch.com when they participate in features of the NOW! section, such as contributing movie reviews, holiday greetings, short stories or entering contests. Children can respond to those features via U.S. mail or by email. This information -- the child's mailing address or email address -- is used or saved only to respond to the child if needed. It is not used for any other purpose. </p>
 
 	<p>If a parent chooses to not allow Dispatch.com to further collect or use the child's information, that parent can email us to request that the information be deleted. Please send email to: <a href="mailto:onlineed@dispatch.com">onlineeditors@dispatch.com.</a></p>
-</div>				 <div id="printeremail"> <a href="http://www.dispatch.com/print_template.php?story=dispatch/services/Faq/privacy.html"><img src="/images/printer_icon.gif" width="26" height="19" border="0" align="middle" alt="">&nbsp;<span class="quotedesc">Printer-friendly&nbsp;version</span></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="window.open('/email_me.php?send_to=/default.php<q>story=dispatch/services/Faq/privacy.html','email','location=no,status=no,width=770,height=480,resizable=yes'); return false;"><img src="/images/email_icon.gif" width="38" height="13" align="middle" border="0" alt="">&nbsp;<span class="quotedesc">E-mail&nbsp;this&nbsp;story</span></a></div>
+</div>				<div id="printeremail">
+ <a href="http://www.dispatch.com/print_template.php?story=dispatch/services/Faq/privacy.html"><img src="/images/printer_icon.gif" width="26" height="19" border="0" align="middle" alt="">&nbsp;<span class="quotedesc">Printer-friendly&nbsp;version</span></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="window.open('/email_me.php?send_to=/default.php<q>story=dispatch/services/Faq/privacy.html','email','location=no,status=no,width=770,height=480,resizable=yes'); return false;"><img src="/images/email_icon.gif" width="38" height="13" align="middle" border="0" alt="">&nbsp;<span class="quotedesc">E-mail&nbsp;this&nbsp;story</span></a><div id="posfourad">Article tools sponsored by:<br><script language="JavaScript1.1" type="text/javascript" src="http://adsrv.dispatch.com/RealMedia/ads/adstream_jx.ads/www.dispatch.com/articletools@Position4">
+</script>
+<noscript>
+	<a href="http://adsrv.dispatch.com/RealMedia/ads/click_nx.ads/www.dispatch.com/articletools@Position4">
+	<img  src="http://adsrv.dispatch.com/RealMedia/ads/adstream_nx.ads/www.dispatch.com/articletools@Position4" width="140" height="30" border="0" alt="" /></a>
+</noscript>
+</div>				</div>
 		</td>
 
 
@@ -368,7 +409,7 @@ function launchwindow(url, name, parameters) {
 
 <div id="footer">
   <div class="copyright">
-  <a href="/default.php" title="Go to Dispatch.com home page"><img src="/images/dispatchcom-logo.gif" alt="Dispatch.com home page" width="100" height="49" border="0"></a>
+  <a href="/default.php" title="Go to Dispatch.com home page"><img src="/images/dispatchcom-logo.gif" alt="Dispatch.com home page" border="0"></a>
     <p>©2004, The Columbus Dispatch</p>
     <p>Reproduction prohibited</p>
     <div id="srvr">•</div>
@@ -390,14 +431,16 @@ function launchwindow(url, name, parameters) {
       <li><a href="http://www.wbns10tv.com/" title="Go to WBNS10TV.com">WBNS (10TV)</a></li>
       <li><a href="http://www.ohionewsnow.com/" title="Go to ONNnews.com">Ohio News Network</a></li>
       <li><a href="http://www.1460thefan.com/" title="Go to 1460TheFan.com">1460 The Fan</a></li>
-      <li><a href="http://www.971moremusic.com/" title="Go to 971MoreMusic.com">97.1 More Music</a></li>
+      <li class="last"><a href="http://www.971moremusic.com/" title="Go to 971MoreMusic.com">97.1 More Music</a></li>
+    </ul>
+    <ul>
+    	<li><a href="http://www.xtrasandos.com/" title="Go to XtrasandOs.com">Xtras and O’s</a></li>
       <li><a href="http://www.thisweeknews.com/" title="Go to ThisWeekNews.com">ThisWeek Newspapers</a></li>
+      <li><a href="http://www.thebag.com/" title="Go to TheBag.com">TheBAG</a></li>
       <li class="last"><a href="http://www.columbusparent.com/" title="Go to ColumbusParent.com">Columbus Parent</a></li>
     </ul>
   </div>
-</div>
-
-</div>
+</div></div>
 
 <!-- Web Monitor End.  Do not delete this line. Iggy -->
 
