@@ -1,33 +1,47 @@
-> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407062932id_/http%3A//www.parkers.co.uk/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619011407id_/http%3A//parkers.co.uk/info/privacy) for the most accurate reproduction.*
 
-# parkers used car price guides - terms and conditions
+# Parker's - Parker's - Car prices, car reviews, news, buying guides, finance and insurance advice. Parkers.co.uk has the most comprehensive and accurate valuations for cars and vans in the UK.
 
-During your visit to the Parker’s Online website, you may be asked to provide personal information about yourself (eg name, address, email address, age etc). This would normally be for the purposes of registering for services like the message board, ‘write your own review’, online-purchasing (eg CarCheck guides) and any surveys or questionnaires we may be running. 
+**This is Parker's Online, part of the Parker's portfolio of products + services, owned by EMAP Automotive Ltd.**
 
-By entering your details in the fields requested, Parker’s Online will be able to provide you with these services. Our services are designed to give you information and guidance in the various aspects of the car buying, owning and selling processes. 
+Your use of this web site is subject to the following terms and conditions, which by using the web site you are deemed to accept: 
 
-This privacy policy has been adopted by Parker’s Online, a brand of Emap Digital Ltd. It sets out how we will use the personal information provided by you. We will only use your personal information for the purposes for which you give that information and for purposes stated in this policy or for which we receive your consent. We retain the right to modify this privacy statement at any time and you are advised to consult it on a regular basis. 
+**1\. Content Rights**
 
-We will only use your personal information for purposes for which you have consented. In particular we will not sell or rent your personal information to third parties unconnected to the products or services offered on this web-site without first obtaining your consent.
+The copyright and all other rights in all of the material on this site are owned by Emap Consumer Media Limited, or the material is included with the permission of the rights owner. 
 
-We only collect personal data which you give us voluntarily, however in order to offer you the information, content, offers and services which best meet your needs, we need to know you better. 
+As a visitor to this site, you may copy material on this site for your own private or domestic purposes, but no copying, adapting or transmitting for any purpose other than your own private or domestic purposes is permitted. 
 
-This also assists us in analysing the profile of our visitors better, which in turn helps us in our endeavours to improve the quality and quantity of the content, services and products available on our website. Information provided in surveys and questionnaires will be broken down into statistics and used for this purpose. 
+**2\. The Information on this site**
 
-According to the Data Protection Act, at any time you have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected (there will be a small administrative charge for information requests). Parker’s Online will not disclose your personal information to third parties without your consent. 
+Whilst we try to ensure that the information on this site is accurate and complete, we do not accept any liability arising from any inaccuracy or omission in the information on this site. We advise you to verify the accuracy of any information before relying on it. 
 
-In connection with the purposes for which you give us your personal information, we will need to process and store your personal information and may need to transfer it to e.g. our affiliates, data processors and other service providers for processing both inside and outside the European Economic Area. Please note that countries outside the EEA may not have the same level of protection as countries within the EEA, but we always demand that those parties to whom we transfer data adhere to the same security procedures that we follow ourselves.
+**3\. Links to Other sites**
 
-By submitting your personal information on this web site, you are giving your consent for this processing and those transfers of your personal information, and for any other purposes for which you give us your consent. In the event that we (or any of us) transfer the business which is providing goods or services to you to another supplier, you also agree that as part of the purchase your data may be transferred to the new supplier. 
+On this site you will be offered automatic links to other sites which we hope you will be interested in. Emap Consumer Media Limited does not accept any responsibility for the content of those sites, the owners of which do not necessarily have any link, commercial or otherwise, with Emap Consumer Media Limited. 
 
-If you do not agree with this privacy policy you should not submit your personal information on this website.
+**4\. Cookies**
 
-**Cookies**
+Our website makes use of cookies to record user sessions and is essential for our e-commerce services. 
 
-Like many other websites, we use Cookies to help us personalise the website so that it better meets your needs and allows us to identify you automatically when you return to the site. Distant ad servers and/or advertiser networks ([Doubleclick](http://www.doubleclick.net/us/corporate/privacy/)) which download ads directly on the Parker’s Online website also use their own Cookies. 
+If a user subsequently registers with us, we link previous and subsequent activities on parkers.co.uk to the current and future purchases. We only use the data collected for e-commerce functionality and for internal reports to monitor how our content is viewed and used along with its relative popularity. This allows us to make constant improvements for all of our website users. 
 
-A Cookie is a small computer file sent by a server and stored in your computer hard drive. It is perfectly safe and doesn’t affect the performance of your computer in any way. Most Internet browsers allow you to delete Cookies from your hard drive, deactivate them or receive a prior notice before they are registered on your computer. For more information on these functions, please refer to the instructions of your browser or to the ‘help’ window of your browser.
+Because the protocol used to access websites (HTTP) is stateless, our website needs to use cookies to identify and record the preferences you make during the use of our website. No personal information is stored in the cookies that are issued by the web site and the cookie will not be viewable by any other website (provided your browser does not contain flaws that allow this). To permanently disable cookies please follow the documentation that was provided with your web site browser application. Most have built-in help files that will show you a step by step guide to disable cookies. 
 
-**Security**
+When a website "sets a cookie" all the web server is does is returning a small, unique piece of text to your browser, along with the content that was requested. At no point can the Parker's web server control what your computer does with this text - the storage mechanism and location is totally dependant on the user's web browser. Usually your web browser will allow you to specify where cookies are stored and will often have buttons to delete or view the cookies. 
 
-In order to protect your privacy, we are registered in accordance with and seek to comply with the UK Data Protection Act 1998. We follow appropriate security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, the Internet is not a totally secure medium and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of personal data, except to the extent we are required to accept such responsibility by the Data Protection Act 1998.
+We also support Platform for Privacy Preferences (P3P) policies, which are a formal, well-specified and supported mechanism for ensuring that users can be informed about privacy policies before they release personal information. The compact P3P policy is contained in the HTTP header of every request we serve to users.
+
+**5\. Collection of personal details**
+
+If you contact us by completing a form on the web site, your e-mail address and, optionally, other personal information will be stored on our servers. This information will be used to contact you and to help us deal with your queries. To purchase any of our services or products you must register your details with the website. We secure all personal data using a password that the user chooses. If you wish to add, modify or delete any of the information that we hold about you, please login at: [https://secure.parkers.co.uk](https://secure.parkers.co.uk/) or use the contact us link (at the bottom of every page). 
+
+Any personal information you send us, for whatever purpose, is held in the strictest confidence and will not be disclosed to a third party without your express permission, unless legally required. We meet the UK Data Protection Requirements and our organisation is registered with the Data Protection Registrar. 
+
+**6\. General Terms**
+
+Nothing in these Terms of Use shall restrict or exclude any liability that we have to any party which can not be excluded by law. These Terms of Use shall be governed by English law and the courts of England and Wales shall have exclusive jurisdiction over any disputes arising in relation with this Web Site. 
+
+**7\. Feedback**
+
+If you have any concerns at all about our privacy policy, or have a dispute about how we are handling your personal data, then please let us know by clicking the contact us link (which is located at the bottom of every web page). 
