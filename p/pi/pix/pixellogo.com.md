@@ -1,0 +1,82 @@
+> *The following text is extracted and transformed from the pixellogo.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204163808id_/http%3A//www.pixellogo.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+
+# Logo Design by Pixellogo® - Help section
+
+[Pixellogo](https://web.archive.org/web/20041204163808id_/http%3A//www.pixellogo.com/home.php) :: Help zone
+
+|   Privacy Policy  
+---  
+  
+General
+
+**General**
+
+www.Pixellogo.com (Pixellogo) has adopted the following policy (the "Privacy Policy") that applies to the information about you that is collected, used and disclosed by Pixellogo in the course of its business activities, including the information collected, used and disclosed by you on the www.Pixellogo.com web site (the "Web Site"). Any acquisition or license by you of any product or service offered by Pixellogo (including products or services of third parties) or the use of the Web Site signifies your consent and agreement to the terms and conditions contained in this Privacy Policy, and to the collection, use and disclosure described herein of your personal information by Pixellogo. If you do not agree with the Privacy Policy, do not acquire or license a product or service offered by Pixellogo (including products or services of third parties) or use or access the Web Site or information, material, products or services provided therein. If at any time you wish to withdraw your consent to the collection, use and disclosure described herein of your personal information by Pixellogo, you may do so by contacting Pixellogo in the manner specified in the Changing or Updating Your Information or Your Privacy Preferences section below.
+
+You acknowledge and agree that Pixellogo may change, alter, amend or replace all or any part of the Privacy Policy at any time, and that such changes, alterations, amendments or replacements shall be effective as of the time of posting of the amended Privacy Policy to the Web Site. Pixellogo will provide notice on the Web Site of any material changes made to the Privacy Policy and your continued acquisition or licensing of products or services offered by Pixellogo (including products or services of third parties) or your use of the Web Site after the time of posting of such notice will constitute evidence of your acceptance of the changed, altered, amended or replaced Privacy Policy. You further agree to regularly review the Privacy Policy for such changes, alterations, amendments or replacements. If you do not agree with the changed, altered, amended or replaced Privacy Policy, do not acquire or license a product or service offered by Pixellogo (including products or services of third parties) and do not use or access the Web Site or information, material, products or services provided therein. If at any time you wish to withdraw your consent to the collection, use and disclosure described herein of your personal information by Pixellogo, you may do so by contacting Pixellogo in the manner specified in the Changing or Updating Your Information or Your Privacy Preferences section below.
+
+Pixellogo may contact you from time to time to notify you of any material changes, alterations, amendments or replacements to all or any part of the Privacy Policy provided that you have given Pixellogo your e-mail address and agreed that Pixellogo may contact you using that e-mail address.
+
+ **Collection of Information**
+
+When you access and use the Web Site, our web server automatically collects certain technical information ("Technical Information") about your visit to the Web Site, including your Internet Protocol (IP) address, referring IP address, the internet browser and the operating system used by you, and information on what web pages on the Web Site are accessed or used by you. In addition, if you have set up an Account (see below) and are signed in, the keywords you use to search for products are collected and may be matched with your Personal Information, as defined below.
+
+If you wish to access and use certain information, material, products and services offered by Pixellogo, including those offered on or through the Web Site or catalogues published by Pixellogo, Pixellogo will require that you set up an account ("an "Account") with Pixellogo and provide certain information about yourself ("Personal Information"). In setting up your Account, Pixellogo may require that you provide some or all of the following Personal Information: your full name, mailing address (including postal or ZIP code), e-mail address, employer, job title and department, telephone and facsimile numbers, user name and password. In addition to the information above, if you wish to purchase products or services, Pixellogo will require your credit card number and associated information. Pixellogo may also receive and collect information about you from other parties, including the third party vendors featured on the Web Site and from companies that operate a transactional database (see the discussion below in the Use and Disclosure of Information section for a more detailed description of what a transactional database is). The Technical Information and the Personal Information will be used by Pixellogo for the purposes set out below in the Use and Disclosure of Information section.
+
+ **Warning: Other Web Sites  
+**  
+Please note that other web sites may collect information about you when you visit the other web sites and that this Privacy Policy does not extend to information collected by such web sites, including those web sites that provide hypertext links to the Web Site and those web sites not controlled by Pixellogo that you may be directed to by hypertext links found on the Web Site. Web sites not controlled by Pixellogo are not covered by this Privacy Policy and Pixellogo does not accept any responsibility or liability for the collection, use or disclosure of information about you by any other web site. For information regarding the privacy policy on another web site, click on the privacy policy for that web site. **Use and Disclosure of Information**
+
+NO CONFIDENTIAL CLIENT OR VISITOR BILLING INFORMATION IS BEING COLLECTED ON OUR WEBSITE. THIS INCLUDES: NAME ON CREDIT CARD, CARD NUMBER & EXPIRY DATE. WE DO NOT COLLECT OR STORE ANY SORT OF CLIENT FINANCIAL INFORMATION, AND NONE OF PIXELLOGO STAFF WILL CONTACT YOU AND ASK YOU FOR ANY FINANCIAL INFORMATION.
+
+Pixellogo operates in various jurisdictions around the world, either virtually or through a local office or through an affiliate or subsidiary (each affiliate or subsidiary hereinafter referred to as an "Affiliate" and collectively as "Affiliates"), and in the course of its business operations will transfer or share information from one jurisdiction to another between its various offices or among its Affiliates. Pixellogo and its Affiliates may also store and process information in a jurisdiction other than the jurisdiction in which the information was collected. You acknowledge and agree that Technical and Personal Information may be transferred or shared from one jurisdiction to another between Pixellogo offices and among Pixellogo Affiliates and that such information may be stored and processed by Pixellogo and its Affiliates in a jurisdiction other than the jurisdiction in which the information is collected, including, without limitation, in Canada, the United States and the countries comprising the European Union.
+
+The information that is collected, stored and processed in the course of its business operations is used for a number of purposes, including processing the transactions you engage in with or through Pixellogo, providing customer service to you, communicating with you, informing you of or providing updates or upgrades to products or services, customizing and facilitating your use of the Web Site, improving, modifying or developing products and services, and marketing, including direct marketing of products and services offered by or through Pixellogo (including those of third parties) through the distribution (by e-mail or otherwise) of catalogues, advertisements or other publications to you. Pixellogo will also use Technical and Personal Information about you and aggregate it with Technical and Personal Information about others, such that no person is individually identifiable. Pixellogo will then use this aggregated information for web site analysis, product or service analysis, statistical analysis, or marketing and promotional purposes.
+
+Information about you is important to our business and we are not in the business of selling your information to others. The information that is collected, stored and processed by Pixellogo will only be disclosed to other parties in the circumstances outlined below.
+
+• Affiliates. Information will be disclosed to Affiliates as described above.
+
+• Disclosure for Legal Purposes. Pixellogo will disclose information about you if required to do so by law, court order or as requested by any other government or law enforcement authority. Pixellogo will also disclose information about you where Pixellogo, acting reasonably, believes that such disclosure is necessary or advisable, including when Pixellogo has reason to believe that the safety of Pixellogo employees, customers or others is at risk, or if disclosure of such information is necessary or advisable to identify, contact or bring legal action against someone who may be causing interference with Pixellogo's rights or properties, whether intentionally or otherwise, or when anyone else could be harmed in such activities.
+
+• 
+
+Sale of the Business. Pixellogo will disclose information about you to a purchaser in the unlikely event that Pixellogo sells all or a part of its business or if Pixellogo is acquired by, or merged with, another entity.
+
+• With Your Consent. With your prior consent, Pixellogo may disclose information about you in situations other than as provided above.
+
+ **Use of Cookies**
+
+When you visit the Web Site, we place a "cookie" on the hard drive of your computer to track your visit. A cookie is a small data file that is transferred to your hard drive through your web browser that can only be read by the web site that placed the cookie on your hard drive. The cookie functions similarly to an identification card and allows the Web Site to identify you and to record your passwords and preferences. The cookie allows Pixellogo to track your visit to the Web Site so that Pixellogo can better understand your use of the Web Site and your interest in the goods and services provided therein so that Pixellogo can customize and tailor the Web Site to better meet your needs. For a detailed description of what a "cookie" is, refer to this definition on the TechTarget web site.
+
+Most web browsers are set to accept cookies. However, on most web browsers you may change this setting to have your web browser either: (1) notify you prior to a web site placing a cookie on your hard drive so that you can decide whether or not to accept the cookie; or (2) automatically prevent the placing of a cookie on your hard drive. It should be noted that if cookies are not accepted, you will not be able to access a number of web pages. If you choose not to accept the cookies placed on your hard drive by Pixellogo, you will not be able to access a number of web pages found on the Web Site.
+
+ **Security**
+
+Pixellogo endeavors to provide a secure environment in which you can provide and obtain access to information about you. Pixellogo has security measures in place to prevent the modification, misuse, loss or misappropriation of information about you, including the provision of a secure environment in which the information is stored and controlling access to such information by parties external to Pixellogo.
+
+One such security measure used by Pixellogo is assigning you a user identification and password upon setting up an Account with Pixellogo. You acknowledge and agree that the user identification provided by Pixellogo to you so that you may access, utilize or otherwise enjoy the Web Site and the password selected by and used by you in conjunction with the user identification to access, utilize or otherwise enjoy the Web Site are to be kept secret and confidential. You shall not disclose the user identification or password to any other party without the express written permission of Pixellogo. You further acknowledge and agree that you will be responsible for each and every access, use or enjoyment of the products or services and of the content that occurs in conjunction with the password and user identification given to you by Pixellogo, and that Pixellogo is authorized to accept the user identification and password as conclusive evidence that you have accessed, utilized, or otherwise enjoyed the products or services or the content.
+
+ **Changing or Updating Your Information or Your Privacy Preferences**
+
+You may, at any time, view or update all of your information stored in your Account, including your privacy preferences, by either logging into your Account on the Web Site and following the appropriate links or by contacting Pixellogo directly as set out in the Contact Us section below. We ask that you review your Account information regularly to assist Pixellogo in ensuring that your information remains accurate and up-to-date.
+
+In some cases, Pixellogo may not be able to provide you with all the information that it has collected about you. This would occur if provision of the information could lead to disclosure of another individual's personal information, where laws or regulations prevent disclosure, or where it would simply be too costly to provide the information such as a request to provide you with a detailed history of every web page on the Web Site visited by you. If Pixellogo decides not to disclose some or all of the information collected about you, Pixellogo will advise you of the reason.
+
+You may also withdraw your consent to the terms and conditions contained in this privacy policy by providing notice in writing to that effect delivered to the address as specified in the Contact Us section below. However, please note that if you do withdraw your consent to the provisions of this Privacy Policy, Pixellogo will cancel your Account. You further acknowledge and agree that you will not, after withdrawing your consent to the provisions of this Privacy Policy, acquire or license a product or service offered by Pixellogo (including products or services of third parties) or use or access the Web Site or information, material, products or services provided therein. You may however continue to use products acquired or licensed prior to the cancellation of your Account. If you acquire or license any product or service offered by Pixellogo (including products or services of third parties) or use the Web Site after withdrawing your consent, such action signifies your consent and agreement to the terms and conditions contained in this Privacy Policy, and to the collection, use and disclosure described herein of your personal information by Pixellogo.
+
+ **Accountability and Complaints**
+
+In the event that you have a complaint with respect to our products and services, please forward a written statement of your complaint to Pixellogo.com, where we will within thirty (7) days review your complaint and advise you, as to the response to your request, or in the event that we need to extend the time that it will take us to respond to your request, or have to refuse your request, we will tell you why (subject to any legal restrictions) we are unable to respond to your request within the time period.
+
+ **Contact Us**
+
+You may contact Pixellogo, through the following means:
+
+P.O. Box 1421,Succ. St-Martin, Laval, QC, H7V 3P7, Canada.
+
+See also: [Terms of Use](http://www.pixellogo.com/store/customer/help.php?section=conditions) for this web site. 
+
+   
+  
+ 
