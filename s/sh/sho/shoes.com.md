@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608210454id_/http%3A//www.shoes.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212035347id_/http%3A//www.shoes.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
