@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the shrm.org privacy policy that was archived on 2003-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621165701id_/http%3A//www.shrm.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shrm.org privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203032208id_/http%3A//www2.shrm.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-US"><head>
 <title>SHRM Online Privacy Statement</title>
+
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta http-equiv="Content-Language" content="en-us">
 
@@ -32,6 +33,18 @@ function openPersistentExternal( link, h, w )
     persistent = window.open( link, "persistent", "height="+h+",width="+w+",resizable,scrollbars");
     persistent.focus();
 }
+
+// ...................................................... openPersistentExternalBars
+// Display a url in a subordinate window with menu and tool bars.
+//
+function openPersistentExternalBars( link, h, w )
+{
+    if( ! h ) h = 600;
+    if( ! w ) w = 800;
+    persistent = window.open( link, "persistent", "height="+h+",width="+w+",menubar=yes,toolbar=yes,resizable,scrollbars");
+    persistent.focus();
+}
+
 
 // ...................................................... openExternal
 // Display a url in a subordinate window.  This window
@@ -68,6 +81,15 @@ function checkNetMac()
     {
         return true;
     }
+}
+
+
+function setStyles(){
+		if(checkNetMac()){
+		document.write("<link rel='stylesheet' type='text/css' href='styles_net.css'>");
+		} else {
+		document.write("<link rel='stylesheet' type='text/css' href='styles_ie.css'>");
+	}
 }
 
 // ...................................................... wrtForm
@@ -216,13 +238,31 @@ function setDate()
             <table border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
                 <td background="/images/bg02.gif" height="82" align="center">
-<!-- Ad count: 1 -->
+<!-- Ad count: 2 -->
 <!-- Ad sql: select href,imgsrc,height,width,ifrsrc,ilysrc from bannerads left join adtype on adtype_id=id where name='Band-Aid' and page ='' -->
-<a href="/conferences/annual/"><img src="/images/Ads/061603_annualsavings.gif" border="0" width="120" height="60" alt="Advertisement"></a>
+
+<!-- Result to use: 0 -->
+<a href="/jobs/"><img src="/images/Ads/BandAids/SalesMrktg/HRJobs_bandaid.gif" border="0" width="120" height="60" alt="Advertisement"></a>
 <img src="/images/blank.gif" alt="" width="20" height="1" align="absmiddle">
-<!-- Ad count: 1 -->
-<!-- Ad sql: select href,imgsrc,height,width,ifrsrc,ilysrc from bannerads left join adtype on adtype_id=id where name='Large Banner' and page ='' -->
-<iframe src="http://ad.doubleclick.net/adi/shrm.dart/home;sz=468x60;ord=687685?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"><a href="http://ad.doubleclick.net/jump/shrm.dart/home;abr=!ie;sz=468x60;order=687685?"><img src="http://ad.doubleclick.net/ad/shrm.dart/home;abr=!ie;sz=468x60;order=687685?" border="0" width="468" height="60" alt="Advertisement"></A></iframe></td>
+<!-- begin ad tag -->
+
+<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/shrm.dart/home;abr=!webtv;sect=home;pos=banner;sz=468x60;tile=1;ord=1206783473?">
+</script> 
+ 
+<script> 
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+document.write('<A HREF="http://ad.doubleclick.net/jump/shrm.dart/home;sect=home;pos=banner;sz=468x60;tile=1;ord=1206783473?">');
+document.write('<IMG SRC="http://ad.doubleclick.net/ad/shrm.dart/home;sect=home;pos=banner;sz=468x60;tile=1;ord=1206783473?" border="0" height="60" width="468"></A>') 
+} 
+</script> 
+
+<noscript> 
+<A HREF="http://ad.doubleclick.net/jump/shrm.dart/home;sect=home;pos=banner;sz=468x60;tile=1;ord=1206783473?" >
+<IMG SRC="http://ad.doubleclick.net/ad/shrm.dart/home;sect=home;pos=banner;sz=468x60;tile=1;ord=1206783473?" border="0" height="60" width="468"></A>
+</noscript>
+
+<!-- end ad tag -->
+</td>
               </tr>
               <tr>
                 <td>
@@ -310,7 +350,7 @@ function setDate()
               <tr><td height="3"></td></tr>
               <tr> 
                 <td width="7"></td>
-            		<form action="http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.SHRMSearch" method="POST"></form>
+            		<form action="http://search.shrm.org/search/servlet/Search" method="POST"></form>
                 <td valign="top">
            		  <input type="text" name="querytext" size="10">
                   <input type="submit" value="FIND" class="findbutton">
@@ -323,7 +363,7 @@ function setDate()
               <tr>
                 <td width="7"></td>
                 <td class="normal">
-                  <a href="http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.SHRMAdvSearch" class="und01">Advanced Search</a>
+                  <a href="http://search.shrm.org/search" class="und01">Advanced Search</a>
                 </td>
               </tr>
               <tr> 
@@ -337,6 +377,31 @@ function setDate()
                   <table border="0" cellpadding="0" cellspacing="0">
                     <tbody><tr>
                       <td>
+                        <a href="/education/about.asp"><img src="/images/certificationprep.gif" width="108" height="9" border="0" alt="Help Getting Certified"></a>
+                      </td>
+                    </tr>
+					<tr>
+                <td align="center"><img src="images/leftnav_divideline.gif" width="131" height="1" border="0" alt=""></td>
+              </tr>
+                    <tr>
+                      <td>
+                        <a href="/reachingmembers/"><img src="/images/advertise.gif" width="107" height="9" border="0" alt="[Link]: Advertise &amp; Exhibit"></a>
+                      </td>
+                    </tr>
+
+			  		<tr>
+                <td align="center"><img src="images/leftnav_divideline.gif" width="131" height="1" border="0" alt=""></td>
+              </tr>
+                    <tr>
+                      <td>
+                        <a href="http://shrmstore.shrm.org/shrm/"><img src="/images/store2.gif" width="101" height="9" border="0" alt="[Link]: SHRMStore"></a>
+                      </td>
+                    </tr>
+				<tr>
+                <td align="center"><img src="images/leftnav_divideline.gif" width="131" height="1" border="0" alt=""></td>
+              </tr>
+					<tr>
+                      <td>
                         <a href="/press"><img src="/images/press.gif" width="70" height="9" border="0" alt="[Link]: Press Room"></a>
                       </td>
                     </tr>
@@ -348,22 +413,8 @@ function setDate()
                         <a href="/chapters/resources/"><img src="/images/volunteer.gif" width="128" height="9" border="0" alt="[Link]: Volunteer Resources"></a>
                       </td>
                     </tr>
-					<tr>
-                <td align="center"><img src="images/leftnav_divideline.gif" width="131" height="1" border="0" alt=""></td>
-              </tr>
-                    <tr>
-                      <td>
-                        <a href="http://shrmstore.shrm.org/shrm/"><img src="/images/store.gif" width="69" height="9" border="0" alt="[Link]: SHRMStore"></a>
-                      </td>
-                    </tr>
-					<tr>
-                <td align="center"><img src="images/leftnav_divideline.gif" width="131" height="1" border="0" alt=""></td>
-              </tr>
-                    <tr>
-                      <td>
-                        <a href="/reachingmembers/"><img src="/images/advertise.gif" width="107" height="9" border="0" alt="[Link]: Advertise &amp; Exhibit"></a>
-                      </td>
-                    </tr>
+					
+					
                   </tbody></table>
                 </td>
               </tr>
@@ -528,7 +579,7 @@ Instructions for opting out of any SHRM e-mail newsletter you receive are includ
 
 </p><p>
 <b>7.  What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?</b><br>
-SHRM Online has security measures, such as firewalls, in place to attempt to protect against the loss, misuse and alteration of your user data under our control.  SHRM has implemented strict rules for employees who have access either to the databases that store  user information or to the servers that host our services.  While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions to prevent such unfortunate occurrences. Any other particularly sensitive information, such as your credit card number, collected for a commerce transaction is encrypted prior to transmission. 
+SHRM Online has security measures, such as firewalls, in place to attempt to protect against the loss, misuse and alteration of your user data under our control.  While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions to prevent such unfortunate occurrences. Any other particularly sensitive information, such as your credit card number, collected for a commerce transaction is encrypted prior to transmission. 
 </p><p>
 You are ultimately responsible for the security of your SHRM member ID and password.  You may not share your SHRM member ID and password with colleagues or friends so they can access content or features on SHRM Online that are restricted to SHRM members only. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
 
@@ -595,11 +646,14 @@ This site makes bulletin boards, discussion lists, and moderated chats available
                   283-SHRM; <br>
                   <b><span class="hedshrm">Phone</span></b> International: 
                   +1 (703) 548-3440<br>
+				  
+				  <b><span class="hedshrm">TTY/TDD</span></b>  (703) 548-6999<br>
+				  
                   <b><span class="hedshrm">Fax</span></b> (703) 535-6490<br>
                   <b><span class="hedshrm">Questions?</span></b> <a href="/help/" class="hedshrm">Contact 
-                  SHRM</a><br>
+                  SHRM</a><br><!--
                   <b><span class="hedshrm">Technical Assistance</span></b> 
-                  <a href="/webhelp/" class="hedshrm">webhelp@shrm.org</a><br>
+                  <a href="/webhelp/" class="hedshrm">webhelp@shrm.org</a><br>-->
                   <b><span class="hedshrm">Careers</span></b> <a href="/jobs/career/" class="hedshrm">Careers 
                   @ SHRM</a><br>
                   <b><br>
@@ -616,6 +670,7 @@ This site makes bulletin boards, discussion lists, and moderated chats available
         </tr>
       </tbody></table>
     </td>
+
     <!-- **************************************** -->
     <!--           END MAIN DOCUMENT              -->
     <!-- **************************************** -->
