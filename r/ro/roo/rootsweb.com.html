@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rootsweb.com privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602193015id_/http%3A//www.rootsweb.com/rootsweb/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rootsweb.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203103217id_/http%3A//www.rootsweb.com/rootsweb/privacy.html) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/aboutus section.dwt" --><head>
 <!-- #BeginEditable "doctitle" --> 
@@ -33,24 +33,52 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script>
-<!---  Begin OAS browser test -->
-
-<script language="JavaScript"> <!--
-_version=10;
-// -->
+<!------ OAS SETUP begin ------>
+<script language="JavaScript">
+<!--
+//configuration
+OAS_url = 'http://adserver.ancestry.com/RealMedia/';
+//OAS_sitepage = window.location.hostname + window.location.pathname;
+OAS_sitepage = 'www.rootsweb.com/websites';
+OAS_listpos = 'Top,Position1';
+OAS_query = '';
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' +
+OAS_rns + '@' +
+OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' +
+OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+}
+//-->
 </script>
 <script language="JavaScript1.1">
-_version=11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1){
-_version=10;
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 ||
+navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url +
+'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' +
+OAS_query + '"><\/SCRIPT>');//-->
+</script><script language="JavaScript1.1" src="http://adserver.ancestry.com/RealMedia/adstream_mjx.ads/www.rootsweb.com/websites/1190426632@Top,Position1?"></script>
+<script language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) {
+  if (OAS_version >= 11)
+    OAS_RICH(pos);
+  else
+    OAS_NORMAL(pos);
 }
+//-->
 </script>
-<!-- End Of OAS browser test -->
-
-<!-- Begin OAS function definition -->
-<script language="JavaScript" src="http://img.rootsweb.com/ss/oas.js">
-</script>
-<!-- End of OAS Function Definition -->
+<!------ OAS SETUP end ------>
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('http://img.rootsweb.com/mh/searchr.gif','http://img.rootsweb.com/mh/treesr.gif','http://img.rootsweb.com/mh/listsr.gif','http://img.rootsweb.com/mh/boardsr.gif','http://img.rootsweb.com/mh/sitesr.gif','http://img.rootsweb.com/mh/passwordsr.gif','http://img.rootsweb.com/mh/helpr.gif','http://img.rootsweb.com/mh/homer.gif')">
@@ -83,8 +111,7 @@ _version=10;
  <area shape="rect" coords="616,1,767,69" href="http://www.ancestry.com/" alt="Ancestry - Over 1 Billion Names" title="Ancestry - Over 1 Billion Names">
 </map>
 <br>
-<center><a href="http://banner.rootsweb.com/cgi-bin/newgo.cgi?pos=110545822061991688207"><img src="http://banner.rootsweb.com/cgi-bin/newbanner.cgi?set=bblue&amp;site=www&amp;pos=110545822061991688207" width="468" height="60" border="0" alt="Support RootsWeb"></a><br></center>
-
+<center><script language="JavaScript">OAS_AD('Top');</script></center>
 
 <br>
 <center>
@@ -265,9 +292,8 @@ Provo, UT 84604 </p>
   Copyright</a><br>
   Copyright © 1998-2002, MyFamily.com Inc. and its subsidiaries.</font> </p>
 </center>
-<script language="JavaScript">
-if (typeof oas != "undefined") { DisplayAds('Position1', 0, 0 ); }
-</script>
+<script language="JavaScript">OAS_AD('Position1');</script>
+<script language="Javascript" src="http://id.ancestry.com/html/script/TSpacer.js"></script>
 
 <!-- #BeginEditable "Omniture Tag" -->
 <script language="JavaScript">
