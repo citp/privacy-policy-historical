@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paytoclick.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208221500id_/http%3A//www.paytoclick.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytoclick.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616131746id_/http%3A//www.paytoclick.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Pay to click
 
