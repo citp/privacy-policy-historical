@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrowheadcu.org privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218105017id_/http%3A//www.arrowheadcu.org/acu/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrowheadcu.org privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609061949id_/http%3A//www.arrowheadcu.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Arrowhead Credit Union
 
@@ -45,7 +45,7 @@ We believe our members should have the right to decline disclosure of personal i
 “Do not email” excludes the member’s name from all Internet marketing campaigns.
 
 **Request for Removal from Special Mailing Lists**  
-If you wish to be taken off our account mailing and telemarketing lists for marketing and promotional offers, simply fill out this form and send it to Arrowhead Central Credit Union, PO Box 735, San Bernardino, CA 92402. Or fax it to (909) 882-0895 or email the form to [info@arrowheadcu.org](mailto:info@arrowheadcu.org). Please allow 3 to 4 weeks for your request to take effect. Once your request has been processed, it will remain in effect until you request a change.  
+If you wish to be taken off our account mailing and telemarketing lists for marketing and promotional offers, simply fill out this form and send it to Arrowhead Credit Union, PO Box 735, San Bernardino, CA 92402. Or fax it to (909) 882-0895 or email the form to [info@arrowheadcu.org](mailto:info@arrowheadcu.org). Please allow 3 to 4 weeks for your request to take effect. Once your request has been processed, it will remain in effect until you request a change.  
 
 
 I prefer not to receive (check all that apply): 
