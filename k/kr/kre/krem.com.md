@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231025538id_/http%3A//www.krem.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305222246id_/http%3A//www.krem.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KREM.com | News for Spokane, Washington | Privacy Policy
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1156202448/Left/default/empty.gif/7a2f486f6556347a594e414144704e54?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/976429338/Left/default/empty.gif/7a2f486f6556347a594e4d4144542f30?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1836358155/Left1/default/empty.gif/7a2f486f6556347a594e414144704e54?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/960186389/Left1/default/empty.gif/7a2f486f6556347a594e4d4144542f30?x)
 
 | 
 
@@ -124,6 +124,6 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 | 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1976483373/Position4/default/empty.gif/7a2f486f6556347a594e414144704e54?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1993656859/Position4/default/empty.gif/7a2f486f6556347a594e4d4144542f30?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/401787333/Position5/default/empty.gif/7a2f486f6556347a594e414144704e54?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/450713605/Position5/default/empty.gif/7a2f486f6556347a594e4d4144542f30?x)
