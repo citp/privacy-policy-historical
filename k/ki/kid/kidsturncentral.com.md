@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsturncentral.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208214640id_/http%3A//www.kidsturncentral.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsturncentral.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621134228id_/http%3A//www.kidsturncentral.com/privacy.htm) for the most accurate reproduction.*
 
 # Kids' Turn Central - Privacy Policy
 
@@ -14,7 +14,7 @@ You are encouraged to surf with parental permission.
 **General Policy:**  
 Information Collected: Only information voluntarily submitted will be collected and used solely for the purpose indicated. We will not require a Visitor to disclose more information than is reasonably necessary to participate in an activity on the site as a condition of such participation. 
 
-As with most sites, certain non-personally identifiable information is recorded by the standard operation of our web host server, [FatCow.com](http://www.fatcow.com/privacy.shtml). Such information may include: the name of the ISP from which a Visitor accesses the Internet, the date and time a Visitor accessed the Site, the Internet address of the Web site from which a Visitor entered our Site and where a Visitor goes after leaving this Site. This information is used to measure and monitor the use of our Site and to improve its content. Data which would personally identify a Visitor is known only when voluntarily submitted. 
+As with most sites, certain non-personally identifiable information is recorded by the standard operation of our web host server, [FatCow.com](http://www.fatcow.com/privacy.html). Such information may include: the name of the ISP from which a Visitor accesses the Internet, the date and time a Visitor accessed the Site, the Internet address of the Web site from which a Visitor entered our Site and where a Visitor goes after leaving this Site. This information is used to measure and monitor the use of our Site and to improve its content. Data which would personally identify a Visitor is known only when voluntarily submitted. 
 
 Off Site Links: The content of kidsturncentral.com is designed for family use. In addition to our own content, we may also provide links to web sites children may be interested in. We do screen the other sites initially, but in the end, we cannot be responsible for what appears on other sites. We are also not responsible for the privacy policies of those other sites. 
 
