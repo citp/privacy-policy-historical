@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comtrust.ae privacy policy that was archived on 2002-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021222225002id_/http%3A//www.comtrust.ae/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comtrust.ae privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603232131id_/http%3A//www.comtrust.ae/docs/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,6 +68,6 @@ Conclusion
 Your privacy concerns are important to us. Please contact [info@comtrust.ae](mailto:info@comtrust.ae) for any queries regarding our privacy policy.  
   
    
-[Home](https://web.archive.org/web/20021222225002id_/http%3A//www.comtrust.ae/default.htm)  |  [Quality Policy](https://web.archive.org/web/20021222225002id_/http%3A//www.comtrust.ae/docs/quality.htm)  |  [Privacy Policy](https://web.archive.org/web/20021222225002id_/http%3A//www.comtrust.ae/docs/privacy.htm)  |  [Jobs](http://jobs.etisalat.co.ae/recruit/)  |  [Contact Us](https://web.archive.org/web/20021222225002id_/http%3A//www.comtrust.ae/docs/contactus.htm)  
-©2002 Comtrust. All Rights Reserved   
+[Home](https://web.archive.org/web/20030603232131id_/http%3A//www.comtrust.ae/default.htm)  |  [Quality Policy](https://web.archive.org/web/20030603232131id_/http%3A//www.comtrust.ae/docs/quality.htm)  |  [Privacy Policy](https://web.archive.org/web/20030603232131id_/http%3A//www.comtrust.ae/docs/privacy.htm)  |  [Jobs](http://www.etisalat-careers.ae/)  |  [Contact Us](https://web.archive.org/web/20030603232131id_/http%3A//www.comtrust.ae/docs/contactus.htm)  
+©2003 Comtrust. All Rights Reserved   
  
