@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the d2g.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601080856id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d2g.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170722id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
 
-# Deerfield.com Privacy Statement
+# privacy statement from Deerfield.com
 
   
 
