@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rateitall.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221605id_/http%3A//www.rateitall.com/wt-privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateitall.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723102350id_/http%3A//www.rateitall.com/wt-privacy_policy.aspx) for the most accurate reproduction.*
 
 # RateItAll - Ratings and Reviews of Everything
 
-|  |  | 
+| 
 
 The bottom line is that RateItAll will NOT release your personal information without your consent. 
 
