@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eteamz.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607045246id_/http%3A//www.eteamz.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eteamz.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208124115id_/http%3A//www.eteamz.com/company/privacy) for the most accurate reproduction.*
 
 # eteamz: Privacy Policy
 
@@ -25,6 +25,6 @@ In order to access certain Subscriber Services within the site, you may be asked
 
 Registration Data is the property of eteamz. eteamz maintains a secured area on the Site for transmission of Registration Data, and stores all Registration Data in a database that is subject to industry standard security protection. eteamz may sell, rent, share, swap or otherwise disclose your Registration Data to any third party unless you select the "opt out" option as described above. eteamz reserves the right to use your Registration Data to send you information about eteamz, the site, eteamz products and services, and other topics in which you have indicated an interest, whether or not you opt out of having your data provided to third parties or eteamz affiliates. 
 
-You may acquire information about your Registration Data by contacting the Customer Support Department. You may send email to [websupport@eteamz.com](mailto:websupport@eteamz.com).
+You may acquire information about your Registration Data by contacting the Customer Support Department. [Click here](https://web.archive.org/support/websites/#other) to contact eteamz Support.
 
-Use of the eteamz Site is conditioned on your provision of requested information in an accurate and truthful fashion. If you choose not to provide such information, you may not be able to access some or all of the Site. You may cancel your account at any time by sending an email to eteamz at 
+Use of the eteamz Site is conditioned on your provision of requested information in an accurate and truthful fashion. If you choose not to provide such information, you may not be able to access some or all of the Site. You may cancel your account at any time by contacting eteamz Support. [Click here](https://web.archive.org/support/websites/#other) to contact eteamz Support. Once eteamz has finished processing the cancellation, eteamz will delete all your Registration Data from its database. Although eteamz will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be guaranteed to be secure. eteamz has no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties.
