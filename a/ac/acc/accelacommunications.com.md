@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203082039id_/http%3A//www.accelacommunications.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629085215id_/http%3A//www.accelacommunications.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Accela Communications - Privacy Policy
 
-**Privacy Statement for  
+**Privacy Policy for  
 Accela Communications, Inc. **
 
-Accela Communications, Inc. provides this privacy statement to ensure clear notice and understanding of our information gathering and dissemination practices. We are committed to notify you of the following: 
+Accela Communications, Inc. provides this privacy policy to ensure clear notice and understanding of our information gathering and dissemination practices. We are committed to notify you of the following: 
 
   1. What personally identifiable information is collected and how the information is used.
   2. With whom collected information may be shared. 
@@ -21,7 +21,7 @@ Accela Communications collects optional data supplied by visitors through variou
 Accela Communications, Inc. and its customers offer optional information services that require registration. Accela Communications provides some of those services directly while others are provided on behalf of third parties. 
 
 **a.** Information that is collected directly on behalf of Accela Communications may be used to send relevant informa-  
-tion about our products and services. This information is sent only to users who opt-in to receive such information and is delivered directly by Accela Communications. Users always have the ability to opt-out of receiving any future mailings. (See the choice/opt-out section below.) This information may also be used to contact users for the administration of prizes and rewards or to respond to customer service requests. 
+tion about our products and services. Users always have the ability to opt-out of receiving any future mailings. (See the choice/opt-out section below.) This information may also be used to contact users for the administration of prizes and rewards or to respond to customer service requests. 
 
 **b.** Accela Communications, Inc. owns and operates the ITworld.com Site Network. By registering as a member of the ITworld.com Site Network, you will be given unrestricted access to a collection of sponsored content. In return for this content access, your registration data may be shared with the sponsor of that content. Information once transmitted to one of these sponsor companies may also be subject to that company's privacy policy. 
 
