@@ -1,23 +1,15 @@
-<!--The following is the downloaded HTML source of the sfweekly.com privacy policy that was archived on 2000-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000520044454id_/http%3A//www.sfweekly.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sfweekly.com privacy policy that was archived on 2000-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001215115500id_/http%3A//sfweekly.com/about/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>
-SF Weekly | About | SF Weekly Privacy Policy
-</title>
-<meta name="Description" content="sfweekly.com features, site map, and tools guide, plus SF Weekly staff, awards, job openings, and advertising">
-<meta name="Keywords" content="SF Weekly, San Francisco Weekly, San Francisco newspapers, San Francisco news, Bay Area news, Bay Area newspapers, newsweeklies, weeklies, free weeklies, alternative weeklies, alternative press, Oakland, Berkeley, East Bay, San Francisco music, San Francisco music scene, San Francisco local music scene, San Francisco bands, San Francisco concerts, San Francisco clubs, Bay Area music, Bay Area music scene, Bay Area local music scene, Bay Area bands, Bay Area concerts, Bay Area clubs">
+<!-- Begin standard_html_header (actually it start above the html tag) -->
 
-<style type="text/css">
-<!--
-a {  text-decoration: none }
--->
-</style>
+<title>SF Weekly Online -- sfweekly.com | About</title>
 
-<!-- BEGIN NETGRAVITY JAVASCRIPT -->
-<script language="JavaScript">
+<!-- Begin control_panel/products/nitsite/ntcity/javascript -->
+
+<script language="javascript">
 <!--//
-
 function adsize(width,height) {
 this.width = parseInt(width,10);
 this.height = parseInt(height,10);
@@ -27,12 +19,11 @@ var a = new adsize(468,60);
 var b = new adsize(120,240);
 var c = new adsize(120,60);
 var d = new adsize(120,90);
-var v = new adsize("120v");
+var v = new adsize("120v");     
 
-
-function ad(site,category,size,id) {
-if (size == "") { 
-    size = "a"; 
+function ad(site,category,size,id,ad_loc) {
+if (size == "") {
+    size = "a";
 } // default size
 if (size == "v") {
    var size_name = "120v";
@@ -44,227 +35,759 @@ var ad = "";
 var path_info = "site=" + site +
                 "&category=" + category +
                 "&size=" + size_name +
+                "&loc=" + ad_loc +
                 "&id=" + id;
-var yourHREF = "http://206.138.64.60/click.ng/" + path_info; 
-var yourSRC = "http://206.138.64.60/image.ng/" + path_info; 
+var yourHREF = "http://ads.newtimes.com/click.ng/?" + path_info;
+var yourSRC = "http://ads.newtimes.com/image.ng/?" + path_info;
 var newDate = new Date;
 var seq = "" + newDate.getTime();
-ad = "<A HREF=" + yourHREF + 
-     "&transactionID=" + seq + 
+ad = "<A HREF=" + yourHREF +
+     "&transactionID=" + seq +
      ">";
-ad += "<CENTER><IMG SRC=" + yourSRC + 
-     "&transactionID=" + seq; 
+ad += "<CENTER><IMG SRC=" + yourSRC +
+     "&transactionID=" + seq;
 if (eval(size + ".width")) {
    ad += " WIDTH=" + eval(size + ".width");
 } // if
 if (eval(size + ".height")) {
    ad += " HEIGHT=" + eval(size + ".height");
 } // if
-ad += " BORDER=0 ALT='Advertisement'></CENTER></a>";
+ad += " BORDER=0 ALT='advertisement'></CENTER></a>";
 document.write(ad);
 } // function
 //-->
+
+
+<!-- Start eLink  -->
+
+<!--//
+function openElink() {
+window.open("http://www.sfweekly.com/about/elink.html","thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
+}
+//-->
+
+<!--//
+function openElink2(theLink) {
+window.open(theLink,"thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
+}
+//-->
+
+<!-- End eLink -->
+
+
+<!-- START FRAMEJACKER -->
+
+<!--//
+
+var fromref = document.referrer;
+var referPat = /newtimes.com/;
+var matchPat = fromref.match(referPat);
+
+if (matchPat == null){
+  if(top.location != self.location) {
+  top.location = self.location
+  }
+}
+
+//-->
+
+<!-- END FRAMEJACKER -->
+
+<!-- START FIELD CLEAR -->
+
+<!--//
+
+var cleared = 0;
+function clearField(field){
+   if (cleared != 1){   
+      field.value = "";
+      cleared=1;}
+    else
+           cleared = 0;
+}
+
+//-->
+
+<!-- END FIELD CLEAR -->
+
 </script>
-<!-- END NETGRAVITY JAVASCRIPT -->
+
+  <!-- Begin /local_javascript/local_jscript -->
+    <script language="JavaScript">
+
+<!--
+
+   function openWin() {
+    aWindow = window.open("window/index.html","movie", "target=_blank,left=220,top=220,height=238,width=400, toolbar=0,directories=0,menubar=0,status=1,resizable=0,location=0,scrollbars=0,copyhistory=0");
+        self.name = "opener"; 
+ }          
+
+
+// Use this function to retrieve a cookie.
+function getCookie(name){
+var cname = name + "=";               
+var dc = document.cookie;             
+    if (dc.length > 0) {              
+    begin = dc.indexOf(cname);       
+        if (begin != -1) {           
+        begin += cname.length;       
+        end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));
+        } 
+    }
+return null;
+}
+
+// Use this function to save a cookie.
+function setCookie(name, value, expires) {
+document.cookie = name + "=" + escape(value) + "; path=/" +
+((expires == null) ? "" : "; expires=" + expires.toGMTString());
+}
+
+
+// Function to display welcome message if new visitor.
+function showWelc() {
+    if (getCookie(cookieName) == null ||      
+        getCookie(cookieName) == "welcome") { 
+    setCookie(cookieName, "welcome", exp);    
+    openWin();               
+    }
+    else {
+    setCookie(cookieName, "nowelcome", exp);  
+    }
+}
+
+// Function to toggle welcome message.
+function toggleWelc() {
+    if (getCookie(cookieName) == "welcome") setCookie(cookieName, "nowelcome", exp);
+    else setCookie(cookieName, "welcome", exp); 
+}
+
+// Function to display a form that allows welcome message to be toggled.
+function showForm() {
+    if (getCookie(cookieName) == null || 
+        getCookie(cookieName) == "welcome") {
+    document.write('<FORM><INPUT TYPE = "CHECKBOX" onClick = "toggleWelc()">');
+    document.write('Don\'t show this again</FORM>');
+    }
+}
+
+var exp = new Date();
+exp.setTime(exp.getTime() +  (24 * 60 * 60 * 1000 * 31)); 
+var cookieName = 'romance1'; 
+// Your welcome message:
+var theMessage = 'First time here big boy?';
+
+// -->
+
+</script>
+
+
+        <script language="JavaScript">
+
+        
+        // The Array Function 
+        
+        function makeArray(len) {
+            for (var i = 0; i < len; i++) this[i] = null;
+        this.length = len;
+        }
+        
+        // This is where the array of text/images/sounds is created.
+        
+        ideas = new makeArray(5);
+        ideas[0] = '<img src="art/wshead2a.gif">';
+        ideas[1] = '<img src="art/wshead2b.gif">';
+        ideas[2] = '<img src="art/wshead2c.gif">';
+        ideas[3] = '<img src="art/wshead2d.gif">';      
+        ideas[4] = '<img src="art/wshead2e.gif">';      
+        
+        // The random number generator.
+        
+        function rand(n) {
+        seed = (0x015a4e35 * seed) % 0x7fffffff;
+        return (seed >> 16) % n;
+        }
+                
+        var now = new Date()
+        var seed = now.getTime() % 0xffffffff
+        
+        
+
+</script>
 
 <script language="JavaScript">
+
 <!--- Hide from tired old browsers
-                        function window_open(filename, x, y)
-                        {
-                          windowops = eval("'toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=yes,left=40,top=40,width=" + x + ",height=" + y + "'");
-                          window.open(filename, 'New1', windowops);
-                          return;
-                        }
+  function window_open(filename, x, y)
+  {
+  windowops = eval("'toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=yes,left=20,top=20,width=" + x + ",height=" + y + "'");
+  window.open(filename, 'New1', windowops);
+  return;
+  }
 // end hiding --->                
+
 </script>
+
+
+<script language="JavaScript">
+
+<!-- HIDE FROM OLDER BROWSERS
+  function openfeatWin() { 
+  str="/templates/2000-05-24/index_html";
+  openWin = window.open(str,'openWin','resizable=no,width=450,height=450,status=no,location=1,toolbar=0,directories=0,menubar=1,scrollbars=1,copyhistory=0');
+  }
+// END HIDING FROM OLDER BROWSERS -->
+ 
+ </script>
+  <!-- End /local_javascript/local_javascript -->
+
+<!-- End control_panel/products/nitsite/ntcity/javascript -->
+
+<!-- Begin css -->
+<style type="text/css">
+     body { background: white; text-decoration: none;}
+	A {text-decoration: none; }
+     A:link { color: #CC3300; }
+     A:visited { color: #400080; }
+     A:active { color: #400080; } 
+       
+
+    <!-- story page styles -->
+	div.head { font-family: "verdana", "arial", "helvetica", san-serif; 
+          font-size: 15pt; 
+          font-weight: 700;
+        }
+	div.subhead { font-family: "Verdana", "Arial", "Helvetica", san-serif; 
+          font-size: 12pt;
+          font-weight: 500;
+        }
+	div.byline { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 12pt; 
+          font-weight: 900;
+        }
+	div.bodycopy { font-family: "Times New Roman", "Times", "Georgia", serif; 
+          font-size: 12pt;
+}
+
+     <!-- photo/art styles -->
+	div.cutline { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 9pt;
+        }
+	div.credit { font-family: "Times", "Georgia", serif;
+          font-size: 9pt;
+          font-weight: 700;
+        }
+
+     <!-- listings styles -->
+	div.listhead { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 16pt;
+          font-weight: 900;
+        }
+	div.listsubhead { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 12pt;
+          font-weight: 900;
+        }
+	div.listbody { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 9pt;
+        }
+
+    <!-- toc styles -->    
+	div.tocsechead { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 15pt;
+          font-weight: 700;
+          color: #999999;
+        }
+	div.tochead { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 10pt;
+          font-weight: 700;
+        }
+	div.tocsubhead { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 10pt;
+        }
+	div.tocbyline { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 10pt;
+          font-weight: 700; 
+        }
+
+    <!-- misc styles -->   
+	div.navigationhead { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 10pt;
+          font-weight: 700; 
+          color: white; 
+   }
+      
+	div.navigation { font-family: "Verdana", "Arial", "Helvetica", san-serif;
+          font-size: 9pt;
+
+           }
+         div.navigation A {text-decoration: none; }
+         div.navigation A:link { color: #CC3300; }
+         div.navigation A:visited { color: #400080; }
+         div.navigation A:active { color: #400080; }
+        
+     
+     
+      
+
+
+</style>
+<!-- End css -->
+
+
 
 </head>
 
-<body bgcolor="#ffffff" link="#CC3300" vlink="#400080" alink="#400080" onload="window.defaultStatus='sfweekly.com'">
+<body link="#cc3300" alink="#400080" vlink="#400080">
+
+
+<!-- Begin Ads -->
+<center>
+<table width="590" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+
+  <!--Begin nd_ad-->
+
+
+
+  
+
+  <font color="white">
+   <script language="javascript">
+    var from = document.referrer;
+    var referPat = /folonarinights/;
+    var matchPat = from.match(referPat);
+
+    if (matchPat == null){
+      var adid = "about";
+    }else{
+      var adid = "folonari";
+    }
+     ad("san","other","c",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=san&amp;category=other&amp;size=c&amp;loc=1&amp;id=about&amp;transactionID=1580589861527"><center><img src="http://ads.newtimes.com/image.ng/?site=san&amp;category=other&amp;size=c&amp;loc=1&amp;id=about&amp;transactionID=1580589861527" width="120" height="60" border="0" alt="advertisement"></center></a>
+
+   <noscript>
+    <A HREF="http://ads.newtimes.com/click.ng/?site=san&category=other&size=c&id=about">
+    <IMG SRC="http://ads.newtimes.com/image.ng/?site=san&category=other&size=c&id=about" width=120 height=60 Border=0 ALT="sfweekly.com Advertiser"></A>
+   </noscript>
+  </font>
+<!--End ng_ad-->
+
+</td>
+
+<td width="1"><img src="/palette0/spacer_t.gif" width="1" border="0" alt=" "></td>
+
+<td>
+
+  <!--Begin nd_ad-->
+
+
+
+  
+
+  <font color="white">
+   <script language="javascript">
+    var from = document.referrer;
+    var referPat = /folonarinights/;
+    var matchPat = from.match(referPat);
+
+    if (matchPat == null){
+      var adid = "about";
+    }else{
+      var adid = "folonari";
+    }
+     ad("san","other","a",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=san&amp;category=other&amp;size=a&amp;loc=1&amp;id=about&amp;transactionID=1580589861529"><center><img src="http://ads.newtimes.com/image.ng/?site=san&amp;category=other&amp;size=a&amp;loc=1&amp;id=about&amp;transactionID=1580589861529" width="468" height="60" border="0" alt="advertisement"></center></a>
+
+   <noscript>
+    <A HREF="http://ads.newtimes.com/click.ng/?site=san&category=other&size=a&id=about">
+    <IMG SRC="http://ads.newtimes.com/image.ng/?site=san&category=other&size=a&id=about" width=468 height=60 Border=0 ALT="sfweekly.com Advertiser"></A>
+   </noscript>
+  </font>
+<!--End ng_ad-->
+</td>
+</tr>
+</tbody></table>
+</center>
+
+<!-- End Ads -->
 
 <center>
 
-<table width="590" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+  <a href="http://www.sfweekly.com/about/index.html"><img src="/palette3/hedabout.gif" width="590" border="0" alt=""></a><br>
 
-<td>
-<!--BEGIN HOUSE AD-->
-<font color="white">
-<script language="javascript">
-ad("sfw","other","c","about");
-</script><a href="http://206.138.64.60/click.ng/site=sfw&amp;category=other&amp;size=c&amp;id=about&amp;transactionID=1580589859134"><center><img src="http://206.138.64.60/image.ng/site=sfw&amp;category=other&amp;size=c&amp;id=about&amp;transactionID=1580589859134" width="120" height="60" border="0" alt="Advertisement"></center></a>
-<noscript>
-<A HREF="http://206.138.64.60/click.ng/site=sfw&category=other&size=c&id=about"><IMG SRC="http://206.138.64.60/image.ng/site=sfw&category=other&size=c&id=about" WIDTH=120 HEIGHT=60 BORDER=0 ALT="Ad"></A>
-</noscript>
-</font>
-<!--END HOUSE AD-->
+<!-- End standard_html_header -->
+
+<!-- Begin privacy_policy -->
+<table width="590" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td valign="TOP" align="LEFT" width="120">
+
+
+
+
+<!-- Begin left_column_nav -->
+
+
+
+<table border="0" width="120" cellspacing="0" cellpadding="3">
+ <tbody><tr>
+  <td valign="middle" bgcolor="#ffd9b3" height="3" nowrap="">
+    <table cellspacing="0" cellpadding="0" width="110" border="0" align="center">
+     <tbody><tr>
+      <td valign="middle" align="left" height="30">
+     <div class="navigation"><small><small><b>	
+       Friday</b>
+       <br>December 15, 2000</small></small></div>
+      </td>
+     </tr>
+    </tbody></table>
+  </td>
+ </tr>
+
+ <tr>
+  <td bgcolor="#cc3300" valign="middle" align="left" nowrap="">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" height="0" align="LEFT">
+   <div class="navigationhead"><small><small>Site Search</small></small></div>
+  </td>
+ </tr>
+
+ <tr>
+  <td align="left" bgcolor="#ffd9b3">
+   <form name="search" method="get" action="/search/results/">
+    <input size="13" maxlength="20" name="keyword:string">
+    <input type="hidden" name="size" value="15">
+   </form></td>
+  </tr>
+  <tr>
+  <td align="left" bgcolor="#ffd9b3">
+    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+  <div class="navigation"><a href="/search/index.html"><small><small>Enhanced search</small></small></a></div>
+  </td>
+ </tr>
+
+
+
+ 		
+ <tr>
+  <td bgcolor="#cc3300" valign="middle" align="left">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <div class="navigationhead"><small><small>
+          In <small><small>About</small></small>
+      </small></small></div>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/index.html" onmouseover="window.status='Introduction to SF Weekly'; return true">Introduction</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/staff.html" onmouseover="window.status='Staff'; return true">Staff</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/awards.html" onmouseover="window.status='SF Weekly Awards'; return true">Awards</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/jobs.html" onmouseover="window.status='Career Opportunities at SF Weekly'; return true">Job Openings</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/internships.html" onmouseover="window.status='Internships'; return true">Internships</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/freelance.html" onmouseover="window.status='Freelance writer guidelines'; return true">Writer Guidelines</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/help.html" onmouseover="window.status='Getting the most out of sfweekly.com'; return true">Help</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/subscribe.html" onmouseover="window.status='Receive our weekly newsletter'; return true">Subscribe</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/privacy_policy.html" onmouseover="window.status='Privacy Policy'; return true">Privacy Policy</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/advert.html" onmouseover="window.status='Advertise with SF Weekly'; return true">Advertising</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td bgcolor="#cc3300" valign="middle" align="left">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+  <div class="navigationhead"><small><small>Site Contents</small></small></div>
+  </td>
+ </tr>
+	
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/issues/current/news_toc.html" onmouseover="window.status='News &amp; Features'; return true">News</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/issues/current/music_toc.html" onmouseover="window.status='Music'; return true">Music</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/issues/current/film_toc.html" onmouseover="window.status='Film &amp; Movie Reviews'; return true">Film</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/issues/current/eat_toc.html" onmouseover="window.status='Restaurant Reviews and Columns'; return true">Eat</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/issues/current/stage_toc.html" onmouseover="window.status='Stage'; return true">Stage</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/issues/current/calendar_toc.html" onmouseover="window.status='Calendar, Night &amp; Day'; return true">Calendar</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/specialprojects/index.html" onmouseover="window.status='Web Extra'; return true">Web Extra</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/classified/index.html" onmouseover="window.status='Everything Must Go!'; return true">Classified</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="http://romance.sfweekly.com" onmouseover="window.status='Romance'; return true">Romance</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/wild/index.html" onmouseover="window.status='Wild Side'; return true">Wild Side</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/adult/index.html" onmouseover="window.status='Savage Love and SF Weekly Unbuttoned.com'; return true">Naughty &amp; Nice</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/bestof/2000/index.html" onmouseover="window.status='Best of SF'; return true">Best of SF</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/discussions/" onmouseover="window.status='SF Weekly Discussions'; return true">Discussions</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/letters/" onmouseover="window.status='SF Weekly letters'; return true">Letters</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/comics/puni/index.html" onmouseover="window.status='Puni Comics'; return true">Puni</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/search/index.html" onmouseover="window.status='Search SF Weekly Archives'; return true">Archives</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/about/index.html" onmouseover="window.status='About SF Weekly'; return true">About</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#ffd9b3" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/about/subscribe.html" onmouseover="window.status='Subscribe to our newsletter'; return true">Newsletter</a>
+   </small></small></div>
+  </td>
+ </tr>
+ 
+
+</tbody></table>
+
+<!-- End left_column_nav -->
+
+
+
 </td>
+<td width="10"><img src="/palette0/spacer_t.gif" alt="" width="10" height="1"></td>
 
-<td><img width="3" height="1" border="0" src="http://www.sfweekly.com/palette3/spacer.gif"></td>
+<td valign="TOP" align="LEFT" width="305" class="story">
+<img width="305" height="1" border="0" src="/palette0/spacer_t.gif" alt="">
+<br>
 
-<td>
-<!--BEGIN BANNER AD-->
-<font color="white">
-<script language="javascript">
-ad("sfw","other","a","about");
-</script><a href="http://206.138.64.60/click.ng/site=sfw&amp;category=other&amp;size=a&amp;id=about&amp;transactionID=1580589859135"><center><img src="http://206.138.64.60/image.ng/site=sfw&amp;category=other&amp;size=a&amp;id=about&amp;transactionID=1580589859135" width="468" height="60" border="0" alt="Advertisement"></center></a>
-<noscript>
-<A HREF="http://206.138.64.60/click.ng/site=sfw&category=other&size=a&id=about"><IMG SRC="http://206.138.64.60/image.ng/site=sfw&category=other&size=a&id=about" WIDTH=468 HEIGHT=60 BORDER=0 ALT="Advertisement"></A>
-</noscript>
-</font>
-<!--END BANNER AD-->
-</td>
+<font face="verdana, arial, helvetica, san-serif" size="2">
+<br>
+<br>
 
-</tr></tbody></table>
+<b><font size="+1">Our Privacy Policy</font>
+<br></b><p><b>New Times Inc.</b>
+<br>Parent of <i>SF Weekly</i> and sfweekly.com
 
-<table width="590" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td bgcolor="#FFFFFF" colspan="5"><img width="1" height="5" border="0" src="http://www.sfweekly.com/palette3/spacer.gif"></td></tr>
-<tr><td bgcolor="#FFFFFF" colspan="5"><a href="http://www.sfweekly.com/about/index.html" onmouseover="window.status='Go to About index'; return true"><img vspace="0" hspace="0" align="LEFT" width="590" height="60" border="0" src="http://www.sfweekly.com/palette3/hedbout.gif" alt="About sfweekly.com"></a></td></tr>
 
-<!--BEGIN NAVIGATION COLUMN-->
-
-<tr>
-
-<td valign="TOP" align="LEFT" width="125">
-
-<table border="0" width="120" cellspacing="0" cellpadding="0">
-
-<tbody><tr><td bgcolor="#FFD9B3" nowrap="">
-
-<p><br>
-<!--BEGIN SEARCH_BLOCK--> 
-	</p><form name="Search" method="Post" action="http://www.sfweekly.com/cgi-bin/bglimpse/">
-	<img src="http://www.sfweekly.com/art/spacer2.gif" height="5" width="5">
-	<font face="Verdana, Helvetica, Arial, san-serif" size="2"><b>SEARCH</b></font><br>
-	<img src="http://www.sfweekly.com/art/spacer2.gif" height="5" width="2">
-	<input size="10" name="query"><img src="http://www.sfweekly.com/art/spacer2.gif" height="5" width="5"><input type="IMAGE" valign="MIDDLE" border="0" src="http://www.sfweekly.com/art/go.gif" height="14" width="14"></form>
-<!--END SEARCH_BLOCK-->
-<p>
-
-</p></td></tr>
-
-<!--BEGIN NAVIGATION-->
-
-<tr><td bgcolor="#CC3300" align="Left"><img width="7" height="15" src="http://www.sfweekly.com/palette3/spacer2.gif"><font face="VERDANA,ARIAL,HELVETICA" color="#FFFFFF" size="-1"><b>In About</b></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.sfweekly.com/about/index.html" onmouseover="window.status='Introduction to sfweekly.com'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Welcome</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.sfweekly.com/about/tools.html" onmouseover="window.status='sfweekly.com plug-ins and browser upgrades'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Tools</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.sfweekly.com/about/sitemap.html" onmouseover="window.status='sfweekly.com site map'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Site Map</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.sfweekly.com/about/staff.html" onmouseover="window.status='SF Weekly masthead'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Staff</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.sfweekly.com/about/bios.html" onmouseover="window.status='SF Weekly writer &amp; editor biographies'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Biographies</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.sfweekly.com/about/awards.html" onmouseover="window.status='SF Weekly awards'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Awards</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.sfweekly.com/about/jobs.html" onmouseover="window.status='Career opportunites at SF Weekly'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Job Openings</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.sfweekly.com/about/freelance.html" onmouseover="window.status='SF Weekly freelance writers guidelines'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Writer's Guidelines</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Privacy Policy</font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.sfweekly.com/about/privacy.html" onmouseover="window.status='Advertising guidelines for SF Weekly'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Advertising</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"><a href="http://www.newtimes.com" target="BLANK"><font face="VERDANA,ARIAL,HELVETICA" size="-2">New Times Inc.</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer2.gif"></td></tr>
-
-<tr><td bgcolor="#CC3300" align="Left"><img width="7" height="15" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" color="#FFFFFF" size="2"><b>Sections</b></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com" onmouseover="window.status='sfweekly.com Home'; return true">Home</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/issues/current/news_toc.html" onmouseover="window.status='SF Weekly News'; return true">News</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/issues/current/music_toc.html" onmouseover="window.status='SF Weekly Music &amp; searchable reviews'; return true">Music</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/issues/current/film_toc.html" onmouseover="window.status='SF Weekly Film &amp; searchable reviews'; return true">Film</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/issues/current/eat_toc.html" onmouseover="window.status='SF Weekly Eat &amp; searchable reviews'; return true">Eat</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/issues/current/stage_toc.html" onmouseover="window.status='SF Weekly Stage &amp; listings'; return true">Stage</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/issues/current/calendar_toc.html" onmouseover="window.status='SF Weekly Night &amp; Day and calendar listings'; return true">Calendar</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/extra/index.html" onmouseover="window.status='sfweekly.com Web Extra sites, stories &amp; more'; return true">Web Extra</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/class/index.html" onmouseover="window.status='sfweekly.com searchable Classified'; return true">Classified</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/romance/index.html" onmouseover="window.status='sfweekly.com searchable Romance'; return true">Romance</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/wildside/warn.html" onmouseover="window.status='sfweekly.com searchable Wild Side'; return true">Wild Side</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/adult/warn.html" onmouseover="window.status='sfweekly.com searchable Wild Side, Savage Love, and sf.unbuttoned.com'; return true">Naughty &amp; Nice</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/bosf/1999/index.html" onmouseover="window.status='SF Weekly Best of San Francisco 1999'; return true">Best of S.F.</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/feedback/index.html" onmouseover="window.status='SF Weekly letters &amp; sfweekly.com Feedback'; return true">Feedback</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/archive/index.html" onmouseover="window.status='sfweekly.com searchable story Archive'; return true">Search</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" size="1"><a href="http://www.sfweekly.com/about/index.html" onmouseover="window.status='About sfweekly.com'; return true">About</a></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"></td></tr>
-
-<tr><td bgcolor="#CC3300" align="Left"><img width="7" height="15" src="http://www.sfweekly.com/palette3/spacer_t.gif"><font face="VERDANA,ARIAL,HELVETICA" color="#FFFFFF" size="-1"><b>Specialties</b></font></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><a href="http://www.sfweekly.com/subscribe/index.html" onmouseover="window.status='Subscribe to sfweekly.com'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Subscribe</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><a href="http://www.sfweekly.com/class/helpwanted.html" onmouseover="window.status='Help Wanted, Career Training/Schools, Job Information'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Career Finder</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><a href="http://www.sfweekly.com/about/advert.html" onmouseover="window.status='Advertise with SF Weekly and sfweekly.com'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Advertising</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><a href="http://www.sfweekly.com/musiclist/index.html" onmouseover="window.status='Live music in San Francisco and the Bay Area'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Club Guide</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><a href="http://www.sfweekly.com/dining/index.html" onmouseover="window.status='The best restaurant directory in San Francisco'; return true"><font face="VERDANA,ARIAL,HELVETICA" size="-2">Dining Guide</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"><a href="http://www.moviefone.com.com/?MID:SF+UID:8150" target="BLANK"><font face="VERDANA,ARIAL,HELVETICA" size="-2">moviefone.com</font></a></td></tr>
-
-<tr><td bgcolor="#FFD9B3" align="Left"><img width="7" src="http://www.sfweekly.com/palette3/spacer_t.gif"></td></tr>
-
-
-<tr><td align="Left"><img src="http://www.sfweekly.com/palette3/navendcap.gif"></td></tr>
-
-<!--END NAVIGATION-->
-
-</tbody></table></td>
-
-<td width="15" align="center" valign="top"><img height="1" width="15" src="http://www.sfweekly.com/palette3/spacer.gif"></td>
-
-<td width="310" valign="top"><img height="1" width="310" src="http://www.sfweekly.com/palette3/spacer.gif">
-
-<font face="VERDANA,ARIAL,HELVETICA" size="-1">
-
-<div align="LEFT">
-
-<font face="verdana,arial,helvetica" size="-1">
-
-<b><font size="+2">Our Privacy Policy</font></b><br>
-<font size="+1">New Times Inc.<br>
-Parent of SF Weekly and www.sfweekly.com
-</font>
-
-<font size="-1">
-<p>New Times, Inc. respects your privacy.  Here's our privacy policy for this site:
+</p><p>New Times Inc. respects your privacy.  Here's our privacy policy for this site:
 
 </p><p><b>Personally Identifiable Information</b>
 <br>We do track how our visitors use this site so that we can see what people like and don't like.  We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters. We will not, however, release your name, e-mail address or any other personal information to anyone else outside New Times unless we have your consent, we are under a legal order to do so, or there is an emergency involving personal danger. <b>This means that we will not provide our advertisers or anyone else outside New Times with any information specific to you unless we have your consent.</b> The only New Times employees or consultants allowed access to personal information about you are those who need to have access.  Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution.
 
 
 </p><p><b>Cookies</b>
-<br>"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system.  New Times does serve cookies to track individual site usage for later aggregation.  But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a New Times cookie, such as a user code.  We have no control over whether and how our advertisers use cookies <b><u>that originate from their website</u></b>.
+<br>"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system.  New Times does serve cookies to track individual site usage for later aggregation.  But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a New Times cookie, such as a user code.  We have no control over whether and how our advertisers use cookies <b>that originate from their website</b>.
 
-</p><p><b>Your Feedback/Letters to the Editor Contributions</b>
-<br>As with our print editions, we insist that you supply your real name, daytime telephone number and e-mail address when providing feedback on our material or when commenting on other readers' comments.  That is because we may need to contact you, and because your identity may be important to understand your point of view.  If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form.  To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line.
+</p><p><b>Your Letter to the Editor Contributions</b>
+<br>As with our print editions, we insist that you supply your real name, daytime telephone number or e-mail address. That is because we may need to contact you, and because your identity may be important to understand your point of view.  If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form.  To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line.
 
-</p><p><b>Threads (Coming Soon)</b>
-<br><i>Threads</i> is our interactive discussion area.  Unlike our Feedback and Letters sections, comments posted here are not edited by New Times personnel prior to posting on that portion of the site.  We only require that you provide us with your on-line name (real or fictitious), your correct e-mail address and that you accept our <u>User Agreement</u>. Any personal information you may disclose in <i>Threads</i> can be collected and used by third parties beyond New Times' control.
+</p><p><b>Discussion boards</b>
+<br><i>Discussions</i> is our interactive discussion area. Unlike our Letters section, comments posted here are not edited by New Times personnel prior to posting on that portion of the site.  We only require that you provide us with your on-line name (real or fictitious), your correct e-mail address and that you accept our <b>User Agreement</b>. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. Any personal information you may disclose in <i>Discussions</i> can be collected and used by third parties beyond New Times' control.
 
 </p><p><b>Communication from New Times</b>
 <br>Any ongoing communication you may receive from New Times via e-mail, such as newsletters, subscriptions, contest results, survey inquiries, etc. may be terminated via a simple "opt out" procedure.  You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list.
@@ -279,70 +802,134 @@ Parent of SF Weekly and www.sfweekly.com
 <br>This privacy policy is effective as of July 28, 1999.  We may need to change it from time to time as technology and the nature of the Web keep evolving.  We will post any changes to this policy as soon as they go into effect.
 
 </p><p><b>More Questions?</b>
-<br>If you have any questions about this privacy policy, e-mail them to <a href="mailto:privacyadministrator@newtimes.com">privacyadministrator@newtimes.com</a>, and be sure to indicate the specific site you're visiting and the nature of your question or concern.
-</p></font><p><font size="-1">
-</font>
+<br>If you have any questions about this privacy policy, e-mail them to <a href="mailto:privacyadministrator@newtimes.com"><u>privacyadministrator@newtimes.com</u></a>, and be sure to indicate the specific site you're visiting and the nature of your question or concern.
+</p><p>
 
-</p></font></div></font></td>
 
-<td width="15" align="center" valign="top"><img height="1" width="25" src="http://www.sfweekly.com/palette3/spacer.gif"></td>
+</p></font></td>
+<td width="25" align="center" valign="top"><img height="1" width="25" src="/palette0/spacer_t.gif"></td>
+<td width="120" valign="top" align="center">
+<img width="120" height="1" src="/palette0/spacer_t.gif">
+<p>
 
-<td width="125" align="center" valign="top"><img height="1" width="125" src="http://www.sfweekly.com/palette3/spacer.gif">
+<!-- Begin right_column -->
 
-<!--BEGIN LOCAL AD-->
-<font color="white">
-<script language="javascript">
-ad("sfw","other","v","about");
-</script><a href="http://206.138.64.60/click.ng/site=sfw&amp;category=other&amp;size=120v&amp;id=about&amp;transactionID=1580589859197"><center><img src="http://206.138.64.60/image.ng/site=sfw&amp;category=other&amp;size=120v&amp;id=about&amp;transactionID=1580589859197" width="120" border="0" alt="Advertisement"></center></a>
-<noscript>
-<A HREF="http://206.138.64.60/click.ng/site=sfw&category=other&size=v&id=about"><IMG SRC="http://206.138.64.60/image.ng/site=sfw&category=other&size=v&id=about" WIDTH=120 BORDER=0 ALT="Advert"></A>
-</noscript>
-</font>
-<!--END LOCAL AD-->
+</p><p></p>
 
+
+
+<p></p>
+
+
+
+
+  
+
+      <p>
+    <!--Begin nd_ad-->
+
+
+
+  
+
+  <font color="white">
+   <script language="javascript">
+    var from = document.referrer;
+    var referPat = /folonarinights/;
+    var matchPat = from.match(referPat);
+
+    if (matchPat == null){
+      var adid = "about";
+    }else{
+      var adid = "folonari";
+    }
+     ad("san","other","v",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=san&amp;category=other&amp;size=120v&amp;loc=1&amp;id=about&amp;transactionID=1580589861535"></a></font></p><center><font color="white"><a href="http://ads.newtimes.com/click.ng/?site=san&amp;category=other&amp;size=120v&amp;loc=1&amp;id=about&amp;transactionID=1580589861535"><img src="http://ads.newtimes.com/image.ng/?site=san&amp;category=other&amp;size=120v&amp;loc=1&amp;id=about&amp;transactionID=1580589861535" width="120" border="0" alt="advertisement"></a></font></center><font color="white">
+
+   <noscript>
+    <A HREF="http://ads.newtimes.com/click.ng/?site=san&category=other&size=120v&id=about">
+    <IMG SRC="http://ads.newtimes.com/image.ng/?site=san&category=other&size=120v&id=about" width=120 height= Border=0 ALT="sfweekly.com Advertiser"></A>
+   </noscript>
+  </font>
+<!--End ng_ad-->
+    <p></p>
+  
+<p></p>
+
+<br><img src="/palette0/spacer_t.gif" height="10"><br>
+
+<!-- </td> is on the standard_footer -->
+
+<!-- End right_column -->
+
+ 
 </td>
-
-</tr>
-
-<tr>
-
-<!--BEGIN BUTTON BAR-->
-
-<td colspan="5">
-
-<center> 
-<font face="Verdana, Arial, Helvetica" size="-1"> 
-</font><p><font face="Verdana, Arial, Helvetica" size="-1">
-<a href="http://www.sfweekly.com" onmouseover="window.status='sfweekly.com Home'; return true">sfweekly.com Home</a><br>
-<a href="http://www.sfweekly.com/issues/current/news_toc.html" onmouseover="window.status='SF Weekly News'; return true">News</a> |  
-<a href="http://www.sfweekly.com/issues/current/music_toc.html" onmouseover="window.status='SF Weekly Music &amp; searchable listings'; return true">Music</a> |  
-<a href="http://www.sfweekly.com/issues/current/film_toc.html" onmouseover="window.status='SF Weekly Film &amp; searchable reviews'; return true">Film</a> |  
-<a href="http://www.sfweekly.com/issues/current/eat_toc.html" onmouseover="window.status='SF Weekly Eat &amp; searchable reviews'; return true">Eat</a> |  
-<a href="http://www.sfweekly.com/issues/current/stage_toc.html" onmouseover="window.status='SF Weekly Stage &amp; listings'; return true">Stage</a> |  
-<a href="http://www.sfweekly.com/issues/current/calendar_toc.html" onmouseover="window.status='SF Weekly Night &amp; Day and calendar listings'; return true">Calendar</a> |  
-<a href="http://www.sfweekly.com/extra/index.html" onmouseover="window.status='sfweekly.com Web Extra sites, stories &amp; more'; return true">Web Extra</a><br> 
-<a href="http://www.sfweekly.com/class/index.html" onmouseover="window.status='sfweekly.com searchable Classified'; return true">Classified</a> | 
-<a href="http://www.sfweekly.com/romance/index.html" onmouseover="window.status='sfweekly.com searchable Romance'; return true">Romance</a><a> |  
-</a><a href="http://www.sfweekly.com/wildside/warn.html" onmouseover="window.status='sfweekly.com searchable Wild Side Ads'; return true">Wild Side</a> |  
-<a href="http://www.sfweekly.com/adult/warn.html" onmouseover="window.status='sfweekly.com Savage Love, and sf.unbuttoned.com'; return true">Naughty &amp; Nice</a> |  
-<a href="http://www.sfweekly.com/bosf/1999/index.html" onmouseover="window.status='SF Weekly Best of San Francisco 1999'; return true">Best of S.F.</a> <br>
-<a href="http://www.sfweekly.com/feedback/index.html" onmouseover="window.status='SF Weekly letters &amp; sfweekly.com Feedback'; return true">Feedback</a> |  
-<a href="http://www.sfweekly.com/archive/index.html" onmouseover="window.status='sfweekly.com searchable story Archive'; return true">Archive</a> |  
-<a href="http://www.sfweekly.com/about/index.html" onmouseover="window.status='About sfweekly.com'; return true">About</a> | 
-<a href="http://www.sfweekly.com/subscribe/index.html" onmouseover="window.status='Subscribe to sfweekly.com'; return true">Subscribe</a></font> 
-</p><p> 
-<font face="Arial, Helvetica" size="-2">© 2000 New Times Inc. All rights reserved. | <a href="http://www.sfweekly.com/about/privacy.html" onmouseover="window.status='Our Privacy Policy'; return true">Privacy Policy</a></font> 
-</p></center> 
-
-
-</td>
-
-<!--END BUTTON BAR-->
-
 </tr>
 </tbody></table>
 </center>
 
+<!-- Begin standard_html_footer -->
 
 
+
+
+<table cellpadding="10" width="590"><tbody><tr><td>
+</td></tr></tbody></table>
+
+
+
+<br><br>
+
+<center>
+<table cellspacing="0" cellpadding="0">
+  <tbody><tr>
+              	<td width="130">&nbsp;
+    	</td>
+          
+          <td width="460" align="left">
+    
+
+     <small><small>
+	 <div class="navigation">
+		<a href="/" onmouseover="window.status='Home'; return true"><font color="black"><b>sfweekly.com</b></font></a>
+						 | <a href="/issues/current/news_toc.html" onmouseover="window.status='News &amp; Features'; return true">News</a>
+						 | <a href="/issues/current/music_toc.html" onmouseover="window.status='Music'; return true">Music</a>
+						 | <a href="/issues/current/film_toc.html" onmouseover="window.status='Film &amp; Movie Reviews'; return true">Film</a>
+						 | <a href="/issues/current/eat_toc.html" onmouseover="window.status='Restaurant Reviews and Columns'; return true">Eat</a>
+						 | <a href="/issues/current/stage_toc.html" onmouseover="window.status='Stage'; return true">Stage</a>
+						 | <a href="/issues/current/calendar_toc.html" onmouseover="window.status='Calendar, Night &amp; Day'; return true">Calendar</a>
+						 | <a href="/specialprojects/index.html" onmouseover="window.status='Web Extra'; return true">Web Extra</a>
+						 | <a href="/classified/index.html" onmouseover="window.status='Everything Must Go!'; return true">Classified</a>
+						 | <a href="http://romance.sfweekly.com" onmouseover="window.status='Romance'; return true">Romance</a>
+						 | <a href="/wild/index.html" onmouseover="window.status='Wild Side'; return true">Wild Side</a>
+						 | <a href="/adult/index.html" onmouseover="window.status='Savage Love and SF Weekly Unbuttoned.com'; return true">Naughty &amp; Nice</a>
+						 | <a href="/bestof/2000/index.html" onmouseover="window.status='Best of SF'; return true">Best of SF</a>
+						 | <a href="/discussions/" onmouseover="window.status='SF Weekly Discussions'; return true">Discussions</a>
+						 | <a href="/letters/" onmouseover="window.status='SF Weekly letters'; return true">Letters</a>
+						 | <a href="/comics/puni/index.html" onmouseover="window.status='Puni Comics'; return true">Puni</a>
+						 | <a href="/search/index.html" onmouseover="window.status='Search SF Weekly Archives'; return true">Archives</a>
+						 | <a href="/about/index.html" onmouseover="window.status='About SF Weekly'; return true">About</a>
+						 | <a href="/about/subscribe.html" onmouseover="window.status='Subscribe to our newsletter'; return true">Newsletter</a>
+						<hr size="1">
+			©2000 <a href="http://www.newtimes.com" onmouseover="window.status='New Times'; return true">New Times, Inc.</a> All rights reserved. |
+			<a href="/about/privacy_policy.html" onmouseover="window.status='Privacy Policy'; return true">Privacy Policy</a> | <a href="/bug_report?page=http://www.sfweekly.com/about/privacy_policy.html">Bug Report</a>
+		</div>
+		</small></small>
+
+
+    </td>
+                </tr>
+</tbody></table>
+
+</center>
+
+
+
+<!-- Served by: node5.newtimes.com on: 2000/12/15 01:08:15.993 US/Mountain -->
+
+
+<!-- End standard_html_footer -->
+
+<!-- End privay_policy -->
+<!-- Cached: Fri Dec 15 01:08:16 2000 -->
 </body></html>
