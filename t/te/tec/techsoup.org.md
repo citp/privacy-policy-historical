@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204225237id_/http%3A//www.techsoup.org/global_privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604150048id_/http%3A//techsoup.org/global_privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
 
 # TechSoup - The Technology Place for Nonprofits
 
