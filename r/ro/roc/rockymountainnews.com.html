@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the rockymountainnews.com privacy policy that was archived on 2003-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031002032103id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockymountainnews.com privacy policy that was archived on 2004-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040623075948id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.-->
 
-<html><head>
+<html><!-- Sponsorship= --><head>
 		<title>Rocky Mountain News</title>
 		
 <meta http-equiv="Pragma" content="no-cache">
@@ -202,9 +202,33 @@ function vod (url,streamtitle,customfeatures) {
 </script>
 
 		<script type="text/javascript">
-	name = 'rmnmainwindow';
+	if (name == "") {
+		name = 'rmnmainwindow';
+	}
+
+	//
+	// DART Ad code
+	//
+	var dartORD = (Math.random() * (new Date()).valueOf() * 100000).toString().substr(0,15);
+	var dartPURL = 'www.rmn.com';
+	var dartHost = 'http://ad.doubleclick.net';
+	function GetAd(TheTile, usePTile, ThePosition, TheWidth, TheHeight, ThePath, OtherParams)
+	{
+		ThePath = dartPURL + '/' + ThePath;
+		var adParams = ';pos=' + ThePosition + ';sz=' + TheWidth + 'x' + TheHeight + (usePTile?';ptile=':';tile=') + TheTile + OtherParams + ';ord=' + dartORD + '?';
+		document.write('<SCR' + 'IPT language="JavaScript1.1" SRC="' + dartHost + '/adj/' + ThePath + ';abr=!webtv' + adParams + '"></SCR' + 'IPT>');
+		if ((!document.images && navigator.userAgent.indexOf('Mozzilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0)
+		{
+			document.write('<A HREF="' + dartHost + '/jump/' + ThePath + adParams + '">');
+			document.write('<IMG SRC="' + dartHost + '/ad/' + ThePath + adParams + '" border="0" height="' + TheHeight + '" width="' + TheWidth + '"></A>');
+		}
+	}
+
 </script>
 
+
+				
+		
 		
 		
 		
@@ -233,57 +257,27 @@ function vod (url,streamtitle,customfeatures) {
 		// -->
 		</script>
 		</head><body bgcolor="#FFFFFF" link="#666699" vlink="#666699" alink="#666699">
-<!-- Omniture Site Catalyst -->
-<!-- SiteCatalyst code version: G.2.
-Copyright 1997-2003 Omniture, Inc. More info available at
-http://www.omniture.com --><script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-var s_pageName=""
-var s_server=""
-var s_channel=""
-var s_pageType=""
-var s_prop1="HOME"
-var s_prop2=""
-var s_prop3=""
-var s_prop4=""
-var s_prop5=""
-/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
-/********** DO NOT ALTER ANYTHING ELSE BELOW THIS LINE! *************/
-var s_code=' '//--></script>
-<script language="JavaScript" src="/drmn/s_code.js"></script>
-<script language="JavaScript"><!--
-var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
-'rckymtnnws');if(s_code)document.write(s_code)}else
-document.write('<im'+'g src="http://rckymtnnws.112.2O7.net/b/ss/rckymtnnws/1/G.2--FB/s'+s_tm.getTime()+'?[AQB]'
-+'&pageName='+escape(s_wd.s_pageName?s_wd.s_pageName:(s_wd.pageName?s_wd.pageName:''))
-+'&server='+escape(s_wd.s_server?s_wd.s_server:(s_wd.server?s_wd.server:''))
-+'&ch='+escape(s_wd.s_channel?s_wd.s_channel:(s_wd.channel?s_wd.channel:''))
-+'&[AQE]" height="1" width="1" border="0" />')
-//--></script><img name="s_i_rckymtnnws" height="1" width="1" border="0" src="https://102.112.2O7.net/b/ss/rckymtnnws/1/G.2-XPd-S/s69715718473089?[AQB]&amp;ndh=1&amp;t=31/0/2020%201%3A52%3A28%205%200&amp;c1=HOME&amp;g=https%3A//web.archive.org/web/20031002032103id_/http%253A//www.rockymountainnews.com/drmn/home/article/1%252C1299%252CDRMN_1_3162%252C00.html&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
-//--></script><noscript><img
-src="http://rckymtnnws.112.2O7.net/b/ss/rckymtnnws/1/G.2-XPd-S"
-height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: G.2. -->
-
-<!-- End Omniture Site Catalyst -->
+<!-- Content OID  -->
+<!-- Header OID DRMN 1 ARTICLE-DETAIL 485 HEADER no -->
+<!-- Footer OID DRMN 1 ARTICLE-DETAIL 486 FOOTER no -->
+<!-- AREA: -->
+<!-- LNBSpaceHolder: /drmn/images -->
 <table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td width="610" valign="top">
 		
-		<!-- Vignette V/5 Thu Jul 24 15:41:00 2003 -->
+		<!-- Vignette V6 Fri Jun 11 11:25:13 2004 -->
 
 	
 		<!---------------------BEGIN TABLE FOR VERTICAL TABS------------------ --> 
 		<table width="600" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-			<td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsmarketplace.com" class="navbartext">Classifieds</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="20" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsautos.com" class="navbartext">Autos</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="20" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsjobs.com" class="navbartext">Jobs</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="20" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsrealestate.com" class="navbartext">Homes</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="20" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.post-newsadsearch.com" class="navbartext">Ad&nbsp;Search</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="20" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.ypengine.com/yp.cfm?brd=2389" class="navbartext">Yellow Pages</a><!-- MaxSize (6) --></td>
+			<td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsmarketplace.com" class="navbartext">Classifieds</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsautos.com" class="navbartext">Autos</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsjobs.com" class="navbartext">Jobs</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsrealestate.com" class="navbartext">Homes</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.post-newsadsearch.com" class="navbartext">Ad&nbsp;Search</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.ypengine.com/yp.cfm?brd=2389" class="navbartext">Yellow Pages</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewstravel.com" class="navbartext">Travel Deals</a><!-- MaxSize (7) --></td>
 			<td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider_end.gif" width="16" height="15" border="0"></td>
-			<td width="100" height="14" bgcolor="#FFFFFF"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
+			<td width="20" height="14" bgcolor="#FFFFFF"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
 		</tr>
 		<tr>
-			<td width="100" height="1" class="headerbgcolor2"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
+			<td width="20" height="1" class="headerbgcolor2"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
 		</tr>
 		</tbody></table>
 		<!-- ------------------END TABLE FOR VERTICAL TABS------------------ -->
@@ -299,15 +293,19 @@ height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
 				<!-- -------------SITE SEARCH TABLE GOES HERE---------------- -->
 				
 			<table border="0" align="center" cellpadding="0" cellspacing="0">
-				<tbody><tr>
+				
+				<tbody><tr class="navbartext">
+				
 				<form name="searchForm" action="http://websearch.insidedenver.com/drmn/web/searchResults" method="get"></form>
 					<td class="navbartext">
 						Search site for:
-						<input size="10" name="searchString">
 						<input type="hidden" value="DRMN" name="site">
 						<input type="hidden" value="site" name="searchType">
+						<input size="10" name="searchString">
 						<input name="GoSearch" type="image" src="/drmn/images/nav/go_search.gif" alt="Go!" border="0">
+						
 					</td>
+				
 				
 				</tr>
 			</tbody></table>
@@ -325,7 +323,7 @@ height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
 			<td class="framebgcolor"><!--Starting to stack--><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><!--Starting to stack--><a href="/drmn/home/0,1299,DRMN_1,00.html" class="navbartext">Home</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/news/0,1299,DRMN_3,00.html" class="navbartext">News</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/sports/0,1299,DRMN_2,00.html" class="navbartext">Sports</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/business/0,1299,DRMN_4,00.html" class="navbartext">Business</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/entertainment/0,1299,DRMN_6,00.html" class="navbartext">Entertainment</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/recreation/0,1299,DRMN_7,00.html" class="navbartext">Recreation</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/lifestyles/0,1299,DRMN_4336,00.html" class="navbartext">Lifestyles</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/opinion/0,1299,DRMN_38,00.html" class="navbartext">Opinion</a><!-- MaxSize (8) --></td>
 		</tr>
 		</tbody></table>
-		<!-- ------------------ END TABLE FOR HORIZONTAL SITE NAV ------------------ --><!-- MaxSize (3) -->   <!-----------------------BEGIN TABLE FOR MAIN CONTENT AREA--------------------->
+		<!-- ------------------ END TABLE FOR HORIZONTAL SITE NAV ------------------ --><!-- MaxSize (3) -->  <!-----------------------BEGIN TABLE FOR MAIN CONTENT AREA--------------------->
     <table width="600" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
         <td width="5" class="framebgcolor">&nbsp;</td>
@@ -334,7 +332,7 @@ height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
     				
         <td width="145" valign="top" class="lnbbgcolor"> 
             <center>
-    		<img src="/drmn/images/spacers/spacer.gif" width="1" height="10"><br> <!-- Vignette V/5 Wed Oct 01 05:22:42 2003 -->
+    		<img src="/drmn/images/spacers/spacer.gif" width="1" height="10"><br> <!-- Vignette V6 Tue Jun 22 05:21:12 2004 -->
 
 	<table width="130" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td>
 			<table width="130" border="0" cellspacing="2" cellpadding="0" align="center" bgcolor="">
@@ -415,14 +413,24 @@ height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
 			
 			<tr>
 				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
+				<td width="125"><a href="/drmn/daily_slice/0,1299,DRMN_17936,00.html" class="subnavtext">Daily Slice</a></td>
+			</tr>
+			
+			<tr>
+				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
 				<td width="125"><a href="/drmn/ap_wire/0,1299,DRMN_9196,00.html" class="subnavtext">AP wire</a></td>
 			</tr>
-			</tbody></table><hr size="1" width="130" noshade="" align="center"><table width="130" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><table cellpadding="0" cellspacing="0" border="0">
+			</tbody></table><hr size="1" width="130" noshade="" align="center"><table width="130" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><table width="120" cellpadding="0" cellspacing="0" border="0">
   <tbody><tr>
-    <td bgcolor="#e6e6e6" class="smalltext"><div class="bodytext2"><b>America at War</b></div>
-	<table border="0" cellpadding="3" cellspacing="0" align="right"><tbody><tr><td><a href="http://www.rockymountainnews.com/drmn/america_at_war/"><img src="http://denver.rockymountainnews.com/war/images/lnbFlag.jpg" align="left" border="0" hspace="0"></a></td></tr></tbody></table>
-Coverage of the war in Iraq.  <br><a class="deeplinks" href="http://www.rockymountainnews.com/drmn/america_at_war/">Click here</a>.
-</td></tr></tbody></table><p><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td bgcolor="#e6e6e6" class="smalltext"><div class="bodytext2">AP awards</div>The Rocky Mountain News won more awards than any other major Colorado newspaper, including best Web site, in the Colorado Associated Press Editors and Reporters annual contest. <br><a class="deeplinks" href="http://www.rockymountainnews.com/drmn/local/article/0,1299,DRMN_15_1767407,00.html">Click here</a>. </td></tr></tbody></table><br><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td bgcolor="#e6e6e6" class="smalltext"><div class="bodytext2">Ed Stein</div><img src="http://denver.rockymountainnews.com/art/ds_promo2.gif" align="right" hspace="2"> Denver Square's Sam, Liz and Nate debut in their new book, "We Need a Bigger House." <br><a class="deeplinks" href="http://cfapp.rockymountainnews.com/stein/book.cfm">Click here</a> for details.</td></tr></tbody></table><br><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td bgcolor="#e6e6e6" class="smalltext">
+    <td bgcolor="#e6e6e6" class="smalltext"><div class="bodytext2"><b>Top stories</b></div>
+Special reports and ongoing coverage from the Rocky Mountain News.
+<br><img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://www.rockymountainnews.com/drmn/america_at_war/">Iraq war</a><br>
+<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://cfapp.rockymountainnews.com/news/bryant/">Kobe Bryant</a><br>
+<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://cfapp.rockymountainnews.com/news/cu/">CU recruiting</a><br>
+<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://cfapp.rockymountainnews.com/news/cu/">2004 election</a><br>
+<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://www.rockymountainnews.com/drmn/columbine/">Columbine</a><br>
+<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://cfapp.rockymountainnews.com/news/westnile/">West Nile</a><br>
+</td></tr></tbody></table><p><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td bgcolor="#e6e6e6" class="smalltext"><div class="bodytext2">AP awards</div>The Rocky Mountain News won more awards than any other major Colorado newspaper, including best Web site, in the Colorado Associated Press Editors and Reporters annual contest. <br><a class="deeplinks" href="http://www.rockymountainnews.com/drmn/local/article/0,1299,DRMN_15_1767407,00.html">Click here</a>. </td></tr></tbody></table><br><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td bgcolor="#e6e6e6" class="smalltext">
 <div class="bodytext2">Special reports</div>
 In-depth and investigative reports from the pages of the Rocky Mountain News. <a href="http://denver.rockymountainnews.com/specialreports/" class="deeplinks"><b>Click here</b></a>.
 <p>
@@ -446,7 +454,7 @@ See Colorado life through the pen of <i>News</i> editorial cartoonist Ed Stein. 
 Sign up for daily e-News updates and receive the latest local news. <br>
 <a class="deeplinks" href="http://cfapp.rockymountainnews.com/enews/"><b>Click here</b></a>.
 </td></tr></tbody></table><br>
-<!-- MaxSize (7) --></p></td></tr></tbody></table><!-- MaxSize (2) --></td></tr></tbody></table> </center>
+<!-- MaxSize (6) --></p></td></tr></tbody></table><!-- MaxSize (2) --></td></tr></tbody></table> </center>
         </td>
     	 <!-- ------------------------ END OF CELL FOR LEFT SIDE CONTENT------------------------------ -->
 
@@ -459,7 +467,7 @@ Sign up for daily e-News updates and receive the latest local news. <br>
             <tbody><tr valign="top"> 
                 <td class="bodytext">
                 						    
-                    <!-- Vignette V/5 Wed Aug 27 12:57:58 2003 -->
+                    <!-- Vignette V6 Fri Jun 11 11:26:50 2004 -->
 
 	
 				<table width="420" border="0" cellspacing="0" cellpadding="0" align="center">	
@@ -523,7 +531,7 @@ Sign up for daily e-News updates and receive the latest local news. <br>
 			     
     	
     <!-- ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- -->	 
-        <!-- Vignette V/5 Thu Sep 25 15:13:19 2003 -->
+        <!-- Vignette V6 Fri May 28 17:11:31 2004 -->
 
   
 			
@@ -534,29 +542,26 @@ Sign up for daily e-News updates and receive the latest local news. <br>
 						</tr>
 					</tbody></table>
 					<!-- ------------------END SEPARATOR TABLE------------------------- -->
-			
-			<table width="600" border="0" cellspacing="0" cellpadding="4" bgcolor="#000033" height="60" class="framebgcolor">
-			<tbody><tr><td valign="top" align="center">
-			<!-- AdSpace adsize=500x144 pos.2 -->
-			<iframe width="500" height="144" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/adsize=500x144&amp;site=DRMN&amp;vgncontent=HOME&amp;pagetype=ARTICLE_DETAIL&amp;PagePos=2">
-			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=DRMN&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=500x144&PagePos=2'>
-			</script>
-			<noscript>
-			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=DRMN&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=500x144&PagePos=2'>
-			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=DRMN&vgncontent=HOME&pagetype=ARTICLE_DETAIL&adsize=500x144&PagePos=2' border=0></a>
-			</noscript>
-			</iframe>
-			<!-- /AdSpace --></td>
-			</tr>
-			</tbody></table>
+			<!-- ----------------------BEGIN SITE FOOTER COPYRIGHT COMPONENT----------------------- -->
+<table width="600" border="0" cellspacing="0" cellpadding="5"><tbody><tr><td width="300" align="left" valign="bottom" class="framebgcolor"><span class="navbartext"><a href="http://denver.rockymountainnews.com/aboutus/" class="navbartext2">ABOUT US </a> <br><a href="http://cfapp.rockymountainnews.com/news/archive/" class="navbartext">ARCHIVES</a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://denver.rockymountainnews.com/aboutus/faq.shtml" class="navbartext"><b>FAQ</b></a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://denver.rockymountainnews.com/aboutus/subscribe.shtml" class="navbartext">SUBSCRIBE</a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://denver.rockymountainnews.com/aboutus/contactus.shtml" class="navbartext"><b>CONTACT US</b></a><br><a href="http://www.rockymountainnews.com/drmn/site_map/0,1299,,00.html" class="navbartext">SITE MAP</a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://cfapp.rockymountainnews.com/news/photoReprints/" class="navbartext">PHOTO REPRINTS</a>  <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1"> <a href="http://cfapp.rockymountainnews.com/news/corrections/" class="navbartext">CORRECTIONS</a></span></td><td width="300" align="right" valign="bottom" class="framebgcolor"><span class="railtext">2004 © The E.W. Scripps Co.<br><b><a href="http://www.rockymountainnews.com/drmn/home/article/1,1299,DRMN_1_3162,00.html" class="navbartext">Privacy Policy</a></b> and<b> <a href="http://www.rockymountainnews.com/drmn/home/article/1,1299,DRMN_1_3088,00.html" class="navbartext">User Agreement</a></b><br>Questions? Comments? <b><a href="mailto:talktous@rockymountainnews.com" class="navbartext">Talk to Us</a></b>.</span></td><td width="45" class="framebgcolor"><a href="http://www.scripps.com/"><img src="/drmn/images/logos/lighthouse.gif" width="40" height="40" align="right" hspace="3" border="0" alt="E.W. Scripps Co."></a> </td></tr></tbody></table><!-- ----------------------END SITE FOOTER COPYRIGHT COMPONENT ----------------------- -->
 					<!-- ------------------BEGIN SEPARATOR TABLE------------------------- --> 
 					<table width="600" border="0" cellspacing="0" cellpadding="0" height="">
 						<tbody><tr class="framebgcolor">
 							<td><img src="/drmn/images/spacers/spacer.gif" width="1" height="1" border="0" alt=""></td>
 						</tr>
 					</tbody></table>
-					<!-- ------------------END SEPARATOR TABLE------------------------- --><!-- ----------------------BEGIN SITE FOOTER COPYRIGHT COMPONENT----------------------- -->
-<table width="600" border="0" cellspacing="0" cellpadding="5"><tbody><tr><td width="300" align="left" valign="bottom" class="framebgcolor"><span class="navbartext"><a href="http://denver.rockymountainnews.com/aboutus/" class="navbartext2">ABOUT US </a> <br><a href="http://denver.rockymountainnews.com/archive/" class="navbartext">ARCHIVES</a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://denver.rockymountainnews.com/aboutus/faq.shtml" class="navbartext"><b>FAQ</b></a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://denver.rockymountainnews.com/aboutus/subscribe.shtml" class="navbartext">SUBSCRIBE</a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://denver.rockymountainnews.com/aboutus/contactus.shtml" class="navbartext"><b>CONTACT US</b></a><br><a href="http://www.rockymountainnews.com/drmn/site_map/0,1299,,00.html" class="navbartext">SITE MAP</a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://cfapp.rockymountainnews.com/news/photoReprints/index.cfm" class="navbartext">PHOTO REPRINTS</a>  <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1"> <a href="http://cfapp.rockymountainnews.com/news/corrections/" class="navbartext">CORRECTIONS</a></span></td><td width="300" align="right" valign="bottom" class="framebgcolor"><span class="railtext">2003 © The E.W. Scripps Co.<br><b><a href="http://www.rockymountainnews.com/drmn/home/article/1,1299,DRMN_1_3162,00.html" class="navbartext">Privacy Policy</a></b> and<b> <a href="http://www.rockymountainnews.com/drmn/home/article/1,1299,DRMN_1_3088,00.html" class="navbartext">User Agreement</a></b><br>Questions? Comments? <b><a href="mailto:talktous@rockymountainnews.com" class="navbartext">Talk to Us</a></b>.</span></td><td width="45" class="framebgcolor"><a href="http://www.scripps.com/"><img src="/drmn/images/logos/lighthouse.gif" width="40" height="40" align="right" hspace="3" border="0" alt="E.W. Scripps Co."></a> </td></tr></tbody></table><!-- ----------------------END SITE FOOTER COPYRIGHT COMPONENT ----------------------- --><!-- MaxSize (2) -->  <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
+					<!-- ------------------END SEPARATOR TABLE------------------------- -->
+			<table width="600" border="0" cellspacing="0" cellpadding="4" bgcolor="#000033" height="60" class="framebgcolor">
+			<tbody><tr><td valign="top" align="center">
+		    <!-- AdSpace adsize=468x60 pos.f1 -->
+			<script language="JavaScript">GetAd('51', false, 'f1', 468, 60, 'HOME_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/HOME_ARTICLE_DETAIL;abr=!webtv;pos=f1;sz=468x60;tile=51;ord=101399074977005?"></script>
+			<noscript>
+			<a href='http://ad.doubleclick.net/jump/www.rmn.com/HOME_ARTICLE_DETAIL;pos=f1;tile=51;sz=468x60;ord=123456789?' target='_blank'>
+			<img src='http://ad.doubleclick.net/ad/www.rmn.com/HOME_ARTICLE_DETAIL;pos=f1;tile=51;sz=468x60;ord=123456789?' width='468' height='60' border=0 alt=''></a>
+			</noscript>
+			<!-- /AdSpace --></td>
+			</tr>
+			</tbody></table><!-- MaxSize (2) --> <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
     </td>
 
 <!-- ----------------------BEGIN CELL THAT HOLDS RIGHT GUTTER INFO ----------------------- -->
@@ -565,10 +570,10 @@ Sign up for daily e-News updates and receive the latest local news. <br>
     	
         <img src="/drmn/images/spacers/spacer.gif" width="150" height="99" border="0">
      <!-- --------------------BEGIN ADVERTISER INDEX--------------- -->					   
-    <!-- Vignette V/5 Mon Jul 07 18:10:06 2003 -->
+	<!-- Vignette V6 Fri Jun 18 18:06:46 2004 -->
 
    
-		<!-- DRMN,3,1705,GUTTER_AD,no,NEWS -->
+		<!-- DRMN,3,1705,GUTTER_AD,no -->
 		<!-- --------------------BEGIN ADVERTISER INDEX--------------- --> 
 		<table width="150" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
@@ -585,38 +590,32 @@ Sign up for daily e-News updates and receive the latest local news. <br>
 				<!-- Begin Dynamic ads -->
 
 				
-					<tbody><tr>
-						<td vspace="6" align="center">
-						
-			<!-- AdSpace vgncontent=NEWS adsize=120x90 pos.1  pagetype=ARTICLE_DETAIL -->
-			<iframe width="120" height="90" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=DRMN&amp;vgncontent=NEWS&amp;pagetype=ARTICLE_DETAIL&amp;adsize=120x90&amp;PagePos=1">
-			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=1'>
-			</script>
+				<tbody><tr>
+					<td vspace="6" align="center">
+					
+	                
+		    <!-- AdSpace adsize=120x90 pos.g1 -->
+			<script language="JavaScript">GetAd('41', false, 'g1', 120, 90, 'NEWS_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/NEWS_ARTICLE_DETAIL;abr=!webtv;pos=g1;sz=120x90;tile=41;ord=101399074977005?"></script>
 			<noscript>
-			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=1'>
-			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=1' border=0></a>
+			<a href='http://ad.doubleclick.net/jump/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g1;tile=41;sz=120x90;ord=123456789?' target='_blank'>
+			<img src='http://ad.doubleclick.net/ad/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g1;tile=41;sz=120x90;ord=123456789?' width='120' height='90' border=0 alt=''></a>
 			</noscript>
-			</iframe>
 			<!-- /AdSpace -->
-		
-						</td>
-					</tr>
-					<tr>
-						<td vspace="6" align="center">
-						
-			<!-- AdSpace vgncontent=NEWS adsize=120x90 pos.2  pagetype=ARTICLE_DETAIL -->
-			<iframe width="120" height="90" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=DRMN&amp;vgncontent=NEWS&amp;pagetype=ARTICLE_DETAIL&amp;adsize=120x90&amp;PagePos=2">
-			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=2'>
-			</script>
+					</td>
+				</tr>
+				<tr>
+					<td vspace="6" align="center">
+					
+	                
+		    <!-- AdSpace adsize=120x90 pos.g2 -->
+			<script language="JavaScript">GetAd('42', false, 'g2', 120, 90, 'NEWS_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/NEWS_ARTICLE_DETAIL;abr=!webtv;pos=g2;sz=120x90;tile=42;ord=101399074977005?"></script>
 			<noscript>
-			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=2'>
-			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x90&PagePos=2' border=0></a>
+			<a href='http://ad.doubleclick.net/jump/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g2;tile=42;sz=120x90;ord=123456789?' target='_blank'>
+			<img src='http://ad.doubleclick.net/ad/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g2;tile=42;sz=120x90;ord=123456789?' width='120' height='90' border=0 alt=''></a>
 			</noscript>
-			</iframe>
 			<!-- /AdSpace -->
-		
-						</td>
-					</tr>
+					</td>
+				</tr>
 
 				<!-- End Dynamic ads -->
 				</tbody></table>
@@ -630,22 +629,136 @@ Sign up for daily e-News updates and receive the latest local news. <br>
 		<tbody><tr>
 			<td><img src="/drmn/images/sidebar/extras_footer.gif"></td>
 		</tr>
-		</tbody></table><p>
+		</tbody></table><p><!-- NEWS -->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" valign="top">
+				
+				<tbody><tr>
+					<td vspace="6" align="center">
+					
+	                
+		    <!-- AdSpace adsize=120x600 pos.g3 -->
+			<script language="JavaScript">GetAd('43', true, 'g3', 120, 600, 'NEWS_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/NEWS_ARTICLE_DETAIL;abr=!webtv;pos=g3;sz=120x600;ptile=43;ord=101399074977005?"></script>
+			<noscript>
+			<a href='http://ad.doubleclick.net/jump/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g3;ptile=43;sz=120x600;ord=123456789?' target='_blank'>
+			<img src='http://ad.doubleclick.net/ad/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g3;ptile=43;sz=120x600;ord=123456789?' width='120' height='600' border=0 alt=''></a>
+			</noscript>
+			<!-- /AdSpace -->
+					</td>
+				</tr><tr><td>&nbsp;</td></tr>
+				<tr>
+					<td vspace="6" align="center">
+					
+	                
+		    <!-- AdSpace adsize=120x1000 pos.g4 -->
+			<script language="JavaScript">GetAd('44', false, 'g4', 120, 1000, 'NEWS_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/NEWS_ARTICLE_DETAIL;abr=!webtv;pos=g4;sz=120x1000;tile=44;ord=101399074977005?"></script>
+			<noscript>
+			<a href='http://ad.doubleclick.net/jump/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g4;tile=44;sz=120x1000;ord=123456789?' target='_blank'>
+			<img src='http://ad.doubleclick.net/ad/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g4;tile=44;sz=120x1000;ord=123456789?' width='120' height='1000' border=0 alt=''></a>
+			</noscript>
+			<!-- /AdSpace -->
+					</td>
+				</tr>
+			</tbody></table></p><p>
 			<table width="150" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td>
-				<!--Top Classifieds ad tag-->
-<iframe width="120" height="1000" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=DRMN&amp;vgncontent=NEWS&amp;adsize=120x1000&amp;PagePos=1">
-<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&adsize=120x1000&PagePos=1">
+				<table width="150" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr> 
+		  <td class="framebgcolor">&nbsp;<span class="railtext"><b>Search the Web</b></span></td><td class="framebgcolor" align="right" valign="top"><img src="http://cfapp.rockymountainnews.com/vtemplate/tab_end_topright.gif" width="12" height="15" hspace="0"></td>
+		</tr>
+	  </tbody></table>
+	  <table width="150" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr> 
+		  <td width="5" class="framebgcolor">&nbsp;</td>
+		  <td width="140" class="gutterservicesbg2" valign="top"><!-- GOOGLE SEARCH TABLE --> 
+<style type="text/css">
+<!--form {margin-bottom: 0px; margin-top: 0px; margin-right: 0px; padding: 0px; float: center}-->
+</style> 
+<center>
+<form action="http://websearch.insidedenver.com/drmn/web/webSearchResults" method="post" name="GOOGLE_SEARCH">
+<input type="text" name="searchString" size="8">
+<input type="hidden" name="searchType" size="8" value="Google">
+<input type="image" name="go" src="http://www.postnewsads.com/google/images/go.gif" border="0"><br>
+<img src="http://www.postnewsads.com/google/images/poweredbygoogle.gif">
+</form>
+<!-- GOOGLE SEARCH TABLE --><center><table width="120" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><center><!--Subscription button stays in top position always-->
+<hr size="1" noshade="" width="120">
+
+<!-- Rocky Mountain News Customer Care widget -->
+<script language="JavaScript">
+<!-- Start Hiding the Script
+function jumpTo(URL_List){
+   var URL = URL_List.options[URL_List.selectedIndex].value;
+   window.location.href = URL;
+}
+// Stop Hiding script --->
 </script>
-<noscript>
-<a href="http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&adsize=120x1000&PagePos=1">
-<img src="http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=DRMN&vgncontent=NEWS&adsize=120x1000&PagePos=1" border=0></a>
-</noscript>
-</iframe><!-- MaxSize (1) -->
+
+	<style type="text/css">
+<!--
+.smallfont {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	
+}
+
+
+-->
+</style>
+
+
+<!-- ImageReady Slices (customercare3.psd) -->
+
+<table width="120" height="160" cellpadding="1" cellspacing="0" border="0" bgcolor="000000"><tbody><tr><td>
+<table width="118" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<a href="https://www.post-newscustomercare.com/olive/main.asp?pub=RM"><img src="http://www.postnewsads.com/customercare/banner/olive_rmn.gif" width="118" height="88" alt="" border="0"></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://www.subscriber-services.com/dna/main.asp?bhcp=1"><img src="http://www.postnewsads.com/customercare/banner/customercare_logo.gif" width="118" height="39" alt="" border="0"></a></td>
+	</tr>
+	<tr>
+		<td bgcolor="EDE8D9" height="31" align="center">
+			<form name="customercare">
+			<select name="SelectResort" onchange="jumpTo(this);" class="smallfont" style="margin-bottom: 1px">
+			<option value="">Select one
+			</option><option value="https://www.subscriber-services.com/dna/main.asp?bhcp=1">Subscribe
+			</option><option value="https://www.subscriber-services.com/dna/main.asp?bhcp=1">Vacation hold
+</option><option value="https://www.subscriber-services.com/dna/main.asp?bhcp=1">Feedback
+</option><option value="https://www.subscriber-services.com/dna/main.asp?bhcp=1">Make payment</option></select></form>
+
+			</td>
+	</tr>
+</tbody></table></td></tr></tbody></table>
+<!-- Rocky Mountain News Customer Care widget -->
+</center></td></tr></tbody></table><br></center></center></td>
+		  <td width="5" class="framebgcolor">&nbsp;</td>
+		</tr>
+	  </tbody></table>
+	  <table width="150" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr> 
+		  <td class="framebgcolor" align="right"><img src="http://cfapp.rockymountainnews.com/vtemplate/tab_end_bottomright.gif" width="12" height="15" align="right" hspace="0"></td>
+		</tr>
+	  </tbody></table>
+
+<!-- Shoshkeles code to be removed May 7, 2004 -->
+<!--[if gte IE 5]>
+<SCRIPT LANGUAGE="JScript">
+for (var shI=0;shI<document.links.length;shI++){
+	if (document.links[shI].href.toLowerCase()=='http://www.postnewsrealestate.com/'){
+		document.links[shI].href='http://www.postnewsrealestate.com/index.cfm?REF=UV';
+	}
+}
+</SCRIPT>
+<![endif]-->
+
+<!-- Shoshkeles code to be removed May 7, 2004 --><!-- MaxSize (4) -->
 				</td>
 			</tr>
-			</tbody></table><!-- MaxSize (2) -->  <!-- --------------------END ADVERTISER INDEX--------------- -->
+			</tbody></table><!-- MaxSize (3) -->  <!-- --------------------END ADVERTISER INDEX--------------- -->
 </p></td>
 <!-- ---------------------- END CELL THAT HOLDS RIGHT GUTTER INFO ----------------------- -->
 </tr>
@@ -653,18 +766,41 @@ Sign up for daily e-News updates and receive the latest local news. <br>
 <!-- ------------------END 800 PX TABLE TO HOLD CONTENT AND RIGHT RAIL ITEMS------------------ -->
 
 
-<!-- Layer tag to support Netscape 4.x for HTML included job ads in gutter -->
-<iframe width="1" height="1" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=DRMN&amp;vgncontent=TOP_JOBS&amp;Section=top_jobs&amp;PagePos=2">
-<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=DRMN&vgncontent=TOP_JOBS&Section=top_jobs&PagePos=2">
-</script>
-</iframe>
+<!-- Omniture Site Catalyst -->
+<!-- SiteCatalyst code version: G.2.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+var s_pageName=""
+var s_server=""
+var s_channel=""
+var s_pageType=""
+var s_prop1="HOME"
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+/********** DO NOT ALTER ANYTHING ELSE BELOW THIS LINE! *************/
+var s_code=' '//--></script>
+<script language="JavaScript" src="/drmn/s_code.js"></script>
+<script language="JavaScript"><!--
+var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
+'rckymtnnws');if(s_code)document.write(s_code)}else
+document.write('<im'+'g src="http://rckymtnnws.112.2O7.net/b/ss/rckymtnnws/1/G.2--FB/s'+s_tm.getTime()+'?[AQB]'
++'&pageName='+escape(s_wd.s_pageName?s_wd.s_pageName:(s_wd.pageName?s_wd.pageName:''))
++'&server='+escape(s_wd.s_server?s_wd.s_server:(s_wd.server?s_wd.server:''))
++'&ch='+escape(s_wd.s_channel?s_wd.s_channel:(s_wd.channel?s_wd.channel:''))
++'&[AQE]" height="1" width="1" border="0" />')
+//--></script><img name="s_i_rckymtnnws" height="1" width="1" border="0" src="https://102.112.2O7.net/b/ss/rckymtnnws/1/G.2-XPd-S/s68416812641536?[AQB]&amp;ndh=1&amp;t=31/0/2020%201%3A52%3A35%205%200&amp;c1=HOME&amp;g=https%3A//web.archive.org/web/20040623075948id_/http%253A//www.rockymountainnews.com/drmn/home/article/1%252C1299%252CDRMN_1_3162%252C00.html&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
+//--></script><noscript><img
+src="http://rckymtnnws.112.2O7.net/b/ss/rckymtnnws/1/G.2-XPd-S"
+height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: G.2. -->
 
-
-<!-- AdSpace adtype=SUPERSTITIAL pos.1 -->
-<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=DRMN&amp;vgncontent=HOME&amp;pagetype=ARTICLE-DETAIL&amp;adtype=FOOTER_RICHMEDIA&amp;PagePos=1">
-</script>
-<!-- /AdSpace -->
-
+<!-- End Omniture Site Catalyst -->
 
 
 </body></html>
