@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uefa.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203185152id_/http%3A//uefa.com/uefa/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uefa.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604072107id_/http%3A//uefa.com/uefa/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # uefa.com - UEFA - Privacy Policy
 
@@ -36,7 +36,7 @@ UEFA takes your privacy seriously. Please read the following Privacy Policy care
 | • | UEFA needs to share your information to provide the product or service you have requested;  
 | • | UEFA needs to send the information to third parties who work on behalf of UEFA to provide a product or service to you (unless otherwise stated so, these third parties do not have any rights to use the personal identifying information UEFA provides to them beyond what is necessary to provide a product or service to you);  
 | • | UEFA responds to courts or authorities; or  
-| • | UEFA finds that your actions on the Website violate [_UEFA Website Terms and Conditions of Use_](http://213.130.44.201:8001/uefa/TermsConditions.html) or any other UEFA's guidelines or rules applicable for specific services.  
+| • | UEFA finds that your actions on the Website violate [_UEFA Website Terms and Conditions of Use_](https://web.archive.org/uefa/TermsConditions.html) or any other UEFA's guidelines or rules applicable for specific services.  
   
  **Cookies  
 **
@@ -81,4 +81,6 @@ UEFA takes your privacy seriously. Please read the following Privacy Policy care
 **
 
 • | If you have any questions or suggestions regarding this Privacy Policy, please send an e-mail to [_info@uefa.com_](mailto:info@uefa.com).  
----|---
+---|---  
+  
+[](https://web.archive.org/news/newsId=3442,printer.htmx)
