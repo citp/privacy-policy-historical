@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russiandating.ru privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011053439id_/http%3A//russiandating.ru/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russiandating.ru privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404160218id_/http%3A//russiandating.ru/Privacy.shtml) for the most accurate reproduction.*
 
 # Russian Dating Privacy Policy
 
@@ -62,5 +62,3 @@
 > If I would like to remove my profile from database. You have to go to Update page in the lower part of the page Remove Your Profile enter the ID and password of your profile. Click on Remove profile button.  
 >  [admin@russiandating.ru ](mailto:admin@russiandating.ru%20)  
 > 
-
-[](http://russianmatch.ru/aff/scripts/t.php?a_aid=2&a_bid=3)
