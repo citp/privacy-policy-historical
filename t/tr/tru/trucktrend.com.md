@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trucktrend.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202215410id_/http%3A//www1.trucktrend.com/corporate/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trucktrend.com privacy policy that was archived on 2004-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040212223535id_/http%3A//trucktrend.com/corporate/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - Truck
 
