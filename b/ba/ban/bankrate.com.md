@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankrate.com privacy policy that was archived on 1999-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991013005651id_/http%3A//bankrate.com/brm/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankrate.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621160715id_/http%3A//www.bankrate.com/brm/about/privacy.asp) for the most accurate reproduction.*
 
 # About bankrate.com: Privacy policy
 
@@ -10,7 +10,7 @@ N. Palm Beach, FL 33408
 
 We can be reached via email at [webmaster@mail.bankrate.com](mailto:webmaster@mail.bankrate.com)
 
-Or you can call us at (561) 630-1203
+Or you can call us at (561) 630-1203.
 
 **
 
@@ -28,7 +28,7 @@ _
 > 
 > When you sign up for the Fee Fighter, we need to know your name and postal address -- which we use to send the information requested.
 > 
-> When you subscribe to Rate Alert, we need to know your name, zip code and email address \-- which we use to send the information requested.
+> When you subscribe to Rate Alert, we need to know your name, ZIP code and email address \-- which we use to send the information requested.
 > 
 > We email Rate Alerts only to those who have signed up to receive them. 
 > 
