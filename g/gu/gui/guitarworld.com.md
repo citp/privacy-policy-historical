@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarworld.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211131943id_/http%3A//www.guitarworld.com/0100/framesets/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarworld.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605161746id_/http%3A//www.guitarworld.com/0100/framesets/privacy.html) for the most accurate reproduction.*
 
 # Guitar World | Privacy Policy
 
@@ -14,8 +14,6 @@ You do not have to provide any personally identifiable information to use the Si
 Harris will make an effort to include a link to the Privacy Policy whenever we ask you for additional personally identifiable information.  
 
 
-****
-
 _**How is my personally identifiable information used?**_ _  
 _
 
@@ -23,11 +21,7 @@ We use the personally identifiable information on our subscription form to ensur
 
 We may also aggregate the information we collect to develop certain summary reports for our partners and/or advertisers. We provide this information to assist our partners and/or advertisers in determining how to promote their products and services. In so doing, we do not reveal personally identifiable information or disclose specifically who saw or clicked on their advertisements or other links.
 
-**_
-
-Who has access to my personally identifiable information?
-
-_**
+**_Who has access to my personally identifiable information?_**
 
   
 Only Harris has ongoing access to your personally identifiable information.
@@ -54,11 +48,7 @@ Harris does not disclose your personally identifiable information to any third p
 **Administering the Site and Compliance with Law:** Harris may disclose your personally identifiable information if we believe in good faith that we are required to do so in order to comply with applicable law, a subpoena, or other legal process. Harris may also disclose information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use, or to protect the safety of our users or the public. In addition, Harris may disclose or access personally identifiable information for administrative and other purposes that we believe are necessary to develop, maintain and improve our products and services.  
 
 
-**_
-
-How do I opt out of or modify the collection, disclosure and distribution of personally identifiable information?
-
-_**
+**_How do I opt out of or modify the collection, disclosure and distribution of personally identifiable information?_**
 
 You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Site. Please note, however, that you must provide some personally identifiable information in order to subscribe to Vampirella, to enter any of the Site contests, promotions or sweepstakes, to join the Official Vampirella Fan Club, to post messages on the Site, or to receive our retailer promo pack
 
