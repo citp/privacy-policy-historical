@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203054556id_/http%3A//www.vacationidea.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2004-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040203133013id_/http%3A//www.vacationidea.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
