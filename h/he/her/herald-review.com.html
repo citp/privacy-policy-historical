@@ -1,19 +1,75 @@
-<!--The following is the downloaded HTML source of the herald-review.com privacy policy that was archived on 2003-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031002125243id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the herald-review.com privacy policy that was archived on 2004-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604165211id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Herald &amp; Review Newspaper Website - Decatur, Illinois</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="Herald and Review Newspaper Website for Decatur and Central Illinois">
-<meta name="keywords" content="Decatur, Illinois, Central Illinois, Illini, University of Illinois, Herald &amp; Review, Illinois Newspaper, Obituaries, Births, Weddings, Decatur Weather, Real Estate, Decatur Business, Mark Tupper, Millikin, Decatur Events, Macon County">
+<meta name="keywords" content="Decatur, Illinois, Central Illinois, Illini, University of Illinois, Herald &amp; Review, Illinois Newspaper, Obituaries, Births, Weddings, Decatur Weather, Real Estate, Rentals, Autos, Cars, Trucks, Jobs, Business, Mark Tupper, Millikin, Events, Macon County">
+<script>
+//PopUnder Power by Mike New, Visit http://www.mikenew.net/downloads/scripts.asp for more scripts. 
+// Special thanks to Jeff Phillips of http://classadrivers.com, for some good mods
+var popunder=new Array()
+popunder[0]="http://www.herald-review.com/popups/subscribepopup.html"
+//popunder[1]="http://www.mikenew.net"
+//popunder[2]="http://www.sitechex.com/internet.cfm"
+// Specify the width and height of new popunder window (in pixels).
+var width = '740'; 
+var height = '230';
+var p = 'scrollbars=yes,resizable=yes,toolbar=no,' + //these are obvious variables. set "yes" or "no".
+'menubar=no,status=no,location=no,left=85,top=20,height=' +  //yes/no, & the screen location
+height + ',width=' + width;
+// Load new PopUnder only once per browser session? (0=no, 1=yes)
+// Putting 0 will cause the Popunder to load every time page is loaded
+// Specifying 1 will cause it to load only once per session
+var one_time=1
+function get_cookie(Name) {
+  var search = Name + "="
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    if (offset != -1) { // if the cookie exists
+      offset += search.length
+      end = document.cookie.indexOf(";", offset); // set the index of beginning value
+          if (end == -1) // set the index of the end of cookie value
+         end = document.cookie.length;
+         returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+function loadornot(){
+if (get_cookie('popunder')==''){
+load_pop_power()
+document.cookie="popunder=yes"
+}
+}
+function load_pop_power(){
+win2=window.open(popunder[Math.floor(Math.random()*(popunder.length))],"bw",p)
+win2.blur()
+window.focus()
+}
+if (one_time==0)
+load_pop_power()
+else
+loadornot()
+</script>
 </head>
-<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<div align="center"></div>
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td colspan="3"><font face="Arial, Helvetica, sans-serif" size="4" color="#336699"> 
-      <script language="JavaScript" type="text/JavaScript">
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('http://www.herald-review.com/images/0104/pageelements/newspagenav_r1_c2.gif','http://www.herald-review.com/images/0104/pageelements/frontpagenav_r1_c1.gif','http://www.herald-review.com/images/0104/pageelements/sportspagenav_r1_c3.gif','http://www.herald-review.com/images/0104/pageelements/lifepagenav_r1_c4.gif','http://www.herald-review.com/images/0104/pageelements/classifiedspagenav_r1_c5.gif','http://www.herald-review.com/images/0104/pageelements/calendarpagenav_r1_c6.gif')">
+<table width="760" border="0" cellspacing="0" cellpadding="0"> 
+<tbody><tr> <td colspan="3"><link href="http://www.herald-review.com/for_gerry/images/styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
 <!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
 function MM_findObj(n, d) { //v4.01
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
@@ -22,140 +78,67 @@ function MM_findObj(n, d) { //v4.01
   if(!x && d.getElementById) x=d.getElementById(n); return x;
 }
 
-function MM_showHideLayers() { //v6.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
-    obj.visibility=v; }
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 //-->
 </script>
-<div id="Layer1" style="position:absolute; left:135px; top:134px; width:625px; height:35px; z-index:1;; overflow: hidden; visibility: hidden" onmouseover="MM_showHideLayers('Layer1','','show')" onmouseout="MM_showHideLayers('Layer1','','hide')"> 
-<table width="625" border="0" cellspacing="0" cellpadding="0" align="left" height="35"> 
-<tbody><tr> <td width="625" height="2" background="http://www.herald-review.com/images/0802imagefiles/topnav/hrnewsdown_r2_c1.gif" colspan="2"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/hrnewsdown_r2_c1.gif" width="8" height="2"></font></td></tr> 
-<tr> <td width="625" bgcolor="#ECDFC6" height="35" valign="top" align="left" colspan="2"> 
-<div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.herald-review.com/rednews/headlines/previousweeks.php">ARCHIVE 
-SEARCH</a> |&nbsp;<a href="http://www.herald-review.com/current/Births/births.php">BIRTH 
-ANNOUNCEMENTS</a> | <a href="http://www.herald-review.com/Business/index.php">BUSINESS 
-NEWS</a> | <a href="http://www.herald-review.com/Editorials/index.php">EDITORIALS</a> 
-<br> <a href="http://www.herald-review.com/Local_News/index.php">LOCAL 
-NEWS</a> | <a href="http://www.herald-review.com/Nation/index.php">NATION 
-/ WORLD</a> | <a href="http://www.legacy.com/herald-review">OBITUARIES</a> 
-| <a href="http://www.herald-review.com/State/index.php">STATE 
-&amp; REGION</a> | <a href="http://wp.myweather.net/wp?pub=hera771107">WEATHER</a> 
-| <a href="http://www.herald-review.com/current/Weddings/weddings.php">WEDDINGS</a>&nbsp; 
-</font></div></td></tr> 
-</tbody></table></div><div id="Layer2" style="position:absolute; left:135px; top:134px; width:625px; height:35px; z-index:2; visibility: hidden" onmouseover="MM_showHideLayers('Layer2','','show')" onmouseout="MM_showHideLayers('Layer2','','hide')"> 
-<table width="625" border="0" cellspacing="0" cellpadding="0" align="left" height="35"> 
-<tbody><tr> <td colspan="3" background="http://www.herald-review.com/images/0802imagefiles/topnav/sportsoutdoorsdown_r2_c2.gif"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/sportsoutdoorsdown_r2_c2.gif" width="64" height="2"></font></td></tr> 
-<tr bgcolor="#FFFFFF" align="left" valign="top"> 
-<td colspan="3" height="35" bgcolor="#D7EAEE"> 
-<div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.hrpreps.com/index.php">HR 
-PREPS</a> | <a href="http://www.herald-review.com/Illini/index.php">ILLINI 
-SPORTS</a> | <a href="http://www.herald-review.com/Local_Sports/index.php">LOCAL 
-SPORTS</a> | <a href="http://www.herald-review.com/Millikin/index.php">MILLIKIN 
-SPORTS</a> | <a href="http://www.herald-review.com/rednews/headlines/tupperweekly.php">TUPPER 
-ONLINE</a> | <a href="http://www.herald-review.com/rednews/headlines/previousweeks.php">ARCHIVES 
-SEARCH</a> </font></div></td></tr> 
-</tbody></table></div><div id="Layer3" style="position:absolute; left:135px; top:134px; width:625px; height:35px; z-index:3; visibility: hidden" onmouseover="MM_showHideLayers('Layer3','','show')" onmouseout="MM_showHideLayers('Layer3','','hide')"> 
-<table width="625" border="0" cellspacing="0" cellpadding="0" align="left" height="35"> 
-<tbody><tr> <td colspan="3" height="2" background="http://www.herald-review.com/images/0802imagefiles/topnav/marketdown_r2_c1.gif"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/marketdown_r2_c1.gif" width="11" height="2"></font></td></tr> 
-<tr bgcolor="#FFFFFF" align="left" valign="top"> 
-<td colspan="3" height="35" bgcolor="#DEE7DE"> 
-<div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://data.herald-review.com/data/connections/search.asp" target="adbox" onclick="window.open('','adbox','height=440,width=520,scrollbars=yes');">BUSINESS 
-CONNECTIONS</a> | <a href="http://www.herald-review.com/classifieds/classifiedsportal.php">CLASSIFIED 
-ADS</a> | <a href="http://www.herald-review.com/homeseller/commpropertyindex.htm">COMMERCIAL 
-PROPERTIES</a>&nbsp;| 
-<a href="https://secure.lee.net/herald-review.com/diningcard/">DINING 
-CARD</a> |&nbsp;<a href="http://www.employmentwizard.com/default.cfm?pid=111" onmouseout="MM_showHideLayers('Layer3','','hide')">EMPLOYMENT 
-WIZARD</a> <br> <a href="http://www.hrpersonals.com/">HR 
-PERSONALS</a> | <a href="http://www.herald-review.com/homeseller/index.htm">HOMESELLER</a> 
-|&nbsp;<a href="https://secure.lee.net/herald-review.com/teefortwo">TEE 
-FOR TWO</a> | <a href="http://www.theprairieshopper.com"><font size="1">THE 
-PRAIRIE SHOPPER</font></a> 
-| <a href="http://www.wheelsforyouonline.com">WHEELS 
-FOR YOU</a></font></div></td></tr> 
-</tbody></table></div><div id="Layer4" style="position:absolute; left:135px; top:134px; width:625px; height:35px; z-index:4; visibility: hidden" onmouseover="MM_showHideLayers('Layer4','','show')" onmouseout="MM_showHideLayers('Layer4','','hide')"> 
-<table width="625" border="0" cellspacing="0" cellpadding="0" align="left" height="35"> 
-<tbody><tr> <td colspan="3" height="2" background="http://www.herald-review.com/images/0802imagefiles/topnav/entfeaturesdown_r2_c1.gif"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/entfeaturesdown_r2_c1.gif" width="11" height="2"></font></td></tr> 
-<tr bgcolor="#FFFFFF" align="left" valign="top"> 
-<td colspan="3" height="35" bgcolor="#E3D7EA"> 
-<div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.hrtimeout.com/current/Tim_Cain_Column/cain.php" onmouseout="MM_showHideLayers('Layer4','','hide')">TIM 
-CAIN COLUMN</a> | <a href="http://www.herald-review.com/Dining/index.php">DINING 
-OUT</a> | <a href="http://www.herald-review.com/Entertainment/index.php">ENTERTAINMENT 
-NEWS</a> | <a href="http://www.hrtimeout.com/current/Events/events.php">EVENTS 
-CALENDAR</a><br> <a href="http://www.hrtimeout.com/current/Exhibits/exhibits.php">EXHIBITS 
-&amp; TOURS</a> | <a href="http://www.herald-review.com/Features/index.php">FEATURE 
-STORIES</a> | <a href="http://www.parade.com/">PARADE 
-MAGAZINE</a> | <a href="http://tvlistings1.zap2it.com/partners/index.asp?partner_id=ildehr">TV 
-PREVIEW</a> </font></div></td></tr> 
-</tbody></table></div><div id="Layer5" style="position:absolute; left:135px; top:134px; width:625px; height:35px; z-index:5; visibility: hidden" onmouseover="MM_showHideLayers('Layer5','','show')" onmouseout="MM_showHideLayers('Layer5','','hide')"> 
-<table width="625" border="0" cellspacing="0" cellpadding="0" align="left" height="35"> 
-<tbody><tr> <td colspan="3" height="2" background="http://www.herald-review.com/images/0802imagefiles/topnav/specialdown_r2_c1.gif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/specialdown_r2_c1.gif" width="11" height="2"></font></td></tr> 
-<tr bgcolor="#FFFFFF" align="left" valign="top"> 
-<td colspan="3" height="35" bgcolor="#CDE9E8"> 
-<div align="center"><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.herald-review.com/askapro/index.php">ASK 
-A PRO</a> | <a href="http://www4.xpresssites.com/lee/decatur/ib/home.jsp">BUSINESS 
-JOURNAL</a> | <a href="http://www.herald-review.com/comingtogether">COMING 
-TOGETHER</a>  | <a href="http://www4.xpresssites.com/lee/decatur/hw/home.jsp">HEALTH 
-&amp; WELLNESS</a>&nbsp;| 
-<a href="http://www4.xpresssites.com/lee/decatur/hg/home.jsp">HOME 
-&amp; GARDEN</a> <br> 
-<a href="http://www.hrtimeout.com/Special_Sections/livingourdream.php">LIVING 
-OUR DREAM</a> | <a href="http://www.herald-review.com/nieonline">NIE</a> 
-| <a href="http://www4.xpresssites.com/lee/decatur/ot/home.jsp">OUR 
-TIME</a> | <a href="http://www4.xpresssites.com/lee/decatur/gf/home.jsp">TODAY'S GOLF</a> 
-| <a href="http://www4.xpresssites.com/lee/decatur/br/home.jsp">WEDDING 
-GUIDE</a> | <a href="http://www4.xpresssites.com/lee/decatur/ym/home.jsp">YOUR 
-MONEY</a> </font></div></td></tr> 
-</tbody></table></div><div id="Layer6" style="position:absolute; left:135px; top:134px; width:625px; height:35px; z-index:6; visibility: hidden" onmouseover="MM_showHideLayers('Layer6','','show')" onmouseout="MM_showHideLayers('Layer6','','hide')"> 
-<table width="625" border="0" cellspacing="0" cellpadding="0" align="left" height="35"> 
-<tbody><tr> <td colspan="3" height="2" background="http://www.herald-review.com/images/0802imagefiles/topnav/photodown_r2_c1.gif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/photodown_r2_c1.gif" width="11" height="2"></font></td></tr> 
-<tr bgcolor="#FFFFFF" align="left" valign="top"> 
-<td colspan="3" height="35" bgcolor="#F1E4EA"> 
-<div align="center"><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.herald-review.com/darkroom/index.php">DIGITAL 
-DARKROOM</a> | <a href="http://www.herald-review.com/hr360">HR 
-360</a> | <a href="http://www.herald-review.com/arc">PHOTO 
-ARCHIVES</a></font></div></td></tr> 
-</tbody></table></div><div id="Layer7" style="position:absolute; left:135px; top:134px; width:625px; height:35px; z-index:7; visibility: hidden" onmouseover="MM_showHideLayers('Layer7','','show')" onmouseout="MM_showHideLayers('Layer7','','hide')"> 
-<table width="625" border="0" cellspacing="0" cellpadding="0" align="left" height="35"> 
-<tbody><tr> <td colspan="3" height="2" background="http://www.herald-review.com/images/0802imagefiles/topnav/custservicedown_r2_c1.gif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/custservicedown_r2_c1.gif" width="11" height="2"></font></td></tr> 
-<tr bgcolor="#FFFFFF" align="left" valign="top"> 
-<td colspan="3" height="35" bgcolor="#FFEEDD"> 
-<div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><a href="https://secure.lee.net/herald-review.com/custservice/carrieropportunity.html">BECOME 
-A CARRIER</a> | <a href="https://secure.lee.net/herald-review.com/custservice/custservice.html">CONTACT 
-CIRCULATION</a> |&nbsp;<a href="https://secure.lee.net/herald-review.com/custservice/deliveryissues.html">DELIVERY 
-ISSUES</a> | <a href="https://secure.lee.net/herald-review.com/custservice/faq.html">F. 
-A. Q.</a> | <a href="https://secure.lee.net/herald-review.com/custservice/paymentform.html">ONLINE 
-PAYMENTS</a> | <a href="https://secure.lee.net/herald-review.com/custservice/subscribeform.html">NEW 
-SUBSCRIPTIONS</a> </font></div></td></tr> 
-</tbody></table></div><div id="Layer8" style="position:absolute; left:135px; top:134px; width:625px; height:35px; z-index:8; visibility: hidden" onmouseover="MM_showHideLayers('Layer8','','show')" onmouseout="MM_showHideLayers('Layer8','','hide')"> 
-<table width="625" border="0" cellspacing="0" cellpadding="0" align="left" height="35"> 
-<tbody><tr> <td colspan="3" height="2" background="http://www.herald-review.com/images/0802imagefiles/topnav/contactusdown_r2_c1.gif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/contactusdown_r2_c1.gif" width="11" height="2"></font></td></tr> 
-<tr bgcolor="#FFFFFF" align="left" valign="top"> 
-<td colspan="3" height="35" bgcolor="#DDDDDD"> 
-<div align="center"><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.herald-review.com/contact/contactus.php">DEPARTMENT 
-DIRECTORY</a> | <a href="http://www.herald-review.com/Editorials/lettertoeditor.php">SEND 
-A LETTER TO THE EDITOR</a> 
-| <a href="http://www.herald-review.com/Editorials/submitpressrelease.php">SEND 
-A PRESS RELEASE</a></font></div></td></tr> 
-</tbody></table></div><table width="760" border="0" cellspacing="0" cellpadding="0" height="75"> 
-<tbody><tr> <td width="335" height="107" rowspan="2" valign="middle" bgcolor="#336699"> 
-<div align="center"><a href="http://www.herald-review.com"><img src="http://www.herald-review.com/images/0802imagefiles/pageheader/hrmasthead.gif" width="335" height="57" alt="Herald &amp; Review Online Edition" border="0" onload="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide','Layer7','','hide','Layer8','','hide')"></a><br> 
-<table width="335" border="0" cellspacing="0" cellpadding="0"> 
-<tbody><tr> <td width="167"><center> 
-<font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="1">ONLINE 
-EDITION</font> </center></td><td width="168"> 
-<div align="LEFT"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;http://www.herald-review.com</font> 
-</div></td></tr> </tbody></table></div></td><td width="185" height="107" rowspan="2" align="left" valign="middle" bgcolor="#336699"><table width="185" border="0" cellspacing="0" cellpadding="0" height="107"> 
-<tbody><tr valign="bottom"> <td height="25" colspan="3"><center><font size="1" color="#FFFFFF" face="Arial, Helvetica, sans-serif"><a style="color:#FFFFFF;text-decoration:none;" href="http://wp.myweather.net/wp?pub=hera771107">Decatur 
-Area Weather</a></font></center></td></tr> 
-<tr> <td width="5">&nbsp;</td><td width="165" align="center" valign="top"><table width="165" border="0" cellspacing="0" cellpadding="0"> 
-<tbody><tr> <td><center><script language="javascript" src="http://wp.myweather.net/wxdata/pget.asp?pub=hera&amp;page=jsweather"></script></center></td></tr> 
-</tbody></table></td><td width="15">&nbsp;</td></tr> 
-</tbody></table></td><td width="240" align="center" valign="middle" bgcolor="#336699" height="65"> 
-<center> <font face="Arial, Helvetica, sans-serif" size="4" color="#336699"> 
-<table width="234" border="0" cellspacing="0" cellpadding="0" align="center" height="60">
+
+<table width="760" height="134" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="295" height="106"><table width="295" height="106" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="18" colspan="4"><font size="1" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td height="21" colspan="4"><font size="1" face="Arial, Helvetica, sans-serif">&nbsp;</font><font size="1" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+    </tr>
+      <tr>
+        <td width="27"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r2_c1.gif" width="27" height="49"></td>
+        <td width="29" height="49"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r2_c2.gif" width="29" height="49"></td>
+        <td width="208" height="49"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r2_c3.gif" width="208" height="49"></td>
+        <td width="31" height="49"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r2_c4.gif" width="31" height="49"></td>
+      </tr>
+      <tr>
+        <td width="27" height="16"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r3_c1.gif" width="27" height="16"></td>
+        <td width="29" height="16"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r3_c2.gif" width="29" height="16"></td>
+        <td width="208" height="16"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r3_c3.gif" width="208" height="16"></td>
+        <td width="31" height="16"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r3_c4.gif" width="31" height="16"></td>
+      </tr>
+      <tr>
+        <td width="27" height="2"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r4_c1.gif" width="27" height="2"></td>
+        <td width="29" height="2"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r4_c2.gif" width="29" height="2"></td>
+        <td width="208" height="2"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r4_c3.gif" width="208" height="2"></td>
+        <td width="31" height="2"><img src="http://www.herald-review.com/images/0104/pageelements/lt-m_r4_c4.gif" width="31" height="2"></td>
+      </tr>
+    </tbody></table>
+    </td>
+    <td width="216" height="106"><table width="216" height="106" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="216" height="84" align="center" valign="bottom">
+          <table width="165" border="0" cellspacing="0" cellpadding="0"> 
+<tbody><tr> <td><center>
+
+      <script language="javascript" src="http://wp.myweather.net/wxdata/pget.asp?pub=hera&amp;page=jsweather"></script>
+</center></td></tr> 
+</tbody></table>        </td>
+      </tr>
+      <tr>
+        <td height="22" valign="top" background="http://www.herald-review.com/images/0104/pageelements/mt-m_r3_c1.gif"><center>
+            <font size="1" face="Arial, Helvetica, sans-serif">Presented By ZIPS
+            FLOWERS</font>
+        </center>
+        </td>
+      </tr>
+    </tbody></table></td>
+    <td width="249" height="134" rowspan="2">
+      <table width="249" height="134" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr align="left" valign="bottom">
+          <td height="81" colspan="6">
+            <center>
+              <font face="Arial, Helvetica, sans-serif" size="1">
+              <table width="234" border="0" cellspacing="0" cellpadding="0" align="center" height="60">
   <tbody><tr> 
     <td width="234" height="60" valign="middle" align="left"> 
       <div align="center">
@@ -201,7 +184,7 @@ Area Weather</a></font></center></td></tr>
           document.write('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 
    //-->
- </script><script language="JavaScript1.1" src="http://oas.lee.net/RealMedia/ads/adstream_mjx.ads/www.herald-review.com/smallads///1261336540@BottomLeft,BottomRight,TopRight?"></script>
+ </script><script language="JavaScript1.1" src="http://oas.lee.net/RealMedia/ads/adstream_mjx.ads/www.herald-review.com/smallads///1865743577@BottomLeft,BottomRight,TopRight?"></script>
 
  <script language="JavaScript">
    <!--
@@ -230,130 +213,139 @@ Area Weather</a></font></center></td></tr>
    //-->
  </script>
  <noscript>
-   <A HREF="http://oas.lee.net/RealMedia/ads//click_nx.cgi/www.herald-review.com/smallads//356135537/@TopRight" TARGET="_new">
-   <IMG SRC="http://oas.lee.net/RealMedia/ads//adstream_nx.cgi/www.herald-review.com/smallads//356135537/@TopRight" BORDER="0"></A>
+   <A HREF="http://oas.lee.net/RealMedia/ads//click_nx.cgi/www.herald-review.com/smallads//154915049/@TopRight" TARGET="_new">
+   <IMG SRC="http://oas.lee.net/RealMedia/ads//adstream_nx.cgi/www.herald-review.com/smallads//154915049/@TopRight" BORDER="0"></A>
  </noscript>
       </div>
     </td>
   </tr>
-</tbody></table> 
-</font> </center></td></tr> 
-<tr> <td align="left" valign="middle" bgcolor="#336699" height="42"><table width="231" border="0" align="left" cellpadding="0" cellspacing="0"> 
-<tbody><tr align="CENTER" valign="BOTTOM"> 
-<td width="55"><center> 
-<font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.employmentwizard.com/?pid=111"><img src="http://www.herald-review.com/images/0802imagefiles/hptopnav/classicons_r1_c1.gif" width="23" height="22" border="0"></a></font></center></td><td width="55"><center> 
-<font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.herald-review.com/homeseller"><img src="http://www.herald-review.com/images/0802imagefiles/hptopnav/classicons_r1_c2.gif" width="28" height="22" border="0"></a></font></center></td><td width="55"><center><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.wheelsforyouonline.com"><img src="http://www.herald-review.com/images/0802imagefiles/hptopnav/classicons_r1_c3.gif" width="31" height="22" border="0"></a></font></center></td><td width="66"><center><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.hrpersonals.com/"><img src="http://www.herald-review.com/images/0802imagefiles/hptopnav/classicons_r1_c4.gif" width="24" height="22" border="0"></a></font></center></td></tr> 
-<tr valign="TOP" align="CENTER"> 
-<td width="55"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="1"><a style="color:#FFFFFF;text-decoration:none; " href="http://www.employmentwizard.com/?pid=111">JOBS</a></font></td><td width="55"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="1">&nbsp;<a style="color:#FFFFFF;text-decoration:none; " href="http://www.herald-review.com/homeseller">HOMES</a></font></td><td width="55"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="1"><a style="color:#FFFFFF;text-decoration:none; " href="http://www.wheelsforyouonline.com">&nbsp;AUTOS</a></font></td><td width="66"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="1"><a style="color:#FFFFFF;text-decoration:none; " href="http://www.hrpersonals.com/">&nbsp;&nbsp;PERSONALS</a></font></td></tr> 
-</tbody></table></td></tr> <tr bgcolor="336699"> 
-<td colspan="3"> <table width="760" border="0" cellspacing="0" cellpadding="0"> 
-<tbody><tr> 
-          <td width="135" bgcolor="336699" height="27"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.herald-review.com"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/backtohptab.gif" width="135" height="27" border="0" alt="Return to H &amp; R Home Page"></a></font></td>
-          <td width="5" bgcolor="336699" height="27"><font face="Arial, Helvetica, sans-serif" size="1">&nbsp;</font></td>
-          <td width="70" height="27"><a href="http://www.herald-review.com/Local_News/index.php" onmouseover="MM_showHideLayers('Layer1','','show')"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r1_c2.gif" width="70" height="27" border="0" onmouseout="MM_showHideLayers('Layer1','','hide')" alt="Choose a News section"></font></a></td>
-          <td width="68" height="27"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.herald-review.com/Local_Sports/index.php" onmouseover="MM_showHideLayers('Layer2','','show')"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r1_c3.gif" width="68" height="27" border="0" onmouseout="MM_showHideLayers('Layer2','','hide')" alt="Choose a Sports section"></a></font></td>
-          <td width="68" height="27"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.herald-review.com/classifieds/classifiedsportal.php" onmouseover="MM_showHideLayers('Layer3','','show')"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r1_c4.gif" width="68" height="27" border="0" onmouseout="MM_showHideLayers('Layer3','','hide')" alt="Choose a Classifieds section"></a></font></td>
-          <td width="102" height="27"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.herald-review.com/Features/index.php" onmouseover="MM_showHideLayers('Layer4','','show')"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r1_c5.gif" width="102" height="27" border="0" onmouseout="MM_showHideLayers('Layer4','','hide')" alt="Choose an Features section"></a></font></td>
-          <td width="68" height="27"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.herald-review.com/Special_Sections/index.php" onmouseover="MM_showHideLayers('Layer5','','show')"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r1_c6.gif" width="68" height="27" border="0" onmouseout="MM_showHideLayers('Layer5','','hide')" alt="Choose a Special Section"></a></font></td>
-          <td width="68" height="27"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.herald-review.com/darkroom/index.php" onmouseover="MM_showHideLayers('Layer6','','show')"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r1_c7.gif" width="68" height="27" border="0" onmouseout="MM_showHideLayers('Layer6','','hide')" alt="Choose a Photo Gallery section"></a></font></td>
-          <td width="68" height="27"><font face="Arial, Helvetica, sans-serif" size="1"><a href="https://secure.lee.net/herald-review.com/custservice/custservice.html" onmouseover="MM_showHideLayers('Layer7','','show')"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r1_c8.gif" width="68" height="27" border="0" onmouseout="MM_showHideLayers('Layer7','','hide')" alt="Choose a Customer Service section"></a></font></td>
-          <td width="76" height="27"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.herald-review.com/contact/contactus.php" onmouseover="MM_showHideLayers('Layer8','','show')"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r1_c9.gif" width="76" height="27" border="0" onmouseout="MM_showHideLayers('Layer8','','hide')" alt="Choose a Contact Us section"></a></font></td>
-          <td width="32" bgcolor="336699" height="27"><font face="Arial, Helvetica, sans-serif" size="1">&nbsp;
-</font></td></tr> <tr background="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r2_c1.gif"> 
-<td colspan="11" bgcolor="#FFFFFF" width="760" height="2"><img src="http://www.herald-review.com/images/0802imagefiles/topnav/fpheadingsnorm_r2_c1.gif" width="9" height="2"></td>
-</tr> 
-</tbody></table></td></tr> </tbody></table>      <a name="topanchor"></a> 
-      </font></td>
+</tbody></table>              </font>            </center>
+          </td>
+        </tr>
+        <tr>
+          <td width="7" height="53"><img src="http://www.herald-review.com/images/0104/pageelements/rt-m_r2_c1.gif" width="7" height="53"></td>
+          <td width="51" height="53"><a href="http://www.herald-review.com/jobs"><img src="http://www.herald-review.com/images/0104/pageelements/rt-m_r2_c2.gif" alt="Search Online Job listings" width="51" height="53" border="0"></a></td>
+          <td width="62" height="53"><a href="http://www.herald-review.com/homeseller"><img src="http://www.herald-review.com/images/0104/pageelements/rt-m_r2_c3.gif" alt="Search Online Real Estate listings" width="62" height="53" border="0"></a></td>
+          <td width="55" height="53"><a href="http://www.wheelsforyouonline.com"><img src="http://www.herald-review.com/images/0104/pageelements/rt-m_r2_c4.gif" alt="Search Online Auto listings" width="55" height="53" border="0"></a></td>
+          <td width="66" height="53"><a href="https://secure.lee.net/herald-review.com/custservice/subscribeform.php"><img src="http://www.herald-review.com/images/0104/pageelements/rt-m_r2_c5.gif" alt="Order a Subscription to The Herald &amp; Review" width="66" height="53" border="0"></a></td>
+          <td width="8" height="53"><img src="http://www.herald-review.com/images/0104/pageelements/rt-m_r2_c6.gif" width="8" height="53"></td>
+        </tr>
+      </tbody></table>
+</td>
   </tr>
-  <tr> 
-    <td rowspan="2" align="left" valign="top" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif" width="130"><font face="Arial, Helvetica, sans-serif" size="4" color="#336699"> 
-       <table width="130" border="0" cellspacing="0" cellpadding="0" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif"> 
-<tbody><tr> <td width="130" height="100"> 
-<center> <font size="1" face="Arial, Helvetica, sans-serif"><a href="https://secure.lee.net/herald-review.com/custservice/2weeksfreeform.html"><img src="http://www.herald-review.com/images/2weeksfreebutton.gif" width="103" border="0" vspace="0" align="middle"></a> 
-</font> </center></td></tr> 
-<tr> <td width="130"> 
-<center> <font face="Arial, Helvetica, sans-serif" size="1" color="#336699"> 
- <table width="130" border="0" cellspacing="0" cellpadding="0"> 
-<tbody><tr> <td width="8" align="left" valign="middle"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r1_c1.gif" width="8" height="32"></font></td><td width="114" align="left" valign="middle"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r1_c2.gif" width="114" height="32"></font></td><td width="8" align="left" valign="middle"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r1_c3.gif" width="8" height="32"></font></td></tr> 
-<tr> <td align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r3_c1.gif" width="8"><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1">&nbsp;</font></td><td align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif" width="114"><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font> 
-      <table width="114" "="" border="0" cellspacing="0" cellpadding="0" align="left">
-        <tbody><tr> 
-          <td align="left" valign="middle" width="6" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" width="108" height="22"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/adsofweek/clown9920141.php" target="adbox" onclick="window.open('','adbox','height=350,width=375,scrollbars=yes,resizable=yes');"><font size="1" face="Arial, Helvetica, sans-serif">Book 
-            Your Party... </font></a></td>
-        </tr>
-        <tr> 
-          <td align="left" valign="middle" width="6" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" width="108" height="33"><font face="Arial, Helvetica, sans-serif" size="2"><a style="color:#FFFFFF;text-decoration:none;" href="https://secure.lee.net/herald-review.com/diningcard/"><font size="1">TWICE 
-            the DINING<br>
-            at HALF the PRICE</font></a></font></td>
-        </tr>
-      </tbody></table>
-      <font face="Arial, Helvetica, sans-serif" size="1"></font></td><td background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r3_c3.gif" align="left" valign="middle" width="8"><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1"></font><font face="Arial, Helvetica, sans-serif" size="1">&nbsp;</font></td></tr> 
-<tr> <td width="8" align="left" valign="middle"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r4_c1.gif" width="8" height="25"></td><td width="114" align="left" valign="middle"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r4_c2.gif" width="114" height="25"></td><td width="8" align="left" valign="middle"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r4_c3.gif" width="8" height="25"></td></tr> 
-</tbody></table>
- 
-</font> </center></td></tr> 
-<tr> <td width="130"><a href="http://www.wheelsforyouonline.com"><img src="http://www.herald-review.com/ads/wheelshouseadblack.gif" width="130" height="72" border="0" alt="NEW! Find Your Next Auto with Wheels For You"></a></td></tr> 
-<tr> <td width="130"> 
-<center> <font face="Arial, Helvetica, sans-serif" size="1" color="#336699"> 
- <table width="130" border="0" cellspacing="0" cellpadding="0"> 
-<tbody><tr> <td width="8" align="left" valign="middle"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/jobsmenus_r1_c1.gif" width="8" height="32"></font></td><td width="114" align="left" valign="middle"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/jobsmenus_r1_c2.gif" width="114" height="32"></font></td><td width="8" align="left" valign="middle"><font face="Arial, Helvetica, sans-serif" size="1"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/jobsmenus_r1_c3.gif" width="8" height="32"></font></td></tr> 
-<tr> <td background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/jobsmenus_r3_c1.gif" align="left" valign="top" width="8"><font face="Arial, Helvetica, sans-serif" size="1">&nbsp;</font></td><td align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif" width="114"> 
-      <table width="114" "="" border="0" cellspacing="0" cellpadding="0" align="left">
-        <tbody><tr> 
-          <td align="left" valign="middle" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" height="22"><font size="1" face="Arial, Helvetica, sans-serif"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/topjobs/bromenn9921594.php" target="adbox" onclick="window.open('','adbox','height=400,width=400,scrollbars=yes,resizable=yes');">Bromenn 
-            Healthcare </a></font></td>
-        </tr>
-        <tr> 
-          <td align="left" valign="middle" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" height="22"><font size="1" face="Arial, Helvetica, sans-serif"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/topjobs/illlabor9921209.php" target="adbox" onclick="window.open('','adbox','height=400,width=400,scrollbars=yes,resizable=yes');">Construction 
-            Labor </a></font></td>
-        </tr>
-        <tr> 
-          <td align="left" valign="middle" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" height="22"><font size="1" face="Arial, Helvetica, sans-serif"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/topjobs/regis9921162.php" target="adbox" onclick="window.open('','adbox','height=400,width=400,scrollbars=yes,resizable=yes');">Stylist</a></font></td>
-        </tr>
-        <tr> 
-          <td align="left" valign="middle" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" height="22"><font size="1" face="Arial, Helvetica, sans-serif"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/topjobs/decatur9921005.php" target="adbox" onclick="window.open('','adbox','height=400,width=400,scrollbars=yes,resizable=yes');">Building 
-            Custodian </a></font></td>
-        </tr>
-        <tr> 
-          <td align="left" valign="middle" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" height="33"><font size="1" face="Arial, Helvetica, sans-serif"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/topjobs/innovate9921346.php" target="adbox" onclick="window.open('','adbox','height=400,width=400,scrollbars=yes,resizable=yes');">Assembly 
-            and Machine Operators</a></font></td>
-        </tr>
-        <tr> 
-          <td align="left" valign="middle" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" height="33"><font size="1" face="Arial, Helvetica, sans-serif"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/topjobs/dmh9921724.php" target="adbox" onclick="window.open('','adbox','height=400,width=400,scrollbars=yes,resizable=yes');">Decatur 
-            Memorial Hospital</a></font></td>
-        </tr>
-        <tr> 
-          <td align="left" valign="middle" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" height="22"><font size="1" face="Arial, Helvetica, sans-serif"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/topjobs/growth11647.php" target="adbox" onclick="window.open('','adbox','height=400,width=400,scrollbars=yes,resizable=yes');">Quality 
-            Control </a></font></td>
-        </tr>
-        <tr> 
-          <td align="left" valign="middle" height="18"><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/leftcolumnbullet.gif" width="4" height="5" border="0" align="left"></font></font></td>
-          <td align="left" valign="middle" height="22"><font size="1" face="Arial, Helvetica, sans-serif"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/topjobs/pca9921423.php" target="adbox" onclick="window.open('','adbox','height=400,width=400,scrollbars=yes,resizable=yes');">PCA 
-            Now Hiring</a></font></td>
-        </tr>
-      </tbody></table>
-    </td><td background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/jobsmenus_r3_c3.gif" align="left" valign="top" width="8"><font face="Arial, Helvetica, sans-serif" size="1">&nbsp;</font></td></tr> 
-<tr> <td width="8" align="left" valign="middle"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/jobsmenus_r4_c1.gif" width="8" height="25"></td><td width="114" align="left" valign="middle"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/jobsmenus_r4_c2.gif" width="114" height="25"></td><td width="8" align="left" valign="middle"><img src="http://www.herald-review.com/images/0802imagefiles/popupsmenu/jobsmenus_r4_c3.gif" width="8" height="25"></td></tr> 
+  <tr>
+    <td colspan="2"><table width="511" height="28" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="104" height="28"><a href="http://www.herald-review.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('homepagebutton','','http://www.herald-review.com/images/0104/pageelements/frontpagenav_r1_c1.gif',1)"><img src="http://www.herald-review.com/images/0104/pageelements/generalpagenav_r1_c1.gif" name="homepagebutton" width="104" height="28" border="0"></a></td>
+        <td width="57" height="28"><a href="http://www.herald-review.com/news" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('newsbutton','','http://www.herald-review.com/images/0104/pageelements/newspagenav_r1_c2.gif',1)"><img src="http://www.herald-review.com/images/0104/pageelements/generalpagenav_r1_c2.gif" name="newsbutton" width="57" height="28" border="0"></a></td>
+        <td width="72" height="28"><a href="http://www.herald-review.com/sports" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sportsbutton','','http://www.herald-review.com/images/0104/pageelements/sportspagenav_r1_c3.gif',1)"><img src="http://www.herald-review.com/images/0104/pageelements/generalpagenav_r1_c3.gif" name="sportsbutton" width="72" height="28" border="0"></a></td>
+        <td width="61" height="28"><a href="http://www.herald-review.com/life" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('lifebutton','','http://www.herald-review.com/images/0104/pageelements/lifepagenav_r1_c4.gif',1)"><img src="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r1_c4.gif" name="lifebutton" width="61" height="28" border="0"></a></td>
+        <td width="104" height="28"><a href="http://www.herald-review.com/classifiedsportal.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('classifiedsbutton','','http://www.herald-review.com/images/0104/pageelements/classifiedspagenav_r1_c5.gif',1)"><img src="http://www.herald-review.com/images/0104/pageelements/generalpagenav_r1_c5.gif" name="classifiedsbutton" width="104" height="28" border="0"></a></td>
+        <td width="98" height="28"><a href="http://www.herald-review.com/calendar" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('calendarbutton','','http://www.herald-review.com/images/0104/pageelements/calendarpagenav_r1_c6.gif',1)"><img src="http://www.herald-review.com/images/0104/pageelements/generalpagenav_r1_c6.gif" name="calendarbutton" width="98" height="28" border="0"></a></td>
+        <td width="15" height="28" background="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r1_c7.gif">&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
 </tbody></table>
 
- 
-</font> </center></td></tr> 
-<tr> <td width="130"><a href="http://www.herald-review.com/homeseller"><img src="http://www.herald-review.com/ads/homesellerpromo.gif" width="130" height="72" vspace="3" border="0" alt="Search our residential &amp; commercial property listings"></a></td></tr> 
-<tr> <td width="130"> 
-<center> <font face="Arial, Helvetica, sans-serif" size="1" color="#336699"> 
- 
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="1271" colspan="3"><table width="760" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td height="12" colspan="8">
+            <center>
+            <table width="760" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="760" class="header-bar">
+                  <center>
+                      <a href="http://www.herald-review.com/contact/contactus.php" class="header-nav" style="text-decoration:none;">CONTACT
+                      US</a> | <a href="https://secure.lee.net/herald-review.com/custservice/custservice.php" class="header-nav" style="text-decoration:none;">CUSTOMER
+                      SERVICE</a> |<a href="http://www.legacy.com/herald-review/LegacyHome.asp" class="header-nav" style="text-decoration:none;"> OBITUARIES</a> | <a href="http://www.herald-review.com/darkroom/index.php" class="header-nav" style="text-decoration:none;">PHOTO
+                      GALLERY</a> | <a href="http://www.herald-review.com/Special_Sections/index.php" class="header-nav" style="text-decoration:none;">SPECIAL
+                      SECTIONS</a>
+                  </center>                </td>
+            </tr>
+            </tbody></table>
+          </center></td>
+        </tr>
+        <tr>
+          <td width="102" height="4"><img src="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r3_c1.gif" width="102" height="4"></td>
+          <td width="50" height="4"><img src="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r3_c2.gif" width="50" height="4"></td>
+          <td width="68" height="4"><img src="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r3_c3.gif" width="68" height="4"></td>
+          <td width="57" height="4"><img src="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r3_c4.gif" width="57" height="4"></td>
+          <td width="103" height="4"><img src="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r3_c5.gif" width="103" height="4"></td>
+          <td width="116" height="4"><img src="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r3_c6.gif" width="116" height="4"></td>
+          <td width="15" height="4"><img src="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r3_c7.gif" width="15" height="4"></td>
+          <td width="15"><img src="http://www.herald-review.com/images/0104/pageelements/frontpagenav_r3_c7.gif" width="249" height="4"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="134"><img src="http://www.herald-review.com/images/0104/pageelements/midpage_r1_c1.gif" width="134" height="14"></td>
+    <td width="6"><img src="http://www.herald-review.com/images/0104/pageelements/midpage_r1_c2.gif" width="6" height="14"></td>
+    <td height="14"><font size="1" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
+</tbody></table>
+</td>
+</tr> <tr> 
+<td width="134" align="left" valign="top" background="images/0104/pageelements/midpage_r3_c1.gif">
+  
+  <table width="134" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td background="images/0104/pageelements/midpage_r2_c1.gif">
+        <table width="132" border="0" cellspacing="0" cellpadding="0">  
+<tbody><tr>
+  <td background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif">
+    <center>
+      <font size="1" face="Arial, Helvetica, sans-serif">
+            </font>
+    </center>
+  </td>
+</tr>
+<tr> <td width="132" background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif"> 
+<center> 
+  <font face="Arial, Helvetica, sans-serif" size="1">&nbsp;</font>  
+</center>
+</td></tr> 
+<tr>
+  <td background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif">
+    <center>
+      <font face="Arial, Helvetica, sans-serif" size="1">
+             </font>
+    </center>
+  </td>
+</tr>
+<tr>
+  <td background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif">
+    <center>
+    <font face="Arial, Helvetica, sans-serif" size="1">&nbsp;</font>    
+    </center>
+  </td>
+</tr>
+<tr>
+  <td background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif">
+    <center>
+      <font size="1" face="Arial, Helvetica, sans-serif">
+            </font>
+    </center>
+  </td>
+</tr>
+<tr> <td width="132" background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif"> 
+<center> 
+  <font face="Arial, Helvetica, sans-serif" size="1">&nbsp; </font>  
+</center>
+</td></tr> 
+<tr>
+  <td background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif">
+    <center>
+      <font size="1" face="Arial, Helvetica, sans-serif">
+       
 <table width="130" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-    <td colspan="3" align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif"> 
+    <td colspan="3" align="left" valign="middle" background="../images/0104/pageelements/midpage_r3_c1.gif"> 
       <center>
         <font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF">&nbsp;&nbsp;<br>
         Search the<br>
@@ -362,7 +354,7 @@ Area Weather</a></font></center></td></tr>
     </td>
   </tr>
   <tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-    <td colspan="3" align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif"> 
+    <td colspan="3" align="left" valign="middle" background="../images/0104/pageelements/midpage_r3_c1.gif"> 
       <form name="newsbanksearchform" method="post" action="http://www.newslibrary.com/nlsearch.asp">
         <center>
           <input type="text" name="search_text" size="15" maxlength="30">
@@ -379,7 +371,7 @@ Area Weather</a></font></center></td></tr>
     </td>
   </tr>
   <tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-    <td colspan="3" align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif"> 
+    <td colspan="3" align="left" valign="middle" background="../images/0104/pageelements/midpage_r3_c1.gif"> 
       <center>
         <font face="Arial, Helvetica, sans-serif" size="1"><a style="color:#FFFFFF;text-decoration:none;" href="http://www.herald-review.com/templates/advancedsearchpage.php">ADVANCED 
         SEARCH</a></font> 
@@ -387,23 +379,23 @@ Area Weather</a></font></center></td></tr>
     </td>
   </tr>
   <tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-    <td colspan="3" align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif">
+    <td colspan="3" align="left" valign="middle" background="../images/0104/pageelements/midpage_r3_c1.gif">
       <hr width="95%" align="center">
     </td>
   </tr>
   <tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-    <td colspan="3" align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif"> 
+    <td colspan="3" align="left" valign="middle" background="../images/0104/pageelements/midpage_r3_c1.gif"> 
       <center>
-        <font size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF">Search 
-        the Entire<br>
+        <font size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF">Search
+        the ENTIRE<br>
         World-Wide Web</font></font> 
       </center>
     </td>
   </tr>
   <tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-    <td colspan="3" align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif"> 
+    <td colspan="3" align="left" valign="middle" background="../images/0104/pageelements/midpage_r3_c1.gif"> 
       <center>
-        <font face="Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><img src="http://www.herald-review.com/images/googlesearchcolorsm.gif"></font> 
+        <font face="Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><img src="http://www.herald-review.com/images/0104/pageelements/googleleftbar.gif" width="128"></font> 
       </center>
     </td>
   </tr>
@@ -411,7 +403,7 @@ Area Weather</a></font></center></td></tr>
 
 <table width="130" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-    <td align="center" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif"> 
+    <td align="center" valign="middle" background="../images/0104/pageelements/midpage_r3_c1.gif"> 
       <form action="http://www.google.com/custom" method="get">
         <font face="Arial, Helvetica, sans-serif" color="#ffffff" size="1"> 
         <input maxlength="255" size="12" name="q">
@@ -423,168 +415,153 @@ Area Weather</a></font></center></td></tr>
     </td>
   </tr>
 </tbody></table>
- 
-</font> </center></td></tr><tr><td width="130"><center><font face="Arial, Helvetica, sans-serif" size="1" color="#336699"> <table width="130" border="0" cellspacing="0" cellpadding="0"> 
-<tbody><tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-<td colspan="3" align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif"> 
-<center><a href="http://www.dotphoto.com/go.asp?l=HeraldReview&amp;p=H%26R&amp;AID=1052446"><img src="http://www.herald-review.com/ads/hrprepsfbphotopromo.gif" width="120" height="89" alt="Central Illinois High School Sports Photos" border="0"></a></center></td></tr> 
-<tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-<td colspan="3" align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif"> 
-</td></tr> </tbody></table>
-</font></center></td></tr> 
-<tr> <td width="130"> 
-<center> <font face="Arial, Helvetica, sans-serif" size="1" color="#336699"> 
- 
-<table width="130" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr background="http://www.herald-review.com/images/0802imagefiles/popupsmenu/adsmenus_r2_c2.gif"> 
-    <td align="left" valign="middle" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r1_c1.gif">
-      
-        <p>&nbsp;</p>
-        <table width="130" border="0" cellspacing="0" cellpadding="0" align="center">
-          <tbody><tr> 
-            <td><a href="http://www.journalstandard.com"><img src="http://www.herald-review.com/images/0802imagefiles/bgrounds/map_r1_c1.gif" width="130" height="16" alt="The Journal-Standard - Freeport, IL" border="0"></a></td>
-          </tr>
-          <tr> 
-            <td><a href="http://www.qctimes.com"><img src="http://www.herald-review.com/images/0802imagefiles/bgrounds/map_r2_c1.gif" width="130" height="11" alt="Quad-City Times - Davenport, IA" border="0"></a></td>
-          </tr>
-          <tr> 
-            <td><a href="http://www.herald-review.com"><img src="http://www.herald-review.com/images/0802imagefiles/bgrounds/map_r3_c1.gif" width="130" height="25" alt="The Herald &amp; Review - Decatur, IL" border="0"></a></td>
-          </tr>
-          <tr> 
-            <td><a href="http://www.jg-tc.com"><img src="http://www.herald-review.com/images/0802imagefiles/bgrounds/map_r4_c1.gif" width="130" height="13" alt="Journal-Gazette/Times-Courier - Matton/Charleston, IL" border="0"></a></td>
-          </tr>
-          <tr> 
-            <td><img src="http://www.herald-review.com/images/0802imagefiles/bgrounds/map_r5_c1.gif" width="130" height="20"></td>
-          </tr>
-          <tr> 
-            <td><a href="http://www.thesouthern.com"><img src="http://www.herald-review.com/images/0802imagefiles/bgrounds/map_r6_c1.gif" width="130" height="22" alt="The Southern Illinoisan - Carbondale, IL" border="0"></a></td>
-          </tr>
-        </tbody></table>
-        
-        
-        
-      &nbsp;&nbsp;</td>
-  </tr>
+      </font>
+    </center>
+  </td>
+</tr>
+<tr> <td width="132" background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif"> 
+<center> 
+  <font face="Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp; </font>  
+</center>
+</td></tr>
+<tr>
+  <td background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif">
+    <center>
+      <font size="1" face="Arial, Helvetica, sans-serif"></font>
+    </center>
+  </td>
+</tr>
+<tr>
+  <td background="http://www.herald-review.com/images/0104/pageelements/midpage_r4_c1.gif"><font size="1" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;</font></td>
+</tr> 
 </tbody></table>
-
- 
-</font> </center></td></tr> 
-</tbody></table>
-      </font></td>
-    <td rowspan="3" align="left" valign="top" background="http://www.herald-review.com/images/0802imagefiles/bgrounds/verticalshading_r1_c2.gif" width="10">
-    </td>
-    <td width="620" align="left" valign="top"> 
-      <p>&nbsp;</p>
-      <p><b><font face="Arial, Helvetica, sans-serif" size="2">Welcome to the 
-        web site of the Herald &amp; Review, a media company located in central 
-        Illinois. We believe in your right to know what information is collected 
-        during your visit to our web sites and how the information is used and 
-        safeguarded. </font></b></p>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif">The 
-        information gathered by the Herald &amp; Review website falls into two 
-        categories: (1) information voluntarily supplied by visitors to our websites 
-        through optional registration and (2) tracking information gathered as 
-        visitors navigate through our sites. </font></p>
-      <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>Other 
+     </td>
+    </tr>
+    <tr>
+      <td><font size="1" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td><font size="1" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;</font></td>
+    </tr>
+  </tbody></table>
+  <p>&nbsp;</p>
+  <p><font face="Arial, Helvetica, sans-serif" size="4" color="#336699">      </font></p>
+</td><td align="left" valign="top" width="6">&nbsp;<font face="Arial, Helvetica, sans-serif">&nbsp; 
+</font> </td>
+<td width="620" align="left" valign="top"> 
+  <p><font face="Arial, Helvetica, sans-serif" size="1"><a name="topanchor"></a><br>
+  </font><b><font face="Arial, Helvetica, sans-serif" size="2">Welcome to the
+  web site of the Herald &amp; Review, a media company located in central Illinois.
+  We believe in your right to know what information is collected during your
+  visit to our web sites and how the information is used and safeguarded. </font></b></p>
+  <p align="left"><font size="3" face="Times New Roman, Times, serif">The information
+      gathered by the Herald &amp; Review website falls into two categories:
+      (1) information voluntarily supplied by visitors to our websites through
+      optional registration and (2) tracking information gathered as visitors
+      navigate through our sites. </font></p>
+  <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>Other
         information on this Policy Statement site inlcudes:</b></font></p>
-      <ul>
-        <li><font size="3" face="Times New Roman, Times, serif">Information Shared 
-          With Other Organizations</font></li>
-        <li><font size="3" face="Times New Roman, Times, serif">Special Attention 
-          to Children </font></li>
-        <li><font size="3" face="Times New Roman, Times, serif">A final note</font></li>
-      </ul>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif"> <b><font face="Arial, Helvetica, sans-serif" size="2">Information 
-        Gathered by Voluntary Submission</font></b></font></p>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif">To make 
-        use of certain features on our websites (such as discussion forums, or 
-        submitting events to our calendars) visitors need to register and to provide 
-        certain information as part of the registration or participation process. 
-        (We may ask, for example, for your name, email address, sex, age, and 
-        zip code, and we might request information on your interest in sports, 
-        personal finance, the performing arts, and the like.) </font></p>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif">The 
-        information you supply will help us to offer you more personalized features, 
-        to tailor our sites to your interests and make them more useful to you. 
-        The more you tell us about yourself, the more value we can offer you. 
-        Supplying such information is entirely voluntary. But if you don't supply 
-        the information we need, we may be unable to provide you with services 
-        we make available to other visitors to our sites. Of course, even if you 
-        want to remain completely anonymous, you're still free to take advantage 
-        of the wealth of content available on our sites without registration. 
-        </font></p>
-      <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>Information 
+  <ul>
+    <li><font size="3" face="Times New Roman, Times, serif">Information Shared
+        With Other Organizations</font></li>
+    <li><font size="3" face="Times New Roman, Times, serif">Special Attention
+        to Children </font></li>
+    <li><font size="3" face="Times New Roman, Times, serif">A final note</font></li>
+  </ul>
+  <p align="left"><font size="3" face="Times New Roman, Times, serif"> <b><font face="Arial, Helvetica, sans-serif" size="2">Information
+          Gathered by Voluntary Submission</font></b></font></p>
+  <p align="left"><font size="3" face="Times New Roman, Times, serif">To make
+      use of certain features on our websites (such as discussion forums, or
+      submitting events to our calendars) visitors need to register and to provide
+      certain information as part of the registration or participation process.
+      (We may ask, for example, for your name, email address, sex, age, and zip
+      code, and we might request information on your interest in sports, personal
+      finance, the performing arts, and the like.) </font></p>
+  <p align="left"><font size="3" face="Times New Roman, Times, serif">The information
+      you supply will help us to offer you more personalized features, to tailor
+      our sites to your interests and make them more useful to you. The more
+      you tell us about yourself, the more value we can offer you. Supplying
+      such information is entirely voluntary. But if you don't supply the information
+      we need, we may be unable to provide you with services we make available
+      to other visitors to our sites. Of course, even if you want to remain completely
+      anonymous, you're still free to take advantage of the wealth of content
+      available on our sites without registration. </font></p>
+  <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>Information
         Automatically Gathered About All Visitors </b></font></p>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif">We collect 
-        aggregate and user-specific information on what pages consumers access 
-        or visit. This information is used to generate reports that help the Herald 
-        &amp; Review assess the value of and interest in the various web sites. 
-        The information we collect is used by us to improve the content of our 
-        web page. We can build a better site if we know which pages our users 
-        are visiting and how often.</font></p>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif">Our 
-        web servers automatically collect limited information about your computer's 
-        connection to the Internet, including your IP address but not the e-mail 
-        address, when you visit our sites. Your IP address does not identify you 
-        personally. We use this information to deliver our web pages to you upon 
-        request, to tailor our sites to the interests of our users, and to measure 
-        traffic within our sites. </font></p>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif">To help 
-        make our sites more responsive to the needs of our visitors, we may utilize 
-        a standard feature of browser software, called a "cookie". The 
-        cookie doesn't actually identify the visitor, just the computer that a 
-        visitor uses to access our site. A cookie can't read data off your hard 
-        drive. Our advertisers or content partners may also assign their own cookies 
-        to your browser, a process that we cannot control. We use cookies to help 
-        us tailor our site to your needs, to deliver a better, more personalized 
-        service.</font></p>
-      <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>Information 
+  <p align="left"><font size="3" face="Times New Roman, Times, serif">We collect
+      aggregate and user-specific information on what pages consumers access
+      or visit. This information is used to generate reports that help the Herald &amp; Review
+      assess the value of and interest in the various web sites. The information
+      we collect is used by us to improve the content of our web page. We can
+      build a better site if we know which pages our users are visiting and how
+      often.</font></p>
+  <p align="left"><font size="3" face="Times New Roman, Times, serif">Our web
+      servers automatically collect limited information about your computer's
+      connection to the Internet, including your IP address but not the e-mail
+      address, when you visit our sites. Your IP address does not identify you
+      personally. We use this information to deliver our web pages to you upon
+      request, to tailor our sites to the interests of our users, and to measure
+      traffic within our sites. </font></p>
+  <p align="left"><font size="3" face="Times New Roman, Times, serif">To help
+      make our sites more responsive to the needs of our visitors, we may utilize
+      a standard feature of browser software, called a "cookie". The
+      cookie doesn't actually identify the visitor, just the computer that a
+      visitor uses to access our site. A cookie can't read data off your hard
+      drive. Our advertisers or content partners may also assign their own cookies
+      to your browser, a process that we cannot control. We use cookies to help
+      us tailor our site to your needs, to deliver a better, more personalized
+      service.</font></p>
+  <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>Information
         Shared With Other Organizations</b> </font></p>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif">When 
-        we present information to our advertisers -- to help them understand our 
-        audience and confirm the value of advertising on our websites -- it is 
-        usually in the form of aggregated statistics on traffic to various pages 
-        within our sites. From time to time, we may share information on visitors 
-        to our sites with those marketing products and services that we believe 
-        may be of interest to you. This list can include your e-mail address and, 
-        other specific information (such as your phone number or street address) 
-        you may have provided us while online. </font></p>
-      <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>Special 
+  <p align="left"><font size="3" face="Times New Roman, Times, serif">When we
+      present information to our advertisers -- to help them understand our audience
+      and confirm the value of advertising on our websites -- it is usually in
+      the form of aggregated statistics on traffic to various pages within our
+      sites. From time to time, we may share information on visitors to our sites
+      with those marketing products and services that we believe may be of interest
+      to you. This list can include your e-mail address and, other specific information
+      (such as your phone number or street address) you may have provided us
+      while online. </font></p>
+  <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>Special
         Attention to Children </b></font></p>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif">Children 
-        should always get permission from their parents before sending any information 
-        about themselves (such as their names, email addresses, and phone numbers) 
-        over the Internet, to us or to anyone else. We do not specifically collect 
-        information about children. We encourage parents to review and share safety 
-        tips with their children participating in the online experience. </font></p>
-      <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>A 
-        final note </b> </font></p>
-      <p align="left"><font size="3" face="Times New Roman, Times, serif">The 
-        Herald &amp; Review is affiliated with other online companies, some of 
-        which feature our branding. This policy statement does not apply to those 
-        companies' web sites; please refer to these affiliated sites to obtain 
-        information on their privacy policies. If you can't find the privacy policy 
-        of any of these sites via a link from the site's homepage, you should 
-        contact the site directly for more information. The Web is an evolving 
-        medium. If we need to change our privacy policy at some point in the future, 
-        we'll post the changes before they take effect. Of course, our use of 
-        information gathered while the current policy is in effect will always 
-        be consistent with the current policy, even if we change that policy later.</font></p>
-      <p><font size="2" face="Arial, Helvetica, sans-serif">E-mail comments to 
-        the Herald &amp; Review at <a href="mailto:ggrooms@herald-review.com">ggrooms@herald-review.com</a></font><font face="Arial, Helvetica, sans-serif" size="2"> 
-        </font></p>
-      <p>&nbsp;</p>
-      <!--stopprint -->
-    </td>
-  </tr>
-  <tr> 
-    <td width="620" align="left" valign="top">
-      <center>
-        <font face="Arial, Helvetica, sans-serif" size="4" color="#336699"> 
-        <table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+  <p align="left"><font size="3" face="Times New Roman, Times, serif">Children
+      should always get permission from their parents before sending any information
+      about themselves (such as their names, email addresses, and phone numbers)
+      over the Internet, to us or to anyone else. We do not specifically collect
+      information about children. We encourage parents to review and share safety
+      tips with their children participating in the online experience. </font></p>
+  <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><b>A final
+        note </b> </font></p>
+  <p align="left"><font size="3" face="Times New Roman, Times, serif">The Herald &amp; Review
+      is affiliated with other online companies, some of which feature our branding.
+      This policy statement does not apply to those companies' web sites; please
+      refer to these affiliated sites to obtain information on their privacy
+      policies. If you can't find the privacy policy of any of these sites via
+      a link from the site's homepage, you should contact the site directly for
+      more information. The Web is an evolving medium. If we need to change our
+      privacy policy at some point in the future, we'll post the changes before
+      they take effect. Of course, our use of information gathered while the
+      current policy is in effect will always be consistent with the current
+      policy, even if we change that policy later.</font></p>
+  <p><font size="2" face="Arial, Helvetica, sans-serif">E-mail comments to the
+      Herald &amp; Review at <a href="mailto:ggrooms@herald-review.com">ggrooms@herald-review.com</a></font><font face="Arial, Helvetica, sans-serif" size="2"> </font></p>
+  <p><font face="Arial, Helvetica, sans-serif" size="1">  </font></p>
+  <p>&nbsp;</p>
+  </td></tr>
+<tr>
+  <td colspan="3" align="left" valign="top">
+    <table width="760" border="0" cellspacing="0" cellpadding="0"> 
+<tbody><tr>
+  <td width="134" align="left" valign="bottom" background="http://www.herald-review.com/images/0104/pageelements/midpage_r3_c1.gif">
+    <p><img src="http://www.herald-review.com/images/0104/pageelements/midpage_r8_c1.gif" width="134" height="48"></p>
+  </td>
+  <td width="6" align="left" valign="top">&nbsp;</td>
+  <td width="620" height="67" align="left" valign="bottom">
+    <center>
+            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr> 
     <td colspan="2"> 
-      <div align="center"><img src="http://www.herald-review.com/images/hr02imagefiles/adbar.gif" width="234" height="12" alt="Section Advertising"></div>
+      <div align="center"><img src="http://www.herald-review.com/images/hr02imagefiles/adbar.gif" alt="Section Advertising" width="234" height="12" vspace="5"></div>
     </td>
   </tr>
   <tr> 
@@ -632,7 +609,7 @@ Area Weather</a></font></center></td></tr>
           document.write('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 
    //-->
- </script><script language="JavaScript1.1" src="http://oas.lee.net/RealMedia/ads/adstream_mjx.ads/www.herald-review.com/smallads///1888434397@TopRight,BottomRight,BottomLeft?"></script>
+ </script><script language="JavaScript1.1" src="http://oas.lee.net/RealMedia/ads/adstream_mjx.ads/www.herald-review.com/smallads///1211847338@TopRight,BottomRight,BottomLeft?"></script>
 
  <script language="JavaScript">
    <!--
@@ -661,8 +638,8 @@ Area Weather</a></font></center></td></tr>
    //-->
  </script>
  <noscript>
-   <A HREF="http://oas.lee.net/RealMedia/ads//click_nx.cgi/www.herald-review.com/smallads//275865409/@BottomLeft" TARGET="_new">
-   <IMG SRC="http://oas.lee.net/RealMedia/ads//adstream_nx.cgi/www.herald-review.com/smallads//275865409/@BottomLeft" BORDER="0"></A>
+   <A HREF="http://oas.lee.net/RealMedia/ads//click_nx.cgi/www.herald-review.com/smallads//658729519/@BottomLeft" TARGET="_new">
+   <IMG SRC="http://oas.lee.net/RealMedia/ads//adstream_nx.cgi/www.herald-review.com/smallads//658729519/@BottomLeft" BORDER="0"></A>
  </noscript>
       </div>
     </td>
@@ -674,37 +651,43 @@ Area Weather</a></font></center></td></tr>
    //-->
  </script>
  <noscript>
-   <A HREF="http://oas.lee.net/RealMedia/ads//click_nx.cgi/www.herald-review.com/smallads//343050590/@BottomRight" TARGET="_new">
-   <IMG SRC="http://oas.lee.net/RealMedia/ads//adstream_nx.cgi/www.herald-review.com/smallads//343050590/@BottomRight" BORDER="0"></A>
+   <A HREF="http://oas.lee.net/RealMedia/ads//click_nx.cgi/www.herald-review.com/smallads//704411975/@BottomRight" TARGET="_new">
+   <IMG SRC="http://oas.lee.net/RealMedia/ads//adstream_nx.cgi/www.herald-review.com/smallads//704411975/@BottomRight" BORDER="0"></A>
  </noscript>
       </div>
     </td>
   </tr>
 </tbody></table>
 
-        </font> 
-      </center>
-      <p align="center"><b>Herald-Review.com</b> contains selected news and information<br>
-        from the Herald &amp; Review newspaper. For complete coverage <a href="https://secure.lee.net/herald-review.com/custservice/subscribeform.html"><font face="Arial, Helvetica, sans-serif" size="2"><b>CLICK 
-        HERE.</b></font></a> 
-    </p></td>
-  </tr>
-  <tr> 
-    <td width="130" align="left" valign="top"><img src="http://www.herald-review.com/images/0802imagefiles/bgrounds/leftblackmousecolum_r2_c1.gif" width="130" height="124"></td>
-    <td width="620" align="left" valign="middle"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2">[&nbsp;<a href="#topanchor">TOP 
-        OF PAGE</a>&nbsp;]</font><font size="2"><b><font face="Arial, Helvetica, sans-serif"> 
-        </font></b></font><br>
-        Copyright 1996-2003 Herald &amp; Review, Decatur, IL, a division of <a href="http://www.lee.net">Lee 
-        Enterprises</a>.<br>
-        <font size="1"> All rights reserved. This page, or any file with a copyright 
-        notice, may not be published, broadcast, or otherwise<br>
-        distributed without prior written permission. Herald &amp; Review, 601 
-        East William Street, Decatur, IL, 217-429-5151. <br>
-        </font><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://www.herald-review.com/dncstatement.php">Read 
-        our Do Not Call Policy</a> </font></font></div>
-    </td>
-  </tr>
+      
+    </center>
+    <p align="center"><b><font face="Times New Roman, Times, serif" size="3">Herald-Review.com</font></b><font face="Times New Roman, Times, serif" size="3"> contains selected news and information<br>
+  from the Herald &amp; Review newspaper. For complete coverage</font> <a href="https://secure.lee.net/herald-review.com/custservice/subscribeform.html"><font face="Arial, Helvetica, sans-serif" size="2"><b>CLICK
+  HERE.</b></font></a>
+    </p><p align="center"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2">[&nbsp;<a href="#topanchor">TOP
+            OF PAGE</a>&nbsp;]</font></font><br>
+            <font size="1" face="Arial, Helvetica, sans-serif">Copyright 1996-2004 Herald &amp; Review, Decatur,
+            IL, a division of <a href="http://www.lee.net">Lee
+  Enterprises</a>.<br>
+  All rights reserved. This page, or any file with a copyright
+  notice, may not be published, broadcast, or otherwise distributed <br>
+  without prior written permission. Herald &amp; Review, 601 East William Street,
+  Decatur, IL, 62525 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;217-429-5151.</font>
+    
+    </p><p align="center"> <a href="http://www.herald-review.com/privacystatement.php"><font size="2" face="Arial, Helvetica, sans-serif">Read
+                our Privacy Statement</font></a><font size="2" face="Arial, Helvetica, sans-serif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.herald-review.com/dncstatement.php">Read
+                our Do Not Call Policy</a></font>
+    </p><p align="center"><font size="1" face="Arial, Helvetica, sans-serif">The Herald &amp; Review
+        is a member of CING - The Central Illinois Newspaper Group. Other CING
+        properties include: <br>
+        The Mattoon Journal-Gazette, The Charleston Times-Courier, The
+              Business Journal and The Prairie Shopper.</font></p>
+  </td>
+</tr> 
+</tbody></table>
+
+  </td>
+  </tr> 
 </tbody></table>
 
 </body></html>
