@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185502id_/http%3A//cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203093240id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
-**CardRatings.com - U.S. Citizens for Fair Credit Card Terms, Inc.** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ CardRatings.com - U.S. Citizens for Fair Credit Card Terms, Inc. ](http://www.cardratings.org/)
+**CardRatings.com - U.S. Citizens for Fair Credit Card Terms, Inc.** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ CardRatings.com - U.S. Citizens for Fair Credit Card Terms, Inc. ](http://www.cardratings.com/)
 
 ####  Information Automatically Logged 
 
@@ -36,7 +36,7 @@ This site contains links to other sites. **CardRatings.com - U.S. Citizens for F
 
 ####  Special Relationships 
 
-The cardholders card review section of our site is hosted on servers administered by CreditCardFreedom.com. Therefore, contact information that is volunteered in the cardholder card reviews section is also subject to the privacy policies of CreditCardFreedom.com. Anonymous reviews are welcome. 
+The cardholders card review section of our site is hosted on servers administered by CardOffers.com. Therefore, contact information that is volunteered in the cardholder card reviews section is also subject to the privacy policies of CardOffers.com. Anonymous reviews are welcome. 
 
 ####  Public Forums 
 
@@ -51,8 +51,8 @@ This site has security measures in place to protect the loss, misuse, and altera
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[ privacy@cardratings.com ](mailto:privacy@cardratings.com)
+[ feedback@cardratings.com ](mailto:feedback@cardratings.com)
 
 * * *
 
-Updated on 9/05/01 by [Privacy Wizard](http://privacy.linkexchange.com/)
+This privacy statement last updated on 8/12/03. 
