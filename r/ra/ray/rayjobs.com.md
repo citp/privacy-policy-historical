@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rayjobs.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615050500id_/http%3A//www.rayjobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayjobs.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212071300id_/http%3A//rayjobs.com/privacy.html) for the most accurate reproduction.*
 
 # Working @ Raytheon: Privacy Statement
 
