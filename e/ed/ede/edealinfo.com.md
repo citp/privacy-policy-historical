@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204174122id_/http%3A//www.edealinfo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605190459id_/http%3A//www.edealinfo.com/privacy.shtml) for the most accurate reproduction.*
 
 # eDealinfo.com Privacy Policy
 
+[](https://web.archive.org/) |   
+---|---  
+  
 eDealinfo.com is committed to the security and privacy of our visitors.
 
 Personal Information
@@ -22,6 +25,6 @@ This site contains links to other Web sites. We use third-party ad servers in or
 
 Questions?
 
-eDealinfo.com welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. Any revisions to our policy will be posted to this site. Questions regarding this statement should be directed to [admin@edealinfo.com](mailto:admin@edealinfo.com?subject=eDealinfo.com%20Privacy%20Policy).
+eDealinfo.com welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. Any revisions to our policy will be posted to this site. Questions regarding this statement should be directed to [admin@edealinfo.com](mailto:adminNOSPAM@edealinfo.com?body=Please%20remove%20word%20NOSPAM%20from%20the%20email%20address%20before%20sending%20it&subject=eDealinfo.com%20Privacy%20Policy).
 
-© Copyright 2000-2003 eDealinfo.com Inc. All Rights Reserved.
+© Copyright 2000-2004 eDealinfo.com Inc. All Rights Reserved.
