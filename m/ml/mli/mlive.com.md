@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207042800id_/http%3A//www.mlive.com/index.ssf%3F/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602021443id_/http%3A//mlive.com/index.ssf%3F/privacy.html) for the most accurate reproduction.*
 
 # Michigan Live State Edition
 
@@ -7,7 +7,7 @@
   
   
 Sponsored by:  
-[ ](https://web.archive.org/cgi-bin/redirect.cgi?www.michigan.org/)  
+  
   
   
 |  |    
@@ -27,6 +27,6 @@ Finally, you should be aware that when you voluntarily disclose personally ident
 
 **CHILDREN:** Be sure to ask your parents for permission before you send any information about yourself (your name, address, e-mail address, etc.) to us or anyone else over the Internet, and before making any purchases online. If you are under the age of 13, you are not allowed to use this service. 
 
-**PARENTS:** We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. This service is not intended for users under the age of 13. This service does not knowingly collect perosnally identifiable information from users under the age of 13. Such users are expressly prohibted from submitting their personally identifiable information to us, and from using our forums and chat areas; any informaiton submitted by such users will not knowingly be used, posted or retained by us. Any personally identifiable information collected by Michigan Live Inc. from children above 13 (that we are aware are children above the age of 13) will be used only for Michigan Live Inc. internal purposes such as market research, sweepstakes fulfillment, and for fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to other companies with which we do business, for statistical and market research purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various forums or chat areas such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
+**PARENTS:** We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. This service is not intended for users under the age of 13. This service does not knowingly collect personally identifiable information from users under the age of 13. Such users are expressly prohibited from submitting their personally identifiable information to us, and from using our forums and chat areas; any information submitted by such users will not knowingly be used, posted or retained by us. Any personally identifiable information collected by Michigan Live Inc. from children above 13 (that we are aware are children above the age of 13) will be used only for Michigan Live Inc. internal purposes such as market research, sweepstakes fulfillment, and for fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to other companies with which we do business, for statistical and market research purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various forums or chat areas such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
 
 Again, if you have any concerns regarding your child's or your use of Michigan Live, please contact us at [feedback@mlive.com](mailto:feedback@mlive.com). Your use of Michigan Live is also governed by our [User Agreement](https://web.archive.org/hn/rules.html).
