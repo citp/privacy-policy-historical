@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcom.edu privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605132732id_/http%3A//www.pcom.edu/Graduate_Medical_Education/Request_More_Info___Applicatio/Other_Content/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcom.edu privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014082334id_/http%3A//www.pcom.edu/Graduate_Medical_Education/Request_More_Info___Applicatio/Other_Content/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# PCOM - Privacy Policy
 
 | 
 
