@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hinesville.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202081340id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinesville.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607170059id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -27,11 +27,9 @@
   
   | 
 
-**Yahoo! Privacy Policy     \-    Updated**
+[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-[](https://www.truste.org/validate/361) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
-
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html) for important information about safe surfing from the Federal Trade Commission. **
+**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
 
 **What This Privacy Policy Covers**  
 
@@ -99,7 +97,7 @@
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
   * Your Yahoo! Account Information is password-protected. 
-  * In certain areas Yahoo! uses industry-standard SSLencryption to protect data transmissions. 
+  * In certain areas Yahoo! uses industry-standard SSL-encryption to protect data transmissions. 
 
 **Changes to this Privacy Policy**  
 
