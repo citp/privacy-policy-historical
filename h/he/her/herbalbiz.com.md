@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalbiz.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618235846id_/http%3A//www.lbnj.com/lb/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalbiz.com privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811223559id_/http%3A//www.lbnj.com/lb/privacy_statement.htm) for the most accurate reproduction.*
 
 # Long Branch Networks - Privacy Statement
 
