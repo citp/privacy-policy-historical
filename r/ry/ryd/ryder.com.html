@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ryder.com privacy policy that was archived on 2002-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206100533id_/http%3A//www.ryder.com/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ryder.com privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602204858id_/http%3A//www.ryder.com/privacy_policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Ryder.com &gt; Privacy Policy</title>
@@ -179,7 +179,7 @@
 
    <area shape="RECT" coords="0,98,120,110" href="/about_us.shtml" alt="" onmouseover="clearmenus();change('imgmenu2','about',1)" onmouseout="if(!isFour) clearmenus();">
   
-   <area shape="RECT" coords="0,110,120,122" href="/about_us.shtml" alt="" onmouseover="clearmenus();change('imgmenu2','about',1)" onmouseout="if(!isFour) clearmenus();">
+ <!--<AREA SHAPE=RECT COORDS="0,110,120,122" HREF="/about_us.shtml"  ALT="" ONMOUSEOVER="clearmenus();change('imgmenu2','about',1)" ONMOUSEOUT="if(!isFour) clearmenus();">-->
   
 </map>
 
@@ -211,7 +211,7 @@
 
 <!--the div below is only a place holder, but you need to keep it.-->
 
-<div id="menu0" style="position:absolute;left:472px;top:57px;visibility:hidden"><a href="#" onmouseout="clearmenus()"><img src="/images/about_menu.gif" width="120" height="147" border="0" alt="About Us"></a></div>
+<div id="menu0" style="position:absolute;left:472px;top:57px;visibility:hidden"><a href="#" onmouseout="clearmenus()"><img src="/images/about_menu.gif" width="120" height="122" border="0" alt="About Us"></a></div>
 
 <div id="menu0overs">
 
@@ -237,7 +237,7 @@
 
 
 
-<div id="menu2"><a href="/about_us.shtml" onmouseout="clearmenus()"><img src="/images/about_menu.gif" width="120" height="134" border="0" alt="About Us"></a></div>
+<div id="menu2"><a href="/about_us.shtml" onmouseout="clearmenus()"><img src="/images/about_menu.gif" width="120" height="122" border="0" alt="About Us"></a></div>
 
 <div id="menu2overs">
 
@@ -253,7 +253,6 @@
 
 <a href="/about_us_rn.shtml" onmouseover="imagerep('rydernews', 'menu2overs')" onmouseout="eraseimage('rydernews', 'menu2overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Ryder in the News" border="0" height="12" hspace="0" name="rydernews" vspace="0" width="120" class="menu"><br class="menu"></a>
 
-<a href="/about_us_wr.shtml" onmouseover="imagerep('why', 'menu2overs')" onmouseout="eraseimage('why', 'menu2overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Why Ryder?" border="0" height="12" hspace="0" name="why" vspace="0" width="120" class="menu"><br class="menu"></a>
 
 <a href="/about_us_ar.shtml" onmouseover="imagerep('award', 'menu2overs')" onmouseout="eraseimage('award', 'menu2overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Awards &amp; Recognition" border="0" height="12" hspace="0" name="award" vspace="0" width="120" class="menu"><br class="menu"></a>
 
@@ -282,7 +281,7 @@
 
 		var dotimgname
 
-		var bottomgif		
+		var bottomgif
 
 		//if NS 4+
 
@@ -298,7 +297,7 @@
 
 			dotimgname="leftnav_bgback_trans.gif' width='12'"
 
-			bottomgif="bottom_cuff.gif' width='171'"
+			bottomgif="bottom_cuff2.gif' width='171'"
 
 		//Default goto page (NOT NS 4+ and NOT IE 4+)
 
@@ -306,7 +305,7 @@
 
 			dotimgname="leftnav_bgback_trans.gif' width='12'"
 
-			bottomgif="bottom_cuff.gif' width='171'"
+			bottomgif="bottom_cuff2.gif' width='171'"
 
 		}
 
@@ -315,7 +314,7 @@
 
 //There are two sections of code for leftnav - 1 for IE Browser and 1 for Netscape Browser
 
-//leftnav script for IE  Browser 
+//leftnav script for IE  Browser
 
 if (browser_type1=="Microsoft Internet Explorer"&&browser_version1>=4){
 
@@ -324,185 +323,28 @@ document.write ("<table width='171' border='0' cellspacing='0' cellpadding='0'>"
 
 document.write ("	<tr>")
 
-		
+
 
 			if (Level_L1=="L1_SS")
 
-				document.write("<td bgcolor='#6699CC'><a href='/service_solutions.shtml'><img src='/images/service_solutions_on.gif' width='171' height='20' border='0' alt='Service Solutions'></a></td>"); 
+				document.write("<td bgcolor='#6699CC'><a href='/service_solutions.shtml'><img src='/images/service_solutions_on.gif' NAME='imgmenu3' width='171' height='19' border='0' alt='Service Solutions' USEMAP='#ssmenu'></a></td>");
 
-			else 
+			else
 
-				document.write("<td bgcolor='black'><a href='/service_solutions.shtml' onMouseOver=\"changeButtonImage('btnSS',btnSS_on); return false\" onMouseOut=\"changeButtonImage('btnSS',btnSS_off); return false\"><img src='/images/service_solutions.gif' NAME='btnSS' width='171' height='20' border='0' alt='Service Solutions'></a></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-
-
-		if (Level_L2=="L2_SC") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/supply_chain.shtml' class='lnav'>Supply Chain</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/supply_chain.shtml' class='lnav'>Supply Chain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+				document.write("<td bgcolor='black'><a href='/service_solutions.shtml' onMouseOver=\"changeButtonImage('imgmenu3',btnSS_on); return false\"><img src='/images/service_solutions.gif' NAME='imgmenu3' width='171' height='19' border='0' alt='Service Solutions' USEMAP='#ssmenu'></a></td>");
 
 document.write ("	</tr>")
 
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_DM") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/distribution_management.shtml' class='lnav'>Distribution Management</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/distribution_management.shtml' class='lnav'>Distribution Management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_TM") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/transportation_management.shtml' class='lnav'>Transportation Management</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/transportation_management.shtml' class='lnav'>Transportation Management&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_DCC") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/dedicated_contract_carriage.shtml' class='lnav'>Dedicated Contract Carriage</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/dedicated_contract_carriage.shtml' class='lnav'>Dedicated Contract Carriage&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_VL") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/vehicle_leasing.shtml' class='lnav'>Vehicle Leasing</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/vehicle_leasing.shtml' class='lnav'>Vehicle Leasing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_VR") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/vehicle_rental.shtml' class='lnav'>Vehicle Rental</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/vehicle_rental.shtml' class='lnav'>Vehicle Rental&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_VM") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/vehicle_maintenance.shtml' class='lnav'>Vehicle Maintenance</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/vehicle_maintenance.shtml' class='lnav'>Vehicle Maintenance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_UVS") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/used_vehicle_sales.shtml' class='lnav'>Used Vehicle Sales</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/used_vehicle_sales.shtml' class='lnav'>Used Vehicle Sales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_P") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/procurement.shtml' class='lnav'>Procurement</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/procurement.shtml' class='lnav'>Procurement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a/></ilayer></layer></td>");
-
-document.write ("	</tr>")
 
 document.write ("	<tr>")
 
 			if (Level_L1=="L1_GS")
 
-				document.write("<td bgcolor='#6699CC'><a href='/global_solutions.shtml'><img src='/images/global_solutions_on.gif' width='171' height='19' border='0' alt='Global Solutions'></a></td>"); 
+				document.write("<td bgcolor='#6699CC'><a href='/global_solutions.shtml'><img src='/images/global_solutions_on.gif' NAME='imgmenu4' width='171' height='19' border='0' alt='Global Solutions' USEMAP='#gsmenu'></a></td>");
 
-			else 
+			else
 
-				document.write("<td bgcolor='black'><a href='/global_solutions.shtml' onMouseOver=\"changeButtonImage('btnGS',btnGS_on); return false\" onMouseOut=\"changeButtonImage('btnGS',btnGS_off); return false\"><img src='/images/global_solutions.gif' NAME='btnGS' width='171' height='19' border='0' alt='Global Solutions'></a></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_NA") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/north_america.shtml' class='lnav'>North America</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/north_america.shtml' class='lnav'>North America&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_E") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/europe.shtml' class='lnav'>Europe</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/europe.shtml' class='lnav'>Europe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_SA") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/south_america.shtml' class='lnav'>Latin America</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/south_america.shtml' class='lnav'>Latin America&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_AP") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/asia_pacific.shtml' class='lnav'>Asia/Pacific</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/asia_pacific.shtml' class='lnav'>Asia/Pacific&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+				document.write("<td bgcolor='black'><a href='/global_solutions.shtml' onMouseOver=\"changeButtonImage('imgmenu4',btnGS_on); return false\"><img src='/images/global_solutions.gif' NAME='imgmenu4' width='171' height='19' border='0' alt='Global Solutions' USEMAP='#gsmenu'></a></td>");
 
 document.write ("	</tr>")
 
@@ -510,101 +352,11 @@ document.write ("	<tr>")
 
 			if (Level_L1=="L1_IS")
 
-				document.write("<td bgcolor='#6699CC'><a href='/industry_solutions.shtml'><img src='/images/industry_solutions_on.gif' width='171' height='19' border='0' alt='Industry Solutions'></a></td>"); 
+				document.write("<td bgcolor='#6699CC'><a href='/industry_solutions.shtml'><img src='/images/industry_solutions_on.gif' NAME='imgmenu5' width='171' height='19' border='0' alt='Industry Solutions' USEMAP='#ismenu'></a></td>");
 
-			else 
+			else
 
-				document.write("<td bgcolor='black'><a href='/industry_solutions.shtml' onMouseOver=\"changeButtonImage('btnIS',btnIS_on); return false\" onMouseOut=\"changeButtonImage('btnIS',btnIS_off); return false\"><img src='/images/industry_solutions.gif' NAME='btnIS' width='171' height='19' border='0' alt='Industry Solutions'></a></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_CAR") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/automotive.shtml' class='lnav'>Automotive</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/automotive.shtml' class='lnav'>Automotive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_AIR") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/aerospace.shtml' class='lnav'>Aerospace</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/aerospace.shtml' class='lnav'>Aerospace&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_CR") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/consumer_retail.shtml' class='lnav'>Consumer/Retail</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/consumer_retail.shtml' class='lnav'>Consumer/Retail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_FB") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/food_beverage.shtml' class='lnav'>Food & Beverage</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/food_beverage.shtml' class='lnav'>Food & Beverage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_HTE") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/high_tech_electronics.shtml' class='lnav'>High-Tech/Electronics</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/high_tech_electronics.shtml' class='lnav'>High-Tech/Electronics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_N") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/newspaper.shtml' class='lnav'>Newspaper</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/newspaper.shtml' class='lnav'>Newspaper&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-
-
-
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_T") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/telecommunications.shtml' class='lnav'>Telecommunications</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/telecommunications.shtml' class='lnav'>Telecommunications&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+				document.write("<td bgcolor='black'><a href='/industry_solutions.shtml' onMouseOver=\"changeButtonImage('imgmenu5',btnIS_on); return false\"><img src='/images/industry_solutions.gif' NAME='imgmenu5' width='171' height='19' border='0' alt='Industry Solutions' USEMAP='#ismenu'></a></td>");
 
 document.write ("	</tr>")
 
@@ -612,78 +364,32 @@ document.write ("	<tr>")
 
 			if (Level_L1=="L1_TRD")
 
-				document.write("<td bgcolor='#6699CC'><a href='/ryder_difference.shtml'><img src='/images/the_ryder_difference_on.gif' width='171' height='19' border='0' alt='The Ryder Difference'></a></td>"); 
+				document.write("<td bgcolor='#6699CC'><a href='/ryder_difference.shtml'><img src='/images/the_ryder_difference_on.gif' NAME='imgmenu6' width='171' height='19' border='0' alt='The Ryder Difference' USEMAP='#rdmenu'></a></td>");
 
-			else 
+			else
 
-				document.write("<td bgcolor='black'><a href='/ryder_difference.shtml' onMouseOver=\"changeButtonImage('btnTRD',btnTRD_on); return false\" onMouseOut=\"changeButtonImage('btnTRD',btnTRD_off); return false\"><img src='/images/the_ryder_difference.gif' NAME='btnTRD' width='171' height='19' border='0' alt='The Ryder Difference'></a></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_S") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/ryder_difference_s.shtml' class='lnav'>Safety</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/ryder_difference_s.shtml' class='lnav'>Safety&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+				document.write("<td bgcolor='black'><a href='/ryder_difference.shtml' onMouseOver=\"changeButtonImage('imgmenu6',btnTRD_on); return false\"><img src='/images/the_ryder_difference.gif' NAME='imgmenu6' width='171' height='19' border='0' alt='The Ryder Difference' USEMAP='#rdmenu'></a></td>");
 
 document.write ("	</tr>")
 
 document.write ("	<tr>")
 
-		if (Level_L2=="L2_ENV") 
+document.write ("		<td><img src='/images/" + bottomgif + " height='16' border='0' alt='' onMouseOut = 'clearmenus();'></td>")
 
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/ryder_difference_e.shtml' class='lnav'>Environment</a></td>");
+document.write ("	</tr>");
 
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/ryder_difference_e.shtml' class='lnav'>Environment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_EC") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/ryder_difference_ec.shtml' class='lnav'>e-Business</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/ryder_difference_ec.shtml' class='lnav'>e-Business&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_EX") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/ryder_difference_ec.shtml' class='lnav'>Operational Excellence</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/ryder_difference_ex.shtml' class='lnav'>Operational Excellence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
+document.write ("</table>");
 
 
-document.write ("	<tr>")
-
-document.write ("		<td><img src='/images/" + bottomgif + " height='16' border='0' alt=''></td>")
-
-document.write ("	</tr>")
-
-document.write ("</table>")
 
 }
 
 
 
 
-//leftnav script for Netscape Browser 
+//leftnav script for Netscape Browser
 
-//if NS 4+ 
+//if NS 4+
 
 else if (browser_type1=="Netscape"&&browser_version1>=4){
 
@@ -691,185 +397,28 @@ document.write ("<table width='171' border='0' cellspacing='0' cellpadding='0'>"
 
 document.write ("	<tr>")
 
-		
+
 
 			if (Level_L1=="L1_SS")
 
-				document.write("<td bgcolor='#6699CC'><a href='/service_solutions.shtml'><img src='/images/service_solutions_on.gif' width='171' height='20' border='0' alt='Service Solutions'></a></td>"); 
+				document.write("<td bgcolor='#6699CC'><a href='/service_solutions.shtml'><img src='/images/service_solutions_on.gif' NAME='imgmenu3' width='171' height='19' border='0' alt='Service Solutions' USEMAP='#ssmenu'></a></td>");
 
-			else 
+			else
 
-				document.write("<td bgcolor='black'><a href='/service_solutions.shtml' onMouseOver=\"changeButtonImage('btnSS',btnSS_on); return false\" onMouseOut=\"changeButtonImage('btnSS',btnSS_off); return false\"><img src='/images/service_solutions.gif' NAME='btnSS' width='171' height='20' border='0' alt='Service Solutions'></a></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-
-
-		if (Level_L2=="L2_SC") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/supply_chain.shtml' class='lnav'>Supply Chain</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/supply_chain.shtml' class='lnav'>Supply Chain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+				document.write("<td bgcolor='black'><a href='/service_solutions.shtml' onMouseOver=\"changeButtonImage('imgmenu3',btnSS_on); return false\"><img src='/images/service_solutions.gif' NAME='imgmenu3' width='171' height='19' border='0' alt='Service Solutions' USEMAP='#ssmenu'></a></td>");
 
 document.write ("	</tr>")
 
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_DM") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/distribution_management.shtml' class='lnav'>Distribution Management</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/distribution_management.shtml' class='lnav'>Distribution Management&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_TM") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/transportation_management.shtml' class='lnav'>Transportation Management</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/transportation_management.shtml' class='lnav'>Transportation Management</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_DCC") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/dedicated_contract_carriage.shtml' class='lnav'>Dedicated Contract Carriage</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/dedicated_contract_carriage.shtml' class='lnav'>Dedicated Contract Carriage</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_VL") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/vehicle_leasing.shtml' class='lnav'>Vehicle Leasing</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/vehicle_leasing.shtml' class='lnav'>Vehicle Leasing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_VR") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/vehicle_rental.shtml' class='lnav'>Vehicle Rental</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/vehicle_rental.shtml' class='lnav'>Vehicle Rental&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_VM") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/vehicle_maintenance.shtml' class='lnav'>Vehicle Maintenance</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/vehicle_maintenance.shtml' class='lnav'>Vehicle Maintenance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_UVS") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/used_vehicle_sales.shtml' class='lnav'>Used Vehicle Sales</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/used_vehicle_sales.shtml' class='lnav'>Used Vehicle Sales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_P") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/procurement.shtml' class='lnav'>Procurement</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/procurement.shtml' class='lnav'>Procurement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a/></ilayer></layer></td>");
-
-document.write ("	</tr>")
 
 document.write ("	<tr>")
 
 			if (Level_L1=="L1_GS")
 
-				document.write("<td bgcolor='#6699CC'><a href='/global_solutions.shtml'><img src='/images/global_solutions_on.gif' width='171' height='19' border='0' alt='Global Solutions'></a></td>"); 
+				document.write("<td bgcolor='#6699CC'><a href='/global_solutions.shtml'><img src='/images/global_solutions_on.gif' NAME='imgmenu4' width='171' height='19' border='0' alt='Global Solutions' USEMAP='#gsmenu'></a></td>");
 
-			else 
+			else
 
-				document.write("<td bgcolor='black'><a href='/global_solutions.shtml' onMouseOver=\"changeButtonImage('btnGS',btnGS_on); return false\" onMouseOut=\"changeButtonImage('btnGS',btnGS_off); return false\"><img src='/images/global_solutions.gif' NAME='btnGS' width='171' height='19' border='0' alt='Global Solutions'></a></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_NA") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/north_america.shtml' class='lnav'>North America</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/north_america.shtml' class='lnav'>North America&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_E") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/europe.shtml' class='lnav'>Europe</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/europe.shtml' class='lnav'>Europe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_SA") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/south_america.shtml' class='lnav'>Latin America</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/south_america.shtml' class='lnav'>Latin America&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_AP") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/asia_pacific.shtml' class='lnav'>Asia/Pacific</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/asia_pacific.shtml' class='lnav'>Asia/Pacific&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+				document.write("<td bgcolor='black'><a href='/global_solutions.shtml' onMouseOver=\"changeButtonImage('imgmenu4',btnGS_on); return false\"><img src='/images/global_solutions.gif' NAME='imgmenu4' width='171' height='19' border='0' alt='Global Solutions' USEMAP='#gsmenu'></a></td>");
 
 document.write ("	</tr>")
 
@@ -877,83 +426,11 @@ document.write ("	<tr>")
 
 			if (Level_L1=="L1_IS")
 
-				document.write("<td bgcolor='#6699CC'><a href='/industry_solutions.shtml'><img src='/images/industry_solutions_on.gif' width='171' height='19' border='0' alt='Industry Solutions'></a></td>"); 
+				document.write("<td bgcolor='#6699CC'><a href='/industry_solutions.shtml'><img src='/images/industry_solutions_on.gif' NAME='imgmenu5' width='171' height='19' border='0' alt='Industry Solutions' USEMAP='#ismenu'></a></td>");
 
-			else 
+			else
 
-				document.write("<td bgcolor='black'><a href='/industry_solutions.shtml' onMouseOver=\"changeButtonImage('btnIS',btnIS_on); return false\" onMouseOut=\"changeButtonImage('btnIS',btnIS_off); return false\"><img src='/images/industry_solutions.gif' NAME='btnIS' width='171' height='19' border='0' alt='Industry Solutions'></a></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_CAR") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/automotive.shtml' class='lnav'>Automotive</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/automotive.shtml' class='lnav'>Automotive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_AIR") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/aerospace.shtml' class='lnav'>Aerospace</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/aerospace.shtml' class='lnav'>Aerospace&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_CR") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/consumer_retail.shtml' class='lnav'>Consumer/Retail</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/consumer_retail.shtml' class='lnav'>Consumer/Retail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_FB") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/food_beverage.shtml' class='lnav'>Food & Beverage</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/food_beverage.shtml' class='lnav'>Food & Beverage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_HTE") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/high_tech_electronics.shtml' class='lnav'>High-Tech/Electronics</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/high_tech_electronics.shtml' class='lnav'>High-Tech/Electronics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_T") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/telecommunications.shtml' class='lnav'>Telecommunications</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/telecommunications.shtml' class='lnav'>Telecommunications&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+				document.write("<td bgcolor='black'><a href='/industry_solutions.shtml' onMouseOver=\"changeButtonImage('imgmenu5',btnIS_on); return false\"><img src='/images/industry_solutions.gif' NAME='imgmenu5' width='171' height='19' border='0' alt='Industry Solutions' USEMAP='#ismenu'></a></td>");
 
 document.write ("	</tr>")
 
@@ -961,71 +438,154 @@ document.write ("	<tr>")
 
 			if (Level_L1=="L1_TRD")
 
-				document.write("<td bgcolor='#6699CC'><a href='/ryder_difference.shtml'><img src='/images/the_ryder_difference_on.gif' width='171' height='19' border='0' alt='The Ryder Difference'></a></td>"); 
+				document.write("<td bgcolor='#6699CC'><a href='/ryder_difference.shtml'><img src='/images/the_ryder_difference_on.gif' NAME='imgmenu6' width='171' height='19' border='0' alt='The Ryder Difference' USEMAP='#rdmenu'></a></td>");
 
-			else 
+			else
 
-				document.write("<td bgcolor='black'><a href='/ryder_difference.shtml' onMouseOver=\"changeButtonImage('btnTRD',btnTRD_on); return false\" onMouseOut=\"changeButtonImage('btnTRD',btnTRD_off); return false\"><img src='/images/the_ryder_difference.gif' NAME='btnTRD' width='171' height='19' border='0' alt='The Ryder Difference'></a></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_S") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/ryder_difference_s.shtml' class='lnav'>Safety</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/ryder_difference_s.shtml' class='lnav'>Safety&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+				document.write("<td bgcolor='black'><a href='/ryder_difference.shtml' onMouseOver=\"changeButtonImage('imgmenu6',btnTRD_on); return false\"><img src='/images/the_ryder_difference.gif' NAME='imgmenu6' width='171' height='19' border='0' alt='The Ryder Difference' USEMAP='#rdmenu'></a></td>");
 
 document.write ("	</tr>")
 
 document.write ("	<tr>")
 
-		if (Level_L2=="L2_ENV") 
+document.write ("		<td><img src='/images/" + bottomgif + " height='16' border='0' alt='' onMouseOut = 'clearmenus();'></td>")
 
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/ryder_difference_e.shtml' class='lnav'>Environment</a></td>");
+document.write ("	</tr>");
 
-		else 
+document.write ("</table>");
 
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/ryder_difference_e.shtml' class='lnav'>Environment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_EC") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/ryder_difference_ec.shtml' class='lnav'>e-Business</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/ryder_difference_ec.shtml' class='lnav'>e-Business&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-document.write ("	<tr>")
-
-		if (Level_L2=="L2_EX") 
-
-			document.write("<td height='14' bgColor='#6699CC'><img border='0' src='/images/" + dotimgname + " align='right' height='14'><a href='/ryder_difference_ec.shtml' class='lnav'>Operational Excellence</a></td>");
-
-		else 
-
-			document.write("<td height=14 bgColor='#336699' onMouseover=\"this.style.backgroundColor='#6699CC'\" onMouseout=\"this.style.backgroundColor='#336699'\"><ilayer width='165' height='14' align='left'><layer width='171' height='14' align='left' onMouseover=\"this.bgColor='#6699CC'\" onMouseout=\"this.bgColor='#336699'\"><img border='0' src='/images/leftnav_bgback_trans.gif' align='right' width='12' height='14'><a href='/ryder_difference_ex.shtml' class='lnav'>Operational Excellence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
-
-document.write ("	</tr>")
-
-
-document.write ("	<tr>")
-
-document.write ("		<td><img src='/images/" + bottomgif + " height='16' border='0' alt=''></td>")
-
-document.write ("	</tr>")
-
-document.write ("</table>")
 }
-</script><table width="171" border="0" cellspacing="0" cellpadding="0">	<tbody><tr><td bgcolor="black"><a href="/service_solutions.shtml" onmouseover="changeButtonImage('btnSS',btnSS_on); return false" onmouseout="changeButtonImage('btnSS',btnSS_off); return false"><img src="/images/service_solutions.gif" name="btnSS" width="171" height="20" border="0" alt="Service Solutions"></a></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/supply_chain.shtml" class="lnav">Supply Chain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/distribution_management.shtml" class="lnav">Distribution Management&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/transportation_management.shtml" class="lnav">Transportation Management</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/dedicated_contract_carriage.shtml" class="lnav">Dedicated Contract Carriage</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/vehicle_leasing.shtml" class="lnav">Vehicle Leasing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/vehicle_rental.shtml" class="lnav">Vehicle Rental&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/vehicle_maintenance.shtml" class="lnav">Vehicle Maintenance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/used_vehicle_sales.shtml" class="lnav">Used Vehicle Sales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/procurement.shtml" class="lnav">Procurement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a></a></layer></ilayer></td>	</tr>	<tr><td bgcolor="black"><a href="/global_solutions.shtml" onmouseover="changeButtonImage('btnGS',btnGS_on); return false" onmouseout="changeButtonImage('btnGS',btnGS_off); return false"><img src="/images/global_solutions.gif" name="btnGS" width="171" height="19" border="0" alt="Global Solutions"></a></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/north_america.shtml" class="lnav">North America&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/europe.shtml" class="lnav">Europe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/south_america.shtml" class="lnav">Latin America&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/asia_pacific.shtml" class="lnav">Asia/Pacific&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td bgcolor="black"><a href="/industry_solutions.shtml" onmouseover="changeButtonImage('btnIS',btnIS_on); return false" onmouseout="changeButtonImage('btnIS',btnIS_off); return false"><img src="/images/industry_solutions.gif" name="btnIS" width="171" height="19" border="0" alt="Industry Solutions"></a></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/automotive.shtml" class="lnav">Automotive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/aerospace.shtml" class="lnav">Aerospace&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/consumer_retail.shtml" class="lnav">Consumer/Retail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/food_beverage.shtml" class="lnav">Food &amp; Beverage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/high_tech_electronics.shtml" class="lnav">High-Tech/Electronics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/telecommunications.shtml" class="lnav">Telecommunications&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td bgcolor="black"><a href="/ryder_difference.shtml" onmouseover="changeButtonImage('btnTRD',btnTRD_on); return false" onmouseout="changeButtonImage('btnTRD',btnTRD_off); return false"><img src="/images/the_ryder_difference.gif" name="btnTRD" width="171" height="19" border="0" alt="The Ryder Difference"></a></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/ryder_difference_s.shtml" class="lnav">Safety&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/ryder_difference_e.shtml" class="lnav">Environment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/ryder_difference_ec.shtml" class="lnav">e-Business&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr><td height="14" bgcolor="#336699" onmouseover="this.style.backgroundColor='#6699CC'" onmouseout="this.style.backgroundColor='#336699'"><ilayer width="165" height="14" align="left"><layer width="171" height="14" align="left" onmouseover="this.bgColor='#6699CC'" onmouseout="this.bgColor='#336699'"><img border="0" src="/images/leftnav_bgback_trans.gif" align="right" width="12" height="14"><a href="/ryder_difference_ex.shtml" class="lnav">Operational Excellence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td>	</tr>	<tr>		<td><img src="/images/nn_bottom_cuff.gif" width="174" height="16" border="0" alt=""></td>	</tr></tbody></table>
+
+</script><table width="171" border="0" cellspacing="0" cellpadding="0">	<tbody><tr><td bgcolor="black"><a href="/service_solutions.shtml" onmouseover="changeButtonImage('imgmenu3',btnSS_on); return false"><img src="/images/service_solutions.gif" name="imgmenu3" width="171" height="19" border="0" alt="Service Solutions" usemap="#ssmenu"></a></td>	</tr>	<tr><td bgcolor="black"><a href="/global_solutions.shtml" onmouseover="changeButtonImage('imgmenu4',btnGS_on); return false"><img src="/images/global_solutions.gif" name="imgmenu4" width="171" height="19" border="0" alt="Global Solutions" usemap="#gsmenu"></a></td>	</tr>	<tr><td bgcolor="black"><a href="/industry_solutions.shtml" onmouseover="changeButtonImage('imgmenu5',btnIS_on); return false"><img src="/images/industry_solutions.gif" name="imgmenu5" width="171" height="19" border="0" alt="Industry Solutions" usemap="#ismenu"></a></td>	</tr>	<tr><td bgcolor="black"><a href="/ryder_difference.shtml" onmouseover="changeButtonImage('imgmenu6',btnTRD_on); return false"><img src="/images/the_ryder_difference.gif" name="imgmenu6" width="171" height="19" border="0" alt="The Ryder Difference" usemap="#rdmenu"></a></td>	</tr>	<tr>		<td><img src="/images/nn_bottom_cuff.gif" width="174" height="16" border="0" alt="" onmouseout="clearmenus();"></td>	</tr></tbody></table>
+
+<map name="ssmenu">
+
+  <area shape="RECT" coords="0,0,165,14" href="/service_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu3','ss',1)" onmouseout="if(!isFour) clearmenus(); ">
+
+  <area shape="RECT" coords="0,14,165,26" href="/service_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu3','ss',1)" onmouseout="if(!isFour)  clearmenus(); ">
+
+  <area shape="RECT" coords="0,26,165,38" href="/service_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu3','ss',1)" onmouseout="if(!isFour)  clearmenus();">
+
+  <area shape="RECT" coords="0,38,165,50" href="/service_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu3','ss',1)" onmouseout="if(!isFour)  clearmenus(); ">
+
+  <area shape="RECT" coords="0,50,165,62" href="/service_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu3','ss',1)" onmouseout="if(!isFour)  clearmenus(); ">
+
+  <area shape="RECT" coords="0,62,165,74" href="/service_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu3','ss',1)" onmouseout="if(!isFour)  clearmenus(); ">
+
+  <area shape="RECT" coords="0,74,165,86" href="/service_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu3','ss',1)" onmouseout="if(!isFour)  clearmenus(); ">
+
+  <area shape="RECT" coords="0,86,165,98" href="/service_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu3','ss',1)" onmouseout="if(!isFour)  clearmenus(); ">
+
+  <area shape="RECT" coords="0,98,165,110" href="/service_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu3','ss',1)" onmouseout="if(!isFour)  clearmenus(); ">
+</map>
+
+<map name="gsmenu">
+
+  <area shape="RECT" coords="0,0,157,12" href="/global_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu4','gs',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,12,157,24" href="/global_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu4','gs',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,24,157,36" href="/global_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu4','gs',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,36,157,48" href="/global_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu4','gs',1)" onmouseout="if(!isFour) clearmenus();">
+
+</map>
+
+<map name="rdmenu">
+
+  <area shape="RECT" coords="0,0,165,12" href="/ryder_difference.shtml" alt="" onmouseover="clearmenus();change('imgmenu6','rd',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,12,165,24" href="/ryder_difference.shtml" alt="" onmouseover="clearmenus();change('imgmenu6','rd',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,24,165,36" href="/ryder_difference.shtml" alt="" onmouseover="clearmenus();change('imgmenu6','rd',1)" onmouseout="if(!isFour) clearmenus();">
+
+
+</map>
+
+<map name="ismenu">
+
+  <area shape="RECT" coords="0,0,165,12" href="/industry_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu5','is',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,12,165,24" href="/industry_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu5','is',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,24,165,36" href="/industry_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu5','is',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,36,165,48" href="/industry_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu5','is',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,48,165,60" href="/industry_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu5','is',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,60,165,72" href="/industry_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu5','is',1)" onmouseout="if(!isFour) clearmenus();">
+
+  <area shape="RECT" coords="0,72,165,84" href="/industry_solutions.shtml" alt="" onmouseover="clearmenus();change('imgmenu5','is',1)" onmouseout="if(!isFour) clearmenus();">
+
+</map>
+
+
+<div id="menu3"><a href="/service_solutions.shtml" onmouseout="clearmenus()"><img src="/images/ss_leftnav.gif" width="165" height="110" border="0" alt="Service Solutions"></a></div>
+
+<div id="menu3overs">
+
+<a href="/supply_chain.shtml" onmouseover="imagerep('supplychain', 'menu3overs')" onmouseout="eraseimage('supplychain', 'menu3overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Supply Chain" border="0" height="14" hspace="0" name="supplychain" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+<a href="/distribution_management.shtml" onmouseover="imagerep('dismgmt', 'menu3overs')" onmouseout="eraseimage('dismgmt', 'menu3overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Distribution Management" border="0" height="12" hspace="0" name="dismgmt" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+<a href="/transportation_management.shtml" onmouseover="imagerep('transmgmt', 'menu3overs')" onmouseout="eraseimage('transmgmt', 'menu3overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Transportation Management" border="0" height="12" hspace="0" name="transmgmt" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+<a href="/dedicated_contract_carriage.shtml" onmouseover="imagerep('carriage', 'menu3overs')" onmouseout="eraseimage('carriage', 'menu3overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Dedicated Contract Carriage" border="0" height="12" hspace="0" name="carriage" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+<a href="/vehicle_leasing.shtml" onmouseover="imagerep('leasing', 'menu3overs')" onmouseout="eraseimage('leasing', 'menu3overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Vehicle Leasing" border="0" height="12" hspace="0" name="leasing" vspace="0" width="165" class="menu"><br class="menu"></a>
+<a href="/vehicle_rental.shtml" onmouseover="imagerep('rental', 'menu3overs')" onmouseout="eraseimage('rental', 'menu3overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Vehicle Rental" border="0" height="12" hspace="0" name="rental" vspace="0" width="165" class="menu"><br class="menu"></a>
+<a href="/vehicle_maintenance.shtml" onmouseover="imagerep('maint', 'menu3overs')" onmouseout="eraseimage('maint', 'menu3overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Vehicle Maintenance" border="0" height="12" hspace="0" name="maint" vspace="0" width="165" class="menu"><br class="menu"></a>
+<a href="/used_vehicle_sales.shtml" onmouseover="imagerep('uvs', 'menu3overs')" onmouseout="eraseimage('uvs', 'menu3overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Used Vehicle Sales" border="0" height="12" hspace="0" name="uvs" vspace="0" width="165" class="menu"><br class="menu"></a>
+<a href="/procurement.shtml" onmouseover="imagerep('procurement', 'menu3overs')" onmouseout="eraseimage('procurement', 'menu3overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Procurement" border="0" height="12" hspace="0" name="procurement" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+</div>
+
+
+<div id="menu4"><a href="/global_solutions.shtml" onmouseout="clearmenus()"><img src="/images/gs_leftnav.gif" width="157" height="48" border="0" alt="Global Solutions"></a></div>
+
+<div id="menu4overs">
+
+<a href="/north_america.shtml" onmouseover="imagerep('northamerica', 'menu4overs')" onmouseout="eraseimage('northamerica', 'menu4overs')" class="menu"><img src="/images/misc_pixel.gif" alt="North America" border="0" height="12" hspace="0" name="northamerica" vspace="0" width="157" class="menu"><br class="menu"></a>
+
+<a href="/europe.shtml" onmouseover="imagerep('europe', 'menu4overs')" onmouseout="eraseimage('europe', 'menu4overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Europe" border="0" height="12" hspace="0" name="europe" vspace="0" width="157" class="menu"><br class="menu"></a>
+
+<a href="/south_america.shtml" onmouseover="imagerep('southamerica', 'menu4overs')" onmouseout="eraseimage('southamerica', 'menu4overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Latin America" border="0" height="12" hspace="0" name="southamerica" vspace="0" width="157" class="menu"><br class="menu"></a>
+
+<a href="/asia_pacific.shtml" onmouseover="imagerep('asia', 'menu4overs')" onmouseout="eraseimage('asia', 'menu4overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Asia Pacific" border="0" height="12" hspace="0" name="asia" vspace="0" width="157" class="menu"><br class="menu"></a>
+
+</div>
+
+<div id="menu6"><a href="/ryder_difference.shtml" onmouseout="clearmenus()"><img src="/images/rd_leftnav.gif" width="165" height="36" border="0" alt="The Ryder Difference"></a></div>
+
+<div id="menu6overs">
+
+<a href="/ryder_difference_s.shtml" onmouseover="imagerep('safety', 'menu6overs')" onmouseout="eraseimage('safety', 'menu6overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Safety" border="0" height="12" hspace="0" name="safety" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+<a href="/ryder_difference_e.shtml" onmouseover="imagerep('environment', 'menu6overs')" onmouseout="eraseimage('environment', 'menu6overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Environment" border="0" height="12" hspace="0" name="environment" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+
+<a href="/ryder_difference_ex.shtml" onmouseover="imagerep('excel', 'menu6overs')" onmouseout="eraseimage('excel', 'menu6overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Operational Excellence" border="0" height="12" hspace="0" name="excel" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+</div>
+
+<div id="menu5"><a href="/industry_solutions.shtml" onmouseout="clearmenus()"><img src="/images/is_leftnav.gif" width="165" height="84" border="0" alt="Industry Solutions"></a></div>
+
+<div id="menu5overs">
+
+<a href="/automotive.shtml" onmouseover="imagerep('automotive', 'menu5overs')" onmouseout="eraseimage('automotive', 'menu5overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Automotive" border="0" height="12" hspace="0" name="automotive" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+<a href="/aerospace.shtml" onmouseover="imagerep('aerospace', 'menu5overs')" onmouseout="eraseimage('aerospace', 'menu5overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Aerospace" border="0" height="12" hspace="0" name="aerospace" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+<a href="/consumer_retail.shtml" onmouseover="imagerep('consumer', 'menu5overs')" onmouseout="eraseimage('consumer', 'menu5overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Consumer/Retail" border="0" height="12" hspace="0" name="consumer" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+<a href="/food_beverage.shtml" onmouseover="imagerep('food', 'menu5overs')" onmouseout="eraseimage('food', 'menu5overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Food &amp; Beverage" border="0" height="12" hspace="0" name="food" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+<a href="/high_tech_electronics.shtml" onmouseover="imagerep('hightech', 'menu5overs')" onmouseout="eraseimage('hightech', 'menu5overs')" class="menu"><img src="/images/misc_pixel.gif" alt="High Tech Electronics" border="0" height="12" hspace="0" name="hightech" vspace="0" width="165" class="menu"><br class="menu"></a>
+<a href="/newspaper.shtml" onmouseover="imagerep('newspaper', 'menu5overs')" onmouseout="eraseimage('newspaper', 'menu5overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Newspaper" border="0" height="12" hspace="0" name="newspaper" vspace="0" width="165" class="menu"><br class="menu"></a>
+<a href="/telecommunications.shtml" onmouseover="imagerep('telecom', 'menu5overs')" onmouseout="eraseimage('telecom', 'menu5overs')" class="menu"><img src="/images/misc_pixel.gif" alt="Telecommunications" border="0" height="12" hspace="0" name="telecom" vspace="0" width="165" class="menu"><br class="menu"></a>
+
+</div>
 	</td>
 
 
@@ -1183,6 +743,17 @@ document.write("<table width='145' border='0' cellspacing='0' cellpadding='0'>")
         document.write("<tr>")
 
                 
+                if (Level_R2=="R2_FF") 
+
+                        document.write("<td height='14' bgColor='#FF6666'><a href='http://reservations.ryder.com' class='rnav'>Rental Reservations</td>");
+
+                else 
+
+                        document.write("<td height=14 bgColor='#CC3333' onMouseover=\"this.style.backgroundColor='#FF6666'\" onMouseout=\"this.style.backgroundColor='#CC3333'\"><ilayer width='145' height='14'><layer width='145' height='14' onMouseover=\"this.bgColor='#FF6666'\" onMouseout=\"this.bgColor='#CC3333'\"><a href='http://reservations.ryder.com' class='rnav'>Rental Reservations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+
+        document.write("</tr>")
+
+        document.write("<tr>")
 
                 if (Level_R2=="R2_FF") 
 
@@ -1201,11 +772,11 @@ document.write("<table width='145' border='0' cellspacing='0' cellpadding='0'>")
 
                 if (Level_R2=="R2_ER") 
 
-                        document.write("<td height='14' bgColor='#FF6666'><a href='http://ryder.crm-end2end.com' class='rnav'>Emergency Response</td>");
+                        document.write("<td height='14' bgColor='#FF6666'><a href='http://rcrcinfo.com' class='rnav'>Emergency Response</td>");
 
                 else 
 
-                        document.write("<td height=14 bgColor='#CC3333' onMouseover=\"this.style.backgroundColor='#FF6666'\" onMouseout=\"this.style.backgroundColor='#CC3333'\"><ilayer width='145' height='14'><layer width='145' height='14' onMouseover=\"this.bgColor='#FF6666'\" onMouseout=\"this.bgColor='#CC3333'\"><a href='http://ryder.crm-end2end.com' class='rnav'>Emergency Response&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+                        document.write("<td height=14 bgColor='#CC3333' onMouseover=\"this.style.backgroundColor='#FF6666'\" onMouseout=\"this.style.backgroundColor='#CC3333'\"><ilayer width='145' height='14'><layer width='145' height='14' onMouseover=\"this.bgColor='#FF6666'\" onMouseout=\"this.bgColor='#CC3333'\"><a href='http://rcrcinfo.com' class='rnav'>Emergency Response&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
 
                 
 
@@ -1469,6 +1040,24 @@ document.write("<table width='145' border='0' cellspacing='0' cellpadding='0'>")
 
                 if (Level_R2=="R2_FF") 
 
+                        document.write("<td height='14' bgColor='#FF6666'><a href='http://reservations.ryder.com' class='rnav'>Rental Reservations</td>");
+
+                else 
+
+                        document.write("<td height=14 bgColor='#CC3333' onMouseover=\"this.style.backgroundColor='#FF6666'\" onMouseout=\"this.style.backgroundColor='#CC3333'\"><ilayer width='145' height='14'><layer width='145' height='14' onMouseover=\"this.bgColor='#FF6666'\" onMouseout=\"this.bgColor='#CC3333'\"><a href='http://reservations.ryder.com' class='rnav'>Rental Reservations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+
+                
+
+        document.write("</tr>")
+
+
+
+        document.write("<tr>")
+
+                
+
+                if (Level_R2=="R2_FF") 
+
                         document.write("<td height='14' bgColor='#FF6666'><a href='/mapquest/rydermap_home.jsp' class='rnav'>Find Fuel/Maintenance</td>");
 
                 else 
@@ -1485,11 +1074,11 @@ document.write("<table width='145' border='0' cellspacing='0' cellpadding='0'>")
 
                 if (Level_R2=="R2_ER") 
 
-                        document.write("<td height='14' bgColor='#FF6666'><a href='http://ryder.crm-end2end.com' class='rnav'>Emergency Response</td>");
+                        document.write("<td height='14' bgColor='#FF6666'><a href='http://rcrcinfo.com' class='rnav'>Emergency Response</td>");
 
                 else 
 
-                        document.write("<td height=14 bgColor='#CC3333' onMouseover=\"this.style.backgroundColor='#FF6666'\" onMouseout=\"this.style.backgroundColor='#CC3333'\"><ilayer width='145' height='14'><layer width='145' height='14' onMouseover=\"this.bgColor='#FF6666'\" onMouseout=\"this.bgColor='#CC3333'\"><a href='http://ryder.crm-end2end.com' class='rnav'>Emergency Response&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
+                        document.write("<td height=14 bgColor='#CC3333' onMouseover=\"this.style.backgroundColor='#FF6666'\" onMouseout=\"this.style.backgroundColor='#CC3333'\"><ilayer width='145' height='14'><layer width='145' height='14' onMouseover=\"this.bgColor='#FF6666'\" onMouseout=\"this.bgColor='#CC3333'\"><a href='http://rcrcinfo.com' class='rnav'>Emergency Response&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ilayer></layer></td>");
 
                 
 
@@ -1634,7 +1223,7 @@ document.write("<table width='145' border='0' cellspacing='0' cellpadding='0'>")
 document.write("</table>")
 
 }
-</script><table width="145" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a href="/ryder_for.shtml" onmouseover="changeButtonImage('btnRF',btnRF_on); return false" onmouseout="changeButtonImage('btnRF',btnRF_off); return false"><img src="/images/ryder_for.gif" name="btnRF" width="145" height="20" border="0" alt="Ryder For"></a></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/cust_portal.shtml" class="rnav">Customers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/emp_portal.shtml" class="rnav">Employees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/inv_portal.shtml" class="rnav">Investors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/media_portal.shtml" class="rnav">Media&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td><a href="/online_tools.shtml" onmouseover="changeButtonImage('btnOT',btnOT_on); return false" onmouseout="changeButtonImage('btnOT',btnOT_off); return false"><img src="/images/online_tools.gif" name="btnOT" width="145" height="19" border="0" alt="Online Tools"></a></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/mapquest/rydermap_home.jsp" class="rnav">Find Fuel/Maintenance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="http://ryder.crm-end2end.com" class="rnav">Emergency Response&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="http://www.ryderfleetproducts.com" class="rnav">Buy Parts &amp; Accessories&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="ryderused" class="rnav">Buy Used Vehicles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/ryderentry/splash?retype=order" class="rnav">Enter Transport Orders&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/rydership/splash" class="rnav">Match Capacity/Load&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/ryderentry/splash?retype=status" class="rnav">Update Load Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/rydertrac/splash" class="rnav">Track &amp; Trace&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/ryderflow/splash" class="rnav">View Inventory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="http://www.reports.ryder.com" class="rnav">View Reports &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td><img src="/images/buttom_cuff2.gif" width="145" height="13" border="0" alt=""></td></tr></tbody></table>
+</script><table width="145" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a href="/ryder_for.shtml" onmouseover="changeButtonImage('btnRF',btnRF_on); return false" onmouseout="changeButtonImage('btnRF',btnRF_off); return false"><img src="/images/ryder_for.gif" name="btnRF" width="145" height="20" border="0" alt="Ryder For"></a></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/cust_portal.shtml" class="rnav">Customers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/emp_portal.shtml" class="rnav">Employees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/inv_portal.shtml" class="rnav">Investors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/media_portal.shtml" class="rnav">Media&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td><a href="/online_tools.shtml" onmouseover="changeButtonImage('btnOT',btnOT_on); return false" onmouseout="changeButtonImage('btnOT',btnOT_off); return false"><img src="/images/online_tools.gif" name="btnOT" width="145" height="19" border="0" alt="Online Tools"></a></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="http://reservations.ryder.com" class="rnav">Rental Reservations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/mapquest/rydermap_home.jsp" class="rnav">Find Fuel/Maintenance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="http://rcrcinfo.com" class="rnav">Emergency Response&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="http://www.ryderfleetproducts.com" class="rnav">Buy Parts &amp; Accessories&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="ryderused" class="rnav">Buy Used Vehicles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/ryderentry/splash?retype=order" class="rnav">Enter Transport Orders&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/rydership/splash" class="rnav">Match Capacity/Load&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/ryderentry/splash?retype=status" class="rnav">Update Load Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/rydertrac/splash" class="rnav">Track &amp; Trace&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="/ryderonline/ryderflow/splash" class="rnav">View Inventory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td height="14" bgcolor="#CC3333" onmouseover="this.style.backgroundColor='#FF6666'" onmouseout="this.style.backgroundColor='#CC3333'"><ilayer width="145" height="14"><layer width="145" height="14" onmouseover="this.bgColor='#FF6666'" onmouseout="this.bgColor='#CC3333'"><a href="http://www.reports.ryder.com" class="rnav">View Reports &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer></ilayer></td></tr><tr><td><img src="/images/buttom_cuff2.gif" width="145" height="13" border="0" alt=""></td></tr></tbody></table>
 	</td>
 
 
@@ -1647,11 +1236,12 @@ document.write("</table>")
 <tbody><tr>
         <td align="left">
         Ryder and Ryder Logo are registered trademarks of Ryder System, Inc.<br>
-        Copyright (c) 1996 - 2002 Ryder System, Inc.  Please read our Online <a href="/privacy_policy.shtml">Privacy Policy</a><br><br>
+        Copyright (c) 1996 - 2003 Ryder System, Inc.  Please read our Online <a href="/privacy_policy.shtml">Privacy Policy</a><br><br>
 
         <a href="/index.shtml">Home</a> | <a href="/about_us.shtml">About Us</a> | <a href="/resources.shtml">Resources</a> | <a href="/contactus.shtml">Contact Us</a> | <a href="/jobbank/employment.jsp">Careers</a> | <a href="/help.shtml">Help</a> | <a href="/site_map.shtml">Sitemap</a><br>
         <a href="/service_solutions.shtml">Service Solutions</a> | <a href="/global_solutions.shtml">Global Solutions</a> | <a href="/industry_solutions.shtml">Industry Solutions</a> | <a href="/ryder_difference.shtml">The Ryder Difference</a><br>
-        <a href="/mapquest/rydermap_home.jsp">Find Fuel/Maintenance</a> | <a href="http://ryder.crm-end2end.com">Emergency Response</a> | <a href="http://www.ryderfleetproducts.com">Buy Parts &amp; Accessories</a> | <a href="/ryderused">Buy Used Vehicles</a> | <a href="/ryderonline/ryderentry/splash?retype=order">Enter Transport Orders</a><br>
+        <a href="http://reservations.ryder.com">Rental Reservations</a> | <a href="/mapquest/rydermap_home.jsp">Find Fuel/Maintenance</a> | <a href="http://rcrcinfo.com">Emergency Response</a> <br>
+        <a href="http://www.ryderfleetproducts.com">Buy Parts &amp; Accessories</a> | <a href="/ryderused">Buy Used Vehicles</a> | <a href="/ryderonline/ryderentry/splash?retype=order">Enter Transport Orders</a><br>
         <a href="/ryderonline/rydership/splash">Match Capacity/Load</a> | <a href="/ryderonline/ryderentry/splash?retype=status">Update Load Status</a> | <a href="/ryderonline/rydertrac/splash">Track &amp; Trace</a> | <a href="/ryderonline/ryderflow/splash">View Inventory</a> | <a href="http://www.reports.ryder.com">View Reports</a><br>
         <a href="/cust_portal.shtml">Customers</a> | <a href="/emp_portal.shtml">Employees</a> | <a href="/inv_portal.shtml"> Investors</a> | <a href="/media_portal.shtml">Media</a>
         </td>
