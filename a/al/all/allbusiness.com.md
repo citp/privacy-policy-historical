@@ -1,58 +1,71 @@
-> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405064826id_/http%3A//www.allbusiness.com/cmt/customerservice/generic.jhtml%3Ffname%3D21480) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208080919id_/http%3A//www.allbusiness.com/include/privacy.asp) for the most accurate reproduction.*
 
-# AllBusiness.com | General / Customer Service | Privacy Policy
+# AllBusiness Privacy Policy
 
-  
 Privacy Policy
 
-This AllBusiness ("AB") Privacy Policy (our "Policy") was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our valued customers, and the companies, businesses and organizations they represent (collectively, "you"). 
+Privacy Policy
 
-IF YOU DO NOT AGREE TO THE POLICY, YOU SHOULD NOT USE THIS INTERNET WEBSITE (OUR "SITE"). WE MAY MODIFY THE POLICY FROM TIME TO TIME AND POST THOSE MODIFICATIONS HERE. YOUR CONTINUED USE OF THE SITE AFTER ANY SUCH MODIFICATION CONSTITUTES YOUR ACCEPTANCE OF THE MODIFIED AGREEMENT. 
+Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
-IF YOU WISH TO BE NOTIFIED OF ANY MODIFICATIONS TO THE POLICY BY EMAIL, PLEASE [CLICK HERE](mailto:service@allbusiness.com), PROVIDE A VALID EMAIL ADDRESS AND TYPE "NOTIFY" IN THE SUBJECT LINE. YOU UNDERSTAND AND AGREE THAT YOU WILL BE BOUND BY ALL SUCH MODIFICATIONS, IF ANY, REGARDLESS OF WHETHER YOU PROVIDE SUCH EMAIL ADDRESS. 
+What Information Do We Collect?
 
-1\. Information  
-AB obtains information from and about you in number of different ways, including: 
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-  1. **General Information.** Some information ("General Information") is gathered automatically when you access the Site. This General Information (which includes Site pages visited, type of web browser used, type of operating system, and the domain name of your Internet service provider, and similar information) does not identify you personally. This may also include without limitation any and all information you provide at the location on the Site known as the "Exchange." 
-  2. **Personal Information.** Some information that may be identifiable as yours (your "Personal Information") is not gathered automatically at the Site. If you wish to provide Personal Information, you must do so voluntarily, and may do so in a number of different ways. The following are some of the kinds of Personal Information AB gathers: 
-    1. **Registration Information.** When you register at the Site, you will be asked for certain Personal Information, such as your name, your street mailing address, your email address, and other information;
-    2. **Third Party Information.** When you register at a third party website, and provide Personal Information to such third parties, AB may (pursuant to agreements between AB and those third parties) obtain such information to populate AB Site registration forms for use when you hyperlink to the Site; 
-    3. **Credit Card Information.** If you purchase goods or services at the Site, you will be asked for credit card information, including your name, account number and expiration date; and 
-    4. **Email Information.** When you send us email messages, we may retain the content of your email messages, together with your email address and our response to you. 
-  3. **Cookies.** Cookies are small pieces of data that are stored by a user's web browser on the hard drive of a user's computer. Cookies can "remember" what information ("Cookie Information") a user accesses on one web page to simplify subsequent interactions with that website by the same user, or can use that information to streamline the user's transactions on related websites. The Cookies AB uses do not capture your individual email address or any personally identifying information, but do permit AB to send focused advertising, online banner advertisements, new services, promotions or other such responses to you or assist your use of the Site. AB may also set Cookies when you register or when you acquire goods or services from the Site, and may do so without notice to or permission from you or any third party. Third party websites which are accessible from the Site via links, banner ads, or "click-throughs" may also use Cookies, and AB shall have no responsibility whatsoever for such Cookies. 
+1.     Personal Information You Choose to Provide
 
+Registration Information.
 
+You will provide us information about yourself, your firm or company, and your practices when you register to be a member of AllBusiness, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see AllBusiness servicing your needs and interests.
 
-2\. General Use and Disclosure of Information  
-AB uses and discloses your information as follows: 
+Email Information.
 
-  1. **General Information.** AB uses and discloses General Information to understand Site demographics and content preferences, and shall do so without notice to, or permission from, you or any third party. In particular, AB may provide aggregate information about our customers, sales, Site traffic patterns and related information to our affiliates or third parties; 
-  2. **Personal Information.** As further provided in Section 3 ("Other Use and Disclosure of Personal Information"), AB uses and discloses to our business partners and affiliates Personal Information for purposes of administering AB business activities, providing customer service and making available other products and services to you and other AB customers and prospective customers from AB and those business partners and affiliates. This may include focused advertising, online banner advertisements, new services, promotions and other responses to you. AB may also use and disclose Personal Information to notify you about important changes to the Site or our business, new AB services and special offers you may find valuable; and 
-  3. **Cookie Information.** AB uses and discloses Cookie Information to improve our Site and better serve you and our other customers, and may do so without notice to, or permission from, you or any third party.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
 
+2.     Web Site Use Information
 
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code called “web beacons” or “clear gifs” to determine which advertisements and promotions users have seen and how users responded to them.
 
-3\. Other Use and Disclosure of Personal Information  
-AB may enter into agreements with third parties who may be given access to Personal Information for the purpose of providing you information regarding products and services that we think will be of interest to you. We may also disclose any of your information when legally compelled to do so, or when we, in good faith, believe that the law requires it or for the protection of our legal rights. The following are some of the ways in which we may use or disclose your Personal Information to third parties: 
+How Do We Use the Information That You Provide to Us?
 
-  1. **Registration Information.** AB may transfer the Personal Information you provide AB during the Site registration process to third parties for those parties to use to populate their own website registration forms when you hyperlink from the Site to their websites, in order to save you time in filling out their registration forms. Such third party websites may include websites that are owned by third parties or that are "co-branded" sites of AB; 
-  2. **"Pre-Population" Information.** When you come to the Site from a third party website, or when you hyperlink from the Site to a third party website, and in either case provide Personal Information at that third party website, AB may obtain that Personal Information (pursuant to an agreement between AB and that third party), and use that Personal Information to populate Site registration forms in order to save you time filing out Site registration forms; and 
-  3. **Shared Registration Information.** When you register at the Site, you may be given the opportunity to register simultaneously at the websites of certain third parties. Unless you opt out of this opportunity by checking or clicking on the icon indicated on the Site, you will be deemed to have consented to such simultaneous registration, and shall therefore be subject to the privacy policies, if any, of such third party website. 
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [customerservice@AllBusiness.com.](mailto:customerservice@lawcommerce.com)
 
+What Are Cookies?
 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-4\. Security  
-You understand and agree that "perfect" security does not exist anywhere, including the Internet. When you send credit card information to us at the Site, we use a technology called Secure Socket Layer (SSL) or Secure Electronic Transaction (SET) to encrypt this information between your computer and our server. Other personal information you send to us at the Site, however, including any email messages, will not be encrypted unless we advise you otherwise. 
+How Do We Use Information We Collect from Cookies?
 
-5\. Merchant Services  
-You may be able to access certain information related to third parties at the Site, or via links, banner ads, or "click-throughs" from the Site, regarding the goods or services of third parties (collectively, "Merchant Services"). You understand and agree that your access to or use of Merchant Services is a matter entirely between you and the associated third parties, and AB shall have no liability whatsoever for any such access or use. 
+As you shop on our Web site, the site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
 
-6\. Community  
-AB urges you to use discretion when sharing Personal Information in community areas on the Site such as message boards, mailing lists and directories. If you disclose Personal Information in such areas, you understand and agree that such Personal Information may be used and disclosed by others without restriction. 
+Sharing Information with Third Parties
 
-7\. Terminating Your Membership  
-To terminate your membership, send and email to [service@allbusiness.com](mailto:service@allbusiness.com) and type "CANCEL" in the subject line. You may continue to receive email communications for a short period of time until we have updated all of our databases. After termination of your membership, your Personal Information may remain on our archived database and records for a reasonable time. 
+We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
 
-8\. Contact Us  
-If you have any questions about this Privacy Policy or the Site, you may contact us at [Customer Service](https://web.archive.org/general/customer_services.html). 
+Notice of New Services and Changes
+
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [customerservice@AllBusiness.com](mailto:customerservice@lawcommerce.com).
+
+How Do We Protect Your Information?
+
+How Do We Secure Information Transmissions?
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [customerservice@AllBusiness.com](mailto:customerservice@lawcommerce.com) if you have any questions or concerns.
+
+How Can You Access and Correct Your Information?
+
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [customerservice@AllBusiness.com](mailto:customerservice@lawcommerce.com).
+
+Certain Disclosures
+
+We may disclosure your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or Affiliated Parties; (b) protect and defend our rights and property, the Site, the users of the Site, and/or our Affiliated Parties; or (c) act under circumstances to protect the safety of users of the Site, us, or third parties.
+
+What About Other Web Sites Linked to Our Web Site?
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
+
+Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+
+Your Consent
+
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
