@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtservices.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221212050id_/http%3A//insuremytrip.com/p/gen%3Fpage%3Dprivacy%26pid%3D1000%26rid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtservices.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604181650id_/http%3A//insuremytrip.com/p/gen%3Fpage%3Dprivacy%26pid%3D1000%26rid%3D1) for the most accurate reproduction.*
 
 # InsureMyTrip.com Privacy Policy
 
@@ -28,7 +28,7 @@ The InsureMyTrip.com web site collects the following information only if you cho
 
 Using Information Gathered
 
-The information collected is used to provide policy quotes and to issue your policy. The information is in turn sent encrypted, only to the insurance company underwriting the policy. The insurance companies employ standard encryption practices receiving such information.
+The information collected is used to provide policy quotes and to issue your policy. The information is in turn sent encrypted, only to the insurance company underwriting the policy and the producing agent if applicable. The insurance companies employ standard encryption practices receiving such information.
 
 InsureMyTrip.com archives information provided by you for policy quoting and policy issuance on our servers. This information is kept electronically, but is internal to InsureMyTrip.com and not maintained on the web site.
 
@@ -36,7 +36,7 @@ Sharing Information Gathered
 
 In general, our site will only collect data from you that will be used to provide accurate quotes and issue policies.
 
-We do track the domain name, IP address and browser type of our site visitors through a site-reporting tool that runs on our server. This information is used internally only to show activity and trends of our site usage.
+We do track the domain name, IP address, browser type, and referring IP address of our site visitors through a site-reporting tool that runs on our server and cookies. This information is used internally only to show activity and trends of our site usage.
 
 We do not provide information to mailing lists nor do we sell the information to others for any purpose.
 
