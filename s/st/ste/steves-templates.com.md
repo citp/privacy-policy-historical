@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the steves-templates.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607033819id_/http%3A//www.steves-templates.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steves-templates.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207013249id_/http%3A//www.steves-templates.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Steve's free website templates
 
+  
 Cookies
 
 Steves-Templates.com uses cookies to store session information so you will not see the same advertisement repeatedly.
@@ -22,4 +23,5 @@ Customer Information & Credit Card Transactions
 
 Limited information is supplied to Steves-Templates.com in the event of a sale. This includes your name, IP Address and website domain name. This information is not sold or distributed to third parties. Credit card payments are processed through [PayPal.com](http://www.paypal.com/). This information is collected solely for PayPal to securely process the order, and is not accessible to Steves-Templates.com
 
-All questions and concerns should be directed to [Steve@Steves-Templates.com](mailto:Steve@Steves-Templates.com). 
+  
+All questions and concerns should be directed [here](mailto:Steve@Steves-Templates.com). 
