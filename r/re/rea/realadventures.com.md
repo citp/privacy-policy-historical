@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602113844id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2002-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021002113345id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for RealAdventures
+# Privacy Policy for AtlasTravel
 
-RealAdventures collects information about visitors to our site in several different ways. 
+AtlasTravel collects information about visitors to our site in several different ways. 
 
-**Cookies:** We use cookies to track the number of unique and total visitors to our website. Cookies are used to help us understand what areas of our website visitors are most interested in, how often they visit those areas, and how long they visit our site. We use this information as part of our research to enhance our site, market our services to visitors and advertisers and to provide a more personalized experience for each visitor. Cookies are stored on your local hard drive and contain a unique visitor number, the last time your visited the site and some other limited information.
+**Cookies:** We use cookies to track the number of unique and total visitors to our website. Cookies are used to help us understand what areas of our website visitors are most interested in, how often they visit those areas, and how long they visit our site. We use this information as part of our research to enhance our site, market our services to visitors and advertisers and to provide a more personalized experience for each visitor. Cookies are stored on your local hard drive and contain a unique visitor number, the last time you visited the site and some other limited information.
 
-**E-Mail List:** Visitors that sign up to receive promotional e-mails from us provide personal information that is used to customize the contents of the e-mail we send to them. This information includes name, e-mail address, age, gender, city, state, country, travel frequency, interests and income. Visitors can decide whether or not they would like to receive e-mail directly from our advertisers. The information is used exclusively by RealAdventures, its affiliates and advertisers under strict confidentiality agreements. Typically, only your e-mail address will be shared. **NOTE:** If you do not sign-up for the promotional e-mail, you will not have provided us with your e-mail address, and as a result you will not receive e-mail from RealAdventures or our advertisers.
+**Inquiries/BestOffers:** Visitors that send Inquiries/BestOffers to us or one of our partners provide their name, e-mail address, and other optional information. The information is used exclusively by AtlasTravel and the specific listing partner the inquiry/BestOffer applies to. Your information is **never** sold, rented or distributed to others.
 
-**Listing Partners/ Owners:** We collect a significant amount of information from individuals and advertisers that add their listings to our web site. This information includes name, e-mail address, mailing address, property address, city, state, country and descriptive information about the listing. Listors can decide whether or not they would like to receive e-mail directly from our advertisers. The information is used exclusively by RealAdventures, its affiliates and advertisers under strict confidentiality agreements. Typically, only your e-mail address will be shared. **NOTE:** If you do not add your listing, you will not have provided us with your e-mail address and as a result you will not receive e-mail from RealAdventures or our advertisers.
+**Travel Newsletter:** Visitors that sign up to receive our Travel Newsletter and/or promotional e-mails provide personal information that is used to customize the contents of the Newsletter and e-mails we send to them. This information includes name, e-mail address, and other optoinal information. Visitors can decide whether or not they would like to receive e-mail directly from our advertisers. The information is used exclusively by AtlasTravel, Your information is **never** sold, rented or distributed to others.
+
+**Listing Partners/ Owners:** We collect a significant amount of information from individuals and advertisers that add their listings to our web site. This information includes name, e-mail address, mailing address, property address, city, state, country and descriptive information about the listing. Listors can decide whether or not they would like to receive e-mail directly from our advertisers. Your information is **never** sold, rented or distributed to others.
 
 * * *
 
@@ -17,9 +19,11 @@ RealAdventures collects information about visitors to our site in several differ
 
 ### **How is the information used?**
 
-RealAdventures uses the information we collect about you in a variety of ways. One of our primary goals is to provide you with the most valuable, personalized, information-rich and entertaining website we can offer. The information is part of our research used to enhance our site, attract visitors and advertisers and market our services. This information may be shared with our advertisers under strict confidentiality agreements.
+AtlasTravel uses the information we collect about you in a variety of ways. One of our primary goals is to provide you with the most valuable, personalized, information-rich and entertaining website we can offer. The information is part of our research used to enhance our site, attract visitors and advertisers and market our services. This information may be shared with our advertisers under strict confidentiality agreements.
 
-Visitors that sign up for our promotional e-mail list will receive occasional e-mail messages about information that they indicated an interest in. Typically, these e-mail messages will include last-minute travel and adventure opportunities, discounts, special events, news events, other promotional travel-related information and announcements of new features available on the RealAdventures website.
+Visitors that inquiry on a specific listing or make an offer on one of our Travel Deals will receive a response to their e-mail message from the sales office that handles that specific listing or Travel Deal. The information is **never** sold, rented or distributed to others.
+
+Visitors that sign up for our Travel Newsletter or promotional e-mails will receive a weekly travel newsletter and occasional e-mail messages about information that they indicated an interest in. Typically, these e-mail messages will include last-minute travel and adventure opportunities, discounts, special events, news events, other promotional travel-related information and announcements of new features available on the AtlasTravel website. The information is **never** sold, rented or distributed to others.
 
 Listing Partners will receive occasional e-mails notifying them of new features added to our website, changes made to their listings and reports on the number and frequency of visitors to their listing(s).
 
@@ -30,9 +34,9 @@ Listing Partners will receive occasional e-mails notifying them of new features 
 
 ### **Who is collecting information?**
 
-While visiting the RealAdventures website, the information we collect is used strictly by RealAdventures, unless specifically stated otherwise. For some services, we may share your information with an affiliate or partner to enhance the service we offer to you. Any information we share with others is done under strict confidentiality and privacy agreements.
+While visiting the AtlasTravel website, the information we collect is used strictly by AtlasTravel, unless specifically stated otherwise. For some services, we may share aggregate information with an affiliate or partner to enhance the service we offer to you. This aggregated information does not include any individually identifiable information.
 
-**NOTE:** Advertisers and listors on the RealAdventures site may have links to their own or other sites. The information that they collect and how it is used is not covered by this privacy policy. Please refer to the privacy policies on their websites.
+**NOTE:** Advertisers and listors on the AtlasTravel site may have links to their own or other sites. The information that they collect and how it is used is not covered by this privacy policy. Please refer to the privacy policies on their websites.
 
 * * *
 
@@ -41,9 +45,9 @@ While visiting the RealAdventures website, the information we collect is used st
 
 ### **With whom is the information shared?**
 
-RealAdventures does not share any information collected about you, unless required to by law or an explicit agreement has been made between a visitor and RealAdventures. If information is shared with others, it is done so under strict confidentiality and privacy agreements.
+AtlasTravel does not share any information collected about you, unless required to by law or an explicit agreement has been made between a visitor and AtlasTravel. Your information is **never** sold, rented or distributed to others.
 
-**NOTE:** RealAdventures may also disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be intentionally or unintentionally causing injury to or interference with RealAdventures' rights or property, other RealAdventures visitors or anyone else who could potentially be affected. RealAdventures may disclose user information when we believe in good faith that the law requires it. 
+**NOTE:** AtlasTravel may also disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be intentionally or unintentionally causing injury to or interference with AtlasTravel' rights or property, other AtlasTravel visitors or anyone else who could potentially be affected. AtlasTravel may disclose user information when we believe in good faith that the law requires it. 
 
 * * *
 
@@ -52,11 +56,11 @@ RealAdventures does not share any information collected about you, unless requir
 
 ### **What are my choices regarding collection, use and distribution of my information?**
 
-RealAdventures uses cookies to help us better understand how our site is accessed and utilized. The cookies do not contain any personal information about you. We place the date, time and a unique identifier in the cookie that we create and place on your hard drive. If you prefer not to have these cookies installed on your hard drive, you may be able to change the cookie settings of your browser. Most browsers provide users with options to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you decide to reject all cookies, you will still be able to use the RealAdventures site. But, by doing so, we will not be able to present you with a personalized version of our site that reflects your style, preferences and tastes.
+AtlasTravel uses cookies to help us better understand how our site is accessed and utilized. The cookies do not contain any personal information about you. We place the date, time and a unique identifier in the cookie that we create and place on your hard drive. If you prefer not to have these cookies installed on your hard drive, you may be able to change the cookie settings of your browser. Most browsers provide users with options to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you decide to reject all cookies, you will still be able to use the AtlasTravel site. But, by doing so, we will not be able to present you with a personalized version of our site that reflects your style, preferences and tastes.
 
-**Visitors:** If you sign up to receive promotional e-mail, you will be providing us with some personal information to help us tailor e-mail messages to your interests and needs. Your information wil only be shared with afiliates and advertisers if you explicitly authorize RealAdventures to do so. Even then, strict confidentiality and privacy agreements will always apply. Typically, only your e-mail address will be shared. You can change your personal information at any time.
+**Visitors:** If you sign up to receive our Travel Newsletter, you will be providing us with some personal information to help us tailor the newsletter and promotional e-mail messages to your interests and needs. Your information is **never** sold, rented or distributed to others.
 
-**Listing Partners:** If you add your listing to the RealAdventures website, you are doing so with the understanding that the information will be available through our search engines to all visitors. In addition, if you authorize us, we may share some of your listing information with other advertisers. You can change this authorization at any time.
+**Listing Partners:** If you add your listing to the AtlasTravel website, you are doing so with the understanding that the information will be available through our search engines to all visitors. In addition, if you authorize us, we may share some of your listing information with other advertisers. You can change this authorization at any time.
 
 * * *
 
@@ -65,7 +69,7 @@ RealAdventures uses cookies to help us better understand how our site is accesse
 
 ### **How can I update, correct or delete my personal information?**
 
-**Visitors:** If you have signed up to receive promotional e-mails, you may update your personal information at any time. At this time you can not delete your record.
+**Visitors:** If you have signed up to receive our Travel Newsletter, you may update your personal information at any time. You can also unsubscribe to the newsletter or customize the contents to meet your needs and interests.
 
 **Listing Partners:** You can update your information at any time. Changes made to the listing information will be reflected immediately when a visitor displays or searches for your listing. At this time you cannot delete a listing, but you can make it inactive. Making a listing inactive means that visitors will not be able to search for or view it. You will still have the ability to update and reactivate the listing at any time.
 
@@ -76,7 +80,7 @@ RealAdventures uses cookies to help us better understand how our site is accesse
 
 ### **What security precautions are used to prevent unauthorized access or updates to my information?**
 
-All information collected for promotional e-mail or listing information is assigned a unique number along with a user specified password. Only you and the RealAdventures staff have access to this information. We recommend using a 'complex' password that is difficult to guess. Complex password include a combination of upper and lower case letters, numbers and/ or punctuation (Examples: Apple.Sauce, Telephone.Antenna, USA34John). If the correct password is not entered within three attempts, that record will be locked until RealAdventures is connected with identifying information.
+All information collected for our Travel Newsletter, promotional e-mails or listing information is assigned a unique number along with a user specified password. Only you and the AtlasTravel staff have access to this information. We recommend using a 'complex' password that is difficult to guess. Complex password include a combination of upper and lower case letters, numbers and/ or punctuation (Examples: Apple.Sauce, Telephone.Antenna, USA34John). If the correct password is not entered within three attempts, that record will be locked until AtlasTravel is connected with identifying information.
 
 Do not reveal your account number, listing number or password to anyone. This will ensure that others will not be able to access or update your information.
 
