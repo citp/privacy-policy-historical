@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcunet.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408120602id_/http%3A//www.tcunet.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcunet.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605044229id_/http%3A//www.tcunet.com/privacy_statement.html) for the most accurate reproduction.*
 
 # privacy statement
 
