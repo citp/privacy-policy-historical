@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the yotatech.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210174521id_/http%3A//www.yotatech.com/%7Ecorey/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotatech.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202232020id_/http%3A//www.yotatech.com/%7Ecorey/privacy.htm) for the most accurate reproduction.*
 
 # YotaTech Privacy Statement
 
-[](http://www.yotatech.com/)
+YotaTech: Tech, Mods, SUV, 4WD, 4x4, Toyota, Toyota 4Runner, Surf, HiLux, Tundra, Land Cruiser, Tacoma, and Mini Truck Forums  
+[](http://yotatech.com/)
 
 **Your Privacy**
 
