@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
 
 # >> Welcome to Credit.Com << - Privacy Policy
 
@@ -14,7 +14,7 @@ In achieving our goals, we are sensitive to your privacy concerns, and are commi
 
 For ease of reference, in this Privacy Notice we will use the term "Subscribers" to refer to third parties (unrelated to Credit.Com) who participate in our Website and whose products and services are accessed via the Website or who otherwise use Credit.Com´s Website technology and services. 
 
-[Back to top](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp#top)
+[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
 
 Who do we collect information on?
 
@@ -26,7 +26,7 @@ A Visitor becomes a "User" (but not a Member) upon submitting to Credit.Com: (a)
 
 A Visitor or a User becomes a "Member" by contracting with Credit.Com to enroll as a Member in Credit.Com´s membership services offered through the Credit.Com Website. Click Membership to view the benefits of membership. Once a Visitor or a User becomes a Member, the Visitor or User will remain a Member until he or she terminates his or her enrollment in the membership services Credit.Com provides via its Website. For a Member to opt out of having us share with others the information we collect on the Member, and opt out of receiving our e-newsletters and promotion communications, the Member must cancel his or her enrollment as a Member in Credit.Com´s membership services by using the procedures described in "Opt-out of Sharing and Communications". Once a Member ceases being a Member, that person is treated as a Visitor, except that, unlike the normal Visitor, a cancelled Member´s personal information continues to be stored with Credit.Com in the event the Visitor decides to reinstate Membership. 
 
-[Back to top](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp#top)
+[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
 
 What types of information do we collect about you and how do we use or share this information?
 
@@ -47,7 +47,7 @@ Below we explain the types of information we collect concerning Users and Member
 
 
 
-[Back to top](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp#top)
+[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
 
 User´s and Member´s Authorization to Credit.Com to Collect, Use and Store Information
 
@@ -57,7 +57,7 @@ By accepting Credit.Com´s privacy policy (as described in this Privacy Notice) 
 
 The above authorizations may be revoked as described in "Opt-out of Sharing and Communications". 
 
-[Back to top](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp#top)
+[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
 
 Do we share information with third parties? 
 
@@ -67,13 +67,13 @@ In addition, we may disclose all of the information we collect from or about Use
 
 Our Website may contain links to other websites for offers and services that we believe might be of interest to Visitors, Users and Members. We believe these websites share a similar commitment to consumer privacy and urge Visitors, Users and Members to review the privacy policies of these websites when visiting them. We cannot, however, be responsible for their privacy practices. 
 
-[Back to top](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp#top)
+[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
 
 Profile
 
 We store information that we collect through forms, cookies, log files, clear gifs, Subscribers and third parties to create a profile of our Users and Members. A profile is stored information that we keep on individual Users and Members that detail their use of our Website and the products and services they order from us and Subscribers via our Website. Consequently, information we collect from or about Users and Members is tied to the User´s and Member´s personally identifiable information to provide them offers, improve the content of our Website and pre-populate future request, order and application forms for the User or Member. We may use these profiles to identify, authenticate or tailor a User´s or Member´s visit to our Website, and to direct pertinent marketing promotions to them. We may share Users. and Member´s profiles and personally identifiable information with other third parties. Additionally, we will securely store request, order and application information (including credit reports, but only at the specific request of the consumer) we receive from or about the User or Member for future access and in order to better pre-qualify or identify the User and Member for potential credit products and services offered by us and Subscribers that may be of interest to the User and Member. 
 
-[Back to top](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp#top)
+[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
 
 Cookies
 
@@ -85,7 +85,7 @@ A User or a Member may NOT order, apply for or request products or services from
 
 Some of the companies that advertise on our Website or that offer products or services via our Website may use cookies on our Website. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. Consequently, this Privacy Notice covers the use of cookies by Credit.Com only and does not cover the use of cookies by any advertisers or Subscribers. 
 
-[Back to top](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp#top)
+[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
 
 Third Party Advertising
 
@@ -141,7 +141,7 @@ Business Transitions
 
 In the event Credit.Com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, Visitor´s, User´s and Member´s information will, in most instances, be part of the assets transferred. Users and Members will not necessarily be notified via email prior to a change of ownership or control of their information, unless the information will be used in a manner substantially different from that stated at the time of collection. If as a result of the business transition, the Visitor´s, Users. and Member´s information will be used in a manner substantially different from that stated at the time of collection, they will be given choice consistent with our notification of changes section. 
 
-[Back to top](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp#top)
+[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
 
 Opt-out of Sharing and Marketing Communications
 
@@ -214,11 +214,10 @@ If Visitors, Users or Members of Credit.Com have any questions or suggestions re
 Telephone: 415-901-1550
 
 Fax: 415-901-1568  
-Email: [privacy@credit.com](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy@credit.com)
+Email: [privacy@credit.com](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy@credit.com)
 
 Credit.Com, Inc.  
-690 5th Street   
-San Francisco, CA  
-94107
+550 15th Street, Suite 36b  
+San Francisco, CA 94103
 
-[Back to top](https://web.archive.org/web/20031208170932id_/http%3A//www.credit.com/privacy.jsp#top)
+[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
