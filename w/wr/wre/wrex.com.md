@@ -1,72 +1,67 @@
-> *The following text is extracted and transformed from the wrex.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206044232id_/http%3A//wrex.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrex.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401213256id_/http%3A//wrex.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
-|   
----  
-   
-  
-| 
+ 
 
-**13 WREX-TV Online Privacy Statement**
+**Privacy Policy ** 
 
-If you have any questions about this privacy policy, about information gathered by 13 WREX-TV online, or about the operation of this site, please e-mail us at [wrex@wrex.com](mailto:wrex@wrex.com).
+Copyright © 2003 WREX-TV.  All rights reserved.
 
-**Privacy Policy**
+**** WREX-TV owns and operates wrex.com.  WREX-TV may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy.  This policy applies only to information collected by wrex.com and does not impact information collected or used by WREX-TV, wrex.com or their affiliates through other means.
 
-Your privacy on the Internet is important to us. As part of the operation of our site, we gather certain types of information about our users, and we would like to explain the types of information we gather, what we do with it and how to correct or change the information.
+**Information collected from users **
 
-**Information Collected by This Site**
+How we collect and retain information depends on the portion of the site you are accessing, the activities you elect to participate in and the services provided.  You can visit many pages on our site without providing any information.  Other pages may request you to provide information, such as when you register for access to portions of our site, request certain features, sign up for a newspaper subscription or make a purchase.  You may also provide information when you participate in message boards, chat rooms and other interactive areas of our site.
 
-We collect two types of personally identifying information from users: personal data (such as names and e-mail addresses); and aggregated data (such as information about traffic patterns on the site, for example how many users log into the site on a daily basis).
+Like many websites, wrex.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. We may log the name of your Internet Service Provider or use "cookie" technology.  As technology progresses, we may also gather information through other means.  In some cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password.   
 
-**Personal Data**
+**What we do with the information we collect**
 
-Personal data is collected when users provide personal data to the site, for example in registering for electronic newsletters or other membership services, answering surveys, purchasing items from the site, sending email to the site, and registering for contests and other promotional opportunities. Also, we collect the e-mail addresses of users who post messages to their message boards and chat areas.
+We will use your information only as permitted by law.  Aggregated Information (information that does not identify you personally) may be used in many ways.  Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
-**Aggregated Information**
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on wrex.com to communicate with you regarding our Terms of Website Use, products and services offered by wrex.com, WREX-TV and other affiliates and partners, administration of contests, processing e-commerce transactions and other topics we think you might find interesting.  We reserve the right to share this information with other WREX-TV business units and affiliates.  This policy does not apply to any affiliate's use of such information.
 
-Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or site registrations, is collected through various methods. For example, we collect IP addresses. An IP address is a number that is automatically assigned to your computer whenever you’re surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to the site. We collect IP addresses for the purposes of system administration and to provide aggregate data to advertisers about the volume of use on the site.
+Personally Identifiable Information collected by wrex.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site may access such information.
 
-**Use of Cookies**
+We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities.  We may not provide you with notice prior to disclosure in such cases.
 
-Our site also uses "cookies" to collect information. A cookie is a small data file that most major websites write into your hard drive for record keeping purposes when you visit them. Cookies allow a website to measure activity on their site and to improve your user experience, for example by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the site without re-registering. Cookies are used by our site to measure activity on the site and make improvements and updates based on which areas are popular and which are not. We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except for personal information voluntarily provided by you (i.e. during membership registration or a contest), we do not use information transferred through cookies for any promotional or marketing purposes, and that information is not shared with third parties.
+**Your choice to opt out **
 
-You may occasionally get cookies from advertisers on the site, which is standard on the Internet. These cookies are outside the control of our site, and are not subject to our privacy policy. Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the member-only areas and shopping, contest and game areas, will not function properly if you do so.
+The news and content on wrex.com is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. We sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you.  If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliated advertisers for such purposes, though we may on occasion send you information on their behalf. ** **
 
-**Use of Information Collected by Our Site**
+**Affiliated sites, linked sites and advertisements **
 
-Our site uses both the personal and aggregated information collected for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user and to notify users about updates to the site or promotional offers or opportunities that we believe will be of interest to you.
+WREX-TV and wrex.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users.  However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices.  For example, during your visit to our site you may link to, or view certain content that was actually created or hosted by a third party.  WREX-TV is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
-We share aggregated information collected from the site with third parties for both advertising and promotional purposes.
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you.  Through features available on our site, third parties may use cookies or other technology to gather information.  The use of cookies is standard in the Internet industry. WREX-TV and wrex.com do not control the use of this technology or the resulting information and is not responsible for any actions or policies of third parties.  You may be able to set your browser to refuse cookies or indicate when a cookie is being sent.  However, if you refuse cookies, you may limit your ability to access certain portions of wrex.com and other sites. 
 
-Personal information collected by this site may be shared with other NBC-owned or controlled entities. With your permission, we may also share personal information collected on the site with prescreened third parties for marketing or promotional purposes. We will provide users with an opportunity to decline this service when such information is requested from you online. In addition, in the event we plan to post any such information on the site (for example, if you are the winner of a contest) we will either notify you of this possibility when you provide the information and/or, if possible, when the information is posted. Personal information may also be shared only as necessary with third parties who provide technical services to the Site, or host portions of the site, who will not share or otherwise disseminate this information other than as necessary to perform these services.
+Be careful and responsible when you are online.  If you voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties.  Such activities are beyond the control of WREX-TV, wrex.com and this policy.
 
-If you have registered as a member through the online registration system and have subscribed to our e-mail newsletters or other services and do not want to receive such e-mail from them in the future, please discontinue your subscriptions by going to the bottom of a the daily messages and follow the unsubscribe directions.
+**Children’s Privacy**
 
-**Children and Privacy**
+WREX-TV and wrex.com is particularly concerned with providing a safe environment for children.  We do not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law.  If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately.  If you believe WREX-TV or wrex.com has any information from or about anyone under 13, please contact us at the address listed below.
 
-We encourage parents and guardians to spend time with their children online, and to be fully familiar with the sites visited by their children. At various places on the sites, we ask whether users are under the age of 18, or 13, for example when requesting personal information from a user, we may ask for parental consent. We rely on users to be truthful in responding to these questions.
+We strongly recommend parental supervision when a child uses the Internet, particularly when a child uses email.  We also encourage parents to instruct their children not to give out personal information over the Internet.
 
-**Individuals Under 13**
+**Contacting us**
 
-No information should be submitted to or posted on the site by users under the age of 13 years without consent of their parent or guardian. The site does not provide any personally identifying information, regardless of its source collected from users under the age of 13 to any third party for any purpose whatsoever unless disclosed during collection. Users under the age of 13 are asked not to participate in contests or other promotional opportunities, and the site does not knowingly collect information from users under the age of 13.
+We can be reached by contacting:
 
-**Individuals 13 Through 17**
+WREX-TV
 
-We request that children under the age of 18 do not submit or post information to the site without a parent or guardian’s consent. The site may collect information, including personally identifying information, from users between the ages of 13 and 17, and this information may be used for marketing and promotional purposes by the site and which may be shared with prescreened third parties, with the permission of the user. A user or their parent or guardian may stop the use - either by e-mail request or by modifying his/her registration information online as described above in "Use of Information Collected by The Site."
+P.O. Box 530 
 
-**Message Board and Chat**
+Rockford, Illinois  61105 
 
-Please remember that information posted to message boards and chat areas becomes public information. Use caution when posting. Users under the age of 18 should be especially careful not to provide any personally identifying information while using chat rooms or message boards. As set forth in our Terms and Conditions of use, users of chat rooms and message boards must follow acceptable standards of behavior when posting messages online.
+wrex@wrex.com
 
-**Links to Other Sites**
+**Changes to Privacy Policy**
 
-It is important to note that this site contains links to other sites, and that those sites may not follow the same privacy policies as our site. For instance, if you click on an advertisement on the site, this will take you away from the site and to an entirely different site. This can include links from advertisers, content providers and partners who may use the sites’ logo and or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that the sites would not.
+WREX-TV and wrex.com reserve the right to change this policy at any time.  You should check this page periodically for changes.  Your continued use of our site following the posting of changes to these terms will mean you accept those changes.  Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-**USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY.**
+**Governing law **
 
-We reserve the right to change this policy at any time by notifying users of the existence of a revised privacy policy.
+This policy and the use of wrex.com are governed by the law of the state in which WREX-TV’s principal office is located.  Any claim related to wrex.com or this policy shall be brought in a  Federal District Court serving the location where WREX-TV’s principal office is located or the state court of the county in which WREX-TV’s principal office is located, within one year after the claim arises.  You agree no such claim may be brought as a class action.  Users of wrex.com consent to the jurisdiction and venue of these courts as the most convenient and appropriate for the resolution of disputes concerning this policy.  wrex.com is controlled, operated and administered entirely within the  United States .  If you are located outside the  United States , please note the information you provide to us will be transferred to the  United States .  You hereby consent to this transfer.
 
-|    
----|---
+In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy, the terms of this written policy shall control. 
