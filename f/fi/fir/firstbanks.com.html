@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstbanks.com privacy policy that was archived on 2003-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030607072104id_/http%3A//www.firstbanks.com/privacy/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstbanks.com privacy policy that was archived on 2003-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205042926id_/http%3A//www.firstbanks.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>FIRSTBANKS.COM - Privacy Policy</title>
@@ -9,6 +9,13 @@ function popUp(url) {
 sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
 self.name = "mainWin";
 }
+</script>
+
+<script language="JavaScript"><!--
+function stockRedir () {
+    window.location.href = "/personal/stocks/default.asp";
+}
+//-->
 </script>
 
 <script language="JavaScript">
@@ -24,7 +31,28 @@ window.open("http://www.mastercard.com/cobrand/holiday/firstbanks","plain_window
 function pulldown_menu3()
 {
 var url = document.pulldown3.selectname3.options[document.pulldown3.selectname3.selectedIndex].value
-window.location.href = url 
+
+//alert(document.pulldown3.selectname3.selectedIndex)
+
+if (document.pulldown3.selectname3.selectedIndex == 2)
+{
+ if (confirm('You are now exiting firstbanks.com and entering a new Web site.  Would you like to continue?')){
+ window.location.href = url
+ }
+}
+else if (document.pulldown3.selectname3.selectedIndex == 3)
+{
+ if (confirm('You are now exiting firstbanks.com and entering a new Web site.  Would you like to continue?')){
+ window.location.href = url
+ }
+}
+else if (document.pulldown3.selectname3.selectedIndex == 7)
+{
+ if (confirm('You are now exiting firstbanks.com and entering a new Web site.  Would you like to continue?')){
+ window.location.href = url
+ }
+}
+else{window.location.href = url}
 }
 </script>
 
@@ -128,17 +156,22 @@ function jumpTo(URL_List){
 									<td align="right" valign="middle">
 										<select name="selectname3" onchange="pulldown_menu3()" class="menuText">
 											<option selected="">Account Access</option>
+											<option>Apply:</option>
+											<option value="https://www.applyonlinenow.com/BCapp/Ctl/redirect?CV_sourceCode=BT86">&nbsp;&nbsp;Business Credit Card</option>
+											<option value="https://www.applyonlinenow.com/USapp/Ctl/redirect?CV_sourceCode=K5VP&amp;CV_MC=A0000012J8">&nbsp;&nbsp;Consumer Credit Card</option>
+											<option></option>
 											<option>Login:</option>
-											<option value="https://www.firstbanks.com/olb/">&nbsp;&nbsp;Online Banking</option>
 											<option value="https://www.firstbanks.com/olb/">&nbsp;&nbsp;Business Online Banking</option>
-											<option value="https://www.firstbanksretirement.com/">&nbsp;&nbsp;Retirement Plans</option>
+											<option value="https://reorder.harland.net/">&nbsp;&nbsp;Check Reorder</option>
 											<option value="http://www.tpars.com/prod/login.asp?fi=0084a">&nbsp;&nbsp;Investment Accounts</option>
+											<option value="https://www.firstbanks.com/olb/">&nbsp;&nbsp;Online Banking</option>
+											<option value="https://www.firstbanksretirement.com/">&nbsp;&nbsp;Retirement Plans</option>
 											<option></option>
 											<option>Learn More:</option>
-											<option value="/online/index.asp">&nbsp;&nbsp;Online Banking</option>
 											<option value="/online/business_online.asp">&nbsp;&nbsp;Business Online Banking</option>
-											<option value="/business/businessServices.asp">&nbsp;&nbsp;Retirement Plans</option>
 											<option value="/personal/investAcct.asp">&nbsp;&nbsp;Investment Accounts</option>
+											<option value="/online/index.asp">&nbsp;&nbsp;Online Banking</option>
+											<option value="/business/businessServices.asp">&nbsp;&nbsp;Retirement Plans</option>
 											<option value="#"></option>
 										</select>
 									</td>
@@ -310,11 +343,14 @@ function jumpTo(URL_List){
 							</td>
 						</tr>
 						<tr> 
-							<td><img src="/images/spacer.gif" width="20" height="20"></td>
+							<td><img src="/images/spacer.gif" width="20" height="5"></td>
 						</tr>
-						<tr>
-							<td align="center"><img src="/images/spacer.gif" width="120" height="90"><!--<a href="#" onClick="plainWindow();"><img src="/images/120x90_holiday-2002.gif" border="0"></a>--></td>
+						<tr> 
+          <td align="center"><a href="/special/"><img src="/images/skyline2sm.gif" width="150" height="80" border="0"></a></td>
 						</tr>
+						<!--<tr> 
+          <td align="center"><a href="/special/holidayCD.asp"><img src="/images/holidayCD.gif" border="0"></a></td>
+						</tr>-->
 					</tbody></table>
 				</td>
 				<td valign="top"><img src="/images/index_04.gif" width="93" height="291"></td>
@@ -334,23 +370,18 @@ function jumpTo(URL_List){
                   <table border="0" cellspacing="0" cellpadding="1">
                     <tbody><tr> 
                       <td> 
-                      
                         <p class="maintext">
-						
-
-
-                          
                         </p><p align="center"><span class="headers">Privacy Policy for Consumers</span>
             						  	<br>
   	                        <span class="maintext">A Commitment to Protect 
                             <br>
                             Your Customer Information </span>
-                           </p>
+                        </p>
                         <p align="left">
-                          <span class="maintext"><b>At First Banks, Inc., its subsidiary banks and family of financial companies affiliated through common ownership, we recognize that you have placed your trust in us ... and that preserving your trust is one of the core values of our institution.</b>This is the reason we are committed to the responsible use and protection of your customer information.</span> 
+                          <span class="maintext">At First Banks, Inc., its subsidiary banks and family of financial companies affiliated through common ownership, we recognize that you have placed your trust in us ... and that preserving your trust is one of the core values of our institution. This is the reason we are committed to the responsible use and protection of your customer information. </span> 
                         </p>
                         <p align="left"><br>
-                          <b><span class="maintext">Here is a summary of our privacy guidelines:</span></b>
+                          <span class="maintext">Here is a summary of our privacy guidelines:</span>
                         </p>
                         <ul>
                           <li class="maintext">We will maintain the confidentiality of our customers' personal information.</li>
@@ -364,11 +395,9 @@ function jumpTo(URL_List){
                         <p>
                           <span class="maintext">Please read through this brochure to learn more about our privacy policy and how we use and protect your customer information. </span><br>
                         </p>
-                        <p>
-                          <span class="headers">How We Use Information</span>
-                          <br>
+                        <p align="center"><span class="headers">How We Use Information</span></p>
                           <span class="maintext">We use customer information in the ordinary course of serving your relationship or managing our business. For example, we use your information to:</span>
-                        </p>
+                        <p></p>
                         <ul>
                           <li class="maintext">Identify you and protect you from fraud, so that others cannot use your accounts without authorization.</li>
                           <li class="maintext">Process your requests, such as purchases, ATM/Debit Card withdrawals or loan applications.</li>
@@ -377,179 +406,128 @@ function jumpTo(URL_List){
                         </ul>
                         <p align="center"> <br>
                           <span class="headers">How We Collect Information</span>
-                        </p><p><span class="maintext">In the process of serving your 
-                          financial needs, we collect a limited amount of "nonpublic 
-                          personal information" which can include information 
-                          about your finances and customer relationship. This 
-                          customer information helps us better serve your accounts 
-                          and understand your needs, and may come from a variety 
-                          of sources, including: </span> <br>
+                        </p><p><span class="maintext">In the process of serving your financial needs, we collect a limited amount of "nonpublic personal information" which can include information about your finances and customer relationship. We may disclose all of the information that we collect, as described below.  This customer information helps us better serve your accounts and understand your needs, and may come from a variety of sources, including: </span> <br>
                         
                         </p><ul>
-                          <li class="maintext">Information we receive directly 
-                            from you, on applications and other forms, such as 
-                            your name, address, income and assets. </li>
-                          <li class="maintext">Information we receive through 
-                            your transactions or experiences with us or others 
-                            in the First Banks, Inc. family of financial organizations, 
-                            such as your account balance, overdraft history, parties 
-                            to transactions or credit card usage. </li>
-                          <li class="maintext">Information we receive from consumer 
-                            reporting agencies and others as we set up your customer 
-                            relationship, including credit reports, property appraisals, 
-                            or verification of employment. </li>
+                          <li class="maintext">Information we receive directly from you, on applications and other forms; </li>
+                          <li class="maintext">Information we receive through your transactions or experiences with us, our affiliates, or others; and </li>
+                          <li class="maintext">Information we receive from consumer reporting agencies. </li>
                         </ul>
-                        <p>
-                          <span class="maintext">If you are an Internet user, we may use the information collected about you to provide you with information that may be of interest to you. When accessing our website at www.firstbanks.com, this Privacy Policy is available for you to read there also.</span><br>
-                        </p>
-                        <p align="center"><span class="headers">How We Share Information</span> 
-                        </p>
-                        <p><span class="maintext">We strictly limit the sharing 
-                          of nonpublic personal information both within and outside 
-                          of the First Banks, Inc. family of financial organizations 
-                          as follows:</span></p>
+                        <p><span class="maintext">If you are an Internet user, we may use the information collected about you to provide you with information that may be of interest to you. When accessing our Web site at www.firstbanks.com, this Privacy Policy is available for you to read there also.</span><br></p>
+                        <p align="center"><span class="headers">How We Share Information</span></p>
+                        <p><span class="maintext">We strictly limit the sharing of nonpublic personal information both within and outside of the First Banks, Inc. family of financial organizations as follows:</span></p>
                         <p><span class="headers">Within the First Banks, Inc. 
                           family:</span> <br>
-                          <span class="maintext">Our affiliates are the subsidiary 
-                          banks and financial companies listed in this brochure, 
-                          and are part of the First Banks, Inc. family, being 
-                          related or affiliated by common ownership or affiliated 
-                          by common corporate control. Our affiliates share a 
-                          limited amount of nonpublic personal information internally 
-                          so that we can serve you more efficiently; offer you 
-                          new services, such as mortgages, insurance and investments; 
-                          and reduce the amount of information you are required 
-                          to provide when you contact us. </span> </p>
-                        <p><span class="maintext">We are permitted by law to share 
-                          with our affiliates information about your transactions 
-                          or experiences with us. We do not share other information 
-                          restricted by law with our affiliates unless we have 
-                          received your written authorization to do so.</span><br>
+                          <span class="maintext">Our affiliates are the subsidiary banks and financial companies listed in this brochure, and are part of the First Banks, Inc. family, being related or affiliated by common ownership or affiliated by common corporate control. Our affiliates share a limited amount of nonpublic personal information internally so that we can serve you more efficiently; offer you new services, such as mortgages, insurance and investments; and reduce the amount of information you are required to provide when you contact us. </span> </p>
+                        <p><span class="maintext">We are permitted by law to share with our affiliates information about your transactions or experiences with us.  We do not share other information restricted by law with our affiliates unless we have received your written authorization to do so.  </span><br>
                           <br>
                           <span class="headers">With selected outside companies:</span> 
                           <br>
-                          <span class="maintext">We share nonpublic personal information 
-                          with nonaffiliated third parties who provide support 
-                          services for us, such as contract programming or check 
-                          printing services, as well as selected financial services 
-                          companies who operate under joint marketing agreements 
-                          with us. </span></p>
-                        <p><span class="maintext">This enables us to provide quality 
-                          service to you and offer you additional financial services 
-                          that may be of value to you. These arrangements are 
-                          subject to strict standards of confidentiality and security 
-                          and are subject to federal and state law. The information 
-                          we provide is limited to that which we reasonably believe 
-                          they "need to know" to provide their contracted 
-                          services. <br>
-                          In addition, we may disclose nonpublic personal information 
-                          to third parties as permitted by law. For example, we 
-                          might be required to disclose information about you 
-                          in response to a subpoena or under certain federal or 
-                          state laws or credit bureaus. Or we may provide information 
-                          to others with your consent, for example to complete 
-                          a transaction that you have initiated.<br>
-                          We do not disclose nonpublic personal information to 
-                          anyone else except as described above.</span></p>
-                        <p align="center">
+                          <span class="maintext">We may disclose the following information to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint-marketing agreements: </span></p>
+													<ul>
+														<li class="maintext">Information we receive from you on applications or other forms, such as your name, address, social security number, date of birth and telephone number; and
+														</li><li class="maintext">Information about your transactions with us, our affiliates, or others, such as your account number, payment amount, and account balance.
+													</li></ul>
+                        <p><span class="maintext">This enables us to provide quality service to you and offer you additional financial services that may be of value to you. These arrangements are subject to strict standards of confidentiality and security and are subject to federal and state law. The information we provide is limited to that which we reasonably believe they "need to know" to provide their contracted services. <br>
+													<br>
+													In addition, we may disclose nonpublic personal information to third parties as permitted by law. For example, we might be required to disclose information about you in response to a subpoena or to credit bureaus or under certain federal or state laws. Or we may provide information to others with your consent, for example to complete a transaction that you have initiated.</span></p>
+                        <p>
                           <br>
                           <span class="headers">Security Procedures in Place</span>
                         </p>
-                        <p align="left"> <span class="maintext">We have implemented 
-                          procedures and guidelines to safeguard the privacy of 
-                          nonpublic personal information from unauthorized use 
-                          or improper access. We will continue to enhance our 
-                          security procedures, as new technologies become available. 
-                          Our employees are governed by a code of conduct and 
-                          are educated about our privacy policies, and about the 
-                          importance of maintaining the confidentiality of customer 
-                          information.</span> </p>
-                        <p align="center"><br>
+                        <p align="left"> <span class="maintext">We have implemented procedures and guidelines to safeguard the privacy of nonpublic personal information from unauthorized use or improper access. We will continue to enhance our security procedures, as new technologies become available. Our employees are governed by a code of conduct and are educated about our privacy policies, and about the importance of maintaining the confidentiality of customer information.</span> </p>
+                        <p><br>
                           <span class="headers">Additional Measures to Protect 
                           <br>
                           Your Customer Information</span></p>
                         <ul>
-                          <li class="maintext">If medical information is collected 
-                            in the course of providing insurance services to you, 
-                            this information will not be used for any purpose 
-                            except as you have authorized.</li>
-                          <li class="maintext">We strive to maintain complete 
-                            and accurate information about you and your accounts. 
-                            If you believe that our records contain inaccurate 
-                            or incomplete information, please notify us. We will 
-                            investigate and correct any inaccuracies. </li>
-                          <li class="maintext">Our policies for protecting nonpublic 
-                            personal information apply to customers with a current 
-                            or former relationship for personal, family or household 
-                            purposes.<!--;li--> 
-                        </li></ul>
-                        <p align="center"><br>
+                          <li class="maintext">If medical information is collected in the course of providing insurance services to you, this information will not be used for any purpose except as you have authorized. </li>
+                          <li class="maintext">We strive to maintain complete and accurate information about you and your accounts. If you believe that our records contain inaccurate or incomplete information, please notify us. We will investigate and correct any inaccuracies. </li>
+                          <li class="maintext">Our policies for protecting nonpublic personal information apply to customers with a current or former relationship for personal, family or household purposes.</li> 
+                        </ul>
+                        <p><br>
                           <span class="headers">In Closing ... </span><br>
                         </p>
                         <p align="left"><b><span class="maintext">Rest assured 
                           we will keep your information confidential.</span></b><span class="maintext"> 
-                          We will protect your privacy automatically, every day, 
-                          without requiring any action on your part. We want you 
-                          to know that you can trust us - not only to keep your 
-                          information confidential, but also to provide you with 
-                          the financial advice and services you need today and 
-                          in the years to come. Thank you for the opportunity 
-                          to serve your financial needs. <br>
-                          This policy is provided to you in accordance with the 
-                          privacy provisions in Title V of the Gramm-Leach-Bliley 
-                          Act. We may change this policy from time to time, and 
-                          we will provide an annual notice of our policy to customers 
-                          with an ongoing relationship. </span></p>
-                        <p align="left"> <br>
-                          <span class="maintext">The following is a list of First 
-                          Banks, Inc.'s subsidiary banks and family of financial 
-                          companies affiliated through common ownership as of 
-                          March 1, 2002:</span></p>
+                          We will protect your privacy automatically, every day, without requiring any action on your part. We want you to know that you can trust us - not only to keep your information confidential, but also to provide you with the financial advice and services you need today and in the years to come. Thank you for the opportunity to serve your financial needs. 
+													<br><br>
+													
+                          This policy is provided to you in accordance with the privacy provisions in Title V of the Gramm-Leach-Bliley Act. We may change this policy from time to time, and we will provide an annual notice of our policy to customers with an ongoing relationship. </span></p>
+                        <p align="left"> 
+<br>
+													<br>
+                          <span class="maintext">The following is a list of First Banks, Inc.'s subsidiary banks and family of financial companies affiliated through common ownership as of March 31, 2003:</span></p>
                         <p align="left">
-						  <span class="maintext">
-							First Bank<br>
-                          <br>
-                          First Bank &amp; Trust
-							<br>
-                          <br>
-                          First Banks America, Inc.<br>
-                          <br>
-                          FB Commercial Finance, Inc.<br>
-                          <br>
-                          Missouri Valley Partners, Inc.
-							<br>
-                          <br>
-                          First Securities America, Inc.
-							<br>
-                          D/B/A First Banc Insurors Agency<br>
-                          <br>
-                          First Associate Title, Inc.<br>
-                          D/B/A First Associate Title<br>
-                          <br>
-                          First Title Guaranty<br>
-                          D/B/A First Banc Insurors Agency<br>
-                          <br>
-                          First Brokerage America L.L.C.<br>
-                          <br>
-                          First Services, L.P.<br>
-                          <br>
-                          First Banc Mortgage, Inc.<br>
-                          <br>
-                          First Banc Mortgage, Inc.<br>
-                          D/B/A First Banc Home Mortgage, Inc.
-							<br>
-                          <br>
-                          First Banc Mortgage, Inc.<br>
-                          D/B/A FirstBanc Home Mortgage, Inc.
-							<br>
-                          <br>
-                          First Banc Mortgage, Inc.<br>
-                          D/B/A FB Mortgage, Inc.<br>
-                          <br>
-                          First Banc Mortgage, Inc.
-                          <br>
-                           
-							D/B/A FBH Mortgage, Inc.
+											  <span class="maintext">
+													The San Francisco Company
+<br>
+<br>
+First Bank
+<br>
+a/k/a: First Bank, D/B/A First Bank &amp; Trust
+<br>
+<br>
+
+FB Commercial Finance, Inc.
+<br>
+<br>
+
+Missouri Valley Partners, Inc.
+<br>
+<br>
+
+First Services, LP
+<br>
+<br>
+
+First Land Trustee Corporation
+<br>
+<br>
+
+First Brokerage America LLC
+<br>
+<br>
+
+First Title Guaranty, LLC
+<br>
+D/B/A First Banc Insurors 
+<br>
+<br>
+
+First Title Guaranty, LLC			
+<br>
+D/B/A First Associate Title 
+<br>
+<br>
+
+First Banc Mortgage, Inc.
+<br>
+<br>
+
+First Banc Mortgage, Inc. 				
+<br>
+D/B/A First Banc Home Mortgage, Inc.
+<br>
+<br>
+
+First Banc Mortgage, Inc.				
+<br>
+D/B/A FirstBanc Home Mortgage, Inc.
+
+<br>
+<br>
+First Banc Mortgage, Inc.				
+<br>
+D/B/A FB Mortgage, Inc.
+<br>
+<br>
+
+First Banc Mortgage, Inc. 				
+<br>
+D/B/A FBH Mortgage, Inc.
+<br>
+<br>
 							</span>
 						</p>
                         </td>
@@ -566,7 +544,7 @@ function jumpTo(URL_List){
       <a href="/contact/index.asp" class="noline">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr> 
-    <td class="maintxt_sm" align="center" valign="middle" height="20">© 2003  First Banks, Inc. All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="maintxt_sm" align="center" valign="middle" height="20">© 2003 First Banks, Inc. All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr> 
     <td class="maintxt_sm" height="25" align="left" valign="middle"> 
@@ -579,7 +557,7 @@ function jumpTo(URL_List){
         <tbody><tr align="center" valign="middle"> 
           <td nowrap="" width="33%"><a href="/fdic.asp" class="maintxt_sm"><img src="/images/im_fdic-sm.gif" border="0"><br>
             <font color="#000000">Click for more information</font></a></td>
-          <td width="33%"><a href="javascript:popUp('https://digitalid.verisign.com/as2/999228db2c593cf0c9a1ea45d5553c74')"> 
+          <td width="33%"><a href="javascript:popUp('https://digitalid.verisign.com/as2/7b9e30c3546d4d387e9ea80b4ae1b3b9')"> 
             <img src="/images/verisignseal.gif" border="0"></a></td>
           <td width="33%"><img src="/images/im_equalhousinglogo.gif"></td>
         </tr>
