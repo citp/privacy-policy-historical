@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reckon.com.au privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417170436id_/http%3A//www.reckon.com.au/aboutUs/securityAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reckon.com.au privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215607id_/http%3A//www.reckon.com.au/aboutUs/securityAndPrivacy.aspx) for the most accurate reproduction.*
 
-# Quicken - About us
+# Privacy policy
 
  Privacy Information Management Statement
 
@@ -52,7 +52,7 @@ We have internal procedures in place to deal with such requests, and we may requ
  Information held by Third Parties
 
   * As a company incorporated in Australia and listed on the Australian Stock Exchange, Quicken is required to maintain a register of members pursuant to the Corporations Law. This function has been contracted to an external provider, Computershare Investor Services Pty Limited ("CIS"). It is the usual practice for registers of listed companies to be managed by third parties. CIS manages the members' register on behalf of Quicken, which includes personal information relating to name and address details, security-holding balances, tax file numbers, bank account details and e-mail addresses. CIS has its own Privacy Statement as to how it deals with personal information, and Quicken shareholders are directed to [www.computershare.com](http://www.computershare.com/) website for further information. 
-  * The trading and dealing activities of the QuickBroker service are performed by HP JDV Limited ("HP JDV"). Pursuant to the service level agreement that Quicken has with HP JDV, and as authorised by the customer when agreeing to the trading rules, HP JDV can provide to Quicken, at Quicken's request, personal information relating to the customer. HP JDV has its own Privacy Statement and Privacy Policy, and [QuickBroker](http://www.quickbroker.quicken.com.au/) users are directed to the QuickBroker section of the [www.quicken.com.au](http://www.quicken.com.au/) website for further information.
+  * The trading and dealing activities of the Quick.Broker service are performed by JDV Limited ("JDV"). Pursuant to the service level agreement that Quicken has with JDV, and as authorised by the customer when agreeing to the trading rules, JDV can provide to Quicken, at Quicken's request, personal information relating to the customer. JDV has its own Privacy Statement and Privacy Policy, and [Quick.Broker](http://www.quickbroker.quicken.com.au/) users are directed to the Quick.Broker section of the [www.quicken.com.au](http://www.quicken.com.au/) website for further information.
   * Quicken Stationery is offered, on Quicken's behalf, by Express Promotions Australia (trading as Forms Express). For the purpose of providing Quicken customers with information on Quicken compatible printed stationery products, Forms Express will be provided, from time to time, with personal information relating to the customer. This information will be used for the sole purpose stated above. Forms Express have their own Privacy Policy and Quicken customers are directed to [www.formsexpress.com.au](http://www.formsexpress.com.au/) for further information.
 
 
