@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603145604id_/http%3A//www.mortgagewar.com/mortgageprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013020435id_/http%3A//www.mortgagewar.com/mortgageprivacy.html) for the most accurate reproduction.*
 
 # Mortgage War Privacy Statement
 
