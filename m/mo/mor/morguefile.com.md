@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morguefile.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603014313id_/http%3A//www.morguefile.com/ver3/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morguefile.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204133612id_/http%3A//www.morguefile.com/archive/privacy.php) for the most accurate reproduction.*
 
-# Morguefile :: free stock photos
+# morguefile :: Privacy Policy
 
 **Morguefile.com Privacy Policy.**  
 The morguefile.com is concerned about your privacy. We do our very best not to infringe upon your freedom to surf the internet. The only information we collect from your surfing is to monitor traffic flow on this site (which pages are viewed and how often), to maintain security and to keep our sites up to date (when broken links are found). IP address is used solely for traffic flow patterns, browser type/platform is used so we can design our sites so the majority of our visitors can use all of our features. However, we do use third-party advertising to serve ads on our sites. These companies may use information (they do not use your name, address, email address or telephone number) about your visits to our and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
