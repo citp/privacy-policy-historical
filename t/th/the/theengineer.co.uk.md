@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theengineer.co.uk privacy policy that was archived on 2001-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011225113113id_/http%3A//www.theengineer.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theengineer.co.uk privacy policy that was archived on 2002-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020618134930id_/http%3A//www.theengineer.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # E4 : Engineering
 
 |   
 ---  
-[](https://web.archive.org/adverts/adclick.asp?id=126)  
+[](https://web.archive.org/adverts/adclick.asp?id=215)  
   
   
 |  |    
@@ -43,10 +43,10 @@ This statement is a summary and does not represent a complete statement of inten
 |    
 
 
-[](https://web.archive.org/adverts/adclick.asp?id=7)  
+[](https://web.archive.org/adverts/adclick.asp?id=9)  
 
 
   
 [ Subscribe   
-online now!](https://web.archive.org/adverts/adclick.asp?id=7)   
+online now!](https://web.archive.org/adverts/adclick.asp?id=9)   
 
