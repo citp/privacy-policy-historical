@@ -1,327 +1,645 @@
-<!--The following is the downloaded HTML source of the jigsaw.com privacy policy that was archived on 2000-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205173400id_/http%3A//www.spilsbury.com/interact/html.asp%3Fhtml%3Dpolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jigsaw.com privacy policy that was archived on 2003-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031017151549id_/http%3A//www.spilsbury.com/webapp/wcs/stores/servlet/ContactView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D30001%26page%3Dprivacy) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Spilsbury.com, Unique Puzzles. Clever Games.</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	
-	<style type="text/css">
-	<!--
-	.submenu {  color: #ffffff}
-	-->
-	</style>
-	
+<html><head><script language="javascript">
+
+function emailCheck (emailStr) {
+   var emailPat=/^(.+)@(.+)$/;
+   var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]";
+   var validChars="\[^\\s" + specialChars + "\]";
+   var quotedUser="(\"[^\"]*\")";
+   var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
+   var atom=validChars + '+';
+   var word="(" + atom + "|" + quotedUser + ")";
+   var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+   var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
+
+   var matchArray=emailStr.match(emailPat);
+   if (matchArray==null) {
+      //alert("Email address seems incorrect (check @ and .'s)");
+         alert("Please be sure your e-mail address includes '@' and '.com'");
+      return false;
+   }
+
+   var user=matchArray[1];
+   var domain=matchArray[2];
+
+   if (user.match(userPat)==null) {
+     alert("The username doesn't seem to be valid.");
+     return false;
+   }
+
+   var IPArray=domain.match(ipDomainPat);
+   if (IPArray!=null) {
+    // this is an IP address
+        for (var i=1;i<=4;i++) {
+          if (IPArray[i]>255) {
+              alert("Destination IP address is invalid!");
+              return false;
+          }
+        }
+        return true;
+   }
+
+   var domainArray=domain.match(domainPat)
+   if (domainArray==null) {
+      alert("The domain name doesn't seem to be valid.");
+      return false;
+   }
+
+   var atomPat=new RegExp(atom,"g")
+   var domArr=domain.match(atomPat)
+   var len=domArr.length
+   if (domArr[domArr.length-1].length<2 || domArr[domArr.length-1].length>3) {
+      alert("The address must end in a three-letter domain, or two letter country.");
+      return false;
+   }
+
+   if (len<2) {
+      var errStr="This address is missing a hostname!";
+      alert(errStr);
+      return false;
+   }
+
+   return true;
+}
+
+</script>
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>Spilsbury - We Deliver Fun!</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link rel="stylesheet" href="/wcsstore/Spilsbury/css/Master2_1.css" type="text/css">
 </head>
 
-<body bgcolor="#ffffff" link="#3366ff" vlink="#3366ff" alink="#3366ff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/images/layout/bg.gif">
 
-<!-- begin table contains header files -->
-<table width="695" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr> 
-	<td width="224"><a href="default.asp"><img src="/images/layout/logo.gif" width="224" height="75" alt="Spilsbury.com" border="0"></a></td>
-	<td width="471" align="right" valign="bottom">
-		<a href="registration.asp"><img src="/images/buttons/btn_register.gif" width="57" height="13" border="0" alt="Register"></a><img src="/images/buttons/btn_spacer.gif" width="11" height="13"><a href="login.asp"><img src="/images/buttons/btn_login.gif" width="42" height="13" border="0" alt="Login"></a><img src="/images/buttons/btn_spacer.gif" width="11" height="13"><a href="cart.asp"><img src="/images/buttons/btn_viewcart.gif" width="64" height="13" border="0" alt="View Cart"></a><img src="/images/buttons/btn_spacer.gif" width="11" height="13"><a href="http://www.spilsbury.com/interact/html.asp?html=customerservice.html"><img src="/images/buttons/btn_customerservice.gif" width="109" height="13" border="0" alt="Customer Service"></a>
-&nbsp;&nbsp;
-	</td>
-	</tr>
-</tbody></table>
-<!-- end table contains header files -->
 
-<!-- begin table contains menu in header files --> 
-<table width="695" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td><img src="/images/layout/header_menu.gif" width="695" height="29" border="0" usemap="#topnav"><map name="topnav"><area shape="rect" alt="Clearance" coords="586,0,694,28" href="category.asp?cat=clearance"><area shape="rect" alt="Kids" coords="485,0,585,28" href="category.asp?cat=kids"><area shape="rect" alt="Unique Gifts" coords="385,0,484,28" href="category.asp?cat=uniquegifts"><area shape="rect" alt="Activities" coords="286,0,384,28" href="category.asp?cat=activities"><area shape="rect" alt="Games" coords="186,0,285,28" href="category.asp?cat=games"><area shape="rect" alt="Puzzles" coords="86,0,185,28" href="category.asp?cat=puzzles"><area shape="rect" alt="Return to Home" coords="0,-1,82,27" href="default.asp" title="home"></map></td>
-	</tr>
-</tbody></table>
-<!-- end table contains menu in header files -->
 
-<!-- begin table contains 3rd level navigation -->
-<table width="690" border="0" cellspacing="0" cellpadding="2">
-	<tbody><tr>
-		
-	</tr>
-</tbody></table>
-<!-- end table contains 3rd level navigation -->
 
-<table width="695" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr valign="top">
-		<!-- begin table contains side navigation -->
-		<td width="175">
-			<!-- begin table contains search components -->
-			<form action="http://www.spilsbury.com/interact/category.asp" method="POST" name="navigation1form">
-			<br>
-			<table width="175" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="10">&nbsp;</td>
-					<td><img src="/images/buttons/btn_keywordsearch.gif" width="101" height="15" border="0"></td>
-					<td rowspan="2" align="center"><input align="NONE" alt="Search" border="0" height="33" name="displaysearchresults" src="/images/buttons/btn_go.gif" type="IMAGE" width="44"></td>
-				</tr>
-				<tr>
-					<td width="10">&nbsp;</td>
-					<td><input maxlength="255" name="Search_String" size="12" type="TEXT" value=""></td>
-				</tr>
-			</tbody></table>
-			<br>
-			<center>
-				<table width="175" border="0" cellspacing="0" cellpadding="0">
-					
-					<tbody><tr>
-					  <td colspan="2" align="center"><font face="Arial, Helvetica, sans-serif" size="2">
-						<img src="/images/layout/hr155.gif" width="155" height="2">
-						<br><br>
-					  </font></td>
-					</tr>
-					
-					<tr> 
-					  <td width="20">&nbsp;<br></td>
-					  <td width="155"><font face="Arial, Helvetica, sans-serif" size="2">
-						<a href="http://www.spilsbury.com/interact/category.asp?cat=Online_Specials&amp;wc=Online_Specials"><img src="/images/layout/bx_saleitems.gif" width="140" height="89" border="0"></a>
-						<br><br>
-					  </font></td>
-					</tr>
-					<!--
-					<tr>
-					  <td colspan="2" align="center"><font face="Arial, Helvetica, sans-serif" size="2">
-						<img src="/images/layout/hr155.gif" width="155" height="2">
-					  </font></td>
-					</tr>
-					<tr> 
-					  <td width="20">&nbsp;</td>
-					  <td width="155"><font face="Arial, Helvetica, sans-serif" size="2" color="#3366FF">
-						<br>Narrow your search:
-					  </font></td>
-					</tr>
-					--><!--
-					<tr>
-					  <td colspan="2" align="center"><font face="Arial, Helvetica, sans-serif" size="2">
-						<br><img src="/images/layout/hr155.gif" width="155" height="2">
-						<br><br>
-					  </font></td>
-					</tr>
-					-->
-					<tr>
-					  <td colspan="2" align="center"><font face="Arial, Helvetica, sans-serif" size="2">
-						<br><br>
-						
-						<a href="category.asp?cat=puzzles&amp;subcat=Shaped_Puzzles"><img src="/images/layout/bx_specialshapes2.gif" width="135" height="93" border="0"></a>
-						<br><br>
-						
-						
-						<a href="advancedsearch.asp"><img src="/images/layout/bx_giftfinder-p.gif" width="142" height="91" border="0"></a>
-						<br><br>
-						
-						
-						<a href="http://www.clickaction.net/ClickAction/subscriber?c=1&amp;p=12240&amp;func=S_survey" target="spils"><img src="/images/layout/bx_signup.gif" width="140" height="92" border="0" alt="eMail Sign Up"></a>
-						<br><br>
-						
-						<a href="html.asp?html=rapid.html"><img src="/images/layout/bx_expresslane-p.gif" width="137" height="90" border="0"></a>
-						<br><br>
-						
-						<img src="/images/layout/hr155.gif" width="155" height="2">
-						<br><br>
-						
-												
-						<a href="html.asp?html=about.html"><img src="/images/layout/hd_aboutus.gif" width="125" height="20" border="0" alt="About Us"></a><br>
-						<a href="request.asp"><img src="/images/layout/hd_catalogrequest.gif" width="125" height="20" border="0" alt="Catalog Request"></a><br>
-						<a href="category.asp?cat=giftcertificates"><img src="/images/layout/hd_giftcertificate.gif" width="125" height="20" border="0" alt="Gift Certificates"></a><br>
-						<a href="html.asp?html=customerservice.html"><img src="/images/layout/hd_customerservice-blue.gif" width="125" height="20" border="0" alt="Customer Service"></a>
-					  </font></td>
-					</tr>
-				</tbody></table>
-				
-			</center></form>
-		</td>
-		<!-- end table contains side navigation -->
-		<td width="520">
-			<br>
-			<table width="520" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="5"><img src="/images/layout/spacer.gif" width="5" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-					<td width="515"><font face="Arial, Helvetica, sans-serif" size="2">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="20">&nbsp;</td>
-            <td><font size="3"><font size="2"><b><font size="3" face="Arial, Helvetica, sans-serif" color="#3366FF">Your 
-              Privacy and Security</font></b></font></font><font size="3" color="#3366FF" face="Arial, Helvetica, sans-serif"></font></td>
-          </tr>
-          <tr>
-            <td width="20">&nbsp;</td>
-            <td><img src="/images/layout/hr460.gif" width="460" height="1"></td>
-          </tr>
-          <tr>
-            <td width="20">&nbsp;</td>
-            <td>
-				<font face="arial,helvetica,times new roman" size="2">
-				<b>Your Privacy and Security</b>
-				<br><br>
 
-				Spilsbury.com is committed to providing a secure and respectful shopping environment for our customers. If you have concerns about security or privacy, you can reach us in any of the following ways:
-				<br><br>
-				
-				Email:	<a href="mailto:service@spilsbury.com">service@spilsbury.com</a><br>
-				Phone:	1-800-285-8619<br>
-				Mail:	Spilsbury.com<br>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						3650 Milwaukee Street<br>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						PO Box 8922<br>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						Madison, WI  53708-8922
-				<br><br>
-				</font>
-				
-              <blockquote>
-                <p><font face="times new roman" size="3"><font face="arial,helvetica,times new roman" size="2"><img src="/images/layout/dma_logo.gif" width="237" height="150"><a href="https://www.truste.org/validate/6402"><img src="/images/layout/clickseal_logo.gif" width="91" height="73" border="0" alt="TRUSTe: Click to Verify"></a><font face="Arial, Helvetica, sans-serif"> 
-                  </font></font></font></p>
-              </blockquote>
-              <font face="times new roman" size="3"><font face="arial,helvetica,times new roman" size="2">
-              </font></font><p><font face="times new roman" size="3"><font face="arial,helvetica,times new roman" size="2"><font face="arial,helvetica,times new roman" size="2"><b>Security</b><br>
-			  Spilsbury.com has security measures in place to protect against the loss, misuse and alteration of customer data under our control. Spilsbury.com uses SSL (Secure Socket Layer) technology to encrypt all the personal information that you send us (including credit card numbers, names, addresses, and telephone numbers), so it cannot be read by anyone as it travels over the internet.  This technology safeguards your personal information and guarantees privacy.  Your personal information is used only for the purpose of fulfilling your order or maintaining your account.  We make every attempt to ensure that access to your data is limited only to authorized employees and utilize password protection and non-disclosure agreements to further ensure your information's safety and security.
-</font>
-              </font></font> 
-              </p><p> <font face="arial,helvetica,times new roman" size="2"><b>Privacy</b><br>
-                Spilsbury Puzzle Company is a member of the Direct Marketing Association 
-                and adheres to the Direct Marketing Association guidelines for 
-                privacy. These guidelines require the visitors and customers of 
-                the Spilsbury.com site are made aware of our privacy policies 
-                and are able to specify the use of their private information.</font>
-              </p><p><font face="arial,helvetica,times new roman" size="2"> When you 
-                visit our site, we do not collect any personal information unless 
-                you provide it to us. Following is a list of areas on our site 
-                where we ask for personal information, and a description of how 
-                this information is used:</font>
-              </p><p> <font face="arial,helvetica,times new roman" size="2"><b>Order 
-                Form &amp; Catalog Request</b><br>
-                In order to fulfill your order or catalog request and follow up 
-                with communications regarding the status of your order, we collect 
-                your name, postal address, email address, and telephone number. 
-                Spilsbury.com does not share email addresses or telephone numbers 
-                with other companies, however, if you provide your postal address 
-                on our site, you may receive Spilsbury Puzzle Company catalogs 
-                and/or mailings from carefully screened and reputable companies 
-                whose products we feel may interest you. If you would rather not 
-                receive mailings from us or from other companies, please contact 
-                us at <a href="mailto:service@spilsbury.com">service@spilsbury.com.</a></font>
-              </p><p> <font face="arial,helvetica,times new roman" size="2"><b>Site Registration</b><br>
-				To maintain your personal account registration so that you have access to benefits such as our wish list, and order history, we collect your name, email address, and a password determined by you. This information is gathered by ROI Direct, our site's host, is kept in the strictest confidence, and is not shared with anyone else. 
-</font>
-              </p><p> <font face="arial,helvetica,times new roman" size="2"><b>Email 
-                Registration</b><br>
-                When signing up for the Spilsbury.com email newsletter, we capture 
-                your name, zip code, sex, and product category preferences. This 
-                information is maintained in the strictest confidence by ClickAction, 
-                a third party email service, and it is not shared with anyone 
-                else. We use the email registration information you provide to 
-                send you news about special sales, new products, and events in 
-                your areas of interest. Every email we send includes an opt-out 
-                link allowing you to remove your name from our email list.</font>
-              
-	   </p><p> <font face="arial,helvetica,times new roman" size="2"><b>Tell-A-Friend Product Referral</b><br>
-                When sending a product page to a friend, we ask for your friend's name, your friend's email address,
-		and your name.  This information is not used or retained for any other purpose than forwarding the
-		product information that you specify.
-		
 
-           </font></p><p><font face="arial,helvetica,times new roman" size="2"><font face="arial,helvetica,times new roman" size="2"><b>eLuminate™</b><br>
-			  	Spilsbury.com 
-                uses eLuminate™ by Coremetrics™, a data gathering and 
-                analysis service, to ensure visitors and customers of our site 
-                receive relevant information and promotions that will help them 
-                make better purchasing decisions. Visitors to our site are identified 
-                by a unique numeric id that includes no personal information, 
-                but allows us to determine shopping behavior. The information 
-                we gather with the unique id is analyzed to improve our site design, 
-                broaden the products we carry, and suggest products or promotions 
-                that will complement your other purchases.</font>
-              </font></p><p><font face="arial,helvetica,times new roman" size="2"><font face="arial,helvetica,times new roman" size="2"> As a visitor 
-                to or a customer of this site, you have the option to deactivate 
-                the site’s abilities to analyze your web browsing and purchasing 
-                behavior. For the Coremetrics™ Opt-Out Standard, visit <a href="http://www.coremetrics.com/info_eluminate2.html">http://www.coremetrics.com/info_eluminate2.html</a>, 
-                where you will find detailed information on data collection and 
-                instructions for selecting the various levels of privacy and confidentiality 
-                that you desire.</font>
-        
-              </font></p><p><font face="arial,helvetica,times new roman" size="2"> <font face="arial,helvetica,times new roman" size="2"><b>Opt 
-                Out</b><br>If at any time you would like to remove, change, or update 
-                any of the personal information collected by the Spilsbury.com 
-                site, you may do so by contacting <a href="mailto:service@spilsbury.com">service@spilsbury.com</a> 
-                or calling our customer service toll free at 1-800-285-8619.</font>
-              </font></p><p><font face="arial,helvetica,times new roman" size="2"> <font face="arial,helvetica,times new roman" size="2"><b>Notification 
-                of Changes</b><br>
-               	If at some point in the future, there is a change to our information usage
-		practices that affect your Personally Identifiable Information, we will
-		notify you by email of the relevant changes. At the time of this message, 
-		you will be informed of how to opt-out of this information usage.  Changes 
-		will also be posted on this privacy policy statement.
-		</font>
-            </font></p></td>
-          </tr>
-        </tbody></table>
 
-<script language="javascript">
-<!--
-/* Pageview Data-tag v.2.2.8, 04/13/2000
-   COPYRIGHT 1999-2000 COREMETRICS, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. */
 
-/* variables begin here */
-cm_ReferralURL = "";
-cm_Search= "";
-cm_PageName = "html=policy.html";
-cm_ClientPageID = "/interact/html.asphtml=policy.html";
-cm_ContentName = "";
-cm_ParentContentName = "";
-cm_PageExtraString1 = "";
-cm_PageExtraString2 = "";
-cm_PageExtraNumeric1 = "";
-cm_PageExtraNumeric2 = "";
-cm_ActionName1 = "";
-cm_ActionName2 = "";
-cm_ActionName3 = "";
-cm_PromotionName = "";
-cm_PageCount = "Yes";
-/* variables end here */
 
-var cm_Display = "";
-Version2="e2.2.8";
-//-->
-</script>
-<script language="javascript" src="/Coremetrics/Pageview.js"></script>
-<script language="javascript">
-<!--
-document.write(cm_Display);
-//-->
-</script>
-					</font></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
 
-<!-- begin table contains footer files-->
-<table width="695" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="175">&nbsp;</td>
-		<td width="520" align="center"><img src="/images/layout/hr416.gif" width="416" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#3366ff">
-			<a href="default.asp">Home</a> | <a href="http://www.spilsbury.com/interact/category.asp?cat=puzzles">Puzzles</a> | <a href="http://www.spilsbury.com/interact/category.asp?cat=games">Games</a> | <a href="http://www.spilsbury.com/interact/category.asp?cat=activities">Activities</a> | <a href="http://www.spilsbury.com/interact/category.asp?cat=uniquegifts">Unique Gifts</a> | <a href="http://www.spilsbury.com/interact/category.asp?cat=kids">Kids</a> | <a href="http://www.spilsbury.com/interact/category.asp?cat=clearance">Clearance</a><br>
-			<a href="cart.asp">Shopping Cart</a> | <a href="html.asp?html=rapid.html">Express Lane</a> | <a href="http://www.spilsbury.com/interact/html.asp?html=customerservice.html">Customer Service</a> | <a href="http://www.spilsbury.com/interact/html.asp?html=policy.html">Privacy Policy</a>
 
-		</font></td>
-	</tr>
-	<tr>
-		<td colspan="2">&nbsp;</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td align="center"><a href="http://www.roidirect.com"><img src="/images/layout/roilogo1.gif" width="117" height="25" hspace="0" vspace="0" border="0" alt=""></a></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body text="#000000" link="#640D9F" vlink="#640D9F" alink="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload=" MM_preloadImages('/wcsstore/Spilsbury/images/topNav/images/navTop_ON_03.gif','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_04.gif','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_05.gif','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_06.gif','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_07.gif','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_08.gif')">
+<table width="720" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="bottom">
+    <td width="320" height="50" valign="bottom"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10001&amp;langId=-1&amp;catalogId=30001&amp;ref=spilsbury">
+
+<img src="/wcsstore/Spilsbury/images/logo.gif" border="0">
+
+</a></td>
+    <td width="250" height="50"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td height="37" class="textWelcome">
+
+</td>
+        </tr>
+      </tbody></table></td>
+    <td width="150"><table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tbody><tr>
+          <td align="center"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ShopcartSetupView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;orderId=."><img src="/wcsstore/Spilsbury/images/cart.gif" width="39" height="23" border="0"></a></td>
+        </tr>
+        <tr>
+          <td align="center" class="textsmall"><font color="#640D9F">My Shopping
+            Cart, 0 Items</font></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
 </tbody></table>
 
 
-<br><br>
+
+
+
+
+<table width="720" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td> <img src="/wcsstore/Spilsbury/images/topNav/images/navTop_OFF_01.gif" width="134" height="45" alt=""></td>
+    <td> <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10001&amp;langId=-1&amp;catalogId=30001&amp;ref=spilsbury"><img src="/wcsstore/Spilsbury/images/topNav/images/navTop_OFF_02.gif" alt="" width="91" height="45" border="0"></a></td>
+
+
+
+    <td> <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3963&amp;langId=-1&amp;parent_category_rn=3963&amp;top_category=3963&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_03.gif',1)"><img src="/wcsstore/Spilsbury/images/topNav/images/navTop_OFF_03.gif" name="Image8" width="90" height="45" border="0"></a></td>
+
+
+
+
+
+    <td> <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3902&amp;langId=-1&amp;parent_category_rn=3902&amp;top_category=3902&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_04.gif',1)"><img src="/wcsstore/Spilsbury/images/topNav/images/navTop_OFF_04.gif" name="Image9" width="71" height="45" border="0"></a></td>
+
+
+
+
+
+    <td> <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3872&amp;langId=-1&amp;parent_category_rn=3872&amp;top_category=3872&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_05.gif',1)"><img src="/wcsstore/Spilsbury/images/topNav/images/navTop_OFF_05.gif" name="Image10" width="90" height="45" border="0"></a></td>
+
+
+
+
+
+    <td> <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3914&amp;langId=-1&amp;parent_category_rn=3914&amp;top_category=3914&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_06.gif',1)"><img src="/wcsstore/Spilsbury/images/topNav/images/navTop_OFF_06.gif" name="Image11" width="64" height="45" border="0"></a></td>
+
+
+
+
+
+    <td> <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3940&amp;langId=-1&amp;parent_category_rn=3940&amp;top_category=3940&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_07.gif',1)"><img src="/wcsstore/Spilsbury/images/topNav/images/navTop_OFF_07.gif" name="Image12" width="89" height="45" border="0"></a></td>
+
+
+
+
+
+    <td> <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3893&amp;langId=-1&amp;parent_category_rn=3893&amp;top_category=3893&amp;top=Y&amp;pageNo=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','/wcsstore/Spilsbury/images/topNav/images/navTop_ON_08.gif',1)"><img src="/wcsstore/Spilsbury/images/topNav/images/navTop_OFF_08.gif" name="Image13" width="91" height="45" border="0"></a></td>
+
+
+
+  </tr>
+</tbody></table>
+
+
+
+
+
+<table width="720" border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">
+  <tbody><tr>
+    <td height="20" bgcolor="fcf2d7" class="cellColumnLeftSearch">Search keyword
+      / item #: </td>
+    <td height="20" colspan="2" align="right" bgcolor="#FFFFFF"><img src="/wcsstore/Spilsbury/images/navScndry.gif" border="0" usemap="#Map"></td>
+  </tr>
+  <tr>
+    <td width="135" height="507" valign="top" bgcolor="fcf2d7"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<form name="CatalogSearchForm" action="http://www.spilsbury.com/webapp/wcs/stores/servlet/CatalogSearchResultView" method="post"></form>
+        <tbody><tr>
+          <td width="80%" class="cellColumnLeftSearch"><input name="searchTerm" type="text" size="12" id="srch"></td>
+          <td width="20%" class="cellColumnLeftSearchGO">
+<input type="hidden" name="storeId" value="10001"> <input type="hidden" name="catalogId" value="30001"> <input type="hidden" name="langId" value="-1"> <input type="hidden" name="pageSize" value="9"> <input type="hidden" name="beginIndex" value="0"> <input type="hidden" name="sType" value="SimpleSearch"> <input type="hidden" name="resultType" value="2">
+
+<a href="javascript:document.CatalogSearchForm.submit()"><img src="/wcsstore/Spilsbury/images/go.gif" width="21" height="9" border="0"></a></td>
+        </tr>
+
+
+        <tr>
+          <td colspan="2" class="cellColumnLeftLinks">
+            
+
+
+
+
+<a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=1023&amp;langId=-1&amp;pageNo=1&amp;ref=spilsbury">Outdoor Activities</a><br>
+
+<a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3883&amp;langId=-1&amp;pageNo=1&amp;ref=spilsbury">Best Selling Puzzles</a><br>
+
+<a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=4365&amp;langId=-1&amp;pageNo=1&amp;ref=spilsbury">Gifts Under $10</a><br>
+
+<a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3873&amp;langId=-1&amp;pageNo=1&amp;ref=spilsbury">Classic Games</a><br>
+
+
+          </td>
+        </tr>
+
+
+        <tr align="center"> 
+          <td colspan="2" class="cellColumnLeftSeperator"><img src="/wcsstore/Spilsbury/images/seperator.gif" width="125" height="3"></td>
+        </tr>
+        <tr align="center"> 
+          <td colspan="2" class="cellColumnLeftNav"> <table width="95%" border="0" cellspacing="0" cellpadding="1">
+              <tbody><tr> 
+                <td width="10%" align="center" class="textWelcome"><img src="/wcsstore/Spilsbury/images/arrowRightRed.gif" width="8" height="7"></td>
+                <td colspan="2" align="left" class="textWelcome"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/HelpView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=sidebar">CUSTOMER SERVICE</a></td>
+              </tr>
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=shipping">Shipping &amp; Payment</a></td>
+              </tr>
+
+              <tr>
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=returns">Returns</a></td>
+              </tr>
+
+
+              <tr>
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=account">My Account</a></td>
+              </tr>
+
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=coupons">Free Coupon!</a></td>
+              </tr>
+
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=guarantee">Our Guarantee</a></td>
+              </tr>
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=catalog">Request 
+                  a Catalog</a></td>
+              </tr>
+
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=funemail">FunEmail Sign-up</a> </td>
+              </tr>
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=gift">Gift Certificates</a> </td>
+              </tr>
+
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=faqs">FAQs</a></td>
+              </tr>
+
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=aboutus">About Us</a></td>
+              </tr>
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+<img src="/wcsstore/Spilsbury/images/arrowRightPurple.gif" width="8" height="7">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=privacy">Privacy Policy</a></td>
+              </tr>
+
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=pricing">Pricing Policy</a></td>
+              </tr>
+
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=international">International Orders</a></td>
+              </tr>
+
+
+              <tr> 
+                <td width="10%" align="center" class="textWelcome">&nbsp;</td>
+                <td width="10%" align="center" class="textWelcome">
+
+</td>
+                <td width="80%" align="left" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=benefits">Benefits of Registering</a></td>
+              </tr>
+
+
+
+            </tbody></table></td>
+        </tr>
+        <tr align="center"> 
+          <td colspan="2" class="cellColumnLeftSeperator"><img src="/wcsstore/Spilsbury/images/seperator.gif" width="125" height="3"></td>
+        </tr>
+      </tbody></table></td>
+
+
+
+
+		<!--MAIN CONTENT STARTS HERE-->
+
+
+
+
+
+    <td width="585" align="center" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tbody><tr valign="top"> 
+          <td align="left" class="cellCustServLeft"><p class="textTitlePage">Your 
+              Privacy and Security </p>
+            <p class="textWelcome">Spilsbury.com is committed to providing a secure 
+              and respectful shopping environment for our customers. If you have 
+              concerns about security or privacy, you can reach us in any of the 
+              following ways: </p>
+            <p class="textWelcome"><img src="/wcsstore/Spilsbury/images/dmaLogo.gif" width="150" height="79" align="right">Email:<a href="mailto:service@spilsbury.com">service@spilsbury.com</a><br>
+              Phone:1-800-285-8619<br>
+              Mail:Spilsbury.com<br>
+              3650 Milwaukee Street<br> PO Box 8922<br> Madison, WI 53708-8922 </p>
+            <p class="textWelcome"> <strong>Privacy</strong><br>
+              Spilsbury is a member of the Direct Marketing Association and adheres 
+              to the Direct Marketing Association guidelines for privacy. These 
+              guidelines require the visitors and customers of the Spilsbury.com 
+              site to be made aware of our privacy policies and to be able to 
+              specify the use of their private information. </p>
+            <p class="textWelcome">When you visit our site, we do not collect 
+              any personal information unless you provide it to us. In some instances, 
+              we use third party vendors to help us in providing our products 
+              and services to you. Some of these vendors are given access to some 
+              or all of the information you provide to us, including your e-mail 
+              address, and may use cookies on our behalf. These vendors are contractually 
+              restricted from using your information in any manner, other than 
+              in helping us to provide you with the products and services available 
+              on our site.</p>
+            <p class="textWelcome">Following is a list of areas on our site where 
+              we ask for personal information, and a description of how this information 
+              is used:</p>
+            <p class="textWelcome"><strong>Security</strong><br>
+              Spilsbury.com has security measures in place to protect against 
+              the loss, misuse and alteration of customer data under our control. 
+              Spilsbury.com uses SSL (Secure Socket Layer) technology to encrypt 
+              all the personal information that you send us (including credit 
+              card numbers, names, addresses, and telephone numbers), so it cannot 
+              be read by anyone as it travels over the internet. This technology 
+              safeguards your personal information and guarantees privacy. Your 
+              personal information is used only for the purpose of fulfilling 
+              your order or maintaining your account. We make every attempt to 
+              ensure that access to your data is limited only to authorized employees 
+              and utilize password protection to further ensure your information's 
+              safety and security. </p>
+            <p class="textWelcome"><strong>Order Form &amp; Catalog Request</strong><br>
+              In order to fulfill your order or catalog request and follow up 
+              with communications regarding the status of your order, we collect 
+              your name, postal address, email address, and telephone number. 
+              Spilsbury.com does not share email addresses or telephone numbers 
+              with other companies, however, if you provide your postal address 
+              on our site, you may receive Spilsbury catalogs and/or postal mailings 
+              from carefully screened and reputable companies whose products we 
+              feel may interest you. If you would rather not receive mailings 
+              from us or from other companies, please contact us at <a href="mailto:service@spilsbury.com">service@spilsbury.com</a>. 
+            </p>
+            <p class="textWelcome"><strong>Site Registration</strong><br>
+              To maintain your personal account registration so that you have 
+              access to benefits such as our wish list, and order history, we 
+              collect your name, email address, and a password determined by you. 
+            </p>
+
+            <p class="textWelcome"><strong>Email Registration</strong><br>
+              When signing up for the Spilsbury.com FUNeMAIL newsletter, we collect 
+              your name and email address. We use the email registration information 
+              you provide to send you news about special sales, new products, 
+              and events in your areas of interest. Every email we send includes 
+              an opt-out link allowing you to remove your name from our email 
+              list. </p>
+
+            <p class="textWelcome"><strong>Tell a Friend</strong><br>
+              As a service to our customers, Spilsbury offers Tell A Friend email 
+              notificaton. Spilsbury will send an email to your friend on your 
+              behalf, with a link to the product of your choice. The information 
+              collected includes your name, your email address, your friend's 
+              name, your friend's email address and your personal message. Spilsbury 
+              uses this information only to send an email to your friend. We do 
+              not retain any of this information or use it to contact you or your 
+              friend at any time.</p>
+            <p class="textWelcome"><strong>Cookies</strong><br>
+              A cookie is a very small text file placed on your hard drive. Spilsbury 
+              uses session cookies in order to track the number of unique visitors 
+              to our site. Additionally, if you register on the site, we use a 
+              permanent cookie so that you do not need to enter your name and 
+              address or log-in each time you visit.</p>
+            <p class="textWelcome"><strong>Log-Files</strong><br>
+              Most Internet sites, including ours, analyze log files in order 
+              to determine content preferences and traffic patterns on the site. 
+              The information contained in the log file is anonymous and does 
+              not include any personally identifiable information.</p>
+            <p class="textWelcome"><strong>Update Personal Information</strong><br>
+              If at any time you would like to remove, change, or update any of 
+              the personal information collected by the Spilsbury.com site, you 
+              may do so by contacting <a href="mailto:service@spilsbury.com">service@spilsbury.com</a> 
+              or calling our customer service toll free at 1-800-285-8619. </p>
+            <p class="textWelcome"><strong>Opt-Out</strong><br>
+              You may opt-out of receiving Spilsbury catalogs, Spilsbury FUNeMAIL, 
+              or postal mailings from other reputable companies at any time. To 
+              do so, please contact customer service at <a href="mailto:service@spilsbury.com">service@spilsbury.com</a> 
+              or 1-800-285-8619.</p>
+            <p class="textWelcome"><strong>Notification of Changes</strong><br>
+              If we are going to use your personally identifiable information 
+              in a manner different from that stated at the time of collection 
+              we will notify you via email. You will have a choice as to whether 
+              or not we use your information in this different manner. In addition, 
+              if we make any material changes in our privacy practices that do 
+              not affect user information already stored in our database, we will 
+              post a prominent notice on our web site notifying users of the change. 
+              In some cases where we post the notice we will also email users, 
+              who have opted to receive communications from us, notifying them 
+              of the changes in our privacy practices.</p></td>
+        </tr>
+        <tr align="center" valign="bottom"> 
+          <td height="40" class="textsmall">&nbsp;</td>
+        </tr>
+
+
+
+
+
+
+       <tr align="center" valign="bottom"> 
+          <td height="40" colspan="2" class="textsmall"><a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10001&amp;langId=-1&amp;catalogId=30001&amp;ref=spilsbury">Home</a> 
+            | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3963&amp;langId=-1&amp;parent_category_rn=3963&amp;top_category=3963&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury">Unique Gifts</a> | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3902&amp;langId=-1&amp;parent_category_rn=3902&amp;top_category=3902&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury">Games</a> 
+            | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3872&amp;langId=-1&amp;parent_category_rn=3872&amp;top_category=3872&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury">Activities</a> | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3914&amp;langId=-1&amp;parent_category_rn=3914&amp;top_category=3914&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury">Kids</a> 
+            | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3940&amp;langId=-1&amp;parent_category_rn=3940&amp;top_category=3940&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury">Puzzles</a> | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=3893&amp;langId=-1&amp;parent_category_rn=3893&amp;top_category=3893&amp;top=Y&amp;pageNo=1&amp;ref=spilsbury">Clearance</a> 
+            | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ShopcartSetupView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;orderId=.">Shopping Cart</a><br> <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=aboutus">About 
+            Us</a> | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ExpressLane?catalogId=30001&amp;storeId=10001&amp;la&#10;ngId=-1&amp;status=i">Express Lane</a> | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=30001&amp;storeId=10001&amp;categoryId=4125&amp;langId=-1&amp;parent_category_rn=4125&amp;top_category=4125&amp;top=Y&amp;pageNo=1">Online 
+            Specials</a> | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=catalog">Request a Catalog</a> 
+            | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/HelpView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=sidebar">Customer Service</a> | <a href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=privacy">Privacy</a></td>
+        </tr>
+      </tbody></table></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </tr>
+</tbody></table>
+
+
+      <map name="Map">
+        <area shape="rect" coords="271,1,323,22" href="http://www.spilsbury.com/webapp/wcs/stores/servlet/ContactView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=aboutus">
+
+        <area shape="rect" coords="182,1,262,18" href="http://www.spilsbury.com/webapp/wcs/stores/servlet/LogonForm?new=Y&amp;langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=sidebar">
+
+        <area shape="rect" coords="3,2,96,20" href="http://www.spilsbury.com/webapp/wcs/stores/servlet/HelpView?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=sidebar">
+        <area shape="rect" coords="106,0,172,18" href="http://www.spilsbury.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10001&amp;catalogId=30001&amp;page=account">
+      </map> 
+
+
+<br>
+
+
 
 </body></html>
