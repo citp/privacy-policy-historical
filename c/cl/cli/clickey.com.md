@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickey.com privacy policy that was archived on 1999-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991128154226id_/http%3A//clickey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickey.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617212550id_/http%3A//www.clickey.com/privacy.html) for the most accurate reproduction.*
 
 # Clickey - Privacy Policy
 
@@ -14,7 +14,7 @@
 Clickey Corp. ("Clickey.com") has created this privacy policy in order to demonstrate our sincere commitment to issues regarding your privacy. The following discloses the information gathering and dissemination practices for Clickey.com. 
 
   1. We pledge that Clickey will not use personal information about you without your permission. 
-  2. We pledge that Clickey will provide the means for you to manage and control the information that you provid to us. 
+  2. We pledge that Clickey will provide the means for you to manage and control the information that you provide to us. 
   3. We pledge that Clickey will provide means for you to communicate your privacy concerns to us and that we will respond to them in a timely and thoughful manner. 
 
 
@@ -50,7 +50,6 @@ Legal Department
 Clickey Corporation  
 2815 Camino Del Rio South, Suite #270  
 San Diego, CA 92108  
-[privacy@clickey.com](mailto:privacy@clickey.com)   
-
+[privacy@clickey.com](mailto:privacy@clickey.com)
 
 | 
