@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014014id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402052205id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
 
 # al.com: Privacy Policy
 
@@ -71,7 +71,7 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/2013261925/Tile1/ALABAMALIVE/AV_PERSONALS_AL11/housebanners1251.gif/64316564656561663366636433656630)   
-[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/37674049/Tile2/ALABAMALIVE/AL_TICKETS_02/buytickets5.gif/64316564656561663366636433656630)   
+[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/1641482415/Tile1/ALABAMALIVE/MK_BLJPHOTO2_AL02/190x90_2_Billboard_al.gif/64316564656561313430366366383730)   
+[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/1924268149/Tile2/ALABAMALIVE/MK_BLJPHOTO2_AL02/190x90_3_type_al.gif/64316564656561313430366366383730)   
   
 
