@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520100356id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816193644id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
@@ -48,6 +48,8 @@ We collect IP addresses to obtain aggregate information on the use of Scholastic
 
 Scholastic ensures that all information, personally and non-personally identifiable information, that it receives via the Internet is secure against unauthorized access. This information is kept in a safe and secure system isolated from direct connection to the Internet. This means that no eyes but ours will ever see the information that our visitors send to us, unless we indicate otherwise. 
 
+In some places on our sites, parents and teachers may be able to purchase items with the use of a credit card. In such instances, Scholastic uses secure server software over a Secure Socket Layer (SSL) line, the latest technology to protect your credit card information. SSL is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your credit card information so that the information from your credit card cannot be read as it travels over the internet. 
+
 **LINKS TO OTHER SITES**
 
 Visitors will find links from SCHOLASTIC.COM to independently owned, controlled and/or managed World Wide Web or internet sites whose content we have found of possible interest to our visitors. In many cases, but not always, the links represent cooperative projects or mutual links established with the organizations connected with these sites. While we initially visit these sites to which we directly link, please note that we do not control the content that appears on these sites and such content may be constantly changing. We recommend that children check with their parents or teachers before clicking off to any new sites. 
@@ -57,3 +59,9 @@ Please note that we may revise our above policy as the content on our sites cont
 We hope that you enjoy exploring our sites. 
 
 Scholastic.com is owned and operated by Scholastic Inc., 555 Broadway New York, NY 10012. We can be reached by phone at 1-800-Scholastic and by email at custserv@scholastic.com. 
+
+**GetNetWise**
+
+GetNetWise is an online resource that provides information and tools that parents and teachers can use to guide children to a safe online experience. You can access this content by clicking on the GetNetWise logo below. This initiative is part of an industry effort to create an online environment where adults feel empowered with tools, information and resources to safeguard children online. 
+
+[ ](http://www.getnetwise.org/)
