@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2001-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010626222230id_/http%3A//evite.citysearch.com/help/lookupPageByName/noheaders%3Fcommd%3DdoPop%26popt%3DPolicies%26name%3DPolicies%26nosearch%3DOK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125100646id_/http%3A//www.evite.com/html/popups/privacy.html) for the most accurate reproduction.*
 
 # Evite
 
 **EVITE PRIVACY POLICY**
 
-Evite ("Evite") Statement on Privacy and Security of Information. The following policy explains our information gathering and dissemination practices. Please be aware that the Evite service is not intended for children under the age of 13. The Evite website is wholly owned by Ticketmaster and operated by the Citysearch.com division of Ticketmaster. Citysearch.com may receive information, including personally identifiable information, from Evite visitors. Please see Citysearch.com's [privacy policy](http://www.citysearch.com/CitySearch/Company/privacy_policy.html) for more information. 
+Evite ("Evite") Statement on Privacy and Security of Information. The following policy explains our information gathering and dissemination practices. Please be aware that the Evite service is not intended for children under the age of 13. The Evite website is wholly owned by Ticketmaster and operated by the Citysearch.com division of Ticketmaster. Citysearch.com may receive information, including personally identifiable information, from Evite visitors. Please see Citysearch.com's [privacy policy](http://www.abouttmcs.com/privacy.html) for more information. 
 
 **Information Collected**
 
@@ -28,7 +28,7 @@ We use the collected Data to schedule events for you, to contact the recipients 
 
 We may also use the Data to send you information about our company and to keep you informed of events happening in your area, as well as to inform you of products, services and special promotions which might be of interest to you. In addition, we may use your Data if we need to contact you regarding the use of our service. You may choose to stop receiving future communications from us; please see the Opt-Out section below.
 
-Some of your Data also may be shared with our business partners (such as providing your e-mail address to a third party service provider solely for the purpose of sending our e-mail newsletters). A list of those third parties is available here. If you do not want your Data provided to other companies, please notify us at [ privacy@evite.citysearch.com](mailto:privacy@evite.citysearch.com). Please keep in mind that any information you provide in your Evitals™ profile or in other publicly available areas of the site is accessible to others, and can be collected and used by them.
+Some of your Data also may be shared with our business partners (such as providing your e-mail address to a third party service provider solely for the purpose of sending our e-mail newsletters). A list of those third parties is available here. If you do not want your Data provided to other companies, please notify us at [ privacy@evite.com](mailto:privacy@evite.com). Please keep in mind that any information you provide in your Evitals™ profile or in other publicly available areas of the site is accessible to others, and can be collected and used by them.
 
 Evite, in its sole discretion, may use the title of your Evite invitation in our "Event Ticker" or for other marketing purposes, but only if you have selected to do so by clicking "yes" on the Web page that appears after your invitation has been sent. Evite will not disclose your or other registered users' Data in the Event Ticker unless such information is contained within the title of your Evite invitation. Evite reserves the right not to include any Evite title in the Event Ticker. 
 
@@ -40,7 +40,7 @@ We use your guests' contact information to allow them to respond to and comment 
 
 You may delete your e-mail address from the guest list by requesting to be removed from the guest list on the invitation page. Once your e-mail address is removed from the guest list, it will no longer be accessible to other guests (unless you are subsequently invited to another party, in which case your e-mail address will be accessible to guests of the new event). 
 
-If you use our "Tell A Friend" service at http://evite.citysearch.com/TellAFriend/ShowPage, Evite will use the e-mail addresses you provide to send your friends a one-time communication to tell them about the site. Evite will only use the e-mail addresses you list to notify your friends about our service.
+If you use our "Tell A Friend" service at <http://evite.com/tellAFriend/showPage>, Evite will use the e-mail addresses you provide to send your friends a one-time communication to tell them about the site. Evite will only use the e-mail addresses you list to notify your friends about our service.
 
  **Disclosure of Data**
 
@@ -78,7 +78,7 @@ This Web site contains links to other Web sites. Evite is not responsible for th
 
 While Evite does not give users the opportunity to remove their information from our database, you may remove your registration information from our Profiles page as described below. In addition, you may elect not to receive future communications from Evite or to discontinue use of our service. If you are a registered user, please visit the profile page of our Web site and uncheck the box related to sending information to you via e-mail. If you are not a registered user but are a recipient of an Evite invitation, you may delete your e-mail address from the guest list by requesting to be removed from the guest list on the invitation page.
 
-Other companies to whom we have provided your Data may independently send you communications. Please contact those companies directly if you do not wish to receive communications from them. If you do not want your Data provided to other companies, please notify us at [privacy@evite.citysearch.com](mailto:privacy@evite.citysearch.com). As described above, third parties may independently collect information about you when you view ads, invites, or other communications through the Evite service. If you do not want those companies to collect information about you, please contact them directly. Their contact information is available [here](https://web.archive.org/html/partners/thirdparty.html).
+Other companies to whom we have provided your Data may independently send you communications. Please contact those companies directly if you do not wish to receive communications from them. If you do not want your Data provided to other companies, please notify us at [privacy@evite.com](mailto:privacy@evite.com). As described above, third parties may independently collect information about you when you view ads, invites, or other communications through the Evite service. If you do not want those companies to collect information about you, please contact them directly. Their contact information is available [here](https://web.archive.org/html/partners/thirdparty.html).
 
  **Correct/Update/Delete**
 
