@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muscleandfitness.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209113830id_/http%3A//www.muscleandfitness.com/about/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscleandfitness.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602092726id_/http%3A//www.muscleandfitness.com/about/privacypolicy.jsp) for the most accurate reproduction.*
 
 # MuscleandFitness.com | Privacy Policy
 
