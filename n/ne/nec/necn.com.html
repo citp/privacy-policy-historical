@@ -1,0 +1,547 @@
+<!--The following is the downloaded HTML source of the necn.com privacy policy that was archived on 2002-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021211184908id_/http%3A//www.necn.com/privacy.asp) for the most accurate reproduction.-->
+
+<html lang="en-US"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Expires" content="12/12/2002">
+<meta http-equiv="Pragma" content="no-cache">
+<title></title>
+<meta name="Copyright" content="12/11/2002">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<meta name="Robots" content="All">
+<link rel="stylesheet" href="necn.css">
+<script language="JavaScript"> 
+
+		//my local browser detection code, for some reason i can't access
+		//the dynapi browser() class's variables, so i'll use this instead
+		ie4   = ((document.all)?1:0 & !(document.getElementById)?1:0); 		//Internet Explorer 4x DOM
+		ie5   = ((document.all)?1:0 & (document.getElementById)?1:0);		//Internet Explorer 5x DOM
+		ns4   = (document.layers)?1:0;										//Netscape 4x DOM
+		w3c   = (document.getElementById)?1:0;								//standards DOM (IE 5.x and NS 6)	
+		opera = (navigator.userAgent.toLowerCase().indexOf("opera") != -1); //Opera	
+		is_aol	  = (navigator.userAgent.toLowerCase().indexOf("aol") != -1); // aol
+		is_mac	  = (navigator.userAgent.toLowerCase().indexOf("mac") != -1); // Mac
+		
+// get page name
+var pagestr = document.location.href;
+var currentpage = pagestr.slice(pagestr.lastIndexOf("/"),pagestr.lastIndexOf("."));
+currentpage = currentpage.slice(1);
+if (currentpage=="default") currentpage="home";
+if (currentpage=="") currentpage="home";
+
+
+// AD CATEGORY SETTING CODE
+
+var adcategory = "";
+
+function setAdCategory(adc) {
+	switch (adc.toLowerCase()) { 
+		case "home" : 
+			adcategory="homepage"; break;
+		case "weather" : 
+			adcategory="weather"; break;
+		case "jaycarr" : 
+			adcategory="jayc"; break;
+		case "phantomgourmet" : 
+			adcategory="phantom"; break;
+		case "entertainment" : 
+			adcategory="enter"; break;
+		case "newsnight" : 
+			adcategory="newsn"; break;
+			
+		case "local" :
+			adcategory="local"; break;
+		case "national" : 
+			adcategory="natl"; break;
+		case "world" : 
+			adcategory="world"; break;
+		case "business" : 
+			adcategory="bus"; break;
+		case "sciencetech" : 
+			adcategory="scitech"; break;
+		case "sports" : 
+			adcategory="sports"; break;
+		case "health" : 
+			adcategory="health"; break;
+		case "features" : 
+			adcategory="feat"; break;
+		case "communitypages" :
+			adcategory="necom"; break;
+		case "firstlook" : 
+			adcategory="firstl"; break;
+		case "businessday" : 
+			adcategory="busday"; break;
+		case "ceocorner" : 
+			adcategory="ceoc"; break;
+		case "primetime" : 
+			adcategory="primet"; break;
+		case "sportslatenight" : 
+			adcategory="sportsl"; break;
+		case "home" : 
+			adcategory="homepage"; break;
+		case "necnbios" : 
+			adcategory="bios"; break;
+		case "worcester" : 
+			adcategory="worc"; break;
+		case "election2002" : 
+			adcategory="elect"; break;
+		default : adcategory = "homepage";
+
+		}
+	}
+
+setAdCategory(currentpage);
+
+function getAdCategory() {
+	return adcategory;
+	}
+
+// END AD CATEGORY CODE
+
+
+
+function openPlayer(contentid,categoryid){
+	var URL;
+	if (is_mac && (ie4||ie5)) {
+		var bOpen = confirm("                     .........::::::::::::::: PLEASE NOTE ::::::::::::::::...........\n\nPlease use Netscape 4.7X or higher with the Real Player\nPlug-In to ensure that you can properly view the Video content.\nIf you do not have Netscape, you can download it at\nhttp:\\www.netscape.com.\n\nWould you like to go there now?\n\n                .........:::::::::: Thank you. NECN.com :::::::::::...........");
+		if (bOpen) self.open('http://www.netscape.com','_self');
+		}
+	else {
+		URL='player.asp?adcategory='+getAdCategory()+'&contentid=' + contentid + '&amp;catid=' +categoryid;
+		if (navigator.appName=='Netscape'){
+			var playwin = window.open(URL,'play','width=638,height=542,scrollbars=no');
+			playwin.moveTo(50,50);
+			}
+		else {
+			if (!is_aol) {
+				var playwin = window.open(URL,'play','width=638,height=540,scrollbars=no');
+				playwin.moveTo(50,50);
+				}
+			else {
+				var playwin = window.open(URL,'play','width=640,height=540,scrollbars=no');
+				//playwin.moveTo(15,15);		
+				}
+			}
+
+		}
+	}
+
+function openEgg(URL){
+		if (navigator.appName=='Netscape'){
+		var eggwin = window.open(URL,'egg','width=350,height=540,scrollbars=no');
+		eggwin.moveTo(50,50);
+	}
+	 else {
+	  var eggwin = window.open(URL,'egg','width=350,height=540,scrollbars=no');
+		eggwin.moveTo(50,50);
+	}
+
+}
+
+
+function displayarticle(contentid) {
+	var URL;
+		URL='article.asp?contentid=' + contentid;
+		location.replace(URL);
+     }
+
+function swapImage(layId, imgName, objSource){ 
+			if (ns4) { 
+				document.layers[layId].document.images[imgName].src = eval(objSource+".src");
+		    } else {				
+				document[imgName].src = eval(objSource+".src");
+		    }
+		} 
+ 
+function setCurrentNavImg(current){
+	switch (current) {
+	  case 'home':		swapImage('Nav1','home','home'); break;
+		case 'sports':		swapImage('Nav1','sp','sp'); break;
+		case 'weather':		swapImage('Nav1','weather','weather'); break;
+		case 'jobsnecn':	swapImage('Nav1','jobs','jobs'); break;
+		case 'local':		swapImage('Nav1','local','local'); break;
+		case 'national':	swapImage('Nav1','nat','nat'); break;
+		case 'world':		swapImage('Nav1','wor','wor'); break;		
+		case 'business':	swapImage('Nav1','bus','bus'); break;		
+		case 'entertainment':swapImage('Nav1','ent','ent'); break;		
+		case 'sciencetech':	swapImage('Nav1','st','st'); break;		
+		case 'health':	swapImage('Nav1','he','he'); break;		
+		//case 'jaycarr': adcategory = "jayc"; break;
+		case 'features':	swapImage('Nav1','fe','fe'); break;		
+		//case 'phantomgourmet': adcategory = "phantom"; break;
+		case 'communitypages':	swapImage('Nav1','ne','ne'); break;		
+		case 'partners':	swapImage('Nav2','part','part'); break;
+		case 'links':		swapImage('Nav2','links','links'); break;		
+		case 'tvschedule':	swapImage('Nav2','tv','tv'); break;		
+		case 'findchannel':	swapImage('Nav2','loc','loc'); break;		
+		case 'cableaffiliates':	swapImage('Nav2','aff','aff'); break;		
+		case 'aboutnecn':		swapImage('Nav2','about','about'); break;		
+		case 'necnbios':	swapImage('Nav2','bios','bios'); break;		
+		case 'help':	swapImage('Nav2','help','help'); break;
+		}
+	}
+
+</script>
+<script language="javascript" src="inc/navimgs.js"></script>
+</head>
+
+<body onload="setCurrentNavImg(currentpage)" bgcolor="#444444" text="#000000" link="#003399" vlink="#003366" alink="#0033CC" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+
+<div id="searchfield" style="position:absolute; width:138; height:23; z-index:7; left: 642; top: 194; visibility: visible">
+<form name="search3" method="get" action="results.asp">
+<table width="138" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td align="center" height="35"><input type="text" name="qu" size="12" class="v12"></td>
+	</tr>
+</tbody></table>
+</form>
+</div>
+
+
+<div id="NECNlink" style="position:absolute; width:350; height:80; z-index:6; left: 140; top: 10; visibility: visible">
+<a href="default.asp"><img src="images/i.gif" height="80" width="350" border="0"></a>
+</div>
+
+<div id="adbelownav" style="position:absolute; width:120; height:80; z-index:9; left: 20; top: 680; visibility: visible">
+<a href="http://saturn.igetsmart.com/necn/shop.html" target="new"><img src="images/store.jpg" height="80" width="120" border="0"></a>
+</div>--&gt;
+
+<div id="adbelownav1" style="position:absolute; width:120; height:80; z-index:9; left: 20; top: 800; visibility: visible">
+<a href="citizens.asp" target="new"><img src="images/commchamps.jpg" height="80" width="120" border="0"></a>
+</div>--&gt;
+
+
+
+<div id="easteregg" style="position:absolute; width:15; height:15; z-index:6; left: 740; top: 54; visibility: visible">
+<a href="javascript:openEgg('easter.htm' )"><img src="images/i.gif" height="20" width="30" border="0"></a>
+</div>
+
+<div id="realplayer" style="position:absolute; width:15; height:15; z-index:6; left: 480; top: 57; visibility: visible">
+<a href="real.asp"><img src="images/realinfo.jpg" border="0"></a>
+</div>
+
+
+<div id="bgHeader" style="position:absolute; width:780px; height:147px; z-index:2; background-image: url(images/headbg.jpg); layer-background-image: url(images/headbg.jpg); border: 1px none #000000; left: 0; top: 8; visibility: visible"></div>
+
+<div id="weather" style="height: 82px; left: 12px; position: absolute; top: 17px; width: 127px; z-index: 3; visibility: visible"> 
+  <table width="127" align="left" cellpadding="0" cellspacing="0" border="0" height="82">
+		<tbody><tr>
+			<td width="127" height="82" align="left" valign="top" background="contentimages/WeatherForecast.jpg"><a class="contentid" href="javascript:openPlayer('{B57F01A0-CB0C-461D-AA86-AAEEFAE88A72}','{9F0BBCF9-659F-11D5-B645-00508BA37909}')"><img src="images/weathertransplay.gif" border="0"></a></td>
+		</tr>
+</tbody></table>
+</div>
+
+<div id="appTime" style="height:30px; left:484px; position:absolute; top:12px; width:280px; z-index:3; visibility: visible"> 
+<applet code="Time.class" codebase="" width="294" height="30" viewastext="TRUE" id="Applet1">
+<param name="delay" value="1000">
+<param name="textcolor" value="ffffff">
+<param name="backcolor" value="444444">
+<param name="bordercolor" value="444444">
+<param name="font" value="Arial">
+<param name="fontsize" value="12">
+<font face="verdana,sans-serif" size="1" class="v10bw">Java is not enabled.</font>
+</applet>
+</div>
+
+
+
+
+
+
+
+
+<div id="appNews" style="height:30px; left:162px; position:absolute; top:94px; width:90px; z-index:3; visibility: visible"> 
+	<applet code="hs.class" codebase="" width="618" height="21" viewastext="">
+		<param name="SELCOLOR" value="FF9900">
+		<param name="BGCOLOR" value="F7CE6B">
+		<param name="FGCOLOR" value="000000">
+		<param name="STATUS TEXT" value="">
+		<param name="FONT NAME" value="Helvetica">
+		<param name="FONT SIZE" value="16">
+		<param name="FONT STYLE" value="BOLD">
+		<param name="MSEP" value="200">
+		<param name="TARGET" value="_blank"> 
+<param name="link 1" value="">
+<param name="message 1" value="SPANISH WARSHIPS INTERCEPT NORTH KOREAN CARGO SHIP CARRYING MISSILES IN ARABIAN SEA HEADED FOR YEMENI PORT   ">
+<param name="link 2" value="">
+<param name="message 2" value="YEMENI OFFICIAL SAYS U.S. NAVY HAS RELEASED SHIP AND CARGO SENDING IT ON TO ORIGINAL DESTINATION OF YEMEN   ">
+<param name="link 3" value="">
+<param name="message 3" value="BUSH ADMINISTRATION SENDS NEW STRATEGY TO CONGRESS FOR COMBATTING WEAPONS OF MASS DESTRUCTION; 'THREE PILLARS' OF STRATEGY: NON-PROLIFERATION, COUNTER PROLIFERATION, 'CONSEQUENCE MANAGEMENT'  ">
+<param name="link 4" value="">
+<param name="message 4" value="ILLEGAL INTIMIDATION OR FREE SPEECH? U.S. SUPREME COURT TO CONSIDER KU KLUX KLAN CROSS-BURNING DURING SESSION TODAY   ">
+<param name="link 5" value="">
+<param name="message 5" value="CONSUMERS UNION: DRUG-RESISTANT BACTERIA THAT CAN CAUSE FOOD POISONING IS NOT UNCOMMON IN SUPERMARKET CHICKEN   ">
+<param name="link 6" value="">
+<param name="message 6" value="FBI TESTIMONY: 9/11 HIJACKERS MAY HAVE USED SOME SORT OF GAS ON AMERICAN AIRLINES FLIGHT ELEVEN; FLIGHT ATTENDANT SAID IT WAS 'HARD TO BREATHE' DURING EMERGENCY PHONE CALL  ">
+<param name="link 7" value="">
+<param name="message 7" value="ARIZONA MAN IN CUSTODY FOLLOWING SHOOTING DEATHS OF WIFE, FOUR MEMBERS OF HER FAMILY IN MESA; KEMP CROWLEY BLAMES DEATHS ON DEAD BROTHER-IN-LAW   ">
+<param name="link 8" value="">
+<param name="message 8" value="NTSB: FAA PROVIDED LAX OVERSIGHT, SHODDY MAINTENANCE TO ALASKA AIRLINES PRIOR TO CRASH OFF CALIFORNIA TWO YEARS AGO; 88 PEOPLE KILLED IN CRASH   ">
+<param name="link 9" value="">
+<param name="message 9" value="SEC CHAIR NOMINEE WILLIAM DONALDSON: 'CLEAR MISSION' IS STAMPING OUT CORPORATE FRAUD   ">
+<param name="link 10" value="">
+<param name="message 10" value="CHIEF U.N. WEAPONS INSPECTOR HANS BLIX: REVIEW OF IRAQI WEAPONS DECLARATION TO BE COMPLETED BY END OF WEEK   ">
+<param name="link 11" value="">
+<param name="message 11" value="SUNKEN OIL TANKER OFF SPAIN IS LEAKING 33,000 GALLONS OF OIL PER DAY, TOTALLING FIVE MILLION GALLONS; AUTHORITIES SAY TANKER COULD LEAK UNTIL 2006  ">
+<param name="link 12" value="">
+<param name="message 12" value="PENTAGON NEARS COMPLETION OF MILITARY TRIBUNAL PLANS, COMPILES LISTS OF JUDGE ADVOCATES, MILITARY LAWYERS, OFFICERS; COURTS TO BE RESERVED FOR NON-CITIZEN ACCUSED TERRORISTS  ">
+<param name="link 13" value="">
+<param name="message 13" value="U.N. WEAPONS INSPECTORS STEP UP WORK, VISIT 13 DIFFERENT SITES, MOST SINCE INSPECTIONS BEGAN TWO WEEKS AGO   ">
+<param name="link 14" value="">
+<param name="message 14" value="TEXAS MAN CONVICTED OF KEEPING EIGHT-YEAR-OLD STEPDAUGHTER LOCKED IN DIRTY CLOSET FOR MONTHS; CHILD LACKED FOOD, WATER, TOILET; KENNETH ATKINSON TO RECEIVE FIVE YEARS TO LIFE IN PRISON  ">
+<param name="link 15" value="">
+<param name="message 15" value="BOSTON-BOUND COMMUTER TRAIN STRIKES CAR AT RAIL CROSSING IN N. ANDOVER, KILLING MARY SIEGEL, 80, OF LAWRENCE AND JULIETTE CONDEE, 82, OF METHUEN   ">
+
+	</applet>  
+ </div>
+
+<div id="sectionLinks" style="position:absolute; width:770; height:14; z-index:3; visibility: visible; left: 4; top: 122"> 
+  <table width="780" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr valign="top" height="14">
+		<td align="center"><a href="Election2002.asp" class="sctLink"> Election 2002</a></td>
+		<td align="center" class="v10bw">|</td>
+		<td align="center"><a href="jaycarr.asp" class="sctLink"> Jay Carr</a></td>
+		<td align="center" class="v10bw">|</td>
+		<td align="center"><a href="phantomgourmet.asp" class="sctLink"> Phantom Gourmet</a></td>
+		<td align="center" class="v10bw">|</td>
+		<td align="center"><a href="businessday.asp" class="sctLink"> Business Day</a></td>
+		<td align="center" class="v10bw">|</td>
+		<td align="center"><a href="newsnight.asp" class="sctLink"> NewsNight</a></td>
+		<td align="center" class="v10bw">|</td>
+		<td align="center"><a href="ceocorner.asp" class="sctLink"> CEO Corner</a></td>
+		<td align="center" class="v10bw">|</td>
+		<td align="center"><a href="news9.asp" class="sctLink"> News at 9</a></td>
+		<td align="center" class="v10bw">|</td>
+		<td align="center"><a href="worcester.asp" class="sctLink"> Worcester News</a></td>
+	</tr>
+</tbody></table>
+</div>
+
+<div id="bgNav" style="position:absolute; width:161px; height:530px; z-index:3; left: 0; top: 151; background-image: url(images/navbg.jpg); layer-background-image: url(images/navbg.jpg); border: 1px none #000000; visibility: visible"></div>
+
+
+
+<div id="Nav1" style="position:absolute; width:128px; height:234px; z-index:3; left: 19; top: 155; visibility: visible">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr height="20" bgcolor="#f9e9c6">
+			<td><a href="default.asp" onmouseover="swapImage('Nav1','home','home2')" onmouseout="swapImage('Nav1','home','home')">
+		<img name="home" src="img/home.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="weather.asp" onmouseover="swapImage('Nav1','weather','weather2')" onmouseout="swapImage('Nav1','weather','weather')">
+		<img name="weather" src="img/weather.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="local.asp" onmouseover="swapImage('Nav1','local','local2')" onmouseout="swapImage('Nav1','local','local')">
+		<img name="local" src="img/local.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="national.asp" onmouseover="swapImage('Nav1','nat','nat2')" onmouseout="swapImage('Nav1','nat','nat')">
+		<img name="nat" src="img/nat.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="world.asp" onmouseover="swapImage('Nav1','wor','wor2')" onmouseout="swapImage('Nav1','wor','wor')">
+		<img name="wor" src="img/wor.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="sports.asp" onmouseover="swapImage('Nav1','sp','sp2')" onmouseout="swapImage('Nav1','sp','sp')">
+		<img name="sp" src="img/sp.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="business.asp" onmouseover="swapImage('Nav1','bus','bus2')" onmouseout="swapImage('Nav1','bus','bus')">
+		<img name="bus" src="img/bus.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="entertainment.asp" onmouseover="swapImage('Nav1','ent','ent2')" onmouseout="swapImage('Nav1','ent','ent')">
+		<img name="ent" src="img/ent.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="sciencetech.asp" onmouseover="swapImage('Nav1','st','st2')" onmouseout="swapImage('Nav1','st','st')">
+		<img name="st" src="img/st.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="health.asp" onmouseover="swapImage('Nav1','he','he2')" onmouseout="swapImage('Nav1','he','he')">
+		<img name="he" src="img/he.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="20" bgcolor="#f9e9c6">
+			<td><a href="features.asp" onmouseover="swapImage('Nav1','fe','fe2')" onmouseout="swapImage('Nav1','fe','fe')">
+		<img name="fe" src="img/fe.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="19">
+			<td><a href="jobsnecn.asp" onmouseover="swapImage('Nav1','jobs','jobs2')" onmouseout="swapImage('Nav1','jobs','jobs')">
+		<img name="jobs" src="img/jobs.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		
+	</tbody></table>
+</div>
+
+<div id="Feedback" style="position:absolute; width:80px; height:16; z-index:3; visibility: visible; left: 48px; top: 402px"><a href="feedback.asp" class="feed"><b>FEEDBACK</b></a></div>
+
+<div id="FeedbackBtn" style="position:absolute; width:70px; height:12; z-index:3; left: 82; top: 424; visibility: visible"><a href="feedback.asp" class="click">click here</a></div>
+
+<div id="Nav2" style="position:absolute; width:125px; height:144px; z-index:3; left: 20; top: 456; visibility: visible">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr height="19">
+			<td><a href="partners.asp" onmouseover="swapImage('Nav2','part','part2')" onmouseout="swapImage('Nav2','part','part')">
+		<img name="part" src="img/part.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="19">
+			<td><a href="communitypages.asp" onmouseover="swapImage('Nav2','ne','ne2')" onmouseout="swapImage('Nav2','ne','ne')">
+		<img name="ne" src="img/ne.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="19" bgcolor="#f9e9c6">
+			<td><a href="tvschedule.asp" onmouseover="swapImage('Nav2','tv','tv2')" onmouseout="swapImage('Nav2','tv','tv')">
+		<img name="tv" src="img/tv.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="19" bgcolor="#f9e9c6">
+			<td><a href="findchannel.asp" onmouseover="swapImage('Nav2','loc','loc2')" onmouseout="swapImage('Nav2','loc','loc')">
+		<img name="loc" src="img/loc.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="19" bgcolor="#f9e9c6">
+			<td><a href="cableaffiliates.asp" onmouseover="swapImage('Nav2','aff','aff2')" onmouseout="swapImage('Nav2','aff','aff')">
+		<img name="aff" src="img/aff.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="19" bgcolor="#f9e9c6">
+			<td><a href="aboutnecn.asp" onmouseover="swapImage('Nav2','about','about2')" onmouseout="swapImage('Nav2','about','about')">
+		<img name="about" src="img/about.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="19" bgcolor="#f9e9c6">
+			<td><a href="necnbios.asp" onmouseover="swapImage('Nav2','bios','bios2')" onmouseout="swapImage('Nav2','bios','bios')">
+		<img name="bios" src="img/bios.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		<tr height="19" bgcolor="#f9e9c6">
+			<td><a href="help.asp" onmouseover="swapImage('Nav2','help','help2')" onmouseout="swapImage('Nav2','help','help')">
+		<img name="help" src="img/help.gif" border="0" height="19" width="127"></a></td>
+		</tr>
+		
+	</tbody></table>
+</div>
+
+<div id="SignupBtn" style="position:absolute; width:70px; height:12; z-index:3; left: 82; top: 657; visibility: visible"><a href="necnmail_login.asp" class="click">click here</a></div>
+
+<div id="Signup" style="position:absolute; width:118px; height:40; z-index:3; left: 22; top: 615; visibility: visible"><div align="center"><a href="necnmail_login.asp" class="feed">SIGNUP FOR<br>E-MAIL<br>NEWS ALERT</a></div></div>
+
+<div id="bgSearch" style="position:absolute; width:148px; height:107; z-index:5; left: 632; top: 151; visibility: visible; background-image: url(images/searchbg.jpg); layer-background-image: url(images/searchbg.jpg); border: 1px none #000000">
+  <div align="center"></div>
+</div>
+
+<div id="bgRight" style="position:absolute; width:148; height:497; z-index:6; left: 632; top: 258; visibility: visible; background-image: url(images/righttile.gif); layer-background-image: url(images/righttile.gif); border: 1px none #000000">
+  <div align="center"><font face="Arial, Helvetica, sans-serif"><a href="http://www.phantomgourmet.com" target="_blank"><font size="2"><b>Click 
+    Here to Visit PhantomGourmet.com!</b></font></a></font></div>
+</div>
+
+<script>
+if (!document.layers) { document.write('<div id="mainContent" style="position:absolute; width:788px; height:600; z-index:1; visibility: visible; left: 0px; top: 0px">') }
+</script><div id="mainContent" style="position:absolute; width:788px; height:600; z-index:1; visibility: visible; left: 0px; top: 0px">
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td colspan="3"><img src="images/i.gif" width="780" height="154" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td width="161" height="900" background="images/sidelf.gif" valign="bottom"> <a href="http://www.exstreamsolutions.com" target="new"><img src="images/logo.jpg" alt="eXstream Solutions" border="0"><br><br></a>
+		<img src="images/mirrorimage.jpg" hspace="18"><script language="javascript">if(ns4) document.write ("<img src='images/i.gif' width=15>")</script>
+		</td>
+		<td width="471" background="images/bgpage.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img src="images/i.gif" width="1" height="600" border="0"></td><td valign="top" width="471">
+
+ 
+<div align="center"><br>
+</div>
+<table width="471" border="0" cellspacing="5" cellpadding="0" background="images/i.gif">
+<tbody><tr>
+    <td valign="top"> 
+      <p align="center"><font face="Arial, Helvetica, sans-serif"><b><font size="-1" face="Verdana, Arial, Helvetica, sans-serif">NECN.com 
+        Privacy Policy</font></b></font></p>
+      <p>NECN.com places the highest priority on your privacy. We are committed 
+        to all the conventional practices regarding privacy. We will not use any 
+        of the information you give us for any mailings without your express permission. 
+        We will not sell your information to anyone. </p>
+      <p>Our software may place a cookie on your computer. It is to help us serve 
+        video to you as efficiently as possible. </p>
+      <p>If you have any questions about our privacy policy, or wish to make a 
+        suggestion on how we can improve it, please send an email to <a href="mailto:help@necn.com">help@necn.com</a> 
+        and we will respond promptly.</p>
+      <p>THIRD PARTY ADVERTISING</p>
+      <p> The ads appearing on this Web site are delivered to you by DoubleClick, 
+        our Web advertising partner. Information about your visit to the site, 
+        such as number of times you have viewed an ad (but not your name, address, 
+        or other personal information), is used to serve ads to you on this site. 
+        For more information about DoubleClick, cookies, and how to "opt-out", 
+        please click here: <a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank">http://www.doubleclick.net/us/corporate/privacy</a></p>
+      <p> </p>
+      <p> THIRD PARTY COOKIES</p>
+      <p> In the course of serving advertisements to this site, our third-party 
+        advertiser may place or recognize a unique cookie on your browser.</p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </td>
+</tr>
+</tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td background="images/i.gif"><img src="images/i.gif" width="462" height="1" border="0"></td></tr></tbody></table>
+
+</td></tr></tbody></table>
+		</td>
+		<td width="148" background="images/sidert.gif"><img src="images/i.gif" width="148" height="300" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="3" background="images/bgfooter.jpg">
+			<table width="780" border="0" cellspacing="0" cellpadding="0" background="images/i.gif">
+				<tbody><tr>
+					
+				<td width="40"><img src="images/i.gif" width="40" height="20"> </td>
+					<td width="740" height="60" class="v14bw">
+						<a href="feedback.asp" class="foot"><b> Feedback</b></a>
+						  &nbsp;| &nbsp;
+						<a href="aboutnecn.asp" class="foot"><b>About NECN</b></a>
+							&nbsp; | &nbsp;
+						<a href="help.asp" class="foot"><b>Help</b></a>
+							 &nbsp;| &nbsp;
+						<a href="necnmail_login.asp" class="foot"><b>Signup For E-mail News Alerts</b></a> 
+								&nbsp; | &nbsp;
+						<a href="privacy.asp" class="foot"><b>Privacy Policy</b></a> 
+								&nbsp; | &nbsp;
+						<a href="default.asp" class="foot"><b>Home</b></a>
+					</td>
+				</tr>		
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<script>
+if (!document.layers) { document.write('</div>') }
+</script></div>
+
+<div id="searchBtn" style="position:absolute; width:30; height:14; z-index:8; left: 751; top: 233; visibility: visible"><a href="javascript:ralph()" class="feed">GO</a></div>
+
+<div id="searchkey" style="position:absolute; width:90; height:14; z-index:8; left: 667; top: 181; visibility: visible" class="v12b">Enter Keywords</div>
+
+<div id="searchtitle" style="position:absolute; width:40; height:14; z-index:8; left: 692; top: 160; visibility: visible" class="v12bw">Search</div>
+
+<script language="javascript">
+document.write("<layer id=\"adLayer\" src=\"adx.asp?adcategory=" + adcategory + " width=\"120\" height=\"400\" visible=\"show\" top=\"320\" left=\"646\"></layer>");
+
+document.write("<iframe width=\"120\" height=\"400\" frameborder=\"0\" marginwidth=\"0\" scrolling=\"no\" border=\"0\" src=\"adx.asp?adcategory=" + adcategory + "\" id=adFrame></iframe>")
+</script><layer id="adLayer" src="adx.asp?adcategory=homepage width=" 120"="" height="400" visible="show" top="320" left="646"></layer><iframe width="120" height="400" frameborder="0" marginwidth="0" scrolling="no" border="0" src="adx.asp?adcategory=homepage" id="adFrame"></iframe>
+<!-- put small ad like dunkin donuts here -->
+
+
+	 <div id="rightad1" style="position:absolute; width:90; height:14; z-index:8; left: 646; top: 885; visibility: visible"><a href="http://www.necn.com/dreamhouse.asp" target="new"> <img src="images/DH_button.jpg" alt="Click to enter" border="0"></a></div>
+
+	 <div id="rightad2" style="position:absolute; width:90; height:14; z-index:8; left: 646; top: 970; visibility: visible"><a href="http://www.necn.com/forest.asp" target="new"> <img src="images/forest.jpg" alt="Click to enter" border="0"></a></div>
+
+<script language="javascript">
+function ralph() {if (document.layers) {document.location.href = "results.asp?qu=" + document.searchfield.document.search3.qu.value + "";} else {document.location.href = "results.asp?qu=" + document.search3.qu.value + "";}}
+</script>
+<script>
+if (!document.layers) { document.write('<br><img src="images/i.gif" width="1" height="1" border="0">') }
+</script><br><img src="images/i.gif" width="1" height="1" border="0">
+
+
+
+</body></html>
