@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesouthern.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208005712id_/http%3A//www.thesouthern.com/template.php%3Fp%3Dspecial/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesouthern.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204043514id_/http%3A//thesouthern.com/template.php%3Fp%3Dspecial/privacy.php) for the most accurate reproduction.*
 
 # The Southern Illinoisan
 
