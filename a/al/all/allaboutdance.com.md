@@ -1,61 +1,11 @@
-> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205015201id_/http%3A//www.allaboutdance.com/Merchant2/merchant.mv%3FScreen%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611050637id_/http%3A//www.allaboutdance.com/Merchant2/merchant.mvc%3FScreen%3DPRIVACY) for the most accurate reproduction.*
 
 # Privacy Information
 
-|  [ View Shopping Cart](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=BASK&Store_Code=AAD)  
----  
-Quantity in Basket:  | none|    
-  
-  
-[Account Members Sign-In](https://www.allaboutdance.com/Merchant2/merchant.mv?Session_ID=3FCFE4B60003F7B000005E1D00000000&Screen=LOGN&Order=0) **Categories**   
-[ACCESSORIES & GIFTS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=accessories "ACCESSORIES & GIFTS")  
-[BALLET SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=ballet "BALLET SHOES")  
-[BALLROOM SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=ballroom "BALLROOM SHOES")  
-[BODYWEAR & DANCEWEAR](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=body "BODYWEAR & DANCEWEAR")  
-[BOOKS, VIDEOS, DVDs, CDs](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=BVD "BOOKS, VIDEOS, DVDs, CDs")  
-[CHEERLEADING](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=cheer "CHEERLEADING")  
-[EXERCISE & ACTIVE WEAR](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=exercise "EXERCISE & ACTIVE WEAR")  
-[GIFT CERTIFICATES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=gift-cert "GIFT CERTIFICATES")  
-[GYMNASTICS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=gymnastics "GYMNASTICS")  
-[JAZZ](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=jazz "JAZZ")  
-[DANCE MAGAZINES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=magazines "Dance Magazine")  
-[MEN'S SECTION](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=mens "MEN'S SECTION")  
-[MISCELLANEOUS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=misc "MISCELLANEOUS")  
-[POINTE SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=pointe "POINTE SHOES")  
-[T-SHIRTS, SHORTS, ETC.](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=t-short "T-SHIRTS, SHORTS, ETC.")  
-[TAP SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=tap "TAP SHOES")  
-[TIGHTS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=tights "TIGHTS")  
-[CLEARANCE PRODUCTS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=zz-clearance "CLEARANCE PRODUCTS")  
-[*NEW PRODUCTS*](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=zz-products "*NEW PRODUCTS*")
-
-**Information**  
-[Live Help ](http://www.allaboutdance.com/chat)  
-[**Request a CATALOG**](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CATALOG)  
-[Track Your Order](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=TRACKING)  
-[Product Search](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=SRCHM)  
-[Contact Us](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=INFO#contact)  
-[Return Policy](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=INFO#return)  
-[Shipping Rates](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=INFO#shipping)  
-[Privacy Policy](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=PRIVACY)
-
-**Sizing & Color Charts**  
-[General Sizing Charts](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=SIZING)  
-[Tights Sizing Charts](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=SIZING-TIGHTS)  
-[Shoe Size Conversions](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=SIZING-SHOES)  
-[Color Charts](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=COLORS)
-
-[ ](https://www.thawte.com/cgi/server/certdetails.exe?code=USBROA29-3)
-
-**We Accept**   
+|    
 
 
-  
-
-
->   
-> **Privacy Policy**
-> 
-> **Your Personal Information**
+> **Privacy Policy** **Your Personal Information**
 > 
 > We at AllAboutDance.com recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our site to provide you with a superior shopping experience. When you order, we will ask you to set up "your account," which includes your name, e-mail address, mailing address and other general information. In addition, we ask that you indicate whether you would like to receive e-mail from AllAboutDance.com keeping you informed of new products or features. If you would like to review or revise the information we have in your account, you may access such information by clicking on the "account" link on any screen.
 > 
