@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605105635id_/http%3A//www.cleveland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204011830id_/http%3A//www.cleveland.com/privacypolicy) for the most accurate reproduction.*
 
 # cleveland.com: Privacy Policy
 
@@ -7,7 +7,7 @@
   
 **Privacy Policy**
 
-Last Revised **August 14, 2002**
+Last Revised **July 28, 2004**
 
 Kids and parents click here!
 
@@ -59,7 +59,7 @@ If you have other concerns or questions about any aspect of this policy, you may
 
 Privacy Policy Coordinator  
 cleveland.com  
-700 West Saint Clair Ave. Suite 414  
+2019 Center Street, Suite 200  
 Cleveland, OH 44113 
 
 |  |  INSIDE  
@@ -71,7 +71,7 @@ Cleveland, OH 44113
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
   
-[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.cleveland.com/privacypolicy/index.ssf/NQS/1974957363/Tile1/CLEVELANDLIVE/NEXTHOME06CL09/NextHome_190x45b.gif/64316564656561643430633161366530)   
+[](http://ads2.udc.advance.net/RealMedia/ads/click_lx.ads/www.cleveland.com/privacypolicy/index.ssf/NQS/1450687326/Tile1/CLEVELANDLIVE/SMECLEV07CL12/morning_190x90.gif/64316564656561663431623131303630)   
   
   
 
