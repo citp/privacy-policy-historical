@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fox29.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202071736id_/http%3A//www.fox29.com/aboutus/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox29.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207060330id_/http%3A//www.fox29.com/aboutus/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # UPN 29 WFTC : Privacy Policy
 
-**www.fox29.com**  
+**www.upn29.com**  
  **PRIVACY POLICY**
 
   
