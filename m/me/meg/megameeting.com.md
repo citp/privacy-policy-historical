@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megameeting.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610002742id_/http%3A//megameeting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megameeting.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205002603id_/http%3A//www.megameeting.com/privacy.html) for the most accurate reproduction.*
 
-# Video Conferencing, Web Conferences; Live Online Meetings With Webcams, Chat; Audio: MegaMeeting
+# Video Conferencing Software, Web Conferences; Live Online Internet Meetings: MegaMeeting.com
 
 _PRIVACY POLICY OF MEGAMEETING.COM_
 
@@ -108,6 +108,6 @@ You may access your account as Member to edit it if you log on and then click on
 
 _**111\. Printer Friendly Versions.**_
 
-For a printer friendly version of the MegaMeeting.com Privacy Policy [_CLICK HERE_](https://web.archive.org/web/20040610002742id_/http%3A//megameeting.com/privacyfull.html)
+For a printer friendly version of the MegaMeeting.com Privacy Policy [_CLICK HERE_](https://web.archive.org/web/20041205002603id_/http%3A//www.megameeting.com/privacyfull.html)
 
-For a printer friendly version of the MegaMeeting.com User Agreement [_CLICK HERE_](https://web.archive.org/web/20040610002742id_/http%3A//megameeting.com/termsfull.html)
+For a printer friendly version of the MegaMeeting.com User Agreement [_CLICK HERE_](https://web.archive.org/web/20041205002603id_/http%3A//www.megameeting.com/termsfull.html)
