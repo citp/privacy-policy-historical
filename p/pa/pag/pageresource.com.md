@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 1999-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991111175831id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2000-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000603071904id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for PageResource.Com
 
@@ -62,7 +62,7 @@ This site gives users the following options for changing and modifying informati
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact John Pollock The Web Design Resource 409-539-1231 john@pageresource.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact John Pollock The Web Design Resource 409-295-4567 john@pageresource.com
 
 * * *
 
