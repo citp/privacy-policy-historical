@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024202429id_/http%3A//www.sparknotes.com/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402172558id_/http%3A//www.sparknotes.com/legal/privacy.html) for the most accurate reproduction.*
 
-# SparkNotes.com Privacy Policy
-
-## Privacy Statement
+# SparkNotes: Privacy Statement
 
 SparkNotes LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: SparkNotes.com. 
 
@@ -39,5 +37,5 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-[MEMBERSHIP PAGE](http://cgi.sparknotes.com/unsub2.mpl)
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact SparkNotes LLC 76 9th Avenue 9th Floor New York, NY 10011 [ comments@sparknotes.com](mailto:comments@sparknotes.com)[return to SparkNotes.com](https://web.archive.org/)     [read our Terms and Conditions](https://web.archive.org/web/20011024202429id_/http%3A//www.sparknotes.com/legal/terms.html)
+[MEMBERSHIP PAGE](http://login.sparknotes.com/cancel.mpl)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact SparkNotes LLC 76 9th Avenue 9th Floor New York, NY 10011 [ comments@sparknotes.com](mailto:comments@sparknotes.com)[return to SparkNotes.com](https://web.archive.org/)     [read our Terms and Conditions](http://www.sparknotes.com/legal/terms.html)
