@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621085649id_/http%3A//www.govexec.com/fyi/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204195344id_/http%3A//www.govexec.com/fyi/privacy.htm) for the most accurate reproduction.*
 
 # Government Executive Magazine - 12/16/02 GovExec.com's Privacy Policy
 
