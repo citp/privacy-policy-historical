@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardesignnews.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201173044id_/http%3A//cardesignnews.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardesignnews.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403002513id_/http%3A//cardesignnews.com/help/legal/privacy.html) for the most accurate reproduction.*
 
 # Car Design News - Legal Notices
 
