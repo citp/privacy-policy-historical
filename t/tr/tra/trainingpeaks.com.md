@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213091432id_/http%3A//www.theactivenetwork.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2005-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050301093301id_/http%3A//www.theactivenetwork.com/privacystatement) for the most accurate reproduction.*
 
 # The Active Network
 
@@ -33,7 +33,7 @@ Active makes various public forums (such as message boards, chat rooms or news g
 
 **4\. Security.**
 
-Active uses a variety of security measures to maintain the safety of your personal information. Credit card numbers are encrypted in Active's secure database which is located behind a firewall. Personal information collected on Active is stored in a secure operating environment that is not available to the public. All credit card and registration information supplied by users is transmitted via [Secure Socket Layer](https://web.archive.org/web/20041213091432id_/http://www.theactivenetwork.com/privacystatement/secure.cfm) (SSL) technology. Active's technology department conducts frequent site-security audits. 
+Active uses a variety of security measures to maintain the safety of your personal information. Credit card numbers are encrypted in Active's secure database which is located behind a firewall. Personal information collected on Active is stored in a secure operating environment that is not available to the public. All credit card and registration information supplied by users is transmitted via [Secure Socket Layer](https://web.archive.org/web/20050301093301id_/http://www.theactivenetwork.com/privacystatement/secure.cfm) (SSL) technology. Active's technology department conducts frequent site-security audits. 
 
 **5\. Protecting Yourself.**
 
