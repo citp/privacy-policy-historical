@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211233146id_/http%3A//www.ishafoundation.org/privacy.asp) for the most accurate reproduction.*
 
 # Isha's Privacy Policy Statement
-
-[](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/default.asp)  
-[](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/yogacenter.asp)  
-[](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/dhyanalingam.asp)  
-[](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/forestflower.asp)  
-[](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/volunteers.asp)  
-[](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/jaggi.asp)  
-[](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/contact.asp)  
-[](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/questions.asp)  
-
-
-* * *
-
-  
-[Tell-A-Friend](http://tools.hitbox.com/bin/tellafriend/tellafriend.cgi?client_id=41052&tool_instance_id=1&action=tell)   
-| 
 
 > This is the web site of **Isha Foundation**. 
 > 
@@ -25,7 +9,7 @@
 >  Reynoldsburg, OH 43068 USA**
 > 
 > We can be reached via e-mail at [info@ishafoundation.org](mailto:info@ishafoundation.org)  
->  or you can reach us by telephone at 614-575-1748 or from the numbers provided on our [contact page](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/contact.asp)
+>  or you can reach us by telephone at 614-575-1748 or from the numbers provided on our [contact page](https://web.archive.org/web/20011211233146id_/http%3A//www.ishafoundation.org/contact.asp)
 > 
 > For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 > 
@@ -65,7 +49,18 @@
 > If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
 |    
+
+
+|   
+---  
   
-[**Schedule of Programs**](https://web.archive.org/web/20010619084120id_/http%3A//www.ishafoundation.org/schedule.asp)   
+Only Isha  
+The Web
+
+  All words  
+Any Word   
   
+  
+  
+[](https://web.archive.org/web/20011211233146id_/http%3A//www.ishafoundation.org/forums/default.asp)   
 
