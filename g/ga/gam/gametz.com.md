@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604063010id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204081958id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
 
 # Game Trading Zone - Privacy
 
@@ -48,4 +48,4 @@ If you have any questions about this privacy statement, the practices of this si
 
   
 Copyright © 1996-2002 Kenyon Hill LLC. All rights reserved.  
-[Take our Poll](http://38.148.250.3/cgi-win/client.exe?readers,welcome,ad5418a,2000) \- [Privacy Statement](http://gametz.com/Privacy.html) \- [Advertising](http://gametz.com/Advertising.html) \- [Subscribe](http://gametz.com/Subscribe.html)
+[Take our Poll](http://survey.burstmedia.com/cgi-win/client.exe?readers,welcome,ad5418a,2000) \- [Privacy Statement](http://gametz.com/Privacy.html) \- [Advertising](http://gametz.com/Advertising.html) \- [Subscribe](http://gametz.com/Subscribe.html)
