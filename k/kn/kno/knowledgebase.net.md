@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgebase.net privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211115124id_/http%3A//knowledgebase.net/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgebase.net privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408132611id_/http%3A//knowledgebase.net/company/privacy.html) for the most accurate reproduction.*
 
 # Knowledge Base Privacy Policy
 
