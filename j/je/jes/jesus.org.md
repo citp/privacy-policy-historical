@@ -1,72 +1,86 @@
-> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609180740id_/http%3A//www.crosswalk.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216173800id_/http%3A//www.jesus.org/info/1%2C6351%2C2522%2C00.htm) for the most accurate reproduction.*
 
-# Crosswalk.com Privacy Policy
+# Crosswalk.com - The intersection of faith and life
 
-|  **[My.Crosswalk](http://my.crosswalk.com/)**  
----  
-**[Sports](http://sports.crosswalk.com/)**  
-**[Music](http://music.crosswalk.com/)**  
-**[Movies](http://movies.crosswalk.com/)**  
-**[Events](http://events.crosswalk.com/)**  
-**[Money](http://money.crosswalk.com/)**  
-**[Health](http://health.crosswalk.com/)**  
-**[Careers](http://careers.crosswalk.com/)**  
-**[HomeSchool](http://homeschool.crosswalk.com/)**  
-**[Men](http://men.crosswalk.com/)**  
-**[Women](http://women.crosswalk.com/)**  
-**[News](http://news.crosswalk.com/)**  
-**[Spiritual Life](http://spiritual.crosswalk.com/)**  
-**[Entertainment](http://entertainment.crosswalk.com/)**  
-**[Live It!](http://liveit.crosswalk.com/)**  
-**[Study Tools](https://web.archive.org/web/20000609180740id_/http%3A//www.crosswalk.com/info/$byeserver/?http://bible.crosswalk.com/)**  
-**[Greeting Cards](https://web.archive.org/web/20000609180740id_/http%3A//www.crosswalk.com/info/$byeserver/?http://cards.crosswalk.com/)**  
-**[Webcast Guide](https://web.archive.org/web/20000609180740id_/http%3A//www.crosswalk.com/info/$byeserver/?http://webcast.crosswalk.com/)**  
-**[More...](http://www.crosswalk.com/more/)**  
   
-ADVERTISEMENT [](http://jonathan.didax.com/RealMedia/ads/click_lx.ads/www.crosswalk.com/info/privacy/_vgn182564115530297.html/16224/Left/wpbt0600/GetYour.gif/63653834626138633339343133323630)  
----  
+|  |    
+Respecting Your Rights  
+Crosswalk.com Privacy Policy
+
+**The privacy policy below explains in detail how we collect and use information about our users. We take your privacy very seriously. We won't rent, sell, or loan any information about you. We only provide information in aggregate to our advertisers -- never individual information. You're safe with us.**   
+
+
+* * *
+
+Crosswalk.com takes your trust - and your right to privacy - very seriously. The following privacy policy outlines for your review the type of information we gather - and how we use it - from members, registered users and visitors of www.crosswalk.com and related areas (email newsletters, job search applications, and so on). 
+
+**Crosswalk.com gathers two types of information:**
+
+  1. Registration data, which you provide directly in order to receive optional access to certain services or site areas and which may or may not require both demographic information (name, email address, zip code, age, and so on) and preference information (username, password, desired newsletters, and so on),   
+
+  2. Usage information, which is automatically provided by each user's browser for each page requested on our site (commonly referred to as web site log data).
+
+Registration Data   
+This data is analyzed and presented as appropriate to third parties such as advertisers only in an aggregate form, primarily for the purpose of supporting the free provision of content and services at crosswalk.com via the most appropriate and relevant advertising messaging possible. Select partners who provide individualized services such as CCNmail or Financial Passport to crosswalk.com users receive individual data as necessary to provide their services and only when such data is provided directly by our users. Crosswalk.com and said partners may only disclose to other third parties certain aggregate information contained in users' registration applications. Neither crosswalk.com nor partners will disclose any individual user's name, address, e-mail address or telephone number without such user's prior consent, except to the extent necessary or appropriate to comply with applicable laws or in legal proceedings where such information is relevant. 
+
+Crosswalk.com does not knowingly accept or use personal profile information from children 12 years old or younger. 
+
+Usage (Log) Data   
+We gather and analyze users' current Internet Protocol (IP) addresses -- an address typically assigned to individual browsers by your Internet Service Provider (ISP) -- to help with a variety of site management issues, none of which allow us to connect your IP address with your personal identity. For example, we use log data to:
+
   
-|   
-_Crosswalk.com_ inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; [http://www.crosswalk.com](http://www.crosswalk.com/) (formerly www.christcom.net). 
 
-_Crosswalk.com_ gathers two types of information: Registration data including demographic (zip code, age, or income level) and preference information, that users provide through an optional registration process, and usage information that is automatically provided by each user's browser for each page requested on our site (commonly referred to as web site log data). 
+  * diagnose problems with our server,   
 
-**Registration Data**   
-The registration data is analyzed and presented to advertisers only in an aggregate form. Individual data is shared with select partners who provide individualized services, such as CCNMAIL, to Crosswalk.com users. Crosswalk.com and said partners may only disclose to third parties certain aggregate information contained in Users' registration applications. Neither Crosswalk.com nor partners will disclose any individual User's name, address, e-mail address or telephone number without such User's prior consent, except to the extent necessary or appropriate to comply with applicable laws or in legal proceedings where such information is relevant. 
+  * evaluate the sources of our user traffic (ie. where site visitors clicked from to reach us),   
 
-Our site's registration form requires users to give us contact information (like their email address and optionally their street address). If provided, we may use this contact information from the registration form to send the user information about our company and occasional promotional material from our partners. Users may opt-out of receiving initial mailings at the time of registration or opt-out of future mailings; see the delete/deactivate section below. Demographic and profile data is also collected at our site. We use this data to tailor the user's experience at our site, showing content that correlates with user's demographics or profile information, and displaying the content according to user's preferences. This information is shared with advertisers only on an aggregate basis. 
+  * determine traffic patterns through our site (to build better internal links and improve your ability to find what you want),   
 
-**Log Data**   
-We use users' current Internet Protocol (IP) addresses -- an address typically assigned to individual browsers by your Internet Service Provider (ISP) -- to help diagnose problems with our server, and to administer our Web site. We also collect and analyze refer data (information about the page you entered our site from) to better evaluate the sources of our user traffic. Log data is also analyzed to determine traffic patterns through our site. Overall statistics of browser-supplied information such as browser type and domain name are collected and analyzed in an aggregate manner. 
+  * understand and optimize our site for the broadest selection of browser types (again, to improve your experience).
 
-**Contests**   
-We run contests on our site in which we ask visitors for contact information (such as an email address). We use contact data from our contests to communicate with users personally when necessary, to send users information about our company and to occasionally send users promotional material from our partners. Users may opt-out of receiving future mailings; see the delete/deactivate section below. 
+Cookies   
+Our site uses cookies to improve our general recognition of repeat visitors and to simplify your experience while you're visiting us. Cookies are electronic "tags" we place on your browser to help our servers recognize you; while you're on our site, cookies help insure things like:   
 
-**Cookies**   
-Our site uses cookies to keep track of a user's shopping cart -- a convenience feature for those users who choose to buy a product merchandised on our site -- and to make sure users don't see the same advertisements repeatedly. Cookies are also used to insure that only a single log-in for each visit to our site is necessary (and not all visits require a log-in) and to deliver interest-specific content providing for a personalized experience on certain pages of our site. 
 
-We use an outside ad placement company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our web site, cookies received with banner ads are collected by the ad company, and we do not have access to this information. We do not share information about individual users with these advertisers, and correlation between a specific user's response to a particular ad based on registration data is not possible. 
+  * you don't see the same ads repeatedly,   
 
-**Opt-Out**   
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the user. Users may opt out of various mailing lists that we provide by responding to the list with an unsubscribe request or in some cases, deactivating their name from the list via our member information page. 
+  * you can get customized (ie. selected by you) information without having to ask for it every visit,   
 
-**Correcting and updating**   
-User registration data can be corrected or updated by going to our members services area at [http://account.crosswalk.com](http://join.crosswalk.com/) and updating the appropriate information. 
+  * you only have to log-in once - when it's even necessary - when you visit certain "members-only" areas,   
 
-**Delete/Deactivate**   
-To delete or deactivate an account, a user currently must send an email from the original email address that created the account to [registrar@crosswalk.com](mailto:registrar@crosswalk.com) and ask to be removed from our database. Alternatively, a user can simply change all information about themselves except their username, effectively eliminating their entry. 
+  * and so on.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at 
+  
+Occasionally, our advertisers will also place cookies on your browser when you click on their ads from our site. This enables them to track the effectiveness of their ads. In most cases, cookies will only be placed when the ad is served to the page you're viewing. In no case will any advertiser receive specific registration data for any user as a result of cookies or any other agreement with crosswalk.com without your prior explicit consent. (note: accepting a cookie does not constitute consent for providing personal registration data). For a list of advertisers or agencies that place cookies upon serving their ads, click here.
 
->   
-> Postal Mail:   
-> Webmaster   
-> Crosswalk.com Inc.   
-> 4100 Lafayette Center Dr.   
-> Suite 110   
-> Chantilly, VA 20151-1200 
+Finally, cookies provide us with no information about who you are or where you go on the Internet when you are not at our site. 
+
+Opt-In   
+Crosswalk.com acquires no personal or registration data about our users except what you explicitly and voluntarily provide (ie. opt-in). We reserve the right to use this information specifically for the purposes related to your registration and generally for any necessary future communication regarding your registration or status. Correcting and updating   
+User registration data can be corrected or updated by going to our members services area at http://account.crosswalk.com and updating the appropriate information fields. Delete/Deactivate   
+To delete or deactivate an account, a user must send an email from the original email address that created the account to registrar@crosswalk.com and ask to be removed from our database. Alternatively, a user can simply go to http://account.crosswalk.com and change all information about themselves except their username, effectively eliminating their entry. 
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us as follows: 
+
+> **Email:** [webmaster@crosswalk.com](mailto:webmaster@crosswalk.com)
 > 
-> Email: [webmaster@crosswalk.com](mailto:webmaster@crosswalk.com)
+> **Postal Mail:**   
+>   Webmaster   
+>   Crosswalk.com, Inc.   
+>   4100 Lafayette Center Dr., Suite 110   
+>   Chantilly, VA 20151-1200 
+> 
+> **Phone:** (888) 283-4329
+
+Advertisers who use cookies while serving their ads
+
+[ Avenue A](http://www.avenuea.com/info/privacy.asp)
 
   
+|    
+|   
+|    
+|  | [](http://jonathan.didax.com/RealMedia/ads/click_lx.ads/www.crosswalk.com/info/_vgn283924144236689.htm/6141/TopRight/ccbcvb1200/crosswalk4.gif/64316637323863663361336261386130)  
+---  
+   
 
