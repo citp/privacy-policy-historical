@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608050619id_/http%3A//www.agweb.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132513id_/http%3A//www.agweb.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# AgWeb - Privacy Policy
+# 
 
 **PRIVACY POLICY** **Your Privacy**
 
@@ -73,4 +73,4 @@ By using our web site, you consent to the collection and use of information as s
 Our goal is to protect your privacy. To comment on or help us improve this privacy policy, please contact us by email at [feedback@agweb.com](mailto:feedback@agweb.com).   
 
 
-Copyright © 2000 AgWeb.com. All Rights Reserved.
+Copyright © 2004 AgWeb.com. All Rights Reserved.
