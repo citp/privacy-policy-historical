@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602211022id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034926id_/http%3A//thirdage.com/about/privacy.html) for the most accurate reproduction.*
 
-# About Us - Privacy Statement
+# ThirdAge - About Us - Privacy Statement
 
 Privacy Policy for www.ThirdAge.com  
 
