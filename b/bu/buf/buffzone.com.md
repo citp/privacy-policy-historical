@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buffzone.com privacy policy that was archived on 1999-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990429035144id_/http%3A//www.bouldernews.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffzone.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520020722id_/http%3A//www.thedailycamera.com/aboutus/privacy.html) for the most accurate reproduction.*
 
-# BoulderNews: About Us: Privacy Policy
+# The Daily Camera: About Us
 
 **Privacy Policy**
 
@@ -8,7 +8,7 @@ The purpose of our policy is to inform you about the types of information we gat
 
 Our sites may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the web site sponsor when linking to other web sites. 
 
-Our sites may also contain forums, bulletin boards, chat rooms, and discussion groups in which other individuals may post information that invades the privacy of another person. We have no control over the privacy practices or the content of posts made by individuals not employed by Boulder News, and we take no responsibility for such posts. 
+Our sites may also contain forums, bulletin boards, chat rooms, and discussion groups in which other individuals may post information that invades the privacy of another person. We have no control over the privacy practices or the content of posts made by individuals not employed by The Daily Camera, and we take no responsibility for such posts. 
 
 **I. Information Which We Collect**
 
@@ -28,11 +28,11 @@ We may perform statistical analyses of aggregate user behavior. This allows us t
 
 **III. Disclosure to Third Parties**
 
-We do not share personal identifying information with any third party without your permission unless required to do so by law or to prevent harm to the Boulder News. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
+We do not share personal identifying information with any third party without your permission unless required to do so by law or to prevent harm to the The Daily Camera. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [webmaster@boulderpublishing.com](mailto:webmaster@boulderpublishing.com), or you can reach us by telephone at (303)473-1440. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [webmaster@thedailycamera.com](mailto:webmaster@thedailycamera.com), or you can reach us by telephone at (303)473-1440. You can also write us at:
 
 > Daily Camera  
 >  PO Box 591  
@@ -51,7 +51,7 @@ At any time while assessing our sites, any user while online may "opt-out" of fu
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [webmaster@boulderpublishing.com](mailto:webmaster@boulderpublishing.com). To read the full Terms of Use Agreement pertaining to use of our sites, please [click here](https://web.archive.org/web/19990429035144id_/http%3A//www.bouldernews.com/aboutus/user.html).
+The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [webmaster@thedailycamera.com](mailto:webmaster@thedailycamera.com). To read the full Terms of Use Agreement pertaining to use of our sites, please [click here](https://web.archive.org/web/20000520020722id_/http%3A//www.thedailycamera.com/aboutus/user.html).
 
 * * *
 
