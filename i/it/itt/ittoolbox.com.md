@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602173806id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206053241id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.htm) for the most accurate reproduction.*
 
 # ITtoolbox Privacy Policy
 
@@ -29,7 +29,16 @@ We may share aggregated demographic information with our partners and advertiser
 This Web site contains links to other IT-related Web sites. Please be aware that ITtoolbox is not responsible for the privacy practices of these sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by ITtoolbox Web sites.  
   
 **Newsletters**  
-If a user wishes to subscribe to any ITtoolbox newsletters, we ask for the user’s e-mail address. The user will be notified of receipt through a confirmation e-mail. E-mail addresses provided by users for newsletter subscriptions will not be sold or provided to third parties, except as noted in Business Transfers.  
+If a user wishes to subscribe to any ITtoolbox newsletters, we ask for the user’s e-mail address. The user will be notified of receipt through a confirmation e-mail. E-mail addresses provided by users for newsletter subscriptions will not be sold or provided to third parties, except as noted in Business Transfers.
+
+Periodically, ITtoolbox newsletter subscribers may receive ITtoolbox community updates. These messages are sent in order to share information about related ITtoolbox services. No personally identifiable information will be made public to third parties. No spam or off-topic messages will be distributed to the newsletters.  
+  
+  
+**Alerts**  
+If a user wishes to subscribe to any ITtoolbox alerts, we ask for the user’s e-mail address. The user will be notified of receipt through a confirmation e-mail message. E-mail addresses provided by users for alert subscriptions will not be sold or provided to third parties, except as noted in Business Transfers.
+
+Periodically, ITtoolbox newsletter subscribers may receive ITtoolbox community updates. These messages are sent in order to share information about related ITtoolbox services. No personally identifiable information will be made public to third parties. No spam or off-topic messages will be distributed to the newsletters.  
+  
   
 **OpenITx Discussion Groups**  
 If a user wishes to subscribe to a discussion group through OpenITx, we ask for the user’s e-mail address. E-mail addresses provided by users for mail list subscriptions will not be sold or provided to third parties, except as noted in Business Transfers.  
@@ -52,14 +61,14 @@ ITtoolbox takes every precaution to protect our users’ privacy. When users sub
 
 Your ITtoolbox account information is password-protected for your privacy and security. Access to any user information, not just the sensitive information mentioned above, is heavily restricted within our company. Only employees who need the information to perform a specific job (for example, our system administrators) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. In addition, the servers on which we store personally identifiable information are kept in a secure environment.
 
-If you have any questions about the security of ITtoolbox Web sites, you can send an e-mail to [Info@ITtoolbox.com](https://web.archive.org/web/20030602173806id_/http%3A//www.ittoolbox.com/privacy/info@ittoolbox.com) requesting further information.  
+If you have any questions about the security of ITtoolbox Web sites, you can send an e-mail to [Info@ITtoolbox.com](https://web.archive.org/web/20031206053241id_/http%3A//www.ittoolbox.com/privacy/info@ittoolbox.com) requesting further information.  
   
   
 **Site and Service Updates**  
-We may send registered users of ITtoolbox occasional e-mail announcements regarding changes or updates to our services. Users may request removal at any time from our list for any future updates by sending an e-mail to [Leave-ITtoolbox-Announce@OpenITx.com.](https://web.archive.org/web/20030602173806id_/http%3A//www.ittoolbox.com/privacy/Leave-ITtoolbox-Announce@OpenITx.com)  
+We may send registered users of ITtoolbox occasional e-mail announcements regarding changes or updates to our services. Users may request removal at any time from our list for any future updates by sending an e-mail to [Leave-ITtoolbox-Announce@OpenITx.com.](https://web.archive.org/web/20031206053241id_/http%3A//www.ittoolbox.com/privacy/Leave-ITtoolbox-Announce@OpenITx.com)  
   
 **Correction/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as employment type or e-mail address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. To correct/update personal information, provide details of the requested change to [Webmaster@ITtoolbox.com](https://web.archive.org/web/20030602173806id_/http%3A//www.ittoolbox.com/privacy/webmaster@ittoolbox.com).  
+If a user’s personally identifiable information changes (such as employment type or e-mail address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. To correct/update personal information, provide details of the requested change to [Webmaster@ITtoolbox.com](https://web.archive.org/web/20031206053241id_/http%3A//www.ittoolbox.com/privacy/webmaster@ittoolbox.com).  
   
 **Business Transfers**  
 As we continue to develop our business, we may buy or sell businesses or business assets. In such transactions, user information generally is one of the transferred assets. In the unlikely event that Information Technology Toolbox, Inc., sells Information Technology Toolbox, Inc., or one or more of its properties, user information will be one of the transferred assets.  
