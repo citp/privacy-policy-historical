@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008172015id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618043436id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
 
-# Meetup : Credits
+# Meetup : Privacy Policy
 
 Protecting your privacy is a serious matter and doing so is very important to us. Please read this privacy policy statement (the "Policy") to learn more about our privacy policy. This Policy describes the information we collect from you and what may happen to that information, and only applies to such information. This Policy applies to all sites under the meetup.com domain.
 
