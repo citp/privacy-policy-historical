@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202195701id_/http%3A//www.phoenixnewtimes.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609051404id_/http%3A//www.phoenixnewtimes.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Phoenix New Times | phoenixnewtimes.com | About The Alternative Phoenix, valley of the sun connection for events, event listings, music reviews, CD reviews, and all of the latest alternative news from the Phoenix, valley of the sun area.
+# Phoenix New Times | phoenixnewtimes.com | About |
 
 ****
 
