@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203174151id_/http%3A//www.i-tech.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603010052id_/http%3A//i-tech.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Computer Hardware and Software Australia
 
@@ -21,7 +21,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](http://i-tech.com.au/jobs.asp)   
+[**_Application of employment_**](http://www.i-tech.com.au/jobs.asp)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -50,51 +50,49 @@ We use cookies as a way to give you better service. They personalize your shoppi
 ---  
 ---  
   
-[ ](http://i-tech.com.au/ssl.asp)  
+[ ](http://www.i-tech.com.au/ssl.asp)  
   
-[](http://i-tech.com.au/flexirent.asp)  
+[](http://www.i-tech.com.au/flexirent.asp)  
   
-[](http://au.shopping.yahoo.com/)  
-  
-[](http://www.notebookonly.com.au/)
+[Live chat hosted software](http://www.live2support.com/)
 
 Bookmark us  
 Never miss our latest prices and news again!
 
-[**I-Tech ADSL**](http://i-tech.com.au/adsl.asp)  
-ADSL Plans available from as little as $45/month.
+[**I-Tech ADSL**](http://www.i-tech.com.au/adsl.asp)  
+ADSL Plans available from as little as $29/month.
 
-[**Testimonials**](http://i-tech.com.au/testimonial.asp)  
+[**Testimonials**](http://www.i-tech.com.au/testimonial.asp)  
 Read about what our customers thought of us.
 
-[**$$ Price Guarantee**](http://i-tech.com.au/guarantee.asp)  
+[**$$ Price Guarantee**](http://www.i-tech.com.au/guarantee.asp)  
 Our Lowest Price Guarantee to you.
 
-[**Delivery Charges**](http://i-tech.com.au/freight.asp)  
+[**Delivery Charges**](http://www.i-tech.com.au/freight.asp)  
 Learn about our insured delivery charges, for NSW and interstate purchases.
 
-[**Become an affiliate**](http://i-tech.com.au/affiliate.asp)  
-Earn up to 4% of total sales from your web site.
+[**Become an affiliate**](http://www.i-tech.com.au/affiliate.asp)  
+Start earning money from your own website.
 
-[**Services**](http://i-tech.com.au/services.asp)  
+[**Services**](http://www.i-tech.com.au/services.asp)  
 We offer services such as network setup, support and training.
 
-[**E-Commerce**](http://i-tech.com.au/ecommerce.asp)  
+[**E-Commerce**](http://www.i-tech.com.au/ecommerce.asp)  
 We offer web development services and a complete range of e-commerce solutions.
 
-[**Support Section**](http://i-tech.com.au/support.asp)  
+[**Support Section**](http://www.i-tech.com.au/support.asp)  
 Links to suppliers and other resources.
 
-[**Warranty Statement**](http://i-tech.com.au/warranty.asp)  
+[**Warranty Statement**](http://www.i-tech.com.au/warranty.asp)  
 Our assurance to you.
 
-[**Secure Server Info**](http://i-tech.com.au/ssl.asp)  
+[**Secure Server Info**](http://www.i-tech.com.au/ssl.asp)  
 Fully secured transaction for your peace of mind.
 
-[**I-Tech Dealer Info**](http://i-tech.com.au/dealerinfo.asp)  
+[**I-Tech Dealer Info**](http://www.i-tech.com.au/dealerinfo.asp)  
 How and why you should become an I-Tech Dealer?
 
-[**Warranty Return**](http://i-tech.com.au/RA.asp)  
+[**Warranty Return**](http://www.i-tech.com.au/RA.asp)  
 Warranty statement, return procedures and policy.  
   
 * * *
@@ -102,5 +100,5 @@ Warranty statement, return procedures and policy.
 **I-Tech Group Pty Ltd**  
 A.B.N. 85 089 090 497  
 **Phone:** 1800 833 883  
-**Fax:** (02) 9283 1455  
-[[For more information](http://i-tech.com.au/contact.asp)] 
+**Fax:** (02) 9211 8892  
+[[For more information](http://www.i-tech.com.au/contact.asp)] 
