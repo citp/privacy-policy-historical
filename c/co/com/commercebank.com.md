@@ -1,9 +1,15 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605173938id_/http%3A//commercebank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123229id_/http%3A//www.commercebank.com/privacy.asp) for the most accurate reproduction.*
 
 # Commerce Bank, N.A. serving Kansas, Missouri, and Illinois
 
-| 
-
+|   
+---  
+[](https://web.archive.org/about/about/SecurityAlert.asp)  
+  
+  
+[](https://web.archive.org/redirect/comeby_redirect.asp)  
+   
+  
 Protecting your privacy is important to Commerce and to our employees. We want you to understand what information we collect and how we use it. In order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible, we use technology to manage and maintain customer information. This policy serves as a standard for all Commerce employees for collection, use, retention, and security of nonpublic personal information. 
 
 **WHAT INFORMATION WE COLLECT**
