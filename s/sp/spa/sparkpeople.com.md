@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605053543id_/http%3A//www.sparkpeople.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205113303id_/http%3A//www.sparkpeople.com/privacy.asp) for the most accurate reproduction.*
 
 # SparkPeople: Privacy Policy
 
@@ -22,9 +22,9 @@ _This policy covers information collected by SparkPeople.com and any other URLs 
 
 **SparkPeople.com DOES NOT...** release any information about the collection of your IP address to any third party except under court order.
 
-**SparkPeople.com DOES...** use Internet "cookies" when you become a member and when you create a MySpark profile. Some cookies are retrieved and used when you visit at a later time to customize the site according to your wishes. Others allow you to collect, or "shop", for articles and advice during a session to include in your MySpark area.
+**SparkPeople.com DOES...** use Internet "cookies" when you become a member and when you create a GoalPilot profile. Some cookies are retrieved and used when you visit at a later time to customize the site according to your wishes. Others allow you to collect, or "shop", for articles and advice during a session to include in your GoalPilot area.
 
-**SparkPeople.com DOES NOT...** require registration in order to use the portions of the site open to the general public. However, some specific features of the site, including MySpark and Membership, do require registration.
+**SparkPeople.com DOES NOT...** require registration in order to use the portions of the site open to the general public. However, some specific features of the site, including GoalPilot and Membership, do require registration.
 
 **SparkPeople.com DOES NOT...** share information associated with any specific user with advertisers, other than IP reports that are used to verify billing.
 
@@ -36,4 +36,4 @@ _This policy covers information collected by SparkPeople.com and any other URLs 
 
 **SparkPeople.com DOES NOT...** alter or access specific database records unless you request it, or for legal purposes. Database access is restricted to maintenance and database improvement functions, unless you request it or for legal purposes.
 
-For more information, or to verify your personal information that's on record (SparkPeople Members only), contact us at [info@sparkpeople.com](mailto:info@sparkpeople.com).
+For more information, or to verify your personal information that's on record (SparkPeople Members only), contact us at [support@sparkpeople.com](mailto:support@sparkpeople.com).
