@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205060142id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603002434id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
 
 # ILRG.com: Privacy Policy
 
 ### **ILRG.com Privacy Policy ("Policy")**
+
+**NOTICE:[ Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
 
 The ILRG.com website promotes trust, privacy and security as core attributes of our service to our user. ILRG.com has adopted this Policy to communicate clearly our firm commitment to your privacy. It is this respect for user privacy that is a fundamental component to the ILRG.com mission. This Policy is applicable to the ILRG.com website and any other website or online communications facilities owned or operated by ILRG.com or [Maximilian Ventures LLC](http://www.maximilian.net/), a Delaware Corporation authorized to conduct business in the State of Texas. ILRG.com reserves the right to change this Policy at any time. Using our website demonstrates your consent to ILRG.com's collection and use of information pursuant to this Policy, and continued use of this site following the posting of changes to this Policy will signify your acceptance of such changes. This Policy governs the use of your name, e-mail address, payment information, and similar personal information that you may provide ILRG.com in the course of using our website, products or services. 
 
@@ -32,17 +34,9 @@ In addition, ILRG.com may, and you hereby authorize us to, disclose your persona
 
 **A Special Note about Children.** Children are not eligible to use our services, and ILRG.com asks that minors (under the age of 18) do not submit any personal information to ILRG.com. If you are a minor, you can use this service only in conjunction with your parents or guardians.
 
-The Site is owned and operated by [Maximilian Ventures LLC](http://www.maximilian.net/), 3811 Rawlins Street, Dallas, Texas 75219, United States of America; 1+815-301-3766 (voicemail only).
+The Site is owned and operated by [Maximilian Ventures LLC](http://www.maximilian.net/), 3811 Rawlins Street, Dallas, Texas 75219, United States of America; 1+815-301-3766 (voicemail only) or 1+860-540-8159 (fax).
 
   
 |    |    
-  
-
-
-**    
-HELP SUPPORT THIS WEB SITE**
-
-**Please make a small donation online so that we can keep our forms archive free. $1     $5     $10**
-
   
 
