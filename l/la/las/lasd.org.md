@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasd.org privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142144id_/http%3A//lasd.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasd.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095030id_/http%3A//www.lasd.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy_policy
 
