@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228073228id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310220439id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,3 +33,14 @@ This site may make chat rooms, forums, message boards, and/or newsgroups availab
 
 **Security**  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under its control. This site provides a secure server for all credit card orders, securely encrypting all personal data with industry-standard methods. This site does not store credit card numbers for processed orders. 
+
+  
+
+
+##  Free Newsletter - _Personal Development Insights_
+
+Sign up for the free _Personal Development Insights_ Newsletter, loaded with practical information and advice on time management, motivation, goals & goal setting, problem solving, overcoming procrastination, work habits & personal productivity, balance, courage & fear, relationships, people skills, and getting your life on purpose. 
+
+**In exchange for your permission to send you the newsletter once a month, you'll receive exclusive personal development information not available elsewhere.** Your email address will be kept confidential and won't be shared. No spam. No fluff. And you can unsubscribe at any time just by clicking a link in any issue. 
+
+If you enjoy the free information available on this site, you're sure to enjoy the newsletter as well. Sign up right here: 
