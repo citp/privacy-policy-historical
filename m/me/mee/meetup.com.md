@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602165544id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008172015id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
 
 # Meetup : Credits
 
@@ -8,9 +8,10 @@ Protecting your privacy is a serious matter and doing so is very important to us
 
 We collect the following information about you and your use of our service in order to create a better, more personalized experience for you:
 
-* for each topic group in which you participate, a nickname selected by you or assigned by us, your e-mail address, a password selected by you, your zip code; and
+  * for each topic group in which you participate, a nickname selected by you or assigned by us, your e-mail address, a password selected by you, your zip code; and
+  * for each topic group in which you participate, you may choose to create and store a short description or statement which will be viewed by anyone who is accessing that topic group.
 
-* for each topic group in which you participate, you may choose to create and store a short description or statement which will be viewed by anyone who is accessing that topic group.
+
 
 In addition, we automatically track certain basic information about our users (such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, click patterns, etc.). We use this information to do internal research on our users' usage patterns, demographics, interests and general behavior to better understand and serve you and our community. We do not directly link these types of information with your personally identifiable information. For purposes of this Policy, "personally identifiable information" means any information that could be used to identify your personally (e.g., your e-mail address) or to identify the computer with which you access our service.
 
@@ -38,9 +39,11 @@ Required disclosures. Though we make every effort to preserve user privacy, we m
 
 You will occasionally receive the following types of communication from us in the normal course of our providing you our services:
 
-* topic group newsletters and Meetup notifications  
-* service announcements; and  
-* customer service communications.
+  * topic group newsletters and Meetup notifications
+  * service announcements; and
+  * customer service communications.
+
+
 
 The PRIMARY purpose of any communication from us will be announcements or information regarding your Meetup membership, and may also contain paid promotional messages from Meetup advertisers. At no time will the PRIMARY purpose of a Meetup communication be of a paid promotional nature. 
 
