@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambg.com.my privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208181345id_/http%3A//www.ambg.com.my/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambg.com.my privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618093925id_/http%3A//www.ambg.com.my/privacypolicy.asp) for the most accurate reproduction.*
 
 # AmBank Group | Privacy
 
@@ -27,7 +27,7 @@ AmBank Group reserves the right to change the contents and/or services offered o
 
 In addition to this Statement, specific privacy provisions may apply to certain sections of the AmBank Group site. These specific privacy provisions must be read together with this Statement. In the event of any inconsistency between this Statement and the specific provisions, the specific provisions shall prevail.
 
-For the purposes herein, all words and expressions shall have the same meaning as in the [Terms of Use](https://web.archive.org/web/20021208181345id_/http%3A//www.ambg.com.my/terms.asp), except where otherwise expressly stated.  
+For the purposes herein, all words and expressions shall have the same meaning as in the [Terms of Use](https://web.archive.org/web/20030618093925id_/http%3A//www.ambg.com.my/terms.asp), except where otherwise expressly stated.  
   
    
 Collection of Personal Information  
