@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldenmine.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207163848id_/http%3A//www.goldenmine.com/index.asp%3FPageAction%3DCustom%26ID%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenmine.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305125952id_/http%3A//www.goldenmine.com/index.asp%3FPageAction%3DCustom%26ID%3D9) for the most accurate reproduction.*
 
-# GoldenMine- Gold Jewelry, Engagement Rings, Wedding Rings- Featuring Diamonds, Diamond Wedding Bands, Chains, Bracelets, Earrings in Silver and Platinum
+# custom
 
   
 
