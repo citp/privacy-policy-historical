@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bingo.com privacy policy that was archived on 2000-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000510161319id_/http%3A//www.bingo.com/bingo_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingo.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206055800id_/http%3A//bingo.com/bingo_privacy.php) for the most accurate reproduction.*
 
-# Bingo.com
+# Bingo.com - Free online bingo. Bingo chat, play bingo games, video poker, free sweepstakes.
 
 ** PRIVACY POLICY**
 
@@ -62,18 +62,21 @@ Bingo.com has implemented security measures to protect against the loss, misuse 
 **14\. Contacting Bingo.com**  
 If you have any questions about this Privacy Policy, the practices of this site or your dealings with this Website, you can contact us at: 
 
-By mail: 
+By Mail: 
 
 Bingo.com  
-Suite 702-543 Granville Street  
-Vancouver, BC, Canada V6C 1X8  
+4223 Glencoe Avenue, Suite C200   
+Marina Del Rey, CA USA 90292   
 
 
-By Phone 
+By Phone: 
 
-Tel. 604.687.2000  
-Toll Free 1.877.322.4646  
-Fax 604.687.2098  
+Tel. 310-301-4171  
+Fax 310-301-4172  
 
+
+Investor Relations: 
+
+Toll Free 1-877-755-1860 
 
 Bingo.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
