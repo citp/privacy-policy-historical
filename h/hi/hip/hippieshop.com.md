@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122737id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206182231id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
 # HippieShop.com- Hippie Clothing & Accessories
 
