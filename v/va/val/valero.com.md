@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valero.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601101053id_/http%3A//www.valero.com/con1.php%3Fp%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valero.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622123857id_/http%3A//www3.valero.com/con1.php%3Fp%3D26) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
