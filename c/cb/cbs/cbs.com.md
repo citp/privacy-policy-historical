@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621104211id_/http%3A//www.cbs.com/info/user_services/pol_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs.com privacy policy that was archived on 2003-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031118211357id_/http%3A//www.cbs.com/info/user_services/pol_privacy.shtml) for the most accurate reproduction.*
 
 # CBS INFO? - PRIVACY
 
