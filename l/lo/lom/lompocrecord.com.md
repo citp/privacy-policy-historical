@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lompocrecord.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609130322id_/http%3A//new.lompocrecord.com/about_pccn/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lompocrecord.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209002718id_/http%3A//new.lompocrecord.com/about_pccn/privacypolicy.html) for the most accurate reproduction.*
 
 # Puliter Central Coast Newspapers - Privacy Policy
 
