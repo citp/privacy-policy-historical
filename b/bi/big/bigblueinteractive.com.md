@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606051208id_/http%3A//www.bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207033514id_/http%3A//www.bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
 
 # Big Blue Interactive Privacy Policy
 
 ****  
-[](https://web.archive.org/web/20040606051208id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20041207033514id_/http%3A//www.bigblueinteractive.com/index.cfm)
 
 * * *
 
@@ -42,7 +42,7 @@ This web site contains links to other sites. Please be aware that _BBI_ is not r
 
 _BigBlueInteractive.com_ makes _The Corner Forum_ and _Letters to the Editor_ available to you. Please be aware, that whenever you post personal information online, through bulletin boards or e-mail that this information can be collected and used by others. We will take all reasonable precautions to protect your privacy, but always keep in mind that when you are in a public forum, you control the information you disclose. Always use caution when giving out any personally identifying information about yourself or your family. _BBI_ does not control or endorse the content, messages or information found in _The Corner Forum_ and, therefore, _BBI_ specifically disclaims any liability with regard to _The Corner Forum_ and any actions resulting from your participation in _The Corner Forum_. 
 
-It is _always_ assumed that users who e-mail _BigBlueInteractive.com_ at [bigblue@webway.com](mailto:bigblue@webway.com), and who do not _clearly_ label their e-mail as a _PRIVATE MESSAGE_ , wish to have their e-mail posted in [_Letters to the Editor_](http://www.bigblueinteractive.com/pub/lett_menu.cfm). _BBI_ specifically disclaims any liability with regard to e-mail not clearly labeled as unsuitable to _Letters to the Editor_ by the user or e-mail intended for _Letters to the Editor_ and any actions resulting from your participation in _Letters to the Editor_. 
+It is _always_ assumed that users who e-mail _BigBlueInteractive.com_ at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com), and who do not _clearly_ label their e-mail as a _PRIVATE MESSAGE_ , wish to have their e-mail posted in [_Letters to the Editor_](http://www.bigblueinteractive.com/pub/lett_menu.cfm). _BBI_ specifically disclaims any liability with regard to e-mail not clearly labeled as unsuitable to _Letters to the Editor_ by the user or e-mail intended for _Letters to the Editor_ and any actions resulting from your participation in _Letters to the Editor_. 
 
 In addition, users should be aware that when they voluntarily disclose personally identifiable information (i.e., user name, e-mail address) in _The Corner Forum_ or _Letters to the Editor_ that information, along with any substantive information disclosed in the user's communication, can be collected, correlated, and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of _BigBlueInteractive.com_. 
 
@@ -62,10 +62,10 @@ _BBI_ reserves the right to change its Privacy Policy at any time. Your continue
 
 **Questions/Comments:**
 
-If you have any questions or comments about our privacy policy, please contact us at [bigblue@webway.com](mailto:bigblue@webway.com). If you wish your communication to remain private, please label it as such. 
+If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com). If you wish your communication to remain private, please label it as such. 
 
-_This Document Was Last Updated on August 19, 2001_
+_This Document Was Last Updated on July 26, 2004_
 
 * * *
 
-[](https://web.archive.org/web/20040606051208id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20041207033514id_/http%3A//www.bigblueinteractive.com/index.cfm)
