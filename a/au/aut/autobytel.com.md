@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2002-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020917110804id_/http%3A//www.autobytel.com/content/home/help/index.cfm%3Fid%3D4%3B4%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2003-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030910065238id_/http%3A//autobytel.com/content/home/help/index.cfm%3Fid%3D4%3BABTL%26action%3Dprivacy) for the most accurate reproduction.*
 
 # Autobytel Privacy Policy
 
 AUTOBYTEL.COM CONSUMER PRIVACY AND SECURITY POLICY
 
-[](https://web.archive.org/system/fnc_logjump.cfm?id=4;4&log=general&partner=truste&linkpage=privacy_validate)Autobytel.com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our Web site, we assure you that we are committed to protecting your personal privacy. 
+[](https://web.archive.org/system/fnc_logjump.cfm?id=4;ABTL&log=general&partner=truste&linkpage=privacyPolicy_ABTL_validate) Autobytel.com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our Web site, we assure you that we are committed to protecting your personal privacy. 
 
-Autobytel.com inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.autobytel.com. If you have questions or concerns regarding this statement, you should first contact our Consumer Privacy Advocate by e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com) or directly at : 888-422-8999, Ext. 1387. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <[http://www.truste.org/watchdog.html](https://web.archive.org/system/fnc_logjump.cfm?id=4;4&log=general&partner=truste&linkpage=privacy_watchdog)>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Autobytel.com inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.autobytel.com. If you have questions or concerns regarding this statement, you should first contact our Consumer Privacy Advocate by e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com) or directly at : 888-422-8999, Ext. 1387. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](https://web.archive.org/system/fnc_logjump.cfm?id=4;ABTL&log=general&partner=truste&linkpage=privacy_watchdogABTL). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Information Autobytel.com Collects 
 
@@ -19,7 +19,7 @@ Purchase Request information, including your name, e-mail address, home address 
 
 Personalization
 
-Autobytel.com offers its users the advantage of personalization on our Web site by using cookies. (see Cookies) You will see this personalization in the "My Garage" area, in the saving of favorite vehicle information in "My Showroom", in the "Chevrolet Showroom" and used vehicle searches. Personalization in the "My Garage" area creates an individual experience for users by displaying the user's name and current vehicle information.   
+Autobytel.com offers its users the advantage of personalization on our Web site by using cookies. (see Cookies) You will see this personalization in the "My Garage" area, in the saving of favorite vehicle information in "My Wishlist" and used vehicle searches. Personalization in the "My Garage" area creates an individual experience for users by displaying the user's name and current vehicle information.   
 If you use our used vehicle searches, our Web site will remember your login name. Our used car page will remember previous vehicle searches you have made. Web site personalization provides our customers with a more convenient online experience and is at no given time used to track information or retrieve data from your hard drive. 
 
 Cookies
@@ -29,6 +29,8 @@ Autobytel.com offers consumers the convenience of online personalization by usin
 Cookies cannot be used to retrieve data from your hard drive, obtain your e-mail address or obtain sensitive information about you. When a cookie is set, your browser will check it for length, an expiration date, and where it originated. Only Autobytel.com can access the cookies that we set. 
 
 Autobytel.com allows our ad service company to set cookies as well. These cookies can "recognize" a consumer by a Unique identifier assigned at the time of the first visit, and may be used to measure site and page visits and browser version number. These cookies can not obtain private information like name, e-mail or other personal information, and are not shared with Autobytel.com. 
+
+We use a third party tracking service who sets cookies on our site to track visits, page views and click stream behavior. The third party tracking service reports this data to use in aggregate so we can better understand our users and to improve our site. This information is not tied to any individual user. 
 
 If you prefer not to accept cookies, most browsers will explain how to disable cookies under the help portion of the toolbar or notify you when you receive a new cookie. However, if you choose to disallow cookies on your hard drive, our Web site will not be able to provide personalization services. 
 
@@ -68,6 +70,8 @@ If you contact Consumer Care utilizing the live help Chat function, your questio
 
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not to allow us to use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
+Autobyel.com offers forums on its site. Please note that disclosing personally identifiable information online through Chat Rooms, Forums, and Message Boards makes the information submitted public, even though the forum is limited to registered members. Such disclosure may increase the chance of you receiving "spam" or unsolicited email. Be careful and use discretion when disclosing information online. 
+
 Security
 
 Autobytel.com understands the importance of security for our consumers. We use the latest SSL (Secure Socket Layer) encryption technology to protect personal data such as credit card information and finance or insurance application information during transmission. This allows your personal information to be submitted in a secure environment while reaching the intended parties. 
@@ -91,7 +95,7 @@ If you choose to opt in to all our offers, you can expect to receive various aut
 Log in to edit email options.  
 
 
-(Forgot your Zip? [Click here](https://web.archive.org/content/own/garage/index.cfm?id=4;4&action=UpdateEmail&LoginStep=getzip)) 
+(Forgot your Zip? [Click here](https://web.archive.org/content/own/garage/index.cfm?id=4;ABTL&action=UpdateEmail&LoginStep=getzip)) 
 
 If you experience any difficulties in accessing this link or have any other questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your e-mail address is being used, please contact our Consumer Privacy Advocate at 888-422-8999, Ext. 1387 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). 
 
@@ -101,4 +105,4 @@ If you have any questions, concerns or suggestions regarding our privacy and sec
 
 For any other issues, please contact our customer service department at [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com). Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400 
 
-For the Autobytel.com Usage Terms and Conditions please [click here](https://web.archive.org/content/home/help/index.cfm?id4;4&action=terms). 
+For the Autobytel.com Usage Terms and Conditions please [click here](https://web.archive.org/content/home/help/index.cfm?id4;ABTL&action=terms). 
