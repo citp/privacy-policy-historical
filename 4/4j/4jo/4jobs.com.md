@@ -1,11 +1,23 @@
-> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207064440id_/http%3A//www.4jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611020154id_/http%3A//4jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# 4Jobs Career Center
+# 4Jobs.com - The #1 Job Network - Search Jobs, Find a Career, Post Resume, Locate Top Employers
 
 If you have questions or concerns regarding this statement, please contact us. 
 
 Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms.
 
+ Collection and Use of Information  
+---  
+Viewing and Updating Your Information  
+Cookies  
+Log Files  
+Links  
+Recommend A Friend or Colleague  
+Security and Access  
+Children  
+Notification of Changes  
+Contact  
+  
 * * *
 
 **Collection and Use of Information**  
@@ -74,6 +86,14 @@ We have implemented technology and security features, as well as strict internal
 When you place an order online at Artemis HR, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Artemis HR uses a service company to process its credit card transactions.
 
 Users should not post personal information to any site if they are uncomfortable with the security of the site.  If you have any questions, please contact us.  Back to top
+
+* * *
+
+**Children**
+
+This site is not intended for children under 13 years of age and we do not knowingly or specifically collect information about children. This site does not and will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. We believe that children should get their parents' consent before giving out personal information. If you are concerned about your child's use of this site, we encourage you to use web-filtering technology to supervise your child's access to the site. For children 14 and up (high-school age), we also encourage you to participate in your child's experience with our site. With a little guidance, this site can prove very useful in finding a part-time or summer job for your child, as well as providing them with excellent career counseling information. 
+
+Back to top
 
 * * *
 
