@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eteamz.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207144333id_/http%3A//www.eteamz.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eteamz.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607045246id_/http%3A//www.eteamz.com/company/privacy) for the most accurate reproduction.*
 
 # eteamz: Privacy Policy
 
