@@ -1,125 +1,15 @@
-<!--The following is the downloaded HTML source of the thestandard.com privacy policy that was archived on 2000-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000622000214id_/http%3A//www.thestandard.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thestandard.com privacy policy that was archived on 2000-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001204101200id_/http%3A//www.thestandard.com/privacy_policy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>
 	 
  		  TheStandard.com</title>
 	<meta http-equiv="expires" content="Tue, 20 Aug 1996 01:00:00 GMT">
-	   <script language="javascript">
-
-<!--
-// begin params
-sampledUser = 0; // variable for determining whether or not the user was sampled
-sampleRate = 20.0;// sampling rate should be set to a number between 0 and 100
-cookName = "survey2000"; // name of cookie
-cookExpire = 1; //number of months cookie will persist 
-machineUrl = "http://www.thestandard.com/";
-studyName = "survey2"; //path name of where the survey is located, gets appended to machineUrl
-numWaves = 1; // number of waves the user can be redirected to. should be set to at 1 at the lowest.
-// end params
-
-
-function setCookieDate(obj, expLength){
-     month = obj.getMonth() + expLength;
-     year = obj.getYear();
-     if (year<2000) year += 1900
-     while (month > 11){
-       month = month - 12;
-       year++;
-     }
-     obj.setYear(year);
-     obj.setMonth(month)
-     var cookDate = obj.toGMTString();
-     return cookDate;
-}
-
-function getSetCookie(cookieName){
-        if(document.cookie.length > 0) {
-                var search = cookieName + "=";
-                var offset = document.cookie.indexOf(search);
-                if(offset != -1) {
-                        offset += search.length;
-                        end = document.cookie.indexOf(";", offset);
-                        if(end == -1) end = document.cookie.length;
-                        cookie = unescape(document.cookie.substring(offset, end));
-                        return cookie;
-                }
-                else{
-                        cookie = "";
-                        return cookie;
-                }
-        }
-        else{
-                cookie = "";
-                return cookie;
-        }
-}
-
-function sample(BV) {
-        cookie = "";
-        getSetCookie(cookName);
-        if(cookie != "") return;
-        randval = Math.random() * 100;
-        if(randval < sampleRate) sampledUser = 1;
-        document.cookie = cookName + "=" + sampledUser + "; expires=" + setCookieDate(new Date(), cookExpire) + "; path=/";
-        if(sampledUser == 0) return;
-        whichWave = Math.ceil(Math.random() * numWaves);
-        getSetCookie(cookName);
-        cookie?cookie=1:cookie=0;       
-        if(BV){
-          var dest = machineUrl + studyName + "?Ntookcook=2";
-        }
-        else{
-          var dest = machineUrl + studyName + "?Ntookcook=" + cookie;
-        }
-		
-		//********remember to adjust the paramaters here...width and height, scroll, etc**********
-		
-        window.open(dest,"survey","scrollbars=yes,menubar=no,toolbar=no,directories=no,copyhistory=no, ,resizable=yes,width=350,height=300");
-}
-
-if (navigator.appVersion.indexOf("MSIE 3.0A") > -1){
- MBIIE30 = 1;
- sample(MBIIE30);
-}
-else if (navigator.appVersion.indexOf("MSIE") > -1){
- sample();
-}
-else if(navigator.appVersion.indexOf("2") < 0){
- sample();
-}
-//if (navigator.appVersion.indexOf("2") < 0) sample();
-// -->
-
-// copyright Millward Brown 1998 //
-
-
-</script> <script language="javascript">
-
-<!--
-	var allcookies = document.cookie;				// Get list of All Cookies
-	var refer = document.referrer;					// Get HTTP_REFERER var
-	var pos = allcookies.indexOf("personify=");		// Look for the personify cookie
-	var rpos = refer.indexOf("thestandard.com");	// Look for thestandard.com
-	
-	//alert("all cookies->" + allcookies + "\nPos->" + pos + "\nReferer->" + refer + "\nReferer Pos->" + rpos);  // Debug Statement
-
-	if ((pos == -1) || (rpos == -1)) {
-		expireDate = new Date						// Create New Date Object
-		expireDate.setYear(expireDate.getYear()+10)	// date=today + 10 years
-		cookieValue = "06212000165203209.233.23.54"   // cookie value=PeronifyCookieInfo (see above)
-		document.cookie = "personify="+ cookieValue + ";expires=" + expireDate.toGMTString() + ";domain=thestandard.com"
-		//alert("All Done");
-	} else {
-		//alert("DID NOT RESET COOKIE!") // Debug Statement, also left for future use
-	}
-
-// -->
-
-</script> <script language="javascript"><!--
+	  
+		   <script language="javascript"><!--
 function openWindow(url, name, w, h, r) {
-	window.open(url,name,'width=' + w + ',height=' + h + ',resizable=' + r +', scrollbars=yes, menubar=no, status=yes, top=100, left=100');
+	window.open(url,name,'width=' + w + ',height=' + h + ',resizable=' + r +',scrollbars,status,top=10,left=10');
 }
 
 function roll(img,dest) {
@@ -127,11 +17,15 @@ function roll(img,dest) {
 	document[dest].src = eval(img + ".src");
 }
 
+function errorHandler() {
+	return true;
+}
+onerror = errorHandler
+
 //--></script>
 
 <script language="javascript">
 <!--
-
 var agt = navigator.userAgent.toLowerCase();
 var is_major = parseInt(navigator.appVersion);
 var is_minor = parseFloat(navigator.appVersion);
@@ -148,123 +42,102 @@ var is_ie3  = (is_ie && (is_major < 4));
 var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) );
 var is_ie4up  = (is_ie  && (is_major >= 4));
 var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4);
-
 var is_mac = (agt.indexOf("mac")!=-1);
+var is_linux = (agt.indexOf("inux")!=-1);
+var f4 = "";var f2 = "";var cs = "";var fb = "";var fs = "";
 
+if(is_linux == true) {f4 = "16";f2="13";cs="12";fb = "10.5";fs = "10";}
+else if(is_nav4up == true && is_mac == false) {f4 = "13.5";f2="10.5";cs="9";fb = "8";fs = "7.5";}
+else if(is_nav4up == true && is_mac == true) {f4 = "15";f2="12";cs="11";fb = "9.5";fs = "9";}
+else if(is_ie5up == true && is_mac == true) {f4 = "13";f2="10";cs="9";fb = "7.5";fs = "7";}
+else if(is_ie4up == true && is_mac == true) {f4 = "15";f2="12";cs="11";fb = "9.5";fs = "9";}
+else {f4 = "13";f2="10";cs="9";fb = "7.5";fs = "7";}
 
-if(is_nav4up == true && is_mac == false) {
-   document.write('<link rel=stylesheet type="text/css" href="/css_library/pc_net">');
-}
-else if(is_nav4up == true && is_mac == true) {
-   document.write('<link rel=stylesheet type="text/css" href="/css_library/mac_net">');
-} 
-else if(is_ie5up == true && is_mac == true) {
-   document.write('<link rel=stylesheet type="text/css" href="/css_library/mac_ie_five">');
-}
-else if(is_ie4up == true && is_mac == true) {
-   document.write('<link rel=stylesheet type="text/css" href="/css_library/mac_ie">');
-}
-else {
-   document.write('<link rel=stylesheet type="text/css" href="/css_library/pc_ie">');
-}
-
-
+document.write('<style type="text/css">.levelOneDefault{font-family:"Verdana",sans-serif;color:#ffffff;font-size:' + fb + 'pt;font-weight:bold;text-decoration:none;}.levelTwoDefault{font-family:"Verdana",sans-serif;color:#ffff99;font-size:' + fs + 'pt;font-weight:bold;text-decoration:none;}.levelTwoSelected{font-family:"Verdana",sans-serif;color:#990000;font-size:' + fs + 'pt;font-weight:bold;text-decoration:none;}.levelThreeDefault{font-family:"Verdana",sans-serif;color:#ffff99;font-size:' + fs + 'pt;text-decoration:none;}.levelThreeSelected{font-family:"Verdana",sans-serif;color:#990000;font-size:' + fs + 'pt;text-decoration:none;}.comRegSecondary{font-family:"Verdana",sans-serif;color:#336633;font-size:' + fb + 'pt;text-decoration:none;}.editRegSecondary{font-family:"Verdana",sans-serif;color:#003399;font-size:' + fb + 'pt;text-decoration:none;}.dfltRegSecondary{font-family:"Verdana",sans-serif;color:#666699;font-size:' + fb + 'pt;text-decoration:none;}.regTertiary{font-family:"Verdana",sans-serif;color:#666666;font-size:' + fb + 'pt;text-decoration:none;}.footer{font-family:"Verdana",sans-serif;color:#ffffff;font-size:' + fb + 'pt;text-decoration:none;}.white{background-color:#ffffff;}.maroon{background-color:#990000;}A.levelTwoDefault:hover{color:#ffffff;}A.levelThreeDefault:hover{color:#ffffff;}A.comRegSecondary:hover{color:#000000;}A.editRegSecondary:hover{color:#000000;}A.dfltRegSecondary:hover{color:#000000;}A.regTertiary:hover{color:#000000;}A.footer:hover{color:#CCCCCC;}.contentSubhead{font-family:"Verdana",sans-serif;color:#666699;font-size:' + cs + 'pt;font-weight:bold;letter-spacing:3px;}.category{font-family:"Verdana",sans-serif;font-size:' + fb + 'pt;color:#003399;font-weight:bold;line-height:16px;}.toolHeader{font-family:"Verdana",sans-serif;font-size:' + fb + 'pt;color:#330066;font-weight:bold;}.toolItem{font-family:"Verdana",sans-serif;font-size:' + fb + 'pt;color:#330066;font-weight:normal;}.arialOne{font-family:"Arial",sans-serif;font-size:' + fb + 'pt;}.verdanaOne{font-family:"Verdana",sans-serif;font-size:' + fb + 'pt;}.verdanaTwo{font-family:"Verdana",sans-serif;font-size:' + f2 + 'pt;}</style>');
 //-->
-</script><link rel="stylesheet" type="text/css" href="/css_library/pc_net">
-  </head>
-<body bgcolor="#434343" link="#990000" vlink="#666666" alink="#CCCCCC">
+</script><style type="text/css">.levelOneDefault{font-family:"Verdana",sans-serif;color:#ffffff;font-size:10.5pt;font-weight:bold;text-decoration:none;}.levelTwoDefault{font-family:"Verdana",sans-serif;color:#ffff99;font-size:10pt;font-weight:bold;text-decoration:none;}.levelTwoSelected{font-family:"Verdana",sans-serif;color:#990000;font-size:10pt;font-weight:bold;text-decoration:none;}.levelThreeDefault{font-family:"Verdana",sans-serif;color:#ffff99;font-size:10pt;text-decoration:none;}.levelThreeSelected{font-family:"Verdana",sans-serif;color:#990000;font-size:10pt;text-decoration:none;}.comRegSecondary{font-family:"Verdana",sans-serif;color:#336633;font-size:10.5pt;text-decoration:none;}.editRegSecondary{font-family:"Verdana",sans-serif;color:#003399;font-size:10.5pt;text-decoration:none;}.dfltRegSecondary{font-family:"Verdana",sans-serif;color:#666699;font-size:10.5pt;text-decoration:none;}.regTertiary{font-family:"Verdana",sans-serif;color:#666666;font-size:10.5pt;text-decoration:none;}.footer{font-family:"Verdana",sans-serif;color:#ffffff;font-size:10.5pt;text-decoration:none;}.white{background-color:#ffffff;}.maroon{background-color:#990000;}A.levelTwoDefault:hover{color:#ffffff;}A.levelThreeDefault:hover{color:#ffffff;}A.comRegSecondary:hover{color:#000000;}A.editRegSecondary:hover{color:#000000;}A.dfltRegSecondary:hover{color:#000000;}A.regTertiary:hover{color:#000000;}A.footer:hover{color:#CCCCCC;}.contentSubhead{font-family:"Verdana",sans-serif;color:#666699;font-size:12pt;font-weight:bold;letter-spacing:3px;}.category{font-family:"Verdana",sans-serif;font-size:10.5pt;color:#003399;font-weight:bold;line-height:16px;}.toolHeader{font-family:"Verdana",sans-serif;font-size:10.5pt;color:#330066;font-weight:bold;}.toolItem{font-family:"Verdana",sans-serif;font-size:10.5pt;color:#330066;font-weight:normal;}.arialOne{font-family:"Arial",sans-serif;font-size:10.5pt;}.verdanaOne{font-family:"Verdana",sans-serif;font-size:10.5pt;}.verdanaTwo{font-family:"Verdana",sans-serif;font-size:13pt;}</style>  </head>
+ <body bgcolor="#434343" link="#990000" vlink="#666666" alink="#CCCCCC">
 
-<center>
-
-<table border="0" width="767" cellpadding="0" cellspacing="0">
+<table border="0" width="767" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
-	<td width="279" valign="bottom"><a href="/index.html"><img src="http://a1048.g.akamai.net/f/1048/1249/19991109-031103/www.thestandard.com/img/logo/965.gif" height="66" width="279" border="0" alt="TheStandard"></a></td>
-	<td width="20"><img src="/img/general/spacer.gif" height="64" width="20" border="0"></td>
-	<td width="533" valign="top"><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=top;sz=468x60;tile=1;ord=050214?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=top;sz=468x60;tile=1;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=top;sz=468x60;tile=1;ord=050214?" BORDER=0 HEIGHT=60 WIDTH=468></A></iframe></nolayer><ilayer id="layer1" visibility="hide" width="468" height="60"></ilayer></td>
-</tr>                        
+<td><a href="/"><img src="http://a1048.g.akamai.net/f/1048/1249/19991117-051130/www.thestandard.com/img/logo/965.gif" height="66" width="279" border="0" align="" hspace="" vspace="" alt="TheStandard"></a></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" height="1" width="20" border="0"></td>
+<td valign="top"><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=top;sz=468x60;tile=1;ord=021207?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=top;sz=468x60;tile=1;ord=021207?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=top;sz=468x60;tile=1;ord=021207?" BORDER=0 HEIGHT=60 WIDTH=468></A></iframe></nolayer><ilayer id="layer1" visibility="hide" width="468" height="60"></ilayer></td>
+</tr>
+</tbody></table>
+ 
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr bgcolor="#ffffff">
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="4" height="4" border="0"></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="13" height="1" border="0"></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="147" height="1" border="0"></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="268" height="1" border="0"></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="108" height="1" border="0"></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="94" height="1" border="0"></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="4" height="1" border="0"></td>
+
+
+	<td bgcolor="#434343"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="129" height="1" border="0"></td>
+</tr>
+<tr bgcolor="#990000">
+<td bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="3" border="0"></td>
+<td colspan="5"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="1" border="0"></td>
+<td bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="1" border="0"></td>
+
+
+	<td bgcolor="#434343"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr bgcolor="#990000">
+<td bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="1" border="0"></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="1" border="0"></td>
+<td valign="middle"><font class="verdanaOne" color="#ffffff"><b>Mon Dec  4</b><br><font color="#ff9933">Site Edition:</font>&nbsp;<b>US<font color="#ff9933">&nbsp;|&nbsp;<a href="http://www.thestandardeurope.com" style="color:#ff9933;text-decoration:none;">Europe</a></font></b></font></td>
+<td valign="middle"><table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><form method="GET" action="http://search.thestandard.com/texis/multi"></form>
+<td><input type="text" name="search" size="18"></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="9" height="1" border="0"></td>
+<td><input type="image" name="submit" src="http://a1048.g.akamai.net/f/1048/1249/20001018-111048/www.thestandard.com/img/body/7193.gif" border="0"></td>
+</tr></tbody></table></td>
+<td><img src="http://a1048.g.akamai.net/f/1048/1249/20001018-101012/www.thestandard.com/img/body/7188.gif" height="12" width="88" border="0" align="" hspace="0" vspace="0" alt=""></td>
+<td><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=;sz=88x31;tile=2;ord=021207?" name="frame2" width="88" height="31" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=88x31;tile=2;ord=021207?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=88x31;tile=2;ord=021207?" BORDER=0 HEIGHT=31 WIDTH=88></A></iframe></nolayer><ilayer id="layer2" visibility="hide" width="88" height="31"></ilayer></td>
+<td bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="1" border="0"></td>
+
+
+	<td bgcolor="#434343" align="center"><!--<font class="verdanaOne" color=#FFFFFF><b>Subscribe to<br>the Magazine</b><a href="http://www.standardservices.com/Magazine/msubscribe.asp?SK=7SHW&PSK=7ZP8" style="color:#ffff00;font-weight:bold;"><IMG SRC='http://a1048.g.akamai.net/f/1048/1249/20001107-031104/www.thestandard.com/img/logo/7641.gif' HEIGHT='21' WIDTH='104' BORDER='0' ALIGN='' HSPACE='0' VSPACE='0' ALT='The Industry Standard'><font class="verdanaOne"><br>4 FREE ISSUES</a></font><br>-->
+	<a href="http://www.standardservices.com/Magazine/msubscribe.asp?SK=7SHW&amp;PSK=7ZP8"><img src="http://a1048.g.akamai.net/f/1048/1249/20001122-101137/www.thestandard.com/img/logo/8242.gif" height="31" width="85" border="0" align="" hspace="0" vspace="0" alt="4 Free Issues Small Graphic"></a></td>
+ </tr>
+<tr bgcolor="#990000">
+<td bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="3" border="0"></td>
+<td colspan="5"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="1" border="0"></td>
+<td bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="1" border="0"></td>
+
+
+	<td bgcolor="#434343"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td colspan="7"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="1" height="4" border="0"></td>
+
+
+	<td bgcolor="#434343"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="129" height="1" border="0"></td>
+</tr>
 </tbody></table>
 
-<table border="0" cellpadding="4" cellspacing="0" width="767" bgcolor="#FFFFFF">
-<tbody><tr><td>
-	<center>
-		
 
-		<table border="0" cellpadding="0" cellspacing="0" width="759" bgcolor="#990000">
-
-		<tbody><tr>
-			<td colspan="6" height="2" bgcolor="#990000"><img src="/img/spacer.gif" height="1" width="1"></td>
-		</tr>
-		
-		<tr>
-			<form method="GET" action="http://search.thestandard.com/texis/multi"></form>
-			
-			<td rowspan="3" width="140" bgcolor="#990000"><img src="/img/spacer.gif" height="1" width="140"></td>
-
-			<td bgcolor="#990000"><img src="http://a1048.g.akamai.net/f/1048/1249/19991114-101146/www.thestandard.com/img/search/100.gif" height="28" width="44" border="0" alt="search"></td>
-			
-			<td bgcolor="#990000" align="center">
-				<select name="stype">
-					<option selected="" value="">-------- Entire Site ---------
-					</option><option value="articles">Articles
-					</option><option value="metrics">Metrics
-					</option><option value="people">People
-					</option><option value="directory">Companies
-					</option><option value="store">Intelligence Store
-					</option><option value="newsletters">Newsletters
-				</option></select>
-			</td>
-			
-			<td bgcolor="#990000"><img src="http://a1048.g.akamai.net/f/1048/1249/19991114-101127/www.thestandard.com/img/search/99.gif" height="28" width="21" border="0" alt="for"></td>
-			
-			<td bgcolor="#990000">
-				&nbsp;<input name="search" size="15">
-				&nbsp;&nbsp;<input name="submit" src="/img/search/133.gif" type="image" border="0" hspace="8">
-			</td>
-			
-			<td rowspan="3" width="140" bgcolor="#990000" align="center">
-				<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr><td><img src="http://a1048.g.akamai.net/f/1048/1249/19991123-121110/www.thestandard.com/img/general/1537.gif" height="12" width="88" border="0" alt="Search Sponsored by"><br></td></tr>
-				<tr><td>
-					<nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=;sz=88x31;tile=2;ord=050214?" name="frame2" width="88" height="31" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=88x31;tile=2;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=88x31;tile=2;ord=050214?" BORDER=0 HEIGHT=31 WIDTH=88></A></iframe></nolayer><ilayer id="layer2" visibility="hide" width="88" height="31"></ilayer> </td></tr>
-				</tbody></table>
-			</td>
-
-			
-		</tr>
-		
-		<tr>
-			<td colspan="4" height="2" bgcolor="#990000"><img src="/img/spacer.gif" height="1" width="1"></td>
-		</tr>
-		
-		<tr>
-			<td colspan="4" width="490" bgcolor="#990000"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://www.thestandard.com/home/issue/"><img src="http://a1048.g.akamai.net/f/1048/1249/20000509-120559/www.thestandard.com/img/nav/4289.gif" height="18" width="140" border="0" hspace="0" vspace="0" alt="Magazine"></a></td><td><a href="http://www.thestandard.com/newsletters/"><img src="http://a1048.g.akamai.net/f/1048/1249/20000509-120513/www.thestandard.com/img/nav/4291.gif" height="18" width="112" border="0" hspace="0" vspace="0" alt="Newsletters"></a></td><td><a href="http://www.thestandard.com/mystandard/portable/"><img src="http://a1048.g.akamai.net/f/1048/1249/20000509-120539/www.thestandard.com/img/nav/4295.gif" height="18" width="125" border="0" hspace="0" vspace="0" alt="Portable"></a></td><td><a href="http://www.thestandard.com/about/"><img src="http://a1048.g.akamai.net/f/1048/1249/20000621-045203/www.thestandard.com/img/nav/4287.gif" height="18" width="116" border="0" hspace="0" vspace="0" alt="About Us"></a></td></tr></tbody></table></td>
-		</tr>
-		
-		</tbody></table>
-		
-		
-		
-	
-</center>
-</td></tr>
-</tbody></table>
-
- <table border="0" cellpadding="0" cellspacing="0" width="767">
+ <table border="0" cellpadding="0" cellspacing="0" width="767" align="center">
 <tbody><tr>
 <!-- left column -->
 <td width="140" bgcolor="#666699" valign="top">
 <table border="0" width="140" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td class="white"><img width="4" height="1" border="0" src="/img/spacer.gif"></td>
-<td class="maroon"><img width="1" height="3" border="0" src="/img/spacer.gif"></td>
+<td class="white"><img width="4" height="1" border="0" src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif"></td>
+<td class="maroon"><img width="1" height="3" border="0" src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif"></td>
 </tr>
 <tr>
-<td class="white"><img width="4" height="1" border="0" src="/img/spacer.gif"></td>
+<td class="white"><img width="4" height="1" border="0" src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif"></td>
 <td width="136">
-<table width="136" border="0" cellpadding="1" cellspacing="0"><tbody><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">TODAY</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/news/" class="levelTwoDefault">News &amp; Analysis</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/news/opinion/" class="levelTwoDefault">Opinion</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/news/special/home/" class="levelTwoDefault">Special Reports</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">DRILL-DOWN</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/ecommerce/" class="levelTwoDefault">Commerce</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/culture/" class="levelTwoDefault">Culture</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/ideas/" class="levelTwoDefault">Ideas &amp; Strategies</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/jobs/" class="levelTwoDefault">Jobs &amp; Workplace</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/marketing/" class="levelTwoDefault">Media &amp; Marketing</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/finance/" class="levelTwoDefault">Money &amp; Markets</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/policy/" class="levelTwoDefault">Policy &amp; Politics</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/technology/" class="levelTwoDefault">Tech &amp; Telecom</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/world/" class="levelTwoDefault">World</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">RESEARCH</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/companies/" class="levelTwoDefault">Companies</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/research/store/" class="levelTwoDefault">Intelligence Store</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/research/metrics/" class="levelTwoDefault">Metrics</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/people/" class="levelTwoDefault">People</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/research/briefcase/" class="levelTwoDefault">BriefCase</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">CONNECT</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/people/recruitment/" class="levelTwoDefault">Job Shop</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/companies/directory/" class="levelTwoDefault">The Directory</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/events/" class="levelTwoDefault">Conferences &amp; Events</a></td></tr><tr><td class="maroon"><img width="16" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/summit2000/" class="levelThreeDefault">Internet Summit: CA</a></td></tr><tr><td class="maroon"><img width="16" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/netreturns/" class="levelThreeDefault">Net Returns: CO</a></td></tr><tr><td class="maroon"><img width="16" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/events/rooftop/" class="levelThreeDefault">Rooftop Party</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">HELP</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/service/" class="levelTwoDefault">Customer Service</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.standardservices.com/" class="levelTwoDefault">My Account</a></td></tr></tbody></table></td>
+<table width="136" border="0" cellpadding="1" cellspacing="0"><tbody><tr><td class="maroon"><img width="2" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a class="levelOneDefault">TODAY</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/news/?tag=Default.left.nb.g1.p1" class="levelTwoDefault">News &amp; Analysis</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/subject/finance/?tag=Default.left.nb.g1.p2" class="levelTwoDefault">Money &amp; Markets</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/newsletters/?tag=Default.left.nb.g1.p3" class="levelTwoDefault">Newsletters</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/news/opinion/?tag=Default.left.nb.g1.p4" class="levelTwoDefault">Opinion</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a class="levelOneDefault">DRILL-DOWN</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/subject/ecommerce/?tag=Default.left.nb.g2.p1" class="levelTwoDefault">Commerce</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/subject/culture/?tag=Default.left.nb.g2.p2" class="levelTwoDefault">Culture</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/subject/ideas/?tag=Default.left.nb.g2.p3" class="levelTwoDefault">Ideas &amp; Strategies</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/subject/marketing/?tag=Default.left.nb.g2.p4" class="levelTwoDefault">Media &amp; Marketing</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/subject/policy/?tag=Default.left.nb.g2.p5" class="levelTwoDefault">Policy &amp; Politics</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/subject/sitebuilding/?tag=Default.left.nb.g2.p6" class="levelTwoDefault">Site Building</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/news/special/?tag=Default.left.nb.g2.p7" class="levelTwoDefault">Special Reports</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/subject/technology/?tag=Default.left.nb.g2.p8" class="levelTwoDefault">Tech &amp; Telecom</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/subject/world/?tag=Default.left.nb.g2.p9" class="levelTwoDefault">World</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a class="levelOneDefault">RESEARCH</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/companies/?tag=Default.left.nb.g3.p1" class="levelTwoDefault">Companies</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/research/store/?tag=Default.left.nb.g3.p2" class="levelTwoDefault">Intelligence Store</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/research/metrics/?tag=Default.left.nb.g3.p3" class="levelTwoDefault">Metrics</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/people/recruitment/?tag=Default.left.nb.g3.p4" class="levelTwoDefault">Job Shop</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/people/?tag=Default.left.nb.g3.p5" class="levelTwoDefault">People</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a class="levelOneDefault">MAGAZINE</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.standardservices.com/magazine/msubscribe.asp?SK=7MSA&amp;PSK=7ZSA&amp;tag=Default.left.nb.g4.p1" class="levelTwoDefault">Subscribe</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/home/issue/?tag=Default.left.nb.g4.p2" class="levelTwoDefault">Current Issue</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/home/past_issues/?tag=Default.left.nb.g4.p3" class="levelTwoDefault">Past Issues</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/mystandard/portable/?tag=Default.left.nb.g4.p4" class="levelTwoDefault">Portable</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a class="levelOneDefault">HELP</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/service/?tag=Default.left.nb.g5.p1" class="levelTwoDefault">Customer Service</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.standardservices.com/?tag=Default.left.nb.g5.p2" class="levelTwoDefault">My Account</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-034301/www.thestandard.com/img/general/153.gif"><a href="http://www.thestandard.com/about/?tag=Default.left.nb.g5.p3" class="levelTwoDefault">About Us</a></td></tr></tbody></table></td>
 </tr>
 <tr>
-<td colspan="2"><img src="http://a1048.g.akamai.net/f/1048/1249/20000510-120545/www.thestandard.com/img/nav/4345.gif" height="14" width="140" border="0" hspace="0" vspace="0" alt=""></td>
+<td colspan="2"><img src="http://a1048.g.akamai.net/f/1048/1249/20000609-030622/www.thestandard.com/img/nav/4345.gif" height="14" width="140" border="0" align="" hspace="0" vspace="0" alt=""></td>
 </tr>
 	
 	</tbody></table>
@@ -272,16 +145,16 @@ else {
 	<br>
 		  
 
-				<center><a href="/magazine/double_offer"><img src="/img/is_adverts/4267.gif" width="120" height="182" border="0"></a></center><br>
+				<center><a href="http://www.standardservices.com/magazine/msubscribe.asp?SK=7MSC&amp;PSK=7ZSC"><img width="120" height="182" border="0" src="/img/covers/4604.gif"></a></center><br>
 
 				
 
-				<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><br></font><center><font face="verdana,arial,helvetica,sans serif" size="1"><b>Get The Daily News.</b><br>The top stories of <br> the Internet Economy <br>delivered FREE. <br><a href="HTTP://www.thestandard.com/uf/?code=hpnews"></a><center><a href="HTTP://www.thestandard.com/uf/?code=hpnews"><b><font color="#FFFF00">Sign up now</font></b></a><b><font color="#FFFF00">!</font></b></center></font></center>  </font></center></td>
+				<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><br></font><center><font face="verdana,arial,helvetica,sans serif" size="1"><b>Get The Daily News.</b><br>The top stories of <br> the Internet Economy <br>delivered FREE. <br><a href="HTTP://www.thestandard.com/uf/?code=hpnews"></a><center><a href="HTTP://www.thestandard.com/uf/?code=hpnews"><b><font color="#FFFF00">Sign up now</font></b></a><b><font color="#FFFF00">!</font></b></center></font></center>  <a href="http://ad.doubleclick.net/jump/idg.pixel.global/idgpixel7.18.00;sz=1x1;ord=021207?"><img src="http://ad.doubleclick.net/ad/idg.pixel.global/idgpixel7.18.00;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> <a href="http://ad.doubleclick.net/jump/idg.pixel.usa.tis/idgtis11.8.00;sz=1x1;ord=021207?"><img src="http://ad.doubleclick.net/ad/idg.pixel.usa.tis/idgtis11.8.00;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> </font></center></td>
 
 	<!-- left gutter -->
 	<td width="12" valign="top" bgcolor="#666699">
-		<img src="/img/general/1461.gif" height="450" width="12" border="0" vspace="0" hspace="0"><br>
-		<img src="/img/general/1436.gif" height="25" width="12" border="0" vspace="0" hspace="0"><br>
+		 <img src="http://a1048.g.akamai.net/f/1048/1249/19991222-011203/www.thestandard.com/img/general/1461.gif" height="500" width="12" border="0" vspace="0" hspace="0"><br>
+		<img src="http://a1048.g.akamai.net/f/1048/1249/19991221-111257/www.thestandard.com/img/general/1436.gif" height="25" width="12" border="0" align="" hspace="" vspace="" alt=""><br>
 	</td>
 
 	<!-- center column -->
@@ -289,35 +162,29 @@ else {
 		
 		  
 		
-		 
-
-			<table border="0" width="474" cellpadding="0" cellspacing="0">
+		 <table border="0" width="474" cellpadding="0" cellspacing="0">
 			<tbody><tr>
-				<td colspan="4" bgcolor="#9999CC">
-					<table width="100%" border="0" cellpadding="4" cellspacing="0"><tbody><tr><td><img width="10" height="2" border="0" src="/img/spacer.gif"></td></tr></tbody></table>  </td>
+				<td colspan="3" bgcolor="#9999CC">
+		
+					 <table width="100%" border="0" cellpadding="4" cellspacing="0"><tbody><tr><td><img width="10" height="2" border="0" src="http://a1048.g.akamai.net/f/1048/1249/20000627-024752/www.thestandard.com/img/general/153.gif"></td></tr></tbody></table> </td>
 			</tr>
 			<tr>
-				 <td valign="top" bgcolor="#FFFFFF"><img src="http://a1048.g.akamai.net/f/1048/1249/19991109-031118/www.thestandard.com/img/body/1021.gif" height="10" width="10" border="0" alt=""></td>
+				<td valign="top" bgcolor="#FFFFFF"><img src="http://a1048.g.akamai.net/f/1048/1249/19991206-061210/www.thestandard.com/img/body/1021.gif" height="10" width="10" border="0" align="" hspace="" vspace="" alt=""></td>
 				<td bgcolor="#FFFFFF"><table width="90%" border="0" cellpadding="4" cellspacing="0"><tbody><tr><td></td></tr></tbody></table></td>
-				<td valign="top" bgcolor="#FFFFFF"><img src="http://a1048.g.akamai.net/f/1048/1249/19991109-031121/www.thestandard.com/img/body/1022.gif" height="22" width="19" border="0" alt=""></td>
-				<td bgcolor="#9999CC" align="center">
-					<font size="1" face="verdana">Wed Jun 21</font><br>
-				</td>
+				<td align="right" valign="top"><img src="http://a1048.g.akamai.net/f/1048/1249/19991119-011137/www.thestandard.com/img/body/1027.gif" height="10" width="10" border="0" align="" hspace="" vspace="" alt=""></td>
 			</tr>
-			<tr bgcolor="#FFFFFF">
-				<td><img border="0" width="10" height="1" vspace="0" hspace="0" src="/img/general/spacer.gif"><br></td>
-				<td><img border="0" width="345" height="1" vspace="0" hspace="0" src="/img/general/spacer.gif"><br></td>
-				<td><img border="0" width="10" height="1" vspace="0" hspace="0" src="/img/general/spacer.gif"><br></td>
-				<td><img border="0" width="100" height="1" vspace="0" hspace="0" src="/img/general/spacer.gif"><br></td>
+			<tr>
+				<td><img border="0" width="10" height="1" vspace="0" hspace="0" src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif"><br></td>
+				<td><img border="0" width="454" height="1" vspace="0" hspace="0" src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif"><br></td>
+				<td><img border="0" width="10" height="1" vspace="0" hspace="0" src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif"><br></td>
 			</tr>
 			</tbody></table>
 
-		   
+		  
 			<table border="0" cellpadding="4" cellspacing="0" width="474">
 		 <tbody><tr>
 			
-			<td valign="top">
-<p><!-- BEGIN CONTENT --> <font face="Arial, Helvetica, sans-serif" size="3" color="#330066"><b>Privacy Policy</b></font>
+			<td valign="top"><p><!-- BEGIN CONTENT --> <font face="Arial, Helvetica, sans-serif" size="3" color="#330066"><b>Privacy Policy</b></font>
  </p>
 <p> 
 </p><p><font size="2" face="verdana, helvetica, sans-serif"><b>Principles</b></font></p>
@@ -458,176 +325,131 @@ else {
   information established at the time of registration for any site. </font></p>
 
 
-<!-- Vignette StoryServer 4 Wed Jun 21 16:52:03 2000 -->
+<!-- Vignette StoryServer 5.0 Fri Dec 01 17:28:24 2000 -->
  </td>
 		</tr>
 		</tbody></table><br>
-
 
 	</td>
 
 	<!-- right gutter -->
 	<td width="12" valign="top">
-		<img src="/img/general/1464.gif" height="450" width="12" border="0" vspace="0" hspace="0"><br>
-		<img src="/img/general/1439.gif" height="25" width="12" border="0" vspace="0" hspace="0"><br>
+		 <img src="http://a1048.g.akamai.net/f/1048/1249/19991222-011242/www.thestandard.com/img/general/1464.gif" height="500" width="12" border="0" vspace="0" hspace="0"><br>
+		<img src="http://a1048.g.akamai.net/f/1048/1249/20000728-120718/www.thestandard.com/img/general/1439.gif" height="25" width="12" border="0" align="" hspace="" vspace="" alt=""><br>
 	</td>
 
+	
 	<!-- right column -->
 	<td width="129" valign="top" align="right">
-
-
-		 <table border="0" cellpadding="0" cellspacing="0" width="129">
-		
+		<table border="0" cellpadding="0" cellspacing="0" width="129">
 		<tbody><tr>
-		
-		<td width="4" rowspan="10"><img src="http://www.thestandard.com/img/spacer.gif" width="4"></td>
-		
-		<td>
-			  <br>			  
-<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><b>
-Get the Magazine</b><br></font>
-
-<font face="verdana,arial,helvetica,sans" serif="" size="2"><a href="http://www.standardservices.com/Magazine/msubscribe.asp?SK=7SHW"><font color="FFFF00">
-<b>4 FREE ISSUES</b></font></a>			  
-			  		
-
-        </font></font></center></td>
+		<td width="4" rowspan="10"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="4"></td>
+		<td> <img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" width="4" height="3"></td>
 		</tr>
-			<tr><td>
-			&nbsp;
-			</td></tr>
+			
 		
-		
-		<tr>
-
-							
 
 		
-		
-			</tr><tr>
-				<td>
-					<nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=right;sz=120x240;tile=4;ord=050214?" name="frame4" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=right;sz=120x240;tile=4;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=right;sz=120x240;tile=4;ord=050214?" BORDER=0 HEIGHT=240 WIDTH=120></A></iframe></nolayer><ilayer id="layer4" visibility="hide" width="120" height="240"></ilayer> </td>
+			<tr>
+				<td><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=right;sz=120x240;tile=4;ord=021207?" name="frame4" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=right;sz=120x240;tile=4;ord=021207?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=right;sz=120x240;tile=4;ord=021207?" BORDER=0 HEIGHT=240 WIDTH=120></A></iframe></nolayer><ilayer id="layer4" visibility="hide" width="120" height="240"></ilayer></td>
 			</tr>
 			<tr>
 				<td>&nbsp;<br></td>
 			</tr>
 			<tr>
-				<td>
-					<nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=;sz=125x125;tile=5;ord=050214?" name="frame5" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=125x125;tile=5;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=125x125;tile=5;ord=050214?" BORDER=0 HEIGHT=125 WIDTH=125></A></iframe></nolayer><ilayer id="layer5" visibility="hide" width="125" height="125"></ilayer> </td>
+				<td><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=;sz=125x125;tile=5;ord=021207?" name="frame5" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=125x125;tile=5;ord=021207?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=125x125;tile=5;ord=021207?" BORDER=0 HEIGHT=125 WIDTH=125></A></iframe></nolayer><ilayer id="layer5" visibility="hide" width="125" height="125"></ilayer></td>
 			</tr>
             
-			<tr>
-				<td>&nbsp;<br></td>	
-			</tr>
-			
-			<tr>
-						
-            
-			<td>
-				<!-- Vignette StoryServer 4 Wed Jun 21 17:00:05 2000 -->
-
-		<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><b>Post a job<br>in our</b><br><a href="http://ad.doubleclick.net/jump/idg.thestandard/fourthPromo3;text=link1;sz=1x1;ord=16675187787771?"><font color="#FFFF00" size="2"><b>Job Shop</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/fourthPromo3;text=link1;sz=1x1;ord=16675187787771?" border="0" height="1" width="1"></a> </font></font></center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><br><br>
-	
-		<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><b>Subscribe to any<br>of our 18</b><br><a href="http://ad.doubleclick.net/jump/idg.thestandard/fourthPromo3;text=link2;sz=1x1;ord=15822299713234?"><font color="#FFFF00" size="2"><b>Newsletters</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/fourthPromo3;text=link2;sz=1x1;ord=15822299713234?" border="0" height="1" width="1"></a> </font></font></center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><br><br>
-	
-		<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><b>List your<br>company info<br>in our</b><br><a href="http://ad.doubleclick.net/jump/idg.thestandard/fourthPromo3;text=link3;sz=1x1;ord=1063529611513?"><font color="#FFFF00" size="2"><b>iB2B Directory</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/fourthPromo3;text=link3;sz=1x1;ord=1063529611513?" border="0" height="1" width="1"></a> </font></font></center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><br><br>
-	 </font></font></font></font></font></font></td>
-			
-			</tr>
-			
 			<tr>
 				<td>&nbsp;<br></td>
 			</tr>
-			
 			<tr>
-			    <td>
-					<center><a href="http://www.standardservices.com/magazine/msubscribe.asp?SK=7VLY"><img src="http://a1048.g.akamai.net/f/1048/1249/20000314-050323/www.thestandard.com/img/is_adverts/2940.gif" height="148" width="98" border="0" alt="Get The Magazine, 4 Free Issues, Click Here to Subscribe"></a></center>
+			    <td align="center">
+					<a href="https://www.standardservices.com/7ZCJ/"><img src="http://a1048.g.akamai.net/f/1048/1249/20000509-050517/www.thestandard.com/img/is_adverts/3719.gif" height="148" width="98" border="0" align="" hspace="0" vspace="0" alt="Get The Magazine, Subscribe Online and Save $10!"></a>
 				</td>
 			</tr>
 		 </tbody></table>
-
-
-
-
 	</td>
-
-    </tr>
+	 </tr>
 </tbody></table>
 
-
-
-
 <!-- BOTTOM TABLE -->
-<center>
-<table border="0" cellpadding="0" cellspacing="0" width="767">
+
+<table border="0" cellpadding="0" cellspacing="0" width="767" align="center">
 <tbody><tr>
 	<td width="140" bgcolor="#666699">&nbsp;</td>
 	<td>
-
 		<table border="0" cellpadding="0" cellspacing="0" width="498">
-
 		<tbody><tr>
-			<td colspan="3" width="498" valign="top" bgcolor="#666699"><img src="http://a1048.g.akamai.net/f/1048/1249/20000621-045204/www.thestandard.com/img/nav/1144.gif" height="22" width="498" border="0" alt=""></td>
+			<td colspan="3" width="498" valign="top" bgcolor="#666699"><img src="http://a1048.g.akamai.net/f/1048/1249/19991118-121150/www.thestandard.com/img/nav/1144.gif" height="22" width="498" border="0" align="" hspace="" vspace="" alt=""></td>
 		</tr>
-
 		<tr>
-			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
-			<td bgcolor="#CCCCCC"><!-- Vignette StoryServer 4 Tue Jun 20 14:00:45 2000 -->
+			<td width="4" bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+			<td bgcolor="#CCCCCC" width="619">
+			
+				<!-- Vignette StoryServer 5.0 Fri Dec 01 10:24:57 2000 -->
  &nbsp;<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/img/general/1554.gif" height="23" width="447" border="0" alt="Featured Links"><br> 
+<img src="http://a1048.g.akamai.net/f/1048/1249/20000118-030140/www.thestandard.com/img/general/1554.gif" height="23" width="447" border="0" align="" hspace="" vspace="" alt="Featured Links"><br> 
 
 <font face="verdana" size="2">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Join <a href="http://www.backflip.com/p_error_browser.html" target="_blank" onclick="void(window.open('http://www.backflip.com/p_add_page_pop.ihtml?p=376&amp;title='+escape(document.title)+'&amp;url='+escape(location.href),'Backflip','height=366,width=400,location=no,scrollbars=no,menubars=no,toolbars=no,resizable=yes'));return false;" onmouseover="status='Backflip it!'; return true;" onmouseout="status=''; return true;"><font color="#990000"><b>Backflip</b></font></a>: save, discover, organize, &amp; share Web pages.<br>
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Join <a href="http://www.backflip.com/p_error_browser.html" target="_blank" onClick="void(window.open('http://www.backflip.com/p_add_page_pop.ihtml?p=376&title='+escape(document.title)+'&url='+escape(location.href),'Backflip','height=366,width=400,location=no,scrollbars=no,menubars=no,toolbars=no,resizable=yes'));return false;" onMouseOver="status='Backflip it!'; return true;" onMouseOut="status=''; return true;"><font color="#990000"><b>Backflip</b></font></a>: save, discover, organize, & share Web pages.<BR>-->
 
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link2;sz=1x1;ord=050214?"><font color="#990000"><b>Demandline</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link2;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Where businesses save $$$ on long distance &amp; more<br>
-
-
-
-
-
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link3;sz=1x1;ord=050214?"><font color="#990000"><b>MadeToOrder.com</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link3;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> For quality, custom logo merchandise online<br>
+ <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link1;sz=1x1;ord=021207?"><font color="#990000"><b>Fidelity Rollover Express: </b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link1;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> Consolidate your retirement plans<br>
 
 
 
 
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link4;sz=1x1;ord=050214?"><font color="#990000"><b>neoIT:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link4;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Outsource your software projects and launch on-time<br>
+ <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link2;sz=1x1;ord=021207?"><font color="#990000"><b>HubStorm:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link2;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> Launch your Commerce One<font size="1">®</font> net market in NO time!<br>
 
 
 
 
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-OpenBusiness from <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link5;sz=1x1;ord=050214?"><font color="#990000"><b>ObjectSpace:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link5;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> WHAT B2B IS MEANT TO BE<br>
+Go direct to Wall Street with  <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link3;sz=1x1;ord=021207?"><font color="#990000"><b>Ameritrade®.</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link3;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> Click here.<br>
 
 
 
 
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link6;sz=1x1;ord=050214?"><font color="#990000"><b>OpenSite:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link6;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Online auction solutions<br>
+ <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link4;sz=1x1;ord=021207?"><font color="#990000"><b>neoIT:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link4;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> Outsource your software projects and launch on-time<br>
 
 
 
 
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Run your own B2B auctions! <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link7;sz=1x1;ord=050214?"><font color="#990000"><b>Commerce One</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link7;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Auction Services.<br>
+  <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link5;sz=1x1;ord=021207?"><font color="#990000"><b>WindWire</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link5;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> helps wireless publishers generate ad revenue today!<br>
 
 
 
 
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link8;sz=1x1;ord=050214?"><font color="#990000"><b>Improvemybusiness.com:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link8;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Need we say more?<br>
+ <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link6;sz=1x1;ord=021207?"><font color="#990000"><b>Affinity: </b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link6;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> Web hosting plans starting at $19.95 per month.<br>
+
+
+
+
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CRM strategy+personalization technology = Revenue.  <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link7;sz=1x1;ord=021207?"><font color="#990000"><b>DiaLogos.</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link7;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> <br>
+
+
+
+
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3X Faster or $1,000,000, guaranteed.  <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link8;sz=1x1;ord=021207?"><font color="#990000"><b>Click here to register.</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link8;sz=1x1;ord=021207?" border="0" height="1" width="1"></a> <br>
 
 
 
@@ -635,59 +457,46 @@ Run your own B2B auctions! <a href="http://ad.doubleclick.net/jump/idg.thestanda
 </font>
 
 &nbsp;<br>
-</td>
-			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+  </td>
+			<td width="4" bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
 		</tr>
-
 		<tr>
-			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
-			<td bgcolor="#cccccc" align="center"><br><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=bottom;sz=468x60;tile=6;ord=050214?" name="frame6" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=bottom;sz=468x60;tile=6;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=bottom;sz=468x60;tile=6;ord=050214?" BORDER=0 HEIGHT=60 WIDTH=468></A></iframe></nolayer><ilayer id="layer6" visibility="hide" width="468" height="60"></ilayer></td>
-			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+			<td width="4" bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+			<td bgcolor="#cccccc" align="center"><br><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=bottom;sz=468x60;tile=6;ord=021207?" name="frame6" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=bottom;sz=468x60;tile=6;ord=021207?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=bottom;sz=468x60;tile=6;ord=021207?" BORDER=0 HEIGHT=60 WIDTH=468></A></iframe></nolayer><ilayer id="layer6" visibility="hide" width="468" height="60"></ilayer></td>
+			<td width="4" bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
 		</tr>
-
 		<tr>
-			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+			<td width="4" bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
 			<td bgcolor="#cccccc" width="490">
-
 				<small>&nbsp;<br></small>
-
 			</td>
-			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+			<td width="4" bgcolor="#ffffff"><img src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
 		</tr>
-
 		<tr>
-			<td colspan="3" bgcolor="#666699"><img src="http://a1048.g.akamai.net/f/1048/1249/20000621-045204/www.thestandard.com/img/nav/1145.gif" height="12" width="498" border="0" alt=""></td>
+			<td colspan="3" bgcolor="#666699"><img src="http://a1048.g.akamai.net/f/1048/1249/19991118-121133/www.thestandard.com/img/nav/1145.gif" height="12" width="498" border="0" align="" hspace="" vspace="" alt=""></td>
 		</tr>
-
 		</tbody></table>
-
-
 	</td>
-	<td width="129">&nbsp;</td>
-</tr>
+	<td width="129">&nbsp;</td></tr>
 </tbody></table>
 
-
-
-<table border="0" cellpadding="10" cellspacing="0" width="767">
+<table border="0" cellpadding="0" cellspacing="0" width="767" align="center">
 <tbody><tr>
+	<td bgcolor="#666699" width="140"><img width="140" height="1" src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif"></td>
+	<td width="468" bgcolor="#666699" valign="top">
+	<img width="1" height="10" src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif"><br>
+	<a href="http://www.thestandard.com/about/" class="footer" style="font-weight:bold"><b>ABOUT US:</b></a> <a href="http://www.thestandard.com/about/media/" class="footer">Media Kit</a> | <a href="http://www.thestandard.com/about/learn/" class="footer">Learn About Us</a> | <a href="http://www.thestandard.com/about/business/" class="footer">Do Business With Us</a> | <a href="http://www.thestandard.com/about/learn/jobs/listings/" class="footer">Jobs</a> | <a href="http://www.thestandard.com/about/contact/" class="footer">Contact Us</a><br> 
+<a href="http://www.thestandard.com/about/learn/company/international" font="" class="footer" style="font-weight:bold">THE STANDARD AROUND THE WORLD: </a><a href="http://www.thestandardeurope.com/" class="footer">Europe</a> | <a href="http://www.thestandard.com.au/index.html" class="footer">Australia</a> | <a href="http://www.thestandard.com.br/" class="footer">Brazil</a> | <a href="http://www.thestandardkorea.com/" class="footer">Korea</a> | <a href="http://www.business-standard.no" class="footer">Norway</a> | <a href="http://www.internetstandard.pl/" class="footer">Poland</a> | <a href="http://www.standard.idg.se" class="footer">Sweden</a> | <a href="http://www.internetstandard.ch/" class="footer">Switzerland</a><br> 
+<font class="footer">Copyright(c) 2000 Standard Media International</font> | <a href="http://www.thestandard.com/service/" class="footer">Customer Service</a><br> 
+<a href="http://www.thestandard.com/privacy_policy/" class="footer">Privacy Policy</a>
+	<img width="1" height="10" src="http://a1048.g.akamai.net/f/1048/1249/19991104-051126/www.thestandard.com/img/general/153.gif"><br>
+	</td>
 	
-			<td bgcolor="#666699" width="139">
-				&nbsp;
-			</td>
-			<td width="468" bgcolor="#666699" valign="top">
-
-			<table width="468" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://www.thestandard.com/home/issue/" class="footer">Magazine</a><a class="footer"> | </a><a href="http://www.thestandard.com/newsletters/" class="footer">Newsletters</a><a class="footer"> | </a><a href="http://www.thestandard.com/mystandard/portable/" class="footer">Portable</a><a class="footer"> | </a><a href="http://www.thestandard.com/about/" class="footer">About Us</a><a class="footer"> | </a><a href="http://www.thestandard.com/news/" class="footer">News &amp; Analysis</a><a class="footer"> | </a><a href="http://www.thestandard.com/news/special/home/" class="footer">Special Reports</a><a class="footer"> | </a><a href="http://www.thestandard.com/research/store/" class="footer">Intelligence Store</a><a class="footer"> | </a><a href="http://www.thestandard.com/people/recruitment/" class="footer">Job Shop</a><a class="footer"> | </a><a href="http://www.thestandard.com/companies/directory/" class="footer">The Directory</a><a class="footer"> | </a><a href="http://www.thestandard.com/events/" class="footer">Conferences &amp; Events</a><a class="footer"> | </a><a href="http://www.thestandard.com/service/" class="footer">Customer Service</a><a class="footer"> | </a><a class="footer">Copyright© 2000 The Standard Media International</a></td></tr></tbody></table> </td>
-			
-			<td width="159">&nbsp;</td>
-</tr>
+		<td width="159">&nbsp;</td>
+	</tr>
 </tbody></table>
 
+<layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=top;sz=468x60;tile=1;ord=021207?" width="468" height="60" visibility="hide" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=;sz=88x31;tile=2;ord=021207?" width="88" height="31" visibility="hide" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=31;clip.width=88;visibility='show';"></layer>
+	<layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=right;sz=120x240;tile=4;ord=021207?" width="120" height="240" visibility="hide" onload="moveToAbsolute(layer4.pageX,layer4.pageY);clip.height=240;clip.width=120;visibility='show';"></layer> <layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=;sz=125x125;tile=5;ord=021207?" width="125" height="125" visibility="hide" onload="moveToAbsolute(layer5.pageX,layer5.pageY);clip.height=125;clip.width=125;visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=bottom;sz=468x60;tile=6;ord=021207?" width="468" height="60" visibility="hide" onload="moveToAbsolute(layer6.pageX,layer6.pageY);clip.height=60;clip.width=468;visibility='show';"></layer>
 
-
-</center>
-
-<layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=top;sz=468x60;tile=1;ord=050214?" width="468" height="60" visibility="hide" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=;sz=88x31;tile=2;ord=050214?" width="88" height="31" visibility="hide" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=31;clip.width=88;visibility='show';"></layer>
-	<layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=right;sz=120x240;tile=4;ord=050214?" width="120" height="240" visibility="hide" onload="moveToAbsolute(layer4.pageX,layer4.pageY);clip.height=240;clip.width=120;visibility='show';"></layer> <layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=;sz=125x125;tile=5;ord=050214?" width="125" height="125" visibility="hide" onload="moveToAbsolute(layer5.pageX,layer5.pageY);clip.height=125;clip.width=125;visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=bottom;sz=468x60;tile=6;ord=050214?" width="468" height="60" visibility="hide" onload="moveToAbsolute(layer6.pageX,layer6.pageY);clip.height=60;clip.width=468;visibility='show';"></layer>
-
-</center></body></html>
+</body></html>
