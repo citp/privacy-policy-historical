@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204211045id_/http%3A//www.gipsymedia.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603160058id_/http%3A//www.gipsymedia.com/general/privacy.html) for the most accurate reproduction.*
 
 # GipsyMedia Limited - Privacy Statement
 
