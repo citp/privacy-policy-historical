@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607201215id_/http%3A//www.thedailypage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210095651id_/http%3A//www.thedailypage.com/privacy.php) for the most accurate reproduction.*
 
 # The Daily Page: Privacy Policy
 
