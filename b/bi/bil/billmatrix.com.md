@@ -1,23 +1,40 @@
-> *The following text is extracted and transformed from the billmatrix.com privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219031027id_/http%3A//www.billmatrix.com/BM/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmatrix.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401185906id_/http%3A//www.billmatrix.com/priv_legal.html) for the most accurate reproduction.*
 
-# BillMatrix - Privacy
+# BillMatrix - The payment experts.™
 
-BillMatrix is dedicated to ensuring your privacy. The following privacy statement covers only the BillMatrix.com site and not the links provided by its clients and/or BillMatrix's online bill payment service.
+At BillMatrix, we are committed to protecting your privacy online. Our goal is to safeguard any personal information you provide to us. Personal information includes data that reasonably can be used to identify or describe an individual, such as name, address, phone number, and e-mail address. To meet this goal we will:
 
-**Identifiable Information Collected**
+  * notify you when our website is collecting personal information; 
+  * inform you on what information is being collected; 
+  * obtain your permission if we seek to use your personal information in a way other than specified when it was collected; 
+  * take reasonable steps to protect your information; and 
+  * give you an opportunity to review and update your personal information. 
 
-BillMatrix does not collect information of any kind from visitors. If you request information by clicking on any of the e-mail links, your request is fulfilled and contact information deleted. If you do not want BillMatrix to have your e-mail address for the purpose of fulfilling your request for information, please do not send e-mail to BillMatrix or click on any of the e-mail links.
 
-**Use of Identifiable Information Collected**
 
-BillMatrix is the sole owner of the information submitted to them via their web site and uses the information for marketing and sales use only as requested by visitors. BillMatrix processes requests for sales and marketing and general company information by visitors, then properly disposes of visitor information.
+Commitment to Online Security   
+BillMatrix uses a variety of administrative and technical security measures to maintain the safety of your information. Personal information is contained behind a secured network that is designed to be accessible only by a limited number of employees. 
 
-**Sharing of Information Collected**
+Personal Information that BillMatrix May Collect Online   
+BillMatrix typically collects the following types of personal information: names, companies, titles, postal and e-mail addresses, phone numbers and type of informational literature you request.
 
-BillMatrix does not sell, share or rent any information submitted by visitors to any third party. 
+Children's Privacy   
+BillMatrix does not knowingly collect or maintain information from children under the age of 13, and no part of our site is structured to attract anyone under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.
 
-**Information Correction Procedures**
+How BillMatrix May Use Personal Information Collected Online   
+BillMatrix will not use your personal information other than for the purpose for which it was submitted without your consent. We typically use personal information to respond to informational literature requests and to organize meetings. At any time you can add or remove your name from our mailing list by contacting us at [info@billmatrix.com](mailto:info@billmatrix.com). Any e-mail communication or newsletter also has instructions on how to unsubscribe.
 
-While email correspondence is maintained only long enough to respond to your request, you may at any time review or update email correspondence retained during this short period by writing to [info@billmatrix.com](mailto:info@BillMatrix.Com?subject=Privacy%20Concern). To safeguard the security and integrity of your information, we only grant access or correction when requests are received from the original submitter's email account. 
+How Your Information May Be Shared   
+BillMatrix will not sell or distribute your personal information without your consent, provided that we may transfer such information in connection with the sale of our business. We may provide aggregate statistics about our customers, sales and related site information to outside parties interested in demographics, but no personally identifiable information or company data will ever be shared for such purposes. We may be required to share information in connection with the enforcement of laws or regulation or other legal action or in connection with violations of our [Terms of Use](https://web.archive.org/web/20040401185906id_/http%3A//www.billmatrix.com/terms_of_use.html).
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the electronic correspondence we receive online.
+Accuracy of Your Personal Information   
+If your personal information changes or you would like to review the personal information we may have on file, please email us with the new information or your review request at [info@billmatrix.com](mailto:info@billmatrix.com). We will make every reasonable effort to make sure your requests are honored.
+
+Computer Tracking and Cookies   
+Our website is not set up to track, collect or distribute personal information not entered by its visitors. Our website logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our site. This information is used for internal purposes by technical support staff to provide better services to our customers and may also be provided to others.
+
+Outside Links   
+Our website may contain links to and from other websites. We are not responsible for their privacy practices and encourage you to investigate the privacy practices of those websites.
+
+Problems   
+If you have a question about our privacy policy, you may contact us at [info@billmatrix.com](mailto:info@billmatrix.com).
