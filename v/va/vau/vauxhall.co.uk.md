@@ -1,9 +1,18 @@
-> *The following text is extracted and transformed from the vauxhall.co.uk privacy policy that was archived on 2004-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040205045712id_/http%3A//vauxhall.co.uk/terms/termsconditions.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vauxhall.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075720id_/http%3A//vauxhall.co.uk/terms/termsconditions.jhtml) for the most accurate reproduction.*
 
 # Vauxhall - Terms and Conditions of access
 
-Vauxhall WWW Site Terms and Conditions of Access  
+Copyright  
 ---  
+Copyright 2004 General Motors Corporation. All Rights Reserved. All text, images, graphics, animation, videos, music and other materials on this website are subject to the copyright and other intellectual property rights of General Motors Corporation. These materials may not be reproduced, distributed, modified or reposted to other websites without the express written permission of General Motors Corporation.  
+Trademark  
+The marks appearing on this website including, but not limited to: (i) GM and the GM Logo; (ii) Chevrolet, Pontiac, Oldsmobile, Buick, Cadillac, GMC, Saturn and HUMMER and their respective logos, emblems, slogans and vehicle model names and body designs; and (iii) other marks such as Saab, Holden, Opel, Vauxhall, GMAC and ACDELCO are trademarks and/or service marks of General Motors Corporation, its subsidiaries, affiliates or licensors.  
+Notices  
+The information contained herein is designed to be as comprehensive and factual as possible. We reserve the right, however, to make changes at any time, without notice, in prices, colours, materials, equipment, specifications, models and availability. 
+
+Some links provided in this site may lead to sites furnished by independent site owners. The information presented therein is the sole responsibility of those site owners. GM and its advertising agencies have no control or responsibility for the content of independent sites and provides these links to its visitors for their convenience.   
+  
+Vauxhall WWW Site Terms and Conditions of Access  
 This World Wide Website (the "Site") is operated by Vauxhall Motors Limited, a company registered under the Companies Acts in England (No. 135767) and having its registered office at Osborne Road, Luton, Bedfordshire ("Vauxhall").   
 1\. Intellectual Property  
 All materials within the Site are the intellectual property of Vauxhall. Such materials may not be copied or reproduced, save to the extent necessary to view the same on-line. However, you may print complete pages of the site to hard copy for your own personal use.  
@@ -19,7 +28,7 @@ Vauxhall respects the privacy of every individual who visits the Site. This Clau
 Personal Data  
 Vauxhall will not collect any personally-identifiable information about you (that is, your name, address, telephone number, or email address) ("Personal Data") unless you provide it to us voluntarily. If you do not want your Personal Data collected, please do not submit it.   
 If you have already submitted Personal Data and would like it removed from our records, please contact us at the email address or phone number listed at the bottom of this Clause 4. We will use reasonable efforts to delete your information from our records.   
-If you provide Vauxhall with Personal Data it will store this information about you now and in the future for marketing purposes, market research, tracking of sales data, and in order to contact you. Vauxhall may also disclose this information within its international group of companies (the GM Group, some of which are non-automotive) and to its dealers and agents for the above purposes.   
+If you provide Vauxhall with Personal Data it will store this information about you now and in the future for marketing purposes, market research, tracking of sales data, and in order to contact you. Vauxhall may also disclose this information within its international group of companies (the GM Group, some of which are non-automotive) and to its retailers and agents for the above purposes.   
 Non-Personally-Identifiable Information Collected Automatically  
 In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement   
 Information We May Place Automatically On Your Computer's Hard Drive  
