@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetfeet.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217220820id_/http%3A//www.wetfeet.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetfeet.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201184451id_/http%3A//wetfeet.com/about/privacy.asp) for the most accurate reproduction.*
 
 # WetFeet.com Privacy Statement
 
