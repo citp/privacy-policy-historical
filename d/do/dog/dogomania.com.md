@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603035952id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205121410id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
 
 # Dog-O-Mania - The biggest dogs related search engine & resource: Privacy policy
 
@@ -14,14 +14,14 @@
 \- [Awards](http://www.dogomania.com/awards/awards.shtml)
 
 **Breeds:**  
-\- [Breeds](http://www.dogomania.com/breed/) New!  
+\- [Breeds](http://www.dogomania.com/breed/)  
 \- [Breeders](http://www.dogomania.com/gallery/breeders/) New!  
 \- [Gallery](http://www.dogomania.com/gallery/breeds/) New!  
-\- [Standards](http://www.dogomania.com/gallery/standards/) New!  
+\- [Standards](http://www.dogomania.com/gallery/standards/)  
 
 
 **Names:**  
-\- [23000 dog names](http://www.dogomania.com/dog_names.shtml) New!  
+\- [25000 dog names](http://www.dogomania.com/dog_names.shtml)  
 \- [Submit a name](http://www.dogomania.com/addname.shtml)
 
 **Shows:**  
@@ -41,7 +41,6 @@
 \- [Stories](http://www.dogomania.com/stories.shtml) New!  
 \- [Poetry](http://www.dogomania.com/poetry.shtml) New!  
 \- [Art](http://www.dogomania.com/art.shtml)  
-\- [Postcards](http://www.dogomania.com/postcards.shtml)  
 \- [Graphics](http://www.dogomania.com/webgraphics.shtml)  
 \- [Windows themes](http://www.dogomania.com/winthemes.shtml)  
 \- [Screen savers](http://www.dogomania.com/screensavers.shtml)  
@@ -54,9 +53,11 @@
 
 **Rescues:**  
 \- [Shelters](http://www.dogomania.com/shelters.shtml)  
-\- [Available/wanted](http://www.dogomania.com/dogs-in-need.shtml)  
-\- [Lost/Found](http://www.dogomania.com/dogs-in-need.shtml)  
-\- [Post-a-dog](http://www.dogomania.com/addrdog.shtml)
+\- [Available](http://www.dogomania.com/dogs_in_need/search.php?Category=1&main=yes) New!  
+\- [Wanted](http://www.dogomania.com/dogs_in_need/search.php?Category=2&main=yes) New!  
+\- [Lost](http://www.dogomania.com/dogs_in_need/search.php?Category=3&main=yes) New!  
+\- [Found](http://www.dogomania.com/dogs_in_need/search.php?Category=4&main=yes) New!  
+\- [Submit info](http://www.dogomania.com/addrdog.php)
 
 **Online Shops:**  
 \- [Free classified ads](http://www.dogomania.com/ads.shtml)  
