@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218032239id_/http%3A//www.ipl.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605031933id_/http%3A//www.ipl.org/about/privacy.html) for the most accurate reproduction.*
 
 # IPL Privacy Statement
 
@@ -16,7 +16,7 @@ Our on-line surveys are anonymous and are used to improve our site and better se
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
 
-[David Carter](mailto:ipl@ipl.org)  
+[Sue Davidsen](mailto:ipl@ipl.org)  
 Director, Internet Public Library   
 University of Michigan School of Information   
 550 E. University   
