@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605171119id_/http%3A//borland.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020148id_/http%3A//borland.com/company/privacy.html) for the most accurate reproduction.*
 
 # Borland Privacy Policy
 
-Privacy Policy 
+Privacy Policy (Effective Date: August 31, 2004)
 
-The following statement discloses the consumer privacy practices of Borland Software Corporation ("Borland") for the Borland Web Site (this "Site"). By using this Site, you are deemed to consent to our privacy practices. If you do not consent to these privacy practices, do not use this Site or download any materials from it. 
+The following statement discloses the consumer privacy practices of Borland Software Corporation ("Borland") for the Borland Web Site (this "Site"). This Privacy Policy governs all use of this Site, except for the portions of the site within the shopping.borland.com domain, which are covered by the privacy policy [here](http://shop.borland.com/dr/v2/ec_main.entry11?xid=39696&sp=10345&pn=1#q1). By using this Site, you are deemed to consent to our privacy practices. If you do not consent to these privacy practices, do not use this Site or download any materials from it.
 
-We do revise and update our privacy practices from time to time and we reserve the right to do so without any notice to you so you should visit this page, at least once every thirty days, to review our then-current privacy practices because they are binding on you. All updates will be published at this site. Your continued use of this Site shall be considered your consent to any revised privacy practices.
+We do revise and update our privacy practices from time to time. In general, we do not provide specific notification of such updates, and we reserve the right make them without any notice to you. You should visit this page, at least once every thirty days, to review our then-current privacy practices, because they are binding on you. All updates will be published at this site. Your continued use of this Site shall be considered your consent to any revised privacy practices.
 
  **Your Privacy**
 
  **Use of Personally Identifiable Information**  
-In general, you can visit this Site without telling us who you are or revealing any personal information about yourself. However, most areas of this Site require registration to access. We collect this information to better understand your needs and provide you with services that are valuable to you. If you choose not to provide the information we request, you can still visit much of this Site, but you may be unable to access certain options, offers and services such as downloading trial or evaluation software.
+In general, you can visit this Site without telling us who you are or revealing any personal information about yourself. However, most areas of this Site require registration to access, which requires you to provide certain personally identifiable information, including: your name, mailing address, email address and voice and/or fax telephone numbers. We collect this information to better understand your needs and provide you with services that are valuable to you. If you choose not to provide some of the information we request, you can still visit much of this Site, but you may be unable to access certain options, offers and services such as downloading trial or evaluation software.
 
-As a condition to being allowed to download trial or evaluation software from this Site, you may be asked for your consent to be contacted from time to time by us and/or one of our affiliates, representatives or partners, by either email, postal mail, telephone and/or facsimile, to provide you with the information about other products and/or services offered by Borland or its affiliates or partners that we or they think may be of interest to you. 
+As a condition to being allowed to download trial or evaluation software from this Site, you may be asked for your consent to be contacted from time to time by us and/or one of our affiliates, representatives or partners, by either email, postal mail, telephone and/or facsimile, to provide you with the information about other products and/or services offered by Borland or its affiliates or partners that we or they think may be of interest to you.
 
 Borland provides a number of ways for you to "opt-out" of receiving certain additional information from us or having us provide your personal information to our partners. We may offer you these choices at the time you give us your information. However, the availability of certain offers and services such as downloading trial or evaluation software may be conditioned upon your agreement to permit Borland or our business partners to contact you, in which case, notice of any such condition will appear on this Site.
 
@@ -21,7 +21,7 @@ Since Borland is a global company, we provide company information to our worldwi
 
 Please be advised that in certain instances, it may be necessary for Borland to disclose your personal information to federal, state and local government officials in the U.S. or overseas or otherwise as required by our legal obligations.
 
-Personal data privacy is a new and evolving area, and mistakes and miscommunication are possible. We will do our best to maintain the accuracy of your personal information. To make changes to our records of your personal information, please modify your registration profile.
+Personal data privacy is a new and evolving area, and mistakes and miscommunication are possible. We will do our best to maintain the accuracy of your personal information. To make changes to our records of your personal information, please modify your [registration profile](https://bdn.borland.com/cgi-bin/login/edit.cgi). Visitors who have registered for support may modify their separate by clicking on the link marked "Customer Profile" after logging into case management.
 
  **Use of Cookies**  
 Borland may use cookies from time to time. Cookies are small text files a Web site can use to recognize a repeat visitor to the Web site. We use cookies for various reasons. Cookies enable us to provide you with a better experience by allowing us to understand what areas of this Site are of interest to our members. These cookies do not track individual information. Cookies from Borland can only be read by Borland Web sites. If you do not want Borland to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Web site tries to put a cookie in your browser software. If you choose to disable cookies in your browser, you can still access most of this Site, however, your ability to use some of the products and/or services at this Site may be affected.
@@ -38,4 +38,4 @@ We may also link to co-branded Web sites from time to time that are maintained b
 
 Please remember that any information you submit in a chat group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
 
-Questions regarding this Privacy Statement please [contact us](https://web.archive.org/company/contact/index.html).
+Questions regarding this Privacy Statement please [contact us](http://www.borland.com/company/contact/index.html). 
