@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animalpicturesarchive.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205001700id_/http%3A//animalpicturesarchive.com/animal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalpicturesarchive.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603023750id_/http%3A//animalpicturesarchive.com/animal/privacy.html) for the most accurate reproduction.*
 
 # Animal Pictures Archive's Privacy Policy
 
@@ -6,7 +6,7 @@
 
 [Animal Pictures Archive](https://web.archive.org/animal/) is committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of user information.
 
-[User Information] [As a Flycast Affiliate]  
+[User Information] [As an Engage Affiliate]  
 
 
 **  User Information**
@@ -31,10 +31,10 @@ Other information that Animal Pictures Archive can infer consists of:
 
 
 
-**  As a Flycast Affiliate**
+**  As an Engage Affiliate**
 
 * * *
 
-Animal Pictures Archive works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [ http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html). 
+Animal Pictures Archive works with a third party that serves ads to this site. To find out more about how Engage manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy>. 
 
 If you have any additional questions about Animal Pictures Archive's privacy policy, please contact me at [jskim@AnimalPicturesArchive.com](mailto:jskim@AnimalPicturesArchive.com)
