@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
 
 # WirelessAdvisor.com - Privacy Statement
 
@@ -8,22 +8,22 @@
 * * *  
   
   
-**[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/Glossary.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/waforums/index.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/book1.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/faq.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/index.cfm)  
+**[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/Glossary.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/waforums/index.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/book1.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/faq.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/index.cfm)  
 **  
   
 * * *
 
-**[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/company.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/advertising.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/privacy.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/press.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/legal.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/feedback.cfm)  
-[](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/intouch.cfm)  
+**[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/company.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/advertising.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/privacy.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/press.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/legal.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/feedback.cfm)  
+[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/intouch.cfm)  
 **  
 |  WirelessAdvisor.com is not associated by ownership or membership with any cellular, PCS or wireless service provider companies and is not meant to be an endorsement of any company or service.  
   
@@ -37,7 +37,7 @@
   
   
 ---  
-[](https://www.truste.org/validate/386) |  Wireless Advisor, LLC is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for WirelessAdvisor.com. 
+[](https://www.truste.org/ivalidate.php?url=www.wirelessadvisor.com) |  Wireless Advisor, LLC is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for WirelessAdvisor.com. 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe mark, this Web site has agreed to notify you of:
 
@@ -99,6 +99,15 @@ Further information about this program is available at [http://www.bbbonline.org
 >     * Email addresses submitted for the purpose of posting classified ads are not publicly displayed or retained beyond the expiration date of the ad. Your email address is only revealed to people responding to your ad if you respond by email to their initial response.
 >     * Cookies and/or session variables are used to record a user's ZIP code so that they do not have to re-enter it as they move about the web site.
 >     * Other companies that advertise, or are linked to from WirelessAdvisor.com may collect information about visitors when they click on these companies' advertisements or links. WirelessAdvisor.com can not control information collected in this manner. However, remember that if you do not provide personal information directly to third party web sites you can not be personally identified. WirelessAdvisor.com will not pass any personal information to third parties.
+>     * Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site, or as required by law. 
+> ****
+> 
+> **Cookies **
+> 
+> A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies (or variables) and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+> 
+> We use cookies to store a visitor's ZIP code once they have used our ZIP code search engine. The stored ZIP code is then used to customize the user's experience on other pages through out the web site. Without this the cookie, user's will still be able to view these areas of the web site, but without the customized data.
+> 
 > ****
 > 
 > **Opt-Out and Correcting& Updating **
@@ -143,7 +152,7 @@ Search by ZIP code for the cellular, PCS and wireless phone companies serving yo
   
   
   
-**OR** ... [Select a city by name](https://web.archive.org/web/20030603211112id_/http%3A//wirelessadvisor.com/regions.cfm " Select City")  
+**OR** ... [Select a city by name](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/regions.cfm " Select City")  
   
   
   
