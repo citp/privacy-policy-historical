@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207045135id_/http%3A//boh.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616091117id_/http%3A//www.boh.com/privacy.asp) for the most accurate reproduction.*
 
 # Bank of Hawaii
 
@@ -10,8 +10,10 @@ When you supply us with your postal or email address or telephone number online,
 **Emails**  
 We preserve your email address, our response and the original content of your email for a period of time so we can efficiently handle any follow-up questions you may have. We also do this for legal, regulatory and account servicing requirements. Regular Internet email is not a secure form of communication. Any information sent via email should be of a non-sensitive and non-confidential nature. Submitting information via one of our online contact forms is secure as we employ encryption. 
 
-**Web-based Cookies**  
-Bank of Hawaii Corporation uses temporary cookies to store customer usage information to facilitate your access to restricted web pages during a single online session and to help us analyze traffic. These cookies expire after a limited time, do not contain any personal information and are not shared with any other web site. We do not store any email addresses, user names or other personal information in cookies. 
+**Web-based Cookies** **and Online Advertising**  
+Bank of Hawaii Corporation uses temporary cookies to store customer usage information to facilitate your access to restricted web pages during a single online session and to help us analyze traffic. We also use cookies to evaluate our web site and to track advertising campaigns from banner Ads, opt-in emails and through third party advertising services. We may hire companies, such as third party advertising services to track and report on advertising and marketing campaigns to and from boh.com and third party web sites. We permit certain of these companies to use cookies and other related technology, such as tracking pixels. 
+
+These cookies and tracking pixels (also known as web beacons, action tags, or transparent GIF files) may be used to anonymously collect and store information about user visits, such as page visits, the duration of a visit, and the specific advertisement or link(s) that the user clicked on to visit the site. No personally identifiable information is stored on these cookies or web pixels. The companies we use may not use these cookies for their own purposes or share the information in accordance with the contracts they have signed. The anonymous user activity is reported to us in aggregate and we use the information to understand, for example, the effectiveness of our advertising and marketing campaigns.
 
 While you are logged on viewing your account information or conducting online transactions with Bank of Hawaii Corporation, we recommend that you do not access other web sites during your online session. Always exit from your online session with Bank of Hawaii Corporation before moving to or accessing other web sites and prior to turning off your computer. 
 
@@ -33,11 +35,20 @@ If you are a current e-Bankoh online banking customer, you can provide updated c
 If you have any questions regarding this Privacy Policy or the practices of our web site, you can [contact us](https://www.boh.com/contact/form_gen-info.asp). 
 
 **Children's Privacy**  
-Our web site is directed to a general audience. We do not knowingly solicit or collect personal information from children on our site. 
+Our web site is directed to a general audience. We do not knowingly solicit or collect personal information from children on our site.  
+  
 
-Bank of Hawaii values its customers and is committed to protecting customer privacy. If you would like to view our Consumer Privacy Statement in its entirety, [click here for a printable version](https://web.archive.org/web/20031207045135id_/http%3A//boh.com/privacy.pdf) (PDF format). 
+
+Consumer Privacy Statement  
+**View and Download**  
+
+
+Bank of Hawaii values its customers and is committed to protecting customer privacy. If you would like to view our Consumer Privacy Statement, [click here for a printable version](https://web.archive.org/web/20040616091117id_/http%3A//www.boh.com/privacy.pdf) (PDF format).
 
 Use the free Adobe Acrobat Reader to view and print the Consumer Privacy Statement. 
 
 Our postal address is P.O. Box 2900, Honolulu, HI 96846-6000.  
 [Contact us](https://www.boh.com/contact/form_gen-info.asp) for more information or you can reach us by telephone at 1-888-643-3888.
+
+  
+
