@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210040623id_/http%3A//www.gov.je/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403160158id_/http%3A//www.gov.je/privpol.asp) for the most accurate reproduction.*
 
 # States of Jersey - Privacy Policy
 
