@@ -1,0 +1,476 @@
+<!--The following is the downloaded HTML source of the parents.com privacy policy that was archived on 2002-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020609183557id_/http%3A//www.parents.com/other/privacy.html) for the most accurate reproduction.-->
+
+<html><head></head><body bgcolor="#ffffff" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">&lt;%@ page language="java" import="java.net.*,java.sql.*,java.io.*,oracle.xml.parser.v2.*,org.w3c.dom.*,sun.misc.BASE64Decoder;" %&gt;
+&lt;%
+long randomNumber = System.currentTimeMillis();
+if (request.getParameter ("reload") != null)
+	response.sendRedirect (request.getRequestURI());
+
+String url = request.getRequestURI ();
+Cookie [] cookie  = request.getCookies(); 
+String login = null, membername = "", password = "";
+boolean showLogin = true;
+
+
+for (int i = 0; i &lt; cookie.length; i++) {
+	if (cookie [i].getName().equals ("parents_login")) {
+		login = cookie [i].getValue ();
+	} //end if
+} //end for
+	
+if (login != null) {
+
+	BASE64Decoder decode  = new BASE64Decoder();
+	login = new String(decode.decodeBuffer (login));
+	//login = loginB.toString ();
+	
+	int index = login.indexOf("~");
+	
+	membername = login.substring (0,index).trim();	
+	password = login.substring (index+1).trim();
+	session.setAttribute ("MemberName", membername);
+	session.setAttribute ("Password", password);
+}
+else membername = (String)session.getAttribute ("MemberName");	
+
+if (membername != null) {
+	showLogin = false;
+}
+%&gt;
+		
+
+
+<map name="welcome">
+<area alt="Register" coords="29,192,76,203" href="/registration/registration.jsp?url=/index.jsp">
+</map>
+          
+
+	<title></title>
+	<meta name="Author" content="">
+	<meta name="Date" content="">
+	<meta name="Deck" content="Privacy Policy">
+	<meta name="Keywords" content="Privacy Policy, Privacy, privacy, policy">
+	<meta name="Abstract" content="Privacy Policy">
+	<meta name="MessageBoards" content="">
+	<meta name="MessageBoardHref" content="">	
+	<link href="/global.css" rel="stylesheet" type="text/css">
+
+<script>
+
+<!--
+
+if(document.layers) {
+    browser="badbrowser";
+} else {
+    browser="goodbrowser";
+}
+document.write('<link type="text/css" href="/parents_' + browser + '.css" rel="stylesheet">\n');
+document.write('<link type="text/css" href="/parents_nav_' + browser + '.css" rel="stylesheet">\n');
+
+function navChange(formName, popupName, target) {
+	var popup = document[formName].elements[popupName];
+	if (popup.options[popup.selectedIndex].value != "") {
+        if (target != "_blank") {
+    		document.location = popup.options[popup.selectedIndex].value;
+        } else {
+            window.open(popup.options[popup.selectedIndex].value, target);
+        }
+		popup.selectedIndex=0;
+	}
+}
+// -->
+
+</script><link type="text/css" href="/parents_goodbrowser.css" rel="stylesheet">
+<link type="text/css" href="/parents_nav_goodbrowser.css" rel="stylesheet">
+
+<script language="javascript" src="/scripts/rollover.js"></script>
+
+
+
+
+<!-- Printer Friendly code -->
+
+ 
+	
+
+
+
+
+
+
+<table width="711" cellpadding="0" cellspacing="0" border="0" bgcolor="#4b217b">
+<tbody>
+<tr>
+<td colspan="2" width="710" valign="bottom">
+<table>
+<tbody><tr>
+<td>
+<a href="/index.html"><img src="/images/logo_greendotcom1.gif" width="215" height="51" hspace="9" vspace="3" border="0" alt="Parents.com"></a>
+</td>
+<td>
+
+
+
+<!-- 468 x 60 -->
+
+
+
+
+
+<iframe src="http://ad.doubleclick.net/adi/gjparents.com/homepage;pos=top;sz=468x60;tile=1;ord=&lt;%=randomNumber%&gt;?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<A HREF="http://ad.doubleclick.net/jump/gjparents.com/homepage;abr=!ie;pos=top;sz=468x60;tile=1;ord=<%=randomNumber%>?">
+<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/homepage;abr=!ie;pos=top;sz=468x60;tile=1;ord=<%=randomNumber%>?" border=0 height="60" width="468">
+</A>
+</iframe>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody></table>
+</td>
+<td width="1" bgcolor="#000000"><img src="/images/nopixel.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<form name="search" action="/community/search_results.jsp"></form>
+
+<td width="169" bgcolor="#FFFF66"><a href="https://commerce.cdsfulfillment.com/PM3/subscriptions.cgi?IN_Code=IPWZ"><img src="/images/subscription.gif" width="169" height="55" border="0" alt="click to subscribe to the print magazine" align="top"></a><br>
+<img src="/images/search_parents.gif" width="169" height="15" border="0" alt="search parents.com"><br>
+    <table cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr valign="top">
+    <td width="11"><img src="/images/nopixel.gif" width="11" height="18" border="0"></td>
+    <td><input id="searchtextbox" type="text" name="SEARCH" size="14"></td>
+    <td><img src="/images/nopixel.gif" width="5" height="1" border="0"><input type="image" src="/images/btn_arrow.gif" alt="submit" width="21" height="18" hspace="0" vspace="1" border="0"><br></td>
+    </tr>
+    </tbody></table>
+</td>
+
+<td width="541" valign="bottom">
+    <table width="541" cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr>
+    <td width="461" align="center" valign="top">
+    <div class="grayEleven">
+	<font color="#99ccff">
+	&lt;%if (!showLogin) { %&gt;
+		Welcome, &lt;%=membername %&gt;!&nbsp;
+	&lt;%}
+	else{%&gt;
+		<a href="#" class="linkLight" onclick="window.open ('/other/signin_pop.jsp', 'LogIn', 'width=260,height=390');">Sign In</a>&nbsp;  /&nbsp;
+ <a href="/registration/registration.jsp?url=/index.jsp" class="linkLight">Register Now</a>
+    &lt;%}%&gt;
+ 	</font>
+    </div>
+    </td>
+    <td width="80">
+    <img src="/images/nopixel.gif" width="80" height="15" border="0"><br>
+    <img src="/images/helptab.gif" width="80" height="12" border="0" usemap="#helptab"><br>
+    <map name="helptab">
+    <area alt="site index" coords="9,4,51,11" href="/articles/topic_indexes/index.jsp">
+    <area alt="help" coords="56,4,78,11" href="/help.html" shape="RECT">
+    <area alt="" shape="default" nohref="">
+    </map>
+    </td>
+    </tr>
+    <tr bgcolor="#ffff66">
+
+	   	<td width="541" colspan="2"><!-- navigation --><a href="/pregnancy/index.jsp" onmouseover="imageOn(0); rollOn(0);" onmouseout="imageOff(0); rollOff();"><img name="btn0" src="/images/btn_preg_off.gif" width="91" height="25" border="0" alt=""></a><a href="/health/index.jsp" onmouseover="imageOn(1); rollOn(1);" onmouseout="imageOff(1); rollOff();"><img name="btn1" src="/images/btn_health_off.gif" width="91" height="25" border="0" alt="Health"></a><a href="/ages_and_stages/index.jsp" onmouseover="imageOn(2); rollOn(2);" onmouseout="imageOff(2); rollOff();"><img name="btn2" src="/images/btn_ages_off.gif" width="97" height="25" border="0" alt=""></a><a href="/family_time/index.jsp" onmouseover="imageOn(3); rollOn(3);" onmouseout="imageOff(3); rollOff();"><img name="btn3" src="/images/btn_family_off.gif" width="91" height="25" border="0" alt=""></a><a href="/community/index.jsp" onmouseover="imageOn(4); rollOn(4);" onmouseout="imageOff(4); rollOff();"><img name="btn4" src="/images/btn_community_off.gif" width="96" height="25" border="0" alt=""></a><br>
+
+<!-- /navigation -->
+<!-- rollover text -->
+    <img name="rolloverText" src="/images/nopixel.gif" width="466" height="21" border="0" alt=""><br>
+    <!-- /rollover text -->
+
+    </td>
+    </tr>
+    </tbody></table>
+</td>
+
+<td width="1" bgcolor="#000000"><img src="/images/nopixel.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+<!-- End Top Nav-->
+<!-- This is where PATH optional table will be inserted -->
+<!-- /PATH option table -->
+
+<!-- content -->
+<table width="711" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr valign="top">
+
+
+<!-- left column -->
+
+	
+		
+			<!-- build left column with standard compontents -->
+<td width="162">
+  
+  <!-- BEGIN left rail cap MANDATORY -->
+    <table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
+		<tbody><tr><td height="19" valign="top"><img src="/images/subnav_cap.gif" width="162" height="19" border="0"></td></tr>
+    </tbody></table>
+  <!-- END  left rail cap MANDATORY -->
+
+	<!-- component #1 -->  
+	    	    	<!-- subscription component left rail below navigation -->
+		<table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" background="/images/bg_subscribe_left.gif">
+   		<tbody><tr><td>   
+		<div class="compObject">
+		<div class="blueHeader">Subscribe to <i>Parents</i> Magazine!</div>
+		<div class="blackEleven">Be a great parent, raise a great kid. Get <i>Parents</i> now!</div>
+		<br>
+		<a href="https://commerce.cdsfulfillment.com/PM3/subscriptions.cgi?IN_Code=IPWZ"><img src="/images/btn_subscribe.gif" width="89" height="20" border="0" align="top" alt="subscribe now"></a>
+		</div>
+		</td></tr></tbody></table>
+		<img src="/images/purplepixel.gif" width="162" height="2" border="0" alt=""><br>
+	<!-- /subscription component left rail below navigation -->
+		
+	
+    <!-- / component -->
+	
+	<!-- component #3 -->  
+	    	    
+
+    <table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#93C856">
+	
+    <tbody><tr valign="top">
+    <td>
+	<form name="form_parentsComm">
+        <img src="http://parents.com/images/abc_components/comm_ages/parents_comm_land.gif" width="162" height="49" border="0" alt="Parents Community" usemap=""><br>
+	<div id="parentsComm">
+        <span class="blackEleven">
+	<b>Family Time Open Forum Board:</b><br>
+	<i>"...My husband and I are moving to due to a job promotion. How can I find out about the schools before hand? Does any one have any advice on moving out of state?..."</i>
+	<br>
+        <a href="http://www.parents.com/community/boards/messagestring.jsp?threadID=27954&amp;isArchive=0"><img src="http://parents.com/images/abc_components/comm_ages/btn_joinnow.gif" width="59" height="20" vspace="4" border="0" alt="join now"></a><br><br>    
+	Popular boards:<br>
+
+                   <select class="selectbox" onchange="navChange('form_parentsComm', 'DISCUSSION', '_top');" name="DISCUSSION" style="width: 140; margin-bottom: 8px;">
+		   <option value="">Select one</option>
+ 		
+					
+						<option value="http://65.193.9.197/community/boards/discussions.jsp?board=Ages+and+Stages.Toddlers">Toddlers</option>			
+					
+						<option value="http://www.parents.com/community/boards/discussions.jsp?board=Ages+and+Stages.Babies">Babies</option>			
+					
+						<option value="http://65.193.9.197/community/boards/discussions.jsp?board=Family+Time.Recipe+Exchange">Recipes</option>			
+							
+                
+		   </select>
+		</span>
+                </div>
+		</form>
+        </td>
+        
+    </tr>
+	
+	<tr>
+	<td><br>
+	<img src="http://parents.com/images/abc_components/comm_ages/purplepixel.gif" width="162" height="2" border="0" alt=""><br>
+	</td>
+	</tr>
+	
+    </tbody></table>
+		
+	
+    <!-- / component -->
+
+	<!-- component #3 -->  
+	    	    
+
+  	
+	<table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFE35F" background="http://www.parents.com/images/abc_components/tellus/bg_tellus.gif">
+    <tbody><tr>
+    <td><img src="http://www.parents.com/images/abc_components/tellus/tellus.gif" width="162" height="41" border="0" alt="Tell Us What You Think">
+    <div class="compObject">
+	<span class="blackEleven">Parents.com is growing! Tell us what you'd like to see on our site.</span><br>
+    <a href="http://www.parents.com/other/help/index.jsp"><img src="http://www.parents.com/images/abc_components/tellus/btn_submit_feedback.gif" alt="submit feedback" width="94" height="20" border="0" vspace="5"></a>
+    </div>
+
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<img src="http://parents.com/images/abc_components/comm_ages/purplepixel.gif" width="162" height="2" border="0" alt=""><br>
+	</td>
+	</tr>
+	</tbody></table>
+	
+	
+		
+	
+    <!-- / component -->
+	
+	<img src="/images/purplepixel.gif" width="162" height="2" border="0" alt=""><br>
+
+
+
+   <!-- sponsor area -->
+
+    <table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
+
+    <tbody><tr>
+
+        <td>
+
+        <div id="sponsorArea">
+
+        <span class="blackTen">
+
+        <br>from our sponsors:
+
+        <br>
+
+  
+
+<!-- 120 x 90 -->
+
+
+
+<iframe src="http://ad.doubleclick.net/adi/gjparents.com/homepage;pos=top;sz=120x90;tile=3;ord=&lt;%=randomNumber%&gt;?" width="120" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<A HREF="http://ad.doubleclick.net/jump/gjparents.com/homepage;abr=!ie;pos=top;sz=120x90;tile=3;ord=<%=randomNumber%>?">
+<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/homepage;abr=!ie;pos=top;sz=120x90;tile=3;ord=<%=randomNumber%>?" border=0 height="90" width="120">
+</A>
+</iframe>
+
+
+
+
+   
+     </span>
+        </div>
+        </td>
+    </tr>
+    </tbody></table>
+
+	<!-- /sponsor area -->
+
+			
+			
+
+			
+</td>			
+			
+												
+
+
+<!-- /left column -->
+
+<!-- center column -->
+<td width="548">
+    <table width="548" cellpadding="0" cellspacing="0" border="0" height="700">
+    <tbody><tr valign="top">
+        <td rowspan="999" width="8" bgcolor="#4b217b"><img src="/images/nopixel.gif" width="8" height="1" border="0" alt=""></td>
+        <td width="540" bgcolor="#000000" height="1"><img src="/images/nopixel.gif" width="370" height="1" border="0" alt=""></td>
+    </tr>
+
+    
+	 <!-- article content -->
+    <tr valign="top">
+    	<td width="540" height="699">
+    	<div class="mainObject">
+			<!-- enter page specific content here :: font styles need to be defined individually for each page -->
+			<p>
+</p><div class="blueHeader">Privacy Policy</div><p>
+</p><div class="blackTwelve">
+Through your use of this Site, Gruner + Jahr USA Publishing ("G+J") collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this Site and relate it to the information you have provided to us.  If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu.				<p>							The above-described information (Personally-Identifying Information) may be used by G+J to personalize and enhance your use of this Site, including the marketing and promotion of certain products and services that might be of interest to you. Your use of this Site is a consent to the foregoing use of your Personally-Identifying Information by G+J.		</p><p>
+G+J also may share your Personally-Identifying Information with select companies and organizations for their own marketing and promotional use.  While G+J seeks to share Personally-Identifying Information with companies that follow appropriate privacy policies, it does not bear any responsibility for the actions and policies of such third parties.  If you wish that we not share your Personally-Identifying Information with third parties, you may "opt out" by emailing us with such request. 
+</p><p>						You should be aware that any Personally-Identifying Information, such as your user name and email address, as well as any other information that you post on a bulletin board, share in a "chat room," or otherwise specifically and knowingly disclose by use of the Forums, may be directly collected and used by third parties.  Therefore, you may be subject to unsolicited email as a result of your disclosure of such information.  YOU SHOULD HAVE NO EXPECTATION OF PRIVACY WITH RESPECT TO YOUR COMMUNICATIONS THROUGH THE FORUMS.</p></div>
+<p>
+		</p></div>
+   		 <br>
+		 <br>
+	
+   	 	</td>
+    </tr>
+	<tr valign="bottom">
+	<td><img src="/images/purplepixel.gif" width="540" height="2" border="0" alt=""><br></td> 
+	</tr>
+    <!-- /article content -->
+	
+	
+    
+    </tbody></table>
+	</td>
+	<!-- /center column -->
+
+
+
+<td width="1" bgcolor="#000000"><img src="/images/nopixel.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+</tbody></table>
+<!-- /content -->
+
+<!--Advertisement-->
+<table width="711" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td width="122">&nbsp;</td>
+<td><br>
+<br>
+
+
+
+
+<!-- 468 x 60 -->
+
+
+
+
+
+<iframe src="http://ad.doubleclick.net/adi/gjparents.com/homepage;pos=bottom;sz=468x60;tile=2;ord=&lt;%=randomNumber%&gt;?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<A HREF="http://ad.doubleclick.net/jump/gjparents.com/homepage;abr=!ie;pos=bottom;sz=468x60;tile=2;ord=<%=randomNumber%>?">
+<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/homepage;abr=!ie;pos=bottom;sz=468x60;tile=2;ord=<%=randomNumber%>?" border=0 height="60" width="468">
+</A>
+</iframe>
+
+
+
+
+
+
+
+<!--/Advertisement-->
+
+
+
+<!-- footer -->
+
+	<div align="center" class="blackEleven"><br>
+<a href="/index.jsp">Home</a> | <a href="/pregnancy/index.jsp">Pregnancy</a> | <a href="/health/index.jsp">Health</a> | <a href="/ages_and_stages/index.jsp">Advice by Age</a> | <a href="/family_time/index.jsp">Family Time</a> | <a href="/community/index.jsp">Community</a> | <a href="/articles/topic_indexes/index.jsp">Site Index</a><br>
+<br>
+<a href="/help.html">Help Center</a> | <a href="https://commerce.cdsfulfillment.com/PMM/custserv.cgi">Subscription Center</a> | <a href="/other/about_us.html">About Us</a> | <a href="/other/terms.html">Terms of Use</a> | <a href="/other/privacy.html">Privacy Policy</a>
+
+<div class="blackTen"><br>
+©2002 Gruner + Jahr Publishing. All Rights Reserved.</div>
+</div>
+</td>
+<td width="80">&nbsp;</td>
+<td width="1" bgcolor="#000000"><img src="/images/nopixel.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+</tbody></table>
+
+<iframe src="http://ad.doubleclick.net/adi/gjparents.com/default;type=richmedia;sz=1x1;tile=4;ord=&lt;%=randomNumber%&gt;?" name="frame1" width="1" height="1" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/gjparents.com/default;abr=!ie;type=richmedia;sz=1x1;tile=4;ord=<%=randomNumber%>?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/jump/gjparents.com/default;abr=!ie;type=richmedia;sz=1x1;tile=4;ord=<%=randomNumber%>?"><IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/default;abr=!ie;type=richmedia;sz=1x1;tile=4;ord=<%=randomNumber%>?" border=0 height="1" width="1"></A>
+</NOSCRIPT>
+</iframe>
+
+
+<!-- /footer -->
+
+
+
+
+
+</body></html>
