@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209153339id_/http%3A//www.duckbrand.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607053043id_/http%3A//www.duckbrand.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Duck Tape Products | Privacy Policy
 
