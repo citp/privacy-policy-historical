@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the download32.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206231400id_/http%3A//www.download32.com/aboutus/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download32.com privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203202300id_/http%3A//www.download32.com/aboutus/privacypolicy.htm) for the most accurate reproduction.*
 
 # DownLoad32.com
 
 **   
-[Business](https://web.archive.org/windows/Business/default.htm)  
-[Development](https://web.archive.org/windows/Development/default.htm)  
-[Education](https://web.archive.org/windows/Education/default.htm)  
-[Games](https://web.archive.org/windows/Games/default.htm)  
-[Graphics](https://web.archive.org/windows/Graphics/default.htm)  
-[Info Management](https://web.archive.org/windows/InformationManagement/default.htm)  
-[Internet](https://web.archive.org/windows/Internet/default.htm)  
-[Sound](https://web.archive.org/windows/sound/default.htm)  
-[Shell & Desktop](https://web.archive.org/windows/ShellandDesktop/default.htm)  
-[Utilities](https://web.archive.org/windows/Utilities/default.htm)  
-[Web Authoring](https://web.archive.org/windows/WebAuthoring/default.htm)**
+[Business](https://web.archive.org/windows/Business.htm)  
+[Development](https://web.archive.org/windows/Development.htm)  
+[Education](https://web.archive.org/windows/Education.htm)  
+[Games](https://web.archive.org/windows/Games.htm)  
+[Graphics](https://web.archive.org/windows/Graphics.htm)  
+[Info Management](https://web.archive.org/windows/InformationManagement.htm)  
+[Internet](https://web.archive.org/windows/Internet.htm)  
+[Sound](https://web.archive.org/windows/sound.htm)  
+[Shell & Desktop](https://web.archive.org/windows/ShellandDesktop.htm)  
+[Utilities](https://web.archive.org/windows/Utilities.htm)  
+[Web Authoring](https://web.archive.org/windows/WebAuthoring.htm)**
 
 | 
 
@@ -69,5 +69,4 @@
 >  Fax:     +31 020  88 48 752  
 >  Email: [support@download32.com](mailto:support@download32.com)
 >
->> |       
-  
+>> | 
