@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008160235id_/http%3A//www.carquest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222527id_/http%3A//www.carquest.com/privacy.htm) for the most accurate reproduction.*
 
 # CARQUEST Auto Parts - Privacy Notice
 
 **Your privacy is important to us  
-**CARQUEST Corporation, which operates Internet sites located at [www.carquest.com](http://www.carquest.com/), [www.techauto.com](http://www.techauto.com/), [www.carquest.ca](http://www.carquest.ca/), and jointly operates locator services with Know-Where Corporation (<http://carquest.know-where.com/carquest>) and (<http://technet.know-where.com/technet>) recognizes the importance of protecting the privacy of our web visitors.
+**CARQUEST Corporation, which operates Internet sites located at [www.carquest.com](http://www.carquest.com/), [www.TechNetProfessional.com](http://www.technetprofessional.com/), [www.carquest.ca](http://www.carquest.ca/), and jointly operates locator services with Know-Where Corporation (<http://carquest.know-where.com/carquest>) and (<http://technet.know-where.com/technet>) recognizes the importance of protecting the privacy of our web visitors.
 
 CARQUEST Corporation will not collect any personal data from you and will not provide any of your data to any outside parties except with your permission, or what is necessary to complete any transactions you have requested through our web site. 
 
@@ -19,7 +19,7 @@ If you have questions about our policy, please click on our customer feedback pa
 
   2. We collect information from emails and other contacts sent to us by our customers and users of our website.  
 
-  3. We collect pages viewed from our server provider to determine what pages are seen by visitors to [www.CARQUEST.com](http://www.carquest.com/), [www.techauto.com](http://www.techauto.com/), and [www.CARQUEST.ca](http://www.carquest.ca/)
+  3. We collect pages viewed from our server provider to determine what pages are seen by visitors to [www.CARQUEST.com](http://www.carquest.com/), [www.TechNetProfessional.com](http://www.technetprofessional.com/), and [www.CARQUEST.ca](http://www.carquest.ca/)
 
 
 
@@ -32,7 +32,7 @@ If you have questions about our policy, please click on our customer feedback pa
 If our policies regarding collection, storage and use of your information change, the information collected under prior policies will continue to be governed by those policies, unless we obtain your consent to use that information in new ways.
 
 **Please contact us with any questions or comments**  
-We want you to enjoy your use of [www.CARQUEST.com](http://www.carquest.com/), [www.techauto.com](http://www.techauto.com/), and [www.CARQUEST.ca](http://www.carquest.ca/). 
+We want you to enjoy your use of [www.CARQUEST.com](http://www.carquest.com/), [www.TechNetProfessional.com](http://www.technetprofessional.com/), and [www.CARQUEST.ca](http://www.carquest.ca/). 
 
 If you have any questions, or believe that a violation of this policy may have occurred, please let us know. Our complete contact information is provided on the Customer Feedback link on our website at [www.CARQUEST.com/contact.htm](http://www.carquest.com/contact.htm) or please write: 
 
