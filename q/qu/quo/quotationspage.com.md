@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotationspage.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602104948id_/http%3A//quotationspage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotationspage.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211205250id_/http%3A//quotationspage.com/privacy.html) for the most accurate reproduction.*
 
 # The Quotations Page: Privacy Policy
 
