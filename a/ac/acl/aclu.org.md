@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2002-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020123022820id_/http%3A//www.aclu.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010071723id_/http%3A//www.aclu.org/privacy.html) for the most accurate reproduction.*
 
 # ACLU Freedom Network Privacy Statement
 
@@ -98,9 +98,9 @@ New York, NY 10004
   * email [orders@aclu.org](mailto:orders@aclu.org)
   * send mail to the following postal address: 
 
-ACLU Publications Department  
-P.O. Box 186  
-Wye Mills, MD 21679 
+ACLU Publications  
+P.O. Box 4713  
+Trenton, NJ 08650-4713
 
 **Action Letters**
 
@@ -195,9 +195,9 @@ If you have any questions about this privacy statement, the practices of this si
 
 American Civil Liberties Union 125 Broad Street, 18th Floor New York, NY 10004 [aclu@aclu.org](mailto:aclu@aclu.org)
 
-Last Updated: May 3, 2001  
+Last Updated: July 9, 2002  
 
 
 [](https://web.archive.org/aclulink/graphics/toolbar.map)
 
-###### _[Copyright](https://web.archive.org/about/copyright.html) 2001, The American Civil Liberties Union_
+###### _[Copyright](https://web.archive.org/about/copyright.html) 2002, The American Civil Liberties Union_
