@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bahamasb2b.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619112259id_/http%3A//www.bahamasb2b.com/b2b/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahamasb2b.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217083237id_/http%3A//bahamasb2b.com/b2b/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy - BahamasB2B.com
+# Privacy
 
 **BahamasB2B.com Privacy Policy**  
 Effective August 22, 2000
