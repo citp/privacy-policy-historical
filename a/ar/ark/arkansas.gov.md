@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609153221id_/http%3A//www.arkansas.gov/access.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209032800id_/http%3A//www.arkansas.gov/access.html%23Privacy) for the most accurate reproduction.*
 
-# Access Information
+# accessArkansas.org | Site Map, Accessibility, Security and Privacy Information
 
 Browsers  
   
@@ -37,13 +37,11 @@ RealPlayer G2
 
 | [](http://www.real.com/products/player/index.html?src=q1_netscape_1&thankyou=netscape)  
   
-Accessibility Information  
-  
 Act 1227 of 1999 required the Arkansas Department of Information Systems to develop Non-visual Standards for Arkansas that ensures the needs of Arkansans who are blind or visually impaired are met through reasonable accommodation in the information technology products and services of the state.  Information technology products and services include data, voice, and video technologies, as well as information dissemination methods such as the Internet.
 
-In essence, this means that Arkansas Government or state funded entities must have websites that are equally accessible to blind or visually impaired visitors.  For instance, websites must provided text equivalents for all non-text elements such as images, animation, audio and video.  We will make every effort to comply with these new guidelines on the State of Arkansas website.  If you have trouble accessing or navigating state government pages, please contact info@ark.org.
+In essence, this means that Arkansas Government or state funded entities must have websites that are equally accessible to blind or visually impaired visitors.  For instance, websites must provided text equivalents for all non-text elements such as images, animation, audio and video.  We will make every effort to comply with these new guidelines on the State of Arkansas website. If you have trouble accessing or navigating state government pages, please contact [info@ark.org](mailto:info@ark.org).
 
-For more information about IT policies and standards in Arkansas, link to the State of Arkansas Strategic [ Information Technology Plan](http://www.oit.state.ar.us/ITPlan/default.asp).  For the specific information regarding web development and accessibility issues, link to [ W3C Web Content Guidelines](http://www.w3c.org/) or the [ Center for Applied Special Technology](http://www.cast.org/) (CAST).  
+For more information about accessibility policies and non-visual standards, link to [Shared Information Architecture](http://www.techarch.state.ar.us/domains/accessibility/accessmain.htm).  For information regarding web site development specific to the State of Arkansas, link to the [ Technology Investigation Center' Standards for Equivalent Access](http://www.tic.state.ar.us/SpecTopics/SEA/SEA_Home.htm).  For detailed information about web site development and accessibility issues, link to [ W3C Web Content Guidelines](http://www.w3c.org/) or the [ Center for Applied Special Technology](http://www.cast.org/) (CAST).    
   
 Information which can be identified or associated with a particular person or persons that is available from government web sites through the Information Network of Arkansas is subject to these principles and policies:  
   
