@@ -1,59 +1,59 @@
-> *The following text is extracted and transformed from the mathsisfun.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathsisfun.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/Privacy.htm) for the most accurate reproduction.*
 
 # Maths Is Fun
 
 * * *
 
-[ ](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/index.htm) [HOME](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/index.htm)
+[ ](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/index.htm) [HOME](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/index.htm)
 
 * * *
 
 **All Pages**
 
-[A - Z Listing](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/math.html)
+[A - Z Listing](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/math.html)
 
 **Maths Menus**
 
-[Number & Algebra](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/number_algebra.html)
+[Number & Algebra](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/number_algebra.html)
 
-[Shape, Space & Measures](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/shape_space_measure.html)
+[Shape, Space & Measures](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/shape_space_measure.html)
 
-[Handling Data](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/data.html)
+[Handling Data](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/data.html)
 
-[Miscellaneous](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/mathsmisc.html)
+[Miscellaneous](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/mathsmisc.html)
 
 **Maths Help**
 
-[Discussion Forum](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/forums/maths/index.html)   
-[Online Form](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/index.htm#form)
+[Discussion Forum](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/forums/maths/index.html)   
+[Online Form](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/index.htm#form)
 
 **Puzzles**
 
-[Puzzles & Quizzes](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/puzzle.html)
+[Puzzles & Quizzes](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/puzzle.html)
 
 **Calculators**
 
-[TI Calculators](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/TI/TI_calculator.html)
+[TI Calculators](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/TI/TI_calculator.html)
 
 **Computer Programs**
 
-[Winlogo Programs](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/winlogo.html)
+[Winlogo Programs](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/winlogo.html)
 
 **Links**
 
-[Add a link](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/links/links.htm)   
-[Maths links](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/maths_links.html)
+[Add a link](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/links/links.htm)   
+[Maths links](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/maths_links.html)
 
 **Online Shop**
 
-[Maths Books](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/mathsbooks.html)
+[Maths Books](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/mathsbooks.html)
 
 **Contact Us**
 
 [Email](mailto:mathsisfun@mathsisfun.com)   
-[Online Form](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/index.htm#form)
+[Online Form](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/index.htm#form)
 
-[About Mathsisfun](https://web.archive.org/web/20020408085239id_/http%3A//mathsisfun.com/aboutmathsisfun.html)
+[About Mathsisfun](https://web.archive.org/web/20021206190446id_/http%3A//www.mathsisfun.com/aboutmathsisfun.html)
 
 |  **WWW.MATHSISFUN.COM PRIVACY STATEMENT**
 
