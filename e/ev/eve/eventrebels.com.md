@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventrebels.com privacy policy that was archived on 2004-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040419194650id_/http%3A//www.eventrebels.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventrebels.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208232215id_/http%3A//www.eventrebels.com/privacy.asp) for the most accurate reproduction.*
 
 # EventRebels.com: Privacy Policy
 
