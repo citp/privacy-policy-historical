@@ -1,7 +1,16 @@
-> *The following text is extracted and transformed from the fastclick.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603004910id_/http%3A//www.fastclick.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastclick.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205070531id_/http%3A//fastclick.com/about/privacy.html) for the most accurate reproduction.*
 
 # fastclick | Privacy Policy
 
+### 
+
+Last Reviewed / Updated: August 2001 
+
+(For Web User privacy [click here](https://web.archive.org/web/20011205070531id_/http%3A//fastclick.com/about/privacy2.html))          (To Get the Opt-Out cookie [click here](http://www.fastclick.com/about/opt-out.html))
+
+|   
+---|---  
+  
 #### **TRUSTe Certification**
 
 This confirms that Fastclick.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.fastclick.com.
@@ -16,11 +25,11 @@ TRUSTe is an independent, nonprofit organization whose mission is to build users
 6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Fastclick's control   
 7\. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should first contact Fastclick by email to [privacy@fastclick](mailto:privacy@fastclick.com?subject=Member%20Privacy%20Statement%20Inquiry). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/watchdog.html. TRUSTe will then serve as a liaison with the website to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Fastclick by email to [privacy@fastclick](mailto:privacy@fastclick.com?subject=Member%20Privacy%20Statement%20Inquiry). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe (<http://www.truste.org/watchdog.html>). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 #### Information Collection and Use
 
-Fastclick.com Inc. (Fastclick) is the sole owner of the information collected on this site. Information collected is in two distinct categories: Member information and aggregated Web User information. This portion of Fastclick's privacy statement applies only to Members of Fastclick. For web user privacy issues regarding the serving of advertisements and the use of cookies, please see the [Web User Privacy Statement](https://web.archive.org/web/20010603004910id_/http%3A//www.fastclick.com/help/privacy2.html).
+Fastclick.com Inc. (Fastclick) is the sole owner of the information collected on this site. Information collected is in two distinct categories: Member information and aggregated Web User information. This portion of Fastclick's privacy statement applies only to Members of Fastclick. For web user privacy issues regarding the serving of advertisements and the use of cookies, please see the [Web User Privacy Statement](https://web.archive.org/web/20011205070531id_/http%3A//fastclick.com/about/privacy2.html).
 
 Members of the Fastclick network include publishers and advertisers involved in advertising campaign transactions. Member information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. Payments made to and from Fastclick require the collection of personally identifiable information that may include credit card numbers and bank account information. Phone numbers may be used to contact Members for sales or inventory acquisition purposes. All Member information is collected, modified and stored in a password protected environment. This information is used for service, media delivery, contact, billing and accounts payable purposes. We will not sell, share, or rent this information to others. All Member information collection is explicit, voluntary, manually entered by the Member, and can be opted-out. Fastclick will never share information about you without your permission. 
 
@@ -28,7 +37,7 @@ Cookies are used to simplify Member login and to facilitate secure navigation th
 
 #### Information Sharing
 
-Member information is not shared with any third party outside Fastclick, except for that necessary to conduct business, such as clearing a credit card transaction for an advertising campaign purchase or making an ACH direct deposit to pay a Publisher. The security of Member information is crucial to our success in the highly competitive field of online advertising. Fastclick may, from time to time, use "gallery" pages to identify Publishers and Advertisers by business identity ONLY (e.g. Adcycle.com is a new Member of the Fastclick Network). 
+Member information is not shared with any third party outside Fastclick, except for that necessary to conduct business, such as clearing a credit card transaction for an advertising campaign purchase or making an ACH direct deposit to pay a Publisher, or as required by law. The security of Member information is crucial to our success in the highly competitive field of online advertising. Fastclick may, from time to time, use "gallery" pages to identify Publishers and Advertisers by business identity ONLY (e.g. Adcycle.com is a new Member of the Fastclick Network). 
 
 #### Log Files
 
