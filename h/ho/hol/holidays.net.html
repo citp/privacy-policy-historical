@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the holidays.net privacy policy that was archived on 2003-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030618020948id_/http%3A//www.holidays.net/policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the holidays.net privacy policy that was archived on 2003-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031001180401id_/http%3A//holidays.net/policy.htm) for the most accurate reproduction.-->
 
 <html><head><title>Holidays on the Net - Privacy Statement</title>
 
@@ -208,52 +208,65 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='hiermenus.js' TYPE='text/j
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#C0C0C0" vlink="#C0C0C0" alink="#FF0000" background="images/nubkg.gif">
 
-<!--- Burst top code --->
+<!--- General Burst Code 09292003 --->
 
-<!-- BEGIN RICH-MEDIA BURST! CODE --> 
 <script language="JavaScript"> 
-<!-- /* © 1997-2001 BURST! Media, LLC. All Rights Reserved.*/ 
-function ShowBurstAd(adcode, width, height) {
- var bN = navigator.appName;
- var bV = parseInt(navigator.appVersion);   
- var base='http://www.burstnet.com/';   
- var Tv='';   
- var agt=navigator.userAgent.toLowerCase();   
- if (bV>=4)  
- {ts=window.location.pathname+window.location.search;
+<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
+function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
+var bN = navigator.appName;
+var bV = parseInt(navigator.appVersion);
+var base='http://www.burstnet.com/';
+var Tv=''; var Itr='';
+var sz=''; var bkgd='';
+var bgc=''; var rfr='';
+var vr='v=1.0J';
+var agt=navigator.userAgent.toLowerCase();
+
+if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
+if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
+if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
+rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
+                            
+if (bV>=4) {
+  ts=window.location.pathname+window.location.search;
   i=0; Tv=0; while (i< ts.length)
-    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;}
-  else   {Tv=escape(window.location.pathname);
-  if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
+    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
+} else {Tv=escape(window.location.pathname);
+  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
     else if (Tv.charAt(1)=="/")
- Tv="";     
- if( Tv.charAt(Tv.length-1) == "/")
-   Tv = Tv + "_";}   
- if (bN=='Netscape'){        
-  if ((bV>=4)&&(agt.indexOf("mac")==-1))  
- { document.write('<s'+'cript src="'+ 
-  base+'cgi-bin/ads/'+adcode+'.cgi/RETURN-CODE/JS' 
-  +Tv+'">'); 
-  document.write('</'+'script>');
- }
-   else if (bV>=3) {document.write('<'+'a href="'+base+'ads/' + 
-  adcode + '-map.cgi'+Tv+'"target=_top>');
-  document.write('<img src="' + base + 'cgi-bin/ads/' +
-  adcode + '.cgi' + Tv + '" width="' + width + '" height="' + height + '"' +
-  ' border="0" alt="Click Here"></a>');}   
+ Tv="";
+  if( Tv.charAt(Tv.length-1) == "/")
+   Tv = Tv + "_";
 }
-if (bN=='Microsoft Internet Explorer')    
-document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'  
-+     
-adcode + '.cgi' + Tv + '/RETURN-CODE" width="' + width + '" height="' + height + '"' +     
-'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' +     
-'frameborder="0" scrolling="no"></ifr'+'ame>');  
+
+var fCode='<ifr'+'ame id="BURST" src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
+ rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
+ height+'"'+'marginwidth="0" marginheight="0"'+
+ 'hspace="0" vspace="0" frameborder="0" '+
+ 'scrolling="no">';
+ var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
+ vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
+ '" border="0" alt="Click Here"></a>';
+var fCodeEnd = '</ifr'+'ame>';
+
+if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
+ Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
+ '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
+}
+
+if (agt.indexOf("mac")==-1) {
+  document.write(fCode+gCode+fCodeEnd+Itr);
+} else {
+  document.write(gCode);
+}
 }
 //-->
 </script>
 <!-- END BURST CODE -->
 
-<!--- Burst top code --->
+<!--- General Burst Code 09292003 --->
 
 <table width="620" border="0" bgcolor="#800080">
 	<tbody><tr>
@@ -281,22 +294,19 @@ adcode + '.cgi' + Tv + '/RETURN-CODE" width="' + width + '" height="' + height +
 <!-- END -->   
 	</td>
 
-	<td bgcolor="#800080">
+		<td bgcolor="#800080">
 
-
-<!-- BEGIN RICH-MEDIA BURST! CODE --> 
+<center>
+<!-- BEGIN RICH-MEDIA BURST! CODE 09292003--> 
 <script language="JavaScript">
 <!--
-ShowBurstAd('ad291a','468','60');
-// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ad291a.cgi/RETURN-CODE/JS/4884"></script>
-<noscript><a href="http://www.burstnet.com/ads/ad291a-
-map.cgi/ns" target="_top"><img src="http://www.burstnet.com/cgi-
-bin/ads/ad291a.cgi/ns" width="468" height="60" 
-border="0" alt="Click Here"></a> 
+ShowBurstAd('ba291a','468','60','468x60B','0', '800080', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ba291a.cgi/NI/if/v=1.0J/zg800080/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031001180401id_%252Fhttp%25253A%252F%252Fholidays.net%252Fpolicy.htm/4459/RETURN-CODE" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ba291a-map.cgi/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031001180401id_%252Fhttp%25253A%252F%252Fholidays.net%252Fpolicy.htm/4459" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ba291a.cgi/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031001180401id_%252Fhttp%25253A%252F%252Fholidays.net%252Fpolicy.htm/4459" border="0" alt="Click Here"></a></iframe>
+<noscript><a href="http://www.burstnet.com/ads/ba291a-map.cgi/ns/v=1.0J/sz=468x60B/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ba291a.cgi/ns/v=1.0J/sz=468x60B/" border="0" alt="Click Here"></a> 
 </noscript>
-<!-- END BURST CODE --> 
-   
- 
+<!-- END BURST CODE -->
+</center>
 
 			</td>
 		</tr>
@@ -580,7 +590,7 @@ Levittown, NY 11801
 </p><p>
 </p><center>
 <font size="-1">All images, animation, text, video, java, javascript, audio, html<br>
-<b>© Copyright 1995-2002, Studio Melizo</b><br>
+<b>© Copyright 1995-2003, Studio Melizo</b><br>
  Reproduction or other use without written consent is illegal</font>
 </center>
 <p><br><br>
