@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405012206id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217182715id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.*
 
 # Privacy Policy at Blue Nile
 
@@ -47,8 +47,8 @@ Blue Nile gives you access to third party partners to provide you with certain 
 **Order Processing by Microsoft Wallet or AOL QuickCheckOut**   
 Through the Blue Nile shopping cart, you may choose to use the AOL QuickCheckOut or Microsoft Passport Wallet functions. If you elect to use either of these wallet technologies to complete your online purchase, the information listed above as well as your transactional information will be passed along to AOL or Microsoft and will then be governed by that party's privacy policy. If you previously signed up for the AOL QuickCheckOut and/or Microsoft Passport Wallet tools, you have already consented to the passage of such information, so you will not be asked for permission again before your information is passed along. 
 
-**Participation in Contests or Sweepstakes**   
-If you choose to participate in a Blue Nile promotion (contest or sweepstakes), Blue Nile will share your personal information with those organizations running the applicable promotion in order to ensure your ability to redeem that promotion with the third-party partner managing that promotion. 
+**Participation in Contests or Sweepstakes** \- Updated November 27, 2001   
+If you choose to participate in a Blue Nile promotion (contest or sweepstakes), Blue Nile may share your personal information with those organizations running the applicable promotion. Personal information is usually shared in order to ensure your ability to redeem that promotion with the third-party partner managing that promotion. Typically, these third parties do not use your information for any other purpose other than to manage the promotion. In some cases these third-party partners may send you promotional materials regarding their products and services. In these cases, you will be given the opportunity to opt-out, and not have your personal information shared with that third-party partner. 
 
 **Application for Financing**   
 Blue Nile has partnered with MBNA, which will arrange the financing of your purchase from Blue Nile. If you decide to use Blue Nile's financing services, you will be directed to MBNA's financing application. Blue Nile will then provide MBNA with your transaction information and then MBNA will collect the additional information it needs in order to provide you with financing for your Blue Nile purchase. Further, MBNA will provide Blue Nile information regarding the status of your financing application. Once your application is approved by MBNA, you may complete your purchase with Blue Nile. 
@@ -74,9 +74,9 @@ To opt out of receiving communications from Blue Nile, just select "unsubscribe
 If the personal information Blue Nile has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to service@bluenile.com or contact one of our customer service associates at 800-242-2728. 
 
   
-To ensure all your personal information is kept private, your personal information and credit card number are encrypted with SSL encryption technology before being sent over the Internet, making it virtually impossible for your information to be stolen or intercepted. Your credit card information is stored in a database inaccessible to the Internet. Blue Nile is constantly monitoring the status of its Internet security and performs monthly Web security reviews to evaluate the effectiveness of current practices, as well as new technology applications that may make Blue Nile even more secure. 
+Blue Nile is committed to protecting the privacy of your personal information. To protect the information you send from your computer to Blue Nile's e-commerce system, this information — including your credit card number, name, and address — is encrypted using Secure Sockets Layer (SSL) software. Internally, we use encryption and Web security technologies to protect the privacy of your personal data. Only parties responsible for processing your order have access to your credit card and bank information. 
 
-To keep internal access to your data limited, Blue Nile's network is protected with encryption, and employees have access to such data only via password. Only parties responsible for processing your order have access to your credit card and bank information. 
+Blue Nile continuously reviews its policies and practices to ensure that all customer information remains secure. 
 
   
 "Cookies" are small pieces of information that are stored by your browser on your computer hard drive. You must have cookies enabled in order for you to be able to perform many of the general functions on the Blue Nile Web site. With cookies enabled, the Blue Nile Web site will have the capacity to deliver you a more customized and complete shopping experience to track visits from our affiliates and partners and to enable the use of our shopping cart. Blue Nile does not use cookies to store or collect any personal information such as names, addresses, or payment information. To learn how to enable cookies on your computer, visit the Web site that corresponds to the browser you use: 
@@ -109,4 +109,4 @@ If you have questions about this privacy statement, please contact the Blue Nil
 * Blue Nile will cover this liability if the unauthorized use resulted through no fault of yours from purchases made on Blue Nile's secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures. 
 
   
-**Updated January 4, 2000**
+**Updated November 27, 2001**
