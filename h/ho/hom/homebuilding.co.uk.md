@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebuilding.co.uk privacy policy that was archived on 2002-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020526214755id_/http%3A//www.homebuilding.co.uk/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebuilding.co.uk privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017025138id_/http%3A//www.homebuilding.co.uk/Privacy.asp) for the most accurate reproduction.*
 
 # Homebuilding & Renovating Online
 
