@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604011855id_/http%3A//www.profitguide.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216091801id_/http%3A//www.profitguide.com/about/privacy.asp) for the most accurate reproduction.*
 
 # PROFITguide.com | About Us | Privacy Policy
 
