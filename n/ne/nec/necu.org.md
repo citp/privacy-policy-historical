@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603121626id_/http%3A//www.necu.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807015613id_/http%3A//www.necu.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@
   
 
 
-[](https://web.archive.org/web/20040603121626id_/http%3A//www.necu.org/pdf_files/memberapp.pdf)
+[](https://web.archive.org/web/20040807015613id_/http%3A//www.necu.org/pdf_files/memberapp.pdf)
 
 |  | 
 
