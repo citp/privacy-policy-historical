@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc.go.com privacy policy that was archived on 1999-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991129205935id_/http%3A//abc.go.com/terms/term_home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.go.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622012225id_/http%3A//abc.go.com/terms/term_home.html) for the most accurate reproduction.*
 
 # ABC.com: Terms & Privacy Policy
 
