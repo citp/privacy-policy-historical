@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605092855id_/http%3A//www.novascotia.com/securitystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206211427id_/http%3A//www.novascotia.com/securitystatement.htm) for the most accurate reproduction.*
 
 # Explore Nova Scotia : Security Statement
 
@@ -9,36 +9,31 @@ Some information contained within the website has been obtained by outside sourc
 Any links to other websites are suggested as sources of more information about tourism in Nova Scotia. The Nova Scotia Department of Tourism & Culture is not an agent for, and does not recommend or endorse for any purpose, any person, or product referred to in any of these linked websites. 
 
   
-**Privacy**
+**Nova Scotia Government Website Privacy Policy Statement**
 
-Government of Nova Scotia websites are covered by the Freedom of Information and Protection of Privacy Act (FOIPOP). Our privacy policy arises from that legislation and fair information handling practices. 
+**Basic Statement**  
+Government of Nova Scotia websites are covered by the [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm). Our privacy policy arises from that Act, other legislation, and fair information practices. 
 
 **What it means**  
-On our websites, we only collect personal information about you when you explicitly provide it. We protect the personal information given us when you fill out a form. 
+On our websites, we collect personal information about you only when you explicitly provide it. Examples of that collection would be when you renew your vehicle registration, apply for a marriage certificate online, or request tourist information to be mailed to you. We protect the personal information given to us when you fill out a form. We have implemented a variety of security measures to ensure that your personal information is not lost, misused, altered, or unintentionally destroyed. 
 
 **What do we mean by personal information?**  
-By "personal information" we mean any information that is about an identifiable individual or that identifies you as an individual. It could be anything that identified you, like your name, your S.I.N., your birth date or your fingerprint. When you access a government website, information is transmitted automatically to the website to ensure you are properly connected. This information cannot be used to identify you personally. 
+By "personal information" we mean any information about you as an identifiable individual including your name, an identifying number such as your driver's licence number, your birth date, your email address, or your credit card information. (For other examples, see: [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm), section 3(1) (i)) 
 
 **What we don't do**  
-We do not give personal information gathered on the websites to third parties except with your express permission or as permitted under legislation. That permission is restricted and limited to specific circumstances. We do not sell personal information gathered on the websites. 
+We do not provide personal information gathered on the websites to third parties except with your express permission or as permitted by law. (For example, see: [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm), section 27) 
 
 **What we might do**  
-We may release or use your personal information gathered on the websites if: 
-
-  * you have given your consent in writing
-  * it is for a purpose related to why we collected your information
-  * legislation permits us to do so, e.g to collect a debt owing to the Province.
-  * we are required to do so under law, such as under a subpoena
-
-
-
-This may include sharing information within the government when it is necessary. 
+We may release or use your personal information provided on the websites for the purpose for which it was provided or for a compatible purpose. We may also do so if we are permitted under law, such as under a subpoena, or to collect a debt owing to the province. This may include sharing information within the government when it is necessary. (For example, see: [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm), sections 26 & 27) 
 
 **Access to your information**  
-You are entitled to request corrections to any personal information gathered through the websites that we hold about you. If you want to do so, contact the webmaster of the relevant site. 
+You are entitled to correct any personal information gathered through the websites that we hold about you. If you want to correct your personal information, there will be an appropriate contact listed for you to direct enquiries. If no contact is identified, then you should contact the webmaster of the relevant site. (For example, see: [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm), section 25) 
 
-**Do we use cookies or other tracking devices?**  
-Government websites may use non-persistent cookies to keep track of your connection with us ("maintain state") during a visit to our websites. These will disappear once you leave the website. Persistent cookies that stay on your computer are not used by Government of Nova Scotia websites. 
+**Do we use cookies or tracking devices?**  
+Government websites may use cookies or tracking devices during your visit to our website. Information gathered by these technologies will disappear once you leave the website unless there is notice to the contrary on the website. 
 
 **Server Logs**  
-Server log data is only collected and used in aggregate. No personally identifying information is collected or used in server logs. 
+Government web servers automatically collect some information about a visitor's computer or other access device, such as its Internet protocol address or browser version, in their logs. This information is used in aggregate form for statistical purposes only. 
+
+**Further Information**  
+[Nova Scotia Government Website Privacy Policy](http://www.gov.ns.ca/govt/privacy/privacypolicy.htm)
