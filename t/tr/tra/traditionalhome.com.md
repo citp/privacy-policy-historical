@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/privacypolicy.htm) for the most accurate reproduction.*
 
 # Traditional Home Magazine®
 
   
-|  [ ](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/inthisissue.htm)  
+|  [ ](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/inthisissue.htm)  
 ---  
-[ ](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/ppp.htm)  
+[ ](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/ppp.htm)  
 [ ](https://secure.bhg.com/bhg/store/checkout/partner/?promoCode=I201PDF11&site=bhg)  
 [ ](http://www.traditionalhome.com/mediakit/)  
 [ ](http://www.interiors.org/designerservice/)  
-[ ](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/montecito.htm)  
-[ ](https://web.archive.org/web/20040610000810id_/http%3A//www.traditionalhome.com/html/recipes.htm)  
+[ ](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/weardated.htm)  
+[](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/recipesNov.htm)  
 |  |  |     
 
 
@@ -92,7 +92,9 @@ The personally identifying information we collect is stored within a database th
 
 The Internet is an evolving medium. If we need to change our Privacy Policy at some point in the future, we'll post the changes before they take effect.
 
-Copyright 2003 Meredith Corporation. All rights reserved. 
+Copyright 2004 Meredith Corporation. All rights reserved. 
+
+_Effective date: July 1, 2004_
 
   
  
