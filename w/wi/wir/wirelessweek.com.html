@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wirelessweek.com privacy policy that was archived on 2002-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021014122541id_/http%3A//www.wirelessweek.com/index.asp%3Flayout%3Dinside_wireless%26industryid%3D1453%26industry%3DPrivacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wirelessweek.com privacy policy that was archived on 2003-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030627153047id_/http%3A//wirelessweek.com/index.asp%3Flayout%3Dinside_wireless%26industryid%3D1453%26industry%3DPrivacy%2BPolicy%26doc_id%3D107124%26title%3DPrivacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>WirelessWeek.com</title>
@@ -50,8 +50,6 @@ document.write(num);
 <!-- mheadend -->
 
 
-
-
 <style type="text/css">
 .head{color : #660000; font : bold 13px Arial, Helvetica, sans-serif;}
 .label{ color : #000000; font : bold 7pt/10pt Verdana, Helvetica, Arial; LETTER-SPACING : 1pt; TEXT-TRANSFORM : uppercase; }
@@ -77,6 +75,7 @@ document.write(num);
 .leftnav:hover{ color: #990000; font: bold 11px/15px Arial, Helvetica, Geneva, sans-serif; text-decoration: none; }
 .stock{ color : #000066; font : bold 11px Arial, Helvetica, Geneva, sans-serif; }
 .stockcopy{ color : #000000; font : normal 11px Arial, Helvetica, Geneva, sans-serif; }
+.stockhead { color : #000000; font : bold 11px Arial, Helvetica, Geneva, sans-serif; background-color: #ffffff}
 .search{ color: #ffffff; font: bold 12px Arial, Helvetica, Geneva, sans-serif; }
 .topnav{ color : #CCCCCC; font : bold 11px Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
 .topnav:hover{ background : #333333; color : #990000; font : bold 11px Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
@@ -88,6 +87,8 @@ document.write(num);
 .rightnavnbold:hover{ color : #990000; font : 12px Arial, Helvetica, Geneva, sans-serif; }
 .rightnavnbold{ color : #000000; font : 12px Arial, Helvetica, Geneva, sans-serif; }
 .rightnavlinks{ color : #770000; font : 11px Arial, Helvetica, Geneva, sans-serif; }
+.rightnavhead { color : #CCCCCC; font : bold 11px Arial, Helvetica, Geneva, sans-serif; text-decoration : none; background-color: #333333; text-indent: 4px}
+.rightnavhilite { color : #000000; font : bold 11px Arial, Helvetica, Geneva, sans-serif; background-color: #FFFFFF; TEXT-DECORATION: none}
 .title{ color : #0000FF; font : bold 18px Georgia, Times New Roman, Times, serif; }
 .headlarger{ color : #770000; font : bold 18px Arial, Helvetica, Serif; }
 .footerlink{ color : #770000; font : bold 12px Arial, Helvetica, Geneva, sans-serif; text-align : center; }
@@ -102,8 +103,8 @@ document.write(num);
 .buyernbold:hover{ color : #990000; font : normal 15px Arial, Helvetica, Geneva, sans-serif; }
 .buyer{color : #770000; font : bold 15px Arial, Helvetica, Geneva, sans-serif; }
 .buyerhead{color : #000000; font : bold 16px Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
-.pollanswer{color : #000000; font : bold 12px Arial, Geneva, Helvetica, sans-serif; }
-.pollratio{color : #CC3300; font : bold 12px Arial, Geneva, Helvetica, sans-serif; }
+.pollanswer{color : #000000; font : bold 11px Arial, Geneva, Helvetica, sans-serif; }
+.pollratio{color : #CC3300; font : bold 11px Arial, Geneva, Helvetica, sans-serif; }
 .pollprevious{color : #CC3300; font : 11px Arial, Geneva, Helvetica, sans-serif; }
 .smallgray{color : #666666; font : 11px Arial, Helvetica, Geneva, sans-serif; }
 .reglabel{color : #666666; font : bold 9.5px Verdana, Helvetica, Arial, Geneva, sans-serif; text-transform : uppercase; }
@@ -114,12 +115,44 @@ document.write(num);
 .sidebareven {background : #FFFFFF repeat; }
 .table {color: #000000; font: 11px Arial, Helvetica, Geneva, sans-serif}
 .tfoot {color: #000000; font: 10px Arial, Helvetica, Geneva, sans-serif}
-
 .topBannerTitle { color: #ffffff; background-color: #000000; font: 11px Verdana,Arial,Helvetica,Geneva,sans-serif; }
 .topBannerSubHead { font: 12px Arial,Geneva,sans-serif; }
+.centernavhead{color : #000000; font : bold 11px Arial, Helvetica, Geneva, sans-serif; text-decoration : none;}
+.centernav{color : #000000; font : 10px Arial, Helvetica, Geneva, sans-serif; text-decoration : none;}
+.kicker{color: #000000; font : bold 9px Verdana, Helvetica, Arial;}
+.surveyQuestionTable { color : #000000; font : normal 11px Verdana, Helvetica, Arial; }
+.surveySubquestionTable { color : #000000; font : normal 11px Verdana, Helvetica, Arial; }
+.surveyQuestionCount {color : #660000; font : bold 13px Arial, Helvetica, sans-serif;}
+.surveyQuestionText {color : #660000; font : bold 13px Arial, Helvetica, sans-serif;}
+.surveyAnswerHeaderText { color : #000000; font : bold 11px Verdana, Helvetica, Arial; }
+.surveyAnswerText { color : #000000; font : normal 11px Verdana, Helvetica, Arial; }
 </style>
 </head>
-<body bgcolor="#FFFFFF" leftmargin="2" topmargin="0" marginheight="0" marginwidth="2"><!-- Begin Header -->
+<body bgcolor="#FFFFFF" leftmargin="2" topmargin="0" marginheight="0" marginwidth="2"><script language="JavaScript">
+<!--
+function checkSearch() 
+{ 
+  if (document.SearchForm.text.value == "")
+  {
+    window.alert("Please enter a text value to be searched for.");
+    return false;
+  }
+
+  document.SearchForm.text.value = trim(document.SearchForm.text.value.toLowerCase());
+  return true;
+ 
+}
+
+function trim(psText) 
+{
+	psText = psText.replace(/^[\s]+/g,"");
+	psText = psText.replace(/[\s]+$/g,"");
+	return psText;
+}
+//-->
+</script>
+
+<!-- Begin Header -->
 <table border="0" cellpadding="0" cellspacing="0" width="760">
 	<tbody><tr>
 		<td><a href="http://www.wirelessweek.com/"><img alt="Wireless Week" border="0" src="http://a330.g.akamai.net/7/330/2540/2ead7e212841db/www.wirelessweek.com/contents/images/wirelessweek_logo.gif"></a></td>
@@ -131,30 +164,65 @@ document.write(num);
 				<tbody><tr>
 					<td valign="TOP">
 						<table cellpadding="2" cellspacing="2" border="0">
-							<form action="index.asp" method="get"></form>
+							<form name="SearchForm" action="index.asp" method="get" onsubmit="checkSearch()"></form>
 							<tbody><tr>
 								<td><span class="search">Search <i>Wireless Week</i></span></td>
 							</tr>
 							<tr>
 								<td height="25" valign="BOTTOM">
-									<select name="SearchParam">
-									<option selected="" value="Entire Site">Entire Site</option>
-									<option value="Search All Articles">Articles</option>
-									<option value="Web Only Search">Web-Exclusive</option>
-									<option value="Search Archives">Archives</option>
-									<option value="Search Companies">Companies</option>
-									<option value="Search Products">Products</option>
-									<option value="Search Directories">Directories</option>
-									<option value="Search Events">Events</option>
+									<select name="content">
+									<option selected="" value="All">Entire Site</option>
+									<option value="Articles">Articles</option>
+									<option value="Archives">Archives</option>
+									<option value="Company">Companies</option>
+									<option value="Product">Products</option>
+									<option value="Directory">Directories</option>
+									<option value="Events">Events</option>
 									</select>
 
-<a href="esec/index.asp"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.wirelessweek.com/contents/images/pixel.gif" width="1" height="1" border="0"></a>
+<a href="/esec/" style="font-size:1px;color:#cd0101;cursor:default;text-decoration:none;">Archive Map</a>
 
 
 								</td>
 							</tr>
 							<tr>
-								<td><input name="layout" type="hidden" value="search_all"><input name="text" size="18"></td>
+								<td><input name="layout" type="hidden" value="searchResults"><script language="javascript">
+function stripQts2(name){
+var newName = "";
+var test = name.split(unescape("%27%27")); //split the field on ascii code for double ''
+for(i=0;i<test.length;i++){
+	if(i!=(test.length - 1)){
+		
+		newName = newName + test[i] + "'"  // put it back together with an "'" 
+	}
+	else{
+		newName = newName + test[i] // make sure end of string has no "'"
+	}
+}
+	userQuery = newName;
+}
+
+var tempQuery="";
+userQuery = "";
+
+for (i = 0; i < tempQuery.length; i++)
+  if ((tempQuery.charAt(i)=='%') &&
+     (tempQuery.charAt(i+1)=='2') &&
+     (tempQuery.charAt(i+2)=='2'))
+       {userQuery = userQuery + '&quot;';
+        i=i+2;
+       }
+  else
+       {if (tempQuery.charAt(i)=="+")
+	     userQuery = userQuery + " "
+		else
+		 userQuery = userQuery + tempQuery.charAt(i);
+       }
+
+userQuery=unescape(userQuery);
+stripQts2(userQuery);
+document.write('<input type=text name=text size=18 value="' + userQuery + '" >')
+</script><input type="text" name="text" size="18" value=""></td>
 								<td><input type="submit" value="Go"></td><td><a class="pubfrom" href="http://www.wirelessweek.com/index.asp?layout=static&amp;page=wireless_tips">Tips</a> &nbsp;
 								</td>
 							</tr>
@@ -178,7 +246,7 @@ document.write(num);
 						document.write("" + dayNames[now.getDay()] + " " + monNames[now.getMonth()] + " " + now.getDate() + ", " + now.getFullYear());</script>Wednesday February 19, 2020&nbsp;&nbsp;</span>
 					</td>
 					<td align="right" bgcolor="#333333">
-						<span class="topnav">|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=archive&amp;year=2002">Archives</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=events">Events</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=directories">Directories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=static&amp;page=big_talk_comment">Discussions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=newsat2direct&amp;NewsAt2Param=Archive+List">news@2direct®</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="http://www.reed4success.com/default.asp?magid=150&amp;promocode=WBF01ZZ6">Subscribe</a>&nbsp;&nbsp;|</span>
+						<span class="topnav">|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=inside_wireless&amp;industryid=21346&amp;industry=Advertise&amp;doc_id=109020&amp;title=Advertising+Essentials">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=contentArchive&amp;year=2003">Archives</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=eventTOC">Events</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=Classifieds&amp;category=Classifieds">Classifieds</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=directories">Directories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=static&amp;page=big_talk_comment">Discussions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="index.asp?layout=newsat2direct&amp;NewsAt2Param=Archive+List">news@2direct®</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="topnav" href="jumplink.asp?target=http%3A//www.reed4success.com/default.asp%3Fmagid%3D150%26promocode%3DWBF01ZZ6&amp;sponsor=r4s+WW&amp;loc=texttopnav&amp;layout=inside%5Fwireless">Subscribe</a>&nbsp;&nbsp;|</span>
 					</td>
 				</tr>
 			</tbody></table>
@@ -187,25 +255,48 @@ document.write(num);
 </tbody></table>
 <!-- End Header -->
 <table width="760" cellpadding="0" cellspacing="5" border="0" bgcolor="#CCCCCC"><tbody><tr valign="middle"><td align="left" bgcolor="#CCCCCC" class="breadcrumb">
-&nbsp;&nbsp;<span class="breadcrumbtitle">You Are Here &gt;</span> <a class="breadcrumb" href="index.asp">Home</a> &gt; <a class="breadcrumb" href="index.asp?layout=inside_wireless&amp;Industry=Privacy+Policy&amp;industryid=1453">Privacy Policy</a>
+&nbsp;&nbsp;<span class="breadcrumbtitle">You Are Here &gt;</span> <a class="breadcrumb" href="index.asp">Home</a> &gt; <a class="breadcrumb" href="index.asp?layout=inside_wireless&amp;Industry=Privacy+Policy&amp;industryid=1453">Privacy Policy</a> &gt; Privacy Policy
 </td></tr></tbody></table>
 <table cellspacing="0" cellpadding="0" width="760" border="0">
 <tbody> 
 <tr> 
 <td valign="top" width="133" bgcolor="#cccccc"> <table border="0" cellpadding="6" cellspacing="0" width="133">
+<tbody><tr><td bgcolor="#333333" class="topnav">Interactive Directory</td></tr>
+<tr><td align="left" bgcolor="CCCCCC" width="133">
+<a href="http://wirelessweek.directorym.com/DM/?cat_id=3988&amp;d=1830&amp;l=RDWIW_NATL_AM&amp;first=NATL&amp;source=wwnav" target="new_window" class="leftnav">Advertising / PR</a><br>
+
+<a href="http://wirelessweek.directorym.com/DM/?cat_id=2136&amp;d=1828&amp;l=RDWIW_NATL_LEG&amp;first=NATL&amp;source=wwnav" target="new_window" class="leftnav">Legal Services</a><br>
+
+<a href="http://wirelessweek.directorym.com/DM/?cat_id=9170&amp;d=1832&amp;l=RDWIW_NATL_TRS&amp;first=NATL&amp;source=wwnav" target="new_window" class="leftnav">Trade Shows</a><br>
+
+<a href="http://wirelessweek.directorym.com/DM/?cat_id=1802&amp;d=2084&amp;l=RDWIW_NATL_TEL&amp;first=NATL&amp;source=wwnav" target="new_window" class="leftnav">Telephone Systems</a><br>
+
+<a href="http://wirelessweek.directorym.com/DM/?cat_id=9141&amp;d=1831&amp;l=RDWIW_NATL_WD&amp;first=NATL&amp;source=wwnav" target="new_window" class="leftnav">Web Design</a><br>
+
+<a href="http://wirelessweek.directorym.com/DM/?cat_id=9171&amp;d=2388&amp;l=RDWIW_NATL_WAC&amp;first=NATL&amp;source=wwnav" target="new_window" class="leftnav">Wireless Accessories</a><br>
+
+<a href="http://wirelessweek.directorym.com/DM/?cat_id=9172&amp;d=2432&amp;l=RDWIW_NATL_WNW&amp;first=NATL&amp;source=wwnav" target="new_window" class="leftnav">Wireless Networks</a><br>
+
+
+
+
+</td></tr>
+</tbody></table>
+
+<table border="0" cellpadding="6" cellspacing="0" width="133">
 <tbody><tr><td bgcolor="#333333" class="topnav">Issues</td></tr>
 </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" bgcolor="#CCCCCC">
-<tbody><tr><td valign="top"><a href="index.asp?layout=webzine"><img src="http://a330.g.akamai.net/7/330/2540/2673464cd33cd9/www.wirelessweek.com/contents/images/ww1.gif" border="0" height="100" width="133" alt="Wireless Week: This Week's Issue"></a></td></tr></tbody></table>
+<tbody><tr><td valign="top"><a href="index.asp?layout=contentTOC&amp;archive=no&amp;pubdate=6/15/2003"><img src="http://a330.g.akamai.net/7/330/2540/f648abcaa2480c/www.wirelessweek.com/contents/images/ww3.gif" border="0" height="100" width="133" alt="Wireless Week: Current Issue"></a></td></tr></tbody></table>
 
-<table width="133" border="0" cellpadding="0" cellspacing="0" bgcolor="#cccccc">
-<tbody><tr><td class="leftnav" align="center">&nbsp;</td></tr>
-<tr><td class="leftnav" align="center"><a href="index.asp?layout=CTIA_IT2002"><img src="http://a330.g.akamai.net/7/330/2540/df1bb03bc6d78c/www.wirelessweek.com/contents/images/ITb.gif" width="133" border="0"></a></td></tr>
-</tbody></table>
+
+
 <br>
 <table cellpadding="0" cellspacing="0" border="0" bgcolor="#CCCCCC">
 <tbody><tr>
-<td valign="top"><a href="/?layout=wirelessinternet"><img src="http://a330.g.akamai.net/7/330/2540/ac8ebd5725c2d2/www.wirelessweek.com/contents/images/wireless_internet.gif" border="0" alt="Wireless Internet Magazine"></a></td></tr>
+<td valign="top"><a href="index.asp?layout=wirelessinternet"><img src="http://a330.g.akamai.net/7/330/2540/5813a0415aa75d/www.wirelessweek.com/contents/images/wireless_internet_new.gif" border="0" alt="Wireless Internet Magazine"></a>
+</td>
+</tr>
 </tbody></table>
 <br>
 
@@ -213,7 +304,7 @@ document.write(num);
 <tbody><tr><td bgcolor="#333333" class="topnav">Newsletter
 </td></tr>
 <tr><td bgcolor="#CCCCCC" align="center">
-<a href="index.asp?layout=newsat2direct&amp;Pubdate=10/11/02">
+<a href="index.asp?layout=newsat2direct&amp;Pubdate=06%2F26%2F03">
 <img alt="" border="0" height="46" src="http://a330.g.akamai.net/7/330/2540/d4e73131431552/www.wirelessweek.com/contents/images/register_feature_newsat2.gif" width="121"></a>
 <a class="leftnav" href="index.asp?layout=newsat2direct&amp;NewsAt2Param=Archive+List">news@2direct® Archive</a></td></tr></tbody></table>
 
@@ -223,32 +314,24 @@ document.write(num);
 <!--InStat/MDR button -->
 <script language="JavaScript1.2" src="http://instataffiliate.com/00000404.js"></script>
 <table border="0" cellpadding="6" cellspacing="0" width="133">
-<tbody><tr><td bgcolor="#333333" class="topnav">Topics</td></tr>
-<tr><td align="left" bgcolor="#CCCCCC" width="133">
-</td></tr><tr><td align="left" bgcolor="#CCCCCC" width="133">
-<a class="leftnav" href="index.asp?layout=categories&amp;verticalId=360&amp;vertical=Applications">Applications</a><br><a class="leftnav" href="index.asp?layout=categories&amp;verticalId=34&amp;vertical=Business+and+Finance">Business and Finance</a><br><a class="leftnav" href="index.asp?layout=categories&amp;verticalId=42&amp;vertical=Global+Regions">Global Regions</a><br><a class="leftnav" href="index.asp?layout=categories&amp;verticalId=148&amp;vertical=Industry+Trends">Industry Trends</a><br><a class="leftnav" href="index.asp?layout=categories&amp;verticalId=33&amp;vertical=Regulatory">Regulatory</a><br><a class="leftnav" href="index.asp?layout=categories&amp;verticalId=223&amp;vertical=Technology">Technology</a><br><a class="leftnav" href="index.asp?layout=categories&amp;verticalId=110&amp;vertical=Wireless+Internet">Wireless Internet</a></td></tr>
-</tbody></table>
-<table border="0" cellpadding="6" cellspacing="0" width="133">
 <tbody><tr><td bgcolor="#333333" class="topnav">Tools / Services</td></tr>
 <tr><td align="left" bgcolor="CCCCCC" width="133">
-<a href="index.asp?layout=Research&amp;ResearchParam=Air+Time+Pricing&amp;verticalid=445" class="leftnav">Airtime Pricing</a><br>
-<a href="index.asp?layout=archive&amp;year=2002" class="leftnav">Archives</a><br>
+<a href="index.asp?layout=contentArchive&amp;year=2003" class="leftnav">Archives</a><br>
 <a href="http://www.congress.org" class="leftnav" target="_blank">Capitol Hill Contacts</a><br>
-<a href="index.asp?layout=classifieds" class="leftnav">Classifieds</a><br>
+<a href="index.asp?layout=Classifieds&amp;category=Classifieds" class="leftnav" target="_blank">Classifieds</a><br>
 <a class="leftnav" href="index.asp?layout=directories">Directories</a><br>
-<a href="index.asp?layout=events" class="leftnav">Events</a><br>
-<a href="index.asp?layout=face_time" class="leftnav">FaceTime</a><br>
+<a href="index.asp?layout=eventTOC" class="leftnav">Events</a><br>
 <a href="index.asp?layout=Research&amp;ResearchParam=Wireless+Industry+Terms&amp;verticalid=461" class="leftnav">Glossary</a><br>
 <a href="index.asp?layout=Research" class="leftnav">Industry Research</a><br>
 <a href="index.asp?layout=top100" class="leftnav">Industry Stocks</a><br>
 <a href="http://www.instat.com/rh/wirelessweek/store.htm?SourceID=00000041000000000000" class="leftnav">In-Stat Store</a><br>
 <a href="index.asp?layout=Research&amp;ResearchParam=International&amp;verticalid=467" class="leftnav">International Data</a><br>
-<a href="index.asp?layout=newproducts" class="leftnav">New Products</a><br>
-<a href="index.asp?layout=Classifieds&amp;ClassParam=Product+%26+Web+Showcase&amp;verticalid=575" class="leftnav">Product/Web Showcase</a><br>
+<a href="index.asp?layout=Classifieds&amp;category=Product+%26+Web+Showcase&amp;verticalid=575" class="leftnav">Product/Web Showcase</a><br>
 <a href="index.asp?layout=tsarchives" class="leftnav">Show Dailies</a><br>
 <a href="index.asp?layout=webcasts" class="leftnav">Webcasts</a><br>
 <a href="index.asp?layout=wireless101&amp;verticalid=173&amp;vertical=Wireless+101" class="leftnav">Wireless 101</a><br>
-<a href="index.asp?layout=instyle" class="leftnav">Wireless In Style</a><br></td></tr>
+<a href="index.asp?layout=inside_wireless&amp;doc_id=113676&amp;title=Wireless+InStyle+Rules" class="leftnav">Wireless InStyle</a><br>
+</td></tr>
 </tbody></table>
 
 <table border="0" cellpadding="6" cellspacing="0" width="133">
@@ -259,109 +342,243 @@ document.write(num);
 <td bgcolor="#cccccc" width="133"><a class="leftnav" href="index.asp?layout=weblinks&amp;text=A&amp;industry=Associations">Associations</a><br><a class="leftnav" href="index.asp?layout=weblinks&amp;text=A&amp;industry=Carriers">Carriers</a><br><a class="leftnav" href="index.asp?layout=weblinks&amp;text=A&amp;industry=Education">Education</a><br><a class="leftnav" href="index.asp?layout=weblinks&amp;text=F&amp;industry=Government">Government</a><br><a class="leftnav" href="index.asp?layout=weblinks&amp;text=A&amp;industry=Publishing">Publishing</a><br><a class="leftnav" href="index.asp?layout=weblinks&amp;text=A&amp;industry=Research/Consultants">Research/Consultants</a><br><a class="leftnav" href="index.asp?layout=weblinks&amp;text=A&amp;industry=Vendors">Vendors</a><br></td>
 </tr>
 </tbody></table>
-
+<!-- poll -->
 <table border="0" cellpadding="6" cellspacing="0" width="133">
-<tbody><tr><td bgcolor="#333333" class="topnav">Inside Wireless</td></tr>
-<tr><td align="left" bgcolor="#CCCCCC" width="133"><a class="leftnav" href="index.asp?layout=inside_wireless&amp;industryid=3092&amp;industry=Advertise+-+Web">Advertise - Web</a><br>
-<a class="leftnav" href="index.asp?layout=inside_wireless&amp;Industry=About+Us&amp;industryid=1446&amp;doc_id=5920&amp;title=Take+a+Glance+at+Our+Editorial+Calendar">Editorial Calendar</a><br>
-<a class="leftnav" href="http://www.reed4success.com/default.asp?magid=150&amp;promocode=WBF01ZZ6">Print Subscription</a><br>
+<tbody><tr><td bgcolor="#333333" class="topnav" width="133">Inside Wireless</td></tr>
+<tr><td align="left" bgcolor="#CCCCCC" width="133"><a class="leftnav" href="index.asp?layout=inside_wireless&amp;industryid=21346&amp;industry=Advertise&amp;doc_id=109020&amp;title=Advertising+Essentials">Advertise - Web</a><br>
+<a class="leftnav" href="index.asp?layout=inside_wireless&amp;Industry=About+Us&amp;industryid=1446&amp;doc_id=5920&amp;title=Editorial+Planner">Editorial Planner</a><br>
+<a class="leftnav" href="jumplink.asp?target=http%3A//www.reed4success.com/default.asp%3Fmagid%3D150%26promocode%3DWBF01ZZ6&amp;sponsor=r4s+WW&amp;loc=textleftnav&amp;layout=inside%5Fwireless">Print Subscription</a><br>
 <a class="leftnav" href="index.asp?layout=inside_wireless&amp;industryid=3010&amp;industry=Reprint+Requests">Reprint Requests</a><br>
-<a class="leftnav" href="index.asp?layout=inside_wireless&amp;industryid=1453&amp;industry=Privacy+Policy">Privacy Policy</a><br>
+<a class="leftnav" href="index.asp?layout=inside_wireless&amp;industryid=1453&amp;industry=Privacy+Policy&amp;doc_id=107124&amp;title=Privacy+Policy">Privacy Policy</a><br>
 <a class="leftnav" href="http://a330.g.akamai.net/7/330/2540/f4f8f6252b166b/www.wirelessweek.com/contents/pdf/WWmkt_list2.pdf" target="_blank">Direct Marketing Lists</a></td></tr></tbody></table>
 </td>
     <td valign="top" width="476" bgcolor="#ffffff"> 
 <!-- Start Middle Column --> 
-<table width="95%" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td>
+<table width="95%" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td valign="top">
 <br>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-<tbody><tr><td width="100%" align="center"><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/ww.rbi/;abr=!webtv;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=375435261850368?"></script><script><!--
+<tbody><tr><td width="100%" align="center"><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/ww.rbi/;dcopt=ist;abr=!webtv;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=3779931112916736?"></script><script><!--
 if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0))
 {
-document.write('<a href="http://ad.doubleclick.net/jump/ww.rbi/;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=375435261850368?">');
-document.write('<img src="http://ad.doubleclick.net/ad/ww.rbi/;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=375435261850368?" width="468" height="60" border="0"></a>');
+document.write('<a href="http://ad.doubleclick.net/jump/ww.rbi/;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=3779931112916736?">');
+document.write('<img src="http://ad.doubleclick.net/ad/ww.rbi/;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=3779931112916736?" width="468" height="60" border="0"></a>');
 }
-//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/ww.rbi/;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=375435261850368?"><img src="http://ad.doubleclick.net/ad/ww.rbi/;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=375435261850368?" width="468" height="60" border="0"></a></noscript></td></tr></tbody></table><br>
-<table width="456" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr><td class="copy"><table align="center" border="0" cellpadding="6" cellspacing="0" width="456">
+//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/ww.rbi/;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=3779931112916736?"><img src="http://ad.doubleclick.net/ad/ww.rbi/;type=wirelessweekbanner;pos=1;lay=inside_wireless;indid=1453;sz=468x60;ord=3779931112916736?" width="468" height="60" border="0"></a></noscript></td></tr></tbody></table><br>
+
+<table width="450" cellpadding="2" cellspacing="0" border="0" align="center">
+  <tbody><tr>
+    <td valign="top"><span class="head"><font size="3">WirelessWeek</font></span><br><br>
+<span class="copy"><table align="center" border="0" cellpadding="6" cellspacing="0" width="456">
 <tbody><tr><td align="left" bgcolor="#cccc99" valign="center"><font face="arial" size="3"><b>Privacy Policy</b></font></td></tr></tbody></table>
 <br>
 <table cellpadding="0" cellspacing="0" width="456" border="0" align="center">
-<tbody><tr><td><font> <font face="Arial" size="2"><font color="#800000">Last updated: November 2000</font> </font> 
+<tbody><tr><td><font> <font face="Arial" size="2"><font color="#800000">Last updated: July 17, 2002</font> </font> 
         
       <p></p></font></td></tr>
-<tr><td>
-      <p align="center"><font><font face="Arial" size="3"><b><font color="#800000">Wireless Week</font></b>  
-      </font></font></p><p></p></td>
+<tr>
 </tr><tr><td>
-<p><font face="Arial" size="3">
-<b>Privacy Policy<br></b></font>
-<font face="arial" size="2">V.1.2.3 January, 2000 
-      </font></p><font face="arial" size="2">
-<p>Privacy Policy for Reed Business Information, a division of Reed Elsevier 
-Inc. publications.</p></font>
-<hr>
-<font face="arial" size="2">
-<p>Wireless Week is a publication of Reed Business Information.</p>
-<p>This Privacy Policy will be continuously assessed against new technologies, 
-business practices and our customers’ changing needs. We may change our 
-privacy practices from time to time. If we make any changes, we’ll update this 
-privacy statement accordingly (the date of the most recent change is 
-displayed at the top of this statement).</p>
-<p>Many of our RBI publications are available free of charge or may be 
-subscribed to at reduced rates because they are supported by advertisers. 
-Qualification and registration questionnaires and other processes ensure that 
-our advertisers reach the appropriate audiences. We may use the information 
-we collect from you individually or aggregated with other user’s 
-information to improve our publications, to customize these publications, and 
-to notify you about updates or new features. In addition, we may use 
-information we collect to notify you of third-party products and services in 
-which you may be interested.</p>
-<p>In addition to the options made available to you, if any, when we collect 
-information, you may elect to 'opt out' of having your individually 
-identifiable information shared with third-parties that are not affiliated with 
-Reed Business Information (except for uses specifically requested by you and legitimate 
-business uses). Separate third-party opt out request for each medium (mail or 
-telephone or e-mail) must be submitted in writing to our Privacy Manager in 
-one of the following ways:</p>
-<p>&nbsp; 
-Attention:<br>
-Privacy Manager<br>
-Address:<br> 
-Reed&nbsp;Business 
-Information<br> 1350 
-E. Touhy Avenue <br> 
-Des Plaines, IL 60018<br>&nbsp; 
-E-Mail:<br><a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a><br>Phone:<br>(877) 
-504-1273<br> (847) 
-390-2377</p>
-<p>We will update the specific records related to your 
-      request as promptly as practical. Note, however, that you may receive 
-      additional communications 
-from third parties after you submit your request while we process the request. 
-Additionally, your information may exist in multiple lists within the company 
-and our technology limits the processing of opt out requests to the specific 
-list source. We will continuously assess our responsiveness to opt out requests 
-against new technologies, business practices and our customers’ 
-needs.</p><p><span style="FONT-SIZE:
- 11pt; COLOR: black; mso-bidi-font-size: 10.0pt">&nbsp;</span><b><span style="FONT-SIZE: 10pt; COLOR: black; mso-bidi-font-size: 10.0pt">This Site is operated 
-        by:</span></b></p>
-      <span style="FONT-SIZE: 10pt; mso-bidi-font-size: 10.0pt">Reed Business 
-        Information<br>350 Hudson Street<br>New York, NY 10014<br><a href="mailto:&#10;      websupport@reedbusiness.com">websupport@reedbusiness.com</a></span></font>
-    </td>
-  </tr></tbody></table>
-</td></tr></tbody></table><br>
-<table width="456" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td>
-<br>
+      <p class="std" align="left"><b><font face="Arial" size="2">Overview</font></b></p>
+<p><font face="Arial" size="2">This Privacy Policy describes the policies of Reed Business Information 
+        (“RBI” or “we”), a division of Reed Elsevier Inc. 
+        (“Reed Elsevier”), regarding the collection, use, disclosure 
+        and protection of the following types of information:</font></p><font face="Arial" size="2">
+      <ul>
+        <li>Information obtained when you and other users 
+        (“you” or “Users”) visit the Wireless Week web site (the “Site”). <a href="http://www.wirelessweek.com">http://www.wirelessweek.com</a>
 
-</td></tr></tbody></table>
+        </li><li>Information obtained through e-mail communications with you related 
+          to the Site. </li>
+      </ul>
+      <p>This privacy policy does not apply to information that we may collect 
+        from you by other means (including offline) or from other sources. Your 
+        use of this Site constitutes your acceptance of all of the terms and conditions 
+        contained in this Privacy Policy and your consent to any action we take 
+        with respect to your information that is in compliance with this Privacy 
+        Policy.</p>
+      <p>We may change the terms of this Privacy Policy, so Users are encouraged 
+        to review this page from time to time. Your continued use of this Site 
+        following the posting of changes to the Privacy Policy means that you 
+        accept the changes.</p>
+      <p>If you do not agree to this Privacy Policy, as modified from time to 
+        time, please do not visit this Site.</p>
+      <p><b>Information We Collect and How We Collect It</b></p>
+      <p><b><i><font size="3">General<br>
+        </font></i></b>We require you to provide us with certain information about 
+        yourself when you register with this Site and when you request products 
+        and services. We also collect information from you when you participate 
+        in contests and surveys, when you respond to requests for feedback and 
+        when you submit postings to public areas of this Site, such as moderated 
+        discussions and bulletin boards.</p>
+      <p>The information we collect may include information from which you may 
+        be personally identified (“Personally Identifiable Information”), 
+        such as name, postal address, telephone number, fax number and e-mail 
+        address, and also may include certain business information, such as employer 
+        name, occupation, job function, job title and buying information (e.g., 
+        preferences or history). We also will collect credit card and related 
+        information when you request a product or service (including registering 
+        for the Site) for which there is a charge. This Site only collects Personally 
+        Identifiable Information with your knowledge.</p>
+      <p><b><i><font size="3">Automatic Data Collection<br>
+        </font></i></b>When you visit this Site, we may collect the IP address 
+        of your computer.</p>
+      <p>We also automatically record other information that identifies your computer 
+        to this Site and tracks your behavior on the Site. For example, we may 
+        record how many times you visit this Site and your navigation within the 
+        Site. We do not collect Personally Identifiable Information in this manner; 
+        however, if you provide us with Personally Identifiable Information, we 
+        may associate that information with the information that is collected 
+        automatically.</p>
+      <p>Methods used to collect this information may include 'cookies' 
+        and 'clear GIFs' (also known as 'pixel tags' or 'beacons'). 
+        A cookie is a small amount of data that is sent to your browser from a 
+        server and stored on your computer’s hard drive. Most browsers allow 
+        Users to block the receipt of cookies, but doing so may compromise your 
+        ability to use certain features of this Site. A clear GIF is a small graphic 
+        image, typically used in connection with cookies, that is placed on a 
+        web site or in an email message. A clear GIF can monitor certain user 
+        behavior, such as your usage of the web site, whether you opened an email 
+        message or whether you clicked on a URL in an email message.</p>
+      <p>Some of the materials included on this Site, including advertising, may 
+        be served by third parties. These third parties, in the course of serving 
+        such materials, may collect information regarding your use of this Site 
+        and how you respond to e-mail communications, using methods that may include 
+        those described in the preceding paragraph. Collection, use, disclosure 
+        and security of information collected by third parties are subject to 
+        the privacy policies of those third parties. You may view the privacy 
+        policy of DoubleClick, a third party that serves ads to this Site, at 
+        <a href="http://www.privacychoices.org" target="_blank">www.privacychoices.org</a>.</p>
+      <p><b>How We Use Your Information</b></p>
+      <p><b><i><font size="3">General<br>
+        </font></i></b>We use Personally Identifiable Information that we collect 
+        on this Site for the following purposes:</p>
+      <ul>
+        <li>To provide you with this Site and other 
+        products and services, such as electronic and print publications and 
+        newsletters. 
+        </li><li>To respond to your inquiries and contact you 
+        about changes regarding the Site. 
+        </li><li>To provide you with e-mail, fax and other 
+        notices (such as expiration and renewal notices) and inquiries regarding 
+        your account and the products or services that you are receiving, and 
+        for billing and collection purposes. 
+        </li><li>For any other purpose disclosed at the time the 
+        information is collected or to which you consent. 
+        </li><li>As otherwise specifically described in this Privacy Policy.</li>
+      </ul>
+      <p>We also may use your information to better understand the needs of our 
+        Users and to improve our Site. For example, we may use this information 
+        to determine what portions of the Site are most popular and the demographics 
+        of our Users generally. Cookies and other User information also enable 
+        us to customize your experience on the Site.</p>
+      <p>We may use IP addresses to help diagnose problems with our servers or 
+        to administer our Site. We may also use IP addresses to help identify 
+        a User during a particular session and to gather data regarding use of 
+        the Site.</p>
+      <p><b><i><font size="3">Newsletters and Offers<br>
+        </font></i></b>We may use the information you provide us to send you e-mail, 
+        fax and other communications on behalf of RBI or other Reed Elsevier divisions. 
+        These communications may include e-mail newsletters that are relevant 
+        to this Site, as well as offers for other RBI and Reed Elsevier services. 
+        All of these communications will include instructions explaining how you 
+        can request that we not send you (“opt out” of) future communications 
+        of the same type.</p>
+      <p>We also may use your information to send you e-mail, fax and other communications 
+        on behalf of unaffiliated third parties. When you register with and provide 
+        information to this Site you will be given an opportunity to opt out of 
+        our sending you offers on behalf of third parties. In addition, each of 
+        these communications will include instructions for opting out of receiving 
+        future third party offers from us. You may also opt out of receiving third 
+        party offers from this Web Site at any time on the registration page of 
+        this Site or by sending an e-mail to <a href="mailto:privacymanager@reedbusiness.com" target="_blank">privacymanager@reedbusiness.com</a> 
+        with the subject line “opt out – third party.”</p>
+      <p><b>Our Disclosure of Your Information</b></p>
+      <p>We will not disclose your information to anyone outside of RBI or other 
+        Reed Elsevier divisions, except as described in this section.</p>
+      <p>We may disclose aggregated anonymous statistics about many Users to advertisers, 
+        content and service providers and other affiliated and unaffiliated companies.</p>
+      <p>We sometimes engage third parties to perform services for us, including 
+        in connection with this Site, that require us to disclose Users’ 
+        Personally Identifiable Information to them. If we make any such disclosure, 
+        we will require such parties to keep the information confidential and 
+        to use it only to perform the services.</p>
+      <p>We also may disclose your information to third parties that wish to market 
+        products or services that may be of interest to you. We will require these 
+        parties to keep any Personally Identifiable Information provided by us 
+        confidential and use it only to market and provide their products or services 
+        or with your approval. When you register with and provide information 
+        to this Site, you will be given an opportunity to opt out of our disclosing 
+        your Personally Identifiable Information as described in this paragraph. 
+        You may also opt out of such disclosures at any time on the registration 
+        page of this Site or by sending an e-mail to <a href="mailto:eletters@reedbusiness.com" target="_blank">eletters@reedbusiness.com</a> 
+        with the subject line “do not disclose.”</p>
+      <p>The only other times we may disclose your Personally Identifiable Information 
+        collected on this Site are as follows:</p>
+      <ul>
+        <li>In the event of an asset sale, merger, 
+        consolidation, restructuring, reorganization, liquidation or other 
+        similar transaction involving RBI or this Site, we may transfer some or 
+        all User information, including Personally Identifiable Information, to 
+        the successor company. 
+        </li><li>We will disclose your Personally Identifiable 
+        Information when we believe such disclosure is required by law or for 
+        the protection of persons or property. 
+        </li><li>We may disclose your Personally Identifiable Information with your 
+          consent, as well as when disclosure is necessary to accomplish the purpose 
+          for which you provide it. For example, when you request information 
+          from advertisers in the 'Reader Services' section of our publications, 
+          we will disclose your Personally Identifiable Information to the advertisers 
+          you specify.</li>
+      </ul>
+      <p><b>Security</b></p>
+      <p>We use reasonable security safeguards to protect Personally Identifiable 
+        Information we collect on this Site from unauthorized access, use, modification 
+        or disclosure. However, due to the design of the Internet and other factors 
+        outside of our control, we cannot guarantee that communications between 
+        you and our servers will be free from unauthorized access by third parties.</p>
+      <p><b>Right to Access and Change Information</b></p>
+      <p>You may view and update information that you 
+      previously submitted to this Site by visiting the registration page for 
+      this Site or by sending an email to <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a>           
+                 .</p>
+      <p><b>Opt-Out</b></p>
+      <p>This Privacy Policy describes certain opportunities you will have to 
+        opt out of our using or disclosing your Personally Identifiable Information.</p>
+      <p>Typically, an opt out request will be specific to a particular service 
+        or product. For example, if you opt out of receiving third party offers 
+        from this Site, you may continue to receive third party offers from other 
+        RBI web sites or publications not associated with this Site. Similarly, 
+        opting out of our disclosing Personally Identifiable Information collected 
+        on this Site will not apply to information collected on other RBI web 
+        sites. We cannot guarantee that we will be able to accommodate opt out 
+        requests that apply to multiple web sites, products or services, but we 
+        will try to do so to the extent feasible. If you wish to opt out of the 
+        use or disclosure of Personally Identifiable Information collected by 
+        more than one RBI web site, the best way of accomplishing this is to provide 
+        a separate opt out request for each web site, product or service.</p>
+      <p>Any opt out request will only be effective after a reasonable period 
+        of time for processing.</p>
+      <p><b>Links</b></p>
+      <p>This Site contains content, services, advertising and other materials 
+        that link to Web sites operated by third parties. We have no control over 
+        those other sites, and this Privacy Policy does not apply to them. We 
+        encourage you to refer to the privacy policies, if any, of those sites.</p>
+      <p><b>This Site is operated by:</b></p>
+      <p>Reed Business Information<br>
+        360 Park Avenue South<br>
+        New York, NY 10010<br>
+        E-Mail: <a href="mailto:privacymanager@reedbusiness.com" target="_blank">privacymanager@reedbusiness.com</a></p></font>
+    </td>
+	</tr>
+	
+	</tbody></table></span></td></tr></tbody></table>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-<tbody><tr><td width="100%" valign="top" align="center"><br><iframe src="http://ad.doubleclick.net/adi/ww.rbi/;type=wirelessweekbanner;pos=2;lay=inside_wireless;indid=1453;sz=468x60;ord=37543522917759488?" name="banner2" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ww.rbi/;abr=!ie;type=wirelessweekbanner;pos=2;lay=inside_wireless;indid=1453;sz=468x60;ord=37543522917759488?">
+<tbody><tr><td width="100%" valign="top" align="center"><br><iframe src="http://ad.doubleclick.net/adi/ww.rbi/;type=wirelessweekbanner;pos=2;lay=inside_wireless;indid=1453;sz=468x60;ord=377993757037568?" name="banner2" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ww.rbi/;abr=!ie;type=wirelessweekbanner;pos=2;lay=inside_wireless;indid=1453;sz=468x60;ord=377993757037568?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/ww.rbi/;abr=!ie;type=wirelessweekbanner;pos=2;lay=inside_wireless;indid=1453;sz=468x60;ord=37543522917759488?">
-<img src="http://ad.doubleclick.net/ad/ww.rbi/;abr=!ie;type=wirelessweekbanner;pos=2;lay=inside_wireless;indid=1453;sz=468x60;ord=37543522917759488?" border=0 width="468" height="60"></A></noscript></iframe><br><br></td></tr></tbody></table> 
+<a href="http://ad.doubleclick.net/jump/ww.rbi/;abr=!ie;type=wirelessweekbanner;pos=2;lay=inside_wireless;indid=1453;sz=468x60;ord=377993757037568?">
+<img src="http://ad.doubleclick.net/ad/ww.rbi/;abr=!ie;type=wirelessweekbanner;pos=2;lay=inside_wireless;indid=1453;sz=468x60;ord=377993757037568?" border=0 width="468" height="60"></A></noscript></iframe><br><br></td></tr></tbody></table> 
 
       <!-- End Middle Column -->
 
@@ -375,122 +592,112 @@ needs.</p><p><span style="FONT-SIZE:
 
 </td></tr>
 </tbody></table><table cellspacing="0" cellpadding="0" width="151" border="0" bgcolor="#999999" valign="top">
-<tbody><tr><td valign="top" align="center" bgcolor="#999999"><br><iframe src="http://ad.doubleclick.net/adi/ww.rbi/;type=wirelessweekbutton;pos=1;lay=inside_wireless;indid=1453;sz=125x125;ord=37543522041795840?" name="button1" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ww.rbi/;abr=!ie;type=wirelessweekbutton;pos=1;lay=inside_wireless;indid=1453;sz=125x125;ord=37543522041795840?">
+<tbody><tr><td valign="top" align="center" bgcolor="#999999"><br><iframe src="http://ad.doubleclick.net/adi/ww.rbi/;type=wirelessweekbutton;pos=1;lay=inside_wireless;indid=1453;sz=125x125;ord=377993346313984?" name="button1" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ww.rbi/;abr=!ie;type=wirelessweekbutton;pos=1;lay=inside_wireless;indid=1453;sz=125x125;ord=377993346313984?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/ww.rbi/;abr=!ie;type=wirelessweekbutton;pos=1;lay=inside_wireless;indid=1453;sz=125x125;ord=37543522041795840?">
-<img src="http://ad.doubleclick.net/ad/ww.rbi/;abr=!ie;type=wirelessweekbutton;pos=1;lay=inside_wireless;indid=1453;sz=125x125;ord=37543522041795840?" border=0 width="125" height="125"></A></noscript></iframe><br><br></td></tr>
+<a href="http://ad.doubleclick.net/jump/ww.rbi/;abr=!ie;type=wirelessweekbutton;pos=1;lay=inside_wireless;indid=1453;sz=125x125;ord=377993346313984?">
+<img src="http://ad.doubleclick.net/ad/ww.rbi/;abr=!ie;type=wirelessweekbutton;pos=1;lay=inside_wireless;indid=1453;sz=125x125;ord=377993346313984?" border=0 width="125" height="125"></A></noscript></iframe><br><br></td></tr>
 </tbody>
 </table>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://www.reed4success.com/default.asp?magid=150&amp;promocode=WBF01ZZ6"><img src="http://a330.g.akamai.net/7/330/2540/6276c4d51cecaa/www.wirelessweek.com/contents/images/Printwireless1.gif" border="0"></a></td></tr></tbody></table><table width="151" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td colspan="3" width="151" height="18" bgcolor="#FFFFFF">
-<table bgcolor="#cccccc" border="0" cellpadding="6" cellspacing="0" width="151">
-<tbody><tr><td bgcolor="#333333" class="topnav" align="left">Stock Watch</td><td align="right" bgcolor="#333333" class="topnav"><a class="topnav" href="http://www.wirelessweek.com/index.asp?layout=tickerUpdate">Edit</a></td></tr></tbody></table>
-</td></tr>
-<tr class="rightnav">
-<td align="left" width="49" bgcolor="#ffffff">Ticker</td>
-<td align="center" width="50" bgcolor="#ffffff">Last</td>
-<td align="right" width="52" bgcolor="#ffffff">Change</td></tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=SI">SI</a></td>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="jumplink.asp?target=http%3A//www.reed4success.com/default.asp%3Fmagid%3D150%26promocode%3DWBF01ZZ6&amp;sponsor=r4s+WW&amp;loc=buttonrightnav&amp;layout=inside%5Fwireless"><img src="http://a330.g.akamai.net/7/330/2540/6276c4d51cecaa/www.wirelessweek.com/contents/images/Printwireless1.gif" border="0"></a></td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td class="rightnavhilite" height="1" colspan="2"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.wirelessweek.com/contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td class="rightnavhead" height="24">Stock Watch</td>
+    <td class="rightnavhead" height="24" align="right"><a href="index.asp?layout=stockCustomEdit" class="rightnavhead">edit</a>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td class="rightnavhilite" height="1" colspan="2"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.wirelessweek.com/contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td class="stockhead" width="100%">
+<table align="center" border="0" cellpadding="1" cellspacing="0" width="95%">
+  <tbody><tr> 
+    <td align="left" class="stockhead" nowrap="">Ticker</td>
+    <td align="right" class="stockhead">Last</td>
+    <td align="right" class="stockhead">Change</td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=NXTL">NXTL</a></td>
+    <td align="right" valign="bottom" class="stockcopy">18.92</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#008000">2.38</font></span><img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=A">A</a></td>
+    <td align="right" valign="bottom" class="stockcopy">19.72</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#008000">0.37</font></span><img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=USM">USM</a></td>
+    <td align="right" valign="bottom" class="stockcopy">26.40</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#008000">0.26</font></span><img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=AMT">AMT</a></td>
+    <td align="right" valign="bottom" class="stockcopy">8.88</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#008000">0.20</font></span><img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=OPWV">OPWV</a></td>
+    <td align="right" valign="bottom" class="stockcopy">2.02</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#008000">0.06</font></span><img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=PCS">PCS</a></td>
+    <td align="right" valign="bottom" class="stockcopy">5.92</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#008000">0.02</font></span><img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=NOK">NOK</a></td>
+    <td align="right" valign="bottom" class="stockcopy">16.95</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#ff0000">-0.02</font></span><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.wirelessweek.com/contents/images/arrow-down.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=NT">NT</a></td>
+    <td align="right" valign="bottom" class="stockcopy">2.78</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#ff0000">-0.07</font></span><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.wirelessweek.com/contents/images/arrow-down.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=SI">SI</a></td>
+    <td align="right" valign="bottom" class="stockcopy">49.61</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#ff0000">-0.14</font></span><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.wirelessweek.com/contents/images/arrow-down.gif" height="10" width="10"></td>
+  </tr></tbody></table></td></tr></tbody></table>
+<script language="JavaScript">
+function ConvertDow( strName ) {
+if (strName.substr(0,1) == "D") {
+document.write("DJIA");
+} else {
+document.write(strName);
+}
+}
 
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">36.10</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">1.70</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=USM">USM</a></td>
-
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">27.74</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">1.24</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=NOK">NOK</a></td>
-
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">14.44</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">0.66</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=OPWV">OPWV</a></td>
-
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">0.64</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">0.18</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=PCS">PCS</a></td>
-
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">2.22</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">0.13</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=A">A</a></td>
-
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">10.90</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">0.05</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=AMT">AMT</a></td>
-
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">0.75</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">0.02</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=NT">NT</a></td>
-
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">0.46</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">0.02</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=LWIN">LWIN</a></td>
-
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">0.16</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#ff0000">-0.01</font>
-<img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.wirelessweek.com/contents/images/arrow-down.gif"></td>
-</tr><tr>
-<td align="left" width="49" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=NXTL">NXTL</a></td>
-
-<td align="right" width="50" class="stockcopy" bgcolor="#ffffff">7.97</td>
-
-<td align="right" width="52" class="stockcopy" bgcolor="#ffffff">
-<font color="#ff0000">-0.13</font>
-<img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.wirelessweek.com/contents/images/arrow-down.gif"></td>
-</tr><tr><td width="100%" colspan="3" bgcolor="#ffffff">&nbsp;</td></tr> 		<tr>
-<td align="left" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=COMPX">NASDAQ</a></td>
-<td align="right" class="stockcopy" bgcolor="#ffffff">1,210.47</td>
-<td align="right" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">47.10</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=INDU">DJIA</a></td>
-<td align="right" class="stockcopy" bgcolor="#ffffff">7,850.29</td>
-<td align="right" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">316.34</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr>
-<td align="left" class="stockcopy" bgcolor="#ffffff"><a class="stockcopy" href="index.asp?layout=stocks&amp;ticker=INX">S&amp;P 500</a></td>
-<td align="right" class="stockcopy" bgcolor="#ffffff">835.32</td>
-<td align="right" class="stockcopy" bgcolor="#ffffff">
-<font color="#008000">31.40</font>
-<img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif"></td>
-</tr><tr><td colspan="3" class="stockcopy" bgcolor="#ffffff"><br>
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td class="stockhead" width="100%"><br>
+<table align="center" border="0" cellpadding="1" cellspacing="0" width="95%">
+<tbody><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=INDU"><script>ConvertDow('DOW JON')</script>DJIA</a></td>
+    <td align="right" valign="bottom" class="stockcopy">9,095.85</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#008000">16.81</font></span><img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=COMPX"><script>ConvertDow('NASDAQ')</script>NASDAQ</a></td>
+    <td align="right" valign="bottom" class="stockcopy">1,650.65</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#008000">16.64</font></span><img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif" height="10" width="10"></td>
+  </tr><tr> 
+    <td align="left" nowrap="" class="stockhead"><a class="stockcopy" href="index.asp?layout=stockQuote&amp;ticker=INX"><script>ConvertDow('S&P 500')</script>S&amp;P 500</a></td>
+    <td align="right" valign="bottom" class="stockcopy">988.75</td>
+    <td align="right" class="stockcopy" valign="bottom"><span class="stockcopy"><font color="#008000">2.93</font></span><img src="http://a330.g.akamai.net/7/330/2540/1da092391678b9/www.wirelessweek.com/contents/images/arrow-up.gif" height="10" width="10"></td>
+  </tr><tr><td colspan="3" class="stockhead" align="left"><br>
 <a href="index.asp?layout=top100" class="stockcopy">Industry Stocks</a></td></tr>
+</tbody></table><br></td></tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td class="rightnavhilite" height="1"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.wirelessweek.com/contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td class="rightnavhead" height="24">Get Quote/Company Info</td>
+  </tr>
+  <tr> 
+    <td class="rightnavhilite" height="1"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.wirelessweek.com/contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
 </tbody></table>
 <script language="JavaScript">
 function stripChars(str,expr) {
@@ -514,7 +721,7 @@ var ManySymbols;
 ManySymbols = '';
 
 if (arraySymbols.length == 1) {
-     PageToGo = 'index.asp?layout=stocks&ticker=' + arraySymbols[0];
+     PageToGo = 'index.asp?layout=stockQuote&ticker=' + arraySymbols[0];
      location = PageToGo;
 } else {
      var x;
@@ -523,11 +730,11 @@ if (arraySymbols.length == 1) {
           ManySymbols = ManySymbols + '&v' + x + '=' + arraySymbols[x]    
      }
 
-     PageToGo = 'index.asp?layout=stock_compare' + ManySymbols;
+     PageToGo = 'index.asp?layout=stockQuoteMultiple' + ManySymbols;
      location = PageToGo;
 }
 } else {
-  PageToGo = 'index.asp?layout=stock_look_up&ticker=' + strSymbols;
+  PageToGo = 'index.asp?layout=stockLookUpCompany&ticker=' + strSymbols;
   location = PageToGo;
 }
 }
@@ -536,29 +743,73 @@ function DoNothing() {
    //Do Nothing
 }
 </script>
-
-<table cellspacing="0" cellpadding="3" width="100%" border="0" bgcolor="#FFFFFF">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr> 
+<td class="stockhead" width="100%" align="center">
+<table align="center" border="0" cellpadding="1" cellspacing="0" width="95%">
 <form action="JavaScript:DoNothing()"></form>
-<tbody>
-<tr><td valign="top" class="stockcopy" width="100%"><br>Data delayed at least 20 min.</td></tr>
+<tbody><tr class="stockcopy">
+<td valign="top" class="stockcopy" align="center">
+<input type="TEXT" size="15" name="ticker" value="" maxlength="40">&nbsp;<input class="stockcopy" type="button" name="submit" value="Go" onclick="ParseStockSymbol(form.ticker.value,form.layout[0].checked)">
+</td></tr>
+<tr><td align="center" valign="top" class="stockcopy">
+<input type="radio" name="layout" value="stocks" checked="">Ticker&nbsp;<input type="radio" name="layout" value="LookUpCompany">Find symbol</td>
+</tr>
 <tr>
-<td width="100%" valign="top" class="breadcrumbtitle"><br>Get Quote/Company Info</td> 
+<td class="stockcopy" align="center">Data delayed at least 20 min.</td>
 </tr>
 
-<tr>
-<td width="100%"><input type="TEXT" size="15" name="ticker" value="" maxlength="40">&nbsp;<input class="rightnav" type="button" name="submit" value="Go" onclick="ParseStockSymbol(form.ticker.value,form.layout[0].checked)">
+</tbody></table><br></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="6" width="100%" bgcolor="#cccccc" border="0">
+<tbody><tr>
+<td class="topnav" bgcolor="#333333">Sound Off</td></tr></tbody></table>
+<br>
+<table border="0" width="133" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+<tbody><tr><td bgcolor="#CCCCCC">
+<img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.wirelessweek.com/contents/images/Pixel.gif" width="8" height="1" alt="" border="0"></td>    
+<td class="rightnav" bgcolor="#CCCCCC">
+<form action="index.asp?publication=wireless&amp;webzine=wireless" method="post">
+      <span class="copy"><strong>Would you like to use your mobile phone to 
+purchase products?</strong>
+</span><br><br>
+      <span class="copy">
+<table>
+<tbody><tr>
+<td class="copy">
+<input type="Radio" name="answer" value="3429"> 
+</td>
+<td class="copy">
+Yes
 </td>
 </tr><tr>
-<td width="100%" class="stockcopy" align="left" valign="top"><input type="radio" name="layout" value="stocks" checked="">Ticker &nbsp;&nbsp;&nbsp;<input type="radio" name="layout" value="findsymbol">Find symbol</td>
-</tr>
-</tbody>
-</table><table cellspacing="0" cellpadding="0" width="151" border="0" bgcolor="#CCCCCC">
-<tbody><tr><td align="center" bgcolor="#CCCCCC"><br><iframe src="http://ad.doubleclick.net/adi/ww.rbi/;type=wirelessweeksky;pos=1;lay=inside_wireless;indid=1453;sz=120x600;ord=37543522012922880?" name="sky" width="120" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ww.rbi/;abr=!ie;type=wirelessweeksky;pos=1;lay=inside_wireless;indid=1453;sz=120x600;ord=37543522012922880?">
+<td class="copy">
+<input type="Radio" name="answer" value="3430"> 
+</td>
+<td class="copy">
+No
+</td>
+</tr><tr>
+<td class="copy">
+<input type="Radio" name="answer" value="3431"> 
+</td>
+<td class="copy">
+Undecided
+</td>
+</tr></tbody></table>
+<br>
+      <input type="Submit" name="submit" value="Submit Vote"><br>
+      <input type="hidden" name="eLogicCookies" value="true">
+<input type="hidden" name="cookie_wireless_wireless_poll" value="1097">
+<input type="hidden" name="expires_" value="7/2/2003 2:33:00 PM">
+      <br><a href="index.asp?layout=pollHistory" class="pollprevious">View Previous Polls</a>
+      
+    </span></form></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" width="151" border="0" bgcolor="#CCCCCC">
+<tbody><tr><td align="center" bgcolor="#CCCCCC"><br><iframe src="http://ad.doubleclick.net/adi/ww.rbi/;type=wirelessweeksky;pos=1;lay=inside_wireless;indid=1453;sz=120x600;ord=377993973128704?" name="sky" width="120" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ww.rbi/;abr=!ie;type=wirelessweeksky;pos=1;lay=inside_wireless;indid=1453;sz=120x600;ord=377993973128704?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/ww.rbi/;abr=!ie;type=wirelessweeksky;pos=1;lay=inside_wireless;indid=1453;sz=120x600;ord=37543522012922880?">
-<img src="http://ad.doubleclick.net/ad/ww.rbi/;abr=!ie;type=wirelessweeksky;pos=1;lay=inside_wireless;indid=1453;sz=120x600;ord=37543522012922880?" border=0 width="125" height="125"></A></noscript></iframe><br><br></td></tr></tbody></table> </td>
+<a href="http://ad.doubleclick.net/jump/ww.rbi/;abr=!ie;type=wirelessweeksky;pos=1;lay=inside_wireless;indid=1453;sz=120x600;ord=377993973128704?">
+<img src="http://ad.doubleclick.net/ad/ww.rbi/;abr=!ie;type=wirelessweeksky;pos=1;lay=inside_wireless;indid=1453;sz=120x600;ord=377993973128704?" border=0 width="125" height="125"></A></noscript></iframe><br><br></td></tr></tbody></table> </td>
 </tr>
 </tbody> 
 </table>
@@ -569,12 +820,12 @@ function DoNothing() {
 <table border="1" bordercolor="#ffffff" cellpadding="0" cellspacing="0" width="760">
 <tbody><tr><td align="center" bgcolor="#CCCC99" valign="middle"><a class="headsmall" href="index.asp">Wireless Home</a></td>
 <td align="center" bgcolor="#CCCC99" valign="middle"><a class="headsmall" href="index.asp?layout=inside_wireless&amp;industryid=1446&amp;industry=About+Us">About Us</a></td>
-<td align="center" bgcolor="#CCCC99" valign="middle"><a class="headsmall" href="index.asp?layout=inside_wireless&amp;industryid=1448&amp;industry=Advertise">Advertise</a></td>
+<td align="center" bgcolor="#CCCC99" valign="middle"><a class="headsmall" href="index.asp?layout=inside_wireless&amp;industryid=21346&amp;industry=Advertise&amp;doc_id=109020&amp;title=Advertising+Essentials">Advertise</a></td>
 <td align="center" bgcolor="#CCCC99" valign="middle"><a class="headsmall" href="index.asp?layout=inside_wireless&amp;industryid=1445&amp;industry=FAQ">FAQs</a></td>
 <td align="center" bgcolor="#CCCC99" valign="middle"><a class="headsmall" href="index.asp?layout=inside_wireless&amp;industryid=1447&amp;industry=Contact+Us">Contact Us</a></td>
 <td align="center" bgcolor="#CCCC99" valign="middle"><a class="headsmall" href="subscribe.asp?title=Register&amp;regopt=logout">
 Register</a><a class="headsmall" href="login.asp?title=Register&amp;regopt=logout">/Log In</a>
 </td></tr></tbody></table></td></tr>
-<tr><td align="center"><span class="footer"><!-- %copyright -->© 2002 <a class="headsmall" href="http://www.cahners.com/" target="_blank">Reed Business Information</a>, a division of <a class="headsmall" href="http://www.reed-elsevier.com/" target="_blank">Reed Elsevier Inc.</a>  All rights reserved.<br>Use of this Web site is subject to its <a class="headsmall" href="index.asp?layout=inside_wireless&amp;industryid=1454&amp;industry=Terms+and+Conditions+of+Use&amp;doc_id=71817&amp;title=Terms+and+Conditions+of+Use">Terms and Conditions of Use</a><br><a class="headsmall" href="index.asp?layout=inside_wireless&amp;industryid=1453&amp;industry=Privacy+Policy">Privacy Policy</a></span></td></tr></tbody></table>
+<tr><td align="center"><span class="footer"><!-- %copyright -->© 2003 <a class="headsmall" href="http://www.cahners.com/" target="_blank">Reed Business Information</a>, a division of <a class="headsmall" href="http://www.reed-elsevier.com/" target="_blank">Reed Elsevier Inc.</a>  All rights reserved.<br>Use of this Web site is subject to its <a class="headsmall" href="index.asp?layout=inside_wireless&amp;industryid=1454&amp;industry=Terms+and+Conditions+of+Use&amp;doc_id=71817&amp;title=Terms+and+Conditions+of+Use">Terms and Conditions of Use</a><br><a class="headsmall" href="index.asp?layout=inside_wireless&amp;industryid=1453&amp;industry=Privacy+Policy&amp;doc_id=107124&amp;title=Privacy+Policy">Privacy Policy</a></span></td></tr></tbody></table>
 <!-- End Footer Module --><!-- mfootstart -->
 </body></html>
