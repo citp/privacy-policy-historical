@@ -1,26 +1,29 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203012201id_/http%3A//www.consumerdepot.com/policynew.asp%3FPage%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604035353id_/http%3A//www.consumerdepot.com/policynew.asp%3FPage%3Dpriv) for the most accurate reproduction.*
 
 # Consumer depot Policies
 
 | CATEGORIES  
 ---  
 **SEARCH**  
-[Advanced Search](https://web.archive.org/web/20021203012201id_/http%3A//www.consumerdepot.com/advsearch.asp)  
+[Advanced Search](https://web.archive.org/web/20030604035353id_/http%3A//www.consumerdepot.com/advsearch.asp)  
 **LOGIN**  
 [ Login ](http://www.consumerdepot.com/login/logincust.asp)  
-[  My Account](https://web.archive.org/web/20021203012201id_/http%3A//www.consumerdepot.com/accountinfo.asp)  
+[  My Account](https://web.archive.org/web/20030604035353id_/http%3A//www.consumerdepot.com/accountinfo.asp)  
 **SHOPPING CART**  
 ---  
 You have 0 items in your  Shopping Cart  
 **INFORMATION**  
-[Terms & Conditions ](https://web.archive.org/web/20021203012201id_/http%3A//www.consumerdepot.com/policynew.asp?Page=dsclmr)  
-[Privacy Policy](https://web.archive.org/web/20021203012201id_/http%3A//www.consumerdepot.com/policynew.asp?Page=priv)  
-[Return Policy](https://web.archive.org/web/20021203012201id_/http%3A//www.consumerdepot.com/policynew.asp?Page=return)  
-[Directions & Maps](https://web.archive.org/web/20021203012201id_/http%3A//www.consumerdepot.com/map.asp)  
+[Terms & Conditions ](https://web.archive.org/web/20030604035353id_/http%3A//www.consumerdepot.com/policynew.asp?Page=dsclmr)  
+[Privacy Policy](https://web.archive.org/web/20030604035353id_/http%3A//www.consumerdepot.com/policynew.asp?Page=priv)  
+[Return Policy](https://web.archive.org/web/20030604035353id_/http%3A//www.consumerdepot.com/policynew.asp?Page=return)  
+[Directions & Maps](https://web.archive.org/web/20030604035353id_/http%3A//www.consumerdepot.com/map.asp)  
 [FAQ's](http://www.consumerdepot.com/faq.asp)  
   
 Office Hours:-   
-(CST)9AM-7PM (M-F)9AM-4PM (Sat.)  
+(CST)9AM-6PM (M-F)  
+  
+Clearance Center:-   
+(CST)10AM-7PM (M-F) 10AM-5PM Sat.  
   
   
 We accept all major Credit Cards  
@@ -42,8 +45,8 @@ If you receive e-mail from us that you would rather not receive, you may;
 3\. Write to us at the address set forth below. We will be happy to respect your request. We do not share e-mail names collected on our site. Providing us your e-mail address will not result in your receiving unsolicited commercial e-mail from any third party.  
 How to Contact Us   
 If you would like additional information regarding our Privacy Policy, please contact us as follows: Our postal address is: Consumer Depot, LLC.,  
-778 Rivergate Pkwy.   
-Goodlettsville, TN 37072
+3332 Powell Ave.   
+Nashville, TN 37204 
 
   * Our e-mail address for general information is [depot@consumerdepot.com ](mailto:depot@consumerdepot.com)
   * Our telephone number is 615-851-2125 
