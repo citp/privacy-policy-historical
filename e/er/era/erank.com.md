@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the erank.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211060329id_/http%3A//www.erank.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erank.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604045210id_/http%3A//erank.com/policy.htm) for the most accurate reproduction.*
 
 # eRank.com Privacy Policy
 
-## Privacy Statement for eRank.com Dating Music & Fashion Forums
+## Privacy Statement for eRank.com
 
-**eRank.com Dating Music & Fashion Forums **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [eRank.com](http://www.erank.com/)
+**eRank.com , LLC **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [eRank.com](http://www.erank.com/)
 
 #### Information Automatically Logged
 
@@ -60,5 +60,5 @@ We care about children and understand that they have special privacy needs. Ther
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](https://web.archive.org/web/20021211060329id_/http%3A//www.erank.com/feedback.htm).  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](https://web.archive.org/web/20030604045210id_/http%3A//erank.com/feedback.htm).  
 
