@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622044620id_/http%3A//www.jorgecruise.com/HTML/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610180034id_/http%3A//www.jorgecruise.com/privacy_policy.php) for the most accurate reproduction.*
 
-# JorgeCruise.com - Privacy Policy
-
-**Privacy Policy**
+# Jorge Cruise - Privacy Policy
 
 JorgeCruise.com has created this privacy policy to let you know why we collect information from you and what we do with it.
 
@@ -14,3 +12,6 @@ What do we do with the information that we collect?
 The information we collect from your membership helps us to improve our content, customize content of certain pages for you, and to send you updates about the site.
 
 Finally, the web site contains links to some other web sites. We cannot be responsible for the content of those sites or for the privacy of information that you may choose to share with them.
+
+  
+
