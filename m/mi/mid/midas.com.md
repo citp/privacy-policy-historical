@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midas.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402132949id_/http%3A//www.midas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midas.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010083907id_/http%3A//www.midas.com/privacy.html) for the most accurate reproduction.*
 
 # Midas is one of the world's largest providers of automotive maintenance services, including exhaust, oil changes, car brakes, tune ups, car steering, auto suspension, climate control and other car maintenance services
 
