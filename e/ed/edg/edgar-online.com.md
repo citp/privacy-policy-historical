@@ -1,27 +1,31 @@
-> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603233153id_/http%3A//www2.edgar-online.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205013015id_/http%3A//www.edgar-online.com/privacy.asp) for the most accurate reproduction.*
 
 # EDGAR Online: Privacy Statement
 
-## **_EDGAR Online_** Privacy Statement
+**PRIVACY POLICY**
 
-Protecting your privacy is important to us. We hope the following statement will help you understand how **_EDGAR Online_** collects, uses and safeguards the personal information you provide to us on our website. 
+**_EDGAR Online, Inc._** ("EOL") respects your right to privacy while using our web sites. Our privacy policy detailed below explains what information we may gather from your visit to our web sites and how such information may be used.
 
-**Information Collection**  
-When you browse the **_EDGAR Online_** website, you are required to complete a registration containing personal information, including your e-mail address, for purposes such as correspondence, making a purchase, or participating in online surveys. 
+**1\. COLLECTION AND USE OF INFORMATION.**
 
-Like many other commercial websites, the **_EDGAR Online_** website may utilize a standard technology called a "cookie" to collect information about how our site is used. 
+Before you utilize our information services, we ask you to complete a registration web page which requests certain contact information. We use this information to process your service requests as well as for additional purposes such as tailoring future requests and correspondence, to ensure proper billing, to ask that you participate in online surveys or to register you on a mailing list. Upon your request, EOL will remove your name from any mailing list through which you registered with us. 
 
-**Information Use**  
-If you provide us with your e-mail address, or have done so in the past, we may upon occasion send you e-mail offers. We may use information you have given us to, for example, provide a service, ensure proper billing, measure consumer interest in our various services and inform you about products and services. These offers may be based on information you provided in your initial transaction with us, in surveys, from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources, such as census bureau data. Primarily, these e-mail offers will come from **_EDGAR Online_**. We may also, upon occasion, share e-mail addresses with certain partners, or with other well-established companies so that they can send you product and service offers that may be of interest. 
+We may also send you information about our additional products and services and, on occasion, share your email address with our select partners so that they may send you relevant product and service offers as well. In addition, we may use your IP address in cooperation with your Internet service provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use agreement, protect our services or customers, or comply with law or regulation.
 
-**Children**  
-**_EDGAR Online_** does not knowingly solicit data from children, and we do not knowingly market to children. 
+**2\. PROTECTION OF INFORMATION.**
 
-**Third Party Advertising**
+Protecting your personal information is important to us. We will take all reasonable technical measures to prevent loss or unintended use of your information.
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site and other sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site and other sites. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
+**3\. LINKS TO OTHER SITES.**
 
-**Third Party Cookies**  
+Some of our web sites offer links to other web sites that may request and collect your personal contact information. Your use of and provision of such information to these sites is subject to the terms of use and privacy policies of such other sites. EOL is not responsible for the privacy policies and practices or content of such sites.
 
+**4\. USE OF COOKIES.**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. To view DoubleClick's Privacy Policy, [click here](http://www.doubleclick.net/us/corporate/privacy). 
+Cookies are pieces of information that a web site transfers to an individual's computer hard drive for identification purposes. This information may be used for customization the next time you visit our web sites. Your web browser may permit you to be notified when you are receiving a cookie, giving you the choice to accept it or not. By not accepting cookies, some pages of our web sites, which use cookies, may not fully function and you may not be able to access certain information on our web sites.
+
+**5\. MODIFICATION OF THIS POLICY:**
+
+EOL reserves the right, in its sole discretion, to modify, alter, or otherwise revise this Privacy Policy at any time without notice and you agree to be bound by such modifications, alterations, and revisions.
+
+Last posting: July 21, 2003 
