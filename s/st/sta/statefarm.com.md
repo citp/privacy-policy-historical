@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603130348id_/http%3A//www.statefarm.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205063242id_/http%3A//statefarm.com/about/privacy.htm) for the most accurate reproduction.*
 
-# statefarm.com™ | About Us
+# statefarm.com® | About Us
 
 **TRUSTe Privacy Program**  
 State Farm is a licensee of the **TRUSTe Privacy Program**. If you have questions or concerns regarding the site's privacy statement, you should first contact State Farm directly by calling us toll-free at 1-800-865-6035. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at [www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
@@ -108,13 +108,13 @@ State Farm Mutual Automobile Insurance Company, 2001
 Home Offices: Bloomington, IL 61710-0001   
 Ed. 4-1-01
 
-**statefarm.com** ™
+**statefarm.com®**
 
-As an Online Customer, State Farm wants you to know how we use the information you provide when you come to us through statefarm.com™
+As an Online Customer, State Farm wants you to know how we use the information you provide when you come to us through statefarm.com®
 
 We will collect information from our website only if you give it to us. We will only use the information you provide to facilitate your requests, process any transactions you might initiate, or update your account information. We understand the importance of protecting children’s privacy, especially in an Internet environment. It is our policy never to knowingly collect or maintain information from children by way of the Internet.
 
-Like most websites, Statefarm.com™ uses "cookies" (a small text file placed on the user’s hard drive) to facilitate site navigation, provide additional security, and allow you to customize your access to our website. We do not use "cookies" to collect information for distribution to third parties for any purpose. Nor do we use "cookies" to secure information from other websites you may visit.
+Like most websites, statefarm.com® uses "cookies" (a small text file placed on the user’s hard drive) to facilitate site navigation, provide additional security, and allow you to customize your access to our website. We do not use "cookies" to collect information for distribution to third parties for any purpose. Nor do we use "cookies" to secure information from other websites you may visit.
 
 There is information about your computer hardware and software that is automatically collected which can include: browser type, access times and Internet Protocol (IP) address. We use this information for the operation of our site, to maintain quality of service, and to provide general statistics regarding the use of our site. It is impossible to identify you from this information; we use this information for general reporting purposes only.
 
