@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forexforums.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628235039id_/http%3A//www.forexforums.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexforums.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216231202id_/http%3A//www.forexforums.com/info/privacy.php) for the most accurate reproduction.*
 
 # Forex Forums - Privacy Policy
 
-[FREE - Click Here To Join Now](https://web.archive.org/forums/register.php)  
+  
 
 
 Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
@@ -37,8 +37,8 @@ This site gives users the following options for changing and modifying informati
 
 Latest News and Discussions on Forex
 
- [Get your Free Membership](https://web.archive.org/forums/register.php)
+[Email this Page _to your friends_](http://www.forexforums.com/email.php?url=http%3A%2F%2Fwww.forexforums.com%2Finfo%2Fprivacy.php)
 
-[E-mail this Page](http://www.forexforums.com/email.php?url=http%3A%2F%2Fwww.forexforums.com%2Finfo%2Fprivacy.php%2F)  [Tell your Friends](http://www.forexforums.com/email.php?url=http://www.forexforums.com)  
-Add to Favorites  Set as Homepage   
+[Email this Site _to your friends_](http://www.forexforums.com/email.php?url=http://www.forexforums.com)
+
 [Contact Us, Suggestions, Feedback](https://web.archive.org/contact/)
