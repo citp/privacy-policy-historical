@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201100724id_/http%3A//www.scitrav.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607111832id_/http%3A//www.scitrav.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Science Traveller International
 
@@ -35,7 +35,7 @@ When purchasing or exchanging sensitive information on-line, security is a prima
 ---|---  
   
 **Security**  
-The security of your personal information is very important to us and we are committed to protecting any information we collect. STI uses firewalls and fraud protection, and has security measures in place at its physical facilities to protect against the loss, misuse, or alteration of information that collected from you at our web site. 
+The security of your personal information is very important to us and we are committed to protecting any information we collect. STI uses firewalls and fraud protection, and has security measures in place at its physical facilities to protect against the loss, misuse, or alteration of information collected from you at our web site. 
 
 **Contact for privacy inquiries**  
 If you have any questions about our website privacy or administration, please contact: 
@@ -45,15 +45,16 @@ If you have any questions about our website privacy or administration, please co
 **Science Traveller International, Inc**  
 Privacy Administrator  
 13029 37th Avenue South / P.O. Box 69007  
-Seattle, Washington 98188, USA  
-Email: [info@scitrav.com](mailto:info@scitrav.com)  
+Seattle, Washington 98168, USA  
+Email: [mail@scitrav.com](mailto:mail@scitrav.com)  
 |  **Science Traveller International Pty. Ltd.**  
 Privacy Administrator  
 125 Mollison Street / P.O. Box 107  
 Bendigo, VIC 3552, Australia  
-Email: [mail@scitrav.com](mailto:mail@scitrav.com)  
+Email: [mail@scitrav.com.au](mailto:mail@scitrav.com.au)  
   
 Don't forget to [visit our Contents Page](http://www.scitrav.com/) for news on other resources and downloads available at our web site.  
 [](http://www.scitrav.com/)  
-[ About Science Traveller International](http://www.scitrav.com/aboutsti.htm) [ Click here](mailto:info@scitrav.com) to email comments or enquiries    
+  
+[ About Science Traveller International](http://www.scitrav.com/aboutsti.htm)   
 
