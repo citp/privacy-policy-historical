@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610082315id_/http%3A//www.ipswitch.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206204329id_/http%3A//www.ipswitch.com/company/privacy.html) for the most accurate reproduction.*
 
 # Ipswitch - Privacy Policy
 
@@ -20,7 +20,7 @@ When you place an order, download an evaluation, join a discussion list, subscri
 
   * When you download an evaluation or a white paper, we may forward your contact information to a registered Ipswitch value-added reseller who may contact you. Other than for this purpose, we do not sell, trade, or rent your personal information to others.
   * If you contact us for technical support, we may invite you afterwards to let us know how we're doing by participating in an online survey.
-  * Users may opt-out of receiving future mailings; see the opt-out section below. 
+  * Users may opt-out of receiving future marketing mailings; see the opt-out section below.
 
 
 
@@ -38,13 +38,13 @@ We use "cookies" to help create a more effective and convenient site experience.
 
 **WHAT MEASURES ARE IN PLACE TO PROTECT CUSTOMER INFORMATION?**
 
-During ordering, Ipswitch uses VeriSign Digital Certificates for SSL Encryption.
+Our order process is encrypted using the SSL (Secure Socket Layer) protocol. For more information [click here](http://store.ipswitch.com/ccc/index.html?cccid=%5BDASID_3910%5D&publisherid=50384&languageid=1). 
 
 * * *
 
 **HOW DOES IPSWITCH USE MY E-MAIL ADDRESS AND CAN IOPT-OUT OF RECEIVING IPSWITCH E-MAIL MESSAGES?**
 
-_Downloading an evaluation or white paper:_ We ask for your e-mail address before downloading a free product evaluation. If at anytime you decide that you do not want to receive further messages from us, each e-mail will include a link to our [unsubscribe page](https://web.archive.org/remove.asp). Your contact information may be forwarded to an authorized Ipswitch reseller in your area, in which case you may need to follow-up with them. Unsubscribing will not interrupt any ongoing conversations you may be having with Ipswitch.
+_Download an evalaution:_ We ask for your e-mail address before downloading a free product evaluation. If at anytime you decide that you do not want to receive further marketing messages from us, each e-mail will include a link to our [unsubscribe page](https://web.archive.org/remove.asp). Your contact information may be forwarded to an authorized Ipswitch reseller in your area, in which case you may need to follow-up with them. Unsubscribing will not interrupt any ongoing conversations you may be having with Ipswitch.
 
 _Contacting us for technical or customer support:_ Your e-mail address will be used to respond to your query. In some cases, we may invite you to participate in an online survey to let us know how we are doing.
 
@@ -54,9 +54,12 @@ _Subscribing to a discussion list:_ When you sign up for a discussion list, your
 
 If you are using the same e-mail address for multiple items above, the e-mail usage information for 'downloading an evaluation' takes precedent over all other e-mail usage information.
 
-You may also remove yourself from our database by sending an e-mail to [remove@ipswitch.com](mailto:remove@ipswitch.com) from the e-mail address you would like to unsubscribe from.
+You may also remove yourself from our marketing list by sending an e-mail to [remove@ipswitch.com](mailto:remove@ipswitch.com) from the e-mail address you would like to unsubscribe from
 
-Please note: If you opt-out or unsubscribe, you will not receive notifications about bug fixes or new product releases. It will be up to you to check the Ipswitch Web Site for this information.
+If you opt out or unsubscribe, we may, in compliance with the United States CAN SPAM Act of 2003, run our suppression list (addresses not to be emailed) against another list of names for an Ipswitch mailing or provide our suppression list to a third party for such verification.
+
+When you opt-out or unsubscribe, you are doing so from our marketing  
+messages. Ipswitch may continue to send you transactional messages relevant to our business relationship. Transactional messages include information on product updates and upgrades, Service Agreement and subscription expirations and renewals, responses to inquiries, surveys and other information related to the product you downloaded or purchased.
 
 **CAN I CHANGE/MODIFY MY CONTACT INFO?**
 
@@ -80,17 +83,15 @@ By using our site, you agree to this Policy. This is our entire and exclusive Pr
 
 **LEGAL**
 
-This site operates as-is and as available. Any warranties of accuracy, quality, title, fitness or merchantability are disclaimed. We are not liable for direct, indirect, incidental or consequential damages, or for events beyond our direct control.
+This site operates as-is and as available. Any warranties of accuracy, quality, title, fitness or merchantability are disclaimed. We are not liable for direct, indirect, incidental or consequential damages, or for events beyond our direct control. By using our site, you agree to this Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We may change it by posting a new version on our site.
 
 Massachusetts law governs this Policy, excluding conflicts of law principles. Any provision of this Policy that is illegal or unenforceable shall be deemed automatically conformed to the minimum requirements of law. Any legal actions against us must be commenced in Massachusetts within one year after the claim arose, or be barred.
 
 **CONTACTING IPSWITCH**
 
-If you have any questions about this privacy statement, please contact:
+If you have any questions about this privacy statement, please contact us:
 
-Webmaster  
 Ipswitch, Inc.  
 10 Maguire Road - Suite 220  
 Lexington, MA 02421   
-[webmaster@ipswitch.com](mailto:webmaster@ipswitch.com)  
- 
+781-676-5700 
