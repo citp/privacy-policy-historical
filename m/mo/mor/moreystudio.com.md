@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moreystudio.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603010102id_/http%3A//www.moreystudio.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreystudio.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208061223id_/http%3A//moreystudio.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Morey Studio - Privacy Policy
 
