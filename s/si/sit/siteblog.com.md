@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteblog.com privacy policy that was archived on 2003-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030418162021id_/http%3A//sitemeter.com/default.asp%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteblog.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606015445id_/http%3A//www.sitemeter.com/default.asp%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Site Meter - Counter and Statistics Tracker
 
@@ -25,4 +25,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 This site gives users the ability to modify member information previously provided. Visit <http://www.sitemeter.com/> to change this information.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [here](https://web.archive.org/web/20030418162021id_/http%3A//sitemeter.com/default.asp?action=contact). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [here](https://web.archive.org/web/20040606015445id_/http%3A//www.sitemeter.com/default.asp?action=contact). 
