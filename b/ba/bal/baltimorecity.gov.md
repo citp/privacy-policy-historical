@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408023721id_/http%3A//baltimorecity.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207083331id_/http%3A//www.baltimorecity.gov/privacy.html) for the most accurate reproduction.*
 
 # BaltimoreCity.gov: Privacy Statement
 
@@ -30,7 +30,7 @@ The City of Baltimore will not sell, rent or lease your personally identifiable 
 
 #### Access 
 
-Links to third party Web sites on the site are provided solely as a convenience to you. If you use these links, you will leave the the City of Mesquite site. The City of Mesquite has not reviewed all of these third party sites and does not control or is not responsible for any of these sites, their content or their privacy policy. Thus, the City of Mesquite does not endorse or make any representations about them, or any information, software or products or materials found there. If you decide to access any of the third party sites linked to this site, you do so at your own risk. 
+Links to third party Web sites on the site are provided solely as a convenience to you. If you use these links, you will leave the the City of Baltimore site. The City of Baltimore has not reviewed all of these third party sites and does not control or is not responsible for any of these sites, their content or their privacy policy. Thus, the City of Baltimore does not endorse or make any representations about them, or any information, software or products or materials found there. If you decide to access any of the third party sites linked to this site, you do so at your own risk. 
 
 #### Security 
 
@@ -42,4 +42,4 @@ Furthermore, this site takes reasonable measures to maintain the confidentiality
 
 If you have comments or questions about our privacy policy, please e-mail the site's administrator at [webmaster@baltimorecity.gov](mailto:webmaster@baltimorecity.gov).
 
-[Home Page](https://web.archive.org/web/20030408023721id_/http%3A//baltimorecity.gov/news/index.html) • [Terms of Use](https://web.archive.org/web/20030408023721id_/http%3A//baltimorecity.gov/policy.html)
+[Home Page](https://web.archive.org/web/20031207083331id_/http%3A//www.baltimorecity.gov/news/index.html) • [Terms of Use](https://web.archive.org/web/20031207083331id_/http%3A//www.baltimorecity.gov/policy.html)
