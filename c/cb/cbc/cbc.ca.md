@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbc.ca privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623082048id_/http%3A//www.cbc.ca/aboutcbc/discover/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbc.ca privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207023029id_/http%3A//www.cbc.ca/aboutcbc/discover/privacy.html) for the most accurate reproduction.*
 
 # CBC.ca - Privacy
 
@@ -7,13 +7,18 @@ The CBC Privacy Coordinator is accountable for the CBC’s policies and practice
 
 [Edith Cody-Rice](mailto:edith_cody-rice@cbc.ca)  
 Privacy Coordinator   
-Canadian Broadcasting Corporation   
-250 Lanark Ave.   
+Canadian Broadcasting Corporation  
+181 Queen Street,   
 Ottawa, Ontario   
-K1Y 1E4 
+K1P 1K9 
 
-Tel. (613) 724-5353   
-Fax (613) 724-5453 
+**Mailing Address**  
+CBC Head Office   
+P.O. Box 3220, Station C   
+Ottawa, Ontario K1Y 1E4 
+
+Tel. (613) 288-6164   
+Fax (613) 288-6279 
 
 ^ Top  
 
