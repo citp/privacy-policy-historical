@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.oh.us privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203222600id_/http%3A//www.state.oh.us/ohio/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.oh.us privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606143214id_/http%3A//www.state.oh.us/ohio/privacy.htm) for the most accurate reproduction.*
 
 # Ohio Privacy Policy
 
@@ -6,7 +6,7 @@ _**Ohio Server Project
 Internet Privacy Statement**_
 
   
-The Ohio Server Project, a service provided by the Department of Administrative Services (DAS), recognizes the importance of privacy to our Web site visitors. We collect personal information from our Web site visitors only when information is provided voluntarily.[](http://www.gsa.ohio.gov/GSA/ods/pur/bidbul/bullet2.HTML) **What Information is Collected and How it is Used**
+The Ohio Server Project, a service provided by the Department of Administrative Services (DAS), recognizes the importance of privacy to our Web site visitors. We collect personal information from our Web site visitors only when information is provided voluntarily. **What Information is Collected and How it is Used**
 
 **Usage Statistics.** In order to generate usage statistics to help us improve our Web site, we automatically collect information on every visit without identifying the visitor. The following information is compiled to produce Web usage statistics and is destroyed after three months:
 
@@ -19,25 +19,24 @@ The Ohio Server Project, a service provided by the Department of Administrative 
   
 **Web Cookies.** The use of Web cookies is discouraged on our Web sites. Temporary cookies, however, may be used when necessary to complete a transaction. If a persistent Web cookie is required, the Web page discloses to visitors that a persistent cookie is being used. _Information collected on our Web sites including information from persistent Web cookies is generally subject to Ohio Public Records Law except as otherwise provided by Ohio or federal law._  
   
-**Online Forms and E-mail.** We only collect personal information when necessary to provide a service to the public or state agencies. Any personal information voluntarily provided by visitors, including personal information from online forms and e-mail, will be used for the purpose stated on the web page on which it was collected and may be shared with our staff and other state agencies to respond to or process the e-mail or online form. In addition, information may also be shared with our staff and other agencies as required by law or pursuant to agency authority. _Information collected on our Web site and e-mail sent to us is generally subject to Ohio Public Records Law except as otherwise provided by Ohio or federal law._[](http://www.gsa.ohio.gov/GSA/ods/pur/bidbul/bullet2.HTML) **Choices Available to Visitors Regarding Collection, Use and Distribution of Information**
+**Online Forms and E-mail.** We only collect personal information when necessary to provide a service to the public or state agencies. Any personal information voluntarily provided by visitors, including personal information from online forms and e-mail, will be used for the purpose stated on the web page on which it was collected and may be shared with our staff and other state agencies to respond to or process the e-mail or online form. In addition, information may also be shared with our staff and other agencies as required by law or pursuant to agency authority. _Information collected on our Web site and e-mail sent to us is generally subject to Ohio Public Records Law except as otherwise provided by Ohio or federal law._ **Choices Available to Visitors Regarding Collection, Use and Distribution of Information**
 
 Visitors will only receive information from us in response to a request. There may be instances where we send ongoing updates or announcements to interested parties. In such cases, visitors will have the choice whether or not to receive these updates or announcements.
 
-[](http://www.gsa.ohio.gov/GSA/ods/pur/bidbul/bullet2.HTML) **Security Measures to Protect Information Under Our Control**
+ **Security Measures to Protect Information Under Our Control**
 
 We take very seriously the integrity of the information and systems that we maintain. As such, we have instituted security measures for all information systems under our control so that information will not be lost, misused or altered.
 
 For site security purposes and to ensure that our Internet services remain available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. In the event of authorized law enforcement investigations and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
-[](http://www.gsa.ohio.gov/GSA/ods/pur/bidbul/bullet2.HTML) **Contact**
+ **Contact**
 
 If you would like information on how to review or correct your information, contact:
 
 Ohio Server Project Manager  
 Department of Administrative Services  
-30 E. Broad St., 40th Floor  
-Columbus, OH 43215  
-614-728-5623  
-[betsey.lane@das.state.oh.us](mailto:betsey.lane@das.state.oh.us)
+1320 Arthur Adams Drive  
+Columbus, OH 43221  
+[Webmaster@das.state.oh.us](mailto:webmaster@das.state.oh.us)
 
-[DAS Homepage](http://www.state.oh.us/das/)[](http://www.connectohio.com/development/)
+[DAS Homepage](http://www.state.oh.us/das/)
