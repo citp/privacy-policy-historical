@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttu.edu privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603100835id_/http%3A//www.ttu.edu/privpolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttu.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032621id_/http%3A//www.ttu.edu/privpolicy.php) for the most accurate reproduction.*
 
 # TTU Privacy Policy
 
