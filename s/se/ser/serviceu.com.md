@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serviceu.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604184007id_/http%3A//serviceu.com/Policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serviceu.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209002253id_/http%3A//www.serviceu.com/Policies/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 **   
 It is the policy of ServiceU Corporation (hereinafter "ServiceU") to protect your personal privacy. Because your use of the ServiceU Site indicates your acceptance of the ServiceU Privacy Policy, please review this Privacy Policy carefully. ServiceU may change this Privacy Policy at any time by posting revisions to the ServiceU Site. This Privacy Policy shall be applicable to any person or entity that directly or indirectly uses the Site or the Services ("Users").
 
-Terms defined in the [Terms of Use](https://web.archive.org/web/20020604184007id_/http%3A//serviceu.com/Policies/use.htm) shall have the same meaning in this Privacy Policy.
+Terms defined in the [Terms of Use](https://web.archive.org/web/20021209002253id_/http%3A//www.serviceu.com/Policies/use.htm) shall have the same meaning in this Privacy Policy.
 
 **INFORMATION COLLECTION AND USE  
 **   
