@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604000019id_/http%3A//www.passkey.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209001746id_/http%3A//www.passkey.com/privacy.shtml) for the most accurate reproduction.*
 
 # Passkey
 
@@ -6,7 +6,7 @@
 |   
   | 
 
-Passkey.com is a site operated by Passkey.com, Inc. ("Passkey") to provide information about our company and the many products and services we offer. You will find corporate news and information on our products and services, investors and partners, training and support, career opportunities, and pertinent information for the Press. 
+Passkey.com is a site operated by Passkey International, Inc. ("Passkey") to provide information about our company and the many products and services we offer. You will find corporate news and information on our products and services, investors and partners, training and support, career opportunities, and pertinent information for the Press. 
 
 Passkey respects the importance of protecting the personal information you provide to us through the use of various Passkey products and services we offer. We promise to use discretion concerning the handling of the personal information you provide directly to us. We will strive to disclose all relevant information regarding the collection, processing and use of your personal data in a clear and concise manner. Passkey will not sell or give the personal information you provide through the use of any Passkey product or service to any unaffiliated party other than those involved in providing the requested service without your permission, except when required by law or when data is requested by government or law enforcement authorities, or in the unlikely event of a sale of the business or transfer of assets. If Passkey engages a third party to process your data on its behalf, that third party will be bound by Passkey's data privacy policies. Non-personal data may be used to compile and analyze travel trends and/or other demographic information. Security of your personal data is also important, and Passkey utilizes secure technology measures to ensure your data is completely protected. 
 
@@ -26,7 +26,7 @@ GroupLink™
 RegLink™  
 _Passkey-enabled_ (SM) 
 
-Passkey is located at 180 Old Colony Avenue, Quincy, MA 02170. For questions or comments regarding this Privacy Statement, please [click here](https://web.archive.org/web/20020604000019id_/http%3A//www.passkey.com/contactus.shtml). 
+Passkey is located at 180 Old Colony Avenue, Quincy, MA 02170. For questions or comments regarding this Privacy Statement, please [click here](https://web.archive.org/web/20021209001746id_/http%3A//www.passkey.com/contactus.shtml). 
 
 ##  Tracking Traffic
 
