@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202202958id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402083839id_/http%3A//christianguitar.org/privacy.php) for the most accurate reproduction.*
 
 # Christian Guitar Resources - Privacy Statement
 
@@ -16,7 +16,7 @@ We use DoubleClick, FastClick and other third-party advertising companies to ser
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 **Personal Information**  
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
+This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
 **External Links**  
 This site contains links to other sites. [Christian Guitar Resources](http://www.christianguitar.org/) is not responsible for the privacy practices or the content of such Web sites.
