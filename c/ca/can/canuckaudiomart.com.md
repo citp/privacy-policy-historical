@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611205550id_/http%3A//www.canuckaudiomart.com/cgi-bin/classifieds/classifieds.cgi%3Fprint_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004035200id_/http%3A//www.canuckaudiomart.com/cgi-bin/classifieds/classifieds.cgi%3Fprint_privacy_page%3Don) for the most accurate reproduction.*
 
 # Canuck Audio Mart Privacy Statement
 
@@ -134,11 +134,12 @@ Back to Top
 
 **Click on our sponsor's banner below please**  
   
-  
 
 
 * * *
 
+  
+  
 **[Terms of Use](http://www.canuckaudiomart.com/cgi-bin/classifieds/classifieds.cgi?print_terms_page=on) | [Privacy Statement](http://www.canuckaudiomart.com/cgi-bin/classifieds/classifieds.cgi?print_privacy_page=on)  
 _Content copyright © 2000 - 2002[Abstract Solutions](http://www.canuckaudiomart.com/). All rights reserved.  
 Please send your questions, comments, or bug reports to the [Webmaster](mailto:webmaster@canuckaudiomart.com)._**   
