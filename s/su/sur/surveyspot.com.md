@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209090549id_/http%3A//www.surveyspot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622092045id_/http%3A//www.surveyspot.com/privacy.htm) for the most accurate reproduction.*
 
 # SurveySpot: Win cash and prizes for your opinions!
 
