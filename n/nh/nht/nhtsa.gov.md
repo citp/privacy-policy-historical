@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207065149id_/http%3A//nhtsa.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628153127id_/http%3A//www.nhtsa.gov/Privacy.html) for the most accurate reproduction.*
 
 # DOT Privacy Notice
 
