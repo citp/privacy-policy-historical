@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the gametz.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603062716id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gametz.com privacy policy that was archived on 2001-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011019195146id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <style>
+    IMG.avatar { margin-top: 0.05in; margin-right: 0.05in; }
     H1 {font-size: 200%; }
     HR { color: #7C9CAC; }
     A:Hover { color:#660066; }
@@ -25,21 +26,26 @@
 </style>
 
 <script language="JavaScript">
-<!-- 
-// by Nannette Thacker
-// http://www.shiningstar.net
-// This script checks and unchecks boxes on a form
-// Checks and unchecks unlimited number in the group...
-// Pass the Checkbox group name...
-// call buttons as so:
-// <input type=button name="CheckAll"   value="Check All"
-    //onClick="checkAll(document.myform.list)">
-// <input type=button name="UnCheckAll" value="Uncheck All"
-    //onClick="uncheckAll(document.myform.list)">
-// -->
-
 <!-- Begin
 function checkAll(field)
+{
+    if (field.length) {
+        for (i = 0; i < field.length; i++) {
+            if (field[i].checked) {
+                field[i].checked = false;
+            } else {
+                field[i].checked = true ;
+            }
+        }
+    } else {
+        if (field.checked) 
+            field.checked = false;
+        else
+            field.checked = true;
+    }
+}
+
+function fcheckAll(field)
 {
     for (i = 0; i < field.length; i++)
 	field[i].checked = true ;
@@ -52,7 +58,48 @@ function uncheckAll(field)
 }
 //  End -->
 </script>
-
+<!-- BEGIN RICH-MEDIA BURST! CODE --> 
+<script language="JavaScript"> 
+<!-- /* © 1997-2001 BURST! Media, LLC. All Rights Reserved.*/ 
+    function ShowBurstAd(adcode, width, height) {
+	var bN = navigator.appName;
+	var bV = parseInt(navigator.appVersion);   
+	var base='http://www.burstnet.com/';   
+	var Tv='';   
+	var agt=navigator.userAgent.toLowerCase();   
+ if (bV>=4)  
+ {ts=window.location.pathname+window.location.search;
+  i=0; Tv=0; while (i< ts.length)
+  { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;}
+	else   {Tv=escape(window.location.pathname);
+		if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
+    else if (Tv.charAt(1)=="/")
+	Tv="";     
+ if( Tv.charAt(Tv.length-1) == "/")
+     Tv = Tv + "_";}   
+	if (bN=='Netscape'){        
+  if ((bV>=4)&&(agt.indexOf("mac")==-1))  
+  { document.write('<s'+'cript src="'+ 
+  base+'cgi-bin/ads/'+adcode+'.cgi/RETURN-CODE/JS' 
+		   +Tv+'">'); 
+    document.write('</'+'script>');
+}
+  else if (bV>=3) {document.write('<'+'a href="'+base+'ads/' + 
+				  adcode + '-map.cgi'+Tv+'"target=_top>');
+  document.write('<img src="' + base + 'cgi-bin/ads/' +
+  adcode + '.cgi' + Tv + '" width="' + width + '" height="' + height + '"' +
+		 ' border="0" alt="Click Here"></a>');}   
+}
+if (bN=='Microsoft Internet Explorer')    
+document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'  
++     
+adcode + '.cgi' + Tv + '/RETURN-CODE" width="' + width + '" height="' + height + '"' +     
+'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' +     
+	       'frameborder="0" scrolling="no"></ifr'+'ame>');  
+    }
+//-->
+</script>
+<!-- END BURST CODE -->
 <title>Game Trading Zone  - Privacy </title>
 <link rev="MADE" href="mailto:bill%40gametz.com">
 <meta name="keywords" content="used, computer, games, pc, psx, n64, trading, free, ugtz, traders, cd-rom, grim, fandango, baldurs, gate, starcraft, fallout, sanitarium, half-life, grand, theft, auto, unreal, rainbox, six, diablo">
@@ -68,9 +115,20 @@ function uncheckAll(field)
 <td class="tabs" align="CENTER" valign="BOTTOM" bgcolor="#9C3A2C"> <a target="_top" class="bnav" title="Switch to Book Trading" href="http://booktz.com/?x=x"> Books </a> </td>
 </tr></tbody></table>
 </td><td align="RIGHT" valign="TOP"><a target="_top" title="Sign On to This Site" href="/?x=x&amp;A=SignOn">Sign On</a><br><a target="_top" title="Create an Account Here" href="/?x=x&amp;A=Create">Create Account</a></td></tr></tbody></table>
-<table width="100%"><tbody><tr><td align="LEFT" class="bnav" bgcolor="#7C9CAC" nowrap=""> &nbsp; <a class="bnav" target="_top" title="Click Here for Home" href="/Welcome.html">Home </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Games" href="/Games.html">Games </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Users" href="/Users.html">Users </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Trades" href="/Trades.html">Trades </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Forums" href="/Forums.html">Forums </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for T-Shirts" href="/TShirts.html">T-Shirts </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Rules" href="/Rules.html">Rules </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Subscribe" href="/Subscribe.html">Subscribe </a> &nbsp;  &nbsp; <a class="bnavemph" target="_top" title="Click Here for Help" href="/About.html">Help </a> &nbsp; </td></tr></tbody></table>
+<table width="100%"><tbody><tr><td align="LEFT" class="bnav" bgcolor="#7C9CAC" nowrap=""> &nbsp; <a class="bnav" target="_top" title="Click Here for Home" href="/Welcome.html">Home </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Games" href="/Games.html">Games </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Users" href="/Users.html">Users </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Trades" href="/Trades.html">Trades </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Forums" href="/Forums.html">Forums </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Rules" href="/Rules.html">Rules </a> &nbsp;  &nbsp; <a class="bnav" target="_top" title="Click Here for Subscribe" href="/Subscribe.html">Subscribe </a> &nbsp;  &nbsp; <a class="bnavemph" target="_top" title="Click Here for Help" href="/About.html">Help </a> &nbsp; </td></tr></tbody></table>
 <center>
-<table><tbody><tr bgcolor="#EEEEEE"><td><small>A<br>D<br></small></td><td align="CENTER"><script src="http://www.burstnet.com/cgi-bin/ads/ad5418a.cgi/RETURN-CODE/JS/18204"></script></td></tr></tbody></table>
+<table><tbody><tr bgcolor="#EEEEEE"><td><small>A<br>D<br></small></td><td align="CENTER"><!-- BEGIN RICH-MEDIA BURST! CODE --> 
+<script language="JavaScript">
+<!--
+    ShowBurstAd('ad5418a','468','60');
+// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ad5418a.cgi/RETURN-CODE/JS/4443"></script>
+<noscript><a href="http://www.burstnet.com/ads/ad5418a-
+map.cgi/ns" target="_top"><img src="http://www.burstnet.com/cgi-
+bin/ads/ad5418a.cgi/ns" width="468" height="60" 
+border="0" alt="Click Here"></a> 
+</noscript>
+<!-- END BURST CODE -->
+</td></tr><tr><td colspan="2" align="CENTER"><a href="/Subscribe.html">Lose the ads (including pop-ups) - Subscribe to gametz.com.</a></td></tr></tbody></table>
 </center>
 <table width="100%"><tbody><tr><td align="CENTER" valign="TOP" class="sans"><form method="POST" action="/" enctype="application/x-www-form-urlencoded" name="gsearch" target="_top">
 Search: <select name="A">
@@ -80,7 +138,7 @@ Search: <select name="A">
 </option><option value="Books">Books
 </option></select>
 <input type="text" name="item" size="10"><input type="hidden" name="S" value="-1"><input type="submit" name="Go" value="Go"></form></td><td class="sans" align="CENTER" valign="TOP"><form method="POST" action="/" enctype="application/x-www-form-urlencoded" name="usearch" target="_top">
-<a href="/Users.html">User</a>: <input type="text" name="any" size="10"><input type="hidden" name="A" value="Users"><input type="hidden" name="S" value="-1"><input type="submit" name="Go" value="Go"></form></td></tr></tbody></table><table><tbody><tr><td align="LEFT" class="bnav" bgcolor="#7C9CAC">  &nbsp; &nbsp; <a class="bnav" title="Click Here to Get a Brief Page About this Site" target="_top" href="/About.html">About</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to View the Getting Started Guide for This Site" target="_top" href="/GettingStarted.html">Getting Started</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to View the Rules for This Site" target="_top" href="/Rules.html">Rules</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to Learn about Subscribing to the TZ Sites" target="_top" href="/Subscribe.html">Subscribe</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to Read Some Trading Tips" target="_top" href="/Tips.html">Tips</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to Read the Frequently Asked Questions for This Site" target="_top" href="/FAQ.html">FAQ</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to See a List of Icons You Can Use to Express Emotion" target="_top" href="/Emoticons.html">Emoticons</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to See Definitions for Conditions" target="_top" href="/Conditions.html">Conditions</a> &nbsp; &nbsp; <a class="bnavemph" title="Click Here to View This Site's Privacy Policy" target="_top" href="/Privacy.html">Privacy</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to Find Out How You Can Advertise on This Site" target="_top" href="/Advertising.html">Advertising</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to See Some Statistics on This Site" target="_top" href="/Statistics.html">Statistics</a> &nbsp; &nbsp; </td></tr></tbody></table>
+<a href="/Users.html">User</a>: <input type="text" name="any" size="10"><input type="hidden" name="A" value="Users"><input type="hidden" name="S" value="-1"><input type="submit" name="Go" value="Go"></form></td></tr></tbody></table><table><tbody><tr><td align="LEFT" class="bnav" bgcolor="#7C9CAC">  &nbsp; &nbsp; <a class="bnav" title="Click Here to Get a Brief Page About this Site" target="_top" href="/About.html">About</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to View the Getting Started Guide for This Site" target="_top" href="/GettingStarted.html">Getting Started</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to View the Rules for This Site" target="_top" href="/Rules.html">Rules</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to Learn about Subscribing to the TZ Sites" target="_top" href="/Subscribe.html">Subscribe</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to Read Some Trading Tips" target="_top" href="/Tips.html">Tips</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to Read the Frequently Asked Questions for This Site" target="_top" href="/FAQ.html">FAQ</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to See a List of Icons You Can Use to Express Emotion" target="_top" href="/Emoticons.html">Emoticons</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to See Definitions for Conditions" target="_top" href="/Conditions.html">Conditions</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to Read aout the Moderation System" target="_top" href="/Moderation.html">Moderation</a> &nbsp; &nbsp; <a class="bnavemph" title="Click Here to View This Site's Privacy Policy" target="_top" href="/Privacy.html">Privacy</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to Find Out How You Can Advertise on This Site" target="_top" href="/Advertising.html">Advertising</a> &nbsp; &nbsp; <a class="bnav" title="Click Here to See Some Statistics on This Site" target="_top" href="/Statistics.html">Statistics</a> &nbsp; &nbsp; </td></tr></tbody></table>
 <h3>Privacy Statement for Game Trading Zone</h3>
 
 Game Trading Zone has created this privacy statement in order to 
@@ -167,6 +225,16 @@ this site, or your dealings with this Web site, you can contact
 <address>bill@gametz.com</address>
 
 <p></p><center><center>
-<table><tbody><tr bgcolor="#EEEEEE"><td><small>A<br>D<br></small></td><td align="CENTER"><a target="_blank" href="http://www.chipsbits.com/cgi-bin/order.cbi_home?source=82276&amp;newpage=infopages/ROGUSPUOEP.IR.html"><img src="http://www.chipsbits.com/online-stores/cbi_store/affiliate_graphics/roguspuoep_ir_468.gif" height="60" width="468" border="0"></a></td></tr></tbody></table>
+<table><tbody><tr bgcolor="#EEEEEE"><td><small>A<br>D<br></small></td><td align="CENTER"><!-- BEGIN RICH-MEDIA BURST! CODE --> 
+<script language="JavaScript">
+<!--
+    ShowBurstAd('ba5418a','468','60');
+// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ba5418a.cgi/RETURN-CODE/JS/4443"></script>
+<noscript><a href="http://www.burstnet.com/ads/ba5418a-map.cgi/ns" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ba5418a.cgi/ns" 
+width="468" height="60" border="0" alt="Click Here"></a> 
+</noscript>
+<!-- END BURST CODE -->
+</td></tr><tr><td colspan="2" align="CENTER"><a href="/Subscribe.html">Lose the ads (including pop-ups) - Subscribe to gametz.com.</a></td></tr></tbody></table>
 </center>
 <p><font size="-1"><br>Copyright © 2000 William Marrs. All rights reserved.<br><a target="_top" href="http://38.148.250.3/cgi-win/client.exe?readers,welcome,ad5418a,2000">Take our Poll</a> - <a target="_top" href="/Privacy.html">Privacy Statement</a> - <a target="_top" href="/Advertising.html">Advertising</a> - <a target="_top" href="/Subscribe.html">Subscribe</a></font></p></center></body></html>
