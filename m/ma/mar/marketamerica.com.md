@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602195741id_/http%3A//marketamerica.com/maIndex.cfm%3FmaAction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204163905id_/http%3A//www.marketamerica.com/maIndex.cfm%3FmaAction%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Market America :: America's Most Powerful Business Opportunity
 
