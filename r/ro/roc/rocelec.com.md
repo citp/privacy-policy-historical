@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocelec.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616124154id_/http%3A//www.rocelec.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocelec.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219002438id_/http%3A//rocelec.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -44,6 +44,6 @@ All updates to this policy will be posted here. Last Updated Tuesday, January 02
 
 **Questions?**
 
-Please send any questions or comments on our privacy practices to [WebMaster@rocelec.com](mailto:rgibbons@rocelec.com). 
+Please send any questions or comments on our privacy practices to [WebMaster@rocelec.com](mailto:webreg@rocelec.com). 
 
-Rochester Electronics, Inc. is committed to user privacy in our products and services. Read Rochester Electronics, Inc.'s [ Privacy Principles.](https://web.archive.org/web/20010616124154id_/http%3A//www.rocelec.com/principles.cfm)
+Rochester Electronics, Inc. is committed to user privacy in our products and services. Read Rochester Electronics, Inc.'s [ Privacy Principles.](https://web.archive.org/web/20011219002438id_/http%3A//rocelec.com/principles.cfm)
