@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the gay.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008135125id_/http%3A//www.gay.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gay.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628034300id_/http%3A//www.gay.com/help/privacy.html) for the most accurate reproduction.*
 
 # Gay.com Help
 
-  | **Gay.com Privacy Policy**
+**Gay.com Help**
+
+**Privacy Policy**
+
+The Gay.com Privacy Policy may be found below. Your use of the Gay.com Site and services constitutes your acceptance of the terms and conditions of the Gay.com Privacy Policy, of our recently updated [User Agreement](https://web.archive.org/web/20040628034300id_/http%3A//www.gay.com/help/useragreement.html) and of the Gay.com [Community Guidelines](https://web.archive.org/web/20040628034300id_/http%3A//www.gay.com/help/community_guidelines.html). You are responsible for reviewing and becoming familiar with all of these terms. 
+
+**Gay.com Privacy Policy**
 
 PlanetOut Partners USA, Inc. has created this privacy policy because we value our members and recognize their right to keep personal information private. This statement discloses our information gathering and dissemination practices for the World Wide Web site located at www.gay.com (the "Gay.com Site"). We believe very strongly that private information should remain private. We'd like to hear your feedback about this statement. If you have comments or questions, please e-mail us by clicking [here](mailto:privacy@gay.com). 
 
@@ -75,4 +81,4 @@ Gay.com gives users the following options for changing or modifying information 
 Gay.com uses a reputable third party to serve some of the advertisements you see on the pages of the Gay.com Site. We use clear GIFs, or pixel tags, provided by our ad serving company to help manage our advertising. These clear GIFs allow our ad serving company to recognize a browser's cookie when the browser visits the Gay.com Site. This allows us to learn which banner ads bring users to our site. The information we collect and share through this technology is not linked to any information that would allow our ad server to personally identify our users. For more information about our ad serving company or for your choices about not having this anonymous information used, please click [here](http://www.privacychoices.org/). 
 
 **CHANGE POLICY**  
-From time to time we may revise this privacy notice. If we make a material change, we will post a notice on the Gay.com Web site or notify you by e-mail, at which time you'll be able to "opt out" of these new practices by contacting us (using the contact information above).
+From time to time we may revise this privacy notice. If we make a material change, we will post a notice on the Gay.com Web site or notify you by e-mail, at which time you'll be able to "opt out" of these new practices by contacting us (using the contact information above). 
