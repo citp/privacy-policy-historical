@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbsil.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008160933id_/http%3A//www.bcbsil.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbsil.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604201054id_/http%3A//www.bcbsil.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to the Blue Cross Blue Shield of Illinois
 
