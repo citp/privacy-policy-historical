@@ -1,23 +1,31 @@
-> *The following text is extracted and transformed from the legacytexas.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603092037id_/http%3A//www.legacytexas.com/disclosure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacytexas.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004034216id_/http%3A//legacytexas.com/disclosure.asp) for the most accurate reproduction.*
 
 # Legacy Bank - Privacy Statement
 
-**Legacy Bank of Texas - Privacy Statement**
+**Legacy Bank of Texas  
+Privacy Information**
 
-Your money has to work harder for you than ever before. Fortunately, your relationship with Legacy Bank gives you a financial partner that is able to offer you innovative products and personal attention that go beyond banking. These services are available to you because we are able to share information about you among Legacy Bank affiliates, subsidiaries and third-party associated businesses. _ **Disclosing or Sharing Your Information:**_ The bank will only share customer information (1) when necessary to complete a transaction initiated by you, or otherwise administer our business; (2) when you request it; (3) when the disclosure is required by, or allowed by law (i.e., subpoena); or (4) to make available special offers of products or services through Legacy Bank's third-party business partners.  
+**Internet Privacy Statement** **  
+**
 
+At Legacy Bank of Texas, we understand that our customers have strong expectations that the information provided to this bank is protected at all times. The Board of Directors, management, employees and other individuals or entities working with the bank will respect these expectations at all times. Please read the following privacy statement carefully.
 
-Please note that the Fair Credit Reporting Act does not prohibit us from sharing some information about you to the extent permitted by law. For example, we can share information such as name, address and phone number unless you direct us otherwise. When you do request that your information not be shared, you will continue to receive standard marketing advertisements from the bank and it's departments via your statement, as well as phone and direct mail solicitations.
+Questions regarding this statement should be directed to the Legacy Bank of Texas site coordinator by sending an email to: customermail@legacytexas.com and writing "Privacy Statement" in the subject line.
 
-Such requests should be addressed to Legacy Bank, Attention: MCIF Coordinator, P.O. Box 869111, Plano, Texas 75086-9111 and must include your name, address, account number and social security number.
+**How We Collect Information**  
+Many of the ways in which you interact with our site allow us to learn more about you. We collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page to learn which features are the most popular. But in these, and almost all other instances, we do not obtain personally identifiable information about you.
 
-We appreciate your business and will do whatever we can to be certain that you have the information you need to make sound financial decisions.
+**How We Use and Disclose Your Information**  
+As a general practice, we do not sell your personally identifiable information to third parties. So, for example, we do not sell your email addresses or your name and personal demographic information to mass marketers.
 
-When gathering information about you on our site, the information is gathered for our purposes only. We will not sell or make available your information except as detailed in our "Privacy Privileges" section above. In today's electronic world, we want you to be assured that our services provided via the worldwide web is state-of-the-art. Any information obtained through our site will be held in the same manner as the information we collect in our daily course of business. Please remember though, that any correspondence between you and the bank via email is not secure, and, therefore, you should use caution and not include personal information in the form of emails.
+We use your information on an aggregated basis to do such things as operate our site, enhance our site and sell and deliver advertising. We also use this data, both aggregated and personally identifiable, to enhance your on-site experience by displaying content and marketing messages that we believe will be of interest to you. We disclose aggregated information about our site to third parties.
 
- 
+In some cases, we use your personally identifiable information to provide information to you, such as to send site updates and event information to you that you request or to personalize the site in accordance with your requests.
 
-[Email Us](mailto:customermail@legacytexas.com)
+ **Privacy of Children**  
+Legacy Bank of Texas understands that children and young adults need special safeguards and privacy protection. These young people may not understand all the provisions of our policy or be able to make well-informed decisions about the choices available to our adult users. We believe our success is not only defined by our ability to bring you online services that make your life more convenient and enjoyable, but also by the steps we take to ensure that the interactive medium is available to everyone and guided by policies that make sense for families. In concert with our efforts, Legacy Bank of Texas urges all parents to supervise their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online. **Cookies and Other Tracking Methods**  
+Cookies are small pieces of information stored on your hard drive, not on our site. We use cookies or, in a limited number of cases, IP addresses for a number of reasons. First, cookies allow you to store your password without having to constantly re-enter it. Second, cookies can also help us to tailor a web site or a marketing message to better match your needs and interests. Third, cookies allow us to better understand how users use our site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do. **Limits on Our Abilities**  
+Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. The government or third parties under certain circumstances may intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. **Security**  
+We use industry-standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers where appropriate. However, "perfect security" does not exist on the Internet.
 
-  
-© Copyright Legacy Bank of Texas 2000
+We hope this policy clarifies our procedures regarding your personal information.
