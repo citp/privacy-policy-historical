@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hokiesports.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204210203id_/http%3A//www.hokiesports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hokiesports.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604173051id_/http%3A//hokiesports.com/privacy.html) for the most accurate reproduction.*
 
 # hokiesports.com
 
