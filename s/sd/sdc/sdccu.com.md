@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdccu.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204125525id_/http%3A//www.sdccu.com/pages/privacypolicy_4.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdccu.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404061751id_/http%3A//sdccu.com/pages/privacypolicy_4.asp) for the most accurate reproduction.*
 
 # San Diego County Credit Union-Privacy Policy
 
@@ -154,7 +154,7 @@ If we decide to change this Policy, we will post those changes on our Homepage s
   
 Our Site is not intended for use by children. We do not knowingly market to, nor solicit data from, children.
 
-[Click here](https://web.archive.org/web/20041204125525id_/http%3A//www.sdccu.com/pages/sdccuLegal_5.asp) for further information on terms governing use of this Site.   
+[Click here](https://web.archive.org/web/20050404061751id_/http%3A//sdccu.com/pages/sdccuLegal_5.asp) for further information on terms governing use of this Site.   
   
   
   
@@ -164,6 +164,6 @@ Our Site is not intended for use by children. We do not knowingly market to, nor
 * * *  
   
 For further information on terms governing use of this Site,  
-see [San Diego County Credit Union's Terms of Use Agreement](https://web.archive.org/web/20041204125525id_/http%3A//www.sdccu.com/pages/sdccuLegal_5.asp)  
+see [San Diego County Credit Union's Terms of Use Agreement](https://web.archive.org/web/20050404061751id_/http%3A//sdccu.com/pages/sdccuLegal_5.asp)  
   |  |   
 In compliance with Federal Banking regulation D, telephone and automated savings withdrawals will be limited per month to comply with the regulation. During any calendar month, you may not make more than six withdrawals or transfers to another SDCCU account of yours or to a third party by means of a preauthorized or automatic transfer or telephonic order or instruction. If you use automated methods to make transfers or withdrawals from savings, fewer than six telephone or Home Banking transfers or withdrawals are allowed. Automated methods include Overdraft Protection Transfers to checking accounts and Automatic withdrawals made through the Automated Clearing House (ACH) or preauthorized draft withdrawals (i.e., bill payment, insurance premiums). 
