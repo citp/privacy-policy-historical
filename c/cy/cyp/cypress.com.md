@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621170631id_/http%3A//www.cypress.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810113718id_/http%3A//www.cypress.com/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # Cypress Semiconductor Corporation
 
