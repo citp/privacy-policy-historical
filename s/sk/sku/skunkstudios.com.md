@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skunkstudios.com privacy policy that was archived on 2004-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040528035833id_/http%3A//www.skunkstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skunkstudios.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207100700id_/http%3A//www.skunkstudios.com/privacy) for the most accurate reproduction.*
 
 # Skunk Studios * Privacy Policy
 
