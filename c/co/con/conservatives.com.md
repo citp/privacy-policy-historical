@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604070815id_/http%3A//www.conservatives.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017070824id_/http%3A//www.conservatives.com/privacy.cfm) for the most accurate reproduction.*
 
 # Conservatives.com - Privacy Policy
 
@@ -34,7 +34,7 @@ You may contact us by e-mail at [_webmaster@conservatives.com_](mailto:webmaster
    
 Data Collection and Use  
   
-The Conservative Party strives to meet 'P3P' standards (the 'Platform for Privacy Preferences Project') on data privacy. We are the sole owner of any information we collect. We never sell, share, or rent this information unless we first disclose the fact in this privacy statement. We collect data in seven different ways.  
+The Conservative Party strives to meet 'P3P' standards (the 'Platform for Privacy Preferences Project') on data privacy. We are the sole owner of any information we collect. We never sell, share, or rent this information unless we first disclose the fact in this privacy statement. We collect data in eight different ways.  
   
    
 **Site Registration**  
@@ -44,7 +44,11 @@ We collect your name and contact information (including postal & email address).
 We ask for your name, postcode and email address if you subscribe to our email newsletters. We use this information to contact you about conservatives.com and let you know what Conservatives are doing up and down the country.  
    
 **Join and Donate**  
-In addition to the information from site registration we need additional information if you wish to donate money or join. This includes payment information (such as your credit card number and expiry date) and personal information that we must collect to abide by legal and voluntary codes of conduct (such as the constituency in which you are registered to vote). This information may be used for user analysis, user-profiling and contacting visitors.  
+  
+In addition to the information from site registration we need additional information if you wish to donate money or join. This includes payment information (such as your credit card number and expiry date) and personal information that we must collect to abide by legal and voluntary codes of conduct (such as the constituency in which you are registered to vote). This information may be used for user analysis, user-profiling and contacting visitors.
+
+If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [_http://www.electoralcommission.gov.uk/_](https://web.archive.org/web/20021017070824id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)  
+  
    
 **Volunteer**  
 We collect your postal address and volunteering preference. This information will be used by ourselves and your local Conservative Association.   
@@ -53,7 +57,10 @@ We collect your postal address and volunteering preference. This information wil
 If you choose, we can tell a friend about our site -- or even a particular page if you prefer. To do this, we need to ask for your friend's name and email address. We shall send your friend a single email inviting them to visit the site or page you chose. We do not retain this information.   
    
 **Feedback**  
-To send us a message using our feedback form we collect your name, email address and comments. At your option we may also collect your postal code. This data will be used by ourselves and our agents for contacting you. You may opt out of any future mailing.  
+To send us a message using our feedback forms we collect your name, email address and comments. At your option we may also collect your postal code. This data will be used by ourselves and our agents for contacting you. You may opt out of any future mailing.  
+   
+**Shop**  
+Our online shop has its own privacy policy which you can [_view here_](http://shop.conservatives.com/page.jsp?name=privacy).  
    
 **Log Files**  
 We use IP addresses, URI's of requested resources, timestamps and HTTP user-agents to analyse trends, administer the system and gather broad demographic information for aggregate use.  
@@ -78,7 +85,7 @@ Security
   
 We take every precaution to protect your details. When you submit sensitive information via the website, it is secure both on its way to us and once we receive it.
 
-For instance, our membership and donation forms encrypt your credit card number using encryption technology called - 'secure socket layers' or SSL. If you use Netscape Navigator or Internet Explorer, you can tell whether a page is secure by checking whether there is a locked padlock or key in the right corner of your browser. The URL of the page you are viewing will also begin with https://.
+For instance, our membership and donation forms encrypt your credit card number using encryption technology called -- 'secure socket layers' or SSL. If you use Netscape Navigator or Internet Explorer, you can tell whether a page is secure by checking whether there is a locked padlock or key in the right corner of your browser. The URL of the page you are viewing will also begin with https://.
 
 We also do everything in our power to protect your information once we have received it. Our staff can only access your details if they have a specific job to perform, such as dealing with a membership enquiry. They also have to keep up to date on our security and privacy practices.
 
