@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017044444id_/http%3A//www.iperceptions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604034505id_/http%3A//www.iperceptions.com/privacy.html) for the most accurate reproduction.*
 
 # iPerceptions | Privacy Statement
 
@@ -16,7 +16,7 @@ iPerceptions Inc. ("iPerceptions") is a licensee of the TRUSTe Privacy Program. 
 
 
 
-If users have questions or concerns regarding this statement, they should first contact our marketing department by email at: [marketing@iperceptions.com](mailto:marketing@iperceptions.com). If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/users_watchdog_intro.html) [http://www.truste.org/users/users_watchdog_intro.html]. TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact our marketing department by email at: [marketing@iperceptions.com](mailto:marketing@iperceptions.com). If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/users_watchdog.php) [http://www.truste.org/users/users_watchdog.php]. TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 iPerceptions Inc. recognizes the importance of protecting the privacy of all respondents to our on-line surveys. Your privacy is fundamental and essential to ensure the validity of our survey process. We are committed to upholding the principles of honesty and integrity with all respondents to our surveys. It is your opinion that is requested, not your identity.
 
@@ -63,6 +63,9 @@ On initial setup, most web browsers are set to accept cookies. On most browsers,
 If iPerceptions decides to change our privacy policy, we will post those changes to this privacy statement on our HOME page and other places we deem appropriate (such as on surveys) so our users are aware of what information we collect and how we use it. We will use information in accordance with the privacy policy under which the information was collected.
 
 If, however, we are going to handle our surveys in terms of collection and/or use of personal and contact information (if any) in a manner different from that stated at the time of collection, we will obtain your consent prior to this new use.
+
+**Legal Disclaimer**  
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
 
 **Contact Us**  
 If you require further information or if we can be of any aid with respect to privacy issues or the practices of this site, you can contact us at [marketing@iperceptions.com](mailto:marketing@iperceptions.com)
