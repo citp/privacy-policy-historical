@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609185017id_/http%3A//cafe.utne.com/cafe/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208094619id_/http%3A//cafe.utne.com/cafe/privacy.html) for the most accurate reproduction.*
 
 # CAFE UTNE: The Place for Ideas and Community
 
