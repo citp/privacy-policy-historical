@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationjob.com privacy policy that was archived on 2002-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020612142253id_/http%3A//www.nationjob.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationjob.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017223606id_/http%3A//www.nationjob.com/privacy-statement) for the most accurate reproduction.*
 
 # NationJob -- Privacy Statement
 
@@ -14,7 +14,7 @@ The data that we collect is used in the aggregate. This allows us to better unde
 NationJob has partnered with a number of other companies in order to provide additional services. Note that information submitted on co-branded pages goes directly to these partner companies and is subject to their privacy policies. NationJob is not responsible for the information that the partner companies receive. 
 
   
-You have the opportunity to share success stories and other comments with NationJob via e-mail (usually through the [pjsuccess@nationjob.com](mailto:pjsuccess@nationjob.com) account). These comments become the property of NationJob, Inc. We may use this information for marketing purposes, or to contact you for further comments. 
+You have the opportunity to share success stories and other comments with NationJob via e-mail (usually through the [successpj@nationjob.com](mailto:successpj@nationjob.com) account). These comments become the property of NationJob, Inc. We may use this information for marketing purposes, or to contact you for further comments. 
 
   
 Changes to our privacy policy will be posted on the site. If, at any time, you have questions or concerns about our privacy policy, please feel free to contact us at 888-256-1750.   
