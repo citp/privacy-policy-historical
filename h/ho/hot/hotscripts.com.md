@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotscripts.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413023042id_/http%3A//www.hotscripts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotscripts.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018110615id_/http%3A//www.hotscripts.com/privacy.html) for the most accurate reproduction.*
 
 # HotScripts.com Privacy Policy
 
@@ -25,7 +25,7 @@ We perform statistical analysis of the collective characteristics and behavior o
 _Cookies and Clickstreams_ *  
 We use cookies for session tracking, and user preferences for registered users on our site.  We may also use cookies to help us determine how long users view particular content, which particular content (e.g., advertising) users view, which content or sites users link to, and which HotScripts services members and visitors use.
 
-We currently use a few third party ad networks to serve ads on our site, namely Advetising.com and Clear Blue Media. The cookies received with banner ads served by these networks are used to collect and bulld anonymous behavioral profiles by these companies to deliver targeted ads, and we do not have access to this information. 
+We currently use a few third party ad networks to serve ads on our site, namely Advetising.com and Commission Junction. The cookies received with banner ads served by these networks are used to collect and bulld anonymous behavioral profiles by these companies to deliver targeted ads and tracking referrals, and we do not have access to this information. 
 
   
 If there is anything else we can do to protect your privacy, please let us know at privacy@hotscripts.com.
