@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcredits.com privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016192917id_/http%3A//jobcredits.com/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcredits.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204003344id_/http%3A//jobcredits.com/misc/privacy.asp) for the most accurate reproduction.*
 
 # ITax Group::Privacy Policy
 
