@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morebusiness.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206100816id_/http%3A//morebusiness.com/brc/about/privacy.brc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morebusiness.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609165442id_/http%3A//morebusiness.com/brc/about/privacy.brc) for the most accurate reproduction.*
 
 # Morebusiness.com -- sample business plans, sample contracts, sample marketing plans, business loans, employee manuals.
 
@@ -7,13 +7,14 @@
 MoreBusiness.com is a web site of **Khera Communications, Inc.**
 
 Our postal address is   
-**9700 Great Seneca Hwy.  
+**Khera Communications, Inc.  
+5 Choke Cherry Road, Suite 350  
 Rockville, MD 20850 USA**
 
 We can be reached by e-mail at [privacy@morebusiness.com](mailto:privacy@morebusiness.com). 
 
 **Web Site Information Collection**  
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name or IP address, but not the e-mail address. Unless otherwise stated on our web site, we collect only the domain name or IP address of visitors to our Web page, the e- mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or registrations to access portions of the site and its associated services. We use SSL (secure socket layer) encryption for online payment collection for purchases of our own proprietary products and services. We rely on third party providers for some of our products and services--the privacy policies of those sites govern the method by which they collect and use such information.
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name or IP address, but not the e-mail address. Unless otherwise stated on our web site, we collect only the domain name or IP address of visitors to our Web page, the e- mail addresses of those who communicate with us via e-mail, the e- mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or registrations to access portions of the site and its associated services. We use SSL (secure socket layer) encryption for online payment collection for purchases of our own proprietary products and services. We rely on third party providers for some of our products and services--the privacy policies of those sites govern the method by which they collect and use such information.
 
 **Use of Web Site Information Collected**  
 The information we collect is used to create an aggregate demographic profile of our user base so that we can improve the content of our Web site and provide aggregate information to potential advertisers (no individual information is provided to any third-party without your consent), to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, to send visitors our opt-in e-mail newsletter(s) (if requested by the visitor), to provide users with the products and/or services for which they signed-up or registered which may include sending service disruption notices or other service- or product-related information via e-mail, and is not shared with other organizations for commercial purposes without the visitor's consent.
