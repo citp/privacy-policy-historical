@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the letstalk.com privacy policy that was archived on 2004-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607035046id_/http%3A//www5.letstalk.com/about/security1.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the letstalk.com privacy policy that was archived on 2004-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041231070428id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.-->
 
 <html><head><title>Privacy &amp; Security</title>
 <meta name="keywords" content="Privacy, Security, Site Security, TRUSTe certified, Cookies, Browsers">
 <meta name="description" content="Privacy, Security, Site Security, TRUSTe certified, Cookies, Browsers">
 <link rel="stylesheet" href="/inc/styles/pcStyles.php"> 
-<script language="javascript">
+<script language="JavaScript" src="/inc/javascriptfunctionsbasic.js">	
+</script><script language="javascript">
 	var dontleaveLoaded = false;
 	
 	function FormSubmit(name)
@@ -15,11 +16,9 @@
 		name.submit();
 	}
           </script></head>
-<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#000000">
 
-
+	<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#000000">
  <script language="javascript">
-
 browserName = navigator.appName;
 browserVersion = parseInt(navigator.appVersion);
    if (browserName == "Netscape" && browserVersion >= 3) version = "n3";
@@ -67,76 +66,150 @@ function buttonOff(imageName) {
                 document[imageName].src=img
                 }
         }
+
+// dhtml menus
+//HV Menu- by Ger Versluis (http://www.burmees.nl/)
+//Submitted to Dynamic Drive (http://www.dynamicdrive.com)
+//Visit http://www.dynamicdrive.com for this script and more
+
+function Go(){return}
 </script>
 
 
+<script language="Javascript">
+
+/***********************************************************************************
+*	(c) Ger Versluis 1500 version 5.41 24 December 1501	          *
+*	For info write to menus@burmees.nl		          *
+*	You may remove all comments for faster loading	          *		
+***********************************************************************************/
+
+	var NoOffFirstLineMenus=4;			// Number of first level items
+	var LowBgColor='#6666cc';			// Background color when mouse is not over
+	var LowSubBgColor='#6666cc';			// Background color when mouse is not over on subs (A) 
+	//var HighBgColor='#333399';			// Background color when mouse is over (B)
+	var HighBgColor='';			// Background color when mouse is over (B)
+	var HighSubBgColor='#333399';			// Background color when mouse is over on subs 
+	var FontLowColor='#FFFFFF';			// Font color when mouse is not over (C)  
+	var FontSubLowColor='#FFFFFF';			// Font color subs when mouse is not over (C) 
+	var FontHighColor='#FFFFFF';			// Font color when mouse is over (C) 
+	var FontSubHighColor='#FFFFFF';			// Font color subs when mouse is over (C) 
+	var BorderColor='#6666cc';			// Border color
+	var BorderSubColor='#000000';			// Border color for subs
+	var BorderWidth=1;				// Border width
+	var BorderBtwnElmnts=1;			// Border between elements 1 or 0
+	var FontFamily="arial,geneva"	// Font family menu items
+	var FontSize=8;				// Font size menu items
+	var FontBold=0;				// Bold menu items 1 or 0
+	var FontItalic=0;				// Italic menu items 1 or 0
+	var MenuTextCentered='left';			// Item text position 'left', 'center' or 'right'
+	var MenuCentered='left';			// Menu horizontal position 'left', 'center' or 'right'
+	var MenuVerticalCentered='top';		// Menu vertical position 'top', 'middle','bottom' or static
+	var ChildOverlap=0;				// horizontal overlap child/ parent
+	var ChildVerticalOverlap=0;			// vertical overlap child/ parent
+	var StartTop=68;				// Menu offset x coordinate
+	var StartLeft=20;				// Menu offset y coordinate
+	var VerCorrect=0;				// Multiple frames y correction
+	var HorCorrect=0;				// Multiple frames x correction
+	var LeftPaddng=6;				// Left padding
+	var TopPaddng=3;				// Top padding
+	var FirstLineHorizontal=1;			// SET TO 1 FOR HORIZONTAL MENU, 0 FOR VERTICAL
+	var MenuFramesVertical=0;			// Frames in cols or rows 1 or 0
+	var DissapearDelay=100;			// delay before menu folds in
+	var TakeOverBgColor=1;			// Menu frame takes over background color subitem frame
+	var FirstLineFrame='navig';			// Frame where first level appears
+	var SecLineFrame='space';			// Frame where sub levels appear
+	var DocTargetFrame='space';			// Frame where target documents appear
+	var TargetLoc='';				// span id for relative positioning
+	var HideTop=0;				// Hide first level when loading new document 1 or 0
+	var MenuWrap=1;				// enables/ disables menu wrap 1 or 0
+	var RightToLeft=0;				// enables/ disables right to left unfold 1 or 0
+	var UnfoldsOnClick=0;			// Level 1 unfolds onclick/ onmouseover
+	var WebMasterCheck=0;			// menu tree checking on or off 1 or 0
+	var ShowArrow=0;				// Uses arrow gifs when 1
+	var KeepHilite=1;				// Keep selected path highligthed
+
+function BeforeStart(){return}
+function AfterBuild(){return}
+function BeforeFirstOpen(){return}
+function AfterCloseAll(){return}
 
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+
+Menu1 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Special Offers</div>','/product/promo.htm?depId=1&pgId=100','',4,18,140);
+Menu1_1 = new Array('Phone w/New Plan','/product/promo.htm?depId=0&pgId=0&tNav=1&trk=TNPHP','',0,20,164);
+Menu1_2 = new Array('Phone w/Family Plan','/product/promo.htm?depId=0&pgId=0&tNav=2&trk=TNFAM','',0,20,164);
+Menu1_3 = new Array('Phone w/Prepaid Plan','/product/promo.htm?depId=0&pgId=0&tNav=4&trk=TNPRE','',0,20,164);
+Menu1_4 = new Array('Free Shipping','/freeshipping.htm','',0,20,164);
+Menu2 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Shop by Feature</div>','/product/findProducts.htm?depId=1&pgId=100&tNav=1','',2,18,140);
+Menu2_1 = new Array('Phones by Feature','/product/findProducts.htm?depId=1&pgId=100&tNav=1','',0,20,164);
+Menu2_2 = new Array('Plans by Feature','/product/findProducts.htm?depId=2&pgId=101&tNav=1','',0,20,164);
+Menu3 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Shop by Brand</div>','/product/browse.htm/depId=1/pgId=100','',2,18,140);
+Menu3_1 = new Array('Phone Brands','/product/browse.htm/depId=1/pgId=100/','',0,20,164);
+Menu3_2 = new Array('Service Plan Brands','/product/browse.htm/depId=2/pgId=101','',0,20,164);
+Menu4 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Learn About Wireless</div>','','',5,18,140);
+Menu4_1 = new Array('Read User Reviews','/reviews/reviewhome.htm','',0,20,164);
+Menu4_2 = new Array('Keep My Number','/numberPortability/numport.htm?pgId=0&depId=0','',0,20,164);
+Menu4_3 = new Array('Buyer\'s Guides','/listArticles.htm?depId=0&pgId=0','',0,20,164);
+Menu4_4 = new Array('Why Buy From LetsTalk','/promo/whybuy/whybuy2.htm?depId=0','',0,20,164);
+Menu4_5 = new Array('Refer a Friend','/referafriend/referafriend.htm?rafId=7&depId=0','',0,20,164);
+
+</script>
+
+
+<script type="text/javascript" src="/inc/menu_com.js"></script><table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td valign="BOTTOM" background="" rowspan="2"><img height="5" src="/img/site/spacer.gif" width="180"><br>
 		
-		<a href="http://www5.letstalk.com/home.htm?depId=0&amp;pgId=0" target="_top">
+		<a href="http://www.letstalk.com/home.htm?depId=0&amp;pgId=0" target="_top">
 			<img src="/img/site/logo-home1.gif" border="0" alt="LetsTalk is the best online source for researching and buying free phones, free cell phones, wireless phones (siemens phones, motorola phones, samsung phones, nokia phones, sony ericsson, cricket phones)wireless accessories, wireless plans ( for t-mobile, tmobile, at&amp;t wireless, ATT, nextel, us cellular, cingular wireless, metro pcs, verizon wireless, cricket wireless, cricket communications) as well as camera phones, mobile phones, cell phones cheap and read cell phone reviews and cellular service reviews."></a>
 	</td>
-	<td colspan="3" align="RIGHT" class="Sm" valign="BOTTOM" height="20"><a href="http://www5.letstalk.com/about/site-guide1.htm" target="_top">Help Center</a> &nbsp; | &nbsp; <a href="https://www5.letstalk.com/checkoutnew/youraccountlogin.htm?metaCode=1446823047" target="_top">Order Status</a>  &nbsp; | &nbsp; <a href="http://www5.letstalk.com/cart/cart.htm" target="_top"> Shopping Cart<img src="/img/site/cart_nav.gif" width="28" height="14" align="absmiddle" border="0" hspace="2"></a></td>
+	<td colspan="3" align="RIGHT" class="Sm" valign="BOTTOM" height="20"><a href="http://www.letstalk.com/promo/whybuy/whybuy2.htm">Why Buy From LetsTalk</a> &nbsp; | &nbsp; <a href="http://www.letstalk.com/about/site-guide1.htm" target="_top">Help Center</a> &nbsp; | &nbsp; <a href="https://www2.letstalk.com/checkoutnew/youraccountlogin.htm?metaCode=549814578" target="_top">Order Status</a>  &nbsp; | &nbsp; <a href="http://www.letstalk.com/cart/cart.htm" target="_top"> Shopping Cart<img src="/img/site/cart_nav.gif" width="28" height="14" align="absmiddle" border="0" hspace="2"></a></td>
 </tr>
 <tr>
 	<td valign="BOTTOM" height="45" background="">
 <!-- *******MAIN NAV******* -->
-<nobr><a href="http://www5.letstalk.com/home.htm?depId=0&amp;pgId=0" target="_top" onmouseover="buttonOn('home')" onmouseout="buttonOff('home')"><img border="0" name="home" src="/img/nav/tab_home-sel.gif" width="65" height="45" alt="LetsTalk.com Home Page"></a><a href="http://www5.letstalk.com/landing/search3.htm/depId=2/pgId=101/landId=21" onmouseover="buttonOn('svc')" onmouseout="buttonOff('svc')" target="_top"><img border="0" name="svc" src="/img/nav/tab_svc1.gif" width="106" height="45" alt="Cellular Service and Wireless Service"></a><a href="http://www5.letstalk.com/landing/search3.htm/depId=1/pgId=100/landId=1" onmouseover="buttonOn('phone')" onmouseout="buttonOff('phone')" target="_top"><img border="0" name="phone" src="/img/nav/tab_phone1.gif" width="106" height="45" alt="Cellular Phones"></a><a href="http://www5.letstalk.com/landing/search3.htm/depId=49/pgId=145/landId=14" onmouseover="buttonOn('msg')" onmouseout="buttonOff('msg')" target="_top"><img border="0" name="msg" src="/img/nav/tab_msg1.gif" width="106" height="45" alt="Data &amp; Messaging"></a><a href="http://www5.letstalk.com/accessories.htm/depId_3/pgId_100.htm" onmouseover="buttonOn('acc')" onmouseout="buttonOff('acc')" target="_top"><img border="0" name="acc" src="/img/nav/tab_acc1.gif" width="106" height="45" alt="Cell Phone Accessories"></a></nobr></td>
+
+<nobr><a href="http://www.letstalk.com/home.htm?depId=0&amp;pgId=0&amp;mid=" target="_top" onmouseover="buttonOn('home')" onmouseout="buttonOff('home')"><img border="0" name="home" src="/img/nav/tab_home-sel.gif" width="65" height="45" alt="LetsTalk.com Home Page"></a><a href="http://www.letstalk.com/landing/search3.htm?landId=21&amp;k=Cellular_Service_Plans" onmouseover="buttonOn('svc')" onmouseout="buttonOff('svc')" target="_top"><img border="0" name="svc" src="/img/nav/tab_svc1.gif" width="106" height="45" alt="Service Plans"></a><a href="http://www.letstalk.com/landing/search3.htm?landId=1&amp;k=Free_Cell_Phones" onmouseover="buttonOn('phone')" onmouseout="buttonOff('phone')" target="_top"><img border="0" name="phone" src="/img/nav/tab_phone1.gif" width="106" height="45" alt="Cell Phones"></a><a href="http://www.letstalk.com/landing/search3.htm?landId=22&amp;k=Smartphones,_Data_&amp;_Messaging" onmouseover="buttonOn('msg')" onmouseout="buttonOff('msg')" target="_top"><img border="0" name="msg" src="/img/nav/tab_msg1.gif" width="106" height="45" alt="Data &amp; Messaging"></a><a href="http://www.letstalk.com/accessories.htm/depId_3/mid=/pgId_100.htm" onmouseover="buttonOn('acc')" onmouseout="buttonOff('acc')" target="_top"><img border="0" name="acc" src="/img/nav/tab_acc1.gif" width="106" height="45" alt="Cell Phone Accessories"></a></nobr></td>
 
 <!-- *******MAIN NAV******* -->
 
-	<td align="center" class="Sm" valign="bottom" background="">
-			
+	<td align="center" class="Sm" background="">
 <table cellpadding="0" cellspacing="0" border="0">      
 <tbody><tr>
-    <td class="Sm" align="center" nowrap=""><a href="javascript:openWin('http://www5.letstalk.com/popups/ordertollfree_popup.htm', '_tollfree', '298', '216' )">
+    <td class="Sm" align="center" nowrap=""><a href="javascript:openWin('http://www.letstalk.com/popups/ordertollfree_popup.htm', '_tollfree', '298', '216' )">
 <div style="text-decoration:none"><b>Order by Phone</b></div>Click Here</a></td>
-       <td><a href="javascript:openWin('http://www5.letstalk.com/popups/ordertollfree_popup.htm', '_tollfree', '298', '216' )">
+       <td><a href="javascript:openWin('http://www.letstalk.com/popups/ordertollfree_popup.htm', '_tollfree', '298', '216' )">
 <img src="/img/site/cust_svc_rep.gif" width="51" height="42" border="0"></a></td>
 </tr>
 </tbody></table>	</td>
 </tr>
 <!-- BEGIN SUB NAV TABLE -->
-
 <tr>
-	<td colspan="3" height="25" bgcolor="#6666cc">
+	<td colspan="3" height="22" bgcolor="#6666cc">
 		<table border="0" width="100%" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td width="1%">&nbsp;</td>
-			<td width="10%">
-				<table border="0" cellspacing="0" cellpadding="0" height="30">
-					<tbody><tr>
-			
+			<tbody><tr>
+				<td width="10%">&nbsp;</td>
+				<td>
+				<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;</td></tr></tbody></table>
+				</td>
+				<td width="50%" align="right">
+										<table width="140" border="0" cellspacing="0" cellpadding="0">
+					<form name="searchbar" action="/search.htm?depId=0&amp;pgId=" method="post" target="_top"></form>
+						<tbody><tr>
+							<td width="50" class="SmClr3" nowrap=""><nobr> &nbsp; <b>Search</b>&nbsp;</nobr></td>
+							<td id="form" width="35"><input type="text" name="search" size="12" style="font-size:10px;"></td>
+							<td width="55"><input type="image" src="/img/nav/bx_go-0.gif" alt="Go button for QuickSearch entry for the site" name="submit" border="0" height="25" width="50" hspace="5"></td> 
+						</tr>
 					
-					<td !width="33%" align="center" valign="bottom"><a href="http://www5.letstalk.com/promo/whybuy/whybuy2.htm" target="_top"><img src="/img/nav/bz_why-0.gif" width="157" height="18" border="0" alt="Why Buy From LetsTalk" hspace="3"></a></td>
-
-					
-					
-					<td !width="33%" align="center" valign="bottom"><a href="http://www5.letstalk.com/reviews/reviewhome.htm" target="_top"><img src="/img/nav/bz_rvw-0.gif" width="122" height="18" border="0" alt="Product Reviews" hspace="3"></a></td>
-
-					
-					
-					<td !width="33%" align="center" valign="bottom"><a href="http://www5.letstalk.com/listArticles.htm/depId_0/pgId_0.htm" target="_top"><img src="/img/nav/bz_ref-01.gif" width="137" height="18" border="0" alt="Wireless Reference: Useful tips and articles" hspace="3"></a></td>
-
-												</tr>
-						</tbody></table>
-					</td>
-					<td width="1%" align="right">
-						<table width="140" border="0" cellspacing="0" cellpadding="0">
-							<form name="searchbar" action="http://www5.letstalk.com/search.htm?depId=0&amp;pgId=" method="post" target="_top"></form>
-							<tbody><tr>
-								<td width="50" class="SmClr3" nowrap=""><nobr> &nbsp; <b>Search</b>&nbsp;</nobr></td>
-								<td id="form" width="35"><input type="text" name="search" size="12" style="font-size:10px;"></td>
-								<td width="55"><input type="image" src="/img/nav/bx_go-0.gif" alt="Go button for QuickSearch entry for the site" name="submit" border="0" height="25" width="50" hspace="5"></td> 
-							</tr>
-							
-						</tbody></table> 
-					</td>
-				</tr>
-			</tbody></table>
+					</tbody></table> 
+									</td>
+			</tr>
+		</tbody></table>
 
 <!-- END SUB NAV TABLE -->
 </td></tr>
@@ -151,39 +224,6 @@ function buttonOff(imageName) {
 <tr><td bgcolor="#ffffff" width="100%" colspan="3"><img height="4" src="/img/site/spacer.gif" width="1"></td></tr></tbody></table>
 <!-- END TOP NAV TABLES -->
 
-<script language="JavaScript">
-      window.name = 'mainwin';
-      </script><script>
-function UrlOpen (urlLink)
-{
-   var new_url=urlLink;
-   if (  (new_url != "")  &&  (new_url != null)  )
-      window.location=new_url;
-      window.focus;
-}
-
-
-function ResetRadio(radio_group)
-{   
-   var i;
-   for(i=0;i<radio_group.length; i++)
-   {
-   	if(radio_group[i].defaultChecked)
-   	{
-   		radio_group[i].checked = true;
-   		break;
-   	}
-   }
-}
-
-function openWin(URL, name, windowWidth, windowHeight)
-{ 
-	var newWindow = window.open (URL,name,'width='+windowWidth+',height='+windowHeight+',scrollbars=yes,resizable=yes');
-	newWindow.focus();
-}
-
-</script>
-			  
 
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -191,7 +231,6 @@ function openWin(URL, name, windowWidth, windowHeight)
 		<td width="160" valign="top" id="Bg1">
 <!-- left nav bar -->
 		
-
 <br>
 	<table width="160" border="0" cellspacing="8" cellpadding="0">
 		<tbody><tr><td class="Std"><a href="/about/site-guide1.htm"></a><li type="square"><a href="/about/site-guide1.htm">Site Guide</a></li></td></tr>
@@ -341,15 +380,21 @@ Please consult your documentation or online help files.
         <td id="Bg2" align="CENTER"> 
             <table width="100%" border="0" cellspacing="0" cellpadding="3">
                 <tbody><tr>
-                    <td class="SmClr3" width="30%" align="CENTER">
-                 <a href="http://www5.letstalk.com/company/partner/partner.htm" target="_top"><span class="SmClr3">Partner With LetsTalk.com</span></a>
+                    <td class="SmClr3" width="22%" align="CENTER">
+                 <a href="http://www.letstalk.com/company/partner/partner.htm" target="_top"><span class="SmClr3">Partner With LetsTalk.com</span></a>
                     </td>
-                    <td class="SmClr3" width="30%" align="CENTER">
-                  <a href="http://www5.letstalk.com/enterprise/index.htm" target="_top"><span class="SmClr3">Enterprise Suite</span></a>
+					 <td class="SmClr3" width="22%" align="CENTER">
+                 <a href="http://www.letstalk.com/referafriend/referafriend.htm?rafId=7" target="_top"><span class="SmClr3">Refer a Friend</span></a>
                     </td>
-                    <td class="SmClr3" width="20%" align="RIGHT">Enter Email for Free Newsletters:</td>
-               <form name="emailSubscribe" action="http://www5.letstalk.com/newsletter/confirm.htm?trk=NLFTR" method="POST" target="_top"></form>
-                    <td width="20%"><input name="custEmail" type="text" size="10">
+					
+					
+					
+                    <td class="SmClr3" width="22%" align="CENTER">
+                  <a href="http://www.letstalk.com/enterprise/index.htm" target="_top"><span class="SmClr3">Enterprise Suite</span></a>
+                    </td>
+                    <td class="SmClr3" width="31%" align="RIGHT">Enter Email for Free Newsletters:</td>
+               <form name="emailSubscribe" action="http://www.letstalk.com/newsletter/confirm.htm?trk=NLFTR" method="POST" target="_top"></form>
+                    <td align="right" nowrap=""><input name="custEmail" type="text" size="10">
 					<!-- <INPUT TYPE="image" SRC="/img/nav/bx_go-0.gif" ALT="Go button for QuickSearch entry for the site" name="submit" border=0 height=25 width=50 hspace=5 align=absmiddle> -->
 	            	<input type="image" src="/img/site/b_gosmall-b.gif" border="0" alt="Submit your email address for newsletters" align="absmiddle">
 </td>
@@ -364,22 +409,22 @@ Please consult your documentation or online help files.
 <!-- BEGIN FOOTER -->
 <table width="95%" border="0" cellspacing="0" cellpadding="3">
     <tbody><tr>
-        <td class="Sm" align="CENTER"><a href="http://www5.letstalk.com/about/about1.htm" target="_top">About LetsTalk.com</a>
+        <td class="Sm" align="CENTER"><a href="http://www.letstalk.com/about/about1.htm" target="_top">About LetsTalk.com</a>
 </td>
 		<td class="Sm">|</td>
-        <td class="Sm" align="CENTER"><a href="http://www5.letstalk.com/about/contact1.htm" target="_top">Contact Us</a>
+        <td class="Sm" align="CENTER"><a href="http://www.letstalk.com/about/contact1.htm" target="_top">Contact Us</a>
 </td>
         <td class="Sm">|</td>
-		<td class="Sm" align="CENTER"><a href="http://www5.letstalk.com/about/ordering1.htm" target="_top">Ordering &amp; Policies</a>
+		<td class="Sm" align="CENTER"><a href="http://www.letstalk.com/about/ordering1.htm" target="_top">Ordering &amp; Policies</a>
 </td>
         <td class="Sm">|</td>
-        <td class="Sm" align="CENTER"><a href="http://www5.letstalk.com/about/security1.htm" target="_top">Privacy &amp; Security</a>
+        <td class="Sm" align="CENTER"><a href="http://www.letstalk.com/about/security1.htm" target="_top">Privacy &amp; Security</a>
 </td>
         <td class="Sm">|</td>
-        <td class="Sm" align="CENTER"><a href="http://www5.letstalk.com/cart/cart.htm" target="_top">Cart &amp; Checkout</a>
+        <td class="Sm" align="CENTER"><a href="http://www.letstalk.com/cart/cart.htm" target="_top">Cart &amp; Checkout</a>
 </td>
 		<td class="Sm">|</td>
-		<td class="Sm" align="CENTER"><a href="http://www5.letstalk.com/about/site-guide1.htm" target="_top">Site Guide</a>
+		<td class="Sm" align="CENTER"><a href="http://www.letstalk.com/about/site-guide1.htm" target="_top">Site Guide</a>
 </td>
 
 
@@ -391,14 +436,13 @@ Please consult your documentation or online help files.
 
 <br>
 
-
 <center><span class="Sm">Copyright © 2003-2004 LetsTalk, Inc.  All Rights Reserved.</span></center>
 
 
 
 
 
-<!---<small><br>0.020 1446823047 040606205034 www5  SECUR<br>  </small>
+<!---<small><br>0.042 549814578 041230230403 www2  SECUR<br>  </small>
 --->
 
 
@@ -406,4 +450,4 @@ Please consult your documentation or online help files.
 		
 		
 		
-	</body></html>
+	<div style="position: absolute; visibility: visible; background-color: rgb(102, 102, 204); width: 565px; height: 20px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 101; top: 68px; left: 20px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 1px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Special Offers</div></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 142px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Shop by Feature</div></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 283px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Shop by Brand</div></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 424px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Learn About Wireless</div></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 166px; height: 85px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Phone w/New Plan</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Phone w/Family Plan</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 43px;">Phone w/Prepaid Plan</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 64px;">Free Shipping</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 166px; height: 43px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Phones by Feature</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Plans by Feature</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 166px; height: 43px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Phone Brands</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Service Plan Brands</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 166px; height: 106px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Read User Reviews</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Keep My Number</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 43px;">Buyer's Guides</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 64px;">Why Buy From LetsTalk</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 85px;">Refer a Friend</div></div></body></html>
