@@ -1,22 +1,29 @@
-<!--The following is the downloaded HTML source of the tickle.com privacy policy that was archived on 2004-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041231091211id_/http%3A//web.tickle.com/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tickle.com privacy policy that was archived on 2005-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404015530id_/http%3A//web.tickle.com/rd/42814/about/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Tickle: Tests, Matchmaking and Social Networking</title>
-<meta name="keywords" content="Tickle, Emode, social networking, friend network, friend of a friend, connect, meet people, degrees of separation, personals network, business networking, professional networking, online community, groups, linking, friends, contacts, relationships, recommendations, discussion groups, bulletin boards">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="http://i.emode.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <title>Tickle: Tests, Matchmaking and Social Networking</title>
+    <meta name="keywords" content="Tickle, Emode, social networking, friend network, friend of a friend, connect, meet people, degrees of separation, personals network, business networking, professional networking, online community, groups, linking, friends, contacts, relationships, recommendations, discussion groups, bulletin boards">  
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link href="http://i.emode.com/favicon.ico" rel="shortcut icon" type="image/x-icon">  
+    
+    
+
+
+<style type="text/css" media="all">@import "http://i.emode.com/style/main20050310.css";</style>
+    
+
+
+<style type="text/css" media="all">@import "http://i.emode.com/style/header20050228.css";</style>
+    
+    
+    
+    
+    
+    
 
 
 
-<style type="text/css" media="all">@import "http://i.emode.com/match/style/main20041118.css";</style>
-<style type="text/css" media="all">@import "http://i.emode.com/match/style/header20041123.css";</style>
-
-<script type="text/javascript" language="javascript">
-<!-- <![CDATA[
-var NoPaidTestExitPopup=true, pu_win=true;
-// ]]> -->
-</script>
 
 <script type="text/javascript" language="javascript">
 <!--
@@ -52,28 +59,10 @@ function g_onunload() {}
 </script>
 
 <script type="text/javascript" language="javascript">
-<!-- <![CDATA[
-var cookiedomain='.tickle.com';
-// ]]> -->
-
-function writeshortusername(name) {
-  if(name.length>20){
-    name=name.substr(0,19);
-  }
-  document.write(name);
+function trackSubOrigin(suborigin) {
+  document.cookie='suborigin='+suborigin+';path=/;domain=.tickle.com;';
+  return(true);
 }
-
-function doSearch(){
-  if (document.searchform.sel.value==2){
-    document.searchform.action='http://connect.tickle.com/search/result.html?friendlevel=-1&photoonly=Y';
- }
-  return true;
-}
-
-/* TRUE if the messenger was supposed to launch but didn't */
-var messengerblocked = false; 
-/* TRUE if some chat windows were supposed to launch but didn't */
-var chatblocked = false;
 </script>
 
 
@@ -145,16 +134,129 @@ function DetectFlash6() {
 //-->
 </script>
 
+
 <script type="text/javascript" language="javascript">
-function trackSubOrigin(suborigin) {
-document.cookie='suborigin='+suborigin+';path=/;domain=.tickle.com;';
-return(true);
+<!-- <![CDATA[
+var NoPaidTestExitPopup=true, pu_win=true;
+var cookiedomain='.tickle.com';
+
+function writeshortusername(name) {
+  if(name.length>20){
+    name=name.substr(0,19);
+  }
+  document.write(name);
 }
+function doSearch(){
+  if (document.searchform.sel.value==2){
+    document.searchform.action='http://connect.tickle.com/search/result.html?friendlevel=-1&photoonly=Y';
+  }
+  return true;
+}
+
+
+var messengerblocked=false, chatblocked=false, exists=1;
+
+
+if (document.cookie.indexOf('ua=')==-1) { var x=window.open('/account/cookie_popup.html','error','width=400,height=175,resizable,scrollbars'); x.focus(); }
+
+var ua=navigator.userAgent.toLowerCase(),v=parseFloat(navigator.appVersion);
+var js12=true;
+var modern=((v>=5) || (ua.indexOf("msie")!=-1 && v>=4 && ua.indexOf("webtv")==-1));
+
+
+function g_alert(x,m) {
+  x.focus(); if (js12) { scrollBy(0,-50); }
+  alert(m);
+}
+
+
+function g_escapejs(x) {
+  for (var i=0;i<x.length;i++) {
+    if (x.charAt(i)=='\'' || x.charAt(i)=='\\') {
+      x=x.substring(0,i)+'\\'+x.substring(i);
+      i++;
+    }
+  }
+  return(x);
+}
+
+
+function popchat(cuid) {
+	var w=null;
+  if (DetectFlashV() >= 6) {
+		var allcookies = document.cookie;
+		var pos = allcookies.indexOf("chatwins=");
+		var present = 0;
+		var winstring = '';
+		if (pos != -1){
+			pos = pos+9;
+			var end = allcookies.indexOf(";",pos);
+			if (end == -1){end = allcookies.length;}
+			winstring = allcookies.substring(pos, end);
+			if (winstring.indexOf(cuid) != -1){present=1;}
+		} 
+    else {
+			winstring = '';
+		}
+		if (present!=1){
+			w=window.open('/match/messenger.jsp?cuid='+cuid+'&action=new','chat'+cuid,'width=375,height=400,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=1,channelmode=0,directories=0,status=0');
+			if (w!=null)
+				document.cookie = "chatwins=" + (winstring+cuid+"|");
+		}
+	} 
+  else {
+		w=window.open('/match/messenger.jsp?fl6=n&cuid='+cuid,'flasherror','width=375,height=400,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+	}
+	
+	if (w==null)
+		chatblocked = true;
+}
+
+var chatman = null;
+function launchMessenger() {
+  if (DetectFlashV() >= 6) {
+    chatman = window.open('/match/manager-connect.jsp','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+    if (chatman) {
+      chatman.moveTo((screen.availWidth-250),(screen.availHeight-480));
+    }
+  } 
+  else {
+    chatman = window.open('/match/manager-connect.jsp?fl6=n','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+  }
+}
+
+function launchBlockedMessenger() {
+  if (DetectFlashV() >= 6) {
+    chatman = window.open('/match/manager-connect.jsp?pblocked=y','emodemessenger','width=211,height=485,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+    if (chatman) {
+      chatman.moveTo((screen.availWidth-250),(screen.availHeight-480));
+    }
+  } 
+  else {
+    chatman = window.open('/match/manager-connect.jsp?fl6=n','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+  }
+}
+
+
+
+
+
+
+
+
+// ]]> -->
 </script>
+    
+
+
 
 
 
  
+
+
+
+
 
 
 
@@ -233,188 +335,83 @@ function popwindow (url,title,width,height,properties,up_or_under,wait) {
 
 
 
-
-
+    
 <style type="text/css" media="all">@import "http://i.emode.com/about/about.css";</style>
 
-
-
-
-<script type="text/javascript" language="JavaScript">
-<!-- <![CDATA[
-
-
-if (document.cookie.indexOf('ua=')==-1) { var x=window.open('/account/cookie_popup.html','error','width=400,height=175,resizable,scrollbars'); x.focus(); }
-
-var ua=navigator.userAgent.toLowerCase(),v=parseFloat(navigator.appVersion);
-var js12=true;
-var modern=((v>=5) || (ua.indexOf("msie")!=-1 && v>=4 && ua.indexOf("webtv")==-1));
-
-
-function g_alert(x,m) {
-  x.focus(); if (js12) { scrollBy(0,-50); }
-  alert(m);
-}
-
-
-function g_escapejs(x) {
-  for (var i=0;i<x.length;i++) {
-    if (x.charAt(i)=='\'' || x.charAt(i)=='\\') {
-      x=x.substring(0,i)+'\\'+x.substring(i);
-      i++;
-    }
-  }
-  return(x);
-}
-
-
-function popchat(cuid) {
-	var w=null;
-  if (DetectFlashV() >= 6) {
-		var allcookies = document.cookie;
-		var pos = allcookies.indexOf("chatwins=");
-		var present = 0;
-		var winstring = '';
-		if (pos != -1){
-			pos = pos+9;
-			var end = allcookies.indexOf(";",pos);
-			if (end == -1){end = allcookies.length;}
-			winstring = allcookies.substring(pos, end);
-			if (winstring.indexOf(cuid) != -1){present=1;}
-		} 
-    else {
-			winstring = '';
-		}
-		if (present!=1){
-			w=window.open('/match/messenger.jsp?cuid='+cuid+'&action=new','chat'+cuid,'width=375,height=400,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=1,channelmode=0,directories=0,status=0');
-			if (w!=null)
-				document.cookie = "chatwins=" + (winstring+cuid+"|");
-		}
-	} 
-  else {
-		w=window.open('/match/messenger.jsp?fl6=n&cuid='+cuid,'flasherror','width=375,height=400,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-	}
-	
-	if (w==null)
-		chatblocked = true;
-}
-
-var chatman = null;
-function launchMessenger() {
-  if (DetectFlashV() >= 6) {
-    chatman = window.open('/match/manager-connect.jsp','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-    chatman.moveTo((screen.availWidth-250),(screen.availHeight-480));
-  } 
-  else {
-    chatman = window.open('/match/manager-connect.jsp?fl6=n','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-  }
-}
-
-function launchBlockedMessenger() {
-  if (DetectFlashV() >= 6) {
-    chatman = window.open('/match/manager-connect.jsp?pblocked=y','emodemessenger','width=211,height=485,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-    chatman.moveTo((screen.availWidth-250),(screen.availHeight-480));
-  } 
-  else {
-    chatman = window.open('/match/manager-connect.jsp?fl6=n','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-  }
-}
-
-
-var exists=1;
-// ]]> -->
-</script>
-
-
-</head>
-<body onload="" onunload="">
-<div id="adContainer">
-
-
-<div class="header" style="height: 105px;">
-<div class="mainheader">
-
-<div class="logo"><a href="/"><img src="http://i.emode.com/images/logo/tickle_logo_new.gif" border="0" width="144" height="54" alt="Tickle"></a></div>
-<div class="mainnav"><div class="item on" id="home"><a href="/rd/42355/">Home</a></div> <div class="item"><a href="/rd/42357/http://connect.tickle.com/">Social Network</a></div> <div class="item"><a href="/rd/42359/http://match.tickle.com/">Matchmaking</a></div> <div class="item"><a href="/rd/42361/shop/">Premium Tests</a></div> <div class="item"><a href="/rd/42363/tests/">Fun Tests</a></div></div>
+    
+    
+  </head>
+  <body>
+    <div id="adContainer">
+      
+        <div id="headernav">
+          <div class="lftcol">
+            
+             
+              <a href="/rd/42593/">Home</a> | <a href="/rd/42594/tests/">Tests</a> | <a href="/rd/42595/http://connect.tickle.com/">Networking</a> | <a href="/rd/42596/http://match.tickle.com">Matchmaking</a> | <a href="/rd/42597/marriage/">Happy Marriage</a>
+            
+          </div>
+          <div class="rtcol">
+            <a href="/rd/42598/account/">My Account</a> | <a href="/rd/42599/account/tests/">My Test Results</a> | <a href="/rd/42600/http://support.tickle.com/">Help</a> | <a href="/rd/42601/account/authorize/signin.jsp?url=/&amp;stay">Sign In</a>
+          </div>
+          <br class="clear">
+        </div>        
+        
+        <div id="header">
+          
+           
+            
 
 
 
 
-<div class="auxsearch" style="z-index: 999; height: 25px;">
-<form action="http://connect.tickle.com/search/websearch.html" name="headersearchform" method="get" style="height: 1px">
-<table border="0px" cellpadding="0" cellspacing="0" align="right">
-<tbody><tr>
-<td align="right"><img src="http://i.emode.com/images/static/searchbarcorner_flip_dark.gif" alt="" width="41" height="29" border="0"></td>
-<td bgcolor="#BEDAF7">
-Search:&nbsp;
-</td><td bgcolor="#BEDAF7" valign="middle" nowrap="">
-<input type="text" name="query" class="tbox auxsearchbox" value="">
-<select name="sel" id="mmf6" class="tbox auxsearchbox"><option value="0" selected="">Tickle</option><option value="1">Web</option><option value="2">People</option><option value="3">Tests</option></select>
-<input type="submit" name="submitbutton" value="&nbsp;&nbsp;Go&nbsp;&nbsp;" class="submitbutton" style="margin: 0px 3px; height:20px; width: 50px; background-color:#CDCDCD;"></td><td bgcolor="#BEDAF7" valign="middle" nowrap="">
-</td></tr></tbody></table></form></div>
-
-<div class="auxnav"><a href="/rd/42365/account/">My Account</a> | <a href="/rd/42367/http://support.tickle.com/">Help</a> | <a href="/rd/42369/account/authorize/signin.jsp?url=/&amp;stay">Sign In</a> </div>
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-
-<div class="content">
-
-
-
-
-
-
-<script type="text/javascript">
-function HandlePopups() {
-
-	if (chatblocked) {
-		for (var i=0;i<newconversations.length;i++) {
-			popchat(newconversations[i]);
-		}
-	
-		if (messengerblocked) {
-			launchMessenger();
-			messengerblocked = false;
-		}
-		
-		chatblocked = false;
-	} else if (messengerblocked) {
-		launchMessenger();
-		messengerblocked = false;
-	}
-	
-	document.getElementById('popupblocked').style.display = 'none';	
-
-
-}
-</script>
-
-<div id="popupblocked" style="height: 18px; border: 1px solid #FF0000; padding: 2px; margin: -16px 20px 8px 30px; color: #FF0000; width: 660px; display: none;">
-<ul style="margin: 0px; padding: 0px;">
-<li style="float: left; display: block; list-style: none; list-style-image: none; margin: 0px; padding: 0px;"><img src="http://i.emode.com/match/images/chat_bubble.gif" alt=""></li>
-<li style="float: left; display: block; list-style: none; list-style-image: none; margin: 3px 5px; padding: 0px;">Tickle Messenger could not open. Using a popup blocker? Enable popups for this site, and <a href="#" onclick="HandlePopups();" style="text-decoration: underline;">click here to launch.</a>
-</li></ul></div>
-<script type="text/javascript">
-if (chatblocked || messengerblocked) {
-	document.getElementById('popupblocked').style.display = 'block';
-}
-</script>
 
 
 
 
  
+  
+  
+    
+        
 
 
+
+
+
+<div class="logo">
+  <a href="/rd/42592/"><img src="http://i.emode.com/images/channels/logo.gif" border="0" alt="Tickle"></a>    
+</div>
+
+
+<div id="breadcrumb">
+  <a href="/">Home</a>
+</div>
+          
+          <br class="clear">
+        </div>
+        
+        
+        
+        
+        
+      <div class="content">
+        
+          
+            <div id="pagetitle">
+              <h1>About Us</h1>
+              
+            </div>
+          
+        
+        
+        
+        
+        
+        
+        
+        
+    
 <table border="0" cellspacing="0" cellpadding="0" width="728">
           <tbody><tr> 
           <td align="left" valign="top" bgcolor="#ffffff">
@@ -425,7 +422,7 @@ if (chatblocked || messengerblocked) {
 <div class="pressnavitem"><a href="/about/glance.jsp" class="pressnav">Company at a Glance</a></div>
 <div class="pressnavitem">Products and Services</div>
 <div class="pressnavitem"><a href="/about/tests.jsp" class="pressnav" style="padding-left:20px;">Tests</a></div>
-<div class="pressnavitem"><a href="/about/marriage.jsp" class="pressnav" style="padding-left:20px;">Marriage</a></div>
+<div class="pressnavitem"><a href="/about/marriage.jsp" class="pressnav" style="padding-left:20px;">Happy Marriage</a></div>
 <div class="pressnavitem"><a href="/about/matchmaking.jsp" class="pressnav" style="padding-left:20px;">Matchmaking</a></div>
 <div class="pressnavitem"><a href="/about/socialnetworking.jsp" class="pressnav" style="padding-left:20px;">Social Networking</a></div>
 <div class="pressnavitem"><a href="/match/about/book.jsp" class="pressnav" style="padding-left:20px;">eBook</a></div>
@@ -829,57 +826,81 @@ updates or modifications. </p>
 
 
 
-
-
-
-
-
-
-
-
-       
-
-<cite>&nbsp;</cite>
-</div>
-<!--END: content -->
-<!--BEGIN: footer -->
-<div class="footer">
-
-<ul class="footersubnav">
-  <li class="first"><a href="http://web.tickle.com/">Home</a></li>
-  <li><a href="http://web.tickle.com/about/">About Us</a></li>
-  <li><a href="http://web.tickle.com/about/privacy.jsp">Privacy Policy</a></li>
-  <li><a href="http://web.tickle.com/about/terms.jsp">Terms of Use</a></li>
-  <li><a href="http://web.tickle.com/about/contact.jsp">Contact Us</a></li>
-  <li><a href="http://sales.tickle.com/">Advertise</a></li>
-  <li><a href="http://support.tickle.com/">Help</a></li>
-  <li><a href="/tests/">Take Fun Tests</a></li>
-</ul>
-<ul class="footersubnav" style="padding-top:12px;">
-  <li class="first" style="color:#666;">Tickle International:</li>
-  <li class="first"><a href="http://uk.tickle.com">United Kingdom</a></li>
-  <li><a href="http://de.tickle.com">Germany</a></li>
-</ul>
-<p><a href="http://web.tickle.com/get/matchmaking.jsp" style="text-decoration:none; color:#666;">©1999-2004</a> <a href="http://web.tickle.com/get/networking.jsp" style="text-decoration:none; color:#666;">Tickle Inc.</a> <a href="http://web.tickle.com/get/tests.jsp" style="text-decoration:none; color:#666;">All rights</a> <a href="http://web.tickle.com/get/marriage.jsp" style="text-decoration:none; color:#666;">reserved.</a> <a href="http://connect.tickle.com/toolbar/index.html">Download the Tickle Search Toolbar</a></p>
-</div>
-<!--END: footer -->
-
-
-
-
- 
-   
-
-
-
-
-
-
-</div>
-
-
-  
-  <script language="Javascript1.2">
+        <br class="clear">
+      </div>  
+      
+      
+        
+      <div id="footer">
+      
+      
+        <div id="lftcol">
+          <h4>Tickle Channels</h4>
+          <ul>
+            <li><a href="http://web.tickle.com/rd/42781/channel/dating/">Dating &amp; Relationships</a></li>
+            <li><a href="http://web.tickle.com/rd/42783/channel/career/">Career &amp; Money</a></li>
+            <li><a href="http://web.tickle.com/rd/42785/channel/education/ ">Education</a></li>
+            <li><a href="http://web.tickle.com/rd/42787/channel/mind/">Mind &amp; Body</a></li>
+            <li><a href="http://web.tickle.com/rd/42789/channel/parenting/">Parenting &amp; Family</a></li>
+            <li><a href="http://web.tickle.com/rd/42791/channel/entertainment/">Entertainment &amp; Celebs</a></li>
+            <li><a href="http://web.tickle.com/rd/42793/channel/lifestyle/">Lifestyle</a></li>
+            <li><a href="http://web.tickle.com/rd/42795/channel/teens/">Teens</a></li>
+          </ul>
+        </div>
+        <div id="midcol">
+          <h4>Tickle Services</h4>
+          <ul>
+            <li><a href="http://web.tickle.com/rd/42797/tests/">Tests</a></li>
+            <li><a href="http://web.tickle.com/rd/42799/http://connect.tickle.com/">Networking</a></li>
+            
+              
+              
+                
+              
+              <li><a href="http://web.tickle.com/rd/42801/http://match.tickle.com">Matchmaking</a></li>
+            
+            <li><a href="http://web.tickle.com/rd/42803/marriage/">Happy Marriage</a></li>
+            <li><a href="http://web.tickle.com/rd/42805/http://uk.tickle.com">Tickle UK</a></li>
+            <li><a href="http://web.tickle.com/rd/42807/http://de.tickle.com">Tickle Germany</a></li>
+            
+              
+              
+                
+              
+              <li><a href="http://web.tickle.com/rd/42809/http://connect.tickle.com/toolbar/index.html">Download</a></li>
+            
+          </ul>
+        </div>
+        <div id="rtcol">
+          
+          
+            
+          
+          <h4>About Tickle</h4>
+          <ul>
+            <li><a href="http://web.tickle.com/rd/42811/about/">About Us</a></li>
+            <li><a href="http://web.tickle.com/rd/42813/about/contact.jsp">Contact Us</a></li>
+            <li><a href="http://web.tickle.com/rd/42815/about/privacy.jsp">Privacy Policy</a></li>
+            <li><a href="http://web.tickle.com/rd/42817/about/terms.jsp">Terms of Use</a></li>
+            <li><a href="http://web.tickle.com/rd/42819/http://sales.tickle.com/">Advertise</a></li>
+            <li><a href="http://web.tickle.com/rd/42821/http://support.tickle.com/">Help</a></li>
+          </ul>
+        </div>
+        
+        
+        <br class="clear">
+      </div>
+      <div id="copyright">
+        <a href="http://web.tickle.com/get/matchmaking.jsp" style="text-decoration:none; color:#000;">©1999-2005</a> <a href="http://web.tickle.com/get/networking.jsp" style="text-decoration:none; color:#000;">Tickle Inc.</a> <a href="http://web.tickle.com/get/tests.jsp" style="text-decoration:none; color:#000;">All rights</a> <a href="http://web.tickle.com/get/marriage.jsp" style="text-decoration:none; color:#000;">reserved.</a>
+        
+        
+        
+      </div>
+    </div>  
+    
+    
+    
+      <script language="Javascript1.2">
 <!--
 var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
 //-->
@@ -949,13 +970,23 @@ dcsTag();
 <noscript>
 <img border="0" name="DCSIMG" width="1" height="1" src="http://cookie.tickle.com/DCS000042_3X1N/njs.gif?dcsuri=/nojavascript">
 </noscript>
+    
+    
+    
+    
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+   
+       
   
-
-
-<div class="debug"></div>
-
-
-
 
 
 
