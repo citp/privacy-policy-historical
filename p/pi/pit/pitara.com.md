@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitara.com privacy policy that was archived on 2001-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010624160752id_/http%3A//www.pitara.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitara.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204190116id_/http%3A//www.pitara.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Pitara Kids Network | because kids value fun
 
@@ -12,7 +12,7 @@
 [ **Privacy Policy** ][ [**Conditions of use**](https://web.archive.org/corporate/conditions.asp) ]
 
 **Privacy Policy**   
-Pitara Kids Network Pvt. Limited knows and appreciates that information that you provide on our network sites ([www.pitara.com](http://www.pitara.com/), [www.indiabykids.com](http://www.indiabykids.com/), [www.krowser.com](http://www.krowser.com/), [www.pitarashop.com](http://www.pitarashop.com/), [www.geniefind.com](http://www.geniefind.com/)) is sensitive and can be misused if made available to others. Thus, the information you provide to us is kept confidential and is used very carefully and sensibly. This document describes our privacy policy. By visiting the Pitara Network of sites you are accepting the practices described in this entire document. 
+Pitara Kids Network Pvt. Limited knows and appreciates that information that you provide on our network sites ([www.pitara.com](http://www.pitara.com/), [www.indiabykids.com](http://www.indiabykids.com/), [www.krowser.com](http://www.krowser.com/), [www.geniefind.com](http://www.geniefind.com/)) is sensitive and can be misused if made available to others. Thus, the information you provide to us is kept confidential and is used very carefully and sensibly. This document describes our privacy policy. By visiting the Pitara Network of sites you are accepting the practices described in this entire document. 
 
 The information that we gather from customers helps us personalise and continually improve the quality of your experience with us. We give you some instances of the types of information that we gather: 
 
