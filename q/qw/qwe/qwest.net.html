@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qwest.net privacy policy that was archived on 2004-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040612122734id_/http%3A//www.qwest.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qwest.net privacy policy that was archived on 2004-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041107010029id_/http%3A//www.qwest.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Qwest | Legal Notices</title>
@@ -36,6 +36,7 @@ if(isMac && ie4) {  // ie mac currently acts like a 3.0 browser so let's just fo
 }
 var qOceRegionRes = getOceQCookie("qwestRegionResidential");
 var qOceRegionSB = getOceQCookie("qwestRegionSmallBusiness");
+var qOceRegion = parseQwestProfileToken("region");
 //-->
 </script>
 <script language="JavaScript" type="text/javascript" src="/global/includes/smallApi.js"></script>
@@ -136,7 +137,7 @@ var qOceRegionSB = getOceQCookie("qwestRegionSmallBusiness");
 						}
 
 
-            if ((curUrl.indexOf("/residential/") != -1) || (curUrl.indexOf("for_home") != -1)){
+            if ((curUrl.indexOf("/residential/") != -1) || (curUrl.indexOf("for_home") != -1) || (curUrl.indexOf("salesChannel=Residential") != -1) || (curUrl.indexOf("salesChannel=res") != -1) || (curUrl.indexOf("residential.do") != -1)){
             	qBU = "residential";
             	qLeftVertical = "home_residential";
             	qRightVertical = "residential_sb";
@@ -166,8 +167,11 @@ var qOceRegionSB = getOceQCookie("qwestRegionSmallBusiness");
             if (qBU == "largebusiness") {
                 document.write("<a href=\"http://control.qwest.com\"><img name=\"btn_qcontrol\" src=\"/global/images/btn_qcontrol.gif\" alt=\"MyAccount\" width=\"105\" height=\"28\" border=\"0\" hspace=\"7\" vspace=\"11\" onmouseover=\"swapOn('btn_qcontrol');\" onmouseout=\"swapOff('btn_qcontrol');\" /></a>");
             }
-            else if (qBU == "smallbusiness") {
-                document.write("<a href=\"https://kai08.qwest.com/cwt/qwest/CustomerLogin.aspx\"><img name=\"btn_myaccount\" src=\"/global/images/btn_myaccount.gif\" alt=\"MyAccount\" width=\"105\" height=\"28\" border=\"0\" hspace=\"7\" vspace=\"11\" onmouseover=\"swapOn('btn_myaccount');\" onmouseout=\"swapOff('btn_myaccount');\" /></a>");
+            else if ((qBU == "smallbusiness") && (qOceRegion == "Out")) {
+                document.write("<a href=\"http://www.qwest.com/smallbusiness/oor/manage/\"><img name=\"btn_myaccount\" src=\"/global/images/btn_myaccount.gif\" alt=\"MyAccount\" width=\"105\" height=\"28\" border=\"0\" hspace=\"7\" vspace=\"8\" onmouseover=\"swapOn('btn_myaccount');\" onmouseout=\"swapOff('btn_myaccount');\" /></a> <a href=\"https://iot.qwest.com/iot/cart/Summary.do\"><img name=\"btn_myProductsAndServices\" src=\"/global/images/btn_myProductsAndServices.gif\" alt=\"MyProductsAndServices\" width=\"114\" height=\"10\" border=\"0\" hspace=\"7\" vspace=\"0\";\" /></a>");
+            }
+            else if ((qBU == "smallbusiness") && (qOceRegion == "In")){
+                document.write("<a href=\"https://kai08.qwest.com/cwt/qwest/CustomerLogin.aspx\"><img name=\"btn_myaccount\" src=\"/global/images/btn_myaccount.gif\" alt=\"MyAccount\" width=\"105\" height=\"28\" border=\"0\" hspace=\"7\" vspace=\"8\" onmouseover=\"swapOn('btn_myaccount');\" onmouseout=\"swapOff('btn_myaccount');\" /></a> <a href=\"https://iot.qwest.com/iot/cart/Summary.do\"><img name=\"btn_myProductsAndServices\" src=\"/global/images/btn_myProductsAndServices.gif\" alt=\"MyProductsAndServices\" width=\"114\" height=\"10\" border=\"0\" hspace=\"7\" vspace=\"0\";\" /></a>");
             }
             else if (qBU == "wholesale") {
                 document.write("<img src=\"/global/images/white.gif\" border=\"0\" width=\"130\" height=\"62\" />");
@@ -175,17 +179,17 @@ var qOceRegionSB = getOceQCookie("qwestRegionSmallBusiness");
             else if (qBU == "iconn") {
                 document.write("<img src=\"/global/images/white.gif\" border=\"0\" width=\"130\" height=\"62\" />");
             }
-            else if (qOceRegionRes == "regionOut") {
-                document.write("<a href=\"https://residential.qwest.com/account/menu.jsp\"><img name=\"btn_myaccount\" src=\"/global/images/btn_myaccount.gif\" alt=\"MyAccount\" width=\"105\" height=\"28\" border=\"0\" hspace=\"7\" vspace=\"11\" onmouseover=\"swapOn('btn_myaccount');\" onmouseout=\"swapOff('btn_myaccount');\" /></a>");
+            else if ((qBU == "residential") && (qOceRegion == "Out")) {
+                document.write("<a href=\"https://residential.qwest.com/account/menu.jsp\"><img name=\"btn_myaccount\" src=\"/global/images/btn_myaccount.gif\" alt=\"MyAccount\" width=\"105\" height=\"28\" border=\"0\" hspace=\"7\" vspace=\"8\" onmouseover=\"swapOn('btn_myaccount');\" onmouseout=\"swapOff('btn_myaccount');\" /></a> <a href=\"https://iot.qwest.com/iot/cart/Summary.do\"><img name=\"btn_myProductsAndServices\" src=\"/global/images/btn_myProductsAndServices.gif\" alt=\"MyProductsAndServices\" width=\"114\" height=\"10\" border=\"0\" hspace=\"7\" vspace=\"0\";\" /></a>");
             }
             else {
-                document.write("<a href=\"https://kai08.qwest.com/cwt/qwest/CustomerLogin.aspx\"><img name=\"btn_myaccount\" src=\"/global/images/btn_myaccount.gif\" alt=\"MyAccount\" width=\"105\" height=\"28\" border=\"0\" hspace=\"7\" vspace=\"11\" onmouseover=\"swapOn('btn_myaccount');\" onmouseout=\"swapOff('btn_myaccount');\" /></a>");
-		    		}
+                document.write("<a href=\"https://kai08.qwest.com/cwt/qwest/CustomerLogin.aspx\"><img name=\"btn_myaccount\" src=\"/global/images/btn_myaccount.gif\" alt=\"MyAccount\" width=\"105\" height=\"28\" border=\"0\" hspace=\"7\" vspace=\"8\" onmouseover=\"swapOn('btn_myaccount');\" onmouseout=\"swapOff('btn_myaccount');\" /></a> <a href=\"https://iot.qwest.com/iot/cart/Summary.do\"><img name=\"btn_myProductsAndServices\" src=\"/global/images/btn_myProductsAndServices.gif\" alt=\"MyProductsAndServices\" width=\"114\" height=\"10\" border=\"0\" hspace=\"7\" vspace=\"0\";\" /></a>");
+		    }
             var section = qBU;
 
 						document.write("</td>");
     		//-->
-    		</script><td bgcolor="#d6e1ee"><a href="https://kai08.qwest.com/cwt/qwest/CustomerLogin.aspx"><img name="btn_myaccount" src="/global/images/btn_myaccount.gif" alt="MyAccount" width="105" height="28" border="0" hspace="7" vspace="11" onmouseover="swapOn('btn_myaccount');" onmouseout="swapOff('btn_myaccount');"></a></td>
+    		</script><td bgcolor="#d6e1ee"><a href="https://kai08.qwest.com/cwt/qwest/CustomerLogin.aspx"><img name="btn_myaccount" src="/global/images/btn_myaccount.gif" alt="MyAccount" width="105" height="28" border="0" hspace="7" vspace="8" onmouseover="swapOn('btn_myaccount');" onmouseout="swapOff('btn_myaccount');"></a> <a href="https://iot.qwest.com/iot/cart/Summary.do"><img name="btn_myProductsAndServices" src="/global/images/btn_myProductsAndServices.gif" alt="MyProductsAndServices" width="114" height="10" border="0" hspace="7" vspace="0" ;"=""></a></td>
 		<td><img src="/global/images/spacer.gif" width="1" height="62" border="0"></td>
 	</tr>
 
@@ -196,7 +200,7 @@ var qOceRegionSB = getOceQCookie("qwestRegionSmallBusiness");
 				<tbody><tr>
 					<td><a href="http://www.qwest.com/"><img name="btn_home" src="/global/images/btn_home.gif" width="60" height="39" border="0" alt="Home" onmouseover="swapOn('btn_home');" onmouseout="swapOff('btn_home');"></a></td>
 					<td><img name="home_residential" src="/global/images/vertical_dotted_dark.gif" alt="-" width="1" height="39" border="0"></td>
-					<td><a href="http://www.qwest.com/residential/"><img name="btn_residential" src="/global/images/btn_residential.gif" width="96" height="39" border="0" alt="Residential" onmouseover="swapOn('btn_residential');" onmouseout="swapOff('btn_residential');"></a></td>
+					<td><a href="http://pcat.qwest.com/pcat/residential.do"><img name="btn_residential" src="/global/images/btn_residential.gif" width="96" height="39" border="0" alt="Residential" onmouseover="swapOn('btn_residential');" onmouseout="swapOff('btn_residential');"></a></td>
 					<td><img name="residential_sb" src="/global/images/vertical_dotted_dark.gif" alt="-" width="1" height="39" border="0"></td>
 					<td><a href="http://pcat.qwest.com/pcat/smallBusiness.do"><img name="btn_smallbusiness" src="/global/images/btn_smallbusiness.gif" width="124" height="39" border="0" alt="Small Business" onmouseover="swapOn('btn_smallbusiness');" onmouseout="swapOff('btn_smallbusiness');"></a></td>
 					<td><img name="sb_lb" src="/global/images/vertical_dotted_dark.gif" alt="-" width="1" height="39" border="0"></td>
@@ -312,6 +316,12 @@ if (qBU != "corporate") {
           <td><img src="/imgs/gra-arrow.gif" width="10" height="9" border="0" vspace="3"></td>
           <td><a href="/legal/regulatory.html" class="darkGHead">Regulatory Documents</a><br><br></td>
         </tr>
+        <tr valign="top">
+          <td><img src="/imgs/gra-arrow.gif" width="10" height="9" border="0" vspace="3"></td>
+          <td><a href="/legal/arizona/index.html" class="darkGHead">Arizona Consumers</a><br>
+              <br>
+          </td>
+        </tr>
         <tr valign="top"> 
           <td><img src="/imgs/gra-arrow.gif" width="10" height="9" border="0" vspace="3"></td>
           <td><a href="/legal/washington/index.html" class="darkGHead">Washington Consumers</a><br><br></td>
@@ -322,7 +332,21 @@ if (qBU != "corporate") {
         </tr>
         <tr valign="top"> 
           <td><img src="/imgs/gra-arrow.gif" width="10" height="9" border="0" vspace="3"></td>
-          <td><a href="/legal/peering.html" class="darkGHead">IP Network Peering Policy</a><br><br></td>
+          <td><a href="/legal/peering_na.html" class="darkGHead">North America IP Network Peering Policy</a><br><br></td>
+        </tr>
+        <tr valign="top">
+          <td><img src="/imgs/gra-arrow.gif" width="10" height="9" border="0" vspace="3"></td>
+          <td><a href="/legal/peering_int.html" class="darkGHead">International
+              IP Network Peering Policy</a><br>
+              <br>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td><img src="/imgs/gra-arrow.gif" width="10" height="9" border="0" vspace="3"></td>
+          <td><a href="/legal/electronicsignatures.html" class="darkGHead">Electronic
+              Signatures</a><br>
+              <br>
+          </td>
         </tr>
       </tbody></table>
 
@@ -505,7 +529,7 @@ var s_eVar5=""
   </tr>
   <tr>
     <td align="center" class="footer" colspan="2">
-      © 2004 Qwest Communications International Inc. All Rights Reserved |
+      Copyright © 2004 Qwest |
       <a href="http://www.qwest.com/legal/index.html" class="footerlink">Legal Notices</a> |
       <a href="http://www.qwest.com/legal/privacy.html" class="footerlink">Privacy Policy</a>
     </td>
@@ -543,7 +567,7 @@ else {
 
 if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
 //-->
-</script><img src="https://102.112.2O7.net/b/ss/qwestfull/1/G.2--FB/s1580450143271?[AQB]&amp;pageName=Corporate%20%7C%20Legal%20%7C%20Customer%20Privacy%20Policy&amp;server=&amp;ch=Corporate&amp;[AQE]" height="1" width="1" border="0">
+</script><img src="https://102.112.2O7.net/b/ss/qwestfull/1/G.2--FB/s1580450143089?[AQB]&amp;pageName=Corporate%20%7C%20Legal%20%7C%20Customer%20Privacy%20Policy&amp;server=&amp;ch=Corporate&amp;[AQE]" height="1" width="1" border="0">
 <noscript><img src="https://102.112.2O7.net/b/ss/qwestfull/1/G.2-Pd-S?c10=Non%20JavaScript" alt="" height="1" width="1" border="0" /></noscript>
 <!-- End SiteCatalyst code version: G.2. -->
 
@@ -551,7 +575,7 @@ if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + 
 <script language="JavaScript" type="text/javascript" src="/global/includes/lpCustomTrackingScript.js"></script>
 
 <!-- LivePerson Monitor Tag Script-->
-<script language="JavaScript" type="text/javascript" src="https://server.iad.liveperson.net/hc/78221172/x.js?cmd=file&amp;file=chatScript3&amp;site=78221172&amp;imageUrl=https://ecom2.qwest.com:4443/ebus/imgs/c2c/"></script>
+<script language="JavaScript" type="text/javascript" src="https://server.iad.liveperson.net/hc/78221172/x.js?cmd=file&amp;file=chatScript3&amp;site=78221172&amp;imageUrl=https://ecom.qwest.com/www/imgs/c2c/"></script>
 <!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 <!-- End Global Footer Body Include -->
 
