@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606203636id_/http%3A//www.thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204221953id_/http%3A//www.thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
 
 # Privacy at theKidzpage.com
 
   
-**[_Navigation_](https://web.archive.org/web/20040606203636id_/http%3A//www.thekidzpage.com/html/information.htm) \- ****Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20040606203636id_/http%3A//www.thekidzpage.com/html/linktous.htm)  
-**[](http://www.cybersitter.com/)[](http://www.cybersitter.com/)[](http://www.netnanny.com/)[](http://www.safesurf.com/)
+**[_Navigation_](https://web.archive.org/web/20041204221953id_/http%3A//www.thekidzpage.com/html/information.htm) \- ****Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20041204221953id_/http%3A//www.thekidzpage.com/html/linktous.htm)  
+**[](http://www.cybersitter.com/)[](http://www.netnanny.com/)[](http://www.safesurf.com/)
 
 Security | Removing/Changing Information | Children's Guidelines | Contacting the Site | Copyright Information
 
@@ -15,8 +15,6 @@ Above all, we work hard to ensure that our web site is one of the safest places 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
 Non-membership areas of our website do not contain forms which require users to give us contact information (like their name and email address). 
-
-**theKidzpage™** may adopt a free Member's Area, which requires basic contact information, including Name, State/Province, Country, Parent's Name (where applicable) and email address. In the interest of safety, however, we _**do not and will not**_ request more in-depth data such as home address, telephone number, school, etc... This information is used for contact purposes only, and will never be passed onto a third party, unless required under law.
 
 Demographic and profile data is collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
@@ -62,7 +60,7 @@ back to top
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-email [](mailto:webmaster@thekidzpage.com)**webmaster @thekidzpage.com** (marked with "update" in the subject line) 
+email **webmaster @thekidzpage.com** (marked with "update" in the subject line) 
 
 back to top
 
@@ -70,13 +68,16 @@ back to top
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact : 
 
-The Web Site Manager,  **theKidzpage™** British Columbia Canada **webmaster** **@ thekidzpage.com**
+The Web Site Manager,  **theKidzpage™** London, Ontario Canada  
+(519) 4x3x5 \- 1x9x5x8 **webmaster** **@ thekidzpage.com**
+
+*Note: This website is developed in a private residential \- home office. Therefore, our physical address has not been posted here for all to see and simply "drop in". If for any valid reason, however, our physical address is required by you, we would be happy to give you the necessary information it if you contact us by email or telephone as indicated above. 
 
 back to top
 
 ## Copyright
 
-Although we may provide certain graphics, which _may_ be copied by our users, (i.e. The Kidz Page banners), materials which are _not specifically identified as available to users _**ARE NOT** available to anyone without our permission. All of the graphical and written content on **theKidzpage™** site are original pieces of artwork and writing, developed (under copyright) by our webmaster. (c)1998-2002, **theKidzpage™** and **divaDzine**.
+Although we may provide certain graphics, which _may_ be copied by our users, (i.e. The Kidz Page banners), materials which are _not specifically identified as available to users_ **ARE NOT** available to anyone without our permission. All of the graphical and written content on **theKidzpage™** site are original pieces of artwork and writing, developed (under copyright) by our webmaster. (c)1998-2004, **theKidzpage™** and **divaDzine**.
 
 We hope that our contribution to kids' Internet experiences is a valuable one, and that you and your family enjoy this site.
 
