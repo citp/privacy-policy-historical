@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the altru.org privacy policy that was archived on 2002-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020609211014id_/http%3A//www.altru.org/Policies/Priv_pol.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the altru.org privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208174326id_/http%3A//www.altru.org/Policies/Priv_pol.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Untitled</title>
@@ -42,7 +42,7 @@
 	.time{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 8pt; color : White; font-weight : bold; }
 	.hvText{font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 8pt; color : White; font-weight : bold; }
 	.hvFoot{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 9pt; color : #FFFFFF; font-weight : bold; text-decoration : none;}
-	A.hvLinks{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 9pt; color : #003399; font-weight : bold; text-decoration : none;}
+	A.hvLinks{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 8pt; color : #003399; font-weight : bold; text-decoration : none;}
 	A.hvFoot{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 9pt; color : #FFFFFF; font-weight : bold; text-decoration : none;}
 	A.hvFootsm{ font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 8pt; color : #FFFFFF; font-weight : bold; text-decoration : none;}
 	A.Foot:link{ color:#FFFFFF;}
@@ -91,7 +91,7 @@ var bw=new lib_bwcheck()
 <!-- fold number is the total number of div tops -->
 <!-- folfimg 1 is yes for arrows, 0 is no for arrows -->
 <!-- mainOffsetY is distance between top level buttons -->
-FoldNumber = 8		
+FoldNumber = 7		
 var stayFolded = false			
 foldImg = 1						
 mainOffsetY = 0				
@@ -219,13 +219,21 @@ window.status=""
  if (pathString.indexOf("/entcenter/") != -1){
     menu(1);
          	}
+ if (pathString.indexOf("/familybirthingcenter/") != -1){
+    menu(1);
+         	}
+ if (pathString.indexOf("/heartservices/") != -1){
+    menu(1);
+         	}
  if (pathString.indexOf("/orthopedics/") != -1){
     menu(1);
          	}
  if (pathString.indexOf("/vascularcenter/") != -1){
     menu(1);
          	}
-         	
+ if (pathString.indexOf("/ambulatorycenter/") != -1){
+    menu(1);
+         	}         	
   if (pathString.indexOf("/physicians/") != -1){
     menu(0);
          	}			
@@ -256,14 +264,11 @@ if (pathString.indexOf("/selfhelp/") != -1){
   if (pathString.indexOf("/patientresources/") != -1){
     menu(4);
  	}
-  if (pathString.indexOf("/altruchoice/") != -1){
-    menu(5);
-         	}
   if (pathString.indexOf("/aboutaltru/") != -1){
-    menu(6);
+    menu(5);
          	}       		
   if (pathString.indexOf("/jobopportunities/") != -1){
-    menu(7);
+    menu(6);
  	}
 
  	return false;
@@ -290,6 +295,15 @@ else  if (pathString.indexOf("/orthopedics/") != -1){
          	}
 else  if (pathString.indexOf("/entcenter/") != -1){
     document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_ent.gif >")
+         	}
+else  if (pathString.indexOf("/familybirthingcenter/") != -1){
+    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_birth.gif >")
+         	}
+else  if (pathString.indexOf("/heartservices/") != -1){
+    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_heart.gif >")
+         	}
+else  if (pathString.indexOf("/ambulatorycenter/") != -1){
+    document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/bg_ambulatory.gif>")
          	}
 else{
     document.write("<BODY ONLOAD=initFoldout();expandit(); LINK=#003399 VLINK=#006600 ALINK=#000000 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 RIGHTMARGIN=0 BOTTOMMARGIN=0 TOPMARGIN=0 LEFTMARGIN=0 BACKGROUND=/theme/images/Interface/big_bg.gif >")
@@ -331,7 +345,7 @@ colorIt();
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/physicians/" class="clSubb">Physician Search</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.altru.org/altrunursery/default.htm" class="clSubb">Nursery Net</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/accessaltru/foundation.htm" class="clSubb">Altru Health Foundation</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/accessaltru/facilities.htm" class="clSubb">Facilities/Care Centers</a><br>
+			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/accessaltru/facilities.htm" class="clSubb">Facilities/Care<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Centers</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/accessaltru/services.htm" class="clSubb">Services</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/accessaltru/contactus.htm" class="clSubb">Contact Us</a><br>
 			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="space" border="0"><br>
@@ -340,8 +354,11 @@ colorIt();
 		<div id="divSub1" class="clSub" style="visibility: hidden;">
 		     <img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="space" border="0"><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/cancercenter/c_default.htm" class="clSubb">Altru Cancer Center</a><br>
+			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/ambulatorycenter/a_default.htm" class="clSubb">Ambulatory Procedure<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Center</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/diabetescenter/d_default.htm" class="clSubb">Diabetes Center</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/entcenter/e_default.htm" class="clSubb">ENT Center</a><br>
+			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/familybirthingcenter/f_default.htm" class="clSubb">Family Birthing Center</a><br>
+			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/heartservices/h_default.htm" class="clSubb">Heart Services</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/orthopedics/o_default.htm" class="clSubb">Orthopedics</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/vascularcenter/v_default.htm" class="clSubb">Vascular Center</a><br>
 			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="space" border="0"><br>
@@ -349,10 +366,11 @@ colorIt();
 	</div><div id="divTop2" class="clTop" style="left: 0px; top: 70px;"><a href="/healthwellness/" onclick="menu(2); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA2" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/healthwellness/"><img src="/theme/images/Interface/healthwellness.gif" width="136" height="17" alt="Health and Wellness" border="0"></a><br>
 		<div id="divSub2" class="clSub" style="visibility: hidden;">
 			<img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="" border="0"><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/yourhealth/" class="clSubb">Health Information</a><br>
+			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/healthnews/healthnews.htm" class="clSubb">Health News</a><br>
+			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/library/healthlibrary.htm" class="clSubb">Health Library</a><br>
+			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/healthtopics/healthtopics.htm" class="clSubb">Health Topics</a><br>
+			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/healthyliving/healthyliving.htm" class="clSubb">Healthy Living</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/events/" class="clSubb">Classes/Screenings/<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Support Groups </a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/library/healthguide/SelfHelp/Default.htm" class="clSubb">Self Help Resources</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/healthwellness/healthfaqs.htm" class="clSubb">FAQs</a><br>
 			
 			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="space" border="0"><br>
 		</div><br>
@@ -370,16 +388,8 @@ colorIt();
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/patientresources/contactus.htm" class="clSubb">Contact Us</a><br>
 			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="" border="0"><br>
 		</div><br>
-	</div>	<div id="divTop5" class="clTop" style="left: 0px; top: 175px;"><a href="/altruchoice/" onclick="menu(5); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA5" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/altruchoice/"><img src="/theme/images/Interface/choice.gif" width="136" height="17" alt="AltruChoice" border="0"></a><br>
+	</div>	<div id="divTop5" class="clTop" style="left: 0px; top: 175px;"><a href="/aboutaltru/" onclick="menu(5); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA5" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/aboutaltru/"><img src="/theme/images/Interface/about.gif" width="136" height="17" alt="About Altru" border="0"></a><br>
 		<div id="divSub5" class="clSub" style="visibility: hidden;">
-		     <img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="space" border="0"><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.bcbsnd.com/cgi-bin/parsearch.cgi" target="_blank" class="clSubb">Participating Providers</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.bcbsnd.com/pharmacy/formulary.html" target="_blank" class="clSubb">Drug Formulary</a><br>
-			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.bcbsnd.com/insurance/index.html" target="_blank" class="clSubb">Eligibility</a><br>
-			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="" border="0"><br>
-		</div><br>
-	</div>	<div id="divTop6" class="clTop" style="left: 0px; top: 210px;"><a href="/aboutaltru/" onclick="menu(6); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA6" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/aboutaltru/"><img src="/theme/images/Interface/about.gif" width="136" height="17" alt="About Altru" border="0"></a><br>
-		<div id="divSub6" class="clSub" style="visibility: hidden;">
 		     <img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="space" border="0"><br>		
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/mission.htm" class="clSubb">Mission/History</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/communityservice.htm" class="clSubb">Community Service</a><br>
@@ -392,8 +402,8 @@ colorIt();
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/aboutaltru/news.htm" class="clSubb">Altru News</a><br>
 			 <img src="/theme/images/Interface/botton_rule.gif" width="163" height="3" alt="space" border="0"><br>
 		</div><br>
-	</div>	<div id="divTop7" class="clTop" style="left: 0px; top: 245px;"><a href="/jobopportunities/" onclick="menu(7); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA7" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/jobopportunities/"><img src="/theme/images/Interface/job.gif" width="136" height="17" alt="Job Opportunities" border="0"></a><br>
-		<div id="divSub7" class="clSub" style="visibility: hidden;">
+	</div>	<div id="divTop6" class="clTop" style="left: 0px; top: 210px;"><a href="/jobopportunities/" onclick="menu(6); return false" class="clMain"><img src="/theme/images/Interface/arrow_off.gif" name="imgA6" width="27" height="17" alt="Click to expand menu." border="0"></a><a href="/jobopportunities/"><img src="/theme/images/Interface/job.gif" width="136" height="17" alt="Job Opportunities" border="0"></a><br>
+		<div id="divSub6" class="clSub" style="visibility: hidden;">
 		     <img src="/theme/images/Interface/top_rule.gif" width="163" height="4" alt="space" border="0"><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/jobs/" class="clSubb">Job Openings</a><br>
 			 &nbsp; &nbsp; &nbsp; &nbsp;<a href="/jobopportunities/jobbenefits.htm" class="clSubb">Benefits</a><br>
@@ -425,8 +435,8 @@ colorIt();
 <tbody><tr><form name="search" method="get" action="/search/searchresult.asp"></form>
 <td nowrap="" background="/theme/images/Interface/top_bg.gif">
 <img src="/theme/images/Interface/nothing.gif" height="2" alt="space" border="0"><br clear="all">
-<span class="hvText"><a href="/physicians/" class="hvLinks">Physician Search</a> | <a href="http://www.altru.org/altrunursery/default.htm" class="hvLinks">Nursery Net</a> | <a href="/frontpage/sitemap.htm" class="hvLinks">Site Map</a></span> &nbsp; &nbsp; <span class="time"><script language="JavaScript1.2" src="/theme/images/date.js"></script>Jan. 31, 2020</span> &nbsp; &nbsp; <input type="image" src="/theme/images/interface/search.gif" width="81" height="11" alt="Click to start search." border="0" id="image1" name="image1">
-<input alt="Enter a keyword to search on." type="text" name="q1" size="10"><br><img src="/theme/images/Interface/nothing.gif" height="4" alt="space" border="0"><br>
+<span class="hvText"><a href="/physicians/" class="hvLinks">Physician Search</a> | <a href="http://www.altru.org/altrunursery/default.htm" class="hvLinks">Nursery Net</a> | <a href="/frontpage/waysofgiving.htm" class="hvLinks">Ways of Giving</a></span> &nbsp; &nbsp;<span class="time"><script language="JavaScript1.2" src="/theme/images/date.js"></script>Jan. 31, 2020</span> &nbsp; &nbsp;<input type="image" src="/theme/images/interface/search.gif" width="81" height="11" alt="Click to start search." border="0" id="image1" name="image1">
+<input alt="Enter a keyword to search on." type="text" name="q1" size="9"><br><img src="/theme/images/Interface/nothing.gif" height="4" alt="space" border="0"><br>
 </td></tr>
 <tr><td valign="top">
 <!-- Begin Body Table -->
@@ -630,7 +640,7 @@ You may remove previously provided personal and/or health-related personal infor
 <a href="http://www.healthvision.com" target="_blank" class="hvFootsm">
 <img src="/theme/images//Interface/starfish.gif" align="left" width="38" height="31" alt="Powered by HEALTHvision" border="0">
 <span style="color: White;">Powered by<br> HEALTHvision</span></a></td><td align="center">
-<a href="/frontpage/" class="hvFoot"><span style="color: White;">Home</span></a> <span class="hvText">|</span> <a href="/frontpage/contactus.htm" class="hvFoot"><span style="color: White;">Contact Us</span></a> <span class="hvText">|</span><b> <span class="hvFoot" style="color: White;">Copyright 2001 Altru</span></b><br><a class="hvFoot" href="/Policies/Priv_pol.htm"><span style="color: White;">Privacy Policy</span></a> <span class="hvText">|</span> <a class="hvFoot" href="/Policies"><span style="color: White;">Policies &amp; Ownership</span></a><br>
+<a href="/frontpage/" class="hvFoot"><span style="color: White;">Home</span></a> <span class="hvText">|</span> <a href="/frontpage/contactus.htm" class="hvFoot"><span style="color: White;">Contact Us</span></a> <span class="hvText">|</span> <a href="/frontpage/sitemap.htm" class="hvFoot"><span style="color: White;">Site Map</span></a> <span class="hvText">|</span><b> <span class="hvFoot" style="color: White;">Copyright 2001 Altru</span></b><br><a class="hvFoot" href="/Policies/Priv_pol.htm"><span style="color: White;">Privacy Policy</span></a> <span class="hvText">|</span> <a class="hvFoot" href="/Policies"><span style="color: White;">Policies &amp; Ownership</span></a><br>
 <a href="http://www.altru.org/includes/PrintBuilder.asp?URL=/Policies/Priv_pol.htm&amp;QS=" target="_blank"><img border="0" src="/includes/PrintPage.gif"></a>
 
 </td></tr></tbody></table>
