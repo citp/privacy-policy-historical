@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropzone.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410040917id_/http%3A//www.dropzone.com/about/PrivacyStatement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropzone.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205072255id_/http%3A//www.dropzone.com/about/PrivacyStatement.shtml) for the most accurate reproduction.*
 
 # About Dropzone.com
 
