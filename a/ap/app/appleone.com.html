@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the appleone.com privacy policy that was archived on 2002-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020408164429id_/http%3A//www.appleone.com/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appleone.com privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206190327id_/http%3A//www.appleone.com/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 
@@ -76,8 +76,8 @@ function HelpWindowold(){
 
 		
 function ShowAdvanceLink(){
-	var object = 'AdvanceSearch'
-	var okShow
+	var object = 'AdvanceSearch';
+	var okShow;
 	var xCo;
 	var yCo;
 	with(document.frmQuckSearch){
@@ -130,6 +130,13 @@ function QuickSearch(){
 		submit();
 	}
 }
+function QuickSubscribe(){
+	if (document.frmQuickSubscribe.hdnEmail.value.length != 0 && document.frmQuickSubscribe.hdnEmail.value.indexOf("@") > 0) {
+		document.frmQuickSubscribe.submit();
+	} else {
+		alert("Please enter a valid e-mail address");	
+	}
+}
 
 var helpWindow
 function HelpWindow(){
@@ -175,13 +182,7 @@ function ShowAdvanceSearch(){
 <td id="---Navigation---" valign="top">
 <table cellpadding="0" cellspacing="0" width="150" border="0">
 <tbody><tr><td>&nbsp;</td><td><table cellpadding="0" cellspacing="0" width="140" border="0">
-<tbody><tr><td><img src="/images/misc/blank.gif" width="10" height="1"></td><td><img src="/images/misc/blank.gif" width="120" height="1"></td></tr>
-<tr><td valign="top"><img src="/images/misc/blkBullet.gif" width="10" height="10"></td><td><a class="navHead" href="/career_seekers/"><b>Career Seekers</b></a></td><td align="right"></td></tr>
-<tr><td valign="top"><img src="/images/misc/blkBullet.gif" width="10" height="10"></td><td nowrap=""><a class="navHead" href="/Emerging_Businesses/"><b>Emerging Businesses</b></a></td><td align="right"></td></tr>
-<tr><td valign="top"><img src="/images/misc/blkBullet.gif" width="10" height="10"></td><td><a class="navHead" href="/Large_Businesses/"><b>Large Enterprises</b></a></td><td align="right"></td></tr>
-<tr><td valign="top"><img src="/images/misc/blkBullet.gif" width="10" height="10"></td><td><a class="navHead" href="/localOffice.asp"><b>Find Local Office</b></a></td><td align="right"></td></tr>
-<tr><td valign="top"><img src="/images/misc/blkBullet.gif" width="10" height="10"></td><td><a class="navHead" href="/contact.asp"><b>Contact Us</b></a></td><td align="right"></td></tr>
-</tbody></table></td></tr></tbody></table>
+</table></td></tr></tbody></table>
 </td>
 <td id="---Spacer1---" background="/Images/Background/dividerBack.gif">&nbsp;</td>
 	<td id="---content---" valign="top" class="normal">
@@ -220,7 +221,7 @@ provide and support on-going benefit offerings. </p>
 utilizes e-mail to share valuable information with those associates who 
 have requested to be kept informed regarding career searches, employment 
 opportunities and special benefits available to associates. Associates may 
-choose to Opt-Out of these distributions at any time.</p>
+choose to <a href="/Subs/">Opt-Out</a> of these distributions at any time.</p>
 
 <p><b>5. Site Logs and Web Statistics </b><br>AppleOne collects 
 statistical information in aggregate regarding the utilization of its web 
