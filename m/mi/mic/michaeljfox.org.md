@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602115123id_/http%3A//www.michaeljfox.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610123634id_/http%3A//www.michaeljfox.org/privacypolicy.php) for the most accurate reproduction.*
 
-# Michael J. Fox Foundation - Privacy Policy
+# Privacy Policy
 
-  
-| 
-
-PRIVACY POLICY
+PRIVACY POLICY  
+ [Home](http://www.michaeljfox.org/) / [Privacy Policy](http://www.michaeljfox.org/privacypolicy.php)
 
 The Michael J. Fox Foundation for Parkinson's Research is committed to safeguarding your privacy. This statement explains our online information practices and the choices you can make about the way the information you provide us is collected and used. For easy and direct access, we provide a link to this statement from our home page and all other pages of the site. 
 
@@ -43,9 +41,7 @@ Contact Us
 
 If you have specific questions or concerns about the Foundation's privacy policy, please contact us at the following address:
 
-**The Michael J. Fox Foundation for Parkinson's Research  
-Grand Central Station  
-P.O. Box 4777  
-New York, NY 10163 **
-
-|  
+> The Michael J. Fox Foundation for Parkinson's Research  
+>  Grand Central Station  
+>  P.O. Box 4777  
+>  New York, NY 10163 
