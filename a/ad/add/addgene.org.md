@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2004-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041026075951id_/http%3A//www.addgene.com%3A8080/pgvec1%3Fcmd%3Dshowfile%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306125734id_/http%3A//www.addgene.org%3A8080/pgvec1%3Ff%3Da%26cmd%3Dshowfile%26file%3Dprivacy) for the most accurate reproduction.*
 
 # Addgene's Privacy Information
 
@@ -62,4 +62,4 @@ If, however, Addgene was going to use customers' personally identifiable informa
 
 ### Contact Information
 
-If you have any questions or concerns, please [contact us](http://www.addgene.com:8080/pgvec1?f=a&cmd=showfile&file=contact). 
+If you have any questions or concerns, please [contact us](http://www.addgene.org:8080/pgvec1?f=a&cmd=showfile&file=contact). 
