@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209074444id_/http%3A//www.pcfaster.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609061936id_/http%3A//pcfaster.com/privacy.htm) for the most accurate reproduction.*
 
 # Startup Faster! 2004 - Make your PC Faster than ever.
 
-| [](http://www.pcfaster.com/) | [](https://web.archive.org/web/20031209074444id_/http%3A//www.pcfaster.com/products.htm) | [](https://web.archive.org/web/20031209074444id_/http%3A//www.pcfaster.com/order.htm) | [](https://web.archive.org/web/20031209074444id_/http%3A//www.pcfaster.com/support.htm) | [](https://web.archive.org/web/20031209074444id_/http%3A//www.pcfaster.com/contact.htm) | [](https://web.archive.org/web/20031209074444id_/http%3A//www.pcfaster.com/affiliate.htm)  
----|---|---|---|---|---  
   
 
 
 URSoft,Inc Privacy Policy
 
-   
+|    
 ---  
   
 We are committed to protecting your privacy and the privacy of information you provide to us.  **URSoft,Inc will never sell, rent, lease or even disclose customer information to third parties.**   Other terms of URSoft,Inc' privacy policy are as follows:
@@ -55,3 +53,5 @@ Copyright c2003 by URSoft,Inc Ltd. All rights reserved.
   
 **Related Topics** **  
 **  
+
+**Related Topics**
