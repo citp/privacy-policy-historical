@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the statcounter.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618102804id_/http%3A//www.statcounter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statcounter.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231090755id_/http%3A//www.statcounter.com/privacy.html) for the most accurate reproduction.*
 
 # StatCounter Privacy Policy
 
-At StatCounter we are heavily committed to your privacy. We despire spam. We believe people who send spam should spend time in prison for wasting the world's time. Maintaining the privacy and integrity of your account is of paramount importance to us. If you would like to see our privacy policy include something else, then please get in contact with us.
+At StatCounter we are heavily committed to your privacy. We despise spam. We believe people who send spam should spend time in prison for wasting the world's time. Maintaining the privacy and integrity of your account is of paramount importance to us. If you would like to see our privacy policy include something else, then please get in contact with us.
 
 StatCounter.com respects the privacy and rights of its visitors. No effort is made to identify individuals without their knowledge.
 
