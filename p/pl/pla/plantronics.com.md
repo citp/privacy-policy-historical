@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604104118id_/http%3A//plantronics.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031124357id_/http%3A//plantronics.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Plantronics - Product Registration
+# Plantronics - Privacy Policy
 
 Plantronics, Inc. ("Plantronics") is committed to protecting the privacy of consumers visiting our websites and purchasing our products. Plantronics wishes to maintain a safe and secure environment for all users of our online products and services. Please read the following Privacy Statement to understand how your personal information is treated. From time to time Plantronics may offer new products and/or services online which may affect this policy, which will be updated as needed. Please check back with us periodically. If you have any questions or concerns regarding this Privacy Statement, please send an e-mail to [webmaster@plantronics.com](mailto:webmaster@plantronics.com). This Privacy Statement answers the following questions for you regarding your online privacy protection:
 
