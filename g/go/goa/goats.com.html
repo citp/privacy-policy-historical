@@ -1,0 +1,420 @@
+<!--The following is the downloaded HTML source of the goats.com privacy policy that was archived on 2003-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030624040740id_/http%3A//www.goats.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>goats: the privacy policy</title>
+<meta name="resource-type" content="document">
+<meta name="description" content="The privacy policy for Goats: The Comic Strip, chronicling the adventures of two hapless antisocialites, their amorous pet goat, an evil yet clueless chicken, and an assorted cast of eggplants, sadistic bartenders, manic aliens, and Frank Coffee.">
+<meta name="keywords" content="goats, goat, comic, strip, comic strip, goats comic strip, jon, phillip, toothgnip, diablo, lori, beer, pub, bar, couch, television, sarcasm, frank coffee, lynda, orange drink, nihilism, sex, drinking, alcohol, dating, strange, hops, malt, yeast, homebrew, dilbert, bloom county, fish, biff, humor, funny,privacy policy">
+<meta name="distribution" content=" global ">
+<meta name="copyright" content="all contents ©1997-2003 Goats LLC. all rights reserved. unauthorized copying or distribution of anything on this site is prohibited.">
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+<meta name="revisit-after" content="2 days">
+<script language="JavaScript" type="text/javascript">
+if (document.images) {
+
+	nav_archive_on = new Image();           // Active images
+	nav_archive_on.src = "/images/nav_archive_on.gif";  
+	nav_store_on = new Image();        
+	nav_store_on.src = "/images/nav_store_on.gif";  
+	nav_news_on = new Image();        
+	nav_news_on.src = "/images/nav_news_on.gif";  
+	nav_bios_on = new Image();        
+	nav_bios_on.src = "/images/nav_bios_on.gif";  
+	nav_forums_on = new Image();        
+	nav_forums_on.src = "/images/nav_forums_on.gif";  
+	nav_features_on = new Image();        
+	nav_features_on.src = "/images/nav_features_on.gif";  
+	nav_pub_on = new Image();        
+	nav_pub_on.src = "/images/nav_pub_on.gif"; 
+	nav_premium_on = new Image();        
+	nav_premium_on.src = "/images/nav_premium_on.gif";   
+	nav_exit_on = new Image();        
+	nav_exit_on.src = "/images/nav_exit_on.gif";  
+	nav_prev_on = new Image();        
+	nav_prev_on.src = "/images/nav_prev_on.gif";  
+	nav_next_on = new Image();        
+	nav_next_on.src = "/images/nav_next_on.gif"; 
+	
+	nav_archive_off = new Image();           // Inactive images
+	nav_archive_off.src = "/images/nav_archive_off.gif";  
+	nav_store_off = new Image();        
+	nav_store_off.src = "/images/nav_store_off.gif";  
+	nav_news_off = new Image();        
+	nav_news_off.src = "/images/nav_news_off.gif";  
+	nav_bios_off = new Image();        
+	nav_bios_off.src = "/images/nav_bios_off.gif";  
+	nav_forums_off = new Image();        
+	nav_forums_off.src = "/images/nav_forums_off.gif";  
+	nav_features_off = new Image();        
+	nav_features_off.src = "/images/nav_features_off.gif";  
+	nav_pub_off = new Image();        
+	nav_pub_off.src = "/images/nav_pub_off.gif";  
+	nav_premium_off = new Image();        
+	nav_premium_off.src = "/images/nav_premium_off.gif";  
+	nav_exit_off = new Image();        
+	nav_exit_off.src = "/images/nav_exit_off.gif"; 
+	nav_prev_off = new Image();        
+	nav_prev_off.src = "/images/nav_prev_off.gif"; 
+	nav_next_off = new Image();        
+	nav_next_off.src = "/images/nav_next_off.gif"; 
+	
+	
+}
+
+
+
+var pageIsLoaded = false;
+function checkLoad() {
+	pageIsLoaded = true;
+}
+
+function navimgOn(imgName,elementName) {
+	if (!elementName) { elementName = imgName; } 
+	//alert(elementName);
+	if (document.images) {
+		document[elementName].src = eval(imgName + "_on.src");
+	}
+}
+
+function navimgOff(imgName,elementName) {
+	if (!elementName) { elementName = imgName; } 
+
+	if (document.images) {
+		document[elementName].src = eval(imgName + "_off.src");
+	}
+}
+
+function vanish() {
+	
+	if (("none" != "archive") && ("none" != "lastfive")) {
+		navimgOff("nav_archive");
+	}
+	if ("none" != "store") {	
+		navimgOff("nav_store");
+	}
+	if ("none" != "news") {	
+		navimgOff("nav_news");
+	}
+	if ("none" != "bios") {	
+		navimgOff("nav_bios");
+	}
+	if ("none" != "forums") {	
+		navimgOff("nav_forums");
+	}
+	if ("none" != "features") {	
+		navimgOff("nav_features");
+	}
+	if ("none" != "pub") {	
+		navimgOff("nav_pub");
+	}
+	if ("none" != "premium") {	
+		navimgOff("nav_premium");
+	}
+	vanishDivs();
+
+}
+
+function vanishDivs() {
+
+	if (!document.layers) {
+
+		document.getElementById('subnavArchive').style.visibility='hidden';
+		document.getElementById('subnavStore').style.visibility='hidden';
+		document.getElementById('subnavNews').style.visibility='hidden';
+		document.getElementById('subnavBios').style.visibility='hidden';
+		document.getElementById('subnavForums').style.visibility='hidden';
+		document.getElementById('subnavFeatures').style.visibility='hidden';
+		document.getElementById('subnavPub').style.visibility='hidden';
+		document.getElementById('subnavPremium').style.visibility='hidden';
+		//subnavExit.style.visibility='hidden';
+	}
+}
+
+
+
+var timerID;
+var section;
+var prefix = "nav_";
+var currentSection = (prefix + "none");
+
+function menuOn(mysection) {
+	if (pageIsLoaded == true) {
+		if (!document.layers) {
+			var mysection2 = mysection.toLowerCase();
+			mysection2 = ("nav_" + mysection2.substring(6));
+			stopHidesub();
+			if (document.getElementById(mysection)) {
+				vanish();
+			}
+			navimgOn(mysection2);
+			document.getElementById(mysection).style.visibility='visible';
+		} else {
+			var mysection2 = mysection.toLowerCase();
+			mysection2 = ("nav_" + mysection2.substring(6));
+			navimgOn(mysection2);
+			
+		}
+	} else{
+		return true;
+	}
+}
+
+
+
+function hidesub(secname) {
+	section = secname;
+	timerID = setTimeout("vamoose();",500);
+}
+function vamoose() {
+	vanish();
+	//alert(section);
+	//alert(currentSection);
+	if (section == currentSection) {
+		navimgOn(section);
+	}
+	else {
+		navimgOff(section);
+	}
+	
+}
+
+function stopHidesub() {
+	clearTimeout(timerID);
+}
+
+function secondlevelOn(selectedItem) {
+	document.getElementById(selectedItem).style.backgroundColor = 'cccccc';
+	document.getElementById(selectedItem).style.color = '000000';
+}
+
+
+function secondlevelOff(selectedItem) {
+	document.getElementById(selectedItem).style.backgroundColor = '666666';
+	document.getElementById(selectedItem).style.color = 'ffffff';
+}
+</script>
+
+
+<script language="JavaScript" type="text/javascript">
+	if (document.layers) {
+document.write('\<LINK REL=\"stylesheet\" TYPE=\"text/css\" HREF=\"/ns4styles.css\">');
+} else {
+document.write('\<LINK REL=\"stylesheet\" TYPE=\"text/css\" HREF=\"/styles.css\">');
+}
+</script><link rel="stylesheet" type="text/css" href="/styles.css">
+<noscript>
+<LINK REL="stylesheet" TYPE="text/css" HREF="/styles.css">
+</noscript>
+
+<script type="text/javascript" src="/scripts/nicetitle.js"></script>
+</head>
+<body bgcolor="#000000" text="#000000" link="#ff6666" vlink="#ff6666" alink="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div class="subnavArchive" onmouseover="stopHidesub();navimgOn('nav_archive')" onmouseout="hidesub('nav_archive');" id="subnavArchive">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_1_1');" onmouseout="secondlevelOff('subnav_1_1');" onclick="location='/archive/lastfive.html';" id="subnav_1_1">&nbsp;&nbsp;lastfive&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_1_2');" onmouseout="secondlevelOff('subnav_1_2');" onclick="location='/archive/';" id="subnav_1_2">&nbsp;&nbsp;yesterday's&nbsp;strip&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_1_3');" onmouseout="secondlevelOff('subnav_1_3');" onclick="location='/archive/970401.html';" id="subnav_1_3">&nbsp;&nbsp;first&nbsp;strip&nbsp;&nbsp;</div></td>
+			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
+		</tr>
+</tbody></table>
+</div>
+
+<div class="subnavStore" onmouseover="stopHidesub();navimgOn('nav_store')" onmouseout="hidesub('nav_store');" id="subnavStore">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_2_1');" onmouseout="secondlevelOff('subnav_2_1');" onclick="location='http://www.cafeshops.com/cp/store.aspx?s=goats_all.5514';" id="subnav_2_1">&nbsp;&nbsp;paperback&nbsp;books&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_2_2');" onmouseout="secondlevelOff('subnav_2_2');" onclick="location='/store/book.html';" id="subnav_2_2">&nbsp;&nbsp;hardcover&nbsp;books&nbsp;&nbsp;</div></td>
+			<td class="subnav" nowrap=""><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_2_3');" onmouseout="secondlevelOff('subnav_2_3');" onclick="location='/store/tshirts.html';" id="subnav_2_3">&nbsp;&nbsp;super-advance&nbsp;t-shirts&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_2_4');" onmouseout="secondlevelOff('subnav_2_4');" onclick="location='http://www.cafeshops.com/goats_all';" id="subnav_2_4">&nbsp;&nbsp;merchandise&nbsp;warehouse&nbsp;&nbsp;</div></td>
+			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
+		</tr>
+	</tbody></table>
+</div>
+
+<div class="subnavNews" onmouseover="stopHidesub();navimgOn('nav_news')" onmouseout="hidesub('nav_news');" id="subnavNews">
+	
+</div>
+
+<div class="subnavBios" onmouseover="stopHidesub();navimgOn('nav_bios')" onmouseout="hidesub('nav_bios');" id="subnavBios">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_4_1');" onmouseout="secondlevelOff('subnav_4_1');" onclick="location='/bios/';" id="subnav_4_1">&nbsp;&nbsp;the&nbsp;regulars&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_4_2');" onmouseout="secondlevelOff('subnav_4_2');" onclick="location='/bios/others.html';" id="subnav_4_2">&nbsp;&nbsp;the&nbsp;irregulars&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_4_3');" onmouseout="secondlevelOff('subnav_4_3');" onclick="location='/bios/pub.html';" id="subnav_4_3">&nbsp;&nbsp;pub&nbsp;denizens&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_4_4');" onmouseout="secondlevelOff('subnav_4_4');" onclick="location='/bios/villains.html';" id="subnav_4_4">&nbsp;&nbsp;the&nbsp;villains&nbsp;&nbsp;</div></td>
+			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
+		</tr>
+	</tbody></table>
+</div>
+
+<div class="subnavForums" onmouseover="stopHidesub();navimgOn('nav_forums')" onmouseout="hidesub('nav_forums');" id="subnavForums">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_1');" onmouseout="secondlevelOff('subnav_5_1');" onclick="location='/forums/news/';" id="subnav_5_1">&nbsp;&nbsp;goats&nbsp;news&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_2');" onmouseout="secondlevelOff('subnav_5_2');" onclick="location='/forums/pub/';" id="subnav_5_2">&nbsp;&nbsp;the&nbsp;pub&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_3');" onmouseout="secondlevelOff('subnav_5_3');" onclick="location='/forums/flame/';" id="subnav_5_3">&nbsp;&nbsp;ring&nbsp;of&nbsp;fire&nbsp;&nbsp;</div></td>
+			<td class="subnav" nowrap=""><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_4');" onmouseout="secondlevelOff('subnav_5_4');" onclick="location='/forums/webcomics/';" id="subnav_5_4">&nbsp;&nbsp;blatant&nbsp;self-promotion&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_5');" onmouseout="secondlevelOff('subnav_5_5');" onclick="location='/forums/pp/';" id="subnav_5_5">&nbsp;&nbsp;patent&nbsp;pending&nbsp;&nbsp;</div></td>
+			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
+		</tr>
+	</tbody></table>
+</div>
+
+<div class="subnavFeatures" onmouseover="stopHidesub();navimgOn('nav_features')" onmouseout="hidesub('nav_features');" id="subnavFeatures">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_6_1');" onmouseout="secondlevelOff('subnav_6_1');" onclick="location='/features/index.html#fanstuff';" id="subnav_6_1">&nbsp;&nbsp;fan&nbsp;stuff&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_6_2');" onmouseout="secondlevelOff('subnav_6_2');" onclick="location='/features/index.html';" id="subnav_6_2">&nbsp;&nbsp;official&nbsp;stuff&nbsp;&nbsp;</div></td>
+			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
+		</tr>
+	</tbody></table>
+</div>
+
+<div class="subnavPub" onmouseover="stopHidesub();navimgOn('nav_pub')" onmouseout="hidesub('nav_pub');" id="subnavPub">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_7_1');" onmouseout="secondlevelOff('subnav_7_1');" onclick="location='/pub/';" id="subnav_7_1">&nbsp;&nbsp;the&nbsp;peculier&nbsp;pub&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_7_2');" onmouseout="secondlevelOff('subnav_7_2');" onclick="location='/pub/list.html';" id="subnav_7_2">&nbsp;&nbsp;pub&nbsp;tips&nbsp;&nbsp;</div></td>
+			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
+		</tr>
+	</tbody></table>
+</div>
+
+<div class="subnavPremium" onmouseover="stopHidesub();navimgOn('nav_premium')" onmouseout="hidesub('nav_premium');" id="subnavPremium">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_1');" onmouseout="secondlevelOff('subnav_8_1');" onclick="location='/premium/sunday/';" id="subnav_8_1">&nbsp;&nbsp;sunday&nbsp;strips&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_2');" onmouseout="secondlevelOff('subnav_8_2');" onclick="location='/forums/members/';" id="subnav_8_2">&nbsp;&nbsp;members&nbsp;only&nbsp;forum&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_3');" onmouseout="secondlevelOff('subnav_8_3');" onclick="location='/premium/animals/';" id="subnav_8_3">&nbsp;&nbsp;ask&nbsp;the&nbsp;animals&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_5');" onmouseout="secondlevelOff('subnav_8_5');" onclick="location='/premium/pp/';" id="subnav_8_5">&nbsp;&nbsp;patent&nbsp;pending&nbsp;&nbsp;</div></td>
+			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_4');" onmouseout="secondlevelOff('subnav_8_4');" onclick="location='/premium/store/';" id="subnav_8_4">&nbsp;&nbsp;discount&nbsp;stuff&nbsp;&nbsp;</div></td>
+			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
+		</tr>
+	</tbody></table>
+</div>
+
+
+
+
+<div onmouseover="vanishDivs();"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="10"><img src="/images/spacer.gif" alt="" width="10" height="1" border="0" hspace="0" vspace="0"></td>
+	<td width="178"><a href="/" target="_top"><img src="/images/newlogo.gif" width="178" height="60" alt="goats: the comic strip" border="0" hspace="0" vspace="0"></a></td>
+	
+	<td width="100%"><img src="/images/illus_neilandbob.gif" width="90" height="70" alt="Neil And Bob" border="0" hspace="0" vspace="0"></td>
+	<td width="468" align="right">&nbsp;</td>
+	<td width="5"><img src="/images/spacer.gif" alt="" width="5" height="1" border="0" hspace="0" vspace="0"></td>
+</tr>
+</tbody></table></div>
+
+
+<!-- top navigation/comic date -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr bgcolor="#333333">
+		<td width="15"><span onmouseover="vanish();"><img src="/images/spacer.gif" alt="" width="15" height="39" border="0" hspace="0" vspace="0"></span></td>
+		<td width="100%" nowrap=""><a href="/archive/" onmouseover="menuOn('subnavArchive');" onmouseout="navimgOff('nav_archive');"><img src="/images/nav_archive_off.gif" width="72" height="39" alt="archive" name="nav_archive" border="0"></a><a href="/store/" onmouseover="menuOn('subnavStore');" onmouseout="navimgOff('nav_store');"><img src="/images/nav_store_off.gif" width="59" height="39" alt="store" name="nav_store" border="0"></a><a href="/news/" onmouseover="menuOn('subnavNews');" onmouseout="navimgOff('nav_news');"><img src="/images/nav_news_off.gif" width="56" height="39" alt="news" name="nav_news" border="0"></a><a href="/forums/" onmouseover="menuOn('subnavForums');" onmouseout="navimgOff('nav_forums');"><img src="/images/nav_forums_off.gif" width="71" height="39" alt="forums" name="nav_forums" border="0"></a><a href="/bios/" onmouseover="menuOn('subnavBios');" onmouseout="navimgOff('nav_bios');"><img src="/images/nav_bios_off.gif" width="45" height="39" alt="bios" name="nav_bios" border="0"></a><a href="/features/" onmouseover="menuOn('subnavFeatures');" onmouseout="navimgOff('nav_features');"><img src="/images/nav_features_off.gif" width="81" height="39" alt="features" name="nav_features" border="0"></a><a href="/pub/" onmouseover="menuOn('subnavPub');" onmouseout="navimgOff('nav_pub');"><img src="/images/nav_pub_off.gif" width="41" height="39" alt="pub" name="nav_pub" border="0"></a><a href="/premium/" onmouseover="menuOn('subnavPremium');" onmouseout="navimgOff('nav_premium');"><img src="/images/nav_premium_off.gif" width="86" height="39" alt="premium" name="nav_premium" border="0"></a><span onmouseover="vanish();"><img src="/images/spacer.gif" width="10" height="39" alt="" border="0"></span></td>
+		<td valign="bottom">
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr bgcolor="#FFFFFF">
+					<td width="14"><img src="/images/corner_date.gif" width="14" height="14" alt="" border="0"></td>
+					<td nowrap="" class="date" style="width:131px;">the privacy policy
+<script language="JavaScript" type="text/javascript">
+if (document.layers) {
+document.write('<img src=\"/images/spacer.gif\" width=\"10\" height=\"1\" border=0 hspace=0 vspace=0>');
+}
+</script>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+	<tbody><tr bgcolor="#ffffff">
+		<td>
+<br>
+
+			<a href="/users/"><img src="/images/title_users.gif" width="200" height="29" alt="users" border="0" hspace="0" vspace="1"></a><br>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="line" width="100%"><img src="/images/spacer.gif" height="1" width="100" border="0"></td></tr></tbody></table>
+
+<span class="subtitle">our privacy policy</span>
+<br><br>
+We here at Goats value the privacy of our users.  We do not sell or give any personal information to other companies (not that they would want it).  In keeping with a semblance of web standards, we would like to detail what information we use, and how we use it.
+<p>
+If you have any comments, questions, or feedback on this policy, please let us know via our contact form at:<br>
+<a href="/contact/index.html?realm=14;subject=Privacy%20Policy">http://www.goats.com/contact/index.html?realm=14;subject=Privacy%20Policy</a>
+</p><p>
+<b>Server Logs</b><br> 
+The Web server does log your IP address and type of web browser in standard server logs. We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+</p><p>
+<b>Cookies</b><br>
+We use a "session based" cookie for every user to our website.  It helps us store temporary information about you: preferences you set during your visit.  It gets deleted from your machine when you close your browser, and the information associated with it gets deleted within 4 hours of you leaving our site.
+</p><p>
+We use a "permanent" cookie if you are a registered, logged-in user of the site, and opted to have us "Remember login info".  This is how we know who you are in the forums, who exactly bought that premium membership, and whether you want email from us (see below).
+</p><p>
+We <b>do not</b> log the cookies in our web server logs.
+</p><p>
+We use PayPal and Amazon to get money from you.  They have their own cookies, which may get sent back to them.  For more information on those, see their privacy policies at:<br>
+<a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside</a><br>
+<a href="http://www.amazon.com/exec/obidos/tg/browse/-/468496/">http://www.amazon.com/exec/obidos/tg/browse/-/468496/</a><br>
+</p><p>
+<b>Contact &amp; Personal Information</b><br>
+When you register, buy something from our store, or purchase a premium membership, we receive some personal information.  This can include name, email address, and address in all sorts of various cases.  As we said, we won't sell this.  If you bought something, we will use it to ship that product to you. If we have that information, you can find, and change, it at:<br>
+<a href="/users/subscription/">http://www.goats.com/users/subscription/</a>
+</p><p>
+If you registered and gave us your email address, we might email you stuff, that's because you checked the box when you registered.  To uncheck it, so we won't email you stuff, you can do that at:<br>
+<a href="/users/info.html">http://www.goats.com/users/info.html</a>
+</p><p>	
+<b>Ad Servers</b><br>
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:<br>
+<a href="http://www.marketbanker.com/mb/privacy.php">http://www.marketbanker.com/mb/privacy.php</a><br>
+</p><p>
+<b>Public Forums</b><br> 
+This site makes forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+</p><p>
+If you feel that we're not following the above policies, have other general comments on it, or just feel that we're being bastards in general, you may contact us at:<br>
+<a href="/contact/index.html?realm=14;subject=Privacy%20Policy">http://www.goats.com/contact/index.html?realm=14;subject=Privacy%20Policy</a>
+
+			</p><div align="right" style="position: relative; left: 10px; top: 10px;"><img src="/images/corner_pagebottom.gif" width="145" height="14" alt="" border="0"></div></td>
+	</tr>
+	
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td align="center"><img src="/images/spacer.gif" alt="" width="1" height="10" border="0" hspace="0" vspace="0"></td></tr>
+	<tr>
+		<td align="center" class="support">
+			<a href="/" target="_top" class="support">home</a> | <a href="/archive/" target="_top" class="support">archive</a> | <a href="/store/" target="_top" class="support">store</a> | <a href="/news/" target="_top" class="support">news</a> | <a href="/forums/" target="_top" class="support">forums</a> | <a href="/bios/" target="_top" class="support">bios</a> |  <a href="/features/" target="_top" class="support">features</a> | <a href="/pub/" target="_top" class="support">pub</a> | <a href="/premium/" target="_top" class="support">premium</a><br>
+			<table cellpadding="10" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><form method="get" action="/search/"></form></td>
+		<td><span class="searchformdark">search for: <input type="text" name="q" value="" maxlength="128" class="dark"> in the: <select name="search" class="dark">
+		<option value="comics">Comics</option>
+		<option value="forums">Forums</option>
+		<option value="news">News</option>
+</select>&nbsp;<input type="submit" class="darkbutton" value="search">
+	</span></td>
+		<td></td>
+	</tr>
+</tbody></table><br>
+			<span class="copyright">all contents ©1997-2003 Goats LLC. all rights reserved. Goats is a service mark of Goats, LLC<br>
+			IRC: irc.goats.com #goats<br>
+			contact: <a href="/contact/index.html?realm=11">jon</a> <a href="/contact/index.html?realm=12">phillip</a> <a href="/contact/index.html?realm=14">general inquiries and hoo-hah</a><br>
+			unauthorized copying or distribution of anything on this site is prohibited. Be sure to read our <a href="/privacy/">Privacy Policy</a>.</span>
+		</td>
+	</tr>
+</tbody></table>
+<script language="JavaScript" type="text/javascript">
+checkLoad();
+</script>
+
+
+</body></html>
