@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essayrater.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603041848id_/http%3A//essayrater.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essayrater.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212184333id_/http%3A//essayrater.com/privacy.html) for the most accurate reproduction.*
 
 # Essay Rater - Privacy Policy
 
