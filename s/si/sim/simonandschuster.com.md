@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212153600id_/http%3A//www.simonandschuster.com/eupdatesp.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606182140id_/http%3A//www.simonandschuster.com/eupdatesp.cfm) for the most accurate reproduction.*
 
-# SimonSays.com: Email Updates
+# SimonSays.com: Privacy Policy
 
 SimonSays.com is maintained by Simon & Schuster Online, 1230 Avenue of the Americas, New York, NY, 10020, and is a member of the Simon & Schuster family of companies, referred to in this notice as "S&S". We can be reached by e-mail at: ssonline_feedback@simonsays.com. 
 
