@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atpm.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210104035id_/http%3A//www.atpm.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atpm.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620210033id_/http%3A//atpm.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # ATPM - About - Privacy Statement
 
@@ -45,6 +45,5 @@ _ATPM_ records information about how people access our Web site. This informatio
 If you have any questions about this privacy statement or the practices of this site you can contact [editor@atpm.com](mailto:editor@atpm.com).
 
 This statement is adapted from the [TidBITS Privacy policy](http://www.tidbits.com/about/privacy.html).   
-  
   
 
