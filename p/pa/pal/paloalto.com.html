@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paloalto.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202224726id_/http%3A//www.paloalto.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paloalto.com privacy policy that was archived on 2004-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040622080044id_/http%3A//paloalto.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Statement - Palo Alto Software, Inc.</title>
@@ -13,7 +13,7 @@
     <link rel="P3Pv1" href="/w3c/p3p.xml" type="text/xml">
 	
 
-	<script language="JavaScript"> 
+<script language="JavaScript"> 
 
 <!--  
 
@@ -51,7 +51,7 @@ if (browserName == "Netscape" && browserVer < 5)
 
 {
 
-window.open("/common/share/im/paloaltosoftware_form.html","Getting_Started","width=410,height=420,resizable=yes");
+window.open("/common/share/im/offhours.cfm","Getting_Started","width=410,height=450,resizable=yes,scrollbars=yes");
 
 } 
 
@@ -59,7 +59,7 @@ else
 
 {
 
-window.open("/common/share/im/paloaltosoftware_form.html?"+document.URL,"Getting_Started","width=410,height=420,resizable=yes");
+window.open("/common/share/im/offhours.cfm","Getting_Started","width=410,height=450,resizable=yes,scrollbars=yes");
 
 }
 
@@ -78,7 +78,7 @@ function fndrop(){
 	src=window.event.srcElement;
 	i=src.id.substring(11,12);
 	mnuhead=document.all["menuheader_" + i];
-	label=document.all["label_" + i];
+	label=document.all["Text_menuheader_" + i];
 	mnu=document.all["menuitem_" + i];
 	mnu.style.position="absolute";
 	mnu.style.left=fngetx(src);
@@ -93,7 +93,7 @@ function fnhide(){
 	src=window.event.srcElement;
 	i=src.id.substring(11,12);
 	mnuhead=document.all["menuheader_" + i];
-	label=document.all["label_" + i];
+	label=document.all["Text_menuheader_" + i];
 	mnu=document.all["menuitem_" + i];
 	mnu.style.visibility="hidden";
 	mnuhead.style.cursor="";
@@ -131,54 +131,13 @@ function fngetx(it){
 	return curleft;
 }
 
-links = new Array();
-links[1] = "/ps/bp/";
-links[2] = "/ps/mp/";
-links[3] = "/ps/wp/";
-links[4] = "/ps/ap/";
-links[5] = "/store/";
-links[6] = "/store/upgrades.cfm";
-links[7] = "/store/index.cfm";
-links[8] = "/ac/";
-links[9] = "/r/";
-links[10] = "/store/orders.cfm";
-links[11] = "/sw/";
-links[12] = "/su/shs.cfm?id=340";
-links[13] = "/su/";
-links[14] = "/su/bp/";
-links[15] = "/su/mp/";
-links[16] = "/su/wp/";
-links[17] = "/su/bt/";
-links[18] = "/su/index.cfm?s=contact";
-links[19] = "/rc/";
-links[20] = "/rc/offers.cfm";
-links[21] = "http://www.bplans.com";
-links[22] = "http://www.mplans.com";
-links[23] = "/ps/";
-links[24] = "/ps/cp/";
-links[25] = "/ps/cmp/";
-links[26] = "/su/cmp/";
-function fnlocate(url) {
+//locates from clicks inside span/div/td
+function fnlocate() {
 src = window.event.srcElement;
 i = src.id;
-if (i.indexOf("menu") == 0)
-{
-location.href=url;
-}
-else
-{
-ilen = i.length;
-if (ilen == 6)
-{
-count = i.substring(5,6);
-linkurl = links[count];
-}
-else
-{
-count = i.substring(5,ilen);
-linkurl = links[count];
-}
-location.href=linkurl;
+if (i.indexOf("Text_") == -1){
+golink=eval("Text_" + i).href;
+location.href=golink;
 }
 }
 </script>
@@ -199,7 +158,7 @@ location.href=linkurl;
 					<td width="17" bgcolor="white" height="17" valign="top"><img src="/Common/gifs/TopLeftCurve_header.gif" width="17" height="17" border="0"></td>
 					<td bgcolor="#D9E5EC" align="center" valign="middle" height="17" onmouseover="style.background='3F6C96';" onmouseout="style.background='D9E5EC';"><font face="Arial" size="1" class="TopNavTextSmall" style="color:black"><a href="/index.cfm" style="text-decoration:none;color:black;" onmouseover="style.color='white';" onmouseout="style.color='black'"><b>Home</b></a></font></td>
 					<td bgcolor="#99B6CA" height="17"></td>
-					<td bgcolor="#F6F8FA" align="center" valign="bottom" height="17" onmouseover="style.background='3F6C96';cart.src='/common/gifs/cart_mouseover.gif'" onmouseout="style.background='F6F8FA';cart.src='/common/gifs/cart.gif'"><a href="https://secure.paloalto.com/store/cart.cfm"><img src="/common/gifs/cart.gif" border="0" width="22" height="17" alt="Click here to view cart" align="texttop" onmouseover="this.src='/common/gifs/cart_mouseover.gif'" onmouseout="this.src='/common/gifs/cart.gif'" id="cart"></a><font face="Arial" size="1" class="TopNavTextSmall"><a href="https://secure.paloalto.com/store/cart.cfm" style="text-decoration:none;color:black;" onmouseover="style.color='white';" onmouseout="style.color='black'"><b>Cart</b></a></font></td>
+					<td bgcolor="#F6F8FA" align="center" valign="bottom" height="17" onmouseover="style.background='3F6C96';cart.src='/common/gifs/cart_mouseover.gif'" onmouseout="style.background='F6F8FA';cart.src='/common/gifs/cart.gif'"><a href="https://secure.paloalto.com/store/cart.cfm?affiliate=pas"><img src="/common/gifs/cart.gif" border="0" width="22" height="17" alt="Click here to view cart" align="texttop" onmouseover="this.src='/common/gifs/cart_mouseover.gif'" onmouseout="this.src='/common/gifs/cart.gif'" id="cart"></a><font face="Arial" size="1" class="TopNavTextSmall"><a href="https://secure.paloalto.com/store/cart.cfm?affiliate=pas" style="text-decoration:none;color:black;" onmouseover="style.color='white';" onmouseout="style.color='black'"><b>Cart</b></a></font></td>
 					<td bgcolor="#99B6CA" height="17"></td>
 					<td bgcolor="#F6F8FA" align="center" valign="middle" height="17" onmouseover="style.background='3F6C96';" onmouseout="style.background='F6F8FA';"><font face="Arial" size="1" class="TopNavTextSmall"><a href="/pr/index.cfm" style="text-decoration:none;color:black;" onmouseover="style.color='white';" onmouseout="style.color='black'"><b>About Us</b></a></font></td>
 					<td bgcolor="#99B6CA" height="17"></td>
@@ -232,6 +191,7 @@ location.href=linkurl;
 	</tr>
 	<tr bgcolor="#3F6C96"><td colspan="2"><img src="/common/gifs/clearpixel.gif" border="0" width="720" height="1"></td></tr>
 </tbody></table>
+
 
 <table width="720" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr><td width="100%">
@@ -377,16 +337,91 @@ document.write(a+b+c+b+d);
 
 
 
+
+
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+
+
+
+
+
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-paloaltosoftwareinc.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM530902EJBA94EN3";//ACCOUNT NUMBER(S)
+hbx.pn="privacy+statement";//PAGE NAME(S)
+hbx.mlc="pas-privacy";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+var ev1 = _hbEvent("search");
+ev1.keywords="";
+ev1.results= "0";
+ev1.attr1 = "main";
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" defer="" src="http://www.paloalto.com/common/stats/hbx.js"></script>
+
+<!--END WEBSIDESTORY CODE-->
+
+
+
 <p><br><!-- START FOOTER -->
 <table width="720" cellpadding="2" cellspacing="2" border="0">
 	<tbody><tr>
 		<td width="100%" bgcolor="#3f6c96"><img src="/common/share/gifs/clear.gif" width="1" height="3"></td>
 	</tr>
 	<tr>
-		<td align="center" nowrap=""><font face="verdana" size="-2" class="footerbody"><a href="/">Business Plan Software</a>&nbsp;|&nbsp;<a href="http://www.bplans.com/">Business Plan Tools</a>&nbsp;|&nbsp;<a href="http://www.mplans.com/">Marketing Plan Tools</a>&nbsp;|&nbsp;<a href="/af/">Affiliates</a>&nbsp;|&nbsp;<a href="/pr/">Press</a>&nbsp;|&nbsp;<a href="/privacy.cfm">Privacy</a>&nbsp;|&nbsp;<a href="/partners.cfm">Partners</a>&nbsp;|&nbsp;<a href="/reseller/">Resellers</a>&nbsp;|&nbsp;<a href="/common/contact_us/">Contact Us</a>
+		<td align="center" nowrap=""><font face="verdana" size="-2" class="footerbody"><a href="/">Business Plan Software</a>&nbsp;|&nbsp;<a href="http://www.bplans.com/">Business Plan Tools</a>&nbsp;|&nbsp;<a href="http://www.mplans.com/">Marketing Plans</a>&nbsp;|&nbsp;<a href="http://www.sampleplans.com/">Sample Plans</a>&nbsp;|&nbsp;<a href="/af/">Affiliates</a>&nbsp;|&nbsp;<a href="/pr/">Press</a>&nbsp;|&nbsp;<a href="/privacy.cfm">Privacy</a>&nbsp;|&nbsp;<a href="/partners.cfm">Partners</a>&nbsp;|&nbsp;<a href="/reseller/">Resellers</a>&nbsp;|&nbsp;<a href="/common/contact_us/">Contact</a>
 
 </font><br>
-<font face="verdana, arial, helvetica" size="-2" class="footerbody">Copyright 2003 Palo Alto Software, Inc.</font>
+<font face="verdana, arial, helvetica" size="-2" class="footerbody">Copyright 2004 Palo Alto Software, Inc.</font>
 		</td>
 	</tr>
 	<tr>
@@ -395,168 +430,6 @@ document.write(a+b+c+b+d);
 	</tr>
 </tbody></table>	<!-- END FOOTER -->
 </p></form></div>
-
-<!-- BEGIN WEBSIDESTORY CODE v9.0.1 (11up) -->
-<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
-<script language="javascript" id="_hbc">
-var _acct="DM530902EJBA94EN3";	//account number(s)
-var _pn="privacy+statement"; //page name(s)
-var _mlc="pas-privacy"; //multi-level content category
-var _seg=""; // visitor segmentation
-var _cmp=""; // campaign id
-var _gp="";  // campaign goal
-var _cmpn="";// campaign id in query
-var _gpn=""; // campaign goal in query
-var _fnl=""; // funnels
-var _pec=""; // error codes
-var _fv="";  // form validation function name
-var _dcmp="";// dynamic campaign
-var _dcmpn="";//dynamic campaign in query
-var _hra=""; // response attribute
-var _hcn=""; // conversion
-var _hcv=""; // conversion value
-var _hlt=""; // lead tracking
-var _hla=""; // lead attribute
-var _hqsr="";// response attribute in referrer query
-var _hqsp="";// response attribute in query
-var _hc1=""; // custom 1
-var _hc2=""; // custom 2
-var _hc3=""; // custom 3
-var _hc4=""; // custom 4
-var _lt="auto";  // link tracking
-var _ci="";  // customer id
-var _cp="null"; // campaign
-var _cpd=""; // campaign domain
-var _pndef="title"; //default page name
-var _ctdef="full"; //default content category
-var _dlf="n"; //download filter
-var _elf="n"; //exit link filter
-var _dft="n"; // download file tracker variable, set to y to use the name reference
-var _hrf=""; // custom referrer. use valid url or param name
-var _epg="n"; //event page identifier
-var _vpc="090001r";
-var _gn="ehg-paloaltosoftwareinc.hitbox.com",_mn="we69"; //gateway & machine name
-</script><script language="javascript1.1" defer="" src="http://www.paloalto.com/common/stats/hbe-11up.js">
-</script><script language="javascript">if(navigator.appName!='Netscape'&&parseInt(
-navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
-<img src="http://ehg-paloaltosoftwareinc.hitbox.com/HG?hc=we69&cd=1&hv=6&ce=u&hb=DM530902EJBA94EN3&n=privacy+statement&vcon=pas-privacy&seg=&cmp=&gp=&fnl=&pec=&dcmp=&ra=&gn=&cv=&ld=&la=&c1=&c2=&c3=&c4=&vpc=090001rn" border="0" width="1" height="1">
-</noscript><!--//-->
-<!-- END WEBSIDESTORY CODE  -->
-
-
-<!-- START OF WEBTRENDS LIVE TAG -->
-<!-- Copyright 2003 NetIQ Corporation -->
-<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm -->
-
-<!-- eCommerce Revenue Tracking (patent pending) -->
-<!-- For eCommerce implementation, visit the following page: -->
-<!-- http://www.webtrendslive.com/wtl_system/support/online_help/open_help.as
-p?helppage=techsupport_code_ecommerce&redirection=help -->
-
-<script language="JavaScript1.2">
-
-<!--
-var wtl_imgarray = new Array; 
-var wtl_ptr = 0;
-function wtl_Tag6(wtl_TagID,wtl_SID,wtl_URL,wtl_Title,CONTENTGROUP)
-{
-	function wtl_createImage(wtl_src)
-	{
-		if (document.images)
-		{
-			wtl_imgarray[wtl_ptr] = new Image;
-			wtl_imgarray[wtl_ptr].src = wtl_src;
-			wtl_ptr++; 
-		}
-	}
-	
-	function D8( d)
-	{
-		var fwd=1, seed= new Date('01/01/2000'), key="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-		var s= key.charAt( d.getFullYear()-2000)+key.charAt(d.getMonth()+1)+key.charAt(d.getDate());
-		s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
-		while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
-		var w= Math.floor((d.getTime()-(seed.getTime()+86400000)) / 604800000 );
-		s+= key.charAt( (w-(w%16))/16 );
-		s+= key.charAt( w%16);
-		return s;
-	}
-
-	function A( B, C)
-	{
-		W+="&"+B+"="+escape(C);
-	}
-	
-	var t = new Date();
-	var W="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S" + wtl_SID + "/button6.asp?tagver=" + wtl_TagVer + "&si=" + wtl_TagID + "&fw=" + wtl_FWD;
-	A( "server", typeof(SERVER)== "string" ? SERVER : "");
-	A( "order", typeof(ORDER)== "string" ? ORDER : "");
-	A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
-	A( "invoice", typeof(INVOICE)== "string" ? INVOICE : "");
-	A( "cartview", typeof(CARTVIEW)== "string" ? CARTVIEW : "");
-	A( "cartadd", typeof(CARTADD)== "string" ? CARTADD : "");
-	A( "cartremove", typeof(CARTREMOVE)== "string" ? CARTREMOVE : "");
-	A( "checkout", typeof(CHECKOUT)== "string" ? CHECKOUT : "");
-	A( "cartbuy", typeof(CARTBUY)== "string" ? CARTBUY : "");
-	A( "adcampaign", typeof(ADCAMPAIGN)== "string" ? ADCAMPAIGN : "");
-	A( "tz", t.getTimezoneOffset());
-	A( "ch", t.getHours());
-	A( "cl", D8(t));
-	A( "ti", wtl_Title);
-	A( "url", wtl_URL);
-	A( "rf", window.document.referrer);
-	A( "js", "Yes");
-	A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
-	if(typeof(screen)=="object")
-	{
-	A( "sr", screen.width+"x"+screen.height);
-	A( "cd", screen.colorDepth);
-	A( "jo", navigator.javaEnabled() ? "Yes" : "No");
-	}
-
-	if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
-		W= W.substring( 0, 2043)+"&tu=1";
-
-	wtl_createImage(W);
-}
-//-->
-</script>
-
-<!-- Code can be separated at this junction -->
-
-<script language="JavaScript">
-
-<!--
-	var wtl_TagVer = 6;
-	var wtl_FWD = 0;
-	var wtl_url = document.URL;
-	var wtl_title = document.title;
-	var wtl_TagID = 150408;
-	var wtl_SID = "150408";
-
-	var ORDER= "";
-	var SERVER= "";
-	var CONTENTGROUP= "pas-privacy";
-	var INVOICE= "";
-	var CARTVIEW= "";
-	var CARTADD= "";
-	var CARTREMOVE= "";
-	var CHECKOUT= "";
-	var CARTBUY= "";
-	var ADCAMPAIGN= "";
-
-	wtl_Tag6(wtl_TagID,wtl_SID,wtl_url,wtl_title,CONTENTGROUP);
-
-//-->
-</script>
-
-<noscript>
-<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S150408/button6.asp?tagver=6&si=150408&fw=0&js=No">
-</noscript>
-
-<!-- END OF WEBTRENDS LIVE TAG -->
-
-
 
 
 
