@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the egreetings.com privacy policy that was archived on 2004-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040401191815id_/http%3A//www.egreetings.com/warrants.pd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egreetings.com privacy policy that was archived on 2004-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041228214205id_/http%3A//www.egreetings.com/warrants.pd) for the most accurate reproduction.-->
 
 <html><head>
-<meta name="agmips" content="1.709331">
+<meta name="agmips" content="1.264087">
  
 <title>Find out more about Egreetings.com!</title>
  <script language="JavaScript">
@@ -19,7 +19,7 @@ function encodePurl(purl){
   purl=purl.replace(/\%20/g,"perc20");
   purl=purl.replace(/ /g,"perc20");
   purl=purl.replace(/\+/g,"%20");
-  purl=purl.replace(/#.*$/,"");  
+  purl=purl.replace(/#.*$/,"");
   purl=purl.replace(/%(\d+)/g,"perc$1");
   return purl;
 }
@@ -37,76 +37,122 @@ function decodePurl(purl){
   return purl;
 }
 
-
-
-//Join Now
-function openJoin(url, purl, width, height, windowname, intX, intY) { 
-  if(!purl) {
+function openJoin(url, purl, width, height, windowname, intX, intY) {
+  if(!purl)
+  {
     purl=window.location.href;
   }
-  if(!width) {
+  if(!width)
+  {
     width='300';
   }
-  if(!height) {
+  if(!height)
+  {
     height='320';
   }
-  if(!windowname) {
+  if(!windowname)
+  {
     windowname = "joinwin";
   }
-  if(!intX) {
+  if(!intX)
+  {
     intX=0;
   }
-  if(!intY) {
+  if(!intY)
+  {
     intY=0;
   }
-  purl=encodePurl(purl);
-  if(url.indexOf("ostatus") >= 0){    
-    url=url.replace(/ostatus/,"purl="+purl+"&ostatus");
-  }else{
-    url+="&purl="+purl;
+  purl = encodePurl(purl);
+  if(url.indexOf("ostatus") >= 0)
+  {
+    url = url.replace(/ostatus/,"purl="+purl+"&ostatus");
+  }
+  else
+  {
+    url += "&purl=" + purl;
   }
   pageindex = -1;
   questionindex = -1;
   questionindex = url.indexOf("?");
-  if (url.indexOf("offer.pd")>0) {pageindex = url.indexOf("offer.pd")}
-  else if (url.indexOf("announce.pd")>0) {pageindex = url.indexOf("announce.pd")}
-  else if (url.indexOf("marketingpop.pd")>0) {pageindex = url.indexOf("marketingpop.pd")}
+  if ((url.indexOf("offer.pd")>0) && (url.indexOf("isic_offer.pd")<0))
+  {
+    pageindex = url.indexOf("offer.pd")
+  }
+  else if (url.indexOf("announce.pd")>0)
+  {
+    pageindex = url.indexOf("announce.pd")
+  }
+  else if (url.indexOf("marketingpop.pd")>0)
+  {
+    pageindex = url.indexOf("marketingpop.pd")
+  }
 
-  if(pageindex < questionindex){
+  if(pageindex < questionindex)
+  {
     if (intX || intY)
     {
       strWinFeatures="resizable=no,screenX="+intX+",screenY="+intY+",left="+intX+",top="+intY+",scrollbars=no,width="+width+",height="+height;
       newwin = window.open(url,windowname,strWinFeatures);
     }
     else
-    { 
+    {
       strWinFeatures="resizable=no,scrollbars=no,width="+width+",height="+height;
       newwin = window.open(url,windowname,strWinFeatures);
     }
     newwin.focus();
-  }else{
+  }
+  else
+  {
     window.document.location.href=url;
   }
 }
 
-// Offer Popup
-function openOfferPop(host) {
-  var url = "/popup/offer.pd?";
-  if(host) {
-    url = host + url;
+function openOfferPop(url, cookiename, cookiedays)
+{
+  purl = window.location.href;
+
+  if(!url)
+  {
+    var url = "/popup/offer.pd?";
+    if (purl.indexOf("cnp") >= 0)
+    {
+      url = url + "cnp=1"
+    }
   }
-  var url = "/popup/offer.pd?";
+
   var intSw = window.screen.availWidth;
   var intSh = window.screen.availHeight;
   var intW = 300;
-  var intH = 320;      
+  var intH = 320;
   var intX=intSw - intW;
   var intY=intSh - intH;
-  openJoin(url,0,0,0,0,intX,0);  
+
+  if (cookiename)
+  {
+    var allcookies = document.cookie;
+    var pos = allcookies.indexOf(cookiename);
+//only pop the window if we don't see the cookie
+    if (pos == -1)
+    {
+      SECONDS_PER_DAY = 86400;
+      myMinTimeOut    = SECONDS_PER_DAY*cookiedays;
+      myDate          = new Date();
+      myDate.setTime(myDate.getTime()+(myMinTimeOut*1000));
+      document.cookie = cookiename + "=true; expires=" + myDate.toGMTString();
+      openJoin(url,0,0,0,0,intX,0);
+    }
+  }
+  else
+  {
+    openJoin(url,0,0,0,0,intX,0);
+  }
 }
-  
-//Generic Open Window  
-function OpenNewWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
+
+//Generic Open Window
+function OpenNewWindow(url,winwidth,winheight,bar)
+{
+  NewWindow = window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)
+}
 
 // NO MORE HIDING -->
 </script><meta content="Greeting Card, Postcard, greeting, free card, postcard, greeting, card, Free Postcard, card, free greeting, free greeting card, card postcard" name="keywords"> 
@@ -132,41 +178,50 @@ function OpenNewWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'d
 
 .siteerror {COLOR: #ff0000; FONT-FAMILY: Arial,Helvetica; FONT-weight: bold; FONT-SIZE: 12px}
 </style> 
+<script type="text/javascript">var useg_ck_name = 'useg';</script>
+<script src="http://ak.imgag.com/imgag/js/cookie_util.js" type="text/javascript"></script>
+<script src="http://ak.imgag.com/imgag/js/useg.js" type="text/javascript"></script>
 <script language="JavaScript">var mjc_ck_name = "tpc2";
-var useg_ck_name = "useg";</script>
-<script language="JavaScript" src="http://www.imgag.com/js/cookie_util.js"></script>
-<script language="JavaScript" src="http://www.imgag.com/js/useg.js"></script>
-<meta name="DCSext.ag_tseg" content="A">
-<meta name="WT.sv" content="ag31">
+var cmpn_ck_name = "cmpn";</script>
+<meta name="DCSext.ag_tseg" content="B">
+<meta name="DCSext.ag_tseg2" content="A">
+<meta name="DCSext.ag_source" content="eg">
+<meta name="DCSext.ag_tseg3" content="">
+<meta name="WT.sv" content="ag607">
 <meta name="DCS.dcssip" content="www.egreetings.com">
 <meta name="DCSext.ag_cache" content="W">
 </head> 
-<body background="http://www.imgag.com/eg/header/bg_040104.gif" link="#3333cc" vlink="#3333cc" alink="#3333cc" text="#000000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0"> 
+<body background="http://ak.imgag.com/imgag/eg/header/bg_122604.gif" link="#3333cc" vlink="#3333cc" alink="#3333cc" text="#000000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0"> 
 <center> 
 <a name="top"></a> 
 <table border="0" cellpadding="4" cellspacing="0" width="770">
-<tbody><tr><td align="center"><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=468x60&amp;page=warrants.pd&amp;memstat=afu&amp;site=eg&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=468x60&page=warrants.pd&memstat=afu&site=eg&cat=DFLT&subcat=DFLT&product="></SCRIPT></iframe></td></tr>
+<tbody><tr><td align="center"><iframe width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=728x90&amp;page=warrants.pd&amp;memstat=afu&amp;site=eg&amp;yr=&amp;chdn=&amp;occcode=&amp;wed=&amp;gnd=&amp;inccode=&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=728x90&page=warrants.pd&memstat=afu&site=eg&yr=&chdn=&occcode=&wed=&gnd=&inccode=&cat=DFLT&subcat=DFLT&product="></SCRIPT></iframe></td></tr>
 </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr>
-<td><img src="http://www.imgag.com/eg/header/logof_040104.gif" width="770" height="42" border="0" usemap="#logo_f"></td>
+<td><img src="http://ak.imgag.com/imgag/eg/header/logof_122604.gif" width="770" height="42" border="0" usemap="#logo_f"></td>
 </tr>
 <tr>
-<td bgcolor="#FF99CC"><img src="http://www.imgag.com/eg/header/nav_home_040104.gif" width="305" height="30" border="0" usemap="#nav"><img src="http://www.imgag.com/eg/header/member04.gif" width="465" height="30" border="0" usemap="#member"></td>
+<td bgcolor="#0099CC"><img src="http://ak.imgag.com/imgag/eg/header/nav_home_122604.gif" width="305" height="30" border="0" usemap="#nav"><img src="http://ak.imgag.com/imgag/eg/header/member04.gif" width="465" height="30" border="0" usemap="#member"></td>
 </tr>
 </tbody></table>
 <map name="logo_m">
-<area shape="poly" coords="258,0,591,0,591,41,258,41,258,0" href="http://www.egreetings.com/category.pd?path=1057" alt="Click Here!">
-<area shape="rect" coords="0,0,258,41" href="http://www.egreetings.com" alt="Egreetings">
+<area shape="poly" coords="258,0,591,0,591,41,258,41,258,0" href="http://www1.egreetings.com/category.pd?path=1054&amp;" alt="Click Here!">
+<area shape="rect" coords="0,0,258,41" href="http://www1.egreetings.com" alt="Egreetings">
 <area shape="poly" coords="677,5,745,5,745,27,677,27,677,5" href="http://www.egreetings.com/members/signout.pd?referer=" alt="Sign Out">
 </map>
 <map name="logo_f">
-<area shape="rect" coords="0,0,258,41" href="http://www.egreetings.com" alt="Egreetings">
-<area shape="poly" coords="677,5,745,5,745,27,677,27,677,5" href="http://www.egreetings.com/members/signin.pd?referer=" alt="Sign In">
-<area shape="rect" coords="600,5,676,27" href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=eg&amp;ostatus=A&amp;ahost=http://www.egreetings.com&amp;Params.styles=MKTjoin', '')" alt="Join Now">
+<area shape="rect" coords="0,0,258,41" href="http://www1.egreetings.com" alt="Egreetings">
+<area shape="poly" coords="677,5,745,5,745,27,677,27,677,5" href="https://www.egreetings.com/members/signin.pd?referer=" alt="Sign In">
+<area shape="rect" coords="600,5,676,27" href="javascript:openJoin('http://subs.subsag.com/html.ng/adsize=text&amp;page=join&amp;site=eg&amp;ostatus=B&amp;ahost=http://www.egreetings.com&amp;Params.styles=MKTjoin', '')" alt="Join Now">
+</map>
+<map name="logo_r">
+<area shape="rect" coords="0,0,258,41" href="http://www1.egreetings.com" alt="Egreetings">
+<area shape="poly" coords="677,5,745,5,745,27,677,27,677,5" href="http://www.egreetings.com/members/signout.pd?referer=" alt="Sign Out">
+<area shape="rect" coords="600,5,676,27" href="javascript:openJoin('http://subs.subsag.com/html.ng/adsize=text&amp;page=join&amp;site=eg&amp;ostatus=B&amp;ahost=http://www.egreetings.com&amp;Params.styles=MKTjoin', '')" alt="Join Now">
 </map>
 <map name="nav">
-<area shape="poly" coords="2,3,90,3,90,28,2,28,2,3" href="http://www.egreetings.com" title="eCards" alt="eCards">
+<area shape="poly" coords="2,3,90,3,90,28,2,28,2,3" href="http://www1.egreetings.com" title="eCards" alt="eCards">
 <area shape="poly" coords="90,3,174,3,174,28,90,28,90,3" href="http://www.egreetings.com/members.pd" title="Members" alt="Members">
 <area shape="poly" coords="174,3,257,3,257,28,174,28,174,3" href="http://www.beatgreets.com/index.pd?source=bgeg" title="Create &amp; Print" alt="Beatgreets.com">
 </map>
@@ -176,9 +231,9 @@ var useg_ck_name = "useg";</script>
 <area shape="rect" coords="287,15,341,28" href="javascript:openOfferPop();">
 <area shape="rect" coords="233,15,280,28" href="javascript:openOfferPop();">
 <area shape="rect" coords="190,16,225,28" href="javascript:openOfferPop();">
-<area shape="rect" coords="133,16,183,28" href="javascript:openOfferPop();">
-<area shape="rect" coords="64,16,127,27" href="javascript:openOfferPop();">
-<area shape="poly" coords="2,16,58,16,58,27,2,27,2,16" href="javascript:openOfferPop();">
+<area shape="rect" coords="133,16,183,28" href="javascript:openJoin('http://www.egreetings.com/popup/register.pd?app=reminders');">
+<area shape="rect" coords="64,16,127,27" href="javascript:openJoin('http://www.egreetings.com/popup/register.pd?app=addressbook');">
+<area shape="poly" coords="2,16,58,16,58,27,2,27,2,16" href="javascript:openJoin('http://www.egreetings.com/popup/register.pd?app=myaccount');">
 </map> 
  
  
@@ -189,11 +244,11 @@ var useg_ck_name = "useg";</script>
  
 <td valign="top" width="167" bgcolor="#ffcc33"><table border="0" cellpadding="0" cellspacing="0" width="167"> 
 <tbody><tr> 
-<td width="167" bgcolor="#ffffff" colspan="2"><img src="http://www.imgag.com/eg/space.gif" width="167" height="2" hspace="0" vspace="0" alt="" border="0"></td> 
+<td width="167" bgcolor="#ffffff" colspan="2"><img src="http://ak.imgag.com/imgag/eg/space.gif" width="167" height="2" hspace="0" vspace="0" alt="" border="0"></td> 
 </tr> 
  
 <tr> 
-<td width="26" bgcolor="#000099"><img src="http://www.imgag.com/eg/space.gif" width="26" height="1" hspace="0" vspace="0" alt="" border="0"></td> 
+<td width="26" bgcolor="#000099"><img src="http://ak.imgag.com/imgag/eg/space.gif" width="26" height="1" hspace="0" vspace="0" alt="" border="0"></td> 
 <td bgcolor="#000099" height="29"><a href="#" class="navhead">Privacy</a><br></td> 
 </tr> 
  
@@ -210,7 +265,7 @@ var useg_ck_name = "useg";</script>
 <td width="16">&nbsp;</td><td width="125"><a href="mailto:AdvertiseWithUs@Egreetings.com" class="medium">Advertise WIth Us</a></td> 
 </tr> 
 <tr> 
-<td width="16">&nbsp;<img src="http://www.imgag.com/eg/members/yelarrow.gif" width="11" height="9" vspace="0" alt="" border="0"></td><td nowrap="" width="125"><span class="medium"><b>Privacy</b></span></td> 
+<td width="16">&nbsp;<img src="http://ak.imgag.com/imgag/eg/members/yelarrow.gif" width="11" height="9" vspace="0" alt="" border="0"></td><td nowrap="" width="125"><span class="medium"><b>Privacy</b></span></td> 
 </tr> 
 <tr> 
 <td width="16">&nbsp;</td><td width="125"><a href="http://www.egreetings.com/customer/emailus.pd" class="medium">Contact Us</a></td> 
@@ -218,15 +273,15 @@ var useg_ck_name = "useg";</script>
 <tr> 
 <td width="16">&nbsp;</td><td width="125"><a href="http://www.egreetings.com/legal.pd" class="medium">Terms Of Service</a></td> 
 </tr> 
-</tbody></table><img src="http://www.imgag.com/eg/space.gif" width="141" height="1" hspace="0" vspace="0" alt="" border="0"></td> 
+</tbody></table><img src="http://ak.imgag.com/imgag/eg/space.gif" width="141" height="1" hspace="0" vspace="0" alt="" border="0"></td> 
 </tr> 
  
 <tr> 
-<td valign="bottom" bgcolor="#FFFFFF"><img border="0" height="20" src="http://www.imgag.com/eg/common/cornerll.gif" width="20"></td> 
+<td valign="bottom" bgcolor="#FFFFFF"><img border="0" height="20" src="http://ak.imgag.com/imgag/eg/common/cornerll.gif" width="20"></td> 
 </tr> 
 </tbody></table></td> 
  
-<td align="left" valign="top" width="23" bgcolor="#FFFFFF"><img src="http://www.imgag.com/eg/common/collheadercurve.gif" width="25" height="31" hspace="0" vspace="0" alt="" border="0"></td> 
+<td align="left" valign="top" width="23" bgcolor="#FFFFFF"><img src="http://ak.imgag.com/imgag/eg/common/collheadercurve.gif" width="25" height="31" hspace="0" vspace="0" alt="" border="0"></td> 
  
 <td align="left" valign="top" width="415" bgcolor="#FFFFFF" class="text"> 
 <br> 
@@ -242,7 +297,7 @@ AN AMERICANGREETINGS.COM COMPANY</b>
 At the Egreetings.com Network ("Egreetings.com"), protecting our users' privacy and security is a top priority.  For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online.  This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.   
 <br><br> 
  
-<a href="https://www.truste.org/validate/12350"><img src="http://www.imgag.com/eg/logos/clicksealbox.gif" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a><br><br> 
+<a href="https://www.truste.org/validate/12350"><img src="http://ak.imgag.com/imgag/eg/logos/clicksealbox.gif" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a><br><br> 
  
 <b>Scope of Policy</b><br> 
  
@@ -393,7 +448,7 @@ Your IP address can be accessed by eCard recipients in the header of the notific
 <b>YOUR CONTROL OVER YOUR PERSONAL INFORMATION</b><br> 
  
 <b>Opt-Out/Changing Your Status</b><br> 
-At any time, you can change choices you have previously made as to the use of your personal information.  Every communication Egreetings.com sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings.   Alternatively, you can send a blank e-mail to <a href="mailto:nomaileg@privacy.Egreetings.com">nomaileg@privacy.Egreetings.com</a> and type "unsubscribe" in the subject field.  This system is automated and must be contacted from the email address you wish to have removed.  Permission changes will be honored as soon as possible after receipt.  Please allow 5 to 7 days for processing.  Permission changes will not affect any information which you provided to us and which we previously shared with our Business Partners.  
+At any time, you can change choices you have previously made as to the use of your personal information.  Every communication Egreetings.com sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings.   Alternatively, you can send a blank e-mail to <a href="mailto:nomail@privacy.Egreetings.com">nomail@privacy.Egreetings.com</a> and type "unsubscribe" in the subject field.  This system is automated and must be contacted from the email address you wish to have removed.  Permission changes will be honored as soon as possible after receipt.  Please allow 5 to 7 days for processing.  Permission changes will not affect any information which you provided to us and which we previously shared with our Business Partners.  
 <br><br> 
  
 <b>Editing Your Profile</b><br> 
@@ -436,7 +491,7 @@ In addition to our online security efforts, we take steps to protect your person
 <br><br> 
  
 Egreetings.com' main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms.   
-If you have any questions about the security at our website, you can send an email to <a href="mailto:solutions@Egreetings.com.">solutions@Egreetings.com.</a> 
+If you have any questions about the security at our website, you can send an email to <a href="http://www.egreetings.com/customer/emailus.pd">Customer Service</a>. 
 <br><br> 
  
  
@@ -465,7 +520,7 @@ Beware of scams in which persons unknown to you request your screen name, passwo
 Always monitor your children's on-line activities and educate them as to the rules for safe Internet use.  For more information, <a href="http://www.getnetwise.org/">click here</a> for the Internet Education Foundation's Online Safety Guide for Kids. 
 <br><br> 
  
-As always, if you have any questions, please feel free to contact us at <a href="mailto:solutions@Egreetings.com.">solutions@Egreetings.com. </a> 
+As always, if you have any questions, please feel free to contact us at <a href="http://www.egreetings.com/customer/emailus.pd">Customer Service</a>. 
  
 </td> 
  
@@ -474,28 +529,28 @@ As always, if you have any questions, please feel free to contact us at <a href=
  
  
 <!--spacer--> 
-<td bgcolor="#ffffff" valign="top" width="20" border="0"><img border="0" height="20" src="http://www.imgag.com/eg/common/cornerur.gif" width="20"></td> 
+<td bgcolor="#ffffff" valign="top" width="20" border="0"><img border="0" height="20" src="http://ak.imgag.com/imgag/eg/common/cornerur.gif" width="20"></td> 
  
 <!--right rail--> 
-<td align="middle" bgcolor="#ffcc33" valign="top" width="145" border="0"><!--genix--><br><iframe width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=sky&amp;page=warrants.pd&amp;memstat=afu&amp;site=eg&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE=JavaScript SRC=http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=sky&page=warrants.pd&memstat=afu&site=eg&cat=DFLT&subcat=DFLT&product=>
+<td align="middle" bgcolor="#ffcc33" valign="top" width="145" border="0"><!--genix--><br><iframe width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=sky&amp;page=warrants.pd&amp;memstat=afu&amp;site=eg&amp;yr=&amp;chdn=&amp;occcode=&amp;wed=&amp;gnd=&amp;inccode=&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE=JavaScript SRC=http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=sky&page=warrants.pd&memstat=afu&site=eg&yr=&chdn=&occcode=&wed=&gnd=&inccode=&cat=DFLT&subcat=DFLT&product=>
 </SCRIPT></iframe><br><!--end genix--></td> 
 </tr> 
  
 <!--bottom curve line--> 
 <tr> 
 <td bgcolor="#ffcc33">&nbsp;</td> 
-<td align="left" bgcolor="#ffffff" valign="bottom" width="20"><img border="0" height="20" src="http://www.imgag.com/eg/common/cornerll.gif" width="20"></td> 
+<td align="left" bgcolor="#ffffff" valign="bottom" width="20"><img border="0" height="20" src="http://ak.imgag.com/imgag/eg/common/cornerll.gif" width="20"></td> 
 <td bgcolor="#ffffff">&nbsp; </td> 
-<td align="right" bgcolor="#ffffff" valign="bottom" width="20"><img border="0" height="20" src="http://www.imgag.com/eg/common/cornerlr.gif" width="20"></td> 
-<td bgcolor="#ffcc33" width="145"><img src="http://www.imgag.com/eg/space.gif" height="1" width="145" border="0"></td> 
+<td align="right" bgcolor="#ffffff" valign="bottom" width="20"><img border="0" height="20" src="http://ak.imgag.com/imgag/eg/common/cornerlr.gif" width="20"></td> 
+<td bgcolor="#ffcc33" width="145"><img src="http://ak.imgag.com/imgag/eg/space.gif" height="1" width="145" border="0"></td> 
 </tr> 
 </tbody></table> 
 <table bgcolor="#ffcc33" border="0" cellpadding="5" cellspacing="0" width="770">
 <tbody><tr>
 <td bgcolor="#ffcc33" align="center" class="text"><br>
-<a href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=eg&amp;ostatus=A&amp;ahost=http://www.egreetings.com&amp;Params.styles=MKTjoin', '')">Join Now</a> 
+<a href="javascript:openJoin('http://subs.subsag.com/html.ng/adsize=text&amp;page=join&amp;site=eg&amp;ostatus=B&amp;ahost=http://www.egreetings.com&amp;Params.styles=MKTjoin', '')">Join Now</a> 
 <span class="bullet"> • </span>
-<a href="http://www.egreetings.com/members/signin.pd?referer=">Sign In</a> 
+<a href="https://www.egreetings.com/members/signin.pd?referer=">Sign In</a> 
 <span class="bullet"> • </span>
 <a href="http://www.egreetings.com/customer/index.pd">Customer Service - Email Us</a> 
 <span class="bullet"> • </span>
@@ -509,7 +564,7 @@ As always, if you have any questions, please feel free to contact us at <a href=
 <span class="bullet"> • </span>
 <a href="http://www.egreetings.com/siteindex.pd">Index</a>
 <br>&nbsp;<br>
-<a href="http://www.egreetings.com/warrants.pd"><img src="http://www.imgag.com/eg/truste.gif" border="0" width="116" height="31"></a><br>
+<a href="http://www.egreetings.com/warrants.pd"><img src="http://ak.imgag.com/imgag/eg/truste.gif" border="0" width="116" height="31"></a><br>
 <div class="smallish">Copyright © 1997-2004, Egreetings Network, Inc.<br> All Rights Reserved. E-greetings is a registered trademark and Egreetings is a trademark&nbsp;of&nbsp;Egreetings&nbsp;Network,&nbsp;Inc. 
 <br>&nbsp;<br> </div></td>
 </tr>
@@ -517,9 +572,10 @@ As always, if you have any questions, please feel free to contact us at <a href=
  
 </center> 
 
-<!-- page generated: Thu Apr  1 14:12:14 2004 -->
+<!-- page generated: Tue Dec 28 16:41:57 2004 -->
 
-<script language="JavaScript" src="http://www.imgag.com/js/wt.js"></script><noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsew60m1oifwznbkznc6j9ix_5x7j/njs.gif?dcsuri=/nojavascript&WT.js=No"></noscript>
+
+<script language="JavaScript" src="http://ak.imgag.com/imgag/js/wt.js"></script><noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsew60m1oifwznbkznc6j9ix_5x7j/njs.gif?dcsuri=/nojavascript&WT.js=No"></noscript>
  
  
  
