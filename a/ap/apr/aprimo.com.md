@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the aprimo.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601173832id_/http%3A//www.aprimo.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aprimo.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205043600id_/http%3A//aprimo.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://www.truste.org/validate/14387)
-
-This document was last updated on October 1, 2002. Aprimo, Incorporated and its [www.aprimo.com](http://www.aprimo.com/) Web site ("Aprimo") are licensees of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. 
-
-Aprimo abides by the European Union Safe Harbor established by the United States Department of Commerce relating to the collection, use and retention of personal identifying information from the European Union. This privacy statement covers the site [www.aprimo.com](http://www.aprimo.com/). Because we wish to demonstrate out commitment to your privacy, we has agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. We have agreed to disclose: 
+This document was last updated on September 25, 2003. Aprimo, Incorporated and its [www.aprimo.com](http://www.aprimo.com/) Web site ("Aprimo") abide by the European Union Safe Harbor established by the United States Department of Commerce relating to the collection, use and retention of personal identifying information from the European Union. This privacy statement covers the site [www.aprimo.com](http://www.aprimo.com/). Because we wish to demonstrate our commitment to your privacy, we has agreed to disclose our information practices. We have agreed to disclose: 
 
   1. What personally identifiable information is collected through this Web site. 
   2. What organization collects the information. 
@@ -18,7 +14,7 @@ Aprimo abides by the European Union Safe Harbor established by the United States
 
 
 
-If you have questions or concerns regarding this statement, please contact our security department at [security@aprimo.com](mailto:security@aprimo.com). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/users_watchdog.php) (by clicking this link) or go to: <http://www.truste.org/users/users_watchdog.php>. TRUSTe will serve as a liaison with Aprimo to resolve your concerns. 
+If you have questions or concerns regarding this statement, please contact our security department at [security@aprimo.com](mailto:security@aprimo.com). 
 
 Information Collection and Use 
 
@@ -99,7 +95,7 @@ Notification of Changes
 If we change our privacy policy in a material way, we will post those changes to this privacy statement on this Web site at least 30 days before they become effective. In some cases where we post a notice, we may also send an e-mail to users who have opted to receive communications from us, notifying them of the changes in our privacy practices. For all changes the revised statement will be posted here. 
 
 Dispute Resolution  
-We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us at [security@aprimo.com](mailto:security@aprimo.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/users/users_watchdog_intro.html>, fax at 415-618-3420, or mail at WatchDog Complaints, TRUSTe, 685 Market St., Suite 460, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/users/users_watchdog_intro.html> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
+We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to resolve disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us at [security@aprimo.com](mailto:security@aprimo.com). If you are unable to resolve your complaint, you may expedite your concern to our Privacy Officer at [privacyofficer@aprimo.com](mailto:privacyofficer@aprimo.com). 
 
 Contact Information  
 If you have any questions or suggestions regarding our privacy policy or security practices, please contact us at: 
