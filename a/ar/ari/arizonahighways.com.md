@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208151158id_/http%3A//www.arizonahighways.com/page.cfm%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608235304id_/http%3A//www.arizonahighways.com/page.cfm%3Fname%3DPrivacy) for the most accurate reproduction.*
 
 # Arizona Highways
 
@@ -8,11 +8,10 @@ Our postal address is 2039 West Lewis Avenue, Phoenix, AZ 85009. You may contact
 
 [customerservice@arizonahighways.com](mailto:customerservice@arizonahighways.com): subscriptions, questions regarding catalog products, changes of address, customer service and back issue requests.
 
-[webwrangler@arizonahighways.com](mailto:webwrangler@arizonahighways.com): general comments, questions, or link requests.
+[webmaster@arizonahighways.com](mailto:webmaster@arizonahighways.com): link requests, online technical questions or problems.
 
-[webmaster@arizonahighways.com](mailto:webmaster@arizonahighways.com): online technical questions or problems.
+[sales@arizonahighways.com](mailto:sales@arizonahighways.com): corporate and trade sales.
 
-[sales@arizonahighways.com](mailto:sales@arizonahighways.com): corporate and trade sales.  
 Our web server recognizes each visitor’s internet provider (IP) address and the action of each person while on our site. We collect aggregate information on those pages persons access or visit. The information we collect is used to measure traffic within our site, improve the content of our Web site and for internal review.
 
 E-mail addresses are collected from those who communicate with us via e-mail, or from customers who purchase subscriptions or products from us online. Your postal address and telephone number are required for catalog purchases. We will telephone you only with questions or information regarding your order.
