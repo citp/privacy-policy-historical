@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075114id_/http%3A//phoenix.gov/ESERVICES/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610124107id_/http%3A//www.phoenix.gov/ESERVICES/privacy.html) for the most accurate reproduction.*
 
 # E-PHOENIX PRIVACY POLICY
 
@@ -23,4 +23,4 @@ As a governmental agency, we are governed by public records laws. Any informatio
 
 
 
-If you believe that the City of Phoenix is using your personally identifiable information for a purpose other than outlined in this privacy statement, you may contact us at [bob.wingenroth@phoenix.gov.](https://web.archive.org/EMAIL/emprvcy.html)
+If you believe that the City of Phoenix is using your personally identifiable information for a purpose other than outlined in this privacy statement, you may contact the [city Auditor Department.](https://web.archive.org/web/20040610124107id_/http%3A//www.phoenix.gov/EMAIL/emprvcy.html)
