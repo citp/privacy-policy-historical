@@ -1,16 +1,140 @@
-<!--The following is the downloaded HTML source of the ifilm.com privacy policy that was archived on 2003-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030601115359id_/http%3A//ifilm.com/about/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifilm.com privacy policy that was archived on 2003-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030806202556id_/http%3A//ifilm.com/about/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <html><head>
-	<title>IFILM</title>
-
+	
+	<title>IFILM
+	
+			- Because You Like to Watch
+		
+	</title>
+	<link rel="shortcut icon" href="/favicon.ico">
 	<link rel="STYLESHEET" href="/global/css/global.css" type="text/css">
-	 <script language="JavaScript" src="/ad.js"></script>		
-	<script language="JavaScript" src="/media/includes/ep.js"></script>
+	<script language="JavaScript">window.name = "IFILMMain";</script>
+	 <script language="JavaScript" src="/global.js"></script>	
 </head>
 
 <body bgcolor="#333333" text="#ffffff" link="#ffffff" vlink="#ffffff" topmargin="0" marginheight="0" leftmargin="0" marginwidth="0">
 
+
+
+<script language="JavaScript">
+<!--
+document.write('<OBJECT ID="IERPCtl" WIDTH=0 HEIGHT=0 CLASSID="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></OBJECT>');
+//-->
+</script><object id="IERPCtl" width="0" height="0" classid="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></object>
+
+<script language="JavaScript">
+<!--
+if (is_win && is_ie) {
+	document.write('<object id="RealPlayer" classid="CLSID:CFCDAA03-8BE4-11CF-B84B-0020AFBBCCFA" width="1" height="1"></object>');
+} else {
+	document.write('<embed name="RealPlayer" type="audio/x-pn-realaudio-plugin" width="1" height="1" controls="ImageWindow" console="one" nolabels="true" nologo="true">');
+}
+//-->
+</script>
+<script language="JavaScript" src="/media/launch.js?cid=1&amp;sid=1"></script>	
+<script language="JavaScript">
+<!--
+	var pageClass = getCookie('pageClass');
+	if(pageClass == null) {
+		var pgClass = Math.floor(Math.random()*9);
+		setCookie('pageClass',pgClass)
+	}
+	else {
+		var newClass = parseInt (pageClass) + 1;
+		if (newClass > 9) {
+			newClass = 0;
+		}
+		deleteCookie('pageClass')
+		setCookie('pageClass',newClass)
+		//document.write (newClass+" increment");
+		pgClass = newClass;
+	   }
+--> 
+</script>
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+				
+	
+	
+	
+
+
+ <script language="JavaScript" src="/ad.js"></script>
+<!-- div functions -->
+
+<script language="JavaScript" src="/global/includes/js/div_utilities.js"></script>
+
+
+<script language="JavaScript1.1">
+	cm8cat = "";
+	isSuperBanner = 0;
+
+
+	
+	function moveSuperBannerAd() {
+		if (is_mac && is_ie) return;	// drop out of function if mac user with ie
+		if (!divExists('sbImg')) return;
+		if (!divExists('sbAnchor')) return;
+
+		if (cm8cat.toLowerCase().indexOf("_esb") == -1) {	// if equals -1, then not expandable
+			// do logic for non-expandable ad
+			if ((getDiv('sbImg').offsetHeight>0) && (getDiv('sbImg').offsetWidth>0)) {
+				// if we're in here we know we have ad content if both div size values are > 0
+				moveDiv('sbImg', 'sbAnchor');	// moves image to position anchor
+				showDiv('sbImg');				// make ad visible first before pushing content down
+				resizeDiv('sbAnchor', getDiv('sbImg').offsetWidth, getDiv('sbImg').offsetHeight);
+//				resizeDiv('checkm8_postalloc_1', getDiv('sbImg').offsetWidth, getDiv('sbImg').offsetHeight);
+			}
+		}
+//		window.status = "ad="+cm8cat.toLowerCase()+", esb="+cm8cat.toLowerCase().indexOf("_esb")+" (-1 is no expandable, otherwise expandable detected, ifilm.28dl has no image)";
+	}
+
+	function adOnIframeLoad(srcId, dstId) {
+		if (!divExists(srcId)) return;
+		if (!divExists(dstId)) return;
+		
+//		alert("adOnIframeLoad: srcId="+srcId+", dstId="+dstId);
+//		alert(srcId+".offsetWidth="+getDiv(srcId).offsetWidth+", offsetHeight="+getDiv(srcId).offsetHeight);
+		resizeDiv(dstId, getDiv(srcId).offsetWidth, getDiv(srcId).offsetHeight);
+		showDiv(dstId);
+	}
+
+	function adOnDocLoad() {
+		moveSuperBannerAd();
+	}
+</script>
+
+
+<script language="JavaScript">
+	function frameBust() {
+		
+	}
+	function init() {
+		adOnDocLoad();
+	}
+	window.onload = init;
+</script>
 
 
 
@@ -34,11 +158,12 @@
 <table width="750" cellspacing="0" cellpadding="0" border="0" class="gc1">
 <tbody><tr>
 	<td width="560" rowspan="2" valign="bottom">
-	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="550" height="115" id="flash_nav-05" align="">
- 		<param name="movie" value="http://static.ifilm.com/image/i/2/global/top/flash_nav-05.swf?cch="> 
-		<param name="quality" value="high"> <param name="bgcolor" value="#333333"> <param name="wmode" value="opaque">
-		<embed src="http://static.ifilm.com/image/i/2/global/top/flash_nav-05.swf?cch=" quality="high" bgcolor="#333333" wmode="opaque" width="550" height="115" name="flash_nav-05" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</object></td>
+		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="550" height="115" id="flash_nav-05" align="">
+			 <param name="movie" value="http://static.ifilm.com/image/i/2/global/top/flash_nav-05.swf?cch="> 
+			<param name="quality" value="high"> <param name="bgcolor" value="#333333"> <param name="wmode" value="opaque">
+			<embed src="http://static.ifilm.com/image/i/2/global/top/flash_nav-05.swf?cch=" quality="high" bgcolor="#333333" wmode="opaque" width="550" height="115" name="flash_nav-05" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+		</object>
+	</td>
 	<td width="190" valign="top">
 		<table width="100%" cellspacing="0" cellpadding="5" border="0">
 		<tbody><tr><td class="body" align="right">
@@ -67,7 +192,7 @@
 				</tbody></table>
 				<table width="100%" border="0" cellspacing="1" cellpadding="0" class="gc2" align="center">
 				<tbody><tr>
-					<td class="gc2" align="center" height="25"><span class="body">Sunday, June 01</span></td>
+					<td class="gc2" align="center" height="25"><span class="body">Wednesday, August 06</span></td>
 				</tr>
 				</tbody></table>
 			</td>
@@ -79,44 +204,18 @@
 
 
 
-	<table width="750" border="0" cellspacing="3" cellpadding="0"><tbody><tr><td align="center">
-
-
-
-
-
-
-	<title>Ad</title>
-
-
-
-<div align="center">
-
-
-
- <script language="JavaScript" src="/ad.js"></script>
-
-<script language="javascript">
-document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=no&uniqueID='+transID+'&site=ifilm&adsize=728x90&amp;filmid=&amp;cr=&amp;cch=&amp;pg=&amp;collid=&amp;cpp=&transactionID='+transID+bust+mon+'&browser='+browser+'"></scr'+'ipt>');
-</script>
-<noscript>
-	<a href="http://dc.ifilm.com/click.ng/params.richmedia=no&uniqueID=1054468438305&amp;level1=&amp;level2=&amp;level3=&amp;site=ifilm&amp;adsize=728x90&amp;filmid=&amp;cch=&amp;pg=&amp;collid=&amp;cpp=">
-	<img src="http://dc.ifilm.com/image.ng/params.richmedia=no&uniqueID=1054468438305&amp;level1=&amp;level2=&amp;level3=&amp;site=ifilm&amp;adsize=728x90&amp;filmid=&amp;cch=&amp;pg=&amp;collid=&amp;cpp="></a>
-</noscript>
-
-</div>
-
-
- 
-</td></tr></tbody></table>
-
-
+	<table border="0" cellspacing="3" cellpadding="0" width="750">
+	<tbody><tr><td align="center">
+		<div id="sbAnchor" style="position:relative; width:728px; height:1px; visibility:hidden;">
+			<div id="checkm8_postalloc_1" style="position:relative;"></div>	<!-- this div required by checkm8 expandable banners -->
+		</div>
+	</td></tr>
+	</tbody></table>
 
 
 
 <link rel="STYLESHEET" href="/global/css/generic.css" type="text/css">
 
-  
 <table width="750" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 	<td width="10">&nbsp;</td>
@@ -343,55 +442,45 @@ document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.
 
 
 
-
 	</td>
 	<td width="10"></td>
 	<td width="250" align="center" valign="top" class="body">
 		<br>
-		
 		
 
 
 
 
 <img src="http://static.ifilm.com/image/i/2/hdr/box/hd_cnt_about_ifilm.gif" width="246" height="24" alt="" border="0"><br>
-<table width="246" class="trim1" cellspacing="1" cellpadding="0" border="0">
-<tbody><tr>
-	<td width="246" class="cntbox">
-		<table width="226" cellspacing="0" cellpadding="0" border="0" align="center">
-		<tbody><tr>
-			<td class="cntbox">
-				&nbsp;<br>
-			
-				<a class="cntlink" href="/about/news/">IFILM in the news</a> &gt;
-				<p>
-				<a class="cntlink" href="/about/pr/">press releases</a> &gt;
-				</p><p>
-				<a class="cntlink" href="/about/management.jsp">IFILM management</a> &gt;
-				</p><p>
-				<a class="cntlink" href="/about/filmmaker_feedback.jsp">filmmaker feedback</a> &gt;
-				</p><p>
-				<a class="cntlink" href="/about/success_stories.jsp">success stories</a> &gt;
-				</p><p>
-				<a class="cntlink" href="/about/contactus.jsp">contact us</a> &gt;
-				</p><p>
-				<a class="cntlink" href="/about/jobs.jsp">jobs@ifilm.com</a> &gt;
-				</p><p>
-				<a class="cntlink" href="/about/investors.jsp">investors</a> &gt;
-				</p><p>
-				<a class="cntlink" href="/about/advertise.jsp">advertise</a> &gt;
-				</p><p>
-				<a class="cntlink" href="/about/technology_partners.jsp">technology partners</a> &gt;
-			
-				<br>&nbsp;
-			</p></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
+<table width="246" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td class="trim1">
+	<table width="244" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tbody><tr><td class="cntbox">
+		<a class="cntlink" href="/about/news/">IFILM in the news</a> &gt;
+		<p>
+		<a class="cntlink" href="/about/pr/">press releases</a> &gt;
+		</p><p>
+		<a class="cntlink" href="/about/management.jsp">IFILM management</a> &gt;
+		</p><p>
+		<a class="cntlink" href="/about/filmmaker_feedback.jsp">filmmaker feedback</a> &gt;
+		</p><p>
+		<a class="cntlink" href="/about/success_stories.jsp">success stories</a> &gt;
+		</p><p>
+		<a class="cntlink" href="/about/contactus.jsp">contact us</a> &gt;
+		</p><p>
+		<a class="cntlink" href="/about/jobs.jsp">jobs@ifilm.com</a> &gt;
+		</p><p>
+		<a class="cntlink" href="/about/investors.jsp">investors</a> &gt;
+		</p><p>
+		<a class="cntlink" href="/about/advertise.jsp">advertise</a> &gt;
+		</p><p>
+		<a class="cntlink" href="/about/technology_partners.jsp">technology partners</a> &gt;
+	</p></td></tr>
+	<tr><td class="trim1" height="1" style="line-height:1px;"></td></tr>
+	</tbody></table>
+</td></tr>
 </tbody></table>
 <br>
-
 
 
 	</td>
@@ -418,9 +507,8 @@ document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.
 		<br><br>
 		
 		<a class="footer1" href="/redirect/real.jsp?ext=www.real.com/partners/channels/?src=ADS.rnn.0.ifilm">Get IFILM Plus+</a> &nbsp;
-		<a class="footer1" href="http://personals.ifilm.com/personals">IFILM Personals</a> &nbsp;
 		<a class="footer1" href="/?sctn=collections&amp;pg=dearifilm">Dear IFILM...</a> &nbsp;
-		<a class="footer1" href="/store">IFILM Store</a> &nbsp;
+		<a class="footer1" href="/festivals">Festival Guide</a> &nbsp;
 		<a class="footer1" href="http://www.hcdonline.com/">Hollywood Creative Directory</a> 
 		<br>
 		<a class="footer1" href="/about">About IFILM</a> &nbsp;
@@ -443,9 +531,37 @@ document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.
 <br>
 
 
-	<div id="Skyscraper" style="position:absolute; left:780px; top:0px; width:180px; height:800px; z-index:1">
-		
+<!-- load superbanner image here, after page has loaded already -->
 
+	<div id="sbImg" style="position:absolute; visibility:hidden; z-index:1;">
+
+
+
+<div align="center">
+
+
+
+<script language="javascript">
+	if ((is_mac && is_ie) && ("728x90"=="728x90")) {
+		// do nothing for mac ie users
+	} else {
+		document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=no&uniqueID='+transID+'&amp;site=ifilm&amp;adsize=728x90&amp;level1=about&amp;level2=privacy_policy&amp;filmid=&amp;cr=&amp;cch=&amp;pg=&amp;collid=&amp;cpp=&transactionID='+transID+bust+mon+'&browser='+browser+'&pgClass='+pgClass+'"></scr'+'ipt>');
+	}
+</script>
+<noscript>
+	<a href="http://dc.ifilm.com/click.ng/params.richmedia=no&uniqueID=1060201556026&amp;site=ifilm&amp;adsize=728x90&amp;level1=about&amp;level2=privacy_policy&amp;filmid=&amp;cr=&amp;cch=&amp;pg=&amp;collid=&amp;cpp=">
+	<img src="http://dc.ifilm.com/image.ng/params.richmedia=no&uniqueID=1060201556026&amp;site=ifilm&amp;adsize=728x90&amp;level1=about&amp;level2=privacy_policy&amp;filmid=&amp;cr=&amp;cch=&amp;pg=&amp;collid=&amp;cpp="></a>
+</noscript>
+
+</div>
+</div>
+
+
+
+
+<!-- display skyscraper -->
+
+	<div id="Skyscraper" style="position:absolute; left:780px; top:0px; width:180px; height:800px; z-index:1;">
 
 <script language="JavaScript">
 <!--
@@ -461,32 +577,25 @@ reloadPage(true);
 
 
 
-
-
-	<title>Ad</title>
-
-
-
 <div align="center">
 
 
 
- <script language="JavaScript" src="/ad.js"></script>
-
 <script language="javascript">
-document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=no&uniqueID='+transID+'&site=ifilm&adsize=160x800&amp;filmid=&amp;cr=&amp;cch=&amp;pg=&amp;collid=&amp;cpp=&transactionID='+transID+bust+mon+'&browser='+browser+'"></scr'+'ipt>');
+	if ((is_mac && is_ie) && ("160x800"=="728x90")) {
+		// do nothing for mac ie users
+	} else {
+		document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=no&uniqueID='+transID+'&amp;site=ifilm&amp;adsize=160x800&amp;level1=about&amp;level2=privacy_policy&amp;filmid=&amp;cr=&amp;cch=&amp;pg=&amp;collid=&amp;cpp=&transactionID='+transID+bust+mon+'&browser='+browser+'&pgClass='+pgClass+'"></scr'+'ipt>');
+	}
 </script>
 <noscript>
-	<a href="http://dc.ifilm.com/click.ng/params.richmedia=no&uniqueID=1054468438305&amp;level1=&amp;level2=&amp;level3=&amp;site=ifilm&amp;adsize=160x800&amp;filmid=&amp;cch=&amp;pg=&amp;collid=&amp;cpp=">
-	<img src="http://dc.ifilm.com/image.ng/params.richmedia=no&uniqueID=1054468438305&amp;level1=&amp;level2=&amp;level3=&amp;site=ifilm&amp;adsize=160x800&amp;filmid=&amp;cch=&amp;pg=&amp;collid=&amp;cpp="></a>
+	<a href="http://dc.ifilm.com/click.ng/params.richmedia=no&uniqueID=1060201556026&amp;site=ifilm&amp;adsize=160x800&amp;level1=about&amp;level2=privacy_policy&amp;filmid=&amp;cr=&amp;cch=&amp;pg=&amp;collid=&amp;cpp=">
+	<img src="http://dc.ifilm.com/image.ng/params.richmedia=no&uniqueID=1060201556026&amp;site=ifilm&amp;adsize=160x800&amp;level1=about&amp;level2=privacy_policy&amp;filmid=&amp;cr=&amp;cch=&amp;pg=&amp;collid=&amp;cpp="></a>
 </noscript>
 
 </div>
+</div>
 
-
- 
-
-	</div>
 
 
 
