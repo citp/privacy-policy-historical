@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdc.gov privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205152000id_/http%3A//www.cdc.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdc.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603204233id_/http%3A//www.cdc.gov/privacy.htm) for the most accurate reproduction.*
 
 # CDC Web Site Privacy Policy
 
@@ -26,3 +26,5 @@ CDC does not disclose, give, sell, or transfer any personal information about CD
 This site is maintained by the U.S. Government and is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in Federal court.
 
 For site security purposes and to ensure that this service remains available to all users, CDC employs software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+Use of Cookies - Certain CDC webpages use “cookies” which are small amounts of information stored by your web browser software on your workstation. In most cases, this information is temporary in nature (called session cookies) and is deleted as soon as you leave the CDC web site. The use of temporary cookies is solely for the purpose of allowing the user to interact with the CDC web site in an effective manner. In a few cases, the CDC web site uses cookies to store information for a longer period than the current session (persistent cookie). In those cases, the webpage is clearly noted and the user can choose not to use that webpage feature. As noted above, in no case does CDC disclose, give, sell, or transfer any personal information about CDC web site visitors unless required for law enforcement or otherwise required by law.”
