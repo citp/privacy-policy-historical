@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605115101id_/http%3A//www.stouffers.com/webdocs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008092158id_/http%3A//stouffers.com/webdocs/privacy.asp) for the most accurate reproduction.*
 
 # Stouffer's - Privacy Statement
 
@@ -46,7 +46,7 @@ Personal information cannot be collected via cookies and other tracking technolo
 Information security, opting-out, changing and accessing information  
 Your personally identifiable information is kept secure. Only authorized Nestlé employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information and only to help Nestlé administer its promotional programs and the site. Personally identifiable information is also password protected. 
 
-All emails and newsletters from this site allow you to opt out of further mailings. Many Nestle sites allow you to access (via password) the information you provided at registration to update it, change opt-ins, or delete it. If this feature is not available at a site, you may call us at 1-800-225-1180 or email us through our [Contact Us](https://web.archive.org/web/20030605115101id_/http%3A//www.stouffers.com/webdocs/contactus.asp) page to update information, change opt-ins, or request to have your information deleted from our mailing list. You may also use this contact information if you have any questions about this policy or our practices. 
+All emails and newsletters from this site allow you to opt out of further mailings. Many Nestle sites allow you to access (via password) the information you provided at registration to update it, change opt-ins, or delete it. If this feature is not available at a site, you may call us at 1-800-225-1180 or email us through our [Contact Us](https://web.archive.org/web/20031008092158id_/http%3A//stouffers.com/webdocs/contactus.asp) page to update information, change opt-ins, or request to have your information deleted from our mailing list. You may also use this contact information if you have any questions about this policy or our practices. 
 
 General  
 Third party Internet sites accessible through hyperlinks from this site have their own privacy practices, and Nestlé has no responsibility or liability for these independent practices. Please review their privacy practices for yourself. 
