@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chazhound.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602021808id_/http%3A//chazhound.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chazhound.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221051926id_/http%3A//chazhound.com/privacy.html) for the most accurate reproduction.*
 
 # Chazhound's Privacy Statement
 
@@ -36,29 +36,23 @@ The Dog-E-Zine is published monthly.
 **Contact  
 **
       
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:  
 
        
-1\. Email:[ webmaster@chazhound.com](mailto:webmaster@chazhound.com)  
-2\. Fax the following fax number:  
+1\. Fax the following fax number:  
 904-241-6741  
-3\. Online at: [Chazhound Message Center](http://www.chazhound.com/mail.html)  
-3\. Mail the following address:
-
-Chazhound Entertainment Network  
-1371 Eastwind Drive  
-Jacksonville Bch, FL 32250
+2\. Online at: [Chazhound Message Center](http://www.chazhound.com/mail.html)  
 
 **Conclusion**  
 
 
      Chazhound makes protecting your privacy a top priority. We want you to feel safe and in total control with your experiences with us. Our goal is to entertain and educate you on everyday life issues. Thank you for your continued support.  
-[Disclosures/Disclaimers](https://web.archive.org/web/20010602021808id_/http%3A//chazhound.com/disclosure.html)   
+[Disclosures/Disclaimers](https://web.archive.org/web/20011221051926id_/http%3A//chazhound.com/disclosure.html)   
 
 
 Back
 
-© 1998-2000 [Chazhound](http://www.chazhound.com/mail.html)
+© 1997-2002 Chazhound
 
 |   
 ---|---
