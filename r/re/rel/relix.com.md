@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216045246id_/http%3A//www.relix.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207141133id_/http%3A//relix.com/privacy.phtml) for the most accurate reproduction.*
 
 # Relix Magazine and Relix Records | Privacy Policy
 
-  |  **Privacy Policy**   
+  
+**Privacy Policy**   
 
 
 At Relix.com, our goal is to be your favorite destination for music information on the Internet. We do this by providing you with the information, services and products that are essential to you. To achieve this goal, we sometimes ask to collect data to help us understand what information, services and products will be most useful to you. 
@@ -23,6 +24,5 @@ A cookie is a small text file containing a unique identification number that is 
 
 You have the ability to configure your browsers to refuse acceptance of cookies. A cookie cannot pass on a computer virus, or even capture your e-mail address. Cookies help readers by saving such information as passwords and editorial preferences on user hard drives. 
 
-Please be aware that advertisers have links on our sites that take you to other sites that may collect personally identifiable information about you. We hope that all third parties involved adhere to policies that protect users' privacy. However, this privacy policy does not cover third party data collection practices and Relix does not assume any responsibility for any actions of third parties. 
+Please be aware that advertisers have links on our sites that take you to other sites that may collect personally identifiable information about you. We hope that all third parties involved adhere to policies that protect users' privacy. However, this privacy policy does not cover third party data collection practices and Relix does not assume any responsibility for any actions of third parties.    
 
-|  
