@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205194400id_/http%3A//www.ebookers.com/helpandinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603192446id_/http%3A//www.ebookers.com/helpandinfo/privacy.html) for the most accurate reproduction.*
 
 # ebookers.com - Privacy Statement
 
@@ -64,16 +64,19 @@ We at ebookers.com are constantly researching the latest in technology to ensure
 
 If you want to know when our site is using a cookie from your hard drive, you can set your browser to send you an alert. If you prefer to use our site without utilising cookies, you can set your browser to not accept them at all, however, they will make your life easier. Many web sites are employing this cookie technology and cookies are never to be used to store information of a private nature, such as credit card numbers. Also, you can be assured that the information stored in any cookies initiated by ebookers cannot be accessed by any other web sites. 
 
-ebookers.com works with a third party to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by ebookers.com and does not cover the use of cookies by any advertisers. ebookers.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how DoubleClick, Inc. manages the privacy of information in conjunction with serving ads on this site go to [www.doubleclick.net](https://web.archive.org/web/20001205194400id_/http%3A//www.ebookers.com/helpandinfo/www.doubleclick.net)
+ebookers.com works with a third party to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by ebookers.com and does not cover the use of cookies by any advertisers. ebookers.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how DoubleClick, Inc. manages the privacy of information in conjunction with serving ads on this site go to [www.doubleclick.net](http://www.doubleclick.net/us/corporate/privacy/)
 
-**Links**
+For more information about DoubleClick cookies and how to "opt-out",   
+please see [www.doubleclick.net](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp)
+
+ **Links**
 
 This web site contains links to other websites. Please note that when you click on one of these links, you are ‘clicking’ to another website. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours **  
 **
 
   
 **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layers (SSL) technology to ensure the privacy of the information provided to us both in the flights booking engine and in the order forms. At no time are the customers debit/credit card details transmitted un-encrypted over the Internet. We also operate behind a firewall to ensure there is no unauthorised access to our systems.   
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layers (SSL) technology to ensure the privacy of the information provided to us both in the flights booking engine and in the order forms. By default, all debit/credit card details are transmitted in an encrypted form; however, we offer the option to transmit them in an unencrypted form for users whose browsers do not support SSL. We also operate behind a firewall to ensure there is no unauthorised access to our systems.   
 [More information about online security](https://web.archive.org/helpandinfo/security.html)
 
 To change information in your user profile visit.   [http://www.ebookers.com/myebooker](https://web.archive.org/myebooker/index.html)
