@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204193349id_/http%3A//doityourself.com/services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618193414id_/http%3A//www.doityourself.com/services/privacypolicy.htm) for the most accurate reproduction.*
 
 # DoItYourself.com Privacy Statement
 
@@ -80,9 +80,3 @@ Finally, although Advice Company has a very strong Privacy Protection policy on 
 We may amend this Privacy Policy on a prospective basis (i.e., for future visits) at any time by posting a revised policy on our Web site. Further, nothing in this Privacy Policy is designed to protect the privacy of visitors whose use of the Company's Website is, in our opinion, or that of our attorneys or affiliates is intended for illegal, improper or abusive purposes, for purposes of marketing or solicitation, or would violate any other terms and conditions relating to use of the Web site.
 
 This Privacy Statement is effective January 4, 2000.
-
-[**Don't have the time to do it yourself? Click here to get matched with local contractors.  
-We will have up to four get in touch with you - all prescreened and insured!**](http://doityourself.com/handyman/request.htm)
-
-[**Want to Save 20% and More on your Auto and Home Owners Insurance?  
-Click Here for a quick quote!**](https://web.archive.org/to/electricinsurance.htm)
