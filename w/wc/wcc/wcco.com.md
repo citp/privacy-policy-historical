@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604063510id_/http%3A//wcco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205215024id_/http%3A//wcco.com/privacy) for the most accurate reproduction.*
 
-# wcco.com - Privacy
+# WCCO: Privacy
 
-Privacy Statement - wcco _(Updated 07/03/01)_  
+Privacy Statement - wcco
+
+_(Updated 07/03/01)_  
 We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to: 
 
-**Privacy Coordinator  
-CBS.com (555/13)  
-524 West 57th Street  
-New York, New York 10019**
+**Privacy Coordinator CBS.com (555/13) 524 West 57th Street New York, New York 10019**
 
 We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion.
 
- **KINDS OF INFORMATION**
+**KINDS OF INFORMATION**
 
 There are two kinds of information web sites can obtain about you:
 
@@ -36,36 +35,22 @@ Most browsers are initially set to accept cookies. If you'd prefer, you can set 
 
 Sometimes we post surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
 
-  
-
   * To send you information about CBS and this Web site
-  
-
   * To give to our content partners, who may send you promotional material
-  
-
   * To give to our advertisers, who may send you information about their products and services
 
-  
-The choice is yours – you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. **CONTESTS AND SWEEPSTAKES**
+The choice is yours – you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
+
+**CONTESTS AND SWEEPSTAKES**
 
 From time to time we run contests and sweepstakes in which we ask for Personally Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
 
-  
-
   * To notify you if you are a winner
-  
-
   * To send you information about CBS and our site
-  
-
   * To give to content partners, who may send you promotional email
-  
-
   * To give to advertisers, who may send you emails about their products and services
 
-  
-We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by us and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates.
+We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by us and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
 
 If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. 
 
@@ -81,11 +66,11 @@ We reserve the right to cooperate with government and law enforcement agencies e
 
 Information posted to message boards or chat areas is available to the general public. Please use caution when posting any such information. Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information.
 
- **FEEDBACK AND EMAIL**
+**FEEDBACK AND EMAIL**
 
 On every page there is a link to a "feedback" or "email" form so you can comment, complaint, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type and referring URL to better diagnose technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence.
 
- **CBS-TV AFFILIATES**
+**CBS-TV AFFILIATES**
 
 CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be “branded” to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
 
@@ -111,16 +96,10 @@ Email to [privacy@cbs.com](mailto:privacy@cbs.com).
 
 Regular mail to:
 
-**Privacy Coordinator  
-CBS.com (555/13)  
-524 West 57th Street  
-New York, New York 10019**
+**Privacy Coordinator CBS.com (555/13) 524 West 57th Street New York, New York 10019**
 
 Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. 
 
 **SECURITY OF PRIVATE INFORMATION**
 
 Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at CBS, to protect your information from theft, misuse and alteration.
-
-  
-
