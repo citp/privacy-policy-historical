@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsa.edu privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603163440id_/http%3A//www.utsa.edu/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsa.edu privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204192044id_/http%3A//www.utsa.edu/policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy for The University of Texas at San Antonio
 
