@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603023317id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2001-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011206002346id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
 # TheAA > Privacy Policy
 
@@ -24,7 +24,7 @@ Use of Information
 
 to help to identify you when you telephone us to make an enquiry - for example, by asking you for your date of birth or telephone number so that we can avoid disclosing information to a person who is not authorised by you to receive it: 
 
-  * to write to you or to telephone you with information about other services or products either from us or from our carefully selected partners. We will not use your information in this way if you have opted out or otherwise not consented.
+  * to write to, email or telephone you with information about other services or products either from us or from our carefully selected partners. We will not use your information in this way if you have opted out or otherwise not consented.
   * to help us to administer accounts, services and products which we offer.
   * to help detect fraud or loss.
   * Information we hold about you and your preferences will help us to make sure that we contact you about things likely to be of relevance and interest to you.
@@ -37,7 +37,9 @@ Disclosure of Information
 
 5\. Other companies in the Centrica group may use personal information for any of the purposes set out above. This is limited to companies which we control and includes those using the British Gas, Scottish Gas, Goldfish and AA brands. 
 
-6\. We do not sell mailing lists to third parties for their marketing purposes. Where we have told you in advance, we may disclose certain information to third parties such as a gas, electricity or telecoms network service providers for purposes solely connected with the provision of our service via their networks. Where required or permitted by law, information may be provided to others, such as the Police or the Inland Revenue. 
+6\. We do not sell mailing lists to third parties for their marketing purposes. Where we have told you in advance, we may disclose certain information to third parties such as a gas, electricity or telecoms network service providers for purposes solely connected with the provision of our service via their networks. Where required or permitted by law, information may be provided to others, such as the Police or the Inland Revenue.
+
+Where a service is to be provided by a third party, for example, a hotle you have chosen through the AA Hotel Booking Service, we may disclose your personal information to that third party for the purpose of ensuring the effective delivery of the service to you. 
 
 Protection of Information
 
