@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovetest.com privacy policy that was archived on 1999-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991012223834id_/http%3A//www.lovetest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetest.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615011057id_/http%3A//www1.lovetest.com/privacy.html) for the most accurate reproduction.*
 
 # Free LoveTest - Privacy Statement
 
@@ -39,7 +39,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. You can send email to [unsubscribe@lovetest.com](mailto:unsubscribe@lovetest.com)
-  2. You can visit the following URL: [http://www.lovetest.com/newsletter.html](https://web.archive.org/web/19991012223834id_/http%3A//www.lovetest.com/newsletter.html)
+  2. You can visit the following URL: [http://www.lovetest.com/newsletter.html](https://web.archive.org/web/20000615011057id_/http%3A//www1.lovetest.com/newsletter.html)
   3. You can send mail to the following postal address:  Euregio.Net AG, Wirtzfeld 140, 4760 Büllingen, Belgium 
 
 
@@ -58,7 +58,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Joe Savelberg Euregio.Net AG Wirtzfeld 140 4760 Büllingen Belgium webmaster@lovetest.com
 
   
-[](http://leader.linkexchange.com/59867/X015901/clicklogo)  
+[](http://leader.linkexchange.com/100985/X015901/clicklogo)  
 
 
-[](http://ads.easyscopes.net/cgi-bin/redirect.cgi/2)
+[](http://ads.easyscopes.net/cgi-bin/redirect.cgi/7)
