@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightningcast.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001213119id_/http%3A//www.lightningcast.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightningcast.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604181821id_/http%3A//www.lightningcast.com/company/privacy.html) for the most accurate reproduction.*
 
 # Lightningcast - Privacy Policy
 
