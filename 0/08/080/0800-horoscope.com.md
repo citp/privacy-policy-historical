@@ -1,88 +1,81 @@
-> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/privacy.html) for the most accurate reproduction.*
 
 # 0800-horoscope - Privacy Statement
 
-[](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/index.html)  
+[](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/index.html)  
 | 
 
 * * *  
   
 ---  
-**CHANNELS**  
- **[AstroBingo](http://www.easyscopes.com/astrobingo.html)**  
- **[AstroChatters](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/astrochatters.html)**  
- **[EasyScopes](http://www.easyscopes.com/)**  
- **[Love Tests](http://www.lovetest.com/)**  
- **
-
-* * *
-
-**  
- **FREE ASTROLOGY SERVICES**  
- **[Birth Charts](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/birthchart.html)**  
- **[Back Issues](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/backissues.html)**  
- **[Combi. Scope](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/weeklycombi.html)**  
- **[Compatibility](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/compatibility.html)**  
- **[Zodiac Profiles](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/zodiacprofiles.html)**  
- **
-
-* * *
-
-**  
+**FREE ASTROLOGY SERVICES**  
+ **[Birth Charts](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/birthchart.html)**  
+ **[Back Issues](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/backissues.html)**  
+ **[Combi. Scope](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/weeklycombi.html)**  
+ **[Sun*Moon*Asc](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/weeklycombi.html)**  
+ **[Compatibility](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/compatibility.html)**  
+ **[Zodiac Profiles](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/zodiacprofiles.html)**  
+  
+* * *  
+  
  **[Horoscopes](https://web.archive.org/)**  
- **  \- [Daily](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/daily.html)**  
+ **  \- [Daily](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/daily.html)**  
  **  \- [Weekly](https://web.archive.org/)**  
+ **  \- [Monthly](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/monthly.html)**  
+ **  \- [Year 2002](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/year2002.html)**  
  ****  
- **[E-Mail Scopes](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/emailscopes.html)**  
- **  \- [Daily](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/dailyscopes.html)**  
- **  \- [Weekly](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/emailscopes.html)**  
- **
-
-* * *
-
-**  
+ **[E-Mail Scopes](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/emailscopes.html)**  
+ **  \- [Daily](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/dailyscopes.html)**  
+ **  \- [Weekly](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/emailscopes.html)**  
+  
+* * *  
+  
  **FUN STUFF**  
- **[Cartoons](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/cartoons.html)**  
- **[Free Content](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/linkus.html)**  
- **[Guest Book](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/guestbook.html)**  
- **[Newsletter](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/newsletter.html)**  
- **[Postcards](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/postcards.html)**  
- **[Weekly Diary](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/diary.html)**  
- **[Zodiac Stats](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/statistics.html)**  
- **
-
-* * *
-
-**  
+ **[Articles](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/articles.html)**  
+ **[Cartoons](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/cartoons.html)**  
+ **[Free Content](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/linkus.html)**  
+ **[Greeting Cards](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/postcards.html)**  
+ **[Guest Book](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/guestbook.html)**  
+ **[Newsletter](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/newsletter.html)**  
+ **[Weekly Diary](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/diary.html)**  
+ **[Zodiac Stats](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/statistics.html)**  
+  
+* * *  
+  
  **SERVICES**  
  **[Personal Ads](http://www.one-and-only.com/menu1.htm?AssociateID=174099)**  
- **[Gifts& More](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/products.html)**  
- **[Zodiac Posters](http://www.easyscopes.com/store/)**  
- **
-
-* * *
-
-**  
+ **[Gifts& More](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/products.html)**  
+  
+* * *  
+  
  **SITE INFO**  
- **[Home](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/index.html)**  
- **[About 0800](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/about.html)**  
- **[About Rita Ann](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/ritaann.html)**  
- **[Advertise](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/sponsors.html)**  
- **[Feedback](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/feedback.html)**  
- **[Link To Us](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/linkus.html)**  
- **[Tell A Friend](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/tellafriend.html)**  
- **[User Settings](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/usersettings.html)**  
- **
-
-* * *
-
-**  
+ **[Home](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/index.html)**  
+ **[About 0800](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/about.html)**  
+ **[About Rita Ann](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/ritaann.html)**  
+ **[Advertise](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/sponsors.html)**  
+ **[Feedback](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/feedback.html)**  
+ **[Link To Us](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/linkus.html)**  
+ **[Tell A Friend](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/tellafriend.html)**  
+ **[User Settings](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/usersettings.html)**  
+  
+* * *  
+  
+ **SELECTED SITES**  
+ **[Link Index](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/horoscope_links.html)**  
+ **[AstroBingo](http://www.easyscopes.com/astrobingo.html)**  
+ **[AstroChatters](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/astrochatters.html)**  
+ **[EasyScopes](http://www.easyscopes.com/)**  
+ **[Love Tests](http://www.lovetest.com/)**  
+  
+* * *  
+  
+---  
 [](http://www.easyscopes.net/redir/burstsurvey.html?Burst,welcome,ad1277f,1005)  
    
   | 
 
 Please visit our sponsors:   
-[](http://ads.easyscopes.net/cgi-bin/redirect.cgi/6112247?REGION=0800)
+[](http://ads.easyscopes.net/cgi-bin/redirect.cgi/8514348?REGION=0800)
 
   
 
@@ -122,7 +115,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   1. You can send email to [unsubscribe@0800-horoscope.com](mailto:unsubscribe@0800-horoscope.com)
-  2. You can visit the following URL: [http://www.0800-horoscope.com/newsletter.html](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/newsletter.html)
+  2. You can visit the following URL: [http://www.0800-horoscope.com/newsletter.html](https://web.archive.org/web/20020602082200id_/http%3A//0800-horoscope.com/newsletter.html)
   3. You can send mail to the following postal address:  Euregio.Net AG, Wirtzfeld 140, 4760 Büllingen, Belgium 
 
 
@@ -140,13 +133,12 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Joe Savelberg Euregio.Net AG Wirtzfeld 140 4760 Büllingen Belgium webmaster@easyscopes.com
+Joe Savelberg Euregio.Net AG Wirtzfeld 140 4760 Büllingen Belgium webmaster@0800-horoscope.com
 
   
-[](http://leader.linkexchange.com/4454/X007990/clicklogo)  
+[](http://leader.linkexchange.com/1209/X007990/clicklogo)  
 
 
 * * *
 
-[](http://www.easyscopes.com/partner/1001.html) Last modified: 11/12/2001 -- URL: http://www.0800-horoscope.com/privacy.html   
-[Copyright](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/copyright.html) by [0800-horoscope](mailto:webmaster@0800-horoscope.com), © 1998-2001. [Privacy Policy](https://web.archive.org/web/20011211112909id_/http%3A//0800-horoscope.com/privacy.html)
+[](http://www.easyscopes.com/partner/1001.html)
