@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2004-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040501061537id_/http%3A//www.calastrology.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207031712id_/http%3A//www.calastrology.com/privacypolicy.html) for the most accurate reproduction.*
 
 # California Astrology Association Privacy Policy
 
@@ -13,14 +13,14 @@ Additionally, we use a service called ScanAlert, which continually monitors our 
 
 [](https://scanalert.com/RatingVerify?ref=www.calastrology.com)
 
-Of course, you can always order from us by [ mail or fax](https://web.archive.org/web/20040501061537id_/http%3A//www.calastrology.com/info.html). 
+Of course, you can always order from us by [ mail or fax](https://web.archive.org/web/20041207031712id_/http%3A//www.calastrology.com/info.html). 
 
   
 Sometimes we may make our mailing list (name & postal address) available to carefully chosen companies whose unique offers may be of interest to you. Although we may group our mailing list by clients who bought similar products, we never release credit card, financial, or personal information to any companies or other organizations. **We will never share your email address with anyone.**
 
-If you prefer that we not include your **name and address** when we share our client list with selected companies, please [click here](https://web.archive.org/web/20040501061537id_/http%3A//www.calastrology.com/contact.html) to use our online contact form.
+If you prefer that we not include your **name and address** when we share our client list with selected companies, please [click here](https://web.archive.org/web/20041207031712id_/http%3A//www.calastrology.com/contact.html) to use our online contact form.
 
-If you would like to be removed from our **email** newsletter mailing list, please [click here](https://web.archive.org/web/20040501061537id_/http%3A//www.calastrology.com/unsubscribe.html). Submitting this online form will exclude you from _all_ email correspondence from us. 
+If you would like to be removed from our **email** newsletter mailing list, please [click here](https://web.archive.org/web/20041207031712id_/http%3A//www.calastrology.com/unsubscribe.html). Submitting this online form will exclude you from _all_ email correspondence from us. 
 
 **Additional information from Yahoo!**
 
