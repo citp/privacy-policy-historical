@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603051914id_/http%3A//www.eubusiness.com/help/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072319id_/http%3A//www.eubusiness.com/help/help_privacy.html) for the most accurate reproduction.*
 
 # EUbusiness - Help Section - Privacy Statement
 
@@ -30,15 +30,13 @@ In order to receive our email alerts, users have to complete a registration form
 We request information from users on our order forms. Users have to provide contact information (such as name and delivery address) and financial information (such as credit card number and expiry date). This information is used for billing purposes and to fulfill customer orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
 **Cookies**  
-A cookie is a small text file written to a user’s hard drive that contains information about the user. The cookies do not contain any personal information about users. Once the user closes his or her browser, the cookie simply terminates. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site.
-
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+A cookie is a small text file written to a user’s hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
 
 **Advertising**  
 EUbusiness works with a third party that serves ads to this site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please go to: http://www.engage.com/privacy/ . 
 
 **Log Files**  
-We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
 
 **Links**  
 This web site contains links to other sites. Please be aware that EUbusiness is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of these third party sites. This privacy statement applies solely to information collected by this Web site.
