@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyinside.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207111037id_/http%3A//www.funnyinside.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyinside.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605082202id_/http%3A//www.funnyinside.com/policy.shtml) for the most accurate reproduction.*
 
 # Policy, Dirty Jokes, Adult Comics, Dirty Cartoons, Adult Funny Pictures
 
