@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.ia.us privacy policy that was archived on 1999-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990823093401id_/http%3A//www.state.ia.us/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.ia.us privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609130932id_/http%3A//www.state.ia.us/main/privacy.html) for the most accurate reproduction.*
 
 # www.state.ia.us | Privacy Statement
 
