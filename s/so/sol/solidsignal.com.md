@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidsignal.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604021517id_/http%3A//www.solidsignal.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidsignal.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001171300id_/http%3A//www.solidsignal.com/privacy.asp) for the most accurate reproduction.*
 
 # SolidSignal.com | privacy policy
 
@@ -33,13 +33,6 @@ Solid Signal collects personal identifiable information (PII) about consumers in
     º Your email address   
     º Your telephone number (possibly multiple numbers)   
     º Your zip code   
-**Personal Information (About Someone Else)**  
-Sometimes it may happen that Solid Signal collects personal identifiable information (PII) about people other than web visitors and purchasers on a site. A web shopper may want to ship a new DIRECTV system to Aunt Mabel. How can a person feel assured that Aunt Mabel's information will be protected?   
-**·** Through a variety of response forms offered on our website, a visitor or customer might pass us personally identifiable information about someone other than themselves. We could use the example of a promotion on a new DIRECTV system that you thought your Uncle Ted would just love. You could send us Uncle Ted's information and know that it would be treated with respect. We would ask you to provide the following information about Uncle Ted, where appropriate:   
-   º His name   
-   º His email address   
-   º His telephone number (possibly multiple numbers)   
-   º His zip code   
 **Cookies**  
 A cookie is a small text file that you may allow us (via your web browser settings) to place on your hard drive. Although this sounds strange at first, it is really not dangerous at all and doesn't endanger your privacy, your computer or the personal information stored there. Let's take a look at why:   
 VISITORZ464MYLABTFP8HF1LNJ53SX51EL496  
@@ -67,7 +60,6 @@ Solid Signal will never use or share the personally identifiable information pro
 Solid Signal uses cookie technology in several ways that do not abuse the trust or confidence of our visitors. These ways are detailed as follows:   
 **·** We set cookies on certain pages where we make use of JavaScript 'pop-up' windows to determine whether or not a visitor has been prompted by a particular window. This increases visitor satisfaction because it means we don't make you look at a pop-up window more than once per visit.   
 **·** We set cookies to recognize a returning visitor. This allows us to maintain your individual settings, if applicable.   
-**·** We use cookies to reduce the number of times we require a user to 'log in' to our website.   
 Solid Signal does not require cookies and if you reject our cookie you may still use our site. The only drawback is that your experience will be less convenient and personalized.   
 **Solid Signal Customer E-mail Policy**  
 One of the most widely discussed facets of online privacy deals with unsolicited email messages affectionately known as SPAM. Solid Signal does not SPAM its customers and recognizes that SPAM is a harmful and unwanted nuisance. We do, however, send email messages to our customers under certain circumstances and would like to explain the rules that govern our decision to do so.   
@@ -75,9 +67,7 @@ One of the most widely discussed facets of online privacy deals with unsolicited
 **·** A customer who orders product from us online (as opposed to phoning their order into our call center) will receive an email confirmation within a few moments that their order was successfully processed by our shopping cart. This additional mailing is the only way in which orders placed online and offline differ.   
 **·** A customer who places an order with us is agreeing to receive a certain number of informational emails that we feel are a critical part of a confirmed order. The number of e-mails we send are the absolute minimum that we need to send to satisfy our needs, including shipping & tracking confirmation and the provision of a sales receipt to the customer.   
 **·** Please note: Additional e-mails may be sent, or customers may be contacted by phone in order to help us achieve our high goals of customer service. These additional emails or phone calls will only be made if we have trouble processing or shipping your order.   
-**·** Although the actual number of emails received will vary from one order to another, a "Thank You for Purchasing" message and an introduction to Lifetime Rewards™ will be sent as our final email along with an opportunity to unsubscribe from our mailing list.  
 **·** If the customer chooses to unsubscribe they will not receive any more direct e-mails, telephone calls or fax communications from us unless they purchase another product from us. Removal from the email mailing list can be accomplished after any mailing by following the unsubscribe instructions included with the mailing   
-**·** Customers who do not unsubscribe will become enrolled in Lifetime Rewards™ and shall remain in our database of persons wishing to receive notice of special offers, informational newsletters and 'quality of service' telephone calls from time to time, as we deem appropriate.  
 **Email Messages Resulting From Special Offers and Promotions**  
 **·** Visitors who enter themselves in a sweepstakes or special offer at an SolidSignal.com website will receive email messages deemed directly related to the promotion, including notification of contest winners.   
 **·** Those entrants who expressly requested (via the response form) to be added to our promotional mailing list will receive periodic product updates and incentives. Removal from the promotional mailing list can be accomplished after any mailing by following the unsubscribe instructions included with the mailing.  
