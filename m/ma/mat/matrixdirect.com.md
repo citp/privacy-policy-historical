@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207141218id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605152534id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
