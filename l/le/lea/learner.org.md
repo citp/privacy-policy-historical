@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610140315id_/http%3A//www.learner.org/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207005848id_/http%3A//www.learner.org/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Annenberg / CPB: Privacy Policy
 
@@ -68,12 +68,12 @@ The electronic information our servers collect about visitors depends on what th
 > By postal mail: 
 >
 >> Annenberg/CPB  
->  401 9th Street NW  
+>  1301 Pennsylvania Avenue NW #302  
 >  Washington, DC 20004
 > 
 > By telephone: 
 >
->> 1-202-879-9654 
+>> 1-202-783-0500 
 > 
 > By email: 
 >
