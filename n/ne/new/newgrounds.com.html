@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2003-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030411214241id_/http%3A//www.newgrounds.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202150742id_/http%3A//newgrounds.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Newgrounds Privacy Statement</title>
@@ -11,9 +11,9 @@
   FORM { margin-bottom : 0 px; margin-top : 0 px; }
 BODY
 {
-scrollbar-face-color: #666666; scrollbar-shadow-color: #333333; 
-scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #333333; 
-scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333; 
+scrollbar-face-color: #666666; scrollbar-shadow-color: #333333;
+scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #333333;
+scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333;
 scrollbar-arrow-color: #FFEB00
 }
 </style>
@@ -31,16 +31,83 @@ function JumpToHotContent()
 function GetHeightWidth(height, width)
 {
 	var xposition=0, yposition=0, text;
-	
+
 	if((parseInt(navigator.appVersion) >= 4))
 	{
 		xposition = (screen.width - width) / 2;
 		yposition = (screen.height - height) / 2;
 	}
-	
+
 	text = "height=" + height + ",width=" + width + ",screenx=" + xposition + ",screeny=" + yposition + ",left=" + xposition + ",top=" + yposition;
 	return(text);
 }
+
+	// Start e-zine popup.
+	function OurCookieVal(key)
+	{
+		var arr = new Array();
+		var value;
+
+		arr = document.cookie.split(";")
+		for(var i=0; i<arr.length; i++)
+		{
+			if(arr[i].indexOf(key + "=") != -1)
+			{
+				value = arr[i].substring(arr[i].indexOf("=")+1);
+				return(value);
+			}
+		}
+
+		return(-1);
+	}
+
+	function OpenAdultEzine()
+	{
+		var this_datetime = new Date();
+		var expiry = new Date(this_datetime.getTime()+86400000);
+
+		var ezine_cookie = OurCookieVal('ng_ezine');
+
+		var width, height;
+
+		if (parseInt(navigator.appVersion) >= 4)
+		{
+			width = (screen.width - 150);
+			height = (screen.height - 150);
+		} else
+		{
+			width = 550;
+			height = 400;
+		}
+
+		if(ezine_cookie == -1)
+		{
+			document.cookie = 'ng_ezine=Y'
+			window.open('/webcam/adult/freeezines.html', 'ng_ezine', GetHeightWidth(height, width) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+			window.focus();
+		}
+	}
+
+	OpenAdultEzine();
+	// End e-zine popup.
+
+
+	function DoEncEmail(dom, recip, name)
+	{
+		var dom_parts = dom.split("|");
+
+		document.write('<a href="mailto:');
+		document.write(recip + "@");
+		for(var i=(dom_parts.length-1); i>=0; i--)
+		{
+			document.write(dom_parts[i]);
+			if(i!=0)
+			{
+				document.write(".");
+			}
+		}
+		document.write('">' + name + '</a>');
+	}
 
 function CheckSearch()
 {
@@ -81,33 +148,40 @@ function OpenFlash(file, height, width, url, name)
 {
 	window.open('/show_flash.php?file=' + file + '&height=' + height + '&width=' + width + '&url=' + url + '&name=' + name, name, GetHeightWidth(height + 42, width) + ',location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=0,toolbar=0,hotkeys=0');
 }
-		
+
 // -->
 </script>
 
-<!-- VC active -->
-<script language="JavaScript">
+<!-- TRACK POP-UP -->
+
+<!-- Begin Ban Man Pro Banner Code -  Site: Newgrounds  Zone: Newgrounds Pop -->
+<script language="JAVASCRIPT">
 <!--
-// ValueParameters
-ValueHost = "hs0264939";
-ValueLoaded = false;
-ValueID = "pagebuster";
-ValueVersion = "1.1";
-ValueBannerType = "pop";
+var browName = navigator.appName;
+var browDateTime = (new Date()).getTime();
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://ads.track.net/banman.asp?ZoneID=178&Task=Get&Browser=NETSCAPE6&SiteID=5&X=' + browDateTime + '" width=1 height=1 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<S'+'CRIPT src="http://ads.track.net/banman.asp?ZoneID=178&Task=Get&Browser=NETSCAPE4&SiteID=5">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<A HREF="http://ads.track.net/banman.asp?ZoneID=178&Task=Click&Mode=HTML&SiteID=5&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://ads.track.net/banman.asp?ZoneID=178&Task=Get&Mode=HTML&SiteID=5&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" width="1" height="1" border="0"></A>'); } }
+if (browName=='Microsoft Internet Explorer')
+     { document.write('<ifr'+'ame src="http://ads.track.net/banman.asp?ZoneID=178&Task=Get&SiteID=5&X=' + browDateTime + '" width=1 height=1 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+// --> 
+</script><iframe src="http://ads.track.net/banman.asp?ZoneID=178&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=5&amp;X=1580436308906" width="1" height="1" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+<noscript>
+    <a href="http://ads.track.net/banman.asp?ZoneID=178&Task=Click&Mode=HTML&SiteID=5&PageID=98785" target="_new">
+    <img src="http://ads.track.net/banman.asp?ZoneID=178&Task=Get&Mode=HTML&SiteID=5&PageID=98785" width="1" height="1" border="0"></a>
+</noscript>
+<!-- End Ban Man Pro Banner Code -  Site: Newgrounds  Zone: Newgrounds Pop -->
 
-ValuePopSize = "large";
-      
-
-//-->
-</script>
-<script language="Javascript" src="http://oz.valueclick.com/jsmaster"></script>
-<script language="JavaScript">
-<!--
-if (ValueLoaded) ValueShowAd();
-//-->
-</script>
-<!-- vc active -->
-
+<!-- END TRACK POP-UP -->
 
 <map name="navbar">
 <area shape="rect" coords="0,2,87,33" href="/index.html" alt="Frontpage Features, News">
@@ -127,13 +201,13 @@ if (ValueLoaded) ValueShowAd();
 <tbody><tr>
 <td rowspan="4" valign="top" width="158"><a href="/index.html"><img src="/images/tank_large2002.gif" width="150" height="150" border="0"></a></td>
 <td valign="top" bgcolor="#333333" align="center" height="19">
-<font face="arial" size="1" color="#FFFFFF"><a href="/lit/portal_faq.html">Help</a> | 
-<a href="/bbs/">Forums</a> | 
-<a href="/chat/">Chat</a> | 
-<a href="/lit/">Literature</a> | 
-<a href="/webcam/">Webcams</a> | 
-<a href="/users_list.html">Users</a> | 
-<a href="/network/net_news.html">Network</a> | 
+<font face="arial" size="1" color="#FFFFFF"><a href="/lit/portal_faq.html">Help</a> |
+<a href="/bbs/">Forums</a> |
+<a href="/chat/">Chat</a> |
+<a href="/lit/">Literature</a> |
+<a href="/webcam/">Webcams</a> |
+<a href="/users_list.html">Users</a> |
+<a href="/network/net_news.html">Network</a> |
 <a href="/submit.html">Submit Content</a></font></td>
 <td align="right" rowspan="2" valign="top"><a href="/webcam/adult/"><img src="/ads/adult18.gif" width="135" height="80" border="0"></a></td>
 
@@ -163,7 +237,7 @@ randomno=Math.floor((Math.random()*urlarray.length));
 
 urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0 width=468 height=60></a>";
 document.write (urlstr);
-</script><a href="http://www.newgrounds.com/webcam/adult/index.html" target="_blank"><img src="/ads/adult/webcam_ad.jpg" border="0" width="468" height="60"></a>
+</script><a href="http://www.newgrounds.com/collections/datingsims.html" target="_blank"><img src="/ads/adult/dating_sims1.gif" border="0" width="468" height="60"></a>
 </td>
 <!-- ------------------ END BANNER AD --------------------------------------------------------->
 </tr>
@@ -522,7 +596,7 @@ randomno=Math.floor((Math.random()*urlarray.length));
 
 urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0></a>";
 document.write (urlstr);
-</script><a href="http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds" target="_blank"><img src="/ads/adult/true_celebs1.jpg" border="0"></a>
+</script><a href="http://www.rogerceleb.com/?wm_login=newgrounds" target="_blank"><img src="/ads/adult/rc_1.gif" border="0"></a>
 
 <!------------------- END LEFT AD --------------------------------->
 </td>
@@ -533,29 +607,27 @@ document.write (urlstr);
 <!------------------------------------ BANNER AD ------------------------------------>
 
 <script language="JavaScript">
-var urlarray= new Array("http://www.adultflics.com/freepasswords/?wm_login=newgrounds",
+var urlarray= new Array("http://ClickCash.WebPower.com/SetPermanentSignupCookie.cgi?svc=IF&lang=ENGLISH&type=BOUNTY&mode=1&art=AD05&acct=newgrounds&url=http://picpost.ifriends.net/~wsapi/aexplorer.dll",
       	"http://www.hentaiplayground.com/?wm_login=newgrounds",
-      	"http://www.amateurgirls.com/freepasswords/?wm_login=newgrounds",
-	"http://www.rogerceleb.com/?wm_login=newgrounds",
-	"http://www.adultflics.com/freepasswords/?wm_login=newgrounds",
+	"http://ClickCash.WebPower.com/SetPermanentSignupCookie.cgi?svc=IF&lang=ENGLISH&type=BOUNTY&mode=1&art=AD03&acct=newgrounds&url=http://picpost.ifriends.net/~wsapi/aexplorer.dll",
+	"http://ClickCash.WebPower.com/SetPermanentSignupCookie.cgi?svc=IF&lang=ENGLISH&type=BOUNTY&mode=1&art=AD01&acct=newgrounds&url=http://picpost.ifriends.net/~wsapi/aexplorer.dll.htm",
 	"http://click.silvercash.com/?a=638009&p=1&s=44&r=1",
 	"http://www.hentaiplayground.com/?wm_login=newgrounds",
-	"http://www.amateurgirls.com/freepasswords/?wm_login=newgrounds");
+	"http://www.myfreepaysite.com/?aid=ng");
 
-var imagearray= new Array("/ads/adult/adulflicks_free.gif",
+var imagearray= new Array("/ads/adult/clickcash05.gif",
       	"/ads/adult/hentai.gif",
-      	"/ads/adult/amateursfree.gif",
-      	"/ads/adult/rc_banner04_06_02_468x60_ani.gif",
-	"/ads/adult/adultflicsfree.gif",
+      	"/ads/adult/clickcash10.gif",
+	"/ads/adult/clickcash11.gif",
 	"/ads/adult/celebhotel_hor_01.jpg",
 	"/ads/adult/hentai_free.gif",
-	"/ads/adult/amateur_free.gif");
+	"/ads/adult/myfreepaysite.gif");
 
 randomno=Math.floor((Math.random()*urlarray.length));
 
 urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0></a>";
 document.write (urlstr);
-</script><a href="http://www.adultflics.com/freepasswords/?wm_login=newgrounds" target="_blank"><img src="/ads/adult/adultflicsfree.gif" border="0"></a>
+</script><a href="http://www.hentaiplayground.com/?wm_login=newgrounds" target="_blank"><img src="/ads/adult/hentai_free.gif" border="0"></a>
 
 <!------------------- END BANNER AD --------------------------------->
 </td>
@@ -567,22 +639,22 @@ document.write (urlstr);
 <!------------------------------------ RIGHT AD ------------------------------------>
 
 <script language="JavaScript">
-var urlarray= new Array("http://www.tshirthell.com/cgi-bin/affiliates/clickthru.cgi?id=tfulp&page=http://www.tshirthell.com/hell.htm",
-      "http://www.tshirthell.com/cgi-bin/affiliates/clickthru.cgi?id=tfulp&page=http://www.tshirthell.com/hell.htm");
+var urlarray= new Array("http://www.freeezinebucks.com/ps.php?s=76&u=newgrounds",
+      "http://www.freeezinebucks.com/ps.php?s=105&u=newgrounds");
 
-var imagearray= new Array("/ads/tshirt_saddam.gif",
-      	"/ads/tshirt_saddam.gif");
+var imagearray= new Array("/ads/adult/free_hentai_ad.gif",
+      	"/ads/adult/free_hentai_ad2.gif");
 
 randomno=Math.floor((Math.random()*urlarray.length));
 
-urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0 width=130height=60></a>";
+urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0 width=130 height=60></a>";
 document.write (urlstr);
-</script><a href="http://www.tshirthell.com/cgi-bin/affiliates/clickthru.cgi?id=tfulp&amp;page=http://www.tshirthell.com/hell.htm" target="_blank"><img src="/ads/tshirt_saddam.gif" border="0" width="130height=60"></a>
+</script><a href="http://www.freeezinebucks.com/ps.php?s=105&amp;u=newgrounds" target="_blank"><img src="/ads/adult/free_hentai_ad2.gif" border="0" width="130" height="60"></a>
 
 <!------------------- END RIGHT AD --------------------------------->
 </td>
 </tr></tbody></table>
-<font face="arial" size="-1"><a href="/contact.html">Contact Us!</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/banners/index.html">Link to NG</a> | <a href="/webcam/adult/index.html">Adult Links</a></font>
-</p><p>
-<img <="" body="">
-</p></center></center></body></html>
+<font face="arial" size="-1"><a href="/contact.html">Contact Us!</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/banners/index.html">Link to NG</a> | <a href="/webcam/adult/index.html">Adult Links</a> | <a href="http://www.freeezinebucks.com/ps.php?s=105&amp;u=newgrounds"><font color="#CC0000">FREE</font> Hentai</a></font>
+</p></center> 
+
+</center></body></html>
