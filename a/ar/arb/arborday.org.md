@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331211435id_/http%3A//www.arborday.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204211443id_/http%3A//arborday.org/privacy.html) for the most accurate reproduction.*
 
 # The National Arbor Day Foundation - We Help People Plant and Care for Trees
 
-**PRIVACY STATEMENT**    
-National Arbor Day Foundation  
+**   
+PRIVACY STATEMENT**   
+The National Arbor Day Foundation  
 ……………………………………  
 As a visitor to our web site, it is your right to know if personal information about our visitors is being collected. As a national non-profit foundation committed to providing helpful information about planting and caring for trees, we can assure you that we take our responsibility to safeguard your privacy very seriously. 
 
