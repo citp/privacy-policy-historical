@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 1999-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991218180536id_/http%3A//excite.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619200312id_/http%3A//www.excite.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Excite UK Help - Privacy Policy
 
@@ -14,7 +14,7 @@
 ---  
 Excite UK wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide to us and to control how we use that information. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have. 
 
-This statement discloses the privacy policy for the Excite UK Network of sites, which encompasses the site [http://www.excite.co.uk](http://www.excite.co.uk/) and all co-branded versions of this site (http://btclick.excite.co.uk, http://btclickfam.excite.co.uk, http://btclickbus.excite.co.uk, http://business-barclays.excite.co.uk, http://personal-barclays.excite.co.uk, http://cpw.excite.co.uk, http://uunet.excite.co.uk, http://dellnet.excite.co.uk, http://tesco.excite.co.uk) that collectively form and are referred to as the Excite UK Network. This statement does not extend to sites that are linked to the Excite UK Network but which are not part of the Excite UK Network. 
+This statement discloses the privacy policy for the Excite UK Network of sites, which encompasses the site [http://www.excite.co.uk](http://www.excite.co.uk/) and all co-branded versions of this site (http://btclick.excite.co.uk, http://btclickfam.excite.co.uk, http://btclickbus.excite.co.uk, http://business-barclays.excite.co.uk, http://personal-barclays.excite.co.uk, http://cpw.excite.co.uk, http://uunet.excite.co.uk, http://dellnet.excite.co.uk) that collectively form and are referred to as the Excite UK Network. This statement does not extend to sites that are linked to the Excite UK Network but which are not part of the Excite UK Network. 
 
 The Excite UK Network recognises it has an important mission to build users? trust and confidence in the Internet by promoting the principles of disclosure and informed consent. This privacy policy answers the following questions: 
 
