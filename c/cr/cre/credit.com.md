@@ -1,223 +1,108 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204041914id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
 
-# >> Welcome to Credit.Com << - Privacy Policy
+# credit.com: privacy
 
-What is our commitment to you?
+The web site you entered is operated by Credit.Com, Inc. ("Credit.Com"), which values your patronage and the trust you place in the company and its personnel. This Privacy Policy outlines the types of information that are collected by Credit.Com on its web sites and how Credit.Com uses and protects it. This policy applies only to Credit.Com and to web sites operated by or on behalf of Credit.Com. It does not apply to web sites that are owned by third parties, including web sites that link to Credit.Com or that are linked from this web site (including web sites of lenders and others that have business relationships with Credit.Com to provide loans and other consumer credit products and services to you). Credit.Com is not responsible for the privacy practices of those third party web sites, which may differ from ours in significant ways. We encourage you to learn about the privacy policies of those web sites and the companies that operate them.
 
-Credit.Com understands the importance of protecting personal and credit information. We rely on our relationship with you for the success of our business, and we understand that ensuring the protection of your personal information is crucial in developing that relationship. Our goal is simple. 
+This Privacy Policy may change from time to time. Please check this Privacy Policy each time you use this web site in order to have the most current information on this topic. 
 
-  * To provide information concerning credit and credit products and services to Visitors, Users and Members (as defined below) to the Credit.Com website (the "Website").
-  * To determine what products and services offered by Credit.Com and its Subscribers may be of interest to Visitors, Users and Members.
-  * To help our Users and Members find and, in a secure fashion, apply for or order, credit products and services from Credit.Com and its Subscribers that meet the needs of the Users and Members.
+  
+Credit.Com is a California-based company and strongly supports the inalienable right of privacy guaranteed to all people by the California Constitution. While you may not be protected by the California Constitution, and although Credit.Com is not a "financial institution" and therefore is not governed by the California Financial Information Privacy Act (Sections 4050 et seq. of the California Financial Code, commonly referred to as "S.B. 1"), Credit.Com nonetheless is firmly committed to protecting your personal privacy. As part of that commitment, we communicate this Privacy Policy to every Credit.Com employee, and we require that each Credit.Com employee follow it. In addition, employee access to information about individual customers is limited to those authorized employees with a legitimate business reason to access the information, and then only on a "need-to-know" basis.
 
-In achieving our goals, we are sensitive to your privacy concerns, and are committed to letting you know what information is being collected on our Website, how the information is being used and what choices you have regarding the collection and use of the information. Please take a moment to review this Privacy Notice, which describes our privacy policy. Feel free to contact us at [privacy@credit.com](mailto:privacy@credit.com) with any questions you may have concerning this Privacy Notice or our privacy policy. 
+Back to top
 
-For ease of reference, in this Privacy Notice we will use the term "Subscribers" to refer to third parties (unrelated to Credit.Com) who participate in our Website and whose products and services are accessed via the Website or who otherwise use Credit.Com´s Website technology and services. 
+  
+By using this web site, you represent to us that you are an adult under the laws of the place where you reside and that you agree with the terms of this Privacy Policy and with the Terms and Conditions applicable to the use of this web site. If you are not an adult under the laws of the place where you reside, or if you do not agree with any provision of this Privacy Policy or the Terms and Conditions, please do not use this web site, and do not provide any Personal Information to us.
 
-[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
+Back to top
 
-Who do we collect information on?
+  
+Among its operations, Credit.Com functions as a consumer credit intermediary, linking consumers with various consumer credit products and services. If you are applying for any of those products or services, Credit.Com may collect the personal information you provide us to enroll you as a customer or to complete a transaction. In these circumstances, however, our principal role is to facilitate a relationship in which you provide your information directly to a third party \- for instance, to apply for extension of credit, or to purchase a credit report or other credit-related products or services - rather than to us. We collect information as a consumer credit intermediary to enable us to:
 
-There are three categories of visitors to the Credit.Com Website from and about whom we may collect information: (1) Visitors, (2) Users, and (3) Members. 
+  * Transmit the information to a third-party lender or service provider (subscribers) who process or provide applications for the product or service you request.  
 
-A "Visitor" is anyone who accesses Credit.Com´s Website but who chooses not to become a User or a Member. 
+  * Communicate with you about your applications for products or services.  
 
-A Visitor becomes a "User" (but not a Member) upon submitting to Credit.Com: (a) a request for a product or service that we offer or that is offered by Subscribers, or (b) an application for or information regarding any product or service that we offer or that is offered by Subscribers. Once a Visitor becomes a User, that person will always remain a User, but may opt out of receiving our e-newsletters and promotion communications by using the procedures described in "Opt-out of Sharing and Communications". 
+  * Confirm the acceptance and status of your request by e-mail.  
 
-A Visitor or a User becomes a "Member" by contracting with Credit.Com to enroll as a Member in Credit.Com´s membership services offered through the Credit.Com Website. Click Membership to view the benefits of membership. Once a Visitor or a User becomes a Member, the Visitor or User will remain a Member until he or she terminates his or her enrollment in the membership services Credit.Com provides via its Website. For a Member to opt out of having us share with others the information we collect on the Member, and opt out of receiving our e-newsletters and promotion communications, the Member must cancel his or her enrollment as a Member in Credit.Com´s membership services by using the procedures described in "Opt-out of Sharing and Communications". Once a Member ceases being a Member, that person is treated as a Visitor, except that, unlike the normal Visitor, a cancelled Member´s personal information continues to be stored with Credit.Com in the event the Visitor decides to reinstate Membership. 
+  * Respond to your inquiries about the status and/or destination of your applications.  
 
-[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
+  * Identify the referring web site if you link to us from another web site.  
 
-What types of information do we collect about you and how do we use or share this information?
+  * Delete fictitious data from our systems, based on a customer identifier such as a home telephone number or e-mail address.  
 
-We collect no personal information about Visitors (that is, until they become Users or Members). However, we do issue every Visitor a Visitor cookie (see "Cookies" below.) that includes a Visitor ID. The cookies we issue will collect information that identifies each Visitor´s habits while visiting our Website and the paths the Visitor takes while navigating our Website. We track and store these Visitor cookies anonymously, so they are not traceable to the Visitor´s personal identity (although they are traceable to the Visitor´s Internet address). We collect the cookie information to help us better understand what types of products, services and information we and Subscriber´s offer that are of popular interest, to identify the number of times the same Visitor returns to our Website and to identify the frequency of visits to the different pages of our Website. We do not contact Visitors, send emails to Visitors or share any information concerning Visitors with others, unless the Visitor chooses to become a User or a Member (see "Who do we collect information on?" above for descriptions of Users and Members). 
+  * Handle accounting issues between us and our subscribers and affiliates, using a customer identifier such as a home telephone number or e-mail address, if the subscriber rejects your application.  
 
-We also collect cookie information from Users and Members (see "Cookies" below.). In addition, we collect certain personal and credit information from and about Users and Members, as noted below. The primary reason we collect this personal and credit information about Users and Members is to provide them access to products and services that they request or order from us or Subscribers or that we believe they might be interested in, and to enroll them as Members of our membership services if they choose to become Members. 
+  * Conduct market and demographic analyses on aggregated customer data, which does not identify individual customers.  
 
-If a Visitor or a User chooses to enroll as a Member of Credit.Com´s membership services, our system checks to see if a Visitor ID has been issued for the Visitor´s or User´s computer, and then merges any associated information (including any cookie information) into a profile we establish for the Member that essentially contains all the information we have collected concerning that Member from the first time the Member visits our Website (see the "Profile" section). 
+  * Perform system and security monitoring, such as monitoring the IP addresses of incoming traffic to prevent abuse.
 
-Below we explain the types of information we collect concerning Users and Members, and the primary purposes for which we collect this information: We collect, use and store Users. and Members. names, addresses, social security numbers, and dates of birth to verify their identities, to enroll them as Members in Credit.Com´s membership services, and to establish records of the transactions they request or enter into via our Website. We require verification to protect unauthorized access to their personal information, and to permit them to submit to us and Subscribers applications, orders and requests for products and services. We also require verification to provide Members with personal credit information they order from credit reporting agencies via our Website. 
 
-  * We collect, use and store billing information, such as credit card numbers, to process payments for the products and services Users and Members order via our Website, including products and services offered by Subscribers.
-  * We collect, use and store Information concerning city of birth and mother´s maiden name to verify User´s and Member´s identity in the event they forget their login or password information they need to access products and services from us or our Subscribers via our Website. 
-  * We collect, use and store User´s and Member´s email addresses so we may send the Users and Members notifications, special offers for products and services and e-newsletters via electronic mail.
-  * We collect, use and store certain information provided by our Subscribers of credit products and services. This information may include the Member´s name and email address, whether the Member accepts or purchases the product or service from the Subscriber, the product or service the Member accepts or purchases (if any) from the Subscriber, and the date of the acceptance or purchase from the Subscriber. 
-  * We collect, use and store information Users and Members submit via our Website to Subscribers and information those Subscribers provide us concerning their transactions with Users and Members that result from our Website.
-  * We reserve the right to share with and disclose to third parties all of the information concerning Members that we collect and store, as described above, including all nonpublic personal information. However, we will disclose this information only to Subscribers who offer products and services that we believe might be of interest to Members. 
 
+Credit.Com also provides consumer credit education services. To do so, we may collect your name and your e-mail address to enable us, if you desire, to send you e-mail newsletters and other information about our consumer education services and other programs.
 
+In each of these circumstances, we will only collect and use the minimum information needed to accomplish the stated purpose, and only with your full knowledge and consent.
 
-[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
+Back to top
 
-User´s and Member´s Authorization to Credit.Com to Collect, Use and Store Information
+  
+We keep aggregate anonymous click stream data indefinitely. This information does not include identifying information about any individual customer. This data includes information about the number of customers visiting this web site during a particular time period, the categories of products and services visited, the pages accessed by the customer, and the place from which each customer accessed our web site. This information helps us refine our offerings of products and services and the presentations of those offerings on our web site.
 
-By accepting Credit.Com´s privacy policy (as described in this Privacy Notice) each Visitor acknowledges and agrees to be bound by Credit.Com´s privacy policy. 
+We keep individual page view information in our log files for 90 days to enable us to better respond to the interests of each customer and for system and security monitoring. We keep aggregated page view data indefinitely.
 
-By accepting Credit.Com´s privacy policy (as described in this Privacy Notice) each User and Member (a) acknowledges and agrees to be bound by Credit.Com´s privacy policy, (b) authorizes Credit.Com to collect, use, and store on the User´s or Member´s behalf any information Credit.Com collects from or about the User or Member that Credit.Com deems necessary or appropriate to process the User´s or Member´s orders, requests or applications submitted to us or Subscribers for specific products and services, (c) authorizes Credit.Com to share with Subscribers and other third parties any information Credit.Com collects from or about the User or Member for the purpose of providing the User or Member information concerning products and services that Credit.Com believes might be of interest to the User or Member, and (d) authorizes Credit.Com and Subscribers to process any applications, orders and requests for products and services that the User or Member requests, orders or applies for through the Credit.Com Website. Additionally, by accepting Credit.Com´s privacy policy (as described in this Privacy Notice), each Member acknowledges and agrees that when a credit report is necessary to process an application, request or order a Member submits to us or Subscribers, that Member authorizes Credit.Com to store, for and on behalf of that Member, within the profile Credit.Com maintains on that Member (see the ´Profile´ section), the information obtained from the Member´s credit report, for future use by Credit.Com. 
+We indefinitely keep information about you that is not personally identifiable financial information - information such as your name, your e-mail address, the products or services you order through our web site, and your answers to multiple choice questions - to enable us to communicate with you and for our internal analysis of the demographics of our customers. We give you the ability to opt out of future contact from us at any time.
 
-The above authorizations may be revoked as described in "Opt-out of Sharing and Communications". 
+We keep personally identifiable financial information about you that you furnish to us during your visit to our web site - information such as your Social Security account number, a bank account number, a credit card number, your mother's maiden name, and/or your drivers license number - to facilitate the completion of your transaction. We permanently delete this information from our systems after four business days.
 
-[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
+Back to top
 
-Do we share information with third parties? 
+  
+Credit.Com uses Secure Sockets Layer technology supporting up to 128-bit encryption to prevent unauthorized parties from viewing or tampering with any personal information transmitted to or from Credit.Com during your session. Secure Sockets Layer server authentication allows your browser to confirm a server's identity. Using standard techniques of public-key cryptography, the authentication system verifies that the server's certificate and public ID are valid and have been issued by a certificate authority listed in the browser's list of trusted certificate authorities. Credit.Com is registered with VeriSign®, the best-known certificate authority, and has obtained digital certificates from VeriSign® for www.credit.com and its subdomains and affiliated domains.
 
-While we do not share with third parties information concerning Visitors, we do share with third parties information we collect from or about Users and Members. We may disclose any of this information to Subscribers and our marketing partners. We may arrange to extend offers of products or services to Users and Members either directly or through our affiliates, or through unrelated third parties, when we think a product or service may be of interest to the User or Member. Users and Members may opt out of this sharing as described in "Opt-out of Sharing and Communications". 
+When you provide Credit.Com with personal information, you do so over Secure Sockets Layer technology using a secure encrypted link between the computer you are using and our servers. When we transmit your personal information to the provider of the product or service you are ordering, we also do so over Secure Sockets Layer technology . Credit.Com safeguards information about you in our possession according to established physical and electronic security procedures designed to prevent unauthorized access. We continually assess new information protection technology.
 
-In addition, we may disclose all of the information we collect from or about Users and Members (but not Visitors) to companies that perform services on our behalf or the User´s or Member´s behalf, such as the credit reporting agencies from which we obtain credit report(s), credit card processors, email communications management firms or call center providers. We also may disclose personal information about Users and Members to nonaffiliated third parties as permitted by law. 
+Back to top
 
-Our Website may contain links to other websites for offers and services that we believe might be of interest to Visitors, Users and Members. We believe these websites share a similar commitment to consumer privacy and urge Visitors, Users and Members to review the privacy policies of these websites when visiting them. We cannot, however, be responsible for their privacy practices. 
+  
+Credit.Com does not provide your personally identifiable information to affiliated or unaffiliated companies for their independent use, except when we transmit the information to subscribers who process or provide applications for the product or service you request. 
 
-[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
+Credit.Com may legally disclose your personally identifiable information to unaffiliated third parties when the law requires our cooperation \- for example, in response to a search warrant issued in connection with a fraud investigation, in response to a subpoena, or in response to a request by an authorized government regulator. If possible, we will attempt to comply with any legal request for our cooperation by eliminating all personally identifiable information before releasing our records. If that is not possible, before we provide your personally identifiable information to a third party as required by law, we will seek the issuance of a protective order by a court of competent jurisdiction compelling the third party to maintain the confidentiality of that information.
 
-Profile
+Back to top
 
-We store information that we collect through forms, cookies, log files, clear gifs, Subscribers and third parties to create a profile of our Users and Members. A profile is stored information that we keep on individual Users and Members that detail their use of our Website and the products and services they order from us and Subscribers via our Website. Consequently, information we collect from or about Users and Members is tied to the User´s and Member´s personally identifiable information to provide them offers, improve the content of our Website and pre-populate future request, order and application forms for the User or Member. We may use these profiles to identify, authenticate or tailor a User´s or Member´s visit to our Website, and to direct pertinent marketing promotions to them. We may share Users. and Member´s profiles and personally identifiable information with other third parties. Additionally, we will securely store request, order and application information (including credit reports, but only at the specific request of the consumer) we receive from or about the User or Member for future access and in order to better pre-qualify or identify the User and Member for potential credit products and services offered by us and Subscribers that may be of interest to the User and Member. 
+  
+We do not knowingly solicit personal information from children or send them requests for non-public personal information. If you have reached this point, you have represented to us that you are an adult under the laws of the place where you reside.
 
-[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
+Back to top
 
-Cookies
+  
+A cookie is a piece of data stored on your computer that is tied to information about you. We may use both session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie simply terminates. A persistent cookie is a small text file stored on the hard drive of your computer for an extended period of time
 
-A cookie is a piece of data stored on the Visitor´s, User´s or Member´s computer that is tied to information about the Visitor, User or Member. We may use both session ID cookies and persistent cookies. For the session ID cookie, once a Visitor, User or Member closes his or her browser, the cookie simply terminates. A persistent cookie is a small text file stored on the hard drive of the Visitor´s, User´s or Member´s computer for an extended period of time 
+You may use our web sites even though you have set your computer's browser to reject cookies. The only drawback to rejecting cookies is that the you will be limited in some areas and services of our web site.
 
-A Visitor may use our Website even though the Visitor has set his or her computer´s browser to reject cookies. The only drawback to rejecting cookies is that the Visitor will be limited in some areas and services of our Website. See the ´Profile´ section. 
+You may be unable to order, apply for, or request products or services from our subscribers via our web sites if you have set your computer's browser to reject cookies. Thus, for you to access products or services offered by us or our subscribers through our web sites, we recommend that you set your computer's browser to accept cookies.
 
-A User or a Member may NOT order, apply for or request products or services from us or Subscribers via the Website if the User or Member has set his or her computer´s browser to reject cookies. Thus, for a User or a Member to access products or services offered by us or Subscribers through our Website, the User or Member must set his or her computer or browser´s to accept cookies. 
+Some of the companies that offer products or services via our web sites, and some of the companies that route traffic to our web sites, may transmit cookies from their web sites to your computer. We have no access to or control over these cookies. Consequently, this Privacy Notice only covers our use of cookies and does not cover the use of cookies by any third parties.
 
-Some of the companies that advertise on our Website or that offer products or services via our Website may use cookies on our Website. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. Consequently, this Privacy Notice covers the use of cookies by Credit.Com only and does not cover the use of cookies by any advertisers or Subscribers. 
+Back to top
 
-[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
+  
+We urge you to take every precaution to protect your personal data, both on and off the Internet.
 
-Third Party Advertising
+Back to top
 
-Ads of Subscribers and other third parties appearing on our Website may be delivered directly to our Visitors, Users and Members by the Subscribers and other third parties. Information about Visitor´s, User´s and Member´s visits to our Website, such as the number of times they the viewed an ad or other personal information may be used to serve these ads to Visitors, Users and Members. 
+  
+This Privacy Policy applies to the following web sites: [www.credit.com](http://www.credit.com/), [www.yourcredit.com](http://www.yourcredit.com/), [www.personalcreditinformation.com](http://www.personalcreditinformation.com/), and others that may be added in the future.
 
-This Privacy Notice covers the use of cookies by Credit.Com only and does not cover the use of cookies by any advertisers or Subscribers. 
+Back to top
 
-Log Files
+  
+If you have any questions or concerns about this Privacy Policy or our collection of information, please contact our customer service desk by toll-free telephone at (877) 273-4273 or by e-mail at privacy@credit.com.
 
-Like most standard website servers, our Website server uses log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer our Website, track Visitor´s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. may be linked to Visitor´s, User´s and Member´s personal information. We may use log files to analyze Visitor, User and Member movement. 
+Back to top
 
-Clear Gifs (Web Beacons/Web Bugs)
+  
+The laws and regulations of different countries impose different (and even conflicting) requirements on the use of the Internet and data protection. Credit.Com is located in the United States of America, as are the servers that make this web site available worldwide. The laws of the State of California and, to the extent applicable, the United States of America, govern all matters relating to this web site. If you are located outside the United States of America, please note that any information you provide will be transferred to our servers in the United States of America and, by submitting your information, you authorize this transfer.
 
-Credit.Com and Subscribers may employ, a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Website by informing us what content is effective or by tracking the completion of an application, request or order. Clear gifs are tiny graphics - each with a unique identifier - similar in function to cookies, and are used to track the online movements of our Visitors, Users and Members. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs may be tied to Visitor´s, User´s and Member´s personally identifiable information. 
+Back to top  
 
-Clear Gifs can "work with" existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company´s clear gif, the website or advertising company would match the clear gif´s identifier and the advertising company´s cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company or website. 
-
-In addition, we use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
-
-Communications from Our Website
-
-Special Offers and Updates
-
-We send all new Members a welcoming email to verify the Member´s email, user name and password. Established Members will occasionally receive information on products, services, special deals, and an e-newsletter. Out of respect for the privacy of our Users, we provide them the option to not receive these types of communications; please see the Opt-out of Sharing and Communications section. 
-
-Service Announcements
-
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance or they have submitted information that does not match their existing profile information, we might send Users and Members an email to notify them of that. Generally, Users and Members may not opt-out of these communications. 
-
-Confirmations
-
-We send out confirmation emails whenever a User or Member submits a request, application or an order. Generally, Users and Members may not opt-out of these communications. 
-
-Sharing
-
-Legal Disclaimer
-
-Though we make every effort to preserve Visitor, User and Member privacy, we may need to disclose personal information when required by law when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Website. 
-
-Aggregate Information (non-personally identifiable)
-
-We share aggregated demographic information with product and service providers and advertisers. This information is used when determining whether a potential Subscriber has a product or service that would be of interest to our Visitors, Users or Members, or if our Visitors, Users and Members are the type of customers the potential Subscriber is looking for. However, this aggregated information does not contain any information that may be associated with or tie to a Visitor´s, User´s or Member´s personally identifiable information. 
-
-Third Party Intermediaries
-
-We use a credit card processing company to bill Users and Members for products and services ordered through our Website. These companies may retain, share, store or use personally identifiable information for any secondary purposes. 
-
-Service Providers
-
-Certain third parties and Subscribers may provide products or services through this Website, for example credit reporting agencies, to provide specific services. When a User or Member signs up for these particular services, we share the User´s or Member´s name, or other contact information, including social security number, that is necessary for the third party or Subscriber to provide its products or services to the User or Member. These third parties and Subscribers may be permitted under the law to use the User´s or Member´s personally identifiable information to promote their services. 
-
-Business Transitions
-
-In the event Credit.Com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, Visitor´s, User´s and Member´s information will, in most instances, be part of the assets transferred. Users and Members will not necessarily be notified via email prior to a change of ownership or control of their information, unless the information will be used in a manner substantially different from that stated at the time of collection. If as a result of the business transition, the Visitor´s, Users. and Member´s information will be used in a manner substantially different from that stated at the time of collection, they will be given choice consistent with our notification of changes section. 
-
-[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
-
-Opt-out of Sharing and Marketing Communications
-
-Communications from Credit.Com
-
-Visitors, Users and Members have choices when it comes to learning about new offers or services they can use to help meet their credit management goals. If a User or Member does not wish to receive from Credit.Com or its affiliates emails or other marketing materials from Credit.Com concerning products or services offered by Credit.Com or Subscribers, here are the methods Users and Members may use to opt out of our emailing them marketing communications: 
-
-There is nothing for Visitors to opt out of, since we do not deliver emails or marketing materials to Visitors concerning products or services offered by Credit.Com or Subscribers. 
-
-A User may opt out of receiving marketing-related communications from us at the same time the User places an application, request or an order on the Credit.Com Website by simply checking the opt out option just above the submit button on every application, request or order form on our Website. Additionally, each email we send Users includes instructions and an opt-out link. Or the User may opt out simply by emailing us at [cancel@credit.com](mailto:cancel@credit.com) and informing us in that email of the User´s name and email address of record in our system. 
-
-Members opt-in to our information sharing policies as part of their membership. A Member may opt out of receiving communications from us only by canceling their membership. To cancel membership, a Member may simply email us at any time at [cancel@credit.com ](mailto:cancel@credit.com) and inform us in that email of the Member´s name and email address of record in our system. If a Member cancels membership, that former Member will become and be treated as a Visitor, except that, unlike the normal Visitor, a cancelled Member´s personal information continues to be stored with Credit.Com in the event the Visitor decides to reinstate Membership. This means the Member will receive no email marketing materials from us until the Member becomes a User or Member again. Also, if the former Member wishes to apply for or order products or services from us or from Subscribers, the Member will be required to re-input all information we previously maintained, to the extent needed to process the application or order. 
-
-Sharing of User and Member Personal Information 
-
-There is nothing for Visitors to opt out of, since we do not share Visitors. information with third parties. 
-
-Our Users are given the opportunity to ´opt-out´ of having the personal information we collect on them used for purposes not directly related to the particular product or service the User requests from us or from a Subscriber. A User may opt out of receiving marketing-related communications from us at the same time the User places an application, request or an order on the Credit.Com Website by simply checking the opt out option just above the submit button on every application, request or order form on our Website. Additionally, each email we send Users includes instructions and an opt-out link. Or the User may opt out simply by emailing us at [cancel@credit.com](mailto:cancel@credit.com) and informing us in that email of the User´s name and email address of record in our system. 
-
-Members initially opt-in to our information sharing policies as part of their membership. A Member may opt out of us collecting, storing and sharing the Member´s personal information with others as described in this Privacy Notice only by canceling the Member´s membership. To cancel membership, a Member may simply email us at any time at [cancel@credit.com](mailto:cancel@credit.com) and informing us in that email of the Member´s name and email address of record in our system. If a Member cancels membership, that former Member will become and be treated as a Visitor, except that, unlike the normal Visitor, a cancelled Member´s personal information continues to be stored with Credit.Com in the event the Visitor decides to reinstate Membership. This means the Member will receive no email marketing materials from us until the Member becomes a User or Member again. Also, if the former Member wishes to apply for or order products or services from us or from Subscribers, the Member will be required to re-input all information we previously maintained, to the extent needed to process the application or order. 
-
-Links
-
-Our Website contains links to other websites. Please be aware that Credit.Com is not responsible for the privacy practices of such other websites. We encourage our Visitors, Users and Members to be aware when they link to another website from our Website to read the privacy statements of the accessed website to determine that website´s privacy policy. This Privacy Notice applies solely to information we collect from our Website. 
-
-Security
-
-Our Website takes precautions to protect our Visitor´s, User´s and Member´s information. When Visitors, Users or Members submit sensitive information via our Website, we strive to protect the information both online and off-line. 
-
-When our registration/application/request/order forms ask Users or Members to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the encryption software that we believe is the standard in the industry - SSL. While a User or Member is on a secure page, such as our order form, the "lock" icon on the bottom of Website browsers such as Netscape Navigator and Microsoft Internet Explorer indicates it is locked, as opposed to un-locked, or open, when Users and Members are just ´surfing´ our Website. 
-
-We also strive to protect User and Member information off-line. All of our User´s and Members. information, not just sensitive information, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to a User´s or Member´s personal information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to User and Member information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our User´s and Member´s information is protected. Finally, the servers we use to store personally identifiable information are in an extremely secure environment. 
-
-If Visitors, Users or Members have any questions about the security at our Website, they can send an email to [security@credit.com](mailto:security@credit.com). 
-
-Supplementation of Information 
-
-In order for our Website to properly fulfill its goals, it is necessary for us to supplement the information we receive with information from third party sources. 
-
-Credit Check
-
-We may access a User´s or Member´s credit report(s) to: authenticate identity, pre-qualify or approve the User or Member for credit cards or other credit products, or deliver to the User or Member products or services ordered from us or from Subscribers via our Website. 
-
-ID Address Verification
-
-We use Verisign to verify a User´s or Member´s identity and address as part of our information security and authentication procedures. 
-
-Requests and Purchasing History
-
-To enhance our ability to tailor our Website to a Member´s preference, we combine information about requests and purchasing habits of Members with similar information from Subscribers and other product and service providers, to create personalized User and Member profiles (see the ´Profile´ section). When a User or Member submits a request or makes a purchase, we collect and share that personal and demographic information with the Subscribers the User or Member accesses. 
-
-Enhancement of User and Member Profiles
-
-We may purchase third party marketing data and add it to our existing database to better target our advertising and provide pertinent offers we think our Users and Members would be interested in. We use this information to enhance or overlay the ´profile´ of individual Users and Members. This aggregate marketing data is therefore tied to the User´s or Member´s personally identifiable information. See also the ´Profile´ Section. 
-
-Correcting/Updating/Deleting Personal Information
-
-If a User or Member wants to change their personally identifiable information (such as zip code, phone, email or postal address), or if a User or Member no longer desires our service, we provide a way to correct, update or delete User´s and Member´s personally identifiable information. This can be done by emailing our Customer Support at [cs@credit.com](mailto:cs@credit.com). 
-
-Notification of Changes
-
-If we decide to change our privacy policy, we will make appropriate changes to this Privacy Notice, which will always be accessible on the homepage, and other places we deem appropriate. We suggest that our Visitors, Users and Members visit our Privacy Notice pages each time they visit our Website so they will be aware of our most current policy on what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will typically use information in accordance with the privacy policy in effect when the information was collected. 
-
-If, however, we intend to use User´s or Member´s personal information in a manner substantially different from that stated at the time of collection, we will notify the Users and Members via email of the changes in our privacy practices. If Users and Members do not want us to use their information in this different manner, the Users or Members may opt out or cancel membership as described in the "Opt-out of Sharing and Communications" section of this Privacy Notice. In addition, if we make any material changes in our privacy practices that affect the way we use User´s or Member´s information already stored in our database, we will post a prominent notice on our Website notifying them of the change and we will also email Users and Members notifying them of the changes in our privacy practices. 
-
-Contact Information
-
-If Visitors, Users or Members of Credit.Com have any questions or suggestions regarding this Privacy Notice, our privacy policy, please contact us at: 
-
-Telephone: 415-901-1550
-
-Fax: 415-901-1568  
-Email: [privacy@credit.com](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy@credit.com)
-
-Credit.Com, Inc.  
-550 15th Street, Suite 36b  
-San Francisco, CA 94103
-
-[Back to top](https://web.archive.org/web/20040607172823id_/http%3A//www.credit.com/privacy.jsp#top)
