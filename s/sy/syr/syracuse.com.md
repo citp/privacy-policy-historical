@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601183158id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204101750id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
 
 # Syracuse.com: Privacy Policy
 
@@ -7,7 +7,7 @@
   
 **Privacy Policy**
 
-Last Revised **December 6, 2001**
+Last Revised **August 14, 2002**
 
 Kids and parents click here!
 
@@ -27,7 +27,7 @@ It is the goal of **Syracuse.com** to bring you information that is tailored to 
 
 **Syracuse.com** uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
 
-**Syracuse.com** does not sell any of our users' personal information. Unless otherwise specified, we may, however, share information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us using our form **[www.syracuse.com/contactus](https://web.archive.org/contactus/)**. If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of **Syracuse.com** , you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
+**Syracuse.com** does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us using our form **[www.syracuse.com/contactus](https://web.archive.org/contactus/)**. If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of **Syracuse.com** , you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
 
 We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While **Syracuse.com** will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, **Syracuse.com** does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
 
@@ -62,21 +62,19 @@ Privacy Policy Coordinator
 5795 Widewaters Parkway  
 Syracuse, NY 13214 
 
-|  |  [](http://ads2.advance.net//RealMedia/ads/click_lx.ads/www.syracuse.com/showcase/sliding.ssf/NQS/2075309005/SponsorRight/default/empty.gif/34323163666161663363663931333130)   
+|  |  [](http://ads4.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/showcase/sliding.ssf/NQS/1387983746/SponsorRight/default/empty.gif/64316564656561303364656464363430)   
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
 » [Media Kit](https://web.archive.org/mediakit/)  
-» [Job Opportunities](http://www.syracuse.com/careers/resumes/index.ssf?/vaui/EmpList/top/foliobycust/99311-0542?xid=26989.3a9e7866.0)  
+» [Job Opportunities](http://www.syracuse.com/jobs/resumes/index.ssf?/vaui/EmpList/top/foliobycust/99311-0542?xid=26989.3a9e7866.0)  
 » [Our Affiliates](https://web.archive.org/affiliates/)  
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-|  [ ](http://ads1.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/616573866/Sponsor1/SYRACUSEONLINE/MTBANK04SY01/mt190x33_mort.gif/34323163666161663363663931333130)  
----  
   
-[](http://ads2.advance.net//RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/1501564717/Tile1/SYRACUSEONLINE/COMPEDU01SY05/to_comped.gif/34323163666161663363663931333130)   
   
-[](http://ads2.advance.net//RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/1226457513/Popup/default/empty.gif/34323163666161663363663931333130)  
+  
+  
   
 
