@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuead.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607034357id_/http%3A//valuead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuead.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204033536id_/http%3A//www.valuead.com/privacy.html) for the most accurate reproduction.*
 
 # ValueAd.com - Online Marketing Experts
 
