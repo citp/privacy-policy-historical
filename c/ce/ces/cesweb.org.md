@@ -1,57 +1,81 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405173730id_/http%3A//www.cesweb.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208103305id_/http%3A//www.cesweb.org/privacy/default.asp) for the most accurate reproduction.*
 
-# 2001 International CES: Privacy Statement
+# 2003 International CES: Privacy Policy
 
-Our Commitment To Privacy
+  
+  
+  
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-The Information We Collect
+[](http://www.ce.org/)  
 
-This notice applies to all information collected or submitted on the www.CESweb.org website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-    Name
-    Title
-    Company Name(s)
-    Address
-    Company Type
-    Email address
-    Phone number
-    Fax
-    Credit/Debit Card Information
-    Products Manufactured
-    Store Front Information
-    Company's Gross Annual Sales
-    Buying Influence
+|  |    
 
-The Way We Use Information
 
-We use the information you provide about yourself when placing an order only in the context of your involvement with CES. We use this information to the extent necessary to complete a placed order.
+Privacy
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+CESweb Privacy Statement: Our Commitment to You
 
-We use return email addresses to answer the email we receive and for further contact with you. Such addresses are not shared with outside parties.
+Our Commitment To Privacy  
+Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To ensure this notice is easy to find, it is available on our homepage and at every point where personal identification is requested.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+The Information We Collect  
+This notice applies to all information collected or submitted on the www.CESweb.org website. On some pages, you can order products, register for events, make requests and/or ask to receive materials. The types of personal information collected at these pages include: 
 
-As a service to exhibitors and sponsors, we make CES attendee/guests mailing addresses and fax numbers (only) available to companies exhibiting at CES for pre-and post-show promotion. If you would like your name and address removed from those promotional opportunities, please [email CES Customer Service](https://web.archive.org/web/20010405173730id_/http%3A//www.cesweb.org/contact.asp?emailSubject=Remove) at [CESinfo@ce.org](mailto:CESinfo@ce.org). You may also contact CES Customer Service by phone at 703 907 7605, or by fax at 703 907 7675.
+| Name |    | Fax number  
+---|---|---  
+Title |    | Credit/Debit Card Information  
+Company Name(s) |    | Products Manufactured  
+Address |    | Store Front Information  
+Company Type |    | Company's Gross Annual Sales  
+Email address |    | Buying Influence  
+Phone number |    |   
+  
+The Way We Use Information  
+We use the information you provide when placing an order only in the context of your involvement with CES. We use the information to the extent necessary to complete an order you placed. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share the information with outside parties except to the extent necessary to complete that order. 
 
-Our Commitment To Data Security
+**E-mail Use**  
+We use return e-mail addresses to answer the e-mail we receive and for future contact with you. Such addresses are not shared with outside parties without your permission. If you would like your e-mail address removed from the CES list, please click on or copy and paste the following link into your browser [http://www.CESweb.org/listremove](http://www.cesweb.org/listremove), and enter your e-mail address. Removal requests made any other way may not be processed. NOTE: When you remove your name from the list, you will not receive further show updates regarding the International CES, via e-mail.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+**Address and Fax Number Use**  
+As a service to exhibitors, partners and sponsors, we make CES attendee/guests mailing addresses and fax numbers (only) available to companies exhibiting at CES for pre-and post-show promotion for limited use through a third party vendor. If you would like your name, mailing address and fax number removed from these promotional opportunities, please e-mail CES Customer Service at [CESinfo@CE.org](mailto:CESinfo@CE.org). You also may contact CES Customer Service by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675. When you remove your name from the list, you will not receive further show updates regarding the International CES, via fax or mail. Be sure to include whether you want to be removed from CES lists, exhibitor/sponsor/partner lists, or both.
 
-Our Commitment To Children's Privacy
+**Cookies**  
+A cookie is a piece of data stored on the user’s computer and is tied to information about the user. (Usage of a cookie is in no way linked to any personal information while on our site.) We use both session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. CES uses cookies to gather information about your visits and to help customize your experience while on our website. If cookies are disabled on your browser, you will still be able to access our website.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose any information that could be used to identify those individuals. 
 
-How You Can Access Or Correct Your Information
+Our Commitment To Data Security  
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-If you are a registered exhibitor, you can access and amend your information online starting August 2000. If you are an attendee, you will need to [email CES Customer Service](https://web.archive.org/web/20010405173730id_/http%3A//www.cesweb.org/contact.asp?emailSubject=Correction) at [CESinfo@ce.org](mailto:CESinfo@ce.org) to amend your information. You may also contact CES Customer Service by phone at 703 907 7605, or by fax at 703 907 7675.
+Our Commitment To Children's Privacy  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under the age of 13, and no part of our website is structured to attract anyone under the age of 13. 
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+How You Can Access Or Correct Your Information  
+If you are a registered exhibitor, you can access and amend your information online. If you are an attendee, you can amend your information online until badge production begins, or you may e-mail CES Customer Service at [CESinfo@CE.org](mailto:CESinfo@CE.org) for assistance. You also may contact CES Customer Service by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+You can correct factual errors in your personal information by sending us a request that illustrates the error. 
 
-How To Contact Us
+To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections. 
 
-Should you have other questions or concerns about these privacy policies, please contact CES Customer Service at [CESinfo@ce.org](mailto:CESinfo@ce.org), by phone 703 907 7605, or by fax 703 907 7675.
+How To Contact Us  
+Should you have other questions or concerns about these privacy policies, please contact CES Customer Service at [CESinfo@CE.org](mailto:CESinfo@CE.org), by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675.
+
+|  |   
+---  
+| 
+
+International CES
+
+**  
+January 9-12, 2003  
+Las Vegas, Nevada **
+
+  
+_  Coming in -6231 days!_  
+  |    Search CESweb  
+     
+  
+_    Questions?_   
+   [We've got answers.](https://web.archive.org/help/default.asp)
