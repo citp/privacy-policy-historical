@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816061753id_/http%3A//www.poise.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616161520id_/http%3A//www.poise.com/privacy.asp) for the most accurate reproduction.*
 
 # The Depend Poise Legal Statement
 
