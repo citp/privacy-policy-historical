@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2000-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001011060108id_/http%3A//www.micron.com/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607195820id_/http%3A//micron.com/content.jsp%3Fpath%3D/Legal%26edID%3D19390) for the most accurate reproduction.*
 
-# Micron Technology, Inc. - Privacy Policy
+# Privacy Policy
 
-   
-| [LEGAL](https://web.archive.org/web/20001011060108id_/http%3A//www.micron.com/corporate/legal.htm "Legal Information") | TRADEMARKS | LINKS & LOGOS | TERMS OF USE |
-
+|   
+---|---  
   
-**This privacy statement applies to all web sites owned and operated by Micron Technology, Inc. and its subsidiaries, excluding Micron Electronics, Inc. ("Micron")**
+**This privacy statement applies to all web sites owned and operated by Micron Technology, Inc. and its subsidiaries. ("Micron")**
 
 Micron is committed to protecting your right to privacy when visiting our web sites. We recognize that when you share your personal information with us, you expect us to treat that information in a serious and responsible manner. This privacy statement discloses what information we gather, how we use that information, and how you can correct or change that information.
 
@@ -29,9 +28,9 @@ You may be able to request information on our sites regarding our products and s
 Although Micron's sites are not geared towards children, Micron nonetheless attempts to protect children. Micron must, however, rely on the information provided to us by visitors to our sites. As a result, it is impossible for us to guarantee with absolute certainty that the information collected and utilized by Micron is not derived from a child. The following sets forth Micron's policy with respect to the collection and/or use of children's information:
 
   * We do not collect children's contact information without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and for no other purpose. 
-  * We do not collect children's personally identifiable offline contact information without prior parental consent.
-  * We do not distribute children's personal information to any third party without prior parental consent.
-  * We do not provide the ability to publicly post or otherwise transmit information that could be used to identify a child without prior parental consent.
+  * We do not collect children's personally identifiable offline contact information without prior parental consent. 
+  * We do not distribute children's personal information to any third party without prior parental consent. 
+  * We do not provide the ability to publicly post or otherwise transmit information that could be used to identify a child without prior parental consent. 
   * We do not entice children by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
 
 
