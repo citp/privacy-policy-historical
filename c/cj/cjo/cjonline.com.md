@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cjonline.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205113300id_/http%3A//cjonline.com/aboutUs/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjonline.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603210158id_/http%3A//cjonline.com/aboutUs/privacy.shtml) for the most accurate reproduction.*
 
 # CJ Online | Privacy Policy
 
