@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsys.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204031319id_/http%3A//www.responsys.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.net privacy policy that was archived on 2005-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050316174619id_/http%3A//www.responsys.net/privacy.asp) for the most accurate reproduction.*
 
 # Responsys | Privacy Policy
 
