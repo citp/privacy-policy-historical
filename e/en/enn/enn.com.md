@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2002-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021114132620id_/http%3A//www.enn.com/aboutenn/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623073658id_/http%3A//www.enn.com/aboutenn/privacy.asp) for the most accurate reproduction.*
 
 # 
 
