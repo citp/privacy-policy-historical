@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the lightreading.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209041137id_/http%3A//www.lightreading.com/document.asp%3Fdoc_id%3D4503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightreading.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602213339id_/http%3A//www.lightreading.com/document.asp%3Fdoc_id%3D4503) for the most accurate reproduction.*
 
-# Light Reading - The Global Site for Optical Networking
+# Light Reading - Networking the Telecom Industry
 
 [](https://web.archive.org/) |  |    
 
 
 * * *
 
-**Light Reading, Inc.** ("Light Reading") is committed to your privacy. We created this privacy policy ("Privacy Policy") to inform you of our information gathering and dissemination practices for [www.lightreading.com](http://www.lightreading.com/) (the "Site"). You can generally visit our Sites without revealing any personal information about yourself. However, when you engage in certain activities on the Sites, such as registering to subscribe to one of the Light Reading newsletters or to participate on the message boards, we may ask you to provide certain information that is personally identifiable.
+**Light Reading, Inc.** ("Light Reading") is committed to your privacy. We created this privacy policy ("Privacy Policy") to inform you of our information gathering and dissemination practices for [www.lightreading.com](http://www.lightreading.com/), [www.byteandswitch.com](http://www.byteandswitch.com/), [www.unstrung.com](http://www.unstrung.com/), and [www.boardwatch.com](http://www.boardwatch.com/) (collectively known as the "Site"). You can generally visit our Sites without revealing any personal information about yourself. However, when you engage in certain activities on the Sites, such as registering to subscribe to one of the Light Reading newsletters or to participate on the message boards, we may ask you to provide certain information that is personally identifiable.
 
 **Acquisition of Information**  
 Light Reading collects information from you in the following ways: 
@@ -35,9 +35,9 @@ Because Light Reading cannot predict, control or be responsible for information 
 Light Reading uses good faith efforts to limit our employees’ access to your personally identifiable information to the amount reasonably required to provide prompt, high quality service.
 
 **Update Your Profile**  
-Please help us to provide you with the highest quality and most efficient service by ensuring that your registration profile is current and complete. To edit your profile, visit our [User Preferences](https://web.archive.org/web/20021209041137id_/http%3A//www.lightreading.com/register/user_lists.asp) page.
+Please help us to provide you with the highest quality and most efficient service by ensuring that your registration profile is current and complete. To edit your profile, visit our [User Preferences](https://web.archive.org/web/20030602213339id_/http%3A//www.lightreading.com/register/user_lists.asp) page.
 
-Due to the Internet’s rapidly evolving nature, Light Reading may need to update this Privacy Policy from time to time. If so, Light Reading will post its updated policy at [www.lightreading.com](https://web.archive.org/web/20021209041137id_/http%3A//www.lightreading.com/document.asp?doc_id=4503). Light Reading encourages you to review this Privacy Policy regularly for any changes.
+Due to the Internet’s rapidly evolving nature, Light Reading may need to update this Privacy Policy from time to time. If so, Light Reading will post its updated policy at [www.lightreading.com](https://web.archive.org/web/20030602213339id_/http%3A//www.lightreading.com/document.asp?doc_id=4503). Light Reading encourages you to review this Privacy Policy regularly for any changes.
 
 **Questions?**  
 If you have any questions or suggestions about our privacy or security policies, please feel free to contact us at [support@lightreading.com](mailto:support@lightreading.com).
@@ -46,9 +46,13 @@ If you have any questions or suggestions about our privacy or security policies,
 
 |   |  |  |   
   
-[](https://web.archive.org/ad_redirect.asp?ad_version=2&ad_id=1221&ad_url=http%3A%2F%2Fwww%2Ewindriver%2Ecom%2Fmarkets%2Fplatformne%2Flanding%2Ehtml)   
+[](https://web.archive.org/ad_redirect.asp?ad_version=2&ad_id=1685&ad_url=http%3A%2F%2Fwww%2Eintel%2Ecom%2Fgo%2Foptical)   
   
-[](https://web.archive.org/ad_redirect.asp?ad_version=2&ad_id=998&ad_url=http%3A%2F%2Fwww%2Eopticaloracle%2Ecom) [](https://web.archive.org/document.asp?doc_id=24110)   
   
+[](http://www.boardwatch.com/)   
+  
+[](https://web.archive.org/lru/default.asp)  
+[](https://web.archive.org/webinars.asp)   
+[](https://web.archive.org/document.asp?doc_id=24110)   
 [](https://web.archive.org/employment/)   
-[](https://web.archive.org/webinars.asp)
+
