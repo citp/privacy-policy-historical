@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the suddenlaunch.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211041401id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenlaunch.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613155211id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
 
-# Sudden Launch.com
-
-|    
-** ****** |  |  |  **Privacy Policy**
+# Sudden Launch - Privacy Policy
 
 We have created this privacy policy to show you our commitment to protecting your privacy. If you ever have any questions regarding the content of this privacy policy, you can email us at webmaster@suddenlaunch.com at any time.
 
