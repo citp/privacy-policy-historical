@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217224035id_/http%3A//www.investopedia.com/investopedia/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031352id_/http%3A//www1.investopedia.com/investopedia/privacy.htm) for the most accurate reproduction.*
 
 # Investopedia.com's Privacy Statement
 
