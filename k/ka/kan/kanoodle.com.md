@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207023100id_/http%3A//www.kanoodle.com/privacy.cool) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413110013id_/http%3A//www.kanoodle.com/privacy.cool) for the most accurate reproduction.*
 
-# Kanoodle.com - Privacy Policy
-
-**Privacy Policy**
+# Kanoodle.com Privacy policy
 
 In this Information Age, you need to know how information about you is gathered and used on the Internet. At Kanoodle.com, we take your privacy seriously and do all we can to protect it. This Privacy Policy explains how we collect and use information about you as you utilize Kanoodle.com. Our Privacy Policy is subject to change, so we encourage you to visit this page occasionally for more information.
 
@@ -39,12 +37,12 @@ Some advertisers or Web sites that have links on our site may use their own cook
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.  
-Users can email [customersupport@kanoodle.com](mailto:customersupport@corp.kanoodle.com)  
+Users can email [clientservices@corp.kanoodle.com](mailto:clientservices@corp.kanoodle.com)  
 Users can send mail to the following postal address:  
-606 North French Rd.  
-Suite 6  
+260 Creekside Drive  
+Suite 200  
 Amherst, NY 14208  
-or call the following telephone number: (716) 691-1764  
+or call the following telephone number: 1-877-526-6635  
 
 
 **Your Agreement to This Privacy Policy**  
@@ -52,5 +50,3 @@ By using Kanoodle.com, you indicate that you agree to the collection and use of 
 
 **Changes to This Privacy Policy**  
 We reiterate that our Privacy Policy changes from time to time. Be sure to visit this page occasionally to find any updates we have made. We are committed to post Privacy Policy changes on this page so consumers can be sure of how Kanoodle.com is gathering and using information about them.
-
-< [Kanoodle Home](http://www.kanoodle.com/)
