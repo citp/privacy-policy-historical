@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yehey.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204201906id_/http%3A//www.yehey.com/about/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yehey.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402005716id_/http%3A//www.yehey.com/about/legal) for the most accurate reproduction.*
 
-# The #1 Philippine Search Engine
+# All about YEHEY!
 
 **Privacy Policy**  
 
