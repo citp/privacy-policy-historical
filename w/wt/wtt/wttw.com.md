@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wttw.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607155621id_/http%3A//wttw.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wttw.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208232351id_/http%3A//www.wttw.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | WTTW11
 
