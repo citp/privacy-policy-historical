@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aneki.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209181631id_/http%3A//aneki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aneki.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407181333id_/http%3A//www.aneki.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
-
-| 
 
 Aneki.com respects the privacy of visitors to our website. Individually identifiable informationabout you is not collected unless it was deliberately sent by you. We do not share any information about you with any third party without your permission.
 
@@ -20,5 +18,3 @@ Aneki.com does not make use of "cookies".
 
  **More Information**  
 For more information please contact: [info@aneki.com](mailto:info@aneki.com)
-
-[About aneki.com | ](http://www.aneki.com/about.html)[Contact Us](http://www.aneki.com/contact.html) Copyright © 2003 aneki.com All rights reserved. | 
