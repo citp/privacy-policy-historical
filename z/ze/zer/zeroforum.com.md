@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeroforum.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091346id_/http%3A//zeroforum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeroforum.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622133702id_/http%3A//zeroforum.com/privacy.html) for the most accurate reproduction.*
 
 # zeroforum: privacy statement
 
@@ -30,4 +30,4 @@ Some of our web pages use "cookies". A cookie is a small file that a web site ma
 
   
 [company info](https://web.archive.org/company.html) | [investors](https://web.archive.org/investors.html) | [careers](https://web.archive.org/careers.html)  
-copyright © 2001 zeroforum.com. all rights reserved. [privacy statement](https://web.archive.org/privacy.html)
+copyright © 2003 zeroforum.com. all rights reserved. [privacy statement](https://web.archive.org/privacy.html)
