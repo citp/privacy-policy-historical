@@ -1,7 +1,30 @@
-> *The following text is extracted and transformed from the constitutioncenter.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606142215id_/http%3A//www.constitutioncenter.org/Misc/Pages/PrivacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitutioncenter.org privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011214845id_/http%3A//www.constitutioncenter.org/Misc/Pages/PrivacyPolicy.shtml) for the most accurate reproduction.*
 
 # National Constitution Center: Terms of Use and Privacy Policy
 
+|  |  |   
+---  
+[About Us](https://web.archive.org/about_us/Mission&History/index.shtml)  
+[Purchase Tickets](https://web.archive.org/visiting/VisitorInformation/index.shtml)  
+[Support & Join NCC](https://web.archive.org/support/SupporttheNationalConstitutionCenter/index.shtml)  
+[Shop Online](http://www.ps.aramark.com/constitutioncenter/)  
+[Directions & Hours](https://web.archive.org/visiting/Directions&Hours/index.shtml)  
+[Calendar of Events](https://web.archive.org/visiting/CalendarofEvents/index.shtml)  
+[Facility Rentals](https://web.archive.org/visiting/FacilityRentals/index.shtml)  
+[Press Room](https://web.archive.org/PressRoom/PressReleases/index.shtml)  
+  
+Site Search:  
+  
+Go   
+  
+Sign up for the  
+NCC Newsletter:  
+  
+Go  
+[](https://web.archive.org/forms/_form_tellafriend.shtml)  
+|  |   
+---  
+  
 Disclaimers  
 Right to Use Content  
 Privacy and Security  
@@ -66,4 +89,22 @@ All online transactions conducted on the NCC website are protected by industry-a
 
 We are always exploring ways to improve the technology and features we offer on our website. Occasionally, changes in the technology, functionality or content we provide on our website may require us to revise policies and practices set forth on this page. We encourage our visitors to return to this page to learn about any changes we have made to our Web policies. 
 
-If you have any questions, please contact us at [ncc@constitutioncenter.org](mailto:ncc@constitutioncenter.org).
+If you have any questions, please contact us at [ncc@constitutioncenter.org](mailto:ncc@constitutioncenter.org).  
+  
+|  |   
+---  
+  
+S. I. Hayakawa (1906-1992)
+
+  
+He Curbed Student Protest During The Vietnam War
+
+Samuel Ichiye Hayakawa, a professor of English at San Francisco State University, became university president in 1968, at the height of the anti-Vietnam War movement.
+
+Student and faculty anti-war demonstrations periodically closed San Francisco State. Impatient with student radicals, Hayakawa used a firm hand in shutting down the protests. The right to free speech, he believed, is balanced against the rights of others to pursue their lives and studies without disruption.
+
+As a result of his actions, Hayakawa became a well-known - and popular - figure. California voters elected him to the U.S. Senate in 1976. There, he introduced a constitutional amendment to make English the sole official language of the nation. After serving a single term, Hayakawa retired from the Senate in 1983. 
+
+* * *
+
+American Stories are adapted from an interactive exhibit at the National Constitution Center that features the stories of 100 people whose lives, for better and for worse, illustrate principles of American constitutionalism. 
