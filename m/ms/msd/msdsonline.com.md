@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msdsonline.com privacy policy that was archived on 2004-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040426234859id_/http%3A//msdsonline.com/Home/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msdsonline.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804224910id_/http%3A//www.msdsonline.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
