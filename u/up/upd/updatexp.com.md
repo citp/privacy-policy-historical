@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updatexp.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202191434id_/http%3A//www.updatexp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updatexp.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605081652id_/http%3A//www.updatexp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.updatexp.com Privacy Policy
 
@@ -53,7 +53,7 @@ However external sites that [ www.updatexp.com](http://www.updatexp.com/) links 
   | 
 
 **Thank You**  
-www.updatexp.com 2003  
-Updated - June 2003
+www.updatexp.com 2004  
+Updated - January 2004
 
-If you have any concerns please contact Marc Liron at: [marc@updatexp.com](mailto:marc@updatexp.com)
+If you have any concerns please contact **[Marc Liron](http://www.updatexp.com/contact.html)** 
