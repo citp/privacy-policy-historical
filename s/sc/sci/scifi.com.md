@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206095709id_/http%3A//www.scifi.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2003-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030419084827id_/http%3A//scifi.com/terms/privacy.html) for the most accurate reproduction.*
 
 # SCIFI.COM - Overall Privacy Statement
 
@@ -18,7 +18,7 @@ When you visit SCIFI.COM you can expect to be informed about:
 
 Questions regarding this statement should be directed to SCIFI.COM's Database Marketing Coordinator at [dbcoordinator@scifi.com](mailto:dbcoordinator@scifi.com). To return to the Site, [click here](http://www.scifi.com/). 
 
-SCIFI.COM is operated by USA Networks, Inc., which is the parent company of SCIFI LLC. 
+SCIFI.COM is operated by Universal Television Networks, part of the Universal Television Group ([www.universalstudios.com](http://www.universalstudios.com/)), a division of Vivendi Universal Entertainment (VUE). 
 
 * * *
 
@@ -29,7 +29,7 @@ SCIFI.COM gathers data about users from different sources. First, through option
 SCIFI.COM gathers user information in the following processes: 
 
   1. **Cookies**  
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences, and to make using our website more enjoyable. If you wish, you may set your browser to reject Cookies and still enjoy this site. Follow the instruction in the help menu of your web browser. Cookies may be used to store user information such as user ID or login if you choose, but we will not collate this with your e-mail address or other personally identifiable information. 
+To enhance your experience with our sites, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences, and to make using our Web site more enjoyable. If you wish, you may set your browser to reject Cookies and still enjoy this site. Follow the instruction in the help menu of your Web browser. Cookies may be used to store user information such as user ID or login if you choose, but we will not collate this with your e-mail address or other personally identifiable information. 
 
 We use cookies to count the number of unique users who visit our site and track general traffic patterns only. Data collected from our cookies will be used in aggregate form only, and will not be linked to any personally identifying information that you provide to us. 
 
@@ -45,8 +45,8 @@ During registration the user **has the option** of supplying first name, last na
 
   4. **Various Periodic Surveys/Polls**  
 Occasionally SCIFI.COM conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party. SCIFI.COM offers interactive polls to users so they can easily share their opinions with other users and see what the SCIFI.COM audience thinks about relevant issues 
-  5. **Various Periodic Sweepstakes/Contests/Promotions For Prizes**  
-SCIFI.COM offers contests and sweepstakes in which we request certain personal information. At a minimum, the required information includes name, address, daytime telephone number and email address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form is used to verify the entrant's identity, and to contact winners and/or prize recipients. There are two situations in which SCIFI.COM will divulge this information to a third party-- _provided the user gives express consent_ : 
+  5. **Various Periodic Sweepstakes/Contests/Promotions for Prizes**  
+SCIFI.COM offers contests and sweepstakes in which we request certain personal information. At a minimum, the required information includes name, address, daytime telephone number and email address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form is used to verify the entrant's identity, and to contact winners and/or prize recipients. There are two situations in which SCIFI.COM will divulge this information to a third party— _provided the user gives express consent_ : 
 
 > (1) A user may expressly choose to receive additional information from the contest sponsor, in which case the user's personally identifiable information is divulged to the advertiser. 
 > 
@@ -56,7 +56,7 @@ Because the rules and terms of each contest can vary, all information about each
   6. **Merchandise Newsletter Registration**  
 The SCI FI Online Store offers a free electronic newsletter to users who are interested in receiving news and information on the latest products available within the official SCI FI Store. SCIFI.COM gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter. 
   7. **Merchandise Purchasers/Magazine Subscribers**  
-SCIFI.COM users who decide to purchase products within the SCIFI.COM web site, including magazine subscriptions or science fiction based products from the SCI FI Store, are required to provide information that will ensure the transaction can be completed in a secure environment. The required information to complete the transaction includes, but is not limited to, full name, mailing address, e-mail address, telephone number, and credit card information. 
+SCIFI.COM users who decide to purchase products within the SCIFI.COM Web site, including magazine subscriptions or science fiction based products from the SCI FI Store, are required to provide information that will ensure the transaction can be completed in a secure environment. The required information to complete the transaction includes, but is not limited to, full name, mailing address, e-mail address, telephone number, and credit card information. 
 
 Access to our servers and server logs is restricted to authorized personnel who are responsible for upholding this privacy policy. 
 
@@ -73,7 +73,7 @@ The information that is gathered on each of the data entry forms throughout the 
 
 The postal address information gathered on the magazine subscriptions and merchandise purchasers is shared with external third party shippers. These shippers only use the postal address to fulfill the transaction. Additionally, sponsored third party sweepstakes, contests or promotions where demographic information is gathered is shared with the third party for marketing purposes. The information gathered beyond name, e-mail address, age, gender, education and SCI FI availability is optional except in the case of sweepstakes/contests, where further information is needed for fulfillment. 
 
-Your information may be shared with USA Networks, Inc. and its affiliates, subsidiaries, joint venturers, sponsors and partners for whom the Company operates or designs sites and other third parties with whom there are sharing agreements (collectively, the "Affiliated Third Parties") in order to provide you additional products or services. The information we collect may be combined with information collected by Affiliated Third Parties to enable us to provide better service to you. 
+Your information may be shared with Vivendi Universal Entertainment and its affiliates, subsidiaries, joint venturers, sponsors and partners for whom the Company operates or designs sites and other third parties with whom there are sharing agreements (collectively, the "Affiliated Third Parties") in order to provide you additional products or services. The information we collect may be combined with information collected by Affiliated Third Parties to enable us to provide better service to you. 
 
 #### THIRD PARTY COLLECTION OF DATA
 
@@ -94,7 +94,7 @@ If you would no longer like to be contacted by this site, please go to our [memb
 
 **Postal Mail:**  
 Database Coordinator  
-USA Networks  
+Universal Television Networks  
 1230 Avenue of the Americas  
 New York, NY 10020 USA 
 
@@ -103,10 +103,10 @@ New York, NY 10020 USA
 If you are currently a member and would like to correct or update your preferences, membership or profile information, please go to the [preferences page](https://web.archive.org/preferences/), the [members page](https://web.archive.org/members/welcome/) or write to Database Coordinator, care of [dbcoordinator@scifi.com](mailto:dbcoordinator@scifi.com). 
 
 **Note:**  
-This Privacy Statement may be updated as SCIFI.COM introduces new products and services to its users. For the latest version of our privacy policy, please go to: [http://www.scifi.com/terms/privacy.html ](https://web.archive.org/web/20021206095709id_/http%3A//www.scifi.com/terms/privacy.html)
+This Privacy Statement may be updated as SCIFI.COM introduces new products and services to its users. For the latest version of our privacy policy, please go to: [http://www.scifi.com/terms/privacy.html ](https://web.archive.org/web/20030419084827id_/http%3A//scifi.com/terms/privacy.html)
 
   
-_This Privacy Statement was last revised on March 27, 2001._
+_This Privacy Statement was last revised on February 10, 2003._
 
   
 [Terms of Service](https://web.archive.org/terms/termsofservice.html)
