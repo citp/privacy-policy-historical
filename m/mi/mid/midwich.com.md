@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209125055id_/http%3A//www.midwich.com/editorial/aboutmidwich/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308034509id_/http%3A//www.midwich.com/editorial/aboutmidwich/privacypolicy.php) for the most accurate reproduction.*
 
-# Midwich - your focused distributor
+# Midwich - your focused distributor -
 
 PRIVACY STATEMENT FOR MIDWICH LIMITED WEBSITE  
   
