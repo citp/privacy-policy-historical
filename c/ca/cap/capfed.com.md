@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capfed.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612020100id_/http%3A//www.capfed.com/0privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capfed.com privacy policy that was archived on 2000-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001010174753id_/http%3A//www.capfed.com/0privacy.html) for the most accurate reproduction.*
 
 # Capitol Federal Homepage
 
