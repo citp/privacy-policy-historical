@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targus.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014090147id_/http%3A//www.targus.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targus.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603175102id_/http%3A//www.targus.com/privacy.asp) for the most accurate reproduction.*
 
 # Targus | Privacy Policy
 
@@ -12,16 +12,16 @@ When you visit targus.com, we may use your IP address to help diagnose problems 
 Security  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We use VeriSign OnSiteSM on our shopping cart to offer you leading cryptographic techniques, and secure facilities to give you complete confidence in our site. This includes online ordering, order status, account information, and email information.   
 Newsletter  
-If a user wishes to subscribe to the Targus newsletter, we ask for contact information such as name and email address. See [our signup page](https://web.archive.org/web/20021014090147id_/http%3A//www.targus.com/newsletter.asp).   
+If a user wishes to subscribe to the Targus newsletter, we ask for contact information such as name and email address. See [our signup page](https://web.archive.org/web/20030603175102id_/http%3A//www.targus.com/newsletter.asp).   
 Sharing  
 We partner with WhatCounts to provide e-mail communications services. When the user signs up for these services, we will provide WhatCounts with names, or other contact information that is necessary for WhatCounts to fulfill these services.   
 WhatCounts is not allowed to use personally identifiable information except for the purpose of providing these services. WhatCounts is not allowed to share personal information with any third party. We (Targus) will not share your personal information with any other third party outside of companies owned by Targus Group International.   
 Choice/Opt-out  
-Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications at any time. They may do so by clicking on the unsubscribe link at the bottom of each email or [Click Here](https://web.archive.org/web/20021014090147id_/http%3A//www.targus.com/newsletter_unsubscribe.asp) to unsubscribe.   
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications at any time. They may do so by clicking on the unsubscribe link at the bottom of each email or [Click Here](https://web.archive.org/web/20030603175102id_/http%3A//www.targus.com/newsletter_unsubscribe.asp) to unsubscribe.   
 Surveys & Contests  
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our newsletter.   
 Tell-A-Friend  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. If the friend wishes to request the removal of this information from our database, they may do so by clicking on the unsubscribe link at the bottom of each email or [Click Here](https://web.archive.org/web/20021014090147id_/http%3A//www.targus.com/newsletter_unsubscribe.asp) to unsubscribe.   
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. If the friend wishes to request the removal of this information from our database, they may do so by clicking on the unsubscribe link at the bottom of each email or [Click Here](https://web.archive.org/web/20030603175102id_/http%3A//www.targus.com/newsletter_unsubscribe.asp) to unsubscribe.   
 Correct/Update Your Information  
 In order to change or modify information previously provided to us, you may visit the online store account login to edit your account information.   
 Notification of Changes  
