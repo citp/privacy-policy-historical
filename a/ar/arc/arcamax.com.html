@@ -1,249 +1,343 @@
-<!--The following is the downloaded HTML source of the arcamax.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603032215id_/http%3A//www.arcamax.com/cgi-bin/shop%3Fshow%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arcamax.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204132737id_/http%3A//www.arcamax.com/cgi-bin/news/page/1000/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<title>ArcaMax Inc.,  . . . Software and Things</title>
-<link rel="StyleSheet" href="/site.css" type="text/css">
-<link rel="start" type="text/html" href="/storelist.html" title="ArcaMax Store">
-<meta name="keywords" content="ArcaMax, Inc., Ezines, FREE, Free Ezines, Super Value, Software, More, software, ezines, e-zines, value, bargain, bargains, low-cost, savings, discount, cheap, housewares, gifts, figurines, home, toys, sports, books, music, videos, movies, jewelry, watches, collectable, collectible, pen, fountain pen, sheaffer, pencil, as seen on tv, asotv, information, email, postcards, e-greetings">
-<meta name="description" content="ArcaMax, Inc. - FREE Ezines, Super Value Software, Music, Gifts, and More!">
-<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>ArcaMax Publishing Home - ArcaMax.com</title>
 
+<meta name="keywords" content="Arcamax, Online Newsletters, Ezines, E-Zines, Newsletters, Ezine Advertising, Email Newsletter Advertising, Coregistration, Bible Verses, Devotionals, Gardening, National Gardening Association, Home Businesses, Business, Motivation, Marketing, Sales, Recipes, Cooking, Chef, Home, Garden, Cats, Dogs, Pet Photos, Parenting, Focus on the Family, James Dobson, Trivia, Vocabulary, Word Power, History, Quotes, Science, Technology, Weird News, Comics, Comic Books, Garfield, Doonesbury, Automotive, Car Care, Dear Abby, Consumers, Clean Jokes, Women's Issues, Health and Fitness, Tips, Travel, Cruises, Crosswords, Puzzles">
+<meta name="description" content="25 Great Newsletters: Garden Tips with free NGA Membership, Garfield Cartoon, Bible Verses, Recipes with free downloads, Business Success with free marketing reports, plus Parents with James Dobson's Focus on the Family Q&amp;A, many more!">
 
-<script language="JavaScript" type="text/javascript">
+<link rel="StyleSheet" href="/pubsite.css" type="text/css" media="print,screen">
+<link rel="StyleSheet" href="/pubcss/mainchannel.css" type="text/css" media="print,screen">
+<script language="javascript">
+
 <!-- Begin
 
-var expDays = 1; // number of days the cookie should last
-var Slots = [
-"/afpops/1383.htm|width=720,height=300,location=no,toolbar=no,menubar=no,status=no,scrollbars=no,resizable=yes",
-"/afpops/businessbonuses.html|width=600,height=650,location=no,toolbar=no,menubar=no,status=no,scrollbars=yes,resizable=yes",
-"/afpops/1383.htm|width=720,height=300,location=no,toolbar=no,menubar=no,status=no,scrollbars=yes,resizable=yes",
-];
-
-function doUnload()
+function CheckMail()
 {
-	if(document.cookie.indexOf("count=1") != -1)
-		return; // cookie is set, don't do anything
-
-	// set the cookie with an exp date
-	var exp = new Date(); 
-	exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
-	document.cookie = 'count=1; expires' + exp.toGMTString();
-
-	// choose a slot
-	var idx = Math.floor(Math.random()*(Slots.length-1));
-	var str = Slots[idx];
-	var slot = str.split('|');
-
-	// open it
-	window.open(slot[0],'',slot[1]);
+	var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9])+$/;
+	if(filter.test(document.forms.email.value))
+		return true;
+	alert("Please enter a valid email address.");
+	return false;
 }
+
+function GetCookie (name)
+{
+	var arg = name + "=";  
+	var alen = arg.length;  
+	var clen = document.cookie.length;  
+	var i = 0;  
+	while (i < clen)
+	{
+		var j = i + alen;
+		if (document.cookie.substring(i, j) == arg)      
+			return getCookieVal (j);    
+		i = document.cookie.indexOf(" ", i) + 1;    
+		if (i == 0)
+			break;   
+	}  
+	return null;
+}
+
+function SetCookie (name, value)
+{  
+	var argv    = SetCookie.arguments;  
+	var argc    = SetCookie.arguments.length;  
+	var expires = (argc > 2) ? argv[2] : null;  
+	var path    = (argc > 3) ? argv[3] : null;  
+	var domain  = (argc > 4) ? argv[4] : null;  
+	var secure  = (argc > 5) ? argv[5] : false;  
+	document.cookie = name + "=" + escape (value) + 
+		((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+		((path    == null) ? "" : ("; path=" + path)) +  
+		((domain  == null) ? "" : ("; domain=" + domain)) +    
+		((secure  == true) ? "; secure" : "");
+}
+
+function getCookieVal(offset)
+{
+	var endstr = document.cookie.indexOf (";", offset);
+	if(endstr == -1)
+		endstr = document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+function AutoPopup(exphours,page,props)
+{
+	if(!page) return;
+	if(!props)
+		props = 'width=450,height=260,location=no,toolbar=no,'
+			'menubar=no,status=yes,scrollbars=no,resizable=yes';
+	var count = GetCookie('count');
+	if (count == null)
+	{
+		var exp = new Date(); 
+		exp.setTime(exp.getTime() + (exphours*60*60*1000));
+		SetCookie('count', '1', exp);
+		var count = GetCookie('count');
+		if(count == '1')
+			window.open(page, "autopop",props);
+	}
+}
+
 //  End -->
 </script>
 
 
+
 </head>
-<body onload="self.focus()" onunload="doUnload()" bgcolor="white">
-
-<a name="top"><!-- Table for Logo and Link Bar Above Page Contents --></a>
-<table width="785" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr><td width="175" rowspan="2" valign="bottom" align="center"><a href="/"><img src="/images/80amaxtag2.gif" width="172" height="80" border="0" alt="ArcaMax Inc."></a><br>
-  </td><td align="right" colspan="2" width="610" valign="bottom">
-		<font face="Arial" size="1"><a href="https://secure.arcamax.com/cgi-bin/custacct" class="linkbar">&nbsp; 
-		My Account&nbsp; </a>|<a href="/cgi-bin/subconf" class="linkbar">&nbsp; 
-		FREE Ezines&nbsp; </a>|<a href="/po" class="linkbar">&nbsp; 
-		FREE Online Greetings&nbsp; </a>|<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;show=advertising" class="linkbar">&nbsp; 
-		Advertise&nbsp; </a>|<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;show=aboutus" class="linkbar">&nbsp; 
-		About Us&nbsp; </a>|<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;show=cs" class="linkbar">&nbsp; 
-	  Help&nbsp; </a>&nbsp; </font>
-	</td></tr><tr>
-	<td width="470" class="linkbar" align="left" valign="middle" style="font: normal bold 12pt Arial, Helvetica, sans-serif;color: #CC0000;">
-		<img src="/images/usaribbon.gif" height="50" width="28" border="0"></td>
-	<td width="140" class="linkbar" valign="bottom" align="left">
-	     <!-- Product Search --><br>
-               <form method="post" action="/cgi-bin/shop">
-               <b><font face="Arial" color="#AA0000" size="2">Product Search</font></b><br>
-               <input type="text" size="10" name="cat.search" value="" style="background: #E6F1FF; font: normal normal 10pt Verdana, Helvetica, sans-serif"> <input type="submit" value="Go"></form></td>
-  </tr>
-	<tr><td valign="top" colspan="3"><img src="/images/bg-blue.gif" width="780" height="14"></td>
-  </tr>
-</tbody></table>
-
-
-<!-- Main Table to hold contents at 785w -->
-<table width="785" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" valign="top"><tbody><tr>
-
-<!-- Left Column Begin -->
-  <td width="165" rowspan="1" valign="top" xbgcolor="#99CC66">
-    
-
-<!-- Catalog List -->
-<table border="0" width="159" cellspacing="0" cellpadding="3" align="center" bgcolor="#99CC66">
-<tbody><tr><td bgcolor="#99CC66">
-<center><font face="Verdana, arial" size="1"><b>Click on a category<br>
-to view products.
-        <hr width="80%" noshade="" size="1">
-        </b></font></center></td></tr><tr><td>
-
-<table border="0" width="160" cellspacing="0" cellpadding="2" align="center">
-<tbody><tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1028" class="menutop">Software</a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1045" class="menutop">As Seen On TV</a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1164" class="menutop">Bargain Books</a> <!--<font face="Verdana, arial" size=1 color=#CC0000>Clearance!</font>-->
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1040" class="menutop">Electronics</a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1037" class="menutop">Gift Ideas</a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1041" class="menutop">Health and Beauty</a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1159" class="menutop">Home Things</a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1035" class="menutop">Jewelry</a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1021" class="menutop">Music</a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1044" class="menutop"><font color="#CC0000">Sheaffer Pens &amp; More</font></a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1160" class="menutop">Sports &amp; Leisure</a>
-			</td></tr>
-<tr><td class="menutop">
-				<a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1113" class="menutop"><font color="#CC0000">Warehouse Sale</font> <ximg src="/images/new-ylwrd.gif" alt="New!" border="0"></ximg></a>
-			</td></tr>
-
-</tbody></table>
-<br>
-</td></tr></tbody></table>
-
-
-<xhr width="80%" noshade="" size="1">
-<br>
-
-<ul><font face="Arial" size="2">
-	<li><a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;show=cs">Customer Service</a>
-	</li><li><a href="https://secure.arcamax.com/cgi-bin/custacct">My Account</a>
-	</li><li><a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;show=advertising">Advertise with Us</a></li></font></ul><font face="Arial" size="2">
-
-<!-- DB ad -->
-      <table border="1" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="5" bordercolor="#3366CC" align="center">
-	        <tbody><tr>
-	          <td width="100%"><center>
-	            <font face="Arial, sans-serif" size="2"> 
-	            Visit our friends at 
-	            <a href="http://www.arcamax.com/ard/83065"><b><font color="#EE5500">DollarBins.com</font> - the first online dollar store!</b></a></font></center></td>
-        </tr></tbody></table>
-
-<br>
-<!-- EZINE ad -->
-		      <table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="3" style="border: solid 1px #008800" align="center">
-		        <tbody><tr>
-		          <td width="100%">
-				<font size="2"><b> <font face="Verdana, Arial, sans-serif">3 Free Reports When You Subscribe to ArcaMax’s </font></b><font face="Verdana, Arial, sans-serif"><b><a href="http://www.arcamax.com/cgi-bin/subconf?ezineinfo=business"> Business Success</a> Newsletter!</b></font></font>
-              <p><font size="1" face="Verdana, Arial, sans-serif"><img src="/images/checkmark.gif" width="12" height="12"> <b>"87 Marketing Secrets of the Written Word"</b> by Marketing Legend Ted Nicholas. <br>
-                <br>
-                <img src="/images/checkmark.gif" width="12" height="12"><b> “The Top 10 Mistakes Made by Sales Reps When Using the Phone”</b> by Training Expert Art Sobczak <br>
-                <br>
-                <img src="/images/checkmark.gif" width="12" height="12"><b> “How to Avoid The 10 Most Common Advertising Mistakes”</b> , by direct marketers Jeff Paul and Jim Fleck. </font></p>
-	              <font size="1" face="Verdana, Arial, sans-serif">Yours absolutely free when you confirm your subscription. <b><a href="/cgi-bin/reg?trackid=100&amp;npg=46&amp;source=1004">Click here now!</a></b></font></td>
-		        </tr></tbody></table>
-
-
-	  <!-- VeriSign and CC images -->
-<center><p><img src="/images/verisign_sm.gif" width="100" height="42" border="0" alt="VeriSign Secure Check Out">
-<br>
-<img border="0" src="/images/paymodecc-sm1.gif" width="70" height="34" alt="Secure Online Shopping"></p></center>
-<!-- End left column -->
-    </font></xhr></td>
-
-		<td rowspan="1" width="5"><font color="white">.</font></td>
-
-
-<!-- Main Page in Center -->
-		<td width="615" valign="top" xbgcolor="#EEEEEE">
-			
-			
-
-			<center><table border="0" width="100%" cellpadding="0" cellspacing="0"><tbody><tr>
-		<td width="75%"><center><font size="2">
-		Your shopping cart is empty!</font></center></td>
-		<td width="25%"><font size="1" face="Verdana, Arial, sans-serif"><a href="javascript:self.print()"><img src="/images/printer.gif" alt="Click to print this page" border="0"> Print Page</a></font></td></tr></tbody></table>
-<hr size="1" noshade="" width="75%" align="center">
-
-
-			<center>
-  <table border="0" width="550" cellspacing="0" cellpadding="5" bordercolordark="#FFFFFF">
-    <tbody><tr>
-        
-	  <td valign="top" bgcolor="#FFFFFF"> 
-        <h1 align="left"><b><font face="Arial" size="4" color="#CC0000">Privacy
-Statement</font></b></h1>
-		<p><b><font face="Arial" size="2">Our Privacy Pledge to You,&nbsp;<br>
-          Our Customers, Users, and Subscribers</font></b><font face="Arial" size="2"><br>
-          <br>
-          </font><br>
-          <font size="2" face="Arial, Helvetica, sans-serif"> ArcaMax, Inc. respects your privacy, therefore we treat any identifiable information regarding our customers, users, and subscribers with the utmost confidence. Any information you give us is held with the highest professional care and security, and will not be used in ways to which you have not consented. You may occasionally receive quality special offers from our online partners, strictly without obligation of course, and only where you have opted in to do so. We will not release your personal information or email address to any other party, unless required to by law. </font></p>
-        <p><font size="2" face="Arial, Helvetica, sans-serif"> ArcaMax, Inc. is fully compliant with the 2004 Federal "CAN SPAM" act regulating email delivery. We will maintain the confidentially and integrity of our subscriber and customer data files as mandated by federal law. We reserve the right to modify this policy at anytime. </font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><b><br>
-          Summary</b></font></p>
-        <p> <font size="2" face="Arial, Helvetica, sans-serif">At ArcaMax, Inc., we take the issue of privacy very seriously. We treat your information with the utmost care. This includes your e-mail address, name, home address or other personal information. Your trust is what we value most. </font></p>
-		<p><font face="Arial, Helvetica, sans-serif" size="2"><br>
-		  <br>
-		  <b><i> Thank you for the privilege of serving you.</i></b></font></p>
-
-		<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Last update: 
-          
-
-
- 05/08/2004
-
-</font></p>
-
+<body onload="AutoPopup(24,'/ard/250099','width=720,height=300,location=no,toolbar=no,menubar=no,status=no,scrollbars=no,resizable=yes')">
+<a name="top"></a>
+ <table width="780" border="0" cellpadding="0" cellspacing="0" align="center" class="topbg2">
+  <tbody><tr>
+    <td height="115" rowspan="2" nowrap=""><a href="/cgi-bin/news" title="ArcaMax Publishing, Inc."><img style="position:relative;top:0px;left:-17px" src="/images/pub/xmas-arcalogo1.gif" border="0" alt="ArcaMax Publishing, Inc."></a></td>
+    <td height="25" colspan="2" align="right" valign="bottom">
+	  <div class="toplinks">
+	  <a class="toplink" href="/cgi-bin/news">ArcaMax Publishing Home</a>  
+      <a class="toplink" href="/cgi-bin/reg">Subscribe</a>  
+	  <a class="toplink" href="/cgi-bin/news/page/1000/readerservice">Reader Support</a>   
+	  <a class="toplink" href="/cgi-bin/news/page/1000/adv">Advertise</a>   
+	  <a class="toplink" href="/cgi-bin/news/page/1000/privacy">Privacy Policy</a>   
+	  <a class="toplink" href="/cgi-bin/news/page/1000/about">About ArcaMax</a> 	 
+	  </div>
     </td>
   </tr>
-</tbody></table>
+  <tr>
+    <td height="93" width="690" valign="middle" align="center">
+      <div style="width:468px;height:60px;" align="center"><a href="http://www.arcamax.com/ard/276379" target="_blank">
+<img src="http://www.arcamax.com/wc/jcpenney468x60.gif" width="468" height="60" alt="Click here" border="0"></a>
+</div>
+    </td>
+	<td height="93" width="10" valign="bottom"><img src="/images/pub/xmas-toprarc.gif"></td>  
+  </tr>
+  
+ </tbody></table>
+<table width="780" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td>
+
+ <div class="hnav">
+   <ul>
+   <li><a href="/cgi-bin/news/channel/1001">The Funnies</a></li><li><a href="/cgi-bin/news/channel/1002">Living Today</a></li><li><a href="/cgi-bin/news/channel/1004">Entertainment</a></li><li><a href="/cgi-bin/news/channel/1006">Home &amp; Family</a></li><li><a href="/cgi-bin/news/channel/1005">Business</a></li><li><a href="/cgi-bin/news/channel/1003">Knowledge</a></li>
+   </ul>
+ </div>
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#135871">
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+  <tbody><tr>
+    <td width="135" align="left" valign="top" id="lnav" style="padding-top:0px">
+	        <div class="srchbox">
+      <form method="GET" action="/cgi-bin/news/channel/1000" style="margin:0px;">
+		Search All News:
+		 <input name="query" class="input" size="12" value="">
+	     <input type="submit" class="submit" value="Go">
+	  </form>
+	  </div>	  
+	   
+
+
+
+
+
+
+   	 
+  <img src="/images/pub/eznewschnhdr.gif" border="0" title="Ezines &amp; News Channels">
+  <div style="width:134px" class="vnav">
+   
+   
+	 <ul class="leftmainnavchn">
+	   <li><a href="/cgi-bin/news/channel/1001" class="leftmainnavchnlnk">The Funnies</a></li>
+        
+        
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1007" class="leftmainnavlnk">- Garfield</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1008" class="leftmainnavlnk">- Doonesbury</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1009" class="leftmainnavlnk">- Jokes</a></li>
+		
+	 </ul> 
+   
+	 <ul class="leftmainnavchn">
+	   <li><a href="/cgi-bin/news/channel/1002" class="leftmainnavchnlnk">Living Today</a></li>
+        
+        
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1011" class="leftmainnavlnk">- Automotive</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1013" class="leftmainnavlnk">- Bible Verses</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1012" class="leftmainnavlnk">- Dear Abby</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1015" class="leftmainnavlnk">- Health and Fitness</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1010" class="leftmainnavlnk">- Travel &amp; Leisure</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1014" class="leftmainnavlnk">- Women</a></li>
+		
+	 </ul> 
+   
+	 <ul class="leftmainnavchn">
+	   <li><a href="/cgi-bin/news/channel/1004" class="leftmainnavchnlnk">Entertainment</a></li>
+        
+        
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1022" class="leftmainnavlnk">- Entertainment Today</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1023" class="leftmainnavlnk">- New Comic Books</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1021" class="leftmainnavlnk">- New Sites</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1020" class="leftmainnavlnk">- Off the Wall</a></li>
+		
+	 </ul> 
+   
+	 <ul class="leftmainnavchn">
+	   <li><a href="/cgi-bin/news/channel/1006" class="leftmainnavchnlnk">Home &amp; Family</a></li>
+        
+        
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1030" class="leftmainnavlnk">- Cats &amp; Dogs</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1031" class="leftmainnavlnk">- Gardening</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1032" class="leftmainnavlnk">- Home</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1028" class="leftmainnavlnk">- Parents</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1029" class="leftmainnavlnk">- Recipes</a></li>
+		
+	 </ul> 
+   
+	 <ul class="leftmainnavchn">
+	   <li><a href="/cgi-bin/news/channel/1005" class="leftmainnavchnlnk">Business</a></li>
+        
+        
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1033" class="leftmainnavlnk">- Business Success</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1025" class="leftmainnavlnk">- Consumer News</a></li>
+		
+	 </ul> 
+   
+	 <ul class="leftmainnavchn">
+	   <li><a href="/cgi-bin/news/channel/1003" class="leftmainnavchnlnk">Knowledge</a></li>
+        
+        
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1018" class="leftmainnavlnk">- History and Quotes</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1017" class="leftmainnavlnk">- Science &amp; Technology</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1016" class="leftmainnavlnk">- Trivia</a></li>
+		
+          <li class="leftmainnavsubchn"><a href="/cgi-bin/news/story/1019" class="leftmainnavlnk">- Vocabulary</a></li>
+		
+	 </ul> 
+   
+  
+     <div class="vnavbot"></div>   
+  </div>
+
+
+
+
+
+
+	</td>
+	<td valign="top" id="mcol" style="padding:0px">
+
+	  <table border="0" cellpadding="0" cellspacing="0" style="font-family:Verdana,Arial;font-size:11px">
+	    <tbody><tr bgcolor="#135871">
+		  <td><img src="/images/pub/privacyhd.gif"></td>
+  		</tr>
+		<tr>
+		  <td valign="top" style="padding:15px" class="hpfeatbox"> 
+			<p><b>Our Privacy Pledge to You,&nbsp;<br>Our Customers, Users, and Subscribers</b></p>
+			<br>
+			<p>ArcaMax Publishing, Inc. respects your privacy, therefore we treat any identifiable information regarding 
+			our customers, users, and subscribers with the utmost confidence. Any information you give us 
+			is held with the highest professional care and security, and will not be used in ways to which 
+			you have not consented. You may occasionally receive quality special offers from our online 
+			partners, strictly without obligation of course, and only where you have opted in to do so. 
+			We will not release your personal information or email address to any other party, unless 
+			required to by law.</p>
+			 
+			<p>ArcaMax Publishing, Inc. is fully compliant with the 2004 Federal "CAN SPAM" act regulating 
+			email delivery. We will maintain the confidentially and integrity of our subscriber and customer 
+			data files as mandated by federal law. We reserve the right to modify this policy at anytime.</p>
+			<br>
+			 
+			<p><b>Summary</b></p>
+			<p>At ArcaMax Publishing, Inc., we take the issue of privacy very seriously. We treat your information with 
+			the utmost care. This includes your e-mail address, name, home address or other personal 
+			information. Your trust is what we value most.</p>
+			<br>
+			<br>
+			<p><b><i> Thank you for the privilege of serving you.</i></b></p>
+
+			<p><small>Last update: 05/08/2004</small></p>
+		  </td>
+		</tr>
+	  </tbody></table>
+
+	</td>
+	<td width="130" align="center" valign="top" id="rcol" style="background:#135871;color:#ffffff;padding-top:5px" nowrap="">
+	   <span style="font-size:9px">- a d v e r t i s e m e n t -<br>
+	   <center>
+	<script type="text/javascript"><!--
+	google_ad_client = "pub-1865940969261093";
+	google_alternate_ad_url = "http://www.arcamax.com/googledefault.htm";
+	google_ad_width = 120;
+	google_ad_height = 600;
+	google_ad_format = "120x600_as";
+	google_ad_channel ="8407749798";
+	google_color_border = ["000000","000000","CCCCCC"];
+	google_color_bg = ["FFFFFF","FFFFFF","FFFFFF"];
+	google_color_link = ["0000FF","0000CC","000000"];
+	google_color_url = ["008000","008000","000066"];
+	google_color_text = ["000000","6F6F6F","333333"];
+	//--></script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
 </center>
-</center>
-		</td>
 
-<!-- End Main Page -->
-</tr></tbody></table>
-<!-- Bottom Links and Copyright Info -->
-<table width="780" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td valign="top">
-<p align="center"><a href="#top"><font face="Verdana, Arial, sans-serif" size="1">Top of Page</font></a>
-        </p><hr noshade="" size="1">
-<center>
-        <font face="Arial" size="2">
-         <i>Copyright © 1996-2004 ArcaMax, Inc. All Rights Reserved.&nbsp; All registered trademarks are the property of their respective owners.
-<br>
-         Please send email regarding this site to: <a href="mailto:salesinfo@arcamax.com">salesinfo@arcamax.com</a></i></font> 
-        <br><br>
 
-        <font face="Arial" size="2">
-		 <a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;selcat=1001">Home</a>&nbsp; <b>|&nbsp;</b> <a href="/cgi-bin/subconf">Free
-        Ezines!</a>&nbsp; <b>|</b>&nbsp; <a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;show=cs">Customer Service</a>&nbsp;
-        <b>|&nbsp;</b>  <a href="/cgi-bin/shop?cat=1001&amp;cid=10656187-1231290237&amp;cpg=1&amp;show=advertising"> Advertise With Us</a>&nbsp;
-        <b>|</b>&nbsp; <a href="/po">Free Online Greetings</a>&nbsp; 
-        <b>|</b>&nbsp; <a href="/cgi-bin/shop?show=privacy">Privacy Policy</a></font></center>
-	</td></tr>
+
+
+ <br>
+	</span></td>
+  </tr>
+
+  <tr><td colspan="3" height="1"><hr size="1"></td></tr>
+  <tr>
+    <td colspan="3" id="foot" align="center">
+  	<ximg src="/images/pub/publogosm.gif" border="0" align="absmiddle">
+  	<a href="/" class="footlnk">ArcaMax Publishing Home</a> | 
+	<a href="/cgi-bin/reg" class="footlnk">Subscribe</a> | 
+	<a href="/cgi-bin/news/page/1000/readerservice" class="footlnk">Reader Support</a> |
+  	<a href="http://www.arcamax.com/cgi-bin/news/page/1000/adv" class="footlnk">Advertise with Us</a> | 
+  	<a href="http://www.arcamax.com/cgi-bin/news/page/1000/privacy" class="footlnk">Privacy Policy</a> |
+  	<a href="http://www.arcamax.com/cgi-bin/news/page/1000/about" class="footlnk">About ArcaMax</a><br>
+  	Copyright © 1996-2004 ArcaMax Publishing, Inc. All Rights Reserved.
+  	All registered trademarks are the property of their respective owners.
+  	</ximg></td>
+  </tr>
 </tbody></table>
 
-<!-- End Table containing whole page -->
 
 
-<!-- End HTML-->
 
 
-</body></html>
+
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table></body></html>
