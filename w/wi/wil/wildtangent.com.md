@@ -1,138 +1,72 @@
-> *The following text is extracted and transformed from the wildtangent.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210043147id_/http%3A//www.wildtangent.com/default.asp%3FpageID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildtangent.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622195126id_/http%3A//www.wildtangent.com/default.asp%3FpageID%3Dprivacy) for the most accurate reproduction.*
 
 # WildTangent : WildTangent Privacy Policy
 
-Privacy Statement
+Privacy Policy
 
-WildTangent, Inc. takes privacy and security concerns regarding its software products seriously. We do not sell personally identifiable information and will not share your personally identifiable information with any third parties without receiving your informed consent unless required by law. Please read the following carefully to learn more about WildTangent's privacy policy.
+(Updated: January 23, 2003)
 
-What this Privacy Policy Covers:
+We take your privacy concerns regarding our products and services seriously, so we have created the following Privacy Policy to explain our information collection and use practices. Our Privacy Policy covers what information we collect through our products and services, how this information is used, how you may opt-out of this collection, the security measures we take to protect this information, and our policy regarding children under 13 years of age. The terms "you," "your," and "yours" refer to you, the customer using our products and services. The terms "WildTangent," "we," "us," and "our" refer to WildTangent, Inc. By using our products and services, you consent and agree to the information collection and practices described in our Privacy Policy. We may periodically make changes to our Privacy Policy. It is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it. The most recent version of our Privacy Policy can always be found at:
 
-  * What information WildTangent collects through its products, how it is used and how you may opt-out. 
-  * What "cookies" are and how WildTangent uses them.
-  * The security associated with access to personally identifiable information.
-  * WildTangent's policy regarding children under 13 years of age. 
+<http://www.wildtangent.com/default.asp?pageID=wildtangent_privacy>
 
 What Information Does WildTangent Collect?
 
-There are times when we may collect information from you through our Web site, during game and product downloads, purchases and updates. Below are the specific details on what, where and when information is collected and how it is used. 
-
-**When Downloading a Game or Product:**  
-You may be asked for certain information such as name and email address when accessing a particular game, entering a contest, or to allow secure access to subscription and to notify you about new games, relevant promotions and other information that may be of interest to you, unless you opt out of these notifications. Occasionally, and only with your explicit consent, WildTangent may share this information with select third parties. The information shared is then subject to the select third parties' privacy policy. WildTangent will not resell or disclose this information to anyone other than the select third party. At the time you are asked for this information, you will be informed of the following: 
+ **When Downloading WildTangent Products**  
+The term "personally identifiable information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, address, email address, phone number, or other contact information. You may be asked for certain personally identifiable information when accessing a particular product or service. Occasionally, and only with your consent, we may share this information with select third parties. At the time you are asked for this information, you will be informed of the following: 
 
   * What specific personally identifiable information is being shared with the select third party.
-  * Who the select third party is.
-  * A link to the privacy statement from the select third party, if available.
+  * The identity of the select third party.
+  * A link to the privacy statement of the select third party, if available.
 
-Should you decide not to share the information or interact with the game, this will not in any way affect your ability to interact with other WildTangent games. You agree that WildTangent will not be responsible or liable in the event that a third party violates its privacy statement. 
+The shared information is subject to the select third parties' privacy statement. We will not resell or disclose this information to anyone other than the select third party. Should you decide not to share this information for a particular product or service, you may not be able to access the product or service, however, this will not affect your ability to access other products and services. We will not be responsible or liable if a third party violates its privacy statement. 
 
-**When Purchasing a Game or Product:**  
-In addition to the information described above, when you purchase a game or product from WildTangent, we collect standard payment and billing information, including your billing address, for use in processing the payment transaction. Your credit card number is submitted to the credit institution for normal, routine processing. WildTangent does not resell or share payment information with other companies or third parties, unless we believe it is necessary to comply with applicable law or court order. 
+**When Purchasing WildTangent Products and Services**  
+When you purchase a WildTangent product or service from us, we collect standard payment and billing information, including your billing address, for use in processing the payment transaction. We do not resell or share this payment information with other companies or third parties. 
 
-WildTangent may retain the services of certain outside contractors to perform services on our behalf (for example, to help provide technical support services, to deliver new game technology or to administer the delivery of emails to end users). At times, we must disclose relevant information about our customers to our contractors so they may provide specific services for WildTangent. WildTangent requires such contractors to keep your information strictly confidential and to use the information solely on behalf of WildTangent. For purposes of this Privacy Policy, such contractors are not considered "third parties" and WildTangent may disclose personally identifiable information to such contractors without additional notice. 
+We may retain the services of certain outside contractors to perform services on our behalf (for example, to help provide technical support services, to deliver new game technology, or to administer the delivery of emails to users). At times, we must disclose relevant personally identifiable information about you to our contractors so they may provide specific services for us. We require our contractors to keep this information confidential and to only use the information on our behalf. For purposes of this Privacy Policy, these contractors are not considered "select third parties" and we may disclose personally identifiable information to these contractors without providing notice to you. 
 
-**System and Game Playing Information:**  
-WildTangent collects system information through our Web Driver, the software that works with your system configuration to optimize your games based on your particular system. This information is used to upgrade the Web Driver and better optimizes Web Driver performance. The information collected for this purpose includes: 
+**The Security of Your Information**  
+We use Secure Sockets Layer encrypted connections to transmit your payment-related personally identifiable information, including credit card information. We store personally identifiable information in encrypted form. We limit the employees that can access your personally identifiable information. We require that all of our employees, contractors, and any third parties in business with us adhere to a confidentiality policy. 
 
-  * CPU speed and type
-  * System memory
-  * Video card configuration
-  * Connection speed
+**System Configuration and Product Usage Information**  
+We collect certain system configuration information through our software such as your computer's CPU speed, video card configuration, and DirectX version. We use this information to adjust the way our games and other software work in order to ensure their best possible performance. We also collect certain product usage information through our software such as the number of product launches and time spent playing a product. We use this information to determine how users are interacting with our products and what features users like and dislike, in order to find ways that our products may be improved and to help us develop new products. This system and product usage information is only collected and stored in anonymous aggregate form. We do not connect this information to you or any personally identifiable information. We may share it with select third parties on an anonymous aggregated basis. 
 
-WildTangent also collects game playing information through the WebDriver that is used to determine how users are interacting with the game to determine ways that games may be improved and what features users like and do not like. The information collected for this purpose includes: 
-  * Name of the game
-  * Number of game launches
-  * Number of new game starts
-  * Time spent in game
-  * Other, game-specific information, such as what levels were accessed, number of purchases vs. demo plays and where the game was downloaded from.
+**GameChannel Updates and Messages**  
+Our software includes a service that updates the GameChannel menu located in your Start folder with the latest games. Periodically, your computer will connect to our servers to receive the latest product updates. New product availability information or messages are transparently and unobtrusively transferred to your computer in the background, allowing you to review them later when you're off-line. You can access these product updates in the Game Channel folder of your start menu. When you install a product through a Message, your Start Menu shortcuts will be automatically updated. We collect the following information: 
 
-We may share system and game playing information with select third parties on an anonymous basis from time to time. 
+  * Receipt of a message
+  * Number of times a particular message is viewed and clicked on 
 
-**Game Updates and Notifications:**  
-The Broadcast Games Manager is a service that updates your GameChannel menu located in your Start folder with the latest games. Periodically, your computer will connect to our servers to receive the latest gaming updates. New game availability information, or notifications are transparently, unobtrusively transferred to your computer in the background, allowing you to review it later when you're off-line. New Start Menu shortcuts will be created in your GameChannel folder that you can select to view the information. When you install a game through the notification or Broadcast Games Manager, your Start Menu shortcuts will be automatically updated. The Broadcast Games Manager reports the following information back to our servers. 
+We use this information to better understand how the GameChannel service is used and what types of products are most popular with our users. This information is only collected and stored in aggregate form. We do not connect this information to you or any personally identifiable information. We may share it with select third parties on an anonymous aggregated basis from time to time. 
 
-  * Your receipt of a notification
-  * Number of times you click on a notification
+**Cookies**  
+Cookies are small text files stored by your browser on your computer when you visit a website. We use cookies to improve our website and make it easier to use. Cookies permit us to recognize you and avoid repetitive requests for the same information. Select third parties may also use and view these cookies to recognize you and provide products and services to you. Most browsers will accept cookies until you change your browser settings to refuse them. You may change your browser's settings to refuse our cookies. However, if you do so, you may not be able access certain WildTangent products and services. 
 
-We use the information gathered from the Broadcast Games Manager to better understand how it is used and what types of games are most popular with our users. We may share this information with select third parties on an anonymous basis from time to time.
+**User Authentication**  
+We use Globally Unique Identifiers (GUIDs) to identify you solely to provide authentification for certain products and services. These GUIDs, which are produced by the Windows operating system, are assigned to you when you create an account with us. We do not share these GUIDs with any third parties or associate them with personally identifiable information. 
 
-"Cookies" and How WildTangent Uses Them:
+**Children**  
+We do not ask children who identify themselves as being under the age of 13 for any personally identifiable information. We also restrict them from accessing or using any of our products or services that require them to enter personally identifiable information. They may access parts of our website without any personally identifiable information being collected. We do not sell products or services for purchase by children who identify themselves as being under the age of 13. Any person who provides their personally identifiable information to us through any of our products or services represents to us that they are 13 years of age or older. 
 
-Like most websites, WildTangent uses "cookies." Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your Web browser to enable systems to recognize your browser and to provide features such as personalized notifications and WebDriver updates. 
+**Links to Third Party Web Sites**  
+Our products and services may contain links to other websites and software. We are not responsible for the privacy practices or the content of these websites or software. Please visit the privacy policies of these third party sites in order to understand their privacy and information collection practices. 
 
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies are required to access certain members-only or subscription areas of our website and we recommend you leave them turned on. 
+**Email Communications**  
+Periodically, we may send email to users of our products and services who have indicated a preference to receive news, updates, special offers, and other information relating to our products and services and select third party products and services. To unsubscribe from these emails, please go to the Customer Service area at the URL below and change your email preference. You may also unsubscribe to these emails by clicking on the link provided at the bottom of our email to you. 
 
-Security for Personal and Payment Information:
+<http://www.wildtangent.com/default.asp?pageID=support>
 
-We provide controls over the security of the transfer of all payment-related information, including credit card information. These security precautions include: 
+Occasionally, when downloading a product or using a service, you will be given the option to receive news, updates, special offers and the like directly from third parties. We are not responsible for the privacy practices or email practices of the third parties. Please review the privacy policies on the third party's websites in order to understand their privacy, information collection, and email practices. 
 
-  * The use of SSL-encrypted secure connections from the user's web site to the payment provider for personally identifiable information
-  * Requirements that all WildTangent's employees, contractors and third parties in business with WildTangent adhere to a strict confidentiality policy
-
-
-
-Children:
-
-WildTangent does not ask children who identify themselves as being under the age of 13 for personally identifiable information, including their email address. Children under 13 are restricted from games or game activities that require them to enter personally identifiable information. 
-
-Links to Third Party Web Sites:
-
-WildTangent's Web sites and products contain links to other Web sites and products. WildTangent is not responsible for the privacy practices or the content of such Web sites or products. Please visit the privacy policies of these third party sites in order to understand their privacy and data collection practices. 
-
-E-Mail Communications:
-
-Periodically, WildTangent may send e-mail to users of our products who have indicated a preference to receive news, updates, special offers and other information relating to WildTangent's and select third-party products. To unsubscribe from WildTangent e-mail subscriptions, please go to the email subscription options web page and change your e-mail preference. You may also always opt-out of receiving such email by clicking on the link provided at the bottom of our email to you. 
-
-[Click here to go to the email subscription options web page](http://www.hitthepros.com/HTP2/UI/AccountManagement/Login.aspx?ret=/HTP2/UI/AccountManagement/EditAccount.aspx)
-
-Occasionally, when downloading a game or product, you will be given the option to receive news, updates, special offers and the like directly from third parties. WildTangent is not responsible for the privacy practices or email practices of the third parties. Please review the privacy policies on the third party's websites in order to understand their privacy, data collection and email practices. 
-
-Disclosures Required by Law:
-
+**Disclosures Required by Law**  
 We reserve the right to disclose your personally identifiable information when we believe in good faith that an applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user. 
 
-Mergers and Acquisitions:
+**Mergers and Acquisitions**  
+In the event that we or a portion of our assets are acquired by another company, customer information, including personally identifiable information, may be one of the transferred assets. 
 
-In the event that WildTangent or a portion of its assets are acquired by another company, customer information may be one of the transferred assets. 
-
-Public Forums:
-
-From time to time this site makes chat rooms, forums, message boards, and/or news groups (an "Interactive Area") available to our Registered Developers or other visitors. Our Interactive Areas are unmoderated and uncensored. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal or proprietary information. If you use an Interactive Area, you are solely responsible for your own communications and the consequences of posting those communications. WildTangent does not assume any responsibility for the consequences of any Interactive Area communications on or arising from use of the Web Site. 
-
-Beta Test Registration:
-
-From time to time we may use the Web Site to register beta testers for new versions of our products. If you wish to become a beta tester, we will need to know who you are in order to solicit feedback, using e-mail. Our site's beta registration form will require you to give us contact information (name and e-mail address, for example) and unique identifiers (like ID numbers for any of our software you are using or testing), and information about your system configuration (like OS version, and driver versions) for support and testing purposes. We will use this information, and the feedback you give us, solely to improve our products. 
-
-Your Agreement:
-
-By using our games or other products or services, you agree to the use of information as set forth in this Privacy Policy. We may from time to time update this Privacy Policy and changes to this Privacy Policy will be effective upon posting. We will post any changes to our Privacy Policy at this website: 
-
-[http://www.wildtangent.com/default.asp?pageID=wildtangent_privacy](https://web.archive.org/web/20021210043147id_/http%3A//www.wildtangent.com/default.asp?pageID=wildtangent_privacy)
-
-How to Opt-out of WildTangent's Information Collection:
-
-How to "opt out" of Web Driver updates: 
-
-1) Open the Control Panel  
-2) Double Click on the WildTangent Control Panel  
-3) Click on the Automatic Updater tab  
-4) Uncheck the "Automatic Updater Service Enabled" box
-
-Please note that if you disable the Update service, your Web Driver version will have to be manually updated in order to play the latest games. 
-
-**How to uninstall the Web Driver:**  
-You can uninstall the Web Driver using Add/Remove Programs in the Windows control panel. Select the item from the list and click Remove. After uninstalling the WildTangent Web Driver and any WildTangent games, be sure to also uninstall the WildTangent Updater. 
-
-**How to opt-out of Broadcast Games Manager Notifications and GameChannel updates:**  
-To turn off the Broadcast Game Manager's GameChannel and notifications, simply go to the Windows Start menu and choose "GameChannel." Choose Options and then choose "Turn off GameChannel." 
-
-**How to uninstall the Broadcast Games Manager:**  
-To uninstall the Broadcast Game Manager, simply go to the Windows control panel and choose Add/Remove Programs. A list of currently installed programs will appear. Choose the WildTangent Channel Manager (depending on the version installed) and then click Remove. You may be asked to reboot your computer. 
-
-**How to opt-out of WildTangent e-mail subscriptions:**  
-To unsubscribe from WildTangent e-mail subscriptions, please go to the email subscription options web page and change your e-mail preference. You may also always opt-out of receiving such contacts by clicking on the link provided at the bottom of our email to you. 
-
-[Click here to go to the email subscription options web page](http://www.hitthepros.com/HTP2/UI/AccountManagement/Login.aspx?ret=/HTP2/UI/AccountManagement/EditAccount.aspx)
+**No Error Free Performance**  
+We do not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our products and services generally. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We will not be liable for any incidental, consequential, or punitive damages relating to this Privacy Policy. 
 
 WildTangent, Inc.  
 18578 NE 67th Court  
