@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suntrustmortgage.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213080200id_/http%3A//www.suntrustmortgage.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntrustmortgage.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331000446id_/http%3A//www.suntrustmortgage.com/privacy.stm) for the most accurate reproduction.*
 
 # SunTrust Mortgage, Inc.
 
@@ -36,7 +36,7 @@ As mentioned above, to help us provide the best possible service, we generally s
 
 #### Use of Our Internet Web Site
 
-Our user-friendly Internet web site (www.suntrust.com) invites customers to provide information about themselves through our [Guest Book](https://web.archive.org/web/20001213080200id_/http%3A//www.suntrustmortgage.com/privacy.stm), as well as other information request screens from the privacy of their own personal computer. 
+Our user-friendly Internet web site (www.suntrust.com) invites customers to provide information about themselves through our [Guest Book](https://web.archive.org/web/20010331000446id_/http%3A//www.suntrustmortgage.com/privacy.stm), as well as other information request screens from the privacy of their own personal computer. 
 
 The personal information you provide to us over the Internet allows us to respond quickly to your questions about our available products and services. We will also use this information to furnish you with information and suggestions about other products and services we believe may be of interest and benefit to you. 
 
