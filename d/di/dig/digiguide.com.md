@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602141208id_/http%3A//www.gipsymedia.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206063208id_/http%3A//www.gipsymedia.com/general/privacy.html) for the most accurate reproduction.*
 
 # GipsyMedia Limited - Privacy Statement
 
@@ -6,7 +6,7 @@ Your privacy on the Internet is important to us. Below is information regarding 
 
 If we decide to change our privacy statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
 
-GipsyMedia gathers two types of information about users: data that users provide through registration on our sites and through registration of DigiGuide; and aggregated tracking information derived mainly by tallying page views throughout our sites. Such information enables us to specify features for our products appropriate to our users, to better tailor our web site content to readers' needs and to help our advertisers better understand the demographics of our audience. Because GipsyMedia derives most of its revenue from advertising, providing such aggregated demographic data is essential to keeping our service free to users.
+GipsyMedia gathers two types of information about users: data that users provide through registration on our sites and through registration of DigiGuide; and aggregated tracking information derived mainly by tallying page views throughout our sites. Such information enables us to specify features for our products appropriate to our users, and to better tailor our web site content to readers' needs.
 
 GipsyMedia gathers user information in the following processes:
 
@@ -24,7 +24,7 @@ GipsyMedia gathers user information in the following processes:
 
 ### Surveys
 
-> Occasionally GipsyMedia conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party.
+> Occasionally GipsyMedia conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our and partners. We never share any of this information about specific individuals with any third party.
 
 ### Usage Tracking
 
@@ -44,7 +44,7 @@ GipsyMedia gathers user information in the following processes:
 
 ### Advertising
 
-> GipsyMedia sites use the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
+> GipsyMedia sites use the services of Google for the serving and/or targeting of ads, promotions and other marketing messages on our [DigiGuide Library](http://library.digiguide.com/) web site only. To learn more about Google, go to <http://www.google.com/privacy.html>.
 
 GipsyMedia uses any information voluntarily given by our users two-fold: 
 
@@ -53,6 +53,6 @@ GipsyMedia uses any information voluntarily given by our users two-fold:
 
 
 
-GipsyMedia uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. GipsyMedia does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly.
+GipsyMedia uses the above-described information to tailor our content to suit your needs. In the case of sites that contain advertising, GipsyMedia does not control the practices of our advertisers. If you have questions about how our advertisers use information about you when you click their ad and go to their content, please contact them directly.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with the GipsyMedia web sites, you can contact [webmaster@gipsymedia.com](mailto:webmaster@gipsymedia.com).
