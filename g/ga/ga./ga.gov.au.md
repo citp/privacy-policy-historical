@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204224437id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603230920id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
 
-# Geoscience Australia: About Us: Privacy and Security
+# Geoscience Australia: Privacy and Security
 
-**Updated:  ** 02 December 2003 
+| 
 
-  * #### Privacy
+**Updated:  ** 21 May 2004 
 
-  * #### Security
-
+  * Privacy
+  * Security
 
 
 
@@ -37,7 +37,7 @@ Geoscience Australia examines this information to determine the traffic through 
 
 No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect server logs. 
 
-### Cookies information
+### Cookies
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Geoscience Australia uses only session ID cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Cookies can be easily blocked on your computer by simply un-checking the "accept cookies" option in your web browser. This can be found under the options menu of your Netscape Navigator or Microsoft Explorer browser software. 
 
@@ -49,11 +49,11 @@ Any personal details submitted via the Geoscience Australia website will only be
 
 Information given during the course of online purchases and product orders may be used to determine your liability to Australian GST on the items purchased or ordered. 
 
-If you have concerns about sending information over the web, please visit our [contacts page](http://www.ga.gov.au/about/index.jsp#AGAadd) for alternative methods of submitting information (mail, fax etc). 
+If you have concerns about sending information over the web, please [contact us](https://web.archive.org/about/contact_us.jsp) for alternative methods of submitting information (mail, fax etc). 
 
 ### User Feedback
 
-We seek feedback from our users in order to improve the service offered by our site. [Contacts list](http://www.ga.gov.au/about/contacts/contacts.jsp) ; [General e-mail contact](mailto:http@ga.gov.au\(/\))
+We seek feedback from our users in order to improve the service offered by our site. [Your feedback is welcome](https://web.archive.org/about/contact_us.jsp). 
 
 ### Accountability
 
@@ -63,7 +63,7 @@ The staff who operate the Geoscience Australia Website, and most Australain gove
 
 ### Site security
 
-The Internet is not a secure network, and as such, information you send may be intercepted by others. Geoscience Australia runs a secure website (using [**SSL**](http://developer.netscape.com/docs/manuals/proxy/adminux/encrypt.htm)) for transferring all sensitive information such as credit card details. Secure server technology reduces but **does not eliminate** the risks of sending information over the Internet. 
+|  The Internet is not a secure network, and as such, information you send may be intercepted by others. Geoscience Australia runs a secure website (using [**SSL**](http://docs.sun.com/source/816-6156-10/contents.htm)) for transferring all sensitive information such as personal and credit card details. Secure server technology reduces but **does not eliminate** the risks of sending information over the Internet. 
 
 If you are sending us private information you should check that you are linked to our secure server. You can do this in two ways: 
 
@@ -74,20 +74,17 @@ If you are sending us private information you should check that you are linked t
 
 You should check your browser's help facility for further information on security. 
 
-If you are on our **normal** Website and wish to switch to the **secure** one you can change by simply changing the **http:** // to **https:** // in your web address, or visit < a href="https://www.ga.gov.au/">https://www.ga.gov.au/ 
+If you wish to switch to the **secure** website you can change by simply changing the **http:** // to **https:** // in your web address, or visit <https://www.ga.gov.au/>. 
 
+|   
+---|---  
+  
 ### Firewall security
 
 Information you send us is stored behind our firewall. 
 
 Any of your information, ( _apart from usage logs_ ), that is on our server outside the firewall is always **encrypted** , and moved inside the firewall at the earliest opportunity. 
 
-Our **Online Ordering System** uses the Secure Sockets Layer for encrypted communication between your browser and our server and is fully explained in a separate area. Credit card details are **NOT** stored on our server. Each encrypted order is immediately transferred to our sales staff for offline processing. 
+Our **Online Ordering System** uses the Secure Sockets Layer for encrypted communication between your browser and our server and is [fully explained in a separate area](https://www.ga.gov.au/secure/order_security.html). Credit card details are **NOT** stored on our server. Each encrypted order is immediately transferred to our sales staff for offline processing. See also [online ordering](https://web.archive.org/sales/howto/index.jsp#forms) for more information. 
 
-If you have concerns about sending information over the web, please visit our [address contact page](http://www.ga.gov.au/about/index.jsp#AGAadd) for alternative methods of submitting information (mail, fax etc). 
-
-### Accountability
-
-The staff who operate the Geoscience Australia Website, and most Australian Government agencies, are subject to the Commonwealth Privacy Act 1988\. 
-
-See also [online ordering](http://www.ga.gov.au/sales/howto/index.jsp#forms) for more information. 
+If you have concerns about sending information over the web, please [contact us](https://web.archive.org/about/contact_us.jsp) for alternative methods of submitting information (mail, fax etc). 
