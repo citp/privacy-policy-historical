@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201131518id_/http%3A//rv.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602084412id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
 
 # RV.NET :: Serving Enthusiasts of the Open Road
 
