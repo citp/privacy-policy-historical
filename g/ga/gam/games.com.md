@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185934id_/http%3A//www.us.infogrames.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811181308id_/http%3A//www.us.infogrames.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Atari
 
@@ -168,6 +168,6 @@ By using this site, you signify your assent to Atari’s Online Privacy Policy. 
 
 This Privacy Policy reflects the law of the United States. In France, the collection of personal information on the Internet is governed by French law no. 78-17 of January 6, 1978. 
 
-[Printable version](https://web.archive.org/web/20030603185934id_/http%3A//www.us.infogrames.com/privacy_policy.htm)
+[Printable version](https://web.archive.org/web/20030811181308id_/http%3A//www.us.infogrames.com/privacy_policy.htm)
 
 | 
