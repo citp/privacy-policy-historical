@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205101014id_/http%3A//www2.scotts.com/index.cfm%3FpoeSiteId%3D10926%26partnerId%3D99999%26fuseaction%3Dglobal.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622091256id_/http%3A//www.scotts.com/index.cfm%3FpoeSiteId%3D10926%26partnerId%3D99999%26fuseaction%3Dglobal.privacyPolicy) for the most accurate reproduction.*
 
 # Scotts - Privacy Policy
 
@@ -47,7 +47,7 @@ Scotts understands the importance of your privacy. We collect and maintain the p
 
 **Policies on Children**
 
-Children under the age of 18 are welcome to use The Scotts Company Web sites. However, we will ask that a registrant under the age of 18 obtain the approval of a parent or guardian before they become fully registered with one of our Web sites.
+Children under the age of 13 are welcome to use The Scotts Company Web sites. However, we will ask that a registrant under the age of 13 obtain the approval of a parent or guardian before they become fully registered with one of our Web sites.
 
 **Use of Cookies**
 
