@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bconnectedonline.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602182710id_/http%3A//www.bconnectedonline.com/img2/BCO%2520Privacy%2520Policy%25204.18.02.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bconnectedonline.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801205838id_/http%3A//bconnectedonline.com/img2/BCO%2520Privacy%2520Policy%25204.18.02.htm) for the most accurate reproduction.*
 
 # BCO Privacy Policy
 
