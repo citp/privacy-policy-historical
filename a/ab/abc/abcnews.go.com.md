@@ -1,103 +1,109 @@
-> *The following text is extracted and transformed from the abcnews.go.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210155500id_/http%3A//abcnews.go.com/service/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcnews.go.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413122803id_/http%3A//www.dig.com/legal/wdig_privacy.html) for the most accurate reproduction.*
 
-# ABCNEWS.com : Privacy
+# WDIG Privacy Policy
 
-[](https://www.truste.org/validate/3876)
+|  | Walt Disney Internet Group is a licensee of the TRUSTe Privacy Program. If you believe that WDIG has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact Trust(e) <http://www.truste.org/users/users_watchdog.html>. | [](http://www.truste.org/validate/3876)  
+---|---  
+  
+| Walt Disney Internet Group (WDIG) Privacy Policy  
+---|---  
+| What types of information are WDIG sites collecting, and how are the sites collecting it?  
+| How does WDIG use the personally identifiable information that has been collected?  
+| Does WDIG share information with companies or other organizations that are not part of the WDIG family of sites?  
+| What choices do I have about WDIG collecting, using, and sharing my information?  
+| What type of security does WDIG provide?  
+| How can I access my account information?  
+| Whom do I contact with questions or concerns about this privacy policy?  
+  
+* * *
 
-GO Network is committed to providing the best online family entertainment within a trusted environment. Privacy and safety issues are important to us, and to that end we’re pleased to offer a variety of links to Internet resources. 
+| **Walt Disney Internet Group (WDIG) Privacy Policy**  
+---|---  
+The Walt Disney Internet Group is committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use, and share information gathered about you on our family of Web sites - which includes all the brands you see along the border of this policy, except NFL.com. Once you have registered with one of our Web sites, you will have access to all of our family of sites. Thus, this privacy policy is the same for all of WDIG's sites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet. ****
 
-The five links below should help make Internet surfing fun and enjoyable for your entire family.
+**Kids' Privacy Policy**  
+We recognize the need to provide additional privacy protections for kids who visit our sites. To read about our protections for kids who are 12 and younger, [click here](https://web.archive.org/web/20010330060422id_/http://disney.go.com/investors/wdig/legal/kids_privacy.html).  
+  
+* * *  
+  
+| **What types of information are WDIG sites collecting, and how are the sites  
+collecting it? **  
+The majority of great products and services on our sites are offered without our collecting any personally identifiable information from you. You can surf WDIG's Web sites and view much of our terrific content anonymously. For instance, you can view television schedules at ABC.com or catch up on the latest movie-star news on Mr. Showbiz without giving out any personally identifiable information. ****
 
-**THE INTERNET, PRIVACY AND GO NETWORK ABCNEWS.COM**
+**Information You Provide**  
+There are a few activities on our sites where the collection of personally identifiable information is necessary. Those activities include things like entering a contest or sweepstakes, signing up for a free e-mail account, making a purchase, or contacting us. When personally identifiable information is collected, you will know because you will have to fill out a form. For most activities, we collect only your name, e-mail address, birth date, gender, and zip code. When you make a purchase, we also collect your street and billing addresses, your phone number, and credit card information. Depending on what you purchase, we may also need to collect other personal information, like your clothing size. ****
 
-The Internet contains a wealth of information. Unfortunately, it may also contain personal details about you that you don’t want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number or e-mail address. When you go online, sites you visit may be gathering information about you without your knowledge. At GO Network and ABCNEWS.com we strive to help our customers protect their privacy while using our services. **TRUSTE LICENSEE**
+**Information Collected from You with Technology**  
+WDIG sites collect some information about you using technology, so it may not be readily apparent to you that it is being collected. For instance, when you come to our site your IP address is collected so that we know where to send information you are requesting. An IP address is often associated with the place from which you enter the Internet like your ISP (Internet Service Provider), your company, or your university. This information is not personally identifiable. WDIG sites use information collected through technology to make our sites more interesting and useful to you. This includes helping advertisers on our site design advertisements our Guests might like. We normally don't combine this type of information with personally identifiable information. However, we will combine this information with personally identifiable information to identify a visitor in order to enforce compliance with our house rules or terms of service or to protect our service, site, Guests, or others. ****
 
-GO Network and ABCNEWS.com is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the GO Network and ABCNEWS.com. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control, and how you can correct any inaccuracies in the information. 
+**What Are Cookies, and How Does WDIG Use Them?**  
+Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more useful. WDIG and other Internet companies use cookies for a variety of purposes. For instance, DisneyStore.com uses cookies to remember and process the items in your shopping cart, and all WDIG sites use cookies to make sure kids don't enter unmoderated chat rooms. The Disney Store Online uses cookies to remember and process the items in your shopping cart, and all WDIG sites use cookies to make sure that kids don't enter unmoderated chat rooms. 
 
-Questions regarding this statement should be directed to Member Services by email at 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. **If you turn cookies off, you won't have access to many WDIG features that make your Web experience more efficient -- like the features mentioned above -- and some of our services will not function properly.**  
+  
+* * *  
+  
+| **How does WDIG use the personally identifiable information that has been collected?**  
+WDIG uses personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, if you purchase a fantasy team on ESPN.com, we use your information to process your order, or if you contact us for help we will use the information to contact you. We use information collected to notify you if you've won a game or contest. Information we collect is used to send you e-mail updates and newsletters about our sites. We also use the information you provide to send you WDIG e-mail promotions and special offers from our third-party sponsors.  
+  
+* * *  
+  
+| **Does WDIG share information with companies or other organizations that are not part of the WDIG family of sites?**  
+One of the most valuable assets of our business is you. We aren't in the business of selling information about our Guests. However, if there is a value for our Guests, we will share your information or send you messages on behalf of another company as described below. We will also share information for security reasons. ****
 
-[comments@help.go.com](https://web.archive.org/web/20001210155500id_/http%3A//abcnews.go.com/service/help/comments@help.go.com), by phone at (408) 543-6770, or by postal mail at: GO Network ABCNEWS.com Member Services, ATTN: Privacy Policy Coordinator, 1399 Moffett Park Drive, Sunnyvale, CA 94089.If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe ([](http://www.truste.org/users/watchdog.html\))[http://www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html)
+**Companies That Are "Standing in the Shoes" of WDIG**  
+Sometimes we hire companies to help us deliver products or services, like a shipping company that delivers a package. In those instances, we need to share your information with them. These companies are basically "standing in the shoes" of WDIG, and they are allowed to use the information only to deliver the product or service. ****
 
- **GO NETWORK and ABCNEWS.COM'S PRIVACY POLICY**
+**Companies Offering Promotions, Products, or Services**  
+On occasion, we offer promotions -- like sweepstakes or free subscriptions -- in conjunction with a sponsor. We will share your information with the sponsors if they need it to send you a product, such as a magazine subscription. We may share your information with those sponsors so that they can send you other special promotions they offer, but only if you give us your permission to do so, and we will share it only with that specific sponsor. In addition, WDIG occasionally sends e-mail promotions out to our Guests on behalf of third-party sponsors. In this instance, we don't share your name with the third party -- we do the mailing for them. Again, we only send these promotions to you if you've given your permission. ****
 
-GO Network and ABCNEWS.com’s policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so. 
+**Content Partners**  
+On some of our sites, we provide content that is created by a third-party partner Web site. For instance, ESPN.com provides shopping opportunities with third-parties and Movies.com provides a movie trivia service. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between WDIG and our third-party sponsors. ****
 
-To facilitate global registration, the information you provide for your personal GO Network and ABCNEWS.com account is shared among the GO Network and ABCNEWS.com sites as it is our goal to make your visits to our sites easy and enjoyable. However, be assured that GO Network and ABCNEWS.com will not disclose your personal information to third parties without your consent. GO Network and ABCNEWS.com may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) GO Network and ABCNEWS.com’s rights or property, other GO Network and ABCNEWS.com users, or anyone else who could be harmed by such activities. GO Network and ABCNEWS.com may disclose user information when we believe in good faith that the law requires it. 
+**Third-Party Advertisers and Network Advertisers**  
+To help increase privacy protections for our Guests, WDIG allows advertising on our sites from only those companies that have their own privacy policy. Once you've clicked on an advertisement and have left WDIG sites, our privacy policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site. 
 
-GO Network and ABCNEWS.com share aggregate information about our users with advertisers, business partners, sponsors and other third parties. For example, we will say GO Network and ABCNEWS.com’s audience is x percent females and y percent males. This data is used to customize GO Network and ABCNEWS.com content and advertising to deliver a better experience for our users. 
+In addition, many business advertisements are managed and placed on our site by third-party companies. These companies are called "network advertisers." Network advertisers collect information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realize it's being collected. The network advertisers collect this information so that they can show you ads that are more relevant and interesting to you. ****
 
-There are cases where GO Network and ABCNEWS.com may ask you for personal information such as your name, e-mail address and birth date. For example, we request personal information when you register for a GO Network and ABCNEWS.com account, for online shopping or transactions, or for services that require registration or subscription (for example, fantasy sports). GO Network and ABCNEWS.com need to collect this information for fulfilling prizes, for tracking and verifying compliance with GO Network and ABCNEWS.com policies, for meeting federal, state and local laws and/or for fulfiling editorial and feedback solicitation purposes. 
+**Purchase or Sale of Businesses**  
+Online business is still in a very early stage and is changing and evolving rapidly. As WDIG continually looks for ways to improve our business, we may buy or sell a company. If we buy or sell a business, the names collected will likely be transferred as a part of the sale. Information about registrants will be used in the aggregate. However, if we buy a business, we will honor the requests that customers made of that business regarding e-mail communications. In the event that we sell a business, we will do everything in our power to ensure that the e-mail communications requests you made of us are honored. ****
 
-In case you change your mind or some personal information, such as your zip code, may change, we will endeavor to provide a way to correct, update or remove the personal data you give us. You can do this at the member information page or by contacting our Customer Support organization at 
+**Organizations That Help Protect the Security and Safety of our Guests and our Sites**
 
-[comments@help.go.com](mailto:comments@go.com)
+We will give out personal information to comply with any legal actions like a court order; to enforce our Terms of Service, or site or game rules; or to protect the safety and security of Guests and our sites.   
+  
+* * *  
+  
+| **What choices do I have about WDIG collecting, using, and sharing my information?**  
+It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity -- at the time we collect your information -- to limit e-mail communications from WDIG and from our third-party partners. You can request at any time that WDIG not send future e-mail to you either by unsubscribing from the communication or by contacting us at [memberservices@help.go.com](mailto:memberservices@help.go.com). Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our features won't work if you decide to do this.  
+  
+* * *  
+  
+| **What type of security does WDIG provide?**  
+The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. WDIG takes technical, contractual, administrative, and physical security steps to protect all visitors' information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. There are some things that you can do to help protect the security of your information as well. For instance, never give out your password, since this is what is used to access all of your account information. Also remember to sign out of your account and close your browser window when you finish surfing the Web, so that other people using the same computer won't have access to your information.  
+  
+* * *  
+  
+| **How can I access my account information?**  
+If you are a registered Guest of any WDIG site, you have access to GO.com, which is WDIG's central point for obtaining access to your registration information. To review the personally identifiable information you gave us during registration, go to [GO.com's home page](http://www.go.com/) and click on "Sign In" (in the upper left hand corner of the page), then click on "Update My Account" and follow the sign-in instructions. The information you gave us during registration will be displayed and you can update it online. If you are already signed in, start at "Update My Account." 
 
- **OPTING OUT**
+You can also contact us via e-mail by clicking "Contact Us" in the footer on any WDIG page and selecting "Registration/Personalization" in the drop down box, or send an e-mail directly to [memberservices@help.go.com](mailto:memberservices@help.go.com). Please include information in the e-mail that will help us identify your account so we can assist you with your inquiry or request.  
+  
+* * *  
+  
+| **Whom do I contact with questions or concerns about this privacy policy?**  
+If you need further assistance, please send an e-mail with your questions or comments to [memberservices@help.go.com](mailto:memberservices@help.go.com)
 
-Information provided at the time of registration or submission from a guest who is 13 years of age or over may be used for marketing and promotional purposes by GO Network and ABCNEWS.com and our affiliates or companies that have been screened by GO Network and ABCNEWS.com. To keep you in control of your personal information and the communications directed to you, we allow you to opt out of the following services: sharing your information in our member directory, receiving communications from GO Network and ABCNEWS.com about new features or services, and receiving communications about offers from third-party companies that offer a product or a service that we think would be of value to you. If a guest objects to such use for any reason, he or she may stop that use -- either by e-mail request to [comments@help.go.com](mailto:comments@go.com) or by modifying his or her member information online. 
+  * write us at: Member Services   
+Go.com   
+506 2nd Avenue   
+Suite 2100   
+Seattle, WA 98104 
+  * fax us at: (206) 664-4664* 
+  * call us at: (972) 389-3972* 
 
-Information provided when purchasing products from any of our online stores may be used for marketing and promotional purposes and is subject to the opt-out processes described on, or linked to, each order form. 
 
-**Policies for KIDS (Individuals Under 13 YEARS OF AGE)**
 
-GO Network and ABCNEWS.com encourage parents and guardians to spend time online with their children and to participate in the activities offered on the sites. No information should be submitted to or posted at GO Network and ABCNEWS.com by guests under 13 years of age without the consent of their parents or guardians. 
-
-Unless otherwise disclosed during collection, GO Network and ABCNEWS.com do not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever from our guests under 13 years of age. All registrants receive an e-mail confirming their registration. In addition, when a guest under 13 registers, he or she is required to provide the e-mail address of his or her parent or guardian and his or her parent or guardian receives an e-mail alerting them to that registration. The parent or guardian must validate the account, as described in the e-mail, in order for the potential member to use most GO Network and ABCNEWS.com interactive services. No information collected from guests under 13 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside GO Network and ABCNEWS.com except as explicitly stated during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
-
-Although guests under 13 years of age may be allowed to participate in some contests and promotions, if such a guest wins, notification and prizes are sent to the parents or guardians identified in the initial registration process. Publication of contest winners’ names, ages or images for individuals under 13 require parental or guardian consent. 
-
-We do not allow guests under 13 years of age to be listed in our member directory or to receive direct marketing communications from GO Network and ABCNEWS.com or to be sent our third-party offers. 
-
-**POLICIES FOR TEENS (INDIVIDUALS 13 TO 17 YEARS OF AGE)**
-
-Teens are required to provide the e-mail address of a parent or guardian, and a notification message is sent to the parent or guardian of all guests who are 13 to 17 years of age that identifies the information supplied at registration and allows the parent or guardian to be aware of and participate in the guest member’s online experience. 
-
-**USE OF IP ADDRESSES**
-
-An IP address is a number automatically assigned to your computer whenever you’re surfing the Web. Web servers — the big computers that“serve up” Web pages — automatically identify your computer by its IP address. 
-
-GO Network and ABCNEWS.com collect IP addresses to facilitate system administration, to report aggregate information to our advertisers, and to audit the use of our site. When guests request pages from GO Network and ABCNEWS.com sites, our servers log the guests’ IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user’s session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, site, customers or others. 
-
-Some services within GO Network and ABCNEWS.com, such as certain message boards, may display IP addresses along with the message poster’s name and message. Please review each service before use and only use those that disclose information you are comfortable sharing. 
-
-**USE OF COOKIES**
-
-What are cookies? Cookies are pieces of information that a Web site transfers to an individual’s hard drive for record-keeping. Cookies make Web-surfing easier for you by saving your preferences while you’re at our site. We never save passwords or credit card information in cookies. The use of cookies is an industry standard — you’ll find them at most major Web sites. 
-
-By showing how and when guests use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users’ needs. 
-
-GO Network and ABCNEWS.com have two primary uses for cookies. First, we use them to specify unique preferences. For example, in GO Network and ABCNEWS.com’s News Center, users can specify keywords across several news categories. This way you don’t have to tell us over and over again about the kinds of news stories you want to see. Secondly, we use cookies to track user trends and patterns. This helps us better understand and improve areas of the GO Network and ABCNEWS.com service that our users find valuable. While both of these activities depend on the use of a “cookie,” visitors to GO Network and ABCNEWS.com always have the option of disabling cookies via their browser preferences. Information from cookies is sometimes attached to messages sent to our Customer Service department. 
-
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of the GO Network and ABCNEWS.com service will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized news preferences or you may have difficulty completing shopping transactions, entering contests or playing games. 
-
-You may occasionally get cookies from our advertisers. GO Network and ABCNEWS.com do not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
-
-**LINKS TO OTHER SITES**
-
-Users should be aware that when you are on GO Network and ABCNEWS.com, you could be directed to other sites that are beyond our control. There are links to other sites from GO Network and ABCNEWS.com pages that take you outside our service. For example, if you click on a banner advertisement or an GO Network or ABCNEWS.com search result, the click takes you off the GO Network or ABCNEWS.com site. This includes links from advertisers, center sponsors and partners that may use GO Network or ABCNEWS.com’s logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information. 
-
-Please keep in mind that whenever you give out personal information online — for example, via message boards or chat — that information can be collected and used by people you don’t know. While GO Network and ABCNEWS.com strive to protect its users’ personal information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
-
-GO Network and ABCNEWS.com’s policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond GO Network and ABCNEWS.com&#-146;s control, and is not to be applied in any manner contrary to applicable law or governmental regulation. 
-
-**SECURITY**
-
-The importance of security for all personally identifiable information associated with our guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission via the Internet can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, GO Network and ABCNEWS.com can’t ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption. 
-
-Your GO Network and ABCNEWS.com account is password protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. GO Network and ABCNEWS.com will never ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. 
-
-Remember to sign out of your GO Network or ABCNEWS.com account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place such as a library or an Internet café. 
-
-**YOUR ACCEPTANCE OF THESE TERMS**
-
-By using this site, you signify your assent to the GO Network and ABCNEWS.com Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the GO Network and ABCNEWS.com sites after the posting of changes to these terms will mean you accept those changes. 
-
-If you have questions or concerns regarding this Web site’s privacy statement, you should first contact the company at [comments@go.com](mailto:comments@go.com)
-
-If you do not receive acknowledgment of if your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe (<http://www.truste.org/users/users_watchdog.html>). 
-
-Last Updated 9/28/99   
-© 1999 ABCNEWS. All rights reserved. 
-
-**SAFETY TIPS**   
-This is a great place for both new and advanced Web users to find information on using the Internet wisely. 
+*You must be 18 or have the permission of your parent or guardian to dial this number.  
+  
+* * *
