@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217060246id_/http%3A//www.bluetie.com/about/privacy.asp%3Fid%3D%26res%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611080113id_/http%3A//www.bluetie.com/about/privacy.asp) for the most accurate reproduction.*
 
 # BlueTie, Inc. - Contact Us
 
@@ -9,6 +9,8 @@ LAST UPDATED: 9/1/02
 [](https://www.truste.org/validate/7004) **PRIVACY POLICY**  
 BlueTie, Inc. ("BlueTie")  
 [**www.bluetie.com**](http://www.bluetie.com/)
+
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
   1. **General**
   2. **Your Acceptance Of These Terms**
@@ -30,11 +32,11 @@ BlueTie, Inc. ("BlueTie")
 
 **General**
 
-BlueTie, Inc. is a licensee of the TRUSTe Privacy Program. BlueTie respects the privacy of every individual who visits www.bluetie.com (the "Web Site" or "Site"). Your privacy is very important to us. This Privacy Policy outlines the information we will collect and how we will use and share that information. This Policy will also tell you what to do if you do not want your personal information collected or shared. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. If you have any questions about our policy, please email us at [privacy@bluetie.com](mailto:privacy@bluetie.com).
+BlueTie, Inc. is a licensee of the TRUSTe Privacy Program. BlueTie respects the privacy of every individual who visits www.bluetie.com (the "Web Site" or "Site"). Your privacy is very important to us. This Privacy Policy outlines the information we will collect and how we will use and share that information. This Policy will also tell you what to do if you do not want your personal information collected or shared. If you have any questions about our policy, please email us at [privacy@bluetie.com](mailto:privacy@bluetie.com).
 
 **Your Acceptance Of These Terms**
 
-By using the Web Site, you signify your assent to our [Privacy Policy](https://web.archive.org/web/20031217060246id_/http%3A//www.bluetie.com/about/privacy.asp?id=&res=). If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
+By using the Web Site, you signify your assent to our [Privacy Policy](https://web.archive.org/web/20040611080113id_/http%3A//www.bluetie.com/about/privacy.asp?id=&res=). If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
 
 **Personally-Identifiable Information**
 
@@ -43,10 +45,10 @@ There are cases where we may ask you for personally-identifiable information suc
 When you provide us with personally-identifiable information, BlueTie may:  
 
 
-  * store and process that information to better understand your needs, customize your experience, and to improve our products and services; 
-  * use that information to contact you periodically via email and postal mail for informational purposes (i.e. site updates, system outages, etc.); 
-  * disclose that information to third parties who need such information to provide products and services that you have requested; 
-  * disclose that information to third parties when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) BlueTie's rights or property, other members or users of the Web Site, or anyone else who could be harmed by such activities; and 
+  * store and process that information to better understand your needs, customize your experience, and to improve our products and services;
+  * use that information to contact you periodically via email and postal mail for informational purposes (i.e. site updates, system outages, etc.);
+  * disclose that information to third parties who need such information to provide products and services that you have requested;
+  * disclose that information to third parties when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) BlueTie's rights or property, other members or users of the Web Site, or anyone else who could be harmed by such activities; and
   * disclose that information to third parties when we believe in good faith that the law requires it. 
 
 
@@ -113,5 +115,3 @@ If you have any questions about this privacy statement, the practices of this si
 > Rochester, NY 14623
 
 Or email us at: [privacy@bluetie.com](mailto:privacy@bluetie.com)
-
-If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/watchdog.html>). TRUSTe will serve as a liaison with BlueTie to resolve your concerns.
