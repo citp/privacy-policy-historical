@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407132518id_/http%3A//www.biomedcentral.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012103235id_/http%3A//www.biomedcentral.com/info/privacy.asp) for the most accurate reproduction.*
 
 # BioMed Central
 
 Privacy is an important concern for internet users, and is something that BioMed Central takes very seriously. What follows is an explanation of BioMed Central's policy for protecting users' personal information.
 
 **What personal information does BioMed Central ask users to supply, and why?  
-**Registration on BioMed Central is optional and voluntary. Searching for and viewing full text articles on BioMed Central does not require any personal information to be submitted from users. Nor do these functions require the user's browser to be set to accept cookies. 
+**Registration on BioMed Central is optional and voluntary. Browsing and viewing articles on BioMed Central does not require any personal information to be submitted from users. Nor do these functions require the user's browser to be set to accept cookies. 
 
 Some other aspects of BioMed Central's service and other services published on BioMed Central, such as [Faculty of 1000](http://facultyof1000.com/), do require the use of cookies, and the supply of information such as name, email address etc. This is necessary for security reasons, and also for BioMed Central to be able to assure standards of scientific integrity. Users may submit further personal information (e.g. details of research areas of interest) in order to take advantage of present and future personalization facilities on BioMed Central. 
 
