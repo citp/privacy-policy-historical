@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the juggle.com privacy policy that was archived on 2003-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030424135812id_/http%3A//www.juggle.com/copyright.ez%3FPrivacy%3DYes%26Form.sess_id%3D261170%26Form.sess_key%3D1049464028) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juggle.com privacy policy that was archived on 2003-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031103071256id_/http%3A//www.juggle.com/copyright.ez%3FPrivacy%3DYes%26Form.sess_id%3D364973%26Form.sess_key%3D1064978426) for the most accurate reproduction.*
 
 # juggle.com
 
 | 
 
-Thu, April 24 08:55  
-3 members online. Online for 0 minutes. 
+Mon, November 3 01:33  
+5 members online. Online for 0 minutes. 
 
 |   
 
@@ -47,13 +47,13 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-1\. You can visit the following URL: [http://www.juggle.com/signup.ez](http://www.juggle.com/signup.ez?Form.sess_id=269258&Form.sess_key=1051192516)
+1\. You can visit the following URL: [http://www.juggle.com/signup.ez](http://www.juggle.com/signup.ez?Form.sess_id=369760&Form.sess_key=1067844793)
 
 ### Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-1\. visit [http://www.juggle.com/signup.ez](http://www.juggle.com/signup.ez?Form.sess_id=269258&Form.sess_key=1051192516)
+1\. visit [http://www.juggle.com/signup.ez](http://www.juggle.com/signup.ez?Form.sess_id=369760&Form.sess_key=1067844793)
 
 ### Contacting the Web Site
 
