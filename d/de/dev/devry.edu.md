@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403171649id_/http%3A//devry.edu/privacy_gateway.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204083704id_/http%3A//www.devry.edu/privacy_gateway.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ DeVry Inc. and its subsidiaries ("DeVry" or "we") respect the privacy of every i
 
 2) Personally Identifiable Information
 
-DeVry will not collect any personally identifiable information about you (that is your name, address, telephone number, or email address) unless you provide it voluntarily. If you do not want your personally identifiable information collected, do not submit it to us. If you do submit personally identifiable information we may use it as follows: we will use it to complete the contact or request; we may store and process it to better understand your needs, and how we can improve our products and services; and we may it to contact you. We will not give or sell your individual information to any outside company for use in marketing or solicitation, and we will maintain the confidentiality of your personal information, which will be used only to support your relationship with DeVry.
+DeVry will not collect any personally identifiable information about you (that is your name, address, telephone number, or email address) unless you provide it voluntarily. If you do not want your personally identifiable information collected, do not submit it to us. If you do submit personally identifiable information we may use it as follows: we will use it to complete the contact or request; we may store and process it to better understand your needs, and how we can improve our products and services; and we may use it to contact you. We will not give or sell your individual information to any outside company for use in marketing or solicitation, and we will maintain the confidentiality of your personal information, which will be used only to support your relationship with DeVry.
 
 3) Children (under age 13)
 
@@ -39,4 +39,5 @@ Should you have other questions or concerns about this privacy policy, email us 
 DeVry Inc.  
 One Tower Lane  
 Oakbrook Terrace, IL 60181  
-(800) 73-DEVRY
+(800) 73-DEVRY  
+ 
