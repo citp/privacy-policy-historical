@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2000-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001001050630id_/http%3A//www.reeds-jewelers.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405023950id_/http%3A//www.reeds-jewelers.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # Reeds Jewelers
 
