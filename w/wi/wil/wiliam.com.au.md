@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wiliam.com.au privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604041811id_/http%3A//www.wiliam.com.au/misc/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiliam.com.au privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001162851id_/http%3A//www.wiliam.com.au/misc/policy.shtml) for the most accurate reproduction.*
 
-# wiliam - digital business design
+# Sydney, Australia - Internet web design, website design and development - Wiliam
 
   | 
 
