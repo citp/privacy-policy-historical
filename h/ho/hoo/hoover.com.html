@@ -1,24 +1,88 @@
-<!--The following is the downloaded HTML source of the hoover.com privacy policy that was archived on 2003-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031008143243id_/http%3A//hoover.com/dbPages/xq/Pop/qx/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hoover.com privacy policy that was archived on 2004-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605090947id_/http%3A//hoover.com/dbPages/xq/Pop/qx/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>The Hoover Company</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="http://www.HooverAttic.Com/Media/PageJava/USMain.CSS" type="text/css">
+<link rel="stylesheet" href="http://Media.Hoover.com/Media/PageJava/USMain.CSS" type="text/css">
 <script language="JavaScript">
 <!-- 
 
 // riJavaInit
-var PATH_PageImages = "http://www.HooverAttic.Com/Media/PageImages";
-var art = "http://www.HooverAttic.Com/Media/PageImages";
+var PATH_PageImages = "http://Media.Hoover.com/Media/PageImages";
+var art = "http://Media.Hoover.com/Media/PageImages";
 
 // Global.JS V2 RGS 3/5/03 Rem Global_Init,Try/Catch,Comments V3 RGS fix imageSwap
-function image_replace(targ_name,in_name,in_state) { var lclException; try { document.all.item(targ_name).src=eval(in_name + "_" + in_state + ".src"); } catch (lclException) { } }
-function image_swap(in_name,in_state) { var lclException; try { document.all.item(in_name).src=eval(in_name + "_" + in_state + ".src"); } catch (lclException) { } }
-function imgdef(in_path) { var newimg; var lclException; try { newimg=new Image;newimg.src=in_path;return newimg; } catch (lclException) { } }
+//			 V3 RGS 5/20/04 Mods for repl tags "input type=image"
+//			 V4 RGS 5/26/04 replace_attribute for styles/visibility, rem MaloneZeris JS
 ns4 = (document.layers)? true:false;
 ie4 = (document.all)? true:false;
 ns6 = (ns4|ie4)? false:true;
+
+// 5/20/04	Netscape mods: repl tags "input type=image"
+//			Scans for Name= and ID= versions.
+function image_replace(targ_name,in_name,in_state) { 
+var lclException; 
+	try { 
+		var elemlist, elemobj, elemindex,	elemcount, elemimage;
+		// find all elements w/req name.  Not just <img>, also <input type=image> 
+		elemlist  = document.getElementsByName (targ_name);			
+		elemcount = elemlist.length;
+		elemimage = eval(in_name + "_" + in_state + ".src");
+		for (var elemindex=0; elemindex < elemcount; elemindex++) {
+			elemobj = elemlist[elemindex];
+			elemobj.src = elemimage;
+//			alert(elemobj.src);		
+		}
+	} 
+	catch (lclException) { }
+}
+function image_swap(in_name,in_state) { var lclException; try { getnamedelement(in_name).src=eval(in_name + "_" + in_state + ".src"); } catch (lclException) { } }
+function imgdef(in_path) { var newimg; var lclException; try { newimg=new Image;newimg.src=in_path;return newimg; } catch (lclException) { } }
+
+// 5/24/04 RGS Get ID for first object matching on name
+// vs "document.all.item" which doesn't work with netscape
+function getnamedelement(targ_name) { 
+var lclException; 
+	try { 
+		var elemlist, elemobj, elemindex, elemcount, elemattr, elemstring;
+		// find all elements w/req name.  Not just <img>, also <input type=image> 
+		elemlist  = document.getElementsByName (targ_name);			
+		elemcount = elemlist.length;
+		for (var elemindex=0; elemindex < elemcount; elemindex++) {
+            elemobj = elemlist[elemindex];
+            if (elemcount > 1) alert('element with ' + elemcount + ' matches.');
+            return elemobj;
+        }
+        return null;
+	} 
+	catch (lclException) { 
+	// alert(lclException); // issue error
+	}
+}
+
+//	replace_attribute('MainImageLarge','.src', eval('MainImageLarge_off.src'));
+//	replace_attribute('MainImageLarge','.style.borderWidth', '0');
+//		Created as NS doesn't like document.all, "input" not in document.images, and needed generic version for all manner of elements.
+function replace_attribute(targ_name, targ_attr, targ_value) { 
+var lclException; 
+	try { 
+		var elemlist, elemobj, elemindex, elemcount, elemattr, elemstring;
+		// find all elements w/req name.  Not just <img>, also <input type=image> 
+		elemlist  = document.getElementsByName (targ_name);			
+		elemcount = elemlist.length;
+
+		for (var elemindex=0; elemindex < elemcount; elemindex++) {
+            elemobj = elemlist[elemindex];
+			eval('elemobj' + targ_attr + ' = targ_value;');
+		}
+	} 
+	catch (lclException) { 
+	// alert(lclException); // issue error
+	}
+}
+
+
 
 // -->
 </script>
@@ -42,7 +106,7 @@ var s_purchaseID=""
 var s_eVar1=""
 var s_code=' '
 //--></script>
-<script src="http://www.HooverAttic.Com/Media/PageJava/Omniture/s_code_ssl.js"></script>
+<script src="http://Media.Hoover.com/Media/PageJava/Omniture/s_code_ssl.js"></script>
 <script language="JavaScript"><!--
 var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
 'maytaghoover');if(s_code)document.write(s_code)}else
@@ -52,7 +116,7 @@ document.write('<im'+'g src="https://192.168.112.2O7.net/b/ss/maytaghoover/1/F.3
 +'&ch='+escape(s_wd.s_channel?s_wd.s_channel:(s_wd.channel?s_wd.channel:''))
 +'&[AQE]" height="1" width="1" border="0" />')
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script></head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><img src="https://192.168.112.2O7.net/b/ss/maytaghoover/1/F.3-fb/s1580460090356?[AQB]&amp;pageName=/dbPages/PrivacyPolicy.asp&amp;server=www.hoover.com&amp;ch=&amp;[AQE]" height="1" width="1" border="0"><noscript><img
+//--></script></head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><img src="https://192.168.112.2O7.net/b/ss/maytaghoover/1/F.3-fb/s1580460090291?[AQB]&amp;pageName=/dbPages/PrivacyPolicy.asp&amp;server=www.hoover.com&amp;ch=&amp;[AQE]" height="1" width="1" border="0"><noscript><img
 src="https://192.168.112.2O7.net/b/ss/maytaghoover/1/F.3-XELvS" height="1" width="1" border="0" /></noscript><!-- -->
 
 
@@ -61,8 +125,8 @@ src="https://192.168.112.2O7.net/b/ss/maytaghoover/1/F.3-XELvS" height="1" width
 
 <center><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-	<td width="50%" height="100%" background="http://www.HooverAttic.Com/Media/PageImages/common/pop_texture.gif"><img src="/art/1.gif" width="10" height="1" alt=""></td>
-	<td width="490"><center><img src="http://www.HooverAttic.Com/Media/PageImages/common/prd_privacy_head.gif" width="470" height="53" alt="Hoover Privacy Policy"><br><img src="/art/1.gif" width="490" height="10" alt=""><br><table border="0" cellpadding="0" cellspacing="0" width="470">
+	<td width="50%" height="100%" background="http://Media.Hoover.com/Media/PageImages/common/pop_texture.gif"><img src="/art/1.gif" width="10" height="1" alt=""></td>
+	<td width="490"><center><img src="http://Media.Hoover.com/Media/PageImages/common/prd_privacy_head.gif" width="470" height="53" alt="Hoover Privacy Policy"><br><img src="/art/1.gif" width="490" height="10" alt=""><br><table border="0" cellpadding="0" cellspacing="0" width="470">
 	<tbody><tr>
 		<td colspan="3" bgcolor="#CCCCCC"><img src="/art/1.gif" width="1" height="1" alt=""></td>
 	</tr>
@@ -75,10 +139,12 @@ src="https://192.168.112.2O7.net/b/ss/maytaghoover/1/F.3-XELvS" height="1" width
 	</tr><tr>
 		<td colspan="3" bgcolor="#CCCCCC"><img src="/art/1.gif" width="1" height="1" alt=""></td>
 	</tr>
-	</tbody></table><img src="/art/1.gif" width="1" height="15" alt=""><br><img src="http://www.HooverAttic.Com/Media/PageImages/product/prd_reg_line2.gif" width="470" height="1" alt=""><br><img src="/art/1.gif" width="1" height="3" alt=""><br><a href="javascript:window.close();"><img src="http://www.HooverAttic.Com/Media/PageImages/product/prd_reg_close_off.gif" width="38" height="12" alt="close" align="right" border="0"></a><img src="/art/1.gif" width="1" height="15" alt=""><br><img src="/art/1.gif" width="1" height="45" alt=""></center></td>
-	<td width="50%" height="100%" background="http://www.HooverAttic.Com/Media/PageImages/common/pop_texture.gif"><img src="/art/1.gif" width="10" height="1" alt=""></td>
+	</tbody></table><img src="/art/1.gif" width="1" height="15" alt=""><br><img src="http://Media.Hoover.com/Media/PageImages/product/prd_reg_line2.gif" width="470" height="1" alt=""><br><img src="/art/1.gif" width="1" height="3" alt=""><br><a href="javascript:window.close();"><img src="http://Media.Hoover.com/Media/PageImages/product/prd_reg_close_off.gif" width="38" height="12" alt="close" align="right" border="0"></a><img src="/art/1.gif" width="1" height="15" alt=""><br><img src="/art/1.gif" width="1" height="45" alt=""></center></td>
+	<td width="50%" height="100%" background="http://Media.Hoover.com/Media/PageImages/common/pop_texture.gif"><img src="/art/1.gif" width="10" height="1" alt=""></td>
 </tr>
 </tbody></table>
 
 
-<!--Session 521812740--></center></body></html>
+
+
+<!--Session 106158031--></center></body></html>
