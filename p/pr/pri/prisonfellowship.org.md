@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prisonfellowship.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610175703id_/http%3A//www.pfm.org/Template.cfm%3FSection%3DPFM_Home%26Template%3D/ContentManagement/ContentDisplay.cfm%26ContentID%3D11597) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prisonfellowship.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204162730id_/http%3A//www.pfm.org/AM/Template.cfm%3FSection%3DPFM_Site%26Template%3D/CM/ContentDisplay.cfm%26ContentID%3D11597) for the most accurate reproduction.*
 
-# Prison Fellowship Ministries | Prison Fellowship Privacy Policy
+# PFM | Prison Fellowship Privacy Policy
 
-| 
+[Home](http://www.pfm.org/) Prison Fellowship 
 
   
 
@@ -123,6 +123,3 @@ Back to top.
 
   
 
-
-|   
----|---
