@@ -1,98 +1,134 @@
-<!--The following is the downloaded HTML source of the zipcar.com privacy policy that was archived on 2001-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010405035129id_/http%3A//www.zipcar.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zipcar.com privacy policy that was archived on 2001-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011206001027id_/http%3A//www.zipcar.com/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
-<title>ZipCar - privacy policy</title>
+<html><head>
+<title>Zipcar - privacy policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="Zipcar maintains and insures vehicles that it parks throughout dense urban areas. Members can reserve the vehicles for as little as one hour. If you drive fewer than 5000 miles per year, Zipcar is cheaper than driving your own car.">
 <meta name="keywords" lang="en-us" content="car sharing, car-sharing, car share,Cambridge, Boston, metro-Boston Allston, Massachusetts, MA, share a car, save money, reduce pollution, save on insurance, corporate car rental, car rental, cars by the hour, reduce congestion, parking efficiency, efficient parking, zipcar, Zipcar, ZipCar, zip car, Zip Car, Zip car, fractional car, fraction of a car, part-time car">
 <!-- Copyright (c) 2000 zipcar -->
 <link rev="owns" href="mailto:webmaster@zipcar.com">
-<script language="JavaScript">
-<!-- (hide)
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+<link rel="stylesheet" type="text/css" href="/include/zipcar.css">
+<script language="javascript" src="/include/quote.js"></script>
+<script language="javascript">
+	<!-- This is the image switch code, plus the browser detection 
 
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+	if (document.images) {
+		homeon = new Image(); 
+		homeon.src = "/img/menu/home_on.gif";
+		homeoff = new Image(); 
+		homeoff.src = "/img/menu/home.gif";
 
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-}
+		businessuseon = new Image(); 
+		businessuseon.src = "/img/menu/businessuse_on.gif";
+		businessuseoff = new Image(); 
+		businessuseoff.src = "/img/menu/businessuse.gif";
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
+		parkinglocationson = new Image(); 
+		parkinglocationson.src = "/img/menu/parkinglocations_on.gif";
+		parkinglocationsoff = new Image(); 
+		parkinglocationsoff.src = "/img/menu/parkinglocations.gif";
 
-//-->
+		commonquestionson = new Image(); 
+		commonquestionson.src = "/img/menu/commonquestions_on.gif";
+		commonquestionsoff = new Image(); 
+		commonquestionsoff.src = "/img/menu/commonquestions.gif";
+
+		rateson = new Image(); 
+		rateson.src = "/img/menu/rates_on.gif";
+		ratesoff = new Image(); 
+		ratesoff.src = "/img/menu/rates.gif";
+
+		applyon = new Image(); 
+		applyon.src = "/img/menu/apply_on.gif";
+		applyoff = new Image(); 
+		applyoff.src = "/img/menu/apply.gif";
+
+		aboutuson = new Image(); 
+		aboutuson.src = "/img/menu/aboutus_on.gif";
+		aboutusoff = new Image(); 
+		aboutusoff.src = "/img/menu/aboutus.gif";
+	}
+
+	function imgOn(imgName) {
+		if (document.images) {
+			document[imgName].src = eval(imgName + "on.src");
+			document[imgName + "_foot"].src = eval(imgName + "on.src");
+		}
+	}
+
+	function imgOff(imgName) {
+		if (document.images) {
+			document[imgName].src = eval(imgName + "off.src");
+			document[imgName + "_foot"].src = eval(imgName + "off.src");
+		}
+	}
+
+
+	NS4 = (document.layers);
+	IE4 = (document.all);
+	Mozilla = (navigator.appName.indexOf("Netscape")!=-1 && parseInt(navigator.appVersion) >= 5);
+	ver4 = (NS4 || IE4);
+	IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
+	isMac = (navigator.appVersion.indexOf("Mac") != -1);
+	isMenu = (Mozilla || NS4 || (IE4 && !isMac) || (IE5 && isMac));
+	function popUp(){return};
+	function popDown(){return};
+	if (!ver4) event=null;
+	//-->
 </script>
+<script language="JavaScript1.2" type="text/javascript">
+	<!--
+	if (isMenu) {
+		menuVersion = 3;
+		menuWidth = 120;
+		childOverlap = 0;
+		childOffset = 0;
+		perCentOver = null;
+		secondsVisible = 0;
+		fntCol = "blue";
+		fntSiz = "10";
+		fntBold = false;
+		fntItal = false;
+		fntFam = "Arial,sans-serif";
+		backCol = "#DDDDDD";
+		overCol = "#FFCCCC";
+		overFnt = "purple";
+		borWid = 2;
+		borCol = "black";
+		borSty = "solid";
+		itemPad = 3;
+		imgSrc = "/img/tri.gif";
+		imgSiz = 10;
+		separator = 1;
+		separatorCol = "black";
+		isFrames = false;
+		keepHilite = true; 
+		clickStart = false;
+		clickKill = false;
+	}
+
+	if (isMenu) {
+		document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='/include/menus.js' TYPE='text/javascript'><\/SCRIPT>");
+		document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='/include/menuCode.js' TYPE='text/javascript'><\/SCRIPT>");
+	}
+	//-->
+</script><script language="JavaScript1.2" src="/include/menus.js" type="text/javascript"></script><script language="JavaScript1.2" src="/include/menuCode.js" type="text/javascript"></script>
+
+
 </head>
-<body alink="#990000" bgcolor="#ffffff" link="#006699" text="#333333" vlink="#660099" onload="MM_preloadImages('img/nav/greenbenefits_ro.gif','img/nav/parkinglocations_ro.gif','img/nav/commonquestions_ro.gif','img/nav/rates_ro.gif','img/nav/apply_ro.gif','img/nav/aboutus_ro.gif','img/nav/home_ro.gif')">
-<table align="center" width="610" border="0" cellpadding="0" cellspacing="0"> <!-- table contains body of page -->
-  <tbody><tr>
-    <td width="45" height="86" colspan="2" rowspan="2" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="45" height="86" alt=""></td>
-    <td width="205" height="86" colspan="2" rowspan="2" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="205" height="86" alt=""></td>
-    <td width="360" height="29" colspan="6" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="360" height="29" alt=""></td>
-    <td width="1" height="29">
-      <img src="img/spacer.gif" width="1" height="29" alt=""></td>
-  </tr>
-  <tr>
-    <td width="194" height="57" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="194" height="57" alt=""></td>
-    <td width="106" height="62" colspan="2" rowspan="2">
-      <a href="index.jsp">
-        <img src="img/zipcarlogosmall.gif" width="106" height="62" border="0" alt="zipcar"></a></td>
-    <td width="66" height="62" colspan="3" rowspan="2" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="66" height="62" alt=""></td>
-    <td width="1" height="57">
-      <img src="img/spacer.gif" width="1" height="57" alt=""></td>
-  </tr>
-  <tr>
-    <td width="45" height="32" colspan="2" rowspan="2" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="45" height="32" alt=""></td>
-    <td width="205" height="32" colspan="2" rowspan="2" bgcolor="#FFFFFF">
-      <font face="Arial, Helvetica, sans-serif" size="-2">
-      <a href="mailto:info@zipcar.com">info@zipcar.com</a> | 617 491 9900</font></td>
-    <td width="194" height="32" rowspan="2" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="194" height="32" alt=""></td>
-    <td width="1" height="5">
-      <img src="img/spacer.gif" width="1" height="5" alt=""></td>
-  </tr>
-  <tr>
-    <td width="166" height="27" colspan="5" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="166" height="27" alt=""></td>
-    <td width="1" height="27">
-      <img src="img/spacer.gif" width="1" height="27" alt=""></td>
-  </tr>
-  <tr>
-    <td width="610" height="20" colspan="10" align="left" valign="top" bgcolor="#CCCC66">
-      <a href="greenbenefits.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('greenbenefits1','','img/nav/greenbenefits_ro.gif','bulleta1','','img/nav/nobullet.gif','greenbenefits2','','img/nav/greenbenefits_ro.gif','bulleta2','','img/nav/nobullet.gif',1)"><img src="img/nav/greenbenefits.gif" width="97" height="20" border="0" alt="green benefits" name="greenbenefits1"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulleta1"><a href="parkingLocations.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('parkinglocations1','','img/nav/parkinglocations_ro.gif','bulleta1','','img/nav/nobullet.gif','bulletb1','','img/nav/nobullet.gif','parkinglocations2','','img/nav/parkinglocations_ro.gif','bulleta2','','img/nav/nobullet.gif','bulletb2','','img/nav/nobullet.gif',1)"><img src="img/nav/parkinglocations.gif" width="111" height="20" border="0" alt="parking locations" name="parkinglocations1"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletb1"><a href="faqs.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('commonquestions1','','img/nav/commonquestions_ro.gif','bulletb1','','img/nav/nobullet.gif','bulletc1','','img/nav/nobullet.gif','commonquestions2','','img/nav/commonquestions_ro.gif','bulletb2','','img/nav/nobullet.gif','bulletc2','','img/nav/nobullet.gif',1)"><img src="img/nav/commonquestions.gif" width="125" height="20" border="0" alt="common questions" name="commonquestions1"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletc1"><a href="rates.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('rates1','','img/nav/rates_ro.gif','bulletc1','','img/nav/nobullet.gif','bulletd1','','img/nav/nobullet.gif','rates2','','img/nav/rates_ro.gif','bulletc2','','img/nav/nobullet.gif','bulletd2','','img/nav/nobullet.gif',1)"><img src="img/nav/rates.gif" width="40" height="20" border="0" alt="rates" name="rates1"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletd1"><a href="trialoffer.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('trialoffer1','','bulletd1','','img/nav/nobullet.gif','bullete1','','img/nav/nobullet.gif','trialoffer2','','bulletd2','','img/nav/nobullet.gif','bullete2','','img/nav/nobullet.gif',1)"><img src="img/nav/trialoffer.gif" width="69" height="20" border="0" alt="trial offer" name="trialoffer1"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bullete1"><a href="apply.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('apply1','','img/nav/apply_ro.gif','bullete1','','img/nav/nobullet.gif','bulletf1','','img/nav/nobullet.gif','apply2','','img/nav/apply_ro.gif','bullete2','','img/nav/nobullet.gif','bulletf2','','img/nav/nobullet.gif',1)"><img src="img/nav/apply.gif" width="42" height="20" border="0" alt="apply" name="apply1"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletf1"><a href="aboutus.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('aboutus1','','img/nav/aboutus_ro.gif','bulletf1','','img/nav/nobullet.gif','bulletg1','','img/nav/nobullet.gif','aboutus2','','img/nav/aboutus_ro.gif','bulletf2','','img/nav/nobullet.gif','bulletg2','','img/nav/nobullet.gif',1)"><img src="img/nav/aboutus.gif" width="62" height="20" border="0" alt="about us" name="aboutus1"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletg1"><a href="index.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home1','','img/nav/home_ro.gif','bulletg1','','img/nav/nobullet.gif','home2','','img/nav/home_ro.gif','bulletg2','','img/nav/nobullet.gif',1)"><img src="img/nav/home.gif" width="43" height="20" border="0" alt="home" name="home1"></a></td>
-    <td width="1" height="20">
-      <img src="img/spacer.gif" width="1" height="20" alt=""></td>
-  </tr>
-  <tr>
-    <td width="610" height="30" colspan="10" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="610" height="30" alt=""></td>
-    <td width="1" height="30">
-      <img src="img/spacer.gif" width="1" height="30" alt=""></td>
-  </tr>
-  <tr><!-- main text row; no cell heights set -->
-    <td width="38" bgcolor="#FFFFFF">
+<body alink="#990000" bgcolor="#ffffff" link="#006699" text="#333333" vlink="#660099" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+<!-- standard Zipcar header -->
+        <table border="0" cellpadding="0" cellspacing="0" width="599"><tbody><tr><td height="100" width="50">&nbsp;</td><td height="100" valign="bottom" width="260" colspan="3" class="menuHeading"><script language="JavaScript">writequote();</script><br><br><a href="mailto:info@zipcar.com">info@zipcar.com</a> | 866 4ZIPCAR</td><td valign="middle" align="right" width="289" colspan="4"><a href="/"><img src="/img/zipcarlogosmall.gif" width="106" height="62" border="0" alt="zipcar"></a></td></tr><tr><td width="50" height="20"><img src="/img/spacer.gif" width="50" height="20"></td><td height="20" valign="top" width="51"><a href="/" onmouseout="imgOff('home');" onmouseover="imgOn('home');"><img src="/img/menu/home.gif" width="51" height="20" border="0" alt="home" name="home"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="93"><a href="/corporaterates.jsp" onmouseout="imgOff('businessuse');" onmouseover="imgOn('businessuse');"><img src="/img/menu/businessuse.gif" width="93" height="20" border="0" alt="business use" name="businessuse"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="116"><a href="/parkingLocations.jsp" onmouseout="imgOff('parkinglocations'); popDown('elMenu1')" onmouseover="imgOn('parkinglocations'); popUp('elMenu1',event)"><img src="/img/menu/parkinglocations.gif" width="116" height="20" border="0" alt="parking locations" name="parkinglocations"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="124"><a href="/faqs.jsp" onmouseout="imgOff('commonquestions');" onmouseover="imgOn('commonquestions');"><img src="/img/menu/commonquestions.gif" width="124" height="20" border="0" alt="common questions" name="commonquestions"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="49"><a href="/rates.jsp" onmouseout="imgOff('rates'); popDown('elMenu2')" onmouseover="imgOn('rates'); popUp('elMenu2',event)"><img src="/img/menu/rates.gif" width="49" height="20" border="0" alt="rates" name="rates"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="49"><a href="/apply.jsp" onmouseout="imgOff('apply');" onmouseover="imgOn('apply');"><img src="/img/menu/apply.gif" width="49" height="20" border="0" alt="apply" name="apply"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="67"><a href="/aboutus.jsp" onmouseout="imgOff('aboutus');" onmouseover="imgOn('aboutus');"><img src="/img/menu/aboutus.gif" width="67" height="20" border="0" alt="about us" name="aboutus"></a></td></tr></tbody></table>
+<!-- end standard Zipcar header -->
+
+<br><br>
+
+<table width="610" border="0" cellpadding="0" cellspacing="0"> <!-- table contains body of page -->
+  <tbody><tr><!-- main text row; no cell heights set -->
+    <td width="238" bgcolor="#FFFFFF">
       <img src="img/spacer.gif" width="38" height="1" alt=""></td>
-    <td width="70" colspan="2" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="70" height="1" alt=""></td>
-    <td width="372" align="left" valign="top" colspan="3" bgcolor="#FFFFFF">
+    <td width="372" align="left" valign="top" bgcolor="#FFFFFF">
 <font face="Arial, Helvetica, sans-serif">
 <p>
 <b><font color="#336600">zipcar privacy policy</font></b>
@@ -178,51 +214,16 @@ imposed by statute, regulation, or legal process.
 please email us at <a href="mailto:info@zipcar.com">info@zipcar.com</a>.
 </p>
 </font></td>
-    <td width="78" colspan="2" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="78" height="1" alt=""></td>
-    <td width="20" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="20" height="1" alt=""></td>
-    <td width="32" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="32" height="1" alt=""></td>
-    <td width="1">
-      <img src="img/spacer.gif" width="1" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td width="610" height="40" colspan="10" bgcolor="#FFFFFF">
-      <img src="img/spacer.gif" width="610" height="40" alt=""></td>
-    <td width="1" height="40">
-      <img src="img/spacer.gif" width="1" height="40" alt=""></td>
-  </tr>
-  <tr>
-    <td width="610" height="20" colspan="10" align="left" valign="top" bgcolor="#CCCC66">
-      <a href="greenbenefits.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('greenbenefits1','','img/nav/greenbenefits_ro.gif','bulleta1','','img/nav/nobullet.gif','greenbenefits2','','img/nav/greenbenefits_ro.gif','bulleta2','','img/nav/nobullet.gif',1)"><img src="img/nav/greenbenefits.gif" width="97" height="20" border="0" alt="green benefits" name="greenbenefits2"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulleta2"><a href="parkingLocations.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('parkinglocations1','','img/nav/parkinglocations_ro.gif','bulleta1','','img/nav/nobullet.gif','bulletb1','','img/nav/nobullet.gif','parkinglocations2','','img/nav/parkinglocations_ro.gif','bulleta2','','img/nav/nobullet.gif','bulletb2','','img/nav/nobullet.gif',1)"><img src="img/nav/parkinglocations.gif" width="111" height="20" border="0" alt="parking locations" name="parkinglocations2"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletb2"><a href="faqs.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('commonquestions1','','img/nav/commonquestions_ro.gif','bulletb1','','img/nav/nobullet.gif','bulletc1','','img/nav/nobullet.gif','commonquestions2','','img/nav/commonquestions_ro.gif','bulletb2','','img/nav/nobullet.gif','bulletc2','','img/nav/nobullet.gif',1)"><img src="img/nav/commonquestions.gif" width="125" height="20" border="0" alt="common questions" name="commonquestions2"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletc2"><a href="rates.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('rates1','','img/nav/rates_ro.gif','bulletc1','','img/nav/nobullet.gif','bulletd1','','img/nav/nobullet.gif','rates2','','img/nav/rates_ro.gif','bulletc2','','img/nav/nobullet.gif','bulletd2','','img/nav/nobullet.gif',1)"><img src="img/nav/rates.gif" width="40" height="20" border="0" alt="rates" name="rates2"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletd2"><a href="trialoffer.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('trialoffer1','','bulletd1','','img/nav/nobullet.gif','bullete1','','img/nav/nobullet.gif','trialoffer2','','bulletd2','','img/nav/nobullet.gif','bullete2','','img/nav/nobullet.gif',1)"><img src="img/nav/trialoffer.gif" width="69" height="20" border="0" alt="trial offer" name="trialoffer2"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bullete2"><a href="apply.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('apply1','','img/nav/apply_ro.gif','bullete1','','img/nav/nobullet.gif','bulletf1','','img/nav/nobullet.gif','apply2','','img/nav/apply_ro.gif','bullete2','','img/nav/nobullet.gif','bulletf2','','img/nav/nobullet.gif',1)"><img src="img/nav/apply.gif" width="42" height="20" border="0" alt="apply" name="apply2"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletf2"><a href="aboutus.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('aboutus1','','img/nav/aboutus_ro.gif','bulletf1','','img/nav/nobullet.gif','bulletg1','','img/nav/nobullet.gif','aboutus2','','img/nav/aboutus_ro.gif','bulletf2','','img/nav/nobullet.gif','bulletg2','','img/nav/nobullet.gif',1)"><img src="img/nav/aboutus.gif" width="62" height="20" border="0" alt="about us" name="aboutus2"></a><img src="img/nav/bullet.gif" width="3" height="20" alt="" name="bulletg2"><a href="index.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home1','','img/nav/home_ro.gif','bulletg1','','img/nav/nobullet.gif','home2','','img/nav/home_ro.gif','bulletg2','','img/nav/nobullet.gif',1)"><img src="img/nav/home.gif" width="43" height="20" border="0" alt="home" name="home2"></a></td>
-    <td width="1" height="20">
-      <img src="img/spacer.gif" width="1" height="20" alt=""></td>
-  </tr>
-  <tr>
-    <td width="38" height="1">
-      <img src="img/spacer.gif" width="38" height="1" alt=""></td>
-    <td width="7" height="1">
-      <img src="img/spacer.gif" width="7" height="1" alt=""></td>
-    <td width="63" height="1">
-      <img src="img/spacer.gif" width="63" height="1" alt=""></td>
-    <td width="142" height="1">
-      <img src="img/spacer.gif" width="142" height="1" alt=""></td>
-    <td width="194" height="1">
-      <img src="img/spacer.gif" width="194" height="1" alt=""></td>
-    <td width="36" height="1">
-      <img src="img/spacer.gif" width="36" height="1" alt=""></td>
-    <td width="64" height="1">
-      <img src="img/spacer.gif" width="64" height="1" alt=""></td>
-    <td width="14" height="1">
-      <img src="img/spacer.gif" width="14" height="1" alt=""></td>
-    <td width="20" height="1">
-      <img src="img/spacer.gif" width="20" height="1" alt=""></td>
-    <td width="32" height="1">
-      <img src="img/spacer.gif" width="32" height="1" alt=""></td>
-    <td width="1" height="1"></td>
   </tr>
 </tbody></table>
+
+
+<!-- standard Zipcar footer -->
+        <table border="0" cellpadding="0" cellspacing="0" width="599"><tbody><tr><td height="50" width="50">&nbsp;</td><td height="50" valign="bottom" width="260" colspan="3" class="menuHeading"><a href="mailto:info@zipcar.com">info@zipcar.com</a> | 866 4ZIPCAR</td><td valign="bottom" align="right" width="289" colspan="4" class="menuHeading">Copyright © 2001 Zipcar | <a href="/privacy.jsp">Privacy policy</a></td></tr><tr><td width="50" height="20"><img src="/img/spacer.gif" width="50" height="20"></td><td height="20" valign="top" width="51"><a href="/" onmouseout="imgOff('home');" onmouseover="imgOn('home');"><img src="/img/menu/home.gif" width="51" height="20" border="0" alt="home" name="home_foot"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="93"><a href="/corporaterates.jsp" onmouseout="imgOff('businessuse');" onmouseover="imgOn('businessuse');"><img src="/img/menu/businessuse.gif" width="93" height="20" border="0" alt="business use" name="businessuse_foot"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="116"><a href="/parkingLocations.jsp" onmouseout="imgOff('parkinglocations');" onmouseover="imgOn('parkinglocations');"><img src="/img/menu/parkinglocations.gif" width="116" height="20" border="0" alt="parking locations" name="parkinglocations_foot"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="124"><a href="/faqs.jsp" onmouseout="imgOff('commonquestions');" onmouseover="imgOn('commonquestions');"><img src="/img/menu/commonquestions.gif" width="124" height="20" border="0" alt="common questions" name="commonquestions_foot"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="49"><a href="/rates.jsp" onmouseout="imgOff('rates');" onmouseover="imgOn('rates');"><img src="/img/menu/rates.gif" width="49" height="20" border="0" alt="rates" name="rates_foot"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="49"><a href="/apply.jsp" onmouseout="imgOff('apply');" onmouseover="imgOn('apply');"><img src="/img/menu/apply.gif" width="49" height="20" border="0" alt="apply" name="apply_foot"></a></td><td bgcolor="#cccc66" height="20" valign="top" width="67"><a href="/aboutus.jsp" onmouseout="imgOff('aboutus');" onmouseover="imgOn('aboutus');"><img src="/img/menu/aboutus.gif" width="67" height="20" border="0" alt="about us" name="aboutus_foot"></a></td></tr></tbody></table>
+<br><br>
+<!-- end standard Zipcar footer -->
+
+
 
 
 </body></html>
