@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409204856id_/http%3A//www.vcu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022219id_/http%3A//www.vcu.edu/privacy.html) for the most accurate reproduction.*
 
 # VCU Web Privacy Statement
 
 Effective Date: January 1, 2001
 
-The following discloses the information gathering and dissemination practices of official Virginia Commonwealth University (VCU) web pages (defined as Institutional Web Pages in the [**VCU Web Publishing Guidelines**](https://web.archive.org/web/20030409204856id_/http%3A//www.vcu.edu/guidelines/index.html)) and is in accordance with the following statement.
+The following discloses the information gathering and dissemination practices of official Virginia Commonwealth University (VCU) web pages (defined as Institutional Web Pages in the [**VCU Web Publishing Guidelines**](https://web.archive.org/web/20031205022219id_/http%3A//www.vcu.edu/guidelines/index.html)) and is in accordance with the following statement.
 
 > _It is the policy of the Commonwealth of Virginia that personal information about citizens will be collected only to the extent necessary to provide the service or benefit desired; that only appropriate information will be collected; that the citizen shall understand the reason the information is collected and be able to examine their personal record which is maintained by a public body._
 
@@ -49,3 +49,5 @@ This site contains links to external (non-VCU) web sites.  VCU is not responsib
 **Contacting Us**
 
 If you have additional questions or concerns about our privacy policies, please send Email to the VCU Webmaster at [**webmaster@www.vcu.edu**](mailto:webmaster@www.vcu.edu). If you wish to review or change information gathered about you via an official VCU web site, you may contact the VCU Webmaster who will assist you in locating the person responsible for that site so that you may make your request for that review or change directly with them.
+
+                                                                                                                                                                                                                 
