@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216215647id_/http%3A//motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611062159id_/http%3A//www.motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
 
 # Motorsport.com > Legal channel
 
@@ -8,7 +8,7 @@
 
  **General information**
 
-We use third-party advertising companies to serve ads when you visit Motorsport.com. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this site. These companies may use information ( **not** including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.sonar.com/content/privacy.htm).
+We use third-party advertising companies to serve ads when you visit Motorsport.com. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this site. These companies may use information ( **not** including your name, address email, address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, contact us at [business@motorsport.com](mailto:business@motorsport.com).
 
 Please note: nothing in a cookie allows anyone to identify you individually. Your computer is assigned a number and that number is tracked using the cookie. This number is only meaningful in the context of our secure database system.
 
