@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008100036id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202812id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement for BRINT Institute, LLC
+
+  
+**The Knowledge Creating Company** tm
+
+Privacy Statement for BRINT Institute, LLC   
+[About Us](http://www.brint.com/press/): Additional Data
 
 BRINT Institute, LLC (herafter referred as BRINT Institute) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web portals of BRINT Institute (herafter referred as BRINT web portals).
 
@@ -22,18 +28,4 @@ BRINT Institute has been actively contributing to the definition and implementat
 
  **Security** This site has security measures in place to protect the loss, misuse and alteration of the information under our control. For instance, users of our public discussion forums have the choice of hiding their individual e-mail addresses so that their addresses aren't easily available to programs that collect web based e-mail addresses for mass mailings. Similarly, the registration information for the global community members is not shared with anyone else unless explicitly chosen by the specific member. 
 
-**Choice/Opt-Out** Our site provides registered members the opportunity to opt-out of receiving our periodic newsletter which may be sent at most once a month. This is the only membership communication that we may send to registered members or those who have requested to receive the newsletter. 
-
-**TO SUBSCRIBE:**
-
-Please send a blank e-mail message to [subscribe@brint.com](mailto:subscribe@brint.com) and you will receive the latest issue of the monthly Network membership newsletter.
-
-**TO UPDATE E-MAIL ADDRESS:**
-
-Please send a blank e-mail message to [subscribe@brint.com](mailto:subscribe@brint.com) from your NEW e-mail address and you will receive the latest issue of the Network membership newsletter. You will also need to unsubscribe your OLD e-mail address by sending a blank e-mail message to [unsubscribe@brint.com](mailto:unsubscribe@brint.com) from your OLD e-mail address. You will receive a response at your old e-mail address acknowledging that its service has been suspended.
-
-**TO UNSUBSCRIBE:**
-
-If you do not want to receive this Newsletter and ALL  information, offers and opportunities available to self-registered members of the BRINT Institute and BRINT web portals, please send an e-mail message with the subject UNSUBSCRIBE to e-mail address [unsubscribe@brint.com](mailto:unsubscribe@brint.com). You will receive a response acknowledging that your membership has been suspended. Please note that the unsubscribed e-mail address can not be used for accessing any services of BRINT web portals.
-
-**Contacting the Web Site** If you have any questions about this privacy statement or the membership practices of this site, you may write to: Director, Member Services BRINT Institute, LLC P.O. Box 35140 Syracuse, New York 13235, U.S.A.
+**Choice/Opt-Out** Only registered members of the Network are eligible to receive our monthly research and learning issues related newsletter. All registration related issues are handled through the [BRINT Network Global Community](https://www.brint.net/forums/). Registered members can also change various preferences and options from within their user control panel in this interface. Registered members may contact the [Forums Administrator](https://www.brint.net/forums/cpadmin/index.php?) about any issue related to the Network forums. Or, they may contact through the [online form contact mechanism](http://www.brint.com/contact.html) provided for this purpose. Any postal mail related to Network member services must be addressed to the Director of Member Services. 
