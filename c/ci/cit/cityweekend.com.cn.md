@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cityweekend.com.cn privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202211043id_/http%3A//www.cityweekend.com.cn/cityweekend/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityweekend.com.cn privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606152139id_/http%3A//www.cityweekend.com.cn/cityweekend/privacy) for the most accurate reproduction.*
 
-# Editorial Privacy Policy
+# City Weekend - Editorial Privacy Policy
 
 City Weekend is committed to protecting privacy online. We believe that greater protection of personal privacy on the web will not only protect users, but also increase user confidence and ultimately their participation in online activities. At City Weekend, we intend to give you as much control as possible over your personal information.
 
