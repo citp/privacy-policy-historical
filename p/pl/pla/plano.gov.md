@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603211550id_/http%3A//www.plano.gov/static.aspx%3Fid%3D564) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207115915id_/http%3A//www.plano.gov/static.aspx%3Fid%3D564) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
-|  | Tuesday, June 03, 2003  
+|  | Sunday, December 07, 2003  
 ---  
   
 **Privacy Statement** **    **        
