@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the email-gallery.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606173343id_/http%3A//www.email-gallery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the email-gallery.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204085326id_/http%3A//www.email-gallery.com/privacy.html) for the most accurate reproduction.*
 
 # Email-Gallery
 
