@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birmingham.ac.uk privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005956id_/http%3A//www.general.bham.ac.uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birmingham.ac.uk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607124644id_/http%3A//www.general.bham.ac.uk/legal/privacy.htm) for the most accurate reproduction.*
 
 # The University of Birmingham
 
@@ -34,10 +34,10 @@ The processing of personal data is regulated by the Data Protection Act 1998. An
 If you have any queries or concerns about privacy on the University of Birmingham website please contact us at [webteam@bham.ac.uk](mailto:webteam@bham.ac.uk)
 
 \- [General Site Disclaimer  
-](https://web.archive.org/web/20031205005956id_/http%3A//www.general.bham.ac.uk/legal/index.htm)\- [Copyright  
-](https://web.archive.org/web/20031205005956id_/http%3A//www.general.bham.ac.uk/legal/copyright.htm)\- [Privacy Statement  
-](https://web.archive.org/web/20031205005956id_/http%3A//www.general.bham.ac.uk/legal/privacy.htm)\- [Links to Third Party Information  
-](https://web.archive.org/web/20031205005956id_/http%3A//www.general.bham.ac.uk/legal/thirdparty.htm)\- [Trademarks](https://web.archive.org/web/20031205005956id_/http%3A//www.general.bham.ac.uk/legal/trademark.htm)
+](https://web.archive.org/web/20040607124644id_/http%3A//www.general.bham.ac.uk/legal/index.htm)\- [Copyright  
+](https://web.archive.org/web/20040607124644id_/http%3A//www.general.bham.ac.uk/legal/copyright.htm)\- [Privacy Statement  
+](https://web.archive.org/web/20040607124644id_/http%3A//www.general.bham.ac.uk/legal/privacy.htm)\- [Links to Third Party Information  
+](https://web.archive.org/web/20040607124644id_/http%3A//www.general.bham.ac.uk/legal/thirdparty.htm)\- [Trademarks](https://web.archive.org/web/20040607124644id_/http%3A//www.general.bham.ac.uk/legal/trademark.htm)
 
 [back to top]
 
