@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the hgtv.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406160601id_/http%3A//www1.hgtv.com/HGTV/about/privacy/0%2C1121%2C%2CFF.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgtv.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217184954id_/http%3A//hgtv.com/HGTV/about/privacy/0%2C1121%2C%2CFF.html) for the most accurate reproduction.*
 
-# Home & Garden Television - Privacy Policy
+# Privacy Policy
+
+|  |  |  | 
+
+  
+Privacy Policy  
+
 
 HGTV.com is committed to protecting the online privacy of visitors to its Web site. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At hgtv.com, we intend to give you as much control as possible over your personal information. 
 
@@ -41,4 +47,6 @@ We seek to ensure the security of personal information submitted by our users. W
 At times while assessing our site, a user may be given a choice of "opting-out" of certain uses of his or her information. We will provide this choice where appropriate. 
 
 **VII. Permission to Use of Materials**  
-The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of the Company is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on this site may contact us at [webmaster@hgtv.com](mailto:webmaster@hgtv.com). 
+The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of the Company is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on this site may contact us at [webmaster@hgtv.com](mailto:webmaster@hgtv.com).   
+  
+---|---|---|---|---
