@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401170422id_/http%3A//www.broadway.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009123923id_/http%3A//www.broadway.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Broadway.com -Broadway and London Theater Tickets. Call 1-800-BROADWAY. Theater reviews and theater showtimes.
 
