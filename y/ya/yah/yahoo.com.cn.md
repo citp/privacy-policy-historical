@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yahoo.com.cn privacy policy that was archived on 2002-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020614142051id_/http%3A//privacy.yahoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoo.com.cn privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202081340id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -27,11 +27,11 @@
   
   | 
 
-**Yahoo! Privacy Policy ****    \-    Updated**
+**Yahoo! Privacy Policy     \-    Updated**
 
 [](https://www.truste.org/validate/361) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for important information about safe surfing from the Federal Trade Commission. **
+**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html) for important information about safe surfing from the Federal Trade Commission. **
 
 **What This Privacy Policy Covers**  
 
@@ -84,7 +84,7 @@
 
   * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
   * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * Certain communications from Yahoo!, such as service announcements, administrative messages and the Yahoo! Newsletter, are considered part of Yahoo! membership and you may not opt out of receiving them. 
+  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
   * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
 
       **Children**  
