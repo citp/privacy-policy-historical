@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223174526id_/http%3A//www.studentdoctor.net/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204010346id_/http%3A//www.studentdoctor.net/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
