@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2002-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020628095609id_/http%3A//www.taxslayer.com/service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207124440id_/http%3A//www.taxslayer.com/service/privacy.asp) for the most accurate reproduction.*
 
 # TaxSlayer - Privacy Statement
 
-|   YOUR PRIVACY IS A PRIORITY TO US
+ YOUR PRIVACY IS A PRIORITY TO US
 
 At TaxSlayer.com(TaxSlayer®), we are committed to safeguarding customer information. Since your privacy is a priority to us, TaxSlayer will not share nonpublic information about you with third parties outside of the TaxSlayer corporate family without your consent, except as explained in our Privacy Policy.
 
@@ -49,12 +49,4 @@ We strive to keep our customer information as accurate and complete as we can. I
 **Other Information**   
 The Privacy Policy applies to products and services of TaxSlayer®. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
 
-**[ Return to TaxSlayer Home](https://web.archive.org/) ** | 
-
-[](https://web.archive.org/techsupport/faq/faq.asp)  
-[](https://web.archive.org/status/statuschk.asp)  
-[](https://web.archive.org/individual/upload.asp)  
-[](https://web.archive.org/individual/options.asp)  
-[](https://web.archive.org/news/indtestimonials.asp)  
-[](https://web.archive.org/techsupport/indivsupt.asp)  
-
+**[ Return to TaxSlayer Home](https://web.archive.org/) **
