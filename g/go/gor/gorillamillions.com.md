@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorillamillions.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/privacy.php%3Frefid%3D179666-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorillamillions.com privacy policy that was archived on 2005-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/privacy.php%3Frefid%3D179666-0) for the most accurate reproduction.*
 
 # Earn 1 Million Dollars from the Internet. Shocking Secrets about Internet Marketing REVEALED!
 
@@ -20,8 +20,8 @@
   
 
 
-[HOME](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/index.php?refid=179666-0) | [HOW IT WORKS](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/how.php?refid=179666-0) | [SIGN UP!](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/signup.php?refid=179666-0) | [MEMBERS](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/members/index.php?refid=179666-0) | [FAQ](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/faq.php?refid=179666-0) | [SUPPORT](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/support.php?refid=179666-0) | [TERMS & CONDITIONS](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/terms.php?refid=179666-0)   
-[PRIVACY STATEMENT](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/privacy.php?refid=179666-0) | [SPAM POLICY](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/spam.php?refid=179666-0) | [REPORT SPAM HERE!](https://web.archive.org/web/20041214055838id_/http%3A//www.go4millions.com/reportspam.php?refid=179666-0)
+[HOME](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/index.php?refid=179666-0) | [HOW IT WORKS](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/how.php?refid=179666-0) | [SIGN UP!](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/signup.php?refid=179666-0) | [MEMBERS](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/members/index.php?refid=179666-0) | [FAQ](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/faq.php?refid=179666-0) | [SUPPORT](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/support.php?refid=179666-0) | [TERMS & CONDITIONS](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/terms.php?refid=179666-0)   
+[PRIVACY STATEMENT](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/privacy.php?refid=179666-0) | [SPAM POLICY](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/spam.php?refid=179666-0) | [REPORT SPAM HERE!](https://web.archive.org/web/20050226080920id_/http%3A//www.go4millions.com/reportspam.php?refid=179666-0)
 
 * * *
 
