@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004053735id_/http%3A//www.sgs.com/sgsgroup.nsf/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622065651id_/http%3A//www.sgs.com/sgsgroup.nsf/pages/privacy.html) for the most accurate reproduction.*
 
 # SGS Legal Information:: Disclaimer &amp; Terms and Conditions about sgs.com
 
@@ -61,4 +61,5 @@ SGS continually strives to improve its service to its customers and to its poten
 
 Page last modified on 26 September 2002  
 © SGS Société Générale de Surveillance SA, 1997 – 2002 used under license  
-All rights reserved
+All rights reserved  
+
