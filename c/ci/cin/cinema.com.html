@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the cinema.com privacy policy that was archived on 2001-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011008173942id_/http%3A//www.cinema.com/privacy.phtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinema.com privacy policy that was archived on 2002-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020609085519id_/http%3A//www.cinema.com/legal/privacy.phtml) for the most accurate reproduction.-->
 
 <html><head>
     <meta name="generator" content="HTML Tidy, see www.w3.org">
+
 <script language="JavaScript" type="text/javascript">
 <!-- 
 function changePic(tag, src) {
@@ -28,140 +29,142 @@ function mOut(src,clrIn) {
 <title>Cinema.com: Privacy Statement</title>
 <meta name="description" content="Cinema.com - cinema, listings, showtimes, film, projection, pictures, reviews, previews, 35mm, dvd, vhs, camera, movies, actors, acting, trailers, theatre, theater, stars, celebrity, hollywood, bollywood, subtitles, script, director, producer, cast, production, screen, awards, oscars, video, warner village, odeon, abc, ugc, uci, showcase, picture house, warner, blue dolphin, mgm, universal, dreamworks, paramount, uip, action, adventure, science fiction, sci-fi, sci fi, spoof, romance, noir, comedy, animation, horror">
 <meta name="keywords" content="cinema, movie, movies, film, films, listings, showtimes, projection, pictures, reviews, previews, 35mm, dvd, vhs, camera, actors, acting, trailers, theatre, theater, stars, celebrity, hollywood, bollywood, subtitles, script, director, producer, cast, production, screen, awards, oscars, video, warner village, odeon, abc, ugc, uci, showcase, picture house, warner, blue dolphin, mgm, universal, dreamworks, paramount, uip, action, adventure, science fiction, sci-fi, sci fi, spoof, romance, noir, comedy, animation, horror">
-<link rel="STYLESHEET" type="text/css" href="./include/cinema.css" title="cinema">
+<link rel="STYLESHEET" type="text/css" href="../include/cinema.css" title="cinema">
 <script language="JavaScript" type="text/javascript">
 <!--
+/* The script disables the right mouse button to stop people saving images */
 
 var msg="This image is unavailable for download due to copyright restrictions";
 
-function click(e) {
-if (document.all) {
-if (event.button == 2) {
-alert(msg);
-return false;
+function click(e)
+{
+    if (document.all)
+    {
+        if (event.button == 2)
+        {
+            window.open("/no_image.html", 'error','width=10,height=10');
+            alert(msg);
+            return false;
+        }
+    }
+    if (document.layers) 
+    {
+        if (e.which == 3)
+        {
+            window.open("/no_image.html", 'error','width=10,height=10');
+            alert(msg);
+            return false;
+        }
+    }
 }
-}
-
-if (document.layers) {
-if (e.which == 3) {
-alert(msg);
-return false;
-}
-}
-}
-
-if (document.layers) {
-document.captureEvents(Event.MOUSEDOWN);
+if (document.layers)
+{
+    document.captureEvents(Event.MOUSEDOWN);
 }
 document.onmousedown=click;
 
 //-->
 </script>
 
-<link rel="STYLESHEET" type="text/css" href="./include/cinema.css" title="cinema">  </head>
+  </head>
   <body bgcolor="#000000" text="#000000" link="#FF9933" alink="#FF9933" vlink="#FF9933" topmargin="8" leftmargin="8" rightmargin="8">
-    <!-- BEGIN Banner Advertisement -->
-<table border="0" cellpadding="0" cellspacing="0" bgcolor="#003366" width="760" align="center">
-      <tbody><tr>
-        <td rowspan="3" valign="top"><a href="./index.phtml"><img src="./images/cinema_logo_onlbue.jpg" alt="Cinema.com" width="242" height="84" border="0"></a></td>
-        <td valign="top"><img src="./images/banner_fade_top.gif" alt="" width="468" height="12" border="0"></td>
-        <td rowspan="3" valign="top" height="12"><img src="./images/banner_fade_right.gif" alt="" width="8" height="84" border="0"></td>
-        <td rowspan="3" width="100%">&nbsp;</td>
-      </tr>
-      <tr>
-        <td width="468" valign="top">
-        
-<!-- VC active -->
-<script language="JavaScript">
+    <script language="JavaScript" type="text/javascript">
 <!--
-// ValueParameters
-ValueHost = "hs0222266";
-ValueLoaded = false;
-ValueID = "valueid";
-ValueVersion = "1.1";
-ValueWidth = 468;
-ValueHeight = 60;
-ValueNoText = true; 
+function swap(name, image) 
+{
+  if (document.images) 
+  {
+    document.images[name].src=image;
+  }
+}
 //-->
 </script>
-<script language="Javascript" src="http://oz.valueclick.com/jsmaster"></script>
-<script language="JavaScript">
-<!--
-if (ValueLoaded) ValueShowAd();
-//-->
-</script>
-<noscript>
-<A HREF="http://kansas.valueclick.com/redirect?host=hs0222266&size=468x60&b=1931470851&v=0" TARGET="_top"><IMG BORDER="0" WIDTH="468" HEIGHT="60" ALT="Click here to visit our sponsor"
-SRC="http://kansas.valueclick.com/cycle?host=hs0222266&size=468x60&b=1931470851&noscript=1"></A>
-</noscript>
-<!-- vc active -->   
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><img src="./images/banner_fade_bottom.gif" alt="" width="468" height="12" border="0"></td>
-      </tr>
-    </tbody></table>
-<!-- END Banner Advertisment -->
-<table summary="Main Navigation Bar" width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-	<tbody><tr>
-		<td width="38" valign="top"><img src="./images/ifs_leftfader.gif" alt="" width="15" height="82" border="0"></td>
-<td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./search/cinema.phtml" onmouseover="changePic('btn_showtimes',  './images/ifs_b_showtimes_ov.gif')" onmouseout="changePic('btn_showtimes',  './images/ifs_b_showtimes.gif')"><img src="./images/ifs_b_showtimes.gif" alt="Showtimes" width="62" height="58" border="0" name="btn_showtimes"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td><td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./news/index.phtml" onmouseover="changePic('btn_news',  './images/ifs_b_news_ov.gif')" onmouseout="changePic('btn_news',  './images/ifs_b_news.gif')"><img src="./images/ifs_b_news.gif" alt="News" width="62" height="58" border="0" name="btn_news"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td><td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./features/index.phtml" onmouseover="changePic('btn_features',  './images/ifs_b_features_ov.gif')" onmouseout="changePic('btn_features',  './images/ifs_b_features.gif')"><img src="./images/ifs_b_features.gif" alt="Features" width="62" height="58" border="0" name="btn_features"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td><td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./trailers/index.phtml" onmouseover="changePic('btn_trailers',  './images/ifs_b_trailers_ov.gif')" onmouseout="changePic('btn_trailers',  './images/ifs_b_trailers.gif')"><img src="./images/ifs_b_trailers.gif" alt="Trailers" width="62" height="58" border="0" name="btn_trailers"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td><td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./gallery/index.phtml" onmouseover="changePic('btn_galleries',  './images/ifs_b_galleries_ov.gif')" onmouseout="changePic('btn_galleries',  './images/ifs_b_galleries.gif')"><img src="./images/ifs_b_galleries.gif" alt="Galleries" width="62" height="58" border="0" name="btn_galleries"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td><td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./interviews/index.phtml" onmouseover="changePic('btn_interviews',  './images/ifs_b_interviews_ov.gif')" onmouseout="changePic('btn_interviews',  './images/ifs_b_interviews.gif')"><img src="./images/ifs_b_interviews.gif" alt="Interviews" width="62" height="58" border="0" name="btn_interviews"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td><td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./festival/index.phtml" onmouseover="changePic('Festivals',  './images/ifs_b_festivals_ov.gif')" onmouseout="changePic('Festivals',  './images/ifs_b_festivals.gif')"><img src="./images/ifs_b_festivals.gif" alt="Festivals" width="62" height="58" border="0" name="Festivals"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td><td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./industry/index.phtml" onmouseover="changePic('btn_industry',  './images/ifs_b_filmschools_ov.gif')" onmouseout="changePic('btn_industry',  './images/ifs_b_filmschools.gif')"><img src="./images/ifs_b_filmschools.gif" alt="Film Schools" width="62" height="58" border="0" name="btn_industry"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td><td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./home_cinema/index.phtml" onmouseover="changePic('btn_homecinema',  './images/ifs_b_homecinema_ov.gif')" onmouseout="changePic('btn_homecinema',  './images/ifs_b_homecinema.gif')"><img src="./images/ifs_b_homecinema.gif" alt="Home Cinema" width="62" height="58" border="0" name="btn_homecinema"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td><td width="65" valign="top"><img src="./images/ifs_top.gif" alt="" width="65" height="12" border="0"><a href="./ringtones/index.phtml?category=Film" onmouseover="changePic('btn_ringtones',  './images/ifs_b_movieringtones_ov.gif')" onmouseout="changePic('btn_ringtones',  './images/ifs_b_movieringtones.gif')"><img src="./images/ifs_b_movieringtones.gif" alt="Ringtones" width="62" height="58" border="0" name="btn_ringtones"></a><img src="./images/ifs_break-gradien.gif" alt="" width="3" height="58" border="0"><img src="./images/ifs_bottom.gif" alt="" width="65" height="12" border="0"></td>		
-		<td width="100%" background="./images/ifs_complete.gif">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-	<tbody><tr>
-		<td width="160"><img src="./images/spacer.gif" alt="" width="160" height="1"></td>  
-    <td width="592" valign="top"><img src="./images/spacer.gif" alt="" width="560" height="1"></td>
-		<td width="8" valign="top"><img src="./images/spacer.gif" alt="" width="8" height="1"></td>  
-</tr>
-<tr>
-<td valign="top" bgcolor="#003366" width="160" align="center"><img src="./images/i_menu-ds-blue.gif" alt="" width="160" height="16" border="0">    <table border="0" cellpadding="0" cellspacing="0" bgcolor="#003366" background="./images/search.jpg" width="154" height="60">
-    <form method="POST" action="./search/quick_response.phtml"></form>
-      <tbody><tr>
-        <td valign="bottom" align="right" height="23"><img src="./images/spacer.gif" height="37" width="1"><br>
-          <input type="text" size="8" maxlength="100" name="txtDBSearch" value="" style="font-size: 8pt; width:100px;"><input type="image" src="./images/search_gobutton.gif" name="btnSubmit" border="0" align="absbottom">
-        </td>
-      </tr>
-    
-    </tbody></table>
 
-<br><script language="javascript">
-	function isValidEmail(email)
-	{
-		if((email.indexOf("@")<=0) || // must have an @ symbol nad it can't be the first character
-			 (email.lastIndexOf(".")<=(email.indexOf("@")+1)) || // there must be a . after the @
-			 email.indexOf(" ")>=0) // spaces are not allowed 
-		{
-			alert("This is not a valid email address. Please check and try again.");
-			return false;
-		}
-    return true;
-	}
-</script>
-<table border="0" cellpadding="0" cellspacing="0" bgcolor="#003366" background="./images/mail_list.jpg" width="154" height="60">
-  <form method="POST" action="./member/mail_list.phtml" onsubmit="return isValidEmail(this.txtEmail.value);"></form>
-    <tbody><tr>
-      <td align="right" height="60"><img src="./images/spacer.gif" height="37" width="1"><br>
-        <input type="text" size="8" maxlength="50" name="txtEmail" value="your email" onclick="if(this.value=='your email') this.value='';" style="font-size: 8pt; width:92px;"><input type="image" src="./images/btn_join2.gif" name="btnSubmit" align="absbottom" border="0">
-      </td>
-    </tr>
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#003366">
+<tbody><tr><td valign="top"><a href="http://www.cinema.com"><img src="/images/cinemalogo_top.jpg" border="0" alt="Cinema.com"></a></td><td valign="top"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/banner_fade_top.gif" alt="" border="0"></td></tr><tr><td width="468" height="60"><!--DoubleClick Bottom Ad BEGIN--><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/audience.cinema/ros;dcopt=ist;abr=!webtv;sz=468x60;ord=67901023612918?"></script><script><!-- if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) { document.write('<a href="http://ad.doubleclick.net/jump/audience.cinema/ros;sz=468x60;ord=67901023612918?"'); document.write('<img src="http://ad.doubleclick.net/ad/audience.cinema/ros;sz=468x60;ord=67901023612918?"></a>'); } //--></script><noscript><!-- for non javascript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/audience.cinema/ros;sz=468x60;ord=67901023612918?"><img src="http://ad.doubleclick.net/ad/audience.cinema/ros;sz=468x60;ord=67901023612918?"></a></noscript></td></tr>
+<tr><td><img src="/images/banner_fade_bottom.gif" border="0" alt=""></td></tr></tbody></table></td><td valign="top" width="100%" align="left"><img border="0" src="/images/banner_fade_right.gif" alt=""></td></tr></tbody></table><table width="760" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#003366">
+<tbody><tr><td valign="top"><img src="/images/ifs_leftfader.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/search/cinema.phtml" onmouseover="swap('ifs_b_showtimes','/images/ifs_b_showtimes_ov.gif')" onmouseout="swap('ifs_b_showtimes','/images/ifs_b_showtimes.gif')" alt="Showtimes"><img src="/images/ifs_b_showtimes.gif" name="ifs_b_showtimes" border="0" alt="ifs_b_showtimes"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/news/index.phtml" onmouseover="swap('ifs_b_news','/images/ifs_b_news_ov.gif')" onmouseout="swap('ifs_b_news','/images/ifs_b_news.gif')" alt="News"><img src="/images/ifs_b_news.gif" name="ifs_b_news" border="0" alt="ifs_b_news"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/features/index.phtml" onmouseover="swap('ifs_b_features','/images/ifs_b_features_ov.gif')" onmouseout="swap('ifs_b_features','/images/ifs_b_features.gif')" alt="Features"><img src="/images/ifs_b_features.gif" name="ifs_b_features" border="0" alt="ifs_b_features"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/trailers/index.phtml" onmouseover="swap('ifs_b_trailers','/images/ifs_b_trailers_ov.gif')" onmouseout="swap('ifs_b_trailers','/images/ifs_b_trailers.gif')" alt="Trailers"><img src="/images/ifs_b_trailers.gif" name="ifs_b_trailers" border="0" alt="ifs_b_trailers"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/gallery/index.phtml" onmouseover="swap('ifs_b_galleries','/images/ifs_b_galleries_ov.gif')" onmouseout="swap('ifs_b_galleries','/images/ifs_b_galleries.gif')" alt="Galleries"><img src="/images/ifs_b_galleries.gif" name="ifs_b_galleries" border="0" alt="ifs_b_galleries"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/interviews/index.phtml" onmouseover="swap('ifs_b_interviews','/images/ifs_b_interviews_ov.gif')" onmouseout="swap('ifs_b_interviews','/images/ifs_b_interviews.gif')" alt="Interviews"><img src="/images/ifs_b_interviews.gif" name="ifs_b_interviews" border="0" alt="ifs_b_interviews"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/festival/index.phtml" onmouseover="swap('ifs_b_festivals','/images/ifs_b_festivals_ov.gif')" onmouseout="swap('ifs_b_festivals','/images/ifs_b_festivals.gif')" alt="Festivals"><img src="/images/ifs_b_festivals.gif" name="ifs_b_festivals" border="0" alt="ifs_b_festivals"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/industry/index.phtml" onmouseover="swap('ifs_b_filmschools','/images/ifs_b_filmschools_ov.gif')" onmouseout="swap('ifs_b_filmschools','/images/ifs_b_filmschools.gif')" alt="Film Schools"><img src="/images/ifs_b_filmschools.gif" name="ifs_b_filmschools" border="0" alt="ifs_b_filmschools"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/home_cinema/index.phtml" onmouseover="swap('ifs_b_homecinema','/images/ifs_b_homecinema_ov.gif')" onmouseout="swap('ifs_b_homecinema','/images/ifs_b_homecinema.gif')" alt="Home Cinema"><img src="/images/ifs_b_homecinema.gif" name="ifs_b_homecinema" border="0" alt="ifs_b_homecinema"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/ringtones/index.phtml?category=Film" onmouseover="swap('ifs_b_movieringtones','/images/ifs_b_movieringtones_ov.gif')" onmouseout="swap('ifs_b_movieringtones','/images/ifs_b_movieringtones.gif')" alt="Ringtones"><img src="/images/ifs_b_movieringtones.gif" name="ifs_b_movieringtones" border="0" alt="ifs_b_movieringtones"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="65" valign="top"><img src="/images/ifs_top.gif" border="0" alt=""><a href="/competition/index.phtml" onmouseover="swap('ifs_b_competition','/images/ifs_b_competition_ov.gif')" onmouseout="swap('ifs_b_competition','/images/ifs_b_competition.gif')" alt="Competitions"><img src="/images/ifs_b_competition.gif" name="ifs_b_competition" border="0" alt="ifs_b_competition"></a><img src="/images/ifs_break-gradien.gif" border="0" alt=""><img src="/images/ifs_bottom.gif" border="0" alt=""></td><td width="100%" background="/images/ifs_complete.gif">&nbsp;</td></tr></tbody></table>
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td width="160"><img src="../images/spacer.gif" alt="" width="160" height="1"></td>  
+    <td width="592" valign="top"><img src="../images/spacer.gif" alt="" width="560" height="1"></td>
+    <td width="8" valign="top"><img src="../images/spacer.gif" alt="" width="8" height="1"></td>  
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#003366" width="160" align="center"><img src="../images/i_menu-ds-blue.gif" alt="" width="160" height="16" border="0"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#AEB8CC" width="144">
+  <form method="POST" action="../search/quick_response.phtml"></form>
+  <tbody><tr>
+    <td><img src="../images/navbar_search.gif" alt="Search" width="144" height="25" border="0"></td>
+  </tr>
+  <tr>
+    <td align="center"><input type="text" size="10" maxlength="100" name="txtDBSearch" value="" style="font-size: 8pt; width:120px;"></td>
+  </tr>
+  <tr>
+    <td><input type="image" src="../images/navbar_go.gif" name="btnSubmit" border="0" align="absbottom">
+    </td>
+  </tr>
   
 </tbody></table>
 
-<br>
 
 
 
 
 
-    <!-- BEGIN Section Nav Bar -->
-<table border="0" cellspacing="0" cellpadding="0" align="center" width="144"><tbody><tr><th class="NavBar"><img src="./images/navbar_cinemas.gif" alt="Cinemas" width="144" height="20" border="0"></th></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/cinema.phtml">Search for Showtimes</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./cinema_add.phtml">Add Cinema</a></td></tr></tbody></table><img src="./images/spacer.gif" alt="" width="1" height="8"><!-- BEGIN COMING SOON -->
-<table border="0" cellspacing="0" cellpadding="0" align="center" width="144"><tbody><tr><th class="NavBar"><img src="./images/navbar_usnowshowing.gif" alt="US Now Showing" width="144" height="20" border="0"></th></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=6680">Bandits</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=6511">Better Than Sex</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=5180">Collateral Damage</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=3186">Iron Monkey</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=5522">Juwanna Mann</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=6897">Last Castle, The</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=6712">Max Keeble's Big Move</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=5176">Queen of the Damned</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=5520">Training Day</a></td></tr></tbody></table><img src="./images/spacer.gif" alt="" width="1" height="8"><table border="0" cellspacing="0" cellpadding="0" align="center" width="144"><tbody><tr><th class="NavBar"><img src="./images/navbar_uknowshowing.gif" alt="UK Now Showing" width="144" height="20" border="0"></th></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=6719">Amelie</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=3894">American Pie 2</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=6855">Crush</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=4270">Driven</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=5186">Rock Star</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./search/title_detail.phtml?ID=3901">Rollerball</a></td></tr></tbody></table><img src="./images/spacer.gif" alt="" width="1" height="8"><!-- END COMING SOON -->
+    <!-- BEGIN Section Nav Bar --><!-- BEGIN COMING SOON -->
+<table border="0" cellspacing="0" cellpadding="0" align="center" width="144"><tbody><tr><th class="NavBar"><img src="../images/navbar_usnowshowing.gif" alt="US Now Showing" width="144" height="28" border="0"></th></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="../images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="../search/title_detail.phtml?ID=6938">Bad Company</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="../images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="../search/title_detail.phtml?ID=6229">Divine Secrets of the Ya-Ya Sisterhood</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="../images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="../search/title_detail.phtml?ID=7267">Atanarjuat</a></td></tr><tr><td align="right"><a href="../boxoffice/usreleases.phtml"><img src="../images/fp_bluemore.gif" alt="More" width="144" height="17" border="0"></a></td></tr></tbody></table><img src="../images/spacer.gif" alt="" width="1" height="4"><table border="0" cellspacing="0" cellpadding="0" align="center" width="144"><tbody><tr><th class="NavBar"><img src="../images/navbar_uknowshowing.gif" alt="UK Now Showing" width="144" height="24" border="0"></th></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="../images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="../search/title_detail.phtml?ID=6861">Monster's Ball</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="../images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="../search/title_detail.phtml?ID=7054">Dragonfly</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="../images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="../search/title_detail.phtml?ID=5785">Walk to Remember, A</a></td></tr><tr><td align="right"><a href="../boxoffice/ukreleases.phtml"><img src="../images/fp_bluemore.gif" alt="More" width="144" height="17" border="0"></a></td></tr></tbody></table><img src="../images/spacer.gif" alt="" width="1" height="4"><!-- END COMING SOON -->
 <!-- START BOX OFFICE TOP 10 -->
-<table border="0" cellspacing="0" cellpadding="0" width="90%" align="center"><tbody><tr><th class="NavBar"><img src="./images/navbar_boxoffice.gif" alt="US Box Office" width="144" height="20" border="0"></th></tr><tr><td class="NavBar" width="100%"><center><img src="./image_lib/5639_fp_side.jpg" alt="" width="108" height="85" border="0"></center><img src="./images/i_b_tt01.gif" alt="(1)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=5639">Don’t Say A Word</a></td></tr><tr><td class="NavBar" width="100%"><img src="./images/i_b_tt02.gif" alt="(2)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=6825">Zoolander</a></td></tr><tr><td class="NavBar" width="100%"><img src="./images/i_b_tt03.gif" alt="(3)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=5701">Hearts in Atlantis</a></td></tr><tr><td class="NavBar" width="100%"><img src="./images/i_b_tt04.gif" alt="(4)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=6821">Hardball</a></td></tr><tr><td class="NavBar" width="100%"><img src="./images/i_b_tt05.gif" alt="(5)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=6688">Others, The</a></td></tr><tr><td class="NavBar" width="100%"><img src="./images/i_b_tt06.gif" alt="(6)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=3856">Rush Hour 2</a></td></tr><tr><td class="NavBar" width="100%"><img src="./images/i_b_tt07.gif" alt="(7)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=5508">Glass House, The</a></td></tr><tr><td class="NavBar" width="100%"><img src="./images/i_b_tt08.gif" alt="(8)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=6877">Musketeer, The</a></td></tr><tr><td class="NavBar" width="100%"><img src="./images/i_b_tt09.gif" alt="(9)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=5545">Rat Race</a></td></tr><tr><td class="NavBar" width="100%"><img src="./images/i_b_tt10.gif" alt="(10)" width="14" height="14" border="0" align="middle"> <a href="./search/title_detail.phtml?ID=6820">Two Can Play That Game</a></td></tr></tbody></table><img src="./images/spacer.gif" alt="" width="1" height="8"><!-- END BOX OFFICE TOP 10 --><table border="0" cellspacing="0" cellpadding="0" align="center" width="144" bgcolor="#aeb8cc"><tbody><tr><th class="NavBar"><img src="./images/poll/have_your_say.jpg" alt="Have your say" width="144" height="27" border="0"></th></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" align="center"><font face="arial" color="132E4B" font="" size="2"><b>Who Is The Sexiest Hollywood Babe?</b></font></td></tr><tr><td class="NavBarOver" width="80%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="#" onclick="window.open(&quot;./poll/poll_results.phtml?qID=21&quot;,&quot;PollResults&quot;,&quot;toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=400,height=560&quot;)">Angelina Jolie</a></td></tr><tr><td class="NavBarOver" width="80%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="#" onclick="window.open(&quot;./poll/poll_results.phtml?qID=22&quot;,&quot;PollResults&quot;,&quot;toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=400,height=560&quot;)">Pamela Anderson</a></td></tr><tr><td class="NavBarOver" width="80%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="#" onclick="window.open(&quot;./poll/poll_results.phtml?qID=23&quot;,&quot;PollResults&quot;,&quot;toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=400,height=560&quot;)">Nicole Kidman</a></td></tr><tr><td class="NavBarOver" width="80%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="#" onclick="window.open(&quot;./poll/poll_results.phtml?qID=24&quot;,&quot;PollResults&quot;,&quot;toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=400,height=560&quot;)">Jennifer Lopez</a></td></tr><tr><td class="NavBarOver" width="80%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="#" onclick="window.open(&quot;./poll/poll_results.phtml?qID=25&quot;,&quot;PollResults&quot;,&quot;toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=400,height=560&quot;)">Kate Winslet</a></td></tr><tr><td align="middle"><img src="./images/spacer.gif" alt="" width="1" height="5"><br><a href="#" onclick="window.open(&quot;./poll/poll_results.phtml&quot;,&quot;PollResults&quot;,&quot;toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=400,height=560&quot;)"><img src="./images/poll/btn_view_results.jpg" alt="View Results" width="93" height="20" border="0"></a><br><img src="./images/spacer.gif" alt="" width="1" height="5"></td></tr></tbody></table><img src="./images/spacer.gif" alt="" width="1" height="8"><table border="0" cellspacing="0" cellpadding="0" align="center" width="144"><tbody><tr><th class="NavBar"><img src="./images/navbar_cinema-com.gif" alt="Cinema.com" width="144" height="20" border="0"></th></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./advertise/advertise.phtml">Advertising</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./terms.phtml">Terms &amp; Conditions</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./privacy.phtml">Privacy Statement</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./jobs.phtml">Jobs</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./about.phtml">Press</a></td></tr><tr><td class="NavBarOver" width="100%" bgcolor="#ADBACE" onmouseover="mOvr(this,'C2D0E6');" onmouseout="mOut(this,'ADBACE');"><img src="./images/i_orangebullet.gif" alt="*" width="9" height="9" border="0" align="middle"><a href="./link2us.phtml">Link To Us</a></td></tr></tbody></table><img src="./images/spacer.gif" alt="" width="1" height="8"><img src="./images/spacer.gif" alt="" width="1" height="8">
-    <!-- END Section Nav Bar -->&nbsp;</td><td width="592" valign="top" bgcolor="#FFFFFF"><table border="0" cellspacing="0" cellpadding="0" width="592" background="./images/i_menu-ds-white.gif">
-<tbody><tr><td><img src="./images/i_menu-ds-corner.gif" alt="" width="16" height="16" border="0"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="90%" align="center"><tbody><tr><th class="NavBar"><img src="../images/navbar_boxoffice.gif" alt="US Box Office" width="144" height="20" border="0"></th></tr><tr><td class="NavBar" width="100%"><center><img src="../image_lib/6275_fp_side.jpg" alt="" width="108" height="85" border="0"></center><img src="../images/i_b_tt01.gif" alt="(1)" width="14" height="14" border="0" align="middle"> <a href="../search/title_detail.phtml?ID=6275">Sum Of All Fears, The</a></td></tr><tr><td class="NavBar" width="100%"><img src="../images/i_b_tt02.gif" alt="(2)" width="14" height="14" border="0" align="middle"> <a href="../search/title_detail.phtml?ID=3912">Star Wars Episode II: Attack of the Clones</a></td></tr><tr><td class="NavBar" width="100%"><img src="../images/i_b_tt03.gif" alt="(3)" width="14" height="14" border="0" align="middle"> <a href="../search/title_detail.phtml?ID=4984">Spider-Man</a></td></tr><tr><td align="right"><a href="../boxoffice/index.phtml"><img src="../images/fp_bluemore.gif" alt="More" width="144" height="17" border="0"></a></td></tr></tbody></table><!-- END BOX OFFICE TOP 10 -->
+<script language="javascript">
+function isValidEmail(email)
+{
+    if((email.indexOf("@")<=0) || // must have an @ symbol nad it can't be the first character
+       (email.lastIndexOf(".")<=(email.indexOf("@")+1)) || // there must be a . after the @
+       email.indexOf(" ")>=0) // spaces are not allowed
+    {
+        alert("This is not a valid email address. Please check and try again.");
+        return false;
+    }
+    return true;
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#AEB8CC" width="144">
+  <tbody><tr>
+    <td><img src="../images/navbar_newsletter.gif" alt="Newsletter" width="144" height="28" border="0"></td>
+  </tr>
+  <tr>
+    <td align="center"><form method="POST" action="../member/mail_list.phtml" onsubmit="return isValidEmail(this.txtEmail.value);"><input type="text" size="8" maxlength="50" name="txtEmail" value="your email" onclick="if(this.value=='your email') this.value='';" style="font-size: 8pt; width:120px;"></form></td>
+  </tr>
+  <tr>
+    <td><input type="image" src="../images/navbar_join.gif" name="btnSubmit" border="0" align="absbottom">
+    </td>
+
+  </tr>
+</tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#AEB8CC" width="144">
+  <tbody><tr>
+    <td><img src="../images/navbar_sendtofriend.gif" alt="Send to a friend" width="144" height="28" border="0"></td>
+  </tr>
+  <tr>
+    <td align="center"><form name="sendToAFriendForm" action="/sendtoafriend/sendtoafriend.phtml" method="post" onsubmit="return isValidSendToFriendEmail(this.txtEmail.value, this.senderEmail.value);"><input type="text" name="txtEmail" size="10" maxlength="50" value="friend's email" onclick="if(this.value=='their email') this.value='';" style="font-size: 8pt; width:120px; margin-bottom: 1px; margin-top: 1px;"></form></td>
+  </tr>
+  <tr>
+    <td align="center"><input type="text" name="senderEmail" size="9" maxlength="50" value="your email" onclick="if(this.value=='your email') this.value='';" style="font-size: 8pt; width:120px; margin-bottom: 1px; margin-top: 1px;"></td>
+  </tr>
+  <tr>
+    <td><input type="hidden" name="ur" l="" value="/legal/privacy.phtml?refresh=1">
+        <input type="hidden" name="title" value="Cinema.com: Privacy Statement"> 
+        <input type="image" src="../images/navbar_send.gif" name="btnSubmit" border="0" align="absbottom">
+    </td>
+   
+  </tr>
+</tbody></table>
+
+
+    <!-- END Section Nav Bar -->
+    &nbsp;</td><td width="592" valign="top" bgcolor="#FFFFFF"><table border="0" cellspacing="0" cellpadding="0" width="592" background="../images/i_menu-ds-white.gif">
+         <tbody><tr><td><img src="../images/i_menu-ds-corner.gif" alt="" width="16" height="16" border="0"></td></tr></tbody></table>
  
     <h2>
       Privacy Statement for Cinema.com Limited:
@@ -215,7 +218,7 @@ SRC="http://kansas.valueclick.com/cycle?host=hs0222266&size=468x60&b=1931470851&
       other websites. We may serve third party advertising which
       may also contain cookies but we do not have access to this
       information.
-    </p>
+    </p> 
     <p>
       Community: This site contains message boards, and news
       groups available to its users. We request users to give us
@@ -231,6 +234,20 @@ SRC="http://kansas.valueclick.com/cycle?host=hs0222266&size=468x60&b=1931470851&
       personal information.
     </p>
     <p>
+      Third Party Advertising: The ads appearing on this Web site are
+      delivered to you by DoubleClick, our Web advertising partner.
+      Information about your visit to this site, such as number of
+      times you have viewed an ad (but not your name, address, or
+      other personal information), is used to serve ads to you on
+      this site. For more information about DoubleClick, cookies, and
+      how to "opt-out", please <a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank">click here</a>.
+    </p>
+    <p>
+      Third Party Cookies: In the course of serving advertisements to
+      this site, our third-party advertiser may place or recognize a
+      unique cookie on your browser.
+    </p>
+    <p>
       Opt-Out: Our site provides users the opportunity to opt-out
       of receiving communications from us. This site gives users
       the option to remove their information from our database to
@@ -238,7 +255,7 @@ SRC="http://kansas.valueclick.com/cycle?host=hs0222266&size=468x60&b=1931470851&
       our service by sending an e-mail to: feedback@cinema.com.
     </p>
     <p>
-    </p>
+    </p>  
     <p>
       This policy may change from time to time so please check
       back periodically. Please contact Cinema.com Limited if you
@@ -249,73 +266,46 @@ SRC="http://kansas.valueclick.com/cycle?host=hs0222266&size=468x60&b=1931470851&
     </p>
     <p>
       Or email us at <a href="mailto:feedback@cinema.com">feedback@cinema.com.</a>    </p>
-        <div><img src="./images/spacer.gif" alt="" width="1" height="16"></div>
-  </td>
-  <td width="8" bgcolor="#003366"><img src="./images/spacer.gif" alt="" width="8" height="1"></td>
-</tr>
-</tbody></table>
-<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-
-	<tbody><tr>
-
-    <td width="100%" bgcolor="#003366" align="right" valign="middle">
-		
-			  <form name="sendToAFriendForm" action="/sendtoafriend/sendtoafriend.phtml" method="post" onsubmit="return isValidSendToFriendEmail(this.txtEmail.value, this.senderEmail.value);">
-		
-			<table>
-			<tbody><tr>
-			<td>
-      	<input type="hidden" name="url" value="/privacy.phtml">
-      </td>
-			<td>
-				<input type="text" name="txtEmail" size="10" maxlength="50" value="their email" onclick="if(this.value=='their email') this.value='';" style="font-size: 8pt; width:92px; margin-bottom: 6px;">
-			</td>
-			<td>
-      	<input type="text" name="senderEmail" size="9" maxlength="50" value="your email" onclick="if(this.value=='your email') this.value='';" style="font-size: 8pt; width:92px; margin-bottom: 6px;">
-			</td>
-			<td>
-    		<input type="image" src="./images/send_page.gif" width="175" height="20" border="0" alt="Send" name="btnSubmit">
-				<input type="hidden" name="title" value="Cinema.com: Privacy Statement">
-<img src="./images/spacer.gif" alt="" width="8" height="2">			</td>
-			</tr>
-			</tbody></table>
-		</form>
-
-    </td>
-
-  </tr>
-
-	<tr>
-		<td align="center" colspan="2"><span class="footer"><br>Send your comments and suggestions about this page to <a href="mailto:feedback@cinema.com" style="color: #C00">feedback@cinema.com</a><br>This page was last updated on Tue 24 July 2001 @ 09:04:10<br>© 2000-2001 Cinema.com</span></td>
-	</tr>
-</tbody></table>
-
-<script language="javascript">
-	function isValidSendToFriendEmail(email, yourEmail)
-	{
-		if((email.indexOf("@")<=0) || // must have an @ symbol and it can't be the first character
-			 (email.lastIndexOf(".")<=(email.indexOf("@")+1)) || // there must be a . after the @
-			 email.indexOf(" ")>=0) // spaces are not allowed 
-		{
-			alert("Their email address is not valid. Please check and try again.");
-			return false;
-		}
-    else
-		{
-			if((yourEmail.indexOf("@")<=0) || // must have an @ symbol and it can't be the first character
-			 (yourEmail.lastIndexOf(".")<=(yourEmail.indexOf("@")+1)) || // there must be a . after the @
-			 yourEmail.indexOf(" ")>=0) // spaces are not allowed 
-			{
-				alert("Your email address is not valid. Please check and try again.");
-				return false;
-			}
-		}
-		return true;
-	}
-</script>
-
-
   
+
+<div><img src="../images/spacer.gif" alt="" width="1" height="16"></div>
+    </td>
+    <td width="8" bgcolor="#003366"><img src="../images/spacer.gif" alt="" width="8" height="1"></td>
+  </tr>
+</tbody></table>
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#003366">
+<tbody><tr><td valign="top" width="100%" background="/images/ifs_bottom.gif" height="12"></td></tr></tbody></table><table width="760" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#003366">
+<tbody><tr><td valign="top" bgcolor="#000000"><a href="/index.phtml"><img src="/images/cinemalogo_bottom.jpg" border="0" alt="Cinema"></a></td><td valign="top"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/banner_fade_top.gif" border="0" alt=""></td></tr><tr><td height="60" width="468"><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/audience.cinema/ros;dcopt=ist;abr=!webtv;sz=468x60;ord=67901023612918?"></script><script><!-- if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) { document.write('<a href="http://ad.doubleclick.net/jump/audience.cinema/ros;sz=468x60;ord=67901023612918?"'); document.write('<img src="http://ad.doubleclick.net/ad/audience.cinema/ros;sz=468x60;ord=67901023612918?"></a>'); } //--></script><noscript><!-- for non javascript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/audience.cinema/ros;sz=468x60;ord=67901023612918?"><img src="http://ad.doubleclick.net/ad/audience.cinema/ros;sz=468x60;ord=67901023612918?"></a></noscript></td></tr>
+<tr><td><img src="/images/banner_fade_bottom.gif" border="0" alt=""></td></tr></tbody></table></td><td valign="top" width="100%" align="left"><img src="/images/banner_fade_right.gif" border="0" alt=""></td></tr></tbody></table><table width="760" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#000000"><tbody><tr><td align="center" colspan="2"><span class="footer"><a href="/legal/advertise.phtml" style="color: #FC3">Advertising</a> - <a href="/legal/terms.phtml" style="color: #FC3">Terms &amp; Conditions</a> - <a href="/legal/privacy.phtml" style="color: #FC3">Privacy Statement</a> - <a href="/legal/about.phtml" style="color: #FC3">Press</a> - <a href="/legal/link2us.phtml" style="color: #FC3">Link To Us</a><br>Send your comments and suggestions about this page to&nbsp;<a href="mailto:feedback@cinema.com" style="color: #C00">feedback@cinema.com</a><br>© 1999-2002 Cinema.com</span></td></tr></tbody></table>
+<script language="javascript">
+function isValidSendToFriendEmail(email, yourEmail)
+{   // must have an @ symbol and it can't be the first character
+    if((email.indexOf("@")<=0) || // there must be a . after the @
+       (email.lastIndexOf(".")<=(email.indexOf("@")+1)) ||
+       email.indexOf(" ")>=0) // spaces are not allowed
+    {
+        alert("Their email address is not valid. Please check and try again.");
+        return false;
+    }
+    else
+    {   // must have an @ symbol and it can't be the first character
+        if((yourEmail.indexOf("@")<=0) || // there must be a . after the @
+           (yourEmail.lastIndexOf(".")<=(yourEmail.indexOf("@")+1)) ||
+           yourEmail.indexOf(" ")>=0) // spaces are not allowed
+        {
+            alert("Your email address is not valid. Please check and try again.");
+            return false;
+        }
+    }
+    return true;
+}
+</script>
+      
+   
+
+
+      
+   
 
 
 </body></html>
