@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frbsf.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207145341id_/http%3A//frbsf.org/tools/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frbsf.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610162829id_/http%3A//frbsf.org/tools/legal/privacy.html) for the most accurate reproduction.*
 
 # Federal Reserve Bank of San Francisco Privacy Policy
 
@@ -38,9 +38,10 @@ For a good explanation of how server log statistical analysis works, see the [ex
 
 Any information collected on this web site, whether individual or aggregate, is for Federal Reserve use only. No information about visitors to this web site is released or sold to third parties.
 
-Questions or comments about the Federal Reserve Bank of San Francisco's privacy policy may be directed to our web site administrators at Frbsf Web.
+**Notice of the Bank's Information Practices with Regard to Children**
 
-_If filling out a form, close this window to return to the form._
+The Bank does not request that children submit personal information online, enable children to make personal information publicly available through a chat room, message board, or other means, or passively track or use any identifying codes linked to children, such as cookies. The Bank requests a screen name and password in connection with the FedVille portion of its web site, and accepts only the first word entered in the screen name field. The Bank collects the screen name and password to keep a record of the state of the participant's game, so that if the participant leaves the game, the participant can return to the game and continue where he or she last left the game. This information is not disclosed to third parties. Web site operators are prohibited from conditioning a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in such activity.
 
-  
+* * *
 
+Questions or comments about the Federal Reserve Bank of San Francisco's privacy policy may be directed to our web site administrators.
