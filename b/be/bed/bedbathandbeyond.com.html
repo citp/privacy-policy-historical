@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bedbathandbeyond.com privacy policy that was archived on 2002-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021010052518id_/http%3A//www.bedbathandbeyond.com/rdprivPolicy.asp%3Forder_num%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bedbathandbeyond.com privacy policy that was archived on 2003-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030618033918id_/http%3A//www.bedbathandbeyond.com/rdprivPolicy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="Javascript">
 <!--
@@ -89,6 +89,16 @@ function go()
 {
 	var	sstr = "";
 	sstr = document.searchit.SSTR.value;
+
+//################### ENABLE BTS PRODUCT SEARCH - START
+	var BTSmodeArgs = "";
+	if ( document.searchit.section.value == '4' )
+	{
+		
+			BTSmodeArgs = "BTSmode=true";
+		
+	}
+//################### ENABLE BTS PRODUCT SEARCH - END
 	while (sstr.substring(0,1) == ' ')
 		sstr = sstr.substring(1);
 	while (sstr.substring(sstr.length-1,sstr.length) == ' ')
@@ -112,13 +122,15 @@ function go()
 			i = len;
 		}
 	}
-		window.location = "searchSKU.asp"+getURLArgs()+"SSTR="+strOut+"&ret=";
+		window.location = "searchSKU.asp"+getURLArgs()+"SSTR="+strOut+"&"+BTSmodeArgs;
+	
+	return false;
 }
 
 var windowpic = null;
 var windowpic2 = null ;
 
-function GetCookie( name )
+function GetCookie ( name )
 {
 	var arg = name + "=";
 	var alen = arg.length;
@@ -152,7 +164,12 @@ var cookieFirstName = null;
 if ( !( cookieFirstName = GetCookie("firstName") ) ) 
 	cookieFirstName = "";
 		
-function init(){
+var cookieStoreNum = null;
+if ( !( cookieStoreNum = GetCookie("store%5Fnumber") ) ) 
+	cookieStoreNum = "";
+
+function init()
+{
 }
 
 function OpenViewWindow( go_there, width, height,scbar,tbar )
@@ -232,29 +249,29 @@ function OpenAboutWindow( go_there, width, height,scbar,tbar )
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Bed Bath &amp; Beyond Privacy</title>
 <style type="text/css">
-	.menu {COLOR: white; BACKGROUND-COLOR: #000066; width:200px; position: absolute; BORDER-LEFT: white 2px solid; BORDER-TOP: white 2px solid; }
-	.menup {BACKGROUND-COLOR: #999999; HEIGHT: 17px; text-decoration: none; COLOR: white; FONT-FAMILY: arial; position: absolute; FONT-SIZE: 12px; LETTER-SPACING: 1px; PADDING-LEFT: 6px; PADDING-TOP: 0px; WIDTH: 196px; }
-	.menupA {text-indent: 10px; FONT: bold 12px /16px arial; COLOR:white; text-decoration: none;}
-	.menu3 {COLOR: white; BACKGROUND-COLOR: #FF6666; width:200px; position: absolute; BORDER-LEFT: white 2px solid; BORDER-TOP: white 2px solid; }
+	.menu {COLOR: white; BACKGROUND-COLOR: #008080; width:170px; position: absolute; BORDER: white 2px solid; PADDING: 2px;}
+	.menu2 {COLOR: white; BACKGROUND-COLOR: #008080; }
 	.menu A.{COLOR:white; text-decoration: none; FONT-FAMILY:arial; }
-	.menup3 {BACKGROUND-COLOR: #CC3300; HEIGHT: 18px; text-decoration: none; COLOR: white; FONT-FAMILY: arial; position: absolute; FONT-SIZE: 12px; FONT-WEIGHT: bold; LETTER-SPACING: 1px; PADDING-LEFT: 6px; PADDING-TOP: 1px; WIDTH: 196px; }
+	.menup {BACKGROUND-COLOR: #008080; text-decoration: none; border-top-width: 1px; BORDER-color: #00FFFF #008080 #00FFFF #008080; BORDER-BOTTOM-width: 1px; COLOR: white; FONT-FAMILY: arial, Helvetica; FONT-SIZE: 12px; FONT-WEIGHT: bold; LETTER-SPACING: 1px; PADDING-BOTTOM: 2px; PADDING-LEFT: 10px; PADDING-TOP: 2px; MARGIN-LEFT: 2px; MARGIN-RIGHT: 2px; WIDTH: 166px; }
+	.menupA {text-indent: 10px; FONT: bold 12px /14px arial, Helvetica; COLOR:white; text-decoration: none;}
+	.menuAR { FONT-FAMILY: Symbol; FONT-SIZE: 12px; FONT-WEIGHT: bold; }
 </style>
 
 <script language="Javascript">
 <!--
 
-	var	tNavOn = new Array(9);
-	var	tNavOff = new Array(9);
+	var	tNavOn = new Array(10);
+	var	tNavOff = new Array(10);
 	var	n;
 	var	lit = -1;
 	var	imglit = "";
 	var	allloaded = false;
 	if (document.images) {
-		for (n = 0; n < 9; n++) {
+		for (n = 0; n < 10; n++) {
 			tNavOn[n] = new Image();
 			tNavOff[n] = new Image();
-			tNavOn[n].src = "http://images.bedbathandbeyond.com"+"/img/leftTab"+n+"_3_on.gif";
-			tNavOff[n].src = "http://images.bedbathandbeyond.com"+"/img/leftTab"+n+"_3.gif";
+			tNavOn[n].src = ""+"/img/leftTab"+n+"_3_on.gif";
+			tNavOff[n].src = ""+"/img/leftTab"+n+"_3.gif";
 		}
 		allloaded = true;
 	}
@@ -284,13 +301,126 @@ function OpenAboutWindow( go_there, width, height,scbar,tbar )
 		}
 	}
 
-function doIMouseOver(a,b,c,d) {
+var	selected = new Array();
+var	timer = null;
+function to2Node(num) {
+	document.location = "nodePage.asp"+getURLArgs()+"RN="+num;
+}
+function to2Style(num) {
+	document.location = "stylePage.asp"+getURLArgs()+"RN="+num;
 }
 function setClearTime() {
-}
-function clearMenus() {
+	if (timer) clearTimeout(timer);
+	timer = null;
+	timer = setTimeout("clearMenus()",600);
 }
 function cancelClearTime() {
+	if (timer) clearTimeout(timer);
+	timer = null;
+}
+
+function clearMenus() {
+	var	i,e;
+	for (i = 0; i < selected.length; i++) {
+		e = selected[i];
+		elempt = document.layers["sO" + e];
+		if (elempt != null) {
+			elempt.visibility = "hide";
+		}
+	}
+	clearLit(-1);
+	selected.length = 0;
+}
+
+function doIMouseOut(cdiv,src) {
+	var	elempt;
+	if (src != -1) {
+		elempt = document.layers["sO" + src];
+		if (cdiv != -1) {
+			elempt = elempt.document.layers["cell" + cdiv];
+			if ((elempt != null)&&(elempt.type != "undefined")) {
+				elempt.visibility = "inherit";
+			}
+		}
+	}
+	setClearTime();
+}
+function clearOtherMenus(lev) {
+	if (selected.length > lev) {
+		e = selected[lev];
+		if (e != "undefined") {
+			elempt = document.layers["sO" + src];
+			if ((elempt != null)&&(elempt.type != "undefined")) elempt.visibility = "hide";
+		}
+		for (k = lev+1; k < selected.length; k++) {
+			e = selected[k];
+			if (e != "undefined") {
+				elempt = eval(docObj+"sO" + e + styleObj);
+				if ((elempt != null)&&(elempt.type != "undefined")) elempt.visibility = "hide";
+			}
+		}
+		selected.length = lev;
+	}
+}
+
+function doTMouseOver(i,lev,cdiv,src) {
+	var	elempt;
+	if (src != -1) {
+		elempt = document.layers["sO" + src];
+		if (cdiv != -1) {
+			elempt = elempt.document.layers["cell" + cdiv];
+			if ((elempt != null)&&(elempt.type != "undefined")) {
+				elempt.visibility = "hide";
+			}
+		}
+	}
+	if (selected[lev] != i) {
+			e = selected[lev];
+			elempt = document.layers["sO" + e];
+			if ((elempt != null)&&(elempt.type != "undefined")) elempt.visibility = "hide";
+
+			for (k = lev+1; k < selected.length; k++) {
+				e = selected[k];
+				elempt = document.layers["sO" + e];
+				if ((elempt != null)&&(elempt.type != "undefined")) elempt.visibility = "hide";
+			}
+			selected.length = lev;
+	}
+	cancelClearTime();
+}
+function doIMouseOver(i,lev,cdiv,src) {
+	var	k,e;
+	var	elempt;
+	if (src != -1) {
+		elempt = document.layers["sO" + src];
+		if (cdiv != -1) {
+			elempt = elempt.document.layers["cell" + cdiv];
+			if ((elempt != null)&&(elempt.type != "undefined")) {
+				elempt.visibility = "hide";
+			}
+		}
+	}
+	if (selected[lev] != i) {
+			e = selected[lev];
+			elempt = document.layers["sO" + e];
+			if ((elempt != null)&&(elempt.type != "undefined")) elempt.visibility = "hide";
+
+			for (k = lev+1; k < selected.length; k++) {
+				e = selected[k];
+				elempt = document.layers["sO" + e];
+				if ((elempt != null)&&(elempt.type != "undefined")) elempt.visibility = "hide";
+			}
+			selected.length = lev;
+	}
+	if (i != -1) {
+		elempt = document.layers["sO" + i];
+		if ((elempt != null)&&(elempt.type != "undefined")) {
+			elempt.visibility = "inherit";
+			selected[lev] = i;
+			cancelClearTime();
+		}
+	}
+
 }
 
 //-->
@@ -298,149 +428,118 @@ function cancelClearTime() {
 
 </head>
 <body bgcolor="#330099" onload="init();fcnf();" link="#CC3300" vlink="#CC3300" alink="#CC3300" topmargin="10" leftmargin="3" marginwidth="3">
-
 <script>
 function handle()
 {
 	return true;
 }
 window.onerror=handle;
-</script>
-
-<script defer="" src="http://a644.g.akamai.net/f/644/67/3h/hints.netflame.cc/service/script/www.bedbathandbeyond.com"></script>
+</script><script defer="" src="http://a644.g.akamai.net/f/644/67/3h/hints.netflame.cc/service/script/www.bedbathandbeyond.com"></script><!-- menuname='your account' Num=4 primInc=40 -->
+<layer name="sO13" height="82px" visibility="hide" bgcolor="#000066" left="100" top="95" width="200px" z-index="194">
+<layer name="bbsO13" height="82px" bgcolor="#FFFFFF" left="0" top="0" width="2px"></layer>
+<layer name="ttsO13" height="2px" bgcolor="#FFFFFF" left="2" top="0" width="198px"></layer>
+<layer height="18px" top="2" left="2" name="cell37" bgcolor="#999999" width="205"></layer><layer height="18px" top="2" left="2" name="tell37" width="205"><a href="accountPreferred.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(37,13)" onmouseover="doTMouseOver(-1,1,37,13)" id="c">Preferred Settings&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="22" left="2" name="cell38" bgcolor="#999999" width="205"></layer><layer height="18px" top="22" left="2" name="tell38" width="205"><a href="orderHistory.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(38,13)" onmouseover="doTMouseOver(-1,1,38,13)" id="c">Order History&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="42" left="2" name="cell39" bgcolor="#999999" width="205"></layer><layer height="18px" top="42" left="2" name="tell39" width="205"><a href="addressBook.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(39,13)" onmouseover="doTMouseOver(-1,1,39,13)" id="c">Address Book&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="62" left="2" name="cell40" bgcolor="#999999" width="205"></layer><layer height="18px" top="62" left="2" name="tell40" width="205"><a href="payMethods.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(40,13)" onmouseover="doTMouseOver(-1,1,40,13)" id="c">Payment Methods&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+</layer>
+<!-- menuname='shopping guides' Num=5 primInc=40 -->
+<layer name="sO14" height="102px" visibility="hide" bgcolor="#000066" left="100" top="220" width="200px" z-index="194">
+<layer name="bbsO14" height="102px" bgcolor="#FFFFFF" left="0" top="0" width="2px"></layer>
+<layer name="ttsO14" height="2px" bgcolor="#FFFFFF" left="2" top="0" width="198px"></layer>
+<layer height="18px" top="2" left="2" name="cell57" bgcolor="#999999" width="205"></layer><layer height="18px" top="2" left="2" name="tell57" width="205"><a href="shopguide.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(57,14)" onmouseover="doTMouseOver(-1,1,57,14)" id="c">Product Guides&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="22" left="2" name="cell58" bgcolor="#999999" width="205"></layer><layer height="18px" top="22" left="2" name="tell58" width="205"><a href="glossary.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(58,14)" onmouseover="doTMouseOver(-1,1,58,14)" id="c">Glossary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="42" left="2" name="cell59" bgcolor="#999999" width="205"></layer><layer height="18px" top="42" left="2" name="tell59" width="205"><a href="faqs.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(59,14)" onmouseover="doTMouseOver(-1,1,59,14)" id="c">FAQ's&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="62" left="2" name="cell85" bgcolor="#999999" width="205"></layer><layer height="18px" top="62" left="2" name="tell85" width="205"><a href="how_to_shop.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(85,14)" onmouseover="doTMouseOver(-1,1,85,14)" id="c">How to Get Around&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="82" left="2" name="cell86" bgcolor="#999999" width="205"></layer><layer height="18px" top="82" left="2" name="tell86" width="205"><a href="how_to_order.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(86,14)" onmouseover="doTMouseOver(-1,1,86,14)" id="c">How to Order&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+</layer>
+<!-- menuname='returns and policies' Num=4 primInc=40 -->
+<layer name="sO21" height="82px" visibility="hide" bgcolor="#000066" left="100" top="284" width="200px" z-index="194">
+<layer name="bbsO21" height="82px" bgcolor="#FFFFFF" left="0" top="0" width="2px"></layer>
+<layer name="ttsO21" height="2px" bgcolor="#FFFFFF" left="2" top="0" width="198px"></layer>
+<layer height="18px" top="2" left="2" name="cell87" bgcolor="#999999" width="205"></layer><layer height="18px" top="2" left="2" name="tell87" width="205"><a href="aPolicyReturns.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(87,21)" onmouseover="doTMouseOver(-1,1,87,21)" id="c">Returns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="22" left="2" name="cell88" bgcolor="#999999" width="205"></layer><layer height="18px" top="22" left="2" name="tell88" width="205"><a href="aPolicyShipping.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(88,21)" onmouseover="doTMouseOver(-1,1,88,21)" id="c">Shipping&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="42" left="2" name="cell89" bgcolor="#999999" width="205"></layer><layer height="18px" top="42" left="2" name="tell89" width="205"><a href="bridal_policies.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(89,21)" onmouseover="doTMouseOver(-1,1,89,21)" id="c">Bridal &amp; Gift Registry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+<layer height="18px" top="62" left="2" name="cell90" bgcolor="#999999" width="205"></layer><layer height="18px" top="62" left="2" name="tell90" width="205"><a href="aPolicyLegal.asp?order_num=-1&amp;" class="menupA" onmouseout="doIMouseOut(90,21)" onmouseover="doTMouseOver(-1,1,90,21)" id="c">Legal Information&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></layer>
+</layer>
 
 <div id="allel">
 <table cellpadding="0" cellspacing="0" border="0">
-<!----->
-<tbody><tr><td align="left" valign="top">
-<table cellpadding="0" cellspacing="0" border="0">
-<!----->
-<tbody><tr><td align="left" valign="top">
-  <table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr valign="top">
-		<td width="35"><img src="/img/i.gif" width="35" height="56"></td>
-		<td width="154">
-			<a href="default.asp?order_num=-1&amp;">
-			<img src="http://images.bedbathandbeyond.com/img/bbblogo.gif" width="154" height="48" border="0" alt="Bed Bath &amp; Beyond" title="Bed Bath &amp; Beyond"></a></td>
-		
-		
-		<td width="10"><img src="/img/i.gif" width="10" height="1"></td>
-		<td width="1"><img src="/img/vBarWhite.gif" width="1" height="48" border="0"></td>
-
-			<td align="center" width="163">
-				<table width="163" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td height="48" align="center" valign="middle">
-							<font size="2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">
-								<script language="Javascript">
-									if ( cookieFirstName )
-										document.write( 'Welcome&nbsp;' + cookieFirstName + '&nbsp;to bedbathandbeyond.com<div><font size=1 face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">if you are not&nbsp;' + cookieFirstName + '&nbsp;click&nbsp;<a href=login.asp' + getURLArgs() + 'loginType=quick&ret=' + getPageName() + '&retarg=' + getURLRetArgs().replace(/=/g,"%3D").replace(/&/g,"%26") + '><span style="color: #FFF">here</span></a></font></div>' );
-									else
-										document.write( 'Hi! Welcome to bedbathandbeyond.com' );
-								</script>Hi! Welcome to bedbathandbeyond.com
-							</font>
-						</td>
+	<tbody><tr>
+		<td colspan="2" align="left" valign="middle">
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="35" height="1"></td>
+					<td><a href="default.asp?order_num=-1&amp;"><img src="/img/bbblogo.gif;pv7ba972d6a6f42e69" width="154" height="48" border="0" alt="Bed Bath &amp;&amp; Beyond" title="Bed Bath &amp;&amp; Beyond"></a></td>
+					<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="10" height="1"></td><td><img src="/img/vBarWhite.gif;pvb2332b3bc8fb4943" width="1" height="48" border="0"></td>
+							<td align="center" width="163" valign="middle">
+								<font size="2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">
+<script language="Javascript">
+	if ( cookieFirstName )
+		document.write( 'Welcome&nbsp;' + cookieFirstName + '&nbsp;to bedbathandbeyond.com<div><font size=1 face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">if you are not&nbsp;' + cookieFirstName + '&nbsp;click&nbsp;<a href=login.asp' + getURLArgs() + 'loginType=quick&ret=' + getPageName() + '&retarg=' + getURLRetArgs().replace(/=/g,"%3D").replace(/&/g,"%26") + '><span style="color: #FFF">here</span></a></font></div>' );
+	else
+		document.write( 'Hi! Welcome to bedbathandbeyond.com' );
+</script>Hi! Welcome to bedbathandbeyond.com
+								</font>
+							</td>
+						<td><img src="/img/vBarWhite.gif;pvb2332b3bc8fb4943" width="1" height="48" border="0"></td>
+						<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="10" height="1"></td>
+						<td align="center" valign="middle">
+							<table cellpadding="0" cellspacing="0" border="0" width="170">
+								<form action="" name="searchit" onsubmit="return go()"></form>
+								
+								<input type="HIDDEN" name="section" value="3">
+								<input type="HIDDEN" name="order_num" value="-1">
+								<input type="HIDDEN" name="WRN" value="-1">
+								<input type="HIDDEN" name="MC" value="-1">
+								<input type="HIDDEN" name="DOIT" value="YES">
+								<tbody><tr>
+									<td><font size="2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><b>PRODUCT FINDER</b></font></td>
+								</tr>
+								<tr>
+									<td><nobr><input type="text" size="15" value="" name="SSTR" style="WIDTH=130px"><img src="/img/i.gif;pvfde3684a1568e8f5" width="8" height="18"><a href="javascript:go()"><img src="/img/Go.gif;pv5dbbec34cd0f11c6" width="35" height="14" border="0" alt="Go" title="Go"></a></nobr></td>
+								</tr>
+								
+							</tbody></table>
+						</td><td><img src="/img/i.gif;pvfde3684a1568e8f5" width="10" height="1"></td>
+						<td><img src="/img/vBarWhite.gif;pvb2332b3bc8fb4943" width="1" height="48" border="0"></td>
+						<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="10" height="1"></td>
+					<td width="36"><a href="shopguide.asp?order_num=-1&amp;retloc=privPolicy%2Easp&amp;args="><img src="/img/prguide_icon.gif;pv85901ab7c1e2062f" width="36" height="48" alt="product guides" title="product guides" border="0"></a></td>
+					<td width="10"><img src="/img/i.gif;pvfde3684a1568e8f5" width="9" height="1"></td>
+					<td width="43"><a href="showCart.asp?order_num=-1&amp;retloc=privPolicy%2Easp&amp;retarg="><img src="/img/iconCart.gif;pv203c1f3982a79bf9" width="43" height="48" alt="shopping cart" title="shopping cart" border="0"></a></td>
+					<td width="10"><img src="/img/i.gif;pvfde3684a1568e8f5" width="9" height="1"></td>
+					<td width="34"><a href="exitWedMode.asp?order_num=-1&amp;DST=store_loc&amp;ret=privPolicy.asp"><img src="/img/iconLocator.gif;pva367dfce8b16a42c" width="34" height="48" alt="store locator" title="store locator" border="0"></a></td>
+					<td width="10"><img src="/img/i.gif;pvfde3684a1568e8f5" width="9" height="1"></td>
+					<td width="39"><a href="exitWedMode.asp?order_num=-1&amp;DST=login&amp;ret=privPolicy%2Easp&amp;args="><img src="/Img/iconAccount.gif;pv67fbe44d44d3a0a6" width="39" height="48" alt="your account" title="your account" border="0"></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="5"></td>
+	</tr><tr>
+			<td width="95"><a href="privPolicy.asp?order_num=-1&amp;MC=1&amp;"><img src="/img/btn_submenuoff.gif;pvbd7369d13d0532f7" width="95" height="25" alt="turn menus off" title="turn menus off" border="0"></a></td>
+			<td>
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr valign="bottom">
+						<td width="167"><a href="default.asp?order_num=-1&amp;"><img src="/img/topTab0.gif;pv79fe508fa7c2bb4a" width="167" height="25" alt="shop online" title="shop online" border="0"></a></td>
+						<td width="188"><a href="wedd.asp?order_num=-1&amp;"><img src="/img/topTab1.gif;pv3a2fd707ba2f3dbf" width="188" height="25" alt="bridal &amp;&amp; gift registry" title="bridal &amp;&amp; gift registry" border="0"></a></td>
+						<td width="169"><a href="services.asp?order_num=-1&amp;"><img src="/img/topTab2selected.gif;pv1cbaf3713b628e92" width="169" height="25" alt="service &amp;&amp; beyond" title="service &amp;&amp; beyond" border="0"></a></td><td width="148"><a href="BTSHome.asp?order_num=-1&amp;"><img src="/img/topTab3.gif;pv3ef935fe1858c792" width="148" height="25" alt="shop for college" title="shop for college" border="0"></a></td>
 					</tr>
 				</tbody></table>
 			</td>
-		
-		<td width="1"><img src="/img/vBarWhite.gif" width="1" height="48" border="0"></td>
-		<td width="10"><img src="/img/i.gif" width="10" height="1"></td>
-        <td align="center">
- 
-        	<form action="searchSKU.asp" name="searchit" onsubmit="go()">
-        	<input type="HIDDEN" name="order_num" value="-1">
-        	<input type="HIDDEN" name="WRN" value="-1">
-        	<input type="HIDDEN" name="MC" value="-1">
-        	<input type="HIDDEN" name="DOIT" value="YES">
-			<table cellpadding="0" cellspacing="0" border="0" width="170">
-				<tbody><tr>
-					<td><font size="2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><div style="FONT-FAMILY: Arial, Helvetica; FONT-SIZE: 12px"><b>PRODUCT FINDER</b></div></font></td>
-				</tr>
-				<tr>
-					<td><nobr><input type="text" size="15" value="" name="SSTR" style="WIDTH=130px"><img src="/img/i.gif" width="8" height="18"><a href="javascript:go()"><img src="http://images.bedbathandbeyond.com/img/Go.gif" width="35" height="14" border="0" alt="Go" title="Go"></a></nobr></td>
-				</tr>
-				<tr>
-					<td><img src="/img/i.gif" width="170" height="1"></td></tr>
-			</tbody></table>
-			</form>
-		</td>
-      </tr></tbody></table></td>
-     <td valign="top" align="right"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-		<td width="10"><img src="/img/i.gif" width="10" height="1"></td>
-		<td width="1"><img src="/img/vBarWhite.gif" width="1" height="48" border="0"></td>
-		<td width="10"><img src="/img/i.gif" width="9" height="1"></td>
-		<td width="36"><a href="shopguide.asp?order_num=-1&amp;retloc=privPolicy%2Easp&amp;args="><img src="http://images.bedbathandbeyond.com/img/prguide_icon.gif" width="36" height="48" alt="product guides" title="product guides" border="0"></a></td>
-        <td width="10"><img src="/img/i.gif" width="9" height="1"></td>
-        <td width="43"><a href="showCart.asp?order_num=-1&amp;retloc=privPolicy%2Easp&amp;retarg="><img src="http://images.bedbathandbeyond.com/img/iconCart.gif" width="43" height="48" alt="shopping cart" title="shopping cart" border="0"></a></td>
-<!--				<td width=1><img src="/img/vBarWhite.gif" width=1 height=48 border=0></td> -->
-		<td width="10"><img src="/img/i.gif" width="9" height="1"></td>
-        <td width="34"><a href="exitWedMode.asp?order_num=-1&amp;DST=store_loc&amp;ret=privPolicy.asp"><img src="http://images.bedbathandbeyond.com/img/iconLocator.gif" width="34" height="48" alt="store locator" title="store locator" border="0"></a></td>
-<!--				<td width=1><img src="/img/vBarWhite.gif" width=1 height=48 border=0></td> -->
-		<td width="10"><img src="/img/i.gif" width="9" height="1"></td>
-
-		<td width="39"><a href="exitWedMode.asp?order_num=-1&amp;DST=login&amp;ret=privPolicy%2Easp&amp;args="><img src="http://images.bedbathandbeyond.com/Img/iconAccount.gif" width="39" height="48" alt="your account" title="your account" border="0"></a></td>
-	
-	</tr>
-</tbody></table></td></tr>
-<!----->
-</tbody></table></td></tr>
-
-<!----->
-
-<tr><td colspan="2">
-	<table border="0" cellspacing="0" cellpadding="0">
-	
-		<tbody><tr valign="bottom">
-			<td width="95">
-					<img src="http://images.bedbathandbeyond.com/img/btn_submenuNone.gif" width="95" height="25" border="0">
-				
-			</td><td width="167"><a href="default.asp?order_num=-1&amp;"><img src="http://images.bedbathandbeyond.com/img/topTab0.gif" width="167" height="25" alt="shop online" title="shop online" border="0"></a></td>
-			<td width="188"><a href="wedd.asp?order_num=-1&amp;"><img src="http://images.bedbathandbeyond.com/img/topTab1.gif" width="188" height="25" alt="bridal &amp; gift registry" title="bridal &amp; gift registry" border="0"></a></td>
-			<td width="169"><a href="services.asp?order_num=-1&amp;"><img src="http://images.bedbathandbeyond.com/img/topTab2selected.gif" width="169" height="25" alt="service &amp; beyond" title="service &amp; beyond" border="0"></a></td>
-			
-				<td width="148"><a href="BTSHome.asp?order_num=-1&amp;"><img src="http://images.bedbathandbeyond.com/img/topTab3.gif" width="148" height="25" alt="shop for college" title="shop for college" border="0"></a></td>
-			
 		</tr>
 	
-<tr>    <td width="95" valign="top" align="right">
-        <table width="95" border="0" cellspacing="0" cellpadding="0">				
-        <tbody><tr><td>
-			<a href="login.asp?order_num=-1&amp;" onmouseover="doIMouseOver(13,0,-1);img_act('n0',0)" onmouseout="img_inact('n0',0); setClearTime()"><img name="n0" src="http://images.bedbathandbeyond.com/img/leftTab0_3.gif" width="95" border="0" alt="your account" title="your account"></a></td></tr>
-					
-        <tr><td>
-			<a href="contact_us.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n1',1)" onmouseout="img_inact('n1',1); setClearTime()"><img name="n1" src="http://images.bedbathandbeyond.com/img/leftTab1_3.gif" width="95" border="0" alt="contact us" title="contact us"></a></td></tr>
-					
-        <tr><td>
-			<a href="store_loc.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n2',2)" onmouseout="img_inact('n2',2); setClearTime()"><img name="n2" src="http://images.bedbathandbeyond.com/img/leftTab2_3.gif" width="95" border="0" alt="store locator" title="store locator"></a></td></tr>
-					
-        <tr><td>
-			<a href="shopguide.asp?order_num=-1&amp;" onmouseover="doIMouseOver(14,0,-1);img_act('n3',3)" onmouseout="img_inact('n3',3); setClearTime()"><img name="n3" src="http://images.bedbathandbeyond.com/img/leftTab3_3.gif" width="95" border="0" alt="shopping guides" title="shopping guides"></a></td></tr>
-					
-        <tr><td>
-			<a href="privPolicy.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);clearLit(4)" onmouseout="setClearTime()"><img name="n4" src="http://images.bedbathandbeyond.com/img/leftTab4_3_on.gif" width="95" border="0" alt="privacy" title="privacy"></a></td></tr>
-					
-        <tr><td>
-			<a href="returns.asp?order_num=-1&amp;" onmouseover="doIMouseOver(21,0,-1);img_act('n5',5)" onmouseout="img_inact('n5',5); setClearTime()"><img name="n5" src="http://images.bedbathandbeyond.com/img/leftTab5_3.gif" width="95" border="0" alt="shipping &amp; policies" title="shipping &amp; policies"></a></td></tr>
-					
-        <tr><td>
-			<a href="giftCert.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n6',6)" onmouseout="img_inact('n6',6); setClearTime()"><img name="n6" src="http://images.bedbathandbeyond.com/img/leftTab6_3.gif" width="95" border="0" alt="gift cards" title="gift cards"></a></td></tr>
-					
-        <tr><td>
-			<a href="javascript:OpenAboutWindow('about_us.asp',498,427,'yes','yes');" onmouseover="doIMouseOver(-1,0,-1);img_act('n7',7)" onmouseout="img_inact('n7',7); setClearTime()"><img name="n7" src="http://images.bedbathandbeyond.com/img/leftTab7_3.gif" width="95" border="0" alt="about us" title="about us"></a></td></tr>
-					
-        <tr><td>
-			<a href="careers.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n8',8)" onmouseout="img_inact('n8',8); setClearTime()"><img name="n8" src="http://images.bedbathandbeyond.com/img/leftTab8_3.gif" width="95" border="0" alt="careers" title="careers"></a></td></tr>
-	
-		</tbody></table>
-      </td>
-      <td width="672" colspan="4" bgcolor="white" valign="top">
-			
-	
-	
+	<tr>
+<td width="95" valign="top" align="right">
+			<table width="95" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a href="login.asp?order_num=-1&amp;" onmouseover="doIMouseOver(13,0,-1);img_act('n0',0)" onmouseout="img_inact('n0',0); setClearTime()"><img name="n0" src="/img/leftTab0_3.gif;pve68bf01d87b43b8b" width="95" border="0" alt="your account" title="your account"></a></td></tr><tr><td><a href="contact_us.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n1',1)" onmouseout="img_inact('n1',1); setClearTime()"><img name="n1" src="/img/leftTab1_3.gif;pvff4645d6cc367c21" width="95" border="0" alt="contact us" title="contact us"></a></td></tr><tr><td><a href="store_loc.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n2',2)" onmouseout="img_inact('n2',2); setClearTime()"><img name="n2" src="/img/leftTab2_3.gif;pv0ff268da6fe6a947" width="95" border="0" alt="store locator" title="store locator"></a></td></tr><tr><td><a href="corpsales.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n3',3)" onmouseout="img_inact('n3',3); setClearTime()"><img name="n3" src="/img/leftTab3_3.gif;pv599af4f29470d8a6" width="95" border="0" alt="corporate sales" title="corporate sales"></a></td></tr><tr><td><a href="shopguide.asp?order_num=-1&amp;" onmouseover="doIMouseOver(14,0,-1);img_act('n4',4)" onmouseout="img_inact('n4',4); setClearTime()"><img name="n4" src="/img/leftTab4_3.gif;pva4929a4fb089cade" width="95" border="0" alt="shopping guides" title="shopping guides"></a></td></tr><tr><td><a href="privPolicy.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);clearLit(5)" onmouseout="setClearTime()"><img name="n5" src="/img/leftTab5_3_on.gif;pv10a760eb28e63591" width="95" border="0" alt="privacy" title="privacy"></a></td></tr><tr><td><a href="returns.asp?order_num=-1&amp;" onmouseover="doIMouseOver(21,0,-1);img_act('n6',6)" onmouseout="img_inact('n6',6); setClearTime()"><img name="n6" src="/img/leftTab6_3.gif;pv3904e7562e436642" width="95" border="0" alt="shipping &amp;&amp; policies" title="shipping &amp;&amp; policies"></a></td></tr><tr><td><a href="giftCert.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n7',7)" onmouseout="img_inact('n7',7); setClearTime()"><img name="n7" src="/img/leftTab7_3.gif;pvd45a1c53baf48ebd" width="95" border="0" alt="gift cards" title="gift cards"></a></td></tr><tr><td>
+		<a href="javascript:OpenAboutWindow('about_us.asp',498,427,'yes','yes');" onmouseover="doIMouseOver(-1,0,-1);img_act('n8',8)" onmouseout="img_inact('n8',8); setClearTime()"><img name="n8" src="/img/leftTab8_3.gif;pva76648a5519b7a60" width="95" border="0" alt="about us" title="about us"></a></td></tr><tr><td><a href="careers.asp?order_num=-1&amp;" onmouseover="doIMouseOver(-1,0,-1);img_act('n9',9)" onmouseout="img_inact('n9',9); setClearTime()"><img name="n9" src="/img/leftTab9_3.gif;pvf9c8186df251e423" width="95" border="0" alt="careers" title="careers"></a></td></tr>
+			</tbody></table>
+		</td>
+		<td width="672" colspan="4" bgcolor="white" valign="top">
 <table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td colspan="2"><img src="/img/i.gif" width="38" height="41"></td>
+    <td colspan="2"><img src="/img/i.gif;pvfde3684a1568e8f5" width="38" height="41"></td>
   </tr>
   <tr> 
     <td>&nbsp;</td>
@@ -451,13 +550,13 @@ window.onerror=handle;
            <td width="17">&nbsp;</td>
          </tr>
 		  <tr>
-			<td valign="top"><img src="Img/gray.gif" height="1" width="600"></td>
+			<td valign="top"><img src="Img/gray.gif;pv55d04e96bf744c5f" height="1" width="600"></td>
 			<td>&nbsp;</td>
 		  </tr>         
      </tbody></table>
     </td>
    </tr> 
-    <tr><td width="25" valign="top" height="365"><img src="/img/i.gif" width="28" height="100"></td>
+    <tr><td width="25" valign="top" height="365"><img src="/img/i.gif;pvfde3684a1568e8f5" width="28" height="100"></td>
     <td width="617" valign="top" height="365"> 
       <table border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
@@ -506,7 +605,7 @@ Secure Sockets Layer (SSL) technology, which provides the highest level of secur
 currently available for secure transactions, to encrypt all of your Personal Information 
 before it is transmitted to us.  Encrypted information cannot be read or recorded as it 
 travels over the Internet. You can tell you are sending information securely by the 
-unbroken key icon or closed lock icon on that should appear at the bottom of your 
+unbroken key icon or closed lock icon that should appear at the bottom of your 
 internet browser's window (depending on what browser you use).  These icons will appear 
 when you are placing an order on our Web site.  In addition, you will see our site 
 address change slightly, from http: to https: indicating a secure server connection is 
@@ -520,7 +619,7 @@ firewall and security technology.
 <br><br>
 If you prefer not to disclose your credit card information online, you can always place 
 your order by calling 1-800-GO&nbsp;BEYOND®&nbsp;(1-800-462-3966) or visiting one of our many stores.  
-Click <a href="store_loc.asp?order_num=-1&amp;">here</a> to locate the store nearest you and receive 
+Click <a href="store_loc.asp?order_num=-1&amp;">here</a> to locate the store nearest you and to receive 
 driving directions.
 <br>
 <font size="3" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="#000080"><br><b>Use of Cookies</b><br><br><font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="black">
@@ -559,9 +658,7 @@ or remove portions of this policy at any time.  Please check this page periodica
 changes.  Your continued use of our Web site following the posting of changes to these 
 terms will mean you accept those changes.
 <br><br>
-<a href="#" onclick="JavaScript:OpenVisaWindow();"><img src="img/verified_by_visa.gif" width="63" height="50" border="0" alt="VERIFIED by VISA" title="VERIFIED by VISA"></a>
-<br><br>
-<font size="-2" face="Geneva, Arial, Verdana, Helvetica, sans-serif">© 1999-2001 Bed Bath &amp; Beyond and its subsidiaries. All rights 
+<font size="-2" face="Geneva, Arial, Verdana, Helvetica, sans-serif">© 1999-2003 Bed Bath &amp; Beyond and its subsidiaries. All rights 
 reserved.</font>
           </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></td>
         </tr>
@@ -591,15 +688,14 @@ function OpenVisaWindow()
 }
 //-->
 </script>
-</td></tr></tbody></table>
-<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td width="93"><img src="/img/i.gif" width="1" height="10"></td>
-		<td width="669"><img src="/img/i.gif" width="1" height="10"></td>
+</td></tr>
+	<tr>
+		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
+		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
 	</tr>
 	<tr>
-		<td width="93"><img src="/img/i.gif" width="1" height="10"></td>
-		<td width="669" align="center">
+		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
+		<td align="center">
 			<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><a href="rdDefault.asp?order_num=-1&amp;"><span style="color: white">Home</span></a> |
 			<a href="rdLogin.asp?order_num=-1&amp;"><span style="color: white">Your Account</span></a> |
 			<a href="rdAPolicyShipping.asp?order_num=-1&amp;"><span style="color: white">Shipping</span></a> |
@@ -607,42 +703,40 @@ function OpenVisaWindow()
 			<a href="rdShopGuide.asp?order_num=-1&amp;"><span style="color: white">How to Shop</span></a> |
 			<a href="rdGlossary.asp?order_num=-1&amp;"><span style="color: white">Glossary</span></a> |
 			<a href="rdGiftCert.asp?order_num=-1&amp;"><span style="color: white">Gift Cards</span></a></font>
-
 		</td>
 	</tr>
 	<tr>
-		<td width="93"><img src="/img/i.gif" width="1" height="10"></td>
-		<td width="669" align="center">
+		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
+		<td align="center">
 			<font size="-1" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white"><a href="rdContactUs.asp?order_num=-1&amp;"><span style="color: white">Contact us</span></a> |
 			<a href="rdprivPolicy.asp?order_num=-1&amp;"><span style="color: white">Security &amp; Privacy</span></a> |
 			<a href="rdAPolicyLegal.asp?order_num=-1&amp;"><span style="color: white">Legal Notices</span></a> |
-			<a href="javascript:OpenViewWindow('about_us.asp',498,427,'yes','yes');"> <span style="color: white">About us</span></a> |
-			<a href="javascript:OpenViewWindow('about_us.asp',498,427,'yes','yes');"> <span style="color: white">Investor Relations</span></a> |
+		<a href="javascript:OpenViewWindow('about_us.asp',498,427,'yes','yes');">
+	<span style="color: white">About us</span></a> |
+		<a href="javascript:OpenViewWindow('about_us.asp',498,427,'yes','yes');">
+	<span style="color: white">Investor Relations</span></a> |
 			<a href="rdCareers.asp?order_num=-1&amp;"><span style="color: white">Careers</span></a></font>
-	
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2"><img src="/img/i.gif" width="1" height="10"></td>
+		<td colspan="2"><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
 	</tr>
 	<tr>
-		<td width="93"><img src="/img/i.gif" width="1" height="10"></td>
-		<td width="669" align="center">
+		<td><img src="/img/i.gif;pvfde3684a1568e8f5" width="1" height="10"></td>
+		<td align="center">
 			<table cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
 					<td>
-						<a href="javascript:OpenViewWindow('guarantee.asp',462,440,'yes','no');">
-						<img src="http://images.bedbathandbeyond.com/img/guarIcon.gif" width="85" height="24" alt="Bed Bath and Beyond Guarantee" title="Bed Bath and Beyond Guarantee" border="0"></a>&nbsp;&nbsp;
+		<a href="javascript:OpenViewWindow('guarantee.asp',462,440,'yes','no');">
+	<img src="/img/guarIcon.gif;pvd0672a652ea5f1cb" width="85" height="24" alt="Bed Bath and Beyond Guarantee" title="Bed Bath and Beyond Guarantee" border="0"></a>&nbsp;&nbsp;
 					</td>
-					<td valign="top">
-						<font size="-2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">©1999-2002 Bed Bath &amp; Beyond Inc. and its subsidiaries. All rights reserved.</font>
+					<td valign="top"><font size="-2" face="Geneva, Arial, Verdana, Helvetica, sans-serif" color="white">©1999-2003 Bed Bath &amp; Beyond Inc. and its subsidiaries. All rights reserved.</font>
 					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-</tbody></table>
-</td></tr></tbody></table>
+</tbody></table></div>
 
 
-</div></body></html>
+</body></html>
