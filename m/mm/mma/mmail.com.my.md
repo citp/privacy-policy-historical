@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmail.com.my privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203095633id_/http%3A//www.mmail.com.my/privacy2_html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmail.com.my privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606062307id_/http%3A//www.mmail.com.my/privacy2_html) for the most accurate reproduction.*
 
 # Malay Mail Online
 
