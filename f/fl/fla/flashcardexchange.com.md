@@ -1,61 +1,53 @@
-> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205004228id_/http%3A//flashcardexchange.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403131816id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Main Menu: 
+At Flashcard Exchange, we take your privacy concerns regarding our service seriously, so we have created the following Privacy Policy to explain our information collection and use practices. Our Privacy Policy covers what information we collect through our service, how we use this information, how you may opt-out of this collection, the security measures we take to protect this information, and our policy regarding children under 13 years of age. By using our service, you consent and agree to the information collection and use practices described in our Privacy Policy. We may periodically make changes to our Privacy Policy. It is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it.
 
-[Home](https://web.archive.org/index.php "Home")  
-[Create Account (free)](https://web.archive.org/new_user.php "Create Account \(free\)")  
-[Directory](https://web.archive.org/directory/1090.html "Directory")  
-[Search](https://web.archive.org/search.php "Search")  
-[Features](https://web.archive.org/docs/features "Features")  
-[Getting Started](https://web.archive.org/docs/getting_started "Getting Started")  
-[Email this page to a friend](https://web.archive.org/email_a_friend.php "Email this page to a friend")  
-[About this Site](https://web.archive.org/docs/about "About this Site")  
-[Help](https://web.archive.org/help.php "Help")
+## What Information Is Collected?
 
-Members: 
-
-[Log In](https://web.archive.org/login.php "Log In")  
-[Account Info](https://web.archive.org/account_info.php "Account Info")  
-[Create Flashcards](https://web.archive.org/new_card_set.php "Create Flashcards")  
-[My Card Sets](https://web.archive.org/my_card_sets.php "My Card Sets")  
-[My Card Files](https://web.archive.org/my_card_files.php "My Card Files")  
-[Change Requests](https://web.archive.org/change_requests.php "Change Requests")  
-[Private Messages](https://web.archive.org/private_messages.php "Private Messages")  
-[Marked Cards](https://web.archive.org/marked_cards.php "Marked Cards")  
-[Favorite Sets](https://web.archive.org/favorites.php "Favorite Sets")  
-[Hot Sync List](https://web.archive.org/hot_sync.php "Hot Sync List")  
-[Log Out](https://web.archive.org/logout.php "Log Out") | 
-
-This privacy statement discloses the privacy practices for flashcardexchange, including the following sites: www.flashcardexchange.com. 
-
-## Information Collection and Use
-
-Flashcardexchange is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way other than as is disclosed in this statement. Flashcardexchange collects information from users at several different points on our web sites. 
+We may collect information from you through our website, and when you purchase or register for our service. Below are the specific details on what, where, when, and why this information is collected and how it is used.
 
 ## Registration
 
-In order to utilize some of our web sites, users must first complete a registration form. During registration, the user is required to give certain contact information (such as an e-mail address). Users receive regular newsletters detailing new developments, unless a user requests otherwise. 
+The term “personally identifiable information” means any information that may be used to identify you, including, but not limited to, your name, address, email address, Internet Protocol address, phone number, billing information, or other contact information. You may be asked for certain personally identifiable information when registering for or accessing a particular product or service. We do not share this information with any third parties.
+
+## Flashcard Exchange Database
+
+Flashcard Exchange is used to create flashcards. We store this data in our database. We use this information in aggregate to generate statistics and other usage information. We share this information with you, other end users, and other third parties.
 
 ## Cookies
 
-A cookie is a piece of data stored on a user's hard drive, containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once a user closes the browser, the cookie simply terminates. The cookie will not terminate if a user opts to save the cookie. A user might set a cookie on our site so that the user might not have to log in more than once, thereby saving time while on our sites. 
+Cookies are small text files stored by your browser on your computer when you visit a website. We use cookies to improve our website and make it easier to use. Cookies permit us to recognize you and avoid repetitive requests for the same information. Most browsers will accept cookies until you change your browser settings to refuse them. You may change your browser’s settings to refuse our cookies. However, if you do so, you may not be able access certain Flashcard Exchange services.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+## Use of Contractors
 
-## Log Files
+We may retain the service of outside contractors to perform services on our behalf (for example, to help provide technical support services or deliver new products or services). At times, we must disclose relevant personally identifiable information about you to our contractors so they may provide these specific services for us. We require our contractors to keep this information confidential and to only use the information on our behalf.
 
-We use IP addresses to analyze trends, administer the site, track user movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+## Email Communications
 
-## Links
+Periodically, we may send email to you if you have indicated a preference to receive news, updates, special offers, and other information relating to our service. You may unsubscribe from these email subscriptions at the profile web page for your account on our website.
 
-This web site contains links to other sites. Please be aware that flashcardexchange is not responsible for the privacy practices of these sites. We encourage our users to read the privacy statements of web site that collects personally identifiable information. This privacy statement applies solely to information collected by flashcardexchange. 
+## Updating Your Information
 
-Please keep in mind that whenever you voluntarily disclose personal information on line - for example, through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties. 
+If you desire to change or modify any of the information that you have previously provided to us, you may do so at the Account Info web page for your account on our website.
 
-Ultimately, you are responsible for maintaining the secrecy of your personal information and the personal information of people dependent on you. Please be careful and responsible whenever you're on line. 
+## Children
 
-## Your Consent To This Agreement
+Our service are intended solely for persons 13 years of age and older. If you are under the age of 13 you may not access or use our service. By using our service you represent and warrant to us that you are 13 years of age or older.
 
-By using our web sites, you consent to the collection and use of information by flashcardexchange as specified above. If we make any changes to our privacy policy, we will post those changes on this page, so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+## Links to Third Party Web Sites
+
+Our service may contain links to other websites and software. We are not responsible for the privacy practices or the content of these websites or software. Please visit the privacy policies of these third party sites in order o understand their privacy and information collection practices.
+
+## Disclosures Required by Law
+
+We reserve the right to disclose your personally identifiable information when we believe in good faith that an applicable law, regulation, or legal process requires it, or when we believe disclosure is necessary to protect or enforce our rights or the rights of another user.
+
+## Mergers and Acquisitions
+
+In the event that we or a portion of our assets are acquired by another company, customer information, including personally identifiable information, may be one of the transferred assets.
+
+## No Error-Free Performance
+
+We do not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our service generally. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We will not be liable for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this Privacy Policy.
