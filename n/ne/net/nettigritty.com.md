@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nettigritty.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200752id_/http%3A//hosting.nettigritty.com/tos/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettigritty.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203082806id_/http%3A//hosting.nettigritty.com/tos/privacy.html) for the most accurate reproduction.*
 
 # Hosting starts at Rs400 for 10MB per year :: nettigritty.com
 
