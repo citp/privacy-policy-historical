@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216213602id_/http%3A//www.boston.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023447id_/http%3A//boston.com/help/privacy.shtml) for the most accurate reproduction.*
 
-# Boston.com / Help
+# Boston.com / Help / Privacy Policy
 
-This user information privacy policy describes how the Web sites maintained by Boston.com—including Boston.com, The Boston Globe online, digitalMASS.com, BostonWorks.com, and all sub-sections—collect and utilize users' personally identifiable information.  It is our policy that a user controls 
+This user information privacy policy describes how the Web sites maintained by Boston.com — including Boston.com, The Boston Globe online, digitalMASS.com, and all sub-sections — collect and utilize users' personally identifiable information. It is our policy that a user controls: 
 
   * What personal identifiable information is collected 
   * What Boston.com sites can do with that information.
@@ -19,7 +19,7 @@ In accordance with the Children's Online Privacy Protection Act (COPPA), Boston.
 
 **Information Boston.com Collects:**
 
-**Optional sign up s:**   
+**Optional sign ups:**   
 If users wish to utilize certain services located on any of our sites, they must sign up. Services that require some form of sign up currently include: 
 
   * Purchase of articles from the Boston Globe archives
@@ -27,7 +27,7 @@ If users wish to utilize certain services located on any of our sites, they must
   * Participation in contests
   * On-line placement and management of classified advertisements on BostonWorks or on Boston.com
   * Use of Boston Globe subscriber services
-  * Participation as a bidder, buyer or seller in an auction 
+  * Placing an online personal ad 
   * On-line purchase of goods from The Globe Store
   * Engaging in other e-commerce transactions
   * E-mail newsletters (e-mail address only)
@@ -66,9 +66,6 @@ We also use an advertising server developed by a third party, RealMedia, to disp
 
 The user may, however, elect to provide information that he wants Boston.com to remember. Users who are comfortable providing such information about themselves can access enhanced services that we cannot offer to anonymous users. (See **Optional Registration** above for a list of such services.) 
 
-**Abuzz:** A division of New York Times Digital (as is Boston.com), Abuzz is an online network where members ask questions and give answers. Boston.com does not maintain or adminster the Abuzz site, however. Any information that a user supplies during the sign up process for Abuzz is covered by the [Abuzz privacy statement](http://info.abuzz.com/static/html/support/privacy.html?e=3.70514).   
-
-
 **Opt Out Procedures For E-mail :**
 
 If a user chooses to sign up for a Boston.com service, the user can choose not to receive communications from:
@@ -90,18 +87,17 @@ For any questions or comments regarding our information or security practices, y
   * By Fax: 617-929-8690, Attention Operations Manager
   * By Mail: Boston.com, 320 Congress Street, Boston, MA 02210-1205, Attention Operations Manager 
 
+
+
 See Boston.com's [ Help page](https://web.archive.org/help/) for additional contact information. 
 
-_Last modified March 30, 2001_
+_Last modified April 10, 2002_
 
-Send content requests or comments to [Feedback](https://web.archive.org/web/20011216213602id_/http%3A//www.boston.com/help/feedback.shtml)
+Send content requests or comments to [Feedback](https://web.archive.org/web/20020604023447id_/http%3A//boston.com/help/feedback.shtml)
 
-
-  
-  
 * * *
 
-Return to the [Help Center](https://web.archive.org/web/20011216213602id_/http%3A//www.boston.com/help/index.shtml) homepage. 
+Return to the [Help Center](https://web.archive.org/web/20020604023447id_/http%3A//boston.com/help/index.shtml) homepage. 
 
 Return to the [ Boston.com](http://www.boston.com/) homepage. 
 
