@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2001-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010811123853id_/http%3A//horseracegame.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610070324id_/http%3A//www.horseracegame.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for www.horseracegame.com
 
 ####  Home for Horse Racing Fantasy
 
- [[Back to Order Page]](https://web.archive.org/web/20010811123853id_/http%3A//horseracegame.com/order.htm)   [[Home]](https://web.archive.org/web/20010811123853id_/http%3A//horseracegame.com/index.html#top)
+ [[Back to Order Page]](https://web.archive.org/web/20020610070324id_/http%3A//www.horseracegame.com/order.htm)   [[Home]](https://web.archive.org/web/20020610070324id_/http%3A//www.horseracegame.com/index.html#top)
 
 **Clubhouse Enterprises** has created this **privacy statement** in order to demonstrate our firm commitment to privacy. We believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. The following discloses our information gathering and dissemination practices for our website: www.horseracegame.com. 
 
@@ -38,7 +38,11 @@ Scottsdale, AZ
 [email@horseracegame.com](mailto:email@horseracegame.com)
 **Glossary of Terms**
 
-**_SSL Encryption_** \- A method by which information transmitted accross the Internet is scrambled to the point where it's virtually indecipherable by anyone who should intercept the data before it reaches its destination. Most all reputable online stores make use of SSL encryption to request credit card information and other sensitive data from their customers. Web pages where SSL encryption is activated are typically identified by a lock or key symbol displayed somewhere in your browser. Refer to your browser's documentation for the specific symbol and location.   
-. 
+**_SSL Encryption_** \- A method by which information transmitted accross the Internet is scrambled to the point where it's virtually indecipherable by anyone who should intercept the data before it reaches its destination. Most all reputable online stores make use of SSL encryption to request credit card information and other sensitive data from their customers. Web pages where SSL encryption is activated are typically identified by a lock or key symbol displayed somewhere in your browser. Refer to your browser's documentation for the specific symbol and location. 
 
-**[[ORDER NOW!]](https://web.archive.org/web/20010811123853id_/http%3A//horseracegame.com/order.htm)**  [[Back to Order Page]](https://web.archive.org/web/20010811123853id_/http%3A//horseracegame.com/order.htm)   [[Home]](https://web.archive.org/web/20010811123853id_/http%3A//horseracegame.com/index.html#top)  [Top] Last Updated: 11/16/1999 Copyright (c) 1999  Gary J. Darveaux.  All rights reserved.  
+ [[Back to Order Page]](https://web.archive.org/web/20020610070324id_/http%3A//www.horseracegame.com/order.htm)   [[Home]](https://web.archive.org/web/20020610070324id_/http%3A//www.horseracegame.com/index.html#top)
+
+**Copyright © 2002   Gary J. Darveaux. All rights reserved.  
+** This Page Last Revised: June 01, 2002.   
+
+Clubhouse Enterprises, home of the best horse racing pc games 
