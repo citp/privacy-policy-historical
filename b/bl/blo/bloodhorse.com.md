@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331114050id_/http%3A//services.bloodhorse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201215139id_/http%3A//services.bloodhorse.com/privacy.asp) for the most accurate reproduction.*
 
 # Horse Racing and Breeding Information from bloodhorse.com: Calendars
 
@@ -65,4 +65,4 @@ If we decide to change our privacy policy, we will post a notification of such c
 
 If you feel that this company is not abiding by its posted privacy policy, please send an e-mail to admin@bloodhorse.com.
 
-[**Back to bloodhorse.com home**](https://web.archive.org/web/20010331114050id_/http%3A//services.bloodhorse.com/index.asp)
+[**Back to bloodhorse.com home**](https://web.archive.org/web/20011201215139id_/http%3A//services.bloodhorse.com/index.asp)
