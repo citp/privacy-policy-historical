@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622000314id_/http%3A//www.bandai.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231061657id_/http%3A//www.bandai.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # Bandai.com - Privacy Policy
 
@@ -40,3 +40,5 @@ At any time, a parent may request to view the personal information collected by 
 If you have any questions or comments on this policy, please feel free to email [webmaster@bandai.com](http://www.bandai.com/contact/contact.html) or contact to us at:
 
 In order to be in compliance with the legal requirements or to provide better customer service, BAI reserves the right to modify this policy. Any changes to the policy will be posted on our site. Thank you for taking the time to read this policy.
+
+Effective date: 06/24/04
