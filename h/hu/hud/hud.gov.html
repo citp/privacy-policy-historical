@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hud.gov privacy policy that was archived on 2004-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040623083036id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hud.gov privacy policy that was archived on 2004-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041016032133id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><!-- #BeginTemplate "/Templates/document.dwt" --><head>
 <!-- #BeginEditable "doctitle" -->
@@ -51,6 +51,213 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
+
+// -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+// Begin Foresee Survey Code
+// Everything below can be removed when survey period ends
+// -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+/*
+	MSacks 8/11/2001: Wrap the Forsee code in a ColdFusion IF statement so that the survey will only
+	work in production.  Also, both the English and Spanish websites use this same .js file, so this also
+	tests which of the sites the user is coming from and displays the appropriate triggerParams.
+*/
+
+
+	
+		// Customer : HUD Housing Model
+// Version : Advance Trigger 1.4
+
+function cppUrlPatch(s) {
+	var translated = "";
+	var i; 
+	var found = 0;
+	for(i = 0; (found = s.indexOf(':', found)) != -1; ) {
+		translated += s.substring(i, found) + "|";
+		i = found + 1;
+		found++;
+	}
+	translated += s.substring(i, s.length);
+	return translated;
+}
+
+var triggerParms = new Array(); 
+var excludeList = new Array();
+triggerParms["dt"] = 0; // disable trigger if 1
+triggerParms["mid"] = "o1YNI5VUUNl91dspEFEAdA=="; // model instance id
+triggerParms["cid"] = "UU1kQpQE9kEMJNJ40Np4xA=="; // customer id
+triggerParms["lf"] = 3; // loyalty factor
+triggerParms["sp"] = 1.0; // sample percentage
+triggerParms["npc"] = 1; // no persistent cookies if 1
+triggerParms["rw"] = 129600; // resample wait (value in minutes)
+triggerParms["pu"] = 0; // pop-under control
+triggerParms["olpu"] = 1; // On Load pop-under control
+triggerParms["lfcookie"] = "ForeseeLoyalty_MID_o1YNI5VUUN";
+triggerParms["ascookie"] = "ForeseeSurveyShown_o1YNI5VUUN";
+triggerParms["width"] = 420; // survey width
+triggerParms["height"] = 500; // survey height
+triggerParms["domain"] = ".hud.gov"; // domain name
+triggerParms["omb"] = "1505-0186"; // OMB number
+//triggerParms["cmetrics"] = "90010257"; // coremetrics client id
+triggerParms["cpp_1"] = "userURL:"+ cppUrlPatch (window.location.protocol+"://" + window.location.host + window.location.pathname); // customer parameter 1 - user URL
+//triggerParms["cpp_2"] = "Browser:"+ cppUrlPatch (navigator.userAgent); // customer parameter 2 - Browser
+triggerParms["capturePageView"] = 1;
+//excludeList[0] = "/exclude/"; //trigger script will not work under this path
+
+		// Customer : HUD Housing Model
+// Version : Advance Trigger 1.4
+
+var popUpURL = "http://www.foreseeresults.com/survey/display"; // base URL to the survey 
+
+var ckAlreadyShown = triggerParms["ascookie"]; // name of the persistent/session cookie
+
+var ckLoyaltyCount = triggerParms["lfcookie"]; // name of the loyalty count cookie
+
+var persistentExpires = new Date(); // persistent cookie expiration 
+persistentExpires.setTime(persistentExpires.getTime() + (triggerParms["rw"]*60*1000));
+
+function ForeCStdGetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i, j) == arg) {
+			return ForeCStdGetCookieVal (j);
+		}
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i == 0) {
+			break;
+		}
+	}
+	return null;
+}
+
+function ForeCStdSetCookie (name, value) {
+	var argv = ForeCStdSetCookie.arguments;
+	var argc = ForeCStdSetCookie.arguments.length;
+	var expires = (argc > 2) ? argv[2] : null;
+	var path = (argc > 3) ? argv[3] : null;
+	var domain = (argc > 4) ? argv[4] : null;
+	var secure = (argc > 5) ? argv[5] : false;
+	document.cookie = name + "=" + escape (value) +
+	((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+	((path == null) ? "" : ("; path=" + path)) +
+	((domain == null) ? "" : ("; domain=" + domain)) +
+	((secure == true) ? "; secure" : "");
+}
+
+function ForeCStdGetCookieVal(offset) {
+	var endstr = document.cookie.indexOf (";", offset);
+	if (endstr == -1) {
+		endstr = document.cookie.length;
+	}
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+function specialEscape(str) {
+	var translated = "";
+	var i; 
+	var found = 0;
+	for(i = 0; (found = str.indexOf('+', found)) != -1; ) {
+		translated += str.substring(i, found) + "%2B";
+		i = found + 1;
+		found++;
+	}
+	translated += str.substring(i, str.length);
+	return translated;
+}
+
+// this function checks to see if we are in path included in the excluded list. 
+function currentLocationExcluded() {	
+	var parentURLPath = window.location.pathname;//location path
+	for(key in excludeList) {
+		if(parentURLPath.indexOf(excludeList[key]) != -1) {
+			return true;
+		}
+	}
+	return false;
+}
+
+function Poll() { 
+	if(triggerParms["dt"] == 1) {
+		return;
+	}
+	//checks if we are in path included in the excluded list.
+	if(currentLocationExcluded()) {
+		return;
+	}
+	var stickyCounter = ForeCStdGetCookie(ckLoyaltyCount); // check counter cookie
+	var alreadyShown = ForeCStdGetCookie(ckAlreadyShown); // check if we already have shown survey
+	var pageCount;
+	var randNum = Math.random();
+	randNum *= 100;
+	if (stickyCounter == null) {
+		// create the loyalty factor cookie if we don't already have one
+		pageCount = 1; 
+		ForeCStdSetCookie(ckLoyaltyCount, pageCount, null,'/',triggerParms["domain"]);		
+		stickyCounter = ForeCStdGetCookie(ckLoyaltyCount);
+	}
+	if (stickyCounter != null) {
+		pageCount = stickyCounter;
+		if(pageCount >= triggerParms["lf"]) {
+			// apply the samplingPercentage algorithm
+			if(alreadyShown == null) {
+				if(randNum <= triggerParms["sp"]) {
+					var winOptions = "width= 1,height= 1,top= 4000,left= 4000,resizable=yes,scrollbars=yes";
+					var fullURL = popUpURL + "?" + "width=" + triggerParms["width"] +
+					"&height=" + triggerParms["height"] +
+					"&cid=" + specialEscape(escape(triggerParms["cid"])) + "&mid=" + specialEscape(escape(triggerParms["mid"]));
+					if ((triggerParms["omb"] ) != null) {
+						fullURL += "&omb=" + escape(triggerParms["omb"]);
+					}
+					
+					//Coremetrics support
+					if ((triggerParms["cmetrics"] ) != null) {
+						fullURL += "&cmetrics=" + escape(triggerParms["cmetrics"]);
+					}
+
+					// added for pop control after window is loaded
+					if (triggerParms["olpu"] == 1) {
+						fullURL += "&olpu=1";
+					}
+					// capturing Page Viewed in CPP
+					if (triggerParms["capturePageView"] == 1) {
+						triggerParms["cpp_3"] = "PageView:"+ pageCount; // customer parameter 3 - Page View
+					}
+					// extract customer passed parameters if any
+					var customerParams = "";
+					for(paramKey in triggerParms) {
+						if(paramKey.substring(0,3) == "cpp"){
+							fullURL += "&" + paramKey + "=" + escape(triggerParms[paramKey]);
+						}
+					}
+					// insure that we only pop up once during the lifetime of the cookie
+					if(triggerParms["npc"] == 1) {
+						ForeCStdSetCookie(ckAlreadyShown, 'true',null,'/',triggerParms["domain"]);
+					} else {
+						ForeCStdSetCookie(ckAlreadyShown, 'true', persistentExpires,'/',triggerParms["domain"]);
+					}
+					var myPopUp = window.open(fullURL, 'survey',winOptions);
+					if (triggerParms["pu"] == 1){
+						self.focus();
+					} else {
+						myPopUp.focus(); //focusing on survey window								
+					}
+				}
+			}
+		}	
+		// increment it and set the new cookie value
+		pageCount++;
+		ForeCStdSetCookie(ckLoyaltyCount, pageCount, null,'/',triggerParms["domain"]);		
+	}
+}
+		Poll();
+	
+
+// -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+// End Foresee Survey Code
+// -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 //-->
 </script>
 <!-- End_common_javascript -->
@@ -193,7 +400,10 @@ function MM_swapImage() { //v3.0
 			<td width="171" height="61" bgcolor="#990000">
 				
 					<a href="/">
-						<img src="/images/common/hgv-bnr-logo2.gif" alt="U.S. Department of Housing and Urban Development:" width="171" height="61" border="0">
+						
+					
+							<img src="/images/common/hgv-bnr-logo2.gif" alt="[Logo: Homes and Communities: U.S. Department of Housing and Urban Development]" width="171" height="61" border="0">
+						
 					</a>
 				
 			</td>
@@ -254,7 +464,7 @@ function MM_swapImage() { //v3.0
 
    <!-- HGVtopics build 01/27/2003 -->
 
-      <!--Generated by: 08/04/200311:02:38-->
+		<!--Generated by: 08/30/200410:30:36-->
 <!--Begin_Navigation_Content-->
 <table cellspacing="3" cellpadding="0" border="0">
 <tbody><tr></tr><tr><td width="10"></td><td colspan="2"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="2" color="ffaa00"><b>HUD news</b></font></td></tr>
@@ -295,7 +505,11 @@ function MM_swapImage() { //v3.0
 <tr><td width="10"></td><td colspan="2"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><a href="/subscribe/index.cfm" class="leftnavitem">Mailing lists</a></font></td></tr>
 <tr><td width="10"></td><td colspan="2"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><a href="/assist/contactus.cfm" class="leftnavitem">Contact us</a></font></td></tr>
 <tr><td width="10"></td><td colspan="2"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><a href="/assist/index.cfm" class="leftnavitem">Help</a></font></td></tr>
-
+<tr style="line-height: 4px;"><td width="10"></td><td colspan="2">&nbsp;</td></tr>
+<tr><td width="10"></td><td colspan="2"><a href="http://www.firstgov.gov"><img src="/images/common/hgv-tpc-firstgov.gif" alt="[FirstGov: Your First Click for the U.S. Government]" width="130" height="36" hspace="0" vspace="0" border="0"></a></td></tr>
+<tr style="line-height: 4px;"><td width="10"></td><td colspan="2">&nbsp;</td></tr>
+<tr><td width="10"></td><td colspan="2"><a href="http://www.whitehouse.gov"><img src="/images/common/hgv-tpc-whitehouse.gif" width="130" height="47" border="0" align="bottom" alt="The White House"></a></td></tr>
+<tr style="line-height: 4px;"><td width="10"></td><td colspan="2">&nbsp;</td></tr>
 <!--End of Navigation Content-->
 
 		</tbody></table>
@@ -305,19 +519,10 @@ function MM_swapImage() { //v3.0
 
 
 
-<p align="center"><a href="http://www.firstgov.gov/"><img src="/images/common/hgv-tpc-firstgov.gif" alt="[FirstGov: Your First Click for the U.S. Government]" width="130" height="36" hspace="0" vspace="0" border="0"></a>
-&nbsp;<br>
-</p><p align="center"><a href="http://www.whitehouse.gov"><img src="/images/common/hgv-tpc-whitehouse.gif" width="133" height="48" border="0" align="bottom" alt="The White House"></a>&nbsp;<br>
-
-
-<br>
-
-
-
 
    
 <!-- End Navigation Content -->					
-					</p></td>
+					</td>
 					<td width="5" align="left" valign="top"></td>
 				</tr>
 <!-- End Navigation Area -->				
