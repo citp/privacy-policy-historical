@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209040126id_/http%3A//www.usb.org/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603205114id_/http%3A//www.usb.org/statement) for the most accurate reproduction.*
 
 # USB.org - Privacy Statement
+
+[Home](http://www.usb.org/) [](http://www.usb.org/) > **Privacy Statement**
 
 Privacy Statement for USB Implementers Forum, Inc.  
 **(www.usb.org)**
@@ -11,7 +13,7 @@ USB Implementers Forum, Inc. (USB-IF) has created this privacy statement in orde
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is used to gather broad demographic information.
 
 **Registration Form**  
-Our site's registration form may require users to give us contact information (like their name and email address), financial information (like their credit card numbers), and demographic information (like their zip code or hotel preferences). We use user contact information from the registration form to send the user information about our organization. Membership information is used in accordance with the membership agreement and bylaws. The member's contact information is also used to contact the visitor when necessary. A member's name and email address is also available to all other members in a contact list in a password-protected area. Members control whether or not their name is displayed on this contact list. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services ordered. Demographic and profile data is also collected at our site. We use this data to determine where we should locate different events. Additionally, our members may be required to sign a non-disclosure agreement.
+Our site's registration form may require users to give us contact information (like their name and email address), financial information (like their credit card numbers), and demographic information (like their zip code or hotel preferences). We use user contact information from the registration form to send the user information about our organization. Membership information is used in accordance with the membership agreement and bylaws. The member's contact information is also used to contact the visitor when necessary. A member's name and email address is also available to all other members in a contact list in a password-protected area. Members control whether or not their name is displayed on this contact list. Users may opt-out of receiving future mailings; see the [choice/opt-out section](http://www.usb.org/statement/#choice) below. Financial information that is collected is used to bill the user for products and services ordered. Demographic and profile data is also collected at our site. We use this data to determine where we should locate different events. Additionally, our members may be required to sign a non-disclosure agreement.
 
 **Links**  
 This site contains links to other sites. USB-IF is not responsible for the privacy practices or the content of such Web sites.
@@ -20,13 +22,13 @@ This site contains links to other sites. USB-IF is not responsible for the priva
 Our site is developed, hosted and maintained by a third party who has access to all information on this site. This "Powered by" partner is responsible for maintaining the privacy described in this statement. The third party retains no rights or privileges associated with the information (i.e. cannot distribute, sell, exchange the information collected).
 
 **Order Form**  
-Our site may use an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information (like their credit card numbers), and demographic information (like their zip code). Contact information from the order form is used to send orders to our customers. The user's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Additionally we may require a customer to sign a license agreement.
+Our site may use an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information (like their credit card numbers), and demographic information (like their zip code). Contact information from the order form is used to send orders to our customers. The user's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the [choice/opt-out section](http://www.usb.org/statement/#choice) below. Financial information that is collected is used to bill the user for products and services. Additionally we may require a customer to sign a license agreement.
 
 **Cookies**  
 The USB-IF sites do not use cookies. 
 
 **Surveys**  
-Our online surveys may ask visitors for contact information (like their email address). The user's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Our online surveys may ask visitors for contact information (like their email address). The user's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the [choice/opt-out section](http://www.usb.org/statement/#choice) below. 
 
 **Forums**  
 This site makes forums, message boards, and/or news groups available to its users. The web site may have both "members only" (password-protected) forums and "non-members" forums. Please remember that any information that is disclosed in these areas may become public information and you should exercise caution when deciding to disclose your personal information. 
@@ -54,7 +56,7 @@ This site gives users the following options for changing and modifying informati
   1. You may send email to [admin@usb.org](mailto:admin@usb.org)
   2. You may send mail to the following postal address:   
 _5440 SW Westgate Drive, Suite 217 Portland, OR 97221_
-  3. Visit [www.usb.org/app/members/](https://web.archive.org/app/members/)
+  3. Visit [www.usb.org/app/members/](http://www.usb.org/app/members/)
   4. You may call +1 (503) 296-9892
 
 
