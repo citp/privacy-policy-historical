@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newport-news.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206084350id_/http%3A//www.newport-news.com/info/privacy_policy.asp%3Fcat_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport-news.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603072152id_/http%3A//www.newport-news.com/info/privacy_policy.asp%3Fcat_id%3D12) for the most accurate reproduction.*
 
 # Newport News: Privacy Policy
 
@@ -8,7 +8,7 @@
 **We realize that making purchases at newport-news.com, or any other website, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we are committed to ensuring the privacy of your personal information and will use any information you give us in a responsible manner. You are very important to us and we are dedicated to providing you with a safe and secure online experience.**
 
 **This privacy Statement describes how we collect and use your information and gives you choices as to how we use it. We suggest that you review this Privacy Statement periodically as we may update it from time to time.  
-This policy was last revised on 05/03/02.**
+This policy was last revised on 05/06/04.**
 
 What information do we collect?  
 How do we use your information?  
@@ -49,9 +49,11 @@ We may also contact you by mail or telephone if we have questions about your ord
 
 We may provide your name, address and phone number (but not your e-mail address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please Click Here for information on where to contact us if you do not want us to share this information with third parties.
 
-In some instances, we use third party vendors to help us in providing our products and services to you to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information other than in helping us to provide you with the products and services available on our site. For more information about these companies, [Click Here](https://web.archive.org/web/20031206084350id_/http%3A//www.newport-news.com/info/thirdparties.asp).
+In some instances, we use third party vendors to help us in providing our products and services to you to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information other than in helping us to provide you with the products and services available on our site. For more information about these companies, [Click Here](https://web.archive.org/web/20040603072152id_/http%3A//www.newport-news.com/info/thirdparties.asp).
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
+
+In the event that there is a change in control of Newport News, Inc., or, if all, or substantially all, of the assets of Newport News, Inc. are sold to a third party, we may transfer the information on our customer file to the third party. This information may include your name, mailing address and email address among other information. Please know that if such a transfer takes place, the third party acquiring the information will be advised of your preferences about how we use your information. After the transfer takes place, use of your information is subject to the privacy statement of the third party that acquires it. The acquiring company may continue to operate the Newport News website, if so, you should check this privacy statement periodically to determine how the acquiring entity will use your information. 
 
 Return to top.
 
