@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622084943id_/http%3A//creativecommons.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211204232id_/http%3A//creativecommons.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Creative Commons
 
 This Privacy Policy explains the collection, use, and disclosure of Personal Information through our web site. "Personal Information" means information that would allow a party to contact you, including, for example, your full name, address, telephone number, or email address. 
 
 Submitted Information. We collect Personal Information about you when you submit information or requests to us (through this website or otherwise). We use your submitted information to send you emails that you have requested, and for administrative purposes (such as to notify you about changes to this Privacy Policy). In emails we send you, we generally provide a method to unsubscribe from future emails. 
+
+Creative Commons will use Personal Information submitted with entries for the [GET CREATIVE! Moving Image Contest](http://creativecommons.org/contest/) for the purposes of the contest only: to identify entries by their authors, to verify receipt of entries, and to notify contest winners.
 
 Note, however, that when you submit your email address as part of our licensing application, we use this address for no purpose other than to email you the RDF, html, and the Uniform Resource Locator that corresponds to the license you selected. Your email address is expunged from our logs after this email has been successfully sent.
 
