@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409155904id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008171019id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
 
 # azfamily.com | Phoenix | Belo Interactive Privacy Policy
 
