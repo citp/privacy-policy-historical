@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2002-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020811104929id_/http%3A//www.prosperitybanktx.com/Internet_Bank/Net_Bank_Disclosure/Privacy_Policy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603233905id_/http%3A//www.prosperitybanktx.com/Internet_Bank/Net_Bank_Disclosure/Privacy_Policy/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy
 
 This notice applies to  individuals (and their legal representatives) who obtain Prosperity BankSM financial products or services on both an ongoing and occasional basis, which are to be used  primarily for personal, family or household purposes. **WHAT WE COLLECT** Information we collect about you includes information you provide in:   
-§  Account or credit applications or under loan agreements, whether written, by telephone or electronic means  
-§ Credit and other consumer reports, such as your credit history or character references, and  
+§ Account or credit applications or under loan agreements, whether written, by telephone or electronic means  
+§  Credit and other consumer reports, such as your credit history or character references, and  
 § Our transaction experiences with you, such as collateral, account balances or mortgage information.
 
- **HOW WE SAFEGUARD INFORMATION**
+ **HOW WE SAFEGUARD INFORMATION **
 
 Furthermore, we have implemented reasonable policies, procedures and controls to help safeguard and prevent unauthorized disclosure of customer financial information and detect any such unauthorized disclosures.  Prosperity BankSM employees are trained to handle matters of utmost confidence and importance to our customers in a manner consistent with applicable law and this notice.  In addition, only employees actively engaged in the discharge of assigned duties involving customer information are authorized to access that information. 
 
@@ -43,19 +43,26 @@ Use of Information About You—
 
 Prosperity BankSM reserves its right to disclose financial information to nonaffiliated third party service providers to the fullest extent permitted by law. 
 
-QUESTIONS?        [PLEASE CONTACT YOUR  LOCAL  BANKING CENTER.](https://web.archive.org/web/20020811104929id_/http%3A//www.prosperitybanktx.com/About_Us/about_us.HTM)
+QUESTIONS?        [PLEASE CONTACT YOUR  LOCAL  BANKING CENTER.](https://web.archive.org/web/20030603233905id_/http%3A//www.prosperitybanktx.com/About_Us/about_us.HTM)
 
 PROSPERITY BANKSM –
 
 PROSPERITY BANCSHARESSM
 
- JUNE 2002
+APRIL 2003
 
- _Prosperity Bank is chartered under the laws of the State of Texas and by state law is subject to regulatory oversight by the Texas Department of Banking.   Any consumer wishing to file a complaint against Prosperity Bank should contact the Texas Department of Banking through one of the means indicated below:
+ _Prosperity Bank SM is chartered under the laws of the State of Texas and by state law is subject to regulatory oversight by the Texas Department of Banking.  Any consumer wishing to file a complaint against Prosperity BankSM  should contact the Texas Department of Banking.
 
-In Person or U.S. Mail: 2601 North Lamar Boulevard, Suite 300, Austin Texas 78705-4294   
-Fax No.: 512-475-1313  
-E-mail: 
+Prosperity BankSM also engages in the business of selling checks as an agent for a company licensed under the laws of the State of Texas and subject to regulatory oversight by the Texas Department of Banking.  Any consumer wishing to file a complaint concerning sale of checks activities should contact the Texas Department of Banking. 
 
-_[_consumer.complaints@banking.state.tx.us_](mailto:consumer.complaints@banking.state.tx.us) _  
-Website: www.banking.state.tx.us_
+Consumers may file complaints with the Texas Department of Banking by contacting the Department through one of the means indicated below:
+
+ **In Person or U.S. Mail:** Texas Department of Banking  
+                                           2601 North Lamar Boulevard, Suite 300   
+                                           Austin Texas 78705-4294   
+**By Telephone:**                 1-877-276-5544 (toll free)  
+ **By Fax:**                            1-512-475-1313  
+ **By E-mail:**
+
+_[ __consumer.complaints@banking.state.tx.us](mailto:consumer.complaints@banking.state.tx.us)  
+ ** _Website:_** _                           www.banking.state.tx.us_
