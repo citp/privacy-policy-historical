@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the providencejournal.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602074953id_/http%3A//www.projo.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providencejournal.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204223023id_/http%3A//www.projo.com/registration/privacy.html) for the most accurate reproduction.*
 
 # projo.com | Providence | Privacy Policy
 
-**Updated as of July 1, 2002**
+**Updated as of October 14, 2003**
 
 This Privacy Policy discloses the general privacy practices for the Belo Interactive web sites, including **Projo.com**. Belo Interactive, Inc. ("Belo Interactive") is a subsidiary of Belo Corp. 
 
@@ -48,6 +48,14 @@ The Site may offer forums, message boards, or chat rooms as one of the services 
 
 Our Sites may operate as part of a larger group of sites, and may carry co-branded pages.  In addition, other sites may use the Site's or Belo Interactive's name.  Since Belo Interactive does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of such third parties, and Belo Interactive shall not be responsible for the use or dissemination of your private information by such parties.  Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others. 
 
+### Third Party Advertising
+
+We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+### Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
 ### Links to Other Materials
 
 Third party sites linked to and from the Site are not necessarily under the control of Belo Interactive.  Belo Interactive shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time.  Belo Interactive does not necessarily endorse companies (or related products or services) to or from which the Site is linked.  If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. 
@@ -91,4 +99,4 @@ If you have any questions or comments about our Privacy Policy, please contact u
 
 ### Effective Date and Changes
 
-This Privacy Policy is effective as of July 1, 2002.  Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page.  Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes.
+This Privacy Policy is effective as of October 14, 2003.  Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page.  Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes.
