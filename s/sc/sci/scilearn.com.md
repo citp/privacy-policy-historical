@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the scilearn.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603163740id_/http%3A//scilearn.com/pol/index.php3%3Fmain%3DPrivPol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scilearn.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205102032id_/http%3A//www.scilearn.com/pol/index.php3%3Fmain%3DPrivPol) for the most accurate reproduction.*
 
 # Scientific Learning: Announcements
+
+### Privacy Statement for  
+ScientificLearning.com
 
 Scientific Learning Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: ScientificLearning.com.
 
@@ -58,20 +61,10 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact 
 
-Webmaster
-
-Scientific Learning Corporation
-
-300 Frank H. Ogawa Plaza 
-
-Suite 500
-
-Oakland, CA 94612-2040
-
-  
+Webmaster   
+Scientific Learning Corporation   
+300 Frank H. Ogawa Plaza   
+Suite 500   
+Oakland, CA 94612-2040   
 16th Street/Telegraph Avenue   
-[[Click here for map]](http://www.mapquest.com/cgi-bin/ia_find?link=btwn/twn-map_results&zoom_level=9&uid=up6805m4&SNVData=3mad3-96,hr%3bba56zx%3d%3d2l10tl0.hqu%3b%28xu6%2b%19%14%17LZ%2bM%2bIS%17N%13%2bH%13%17%2b%15MM%2b472%3dBVZN%17LE%3dLV_hwzn1%3da2uu%28%11E%3aba56zx%3d%3d2l10tl0%3aa%3bwh%7c2%24hgv%28l3iedgv%245l1t%3b8&pcat=)
-
 [webmaster@scilearn.com](mailto:webmaster@scilearn.com)
-
-[Return Home](http://www.scilearn.com/)
