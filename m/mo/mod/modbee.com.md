@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modbee.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202020824id_/http%3A//www.modbee.com/standing/help/story/715247p-776292c.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modbee.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207144547id_/http%3A//www.modbee.com/standing/help/story/715247p-776292c.html) for the most accurate reproduction.*
 
 # Modbee.com | The Modesto Bee
 
