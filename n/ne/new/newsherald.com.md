@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the newsherald.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402160850id_/http%3A//www.newsherald.com/privacyact.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsherald.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206200051id_/http%3A//www.newsherald.com/new/privacypolicy.htm) for the most accurate reproduction.*
 
-# newsherald.com: Privacy Act
-
-**[ ](http://www.newsherald.com/) ** | 
+# The News Herald, Panama City, FL.
 
 ### Freedom Interactive  
 Media Online Privacy Policy
 
-THE NEWS HERALD Web site is maintained by Freedom Interactive Newspapers of Florida, Inc., 36008 Emerald Coast Parkway #501, Destin, Florida 32541. We can be reached by e-mail at jcoleman@link.freedom.com. 
+THE NEWS HERALD Web site is maintained by Freedom Interactive Newspapers of Florida, Inc., 36008 Emerald Coast Parkway #501, Destin, Florida 32541. We can be reached by e-mail at flportal@link.freedom.com. 
 
 HOW THE NEWS HERALD USES INFORMATION PROVIDED BY YOU: This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information may be used by The News Herald and its affiliates for editorial purposes. THE NEWS HERALD may also use such information for marketing and promotional purposes. We may share your personally identifiable information with other companies with which we conduct business. For example, if you enter our contests, make a purchase or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. Or if you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While THE NEWS HERALD will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, THE NEWS HERALD does not bear any responsibility for any actions or policies of any third parties. 
 
-Except for purposes outlined above, we do not provide, sell or lease your personally identifiable information to any third parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what is done with your information on any part of THE NEWS HERALD, please e-mail us at THE NEWS HERALD at jcoleman@link.freedom.com, before submitting any information. 
+Except for purposes outlined above, we do not provide, sell or lease your personally identifiable information to any third parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what is done with your information on any part of THE NEWS HERALD, please e-mail us at THE NEWS HERALD at flportal@link.freedom.com, before submitting any information. 
 
 We also collect anonymous, aggregated data and provide it to our advertisers and other companies that we do business with for market research and statistical purposes. For example, we might report to our advertisers that a certain percentage of users are between the ages of 30-35. 
 
@@ -23,12 +21,4 @@ CHILDREN: Be sure to ask your parents for permission before you send any informa
 
 PARENTS: We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifiable information collected by THE NEWS HERALD from children (that we are aware are children) will be used only for THE NEWS HERALD internal purposes such as market research, sweepstakes fulfillment and for fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to other companies which we do business with, for statistical and market research purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various forums, or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
 
-Again, if you have any concerns regarding your child's or your use of THE NEWS HERALD, please contact us at jcoleman@link.freedom.com.  ****
-
-**
-
-* * *
-
-© _The News Herald_  
-[Copyright Notice](http://www.newsherald.com/copyright.htm)  
-**************
+Again, if you have any concerns regarding your child's or your use of THE NEWS HERALD, please contact us at flportal@link.freedom.com. 
