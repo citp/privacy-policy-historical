@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cavenders.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603223237id_/http%3A//www.cavenders.com/privacy.asp%3F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cavenders.com privacy policy that was archived on 2001-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011214072706id_/http%3A//www.cavenders.com/privacy.asp%3F) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy and Security</title>
@@ -16,15 +16,39 @@
 <area alt="Specials" coords="654,25,719,42" href="specials.asp?specials=1" shape="RECT">
 <area alt="Search" coords="388,47,451,65" href="http://www.cavenders.com/find.asp?" shape="RECT">
 <!--<area alt="Account Settings" coords="456,47,574,65" href="http://www.cavenders.com/shopper_lookup.asp?" shape="RECT">-->
-<area alt="Account Settings" coords="456,47,574,65" href="https://www.cavenders.com/shopper_update.asp?" shape="RECT">
+<area alt="Account Settings" coords="456,47,574,65" href="https://www.cavenders.com/account.asp?" shape="RECT">
 <area alt="Site Map" coords="579,47,650,65" href="http://www.cavenders.com/sitemap.asp?" shape="RECT">
 <area alt="Help" coords="654,47,719,65" href="http://www.cavenders.com/help.asp?" shape="RECT">
 </map>
+
 
 <table width="733" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 	<td width="150" valign="top">
 		 
+<script language="JavaScript" src="Scripts/form_validation.js"></script>
+<script language="JavaScript">
+function popUpEmail(form){
+	if (!validEmail(form.email.value)){
+		alert("The email address you entered is invalid.");
+		form.email.focus();
+		return false;
+	}else{		
+		email = form.email.value;
+		if (confirm("Is this your email address: " + email + "\nIf not please click cancel and correct your email address.")){			
+			url = "new_email.asp?new=" + email;
+			sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=275,height=300');
+			self.name = "mainWin";
+			form.email.value = "";
+			return false;
+		}else{
+			form.email.value = "";
+			form.email.focus();
+			return false;
+		}
+	}	
+}
+</script>
 <style type="text/css">	<!--
 	A {
 		color : #8B0000;
@@ -32,7 +56,16 @@
 		font-size : 8pt;text-decoration : none;
 	}
 	Select {
+		font-family : Arial, Helvetica, sans-serif;
+		font-size : 8pt;
+	}
+	td {
+		color : #8B0000;
 		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size : 8pt;text-decoration : none;
+	}
+	Input {
+		font-family : Arial, Helvetica, sans-serif;
 		font-size : 8pt;
 	}
 	-->
@@ -40,17 +73,28 @@
 
 <table width="160" border="0" cellspacing="1" cellpadding="0" bordercolor="Blue">
 	<tbody><tr>
+		<td colspan="2"><img src="Images/email.gif" border="0" alt="On-line Shopping" width="160" height="30"></td>
+	</tr>
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<form action="default.asp" method="post" name="email_form" id="email_form" onsubmit="return popUpEmail(this)"></form>
+		
+			<td><table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td colspan="2">Signup to get hot deals and exclusive offers, enter E-mail address:</td></tr><tr><td valign="center"><input type="text" name="email" size="16" maxlength="50"> </td><td valign="center" align="center" width="25%"><input type="image" name="go_button" src="images/go-button.gif" alt="Go!" onclick="return popUpEmail(this.form)" width="21" height="21"></td></tr></tbody></table></td>
+		
+		
+	</tr>	
+	<tr>
 		<td colspan="2"><img src="Images/shopping.gif" border="0" alt="On-line Shopping" width="160" height="30"></td>
 	</tr>	
 
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=5">Men's Footwear</a></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=5">Men's Boots &amp; Shoes</a></td>
 	</tr>
 
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=10">Men's Apparel</a></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=10">Men's Shirts &amp; Apparel</a></td>
 	</tr>
 
 	<tr>
@@ -65,7 +109,7 @@
 
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=25">Ladies' Footwear</a></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=25">Ladies' Boots &amp; Shoes</a></td>
 	</tr>
 
 	<tr>
@@ -89,6 +133,31 @@
 	</tr>
 
 	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=50">Belts &amp; Buckles</a></td>
+	</tr>
+
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=55">Wallets &amp; Handbags</a></td>
+	</tr>
+
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=60">Watches &amp; Jewelry</a></td>
+	</tr>
+
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=65">Great Gift Ideas</a></td>
+	</tr>
+
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=75">Luggage &amp; Bags</a></td>
+	</tr>
+
+	<tr>
 		<td colspan="2"><img src="Images/shopbybrand.gif" border="0" alt="" width="160" height="30"></td>
 	</tr>
 	<tr>
@@ -101,21 +170,13 @@
 			<select name="vendor" size="1" onchange="this.form.submit()">
 				<option value="0" selected="">Select a Brand</option>
 	
-				<option value="19">Acme®                                             </option>
-	
-				<option value="63">American Hat                                      </option>
-	
-				<option value="20">American West                                     </option>
-	
 				<option value="21">Ariat®                                            </option>
 	
-				<option value="65">Atwood® Hat                                       </option>
+				<option value="81">Carhartt®                                         </option>
 	
 				<option value="25">Cavender’s®                                       </option>
 	
 				<option value="26">Cinch®                                            </option>
-	
-				<option value="68">Cowtown Boots                                     </option>
 	
 				<option value="28">Cruel Girl®                                       </option>
 	
@@ -131,41 +192,27 @@
 	
 				<option value="34">Laredo®                                           </option>
 	
-				<option value="35">Larry Mahan®                                      </option>
+				<option value="125">Larry Mahan® Boots                                </option>
 	
-				<option value="36">Lawman®                                           </option>
+				<option value="126">Lucchese® 2000                                    </option>
 	
-				<option value="38">Lucchese®                                         </option>
-	
-				<option value="39">M&amp;F®                                              </option>
-	
-				<option value="70">Magnum®                                           </option>
-	
-				<option value="40">Master Hatters®                                   </option>
+				<option value="127">Lucchese® Classics                                </option>
 	
 				<option value="64">Milano® Hat                                       </option>
 	
-				<option value="42">Resistol®                                         </option>
+				<option value="99">Montana Silversmiths®                             </option>
 	
-				<option value="62">Rhythm Blue®                                      </option>
+				<option value="42">Resistol®                                         </option>
 	
 				<option value="43">Rocky Mountain®                                   </option>
 	
-				<option value="44">Rodeo King®                                       </option>
-	
-				<option value="69">Roper®                                            </option>
-	
-				<option value="45">Ruddock®                                          </option>
+				<option value="48">Scully-Wahmaker®                                  </option>
 	
 				<option value="50">Stetson®                                          </option>
 	
-				<option value="53">Texas®                                            </option>
-	
 				<option value="54">Tony Lama®                                        </option>
 	
-				<option value="55">Tuff Hedeman®                                     </option>
-	
-				<option value="48">Wahmaker®                                         </option>
+				<option value="110">Vogt®                                             </option>
 	
 				<option value="57">Wolverine®                                        </option>
 	
@@ -192,7 +239,11 @@
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<td align="left"><a href="http://www.cavenders.com/careers.asp?">Career Opportunities</a></td>
+		<td align="left"><a href="http://www.cavenders.com/orderinfo.asp?">Order Information</a></td>
+	</tr>
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left"><a href="http://www.cavenders.com/orderinfo.asp?#Availability">Product Availability</a></td>
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
@@ -200,7 +251,15 @@
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<td align="left"><a href="http://www.cavenders.com/termsofuse.asp?">Legal Notice</a></td>
+		<td align="left"><a href="http://www.cavenders.com/orderinfo.asp?#Tracking">Shipment Tracking</a></td>
+	</tr>
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left"><a href="http://www.cavenders.com/orderinfo.asp?#International">International Orders</a></td>
+	</tr>
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left"><a href="http://www.cavenders.com/careers.asp?">Career Opportunities</a></td>
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
@@ -209,6 +268,10 @@
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
 		<td align="left"><a href="http://www.cavenders.com/contactus.asp?">Contact Us</a></td>
+	</tr>
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left"><a href="http://www.cavenders.com/faqlist.asp?">FAQ</a></td>
 	</tr>
 	<tr>
 		<td colspan="2"><img src="Images/leather_bottom.jpg" border="0" alt="" width="160" height="74"></td>
