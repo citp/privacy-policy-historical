@@ -1,11 +1,46 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607143333id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206065509id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma Privacy Policy
 
+|   **Free Newsletter     
+**  
+---  
   
+ 
 
-
+  
+    
+  [Your Privacy Matters](http://www.isixsigma.com/uagree/privacy.asp)   
+  [Previously Subscribed?](http://www.isixsigma.com/newsletter/subscribe_process.asp)  
+  
+  [ **New To Six Sigma?**](http://www.isixsigma.com/library/content/six-sigma-newbie.asp)  
+  [ **Six Sigma Q &A**](http://www.isixsigma.com/library/content/c010204a.asp)  
+  **Quality Directory**    
+  [ **Best Practices**](http://www.isixsigma.com/bp)  
+  [ **Certifications/Awards**](http://www.isixsigma.com/ca)  
+  [ **Consultants**](http://www.isixsigma.com/co)  
+  [ **Culture Evolution**](http://www.isixsigma.com/ce)  
+  [ **Methodologies**](http://www.isixsigma.com/me)  
+  [ **News & Events**](http://www.isixsigma.com/ne)  
+  [ **Organizations**](http://www.isixsigma.com/or)  
+  [ **Statistics & Analysis**](http://www.isixsigma.com/st)  
+  [ **Tools & Templates**](http://www.isixsigma.com/tt)  
+  [ **Voice of the Customer**](http://www.isixsigma.com/vc)  
+  **Quick Access**    
+  [ **Help**](http://www.isixsigma.com/help)  
+  [ **Search**](http://www.isixsigma.com/search)  
+  [ **Advertise Here**](http://www.isixsigma.com/adsales)  
+  [ **Article Archives**](http://www.isixsigma.com/spotlight)  
+  [ **Newsletter Archives**](http://www.isixsigma.com/newsletter/archive)  
+  **User Feedback**    
+  Please suggest site  
+  improvements.  
+   
+  [ [larger form](http://www.isixsigma.com/suggestion/default.asp) ]  
 |   
+
+
+|  |   
 ---|---  
   
 iSixSigma takes your privacy seriously. We have created this page to clearly identify what iSixSigma will and won't do with the information that is collected on the site.
@@ -45,4 +80,5 @@ iSixSigma may amend this policy from time to time. If we make any substantial ch
 If you have questions or suggestions complete a [feedback form](http://www.isixsigma.com/contactus/) or send an email to [PrivacyPolicy@iSixSigma.com](mailto:PrivacyPolicy@iSixSigma.com).
 
   
-
+[**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)   
+|  Make Us Your Homepage!
