@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604103646id_/http%3A//www.travelzoo.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204180609id_/http%3A//www.travelzoo.com/Privacy.asp) for the most accurate reproduction.*
 
 # Travelzoo - Privacy Statement
 
@@ -12,7 +12,7 @@ Since 1998, Travelzoo® is a member of the TRUSTe program. This statement disclo
   2. How the information is used 
   3. With whom the information will be shared 
 
-Questions regarding this statement should be directed to the Travelzoo [site coordinator](mailto:webmaster@travelzoo.com). If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/users/watchdog.html) (www.truste.org/users/_watchdog.html). To return to the Site, please use the "Back" button on your browser. 
+Questions regarding this statement should be directed to the Travelzoo [site coordinator](http://www.travelzoo.com/help/Suggestions.htm). If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/users/watchdog.html) (www.truste.org/users/_watchdog.html). To return to the Site, please use the "Back" button on your browser. 
 
 Travelzoo Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; Travelzoo.
 
@@ -26,13 +26,17 @@ The Site includes a Service Center for Travelzoo shareholders. This section is p
 
 Travelzoo publishes a newsletter called "Travelzoo Top 20." Users can sign up for the newsletter from our home page by providing their first name, email address, and zip code. This information will not be shared with third parties. Recipients can unsubscribe to the newsletter by visiting the [edit profile page](http://www.travelzoo.com/profiles). Information on how to unsubscribe is also included at the bottom of every newsletter. 
 
-We have security measures in place to protect user information under our company's control against loss, misuse, or alteration. 
+We have security measures in place to protect user information under our company's control against loss, misuse, or alteration. Access to private and confidential data is limited to only those employees with a specific need to retrieve this information. Data is stored on multiple service systems and written to tapes. All server systems are located in a secure, limited access Class A facility complete with environmentally controlled conditions, raised floors, and dry sprinkler systems. 
 
-A message will be posted on our home page in the event that any change to Travelzoo's privacy statement is made. 
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 Advertising customers can contact advertising sales by filling out a form. This form asks for their name, company name, phone, fax, and e-mail. This is an optional feature. This information will not be shared with any third parties. 
 
-This site contains links to other sites. Their privacy policies may differ from that of Travelzoo. 
+This site contains links to other sites. Please be aware that Travelzoo is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+### Legal Disclaimer
+
+Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
 ### Contacting the Web Site
 
