@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the classicrockmagazine.com privacy policy that was archived on 2001-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010208185309id_/http%3A//classicrockmagazine.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrockmagazine.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606224543id_/http%3A//www.metalhammer.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Classic Rock Magazine
+# Metal Hammer
 
-### Privacy Policy covering the websites of Future Publishing Ltd.
+**Privacy Policy covering the websites of Future Publishing Ltd.**
 
 Future Publishing Ltd.  
 Beauford House  
@@ -12,10 +12,10 @@ BA1 2BW
 England
 
 Tel: 01225 442244  
-[www.futurenet.co.uk](http://www.futurenet.co.uk/)
+[www.futurenet.com](http://www.futurenet.com/)
 
 **General policy**  
-Future Publishing Ltd. respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please email [webmaster@futurenet.co.uk](mailto:webmaster@futurenet.co.uk)
+Future Publishing Ltd. respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please email [metalhammer@futurenet.co.uk](mailto:metalhammer@futurenet.co.uk)
 
 **Email newsletters**  
 Future operates email newsletters on many of its sites. These are free to sign up to. What we ask of you is your email address, at times we may ask you for further information, which is used for demographic purposes. We do not give our email lists out to other parties unless you choose to opt in to a scheme whereby third parties may use your details for their own purposes. Our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer. If at any time you wish to unsubscribe from our newsletter you may do so by visiting the site you signed up with and using the unsubscribe facility. You may also email the website editor although it may take a longer time before your email address is removed than with the automatic unsubscribe facility.
@@ -30,13 +30,15 @@ Some of our sites permit the emailing of content from you to another person for 
 Many of our sites operate with third party sites (such as online shops). We may, on occasion, share non-personal aggregated information to these third parties. 
 
 **Cookies**  
-We use 'cookies' to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. 
+We use ‘cookies’ to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. 
+
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects and stores anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 **Surveys**  
 On occasion we may conduct online surveys. This is used to gauge our service, collect demographic information and other information that we may find useful. These surveys are optional. We may share non-personal, aggregated information with third parties.
 
 **Affiliates**  
-Many of our sites have affiliated websites operated by third parties. The content on these sites are not under our control. If you have any questions concerning these sites and the usage of them we suggest that you contact the webmaster of the site directly. 
+Many of our sites have affiliated websites operated by third parties. The content on these sites are not under our control. If you have any questions concerning these sites and the usage of them we suggest that you contact the webmaster of the site directly.
 
 **Security**  
 While we strive to keep the information that you supply directly or indirectly secure please be aware that the Internet is not a fully secure medium.
@@ -45,10 +47,10 @@ While we strive to keep the information that you supply directly or indirectly s
 From time to time we operate competitions and promotions. Participation in these is optional. Information submitted may be submitted to third parties, check individual competition rules. You may also be given an option to sign up for a free email newsletter, opting out of this does not disqualify you from a competition.
 
 **Usage of information**  
-If requested we may submit your information to local or government authorities.
+If requested we may submit your information to local or government authorities. 
 
-**Corrections/updates**  
-You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please email [daniel.lane@futurenet.co.uk](mailto:daniel.lane@futurenet.co.uk).
+**Corrections / updates**  
+You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please email [metalhammer@futurenet.co.uk.](mailto:metalhammer@futurenet.co.uk)
 
 **Policy changes**  
-By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page. 
+By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page.
