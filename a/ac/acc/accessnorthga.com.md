@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408085224id_/http%3A//www.accessnorthga.com/etc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205221100id_/http%3A//www.accessnorthga.com/etc/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# AccessNorthGa.com - Your Online Local Newspaper
 
 Privacy Policy
 
