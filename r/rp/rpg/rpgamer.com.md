@@ -1,26 +1,25 @@
-> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606020949id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010143316id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
 
 # RPGamer Privacy Policy
 
-[](http://www.rpgamer.com/) [ E3 2004](http://www.rpgamer.com/event/e3-2004/index.html "E3 2004 Coverage!")  
-[ Games](http://www.rpgamer.com/games/upcoming.html)  
+[](http://www.rpgamer.com/) [ Games](http://www.rpgamer.com/games/upcoming.html)  
 [ News](http://www.rpgamer.com/news/news.html)  
 [ Media](http://www.rpgamer.com/media.html)  
-[ Q&A](http://www.rpgamer.com/ask/cast/Q2-2004/aa060404.html "06.04 - Baby Back Baby Back Baby Back Ribs")  
-[ Reviews](http://www.rpgamer.com/pointsofview/updates/2004/060304.html "06.03: Alumnus Maximus")  
-[ Information](http://www.rpgamer.com/info/2004/051704.html "05.17: Another Time, Another Place")  
-[ Japandemonium](http://www.rpgamer.com/news/japan/rp052004.html "05.20 - Of Screenshots & Copyright Violation!")  
-[ Editorials](http://www.rpgamer.com/editor/ed060204.html "06.02: Splash Hop")  
-[ Fan Art](http://www.rpgamer.com/fanart/2004/fanart052504.html "05.25: Live from E3")  
-[ Themes](http://www.rpgamer.com/mc/052904.html "05.29: The Aftermath")  
-[ Music](http://www.rpgamer.com/music/2004/music040526.html "05.26: Better late than never")  
-[ Fan Fiction](http://www.rpgamer.com/fanfics/updates/fanfics060204.html "06.02: Yomigaeru")  
+[ Japandemonium](http://www.rpgamer.com/news/japan/pc092304.html "09.23 - Voice Inside Your Head")  
+[ Q&A](http://www.rpgamer.com/ask/cast/Q4-2004/aa100904.html "10.09 - Cristobal Casserole")  
+[ Reviews](http://www.rpgamer.com/pointsofview/updates/2004/101004.html "10.10: Panic Shot II")  
+[ Editorials](http://www.rpgamer.com/editor/ed100404.html "10.04: Limited Time")  
+[ Fan Art](http://www.rpgamer.com/fanart/2004/fanart091304.html "09.13: Sound the Trumpet")  
+[ Themes](http://www.rpgamer.com/mc/091404.html "09.14: Marathon Run")  
+[ Music](http://www.rpgamer.com/music/2004/music041006.html "10.06: What is Remora?")  
+[ Fan Fiction](https://web.archive.org/fanfics/updates/fanfics090904.html "09.09 - Mom & Dad")  
 [ Message Forums](http://board.rpgamer.com/)  
+[ Chat](http://www.rpgamer.com/ircfaq.html "RPGamer on IRC")  
 [ Release Dates](http://www.rpgamer.com/games/release.cgi)  
-[ Search](http://www.rpgamer.com/games/search.cgi)  
 [ Contests](http://www.rpgamer.com/contests/contests.html)  
 [ Staff Bios](http://www.rpgamer.com/bios/bios.html)  
 [ Feedback](http://www.rpgamer.com/feedback.html)  
+[ Jobs Listing](http://www.rpgamer.com/jobs/jobs.html "Currently Available Positions")  
 |  |    
 
 
