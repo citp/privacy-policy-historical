@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024134id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604211446id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.*
 
 # Legal - Privacy Statement and Consent to Use of Data
 
@@ -20,7 +20,7 @@ This Site and our business change constantly. As a result, at times it may be ne
 
 _**Welcome**_
 
-Welcome to [www.bd.com](http://www.bd.com/) (the “Site”). This Site is operated by Becton, Dickinson and Company (“BD” or “we” or “us”) and has been created to provide our customers the information, products and other initiatives developed and/or offered by BD and its subsidiaries and affiliates (collectively, the “BD Services”). You are important to BD and, as described in this Privacy Statement and Consent, we will take appropriate measures to protect your privacy as you use this Site. This Privacy Statement and Consent sets forth BD’s approach with respect to information that is collected from users of this Site. This Site is intended for users in the United States.
+Welcome to [www.bd.com](https://web.archive.org/leaving/?http://www.bd.com) (the “Site”). This Site is operated by Becton, Dickinson and Company (“BD” or “we” or “us”) and has been created to provide our customers the information, products and other initiatives developed and/or offered by BD and its subsidiaries and affiliates (collectively, the “BD Services”). You are important to BD and, as described in this Privacy Statement and Consent, we will take appropriate measures to protect your privacy as you use this Site. This Privacy Statement and Consent sets forth BD’s approach with respect to information that is collected from users of this Site. This Site is intended for users in the United States.
 
 **_Note About Children_**
 
