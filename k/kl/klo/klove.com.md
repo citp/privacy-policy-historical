@@ -1,8 +1,21 @@
-> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605160517id_/http%3A//klove.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207142148id_/http%3A//www.klove.com/privacy.asp) for the most accurate reproduction.*
 
-# Christian Music K-LOVE - Privacy Policy
+# Positive & Encouraging K-LOVE - Privacy Policy
 
-|  |  |    
+|   
+---  
+[](https://web.archive.org/music/)  
+[](https://web.archive.org/listen/)  
+[](https://web.archive.org/prayer/)  
+[](https://web.archive.org/music/cmusic.asp)  
+[](https://web.archive.org/ministry/stmin.asp)  
+[](https://web.archive.org/interact/ainteract.asp)  
+[](https://web.archive.org/news/)  
+[](https://web.archive.org/store/)  
+[](https://web.archive.org/jobs/)  
+[](https://web.archive.org/pledge/pledgefaq.asp)  
+[](https://web.archive.org/interact/sinteract.asp)  
+|  |    
   
 **Recognized for our commitment to safeguarding consumer privacy on our Web site, we operate under a strict set of privacy principles:**
 
