@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605074305id_/http%3A//www.intelligencetest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017031133id_/http%3A//www.intelligencetest.com/privacy.htm) for the most accurate reproduction.*
 
 # iq test labs - privacy policy
 
