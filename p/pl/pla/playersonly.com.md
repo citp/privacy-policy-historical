@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playersonly.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205223600id_/http%3A//playersonly.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playersonly.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604153952id_/http%3A//playersonly.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Playersonly.com Privacy Statement
 
@@ -61,9 +61,7 @@ This site gives users the following options for changing and modifying informati
 **Contacting the Web Site  
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Global Internet  
-Ave Bolivar, Centro Commercial AB  
-Nivel Attico, Oficina 1-B  
-Pampatar, Margarita Island  
+Internet Opportunity Entertainment Ltd  
+St. Johns, Antigua, West Indies  
 [privacy@playersonly.com](mailto:privacy@playersonly.com)  
 1-800-388-0456
