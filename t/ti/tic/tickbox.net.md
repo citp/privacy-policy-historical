@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickbox.net privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606213507id_/http%3A//tickbox.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickbox.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032358id_/http%3A//tickbox.net/privacy.html) for the most accurate reproduction.*
 
 # Tickbox.net - Privacy
 
@@ -16,7 +16,7 @@ Tickbox.net is a trading name of markettiers4dc Limited who is the sole owner of
 
 **Registration**
 
-In order to use this web site, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services and promotions on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender) but encouraged so we can provide a more personalised experience on our site. 
+In order to use this web site, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services and promotions on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level) but encouraged so we can provide a more personalised experience on our site. 
 
 **Log Files**
 
@@ -26,13 +26,13 @@ We use IP addresses to analyse trends, administer the site, track user’s movem
 
 We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
-We use an outside shipping companies to ship orders or prizes. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+We use outside shipping companies to ship orders or prizes. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
 On occasions we partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 **Links**
 
-This web site contains links to other sites. Please be aware that Tickbox.net is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to nformation collected by this web site.
+This web site contains links to other sites. Please be aware that Tickbox.net is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
 **Newsletter**
 
