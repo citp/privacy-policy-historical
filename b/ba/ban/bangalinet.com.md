@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangalinet.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101050100id_/http%3A//www.bangalinet.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangalinet.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402225830id_/http%3A//www.bangalinet.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Bangalinet Privacy Statement
 
@@ -10,13 +10,9 @@ Our site uses cookies to make sure you don't see the same ad repeatedly. We use 
 
 This site contains links to other sites. **www.bangalinet.com** is not responsible for the privacy practices or the content of such Web sites.
 
-(*Since you indicated that there are special relationships, such as "Powered by" partners, business partners, cobranded sites, then these relationships must be addressed in your privacy statement. These relationships need to be clearly defined and it must be clear who is receiving the information collected by the site and who has access to this information. It must be clear what type of information is shared. Is only select information shared? Is the sharing of information limited to only aggregate information?)
+Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. ** MAKE SURE that you explain the other data that you mentioned you collect here. **
-
-We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. ** MAKE SURE that you explain the other data that you mentioned you collect here. **
-
-** DON'T FORGET to include a description of the other services that you have that collect information here.
+We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
@@ -26,13 +22,13 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ## Children's Guidelines
 
-This site collects online contact information from children without prior parental consent or parental notification. The guidelines for the TRUSTe's children program are not being met by this site.
+This site collects online contact information from children without prior parental consent or parental notification. 
 
-This site collects personally identifiable offline contact information without prior parental consent. The TRUSTe Children's Guidelines are not being met by your site.
+This site collects personally identifiable offline contact information without prior parental consent. 
 
-This site gives children the ability to publicly post or distribute personally identifiable contact information without prior parental consent. The TRUSTe Children's Guidelines are not being met by your site.
+This site gives children the ability to publicly post or distribute personally identifiable contact information without prior parental consent. 
 
-We encourage children to disclose more information than is necessary to participate in a given activity. The TRUSTe Children's Guidelines are not being met by your site.
+We encourage children to disclose more information than is necessary to participate in a given activity. 
 
 ## Choice/Opt-Out
 
@@ -61,4 +57,5 @@ This site gives users the following options for changing and modifying informati
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  
-**Aditi Bajari** info@bangalinet.com
+**  
+Webmaster** info@bangalinet.com
