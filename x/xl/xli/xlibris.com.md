@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xlibris.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607140255id_/http%3A//www1.xlibris.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlibris.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031212id_/http%3A//www2.xlibris.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Xlibris.Com
 
