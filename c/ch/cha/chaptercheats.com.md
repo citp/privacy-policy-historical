@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204071324id_/http%3A//www.chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207061209id_/http%3A//www.chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
 
-# ChapterCheats - Your Cheat Code Provider
+# Privacy Statement
+
+## PRIVACY STATEMENT
 
 **Agreement:**  
 By using our website, you state that you understand the following policies and agree to abide by all rules stated. You also understand policies regarding your own personal details. 
@@ -34,4 +36,4 @@ In the course of serving advertisements to this site, our third-party advertiser
   
 Visit Adtegrity's privacy policy HERE: <http://www.adtegrity.com/privacy.asp>
 
-© 1999-2004, Chaptercheats.com
+© 1999-2005, Chaptercheats.com
