@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isc.org privacy policy that was archived on 2000-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000623232802id_/http%3A//www.isc.org/ISC/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isc.org privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210170400id_/http%3A//isc.org/ISC/privacy-statement.html) for the most accurate reproduction.*
 
 # Internet Software Consortium - About the ISC
 
