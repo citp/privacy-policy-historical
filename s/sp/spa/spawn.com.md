@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2002-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021023040650id_/http%3A//www.spawn.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604142049id_/http%3A//spawn.com/info/privacy.aspx) for the most accurate reproduction.*
 
-# SPAWN.COM
+# SPAWN.COM >> INFO >> PRIVACY POLICY
 
   
 PRIVACY POLICY
