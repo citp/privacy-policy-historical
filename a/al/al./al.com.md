@@ -1,27 +1,77 @@
-> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2001-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010609171723id_/http%3A//al.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602113459id_/http%3A//al.com/privacypolicy) for the most accurate reproduction.*
 
-# Alabama Live: Privacy Policy
+# al.com: Privacy Policy
 
-[ ](https://web.archive.org/) |  |  [](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.al.com/policy/index.html//20010609131726/923227627/BannerTop/ALABAMALIVE/AV_PCFLOW_AL01/al_slot13.gif/64306439366438663362323235613230)  
   
-[](https://web.archive.org/aboutus/)
+  
+  
+**Privacy Policy**
 
-**Alabama Live Privacy Policy**
+Last Revised **December 11, 2001**
 
-The **Alabama Live** Web site is maintained by **Alabama Live, LLC, 4975 Bradford Drive, Suite 600, Huntsville, AL 35805**. We can be reached by e-mail at [**webmaster@al.com**](mailto:webmaster@al.com).
+Kids and parents click here!
 
-**HOW ALABAMA LIVE USES INFORMATION PROVIDED BY YOU** : This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information may be used by **Alabama Live** and its affiliates for editorial purposes. **Alabama Live** may also use such information for marketing and promotional purposes. We may share your personally identifiable information with other companies with which it conducts business. For example, if you enter our contests, make a purchase or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. Or if you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While **Alabama Live** will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, **Alabama Live** does not bear any responsibility for any actions or policies of any third parties.
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/useragreement/). Your use of al.com constitutes agreement to its terms and conditions.
 
-**Except for purposes outlined above, we do not provide, sell or lease your personally identifiable information to any third parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what is done with your information on any part of Alabama Live, please e-mail us at[webmaster@al.com](mailto:webmaster@al.com), _before_ submitting any information.**
+al.com is produced by al.com, LLC. This policy does not cover information collected on sites linked to from al.com.
 
-We also collect anonymous, aggregated data and provide it to our advertisers and other companies that we do business with for market research and statistical purposes. For example, we might report to our advertisers that a certain percentage of users are between the ages of 30-35.
+This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of al.com by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-Finally, you should be aware that when you voluntarily disclose personally identifiable information (e.g., first and last name, address, e-mail address, etc.) on the forums or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties.
+It is the goal of al.com to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
 
-**COOKIES** : **Alabama Live** may place a "cookie" in the browser files of **Alabama Live** user's computer. The cookie may contain personally identifiable information. Cookies enable **Alabama Live** to serve information that you have requested, or that relate to your use of **Alabama Live** to information that you have specifically and knowingly provided to **Alabama Live**. You also may occasionally get cookies from our advertisers. **Alabama Live** does not control these cookies and these cookies are not subject to this policy. The use of advertising cookies sent by third-party servers is common in the Internet industry. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some portions of **Alabama Live** will not function properly if you do so. For further information on cookies and their use, see the help instructions delivered with your browser or contact the browser's manufacturer. **Alabama Live** cannot provide help regarding your browser's cookie settings.
+**THE TYPE OF INFORMATION al.com COLLECTS**
 
-**CHILDREN: Be sure to ask your parents for permission before you send any information about yourself (your name, address, e-mail address, etc.) to us or anyone else over the Internet, and before making any purchases online.**
+al.com generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our newspapers, or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
 
-**PARENTS** : We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifiable information collected by **Alabama Live** from children (that we are aware are children) will be used only for **Alabama Live** internal purposes such as market research, sweepstakes fulfillment and for fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to other companies which we do business with, for statistical and market research purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various forums, or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
+**HOW al.com USES INFORMATION PROVIDED BY YOU**
 
-Again, if you have any concerns regarding your child's or your use of **Alabama Live** , please contact us at [**webmaster@al.com**](mailto:webmaster@al.com). 
+al.com uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
+
+al.com does not sell any of our users' personal information. Unless otherwise specified, we may, however, share information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us by [clicking here](https://web.archive.org/contactus/). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of al.com, you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
+
+We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While al.com will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, al.com does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
+
+**COOKIES**
+
+You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of al.com, you can opt to save your user name and password on your computer. We can provide this convenience by placing a cookie on your computer.
+
+Our cookies may contain personally identifiable information and such cookies may be shared with our affiliated companies. 
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
+
+If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of al.com may not function properly.
+
+While your individual information is protected as outlined above, we reserve the right to use aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
+
+**IP ADDRESS**
+
+Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our website.
+
+**KIDS AND PARENTS**
+
+al.com is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
+
+If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+
+If you're worried about your children's activities or their privacy on our site, we encourage you to [e-mail our Privacy Policy Coordinator](https://web.archive.org/contactus/).
+
+If you have other concerns or questions about any aspect of this policy, you may also [e-mail our Privacy Policy Coordinator](https://web.archive.org/contactus/). We welcome your feedback. You can also send us regular mail at the following address: 
+
+Privacy Policy Coordinator  
+al.com  
+4975 Bradford Drive Suite 600  
+Huntsville AL, 35805 
+
+|  |    
+INSIDE  
+[**About Us**](https://web.archive.org/aboutus/)  
+» [Media Kit](https://web.archive.org/mediakit/)  
+» [Job Opportunities](https://web.archive.org/aboutus/?employment.html)  
+» [Our Affiliates](https://web.archive.org/affiliates/)  
+  
+[](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
+  
+[](http://ads4.advance.net//RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/2122263581/Tile1/default/empty.gif/34323163666161633363666130326530)   
+[](http://ads4.advance.net//RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/28547427/Tile2/default/empty.gif/34323163666161633363666130326530)   
+  
+
